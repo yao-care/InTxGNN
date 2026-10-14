@@ -1,10 +1,22 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-10-13T21:59:47.121646+00:00",
+  "fetched_at": "2026-10-14T02:16:59.659315+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 90,
+  "health_related_count": 87,
   "news": [
+    {
+      "id": "33586eefedcc",
+      "title": "Advances in science in 2026 humanity enters a new era of discovery - Daily Excelsior",
+      "published": "2026-10-13T22:30:38+00:00",
+      "summary": "Advances in science in 2026 humanity enters a new era of discovery&nbsp;&nbsp;Daily Excelsior",
+      "sources": [
+        {
+          "name": "Daily Excelsior",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRm1UZVZyV2tRREsxNDMzOE9yX2lSckZnd2FTaEN1NFptWEFsMnpwanJvTTc4WER4dWs2RFlFc2NTVXNVai1xNjdHbE9tUlo5VElpcmUxaEhZVFFzRHdHa0V4MFUyblpYOG5HZUN1Z2xwa0ZZVVhSNTlmZm43Mm9kMUxnVVkydUV5a3ZrNzVYRDg3RWwyZnNJU29qR2o3bVnSAaMBQVVfeXFMTngxNUhFNWxLWWx4YWtBaWZUUHg0R1dhSHRUVWUyMXpDb0Rmc2VzVnFNanlobkNqdGkySnhfY0hYY21BUGhCREJ2ZjRKUjMxSmctaWdEeVd5dVp2RDdEeXZJMEc3ZkdNc0x5RW5PRWJiNlo4VVdWRWZ2SnhfWll4aWpiOTRPN1U4dFktYng4VTFDcGdlQ18zc3BuUmxmRV9DMlVXYw?oc=5"
+        }
+      ]
+    },
     {
       "id": "44043f2cca5d",
       "title": "New method helps researchers study proteins involved in plant health, disease - Phys.org",
@@ -18,9 +30,33 @@
       ]
     },
     {
+      "id": "13138c001852",
+      "title": "Noncirrhotic Portal Hypertension and Diagnostic Pitfalls in Severe Polycystic Liver Disease: A Case Report - Cureus",
+      "published": "2026-10-13T20:44:36+00:00",
+      "summary": "Noncirrhotic Portal Hypertension and Diagnostic Pitfalls in Severe Polycystic Liver Disease: A Case Report&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUjdubUdfY3hVQnFRLUpQRUZqREw5X1htbFBnbFBwR0tKWldZMXcwY1MzeFBxMmhhLWtuS0p3UnVyY0FfWDREME42VlhMcVZzZF96aW9CVHVTNG9iUnI5RnJHMGoxWEFrRWZmUnNKdUdPTGZJZV9EY3Q5QVRJYk00ZHJ0bzVXeGl5QU1vZWtWSnJaT1FvSU1aMDFhRlAyNThuVkI1aEUtUGFUcU8yWHpYV2UyUW84SzNEc3lKWFlIM1h6d1puZlotcUpKRjZFUGpjZG9veXhrbjBQNDlX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4868cbb8603",
+      "title": "New carbon calculator helps research labs pinpoint emissions and target reductions - Phys.org",
+      "published": "2026-10-13T20:00:07+00:00",
+      "summary": "New carbon calculator helps research labs pinpoint emissions and target reductions&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45dzltSXpGZHo0eUhqMFQyRzZaNDYxOWxxTVF4VzNDZ051am4xTEZUOFNBUTdxME8wd3E3RTY5NG5zRWUzMUN2ZXJaWUNJUlZPVE5mQk5pU2htS0lfUEV1RHBOVzFRVXgyWmttRW5fWlFGT3hNZVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "07ebed2b2694",
       "title": "AI on par with radiologists for finding prostate cancer on MRI - AuntMinnie",
-      "published": "2026-10-13T19:52:30+00:00",
+      "published": "2026-10-13T19:56:53+00:00",
       "summary": "AI on par with radiologists for finding prostate cancer on MRI&nbsp;&nbsp;AuntMinnieMRI Study Shows AI Could Help Avoid Prostate Biopsies&nbsp;&nbsp;Imaging Technology NewsAI Fuses PET and MRI Scans to Predict Prostate Cancer Aggressiveness Before Surgery&nbsp;&nbsp;Bioengineer.orgRadNet’s AI Tool Could Help Nearly Twenty Percent of Patients Avoid Prostate Biopsies&nbsp;&nbsp;The Indian PractitionerAI tool DeepHealth could cut prostate biopsies by 18.9% while detecting 98.4% of significant cance",
       "sources": [
         {
@@ -42,22 +78,10 @@
       ]
     },
     {
-      "id": "13138c001852",
-      "title": "Noncirrhotic Portal Hypertension and Diagnostic Pitfalls in Severe Polycystic Liver Disease: A Case Report - Cureus",
-      "published": "2026-10-13T19:40:11+00:00",
-      "summary": "Noncirrhotic Portal Hypertension and Diagnostic Pitfalls in Severe Polycystic Liver Disease: A Case Report&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUjdubUdfY3hVQnFRLUpQRUZqREw5X1htbFBnbFBwR0tKWldZMXcwY1MzeFBxMmhhLWtuS0p3UnVyY0FfWDREME42VlhMcVZzZF96aW9CVHVTNG9iUnI5RnJHMGoxWEFrRWZmUnNKdUdPTGZJZV9EY3Q5QVRJYk00ZHJ0bzVXeGl5QU1vZWtWSnJaT1FvSU1aMDFhRlAyNThuVkI1aEUtUGFUcU8yWHpYV2UyUW84SzNEc3lKWFlIM1h6d1puZlotcUpKRjZFUGpjZG9veXhrbjBQNDlX?oc=5"
-        }
-      ]
-    },
-    {
       "id": "18d7cc729485",
       "title": "GMRT detects hydrogen signal from galaxies 8 billion years ago - The Times of India",
       "published": "2026-10-13T19:37:00+00:00",
-      "summary": "GMRT detects hydrogen signal from galaxies 8 billion years ago&nbsp;&nbsp;The Times of IndiaA faint glow from the early universe could help solve the mystery of dark energy&nbsp;&nbsp;SpaceInsights & Outcomes CHIME time, AI transparency in research, ‘Evolution’ on PBS, and faculty honors&nbsp;&nbsp;YaleNewsCanadian telescope directly maps earliest glow of hydrogen, opening a new window on the universe&nbsp;&nbsp;MIT PhysicsA 9-billion-year-old signal could help explain dark energy&nbsp;&nbsp;Sci",
+      "summary": "GMRT detects hydrogen signal from galaxies 8 billion years ago&nbsp;&nbsp;The Times of IndiaA faint glow from the early universe could help solve the mystery of dark energy&nbsp;&nbsp;SpaceInsights & Outcomes CHIME time, AI transparency in research, ‘Evolution’ on PBS, and faculty honors&nbsp;&nbsp;YaleNewsCanadian telescope directly maps earliest glow of hydrogen, opening a new window on the universe&nbsp;&nbsp;MIT PhysicsASU researchers help unlock a new window into the universe&nbsp;&nbsp;ASU",
       "sources": [
         {
           "name": "The Times of India",
@@ -69,7 +93,7 @@
       "id": "6d473f2fd993",
       "title": "Hybrid AI architecture improves seizure prediction using EEG signals - News-Medical",
       "published": "2026-10-13T19:11:00+00:00",
-      "summary": "Hybrid AI architecture improves seizure prediction using EEG signals&nbsp;&nbsp;News-MedicalAI platform allows real-time conversation between patients and their medical devices&nbsp;&nbsp;Penn MedicineAI searches for a better, lightweight network to predict epileptic seizures&nbsp;&nbsp;EurekAlert!Real-Time Epilepsy Monitoring Improves Seizure Detection&nbsp;&nbsp;Mirage NewsHuman–artificial intelligence collaboration for comanaging epilepsy in real time&nbsp;&nbsp;Nature",
+      "summary": "Hybrid AI architecture improves seizure prediction using EEG signals&nbsp;&nbsp;News-MedicalHuman–artificial intelligence collaboration for comanaging epilepsy in real time&nbsp;&nbsp;NatureAI searches for a better, lightweight network to predict epileptic seizures&nbsp;&nbsp;EurekAlert!AI platform allows real-time conversation between patients and their medical devices&nbsp;&nbsp;Penn MedicinePatients engage with epilepsy monitor in real time, improving seizure detection&nbsp;&nbsp;Medical Xpre",
       "sources": [
         {
           "name": "News-Medical",
@@ -110,6 +134,18 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2RrcWJlb29YSUNOLThvc19NcGxObm0tMlY0OVUxek1iNExzQ0FkQW1pSVo2QS1ZRkpLakkyT1VOQXdrM1NPazdHbnlsYzE1SVBpQUFuUENkVVpnLU1YcEFjQXhJaU5lN1BOVnlPVDRZQXJTV2R6MlFrcGhGZVU5Y1JISG5qaTFoSy00Z0NveS1wbmVkcHZ5Q2hvN0FXYzhpRkZGQnhHNTZWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ae1a3fe37bd",
+      "title": "Mosquito-based malaria control through genetic, microbial and immunological innovations - Nature",
+      "published": "2026-10-13T18:22:53+00:00",
+      "summary": "Mosquito-based malaria control through genetic, microbial and immunological innovations&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OWm01MElObmtVSDRITzhTT09vSHYwRWdSeU1LQzlvbUhuTUxVTjBPSVJiOWhSZ0ctQkV1dmx3YTAwbUtPMUttaURFS2pXUUpNb3gtc2FoaFVtR2ZFSGFZ?oc=5"
         }
       ]
     },
@@ -198,18 +234,6 @@
       ]
     },
     {
-      "id": "31f2920adb38",
-      "title": "How strong relationships contribute to a happier, healthier life | Here & Now - WBUR",
-      "published": "2026-10-13T16:13:37+00:00",
-      "summary": "How strong relationships contribute to a happier, healthier life | Here & Now&nbsp;&nbsp;WBURI work hard to stay close to my friends. A researcher says it’s good for my well-being—and these 3 habits can help&nbsp;&nbsp;CNBCWhy we need friends, according to a WashU psychologist&nbsp;&nbsp;WashUBe mindful, listen, empathise: Is modern life killing our mental health? New findings reveal alarming trut&nbsp;&nbsp;The Economic TimesHow having strong social connections can boost your physical, mental h",
-      "sources": [
-        {
-          "name": "WBUR",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MakZqSmQ4QU94NjZuSkVYSW1pUktsTVNEY2Q5UEdQX1F2TkxqN3RTNzlNTklFNXNmQmFtMThoOUVqeUFBWXp3RDdWRkE3TGc4a3QxLXkwY2FPMFkxUjFtVlhkT3Utcy04RkpMWmF0czlPM1MzY3pOMDFfY2w?oc=5"
-        }
-      ]
-    },
-    {
       "id": "963f8a4ea43a",
       "title": "Isolation, Characterization, and Host-Range Evaluation of Bacteriophages Against Multidrug-Resistant Escherichia coli Clinical Isolates - Cureus",
       "published": "2026-10-13T16:09:36+00:00",
@@ -225,7 +249,7 @@
       "id": "91875d459dcc",
       "title": "Olive Oil Before Carbohydrate Consumption Mitigates Rapid Rise in Blood Sugar - Labroots",
       "published": "2026-10-13T16:00:00+00:00",
-      "summary": "Olive Oil Before Carbohydrate Consumption Mitigates Rapid Rise in Blood Sugar&nbsp;&nbsp;LabrootsEating only 15-ml olive oil before having carbs can have a positive impact on blood sugar spike, in an experiment on mice scientists are tracing the effect to a combination of digestive hormones and nerve signals&nbsp;&nbsp;The Times of IndiaStudy Reveals How Eating Olive Oil Before Carbohydrates Affects Blood Sugar&nbsp;&nbsp;Medical DialoguesThis Common Kitchen Staple May Do Something Surprising Be",
+      "summary": "Olive Oil Before Carbohydrate Consumption Mitigates Rapid Rise in Blood Sugar&nbsp;&nbsp;LabrootsEating only 15-ml olive oil before having carbs can have a positive impact on blood sugar spike, in an experiment on mice scientists are tracing the effect to a combination of digestive hormones and nerve signals&nbsp;&nbsp;The Times of IndiaStudy Reveals How Eating Olive Oil Before Carbohydrates Affects Blood Sugar&nbsp;&nbsp;Medical DialoguesOlive oil could have a surprising superpower, new researc",
       "sources": [
         {
           "name": "Labroots",
@@ -249,7 +273,7 @@
       "id": "fe419dca48ff",
       "title": "Meningococcal Disease: Recognition, Treatment, Prevention - Medscape",
       "published": "2026-10-13T14:45:17+00:00",
-      "summary": "Meningococcal Disease: Recognition, Treatment, Prevention&nbsp;&nbsp;MedscapeMeningococcal Disease: 5 Prevention Strategies to Know&nbsp;&nbsp;MedscapeThe Silent Threat to the Membranes of the Brain&nbsp;&nbsp;Kompas.idWhat to look out for with meningitis and impacts of disease&nbsp;&nbsp;ABC30 Fresno",
+      "summary": "Meningococcal Disease: Recognition, Treatment, Prevention&nbsp;&nbsp;MedscapeMeningococcal Disease: 5 Prevention Strategies to Know&nbsp;&nbsp;MedscapeWhat to look out for with meningitis and impacts of disease&nbsp;&nbsp;ABC30 Fresno",
       "sources": [
         {
           "name": "Medscape",
@@ -285,7 +309,7 @@
       "id": "6bac8b99497b",
       "title": "JWST discovers the first shifting water clouds on a planet outside of our solar system - The Brighter Side of News",
       "published": "2026-10-13T14:07:00+00:00",
-      "summary": "JWST discovers the first shifting water clouds on a planet outside of our solar system&nbsp;&nbsp;The Brighter Side of NewsDiscovery marks the first detection of variable water clouds outside of the solar system&nbsp;&nbsp;Phys.orgScientists Decode the Unusual Weather of a Planet 20 Light-Years From Earth&nbsp;&nbsp;SciTechDailyJames Webb Spent 11 Hours Watching One of the Coldest Known Worlds and Found Weather Scientists Can Now Track&nbsp;&nbsp;The Daily GalaxyEarth-like weather found on a wor",
+      "summary": "JWST discovers the first shifting water clouds on a planet outside of our solar system&nbsp;&nbsp;The Brighter Side of NewsScientists Decode the Unusual Weather of a Planet 20 Light-Years From Earth&nbsp;&nbsp;SciTechDailyJames Webb Spent 11 Hours Watching One of the Coldest Known Worlds and Found Weather Scientists Can Now Track&nbsp;&nbsp;The Daily GalaxyEarth-like weather found on a world outside our solar system | The study was published in Astrophysical Journal | Inshorts&nbsp;&nbsp;Inshort",
       "sources": [
         {
           "name": "The Brighter Side of News",
@@ -345,23 +369,11 @@
       "id": "d5d85469b229",
       "title": "Eating Late At Night? New Study Warns It Could Trigger Fatty Liver Disease - NDTV",
       "published": "2026-10-13T12:55:21+00:00",
-      "summary": "Eating Late At Night? New Study Warns It Could Trigger Fatty Liver Disease&nbsp;&nbsp;NDTVLate-night snacking can increase risk of fatty liver disease, says new US study&nbsp;&nbsp;ThePrint​Eating just before bed? Late-night snacking might be raising your risk of fatty liver disease, study warns​&nbsp;&nbsp;The Times of IndiaThe common eating habit that could be silently damaging your liver&nbsp;&nbsp;Female FirstAchyut Saroj: What New Science Tells Us About Late-Night Snacking and Liver Health?",
+      "summary": "Eating Late At Night? New Study Warns It Could Trigger Fatty Liver Disease&nbsp;&nbsp;NDTVLate-night snacking can increase risk of fatty liver disease, says new US study&nbsp;&nbsp;ThePrintLate-night eating may be bad for your liver, study suggests&nbsp;&nbsp;OHSU NewsThe common eating habit that could be silently damaging your liver&nbsp;&nbsp;Female FirstAchyut Saroj: What New Science Tells Us About Late-Night Snacking and Liver Health?&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHp6SmNWTkg1ZG9GbEZydHBRYm9RcFRRSFRRZ2tCLXQwN05aNl8wSEFYaVV0Z0hRWllVRWZlZUFxdDVEekExaTFkWGxGV0ZEcDNpcWtlSHlrZS1Fd0ROekpzellVbjZ4QzFURjQteVd6MTB1N1EycnB0MEFHbjRTeXFkYVBzcGxrOXNhWU1mMUppUi1WUWVHbVlvcnY5dExNX3ZraW83alcwQ0ZnS2tn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6979b95570d3",
-      "title": "How Does One Cell Build A Body? We're Starting To Get Answers From Mouse Embryos - IFLScience",
-      "published": "2026-10-13T12:09:41+00:00",
-      "summary": "How Does One Cell Build A Body? We're Starting To Get Answers From Mouse Embryos&nbsp;&nbsp;IFLScienceScientists Create Largest Cellular ‘Family Tree’&nbsp;&nbsp;LabcompareDNA 'flight recorder' traces embryonic development cell by cell&nbsp;&nbsp;Phys.orgScientists create cell lineage maps of mouse embryos — Science News&nbsp;&nbsp;UA.NEWSEvery cell has a past. This ‘DNA Typewriter’ could help reveal it&nbsp;&nbsp;Tech Explorist",
-      "sources": [
-        {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmhVZFNEbm1Ed054dVAzV3FGbVg0WUpRT1R1VGhNSlBTd2c3MWJ4OFpVUnpvNGE5N1UtZHQ5eWFndGpVUVBqMUZhMEdlTG16d3BUcFJTbFFsLXhLSWFyXzM1dTctZl85TmRLcDdlTDhZMVhwODhCcFJvN2FST1J0Z2NBQzNGNVVPQzB6S3dsTC1BMU9USlU3U3QzcmRSeTdqVE03NmNFcjNqRlVRLWdnSg?oc=5"
         }
       ]
     },
@@ -453,7 +465,7 @@
       "id": "c91f0ebc9e59",
       "title": "43% of women with autoimmune diseases are told they have psychiatric issues - ThePrint",
       "published": "2026-10-13T09:55:30+00:00",
-      "summary": "43% of women with autoimmune diseases are told they have psychiatric issues&nbsp;&nbsp;ThePrintWomen ‘more likely to be told autoimmune conditions are psychological’&nbsp;&nbsp;The GuardianProgrammes&nbsp;&nbsp;BBCWomen Wait Longer for Autoimmune Disease Diagnosis Due to Gender Bias - News and Statistics&nbsp;&nbsp;IndexBoxDoctors more likely to tell women health concerns are ‘in their head’&nbsp;&nbsp;The Telegraph",
+      "summary": "43% of women with autoimmune diseases are told they have psychiatric issues&nbsp;&nbsp;ThePrintWomen ‘more likely to be told autoimmune conditions are psychological’&nbsp;&nbsp;The GuardianWomen with autoimmune diseases face longer waits and more misdiagnoses than men&nbsp;&nbsp;Euronews.comProgrammes&nbsp;&nbsp;BBCWomen With Autoimmune Conditions Are More Likely to Be Misdiagnosed and Face Delays in Diagnosis&nbsp;&nbsp;Everyday Health",
       "sources": [
         {
           "name": "ThePrint",
@@ -465,35 +477,11 @@
       "id": "6d245097c427",
       "title": "Breast Cancer Surgeon Explains Why Men Must Stop Ignoring Warning Signs Of The Disease - ETV Bharat",
       "published": "2026-10-13T09:52:50+00:00",
-      "summary": "Breast Cancer Surgeon Explains Why Men Must Stop Ignoring Warning Signs Of The Disease&nbsp;&nbsp;ETV BharatThousands of men are diagnosed each year as Amarillo patient shares his stage 4 fight&nbsp;&nbsp;KVIIEpping Fire Department spreads awareness about breast cancer in men&nbsp;&nbsp;WMURVideo Some men getting diagnosed late with breast cancer, report finds&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos‘It never occurred to me that a man could get breast cancer’&nbsp;&nbsp;News24",
+      "summary": "Breast Cancer Surgeon Explains Why Men Must Stop Ignoring Warning Signs Of The Disease&nbsp;&nbsp;ETV BharatThousands of men are diagnosed each year as Amarillo patient shares his stage 4 fight&nbsp;&nbsp;KVIIEpping Fire Department spreads awareness about breast cancer in men&nbsp;&nbsp;WMURPennsylvania Health Department Highlights Breast Cancer in Men&nbsp;&nbsp;Franklin County Free PressVideo Some men getting diagnosed late with breast cancer, report finds&nbsp;&nbsp;ABC News - Breaking News, ",
       "sources": [
         {
           "name": "ETV Bharat",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzV2RkVKQXpmQ05mWlJQS01GY2VsaVFMTVkzd3RxZ1hkQlZPVDZ0SUVsMlVRZnhSVUdSaGRPM3BYWDhmdnJDLVRNcnhOLXE3dmtQSDNJdDJCbGE0MWNwbnBDQTAyaWlnOUpIclZkam4xbG5tWDVpaDRmWElCbWE4ZVlaUFZyaWtfZjNGUHlSQWczY1lvODViUC14aGLSAaIBQVVfeXFMTURHUHdyTHUwWGRLSG5vclpybUs5UVl0TlBOWTRoZTlteG9KbUhnU1JCemtoNTFMMUxzaEdxbmFJY3dOMFR6S0RTcUoyY0RuWFFTalpWc2tyZ2RXZUVLVS1BR1J5Rmxpd1FWcFlYUnpnLUtfSmUxdGhzNFl0SmEyb1M3a3JqRDlfR0FoMzI4SjFNYmJkSkdfbm5qbV92bGNJTzdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a47f0caa43e9",
-      "title": "A study reveals that glucose monitors may protect the kidneys from early damage caused by Diabetes - The Times of India",
-      "published": "2026-10-13T09:48:00+00:00",
-      "summary": "A study reveals that glucose monitors may protect the kidneys from early damage caused by Diabetes&nbsp;&nbsp;The Times of IndiaResearchers followed glucose monitor users for three years and found a possible kidney benefit&nbsp;&nbsp;News-MedicalOpinion: Expand access for Continuous Glucose Monitoring&nbsp;&nbsp;Concord MonitorThousands of Kiwis could live longer with continuous glucose monitoring - study&nbsp;&nbsp;RNZBenefits From Continuous Glucose Monitoring&nbsp;&nbsp;WBFF",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONjA3Wkk3TnUydkJ3YW5iNmxTZWRpUUhjNUR3c29qZ01IZENaQjFNSEZOMFNCbTIwLUdmekFhUi1kbjkwaWliNmgzcWYwZXJmUUZfTmFrNi1HYkZMNVlYVHdzSlc3NndpNWQ2UFBIR2ZHeU1oOElFd1JURDdjS2VJbExNbklsU09QdnNzLVpHcC1kVEMwcmZMXzN0QTZ0YUJJVE5IM3h4RUhiVk0yeTlTVUtZZW0zLWp0MFRfbWs0ZTRsRjVyeDZ1MHR0MkxUaUcyNTdUc3ZFN2RuZmJKdWQ0TDN1TE1lOUJGZzA2cGJXS2c0T3ZjdWdkWkpZXzVqaEdkd3IwNUx4b9IBjAJBVV95cUxPZ25BWjFQdnNLRVRsazhPbzh3bVhQWktMbkFvZlhQMmRLejYxUVJyQ0dEcWZLU3pjUUFLM0VsZEhDMUhxR21xQmJ4S2l2VHRRQTBkNzNoUy0yWHhCTDJLcEhlbWctVHdsdGt1UTg3SnpWNDdrQzhpM01zUzAwU0ZSUkFrdzlvN183ckstbmtXMmxMRExGenlMYkRRYmlBYTBpR1U3NFFpZTFZVG5MYTBvRHpBMzBrdzNLVnVHUHc1Nzl6M3lWMElMeURyVjdLaTdQaU5WRkdYRkY0Y1BGWTZwQmN3aXVRZlFqMmtiVjFwX19UWmNxeGhaT1FxR0Q1UXFRTjVKSWpaQk5zSTI3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a94324cdd234",
-      "title": "Metastatic breast cancer awareness day 2026: All you need to know - India Today",
-      "published": "2026-10-13T08:57:32+00:00",
-      "summary": "Metastatic breast cancer awareness day 2026: All you need to know&nbsp;&nbsp;India TodayLocal landmarks will glow teal green and pink Tuesday for MBC awareness&nbsp;&nbsp;RiverheadLOCALMetastatic Breast Cancer: An NP and a Nurse-Patient on Hope and Honesty&nbsp;&nbsp;Oncology Nursing NewsWinter Garden residents to host Metastatic Breast Cancer Awareness Day&nbsp;&nbsp;West Orange Times ObserverBringing awareness to breast cancer and metastatic breast cancer&nbsp;&nbsp;Daily Advocate",
-      "sources": [
-        {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSnVxaHVZdTk4akUweFpfWnpmLUJmRDRzQldHcXFMM2NfcnFBUXQ1SWtxMV9iSXdzMnllUllIekhGbFphT2FSV2xfN1E4bVNnUkxrRnhfNkwwUThmWVVOQkpFenM5elFLOGNzRjhBUzNBMmJieWZCdDJMWlBfNExjcnFzZUdPVXVqdUFDM3VHOFpCcXZUWW4xRzFXWGVZWThBcWx5NktOMEczUThfRWtvVVVIQWh0ZVVubnRxNGkzNNIBxAFBVV95cUxPamMzRGpqc0dlWFF2cnA5a3NjSlRaV3dMNHdLRjFiakJGOUlZN0V3cGlpTmdTV2RnRjFkTjlXUXJ6TEJPSU1MTzFjTXpaTi02YTNrd0VtbWpRRC0yazFRVzdUOC0yM0g2ejF6WlZHLTYtMkd5bW9vaUJfRFpHbDBSQUU3ejN3RG44VmlaQV9qOFFtWTJPckI1U2VCUDZLWUt0UFNibUhXUGtyVDBRbERJR3Q0ZkhSMUhXUzNVRC1fZzQ3S1RJ?oc=5"
         }
       ]
     },
@@ -518,18 +506,6 @@
         {
           "name": "News18",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdHE0c0d4M1FuaktuVjcxVkR2amNidnItd3Jsbm02OHM3VWhGanhRUkdaU3FjYTBwT25LRG9rZDJqdmlTdm9PeVJoZjRDMDB0dXdiU2FRSTM1dTlBOE5nam1xQXRzaHVLR2lST1dLN2hZS1lTUkVQUWtFWXZQZ2VlTUVDdE1UVnZsaUUwXzA4STdOaEIzaXBhM2M3bXpla0h3MjFzdlBRX2FsdTNJSjhOWm1PNm5uYVFjWXJJMHJfZUdSTXR1MGhjSWVVcDlsRkE3SW1LZl9fTGpFdFFJY0F4TVZaQU02d9IB6wFBVV95cUxQaThpdmlyV0lLZUh5NklKU0pGOUFmN0syUDdMWmVYclBLQ2phTlJ5eHg0bU13TWJiRElfeUIzVnE2TXFrM0NRWUlGU3hnOTMxM1Z5Nm1XMjFkTW9RNGhYMGp4WkItYXI0Tl82S1oycU10N0FIZXotQ1o2TmZRZjdTV1J2bERrbU1EVk9tOTZhbFJEbm5wUTVNNWhLYUZMbU5FRUtJTzlOSjY5RkMwNUVMYVdCZ3Rpc2VlZlcwYkwzMThpNzJyTGxSRlhNQmRiWTdIWVkwVEw4a3luRG1ZTFpiOWs3d0NuYUJ2ZVk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f30672de5914",
-      "title": "OIST Researchers Move Diamond With Quantum Spin Force - Quantum Zeitgeist",
-      "published": "2026-10-13T08:22:23+00:00",
-      "summary": "OIST Researchers Move Diamond With Quantum Spin Force&nbsp;&nbsp;Quantum ZeitgeistFirst observation of quantum spins shifting a centimeter-scale object in the lab&nbsp;&nbsp;Phys.orgIn Japan, quantum spins shifted a 128-milligram object — ScienceAlert&nbsp;&nbsp;UA.NEWSFor The First Time Ever, Quantum Spins Shift a Centimeter-Scale Object&nbsp;&nbsp;ScienceAlert“We Can Finally Observe Schrödinger's Cat in Real Life”: Breakthrough Uses Quantum Spin to Move a Levitating Diamond&nbsp;&nbsp;The Debr",
-      "sources": [
-        {
-          "name": "Quantum Zeitgeist",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tRWdBRF9ZX0pFREdEY2pHMTluS1lkdmR4bEdhQ2w1MGV0VDcxTkZHcXQzcWlBb0lNR0cwcXdsZG9vZGhLRU9ZaVE5c1FHQWpUWU9BalZ6ZzVuYTNnZk4zTTA4VEJYQ1FabEE?oc=5"
         }
       ]
     },
@@ -573,7 +549,7 @@
       "id": "0bbf08d984f0",
       "title": "Major Study Finds Abrupt Changes in Bone, Liver, and Blood Fat Health at Menopause - Medical Dialogues",
       "published": "2026-10-13T03:00:59+00:00",
-      "summary": "Major Study Finds Abrupt Changes in Bone, Liver, and Blood Fat Health at Menopause&nbsp;&nbsp;Medical DialoguesPopulation-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period&nbsp;&nbsp;NatureBones, Liver, And Blood Fats All Shift Abruptly at Menopause, Huge Study Finds&nbsp;&nbsp;ScienceAlertWhat happens to the body during menopause? New research hints at a biological ‘cliff’&nbsp;&nbsp;Scientific AmericanMenopause is not a slow change. It is an",
+      "summary": "Major Study Finds Abrupt Changes in Bone, Liver, and Blood Fat Health at Menopause&nbsp;&nbsp;Medical DialoguesPopulation-scale reconstruction of menopause dynamics reveals a physiological cliff at the final menstrual period&nbsp;&nbsp;NatureWhat happens to the body during menopause? New research hints at a biological ‘cliff’&nbsp;&nbsp;Scientific AmericanMenopause is not a slow change. It is an abrupt physiological transition, finds study&nbsp;&nbsp;ThePrintMenopause is marked by a body-wide ph",
       "sources": [
         {
           "name": "Medical Dialogues",
@@ -602,18 +578,6 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa04zQ2NQODZWMDBrdXFVN0tLbVVwcXJjaHdnWmNUZWN1V3U1d2s0TWlzUTVzME1RUkR2VUx1Tk9aR3ZJckdIekhIN3ZxRW44Q3dJcUpIZ1ZfQVR2WVdjdXMxMGl6UzhwcFFjZlFYNWxmdVM2NnZOOWtwVHpEMVo3TWJ4bGtLeUdBXzFMTGg2eDJyUURkcFVJRmJTOWJPNnZEM05teGFGeUZJS28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4868cbb8603",
-      "title": "New carbon calculator helps research labs pinpoint emissions and target reductions - Phys.org",
-      "published": "2026-10-13T00:00:47+00:00",
-      "summary": "New carbon calculator helps research labs pinpoint emissions and target reductions&nbsp;&nbsp;Phys.org",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45dzltSXpGZHo0eUhqMFQyRzZaNDYxOWxxTVF4VzNDZ051am4xTEZUOFNBUTdxME8wd3E3RTY5NG5zRWUzMUN2ZXJaWUNJUlZPVE5mQk5pU2htS0lfUEV1RHBOVzFRVXgyWmttRW5fWlFGT3hNZVE?oc=5"
         }
       ]
     },
@@ -654,30 +618,6 @@
       ]
     },
     {
-      "id": "3da5e8d25298",
-      "title": "Scientists find a hidden problem with endless smartphone scrolling - Science Daily",
-      "published": "2026-10-12T22:27:23+00:00",
-      "summary": "Scientists find a hidden problem with endless smartphone scrolling&nbsp;&nbsp;Science DailyResearch has shown that the real reason why you can't let go of your smartphone is not just the 'tim..&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JTDE4YW5MY2RlZjBLa2s3WFUtZ1VJZnhYeUN5ZWt6VmJjcFM2RVZYeXhncTBwWjFiTENHS0xwSWItZ0VQaWNkd05aQl9sY2ZWOFpKNTBoekVhU1ZiSkJ6TElrV1dtUV9udkpBbXVEMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "98570a4c285b",
-      "title": "Regenerative Approaches in Skin and Hair Care and Hair Loss Research - Dermatology Times",
-      "published": "2026-10-12T22:08:33+00:00",
-      "summary": "Regenerative Approaches in Skin and Hair Care and Hair Loss Research&nbsp;&nbsp;Dermatology Times",
-      "sources": [
-        {
-          "name": "Dermatology Times",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cf4fcd8e4e52",
       "title": "Study Finds Lower Pregnancy Risks in HPV-Vaccinated Women - MedPage Today",
       "published": "2026-10-12T21:35:59+00:00",
@@ -690,10 +630,22 @@
       ]
     },
     {
+      "id": "b3e4a25d1584",
+      "title": "Two FDA-approved drugs for MASH: How should doctors choose? - UCLA Health",
+      "published": "2026-10-12T21:31:57+00:00",
+      "summary": "Two FDA-approved drugs for MASH: How should doctors choose?&nbsp;&nbsp;UCLA HealthResmetirom Tied to Lower MACE vs Semaglutide in Real-World MASLD Analysis&nbsp;&nbsp;HCPLive",
+      "sources": [
+        {
+          "name": "UCLA Health",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0lZVW5RWkZERkdLZ0ZTbmswUWlGcEtXRXQxSTQ2MTZiWlBWSlRpdi1yZ3lBbmMzcHFlV3dGaGgySjhoWEplM3dFSXdMT1EzSDJXR0NWdDBtTU5jSHBVOEdrR01EU2Q4Y2FYTWtIem9LVThNUmN0SGZ0STR0UDRBMjNPNkFyOWxqWVJFam5UUWJfTXV6bWNhVg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b0a482da87ab",
       "title": "More active mitochondria may help chronic myeloid leukemia cells withstand treatment - Medical Xpress",
       "published": "2026-10-12T20:00:22+00:00",
-      "summary": "More active mitochondria may help chronic myeloid leukemia cells withstand treatment&nbsp;&nbsp;Medical XpressMitochondrial DNA Levels Linked to Cancer Mutation Burden&nbsp;&nbsp;EMJStudy reveals link between mtDNA copy number and cancer severity&nbsp;&nbsp;News-MedicalHow Broken Mitochondria Send Cancer Cells Into Survival Mode&nbsp;&nbsp;Bioengineer.orgMitochondrial DNA levels reveal links to tumor growth and chemotherapy-related gene activity&nbsp;&nbsp;Medical Xpress",
+      "summary": "More active mitochondria may help chronic myeloid leukemia cells withstand treatment&nbsp;&nbsp;Medical XpressMitochondrial DNA Levels Linked to Cancer Mutation Burden&nbsp;&nbsp;EMJStudy reveals link between mtDNA copy number and cancer severity&nbsp;&nbsp;News-MedicalMitochondrial DNA levels reveal links to tumor growth and chemotherapy-related gene activity&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -741,7 +693,7 @@
       "id": "f29e21c1cbb2",
       "title": "NASA targets Marius Hill Pit on the Moon for caves - NewsBytes",
       "published": "2026-10-12T14:51:18+00:00",
-      "summary": "NASA targets Marius Hill Pit on the Moon for caves&nbsp;&nbsp;NewsBytesNASA plans radar and seismic tests for a hidden lunar cave that could shelter future astronauts&nbsp;&nbsp;The Brighter Side of NewsNASA Initiative to Study the Moon's Environment&nbsp;&nbsp;Sky & TelescopeGIMLI Mission Will Hunt for Hidden Lava Tubes Beneath the Moon&nbsp;&nbsp;IEEE SpectrumNASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site&nbsp;&nbsp;Universe Today",
+      "summary": "NASA targets Marius Hill Pit on the Moon for caves&nbsp;&nbsp;NewsBytesNASA Initiative to Study the Moon's Environment&nbsp;&nbsp;Sky & TelescopeGIMLI Mission Will Hunt for Hidden Lava Tubes Beneath the Moon&nbsp;&nbsp;IEEE SpectrumNASA is searching for a cave beneath the Moon's surface&nbsp;&nbsp;Radar.amNASA plans radar and seismic tests for a hidden lunar cave that could shelter future astronauts&nbsp;&nbsp;The Brighter Side of News",
       "sources": [
         {
           "name": "NewsBytes",
@@ -753,7 +705,7 @@
       "id": "1d2afbbafc7c",
       "title": "Workshop on HPV vaccination held at Kiphire - Nagaland Tribune",
       "published": "2026-10-12T14:30:59+00:00",
-      "summary": "Workshop on HPV vaccination held at Kiphire&nbsp;&nbsp;Nagaland TribuneWORKSHOP ON HUMAN PAPILLOMAVIRUS (HPV) VACCINATION HELD AT KIPHIRE&nbsp;&nbsp;DIPR NagalandHo municipal health directorate targets 2,370 girls for HPV vaccination&nbsp;&nbsp;Ghana News AgencyCOORDINATION WORKSHOP TO STRENGTHEN HPV VACCINATION UPTAKE HELD AT MON&nbsp;&nbsp;DIPR Nagaland",
+      "summary": "Workshop on HPV vaccination held at Kiphire&nbsp;&nbsp;Nagaland TribuneWORKSHOP ON HUMAN PAPILLOMAVIRUS (HPV) VACCINATION HELD AT KIPHIRE&nbsp;&nbsp;DIPR NagalandHPV vaccination workshops held in Kiphire, Mon&nbsp;&nbsp;Eastern MirrorCOORDINATION WORKSHOP TO STRENGTHEN HPV VACCINATION UPTAKE HELD AT MON&nbsp;&nbsp;DIPR Nagaland",
       "sources": [
         {
           "name": "Nagaland Tribune",
@@ -789,7 +741,7 @@
       "id": "61b83032c7d8",
       "title": "WHO Releases Child Obesity Guidelines As Cases Quadruple - RTTNews",
       "published": "2026-10-12T13:09:00+00:00",
-      "summary": "WHO Releases Child Obesity Guidelines As Cases Quadruple&nbsp;&nbsp;RTTNewsWHO endorses lifestyle changes over GLP-1 drugs in child obesity fight&nbsp;&nbsp;ReutersWHO Warns Against GLP-1 Weight-Loss Drugs for Children: Here's Why&nbsp;&nbsp;ForbesWeight-Loss Drugs for Kids Under 10? The World Health Organization Shares Its Recommendation&nbsp;&nbsp;YahooWHO Sets First-Ever Global Childhood Obesity Guidelines: What Nurses Need to Know&nbsp;&nbsp;Nurse.org",
+      "summary": "WHO Releases Child Obesity Guidelines As Cases Quadruple&nbsp;&nbsp;RTTNewsWHO’s obesity prescription goes beyond the clinic&nbsp;&nbsp;The Indian ExpressEditorial: Gear up for battle against child obesity&nbsp;&nbsp;Telangana TodayWHO Warns Against GLP-1 Weight-Loss Drugs for Children: Here's Why&nbsp;&nbsp;ForbesWeight-Loss Drugs for Kids Under 10? The World Health Organization Shares Its Recommendation&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "RTTNews",
@@ -861,7 +813,7 @@
       "id": "4b2f89d8239d",
       "title": "The new longevity workout: How to exercise for healthy ageing - IndulgExpress",
       "published": "2026-10-12T10:31:24+00:00",
-      "summary": "The new longevity workout: How to exercise for healthy ageing&nbsp;&nbsp;IndulgExpressBalance Exercises for Seniors: Strength and Mobility&nbsp;&nbsp;Cedars-SinaiExercise Through the Ages&nbsp;&nbsp;Chicago Health MagazineWe Asked 7 Experts What Exercise They Wish Everyone Over 50 Would Start Doing—They Agreed on 1&nbsp;&nbsp;Parade MagazineI’m a sports cardiologist. This is how to exercise to keep your heart strong after 50&nbsp;&nbsp;The Telegraph",
+      "summary": "The new longevity workout: How to exercise for healthy ageing&nbsp;&nbsp;IndulgExpressBalance Exercises for Seniors: Strength and Mobility&nbsp;&nbsp;Cedars-SinaiImprove strength and stability: Trainers recommend weightlifting to seniors&nbsp;&nbsp;gvnews.comExercise Through the Ages&nbsp;&nbsp;Chicago Health MagazineWe Asked 7 Experts What Exercise They Wish Everyone Over 50 Would Start Doing—They Agreed on 1&nbsp;&nbsp;Parade Magazine",
       "sources": [
         {
           "name": "IndulgExpress",
@@ -897,7 +849,7 @@
       "id": "99452db5d639",
       "title": "Breast Cancer: Know the Risks, Recognise the Signs & Get Checked - Health and Me",
       "published": "2026-10-12T09:00:00+00:00",
-      "summary": "Breast Cancer: Know the Risks, Recognise the Signs & Get Checked&nbsp;&nbsp;Health and MeToday is breast cancer awareness day&nbsp;&nbsp;Your Tri CountiesECU health expert encourages getting screened, mammograms to help reduce risk of breast cancer&nbsp;&nbsp;Yahoo HealthBreast cancer awareness: Symptoms, risk factors, and prevention&nbsp;&nbsp;KUTVThe Connection Between Diet and Breast Cancer Risk&nbsp;&nbsp;Mega Doctor News",
+      "summary": "Breast Cancer: Know the Risks, Recognise the Signs & Get Checked&nbsp;&nbsp;Health and MeToday is breast cancer awareness day&nbsp;&nbsp;Your Tri CountiesWhy early breast cancer screening can save lives&nbsp;&nbsp;Upper Michigan's SourceBreast cancer awareness: Symptoms, risk factors, and prevention&nbsp;&nbsp;KUTVExperts: Breast cancer survival rate around 99% when detected in earliest stages&nbsp;&nbsp;WMUR",
       "sources": [
         {
           "name": "Health and Me",
@@ -942,38 +894,38 @@
       ]
     },
     {
-      "id": "b2bb370addb9",
-      "title": "How Jodrell Bank turned a corner - The Hindu",
-      "published": "2026-10-12T02:07:00+00:00",
-      "summary": "How Jodrell Bank turned a corner&nbsp;&nbsp;The HinduCouncillors urged to save Winsford radio telescope amid budget cuts&nbsp;&nbsp;Northwich GuardianManchester seeks alternative Jodrell funds despite Burnham pledge&nbsp;&nbsp;Times Higher EducationMP vows to support Jodrell Bank as funding loss puts jobs at risk&nbsp;&nbsp;Warrington GuardianMP backs campaign to protect Jodrell Bank amid funding concerns&nbsp;&nbsp;Warrington Worldwide",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1BBRVZzM0czM0N1SEVfTXZSWW1FSjRXMW9abzUyZ3JISnJhUXZuNlZrZFozZjZ6ZG1sclotMGxnRTJsUk5DZkNVQzM3Yjg5OGdEMkVPUXVoNWgxQy1KczBxWGNTNjlhdzBhejZnVnZ2ZTRUeEYyVl9EaG83QzNsSkR1aTFGY2RHbjgtUTBqczlFMC1PcFRyeEln0gGgAUFVX3lxTE5kcjVnd3g0N1VnaTFBTDF6MDAwREE5SXExRGpRYi1xMmw5Yl9QUm9vZTRzeVFOb0NpUmZETGhhYmhtLU1VcXE0MWpVWGNXN0pnUVlueS1NMGlaZ01ZTXZLMTRNbm1FclExX0EwLVBJTTBtaXB1bnBPQUdBbGo4Tm9FX3ByT3pGMlJfREJySk9FMkJ6dTZpcXFiR3pNS2M4Zkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8f8a7591526",
-      "title": "Top US Doctor on Measles-Related Hearing Loss: Symptoms Parents Should Not Ignore - Times Now",
-      "published": "2026-10-12T01:30:00+00:00",
-      "summary": "Top US Doctor on Measles-Related Hearing Loss: Symptoms Parents Should Not Ignore&nbsp;&nbsp;Times NowExperts warn that measles can cause potential hearing loss&nbsp;&nbsp;ABC27Medical professionals warn of hearing loss after measles&nbsp;&nbsp;28/22 NewsMedical professionals warn of hearing loss after measles | 28/22 News&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Times Now",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSEktM3ZuWDlzZjNwN0MwU2hDTTE1UXNEQ1hhZXpXTUpmaEJnR3p0S2FPYnJaWi1PR29sNXRJSHdjZUozRmV1QzFjUEVmMHVrY1VNUVhMNURDNWp2N1JYbGctMk9YUmpYMWw0aWpUV0puZ2VWTGEzWDFTOEFvUkVxbG5IME1uWTVKVEJFcERHUXl0bHVOREkyTTZDQUlpNkl4bmRSbFB1cDllUFpQYm1CSFUtQTdReVhKRDhKYjQwR3AxZlo2aE12TThpaUJOaE3SAdQBQVVfeXFMT2czbG5CMDFMN2s5cWg3cW1qWW1panRxWVJyM0VienoyZHJzbEVWdHptUFBHSG1IRkhIMXJKcG9tN2Z0RXZTUWI2TXdWMVJPNDBYTUh5OTgxWmVkODh0VU41Wno1elYtY2c2emRKaE9pRmdfNGNwUk1lU25nWVhuRjBqd2hsOVYwZ1VuX1B6X0lKWkhmNWJQNjY2NnVwRjZZMENQbEEzOXF0OGlrUGtWMmtKQUhFSUtCdHFDb1ZsSVRkTkJKdGpUMnpZemFVR3FubmVycjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0289ff6d9204",
       "title": "Acidity and bloating keep coming back? Surgeon shares good gut health habits and 6 signs to see a doctor | Health - Hindustan Times",
       "published": "2026-10-11T09:59:54+00:00",
-      "summary": "Acidity and bloating keep coming back? Surgeon shares good gut health habits and 6 signs to see a doctor | Health&nbsp;&nbsp;Hindustan TimesThe Gut-Brain Connection: You Can Have Digestive Symptoms and Normal Test Results&nbsp;&nbsp;Orlando HealthTherapist Shares Reasons Why Mental Wellness Begins At The Dining Table&nbsp;&nbsp;ETV BharatA chemical produced by gut bacteria may accelerate Alzheimer’s disease&nbsp;&nbsp;PsyPostGut health and the brain: How your digestive system may influence your ",
+      "summary": "Acidity and bloating keep coming back? Surgeon shares good gut health habits and 6 signs to see a doctor | Health&nbsp;&nbsp;Hindustan TimesThe Gut-Brain Connection: You Can Have Digestive Symptoms and Normal Test Results&nbsp;&nbsp;Orlando HealthA chemical produced by gut bacteria may accelerate Alzheimer’s disease&nbsp;&nbsp;PsyPostGut health and the brain: How your digestive system may influence your mood&nbsp;&nbsp;KalingaTV",
       "sources": [
         {
           "name": "Hindustan Times",
           "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZmlJcVFacjdxamVtRDBMSWdkR2F0QS1jbUlBQWQ0OXdqQVVVRmFES3N0UTZoZC00ZHBTd0JSZUFtd1RzYkpwaVdveEd5eVYzTGZYTVVEYW9iRlM5S0xDTUpXM0kxbmpTcHlTMDhGemZDNGpWOE5SY29Lem51bjhMbWpHcFplOWlXbDFZaW1TdTlzaVFZQXBuWHZ3QXh0ODgzRnJnQzI5aWhNWll2czQ3azdkVC16QXAtTnc3aVlxSUlOM2d1ZEdydDB3TVc4YzJPcXBTdENPNmVYcFdMX3BjelRNTURFcGQyN3oyc190d0NWY053S19fWXJUaDJidmdmV0HSAYcCQVVfeXFMT1RrOHRqQkIzM2J1aEhlWG15Y2VTaUdlNnRpQ09ZNVVhNUtnV2FwTGFlZnZtRWM0aTMtY1lXNV9odG52RnUzOTg0Qmh0YjNvdnM5RG92U2I2YldDX2ViM1BadU1fdjZ6QjFnOHo1eTA5bWVoRXllbG1ScWxfYmFoWFdhWjczdlBqeVVBVmRtMURXX1AxV1dXaFp4UGJLemtHRXRnVERqVl9NaWhTNnB4VlpwTTN6VllNbjZoMjdRZzNscFNPclZCLUM2MkwwRWs3SDYyRGEzbVBGb2s5bWJXUEMwdFhrZkI2a25lc3lTUmpmemY5U2FXUVdOeVNETk8taVp6dXo4S0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "facb1e8dfcc5",
+      "title": "Severe Type 1 Diabetes Onset Linked to Later Complications - EMJ",
+      "published": "2026-10-10T15:01:24+00:00",
+      "summary": "Severe Type 1 Diabetes Onset Linked to Later Complications&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPazhrNlA2OF9RLVI1LWh4QnpxU3lwdjdSUmh4OHMzSjF4MmRpNmJ1WU1HdzEtak16aEJhREIzRXdOY3paSkQ0dTdTWW1lSWN1dGRqQjdoVUc3NUxXeTBCX0YtZ0JYa1hmVWk0c2xKRkFjVHZVOU5mNTEwQ1NCVU9QR1MxT1RyU0dSOGhiMTNxa2JxdDJHMUZQNFkxMHFwNmhCblE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dbcb9ee07fdd",
+      "title": "I work hard to stay close to my friends. A researcher says it’s good for my well-being—and these 3 habits can help - CNBC",
+      "published": "2026-10-10T13:05:01+00:00",
+      "summary": "I work hard to stay close to my friends. A researcher says it’s good for my well-being—and these 3 habits can help&nbsp;&nbsp;CNBCWhy we need friends, according to a WashU psychologist&nbsp;&nbsp;WashUBe mindful, listen, empathise: Is modern life killing our mental health? New findings reveal alarming trut&nbsp;&nbsp;The Economic TimesHow having strong social connections can boost your physical, mental health&nbsp;&nbsp;WFMZ.com",
+      "sources": [
+        {
+          "name": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEVnS0VsbVFEdGg1QWtVdFppejhVMVRwTTM1cUpwUWZWd2d6YW1zZ2JFZGZQY0R3Y3ptUVBHekluT1E2RjJncjg0SzBQNnpiazhaek1tLWwtYWNSWE1yU1dvMXNUMk1hRXM0MUJTd3pHZHhmUC10d0Y5VGZPSUU4c3c3X3PSAYoBQVVfeXFMTVpfX1ZTR09UNU9CNDc1TVBIMG1zNkdnVXFueklrcVl2VWFJWXV3bjRFYnFETm43NFRDc2t5MV9WaDdwR2pFVHFsS2VXbEpYYTNLZ2NZcERHaHprQUJZakxxTXZ5clZyemRLY1M5YWZYTXJyTTdSdDJzblJITi1QRVFibmlSeGxWTWdn?oc=5"
         }
       ]
     },
@@ -1005,7 +957,7 @@
       "id": "81ffe9f1f666",
       "title": "Breast Cancer's First Signs May Appear On The Skin, Not As A Lump: Study - Times Now",
       "published": "2026-10-10T04:31:54+00:00",
-      "summary": "Breast Cancer's First Signs May Appear On The Skin, Not As A Lump: Study&nbsp;&nbsp;Times Now",
+      "summary": "Breast Cancer's First Signs May Appear On The Skin, Not As A Lump: Study&nbsp;&nbsp;Times NowBreast cancer can show up on the skin. Here's what to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "sources": [
         {
           "name": "Times Now",
@@ -1062,10 +1014,22 @@
       ]
     },
     {
+      "id": "536a9b6f3883",
+      "title": "Changes in menstrual bleeding or pain during sex? Radiologist shares 7 women's health symptoms you should stop Googling and get checked instead | Health - Hindustan Times",
+      "published": "2026-10-08T09:36:32+00:00",
+      "summary": "Changes in menstrual bleeding or pain during sex? Radiologist shares 7 women's health symptoms you should stop Googling and get checked instead | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOLXg5RkRNazNIZGhON2hFb2dsemJYakdpS3ZJcThqV2cyeHJIYWo1czg0QU5FTTdBWkk2YmkzRVN1LW1vNnRKM0ljdHM2ODR6ZFFwbUFCRjhYRUxtTzZkWDZVSFFfMWRrSk9oOE5aSDNLUnBNa0htTF83MmtPa1hDZnlHUEp3eVhnT3ozak90THBBbG4xMkNhTzFoSnJ5YUV2WnUzNXpQZjV5NWtyRUhrSGRZX0tCMExCOE41LUR1bWFUd2xLalFKSks5VVYzRUFSaHhWZkUwTXYyUExpMi1zeXZ2dmthN0pCWk53RksxYmUtNEsxd2I2UDZYV1pWOTlBajhOVnJzcHJLaERERUxUMkdlYUI3TGV6QmVhcTZjSUVWUmFpeFBOb0JfU0k0Qkp2UUk4cNIBugJBVV95cUxQWTZsc2pFaFY0MzNydTVOc1B0NXBoTmJPLVFxMjVxM2tDa3RRSXh2OHpjRFZxUkNGZW5MWXY5UUQ0V1ZmRDl6MVRCWVZQWFdha0RnM3Z6c1h0bmQxaG90R2s0Um1UdlJEUFpReEIydzZhT280RWswTE1zVjUxRnNwenoxZTRIblVjUVVkLTJCSmZJdlR2cDFfQTZjeDlSTmNOc09VNmROTHVhT1JsbEZybmVPRXduYUMya3M0blpYNG91cmNNN0NLUV9XYnBtb1lLZGplRmRpUDV6WHl0RC0zazB3c2F4WlB2OUExVUItZUJPZG56elFYdC0waXpnd05Jc0d4ekpCYWtVekE3ZGhvcTZlZG4yQk1NVWdaLVJwZkxWR2N0bG43MXVjb0YwMF9ESzF0LTBMOEtzUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f54aa802a4e9",
       "title": "Scientists find a surprising contributor to Antarctic snow melting — penguin poop - ThePrint",
       "published": "2026-10-08T07:29:34+00:00",
-      "summary": "Scientists find a surprising contributor to Antarctic snow melting — penguin poop&nbsp;&nbsp;ThePrint“They’re just waddling around in their poop.” Penguin poop is melting snow in Antarctica. Here’s how&nbsp;&nbsp;BBC Wildlife MagazinePenguin poop may be speeding up Antarctic snowmelt: Study | 'It’s very stinky working near penguins' | Inshorts&nbsp;&nbsp;InshortsPenguin poop is melting Antarctic snow by keeping algae green&nbsp;&nbsp;Phys.orgPenguin poop turning Antarctica green, accelerating ic",
+      "summary": "Scientists find a surprising contributor to Antarctic snow melting — penguin poop&nbsp;&nbsp;ThePrintPenguin poop may be speeding up Antarctic snowmelt: Study | 'It’s very stinky working near penguins' | Inshorts&nbsp;&nbsp;InshortsPenguin poop is melting Antarctic snow by keeping algae green&nbsp;&nbsp;Phys.orgPenguin poop melting Antarctica’s ice: Woman marries 14 times to fund gambling addiction | Top 5 interestin...&nbsp;&nbsp;Bhaskar English“They’re just waddling around in their poop.” Peng",
       "sources": [
         {
           "name": "ThePrint",

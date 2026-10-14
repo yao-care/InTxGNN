@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <p><a href="{{ '/drugs/urea/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Hybrid AI architecture improves seizure prediction using EEG signals](https://news.google.com/rss/articles/CBMitwFBVV95cUxPakQ5ZlB5M1lNOFNUQldjeTQ4dFF3ZC1SMGRuTkI2TGFwNjFLNGc4ak5rYmFhNHVJbkdNOVRULTJwb2dyenFmREpDTkoteHFzeXFpZXdXUnRsYThVREpQcDlDU1l3NFNyMnZoM1RVSGJGM3QwSDhjNmdXdkhlQ2FXYW1vWnVOWDdQZ3FhOHFrVEdGTFIwUjVnSjIxY0V2dnRRTkthNXNVT2tBZjYtS0ZLVW5jc3phR28?oc=5)
+
+2026-10-13 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxPakQ5ZlB5M1lNOFNUQldjeTQ4dFF3ZC1SMGRuTkI2TGFwNjFLNGc4ak5rYmFhNHVJbkdNOVRULTJwb2dyenFmREpDTkoteHFzeXFpZXdXUnRsYThVREpQcDlDU1l3NFNyMnZoM1RVSGJGM3QwSDhjNmdXdkhlQ2FXYW1vWnVOWDdQZ3FhOHFrVEdGTFIwUjVnSjIxY0V2dnRRTkthNXNVT2tBZjYtS0ZLVW5jc3phR28?oc=5)
+
+---
 
 
 <div class="disclaimer">
