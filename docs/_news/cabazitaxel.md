@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>female breast carcinoma (99.9%)</li>
+<li class="indication-matched">female breast carcinoma (99.9%)<span class="indication-tag">📰 breast cancer</span></li>
 <li>sickle cell-hemoglobin c disease syndrome (99.9%)</li>
 <li>sickle cell-beta-thalassemia disease syndrome (99.9%)</li>
 <li>sickle cell-hemoglobin d disease syndrome (99.9%)</li>
@@ -40,19 +40,51 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (12)
 
-### [These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
+### [Focus on efficacy, family protection can increase flu vaccination, study notes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
+
+---
+
+### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
+
+---
+
+### [WHO Cancer Study Finds 12% of New Cases Linked to Infections, With Stomach Bacteria Leading the List](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRqeWd1SlRvakJUempqR0tzUlBBeWhJM3A0RURNelduaWVVSmhiNW4ycEtNRHJzcjliYTJKRzBoa3gxNHBhU1owNlMzNGxoQ0k0M3pGQUlxTGc?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [NCHStats](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRqeWd1SlRvakJUempqR0tzUlBBeWhJM3A0RURNelduaWVVSmhiNW4ycEtNRHJzcjliYTJKRzBoa3gxNHBhU1owNlMzNGxoQ0k0M3pGQUlxTGc?oc=5)
+
+---
+
+### [Men can also get breast cancer: Doctors share symptoms to look out for](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Firstpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
+
+---
+
+### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
 
 ---
 
 ### [Breast Cancer Awareness Month: Apollo Spectra Bengaluru Reports 10% Rise In Breast Consultations. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
 
-2026-10-14 <span class="news-indication-tag">RA</span>
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
 
@@ -63,6 +95,14 @@ Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUx
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
 
 Source: [Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazlMYWxSM2VuanRTU1NfSHI3dHhzTWthQm5WZWdDT2kzZVBLQlFsdUxJTFU1U0JQQnEyU2xpRlZmQXVCa3l3NU0wdDFyT3ctaDgydUFURGtRQnhHZl8ybkUyTE5tSnJWeXNXYmJuOGg2eUliQkV1U1pISTl0bGQ5VU1welN4eldHeE5fQVFqdXBPVHI1eWfSAZsBQVVfeXFMT1FxbExmRTNId09FV3lmZlVTdFNBMml0MEt3U1dmbDViak8tZjB6bk5zZVZQZzI4d2xkVXFMQlVTNFBaQVd1Qy13YXhJdjVfQlc3TVJFdkIzVGNZTi03ejl2aDFTUk8zOTcwME16ekpCQ045cUNZd1hENlFtZFhsQjI1eE5GZFZrdjc5SURhNVlTT3lQWkN5ZEVnMlk?oc=5)
+
+---
+
+### [Gap Found Between Awareness of Breast Cancer Risk and Risk-Reducing Behavior - Infectious Disease Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVE5weWJiRXRmcjNzU3M1YXhDcGlsZVNrU3lXeGJPVi1KV2Q5REwtdFVfcTdZV0Rwd01xbFpiYzVfemRlZTFzaElyQXlMWWkxSEN5cGIxM01veWxUTVQta0ZDLXA1WTBPN2tPYWxiZzRwdnR6NElOeVNUOVpnLU02ck1qaVZpY3R3RWxpUHV6TDU2VlFrT09tUzFJbEk2SUh1b2xwclRpRHczTG83Q2h4S0J6Q0lGUDFKWFhWM0ZHTzg?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Infectious Disease Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVE5weWJiRXRmcjNzU3M1YXhDcGlsZVNrU3lXeGJPVi1KV2Q5REwtdFVfcTdZV0Rwd01xbFpiYzVfemRlZTFzaElyQXlMWWkxSEN5cGIxM01veWxUTVQta0ZDLXA1WTBPN2tPYWxiZzRwdnR6NElOeVNUOVpnLU02ck1qaVZpY3R3RWxpUHV6TDU2VlFrT09tUzFJbEk2SUh1b2xwclRpRHczTG83Q2h4S0J6Q0lGUDFKWFhWM0ZHTzg?oc=5)
 
 ---
 
@@ -95,14 +135,6 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cU
 2026-10-12 <span class="news-indication-tag">RA</span>
 
 Source: [MedPage Today](https://news.google.com/rss/articles/CBMib0FVX3lxTE51Vk1JOVV4UHo4MS1KMkNYdUVEUEh0NGFSRm1nNWNHc1R0NUFuQm5HUzM2X0xLc3paUm1LY2V2Q1U3NFE0YU9CZ2t2eU1vc3E3UEozUGtWUFFjZmMwdkstWTNYOXhUVVlYb09aOW4yNA?oc=5)
-
----
-
-### [When Cancer Strikes Young - Duke Today](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JaGhhd2VWdjg2czRtaGJHU0Jid0dlbUNYbk1NQzVyQkNDYnFieGlaTDhVc0U2cTVmcUloZndHYXhlNVNvcTBCZGZwallPRzYtMk44UzhQLXVyXzNNWHpJSUl0U0FIMmM?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [Duke Today](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JaGhhd2VWdjg2czRtaGJHU0Jid0dlbUNYbk1NQzVyQkNDYnFieGlaTDhVc0U2cTVmcUloZndHYXhlNVNvcTBCZGZwallPRzYtMk44UzhQLXVyXzNNWHpJSUl0U0FIMmM?oc=5)
 
 ---
 

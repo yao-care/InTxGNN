@@ -14,7 +14,7 @@ permalink: /news/nicorandil/
 ---
 
 <p class="key-answer" data-question="What news is there about Nicorandil?">
-<strong>Nicorandil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Nicorandil</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <li>congenital hypotrichosis milia (99.5%)</li>
 <li>diffuse alopecia areata (99.5%)</li>
 <li>osteoarthritis susceptibility (99.4%)</li>
-<li>osteoarthritis (99.4%)</li>
+<li class="indication-matched">osteoarthritis (99.4%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>acromesomelic dysplasia, Hunter-Thompson type (98.9%)</li>
 <li>brachyolmia (98.9%)</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome (98.9%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <p><a href="{{ '/drugs/nicorandil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [FDA-Approved Drug Could Be Repurposed to Relieve Osteoarthritis Pain And Protect Cartilage](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+
+2026-10-13 <span class="news-drug-tag">Lacosamide</span> <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhYX2t6Q1FaMU9PREg2S0RFaW1qNGJYUWFPU21TMjUyRl9jODgwVzhrYm9mTmFUUnNDUkRJcFMtdmZaeDE0SzNNdEVyZ0VfQks4YTQ3LWhHN2NIVTFEY0dFVlk5dkJyQi1IQ0hVQnFkMllxVE9tbXBaekdKS0YzYnI0T21JX0t6VDRfOTExQTZqTVE0MWVfd2ZDTXFNa2hHUjF5c0VsTnhKNHBxRlhRU01pbXRYYmJHQWpv?oc=5)
+
+---
 
 
 <div class="disclaimer">

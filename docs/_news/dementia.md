@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "dementia News"
+title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 2 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 3 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
-# dementia News
+# memory loss (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about memory loss (dementia)?">
+<strong>memory loss (dementia)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “memory loss” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -36,21 +36,29 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [A protein is one of the culprits behind dementia. Scientists found a way to stop it](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVF6Z21zYnBDSTB6R292czZuVUZsbUo3UFJMbEp3ZjR5M1BHOEJwQXZuRWVTYXZSdThsN3ZKQ09oeFFvWmtKSThSV3pHbFUwOGozNUpXc2ZIXzh1RkhvMzNWUklOX3RSa1hGdFh2QTRpR3hjcklRUjBVQXMxRXlmNWZ2ZjhHLUsxdldra283dHnSAZYBQVVfeXFMT1g4NFlvM2pCaXdKOWtkSkFxUklSQU1uMHMtQlNDdlpFdmMtR3c3VkN6RHJsQ3VWaUg0WTNmVzVCdExTY1dFdXhJdGpXOXZyaFBUdFhGT0lsQmxYUTNxRmNrOTBaWjVieFNteUpvWnhiTF9sdnNEcXlWLWFJSGF0RjQ2eGlGNTgydmtncTJpV0pNRjNQQTJB?oc=5)
+### [A Higher BMI at Dementia Diagnosis is Linked to Lower Mortality Risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
 
-2026-10-13
+2026-10-14
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVF6Z21zYnBDSTB6R292czZuVUZsbUo3UFJMbEp3ZjR5M1BHOEJwQXZuRWVTYXZSdThsN3ZKQ09oeFFvWmtKSThSV3pHbFUwOGozNUpXc2ZIXzh1RkhvMzNWUklOX3RSa1hGdFh2QTRpR3hjcklRUjBVQXMxRXlmNWZ2ZjhHLUsxdldra283dHnSAZYBQVVfeXFMT1g4NFlvM2pCaXdKOWtkSkFxUklSQU1uMHMtQlNDdlpFdmMtR3c3VkN6RHJsQ3VWaUg0WTNmVzVCdExTY1dFdXhJdGpXOXZyaFBUdFhGT0lsQmxYUTNxRmNrOTBaWjVieFNteUpvWnhiTF9sdnNEcXlWLWFJSGF0RjQ2eGlGNTgydmtncTJpV0pNRjNQQTJB?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
 
 ---
 
-### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+### [Northwestern scientists studying proteins linked to Alzheimer's found a single spot that helps harmful ta - The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
+
+2026-10-14
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
+
+---
+
+### [Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1na0ZPMXd0MEQ1RDBUQzlRa1JyVm1GbWJLMWFubWluNUxtMVRJM3dadjJxSGlXM1pzSGZPU0RzTGNNdC1QNU43WU0yelI2ZXVhVEQwbHplU1N1UTBVYWg2UXhSd2FaaTJocV9NVjl2UQ?oc=5)
 
 2026-10-12
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1na0ZPMXd0MEQ1RDBUQzlRa1JyVm1GbWJLMWFubWluNUxtMVRJM3dadjJxSGlXM1pzSGZPU0RzTGNNdC1QNU43WU0yelI2ZXVhVEQwbHplU1N1UTBVYWg2UXhSd2FaaTJocV9NVjl2UQ?oc=5)
 
 ---
 
