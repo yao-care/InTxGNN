@@ -60,11 +60,11 @@ Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUx
 
 ---
 
-### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+### [WHO Experts Recommend HPV Jab For Girls Aged 4-8](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
 
-2026-10-13 <span class="news-indication-tag">RA</span>
+2026-10-14 <span class="news-indication-tag">RA</span>
 
-Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
 
 ---
 

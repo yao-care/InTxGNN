@@ -14,7 +14,7 @@ permalink: /news/eptifibatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Eptifibatide?">
-<strong>Eptifibatide</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Eptifibatide</strong> currently has <strong>14 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,37 @@ This page combines the AI-predicted indications for Eptifibatide with the latest
 <p><a href="{{ '/drugs/eptifibatide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [What a Large Prostate MRI Study Reveals About AI and Unassisted Radiologist Assessment - Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
+
+---
+
+### [1 in 8 Cancer Cases Attributed to Infection - Contagion Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWdRc25wdk5rTjJ6Q0VEekdxTENRUHE4Zl95WGRWUkVUVG1SN29nQ0R0bXJZa09adEY1VTh3Z0RSYThRSFd5RDhDSzBlLU44N3Z0UGdfcmhhSEViR3R0bWl3T3JUWkhHVWdUeHFDYmdGaW5EdklIMTZOdFFkSFd1ZjU3OWg?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [Contagion Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWdRc25wdk5rTjJ6Q0VEekdxTENRUHE4Zl95WGRWUkVUVG1SN29nQ0R0bXJZa09adEY1VTh3Z0RSYThRSFd5RDhDSzBlLU44N3Z0UGdfcmhhSEViR3R0bWl3T3JUWkhHVWdUeHFDYmdGaW5EdklIMTZOdFFkSFd1ZjU3OWg?oc=5)
+
+---
 
 ### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span>
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
+
+---
+
+### [Bras, Stress, Deodorants — Stop Blaming Women for Cancer! - Deccan Chronicle](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW82Ukk4U01UNnlQX0xweTBoSXM2aFQzYUFTNDB0eWdYWThHYnFxMFVISV9vNU9KMUhKS0R2aDUxNXFUR0dtWFBnMlRKaDJMeDZjTWtZOU5jNk1XMUtPNjNoelJvVEJDSmluU3hDeTNZZ1cyTGxITk5nWERtbXlWaURoeW9EYzZ2dWx0UFdkZmpFU2hIVW8yMy1IVEZ4d0J3bVp2UkJmVzJXaGZnRkNsR24teTNwVVVDdGJsS9IBwgFBVV95cUxOeW9MeDJLMWtMSXBoRGpaMHdQTDMzaEc1UkpvaV9zZUwtSDlUNFJLZm9hWWR3bmdTNF9Ed3NMbi1FUW03bDJuQnZhWU5SZDQ0RXFqanhyUkFjemgxV25ybFI1MXdZRUxCaUhHNUV0V3JhbDY1OWo5VEx0Sl9Dd2ZjOWdtdUlUVXU3Ym1lRFlnb2Y4VWxyTk4wUGxTLWhRYkh6YjZoSFhzaVk0MzlqVmpVRHp1RFd0d0VRbURuSmlqb016dw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW82Ukk4U01UNnlQX0xweTBoSXM2aFQzYUFTNDB0eWdYWThHYnFxMFVISV9vNU9KMUhKS0R2aDUxNXFUR0dtWFBnMlRKaDJMeDZjTWtZOU5jNk1XMUtPNjNoelJvVEJDSmluU3hDeTNZZ1cyTGxITk5nWERtbXlWaURoeW9EYzZ2dWx0UFdkZmpFU2hIVW8yMy1IVEZ4d0J3bVp2UkJmVzJXaGZnRkNsR24teTNwVVVDdGJsS9IBwgFBVV95cUxOeW9MeDJLMWtMSXBoRGpaMHdQTDMzaEc1UkpvaV9zZUwtSDlUNFJLZm9hWWR3bmdTNF9Ed3NMbi1FUW03bDJuQnZhWU5SZDQ0RXFqanhyUkFjemgxV25ybFI1MXdZRUxCaUhHNUV0V3JhbDY1OWo5VEx0Sl9Dd2ZjOWdtdUlUVXU3Ym1lRFlnb2Y4VWxyTk4wUGxTLWhRYkh6YjZoSFhzaVk0MzlqVmpVRHp1RFd0d0VRbURuSmlqb016dw?oc=5)
 
 ---
 
@@ -63,14 +87,6 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihwJBVV95cUxNU
 2026-10-14 <span class="news-indication-tag">RA</span>
 
 Source: [CIDRAP](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOElzb3RGRkFOQW42T01QTG9kV1gwcHFOQk1rODE4OFIwbHVHWTRqUU9uMGx5QURxVW1GX1cyWURXSUVkbzZ5ZnU2T2tKX2pZa2lpUGQ1Slg0TUM4cVk0cm85MWFLQ04wVjQxRGtuSDdQMXdzMUFhOEZMTzIzcFBvZWlrOTdHLXVUT3NSZEZGbmZHMC10Z3h4cjVYWHpSbTF5NFp3MzFoanY3U3FybTNja09nNWdLemt0Tm9J?oc=5)
-
----
-
-### [WHO Cancer Study Finds 12% of New Cases Linked to Infections, With Stomach Bacteria Leading the List](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRqeWd1SlRvakJUempqR0tzUlBBeWhJM3A0RURNelduaWVVSmhiNW4ycEtNRHJzcjliYTJKRzBoa3gxNHBhU1owNlMzNGxoQ0k0M3pGQUlxTGc?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [NCHStats](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRqeWd1SlRvakJUempqR0tzUlBBeWhJM3A0RURNelduaWVVSmhiNW4ycEtNRHJzcjliYTJKRzBoa3gxNHBhU1owNlMzNGxoQ0k0M3pGQUlxTGc?oc=5)
 
 ---
 
@@ -114,27 +130,19 @@ Source: [Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQa
 
 ---
 
-### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+### [WHO Experts Recommend HPV Jab For Girls Aged 4-8](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
 
-2026-10-13 <span class="news-indication-tag">RA</span>
+2026-10-14 <span class="news-indication-tag">RA</span>
 
-Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
-
----
-
-### [Deep learning-assisted graphene-based THz metasurface for label-free and high-performance MCF-7 breast cancer cell sensing](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeVNkM21vZGlpLTFEWXh6Zlp1OXdibDZMV1hVUGxxVENFOVJianJNWUlhOHVNSVlKMC1wZDU0LUlFM1lnVkdSemxwVUxRYUw2SzZvTFFwVnVKMmk4WTBv?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeVNkM21vZGlpLTFEWXh6Zlp1OXdibDZMV1hVUGxxVENFOVJianJNWUlhOHVNSVlKMC1wZDU0LUlFM1lnVkdSemxwVUxRYUw2SzZvTFFwVnVKMmk4WTBv?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
 
 ---
 
-### [Recognising Early Signs of Childhood Cancer: What Parents Need to Know - India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
+### [Childhood Cancer: Early Warning Signs, Symptoms And When Parents Should See A Doctor - Times Now](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXhnZEpRUmhBRFpRd2ZTaDFqc2k4TzRNT1d5WGZjQlFySVZ6NVMwWDhNQnVHWG9yUkt2WV9qNVBhQnNPeHFFdTJEd0JuYnUwMEdLOUVJWlNDdW5ZWXVxcVBGQUtobXV6MGtRbXYya2Q4a25FVjZNSW5SUHdBV2VxTEZKX283bXRiZXE1b0huU1hrZUowdzUzbTROcTJ5SUE0dE5CejNnUFpqQjhsQXZxMGVkVGR1aHotYl9mRTRMSlkyZEtmWTV5ZzhsWi1ZdTRnc0HSAdcBQVVfeXFMTWt0MjVJdHl4VGdDdVNrMmpIajhPVmp1bi14TGdGbS1aeDdJeHZySGxCcm1zb1pJZHdfWjRvOWs4UWVTSHBLdW52Ym8tSjdvUVpJR3JvMks1LTl1am9OT3lzN2N1SzRSTUxoRWhrWWFqSEE4SEhxdDZrTFB6bnR3LW43LWlfVHdjb2FYdDBxdUVPajc4aWlwU3hiZmFGaTV5dVRXb2taU2dUb19faENKTFlKWFJxRlVUVHVZR3pCc2FKdzJnZlhMbHcwZFZyOGRlMXMwb0hHV1E?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cancer</span>
+2026-10-13 <span class="news-indication-tag">cancer</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXhnZEpRUmhBRFpRd2ZTaDFqc2k4TzRNT1d5WGZjQlFySVZ6NVMwWDhNQnVHWG9yUkt2WV9qNVBhQnNPeHFFdTJEd0JuYnUwMEdLOUVJWlNDdW5ZWXVxcVBGQUtobXV6MGtRbXYya2Q4a25FVjZNSW5SUHdBV2VxTEZKX283bXRiZXE1b0huU1hrZUowdzUzbTROcTJ5SUE0dE5CejNnUFpqQjhsQXZxMGVkVGR1aHotYl9mRTRMSlkyZEtmWTV5ZzhsWi1ZdTRnc0HSAdcBQVVfeXFMTWt0MjVJdHl4VGdDdVNrMmpIajhPVmp1bi14TGdGbS1aeDdJeHZySGxCcm1zb1pJZHdfWjRvOWs4UWVTSHBLdW52Ym8tSjdvUVpJR3JvMks1LTl1am9OT3lzN2N1SzRSTUxoRWhrWWFqSEE4SEhxdDZrTFB6bnR3LW43LWlfVHdjb2FYdDBxdUVPajc4aWlwU3hiZmFGaTV5dVRXb2taU2dUb19faENKTFlKWFJxRlVUVHVZR3pCc2FKdzJnZlhMbHcwZFZyOGRlMXMwb0hHV1E?oc=5)
 
 ---
 

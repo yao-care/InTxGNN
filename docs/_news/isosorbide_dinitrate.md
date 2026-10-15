@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Isosorbide Dinitrate?">
-<strong>Isosorbide Dinitrate</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Isosorbide Dinitrate</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">alopecia (100.0%)<span class="indication-tag">📰 alopecia</span></li>
+<li>alopecia (100.0%)</li>
 <li>congenital hypotrichosis milia (100.0%)</li>
 <li>hypotrichosis simplex of the scalp (100.0%)</li>
 <li>pulmonary hypertension (100.0%)</li>
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 
@@ -55,14 +55,6 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMF
 2026-10-13 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUw2LXB4R3ZyZWpZcFJHRkZNZFI0dUNFV2tNVUc0cWJhRzcxZUNIRXdNdTBzSmlLRVlwZ1FmVnVvUS1jRGppNFZSQ3BCOU5LUXpiRVlrOHhKLUlLYW5URzF6MXBQRFpJN0QtRlV3Ykx6amZlNjdYYnY4WU4zNVhBVlRmN2lrUjdwQVp2aTNyeWRsUFFwMG8tZkxvTXZneWppTnVtOWl6NzZPTnpBUUNDVl9oN1o1WXZoTElr?oc=5)
-
----
-
-### [Regenerative Approaches in Skin and Hair Care and Hair Loss Research - Dermatology Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5)
-
-2026-10-12 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">genetic alopecia</span>
-
-Source: [Dermatology Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlpJR0prbkRPbjRSYmpoYXpndVhiUVhYVXhLTnFLVVB4TWQ0ekd5MHRORm5HdE9VQVdIUG1TUTBSdDFCMWV6VUxJSXJuTU4xYlZaekVSa0x5THJMd1I2XzAwNDhENDh1YjBROHZpREduM3BnZkJEVEFEUlhGT2U3TTFPS3RoR21XWmFJUEg3d0Q4cTdpSjF2bDJnUzNkSXJtUFlrSWl6MDBZZw?oc=5)
 
 ---
 

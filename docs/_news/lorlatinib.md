@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [What a Large Prostate MRI Study Reveals About AI and Unassisted Radiologist Assessment - Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
+
+---
+
+### [1 in 8 Cancer Cases Attributed to Infection - Contagion Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWdRc25wdk5rTjJ6Q0VEekdxTENRUHE4Zl95WGRWUkVUVG1SN29nQ0R0bXJZa09adEY1VTh3Z0RSYThRSFd5RDhDSzBlLU44N3Z0UGdfcmhhSEViR3R0bWl3T3JUWkhHVWdUeHFDYmdGaW5EdklIMTZOdFFkSFd1ZjU3OWg?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [Contagion Live](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSWdRc25wdk5rTjJ6Q0VEekdxTENRUHE4Zl95WGRWUkVUVG1SN29nQ0R0bXJZa09adEY1VTh3Z0RSYThRSFd5RDhDSzBlLU44N3Z0UGdfcmhhSEViR3R0bWl3T3JUWkhHVWdUeHFDYmdGaW5EdklIMTZOdFFkSFd1ZjU3OWg?oc=5)
+
+---
 
 ### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
@@ -50,11 +66,11 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWp
 
 ---
 
-### [A Higher BMI at Dementia Diagnosis is Linked to Lower Mortality Risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
+### [Bras, Stress, Deodorants — Stop Blaming Women for Cancer! - Deccan Chronicle](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW82Ukk4U01UNnlQX0xweTBoSXM2aFQzYUFTNDB0eWdYWThHYnFxMFVISV9vNU9KMUhKS0R2aDUxNXFUR0dtWFBnMlRKaDJMeDZjTWtZOU5jNk1XMUtPNjNoelJvVEJDSmluU3hDeTNZZ1cyTGxITk5nWERtbXlWaURoeW9EYzZ2dWx0UFdkZmpFU2hIVW8yMy1IVEZ4d0J3bVp2UkJmVzJXaGZnRkNsR24teTNwVVVDdGJsS9IBwgFBVV95cUxOeW9MeDJLMWtMSXBoRGpaMHdQTDMzaEc1UkpvaV9zZUwtSDlUNFJLZm9hWWR3bmdTNF9Ed3NMbi1FUW03bDJuQnZhWU5SZDQ0RXFqanhyUkFjemgxV25ybFI1MXdZRUxCaUhHNUV0V3JhbDY1OWo5VEx0Sl9Dd2ZjOWdtdUlUVXU3Ym1lRFlnb2Y4VWxyTk4wUGxTLWhRYkh6YjZoSFhzaVk0MzlqVmpVRHp1RFd0d0VRbURuSmlqb016dw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
+Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW82Ukk4U01UNnlQX0xweTBoSXM2aFQzYUFTNDB0eWdYWThHYnFxMFVISV9vNU9KMUhKS0R2aDUxNXFUR0dtWFBnMlRKaDJMeDZjTWtZOU5jNk1XMUtPNjNoelJvVEJDSmluU3hDeTNZZ1cyTGxITk5nWERtbXlWaURoeW9EYzZ2dWx0UFdkZmpFU2hIVW8yMy1IVEZ4d0J3bVp2UkJmVzJXaGZnRkNsR24teTNwVVVDdGJsS9IBwgFBVV95cUxOeW9MeDJLMWtMSXBoRGpaMHdQTDMzaEc1UkpvaV9zZUwtSDlUNFJLZm9hWWR3bmdTNF9Ed3NMbi1FUW03bDJuQnZhWU5SZDQ0RXFqanhyUkFjemgxV25ybFI1MXdZRUxCaUhHNUV0V3JhbDY1OWo5VEx0Sl9Dd2ZjOWdtdUlUVXU3Ym1lRFlnb2Y4VWxyTk4wUGxTLWhRYkh6YjZoSFhzaVk0MzlqVmpVRHp1RFd0d0VRbURuSmlqb016dw?oc=5)
 
 ---
 
@@ -66,19 +82,19 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihwJBVV95cUxNU
 
 ---
 
+### [Restoring Hypothalamic Menin Reverses Age-Related Cognitive Decline](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmV2VmtqNnA0M1MxV2t6Yms2VDE0aDZreWJZNklFNEhETEFpcEVtX1ZXQXY3WUg2M2JoamozZVZQU1VyblZueFhob0FBVGRKcDhZdnVoa0pMbHR2d3piZnpOcDdVbmthc1RUeFBEa0taTmxuR0FtR1FxZk4xS0dQNS1ISnQ5Q3B2dXRKWjNRaFlvRGUzOEQ5eGNxWTVuejE3c1JpQk1TajJ0Unk3Z0tn?oc=5)
+
+2026-10-14 <span class="news-indication-tag">memory loss</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmV2VmtqNnA0M1MxV2t6Yms2VDE0aDZreWJZNklFNEhETEFpcEVtX1ZXQXY3WUg2M2JoamozZVZQU1VyblZueFhob0FBVGRKcDhZdnVoa0pMbHR2d3piZnpOcDdVbmthc1RUeFBEa0taTmxuR0FtR1FxZk4xS0dQNS1ISnQ5Q3B2dXRKWjNRaFlvRGUzOEQ5eGNxWTVuejE3c1JpQk1TajJ0Unk3Z0tn?oc=5)
+
+---
+
 ### [Northwestern scientists studying proteins linked to Alzheimer's found a single spot that helps harmful ta - The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
 
 2026-10-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
-
----
-
-### [WHO Cancer Study Finds 12% of New Cases Linked to Infections, With Stomach Bacteria Leading the List](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRqeWd1SlRvakJUempqR0tzUlBBeWhJM3A0RURNelduaWVVSmhiNW4ycEtNRHJzcjliYTJKRzBoa3gxNHBhU1owNlMzNGxoQ0k0M3pGQUlxTGc?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [NCHStats](https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YVEtVTRqeWd1SlRvakJUempqR0tzUlBBeWhJM3A0RURNelduaWVVSmhiNW4ycEtNRHJzcjliYTJKRzBoa3gxNHBhU1owNlMzNGxoQ0k0M3pGQUlxTGc?oc=5)
 
 ---
 
@@ -114,19 +130,11 @@ Source: [Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQa
 
 ---
 
-### [Deep learning-assisted graphene-based THz metasurface for label-free and high-performance MCF-7 breast cancer cell sensing](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeVNkM21vZGlpLTFEWXh6Zlp1OXdibDZMV1hVUGxxVENFOVJianJNWUlhOHVNSVlKMC1wZDU0LUlFM1lnVkdSemxwVUxRYUw2SzZvTFFwVnVKMmk4WTBv?oc=5)
+### [Childhood Cancer: Early Warning Signs, Symptoms And When Parents Should See A Doctor - Times Now](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXhnZEpRUmhBRFpRd2ZTaDFqc2k4TzRNT1d5WGZjQlFySVZ6NVMwWDhNQnVHWG9yUkt2WV9qNVBhQnNPeHFFdTJEd0JuYnUwMEdLOUVJWlNDdW5ZWXVxcVBGQUtobXV6MGtRbXYya2Q4a25FVjZNSW5SUHdBV2VxTEZKX283bXRiZXE1b0huU1hrZUowdzUzbTROcTJ5SUE0dE5CejNnUFpqQjhsQXZxMGVkVGR1aHotYl9mRTRMSlkyZEtmWTV5ZzhsWi1ZdTRnc0HSAdcBQVVfeXFMTWt0MjVJdHl4VGdDdVNrMmpIajhPVmp1bi14TGdGbS1aeDdJeHZySGxCcm1zb1pJZHdfWjRvOWs4UWVTSHBLdW52Ym8tSjdvUVpJR3JvMks1LTl1am9OT3lzN2N1SzRSTUxoRWhrWWFqSEE4SEhxdDZrTFB6bnR3LW43LWlfVHdjb2FYdDBxdUVPajc4aWlwU3hiZmFGaTV5dVRXb2taU2dUb19faENKTFlKWFJxRlVUVHVZR3pCc2FKdzJnZlhMbHcwZFZyOGRlMXMwb0hHV1E?oc=5)
 
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-13 <span class="news-indication-tag">cancer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeVNkM21vZGlpLTFEWXh6Zlp1OXdibDZMV1hVUGxxVENFOVJianJNWUlhOHVNSVlKMC1wZDU0LUlFM1lnVkdSemxwVUxRYUw2SzZvTFFwVnVKMmk4WTBv?oc=5)
-
----
-
-### [Recognising Early Signs of Childhood Cancer: What Parents Need to Know - India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXhnZEpRUmhBRFpRd2ZTaDFqc2k4TzRNT1d5WGZjQlFySVZ6NVMwWDhNQnVHWG9yUkt2WV9qNVBhQnNPeHFFdTJEd0JuYnUwMEdLOUVJWlNDdW5ZWXVxcVBGQUtobXV6MGtRbXYya2Q4a25FVjZNSW5SUHdBV2VxTEZKX283bXRiZXE1b0huU1hrZUowdzUzbTROcTJ5SUE0dE5CejNnUFpqQjhsQXZxMGVkVGR1aHotYl9mRTRMSlkyZEtmWTV5ZzhsWi1ZdTRnc0HSAdcBQVVfeXFMTWt0MjVJdHl4VGdDdVNrMmpIajhPVmp1bi14TGdGbS1aeDdJeHZySGxCcm1zb1pJZHdfWjRvOWs4UWVTSHBLdW52Ym8tSjdvUVpJR3JvMks1LTl1am9OT3lzN2N1SzRSTUxoRWhrWWFqSEE4SEhxdDZrTFB6bnR3LW43LWlfVHdjb2FYdDBxdUVPajc4aWlwU3hiZmFGaTV5dVRXb2taU2dUb19faENKTFlKWFJxRlVUVHVZR3pCc2FKdzJnZlhMbHcwZFZyOGRlMXMwb0hHV1E?oc=5)
 
 ---
 

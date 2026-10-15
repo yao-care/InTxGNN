@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 1 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
-
-### [A Higher BMI at Dementia Diagnosis is Linked to Lower Mortality Risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
-
-2026-10-14
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
-
----
+## Related News (1)
 
 ### [Northwestern scientists studying proteins linked to Alzheimer's found a single spot that helps harmful ta - The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
 

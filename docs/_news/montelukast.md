@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis (100.0%)</li>
 <li>atopic eczema (99.8%)</li>
-<li class="indication-matched">asthma (99.5%)<span class="indication-tag">📰 dama</span></li>
+<li>asthma (99.5%)</li>
 <li>obstructive lung disease (99.3%)</li>
 <li>asthma-related traits, susceptibility to (99.2%)</li>
 </ul></li>
@@ -35,23 +35,9 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [CGM For Diabetes: Is It Worth It? - BW Healthcare World](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTDJrNUp2d2UwRFdHc2xOQmpEV2FwUHZCeGt3cllqdnFtS3dkZE43UGRfZXBsYnlUNVpsS3E2VUZmWHBUUHV2Nzk5MXlxeWNoelZHb05IbVRlU1RBOUgyMDdtT3V5UTFKQ01aNzIwM2N3RnpvMjRnR0l2MDl0eGlEaTFJYWZGN3M?oc=5)
-
-2026-10-14 <span class="news-indication-tag">dama</span>
-
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTDJrNUp2d2UwRFdHc2xOQmpEV2FwUHZCeGt3cllqdnFtS3dkZE43UGRfZXBsYnlUNVpsS3E2VUZmWHBUUHV2Nzk5MXlxeWNoelZHb05IbVRlU1RBOUgyMDdtT3V5UTFKQ01aNzIwM2N3RnpvMjRnR0l2MDl0eGlEaTFJYWZGN3M?oc=5)
-
----
-
-### [Eating Late At Night? New Study Warns It Could Trigger Fatty Liver Disease](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHp6SmNWTkg1ZG9GbEZydHBRYm9RcFRRSFRRZ2tCLXQwN05aNl8wSEFYaVV0Z0hRWllVRWZlZUFxdDVEekExaTFkWGxGV0ZEcDNpcWtlSHlrZS1Fd0ROekpzellVbjZ4QzFURjQteVd6MTB1N1EycnB0MEFHbjRTeXFkYVBzcGxrOXNhWU1mMUppUi1WUWVHbVlvcnY5dExNX3ZraW83alcwQ0ZnS2tn?oc=5)
-
-2026-10-13 <span class="news-indication-tag">dama</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHp6SmNWTkg1ZG9GbEZydHBRYm9RcFRRSFRRZ2tCLXQwN05aNl8wSEFYaVV0Z0hRWllVRWZlZUFxdDVEekExaTFkWGxGV0ZEcDNpcWtlSHlrZS1Fd0ROekpzellVbjZ4QzFURjQteVd6MTB1N1EycnB0MEFHbjRTeXFkYVBzcGxrOXNhWU1mMUppUi1WUWVHbVlvcnY5dExNX3ZraW83alcwQ0ZnS2tn?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
