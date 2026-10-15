@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Cabergoline with the latest 
 <li>progeria-short stature-pigmented nevi syndrome (99.1%)</li>
 <li>pituitary cancer (99.0%)</li>
 <li>cerebral palsy, spastic quadriplegic (99.0%)</li>
-<li>glaucoma (99.0%)</li>
+<li class="indication-matched">glaucoma (99.0%)<span class="indication-tag">📰 glaucoma</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">View full drug report →</a></p>
@@ -37,19 +37,27 @@ This page combines the AI-predicted indications for Cabergoline with the latest 
 
 ## Related News (9)
 
+### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+
+---
+
+### [The common infections that lead to 12% of cancer cases - Advisory Board](https://news.google.com/rss/articles/CBMid0FVX3lxTFA0MWJydE5PZVlDWV94eVBHdjdQUDBWX1Jtel9XTjl6Zkx1dlVZcVk4LU9WMEpyOW5MNXQyYlR5NklHZ1kwbWRHbEtWRHEtY2pHMjhzZXROMkFTZXVHandxZzBzaDcwbUhhNk00WFRWMmNacWhOMVdB?oc=5)
+
+2026-10-15 <span class="news-indication-tag">cancer</span>
+
+Source: [Advisory Board](https://news.google.com/rss/articles/CBMid0FVX3lxTFA0MWJydE5PZVlDWV94eVBHdjdQUDBWX1Jtel9XTjl6Zkx1dlVZcVk4LU9WMEpyOW5MNXQyYlR5NklHZ1kwbWRHbEtWRHEtY2pHMjhzZXROMkFTZXVHandxZzBzaDcwbUhhNk00WFRWMmNacWhOMVdB?oc=5)
+
+---
+
 ### [Abnormal Antibodies Linked to DNA Repair Defects in Childhood Cancer - The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXprVlVQb29jOEFTV0x0Yi00VTRncDJQc19NeG9EN3JIa1NsZ2pMaHJsVlV4RTN3QkVBSE1tbkFfcEdxMlFWU0pfa3I1TDhlSVFWc01MNHE1T051ekxLck9kNjZfXzBFZmJyT2JuR3NBUWhLQmJ6SFFmUi03bk5qNnUxenp6eVJtUXlvNnNENDJxcGZGMVJFWW94a09lajBIT3ZrOXRB?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span>
 
 Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXprVlVQb29jOEFTV0x0Yi00VTRncDJQc19NeG9EN3JIa1NsZ2pMaHJsVlV4RTN3QkVBSE1tbkFfcEdxMlFWU0pfa3I1TDhlSVFWc01MNHE1T051ekxLck9kNjZfXzBFZmJyT2JuR3NBUWhLQmJ6SFFmUi03bk5qNnUxenp6eVJtUXlvNnNENDJxcGZGMVJFWW94a09lajBIT3ZrOXRB?oc=5)
-
----
-
-### [Global Report: 12% of Cancer Cases Linked to Infections in 2024 - India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRzelRFc0pEcUhlMXdESTVmUFB0NVpYWVhiT2tTQlAxR1E2ZEF0Mk5CYVVGc2pmYXVKdmxFOFR3Z1NmTnFNMkJCcExTaFUwWER1dUF1cC1tbHN6ZGhuR2IxTGhVMlBiUFk0TTZ0NEpNWHlPd2lIREV4V0pRaFR2NkpFWkhMcHI2cG5FTHpIdWNCYllyUGpIWlpwV0xNUQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRzelRFc0pEcUhlMXdESTVmUFB0NVpYWVhiT2tTQlAxR1E2ZEF0Mk5CYVVGc2pmYXVKdmxFOFR3Z1NmTnFNMkJCcExTaFUwWER1dUF1cC1tbHN6ZGhuR2IxTGhVMlBiUFk0TTZ0NEpNWHlPd2lIREV4V0pRaFR2NkpFWkhMcHI2cG5FTHpIdWNCYllyUGpIWlpwV0xNUQ?oc=5)
 
 ---
 
@@ -69,14 +77,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXV
 
 ---
 
-### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
-
----
-
 ### [Men can also get breast cancer: Doctors share symptoms to look out for](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -93,19 +93,19 @@ Source: [The Week](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0dycURT
 
 ---
 
+### [From Algorithm to Care: AI-Assisted Glaucoma Screening in Real-World Settings](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1RTSHE1TlVtVjNIMFJXYmNRdjEwZUxnR0FrM18xMXBDQlg0ckRtUkhRWk5ZZG9xVkJlNmxteHYtUklWNUROMDV4Z0gxd2dXbVBkb0Rka0h6OFZjZFpDVEs3cGh4VUNuNmpMT2lpT3RWcHNndnJGb0xneVJxZm14dGNNVlpaSzBsb29kbm11b3NBUENVdUVBNFM0M0NCdmZrRVVieWtfZHc1RWlxTHBWZzZ4VVpZQQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span> <span class="news-indication-tag">glaucoma</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1RTSHE1TlVtVjNIMFJXYmNRdjEwZUxnR0FrM18xMXBDQlg0ckRtUkhRWk5ZZG9xVkJlNmxteHYtUklWNUROMDV4Z0gxd2dXbVBkb0Rka0h6OFZjZFpDVEs3cGh4VUNuNmpMT2lpT3RWcHNndnJGb0xneVJxZm14dGNNVlpaSzBsb29kbm11b3NBUENVdUVBNFM0M0NCdmZrRVVieWtfZHc1RWlxTHBWZzZ4VVpZQQ?oc=5)
+
+---
+
 ### [Targeted therapy to save healthy cells - Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazlMYWxSM2VuanRTU1NfSHI3dHhzTWthQm5WZWdDT2kzZVBLQlFsdUxJTFU1U0JQQnEyU2xpRlZmQXVCa3l3NU0wdDFyT3ctaDgydUFURGtRQnhHZl8ybkUyTE5tSnJWeXNXYmJuOGg2eUliQkV1U1pISTl0bGQ5VU1welN4eldHeE5fQVFqdXBPVHI1eWfSAZsBQVVfeXFMT1FxbExmRTNId09FV3lmZlVTdFNBMml0MEt3U1dmbDViak8tZjB6bk5zZVZQZzI4d2xkVXFMQlVTNFBaQVd1Qy13YXhJdjVfQlc3TVJFdkIzVGNZTi03ejl2aDFTUk8zOTcwME16ekpCQ045cUNZd1hENlFtZFhsQjI1eE5GZFZrdjc5SURhNVlTT3lQWkN5ZEVnMlk?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
 
 Source: [Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazlMYWxSM2VuanRTU1NfSHI3dHhzTWthQm5WZWdDT2kzZVBLQlFsdUxJTFU1U0JQQnEyU2xpRlZmQXVCa3l3NU0wdDFyT3ctaDgydUFURGtRQnhHZl8ybkUyTE5tSnJWeXNXYmJuOGg2eUliQkV1U1pISTl0bGQ5VU1welN4eldHeE5fQVFqdXBPVHI1eWfSAZsBQVVfeXFMT1FxbExmRTNId09FV3lmZlVTdFNBMml0MEt3U1dmbDViak8tZjB6bk5zZVZQZzI4d2xkVXFMQlVTNFBaQVd1Qy13YXhJdjVfQlc3TVJFdkIzVGNZTi03ejl2aDFTUk8zOTcwME16ekpCQ045cUNZd1hENlFtZFhsQjI1eE5GZFZrdjc5SURhNVlTT3lQWkN5ZEVnMlk?oc=5)
-
----
-
-### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
-
-2026-10-11 <span class="news-indication-tag">cancer</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
 
 ---
 

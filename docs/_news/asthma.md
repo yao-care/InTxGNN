@@ -3,7 +3,7 @@ layout: default
 title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dama (asthma). 1 articles, 1 related drugs."
+description: "Health news about dama (asthma). 2 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about dama (asthma)?">
-<strong>dama (asthma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>dama (asthma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page brings together the latest health news about “dama” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Microplastics in water aren’t inert and make damaging chemicals on their own - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)
+
+2026-10-15
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmNoaGdrclFtV1FtRVV5UmRrb2phNHdZVWp2QnZJRXZDYlpTTVRzblpKM2Q0ejBVYjJQa29fN29pczFEeE9JN2VkYVNKN2NTSXlsVUtMRG5YMEtHaDQxYWg2RE1PRkdfcGJXZ3U3SmpxbTdIUU90UkdvUUs5TF9rNzJlVDE2NFVZYzZ0WUNLZHl5SmdnV2tmbGgwTjkzWl9ldUtMSWhyT2FZVU5IZm41bWhaMUt6VzQ?oc=5)
+
+---
 
 ### [Column | Scientists may have the key to treating arthritis: Regrowing the knee - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
 
