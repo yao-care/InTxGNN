@@ -48,11 +48,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMF
 
 ---
 
-### [AI Model Predicts Heart Risk Using Sleep ECGs - Voice of Healthcare](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUw2LXB4R3ZyZWpZcFJHRkZNZFI0dUNFV2tNVUc0cWJhRzcxZUNIRXdNdTBzSmlLRVlwZ1FmVnVvUS1jRGppNFZSQ3BCOU5LUXpiRVlrOHhKLUlLYW5URzF6MXBQRFpJN0QtRlV3Ykx6amZlNjdYYnY4WU4zNVhBVlRmN2lrUjdwQVp2aTNyeWRsUFFwMG8tZkxvTXZneWppTnVtOWl6NzZPTnpBUUNDVl9oN1o1WXZoTElr?oc=5)
+### [Hidden signals in sleep can predict future health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
-2026-10-13 <span class="news-indication-tag">cardiovascular</span>
+2026-10-12 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUw2LXB4R3ZyZWpZcFJHRkZNZFI0dUNFV2tNVUc0cWJhRzcxZUNIRXdNdTBzSmlLRVlwZ1FmVnVvUS1jRGppNFZSQ3BCOU5LUXpiRVlrOHhKLUlLYW5URzF6MXBQRFpJN0QtRlV3Ykx6amZlNjdYYnY4WU4zNVhBVlRmN2lrUjdwQVp2aTNyeWRsUFFwMG8tZkxvTXZneWppTnVtOWl6NzZPTnpBUUNDVl9oN1o1WXZoTElr?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
 ---
 

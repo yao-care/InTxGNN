@@ -3,7 +3,7 @@ layout: default
 title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about memory loss (dementia). 2 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 3 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about memory loss (dementia)?">
-<strong>memory loss (dementia)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>memory loss (dementia)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page brings together the latest health news about “memory loss” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Ozempic May Lower Stroke And Alzheimer's Risk By Up To 49%, Says Study - Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
+
+2026-10-15
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
+
+---
 
 ### [Restoring Hypothalamic Menin Reverses Age-Related Cognitive Decline](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmV2VmtqNnA0M1MxV2t6Yms2VDE0aDZreWJZNklFNEhETEFpcEVtX1ZXQXY3WUg2M2JoamozZVZQU1VyblZueFhob0FBVGRKcDhZdnVoa0pMbHR2d3piZnpOcDdVbmthc1RUeFBEa0taTmxuR0FtR1FxZk4xS0dQNS1ISnQ5Q3B2dXRKWjNRaFlvRGUzOEQ5eGNxWTVuejE3c1JpQk1TajJ0Unk3Z0tn?oc=5)
 
