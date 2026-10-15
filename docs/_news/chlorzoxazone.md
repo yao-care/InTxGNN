@@ -14,7 +14,7 @@ permalink: /news/chlorzoxazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorzoxazone?">
-<strong>Chlorzoxazone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Chlorzoxazone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 <p><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Breast Cancer Awareness Month: Apollo Spectra Bengaluru Reports 10% Rise In Breast Consultations. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
+### [MHRA Authorises Once-Weekly Insulin for Type 2 Diabetes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4OWR2QWpNMHRGbXFsdDN4bDhFUFpTNllsb0d5Rnl6a1pDVGtzYXFVY3ptRW9EZ3NTRTNJd3N0T3UteDRmZU9ONE1VMEpXTDNjbnJNOUZVajYtdWxkdFZyRGttOEI1cVdyeEo0M19wQ3VLTlJLX2VXRV9KYklVV1JHN1RiY3BndW1PZkJaMUIzRnVtdngzZjRPM3BDUFJn?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4OWR2QWpNMHRGbXFsdDN4bDhFUFpTNllsb0d5Rnl6a1pDVGtzYXFVY3ptRW9EZ3NTRTNJd3N0T3UteDRmZU9ONE1VMEpXTDNjbnJNOUZVajYtdWxkdFZyRGttOEI1cVdyeEo0M19wQ3VLTlJLX2VXRV9KYklVV1JHN1RiY3BndW1PZkJaMUIzRnVtdngzZjRPM3BDUFJn?oc=5)
+
+---
+
+### [Breast cancer is striking Indian women nearly a decade earlier: Which screening tests do women need and when? - The Week](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0dycURTYjhYejNZeC0tUEc1MS0ybmxPV3k3WWdQMmNrYi1NdTBtV1ZtdFNNdXl6QWZmdXJFaWRyaW9Ka18tTE0wdFBZdWZibS1Bem9DMFI3eThGQkl0c3M0ZUpBV0xDcjNMYjUwZG5CUFBGT3cwajhEYkpHeVRxVVlja0FSdG9tR1RGZUV0b0NqNEItTUg4cHFNODV0eUxoZlBhbmVrT05PTzZNcGRCWWMtN0dCVEtlUEtCSmdCMXZuNW9odXVmRnhabEdCUm1hMU1JWVM2QjE1OGlIR2E3QkFOYTQ3bEwxTHJhYk1Cb9IB9AFBVV95cUxOaEVGWWtQR1Rna2dNSDRLMmtuRkhOdlpjRW5Dc2lQQ3dJc2VoYWJqeEJlRHYweTNYa05hWE5NUTdTb1UyWGVwMmVFdjRsTWN3NHA0WkxCdG1aWEh0N3M0NHAtODlDX2YyVnA3S2ZNQUdOZ253RDRSR1FJQW84VUFmOWRHRC1HcE1TWnktSFctb2k1Y0hCRHdxelYtUFE5SnloajBOU1ZhaExoaVZzcWJBZDlhZENMU3FSWk00elVhQ1VoS2hKbUZTOVlFZjRHd1YyX2N0NHZuT1dUNDZMSkxqYTQ5UXRXejBEdFo0cW9xRGI5SzBs?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMixgFBVV95cUxQVkFkWUlFM0c2TFYzU01KaTI1cFBuRldPbFpIWWNfR0VSWlEydGdGNnZUR0RtUURza01sR01xM1RLSzVvUHFOM3luWldyRnVFbHJWcElkRzJnb2ptb3RBdXpOc0JOUFNNeWNpd3k0QlRoOUUzeGhheDBYR2RucFhlbnYyQTRwSVd0ZXVjWnJnYS03enZ0ZU1scFZNbTh0SVR0aDRTR2UycE5CNW5IY3A5NTNTcXZtSXRLQzM2c3p2cjhXekpaUnc?oc=5)
+Source: [The Week](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0dycURTYjhYejNZeC0tUEc1MS0ybmxPV3k3WWdQMmNrYi1NdTBtV1ZtdFNNdXl6QWZmdXJFaWRyaW9Ka18tTE0wdFBZdWZibS1Bem9DMFI3eThGQkl0c3M0ZUpBV0xDcjNMYjUwZG5CUFBGT3cwajhEYkpHeVRxVVlja0FSdG9tR1RGZUV0b0NqNEItTUg4cHFNODV0eUxoZlBhbmVrT05PTzZNcGRCWWMtN0dCVEtlUEtCSmdCMXZuNW9odXVmRnhabEdCUm1hMU1JWVM2QjE1OGlIR2E3QkFOYTQ3bEwxTHJhYk1Cb9IB9AFBVV95cUxOaEVGWWtQR1Rna2dNSDRLMmtuRkhOdlpjRW5Dc2lQQ3dJc2VoYWJqeEJlRHYweTNYa05hWE5NUTdTb1UyWGVwMmVFdjRsTWN3NHA0WkxCdG1aWEh0N3M0NHAtODlDX2YyVnA3S2ZNQUdOZ253RDRSR1FJQW84VUFmOWRHRC1HcE1TWnktSFctb2k1Y0hCRHdxelYtUFE5SnloajBOU1ZhaExoaVZzcWJBZDlhZENMU3FSWk00elVhQ1VoS2hKbUZTOVlFZjRHd1YyX2N0NHZuT1dUNDZMSkxqYTQ5UXRXejBEdFo0cW9xRGI5SzBs?oc=5)
+
+---
+
+### [WHO Experts Recommend HPV Jab For Girls Aged 4-8](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
 
 ---
 

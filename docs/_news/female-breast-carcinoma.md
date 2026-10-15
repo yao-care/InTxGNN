@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 1 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>2 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>1 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Men can also get breast cancer: Doctors share symptoms to look out for](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
 
 2026-10-14
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
-
----
-
-### [Metastatic Breast Cancer: An NP and a Nurse-Patient on Hope and Honesty - Oncology Nursing News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDh5LTZucTFhWlBZSlV1Wm5hODlTLWN2WFFQTm8xWi1jZFFyYjFLZmY3QzFqZ1BRR01jVEh6RkIzSGNJcHA3cmRGZ2J3c1I1d01SM0MwLW15ZjM2ZE43UllKbXNNZVBJTzVvVTZ2OE51cnpxZWYzdzBmN3RmNW8zMDVKTF9uRGhWSVczSjBMOXRfbjlHQjFfQ2lxRzQybzlFM3VZbzlLVXNYdw?oc=5)
-
-2026-10-13
-
-Source: [Oncology Nursing News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDh5LTZucTFhWlBZSlV1Wm5hODlTLWN2WFFQTm8xWi1jZFFyYjFLZmY3QzFqZ1BRR01jVEh6RkIzSGNJcHA3cmRGZ2J3c1I1d01SM0MwLW15ZjM2ZE43UllKbXNNZVBJTzVvVTZ2OE51cnpxZWYzdzBmN3RmNW8zMDVKTF9uRGhWSVczSjBMOXRfbjlHQjFfQ2lxRzQybzlFM3VZbzlLVXNYdw?oc=5)
 
 ---
 

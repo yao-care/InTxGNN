@@ -14,7 +14,7 @@ permalink: /news/meclizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <ul>
 <li><strong>Predicted indications (6)</strong>:<ul>
 <li>allergic urticaria (99.7%)</li>
-<li>common cold (99.5%)</li>
+<li class="indication-matched">common cold (99.5%)<span class="indication-tag">📰 cold</span></li>
 <li>nasal cavity disease (99.5%)</li>
 <li>pharyngitis (99.5%)</li>
 <li>acute laryngopharyngitis (99.4%)</li>
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [The ancient practice proven to shorten your cold symptoms by days - The Independent](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0dVVktoQkdvLTM5bGoxSmFtVWt6Wnc2RDE0NUJtdTVidExTNW51QnYzc2IwTjY4R3pxYUdNZG9hTnpsai04U1pUSzU5MUZaNzkyS2lrZTFzdHFGMVZrdTIwZUZNTDhnXzlRbDVaeVhQY2FKSGxmMHlXaGJ5THVEX2Z0enQwRmdkUnh3b0FwSmM1NjVKcnBta0ludlhJOTZ2aGw5MDltZTdGTlNVeFV3MHhhelJzYUNnazN6U0Jsa0xRdw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">cold</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU0dVVktoQkdvLTM5bGoxSmFtVWt6Wnc2RDE0NUJtdTVidExTNW51QnYzc2IwTjY4R3pxYUdNZG9hTnpsai04U1pUSzU5MUZaNzkyS2lrZTFzdHFGMVZrdTIwZUZNTDhnXzlRbDVaeVhQY2FKSGxmMHlXaGJ5THVEX2Z0enQwRmdkUnh3b0FwSmM1NjVKcnBta0ludlhJOTZ2aGw5MDltZTdGTlNVeFV3MHhhelJzYUNnazN6U0Jsa0xRdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

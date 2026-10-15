@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -59,7 +59,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [CRS-35 Brain Models and Resistance Research Bound for the ISS](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFhHblBYU3NFd3RsQ3VyM3lkVmJ5OFVNcV9wN0FmWHFhbzFndmIyTVRBTUJ5X3NOQWJicnhJVFE5TVg3VWVjY3RTU1ZzUDN6d2xHUUF2c1dTTjBSNnBOOEdSd2dTNjJ2SlhqZ3dnWmQ5S0JQOVY3UU5ETHpOeHNtallR?oc=5)
+
+2026-10-15
+
+Source: [Quasa.io](https://news.google.com/rss/articles/CBMiggFBVV95cUxOMFhHblBYU3NFd3RsQ3VyM3lkVmJ5OFVNcV9wN0FmWHFhbzFndmIyTVRBTUJ5X3NOQWJicnhJVFE5TVg3VWVjY3RTU1ZzUDN6d2xHUUF2c1dTTjBSNnBOOEdSd2dTNjJ2SlhqZ3dnWmQ5S0JQOVY3UU5ETHpOeHNtallR?oc=5)
+
+---
 
 ### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/d-glucose/
 ---
 
 <p class="key-answer" data-question="What news is there about D-Glucose?">
-<strong>D-Glucose</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>D-Glucose</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for D-Glucose with the latest he
 <li>esophageal disease (81.7%)</li>
 <li>biotin metabolic disease (81.4%)</li>
 <li>vitamin deficiency disorder (81.1%)</li>
-<li>dermatitis (80.8%)</li>
+<li class="indication-matched">dermatitis (80.8%)<span class="indication-tag">📰 dermatitis</span></li>
 <li>neonatal dermatomyositis (79.7%)</li>
 <li>acrodermatitis chronica atrophicans (79.6%)</li>
 <li>hydroa vacciniforme, familial (79.4%)</li>
@@ -40,9 +40,15 @@ This page combines the AI-predicted indications for D-Glucose with the latest he
 <p><a href="{{ '/drugs/d-glucose/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [EADV Congress 2026: 5 Atopic Dermatitis Headlines to Know](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmNWVkJxTEp2MWExQ1pMZGx5X21Hd2x1WlhoM3RveEZVbHFCbEp1QV9vMW1PY1R5SFQ0UzZhZGlMalJPYkgxdkZRTXlaUUdJeW1mY2p4VTNLN3o1elFwWGZoZlg0LWxsWnNBZmZxRGRRVS03a3plSW9vSmZ3WnNfUWNTYkFQQWJEdXBicTBR?oc=5)
+
+2026-10-13 <span class="news-indication-tag">dermatitis</span>
+
+Source: [HCPLive](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmNWVkJxTEp2MWExQ1pMZGx5X21Hd2x1WlhoM3RveEZVbHFCbEp1QV9vMW1PY1R5SFQ0UzZhZGlMalJPYkgxdkZRTXlaUUdJeW1mY2p4VTNLN3o1elFwWGZoZlg0LWxsWnNBZmZxRGRRVS03a3plSW9vSmZ3WnNfUWNTYkFQQWJEdXBicTBR?oc=5)
+
+---
 
 
 <div class="disclaimer">
