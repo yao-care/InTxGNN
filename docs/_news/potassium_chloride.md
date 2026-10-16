@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Potassium Chloride with the 
 <li>renal tubular acidosis (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_chloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/potassium-chloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

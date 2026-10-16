@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Glycolic Acid with the lates
 <li>diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/glycolic_acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/glycolic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

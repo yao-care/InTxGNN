@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Insulin Glulisine with the l
 <li>pressure-induced localized lipoatrophy (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_glulisine/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-glulisine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

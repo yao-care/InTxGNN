@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <li>pulmonary hypertension (99.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (10)

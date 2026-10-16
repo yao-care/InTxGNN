@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Pantothenic Acid with the la
 <li>Ureaplasma urethritis (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/pantothenic_acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/pantothenic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

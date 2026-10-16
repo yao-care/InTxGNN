@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Acetic Acid with the latest 
 <li>tinea corporis (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/acetic_acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/acetic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

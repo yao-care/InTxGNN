@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Insulin Detemir with the lat
 <li>pressure-induced localized lipoatrophy (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_detemir/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-detemir/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

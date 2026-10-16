@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Inositol Nicotinate with the
 <li>hepatopulmonary syndrome (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/inositol_nicotinate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/inositol-nicotinate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

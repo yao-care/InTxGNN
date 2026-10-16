@@ -28,7 +28,7 @@ This page brings together the latest health news about “heart disease” and l
 <li><a href="{{ '/drugs/alteplase/' | relative_url }}">Alteplase</a></li>
 <li><a href="{{ '/drugs/atosiban/' | relative_url }}">Atosiban</a></li>
 <li><a href="{{ '/drugs/cyclandelate/' | relative_url }}">Cyclandelate</a></li>
-<li><a href="{{ '/drugs/cyproterone_acetate/' | relative_url }}">Cyproterone Acetate</a></li>
+<li><a href="{{ '/drugs/cyproterone-acetate/' | relative_url }}">Cyproterone Acetate</a></li>
 <li><a href="{{ '/drugs/alteplase/' | relative_url }}">ALTEPLASE</a></li>
 <li><a href="{{ '/drugs/reteplase/' | relative_url }}">RETEPLASE</a></li>
 <li><a href="{{ '/drugs/tenecteplase/' | relative_url }}">TENECTEPLASE</a></li>
@@ -51,7 +51,7 @@ This page brings together the latest health news about “heart disease” and l
 <li><a href="{{ '/drugs/isoxsuprine/' | relative_url }}">ISOXSUPRINE</a></li>
 <li><a href="{{ '/drugs/doxapram/' | relative_url }}">Doxapram</a></li>
 <li><a href="{{ '/drugs/ebastine/' | relative_url }}">Ebastine</a></li>
-<li><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">Isosorbide Dinitrate</a></li>
+<li><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">Isosorbide Dinitrate</a></li>
 <li><a href="{{ '/drugs/isoxsuprine/' | relative_url }}">Isoxsuprine</a></li>
 <li><a href="{{ '/drugs/lubiprostone/' | relative_url }}">Lubiprostone</a></li>
 <li><a href="{{ '/drugs/propafenone/' | relative_url }}">Propafenone</a></li>

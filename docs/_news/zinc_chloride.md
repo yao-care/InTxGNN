@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Zinc Chloride with the lates
 <li>dry eye syndrome (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc_chloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/zinc-chloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

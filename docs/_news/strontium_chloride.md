@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Strontium Chloride with the 
 <li>early-onset familial noncirrhotic portal hypertension (97.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/strontium_chloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/strontium-chloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

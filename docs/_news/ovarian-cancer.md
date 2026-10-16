@@ -25,7 +25,7 @@ This page brings together the latest health news about “ovarian cancer” and 
 <strong>Related drug reports</strong>
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><a href="{{ '/drugs/megestrol_acetate/' | relative_url }}">Megestrol Acetate</a></li>
+<li><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Megestrol Acetate</a></li>
 </ul>
 </div>
 

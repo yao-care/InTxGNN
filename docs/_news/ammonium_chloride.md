@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Ammonium Chloride with the l
 <li>nasal cavity disease (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ammonium_chloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/ammonium-chloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Insulin Aspart with the late
 <li>centrifugal lipodystrophy (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_aspart/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-aspart/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

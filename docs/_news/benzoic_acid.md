@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <li>C1 inhibitor deficiency (99.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/benzoic_acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/benzoic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

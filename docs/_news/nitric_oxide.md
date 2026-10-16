@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Nitric Oxide with the latest
 <li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/nitric_oxide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

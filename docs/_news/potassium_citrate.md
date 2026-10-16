@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Potassium Citrate with the l
 <li>leukocyte adhesion deficiency (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_citrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/potassium-citrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

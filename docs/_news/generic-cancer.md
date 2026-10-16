@@ -40,7 +40,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/amylmetacresol/' | relative_url }}">Amylmetacresol</a></li>
 <li><a href="{{ '/drugs/anastrozole/' | relative_url }}">Anastrozole</a></li>
 <li><a href="{{ '/drugs/anidulafungin/' | relative_url }}">Anidulafungin</a></li>
-<li><a href="{{ '/drugs/arsenic_trioxide/' | relative_url }}">Arsenic Trioxide</a></li>
+<li><a href="{{ '/drugs/arsenic-trioxide/' | relative_url }}">Arsenic Trioxide</a></li>
 <li><a href="{{ '/drugs/atenolol/' | relative_url }}">Atenolol</a></li>
 <li><a href="{{ '/drugs/atezolizumab/' | relative_url }}">Atezolizumab</a></li>
 <li><a href="{{ '/drugs/axitinib/' | relative_url }}">Axitinib</a></li>
@@ -48,7 +48,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/aztreonam/' | relative_url }}">Aztreonam</a></li>
 <li><a href="{{ '/drugs/basiliximab/' | relative_url }}">Basiliximab</a></li>
 <li><a href="{{ '/drugs/becaplermin/' | relative_url }}">Becaplermin</a></li>
-<li><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">Bempedoic Acid</a></li>
+<li><a href="{{ '/drugs/bempedoic-acid/' | relative_url }}">Bempedoic Acid</a></li>
 <li><a href="{{ '/drugs/benazepril/' | relative_url }}">Benazepril</a></li>
 <li><a href="{{ '/drugs/bendamustine/' | relative_url }}">Bendamustine</a></li>
 <li><a href="{{ '/drugs/bevacizumab/' | relative_url }}">Bevacizumab</a></li>
@@ -61,7 +61,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/cabozantinib/' | relative_url }}">Cabozantinib</a></li>
 <li><a href="{{ '/drugs/calcipotriol/' | relative_url }}">Calcipotriol</a></li>
 <li><a href="{{ '/drugs/chlorthalidone/' | relative_url }}">Chlorthalidone</a></li>
-<li><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">Choline Salicylate</a></li>
+<li><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">Choline Salicylate</a></li>
 <li><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">Ciprofloxacin</a></li>
 <li><a href="{{ '/drugs/clonazepam/' | relative_url }}">Clonazepam</a></li>
 <li><a href="{{ '/drugs/colchicine/' | relative_url }}">Colchicine</a></li>
@@ -228,7 +228,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/losartan/' | relative_url }}">Losartan</a></li>
 <li><a href="{{ '/drugs/mannitol/' | relative_url }}">Mannitol</a></li>
 <li><a href="{{ '/drugs/maraviroc/' | relative_url }}">Maraviroc</a></li>
-<li><a href="{{ '/drugs/megestrol_acetate/' | relative_url }}">Megestrol Acetate</a></li>
+<li><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Megestrol Acetate</a></li>
 <li><a href="{{ '/drugs/melphalan/' | relative_url }}">Melphalan</a></li>
 <li><a href="{{ '/drugs/mephenesin/' | relative_url }}">Mephenesin</a></li>
 <li><a href="{{ '/drugs/mercaptopurine/' | relative_url }}">Mercaptopurine</a></li>
@@ -251,7 +251,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/secnidazole/' | relative_url }}">Secnidazole</a></li>
 <li><a href="{{ '/drugs/sorafenib/' | relative_url }}">Sorafenib</a></li>
 <li><a href="{{ '/drugs/topiramate/' | relative_url }}">Topiramate</a></li>
-<li><a href="{{ '/drugs/valproic_acid/' | relative_url }}">Valproic Acid</a></li>
+<li><a href="{{ '/drugs/valproic-acid/' | relative_url }}">Valproic Acid</a></li>
 <li><a href="{{ '/drugs/valsartan/' | relative_url }}">Valsartan</a></li>
 </ul>
 </div>

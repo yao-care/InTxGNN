@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Sodium Stibogluconate with t
 <li>drug-induced osteoporosis (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium_stibogluconate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/sodium-stibogluconate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

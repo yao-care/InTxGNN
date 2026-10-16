@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Tenofovir Alafenamide with t
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/tenofovir_alafenamide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/tenofovir-alafenamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

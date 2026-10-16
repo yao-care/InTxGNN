@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Tenofovir Disoproxil with th
 <li>obsolete familial combined hyperlipidemia (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/tenofovir_disoproxil/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/tenofovir-disoproxil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

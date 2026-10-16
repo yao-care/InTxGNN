@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Dichlorobenzyl Alcohol with 
 <li>migraine disorder (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/dichlorobenzyl_alcohol/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/dichlorobenzyl-alcohol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

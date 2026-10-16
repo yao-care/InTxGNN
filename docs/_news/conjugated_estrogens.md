@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Conjugated Estrogens with th
 <li>thrombophilia (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/conjugated_estrogens/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/conjugated-estrogens/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

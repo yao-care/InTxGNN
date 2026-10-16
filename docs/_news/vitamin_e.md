@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Vitamin E with the latest he
 <li>mitochondrial DNA depletion syndrome, hepatocerebral form (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vitamin_e/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/vitamin-e/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

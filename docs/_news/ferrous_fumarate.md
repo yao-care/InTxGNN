@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Ferrous Fumarate with the la
 <li>non-syndromic esophageal malformation (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ferrous_fumarate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/ferrous-fumarate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

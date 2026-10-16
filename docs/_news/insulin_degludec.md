@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Insulin Degludec with the la
 <li>classic stiff person syndrome (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_degludec/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-degludec/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

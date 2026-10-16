@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Calcium Acetate with the lat
 <li>primary bone dysplasia with defective bone mineralization (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/calcium_acetate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/calcium-acetate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 <li>diabetes mellitus type 2 associated cataract (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/beta_carotene/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/beta-carotene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

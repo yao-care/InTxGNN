@@ -26,7 +26,7 @@ This page brings together the latest health news about â€œhypertensive disorderâ
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/amifostine/' | relative_url }}">Amifostine</a></li>
-<li><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">Choline Salicylate</a></li>
+<li><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">Choline Salicylate</a></li>
 </ul>
 </div>
 

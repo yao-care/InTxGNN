@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Polyethylene Glycol with the
 <li>congenital ichthyosiform erythroderma (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/polyethylene_glycol/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/polyethylene-glycol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

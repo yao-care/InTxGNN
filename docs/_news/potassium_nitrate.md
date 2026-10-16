@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Potassium Nitrate with the l
 <li>sclerosing cholangitis (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium_nitrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/potassium-nitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

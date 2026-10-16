@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Fluocinolone Acetonide with 
 <li>lichen planus pemphigoides (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/fluocinolone_acetonide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/fluocinolone-acetonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

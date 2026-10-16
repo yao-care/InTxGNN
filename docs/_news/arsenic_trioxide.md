@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Arsenic Trioxide with the la
 <li>ovarian myxoid liposarcoma (99.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/arsenic_trioxide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/arsenic-trioxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (6)

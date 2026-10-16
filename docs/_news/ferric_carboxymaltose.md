@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Ferric Carboxymaltose with t
 <li>heparin cofactor 2 deficiency (95.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ferric_carboxymaltose/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/ferric-carboxymaltose/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

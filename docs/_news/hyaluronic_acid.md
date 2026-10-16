@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Hyaluronic Acid with the lat
 <li>exanthem (disease) (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/hyaluronic_acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/hyaluronic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

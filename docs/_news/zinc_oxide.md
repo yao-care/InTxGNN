@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Zinc Oxide with the latest h
 <li>postinfectious vasculitis (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc_oxide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/zinc-oxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

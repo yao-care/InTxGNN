@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Zinc Sulfate with the latest
 <li>congenital prothrombin deficiency (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/zinc_sulfate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/zinc-sulfate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)
