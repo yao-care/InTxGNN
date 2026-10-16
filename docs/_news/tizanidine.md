@@ -3,7 +3,7 @@ layout: default
 title: "Tizanidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tizanidine. Original indication: . 6 predicted indications."
+description: "Health news related to Tizanidine. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/tizanidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tizanidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Tizanidine?">
-<strong>Tizanidine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Tizanidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,14 @@ This page combines the AI-predicted indications for Tizanidine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>migraine disorder (99.8%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>migraine with or without aura, susceptibility to (99.5%)</li>
-<li>atrophoderma vermiculata (99.3%)</li>
-<li>Tourette syndrome (99.2%)</li>
-<li>ulerythema ophryogenesis (99.1%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **migraine disorder**, with **1 Phase 3 clinical trial** (results not yet verified) and **16 publications** (including 1 placebo-controlled RCT in...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Tizan 4mg Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Tizan 2 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Sirdalud 2mg Tablet (Novartis India) | Strip of 6 tablets | Not stated (99.0%)</li>
+<li>Myodine 2mg Tablet (Bangalore Antibiotics & Biologicals) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ginox Tablet (Gold Line) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tizanidine/' | relative_url }}">View full drug report →</a></p>

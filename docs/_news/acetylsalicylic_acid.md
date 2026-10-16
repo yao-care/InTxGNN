@@ -3,7 +3,7 @@ layout: default
 title: "Acetylsalicylic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Acetylsalicylic Acid. Original indication: . 9 predicted indications."
+description: "Health news related to Acetylsalicylic Acid. Original indication: . 0 predicted indications."
 permalink: /news/acetylsalicylic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetylsalicylic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetylsalicylic Acid?">
-<strong>Acetylsalicylic Acid</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Acetylsalicylic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,8 @@ This page combines the AI-predicted indications for Acetylsalicylic Acid with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>atrophoderma vermiculata (99.6%)</li>
-<li>ulerythema ophryogenesis (99.5%)</li>
-<li>heparin cofactor 2 deficiency (99.4%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.4%)</li>
-<li>antithrombin deficiency type 2 (99.4%)</li>
-<li>trigeminal autonomic cephalalgia (99.4%)</li>
-<li>thrombotic disease (99.1%)</li>
-<li>thrombophilia (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/acetylsalicylic-acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/acetylsalicylic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

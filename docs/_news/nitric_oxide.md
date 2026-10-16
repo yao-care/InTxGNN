@@ -3,7 +3,7 @@ layout: default
 title: "Nitric Oxide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nitric Oxide. Original indication: . 10 predicted indications."
+description: "Health news related to Nitric Oxide. Original indication: . 0 predicted indications."
 permalink: /news/nitric_oxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitric_oxide/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitric Oxide?">
-<strong>Nitric Oxide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Nitric Oxide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ This page combines the AI-predicted indications for Nitric Oxide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>malformation syndrome with odontal and/or periodontal component (99.6%)</li>
-<li>hypertrichosis (disease) (99.6%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.5%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.5%)</li>
-<li>isolated genetic hair shaft abnormality (99.5%)</li>
-<li>pulmonary arteriovenous malformation (disease) (99.4%)</li>
-<li>pulmonary arterial hypertension (99.4%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.4%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (99.3%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.3%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/nitric_oxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -3,7 +3,7 @@ layout: default
 title: "Minodronic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Minodronic Acid. Original indication: . 7 predicted indications."
+description: "Health news related to Minodronic Acid. Original indication: . 0 predicted indications."
 permalink: /news/minodronic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/minodronic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Minodronic Acid?">
-<strong>Minodronic Acid</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Minodronic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,8 @@ This page combines the AI-predicted indications for Minodronic Acid with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>pseudo-von Willebrand disease (100.0%)</li>
-<li>primary release disorder of platelets (100.0%)</li>
-<li>Glanzmann thrombasthenia (99.9%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.6%)</li>
-<li>bone Paget disease (99.3%)</li>
-<li>fetal and neonatal alloimmune thrombocytopenia (99.2%)</li>
-<li>juvenile Paget disease (99.2%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/minodronic-acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/minodronic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

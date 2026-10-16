@@ -3,7 +3,7 @@ layout: default
 title: "Leflunomide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Leflunomide. Original indication: . 2 predicted indications."
+description: "Health news related to Leflunomide. Original indication: . 5 predicted indications."
 permalink: /news/leflunomide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/leflunomide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leflunomide?">
-<strong>Leflunomide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Leflunomide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Leflunomide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>brachydactyly-syndactyly syndrome (99.9%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lefnol 20mg Tablet (Cista Medicorp) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Cleft 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Leflodol 100mg Tablet (TNT Lifesciences) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Lefnol 10mg Tablet (Cista Medicorp) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Lefno 5mg Tablet (Ipca Laboratories Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/leflunomide/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Amineptine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amineptine. Original indication: . 10 predicted indications."
+description: "Health news related to Amineptine. Original indication: . 1 predicted indications."
 permalink: /news/amineptine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amineptine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amineptine?">
-<strong>Amineptine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Amineptine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Amineptine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>agoraphobia (100.0%)</li>
-<li>benign paroxysmal torticollis of infancy (100.0%)</li>
-<li>obsessive-compulsive disorder (99.8%)</li>
-<li>neurotic depression (99.8%)</li>
-<li>migraine disorder (99.8%)</li>
-<li>melancholia (99.8%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>paranoid personality disorder (99.7%)</li>
-<li>histrionic personality disorder (disease) (99.7%)</li>
-<li>schizotypal personality disorder (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Survector 100mg Tablet (Serdia Pharmaceuticals India Pvt Ltd) | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amineptine/' | relative_url }}">View full drug report →</a></p>

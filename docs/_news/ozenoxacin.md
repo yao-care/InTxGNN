@@ -3,7 +3,7 @@ layout: default
 title: "Ozenoxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ozenoxacin. Original indication: . 10 predicted indications."
+description: "Health news related to Ozenoxacin. Original indication: . 5 predicted indications."
 permalink: /news/ozenoxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ozenoxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ozenoxacin?">
-<strong>Ozenoxacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ozenoxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Ozenoxacin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>malaria (99.2%)</li>
-<li>pyogenic arthritis-pyoderma gangrenosum-acne syndrome (98.4%)</li>
-<li>spondyloarthropathy, susceptibility to (98.4%)</li>
-<li>relapsing fever (97.9%)</li>
-<li>zinc, elevated plasma (97.6%)</li>
-<li>demodicidosis of sebaceous gland (97.5%)</li>
-<li>Zollinger-Ellison syndrome (97.0%)</li>
-<li>sterile multifocal osteomyelitis with periostitis and pustulosis (95.0%)</li>
-<li>leishmaniasis (94.3%)</li>
-<li>rheumatoid vasculitis (93.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>S-Clear Cream | Cream, tube of 10 gm | Alkem Laboratories Ltd (99.0%)</li>
+<li>B-Oze Cream | Cream, tube of 10 gm | Oaknet Healthcare Pvt Ltd (99.0%)</li>
+<li>Ozx Cream | Cream, tube of 5 gm | Glowderma Labs Pvt Ltd (99.0%)</li>
+<li>Ozebrut Cream | Cream, tube of 5 gm | Mankind Pharma Ltd (99.0%)</li>
+<li>Noxa Cream | Cream, tube of 5 gm | Indoco Remedies Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ozenoxacin/' | relative_url }}">View full drug report →</a></p>

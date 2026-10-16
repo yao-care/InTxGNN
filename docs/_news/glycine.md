@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Glycine with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>nasal cavity disease (99.8%)</li>
 <li>acute laryngopharyngitis (99.8%)</li>

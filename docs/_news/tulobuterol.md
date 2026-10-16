@@ -3,7 +3,7 @@ layout: default
 title: "Tulobuterol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tulobuterol. Original indication: . 10 predicted indications."
+description: "Health news related to Tulobuterol. Original indication: . 5 predicted indications."
 permalink: /news/tulobuterol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>bronchitis (100.0%)</li>
-<li>obstructive lung disease (100.0%)</li>
-<li>respiratory malformation (100.0%)</li>
-<li>chronic obstructive pulmonary disease (99.9%)</li>
-<li>Rienhoff syndrome (99.9%)</li>
-<li>compensatory emphysema (99.9%)</li>
-<li>interstitial emphysema (99.9%)</li>
-<li>hyperlucent lung (99.9%)</li>
-<li>tracheal stenosis (99.9%)</li>
-<li>congenital lobar emphysema (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Tulomax 2.0 Transdermal Patch | Packet of 1 patch | Not specified (99.0%)</li>
+<li>Tulomax 0.5 Transdermal Patch | Packet of 1 patch | Not specified (99.0%)</li>
+<li>Tuloplast 2 Transdermal Patch | Packet of 14 transdermal patches | Not specified (99.0%)</li>
+<li>Tulo-Touch 2mg Patch | Box of 14 patches | Not specified (99.0%)</li>
+<li>Tulo-Touch 0.5mg Patch | Box of 14 patches | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>

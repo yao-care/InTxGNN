@@ -3,7 +3,7 @@ layout: default
 title: "Betamethasone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Betamethasone. Original indication: . 10 predicted indications."
+description: "Health news related to Betamethasone. Original indication: . 5 predicted indications."
 permalink: /news/betamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/betamethasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Betamethasone?">
-<strong>Betamethasone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Betamethasone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Betamethasone with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (99.9%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.4%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.4%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Besole 0.5mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li>Betnevin 4mg Injection | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Mycopar Cream | Tube of 5 gm cream | Not stated in the licence record (99.0%)</li>
+<li>Celestone 0.5mg Oral Drops | Bottle of 10 ml oral drops | Not stated in the licence record (99.0%)</li>
+<li>Betnesol Oral Drops | Packet of 15 ml oral drops | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/betamethasone/' | relative_url }}">View full drug report →</a></p>

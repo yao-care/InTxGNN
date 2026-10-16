@@ -3,7 +3,7 @@ layout: default
 title: "Tamoxifen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tamoxifen. Original indication: . 10 predicted indications."
+description: "Health news related to Tamoxifen. Original indication: . 5 predicted indications."
 permalink: /news/tamoxifen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tamoxifen/
 ---
 
 <p class="key-answer" data-question="What news is there about Tamoxifen?">
-<strong>Tamoxifen</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tamoxifen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Tamoxifen with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>mammary Paget disease (99.7%)</li>
-<li>intraductal cribriform breast adenocarcinoma (99.7%)</li>
-<li>basal-like breast carcinoma (99.7%)</li>
-<li>breast carcinoma in situ (99.7%)</li>
-<li>sebaceous breast carcinoma (99.7%)</li>
-<li>invasive tubular breast carcinoma (99.7%)</li>
-<li>hormone-resistant breast carcinoma (99.7%)</li>
-<li>Ehrlich tumor carcinoma (99.7%)</li>
-<li>estrogen-receptor positive breast cancer (99.7%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.7%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Canogen 20mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Tamodex 20mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Oncotam 20mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Camofen 20mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Oncomox 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tamoxifen/' | relative_url }}">View full drug report →</a></p>

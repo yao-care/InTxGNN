@@ -3,7 +3,7 @@ layout: default
 title: "Metaxalone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metaxalone. Original indication: . 3 predicted indications."
+description: "Health news related to Metaxalone. Original indication: . 1 predicted indications."
 permalink: /news/metaxalone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metaxalone/
 ---
 
 <p class="key-answer" data-question="What news is there about Metaxalone?">
-<strong>Metaxalone</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Metaxalone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,9 @@ This page combines the AI-predicted indications for Metaxalone with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>infectious otitis media (99.1%)</li>
-<li>endocarditis (99.0%)</li>
-<li>endocardial fibroelastosis (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Flexura 400 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets (oral) | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metaxalone/' | relative_url }}">View full drug report →</a></p>

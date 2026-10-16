@@ -3,7 +3,7 @@ layout: default
 title: "Armodafinil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Armodafinil. Original indication: . 1 predicted indications."
+description: "Health news related to Armodafinil. Original indication: . 5 predicted indications."
 permalink: /news/armodafinil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/armodafinil/
 ---
 
 <p class="key-answer" data-question="What news is there about Armodafinil?">
-<strong>Armodafinil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Armodafinil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Armodafinil with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Vigilant 200mg Tablet (Taj Pharma India Ltd) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
+<li>Waklert 100mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
+<li>Waklert 150 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
+<li>Walkalarm 150mg Tablet (Ryon Pharma) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
+<li>Armod 50 Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/armodafinil/' | relative_url }}">View full drug report →</a></p>

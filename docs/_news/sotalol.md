@@ -3,7 +3,7 @@ layout: default
 title: "Sotalol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sotalol. Original indication: . 7 predicted indications."
+description: "Health news related to Sotalol. Original indication: . 5 predicted indications."
 permalink: /news/sotalol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sotalol/
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>3 news articles</strong>, with 7 predicted indications.
+<strong>Sotalol</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>sick sinus syndrome 2, autosomal dominant (99.8%)</li>
-<li>Wildervanck syndrome (99.7%)</li>
-<li>sarcoglycanopathy (99.6%)</li>
-<li>stroke disorder (99.4%)</li>
-<li>manic bipolar affective disorder (99.4%)</li>
-<li>macrocephaly, dysmorphic facies, and psychomotor retardation (99.4%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Sotalar 80mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Sotagard 80mg Tablet (Glaxo SmithKline Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Sotalar 40 Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Solet Tablet (Samarth Life Sciences Pvt Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Sotagard 40mg Tablet (Glaxo SmithKline Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>

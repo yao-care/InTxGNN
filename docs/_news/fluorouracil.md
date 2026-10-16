@@ -3,7 +3,7 @@ layout: default
 title: "Fluorouracil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluorouracil. Original indication: . 10 predicted indications."
+description: "Health news related to Fluorouracil. Original indication: . 11 predicted indications."
 permalink: /news/fluorouracil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluorouracil/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluorouracil?">
-<strong>Fluorouracil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Fluorouracil</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,19 @@ This page combines the AI-predicted indications for Fluorouracil with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.7%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.7%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.7%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.7%)</li>
-<li>liver sarcoma (99.7%)</li>
-<li>sickle cell-hemoglobin c disease syndrome (99.6%)</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome (99.6%)</li>
-<li>sickle cell-hemoglobin E disease syndrome (99.6%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (11)</strong>:<ul>
+<li>Rhabdomyosarcoma (disease) | 99.74% | L4 | Four papers, all old, mixed-topic or anecdotal; none isolates a fluorouracil-specific effect (99.0%)</li>
+<li>Parameningeal embryonal rhabdomyosarcoma | 99.74% | L5 | Prediction only; drug delivery to the site is unaddressed (99.0%)</li>
+<li>Embryonal extrahepatic bile duct rhabdomyosarcoma | 99.73% | L5 | Fluorouracil is used in biliary carcinoma, but this is a different tumour type (99.0%)</li>
+<li>Prostate embryonal rhabdomyosarcoma | 99.71% | L5 | Prediction only (99.0%)</li>
+<li>Extrahepatic bile duct rhabdomyosarcoma | 99.71% | L5 | The single paper retrieved covers bile duct carcinoma, not rhabdomyosarcoma (99.0%)</li>
+<li>Liver sarcoma | 99.68% | L4 | Most papers concern colorectal liver metastases; the few on liver sarcoma are retrospective or anecdotal (99.0%)</li>
+<li>Fivoflu 250mg Injection | Vial of 5 ml injection | Not recorded (99.0%)</li>
+<li>Fivotop 500 Injection | Ampoule of 10 ml injection | Not recorded (99.0%)</li>
+<li>Fluracil 500mg Injection | Vial of 10 ml injection | Not recorded (99.0%)</li>
+<li>Flocil 250mg Injection | Vial of 5 ml injection | Not recorded (99.0%)</li>
+<li>Fivocil 500mg Injection | Vial of 5 ml injection | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluorouracil/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Atazanavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atazanavir. Original indication: . 6 predicted indications."
+description: "Health news related to Atazanavir. Original indication: . 5 predicted indications."
 permalink: /news/atazanavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atazanavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Atazanavir?">
-<strong>Atazanavir</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Atazanavir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Atazanavir with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>simian immunodeficiency virus infection (100.0%)</li>
-<li>feline acquired immunodeficiency syndrome (100.0%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.8%)</li>
-<li>congenital human immunodeficiency virus (99.7%)</li>
-<li>AIDS related complex (99.7%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Atazor-R 300mg/100mg Kit | Packet of 6 kit | Emcure Pharmaceuticals Ltd (99.0%)</li>
+<li>Virataz R 300mg/100mg Tablet | Strip of 30 tablets | Hetero Drugs Ltd (99.0%)</li>
+<li>Atazor 200mg Capsule | Box of 60 capsules | Emcure Pharmaceuticals Ltd (99.0%)</li>
+<li>Anzavir-R Tablet | Strip of 30 tablets | Mylan Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Synthivan Tablet | Strip of 30 tablets | Cipla Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atazanavir/' | relative_url }}">View full drug report →</a></p>

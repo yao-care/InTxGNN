@@ -3,7 +3,7 @@ layout: default
 title: "Rabeprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rabeprazole. Original indication: . 2 predicted indications."
+description: "Health news related to Rabeprazole. Original indication: . 5 predicted indications."
 permalink: /news/rabeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rabeprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Rabeprazole?">
-<strong>Rabeprazole</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Rabeprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Rabeprazole with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Smouldering systemic mastocytosis (99.4%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Rowet 20mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Rastik-IT Capsule SR | Strip of 10 sustained-release capsules | Not available (99.0%)</li>
+<li>Rabicred IV 20mg Injection | Vial of 1 injection | Not available (99.0%)</li>
+<li>Rabeloc 20 Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Rablet 10 Tablet | Strip of 15 tablets | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rabeprazole/' | relative_url }}">View full drug report →</a></p>

@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Dapoxetine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
 <li>migraine disorder (99.3%)</li>
 <li>dysthymic disorder (99.1%)</li>

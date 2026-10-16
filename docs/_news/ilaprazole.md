@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Ilaprazole with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>active peptic ulcer disease (99.9%)</li>
-<li>gastrojejunal ulcer (99.8%)</li>
-<li>peptic ulcer perforation (99.8%)</li>
-<li>gastric ulcer (disease) (99.6%)</li>
-<li>gastroduodenitis (99.5%)</li>
+<li>Iladif 10mg Tablet | Strip of 10 tablets | Overseas Healthcare Pvt Ltd (99.0%)</li>
+<li>Ambila 10mg Tablet | Strip of 10 tablets | Ambience Pharma (99.0%)</li>
+<li>Iladac 10 Tablet | Strip of 10 tablets | Zydus Cadila (99.0%)</li>
+<li>Ilapro 10 Tablet | Strip of 10 tablets | Ajanta Pharma Ltd (99.0%)</li>
+<li>Ilabest 10mg Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ilaprazole/' | relative_url }}">View full drug report →</a></p>

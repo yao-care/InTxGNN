@@ -3,7 +3,7 @@ layout: default
 title: "Cefoperazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefoperazone. Original indication: . 10 predicted indications."
+description: "Health news related to Cefoperazone. Original indication: . 5 predicted indications."
 permalink: /news/cefoperazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefoperazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefoperazone?">
-<strong>Cefoperazone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Cefoperazone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Cefoperazone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>sclerosing cholangitis (100.0%)</li>
-<li>rheumatoid arthritis (100.0%)</li>
-<li>pneumonia (99.9%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.9%)</li>
-<li>brachydactyly-syndactyly syndrome (99.9%)</li>
-<li>gout (99.8%)</li>
-<li>bronchitis (99.8%)</li>
-<li>meningococcal infection (99.5%)</li>
-<li>infectious otitis media (99.5%)</li>
-<li>IgG4-related sclerosing cholangitis (99.5%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Magna SB 1000mg/1000mg Injection | Vial of 1 Injection | Aristo Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Edelcef 500mg Injection | Vial of 1 Powder for Injection | Edelweiss Lifecare Pvt Ltd (99.0%)</li>
+<li>Sulcetis SB 1g Injection | Vial of 1 Injection | Atlantis Formulations Pvt Ltd (99.0%)</li>
+<li>C Bactum Forte 2000mg/1000mg Injection | Vial of 1 Injection | Vhb Life Sciences Inc (99.0%)</li>
+<li>Zonefor 250mg Injection | Vial of 1 Injection | Fortune Labs (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefoperazone/' | relative_url }}">View full drug report →</a></p>

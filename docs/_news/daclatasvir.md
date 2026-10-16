@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Daclatasvir with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>hepatitis B virus infection (99.8%)</li>
 <li>HIV infectious disease (99.8%)</li>

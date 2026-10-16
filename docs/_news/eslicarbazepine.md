@@ -3,7 +3,7 @@ layout: default
 title: "Eslicarbazepine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Eslicarbazepine. Original indication: . 6 predicted indications."
+description: "Health news related to Eslicarbazepine. Original indication: . 5 predicted indications."
 permalink: /news/eslicarbazepine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eslicarbazepine/
 ---
 
 <p class="key-answer" data-question="What news is there about Eslicarbazepine?">
-<strong>Eslicarbazepine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Eslicarbazepine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Eslicarbazepine with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>migraine disorder (99.8%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>migraine with or without aura, susceptibility to (99.6%)</li>
-<li>insomnia (disease) (99.5%)</li>
-<li>atrophoderma vermiculata (99.3%)</li>
-<li>ulerythema ophryogenesis (99.2%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Zefretol 400 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Eslizen 800mg Tablet (Intas) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Flugesic 800mg Tablet (Lupin) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Eslify 200mg Tablet (Torrent) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Eslify 800 Tablet (Torrent) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eslicarbazepine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Papaverine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Papaverine. Original indication: . 10 predicted indications."
+description: "Health news related to Papaverine. Original indication: . 4 predicted indications."
 permalink: /news/papaverine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/papaverine/
 ---
 
 <p class="key-answer" data-question="What news is there about Papaverine?">
-<strong>Papaverine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Papaverine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,12 @@ This page combines the AI-predicted indications for Papaverine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>ischemic disease (99.9%)</li>
-<li>intracranial arteriosclerosis (99.9%)</li>
-<li>non-inflammatory vasculopathy (99.8%)</li>
-<li>vascular ectasia (99.8%)</li>
-<li>fibrocartilaginous embolism (99.8%)</li>
-<li>venous thromboembolism (99.8%)</li>
-<li>vascular insufficiency disorder (99.8%)</li>
-<li>angiodysplasia (99.8%)</li>
-<li>Raynaud disease (99.8%)</li>
-<li>Monckeberg arteriosclerosis (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Papaverine 60mg Injection (Mercury Laboratories Ltd) | Ampoule of 2 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Repaverine 30mg Injection (Retort Pharma Pvt Ltd) | Vial of 2 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Paparin 2 ml Injection (Troikaa Pharmaceuticals Ltd) | Vial of 2 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Papavar 30mg Injection (Chandra Bhagat Pharma Pvt Ltd) | Ampoule of 5 injections | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/papaverine/' | relative_url }}">View full drug report →</a></p>

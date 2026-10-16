@@ -3,7 +3,7 @@ layout: default
 title: "Betaxolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Betaxolol. Original indication: . 1 predicted indications."
+description: "Health news related to Betaxolol. Original indication: . 3 predicted indications."
 permalink: /news/betaxolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/betaxolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Betaxolol?">
-<strong>Betaxolol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Betaxolol</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,11 @@ This page combines the AI-predicted indications for Betaxolol with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>primary hereditary glaucoma (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Glucoptic Eye Drop (Klar Sehen Pvt Ltd) | Packet of 5 ml eye drop | Not stated (99.0%)</li>
+<li>Betapress 0.5% Eye Drop (Micro Labs Ltd) | Packet of 5 ml eye drop | Not stated (99.0%)</li>
+<li>Iobet Eye Drop (FDC Ltd) | Bottle of 5 ml eye drop | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/betaxolol/' | relative_url }}">View full drug report →</a></p>

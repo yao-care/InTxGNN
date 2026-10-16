@@ -3,7 +3,7 @@ layout: default
 title: "Ketoconazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ketoconazole. Original indication: . 1 predicted indications."
+description: "Health news related to Ketoconazole. Original indication: . 5 predicted indications."
 permalink: /news/ketoconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketoconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoconazole?">
-<strong>Ketoconazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Ketoconazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Ketoconazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>acne (disease) (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Tona 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ketarich Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Funazole 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ketosel Shampoo | Bottle of 60 ml shampoo | Not stated (99.0%)</li>
+<li>Atiket Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketoconazole/' | relative_url }}">View full drug report →</a></p>

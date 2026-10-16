@@ -3,7 +3,7 @@ layout: default
 title: "Diazoxide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Diazoxide. Original indication: . 10 predicted indications."
+description: "Health news related to Diazoxide. Original indication: . 2 predicted indications."
 permalink: /news/diazoxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diazoxide/
 ---
 
 <p class="key-answer" data-question="What news is there about Diazoxide?">
-<strong>Diazoxide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Diazoxide</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,10 @@ This page combines the AI-predicted indications for Diazoxide with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>diffuse alopecia areata (99.9%)</li>
-<li>alopecia (99.9%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.9%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.8%)</li>
-<li>hypertrichosis (disease) (99.8%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.8%)</li>
-<li>isolated genetic hair shaft abnormality (99.8%)</li>
-<li>autosomal dominant hyperinsulinism due to Kir6.2 deficiency (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Balila 25mg Capsule (Jolly Healthcare) | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>Balila Capsule (Jolly Healthcare) | Strip of 15 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazoxide/' | relative_url }}">View full drug report →</a></p>

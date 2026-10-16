@@ -3,7 +3,7 @@ layout: default
 title: "Dutasteride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dutasteride. Original indication: . 10 predicted indications."
+description: "Health news related to Dutasteride. Original indication: . 5 predicted indications."
 permalink: /news/dutasteride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dutasteride/
 ---
 
 <p class="key-answer" data-question="What news is there about Dutasteride?">
-<strong>Dutasteride</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dutasteride</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Dutasteride with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (99.8%)</li>
-<li>congenital hypotrichosis milia (99.8%)</li>
-<li>diffuse alopecia areata (99.7%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>familial isolated trichomegaly (99.6%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dutabact 0.5mg Tablet | Strip of 10 tablets | Ikon Remedies Pvt Ltd (99.0%)</li>
+<li>Deetor 0.5mg Tablet | Strip of 10 tablets | Johnlee Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Dute 0.5mg Tablet | Strip of 10 tablets | Tetramed Biotek Pvt Ltd (99.0%)</li>
+<li>Genericart Dutasteride 0.5mg Tablet | Strip of 10 tablets | Swast Aushadhi Seva Generic Medicine Store (99.0%)</li>
+<li>Bioduta 0.5mg Tablet | Strip of 10 tablets | Bios Lab (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dutasteride/' | relative_url }}">View full drug report →</a></p>

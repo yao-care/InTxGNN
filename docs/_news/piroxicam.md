@@ -3,7 +3,7 @@ layout: default
 title: "Piroxicam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Piroxicam. Original indication: . 10 predicted indications."
+description: "Health news related to Piroxicam. Original indication: . 5 predicted indications."
 permalink: /news/piroxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piroxicam/
 ---
 
 <p class="key-answer" data-question="What news is there about Piroxicam?">
-<strong>Piroxicam</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Piroxicam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Piroxicam with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>WHIM syndrome (100.0%)</li>
-<li>rheumatoid nodulosis (99.9%)</li>
-<li>juvenile idiopathic arthritis (99.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Brexic 20mg Tablet DT | Strip of 10 dispersible tablets | Not available (99.0%)</li>
+<li>Inflavan 20mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Roxicam 20mg Injection | Vial of 2 ml injection | Not available (99.0%)</li>
+<li>Lonex 8mg Tablet DT | Strip of 10 dispersible tablets | Not available (99.0%)</li>
+<li>Dupox 40mg Injection | Vial of 2 ml injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piroxicam/' | relative_url }}">View full drug report →</a></p>

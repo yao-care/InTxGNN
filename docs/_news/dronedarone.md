@@ -3,7 +3,7 @@ layout: default
 title: "Dronedarone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dronedarone. Original indication: . 10 predicted indications."
+description: "Health news related to Dronedarone. Original indication: . 1 predicted indications."
 permalink: /news/dronedarone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>stroke disorder (100.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (100.0%)</li>
-<li>ABri amyloidosis (99.9%)</li>
-<li>cerebrovascular disorder (99.7%)</li>
-<li>brain stem infarction (99.7%)</li>
-<li>sick sinus syndrome 2, autosomal dominant (99.6%)</li>
-<li>duodenal obstruction (99.6%)</li>
-<li>cerebral artery occlusion (99.4%)</li>
-<li>sarcoglycanopathy (99.4%)</li>
-<li>Wildervanck syndrome (99.4%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Dilsave 400mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets (oral) | Not specified in the compiled data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Magnesium Citrate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Magnesium Citrate. Original indication: . 2 predicted indications."
+description: "Health news related to Magnesium Citrate. Original indication: . 0 predicted indications."
 permalink: /news/magnesium_citrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/magnesium_citrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Magnesium Citrate?">
-<strong>Magnesium Citrate</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Magnesium Citrate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,8 @@ This page combines the AI-predicted indications for Magnesium Citrate with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>calcium-alkali syndrome (99.5%)</li>
-<li>primary bone dysplasia with defective bone mineralization (99.3%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium-citrate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/magnesium_citrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

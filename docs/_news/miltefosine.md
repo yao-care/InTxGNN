@@ -3,7 +3,7 @@ layout: default
 title: "Miltefosine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Miltefosine. Original indication: . 10 predicted indications."
+description: "Health news related to Miltefosine. Original indication: . 1 predicted indications."
 permalink: /news/miltefosine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/miltefosine/
 ---
 
 <p class="key-answer" data-question="What news is there about Miltefosine?">
-<strong>Miltefosine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Miltefosine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Miltefosine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>leishmaniasis, diffuse cutaneous (99.7%)</li>
-<li>echinococcus granulosus infectious disease (99.4%)</li>
-<li>alveolar echinococcosis (99.2%)</li>
-<li>Smouldering systemic mastocytosis (99.0%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.0%)</li>
-<li>aseptic meningitis (98.9%)</li>
-<li>systemic mastocytosis (98.7%)</li>
-<li>Kimura disease (98.6%)</li>
-<li>colitis (disease) (98.2%)</li>
-<li>glomerulonephritis (97.9%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Impavido 50mg Capsule (Zydus Cadila) | Strip of 7 capsules | Not stated in the available data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/miltefosine/' | relative_url }}">View full drug report →</a></p>

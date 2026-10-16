@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Edaravone with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>heparin cofactor 2 deficiency (99.5%)</li>
 <li>factor 5 excess with spontaneous thrombosis (99.1%)</li>

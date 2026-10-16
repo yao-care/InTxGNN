@@ -3,7 +3,7 @@ layout: default
 title: "Amorolfine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amorolfine. Original indication: . 10 predicted indications."
+description: "Health news related to Amorolfine. Original indication: . 5 predicted indications."
 permalink: /news/amorolfine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amorolfine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amorolfine?">
-<strong>Amorolfine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Amorolfine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Amorolfine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>drug-induced osteoporosis (100.0%)</li>
-<li>disease of retroperitoneum (100.0%)</li>
-<li>disease of uterine broad ligament (100.0%)</li>
-<li>lumbar spinal stenosis (100.0%)</li>
-<li>abdominal cystic lymphangioma (100.0%)</li>
-<li>abdominal ectopic pregnancy (100.0%)</li>
-<li>celiac trunk compression syndrome (100.0%)</li>
-<li>lymph node palisaded myofibroblastoma (100.0%)</li>
-<li>sacrum chordoma (100.0%)</li>
-<li>urethral disease (100.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Amortive Cream (Rockmed Pharma) | Cream, 30 g tube | Not recorded (99.0%)</li>
+<li>Loceryl Cream (Galderma India) | Cream, 10 g tube | Not recorded (99.0%)</li>
+<li>Pamoria Cream (Cipla) | Cream, 30 g tube | Not recorded (99.0%)</li>
+<li>Fintop-AF Cream (Glenmark) | Cream, 30 g tube | Not recorded (99.0%)</li>
+<li>Amfocin Cream (Ajanta Pharma) | Cream, 50 g tube | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amorolfine/' | relative_url }}">View full drug report →</a></p>

@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Clarithromycin with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>hyperamylasemia (99.3%)</li>
-<li>polyclonal hyperviscosity syndrome (99.3%)</li>
-<li>congenital analbuminemia (99.2%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.1%)</li>
-<li>blood group incompatibility (99.1%)</li>
+<li>Clarinic Kid 125mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Claricin 250mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Clarigal 500mg Tablet | Strip of 4 tablets | Not stated in the records (99.0%)</li>
+<li>Clarithro 500mg Tablet XR | Strip of 5 XR tablets | Not stated in the records (99.0%)</li>
+<li>Crixan 125mg Granules | Bottle of 30 ml powder for oral suspension | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">View full drug report →</a></p>

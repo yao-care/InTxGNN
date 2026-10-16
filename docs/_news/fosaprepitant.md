@@ -3,7 +3,7 @@ layout: default
 title: "Fosaprepitant News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fosaprepitant. Original indication: . 10 predicted indications."
+description: "Health news related to Fosaprepitant. Original indication: . 14 predicted indications."
 permalink: /news/fosaprepitant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fosaprepitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Fosaprepitant?">
-<strong>Fosaprepitant</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Fosaprepitant</strong> currently has <strong>0 news articles</strong>, with 14 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,22 @@ This page combines the AI-predicted indications for Fosaprepitant with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.9%)</li>
-<li>pneumocystosis (99.9%)</li>
-<li>leprosy (99.8%)</li>
-<li>Cryptococcal meningitis (99.8%)</li>
-<li>multiple endocrine neoplasia (99.8%)</li>
-<li>intracranial abscess (99.8%)</li>
-<li>retinitis (99.7%)</li>
-<li>Plasmodium falciparum malaria (99.6%)</li>
-<li>echinococcus granulosus infectious disease (99.5%)</li>
-<li>hyperargininemia (99.4%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (14)</strong>:<ul>
+<li>Fosapp Injection | Vial of 1 injection | Celon Laboratories Ltd (99.0%)</li>
+<li>Emend 150mg Injection | Vial of 1 injection | MSD Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>ES Pitant 150mg Injection | Vial of 1 injection | Esperer Bioresearch Pvt Ltd (99.0%)</li>
+<li>Fosa 150mg Injection | Vial of 1 injection | Mylan Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Amitant-IV Injection | Vial of 1 injection | Aureate Healthcare Pvt Ltd (99.0%)</li>
+<li>Pneumocystosis | 99.87% | L5 | No supporting data; established antimicrobials exist (99.0%)</li>
+<li>Leprosy | 99.82% | L5 | No clear mechanism (99.0%)</li>
+<li>Cryptococcal meningitis | 99.79% | L5 | Theoretical interest only (99.0%)</li>
+<li>Multiple endocrine neoplasia | 99.76% | L5 | NK1 antiproliferative activity is preclinical only (99.0%)</li>
+<li>Intracranial abscess | 99.75% | L5 | No evident mechanism (99.0%)</li>
+<li>Retinitis | 99.68% | L4 | One preclinical mouse study (see below) (99.0%)</li>
+<li>*Plasmodium falciparum* malaria | 99.64% | L5 | No established mechanism (99.0%)</li>
+<li>Echinococcus infection | 99.50% | L5 | No plausible mechanism (99.0%)</li>
+<li>Hyperargininemia | 99.41% | L5 | Likely a network-proximity artifact (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fosaprepitant/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Clioquinol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clioquinol. Original indication: . 7 predicted indications."
+description: "Health news related to Clioquinol. Original indication: . 5 predicted indications."
 permalink: /news/clioquinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clioquinol/
 ---
 
 <p class="key-answer" data-question="What news is there about Clioquinol?">
-<strong>Clioquinol</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Clioquinol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Clioquinol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>cutaneous candidiasis (99.8%)</li>
-<li>Majocchi granuloma (99.3%)</li>
-<li>ectothrix infectious disease (99.3%)</li>
-<li>endothrix infectious disease (99.2%)</li>
-<li>superficial mycosis (99.2%)</li>
-<li>dermatophytosis of scalp or beard (99.2%)</li>
-<li>tinea profunda (99.1%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dermoquinol 8% Cream | Tube of 25 gm cream | Not stated (99.0%)</li>
+<li>Dermoquinol 4% Ointment | Tube of 15 gm ointment | Not stated (99.0%)</li>
+<li>Dermoquinol 4% Cream | Tube of 25 gm cream | Not stated (99.0%)</li>
+<li>Dermoquinol 8% Ointment | Tube of 15 gm ointment | Not stated (99.0%)</li>
+<li>Dermi-Zio 6 Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clioquinol/' | relative_url }}">View full drug report →</a></p>

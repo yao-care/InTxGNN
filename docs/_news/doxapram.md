@@ -3,7 +3,7 @@ layout: default
 title: "Doxapram News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxapram. Original indication: . 10 predicted indications."
+description: "Health news related to Doxapram. Original indication: . 1 predicted indications."
 permalink: /news/doxapram/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doxapram/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxapram?">
-<strong>Doxapram</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Doxapram</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>vascular disease (100.0%)</li>
-<li>venous thoracic outlet syndrome (100.0%)</li>
-<li>arterial thoracic outlet syndrome (100.0%)</li>
-<li>angiodysplasia of stomach (100.0%)</li>
-<li>blue toe syndrome (100.0%)</li>
-<li>hemangioendothelioma (100.0%)</li>
-<li>atheroembolism of kidney (100.0%)</li>
-<li>neurogenic thoracic outlet syndrome (100.0%)</li>
-<li>visceral calciphylaxis (100.0%)</li>
-<li>lymphangiectasis (100.0%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Caropram 20mg Injection (Khandelwal Laboratories Pvt Ltd) | Vial of 5 ml injection | Not stated in the available data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxapram/' | relative_url }}">View full drug report →</a></p>
@@ -42,17 +34,17 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 
 ## Related News (2)
 
-### [How Are Stress, Depression, and Cardiovascular Risk Linked?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
+### [Working 55 hours a week? Cardiologists explain how long workdays, chronic stress and poor sleep could put your heart at risk - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxOZUt1LUdZTUk1UmdnUUYxdkJxcjl1a1RPN0lieGYwdGFZeDVSLVhqNE1la1p1eTJscERGQmhobUxHNmhwOFFnTlRNeU0zQ0tieko1TkNNLUlVaEF1Tmp3R3M1amhXaGxsc1hYYWNwYzl0eHF3U3ZyazRYVHpXT1lxUjN0RzJWUnY4U0pWanpqZmszQmF6YVprc2ZVT1FLa3B3VmlKYUpCWEJXb3F0anRHSHozam9UeGNDMlJ4QUVwX2ZFVkFCNG1heVoxNS1xQjZSZ0ZaOTFHR2NFcmhUYXBHZmMwM1pjVjJSNjVHb1JxdEk0eFQxTDVkU3lVblNKOTdLbGV6a0ljU2NXWWxUbVA1OVVnNG1wb0h5bGfSAaICQVVfeXFMTWxSZnVUckhlb2h5MTQwaFJQcWNjY2VBeHVkVF9GYkJrNTF3M2xHdTZEeEdaREpTcVBHSm1LSHBmUUR0YUhVVGpUcHNDRFRkUGFQR2kwd2dEeGVfUkJPaWkybExrQ0pwbENyQkR1ODE4Q3lfTEEyaE10VDNkR0V2ekJmbDN0ejVOOEpyUmJNa2hHdzEzV29oN2stWERfX2R4clltMXp6eGpJbFE2Z0QxeWJnZlhLRFJJeV85UHBVUjFJT3A1YTVMTml3RlhoNkpaUGxhYXFjRnJlenFTZS1wX2NTbG1OVzFXMERuV1N5OFVGUlVDYTZRNExYaVdTbk1kM0ltSnlnQW9XVVlPczZkWkJQZFZEeFNXVGsxNjl3ODZLYlE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">heart disease</span>
+2026-10-14 <span class="news-indication-tag">heart disease</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxOZUt1LUdZTUk1UmdnUUYxdkJxcjl1a1RPN0lieGYwdGFZeDVSLVhqNE1la1p1eTJscERGQmhobUxHNmhwOFFnTlRNeU0zQ0tieko1TkNNLUlVaEF1Tmp3R3M1amhXaGxsc1hYYWNwYzl0eHF3U3ZyazRYVHpXT1lxUjN0RzJWUnY4U0pWanpqZmszQmF6YVprc2ZVT1FLa3B3VmlKYUpCWEJXb3F0anRHSHozam9UeGNDMlJ4QUVwX2ZFVkFCNG1heVoxNS1xQjZSZ0ZaOTFHR2NFcmhUYXBHZmMwM1pjVjJSNjVHb1JxdEk0eFQxTDVkU3lVblNKOTdLbGV6a0ljU2NXWWxUbVA1OVVnNG1wb0h5bGfSAaICQVVfeXFMTWxSZnVUckhlb2h5MTQwaFJQcWNjY2VBeHVkVF9GYkJrNTF3M2xHdTZEeEdaREpTcVBHSm1LSHBmUUR0YUhVVGpUcHNDRFRkUGFQR2kwd2dEeGVfUkJPaWkybExrQ0pwbENyQkR1ODE4Q3lfTEEyaE10VDNkR0V2ekJmbDN0ejVOOEpyUmJNa2hHdzEzV29oN2stWERfX2R4clltMXp6eGpJbFE2Z0QxeWJnZlhLRFJJeV85UHBVUjFJT3A1YTVMTml3RlhoNkpaUGxhYXFjRnJlenFTZS1wX2NTbG1OVzFXMERuV1N5OFVGUlVDYTZRNExYaVdTbk1kM0ltSnlnQW9XVVlPczZkWkJQZFZEeFNXVGsxNjl3ODZLYlE?oc=5)
 
 ---
 
 ### [Hidden signals in sleep can predict future health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cardiovascular</span>
+2026-10-12 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cardiovascular</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 

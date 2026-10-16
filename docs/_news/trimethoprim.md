@@ -3,7 +3,7 @@ layout: default
 title: "Trimethoprim News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trimethoprim. Original indication: . 2 predicted indications."
+description: "Health news related to Trimethoprim. Original indication: . 5 predicted indications."
 permalink: /news/trimethoprim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trimethoprim/
 ---
 
 <p class="key-answer" data-question="What news is there about Trimethoprim?">
-<strong>Trimethoprim</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Trimethoprim</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Trimethoprim with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.6%)</li>
-<li>conjunctivitis (disease) (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Tmp 300mg Tablet | Strip of 10 tablets | Jagsonpal Pharmaceuticals Ltd (99.0%)</li>
+<li>Bacstol 200 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd (99.0%)</li>
+<li>Keno 200mg Tablet | Strip of 10 tablets | Mancare Labs Pvt Ltd (99.0%)</li>
+<li>Bacstol Tablet | Strip of 10 tablets | Ipca Laboratories Ltd (99.0%)</li>
+<li>Metstol 100mg Tablet | Strip of 10 tablets | Renauxe Pharma India Pvt Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trimethoprim/' | relative_url }}">View full drug report →</a></p>

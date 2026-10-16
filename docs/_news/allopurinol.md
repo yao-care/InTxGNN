@@ -3,7 +3,7 @@ layout: default
 title: "Allopurinol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Allopurinol. Original indication: . 10 predicted indications."
+description: "Health news related to Allopurinol. Original indication: . 5 predicted indications."
 permalink: /news/allopurinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/allopurinol/
 ---
 
 <p class="key-answer" data-question="What news is there about Allopurinol?">
-<strong>Allopurinol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Allopurinol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Allopurinol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hepatic porphyria (100.0%)</li>
-<li>hepatopulmonary syndrome (99.9%)</li>
-<li>idiopathic copper-associated cirrhosis (99.9%)</li>
-<li>primitive portal vein thrombosis (99.9%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (99.9%)</li>
-<li>hepatoportal sclerosis (99.9%)</li>
-<li>disorder of phenylalanine metabolism (99.9%)</li>
-<li>immune-mediated necrotizing myopathy (99.9%)</li>
-<li>antisynthetase syndrome (99.8%)</li>
-<li>idiopathic eosinophilic myositis (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Zyrik 300 Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
+<li>Vriloric 100mg Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
+<li>Lodiric-SR 250mg Capsule | Strip of 10 SR capsules | Not specified in available records (99.0%)</li>
+<li>Allric 100mg Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
+<li>Ausric 300 Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/allopurinol/' | relative_url }}">View full drug report →</a></p>

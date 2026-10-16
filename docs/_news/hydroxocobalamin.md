@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxocobalamin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hydroxocobalamin. Original indication: . 2 predicted indications."
+description: "Health news related to Hydroxocobalamin. Original indication: . 4 predicted indications."
 permalink: /news/hydroxocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydroxocobalamin/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydroxocobalamin?">
-<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Hydroxocobalamin</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,12 @@ This page combines the AI-predicted indications for Hydroxocobalamin with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>esophageal varices without bleeding (99.2%)</li>
-<li>esophageal varices with bleeding (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Cox 1mg Injection (Bryogen Pharmaceuticals Pvt. Ltd.) | Vial of 1 ml injection | Not stated in the compiled data (99.0%)</li>
+<li>Trineurosol HV Injection (Wockhardt Ltd) | Vial of 5 ml injection | Not stated in the compiled data (99.0%)</li>
+<li>Trineurosol HP 1000mg Injection (Wockhardt Ltd) | Vial of 1 ml injection | Not stated in the compiled data (99.0%)</li>
+<li>Trineurosol HP Injection (Wockhardt Ltd) | Vial of 5 ml injection | Not stated in the compiled data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxocobalamin/' | relative_url }}">View full drug report →</a></p>

@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Citalopram with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>obsessive-compulsive disorder (99.7%)</li>
-<li>schizotypal personality disorder (99.7%)</li>
-<li>schizoid personality disorder (99.7%)</li>
-<li>histrionic personality disorder (disease) (99.7%)</li>
-<li>paranoid personality disorder (99.7%)</li>
+<li>Citadelm 20mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Cytop 20mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Cita 40mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>C Pram 5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Citosys 10mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/citalopram/' | relative_url }}">View full drug report →</a></p>

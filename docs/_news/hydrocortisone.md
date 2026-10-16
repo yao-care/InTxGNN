@@ -3,7 +3,7 @@ layout: default
 title: "Hydrocortisone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hydrocortisone. Original indication: . 10 predicted indications."
+description: "Health news related to Hydrocortisone. Original indication: . 5 predicted indications."
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="What news is there about Hydrocortisone?">
-<strong>Hydrocortisone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Hydrocortisone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Hydrocortisone with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (99.9%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.6%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Irap 100mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Criticort Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Primacort 200mg Injection | Vial of 5 ml injection | Not stated (99.0%)</li>
+<li>Hisone 5 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>HC-Cort 20 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">View full drug report →</a></p>

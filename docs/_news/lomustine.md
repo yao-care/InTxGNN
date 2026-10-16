@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Lomustine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>lymphosarcoma (99.9%)</li>
 <li>malignant tumor of meninges (99.9%)</li>

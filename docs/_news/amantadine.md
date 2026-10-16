@@ -3,7 +3,7 @@ layout: default
 title: "Amantadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amantadine. Original indication: . 4 predicted indications."
+description: "Health news related to Amantadine. Original indication: . 5 predicted indications."
 permalink: /news/amantadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amantadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amantadine?">
-<strong>Amantadine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Amantadine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Amantadine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Rasmussen subacute encephalitis (99.5%)</li>
-<li>transaldolase deficiency (99.3%)</li>
-<li>myelitis (99.2%)</li>
-<li>PLA2G6-associated neurodegeneration (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Comantrel 100 Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>Ensorex 100mg Capsule | Strip of 15 capsules | Not stated (99.0%)</li>
+<li>Comantrel-T Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Parkitidin ER 193 Tablet | Strip of 10 extended-release tablets | Not stated (99.0%)</li>
+<li>Ensorex 50mg Tablet | Strip of 15 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amantadine/' | relative_url }}">View full drug report →</a></p>

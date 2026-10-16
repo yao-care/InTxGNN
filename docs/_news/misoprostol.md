@@ -3,7 +3,7 @@ layout: default
 title: "Misoprostol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Misoprostol. Original indication: . 2 predicted indications."
+description: "Health news related to Misoprostol. Original indication: . 5 predicted indications."
 permalink: /news/misoprostol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/misoprostol/
 ---
 
 <p class="key-answer" data-question="What news is there about Misoprostol?">
-<strong>Misoprostol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Misoprostol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Misoprostol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>amenorrhea (disease) (99.6%)</li>
-<li>atypical coarctation of aorta (99.3%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Misopost 200mcg Tablet (Tesla Labs) | Strip of 4 tablets | Not available (99.0%)</li>
+<li>Misoprost 25 Tablet (Cipla) | Strip of 4 tablets | Not available (99.0%)</li>
+<li>Uniprest Tablet (Torrent) | Strip of 4 tablets | Not available (99.0%)</li>
+<li>Miso-Gyn 25mcg Tablet (Bharat Serums & Vaccines) | Strip of 4 tablets | Not available (99.0%)</li>
+<li>Cytolog 600 Tablet (Zydus Cadila) | Strip of 1 tablet | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/misoprostol/' | relative_url }}">View full drug report →</a></p>

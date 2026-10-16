@@ -3,7 +3,7 @@ layout: default
 title: "Tazarotene News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tazarotene. Original indication: . 3 predicted indications."
+description: "Health news related to Tazarotene. Original indication: . 5 predicted indications."
 permalink: /news/tazarotene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tazarotene/
 ---
 
 <p class="key-answer" data-question="What news is there about Tazarotene?">
-<strong>Tazarotene</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Tazarotene</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Tazarotene with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>seborrheic dermatitis (99.8%)</li>
-<li>seborrheic keratosis (99.5%)</li>
-<li>vulvar inverted follicular keratosis (99.4%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Texara Forte Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
+<li>Tazotop Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
+<li>La Tez 0.1% Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
+<li>Texara Gel | Tube of 15 gm gel | Not stated (99.0%)</li>
+<li>Tazotop Forte Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tazarotene/' | relative_url }}">View full drug report →</a></p>

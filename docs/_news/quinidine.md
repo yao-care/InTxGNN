@@ -24,8 +24,9 @@ This page combines the AI-predicted indications for Quinidine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.3%)</li>
+<li>Natcardine 100mg Tablet | Strip of 10 tablets (oral) | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quinidine/' | relative_url }}">View full drug report →</a></p>

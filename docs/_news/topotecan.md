@@ -3,7 +3,7 @@ layout: default
 title: "Topotecan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Topotecan. Original indication: . 10 predicted indications."
+description: "Health news related to Topotecan. Original indication: . 4 predicted indications."
 permalink: /news/topotecan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/topotecan/
 ---
 
 <p class="key-answer" data-question="What news is there about Topotecan?">
-<strong>Topotecan</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Topotecan</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,12 @@ This page combines the AI-predicted indications for Topotecan with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>female breast carcinoma (99.9%)</li>
-<li>adult germ cell tumor (99.6%)</li>
-<li>testicular yolk sac tumor, solid pattern (99.5%)</li>
-<li>testicular yolk sac tumor, hepatoid pattern (99.5%)</li>
-<li>testicular yolk sac tumor, macrocystic pattern (99.5%)</li>
-<li>enteric pattern testicular yolk sac tumor (99.5%)</li>
-<li>polyvesicular vitelline pattern testicular yolk sac tumor (99.5%)</li>
-<li>testicular yolk sac tumor, papillary pattern (99.5%)</li>
-<li>testicular yolk sac tumor, endodermal sinus pattern (99.5%)</li>
-<li>reticular pattern testicular yolk sac tumor (99.5%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Topotel 4mg Injection | Vial of 4 ml injection | Not specified in the data compiled (99.0%)</li>
+<li>Cantop 2.5mg Injection | Vial of 1 injection | Not specified in the data compiled (99.0%)</li>
+<li>Topotec 2.5mg Injection | Vial of 2.5 ml injection | Not specified in the data compiled (99.0%)</li>
+<li>Topocan 4mg Injection | Vial of 10 ml injection | Not specified in the data compiled (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/topotecan/' | relative_url }}">View full drug report →</a></p>

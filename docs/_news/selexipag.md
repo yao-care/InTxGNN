@@ -3,7 +3,7 @@ layout: default
 title: "Selexipag News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Selexipag. Original indication: . 10 predicted indications."
+description: "Health news related to Selexipag. Original indication: . 4 predicted indications."
 permalink: /news/selexipag/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/selexipag/
 ---
 
 <p class="key-answer" data-question="What news is there about Selexipag?">
-<strong>Selexipag</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Selexipag</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,12 @@ This page combines the AI-predicted indications for Selexipag with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>pulmonary arterial hypertension associated with congenital heart disease (98.0%)</li>
-<li>pulmonary arteriovenous malformation (disease) (98.0%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (97.8%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (97.8%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (97.8%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (97.8%)</li>
-<li>hypotrichosis simplex of the scalp (97.1%)</li>
-<li>congenital hypotrichosis milia (96.3%)</li>
-<li>diffuse alopecia areata (96.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (93.8%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Zexipag 400mcg Tablet (Cipla Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li>Selepeg 200 Tablet (MSN Laboratories) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li>Selepeg 400 Tablet (MSN Laboratories) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li>Zexipag 200mcg Tablet (Cipla Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/selexipag/' | relative_url }}">View full drug report →</a></p>

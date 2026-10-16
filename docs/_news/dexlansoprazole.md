@@ -3,7 +3,7 @@ layout: default
 title: "Dexlansoprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexlansoprazole. Original indication: . 10 predicted indications."
+description: "Health news related to Dexlansoprazole. Original indication: . 5 predicted indications."
 permalink: /news/dexlansoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexlansoprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexlansoprazole?">
-<strong>Dexlansoprazole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dexlansoprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Dexlansoprazole with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>active peptic ulcer disease (100.0%)</li>
-<li>peptic ulcer perforation (100.0%)</li>
-<li>gastrojejunal ulcer (100.0%)</li>
-<li>gastric ulcer (disease) (100.0%)</li>
-<li>gastroduodenitis (100.0%)</li>
-<li>duodenal obstruction (99.8%)</li>
-<li>duodenogastric reflux (99.8%)</li>
-<li>duodenal ulcer (disease) (99.8%)</li>
-<li>achlorhydria (99.5%)</li>
-<li>leather-bottle stomach (99.4%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dexolan Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
+<li>Dexsofighter 60 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
+<li>DDR 60 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
+<li>DDR 30 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
+<li>Deltone Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexlansoprazole/' | relative_url }}">View full drug report →</a></p>

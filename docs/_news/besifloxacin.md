@@ -3,7 +3,7 @@ layout: default
 title: "Besifloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Besifloxacin. Original indication: . 8 predicted indications."
+description: "Health news related to Besifloxacin. Original indication: . 3 predicted indications."
 permalink: /news/besifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/besifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Besifloxacin?">
-<strong>Besifloxacin</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Besifloxacin</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,15 +24,11 @@ This page combines the AI-predicted indications for Besifloxacin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>bronchitis (99.8%)</li>
-<li>postinfectious vasculitis (99.3%)</li>
-<li>post-bacterial disorder (99.3%)</li>
-<li>post-infectious syndrome (99.3%)</li>
-<li>infective urethral stricture (99.2%)</li>
-<li>Chagas cardiomyopathy (99.2%)</li>
-<li>infection-related hemolytic uremic syndrome (99.1%)</li>
-<li>otitis externa (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Besivance Opthalmic Suspension (Bausch & Lomb Inc) | Bottle of 5 ml ophthalmic suspension | Not stated in the compiled data (99.0%)</li>
+<li>Besibact Eye Drop (Micro Labs Ltd) | Packet of 5 ml eye drop | Not stated in the compiled data (99.0%)</li>
+<li>Besix Eye Drop (Ajanta Pharma Ltd) | Bottle of 5 ml ophthalmic suspension | Not stated in the compiled data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/besifloxacin/' | relative_url }}">View full drug report →</a></p>

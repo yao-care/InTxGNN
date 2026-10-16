@@ -3,7 +3,7 @@ layout: default
 title: "Denosumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Denosumab. Original indication: . 2 predicted indications."
+description: "Health news related to Denosumab. Original indication: . 5 predicted indications."
 permalink: /news/denosumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/denosumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Denosumab?">
-<strong>Denosumab</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Denosumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>severe nonproliferative diabetic retinopathy (99.6%)</li>
-<li>diabetic retinopathy (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Rozel Injection (Intas Pharmaceuticals) | Prefilled syringe, 1 ml injection | Not recorded (99.0%)</li>
+<li>Olimab 60mg Injection (Intas Pharmaceuticals) | Prefilled syringe, injection | Not recorded (99.0%)</li>
+<li>Xgeva Solution for Injection (Dr Reddy's Laboratories) | Vial, solution for injection | Not recorded (99.0%)</li>
+<li>Denosurel 120mg Injection (Reliance Life Sciences) | Vial, injection | Not recorded (99.0%)</li>
+<li>Prolia Solution for Injection (Dr Reddy's Laboratories) | Prefilled syringe, solution for injection | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>

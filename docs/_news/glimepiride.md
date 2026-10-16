@@ -24,16 +24,17 @@ This page combines the AI-predicted indications for Glimepiride with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (9)</strong>:<ul>
-<li>focal stiff limb syndrome (99.8%)</li>
-<li>classic stiff person syndrome (99.8%)</li>
-<li>opsismodysplasia (99.7%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.7%)</li>
-<li>drug-induced localized lipodystrophy (99.6%)</li>
-<li>centrifugal lipodystrophy (99.6%)</li>
-<li>pressure-induced localized lipoatrophy (99.6%)</li>
-<li>idiopathic localized lipodystrophy (99.6%)</li>
-<li>pancreatic agenesis (99.5%)</li>
+<li>Classic stiff person syndrome | 99.75% | Same anti-GAD autoimmunity context; no known glimepiride action on GABAergic pathways (99.0%)</li>
+<li>Opsismodysplasia | 99.74% | Speculative link to insulin/PI3K signaling (INPPL1); untested (99.0%)</li>
+<li>Thiamine-responsive dysfunction syndrome | 99.73% | Overlap limited to the diabetic phenotype; treatment is thiamine (99.0%)</li>
+<li>Pancreatic agenesis | 99.55% | Mechanistically inappropriate, since glimepiride needs functional beta cells (99.0%)</li>
+<li>Supride 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Glimicord M 2 Forte Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ecoglim MV 2mg/500mg/0.2mg Tablet SR | Strip of 10 tablets (SR) | Not specified (99.0%)</li>
+<li>Zoryl M 1 Forte Tablet PR | Strip of 15 tablets (PR) | Not specified (99.0%)</li>
+<li>Adride 4mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">View full drug report →</a></p>

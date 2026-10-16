@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Erythromycin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>acute contagious conjunctivitis (99.5%)</li>
-<li>exposure keratitis (99.5%)</li>
-<li>lymphogranuloma venereum (99.0%)</li>
-<li>necrotizing ulcerative gingivitis (99.0%)</li>
+<li>Erythrocin Granules (Pfizer Ltd) | Granules, sachet of 30 ml | Not stated in licence record (99.0%)</li>
+<li>Erythrox 250mg Tablet (Medicraft Group) | Tablet, strip of 10 | Not stated in licence record (99.0%)</li>
+<li>Eromed 125mg Suspension (Comed Chemicals Ltd) | Suspension, bottle of 60 ml | Not stated in licence record (99.0%)</li>
+<li>Acnebenz Gel (A. Menarini India Pvt Ltd) | Topical gel, tube of 60 g | Not stated in licence record (99.0%)</li>
+<li>Erylent Gel (Talent Healthcare) | Topical gel, tube of 20 g | Not stated in licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erythromycin/' | relative_url }}">View full drug report →</a></p>

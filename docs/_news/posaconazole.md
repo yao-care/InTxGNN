@@ -3,7 +3,7 @@ layout: default
 title: "Posaconazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Posaconazole. Original indication: . 1 predicted indications."
+description: "Health news related to Posaconazole. Original indication: . 5 predicted indications."
 permalink: /news/posaconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/posaconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Posaconazole?">
-<strong>Posaconazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Posaconazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Posaconazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>pneumocystosis (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Noxafil Oral Suspension (MSD) | Bottle of 105 ml oral suspension | Not stated in the records (99.0%)</li>
+<li>Poshope Injection (Abbott) | Vial of 16.7 ml injection | Not stated in the records (99.0%)</li>
+<li>Posatral Tablet (Mylan) | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Posahit 100mg Tablet (Sun Pharma) | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Posaforce 100mg Tablet (Mankind) | Strip of 10 tablets | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/posaconazole/' | relative_url }}">View full drug report →</a></p>

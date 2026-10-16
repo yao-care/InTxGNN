@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Aceclofenac with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>

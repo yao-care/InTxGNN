@@ -3,7 +3,7 @@ layout: default
 title: "Oxcarbazepine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxcarbazepine. Original indication: . 10 predicted indications."
+description: "Health news related to Oxcarbazepine. Original indication: Other predicted indications show a similar pattern.... 5 predicted indications."
 permalink: /news/oxcarbazepine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxcarbazepine/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxcarbazepine?">
-<strong>Oxcarbazepine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Oxcarbazepine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Oxcarbazepine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>visual epilepsy (100.0%)</li>
-<li>restless legs syndrome (99.9%)</li>
-<li>eating seizures (99.9%)</li>
-<li>orgasm-induced seizures (99.9%)</li>
-<li>startle epilepsy (99.9%)</li>
-<li>audiogenic seizures (99.9%)</li>
-<li>thinking seizures (99.9%)</li>
-<li>micturation-induced seizures (99.9%)</li>
-<li>status epilepticus (99.9%)</li>
-<li>reading seizures (99.8%)</li>
+<li><strong>Original indication</strong>: Other predicted indications show a similar pattern:</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Oxnig 600mg Tablet SR | Strip of 10 sustained-release tablets | Snig Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Vinlep 450 Tablet | Strip of 10 tablets | Sanofi India Ltd (99.0%)</li>
+<li>Boxital 300mg Tablet | Strip of 10 tablets | Sanity Pharma (99.0%)</li>
+<li>Carbamac 600mg Tablet | Strip of 10 tablets | Macleods Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Oxepin 600mg Tablet | Strip of 10 tablets | Icon Life Sciences (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxcarbazepine/' | relative_url }}">View full drug report →</a></p>

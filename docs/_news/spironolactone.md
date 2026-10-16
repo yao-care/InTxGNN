@@ -3,7 +3,7 @@ layout: default
 title: "Spironolactone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Spironolactone. Original indication: . 2 predicted indications."
+description: "Health news related to Spironolactone. Original indication: . 5 predicted indications."
 permalink: /news/spironolactone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="What news is there about Spironolactone?">
-<strong>Spironolactone</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Spironolactone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Spironolactone with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.3%)</li>
-<li>congenital hypotrichosis milia (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dytor Plus 20 Tablet | Strip of 15 tablets | Cipla Ltd (99.0%)</li>
+<li>Tortone 25mg/10mg Tablet | Strip of 10 tablets | Shrrishti Health Care Products Pvt Ltd (99.0%)</li>
+<li>Tor Plus 50mg/20mg Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li>Aldactone Plus 50mg/10mg Tablet | Strip of 10 tablets | RPG Life Sciences Ltd (99.0%)</li>
+<li>Spirix 25mg Tablet | Strip of 10 tablets | Psychocare Health Pvt Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">View full drug report →</a></p>

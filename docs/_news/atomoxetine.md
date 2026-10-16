@@ -3,7 +3,7 @@ layout: default
 title: "Atomoxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atomoxetine. Original indication: . 10 predicted indications."
+description: "Health news related to Atomoxetine. Original indication: . 5 predicted indications."
 permalink: /news/atomoxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atomoxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Atomoxetine?">
-<strong>Atomoxetine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Atomoxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Atomoxetine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>specific developmental disorder (100.0%)</li>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>chondromyxoid fibroma (100.0%)</li>
-<li>trichotillomania (99.9%)</li>
-<li>restless legs syndrome (99.8%)</li>
-<li>manic bipolar affective disorder (99.8%)</li>
-<li>Tourette syndrome (99.6%)</li>
-<li>transient tic disorder (99.5%)</li>
-<li>cerebellar ataxia (99.5%)</li>
-<li>autosomal dominant cerebellar ataxia (99.5%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Atomoxet 25mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Atmosril 18mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Tomkid 40mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Attentin 25mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Tomoxetin 25mg Capsule | Strip of 10 capsules | Not stated in licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atomoxetine/' | relative_url }}">View full drug report →</a></p>

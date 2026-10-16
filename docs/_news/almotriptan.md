@@ -3,7 +3,7 @@ layout: default
 title: "Almotriptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Almotriptan. Original indication: . 3 predicted indications."
+description: "Health news related to Almotriptan. Original indication: . 5 predicted indications."
 permalink: /news/almotriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/almotriptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Almotriptan?">
-<strong>Almotriptan</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Almotriptan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Almotriptan with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>migraine with brainstem aura (100.0%)</li>
-<li>atrophoderma vermiculata (99.8%)</li>
-<li>ulerythema ophryogenesis (99.6%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Almotan 6.25 Tablet (MSN Laboratories) | Strip of 4 tablets | Not stated (99.0%)</li>
+<li>Almigra 6.25mg Tablet (Eigen Pharmaceuticals) | Strip of 4 tablets | Not stated (99.0%)</li>
+<li>Almogril 12.5mg Tablet (Lupin) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Amlotan 6.25mg Tablet (MSN Laboratories) | Strip of 4 tablets | Not stated (99.0%)</li>
+<li>Almogril 6.25mg Tablet (Lupin) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/almotriptan/' | relative_url }}">View full drug report →</a></p>

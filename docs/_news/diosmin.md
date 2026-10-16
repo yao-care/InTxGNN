@@ -3,7 +3,7 @@ layout: default
 title: "Diosmin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Diosmin. Original indication: . 1 predicted indications."
+description: "Health news related to Diosmin. Original indication: . 5 predicted indications."
 permalink: /news/diosmin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diosmin/
 ---
 
 <p class="key-answer" data-question="What news is there about Diosmin?">
-<strong>Diosmin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Diosmin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Diosmin with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>amenorrhea (disease) (99.4%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Hesdin Tablet | Strip of 15 tablets | Not specified (99.0%)</li>
+<li>Daflon 500 MG Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Daflon 1000mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Aldosmin 500mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ubicar Cream | Tube of 30 gm cream | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diosmin/' | relative_url }}">View full drug report →</a></p>

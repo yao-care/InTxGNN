@@ -3,7 +3,7 @@ layout: default
 title: "Artemether News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Artemether. Original indication: . 10 predicted indications."
+description: "Health news related to Artemether. Original indication: . 5 predicted indications."
 permalink: /news/artemether/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/artemether/
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Artemether</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>acquired angioedema (99.9%)</li>
-<li>Plasmodium falciparum malaria (99.8%)</li>
-<li class="indication-matched">malaria (99.6%)<span class="indication-tag">📰 malaria</span></li>
-<li>angioedema (99.6%)</li>
-<li>hereditary angioedema (99.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.4%)</li>
-<li>acute contagious conjunctivitis (99.4%)</li>
-<li>scleroderma (disease) (99.4%)</li>
-<li>conjunctivitis (99.2%)</li>
-<li>renin-angiotensin-aldosterone system-blocker-induced angioedema (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Rezatrin 80 mg/480 mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
+<li>Ufither L 80mg/480mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
+<li>Numal Forte Oral Suspension | Bottle of 30 ml oral suspension | Not stated (99.0%)</li>
+<li>Gnate L Syrup | Bottle of 30 ml syrup | Not stated (99.0%)</li>
+<li>Rezart M 80mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>
@@ -42,11 +38,11 @@ This page combines the AI-predicted indications for Artemether with the latest h
 
 ## Related News (1)
 
-### [There's a human protein malaria and kala-azar rely on. JNU scientists destroyed it - India Today](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQjg1RkJxU2p2U0k4SjFKMFBId3V4QTcwakRFQ2FleDFIT2d2Q1pwYmpiU1Utc0FrU2I4MlVCRlpLQTA0YWZ5WnhPWW8xVmtfS0JETGQwdlFGWkJ3azhVZERNVGJyM3VnQ01fR3JDa00waUlwNFphR2hQeWR1NUpTVDE1MVV6djVvVjktMWpMSGNPUl9oYjlwSGh0WEtOVUNBb0lUMDlodExyZ2VlOWcwV09tVWtaZVJGX3BjUGxWYlJnLU04U08xLUE2OU1Wekd5LW96OVM5d1lUN3lXUVZhZHJCeWtSR25XcXNkT0ttd9IB9AFBVV95cUxNc09WVzA2MkNQTWZuRzJ2ZGpTOVNZbDlUdDJZNUJOR1ZvYXZUZ1lKcE13d1hRbmxYUU9GTUhBTUFkV2NUbUVyZFNpY0JHSjJySERKbjRzSEdOYTlOVlREaG9EeklGZC1CLW1ndUJmbmtNZUo0MUFQcFk2MG9BOW9xNkNKUFgzaTJiczVTUVlhVk5UOHFWb1l3NXBSR0dsa1JDYVNDY20yNlI0WGZZRm9vUGx0TXJRcFFLUkk5YVBBcTduMEZOV0VkQjJVVEFEY2RsbW9aMmhleFNvcTZEbUoxYXJSbGZCNGYyMTVybXItMzl0bGp1?oc=5)
+### [CFAs: Accelerating Research and Development of Next Generation Vaccines against Malaria Program (US) - fundsforNGOs - Grants and Resources for Sustainability](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTG5Ed2dYR0syUVFuczMtMnhqTzhjR3N5Nzh4WGJ2SS1WSFREcUlFZzdWRWhoeGFUUzdpUlVHaTVPNERXYWw2SGdkWDFiRGhGdDY0WEl4Z0dDSktQNWZXa0Y3ODdnLU5vY1k3eE8tRk92UklfMTRZdGtuNFBDY2E3Q1c3eG5wekZmOWxjdFRrMGZ6b190alBiVkdXcVBGSjZqeVhsNlJ2bHpIbnVnRmdUb3l3WWptLWQya0ZMV1N4LW5ybFZoMTNETVlEQmk2dDY3ajZfODhR?oc=5)
 
-2026-10-09 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+2026-10-16 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
 
-Source: [India Today](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQjg1RkJxU2p2U0k4SjFKMFBId3V4QTcwakRFQ2FleDFIT2d2Q1pwYmpiU1Utc0FrU2I4MlVCRlpLQTA0YWZ5WnhPWW8xVmtfS0JETGQwdlFGWkJ3azhVZERNVGJyM3VnQ01fR3JDa00waUlwNFphR2hQeWR1NUpTVDE1MVV6djVvVjktMWpMSGNPUl9oYjlwSGh0WEtOVUNBb0lUMDlodExyZ2VlOWcwV09tVWtaZVJGX3BjUGxWYlJnLU04U08xLUE2OU1Wekd5LW96OVM5d1lUN3lXUVZhZHJCeWtSR25XcXNkT0ttd9IB9AFBVV95cUxNc09WVzA2MkNQTWZuRzJ2ZGpTOVNZbDlUdDJZNUJOR1ZvYXZUZ1lKcE13d1hRbmxYUU9GTUhBTUFkV2NUbUVyZFNpY0JHSjJySERKbjRzSEdOYTlOVlREaG9EeklGZC1CLW1ndUJmbmtNZUo0MUFQcFk2MG9BOW9xNkNKUFgzaTJiczVTUVlhVk5UOHFWb1l3NXBSR0dsa1JDYVNDY20yNlI0WGZZRm9vUGx0TXJRcFFLUkk5YVBBcTduMEZOV0VkQjJVVEFEY2RsbW9aMmhleFNvcTZEbUoxYXJSbGZCNGYyMTVybXItMzl0bGp1?oc=5)
+Source: [fundsforNGOs - Grants and Resources for Sustainability](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTG5Ed2dYR0syUVFuczMtMnhqTzhjR3N5Nzh4WGJ2SS1WSFREcUlFZzdWRWhoeGFUUzdpUlVHaTVPNERXYWw2SGdkWDFiRGhGdDY0WEl4Z0dDSktQNWZXa0Y3ODdnLU5vY1k3eE8tRk92UklfMTRZdGtuNFBDY2E3Q1c3eG5wekZmOWxjdFRrMGZ6b190alBiVkdXcVBGSjZqeVhsNlJ2bHpIbnVnRmdUb3l3WWptLWQya0ZMV1N4LW5ybFZoMTNETVlEQmk2dDY3ajZfODhR?oc=5)
 
 ---
 

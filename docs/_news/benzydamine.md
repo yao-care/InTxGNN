@@ -3,7 +3,7 @@ layout: default
 title: "Benzydamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Benzydamine. Original indication: . 1 predicted indications."
+description: "Health news related to Benzydamine. Original indication: . 5 predicted indications."
 permalink: /news/benzydamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/benzydamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Benzydamine?">
-<strong>Benzydamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Benzydamine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Benzydamine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>benign prostatic hyperplasia (disease) (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Bensodyl 7.5mg/6mg Mouth Wash | Mouth wash, 100 ml bottle | Not recorded (99.0%)</li>
+<li>Dresin Mouthwash & Gargle | Gargle, 100 ml bottle | Not recorded (99.0%)</li>
+<li>Tantum Gel | Dental gel, 20 g tube | Not recorded (99.0%)</li>
+<li>Tantum Oral rinse | Mouth wash, 120 ml bottle | Not recorded (99.0%)</li>
+<li>Benzyda 0.15% Mouth Wash | Mouth wash, 200 ml bottle | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/benzydamine/' | relative_url }}">View full drug report →</a></p>

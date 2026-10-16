@@ -3,7 +3,7 @@ layout: default
 title: "Pazopanib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pazopanib. Original indication: . 10 predicted indications."
+description: "Health news related to Pazopanib. Original indication: . 5 predicted indications."
 permalink: /news/pazopanib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pazopanib/
 ---
 
 <p class="key-answer" data-question="What news is there about Pazopanib?">
-<strong>Pazopanib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Pazopanib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Pazopanib with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>renal cell carcinoma associated with neuroblastoma (99.6%)</li>
-<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions (99.6%)</li>
-<li>unclassified renal cell carcinoma (99.6%)</li>
-<li>liposarcoma (99.6%)</li>
-<li>childhood kidney cell carcinoma (99.5%)</li>
-<li>ovarian myxoid liposarcoma (99.5%)</li>
-<li>heart fibrosarcoma (99.4%)</li>
-<li>fibroblastic neoplasm (99.3%)</li>
-<li>kidney fibrosarcoma (99.3%)</li>
-<li>dermatofibrosarcoma protuberans (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Votrient 200mg Tablet | Bottle of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd (99.0%)</li>
+<li>Votrient 400mg Tablet | Strip of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd (99.0%)</li>
+<li>Pazoci 200 Tablet | Bottle of 30 tablets | Cipla Ltd (99.0%)</li>
+<li>Pazoci 400 Tablet | Bottle of 30 tablets | Cipla Ltd (99.0%)</li>
+<li>Pazocam 200mg Tablet | Bottle of 30 tablets | Medicamen Biotech Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pazopanib/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Sertaconazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sertaconazole. Original indication: . 10 predicted indications."
+description: "Health news related to Sertaconazole. Original indication: . 5 predicted indications."
 permalink: /news/sertaconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sertaconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Sertaconazole?">
-<strong>Sertaconazole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Sertaconazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Sertaconazole with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>dermatophytosis of groin and perianal area (100.0%)</li>
-<li>tinea corporis (99.9%)</li>
-<li>cutaneous candidiasis (99.6%)</li>
-<li>Majocchi granuloma (99.6%)</li>
-<li>ectothrix infectious disease (99.6%)</li>
-<li>endothrix infectious disease (99.6%)</li>
-<li>superficial mycosis (99.5%)</li>
-<li>dermatophytosis of scalp or beard (99.5%)</li>
-<li>pityriasis versicolor (99.5%)</li>
-<li>tinea profunda (99.4%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Sertalin Cream | Tube of 30 gm cream | Not specified (99.0%)</li>
+<li>Seriva 2% Lotion | Bottle of 30 ml lotion | Not specified (99.0%)</li>
+<li>Mycoclin Cream | Tube of 15 gm cream | Not specified (99.0%)</li>
+<li>Trusert 2% Cream | Tube of 30 gm cream | Not specified (99.0%)</li>
+<li>Mycoclin 500mg Tablet VT | Strip of 1 vaginal tablet | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sertaconazole/' | relative_url }}">View full drug report →</a></p>

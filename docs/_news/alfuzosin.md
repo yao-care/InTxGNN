@@ -3,7 +3,7 @@ layout: default
 title: "Alfuzosin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Alfuzosin. Original indication: . 10 predicted indications."
+description: "Health news related to Alfuzosin. Original indication: . 5 predicted indications."
 permalink: /news/alfuzosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alfuzosin/
 ---
 
 <p class="key-answer" data-question="What news is there about Alfuzosin?">
-<strong>Alfuzosin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Alfuzosin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Alfuzosin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>familial isolated trichomegaly (99.9%)</li>
-<li>allergic urticaria (99.9%)</li>
-<li>persistent fetal circulation syndrome (99.5%)</li>
-<li>hypotrichosis simplex of the scalp (99.3%)</li>
-<li>congenital hypotrichosis milia (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Alfuin 10mg Tablet | Strip of 10 tablets | Elio Biocare Lifesciences Pvt Ltd (99.0%)</li>
+<li>Urofuz 10mg Tablet | Strip of 10 tablets | Curis Lifecare (99.0%)</li>
+<li>Alfunex 10mg Tablet | Strip of 10 tablets | Nexkem Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Alfuzin 10mg Tablet ER | Strip of 10 extended-release tablets | Astonea Labs Private Limited (99.0%)</li>
+<li>Velfu Tablet PR | Strip of 7 prolonged-release tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alfuzosin/' | relative_url }}">View full drug report →</a></p>

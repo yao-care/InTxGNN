@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Phenylpropanolamine with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>rosacea conjunctivitis (99.2%)</li>
-<li>faucial diphtheria (99.1%)</li>
-<li>cervical disc degenerative disorder (99.0%)</li>
+<li>Dexovik Syrup | Syrup, 100 ml bottle | Not stated (99.0%)</li>
+<li>Tussiz P Syrup | Syrup, 60 ml bottle | Not stated (99.0%)</li>
+<li>Triatussic 12.5 mg/2 mg/10 mg Tablet | Tablet, strip of 10 | Not stated (99.0%)</li>
+<li>Chericold Capsule | Capsule, strip of 10 | Not stated (99.0%)</li>
+<li>Tritus Plus Suspension | Suspension, 50 ml bottle | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylpropanolamine/' | relative_url }}">View full drug report →</a></p>

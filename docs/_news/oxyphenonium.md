@@ -24,8 +24,9 @@ This page combines the AI-predicted indications for Oxyphenonium with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>irritable bowel syndrome (99.1%)</li>
+<li>Antrenyl 5mg Tablet (Novartis India Ltd) | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxyphenonium/' | relative_url }}">View full drug report →</a></p>

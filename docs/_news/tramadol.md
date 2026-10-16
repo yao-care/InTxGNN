@@ -3,7 +3,7 @@ layout: default
 title: "Tramadol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tramadol. Original indication: . 10 predicted indications."
+description: "Health news related to Tramadol. Original indication: . 5 predicted indications."
 permalink: /news/tramadol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tramadol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tramadol?">
-<strong>Tramadol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tramadol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Tramadol with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>spondyloarthropathy, susceptibility to (100.0%)</li>
-<li>juvenile idiopathic arthritis (99.9%)</li>
-<li>juvenile arthritis due to defect in LACC1 (99.9%)</li>
-<li>rheumatoid nodulosis (99.9%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Astol 50mg Capsule | Strip of 10 capsules | Not specified (99.0%)</li>
+<li>Opibind P 37.5mg/325mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Dolosal P 37.5mg/325mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Tranzex 50mg Injection | Vial of 2 ml injection | Not specified (99.0%)</li>
+<li>Tramrig 50mg Injection | Ampoule of 1 ml injection | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tramadol/' | relative_url }}">View full drug report →</a></p>

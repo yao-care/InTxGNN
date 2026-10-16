@@ -3,7 +3,7 @@ layout: default
 title: "Ritonavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ritonavir. Original indication: . 3 predicted indications."
+description: "Health news related to Ritonavir. Original indication: . 5 predicted indications."
 permalink: /news/ritonavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ritonavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Ritonavir?">
-<strong>Ritonavir</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Ritonavir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Ritonavir with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lopimune 50 mg/200 mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not stated in licence record (99.0%)</li>
+<li>Ritomax 100 mg Capsule (Alkem Laboratories Ltd) | Box of 60 capsules | Not stated in licence record (99.0%)</li>
+<li>Viriton 100 mg Tablet (Sun Pharmaceutical Industries Ltd) | Bottle of 60 tablets | Not stated in licence record (99.0%)</li>
+<li>Empetus 100 mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 30 tablets | Not stated in licence record (99.0%)</li>
+<li>Ritomune 100 mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not stated in licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ritonavir/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Mosapride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mosapride. Original indication: . 1 predicted indications."
+description: "Health news related to Mosapride. Original indication: . 5 predicted indications."
 permalink: /news/mosapride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mosapride/
 ---
 
 <p class="key-answer" data-question="What news is there about Mosapride?">
-<strong>Mosapride</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Mosapride</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Mosapride with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Moza 5 Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li>Kinetix 5mg Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
+<li>Mozax 2.5mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
+<li>Movaride 2.5mg Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd (99.0%)</li>
+<li>Mosapid 5mg Tablet | Strip of 10 tablets | Cipla Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mosapride/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Plerixafor News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Plerixafor. Original indication: . 7 predicted indications."
+description: "Health news related to Plerixafor. Original indication: . 5 predicted indications."
 permalink: /news/plerixafor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/plerixafor/
 ---
 
 <p class="key-answer" data-question="What news is there about Plerixafor?">
-<strong>Plerixafor</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Plerixafor</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Plerixafor with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>indolent plasma cell myeloma (100.0%)</li>
-<li>CMM7 (99.3%)</li>
-<li>pediatric leptomeningeal melanoma (99.3%)</li>
-<li>epithelioid cell uveal melanoma (99.3%)</li>
-<li>bronchitis (99.2%)</li>
-<li>vulvar melanoma (disease) (99.2%)</li>
-<li>myeloid leukemia (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Celstemx 24mg Injection | Vial of 1.2 ml injection | Sayre Therapeutics Pvt Ltd (99.0%)</li>
+<li>Mozifor Injection | Vial of 1.2 ml injection | Hetero Drugs Ltd (99.0%)</li>
+<li>Celrixafor Injection | Vial of 1 injection | Celon Laboratories Ltd (99.0%)</li>
+<li>Mostim Injection | Vial of 1.2 ml injection | Zydus Cadila (99.0%)</li>
+<li>Stemfor Injection | Vial of 1.2 ml injection | Intas Pharmaceuticals Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/plerixafor/' | relative_url }}">View full drug report →</a></p>

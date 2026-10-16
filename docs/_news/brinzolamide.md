@@ -3,7 +3,7 @@ layout: default
 title: "Brinzolamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Brinzolamide. Original indication: . 1 predicted indications."
+description: "Health news related to Brinzolamide. Original indication: . 5 predicted indications."
 permalink: /news/brinzolamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brinzolamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Brinzolamide?">
-<strong>Brinzolamide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Brinzolamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Brinzolamide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>primary hereditary glaucoma (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Azopt Opthalmic Suspension (Alcon Laboratories) | Bottle of 5 ml eye drop | Not specified (99.0%)</li>
+<li>Azarga Eye Drop (Novartis India Ltd) | Bottle of 5 ml eye drop | Not specified (99.0%)</li>
+<li>Simbrinza Opthalmic Suspension (Alcon Laboratories) | Packet of 5 ml ophthalmic suspension | Not specified (99.0%)</li>
+<li>Brinolar BKC Free Eye Drop (Sun Pharmaceutical Industries Ltd) | Bottle of 5 ml ophthalmic suspension | Not specified (99.0%)</li>
+<li>Brinzagan Opthalmic Suspension (Allergan India Pvt Ltd) | Packet of 5 ml ophthalmic suspension | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brinzolamide/' | relative_url }}">View full drug report →</a></p>

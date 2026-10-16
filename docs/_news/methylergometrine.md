@@ -3,7 +3,7 @@ layout: default
 title: "Methylergometrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Methylergometrine. Original indication: . 10 predicted indications."
+description: "Health news related to Methylergometrine. Original indication: . 15 predicted indications."
 permalink: /news/methylergometrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methylergometrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Methylergometrine?">
-<strong>Methylergometrine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Methylergometrine</strong> currently has <strong>0 news articles</strong>, with 15 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,23 @@ This page combines the AI-predicted indications for Methylergometrine with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hypertrichosis (disease) (99.9%)</li>
-<li>pulmonary hypertension (99.9%)</li>
-<li>migraine disorder (99.8%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.8%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.8%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.8%)</li>
-<li>isolated genetic hair shaft abnormality (99.8%)</li>
-<li>kyphoscoliotic heart disease (99.8%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (15)</strong>:<ul>
+<li>Hypertrichosis | 99.87% | L5 | Hold (99.0%)</li>
+<li>Pulmonary hypertension | 99.86% | L5 | Hold (99.0%)</li>
+<li>Migraine disorder | 99.84% | L4 | Research Question (99.0%)</li>
+<li>Ambras type hypertrichosis universalis congenita | 99.82% | L5 | Hold (99.0%)</li>
+<li>Malformation syndrome with odontal/periodontal component | 99.81% | L5 | Hold (99.0%)</li>
+<li>Syndrome with Dandy-Walker malformation as major feature | 99.81% | L5 | Hold (99.0%)</li>
+<li>Isolated genetic hair shaft abnormality | 99.79% | L5 | Hold (99.0%)</li>
+<li>Kyphoscoliotic heart disease | 99.77% | L5 | Hold (99.0%)</li>
+<li>Migraine with brainstem aura | 99.77% | L5 | Hold (99.0%)</li>
+<li>Nephrogenic syndrome of inappropriate antidiuresis | 99.57% | L5 | Hold (99.0%)</li>
+<li>Methergin Injection (Novartis India Ltd) | Vial of 1 ml injection | Not recorded (99.0%)</li>
+<li>Methargo Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Limitex 0.2mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 ml injection | Not recorded (99.0%)</li>
+<li>Methygene 0.125mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Metermin 0.2mg Injection (Cadila Pharmaceuticals Ltd) | Vial of 1 ml injection | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methylergometrine/' | relative_url }}">View full drug report →</a></p>

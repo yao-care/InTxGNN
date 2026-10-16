@@ -3,7 +3,7 @@ layout: default
 title: "Thiocolchicoside News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Thiocolchicoside. Original indication: . 2 predicted indications."
+description: "Health news related to Thiocolchicoside. Original indication: . 5 predicted indications."
 permalink: /news/thiocolchicoside/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/thiocolchicoside/
 ---
 
 <p class="key-answer" data-question="What news is there about Thiocolchicoside?">
-<strong>Thiocolchicoside</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Thiocolchicoside</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Thiocolchicoside with the la
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
-<li>alcohol withdrawal delirium (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Thionip AP 4mg/100mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Cuflam PTH 4mg/100mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Thionaid-P Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>T Mr 8mg Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li>D Pain TC Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/thiocolchicoside/' | relative_url }}">View full drug report →</a></p>

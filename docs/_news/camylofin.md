@@ -3,7 +3,7 @@ layout: default
 title: "Camylofin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Camylofin. Original indication: . 1 predicted indications."
+description: "Health news related to Camylofin. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/camylofin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/camylofin/
 ---
 
 <p class="key-answer" data-question="What news is there about Camylofin?">
-<strong>Camylofin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Camylofin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,14 @@ This page combines the AI-predicted indications for Camylofin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>insomnia (disease) (99.4%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **insomnia**, but there are currently **no clinical trials and no publications** supporting this direction, so the prediction rests on the model alone.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Anaspas 25mg Injection (Abbott) | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>Bigspas-P Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Anafortan 25 mg/300 mg Tablet (Abbott) | Strip of 15 tablets | Not stated (99.0%)</li>
+<li>Bigspas 50mg Injection (Mankind Pharma Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Camifort Suspension (Intel Pharmaceuticals) | Bottle of 30 ml suspension | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/camylofin/' | relative_url }}">View full drug report →</a></p>

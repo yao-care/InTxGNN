@@ -3,7 +3,7 @@ layout: default
 title: "Vasopressin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vasopressin. Original indication: . 10 predicted indications."
+description: "Health news related to Vasopressin. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/vasopressin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vasopressin/
 ---
 
 <p class="key-answer" data-question="What news is there about Vasopressin?">
-<strong>Vasopressin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Vasopressin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Vasopressin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>congenital prothrombin deficiency (99.6%)</li>
-<li>drug-induced osteoporosis (99.6%)</li>
-<li>severe nonproliferative diabetic retinopathy (98.3%)</li>
-<li>orofacial clefting syndrome (98.0%)</li>
-<li>ductal or ductular proliferation (98.0%)</li>
-<li>non-seminomatous lesion (98.0%)</li>
-<li>chondroid hamartoma (98.0%)</li>
-<li>bronchial adenomas/carcinoids childhood (98.0%)</li>
-<li>tumor of testis and paratestis (98.0%)</li>
-<li>cystic neoplasm (98.0%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but there are **no registered clinical trials** and only **3 indirect publications** (a review and two case...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Vasopar 20IU Injection | Vial of 1 ml injection | Not listed (99.0%)</li>
+<li>Petresin 20IU Injection | Ampoule of 1 ml injection | Not listed (99.0%)</li>
+<li>Cevas 40IU Injection | Vial of 1 ml injection | Not listed (99.0%)</li>
+<li>Argipress 20units Injection | Ampoule of 5 injections | Not listed (99.0%)</li>
+<li>Press UP 20IU Injection | Vial of 1 ml injection | Not listed (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vasopressin/' | relative_url }}">View full drug report →</a></p>

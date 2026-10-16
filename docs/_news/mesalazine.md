@@ -3,7 +3,7 @@ layout: default
 title: "Mesalazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mesalazine. Original indication: . 7 predicted indications."
+description: "Health news related to Mesalazine. Original indication: . 11 predicted indications."
 permalink: /news/mesalazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>5 news articles</strong>, with 7 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>6 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,33 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
-<li class="indication-matched">osteoarthritis (99.6%)<span class="indication-tag">📰 osteoarthritis</span></li>
-<li class="indication-matched">rheumatoid arthritis (99.6%)<span class="indication-tag">📰 RA</span></li>
-<li>seborrheic keratosis (99.5%)</li>
-<li>osteoarthritis susceptibility (99.3%)</li>
-<li>vulvar inverted follicular keratosis (99.3%)</li>
-<li>pseudoachondroplasia (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (11)</strong>:<ul>
+<li>Osteoarthritis | 99.63% | L5 | Theoretical anti-inflammatory rationale, but poor systemic absorption limits joint exposure. The only publication is a computational target-identification study, not clinical evidence. (99.0%)</li>
+<li>Rheumatoid arthritis | 99.57% | L4 | Indirect rationale via sulfasalazine, which is metabolised to mesalazine. The antirheumatic effect is mainly attributed to sulfapyridine or the intact parent compound, and mesalazine alone has not shown comparable efficacy. (99.0%)</li>
+<li>Seborrheic keratosis | 99.50% | L5 | No credible mechanistic link. (99.0%)</li>
+<li>Osteoarthritis susceptibility | 99.35% | L5 | A genetic susceptibility phenotype, not an actionable indication. (99.0%)</li>
+<li>Vulvar inverted follicular keratosis | 99.33% | L5 | No plausible mechanistic link. (99.0%)</li>
+<li>Pseudoachondroplasia | 99.19% | L5 | COMP-mutation skeletal dysplasia, with no link to mesalazine's mechanism. (99.0%)</li>
+<li>Rowasa 1gm Pellets (Abbott) | Packet of 1 gm pellets | Not stated in records (99.0%)</li>
+<li>Mesacol Tablet DR (Sun Pharmaceutical) | Strip of 15 delayed-release tablets | Not stated in records (99.0%)</li>
+<li>Pentasa 1gm Enema (Ferring) | Bottle of 100 ml enema | Not stated in records (99.0%)</li>
+<li>Pentasa 2gm Prolonged Release Granules (Ferring) | Sachet of 2 gm granules | Not stated in records (99.0%)</li>
+<li>Mesacol Suppository (Sun Pharmaceutical) | Strip of 5 suppositories | Not stated in records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">RA</span>
+
+Source: [orfonline.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+---
 
 ### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
 
@@ -47,19 +60,19 @@ Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU
 
 ---
 
-### [Column | Scientists may have the key to treating arthritis: Regrowing the knee - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
-
-2026-10-15 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
-
----
-
 ### [Ageing doesn’t have to slow your knees down, here’s what helps - The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5)
 
 2026-10-15 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5)
+
+---
+
+### [Hyderabad doctors warn of back and neck pain from long commutes and poor roads - Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Salmeterol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Salmeterol. Original indication: . 7 predicted indications."
+description: "Health news related to Salmeterol. Original indication: . 5 predicted indications."
 permalink: /news/salmeterol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/salmeterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Salmeterol?">
-<strong>Salmeterol</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Salmeterol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Salmeterol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>bronchitis (99.9%)</li>
-<li>respiratory malformation (99.9%)</li>
-<li>obstructive lung disease (99.9%)</li>
-<li>Rienhoff syndrome (99.9%)</li>
-<li>asthma (99.8%)</li>
-<li>asthma-related traits, susceptibility to (99.5%)</li>
-<li>atopic eczema (99.4%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Combitide 50mcg/100mcg Octacap (Sun Pharmaceutical) | Box of 30 capsules | Not listed (99.0%)</li>
+<li>Airtec SF 500 Instacap (Glenmark) | Bottle of 30 instacaps | Not listed (99.0%)</li>
+<li>Quikhale SF 50 mcg/500 mcg Capsule (Intas) | Strip of 30 capsules | Not listed (99.0%)</li>
+<li>Seroflo 125 Synchrobreathe (Cipla) | Packet of 120 MDI inhaler | Not listed (99.0%)</li>
+<li>Esiflo 250 Transhaler (Lupin) | Packet of 120 MDI transhaler | Not listed (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/salmeterol/' | relative_url }}">View full drug report →</a></p>

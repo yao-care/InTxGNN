@@ -3,7 +3,7 @@ layout: default
 title: "Rocuronium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rocuronium. Original indication: . 10 predicted indications."
+description: "Health news related to Rocuronium. Original indication: . 5 predicted indications."
 permalink: /news/rocuronium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rocuronium/
 ---
 
 <p class="key-answer" data-question="What news is there about Rocuronium?">
-<strong>Rocuronium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Rocuronium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Rocuronium with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>cauda equina syndrome (99.7%)</li>
-<li>migraine with or without aura, susceptibility to (99.7%)</li>
-<li>atrophoderma vermiculata (99.6%)</li>
-<li>ulerythema ophryogenesis (99.5%)</li>
-<li>obsolete neurogenic bladder (disease) (99.4%)</li>
-<li>irritable bowel syndrome (99.1%)</li>
-<li>sciatic neuropathy (99.1%)</li>
-<li>headache disorder (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Kabiroc 10mg Injection (Fresenius Kabi India) | Vial of 5 ml injection | Not stated (99.0%)</li>
+<li>Rocsur 50mg Injection (Gland Pharma) | Vial of 5 ml injection | Not stated (99.0%)</li>
+<li>Esmeron 100mg Injection (Organon India) | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Rocunium 50mg Injection (Neon Laboratories) | Vial of 5 ml injection | Not stated (99.0%)</li>
+<li>Rocutroy 10mg Injection (Troikaa Pharmaceuticals) | Vial of 5 ml injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rocuronium/' | relative_url }}">View full drug report →</a></p>

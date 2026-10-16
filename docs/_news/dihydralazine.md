@@ -3,7 +3,7 @@ layout: default
 title: "Dihydralazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dihydralazine. Original indication: . 10 predicted indications."
+description: "Health news related to Dihydralazine. Original indication: . 2 predicted indications."
 permalink: /news/dihydralazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dihydralazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dihydralazine?">
-<strong>Dihydralazine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dihydralazine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,10 @@ This page combines the AI-predicted indications for Dihydralazine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>heart disease (100.0%)</li>
-<li>Pierre Robin syndrome associated with a chromosomal anomaly (100.0%)</li>
-<li>genetic syndromic Pierre Robin syndrome (100.0%)</li>
-<li>Laubry-Pezzi syndrome (100.0%)</li>
-<li>partial deletion of the long arm of chromosome 7 (100.0%)</li>
-<li>orofacial clefting syndrome (100.0%)</li>
-<li>Jeune syndrome situs inversus (100.0%)</li>
-<li>disorder of fucoglycosan synthesis (100.0%)</li>
-<li>pulmonary valve disease (100.0%)</li>
-<li>partial deletion of the long arm of chromosome 22 (100.0%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Apresol Tablet | Strip of 15 tablets | Not stated in the records (99.0%)</li>
+<li>Nepresol 25mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dihydralazine/' | relative_url }}">View full drug report →</a></p>

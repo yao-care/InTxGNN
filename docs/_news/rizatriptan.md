@@ -3,7 +3,7 @@ layout: default
 title: "Rizatriptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rizatriptan. Original indication: . 2 predicted indications."
+description: "Health news related to Rizatriptan. Original indication: . 5 predicted indications."
 permalink: /news/rizatriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rizatriptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Rizatriptan?">
-<strong>Rizatriptan</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Rizatriptan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Rizatriptan with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>atrophoderma vermiculata (99.2%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Migsun 5mg Tablet | Strip of 4 tablets | Sunrise Remedies Pvt Ltd (99.0%)</li>
+<li>Ritza 5mg Tablet | Strip of 6 tablets | Natco Pharma Ltd (99.0%)</li>
+<li>Rizora 10 Tablet | Strip of 4 tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li>Rizamelt 5 Disintegrating Strip | Packet of 5 disintegrating strips | Arinna Lifescience Pvt Ltd (99.0%)</li>
+<li>Rizact 10 Tablet | Strip of 4 tablets | Cipla Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rizatriptan/' | relative_url }}">View full drug report →</a></p>

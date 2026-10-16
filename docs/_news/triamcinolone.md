@@ -3,7 +3,7 @@ layout: default
 title: "Triamcinolone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triamcinolone. Original indication: . 10 predicted indications."
+description: "Health news related to Triamcinolone. Original indication: . 5 predicted indications."
 permalink: /news/triamcinolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triamcinolone/
 ---
 
 <p class="key-answer" data-question="What news is there about Triamcinolone?">
-<strong>Triamcinolone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Triamcinolone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Triamcinolone with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (100.0%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.8%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Kenatroy 40mg Injection (Troikaa Pharmaceuticals) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Kencort 16mg Tablet (Kenn Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Injicort 40mg Injection (Zydus Healthcare) | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Lupicort 40mg Injection (Lupin) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Amecort 4mg Tablet (Ikon Remedies) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">View full drug report →</a></p>

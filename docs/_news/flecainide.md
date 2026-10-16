@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Flecainide with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>stroke disorder (99.9%)</li>
 <li>obsolete susceptibility to ischemic stroke (99.9%)</li>

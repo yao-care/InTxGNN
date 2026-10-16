@@ -3,7 +3,7 @@ layout: default
 title: "Apomorphine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Apomorphine. Original indication: . 10 predicted indications."
+description: "Health news related to Apomorphine. Original indication: . 2 predicted indications."
 permalink: /news/apomorphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/apomorphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,10 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.8%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.7%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.7%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.7%)</li>
-<li>schizophrenia (99.7%)</li>
-<li>myopia X-linked (99.7%)</li>
-<li>atypical glycine encephalopathy (99.7%)</li>
-<li>myopia 26, X-linked, female-limited (99.6%)</li>
-<li>syndromic myopia (99.6%)</li>
-<li>hydranencephaly (disease) (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Apotab 2 Sublingual tablet (Alteus Biogenics Pvt Ltd) | Strip of 10 sublingual tablets | Not stated in the data compiled (99.0%)</li>
+<li>Zyprima 3mg Tablet (Zydus Cadila) | Strip of 4 sublingual tablets | Not stated in the data compiled (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>

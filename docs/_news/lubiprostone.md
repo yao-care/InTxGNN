@@ -3,7 +3,7 @@ layout: default
 title: "Lubiprostone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lubiprostone. Original indication: . 10 predicted indications."
+description: "Health news related to Lubiprostone. Original indication: . 1 predicted indications."
 permalink: /news/lubiprostone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lubiprostone/
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>alopecia (99.9%)</li>
-<li>congenital hypotrichosis milia (99.9%)</li>
-<li>hypotrichosis simplex of the scalp (99.9%)</li>
-<li>diffuse alopecia areata (99.9%)</li>
-<li>pulmonary hypertension (99.9%)</li>
-<li>kyphoscoliotic heart disease (99.8%)</li>
-<li>Raynaud disease (99.6%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (99.5%)</li>
-<li>phaeochromocytoma (99.5%)</li>
-<li>peripheral vascular disease (99.4%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Lubowel 24 Soft Gelatin Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 15 soft gelatin capsules (oral) | Not stated in the license record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
@@ -42,17 +34,17 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 
 ## Related News (2)
 
-### [How Are Stress, Depression, and Cardiovascular Risk Linked?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
+### [Working 55 hours a week? Cardiologists explain how long workdays, chronic stress and poor sleep could put your heart at risk - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxOZUt1LUdZTUk1UmdnUUYxdkJxcjl1a1RPN0lieGYwdGFZeDVSLVhqNE1la1p1eTJscERGQmhobUxHNmhwOFFnTlRNeU0zQ0tieko1TkNNLUlVaEF1Tmp3R3M1amhXaGxsc1hYYWNwYzl0eHF3U3ZyazRYVHpXT1lxUjN0RzJWUnY4U0pWanpqZmszQmF6YVprc2ZVT1FLa3B3VmlKYUpCWEJXb3F0anRHSHozam9UeGNDMlJ4QUVwX2ZFVkFCNG1heVoxNS1xQjZSZ0ZaOTFHR2NFcmhUYXBHZmMwM1pjVjJSNjVHb1JxdEk0eFQxTDVkU3lVblNKOTdLbGV6a0ljU2NXWWxUbVA1OVVnNG1wb0h5bGfSAaICQVVfeXFMTWxSZnVUckhlb2h5MTQwaFJQcWNjY2VBeHVkVF9GYkJrNTF3M2xHdTZEeEdaREpTcVBHSm1LSHBmUUR0YUhVVGpUcHNDRFRkUGFQR2kwd2dEeGVfUkJPaWkybExrQ0pwbENyQkR1ODE4Q3lfTEEyaE10VDNkR0V2ekJmbDN0ejVOOEpyUmJNa2hHdzEzV29oN2stWERfX2R4clltMXp6eGpJbFE2Z0QxeWJnZlhLRFJJeV85UHBVUjFJT3A1YTVMTml3RlhoNkpaUGxhYXFjRnJlenFTZS1wX2NTbG1OVzFXMERuV1N5OFVGUlVDYTZRNExYaVdTbk1kM0ltSnlnQW9XVVlPczZkWkJQZFZEeFNXVGsxNjl3ODZLYlE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">heart disease</span>
+2026-10-14 <span class="news-indication-tag">heart disease</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxOZUt1LUdZTUk1UmdnUUYxdkJxcjl1a1RPN0lieGYwdGFZeDVSLVhqNE1la1p1eTJscERGQmhobUxHNmhwOFFnTlRNeU0zQ0tieko1TkNNLUlVaEF1Tmp3R3M1amhXaGxsc1hYYWNwYzl0eHF3U3ZyazRYVHpXT1lxUjN0RzJWUnY4U0pWanpqZmszQmF6YVprc2ZVT1FLa3B3VmlKYUpCWEJXb3F0anRHSHozam9UeGNDMlJ4QUVwX2ZFVkFCNG1heVoxNS1xQjZSZ0ZaOTFHR2NFcmhUYXBHZmMwM1pjVjJSNjVHb1JxdEk0eFQxTDVkU3lVblNKOTdLbGV6a0ljU2NXWWxUbVA1OVVnNG1wb0h5bGfSAaICQVVfeXFMTWxSZnVUckhlb2h5MTQwaFJQcWNjY2VBeHVkVF9GYkJrNTF3M2xHdTZEeEdaREpTcVBHSm1LSHBmUUR0YUhVVGpUcHNDRFRkUGFQR2kwd2dEeGVfUkJPaWkybExrQ0pwbENyQkR1ODE4Q3lfTEEyaE10VDNkR0V2ekJmbDN0ejVOOEpyUmJNa2hHdzEzV29oN2stWERfX2R4clltMXp6eGpJbFE2Z0QxeWJnZlhLRFJJeV85UHBVUjFJT3A1YTVMTml3RlhoNkpaUGxhYXFjRnJlenFTZS1wX2NTbG1OVzFXMERuV1N5OFVGUlVDYTZRNExYaVdTbk1kM0ltSnlnQW9XVVlPczZkWkJQZFZEeFNXVGsxNjl3ODZLYlE?oc=5)
 
 ---
 
 ### [Hidden signals in sleep can predict future health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cardiovascular</span>
+2026-10-12 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cardiovascular</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 

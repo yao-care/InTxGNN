@@ -3,7 +3,7 @@ layout: default
 title: "Troxipide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Troxipide. Original indication: . 10 predicted indications."
+description: "Health news related to Troxipide. Original indication: . 3 predicted indications."
 permalink: /news/troxipide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/troxipide/
 ---
 
 <p class="key-answer" data-question="What news is there about Troxipide?">
-<strong>Troxipide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Troxipide</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,11 @@ This page combines the AI-predicted indications for Troxipide with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>esophagitis (disease) (99.9%)</li>
-<li>active peptic ulcer disease (99.9%)</li>
-<li>hiatus hernia (disease) (99.9%)</li>
-<li>gastrojejunal ulcer (99.9%)</li>
-<li>peptic ulcer perforation (99.9%)</li>
-<li>achlorhydria (99.8%)</li>
-<li>pylorospasm (99.8%)</li>
-<li>gastric dilatation (99.8%)</li>
-<li>cascade stomach (99.8%)</li>
-<li>Dieulafoy lesion (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Troxip Tablet (Zuventus Healthcare Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Troxpro 100mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Troxip-OD Tablet PR (Zuventus Healthcare Ltd) | Strip of 10 prolonged-release tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/troxipide/' | relative_url }}">View full drug report →</a></p>

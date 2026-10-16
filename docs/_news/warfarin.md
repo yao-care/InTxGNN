@@ -3,7 +3,7 @@ layout: default
 title: "Warfarin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Warfarin. Original indication: . 7 predicted indications."
+description: "Health news related to Warfarin. Original indication: . 5 predicted indications."
 permalink: /news/warfarin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/warfarin/
 ---
 
 <p class="key-answer" data-question="What news is there about Warfarin?">
-<strong>Warfarin</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Warfarin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Warfarin with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>heparin cofactor 2 deficiency (99.9%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.8%)</li>
-<li>antithrombin deficiency type 2 (99.8%)</li>
-<li>thrombophilia (99.8%)</li>
-<li>rheumatoid arthritis (99.2%)</li>
-<li>breast fibrocystic disease (99.2%)</li>
-<li>benign mammary dysplasia (99.1%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Sofarin 5mg Tablet (Samarth Life Sciences) | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Warf 3 Tablet (Cipla) | Strip of 30 tablets | Not stated in licence record (99.0%)</li>
+<li>Uniwarfin 2mg Tablet (Torrent) | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Cofarin 2mg Tablet (East West Pharma) | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
+<li>Mywarf Tablet (Parnasa Mediworld) | Strip of 15 tablets | Not stated in licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/warfarin/' | relative_url }}">View full drug report →</a></p>

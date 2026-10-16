@@ -3,7 +3,7 @@ layout: default
 title: "Methocarbamol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Methocarbamol. Original indication: . 10 predicted indications."
+description: "Health news related to Methocarbamol. Original indication: . 3 predicted indications."
 permalink: /news/methocarbamol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methocarbamol/
 ---
 
 <p class="key-answer" data-question="What news is there about Methocarbamol?">
-<strong>Methocarbamol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Methocarbamol</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,11 @@ This page combines the AI-predicted indications for Methocarbamol with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>cauda equina syndrome (100.0%)</li>
-<li>irritable bowel syndrome (100.0%)</li>
-<li>panuveitis (disease) (100.0%)</li>
-<li>anaphylaxis (100.0%)</li>
-<li>iris disease (99.9%)</li>
-<li>uveitis (99.9%)</li>
-<li>ventricular tachycardia (99.9%)</li>
-<li>food-dependent exercise-induced anaphylaxis (99.9%)</li>
-<li>conjunctivitis (99.9%)</li>
-<li>obsolete bundle branch block (99.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Mecotha Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Robinax 100mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Robinax 500mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methocarbamol/' | relative_url }}">View full drug report →</a></p>

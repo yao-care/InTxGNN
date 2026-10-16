@@ -3,7 +3,7 @@ layout: default
 title: "Zonisamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zonisamide. Original indication: . 10 predicted indications."
+description: "Health news related to Zonisamide. Original indication: . 5 predicted indications."
 permalink: /news/zonisamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zonisamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Zonisamide?">
-<strong>Zonisamide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Zonisamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Zonisamide with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Tourette syndrome (99.8%)</li>
-<li>trichotillomania (99.8%)</li>
-<li>methemoglobinemia, alpha type (99.6%)</li>
-<li>methemoglobinemia (99.6%)</li>
-<li>Prinzmetal angina (99.5%)</li>
-<li>methemoglobin reductase deficiency (99.5%)</li>
-<li>manic bipolar affective disorder (99.3%)</li>
-<li>absence epilepsy (99.2%)</li>
-<li>fibromyalgia (99.2%)</li>
-<li>conjunctivitis (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Asmide 100mg Capsule (Asterisk Laboratories) | Strip of 10 capsules | Not stated in the records (99.0%)</li>
+<li>Zonit 100mg Capsule (Torrent) | Strip of 10 capsules | Not stated in the records (99.0%)</li>
+<li>Zonegran Tablet (Eisai) | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Zonisep 100 Capsule (Sun Pharma) | Strip of 10 capsules | Not stated in the records (99.0%)</li>
+<li>Zonimid 100 Capsule (Intas) | Strip of 10 capsules | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zonisamide/' | relative_url }}">View full drug report →</a></p>

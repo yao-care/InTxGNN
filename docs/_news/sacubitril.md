@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>brain small vessel disease 1 with or without ocular anomalies (99.6%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.6%)</li>
-<li>diabetic nephropathy (99.5%)</li>
-<li>rheumatoid arthritis (99.3%)</li>
-<li>hemoglobinopathy (99.2%)</li>
+<li>CIDMUS 100mg Tablet (Dr Reddy's) | Strip of 14 tablets | Not stated (99.0%)</li>
+<li>Neptaz 200mg Tablet (Mankind Pharma) | Strip of 7 tablets | Not stated (99.0%)</li>
+<li>Vymada 100mg Tablet (Novartis India) | Strip of 14 tablets | Not stated (99.0%)</li>
+<li>Azmarda 200mg Tablet (J B Chemicals) | Strip of 7 tablets | Not stated (99.0%)</li>
+<li>Valsac 100 Tablet (Natco Pharma) | Bottle of 28 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>

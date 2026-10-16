@@ -3,7 +3,7 @@ layout: default
 title: "Pyridostigmine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pyridostigmine. Original indication: . 7 predicted indications."
+description: "Health news related to Pyridostigmine. Original indication: upport currently comes from **3 publications** (a .... 5 predicted indications."
 permalink: /news/pyridostigmine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pyridostigmine/
 ---
 
 <p class="key-answer" data-question="What news is there about Pyridostigmine?">
-<strong>Pyridostigmine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Pyridostigmine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,14 @@ This page combines the AI-predicted indications for Pyridostigmine with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>myasthenia gravis with thymus hyperplasia (99.8%)</li>
-<li>neonatal myasthenia gravis (99.8%)</li>
-<li>autoimmune disease of peripheral nervous system (99.8%)</li>
-<li>myasthenia, limb-girdle, autoimmune (99.7%)</li>
-<li>disease of receptor activity (99.7%)</li>
-<li>hypersplenism (disease) (99.3%)</li>
-<li>atypical hemolytic-uremic syndrome with B factor anomaly (99.2%)</li>
+<li><strong>Original indication</strong>: upport currently comes from **3 publications** (a review, a case report and a cohort study) and **no registered clinical trials**.</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Mygris 60mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Gravitor SR Tablet | Strip of 10 SR tablets | Not stated in the records (99.0%)</li>
+<li>Myestin 60mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Pyristig 60mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Pyrido 60mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pyridostigmine/' | relative_url }}">View full drug report →</a></p>

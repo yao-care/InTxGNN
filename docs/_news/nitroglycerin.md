@@ -3,7 +3,7 @@ layout: default
 title: "Nitroglycerin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nitroglycerin. Original indication: . 5 predicted indications."
+description: "Health news related to Nitroglycerin. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/nitroglycerin/
 ---
 
@@ -24,12 +24,14 @@ This page combines the AI-predicted indications for Nitroglycerin with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **pulmonary hypertension**, with **3 clinical trials** and **20 publications** currently supporting this direction. Most of this evidence is small,...</li>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>pulmonary hypertension (99.6%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>Prinzmetal angina (99.4%)</li>
-<li>primary hereditary glaucoma (99.2%)</li>
-<li>congenital hypotrichosis milia (99.0%)</li>
+<li>Glynit 0.5mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Nitrolong 2.6 Tablet CR | Bottle of 30 CR tablets | Not recorded (99.0%)</li>
+<li>Vasovin-XL 6.5 Capsule | Bottle of 25 capsules (TR) | Not recorded (99.0%)</li>
+<li>Myonit SR 6.4 Tablet | Bottle of 30 CR tablets | Not recorded (99.0%)</li>
+<li>Nig 50mg Injection | Vial of 10 ml injection | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitroglycerin/' | relative_url }}">View full drug report →</a></p>

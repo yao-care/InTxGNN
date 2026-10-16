@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Fenfluramine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
 <li>proximal 16p11.2 microdeletion syndrome (99.9%)</li>
 <li>hypervitaminosis (99.9%)</li>

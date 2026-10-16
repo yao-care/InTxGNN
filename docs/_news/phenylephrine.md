@@ -3,7 +3,7 @@ layout: default
 title: "Phenylephrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phenylephrine. Original indication: . 3 predicted indications."
+description: "Health news related to Phenylephrine. Original indication: . 5 predicted indications."
 permalink: /news/phenylephrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenylephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Phenylephrine?">
-<strong>Phenylephrine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Phenylephrine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Phenylephrine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>trigeminal autonomic cephalalgia (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dexcare Syrup | Syrup, 100 ml bottle | Not stated in the records (99.0%)</li>
+<li>Zuricof DX Syrup | Syrup, 60 ml bottle | Not stated in the records (99.0%)</li>
+<li>Korf D Syrup | Syrup, 100 ml bottle | Not stated in the records (99.0%)</li>
+<li>Koffrio Tablet DT | Dispersible tablet, strip of 10 | Not stated in the records (99.0%)</li>
+<li>Kofno-Plus Softgel Capsule | Soft gelatin capsule, strip of 10 | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylephrine/' | relative_url }}">View full drug report →</a></p>

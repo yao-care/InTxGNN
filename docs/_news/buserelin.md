@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Buserelin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>hypertrichosis (disease) (99.8%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.7%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.7%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.6%)</li>
-<li>isolated genetic hair shaft abnormality (99.6%)</li>
+<li>Busarlin 0.5mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Supradopin 0.5mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Busag 5mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Busarlin 7mg Injection | Vial of 7 ml injection | Not stated (99.0%)</li>
+<li>Busag 0.5mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/buserelin/' | relative_url }}">View full drug report →</a></p>

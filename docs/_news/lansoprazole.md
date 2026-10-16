@@ -3,7 +3,7 @@ layout: default
 title: "Lansoprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lansoprazole. Original indication: . 2 predicted indications."
+description: "Health news related to Lansoprazole. Original indication: . 5 predicted indications."
 permalink: /news/lansoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lansoprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Lansoprazole?">
-<strong>Lansoprazole</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Lansoprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Lansoprazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>duodenogastric reflux (99.7%)</li>
-<li>duodenal obstruction (99.7%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lanzomed 15mg Tablet DT | Dispersible tablet (strip of 10) | Not available (99.0%)</li>
+<li>Lansoford 30mg Tablet | Tablet (strip of 10) | Not available (99.0%)</li>
+<li>Lancron 30mg Capsule | Capsule (strip of 10) | Not available (99.0%)</li>
+<li>Lansotaj 30mg Injection | Powder for injection (1 vial) | Not available (99.0%)</li>
+<li>Junior Lanzol 30mg Tablet DT | Dispersible tablet (strip of 10) | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lansoprazole/' | relative_url }}">View full drug report →</a></p>

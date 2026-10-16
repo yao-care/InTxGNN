@@ -3,7 +3,7 @@ layout: default
 title: "Ammonium Chloride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ammonium Chloride. Original indication: . 2 predicted indications."
+description: "Health news related to Ammonium Chloride. Original indication: . 0 predicted indications."
 permalink: /news/ammonium_chloride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ammonium_chloride/
 ---
 
 <p class="key-answer" data-question="What news is there about Ammonium Chloride?">
-<strong>Ammonium Chloride</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Ammonium Chloride</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,8 @@ This page combines the AI-predicted indications for Ammonium Chloride with the l
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>nasal cavity disease (99.9%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/ammonium-chloride/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/ammonium_chloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

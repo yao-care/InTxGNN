@@ -3,7 +3,7 @@ layout: default
 title: "Ivermectin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ivermectin. Original indication: . 10 predicted indications."
+description: "Health news related to Ivermectin. Original indication: . 5 predicted indications."
 permalink: /news/ivermectin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,23 +24,27 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>vulvovaginal candidiasis (100.0%)</li>
-<li>esophageal candidiasis (99.7%)</li>
-<li>anogenital human papillomavirus infection (99.5%)</li>
-<li>vulvovaginitis (99.4%)</li>
-<li>candida glabrata (99.2%)</li>
-<li>neonatal candidiasis (99.2%)</li>
-<li>congenital candidiasis (99.2%)</li>
-<li>postmenopausal atrophic vaginitis (99.2%)</li>
-<li>candidiasis, invasive (99.2%)</li>
-<li>vulvitis (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Covermect 12mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ivrix 12 Tablet DT | Strip of 10 dispersible tablets | Not specified (99.0%)</li>
+<li>Iverfine 12 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Zen Mectin 12mg Tablet | Strip of 1 tablet | Not specified (99.0%)</li>
+<li>Worbend Plus Oral Suspension | Bottle of 10 ml oral suspension | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
+
+2026-10-15 <span class="news-drug-tag">LEVONORGESTREL</span> <span class="news-drug-tag">ESTRADIOL</span> <span class="news-drug-tag">Levonorgestrel</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
+
+---
 
 ### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5)
 

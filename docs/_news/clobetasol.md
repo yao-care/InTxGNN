@@ -3,7 +3,7 @@ layout: default
 title: "Clobetasol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clobetasol. Original indication: . 1 predicted indications."
+description: "Health news related to Clobetasol. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/clobetasol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clobetasol/
 ---
 
 <p class="key-answer" data-question="What news is there about Clobetasol?">
-<strong>Clobetasol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Clobetasol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,14 @@ This page combines the AI-predicted indications for Clobetasol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>primary cutaneous T-cell lymphoma (99.5%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **primary cutaneous T-cell lymphoma**, particularly early-stage mycosis fungoides.</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lobesol Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
+<li>Clobet Cream | Tube of 15 gm cream | Not stated (99.0%)</li>
+<li>Clobaderm Ointment | Tube of 10 gm ointment | Not stated (99.0%)</li>
+<li>Becomed gm Cream | Tube of 10 gm cream | Not stated (99.0%)</li>
+<li>Clonext Cream | Tube of 30 gm cream | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clobetasol/' | relative_url }}">View full drug report →</a></p>

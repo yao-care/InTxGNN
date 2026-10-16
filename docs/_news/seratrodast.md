@@ -3,7 +3,7 @@ layout: default
 title: "Seratrodast News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Seratrodast. Original indication: . 10 predicted indications."
+description: "Health news related to Seratrodast. Original indication: . 3 predicted indications."
 permalink: /news/seratrodast/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/seratrodast/
 ---
 
 <p class="key-answer" data-question="What news is there about Seratrodast?">
-<strong>Seratrodast</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Seratrodast</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,11 @@ This page combines the AI-predicted indications for Seratrodast with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>migraine with or without aura, susceptibility to (99.6%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>pulmonary hypertension (99.5%)</li>
-<li>rheumatoid arthritis (99.5%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>brachydactyly-syndactyly syndrome (99.2%)</li>
-<li>leprosy (99.1%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>atrophoderma vermiculata (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Seretra 80 Tablet (Zuventus Healthcare Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Seradair 80mg Tablet (Fourrts India Laboratories Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Alatro Tablet (Lupin Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/seratrodast/' | relative_url }}">View full drug report →</a></p>

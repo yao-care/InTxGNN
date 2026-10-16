@@ -3,7 +3,7 @@ layout: default
 title: "Pramipexole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pramipexole. Original indication: . 10 predicted indications."
+description: "Health news related to Pramipexole. Original indication: . 5 predicted indications."
 permalink: /news/pramipexole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pramipexole/
 ---
 
 <p class="key-answer" data-question="What news is there about Pramipexole?">
-<strong>Pramipexole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Pramipexole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Pramipexole with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (100.0%)</li>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
-<li>specific developmental disorder (100.0%)</li>
-<li>chondromyxoid fibroma (100.0%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.6%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.5%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.5%)</li>
-<li>schizophrenia (99.5%)</li>
-<li>atypical glycine encephalopathy (99.5%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Pramirol SR 0.26 Tablet | Prolonged-release tablet | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li>Mirapex 3mg Tablet ER | Extended-release tablet | Boehringer Ingelheim (99.0%)</li>
+<li>Remipex 0.5mg Tablet | Tablet | Torrent Pharmaceuticals Ltd (99.0%)</li>
+<li>Pramipex ER 0.375 Tablet | Extended-release tablet | Sun Pharmaceutical Industries Ltd (99.0%)</li>
+<li>Parpex 0.25mg Tablet | Tablet | Zydus Cadila (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pramipexole/' | relative_url }}">View full drug report →</a></p>

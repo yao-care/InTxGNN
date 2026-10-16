@@ -3,7 +3,7 @@ layout: default
 title: "Lemborexant News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lemborexant. Original indication: . 1 predicted indications."
+description: "Health news related to Lemborexant. Original indication: . 2 predicted indications."
 permalink: /news/lemborexant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lemborexant/
 ---
 
 <p class="key-answer" data-question="What news is there about Lemborexant?">
-<strong>Lemborexant</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Lemborexant</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,10 @@ This page combines the AI-predicted indications for Lemborexant with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>sleep disorder, initiating and maintaining sleep (99.8%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Dayvigo 5mg Tablet | Strip of 14 tablets | Not stated in available data (99.0%)</li>
+<li>Dayvigo 10mg Tablet | Strip of 14 tablets | Not stated in available data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lemborexant/' | relative_url }}">View full drug report →</a></p>

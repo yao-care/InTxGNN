@@ -3,7 +3,7 @@ layout: default
 title: "Danazol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Danazol. Original indication: . 10 predicted indications."
+description: "Health news related to Danazol. Original indication: . 5 predicted indications."
 permalink: /news/danazol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/danazol/
 ---
 
 <p class="key-answer" data-question="What news is there about Danazol?">
-<strong>Danazol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Danazol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Danazol with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>benign mammary dysplasia (100.0%)</li>
-<li>apocrine adenosis of breast (100.0%)</li>
-<li>blunt duct adenosis of breast (100.0%)</li>
-<li>breast abscess (100.0%)</li>
-<li>fat necrosis of breast (100.0%)</li>
-<li>lactation disease (100.0%)</li>
-<li>breast adenosis (100.0%)</li>
-<li>vulvovaginitis (100.0%)</li>
-<li>vulvitis (100.0%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ladogal 50mg Capsule (Sanofi India Ltd) | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li>Ladogal 100mg Capsule (Sanofi India Ltd) | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li>Danogen 200 Capsule (Cipla Ltd) | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li>Gynazol 200mg Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li>Zendol 200mg Capsule (Serum Institute of India Ltd) | Strip of 10 capsules | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/danazol/' | relative_url }}">View full drug report →</a></p>

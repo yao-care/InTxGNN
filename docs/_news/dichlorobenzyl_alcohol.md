@@ -3,7 +3,7 @@ layout: default
 title: "Dichlorobenzyl Alcohol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dichlorobenzyl Alcohol. Original indication: . 2 predicted indications."
+description: "Health news related to Dichlorobenzyl Alcohol. Original indication: . 0 predicted indications."
 permalink: /news/dichlorobenzyl_alcohol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dichlorobenzyl_alcohol/
 ---
 
 <p class="key-answer" data-question="What news is there about Dichlorobenzyl Alcohol?">
-<strong>Dichlorobenzyl Alcohol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Dichlorobenzyl Alcohol</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,8 @@ This page combines the AI-predicted indications for Dichlorobenzyl Alcohol with 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>bronchitis (99.2%)</li>
-<li>migraine disorder (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/dichlorobenzyl-alcohol/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/dichlorobenzyl_alcohol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Metoclopramide with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>gastric ulcer (disease) (99.9%)</li>
-<li>gastroduodenitis (99.9%)</li>
-<li>peptic ulcer disease (99.8%)</li>
-<li>gastrojejunal ulcer (99.8%)</li>
-<li>peptic ulcer perforation (99.8%)</li>
+<li>Vominorm 10mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Maxeron 10mg Tablet (Wallace Pharmaceuticals) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Metaclop 5mg Injection (Ind Swift Laboratories) | Vial of 2 ml injection | Not specified (99.0%)</li>
+<li>Reglan Injection (Oaknet Healthcare) | Ampoule of 2 ml injection | Not specified (99.0%)</li>
+<li>Maxeron 5mg Syrup (Wallace Pharmaceuticals) | Bottle of 30 ml syrup | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoclopramide/' | relative_url }}">View full drug report →</a></p>

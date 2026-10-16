@@ -3,7 +3,7 @@ layout: default
 title: "Colistimethate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Colistimethate. Original indication: . 10 predicted indications."
+description: "Health news related to Colistimethate. Original indication: . 5 predicted indications."
 permalink: /news/colistimethate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colistimethate/
 ---
 
 <p class="key-answer" data-question="What news is there about Colistimethate?">
-<strong>Colistimethate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Colistimethate</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Colistimethate with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>osteoarthritis (97.8%)</li>
-<li>rheumatoid arthritis (97.5%)</li>
-<li>osteoarthritis susceptibility (97.4%)</li>
-<li>gout (96.8%)</li>
-<li>pseudoachondroplasia (96.7%)</li>
-<li>hepatic porphyria (96.7%)</li>
-<li>brachyolmia (96.4%)</li>
-<li>primitive portal vein thrombosis (96.3%)</li>
-<li>hepatopulmonary syndrome (96.3%)</li>
-<li>hepatoportal sclerosis (96.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ibicolist 4.5MIU Injection | Vial of 1 injection | Not recorded (99.0%)</li>
+<li>Colifen 2 MIU Injection | Vial of 1 injection | Not recorded (99.0%)</li>
+<li>Acostin 3Million IU Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
+<li>Sudostar 3MIU Injection (Lupin Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
+<li>Xylistin 1MIU Injection (Cipla Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/colistimethate/' | relative_url }}">View full drug report →</a></p>

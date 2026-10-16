@@ -3,7 +3,7 @@ layout: default
 title: "Lincomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lincomycin. Original indication: . 3 predicted indications."
+description: "Health news related to Lincomycin. Original indication: . 5 predicted indications."
 permalink: /news/lincomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lincomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Lincomycin?">
-<strong>Lincomycin</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Lincomycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Lincomycin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>hyperamylasemia (99.1%)</li>
-<li>polyclonal hyperviscosity syndrome (99.1%)</li>
-<li>congenital analbuminemia (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lincocin 600mg Injection | Vial of 2 ml injection | Pfizer Ltd (99.0%)</li>
+<li>Liod 300mg Injection | Vial of 2 ml injection | Bennet Pharmaceuticals Limited (99.0%)</li>
+<li>Lincozin 250mg Capsule | Strip of 10 capsules | Taj Pharma India Ltd (99.0%)</li>
+<li>Licomine Syrup | Bottle of 60 ml syrup | The Pharmed Research Lab Pvt Ltd (99.0%)</li>
+<li>Linka 300mg Injection | Vial of 1 ml injection | Global Medisciences Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lincomycin/' | relative_url }}">View full drug report →</a></p>

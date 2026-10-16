@@ -3,7 +3,7 @@ layout: default
 title: "Dexketoprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexketoprofen. Original indication: . 10 predicted indications."
+description: "Health news related to Dexketoprofen. Original indication: . 5 predicted indications."
 permalink: /news/dexketoprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexketoprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexketoprofen?">
-<strong>Dexketoprofen</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dexketoprofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Dexketoprofen with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>tendinitis (99.9%)</li>
-<li>fibromyalgia (99.9%)</li>
-<li>idiopathic granulomatous myositis (99.9%)</li>
-<li>myositis fibrosa (99.9%)</li>
-<li>rheumatoid arthritis (99.9%)</li>
-<li>migraine disorder (99.9%)</li>
-<li>headache disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.9%)</li>
-<li>exostosis (99.8%)</li>
-<li>congenital hypotrichosis milia (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Deket-P 25mg/325mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Puron 50mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>Infen 25 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Infen 50mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>Infen P Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexketoprofen/' | relative_url }}">View full drug report →</a></p>

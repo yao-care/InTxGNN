@@ -3,7 +3,7 @@ layout: default
 title: "Mexiletine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mexiletine. Original indication: . 10 predicted indications."
+description: "Health news related to Mexiletine. Original indication: he TxGNN model's top-ranked prediction is **hypert.... 5 predicted indications."
 permalink: /news/mexiletine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mexiletine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mexiletine?">
-<strong>Mexiletine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Mexiletine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Mexiletine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hypertrichosis (disease) (99.8%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.8%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.7%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.7%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.7%)</li>
-<li>migraine disorder (99.7%)</li>
-<li>isolated genetic hair shaft abnormality (99.6%)</li>
-<li>pulmonary hypertension (99.5%)</li>
-<li>migraine with brainstem aura (99.5%)</li>
-<li>headache disorder (99.5%)</li>
+<li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **hypertrichosis**, which has no clinical or literature support. Among the top 10 predictions, **headache disorder** and **migraine disorder** have the most...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Jollimex 150 Capsule | Strip of 10 capsules | Not available (99.0%)</li>
+<li>Jollimex 50 Capsule | Strip of 10 capsules | Not available (99.0%)</li>
+<li>Welhart 150mg Capsule | Strip of 10 capsules | Not available (99.0%)</li>
+<li>Mexohar 150mg Capsule | Strip of 30 capsules | Not available (99.0%)</li>
+<li>Mexohar 50mg Capsule | Strip of 30 capsules | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mexiletine/' | relative_url }}">View full drug report →</a></p>

@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Fosinopril with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>malignant hypertensive renal disease (99.9%)</li>
 <li>malignant renovascular hypertension (99.9%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Glucagon News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glucagon. Original indication: . 1 predicted indications."
+description: "Health news related to Glucagon. Original indication: he TxGNN model predicts it may be effective for **.... 3 predicted indications."
 permalink: /news/glucagon/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glucagon/
 ---
 
 <p class="key-answer" data-question="What news is there about Glucagon?">
-<strong>Glucagon</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Glucagon</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,12 @@ This page combines the AI-predicted indications for Glucagon with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>irritable bowel syndrome (99.2%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **irritable bowel syndrome (IBS)**, but the supporting evidence comes mostly from the related hormone GLP-1 and its analogue ROSE-010, not glucagon...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Glucagen 1mg Injection (Novo Nordisk India Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li>Glugon 1mg Injection (United Biotech Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li>Glucagen 1mg Injection (Novo Nordisk India Pvt Ltd) | Prefilled syringe, 1 ml injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glucagon/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Enoxaparin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Enoxaparin. Original indication: . 1 predicted indications."
+description: "Health news related to Enoxaparin. Original indication: . 5 predicted indications."
 permalink: /news/enoxaparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enoxaparin/
 ---
 
 <p class="key-answer" data-question="What news is there about Enoxaparin?">
-<strong>Enoxaparin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Enoxaparin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Enoxaparin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>thrombophilia due to protein C deficiency, autosomal recessive (99.6%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Encoxel 40 Injection | Prefilled syringe, 0.4 ml injection | Not recorded (99.0%)</li>
+<li>Renoxa 60mg Injection | Vial, 1 ml injection | Not recorded (99.0%)</li>
+<li>Enoxijet 60 Injection | Prefilled syringe, 0.6 ml injection | Not recorded (99.0%)</li>
+<li>Macparin 60mg Injection | Vial, 0.6 ml injection | Not recorded (99.0%)</li>
+<li>RB 40mg Injection | Vial, 1 injection | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enoxaparin/' | relative_url }}">View full drug report →</a></p>

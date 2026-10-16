@@ -3,7 +3,7 @@ layout: default
 title: "Methoxy Polyethylene Glycol-Epoetin Beta News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Methoxy Polyethylene Glycol-Epoetin Beta. Original indication: . 7 predicted indications."
+description: "Health news related to Methoxy Polyethylene Glycol-Epoetin Beta. Original indication: . 0 predicted indications."
 permalink: /news/methoxy_polyethylene_glycol-epoetin_beta/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methoxy_polyethylene_glycol-epoetin_beta/
 ---
 
 <p class="key-answer" data-question="What news is there about Methoxy Polyethylene Glycol-Epoetin Beta?">
-<strong>Methoxy Polyethylene Glycol-Epoetin Beta</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Methoxy Polyethylene Glycol-Epoetin Beta</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,8 @@ This page combines the AI-predicted indications for Methoxy Polyethylene Glycol-
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>primary release disorder of platelets (99.4%)</li>
-<li>Glanzmann thrombasthenia (99.3%)</li>
-<li>pseudo-von Willebrand disease (99.2%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.2%)</li>
-<li>heparin cofactor 2 deficiency (99.1%)</li>
-<li>antithrombin deficiency type 2 (99.1%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/methoxy-polyethylene-glycol-epoetin-beta/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/methoxy_polyethylene_glycol-epoetin_beta/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

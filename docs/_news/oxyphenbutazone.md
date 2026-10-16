@@ -24,10 +24,11 @@ This page combines the AI-predicted indications for Oxyphenbutazone with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
-<li>rheumatoid arthritis (99.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.1%)</li>
-<li>gout (99.0%)</li>
+<li>Oxy Triactin 100mg Tablet (Pharmed Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Flanil 100mg Tablet (Pan Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Sioril 100mg Tablet (Albert David Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxyphenbutazone/' | relative_url }}">View full drug report →</a></p>

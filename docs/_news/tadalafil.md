@@ -3,7 +3,7 @@ layout: default
 title: "Tadalafil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tadalafil. Original indication: . 8 predicted indications."
+description: "Health news related to Tadalafil. Original indication: . 5 predicted indications."
 permalink: /news/tadalafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="What news is there about Tadalafil?">
-<strong>Tadalafil</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Tadalafil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,15 +24,13 @@ This page combines the AI-predicted indications for Tadalafil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>familial isolated trichomegaly (99.7%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>migraine with brainstem aura (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Igtad-MD 5 Tablet | Strip of 10 orally disintegrating tablets | Not recorded (99.0%)</li>
+<li>Tadmax 20mg Tablet | Strip of 5 tablets | Not recorded (99.0%)</li>
+<li>Efil 2.5mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Longtid 20 Tablet | Strip of 1 tablet | Not recorded (99.0%)</li>
+<li>Tadasure 20 Disintegrating Strip | Strip of 1 disintegrating strip | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">View full drug report →</a></p>

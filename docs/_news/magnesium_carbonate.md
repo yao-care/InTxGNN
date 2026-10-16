@@ -3,7 +3,7 @@ layout: default
 title: "Magnesium Carbonate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Magnesium Carbonate. Original indication: . 10 predicted indications."
+description: "Health news related to Magnesium Carbonate. Original indication: . 0 predicted indications."
 permalink: /news/magnesium_carbonate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/magnesium_carbonate/
 ---
 
 <p class="key-answer" data-question="What news is there about Magnesium Carbonate?">
-<strong>Magnesium Carbonate</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Magnesium Carbonate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ This page combines the AI-predicted indications for Magnesium Carbonate with the
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>active peptic ulcer disease (100.0%)</li>
-<li>peptic ulcer perforation (100.0%)</li>
-<li>gastrojejunal ulcer (100.0%)</li>
-<li>gastroduodenitis (99.9%)</li>
-<li>gastric ulcer (disease) (99.8%)</li>
-<li>gastroparesis (disease) (99.7%)</li>
-<li>stomach disease (99.6%)</li>
-<li>duodenal obstruction (99.3%)</li>
-<li>duodenogastric reflux (99.2%)</li>
-<li>duodenal ulcer (disease) (99.2%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium-carbonate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/magnesium_carbonate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

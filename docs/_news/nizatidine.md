@@ -3,7 +3,7 @@ layout: default
 title: "Nizatidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nizatidine. Original indication: . 7 predicted indications."
+description: "Health news related to Nizatidine. Original indication: . 1 predicted indications."
 permalink: /news/nizatidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nizatidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Nizatidine?">
-<strong>Nizatidine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Nizatidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,9 @@ This page combines the AI-predicted indications for Nizatidine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>active peptic ulcer disease (100.0%)</li>
-<li>peptic ulcer perforation (99.9%)</li>
-<li>gastrojejunal ulcer (99.9%)</li>
-<li>duodenal obstruction (99.9%)</li>
-<li>duodenogastric reflux (99.8%)</li>
-<li>gastroduodenitis (99.6%)</li>
-<li>multiple endocrine neoplasia (99.3%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Axid Capsule (Apex Laboratories Pvt Ltd) | Strip of 10 capsules | Not stated in the available data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nizatidine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Cefpirome News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefpirome. Original indication: . 10 predicted indications."
+description: "Health news related to Cefpirome. Original indication: . 5 predicted indications."
 permalink: /news/cefpirome/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefpirome/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefpirome?">
-<strong>Cefpirome</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Cefpirome</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Cefpirome with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>rheumatoid arthritis (98.3%)</li>
-<li>osteoarthritis (98.3%)</li>
-<li>osteoarthritis susceptibility (98.1%)</li>
-<li>gout (97.7%)</li>
-<li>pseudoachondroplasia (97.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.3%)</li>
-<li>hemoglobinopathy (97.2%)</li>
-<li>brachyolmia (97.2%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.0%)</li>
-<li>myosclerosis (96.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ivcef 1gm Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Tecrom 1000mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Ciractam 1.5gm Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Refzil 500mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Novarome 1000mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefpirome/' | relative_url }}">View full drug report →</a></p>

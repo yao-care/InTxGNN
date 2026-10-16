@@ -3,7 +3,7 @@ layout: default
 title: "Acetaminophen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Acetaminophen. Original indication: . 1 predicted indications."
+description: "Health news related to Acetaminophen. Original indication: . 5 predicted indications."
 permalink: /news/acetaminophen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetaminophen/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetaminophen?">
-<strong>Acetaminophen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Acetaminophen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Acetaminophen with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>migraine with brainstem aura (99.2%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Myospaz Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Capagin Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Solmol 500 Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Curadol 650 Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Neomol 170 Anal Suppository | Packet of 5 suppositories | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetaminophen/' | relative_url }}">View full drug report →</a></p>

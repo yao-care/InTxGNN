@@ -3,7 +3,7 @@ layout: default
 title: "Amikacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amikacin. Original indication: . 10 predicted indications."
+description: "Health news related to Amikacin. Original indication: . 5 predicted indications."
 permalink: /news/amikacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amikacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Amikacin?">
-<strong>Amikacin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Amikacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Amikacin with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>paratyphoid fever (99.8%)</li>
-<li>diffuse scleroderma (99.8%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.8%)</li>
-<li>typhoid fever (99.8%)</li>
-<li>epiglottitis (99.7%)</li>
-<li>salmonellosis (99.7%)</li>
-<li>congenital analbuminemia (99.6%)</li>
-<li>polyclonal hyperviscosity syndrome (99.6%)</li>
-<li>hyperamylasemia (99.6%)</li>
-<li>meningococcemia (99.6%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ambix 500mg Injection | Vial of 1 injection | Biobrick Pharma (99.0%)</li>
+<li>Amitop 500mg Injection | Vial of 2 ml injection | Veliko Pharmacls (99.0%)</li>
+<li>Amicid 250mg Injection | Vial of 1 injection | Indus Pharma Pvt Ltd (99.0%)</li>
+<li>Mikadef 500mg Injection | Vial of 2 ml injection | Clabert Lifesciences Pvt Ltd (99.0%)</li>
+<li>Mikmor 100mg Injection | Vial of 1 injection | Moral Pharmaceuticals (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amikacin/' | relative_url }}">View full drug report →</a></p>

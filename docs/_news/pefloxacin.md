@@ -3,7 +3,7 @@ layout: default
 title: "Pefloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pefloxacin. Original indication: . 10 predicted indications."
+description: "Health news related to Pefloxacin. Original indication: he TxGNN model predicts it may be effective for **.... 10 predicted indications."
 permalink: /news/pefloxacin/
 ---
 
@@ -24,6 +24,8 @@ This page combines the AI-predicted indications for Pefloxacin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **heart conduction disease**, but **no clinical trials and no publications** support this prediction.</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>heart conduction disease (99.9%)</li>
 <li>heart neoplasm (99.9%)</li>

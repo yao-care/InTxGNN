@@ -3,7 +3,7 @@ layout: default
 title: "Busulfan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Busulfan. Original indication: . 10 predicted indications."
+description: "Health news related to Busulfan. Original indication: . 5 predicted indications."
 permalink: /news/busulfan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/busulfan/
 ---
 
 <p class="key-answer" data-question="What news is there about Busulfan?">
-<strong>Busulfan</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Busulfan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Busulfan with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>myelodysplastic syndrome (99.6%)</li>
-<li>refractory cytopenia of childhood (99.5%)</li>
-<li>unclassified myelodysplastic syndrome (99.5%)</li>
-<li>partial deletion of the long arm of chromosome 5 (99.5%)</li>
-<li>aregenerative anemia (99.5%)</li>
-<li>severe congenital hypochromic anemia with ringed sideroblasts (99.5%)</li>
-<li>HIV infectious disease (99.4%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.2%)</li>
-<li>seborrheic keratosis (99.2%)</li>
-<li>simian immunodeficiency virus infection (99.1%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Emsulfan 60mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Busulmax 2mg Tablet | Strip of 25 tablets | Not stated (99.0%)</li>
+<li>Busuphan 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Busulmax 60 Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Bufatas IV Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/busulfan/' | relative_url }}">View full drug report →</a></p>

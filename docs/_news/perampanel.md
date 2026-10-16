@@ -3,7 +3,7 @@ layout: default
 title: "Perampanel News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Perampanel. Original indication: . 10 predicted indications."
+description: "Health news related to Perampanel. Original indication: . 5 predicted indications."
 permalink: /news/perampanel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/perampanel/
 ---
 
 <p class="key-answer" data-question="What news is there about Perampanel?">
-<strong>Perampanel</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Perampanel</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Perampanel with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>visual epilepsy (99.9%)</li>
-<li>orgasm-induced seizures (99.9%)</li>
-<li>micturation-induced seizures (99.9%)</li>
-<li>thinking seizures (99.9%)</li>
-<li>audiogenic seizures (99.9%)</li>
-<li>startle epilepsy (99.9%)</li>
-<li>eating seizures (99.9%)</li>
-<li>reading seizures (99.8%)</li>
-<li>beta-ketothiolase deficiency (99.8%)</li>
-<li>status epilepticus (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Fycompa 4mg Tablet (Eisai) | Packet of 28 tablets | Not specified (99.0%)</li>
+<li>Fycompa 4mg Tablet (Eisai) | Strip of 14 tablets | Not specified (99.0%)</li>
+<li>Fycompa 6mg Tablet (Eisai) | Strip of 14 tablets | Not specified (99.0%)</li>
+<li>Ampanel 4 Tablet (Sun Pharma) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Perepsy 4 Tablet (Cipla) | Strip of 7 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/perampanel/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Clidinium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clidinium. Original indication: . 10 predicted indications."
+description: "Health news related to Clidinium. Original indication: . 5 predicted indications."
 permalink: /news/clidinium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clidinium/
 ---
 
 <p class="key-answer" data-question="What news is there about Clidinium?">
-<strong>Clidinium</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Clidinium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Clidinium with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>cauda equina syndrome (99.9%)</li>
-<li>obsolete neurogenic bladder (disease) (99.9%)</li>
-<li>gastroduodenitis (99.9%)</li>
-<li>peptic ulcer disease (99.8%)</li>
-<li>myasthenia gravis with thymus hyperplasia (99.7%)</li>
-<li>myasthenia, limb-girdle, autoimmune (99.7%)</li>
-<li>neonatal myasthenia gravis (99.7%)</li>
-<li>autoimmune disease of peripheral nervous system (99.6%)</li>
-<li>disease of receptor activity (99.6%)</li>
-<li>large intestine disease (99.2%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>StayHappi Clidinium+Chlordiazepoxide+Dicyclomine Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
+<li>Avidip Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
+<li>Coldax Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
+<li>Calm Spas Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
+<li>Zibra Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clidinium/' | relative_url }}">View full drug report →</a></p>

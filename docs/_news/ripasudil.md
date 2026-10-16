@@ -3,7 +3,7 @@ layout: default
 title: "Ripasudil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ripasudil. Original indication: . 10 predicted indications."
+description: "Health news related to Ripasudil. Original indication: . 1 predicted indications."
 permalink: /news/ripasudil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ripasudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Ripasudil?">
-<strong>Ripasudil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ripasudil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Ripasudil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hyperprolactinemia (disease) (99.9%)</li>
-<li>Axenfeld anomaly (99.9%)</li>
-<li>hydrophthalmos (99.8%)</li>
-<li>glaucoma 3, primary infantile, B (99.8%)</li>
-<li>familial hyperprolactinemia (99.8%)</li>
-<li>dense granule disease (99.8%)</li>
-<li>marcothrombocytopenia with mitral valve insufficiency (99.8%)</li>
-<li>hereditary thrombocytopenia with normal platelets (99.8%)</li>
-<li>transient neonatal thrombocytopenia (99.8%)</li>
-<li>thrombocytopenia (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ripatec Eye Drop (Ajanta Pharma Ltd) | Bottle of 5 ml eye drop | Not specified in the data compiled for this report (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ripasudil/' | relative_url }}">View full drug report →</a></p>

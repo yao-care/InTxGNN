@@ -3,7 +3,7 @@ layout: default
 title: "Vilazodone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vilazodone. Original indication: . 10 predicted indications."
+description: "Health news related to Vilazodone. Original indication: . 5 predicted indications."
 permalink: /news/vilazodone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vilazodone/
 ---
 
 <p class="key-answer" data-question="What news is there about Vilazodone?">
-<strong>Vilazodone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Vilazodone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Vilazodone with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>dysthymic disorder (99.8%)</li>
-<li>neurotic disorder (99.8%)</li>
-<li>neurotic depression (99.7%)</li>
-<li>melancholia (99.7%)</li>
-<li>obsessive-compulsive disorder (99.7%)</li>
-<li>agoraphobia (99.7%)</li>
-<li>benign paroxysmal torticollis of infancy (99.6%)</li>
-<li>Keppen-Lubinsky syndrome (99.5%)</li>
-<li>Ohdo syndrome and variants (99.5%)</li>
-<li>histrionic personality disorder (disease) (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Vilano 40 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Vilano 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Vilazine 20 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Vilarest 20 Tablet (Cipla Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Vilodon 20 Tablet (MSN Laboratories) | Strip of 10 tablets | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vilazodone/' | relative_url }}">View full drug report →</a></p>

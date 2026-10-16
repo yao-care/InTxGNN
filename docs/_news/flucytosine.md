@@ -3,7 +3,7 @@ layout: default
 title: "Flucytosine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flucytosine. Original indication: . 1 predicted indications."
+description: "Health news related to Flucytosine. Original indication: . 4 predicted indications."
 permalink: /news/flucytosine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flucytosine/
 ---
 
 <p class="key-answer" data-question="What news is there about Flucytosine?">
-<strong>Flucytosine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Flucytosine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,12 @@ This page combines the AI-predicted indications for Flucytosine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>bone Paget disease (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Cytoflu 500mg Tablet (Jolly Healthcare) | Bottle of 50 tablets | Not stated (99.0%)</li>
+<li>Cytorx 500mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Cytoflu 500mg Tablet (Jolly Healthcare) | Bottle of 100 tablets | Not stated (99.0%)</li>
+<li>Cytoflu 500mg Tablet (Jolly Healthcare) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flucytosine/' | relative_url }}">View full drug report →</a></p>

@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Fimasartan with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.2%)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism (99.2%)</li>

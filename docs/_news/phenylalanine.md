@@ -3,7 +3,7 @@ layout: default
 title: "Phenylalanine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phenylalanine. Original indication: . 2 predicted indications."
+description: "Health news related to Phenylalanine. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/phenylalanine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenylalanine/
 ---
 
 <p class="key-answer" data-question="What news is there about Phenylalanine?">
-<strong>Phenylalanine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Phenylalanine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,24 @@ This page combines the AI-predicted indications for Phenylalanine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>sclerosing cholangitis (99.4%)</li>
-<li>congenital prothrombin deficiency (99.3%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are **0 clinical trials** and only **3 indirect publications** (none showing a therapeutic effect), so this is a...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Melaroc Tablet (Rivan Pharma) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylalanine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Analytical study on titan yellow sensing using a poly (phenylalanine)-modified carbon nanotube electrochemical sensor](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWnFQOVBpUFZORFdRbUhUV3FCdEdPUzRvVTl1SXN2TXdCVUliS0h1QU1kNmdRVGlkMHpHSXp6dGhIc1VSdUVaQTl2djZjRV9uNGR4STYzMlpjcmczSU0w?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Phenylalanine</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWnFQOVBpUFZORFdRbUhUV3FCdEdPUzRvVTl1SXN2TXdCVUliS0h1QU1kNmdRVGlkMHpHSXp6dGhIc1VSdUVaQTl2djZjRV9uNGR4STYzMlpjcmczSU0w?oc=5)
+
+---
 
 
 <div class="disclaimer">

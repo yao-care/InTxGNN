@@ -3,7 +3,7 @@ layout: default
 title: "Cefprozil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefprozil. Original indication: . 10 predicted indications."
+description: "Health news related to Cefprozil. Original indication: . 5 predicted indications."
 permalink: /news/cefprozil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefprozil/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefprozil?">
-<strong>Cefprozil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Cefprozil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Cefprozil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>urinary tract infection (disease) (100.0%)</li>
-<li>epiglottitis (100.0%)</li>
-<li>gonococcal urethritis (100.0%)</li>
-<li>Ureaplasma urethritis (100.0%)</li>
-<li>xanthogranulomatous pyelonephritis (100.0%)</li>
-<li>uterine inflammatory disease (100.0%)</li>
-<li>pneumonia (100.0%)</li>
-<li>laryngitis (100.0%)</li>
-<li>urogenital tuberculosis (99.9%)</li>
-<li>abdominal tuberculosis (99.8%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Refzil O Suspension (Sun Pharmaceutical) | Powder for oral suspension, 30 ml bottle | Not specified (99.0%)</li>
+<li>Refzil O 500mg Tablet (Sun Pharmaceutical) | Tablet, strip of 6 | Not specified (99.0%)</li>
+<li>Maxizil 500mg Tablet (Alniche Life Sciences) | Tablet, strip of 6 | Not specified (99.0%)</li>
+<li>Orprozil 250mg Tablet (Orchid Chemicals) | Tablet, strip of 4 | Not specified (99.0%)</li>
+<li>Zemetril 500mg Tablet (GlaxoSmithKline) | Tablet, strip of 6 | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefprozil/' | relative_url }}">View full drug report →</a></p>

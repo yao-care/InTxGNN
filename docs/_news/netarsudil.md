@@ -3,7 +3,7 @@ layout: default
 title: "Netarsudil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Netarsudil. Original indication: . 2 predicted indications."
+description: "Health news related to Netarsudil. Original indication: . 3 predicted indications."
 permalink: /news/netarsudil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/netarsudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Netarsudil?">
-<strong>Netarsudil</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Netarsudil</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,11 @@ This page combines the AI-predicted indications for Netarsudil with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>primary hereditary glaucoma (99.5%)</li>
-<li>glaucoma (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Netasudil Eye Drop (Ipca Laboratories Ltd) | Bottle of 2.5 ml ophthalmic solution | Not specified (99.0%)</li>
+<li>Raiki 0.02% Eye Drop (Sun Pharmaceutical Industries Ltd) | Bottle of 3 ml eye drop | Not specified (99.0%)</li>
+<li>Netalo Eye Drop (Ajanta Pharma Ltd) | Bottle of 3 ml ophthalmic solution | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/netarsudil/' | relative_url }}">View full drug report →</a></p>

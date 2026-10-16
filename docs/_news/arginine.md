@@ -3,7 +3,7 @@ layout: default
 title: "Arginine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Arginine. Original indication: . 1 predicted indications."
+description: "Health news related to Arginine. Original indication: . 5 predicted indications."
 permalink: /news/arginine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arginine/
 ---
 
 <p class="key-answer" data-question="What news is there about Arginine?">
-<strong>Arginine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Arginine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Arginine with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>gastroparesis (disease) (99.4%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Argioram Sachet Sugar Free (KRP Pharma) | Sachet of 5 g granules | Not stated (99.0%)</li>
+<li>UGR A Softgel Capsule (Zelleven Healthcare) | Packet of 10 vaginal capsules | Not stated (99.0%)</li>
+<li>Argifizz 1500mg Tablet (Novelty Healthshine) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Upgar Powder Lemony Orange Sugar Free (Karisca Healthcare) | Sachet of 10 g powder | Not stated (99.0%)</li>
+<li>Arginall 500mg Capsule (Xeno Pharmaceuticals) | Strip of 10 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/arginine/' | relative_url }}">View full drug report →</a></p>

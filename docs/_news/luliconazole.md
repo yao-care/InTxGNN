@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Luliconazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (7)</strong>:<ul>
 <li>pityriasis versicolor (99.1%)</li>
 <li>superficial mycosis (99.1%)</li>

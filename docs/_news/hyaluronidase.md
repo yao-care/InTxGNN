@@ -3,7 +3,7 @@ layout: default
 title: "Hyaluronidase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hyaluronidase. Original indication: . 10 predicted indications."
+description: "Health news related to Hyaluronidase. Original indication: he TxGNN model's top-ranked prediction is **esotro.... 5 predicted indications."
 permalink: /news/hyaluronidase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hyaluronidase/
 ---
 
 <p class="key-answer" data-question="What news is there about Hyaluronidase?">
-<strong>Hyaluronidase</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Hyaluronidase</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Hyaluronidase with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>esotropia (99.9%)</li>
-<li>amenorrhea (disease) (99.8%)</li>
-<li>severe nonproliferative diabetic retinopathy (99.8%)</li>
-<li>renal tubular acidosis (99.8%)</li>
-<li>dermatitis (99.7%)</li>
-<li>diabetic retinopathy (99.7%)</li>
-<li>acrodermatitis chronica atrophicans (99.6%)</li>
-<li>diabetic cataract (99.5%)</li>
-<li>neonatal dermatomyositis (99.5%)</li>
-<li>non-syndromic esophageal malformation (99.5%)</li>
+<li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **esotropia**, but the evidence supports it only as a complication of anesthetic blocks, not as a therapy. The best-supported candidate is **diabetic...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Entodase Injection (Entod Pharmaceuticals Ltd) | Vial of 1 ml injection | Not available (99.0%)</li>
+<li>Hynidase Injection (Shreya Life Sciences Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li>Visial 1% Injection (Cadila Pharmaceuticals Ltd) | Prefilled syringe of 1 ml injection | Not available (99.0%)</li>
+<li>Anvase 1500IU Injection (Ajanta Pharma Ltd) | Vial of 5 ml injection | Not available (99.0%)</li>
+<li>Omnidase 1500IU Injection (Sunways India Pvt Ltd) | Vial of 1 ml injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hyaluronidase/' | relative_url }}">View full drug report →</a></p>

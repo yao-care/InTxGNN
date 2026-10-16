@@ -3,7 +3,7 @@ layout: default
 title: "Ledipasvir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ledipasvir. Original indication: . 10 predicted indications."
+description: "Health news related to Ledipasvir. Original indication: . 5 predicted indications."
 permalink: /news/ledipasvir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ledipasvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Ledipasvir?">
-<strong>Ledipasvir</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ledipasvir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Ledipasvir with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hepatitis B virus infection (99.9%)</li>
-<li>hepatitis E virus infection (99.8%)</li>
-<li>hepatitis, viral, animal (99.8%)</li>
-<li>hepatitis A virus infection (99.8%)</li>
-<li>Omsk hemorrhagic fever (99.8%)</li>
-<li>Kyasanur forest disease (99.8%)</li>
-<li>chronic hepatitis B virus infection (99.7%)</li>
-<li>HIV infectious disease (99.7%)</li>
-<li>feline acquired immunodeficiency syndrome (99.5%)</li>
-<li>simian immunodeficiency virus infection (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Sofokem L 90mg/400mg Tablet (Alkem Laboratories) | Strip of 28 tablets | Not specified (99.0%)</li>
+<li>Reclaim-L Tablet (Lupin) | Bottle of 28 tablets | Not specified (99.0%)</li>
+<li>Hepcvir L 90mg/400mg Tablet (Cipla) | Strip of 28 tablets | Not specified (99.0%)</li>
+<li>Hepcinat-LP Tablet (Natco Pharma) | Strip of 28 tablets | Not specified (99.0%)</li>
+<li>Ledihep Tablet (Zydus Cadila) | Strip of 28 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ledipasvir/' | relative_url }}">View full drug report →</a></p>

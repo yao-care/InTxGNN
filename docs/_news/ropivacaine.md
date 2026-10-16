@@ -3,7 +3,7 @@ layout: default
 title: "Ropivacaine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ropivacaine. Original indication: . 4 predicted indications."
+description: "Health news related to Ropivacaine. Original indication: . 5 predicted indications."
 permalink: /news/ropivacaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ropivacaine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ropivacaine?">
-<strong>Ropivacaine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Ropivacaine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Ropivacaine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.5%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.4%)</li>
-<li>dysthymic disorder (99.2%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Naropin 0.2% Injection (AstraZeneca) | Vial of 30 ml injection | Not stated in licence records (99.0%)</li>
+<li>Ropizuva 2mg Injection (Abbott) | Ampoule of 1 ml injection | Not stated in licence records (99.0%)</li>
+<li>Ropizuva 7.5mg Injection (Abbott) | Ampoule of 1 ml injection | Not stated in licence records (99.0%)</li>
+<li>Ropin 0.2% Injection (Neon Laboratories) | Vial of 20 ml injection | Not stated in licence records (99.0%)</li>
+<li>Rocaine 5mg Injection (Gland Pharma) | Vial of 10 ml injection | Not stated in licence records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropivacaine/' | relative_url }}">View full drug report →</a></p>

@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Tiagabine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
 <li>visual epilepsy (99.2%)</li>
 </ul></li>

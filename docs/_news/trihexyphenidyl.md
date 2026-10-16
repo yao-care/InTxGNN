@@ -3,7 +3,7 @@ layout: default
 title: "Trihexyphenidyl News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trihexyphenidyl. Original indication: . 10 predicted indications."
+description: "Health news related to Trihexyphenidyl. Original indication: . 5 predicted indications."
 permalink: /news/trihexyphenidyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trihexyphenidyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Trihexyphenidyl?">
-<strong>Trihexyphenidyl</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Trihexyphenidyl</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Trihexyphenidyl with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (99.9%)</li>
-<li>faciodigitogenital syndrome (99.9%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.8%)</li>
-<li>Rasmussen subacute encephalitis (99.7%)</li>
-<li>PLA2G6-associated neurodegeneration (99.6%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.6%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.6%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.5%)</li>
-<li>myelitis (99.5%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.5%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Vihexy 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Hexinal 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Vacitane 5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Parkinta 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Flyper 5mg Tablet | Strip of 30 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trihexyphenidyl/' | relative_url }}">View full drug report →</a></p>

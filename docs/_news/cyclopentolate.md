@@ -3,7 +3,7 @@ layout: default
 title: "Cyclopentolate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclopentolate. Original indication: . 3 predicted indications."
+description: "Health news related to Cyclopentolate. Original indication: . 7 predicted indications."
 permalink: /news/cyclopentolate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclopentolate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclopentolate?">
-<strong>Cyclopentolate</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Cyclopentolate</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,15 @@ This page combines the AI-predicted indications for Cyclopentolate with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>cauda equina syndrome (99.5%)</li>
-<li>obsolete neurogenic bladder (disease) (99.4%)</li>
-<li>irritable bowel syndrome (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Neurogenic bladder (obsolete ontology term) | 99.40% | L5 | Systemic antimuscarinics are established for neurogenic detrusor overactivity, so the mechanism is plausible in principle. Cyclopentolate has no systemic dosing, has CNS toxicity concerns (confusion, seizures, especially in children), and the disease term is obsolete. Better-validated alternatives exist. (99.0%)</li>
+<li>Irritable bowel syndrome | 99.27% | L5 | Class-level rationale only (antispasmodics such as dicyclomine and hyoscyamine). No studies of cyclopentolate and no oral formulation. (99.0%)</li>
+<li>Cyclopen D Eye Drop | 5 ml Eye Drop (packet) | Not available (99.0%)</li>
+<li>Cylate Eye Drop | 5 ml Eye Drop (packet) | Not available (99.0%)</li>
+<li>Eslate Eye Drops | 5 ml Ophthalmic Solution (bottle) | Not available (99.0%)</li>
+<li>Cyclate Eye Drop | 5 ml Eye Drop (packet) | Not available (99.0%)</li>
+<li>Open Eye Drop | 5 ml Eye Drop (bottle) | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclopentolate/' | relative_url }}">View full drug report →</a></p>

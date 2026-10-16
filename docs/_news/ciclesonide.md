@@ -3,7 +3,7 @@ layout: default
 title: "Ciclesonide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ciclesonide. Original indication: . 6 predicted indications."
+description: "Health news related to Ciclesonide. Original indication: . 5 predicted indications."
 permalink: /news/ciclesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ciclesonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ciclesonide?">
-<strong>Ciclesonide</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Ciclesonide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Ciclesonide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>atopic eczema (100.0%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (99.8%)</li>
-<li>dermatitis, atopic (99.7%)</li>
-<li>bronchitis (99.7%)</li>
-<li>contact dermatitis (99.2%)</li>
-<li>asthma-related traits, susceptibility to (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Triohale Rotacap (Cipla Ltd) | Packet of 30 rotacaps | Not stated (99.0%)</li>
+<li>Ciclospray Nasal Spray (Cipla Ltd) | Packet of 100 MDI nasal spray | Not stated (99.0%)</li>
+<li>Trimium Transhaler (Lupin Ltd) | Packet of 180 MDI Transhaler | Not stated (99.0%)</li>
+<li>Cilomist HFA 160mcg Inhaler (Zydus Cadila) | Packet of 120 MDI inhaler | Not stated (99.0%)</li>
+<li>Zovair Octacap Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 30 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciclesonide/' | relative_url }}">View full drug report →</a></p>

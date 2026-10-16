@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Ruxolitinib with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>uterine corpus perivascular epithelioid cell tumor (99.7%)</li>
 <li>benign PEComa (99.7%)</li>

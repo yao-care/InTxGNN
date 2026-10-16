@@ -3,7 +3,7 @@ layout: default
 title: "Fludarabine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fludarabine. Original indication: . 10 predicted indications."
+description: "Health news related to Fludarabine. Original indication: he TxGNN model predicts it may be useful for **pla.... 5 predicted indications."
 permalink: /news/fludarabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fludarabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Fludarabine?">
-<strong>Fludarabine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Fludarabine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Fludarabine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>plasma cell myeloma (99.8%)</li>
-<li>hyperthyroidism (99.8%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.8%)</li>
-<li>indolent plasma cell myeloma (99.8%)</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.8%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>
-<li>myelodysplastic syndrome (99.8%)</li>
-<li>unclassified myelodysplastic syndrome (99.7%)</li>
-<li>partial deletion of the long arm of chromosome 5 (99.7%)</li>
-<li>diabetic nephropathy (99.7%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be useful for **plasma cell myeloma**, with **30 registered clinical trials** and **20 publications** linked to this prediction. Most of this evidence concerns...</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Fludara 10mg Tablet | Strip of 20 tablets | Not available (99.0%)</li>
+<li>Fludara 50mg Injection | Vial of 1 injection | Not available (99.0%)</li>
+<li>Naprobin 50mg Injection | Vial of 1 injection | Not available (99.0%)</li>
+<li>Fludabine 10mg Tablet | Strip of 5 tablets | Not available (99.0%)</li>
+<li>Fludaphos 50mg Injection | Vial of 1 injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fludarabine/' | relative_url }}">View full drug report →</a></p>

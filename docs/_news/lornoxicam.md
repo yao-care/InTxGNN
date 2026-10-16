@@ -3,7 +3,7 @@ layout: default
 title: "Lornoxicam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lornoxicam. Original indication: . 10 predicted indications."
+description: "Health news related to Lornoxicam. Original indication: . 5 predicted indications."
 permalink: /news/lornoxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lornoxicam/
 ---
 
 <p class="key-answer" data-question="What news is there about Lornoxicam?">
-<strong>Lornoxicam</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Lornoxicam</strong> currently has <strong>5 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,29 +24,41 @@ This page combines the AI-predicted indications for Lornoxicam with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (99.9%)<span class="indication-tag">📰 RA</span></li>
-<li>migraine with or without aura, susceptibility to (99.9%)</li>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>brachydactyly-syndactyly syndrome (99.8%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.8%)</li>
-<li>headache disorder (99.8%)</li>
-<li>trigeminal autonomic cephalalgia (99.8%)</li>
-<li>tendinitis (99.7%)</li>
-<li>idiopathic granulomatous myositis (99.7%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Lodol 4mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Zoloxy 8mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Lornok 8mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Univer 4mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">RA</span>
+
+Source: [orfonline.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+---
 
 ### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
 
 2026-10-16 <span class="news-indication-tag">joint pain</span>
 
 Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
+
+---
+
+### [Hyderabad doctors warn of back and neck pain from long commutes and poor roads - Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
 
 ---
 

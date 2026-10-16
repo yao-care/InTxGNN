@@ -3,7 +3,7 @@ layout: default
 title: "Milrinone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Milrinone. Original indication: . 10 predicted indications."
+description: "Health news related to Milrinone. Original indication: . 5 predicted indications."
 permalink: /news/milrinone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/milrinone/
 ---
 
 <p class="key-answer" data-question="What news is there about Milrinone?">
-<strong>Milrinone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Milrinone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Milrinone with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>alopecia (99.9%)</li>
-<li>hypotrichosis simplex of the scalp (99.9%)</li>
-<li>congenital hypotrichosis milia (99.9%)</li>
-<li>diffuse alopecia areata (99.9%)</li>
-<li>headache disorder (99.5%)</li>
-<li>congestive heart failure (99.5%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>trigeminal autonomic cephalalgia (99.2%)</li>
-<li>acute pulmonary heart disease (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Milyrataj-IV 1mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Myolong 10mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Renota 10mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Milicor 10mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li>Milrilact 10mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/milrinone/' | relative_url }}">View full drug report →</a></p>

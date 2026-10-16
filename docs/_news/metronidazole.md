@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>pneumocystosis (100.0%)</li>
 <li>punctate epithelial keratoconjunctivitis (99.9%)</li>
@@ -40,7 +41,15 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
+
+2026-10-15 <span class="news-drug-tag">LEVONORGESTREL</span> <span class="news-drug-tag">ESTRADIOL</span> <span class="news-drug-tag">Levonorgestrel</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
+
+---
 
 ### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5)
 

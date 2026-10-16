@@ -3,7 +3,7 @@ layout: default
 title: "Clofarabine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clofarabine. Original indication: . 10 predicted indications."
+description: "Health news related to Clofarabine. Original indication: . 2 predicted indications."
 permalink: /news/clofarabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clofarabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clofarabine?">
-<strong>Clofarabine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Clofarabine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,10 @@ This page combines the AI-predicted indications for Clofarabine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>myeloid leukemia (99.9%)</li>
-<li>precursor lymphoblastic lymphoma/leukemia (99.6%)</li>
-<li>ganglioneuroblastoma (disease) (99.5%)</li>
-<li>neuroblastoma (99.5%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.5%)</li>
-<li>retroperitoneal neoplasm (99.4%)</li>
-<li>blast phase chronic myelogenous leukemia, BCR-ABL1 positive (99.4%)</li>
-<li>acute lymphoblastic leukemia (99.3%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.3%)</li>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.3%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Farabine 20mg Injection | Vial of 1 injection | Not stated in the data compiled (99.0%)</li>
+<li>Cfara Injection | Vial of 20 ml injection | Not stated in the data compiled (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clofarabine/' | relative_url }}">View full drug report →</a></p>

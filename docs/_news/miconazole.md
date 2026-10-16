@@ -3,7 +3,7 @@ layout: default
 title: "Miconazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Miconazole. Original indication: . 1 predicted indications."
+description: "Health news related to Miconazole. Original indication: . 5 predicted indications."
 permalink: /news/miconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/miconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Miconazole?">
-<strong>Miconazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Miconazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Miconazole with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>acne (disease) (99.5%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Nadibact Plus Cream (Cipla Ltd) | Cream, 10 gm tube | Not available (99.0%)</li>
+<li>Mesotar NM Cream (Terma Medicare India Pvt Ltd) | Cream, 10 gm tube | Not available (99.0%)</li>
+<li>Micon Ointment (Mepro Pharmaceuticals) | Ointment, 15 gm tube | Not available (99.0%)</li>
+<li>Candifem Vaginal Tablet (Meyer Organics Pvt Ltd) | Vaginal tablet, strip of 6 | Not available (99.0%)</li>
+<li>Candistat Cream (Merck Ltd) | Cream, 15 gm tube | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/miconazole/' | relative_url }}">View full drug report →</a></p>

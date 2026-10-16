@@ -3,7 +3,7 @@ layout: default
 title: "Cyclosporine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclosporine. Original indication: . 7 predicted indications."
+description: "Health news related to Cyclosporine. Original indication: . 5 predicted indications."
 permalink: /news/cyclosporine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclosporine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclosporine?">
-<strong>Cyclosporine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Cyclosporine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Cyclosporine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>granulomatous disease, chronic, autosomal recessive (99.7%)</li>
-<li>brain aneurysm (99.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.4%)</li>
-<li>congenital ichthyosiform erythroderma (99.4%)</li>
-<li>fetal erythroblastosis (99.4%)</li>
-<li>brachydactyly-syndactyly syndrome (99.3%)</li>
-<li>prolapse of lacrimal gland (99.1%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Oncyclo 50mg Capsule | Strip of 5 capsules | Not stated (99.0%)</li>
+<li>Cyclophil ME Oral Solution | Bottle of 50 ml oral solution | Not stated (99.0%)</li>
+<li>Vaktear Eye Drop | Bottle of 3 ml eye drop | Not stated (99.0%)</li>
+<li>Sandimmun Injection | Ampoule of 1 ml injection | Not stated (99.0%)</li>
+<li>Cyclomune 50mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclosporine/' | relative_url }}">View full drug report →</a></p>

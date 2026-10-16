@@ -3,7 +3,7 @@ layout: default
 title: "Pidotimod News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pidotimod. Original indication: . 10 predicted indications."
+description: "Health news related to Pidotimod. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/pidotimod/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pidotimod/
 ---
 
 <p class="key-answer" data-question="What news is there about Pidotimod?">
-<strong>Pidotimod</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Pidotimod</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Pidotimod with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>osteoarthritis (98.6%)</li>
-<li>osteoarthritis susceptibility (98.4%)</li>
-<li>rheumatoid arthritis (98.2%)</li>
-<li>hepatic porphyria (97.8%)</li>
-<li>pseudoachondroplasia (97.8%)</li>
-<li>gout (97.7%)</li>
-<li>brachyolmia (97.6%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.5%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (97.5%)</li>
-<li>hepatoportal sclerosis (97.5%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **osteoarthritis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Imudot 800 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Immulina Liquid | Bottle of 200 ml oral liquid | Not specified (99.0%)</li>
+<li>Stimmune 800 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Pidotimune 800 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Immulina Liquid | Bottle of 100 ml oral liquid | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pidotimod/' | relative_url }}">View full drug report →</a></p>

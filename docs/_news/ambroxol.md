@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Ambroxol with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>vulvovaginal candidiasis (99.9%)</li>
-<li>faucial diphtheria (99.2%)</li>
-<li>cervical disc degenerative disorder (99.1%)</li>
+<li>Brex Syrup | Bottle of 100 ml syrup | Not available (99.0%)</li>
+<li>Xeroc LS Syrup | Bottle of 60 ml syrup | Not available (99.0%)</li>
+<li>Cofodd LS Syrup | Bottle of 60 ml syrup | Not available (99.0%)</li>
+<li>Sukuff Total Tablet | Strip of 15 tablets | Not available (99.0%)</li>
+<li>New Ventakof Expectorant | Bottle of 100 ml expectorant | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambroxol/' | relative_url }}">View full drug report →</a></p>

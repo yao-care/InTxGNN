@@ -24,8 +24,9 @@ This page combines the AI-predicted indications for Chloroprocaine with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>cauda equina syndrome (99.0%)</li>
+<li>Clorquik 1% Injection (Neon Laboratories Ltd) | Ampoule of 5 ml injection | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chloroprocaine/' | relative_url }}">View full drug report →</a></p>

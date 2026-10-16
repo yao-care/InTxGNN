@@ -24,8 +24,9 @@ This page combines the AI-predicted indications for Trabectedin with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>female breast carcinoma (99.7%)</li>
+<li>Trabec 1mg Solution for Infusion (Natco Pharma Ltd) | Vial of 1 solution for infusion | Not specified in the registration data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">View full drug report →</a></p>

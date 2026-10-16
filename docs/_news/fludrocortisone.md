@@ -3,7 +3,7 @@ layout: default
 title: "Fludrocortisone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fludrocortisone. Original indication: . 8 predicted indications."
+description: "Health news related to Fludrocortisone. Original indication: . 3 predicted indications."
 permalink: /news/fludrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fludrocortisone/
 ---
 
 <p class="key-answer" data-question="What news is there about Fludrocortisone?">
-<strong>Fludrocortisone</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Fludrocortisone</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,15 +24,11 @@ This page combines the AI-predicted indications for Fludrocortisone with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>primary cutaneous T-cell lymphoma (99.6%)</li>
-<li>cystic teratoma (99.2%)</li>
-<li>spinal cord dermoid cyst (99.2%)</li>
-<li>dermoid cyst of ovary (99.2%)</li>
-<li>disease of orbital part of eye adnexa (99.2%)</li>
-<li>eye disease (99.1%)</li>
-<li>disease of orbital region (99.1%)</li>
-<li>exostosis (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Minocort Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Fludrol Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Floricot Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fludrocortisone/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Etanercept News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Etanercept. Original indication: . 6 predicted indications."
+description: "Health news related to Etanercept. Original indication: . 5 predicted indications."
 permalink: /news/etanercept/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etanercept/
 ---
 
 <p class="key-answer" data-question="What news is there about Etanercept?">
-<strong>Etanercept</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Etanercept</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Etanercept with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>rheumatoid vasculitis (99.7%)</li>
-<li>hypermobility of coccyx (99.6%)</li>
-<li>inflammatory spondylopathy (99.6%)</li>
-<li>Kummell disease (99.5%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.5%)</li>
-<li>vertebral disease (99.2%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Enbrol 25mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Etacept PFS Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Etacept 25mg Injection | Vial of 3 ml injection | Not stated (99.0%)</li>
+<li>Intacept 50mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Intacept 25 Solution for Injection | Vial of 0.5 ml solution for injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etanercept/' | relative_url }}">View full drug report →</a></p>

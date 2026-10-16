@@ -3,7 +3,7 @@ layout: default
 title: "Lurasidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lurasidone. Original indication: . 10 predicted indications."
+description: "Health news related to Lurasidone. Original indication: . 5 predicted indications."
 permalink: /news/lurasidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lurasidone/
 ---
 
 <p class="key-answer" data-question="What news is there about Lurasidone?">
-<strong>Lurasidone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Lurasidone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Lurasidone with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>manic bipolar affective disorder (100.0%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (100.0%)</li>
-<li>hydranencephaly (disease) (100.0%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (100.0%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>syndromic myopia (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>atypical glycine encephalopathy (99.9%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Luratrend 80mg Tablet (Abbott) | Tablet, strip of 10 | Not stated in the registration record (99.0%)</li>
+<li>Lurafic 80mg Tablet (Lupin) | Tablet, strip of 10 | Not stated in the registration record (99.0%)</li>
+<li>Lurakem 80mg Tablet (Alkem) | Tablet, strip of 10 | Not stated in the registration record (99.0%)</li>
+<li>Tablura 40 Tablet (Cipla) | Tablet, strip of 10 | Not stated in the registration record (99.0%)</li>
+<li>Lurasid 40 Tablet (Intas) | Tablet, strip of 10 | Not stated in the registration record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lurasidone/' | relative_url }}">View full drug report →</a></p>

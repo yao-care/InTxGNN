@@ -3,7 +3,7 @@ layout: default
 title: "Papain News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Papain. Original indication: . 10 predicted indications."
+description: "Health news related to Papain. Original indication: he TxGNN model predicts it may be effective for **.... 10 predicted indications."
 permalink: /news/papain/
 ---
 
@@ -24,6 +24,8 @@ This page combines the AI-predicted indications for Papain with the latest healt
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **primary release disorder of platelets**, with a high score, yet **no clinical trials** and **only 1 loosely related publication** support this...</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>primary release disorder of platelets (98.2%)</li>
 <li>Glanzmann thrombasthenia (98.1%)</li>

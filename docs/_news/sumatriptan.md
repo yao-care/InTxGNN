@@ -3,7 +3,7 @@ layout: default
 title: "Sumatriptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sumatriptan. Original indication: . 1 predicted indications."
+description: "Health news related to Sumatriptan. Original indication: upport comes mainly from **literature (18 publicat.... 5 predicted indications."
 permalink: /news/sumatriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sumatriptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Sumatriptan?">
-<strong>Sumatriptan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Sumatriptan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,14 @@ This page combines the AI-predicted indications for Sumatriptan with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>migraine with brainstem aura (99.7%)</li>
+<li><strong>Original indication</strong>: upport comes mainly from **literature (18 publications, mostly reviews and general migraine studies)** and **no registered clinical trials** specific to this subtype.</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Sumitrex 6mg Injection (Sun Pharmaceutical) | Vial of 1 ml injection | Not available (99.0%)</li>
+<li>Sumitrex 50mg Tablet (Sun Pharmaceutical) | Tablet (strip of 1) | Not available (99.0%)</li>
+<li>Sumitop 25 Tablet (Healing Pharma India) | Tablet (strip of 10) | Not available (99.0%)</li>
+<li>Somatran N 85mg/500mg Tablet (Alteus Biogenics) | Tablet (strip of 4) | Not available (99.0%)</li>
+<li>Headset Tablet (Lupin) | Tablet (strip of 2) | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sumatriptan/' | relative_url }}">View full drug report →</a></p>

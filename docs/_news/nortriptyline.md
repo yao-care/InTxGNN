@@ -3,7 +3,7 @@ layout: default
 title: "Nortriptyline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nortriptyline. Original indication: . 2 predicted indications."
+description: "Health news related to Nortriptyline. Original indication: . 5 predicted indications."
 permalink: /news/nortriptyline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nortriptyline/
 ---
 
 <p class="key-answer" data-question="What news is there about Nortriptyline?">
-<strong>Nortriptyline</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Nortriptyline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Nortriptyline with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (99.4%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.3%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Norhap 25mg Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
+<li>Nordep 25mg Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
+<li>Tyval 75mg Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
+<li>Notrima 25mg Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
+<li>Unotrip 15mg Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nortriptyline/' | relative_url }}">View full drug report →</a></p>

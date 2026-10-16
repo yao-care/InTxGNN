@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Sertraline with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (8)</strong>:<ul>
 <li>paranoid personality disorder (99.9%)</li>
 <li>schizoid personality disorder (99.9%)</li>

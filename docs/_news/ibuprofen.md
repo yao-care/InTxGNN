@@ -3,7 +3,7 @@ layout: default
 title: "Ibuprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ibuprofen. Original indication: . 7 predicted indications."
+description: "Health news related to Ibuprofen. Original indication: . 5 predicted indications."
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ibuprofen?">
-<strong>Ibuprofen</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Ibuprofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,13 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
-<li>myosclerosis (99.7%)</li>
-<li>brachyolmia (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.7%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ibufen Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ibugrap 400mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Nilflam Suspension | Bottle of 60 ml suspension | Not stated (99.0%)</li>
+<li>Ibuset Syrup | Bottle of 60 ml syrup | Not stated (99.0%)</li>
+<li>Corflam Gel | Tube of 15 gm gel (topical) | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">View full drug report →</a></p>

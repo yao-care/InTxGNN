@@ -3,7 +3,7 @@ layout: default
 title: "Quinapril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Quinapril. Original indication: . 5 predicted indications."
+description: "Health news related to Quinapril. Original indication: . 9 predicted indications."
 permalink: /news/quinapril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quinapril/
 ---
 
 <p class="key-answer" data-question="What news is there about Quinapril?">
-<strong>Quinapril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Quinapril</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,17 @@ This page combines the AI-predicted indications for Quinapril with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
-<li>Braddock syndrome (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Malignant hypertensive renal disease | 99.86% | L5 | RAAS blockade is relevant to hypertensive kidney damage, but this largely extends the approved use. No studies provided. (99.0%)</li>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia | 99.85% | L4 | Two animal studies from 1996 only. This is the best-supported of the five predictions, though still preclinical. (99.0%)</li>
+<li>Pulmonary hypertension with unclear multifactorial mechanism | 99.85% | L5 | Only an indirect link through hypoxic pulmonary hypertension work. (99.0%)</li>
+<li>Braddock syndrome | 99.79% | L5 | No clear mechanistic link. Likely reflects knowledge-graph proximity. (99.0%)</li>
+<li>Q Pril 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Q Pril 20mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Q Press H 20 mg/12.5 mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Q Press 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Q Press 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quinapril/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "D-Glucose News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to D-Glucose. Original indication: . 10 predicted indications."
+description: "Health news related to D-Glucose. Original indication: For the top prediction, **no mechanistic link coul.... 10 predicted indications."
 permalink: /news/d-glucose/
 ---
 
@@ -24,6 +24,8 @@ This page combines the AI-predicted indications for D-Glucose with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Original indication</strong>: For the top prediction, **no mechanistic link could be identified**. Glucose has no known role in esophageal embryonic development or in correcting esophageal malformation, which is a structural...</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>non-syndromic esophageal malformation (84.1%)</li>
 <li>primary hereditary glaucoma (83.7%)</li>

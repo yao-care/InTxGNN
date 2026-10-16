@@ -3,7 +3,7 @@ layout: default
 title: "Minoxidil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Minoxidil. Original indication: . 10 predicted indications."
+description: "Health news related to Minoxidil. Original indication: . 5 predicted indications."
 permalink: /news/minoxidil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/minoxidil/
 ---
 
 <p class="key-answer" data-question="What news is there about Minoxidil?">
-<strong>Minoxidil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Minoxidil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Minoxidil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>pseudopelade of Brocq (99.9%)</li>
-<li>pulmonary arterial hypertension (99.9%)</li>
-<li>pulmonary arteriovenous malformation (disease) (99.9%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.9%)</li>
-<li>primary hereditary glaucoma (99.8%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.8%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (99.8%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Mintop Forte 2 Hair Restore Formula (Dr Reddy's) | 60 ml solution | Not recorded (99.0%)</li>
+<li>Hairz 5 Solution (Forman Medics) | 60 ml solution | Not recorded (99.0%)</li>
+<li>Morr 10% Solution (Intas) | 60 ml solution | Not recorded (99.0%)</li>
+<li>Lonit 10mg Tablet (Intas) | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Minogain 2.5mg Tablet (Trikona) | Bottle of 30 tablets | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/minoxidil/' | relative_url }}">View full drug report →</a></p>

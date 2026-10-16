@@ -3,7 +3,7 @@ layout: default
 title: "Baclofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Baclofen. Original indication: . 2 predicted indications."
+description: "Health news related to Baclofen. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
 permalink: /news/baclofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/baclofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Baclofen?">
-<strong>Baclofen</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Baclofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,14 @@ This page combines the AI-predicted indications for Baclofen with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (99.3%)</li>
-<li>nicotine dependence (99.2%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but there are **0 clinical trials** and only **9 loosely related publications** (reviews and...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Batlin 10mg Tablet | Tablet (strip of 10) | Not stated in the licence record (99.0%)</li>
+<li>Mesifen 20mg Tablet XL | Extended-release tablet (strip of 10) | Not stated in the licence record (99.0%)</li>
+<li>Liofen 40mg Capsule XL | Extended-release capsule (strip of 10) | Not stated in the licence record (99.0%)</li>
+<li>Baclonip 10mg Tablet | Tablet (strip of 10) | Not stated in the licence record (99.0%)</li>
+<li>Chinofen 10mg Tablet | Tablet (strip of 3) | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baclofen/' | relative_url }}">View full drug report →</a></p>

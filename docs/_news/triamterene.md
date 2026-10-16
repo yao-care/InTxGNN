@@ -3,7 +3,7 @@ layout: default
 title: "Triamterene News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triamterene. Original indication: . 6 predicted indications."
+description: "Health news related to Triamterene. Original indication: . 1 predicted indications."
 permalink: /news/triamterene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triamterene/
 ---
 
 <p class="key-answer" data-question="What news is there about Triamterene?">
-<strong>Triamterene</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Triamterene</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,9 @@ This page combines the AI-predicted indications for Triamterene with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>Braddock syndrome (99.8%)</li>
-<li>chronic pulmonary heart disease (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Trymax 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triamterene/' | relative_url }}">View full drug report →</a></p>

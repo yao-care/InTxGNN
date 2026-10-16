@@ -3,7 +3,7 @@ layout: default
 title: "Pioglitazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pioglitazone. Original indication: . 9 predicted indications."
+description: "Health news related to Pioglitazone. Original indication: . 5 predicted indications."
 permalink: /news/pioglitazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pioglitazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Pioglitazone?">
-<strong>Pioglitazone</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Pioglitazone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,13 @@ This page combines the AI-predicted indications for Pioglitazone with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>opsismodysplasia (99.6%)</li>
-<li>classic stiff person syndrome (99.5%)</li>
-<li>focal stiff limb syndrome (99.5%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.5%)</li>
-<li>drug-induced localized lipodystrophy (99.3%)</li>
-<li>centrifugal lipodystrophy (99.3%)</li>
-<li>pressure-induced localized lipoatrophy (99.2%)</li>
-<li>idiopathic localized lipodystrophy (99.2%)</li>
-<li>pancreatic agenesis (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Pozitiv 15mg Tablet | Strip of 10 tablets | Not stated in record (99.0%)</li>
+<li>Glizone 30mg Tablet | Strip of 10 tablets | Not stated in record (99.0%)</li>
+<li>Path 15 Tablet | Strip of 15 tablets | Not stated in record (99.0%)</li>
+<li>Carbophage P 30mg/500mg Tablet | Strip of 10 tablets | Not stated in record (99.0%)</li>
+<li>Pionorm-M 15 Tablet SR | Strip of 10 tablets (SR) | Not stated in record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">View full drug report →</a></p>

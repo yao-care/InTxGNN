@@ -3,7 +3,7 @@ layout: default
 title: "Dabigatran Etexilate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dabigatran Etexilate. Original indication: . 5 predicted indications."
+description: "Health news related to Dabigatran Etexilate. Original indication: . 0 predicted indications."
 permalink: /news/dabigatran_etexilate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dabigatran_etexilate/
 ---
 
 <p class="key-answer" data-question="What news is there about Dabigatran Etexilate?">
-<strong>Dabigatran Etexilate</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dabigatran Etexilate</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,15 +24,8 @@ This page combines the AI-predicted indications for Dabigatran Etexilate with th
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>sclerosing cholangitis (99.8%)</li>
-<li>obsolete familial combined hyperlipidemia (99.6%)</li>
-<li>hypoalphalipoproteinemia (99.6%)</li>
-<li>homozygous familial hypercholesterolemia (99.5%)</li>
-<li>primary release disorder of platelets (99.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/dabigatran-etexilate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/dabigatran_etexilate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

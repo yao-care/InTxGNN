@@ -3,7 +3,7 @@ layout: default
 title: "Dimercaprol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dimercaprol. Original indication: . 1 predicted indications."
+description: "Health news related to Dimercaprol. Original indication: The only linked publication is a 1963 case report .... 1 predicted indications."
 permalink: /news/dimercaprol/
 ---
 
@@ -24,6 +24,8 @@ This page combines the AI-predicted indications for Dimercaprol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Original indication</strong>: The only linked publication is a 1963 case report describing bronchitis after acute mercury inhalation. In that setting, bronchitis is a consequence of metal poisoning. Chelation would address the...</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
 <li>bronchitis (99.5%)</li>
 </ul></li>

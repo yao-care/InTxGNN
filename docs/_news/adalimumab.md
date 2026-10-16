@@ -3,7 +3,7 @@ layout: default
 title: "Adalimumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Adalimumab. Original indication: . 6 predicted indications."
+description: "Health news related to Adalimumab. Original indication: . 5 predicted indications."
 permalink: /news/adalimumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/adalimumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Adalimumab?">
-<strong>Adalimumab</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Adalimumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Adalimumab with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>rheumatoid vasculitis (99.8%)</li>
-<li>hypermobility of coccyx (99.8%)</li>
-<li>inflammatory spondylopathy (99.8%)</li>
-<li>Kummell disease (99.7%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.7%)</li>
-<li>vertebral disease (99.2%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Adalirel 40mg Injection (Reliance Life Sciences) | Vial of 1 injection (99.0%)</li>
+<li>Adalirel 20mg Injection (Reliance Life Sciences) | Vial of 0.4 ml injection (99.0%)</li>
+<li>Amab Injection (Dr Reddy's Laboratories Ltd) | Prefilled syringe of 0.8 ml injection (99.0%)</li>
+<li>Cipleumab 40mg Injection (Cipla Ltd) | Prefilled syringe of 0.8 ml injection (99.0%)</li>
+<li>Mabura 40mg Injection (Hetero Drugs Ltd) | Vial of 1 ml injection (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/adalimumab/' | relative_url }}">View full drug report →</a></p>

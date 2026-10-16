@@ -3,7 +3,7 @@ layout: default
 title: "Cladribine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cladribine. Original indication: . 7 predicted indications."
+description: "Health news related to Cladribine. Original indication: . 1 predicted indications."
 permalink: /news/cladribine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cladribine?">
-<strong>Cladribine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Cladribine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,9 @@ This page combines the AI-predicted indications for Cladribine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.8%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>liver sarcoma (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cladrim 10mg Injection (Fresenius Kabi India Pvt Ltd) | Vial of 1 injection | Not recorded in the available data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">View full drug report →</a></p>

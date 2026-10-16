@@ -24,10 +24,11 @@ This page combines the AI-predicted indications for Goserelin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>renal hypoplasia (disease) (99.1%)</li>
-<li>renal hypoplasia, bilateral (99.1%)</li>
+<li>Zoladex 3.6 Injection (AstraZeneca) | Vial of 1 injection | Not stated (99.0%)</li>
+<li>Zoladex LA 10.8mg Injection (AstraZeneca) | Prefilled syringe of 1 injection | Not stated (99.0%)</li>
+<li>Goselin 3.6mg Injection (Bharat Serums & Vaccines Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/goserelin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Rebamipide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rebamipide. Original indication: . 10 predicted indications."
+description: "Health news related to Rebamipide. Original indication: . 5 predicted indications."
 permalink: /news/rebamipide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rebamipide/
 ---
 
 <p class="key-answer" data-question="What news is there about Rebamipide?">
-<strong>Rebamipide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Rebamipide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Rebamipide with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>achlorhydria (98.9%)</li>
-<li>hiatus hernia (disease) (98.7%)</li>
-<li>cascade stomach (98.5%)</li>
-<li>gastric dilatation (98.5%)</li>
-<li>Dieulafoy lesion (98.5%)</li>
-<li>pylorospasm (98.5%)</li>
-<li>small bowel Crohn disease (98.5%)</li>
-<li>hemorrhagic duodenitis (97.9%)</li>
-<li>esophageal ulcer (97.5%)</li>
-<li>dyskinesia of esophagus (96.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Rebator 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Rebam 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Mucogen 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Rebagen Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Rebagen-Otic Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rebamipide/' | relative_url }}">View full drug report →</a></p>

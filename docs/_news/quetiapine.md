@@ -3,7 +3,7 @@ layout: default
 title: "Quetiapine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Quetiapine. Original indication: . 10 predicted indications."
+description: "Health news related to Quetiapine. Original indication: . 5 predicted indications."
 permalink: /news/quetiapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quetiapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Quetiapine?">
-<strong>Quetiapine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Quetiapine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Quetiapine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>retinal dystrophy with or without extraocular anomalies (99.6%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.5%)</li>
-<li>hydranencephaly (disease) (99.5%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.5%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.4%)</li>
-<li>myopia X-linked (99.4%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.4%)</li>
-<li>trichotillomania (99.4%)</li>
-<li>syndromic myopia (99.4%)</li>
-<li>myopia 26, X-linked, female-limited (99.4%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Qtripil 50mg Tablet | Strip of 10 tablets | Arinna Lifescience Pvt Ltd (99.0%)</li>
+<li>Pine 50mg Tablet | Strip of 10 tablets | Suraksha Pharma Pvt Ltd (99.0%)</li>
+<li>Q-Zac 50 SR Tablet | Strip of 10 SR tablets | Dorris Pharmaceutical Pvt Ltd (99.0%)</li>
+<li>Quel 100 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd (99.0%)</li>
+<li>Sera 200mg Tablet SR | Strip of 10 SR tablets | Curelogic Pharma (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quetiapine/' | relative_url }}">View full drug report →</a></p>

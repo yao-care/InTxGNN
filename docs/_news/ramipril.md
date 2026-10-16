@@ -3,7 +3,7 @@ layout: default
 title: "Ramipril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ramipril. Original indication: . 10 predicted indications."
+description: "Health news related to Ramipril. Original indication: . 5 predicted indications."
 permalink: /news/ramipril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ramipril/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramipril?">
-<strong>Ramipril</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ramipril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Ramipril with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>brain stem infarction (99.9%)</li>
-<li>Prinzmetal angina (99.8%)</li>
-<li>intracerebral hemorrhage (99.8%)</li>
-<li>ABri amyloidosis (99.8%)</li>
-<li>cerebral artery occlusion (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Preventopril 5 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ramisave 10 Capsule | Strip of 10 capsules | Not specified (99.0%)</li>
+<li>Conram 5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ramey 1.25mg Capsule | Strip of 10 capsules | Not specified (99.0%)</li>
+<li>Cardika 2.5mg Capsule | Strip of 6 capsules | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">View full drug report →</a></p>

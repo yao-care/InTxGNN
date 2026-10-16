@@ -3,7 +3,7 @@ layout: default
 title: "Dapsone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dapsone. Original indication: . 1 predicted indications."
+description: "Health news related to Dapsone. Original indication: . 5 predicted indications."
 permalink: /news/dapsone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dapsone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dapsone?">
-<strong>Dapsone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Dapsone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Dapsone with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>pneumocystosis (99.7%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dapsone Tablet (Glaxo SmithKline Pharmaceuticals Ltd) | Tablet, bottle of 1000 | Not stated in registration data (99.0%)</li>
+<li>Pustulex Gel (Amwill Healthcare) | Gel, 20 g tube | Not stated in registration data (99.0%)</li>
+<li>Acnedap Plus Gel (Cipla Ltd) | Gel, 15 g tube | Not stated in registration data (99.0%)</li>
+<li>Dapsib Gel (Indiabulls Pharmaceutical Ltd) | Gel, 15 g tube | Not stated in registration data (99.0%)</li>
+<li>Acnewar Plus Gel (Akumentis Healthcare Ltd) | Gel, 15 g tube | Not stated in registration data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dapsone/' | relative_url }}">View full drug report →</a></p>

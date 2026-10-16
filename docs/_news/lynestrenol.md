@@ -3,7 +3,7 @@ layout: default
 title: "Lynestrenol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lynestrenol. Original indication: . 10 predicted indications."
+description: "Health news related to Lynestrenol. Original indication: . 2 predicted indications."
 permalink: /news/lynestrenol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lynestrenol/
 ---
 
 <p class="key-answer" data-question="What news is there about Lynestrenol?">
-<strong>Lynestrenol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Lynestrenol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,10 @@ This page combines the AI-predicted indications for Lynestrenol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>migraine with or without aura, susceptibility to (99.5%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>migraine with brainstem aura (99.3%)</li>
-<li>insomnia (disease) (99.1%)</li>
-<li>leprosy (99.0%)</li>
-<li>atrophoderma vermiculata (98.9%)</li>
-<li>ulerythema ophryogenesis (98.6%)</li>
-<li>pulmonary hypertension (98.5%)</li>
-<li>kyphoscoliotic heart disease (98.3%)</li>
-<li>Prinzmetal angina (98.1%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Lyscost Tablet | Strip of 28 tablets | Not stated (99.0%)</li>
+<li>Minikare Tablet | Strip of 28 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lynestrenol/' | relative_url }}">View full drug report →</a></p>

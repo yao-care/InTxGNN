@@ -3,7 +3,7 @@ layout: default
 title: "Oxazepam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxazepam. Original indication: . 1 predicted indications."
+description: "Health news related to Oxazepam. Original indication: . 5 predicted indications."
 permalink: /news/oxazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxazepam/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxazepam?">
-<strong>Oxazepam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Oxazepam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Oxazepam with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Zaxpam 15mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
+<li>Serepax 15mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
+<li>Serepax 30mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
+<li>Anxozap 30 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
+<li>Azenap 30mg Tablet (Consern Pharma Limited) | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxazepam/' | relative_url }}">View full drug report →</a></p>

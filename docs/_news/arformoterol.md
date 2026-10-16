@@ -3,7 +3,7 @@ layout: default
 title: "Arformoterol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Arformoterol. Original indication: . 10 predicted indications."
+description: "Health news related to Arformoterol. Original indication: . 1 predicted indications."
 permalink: /news/arformoterol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arformoterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Arformoterol?">
-<strong>Arformoterol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Arformoterol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,9 @@ This page combines the AI-predicted indications for Arformoterol with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>obstructive lung disease (100.0%)</li>
-<li>compensatory emphysema (99.8%)</li>
-<li>hyperlucent lung (99.8%)</li>
-<li>interstitial emphysema (99.8%)</li>
-<li>respiratory malformation (99.7%)</li>
-<li>tracheal stenosis (99.7%)</li>
-<li>Rienhoff syndrome (99.6%)</li>
-<li>congenital lobar emphysema (99.6%)</li>
-<li>susceptibility to respiratory infections associated with CD8alpha chain mutation (99.5%)</li>
-<li>tracheal calcification (99.5%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Labaneb Respules (2ml Each) (Lupin Ltd) | Packet of 5 respules | Not specified in the data compiled for this report (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/arformoterol/' | relative_url }}">View full drug report →</a></p>

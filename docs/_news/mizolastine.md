@@ -24,17 +24,18 @@ This page combines the AI-predicted indications for Mizolastine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>acute intermittent porphyria (99.8%)</li>
-<li>psychogenic movement disorders (99.7%)</li>
-<li>lingual-facial-buccal dyskinesia (99.7%)</li>
-<li>chronic tic disorder (99.7%)</li>
-<li>extrapyramidal and movement disease (99.7%)</li>
-<li>benign shuddering attacks (99.7%)</li>
-<li>primary orthostatic tremor (99.7%)</li>
-<li>tremor-nystagmus-duodenal ulcer syndrome (99.7%)</li>
-<li>benign paroxysmal tonic upgaze of childhood with ataxia (99.7%)</li>
-<li>carbamoyl phosphate synthetase I deficiency disease (99.5%)</li>
+<li>Psychogenic movement disorders | 99.71% | H1 antagonism has no known direct relevance (99.0%)</li>
+<li>Lingual-facial-buccal dyskinesia | 99.71% | Speculative central histaminergic link; mizolastine has limited CNS penetration (99.0%)</li>
+<li>Chronic tic disorder | 99.71% | Histamine H3 pathways have been explored, but mizolastine acts on H1 (99.0%)</li>
+<li>Extrapyramidal and movement disease | 99.70% | Broad category; no specific mechanism (99.0%)</li>
+<li>Benign shuddering attacks | 99.70% | Benign, self-limiting condition; unfavourable risk-benefit (99.0%)</li>
+<li>Primary orthostatic tremor | 99.69% | No known antihistamine mechanism (99.0%)</li>
+<li>Tremor-nystagmus-duodenal ulcer syndrome | 99.69% | Extremely rare; H2 blockers, not H1, are relevant to ulcers (99.0%)</li>
+<li>Benign paroxysmal tonic upgaze of childhood with ataxia | 99.68% | Rare channelopathy-associated condition; no link to H1 (99.0%)</li>
+<li>Carbamoyl phosphate synthetase I deficiency disease | 99.47% | Inborn urea cycle disorder; no plausible link (99.0%)</li>
+<li>Elina Tablet MR (Dr Reddy's Laboratories Ltd) | Modified-release tablet (strip of 15) | Not stated in the license record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mizolastine/' | relative_url }}">View full drug report →</a></p>

@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Ethambutol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>epiglottitis (99.9%)</li>
-<li>laryngitis (99.7%)</li>
-<li>meningococcal infection (99.6%)</li>
-<li>peritonitis (99.2%)</li>
-<li>infectious otitis media (99.1%)</li>
+<li>Sunibutol 800mg Tablet | Strip of 10 tablets | Sunij Pharma Pvt Ltd (99.0%)</li>
+<li>Sunibutol 600mg Tablet | Strip of 10 tablets | Sunij Pharma Pvt Ltd (99.0%)</li>
+<li>EBL 800mg Tablet | Strip of 10 tablets | Acron Pharmaceuticals (99.0%)</li>
+<li>Combutol 200 Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
+<li>CAVIBUTOL 200MG TABLET | Strip of 10 tablets | Wockhardt Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethambutol/' | relative_url }}">View full drug report →</a></p>

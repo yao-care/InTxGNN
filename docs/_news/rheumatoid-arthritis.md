@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "joint pain (rheumatoid arthritis) News"
+title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about joint pain (rheumatoid arthritis). 3 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 5 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
-# joint pain (rheumatoid arthritis) News
+# RA (rheumatoid arthritis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about joint pain (rheumatoid arthritis)?">
-<strong>joint pain (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
+<p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>5 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “joint pain” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “RA” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -35,27 +35,43 @@ This page brings together the latest health news about “joint pain” and list
 <li><a href="{{ '/drugs/bosentan/' | relative_url }}">Bosentan</a></li>
 <li><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">Cabazitaxel</a></li>
 <li><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">Chlorzoxazone</a></li>
-<li><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">Choline Salicylate</a></li>
+<li><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">Choline Salicylate</a></li>
 <li><a href="{{ '/drugs/chromium/' | relative_url }}">Chromium</a></li>
 <li><a href="{{ '/drugs/eptifibatide/' | relative_url }}">Eptifibatide</a></li>
 <li><a href="{{ '/drugs/levocetirizine/' | relative_url }}">Levocetirizine</a></li>
 <li><a href="{{ '/drugs/lornoxicam/' | relative_url }}">Lornoxicam</a></li>
-<li><a href="{{ '/drugs/mefenamic-acid/' | relative_url }}">Mefenamic Acid</a></li>
+<li><a href="{{ '/drugs/mefenamic_acid/' | relative_url }}">Mefenamic Acid</a></li>
 <li><a href="{{ '/drugs/mesalazine/' | relative_url }}">Mesalazine</a></li>
 <li><a href="{{ '/drugs/metamizole/' | relative_url }}">Metamizole</a></li>
-<li><a href="{{ '/drugs/nalidixic-acid/' | relative_url }}">Nalidixic Acid</a></li>
+<li><a href="{{ '/drugs/nalidixic_acid/' | relative_url }}">Nalidixic Acid</a></li>
 <li><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">Nitrofurantoin</a></li>
 <li><a href="{{ '/drugs/valdecoxib/' | relative_url }}">Valdecoxib</a></li>
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+2026-10-16
+
+Source: [orfonline.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+---
 
 ### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
 
 2026-10-16
 
 Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
+
+---
+
+### [Hyderabad doctors warn of back and neck pain from long commutes and poor roads - Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
+
+2026-10-15
+
+Source: [Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
 
 ---
 

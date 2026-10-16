@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "colorectal cancer (colonic neoplasm) News"
+title: "bowel cancer (colonic neoplasm) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about colorectal cancer (colonic neoplasm). 1 articles, 1 related drugs."
+description: "Health news about bowel cancer (colonic neoplasm). 1 articles, 1 related drugs."
 permalink: /news/colonic-neoplasm/
 ---
 
-# colorectal cancer (colonic neoplasm) News
+# bowel cancer (colonic neoplasm) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about colorectal cancer (colonic neoplasm)?">
-<strong>colorectal cancer (colonic neoplasm)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about bowel cancer (colonic neoplasm)?">
+<strong>bowel cancer (colonic neoplasm)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “colorectal cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “bowel cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ This page brings together the latest health news about “colorectal cancer” a
 
 ## Related News (1)
 
-### [Replacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate - The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
+### [Total Ultra-Processed Food Intake Is Not Linked to Colorectal Cancer Incidence - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU5qZFZkR000WUFiZlQyNVV6VlZwWVpIaC1UdDlVeVNTT0RWNXhXTnUzNDFPcUNiVjBhNW5WOTVTYjhrNnpkbDN1b3FDcVB3RGRkTThfc2lIeU9ZSkFHZTczOVJMOGkzVEF4dkV3eWcwSEVuVlMxLTgxWG9OVWsxNzBpUUU3UFpSWktWSjE5Z1ZjQnBVR2ItZ2FVal9yM3ZEZXB3RGxvTQ?oc=5)
 
-2026-10-15
+2026-10-16
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
+Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU5qZFZkR000WUFiZlQyNVV6VlZwWVpIaC1UdDlVeVNTT0RWNXhXTnUzNDFPcUNiVjBhNW5WOTVTYjhrNnpkbDN1b3FDcVB3RGRkTThfc2lIeU9ZSkFHZTczOVJMOGkzVEF4dkV3eWcwSEVuVlMxLTgxWG9OVWsxNzBpUUU3UFpSWktWSjE5Z1ZjQnBVR2ItZ2FVal9yM3ZEZXB3RGxvTQ?oc=5)
 
 ---
 

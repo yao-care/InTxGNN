@@ -3,7 +3,7 @@ layout: default
 title: "Phylloquinone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phylloquinone. Original indication: . 9 predicted indications."
+description: "Health news related to Phylloquinone. Original indication: . 13 predicted indications."
 permalink: /news/phylloquinone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phylloquinone/
 ---
 
 <p class="key-answer" data-question="What news is there about Phylloquinone?">
-<strong>Phylloquinone</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Phylloquinone</strong> currently has <strong>0 news articles</strong>, with 13 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,21 @@ This page combines the AI-predicted indications for Phylloquinone with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>renal tubular acidosis (99.9%)</li>
-<li>hypophosphatemic rickets (99.7%)</li>
-<li>Pendred syndrome (99.6%)</li>
-<li>autosomal recessive nonsyndromic deafness (99.5%)</li>
-<li>NAD(P)HX dehydratase deficiency (99.5%)</li>
-<li>leukocyte adhesion deficiency (99.5%)</li>
-<li>hypermanganesemia with dystonia (99.4%)</li>
-<li>Fraser syndrome (99.2%)</li>
-<li>temtamy preaxial brachydactyly syndrome (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (13)</strong>:<ul>
+<li>Hypophosphatemic rickets | 99.67% | Indirect bone-mineral link; the main defect (FGF23-mediated phosphate wasting) is not addressed by vitamin K (99.0%)</li>
+<li>Pendred syndrome | 99.56% | No clear mechanism; likely a network artifact (99.0%)</li>
+<li>Autosomal recessive nonsyndromic deafness | 99.51% | No plausible mechanism (99.0%)</li>
+<li>NAD(P)HX dehydratase deficiency | 99.48% | Speculative redox link only (99.0%)</li>
+<li>Leukocyte adhesion deficiency | 99.47% | Weak and indirect; bleeding defect is not vitamin K-responsive (99.0%)</li>
+<li>Hypermanganesemia with dystonia | 99.38% | No credible mechanism (99.0%)</li>
+<li>Fraser syndrome | 99.22% | No mechanistic rationale (99.0%)</li>
+<li>Temtamy preaxial brachydactyly syndrome | 99.08% | Very indirect skeletal-development association (99.0%)</li>
+<li>Kip 1mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Weldion 1mg Injection | Vial of 0.5 ml injection | Not stated (99.0%)</li>
+<li>Kip 10mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Kenadion 1mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Phyto K1 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phylloquinone/' | relative_url }}">View full drug report →</a></p>

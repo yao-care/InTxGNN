@@ -3,7 +3,7 @@ layout: default
 title: "Cyproheptadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyproheptadine. Original indication: . 4 predicted indications."
+description: "Health news related to Cyproheptadine. Original indication: . 5 predicted indications."
 permalink: /news/cyproheptadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyproheptadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyproheptadine?">
-<strong>Cyproheptadine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Cyproheptadine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Cyproheptadine with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>allergic urticaria (100.0%)</li>
-<li>cold urticaria (99.8%)</li>
-<li>nasal cavity disease (99.2%)</li>
-<li>acute laryngopharyngitis (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ceron Syrup | 200 ml syrup | Not specified (99.0%)</li>
+<li>Cypnid 4mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Hysin 1.5 mg/55 mg Drop | 30 ml drop | Not specified (99.0%)</li>
+<li>Triko Cyp Oral Suspension | 200 ml oral suspension | Not specified (99.0%)</li>
+<li>Cyprigen Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyproheptadine/' | relative_url }}">View full drug report →</a></p>

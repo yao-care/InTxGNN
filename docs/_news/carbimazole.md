@@ -3,7 +3,7 @@ layout: default
 title: "Carbimazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Carbimazole. Original indication: . 3 predicted indications."
+description: "Health news related to Carbimazole. Original indication: . 7 predicted indications."
 permalink: /news/carbimazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbimazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbimazole?">
-<strong>Carbimazole</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Carbimazole</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,15 @@ This page combines the AI-predicted indications for Carbimazole with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.7%)</li>
-<li>neonatal thyrotoxicosis (99.4%)</li>
-<li>hyperthyroxinemia (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Neonatal thyrotoxicosis | 99.41% | L4 | Mechanistically plausible; antithyroid drugs are already standard care. Largely an extension of the existing indication to a specific population, not a novel repurposing. Evidence is mostly case reports, case series and reviews. (99.0%)</li>
+<li>Hyperthyroxinemia | 99.21% | L4 | A laboratory phenotype with heterogeneous causes. Benefit is limited to cases that overlap with true hyperthyroidism. Antithyroid treatment is not indicated in binding-protein abnormalities or TSH-secreting adenoma. (99.0%)</li>
+<li>Thyrodip 20mg Tablet (Lupin Ltd) | Bottle of 100 tablets | Not stated in the records (99.0%)</li>
+<li>Neo-Mercazole 20 Tablet (Abbott) | Bottle of 120 tablets | Not stated in the records (99.0%)</li>
+<li>Sterzole 20 Tablet (Captab Biotec) | Bottle of 100 tablets | Not stated in the records (99.0%)</li>
+<li>Thyrozole 5mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li>Anti-Thyrox 20 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Bottle of 100 tablets | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbimazole/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Ranitidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ranitidine. Original indication: . 10 predicted indications."
+description: "Health news related to Ranitidine. Original indication: . 5 predicted indications."
 permalink: /news/ranitidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ranitidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ranitidine?">
-<strong>Ranitidine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ranitidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Ranitidine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>active peptic ulcer disease (99.9%)</li>
-<li>peptic ulcer perforation (99.9%)</li>
-<li>gastrojejunal ulcer (99.9%)</li>
-<li>duodenogastric reflux (99.8%)</li>
-<li>duodenal obstruction (99.8%)</li>
-<li>gastroduodenitis (99.7%)</li>
-<li>peptic ulcer disease (99.6%)</li>
-<li>Smouldering systemic mastocytosis (99.5%)</li>
-<li>abnormality of glucagon secretion (99.5%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.4%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Rantid 150mg Tablet (Gracure Pharmaceuticals) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li>R-Loc 50mg Injection 2ml (Zydus Cadila) | Packet of 14 injections | Not listed (99.0%)</li>
+<li>Reltac 300mg Tablet (Relish Pharmaceuticals) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li>Ancid 150mg Syrup (Angeas Healthcare) | Bottle of 170 ml syrup | Not listed (99.0%)</li>
+<li>Rantidine 150mg Tablet (Cipla) | Strip of 10 tablets | Not listed (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ranitidine/' | relative_url }}">View full drug report →</a></p>

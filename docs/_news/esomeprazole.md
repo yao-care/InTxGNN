@@ -3,7 +3,7 @@ layout: default
 title: "Esomeprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Esomeprazole. Original indication: . 3 predicted indications."
+description: "Health news related to Esomeprazole. Original indication: . 5 predicted indications."
 permalink: /news/esomeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/esomeprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Esomeprazole?">
-<strong>Esomeprazole</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Esomeprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Esomeprazole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>duodenogastric reflux (99.5%)</li>
-<li>duodenal obstruction (99.5%)</li>
-<li>duodenal ulcer (disease) (99.4%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Esomo 40mg Injection | Vial of 1 injection | Ambreyo Lifesciences (99.0%)</li>
+<li>Esmoden 40 Tablet | Strip of 10 tablets | Welgenic Pharma (99.0%)</li>
+<li>Esoloc 40mg Tablet | Strip of 10 tablets | Meritus Life Care Pvt Ltd (99.0%)</li>
+<li>Esvelo 40mg Tablet | Strip of 10 tablets | Shreeyam Healthcare (99.0%)</li>
+<li>Esmoleaf 40 Tablet | Strip of 10 tablets | Fujin Kami Pharmaceutico (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/esomeprazole/' | relative_url }}">View full drug report →</a></p>

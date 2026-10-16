@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>neurotic disorder (99.2%)</li>
-<li>neurotic depression (99.1%)</li>
-<li>melancholia (99.1%)</li>
-<li>benign paroxysmal torticollis of infancy (99.1%)</li>
-<li>dysthymic disorder (99.0%)</li>
+<li>Vortiray 10mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Voxigain 5 Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Vdep 10mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Trivoxetin 10mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Vortidif 20mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Ticagrelor News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ticagrelor. Original indication: . 10 predicted indications."
+description: "Health news related to Ticagrelor. Original indication: . 5 predicted indications."
 permalink: /news/ticagrelor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ticagrelor/
 ---
 
 <p class="key-answer" data-question="What news is there about Ticagrelor?">
-<strong>Ticagrelor</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ticagrelor</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Ticagrelor with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>intracranial arteriosclerosis (100.0%)</li>
-<li>Monckeberg arteriosclerosis (99.9%)</li>
-<li>priapism (99.8%)</li>
-<li>ischemic disease (99.6%)</li>
-<li>May-Thurner syndrome (99.5%)</li>
-<li>livedo reticularis (99.5%)</li>
-<li>mesenteric vascular occlusion (99.5%)</li>
-<li>vascular ectasia (99.5%)</li>
-<li>angiodysplasia (99.3%)</li>
-<li>venous thromboembolism (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Brilinta 90mg Tablet | Strip of 14 tablets | AstraZeneca (99.0%)</li>
+<li>Ticaflo 90mg Tablet | Strip of 14 tablets | Dr Reddy's Laboratories Ltd (99.0%)</li>
+<li>Ticasave 60mg Tablet | Strip of 14 tablets | Eris Lifesciences Ltd (99.0%)</li>
+<li>Torplat 60 Tablet | Strip of 14 tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
+<li>Axcer 60mg Tablet | Strip of 14 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ticagrelor/' | relative_url }}">View full drug report →</a></p>

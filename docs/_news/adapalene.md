@@ -3,7 +3,7 @@ layout: default
 title: "Adapalene News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Adapalene. Original indication: . 1 predicted indications."
+description: "Health news related to Adapalene. Original indication: . 5 predicted indications."
 permalink: /news/adapalene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/adapalene/
 ---
 
 <p class="key-answer" data-question="What news is there about Adapalene?">
-<strong>Adapalene</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Adapalene</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Adapalene with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>zinc, elevated plasma (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ticin Plus Gel | Tube of 20 gm gel | Torque Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li>Adhibit Gel | Tube of 15 gm gel | Dupen Laboratories Pvt Ltd (99.0%)</li>
+<li>Aclene 0.10% Gel | Tube of 15 gm gel | Cipla Ltd (99.0%)</li>
+<li>Achilles 0.10% Gel | Tube of 15 gm gel | Novartis India Ltd (99.0%)</li>
+<li>Adene 0.1% Gel | Tube of 15 gm gel | Gary Pharmaceuticals Pvt Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/adapalene/' | relative_url }}">View full drug report →</a></p>

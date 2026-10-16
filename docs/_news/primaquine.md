@@ -3,7 +3,7 @@ layout: default
 title: "Primaquine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Primaquine. Original indication: . 8 predicted indications."
+description: "Health news related to Primaquine. Original indication: . 5 predicted indications."
 permalink: /news/primaquine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/primaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Primaquine?">
-<strong>Primaquine</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Primaquine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,15 +24,13 @@ This page combines the AI-predicted indications for Primaquine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>myiasis (99.8%)</li>
-<li>wound myiasis (99.7%)</li>
-<li>furuncular myiasis (99.7%)</li>
-<li>creeping myiasis (99.7%)</li>
-<li>toxoplasmosis (99.6%)</li>
-<li>nocardiosis (99.4%)</li>
-<li>malaria (99.4%)</li>
-<li>pneumocystosis (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Primaline 15mg Tablet | Strip of 10 tablets | Unicure India Pvt Ltd (99.0%)</li>
+<li>Tpquin P 15mg Tablet | Strip of 10 tablets | Taurus Laboratories Pvt Ltd (99.0%)</li>
+<li>Primacare 7.5mg Tablet | Strip of 10 tablets | Olcare Laboratories (99.0%)</li>
+<li>Prib DS 15mg Tablet | Strip of 10 tablets | Bennet Pharmaceuticals Limited (99.0%)</li>
+<li>Leoprime 7.5mg Tablet | Strip of 14 tablets | Leo Pharmaceuticals (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/primaquine/' | relative_url }}">View full drug report →</a></p>

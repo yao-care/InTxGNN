@@ -3,7 +3,7 @@ layout: default
 title: "Midodrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Midodrine. Original indication: . 10 predicted indications."
+description: "Health news related to Midodrine. Original indication: . 5 predicted indications."
 permalink: /news/midodrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/midodrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Midodrine?">
-<strong>Midodrine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Midodrine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Midodrine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>variably protease-sensitive prionopathy (100.0%)</li>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>attention deficit-hyperactivity disorder (99.9%)</li>
-<li>hypotensive disorder (99.9%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.9%)</li>
-<li>sinoatrial node disease (99.8%)</li>
-<li>monogenic obesity (99.7%)</li>
-<li>specific developmental disorder (99.7%)</li>
-<li>obsolete hypertelorism (disease) (99.7%)</li>
-<li>sinoatrial block (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Cipmido 5mg Tablet (Cipla Ltd) | Strip of 30 tablets | Not stated in registration records (99.0%)</li>
+<li>Midorise 10 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in registration records (99.0%)</li>
+<li>Midora Tablet (Dr Reddy's Laboratories Ltd) | Strip of 30 tablets | Not stated in registration records (99.0%)</li>
+<li>Inramed 5 Tablet (Mylan Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated in registration records (99.0%)</li>
+<li>Midodrive Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 20 tablets | Not stated in registration records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/midodrine/' | relative_url }}">View full drug report →</a></p>

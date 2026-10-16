@@ -3,7 +3,7 @@ layout: default
 title: "Zolmitriptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zolmitriptan. Original indication: . 3 predicted indications."
+description: "Health news related to Zolmitriptan. Original indication: . 5 predicted indications."
 permalink: /news/zolmitriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zolmitriptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Zolmitriptan?">
-<strong>Zolmitriptan</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Zolmitriptan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Zolmitriptan with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>migraine with brainstem aura (100.0%)</li>
-<li>atrophoderma vermiculata (99.9%)</li>
-<li>ulerythema ophryogenesis (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Zolitas ODS 5 Strip | Strip of 1 disintegrating strip | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li>Zolitas ODS 2.5 Strip | Strip of 1 disintegrating strip | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li>Zolmist Nasal Spray | Bottle of 7 MDI nasal spray | Cipla Ltd (99.0%)</li>
+<li>Zolpax Nasal Spray | Packet of 5 ml nasal spray | Alteus Biogenics Pvt Ltd (99.0%)</li>
+<li>Zolmit 2.5mg Capsule | Strip of 10 capsules | Admit Pharmaceuticals Pvt Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zolmitriptan/' | relative_url }}">View full drug report →</a></p>

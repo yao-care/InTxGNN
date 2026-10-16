@@ -3,7 +3,7 @@ layout: default
 title: "Duloxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Duloxetine. Original indication: . 10 predicted indications."
+description: "Health news related to Duloxetine. Original indication: . 5 predicted indications."
 permalink: /news/duloxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/duloxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine?">
-<strong>Duloxetine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Duloxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Duloxetine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>benign paroxysmal torticollis of infancy (99.8%)</li>
-<li>agoraphobia (99.8%)</li>
-<li>obsessive-compulsive disorder (99.8%)</li>
-<li>schizotypal personality disorder (99.8%)</li>
-<li>schizoid personality disorder (99.8%)</li>
-<li>paranoid personality disorder (99.8%)</li>
-<li>histrionic personality disorder (disease) (99.8%)</li>
-<li>Ohdo syndrome and variants (99.7%)</li>
-<li>ligneous conjunctivitis (99.7%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.6%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Dulox 30mg Tablet (Jpee Healthcare) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Diligo 20 Tablet (Salveo Lifecare) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Duvanta NP 20 Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Dulet 30mg Tablet DR (Chemo Healthcare) | Strip of 10 delayed-release tablets | Not stated (99.0%)</li>
+<li>Zidane 40mg Capsule (Cyril Pharmaceuticals) | Strip of 10 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">View full drug report →</a></p>

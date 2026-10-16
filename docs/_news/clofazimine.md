@@ -3,7 +3,7 @@ layout: default
 title: "Clofazimine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clofazimine. Original indication: . 3 predicted indications."
+description: "Health news related to Clofazimine. Original indication: . 5 predicted indications."
 permalink: /news/clofazimine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clofazimine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clofazimine?">
-<strong>Clofazimine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Clofazimine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Clofazimine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>pneumocystosis (99.9%)</li>
-<li>malaria (99.6%)</li>
-<li>gastrin secretion abnormality (99.6%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lepromine 50mg Capsule | Strip of 10 capsules | Not listed (99.0%)</li>
+<li>Fazim 50mg Capsule | Strip of 10 capsules | Not listed (99.0%)</li>
+<li>Clofros 50mg Capsule | Strip of 10 capsules | Not listed (99.0%)</li>
+<li>Feza 50 Capsule | Strip of 10 capsules | Not listed (99.0%)</li>
+<li>Clofozine 50mg Capsule | Box of 100 capsules | Not listed (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clofazimine/' | relative_url }}">View full drug report →</a></p>

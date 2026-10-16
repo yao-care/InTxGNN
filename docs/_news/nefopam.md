@@ -3,7 +3,7 @@ layout: default
 title: "Nefopam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nefopam. Original indication: . 10 predicted indications."
+description: "Health news related to Nefopam. Original indication: . 3 predicted indications."
 permalink: /news/nefopam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nefopam/
 ---
 
 <p class="key-answer" data-question="What news is there about Nefopam?">
-<strong>Nefopam</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Nefopam</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,11 @@ This page combines the AI-predicted indications for Nefopam with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>craniostenosis cataract (100.0%)</li>
-<li>mature cataract (100.0%)</li>
-<li>diabetes mellitus type 2 associated cataract (100.0%)</li>
-<li>tetanic cataract (100.0%)</li>
-<li>immature cataract (100.0%)</li>
-<li>cortical cataract (100.0%)</li>
-<li>nuclear senile cataract (100.0%)</li>
-<li>senile cataract (100.0%)</li>
-<li>diabetic cataract (100.0%)</li>
-<li>lumbar spinal stenosis (100.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Nefodol Tablet (Medley Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Nefosar 20mg Injection (Abbott) | Ampoule of 1 ml injection | Not stated (99.0%)</li>
+<li>Nefosar Tablet (Abbott) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nefopam/' | relative_url }}">View full drug report →</a></p>

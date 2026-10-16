@@ -3,7 +3,7 @@ layout: default
 title: "Isoniazid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Isoniazid. Original indication: . 1 predicted indications."
+description: "Health news related to Isoniazid. Original indication: . 5 predicted indications."
 permalink: /news/isoniazid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isoniazid/
 ---
 
 <p class="key-answer" data-question="What news is there about Isoniazid?">
-<strong>Isoniazid</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Isoniazid</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Isoniazid with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>conjunctivitis (99.4%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Tibizim Forte Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>RF 3 150 mg/100 mg/500 mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Scc JR Plus 150 mg/75 mg/400 mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>CAVICIN E KIT | Packet of 1 kit | Not available (99.0%)</li>
+<li>Zyrifa Capsule | Strip of 10 capsules | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isoniazid/' | relative_url }}">View full drug report →</a></p>

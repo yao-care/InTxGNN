@@ -3,7 +3,7 @@ layout: default
 title: "Doxazosin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxazosin. Original indication: . 2 predicted indications."
+description: "Health news related to Doxazosin. Original indication: . 5 predicted indications."
 permalink: /news/doxazosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doxazosin/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxazosin?">
-<strong>Doxazosin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Doxazosin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Doxazosin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>migraine disorder (99.2%)</li>
-<li>migraine with brainstem aura (99.2%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Doxacard 4 Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated in records (99.0%)</li>
+<li>Doxapress 2mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in records (99.0%)</li>
+<li>Tendura Tablet (Adeka India Private Limited) | Strip of 10 tablets | Not stated in records (99.0%)</li>
+<li>Doxapress 1mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated in records (99.0%)</li>
+<li>Duracard 2mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxazosin/' | relative_url }}">View full drug report →</a></p>

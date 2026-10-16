@@ -3,7 +3,7 @@ layout: default
 title: "Verapamil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Verapamil. Original indication: . 7 predicted indications."
+description: "Health news related to Verapamil. Original indication: . 11 predicted indications."
 permalink: /news/verapamil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/verapamil/
 ---
 
 <p class="key-answer" data-question="What news is there about Verapamil?">
-<strong>Verapamil</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
+<strong>Verapamil</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,14 +24,19 @@ This page combines the AI-predicted indications for Verapamil with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (7)</strong>:<ul>
-<li>obsolete bundle branch block (99.6%)</li>
-<li>malignant renovascular hypertension (99.3%)</li>
-<li>malignant hypertensive renal disease (99.3%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.3%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.3%)</li>
-<li>Braddock syndrome (99.2%)</li>
-<li>periodic paralysis with transient compartment-like syndrome (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (11)</strong>:<ul>
+<li>Malignant renovascular hypertension | 99.27% | L5 | Class-level link through blood pressure lowering; the two retrieved papers do not test verapamil (99.0%)</li>
+<li>Malignant hypertensive renal disease | 99.27% | L5 | Plausible blood pressure effect; no specific data (99.0%)</li>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia | 99.26% | L4 | Only indirect preclinical data; calcium channel blockers may impair hypoxic pulmonary vasoconstriction and gas exchange (99.0%)</li>
+<li>Pulmonary hypertension with unclear multifactorial mechanism | 99.26% | L5 | Calcium channel blockers are used only in the small vasoreactive subset, and verapamil is generally avoided because of negative inotropy (99.0%)</li>
+<li>Braddock syndrome | 99.15% | L5 | No identifiable mechanistic rationale (99.0%)</li>
+<li>Periodic paralysis with transient compartment-like syndrome | 99.08% | L5 | Speculative channelopathy link only (99.0%)</li>
+<li>Calaptin 40 Tablet (Abbott) | Strip of 30 tablets | Not stated (99.0%)</li>
+<li>Vpl 5mg Injection (Samarth Life Sciences) | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>Verap 40mg Tablet (Mano Pharma) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Calaptin 240 SR Tablet (Abbott) | Strip of 15 sustained-release tablets | Not stated (99.0%)</li>
+<li>Vasopten 120mg Tablet (Torrent) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">View full drug report →</a></p>

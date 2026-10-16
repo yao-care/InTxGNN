@@ -3,7 +3,7 @@ layout: default
 title: "Estriol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Estriol. Original indication: . 1 predicted indications."
+description: "Health news related to Estriol. Original indication: . 5 predicted indications."
 permalink: /news/estriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estriol/
 ---
 
 <p class="key-answer" data-question="What news is there about Estriol?">
-<strong>Estriol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Estriol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Estriol with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>amenorrhea (disease) (99.2%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Evalon Cream | Vaginal cream, tube of 15 gm | Not stated (99.0%)</li>
+<li>Vagimoist Vaginal Cream | Vaginal cream, tube of 15 gm | Not stated (99.0%)</li>
+<li>Evalon 2mg Tablet | Tablet, strip of 30 | Not stated (99.0%)</li>
+<li>Evalon 1mg Tablet | Tablet, strip of 30 | Not stated (99.0%)</li>
+<li>Evolon Cream | Vaginal cream, tube of 15 gm | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estriol/' | relative_url }}">View full drug report →</a></p>

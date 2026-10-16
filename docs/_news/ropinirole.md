@@ -3,7 +3,7 @@ layout: default
 title: "Ropinirole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ropinirole. Original indication: . 10 predicted indications."
+description: "Health news related to Ropinirole. Original indication: . 5 predicted indications."
 permalink: /news/ropinirole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ropinirole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ropinirole?">
-<strong>Ropinirole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ropinirole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Ropinirole with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (100.0%)</li>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li>schizophrenia (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
-<li>atypical glycine encephalopathy (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ropark 0.5 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ropark XL 4 Tablet (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified (99.0%)</li>
+<li>Ropark 6mg Tablet XL (Sun Pharmaceutical) | Strip of 10 extended-release tablets | Not specified (99.0%)</li>
+<li>Ropitor 0.5mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ropikem 0.25mg Tablet (Chemo Healthcare) | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropinirole/' | relative_url }}">View full drug report →</a></p>

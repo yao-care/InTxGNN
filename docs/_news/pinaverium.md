@@ -24,8 +24,9 @@ This page combines the AI-predicted indications for Pinaverium with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>benign prostatic hyperplasia (disease) (99.2%)</li>
+<li>Eldicet Tablet (Abbott) | Strip of 10 tablets | Not stated in the registration data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pinaverium/' | relative_url }}">View full drug report →</a></p>

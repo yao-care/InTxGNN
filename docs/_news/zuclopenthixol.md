@@ -3,7 +3,7 @@ layout: default
 title: "Zuclopenthixol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zuclopenthixol. Original indication: . 9 predicted indications."
+description: "Health news related to Zuclopenthixol. Original indication: . 11 predicted indications."
 permalink: /news/zuclopenthixol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zuclopenthixol/
 ---
 
 <p class="key-answer" data-question="What news is there about Zuclopenthixol?">
-<strong>Zuclopenthixol</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Zuclopenthixol</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,19 @@ This page combines the AI-predicted indications for Zuclopenthixol with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>retinal dystrophy with or without extraocular anomalies (100.0%)</li>
-<li>hydranencephaly (disease) (100.0%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (100.0%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (100.0%)</li>
-<li>myopia X-linked (100.0%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (100.0%)</li>
-<li>syndromic myopia (100.0%)</li>
-<li>myopia 26, X-linked, female-limited (100.0%)</li>
-<li>atypical glycine encephalopathy (100.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (11)</strong>:<ul>
+<li>Hydranencephaly | No plausible link; receptor antagonism cannot restore absent brain tissue (99.0%)</li>
+<li>Congenital disorder of glycosylation with defective fucosylation | No action on glycosylation pathways (99.0%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G | No link; antipsychotic neurological adverse effects argue for caution (99.0%)</li>
+<li>Myopia, X-linked | Dopamine antagonism would be expected to act in the unfavourable direction (99.0%)</li>
+<li>Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | Developmental malformation; no link (99.0%)</li>
+<li>Syndromic myopia | Weak and unfavourable link via retinal dopamine (99.0%)</li>
+<li>Myopia 26, X-linked, female-limited | Same unfavourable direction as other myopia entries (99.0%)</li>
+<li>Atypical glycine encephalopathy | No clear link; seizure-threshold lowering is a concern (99.0%)</li>
+<li>Clopixol 50mg Injection | Vial of 1 ml injection | Not stated in the records (99.0%)</li>
+<li>Clopixol 100mg Injection | Vial of 2 ml injection | Not stated in the records (99.0%)</li>
+<li>Clopixol-Acuphase Injection | Vial of 1 ml injection | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zuclopenthixol/' | relative_url }}">View full drug report →</a></p>

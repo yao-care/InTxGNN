@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Dalteparin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>thrombophilia due to protein C deficiency, autosomal recessive (99.9%)</li>
-<li>primary release disorder of platelets (99.7%)</li>
-<li>pseudo-von Willebrand disease (99.5%)</li>
-<li>atypical hemolytic-uremic syndrome with thrombomodulin anomaly (99.3%)</li>
-<li>neuropathy, painful (99.2%)</li>
+<li>Fragmin 5000IU Injection (Pfizer Ltd) | Prefilled syringe of 0.2 ml solution for injection | Not stated in the licence record (99.0%)</li>
+<li>Fragmin 10000IU Injection (Pfizer Ltd) | Prefilled syringe of 1 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Fragmin 2500IU Injection (Pfizer Ltd) | Prefilled syringe of 0.2 ml solution for injection | Not stated in the licence record (99.0%)</li>
+<li>Daltehep 5000IU Injection (Gland Pharma Limited) | Vial of 2 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Daltepin 2500IU Injection (Intas Pharmaceuticals Ltd) | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dalteparin/' | relative_url }}">View full drug report →</a></p>

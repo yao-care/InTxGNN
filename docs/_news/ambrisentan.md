@@ -3,7 +3,7 @@ layout: default
 title: "Ambrisentan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ambrisentan. Original indication: . 10 predicted indications."
+description: "Health news related to Ambrisentan. Original indication: Other PAH subtypes (congenital heart disease, HIV,.... 5 predicted indications."
 permalink: /news/ambrisentan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ambrisentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Ambrisentan?">
-<strong>Ambrisentan</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ambrisentan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Ambrisentan with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>pulmonary arteriovenous malformation (disease) (99.4%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (99.4%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (99.3%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (99.3%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (99.3%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (99.3%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.2%)</li>
-<li>hypotrichosis simplex of the scalp (99.2%)</li>
-<li>hypertrichosis (disease) (99.1%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.1%)</li>
+<li><strong>Original indication</strong>: Other PAH subtypes (congenital heart disease, HIV, schistosomiasis, chronic haemolytic anaemia) share the same pathway. Their evidence ranges from small observational studies to nothing at all. The...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Endobloc T Combipack (Cipla Ltd) | Packet of 20 tablets | Not stated (99.0%)</li>
+<li>Zambri 5mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ambrican 5 Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Zambri 10mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ibitan 5mg Tablet (Indiabulls Pharmaceutical Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambrisentan/' | relative_url }}">View full drug report →</a></p>

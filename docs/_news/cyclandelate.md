@@ -3,7 +3,7 @@ layout: default
 title: "Cyclandelate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclandelate. Original indication: . 10 predicted indications."
+description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 5 predicted indications."
 permalink: /news/cyclandelate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclandelate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,14 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Prinzmetal angina (99.8%)</li>
-<li>Raynaud disease (99.7%)</li>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>pulmonary hypertension (99.5%)</li>
-<li>gout (99.4%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>benign prostatic hyperplasia (disease) (99.1%)</li>
-<li>exostosis (99.1%)</li>
-<li>peripheral vascular disease (99.0%)</li>
+<li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Cevadil 200mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>CYCLASYN 400MG Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Cyclo 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Cevadil 400mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>VASODAL 200MG Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
@@ -42,17 +39,17 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 
 ## Related News (2)
 
-### [How Are Stress, Depression, and Cardiovascular Risk Linked?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
+### [Working 55 hours a week? Cardiologists explain how long workdays, chronic stress and poor sleep could put your heart at risk - The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxOZUt1LUdZTUk1UmdnUUYxdkJxcjl1a1RPN0lieGYwdGFZeDVSLVhqNE1la1p1eTJscERGQmhobUxHNmhwOFFnTlRNeU0zQ0tieko1TkNNLUlVaEF1Tmp3R3M1amhXaGxsc1hYYWNwYzl0eHF3U3ZyazRYVHpXT1lxUjN0RzJWUnY4U0pWanpqZmszQmF6YVprc2ZVT1FLa3B3VmlKYUpCWEJXb3F0anRHSHozam9UeGNDMlJ4QUVwX2ZFVkFCNG1heVoxNS1xQjZSZ0ZaOTFHR2NFcmhUYXBHZmMwM1pjVjJSNjVHb1JxdEk0eFQxTDVkU3lVblNKOTdLbGV6a0ljU2NXWWxUbVA1OVVnNG1wb0h5bGfSAaICQVVfeXFMTWxSZnVUckhlb2h5MTQwaFJQcWNjY2VBeHVkVF9GYkJrNTF3M2xHdTZEeEdaREpTcVBHSm1LSHBmUUR0YUhVVGpUcHNDRFRkUGFQR2kwd2dEeGVfUkJPaWkybExrQ0pwbENyQkR1ODE4Q3lfTEEyaE10VDNkR0V2ekJmbDN0ejVOOEpyUmJNa2hHdzEzV29oN2stWERfX2R4clltMXp6eGpJbFE2Z0QxeWJnZlhLRFJJeV85UHBVUjFJT3A1YTVMTml3RlhoNkpaUGxhYXFjRnJlenFTZS1wX2NTbG1OVzFXMERuV1N5OFVGUlVDYTZRNExYaVdTbk1kM0ltSnlnQW9XVVlPczZkWkJQZFZEeFNXVGsxNjl3ODZLYlE?oc=5)
 
-2026-10-13 <span class="news-indication-tag">heart disease</span>
+2026-10-14 <span class="news-indication-tag">heart disease</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMimgJBVV95cUxOZUt1LUdZTUk1UmdnUUYxdkJxcjl1a1RPN0lieGYwdGFZeDVSLVhqNE1la1p1eTJscERGQmhobUxHNmhwOFFnTlRNeU0zQ0tieko1TkNNLUlVaEF1Tmp3R3M1amhXaGxsc1hYYWNwYzl0eHF3U3ZyazRYVHpXT1lxUjN0RzJWUnY4U0pWanpqZmszQmF6YVprc2ZVT1FLa3B3VmlKYUpCWEJXb3F0anRHSHozam9UeGNDMlJ4QUVwX2ZFVkFCNG1heVoxNS1xQjZSZ0ZaOTFHR2NFcmhUYXBHZmMwM1pjVjJSNjVHb1JxdEk0eFQxTDVkU3lVblNKOTdLbGV6a0ljU2NXWWxUbVA1OVVnNG1wb0h5bGfSAaICQVVfeXFMTWxSZnVUckhlb2h5MTQwaFJQcWNjY2VBeHVkVF9GYkJrNTF3M2xHdTZEeEdaREpTcVBHSm1LSHBmUUR0YUhVVGpUcHNDRFRkUGFQR2kwd2dEeGVfUkJPaWkybExrQ0pwbENyQkR1ODE4Q3lfTEEyaE10VDNkR0V2ekJmbDN0ejVOOEpyUmJNa2hHdzEzV29oN2stWERfX2R4clltMXp6eGpJbFE2Z0QxeWJnZlhLRFJJeV85UHBVUjFJT3A1YTVMTml3RlhoNkpaUGxhYXFjRnJlenFTZS1wX2NTbG1OVzFXMERuV1N5OFVGUlVDYTZRNExYaVdTbk1kM0ltSnlnQW9XVVlPczZkWkJQZFZEeFNXVGsxNjl3ODZLYlE?oc=5)
 
 ---
 
 ### [Hidden signals in sleep can predict future health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
-2026-10-12 <span class="news-indication-tag">cardiovascular</span>
+2026-10-12 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cardiovascular</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 

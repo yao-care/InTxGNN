@@ -3,7 +3,7 @@ layout: default
 title: "Tegafur News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tegafur. Original indication: . 10 predicted indications."
+description: "Health news related to Tegafur. Original indication: . 3 predicted indications."
 permalink: /news/tegafur/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tegafur/
 ---
 
 <p class="key-answer" data-question="What news is there about Tegafur?">
-<strong>Tegafur</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Tegafur</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,11 @@ This page combines the AI-predicted indications for Tegafur with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>colonic neoplasm (99.9%)</li>
-<li>cecum villous adenoma (99.9%)</li>
-<li>cecum neuroendocrine tumor G1 (99.8%)</li>
-<li>lipoma of colon (99.8%)</li>
-<li>cecal disease (99.8%)</li>
-<li>colon leiomyoma (99.8%)</li>
-<li>benign neoplasm of cecum (99.8%)</li>
-<li>rectosigmoid junction neoplasm (99.8%)</li>
-<li>colonic lymphangioma (99.8%)</li>
-<li>cavernous hemangioma of colon (99.8%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Tegafi 100mg/224mg Capsule (Intas Pharmaceuticals Ltd) | Strip of 14 capsules | Not stated in the data compiled for this report (99.0%)</li>
+<li>Luporal Capsule (Lupin Ltd) | Strip of 10 capsules | Not stated in the data compiled for this report (99.0%)</li>
+<li>Uratuf 100mg/224mg Capsule (Dr Reddy's Laboratories Ltd) | Strip of 14 capsules | Not stated in the data compiled for this report (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tegafur/' | relative_url }}">View full drug report →</a></p>

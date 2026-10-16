@@ -3,7 +3,7 @@ layout: default
 title: "Benzoic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Benzoic Acid. Original indication: . 10 predicted indications."
+description: "Health news related to Benzoic Acid. Original indication: . 0 predicted indications."
 permalink: /news/benzoic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/benzoic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Benzoic Acid?">
-<strong>Benzoic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Benzoic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>bronchitis (100.0%)</li>
-<li>severe nonproliferative diabetic retinopathy (100.0%)</li>
-<li>diabetic retinopathy (99.8%)</li>
-<li>dry eye syndrome (99.8%)</li>
-<li>palmar fibromatosis (99.8%)</li>
-<li>Ledderhose disease (99.8%)</li>
-<li>infantile digital fibromatosis (99.8%)</li>
-<li>hereditary angioedema with C1Inh deficiency (99.7%)</li>
-<li>posterior leukoencephalopathy syndrome (99.7%)</li>
-<li>C1 inhibitor deficiency (99.7%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/benzoic-acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/benzoic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

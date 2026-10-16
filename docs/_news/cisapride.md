@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Cisapride with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>peptic ulcer perforation (99.9%)</li>
-<li>gastrojejunal ulcer (99.9%)</li>
-<li>gastric ulcer (disease) (99.9%)</li>
-<li>gastroduodenitis (99.8%)</li>
-<li>peptic ulcer disease (99.5%)</li>
+<li>Prepulsid 10mg Tablet (Johnson & Johnson Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Peristil 5mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Peristil 1mg Suspension (Dr Reddy's Laboratories Ltd) | Bottle of 60 ml suspension | Not stated (99.0%)</li>
+<li>Esorid 10mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Gastro 10mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cisapride/' | relative_url }}">View full drug report →</a></p>

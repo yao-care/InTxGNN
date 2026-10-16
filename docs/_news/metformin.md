@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Metformin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,26 +24,21 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>focal stiff limb syndrome (99.5%)</li>
-<li>classic stiff person syndrome (99.5%)</li>
-<li>opsismodysplasia (99.4%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.4%)</li>
-<li>drug-induced localized lipodystrophy (99.1%)</li>
+<li>Ramyglyn M 500mg/20mg Tablet | Strip of 10 tablets | Ramylabs Health Care (99.0%)</li>
+<li>Galvus Met 50mg/500mg Tablet | Strip of 15 tablets | Novartis India Ltd (99.0%)</li>
+<li>Endoformin 1000mg Tablet SR | Strip of 10 SR tablets | Precia Pharma (99.0%)</li>
+<li>Tenlivas M 1000mg/20mg Tablet ER | Strip of 10 ER tablets | Kasnav Pharma (99.0%)</li>
+<li>Torglip M SR 500 Tablet | Strip of 10 SR tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [High-Fiber Diet vs. Metformin: Surprising Trial Results - Diabetes In Control](https://news.google.com/rss/articles/CBMieEFVX3lxTE9kbW5LZEVOdjB3em9vaGJGUnBpbEVRWUtlaG1qdWUwd3VSbzhwNzVOVkd6WUp2V25GNGlRdzlJajN5VWRNNW5OVUxhQ19NOHFCbnZ6elFtRHd4bHpISDVIcnJtZDU0YTZJY2lvbGYzVkU1aGdFZFV5dw?oc=5)
-
-2026-10-15 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span>
-
-Source: [Diabetes In Control](https://news.google.com/rss/articles/CBMieEFVX3lxTE9kbW5LZEVOdjB3em9vaGJGUnBpbEVRWUtlaG1qdWUwd3VSbzhwNzVOVkd6WUp2V25GNGlRdzlJajN5VWRNNW5OVUxhQ19NOHFCbnZ6elFtRHd4bHpISDVIcnJtZDU0YTZJY2lvbGYzVkU1aGdFZFV5dw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

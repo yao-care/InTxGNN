@@ -3,7 +3,7 @@ layout: default
 title: "Methylphenidate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Methylphenidate. Original indication: . 4 predicted indications."
+description: "Health news related to Methylphenidate. Original indication: . 5 predicted indications."
 permalink: /news/methylphenidate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methylphenidate/
 ---
 
 <p class="key-answer" data-question="What news is there about Methylphenidate?">
-<strong>Methylphenidate</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Methylphenidate</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Methylphenidate with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>chondromyxoid fibroma (100.0%)</li>
-<li>specific developmental disorder (100.0%)</li>
-<li>dysthymic disorder (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Concerta 36mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd (99.0%)</li>
+<li>Concerta 18mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd (99.0%)</li>
+<li>Concerta 54mg Tablet | Strip of 30 tablets | Johnson & Johnson Ltd (99.0%)</li>
+<li>Inspiral 10mg Tablet SR | Strip of 10 tablets SR | Ipca Laboratories Ltd (99.0%)</li>
+<li>Addwize OD 18mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methylphenidate/' | relative_url }}">View full drug report →</a></p>

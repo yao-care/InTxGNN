@@ -3,7 +3,7 @@ layout: default
 title: "Streptomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Streptomycin. Original indication: . 10 predicted indications."
+description: "Health news related to Streptomycin. Original indication: . 9 predicted indications."
 permalink: /news/streptomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/streptomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Streptomycin?">
-<strong>Streptomycin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Streptomycin</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,17 @@ This page combines the AI-predicted indications for Streptomycin with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>conjunctivitis (99.9%)</li>
-<li>postinfectious vasculitis (99.9%)</li>
-<li>post-bacterial disorder (99.9%)</li>
-<li>post-infectious syndrome (99.8%)</li>
-<li>infective urethral stricture (99.8%)</li>
-<li>otitis externa (99.8%)</li>
-<li>Chagas cardiomyopathy (99.8%)</li>
-<li>infection-related hemolytic uremic syndrome (99.8%)</li>
-<li>Lyme disease (99.7%)</li>
-<li>infectious otitis interna (99.7%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Postinfectious vasculitis | 99.86% | L5 | No evidence; immune-mediated, antibacterial unlikely to help (99.0%)</li>
+<li>Post-bacterial disorder | 99.86% | L5 | No evidence; vague category (99.0%)</li>
+<li>Post-infectious syndrome | 99.85% | L5 | No evidence; non-specific category (99.0%)</li>
+<li>Infective urethral stricture | 99.85% | L4 | Only historical TB case reports; extension of the TB indication, does not reverse fibrotic strictures (99.0%)</li>
+<li>Otitis externa | 99.85% | L4 | 1947 case series and veterinary or in vitro data; ototoxicity concern (99.0%)</li>
+<li>Chagas cardiomyopathy | 99.83% | L5 | No evidence; the pathogen is a protozoan (99.0%)</li>
+<li>Infection-related hemolytic uremic syndrome | 99.82% | L5 | Conflicts with standard care (antibiotics avoided in STEC-HUS; nephrotoxicity) (99.0%)</li>
+<li>Lyme disease | 99.66% | L4 | Literature concerns resistance genes as lab markers, not therapy; standard drugs are effective (99.0%)</li>
+<li>Infectious otitis interna | 99.65% | L5 | Likely false positive; streptomycin is vestibulotoxic and cochleotoxic (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/streptomycin/' | relative_url }}">View full drug report →</a></p>

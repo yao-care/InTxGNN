@@ -3,7 +3,7 @@ layout: default
 title: "Caffeine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Caffeine. Original indication: . 10 predicted indications."
+description: "Health news related to Caffeine. Original indication: . 5 predicted indications."
 permalink: /news/caffeine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>nasal cavity disease (99.9%)</li>
-<li>thrombotic disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>neuralgia (99.3%)</li>
-<li>glossodynia (99.3%)</li>
-<li>coccygodynia (99.2%)</li>
-<li>trigeminal autonomic cephalalgia (99.2%)</li>
-<li>hypnic headache (disease) (99.2%)</li>
-<li>vein disease (99.1%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Snokey Cold Plus Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Signcold Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>NT Grain Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Vinoryl Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Makzine P Tablet | Strip of 10 tablets | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>

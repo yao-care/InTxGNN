@@ -3,7 +3,7 @@ layout: default
 title: "Ivabradine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ivabradine. Original indication: . 6 predicted indications."
+description: "Health news related to Ivabradine. Original indication: . 10 predicted indications."
 permalink: /news/ivabradine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ivabradine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivabradine?">
-<strong>Ivabradine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Ivabradine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,18 @@ This page combines the AI-predicted indications for Ivabradine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>hypertrichosis (disease) (99.8%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.7%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.7%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.7%)</li>
-<li>isolated genetic hair shaft abnormality (99.7%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita | 99.72% | Genetic rearrangement near TRPS1 (chromosome 8q22); no plausible link to HCN blockade (99.0%)</li>
+<li>Malformation syndrome with odontal and/or periodontal component | 99.72% | Broad developmental category; no known role of ivabradine in tooth or periodontal development (99.0%)</li>
+<li>Syndrome with a Dandy-Walker malformation as major feature | 99.70% | Structural brain malformation; not a plausible pharmacological target (99.0%)</li>
+<li>Isolated genetic hair shaft abnormality | 99.69% | Structural keratin or protein defects; no link to HCN channels (99.0%)</li>
+<li>Nephrogenic syndrome of inappropriate antidiuresis | 99.08% | Caused by gain-of-function AVPR2 mutations; ivabradine does not act on this pathway (99.0%)</li>
+<li>StayHappi Ivabradine 5mg Tablet (Sarvagunaushdhi Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Beat HF 5 Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ivabratco 5 Tablet (Natco Pharma Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ivaniche 15mg Tablet (Alniche Life Sciences Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Ivabid OD 15mg Tablet (Abbott) | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ivabradine/' | relative_url }}">View full drug report →</a></p>

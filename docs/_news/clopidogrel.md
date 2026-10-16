@@ -3,7 +3,7 @@ layout: default
 title: "Clopidogrel News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clopidogrel. Original indication: . 10 predicted indications."
+description: "Health news related to Clopidogrel. Original indication: . 5 predicted indications."
 permalink: /news/clopidogrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Clopidogrel?">
-<strong>Clopidogrel</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Clopidogrel</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Clopidogrel with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>migraine disorder (99.4%)</li>
-<li>osteoarthritis (99.2%)</li>
-<li>tendinitis (99.2%)</li>
-<li>idiopathic granulomatous myositis (99.1%)</li>
-<li>myositis fibrosa (99.1%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>osteoarthritis susceptibility (99.0%)</li>
-<li>pseudoachondroplasia (98.9%)</li>
-<li>fibromyalgia (98.9%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Superclop 150mg Tablet (Eris Lifesciences) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Ecogrel 75 Tablet (Toubib Pharma) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Zeter Tablet (Kopran) | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Clopitab Tablet (Lupin) | Strip of 15 tablets | Not available (99.0%)</li>
+<li>Clopivas 75 Tablet (Cipla) | Strip of 15 tablets | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">View full drug report →</a></p>

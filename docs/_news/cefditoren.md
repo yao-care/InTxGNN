@@ -3,7 +3,7 @@ layout: default
 title: "Cefditoren News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefditoren. Original indication: . 10 predicted indications."
+description: "Health news related to Cefditoren. Original indication: . 5 predicted indications."
 permalink: /news/cefditoren/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefditoren/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefditoren?">
-<strong>Cefditoren</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Cefditoren</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Cefditoren with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>osteoarthritis susceptibility (99.2%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>osteoarthritis (99.0%)</li>
-<li>hemoglobinopathy (98.7%)</li>
-<li>brachyolmia (98.4%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (98.3%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (98.3%)</li>
-<li>myosclerosis (98.2%)</li>
-<li>partial deletion of the short arm of chromosome 16 (98.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Zostum O 100mg Dry Syrup | Bottle of 30 ml dry syrup | Not stated (99.0%)</li>
+<li>Cefdicare 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Ceftorin 200mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
+<li>Zostum-O 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Zostum-O 50mg Tablet DT | Strip of 10 dispersible tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefditoren/' | relative_url }}">View full drug report →</a></p>

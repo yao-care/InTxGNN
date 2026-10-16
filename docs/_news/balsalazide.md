@@ -14,7 +14,7 @@ permalink: /news/balsalazide/
 ---
 
 <p class="key-answer" data-question="What news is there about Balsalazide?">
-<strong>Balsalazide</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Balsalazide</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>gout (99.8%)</li>
 <li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
@@ -40,13 +41,29 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <p><a href="{{ '/drugs/balsalazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">RA</span>
+
+Source: [orfonline.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
+
+---
 
 ### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
 
 2026-10-16 <span class="news-indication-tag">joint pain</span>
 
 Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
+
+---
+
+### [Hyderabad doctors warn of back and neck pain from long commutes and poor roads - Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
 
 ---
 

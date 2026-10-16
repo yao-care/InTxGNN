@@ -3,7 +3,7 @@ layout: default
 title: "Diltiazem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Diltiazem. Original indication: . 1 predicted indications."
+description: "Health news related to Diltiazem. Original indication: . 5 predicted indications."
 permalink: /news/diltiazem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>obsolete susceptibility to ischemic stroke (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Ionozem CD 120mg Tablet | Strip of 10 tablets | Pfizer Ltd (99.0%)</li>
+<li>Q-DIL 90MG TABLET | Strip of 10 tablets | Aurobindo Pharma Ltd (99.0%)</li>
+<li>Diltime 30mg Tablet | Strip of 10 tablets | Zydus Cadila (99.0%)</li>
+<li>Dilcardia 90mg Tablet SR | Strip of 10 SR tablets | J B Chemicals and Pharmaceuticals Ltd (99.0%)</li>
+<li>Channel 60mg Tablet | Strip of 10 tablets | Micro Labs Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Lidocaine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lidocaine. Original indication: . 10 predicted indications."
+description: "Health news related to Lidocaine. Original indication: . 5 predicted indications."
 permalink: /news/lidocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lidocaine/
 ---
 
 <p class="key-answer" data-question="What news is there about Lidocaine?">
-<strong>Lidocaine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Lidocaine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Lidocaine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>rosacea conjunctivitis (99.9%)</li>
-<li>exposure keratitis (99.9%)</li>
-<li>atopic conjunctivitis (99.9%)</li>
-<li>conjunctival disorder (99.8%)</li>
-<li>nephrotic syndrome (99.8%)</li>
-<li>non-human animal disease (99.8%)</li>
-<li>tinea corporis (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.8%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Lidofix 2% Injection | Vial of 30 ml injection | Not stated (99.0%)</li>
+<li>Lignocip 2% Injection (Cipla) | Vial of 30 ml injection | Not stated (99.0%)</li>
+<li>Lignox 2% Gel (Indoco) | Tube of 30 gm gel | Not stated (99.0%)</li>
+<li>Skore Not Out Lidocaine Topical Spray | Bottle of 12 gm spray | Not stated (99.0%)</li>
+<li>Ilidotrans Transdermal Patch | Box of 2 transdermal patches | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">View full drug report →</a></p>

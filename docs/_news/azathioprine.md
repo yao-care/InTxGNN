@@ -3,7 +3,7 @@ layout: default
 title: "Azathioprine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Azathioprine. Original indication: . 10 predicted indications."
+description: "Health news related to Azathioprine. Original indication: . 5 predicted indications."
 permalink: /news/azathioprine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,31 +24,19 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>osteoarthritis susceptibility (99.7%)</li>
-<li>WHIM syndrome (99.7%)</li>
-<li>inflammatory bowel disease (99.5%)</li>
-<li>granulomatous disease, chronic, autosomal recessive, 5 (99.4%)</li>
-<li class="indication-matched">osteoarthritis (99.4%)<span class="indication-tag">📰 osteoarthritis</span></li>
-<li>granulomatous disease with defect in neutrophil chemotaxis (99.4%)</li>
-<li>ulcerative colitis (disease) (99.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Azatoz 50mg Tablet | Strip of 10 tablets | Cytoz Pharmaceuticals (99.0%)</li>
+<li>Azawan Tablet | Strip of 10 tablets | Rowan Bioceuticals Pvt Ltd (99.0%)</li>
+<li>Aprin 50mg Tablet | Strip of 10 tablets | Aegis Pharmaceuticals (99.0%)</li>
+<li>Azoalfa 50 Tablet | Strip of 10 tablets | Alniche Life Sciences Pvt Ltd (99.0%)</li>
+<li>Vaprin Tablet | Strip of 10 tablets | Zydus Cadila (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Column | Scientists may have the key to treating arthritis: Regrowing the knee - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
-
-2026-10-15 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
-
----
+## Related News (1)
 
 ### [Ageing doesn’t have to slow your knees down, here’s what helps - The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5)
 

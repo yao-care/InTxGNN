@@ -3,7 +3,7 @@ layout: default
 title: "Dipyridamole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dipyridamole. Original indication: . 10 predicted indications."
+description: "Health news related to Dipyridamole. Original indication: . 5 predicted indications."
 permalink: /news/dipyridamole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dipyridamole?">
-<strong>Dipyridamole</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Dipyridamole</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Prinzmetal angina (100.0%)</li>
-<li>stroke disorder (100.0%)</li>
-<li>thrombotic disease (99.9%)</li>
-<li>sick sinus syndrome 2, autosomal dominant (99.9%)</li>
-<li>transient ischemic attack (disease) (99.9%)</li>
-<li>sarcoglycanopathy (99.8%)</li>
-<li>Wildervanck syndrome (99.8%)</li>
-<li>macrocephaly, dysmorphic facies, and psychomotor retardation (99.8%)</li>
-<li>cavernous sinus thrombosis (99.7%)</li>
-<li>lateral sinus thrombosis (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Infartin 60 Tablet | Strip of 30 tablets | Not specified (99.0%)</li>
+<li>Thrombonil 75mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Persantin 100mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Cardiwell 75mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Cardiwell 100mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">View full drug report →</a></p>

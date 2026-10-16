@@ -3,7 +3,7 @@ layout: default
 title: "Etizolam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Etizolam. Original indication: . 1 predicted indications."
+description: "Health news related to Etizolam. Original indication: . 5 predicted indications."
 permalink: /news/etizolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etizolam/
 ---
 
 <p class="key-answer" data-question="What news is there about Etizolam?">
-<strong>Etizolam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Etizolam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Etizolam with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>insomnia (disease) (99.9%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Etirest 0.5 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Etizola Beta 0.5 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Zolamed 0.5mg Tablet (Medirin Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Zolavil 0.5mg Tablet MD (Viltis Pharma Private Limited) | Strip of 10 tablets MD | Not specified (99.0%)</li>
+<li>Inxity 0.5mg Tablet (Archicare Limited) | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etizolam/' | relative_url }}">View full drug report →</a></p>

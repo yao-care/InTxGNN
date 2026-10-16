@@ -3,7 +3,7 @@ layout: default
 title: "Butenafine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Butenafine. Original indication: . 5 predicted indications."
+description: "Health news related to Butenafine. Original indication: . 4 predicted indications."
 permalink: /news/butenafine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/butenafine/
 ---
 
 <p class="key-answer" data-question="What news is there about Butenafine?">
-<strong>Butenafine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Butenafine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,12 @@ This page combines the AI-predicted indications for Butenafine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>cutaneous candidiasis (99.3%)</li>
-<li>superficial mycosis (99.0%)</li>
-<li>endothrix infectious disease (99.0%)</li>
-<li>Majocchi granuloma (99.0%)</li>
-<li>ectothrix infectious disease (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Butenaskin Cream | Cream, tube of 15 gm | Not stated in the records (99.0%)</li>
+<li>Kutica Cream | Cream, tube of 15 gm | Not stated in the records (99.0%)</li>
+<li>Tenafin Cream | Cream, tube of 10 gm | Not stated in the records (99.0%)</li>
+<li>Exebute Cream | Cream, tube of 15 gm | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/butenafine/' | relative_url }}">View full drug report →</a></p>

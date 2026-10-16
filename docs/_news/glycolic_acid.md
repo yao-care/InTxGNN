@@ -3,7 +3,7 @@ layout: default
 title: "Glycolic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glycolic Acid. Original indication: . 10 predicted indications."
+description: "Health news related to Glycolic Acid. Original indication: . 0 predicted indications."
 permalink: /news/glycolic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycolic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycolic Acid?">
-<strong>Glycolic Acid</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Glycolic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,8 @@ This page combines the AI-predicted indications for Glycolic Acid with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>atypical coarctation of aorta (99.7%)</li>
-<li>non-syndromic esophageal malformation (99.7%)</li>
-<li>esophageal disease (99.7%)</li>
-<li>potassium deficiency disease (99.7%)</li>
-<li>aortic malformation (99.6%)</li>
-<li>sclerosing cholangitis (99.6%)</li>
-<li>disorder of carbohydrate absorption and transport (99.5%)</li>
-<li>hyperinsulinemic hypoglycemia, familial (99.5%)</li>
-<li>autosomal recessive hyperinsulinism due to SUR1 deficiency (99.4%)</li>
-<li>diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency (99.4%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/glycolic-acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/glycolic_acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

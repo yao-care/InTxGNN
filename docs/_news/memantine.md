@@ -3,7 +3,7 @@ layout: default
 title: "Memantine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Memantine. Original indication: . 4 predicted indications."
+description: "Health news related to Memantine. Original indication: he TxGNN model's top-ranked prediction is **pulmon.... 8 predicted indications."
 permalink: /news/memantine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memantine/
 ---
 
 <p class="key-answer" data-question="What news is there about Memantine?">
-<strong>Memantine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Memantine</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,17 @@ This page combines the AI-predicted indications for Memantine with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>pulmonary hypertension (99.5%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
+<li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **pulmonary hypertension** (score 99.5%), but this rests on model prediction alone, with **0 clinical trials** and **2 publications**, neither of which...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>Migraine disorder | 99.52% | L1 (nominal) | Research question, worth pursuing (99.0%)</li>
+<li>Kyphoscoliotic heart disease | 99.43% | L5 | Hold (99.0%)</li>
+<li>Migraine with brainstem aura | 99.41% | L4 | Research question (99.0%)</li>
+<li>Larentine 5 Tablet (La Renon Healthcare) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Mentagen 10mg Tablet (Cellgen Biopharma) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Memantal 5mg Tablet (East West Pharma) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Demenzil 10mg Tablet (Alkem Laboratories) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Dmentin 5mg Tablet MD (Micro Labs) | Strip of 10 tablets (MD) | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/memantine/' | relative_url }}">View full drug report →</a></p>

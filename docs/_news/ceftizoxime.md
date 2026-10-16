@@ -3,7 +3,7 @@ layout: default
 title: "Ceftizoxime News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ceftizoxime. Original indication: . 6 predicted indications."
+description: "Health news related to Ceftizoxime. Original indication: . 5 predicted indications."
 permalink: /news/ceftizoxime/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ceftizoxime/
 ---
 
 <p class="key-answer" data-question="What news is there about Ceftizoxime?">
-<strong>Ceftizoxime</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Ceftizoxime</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Ceftizoxime with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>gonococcal urethritis (99.9%)</li>
-<li>Ureaplasma urethritis (99.9%)</li>
-<li>xanthogranulomatous pyelonephritis (99.9%)</li>
-<li>uterine inflammatory disease (99.9%)</li>
-<li>epiglottitis (99.5%)</li>
-<li>urogenital tuberculosis (99.5%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Unizox 1gm Injection | Vial of 20 ml injection | Not stated in the license records (99.0%)</li>
+<li>Cefizox 500mg Injection (Glaxo SmithKline) | Vial of 1 injection | Not stated in the license records (99.0%)</li>
+<li>Eldcef 250mg Injection | Vial of 5 ml injection | Not stated in the license records (99.0%)</li>
+<li>Epocelin 1gm Injection | Vial of 1 injection | Not stated in the license records (99.0%)</li>
+<li>Trizox 1mg Injection | Vial of 1 powder for injection | Not stated in the license records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceftizoxime/' | relative_url }}">View full drug report →</a></p>

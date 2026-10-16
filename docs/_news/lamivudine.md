@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Lamivudine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
-<li>obsolete familial combined hyperlipidemia (99.6%)</li>
-<li>chronic hepatitis C virus infection (99.1%)</li>
+<li>Lamidac 100mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li>Heptavir 150mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li>Lavir 150mg Tablet | Bottle of 60 tablets | Not stated in the licence record (99.0%)</li>
+<li>Virolam 150mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li>Trilavir L Tablet | Bottle of 30 tablets | Not stated in the licence record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">View full drug report →</a></p>

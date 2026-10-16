@@ -3,7 +3,7 @@ layout: default
 title: "Xylitol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Xylitol. Original indication: . 1 predicted indications."
+description: "Health news related to Xylitol. Original indication: he TxGNN model predicts it may be effective for **.... 2 predicted indications."
 permalink: /news/xylitol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/xylitol/
 ---
 
 <p class="key-answer" data-question="What news is there about Xylitol?">
-<strong>Xylitol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Xylitol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,11 @@ This page combines the AI-predicted indications for Xylitol with the latest heal
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>meningococcal infection (99.7%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **meningococcal infection**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model...</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Wysliva Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Salitol Tablet | Bottle of 60 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/xylitol/' | relative_url }}">View full drug report →</a></p>

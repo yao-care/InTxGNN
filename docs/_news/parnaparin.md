@@ -3,7 +3,7 @@ layout: default
 title: "Parnaparin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Parnaparin. Original indication: . 3 predicted indications."
+description: "Health news related to Parnaparin. Original indication: . 4 predicted indications."
 permalink: /news/parnaparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/parnaparin/
 ---
 
 <p class="key-answer" data-question="What news is there about Parnaparin?">
-<strong>Parnaparin</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Parnaparin</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,12 @@ This page combines the AI-predicted indications for Parnaparin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>breast fibrocystic disease (99.2%)</li>
-<li>thrombophilia due to protein C deficiency, autosomal recessive (99.1%)</li>
-<li>benign mammary dysplasia (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Fluxum 3200IU Injection (USV Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Fluxium Injection (Swiss Pharma Pvt Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Fluxum 6400IU Injection (USV Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li>Fluxum 4250IU Injection (USV Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/parnaparin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Vancomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vancomycin. Original indication: . 10 predicted indications."
+description: "Health news related to Vancomycin. Original indication: . 5 predicted indications."
 permalink: /news/vancomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vancomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Vancomycin?">
-<strong>Vancomycin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Vancomycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Vancomycin with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>diffuse scleroderma (99.9%)</li>
-<li>paratyphoid fever (99.8%)</li>
-<li>salmonellosis (99.8%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>polyclonal hyperviscosity syndrome (99.8%)</li>
-<li>hyperamylasemia (99.8%)</li>
-<li>typhoid fever (99.8%)</li>
-<li>blood group incompatibility (99.6%)</li>
-<li>streptococcal pneumonia (99.6%)</li>
-<li>premalignant hematological system disease (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Vancoled 1gm Injection (Pfizer Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li>Vancoled 500mg Injection (Pfizer Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li>Vancocin 500mg Injection (Eli Lilly and Company India Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li>Vancocin CP 500mg Injection (AstraZeneca) | Vial of 10 ml injection | Not available (99.0%)</li>
+<li>Vancomate 500mg Injection (Baxter India Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">View full drug report →</a></p>

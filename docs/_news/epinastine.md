@@ -3,7 +3,7 @@ layout: default
 title: "Epinastine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Epinastine. Original indication: . 2 predicted indications."
+description: "Health news related to Epinastine. Original indication: . 4 predicted indications."
 permalink: /news/epinastine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epinastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinastine?">
-<strong>Epinastine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Epinastine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,12 @@ This page combines the AI-predicted indications for Epinastine with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>rosacea conjunctivitis (99.6%)</li>
-<li>allergic urticaria (99.3%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Relestat Ophthalmic Solution (Allergan India Pvt Ltd) | 5 ml ophthalmic solution | Not specified (99.0%)</li>
+<li>Estina Eye Drop (Entod Pharmaceuticals Ltd) | 5 ml eye drop | Not specified (99.0%)</li>
+<li>Eparto Eye Drop (Neiss Labs Pvt Ltd) | 5 ml eye drop | Not specified (99.0%)</li>
+<li>Epitane Eye Drop (Micro Labs Ltd) | 5 ml eye drop | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/epinastine/' | relative_url }}">View full drug report →</a></p>

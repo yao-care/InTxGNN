@@ -3,7 +3,7 @@ layout: default
 title: "Naproxen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Naproxen. Original indication: . 4 predicted indications."
+description: "Health news related to Naproxen. Original indication: . 5 predicted indications."
 permalink: /news/naproxen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naproxen/
 ---
 
 <p class="key-answer" data-question="What news is there about Naproxen?">
-<strong>Naproxen</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Naproxen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Naproxen with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>brachydactyly-syndactyly syndrome (99.3%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.2%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.1%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Xenap 250 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Nalyxan 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Napsea Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Naprosyn 125mg Suspension | Bottle of 60 ml suspension | Not stated (99.0%)</li>
+<li>Naxdom 250 Tablet | Strip of 15 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naproxen/' | relative_url }}">View full drug report →</a></p>

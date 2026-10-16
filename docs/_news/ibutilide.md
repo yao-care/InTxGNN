@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Ibutilide with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>rheumatoid arthritis (99.3%)</li>
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.3%)</li>

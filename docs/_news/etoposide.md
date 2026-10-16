@@ -3,7 +3,7 @@ layout: default
 title: "Etoposide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Etoposide. Original indication: . 10 predicted indications."
+description: "Health news related to Etoposide. Original indication: . 15 predicted indications."
 permalink: /news/etoposide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etoposide/
 ---
 
 <p class="key-answer" data-question="What news is there about Etoposide?">
-<strong>Etoposide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Etoposide</strong> currently has <strong>0 news articles</strong>, with 15 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,23 @@ This page combines the AI-predicted indications for Etoposide with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.9%)</li>
-<li>primary pulmonary lymphoma (99.9%)</li>
-<li>pulmonary blastoma (99.9%)</li>
-<li>Ewing sarcoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.7%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (15)</strong>:<ul>
+<li>Well-differentiated fetal adenocarcinoma of the lung | 99.94% | L4 | Hold (99.0%)</li>
+<li>Primary pulmonary lymphoma | 99.94% | L4 | Hold (99.0%)</li>
+<li>Pulmonary blastoma | 99.94% | L3 | Research question (99.0%)</li>
+<li>**Ewing sarcoma** | 99.85% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>Botryoid-type embryonal rhabdomyosarcoma of the vagina | 99.80% | L4 | Hold (99.0%)</li>
+<li>**Rhabdomyosarcoma** | 99.79% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>Embryonal extrahepatic bile duct rhabdomyosarcoma | 99.76% | L5 | Hold (99.0%)</li>
+<li>Parameningeal embryonal rhabdomyosarcoma | 99.76% | L4 | Hold (99.0%)</li>
+<li>Extrahepatic bile duct rhabdomyosarcoma | 99.75% | L5 | Hold (99.0%)</li>
+<li>Prostate embryonal rhabdomyosarcoma | 99.74% | L4 | Hold (99.0%)</li>
+<li>Etonco 100mg Injection | Vial of 1 injection | Not provided (99.0%)</li>
+<li>Fytosid 100mg Injection | Vial of 5 ml injection | Not provided (99.0%)</li>
+<li>Posid 100mg Injection | Vial of 5 ml injection | Not provided (99.0%)</li>
+<li>Posid 100mg Capsule | Strip of 4 capsules | Not provided (99.0%)</li>
+<li>Etoplast 50mg Capsule | Strip of 12 capsules | Not provided (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etoposide/' | relative_url }}">View full drug report →</a></p>

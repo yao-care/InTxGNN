@@ -3,7 +3,7 @@ layout: default
 title: "Efavirenz News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Efavirenz. Original indication: . 3 predicted indications."
+description: "Health news related to Efavirenz. Original indication: . 5 predicted indications."
 permalink: /news/efavirenz/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/efavirenz/
 ---
 
 <p class="key-answer" data-question="What news is there about Efavirenz?">
-<strong>Efavirenz</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Efavirenz</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Efavirenz with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.8%)</li>
-<li>feline acquired immunodeficiency syndrome (99.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Efavir 200mg Tablet (Cipla Ltd) | Bottle of 60 tablets | Not specified (99.0%)</li>
+<li>Efamat 600mg Tablet (Mylan Pharmaceuticals Pvt Ltd) | Strip of 30 tablets | Not specified (99.0%)</li>
+<li>Efavir 200mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not specified (99.0%)</li>
+<li>Evirenz 200mg Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Effahope 600mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 30 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efavirenz/' | relative_url }}">View full drug report →</a></p>

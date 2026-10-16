@@ -3,7 +3,7 @@ layout: default
 title: "Dicyclomine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dicyclomine. Original indication: . 2 predicted indications."
+description: "Health news related to Dicyclomine. Original indication: . 5 predicted indications."
 permalink: /news/dicyclomine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dicyclomine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dicyclomine?">
-<strong>Dicyclomine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Dicyclomine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,13 @@ This page combines the AI-predicted indications for Dicyclomine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>cauda equina syndrome (99.7%)</li>
-<li>obsolete neurogenic bladder (disease) (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Cefospas Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Jonyspas Plus 20mg/250mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li>Colispas Paed Oral Drops | Packet of 10 ml oral drops | Not available (99.0%)</li>
+<li>Remigan 10 mg/40 mg Drop | Packet of 15 ml drop | Not available (99.0%)</li>
+<li>Topspas Injection | Vial of 2 ml injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dicyclomine/' | relative_url }}">View full drug report →</a></p>

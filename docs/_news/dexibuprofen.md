@@ -3,7 +3,7 @@ layout: default
 title: "Dexibuprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexibuprofen. Original indication: . 10 predicted indications."
+description: "Health news related to Dexibuprofen. Original indication: . 5 predicted indications."
 permalink: /news/dexibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexibuprofen?">
-<strong>Dexibuprofen</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Dexibuprofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Dexibuprofen with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>brachydactyly-syndactyly syndrome (99.9%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.8%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.8%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.8%)</li>
-<li>myosclerosis (99.8%)</li>
-<li>brachyolmia (99.8%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>spondyloarthropathy, susceptibility to (99.7%)</li>
-<li>ankylosing spondylitis (99.7%)</li>
-<li>WHIM syndrome (99.7%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Debura 300 mg/500 mg Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
+<li>Nuprin 200 Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
+<li>Nuprin 300mg Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
+<li>Ibusoft 400mg Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
+<li>Nuprin Plus Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexibuprofen/' | relative_url }}">View full drug report →</a></p>

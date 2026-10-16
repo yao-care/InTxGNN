@@ -3,7 +3,7 @@ layout: default
 title: "Silodosin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Silodosin. Original indication: . 6 predicted indications."
+description: "Health news related to Silodosin. Original indication: . 10 predicted indications."
 permalink: /news/silodosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="What news is there about Silodosin?">
-<strong>Silodosin</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Silodosin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,18 @@ This page combines the AI-predicted indications for Silodosin with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>familial isolated trichomegaly (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Hypertrichosis | 99.99% | Computational only; direction of effect unestablished (99.0%)</li>
+<li>Malformation syndrome with odontal and/or periodontal component | 99.99% | No identifiable mechanistic link; likely graph-neighbourhood similarity (99.0%)</li>
+<li>Syndrome with Dandy-Walker malformation as major feature | 99.98% | Structural brain anomaly not expected to respond to an alpha-blocker (99.0%)</li>
+<li>Isolated genetic hair shaft abnormality | 99.98% | Hair shaft structure is determined by genetic defects, with no evidence of alpha-1A involvement (99.0%)</li>
+<li>Familial isolated trichomegaly | 99.23% | Speculative and unverified (99.0%)</li>
+<li>Bphlo S 8mg Tablet | Strip of 10 tablets | Renauxe Pharma India Pvt Ltd (99.0%)</li>
+<li>Maxvoid 8 Tablet | Strip of 15 tablets | Alkem Laboratories Ltd (99.0%)</li>
+<li>DavaIndia Silodosin 4mg Capsule | Strip of 10 capsules | Davaindia Generic Pharmacy (99.0%)</li>
+<li>Silotag 8mg Capsule | Strip of 10 capsules | Jaiwik Biotech (99.0%)</li>
+<li>Prostagard-D8 Capsule | Strip of 10 capsules | Aristo Pharmaceuticals Pvt Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">View full drug report →</a></p>

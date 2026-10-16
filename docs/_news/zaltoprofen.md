@@ -3,7 +3,7 @@ layout: default
 title: "Zaltoprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zaltoprofen. Original indication: . 10 predicted indications."
+description: "Health news related to Zaltoprofen. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/zaltoprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zaltoprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Zaltoprofen?">
-<strong>Zaltoprofen</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Zaltoprofen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,10 @@ This page combines the AI-predicted indications for Zaltoprofen with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>rheumatoid arthritis (99.9%)</li>
-<li>migraine with or without aura, susceptibility to (99.9%)</li>
-<li>migraine disorder (99.9%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
-<li>brachydactyly-syndactyly syndrome (99.8%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.8%)</li>
-<li>headache disorder (99.8%)</li>
-<li>trigeminal autonomic cephalalgia (99.8%)</li>
-<li>tendinitis (99.7%)</li>
-<li>idiopathic granulomatous myositis (99.7%)</li>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **rheumatoid arthritis**. No clinical trials are registered for this indication, and **6 publications** were compiled, only one of which is a clinical...</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>ZP 80mg Tablet (Wezen Chemicals Pvt Ltd) | Strip of 10 tablets | Not stated in the record (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zaltoprofen/' | relative_url }}">View full drug report →</a></p>

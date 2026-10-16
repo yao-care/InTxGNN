@@ -3,7 +3,7 @@ layout: default
 title: "Alprazolam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Alprazolam. Original indication: . 3 predicted indications."
+description: "Health news related to Alprazolam. Original indication: . 5 predicted indications."
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="What news is there about Alprazolam?">
-<strong>Alprazolam</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Alprazolam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Alprazolam with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>insomnia (disease) (99.8%)</li>
-<li>benign paroxysmal torticollis of infancy (99.6%)</li>
-<li>agoraphobia (99.6%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Eurolam 1mg Tablet SR | Strip of 10 SR tablets | Solitaire Pharmacia Pvt Ltd (99.0%)</li>
+<li>Prazolam 0.25mg Tablet | Strip of 10 tablets | Prayas Pharmaceuticals (99.0%)</li>
+<li>Alpaz 0.25mg Tablet | Strip of 10 tablets | Rhombus Pharma Pvt Ltd (99.0%)</li>
+<li>Aenzo 0.25mg Tablet | Strip of 10 tablets | Asvins Lifecare (99.0%)</li>
+<li>Alzolam Forte 0.5mg/50mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">View full drug report →</a></p>

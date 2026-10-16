@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Procarbazine with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>follicular lymphoma (99.5%)</li>
-<li>neuroblastoma (99.2%)</li>
-<li>ganglioneuroblastoma (disease) (99.2%)</li>
-<li>retroperitoneal neoplasm (99.1%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.1%)</li>
+<li>P Carzine 50mg Capsule (Alkem Laboratories Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
+<li>Procarb 50mg Tablet (Vhb Life Sciences Inc) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Zinocarb 50mg Capsule (Miracalus Pharma Pvt Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
+<li>Hodpro 50mg Capsule (Neon Laboratories Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
+<li>Neozine 50mg Capsule (Vhb Life Sciences Inc) | Strip of 10 capsules | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/procarbazine/' | relative_url }}">View full drug report →</a></p>

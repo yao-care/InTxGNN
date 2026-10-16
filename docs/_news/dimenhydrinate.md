@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Dimenhydrinate with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (2)</strong>:<ul>
 <li>allergic urticaria (99.7%)</li>
 <li>cold urticaria (99.2%)</li>

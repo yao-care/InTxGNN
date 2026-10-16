@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 3 articles, 8 related drugs."
+description: "Health news about dementia. 2 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -27,38 +27,30 @@ This page brings together the latest health news about “dementia” and lists 
 <ul>
 <li><a href="{{ '/drugs/albendazole/' | relative_url }}">Albendazole</a></li>
 <li><a href="{{ '/drugs/dasatinib/' | relative_url }}">Dasatinib</a></li>
-<li><a href="{{ '/drugs/galantamine/' | relative_url }}">GALANTAMINE</a></li>
-<li><a href="{{ '/drugs/donepezil/' | relative_url }}">DONEPEZIL</a></li>
-<li><a href="{{ '/drugs/rivastigmine/' | relative_url }}">RIVASTIGMINE</a></li>
-<li><a href="{{ '/drugs/vinpocetine/' | relative_url }}">VINPOCETINE</a></li>
+<li><a href="{{ '/drugs/db00674/' | relative_url }}">GALANTAMINE</a></li>
+<li><a href="{{ '/drugs/db00843/' | relative_url }}">DONEPEZIL</a></li>
+<li><a href="{{ '/drugs/db00989/' | relative_url }}">RIVASTIGMINE</a></li>
+<li><a href="{{ '/drugs/db12131/' | relative_url }}">VINPOCETINE</a></li>
 <li><a href="{{ '/drugs/entacapone/' | relative_url }}">Entacapone</a></li>
 <li><a href="{{ '/drugs/lorlatinib/' | relative_url }}">Lorlatinib</a></li>
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
+
+### [Bariatric Surgery Linked to Lower Dementia, Parkinson's Risk](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzdmYmFIbC1EMnVKdjdFaW82ekkwcEpCbEJHTDhpLTlnQzVuNHFfNzZLcTgyUGtSaS14YUF6Qm90d2p4Nk1laHFueXlPREFLWDlNQkpVS1p0YW83Q3k5SHJyODY2QmhkVkh2MF92X21NcENJakMycWNocExZcFp5dFNxRmt6dHRNUzlMYmlCSFVOR0pZNXlPZ2JyaUhJYzA0WHFnRS1oQUktdnNKdkE?oc=5)
+
+2026-10-16
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzdmYmFIbC1EMnVKdjdFaW82ekkwcEpCbEJHTDhpLTlnQzVuNHFfNzZLcTgyUGtSaS14YUF6Qm90d2p4Nk1laHFueXlPREFLWDlNQkpVS1p0YW83Q3k5SHJyODY2QmhkVkh2MF92X21NcENJakMycWNocExZcFp5dFNxRmt6dHRNUzlMYmlCSFVOR0pZNXlPZ2JyaUhJYzA0WHFnRS1oQUktdnNKdkE?oc=5)
+
+---
 
 ### [Could Ozempic Protect The Brain? Study Finds Links To Lower Stroke And Alzheimer’s Risk - News Mobile](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanFOblJ3eTVqSF9WN3BYNGZrcWx6NUdkS0dGODMwczFxam9uclFoaGUtM2FQUkFXS3ZXdEdSME1tb1lCZjNzY083OE1xbEtCNGFoeTNFN1Z4TnNPLWJfSG52UXhRMm9HaWtYUld6eWdFOVJRT3dmTFBDc2lHVGZNREVQcUxUNl93VkQzdWN5VUxOTG16VHVzYVJ2NVBDUWZ6Yi1JdlBTdlh5LVliTUtWelQ0QV9yS2VJd1dR?oc=5)
 
 2026-10-15
 
 Source: [News Mobile](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanFOblJ3eTVqSF9WN3BYNGZrcWx6NUdkS0dGODMwczFxam9uclFoaGUtM2FQUkFXS3ZXdEdSME1tb1lCZjNzY083OE1xbEtCNGFoeTNFN1Z4TnNPLWJfSG52UXhRMm9HaWtYUld6eWdFOVJRT3dmTFBDc2lHVGZNREVQcUxUNl93VkQzdWN5VUxOTG16VHVzYVJ2NVBDUWZ6Yi1JdlBTdlh5LVliTUtWelQ0QV9yS2VJd1dR?oc=5)
-
----
-
-### [A Higher BMI at Dementia Diagnosis is Linked to Lower Mortality Risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
-
-2026-10-14
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
-
----
-
-### [Northwestern scientists studying proteins linked to Alzheimer's found a single spot that helps harmful ta - The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
-
-2026-10-14
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMimgNBVV95cUxPR1paODVOdG9EUzJxNTJtYVdreG5saXRjWFI2cEdqdVFjLWNpRzBZd1dwcm5MYkktOXdqUy1uckFiWFNpTWVQZUt5TDZoYVJXQkVycUU3b25SbHM1M3d0cXhWQjJvdF9rRGpUdlg3QVk0UElEYmlaQ1Z1UFFwRXFsd1ZXQ0dSZVJGZXF6VFo3NEFleTd6N0RHUWlObldseVhXRUM0RnBIWG1JTG5UVkNVbGIwME5XRnhiMVVoamNGQTJjWGVzbXJUTncxRWRweVFBR21Xa0Y5YmhLZXBBV1RHVWxOVy1US1B5V1FQNGRWSWl4ekgzWnVnTFQ5UmJzSjBxbDVNMnpUTEthMnpycXhLRnZvUVAxSWpZUGNwdjN4ZUNTR1ppV3AzT2MyVlZNNk9kaUQzbUpqMy1rNngyU3htRzNqdEZkU2Y2OE9TSXNPd2laMVlTWUVHZ2F1MTNKVWVIdkdXbEhOLUFRRXV4bEo2QWp1YUZFZERldnRtSUFuOG5WUEt5eF9ITThyRTVCQnRBcXM4Y0NkTlBaUdIBnwNBVV95cUxPdC1yUkpzWE1fdFlFZnFhTHhGZGlzelNET2hJSlp2TG16ejJFWk1hOFlkQ3hFZzZZVG15Rm1oeWhvd2dSYkx5bFpSQTJHVHJBNXVjYmNmeERTMjA2TWhsSFVYTEU0YXJXcjhPS2RxQjYxUFVRVVlxNExYeHNuaVRBZFk4OUYwY2otQ25mcFhzQzZ0ZkYtdU5NT0VMMEh6T0pLanlIR0RVX1p2YVBLQmI0REFnYTNSWDJ6MjUxWldPcnV5MGV4UEZnZWx1WHRFTFViMXh1VmFVWlNqMjVLaHRocE95dk5xcmxQdWphVTNmRDFCR3h0cGVqd2JiOWhTSmJUcWthNTE1bjZveHRGaVIxeDZLNDJQckszbjRieWwzdEp2dWpaaDhDY2FicmVOOUZIekhfQkxCYmpyNFBNTWQtT2tGX05UYmtxYjREeFljc2Vud3Z4YlMwY1RmUFN5RkJMMkI4clhENjl3d01Qc25fMllVbS1XRHAyTGwyVzlIcjRFOWRUemZYNjBfcHhqajFNU2RYZm5PTkNCY2VBZXVN?oc=5)
 
 ---
 

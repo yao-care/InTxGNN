@@ -3,7 +3,7 @@ layout: default
 title: "Glycerin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glycerin. Original indication: . 10 predicted indications."
+description: "Health news related to Glycerin. Original indication: . 5 predicted indications."
 permalink: /news/glycerin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycerin/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycerin?">
-<strong>Glycerin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Glycerin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Glycerin with the latest hea
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>cauda equina syndrome (99.6%)</li>
-<li>open-angle glaucoma (99.6%)</li>
-<li>primary hereditary glaucoma (99.6%)</li>
-<li>alopecia (99.5%)</li>
-<li>congenital hypotrichosis milia (99.5%)</li>
-<li>irritable bowel syndrome (99.5%)</li>
-<li>hypotrichosis simplex of the scalp (99.5%)</li>
-<li>diffuse alopecia areata (99.5%)</li>
-<li>migraine disorder (99.3%)</li>
-<li>migraine with brainstem aura (99.2%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Newtol 100ml Infusion | Bottle of 100 ml infusion | Not specified (99.0%)</li>
+<li>Megtil 10gm/10gm Infusion | Bottle of 100 ml infusion | Not specified (99.0%)</li>
+<li>Chemitol Injection | Bottle of 100 ml injection | Not specified (99.0%)</li>
+<li>Glycerim 10gm/10gm Infusion | Bottle of 100 ml infusion | Not specified (99.0%)</li>
+<li>Grapitol G 10mg/10mg Infusion | Vial of 100 ml infusion | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycerin/' | relative_url }}">View full drug report →</a></p>

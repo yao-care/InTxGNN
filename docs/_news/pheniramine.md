@@ -24,6 +24,7 @@ This page combines the AI-predicted indications for Pheniramine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
 <li>allergic urticaria (99.7%)</li>
 <li>nasal cavity disease (99.3%)</li>

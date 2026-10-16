@@ -24,9 +24,10 @@ This page combines the AI-predicted indications for Benzonatate with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (2)</strong>:<ul>
-<li>cauda equina syndrome (99.7%)</li>
-<li>obsolete neurogenic bladder (disease) (99.4%)</li>
+<li>Lupin's Benz Pearls Capsule | Strip of 10 soft gelatin capsules | Not stated (99.0%)</li>
+<li>Benz 100mg Capsule | Strip of 12 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/benzonatate/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Darunavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Darunavir. Original indication: . 4 predicted indications."
+description: "Health news related to Darunavir. Original indication: . 5 predicted indications."
 permalink: /news/darunavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/darunavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Darunavir?">
-<strong>Darunavir</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Darunavir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Darunavir with the latest he
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>simian immunodeficiency virus infection (100.0%)</li>
-<li>feline acquired immunodeficiency syndrome (100.0%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (100.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.2%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Danavir 600 Tablet (Hetero Drugs Ltd) | Bottle of 60 tablets | — (99.0%)</li>
+<li>Danavir 300mg Tablet (Hetero Drugs Ltd) | Bottle of 30 tablets | — (99.0%)</li>
+<li>Virem 600mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 60 tablets | — (99.0%)</li>
+<li>Virem 300mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 120 tablets | — (99.0%)</li>
+<li>Daruvir 600mg Tablet (Cipla Ltd) | Bottle of 60 tablets | — (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/darunavir/' | relative_url }}">View full drug report →</a></p>

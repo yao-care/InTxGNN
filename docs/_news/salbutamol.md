@@ -3,7 +3,7 @@ layout: default
 title: "Salbutamol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Salbutamol. Original indication: . 10 predicted indications."
+description: "Health news related to Salbutamol. Original indication: . 5 predicted indications."
 permalink: /news/salbutamol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/salbutamol/
 ---
 
 <p class="key-answer" data-question="What news is there about Salbutamol?">
-<strong>Salbutamol</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Salbutamol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Salbutamol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>nasal cavity disease (100.0%)</li>
-<li>pharyngitis (100.0%)</li>
-<li>bronchitis (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>anaphylaxis (100.0%)</li>
-<li>common cold (100.0%)</li>
-<li>atopic conjunctivitis (100.0%)</li>
-<li>anorectal stricture (99.9%)</li>
-<li>obstructive lung disease (99.9%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Asthalin 100mcg Inhaler (Cipla Ltd) | Packet of 200 MDI inhaler | Not recorded (99.0%)</li>
+<li>Asthalin Respirator Solution (Cipla Ltd) | Bottle of 15 ml solution for inhalation | Not recorded (99.0%)</li>
+<li>Aerotide Forte 400mcg/200mcg Diskette (Sun Pharmaceutical Industries Ltd) | Packet of 8 inhaler | Not recorded (99.0%)</li>
+<li>Vent ET 2mg/100mg Tablet (Merck Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li>Bromosal Syrup (Smilax Pharmaceuticals) | Bottle of 100 ml syrup | Not recorded (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/salbutamol/' | relative_url }}">View full drug report →</a></p>

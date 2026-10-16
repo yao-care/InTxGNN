@@ -3,7 +3,7 @@ layout: default
 title: "Nelfinavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nelfinavir. Original indication: . 4 predicted indications."
+description: "Health news related to Nelfinavir. Original indication: . 2 predicted indications."
 permalink: /news/nelfinavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nelfinavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Nelfinavir?">
-<strong>Nelfinavir</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Nelfinavir</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,10 @@ This page combines the AI-predicted indications for Nelfinavir with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.9%)</li>
-<li>feline acquired immunodeficiency syndrome (99.9%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
-<li>obsolete familial combined hyperlipidemia (99.3%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Neivex 250mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Nel 250mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nelfinavir/' | relative_url }}">View full drug report →</a></p>

@@ -24,12 +24,13 @@ This page combines the AI-predicted indications for Carvedilol with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>malignant hypertensive renal disease (99.5%)</li>
-<li>malignant renovascular hypertension (99.5%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.5%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.5%)</li>
-<li>Braddock syndrome (99.4%)</li>
+<li>Kar-B 6.25mg Tablet (J B Chemicals and Pharmaceuticals) | Tablet (strip of 10) | Not available (99.0%)</li>
+<li>Carvipress 25mg Tablet (Micro Labs) | Tablet (strip of 10) | Not available (99.0%)</li>
+<li>Carveford 12.5mg Tablet (Leeford Healthcare) | Tablet (strip of 10) | Not available (99.0%)</li>
+<li>Cvdol-CR 10 Tablet (Care Formulation Labs) | Controlled-release tablet (strip of 10) | Not available (99.0%)</li>
+<li>Cardivas CR 40 Tablet (Sun Pharmaceutical) | Extended-release tablet (strip of 10) | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">View full drug report →</a></p>

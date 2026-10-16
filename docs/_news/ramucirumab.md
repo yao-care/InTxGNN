@@ -3,7 +3,7 @@ layout: default
 title: "Ramucirumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ramucirumab. Original indication: . 10 predicted indications."
+description: "Health news related to Ramucirumab. Original indication: . 11 predicted indications."
 permalink: /news/ramucirumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,7 +24,8 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (11)</strong>:<ul>
 <li>Endocervical carcinoma (100.0%)</li>
 <li>Adenoid cystic carcinoma of the cervix uteri (100.0%)</li>
 <li>Uterine ligament serous adenocarcinoma (99.9%)</li>
@@ -34,7 +35,8 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <li>Uterine ligament clear cell adenocarcinoma (99.9%)</li>
 <li>Uterine ligament mucinous adenocarcinoma (99.9%)</li>
 <li>Intestinal variant cervical mucinous adenocarcinoma (99.9%)</li>
-<li>uterine ligament adenocarcinoma (100.0%)</li>
+<li>Cyramza 100mg Injection | Vial of 10 ml injection | Not stated in the records (99.0%)</li>
+<li>Cyramza 500mg Injection | Vial of 50 ml injection | Not stated in the records (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>

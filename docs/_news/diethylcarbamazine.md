@@ -3,7 +3,7 @@ layout: default
 title: "Diethylcarbamazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Diethylcarbamazine. Original indication: . 10 predicted indications."
+description: "Health news related to Diethylcarbamazine. Original indication: . 5 predicted indications."
 permalink: /news/diethylcarbamazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diethylcarbamazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Diethylcarbamazine?">
-<strong>Diethylcarbamazine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Diethylcarbamazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,17 +24,13 @@ This page combines the AI-predicted indications for Diethylcarbamazine with the 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>syndromic lymphedema (99.6%)</li>
-<li>primary lymphedema (99.2%)</li>
-<li>podoconiosis (98.7%)</li>
-<li>lymphedema, hereditary (98.3%)</li>
-<li>Aagenaes syndrome (98.2%)</li>
-<li>chylous ascites (98.1%)</li>
-<li>lymphedema-cerebral arteriovenous anomaly syndrome (98.0%)</li>
-<li>mullerian derivatives-lymphangiectasia-polydactyly syndrome (97.8%)</li>
-<li>hypotrichosis-lymphedema-telangiectasia syndrome (grouping) (97.8%)</li>
-<li>microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability (97.7%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Hetrazan 100 Tablet | Strip of 30 tablets | Pfizer Ltd (99.0%)</li>
+<li>Benocide 100mg Forte Tablet | Strip of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd (99.0%)</li>
+<li>Deecee 50mg Syrup | Bottle of 60 ml syrup | Shrinivas Gujarat Laboratories Pvt Ltd (99.0%)</li>
+<li>Deecee 100mg Tablet | Strip of 10 tablets | Shrinivas Gujarat Laboratories Pvt Ltd (99.0%)</li>
+<li>Dec Tablet | Strip of 10 tablets | Commonwealth Pharmaceuticals (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diethylcarbamazine/' | relative_url }}">View full drug report →</a></p>

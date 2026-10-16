@@ -3,7 +3,7 @@ layout: default
 title: "Norepinephrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Norepinephrine. Original indication: . 3 predicted indications."
+description: "Health news related to Norepinephrine. Original indication: . 5 predicted indications."
 permalink: /news/norepinephrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/norepinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Norepinephrine?">
-<strong>Norepinephrine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Norepinephrine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,13 @@ This page combines the AI-predicted indications for Norepinephrine with the late
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>obstructive lung disease (99.8%)</li>
-<li>respiratory malformation (99.8%)</li>
-<li>Rienhoff syndrome (99.8%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Norbit Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>N-Adrin 4mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>Nordyx Injection | Ampoule of 2 ml injection | Not stated (99.0%)</li>
+<li>Adrenor 4mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li>Norad 4mg Injection | Vial of 4 ml injection | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norepinephrine/' | relative_url }}">View full drug report →</a></p>

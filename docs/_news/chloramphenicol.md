@@ -3,7 +3,7 @@ layout: default
 title: "Chloramphenicol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chloramphenicol. Original indication: . 9 predicted indications."
+description: "Health news related to Chloramphenicol. Original indication: . 5 predicted indications."
 permalink: /news/chloramphenicol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chloramphenicol/
 ---
 
 <p class="key-answer" data-question="What news is there about Chloramphenicol?">
-<strong>Chloramphenicol</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Chloramphenicol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,16 +24,13 @@ This page combines the AI-predicted indications for Chloramphenicol with the lat
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>conjunctivitis (99.7%)</li>
-<li>diffuse scleroderma (99.7%)</li>
-<li>postinfectious vasculitis (99.6%)</li>
-<li>post-bacterial disorder (99.6%)</li>
-<li>post-infectious syndrome (99.6%)</li>
-<li>infective urethral stricture (99.5%)</li>
-<li>Chagas cardiomyopathy (99.5%)</li>
-<li>infection-related hemolytic uremic syndrome (99.5%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.2%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Actimycetin Suspension | Bottle of 50 ml suspension | Not stated (99.0%)</li>
+<li>Anchlor-DX Eye Ointment | Tube of 5 gm eye ointment | Not stated (99.0%)</li>
+<li>Vanmycetin 0.4% Eye Drop | Packet of 5 ml eye drop | Not stated (99.0%)</li>
+<li>Polychlor DM Eye/Ear Drops | Bottle of 5 ml eye/ear drops | Not stated (99.0%)</li>
+<li>Paraxin 250mg Dragees | Strip of 10 tablets | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chloramphenicol/' | relative_url }}">View full drug report →</a></p>

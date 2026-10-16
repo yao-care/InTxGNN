@@ -3,7 +3,7 @@ layout: default
 title: "Levobunolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Levobunolol. Original indication: . 3 predicted indications."
+description: "Health news related to Levobunolol. Original indication: . 2 predicted indications."
 permalink: /news/levobunolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levobunolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Levobunolol?">
-<strong>Levobunolol</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Levobunolol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,10 +24,10 @@ This page combines the AI-predicted indications for Levobunolol with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>primary hereditary glaucoma (100.0%)</li>
-<li>glaucoma 1, open angle (99.6%)</li>
-<li>open angle glaucoma (99.5%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>Biozine 15mg Tablet | Strip of 10 tablets (oral) | Not specified in the data (99.0%)</li>
+<li>Betagan 0.5% Liquifilm | Packet of 5 ml ophthalmic solution | Not specified in the data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levobunolol/' | relative_url }}">View full drug report →</a></p>

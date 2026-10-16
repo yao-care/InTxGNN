@@ -3,7 +3,7 @@ layout: default
 title: "Tetracycline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tetracycline. Original indication: . 4 predicted indications."
+description: "Health news related to Tetracycline. Original indication: . 5 predicted indications."
 permalink: /news/tetracycline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tetracycline/
 ---
 
 <p class="key-answer" data-question="What news is there about Tetracycline?">
-<strong>Tetracycline</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Tetracycline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,11 +24,13 @@ This page combines the AI-predicted indications for Tetracycline with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.6%)</li>
-<li>chronic ethmoidal sinusitis (99.2%)</li>
-<li>chronic rhinosinusitis (99.2%)</li>
-<li>paranasal sinus neoplasm (disease) (99.1%)</li>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Tetralab 250mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>Arcycline 250mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>Rancycline 250mg Capsule (Sun Pharmaceutical) | Strip of 10 capsules | Not stated (99.0%)</li>
+<li>Tetra A 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Nicocycline 500mg Capsule (Abbott) | Strip of 10 capsules | Not stated (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetracycline/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Desloratadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Desloratadine. Original indication: . 6 predicted indications."
+description: "Health news related to Desloratadine. Original indication: . 5 predicted indications."
 permalink: /news/desloratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desloratadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Desloratadine?">
-<strong>Desloratadine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Desloratadine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,13 +24,13 @@ This page combines the AI-predicted indications for Desloratadine with the lates
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>cold urticaria (99.9%)</li>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
-<li>recalcitrant atopic dermatitis (99.8%)</li>
-<li>IgE responsiveness, atopic (99.6%)</li>
-<li>rosacea conjunctivitis (99.4%)</li>
+<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Deskast Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
+<li>Des-OD 5mg Tablet | Strip of 10 tablets | Cadila Pharmaceuticals Ltd (99.0%)</li>
+<li>Desent 5mg Tablet | Strip of 10 tablets | Indoco Remedies Ltd (99.0%)</li>
+<li>Desolid 5mg Tablet | Strip of 10 tablets | Cmg Biotech Pvt Ltd (99.0%)</li>
+<li>Lorin D 5mg Tablet | Strip of 10 tablets | Kestrel Lifesciences (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desloratadine/' | relative_url }}">View full drug report →</a></p>

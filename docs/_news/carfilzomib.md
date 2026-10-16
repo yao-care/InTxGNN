@@ -3,7 +3,7 @@ layout: default
 title: "Carfilzomib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Carfilzomib. Original indication: . 5 predicted indications."
+description: "Health news related to Carfilzomib. Original indication: . 3 predicted indications."
 permalink: /news/carfilzomib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carfilzomib/
 ---
 
 <p class="key-answer" data-question="What news is there about Carfilzomib?">
-<strong>Carfilzomib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Carfilzomib</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,11 @@ This page combines the AI-predicted indications for Carfilzomib with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>CMM7 (99.4%)</li>
-<li>pediatric leptomeningeal melanoma (99.3%)</li>
-<li>epithelioid cell uveal melanoma (99.2%)</li>
-<li>vulvar melanoma (disease) (99.2%)</li>
-<li>melanoma (99.0%)</li>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>Kyprolis 60mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 injection | Not stated in the available data (99.0%)</li>
+<li>Carzomib 60mg Injection (Hetero Healthcare Limited) | Vial of 1 injection | Not stated in the available data (99.0%)</li>
+<li>Carfilnat Injection (Natco Pharma Ltd) | Vial of 1 injection | Not stated in the available data (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carfilzomib/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Irinotecan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Irinotecan. Original indication: . 1 predicted indications."
+description: "Health news related to Irinotecan. Original indication: . 5 predicted indications."
 permalink: /news/irinotecan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/irinotecan/
 ---
 
 <p class="key-answer" data-question="What news is there about Irinotecan?">
-<strong>Irinotecan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Irinotecan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,8 +24,13 @@ This page combines the AI-predicted indications for Irinotecan with the latest h
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>female breast carcinoma (99.1%)</li>
+<li><strong>Evidence level</strong>: L3</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Campto 100mg Injection (Pfizer Ltd) | Injection, vial of 5 ml | Not specified (99.0%)</li>
+<li>Lilrincan 100mg Injection (Eli Lilly and Company India Pvt Ltd) | Injection, vial | Not specified (99.0%)</li>
+<li>Irnocam 100mg Injection (Dr Reddy's Laboratories Ltd) | Injection, vial | Not specified (99.0%)</li>
+<li>Irnozen 20mg Injection (Sun Pharmaceutical Industries Ltd) | Injection, vial | Not specified (99.0%)</li>
+<li>Imtus 40mg Injection (Emcure Pharmaceuticals Ltd) | Injection, vial of 1 ml | Not specified (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/irinotecan/' | relative_url }}">View full drug report →</a></p>

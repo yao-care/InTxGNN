@@ -3,7 +3,7 @@ layout: default
 title: "Epinephrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Epinephrine. Original indication: . 4 predicted indications."
+description: "Health news related to Epinephrine. Original indication: . 5 predicted indications."
 permalink: /news/epinephrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/epinephrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Epinephrine?">
-<strong>Epinephrine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Epinephrine</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,27 @@ This page combines the AI-predicted indications for Epinephrine with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>obstructive lung disease (99.7%)</li>
-<li>food-dependent exercise-induced anaphylaxis (99.6%)</li>
-<li>Rienhoff syndrome (99.6%)</li>
-<li>respiratory malformation (99.6%)</li>
+<li><strong>Evidence level</strong>: L1</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Adroglare 1mg Injection | Vial of 1 ml injection | Not available (99.0%)</li>
+<li>Enatrate Injection | Vial of 1 ml injection | Not available (99.0%)</li>
+<li>Epitrate Injection 1 ml | Vial of 1 ml injection | Not available (99.0%)</li>
+<li>Adraclor Injection | Ampoule of 1 ml injection | Not available (99.0%)</li>
+<li>Vasocon Injection | Vial of 1 ml injection | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/epinephrine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Specific Risk Factors Drive Epinephrine Use in Preschool OIT](https://news.google.com/rss/articles/CBMirgFBVV95cUxORXpBNzZaSUxGeGNLMDl3RVh2OHZUSktST0xvMXF2OGJ4Vmc1ZFBBMFltdTE4Mnp6T3hBUURFcUNzdU5YSl8yb1BBdmtCZ0ZIMzJFZnNGZC1WLW55UnVZRUtJdkZsMmxZc1M4NjBMSmpUZ0lFRXNKVTQwc0E5TWplY1E0Q2dUalZXWTFjZDFUYlJlQ1J1ZmZLRWp6eU1FVEhYYWRiOW1UNWZrdjY3Zmc?oc=5)
+
+2026-10-16 <span class="news-drug-tag">Epinephrine</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxORXpBNzZaSUxGeGNLMDl3RVh2OHZUSktST0xvMXF2OGJ4Vmc1ZFBBMFltdTE4Mnp6T3hBUURFcUNzdU5YSl8yb1BBdmtCZ0ZIMzJFZnNGZC1WLW55UnVZRUtJdkZsMmxZc1M4NjBMSmpUZ0lFRXNKVTQwc0E5TWplY1E0Q2dUalZXWTFjZDFUYlJlQ1J1ZmZLRWp6eU1FVEhYYWRiOW1UNWZrdjY3Zmc?oc=5)
+
+---
 
 
 <div class="disclaimer">

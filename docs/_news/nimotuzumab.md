@@ -3,7 +3,7 @@ layout: default
 title: "Nimotuzumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nimotuzumab. Original indication: . 10 predicted indications."
+description: "Health news related to Nimotuzumab. Original indication: he TxGNN model predicts it may be effective for **.... 10 predicted indications."
 permalink: /news/nimotuzumab/
 ---
 
@@ -24,6 +24,8 @@ This page combines the AI-predicted indications for Nimotuzumab with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
+<li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **diabetic cataract**, with a score of 98.6%.</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>diabetic cataract (98.6%)</li>
 <li>diabetes mellitus type 2 associated cataract (98.6%)</li>
