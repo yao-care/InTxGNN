@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Polyethylene Glycol with the
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/polyethylene_glycol/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/polyethylene-glycol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

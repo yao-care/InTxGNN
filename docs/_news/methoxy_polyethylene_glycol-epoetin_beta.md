@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Methoxy Polyethylene Glycol-
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/methoxy_polyethylene_glycol-epoetin_beta/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/methoxy-polyethylene-glycol-epoetin-beta/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

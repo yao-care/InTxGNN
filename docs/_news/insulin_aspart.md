@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Insulin Aspart with the late
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/insulin_aspart/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-aspart/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

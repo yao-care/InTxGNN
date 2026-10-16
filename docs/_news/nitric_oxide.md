@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Nitric Oxide with the latest
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/nitric_oxide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/nitric-oxide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

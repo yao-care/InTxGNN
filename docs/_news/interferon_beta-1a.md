@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Interferon Beta-1A with the 
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/interferon_beta-1a/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/interferon-beta-1a/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

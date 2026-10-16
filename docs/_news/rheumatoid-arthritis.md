@@ -35,15 +35,15 @@ This page brings together the latest health news about “RA” and lists the dr
 <li><a href="{{ '/drugs/bosentan/' | relative_url }}">Bosentan</a></li>
 <li><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">Cabazitaxel</a></li>
 <li><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">Chlorzoxazone</a></li>
-<li><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">Choline Salicylate</a></li>
+<li><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">Choline Salicylate</a></li>
 <li><a href="{{ '/drugs/chromium/' | relative_url }}">Chromium</a></li>
 <li><a href="{{ '/drugs/eptifibatide/' | relative_url }}">Eptifibatide</a></li>
 <li><a href="{{ '/drugs/levocetirizine/' | relative_url }}">Levocetirizine</a></li>
 <li><a href="{{ '/drugs/lornoxicam/' | relative_url }}">Lornoxicam</a></li>
-<li><a href="{{ '/drugs/mefenamic_acid/' | relative_url }}">Mefenamic Acid</a></li>
+<li><a href="{{ '/drugs/mefenamic-acid/' | relative_url }}">Mefenamic Acid</a></li>
 <li><a href="{{ '/drugs/mesalazine/' | relative_url }}">Mesalazine</a></li>
 <li><a href="{{ '/drugs/metamizole/' | relative_url }}">Metamizole</a></li>
-<li><a href="{{ '/drugs/nalidixic_acid/' | relative_url }}">Nalidixic Acid</a></li>
+<li><a href="{{ '/drugs/nalidixic-acid/' | relative_url }}">Nalidixic Acid</a></li>
 <li><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">Nitrofurantoin</a></li>
 <li><a href="{{ '/drugs/valdecoxib/' | relative_url }}">Valdecoxib</a></li>
 </ul>

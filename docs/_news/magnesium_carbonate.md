@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Magnesium Carbonate with the
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/magnesium_carbonate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/magnesium-carbonate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

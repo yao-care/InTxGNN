@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 903,
+  "drug_count": 901,
   "indication_count": 4291,
   "drugs": [
     {
@@ -20323,14 +20323,6 @@
       ]
     },
     {
-      "name": "Nicotinamide",
-      "slug": "nicotinamide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Nilotinib",
       "slug": "nilotinib",
       "brands": [],
@@ -29421,14 +29413,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Urea",
-      "slug": "urea",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Urofollitropin",

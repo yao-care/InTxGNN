@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (14)

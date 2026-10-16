@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Protamine Sulfate with the l
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/protamine_sulfate/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/protamine-sulfate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Potassium Iodide with the la
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/potassium_iodide/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/potassium-iodide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)

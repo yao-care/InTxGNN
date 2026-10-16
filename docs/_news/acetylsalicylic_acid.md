@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Acetylsalicylic Acid with th
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/acetylsalicylic_acid/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/acetylsalicylic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (0)
