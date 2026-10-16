@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-14
+description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Osteoporosis"
 ---
 
 # Minodronic Acid

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 510
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Lurasidone: predicted new indication Manic bipolar affective disorder (evidence level L3). Approved use: Bipolar disorder, schizophrenia"
 ---
 
 # Lurasidone

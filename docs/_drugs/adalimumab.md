@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 25
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-14
+description: "Adalimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Crohn disease, rheumatoid arthritis, psoriatic arthritis…"
 ---
 
 # Adalimumab

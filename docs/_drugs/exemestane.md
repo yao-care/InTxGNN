@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-14
+description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L5). Approved use: Not available in the registration data compiled for this report"
 ---
 
 # Exemestane

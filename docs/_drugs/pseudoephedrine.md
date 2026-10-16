@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 712
 evidence_level: L3
 indication_count: 3
+last_modified_at: 2026-10-14
+description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis…"
 ---
 
 # Pseudoephedrine

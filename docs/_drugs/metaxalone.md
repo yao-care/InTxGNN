@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-14
+description: "Metaxalone: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not stated in the data compiled for this report (metaxalone is genera…"
 ---
 
 # Metaxalone

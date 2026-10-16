@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 536
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L4). Approved use: Primary cutaneous T-cell lymphoma (including non-Hodgkin type)"
 ---
 
 # Methoxsalen

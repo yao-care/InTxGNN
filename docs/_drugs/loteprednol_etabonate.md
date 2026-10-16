@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Loteprednol Etabonate: predicted new indication Serous conjunctivitis except viral (evidence level L5). Approved use: Uveitis, iris and ciliary body diseases…"
 ---
 
 # Loteprednol Etabonate

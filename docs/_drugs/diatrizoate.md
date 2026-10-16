@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-14
+description: "Diatrizoate: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not specified in the approved license data"
 ---
 
 # Diatrizoate

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 191
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-14
+description: "Clemastine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis (other listed original indications: vasomotor rhini…"
 ---
 
 # Clemastine

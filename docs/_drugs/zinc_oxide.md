@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 907
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-14
+description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Tinea pedis, exanthem, dermatitis, tinea corporis…"
 ---
 
 # Zinc Oxide

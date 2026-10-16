@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 138
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Capecitabine: predicted new indication Gastric tubular adenocarcinoma (evidence level L1). Approved use: Gastric cancer (also metastasis from malignant tumor of colon…"
 ---
 
 # Capecitabine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Otilonium: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not stated in the licence data compiled for this report (the drug is…"
 ---
 
 # Otilonium

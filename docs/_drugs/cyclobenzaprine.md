@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 216
 evidence_level: L2
 indication_count: 3
+last_modified_at: 2026-10-14
+description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome (evidence level L2). Approved use: Not stated in the India license records"
 ---
 
 # Cyclobenzaprine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 717
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Quinidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Atrial fibrillation, malaria"
 ---
 
 # Quinidine

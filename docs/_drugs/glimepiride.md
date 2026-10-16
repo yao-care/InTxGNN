@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-14
+description: "Glimepiride: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
 # Glimepiride

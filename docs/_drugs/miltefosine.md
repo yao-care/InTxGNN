@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 555
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Miltefosine: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L3). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
 ---
 
 # Miltefosine

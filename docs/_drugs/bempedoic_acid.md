@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 94
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Bempedoic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Not stated in the Indian licence records compiled for this report (th…"
 ---
 
 # Bempedoic Acid

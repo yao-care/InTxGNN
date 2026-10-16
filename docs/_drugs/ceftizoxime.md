@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 160
 evidence_level: L3
 indication_count: 6
+last_modified_at: 2026-10-14
+description: "Ceftizoxime: predicted new indication Gonococcal urethritis (evidence level L3). Approved use: Urinary tract infection, streptococcal and staphylococcal infections…"
 ---
 
 # Ceftizoxime

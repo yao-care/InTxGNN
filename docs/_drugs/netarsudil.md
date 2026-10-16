@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 588
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-14
+description: "Netarsudil: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
 ---
 
 # Netarsudil

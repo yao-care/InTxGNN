@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 629
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Oxiconazole: predicted new indication Cutaneous candidiasis (evidence level L4). Approved use: Tinea pedis (other listed uses: tinea corporis, tinea infection…"
 ---
 
 # Oxiconazole

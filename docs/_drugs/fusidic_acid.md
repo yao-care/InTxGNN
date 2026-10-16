@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 385
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Fusidic Acid: predicted new indication Exposure keratitis (evidence level L4). Approved use: Not stated on the Indian licences"
 ---
 
 # Fusidic Acid

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Carisoprodol: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the India license data (carisoprodol is generally known…"
 ---
 
 # Carisoprodol

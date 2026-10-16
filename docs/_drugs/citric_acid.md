@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 188
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-14
+description: "Citric Acid: predicted new indication Stomach disease (evidence level L4). Approved use: Dyspepsia"
 ---
 
 # Citric Acid

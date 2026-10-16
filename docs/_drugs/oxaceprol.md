@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 624
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Oxaceprol: predicted new indication Spondyloarthropathy, susceptibility to (evidence level L5). Approved use: Osteoarthritis, osteoarthritis susceptibility, arthropathy"
 ---
 
 # Oxaceprol

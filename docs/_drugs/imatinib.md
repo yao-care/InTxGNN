@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Imatinib: predicted new indication Heart fibrosarcoma (evidence level L5). Approved use: Not stated in the India licence records (approved indication text is…"
 ---
 
 # Imatinib

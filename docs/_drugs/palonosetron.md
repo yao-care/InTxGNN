@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 639
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-14
+description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the India licence data compiled for this report (palono…"
 ---
 
 # Palonosetron

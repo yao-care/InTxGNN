@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Desonide: predicted new indication Polyp of vocal cord (evidence level L5). Approved use: Exanthem, atopic eczema, contact dermatitis…"
 ---
 
 # Desonide

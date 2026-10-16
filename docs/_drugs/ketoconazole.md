@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 462
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Ketoconazole: predicted new indication Acne (evidence level L4). Approved use: Not stated in the licence records. The knowledge graph lists tinea pe…"
 ---
 
 # Ketoconazole

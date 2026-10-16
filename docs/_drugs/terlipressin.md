@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 825
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Terlipressin: predicted new indication Open-angle glaucoma . Evidence review shows pulmonary hypertension is… (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
 # Terlipressin

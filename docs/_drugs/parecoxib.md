@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 646
 evidence_level: L3
 indication_count: 4
+last_modified_at: 2026-10-14
+description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Not stated in the Indian licence data"
 ---
 
 # Parecoxib

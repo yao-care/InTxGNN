@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-14
+description: "Bleomycin: predicted new indication Cauda equina neoplasm (evidence level L5). Approved use: Hodgkin lymphoma, non-Hodgkin lymphoma, head and neck cancer"
 ---
 
 # Bleomycin

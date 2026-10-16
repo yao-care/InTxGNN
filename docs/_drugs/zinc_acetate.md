@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 904
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Zinc Acetate: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Wilson disease, dermatitis, exanthem, otitis externa, hemorrhoid…"
 ---
 
 # Zinc Acetate

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-14
+description: "Pegfilgrastim: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the available licence records"
 ---
 
 # Pegfilgrastim

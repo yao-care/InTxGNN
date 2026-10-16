@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 405
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Halometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Not specified in the registration data"
 ---
 
 # Halometasone

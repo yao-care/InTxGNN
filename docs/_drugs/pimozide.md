@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 672
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Pimozide: predicted new indication Trichotillomania (evidence level L3). Approved use: Tourette syndrome"
 ---
 
 # Pimozide

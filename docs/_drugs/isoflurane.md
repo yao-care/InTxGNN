@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-14
+description: "Isoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the available licence data (isoflurane is an inhaled ge…"
 ---
 
 # Isoflurane

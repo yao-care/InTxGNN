@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 576
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-14
+description: "Naftopidil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
 # Naftopidil

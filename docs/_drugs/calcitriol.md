@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 132
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-14
+description: "Calcitriol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Hypoparathyroidism, renal osteodystrophy…"
 ---
 
 # Calcitriol

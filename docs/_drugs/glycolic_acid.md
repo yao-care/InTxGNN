@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Glycolic Acid: predicted new indication Esophageal disease (evidence level L5). Approved use: Not specified (the registered product is a cosmetic-type foaming face…"
 ---
 
 # Glycolic Acid

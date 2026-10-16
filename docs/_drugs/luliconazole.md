@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 509
 evidence_level: L3
 indication_count: 7
+last_modified_at: 2026-10-14
+description: "Luliconazole: predicted new indication Pityriasis versicolor (evidence level L3). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 ---
 
 # Luliconazole

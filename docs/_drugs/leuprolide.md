@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-14
+description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Endometriosis"
 ---
 
 # Leuprolide

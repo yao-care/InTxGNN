@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 266
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Diethylcarbamazine: predicted new indication Syndromic lymphedema (evidence level L4). Approved use: Filariasis and related conditions (elephantiasis, lymphedema, loiasis…"
 ---
 
 # Diethylcarbamazine

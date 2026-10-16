@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 896
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Voglibose: predicted new indication Type 1 diabetes mellitus (adjunct to insulin therapy). The top-scorin… (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
 # Voglibose

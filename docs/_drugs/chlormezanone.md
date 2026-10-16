@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 172
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Chlormezanone: predicted new indication Insomnia (evidence level L4). Approved use: Anxiety"
 ---
 
 # Chlormezanone

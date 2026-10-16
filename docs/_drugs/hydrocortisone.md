@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L5). Approved use: Adrenocortical insufficiency / Addison disease, autoimmune disease…"
 ---
 
 # Hydrocortisone

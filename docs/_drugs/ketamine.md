@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 461
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Ketamine: predicted new indication Headache disorder (evidence level L2). Approved use: Not stated in the data compiled for this report"
 ---
 
 # Ketamine

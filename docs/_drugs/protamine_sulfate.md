@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 709
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Protamine Sulfate: predicted new indication Helminthiasis, animal (evidence level L5). Approved use: Not stated in the Indian license records (the drug is known as a hepa…"
 ---
 
 # Protamine Sulfate

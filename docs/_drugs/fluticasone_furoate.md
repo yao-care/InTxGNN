@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 374
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-14
+description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L4). Approved use: Asthma, allergic asthma, intrinsic asthma, allergic rhinitis…"
 ---
 
 # Fluticasone Furoate

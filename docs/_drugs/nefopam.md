@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Nefopam: predicted new indication Craniostenosis cataract . The most evidence-supported alternative is… (evidence level L5). Approved use: Not stated on the India licences (analgesic by drug class)"
 ---
 
 # Nefopam

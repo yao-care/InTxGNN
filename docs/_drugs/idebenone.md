@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Idebenone: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Leber hereditary optic neuropathy"
 ---
 
 # Idebenone

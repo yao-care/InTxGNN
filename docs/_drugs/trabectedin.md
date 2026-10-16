@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 851
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Ovarian cancer (including ovarian adenocarcinoma, clear cell…"
 ---
 
 # Trabectedin

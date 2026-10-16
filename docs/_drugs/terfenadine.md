@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 822
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-14
+description: "Terfenadine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis (also vasomotor rhinitis, pharyngitis, common cold…"
 ---
 
 # Terfenadine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 734
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Reserpine: predicted new indication Treatment-refractory schizophrenia (evidence level L5). Approved use: Hypertension and psychotic disorders"
 ---
 
 # Reserpine

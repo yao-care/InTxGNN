@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 167
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Cetrorelix: predicted new indication Hypertrichosis (evidence level L5). Approved use: Inhibition of premature LH surges in women undergoing controlled ovar…"
 ---
 
 # Cetrorelix

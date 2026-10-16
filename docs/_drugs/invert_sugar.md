@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Invert Sugar: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not available"
 ---
 
 # Invert Sugar

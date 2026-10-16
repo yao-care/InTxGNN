@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 126
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-14
+description: "Butenafine: predicted new indication Superficial mycosis (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection, pityriasis versicolor…"
 ---
 
 # Butenafine

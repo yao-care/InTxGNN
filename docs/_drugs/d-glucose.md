@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "D-Glucose: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded"
 ---
 
 # D-Glucose

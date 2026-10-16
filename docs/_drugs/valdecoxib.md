@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 878
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-14
+description: "Valdecoxib: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not stated in the licence data compiled for this report (literature d…"
 ---
 
 # Valdecoxib

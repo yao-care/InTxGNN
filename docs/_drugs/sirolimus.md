@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 775
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Sirolimus: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal cell carcinoma (including clear cell and non-papillary subtypes)"
 ---
 
 # Sirolimus

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 540
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-14
+description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Attention deficit hyperactivity disorder (ADHD), narcolepsy"
 ---
 
 # Methylphenidate

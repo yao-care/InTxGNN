@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 192
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Clidinium: predicted new indication Peptic ulcer disease (evidence level L4). Approved use: Irritable bowel syndrome, enterocolitis, gastroenteritis"
 ---
 
 # Clidinium

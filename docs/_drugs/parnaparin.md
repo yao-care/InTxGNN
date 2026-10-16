@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-14
+description: "Parnaparin: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Pulmonary embolism, disseminated intravascular coagulation…"
 ---
 
 # Parnaparin

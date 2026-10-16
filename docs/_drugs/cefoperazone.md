@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 155
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Cefoperazone: predicted new indication Sclerosing cholangitis (evidence level L1). Approved use: Not stated in the registration records (cefoperazone is an injectable…"
 ---
 
 # Cefoperazone

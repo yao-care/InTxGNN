@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Diosmin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated on the India licences (indication text is blank)"
 ---
 
 # Diosmin

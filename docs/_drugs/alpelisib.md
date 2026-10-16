@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 38
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Alpelisib: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Not recorded in the India license data (the clinical program is HR+/H…"
 ---
 
 # Alpelisib

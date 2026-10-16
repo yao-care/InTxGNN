@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 795
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Sulbactam: predicted new indication Bacterial arthritis (evidence level L3). Approved use: Staphylococcus aureus infection, Escherichia coli infection…"
 ---
 
 # Sulbactam

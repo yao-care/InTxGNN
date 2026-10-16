@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 895
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Vitamin E: predicted new indication Inborn disorder of bilirubin metabolism (evidence level L4). Approved use: Cholestasis, benign recurrent intrahepatic cholestasis…"
 ---
 
 # Vitamin E

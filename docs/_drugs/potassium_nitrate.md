@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 692
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-14
+description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not recorded"
 ---
 
 # Potassium Nitrate

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Silver: predicted new indication bone Paget disease (evidence level L5). Approved use: Not stated in the licence records (the products are marketed as antim…"
 ---
 
 # Silver

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-14
+description: "Framycetin: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not stated in the available license records (marketed as topical crea…"
 ---
 
 # Framycetin

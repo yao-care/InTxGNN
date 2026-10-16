@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 793
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Strontium Chloride: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the India license data"
 ---
 
 # Strontium Chloride

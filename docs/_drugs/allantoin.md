@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-14
+description: "Allantoin: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Psoriasis, parapsoriasis, seborrheic dermatitis, pityriasis simplex…"
 ---
 
 # Allantoin

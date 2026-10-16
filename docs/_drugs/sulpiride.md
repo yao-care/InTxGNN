@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 799
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-14
+description: "Sulpiride: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Schizophrenia"
 ---
 
 # Sulpiride

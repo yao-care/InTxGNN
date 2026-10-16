@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 497
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Lomefloxacin: predicted new indication Laryngotracheitis (evidence level L5). Approved use: Urinary tract infection, bronchitis"
 ---
 
 # Lomefloxacin

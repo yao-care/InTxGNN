@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-14
+description: "Cisapride: predicted new indication Peptic ulcer perforation (evidence level L5). Approved use: Gastroesophageal reflux disease"
 ---
 
 # Cisapride

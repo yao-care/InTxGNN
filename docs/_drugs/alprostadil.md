@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 40
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Alprostadil: predicted new indication Aortic malformation (evidence level L4). Approved use: Erectile dysfunction, psychologic dyspareunia, premature ejaculation…"
 ---
 
 # Alprostadil

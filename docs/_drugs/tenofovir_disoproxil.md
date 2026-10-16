@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 818
 evidence_level: L4
 indication_count: 4
+last_modified_at: 2026-10-14
+description: "Tenofovir Disoproxil: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Chronic hepatitis B virus infection, HIV infectious disease, AIDS"
 ---
 
 # Tenofovir Disoproxil

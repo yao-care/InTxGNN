@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 47
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Amifostine: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not stated in the available licence records (the drug is known as a c…"
 ---
 
 # Amifostine

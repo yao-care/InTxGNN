@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 197
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-14
+description: "Clobetasol: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L3). Approved use: Not stated in the available India licence data"
 ---
 
 # Clobetasol

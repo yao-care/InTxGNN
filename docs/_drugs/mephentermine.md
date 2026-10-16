@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-14
+description: "Mephentermine: predicted new indication Postural orthostatic tachycardia syndrome (evidence level L5). Approved use: Hypotensive disorder"
 ---
 
 # Mephentermine

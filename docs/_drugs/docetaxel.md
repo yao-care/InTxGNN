@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 279
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-14
+description: "Docetaxel: predicted new indication Female breast carcinoma (already an established indication) (evidence level L1). Approved use: Non-small cell lung cancer, prostate cancer, head and neck cancer…"
 ---
 
 # Docetaxel
