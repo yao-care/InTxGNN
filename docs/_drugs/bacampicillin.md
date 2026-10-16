@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Bacampicillin: predicted new indication Epiglottitis (evidence level L4). Approved use: Urinary tract infection, gonorrhea, pharyngitis…"
+monitor_inn: "Bacampicillin"
+predicted_indications: ["epiglottitis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
 ---
 
 # Bacampicillin

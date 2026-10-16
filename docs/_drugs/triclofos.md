@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Triclofos: predicted new indication Insomnia (evidence level L5). Approved use: Not stated"
+monitor_inn: "Triclofos"
+predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep", "neurocirculatory asthenia", "anxiety disorder", "agoraphobia", "juvenile onset Parkinson disease 19A", "benign paroxysmal torticollis of infancy", "irritable bowel syndrome", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 ---
 
 # Triclofos

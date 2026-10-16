@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Diosmin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated on the India licences (indication text is blank)"
+monitor_inn: "Diosmin"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Diosmin

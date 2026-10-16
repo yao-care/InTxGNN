@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ferric Sulfate: predicted new indication Bronchitis (evidence level L5). Approved use: Not specified in the compiled data"
+monitor_inn: "Ferric sulfate"
+predicted_indications: ["bronchitis", "bronchial neoplasm (disease)", "gastroduodenitis", "peptic ulcer disease", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "severe nonproliferative diabetic retinopathy", "Chagas cardiomyopathy", "infective urethral stricture"]
 ---
 
 # Ferric Sulfate

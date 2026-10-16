@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Asthma, bronchial disease"
+monitor_inn: "Levosalbutamol"
+predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria", "obstructive lung disease"]
 ---
 
 # Levosalbutamol

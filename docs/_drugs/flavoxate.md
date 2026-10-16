@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-14
 description: "Flavoxate: predicted new indication Top-ranked: attention deficit hyperactivity disorder… (evidence level L5). Approved use: Not stated in the India license data (the drug is used for urinary ur…"
+monitor_inn: "Flavoxate"
+predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
 ---
 
 # Flavoxate

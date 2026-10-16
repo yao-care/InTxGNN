@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Seratrodast: predicted new indication Migraine with or without aura, susceptibility to (evidence level L5). Approved use: Not stated in the India license records (the drug is generally known…"
+monitor_inn: "Seratrodast"
+predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "pulmonary hypertension", "rheumatoid arthritis", "migraine with brainstem aura", "kyphoscoliotic heart disease", "brachydactyly-syndactyly syndrome", "leprosy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "atrophoderma vermiculata"]
 ---
 
 # Seratrodast

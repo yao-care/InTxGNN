@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Voglibose: predicted new indication Type 1 diabetes mellitus (adjunct to insulin therapy). The top-scorin… (evidence level L5). Approved use: Type 2 diabetes mellitus"
+monitor_inn: "Voglibose"
+predicted_indications: ["hypotrichosis simplex of the scalp", "type 1 diabetes mellitus", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
 ---
 
 # Voglibose

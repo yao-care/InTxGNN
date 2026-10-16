@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Doxapram: predicted new indication Vascular disease (evidence level L4). Approved use: Respiratory failure"
+monitor_inn: "Doxapram"
+predicted_indications: ["vascular disease", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
 ---
 
 # Doxapram

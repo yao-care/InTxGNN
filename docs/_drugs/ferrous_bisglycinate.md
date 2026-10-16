@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ferrous Bisglycinate: predicted new indication Bronchitis (evidence level L5). Approved use: Not stated in the India license data (iron supplementation is the typ…"
+monitor_inn: "Ferrous bisglycinate"
+predicted_indications: ["bronchitis", "bronchial neoplasm (disease)", "gastroduodenitis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "peptic ulcer disease", "thrombophilia", "Chagas cardiomyopathy", "infective urethral stricture"]
 ---
 
 # Ferrous Bisglycinate

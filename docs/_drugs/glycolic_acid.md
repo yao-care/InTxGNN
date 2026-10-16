@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Glycolic Acid: predicted new indication Esophageal disease (evidence level L5). Approved use: Not specified (the registered product is a cosmetic-type foaming face…"
+monitor_inn: "Glycolic acid"
+predicted_indications: ["atypical coarctation of aorta", "non-syndromic esophageal malformation", "esophageal disease", "potassium deficiency disease", "aortic malformation", "sclerosing cholangitis", "disorder of carbohydrate absorption and transport", "hyperinsulinemic hypoglycemia, familial", "autosomal recessive hyperinsulinism due to SUR1 deficiency", "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency"]
 ---
 
 # Glycolic Acid

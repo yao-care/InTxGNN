@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Lindane: predicted new indication Cervical neuroblastoma (evidence level L5). Approved use: Scabies, Norwegian scabies, Pediculus humanus capitis infestation…"
+monitor_inn: "Lindane"
+predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "epiglottis neoplasm", "odontogenic cyst", "pre-malignant neoplasm", "benign neoplasm of hypopharynx", "schwannoma of jugular foramen", "cystic neoplasm", "benign neoplasm of buccal mucosa", "inner ear neoplasm"]
 ---
 
 # Lindane

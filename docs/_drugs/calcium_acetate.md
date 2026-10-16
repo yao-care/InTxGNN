@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Calcium Acetate: predicted new indication Calcium-alkali syndrome (evidence level L5). Approved use: Hypercalcemia disease, nephrocalcinosis…"
+monitor_inn: "Calcium acetate"
+predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
 ---
 
 # Calcium Acetate

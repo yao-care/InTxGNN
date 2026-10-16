@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Doripenem: predicted new indication Idiopathic copper-associated cirrhosis (evidence level L5). Approved use: Cholecystitis"
+monitor_inn: "Doripenem"
+predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatic porphyria", "genetic otorhinolaryngological malformation", "juvenile nasopharyngeal angiofibroma (disease)", "neonatal epileptic encephalopathy due to glutaminase deficiency", "familial nasal acilia"]
 ---
 
 # Doripenem

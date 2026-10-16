@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Benzocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Tinea pedis, dermatitis, pharyngitis, tinea corporis, tinea infection"
+monitor_inn: "Benzocaine"
+predicted_indications: ["papillary conjunctivitis"]
 ---
 
 # Benzocaine

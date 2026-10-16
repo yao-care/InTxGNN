@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Asthma . The Indian licence record contains no indication text"
+monitor_inn: "Zafirlukast"
+predicted_indications: ["bronchitis", "obstructive lung disease"]
 ---
 
 # Zafirlukast

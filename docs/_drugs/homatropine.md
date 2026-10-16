@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Homatropine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the India licence records. The knowledge graph lists pe…"
+monitor_inn: "Homatropine"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "overactive bladder (disease)"]
 ---
 
 # Homatropine

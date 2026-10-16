@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
 description: "Metaxalone: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not stated in the data compiled for this report (metaxalone is genera…"
+monitor_inn: "Metaxalone"
+predicted_indications: ["infectious otitis media", "endocarditis", "endocardial fibroelastosis"]
 ---
 
 # Metaxalone

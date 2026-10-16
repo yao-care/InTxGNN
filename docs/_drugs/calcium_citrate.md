@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Calcium Citrate: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not stated in the available licence data"
+monitor_inn: "Calcium citrate"
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "septal myocardial infarction", "migraine disorder", "posterolateral myocardial infarction", "posteroinferior myocardial infarction"]
 ---
 
 # Calcium Citrate

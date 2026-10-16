@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Monobenzone: predicted new indication Dentinogenesis imperfecta (evidence level L5). Approved use: Not stated in the registration records compiled for this report (the…"
+monitor_inn: "Monobenzone"
+predicted_indications: ["dentinogenesis imperfecta", "deafness, autosomal dominant 39, with dentinogenesis imperfecta 1", "rectal cloacogenic carcinoma", "esophageal basaloid carcinoma", "esophagus verrucous carcinoma", "adenosquamous prostate carcinoma", "adenosquamous lung carcinoma", "acantholytic variant squamous cell breast carcinoma", "adenosquamous breast carcinoma", "gallbladder adenosquamous carcinoma"]
 ---
 
 # Monobenzone

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Vasopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not stated in the available India license data"
+monitor_inn: "Vasopressin"
+predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "orofacial clefting syndrome", "ductal or ductular proliferation", "non-seminomatous lesion", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "cystic neoplasm"]
 ---
 
 # Vasopressin

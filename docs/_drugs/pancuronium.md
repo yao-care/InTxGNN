@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Pancuronium: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the registration data compiled for this report (pancuro…"
+monitor_inn: "Pancuronium"
+predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "obsolete neurogenic bladder (disease)", "neurocirculatory asthenia", "migraine disorder", "migraine with brainstem aura", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "autonomic nervous system disease", "MVP1"]
 ---
 
 # Pancuronium

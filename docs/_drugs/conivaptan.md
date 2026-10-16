@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
 description: "Conivaptan: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not stated in the Indian license data (conivaptan is generally used f…"
+monitor_inn: "Conivaptan"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "kyphoscoliotic heart disease", "peripheral arterial disease", "peripheral vascular disease"]
 ---
 
 # Conivaptan

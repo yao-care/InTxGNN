@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
+monitor_inn: "Potassium Iodide"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Potassium Iodide

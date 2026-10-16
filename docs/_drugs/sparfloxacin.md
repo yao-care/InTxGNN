@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-14
 description: "Sparfloxacin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Pneumonia (streptococcal, Mycoplasma pneumoniae, chlamydial)"
+monitor_inn: "Sparfloxacin"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
 ---
 
 # Sparfloxacin

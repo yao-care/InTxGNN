@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Armodafinil: predicted new indication Insomnia (evidence level L2). Approved use: Narcolepsy (also listed: narcolepsy-cataplexy syndrome…"
+monitor_inn: "Armodafinil"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Armodafinil

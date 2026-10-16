@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Sodium Stibogluconate: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Leishmaniasis"
+monitor_inn: "Sodium stibogluconate"
+predicted_indications: ["drug-induced osteoporosis"]
 ---
 
 # Sodium Stibogluconate

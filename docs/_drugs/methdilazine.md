@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Methdilazine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Angioedema, allergic rhinitis, vasomotor rhinitis…"
+monitor_inn: "Methdilazine"
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Methdilazine

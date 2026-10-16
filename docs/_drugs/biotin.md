@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
+monitor_inn: "Biotin"
+predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
 ---
 
 # Biotin

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Beta Carotene: predicted new indication Acne (disease) (evidence level L4). Approved use: Not stated"
+monitor_inn: "Beta carotene"
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "tetanic cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract"]
 ---
 
 # Beta Carotene

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Pegaptanib: predicted new indication Esophageal varices with bleeding (a second prediction… (evidence level L5). Approved use: Macular degeneration"
+monitor_inn: "Pegaptanib"
+predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
 ---
 
 # Pegaptanib

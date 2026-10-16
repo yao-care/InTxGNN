@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ranibizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Diabetic retinopathy, diabetic macular edema, macular degeneration…"
+monitor_inn: "Ranibizumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "mature cataract", "immature cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "hemorrhagic disease of newborn"]
 ---
 
 # Ranibizumab

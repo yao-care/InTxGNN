@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Tolfenamic Acid: predicted new indication Headache disorder (evidence level L5). Approved use: Not stated in the available India licence data"
+monitor_inn: "Tolfenamic acid"
+predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "exostosis", "inclusion body myositis", "osteoarthritis susceptibility"]
 ---
 
 # Tolfenamic Acid

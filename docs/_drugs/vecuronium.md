@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Vecuronium: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence records (approved indication text is empty)"
+monitor_inn: "Vecuronium"
+predicted_indications: ["insomnia (disease)", "irritable bowel syndrome", "neurocirculatory asthenia", "benign prostatic hyperplasia (disease)", "cauda equina syndrome", "headache disorder", "rhinitis", "anxiety", "trigeminal autonomic cephalalgia", "migraine disorder"]
 ---
 
 # Vecuronium

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Cefetamet: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the data compiled for this report . Based on its drug c…"
+monitor_inn: "Cefetamet"
+predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "hemoglobinopathy", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "beta-thalassemia with other manifestations", "acromesomelic dysplasia, Hunter-Thompson type"]
 ---
 
 # Cefetamet

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 6
 last_modified_at: 2026-10-14
 description: "Dexrabeprazole: predicted new indication Active peptic ulcer disease (evidence level L3). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
+monitor_inn: "Dexrabeprazole"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "gastroduodenitis"]
 ---
 
 # Dexrabeprazole

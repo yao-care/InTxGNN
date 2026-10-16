@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 6
 last_modified_at: 2026-10-14
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the Indian licence data compiled for this report (eslic…"
+monitor_inn: "Eslicarbazepine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Eslicarbazepine

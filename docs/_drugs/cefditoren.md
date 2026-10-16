@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Cefditoren: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not stated in the licence data compiled for this report (cefditoren i…"
+monitor_inn: "Cefditoren"
+predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis", "osteoarthritis", "hemoglobinopathy", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "partial deletion of the short arm of chromosome 16"]
 ---
 
 # Cefditoren

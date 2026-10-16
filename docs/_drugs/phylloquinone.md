@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-14
 description: "Phylloquinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Osteoporosis, postmenopausal osteoporosis, hypercalcemia…"
+monitor_inn: "Phylloquinone"
+predicted_indications: ["renal tubular acidosis", "hypophosphatemic rickets", "Pendred syndrome", "autosomal recessive nonsyndromic deafness", "NAD(P)HX dehydratase deficiency", "leukocyte adhesion deficiency", "hypermanganesemia with dystonia", "Fraser syndrome", "temtamy preaxial brachydactyly syndrome"]
 ---
 
 # Phylloquinone

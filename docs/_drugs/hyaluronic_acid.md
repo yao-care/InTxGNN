@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Hyaluronic Acid: predicted new indication Dry eye syndrome (evidence level L1). Approved use: Not available"
+monitor_inn: "Hyaluronic acid"
+predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
 ---
 
 # Hyaluronic Acid

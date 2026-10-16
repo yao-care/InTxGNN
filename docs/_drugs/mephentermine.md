@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Mephentermine: predicted new indication Postural orthostatic tachycardia syndrome (evidence level L5). Approved use: Hypotensive disorder"
+monitor_inn: "Mephentermine"
+predicted_indications: ["postural orthostatic tachycardia syndrome", "sinoatrial node disease", "sinoatrial block", "variably protease-sensitive prionopathy"]
 ---
 
 # Mephentermine

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L2). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
+monitor_inn: "Trazodone"
+predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "phobic disorder", "Ohdo syndrome and variants"]
 ---
 
 # Trazodone

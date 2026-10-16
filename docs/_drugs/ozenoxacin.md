@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ozenoxacin: predicted new indication Malaria (evidence level L5). Approved use: Acne"
+monitor_inn: "Ozenoxacin"
+predicted_indications: ["malaria", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "spondyloarthropathy, susceptibility to", "relapsing fever", "zinc, elevated plasma", "demodicidosis of sebaceous gland", "Zollinger-Ellison syndrome", "sterile multifocal osteomyelitis with periostitis and pustulosis", "leishmaniasis", "rheumatoid vasculitis"]
 ---
 
 # Ozenoxacin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Dichlorobenzyl Alcohol: predicted new indication Bronchitis (evidence level L5). Approved use: Not stated in the approval records (marketed as cough/throat lozenges)"
+monitor_inn: "Dichlorobenzyl alcohol"
+predicted_indications: ["bronchitis", "migraine disorder"]
 ---
 
 # Dichlorobenzyl Alcohol

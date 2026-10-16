@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Cetuximab: predicted new indication Non-seminomatous lesion (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma…"
+monitor_inn: "Cetuximab"
+predicted_indications: ["non-seminomatous lesion", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
 ---
 
 # Cetuximab

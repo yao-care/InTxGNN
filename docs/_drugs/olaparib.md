@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Olaparib: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Ovarian cancer (including BRCA-associated ovarian cancer subtypes)"
+monitor_inn: "Olaparib"
+predicted_indications: ["female breast carcinoma"]
 ---
 
 # Olaparib

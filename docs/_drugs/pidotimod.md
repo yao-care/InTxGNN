@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Pidotimod: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not specified"
+monitor_inn: "Pidotimod"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "hepatic porphyria", "pseudoachondroplasia", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis"]
 ---
 
 # Pidotimod

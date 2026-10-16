@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Amodiaquine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not stated in the India license data"
+monitor_inn: "Amodiaquine"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "kyphoscoliotic heart disease", "migraine with or without aura, susceptibility to", "migraine with brainstem aura", "rheumatoid arthritis", "leprosy", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Amodiaquine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Trimebutine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the Indian license record"
+monitor_inn: "Trimebutine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Trimebutine

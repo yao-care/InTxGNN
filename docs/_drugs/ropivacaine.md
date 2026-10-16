@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). Approved use: Not stated in the licence records compiled for this report (a local a…"
+monitor_inn: "Ropivacaine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 ---
 
 # Ropivacaine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
 description: "Clofazimine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Pyoderma gangrenosum, leprosy, multibacillary leprosy"
+monitor_inn: "Clofazimine"
+predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
 ---
 
 # Clofazimine

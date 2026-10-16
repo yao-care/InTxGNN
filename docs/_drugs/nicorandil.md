@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Nicorandil: predicted new indication Benign prostatic hyperplasia (evidence level L4). Approved use: Chronic stable angina pectoris"
+monitor_inn: "Nicorandil"
+predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis susceptibility", "osteoarthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome"]
 ---
 
 # Nicorandil

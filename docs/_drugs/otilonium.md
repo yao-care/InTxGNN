@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Otilonium: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not stated in the licence data compiled for this report (the drug is…"
+monitor_inn: "Otilonium"
+predicted_indications: ["hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "polyp of vocal cord", "polyp of middle ear", "uterine polyp", "polyp of external auditory canal", "polyp of frontal sinus"]
 ---
 
 # Otilonium

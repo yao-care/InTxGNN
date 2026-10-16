@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 7
 last_modified_at: 2026-10-14
 description: "Carbenicillin: predicted new indication Gonococcal urethritis (evidence level L3). Approved use: Urinary tract infection"
+monitor_inn: "Carbenicillin"
+predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "epiglottitis", "laryngitis"]
 ---
 
 # Carbenicillin

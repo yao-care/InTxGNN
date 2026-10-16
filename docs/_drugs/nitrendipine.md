@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Nitrendipine: predicted new indication Migraine disorder (evidence level L5). Approved use: Mild to moderate hypertension"
+monitor_inn: "Nitrendipine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina"]
 ---
 
 # Nitrendipine

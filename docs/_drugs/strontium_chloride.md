@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Strontium Chloride: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the India license data"
+monitor_inn: "Strontium chloride"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "hepatic porphyria", "gout", "pseudoachondroplasia", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension"]
 ---
 
 # Strontium Chloride

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Halometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Not specified in the registration data"
+monitor_inn: "Halometasone"
+predicted_indications: ["primary cutaneous T-cell lymphoma", "polyp of vocal cord", "polyp of middle ear", "uterine polyp", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "fibroepithelial polyp", "polyp of vulva", "neoplastic polyp"]
 ---
 
 # Halometasone

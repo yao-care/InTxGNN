@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Nimotuzumab: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not listed in the available licence data"
+monitor_inn: "Nimotuzumab"
+predicted_indications: ["diabetic cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract", "immature cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Nimotuzumab

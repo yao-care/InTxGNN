@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Sodium Feredetate: predicted new indication Bronchitis (evidence level L5). Approved use: Iron supplementation (iron deficiency)"
+monitor_inn: "Sodium feredetate"
+predicted_indications: ["bronchitis", "bronchial neoplasm (disease)", "gastroduodenitis", "peptic ulcer disease", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "severe nonproliferative diabetic retinopathy", "Chagas cardiomyopathy", "infective urethral stricture"]
 ---
 
 # Sodium Feredetate

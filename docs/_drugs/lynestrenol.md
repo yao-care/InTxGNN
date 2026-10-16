@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Lynestrenol: predicted new indication Migraine with or without aura, susceptibility to (evidence level L4). Approved use: Not stated in the available India licence records"
+monitor_inn: "Lynestrenol"
+predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "Prinzmetal angina"]
 ---
 
 # Lynestrenol

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Selegiline: predicted new indication Polymicrogyria, perisylvian… (evidence level L5). Approved use: Parkinson's disease"
+monitor_inn: "Selegiline"
+predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
 ---
 
 # Selegiline

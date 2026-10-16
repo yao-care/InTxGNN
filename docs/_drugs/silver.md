@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Silver: predicted new indication bone Paget disease (evidence level L5). Approved use: Not stated in the licence records (the products are marketed as antim…"
+monitor_inn: "Silver"
+predicted_indications: ["bone Paget disease", "amenorrhea (disease)", "non-syndromic esophageal malformation", "juvenile Paget disease", "esotropia", "epidermodysplasia verruciformis", "esophageal disease", "Paget disease of bone", "myelodysplastic syndrome", "primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"]
 ---
 
 # Silver

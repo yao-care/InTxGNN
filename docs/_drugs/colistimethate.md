@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Colistimethate: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
+monitor_inn: "Colistimethate"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hepatic porphyria", "brachyolmia", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis"]
 ---
 
 # Colistimethate

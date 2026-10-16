@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
 description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Osteoporosis"
+monitor_inn: "Minodronic acid"
+predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "severe nonproliferative diabetic retinopathy", "bone Paget disease", "fetal and neonatal alloimmune thrombocytopenia", "juvenile Paget disease"]
 ---
 
 # Minodronic Acid

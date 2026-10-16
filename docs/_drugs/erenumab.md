@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Erenumab: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder"
+monitor_inn: "Erenumab"
+predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Erenumab

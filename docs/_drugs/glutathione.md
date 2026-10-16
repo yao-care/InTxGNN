@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Glutathione: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not stated in the compiled data"
+monitor_inn: "Glutathione"
+predicted_indications: ["sclerosing cholangitis", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "dry eye syndrome", "aregenerative anemia", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Glutathione

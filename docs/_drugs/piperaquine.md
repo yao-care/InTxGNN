@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Piperaquine: predicted new indication Plasmodium vivax malaria (evidence level L1). Approved use: Malaria"
+monitor_inn: "Piperaquine"
+predicted_indications: ["cystic echinococcosis", "Plasmodium vivax malaria", "echinococcus granulosus infectious disease", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "alveolar echinococcosis", "systemic mastocytosis", "nocardiosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "enterobiasis"]
 ---
 
 # Piperaquine

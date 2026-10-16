@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Estriol: predicted new indication Amenorrhea (evidence level L3). Approved use: Not specified in the India licence records"
+monitor_inn: "Estriol"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Estriol

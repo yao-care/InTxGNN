@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Altretamine: predicted new indication Female breast carcinoma (evidence level L4). Approved use: Ovarian cancer"
+monitor_inn: "Altretamine"
+predicted_indications: ["female breast carcinoma", "gonadal germ cell tumor", "ovarian primitive germ cell tumor", "choriocarcinoma of ovary", "malignant non-epithelial tumor of ovary", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
 ---
 
 # Altretamine

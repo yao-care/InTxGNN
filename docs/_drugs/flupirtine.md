@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Flupirtine: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the available licence records (approved indication text…"
+monitor_inn: "Flupirtine"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "hepatic porphyria", "pseudoachondroplasia", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "hepatoportal sclerosis", "primitive portal vein thrombosis"]
 ---
 
 # Flupirtine

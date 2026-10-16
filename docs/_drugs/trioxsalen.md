@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Trioxsalen: predicted new indication Vaginitis (evidence level L5). Approved use: Vitiligo, photosensitivity disease, photoparoxysmal response"
+monitor_inn: "trioxsalen"
+predicted_indications: ["vaginitis (disease)", "leukoplakia of vagina", "vaginal discharge", "bacterial vaginosis", "vulvar inverted follicular keratosis", "postmenopausal atrophic vaginitis", "vulvitis", "vulvovaginitis", "ulceration of vulva", "vulvar neoplasm"]
 ---
 
 # Trioxsalen

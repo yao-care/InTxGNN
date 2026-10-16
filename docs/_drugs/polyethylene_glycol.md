@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Polyethylene Glycol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Constipation disorder, dry eye syndrome, xerophthalmia"
+monitor_inn: "Polyethylene glycol"
+predicted_indications: ["congenital ichthyosiform erythroderma"]
 ---
 
 # Polyethylene Glycol

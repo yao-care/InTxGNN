@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Itopride: predicted new indication Small bowel Crohn disease (evidence level L5). Approved use: Gastritis"
+monitor_inn: "Itopride"
+predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)", "esophageal ulcer", "cascade stomach", "Dieulafoy lesion", "gastric dilatation", "pylorospasm", "hemorrhagic duodenitis"]
 ---
 
 # Itopride

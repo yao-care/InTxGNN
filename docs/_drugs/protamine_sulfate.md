@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Protamine Sulfate: predicted new indication Helminthiasis, animal (evidence level L5). Approved use: Not stated in the Indian license records (the drug is known as a hepa…"
+monitor_inn: "Protamine sulfate"
+predicted_indications: ["helminthiasis, animal", "classical swine fever", "hip dysplasia, canine", "hepatitis, viral, animal", "gingivitis", "gingival overgrowth", "epidermitis, exudative, of swine", "encephalomyelitis, enzootic porcine", "edema disease of swine", "infectious bovine rhinotracheitis"]
 ---
 
 # Protamine Sulfate

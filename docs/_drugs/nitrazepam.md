@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-14
 description: "Nitrazepam: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L3). Approved use: Insomnia"
+monitor_inn: "Nitrazepam"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Nitrazepam

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Tulobuterol: predicted new indication Bronchitis (evidence level L4). Approved use: Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema"
+monitor_inn: "Tulobuterol"
+predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory malformation", "chronic obstructive pulmonary disease", "Rienhoff syndrome", "compensatory emphysema", "interstitial emphysema", "hyperlucent lung", "tracheal stenosis", "congenital lobar emphysema"]
 ---
 
 # Tulobuterol

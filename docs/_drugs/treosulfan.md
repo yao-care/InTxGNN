@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not stated in the India license data (the approved indication text is…"
+monitor_inn: "Treosulfan"
+predicted_indications: ["diabetic cataract", "cortical cataract", "nuclear senile cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "mature cataract", "diabetic retinopathy", "senile cataract"]
 ---
 
 # Treosulfan
