@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 9 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 10 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>10 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -256,7 +256,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [H. pylori And Cancer: US Gastroenterologist Explains How A Common Stomach Infection Raises Risk - Health and Me](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk55MEQ3VV90aG13TWF6WTR5Qm9KMW9BU3JCQ2dkeGJVOTQxT0FLQUVCcS1adXZlaFZETGFSUzc5RVp6c0JYOEFNeERUSHNLT2RHd3luZ01za1VQRHZQYnNoNzRvYXZHRkozN2tqak43LXNndm80eW1iQ1RXMW8yeG5mUDdhQURWcjBmS3ZJTUo3bnJVVW1raGNaLTlTRllpM0J3NFA3VE9xbUJ0a1JvMlU5QzhXNTZzT0Q5YjBBenlYTFJZUDYwX0RIV0ZQak5IV0p4OURiQmN6ZGFxSmJNQmJoQ0tVUGg2NXdZ?oc=5)
 
@@ -303,6 +303,14 @@ Source: [India Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVgta
 2026-10-16
 
 Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU5qZFZkR000WUFiZlQyNVV6VlZwWVpIaC1UdDlVeVNTT0RWNXhXTnUzNDFPcUNiVjBhNW5WOTVTYjhrNnpkbDN1b3FDcVB3RGRkTThfc2lIeU9ZSkFHZTczOVJMOGkzVEF4dkV3eWcwSEVuVlMxLTgxWG9OVWsxNzBpUUU3UFpSWktWSjE5Z1ZjQnBVR2ItZ2FVal9yM3ZEZXB3RGxvTQ?oc=5)
+
+---
+
+### [Prepregnancy HPV Vaccination Linked to Lower Risk for Adverse Pregnancy Outcomes - The Cardiology Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzkzeEVlTWZha1I0V0trN0hUTGpBOVA0Q0dNRmJlTEdjb1h1enluQzVJYmYyS19leUVkWG5WbFFMMnFhcEVnYVdKcVZQU0FOcEdwQTM2R0NQd0NjSEFjZVdGQVpBZE8tOU8xeUx1cUF3ZDY5UnhFQkxzTE9JVy0tVFpDVGd6RWIwLW0zcGU3MnJ6N0Y5T24tVHJxSDFnRUV4dVUyeEtUZzQwS3FJcC1WaGxyTmFmSFhRQUhrNVZGdFo?oc=5)
+
+2026-10-16
+
+Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzkzeEVlTWZha1I0V0trN0hUTGpBOVA0Q0dNRmJlTEdjb1h1enluQzVJYmYyS19leUVkWG5WbFFMMnFhcEVnYVdKcVZQU0FOcEdwQTM2R0NQd0NjSEFjZVdGQVpBZE8tOU8xeUx1cUF3ZDY5UnhFQkxzTE9JVy0tVFpDVGd6RWIwLW0zcGU3MnJ6N0Y5T24tVHJxSDFnRUV4dVUyeEtUZzQwS3FJcC1WaGxyTmFmSFhRQUhrNVZGdFo?oc=5)
 
 ---
 

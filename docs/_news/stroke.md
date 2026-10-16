@@ -45,11 +45,11 @@ This page brings together the latest health news about “stroke” and lists th
 
 ## Related News (3)
 
-### [Alarming Increase in Stroke in Young Adults Seen Over Decades](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZC1hdEp2b2pmR2VfSDFVV0RJWFY0Qzc4ajM3SkYzZXVIMUx1QUFVb3ZIeVVIYmNUR2VnVkplRFRJajRFUXI5V2ZoT1J1WmVBWWhPTWZGVXhSZnNZOURxcFFhWFVjd1R4ZDJDZ21lQ1JFY09ZZnNIbEpacFJGUXU4ay1pNjJtQ2ZIeU50NWFFVHdLUVFBaWtxaHJhRTZ5Mm1aaC1jTlVJcw?oc=5)
+### [Not Just Seniors: Stroke Rates Double In Adults Under 55, Finds New Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejQwMmYzSDRoVlFLdUhhZ2hyNzJiMkJYdlhmUGpaZW1HdEpNS0gwYmVPM3dDaTk5dlg1QzJtYTVTYTlvbFRjN0M1dF9TZS1ac0IzTmQyZGdDcDVGNWhaMTdCOTBlVXBtZXFVdzUxQjBrS0xiODUwZVg2QmktbTRTRl96bXp4MW1BTGdOUG9pcTZMODI3YnYzd1JvNW1xRnlNb1BGb0h6cGRSQTF4?oc=5)
 
 2026-10-16
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNZC1hdEp2b2pmR2VfSDFVV0RJWFY0Qzc4ajM3SkYzZXVIMUx1QUFVb3ZIeVVIYmNUR2VnVkplRFRJajRFUXI5V2ZoT1J1WmVBWWhPTWZGVXhSZnNZOURxcFFhWFVjd1R4ZDJDZ21lQ1JFY09ZZnNIbEpacFJGUXU4ay1pNjJtQ2ZIeU50NWFFVHdLUVFBaWtxaHJhRTZ5Mm1aaC1jTlVJcw?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejQwMmYzSDRoVlFLdUhhZ2hyNzJiMkJYdlhmUGpaZW1HdEpNS0gwYmVPM3dDaTk5dlg1QzJtYTVTYTlvbFRjN0M1dF9TZS1ac0IzTmQyZGdDcDVGNWhaMTdCOTBlVXBtZXFVdzUxQjBrS0xiODUwZVg2QmktbTRTRl96bXp4MW1BTGdOUG9pcTZMODI3YnYzd1JvNW1xRnlNb1BGb0h6cGRSQTF4?oc=5)
 
 ---
 

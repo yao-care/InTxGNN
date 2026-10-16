@@ -94,6 +94,14 @@ Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV
 
 ---
 
+### [Prepregnancy HPV Vaccination Linked to Lower Risk for Adverse Pregnancy Outcomes - The Cardiology Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzkzeEVlTWZha1I0V0trN0hUTGpBOVA0Q0dNRmJlTEdjb1h1enluQzVJYmYyS19leUVkWG5WbFFMMnFhcEVnYVdKcVZQU0FOcEdwQTM2R0NQd0NjSEFjZVdGQVpBZE8tOU8xeUx1cUF3ZDY5UnhFQkxzTE9JVy0tVFpDVGd6RWIwLW0zcGU3MnJ6N0Y5T24tVHJxSDFnRUV4dVUyeEtUZzQwS3FJcC1WaGxyTmFmSFhRQUhrNVZGdFo?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span>
+
+Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzkzeEVlTWZha1I0V0trN0hUTGpBOVA0Q0dNRmJlTEdjb1h1enluQzVJYmYyS19leUVkWG5WbFFMMnFhcEVnYVdKcVZQU0FOcEdwQTM2R0NQd0NjSEFjZVdGQVpBZE8tOU8xeUx1cUF3ZDY5UnhFQkxzTE9JVy0tVFpDVGd6RWIwLW0zcGU3MnJ6N0Y5T24tVHJxSDFnRUV4dVUyeEtUZzQwS3FJcC1WaGxyTmFmSFhRQUhrNVZGdFo?oc=5)
+
+---
+
 ### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
 
 2026-10-16 <span class="news-indication-tag">joint pain</span>
@@ -107,14 +115,6 @@ Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU
 2026-10-15 <span class="news-indication-tag">cancer</span>
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
-
----
-
-### [Hyderabad doctors warn of back and neck pain from long commutes and poor roads - Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
-
-2026-10-15 <span class="news-indication-tag">RA</span>
-
-Source: [Telangana Today](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHpZeElzSWJPajItNEhzYWhuR09hSDB6YXZRUWFLNU1rQVRTMW1JdXdVbFN1d3JOQVNFOWdRVTdKUWtjRENYd3podjNBeXdWOUlTYXNDNElsWWJ4QkNQUktWeVlVVWpEQVJtc094NU9XY01KcVlGbnN3UFYxTzdQUGhIb1IxZDZieGRTWERuN0Vqb1FhWVc3dENwejBGMWQxTW40eUFKTnA?oc=5)
 
 ---
 

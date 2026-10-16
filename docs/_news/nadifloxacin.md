@@ -14,7 +14,7 @@ permalink: /news/nadifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [CFAs: Accelerating Research and Development of Next Generation Vaccines against Malaria Program (US) - fundsforNGOs - Grants and Resources for Sustainability](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTG5Ed2dYR0syUVFuczMtMnhqTzhjR3N5Nzh4WGJ2SS1WSFREcUlFZzdWRWhoeGFUUzdpUlVHaTVPNERXYWw2SGdkWDFiRGhGdDY0WEl4Z0dDSktQNWZXa0Y3ODdnLU5vY1k3eE8tRk92UklfMTRZdGtuNFBDY2E3Q1c3eG5wekZmOWxjdFRrMGZ6b190alBiVkdXcVBGSjZqeVhsNlJ2bHpIbnVnRmdUb3l3WWptLWQya0ZMV1N4LW5ybFZoMTNETVlEQmk2dDY3ajZfODhR?oc=5)
-
-2026-10-16 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
-
-Source: [fundsforNGOs - Grants and Resources for Sustainability](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTG5Ed2dYR0syUVFuczMtMnhqTzhjR3N5Nzh4WGJ2SS1WSFREcUlFZzdWRWhoeGFUUzdpUlVHaTVPNERXYWw2SGdkWDFiRGhGdDY0WEl4Z0dDSktQNWZXa0Y3ODdnLU5vY1k3eE8tRk92UklfMTRZdGtuNFBDY2E3Q1c3eG5wekZmOWxjdFRrMGZ6b190alBiVkdXcVBGSjZqeVhsNlJ2bHpIbnVnRmdUb3l3WWptLWQya0ZMV1N4LW5ybFZoMTNETVlEQmk2dDY3ajZfODhR?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

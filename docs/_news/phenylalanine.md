@@ -14,7 +14,7 @@ permalink: /news/phenylalanine/
 ---
 
 <p class="key-answer" data-question="What news is there about Phenylalanine?">
-<strong>Phenylalanine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Phenylalanine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ This page combines the AI-predicted indications for Phenylalanine with the lates
 <p><a href="{{ '/drugs/phenylalanine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Analytical study on titan yellow sensing using a poly (phenylalanine)-modified carbon nanotube electrochemical sensor](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWnFQOVBpUFZORFdRbUhUV3FCdEdPUzRvVTl1SXN2TXdCVUliS0h1QU1kNmdRVGlkMHpHSXp6dGhIc1VSdUVaQTl2djZjRV9uNGR4STYzMlpjcmczSU0w?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Phenylalanine</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWnFQOVBpUFZORFdRbUhUV3FCdEdPUzRvVTl1SXN2TXdCVUliS0h1QU1kNmdRVGlkMHpHSXp6dGhIc1VSdUVaQTl2djZjRV9uNGR4STYzMlpjcmczSU0w?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

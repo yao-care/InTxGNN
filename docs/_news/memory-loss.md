@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 2 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 1 articles, 8 related drugs."
 permalink: /news/memory-loss/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/memory-loss/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
-
-### [Bariatric Surgery Linked to Lower Dementia, Parkinson's Risk](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzdmYmFIbC1EMnVKdjdFaW82ekkwcEpCbEJHTDhpLTlnQzVuNHFfNzZLcTgyUGtSaS14YUF6Qm90d2p4Nk1laHFueXlPREFLWDlNQkpVS1p0YW83Q3k5SHJyODY2QmhkVkh2MF92X21NcENJakMycWNocExZcFp5dFNxRmt6dHRNUzlMYmlCSFVOR0pZNXlPZ2JyaUhJYzA0WHFnRS1oQUktdnNKdkE?oc=5)
-
-2026-10-16
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzdmYmFIbC1EMnVKdjdFaW82ekkwcEpCbEJHTDhpLTlnQzVuNHFfNzZLcTgyUGtSaS14YUF6Qm90d2p4Nk1laHFueXlPREFLWDlNQkpVS1p0YW83Q3k5SHJyODY2QmhkVkh2MF92X21NcENJakMycWNocExZcFp5dFNxRmt6dHRNUzlMYmlCSFVOR0pZNXlPZ2JyaUhJYzA0WHFnRS1oQUktdnNKdkE?oc=5)
-
----
+## Related News (1)
 
 ### [Could Ozempic Protect The Brain? Study Finds Links To Lower Stroke And Alzheimer’s Risk - News Mobile](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanFOblJ3eTVqSF9WN3BYNGZrcWx6NUdkS0dGODMwczFxam9uclFoaGUtM2FQUkFXS3ZXdEdSME1tb1lCZjNzY083OE1xbEtCNGFoeTNFN1Z4TnNPLWJfSG52UXhRMm9HaWtYUld6eWdFOVJRT3dmTFBDc2lHVGZNREVQcUxUNl93VkQzdWN5VUxOTG16VHVzYVJ2NVBDUWZ6Yi1JdlBTdlh5LVliTUtWelQ0QV9yS2VJd1dR?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/dihydralazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dihydralazine?">
-<strong>Dihydralazine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Dihydralazine</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ This page combines the AI-predicted indications for Dihydralazine with the lates
 <p><a href="{{ '/drugs/dihydralazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Heart disease can develop without obvious symptoms: Cardiologists explain tests, from Lipoprotein(a) and ApoB to coronary calcium scans, that can help uncover hidden cardiovascular risk - The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
+
+---
 
 
 <div class="disclaimer">

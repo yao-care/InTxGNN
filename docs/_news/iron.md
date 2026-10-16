@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [White Sands footprints suggest humans experienced abrupt environmental shifts during the last ice age](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTlZdUdwRVJTNEVNcDZESTVlVy1vc3dWaTliTGYwNm9LUzBWQ1h0ejZJZ1hCYlpITWdyeExzUUtFRFAyQjU2Z1Y1V1hELWdfaTlodVFDU1hncDhaemIxWG9YdmdaLUpUYzBPbFQ5UGxhR2tLbXJrUlFxdVY4bDBRSG1R?oc=5)
+
+2026-10-15 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxQRTlZdUdwRVJTNEVNcDZESTVlVy1vc3dWaTliTGYwNm9LUzBWQ1h0ejZJZ1hCYlpITWdyeExzUUtFRFAyQjU2Z1Y1V1hELWdfaTlodVFDU1hncDhaemIxWG9YdmdaLUpUYzBPbFQ5UGxhR2tLbXJrUlFxdVY4bDBRSG1R?oc=5)
+
+---
 
 
 <div class="disclaimer">

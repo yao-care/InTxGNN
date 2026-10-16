@@ -3,7 +3,7 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 3 articles, 23 related drugs."
+description: "Health news about menopause. 4 articles, 23 related drugs."
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>4 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -51,7 +51,7 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
 
@@ -66,6 +66,14 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhq
 2026-10-15
 
 Source: [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5)
+
+---
+
+### [Can AI Personalise Menopause Care? How Technology Can Transform Women’s Health](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjZGQ2VTZElBMHhndGdMR253YkwydnBuQmNQUTEteHRzLTJ3STVpUXBPSHRmZW5ESkJjcS0zMVhHSm1wajhtN012LVdBTjhjWUtTSGpEVEx0UWwzbTR6WU9lcV80c0MtZmlBMFFZbzJpbmhsMGNYc005U0tjWTdBUENVVXU0NG5MUFdBYWJZVHE5SExVdWdWZXdHRWdlUzdnZ0dqWnF1RzVCd0w4WGktTmFRTzFaQkZhQmFWOVUwUGMycXA1S2RLUdIBzwFBVV95cUxQVFpCWFQtN2J6blozbXBKc3VKcjFmQURGdm95YTVacmJHaHZ3aExoWTR0T09Pd1hpTnlZRDEtZUtxMTBIdC1vczJ1dFA4YXJrX2lQQ2J6eWNTX3JGMGs5UllRS29KWjZjb0lrSHdrT3JLeHAyS2JDdmtIcHU5UUZScmszQ3VyWGNTa215Zk1PRzdyMkNOVmRmTG1aanhEVEZHSTdveS1tZThxeGE1eGtKUEQ4Sm9JaEY4a1Q0bWg2cVJxbWE3VXNrS1B2cnRNVVU?oc=5)
+
+2026-10-15
+
+Source: [Herzindagi](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjZGQ2VTZElBMHhndGdMR253YkwydnBuQmNQUTEteHRzLTJ3STVpUXBPSHRmZW5ESkJjcS0zMVhHSm1wajhtN012LVdBTjhjWUtTSGpEVEx0UWwzbTR6WU9lcV80c0MtZmlBMFFZbzJpbmhsMGNYc005U0tjWTdBUENVVXU0NG5MUFdBYWJZVHE5SExVdWdWZXdHRWdlUzdnZ0dqWnF1RzVCd0w4WGktTmFRTzFaQkZhQmFWOVUwUGMycXA1S2RLUdIBzwFBVV95cUxQVFpCWFQtN2J6blozbXBKc3VKcjFmQURGdm95YTVacmJHaHZ3aExoWTR0T09Pd1hpTnlZRDEtZUtxMTBIdC1vczJ1dFA4YXJrX2lQQ2J6eWNTX3JGMGs5UllRS29KWjZjb0lrSHdrT3JLeHAyS2JDdmtIcHU5UUZScmszQ3VyWGNTa215Zk1PRzdyMkNOVmRmTG1aanhEVEZHSTdveS1tZThxeGE1eGtKUEQ4Sm9JaEY4a1Q0bWg2cVJxbWE3VXNrS1B2cnRNVVU?oc=5)
 
 ---
 
