@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-16",
-  "total_count": 903,
+  "total_count": 901,
   "source": "InTxGNN",
   "drugs": [
     {
@@ -5834,16 +5834,6 @@
       "url": "/drugs/nicorandil/"
     },
     {
-      "slug": "nicotinamide",
-      "name": "Nicotinamide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nicotinamide/"
-    },
-    {
       "slug": "nilotinib",
       "name": "Nilotinib",
       "evidence_level": "L5",
@@ -8642,16 +8632,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tyrosine/"
-    },
-    {
-      "slug": "urea",
-      "name": "Urea",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/urea/"
     },
     {
       "slug": "urofollitropin",
