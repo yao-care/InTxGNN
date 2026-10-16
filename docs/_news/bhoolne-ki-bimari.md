@@ -27,10 +27,10 @@ This page brings together the latest health news about “dementia” and lists 
 <ul>
 <li><a href="{{ '/drugs/albendazole/' | relative_url }}">Albendazole</a></li>
 <li><a href="{{ '/drugs/dasatinib/' | relative_url }}">Dasatinib</a></li>
-<li><a href="{{ '/drugs/db00674/' | relative_url }}">GALANTAMINE</a></li>
-<li><a href="{{ '/drugs/db00843/' | relative_url }}">DONEPEZIL</a></li>
-<li><a href="{{ '/drugs/db00989/' | relative_url }}">RIVASTIGMINE</a></li>
-<li><a href="{{ '/drugs/db12131/' | relative_url }}">VINPOCETINE</a></li>
+<li><a href="{{ '/drugs/galantamine/' | relative_url }}">GALANTAMINE</a></li>
+<li><a href="{{ '/drugs/donepezil/' | relative_url }}">DONEPEZIL</a></li>
+<li><a href="{{ '/drugs/rivastigmine/' | relative_url }}">RIVASTIGMINE</a></li>
+<li><a href="{{ '/drugs/vinpocetine/' | relative_url }}">VINPOCETINE</a></li>
 <li><a href="{{ '/drugs/entacapone/' | relative_url }}">Entacapone</a></li>
 <li><a href="{{ '/drugs/lorlatinib/' | relative_url }}">Lorlatinib</a></li>
 </ul>
