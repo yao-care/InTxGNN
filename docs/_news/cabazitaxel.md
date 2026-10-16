@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
 
-### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+### [Replacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate - The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
+
+---
+
+### [Long Commutes, Bumpy Roads And Screen Time Adding To Back And Neck Pain, Warn CARE Hospitals Doctors. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
 
 ---
 
@@ -66,6 +74,14 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBV
 
 ---
 
+### [Long COVID may impact bacteria in mouth, lungs: study - The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
+
+---
+
 ### [MHRA Authorises Once-Weekly Insulin for Type 2 Diabetes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4OWR2QWpNMHRGbXFsdDN4bDhFUFpTNllsb0d5Rnl6a1pDVGtzYXFVY3ptRW9EZ3NTRTNJd3N0T3UteDRmZU9ONE1VMEpXTDNjbnJNOUZVajYtdWxkdFZyRGttOEI1cVdyeEo0M19wQ3VLTlJLX2VXRV9KYklVV1JHN1RiY3BndW1PZkJaMUIzRnVtdngzZjRPM3BDUFJn?oc=5)
 
 2026-10-15 <span class="news-indication-tag">RA</span>
@@ -74,19 +90,19 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4
 
 ---
 
-### [What a Large Prostate MRI Study Reveals About AI and Unassisted Radiologist Assessment - Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
-
----
-
 ### [Cancer is rising in younger adults, and scientists can't fully explain why - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXVGZGg3aTU1VGR5LU85YXpLbjJ0dG93Mm1GTVlVdkhCLW1abGtiUHNiV1FCeFFRTnJrc0ZKOWpRMlVybkRJdXdSQ0tiMXRlLXNSYlF3RE5tdEsya1NoU0NRN1lEem9zVlBsQjNNaw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXVGZGg3aTU1VGR5LU85YXpLbjJ0dG93Mm1GTVlVdkhCLW1abGtiUHNiV1FCeFFRTnJrc0ZKOWpRMlVybkRJdXdSQ0tiMXRlLXNSYlF3RE5tdEsya1NoU0NRN1lEem9zVlBsQjNNaw?oc=5)
+
+---
+
+### [Artificial Intelligence for Prostate Cancer Detection and Screening on MRI in Global Populations: The SCARLET-1 Study - National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MXJxSUhCX3BXLS1BSFJhbzNaWW1mVTV5T0NBZGhlcnA4cW5FYzZ5SjNMQjNoSjBRRGZEaFVRYlN4SGxXeVRqWjlMekc3bEw1aFd3?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MXJxSUhCX3BXLS1BSFJhbzNaWW1mVTV5T0NBZGhlcnA4cW5FYzZ5SjNMQjNoSjBRRGZEaFVRYlN4SGxXeVRqWjlMekc3bEw1aFd3?oc=5)
 
 ---
 

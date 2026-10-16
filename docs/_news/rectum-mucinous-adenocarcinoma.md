@@ -32,11 +32,11 @@ This page brings together the latest health news about “rectal cancer” and l
 
 ## Related News (1)
 
-### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+### [Replacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate - The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
 
 2026-10-15
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
 
 ---
 

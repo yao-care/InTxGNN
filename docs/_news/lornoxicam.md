@@ -14,7 +14,7 @@ permalink: /news/lornoxicam/
 ---
 
 <p class="key-answer" data-question="What news is there about Lornoxicam?">
-<strong>Lornoxicam</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Lornoxicam</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Lornoxicam with the latest h
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [Long Commutes, Bumpy Roads And Screen Time Adding To Back And Neck Pain, Warn CARE Hospitals Doctors. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
+
+---
+
+### [Long COVID may impact bacteria in mouth, lungs: study - The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
+
+---
 
 ### [MHRA Authorises Once-Weekly Insulin for Type 2 Diabetes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4OWR2QWpNMHRGbXFsdDN4bDhFUFpTNllsb0d5Rnl6a1pDVGtzYXFVY3ptRW9EZ3NTRTNJd3N0T3UteDRmZU9ONE1VMEpXTDNjbnJNOUZVajYtdWxkdFZyRGttOEI1cVdyeEo0M19wQ3VLTlJLX2VXRV9KYklVV1JHN1RiY3BndW1PZkJaMUIzRnVtdngzZjRPM3BDUFJn?oc=5)
 

@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Amoxicillin with the latest 
 
 ## Related News (8)
 
-### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+### [Replacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate - The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
 
 ---
 
@@ -64,19 +64,19 @@ Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBV
 
 ---
 
-### [What a Large Prostate MRI Study Reveals About AI and Unassisted Radiologist Assessment - Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [Diagnostic Imaging](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjloekhUcmo4aDFheGVJOTlsRC16WjhFekM4RnNDeDRsMVJDSVhYZTJVa3VLQ3FUa21lU25Tb2F2QmZaQ21hcDdIQzFNaU05YXVYMDZ2RmFIc1ZlZ1lxdVRQZ01rNjVSZG9KZDFRUmZzYU5xdEdDeW1CTEFpeDY5dGtJQWlVOFJfVHNDd1J2bjlGaUhCazFid1NB?oc=5)
-
----
-
 ### [Cancer is rising in younger adults, and scientists can't fully explain why - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXVGZGg3aTU1VGR5LU85YXpLbjJ0dG93Mm1GTVlVdkhCLW1abGtiUHNiV1FCeFFRTnJrc0ZKOWpRMlVybkRJdXdSQ0tiMXRlLXNSYlF3RE5tdEsya1NoU0NRN1lEem9zVlBsQjNNaw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXVGZGg3aTU1VGR5LU85YXpLbjJ0dG93Mm1GTVlVdkhCLW1abGtiUHNiV1FCeFFRTnJrc0ZKOWpRMlVybkRJdXdSQ0tiMXRlLXNSYlF3RE5tdEsya1NoU0NRN1lEem9zVlBsQjNNaw?oc=5)
+
+---
+
+### [Artificial Intelligence for Prostate Cancer Detection and Screening on MRI in Global Populations: The SCARLET-1 Study - National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MXJxSUhCX3BXLS1BSFJhbzNaWW1mVTV5T0NBZGhlcnA4cW5FYzZ5SjNMQjNoSjBRRGZEaFVRYlN4SGxXeVRqWjlMekc3bEw1aFd3?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span>
+
+Source: [National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MXJxSUhCX3BXLS1BSFJhbzNaWW1mVTV5T0NBZGhlcnA4cW5FYzZ5SjNMQjNoSjBRRGZEaFVRYlN4SGxXeVRqWjlMekc3bEw1aFd3?oc=5)
 
 ---
 

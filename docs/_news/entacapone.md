@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Could Ozempic Protect The Brain? Study Finds Links To Lower Stroke And Alzheimer’s Risk - News Mobile](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanFOblJ3eTVqSF9WN3BYNGZrcWx6NUdkS0dGODMwczFxam9uclFoaGUtM2FQUkFXS3ZXdEdSME1tb1lCZjNzY083OE1xbEtCNGFoeTNFN1Z4TnNPLWJfSG52UXhRMm9HaWtYUld6eWdFOVJRT3dmTFBDc2lHVGZNREVQcUxUNl93VkQzdWN5VUxOTG16VHVzYVJ2NVBDUWZ6Yi1JdlBTdlh5LVliTUtWelQ0QV9yS2VJd1dR?oc=5)
 
@@ -55,14 +55,6 @@ Source: [News Mobile](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPanFOb
 2026-10-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
-
----
-
-### [Restoring Hypothalamic Menin Reverses Age-Related Cognitive Decline](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmV2VmtqNnA0M1MxV2t6Yms2VDE0aDZreWJZNklFNEhETEFpcEVtX1ZXQXY3WUg2M2JoamozZVZQU1VyblZueFhob0FBVGRKcDhZdnVoa0pMbHR2d3piZnpOcDdVbmthc1RUeFBEa0taTmxuR0FtR1FxZk4xS0dQNS1ISnQ5Q3B2dXRKWjNRaFlvRGUzOEQ5eGNxWTVuejE3c1JpQk1TajJ0Unk3Z0tn?oc=5)
-
-2026-10-14 <span class="news-indication-tag">memory loss</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmV2VmtqNnA0M1MxV2t6Yms2VDE0aDZreWJZNklFNEhETEFpcEVtX1ZXQXY3WUg2M2JoamozZVZQU1VyblZueFhob0FBVGRKcDhZdnVoa0pMbHR2d3piZnpOcDdVbmthc1RUeFBEa0taTmxuR0FtR1FxZk4xS0dQNS1ISnQ5Q3B2dXRKWjNRaFlvRGUzOEQ5eGNxWTVuejE3c1JpQk1TajJ0Unk3Z0tn?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Chromium</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <li class="indication-matched">osteoarthritis (98.7%)<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>osteoarthritis susceptibility (98.5%)</li>
 <li class="indication-matched">rheumatoid arthritis (98.5%)<span class="indication-tag">📰 RA</span></li>
-<li>gout (98.0%)</li>
+<li class="indication-matched">gout (98.0%)<span class="indication-tag">📰 gout</span></li>
 <li>pseudoachondroplasia (98.0%)</li>
 <li>hepatic porphyria (97.9%)</li>
 <li>brachyolmia (97.8%)</li>
@@ -40,11 +40,27 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (8)
+
+### [Long Commutes, Bumpy Roads And Screen Time Adding To Back And Neck Pain, Warn CARE Hospitals Doctors. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
+
+---
+
+### [Disseminated Cutaneous Tophaceous Gout in a Man With Advanced HIV Disease](https://news.google.com/rss/articles/CBMiywFBVV95cUxQdW1jX213VWdNWTExUDBSYVFzNzNEU0JUMVNjZ3Jjam9UWTZTNllhMGlRR29YU21Ed0sxTlNobUIzRndFeG9uVnpwdTB6UmcyUGo2WWs3WjlQbnduS3cxSzVuVFYwXzlvLXJicWctTTR5VW1CTWNOOVJjOGJtbEw0WEh6bjZUMHFGb1ptZkcxZ0pxTjlORnZJY1J1NHVTeHZhdW9FTUkyRHU3TWg4bW1YaUh3cjNDTUdZc09LY3NOV28xUHN5VzFmUjFyUQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">gout</span> <span class="news-indication-tag">gout</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiywFBVV95cUxQdW1jX213VWdNWTExUDBSYVFzNzNEU0JUMVNjZ3Jjam9UWTZTNllhMGlRR29YU21Ed0sxTlNobUIzRndFeG9uVnpwdTB6UmcyUGo2WWs3WjlQbnduS3cxSzVuVFYwXzlvLXJicWctTTR5VW1CTWNOOVJjOGJtbEw0WEh6bjZUMHFGb1ptZkcxZ0pxTjlORnZJY1J1NHVTeHZhdW9FTUkyRHU3TWg4bW1YaUh3cjNDTUdZc09LY3NOV28xUHN5VzFmUjFyUQ?oc=5) · [Cureus](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFRQZTJhSW9fWl9jUWtVaktHNUhyRWdnaG5KSGtmVG1BS1ViYVc0OUlySlNPSmg5aXZYR0ZleEhxNmZYRkZfQ2kyV2Q2QjZTY2lKeXhHMlR4Ym5CZGp4M2NUS0RRTndJTWNsSl9BcFVSdkctcHRmcGs0ZUZOcHN6dXlXY2hjNHBkSmJpaDh3Y2V3VzlIRFR4aFNDdERXV0J2a3VjZGVtdHBrMlBVWF9GVVdB?oc=5)
+
+---
 
 ### [Column | Scientists may have the key to treating arthritis: Regrowing the knee - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
 
-2026-10-15 <span class="news-indication-tag">dama</span> <span class="news-indication-tag">osteoarthritis</span>
+2026-10-15 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGdSbFkwQ0t3dHV3em1HSW9CSE1BSVY3ZkJFbzB0ZS11dnI4RkRqX3V0QXllZ2NRWE4tYThqc2VKQTRsTnd5R3liZ0wwYjBzeFl1eFhEOHpLdGxHREVqaVVCV0dQTXB5U1RUN3FMVHBtQVVTVFktTEtmREFUVXlxQ2FVVF9Id0lEWEpSVXU3N3RhZU1xM0QyV2ZUdmRXamdPTDBhcW1yNmZoYWluVUE?oc=5)
 
@@ -58,19 +74,19 @@ Source: [The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV
 
 ---
 
+### [Long COVID may impact bacteria in mouth, lungs: study - The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
+
+---
+
 ### [MHRA Authorises Once-Weekly Insulin for Type 2 Diabetes](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4OWR2QWpNMHRGbXFsdDN4bDhFUFpTNllsb0d5Rnl6a1pDVGtzYXFVY3ptRW9EZ3NTRTNJd3N0T3UteDRmZU9ONE1VMEpXTDNjbnJNOUZVajYtdWxkdFZyRGttOEI1cVdyeEo0M19wQ3VLTlJLX2VXRV9KYklVV1JHN1RiY3BndW1PZkJaMUIzRnVtdngzZjRPM3BDUFJn?oc=5)
 
 2026-10-15 <span class="news-indication-tag">RA</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4OWR2QWpNMHRGbXFsdDN4bDhFUFpTNllsb0d5Rnl6a1pDVGtzYXFVY3ptRW9EZ3NTRTNJd3N0T3UteDRmZU9ONE1VMEpXTDNjbnJNOUZVajYtdWxkdFZyRGttOEI1cVdyeEo0M19wQ3VLTlJLX2VXRV9KYklVV1JHN1RiY3BndW1PZkJaMUIzRnVtdngzZjRPM3BDUFJn?oc=5)
-
----
-
-### [GAE cuts steroid injections by half in knee osteoarthritis patients](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGsyNnloRlVMZmdGU0V6YllTNkU2NWhIRWJOUDZEZF94djdHNkcxZXdyVXNnU2JlMWJKLWJGYU15MC11YUNOeGxITkx6LTlPcV9zc3VLb3JuNVFLVkRDa0tHSWN0Y09kMnBXSjJXM3BWeFROemVaTHJsdGwzSmQweXlIU1ZOdkxSVjB0OHpJUlNrNlk3SDU5VVJEbklGS3I5V2U3NWlSbGFpRWp4SVUyUVNPNTV3Wjc5anpRV2VWUHJoY2o4dkJ4NTRDc3A2Mlp6VlpWTUsxbw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [AuntMinnie](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGsyNnloRlVMZmdGU0V6YllTNkU2NWhIRWJOUDZEZF94djdHNkcxZXdyVXNnU2JlMWJKLWJGYU15MC11YUNOeGxITkx6LTlPcV9zc3VLb3JuNVFLVkRDa0tHSWN0Y09kMnBXSjJXM3BWeFROemVaTHJsdGwzSmQweXlIU1ZOdkxSVjB0OHpJUlNrNlk3SDU5VVJEbklGS3I5V2U3NWlSbGFpRWp4SVUyUVNPNTV3Wjc5anpRV2VWUHJoY2o4dkJ4NTRDc3A2Mlp6VlpWTUsxbw?oc=5)
 
 ---
 

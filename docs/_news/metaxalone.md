@@ -14,7 +14,7 @@ permalink: /news/metaxalone/
 ---
 
 <p class="key-answer" data-question="What news is there about Metaxalone?">
-<strong>Metaxalone</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Metaxalone</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,16 +26,22 @@ This page combines the AI-predicted indications for Metaxalone with the latest h
 <ul>
 <li><strong>Predicted indications (3)</strong>:<ul>
 <li>infectious otitis media (99.1%)</li>
-<li>endocarditis (99.0%)</li>
+<li class="indication-matched">endocarditis (99.0%)<span class="indication-tag">📰 endocarditis</span></li>
 <li>endocardial fibroelastosis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metaxalone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Duration of antibiotic treatment for infective endocarditis: should we move towards tailored therapy?](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jd2E3RUFRaVZpcWZNb29hRGo2UFh3U3FxN0RtSGlaYkpwVk9oTFJONElyX0FJWW81OUo0Tk5NT3ZRXzVLa0VSS3JVUkQ5OGR6dUZxdHIxUzUyby1hU2J3?oc=5)
+
+2026-10-15 <span class="news-indication-tag">endocarditis</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jd2E3RUFRaVZpcWZNb29hRGo2UFh3U3FxN0RtSGlaYkpwVk9oTFJONElyX0FJWW81OUo0Tk5NT3ZRXzVLa0VSS3JVUkQ5OGR6dUZxdHIxUzUyby1hU2J3?oc=5)
+
+---
 
 
 <div class="disclaimer">
