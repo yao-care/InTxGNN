@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Drug Repurposing Predictions — India
 nav_order: 1
 ---
 
