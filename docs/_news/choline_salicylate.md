@@ -14,7 +14,7 @@ permalink: /news/choline_salicylate/
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>Prinzmetal angina (99.8%)</li>
 <li class="indication-matched">rheumatoid arthritis (99.8%)<span class="indication-tag">📰 RA</span></li>
-<li>hypertensive disorder (99.8%)</li>
+<li class="indication-matched">hypertensive disorder (99.8%)<span class="indication-tag">📰 hypertensive disorder</span></li>
 <li>migraine disorder (99.8%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline_salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (10)
+
+### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
+
+2026-10-16 <span class="news-indication-tag">joint pain</span>
+
+Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
+
+---
+
+### [Bisphenol mixtures alter breast tissue development in lab-grown human models](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGlqUDZ4QlN0ZlcwdTJGdHgxaTlmY1k1c214QWZwVURwTlduTENXVFVaRURfWnZoT01BQTFoQlVURmtQWXpWbm8xalZGVXkyWl96V0JmNmYwd1NHTlRxZFdDZVdHa0RWRXRfbVJQd3FSRjYwSE9uQmhoZ0NLc2NUbkZmSU81a2x6eVRVdlFwdWZyaHF1eTNTYjFBaFBzejNFLXJua0otVFJfS3V3S1RBUzdqUDBRd0ZZWlhWTDg3YTh2dw?oc=5)
+
+2026-10-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGlqUDZ4QlN0ZlcwdTJGdHgxaTlmY1k1c214QWZwVURwTlduTENXVFVaRURfWnZoT01BQTFoQlVURmtQWXpWbm8xalZGVXkyWl96V0JmNmYwd1NHTlRxZFdDZVdHa0RWRXRfbVJQd3FSRjYwSE9uQmhoZ0NLc2NUbkZmSU81a2x6eVRVdlFwdWZyaHF1eTNTYjFBaFBzejNFLXJua0otVFJfS3V3S1RBUzdqUDBRd0ZZWlhWTDg3YTh2dw?oc=5)
+
+---
 
 ### [Replacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate - The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDNJVEtGakxjcHFuU3BKQmhyZWw4QXlkd3RnYWNOdGo4Rldua212TEdwY3NOUVR5X1h0QWFrZzZhb01JODBkQjFGQTMxdHlWcGZnTm1xZ2lreWJSVldHdjlTV0ItX3hTb25LcjI3UnJZb1g3YkRZTTVLSzZvQkVlOGhZbnVVV2ZrUndhZnN6d21lLVNZZjNDSEtnMktNa054MDY0WWdZbVBNNGRVZ0JUcFMwclVmM0VUTHpDME1GUEN1VTNDemt1VVN3?oc=5)
 
@@ -50,27 +66,11 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMiygFBVV95cUxQ
 
 ---
 
-### [Long Commutes, Bumpy Roads And Screen Time Adding To Back And Neck Pain, Warn CARE Hospitals Doctors. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">RA</span>
-
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUthZzhtei1Dbk01SDhiLTdPZ2ttNDVoc29MYllDbk5fbDhjek4yMElzb0tOcUZHQ1JScFFrdDl6WlBGSUFiNE52UWgtNHNxcElOcHhkeENKRl9ySDc4QkhJeW5CYXU1b25FRXhGWUtmNV84cTNjRzMwQ20wTzN1ZjBtMWlXb2Z2LVRsZl8tbkt1RVJFSEQ5ak44WGpTME55Um5QanFlRnIzZ3hZREZETjAxcFMxamM2V29qd1FkWGEzNS1lTUUyWW9iVQ?oc=5)
-
----
-
 ### [The common infections that lead to 12% of cancer cases - Advisory Board](https://news.google.com/rss/articles/CBMid0FVX3lxTFA0MWJydE5PZVlDWV94eVBHdjdQUDBWX1Jtel9XTjl6Zkx1dlVZcVk4LU9WMEpyOW5MNXQyYlR5NklHZ1kwbWRHbEtWRHEtY2pHMjhzZXROMkFTZXVHandxZzBzaDcwbUhhNk00WFRWMmNacWhOMVdB?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span>
 
 Source: [Advisory Board](https://news.google.com/rss/articles/CBMid0FVX3lxTFA0MWJydE5PZVlDWV94eVBHdjdQUDBWX1Jtel9XTjl6Zkx1dlVZcVk4LU9WMEpyOW5MNXQyYlR5NklHZ1kwbWRHbEtWRHEtY2pHMjhzZXROMkFTZXVHandxZzBzaDcwbUhhNk00WFRWMmNacWhOMVdB?oc=5)
-
----
-
-### [Abnormal Antibodies Linked to DNA Repair Defects in Childhood Cancer - The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXprVlVQb29jOEFTV0x0Yi00VTRncDJQc19NeG9EN3JIa1NsZ2pMaHJsVlV4RTN3QkVBSE1tbkFfcEdxMlFWU0pfa3I1TDhlSVFWc01MNHE1T051ekxLck9kNjZfXzBFZmJyT2JuR3NBUWhLQmJ6SFFmUi03bk5qNnUxenp6eVJtUXlvNnNENDJxcGZGMVJFWW94a09lajBIT3ZrOXRB?oc=5)
-
-2026-10-15 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXprVlVQb29jOEFTV0x0Yi00VTRncDJQc19NeG9EN3JIa1NsZ2pMaHJsVlV4RTN3QkVBSE1tbkFfcEdxMlFWU0pfa3I1TDhlSVFWc01MNHE1T051ekxLck9kNjZfXzBFZmJyT2JuR3NBUWhLQmJ6SFFmUi03bk5qNnUxenp6eVJtUXlvNnNENDJxcGZGMVJFWW94a09lajBIT3ZrOXRB?oc=5)
 
 ---
 
@@ -98,43 +98,27 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXV
 
 ---
 
-### [Artificial Intelligence for Prostate Cancer Detection and Screening on MRI in Global Populations: The SCARLET-1 Study - National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MXJxSUhCX3BXLS1BSFJhbzNaWW1mVTV5T0NBZGhlcnA4cW5FYzZ5SjNMQjNoSjBRRGZEaFVRYlN4SGxXeVRqWjlMekc3bEw1aFd3?oc=5)
+### [Early detection key to treatment, says doctor on rising cancer cases - The Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xEMGNIQlMyVk54OGw4eGRZaVhVWDhYN0d0WHVVcWN1ZXRQLU5EdGFiMlpqTUxJZVRHSVMyWFNHM1dqbXRCYXA5YTltU3Z0MHJvZC1QZVplMDVjNlU1dnV1VVUzbEpNcktxM2FHbTN1N2czS0YtNlhOaEk0TlFYWlppMGRwbzg0V21LWWRQWjNidXBjaGUxOVhpZTU0LUxxdUV1RlFyS3ZNcWg50gGwAUFVX3lxTE1OWlNpbko3STdGX1pNeW5uaEtWU21iZmNJS0JEQXBWck5yY1ktbzhGRmpITjBXR2lFOUZDT3NENkduVzVhY0RobmVLQ1Jna1l2UU02WGNRcjNBMEpOb1ZSS0V4Nk8xRWVTdjF4WTU2Nm9GSHdiYWVPTjNuR1NqT0ZGQ3c2TWhEYXJrVi05Q3dhOWJBc3ZEc21hYXkwS0xoaDlzS0dHYmtRNG1fMWM5VnVH?oc=5)
 
 2026-10-14 <span class="news-indication-tag">cancer</span>
 
-Source: [National Institutes of Health (NIH) | (.gov)](https://news.google.com/rss/articles/CBMiU0FVX3lxTE10MXJxSUhCX3BXLS1BSFJhbzNaWW1mVTV5T0NBZGhlcnA4cW5FYzZ5SjNMQjNoSjBRRGZEaFVRYlN4SGxXeVRqWjlMekc3bEw1aFd3?oc=5)
+Source: [The Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xEMGNIQlMyVk54OGw4eGRZaVhVWDhYN0d0WHVVcWN1ZXRQLU5EdGFiMlpqTUxJZVRHSVMyWFNHM1dqbXRCYXA5YTltU3Z0MHJvZC1QZVplMDVjNlU1dnV1VVUzbEpNcktxM2FHbTN1N2czS0YtNlhOaEk0TlFYWlppMGRwbzg0V21LWWRQWjNidXBjaGUxOVhpZTU0LUxxdUV1RlFyS3ZNcWg50gGwAUFVX3lxTE1OWlNpbko3STdGX1pNeW5uaEtWU21iZmNJS0JEQXBWck5yY1ktbzhGRmpITjBXR2lFOUZDT3NENkduVzVhY0RobmVLQ1Jna1l2UU02WGNRcjNBMEpOb1ZSS0V4Nk8xRWVTdjF4WTU2Nm9GSHdiYWVPTjNuR1NqT0ZGQ3c2TWhEYXJrVi05Q3dhOWJBc3ZEc21hYXkwS0xoaDlzS0dHYmtRNG1fMWM5VnVH?oc=5)
 
 ---
 
-### [Men can also get breast cancer: Doctors share symptoms to look out for](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
+### [Can A Blood Test Predict Childhood Cancer Years Before Diagnosis? Study Gives Clues - Health and Me](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNzd4RkNGNXFjcVN1all2d0NRVkwyU2xJc0tKTGUwQUp5QzlRQ0JXVXVyZVhnUzV1Rl9uakc1UkEzWENVVFJiTVZ5eDVoT28xalBjZVNUay1LUENGaC1wdVZubnl5SzI0c2h1X1I2Nzh1RklfRXlBZFhlcmxPMFl3LVRacm9ZeXdSaUVpanNkdHVjX1RMaUxOazEzS3VHRjE2a1FHOXBLa1BMcmdTNXVLYWZaTERFeDRqV01pY1F3eGVwcXdjT00teUhJekJvUW1VbUw3YWtBNV9CNlZWWmFrSC15Umdrd2Z4WGlTZktB?oc=5)
 
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-14 <span class="news-indication-tag">cancer</span>
 
-Source: [Firstpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
-
----
-
-### [Breast cancer is striking Indian women nearly a decade earlier: Which screening tests do women need and when? - The Week](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0dycURTYjhYejNZeC0tUEc1MS0ybmxPV3k3WWdQMmNrYi1NdTBtV1ZtdFNNdXl6QWZmdXJFaWRyaW9Ka18tTE0wdFBZdWZibS1Bem9DMFI3eThGQkl0c3M0ZUpBV0xDcjNMYjUwZG5CUFBGT3cwajhEYkpHeVRxVVlja0FSdG9tR1RGZUV0b0NqNEItTUg4cHFNODV0eUxoZlBhbmVrT05PTzZNcGRCWWMtN0dCVEtlUEtCSmdCMXZuNW9odXVmRnhabEdCUm1hMU1JWVM2QjE1OGlIR2E3QkFOYTQ3bEwxTHJhYk1Cb9IB9AFBVV95cUxOaEVGWWtQR1Rna2dNSDRLMmtuRkhOdlpjRW5Dc2lQQ3dJc2VoYWJqeEJlRHYweTNYa05hWE5NUTdTb1UyWGVwMmVFdjRsTWN3NHA0WkxCdG1aWEh0N3M0NHAtODlDX2YyVnA3S2ZNQUdOZ253RDRSR1FJQW84VUFmOWRHRC1HcE1TWnktSFctb2k1Y0hCRHdxelYtUFE5SnloajBOU1ZhaExoaVZzcWJBZDlhZENMU3FSWk00elVhQ1VoS2hKbUZTOVlFZjRHd1YyX2N0NHZuT1dUNDZMSkxqYTQ5UXRXejBEdFo0cW9xRGI5SzBs?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [The Week](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNd0dycURTYjhYejNZeC0tUEc1MS0ybmxPV3k3WWdQMmNrYi1NdTBtV1ZtdFNNdXl6QWZmdXJFaWRyaW9Ka18tTE0wdFBZdWZibS1Bem9DMFI3eThGQkl0c3M0ZUpBV0xDcjNMYjUwZG5CUFBGT3cwajhEYkpHeVRxVVlja0FSdG9tR1RGZUV0b0NqNEItTUg4cHFNODV0eUxoZlBhbmVrT05PTzZNcGRCWWMtN0dCVEtlUEtCSmdCMXZuNW9odXVmRnhabEdCUm1hMU1JWVM2QjE1OGlIR2E3QkFOYTQ3bEwxTHJhYk1Cb9IB9AFBVV95cUxOaEVGWWtQR1Rna2dNSDRLMmtuRkhOdlpjRW5Dc2lQQ3dJc2VoYWJqeEJlRHYweTNYa05hWE5NUTdTb1UyWGVwMmVFdjRsTWN3NHA0WkxCdG1aWEh0N3M0NHAtODlDX2YyVnA3S2ZNQUdOZ253RDRSR1FJQW84VUFmOWRHRC1HcE1TWnktSFctb2k1Y0hCRHdxelYtUFE5SnloajBOU1ZhaExoaVZzcWJBZDlhZENMU3FSWk00elVhQ1VoS2hKbUZTOVlFZjRHd1YyX2N0NHZuT1dUNDZMSkxqYTQ5UXRXejBEdFo0cW9xRGI5SzBs?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNzd4RkNGNXFjcVN1all2d0NRVkwyU2xJc0tKTGUwQUp5QzlRQ0JXVXVyZVhnUzV1Rl9uakc1UkEzWENVVFJiTVZ5eDVoT28xalBjZVNUay1LUENGaC1wdVZubnl5SzI0c2h1X1I2Nzh1RklfRXlBZFhlcmxPMFl3LVRacm9ZeXdSaUVpanNkdHVjX1RMaUxOazEzS3VHRjE2a1FHOXBLa1BMcmdTNXVLYWZaTERFeDRqV01pY1F3eGVwcXdjT00teUhJekJvUW1VbUw3YWtBNV9CNlZWWmFrSC15Umdrd2Z4WGlTZktB?oc=5)
 
 ---
 
-### [Targeted therapy to save healthy cells - Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazlMYWxSM2VuanRTU1NfSHI3dHhzTWthQm5WZWdDT2kzZVBLQlFsdUxJTFU1U0JQQnEyU2xpRlZmQXVCa3l3NU0wdDFyT3ctaDgydUFURGtRQnhHZl8ybkUyTE5tSnJWeXNXYmJuOGg2eUliQkV1U1pISTl0bGQ5VU1welN4eldHeE5fQVFqdXBPVHI1eWfSAZsBQVVfeXFMT1FxbExmRTNId09FV3lmZlVTdFNBMml0MEt3U1dmbDViak8tZjB6bk5zZVZQZzI4d2xkVXFMQlVTNFBaQVd1Qy13YXhJdjVfQlc3TVJFdkIzVGNZTi03ejl2aDFTUk8zOTcwME16ekpCQ045cUNZd1hENlFtZFhsQjI1eE5GZFZrdjc5SURhNVlTT3lQWkN5ZEVnMlk?oc=5)
+### [Hypertensive Disorders of Pregnancy Surge in the US Over 8 Years](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEs1c3ZXWVhwNzJfaG9iV2E5dUtGWVlsdGFNbnpkejlNaEoxVm1tVV9CSFR0eW9LWHp5eDBHeTJ4Y1FQLVlCR2VJM2lFV3RJX2xIQ3NNVHlQcktuaU1mY1JvSHdMeVIxU1JabFh4MWxMcjRrTmFZZmdKc2ZySnFWMlB5UG1BbWFfVHE4dGJEQzd6V3dQZ3JXYUtUYzJ6MFlRTW5jdDk3dw?oc=5)
 
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+2026-10-14 <span class="news-indication-tag">hypertensive disorder</span>
 
-Source: [Telegraph India](https://news.google.com/rss/articles/CBMilgFBVV95cUxQazlMYWxSM2VuanRTU1NfSHI3dHhzTWthQm5WZWdDT2kzZVBLQlFsdUxJTFU1U0JQQnEyU2xpRlZmQXVCa3l3NU0wdDFyT3ctaDgydUFURGtRQnhHZl8ybkUyTE5tSnJWeXNXYmJuOGg2eUliQkV1U1pISTl0bGQ5VU1welN4eldHeE5fQVFqdXBPVHI1eWfSAZsBQVVfeXFMT1FxbExmRTNId09FV3lmZlVTdFNBMml0MEt3U1dmbDViak8tZjB6bk5zZVZQZzI4d2xkVXFMQlVTNFBaQVd1Qy13YXhJdjVfQlc3TVJFdkIzVGNZTi03ejl2aDFTUk8zOTcwME16ekpCQ045cUNZd1hENlFtZFhsQjI1eE5GZFZrdjc5SURhNVlTT3lQWkN5ZEVnMlk?oc=5)
-
----
-
-### [WHO Experts Recommend HPV Jab For Girls Aged 4-8](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
-
-2026-10-14 <span class="news-indication-tag">RA</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3JIOUpzNzFWZHRwV21yaThYckxjWGtfa3g4Q1I2R0lMWlNPNnNwVmhkcjFXQXV6SXQwNGx2amZhZjJMTEFPWHBtSlhFTGJReFJiS25YRkNabjlGNkFGWkdRUlZTSWhqdVA4R05YTUw0QXczWFFSQ0VhTVg2VTZxa2FOSXdwWUdVLTRfUmtB?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEs1c3ZXWVhwNzJfaG9iV2E5dUtGWVlsdGFNbnpkejlNaEoxVm1tVV9CSFR0eW9LWHp5eDBHeTJ4Y1FQLVlCR2VJM2lFV3RJX2xIQ3NNVHlQcktuaU1mY1JvSHdMeVIxU1JabFh4MWxMcjRrTmFZZmdKc2ZySnFWMlB5UG1BbWFfVHE4dGJEQzd6V3dQZ3JXYUtUYzJ6MFlRTW5jdDk3dw?oc=5)
 
 ---
 

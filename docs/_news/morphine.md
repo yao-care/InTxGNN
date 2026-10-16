@@ -14,7 +14,7 @@ permalink: /news/morphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Morphine?">
-<strong>Morphine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Morphine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,9 @@ This page combines the AI-predicted indications for Morphine with the latest hea
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Light-activated experimental opioid eliminates dangerous side effects](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzI5bnowODhaV1ZCS3BNS1RyWGljWHRHWmhnR3JIQXJkMG9oRU5qWU1KbWdyZVhVMV9jb1lydkxmek9mT093M0JxYmJ6OHN3UFhoU1gzSEpTY0pMRzhFRWI5bXRmeDBIUmF1aFVSTzRDbVZicUpURnlERlVVd2VTcERrTTMwSlNzQ2lvQTVnWUhNQ0tmWDhaS2VuV1hoTjNzZzJ4SldEcFRtc3FpWUFBTmlhTkZERzdN?oc=5)
-
-2026-10-15 <span class="news-drug-tag">MORPHINE</span> <span class="news-drug-tag">Morphine</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzI5bnowODhaV1ZCS3BNS1RyWGljWHRHWmhnR3JIQXJkMG9oRU5qWU1KbWdyZVhVMV9jb1lydkxmek9mT093M0JxYmJ6OHN3UFhoU1gzSEpTY0pMRzhFRWI5bXRmeDBIUmF1aFVSTzRDbVZicUpURnlERlVVd2VTcERrTTMwSlNzQ2lvQTVnWUhNQ0tmWDhaS2VuV1hoTjNzZzJ4SldEcFRtc3FpWUFBTmlhTkZERzdN?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

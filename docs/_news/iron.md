@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Bisphenol mixtures alter breast tissue development in lab-grown human models](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGlqUDZ4QlN0ZlcwdTJGdHgxaTlmY1k1c214QWZwVURwTlduTENXVFVaRURfWnZoT01BQTFoQlVURmtQWXpWbm8xalZGVXkyWl96V0JmNmYwd1NHTlRxZFdDZVdHa0RWRXRfbVJQd3FSRjYwSE9uQmhoZ0NLc2NUbkZmSU81a2x6eVRVdlFwdWZyaHF1eTNTYjFBaFBzejNFLXJua0otVFJfS3V3S1RBUzdqUDBRd0ZZWlhWTDg3YTh2dw?oc=5)
+
+2026-10-16 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGlqUDZ4QlN0ZlcwdTJGdHgxaTlmY1k1c214QWZwVURwTlduTENXVFVaRURfWnZoT01BQTFoQlVURmtQWXpWbm8xalZGVXkyWl96V0JmNmYwd1NHTlRxZFdDZVdHa0RWRXRfbVJQd3FSRjYwSE9uQmhoZ0NLc2NUbkZmSU81a2x6eVRVdlFwdWZyaHF1eTNTYjFBaFBzejNFLXJua0otVFJfS3V3S1RBUzdqUDBRd0ZZWlhWTDg3YTh2dw?oc=5)
+
+---
 
 
 <div class="disclaimer">
