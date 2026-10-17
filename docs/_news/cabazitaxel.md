@@ -39,11 +39,19 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 
 ## Related News (14)
 
-### [Can You Get a Mammogram Before Age 40? The Most-Asked Questions About Screening in 2026, Answered - Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+### [Very Hot Beverages Linked to Increased Esophageal Cancer Risk - India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUh2aTJHaXRWOXpjLTFsUkY0bEt1LXE3UlROS1REajBfN09nZ2lrdjYxaF8xNVo2TUtaTDVUdHNsV1ZPZmNiM1lyVC10YURSYXNZdHloRm11cjlQT0ZUdENvbU5fQmxadmx5UU5qa2dheXNaTVVSdUJlSzhTVm0zdHFqQ08wTU5pczFfWkRNT2FRRi0tcUxfLXdYTGhGVklDbHdUX253?oc=5)
 
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-17 <span class="news-indication-tag">cancer</span>
 
-Source: [Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUh2aTJHaXRWOXpjLTFsUkY0bEt1LXE3UlROS1REajBfN09nZ2lrdjYxaF8xNVo2TUtaTDVUdHNsV1ZPZmNiM1lyVC10YURSYXNZdHloRm11cjlQT0ZUdENvbU5fQmxadmx5UU5qa2dheXNaTVVSdUJlSzhTVm0zdHFqQ08wTU5pczFfWkRNT2FRRi0tcUxfLXdYTGhGVklDbHdUX253?oc=5)
+
+---
+
+### [Ultra-proccesed diet: Small switch in food choice lowers bowel cancer risk - DT Next](https://news.google.com/rss/articles/CBMiogFBVV95cUxPekR3VnNTQjlsTEl2eWh1Q3NHbDlwUGxqbFNXUGdSMWpwakFtZDV3YmJrODJzejJaaGlUaWdoY0U5dXd3QzBWX0VaVmRNY0EtWmFia1F3YUZkTnFfWEZENTN6czBMVGdWSEZLMWstMzMwcFlkOTUycmFMOEdSUDVmVC0zenE4MWNUOXVxNmQwckJPMGMxbmstNmRvTVU2bXd2b1HSAa8BQVVfeXFMTTRFM0NjdG9BdEV1cDZHaVhBODcwQURlZVVfM2FvdmJSRkY3bnBtaWJBcmw0T0hDRWhuXzNkcDlFRFp5UWwzWm5pTzZpcm54cjF5RlVmVzAxeExlQmtiQWhzdkN4eXV6RFg2Y1Atb0dha19fbVRoS2ZQVU9UZ1FYNjZxdFJsTWpQMmFTdEdoU3A2c3g3WDUzdC11R3dSZ3VlTjNUYURYUHBVMGROc3hqQQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
+
+Source: [DT Next](https://news.google.com/rss/articles/CBMiogFBVV95cUxPekR3VnNTQjlsTEl2eWh1Q3NHbDlwUGxqbFNXUGdSMWpwakFtZDV3YmJrODJzejJaaGlUaWdoY0U5dXd3QzBWX0VaVmRNY0EtWmFia1F3YUZkTnFfWEZENTN6czBMVGdWSEZLMWstMzMwcFlkOTUycmFMOEdSUDVmVC0zenE4MWNUOXVxNmQwckJPMGMxbmstNmRvTVU2bXd2b1HSAa8BQVVfeXFMTTRFM0NjdG9BdEV1cDZHaVhBODcwQURlZVVfM2FvdmJSRkY3bnBtaWJBcmw0T0hDRWhuXzNkcDlFRFp5UWwzWm5pTzZpcm54cjF5RlVmVzAxeExlQmtiQWhzdkN4eXV6RFg2Y1Atb0dha19fbVRoS2ZQVU9UZ1FYNjZxdFJsTWpQMmFTdEdoU3A2c3g3WDUzdC11R3dSZ3VlTjNUYURYUHBVMGROc3hqQQ?oc=5)
 
 ---
 
@@ -55,11 +63,19 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oY3BRMGpPTl
 
 ---
 
-### [Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
+### [What Men Should Know If Breast Cancer Runs in Their Family](https://news.google.com/rss/articles/CBMic0FVX3lxTE00TkwtLVY3bFlfU0pTSGhZb28yMTRaYkR2ZEtPOWRlVFA3X2tMa2xabnJ1ZVdCWmhydVMzUGoxcFB6a2FFZGRuOFRRRkhJNEIyc1RHRWsydzc5VXlmaEZNS3QwZU9DaUZOQmdPWHJfNkZ0ZUU?oc=5)
 
-2026-10-16 <span class="news-indication-tag">cancer</span>
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
+Source: [GQ](https://news.google.com/rss/articles/CBMic0FVX3lxTE00TkwtLVY3bFlfU0pTSGhZb28yMTRaYkR2ZEtPOWRlVFA3X2tMa2xabnJ1ZVdCWmhydVMzUGoxcFB6a2FFZGRuOFRRRkhJNEIyc1RHRWsydzc5VXlmaEZNS3QwZU9DaUZOQmdPWHJfNkZ0ZUU?oc=5)
+
+---
+
+### [Doctors say mammograms can improve breast cancer outcomes](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [KTALnews.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
 
 ---
 
@@ -79,35 +95,19 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPd
 
 ---
 
+### [Indian-American cancer researcher Rachna Shroff dies following a long battle with 'aggressive cancer' - The Times of India](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQVBMQTRjTG1ZUnpYVnJaYkZ6cTd4a185Q2s1Z01CU2ZkRVI0Wk5uQ2E3V1VfWk1YWS0yOGRtT0d4cTRYSFppSnFhLXlrS2FmV1VlUkwwTUJ6bURhR3NuNU9TeVVSRmF0cjdQSHduR2xUcjhXazNHVzgwSm1pbV9BcW44MG9SeVJraVZPTTl2ckhsZnlJTXd5R2dQaUZiZVJnQzRMMTBHczFkdWdDSmp4bXdPc2lJV1FrM1VTZEdueWo5UzNlMkpnTjhiaWlPMFZMaHhtM25QZlRMN1pQeHluajRjTXREQ2tPQnE5NnZqM0NOYWpWa0dqVUNkU09IbktWV3kzTV81Skw?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQVBMQTRjTG1ZUnpYVnJaYkZ6cTd4a185Q2s1Z01CU2ZkRVI0Wk5uQ2E3V1VfWk1YWS0yOGRtT0d4cTRYSFppSnFhLXlrS2FmV1VlUkwwTUJ6bURhR3NuNU9TeVVSRmF0cjdQSHduR2xUcjhXazNHVzgwSm1pbV9BcW44MG9SeVJraVZPTTl2ckhsZnlJTXd5R2dQaUZiZVJnQzRMMTBHczFkdWdDSmp4bXdPc2lJV1FrM1VTZEdueWo5UzNlMkpnTjhiaWlPMFZMaHhtM25QZlRMN1pQeHluajRjTXREQ2tPQnE5NnZqM0NOYWpWa0dqVUNkU09IbktWV3kzTV81Skw?oc=5)
+
+---
+
 ### [Think Breast Cancer Only Affects Elderly Women? Age Is No Bar For The Dreaded C - ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaU9Gc3d3UVdaTlR1NHdfSks2MzVMTnBLeTlxLUpWRlUtR0ZEMFpHTzJLc045MGNSczdMY1FDMjlva2MzRkJ2UU9nQ2tlYjZqVVhFak8yTWlVS0tKMEs5Z3ZCUFBzNm9Eb0hSNm50M0tWQ3FXVWtuZTgtVDVHVFM4TjgyeXlCdm1ESmEyWGdLOG1vcTB6Rm5pMnZn0gGfAUFVX3lxTFBNV0NDOG1uS0dFVHd2ZTRyQkN2V1p6MEdjRmQ3ZEpibWY2UkVCOTdOQ1JwMWNZRDRrSWwxcWt2aGduajlqQ3pJWHE2VnBuWGhyRE45Ty1HQWJxb2lWT3MwWDRQWG9RMWlGWFpIYmVVdFhfcVVGM3pudlFyQUlGb2xSQWoyYmlENEVPUmJFXzBuam11cV84cVhjY0Fra0NPYw?oc=5)
 
 2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaU9Gc3d3UVdaTlR1NHdfSks2MzVMTnBLeTlxLUpWRlUtR0ZEMFpHTzJLc045MGNSczdMY1FDMjlva2MzRkJ2UU9nQ2tlYjZqVVhFak8yTWlVS0tKMEs5Z3ZCUFBzNm9Eb0hSNm50M0tWQ3FXVWtuZTgtVDVHVFM4TjgyeXlCdm1ESmEyWGdLOG1vcTB6Rm5pMnZn0gGfAUFVX3lxTFBNV0NDOG1uS0dFVHd2ZTRyQkN2V1p6MEdjRmQ3ZEpibWY2UkVCOTdOQ1JwMWNZRDRrSWwxcWt2aGduajlqQ3pJWHE2VnBuWGhyRE45Ty1HQWJxb2lWT3MwWDRQWG9RMWlGWFpIYmVVdFhfcVVGM3pudlFyQUlGb2xSQWoyYmlENEVPUmJFXzBuam11cV84cVhjY0Fra0NPYw?oc=5)
-
----
-
-### [Men can get breast cancer too: Surgical oncologist explains the early signs and why they are often ignored | Health - Hindustan Times](https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzFyMi1NQXBjS1dUd3dHaG9XWGFPaEZ6aU1RNkN0NnRnZjZSV0VtRmR3ZjBtSHhlX0VFTXRMSEtxZHdJdFRhTVpEYWxkUzBsN242NUlPS2hHS3FDaWhKM21GVWRPeG9yV2ZubEhTYUpfUlRYVkZNSWFNUnEwSVpWS180ankzQmdjVEhPQl9aRTNGNnpmeTFhc2lTRlJYRmk4Z1J0a1N0SGNSUFdjUVRlUTZ5cmJVcWRQc0ZHa0VMR3RYdnFaSWd0QkJHSWZzNnFhYktaUzVEaHNUbFBsaUZhb2E1WkdfVzdvS3R4ZFhPcmlwU3VDU09CaUxpZFBsUHJTOUtaedIBigJBVV95cUxQM2JUMFVTMlo5ZWgtLU5walJWdkVoM2NrbExuMmloT2lSWk1UNlZVVDZtZDZrcllBcHNxcDNRbTNERTY3bW5sV3dxejJoN3NJX2szc253eUZ4OHk5QXp4alJzREgtLWMwYzNfaDFGdEpIVzVvRmRQb3ZMWFVDQ3pMdzdqR18ybHg5bzV1c3AybVowTlBqV0w5R0tCYjZxeTBSckIzMWcyVXFBdE5XWTZjNzlJczJoR19venJ4N2hybkJFcGR6ZTdSRG9CVjZHWVJKZjZsTlJJU2hfS2p5Qy1nRGRld09hclMwUmZsdzk5TTdHNmppMmduZjEzdjVWcGV6SDdVZUIzZk5SQQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihAJBVV95cUxNZzFyMi1NQXBjS1dUd3dHaG9XWGFPaEZ6aU1RNkN0NnRnZjZSV0VtRmR3ZjBtSHhlX0VFTXRMSEtxZHdJdFRhTVpEYWxkUzBsN242NUlPS2hHS3FDaWhKM21GVWRPeG9yV2ZubEhTYUpfUlRYVkZNSWFNUnEwSVpWS180ankzQmdjVEhPQl9aRTNGNnpmeTFhc2lTRlJYRmk4Z1J0a1N0SGNSUFdjUVRlUTZ5cmJVcWRQc0ZHa0VMR3RYdnFaSWd0QkJHSWZzNnFhYktaUzVEaHNUbFBsaUZhb2E1WkdfVzdvS3R4ZFhPcmlwU3VDU09CaUxpZFBsUHJTOUtaedIBigJBVV95cUxQM2JUMFVTMlo5ZWgtLU5walJWdkVoM2NrbExuMmloT2lSWk1UNlZVVDZtZDZrcllBcHNxcDNRbTNERTY3bW5sV3dxejJoN3NJX2szc253eUZ4OHk5QXp4alJzREgtLWMwYzNfaDFGdEpIVzVvRmRQb3ZMWFVDQ3pMdzdqR18ybHg5bzV1c3AybVowTlBqV0w5R0tCYjZxeTBSckIzMWcyVXFBdE5XWTZjNzlJczJoR19venJ4N2hybkJFcGR6ZTdSRG9CVjZHWVJKZjZsTlJJU2hfS2p5Qy1nRGRld09hclMwUmZsdzk5TTdHNmppMmduZjEzdjVWcGV6SDdVZUIzZk5SQQ?oc=5)
-
----
-
-### [Who was Rachna Shroff, Indian-American researcher who died of disease she was trying to cure? | She is survived by her husband and 2 children | Inshorts](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3A1QkpBMmZ5NGlRMGRXT2dlVHlFOWVaaE11R1FrQ0ZCSmNDMjVmS3RIb1E3Y0tndGlUY2NqX1ViWHdVOUxPRF9JZ2NRRG9yRE01ME9ORWkta1h0LU1pdjdPMFJRTWFxbnpTemJXWENLNmw0c3pvUGNMMWF6Y29yZkctQ0FUcUwzMjktUS1wNktacTJ4aFJaanc5MEd0eUtRSFpSVldSZFF3bHhMNk10Xy1NdHlpMjlEWmk5ajNxb3o0Wmx1MlBRd1JhcGFSQW1CNUHSAdcBQVVfeXFMT2I4dmtDZDhmbmRpTVZOVWlmNnRZRm5laHdSTzVmbzFQckZ6aEw1dTl3cllKWmtqTU5STEVKM1VmalhpTFVXX2Z0UUI5VUpIZDhNNVhoYlhMckpzWjRMYkFlRUhnX3RpUGdKd1ZxNW1nYlR3LXJIZjh6ZFhyMHlyVFZVS21HQkZrX1BqaUxJQmlTTXFmZXpuVTEtZGdmU3RwaVV2bGZhblpFZDhnZXB3czRsRkJxS25aVUhHRzhQOHNWaEpsU0lHLU10SU90dFd2TVk5VEVUbm8?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span>
-
-Source: [Inshorts](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3A1QkpBMmZ5NGlRMGRXT2dlVHlFOWVaaE11R1FrQ0ZCSmNDMjVmS3RIb1E3Y0tndGlUY2NqX1ViWHdVOUxPRF9JZ2NRRG9yRE01ME9ORWkta1h0LU1pdjdPMFJRTWFxbnpTemJXWENLNmw0c3pvUGNMMWF6Y29yZkctQ0FUcUwzMjktUS1wNktacTJ4aFJaanc5MEd0eUtRSFpSVldSZFF3bHhMNk10Xy1NdHlpMjlEWmk5ajNxb3o0Wmx1MlBRd1JhcGFSQW1CNUHSAdcBQVVfeXFMT2I4dmtDZDhmbmRpTVZOVWlmNnRZRm5laHdSTzVmbzFQckZ6aEw1dTl3cllKWmtqTU5STEVKM1VmalhpTFVXX2Z0UUI5VUpIZDhNNVhoYlhMckpzWjRMYkFlRUhnX3RpUGdKd1ZxNW1nYlR3LXJIZjh6ZFhyMHlyVFZVS21HQkZrX1BqaUxJQmlTTXFmZXpuVTEtZGdmU3RwaVV2bGZhblpFZDhnZXB3czRsRkJxS25aVUhHRzhQOHNWaEpsU0lHLU10SU90dFd2TVk5VEVUbm8?oc=5)
-
----
-
-### [Total Ultra-Processed Food Intake Is Not Linked to Colorectal Cancer Incidence - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU5qZFZkR000WUFiZlQyNVV6VlZwWVpIaC1UdDlVeVNTT0RWNXhXTnUzNDFPcUNiVjBhNW5WOTVTYjhrNnpkbDN1b3FDcVB3RGRkTThfc2lIeU9ZSkFHZTczOVJMOGkzVEF4dkV3eWcwSEVuVlMxLTgxWG9OVWsxNzBpUUU3UFpSWktWSjE5Z1ZjQnBVR2ItZ2FVal9yM3ZEZXB3RGxvTQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
-
-Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU5qZFZkR000WUFiZlQyNVV6VlZwWVpIaC1UdDlVeVNTT0RWNXhXTnUzNDFPcUNiVjBhNW5WOTVTYjhrNnpkbDN1b3FDcVB3RGRkTThfc2lIeU9ZSkFHZTczOVJMOGkzVEF4dkV3eWcwSEVuVlMxLTgxWG9OVWsxNzBpUUU3UFpSWktWSjE5Z1ZjQnBVR2ItZ2FVal9yM3ZEZXB3RGxvTQ?oc=5)
 
 ---
 
@@ -119,11 +119,11 @@ Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiwAFBVV
 
 ---
 
-### [Abnormal Antibodies Linked to DNA Repair Defects in Childhood Cancer - The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXprVlVQb29jOEFTV0x0Yi00VTRncDJQc19NeG9EN3JIa1NsZ2pMaHJsVlV4RTN3QkVBSE1tbkFfcEdxMlFWU0pfa3I1TDhlSVFWc01MNHE1T051ekxLck9kNjZfXzBFZmJyT2JuR3NBUWhLQmJ6SFFmUi03bk5qNnUxenp6eVJtUXlvNnNENDJxcGZGMVJFWW94a09lajBIT3ZrOXRB?oc=5)
+### [New trial aims to test whether a blood test can detect breast cancer earlier than mammograms](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOclFCLTBNSFp2RkVxdXBQYktXQVRjckFYenhEVzE4UlJxdndfMEYtXzItXzFuN29BQjBmU1Yya2d5S1pwUUVjUDFyYjI3TWNHZWdIdFB1alNDYUVocnQ5ajVsRTlRSnc3R1RUWm5Pck84Q3EyZ1hVWEpITUFCTWE1NmpiaTVHeFdHWEhGM2hkMXNEaXc0b0M2MzZDRWJsMUhxV0tHbWFpYkVhV1hZTGVnY1JFWExSVUxhOWtEbV9SMzVuQlMwTjZ3SWVaQzRmbnFseGtNT2tkdw?oc=5)
 
-2026-10-15 <span class="news-indication-tag">cancer</span>
+2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXprVlVQb29jOEFTV0x0Yi00VTRncDJQc19NeG9EN3JIa1NsZ2pMaHJsVlV4RTN3QkVBSE1tbkFfcEdxMlFWU0pfa3I1TDhlSVFWc01MNHE1T051ekxLck9kNjZfXzBFZmJyT2JuR3NBUWhLQmJ6SFFmUi03bk5qNnUxenp6eVJtUXlvNnNENDJxcGZGMVJFWW94a09lajBIT3ZrOXRB?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOclFCLTBNSFp2RkVxdXBQYktXQVRjckFYenhEVzE4UlJxdndfMEYtXzItXzFuN29BQjBmU1Yya2d5S1pwUUVjUDFyYjI3TWNHZWdIdFB1alNDYUVocnQ5ajVsRTlRSnc3R1RUWm5Pck84Q3EyZ1hVWEpITUFCTWE1NmpiaTVHeFdHWEhGM2hkMXNEaXc0b0M2MzZDRWJsMUhxV0tHbWFpYkVhV1hZTGVnY1JFWExSVUxhOWtEbV9SMzVuQlMwTjZ3SWVaQzRmbnFseGtNT2tkdw?oc=5)
 
 ---
 
@@ -143,11 +143,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxOMEE1Nng4
 
 ---
 
-### [Cancer is rising in younger adults, and scientists can't fully explain why - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXVGZGg3aTU1VGR5LU85YXpLbjJ0dG93Mm1GTVlVdkhCLW1abGtiUHNiV1FCeFFRTnJrc0ZKOWpRMlVybkRJdXdSQ0tiMXRlLXNSYlF3RE5tdEsya1NoU0NRN1lEem9zVlBsQjNNaw?oc=5)
+### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
 
-2026-10-14 <span class="news-indication-tag">cancer</span>
+2026-10-14 <span class="news-indication-tag">RA</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1LNXVGZGg3aTU1VGR5LU85YXpLbjJ0dG93Mm1GTVlVdkhCLW1abGtiUHNiV1FCeFFRTnJrc0ZKOWpRMlVybkRJdXdSQ0tiMXRlLXNSYlF3RE5tdEsya1NoU0NRN1lEem9zVlBsQjNNaw?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
 
 ---
 

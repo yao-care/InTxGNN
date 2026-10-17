@@ -30,6 +30,14 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 ## Related News (3)
 
+### [AI designs working molecular scissors that recognize and cut selected protein targets](https://news.google.com/rss/articles/CBMickFVX3lxTE5LM2RoSkZpTUdtUXhVQkJCdkY0SHVmTDZWdXBRakx2QWZVb0JxdU9zMGxyRHh0Nld4bTRONVNGdXBMMnFRa2NTV0tVT1gxSF9lSzN6dzRxZDd5SUdLQlBWTEtpWDVBVHEyR1Y1dnBISUhRQQ?oc=5)
+
+2026-10-16 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMickFVX3lxTE5LM2RoSkZpTUdtUXhVQkJCdkY0SHVmTDZWdXBRakx2QWZVb0JxdU9zMGxyRHh0Nld4bTRONVNGdXBMMnFRa2NTV0tVT1gxSF9lSzN6dzRxZDd5SUdLQlBWTEtpWDVBVHEyR1Y1dnBISUhRQQ?oc=5)
+
+---
+
 ### [AI study of 101,000 patients links brown fat to heart and mental health](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
 
 2026-10-16 <span class="news-drug-tag">LOSARTAN</span> <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Losartan</span> <span class="news-drug-tag">Urea</span>
@@ -43,14 +51,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0
 2026-10-15 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
 Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDBrT2kwYm5QcVgxT3l5NjRNV0k2aFRaMEtLcEVBV0diU25FX2M1amx4N25sS0FVTU05alZGeWJqRFcwTlVBbDgtMTR2OXdPSy1rMTh1RjhlTy1NWHVIekZiZjJIbnE2eXB0ZWlRdjNKRW5qeWYyYjdtbl9XT2lFX0RVTjFlNE96M0p6Ylc3aUwtZ2tZU0lyNGxhcW00U1RKaEE?oc=5)
-
----
-
-### [Hidden signals in sleep can predict future health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
-
-2026-10-12 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">cardiovascular</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
 ---
 
