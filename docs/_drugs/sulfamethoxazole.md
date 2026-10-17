@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Sulfamethoxazole: predicted new indication Acute contagious conjunctivitis (evidence level L4). Approved use: Infectious otitis media, nocardiosis, toxoplasmosis, hirudiniasis…"
-monitor_inn: "Sulfamethoxazole"
-predicted_indications: ["acute contagious conjunctivitis"]
 ---
 
 # Sulfamethoxazole

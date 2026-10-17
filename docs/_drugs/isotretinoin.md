@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-14
 description: "Isotretinoin: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertensive disorder / hypertension"
 monitor_inn: "Isotretinoin"
-predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Isotretinoin

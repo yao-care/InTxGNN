@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-14
 description: "Levobunolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
 monitor_inn: "Levobunolol"
-predicted_indications: ["primary hereditary glaucoma", "glaucoma 1, open angle", "open angle glaucoma"]
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Levobunolol

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ripasudil: predicted new indication Hyperprolactinemia (disease) (evidence level L5). Approved use: Ocular hypertension"
 monitor_inn: "Ripasudil"
-predicted_indications: ["hyperprolactinemia (disease)", "Axenfeld anomaly", "hydrophthalmos", "glaucoma 3, primary infantile, B", "familial hyperprolactinemia", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "thrombocytopenia"]
+predicted_indications: ["hyperprolactinemia (disease)", "Axenfeld anomaly", "hydrophthalmos", "familial hyperprolactinemia", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "thrombocytopenia"]
 ---
 
 # Ripasudil

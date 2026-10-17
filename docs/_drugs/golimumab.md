@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Golimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis (also psoriatic arthritis…"
 monitor_inn: "Golimumab"
-predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
 ---
 
 # Golimumab

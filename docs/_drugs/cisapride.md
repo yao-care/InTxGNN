@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Cisapride: predicted new indication Peptic ulcer perforation (evidence level L5). Approved use: Gastroesophageal reflux disease"
 monitor_inn: "Cisapride"
-predicted_indications: ["peptic ulcer perforation", "gastrojejunal ulcer", "gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease"]
+predicted_indications: ["peptic ulcer perforation", "gastrojejunal ulcer", "gastric ulcer (disease)", "gastroduodenitis"]
 ---
 
 # Cisapride

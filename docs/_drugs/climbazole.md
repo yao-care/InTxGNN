@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Climbazole: predicted new indication Acne keloid (evidence level L5). Approved use: Seborrheic dermatitis, seborrheic keratosis"
 monitor_inn: "Climbazole"
-predicted_indications: ["acne keloid", "amyopathic dermatomyositis", "dermatitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "vulvar inverted follicular keratosis", "dermatitis, atopic", "newborn respiratory distress syndrome"]
+predicted_indications: ["acne keloid", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "vulvar inverted follicular keratosis", "dermatitis, atopic", "newborn respiratory distress syndrome"]
 ---
 
 # Climbazole

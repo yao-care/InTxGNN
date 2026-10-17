@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Valproic Acid: predicted new indication Visual epilepsy (evidence level L3). Approved use: Epilepsy"
 monitor_inn: "Valproic acid"
-predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "trigeminal neuralgia", "eating seizures", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "eating seizures", "thinking seizures", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures"]
 ---
 
 # Valproic Acid

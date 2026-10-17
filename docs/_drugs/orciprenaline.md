@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Orciprenaline: predicted new indication Obstructive lung disease (evidence level L3). Approved use: Asthma, intrinsic asthma, allergic asthma, bronchitis…"
 monitor_inn: "Orciprenaline"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "chronic obstructive pulmonary disease", "food-dependent exercise-induced anaphylaxis", "anaphylaxis", "compensatory emphysema", "hyperlucent lung", "interstitial emphysema"]
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "food-dependent exercise-induced anaphylaxis", "anaphylaxis"]
 ---
 
 # Orciprenaline

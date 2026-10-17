@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Arformoterol: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Chronic obstructive pulmonary disease, bronchitis, pulmonary emphysema"
 monitor_inn: "Arformoterol"
-predicted_indications: ["obstructive lung disease", "compensatory emphysema", "hyperlucent lung", "interstitial emphysema", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "congenital lobar emphysema", "susceptibility to respiratory infections associated with CD8alpha chain mutation", "tracheal calcification"]
+predicted_indications: ["respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "susceptibility to respiratory infections associated with CD8alpha chain mutation", "tracheal calcification"]
 ---
 
 # Arformoterol

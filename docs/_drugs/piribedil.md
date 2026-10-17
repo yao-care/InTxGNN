@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Piribedil: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Parkinson disease / parkinsonian disorder"
 monitor_inn: "Piribedil"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration", "juvenile onset Parkinson disease 19A"]
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration"]
 ---
 
 # Piribedil
