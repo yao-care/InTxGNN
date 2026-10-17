@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Reserpine: predicted new indication Treatment-refractory schizophrenia (evidence level L5). Approved use: Hypertension and psychotic disorders"
-monitor_inn: "Reserpine"
-predicted_indications: ["treatment-refractory schizophrenia"]
 ---
 
 # Reserpine
@@ -27,7 +25,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

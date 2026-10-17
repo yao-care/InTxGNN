@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Loteprednol Etabonate: predicted new indication Serous conjunctivitis except viral (evidence level L5). Approved use: Uveitis, iris and ciliary body diseases…"
 monitor_inn: "Loteprednol etabonate"
-predicted_indications: ["serous conjunctivitis except viral", "conjunctival folliculosis", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
+predicted_indications: ["otitis externa"]
 ---
 
 # Loteprednol Etabonate
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Epalrestat: predicted new indication Type 2 diabetic nephropathy (evidence level L3). Approved use: Diabetic neuropathy / diabetic polyneuropathy"
 monitor_inn: "Epalrestat"
-predicted_indications: ["type 2 diabetes nephropathy", "Tay-Sachs disease", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "adult Krabbe disease", "cholesterol metabolism disease", "infantile neuronal ceroid lipofuscinosis", "autosomal ichthyosis syndrome with fatal disease course", "familial generalized lentiginosis"]
+predicted_indications: ["Tay-Sachs disease", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "adult Krabbe disease", "cholesterol metabolism disease", "infantile neuronal ceroid lipofuscinosis", "autosomal ichthyosis syndrome with fatal disease course", "familial generalized lentiginosis"]
 ---
 
 # Epalrestat
@@ -27,7 +27,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

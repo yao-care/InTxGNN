@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Troxipide: predicted new indication Esophagitis (evidence level L5). Approved use: Gastric ulcer"
 monitor_inn: "Troxipide"
-predicted_indications: ["esophagitis (disease)", "active peptic ulcer disease", "hiatus hernia (disease)", "gastrojejunal ulcer", "peptic ulcer perforation", "achlorhydria", "pylorospasm", "gastric dilatation", "cascade stomach", "Dieulafoy lesion"]
+predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "gastric dilatation", "cascade stomach", "Dieulafoy lesion"]
 ---
 
 # Troxipide
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

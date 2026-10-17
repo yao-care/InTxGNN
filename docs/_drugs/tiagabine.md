@@ -7,8 +7,6 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Tiagabine: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
-monitor_inn: "Tiagabine"
-predicted_indications: ["visual epilepsy"]
 ---
 
 # Tiagabine
@@ -27,7 +25,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 
