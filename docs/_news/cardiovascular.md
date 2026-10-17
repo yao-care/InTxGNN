@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -57,7 +57,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (2)
 
 ### [Obesity major risk factor for diabetes, heart disease, hypertension: Doctors - Kashmir News Observer](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYjhLVUxiaDR5aW9HN2JDaXNLc1VyNlc4MXlSbXBwX092OWFXUnEwc2xHTUROX2I0cjBFblRrcV8xTEFXT2duZE44YTdsWU9xd3R2TWhVOEJjN1VVTHhUMzkxZFRQTWZHbm9MYUtRRlc4N215ODN2ankyV3A4bzVyWTB3UU95NVhmRklRUWNZOTE0ZFNMakJoamZnZXloTnBfRlFvXy1acGlQbUw4ZkFpWDRuZW5DakNkX1lNUUY3M1Z4M2Q3azZ5MnZDUjA?oc=5)
 
@@ -72,22 +72,6 @@ Source: [Kashmir News Observer](https://news.google.com/rss/articles/CBMizAFBVV9
 2026-10-16
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
-
----
-
-### [How Are Stress, Depression, and Cardiovascular Risk Linked?](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
-
-2026-10-13
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ25sQmRoMnJEaGdPcUhuTE9DeThqejdvWGJsVnNlcDhXOUp5emJzcVdGLTZtVFZmODlPaFZYSjFWWHlMbnpiVEtZaVI1ZVdmTW1MREluVlpPV2YyOWppUFJfdFlVcGo2ZHhTUzJKZ0dpQTZmZ2JiUTdzdW9XcnIzckl3eVcwdDVXUlBWSHJCbl9hb1o3cS11UDV5MlJSOUxJTHVtMHA2MC1tUQ?oc=5)
-
----
-
-### [Hidden signals in sleep can predict future health](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
-
-2026-10-12
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mRWZwNGxUQXZfd2dzX21OMXlyY3NlN3FBSEM3Y1ZTWTRaZFlsMzNCdXF2dmFGTVZBYUQ2UHBXdk5wUHpuNE1vWmVVekpOdERCWGtRN2c0aXBLT3Rrd0lZ?oc=5)
 
 ---
 

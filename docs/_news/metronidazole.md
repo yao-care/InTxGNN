@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [What to eat to avoid hot flashes](https://news.google.com/rss/articles/CBMingFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kd9IBngFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kdw?oc=5)
+
+2026-10-17 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Onmanorama](https://news.google.com/rss/articles/CBMingFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kd9IBngFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kdw?oc=5)
+
+---
+
+### [Dr. Tanaya Narendra on India's menopause care gap](https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3M2UEdBTDctdHkzQmxSbEp1UEpwcThfbFBIellnTTd4VTlGdUstMS1uVHpTTGFRYjB2c1A1eVpmeThra1FvenV5cDdCTmFsSWNsNW9QYU56T3FFSmtNbmh0enhQdUxvVUwxRjJCOXRVM3JQZHo1cGsxTnZrTVB6WDFTWFN5aDVGa05WOTg0T2Vfd25xTTFHVEczYXdKVTRFOC13TkQzZmNlc2NxTVHSAbMBQVVfeXFMT0V1c3VyM0lkTUxzY1owTHRsSWFWT0huNFlJYm12QWtXRnY1eGliaUJZbGVDa25SMXd3Q0ZtXzZ1M016TW9hS2pUbVpicGxWOGhLbTJxS3FuVmx0TERZV0p4YVhPV3J6TXFQRkhCSjlzVzVaYVB1SEZreUVibm4xQWI3aHBkN19hN2t4VlNxUDNJYnNzcHV1ZDFiMC1TdDVMUUpYVEZadkE4UlZyOEppZjd6S0E?oc=5)
+
+2026-10-17 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Storyboard18](https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3M2UEdBTDctdHkzQmxSbEp1UEpwcThfbFBIellnTTd4VTlGdUstMS1uVHpTTGFRYjB2c1A1eVpmeThra1FvenV5cDdCTmFsSWNsNW9QYU56T3FFSmtNbmh0enhQdUxvVUwxRjJCOXRVM3JQZHo1cGsxTnZrTVB6WDFTWFN5aDVGa05WOTg0T2Vfd25xTTFHVEczYXdKVTRFOC13TkQzZmNlc2NxTVHSAbMBQVVfeXFMT0V1c3VyM0lkTUxzY1owTHRsSWFWT0huNFlJYm12QWtXRnY1eGliaUJZbGVDa25SMXd3Q0ZtXzZ1M016TW9hS2pUbVpicGxWOGhLbTJxS3FuVmx0TERZV0p4YVhPV3J6TXFQRkhCSjlzVzVaYVB1SEZreUVibm4xQWI3aHBkN19hN2t4VlNxUDNJYnNzcHV1ZDFiMC1TdDVMUUpYVEZadkE4UlZyOEppZjd6S0E?oc=5)
+
+---
 
 ### [New drug opens non-hormonal route to manage menopause symptoms - Deccan Herald](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RvV3cyZllGREQ4UC0tbzFCUXJaZDVsa203S1BQY3FjYmd1MHdMdGQ2TEhRUmQySFdvS21seGczQmstOXZPWDAwNXFma1hIZngxRmk0My1LUnc5dXg0NnhRbjRSNkxBRHJOLXZ1TmhUbHdjV19OM2dYbEZuam5US3prUVJlNVEyTmhIWVRVbF9CLVR6QlZFUS1PSVJYWldUeEVGZHZmMXRJUQ?oc=5)
 
