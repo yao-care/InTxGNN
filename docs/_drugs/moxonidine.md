@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Moxonidine: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertension (essential hypertension, hypertensive disorder)"
 monitor_inn: "Moxonidine"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "primary hereditary glaucoma"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "primary hereditary glaucoma"]
 ---
 
 # Moxonidine
