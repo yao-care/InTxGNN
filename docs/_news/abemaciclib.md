@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 4 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Neuropathic Pain-Like Features in Patients With Rheumatoid Arthritis and Spondyloarthritis Receiving Targeted Therapies: Prevalence and Associated Factors](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
+
+2026-10-17 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
+
+---
 
 ### [Heart disease can develop without obvious symptoms: Cardiologists explain tests, from Lipoprotein(a) and ApoB to coronary calcium scans, that can help uncover hidden cardiovascular risk - The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
 

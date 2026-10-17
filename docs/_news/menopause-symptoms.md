@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 5 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 3 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause-symptoms/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>5 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,15 +43,7 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (5)
-
-### [What to eat to avoid hot flashes](https://news.google.com/rss/articles/CBMingFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kd9IBngFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kdw?oc=5)
-
-2026-10-17
-
-Source: [Onmanorama](https://news.google.com/rss/articles/CBMingFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kd9IBngFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kdw?oc=5)
-
----
+## Related News (3)
 
 ### [Dr. Tanaya Narendra on India's menopause care gap](https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3M2UEdBTDctdHkzQmxSbEp1UEpwcThfbFBIellnTTd4VTlGdUstMS1uVHpTTGFRYjB2c1A1eVpmeThra1FvenV5cDdCTmFsSWNsNW9QYU56T3FFSmtNbmh0enhQdUxvVUwxRjJCOXRVM3JQZHo1cGsxTnZrTVB6WDFTWFN5aDVGa05WOTg0T2Vfd25xTTFHVEczYXdKVTRFOC13TkQzZmNlc2NxTVHSAbMBQVVfeXFMT0V1c3VyM0lkTUxzY1owTHRsSWFWT0huNFlJYm12QWtXRnY1eGliaUJZbGVDa25SMXd3Q0ZtXzZ1M016TW9hS2pUbVpicGxWOGhLbTJxS3FuVmx0TERZV0p4YVhPV3J6TXFQRkhCSjlzVzVaYVB1SEZreUVibm4xQWI3aHBkN19hN2t4VlNxUDNJYnNzcHV1ZDFiMC1TdDVMUUpYVEZadkE4UlZyOEppZjd6S0E?oc=5)
 
@@ -74,14 +66,6 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3R
 2026-10-16
 
 Source: [DT Next](https://news.google.com/rss/articles/CBMiuAFBVV95cUxObjluWkVIT2h2elJ4cXpkaUlRRzVXVUdlV2VRcWprVGRicDFfVmdDVUZfSURxU3Q2MWpwd1FEdFFIRml2ZnhxM05DTXVWdFBaSzdzOTVKeGw2VWdjVE0yTWRPdWstMkNxdGNVcVlUUGl3Rk9VeUg0NlUzRFRTRDlzRDduczVLYVU5clR0NXhnUGxJUkhqY2NVTTNSUExfUXVLa3BaRGVUN3Rud1BWY3AwYWJpeXcydnJx0gHGAUFVX3lxTFBYa2VXV3loWmhzMXk1dXZqdnN5ZGtJSmpjeUw1dFoxR2VySG9abXc4ZEJmN2dTUWVvMTY0YXY5UTNsTjJjWWdjMWVtYTVhY2ZRSGxFZng3eDZBbGt5UnhubjZDcG5qVjdMMlp0ZmJydncwcU1qVDNwUnZFdDF1WDVieGQ2NlJhT05Cb3N6MDVHYmtnRXMxV1lyLWVFTzRzLUdmNm42dnYyR3lCMkZoNXcxdzdxTDF5UUltMDV0UEhRWlVtRlNzQQ?oc=5)
-
----
-
-### [UK HRT shortages: which products are affected and what to do about it - The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
-
-2026-10-15
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5)
 
 ---
 

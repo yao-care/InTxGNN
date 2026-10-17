@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,23 +28,9 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [AI study of 101,000 patients links brown fat to heart and mental health](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
-
-2026-10-16 <span class="news-drug-tag">LOSARTAN</span> <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Losartan</span> <span class="news-drug-tag">Urea</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
-
----
-
-### [De novo design of cysteine proteases](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
-
-2026-10-14 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
