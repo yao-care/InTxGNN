@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 10 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 12 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>10 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>12 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -72,12 +72,9 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/cetuximab/' | relative_url }}">CETUXIMAB</a></li>
 <li><a href="{{ '/drugs/pegaspargase/' | relative_url }}">PEGASPARGASE</a></li>
 <li><a href="{{ '/drugs/trastuzumab/' | relative_url }}">TRASTUZUMAB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">RITUXIMAB</a></li>
 <li><a href="{{ '/drugs/bevacizumab/' | relative_url }}">BEVACIZUMAB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">BORTEZOMIB</a></li>
 <li><a href="{{ '/drugs/cladribine/' | relative_url }}">CLADRIBINE</a></li>
 <li><a href="{{ '/drugs/cabergoline/' | relative_url }}">CABERGOLINE</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">CARMUSTINE</a></li>
 <li><a href="{{ '/drugs/bleomycin/' | relative_url }}">BLEOMYCIN</a></li>
 <li><a href="{{ '/drugs/chlorambucil/' | relative_url }}">CHLORAMBUCIL</a></li>
 <li><a href="{{ '/drugs/mitomycin/' | relative_url }}">MITOMYCIN</a></li>
@@ -91,9 +88,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/lenalidomide/' | relative_url }}">LENALIDOMIDE</a></li>
 <li><a href="{{ '/drugs/altretamine/' | relative_url }}">ALTRETAMINE</a></li>
 <li><a href="{{ '/drugs/flutamide/' | relative_url }}">FLUTAMIDE</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">CISPLATIN</a></li>
 <li><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">OXALIPLATIN</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">ERLOTINIB</a></li>
 <li><a href="{{ '/drugs/cyclophosphamide/' | relative_url }}">CYCLOPHOSPHAMIDE</a></li>
 <li><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">CIPROFLOXACIN</a></li>
 <li><a href="{{ '/drugs/vincristine/' | relative_url }}">VINCRISTINE</a></li>
@@ -103,7 +98,6 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/methotrexate/' | relative_url }}">METHOTREXATE</a></li>
 <li><a href="{{ '/drugs/vinblastine/' | relative_url }}">VINBLASTINE</a></li>
 <li><a href="{{ '/drugs/propranolol/' | relative_url }}">PROPRANOLOL</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">FLUTICASONE PROPIONATE</a></li>
 <li><a href="{{ '/drugs/fluocinolone-acetonide/' | relative_url }}">FLUOCINOLONE ACETONIDE</a></li>
 <li><a href="{{ '/drugs/medroxyprogesterone-acetate/' | relative_url }}">MEDROXYPROGESTERONE ACETATE</a></li>
 <li><a href="{{ '/drugs/triamcinolone/' | relative_url }}">TRIAMCINOLONE</a></li>
@@ -120,9 +114,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/dacarbazine/' | relative_url }}">DACARBAZINE</a></li>
 <li><a href="{{ '/drugs/prednisolone/' | relative_url }}">PREDNISOLONE</a></li>
 <li><a href="{{ '/drugs/sirolimus/' | relative_url }}">SIROLIMUS</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">DINOPROSTONE</a></li>
 <li><a href="{{ '/drugs/phenoxybenzamine/' | relative_url }}">PHENOXYBENZAMINE</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">AZACITIDINE</a></li>
 <li><a href="{{ '/drugs/carboplatin/' | relative_url }}">CARBOPLATIN</a></li>
 <li><a href="{{ '/drugs/methylprednisolone/' | relative_url }}">METHYLPREDNISOLONE</a></li>
 <li><a href="{{ '/drugs/dactinomycin/' | relative_url }}">DACTINOMYCIN</a></li>
@@ -131,7 +123,6 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">HYDROXYUREA</a></li>
 <li><a href="{{ '/drugs/topotecan/' | relative_url }}">TOPOTECAN</a></li>
 <li><a href="{{ '/drugs/mercaptopurine/' | relative_url }}">MERCAPTOPURINE</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">THALIDOMIDE</a></li>
 <li><a href="{{ '/drugs/melphalan/' | relative_url }}">MELPHALAN</a></li>
 <li><a href="{{ '/drugs/norfloxacin/' | relative_url }}">NORFLOXACIN</a></li>
 <li><a href="{{ '/drugs/capecitabine/' | relative_url }}">CAPECITABINE</a></li>
@@ -139,7 +130,6 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/ofloxacin/' | relative_url }}">OFLOXACIN</a></li>
 <li><a href="{{ '/drugs/procarbazine/' | relative_url }}">PROCARBAZINE</a></li>
 <li><a href="{{ '/drugs/arsenic-trioxide/' | relative_url }}">ARSENIC TRIOXIDE</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">IDARUBICIN</a></li>
 <li><a href="{{ '/drugs/estramustine/' | relative_url }}">ESTRAMUSTINE</a></li>
 <li><a href="{{ '/drugs/bromocriptine/' | relative_url }}">BROMOCRIPTINE</a></li>
 <li><a href="{{ '/drugs/mitoxantrone/' | relative_url }}">MITOXANTRONE</a></li>
@@ -154,7 +144,6 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/sunitinib/' | relative_url }}">SUNITINIB</a></li>
 <li><a href="{{ '/drugs/panitumumab/' | relative_url }}">PANITUMUMAB</a></li>
 <li><a href="{{ '/drugs/everolimus/' | relative_url }}">EVEROLIMUS</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">THIOTEPA</a></li>
 <li><a href="{{ '/drugs/ixabepilone/' | relative_url }}">IXABEPILONE</a></li>
 <li><a href="{{ '/drugs/nilotinib/' | relative_url }}">NILOTINIB</a></li>
 <li><a href="{{ '/drugs/trabectedin/' | relative_url }}">TRABECTEDIN</a></li>
@@ -163,7 +152,6 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/temsirolimus/' | relative_url }}">TEMSIROLIMUS</a></li>
 <li><a href="{{ '/drugs/pertuzumab/' | relative_url }}">PERTUZUMAB</a></li>
 <li><a href="{{ '/drugs/pazopanib/' | relative_url }}">PAZOPANIB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">BOSUTINIB</a></li>
 <li><a href="{{ '/drugs/axitinib/' | relative_url }}">AXITINIB</a></li>
 <li><a href="{{ '/drugs/ofatumumab/' | relative_url }}">OFATUMUMAB</a></li>
 <li><a href="{{ '/drugs/bendamustine/' | relative_url }}">BENDAMUSTINE</a></li>
@@ -175,24 +163,18 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/carfilzomib/' | relative_url }}">CARFILZOMIB</a></li>
 <li><a href="{{ '/drugs/regorafenib/' | relative_url }}">REGORAFENIB</a></li>
 <li><a href="{{ '/drugs/enzalutamide/' | relative_url }}">ENZALUTAMIDE</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">POMALIDOMIDE</a></li>
 <li><a href="{{ '/drugs/trametinib/' | relative_url }}">TRAMETINIB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">NIVOLUMAB</a></li>
 <li><a href="{{ '/drugs/pembrolizumab/' | relative_url }}">PEMBROLIZUMAB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">IBRUTINIB</a></li>
 <li><a href="{{ '/drugs/ceritinib/' | relative_url }}">CERITINIB</a></li>
 <li><a href="{{ '/drugs/olaparib/' | relative_url }}">OLAPARIB</a></li>
 <li><a href="{{ '/drugs/lenvatinib/' | relative_url }}">LENVATINIB</a></li>
 <li><a href="{{ '/drugs/nintedanib/' | relative_url }}">NINTEDANIB</a></li>
 <li><a href="{{ '/drugs/tegafur/' | relative_url }}">TEGAFUR</a></li>
 <li><a href="{{ '/drugs/gimeracil/' | relative_url }}">GIMERACIL</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">DARATUMUMAB</a></li>
 <li><a href="{{ '/drugs/tipiracil/' | relative_url }}">TIPIRACIL</a></li>
 <li><a href="{{ '/drugs/atezolizumab/' | relative_url }}">ATEZOLIZUMAB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">ACALABRUTINIB</a></li>
 <li><a href="{{ '/drugs/durvalumab/' | relative_url }}">DURVALUMAB</a></li>
 <li><a href="{{ '/drugs/lorlatinib/' | relative_url }}">LORLATINIB</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">RUCAPARIB</a></li>
 <li><a href="{{ '/drugs/deferasirox/' | relative_url }}">Deferasirox</a></li>
 <li><a href="{{ '/drugs/demeclocycline/' | relative_url }}">Demeclocycline</a></li>
 <li><a href="{{ '/drugs/desoximetasone/' | relative_url }}">Desoximetasone</a></li>
@@ -256,7 +238,31 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Can You Get a Mammogram Before Age 40? The Most-Asked Questions About Screening in 2026, Answered - Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+
+2026-10-16
+
+Source: [Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+
+---
+
+### [Feasibility of diffuse reflectance spectroscopy for tumor border detection in colorectal cancer surgery](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oY3BRMGpPTllMSUZ2LUhkdjFXN0QzeFJ1OHZPd21nUVBDV0lMQ2JldzBkZHNQZEZVcko5ZmVTVkxLaEc3MVdWazNBS2F5TGJBb0p0V2ZqZzB0b2k5aWZZ?oc=5)
+
+2026-10-16
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oY3BRMGpPTllMSUZ2LUhkdjFXN0QzeFJ1OHZPd21nUVBDV0lMQ2JldzBkZHNQZEZVcko5ZmVTVkxLaEc3MVdWazNBS2F5TGJBb0p0V2ZqZzB0b2k5aWZZ?oc=5)
+
+---
+
+### [Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
+
+2026-10-16
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
+
+---
 
 ### [H. pylori And Cancer: US Gastroenterologist Explains How A Common Stomach Infection Raises Risk - Health and Me](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk55MEQ3VV90aG13TWF6WTR5Qm9KMW9BU3JCQ2dkeGJVOTQxT0FLQUVCcS1adXZlaFZETGFSUzc5RVp6c0JYOEFNeERUSHNLT2RHd3luZ01za1VQRHZQYnNoNzRvYXZHRkozN2tqak43LXNndm80eW1iQ1RXMW8yeG5mUDdhQURWcjBmS3ZJTUo3bnJVVW1raGNaLTlTRllpM0J3NFA3VE9xbUJ0a1JvMlU5QzhXNTZzT0Q5YjBBenlYTFJZUDYwX0RIV0ZQak5IV0p4OURiQmN6ZGFxSmJNQmJoQ0tVUGg2NXdZ?oc=5)
 
@@ -290,11 +296,11 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ
 
 ---
 
-### [National Mammography Day: 4 breast cancer screening myths busted - India Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVgtalkxVnEwQ2JtT3EzLVNGeEJTazNKcEtpaG1VQV92SjhYdnBIZkNaRWZaVzhaYTMzdzd6cEEza1hyNEJqVHBQOEJDWXBkc1pSQ2NqR09WLXdvcUJvcENmQVpzSXBxRTdwRV9DLXBPcmQzMUR6eHo0d1Q1aGFTOHZyUWFPdUU0Y3pDSDhpLTVOaEtxcXFsdmFTZExuR1V6R3BndlpRUG1aYjdmZFMzZGJ4c000Z252bTg40gHAAUFVX3lxTE9ZUW1zRGhOT2dOUEw1NUVudVlMLUJfMWM4YkJYODZJeGduTXhLX05OTkxacC1zVEhrblhmWUR0S2JjMXV6dnVtTFZwb19vVVAzNHh5WHhzaUozQ0RtZ28xa3ktUC1jX3RoRlFELTlMSFRLSVB2Tnc0RUNvUlp1Xy1NOHkwT3JLM2pUaGRoeWMyckhIQWtsNlZZUDlhSXVTZmFqVE50ZUxTOUw5aHAtSmg3V29pR05Cb0p1RzljZExNaA?oc=5)
+### [Who was Rachna Shroff, Indian-American researcher who died of disease she was trying to cure? | She is survived by her husband and 2 children | Inshorts](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3A1QkpBMmZ5NGlRMGRXT2dlVHlFOWVaaE11R1FrQ0ZCSmNDMjVmS3RIb1E3Y0tndGlUY2NqX1ViWHdVOUxPRF9JZ2NRRG9yRE01ME9ORWkta1h0LU1pdjdPMFJRTWFxbnpTemJXWENLNmw0c3pvUGNMMWF6Y29yZkctQ0FUcUwzMjktUS1wNktacTJ4aFJaanc5MEd0eUtRSFpSVldSZFF3bHhMNk10Xy1NdHlpMjlEWmk5ajNxb3o0Wmx1MlBRd1JhcGFSQW1CNUHSAdcBQVVfeXFMT2I4dmtDZDhmbmRpTVZOVWlmNnRZRm5laHdSTzVmbzFQckZ6aEw1dTl3cllKWmtqTU5STEVKM1VmalhpTFVXX2Z0UUI5VUpIZDhNNVhoYlhMckpzWjRMYkFlRUhnX3RpUGdKd1ZxNW1nYlR3LXJIZjh6ZFhyMHlyVFZVS21HQkZrX1BqaUxJQmlTTXFmZXpuVTEtZGdmU3RwaVV2bGZhblpFZDhnZXB3czRsRkJxS25aVUhHRzhQOHNWaEpsU0lHLU10SU90dFd2TVk5VEVUbm8?oc=5)
 
 2026-10-16
 
-Source: [India Today](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVgtalkxVnEwQ2JtT3EzLVNGeEJTazNKcEtpaG1VQV92SjhYdnBIZkNaRWZaVzhaYTMzdzd6cEEza1hyNEJqVHBQOEJDWXBkc1pSQ2NqR09WLXdvcUJvcENmQVpzSXBxRTdwRV9DLXBPcmQzMUR6eHo0d1Q1aGFTOHZyUWFPdUU0Y3pDSDhpLTVOaEtxcXFsdmFTZExuR1V6R3BndlpRUG1aYjdmZFMzZGJ4c000Z252bTg40gHAAUFVX3lxTE9ZUW1zRGhOT2dOUEw1NUVudVlMLUJfMWM4YkJYODZJeGduTXhLX05OTkxacC1zVEhrblhmWUR0S2JjMXV6dnVtTFZwb19vVVAzNHh5WHhzaUozQ0RtZ28xa3ktUC1jX3RoRlFELTlMSFRLSVB2Tnc0RUNvUlp1Xy1NOHkwT3JLM2pUaGRoeWMyckhIQWtsNlZZUDlhSXVTZmFqVE50ZUxTOUw5aHAtSmg3V29pR05Cb0p1RzljZExNaA?oc=5)
+Source: [Inshorts](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3A1QkpBMmZ5NGlRMGRXT2dlVHlFOWVaaE11R1FrQ0ZCSmNDMjVmS3RIb1E3Y0tndGlUY2NqX1ViWHdVOUxPRF9JZ2NRRG9yRE01ME9ORWkta1h0LU1pdjdPMFJRTWFxbnpTemJXWENLNmw0c3pvUGNMMWF6Y29yZkctQ0FUcUwzMjktUS1wNktacTJ4aFJaanc5MEd0eUtRSFpSVldSZFF3bHhMNk10Xy1NdHlpMjlEWmk5ajNxb3o0Wmx1MlBRd1JhcGFSQW1CNUHSAdcBQVVfeXFMT2I4dmtDZDhmbmRpTVZOVWlmNnRZRm5laHdSTzVmbzFQckZ6aEw1dTl3cllKWmtqTU5STEVKM1VmalhpTFVXX2Z0UUI5VUpIZDhNNVhoYlhMckpzWjRMYkFlRUhnX3RpUGdKd1ZxNW1nYlR3LXJIZjh6ZFhyMHlyVFZVS21HQkZrX1BqaUxJQmlTTXFmZXpuVTEtZGdmU3RwaVV2bGZhblpFZDhnZXB3czRsRkJxS25aVUhHRzhQOHNWaEpsU0lHLU10SU90dFd2TVk5VEVUbm8?oc=5)
 
 ---
 
@@ -311,14 +317,6 @@ Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMipwFBVV
 2026-10-16
 
 Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzkzeEVlTWZha1I0V0trN0hUTGpBOVA0Q0dNRmJlTEdjb1h1enluQzVJYmYyS19leUVkWG5WbFFMMnFhcEVnYVdKcVZQU0FOcEdwQTM2R0NQd0NjSEFjZVdGQVpBZE8tOU8xeUx1cUF3ZDY5UnhFQkxzTE9JVy0tVFpDVGd6RWIwLW0zcGU3MnJ6N0Y5T24tVHJxSDFnRUV4dVUyeEtUZzQwS3FJcC1WaGxyTmFmSFhRQUhrNVZGdFo?oc=5)
-
----
-
-### [Who Was Rachna Shroff? Indian-American Cancer Researcher Dies Of Disease She Was Trying To Cure](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
-
-2026-10-15
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
 
 ---
 

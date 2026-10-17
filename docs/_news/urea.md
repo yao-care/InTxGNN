@@ -25,24 +25,24 @@ This page combines the AI-predicted indications for Urea with the latest health 
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">View full drug report →</a></p>
+
 </div>
 
 ## Related News (3)
 
 ### [AI study of 101,000 patients links brown fat to heart and mental health](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
 
-2026-10-16 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+2026-10-16 <span class="news-drug-tag">LOSARTAN</span> <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Losartan</span> <span class="news-drug-tag">Urea</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWUo0Z00zTGFSQ19Va0ZGNVJmNkpVWDNNMTIzaURzZVA1MjRkdVFCb2tPc1F3Tnd5aFhHOEtOY2tFQndCck1FX1JOeGNfcXI4Y2lTcUlRbjQ5a1Q5N2tnSVdTWlRrenFQVW12SG1SdFRhTmNreFVMOEE1dU40TTczdHY1Ym5GMlU2V2UtRTA4NV9PR2owb0NLSTdjQ0ZfX0FnVmF5ZmpxVzlqZ2h4cjBpUHlYdDdNT0hIZnc?oc=5)
 
 ---
 
-### [Reversing age by reprogramming gene expression networks - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWdyTTBCOWtqb1VQRF9peTdPRy1obW1MRDdqTTM3UHI2MFlJMkVhaUdFWnZOSnF6V3FIRlNnRE1oMk4wMkZDOFRvN3hRMWJOQnJSaTlScWkyOUNLN0dOTFNwLWRfT08tNVV4QTZRNHU2SldHNk5WZ2ZRMDlMRlZwS3B6M3ZCNFJtXzlpdlFR?oc=5)
+### [How AI platform allows conversation between patients and medical devices - Medical Buyer](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDBrT2kwYm5QcVgxT3l5NjRNV0k2aFRaMEtLcEVBV0diU25FX2M1amx4N25sS0FVTU05alZGeWJqRFcwTlVBbDgtMTR2OXdPSy1rMTh1RjhlTy1NWHVIekZiZjJIbnE2eXB0ZWlRdjNKRW5qeWYyYjdtbl9XT2lFX0RVTjFlNE96M0p6Ylc3aUwtZ2tZU0lyNGxhcW00U1RKaEE?oc=5)
 
-2026-10-14 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+2026-10-15 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWdyTTBCOWtqb1VQRF9peTdPRy1obW1MRDdqTTM3UHI2MFlJMkVhaUdFWnZOSnF6V3FIRlNnRE1oMk4wMkZDOFRvN3hRMWJOQnJSaTlScWkyOUNLN0dOTFNwLWRfT08tNVV4QTZRNHU2SldHNk5WZ2ZRMDlMRlZwS3B6M3ZCNFJtXzlpdlFR?oc=5)
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDBrT2kwYm5QcVgxT3l5NjRNV0k2aFRaMEtLcEVBV0diU25FX2M1amx4N25sS0FVTU05alZGeWJqRFcwTlVBbDgtMTR2OXdPSy1rMTh1RjhlTy1NWHVIekZiZjJIbnE2eXB0ZWlRdjNKRW5qeWYyYjdtbl9XT2lFX0RVTjFlNE96M0p6Ylc3aUwtZ2tZU0lyNGxhcW00U1RKaEE?oc=5)
 
 ---
 

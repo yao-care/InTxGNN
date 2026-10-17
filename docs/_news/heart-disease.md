@@ -41,8 +41,6 @@ This page brings together the latest health news about “heart disease” and l
 <li><a href="{{ '/drugs/verapamil/' | relative_url }}">VERAPAMIL</a></li>
 <li><a href="{{ '/drugs/lisinopril/' | relative_url }}">LISINOPRIL</a></li>
 <li><a href="{{ '/drugs/clopidogrel/' | relative_url }}">CLOPIDOGREL</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">TIROFIBAN</a></li>
-<li><a href="{{ '/drugs/' | relative_url }}">PENTOXIFYLLINE</a></li>
 <li><a href="{{ '/drugs/atorvastatin/' | relative_url }}">ATORVASTATIN</a></li>
 <li><a href="{{ '/drugs/fluvastatin/' | relative_url }}">FLUVASTATIN</a></li>
 <li><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">ROSUVASTATIN</a></li>

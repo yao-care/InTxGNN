@@ -14,7 +14,7 @@ permalink: /news/levocetirizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Levocetirizine?">
-<strong>Levocetirizine</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
+<strong>Levocetirizine</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,23 +36,7 @@ This page combines the AI-predicted indications for Levocetirizine with the late
 <p><a href="{{ '/drugs/levocetirizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">RA</span>
-
-Source: [orfonline.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5)
-
----
-
-### [Collagen has become a popular answer to joint pain, but what does the science say? - The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
-
-2026-10-16 <span class="news-indication-tag">joint pain</span>
-
-Source: [The South First](https://news.google.com/rss/articles/CBMitAFBVV95cUxQU2hac1hiVnhhbHhneERJSmt4R0xIcGp0eW01ZlZMQnlpcHNCY1dYU0ZKcXFCUjFPcjVubU53aUhCcFVXaE5WRDc4UVViTF9lVWtVTXJzNFVkUmdmYTdtR2RsejFwNnh1akRMX1k2LS1LSy1rUk5fQkVNWHpyY3p0WWlXNDZOTUVKcTVFNDVJXzZfRVFsd3ZyN2hRcmJieTY5TEZJNm9hOXA5a3ZmcXRXVmJiRDA?oc=5)
-
----
+## Related News (2)
 
 ### [Long COVID may impact bacteria in mouth, lungs: study - The Hindu](https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGpRTzl6RG9TSXRMa25GWGdwZGZTaHNXWHlZUEN6LUJtNEFoc1RqWV9zNXlrdmQ1MEpwc2Q3T2lOTWZ2RGVMLWhUSjIxWWpzMkNRZ1BOTGl5M3RVczJpNTExTmVrb2ppazlLZURpSWZScDFIbTVEcmZnd3Z6YS1QRlJQdjA5NDhZZkc1bnRlUHhQU2E3MXdhQThWMlIxQXNMOHJVUmxnVGZUNGNDQmtadnhn0gG4AUFVX3lxTFBHc2E2UWd2UDlocTdLOGkyVDh0SzZFYmszUllUZ055Szdva184d0dSeTlOR21kRVdlNG1ITE1UUDdqOFhfcDVKY3d0MS05bTI5Q0FfQjFhVy1GbnloZkFfUi1nT2d2X1NRVUx5cE9fc2tISlpCYl9JSVBRRVlKM3ZsSnVaQlZkbXVBM2tENmhzM3lqVkVMWTBXRlo4bURzbDN2T1Nyb3I4SHNkSGcwbDUxdXZBYkRvbUw?oc=5)
 
