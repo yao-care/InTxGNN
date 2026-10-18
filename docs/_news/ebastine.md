@@ -14,7 +14,7 @@ permalink: /news/ebastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Ebastine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <li>coronary artery disease (99.2%)</li>
 <li>myocardial ischemia (99.1%)</li>
 <li>anomalous left coronary artery from the pulmonary artery (99.0%)</li>
-<li>leprosy (98.9%)</li>
+<li class="indication-matched">leprosy (98.9%)<span class="indication-tag">📰 leprosy</span></li>
 <li>candidiasis (98.7%)</li>
 <li>pneumocystosis (98.7%)</li>
 <li>hypertrichosis (disease) (98.5%)</li>
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Multibacillary Lepromatous Leprosy in an Endemic Area: A Two-Year Diagnostic Delay and the Role of Slit-Skin Smear and PCR](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlJadTlSS3FCTER5a19OUU1Eb2I3MnRzM3lUanRscUVMVzZ0WDVBQV9oZ25CV0M0SWRLc1hvaEZVcFlZYTBORjF5VE1GSG1EX1M2LTFPUWJ3Ykk3Ykt4VzZCVmFmRExTYlhSdkRhaHhSUGRkaUNzYVoxTnVJR2NITG5OY3l2U0U5dlBpdGM1MHpvZnh6SThRbk1YZFhoWTVPcnV5MlpiS0dodE1uQTc3LTk0RVc1T1FQWEZtaEpZaEtTZ1ZHSnVObG1GR3UzVTJocnVtT1F2WjZEc3g1d2o3VW42enQ3S0RJS1NPaVFJMkF6RlY3TUhlT2ZfeFEzd1Y1dmpJNkUyVzY4N0k?oc=5)
+
+2026-10-18 <span class="news-indication-tag">leprosy</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlJadTlSS3FCTER5a19OUU1Eb2I3MnRzM3lUanRscUVMVzZ0WDVBQV9oZ25CV0M0SWRLc1hvaEZVcFlZYTBORjF5VE1GSG1EX1M2LTFPUWJ3Ykk3Ykt4VzZCVmFmRExTYlhSdkRhaHhSUGRkaUNzYVoxTnVJR2NITG5OY3l2U0U5dlBpdGM1MHpvZnh6SThRbk1YZFhoWTVPcnV5MlpiS0dodE1uQTc3LTk0RVc1T1FQWEZtaEpZaEtTZ1ZHSnVObG1GR3UzVTJocnVtT1F2WjZEc3g1d2o3VW42enQ3S0RJS1NPaVFJMkF6RlY3TUhlT2ZfeFEzd1Y1dmpJNkUyVzY4N0k?oc=5)
+
+---
 
 ### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 

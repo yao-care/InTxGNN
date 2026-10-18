@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetazolamide?">
-<strong>Acetazolamide</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Acetazolamide</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Acetazolamide with the lates
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (11)
+
+### [Nearly 1 in 8 cancers worldwide are caused by infections. Many could be prevented - ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
+
+2026-10-18 <span class="news-indication-tag">cancer</span>
+
+Source: [ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
+
+---
 
 ### [Liquid biopsy and mammography: a perfect match for breast cancer detection?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
 
@@ -59,6 +67,14 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnZ
 
 ---
 
+### [Breaking the Silence Ending the Stigma | The Statesman Kolkata - newspaper](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjQ4QVlQYVhtTWZLMnN4REZVcmhtNzJSNFVTd1ZpZTBiZUsyM1lFQjgwblp6TjJ2LVNaME1NUWxhSlZ5aDBZdTBBMklZeVd1M1VlajdOUDZhSzV4eHo1a1VPc05pWXdIR25tdUtVbnJYeDFFVklLUE1GMDgtdWQzZU1pNzZKbjZ6ZzQ3YjhLa1ZmTUs3WGdySy1xaDNYZ19xQ3pjWA?oc=5)
+
+2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Magzter](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjQ4QVlQYVhtTWZLMnN4REZVcmhtNzJSNFVTd1ZpZTBiZUsyM1lFQjgwblp6TjJ2LVNaME1NUWxhSlZ5aDBZdTBBMklZeVd1M1VlajdOUDZhSzV4eHo1a1VPc05pWXdIR25tdUtVbnJYeDFFVklLUE1GMDgtdWQzZU1pNzZKbjZ6ZzQ3YjhLa1ZmTUs3WGdySy1xaDNYZ19xQ3pjWA?oc=5)
+
+---
+
 ### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
@@ -67,11 +83,19 @@ Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cU
 
 ---
 
-### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUdoVFowS3J2SE9kSm96LTNHc0ZJVGhDbXBTRkFGdThpcW1WSUtkZkEtV1hsR0pZRk9GWUU1ZENiR2VBSTZZVjRCWUY1MHFJT2xvUU11MkxYSTZjbzNtbUdNQlpIMUJYaS1XSzlhY3pIN2VSNjZ5aDNHREdmYVFrZ216Z3FjMXJtT01CTi1mbHVzMTRGRXR4cUpZWEplUG8?oc=5)
+### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
 
 2026-10-17 <span class="news-indication-tag">cancer</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUdoVFowS3J2SE9kSm96LTNHc0ZJVGhDbXBTRkFGdThpcW1WSUtkZkEtV1hsR0pZRk9GWUU1ZENiR2VBSTZZVjRCWUY1MHFJT2xvUU11MkxYSTZjbzNtbUdNQlpIMUJYaS1XSzlhY3pIN2VSNjZ5aDNHREdmYVFrZ216Z3FjMXJtT01CTi1mbHVzMTRGRXR4cUpZWEplUG8?oc=5)
+Source: [NewsNation](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
+
+---
+
+### [Rachna Shroff, accomplished GI oncologist and “tireless mentor,” dies at 47 Her endowed award will live on - The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONXlLWGNsb0RIWjdtTXd6UmxSNFdDMGZZUFJ0M3Q3dUZOd3o5TFY0SjJ6UTRVS29kUHl4Sk13cDBaU0RGNzhvOFBycWpjMTNzU0ZCVkxhMjM?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span>
+
+Source: [The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONXlLWGNsb0RIWjdtTXd6UmxSNFdDMGZZUFJ0M3Q3dUZOd3o5TFY0SjJ6UTRVS29kUHl4Sk13cDBaU0RGNzhvOFBycWpjMTNzU0ZCVkxhMjM?oc=5)
 
 ---
 
@@ -83,11 +107,19 @@ Source: [News18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOG9RWDlteW
 
 ---
 
-### [Doctors say mammograms can improve breast cancer outcomes](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
+### [Can You Get a Mammogram Before Age 40? The Most-Asked Questions About Screening in 2026, Answered - Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
 
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-16 <span class="news-indication-tag">cancer</span>
 
-Source: [KTALnews.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
+Source: [Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+
+---
+
+### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 

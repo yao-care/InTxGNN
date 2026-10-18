@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="What news is there about Calcipotriol?">
-<strong>Calcipotriol</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
+<strong>Calcipotriol</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page combines the AI-predicted indications for Calcipotriol with the latest
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (15)
 
-### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
+### [Nearly 1 in 8 cancers worldwide are caused by infections. Many could be prevented - ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
 
-2026-10-18 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-10-18 <span class="news-indication-tag">cancer</span>
 
-Source: [DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
+Source: [ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
+
+---
+
+### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFSTklpeGd2RW5ld0Rqc0ozVDEzbnJLdXZNX1BtQm1JUy1OeV9sa0ZIX1NKU052ei02OVowek81TkxmZXJnTmc2ZWExand0Y2pfcFFBWkh4RVR3cGxEYkR4TG8yQ0ZmYlROdGkzQTN2Znl5dHlXY2p2cFVSU1habTFJY21rc0NSU182OWlxNUxJVnlvdmZtNlplbGYzS1N4ZzhCSGNOQVhzcGFxRVhSSw?oc=5)
+
+2026-10-18 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [DD News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFSTklpeGd2RW5ld0Rqc0ozVDEzbnJLdXZNX1BtQm1JUy1OeV9sa0ZIX1NKU052ei02OVowek81TkxmZXJnTmc2ZWExand0Y2pfcFFBWkh4RVR3cGxEYkR4TG8yQ0ZmYlROdGkzQTN2Znl5dHlXY2p2cFVSU1habTFJY21rc0NSU182OWlxNUxJVnlvdmZtNlplbGYzS1N4ZzhCSGNOQVhzcGFxRVhSSw?oc=5) · [DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
 
 ---
 
@@ -62,6 +70,14 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnZ
 
 ---
 
+### [Breaking the Silence Ending the Stigma | The Statesman Kolkata - newspaper](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjQ4QVlQYVhtTWZLMnN4REZVcmhtNzJSNFVTd1ZpZTBiZUsyM1lFQjgwblp6TjJ2LVNaME1NUWxhSlZ5aDBZdTBBMklZeVd1M1VlajdOUDZhSzV4eHo1a1VPc05pWXdIR25tdUtVbnJYeDFFVklLUE1GMDgtdWQzZU1pNzZKbjZ6ZzQ3YjhLa1ZmTUs3WGdySy1xaDNYZ19xQ3pjWA?oc=5)
+
+2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Magzter](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjQ4QVlQYVhtTWZLMnN4REZVcmhtNzJSNFVTd1ZpZTBiZUsyM1lFQjgwblp6TjJ2LVNaME1NUWxhSlZ5aDBZdTBBMklZeVd1M1VlajdOUDZhSzV4eHo1a1VPc05pWXdIR25tdUtVbnJYeDFFVklLUE1GMDgtdWQzZU1pNzZKbjZ6ZzQ3YjhLa1ZmTUs3WGdySy1xaDNYZ19xQ3pjWA?oc=5)
+
+---
+
 ### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
@@ -70,11 +86,27 @@ Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cU
 
 ---
 
-### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUdoVFowS3J2SE9kSm96LTNHc0ZJVGhDbXBTRkFGdThpcW1WSUtkZkEtV1hsR0pZRk9GWUU1ZENiR2VBSTZZVjRCWUY1MHFJT2xvUU11MkxYSTZjbzNtbUdNQlpIMUJYaS1XSzlhY3pIN2VSNjZ5aDNHREdmYVFrZ216Z3FjMXJtT01CTi1mbHVzMTRGRXR4cUpZWEplUG8?oc=5)
+### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
 
 2026-10-17 <span class="news-indication-tag">cancer</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUdoVFowS3J2SE9kSm96LTNHc0ZJVGhDbXBTRkFGdThpcW1WSUtkZkEtV1hsR0pZRk9GWUU1ZENiR2VBSTZZVjRCWUY1MHFJT2xvUU11MkxYSTZjbzNtbUdNQlpIMUJYaS1XSzlhY3pIN2VSNjZ5aDNHREdmYVFrZ216Z3FjMXJtT01CTi1mbHVzMTRGRXR4cUpZWEplUG8?oc=5)
+Source: [NewsNation](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
+
+---
+
+### [What to eat to avoid hot flashes](https://news.google.com/rss/articles/CBMingFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kd9IBngFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kdw?oc=5)
+
+2026-10-17 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Onmanorama](https://news.google.com/rss/articles/CBMingFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kd9IBngFBVV95cUxPeE1nUVFCeUpncGxXU2hGVXBMMWNCLURjS1V6UUZlbE9sRVUwS2ppZlg1bzd0aTMxYzNiczhTaGRMOWxjYmlidGc0NkJRRDU2Z2Fvb2xHeWVfZk8xbndfdnBIZ1BXZ09MU3NFNkR1QXY1WVlUd1AwRHhWQXkwelI0cUNDdFJaMTUycS1xVlJIVmhDREJ5Rm9iM1BHNG5Kdw?oc=5)
+
+---
+
+### [Rachna Shroff, accomplished GI oncologist and “tireless mentor,” dies at 47 Her endowed award will live on - The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONXlLWGNsb0RIWjdtTXd6UmxSNFdDMGZZUFJ0M3Q3dUZOd3o5TFY0SjJ6UTRVS29kUHl4Sk13cDBaU0RGNzhvOFBycWpjMTNzU0ZCVkxhMjM?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span>
+
+Source: [The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONXlLWGNsb0RIWjdtTXd6UmxSNFdDMGZZUFJ0M3Q3dUZOd3o5TFY0SjJ6UTRVS29kUHl4Sk13cDBaU0RGNzhvOFBycWpjMTNzU0ZCVkxhMjM?oc=5)
 
 ---
 
@@ -86,6 +118,14 @@ Source: [News18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOG9RWDlteW
 
 ---
 
+### [Can You Get a Mammogram Before Age 40? The Most-Asked Questions About Screening in 2026, Answered - Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Woman's World](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlJOV0plRjEydy1IU1dnWHFGU3o1MjEtUDhnd0ZUajZ4bE1ja294MDNHdFJvaUUyQ3dkX052WWZoSmVsWlFrbVhSZ3NORkd0emlQbHp5NUpFdHRNXy1BS3psODJacHRoN2lzWkl4ZUc1UUI3bGhWcHhJXzlYM0NfVDRJRndYdDBWMV9YMTc2cU9EVHA5ZU40VktmWWlxWk0?oc=5)
+
+---
+
 ### [New drug opens non-hormonal route to manage menopause symptoms - Deccan Herald](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3RvV3cyZllGREQ4UC0tbzFCUXJaZDVsa203S1BQY3FjYmd1MHdMdGQ2TEhRUmQySFdvS21seGczQmstOXZPWDAwNXFma1hIZngxRmk0My1LUnc5dXg0NnhRbjRSNkxBRHJOLXZ1TmhUbHdjV19OM2dYbEZuam5US3prUVJlNVEyTmhIWVRVbF9CLVR6QlZFUS1PSVJYWldUeEVGZHZmMXRJUQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
@@ -94,19 +134,19 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3R
 
 ---
 
-### [Doctors say mammograms can improve breast cancer outcomes](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [KTALnews.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
-
----
-
-### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
+### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5)
 
 2026-10-15 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5) · [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
+
+---
+
+### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/aprepitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,15 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Multibacillary Lepromatous Leprosy in an Endemic Area: A Two-Year Diagnostic Delay and the Role of Slit-Skin Smear and PCR](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlJadTlSS3FCTER5a19OUU1Eb2I3MnRzM3lUanRscUVMVzZ0WDVBQV9oZ25CV0M0SWRLc1hvaEZVcFlZYTBORjF5VE1GSG1EX1M2LTFPUWJ3Ykk3Ykt4VzZCVmFmRExTYlhSdkRhaHhSUGRkaUNzYVoxTnVJR2NITG5OY3l2U0U5dlBpdGM1MHpvZnh6SThRbk1YZFhoWTVPcnV5MlpiS0dodE1uQTc3LTk0RVc1T1FQWEZtaEpZaEtTZ1ZHSnVObG1GR3UzVTJocnVtT1F2WjZEc3g1d2o3VW42enQ3S0RJS1NPaVFJMkF6RlY3TUhlT2ZfeFEzd1Y1dmpJNkUyVzY4N0k?oc=5)
+
+2026-10-18 <span class="news-indication-tag">leprosy</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlJadTlSS3FCTER5a19OUU1Eb2I3MnRzM3lUanRscUVMVzZ0WDVBQV9oZ25CV0M0SWRLc1hvaEZVcFlZYTBORjF5VE1GSG1EX1M2LTFPUWJ3Ykk3Ykt4VzZCVmFmRExTYlhSdkRhaHhSUGRkaUNzYVoxTnVJR2NITG5OY3l2U0U5dlBpdGM1MHpvZnh6SThRbk1YZFhoWTVPcnV5MlpiS0dodE1uQTc3LTk0RVc1T1FQWEZtaEpZaEtTZ1ZHSnVObG1GR3UzVTJocnVtT1F2WjZEc3g1d2o3VW42enQ3S0RJS1NPaVFJMkF6RlY3TUhlT2ZfeFEzd1Y1dmpJNkUyVzY4N0k?oc=5)
+
+---
 
 
 <div class="disclaimer">

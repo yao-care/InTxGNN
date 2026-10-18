@@ -37,19 +37,19 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 
 ## Related News (3)
 
-### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">RA</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
-
----
-
 ### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
+
+---
+
+### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 

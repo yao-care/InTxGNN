@@ -14,7 +14,7 @@ permalink: /news/amodiaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amodiaquine?">
-<strong>Amodiaquine</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Amodiaquine</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <p><a href="{{ '/drugs/amodiaquine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
+### [Multibacillary Lepromatous Leprosy in an Endemic Area: A Two-Year Diagnostic Delay and the Role of Slit-Skin Smear and PCR](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlJadTlSS3FCTER5a19OUU1Eb2I3MnRzM3lUanRscUVMVzZ0WDVBQV9oZ25CV0M0SWRLc1hvaEZVcFlZYTBORjF5VE1GSG1EX1M2LTFPUWJ3Ykk3Ykt4VzZCVmFmRExTYlhSdkRhaHhSUGRkaUNzYVoxTnVJR2NITG5OY3l2U0U5dlBpdGM1MHpvZnh6SThRbk1YZFhoWTVPcnV5MlpiS0dodE1uQTc3LTk0RVc1T1FQWEZtaEpZaEtTZ1ZHSnVObG1GR3UzVTJocnVtT1F2WjZEc3g1d2o3VW42enQ3S0RJS1NPaVFJMkF6RlY3TUhlT2ZfeFEzd1Y1dmpJNkUyVzY4N0k?oc=5)
 
-2026-10-14 <span class="news-indication-tag">RA</span>
+2026-10-18 <span class="news-indication-tag">leprosy</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMiiwJBVV95cUxONlJadTlSS3FCTER5a19OUU1Eb2I3MnRzM3lUanRscUVMVzZ0WDVBQV9oZ25CV0M0SWRLc1hvaEZVcFlZYTBORjF5VE1GSG1EX1M2LTFPUWJ3Ykk3Ykt4VzZCVmFmRExTYlhSdkRhaHhSUGRkaUNzYVoxTnVJR2NITG5OY3l2U0U5dlBpdGM1MHpvZnh6SThRbk1YZFhoWTVPcnV5MlpiS0dodE1uQTc3LTk0RVc1T1FQWEZtaEpZaEtTZ1ZHSnVObG1GR3UzVTJocnVtT1F2WjZEc3g1d2o3VW42enQ3S0RJS1NPaVFJMkF6RlY3TUhlT2ZfeFEzd1Y1dmpJNkUyVzY4N0k?oc=5)
+
+---
+
+### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 
