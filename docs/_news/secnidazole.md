@@ -14,7 +14,7 @@ permalink: /news/secnidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Secnidazole?">
-<strong>Secnidazole</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
+<strong>Secnidazole</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Secnidazole with the latest 
 <p><a href="{{ '/drugs/secnidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (10)
+
+### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
+
+2026-10-18 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
+
+---
 
 ### [Liquid biopsy and mammography: a perfect match for breast cancer detection?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
 
@@ -56,33 +64,17 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcnZ
 
 ### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
 
 Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
 ---
 
-### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
+### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUdoVFowS3J2SE9kSm96LTNHc0ZJVGhDbXBTRkFGdThpcW1WSUtkZkEtV1hsR0pZRk9GWUU1ZENiR2VBSTZZVjRCWUY1MHFJT2xvUU11MkxYSTZjbzNtbUdNQlpIMUJYaS1XSzlhY3pIN2VSNjZ5aDNHREdmYVFrZ216Z3FjMXJtT01CTi1mbHVzMTRGRXR4cUpZWEplUG8?oc=5)
 
 2026-10-17 <span class="news-indication-tag">cancer</span>
 
-Source: [NewsNation](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
-
----
-
-### [Landmark China trial achieves 84% efficacy treating cancer with waste water tech - South China Morning Post](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3R6WFFEQS1lSWpva0RaV0Z2UVRCV25ZV2hPeE5Nc29DSm42bjJHUzFRZk5VNEI5MVBhVmlWYkZFQ00xaEpnQ1VOZEN2M0FSZ2JWNXZRRVIzdTY3RGx2UUIyRi0tdGJDdkp1eWpSeFc5U1BZUTV3ZDZRVFNwc2RMZDZGcjNvcnByNm9xSzUxcndFdUJRam9mUDltWUZrcGZ3bU11RmN5cUR1UERidl9USHlMODI2RTlVcjkycU9HYjJ2Q3UtOUNZSzMzVdIBywFBVV95cUxPRU9SY1N2enhIRGY0V3c4WTNOaTc0Zm1xSmtjLWxlSnE2bHBseWMyUEM4bHJJcV82Q01fT3EwZjB4Z1RPU2NIZ2tZNjJETnk2R0pYaXUtYW5DV2FwU0tqdWNRU090WmZYbFdHbENTS3o3WHVBeG50QUs1SEM4Y2RpMUJOeDJsRG52RjkzS2lyenYtUm9vVFdma2s0eTdjLV9mT253U19vdC1ma2ExdGV3c1FseDg3Ml9aUjY5WTRCQlFxSmlvcGVhUG1ubw?oc=5)
-
-2026-10-17 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
-
-Source: [South China Morning Post](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3R6WFFEQS1lSWpva0RaV0Z2UVRCV25ZV2hPeE5Nc29DSm42bjJHUzFRZk5VNEI5MVBhVmlWYkZFQ00xaEpnQ1VOZEN2M0FSZ2JWNXZRRVIzdTY3RGx2UUIyRi0tdGJDdkp1eWpSeFc5U1BZUTV3ZDZRVFNwc2RMZDZGcjNvcnByNm9xSzUxcndFdUJRam9mUDltWUZrcGZ3bU11RmN5cUR1UERidl9USHlMODI2RTlVcjkycU9HYjJ2Q3UtOUNZSzMzVdIBywFBVV95cUxPRU9SY1N2enhIRGY0V3c4WTNOaTc0Zm1xSmtjLWxlSnE2bHBseWMyUEM4bHJJcV82Q01fT3EwZjB4Z1RPU2NIZ2tZNjJETnk2R0pYaXUtYW5DV2FwU0tqdWNRU090WmZYbFdHbENTS3o3WHVBeG50QUs1SEM4Y2RpMUJOeDJsRG52RjkzS2lyenYtUm9vVFdma2s0eTdjLV9mT253U19vdC1ma2ExdGV3c1FseDg3Ml9aUjY5WTRCQlFxSmlvcGVhUG1ubw?oc=5)
-
----
-
-### [Dr. Tanaya Narendra on India's menopause care gap](https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3M2UEdBTDctdHkzQmxSbEp1UEpwcThfbFBIellnTTd4VTlGdUstMS1uVHpTTGFRYjB2c1A1eVpmeThra1FvenV5cDdCTmFsSWNsNW9QYU56T3FFSmtNbmh0enhQdUxvVUwxRjJCOXRVM3JQZHo1cGsxTnZrTVB6WDFTWFN5aDVGa05WOTg0T2Vfd25xTTFHVEczYXdKVTRFOC13TkQzZmNlc2NxTVHSAbMBQVVfeXFMT0V1c3VyM0lkTUxzY1owTHRsSWFWT0huNFlJYm12QWtXRnY1eGliaUJZbGVDa25SMXd3Q0ZtXzZ1M016TW9hS2pUbVpicGxWOGhLbTJxS3FuVmx0TERZV0p4YVhPV3J6TXFQRkhCSjlzVzVaYVB1SEZreUVibm4xQWI3aHBkN19hN2t4VlNxUDNJYnNzcHV1ZDFiMC1TdDVMUUpYVEZadkE4UlZyOEppZjd6S0E?oc=5)
-
-2026-10-17 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Storyboard18](https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3M2UEdBTDctdHkzQmxSbEp1UEpwcThfbFBIellnTTd4VTlGdUstMS1uVHpTTGFRYjB2c1A1eVpmeThra1FvenV5cDdCTmFsSWNsNW9QYU56T3FFSmtNbmh0enhQdUxvVUwxRjJCOXRVM3JQZHo1cGsxTnZrTVB6WDFTWFN5aDVGa05WOTg0T2Vfd25xTTFHVEczYXdKVTRFOC13TkQzZmNlc2NxTVHSAbMBQVVfeXFMT0V1c3VyM0lkTUxzY1owTHRsSWFWT0huNFlJYm12QWtXRnY1eGliaUJZbGVDa25SMXd3Q0ZtXzZ1M016TW9hS2pUbVpicGxWOGhLbTJxS3FuVmx0TERZV0p4YVhPV3J6TXFQRkhCSjlzVzVaYVB1SEZreUVibm4xQWI3aHBkN19hN2t4VlNxUDNJYnNzcHV1ZDFiMC1TdDVMUUpYVEZadkE4UlZyOEppZjd6S0E?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUdoVFowS3J2SE9kSm96LTNHc0ZJVGhDbXBTRkFGdThpcW1WSUtkZkEtV1hsR0pZRk9GWUU1ZENiR2VBSTZZVjRCWUY1MHFJT2xvUU11MkxYSTZjbzNtbUdNQlpIMUJYaS1XSzlhY3pIN2VSNjZ5aDNHREdmYVFrZ216Z3FjMXJtT01CTi1mbHVzMTRGRXR4cUpZWEplUG8?oc=5)
 
 ---
 
@@ -102,14 +94,6 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3R
 
 ---
 
-### [Fueling growth, blinding immunity: The two-way amino acid trap inside tumors - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSE9RTkVLclVUY1NOR1dlZHY3VzQwTFZYZzBmQkRPVkZaWUdvQ3g1OTFPdjRkU3N4ejIzeFBBUGNocWp5ZUFUWDVwZ2lkZVlIc0dOYzVuYjFfRGVHUWc5LWV5b3BzZHZ0c0x0X2lzQ3ptR19FYnEyY3RKWV9DQUV6SmZPZ1c?oc=5)
-
-2026-10-16 <span class="news-indication-tag">tumor</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSE9RTkVLclVUY1NOR1dlZHY3VzQwTFZYZzBmQkRPVkZaWUdvQ3g1OTFPdjRkU3N4ejIzeFBBUGNocWp5ZUFUWDVwZ2lkZVlIc0dOYzVuYjFfRGVHUWc5LWV5b3BzZHZ0c0x0X2lzQ3ptR19FYnEyY3RKWV9DQUV6SmZPZ1c?oc=5)
-
----
-
 ### [Doctors say mammograms can improve breast cancer outcomes](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAxbkx5cEg0QnVURGRZa1ZfblJtZkxYZnUza1pEa2pNQnRqUVdPQkVKdFVIaFlTdER3UTdxMTFMcjJPQlB2aGp1d09tQzhNVGwyaU9HT3l5RmY1SVFKWXpUbm9DT3g2eGYteWh0eWc0ZjJIYnZMLWJxckF6c1nSAYQBQVVfeXFMTnRuTGVrM0dDcWpVTWxPSEU4ZG9adHBoTjE4aVN6Wk1jT1BoNURKQjdZZ2hLWEVTOFdyTDFlOFJ1cUdmcXZoVUFyWkZtMi1FbU9pYWk4SzAtbG1ycUNhYm9IOWlEeUlWUG8yYThTaDlpTHdxZGlGNk1WcDBMYzV2eWMzY2Yx?oc=5)
 
 2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -118,43 +102,19 @@ Source: [KTALnews.com](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3dlAx
 
 ---
 
-### [Doc Talk | 12% Of Indias Cancer Cases Linked To Infections: HPV, Hepatitis B And More - ABP Live English](https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0ttMXl2VHJCNk92WG84YmVMYVlmbTdicTdFeGJQbzVVZzdjUFgwR1p5NTc2TzFVVHEwR3RKYnoyMjdkVC11dmtNc0tZd0tHdnEyalM2MXpZYUM4RzdwQ3Nld3VpTnZLTmVLU295aFdtekl5S3VQUDRhbmlDNHh0b3JmeDE5Yy1XM2FHQlZQWGZNX2NzeWNwaGx6SFlnYktaeTlCT01UbXpkaEhMcU14RXVBcjg2bVVob0o1LUNB0gHDAUFVX3lxTE5BbkpOTEw3d2RUUUhjYkZ6M1Q5c29PZGY4TlFpRTVEdVFlbFExTzBzd2RyYTNJQjQ5azVEYjJmUFYxX1NfQ1hzdUc3WS1ZTmhBRlFZOFZkWHdwcmh1QlVOT21ldkJDNE1NWk9LZzU4b082NVlrblFtSFdfRVpvaFF3QlM4ZG5PUWNyREV5ZXY3M0w5U1hqQU4tbHRGaDRvQlZOZ1g1dmlfTTJRLUdUbFRQZi1iVXAtcGNaWFIzTUdoam9yQQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span>
-
-Source: [ABP Live English](https://news.google.com/rss/articles/CBMivgFBVV95cUxOd0ttMXl2VHJCNk92WG84YmVMYVlmbTdicTdFeGJQbzVVZzdjUFgwR1p5NTc2TzFVVHEwR3RKYnoyMjdkVC11dmtNc0tZd0tHdnEyalM2MXpZYUM4RzdwQ3Nld3VpTnZLTmVLU295aFdtekl5S3VQUDRhbmlDNHh0b3JmeDE5Yy1XM2FHQlZQWGZNX2NzeWNwaGx6SFlnYktaeTlCT01UbXpkaEhMcU14RXVBcjg2bVVob0o1LUNB0gHDAUFVX3lxTE5BbkpOTEw3d2RUUUhjYkZ6M1Q5c29PZGY4TlFpRTVEdVFlbFExTzBzd2RyYTNJQjQ5azVEYjJmUFYxX1NfQ1hzdUc3WS1ZTmhBRlFZOFZkWHdwcmh1QlVOT21ldkJDNE1NWk9LZzU4b082NVlrblFtSFdfRVpvaFF3QlM4ZG5PUWNyREV5ZXY3M0w5U1hqQU4tbHRGaDRvQlZOZ1g1dmlfTTJRLUdUbFRQZi1iVXAtcGNaWFIzTUdoam9yQQ?oc=5)
-
----
-
-### [News Analysis: AI offers new route to cancer vaccines, but hurdles remain](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck5sWHVDczdGTEoyMWxWRlB2bzVjd1NFS1VlcHQ3d0FxbEcySHVfMEFfZkU1bkotWjluV29LU1NtQmV4ZHZmR0xwanVwNndzS1RmaExlUzlfdEdTLW1Db1FfdTJfRkl4eHZIbkVpdXlzejVQaVBiMWxfVWlneWsxY1ViNDFRZw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span>
-
-Source: [Xinhua](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck5sWHVDczdGTEoyMWxWRlB2bzVjd1NFS1VlcHQ3d0FxbEcySHVfMEFfZkU1bkotWjluV29LU1NtQmV4ZHZmR0xwanVwNndzS1RmaExlUzlfdEdTLW1Db1FfdTJfRkl4eHZIbkVpdXlzejVQaVBiMWxfVWlneWsxY1ViNDFRZw?oc=5)
-
----
-
-### [It's Not What's in Your Cup That Matters For This Cancer. It's How Hot It Is.](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
-
----
-
-### [Think Breast Cancer Only Affects Elderly Women? Age Is No Bar For The Dreaded C - ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaU9Gc3d3UVdaTlR1NHdfSks2MzVMTnBLeTlxLUpWRlUtR0ZEMFpHTzJLc045MGNSczdMY1FDMjlva2MzRkJ2UU9nQ2tlYjZqVVhFak8yTWlVS0tKMEs5Z3ZCUFBzNm9Eb0hSNm50M0tWQ3FXVWtuZTgtVDVHVFM4TjgyeXlCdm1ESmEyWGdLOG1vcTB6Rm5pMnZn0gGfAUFVX3lxTFBNV0NDOG1uS0dFVHd2ZTRyQkN2V1p6MEdjRmQ3ZEpibWY2UkVCOTdOQ1JwMWNZRDRrSWwxcWt2aGduajlqQ3pJWHE2VnBuWGhyRE45Ty1HQWJxb2lWT3MwWDRQWG9RMWlGWFpIYmVVdFhfcVVGM3pudlFyQUlGb2xSQWoyYmlENEVPUmJFXzBuam11cV84cVhjY0Fra0NPYw?oc=5)
-
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaU9Gc3d3UVdaTlR1NHdfSks2MzVMTnBLeTlxLUpWRlUtR0ZEMFpHTzJLc045MGNSczdMY1FDMjlva2MzRkJ2UU9nQ2tlYjZqVVhFak8yTWlVS0tKMEs5Z3ZCUFBzNm9Eb0hSNm50M0tWQ3FXVWtuZTgtVDVHVFM4TjgyeXlCdm1ESmEyWGdLOG1vcTB6Rm5pMnZn0gGfAUFVX3lxTFBNV0NDOG1uS0dFVHd2ZTRyQkN2V1p6MEdjRmQ3ZEpibWY2UkVCOTdOQ1JwMWNZRDRrSWwxcWt2aGduajlqQ3pJWHE2VnBuWGhyRE45Ty1HQWJxb2lWT3MwWDRQWG9RMWlGWFpIYmVVdFhfcVVGM3pudlFyQUlGb2xSQWoyYmlENEVPUmJFXzBuam11cV84cVhjY0Fra0NPYw?oc=5)
-
----
-
-### [Menopause Not Gradual, Body Might Experience A 'Physiological Cliff' Around Last Period: Study](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0htMmNPd1pXQ1MxREFwWTZLeDhCalNLZlplRlFBbDFVNGJieDJEanRERDM0YjR3UENpWmdRRXltbnR2cU1DZG5mNjU0WDFCZmd1bkNqRUNCTEJsVFd1SVFZbUk3VmsxLWdUdWZHY1JrbTZveVRLclZZWUt2S2RrakhsbUJkcU4xdkFmYkRDaUJWdmM4SmZYM2psZlAtZVZiOXBMd2FrUjZoUW4xc21naGtFdlN0bmsySjJsMGp2OTJPQ0dGdGlmdXo1bTlFbURwdVJfZ2Q0UHA?oc=5)
+### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
 
 2026-10-15 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0htMmNPd1pXQ1MxREFwWTZLeDhCalNLZlplRlFBbDFVNGJieDJEanRERDM0YjR3UENpWmdRRXltbnR2cU1DZG5mNjU0WDFCZmd1bkNqRUNCTEJsVFd1SVFZbUk3VmsxLWdUdWZHY1JrbTZveVRLclZZWUt2S2RrakhsbUJkcU4xdkFmYkRDaUJWdmM4SmZYM2psZlAtZVZiOXBMd2FrUjZoUW4xc21naGtFdlN0bmsySjJsMGp2OTJPQ0dGdGlmdXo1bTlFbURwdVJfZ2Q0UHA?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
+
+---
+
+### [Don’t ignore early signs of breast cancer: Oncologist](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDk2MDJUOXZwa3JubDRaendGQmNEOWdUc2xZU21TV1U4TERFNThZOGJLUjZpT1hKWU5WbnNod2k1SGxOWVBDNEdXLTNyd05TX2ZqVXFrMU1IdnhNU01la1dzVmEyOEVsWV9yOHJqTUlUM1V0OXFtM0J2MndTRk1wV2tlTmU?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [IndiaMedToday](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDk2MDJUOXZwa3JubDRaendGQmNEOWdUc2xZU21TV1U4TERFNThZOGJLUjZpT1hKWU5WbnNod2k1SGxOWVBDNEdXLTNyd05TX2ZqVXFrMU1IdnhNU01la1dzVmEyOEVsWV9yOHJqTUlUM1V0OXFtM0J2MndTRk1wV2tlTmU?oc=5)
 
 ---
 

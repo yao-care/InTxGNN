@@ -38,11 +38,11 @@ Source: [Firstpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazgwSkV
 
 ---
 
-### [Artificial intelligence-enabled clinical phenotyping of human brown fat](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5)
+### [Scientists underestimated ‘Doomsday Glacier’. It could raise sea levels by 3 cm by 2100](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVhaU3lVT2pHLWtKazBrcDRwZG9icVZKMjBmdVBmc2hqNGlXeUFyLWRZd21UODl5YTJWVHlRUGtJMzRuRk1pRERhY3BiZEJiTlNJWTBhMm9lRDZXWHlaQ0diYk9ZcVdIdU5ZQUxXeEFqdGFWMDZGN1ZjaENRM2ROLUY5akR3cUnSAYwBQVVfeXFMT1dNeHpIeE5sUGNOdC0zS2N3RXVSN2dkN3g4ay1ueGFUei1jODNsUE5jTzFpQmhSdGd2WExNZ1JLWDNUVHpQZk5RNWYyRWFWcGd2aWJtYzJtUG1ZaTdoQzE1NEotWFdSaXplWVJ4YXIxeFYzV0lYYjktYkw4SWN4Y1c5aTBoU3p1LUpVV3o?oc=5)
 
-2026-10-14 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+2026-10-17 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5)
+Source: [ThePrint](https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVhaU3lVT2pHLWtKazBrcDRwZG9icVZKMjBmdVBmc2hqNGlXeUFyLWRZd21UODl5YTJWVHlRUGtJMzRuRk1pRERhY3BiZEJiTlNJWTBhMm9lRDZXWHlaQ0diYk9ZcVdIdU5ZQUxXeEFqdGFWMDZGN1ZjaENRM2ROLUY5akR3cUnSAYwBQVVfeXFMT1dNeHpIeE5sUGNOdC0zS2N3RXVSN2dkN3g4ay1ueGFUei1jODNsUE5jTzFpQmhSdGd2WExNZ1JLWDNUVHpQZk5RNWYyRWFWcGd2aWJtYzJtUG1ZaTdoQzE1NEotWFdSaXplWVJ4YXIxeFYzV0lYYjktYkw4SWN4Y1c5aTBoU3p1LUpVV3o?oc=5)
 
 ---
 

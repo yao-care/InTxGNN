@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Noisy knees could mean wear and tear on the joint - The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
+
+2026-10-17 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (1)
 
-### [GLP-1s May Protect Against Stroke and Alzheimer’s Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
+### [Ozempic May Lower Stroke And Alzheimer's Risk By Up To 49%, Says Study - Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
 
-2026-10-13 <span class="news-drug-tag">SEMAGLUTIDE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-15 <span class="news-drug-tag">SEMAGLUTIDE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
 
 ---
 

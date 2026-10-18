@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>2 news articles</strong>, with 11 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>3 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Noisy knees could mean wear and tear on the joint - The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
+
+2026-10-17 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
+
+---
 
 ### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
 

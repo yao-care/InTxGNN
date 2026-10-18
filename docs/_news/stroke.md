@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 2 articles, 15 related drugs."
+description: "Health news about stroke. 3 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Researchers in Australia develop AI tool to assess stroke risk](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmdrTnRkbVI1WkRvZmhwamVaV2pMSVRUamxFRFFqTGM1RzRqLU90VkxOaG5VUVFZOTV0WjBfZWc1bmliVzVfVThmeGliUGhoRFlobnJfOGdqcUhNN2UzRzVEbC1ScjZmaF9KV0JSdzBHeDNvVUx4SU1EYld0cDlEZUhvR2NPYm5zZE1uWQ?oc=5)
+
+2026-10-18
+
+Source: [Xinhua](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNmdrTnRkbVI1WkRvZmhwamVaV2pMSVRUamxFRFFqTGM1RzRqLU90VkxOaG5VUVFZOTV0WjBfZWc1bmliVzVfVThmeGliUGhoRFlobnJfOGdqcUhNN2UzRzVEbC1ScjZmaF9KV0JSdzBHeDNvVUx4SU1EYld0cDlEZUhvR2NPYm5zZE1uWQ?oc=5)
+
+---
 
 ### [Not Just Seniors: Stroke Rates Double In Adults Under 55, Finds New Study](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejQwMmYzSDRoVlFLdUhhZ2hyNzJiMkJYdlhmUGpaZW1HdEpNS0gwYmVPM3dDaTk5dlg1QzJtYTVTYTlvbFRjN0M1dF9TZS1ac0IzTmQyZGdDcDVGNWhaMTdCOTBlVXBtZXFVdzUxQjBrS0xiODUwZVg2QmktbTRTRl96bXp4MW1BTGdOUG9pcTZMODI3YnYzd1JvNW1xRnlNb1BGb0h6cGRSQTF4?oc=5)
 
@@ -53,11 +61,11 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejQwMmYzSDRo
 
 ---
 
-### [GLP-1s May Protect Against Stroke and Alzheimer’s Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
+### [Ozempic May Lower Stroke And Alzheimer's Risk By Up To 49%, Says Study - Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
 
-2026-10-13
+2026-10-15
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMkVheXpUZW9jdVl1MVZYR3hfWGFKU3VmbE5lRVIzWFBXWUQ5MmZLQ3NBZVVVS21DMjhMWkhpalhhX3hkUUhsaDRoZDQ5aXNBSi1UaEo3TXJnZXNFRVpyazZqdGtYSmlsZWRGZ01sX1V2NUtSX045U0tYV180ODktTEs1U2xnZnNJM2tHNFRBLVhVdUlKSGNhSmR5SGdsLW50?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
 
 ---
 

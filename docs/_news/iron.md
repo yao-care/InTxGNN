@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,15 +37,9 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Landmark China trial achieves 84% efficacy treating cancer with waste water tech - South China Morning Post](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3R6WFFEQS1lSWpva0RaV0Z2UVRCV25ZV2hPeE5Nc29DSm42bjJHUzFRZk5VNEI5MVBhVmlWYkZFQ00xaEpnQ1VOZEN2M0FSZ2JWNXZRRVIzdTY3RGx2UUIyRi0tdGJDdkp1eWpSeFc5U1BZUTV3ZDZRVFNwc2RMZDZGcjNvcnByNm9xSzUxcndFdUJRam9mUDltWUZrcGZ3bU11RmN5cUR1UERidl9USHlMODI2RTlVcjkycU9HYjJ2Q3UtOUNZSzMzVdIBywFBVV95cUxPRU9SY1N2enhIRGY0V3c4WTNOaTc0Zm1xSmtjLWxlSnE2bHBseWMyUEM4bHJJcV82Q01fT3EwZjB4Z1RPU2NIZ2tZNjJETnk2R0pYaXUtYW5DV2FwU0tqdWNRU090WmZYbFdHbENTS3o3WHVBeG50QUs1SEM4Y2RpMUJOeDJsRG52RjkzS2lyenYtUm9vVFdma2s0eTdjLV9mT253U19vdC1ma2ExdGV3c1FseDg3Ml9aUjY5WTRCQlFxSmlvcGVhUG1ubw?oc=5)
-
-2026-10-17 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
-
-Source: [South China Morning Post](https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3R6WFFEQS1lSWpva0RaV0Z2UVRCV25ZV2hPeE5Nc29DSm42bjJHUzFRZk5VNEI5MVBhVmlWYkZFQ00xaEpnQ1VOZEN2M0FSZ2JWNXZRRVIzdTY3RGx2UUIyRi0tdGJDdkp1eWpSeFc5U1BZUTV3ZDZRVFNwc2RMZDZGcjNvcnByNm9xSzUxcndFdUJRam9mUDltWUZrcGZ3bU11RmN5cUR1UERidl9USHlMODI2RTlVcjkycU9HYjJ2Q3UtOUNZSzMzVdIBywFBVV95cUxPRU9SY1N2enhIRGY0V3c4WTNOaTc0Zm1xSmtjLWxlSnE2bHBseWMyUEM4bHJJcV82Q01fT3EwZjB4Z1RPU2NIZ2tZNjJETnk2R0pYaXUtYW5DV2FwU0tqdWNRU090WmZYbFdHbENTS3o3WHVBeG50QUs1SEM4Y2RpMUJOeDJsRG52RjkzS2lyenYtUm9vVFdma2s0eTdjLV9mT253U19vdC1ma2ExdGV3c1FseDg3Ml9aUjY5WTRCQlFxSmlvcGVhUG1ubw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/fentanyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Fentanyl?">
-<strong>Fentanyl</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Fentanyl</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Fentanyl with the latest hea
 <p><a href="{{ '/drugs/fentanyl/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [A wave of homemade, synthetic drugs sweeps US and deepens crisis](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldlVLNTBNb1FyQll1MG8wbVMtdkg2Q2FxeTBMUURDLWpyYm1aNXpmLVA3Tmd5RTdnUnJuT1NHQU9mY1B4LU13OUxXa2RieWxrNGlleFliUDVJZ1U?oc=5)
-
-2026-10-18 <span class="news-drug-tag">Fentanyl</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldlVLNTBNb1FyQll1MG8wbVMtdkg2Q2FxeTBMUURDLWpyYm1aNXpmLVA3Tmd5RTdnUnJuT1NHQU9mY1B4LU13OUxXa2RieWxrNGlleFliUDVJZ1U?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
