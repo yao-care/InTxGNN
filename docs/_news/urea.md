@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,15 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Nasa's PUFFINS mission: Indian-origin scientist on how cosmic dust could help find life beyond Earth](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazgwSkVyQXE4UDJ1UTZkbG1uNS1ZUEs0Mlp4NlNWejdORUhBc09BdVBjUTNZX0VNLTRCcDNObzBDQ0dfRkpRbUpuSVpBWUlXUGNmUTB6TmpkQWU0VmNpMVZlN0hHYkJXczdSb0RVWjdtZFF4U0diVUUtQW5CbVQ1MGhfbDFPR3QtdzBiOEhheTlsQXVQeHdvWm9MTzhQSkVwaE1OYTFFYkVUVFJYWFIyX3dGbzNXMURDYndhY1lVSU13VzVLN1VZX29mSkhPZWczRTRvVm5rTDdzSHZ2SlVYYW9jNkg2MXhab1h6cUh1SERid9IB9wFBVV95cUxQQUpCME1XT0E0VzZBMHRsVUZKWXVXMzhqTDAxZDUxRDBvcTFoQ1ljdFdmNjUxbU5SWkZjZ1dtcGVIdHcyMHhZZERmZmVpYXZsZ3ZNU2FJa2xLMGxZNzZhVmo1Smh3dV9PaUQ1MDYtTXJCeTFsYVlWazhLcnZzdGhPX09LM3Nrb2JUTXVtMFVnTmZNUlRQcHAycUQtaGczNTRxd1B4cVNuRTVzQU9mVGM2QnRQMkkwS2V3U1R6Skl2a0g3d1NFTjc5cVpwZjlEeXJTdThndFdMSU1kWm1GMnl1UElyRnVaOHowazdWWmh0eV9WWE9GVVZN?oc=5)
+
+2026-10-18 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [Firstpost](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazgwSkVyQXE4UDJ1UTZkbG1uNS1ZUEs0Mlp4NlNWejdORUhBc09BdVBjUTNZX0VNLTRCcDNObzBDQ0dfRkpRbUpuSVpBWUlXUGNmUTB6TmpkQWU0VmNpMVZlN0hHYkJXczdSb0RVWjdtZFF4U0diVUUtQW5CbVQ1MGhfbDFPR3QtdzBiOEhheTlsQXVQeHdvWm9MTzhQSkVwaE1OYTFFYkVUVFJYWFIyX3dGbzNXMURDYndhY1lVSU13VzVLN1VZX29mSkhPZWczRTRvVm5rTDdzSHZ2SlVYYW9jNkg2MXhab1h6cUh1SERid9IB9wFBVV95cUxQQUpCME1XT0E0VzZBMHRsVUZKWXVXMzhqTDAxZDUxRDBvcTFoQ1ljdFdmNjUxbU5SWkZjZ1dtcGVIdHcyMHhZZERmZmVpYXZsZ3ZNU2FJa2xLMGxZNzZhVmo1Smh3dV9PaUQ1MDYtTXJCeTFsYVlWazhLcnZzdGhPX09LM3Nrb2JUTXVtMFVnTmZNUlRQcHAycUQtaGczNTRxd1B4cVNuRTVzQU9mVGM2QnRQMkkwS2V3U1R6Skl2a0g3d1NFTjc5cVpwZjlEeXJTdThndFdMSU1kWm1GMnl1UElyRnVaOHowazdWWmh0eV9WWE9GVVZN?oc=5)
+
+---
 
 ### [Artificial intelligence-enabled clinical phenotyping of human brown fat](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTlIVXVnazYxNTFrWEppcUVrV3ZIVUVNY2RQQURkSGtDR29wcnJ1SUxqSnNlc0ZTVFpnN0RORDBqNFRHWFZBTXZiMWp0TnBPMC1uZnZIWkJwTHI2UGJn?oc=5)
 

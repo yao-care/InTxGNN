@@ -14,7 +14,7 @@ permalink: /news/silver/
 ---
 
 <p class="key-answer" data-question="What news is there about Silver?">
-<strong>Silver</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Silver with the latest healt
 <p><a href="{{ '/drugs/silver/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Characterization and efficacy of green-synthesized silver nanoparticles against Puccinia species - in vitro](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YSDlrYWFRTGRJRFNyYmNHRWpIaW1KcTFnUTFRelNMYnJOdmx3VU03YW5HZ3dRQll3U3RNb21fYW5ScEJoQTFKcXl4MEU2RkVGaWZ5R0E2T19veW9ucXlV?oc=5)
-
-2026-10-16 <span class="news-drug-tag">Silver</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YSDlrYWFRTGRJRFNyYmNHRWpIaW1KcTFnUTFRelNMYnJOdmx3VU03YW5HZ3dRQll3U3RNb21fYW5ScEJoQTFKcXl4MEU2RkVGaWZ5R0E2T19veW9ucXlV?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

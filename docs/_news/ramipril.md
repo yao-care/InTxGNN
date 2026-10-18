@@ -14,7 +14,7 @@ permalink: /news/ramipril/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramipril?">
-<strong>Ramipril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ramipril</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Ramipril with the latest hea
 <p><a href="{{ '/drugs/ramipril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Polypharmacy of Prescription Medications Increased for US Older Adults - Ophthalmology Advisor](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWngxU3JqTjBUSngtRkNsUUJyVFpxUzB0SnZvTksxa2lfQ2wyVnNPMkdMWW5yNVU0MjUwNWk1NW9CTmxzNVlKeGRJeUZpX0tPM0k5ZWZ3czVfM0VKdzRPaC1ORXVmSzFwMjJEUUc1dC1jRmw3M1dzR2FKclZoZDVDTzMtZmg4VVVIcG1Hc1duV1BZbkxBSjg4Ql9MUjhUNU16b3VrY19xcHQyWmZxY29DaWppbw?oc=5)
+
+2026-10-14 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">RAMIPRIL</span> <span class="news-drug-tag">AMLODIPINE</span> <span class="news-drug-tag">FUROSEMIDE</span> <span class="news-drug-tag">IBUPROFEN</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Ramipril</span>
+
+Source: [Ophthalmology Advisor](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWngxU3JqTjBUSngtRkNsUUJyVFpxUzB0SnZvTksxa2lfQ2wyVnNPMkdMWW5yNVU0MjUwNWk1NW9CTmxzNVlKeGRJeUZpX0tPM0k5ZWZ3czVfM0VKdzRPaC1ORXVmSzFwMjJEUUc1dC1jRmw3M1dzR2FKclZoZDVDTzMtZmg4VVVIcG1Hc1duV1BZbkxBSjg4Ql9MUjhUNU16b3VrY19xcHQyWmZxY29DaWppbw?oc=5)
+
+---
 
 
 <div class="disclaimer">

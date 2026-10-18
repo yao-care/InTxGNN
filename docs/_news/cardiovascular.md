@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
+description: "Health news about cardiovascular. 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -57,21 +57,13 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Obesity major risk factor for diabetes, heart disease, hypertension: Doctors - Kashmir News Observer](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYjhLVUxiaDR5aW9HN2JDaXNLc1VyNlc4MXlSbXBwX092OWFXUnEwc2xHTUROX2I0cjBFblRrcV8xTEFXT2duZE44YTdsWU9xd3R2TWhVOEJjN1VVTHhUMzkxZFRQTWZHbm9MYUtRRlc4N215ODN2ankyV3A4bzVyWTB3UU95NVhmRklRUWNZOTE0ZFNMakJoamZnZXloTnBfRlFvXy1acGlQbUw4ZkFpWDRuZW5DakNkX1lNUUY3M1Z4M2Q3azZ5MnZDUjA?oc=5)
+### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 
-2026-10-16
+2026-10-13
 
-Source: [Kashmir News Observer](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYjhLVUxiaDR5aW9HN2JDaXNLc1VyNlc4MXlSbXBwX092OWFXUnEwc2xHTUROX2I0cjBFblRrcV8xTEFXT2duZE44YTdsWU9xd3R2TWhVOEJjN1VVTHhUMzkxZFRQTWZHbm9MYUtRRlc4N215ODN2ankyV3A4bzVyWTB3UU95NVhmRklRUWNZOTE0ZFNMakJoamZnZXloTnBfRlFvXy1acGlQbUw4ZkFpWDRuZW5DakNkX1lNUUY3M1Z4M2Q3azZ5MnZDUjA?oc=5)
-
----
-
-### [Heart disease can develop without obvious symptoms: Cardiologists explain tests, from Lipoprotein(a) and ApoB to coronary calcium scans, that can help uncover hidden cardiovascular risk - The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
-
-2026-10-16
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 
 ---
 
