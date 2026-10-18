@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>12 news articles</strong>, with 5 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>14 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,15 +37,7 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
-
-### [Neuropathic Pain-Like Features in Patients With Rheumatoid Arthritis and Spondyloarthritis Receiving Targeted Therapies: Prevalence and Associated Factors](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
-
-2026-10-17 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
-
----
+## Related News (14)
 
 ### [Can a blood test detect breast cancer early? - The Week](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSERCQmJybGc2eWNsdEM2Tl85TVFRdVk5bHowTEo4NEtNWHo1VTNBdE1Tc0tNUXlDWkQwNExEZXAxT281MEJvNUZTQ0otQVdNbW92YkZWeHpFS09tUnVTWTAwT2VuUUJvZktZUXRiamoydnRCd3V5NVczREx6MlZrY2hsV0NIVlZPZnBITzlyN0wxX244d0Jka09B0gGfAUFVX3lxTE1uOGRwZzh1WWpKUHZHZXBWdzZUMzVfQVB4YndGdU1vYVp5a2ZncDVxc1pHZldZbUZvWTFCQUdJcTFuTnh6dlYtVC1mcWVqSkUzMndBbFNMQ09EdXV3ZkpvYnhfT3phOHRqTVFSMEZNSmtHSU1IQThoaWc4N3JRa3cwLW1lcFk2ZHFKYTFjdnFMaDBfZkI1eWh3bmgxS1VWOA?oc=5)
 
@@ -65,7 +57,7 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMipgFBVV95cU
 
 ### [Breast Cancer Awareness Isn’t Just for Women: What Men Should Know About Changes in Their Chest](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOG9RWDlteW9VUVRaVjdQMUtsdkhqdXpCbHkzNUNOQVdGU3pXRERISGhnRTBxLVp4X29GWlB3amNLM0M3REtzYkY5bDNnSXhBVURodklCc2VVLWctbG1CcldmQVZfNkJJNXJuSzN3bkdObGl1dHZYWnhKb2wxbnFkVWlXY09mN0prRmVWUmM3YVZ0MHV2RVJrV3hTT3VDWDl1QVB1aGJWMUNGS0EzSFBuR0lmODlQdmppQUZBRlZFSlpFUzBlNWtWUWVUbnhFRlJyNTdCM192WHR4NmJqcm1mOGhrOS11SEttYWFBdkdkbUpTTWJtZ3FZ0gH8AUFVX3lxTFAzQnJ6ai01R0dGbW9qa2FMWDZESnJWaFZKY29jVkRtbWswTXI3dEh4REJPZHg5YXczMmIwa1JKM1NNU2JoY01halUyS0hzcmU0VURHOTF5NXhQeXFMOUFZSVBBd0d5b200WEJLbk5NM1dJUHExS1Bic3pFcGY1VnFhV1JMOTZJM1BUN1l0azNXU2NjVnVXLVNoT0F6VkhEYm9ISkpJaVVIZWx4M3ljSFRfdHQyMllGcldRZVRTYkhDdTdsRFZ0SnBOU2tMQjh4Skt1MV9xWkFmSkhkdjdBTWZoZzQwY0ZuUlkxNk1YVVZZckJUUEFiMW9QWTVQcA?oc=5)
 
-2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-17 <span class="news-indication-tag">cancer</span>
 
 Source: [News18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOG9RWDlteW9VUVRaVjdQMUtsdkhqdXpCbHkzNUNOQVdGU3pXRERISGhnRTBxLVp4X29GWlB3amNLM0M3REtzYkY5bDNnSXhBVURodklCc2VVLWctbG1CcldmQVZfNkJJNXJuSzN3bkdObGl1dHZYWnhKb2wxbnFkVWlXY09mN0prRmVWUmM3YVZ0MHV2RVJrV3hTT3VDWDl1QVB1aGJWMUNGS0EzSFBuR0lmODlQdmppQUZBRlZFSlpFUzBlNWtWUWVUbnhFRlJyNTdCM192WHR4NmJqcm1mOGhrOS11SEttYWFBdkdkbUpTTWJtZ3FZ0gH8AUFVX3lxTFAzQnJ6ai01R0dGbW9qa2FMWDZESnJWaFZKY29jVkRtbWswTXI3dEh4REJPZHg5YXczMmIwa1JKM1NNU2JoY01halUyS0hzcmU0VURHOTF5NXhQeXFMOUFZSVBBd0d5b200WEJLbk5NM1dJUHExS1Bic3pFcGY1VnFhV1JMOTZJM1BUN1l0azNXU2NjVnVXLVNoT0F6VkhEYm9ISkpJaVVIZWx4M3ljSFRfdHQyMllGcldRZVRTYkhDdTdsRFZ0SnBOU2tMQjh4Skt1MV9xWkFmSkhkdjdBTWZoZzQwY0ZuUlkxNk1YVVZZckJUUEFiMW9QWTVQcA?oc=5)
 
@@ -73,9 +65,17 @@ Source: [News18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOG9RWDlteW
 
 ### [Ultra-proccesed diet: Small switch in food choice lowers bowel cancer risk - DT Next](https://news.google.com/rss/articles/CBMiogFBVV95cUxPekR3VnNTQjlsTEl2eWh1Q3NHbDlwUGxqbFNXUGdSMWpwakFtZDV3YmJrODJzejJaaGlUaWdoY0U5dXd3QzBWX0VaVmRNY0EtWmFia1F3YUZkTnFfWEZENTN6czBMVGdWSEZLMWstMzMwcFlkOTUycmFMOEdSUDVmVC0zenE4MWNUOXVxNmQwckJPMGMxbmstNmRvTVU2bXd2b1HSAa8BQVVfeXFMTTRFM0NjdG9BdEV1cDZHaVhBODcwQURlZVVfM2FvdmJSRkY3bnBtaWJBcmw0T0hDRWhuXzNkcDlFRFp5UWwzWm5pTzZpcm54cjF5RlVmVzAxeExlQmtiQWhzdkN4eXV6RFg2Y1Atb0dha19fbVRoS2ZQVU9UZ1FYNjZxdFJsTWpQMmFTdEdoU3A2c3g3WDUzdC11R3dSZ3VlTjNUYURYUHBVMGROc3hqQQ?oc=5)
 
-2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
 
 Source: [DT Next](https://news.google.com/rss/articles/CBMiogFBVV95cUxPekR3VnNTQjlsTEl2eWh1Q3NHbDlwUGxqbFNXUGdSMWpwakFtZDV3YmJrODJzejJaaGlUaWdoY0U5dXd3QzBWX0VaVmRNY0EtWmFia1F3YUZkTnFfWEZENTN6czBMVGdWSEZLMWstMzMwcFlkOTUycmFMOEdSUDVmVC0zenE4MWNUOXVxNmQwckJPMGMxbmstNmRvTVU2bXd2b1HSAa8BQVVfeXFMTTRFM0NjdG9BdEV1cDZHaVhBODcwQURlZVVfM2FvdmJSRkY3bnBtaWJBcmw0T0hDRWhuXzNkcDlFRFp5UWwzWm5pTzZpcm54cjF5RlVmVzAxeExlQmtiQWhzdkN4eXV6RFg2Y1Atb0dha19fbVRoS2ZQVU9UZ1FYNjZxdFJsTWpQMmFTdEdoU3A2c3g3WDUzdC11R3dSZ3VlTjNUYURYUHBVMGROc3hqQQ?oc=5)
+
+---
+
+### [Fueling growth, blinding immunity: The two-way amino acid trap inside tumors - Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSE9RTkVLclVUY1NOR1dlZHY3VzQwTFZYZzBmQkRPVkZaWUdvQ3g1OTFPdjRkU3N4ejIzeFBBUGNocWp5ZUFUWDVwZ2lkZVlIc0dOYzVuYjFfRGVHUWc5LWV5b3BzZHZ0c0x0X2lzQ3ptR19FYnEyY3RKWV9DQUV6SmZPZ1c?oc=5)
+
+2026-10-16 <span class="news-indication-tag">tumor</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihAFBVV95cUxQSE9RTkVLclVUY1NOR1dlZHY3VzQwTFZYZzBmQkRPVkZaWUdvQ3g1OTFPdjRkU3N4ejIzeFBBUGNocWp5ZUFUWDVwZ2lkZVlIc0dOYzVuYjFfRGVHUWc5LWV5b3BzZHZ0c0x0X2lzQ3ptR19FYnEyY3RKWV9DQUV6SmZPZ1c?oc=5)
 
 ---
 
@@ -100,6 +100,14 @@ Source: [Xinhua](https://news.google.com/rss/articles/CBMihgFBVV95cUxNck5sWHVDcz
 2026-10-16 <span class="news-indication-tag">cancer</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWk55MEQ3VV90aG13TWF6WTR5Qm9KMW9BU3JCQ2dkeGJVOTQxT0FLQUVCcS1adXZlaFZETGFSUzc5RVp6c0JYOEFNeERUSHNLT2RHd3luZ01za1VQRHZQYnNoNzRvYXZHRkozN2tqak43LXNndm80eW1iQ1RXMW8yeG5mUDdhQURWcjBmS3ZJTUo3bnJVVW1raGNaLTlTRllpM0J3NFA3VE9xbUJ0a1JvMlU5QzhXNTZzT0Q5YjBBenlYTFJZUDYwX0RIV0ZQak5IV0p4OURiQmN6ZGFxSmJNQmJoQ0tVUGg2NXdZ?oc=5)
+
+---
+
+### [Work from home, pain at home: Physiotherapist explains how prolonged sitting can trigger back pain, neck stiffness and other musculoskeletal problems | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdUtLSkdLVWhhOW1VR3FkRk5EY28wNnJKZHZVbWZFZU5lQlA3WkxJblF1bEFQeHhIeHJ2RzNvUC1GMFlGU1V0SGZnbm4zMW54R2NVS1FJS3NjaHhKazBwMk5sak01a01oajRFV2xjWnVDMU12VWRtRHVTY1otVG1ZTDdUVDgydTJxZW9kMVpIWURxV2lXN1l4VHhBYTVDMmstTmFpZ1I3cmVUX2hYeWNBR3FpdFY2NGc2bnFPbWc0ZTdKUlZwRjRra0hpaGZGSkxaS1pCTmRxYmVqdGxqdzdPSTgxZ0lReWcwalJMUElqUFNNQnNWUUd5QzBQeTh0QUJmU2xsbndCZXdnRGkzQUlOeWNRZEFGRFpXcERVV2pxNXFjRDhJdnBqRXJfc0R3X3UtNDJFRHFvazVlUmPSAcACQVVfeXFMUHVVVXVKTE1ZeHE1V1pkelhHMGFadXRMOVhELUNzSEdSaUNmQlYzd2k5cHU1YUJEQV9nd0VSaFp6c1RDMndubmxXSTJaakJuTDBrU3ZWek82TjZvcUtTbFUtaW1EU3Vlel83dF9DQndmdXFlRi1ZSk5jMjA4Vy1hcEJuNkhUWVFlb2lMdnBjaGt6Y2NLc1pEVkc3MmlBLWVEVGQ0TjdFV2FlMnBWY3UwTjR6dGQ0MDBIREs5bzFaempDVG1vS2lHSENOTUp4Um5LVkpsWUo4cy1KdGNISkhQbG5EOWJEQnpmODE4SGtWM1U2YzdHV3NHcTdBN2tyakJTNGhNN1B1dWpzS0J6TGxhQmYtdHduVlAxUUhSTmlkOEdtMk0yZjA4d3ozUGVKU3RSTlpJWDZ3NDNEVGphMnZzRHg?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdUtLSkdLVWhhOW1VR3FkRk5EY28wNnJKZHZVbWZFZU5lQlA3WkxJblF1bEFQeHhIeHJ2RzNvUC1GMFlGU1V0SGZnbm4zMW54R2NVS1FJS3NjaHhKazBwMk5sak01a01oajRFV2xjWnVDMU12VWRtRHVTY1otVG1ZTDdUVDgydTJxZW9kMVpIWURxV2lXN1l4VHhBYTVDMmstTmFpZ1I3cmVUX2hYeWNBR3FpdFY2NGc2bnFPbWc0ZTdKUlZwRjRra0hpaGZGSkxaS1pCTmRxYmVqdGxqdzdPSTgxZ0lReWcwalJMUElqUFNNQnNWUUd5QzBQeTh0QUJmU2xsbndCZXdnRGkzQUlOeWNRZEFGRFpXcERVV2pxNXFjRDhJdnBqRXJfc0R3X3UtNDJFRHFvazVlUmPSAcACQVVfeXFMUHVVVXVKTE1ZeHE1V1pkelhHMGFadXRMOVhELUNzSEdSaUNmQlYzd2k5cHU1YUJEQV9nd0VSaFp6c1RDMndubmxXSTJaakJuTDBrU3ZWek82TjZvcUtTbFUtaW1EU3Vlel83dF9DQndmdXFlRi1ZSk5jMjA4Vy1hcEJuNkhUWVFlb2lMdnBjaGt6Y2NLc1pEVkc3MmlBLWVEVGQ0TjdFV2FlMnBWY3UwTjR6dGQ0MDBIREs5bzFaempDVG1vS2lHSENOTUp4Um5LVkpsWUo4cy1KdGNISkhQbG5EOWJEQnpmODE4SGtWM1U2YzdHV3NHcTdBN2tyakJTNGhNN1B1dWpzS0J6TGxhQmYtdHduVlAxUUhSTmlkOEdtMk0yZjA4d3ozUGVKU3RSTlpJWDZ3NDNEVGphMnZzRHg?oc=5)
 
 ---
 
@@ -132,6 +140,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1q
 2026-10-13 <span class="news-indication-tag">RA</span>
 
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUh5eWlLanc0TTJaZUJjaldBbUdLUUc2SkZxemxQQk91NWVHY0JHbXRxS3J1bGI4U2h3U1pSVHFVcGFuOGVxVnJQbE85Q0h6a2lIYjJGT3JFLWdYLWVzOTcwQ0N3SmlpY3FjTWFxa194RmliSm12bnJwdVlGMF91bmxQYw?oc=5)
+
+---
+
+### [Recognising Early Signs of Childhood Cancer: What Parents Need to Know - India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
+
+2026-10-12 <span class="news-indication-tag">cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ZQYTJBVW1FQ0MtbnNNV3N0ZGtZYWZ0YW5kN1N0WjRLeEJXaWZ2cmxIbEhfalV6dzJwcmlfdWxCbThkaEFfZzdlREhueFhIY3ZMalJpalNDS0NNcFlaUnY4Z2doUGFYVGd3ZGs4YjJROUJSdndxWVZ0QTVZM3pFelBfRGxjVlYxLVhiUFZCOUF2M1RZQmh4dm5FRG90dDBFQTVZNFhiQlBSel9W?oc=5)
 
 ---
 

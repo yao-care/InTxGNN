@@ -14,7 +14,7 @@ permalink: /news/apremilast/
 ---
 
 <p class="key-answer" data-question="What news is there about Apremilast?">
-<strong>Apremilast</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
+<strong>Apremilast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ This page combines the AI-predicted indications for Apremilast with the latest h
 <p><a href="{{ '/drugs/apremilast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Neuropathic Pain-Like Features in Patients With Rheumatoid Arthritis and Spondyloarthritis Receiving Targeted Therapies: Prevalence and Associated Factors](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
-
-2026-10-17 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
-
----
+## Related News (2)
 
 ### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
 

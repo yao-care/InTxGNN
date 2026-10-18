@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>4 news articles</strong>, with 11 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>3 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [Neuropathic Pain-Like Features in Patients With Rheumatoid Arthritis and Spondyloarthritis Receiving Targeted Therapies: Prevalence and Associated Factors](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
-
-2026-10-17 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMinAJBVV95cUxQRV96SHdFS29vT1VWOU5OeGdLYzlrdVI0V3VoSENIZG5UVUFpMmZMaTJZY1BaUlB5THlqZVZxVWpQUHdHNjNFMDgxMk1jODB5cFIycUZyVExVUHlBZThqN0dCWExDYXRRRnlLUS1EaU9qMk9iaXpuOGRwcTF2azZQLWEzclpDemwzb0J5MnBUY25GT2lsb1lQWVJISkhHZlZsbHRZWmZwTUVzaXNSUkFHbHVNOXUtLWYzNUstZlhoNkQxc2VBQVpCOWZoQXNrWkpZN3U0WXVEcW5yaHNzLXRSNHA5Mkw2VUlDZC1XTlk1Q29vYXRmSUFwYW5KUm9IU2ZETHQ4MVpwVk93T1UxMTVMWUFwZXRRbjNZYzVYWg?oc=5)
-
----
+## Related News (3)
 
 ### [Ageing doesn’t have to slow your knees down, here’s what helps - The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5)
 
