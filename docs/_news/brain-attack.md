@@ -3,7 +3,7 @@ layout: default
 title: "stroke (brain attack) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (brain attack). 5 articles, 15 related drugs."
+description: "Health news about stroke (brain attack). 2 articles, 15 related drugs."
 permalink: /news/brain-attack/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brain-attack/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (brain attack)?">
-<strong>stroke (brain attack)</strong> currently has <strong>5 news articles</strong> and 15 related drugs.
+<strong>stroke (brain attack)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (2)
 
-### [Discovery on neural wiring could unlock paths toward treatment of spinal cord injury, stroke - Technology Org](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2xtRHdYWjNpMS1qaWhaVlBDWjEyMjNVV1Zpd1BPdE9Pb19ONGJNb1dHU01sSjBpazFOMThWUnBFWVdOOWljVGd1RzI0bnB6RTFNcXJiSlNzck9XdHJ5b2RiNEJKeGRTajN1WC1qUFBpWXBMMlpubVZfanFtLUFzellnUkdsaGxfNnVqal9ycmt6ZUFzVE9ISm16eFFKNVRUWlZ6dWJjOXNKa0NsVnIyTm16blpYUlJkbzR5TUtIOTc3NEVEa2tLSzJn?oc=5)
+### [AI paves way for more personalised stroke assessments - NR Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUY5anozZk8tQ19xTnA5aWo4ZTJJNERzTEQ0M0prZ3VZalRyVmhUU0tNNXhZX1lodUEwNVlvYUR4TE1Pc1dWWkgwdzF3T2JaeEg4Sm5tWEtLaGtqU3dtSXhScG8yTFhyS2hDOFQzVms0MS03dDJFVDM0U0VFcHAwNWs3MllPckxQUGdtM1Z3?oc=5)
 
-2026-10-18
+2026-10-19
 
-Source: [Technology Org](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2xtRHdYWjNpMS1qaWhaVlBDWjEyMjNVV1Zpd1BPdE9Pb19ONGJNb1dHU01sSjBpazFOMThWUnBFWVdOOWljVGd1RzI0bnB6RTFNcXJiSlNzck9XdHJ5b2RiNEJKeGRTajN1WC1qUFBpWXBMMlpubVZfanFtLUFzellnUkdsaGxfNnVqal9ycmt6ZUFzVE9ISm16eFFKNVRUWlZ6dWJjOXNKa0NsVnIyTm16blpYUlJkbzR5TUtIOTc3NEVEa2tLSzJn?oc=5)
+Source: [NR Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUY5anozZk8tQ19xTnA5aWo4ZTJJNERzTEQ0M0prZ3VZalRyVmhUU0tNNXhZX1lodUEwNVlvYUR4TE1Pc1dWWkgwdzF3T2JaeEg4Sm5tWEtLaGtqU3dtSXhScG8yTFhyS2hDOFQzVms0MS03dDJFVDM0U0VFcHAwNWs3MllPckxQUGdtM1Z3?oc=5)
 
 ---
 
@@ -58,30 +58,6 @@ Source: [Technology Org](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2
 2026-10-16
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMirAFBVV95cUxPejQwMmYzSDRoVlFLdUhhZ2hyNzJiMkJYdlhmUGpaZW1HdEpNS0gwYmVPM3dDaTk5dlg1QzJtYTVTYTlvbFRjN0M1dF9TZS1ac0IzTmQyZGdDcDVGNWhaMTdCOTBlVXBtZXFVdzUxQjBrS0xiODUwZVg2QmktbTRTRl96bXp4MW1BTGdOUG9pcTZMODI3YnYzd1JvNW1xRnlNb1BGb0h6cGRSQTF4?oc=5)
-
----
-
-### [Ozempic May Lower Stroke And Alzheimer's Risk By Up To 49%, Says Study - Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
-
-2026-10-15
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmdvcHRhVW5XdE1TWVhrWmlNaDl4LVN5bXMzaVIyZ1JvRTlPTGF6RTk4QS11dE9TLWNKbUdqWUd0LTBOYzdTR05EVWItN0prWlk2Yk84djdJcE8xZ3hrNnFXeHFLdUZmeVlzYU5fYnJlVW1jMHBHWWU2elZmZW51N3BHMmtJeWs2UUtSQkdtUmlkODN3NjFRYk1TY1pPeUxTT0Faelp5SElGcVFwcjlv0gG0AUFVX3lxTE9KVzJ2THRlb3JwSU1pVFdYeTdzVHpKWlZzV1U4T2dQZTk4MFhKc3U1R29VT1ZZTGFiNHoydDlMWWgwYW9pNjVFS3R3eTFjVlVhdTZHQjZyU3dJN3NVTlE1MF9aamJlS01QVmxkQUVvNEtpUnVSdDJZM0ZmaTVwSG1pWVM1b1ZjOFV6a3dBZW9xR2dXRmF5SERUYW5wQi1DRFJtZDJfeWFaa1BKNXd6MVpXaFZHVg?oc=5)
-
----
-
-### [Strokes have nearly doubled among younger adults, and scientists aren't sure why - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9pN2lSdUFnSDUwbmdGNUlGMmt2UjRseEJPOURYWFpsOUF4LTU5R3N5X1VpNG1IcmdWRFdJSVRldHNFdWNSZWdKRmFVS0w0Z3dFT3ZDMGxXeXF6aXcwLTdLSVl6a1lDRGlDZHdDWm9aQQ?oc=5)
-
-2026-10-15
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9pN2lSdUFnSDUwbmdGNUlGMmt2UjRseEJPOURYWFpsOUF4LTU5R3N5X1VpNG1IcmdWRFdJSVRldHNFdWNSZWdKRmFVS0w0Z3dFT3ZDMGxXeXF6aXcwLTdLSVl6a1lDRGlDZHdDWm9aQQ?oc=5)
-
----
-
-### [NIMS Doctors Urge Early Detection Of Blood Clots To Prevent Stroke, Heart Attack - Deccan Chronicle](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQk44bTBsZFhrYzRjaXBNLVZCeTZ2OERSMmpONy1qRGV4NmFGYkl2dEVZZ2tlUWdXRkJhR0tqcnBuNzd4NFpoV0tEb2dKYVlzNFdLZzJVNHhNcTd3cEw2WkYwM3YxLWdic3JCU0lQYWNlTWt6bUkwWHJvWnVkcE1BNmVBS3dfN3RmWFYxX2Q2Z0dCSjIxXzdsUlJOUnA2bU5meFFJZTBRUmItSU1ic3VXMVJBaXpKZ1MzdWU0Ym05bW1odFdaWnU2WDhsU2dFaWZXdlRxbVIwbzBaYlAzRjFVbtIB5gFBVV95cUxQUnhkeGg2ZDl3ZDl6TWZSZERITzgxVHdzaFJCQUdlN2JKNUdwQ0M3bDhfZlVjUFJzeHU2Ul9YRncyMWRBUkhpQk5KREs3aDgwb0FfQm9KYkdTRXBvSXp6eGFBdkl4MnF6eU84UXY5VUpPWklmajRYUjNKYm1NYjYzTVpfU3lEX0JfMFFhM3FpYk4wV1BTYVB0eXM5TG9pX05xQUxEN3RmMk1KWlZmQU5QcnBLck1BekxzbjV3MnM5RExTdl9hRkNaOUFhSzU4eWlNOGZKc256bHRjTEZrdXFTU05ueXdPQQ?oc=5)
-
-2026-10-13
-
-Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQk44bTBsZFhrYzRjaXBNLVZCeTZ2OERSMmpONy1qRGV4NmFGYkl2dEVZZ2tlUWdXRkJhR0tqcnBuNzd4NFpoV0tEb2dKYVlzNFdLZzJVNHhNcTd3cEw2WkYwM3YxLWdic3JCU0lQYWNlTWt6bUkwWHJvWnVkcE1BNmVBS3dfN3RmWFYxX2Q2Z0dCSjIxXzdsUlJOUnA2bU5meFFJZTBRUmItSU1ic3VXMVJBaXpKZ1MzdWU0Ym05bW1odFdaWnU2WDhsU2dFaWZXdlRxbVIwbzBaYlAzRjFVbtIB5gFBVV95cUxQUnhkeGg2ZDl3ZDl6TWZSZERITzgxVHdzaFJCQUdlN2JKNUdwQ0M3bDhfZlVjUFJzeHU2Ul9YRncyMWRBUkhpQk5KREs3aDgwb0FfQm9KYkdTRXBvSXp6eGFBdkl4MnF6eU84UXY5VUpPWklmajRYUjNKYm1NYjYzTVpfU3lEX0JfMFFhM3FpYk4wV1BTYVB0eXM5TG9pX05xQUxEN3RmMk1KWlZmQU5QcnBLck1BekxzbjV3MnM5RExTdl9hRkNaOUFhSzU4eWlNOGZKc256bHRjTEZrdXFTU05ueXdPQQ?oc=5)
 
 ---
 

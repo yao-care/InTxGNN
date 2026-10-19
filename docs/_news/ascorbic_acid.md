@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Discovery on neural wiring could unlock paths toward treatment of spinal cord injury, stroke - Technology Org](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2xtRHdYWjNpMS1qaWhaVlBDWjEyMjNVV1Zpd1BPdE9Pb19ONGJNb1dHU01sSjBpazFOMThWUnBFWVdOOWljVGd1RzI0bnB6RTFNcXJiSlNzck9XdHJ5b2RiNEJKeGRTajN1WC1qUFBpWXBMMlpubVZfanFtLUFzellnUkdsaGxfNnVqal9ycmt6ZUFzVE9ISm16eFFKNVRUWlZ6dWJjOXNKa0NsVnIyTm16blpYUlJkbzR5TUtIOTc3NEVEa2tLSzJn?oc=5)
-
-2026-10-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">injury</span>
-
-Source: [Technology Org](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2xtRHdYWjNpMS1qaWhaVlBDWjEyMjNVV1Zpd1BPdE9Pb19ONGJNb1dHU01sSjBpazFOMThWUnBFWVdOOWljVGd1RzI0bnB6RTFNcXJiSlNzck9XdHJ5b2RiNEJKeGRTajN1WC1qUFBpWXBMMlpubVZfanFtLUFzellnUkdsaGxfNnVqal9ycmt6ZUFzVE9ISm16eFFKNVRUWlZ6dWJjOXNKa0NsVnIyTm16blpYUlJkbzR5TUtIOTc3NEVEa2tLSzJn?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

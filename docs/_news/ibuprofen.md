@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Ibuprofen with the latest he
 
 ## Related News (1)
 
-### [Polypharmacy of Prescription Medications Increased for US Older Adults - Ophthalmology Advisor](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWngxU3JqTjBUSngtRkNsUUJyVFpxUzB0SnZvTksxa2lfQ2wyVnNPMkdMWW5yNVU0MjUwNWk1NW9CTmxzNVlKeGRJeUZpX0tPM0k5ZWZ3czVfM0VKdzRPaC1ORXVmSzFwMjJEUUc1dC1jRmw3M1dzR2FKclZoZDVDTzMtZmg4VVVIcG1Hc1duV1BZbkxBSjg4Ql9MUjhUNU16b3VrY19xcHQyWmZxY29DaWppbw?oc=5)
+### [Poly-whammy: How many medicines are too many medicines? - Deccan Herald](https://news.google.com/rss/articles/CBMingFBVV95cUxNQjBzdXNTRXZJYzBhakJzYXY3d0ZkZlBiaVBya2pkbzZSTEF6TkFhRFFNU3hLRG90SmVmWTJIcUV6YzN4LWJQVHFoNmYwQUkxdTJqdjVIVzFtVzJsZnRxemFVeFJUbXNCSlV1bmtXaUZSSGx2cTNqQzdnMmtBQUVlU0J2Y3FuMUJQTDlTbk1SQXdGYUJWQ3RyS0UtMU9fUdIBrgFBVV95cUxOMXhPQmJUTDlrTExkc3ZkbGtuclZZWVdUQ1JxUWRtanN0RHIxY1hLaU1lMTNiV3I0MTVMeGg2STZZVE5OazI2akx1ZlNUcTVYUTRlN0doUkN3R1huZ0lDSnU1d3ZfX0JNX2JINlpuT2NCdTdKck1EcHE2MWh2WnRVZ0k5RTJZNUZXX3pLSENBR0pqcGZQQm5RdzZKREZqb3hueGVlUWNmbllmRmJPVXc?oc=5)
 
-2026-10-14 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">RAMIPRIL</span> <span class="news-drug-tag">AMLODIPINE</span> <span class="news-drug-tag">FUROSEMIDE</span> <span class="news-drug-tag">IBUPROFEN</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Ramipril</span>
+2026-10-14 <span class="news-drug-tag">Amlodipine</span> <span class="news-drug-tag">RAMIPRIL</span> <span class="news-drug-tag">AMLODIPINE</span> <span class="news-drug-tag">FUROSEMIDE</span> <span class="news-drug-tag">IBUPROFEN</span> <span class="news-drug-tag">Ibuprofen</span> <span class="news-drug-tag">Ramipril</span> <span class="news-indication-tag">dama</span>
 
-Source: [Ophthalmology Advisor](https://news.google.com/rss/articles/CBMiswFBVV95cUxQWngxU3JqTjBUSngtRkNsUUJyVFpxUzB0SnZvTksxa2lfQ2wyVnNPMkdMWW5yNVU0MjUwNWk1NW9CTmxzNVlKeGRJeUZpX0tPM0k5ZWZ3czVfM0VKdzRPaC1ORXVmSzFwMjJEUUc1dC1jRmw3M1dzR2FKclZoZDVDTzMtZmg4VVVIcG1Hc1duV1BZbkxBSjg4Ql9MUjhUNU16b3VrY19xcHQyWmZxY29DaWppbw?oc=5)
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMingFBVV95cUxNQjBzdXNTRXZJYzBhakJzYXY3d0ZkZlBiaVBya2pkbzZSTEF6TkFhRFFNU3hLRG90SmVmWTJIcUV6YzN4LWJQVHFoNmYwQUkxdTJqdjVIVzFtVzJsZnRxemFVeFJUbXNCSlV1bmtXaUZSSGx2cTNqQzdnMmtBQUVlU0J2Y3FuMUJQTDlTbk1SQXdGYUJWQ3RyS0UtMU9fUdIBrgFBVV95cUxOMXhPQmJUTDlrTExkc3ZkbGtuclZZWVdUQ1JxUWRtanN0RHIxY1hLaU1lMTNiV3I0MTVMeGg2STZZVE5OazI2akx1ZlNUcTVYUTRlN0doUkN3R1huZ0lDSnU1d3ZfX0JNX2JINlpuT2NCdTdKck1EcHE2MWh2WnRVZ0k5RTJZNUZXX3pLSENBR0pqcGZQQm5RdzZKREZqb3hueGVlUWNmbllmRmJPVXc?oc=5)
 
 ---
 

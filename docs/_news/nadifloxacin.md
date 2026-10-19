@@ -14,7 +14,7 @@ permalink: /news/nadifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Indonesia's malaria cases hit record high as climate warms](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDF0c2FYSWxJUDBULU5tYVRtcE5RNHVNZzVvVWdiQW1ZZ0RWNnIyNjJ3Nkx0ZjZmcGxKXzJMckt3ZXdzMkV5NEVtcC1ER1hvalJfQTAtaDJUYk83SlVxbkhCdHB6UEpHajM1X2ljWGdOODRLNFRZYU1ZZWFLdE9yZ3I1TDBuY0tWSjdUY2JoaEZ2MWM1N1drcmwySE1BZ0F0V1JjZ185RDY2eE9ydXE4dw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [IntelliNews](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDF0c2FYSWxJUDBULU5tYVRtcE5RNHVNZzVvVWdiQW1ZZ0RWNnIyNjJ3Nkx0ZjZmcGxKXzJMckt3ZXdzMkV5NEVtcC1ER1hvalJfQTAtaDJUYk83SlVxbkhCdHB6UEpHajM1X2ljWGdOODRLNFRZYU1ZZWFLdE9yZ3I1TDBuY0tWSjdUY2JoaEZ2MWM1N1drcmwySE1BZ0F0V1JjZ185RDY2eE9ydXE4dw?oc=5)
+
+---
 
 
 <div class="disclaimer">

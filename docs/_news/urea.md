@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,13 +28,29 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 </div>
 
-## Related News (1)
+## Related News (3)
 
-### [Bengaluru's ramya anche becomes principal investigator of NASA mission: She will lead the 168-crore mission... - Bhaskar English](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUxVRkFZc25EWlBKNk9vZ2lyRXJISFcyWGpNdGtVRWNBVlZNaDM2X05HZ0tneUxaTTREeFVmYVhLOWxYc3FXSDdRLVRab19fU1BGMkFma0Z1SGJYZ1pZTm0zNW5hbWxNakFqdVA4cWYweF8yVkJkU0J3elhkTUFBTEJ0VzFLY05ub2JlUlBxTUtCazdITHZjLXZYdWw5Q19PNUVSbGhPNHM4V3FIN1ZQUlJJd0YyNW93Q0hNMENTTVRxTlHSAcgBQVVfeXFMUHNnYnJMMzRxazNxS3hDUE1VeElqRGtfMW1VSGZrcFNmOXRGX28xVUVCQkZMd3hYQjU3bUtmYTR2bzBoYTNoeFRRbGdjME9MOHRZRC16RjVBWGgtU000bkRnWE9DRnd6X2VEc20zZTdUR3VaYjNzeVRVX1BmdlFuaDVKam9MTktJREQ3ZG1NUlUwMGRPc2FuZV9RZjM1ZGlPOWVsSzIyd2djT1ozOVUxV3QwVmJodVhCNGRKVndhTWNNSXEtanJSVW4?oc=5)
+### [AI system RFdiffusion3 designs proteins at the atomic level, proven functional in laboratory tests](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkRYa0g3RHpHeHF4WlBrODV0NjgxTjZncmNubmNQejZ5SThuS0hkLTh1bmY3UkRRUm80VVNSanJGcTBOWWhncFVVTWk2a2R3amxRYlUyTjFHbFo0dm53UkpwN0R3MUd6VnBmVk5lOGlLREZIclhYbV9DSERfdkpZSmt0amN2RnQ2UnVsTFI3bnhDdlVXblJRM1RTUVRJT05lZmVMRVdOanlKRnlLSGI2OG53Ylk?oc=5)
 
-2026-10-18 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+2026-10-19 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
-Source: [Bhaskar English](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUxVRkFZc25EWlBKNk9vZ2lyRXJISFcyWGpNdGtVRWNBVlZNaDM2X05HZ0tneUxaTTREeFVmYVhLOWxYc3FXSDdRLVRab19fU1BGMkFma0Z1SGJYZ1pZTm0zNW5hbWxNakFqdVA4cWYweF8yVkJkU0J3elhkTUFBTEJ0VzFLY05ub2JlUlBxTUtCazdITHZjLXZYdWw5Q19PNUVSbGhPNHM4V3FIN1ZQUlJJd0YyNW93Q0hNMENTTVRxTlHSAcgBQVVfeXFMUHNnYnJMMzRxazNxS3hDUE1VeElqRGtfMW1VSGZrcFNmOXRGX28xVUVCQkZMd3hYQjU3bUtmYTR2bzBoYTNoeFRRbGdjME9MOHRZRC16RjVBWGgtU000bkRnWE9DRnd6X2VEc20zZTdUR3VaYjNzeVRVX1BmdlFuaDVKam9MTktJREQ3ZG1NUlUwMGRPc2FuZV9RZjM1ZGlPOWVsSzIyd2djT1ozOVUxV3QwVmJodVhCNGRKVndhTWNNSXEtanJSVW4?oc=5)
+Source: [KuCoin](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkRYa0g3RHpHeHF4WlBrODV0NjgxTjZncmNubmNQejZ5SThuS0hkLTh1bmY3UkRRUm80VVNSanJGcTBOWWhncFVVTWk2a2R3amxRYlUyTjFHbFo0dm53UkpwN0R3MUd6VnBmVk5lOGlLREZIclhYbV9DSERfdkpZSmt0amN2RnQ2UnVsTFI3bnhDdlVXblJRM1RTUVRJT05lZmVMRVdOanlKRnlLSGI2OG53Ylk?oc=5)
+
+---
+
+### [PUFFINS Telescope Mission: NASA’s $20 Million Space Telescope Explained - Study IQ](https://news.google.com/rss/articles/CBMia0FVX3lxTE0xemczeF92WWdMSTlhUFlnRlJwb0p3RU1rN1BLcnY1NGM3LUFSOGVvWEt2YjVIbkluTlBXN1IyYnlVbFVTSTVqbDR4S2VlVllzSXZpVTRVZURobTNsM2cxMFRzZld2SkNtVjZr?oc=5)
+
+2026-10-19 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [Study IQ](https://news.google.com/rss/articles/CBMia0FVX3lxTE0xemczeF92WWdMSTlhUFlnRlJwb0p3RU1rN1BLcnY1NGM3LUFSOGVvWEt2YjVIbkluTlBXN1IyYnlVbFVTSTVqbDR4S2VlVllzSXZpVTRVZURobTNsM2cxMFRzZld2SkNtVjZr?oc=5)
+
+---
+
+### [MIT's Crystal-CLIP Fuses 3D Atomic Structure With Text, Outperforms Text-Only Baselines on Materials Discovery - AI Weekly](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDF6QmZkdlBKVHUwSEdiTHRqTWpkZzVIREZ4UXU5OXVtOUZRcTJGeWhXVGVFNVg2bmluTy1OWU9pclR5eDFEVUFWMVJ2ejhRUW5zMm9KNFdybWxyRjhCZlEzalZFdzRTcTRlYXNaREYzQm81SkVQSXNLWk5KM3dYSkd0V3I2OUtXbHd0VGVUWGZ2cDNmQ3Y5M2NOMV91WGg0bUZlcw?oc=5)
+
+2026-10-19 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [AI Weekly](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDF6QmZkdlBKVHUwSEdiTHRqTWpkZzVIREZ4UXU5OXVtOUZRcTJGeWhXVGVFNVg2bmluTy1OWU9pclR5eDFEVUFWMVJ2ejhRUW5zMm9KNFdybWxyRjhCZlEzalZFdzRTcTRlYXNaREYzQm81SkVQSXNLWk5KM3dYSkd0V3I2OUtXbHd0VGVUWGZ2cDNmQ3Y5M2NOMV91WGg0bUZlcw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Bevacizumab?">
-<strong>Bevacizumab</strong> currently has <strong>13 news articles</strong>, with 5 predicted indications.
+<strong>Bevacizumab</strong> currently has <strong>7 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,37 +36,29 @@ This page combines the AI-predicted indications for Bevacizumab with the latest 
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (7)
 
-### [Hybrid dual attentional-based pyramidal deep learning model for liver tumor detection](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXa3lSdEVGZDFab3BKbFRGNmNkNmRzTEhhMEFNRHFWcEJ2blJOcUZYZHd3dTRDSnNpbDBWQmdGc1BJRnk5Rm5nNmlFNDVWTWdfNGY3QndjYkVNZUVieE9N?oc=5)
+### [MEDICAL MONDAY: Breast cancer diagnoses rising among younger women, doctors emphasize importance of family history](https://news.google.com/rss/articles/CBMipAJBVV95cUxPaFoxam9qUFg4eVIzN0tJN2VPdEJNdlV5RUxjYjdCOG0wWmM1S3EwNE5BUG9QSC11RGQwbDc4UmJyWmFoejktZFZpdEVHMWNsRWFMUFZWUTVHWVMzUW1wNDZPNlM4elVjNnJOWkRqQTU2dGR2YXJHWFZ5QldHejhWZUhHUWpaREoxVGIwWF9KWm1nRHZaUTBhalJRTTZpM1F3b2NENXVScTFqbEZQS1dYU2hOYkMzNGtTaTZIVVZmQnFkbElPMHRnX3pLTGFuQzFhTUFndnFieVdrTEJTeGtDSHhNUVlSNnhzeFdkWGIzWWhsRWVHU25aNHdNSmxWMnBBUjdDTWVhV0tBRGU2Y3BsVU1LcmlFbE9VSUFkcm1qRUlzbVdZ?oc=5)
 
-2026-10-18 <span class="news-indication-tag">tumor</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXa3lSdEVGZDFab3BKbFRGNmNkNmRzTEhhMEFNRHFWcEJ2blJOcUZYZHd3dTRDSnNpbDBWQmdGc1BJRnk5Rm5nNmlFNDVWTWdfNGY3QndjYkVNZUVieE9N?oc=5)
-
----
-
-### [Breast cancer: Early detection, personalised treatment and screening access remain key challenges](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQzROdlg2VEEtSGFfN0J4UGpOdXBfX2MwVUpReC1DeWRVRnZ3QWtTRktzT2ZtN0lmQUhOclduWTJDY1BtS0N2LTFxNXpDVDg4eERMdVJWTU1QbFY3Y0hqVW9MSkFaQVJGbW93Y3VqaEtuTnpRNXpRWDdIZGJxRkVvNUJEMXBfNjduem5zTnZBZ3BseXVnT19xUmpmUHUwNUo1eF91aDV6VURZTUNKaUdHV1k4N3k2NnRtQk5sdlVjV0xDTGZPRzZyYjdwMTFLaGFiQW1IaUtsckh3d9IB3wFBVV95cUxPQW1DQWZkb2NpcEdub1RoUUFOQVNIVFo5azVmN1Jubzdtb2VMVm80ODRhTm00RjZ4b2JjS0I4blg5elJyTVpEbU1STUF2NTlTUWtKRkoyQmhQN1lhc3hBbTBCQjJnLXNhUnpiR1hfNVRsWTNLOTQwb3p3WUVfOG5Nd0hPbnFzQzdiYlctQ1VFTE5rejRlODhhVVNvM3QzMVRMc3ExcjVNbUNjRWZoRVRtTVlEYnRhYklHRENDNnRCM1VGZzYxVUR0SUtLbGY5c2FJa3ZESFp5R3lZcUNhLVZR?oc=5)
-
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Firstpost](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQzROdlg2VEEtSGFfN0J4UGpOdXBfX2MwVUpReC1DeWRVRnZ3QWtTRktzT2ZtN0lmQUhOclduWTJDY1BtS0N2LTFxNXpDVDg4eERMdVJWTU1QbFY3Y0hqVW9MSkFaQVJGbW93Y3VqaEtuTnpRNXpRWDdIZGJxRkVvNUJEMXBfNjduem5zTnZBZ3BseXVnT19xUmpmUHUwNUo1eF91aDV6VURZTUNKaUdHV1k4N3k2NnRtQk5sdlVjV0xDTGZPRzZyYjdwMTFLaGFiQW1IaUtsckh3d9IB3wFBVV95cUxPQW1DQWZkb2NpcEdub1RoUUFOQVNIVFo5azVmN1Jubzdtb2VMVm80ODRhTm00RjZ4b2JjS0I4blg5elJyTVpEbU1STUF2NTlTUWtKRkoyQmhQN1lhc3hBbTBCQjJnLXNhUnpiR1hfNVRsWTNLOTQwb3p3WUVfOG5Nd0hPbnFzQzdiYlctQ1VFTE5rejRlODhhVVNvM3QzMVRMc3ExcjVNbUNjRWZoRVRtTVlEYnRhYklHRENDNnRCM1VGZzYxVUR0SUtLbGY5c2FJa3ZESFp5R3lZcUNhLVZR?oc=5)
+Source: [WXOW](https://news.google.com/rss/articles/CBMipAJBVV95cUxPaFoxam9qUFg4eVIzN0tJN2VPdEJNdlV5RUxjYjdCOG0wWmM1S3EwNE5BUG9QSC11RGQwbDc4UmJyWmFoejktZFZpdEVHMWNsRWFMUFZWUTVHWVMzUW1wNDZPNlM4elVjNnJOWkRqQTU2dGR2YXJHWFZ5QldHejhWZUhHUWpaREoxVGIwWF9KWm1nRHZaUTBhalJRTTZpM1F3b2NENXVScTFqbEZQS1dYU2hOYkMzNGtTaTZIVVZmQnFkbElPMHRnX3pLTGFuQzFhTUFndnFieVdrTEJTeGtDSHhNUVlSNnhzeFdkWGIzWWhsRWVHU25aNHdNSmxWMnBBUjdDTWVhV0tBRGU2Y3BsVU1LcmlFbE9VSUFkcm1qRUlzbVdZ?oc=5)
 
 ---
 
-### [Nearly 1 in 8 cancers worldwide are caused by infections. Many could be prevented - ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
+### [Breast Cancer Awareness Day: Experts Explain Most Overlooked Breast Changes That Can Delay Diagnosis In Men - Health and Me](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUG41UTR3QWNaakN3enJGV3Mwd0lqdUVKT0VEYnIxNzg4eW56VUpzRF82akJyQktXZDQzeFJ2aDNGUVN4bmhNbjN0ekpTQkRPeURPQ2lSMk9USHBWX1l4MHNSRUJuM2w3SUc5bW96N0JyNDduZmd5VDZVZ3Y5SDNqelc3ejc2S0E5VGlLdlgwcXpic19MbHl3ekh4dUNFUU1JVFpvbENDMVNIWHZoenJBTFRocUM3emd0aEFTcEMtSFUzWXJTTlBQNjZJTVJBNXJXM1BJVVdFUHdzbHBkT01xam5fMTd3RW5EaEZRcmhSTzVGMlQ0RWpzN2dvMTg?oc=5)
 
-2026-10-18 <span class="news-indication-tag">cancer</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUG41UTR3QWNaakN3enJGV3Mwd0lqdUVKT0VEYnIxNzg4eW56VUpzRF82akJyQktXZDQzeFJ2aDNGUVN4bmhNbjN0ekpTQkRPeURPQ2lSMk9USHBWX1l4MHNSRUJuM2w3SUc5bW96N0JyNDduZmd5VDZVZ3Y5SDNqelc3ejc2S0E5VGlLdlgwcXpic19MbHl3ekh4dUNFUU1JVFpvbENDMVNIWHZoenJBTFRocUM3emd0aEFTcEMtSFUzWXJTTlBQNjZJTVJBNXJXM1BJVVdFUHdzbHBkT01xam5fMTd3RW5EaEZRcmhSTzVGMlQ0RWpzN2dvMTg?oc=5)
 
 ---
 
-### [Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
+### [India's tobacco burden extends beyond smoking, new estimates reveal differences by region, sex and cancer site - The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVOWGdsTXhEdHBHQ3RETTZDWFgydV9fUkhNSGhpTHNaTThxelppRDBSNVpjTEhIMmx6c1NXOWVmYU8zd2dfZWU4TXNxeGlXTkF1SWNETEFEUk5uU053b0VESUtwVWxIbmFtTnZvQkZqdWxRSzdIWkNaVGIwOXNRNFFjQ0F4dXlJanVIU2Z4UjB1OVFma2d0eFFpN0NsWWN6eVlkUV9sTExHSEkzOE5IZ3I2Z2VsOF90Qm9lWXVaS1RfMkdaRjRfUnFNWFFCak1BQkQyb3VaNHU?oc=5)
 
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-19 <span class="news-indication-tag">cancer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
+Source: [The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVOWGdsTXhEdHBHQ3RETTZDWFgydV9fUkhNSGhpTHNaTThxelppRDBSNVpjTEhIMmx6c1NXOWVmYU8zd2dfZWU4TXNxeGlXTkF1SWNETEFEUk5uU053b0VESUtwVWxIbmFtTnZvQkZqdWxRSzdIWkNaVGIwOXNRNFFjQ0F4dXlJanVIU2Z4UjB1OVFma2d0eFFpN0NsWWN6eVlkUV9sTExHSEkzOE5IZ3I2Z2VsOF90Qm9lWXVaS1RfMkdaRjRfUnFNWFFCak1BQkQyb3VaNHU?oc=5)
 
 ---
 
@@ -78,22 +70,6 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFB
 
 ---
 
-### [Breaking the Silence Ending the Stigma | The Statesman Kolkata - newspaper](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjQ4QVlQYVhtTWZLMnN4REZVcmhtNzJSNFVTd1ZpZTBiZUsyM1lFQjgwblp6TjJ2LVNaME1NUWxhSlZ5aDBZdTBBMklZeVd1M1VlajdOUDZhSzV4eHo1a1VPc05pWXdIR25tdUtVbnJYeDFFVklLUE1GMDgtdWQzZU1pNzZKbjZ6ZzQ3YjhLa1ZmTUs3WGdySy1xaDNYZ19xQ3pjWA?oc=5)
-
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Magzter](https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjQ4QVlQYVhtTWZLMnN4REZVcmhtNzJSNFVTd1ZpZTBiZUsyM1lFQjgwblp6TjJ2LVNaME1NUWxhSlZ5aDBZdTBBMklZeVd1M1VlajdOUDZhSzV4eHo1a1VPc05pWXdIR25tdUtVbnJYeDFFVklLUE1GMDgtdWQzZU1pNzZKbjZ6ZzQ3YjhLa1ZmTUs3WGdySy1xaDNYZ19xQ3pjWA?oc=5)
-
----
-
-### [There is no safe level of second-hand smoke: Doctors on why you shouldn't ignore it even if you're not the one smoking | Health - Hindustan Times](https://news.google.com/rss/articles/CBMihgJBVV95cUxQRi1wd3VpZFBWZnJSaEQ2WGtLTnRoMTN5RnhvckxiVzN0VEF1dGRUck9oelVQYTFyMmd6SUd3RUhtdXhKWUlhYnRWanNxTXJBcnlYdXhxMW5QTUtqUG9nMjBuZm5USG5QRm1McEdPLUpkQ1hUSGdUaXZUU1ZRRWh2VnRMV25lQk9HQXM3TTFzU3I5cVd3X2pSdTRIdWxBc1NDdFZsN0h6RW5HNFEzNExhMncwLU82RVI0TGhhTkhjUEZqV3dQazlsYmFTU2dfdUM2NWJBS3hNUkFEM0hab1g3SFZUbWJoc0RqQzVBQmZzTzBzb25MaFFPNU1Jb01FOUlDNlZRNmdn0gGLAkFVX3lxTFBCb2xqNWhwVmFMdHNDZTZOR0dJV1g1dUF5Q1BRbUIwSUtQekk4UHU2UFBTU3h1bnNQM1dsQkliY3RaOUtjUk83dE9XVUUwUGlPZ3VJaldxQWpvWWtqOUQ5bHA4YWVQUDlPX1NkWlZ4dHdXTDUzeFlQZ3NXb0JEMWlLcG5iREszVVZSVG9LRHdrLVN6R2l5QkRrZjRUVlVDa3praWtnM0pWb1hOdzRJOGdJVUF2Ukg3TS1QdjRLYnZsYmdsalNmcUFmdkRFSGRMYURjS3l2MjVDVldBVzlKOTl6Y1pHNUdRRW5wWXU5QllRRlJPX2tKVm43QVh3Yk5sOXc4SE1PakhZd25ZRQ?oc=5)
-
-2026-10-18 <span class="news-indication-tag">cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihgJBVV95cUxQRi1wd3VpZFBWZnJSaEQ2WGtLTnRoMTN5RnhvckxiVzN0VEF1dGRUck9oelVQYTFyMmd6SUd3RUhtdXhKWUlhYnRWanNxTXJBcnlYdXhxMW5QTUtqUG9nMjBuZm5USG5QRm1McEdPLUpkQ1hUSGdUaXZUU1ZRRWh2VnRMV25lQk9HQXM3TTFzU3I5cVd3X2pSdTRIdWxBc1NDdFZsN0h6RW5HNFEzNExhMncwLU82RVI0TGhhTkhjUEZqV3dQazlsYmFTU2dfdUM2NWJBS3hNUkFEM0hab1g3SFZUbWJoc0RqQzVBQmZzTzBzb25MaFFPNU1Jb01FOUlDNlZRNmdn0gGLAkFVX3lxTFBCb2xqNWhwVmFMdHNDZTZOR0dJV1g1dUF5Q1BRbUIwSUtQekk4UHU2UFBTU3h1bnNQM1dsQkliY3RaOUtjUk83dE9XVUUwUGlPZ3VJaldxQWpvWWtqOUQ5bHA4YWVQUDlPX1NkWlZ4dHdXTDUzeFlQZ3NXb0JEMWlLcG5iREszVVZSVG9LRHdrLVN6R2l5QkRrZjRUVlVDa3praWtnM0pWb1hOdzRJOGdJVUF2Ukg3TS1QdjRLYnZsYmdsalNmcUFmdkRFSGRMYURjS3l2MjVDVldBVzlKOTl6Y1pHNUdRRW5wWXU5QllRRlJPX2tKVm43QVh3Yk5sOXc4SE1PakhZd25ZRQ?oc=5)
-
----
-
 ### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
@@ -102,19 +78,11 @@ Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cU
 
 ---
 
-### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
+### [Who Was Rachna Shroff? Indian-American Cancer Researcher Dies Of Disease She Was Trying To Cure](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
 
-2026-10-17 <span class="news-indication-tag">cancer</span>
+2026-10-15 <span class="news-indication-tag">cancer</span>
 
-Source: [NewsNation](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
-
----
-
-### [Rachna Shroff, accomplished GI oncologist and “tireless mentor,” dies at 47 Her endowed award will live on - The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONXlLWGNsb0RIWjdtTXd6UmxSNFdDMGZZUFJ0M3Q3dUZOd3o5TFY0SjJ6UTRVS29kUHl4Sk13cDBaU0RGNzhvOFBycWpjMTNzU0ZCVkxhMjM?oc=5)
-
-2026-10-17 <span class="news-indication-tag">cancer</span>
-
-Source: [The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ONXlLWGNsb0RIWjdtTXd6UmxSNFdDMGZZUFJ0M3Q3dUZOd3o5TFY0SjJ6UTRVS29kUHl4Sk13cDBaU0RGNzhvOFBycWpjMTNzU0ZCVkxhMjM?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJcllzZEtpVU9SN1c2VWRpa3V1YVc4OHlVbHhELXd0OWg5b3gyZ2VaV1ZENng1OWFWLWw5N0lNQi1LM2ZhOVF5NXVoZUpzOHhXdDAyckpmek9WQ3gwcENHby0xS1NLOHZBYjNLXzUyWWZ3Z3dnUXZyTnY5aVduQVVFTnozaW5Ca09TU0pObGFMcU5JOC1pN1pMY3E0RXdqQVZKVXN5VWRuTWJmQVdNOWVITnhKUWhhdm92UkdKN0VpZHdvMGU4eFRV0gHYAUFVX3lxTE5Xa3M1TTdoZjJvYWNHeS1KTDhJS0tCOGRyaEdtcEhmQ2hleXpHN1BLTnFWQ1hIVm1MY2JfNGpTSnYtcWd5X2dhQlc5SmMxa09mTzhOeEd6aHRSYVdWTldSVFhObE51MVBTSW9fdDVQWXE4d2wxQkxZSVlTdGFBNkRvR0hGNndnS29xU1hkdWNEWjF2Q25kTkx2UFRGNUNiM29IMGU4VE1kQmtnemhSdWFhdmlVMUNkUVBxX0JzdUd2YXJRVEIxT3Z2SnNrcFc3RXhodi1RS3ZQag?oc=5)
 
 ---
 
@@ -123,22 +91,6 @@ Source: [The Cancer Letter](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1
 2026-10-14 <span class="news-indication-tag">cancer</span>
 
 Source: [The Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xEMGNIQlMyVk54OGw4eGRZaVhVWDhYN0d0WHVVcWN1ZXRQLU5EdGFiMlpqTUxJZVRHSVMyWFNHM1dqbXRCYXA5YTltU3Z0MHJvZC1QZVplMDVjNlU1dnV1VVUzbEpNcktxM2FHbTN1N2czS0YtNlhOaEk0TlFYWlppMGRwbzg0V21LWWRQWjNidXBjaGUxOVhpZTU0LUxxdUV1RlFyS3ZNcWg50gGwAUFVX3lxTE1OWlNpbko3STdGX1pNeW5uaEtWU21iZmNJS0JEQXBWck5yY1ktbzhGRmpITjBXR2lFOUZDT3NENkduVzVhY0RobmVLQ1Jna1l2UU02WGNRcjNBMEpOb1ZSS0V4Nk8xRWVTdjF4WTU2Nm9GSHdiYWVPTjNuR1NqT0ZGQ3c2TWhEYXJrVi05Q3dhOWJBc3ZEc21hYXkwS0xoaDlzS0dHYmtRNG1fMWM5VnVH?oc=5)
-
----
-
-### [Men can also get breast cancer: Doctors share symptoms to look out for](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Firstpost](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWVYVzBIbTRJYXdGOG96QzFoYkx5NlRyNl9TakpaUVhGSlp5YVBMb3NpZUxXbW5vWXVjZGM4OGdhbTB1MW9TZmNRX3BhNlMwUUZuWnlUR2hHb1NJM25sc2Zid2ktRktLSEVBLTJSaDhfSklkZjhheF92U2tyRlRFd09iaF8zUXliMF96ZjcxNW5vZE9FTnplZ0JLcUhaU3ZpSXRsdXhIbWlYZUNLZ3RmMlBoV1FyUmZNMXFR0gHAAUFVX3lxTE8wZUhPT0JHbGxSUzd0QVYtTHRxOXc4eFhDOVpHVVNOTjdybjU2WmdxbWp2d0FMVFNEM3pXNTljRC1vX0ZJWFNQNi1SNURPTTJaN3JOejc3d0ZocmMwUF9UNjlyNTFTckMyZzB5R1BOeDF0NTVuVE05NmQ4OWFCRDJwRk92cVRoVDBBU0Rsc0ZrSTgwT1JHckROM2IyMXBkWlBaQUtZZ1ZpenlOMHZRc1dhUDBIdFdSaUxGdk44blVaaw?oc=5)
-
----
-
-### [Don’t ignore early signs of breast cancer: Oncologist](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDk2MDJUOXZwa3JubDRaendGQmNEOWdUc2xZU21TV1U4TERFNThZOGJLUjZpT1hKWU5WbnNod2k1SGxOWVBDNEdXLTNyd05TX2ZqVXFrMU1IdnhNU01la1dzVmEyOEVsWV9yOHJqTUlUM1V0OXFtM0J2MndTRk1wV2tlTmU?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [IndiaMedToday](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDk2MDJUOXZwa3JubDRaendGQmNEOWdUc2xZU21TV1U4TERFNThZOGJLUjZpT1hKWU5WbnNod2k1SGxOWVBDNEdXLTNyd05TX2ZqVXFrMU1IdnhNU01la1dzVmEyOEVsWV9yOHJqTUlUM1V0OXFtM0J2MndTRk1wV2tlTmU?oc=5)
 
 ---
 

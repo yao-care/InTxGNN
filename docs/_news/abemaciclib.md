@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 4 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,29 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Heart disease can develop without obvious symptoms: Cardiologists explain tests, from Lipoprotein(a) and ApoB to coronary calcium scans, that can help uncover hidden cardiovascular risk - The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
+### [UAE develops homegrown technologies for asteroid mission planned for 2028 - TV BRICS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFSMGJyb2lvSmFFaUdxaHFral9IQTBlbmlsUllPT0pzMHFwYnRNbTl4TzJremxXRXliYWZUVlNBQzBrYjEyazdYMVdQMS1kQWZKRndCdF90Z1RHNVdDY1BFdVowcF9Vc1ZZdEpTWXJDVF9XTEI4QlV5OFNhNG9NUWhGS3cwbFV0cG8wWlZxNXJmUkZVLTI2NjZHcUpRWjlqUThraQ?oc=5)
 
-2026-10-16 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+2026-10-19 <span class="news-indication-tag">RA</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi5wJBVV95cUxQOFUxSDZvM2ZnNXVQeDlvUE1UTGhvZk04LWN6aG5BRUZfYklSQTdJYXFQNGZ0a2xiX1kzVmlMdWtvdFVCdUxpWGpvOVdEb3did1prc0hlWVFuZlRrSUlGMVBuR0pINmFweEdGU1NPV2N3YmtDWVVLOFlHaEstallqRVloZy0zZVg2bjNPektkVUd2ZU1CUDhfNkU5dUJ4eERyMVhXcm5BaVlENHlNRXFEdnIzUHlNa1NMWXFsdTlUOWt2eVJUV1VhSjlnUlVYa1psRVBjSWxaN0h3bGUtUmRmRm1uZ0pYT3dOQ2VrdUxzLVUtZk5sQklZOTZEZmN3b05sWENrc1JGbzJyZ2RGYjVqQkotRndpSF9ZOHh0RWRJNndSQ3dfM1h5WXZ5OHdNaldDOHNKN2NZSlVKRHhWTkFxelJEMUNvYjFjMzNOSFFwazY1a2VaWmUyQW5iLW1sVjVlMTFqakdRWdIB7wJBVV95cUxOSEtaeWdRSDNEd3R1RTgyb2JGQ3o4bWw0U1N0Nm5fUENYb2FUZ1MxWHc2MlpsTE81dElNZmVfZVlBRldoMXp2RkNHTjR2VmNHYnhpbGgtTmhPZWYxT05uYi1LWlBoTV9RVmFTVVpoLTZOYTh4b3h2S0VwdFMtbTJzYWdBb2NWaWFTT0VUN01JNG1YNVBOSUExY0k2dlN4ZnhVamtsRVAwRHVWeFRERnJLcUFUNjRsYkpXX2dtZWIyWkltVDhKamFzX2wxWjM3Y1BrUnZiekNFeHdET250cUU1dDZtclFGVWFiY1h1alAxQWNIdnUxZEl2M3FnTWMzdDZJaGZMdkIwb3B4Y1pWb3pUajRuNE9EMTB0ZHFnbjhMWmVGYjluaEl0RHcyMS1hOTAxV2NpLU0xNUQ5ZmQ1ZGltRmZCWDFPMDk5ZDc0OUFPN1B0Y0c1VXJUdUUwMnotUFRaRTlHdGxDNWNsN0tYdTA4?oc=5)
+Source: [TV BRICS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFSMGJyb2lvSmFFaUdxaHFral9IQTBlbmlsUllPT0pzMHFwYnRNbTl4TzJremxXRXliYWZUVlNBQzBrYjEyazdYMVdQMS1kQWZKRndCdF90Z1RHNVdDY1BFdVowcF9Vc1ZZdEpTWXJDVF9XTEI4QlV5OFNhNG9NUWhGS3cwbFV0cG8wWlZxNXJmUkZVLTI2NjZHcUpRWjlqUThraQ?oc=5)
 
 ---
 
-### [Beyond ‘bad’ cholesterol: new clues to the risk of heart disease](https://news.google.com/rss/articles/CBMivgFBVV95cUxQN01HQmVyNTZnTzM2Vmo2ejN1SF9uWWpTRndLd2pRUXRWc2V2YldKLWpRd1B3RlRpMUUwOWZ3VmctaWFTR0xDVElRU1ZOQmJ5aEk0eVVGLW1fVVZuLWNwenNQbE5OQm43WUE2dTU5cjVLeU50al9KS0ZwdFoxdWVxQTVjMDRTNEJoX3ZMRk9yeHByLVlmY2ktZGdaVUhwRUJBVkVPcW5BTXM4ck5lcmc3WWxtUG1SVGhqaUltVVJ3?oc=5)
+### [What New Weekly Insulin Means for Type 2 Diabetes - Cleveland Clinic](https://news.google.com/rss/articles/CBMikAFBVV95cUxQREFFeGZlOElYTmJGNlFidFVvay1yZ01tejY2VU1MT0lNZ2RINnROYTNTY3d2azVFX0JrQVlQUklxdm0wcUlrRmNmUGVieDRZX0NLeUpTNHRHd1pRSm5NTU1TWUNJa1lPcGNYY2JQSXhlTjVBU1lkT1N6UzB5VWE0d0l4T05OaWg2ZHdVQkc0a2o?oc=5)
 
-2026-10-13 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+2026-10-19 <span class="news-indication-tag">RA</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxQN01HQmVyNTZnTzM2Vmo2ejN1SF9uWWpTRndLd2pRUXRWc2V2YldKLWpRd1B3RlRpMUUwOWZ3VmctaWFTR0xDVElRU1ZOQmJ5aEk0eVVGLW1fVVZuLWNwenNQbE5OQm43WUE2dTU5cjVLeU50al9KS0ZwdFoxdWVxQTVjMDRTNEJoX3ZMRk9yeHByLVlmY2ktZGdaVUhwRUJBVkVPcW5BTXM4ck5lcmc3WWxtUG1SVGhqaUltVVJ3?oc=5)
+Source: [Cleveland Clinic](https://news.google.com/rss/articles/CBMikAFBVV95cUxQREFFeGZlOElYTmJGNlFidFVvay1yZ01tejY2VU1MT0lNZ2RINnROYTNTY3d2azVFX0JrQVlQUklxdm0wcUlrRmNmUGVieDRZX0NLeUpTNHRHd1pRSm5NTU1TWUNJa1lPcGNYY2JQSXhlTjVBU1lkT1N6UzB5VWE0d0l4T05OaWg2ZHdVQkc0a2o?oc=5)
+
+---
+
+### [International Consensus Addresses GLP-1 RA Use in Pregnancy](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">RA</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
 
 ---
 
