@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (1)
 
-### [A Higher BMI at Dementia Diagnosis is Linked to Lower Mortality Risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
+### [Just 3,000 steps a day may help slow Alzheimer's, scientists find - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzd4U1NheGpQTFd2cTJSdkllZUJhWk5MQUNITU8yMkswQmxPb2tBYTNldTU2MXJGRUdWX0oxXy1mZzlBS0FpWW44ejdEWGtjYS1HSzFBRVluNXQ5OEZ0M0JsRHl3TmI5SnhTS2t6MA?oc=5)
 
-2026-10-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzd4U1NheGpQTFd2cTJSdkllZUJhWk5MQUNITU8yMkswQmxPb2tBYTNldTU2MXJGRUdWX0oxXy1mZzlBS0FpWW44ejdEWGtjYS1HSzFBRVluNXQ5OEZ0M0JsRHl3TmI5SnhTS2t6MA?oc=5)
 
 ---
 

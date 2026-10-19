@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 
 ## Related News (2)
 
-### [AI paves way for more personalised stroke assessments - NR Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUY5anozZk8tQ19xTnA5aWo4ZTJJNERzTEQ0M0prZ3VZalRyVmhUU0tNNXhZX1lodUEwNVlvYUR4TE1Pc1dWWkgwdzF3T2JaeEg4Sm5tWEtLaGtqU3dtSXhScG8yTFhyS2hDOFQzVms0MS03dDJFVDM0U0VFcHAwNWs3MllPckxQUGdtM1Z3?oc=5)
+### [Researchers in Australia develop AI tool to assess stroke risk](https://news.google.com/rss/articles/CBMifEFVX3lxTE1kY1pBT2tMclBreGpMMm9VYUlqNXpBUzJNek9OQWttMHFEWGp6RFYxbHFrQmdSY0ZEYzhRQkJ0cWpXMl95U1Jpbmk4cGdRblpoQzV0ZHl6RjlfaEJPZm5ubm4zOVBXM3gweFBnb05tNmo2RlF0WktPdUlpS0U?oc=5)
 
-2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [NR Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxPTUY5anozZk8tQ19xTnA5aWo4ZTJJNERzTEQ0M0prZ3VZalRyVmhUU0tNNXhZX1lodUEwNVlvYUR4TE1Pc1dWWkgwdzF3T2JaeEg4Sm5tWEtLaGtqU3dtSXhScG8yTFhyS2hDOFQzVms0MS03dDJFVDM0U0VFcHAwNWs3MllPckxQUGdtM1Z3?oc=5)
+Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE1kY1pBT2tMclBreGpMMm9VYUlqNXpBUzJNek9OQWttMHFEWGp6RFYxbHFrQmdSY0ZEYzhRQkJ0cWpXMl95U1Jpbmk4cGdRblpoQzV0ZHl6RjlfaEJPZm5ubm4zOVBXM3gweFBnb05tNmo2RlF0WktPdUlpS0U?oc=5)
 
 ---
 

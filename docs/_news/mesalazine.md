@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>5 news articles</strong>, with 11 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>4 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [UAE develops homegrown technologies for asteroid mission planned for 2028 - TV BRICS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFSMGJyb2lvSmFFaUdxaHFral9IQTBlbmlsUllPT0pzMHFwYnRNbTl4TzJremxXRXliYWZUVlNBQzBrYjEyazdYMVdQMS1kQWZKRndCdF90Z1RHNVdDY1BFdVowcF9Vc1ZZdEpTWXJDVF9XTEI4QlV5OFNhNG9NUWhGS3cwbFV0cG8wWlZxNXJmUkZVLTI2NjZHcUpRWjlqUThraQ?oc=5)
 
@@ -57,14 +57,6 @@ Source: [TV BRICS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFSMGJy
 2026-10-19 <span class="news-indication-tag">RA</span>
 
 Source: [Cleveland Clinic](https://news.google.com/rss/articles/CBMikAFBVV95cUxQREFFeGZlOElYTmJGNlFidFVvay1yZ01tejY2VU1MT0lNZ2RINnROYTNTY3d2azVFX0JrQVlQUklxdm0wcUlrRmNmUGVieDRZX0NLeUpTNHRHd1pRSm5NTU1TWUNJa1lPcGNYY2JQSXhlTjVBU1lkT1N6UzB5VWE0d0l4T05OaWg2ZHdVQkc0a2o?oc=5)
-
----
-
-### [Ageing doesn’t have to slow your knees down, here’s what helps - The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5)
-
-2026-10-15 <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [The New Indian Express](https://news.google.com/rss/articles/CBMivgFBVV95cUxNcmVZcTEyUDNsM3BCcnR0eEZsUmZnQ3M0alJaVEo0aWp3VW1mQktobEVMbC1XeE1zYW14SXhqOG1UbXd4SnlQOHl1UGpzSHlCSWZWcnBCZGpmY0dqYVhnRm5CaFFjRlQ3b29YT3YtZVNsTS1icWxDTnM0QXNja1lONnl0Rlo2c0N6UmNqLUYtbldfekRKRk5TU1FDNUMwNFh4bkFmZWxEMy11UE4xamxQTmpkelhBTm11Mk1pT3dR0gHLAUFVX3lxTFB4aWN2SHNraF9XRVJqSlg0VUlmd09iYlhITkxONkYwYWRLX0Y4UlN0UkxscktSSjVCaHJ2OWFfWFNSMVhOMnJYV1l2a2hQQlhDSU1nRDZLMzllZ1ItWmRKUEVkUUZzaFdTclA3UE4wN3hac1NUYi1oV0pWS2c4Y2xzLUlpLVloLURBODJSSUxVU0doakxGcUFwend2SFNQX0FqZ3RhQ01QV2pRaDNybGxSMXlfcFY4RFp5dGh0ejZ6LVE1eTRWT3Q5M2Nv?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>8 news articles</strong>, with 5 predicted indications.
+<strong>Albendazole</strong> currently has <strong>11 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,45 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (11)
 
-### [MEDICAL MONDAY: Breast cancer diagnoses rising among younger women, doctors emphasize importance of family history](https://news.google.com/rss/articles/CBMipAJBVV95cUxPaFoxam9qUFg4eVIzN0tJN2VPdEJNdlV5RUxjYjdCOG0wWmM1S3EwNE5BUG9QSC11RGQwbDc4UmJyWmFoejktZFZpdEVHMWNsRWFMUFZWUTVHWVMzUW1wNDZPNlM4elVjNnJOWkRqQTU2dGR2YXJHWFZ5QldHejhWZUhHUWpaREoxVGIwWF9KWm1nRHZaUTBhalJRTTZpM1F3b2NENXVScTFqbEZQS1dYU2hOYkMzNGtTaTZIVVZmQnFkbElPMHRnX3pLTGFuQzFhTUFndnFieVdrTEJTeGtDSHhNUVlSNnhzeFdkWGIzWWhsRWVHU25aNHdNSmxWMnBBUjdDTWVhV0tBRGU2Y3BsVU1LcmlFbE9VSUFkcm1qRUlzbVdZ?oc=5)
+### [Researchers capture clear images of complex cancer drug building enzyme](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [A shot at a cervical cancer-free generation | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
+
+---
+
+### [Just 3,000 steps a day may help slow Alzheimer's, scientists find - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzd4U1NheGpQTFd2cTJSdkllZUJhWk5MQUNITU8yMkswQmxPb2tBYTNldTU2MXJGRUdWX0oxXy1mZzlBS0FpWW44ejdEWGtjYS1HSzFBRVluNXQ5OEZ0M0JsRHl3TmI5SnhTS2t6MA?oc=5)
+
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzd4U1NheGpQTFd2cTJSdkllZUJhWk5MQUNITU8yMkswQmxPb2tBYTNldTU2MXJGRUdWX0oxXy1mZzlBS0FpWW44ejdEWGtjYS1HSzFBRVluNXQ5OEZ0M0JsRHl3TmI5SnhTS2t6MA?oc=5)
+
+---
+
+### [Near-infrared-responsive thia-hexaphyrin-based covalent organic frameworks for cancer phototherapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS0R3RmJvYW52dU56TE94dnJickpkVFRDSktHWFFBRTd4OE1aZ3VTNTFwSjZLR3FMdDNCTGszUHRuZG03Nk9ZMHFWSmFETnduNVNrNXBBQ2pjNGpIZ0dv?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS0R3RmJvYW52dU56TE94dnJickpkVFRDSktHWFFBRTd4OE1aZ3VTNTFwSjZLR3FMdDNCTGszUHRuZG03Nk9ZMHFWSmFETnduNVNrNXBBQ2pjNGpIZ0dv?oc=5)
+
+---
+
+### [Nearly 1 In 2 Breast Cancer Patients In India Are Under 50: Are Women Missing The Warning Signs? - Times Now](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdhSjJxVm9QU1ZDSnB6cnlxMS1WSUtTTHBVazQxaGU5cnF3cFd1a0ZMb2pyVWozS01fRVNFNFBUT1dYU05FV3dTZHZJTklUb2gzVkxtRmhVNklTYi1tbjJfdE41SDBLUEFTUjhydFc4OWNra0xCR2tHOTRSYkdHWDFCbTRwVVExYzByNXozaVZfNmlyWWtXQjExR2Z5eVFFYjRVb3pKWE1TY2JXdjRuV3dn0gG3AUFVX3lxTE1lSDNaUmxxN25UcEZWSHQ1aldBaVo5LVJSb0tsUGNBZGNjTnJ2c1JyZjhtdV92QW1HNmttaGRmTWdBUDhnZGlNaE1CQ3VpeGpZcnlTWG9UTXdyd21BWTVMTUIxcms2NjgxTVpQOWVqelRxYlhPS0ZVMmtrdjEtYkM0MklraXJyc1hzWkZ6OU15NzNxbGVhVFVUQVlCeTEzcnMzWWxzTFFDMnZCbndpVkg2VEVjS1ZHMA?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [WXOW](https://news.google.com/rss/articles/CBMipAJBVV95cUxPaFoxam9qUFg4eVIzN0tJN2VPdEJNdlV5RUxjYjdCOG0wWmM1S3EwNE5BUG9QSC11RGQwbDc4UmJyWmFoejktZFZpdEVHMWNsRWFMUFZWUTVHWVMzUW1wNDZPNlM4elVjNnJOWkRqQTU2dGR2YXJHWFZ5QldHejhWZUhHUWpaREoxVGIwWF9KWm1nRHZaUTBhalJRTTZpM1F3b2NENXVScTFqbEZQS1dYU2hOYkMzNGtTaTZIVVZmQnFkbElPMHRnX3pLTGFuQzFhTUFndnFieVdrTEJTeGtDSHhNUVlSNnhzeFdkWGIzWWhsRWVHU25aNHdNSmxWMnBBUjdDTWVhV0tBRGU2Y3BsVU1LcmlFbE9VSUFkcm1qRUlzbVdZ?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdhSjJxVm9QU1ZDSnB6cnlxMS1WSUtTTHBVazQxaGU5cnF3cFd1a0ZMb2pyVWozS01fRVNFNFBUT1dYU05FV3dTZHZJTklUb2gzVkxtRmhVNklTYi1tbjJfdE41SDBLUEFTUjhydFc4OWNra0xCR2tHOTRSYkdHWDFCbTRwVVExYzByNXozaVZfNmlyWWtXQjExR2Z5eVFFYjRVb3pKWE1TY2JXdjRuV3dn0gG3AUFVX3lxTE1lSDNaUmxxN25UcEZWSHQ1aldBaVo5LVJSb0tsUGNBZGNjTnJ2c1JyZjhtdV92QW1HNmttaGRmTWdBUDhnZGlNaE1CQ3VpeGpZcnlTWG9UTXdyd21BWTVMTUIxcms2NjgxTVpQOWVqelRxYlhPS0ZVMmtrdjEtYkM0MklraXJyc1hzWkZ6OU15NzNxbGVhVFVUQVlCeTEzcnMzWWxzTFFDMnZCbndpVkg2VEVjS1ZHMA?oc=5)
 
 ---
 
@@ -72,7 +104,7 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFB
 
 ### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
+2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
@@ -88,17 +120,9 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeHViZkxadDlJ
 
 ### [Early detection key to treatment, says doctor on rising cancer cases - The Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xEMGNIQlMyVk54OGw4eGRZaVhVWDhYN0d0WHVVcWN1ZXRQLU5EdGFiMlpqTUxJZVRHSVMyWFNHM1dqbXRCYXA5YTltU3Z0MHJvZC1QZVplMDVjNlU1dnV1VVUzbEpNcktxM2FHbTN1N2czS0YtNlhOaEk0TlFYWlppMGRwbzg0V21LWWRQWjNidXBjaGUxOVhpZTU0LUxxdUV1RlFyS3ZNcWg50gGwAUFVX3lxTE1OWlNpbko3STdGX1pNeW5uaEtWU21iZmNJS0JEQXBWck5yY1ktbzhGRmpITjBXR2lFOUZDT3NENkduVzVhY0RobmVLQ1Jna1l2UU02WGNRcjNBMEpOb1ZSS0V4Nk8xRWVTdjF4WTU2Nm9GSHdiYWVPTjNuR1NqT0ZGQ3c2TWhEYXJrVi05Q3dhOWJBc3ZEc21hYXkwS0xoaDlzS0dHYmtRNG1fMWM5VnVH?oc=5)
 
-2026-10-14 <span class="news-indication-tag">cancer</span>
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xEMGNIQlMyVk54OGw4eGRZaVhVWDhYN0d0WHVVcWN1ZXRQLU5EdGFiMlpqTUxJZVRHSVMyWFNHM1dqbXRCYXA5YTltU3Z0MHJvZC1QZVplMDVjNlU1dnV1VVUzbEpNcktxM2FHbTN1N2czS0YtNlhOaEk0TlFYWlppMGRwbzg0V21LWWRQWjNidXBjaGUxOVhpZTU0LUxxdUV1RlFyS3ZNcWg50gGwAUFVX3lxTE1OWlNpbko3STdGX1pNeW5uaEtWU21iZmNJS0JEQXBWck5yY1ktbzhGRmpITjBXR2lFOUZDT3NENkduVzVhY0RobmVLQ1Jna1l2UU02WGNRcjNBMEpOb1ZSS0V4Nk8xRWVTdjF4WTU2Nm9GSHdiYWVPTjNuR1NqT0ZGQ3c2TWhEYXJrVi05Q3dhOWJBc3ZEc21hYXkwS0xoaDlzS0dHYmtRNG1fMWM5VnVH?oc=5)
-
----
-
-### [A Higher BMI at Dementia Diagnosis is Linked to Lower Mortality Risk](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGhvc1N4VEJ0eS1OQ21hcGhKUDUzR2R4cG9nM3M4TU96WHRKc2RIck1BSS1kekFIeTYwYVdlcEEyNlBjN002TWROSXZnM3kwLUc5RWh1bDQ5YVE2M1dNMkJQU09OTEh5UnBpQkR4YXRCeGlKQU5VcDNTbEVFM1FLUWluWkd4TXBoXzB5NEpjUFh1WmVWN2RMWnZYNkJFZUlnYWtUcnZxMk1ucFJkVzJqRQ?oc=5)
 
 ---
 

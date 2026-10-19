@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Anti-Inflammatory Effects of GLP-1 Medications in Psoriasis and Obesity - Dermatology Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWY4UTg0MUZzTGsydFdPMmR3TlRwX0VERUFRaEpQY19GTnl4Skt0ZXJ0eXN4ak56WkFwVWlhN0ZBUDVJQWdUNy1EdS1MN2Z5STFBU2ttSWRJOW1QakpaeDhCbkdLakRLSEZnc3ZTaXVyN0x1OXhnVEt6NTJnTnFjbDQxTkMzWkJPM0cyQklMd0UzdFdnMEpzVm9ZWGI5QVp4Y0tNYUp6WVh6Ni1RQlE?oc=5)
+
+2026-10-19 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Dermatology Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWY4UTg0MUZzTGsydFdPMmR3TlRwX0VERUFRaEpQY19GTnl4Skt0ZXJ0eXN4ak56WkFwVWlhN0ZBUDVJQWdUNy1EdS1MN2Z5STFBU2ttSWRJOW1QakpaeDhCbkdLakRLSEZnc3ZTaXVyN0x1OXhnVEt6NTJnTnFjbDQxTkMzWkJPM0cyQklMd0UzdFdnMEpzVm9ZWGI5QVp4Y0tNYUp6WVh6Ni1RQlE?oc=5)
+
+---
 
 
 <div class="disclaimer">
