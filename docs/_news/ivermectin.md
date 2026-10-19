@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 
 ### [Ayush ministry pushes menopause awareness and women’s health - Awaz The Voice](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2tRMVZZOVI4UnlnYjM0REIxakwwS1BiSGNmSk1meFNGekJKSUhxWUFZT2piOFJmUHhuaEF1Sk92dThSUUZnWjFNdkI5aTM3RXlNUFhJRnVmcWNUcUdORktDUkRpRXZpOVdVM1BzckVKeUdwSlpmSllPVmpEaXNvcVNoRF85VHZfUUx0RUV4T3dWcTVHNk1pTFk2MHhvdDBpWHFUV1NhMmlFVUpCWm5jNQ?oc=5)
 
-2026-10-19 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-10-19 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2tRMVZZOVI4UnlnYjM0REIxakwwS1BiSGNmSk1meFNGekJKSUhxWUFZT2piOFJmUHhuaEF1Sk92dThSUUZnWjFNdkI5aTM3RXlNUFhJRnVmcWNUcUdORktDUkRpRXZpOVdVM1BzckVKeUdwSlpmSllPVmpEaXNvcVNoRF85VHZfUUx0RUV4T3dWcTVHNk1pTFk2MHhvdDBpWHFUV1NhMmlFVUpCWm5jNQ?oc=5)
 

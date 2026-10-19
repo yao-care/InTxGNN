@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>14 news articles</strong>, with 5 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Researchers use mitochondrial uncouplers to target breast cancer metastasis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+
+---
 
 ### [Researchers capture clear images of complex cancer drug building enzyme](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
 
@@ -60,14 +68,6 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOe
 2026-10-19 <span class="news-indication-tag">RA</span>
 
 Source: [TV BRICS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFSMGJyb2lvSmFFaUdxaHFral9IQTBlbmlsUllPT0pzMHFwYnRNbTl4TzJremxXRXliYWZUVlNBQzBrYjEyazdYMVdQMS1kQWZKRndCdF90Z1RHNVdDY1BFdVowcF9Vc1ZZdEpTWXJDVF9XTEI4QlV5OFNhNG9NUWhGS3cwbFV0cG8wWlZxNXJmUkZVLTI2NjZHcUpRWjlqUThraQ?oc=5)
-
----
-
-### [Near-infrared-responsive thia-hexaphyrin-based covalent organic frameworks for cancer phototherapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS0R3RmJvYW52dU56TE94dnJickpkVFRDSktHWFFBRTd4OE1aZ3VTNTFwSjZLR3FMdDNCTGszUHRuZG03Nk9ZMHFWSmFETnduNVNrNXBBQ2pjNGpIZ0dv?oc=5)
-
-2026-10-19 <span class="news-indication-tag">cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS0R3RmJvYW52dU56TE94dnJickpkVFRDSktHWFFBRTd4OE1aZ3VTNTFwSjZLR3FMdDNCTGszUHRuZG03Nk9ZMHFWSmFETnduNVNrNXBBQ2pjNGpIZ0dv?oc=5)
 
 ---
 
@@ -103,6 +103,14 @@ Source: [The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV
 
 ---
 
+### [Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
+
+---
+
 ### [Liquid biopsy and mammography: a perfect match for breast cancer detection?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
 
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -116,6 +124,14 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFB
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
+
+---
+
+### [Her severe pregnancy heartburn turned out to be colon cancer: A Texas mother’s stage 3 diagnosis reveals - The Times of India](https://news.google.com/rss/articles/CBMijwNBVV95cUxQSmswd19PczV2bjNTX1E1d21XazlCZlVObmtqbWxTVjVlNUtvZnF6ajc3R3JCbGk3QzF2a3k2WkJHRWxva1dhMHZUWVA2ZUlLNzFJZU1XSFA5TWpDMDRUeTRId0lTNFpUaWs0bHd6QkpFc3AwdzlXcUxlMjRwaDFzZTNXS09LRXhac3REaHpBWHRXUVVMc1AzWEVKRGJFZm5sbnN1bFVudXRvdDJwVFJ2SUNfUzFpUXE2WHJOVGhkV0V2ZWxQNHd1djlOZmgxNGEzMnhsR0dHOXptVW1NNmYtV1VfbFlmczlxX1hRRnJRYi10bVYxdnVFYTh2T2tNV3NOU3g5TWFQc3JGZUlvUXBDTm10SzB2ZkJqTnktdlJyMkVRSmtnOWt1NkVieVpERFpuOHpyQUoxWngtbWpyOG5CeHpZYllzMWNwMXJEUEE1cXBmaWRqZ1VzLWJVd3g4OTEwMGlLOFQzVHlHRXhDdnZyb1ZtN1FubVE5bENDSjg2cFo0UWlsMTkyVkVGakNuTGfSAZQDQVVfeXFMT3JGM2NUYXE4WUx0bGo3dS1BaVJ4UkxOUnJ4U2RzdlNTOTFnZnVXdzdGVWxpcFBGSVBhU1pFS1dpWHhwLUhTdGROckdDWTlPRmJ0UFRaSUl0Xy12ektFaXdJcDRqNE55VGdBUHczdTlXLU9ySXlBd2NyT1hXc3pLQmFOeXJwNmozNG5FVC1Qd2lXSU53RXFaRXRQSTJDNUVDa284VDQ0Y3hnYXhZTkhOR2I4TTVYd1VlZHJlMnZoUDZ5a18wcDRwWWdqeDloSmhjVTRMWGotZnRNUTVERlVmam03eExVNnN4WV9taU8tWjNnVGNCdWxfUFc4YWVUcW85Y1RSa3RnbFlIckNCMXVwNnYxMzdzY2lsU2REVTk4bDVvallGdVItTjRSUW1wRlJzeEIwR054RG1HdTJwVkJmM0YtT3lQMmRHUk16QmVOQ2FnelJJRWhYU2tTQVBxRHpEOFp3Sng5VVVRYkRPNXdwUFFxemNkLU9oOEJiLWlmTmVjS0dTUFZadEliMnRQbGNZbkJDRU4?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMijwNBVV95cUxQSmswd19PczV2bjNTX1E1d21XazlCZlVObmtqbWxTVjVlNUtvZnF6ajc3R3JCbGk3QzF2a3k2WkJHRWxva1dhMHZUWVA2ZUlLNzFJZU1XSFA5TWpDMDRUeTRId0lTNFpUaWs0bHd6QkpFc3AwdzlXcUxlMjRwaDFzZTNXS09LRXhac3REaHpBWHRXUVVMc1AzWEVKRGJFZm5sbnN1bFVudXRvdDJwVFJ2SUNfUzFpUXE2WHJOVGhkV0V2ZWxQNHd1djlOZmgxNGEzMnhsR0dHOXptVW1NNmYtV1VfbFlmczlxX1hRRnJRYi10bVYxdnVFYTh2T2tNV3NOU3g5TWFQc3JGZUlvUXBDTm10SzB2ZkJqTnktdlJyMkVRSmtnOWt1NkVieVpERFpuOHpyQUoxWngtbWpyOG5CeHpZYllzMWNwMXJEUEE1cXBmaWRqZ1VzLWJVd3g4OTEwMGlLOFQzVHlHRXhDdnZyb1ZtN1FubVE5bENDSjg2cFo0UWlsMTkyVkVGakNuTGfSAZQDQVVfeXFMT3JGM2NUYXE4WUx0bGo3dS1BaVJ4UkxOUnJ4U2RzdlNTOTFnZnVXdzdGVWxpcFBGSVBhU1pFS1dpWHhwLUhTdGROckdDWTlPRmJ0UFRaSUl0Xy12ektFaXdJcDRqNE55VGdBUHczdTlXLU9ySXlBd2NyT1hXc3pLQmFOeXJwNmozNG5FVC1Qd2lXSU53RXFaRXRQSTJDNUVDa284VDQ0Y3hnYXhZTkhOR2I4TTVYd1VlZHJlMnZoUDZ5a18wcDRwWWdqeDloSmhjVTRMWGotZnRNUTVERlVmam03eExVNnN4WV9taU8tWjNnVGNCdWxfUFc4YWVUcW85Y1RSa3RnbFlIckNCMXVwNnYxMzdzY2lsU2REVTk4bDVvallGdVItTjRSUW1wRlJzeEIwR054RG1HdTJwVkJmM0YtT3lQMmRHUk16QmVOQ2FnelJJRWhYU2tTQVBxRHpEOFp3Sng5VVVRYkRPNXdwUFFxemNkLU9oOEJiLWlmTmVjS0dTUFZadEliMnRQbGNZbkJDRU4?oc=5)
 
 ---
 
@@ -140,14 +156,6 @@ Source: [The Tribune](https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xEM
 2026-10-14 <span class="news-indication-tag">RA</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
-
----
-
-### [Oral and lung microbiome differs drastically in long Covid patients](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUh5eWlLanc0TTJaZUJjaldBbUdLUUc2SkZxemxQQk91NWVHY0JHbXRxS3J1bGI4U2h3U1pSVHFVcGFuOGVxVnJQbE85Q0h6a2lIYjJGT3JFLWdYLWVzOTcwQ0N3SmlpY3FjTWFxa194RmliSm12bnJwdVlGMF91bmxQYw?oc=5)
-
-2026-10-13 <span class="news-indication-tag">RA</span>
-
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUh5eWlLanc0TTJaZUJjaldBbUdLUUc2SkZxemxQQk91NWVHY0JHbXRxS3J1bGI4U2h3U1pSVHFVcGFuOGVxVnJQbE85Q0h6a2lIYjJGT3JFLWdYLWVzOTcwQ0N3SmlpY3FjTWFxa194RmliSm12bnJwdVlGMF91bmxQYw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 3 articles, 23 related drugs."
+description: "Health news about menopause. 2 articles, 23 related drugs."
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,15 +43,7 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (3)
-
-### [Ayush ministry pushes menopause awareness and women’s health - Awaz The Voice](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2tRMVZZOVI4UnlnYjM0REIxakwwS1BiSGNmSk1meFNGekJKSUhxWUFZT2piOFJmUHhuaEF1Sk92dThSUUZnWjFNdkI5aTM3RXlNUFhJRnVmcWNUcUdORktDUkRpRXZpOVdVM1BzckVKeUdwSlpmSllPVmpEaXNvcVNoRF85VHZfUUx0RUV4T3dWcTVHNk1pTFk2MHhvdDBpWHFUV1NhMmlFVUpCWm5jNQ?oc=5)
-
-2026-10-19
-
-Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2tRMVZZOVI4UnlnYjM0REIxakwwS1BiSGNmSk1meFNGekJKSUhxWUFZT2piOFJmUHhuaEF1Sk92dThSUUZnWjFNdkI5aTM3RXlNUFhJRnVmcWNUcUdORktDUkRpRXZpOVdVM1BzckVKeUdwSlpmSllPVmpEaXNvcVNoRF85VHZfUUx0RUV4T3dWcTVHNk1pTFk2MHhvdDBpWHFUV1NhMmlFVUpCWm5jNQ?oc=5)
-
----
+## Related News (2)
 
 ### [Ayush ministry pushes menopause awareness and women’s health - Awaz The Voice](https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2tRMVZZOVI4UnlnYjM0REIxakwwS1BiSGNmSk1meFNGekJKSUhxWUFZT2piOFJmUHhuaEF1Sk92dThSUUZnWjFNdkI5aTM3RXlNUFhJRnVmcWNUcUdORktDUkRpRXZpOVdVM1BzckVKeUdwSlpmSllPVmpEaXNvcVNoRF85VHZfUUx0RUV4T3dWcTVHNk1pTFk2MHhvdDBpWHFUV1NhMmlFVUpCWm5jNQ?oc=5)
 

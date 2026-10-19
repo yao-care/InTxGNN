@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>5 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Researchers use mitochondrial uncouplers to target breast cancer metastasis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+
+2026-10-19
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+
+---
 
 ### [Nearly 1 In 2 Breast Cancer Patients In India Are Under 50: Are Women Missing The Warning Signs? - Times Now](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdhSjJxVm9QU1ZDSnB6cnlxMS1WSUtTTHBVazQxaGU5cnF3cFd1a0ZMb2pyVWozS01fRVNFNFBUT1dYU05FV3dTZHZJTklUb2gzVkxtRmhVNklTYi1tbjJfdE41SDBLUEFTUjhydFc4OWNra0xCR2tHOTRSYkdHWDFCbTRwVVExYzByNXozaVZfNmlyWWtXQjExR2Z5eVFFYjRVb3pKWE1TY2JXdjRuV3dn0gG3AUFVX3lxTE1lSDNaUmxxN25UcEZWSHQ1aldBaVo5LVJSb0tsUGNBZGNjTnJ2c1JyZjhtdV92QW1HNmttaGRmTWdBUDhnZGlNaE1CQ3VpeGpZcnlTWG9UTXdyd21BWTVMTUIxcms2NjgxTVpQOWVqelRxYlhPS0ZVMmtrdjEtYkM0MklraXJyc1hzWkZ6OU15NzNxbGVhVFVUQVlCeTEzcnMzWWxzTFFDMnZCbndpVkg2VEVjS1ZHMA?oc=5)
 

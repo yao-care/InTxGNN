@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 10 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 12 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>10 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>12 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -238,7 +238,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Researchers use mitochondrial uncouplers to target breast cancer metastasis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+
+2026-10-19
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+
+---
 
 ### [Researchers capture clear images of complex cancer drug building enzyme](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
 
@@ -253,14 +261,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RI
 2026-10-19
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
-
----
-
-### [Near-infrared-responsive thia-hexaphyrin-based covalent organic frameworks for cancer phototherapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS0R3RmJvYW52dU56TE94dnJickpkVFRDSktHWFFBRTd4OE1aZ3VTNTFwSjZLR3FMdDNCTGszUHRuZG03Nk9ZMHFWSmFETnduNVNrNXBBQ2pjNGpIZ0dv?oc=5)
-
-2026-10-19
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMS0R3RmJvYW52dU56TE94dnJickpkVFRDSktHWFFBRTd4OE1aZ3VTNTFwSjZLR3FMdDNCTGszUHRuZG03Nk9ZMHFWSmFETnduNVNrNXBBQ2pjNGpIZ0dv?oc=5)
 
 ---
 
@@ -288,6 +288,14 @@ Source: [The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV
 
 ---
 
+### [Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
+
+2026-10-18
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
+
+---
+
 ### [Liquid biopsy and mammography: a perfect match for breast cancer detection?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
 
 2026-10-18
@@ -301,6 +309,14 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFB
 2026-10-18
 
 Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
+
+---
+
+### [Her severe pregnancy heartburn turned out to be colon cancer: A Texas mother’s stage 3 diagnosis reveals - The Times of India](https://news.google.com/rss/articles/CBMijwNBVV95cUxQSmswd19PczV2bjNTX1E1d21XazlCZlVObmtqbWxTVjVlNUtvZnF6ajc3R3JCbGk3QzF2a3k2WkJHRWxva1dhMHZUWVA2ZUlLNzFJZU1XSFA5TWpDMDRUeTRId0lTNFpUaWs0bHd6QkpFc3AwdzlXcUxlMjRwaDFzZTNXS09LRXhac3REaHpBWHRXUVVMc1AzWEVKRGJFZm5sbnN1bFVudXRvdDJwVFJ2SUNfUzFpUXE2WHJOVGhkV0V2ZWxQNHd1djlOZmgxNGEzMnhsR0dHOXptVW1NNmYtV1VfbFlmczlxX1hRRnJRYi10bVYxdnVFYTh2T2tNV3NOU3g5TWFQc3JGZUlvUXBDTm10SzB2ZkJqTnktdlJyMkVRSmtnOWt1NkVieVpERFpuOHpyQUoxWngtbWpyOG5CeHpZYllzMWNwMXJEUEE1cXBmaWRqZ1VzLWJVd3g4OTEwMGlLOFQzVHlHRXhDdnZyb1ZtN1FubVE5bENDSjg2cFo0UWlsMTkyVkVGakNuTGfSAZQDQVVfeXFMT3JGM2NUYXE4WUx0bGo3dS1BaVJ4UkxOUnJ4U2RzdlNTOTFnZnVXdzdGVWxpcFBGSVBhU1pFS1dpWHhwLUhTdGROckdDWTlPRmJ0UFRaSUl0Xy12ektFaXdJcDRqNE55VGdBUHczdTlXLU9ySXlBd2NyT1hXc3pLQmFOeXJwNmozNG5FVC1Qd2lXSU53RXFaRXRQSTJDNUVDa284VDQ0Y3hnYXhZTkhOR2I4TTVYd1VlZHJlMnZoUDZ5a18wcDRwWWdqeDloSmhjVTRMWGotZnRNUTVERlVmam03eExVNnN4WV9taU8tWjNnVGNCdWxfUFc4YWVUcW85Y1RSa3RnbFlIckNCMXVwNnYxMzdzY2lsU2REVTk4bDVvallGdVItTjRSUW1wRlJzeEIwR054RG1HdTJwVkJmM0YtT3lQMmRHUk16QmVOQ2FnelJJRWhYU2tTQVBxRHpEOFp3Sng5VVVRYkRPNXdwUFFxemNkLU9oOEJiLWlmTmVjS0dTUFZadEliMnRQbGNZbkJDRU4?oc=5)
+
+2026-10-17
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMijwNBVV95cUxQSmswd19PczV2bjNTX1E1d21XazlCZlVObmtqbWxTVjVlNUtvZnF6ajc3R3JCbGk3QzF2a3k2WkJHRWxva1dhMHZUWVA2ZUlLNzFJZU1XSFA5TWpDMDRUeTRId0lTNFpUaWs0bHd6QkpFc3AwdzlXcUxlMjRwaDFzZTNXS09LRXhac3REaHpBWHRXUVVMc1AzWEVKRGJFZm5sbnN1bFVudXRvdDJwVFJ2SUNfUzFpUXE2WHJOVGhkV0V2ZWxQNHd1djlOZmgxNGEzMnhsR0dHOXptVW1NNmYtV1VfbFlmczlxX1hRRnJRYi10bVYxdnVFYTh2T2tNV3NOU3g5TWFQc3JGZUlvUXBDTm10SzB2ZkJqTnktdlJyMkVRSmtnOWt1NkVieVpERFpuOHpyQUoxWngtbWpyOG5CeHpZYllzMWNwMXJEUEE1cXBmaWRqZ1VzLWJVd3g4OTEwMGlLOFQzVHlHRXhDdnZyb1ZtN1FubVE5bENDSjg2cFo0UWlsMTkyVkVGakNuTGfSAZQDQVVfeXFMT3JGM2NUYXE4WUx0bGo3dS1BaVJ4UkxOUnJ4U2RzdlNTOTFnZnVXdzdGVWxpcFBGSVBhU1pFS1dpWHhwLUhTdGROckdDWTlPRmJ0UFRaSUl0Xy12ektFaXdJcDRqNE55VGdBUHczdTlXLU9ySXlBd2NyT1hXc3pLQmFOeXJwNmozNG5FVC1Qd2lXSU53RXFaRXRQSTJDNUVDa284VDQ0Y3hnYXhZTkhOR2I4TTVYd1VlZHJlMnZoUDZ5a18wcDRwWWdqeDloSmhjVTRMWGotZnRNUTVERlVmam03eExVNnN4WV9taU8tWjNnVGNCdWxfUFc4YWVUcW85Y1RSa3RnbFlIckNCMXVwNnYxMzdzY2lsU2REVTk4bDVvallGdVItTjRSUW1wRlJzeEIwR054RG1HdTJwVkJmM0YtT3lQMmRHUk16QmVOQ2FnelJJRWhYU2tTQVBxRHpEOFp3Sng5VVVRYkRPNXdwUFFxemNkLU9oOEJiLWlmTmVjS0dTUFZadEliMnRQbGNZbkJDRU4?oc=5)
 
 ---
 

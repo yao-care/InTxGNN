@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 4 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>4 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,7 +49,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [UAE develops homegrown technologies for asteroid mission planned for 2028 - TV BRICS](https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjFSMGJyb2lvSmFFaUdxaHFral9IQTBlbmlsUllPT0pzMHFwYnRNbTl4TzJremxXRXliYWZUVlNBQzBrYjEyazdYMVdQMS1kQWZKRndCdF90Z1RHNVdDY1BFdVowcF9Vc1ZZdEpTWXJDVF9XTEI4QlV5OFNhNG9NUWhGS3cwbFV0cG8wWlZxNXJmUkZVLTI2NjZHcUpRWjlqUThraQ?oc=5)
 
@@ -72,14 +72,6 @@ Source: [Cleveland Clinic](https://news.google.com/rss/articles/CBMikAFBVV95cUxQ
 2026-10-14
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1NNci1qYXRmN3NPc0FyZm9JeVhTajlKXzR5T0RHMFRRNldZeVhHS0pIUWJuazR6U3p6REdIdVotZ2JtUFZldk1nUkRUd3RfNC1TeU4tZlByVkpTZ3lBdWN3NGFjT0pObWpwa2JBZHJxR3FhckRIWlpNaU12SFEwZzN0Rm9BZGhrR3RJbjhlZkdhSFZCTU9XbkVJV1lxbDFiVFlkTXlPb0dHUQ?oc=5)
-
----
-
-### [Oral and lung microbiome differs drastically in long Covid patients](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUh5eWlLanc0TTJaZUJjaldBbUdLUUc2SkZxemxQQk91NWVHY0JHbXRxS3J1bGI4U2h3U1pSVHFVcGFuOGVxVnJQbE85Q0h6a2lIYjJGT3JFLWdYLWVzOTcwQ0N3SmlpY3FjTWFxa194RmliSm12bnJwdVlGMF91bmxQYw?oc=5)
-
-2026-10-13
-
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUh5eWlLanc0TTJaZUJjaldBbUdLUUc2SkZxemxQQk91NWVHY0JHbXRxS3J1bGI4U2h3U1pSVHFVcGFuOGVxVnJQbE85Q0h6a2lIYjJGT3JFLWdYLWVzOTcwQ0N3SmlpY3FjTWFxa194RmliSm12bnJwdVlGMF91bmxQYw?oc=5)
 
 ---
 
