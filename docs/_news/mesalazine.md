@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>3 news articles</strong>, with 11 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>2 news articles</strong>, with 11 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Noisy knees could mean wear and tear on the joint - The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
 
 2026-10-17 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
-
----
-
-### [Experts Recommend Ways To Stretch Vaccine Supplies In Face Of Dwindling Budgets - Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Health Policy Watch](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlNVSVJIemZNTHdwWTNTbG9iS1BBdjg1RUhSSG9Bd195UVA1alRiVmpfdk9nS1lnWl9sMWtEZWk3bnYzdkpNaWt2SnNJWUN3VmUtemRXd2kyN01vWGJMSWw3VlI5akdSNWlrS25sNlJQM1dRd2t4ZTdSazF3R0lfY2xmWEtjMnFwekZ1NVNZNG1ZRXA5ZUEwMzc3M0Z5aVYySUNoaElkYi1fSmlud3FzeWZ3?oc=5)
 
 ---
 

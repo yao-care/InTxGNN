@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,21 +28,13 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Bengaluru's ramya anche becomes principal investigator of NASA mission: She will lead the 168-crore mission... - Bhaskar English](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUxVRkFZc25EWlBKNk9vZ2lyRXJISFcyWGpNdGtVRWNBVlZNaDM2X05HZ0tneUxaTTREeFVmYVhLOWxYc3FXSDdRLVRab19fU1BGMkFma0Z1SGJYZ1pZTm0zNW5hbWxNakFqdVA4cWYweF8yVkJkU0J3elhkTUFBTEJ0VzFLY05ub2JlUlBxTUtCazdITHZjLXZYdWw5Q19PNUVSbGhPNHM4V3FIN1ZQUlJJd0YyNW93Q0hNMENTTVRxTlHSAcgBQVVfeXFMUHNnYnJMMzRxazNxS3hDUE1VeElqRGtfMW1VSGZrcFNmOXRGX28xVUVCQkZMd3hYQjU3bUtmYTR2bzBoYTNoeFRRbGdjME9MOHRZRC16RjVBWGgtU000bkRnWE9DRnd6X2VEc20zZTdUR3VaYjNzeVRVX1BmdlFuaDVKam9MTktJREQ3ZG1NUlUwMGRPc2FuZV9RZjM1ZGlPOWVsSzIyd2djT1ozOVUxV3QwVmJodVhCNGRKVndhTWNNSXEtanJSVW4?oc=5)
 
 2026-10-18 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
 
 Source: [Bhaskar English](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZUxVRkFZc25EWlBKNk9vZ2lyRXJISFcyWGpNdGtVRWNBVlZNaDM2X05HZ0tneUxaTTREeFVmYVhLOWxYc3FXSDdRLVRab19fU1BGMkFma0Z1SGJYZ1pZTm0zNW5hbWxNakFqdVA4cWYweF8yVkJkU0J3elhkTUFBTEJ0VzFLY05ub2JlUlBxTUtCazdITHZjLXZYdWw5Q19PNUVSbGhPNHM4V3FIN1ZQUlJJd0YyNW93Q0hNMENTTVRxTlHSAcgBQVVfeXFMUHNnYnJMMzRxazNxS3hDUE1VeElqRGtfMW1VSGZrcFNmOXRGX28xVUVCQkZMd3hYQjU3bUtmYTR2bzBoYTNoeFRRbGdjME9MOHRZRC16RjVBWGgtU000bkRnWE9DRnd6X2VEc20zZTdUR3VaYjNzeVRVX1BmdlFuaDVKam9MTktJREQ3ZG1NUlUwMGRPc2FuZV9RZjM1ZGlPOWVsSzIyd2djT1ozOVUxV3QwVmJodVhCNGRKVndhTWNNSXEtanJSVW4?oc=5)
-
----
-
-### [De novo design of cysteine proteases](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
-
-2026-10-14 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
 
 ---
 

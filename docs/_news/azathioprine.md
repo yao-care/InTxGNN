@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Warning signs could predict inflammatory bowel disease a decade before diagnosis - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJmZjlXQXVRR28yU2pNUnk4dEg1UFlEaHlMdm54ckx3c29JSk5IVVByTVVzQU1wc3BjdzVJcm8xQ1F5Q09QbjZCQmFMZWJoS085WFRYeUEtQXBVOWN3UEJQOE9HNkdZbk9TMUVlSGkzTDR6dlFrRVJxY2NsTWFfQkVHNjl5ay0xd1pEVmgtdWNDNGp1b3BUS0R6cjZLWlRPb3YwZlNadnRuenlVV2FrNFZGV21iUQ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">inflammatory bowel disease</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJmZjlXQXVRR28yU2pNUnk4dEg1UFlEaHlMdm54ckx3c29JSk5IVVByTVVzQU1wc3BjdzVJcm8xQ1F5Q09QbjZCQmFMZWJoS085WFRYeUEtQXBVOWN3UEJQOE9HNkdZbk9TMUVlSGkzTDR6dlFrRVJxY2NsTWFfQkVHNjl5ay0xd1pEVmgtdWNDNGp1b3BUS0R6cjZLWlRPb3YwZlNadnRuenlVV2FrNFZGV21iUQ?oc=5)
+
+---
 
 ### [Noisy knees could mean wear and tear on the joint - The Star](https://news.google.com/rss/articles/CBMipwFBVV95cUxOam5vMUgxZ0UwSWJNdnhlS0RDTXhwWFVqR21JWFFYZGtwOWNPNzE5N1NlaVZ6bFM4dm5GNWVEdmlVbVdmS0daTTZhSHl3bDBwbGwzQnk0ck9fWXhSVjZsQkNMVHVsS0tQZlFRU1RrcUVOOE4xRlJidUZRdVI1bnY5SzRIVV9UTXROZ1pZSjM0cnN1QW9ERlB1X012VzVPd09wN2FTSlR1Yw?oc=5)
 

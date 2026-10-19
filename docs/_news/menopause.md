@@ -3,7 +3,7 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 5 articles, 23 related drugs."
+description: "Health news about menopause. 6 articles, 23 related drugs."
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>5 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>6 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFSTklpeGd2RW5ld0Rqc0ozVDEzbnJLdXZNX1BtQm1JUy1OeV9sa0ZIX1NKU052ei02OVowek81TkxmZXJnTmc2ZWExand0Y2pfcFFBWkh4RVR3cGxEYkR4TG8yQ0ZmYlROdGkzQTN2Znl5dHlXY2p2cFVSU1habTFJY21rc0NSU182OWlxNUxJVnlvdmZtNlplbGYzS1N4ZzhCSGNOQVhzcGFxRVhSSw?oc=5)
+
+2026-10-18
+
+Source: [DD News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFSTklpeGd2RW5ld0Rqc0ozVDEzbnJLdXZNX1BtQm1JUy1OeV9sa0ZIX1NKU052ei02OVowek81TkxmZXJnTmc2ZWExand0Y2pfcFFBWkh4RVR3cGxEYkR4TG8yQ0ZmYlROdGkzQTN2Znl5dHlXY2p2cFVSU1habTFJY21rc0NSU182OWlxNUxJVnlvdmZtNlplbGYzS1N4ZzhCSGNOQVhzcGFxRVhSSw?oc=5) · [DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
+
+---
 
 ### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVFSTklpeGd2RW5ld0Rqc0ozVDEzbnJLdXZNX1BtQm1JUy1OeV9sa0ZIX1NKU052ei02OVowek81TkxmZXJnTmc2ZWExand0Y2pfcFFBWkh4RVR3cGxEYkR4TG8yQ0ZmYlROdGkzQTN2Znl5dHlXY2p2cFVSU1habTFJY21rc0NSU182OWlxNUxJVnlvdmZtNlplbGYzS1N4ZzhCSGNOQVhzcGFxRVhSSw?oc=5)
 
@@ -77,11 +85,11 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR3R
 
 ---
 
-### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5)
+### [Menopause not gradual, body might experience a 'physiological cliff' around last period: Study - The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
 
 2026-10-15
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqd9IB7AFBVV95cUxQTzdWREFKVm5iOTdlYWVkR3VKQUVRd1gzQUtRTEZNNVVINUtFclh0b1NsRzJjYkpJekQtWmtvRnJUWjQ1N3o0X3BZT3VpdS0wU1UtamF2YnJSVG80VmFDXzNyZHgwczhYZ3FzSVE5NGR4RkRHUGVLNFV2em5fS0FhUi00VVRReGw4cmZmbGF2TVJmTGJWcFhzODJTQ3VOM0lLNmRwSTNxNS1zVGNMeG9pcWhBNlZXelA3b2xDbGgwVEluRlFLSGduNDhORlcwT19pSHZuSnBacjFVVFpiUjJwTl96a0pacVNLQXFPcw?oc=5) · [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVZfcDRiNGtrUkZ0MlZsR3dJa1hxb0JzSm5MTzFwR2g0cVZQX2M1bTl1RmZMU01hUkZxLUFid1VNZDdEaFg3cVNSVW1rbXlVWFVsNEdDeWJlR1RSSFJKcWthal9rZmlBX0YwaWQ3VEY0OUNLbkV6aS12aHpHWEliZU5idV81RXFYUVlZVm1JMVYxcS1sTXFXR0RXeEdlQzlLZWZjOE01WEpjUi1iNnVQVk1WTHRLbjJWNUxvb3VOYWZIZERsWEdFY0lqZWpoaUxSYTNzNy1mZUxNOVgwWGhnTEdsZjBqdw?oc=5)
 
 ---
 
