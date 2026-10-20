@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Oxytetracycline: predicted new indication Chronic rhinosinusitis (evidence level L5). Approved use: Bacterial infections (e.g., urinary tract infection, bronchitis…"
 monitor_inn: "Oxytetracycline"
-predicted_indications: ["paranasal sinus neoplasm (disease)", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "otitis externa"]
+predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "punctate epithelial keratoconjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "otitis externa"]
 ---
 
 # Oxytetracycline

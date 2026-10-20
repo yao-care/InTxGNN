@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Vortioxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy"]
+predicted_indications: ["neurotic disorder", "melancholia", "benign paroxysmal torticollis of infancy", "dysthymic disorder"]
 ---
 
 # Vortioxetine

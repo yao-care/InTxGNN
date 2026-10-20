@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Diethylcarbamazine: predicted new indication Syndromic lymphedema (evidence level L4). Approved use: Filariasis and related conditions (elephantiasis, lymphedema, loiasis…"
 monitor_inn: "Diethylcarbamazine"
-predicted_indications: ["Aagenaes syndrome", "chylous ascites", "mullerian derivatives-lymphangiectasia-polydactyly syndrome"]
+predicted_indications: ["syndromic lymphedema", "primary lymphedema", "podoconiosis", "lymphedema, hereditary", "Aagenaes syndrome", "chylous ascites", "lymphedema-cerebral arteriovenous anomaly syndrome", "mullerian derivatives-lymphangiectasia-polydactyly syndrome", "hypotrichosis-lymphedema-telangiectasia syndrome (grouping)", "microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability"]
 ---
 
 # Diethylcarbamazine

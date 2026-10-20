@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-14
 description: "Ceftizoxime: predicted new indication Gonococcal urethritis (evidence level L3). Approved use: Urinary tract infection, streptococcal and staphylococcal infections…"
 monitor_inn: "Ceftizoxime"
-predicted_indications: ["Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
+predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
 ---
 
 # Ceftizoxime

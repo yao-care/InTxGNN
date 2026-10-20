@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Desvenlafaxine: predicted new indication Obsessive-compulsive disorder (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Desvenlafaxine"
-predicted_indications: ["histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "melancholia"]
 ---
 
 # Desvenlafaxine

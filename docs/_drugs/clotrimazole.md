@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-14
 description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Tinea pedis, tinea corporis, cutaneous candidiasis…"
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)"]
+predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clotrimazole

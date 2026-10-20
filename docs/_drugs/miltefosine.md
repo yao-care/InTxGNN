@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Miltefosine: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L3). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
 monitor_inn: "Miltefosine"
-predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "aseptic meningitis", "systemic mastocytosis", "Kimura disease", "colitis (disease)", "glomerulonephritis"]
+predicted_indications: ["leishmaniasis, diffuse cutaneous", "echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "aseptic meningitis", "systemic mastocytosis", "Kimura disease", "colitis (disease)", "glomerulonephritis"]
 ---
 
 # Miltefosine
