@@ -14,7 +14,7 @@ permalink: /news/losartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Losartan?">
-<strong>Losartan</strong> currently has <strong>11 news articles</strong>, with 5 predicted indications.
+<strong>Losartan</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,19 +36,19 @@ This page combines the AI-predicted indications for Losartan with the latest hea
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
 
-### [Advanced AI tool estimates biological age and predicts cancer survival from face photos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUFxWHdwQ3RDSFJmeTZ5Z0RqcndRdFRuaU5lbmZWTkJpUVpaN2RuZzl6N25zUkFmYlRib3JoQzlnd0dlN3hVMmxqMmlCRFpJNkJacnhCVG5zWnh6OU5xZy1qM2dqWWxSMnp0R281UDgwWTJla3B0VW56ZTBIMVREM2tGU0dmbzdjT25GVkdtcmR0ckdMTlYxNmc5eGJkRVFOZkxfQUM5WTE0azNTTGZHc19ydFlsVjRET3luRldmNHl0NDh4V1h5MldUa2hYcWlh?oc=5)
+### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span>
+2026-10-20 <span class="news-indication-tag">tumor</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUFxWHdwQ3RDSFJmeTZ5Z0RqcndRdFRuaU5lbmZWTkJpUVpaN2RuZzl6N25zUkFmYlRib3JoQzlnd0dlN3hVMmxqMmlCRFpJNkJacnhCVG5zWnh6OU5xZy1qM2dqWWxSMnp0R281UDgwWTJla3B0VW56ZTBIMVREM2tGU0dmbzdjT25GVkdtcmR0ckdMTlYxNmc5eGJkRVFOZkxfQUM5WTE0azNTTGZHc19ydFlsVjRET3luRldmNHl0NDh4V1h5MldUa2hYcWlh?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
 ---
 
 ### [Not all ultra-processed foods show the same cancer risk](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
 
@@ -78,27 +78,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cU
 
 ---
 
-### [Breast cancer awareness month | Mammogram, ultrasound or MRI: Which breast test is used when? - The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5CRkNxbXhmazgyaDQ3WU84bmRIQ0hqRkwwSWJxRldNR2xJUXdlUUptYjkxeFhWU1l6MVl5ZElrOTJFd0hMellCTWVQS0psVmtaZlNMeUVKcHNVUk1fRm1RclNCbHE2ZVZ5LURXMzVDR3VJdlhUdjEtTFZmNTFDODNPb3J1aVFUM05CZGlaSzVOZ1drdkVpRWNQTkt0amNteE9vTlREQnVpN0htR3JuQkN2MlIwQmhhd3hXdEVqQVV6RThWRGU3VDAwcmdqMkoxd2djbl9R0gHbAUFVX3lxTE5JbXIyR1VLSkNIdjRyUjVFc2NYX3JHNWpkaGRaZDVha1VtQk9kV2doUEJUUVR1Z3JMYWM3Y3VvVXRiUGVsa2w3dkpTU3BMWHgzQkhmS1dGMDh2RDZKaVlJYzFtNTdQbWt6NVJZWDh3NVVIa252RUN5ZWJJZEFZSE1xQVVBZWVzUDk3N21URHg0RldmYV8wSFhYc04xVlZaVFRaempSWkdZUnA3VmlBRDg2TWNwdlFtZ0hBdHZjekVlS084X3ZfWGs0b29MTkx5Y0ZwU3k3WG85bmpIYw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5CRkNxbXhmazgyaDQ3WU84bmRIQ0hqRkwwSWJxRldNR2xJUXdlUUptYjkxeFhWU1l6MVl5ZElrOTJFd0hMellCTWVQS0psVmtaZlNMeUVKcHNVUk1fRm1RclNCbHE2ZVZ5LURXMzVDR3VJdlhUdjEtTFZmNTFDODNPb3J1aVFUM05CZGlaSzVOZ1drdkVpRWNQTkt0amNteE9vTlREQnVpN0htR3JuQkN2MlIwQmhhd3hXdEVqQVV6RThWRGU3VDAwcmdqMkoxd2djbl9R0gHbAUFVX3lxTE5JbXIyR1VLSkNIdjRyUjVFc2NYX3JHNWpkaGRaZDVha1VtQk9kV2doUEJUUVR1Z3JMYWM3Y3VvVXRiUGVsa2w3dkpTU3BMWHgzQkhmS1dGMDh2RDZKaVlJYzFtNTdQbWt6NVJZWDh3NVVIa252RUN5ZWJJZEFZSE1xQVVBZWVzUDk3N21URHg0RldmYV8wSFhYc04xVlZaVFRaempSWkdZUnA3VmlBRDg2TWNwdlFtZ0hBdHZjekVlS084X3ZfWGs0b29MTkx5Y0ZwU3k3WG85bmpIYw?oc=5)
-
----
-
 ### [Researchers use mitochondrial uncouplers to target breast cancer metastasis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
-
----
-
-### [Blood pressure drug losartan boosts metabolism by stimulating brown fat](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
-
-2026-10-19 <span class="news-drug-tag">LOSARTAN</span> <span class="news-drug-tag">Losartan</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5)
 
 ---
 

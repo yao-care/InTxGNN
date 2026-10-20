@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>5 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Study explores potential breast cancer benefits of neurokinin receptor antagonists](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
 
@@ -52,14 +52,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28t
 2026-10-20
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlpCUnpvUHBzRWE0Szh1cUIyaTZkUkZkT2c5RzNKZXNLRmJtcW5MSUNKTXZ2Tmp6VTdseE5SdE1kSHA5SmI5TGZSSnJOV0ZYTmNBSTQ3dmZxaHpaOUdaWWplSWFjblZXVmlfTkxzM0hNODYyTHdGd3ZDSmhvOWE4ZVRpS0FzNGZJUy03Z0pjZV9NVXhOY3diVEFpUXFlYjZnRUFBTDRLMXZDc3B5WTIxUzJiQTRvNlMtckdhU0ZlclpSWE0yNHo3c1g5TGpibXRIOXlNLVphVXRkTkJZNGhTcHF6ZDBsaHNfRUVNRklCbjhqMzNfVEHSAfsBQVVfeXFMUEU3c2VqQUhDZzBPWjhXWng2bVlHZDladlEwQk5WVHBpaGxkWGZXUmcxQ1R4Mmt4OE1LWldOOE9ZVFd2OWxzSlM5bHVQQmtXSHB6TE9IcTAxTmtOWnJvYmZDOWVGd0pFeVhuUnNoTzFLcEdQdlVBY2ZMRkpyeDRhQ0I5WGE3OFNyaHZLVmw2VV9DbkU5LTdXTVZvNHN4eFJGU2VaNkptY3VqSmtXRmgta1VJTEVBVk54OTZ1ZFVIU3NyM1g0ejhWX292cFZ5TGt5V1BySlhNN3VsRm5la2Qyak5ZeDlRTDlHdTFMTTVmZ3Bzem4wZVZMLUNZZDg?oc=5)
-
----
-
-### [Breast cancer awareness month | Mammogram, ultrasound or MRI: Which breast test is used when? - The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5CRkNxbXhmazgyaDQ3WU84bmRIQ0hqRkwwSWJxRldNR2xJUXdlUUptYjkxeFhWU1l6MVl5ZElrOTJFd0hMellCTWVQS0psVmtaZlNMeUVKcHNVUk1fRm1RclNCbHE2ZVZ5LURXMzVDR3VJdlhUdjEtTFZmNTFDODNPb3J1aVFUM05CZGlaSzVOZ1drdkVpRWNQTkt0amNteE9vTlREQnVpN0htR3JuQkN2MlIwQmhhd3hXdEVqQVV6RThWRGU3VDAwcmdqMkoxd2djbl9R0gHbAUFVX3lxTE5JbXIyR1VLSkNIdjRyUjVFc2NYX3JHNWpkaGRaZDVha1VtQk9kV2doUEJUUVR1Z3JMYWM3Y3VvVXRiUGVsa2w3dkpTU3BMWHgzQkhmS1dGMDh2RDZKaVlJYzFtNTdQbWt6NVJZWDh3NVVIa252RUN5ZWJJZEFZSE1xQVVBZWVzUDk3N21URHg0RldmYV8wSFhYc04xVlZaVFRaempSWkdZUnA3VmlBRDg2TWNwdlFtZ0hBdHZjekVlS084X3ZfWGs0b29MTkx5Y0ZwU3k3WG85bmpIYw?oc=5)
-
-2026-10-20
-
-Source: [The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5CRkNxbXhmazgyaDQ3WU84bmRIQ0hqRkwwSWJxRldNR2xJUXdlUUptYjkxeFhWU1l6MVl5ZElrOTJFd0hMellCTWVQS0psVmtaZlNMeUVKcHNVUk1fRm1RclNCbHE2ZVZ5LURXMzVDR3VJdlhUdjEtTFZmNTFDODNPb3J1aVFUM05CZGlaSzVOZ1drdkVpRWNQTkt0amNteE9vTlREQnVpN0htR3JuQkN2MlIwQmhhd3hXdEVqQVV6RThWRGU3VDAwcmdqMkoxd2djbl9R0gHbAUFVX3lxTE5JbXIyR1VLSkNIdjRyUjVFc2NYX3JHNWpkaGRaZDVha1VtQk9kV2doUEJUUVR1Z3JMYWM3Y3VvVXRiUGVsa2w3dkpTU3BMWHgzQkhmS1dGMDh2RDZKaVlJYzFtNTdQbWt6NVJZWDh3NVVIa252RUN5ZWJJZEFZSE1xQVVBZWVzUDk3N21URHg0RldmYV8wSFhYc04xVlZaVFRaempSWkdZUnA3VmlBRDg2TWNwdlFtZ0hBdHZjekVlS084X3ZfWGs0b29MTkx5Y0ZwU3k3WG85bmpIYw?oc=5)
 
 ---
 

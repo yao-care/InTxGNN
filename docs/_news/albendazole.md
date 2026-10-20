@@ -14,7 +14,7 @@ permalink: /news/albendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>12 news articles</strong>, with 5 predicted indications.
+<strong>Albendazole</strong> currently has <strong>11 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,27 +36,27 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
 
-### [Advanced AI tool estimates biological age and predicts cancer survival from face photos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUFxWHdwQ3RDSFJmeTZ5Z0RqcndRdFRuaU5lbmZWTkJpUVpaN2RuZzl6N25zUkFmYlRib3JoQzlnd0dlN3hVMmxqMmlCRFpJNkJacnhCVG5zWnh6OU5xZy1qM2dqWWxSMnp0R281UDgwWTJla3B0VW56ZTBIMVREM2tGU0dmbzdjT25GVkdtcmR0ckdMTlYxNmc5eGJkRVFOZkxfQUM5WTE0azNTTGZHc19ydFlsVjRET3luRldmNHl0NDh4V1h5MldUa2hYcWlh?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUFxWHdwQ3RDSFJmeTZ5Z0RqcndRdFRuaU5lbmZWTkJpUVpaN2RuZzl6N25zUkFmYlRib3JoQzlnd0dlN3hVMmxqMmlCRFpJNkJacnhCVG5zWnh6OU5xZy1qM2dqWWxSMnp0R281UDgwWTJla3B0VW56ZTBIMVREM2tGU0dmbzdjT25GVkdtcmR0ckdMTlYxNmc5eGJkRVFOZkxfQUM5WTE0azNTTGZHc19ydFlsVjRET3luRldmNHl0NDh4V1h5MldUa2hYcWlh?oc=5)
-
----
-
-### [Low daily step count linked to dementia and stroke risks. It’s time to put your trusty phone in charge - Digital Trends](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJFU0xKbTVDV2x1Y2dCSnJlclNjcVhQUkV0VV9Db3N1UDZqdU1ndUhiUHRXTFMtYkFFeDJJUEFZNWJCWU5TNG45Q1ZoSFlBbGFVTlkxTEhYQWp1VFNTNUlKOTNUdzhVMTc1SkdJTG9jMG1VRmJHbFE3X3ZGN0lrSm84U3hPd293SVpXS052TnE5eFhMdVNyY1IwZ0I4R3k2MlNycWxLclkwU2NBeS1wTGlrTW9fQzY3M1VOSHRrdHdXYnpIbk5sQWVxcVBsdFdHbXdRRg?oc=5)
+### [Low daily step counts linked to dementia, Parkinson's and stroke - Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
 
 2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Digital Trends](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJFU0xKbTVDV2x1Y2dCSnJlclNjcVhQUkV0VV9Db3N1UDZqdU1ndUhiUHRXTFMtYkFFeDJJUEFZNWJCWU5TNG45Q1ZoSFlBbGFVTlkxTEhYQWp1VFNTNUlKOTNUdzhVMTc1SkdJTG9jMG1VRmJHbFE3X3ZGN0lrSm84U3hPd293SVpXS052TnE5eFhMdVNyY1IwZ0I4R3k2MlNycWxLclkwU2NBeS1wTGlrTW9fQzY3M1VOSHRrdHdXYnpIbk5sQWVxcVBsdFdHbXdRRg?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
+
+---
+
+### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
+
+2026-10-20 <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
 ---
 
 ### [Not all ultra-processed foods show the same cancer risk](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
 
@@ -83,14 +83,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28t
 2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlpCUnpvUHBzRWE0Szh1cUIyaTZkUkZkT2c5RzNKZXNLRmJtcW5MSUNKTXZ2Tmp6VTdseE5SdE1kSHA5SmI5TGZSSnJOV0ZYTmNBSTQ3dmZxaHpaOUdaWWplSWFjblZXVmlfTkxzM0hNODYyTHdGd3ZDSmhvOWE4ZVRpS0FzNGZJUy03Z0pjZV9NVXhOY3diVEFpUXFlYjZnRUFBTDRLMXZDc3B5WTIxUzJiQTRvNlMtckdhU0ZlclpSWE0yNHo3c1g5TGpibXRIOXlNLVphVXRkTkJZNGhTcHF6ZDBsaHNfRUVNRklCbjhqMzNfVEHSAfsBQVVfeXFMUEU3c2VqQUhDZzBPWjhXWng2bVlHZDladlEwQk5WVHBpaGxkWGZXUmcxQ1R4Mmt4OE1LWldOOE9ZVFd2OWxzSlM5bHVQQmtXSHB6TE9IcTAxTmtOWnJvYmZDOWVGd0pFeVhuUnNoTzFLcEdQdlVBY2ZMRkpyeDRhQ0I5WGE3OFNyaHZLVmw2VV9DbkU5LTdXTVZvNHN4eFJGU2VaNkptY3VqSmtXRmgta1VJTEVBVk54OTZ1ZFVIU3NyM1g0ejhWX292cFZ5TGt5V1BySlhNN3VsRm5la2Qyak5ZeDlRTDlHdTFMTTVmZ3Bzem4wZVZMLUNZZDg?oc=5)
-
----
-
-### [Breast cancer awareness month | Mammogram, ultrasound or MRI: Which breast test is used when? - The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5CRkNxbXhmazgyaDQ3WU84bmRIQ0hqRkwwSWJxRldNR2xJUXdlUUptYjkxeFhWU1l6MVl5ZElrOTJFd0hMellCTWVQS0psVmtaZlNMeUVKcHNVUk1fRm1RclNCbHE2ZVZ5LURXMzVDR3VJdlhUdjEtTFZmNTFDODNPb3J1aVFUM05CZGlaSzVOZ1drdkVpRWNQTkt0amNteE9vTlREQnVpN0htR3JuQkN2MlIwQmhhd3hXdEVqQVV6RThWRGU3VDAwcmdqMkoxd2djbl9R0gHbAUFVX3lxTE5JbXIyR1VLSkNIdjRyUjVFc2NYX3JHNWpkaGRaZDVha1VtQk9kV2doUEJUUVR1Z3JMYWM3Y3VvVXRiUGVsa2w3dkpTU3BMWHgzQkhmS1dGMDh2RDZKaVlJYzFtNTdQbWt6NVJZWDh3NVVIa252RUN5ZWJJZEFZSE1xQVVBZWVzUDk3N21URHg0RldmYV8wSFhYc04xVlZaVFRaempSWkdZUnA3VmlBRDg2TWNwdlFtZ0hBdHZjekVlS084X3ZfWGs0b29MTkx5Y0ZwU3k3WG85bmpIYw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNem5CRkNxbXhmazgyaDQ3WU84bmRIQ0hqRkwwSWJxRldNR2xJUXdlUUptYjkxeFhWU1l6MVl5ZElrOTJFd0hMellCTWVQS0psVmtaZlNMeUVKcHNVUk1fRm1RclNCbHE2ZVZ5LURXMzVDR3VJdlhUdjEtTFZmNTFDODNPb3J1aVFUM05CZGlaSzVOZ1drdkVpRWNQTkt0amNteE9vTlREQnVpN0htR3JuQkN2MlIwQmhhd3hXdEVqQVV6RThWRGU3VDAwcmdqMkoxd2djbl9R0gHbAUFVX3lxTE5JbXIyR1VLSkNIdjRyUjVFc2NYX3JHNWpkaGRaZDVha1VtQk9kV2doUEJUUVR1Z3JMYWM3Y3VvVXRiUGVsa2w3dkpTU3BMWHgzQkhmS1dGMDh2RDZKaVlJYzFtNTdQbWt6NVJZWDh3NVVIa252RUN5ZWJJZEFZSE1xQVVBZWVzUDk3N21URHg0RldmYV8wSFhYc04xVlZaVFRaempSWkdZUnA3VmlBRDg2TWNwdlFtZ0hBdHZjekVlS084X3ZfWGs0b29MTkx5Y0ZwU3k3WG85bmpIYw?oc=5)
 
 ---
 
