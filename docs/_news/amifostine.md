@@ -14,7 +14,7 @@ permalink: /news/amifostine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amifostine?">
-<strong>Amifostine</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
+<strong>Amifostine</strong> currently has <strong>10 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <p><a href="{{ '/drugs/amifostine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (10)
+
+### [Advanced AI tool estimates biological age and predicts cancer survival from face photos](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUFxWHdwQ3RDSFJmeTZ5Z0RqcndRdFRuaU5lbmZWTkJpUVpaN2RuZzl6N25zUkFmYlRib3JoQzlnd0dlN3hVMmxqMmlCRFpJNkJacnhCVG5zWnh6OU5xZy1qM2dqWWxSMnp0R281UDgwWTJla3B0VW56ZTBIMVREM2tGU0dmbzdjT25GVkdtcmR0ckdMTlYxNmc5eGJkRVFOZkxfQUM5WTE0azNTTGZHc19ydFlsVjRET3luRldmNHl0NDh4V1h5MldUa2hYcWlh?oc=5)
+
+2026-10-20 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUFxWHdwQ3RDSFJmeTZ5Z0RqcndRdFRuaU5lbmZWTkJpUVpaN2RuZzl6N25zUkFmYlRib3JoQzlnd0dlN3hVMmxqMmlCRFpJNkJacnhCVG5zWnh6OU5xZy1qM2dqWWxSMnp0R281UDgwWTJla3B0VW56ZTBIMVREM2tGU0dmbzdjT25GVkdtcmR0ckdMTlYxNmc5eGJkRVFOZkxfQUM5WTE0azNTTGZHc19ydFlsVjRET3luRldmNHl0NDh4V1h5MldUa2hYcWlh?oc=5)
+
+---
 
 ### [Not all ultra-processed foods show the same cancer risk](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
 
@@ -51,14 +59,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5
 2026-10-20 <span class="news-indication-tag">cancer</span>
 
 Source: [ThePrint](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFjY2lkRnF5eUM2dTNYdVZvSmNHakNqYUFOOXJTaW1XVm1HRlpPSnVoSkJTNDI2SkpJRnJWdVRPN0hVRFRNejk4XzY4LURoQVJuM2pNbmp4SkJKNnV5RzBVeUFWOHc3Q09MSUhfSE96YzJPSXdna0NqdkRZM0Y4Sm9sWUU5c0lUQXpEWE05Yk5vTU1fOVF6UlVtT3JZZmstSzVzdnBBaEp5aURfbWhrRnozaWQ3X0hIQlhScEJ3d23SAcYBQVVfeXFMTndva2RLdUNCcFAyYS1JaWFpRTMzRGF0YkVYRXZfUWxJOWVPcnhBNkxuTDVQb21kVnd2WVVBN0g3QzJ6bkNGaWRFTHRCRlpvcEF6NXJGbWtWeTluMXFlN3pZY05ZSzlQU0dPa1QyVzF2RzVSRk5uQklXOFdnMmNoYkdZUGlKcnYxOERjcFF6dTVDeTc5R0xtRTFjXzdMdmM1YzlUNDAyaV9sdEY5TVFTZi00TjZfRm5aUDZFM1JKc0hyOUdCZzFn?oc=5)
-
----
-
-### [Study finds varied links between ultra-processed foods, bowel cancer risk](https://news.google.com/rss/articles/CBMifEFVX3lxTE5scV9yWEVqUjJCWTFMOUxjdndGbTVEdnVNdTY1X2E4cDNnaHBnbmJiLXY5WXdOc0xyc3kwLTNZUG9fOXlubFdKS0tlQVJkTGlEMExhYVc0X3pHajVtc0FzRXh1VjBLMDJTaHRMU1o5dDZqdmJYTmNWMnZucks?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
-
-Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE5scV9yWEVqUjJCWTFMOUxjdndGbTVEdnVNdTY1X2E4cDNnaHBnbmJiLXY5WXdOc0xyc3kwLTNZUG9fOXlubFdKS0tlQVJkTGlEMExhYVc0X3pHajVtc0FzRXh1VjBLMDJTaHRMU1o5dDZqdmJYTmNWMnZucks?oc=5)
 
 ---
 
@@ -102,30 +102,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RI
 
 ---
 
-### [A shot at a cervical cancer-free generation | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
-
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
-
----
-
-### ['Get it checked out,' says Loxley man after breast cancer shock](https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Z2U4cnlMTHA4MU9Sc051VW9Mc2IzRmJIb0IyYVoyZUljZ2toR283TGcyRGhIYzU5TEtiNEtWZVFERU1YS1FZcFo3d3R0Y2UxX0MxdHloOEZPVms?oc=5)
-
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Z2U4cnlMTHA4MU9Sc051VW9Mc2IzRmJIb0IyYVoyZUljZ2toR283TGcyRGhIYzU5TEtiNEtWZVFERU1YS1FZcFo3d3R0Y2UxX0MxdHloOEZPVms?oc=5)
-
----
-
-### [Liver Cancer Awareness Month 2026: Social media tiles - IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZE9obzFKclV5YVBYaW14OHRPR0I0Vk9rMklXb3Zjazh5MHRpeTN2bXIwbERYd1R0MTZPOTdITDJjeFpVWXBnMkVtb2x1aWZkd1B1aFVVeGFHZGg4ZFIxekZ6TkhJdlRCSUl0amItOHJ1MDZXUFRYOFpLaTk0Y1RjY1JhVjRGdWZDbkdLQ0JEc2VCV2U2WVE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">cancer</span>
-
-Source: [IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER](https://news.google.com/rss/articles/CBMilgFBVV95cUxNZE9obzFKclV5YVBYaW14OHRPR0I0Vk9rMklXb3Zjazh5MHRpeTN2bXIwbERYd1R0MTZPOTdITDJjeFpVWXBnMkVtb2x1aWZkd1B1aFVVeGFHZGg4ZFIxekZ6TkhJdlRCSUl0amItOHJ1MDZXUFRYOFpLaTk0Y1RjY1JhVjRGdWZDbkdLQ0JEc2VCV2U2WVE?oc=5)
-
----
-
 ### [Breast Cancer Awareness Month 2026: Does breast cancer only affect women? Breast cancer specialist reveals everything about male breast cancer | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiswJBVV95cUxPM3lVdUxHb3luUWpOMnRIZFd0R2NneEk3UjdOeFR0T1N3MEpJVm0zczZoNy1iLXVvMGk4SS1yTGdEQkYtSjZCOWlZaG81UVBKUUNvVW1zZDNjLXJ6aUtla1g2TFVMdklQbTFmT1dHSXlHYXZTTnl1ekNVTkQtejJOREZiVDVrRDIxUktRNEZMTDV0Umh6X2gzY2c0UGZsSUdYTGNFSE1PQkpoVldFT0JJUWg3S1h2Wmg2aUE0YkRrZUxZYlhvcE5CRlkyWnBoSUhyYmkxZ2dNSDFNRzUtS0tJd2hWd3FUUTdKbmFRaGR0RDUwWmotVmxERUN6azVIY0ZoOWRwS3hWZ2JHRU9BcjBrMjRkOFVxV1VEcW4yUWNIV3h2S2V6RjNiMkR6ZUFhMXBRMG5n0gG4AkFVX3lxTE5UMFZGWnhINGJrNFBrRUlnbUJ1SUd0QkdXNmRCbzN4UE1IQTAydUFkUXZXbUV1VTRFakhsYTlYQkhyQlhJWWdrU1pZT1JEZEJrejNubFA1cW51eDN6MjEzamliS1NKOFgtdlJzbjZneW8yQURnMXJvSGhuaTJnSk9Bd0FPaFh1TjFzcFJxTnNiWVQ5ZmgwYnZzVjBhVG5Kb0RXazBfSVRYQnZsVTlEQUhzU09iT3BaZkFlb2tFNVREN1BPaWVTVS12TnJnb0NpYW5ZTjRmT1pVQVhFMjdPTUlZYll2WUx2ZllzdnRIVU1GVlh5U0xGX3M4OWhBTnVYZGJiVUpjM09oQURfVnlrQ21qNXFkak9ULS0zTkhfQmlZamRCR2ZHT1J6d0tlYlpsZkJQMk1YakQwcw?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -139,22 +115,6 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiswJBVV95cUxPM
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ2JOSEhhMEFWeXB5Um5nLXhtT1lpYVlIaTFta3dwMTI2RXFUOHpGRkdPallnVWtuS3pkNE5xQjNOME4xNHFZT0hGWkRTQXBfTEt6RFJsNkppQzNoOTh0WFhoV1hFcW4yMXFGREc2OENBTHFUQi1RcnlTSHZBMmRWZUFibjZMSEdST3NmYXNwdzhUMGstUk5USUxsS1N4LUNwM1RfV1ZRX3FvdEZDelJJeHA4LWhRb2gtY1FYZEVaMjRjTEUwYVBTZEZ2MzhnY2FRaFBUUU1aMVpmNGpKcW5oVk9UOFRqUDhPZ290dmg5dw?oc=5)
-
----
-
-### [India's tobacco burden extends beyond smoking, new estimates reveal differences by region, sex and cancer site - The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVOWGdsTXhEdHBHQ3RETTZDWFgydV9fUkhNSGhpTHNaTThxelppRDBSNVpjTEhIMmx6c1NXOWVmYU8zd2dfZWU4TXNxeGlXTkF1SWNETEFEUk5uU053b0VESUtwVWxIbmFtTnZvQkZqdWxRSzdIWkNaVGIwOXNRNFFjQ0F4dXlJanVIU2Z4UjB1OVFma2d0eFFpN0NsWWN6eVlkUV9sTExHSEkzOE5IZ3I2Z2VsOF90Qm9lWXVaS1RfMkdaRjRfUnFNWFFCak1BQkQyb3VaNHU?oc=5)
-
-2026-10-19 <span class="news-indication-tag">cancer</span>
-
-Source: [The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVOWGdsTXhEdHBHQ3RETTZDWFgydV9fUkhNSGhpTHNaTThxelppRDBSNVpjTEhIMmx6c1NXOWVmYU8zd2dfZWU4TXNxeGlXTkF1SWNETEFEUk5uU053b0VESUtwVWxIbmFtTnZvQkZqdWxRSzdIWkNaVGIwOXNRNFFjQ0F4dXlJanVIU2Z4UjB1OVFma2d0eFFpN0NsWWN6eVlkUV9sTExHSEkzOE5IZ3I2Z2VsOF90Qm9lWXVaS1RfMkdaRjRfUnFNWFFCak1BQkQyb3VaNHU?oc=5)
-
----
-
-### [Liquid biopsy and mammography: a perfect match for breast cancer detection?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
-
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
 
 ---
 

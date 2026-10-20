@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 1 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Low Daily Step Counts Linked To Dementia, Parkinson's And Stroke - U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
+### [Low daily step count linked to dementia and stroke risks. It’s time to put your trusty phone in charge - Digital Trends](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJFU0xKbTVDV2x1Y2dCSnJlclNjcVhQUkV0VV9Db3N1UDZqdU1ndUhiUHRXTFMtYkFFeDJJUEFZNWJCWU5TNG45Q1ZoSFlBbGFVTlkxTEhYQWp1VFNTNUlKOTNUdzhVMTc1SkdJTG9jMG1VRmJHbFE3X3ZGN0lrSm84U3hPd293SVpXS052TnE5eFhMdVNyY1IwZ0I4R3k2MlNycWxLclkwU2NBeS1wTGlrTW9fQzY3M1VOSHRrdHdXYnpIbk5sQWVxcVBsdFdHbXdRRg?oc=5)
 
-2026-10-19
+2026-10-20
 
-Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
+Source: [Digital Trends](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJFU0xKbTVDV2x1Y2dCSnJlclNjcVhQUkV0VV9Db3N1UDZqdU1ndUhiUHRXTFMtYkFFeDJJUEFZNWJCWU5TNG45Q1ZoSFlBbGFVTlkxTEhYQWp1VFNTNUlKOTNUdzhVMTc1SkdJTG9jMG1VRmJHbFE3X3ZGN0lrSm84U3hPd293SVpXS052TnE5eFhMdVNyY1IwZ0I4R3k2MlNycWxLclkwU2NBeS1wTGlrTW9fQzY3M1VOSHRrdHdXYnpIbk5sQWVxcVBsdFdHbXdRRg?oc=5)
+
+---
+
+### [Obesity Linked to Lower Risk for Mortality in Dementia - Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
+
+2026-10-20
+
+Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
 
 ---
 

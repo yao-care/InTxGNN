@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 
 ## Related News (1)
 
-### [Anti-Inflammatory Effects of GLP-1 Medications in Psoriasis and Obesity - Dermatology Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWY4UTg0MUZzTGsydFdPMmR3TlRwX0VERUFRaEpQY19GTnl4Skt0ZXJ0eXN4ak56WkFwVWlhN0ZBUDVJQWdUNy1EdS1MN2Z5STFBU2ttSWRJOW1QakpaeDhCbkdLakRLSEZnc3ZTaXVyN0x1OXhnVEt6NTJnTnFjbDQxTkMzWkJPM0cyQklMd0UzdFdnMEpzVm9ZWGI5QVp4Y0tNYUp6WVh6Ni1RQlE?oc=5)
+### [Securing GLP-1 Access and Exploring Hidradenitis Suppurativa Trials - Dermatology Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXJvTWRiTzhLTkZfX0xuQzlJZUpTNGNHOHI4TGNsVU12NzBZaGxMaUdwTHladnVQSm1HZDdFZWduQlRQZzljaFJpM3JSeDc0SDhlNGRyVUNYNXgyaFEtc3NBWGZpTm5KWWhVb1BiUl9mdjQybmVQNlNxVTVXSjlwM2FxLVl2QU4yN0hTamNXVkFzTjVvSW5hb1d2Qm51X0tWTGpZRW9VbEg?oc=5)
 
-2026-10-19 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-20 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [Dermatology Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWY4UTg0MUZzTGsydFdPMmR3TlRwX0VERUFRaEpQY19GTnl4Skt0ZXJ0eXN4ak56WkFwVWlhN0ZBUDVJQWdUNy1EdS1MN2Z5STFBU2ttSWRJOW1QakpaeDhCbkdLakRLSEZnc3ZTaXVyN0x1OXhnVEt6NTJnTnFjbDQxTkMzWkJPM0cyQklMd0UzdFdnMEpzVm9ZWGI5QVp4Y0tNYUp6WVh6Ni1RQlE?oc=5)
+Source: [Dermatology Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXJvTWRiTzhLTkZfX0xuQzlJZUpTNGNHOHI4TGNsVU12NzBZaGxMaUdwTHladnVQSm1HZDdFZWduQlRQZzljaFJpM3JSeDc0SDhlNGRyVUNYNXgyaFEtc3NBWGZpTm5KWWhVb1BiUl9mdjQybmVQNlNxVTVXSjlwM2FxLVl2QU4yN0hTamNXVkFzTjVvSW5hb1d2Qm51X0tWTGpZRW9VbEg?oc=5)
 
 ---
 

@@ -38,19 +38,19 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 
 ## Related News (2)
 
+### [Low daily step count linked to dementia and stroke risks. It’s time to put your trusty phone in charge - Digital Trends](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJFU0xKbTVDV2x1Y2dCSnJlclNjcVhQUkV0VV9Db3N1UDZqdU1ndUhiUHRXTFMtYkFFeDJJUEFZNWJCWU5TNG45Q1ZoSFlBbGFVTlkxTEhYQWp1VFNTNUlKOTNUdzhVMTc1SkdJTG9jMG1VRmJHbFE3X3ZGN0lrSm84U3hPd293SVpXS052TnE5eFhMdVNyY1IwZ0I4R3k2MlNycWxLclkwU2NBeS1wTGlrTW9fQzY3M1VOSHRrdHdXYnpIbk5sQWVxcVBsdFdHbXdRRg?oc=5)
+
+2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Digital Trends](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVJFU0xKbTVDV2x1Y2dCSnJlclNjcVhQUkV0VV9Db3N1UDZqdU1ndUhiUHRXTFMtYkFFeDJJUEFZNWJCWU5TNG45Q1ZoSFlBbGFVTlkxTEhYQWp1VFNTNUlKOTNUdzhVMTc1SkdJTG9jMG1VRmJHbFE3X3ZGN0lrSm84U3hPd293SVpXS052TnE5eFhMdVNyY1IwZ0I4R3k2MlNycWxLclkwU2NBeS1wTGlrTW9fQzY3M1VOSHRrdHdXYnpIbk5sQWVxcVBsdFdHbXdRRg?oc=5)
+
+---
+
 ### [AI model analyses DNA to identify people at higher risk of stroke](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
 
 2026-10-20 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Euronews.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
-
----
-
-### [Low Daily Step Counts Linked To Dementia, Parkinson's And Stroke - U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
 
 ---
 
