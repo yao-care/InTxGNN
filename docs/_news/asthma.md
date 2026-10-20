@@ -39,11 +39,11 @@ Source: [The Columbian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTB
 
 ---
 
-### [Scientists tested 39 sweeteners and uncovered surprising gut effects - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5)
+### [Millions of older Australians exposed to overlapping medication risks - Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzFEMU5fNzlvMjB2LW9ZU21MWEVSTWhWUTF4Z0Q3TWR6eWVRMUp6dzc4ek1KMWszaS1pU1JadE9wNWJrR1lKRmVSMkVSMGtQTTg0bWFQZ1NqRWYwUjUyRFF6UC1VTDJ3S2ZDRWNmUmI1Zy1MN1k5MjFPTWNPQ3Q5VElaXzhUUWxkeFRzUW5PRERITFFm?oc=5)
 
-2026-10-18
+2026-10-19
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzFEMU5fNzlvMjB2LW9ZU21MWEVSTWhWUTF4Z0Q3TWR6eWVRMUp6dzc4ek1KMWszaS1pU1JadE9wNWJrR1lKRmVSMkVSMGtQTTg0bWFQZ1NqRWYwUjUyRFF6UC1VTDJ3S2ZDRWNmUmI1Zy1MN1k5MjFPTWNPQ3Q5VElaXzhUUWxkeFRzUW5PRERITFFm?oc=5)
 
 ---
 

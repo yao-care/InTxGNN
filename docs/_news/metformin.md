@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Metformin with the latest he
 
 ## Related News (1)
 
-### [High-fiber diet vs metformin: Which is better for blood sugar control, weight loss? - Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+### [High-Fibre Diet Outperforms Metformin In Blood Sugar Control And Weight Loss, Study Finds - Health and Me](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYXdWU1NTX19hUVlzcmExRW53OVcxMDFwbGtGeHJWR29zY3gwbktIcmVMamxlTjNXOGpXcmd3STFFT0F2R0VEU3VtX3c5d3lMZ1NVY0psWWZlSS1LNHVqN0xORXVtZjNmb1cxX0J0S1MtZjdVbVJrNVJCeWVlVXZSZU9LeVF2RzQ5LWNYSWQ2Y010YUtpek0yazBRS002RnNxb0VmcnhoSDFZcXI2X2djRi1qclNrVFI5eEhSaGNKX0Z2eDl3WEZrYjJzZmM4OUM3Nmxib05sU2pkVTli?oc=5)
 
-2026-10-18 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span>
+2026-10-20 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span>
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYXdWU1NTX19hUVlzcmExRW53OVcxMDFwbGtGeHJWR29zY3gwbktIcmVMamxlTjNXOGpXcmd3STFFT0F2R0VEU3VtX3c5d3lMZ1NVY0psWWZlSS1LNHVqN0xORXVtZjNmb1cxX0J0S1MtZjdVbVJrNVJCeWVlVXZSZU9LeVF2RzQ5LWNYSWQ2Y010YUtpek0yazBRS002RnNxb0VmcnhoSDFZcXI2X2djRi1qclNrVFI5eEhSaGNKX0Z2eDl3WEZrYjJzZmM4OUM3Nmxib05sU2pkVTli?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,23 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [COPD Is a Modifiable Disease: Highlights from ERS 2026](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXBOa21lMEJLTzhrcHp4Z0piT2ZUX2d5V3IwdE9ET2hVOEpSTldlN3ZCRHpELVowX1hTWkNpMHEtblhPNG5pY3dqaHRmU1RkMHp3Y0N0dVZpRUoyVWgyQ3A1NmZYWV80LXB3aDl1dHgwdFdubWJrVFB6T3pQazVNWjJvRm9WOEEwelF4b1prUUxCVjhQb2tjT1NSTHpmVjJuMjl3QW44UXdxTlYxSnRTc2g0a3NibVU?oc=5)
+
+2026-10-20 <span class="news-indication-tag">COPD</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXBOa21lMEJLTzhrcHp4Z0piT2ZUX2d5V3IwdE9ET2hVOEpSTldlN3ZCRHpELVowX1hTWkNpMHEtblhPNG5pY3dqaHRmU1RkMHp3Y0N0dVZpRUoyVWgyQ3A1NmZYWV80LXB3aDl1dHgwdFdubWJrVFB6T3pQazVNWjJvRm9WOEEwelF4b1prUUxCVjhQb2tjT1NSTHpmVjJuMjl3QW44UXdxTlYxSnRTc2g0a3NibVU?oc=5)
+
+---
+
+### [Changing the COPD Narrative: Interview with David Mannino](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXdoTVRabzUzUy13UFJDYW02RVN1SUl4NHlGdks1MXhWdnRUYTAxT25DWWFXYTVoODctdXV2dDc5ak9XYmJ2MDJSNXBTUG80VGp5NDdfOFhfNktfUVlsQTNkUW1PN1pZRFFCVmZSZXBnUlh5enREc2NqZk1UM010MGNuV1VKUVBvUmF1blE2aG9haUtWWGVOUFhsLWhGUkY5cjVpMmlxQQ?oc=5)
+
+2026-10-20 <span class="news-indication-tag">COPD</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXdoTVRabzUzUy13UFJDYW02RVN1SUl4NHlGdks1MXhWdnRUYTAxT25DWWFXYTVoODctdXV2dDc5ak9XYmJ2MDJSNXBTUG80VGp5NDdfOFhfNktfUVlsQTNkUW1PN1pZRFFCVmZSZXBnUlh5enREc2NqZk1UM010MGNuV1VKUVBvUmF1blE2aG9haUtWWGVOUFhsLWhGUkY5cjVpMmlxQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

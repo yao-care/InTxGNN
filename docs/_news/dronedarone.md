@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,37 +32,21 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
-### [Stroke Rates Nearly Double Among Younger Adults](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXZBenFadmtpYVpPWnkxdFNEdWxOQUFDbmJKTjg3MzdaWmpQWVMxSU5iVkltRlJGU0NPNHFmd1pPcG9mNm5QZXlXM1dHUVZhdFB6LTlubFdwRVRuMmE4YWJFdDQwNmF3dV9TSExDUV90RFB3a0pGYnRsZmRhMEQ2TzlIanRRSmpZWGtlNHJTMDdKY2R6Ry1OREFSZ3dxT2dwVjZHT1lRek_SAa4BQVVfeXFMTmNERzFhanZjVkNCUjB4b3Q4dW1uNTQwdm1uZ0gwbGVLSHNaMDR5MlhfV2ZSNUhLQVhseUhIZmdjVzI2dk1zNm9Uemp0SkJibG1GV09Qemc4UmtlWkllWmV1TWxDdzdiWGpnbmJSSHRJdzJwUDF6N3NWYkxPazhtd2J1OVZGRWpaMGZ1dTZveGNzaWhpZlF6X0E1RHVqTk9zVGEyS2t3d01CeDVhSDNR?oc=5)
+### [AI model analyses DNA to identify people at higher risk of stroke](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
 
-2026-10-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-20 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Labroots](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXZBenFadmtpYVpPWnkxdFNEdWxOQUFDbmJKTjg3MzdaWmpQWVMxSU5iVkltRlJGU0NPNHFmd1pPcG9mNm5QZXlXM1dHUVZhdFB6LTlubFdwRVRuMmE4YWJFdDQwNmF3dV9TSExDUV90RFB3a0pGYnRsZmRhMEQ2TzlIanRRSmpZWGtlNHJTMDdKY2R6Ry1OREFSZ3dxT2dwVjZHT1lRek_SAa4BQVVfeXFMTmNERzFhanZjVkNCUjB4b3Q4dW1uNTQwdm1uZ0gwbGVLSHNaMDR5MlhfV2ZSNUhLQVhseUhIZmdjVzI2dk1zNm9Uemp0SkJibG1GV09Qemc4UmtlWkllWmV1TWxDdzdiWGpnbmJSSHRJdzJwUDF6N3NWYkxPazhtd2J1OVZGRWpaMGZ1dTZveGNzaWhpZlF6X0E1RHVqTk9zVGEyS2t3d01CeDVhSDNR?oc=5)
-
----
-
-### [Researchers in Australia develop AI tool to assess stroke risk](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZnhSb3VnbnRHaEFHbElDMEZrR0NYdWR2dXNrMEtRbkVycGoxWmRJaUQtODV2OU8wQ2oyLUJmdjVYRncwLTlJb1FmWlRGWXBfaFlQcjVuY0pXZXZnTWVXV3RQYTNTaGlNRkV4LUd1alc4VUNKZVBQbUhPVUNhV29kSHUzYVQzSlRuZWRKZ0lDRWF2WXg4MW4ySTE1X1IwTEZhXzRXTHFWVmxUNG1HNmFSZkozaGpKZzhq?oc=5)
-
-2026-10-18 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [myRepublica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZnhSb3VnbnRHaEFHbElDMEZrR0NYdWR2dXNrMEtRbkVycGoxWmRJaUQtODV2OU8wQ2oyLUJmdjVYRncwLTlJb1FmWlRGWXBfaFlQcjVuY0pXZXZnTWVXV3RQYTNTaGlNRkV4LUd1alc4VUNKZVBQbUhPVUNhV29kSHUzYVQzSlRuZWRKZ0lDRWF2WXg4MW4ySTE1X1IwTEZhXzRXTHFWVmxUNG1HNmFSZkozaGpKZzhq?oc=5)
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
 
 ---
 
-### [Can a blood pressure of 168/115 mmHg increase your risk of stroke or heart attack? - The Indian Express](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGtIeTViTmZTRnVFak5LMlpXWENQZHU2ZlFVWVhMT3J4WDF1QXJZT2RsSUNDZmtBQUF1d3RIRHhaN1I4Y2FXVGt1V2Ftc3NDdmpxWGhidy1EYVRFdW5ndlRLb1BBckxNTzBYUC1WYkk5MVB0TUx1d0FfYl9walhaclVySllUUWRBVWtHWXExYlpfUUpEMXEyQ3c5UWdoUTZJM1hYcURRODB6cGc3TGxpUmNNT1BRTWJ0SHlodGQ5OGgyQmJqaThxSlUzV2lSWThIV19NclpiUER5Z9IB4AFBVV95cUxPUmpSQS1wZF9UbnJnV1hwWDhQdG1OWW1DM2ZkVVpyWGdYalBrblRMNlJKdThIZVB2RGE4Wk1rNzA5YzVoNnlkcnZmc3ExclBHVC0yM1V1d3N5eVZUODRwbUxCV2lTaFEwUlg2NjVqeERRcUlhZ3NhYU41VC02MFZPSFQ5eW9vSXhxN0ZFcDNIWFpKajZ2Ynd2TlJyOFpJUDRKOHpYeEVIZnVUUGV5N05YR0MxOVNyeVVEWVhDN3ZDTEFndVlwczJUWTIyc0M1R2RxcGlrVDZPeldIaWthLVdpYw?oc=5)
+### [Low Daily Step Counts Linked To Dementia, Parkinson's And Stroke - U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
 
-2026-10-17 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGtIeTViTmZTRnVFak5LMlpXWENQZHU2ZlFVWVhMT3J4WDF1QXJZT2RsSUNDZmtBQUF1d3RIRHhaN1I4Y2FXVGt1V2Ftc3NDdmpxWGhidy1EYVRFdW5ndlRLb1BBckxNTzBYUC1WYkk5MVB0TUx1d0FfYl9walhaclVySllUUWRBVWtHWXExYlpfUUpEMXEyQ3c5UWdoUTZJM1hYcURRODB6cGc3TGxpUmNNT1BRTWJ0SHlodGQ5OGgyQmJqaThxSlUzV2lSWThIV19NclpiUER5Z9IB4AFBVV95cUxPUmpSQS1wZF9UbnJnV1hwWDhQdG1OWW1DM2ZkVVpyWGdYalBrblRMNlJKdThIZVB2RGE4Wk1rNzA5YzVoNnlkcnZmc3ExclBHVC0yM1V1d3N5eVZUODRwbUxCV2lTaFEwUlg2NjVqeERRcUlhZ3NhYU41VC02MFZPSFQ5eW9vSXhxN0ZFcDNIWFpKajZ2Ynd2TlJyOFpJUDRKOHpYeEVIZnVUUGV5N05YR0MxOVNyeVVEWVhDN3ZDTEFndVlwczJUWTIyc0M1R2RxcGlrVDZPeldIaWthLVdpYw?oc=5)
-
----
-
-### [SPICE Score Predicts Long-Term Outcomes After Stroke](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW43cjhkaXpKeHB4WFp0YmR1Z2hseU5JcV9CQ2xrS2VIODdNXzRUSjdoZE5aRUU2SUo3eXowMmhabWE0bk0wbWhJUUdVdEc0NUEzT1RReWZHNWdfRUdLcUZLYWRzZjBNdWFsREUxeUJjT3pxSXZFN2k2RGh6bWlyMlpHR3pQbmlVRkxQNGFlNWtBaEpzU2xkeTVPTQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW43cjhkaXpKeHB4WFp0YmR1Z2hseU5JcV9CQ2xrS2VIODdNXzRUSjdoZE5aRUU2SUo3eXowMmhabWE0bk0wbWhJUUdVdEc0NUEzT1RReWZHNWdfRUdLcUZLYWRzZjBNdWFsREUxeUJjT3pxSXZFN2k2RGh6bWlyMlpHR3pQbmlVRkxQNGFlNWtBaEpzU2xkeTVPTQ?oc=5)
+Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
 
 ---
 

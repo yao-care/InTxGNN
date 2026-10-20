@@ -14,7 +14,7 @@ permalink: /news/nimotuzumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Nimotuzumab?">
-<strong>Nimotuzumab</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Nimotuzumab</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,15 @@ This page combines the AI-predicted indications for Nimotuzumab with the latest 
 <li>cortical cataract (98.5%)</li>
 <li>nuclear senile cataract (98.5%)</li>
 <li>senile cataract (98.5%)</li>
-<li class="indication-matched">diabetic retinopathy (98.3%)<span class="indication-tag">📰 diabetic retinopathy</span></li>
+<li>diabetic retinopathy (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nimotuzumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [AAO 2026: Closing the Screening Gap in Diabetic Retinopathy - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hQTnNza1FGSkk4SFNsN0tTbUdnSU13MWtjaFRlZ0w4S3gzb0RtTnhoa0lVWGFnZU9GZ000Wndqc0p6a1ZpX2VGbDA4ODN0akttZmRFcTlmZ0NnTnZCVzFOdFRfR2ZYaVp0QWZUa29NY1ZUbjlvOS1QQ3Rrd0IyUExfZ0g5dXRCbGZwOFRvU3RxN04wRFVWRTFSWWVHTHJaSkxOTFp5Vng3N1B3WWFURw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
-
-Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hQTnNza1FGSkk4SFNsN0tTbUdnSU13MWtjaFRlZ0w4S3gzb0RtTnhoa0lVWGFnZU9GZ000Wndqc0p6a1ZpX2VGbDA4ODN0akttZmRFcTlmZ0NnTnZCVzFOdFRfR2ZYaVp0QWZUa29NY1ZUbjlvOS1QQ3Rrd0IyUExfZ0g5dXRCbGZwOFRvU3RxN04wRFVWRTFSWWVHTHJaSkxOTFp5Vng3N1B3WWFURw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

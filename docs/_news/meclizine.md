@@ -14,7 +14,7 @@ permalink: /news/meclizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Meclizine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### ['We didn't know a cold sore could kill a baby'](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90QldEX05KU1dWdGhqTFpPQ2lnQm92M1ptN25tbmxoemNDcTZXeEdUQ1gxWS15RlpqZkk1dVY2TzEtMGt1LWZsbXRWcTllWDlNZ0pkc3RzRVppOU0?oc=5)
-
-2026-10-19 <span class="news-indication-tag">cold</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE90QldEX05KU1dWdGhqTFpPQ2lnQm92M1ptN25tbmxoemNDcTZXeEdUQ1gxWS15RlpqZkk1dVY2TzEtMGt1LWZsbXRWcTllWDlNZ0pkc3RzRVppOU0?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

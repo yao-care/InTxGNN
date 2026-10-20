@@ -38,11 +38,11 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (1)
 
-### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+### [Low Daily Step Counts Linked To Dementia, Parkinson's And Stroke - U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMivwFBVV95cUxOaks0NEQ1d3h2ZlJJczBNT3UzSUVXUHVGLXpWUi1aRUZZNzVBUDdNbXE5ejdfWWhUc0g4N0RsakhMSEM3Zk5uRDZPVERqVWZYdm1Nd2swVjRNRjd0cjctZXdkZm1fbGdPeFQ4cktJN2h3OHQwcHFMbW1lS0Q0VFltaE5JT0o3M3hkcnl3VTRmWHQtZVV6d0UyWUljcGUxMC1tdUJDR0g0V1VPNHhIaVVKQXk1RHBEbThaSHRZQmZjYw?oc=5)
 
 ---
 
