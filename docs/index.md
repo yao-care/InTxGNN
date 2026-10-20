@@ -14,7 +14,7 @@ Drug repurposing (also known as drug repositioning) is the process of finding ne
 
 ## How It Works
 
-InTxGNN uses the TxGNN knowledge graph to predict potential new indications for drugs approved by India's Central Drugs Standard Control Organisation (CDSCO).
+InTxGNN uses the TxGNN graph neural network to predict potential new indications for drugs approved by India's Central Drugs Standard Control Organisation (CDSCO).
 
 1. **Data Collection**: We collect drug data from CDSCO
 2. **Knowledge Graph Mapping**: Drugs are mapped to the TxGNN knowledge graph
@@ -38,7 +38,7 @@ InTxGNN uses the TxGNN knowledge graph to predict potential new indications for 
 - [DrugBank](https://go.drugbank.com/) - Drug database
 - [ClinicalTrials.gov](https://clinicaltrials.gov/) - Clinical trial registry
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Biomedical literature
-- [TxGNN](https://zitniklab.hms.harvard.edu/projects/TxGNN/) - Knowledge graph
+- [TxGNN](https://zitniklab.hms.harvard.edu/projects/TxGNN/) - Graph neural network trained on a knowledge graph
 
 ---
 
