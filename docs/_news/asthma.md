@@ -3,7 +3,7 @@ layout: default
 title: "dama (asthma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dama (asthma). 1 articles, 1 related drugs."
+description: "Health news about dama (asthma). 2 articles, 1 related drugs."
 permalink: /news/asthma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asthma/
 ---
 
 <p class="key-answer" data-question="What news is there about dama (asthma)?">
-<strong>dama (asthma)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>dama (asthma)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page brings together the latest health news about “dama” and lists the 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [New research shows how microplastics and water interactions could lead to cell damage - The Columbian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTBxRF80eTNNZlRPSUpzNW1CR1R5UVRzQy10M3ozTjVTNE1QNUVWSnVFVUtGSHJpaURIbGxfX0IzeGdfbUpPekVMSkMwWTE0SkJkOFNNTTN3QVQyR0VLckxwQlIxVktaemtPWFRXQ3NYTU5PQ3RXb3JLV2RCVFI1dG02bjdlVGtOYkh4TnNnMFhqeEZwWFpIUk04UUNQakswOXZZZGJlc3hrSWQ0dWlVRkxSRW9nT1A3SFhOSURtdi1TcGJjX05xcQ?oc=5)
+
+2026-10-19
+
+Source: [The Columbian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTBxRF80eTNNZlRPSUpzNW1CR1R5UVRzQy10M3ozTjVTNE1QNUVWSnVFVUtGSHJpaURIbGxfX0IzeGdfbUpPekVMSkMwWTE0SkJkOFNNTTN3QVQyR0VLckxwQlIxVktaemtPWFRXQ3NYTU5PQ3RXb3JLV2RCVFI1dG02bjdlVGtOYkh4TnNnMFhqeEZwWFpIUk04UUNQakswOXZZZGJlc3hrSWQ0dWlVRkxSRW9nT1A3SFhOSURtdi1TcGJjX05xcQ?oc=5)
+
+---
 
 ### [Scientists tested 39 sweeteners and uncovered surprising gut effects - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5)
 

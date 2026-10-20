@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [New research shows how microplastics and water interactions could lead to cell damage - The Columbian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTBxRF80eTNNZlRPSUpzNW1CR1R5UVRzQy10M3ozTjVTNE1QNUVWSnVFVUtGSHJpaURIbGxfX0IzeGdfbUpPekVMSkMwWTE0SkJkOFNNTTN3QVQyR0VLckxwQlIxVktaemtPWFRXQ3NYTU5PQ3RXb3JLV2RCVFI1dG02bjdlVGtOYkh4TnNnMFhqeEZwWFpIUk04UUNQakswOXZZZGJlc3hrSWQ0dWlVRkxSRW9nT1A3SFhOSURtdi1TcGJjX05xcQ?oc=5)
+
+2026-10-19 <span class="news-indication-tag">dama</span>
+
+Source: [The Columbian](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTBxRF80eTNNZlRPSUpzNW1CR1R5UVRzQy10M3ozTjVTNE1QNUVWSnVFVUtGSHJpaURIbGxfX0IzeGdfbUpPekVMSkMwWTE0SkJkOFNNTTN3QVQyR0VLckxwQlIxVktaemtPWFRXQ3NYTU5PQ3RXb3JLV2RCVFI1dG02bjdlVGtOYkh4TnNnMFhqeEZwWFpIUk04UUNQakswOXZZZGJlc3hrSWQ0dWlVRkxSRW9nT1A3SFhOSURtdi1TcGJjX05xcQ?oc=5)
+
+---
 
 ### [Scientists tested 39 sweeteners and uncovered surprising gut effects - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 2 articles, 15 related drugs."
+description: "Health news about stroke. 4 articles, 15 related drugs."
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>4 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
 
 ### [Stroke Rates Nearly Double Among Younger Adults](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXZBenFadmtpYVpPWnkxdFNEdWxOQUFDbmJKTjg3MzdaWmpQWVMxSU5iVkltRlJGU0NPNHFmd1pPcG9mNm5QZXlXM1dHUVZhdFB6LTlubFdwRVRuMmE4YWJFdDQwNmF3dV9TSExDUV90RFB3a0pGYnRsZmRhMEQ2TzlIanRRSmpZWGtlNHJTMDdKY2R6Ry1OREFSZ3dxT2dwVjZHT1lRek_SAa4BQVVfeXFMTmNERzFhanZjVkNCUjB4b3Q4dW1uNTQwdm1uZ0gwbGVLSHNaMDR5MlhfV2ZSNUhLQVhseUhIZmdjVzI2dk1zNm9Uemp0SkJibG1GV09Qemc4UmtlWkllWmV1TWxDdzdiWGpnbmJSSHRJdzJwUDF6N3NWYkxPazhtd2J1OVZGRWpaMGZ1dTZveGNzaWhpZlF6X0E1RHVqTk9zVGEyS2t3d01CeDVhSDNR?oc=5)
 
@@ -53,11 +53,27 @@ Source: [Labroots](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQXZBenFa
 
 ---
 
-### [Researchers in Australia develop AI tool to assess stroke risk](https://news.google.com/rss/articles/CBMifEFVX3lxTE1kY1pBT2tMclBreGpMMm9VYUlqNXpBUzJNek9OQWttMHFEWGp6RFYxbHFrQmdSY0ZEYzhRQkJ0cWpXMl95U1Jpbmk4cGdRblpoQzV0ZHl6RjlfaEJPZm5ubm4zOVBXM3gweFBnb05tNmo2RlF0WktPdUlpS0U?oc=5)
+### [Researchers in Australia develop AI tool to assess stroke risk](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZnhSb3VnbnRHaEFHbElDMEZrR0NYdWR2dXNrMEtRbkVycGoxWmRJaUQtODV2OU8wQ2oyLUJmdjVYRncwLTlJb1FmWlRGWXBfaFlQcjVuY0pXZXZnTWVXV3RQYTNTaGlNRkV4LUd1alc4VUNKZVBQbUhPVUNhV29kSHUzYVQzSlRuZWRKZ0lDRWF2WXg4MW4ySTE1X1IwTEZhXzRXTHFWVmxUNG1HNmFSZkozaGpKZzhq?oc=5)
 
 2026-10-18
 
-Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE1kY1pBT2tMclBreGpMMm9VYUlqNXpBUzJNek9OQWttMHFEWGp6RFYxbHFrQmdSY0ZEYzhRQkJ0cWpXMl95U1Jpbmk4cGdRblpoQzV0ZHl6RjlfaEJPZm5ubm4zOVBXM3gweFBnb05tNmo2RlF0WktPdUlpS0U?oc=5)
+Source: [myRepublica](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZnhSb3VnbnRHaEFHbElDMEZrR0NYdWR2dXNrMEtRbkVycGoxWmRJaUQtODV2OU8wQ2oyLUJmdjVYRncwLTlJb1FmWlRGWXBfaFlQcjVuY0pXZXZnTWVXV3RQYTNTaGlNRkV4LUd1alc4VUNKZVBQbUhPVUNhV29kSHUzYVQzSlRuZWRKZ0lDRWF2WXg4MW4ySTE1X1IwTEZhXzRXTHFWVmxUNG1HNmFSZkozaGpKZzhq?oc=5)
+
+---
+
+### [Can a blood pressure of 168/115 mmHg increase your risk of stroke or heart attack? - The Indian Express](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGtIeTViTmZTRnVFak5LMlpXWENQZHU2ZlFVWVhMT3J4WDF1QXJZT2RsSUNDZmtBQUF1d3RIRHhaN1I4Y2FXVGt1V2Ftc3NDdmpxWGhidy1EYVRFdW5ndlRLb1BBckxNTzBYUC1WYkk5MVB0TUx1d0FfYl9walhaclVySllUUWRBVWtHWXExYlpfUUpEMXEyQ3c5UWdoUTZJM1hYcURRODB6cGc3TGxpUmNNT1BRTWJ0SHlodGQ5OGgyQmJqaThxSlUzV2lSWThIV19NclpiUER5Z9IB4AFBVV95cUxPUmpSQS1wZF9UbnJnV1hwWDhQdG1OWW1DM2ZkVVpyWGdYalBrblRMNlJKdThIZVB2RGE4Wk1rNzA5YzVoNnlkcnZmc3ExclBHVC0yM1V1d3N5eVZUODRwbUxCV2lTaFEwUlg2NjVqeERRcUlhZ3NhYU41VC02MFZPSFQ5eW9vSXhxN0ZFcDNIWFpKajZ2Ynd2TlJyOFpJUDRKOHpYeEVIZnVUUGV5N05YR0MxOVNyeVVEWVhDN3ZDTEFndVlwczJUWTIyc0M1R2RxcGlrVDZPeldIaWthLVdpYw?oc=5)
+
+2026-10-17
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGtIeTViTmZTRnVFak5LMlpXWENQZHU2ZlFVWVhMT3J4WDF1QXJZT2RsSUNDZmtBQUF1d3RIRHhaN1I4Y2FXVGt1V2Ftc3NDdmpxWGhidy1EYVRFdW5ndlRLb1BBckxNTzBYUC1WYkk5MVB0TUx1d0FfYl9walhaclVySllUUWRBVWtHWXExYlpfUUpEMXEyQ3c5UWdoUTZJM1hYcURRODB6cGc3TGxpUmNNT1BRTWJ0SHlodGQ5OGgyQmJqaThxSlUzV2lSWThIV19NclpiUER5Z9IB4AFBVV95cUxPUmpSQS1wZF9UbnJnV1hwWDhQdG1OWW1DM2ZkVVpyWGdYalBrblRMNlJKdThIZVB2RGE4Wk1rNzA5YzVoNnlkcnZmc3ExclBHVC0yM1V1d3N5eVZUODRwbUxCV2lTaFEwUlg2NjVqeERRcUlhZ3NhYU41VC02MFZPSFQ5eW9vSXhxN0ZFcDNIWFpKajZ2Ynd2TlJyOFpJUDRKOHpYeEVIZnVUUGV5N05YR0MxOVNyeVVEWVhDN3ZDTEFndVlwczJUWTIyc0M1R2RxcGlrVDZPeldIaWthLVdpYw?oc=5)
+
+---
+
+### [SPICE Score Predicts Long-Term Outcomes After Stroke](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW43cjhkaXpKeHB4WFp0YmR1Z2hseU5JcV9CQ2xrS2VIODdNXzRUSjdoZE5aRUU2SUo3eXowMmhabWE0bk0wbWhJUUdVdEc0NUEzT1RReWZHNWdfRUdLcUZLYWRzZjBNdWFsREUxeUJjT3pxSXZFN2k2RGh6bWlyMlpHR3pQbmlVRkxQNGFlNWtBaEpzU2xkeTVPTQ?oc=5)
+
+2026-10-16
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW43cjhkaXpKeHB4WFp0YmR1Z2hseU5JcV9CQ2xrS2VIODdNXzRUSjdoZE5aRUU2SUo3eXowMmhabWE0bk0wbWhJUUdVdEc0NUEzT1RReWZHNWdfRUdLcUZLYWRzZjBNdWFsREUxeUJjT3pxSXZFN2k2RGh6bWlyMlpHR3pQbmlVRkxQNGFlNWtBaEpzU2xkeTVPTQ?oc=5)
 
 ---
 

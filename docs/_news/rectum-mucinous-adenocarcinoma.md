@@ -32,19 +32,19 @@ This page brings together the latest health news about “rectal cancer” and l
 
 ## Related News (2)
 
+### [Ultra-Processed Foods Show No Overall Link To Colorectal Cancer Risk](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVhiaXI2X2dqRUxFa29vMjA1MDF0QVg1eFVuN0lrWVRlRTVRckZ5ZjZETTJDVFFhQ3VoMXcwWWpUaEthamVfb01SVWZ5cS1vYUZKZWFxY1ZjTE0yRFBuMFFwQmhwcWhSb2JMSUlnZ0QwQmdOQzNuN3VmdzlfeDh1ZnNn?oc=5)
+
+2026-10-19
+
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVhiaXI2X2dqRUxFa29vMjA1MDF0QVg1eFVuN0lrWVRlRTVRckZ5ZjZETTJDVFFhQ3VoMXcwWWpUaEthamVfb01SVWZ5cS1vYUZKZWFxY1ZjTE0yRFBuMFFwQmhwcWhSb2JMSUlnZ0QwQmdOQzNuN3VmdzlfeDh1ZnNn?oc=5)
+
+---
+
 ### [Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
 
 2026-10-18
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TER1ZUlBckY2N2h4R1ZobGNleXdqQk5RYlh4S2V2dUFaczYxejZOZDgxS3ZpV0xxSHhlRV9FU29qQy1YSXJDbTFrVHUzSHd5aW44c2dEWUtZ?oc=5)
-
----
-
-### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
-
-2026-10-18
-
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
 ---
 

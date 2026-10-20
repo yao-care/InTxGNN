@@ -14,7 +14,7 @@ permalink: /news/desonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Desonide?">
-<strong>Desonide</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Desonide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ This page combines the AI-predicted indications for Desonide with the latest hea
 <p><a href="{{ '/drugs/desonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Budesonide Tablets Cut Esophageal Strictures After ESD](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXhmeG03MkRoV2JVeXdyWnVuR215d3BxRDhPLUVaWXc4a2pWTy1XbnZZemN3MTlwclo0MXplYVVXbVRLN3loSTVyZWFzcGRCbnI4RG5VZ28wUkozQTVEZ0VKeGU0eXNIZ1hrc0dJemZaZXFDdGFOUXhQVjVFQWhMc29pZWo0MGdSbm1NcUdleWwyV1RjUTI3WEJFSGl5WWx1bzRNQTZZM2xLUQ?oc=5)
-
-2026-10-19 <span class="news-drug-tag">Budesonide</span> <span class="news-drug-tag">BUDESONIDE</span> <span class="news-drug-tag">DESONIDE</span> <span class="news-drug-tag">Desonide</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXhmeG03MkRoV2JVeXdyWnVuR215d3BxRDhPLUVaWXc4a2pWTy1XbnZZemN3MTlwclo0MXplYVVXbVRLN3loSTVyZWFzcGRCbnI4RG5VZ28wUkozQTVEZ0VKeGU0eXNIZ1hrc0dJemZaZXFDdGFOUXhQVjVFQWhMc29pZWo0MGdSbm1NcUdleWwyV1RjUTI3WEJFSGl5WWx1bzRNQTZZM2xLUQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

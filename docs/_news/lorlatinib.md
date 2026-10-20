@@ -51,19 +51,27 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RI
 
 ---
 
+### [Ultra-Processed Foods Show No Overall Link To Colorectal Cancer Risk](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVhiaXI2X2dqRUxFa29vMjA1MDF0QVg1eFVuN0lrWVRlRTVRckZ5ZjZETTJDVFFhQ3VoMXcwWWpUaEthamVfb01SVWZ5cS1vYUZKZWFxY1ZjTE0yRFBuMFFwQmhwcWhSb2JMSUlnZ0QwQmdOQzNuN3VmdzlfeDh1ZnNn?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
+
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVhiaXI2X2dqRUxFa29vMjA1MDF0QVg1eFVuN0lrWVRlRTVRckZ5ZjZETTJDVFFhQ3VoMXcwWWpUaEthamVfb01SVWZ5cS1vYUZKZWFxY1ZjTE0yRFBuMFFwQmhwcWhSb2JMSUlnZ0QwQmdOQzNuN3VmdzlfeDh1ZnNn?oc=5)
+
+---
+
+### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+
+---
+
 ### [A shot at a cervical cancer-free generation | Hindustan Times - Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeG84VUdTNXJxdk1vajNMNWp5aE5LeUR1QWVDeUZqN05lSUlGb0lKNVEySW1QZmlnRldpOHpKZ0JYdXNlUk9xX3FieXoxNmE4ZDN3WkExWF9PTXN0ZzlUR1lUQ0gycnY1b3Y5UjdfUXc4dVA5ZTVET2NZUWNfYzNyUVp1ckYtSXIzaUx2Y2NOU01VLVRkd2tyUVYxVHpWT2Yzc1dUMF9ZQTRHNW12enJBcHFkYjFsWjBjN0o3Z9IBwgFBVV95cUxNdndkaGxxbkJVZjZXYmZsTHE3ZWY5UFZlcHBaMzVSTlNjS0xuMTNMR0RkdlRsWUJ5aE9xdkpLT3M3OWQxbEF0ZVMwenE2MURLOElYTUJhb1ViRXNPb19TNlZ0TzdReTJSbGMteW1nSUxpdVYzMEtncUQ1X3NfWVh2T19VLUtpdVpzWUtIRGlBVW5SSWlSdHI2dGJMeTZzSVJaYk53dmtneURFR0FueHVleE5FWEIzdVFPbFJramZPa1dHQQ?oc=5)
-
----
-
-### [Just 3,000 steps a day may help slow Alzheimer's, scientists find - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzd4U1NheGpQTFd2cTJSdkllZUJhWk5MQUNITU8yMkswQmxPb2tBYTNldTU2MXJGRUdWX0oxXy1mZzlBS0FpWW44ejdEWGtjYS1HSzFBRVluNXQ5OEZ0M0JsRHl3TmI5SnhTS2t6MA?oc=5)
-
-2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNzd4U1NheGpQTFd2cTJSdkllZUJhWk5MQUNITU8yMkswQmxPb2tBYTNldTU2MXJGRUdWX0oxXy1mZzlBS0FpWW44ejdEWGtjYS1HSzFBRVluNXQ5OEZ0M0JsRHl3TmI5SnhTS2t6MA?oc=5)
 
 ---
 
@@ -104,14 +112,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzVGprU0F1TE
 2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
-
----
-
-### [Replacing 10% ultra-processed foods cuts bowel cancer risk - The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
-
-2026-10-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
-
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUluSTVEOHZIc0c4YV9VMWVjRWZBQ3BKX09vQ0RYVHJXeERkeFhHNHU3OVJac3Q4S0F1S1B6ejExZExxdmdyVmxoa09UenlZMXduNU8tWEJMeE1SUlZoRTJrLUFvUWlFN0JVY0lzTUNJNUlfQzdGc29iVzNQckdRVXFLNmJfV0NjN2o5OC0wb0VtLU1LYzlUVks0OUozVVE?oc=5)
 
 ---
 
