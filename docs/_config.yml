@@ -2,7 +2,7 @@
 
 # Basic settings
 title: "InTxGNN Drug Repurposing Reports"
-description: "India Drug Repurposing Predictions using TxGNN Knowledge Graph"
+description: "India Drug Repurposing Predictions using the TxGNN graph neural network"
 
 url: "https://intxgnn.yao.care"
 baseurl: ""

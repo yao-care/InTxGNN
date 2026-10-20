@@ -6,7 +6,7 @@ nav_order: 1
 
 # InTxGNN - India Drug Repurposing Predictions
 
-Welcome to InTxGNN, a drug repurposing prediction system for India using the TxGNN knowledge graph.
+Welcome to InTxGNN, a drug repurposing prediction system for India using the TxGNN graph neural network.
 
 ## What is Drug Repurposing?
 
