@@ -3,7 +3,7 @@ layout: default
 title: "Azathioprine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Azathioprine. Original indication: . 5 predicted indications."
+description: "Health news related to Azathioprine. Original indication: . 1 predicted indications."
 permalink: /news/azathioprine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,20 +25,22 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Azatoz 50mg Tablet | Strip of 10 tablets | Cytoz Pharmaceuticals (99.0%)</li>
-<li>Azawan Tablet | Strip of 10 tablets | Rowan Bioceuticals Pvt Ltd (99.0%)</li>
-<li>Aprin 50mg Tablet | Strip of 10 tablets | Aegis Pharmaceuticals (99.0%)</li>
-<li>Azoalfa 50 Tablet | Strip of 10 tablets | Alniche Life Sciences Pvt Ltd (99.0%)</li>
-<li>Vaprin Tablet | Strip of 10 tablets | Zydus Cadila (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Flagellin Antibody Predicts Future Crohn’s Disease](https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDg1WE9nN0E3aVZjZjRpMm1ERktXei0tZnFObm1YbE5ZVUFBbmdLd1RPNDRCd0FYaEIxZFZtdDF0QTZLc244eXQ4TGJScks1aTVGd1dRSzNBYmlQbEZrUDNtZlJyUTBna1MydHI1QnpIdnZZTlQyTThPQW4tWGtMaXd1dmpIenZsblE?oc=5)
+
+2026-10-19 <span class="news-indication-tag">inflammatory bowel disease</span>
+
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDg1WE9nN0E3aVZjZjRpMm1ERktXei0tZnFObm1YbE5ZVUFBbmdLd1RPNDRCd0FYaEIxZFZtdDF0QTZLc244eXQ4TGJScks1aTVGd1dRSzNBYmlQbEZrUDNtZlJyUTBna1MydHI1QnpIdnZZTlQyTThPQW4tWGtMaXd1dmpIenZsblE?oc=5)
+
+---
 
 
 <div class="disclaimer">

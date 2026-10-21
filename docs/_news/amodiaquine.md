@@ -3,7 +3,7 @@ layout: default
 title: "Amodiaquine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amodiaquine. Original indication: he TxGNN model predicts it may be effective for **.... 2 predicted indications."
+description: "Health news related to Amodiaquine. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/amodiaquine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amodiaquine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amodiaquine?">
-<strong>Amodiaquine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Amodiaquine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,8 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **pulmonary hypertension**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Eriquin 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Basoquin Suspension | Bottle of 30 ml suspension | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pulmonary hypertension (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amodiaquine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Alfacalcidol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Alfacalcidol. Original indication: . 9 predicted indications."
+description: "Health news related to Alfacalcidol. Original indication: . 5 predicted indications."
 permalink: /news/alfacalcidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alfacalcidol/
 ---
 
 <p class="key-answer" data-question="What news is there about Alfacalcidol?">
-<strong>Alfacalcidol</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Alfacalcidol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,12 @@ This page combines the AI-predicted indications for Alfacalcidol with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Dahlberg-Borer-Newcomer syndrome | 99.60% | L5 | Retrieved literature is general (Fanconi-type disorders, FGF23 hypophosphataemia, vitamin D pharmacology) and does not study this syndrome. Hold. (99.0%)</li>
-<li>Craniofacial conodysplasia | 99.55% | L5 | No clear mechanistic link; no trials or literature. Hold. (99.0%)</li>
-<li>Acromesomelic dysplasia, Campailla Martinelli type | 99.53% | L5 | No clear mechanistic link; no trials or literature. Hold. (99.0%)</li>
-<li>Renal tubular acidosis | 99.27% | L4 | Five case reports describe osteomalacia secondary to RTA treated with alfacalcidol plus alkali and other therapy, with improvement. Alfacalcidol acts on the bone complication rather than the tubular defect, and its specific contribution cannot be separated from co-treatments. Research question. (99.0%)</li>
-<li>Alphadol-C Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record (99.0%)</li>
-<li>Alphadol 0.5mcg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record (99.0%)</li>
-<li>Alphadol 0.25mcg Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record (99.0%)</li>
-<li>Alphadol 1mcg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not stated in the licence record (99.0%)</li>
-<li>Decalcid 0.25mcg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Familial isolated hypoparathyroidism due to impaired PTH secretion (99.6%)</li>
+<li>Dahlberg-Borer-Newcomer syndrome (99.6%)</li>
+<li>Craniofacial conodysplasia (99.5%)</li>
+<li>Acromesomelic dysplasia, Campailla Martinelli type (99.5%)</li>
+<li>Renal tubular acidosis (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Citalopram News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Citalopram. Original indication: . 5 predicted indications."
+description: "Health news related to Citalopram. Original indication: . 1 predicted indications."
 permalink: /news/citalopram/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/citalopram/
 ---
 
 <p class="key-answer" data-question="What news is there about Citalopram?">
-<strong>Citalopram</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Citalopram</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Citalopram with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Citadelm 20mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Cytop 20mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Cita 40mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>C Pram 5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Citosys 10mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Obsessive-compulsive disorder (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/citalopram/' | relative_url }}">View full drug report →</a></p>

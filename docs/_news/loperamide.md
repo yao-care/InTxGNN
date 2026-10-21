@@ -3,7 +3,7 @@ layout: default
 title: "Loperamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Loperamide. Original indication: . 5 predicted indications."
+description: "Health news related to Loperamide. Original indication: . 1 predicted indications."
 permalink: /news/loperamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loperamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Loperamide?">
-<strong>Loperamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Loperamide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Loperamide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Imodium Capsule (Janssen Pharmaceuticals) | Strip of 4 capsules | Not specified (99.0%)</li>
-<li>Lopidus Capsule (Zydus Healthcare Limited) | Strip of 10 capsules | Not specified (99.0%)</li>
-<li>Loramyl 2mg Tablet (Adonis Laboratories Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Ridol 2mg Tablet (Gufic Bioscience Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Lomid M Syrup (Agron Remedies Pvt Ltd) | Bottle of 30 ml syrup | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acute contagious conjunctivitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loperamide/' | relative_url }}">View full drug report →</a></p>

@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Tafamidis with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>VyndaMx 61mg Soft Gelatin Capsule | Box of 30 soft gelatin capsules (oral) | Not specified in the data compiled (99.0%)</li>
+<li>Primary amyloidosis (85.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tafamidis/' | relative_url }}">View full drug report →</a></p>

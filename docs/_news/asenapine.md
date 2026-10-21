@@ -3,7 +3,7 @@ layout: default
 title: "Asenapine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Asenapine. Original indication: . 5 predicted indications."
+description: "Health news related to Asenapine. Original indication: . 1 predicted indications."
 permalink: /news/asenapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/asenapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Asenapine?">
-<strong>Asenapine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Asenapine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Asenapine with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Asenapt 10 Sublingual tablet (Sun Pharmaceutical) | Strip of 10 sublingual tablets | Not stated in the licence record (99.0%)</li>
-<li>Asenapt 5 Sublingual tablet (Sun Pharmaceutical) | Strip of 10 sublingual tablets | Not stated in the licence record (99.0%)</li>
-<li>Welenuf 5mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Azin 10mg Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Azin 5mg Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (rank 1) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/asenapine/' | relative_url }}">View full drug report →</a></p>

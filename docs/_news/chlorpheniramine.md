@@ -3,7 +3,7 @@ layout: default
 title: "Chlorpheniramine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chlorpheniramine. Original indication: . 4 predicted indications."
+description: "Health news related to Chlorpheniramine. Original indication: . 1 predicted indications."
 permalink: /news/chlorpheniramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorpheniramine/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorpheniramine?">
-<strong>Chlorpheniramine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Chlorpheniramine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Chlorpheniramine with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>allergic urticaria (99.8%)</li>
-<li>nasal cavity disease (99.5%)</li>
-<li>acute laryngopharyngitis (99.5%)</li>
-<li>cold urticaria (99.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Allergic urticaria (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorpheniramine/' | relative_url }}">View full drug report →</a></p>

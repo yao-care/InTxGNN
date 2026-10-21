@@ -3,7 +3,7 @@ layout: default
 title: "Urofollitropin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Urofollitropin. Original indication: . 5 predicted indications."
+description: "Health news related to Urofollitropin. Original indication: . 1 predicted indications."
 permalink: /news/urofollitropin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/urofollitropin/
 ---
 
 <p class="key-answer" data-question="What news is there about Urofollitropin?">
-<strong>Urofollitropin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Urofollitropin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Urofollitropin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Euvifol-HP 150IU Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Ovitropin FSH 150IU Injection | Box of 1 injection | Not stated (99.0%)</li>
-<li>Follicare 150IU HP Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Fostine 75 Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Lupi Rfsh 900IU Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/urofollitropin/' | relative_url }}">View full drug report →</a></p>

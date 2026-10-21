@@ -3,7 +3,7 @@ layout: default
 title: "Doripenem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doripenem. Original indication: . 5 predicted indications."
+description: "Health news related to Doripenem. Original indication: . 1 predicted indications."
 permalink: /news/doripenem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doripenem/
 ---
 
 <p class="key-answer" data-question="What news is there about Doripenem?">
-<strong>Doripenem</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Doripenem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Doripenem with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dori 500mg Injection | Vial of 1 injection | Medilife Health Sciences Pvt Ltd (99.0%)</li>
-<li>Doriray 500mg Injection | Vial of 1 injection | Mylan Pharmaceuticals Pvt Ltd (99.0%)</li>
-<li>Inarem 250mg Injection | Vial of 1 injection | Emcure Pharmaceuticals Ltd (99.0%)</li>
-<li>Dorilon 500mg Injection | Vial of 1 injection | Zovilon Healthcare Private Limited (99.0%)</li>
-<li>Dpenem 500mg Injection | Vial of 1 injection | Bharat Serums & Vaccines Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Idiopathic copper-associated cirrhosis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doripenem/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Remdesivir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Remdesivir. Original indication: . 5 predicted indications."
+description: "Health news related to Remdesivir. Original indication: . 1 predicted indications."
 permalink: /news/remdesivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/remdesivir/
 ---
 
 <p class="key-answer" data-question="What news is there about Remdesivir?">
-<strong>Remdesivir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Remdesivir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Remdesivir with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Remdiz 100mg Injection (Glenmark Pharmaceuticals Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Remwin 100mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Remdac Injection (Zydus Cadila) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Cipremi Injection (Cipla Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Desrem Injection (Mylan Pharmaceuticals Pvt Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Multiple endocrine neoplasia (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/remdesivir/' | relative_url }}">View full drug report →</a></p>

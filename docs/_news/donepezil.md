@@ -3,7 +3,7 @@ layout: default
 title: "Donepezil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Donepezil. Original indication: . 5 predicted indications."
+description: "Health news related to Donepezil. Original indication: . 1 predicted indications."
 permalink: /news/donepezil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/donepezil/
 ---
 
 <p class="key-answer" data-question="What news is there about Donepezil?">
-<strong>Donepezil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Donepezil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Donepezil with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Donix 5mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Alzidoc 5mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Dorent 5mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Donetaz ODS 5 (Sun Pharmaceutical Industries Ltd) | Orally disintegrating strip | Not recorded (99.0%)</li>
-<li>Donep-SR 23 Tablet (Alkem Laboratories Ltd) | Strip of 10 sustained-release tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Psychogenic movement disorders (rank 1, TxGNN's top prediction); chronic tic disorder is the best-supported alternative (rank 2) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/donepezil/' | relative_url }}">View full drug report →</a></p>

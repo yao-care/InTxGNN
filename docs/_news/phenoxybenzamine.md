@@ -3,7 +3,7 @@ layout: default
 title: "Phenoxybenzamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Phenoxybenzamine. Original indication: . 4 predicted indications."
+description: "Health news related to Phenoxybenzamine. Original indication: . 1 predicted indications."
 permalink: /news/phenoxybenzamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/phenoxybenzamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Phenoxybenzamine?">
-<strong>Phenoxybenzamine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Phenoxybenzamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Phenoxybenzamine with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Biophenox 50mg Injection | Vial of 1 injection | Not specified (99.0%)</li>
-<li>Fenoxene Capsule | Strip of 10 capsules | Not specified (99.0%)</li>
-<li>Zaxyben 50mg Injection | Vial of 1 ml injection | Not specified (99.0%)</li>
-<li>Fenoxene 50mg Injection | Vial of 1 ml injection | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary hereditary glaucoma (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenoxybenzamine/' | relative_url }}">View full drug report →</a></p>

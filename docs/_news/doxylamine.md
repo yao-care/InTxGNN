@@ -3,7 +3,7 @@ layout: default
 title: "Doxylamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxylamine. Original indication: . 5 predicted indications."
+description: "Health news related to Doxylamine. Original indication: . 1 predicted indications."
 permalink: /news/doxylamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doxylamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxylamine?">
-<strong>Doxylamine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Doxylamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Doxylamine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Doxqueen 10mg/10mg/2.5mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Gud M Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Doxibert-Plus Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Sinate Tablet | Strip of 30 tablets | Not recorded (99.0%)</li>
-<li>Nnv Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Allergic urticaria (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxylamine/' | relative_url }}">View full drug report →</a></p>

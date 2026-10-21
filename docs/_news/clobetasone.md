@@ -3,7 +3,7 @@ layout: default
 title: "Clobetasone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clobetasone. Original indication: . 5 predicted indications."
+description: "Health news related to Clobetasone. Original indication: . 1 predicted indications."
 permalink: /news/clobetasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clobetasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Clobetasone?">
-<strong>Clobetasone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Clobetasone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Clobetasone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Miclogenta Cream | Tube of 5 gm cream | Not specified (99.0%)</li>
-<li>Nadoxin-C Cream | Tube of 10 gm cream | Not specified (99.0%)</li>
-<li>Butesone Cream | Tube of 15 gm cream | Not specified (99.0%)</li>
-<li>Clodis GM Cream | Tube of 15 gm cream | Not specified (99.0%)</li>
-<li>Clomed M Cream | Tube of 10 gm cream | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary cutaneous T-cell lymphoma (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">View full drug report →</a></p>

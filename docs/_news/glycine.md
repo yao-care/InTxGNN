@@ -3,7 +3,7 @@ layout: default
 title: "Glycine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glycine. Original indication: . 2 predicted indications."
+description: "Health news related to Glycine. Original indication: . 1 predicted indications."
 permalink: /news/glycine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glycine/
 ---
 
 <p class="key-answer" data-question="What news is there about Glycine?">
-<strong>Glycine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Glycine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Glycine with the latest heal
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>nasal cavity disease (99.8%)</li>
-<li>acute laryngopharyngitis (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nasal cavity disease (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glycine/' | relative_url }}">View full drug report →</a></p>

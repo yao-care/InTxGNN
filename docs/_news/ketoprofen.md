@@ -3,7 +3,7 @@ layout: default
 title: "Ketoprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ketoprofen. Original indication: . 5 predicted indications."
+description: "Health news related to Ketoprofen. Original indication: . 1 predicted indications."
 permalink: /news/ketoprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketoprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketoprofen?">
-<strong>Ketoprofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ketoprofen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ketoprofen with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ostofen 50mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Ketopatch 30mg Transdermal Patch | Packet of 1 transdermal patch | Not stated (99.0%)</li>
-<li>Ketofen 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Vofane 5mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Lupiflex 8 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketoprofen/' | relative_url }}">View full drug report →</a></p>

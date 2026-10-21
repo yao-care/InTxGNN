@@ -3,7 +3,7 @@ layout: default
 title: "Mianserin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mianserin. Original indication: . 11 predicted indications."
+description: "Health news related to Mianserin. Original indication: . 8 predicted indications."
 permalink: /news/mianserin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mianserin/
 ---
 
 <p class="key-answer" data-question="What news is there about Mianserin?">
-<strong>Mianserin</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
+<strong>Mianserin</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,15 @@ This page combines the AI-predicted indications for Mianserin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>Benign paroxysmal torticollis of infancy | 99.49% | L5 | 0 (0.0%)</li>
-<li>Dysthymic disorder | 99.45% | L4 | 0 (1.0%)</li>
-<li>Agoraphobia | 99.40% | L4 | 0 (1.0%)</li>
-<li>Ohdo syndrome and variants | 99.23% | L5 | 0 (0.0%)</li>
-<li>Melancholia | 99.17% | L4 | 0 (20.0%)</li>
-<li>Neurotic depression | 99.16% | L4 | 0 (20.0%)</li>
-<li>Neurotic disorder | 99.02% | L3 | 0 (4.0%)</li>
-<li>Depnon 30mg Tablet | Strip of 10 tablets | Not specified in the compiled data (99.0%)</li>
-<li>Depnon 10mg Tablet | Strip of 10 tablets | Not specified in the compiled data (99.0%)</li>
-<li>Tetradep 10mg Tablet | Strip of 10 tablets | Not specified in the compiled data (99.0%)</li>
-<li>Tetradep 20mg Tablet | Strip of 10 tablets | Not specified in the compiled data (99.0%)</li>
+<li><strong>Predicted indications (8)</strong>:<ul>
+<li>Benign paroxysmal torticollis of infancy (rank 1) (99.5%)</li>
+<li>Benign paroxysmal torticollis of infancy (99.5%)</li>
+<li>Dysthymic disorder (99.5%)</li>
+<li>Agoraphobia (99.4%)</li>
+<li>Ohdo syndrome and variants (99.2%)</li>
+<li>Melancholia (99.2%)</li>
+<li>Neurotic depression (99.2%)</li>
+<li>Neurotic disorder (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mianserin/' | relative_url }}">View full drug report →</a></p>

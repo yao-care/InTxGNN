@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Arformoterol with the latest
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Labaneb Respules (2ml Each) (Lupin Ltd) | Packet of 5 respules | Not specified in the data compiled for this report (99.0%)</li>
+<li>Obstructive lung disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/arformoterol/' | relative_url }}">View full drug report →</a></p>

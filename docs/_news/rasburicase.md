@@ -3,7 +3,7 @@ layout: default
 title: "Rasburicase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rasburicase. Original indication: . 5 predicted indications."
+description: "Health news related to Rasburicase. Original indication: . 1 predicted indications."
 permalink: /news/rasburicase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rasburicase/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasburicase?">
-<strong>Rasburicase</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rasburicase</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Rasburicase with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rasby Injection (Intas Pharmaceuticals Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Rascas 1.5mg Injection (Sayre Therapeutics Pvt Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Rasburnat Injection (Natco Pharma Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Rasbelon Injection (Celon Laboratories Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Rasuric 1.5mg Injection (Aureate Healthcare Pvt Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypouricemia, renal (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rasburicase/' | relative_url }}">View full drug report →</a></p>

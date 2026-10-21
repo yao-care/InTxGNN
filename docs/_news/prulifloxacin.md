@@ -3,7 +3,7 @@ layout: default
 title: "Prulifloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prulifloxacin. Original indication: . 5 predicted indications."
+description: "Health news related to Prulifloxacin. Original indication: . 1 predicted indications."
 permalink: /news/prulifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prulifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Prulifloxacin?">
-<strong>Prulifloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Prulifloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Prulifloxacin with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Puribact 600mg Tablet (Invision Medi Sciences) | Strip of 5 tablets | Not recorded (99.0%)</li>
-<li>Rulizo Tablet (Sun Pharmaceutical Industries) | Strip of 5 tablets | Not recorded (99.0%)</li>
-<li>Pruflox Tablet (Cipla) | Strip of 5 tablets | Not recorded (99.0%)</li>
-<li>Percin Tablet (Lupin) | Strip of 5 tablets | Not recorded (99.0%)</li>
-<li>Pruquin 600mg Tablet (Alembic Pharmaceuticals) | Strip of 5 tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Heart disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prulifloxacin/' | relative_url }}">View full drug report →</a></p>

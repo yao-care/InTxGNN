@@ -3,7 +3,7 @@ layout: default
 title: "Buprenorphine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Buprenorphine. Original indication: . 10 predicted indications."
+description: "Health news related to Buprenorphine. Original indication: . 6 predicted indications."
 permalink: /news/buprenorphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/buprenorphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Buprenorphine?">
-<strong>Buprenorphine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Buprenorphine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,13 @@ This page combines the AI-predicted indications for Buprenorphine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Bupreplast Patch (Zuventus Healthcare) | Box of 2 patches | Not specified (99.0%)</li>
-<li>Mutrans 20mcg/hr Transdermal Patch (6ipain Healthcare) | Box of 2 transdermal patches | Not specified (99.0%)</li>
-<li>Buvalor 10mg Transdermal Patch (Modi Mundi Pharma) | Packet of 2 transdermal patches | Not specified (99.0%)</li>
-<li>Buprinor 0.3mg Injection (AstraZeneca) | Vial of 2 ml injection | Not specified (99.0%)</li>
-<li>Tidigesic 0.2mg Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Lingual-facial-buccal dyskinesia | 99.32% | L4 | Literature is indirect (opioids and agitation in dementia, pharmacology, veterinary safety); none addresses dyskinesia. Opioids may themselves cause movement-related adverse effects. (99.0%)</li>
-<li>Chronic tic disorder | 99.13% | L5 | Model prediction only (99.0%)</li>
-<li>Continuous spikes and waves during sleep | 99.05% | L5 | Model prediction only; opioids can lower seizure threshold in some settings (99.0%)</li>
-<li>Extrapyramidal and movement disease | 99.03% | L5 | Broad category; model prediction only (99.0%)</li>
-<li>Benign shuddering attacks | 99.03% | L5 | Benign, self-limiting paediatric condition; the risk-benefit of an opioid would be unfavourable (99.0%)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>Acute intermittent porphyria (99.4%)</li>
+<li>Lingual-facial-buccal dyskinesia (99.3%)</li>
+<li>Chronic tic disorder (99.1%)</li>
+<li>Continuous spikes and waves during sleep (99.0%)</li>
+<li>Extrapyramidal and movement disease (99.0%)</li>
+<li>Benign shuddering attacks (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/buprenorphine/' | relative_url }}">View full drug report →</a></p>

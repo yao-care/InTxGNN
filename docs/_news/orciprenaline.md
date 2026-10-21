@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Orciprenaline with the lates
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Orcibest Tablet (Zydus Cadila) | Strip of 15 tablets | Not listed (99.0%)</li>
+<li>Obstructive lung disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orciprenaline/' | relative_url }}">View full drug report →</a></p>

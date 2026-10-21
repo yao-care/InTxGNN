@@ -3,7 +3,7 @@ layout: default
 title: "Dexmedetomidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexmedetomidine. Original indication: he TxGNN model's top-ranked prediction is **nephro.... 5 predicted indications."
+description: "Health news related to Dexmedetomidine. Original indication: he TxGNN model's top-ranked prediction is **nephro.... 1 predicted indications."
 permalink: /news/dexmedetomidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine?">
-<strong>Dexmedetomidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dexmedetomidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Dexmedetomidine with the lat
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **nephrogenic syndrome of inappropriate antidiuresis**, but this has no supporting evidence and a weak mechanistic rationale. The best-supported direction is...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dextomid 50mcg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Dexglan 100mcg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Dextomid 200mcg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Xamdex 100mcg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Medetofix 100 Injection | Ampoule of 1 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nephrogenic syndrome of inappropriate antidiuresis (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">View full drug report →</a></p>

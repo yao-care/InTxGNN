@@ -3,7 +3,7 @@ layout: default
 title: "Dexibuprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexibuprofen. Original indication: . 5 predicted indications."
+description: "Health news related to Dexibuprofen. Original indication: . 1 predicted indications."
 permalink: /news/dexibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexibuprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexibuprofen?">
-<strong>Dexibuprofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dexibuprofen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dexibuprofen with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Debura 300 mg/500 mg Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
-<li>Nuprin 200 Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
-<li>Nuprin 300mg Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
-<li>Ibusoft 400mg Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
-<li>Nuprin Plus Tablet | Strip of 10 tablets | Not stated in registration record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Brachydactyly-syndactyly syndrome (top-ranked) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexibuprofen/' | relative_url }}">View full drug report →</a></p>

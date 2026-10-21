@@ -3,7 +3,7 @@ layout: default
 title: "Levosalbutamol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Levosalbutamol. Original indication: . 5 predicted indications."
+description: "Health news related to Levosalbutamol. Original indication: . 1 predicted indications."
 permalink: /news/levosalbutamol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levosalbutamol/
 ---
 
 <p class="key-answer" data-question="What news is there about Levosalbutamol?">
-<strong>Levosalbutamol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Levosalbutamol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Levosalbutamol with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Levolin Synchrobreathe Inhaler (Cipla Ltd) | Box of 120 MDI inhaler | Not listed (99.0%)</li>
-<li>Levolin 50mcg Inhaler (Cipla Ltd) | Packet of 200 MDI inhaler | Not listed (99.0%)</li>
-<li>Salbair 50mcg Transhaler (Lupin Ltd) | Packet of 250 MDI Transhaler | Not listed (99.0%)</li>
-<li>Nebulair Respules 2ml (Dr Reddy's Laboratories Ltd) | Strip of 7 respules | Not listed (99.0%)</li>
-<li>Tiecuf L Syrup (Indica Biolife Sciences) | Bottle of 100 ml syrup | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nasal cavity disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levosalbutamol/' | relative_url }}">View full drug report →</a></p>

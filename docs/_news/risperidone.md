@@ -3,7 +3,7 @@ layout: default
 title: "Risperidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Risperidone. Original indication: . 5 predicted indications."
+description: "Health news related to Risperidone. Original indication: . 1 predicted indications."
 permalink: /news/risperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="What news is there about Risperidone?">
-<strong>Risperidone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Risperidone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Risperidone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Respidon 3 Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Repadone 4mg Tablet | Strip of 10 tablets | Shine Pharmaceuticals Ltd (99.0%)</li>
-<li>Risdone-Plus Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Risnia MD 4 Tablet | Strip of 10 mouth-dissolving tablets | Cipla Ltd (99.0%)</li>
-<li>Zisper 2mg Tablet MD | Strip of 10 mouth-dissolving tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gaze palsy, familial horizontal, with progressive scoliosis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">View full drug report →</a></p>

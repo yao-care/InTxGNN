@@ -3,7 +3,7 @@ layout: default
 title: "Nicergoline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nicergoline. Original indication: he TxGNN model's top prediction is **hypertrichosi.... 5 predicted indications."
+description: "Health news related to Nicergoline. Original indication: he TxGNN model's top prediction is **hypertrichosi.... 1 predicted indications."
 permalink: /news/nicergoline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nicergoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Nicergoline?">
-<strong>Nicergoline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nicergoline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Nicergoline with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model's top prediction is **hypertrichosis** (score 99.57%), but it has **0 clinical trials and 0 publications**, so it rests on graph-based prediction only.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cholergol Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Nicer 30mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Sermion 30mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Nicerbium Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Nicerwin V Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypertrichosis (rank 1); best-supported alternative: migraine disorder (rank 8) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nicergoline/' | relative_url }}">View full drug report →</a></p>

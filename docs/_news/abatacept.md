@@ -3,7 +3,7 @@ layout: default
 title: "Abatacept News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Abatacept. Original indication: . 10 predicted indications."
+description: "Health news related to Abatacept. Original indication: . 1 predicted indications."
 permalink: /news/abatacept/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/abatacept/
 ---
 
 <p class="key-answer" data-question="What news is there about Abatacept?">
-<strong>Abatacept</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Abatacept</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Abatacept with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>rheumatoid vasculitis (99.9%)</li>
-<li>ankylosing spondylitis (99.9%)</li>
-<li>hypermobility of coccyx (99.9%)</li>
-<li>inflammatory spondylopathy (99.8%)</li>
-<li>Kummell disease (99.8%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.8%)</li>
-<li>vertebral disease (99.7%)</li>
-<li>spondyloarthropathy, susceptibility to (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid vasculitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/abatacept/' | relative_url }}">View full drug report →</a></p>

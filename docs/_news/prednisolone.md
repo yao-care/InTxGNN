@@ -3,7 +3,7 @@ layout: default
 title: "Prednisolone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prednisolone. Original indication: . 5 predicted indications."
+description: "Health news related to Prednisolone. Original indication: . 1 predicted indications."
 permalink: /news/prednisolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prednisolone/
 ---
 
 <p class="key-answer" data-question="What news is there about Prednisolone?">
-<strong>Prednisolone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Prednisolone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Prednisolone with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Nisolone 5mg Tablet | Strip of 10 tablets | Not specified in the data (99.0%)</li>
-<li>Pred 10mg Tablet | Strip of 10 tablets | Not specified in the data (99.0%)</li>
-<li>Omnacortil 30 Tablet DT | Strip of 10 dispersible tablets | Not specified in the data (99.0%)</li>
-<li>GB Pred AC Eye Drop | Bottle of 5 ml eye drop | Not specified in the data (99.0%)</li>
-<li>Ceruclean Drop | Packet of 10 ml drop | Not specified in the data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Alopecia areata (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisolone/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Busulfan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Busulfan. Original indication: . 5 predicted indications."
+description: "Health news related to Busulfan. Original indication: . 1 predicted indications."
 permalink: /news/busulfan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/busulfan/
 ---
 
 <p class="key-answer" data-question="What news is there about Busulfan?">
-<strong>Busulfan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Busulfan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Busulfan with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Emsulfan 60mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Busulmax 2mg Tablet | Strip of 25 tablets | Not stated (99.0%)</li>
-<li>Busuphan 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Busulmax 60 Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Bufatas IV Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Myelodysplastic syndrome (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/busulfan/' | relative_url }}">View full drug report →</a></p>

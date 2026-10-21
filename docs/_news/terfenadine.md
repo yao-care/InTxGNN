@@ -26,11 +26,11 @@ This page combines the AI-predicted indications for Terfenadine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>Trexyl 30mg Suspension | Bottle of 60 ml suspension | Not specified (99.0%)</li>
-<li>Tedin 120mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Tefdin 60mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Tedin 30mg Syrup | Bottle of 60 ml syrup | Not specified (99.0%)</li>
-<li>Tofrin 60mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Allergic urticaria (99.9%)</li>
+<li>Nasal cavity disease (99.6%)</li>
+<li>Acute laryngopharyngitis (99.6%)</li>
+<li>Cold urticaria (99.5%)</li>
+<li>Rosacea conjunctivitis (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/terfenadine/' | relative_url }}">View full drug report →</a></p>

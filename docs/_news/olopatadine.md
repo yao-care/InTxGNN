@@ -3,7 +3,7 @@ layout: default
 title: "Olopatadine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Olopatadine. Original indication: . 5 predicted indications."
+description: "Health news related to Olopatadine. Original indication: . 1 predicted indications."
 permalink: /news/olopatadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olopatadine/
 ---
 
 <p class="key-answer" data-question="What news is there about Olopatadine?">
-<strong>Olopatadine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Olopatadine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Olopatadine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dynolap 5 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Patadin Tablet | Strip of 10 tablets | Ajanta Pharma Ltd (99.0%)</li>
-<li>Allenil 5mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Pataone Eye Drop | Bottle of 5 ml ophthalmic solution | Choroid Laboratories (99.0%)</li>
-<li>Alerchek OD Ophthalmic Solution | Packet of 3 ml ophthalmic solution | Indoco Remedies Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rosacea conjunctivitis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olopatadine/' | relative_url }}">View full drug report →</a></p>

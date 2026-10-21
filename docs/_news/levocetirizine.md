@@ -3,7 +3,7 @@ layout: default
 title: "Levocetirizine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Levocetirizine. Original indication: . 5 predicted indications."
+description: "Health news related to Levocetirizine. Original indication: . 1 predicted indications."
 permalink: /news/levocetirizine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levocetirizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Levocetirizine?">
-<strong>Levocetirizine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Levocetirizine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Levocetirizine with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Lowip-M KID 2.5mg/4mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Zycet M 5mg/10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Monolens-LC Oral Suspension | Bottle of 60 ml oral suspension | Not stated (99.0%)</li>
-<li>Levuxia 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Oviday 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levocetirizine/' | relative_url }}">View full drug report →</a></p>

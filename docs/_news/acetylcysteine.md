@@ -3,7 +3,7 @@ layout: default
 title: "Acetylcysteine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Acetylcysteine. Original indication: . 5 predicted indications."
+description: "Health news related to Acetylcysteine. Original indication: . 1 predicted indications."
 permalink: /news/acetylcysteine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetylcysteine/
 ---
 
 <p class="key-answer" data-question="What news is there about Acetylcysteine?">
-<strong>Acetylcysteine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Acetylcysteine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Acetylcysteine with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Vexanac 600 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Mucyst 600mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Fluimucil Eff 600mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
-<li>Nacomac 600mg Effervescent Tablet | Strip of 10 effervescent tablets | Not stated (99.0%)</li>
-<li>Nacel 1000mg Injection | Vial of 5 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Thrombotic disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetylcysteine/' | relative_url }}">View full drug report →</a></p>

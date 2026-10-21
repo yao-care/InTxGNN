@@ -3,7 +3,7 @@ layout: default
 title: "Pioglitazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pioglitazone. Original indication: . 5 predicted indications."
+description: "Health news related to Pioglitazone. Original indication: . 1 predicted indications."
 permalink: /news/pioglitazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pioglitazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Pioglitazone?">
-<strong>Pioglitazone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pioglitazone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pioglitazone with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pozitiv 15mg Tablet | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Glizone 30mg Tablet | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Path 15 Tablet | Strip of 15 tablets | Not stated in record (99.0%)</li>
-<li>Carbophage P 30mg/500mg Tablet | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Pionorm-M 15 Tablet SR | Strip of 10 tablets (SR) | Not stated in record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Opsismodysplasia (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Capreomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Capreomycin. Original indication: . 5 predicted indications."
+description: "Health news related to Capreomycin. Original indication: . 1 predicted indications."
 permalink: /news/capreomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capreomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Capreomycin?">
-<strong>Capreomycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Capreomycin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Capreomycin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Capreo 500mg Injection | Vial of 1 Injection | Not stated in the records (99.0%)</li>
-<li>Kapocin 500mg Injection | Vial of 1 Injection | Not stated in the records (99.0%)</li>
-<li>Ciprix 500mg Injection | Vial of 1 Injection | Not stated in the records (99.0%)</li>
-<li>Ciprix 1000mg Injection | Vial of 1 Injection | Not stated in the records (99.0%)</li>
-<li>Kapocin 1gm Injection | Vial of 1 Injection | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gout (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capreomycin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Lorazepam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lorazepam. Original indication: . 5 predicted indications."
+description: "Health news related to Lorazepam. Original indication: . 1 predicted indications."
 permalink: /news/lorazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lorazepam/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorazepam?">
-<strong>Lorazepam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Lorazepam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Lorazepam with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Calmese 2mg Tablet (Themis Medicare) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Axitan 2mg Injection (Biologic Psychotropics India) | Ampoule of 2 ml injection | Not available (99.0%)</li>
-<li>Loracalm 2mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Trapex 1mg Tablet (Sun Pharmaceutical Industries) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Matbenz 2 MD Tablet (Matias Healthcare) | Strip of 10 mouth-dissolving tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Trigeminal nerve neoplasm (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">View full drug report →</a></p>

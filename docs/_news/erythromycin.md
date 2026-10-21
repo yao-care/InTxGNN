@@ -3,7 +3,7 @@ layout: default
 title: "Erythromycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Erythromycin. Original indication: . 5 predicted indications."
+description: "Health news related to Erythromycin. Original indication: . 1 predicted indications."
 permalink: /news/erythromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erythromycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Erythromycin?">
-<strong>Erythromycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Erythromycin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Erythromycin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Erythrocin Granules (Pfizer Ltd) | Granules, sachet of 30 ml | Not stated in licence record (99.0%)</li>
-<li>Erythrox 250mg Tablet (Medicraft Group) | Tablet, strip of 10 | Not stated in licence record (99.0%)</li>
-<li>Eromed 125mg Suspension (Comed Chemicals Ltd) | Suspension, bottle of 60 ml | Not stated in licence record (99.0%)</li>
-<li>Acnebenz Gel (A. Menarini India Pvt Ltd) | Topical gel, tube of 60 g | Not stated in licence record (99.0%)</li>
-<li>Erylent Gel (Talent Healthcare) | Topical gel, tube of 20 g | Not stated in licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Punctate epithelial keratoconjunctivitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erythromycin/' | relative_url }}">View full drug report →</a></p>

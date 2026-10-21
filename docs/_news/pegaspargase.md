@@ -3,7 +3,7 @@ layout: default
 title: "Pegaspargase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pegaspargase. Original indication: . 2 predicted indications."
+description: "Health news related to Pegaspargase. Original indication: . 1 predicted indications."
 permalink: /news/pegaspargase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pegaspargase/
 ---
 
 <p class="key-answer" data-question="What news is there about Pegaspargase?">
-<strong>Pegaspargase</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Pegaspargase</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Pegaspargase with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Asviia Injection (Zydus Cadila) | Vial of 5 ml injection | Not stated in registration records (99.0%)</li>
-<li>Hamsyl Injection (Emcure Pharmaceuticals Ltd) | Vial of 5 ml injection | Not stated in registration records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Precursor lymphoblastic lymphoma/leukemia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegaspargase/' | relative_url }}">View full drug report →</a></p>

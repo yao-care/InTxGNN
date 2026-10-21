@@ -3,7 +3,7 @@ layout: default
 title: "Caspofungin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Caspofungin. Original indication: . 5 predicted indications."
+description: "Health news related to Caspofungin. Original indication: . 1 predicted indications."
 permalink: /news/caspofungin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caspofungin/
 ---
 
 <p class="key-answer" data-question="What news is there about Caspofungin?">
-<strong>Caspofungin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Caspofungin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Caspofungin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ibicasp 50mg Injection | Vial of 1 injection | Indiabulls Pharmaceutical Ltd (99.0%)</li>
-<li>Brufungin 50 Injection | Vial of 1 injection | Brawn Laboratories Ltd (99.0%)</li>
-<li>Caspercid 50mg Injection | Vial of 1 injection | Sanofi India Ltd (99.0%)</li>
-<li>Casfungen 50mg Injection | Vial of 1 injection | Chandra Bhagat Pharma Pvt Ltd (99.0%)</li>
-<li>Hospicasp 70mg Injection | Vial of 1 injection | Alkem Laboratories Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gastrin secretion abnormality (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caspofungin/' | relative_url }}">View full drug report →</a></p>

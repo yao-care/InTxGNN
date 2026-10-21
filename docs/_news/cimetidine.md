@@ -3,7 +3,7 @@ layout: default
 title: "Cimetidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cimetidine. Original indication: . 5 predicted indications."
+description: "Health news related to Cimetidine. Original indication: . 1 predicted indications."
 permalink: /news/cimetidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cimetidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cimetidine?">
-<strong>Cimetidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cimetidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cimetidine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ulciban 400mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified in the data compiled (99.0%)</li>
-<li>Tagasec 200mg Tablet (Taj Pharma India) | Strip of 10 tablets | Not specified in the data compiled (99.0%)</li>
-<li>Cimetiget 200mg Tablet (Franco-Indian Pharmaceuticals) | Strip of 10 tablets | Not specified in the data compiled (99.0%)</li>
-<li>Neotid 400mg Tablet (Neon Laboratories) | Strip of 10 tablets | Not specified in the data compiled (99.0%)</li>
-<li>Cimetiget 400mg Tablet (Franco-Indian Pharmaceuticals) | Strip of 10 tablets | Not specified in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Smouldering systemic mastocytosis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cimetidine/' | relative_url }}">View full drug report →</a></p>

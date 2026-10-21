@@ -3,7 +3,7 @@ layout: default
 title: "Ambroxol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ambroxol. Original indication: . 5 predicted indications."
+description: "Health news related to Ambroxol. Original indication: . 1 predicted indications."
 permalink: /news/ambroxol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ambroxol/
 ---
 
 <p class="key-answer" data-question="What news is there about Ambroxol?">
-<strong>Ambroxol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ambroxol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ambroxol with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Brex Syrup | Bottle of 100 ml syrup | Not available (99.0%)</li>
-<li>Xeroc LS Syrup | Bottle of 60 ml syrup | Not available (99.0%)</li>
-<li>Cofodd LS Syrup | Bottle of 60 ml syrup | Not available (99.0%)</li>
-<li>Sukuff Total Tablet | Strip of 15 tablets | Not available (99.0%)</li>
-<li>New Ventakof Expectorant | Bottle of 100 ml expectorant | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nasal cavity disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ambroxol/' | relative_url }}">View full drug report →</a></p>

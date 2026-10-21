@@ -3,7 +3,7 @@ layout: default
 title: "Terlipressin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Terlipressin. Original indication: . 5 predicted indications."
+description: "Health news related to Terlipressin. Original indication: . 1 predicted indications."
 permalink: /news/terlipressin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terlipressin/
 ---
 
 <p class="key-answer" data-question="What news is there about Terlipressin?">
-<strong>Terlipressin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Terlipressin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Terlipressin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Erlipress 1mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Qupressin 1mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Terlibax 1mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Terlicon Injection | Ampoule of 10 ml injection | Not stated (99.0%)</li>
-<li>Thinwes 1mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Open-angle glaucoma (rank 1, TxGNN score 99.78%). Evidence review shows pulmonary hypertension (rank 3, score 99.56%) is the only prediction with meaningful supporting literature, so it is the focus of this report (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/terlipressin/' | relative_url }}">View full drug report →</a></p>

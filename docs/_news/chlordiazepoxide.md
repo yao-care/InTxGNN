@@ -3,7 +3,7 @@ layout: default
 title: "Chlordiazepoxide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chlordiazepoxide. Original indication: . 5 predicted indications."
+description: "Health news related to Chlordiazepoxide. Original indication: . 1 predicted indications."
 permalink: /news/chlordiazepoxide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlordiazepoxide/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlordiazepoxide?">
-<strong>Chlordiazepoxide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Chlordiazepoxide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Chlordiazepoxide with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cinipox 5mg/2.5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Ebrium 10mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Equirex Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Cdprex 10mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Sledge 5mg/2.5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (disease) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlordiazepoxide/' | relative_url }}">View full drug report →</a></p>

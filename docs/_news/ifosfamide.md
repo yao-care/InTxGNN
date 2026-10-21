@@ -3,7 +3,7 @@ layout: default
 title: "Ifosfamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ifosfamide. Original indication: he TxGNN model predicts it may be useful in **fema.... 5 predicted indications."
+description: "Health news related to Ifosfamide. Original indication: he TxGNN model predicts it may be useful in **fema.... 0 predicted indications."
 permalink: /news/ifosfamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ifosfamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ifosfamide?">
-<strong>Ifosfamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ifosfamide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,13 +26,6 @@ This page combines the AI-predicted indications for Ifosfamide with the latest h
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be useful in **female breast carcinoma**, with **6 clinical trials** (all Phase 1/2, none with results) and **20 publications** pointing in this direction.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Holoxan 1gm Injection | Vial, injection | Zydus Cadila (99.0%)</li>
-<li>Ifos 1gm Injection | Vial, injection | Cipla Ltd (99.0%)</li>
-<li>Ipamide 2gm Injection | Vial, injection | Fresenius Kabi India Pvt Ltd (99.0%)</li>
-<li>Soloxan with Mesna 2gm Injection | Vial, injection | Vhb Life Sciences Inc (99.0%)</li>
-<li>Fosfa 2gm Injection | Vial, injection | Getwell Oncology Pvt Ltd (99.0%)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ifosfamide/' | relative_url }}">View full drug report →</a></p>
 </div>

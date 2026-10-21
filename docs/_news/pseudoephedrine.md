@@ -3,7 +3,7 @@ layout: default
 title: "Pseudoephedrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pseudoephedrine. Original indication: . 5 predicted indications."
+description: "Health news related to Pseudoephedrine. Original indication: . 1 predicted indications."
 permalink: /news/pseudoephedrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pseudoephedrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Pseudoephedrine?">
-<strong>Pseudoephedrine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pseudoephedrine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pseudoephedrine with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cofsyryl Syrup | Syrup, 60 ml bottle | Not stated in records (99.0%)</li>
-<li>Megatuss D Syrup | Syrup, 100 ml bottle | Not stated in records (99.0%)</li>
-<li>Ricold Tablet | Tablet, strip of 10 | Not stated in records (99.0%)</li>
-<li>Wytuss Syrup | Syrup, 100 ml bottle | Not stated in records (99.0%)</li>
-<li>Drykof 15 mg/5 mg/2.5 mg Syrup | Syrup, 100 ml bottle | Not stated in records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nasal cavity disease (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pseudoephedrine/' | relative_url }}">View full drug report →</a></p>

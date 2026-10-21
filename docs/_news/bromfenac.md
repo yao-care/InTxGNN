@@ -3,7 +3,7 @@ layout: default
 title: "Bromfenac News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bromfenac. Original indication: . 5 predicted indications."
+description: "Health news related to Bromfenac. Original indication: . 1 predicted indications."
 permalink: /news/bromfenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bromfenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Bromfenac?">
-<strong>Bromfenac</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Bromfenac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Bromfenac with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Nubrom Eye Drop | Packet of 5 ml eye drop | Not recorded (99.0%)</li>
-<li>Bromf Eye Drop | Bottle of 5 ml eye drop | Not recorded (99.0%)</li>
-<li>Brom Chor Eye Drop | Bottle of 5 ml ophthalmic solution | Not recorded (99.0%)</li>
-<li>Brom Eye Drop | Packet of 5 ml eye drop | Not recorded (99.0%)</li>
-<li>Fenabrom 0.09% Eye Drop | Bottle of 5 ml eye drop | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Eye disease (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bromfenac/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Cetuximab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cetuximab. Original indication: . 3 predicted indications."
+description: "Health news related to Cetuximab. Original indication: . 1 predicted indications."
 permalink: /news/cetuximab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cetuximab/
 ---
 
 <p class="key-answer" data-question="What news is there about Cetuximab?">
-<strong>Cetuximab</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Cetuximab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Cetuximab with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Erbitux 500mg Infusion | Bottle of 50 ml infusion | Merck Ltd (99.0%)</li>
-<li>Erbitux 100mg Infusion | Bottle of 50 ml infusion | Merck Ltd (99.0%)</li>
-<li>Erbitux 5mg/ml Solution for Infusion | Bottle of 20 ml solution for infusion | Merck Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Non-seminomatous lesion (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cetuximab/' | relative_url }}">View full drug report →</a></p>

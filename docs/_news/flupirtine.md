@@ -3,7 +3,7 @@ layout: default
 title: "Flupirtine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flupirtine. Original indication: . 5 predicted indications."
+description: "Health news related to Flupirtine. Original indication: . 4 predicted indications."
 permalink: /news/flupirtine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flupirtine/
 ---
 
 <p class="key-answer" data-question="What news is there about Flupirtine?">
-<strong>Flupirtine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Flupirtine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ This page combines the AI-predicted indications for Flupirtine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pirineu P 100mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Flupride 100mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Pirineu 100mg Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Vasfree 100 Capsule (Intas) | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Katadol Capsule (Lupin) | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Osteoarthritis (98.6%)</li>
+<li>Osteoarthritis susceptibility (98.5%)</li>
+<li>Rheumatoid arthritis (98.4%)</li>
+<li>Gout (97.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flupirtine/' | relative_url }}">View full drug report →</a></p>

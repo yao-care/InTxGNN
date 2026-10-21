@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Phenindione with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Dindevan 50mg Tablet (Biological E Ltd) | Strip of 10 tablets | Not stated in the licence data (99.0%)</li>
+<li>Thrombotic disease (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenindione/' | relative_url }}">View full drug report →</a></p>

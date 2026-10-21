@@ -3,7 +3,7 @@ layout: default
 title: "Clarithromycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clarithromycin. Original indication: . 5 predicted indications."
+description: "Health news related to Clarithromycin. Original indication: . 1 predicted indications."
 permalink: /news/clarithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clarithromycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Clarithromycin?">
-<strong>Clarithromycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Clarithromycin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Clarithromycin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Clarinic Kid 125mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
-<li>Claricin 250mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
-<li>Clarigal 500mg Tablet | Strip of 4 tablets | Not stated in the records (99.0%)</li>
-<li>Clarithro 500mg Tablet XR | Strip of 5 XR tablets | Not stated in the records (99.0%)</li>
-<li>Crixan 125mg Granules | Bottle of 30 ml powder for oral suspension | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hyperamylasemia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">View full drug report →</a></p>

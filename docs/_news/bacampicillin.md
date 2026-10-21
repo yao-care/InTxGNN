@@ -3,7 +3,7 @@ layout: default
 title: "Bacampicillin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bacampicillin. Original indication: . 10 predicted indications."
+description: "Health news related to Bacampicillin. Original indication: . 1 predicted indications."
 permalink: /news/bacampicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bacampicillin/
 ---
 
 <p class="key-answer" data-question="What news is there about Bacampicillin?">
-<strong>Bacampicillin</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Bacampicillin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Bacampicillin with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>epiglottitis (99.9%)</li>
-<li>abdominal cystic lymphangioma (99.9%)</li>
-<li>celiac trunk compression syndrome (99.9%)</li>
-<li>abdominal ectopic pregnancy (99.9%)</li>
-<li>lymph node palisaded myofibroblastoma (99.9%)</li>
-<li>sacrum chordoma (99.8%)</li>
-<li>disease of retroperitoneum (99.8%)</li>
-<li>disease of uterine broad ligament (99.8%)</li>
-<li>urethral disease (99.8%)</li>
-<li>disease of peritoneum (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Epiglottitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bacampicillin/' | relative_url }}">View full drug report →</a></p>

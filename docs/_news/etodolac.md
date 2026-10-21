@@ -3,7 +3,7 @@ layout: default
 title: "Etodolac News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Etodolac. Original indication: . 5 predicted indications."
+description: "Health news related to Etodolac. Original indication: . 1 predicted indications."
 permalink: /news/etodolac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/etodolac/
 ---
 
 <p class="key-answer" data-question="What news is there about Etodolac?">
-<strong>Etodolac</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Etodolac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Etodolac with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Etova 400 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd (99.0%)</li>
-<li>Etova 200 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd (99.0%)</li>
-<li>Edonix 600mg Tablet ER | Strip of 10 extended-release tablets | Ajanta Pharma Ltd (99.0%)</li>
-<li>Etornext-ER Tablet | Strip of 10 extended-release tablets | Alembic Pharmaceuticals Ltd (99.0%)</li>
-<li>Etosafe ER Tablet | Strip of 10 extended-release tablets | Wanbury Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/etodolac/' | relative_url }}">View full drug report →</a></p>

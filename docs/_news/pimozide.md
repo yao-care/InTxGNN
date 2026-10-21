@@ -3,7 +3,7 @@ layout: default
 title: "Pimozide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pimozide. Original indication: . 5 predicted indications."
+description: "Health news related to Pimozide. Original indication: . 1 predicted indications."
 permalink: /news/pimozide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pimozide/
 ---
 
 <p class="key-answer" data-question="What news is there about Pimozide?">
-<strong>Pimozide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pimozide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pimozide with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pimolite 4mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Orap 4mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Mozep 2 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Pimide 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Orap 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Trichotillomania (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pimozide/' | relative_url }}">View full drug report →</a></p>

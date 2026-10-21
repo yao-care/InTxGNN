@@ -3,7 +3,7 @@ layout: default
 title: "Atosiban News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atosiban. Original indication: . 2 predicted indications."
+description: "Health news related to Atosiban. Original indication: . 1 predicted indications."
 permalink: /news/atosiban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atosiban/
 ---
 
 <p class="key-answer" data-question="What news is there about Atosiban?">
-<strong>Atosiban</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Atosiban</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,29 +25,20 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Tosiban 37.5mg Injection (Zuventus Healthcare Ltd) | Vial of 5 ml injection | Not stated in licence record (99.0%)</li>
-<li>Tosiban 6.75mg Injection (Zuventus Healthcare Ltd) | Vial of 0.9 ml solution for injection | Not stated in licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary hereditary glaucoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atosiban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Premature menopause linked to higher heart disease risk and insulin levels](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
-
----
-
-### [Office stress, poor sleep and junk food: Habits your heart may not like - Mathrubhumi English](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFVrWFNxc0d4dGZpd0ttMmNzdUlWemVfb3JvTjl3T1VKT0tMSVo5QkdTdnVPU2lLazlad0M5M04tUnBsMHFPdmxwRVdOZ3NhYVZjSFM0cUJlZ3B1WXYyb0lsYmFway1KbjYzTDJFMEotazViX3ptd05tNnNsTGpYMnBkT1RxSnlUOGZ4cHdBWWZPQWR3SWd4YmRHZ1laUEJ4Vl9EUGRqTExqR0daWEJKdkVuTkdLU0RSU1RYTkRKX2pVbFN2NVE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [Mathrubhumi English](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFVrWFNxc0d4dGZpd0ttMmNzdUlWemVfb3JvTjl3T1VKT0tMSVo5QkdTdnVPU2lLazlad0M5M04tUnBsMHFPdmxwRVdOZ3NhYVZjSFM0cUJlZ3B1WXYyb0lsYmFway1KbjYzTDJFMEotazViX3ptd05tNnNsTGpYMnBkT1RxSnlUOGZ4cHdBWWZPQWR3SWd4YmRHZ1laUEJ4Vl9EUGRqTExqR0daWEJKdkVuTkdLU0RSU1RYTkRKX2pVbFN2NVE?oc=5)
 
 ---
 

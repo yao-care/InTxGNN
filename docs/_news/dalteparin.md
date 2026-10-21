@@ -3,7 +3,7 @@ layout: default
 title: "Dalteparin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dalteparin. Original indication: . 5 predicted indications."
+description: "Health news related to Dalteparin. Original indication: . 1 predicted indications."
 permalink: /news/dalteparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dalteparin/
 ---
 
 <p class="key-answer" data-question="What news is there about Dalteparin?">
-<strong>Dalteparin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dalteparin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dalteparin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Fragmin 5000IU Injection (Pfizer Ltd) | Prefilled syringe of 0.2 ml solution for injection | Not stated in the licence record (99.0%)</li>
-<li>Fragmin 10000IU Injection (Pfizer Ltd) | Prefilled syringe of 1 ml injection | Not stated in the licence record (99.0%)</li>
-<li>Fragmin 2500IU Injection (Pfizer Ltd) | Prefilled syringe of 0.2 ml solution for injection | Not stated in the licence record (99.0%)</li>
-<li>Daltehep 5000IU Injection (Gland Pharma Limited) | Vial of 2 ml injection | Not stated in the licence record (99.0%)</li>
-<li>Daltepin 2500IU Injection (Intas Pharmaceuticals Ltd) | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Thrombophilia due to protein C deficiency, autosomal recessive (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dalteparin/' | relative_url }}">View full drug report →</a></p>

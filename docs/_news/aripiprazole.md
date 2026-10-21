@@ -3,7 +3,7 @@ layout: default
 title: "Aripiprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Aripiprazole. Original indication: . 5 predicted indications."
+description: "Health news related to Aripiprazole. Original indication: . 1 predicted indications."
 permalink: /news/aripiprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Aripiprazole?">
-<strong>Aripiprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Aripiprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Aripiprazole with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>G-Pra 10 Tablet (Gamete Pharma) | Strip of 10 tablets | Not stated in the record (99.0%)</li>
-<li>Arirazo 10mg Tablet (Arinna Lifescience) | Strip of 10 tablets | Not stated in the record (99.0%)</li>
-<li>Aripaxe 20 Tablet (Lifecare Neuro Products) | Strip of 10 tablets | Not stated in the record (99.0%)</li>
-<li>Asprito 10 Tablet (Intas Pharmaceuticals) | Strip of 15 tablets | Not stated in the record (99.0%)</li>
-<li>Aripra 10mg Tablet (Sun Pharmaceutical Industries) | Strip of 10 tablets | Not stated in the record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Major affective disorder (major depressive disorder) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">View full drug report →</a></p>

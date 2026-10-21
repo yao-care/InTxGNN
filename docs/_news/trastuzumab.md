@@ -3,7 +3,7 @@ layout: default
 title: "Trastuzumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trastuzumab. Original indication: . 5 predicted indications."
+description: "Health news related to Trastuzumab. Original indication: . 1 predicted indications."
 permalink: /news/trastuzumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trastuzumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Trastuzumab?">
-<strong>Trastuzumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Trastuzumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Trastuzumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Eleftha 150mg Injection (Intas) | Vial of 1 injection | Not stated in compiled data (99.0%)</li>
-<li>Herticad 440mg Injection (Sayre Therapeutics) | Vial of 1 injection | Not stated in compiled data (99.0%)</li>
-<li>Trumab Injection (Glenmark) | Vial of 1 powder for infusion | Not stated in compiled data (99.0%)</li>
-<li>Hersima 150mg Injection (Alkem) | Vial of 1 injection | Not stated in compiled data (99.0%)</li>
-<li>Ontramab 440mg Injection (Celon) | Vial of 1 injection | Not stated in compiled data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Progesterone-receptor positive breast cancer (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trastuzumab/' | relative_url }}">View full drug report →</a></p>

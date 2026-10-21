@@ -3,7 +3,7 @@ layout: default
 title: "Gefitinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Gefitinib. Original indication: . 10 predicted indications."
+description: "Health news related to Gefitinib. Original indication: . 1 predicted indications."
 permalink: /news/gefitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Gefitinib?">
-<strong>Gefitinib</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Gefitinib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Gefitinib with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>fibromatosis, gingival (99.9%)</li>
-<li>fibroma of lung (99.9%)</li>
-<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (99.9%)</li>
-<li>hamartoma of lung (99.9%)</li>
-<li>lung hilum carcinoma (99.9%)</li>
-<li>lung benign neoplasm (99.8%)</li>
-<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (99.8%)</li>
-<li>pulmonary sulcus neoplasm (99.8%)</li>
-<li>lung germ cell tumor (99.8%)</li>
-<li>junctional epidermolysis bullosa (99.8%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gingival fibromatosis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">View full drug report →</a></p>

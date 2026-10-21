@@ -3,7 +3,7 @@ layout: default
 title: "Fenticonazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fenticonazole. Original indication: . 5 predicted indications."
+description: "Health news related to Fenticonazole. Original indication: . 1 predicted indications."
 permalink: /news/fenticonazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fenticonazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Fenticonazole?">
-<strong>Fenticonazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Fenticonazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Fenticonazole with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cosfen Vaginal Capsule | Strip of 1 vaginal capsule | Not available (99.0%)</li>
-<li>Fenticad Vaginal Capsule | Strip of 1 vaginal capsule | Not available (99.0%)</li>
-<li>Fentin Vaginal Capsule | Strip of 1 vaginal capsule | Not available (99.0%)</li>
-<li>Fenza Vaginal Capsule | Strip of 2 vaginal capsules | Not available (99.0%)</li>
-<li>Cosfen Vaginal Cream | Tube of 30 g vaginal cream | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Trichomonal vulvovaginitis (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenticonazole/' | relative_url }}">View full drug report →</a></p>

@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Phenylalanine with the lates
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are **0 clinical trials** and only **3 indirect publications** (none showing a therapeutic effect), so this is a...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Melaroc Tablet (Rivan Pharma) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Sclerosing cholangitis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/phenylalanine/' | relative_url }}">View full drug report →</a></p>

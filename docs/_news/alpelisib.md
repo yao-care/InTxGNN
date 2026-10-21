@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **pulmonary hypertension**, but there are **no clinical trials** and only **1 publication** for this indication. That publication is a case report of...</li>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pivikto 200mg Tablet (Novartis India Ltd) | Strip of 14 tablets | Not recorded (99.0%)</li>
+<li>Pulmonary hypertension (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>

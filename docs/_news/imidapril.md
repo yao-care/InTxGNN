@@ -3,7 +3,7 @@ layout: default
 title: "Imidapril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imidapril. Original indication: . 6 predicted indications."
+description: "Health news related to Imidapril. Original indication: . 5 predicted indications."
 permalink: /news/imidapril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imidapril/
 ---
 
 <p class="key-answer" data-question="What news is there about Imidapril?">
-<strong>Imidapril</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
+<strong>Imidapril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,12 @@ This page combines the AI-predicted indications for Imidapril with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (6)</strong>:<ul>
-<li>Pulmonary hypertension owing to lung disease and/or hypoxia | 99.78% | Possible RAS involvement, but systemic vasodilation could worsen ventilation-perfusion matching in hypoxic lung disease (99.0%)</li>
-<li>Malignant hypertensive renal disease | 99.76% | Close to the approved indication and biologically plausible, but it is a subtype of hypertension, usually managed with parenteral agents, with a risk of acute kidney injury (99.0%)</li>
-<li>Malignant renovascular hypertension | 99.76% | Strongly RAS-driven, but ACE inhibitors can precipitate acute renal failure in bilateral renal artery stenosis or a solitary kidney (99.0%)</li>
-<li>Braddock syndrome | 99.70% | No evident mechanistic rationale; likely reflects knowledge-graph proximity (99.0%)</li>
-<li>Tanatril 10mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Tanatril 5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Pulmonary hypertension with unclear multifactorial mechanism (99.8%)</li>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia (99.8%)</li>
+<li>Malignant hypertensive renal disease (99.8%)</li>
+<li>Malignant renovascular hypertension (99.8%)</li>
+<li>Braddock syndrome (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imidapril/' | relative_url }}">View full drug report →</a></p>

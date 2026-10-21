@@ -3,7 +3,7 @@ layout: default
 title: "Ranitidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ranitidine. Original indication: . 5 predicted indications."
+description: "Health news related to Ranitidine. Original indication: . 1 predicted indications."
 permalink: /news/ranitidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ranitidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ranitidine?">
-<strong>Ranitidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ranitidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ranitidine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rantid 150mg Tablet (Gracure Pharmaceuticals) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>R-Loc 50mg Injection 2ml (Zydus Cadila) | Packet of 14 injections | Not listed (99.0%)</li>
-<li>Reltac 300mg Tablet (Relish Pharmaceuticals) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Ancid 150mg Syrup (Angeas Healthcare) | Bottle of 170 ml syrup | Not listed (99.0%)</li>
-<li>Rantidine 150mg Tablet (Cipla) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Active peptic ulcer disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ranitidine/' | relative_url }}">View full drug report →</a></p>

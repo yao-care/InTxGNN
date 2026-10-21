@@ -3,7 +3,7 @@ layout: default
 title: "Indinavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Indinavir. Original indication: . 2 predicted indications."
+description: "Health news related to Indinavir. Original indication: . 1 predicted indications."
 permalink: /news/indinavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/indinavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Indinavir?">
-<strong>Indinavir</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Indinavir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Indinavir with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Indease 400mg Capsule (Alkem Laboratories Ltd) | Strip of 10 capsules | Not stated in the data compiled (99.0%)</li>
-<li>Virodin 400mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/indinavir/' | relative_url }}">View full drug report →</a></p>

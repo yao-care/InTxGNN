@@ -3,7 +3,7 @@ layout: default
 title: "Oxytetracycline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxytetracycline. Original indication: . 5 predicted indications."
+description: "Health news related to Oxytetracycline. Original indication: . 1 predicted indications."
 permalink: /news/oxytetracycline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxytetracycline?">
-<strong>Oxytetracycline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Oxytetracycline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Oxytetracycline with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>T M 250mg Capsule | Strip of 4 capsules | Pfizer Ltd (99.0%)</li>
-<li>Terramycin SF Capsule | Strip of 10 capsules | Pfizer Ltd (99.0%)</li>
-<li>Terramycin MD Injection | Vial of 10 ml injection | Pfizer Ltd (99.0%)</li>
-<li>Oxytetracycline AF Tablet | Strip of 4 tablets | Pfizer Ltd (99.0%)</li>
-<li>Tetracon 50mg Syrup | Bottle of 100 ml syrup | Western Remedies (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic rhinosinusitis (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">View full drug report →</a></p>

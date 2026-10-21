@@ -3,7 +3,7 @@ layout: default
 title: "Letrozole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Letrozole. Original indication: he TxGNN model predicts it may be effective for **.... 10 predicted indications."
+description: "Health news related to Letrozole. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/letrozole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/letrozole/
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Letrozole</strong> currently has <strong>13 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,17 +26,8 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **female breast carcinoma**, with **40 clinical trials** and **20 publications** retrieved for this direction.</li>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 breast cancer</span></li>
-<li>nipple carcinoma (99.8%)</li>
-<li>estrogen-receptor negative breast cancer (99.8%)</li>
-<li>estrogen-receptor positive breast cancer (99.8%)</li>
-<li>Ehrlich tumor carcinoma (99.8%)</li>
-<li>hormone-resistant breast carcinoma (99.8%)</li>
-<li>bilateral breast carcinoma (99.7%)</li>
-<li>breast carcinoma by gene expression profile (99.7%)</li>
-<li>breast fibrocystic disease (99.6%)</li>
-<li>benign mammary dysplasia (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Female breast carcinoma (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
@@ -73,14 +64,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5
 2026-10-20 <span class="news-indication-tag">cancer</span>
 
 Source: [ThePrint](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFjY2lkRnF5eUM2dTNYdVZvSmNHakNqYUFOOXJTaW1XVm1HRlpPSnVoSkJTNDI2SkpJRnJWdVRPN0hVRFRNejk4XzY4LURoQVJuM2pNbmp4SkJKNnV5RzBVeUFWOHc3Q09MSUhfSE96YzJPSXdna0NqdkRZM0Y4Sm9sWUU5c0lUQXpEWE05Yk5vTU1fOVF6UlVtT3JZZmstSzVzdnBBaEp5aURfbWhrRnozaWQ3X0hIQlhScEJ3d23SAcYBQVVfeXFMTndva2RLdUNCcFAyYS1JaWFpRTMzRGF0YkVYRXZfUWxJOWVPcnhBNkxuTDVQb21kVnd2WVVBN0g3QzJ6bkNGaWRFTHRCRlpvcEF6NXJGbWtWeTluMXFlN3pZY05ZSzlQU0dPa1QyVzF2RzVSRk5uQklXOFdnMmNoYkdZUGlKcnYxOERjcFF6dTVDeTc5R0xtRTFjXzdMdmM1YzlUNDAyaV9sdEY5TVFTZi00TjZfRm5aUDZFM1JKc0hyOUdCZzFn?oc=5)
-
----
-
-### [AI-powered virtual reality could help women manage menopause symptoms](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS1NN1lLdGt3U0d3VThSVElCcEVZQ2s3dmV0UmtuWUtBT3VFOXdlT2l0ajVXNTBGSE90c0N0c0J5ZlNFSzhhUHpTd1haTlFVRWJyV05saUZGNlpuUThveG1aNWhwVWduSFQ0M1FYRExoZGtySG9TTmlEdmU3WThsaUk1Tm1yNzhHVFlBSm00eUFmaFRSS3RXRGZJZWhZN2NMVlpSNlBNRFE2YXRub3phLWc2RzA5bVBr?oc=5)
-
-2026-10-20 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS1NN1lLdGt3U0d3VThSVElCcEVZQ2s3dmV0UmtuWUtBT3VFOXdlT2l0ajVXNTBGSE90c0N0c0J5ZlNFSzhhUHpTd1haTlFVRWJyV05saUZGNlpuUThveG1aNWhwVWduSFQ0M1FYRExoZGtySG9TTmlEdmU3WThsaUk1Tm1yNzhHVFlBSm00eUFmaFRSS3RXRGZJZWhZN2NMVlpSNlBNRFE2YXRub3phLWc2RzA5bVBr?oc=5)
 
 ---
 
@@ -121,6 +104,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Palonosetron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Palonosetron. Original indication: . 5 predicted indications."
+description: "Health news related to Palonosetron. Original indication: . 1 predicted indications."
 permalink: /news/palonosetron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/palonosetron/
 ---
 
 <p class="key-answer" data-question="What news is there about Palonosetron?">
-<strong>Palonosetron</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Palonosetron</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Palonosetron with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Palibout 0.25 Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
-<li>Aloxy Capsule | Strip of 10 capsules | Not specified (99.0%)</li>
-<li>Palostar 0.25mg Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
-<li>Chepatron 0.25mg Injection | Vial of 1 ml injection | Not specified (99.0%)</li>
-<li>Emecad 0.25mg Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/palonosetron/' | relative_url }}">View full drug report →</a></p>

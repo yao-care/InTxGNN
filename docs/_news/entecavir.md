@@ -3,7 +3,7 @@ layout: default
 title: "Entecavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Entecavir. Original indication: . 5 predicted indications."
+description: "Health news related to Entecavir. Original indication: . 1 predicted indications."
 permalink: /news/entecavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entecavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Entecavir?">
-<strong>Entecavir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Entecavir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Entecavir with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Entarica 0.5 Tablet (Fibrica Healthcare) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Entabest 0.5 Tablet (Shelton Pharmaceuticals) | Bottle of 30 tablets | Not available (99.0%)</li>
-<li>Entavir 0.5mg Tablet (Cipla) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Entehep 0.5 Tablet (Zydus Cadila) | Bottle of 30 tablets | Not available (99.0%)</li>
-<li>Hepalo 0.5 Tablet (Emcure Pharmaceuticals) | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic hepatitis C virus infection (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entecavir/' | relative_url }}">View full drug report →</a></p>

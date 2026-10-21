@@ -3,7 +3,7 @@ layout: default
 title: "Felbinac News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Felbinac. Original indication: . 10 predicted indications."
+description: "Health news related to Felbinac. Original indication: . 1 predicted indications."
 permalink: /news/felbinac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/felbinac/
 ---
 
 <p class="key-answer" data-question="What news is there about Felbinac?">
-<strong>Felbinac</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Felbinac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Felbinac with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>spondyloarthropathy, susceptibility to (99.9%)</li>
-<li>rheumatoid nodulosis (99.7%)</li>
-<li>combined immunodeficiency due to moesin deficiency (99.7%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.6%)</li>
-<li>juvenile idiopathic arthritis (99.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/felbinac/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Darunavir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Darunavir. Original indication: . 5 predicted indications."
+description: "Health news related to Darunavir. Original indication: . 1 predicted indications."
 permalink: /news/darunavir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/darunavir/
 ---
 
 <p class="key-answer" data-question="What news is there about Darunavir?">
-<strong>Darunavir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Darunavir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Darunavir with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Danavir 600 Tablet (Hetero Drugs Ltd) | Bottle of 60 tablets | — (99.0%)</li>
-<li>Danavir 300mg Tablet (Hetero Drugs Ltd) | Bottle of 30 tablets | — (99.0%)</li>
-<li>Virem 600mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 60 tablets | — (99.0%)</li>
-<li>Virem 300mg Tablet (Emcure Pharmaceuticals Ltd) | Bottle of 120 tablets | — (99.0%)</li>
-<li>Daruvir 600mg Tablet (Cipla Ltd) | Bottle of 60 tablets | — (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/darunavir/' | relative_url }}">View full drug report →</a></p>

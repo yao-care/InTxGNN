@@ -3,7 +3,7 @@ layout: default
 title: "Morphine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Morphine. Original indication: . 9 predicted indications."
+description: "Health news related to Morphine. Original indication: . 10 predicted indications."
 permalink: /news/morphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/morphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Morphine?">
-<strong>Morphine</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Morphine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ This page combines the AI-predicted indications for Morphine with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Manic bipolar affective disorder | 99.64% | L5 | Hold | Literature is historical or preclinical; abuse liability and psychiatric risk are concerns (99.0%)</li>
-<li>Tourette syndrome | 99.48% | L5 | Hold | Preclinical and review-level only; not specific to morphine (99.0%)</li>
-<li>Restless legs syndrome | 99.47% | L3 | Research question | Observational support, including registries and intrathecal morphine reports (99.0%)</li>
-<li>ADHD, inattentive type | 99.34% | L5 | Hold | No literature or trials (99.0%)</li>
-<li>Migraine disorder | 99.32% | L4 | Hold | Guidelines generally discourage opioids (99.0%)</li>
-<li>Trichotillomania | 99.29% | L5 | Hold | No literature; opioid antagonists, not agonists, have been explored (99.0%)</li>
-<li>Methemoglobinemia | 99.15% | L5 | Hold | No plausible mechanism (99.0%)</li>
-<li>Migraine with brainstem aura | 99.15% | L5 | Hold | Preclinical or tangential only (99.0%)</li>
-<li>Specific developmental disorder | 99.06% | L5 | Hold | Preclinical or unrelated (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Myofascial pain syndrome (99.8%)</li>
+<li>Manic bipolar affective disorder (99.6%)</li>
+<li>Tourette syndrome (99.5%)</li>
+<li>Restless legs syndrome (99.5%)</li>
+<li>ADHD, inattentive type (99.3%)</li>
+<li>Migraine disorder (99.3%)</li>
+<li>Trichotillomania (99.3%)</li>
+<li>Methemoglobinemia (99.2%)</li>
+<li>Migraine with brainstem aura (99.2%)</li>
+<li>Specific developmental disorder (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">View full drug report →</a></p>

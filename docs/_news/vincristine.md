@@ -3,7 +3,7 @@ layout: default
 title: "Vincristine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vincristine. Original indication: . 5 predicted indications."
+description: "Health news related to Vincristine. Original indication: . 1 predicted indications."
 permalink: /news/vincristine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vincristine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vincristine?">
-<strong>Vincristine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Vincristine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Vincristine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Vcad 1mg Injection (Cadila Pharmaceuticals) | Vial, injection | Not specified (99.0%)</li>
-<li>Oncocristin AQ 1mg Injection (Sun Pharmaceutical) | Vial of 1 ml, injection | Not specified (99.0%)</li>
-<li>Cytocristin 1mg Injection (Cipla) | Vial of 1 ml, injection | Not specified (99.0%)</li>
-<li>Cytocristin 2mg Injection (Cipla) | Vial of 2 ml, injection | Not specified (99.0%)</li>
-<li>Alcrist 1mg Injection (Alkem Laboratories) | Vial, injection | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ganglioneuroblastoma (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vincristine/' | relative_url }}">View full drug report →</a></p>

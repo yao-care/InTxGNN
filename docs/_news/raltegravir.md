@@ -3,7 +3,7 @@ layout: default
 title: "Raltegravir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Raltegravir. Original indication: . 2 predicted indications."
+description: "Health news related to Raltegravir. Original indication: . 1 predicted indications."
 permalink: /news/raltegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/raltegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Raltegravir?">
-<strong>Raltegravir</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Raltegravir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Raltegravir with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Zepdon 400mg Tablet (Cipla Ltd) | Bottle of 60 tablets | Not stated in the available data (99.0%)</li>
-<li>Isentress 400mg Tablet (MSD Pharmaceuticals Pvt Ltd) | Bottle of 60 tablets | Not stated in the available data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/raltegravir/' | relative_url }}">View full drug report →</a></p>

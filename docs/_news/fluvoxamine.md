@@ -3,7 +3,7 @@ layout: default
 title: "Fluvoxamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluvoxamine. Original indication: . 5 predicted indications."
+description: "Health news related to Fluvoxamine. Original indication: . 1 predicted indications."
 permalink: /news/fluvoxamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluvoxamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluvoxamine?">
-<strong>Fluvoxamine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Fluvoxamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Fluvoxamine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Frext 50 Tablet | Tablet (strip of 10) | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Fluvoxin 50 Tablet | Tablet (strip of 10) | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Fluvoxin CR 50 Tablet | Extended-release tablet (strip of 10) | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Flumin 100mg Tablet | Tablet (strip of 10) | Psycogen Captab (99.0%)</li>
-<li>Voxamin 100 Tablet | Tablet (strip of 10) | Micro Labs Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Schizotypal personality disorder (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluvoxamine/' | relative_url }}">View full drug report →</a></p>

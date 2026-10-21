@@ -3,7 +3,7 @@ layout: default
 title: "Capecitabine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Capecitabine. Original indication: . 5 predicted indications."
+description: "Health news related to Capecitabine. Original indication: . 1 predicted indications."
 permalink: /news/capecitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capecitabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Capecitabine?">
-<strong>Capecitabine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Capecitabine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Capecitabine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cabita 500mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Capegard 500 Tablet (Cipla) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Capsy 500mg Tablet (Intas) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Capecite 500mg Tablet (Abbott) | Strip of 8 tablets | Not available (99.0%)</li>
-<li>Zocitab 500mg Tablet (Fresenius Kabi) | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gastric tubular adenocarcinoma (the first-listed prediction, gastric adenocarcinoma and proximal polyposis of the stomach, has no evidence and is on Hold) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Dimenhydrinate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dimenhydrinate. Original indication: . 2 predicted indications."
+description: "Health news related to Dimenhydrinate. Original indication: . 1 predicted indications."
 permalink: /news/dimenhydrinate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dimenhydrinate/
 ---
 
 <p class="key-answer" data-question="What news is there about Dimenhydrinate?">
-<strong>Dimenhydrinate</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Dimenhydrinate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Dimenhydrinate with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>allergic urticaria (99.7%)</li>
-<li>cold urticaria (99.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Allergic urticaria (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dimenhydrinate/' | relative_url }}">View full drug report →</a></p>

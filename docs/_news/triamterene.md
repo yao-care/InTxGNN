@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Triamterene with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Trymax 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Malignant hypertensive renal disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triamterene/' | relative_url }}">View full drug report →</a></p>

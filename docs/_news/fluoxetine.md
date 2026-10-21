@@ -3,7 +3,7 @@ layout: default
 title: "Fluoxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluoxetine. Original indication: . 5 predicted indications."
+description: "Health news related to Fluoxetine. Original indication: . 1 predicted indications."
 permalink: /news/fluoxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluoxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluoxetine?">
-<strong>Fluoxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Fluoxetine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Fluoxetine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Depcure 20mg Capsule | Strip of 10 capsules | Not stated in the data (99.0%)</li>
-<li>Fluget 20mg Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Depzac 20mg Capsule (Cipla Ltd) | Strip of 10 capsules | Not stated in the data (99.0%)</li>
-<li>Fluz OD Tablet | Strip of 1 tablet | Not stated in the data (99.0%)</li>
-<li>Nodep 20mg Capsule | Strip of 10 capsules | Not stated in the data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Schizoid personality disorder (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluoxetine/' | relative_url }}">View full drug report →</a></p>

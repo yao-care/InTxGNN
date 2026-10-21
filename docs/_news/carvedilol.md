@@ -3,7 +3,7 @@ layout: default
 title: "Carvedilol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Carvedilol. Original indication: . 5 predicted indications."
+description: "Health news related to Carvedilol. Original indication: . 1 predicted indications."
 permalink: /news/carvedilol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carvedilol/
 ---
 
 <p class="key-answer" data-question="What news is there about Carvedilol?">
-<strong>Carvedilol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Carvedilol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Carvedilol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Kar-B 6.25mg Tablet (J B Chemicals and Pharmaceuticals) | Tablet (strip of 10) | Not available (99.0%)</li>
-<li>Carvipress 25mg Tablet (Micro Labs) | Tablet (strip of 10) | Not available (99.0%)</li>
-<li>Carveford 12.5mg Tablet (Leeford Healthcare) | Tablet (strip of 10) | Not available (99.0%)</li>
-<li>Cvdol-CR 10 Tablet (Care Formulation Labs) | Controlled-release tablet (strip of 10) | Not available (99.0%)</li>
-<li>Cardivas CR 40 Tablet (Sun Pharmaceutical) | Extended-release tablet (strip of 10) | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Malignant hypertensive renal disease (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">View full drug report →</a></p>

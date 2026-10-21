@@ -3,7 +3,7 @@ layout: default
 title: "Sucralfate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sucralfate. Original indication: . 5 predicted indications."
+description: "Health news related to Sucralfate. Original indication: . 1 predicted indications."
 permalink: /news/sucralfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sucralfate/
 ---
 
 <p class="key-answer" data-question="What news is there about Sucralfate?">
-<strong>Sucralfate</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sucralfate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sucralfate with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Scrat O Syrup | Syrup, 100 ml bottle | Positive Medicare Pvt Ltd (99.0%)</li>
-<li>Sucrarol Syrup | Syrup, 100 ml bottle | Royal Labs (99.0%)</li>
-<li>Damcid OX Oral Suspension | Oral suspension, 100 ml bottle | Damsa Pharma (99.0%)</li>
-<li>Sucral Tablet | Tablet, strip of 10 | Strassenburg Pharmaceuticals Ltd (99.0%)</li>
-<li>Sufrate PZ Powder | Powder, 105 g box | Eskag Pharma Pvt Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Duodenogastric reflux (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sucralfate/' | relative_url }}">View full drug report →</a></p>

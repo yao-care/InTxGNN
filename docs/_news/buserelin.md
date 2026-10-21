@@ -3,7 +3,7 @@ layout: default
 title: "Buserelin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Buserelin. Original indication: . 5 predicted indications."
+description: "Health news related to Buserelin. Original indication: . 1 predicted indications."
 permalink: /news/buserelin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/buserelin/
 ---
 
 <p class="key-answer" data-question="What news is there about Buserelin?">
-<strong>Buserelin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Buserelin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Buserelin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Busarlin 0.5mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Supradopin 0.5mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Busag 5mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Busarlin 7mg Injection | Vial of 7 ml injection | Not stated (99.0%)</li>
-<li>Busag 0.5mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypertrichosis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/buserelin/' | relative_url }}">View full drug report →</a></p>

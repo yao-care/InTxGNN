@@ -3,7 +3,7 @@ layout: default
 title: "Cetilistat News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cetilistat. Original indication: . 3 predicted indications."
+description: "Health news related to Cetilistat. Original indication: . 1 predicted indications."
 permalink: /news/cetilistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cetilistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Cetilistat?">
-<strong>Cetilistat</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Cetilistat</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Cetilistat with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Cetislim Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Belishape 120mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Kilfat Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypervitaminosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cetilistat/' | relative_url }}">View full drug report →</a></p>

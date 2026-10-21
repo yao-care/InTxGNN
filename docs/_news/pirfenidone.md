@@ -3,7 +3,7 @@ layout: default
 title: "Pirfenidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pirfenidone. Original indication: . 5 predicted indications."
+description: "Health news related to Pirfenidone. Original indication: . 1 predicted indications."
 permalink: /news/pirfenidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pirfenidone/
 ---
 
 <p class="key-answer" data-question="What news is there about Pirfenidone?">
-<strong>Pirfenidone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pirfenidone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pirfenidone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pirfenex Tablet | Strip of 15 tablets | Cipla Ltd (99.0%)</li>
-<li>Fibrodone 400mg Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
-<li>Pirfetab 267 Tablet | Strip of 10 tablets | Zydus Cadila (99.0%)</li>
-<li>Pirfact 801 Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Pulmofib 801mg Tablet | Strip of 10 tablets | MSN Laboratories (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Extracutaneous mastocytoma (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pirfenidone/' | relative_url }}">View full drug report →</a></p>

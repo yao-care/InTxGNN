@@ -3,7 +3,7 @@ layout: default
 title: "Ticarcillin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ticarcillin. Original indication: . 5 predicted indications."
+description: "Health news related to Ticarcillin. Original indication: . 1 predicted indications."
 permalink: /news/ticarcillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ticarcillin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ticarcillin?">
-<strong>Ticarcillin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ticarcillin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ticarcillin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ticwise 3000mg/100mg Injection | Vial of 1 injection | Not available (99.0%)</li>
-<li>Ticarnic 3.1 Injection | Vial of 1 injection | Not available (99.0%)</li>
-<li>Ticar C 3000mg/100mg Injection | Vial of 1 injection | Not available (99.0%)</li>
-<li>Timentin 3.1 Injection (GlaxoSmithKline) | Vial of 1 injection | Not available (99.0%)</li>
-<li>Timcyn 3000 mg/100 mg Injection | Vial of 1 injection | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Lymph node palisaded myofibroblastoma (rank 1); disease of peritoneum (rank 9) is the only candidate with literature support (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ticarcillin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Metformin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metformin. Original indication: . 5 predicted indications."
+description: "Health news related to Metformin. Original indication: . 1 predicted indications."
 permalink: /news/metformin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="What news is there about Metformin?">
-<strong>Metformin</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Metformin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Metformin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ramyglyn M 500mg/20mg Tablet | Strip of 10 tablets | Ramylabs Health Care (99.0%)</li>
-<li>Galvus Met 50mg/500mg Tablet | Strip of 15 tablets | Novartis India Ltd (99.0%)</li>
-<li>Endoformin 1000mg Tablet SR | Strip of 10 SR tablets | Precia Pharma (99.0%)</li>
-<li>Tenlivas M 1000mg/20mg Tablet ER | Strip of 10 ER tablets | Kasnav Pharma (99.0%)</li>
-<li>Torglip M SR 500 Tablet | Strip of 10 SR tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Focal stiff limb syndrome (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">View full drug report →</a></p>

@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Erenumab with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Suviray Injection (Novartis India Ltd) | Vial of 1, solution for injection | Not stated in the available record (99.0%)</li>
+<li>Migraine with brainstem aura (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erenumab/' | relative_url }}">View full drug report →</a></p>

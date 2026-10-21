@@ -3,7 +3,7 @@ layout: default
 title: "Carboplatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Carboplatin. Original indication: . 5 predicted indications."
+description: "Health news related to Carboplatin. Original indication: . 1 predicted indications."
 permalink: /news/carboplatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Carboplatin?">
-<strong>Carboplatin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Carboplatin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Carboplatin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Carbokem Novo 150mg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not available in compiled data (99.0%)</li>
-<li>Acoticyt 150mg Injection (Accord Pharmaceuticals) | Vial of 1 injection | Not available in compiled data (99.0%)</li>
-<li>Celcarb 450mg Injection (Celon Laboratories Ltd) | Vial of 1 injection | Not available in compiled data (99.0%)</li>
-<li>Carboplan 150mg Injection (Natco Pharma Ltd) | Vial of 1 injection | Not available in compiled data (99.0%)</li>
-<li>Karplat 450mg Infusion (Cadila Pharmaceuticals Ltd) | Bottle of 50 ml infusion | Not available in compiled data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Female breast carcinoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">View full drug report →</a></p>

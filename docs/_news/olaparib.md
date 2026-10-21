@@ -3,7 +3,7 @@ layout: default
 title: "Olaparib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Olaparib. Original indication: . 2 predicted indications."
+description: "Health news related to Olaparib. Original indication: . 1 predicted indications."
 permalink: /news/olaparib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olaparib/
 ---
 
 <p class="key-answer" data-question="What news is there about Olaparib?">
-<strong>Olaparib</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Olaparib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Olaparib with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Lynparza 100mg Tablet | Strip of 8 tablets | Not specified in the available data (99.0%)</li>
-<li>Lynparza 150mg Tablet | Strip of 8 tablets | Not specified in the available data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Female breast carcinoma (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olaparib/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Aliskiren News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Aliskiren. Original indication: . 8 predicted indications."
+description: "Health news related to Aliskiren. Original indication: . 1 predicted indications."
 permalink: /news/aliskiren/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aliskiren/
 ---
 
 <p class="key-answer" data-question="What news is there about Aliskiren?">
-<strong>Aliskiren</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Aliskiren</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,21 +25,14 @@ This page combines the AI-predicted indications for Aliskiren with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>Rasilez 300mg Tablet FC | Strip of 7 Tablet FC | Not specified (99.0%)</li>
-<li>Rasilez 150mg Tablet FC | Strip of 7 Tablet FC | Not specified (99.0%)</li>
-<li>Pulmonary hypertension with unclear multifactorial mechanism | L5 | Hold (99.0%)</li>
-<li>Malignant renovascular hypertension | L4 | Hold (99.0%)</li>
-<li>Malignant hypertensive renal disease | L4 | Hold (99.0%)</li>
-<li>Braddock syndrome | L5 | Hold (99.0%)</li>
-<li>Chronic pulmonary heart disease | L4 | Hold (99.0%)</li>
-<li>Cerebrovascular disorder | L3 | Research Question (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia (rank 2; rank 1 is pulmonary hypertension with unclear multifactorial mechanism) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aliskiren/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -94,6 +87,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

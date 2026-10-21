@@ -3,7 +3,7 @@ layout: default
 title: "Amiodarone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amiodarone. Original indication: . 5 predicted indications."
+description: "Health news related to Amiodarone. Original indication: . 1 predicted indications."
 permalink: /news/amiodarone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amiodarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Amiodarone?">
-<strong>Amiodarone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Amiodarone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cordarone Tablet (Sanofi India Ltd) | Strip of 15 tablets | Not listed (99.0%)</li>
-<li>Cordarone Injection 3ml (Sanofi India Ltd) | Vial of 3 ml injection | Not listed (99.0%)</li>
-<li>Amipace 200 Tablet (Lupin Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Eurythmic 200mg Tablet (Troikaa Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Eurythmic 150mg Injection (Troikaa Pharmaceuticals Ltd) | Prefilled syringe of 3 ml | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Catecholaminergic polymorphic ventricular tachycardia (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amiodarone/' | relative_url }}">View full drug report →</a></p>

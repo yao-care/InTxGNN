@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Zaltoprofen with the latest 
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **rheumatoid arthritis**. No clinical trials are registered for this indication, and **6 publications** were compiled, only one of which is a clinical...</li>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>ZP 80mg Tablet (Wezen Chemicals Pvt Ltd) | Strip of 10 tablets | Not stated in the record (99.0%)</li>
+<li>Rheumatoid arthritis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zaltoprofen/' | relative_url }}">View full drug report →</a></p>

@@ -26,12 +26,12 @@ This page combines the AI-predicted indications for Lovastatin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Homozygous familial hypercholesterolemia | 99.89% | L3 | Research question / Hold (99.0%)</li>
-<li>Hyperlipoproteinemia | 99.87% | L1 | Proceed with Guardrails (99.0%)</li>
-<li>Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency | 99.63% | L5 | Hold (99.0%)</li>
-<li>Familial hypercholesterolemia | 99.48% | L1 | Proceed with Guardrails (99.0%)</li>
-<li>Cholesterol-ester transfer protein deficiency | 99.42% | L5 | Hold (99.0%)</li>
-<li>Hyperlipidemia due to hepatic triglyceride lipase deficiency | 99.13% | L4 | Hold (99.0%)</li>
+<li>Homozygous familial hypercholesterolemia (99.9%)</li>
+<li>Hyperlipoproteinemia (99.9%)</li>
+<li>Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.6%)</li>
+<li>Familial hypercholesterolemia (99.5%)</li>
+<li>Cholesterol-ester transfer protein deficiency (99.4%)</li>
+<li>Hyperlipidemia due to hepatic triglyceride lipase deficiency (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lovastatin/' | relative_url }}">View full drug report →</a></p>

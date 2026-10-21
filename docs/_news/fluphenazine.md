@@ -3,7 +3,7 @@ layout: default
 title: "Fluphenazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluphenazine. Original indication: . 5 predicted indications."
+description: "Health news related to Fluphenazine. Original indication: . 1 predicted indications."
 permalink: /news/fluphenazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluphenazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluphenazine?">
-<strong>Fluphenazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Fluphenazine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Fluphenazine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Phenvator 25mg Injection | Vial, injection (99.0%)</li>
-<li>Fludecan 25mg Injection | Vial of 2 ml, injection (99.0%)</li>
-<li>Phenasol 25mg Injection | Vial of 1 ml, injection (99.0%)</li>
-<li>Arkane 2mg Tablet | Strip of 10 tablets (99.0%)</li>
-<li>Anatensol Decanoate 25mg Injection | Vial of 1 ml, injection (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluphenazine/' | relative_url }}">View full drug report →</a></p>

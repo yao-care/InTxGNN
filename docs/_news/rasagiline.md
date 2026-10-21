@@ -3,7 +3,7 @@ layout: default
 title: "Rasagiline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rasagiline. Original indication: . 5 predicted indications."
+description: "Health news related to Rasagiline. Original indication: . 6 predicted indications."
 permalink: /news/rasagiline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rasagiline/
 ---
 
 <p class="key-answer" data-question="What news is there about Rasagiline?">
-<strong>Rasagiline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rasagiline</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,13 @@ This page combines the AI-predicted indications for Rasagiline with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Afrelect 0.5mg Tablet (Taj Pharma India Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Relgin 1 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Rasalect 1 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Relgin 0.5 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Rasagin 0.5mg Tablet (Natco Pharma Ltd) | Strip of 30 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>PLA2G6-associated neurodegeneration (99.7%)</li>
+<li>Paralysis agitans, juvenile, of Hunt (99.2%)</li>
+<li>Rasmussen subacute encephalitis (99.6%)</li>
+<li>Myelitis (99.3%)</li>
+<li>Transaldolase deficiency (99.2%)</li>
+<li>Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rasagiline/' | relative_url }}">View full drug report →</a></p>

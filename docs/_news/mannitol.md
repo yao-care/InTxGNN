@@ -3,7 +3,7 @@ layout: default
 title: "Mannitol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mannitol. Original indication: . 14 predicted indications."
+description: "Health news related to Mannitol. Original indication: . 1 predicted indications."
 permalink: /news/mannitol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="What news is there about Mannitol?">
-<strong>Mannitol</strong> currently has <strong>9 news articles</strong>, with 14 predicted indications.
+<strong>Mannitol</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,14 @@ This page combines the AI-predicted indications for Mannitol with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (14)</strong>:<ul>
-<li>Axatol 20IU Infusion | Bottle of 100 ml infusion | Not stated (99.0%)</li>
-<li>Fabitol 20% Infusion | Bottle of 100 ml infusion | Not stated (99.0%)</li>
-<li>Manitol 20% Infusion | Bottle of 350 ml infusion | Not stated (99.0%)</li>
-<li>Mannitol IP 20% Infusion | Bottle of 350 ml infusion | Not stated (99.0%)</li>
-<li>Manogyl 10% Infusion | Bottle of 100 ml infusion | Not stated (99.0%)</li>
-<li>Acute pulmonary heart disease | L4 | Only indirect literature, and osmotic loading may precipitate pulmonary edema (99.0%)</li>
-<li>Exercise-induced malignant hyperthermia | L5 | No literature (99.0%)</li>
-<li>Malignant hyperthermia susceptibility | L4 | Mannitol is only a supportive agent or dantrolene excipient (99.0%)</li>
-<li>Familial periodic paralysis | L4 | Mannitol serves as a potassium vehicle, not a disease-modifying therapy (99.0%)</li>
-<li>Hypokalemic periodic paralysis | L4 | Supportive vehicle use; case-level evidence only (99.0%)</li>
-<li>Congenital multicore myopathy with external ophthalmoplegia | L5 | Likely reflects shared RYR1 network; no literature (99.0%)</li>
-<li>Moderate multiminicore disease with hand involvement | L5 | Likely reflects shared RYR1 network; no literature (99.0%)</li>
-<li>Nephrogenic diabetes insipidus | L5 | Mechanistically unlikely, since osmotic diuresis may worsen polyuria (99.0%)</li>
-<li>King-Denborough syndrome | L5 | Network proximity to malignant hyperthermia only (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -100,6 +87,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

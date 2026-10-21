@@ -3,7 +3,7 @@ layout: default
 title: "Piribedil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Piribedil. Original indication: . 4 predicted indications."
+description: "Health news related to Piribedil. Original indication: . 5 predicted indications."
 permalink: /news/piribedil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/piribedil/
 ---
 
 <p class="key-answer" data-question="What news is there about Piribedil?">
-<strong>Piribedil</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Piribedil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,12 @@ This page combines the AI-predicted indications for Piribedil with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Paralysis agitans, juvenile, of Hunt | 99.34% | L5 | Historical label that overlaps with the approved Parkinson disease indication, so it adds little new repurposing value (99.0%)</li>
-<li>Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.12% | L5 | No plausible mechanism from dopamine agonism to a structural developmental malformation (99.0%)</li>
-<li>PLA2G6-associated neurodegeneration | 99.07% | L5 | Could give limited symptomatic motor benefit only, with no effect on the underlying disease (99.0%)</li>
-<li>Juvenile onset Parkinson disease 19A | 99.01% | L5 | Symptomatic benefit is plausible, but response in monogenic juvenile forms is uncertain (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (99.3%)</li>
+<li>Paralysis agitans, juvenile, of Hunt (99.3%)</li>
+<li>Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.1%)</li>
+<li>PLA2G6-associated neurodegeneration (99.1%)</li>
+<li>Juvenile onset Parkinson disease 19A (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piribedil/' | relative_url }}">View full drug report →</a></p>

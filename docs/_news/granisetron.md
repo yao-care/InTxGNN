@@ -3,7 +3,7 @@ layout: default
 title: "Granisetron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Granisetron. Original indication: The proposed link to manic bipolar disorder is hyp.... 5 predicted indications."
+description: "Health news related to Granisetron. Original indication: The proposed link to manic bipolar disorder is hyp.... 1 predicted indications."
 permalink: /news/granisetron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/granisetron/
 ---
 
 <p class="key-answer" data-question="What news is there about Granisetron?">
-<strong>Granisetron</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Granisetron</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Granisetron with the latest 
 <ul>
 <li><strong>Original indication</strong>: The proposed link to manic bipolar disorder is hypothetical. 5-HT3 antagonism has been suggested to modulate dopaminergic and serotonergic signalling in the central nervous system, and these pathways...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Granipel Oral Drops (Pelzar Healthcare) | Bottle of 15 ml oral drops | Not stated (99.0%)</li>
-<li>Emergan 1mg Injection (H & Care Incorp) | Vial of 3 ml injection | Not stated (99.0%)</li>
-<li>Anset G 3mg Injection (Bennet Mypher Pharmaceuticals LLP) | Vial of 3 ml injection | Not stated (99.0%)</li>
-<li>Grawel 1mg Tablet (Zee Laboratories) | Strip of 4 tablets | Not stated (99.0%)</li>
-<li>Graniset 1 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 4 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Manic bipolar affective disorder (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/granisetron/' | relative_url }}">View full drug report →</a></p>

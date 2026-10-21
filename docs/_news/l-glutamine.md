@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for L-Glutamine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Glutamune DT 1000 Tablet | Strip of 10 dispersible tablets (oral) | Not specified (99.0%)</li>
+<li>Drug-induced osteoporosis (TxGNN rank 1, no evidence). Dermatitis (rank 3) is the best-supported candidate and is the focus of this report. (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/l-glutamine/' | relative_url }}">View full drug report →</a></p>

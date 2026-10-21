@@ -3,7 +3,7 @@ layout: default
 title: "Lorcaserin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lorcaserin. Original indication: . 4 predicted indications."
+description: "Health news related to Lorcaserin. Original indication: . 1 predicted indications."
 permalink: /news/lorcaserin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lorcaserin/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorcaserin?">
-<strong>Lorcaserin</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Lorcaserin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Lorcaserin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>hypervitaminosis (100.0%)</li>
-<li>proximal 16p11.2 microdeletion syndrome (100.0%)</li>
-<li>obsolete hypertelorism (disease) (99.9%)</li>
-<li>frontorhiny (99.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypervitaminosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorcaserin/' | relative_url }}">View full drug report →</a></p>

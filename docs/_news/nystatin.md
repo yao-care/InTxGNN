@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Nystatin with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Nistin 100000IU Ointment (Jawa Pharmaceuticals Pvt Ltd) | Tube of 3 g ointment | Not stated in the registration record (99.0%)</li>
+<li>Vulvovaginitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Flecainide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flecainide. Original indication: . 10 predicted indications."
+description: "Health news related to Flecainide. Original indication: . 1 predicted indications."
 permalink: /news/flecainide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flecainide/
 ---
 
 <p class="key-answer" data-question="What news is there about Flecainide?">
-<strong>Flecainide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Flecainide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Flecainide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>stroke disorder (99.9%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.9%)</li>
-<li>sick sinus syndrome 2, autosomal dominant (99.8%)</li>
-<li>ABri amyloidosis (99.7%)</li>
-<li>sarcoglycanopathy (99.7%)</li>
-<li>Wildervanck syndrome (99.7%)</li>
-<li>macrocephaly, dysmorphic facies, and psychomotor retardation (99.5%)</li>
-<li>duodenal obstruction (99.3%)</li>
-<li>cerebrovascular disorder (99.2%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Stroke disorder (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flecainide/' | relative_url }}">View full drug report →</a></p>

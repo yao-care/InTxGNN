@@ -3,7 +3,7 @@ layout: default
 title: "Tenecteplase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tenecteplase. Original indication: vidence is therefore indirect, inferred from the p.... 5 predicted indications."
+description: "Health news related to Tenecteplase. Original indication: vidence is therefore indirect, inferred from the p.... 1 predicted indications."
 permalink: /news/tenecteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenecteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Tenecteplase?">
-<strong>Tenecteplase</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tenecteplase</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Tenecteplase with the latest
 <ul>
 <li><strong>Original indication</strong>: vidence is therefore indirect, inferred from the parent indication.</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tenectelex 40mg Injection (Abbott Healthcare) | Vial of 1 injection | Not stated in the compiled data (99.0%)</li>
-<li>Telyse 40mg Injection (Cipla) | Vial of 1 injection | Not stated in the compiled data (99.0%)</li>
-<li>Tenecterel 40mg Injection Kit (Reliance Life Sciences) | Box of 1 injection | Not stated in the compiled data (99.0%)</li>
-<li>Metalyse 40mg Injection (Boehringer Ingelheim) | Vial of 1 injection | Not stated in the compiled data (99.0%)</li>
-<li>Velix 50mg Injection (Emcure) | Vial of 1 injection | Not stated in the compiled data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Posteroinferior myocardial infarction (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tenecteplase/' | relative_url }}">View full drug report →</a></p>

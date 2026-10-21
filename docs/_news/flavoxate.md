@@ -3,7 +3,7 @@ layout: default
 title: "Flavoxate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flavoxate. Original indication: . 5 predicted indications."
+description: "Health news related to Flavoxate. Original indication: . 1 predicted indications."
 permalink: /news/flavoxate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flavoxate/
 ---
 
 <p class="key-answer" data-question="What news is there about Flavoxate?">
-<strong>Flavoxate</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Flavoxate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Flavoxate with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Flavistrong 200 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Solvoid Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Flyvo 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Urific 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Oriflav 200 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Top-ranked: attention deficit hyperactivity disorder, inattentive type (implausible). Most plausible: obsolete neurogenic bladder (rank 6) and irritable bowel syndrome (rank 2) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flavoxate/' | relative_url }}">View full drug report →</a></p>

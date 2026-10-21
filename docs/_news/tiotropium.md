@@ -3,7 +3,7 @@ layout: default
 title: "Tiotropium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tiotropium. Original indication: . 5 predicted indications."
+description: "Health news related to Tiotropium. Original indication: . 1 predicted indications."
 permalink: /news/tiotropium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tiotropium/
 ---
 
 <p class="key-answer" data-question="What news is there about Tiotropium?">
-<strong>Tiotropium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tiotropium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Tiotropium with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Aerotrop 18mcg Rotacap (Macleods) | Packet of 15 rotacaps | Not stated in the records (99.0%)</li>
-<li>Tiova Rotacap (Cipla) | Bottle of 30 rotacaps | Not stated in the records (99.0%)</li>
-<li>Tiate Transhaler (Lupin) | Packet of 180 MDI Transhaler | Not stated in the records (99.0%)</li>
-<li>Tiomist CFC Free 9mcg Inhaler (Zydus Cadila) | Packet of 120 MDI Inhaler | Not stated in the records (99.0%)</li>
-<li>Solbihale T Redicaps (Dr Reddy's) | Packet of 30 redicaps | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Obstructive lung disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiotropium/' | relative_url }}">View full drug report →</a></p>

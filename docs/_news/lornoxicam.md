@@ -3,7 +3,7 @@ layout: default
 title: "Lornoxicam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lornoxicam. Original indication: . 5 predicted indications."
+description: "Health news related to Lornoxicam. Original indication: . 4 predicted indications."
 permalink: /news/lornoxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lornoxicam/
 ---
 
 <p class="key-answer" data-question="What news is there about Lornoxicam?">
-<strong>Lornoxicam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Lornoxicam</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ This page combines the AI-predicted indications for Lornoxicam with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Lodol 4mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Zoloxy 8mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Lornok 8mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Univer 4mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Rheumatoid arthritis (99.9%)</li>
+<li>Migraine disorder (99.9%)</li>
+<li>Headache disorder (99.8%)</li>
+<li>Tendinitis (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">View full drug report →</a></p>

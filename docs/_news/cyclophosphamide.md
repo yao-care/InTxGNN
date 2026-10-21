@@ -3,7 +3,7 @@ layout: default
 title: "Cyclophosphamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclophosphamide. Original indication: . 9 predicted indications."
+description: "Health news related to Cyclophosphamide. Original indication: . 5 predicted indications."
 permalink: /news/cyclophosphamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclophosphamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclophosphamide?">
-<strong>Cyclophosphamide</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Cyclophosphamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,12 @@ This page combines the AI-predicted indications for Cyclophosphamide with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Cycloxan 200mg Injection | Vial of 1 injection | Not listed (99.0%)</li>
-<li>Cyphos 1000mg Injection | Vial of 1 injection | Not listed (99.0%)</li>
-<li>Endoxan N 500mg Injection | Vial of 1 injection | Not listed (99.0%)</li>
-<li>Endoxan Tablet | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Phosmid 50mg Tablet | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Ganglioneuroblastoma | 99.43% | L3 | Research Question | Case reports only; the single trial (NCT07502287) is a CAR-NK study where cyclophosphamide is used for lymphodepletion. Neuroblastoma is already an original indication (99.0%)</li>
-<li>Vertebral anomalies and variable endocrine and T-cell dysfunction | 99.38% | L5 | Hold | No trials or literature; immunosuppressive agent could worsen T-cell dysfunction (99.0%)</li>
-<li>Retroperitoneal neoplasm | 99.37% | L4 | Research Question | Case reports and small series across diverse histologies; no registered trials (99.0%)</li>
-<li>Lymph node cancer | 99.31% | L1 | Proceed with Guardrails | Large Phase 3 trials (e.g., NCT00003782, n=5351) are mostly in node-positive breast cancer, which overlaps with an existing indication, so this is not a clearly new use (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Myeloid leukemia (99.5%)</li>
+<li>Ganglioneuroblastoma (99.4%)</li>
+<li>Vertebral anomalies and variable endocrine and T-cell dysfunction (99.4%)</li>
+<li>Retroperitoneal neoplasm (99.4%)</li>
+<li>Lymph node cancer (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclophosphamide/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Propranolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Propranolol. Original indication: . 5 predicted indications."
+description: "Health news related to Propranolol. Original indication: . 1 predicted indications."
 permalink: /news/propranolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propranolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Propranolol?">
-<strong>Propranolol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Propranolol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Propranolol with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>DavaIndia Propranolol 40mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Oslol 10 Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Capinol LA 40mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Provanol SR 60 Tablet | Strip of 10 sustained-release tablets | Not stated in the licence record (99.0%)</li>
-<li>Betacap TR 40 Capsule | Strip of 10 prolonged-release capsules | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Distal myopathy, Tateyama type (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">View full drug report →</a></p>

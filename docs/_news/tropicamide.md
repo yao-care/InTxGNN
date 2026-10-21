@@ -3,7 +3,7 @@ layout: default
 title: "Tropicamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tropicamide. Original indication: . 5 predicted indications."
+description: "Health news related to Tropicamide. Original indication: . 1 predicted indications."
 permalink: /news/tropicamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tropicamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Tropicamide?">
-<strong>Tropicamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tropicamide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Tropicamide with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ahlmide P Eye Drop | Packet of 5 ml eye drop | Ahlcon Parenterals India Limited (99.0%)</li>
-<li>Appamide 10 mg/5 mg Eye Drop | Packet of 5 ml eye drop | Appasamy Ocular Device Pvt Ltd (99.0%)</li>
-<li>Tropicacyl Eye Drop | Bottle of 5 ml eye drop | Sunways India Pvt Ltd (99.0%)</li>
-<li>Meptrop Eye Drop | Bottle of 5 ml eye drop | Mepfarma India Pvt Ltd (99.0%)</li>
-<li>Optimide Eye Drop | Packet of 5 ml eye drop | Micro Labs Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cauda equina syndrome (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tropicamide/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Clobazam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clobazam. Original indication: . 9 predicted indications."
+description: "Health news related to Clobazam. Original indication: . 10 predicted indications."
 permalink: /news/clobazam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clobazam/
 ---
 
 <p class="key-answer" data-question="What news is there about Clobazam?">
-<strong>Clobazam</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Clobazam</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ This page combines the AI-predicted indications for Clobazam with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Perioral myoclonia with absences | 99.79% | L5 | Prediction only (99.0%)</li>
-<li>Cryptogenic late-onset epileptic spasms | 99.77% | L4 | One cohort study, no clobazam efficacy data (99.0%)</li>
-<li>Atypical childhood epilepsy with centrotemporal spikes | 99.77% | L4 | General reviews and case series (99.0%)</li>
-<li>Photosensitive occipital lobe epilepsy | 99.77% | L4 | One 1994 regional report (99.0%)</li>
-<li>Childhood onset epileptic encephalopathy | 99.59% | L3 | Reviews and guidelines; largely an extension of the existing indication (99.0%)</li>
-<li>Benign occipital epilepsy | 99.58% | L4 | Includes Cochrane review of clobazam monotherapy; usually self-limited disease (99.0%)</li>
-<li>GRIN2A-related early-onset epileptic encephalopathy | 99.40% | L5 | Prediction only (99.0%)</li>
-<li>Restless legs syndrome | 99.30% | L5 | Prediction only; weak class-level rationale (99.0%)</li>
-<li>Polymicrogyria with optic nerve hypoplasia | 99.09% | L5 | Prediction only (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Febrile infection-related epilepsy syndrome (99.8%)</li>
+<li>Perioral myoclonia with absences (99.8%)</li>
+<li>Cryptogenic late-onset epileptic spasms (99.8%)</li>
+<li>Atypical childhood epilepsy with centrotemporal spikes (99.8%)</li>
+<li>Photosensitive occipital lobe epilepsy (99.8%)</li>
+<li>Childhood onset epileptic encephalopathy (99.6%)</li>
+<li>Benign occipital epilepsy (99.6%)</li>
+<li>GRIN2A-related early-onset epileptic encephalopathy (99.4%)</li>
+<li>Restless legs syndrome (99.3%)</li>
+<li>Polymicrogyria with optic nerve hypoplasia (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clobazam/' | relative_url }}">View full drug report →</a></p>

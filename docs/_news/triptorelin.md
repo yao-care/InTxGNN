@@ -3,7 +3,7 @@ layout: default
 title: "Triptorelin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triptorelin. Original indication: he TxGNN model's top-scoring prediction with real .... 5 predicted indications."
+description: "Health news related to Triptorelin. Original indication: he TxGNN model's top-scoring prediction with real .... 1 predicted indications."
 permalink: /news/triptorelin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triptorelin/
 ---
 
 <p class="key-answer" data-question="What news is there about Triptorelin?">
-<strong>Triptorelin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Triptorelin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Triptorelin with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model's top-scoring prediction with real supporting evidence is **precocious puberty**, backed by **8 clinical trials** and **19 publications**. However, this is already an established,...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pamorelin LA 3.75mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 injection | Not available (99.0%)</li>
-<li>Pamorelin LA 22.5mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 injection | Not available (99.0%)</li>
-<li>Pamorelin LA 11.25mg Powder for Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 powder for injection | Not available (99.0%)</li>
-<li>Decapeptyl 0.1mg Injection (Ferring Pharmaceuticals) | Vial of 1 ml injection | Not available (99.0%)</li>
-<li>Decapeptyl Depot Injection (Ferring Pharmaceuticals) | Vial of 1 injection | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Precocious puberty (the highest-ranked prediction, hypertrichosis, has only L5 evidence and no credible mechanism; precocious puberty is the best-supported of the ten) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triptorelin/' | relative_url }}">View full drug report →</a></p>

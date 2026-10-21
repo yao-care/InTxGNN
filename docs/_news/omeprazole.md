@@ -3,7 +3,7 @@ layout: default
 title: "Omeprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Omeprazole. Original indication: . 5 predicted indications."
+description: "Health news related to Omeprazole. Original indication: . 1 predicted indications."
 permalink: /news/omeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/omeprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Omeprazole?">
-<strong>Omeprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Omeprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Omeprazole with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Omeron 20mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Cid 20mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Ozl 20mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Omerip 20mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Momez 40mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Duodenogastric reflux (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/omeprazole/' | relative_url }}">View full drug report →</a></p>

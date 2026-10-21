@@ -3,7 +3,7 @@ layout: default
 title: "Iopromide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Iopromide. Original indication: . 4 predicted indications."
+description: "Health news related to Iopromide. Original indication: . 1 predicted indications."
 permalink: /news/iopromide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iopromide/
 ---
 
 <p class="key-answer" data-question="What news is there about Iopromide?">
-<strong>Iopromide</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Iopromide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Iopromide with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Ultravist 0.623gm Infusion | Bottle of 100 ml infusion | Not specified (99.0%)</li>
-<li>Ultravist 300mg I/ml Injection | Vial of 50 ml injection | Not specified (99.0%)</li>
-<li>Ultravist 300mg I/ml Injection | Vial of 100 ml injection | Not specified (99.0%)</li>
-<li>Ultravist 370mg I/ml Injection | Vial of 100 ml injection | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Osteoarthritis susceptibility (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iopromide/' | relative_url }}">View full drug report →</a></p>

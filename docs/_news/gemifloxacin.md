@@ -3,7 +3,7 @@ layout: default
 title: "Gemifloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Gemifloxacin. Original indication: . 5 predicted indications."
+description: "Health news related to Gemifloxacin. Original indication: . 1 predicted indications."
 permalink: /news/gemifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gemifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Gemifloxacin?">
-<strong>Gemifloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Gemifloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Gemifloxacin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Biogem 200mg Injection (United Biotech Pvt Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Biogem 1000mg Injection (United Biotech Pvt Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>G-Cin Tablet (Lupin Ltd) | Strip of 5 tablets | Not stated (99.0%)</li>
-<li>Biogem 320mg Tablet (Biochem Pharmaceutical Industries) | Strip of 5 tablets | Not stated (99.0%)</li>
-<li>Quinhext 320mg Tablet (Sanofi India Ltd) | Strip of 5 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hyperamylasemia (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemifloxacin/' | relative_url }}">View full drug report →</a></p>

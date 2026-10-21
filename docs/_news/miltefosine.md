@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Miltefosine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Impavido 50mg Capsule (Zydus Cadila) | Strip of 7 capsules | Not stated in the available data (99.0%)</li>
+<li>Leishmaniasis, diffuse cutaneous (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/miltefosine/' | relative_url }}">View full drug report →</a></p>

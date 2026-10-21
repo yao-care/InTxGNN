@@ -3,7 +3,7 @@ layout: default
 title: "Nadifloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nadifloxacin. Original indication: . 5 predicted indications."
+description: "Health news related to Nadifloxacin. Original indication: . 1 predicted indications."
 permalink: /news/nadifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nadifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Nadoxin 1% Dusting Powder | 10 gm packet, dusting powder | Dr Reddy's Laboratories Ltd (99.0%)</li>
-<li>Triclear N Gel | 20 gm tube, gel | Trikona Pharmaceuticals Pvt. Ltd. (99.0%)</li>
-<li>Nadikem Cream | 20 gm tube, cream | Alkem Laboratories Ltd (99.0%)</li>
-<li>Nadoxin-A Gel | 15 gm tube, gel | Dr Reddy's Laboratories Ltd (99.0%)</li>
-<li>Nadimax Cream | 15 gm tube, cream | Zee Laboratories (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Malaria (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>

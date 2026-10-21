@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Vandetanib with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Caprelsa Tablet (AstraZeneca) | Bottle of 30 tablets (oral) | Indication text not provided (99.0%)</li>
+<li>Renal cell carcinoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vandetanib/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Baricitinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Baricitinib. Original indication: . 5 predicted indications."
+description: "Health news related to Baricitinib. Original indication: . 1 predicted indications."
 permalink: /news/baricitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/baricitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Baricitinib?">
-<strong>Baricitinib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Baricitinib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Baricitinib with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Barinat 1 Tablet (Natco Pharma) | Bottle of 14 tablets | Not specified in available data (99.0%)</li>
-<li>Barinat 4 Tablet (Natco Pharma) | Bottle of 14 tablets | Not specified in available data (99.0%)</li>
-<li>Barilup 4mg Tablet (Lupin) | Bottle of 14 tablets | Not specified in available data (99.0%)</li>
-<li>Olumiant 4mg Tablet (Eli Lilly India) | Strip of 7 tablets | Not specified in available data (99.0%)</li>
-<li>Olumiant 2mg Tablet (Eli Lilly India) | Strip of 7 tablets | Not specified in available data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baricitinib/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Clindamycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clindamycin. Original indication: . 5 predicted indications."
+description: "Health news related to Clindamycin. Original indication: . 1 predicted indications."
 permalink: /news/clindamycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clindamycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Clindamycin?">
-<strong>Clindamycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Clindamycin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Clindamycin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dalacin C 150mg Capsule (Pfizer Ltd) | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Dalcap 150mg Capsule (Torrent Pharmaceuticals Ltd) | Strip of 4 capsules | Not recorded (99.0%)</li>
-<li>Clid 300mg Injection (Bennet Pharmaceuticals Limited) | Vial of 4 ml injection | Not recorded (99.0%)</li>
-<li>Humclid 600mg Injection (Medic Biologicals And Pharmaceuticals Pvt Ltd) | Vial of 4 ml injection | Not recorded (99.0%)</li>
-<li>Mazocan Suppository (Canvarzys Healthcare Ltd) | Packet of 3 suppositories | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Punctate epithelial keratoconjunctivitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clindamycin/' | relative_url }}">View full drug report →</a></p>

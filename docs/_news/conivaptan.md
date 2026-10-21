@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Conivaptan with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hyponat 20mg Injection (Zydus Cadila) | Vial of 4 ml injection | Not stated in the license data (99.0%)</li>
+<li>Pulmonary hypertension (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/conivaptan/' | relative_url }}">View full drug report →</a></p>

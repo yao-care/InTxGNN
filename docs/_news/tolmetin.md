@@ -3,7 +3,7 @@ layout: default
 title: "Tolmetin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tolmetin. Original indication: . 2 predicted indications."
+description: "Health news related to Tolmetin. Original indication: . 1 predicted indications."
 permalink: /news/tolmetin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolmetin/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolmetin?">
-<strong>Tolmetin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Tolmetin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Tolmetin with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Amtoril 600mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Oral, strip of 6 tablets | Not stated in the available data (99.0%)</li>
-<li>Zextra 600mg Tablet (Dr Reddy's Laboratories Ltd) | Oral, strip of 10 tablets | Not stated in the available data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolmetin/' | relative_url }}">View full drug report →</a></p>

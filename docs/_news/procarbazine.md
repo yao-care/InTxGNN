@@ -3,7 +3,7 @@ layout: default
 title: "Procarbazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Procarbazine. Original indication: . 5 predicted indications."
+description: "Health news related to Procarbazine. Original indication: . 1 predicted indications."
 permalink: /news/procarbazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/procarbazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Procarbazine?">
-<strong>Procarbazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Procarbazine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Procarbazine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>P Carzine 50mg Capsule (Alkem Laboratories Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
-<li>Procarb 50mg Tablet (Vhb Life Sciences Inc) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Zinocarb 50mg Capsule (Miracalus Pharma Pvt Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
-<li>Hodpro 50mg Capsule (Neon Laboratories Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
-<li>Neozine 50mg Capsule (Vhb Life Sciences Inc) | Strip of 10 capsules | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Follicular lymphoma (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/procarbazine/' | relative_url }}">View full drug report →</a></p>

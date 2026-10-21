@@ -3,7 +3,7 @@ layout: default
 title: "Vinorelbine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vinorelbine. Original indication: . 5 predicted indications."
+description: "Health news related to Vinorelbine. Original indication: . 1 predicted indications."
 permalink: /news/vinorelbine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vinorelbine?">
-<strong>Vinorelbine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Vinorelbine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Vinorelbine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Vinelbine 50mg Injection | Vial of 5 ml injection | Not listed (99.0%)</li>
-<li>Neoben 50mg Injection | Vial of 5 ml injection | Not listed (99.0%)</li>
-<li>Navelbine 50mg Injection | Vial of 5 ml injection | Not listed (99.0%)</li>
-<li>Vinrel 50mg Injection | Vial of 5 ml injection | Not listed (99.0%)</li>
-<li>Zorelbin 50mg Injection | Vial of 5 ml injection | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ewing sarcoma (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">View full drug report →</a></p>

@@ -26,11 +26,11 @@ This page combines the AI-predicted indications for Guaifenesin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>faucial diphtheria (99.5%)</li>
-<li>cervical disc degenerative disorder (99.5%)</li>
-<li>papillary conjunctivitis (99.3%)</li>
+<li>Nasal cavity disease (100.0%)</li>
+<li>Acute laryngopharyngitis (100.0%)</li>
+<li>Faucial diphtheria (99.5%)</li>
+<li>Cervical disc degenerative disorder (99.5%)</li>
+<li>Papillary conjunctivitis (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/guaifenesin/' | relative_url }}">View full drug report →</a></p>

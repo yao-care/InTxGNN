@@ -3,7 +3,7 @@ layout: default
 title: "Sacubitril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sacubitril. Original indication: . 5 predicted indications."
+description: "Health news related to Sacubitril. Original indication: . 1 predicted indications."
 permalink: /news/sacubitril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sacubitril/
 ---
 
 <p class="key-answer" data-question="What news is there about Sacubitril?">
-<strong>Sacubitril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sacubitril</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sacubitril with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>CIDMUS 100mg Tablet (Dr Reddy's) | Strip of 14 tablets | Not stated (99.0%)</li>
-<li>Neptaz 200mg Tablet (Mankind Pharma) | Strip of 7 tablets | Not stated (99.0%)</li>
-<li>Vymada 100mg Tablet (Novartis India) | Strip of 14 tablets | Not stated (99.0%)</li>
-<li>Azmarda 200mg Tablet (J B Chemicals) | Strip of 7 tablets | Not stated (99.0%)</li>
-<li>Valsac 100 Tablet (Natco Pharma) | Bottle of 28 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Diabetic nephropathy (the rank 1 prediction, brain small vessel disease, has no relevant evidence) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sacubitril/' | relative_url }}">View full drug report →</a></p>

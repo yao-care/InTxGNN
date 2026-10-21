@@ -3,7 +3,7 @@ layout: default
 title: "Neostigmine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Neostigmine. Original indication: . 5 predicted indications."
+description: "Health news related to Neostigmine. Original indication: . 1 predicted indications."
 permalink: /news/neostigmine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/neostigmine/
 ---
 
 <p class="key-answer" data-question="What news is there about Neostigmine?">
-<strong>Neostigmine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Neostigmine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Neostigmine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Neotroy Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Neotroy 0.5mg Injection | Vial of 5 ml injection | Not stated (99.0%)</li>
-<li>Myostigmin 2.5mg Injection | Vial of 5 ml injection | Not stated (99.0%)</li>
-<li>Neomine 0.5mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Tilstigmin Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Myasthenia gravis with thymus hyperplasia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/neostigmine/' | relative_url }}">View full drug report →</a></p>

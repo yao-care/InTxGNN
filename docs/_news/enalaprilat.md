@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Enalaprilat with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Envas Injection (Cadila Pharmaceuticals Ltd) | Ampoule of 1 ml injection | Not stated in the available record (99.0%)</li>
+<li>Primary hereditary glaucoma (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enalaprilat/' | relative_url }}">View full drug report →</a></p>

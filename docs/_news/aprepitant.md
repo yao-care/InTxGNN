@@ -3,7 +3,7 @@ layout: default
 title: "Aprepitant News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Aprepitant. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Aprepitant. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/aprepitant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aprepitant/
 ---
 
 <p class="key-answer" data-question="What news is there about Aprepitant?">
-<strong>Aprepitant</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Aprepitant</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis**, but **no clinical trials and no relevant publications** currently support this prediction. It...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Emend 125mg/80mg Capsule | Strip of 3 capsules | MSD Pharmaceuticals Pvt Ltd (99.0%)</li>
-<li>Emvoid 125 mg/80 mg Capsule | Strip of 3 capsules | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Emvoid Injection | Vial of 1 injection | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Aprecap 125/80 Capsule | Strip of 3 capsules | Glenmark Pharmaceuticals Ltd (99.0%)</li>
-<li>Aprepit Kit | Packet of 1 kit | Cipla Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aprepitant/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Vancomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vancomycin. Original indication: . 5 predicted indications."
+description: "Health news related to Vancomycin. Original indication: . 1 predicted indications."
 permalink: /news/vancomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vancomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Vancomycin?">
-<strong>Vancomycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Vancomycin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Vancomycin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Vancoled 1gm Injection (Pfizer Ltd) | Vial of 1 injection | Not available (99.0%)</li>
-<li>Vancoled 500mg Injection (Pfizer Ltd) | Vial of 1 injection | Not available (99.0%)</li>
-<li>Vancocin 500mg Injection (Eli Lilly and Company India Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
-<li>Vancocin CP 500mg Injection (AstraZeneca) | Vial of 10 ml injection | Not available (99.0%)</li>
-<li>Vancomate 500mg Injection (Baxter India Pvt Ltd) | Vial of 1 injection | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Diffuse scleroderma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">View full drug report →</a></p>

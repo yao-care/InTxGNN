@@ -3,7 +3,7 @@ layout: default
 title: "Mesalazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mesalazine. Original indication: . 11 predicted indications."
+description: "Health news related to Mesalazine. Original indication: . 7 predicted indications."
 permalink: /news/mesalazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mesalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mesalazine?">
-<strong>Mesalazine</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
+<strong>Mesalazine</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,14 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>Osteoarthritis | 99.63% | L5 | Theoretical anti-inflammatory rationale, but poor systemic absorption limits joint exposure. The only publication is a computational target-identification study, not clinical evidence. (99.0%)</li>
-<li>Rheumatoid arthritis | 99.57% | L4 | Indirect rationale via sulfasalazine, which is metabolised to mesalazine. The antirheumatic effect is mainly attributed to sulfapyridine or the intact parent compound, and mesalazine alone has not shown comparable efficacy. (99.0%)</li>
-<li>Seborrheic keratosis | 99.50% | L5 | No credible mechanistic link. (99.0%)</li>
-<li>Osteoarthritis susceptibility | 99.35% | L5 | A genetic susceptibility phenotype, not an actionable indication. (99.0%)</li>
-<li>Vulvar inverted follicular keratosis | 99.33% | L5 | No plausible mechanistic link. (99.0%)</li>
-<li>Pseudoachondroplasia | 99.19% | L5 | COMP-mutation skeletal dysplasia, with no link to mesalazine's mechanism. (99.0%)</li>
-<li>Rowasa 1gm Pellets (Abbott) | Packet of 1 gm pellets | Not stated in records (99.0%)</li>
-<li>Mesacol Tablet DR (Sun Pharmaceutical) | Strip of 15 delayed-release tablets | Not stated in records (99.0%)</li>
-<li>Pentasa 1gm Enema (Ferring) | Bottle of 100 ml enema | Not stated in records (99.0%)</li>
-<li>Pentasa 2gm Prolonged Release Granules (Ferring) | Sachet of 2 gm granules | Not stated in records (99.0%)</li>
-<li>Mesacol Suppository (Sun Pharmaceutical) | Strip of 5 suppositories | Not stated in records (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
+<li>Osteoarthritis (99.6%)</li>
+<li>Rheumatoid arthritis (99.6%)</li>
+<li>Seborrheic keratosis (99.5%)</li>
+<li>Osteoarthritis susceptibility (99.3%)</li>
+<li>Vulvar inverted follicular keratosis (99.3%)</li>
+<li>Pseudoachondroplasia (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mesalazine/' | relative_url }}">View full drug report →</a></p>

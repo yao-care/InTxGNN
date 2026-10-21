@@ -3,7 +3,7 @@ layout: default
 title: "Pheniramine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pheniramine. Original indication: . 3 predicted indications."
+description: "Health news related to Pheniramine. Original indication: . 1 predicted indications."
 permalink: /news/pheniramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pheniramine/
 ---
 
 <p class="key-answer" data-question="What news is there about Pheniramine?">
-<strong>Pheniramine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Pheniramine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Pheniramine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>allergic urticaria (99.7%)</li>
-<li>nasal cavity disease (99.3%)</li>
-<li>acute laryngopharyngitis (99.2%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Allergic urticaria (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pheniramine/' | relative_url }}">View full drug report →</a></p>

@@ -33,11 +33,11 @@ This page brings together the latest health news about “shingles” and lists 
 
 ## Related News (1)
 
-### [Viola Davis Joins GSK Shingles Awareness Campaign 10/20/2026](https://news.google.com/rss/articles/CBMirAFBVV95cUxQelVTMWpodjczcmdvZ2s3VThIUV9XUm1BSDNjMXRWc0pvQVZrZ2NJbTc0NkFQblU0NnVSV1lRUEVnSnh3Y1FDVUtFMUluQUdCS2FXaTdiTWV5RFBPWjJqR3kyVGF1LXpPSHA5XzlLSXpscVY4d1VDWTI0MFdMRXFlMWRfWm5PaWp5R1Q4YUQ0ci1menZoR3pNNTI1ZmtnekMzY2gxaXMxQ3JmRF9O?oc=5)
+### [GSK taps actress Viola Davis for shingles-focused campaign - Fierce Pharma](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWJCc1FaWXJySHZRRlpMWHk2NHljbUVycGwxbDNHZWJ4NHlsNy1aRG9GNlgyMW1DZ2dCMlJqanpSNTVwSHIweG9TNzZpYkFOWWxPc3FaMUFPU0syaEVJOFBBOUVpdklvTmFkRV9GSUw0UU1XellaS1A3aG5VVlhYYmNJMUZKODllLWpZa1JnNDg4VHdOUzYtQ0Y0MzVRclBZSzR1eWNyUG96U0pvX0JQZnhramRFTjBNNnM2WTI2Yno1UQ?oc=5)
 
-2026-10-19
+2026-10-16
 
-Source: [MediaPost](https://news.google.com/rss/articles/CBMirAFBVV95cUxQelVTMWpodjczcmdvZ2s3VThIUV9XUm1BSDNjMXRWc0pvQVZrZ2NJbTc0NkFQblU0NnVSV1lRUEVnSnh3Y1FDVUtFMUluQUdCS2FXaTdiTWV5RFBPWjJqR3kyVGF1LXpPSHA5XzlLSXpscVY4d1VDWTI0MFdMRXFlMWRfWm5PaWp5R1Q4YUQ0ci1menZoR3pNNTI1ZmtnekMzY2gxaXMxQ3JmRF9O?oc=5)
+Source: [Fierce Pharma](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSWJCc1FaWXJySHZRRlpMWHk2NHljbUVycGwxbDNHZWJ4NHlsNy1aRG9GNlgyMW1DZ2dCMlJqanpSNTVwSHIweG9TNzZpYkFOWWxPc3FaMUFPU0syaEVJOFBBOUVpdklvTmFkRV9GSUw0UU1XellaS1A3aG5VVlhYYmNJMUZKODllLWpZa1JnNDg4VHdOUzYtQ0Y0MzVRclBZSzR1eWNyUG96U0pvX0JQZnhramRFTjBNNnM2WTI2Yno1UQ?oc=5)
 
 ---
 

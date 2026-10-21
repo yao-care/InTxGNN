@@ -3,7 +3,7 @@ layout: default
 title: "Omalizumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Omalizumab. Original indication: . 4 predicted indications."
+description: "Health news related to Omalizumab. Original indication: . 1 predicted indications."
 permalink: /news/omalizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/omalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Omalizumab?">
-<strong>Omalizumab</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Omalizumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Omalizumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Omalirel Injection (Reliance Life Sciences) | Vial of 1 injection | Not listed (99.0%)</li>
-<li>Bolstran 150mg Injection (Cipla Ltd) | Vial of 2 ml injection | Not listed (99.0%)</li>
-<li>Xolair 150mg Injection (Novartis India Ltd) | Packet of 5 ml injection | Not listed (99.0%)</li>
-<li>Emzumab 150mg Injection (Cipla Ltd) | Vial of 1 injection | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Bronchitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/omalizumab/' | relative_url }}">View full drug report →</a></p>

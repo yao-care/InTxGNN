@@ -3,7 +3,7 @@ layout: default
 title: "Everolimus News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Everolimus. Original indication: . 8 predicted indications."
+description: "Health news related to Everolimus. Original indication: . 4 predicted indications."
 permalink: /news/everolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/everolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Everolimus?">
-<strong>Everolimus</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Everolimus</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,11 @@ This page combines the AI-predicted indications for Everolimus with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>Unclassified renal cell carcinoma | 99.72% | L2 | Several Phase 2 trials, including the randomized ASPEN and ESPN trials. Efficacy is modest and generally not superior to sunitinib. Closest to the approved RCC use. (99.0%)</li>
-<li>Rhabdomyosarcoma | 99.74% | L3 | Phase 1 and Phase 1/2 trials in mixed pediatric solid tumors. Rhabdomyosarcoma-specific efficacy is not established. (99.0%)</li>
-<li>Dermatofibrosarcoma protuberans | 99.82% | L4 | Only indirect imatinib-related literature. (99.0%)</li>
-<li>Afinitor 5mg Tablet | Strip of 10 tablets | Novartis India Ltd (99.0%)</li>
-<li>Afinitor 10mg Tablet | Strip of 10 tablets | Novartis India Ltd (99.0%)</li>
-<li>Everotas 5mg Tablet | Strip of 10 tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Certican 0.25mg Tablet | Strip of 10 tablets | Novartis India Ltd (99.0%)</li>
-<li>Volantis 5mg Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Liposarcoma (99.9%)</li>
+<li>Unclassified renal cell carcinoma (99.7%)</li>
+<li>Rhabdomyosarcoma (99.7%)</li>
+<li>Dermatofibrosarcoma protuberans (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/everolimus/' | relative_url }}">View full drug report →</a></p>

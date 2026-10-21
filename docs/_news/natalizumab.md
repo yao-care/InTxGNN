@@ -3,7 +3,7 @@ layout: default
 title: "Natalizumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Natalizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Natalizumab. Original indication: . 5 predicted indications."
 permalink: /news/natalizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,8 +25,12 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Tysabri 300mg Injection (Biogen Idec Biotech India Pvt Ltd) | Vial of 15 ml injection | Not stated in the available record (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Bronchitis (99.5%)</li>
+<li>Parapsoriasis (99.4%)</li>
+<li>Psoriasis (99.2%)</li>
+<li>Severe nonproliferative diabetic retinopathy (99.2%)</li>
+<li>Acute lichenoid pityriasis (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>

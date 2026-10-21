@@ -3,7 +3,7 @@ layout: default
 title: "Carbocisteine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Carbocisteine. Original indication: . 3 predicted indications."
+description: "Health news related to Carbocisteine. Original indication: . 1 predicted indications."
 permalink: /news/carbocisteine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbocisteine/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbocisteine?">
-<strong>Carbocisteine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Carbocisteine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Carbocisteine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Mucodyne 250mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Mucodyne 150mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Mucodyne 250mg Syrup | Bottle of 100 ml syrup | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gout (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbocisteine/' | relative_url }}">View full drug report →</a></p>

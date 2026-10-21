@@ -3,7 +3,7 @@ layout: default
 title: "Chromium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chromium. Original indication: he TxGNN model predicts several new indications. T.... 3 predicted indications."
+description: "Health news related to Chromium. Original indication: he TxGNN model predicts several new indications. T.... 1 predicted indications."
 permalink: /news/chromium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Chromium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,8 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts several new indications. The best-supported one is **Rheumatoid Arthritis**, with **1 completed Phase 2/3 trial** and **1 randomized trial publication** on trivalent chromium.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Otski Injection | Vial of 3 ml injection | Not stated (99.0%)</li>
-<li>Trace I.V. Injection | Ampoule of 3 ml injection | Not stated (99.0%)</li>
-<li>Celecel Injection | Vial of 3 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (the best-supported of the 10 predictions; the top-ranked prediction by score is osteoarthritis) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>

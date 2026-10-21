@@ -3,7 +3,7 @@ layout: default
 title: "Rifampicin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rifampicin. Original indication: . 5 predicted indications."
+description: "Health news related to Rifampicin. Original indication: . 1 predicted indications."
 permalink: /news/rifampicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rifampicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rifampicin?">
-<strong>Rifampicin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rifampicin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Rifampicin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Risorine Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Rifamycin 450mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Eufacin Inh 450 mg/300 mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Rimpin 450mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Monocin 500mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Conjunctivitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rifampicin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Halometasone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Halometasone. Original indication: Topical corticosteroids are an established skin-di.... 4 predicted indications."
+description: "Health news related to Halometasone. Original indication: Topical corticosteroids are an established skin-di.... 1 predicted indications."
 permalink: /news/halometasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/halometasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Halometasone?">
-<strong>Halometasone</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Halometasone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,11 +26,8 @@ This page combines the AI-predicted indications for Halometasone with the latest
 <ul>
 <li><strong>Original indication</strong>: Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, the most common primary cutaneous T-cell lymphoma. In this setting they reduce inflammation and can...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Execare Cream | Cream (tube of 10 gm) | Not stated (99.0%)</li>
-<li>Halox F Cream | Cream (tube of 10 gm) | Not stated (99.0%)</li>
-<li>Halostrol-F Cream | Cream (tube of 10 gm) | Not stated (99.0%)</li>
-<li>Execare-F Cream | Cream (tube of 10 gm) | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary cutaneous T-cell lymphoma (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/halometasone/' | relative_url }}">View full drug report →</a></p>

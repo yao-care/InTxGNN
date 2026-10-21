@@ -3,7 +3,7 @@ layout: default
 title: "Metamizole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metamizole. Original indication: . 5 predicted indications."
+description: "Health news related to Metamizole. Original indication: . 1 predicted indications."
 permalink: /news/metamizole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metamizole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metamizole?">
-<strong>Metamizole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Metamizole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Metamizole with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>ANALGIN 500MG TABLET (Alkem Laboratories) | Strip of 10 tablets | Not specified in the records (99.0%)</li>
-<li>Andep 0.5mg Tablet (Ravian Pharmaceuticals) | Strip of 10 tablets | Not specified in the records (99.0%)</li>
-<li>Bral 500mg Tablet (Micro Labs) | Strip of 10 tablets | Not specified in the records (99.0%)</li>
-<li>Ultragin 500mg Injection (Pfizer) | Vial of 30 ml injection | Not specified in the records (99.0%)</li>
-<li>Novalgin RC 0.5% Injection (Sanofi India) | Vial of 30 ml injection | Not specified in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metamizole/' | relative_url }}">View full drug report →</a></p>

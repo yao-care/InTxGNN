@@ -3,7 +3,7 @@ layout: default
 title: "Cyclandelate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 5 predicted indications."
+description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 1 predicted indications."
 permalink: /news/cyclandelate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclandelate/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,32 +26,20 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cevadil 200mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>CYCLASYN 400MG Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Cyclo 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Cevadil 400mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>VASODAL 200MG Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Prinzmetal angina (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Premature menopause linked to higher heart disease risk and insulin levels](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
-
----
-
-### [Office stress, poor sleep and junk food: Habits your heart may not like - Mathrubhumi English](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFVrWFNxc0d4dGZpd0ttMmNzdUlWemVfb3JvTjl3T1VKT0tMSVo5QkdTdnVPU2lLazlad0M5M04tUnBsMHFPdmxwRVdOZ3NhYVZjSFM0cUJlZ3B1WXYyb0lsYmFway1KbjYzTDJFMEotazViX3ptd05tNnNsTGpYMnBkT1RxSnlUOGZ4cHdBWWZPQWR3SWd4YmRHZ1laUEJ4Vl9EUGRqTExqR0daWEJKdkVuTkdLU0RSU1RYTkRKX2pVbFN2NVE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [Mathrubhumi English](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFVrWFNxc0d4dGZpd0ttMmNzdUlWemVfb3JvTjl3T1VKT0tMSVo5QkdTdnVPU2lLazlad0M5M04tUnBsMHFPdmxwRVdOZ3NhYVZjSFM0cUJlZ3B1WXYyb0lsYmFway1KbjYzTDJFMEotazViX3ptd05tNnNsTGpYMnBkT1RxSnlUOGZ4cHdBWWZPQWR3SWd4YmRHZ1laUEJ4Vl9EUGRqTExqR0daWEJKdkVuTkdLU0RSU1RYTkRKX2pVbFN2NVE?oc=5)
 
 ---
 

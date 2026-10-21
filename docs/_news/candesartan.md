@@ -3,7 +3,7 @@ layout: default
 title: "Candesartan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Candesartan. Original indication: . 5 predicted indications."
+description: "Health news related to Candesartan. Original indication: . 1 predicted indications."
 permalink: /news/candesartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/candesartan/
 ---
 
 <p class="key-answer" data-question="What news is there about Candesartan?">
-<strong>Candesartan</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Candesartan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Candesartan with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Candesar 4mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Cantar 8mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Candelong 8mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Canditor 8 Tablet (Johnlee Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Candosa 8 Tablet (AAR ESS Remedies Pvt Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/candesartan/' | relative_url }}">View full drug report →</a></p>

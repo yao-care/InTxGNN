@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Pertuzumab with the latest h
 <li><strong>Original indication</strong>: urrently **1 clinical trial** and **20 publications** are linked to this prediction.</li>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Perjeta 420mg Injection (Roche Products India Pvt Ltd) | Vial of 14 ml injection | Not stated in the licence record (99.0%)</li>
+<li>Progesterone-receptor positive breast cancer (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pertuzumab/' | relative_url }}">View full drug report →</a></p>

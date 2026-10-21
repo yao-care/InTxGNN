@@ -3,7 +3,7 @@ layout: default
 title: "Desmopressin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Desmopressin. Original indication: . 5 predicted indications."
+description: "Health news related to Desmopressin. Original indication: . 1 predicted indications."
 permalink: /news/desmopressin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desmopressin/
 ---
 
 <p class="key-answer" data-question="What news is there about Desmopressin?">
-<strong>Desmopressin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Desmopressin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Desmopressin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dpressin 0.1mg Tablet (United Biotech) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Minirin 0.1mg Tablet (Ferring) | Bottle of 15 tablets | Not stated (99.0%)</li>
-<li>Minirin Melt 120mcg Tablet (Ferring) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Minirin Nasal Spray (Ferring) | 2.5 ml nasal spray | Not stated (99.0%)</li>
-<li>Dpressin Nasal Spray (United Biotech) | 5 ml nasal spray | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Congenital prothrombin deficiency (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desmopressin/' | relative_url }}">View full drug report →</a></p>

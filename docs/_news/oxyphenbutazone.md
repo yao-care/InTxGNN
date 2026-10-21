@@ -3,7 +3,7 @@ layout: default
 title: "Oxyphenbutazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxyphenbutazone. Original indication: . 3 predicted indications."
+description: "Health news related to Oxyphenbutazone. Original indication: . 1 predicted indications."
 permalink: /news/oxyphenbutazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxyphenbutazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxyphenbutazone?">
-<strong>Oxyphenbutazone</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Oxyphenbutazone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Oxyphenbutazone with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Oxy Triactin 100mg Tablet (Pharmed Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Flanil 100mg Tablet (Pan Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Sioril 100mg Tablet (Albert David Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxyphenbutazone/' | relative_url }}">View full drug report →</a></p>

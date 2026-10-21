@@ -3,7 +3,7 @@ layout: default
 title: "Fosphenytoin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fosphenytoin. Original indication: . 11 predicted indications."
+description: "Health news related to Fosphenytoin. Original indication: . 7 predicted indications."
 permalink: /news/fosphenytoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fosphenytoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Fosphenytoin?">
-<strong>Fosphenytoin</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
+<strong>Fosphenytoin</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,14 @@ This page combines the AI-predicted indications for Fosphenytoin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>Nephrogenic syndrome of inappropriate antidiuresis | 99.28% | L5 | Hold (99.0%)</li>
-<li>Tourette syndrome | 99.22% | L5 | Hold (99.0%)</li>
-<li>Manic bipolar affective disorder | 99.18% | L4 | Research Question (99.0%)</li>
-<li>Myositis fibrosa | 99.02% | L5 | Hold (99.0%)</li>
-<li>Idiopathic granulomatous myositis | 99.02% | L5 | Hold (99.0%)</li>
-<li>Fibromyalgia | 99.02% | L5 | Hold (99.0%)</li>
-<li>Fosolin 750mg Injection (Zydus Cadila) | Vial of 10 ml injection | Not specified (99.0%)</li>
-<li>Fosphen 75mg Injection (Intas Pharmaceuticals Ltd) | Vial of 10 ml injection | Not specified (99.0%)</li>
-<li>Fosphen 150mg Injection (Intas Pharmaceuticals Ltd) | Vial of 2 ml injection | Not specified (99.0%)</li>
-<li>Fosentin 75mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 2 ml injection | Not specified (99.0%)</li>
-<li>Fosolin 75mg Injection (Zydus Cadila) | Vial of 2 ml injection | Not specified (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Conjunctivitis (top-ranked) (99.4%)</li>
+<li>Nephrogenic syndrome of inappropriate antidiuresis (99.3%)</li>
+<li>Tourette syndrome (99.2%)</li>
+<li>Manic bipolar affective disorder (99.2%)</li>
+<li>Myositis fibrosa (99.0%)</li>
+<li>Idiopathic granulomatous myositis (99.0%)</li>
+<li>Fibromyalgia (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fosphenytoin/' | relative_url }}">View full drug report →</a></p>

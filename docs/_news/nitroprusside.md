@@ -3,7 +3,7 @@ layout: default
 title: "Nitroprusside News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nitroprusside. Original indication: he TxGNN model predicts it may be effective for **.... 3 predicted indications."
+description: "Health news related to Nitroprusside. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/nitroprusside/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitroprusside/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitroprusside?">
-<strong>Nitroprusside</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Nitroprusside</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,8 @@ This page combines the AI-predicted indications for Nitroprusside with the lates
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **migraine disorder**, but there are **no clinical trials** and the retrieved literature is mostly preclinical or observational.</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Nipress 50mg Injection (Samarth Life Sciences Pvt Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Pruside 50mg Injection (Troikaa Pharmaceuticals Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Nitoside 50mg Injection (Neon Laboratories Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitroprusside/' | relative_url }}">View full drug report →</a></p>

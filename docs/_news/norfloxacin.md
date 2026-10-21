@@ -3,7 +3,7 @@ layout: default
 title: "Norfloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Norfloxacin. Original indication: . 5 predicted indications."
+description: "Health news related to Norfloxacin. Original indication: . 1 predicted indications."
 permalink: /news/norfloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/norfloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Norfloxacin?">
-<strong>Norfloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Norfloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Norfloxacin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Norspan 400mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Osoflox 400mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Tamflox 400mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Norflin 400mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Tinimix 100mg/100mg Syrup | Bottle of 30 ml syrup | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Polyclonal hyperviscosity syndrome (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/norfloxacin/' | relative_url }}">View full drug report →</a></p>

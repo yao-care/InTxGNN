@@ -3,7 +3,7 @@ layout: default
 title: "Imatinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imatinib. Original indication: . 5 predicted indications."
+description: "Health news related to Imatinib. Original indication: . 1 predicted indications."
 permalink: /news/imatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Imatinib?">
-<strong>Imatinib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Imatinib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Imatinib with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Glivec 100mg Tablet (Novartis India Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Gleevac 100mg Tablet (Novartis India Ltd) | Bottle of 60 tablets | Not recorded (99.0%)</li>
-<li>Imalek 400mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Imatib 100 Tablet (Cipla Ltd) | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Imatinate 400 Capsule (Khandelwal Laboratories Pvt Ltd) | Bottle of 10 capsules | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Heart fibrosarcoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">View full drug report →</a></p>

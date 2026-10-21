@@ -3,7 +3,7 @@ layout: default
 title: "Metoprolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metoprolol. Original indication: . 10 predicted indications."
+description: "Health news related to Metoprolol. Original indication: . 6 predicted indications."
 permalink: /news/metoprolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Metoprolol?">
-<strong>Metoprolol</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Metoprolol</strong> currently has <strong>10 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,23 +25,19 @@ This page combines the AI-predicted indications for Metoprolol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>Malignant renovascular hypertension | 99.91% | L5 | Only one linked paper, which is a diagnostic study unrelated to metoprolol efficacy (99.0%)</li>
-<li>Pulmonary hypertension, unclear multifactorial mechanism | 99.91% | L5 | Beta-blockers are used cautiously because of right ventricular concerns (99.0%)</li>
-<li>Pulmonary hypertension due to lung disease/hypoxia | 99.91% | L4 | Literature is heterogeneous and mostly off-target (99.0%)</li>
-<li>Chronic pulmonary heart disease | 99.40% | L3 | The only candidate with trials; the evidence is mainly about safety in COPD (99.0%)</li>
-<li>Trichotillomania | 99.05% | L5 | No data (99.0%)</li>
-<li>Embeta XR 75mg Tablet (Intas Pharmaceuticals) | Extended-release tablet | Not listed (99.0%)</li>
-<li>Angibloc 50 Tablet PR (Alkem Laboratories) | Prolonged-release tablet | Not listed (99.0%)</li>
-<li>Metored 50mg Tablet XL (Morepen Laboratories) | Extended-release tablet | Not listed (99.0%)</li>
-<li>Metosan XR 25 Tablet (Sanofi India) | Extended-release tablet | Not listed (99.0%)</li>
-<li>Clovet M 50mg/6.25mg Tablet (Ajanta Pharma) | Tablet | Not listed (99.0%)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>Malignant hypertensive renal disease (99.9%)</li>
+<li>Malignant renovascular hypertension (99.9%)</li>
+<li>Pulmonary hypertension, unclear multifactorial mechanism (99.9%)</li>
+<li>Pulmonary hypertension due to lung disease/hypoxia (99.9%)</li>
+<li>Chronic pulmonary heart disease (99.4%)</li>
+<li>Trichotillomania (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -96,6 +92,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

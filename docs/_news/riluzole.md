@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Riluzole with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Rilutor 50mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the available data (99.0%)</li>
+<li>Bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/riluzole/' | relative_url }}">View full drug report →</a></p>

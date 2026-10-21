@@ -3,7 +3,7 @@ layout: default
 title: "Edaravone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Edaravone. Original indication: . 2 predicted indications."
+description: "Health news related to Edaravone. Original indication: . 1 predicted indications."
 permalink: /news/edaravone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/edaravone/
 ---
 
 <p class="key-answer" data-question="What news is there about Edaravone?">
-<strong>Edaravone</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Edaravone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Edaravone with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>heparin cofactor 2 deficiency (99.5%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Heparin cofactor 2 deficiency (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/edaravone/' | relative_url }}">View full drug report →</a></p>

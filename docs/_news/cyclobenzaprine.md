@@ -3,7 +3,7 @@ layout: default
 title: "Cyclobenzaprine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclobenzaprine. Original indication: . 5 predicted indications."
+description: "Health news related to Cyclobenzaprine. Original indication: . 1 predicted indications."
 permalink: /news/cyclobenzaprine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyclobenzaprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclobenzaprine?">
-<strong>Cyclobenzaprine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cyclobenzaprine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cyclobenzaprine with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Zaprinmax 15mg Capsule ER | Extended-release capsule | Not stated (99.0%)</li>
-<li>Blobenz 5mg Tablet | Tablet | Not stated (99.0%)</li>
-<li>Flexabenz Tablet | Tablet | Not stated (99.0%)</li>
-<li>Skelebenz 15 Capsule ER | Extended-release capsule | Not stated (99.0%)</li>
-<li>Mobrine 5mg Tablet IR | Immediate-release tablet | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Myofascial pain syndrome (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclobenzaprine/' | relative_url }}">View full drug report →</a></p>

@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Verteporfin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.5%)</li>
+<li>Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verteporfin/' | relative_url }}">View full drug report →</a></p>

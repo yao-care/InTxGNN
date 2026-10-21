@@ -3,7 +3,7 @@ layout: default
 title: "Balsalazide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Balsalazide. Original indication: . 10 predicted indications."
+description: "Health news related to Balsalazide. Original indication: . 1 predicted indications."
 permalink: /news/balsalazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/balsalazide/
 ---
 
 <p class="key-answer" data-question="What news is there about Balsalazide?">
-<strong>Balsalazide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Balsalazide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>gout (99.8%)</li>
-<li>congenital hypotrichosis with juvenile macular dystrophy (99.7%)</li>
-<li>ankylosing spondylitis (99.7%)</li>
-<li>rheumatoid arthritis (99.6%)</li>
-<li>rheumatoid vasculitis (99.6%)</li>
-<li>hypermobility of coccyx (99.5%)</li>
-<li>inflammatory spondylopathy (99.5%)</li>
-<li>Kummell disease (99.5%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.4%)</li>
-<li>anus disease (99.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gout (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/balsalazide/' | relative_url }}">View full drug report →</a></p>

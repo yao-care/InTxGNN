@@ -3,7 +3,7 @@ layout: default
 title: "Dexpanthenol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexpanthenol. Original indication: . 5 predicted indications."
+description: "Health news related to Dexpanthenol. Original indication: . 1 predicted indications."
 permalink: /news/dexpanthenol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexpanthenol/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexpanthenol?">
-<strong>Dexpanthenol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dexpanthenol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dexpanthenol with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Panthobic Gel | Tube of 5 gm Eye Gel | Not specified (99.0%)</li>
-<li>Softvisc Gel | Tube of 5 gm Ophthalmic Gel | Not specified (99.0%)</li>
-<li>IO-Panthe Ophthalmic Gel | Tube of 5 gm Ophthalmic Gel | Not specified (99.0%)</li>
-<li>Panthol-D Eye Gel | Tube of 5 gm Ophthalmic Gel | Not specified (99.0%)</li>
-<li>Lubrex-PM Eye Gel | Tube of 5 gm Eye Gel | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Anorectal stricture (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexpanthenol/' | relative_url }}">View full drug report →</a></p>

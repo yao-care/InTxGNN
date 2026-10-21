@@ -3,7 +3,7 @@ layout: default
 title: "Tolperisone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tolperisone. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Tolperisone. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/tolperisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tolperisone/
 ---
 
 <p class="key-answer" data-question="What news is there about Tolperisone?">
-<strong>Tolperisone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tolperisone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Tolperisone with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **Laubry-Pezzi syndrome**, but there are **0 clinical trials** and **0 publications** supporting this prediction.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tolson 450mg Tablet SR | Strip of 10 SR tablets | Not specified (99.0%)</li>
-<li>Tolpispam D 150mg/50mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Synaptol 100 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Tolfree 150 Tablet (Zydus Cadila) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Fentex 450mg Tablet SR | Strip of 10 SR tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Laubry-Pezzi syndrome (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tolperisone/' | relative_url }}">View full drug report →</a></p>

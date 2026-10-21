@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Tioconazole with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Vcandi Gel | Vaginal gel (5 g tube) | Not specified in the compiled data (99.0%)</li>
+<li>Vulvovaginitis (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">View full drug report →</a></p>

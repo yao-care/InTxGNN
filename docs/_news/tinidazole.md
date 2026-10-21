@@ -3,7 +3,7 @@ layout: default
 title: "Tinidazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tinidazole. Original indication: . 5 predicted indications."
+description: "Health news related to Tinidazole. Original indication: . 1 predicted indications."
 permalink: /news/tinidazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Tinidazole?">
-<strong>Tinidazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tinidazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Tinidazole with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Fasigyn 500mg Tablet | Strip of 4 tablets | Pfizer Ltd (99.0%)</li>
-<li>Fasigyn DS 1000mg Tablet | Strip of 2 tablets | Pfizer Ltd (99.0%)</li>
-<li>Tinibid DS 1000mg Tablet | Strip of 6 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Tinifas 500mg Tablet | Strip of 10 tablets | Cipla Ltd (99.0%)</li>
-<li>Tiniba 800mg Infusion | Bottle of 400 ml infusion | Zydus Cadila (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Postmenopausal atrophic vaginitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">View full drug report →</a></p>

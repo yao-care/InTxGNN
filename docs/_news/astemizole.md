@@ -3,7 +3,7 @@ layout: default
 title: "Astemizole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Astemizole. Original indication: . 5 predicted indications."
+description: "Health news related to Astemizole. Original indication: . 1 predicted indications."
 permalink: /news/astemizole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/astemizole/
 ---
 
 <p class="key-answer" data-question="What news is there about Astemizole?">
-<strong>Astemizole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Astemizole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Astemizole with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Acemiz Plus 5mg Suspension (Lupin Ltd) | Bottle of 60 ml suspension | Not stated (99.0%)</li>
-<li>Astem 10mg Tablet (Medley Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Astelong 5mg Oral Suspension (Torrent Pharmaceuticals Ltd) | Bottle of 60 ml oral suspension | Not stated (99.0%)</li>
-<li>Stemiz 10mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Alestol 10mg Tablet (Indico Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rosacea conjunctivitis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/astemizole/' | relative_url }}">View full drug report →</a></p>

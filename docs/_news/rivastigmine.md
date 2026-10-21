@@ -3,7 +3,7 @@ layout: default
 title: "Rivastigmine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rivastigmine. Original indication: . 5 predicted indications."
+description: "Health news related to Rivastigmine. Original indication: . 1 predicted indications."
 permalink: /news/rivastigmine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rivastigmine/
 ---
 
 <p class="key-answer" data-question="What news is there about Rivastigmine?">
-<strong>Rivastigmine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rivastigmine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Rivastigmine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Exelon 1.5mg Capsule (Novartis India Ltd) | Strip of 14 capsules | Not stated (99.0%)</li>
-<li>Exelon Patch 15 (Novartis India Ltd) | Packet of 30 transdermal patches | Not stated (99.0%)</li>
-<li>Rivamer 1.5 Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Rivera 1.5mg Capsule (Zydus Cadila) | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Rivaplast 9mg Transdermal Patch (Zuventus Healthcare Ltd) | Packet of 3 transdermal patches | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Glaucoma (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivastigmine/' | relative_url }}">View full drug report →</a></p>

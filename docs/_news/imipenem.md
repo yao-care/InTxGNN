@@ -3,7 +3,7 @@ layout: default
 title: "Imipenem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imipenem. Original indication: . 5 predicted indications."
+description: "Health news related to Imipenem. Original indication: . 1 predicted indications."
 permalink: /news/imipenem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imipenem/
 ---
 
 <p class="key-answer" data-question="What news is there about Imipenem?">
-<strong>Imipenem</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Imipenem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Imipenem with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Elpentin 500mg/500mg Injection | Vial of 1 Injection (99.0%)</li>
-<li>Ufimep CL 500mg/500mg Injection | Vial of 1 Injection (99.0%)</li>
-<li>Imiron 500mg/500mg Injection | Vial of 1 Injection (99.0%)</li>
-<li>Cilanip 500mg/500mg Injection | Vial of 1 Injection (99.0%)</li>
-<li>Imipol 1000mg/1000mg Powder for Injection | Vial of 1 Powder for Injection (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Diffuse scleroderma (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imipenem/' | relative_url }}">View full drug report →</a></p>

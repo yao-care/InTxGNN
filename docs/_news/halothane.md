@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Halothane with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hypnothane Liquid For Inhalation (Neon Laboratories Ltd) | Bottle of 250 ml solution for inhalation | Not specified (99.0%)</li>
+<li>Manic bipolar affective disorder (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/halothane/' | relative_url }}">View full drug report →</a></p>

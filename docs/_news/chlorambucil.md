@@ -3,7 +3,7 @@ layout: default
 title: "Chlorambucil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chlorambucil. Original indication: . 5 predicted indications."
+description: "Health news related to Chlorambucil. Original indication: . 1 predicted indications."
 permalink: /news/chlorambucil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorambucil/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorambucil?">
-<strong>Chlorambucil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Chlorambucil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Chlorambucil with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Clokeran 2 Tablet | Strip of 30 tablets | Not stated (99.0%)</li>
-<li>Celkeran 2 Tablet | Strip of 30 tablets | Not stated (99.0%)</li>
-<li>Radix AQ 5mg Tablet | Strip of 30 tablets | Not stated (99.0%)</li>
-<li>Clokeran 5mg Tablet | Strip of 30 tablets | Not stated (99.0%)</li>
-<li>Celkeran 5mg Tablet | Strip of 30 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorambucil/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Empagliflozin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Empagliflozin. Original indication: . 5 predicted indications."
+description: "Health news related to Empagliflozin. Original indication: . 1 predicted indications."
 permalink: /news/empagliflozin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/empagliflozin/
 ---
 
 <p class="key-answer" data-question="What news is there about Empagliflozin?">
-<strong>Empagliflozin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Empagliflozin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Empagliflozin with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Jardiance 10mg Tablet | Strip of 10 tablets | Boehringer Ingelheim (99.0%)</li>
-<li>Jardiance 25mg Tablet | Strip of 10 tablets | Boehringer Ingelheim (99.0%)</li>
-<li>Glyxambi 25mg/5mg Tablet | Strip of 10 tablets | Boehringer Ingelheim (99.0%)</li>
-<li>Empaone 10mg Tablet | Strip of 10 tablets | MSN Laboratories (99.0%)</li>
-<li>Oboravo 10mg Tablet | Strip of 10 tablets | Cipla Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Classic stiff person syndrome (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/empagliflozin/' | relative_url }}">View full drug report →</a></p>

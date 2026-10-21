@@ -3,7 +3,7 @@ layout: default
 title: "Polidocanol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Polidocanol. Original indication: . 2 predicted indications."
+description: "Health news related to Polidocanol. Original indication: . 1 predicted indications."
 permalink: /news/polidocanol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/polidocanol/
 ---
 
 <p class="key-answer" data-question="What news is there about Polidocanol?">
-<strong>Polidocanol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Polidocanol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Polidocanol with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Asklerol 3% Injection | Vial of 2 ml injection | Not stated in the available records (99.0%)</li>
-<li>Troydoca 30mg Injection | Vial of 2 ml injection | Not stated in the available records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Esophageal varices with bleeding (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/polidocanol/' | relative_url }}">View full drug report →</a></p>

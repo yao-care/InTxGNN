@@ -3,7 +3,7 @@ layout: default
 title: "Febuxostat News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Febuxostat. Original indication: . 5 predicted indications."
+description: "Health news related to Febuxostat. Original indication: . 1 predicted indications."
 permalink: /news/febuxostat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="What news is there about Febuxostat?">
-<strong>Febuxostat</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Febuxostat</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Febuxostat with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Davstat 40 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Febumat 40mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Ebuxo 120mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Feboxa 40 Tablet (Sun Pharmaceutical) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Endeavours Furic 40mg Tablet (Lupin) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Renal hypouricemia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">View full drug report →</a></p>

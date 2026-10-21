@@ -3,7 +3,7 @@ layout: default
 title: "Mephentermine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mephentermine. Original indication: . 5 predicted indications."
+description: "Health news related to Mephentermine. Original indication: . 1 predicted indications."
 permalink: /news/mephentermine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mephentermine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mephentermine?">
-<strong>Mephentermine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Mephentermine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Mephentermine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Termin 30mg Injection | Vial of 10 ml injection | Not stated in the data compiled (99.0%)</li>
-<li>Termin 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled (99.0%)</li>
-<li>Mephentine 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled (99.0%)</li>
-<li>Mephentine 30mg Injection | Vial of 10 ml injection | Not stated in the data compiled (99.0%)</li>
-<li>Phentin 15mg Injection | Vial of 1 ml injection | Not stated in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Postural orthostatic tachycardia syndrome (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mephentermine/' | relative_url }}">View full drug report →</a></p>

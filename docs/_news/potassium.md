@@ -3,7 +3,7 @@ layout: default
 title: "Potassium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Potassium. Original indication: . 3 predicted indications."
+description: "Health news related to Potassium. Original indication: . 1 predicted indications."
 permalink: /news/potassium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/potassium/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium?">
-<strong>Potassium</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Potassium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Potassium with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Mpot B6 Oral Solution Natural Mango Sugar Free | Bottle of 200 ml oral solution | Not stated (99.0%)</li>
-<li>Gushout Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Noculi Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypertensive disorder (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Diclofenac News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Diclofenac. Original indication: . 5 predicted indications."
+description: "Health news related to Diclofenac. Original indication: . 1 predicted indications."
 permalink: /news/diclofenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diclofenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Diclofenac?">
-<strong>Diclofenac</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Diclofenac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Diclofenac with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dipanac-MR Tablet | Strip of 10 tablets (99.0%)</li>
-<li>Dicloden AQ 75mg Injection | Vial of 1 ml injection (99.0%)</li>
-<li>Ipain 75mg Tablet SR | Strip of 10 sustained-release tablets (99.0%)</li>
-<li>Nudiclo Plus 100mg/325mg Tablet | Strip of 6 tablets (99.0%)</li>
-<li>Diclovol 75mg Injection | Vial of 1 ml injection (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypotrichosis simplex of the scalp (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diclofenac/' | relative_url }}">View full drug report →</a></p>

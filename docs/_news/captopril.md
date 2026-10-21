@@ -3,7 +3,7 @@ layout: default
 title: "Captopril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Captopril. Original indication: . 5 predicted indications."
+description: "Health news related to Captopril. Original indication: . 1 predicted indications."
 permalink: /news/captopril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/captopril/
 ---
 
 <p class="key-answer" data-question="What news is there about Captopril?">
-<strong>Captopril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Captopril</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Captopril with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Aceten 25mg Tablet (Wockhardt Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Angiopril 25mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Capotril 12.5mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Capotril 25mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Aceten 12.5mg Tablet (Wockhardt Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Malignant renovascular hypertension (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">View full drug report →</a></p>

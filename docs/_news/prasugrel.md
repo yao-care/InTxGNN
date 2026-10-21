@@ -3,7 +3,7 @@ layout: default
 title: "Prasugrel News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prasugrel. Original indication: . 5 predicted indications."
+description: "Health news related to Prasugrel. Original indication: . 1 predicted indications."
 permalink: /news/prasugrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Prasugrel?">
-<strong>Prasugrel</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Prasugrel</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Prasugrel with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Effient 10mg Tablet (Eli Lilly and Company India) | Strip of 14 tablets | Not available (99.0%)</li>
-<li>Redigrel 10mg Tablet (Dr Reddy's Laboratories) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Prasuvas 10 Tablet (Cipla) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Prax 10 Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Prasugrin 10 Tablet (Zydus Cadila) | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pulmonary hypertension (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Milnacipran News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Milnacipran. Original indication: . 5 predicted indications."
+description: "Health news related to Milnacipran. Original indication: . 1 predicted indications."
 permalink: /news/milnacipran/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/milnacipran/
 ---
 
 <p class="key-answer" data-question="What news is there about Milnacipran?">
-<strong>Milnacipran</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Milnacipran</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Milnacipran with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Milnace 25 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Milnace 50 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Milza 25 Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Milza 50mg Capsule (Intas Pharmaceuticals Ltd) | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Milpran 25mg Capsule (Ajanta Pharma Ltd) | Strip of 10 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/milnacipran/' | relative_url }}">View full drug report →</a></p>

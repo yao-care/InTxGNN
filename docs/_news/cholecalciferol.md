@@ -3,7 +3,7 @@ layout: default
 title: "Cholecalciferol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cholecalciferol. Original indication: . 5 predicted indications."
+description: "Health news related to Cholecalciferol. Original indication: . 1 predicted indications."
 permalink: /news/cholecalciferol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cholecalciferol/
 ---
 
 <p class="key-answer" data-question="What news is there about Cholecalciferol?">
-<strong>Cholecalciferol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cholecalciferol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cholecalciferol with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cholvac-D3 Softgel Capsule | Strip of 4 soft gelatin capsules | Zydus Cadila (99.0%)</li>
-<li>Tonecal-D3 Softgel Capsule | Strip of 4 soft gelatin capsules | Soigner Medicament Pvt Ltd (99.0%)</li>
-<li>Gemsoline-D3 Nano Shot | Bottle of 5 ml oral solution | Medley Pharmaceuticals (99.0%)</li>
-<li>Werol 600000IU Injection | Vial of 1 ml injection | Welgenic Pharma (99.0%)</li>
-<li>Astesol-D3 60K Chewable Tablet | Strip of 4 chewable tablets | Asterism Pharmaceuticals Pvt Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Familial isolated hypoparathyroidism due to impaired PTH secretion (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cholecalciferol/' | relative_url }}">View full drug report →</a></p>

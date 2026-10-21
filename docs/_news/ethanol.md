@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Ethanol with the latest heal
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **migraine disorder**, but there are **no clinical trials** and the retrieved literature suggests ethanol is more likely a migraine **trigger** than a...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Solvent for Docetaxel 120 mg Injection (Alkem Laboratories Ltd) | Vial of 9 ml injection | Not stated (99.0%)</li>
+<li>Migraine disorder (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethanol/' | relative_url }}">View full drug report →</a></p>

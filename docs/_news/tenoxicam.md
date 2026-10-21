@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Tenoxicam with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Tobitil 20mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li>Rheumatoid arthritis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tenoxicam/' | relative_url }}">View full drug report →</a></p>

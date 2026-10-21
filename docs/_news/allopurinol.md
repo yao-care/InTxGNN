@@ -3,7 +3,7 @@ layout: default
 title: "Allopurinol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Allopurinol. Original indication: . 5 predicted indications."
+description: "Health news related to Allopurinol. Original indication: . 1 predicted indications."
 permalink: /news/allopurinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/allopurinol/
 ---
 
 <p class="key-answer" data-question="What news is there about Allopurinol?">
-<strong>Allopurinol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Allopurinol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Allopurinol with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Zyrik 300 Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
-<li>Vriloric 100mg Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
-<li>Lodiric-SR 250mg Capsule | Strip of 10 SR capsules | Not specified in available records (99.0%)</li>
-<li>Allric 100mg Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
-<li>Ausric 300 Tablet | Strip of 10 tablets | Not specified in available records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatic porphyria (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/allopurinol/' | relative_url }}">View full drug report →</a></p>

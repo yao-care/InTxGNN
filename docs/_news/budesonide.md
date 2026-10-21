@@ -3,7 +3,7 @@ layout: default
 title: "Budesonide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Budesonide. Original indication: . 5 predicted indications."
+description: "Health news related to Budesonide. Original indication: . 1 predicted indications."
 permalink: /news/budesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Budesonide?">
-<strong>Budesonide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Budesonide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Budesonide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pulmicort 100mcg Inhaler (AstraZeneca) | Inhaler | Not recorded (99.0%)</li>
-<li>Budecort 200 Rotacap (Cipla) | Rotacap, pack of 30 | Not recorded (99.0%)</li>
-<li>Budez CR Capsule (Sun Pharma) | Controlled-release capsule | Not recorded (99.0%)</li>
-<li>Cortirowa OD 9mg Tablet PR (Abbott) | Prolonged-release tablet | Not recorded (99.0%)</li>
-<li>Nebzmart B 0.5mg Smartules (Glenmark) | Respules, 2 ml | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Atopic eczema (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">View full drug report →</a></p>

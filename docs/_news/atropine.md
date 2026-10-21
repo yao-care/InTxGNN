@@ -3,7 +3,7 @@ layout: default
 title: "Atropine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atropine. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Atropine. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/atropine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atropine/
 ---
 
 <p class="key-answer" data-question="What news is there about Atropine?">
-<strong>Atropine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Atropine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Atropine with the latest hea
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **migraine disorder**, but there are **0 clinical trials** and only **indirect, mostly preclinical literature**, so this is a research question rather...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Atronex 0.6mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Malano 0.6mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Atropin Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Pino Cort Eye Drop | Packet of 5 ml eye drop | Not stated (99.0%)</li>
-<li>Atropin Infusion | Bottle of 100 ml infusion | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atropine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Bimatoprost News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bimatoprost. Original indication: . 5 predicted indications."
+description: "Health news related to Bimatoprost. Original indication: . 1 predicted indications."
 permalink: /news/bimatoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bimatoprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Bimatoprost?">
-<strong>Bimatoprost</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Bimatoprost</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Bimatoprost with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ganfort Eye Drop | Packet of 3 ml eye drop | Allergan India Pvt Ltd (99.0%)</li>
-<li>Bimaton 0.03% Eye Drop | Bottle of 3 ml eye drop | Flagship Biotech International (99.0%)</li>
-<li>Bimapix 0.01% Eye Drop | Bottle of 3 ml eye drop | FDC Ltd (99.0%)</li>
-<li>Bimat Eye Drop | Packet of 3 ml ophthalmic solution | Ajanta Pharma Ltd (99.0%)</li>
-<li>Careprost LS BKC Free Eye drop | Bottle of 3 ml ophthalmic solution | Sun Pharmaceutical Industries Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Malformation syndrome with odontal and/or periodontal component (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bimatoprost/' | relative_url }}">View full drug report →</a></p>

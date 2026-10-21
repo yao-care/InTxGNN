@@ -3,7 +3,7 @@ layout: default
 title: "Cefpirome News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefpirome. Original indication: . 5 predicted indications."
+description: "Health news related to Cefpirome. Original indication: . 1 predicted indications."
 permalink: /news/cefpirome/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefpirome/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefpirome?">
-<strong>Cefpirome</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cefpirome</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cefpirome with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ivcef 1gm Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Tecrom 1000mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Ciractam 1.5gm Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Refzil 500mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Novarome 1000mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefpirome/' | relative_url }}">View full drug report →</a></p>

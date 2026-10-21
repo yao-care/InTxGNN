@@ -3,7 +3,7 @@ layout: default
 title: "Telbivudine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Telbivudine. Original indication: . 2 predicted indications."
+description: "Health news related to Telbivudine. Original indication: . 1 predicted indications."
 permalink: /news/telbivudine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/telbivudine/
 ---
 
 <p class="key-answer" data-question="What news is there about Telbivudine?">
-<strong>Telbivudine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Telbivudine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Telbivudine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Telbihep 600mg Tablet | Strip of 10 tablets (oral) | Zydus Cadila (99.0%)</li>
-<li>Sebivo 600mg Tablet | Strip of 15 tablets (oral) | Novartis India Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic hepatitis C virus infection (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telbivudine/' | relative_url }}">View full drug report →</a></p>

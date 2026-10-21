@@ -3,7 +3,7 @@ layout: default
 title: "Modafinil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Modafinil. Original indication: . 5 predicted indications."
+description: "Health news related to Modafinil. Original indication: . 1 predicted indications."
 permalink: /news/modafinil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/modafinil/
 ---
 
 <p class="key-answer" data-question="What news is there about Modafinil?">
-<strong>Modafinil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Modafinil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Modafinil with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Modalert 100 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Modalert 200 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Modapro 200mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Modafil 200mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Modaheal 200mg Tablet (Healing Pharma India Pvt Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (disease) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/modafinil/' | relative_url }}">View full drug report →</a></p>

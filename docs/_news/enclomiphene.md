@@ -3,7 +3,7 @@ layout: default
 title: "Enclomiphene News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Enclomiphene. Original indication: he TxGNN model predicts it may be effective for **.... 14 predicted indications."
+description: "Health news related to Enclomiphene. Original indication: he TxGNN model predicts it may be effective for **.... 10 predicted indications."
 permalink: /news/enclomiphene/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enclomiphene/
 ---
 
 <p class="key-answer" data-question="What news is there about Enclomiphene?">
-<strong>Enclomiphene</strong> currently has <strong>0 news articles</strong>, with 14 predicted indications.
+<strong>Enclomiphene</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,8 @@ This page combines the AI-predicted indications for Enclomiphene with the latest
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **acute intermittent porphyria**, but this is a model output only.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (14)</strong>:<ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Acute intermittent porphyria (99.8%)</li>
 <li>Psychogenic movement disorders (99.7%)</li>
 <li>Chronic tic disorder (99.6%)</li>
 <li>Benign shuddering attacks (99.6%)</li>
@@ -36,11 +37,6 @@ This page combines the AI-predicted indications for Enclomiphene with the latest
 <li>Lingual-facial-buccal dyskinesia (99.6%)</li>
 <li>Benign paroxysmal tonic upgaze of childhood with ataxia (99.6%)</li>
 <li>Carbamoyl phosphate synthetase I deficiency disease (99.5%)</li>
-<li>Ova Plus 100mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Smartova Pure 50 Capsule | Strip of 5 capsules | Not available (99.0%)</li>
-<li>Enos 50mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>N Clomi 100mg Tablet | Strip of 5 tablets | Not available (99.0%)</li>
-<li>Engamet 50mg Tablet | Strip of 5 tablets | Not available (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enclomiphene/' | relative_url }}">View full drug report →</a></p>

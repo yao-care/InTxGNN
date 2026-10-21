@@ -3,7 +3,7 @@ layout: default
 title: "Lorlatinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lorlatinib. Original indication: . 2 predicted indications."
+description: "Health news related to Lorlatinib. Original indication: . 1 predicted indications."
 permalink: /news/lorlatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lorlatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>11 news articles</strong>, with 2 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,23 +25,14 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Lorbriqua 25mg Tablet | Box of 30 tablets | Not stated in the data compiled (99.0%)</li>
-<li>Lorbriqua 100mg Tablet | Box of 30 tablets | Not stated in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Fibromatosis, gingival (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
-
-### [Low daily step counts linked to dementia, Parkinson's and stroke - Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
-
-2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
-
----
+## Related News (12)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -104,6 +95,22 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+---
+
+### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
 
 ---
 

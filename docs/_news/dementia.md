@@ -38,19 +38,19 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (2)
 
-### [Low daily step counts linked to dementia, Parkinson's and stroke - Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
-
-2026-10-20
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
-
----
-
 ### [Obesity Linked to Lower Risk for Mortality in Dementia - Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
 
 2026-10-20
 
 Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
+
+---
+
+### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+
+2026-10-19
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
 
 ---
 

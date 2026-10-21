@@ -3,7 +3,7 @@ layout: default
 title: "Indacaterol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Indacaterol. Original indication: . 5 predicted indications."
+description: "Health news related to Indacaterol. Original indication: . 1 predicted indications."
 permalink: /news/indacaterol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/indacaterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Indacaterol?">
-<strong>Indacaterol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Indacaterol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Indacaterol with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Indamet 160 Capsule | Bottle of 15 capsules | Not stated (99.0%)</li>
-<li>Loftair Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Nistami Ecopack | Box of 30 capsules | Not stated (99.0%)</li>
-<li>Onbrez 300mcg Breezhaler | Packet of 1 kit | Not stated (99.0%)</li>
-<li>Onbrez 150mcg Breezhaler | Packet of 1 kit | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Bronchial disease (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/indacaterol/' | relative_url }}">View full drug report →</a></p>

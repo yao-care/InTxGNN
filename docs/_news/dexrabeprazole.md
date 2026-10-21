@@ -3,7 +3,7 @@ layout: default
 title: "Dexrabeprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexrabeprazole. Original indication: . 5 predicted indications."
+description: "Health news related to Dexrabeprazole. Original indication: . 1 predicted indications."
 permalink: /news/dexrabeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexrabeprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexrabeprazole?">
-<strong>Dexrabeprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dexrabeprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dexrabeprazole with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rozydex 10mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
-<li>Dexlet 10mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
-<li>Sulpraz 10mg/75mg Capsule | Strip of 10 capsules | Not stated in the records (99.0%)</li>
-<li>Levopraz 10mg/75mg Capsule | Strip of 10 capsules | Not stated in the records (99.0%)</li>
-<li>Dexarab 10mg Tablet | Strip of 10 tablets | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Active peptic ulcer disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexrabeprazole/' | relative_url }}">View full drug report →</a></p>

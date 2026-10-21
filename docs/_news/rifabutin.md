@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Rifabutin with the latest he
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **HIV infectious disease**, with **33 registered clinical trials** and **20 publications** linked to this direction.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ributin Capsule (Lupin Ltd) | Strip of 6 capsules (oral) | Not stated in the licence record (99.0%)</li>
+<li>HIV infectious disease (best interpreted as HIV-associated opportunistic infection) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rifabutin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Camphor News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Camphor. Original indication: . 5 predicted indications."
+description: "Health news related to Camphor. Original indication: . 1 predicted indications."
 permalink: /news/camphor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/camphor/
 ---
 
 <p class="key-answer" data-question="What news is there about Camphor?">
-<strong>Camphor</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Camphor</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Camphor with the latest heal
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Lacricool Eye Drop | Eye drop, 10 ml bottle | Not specified (99.0%)</li>
-<li>Doil-MR Liniment | Liniment, 30 ml bottle | Not specified (99.0%)</li>
-<li>Eyce Eye Drop | Eye drop, 10 ml bottle | Not specified (99.0%)</li>
-<li>Cooleye Eye Drop | Eye drop, 10 ml bottle | Not specified (99.0%)</li>
-<li>Relax Plus Eye Drop | Eye drop, 10 ml packet | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/camphor/' | relative_url }}">View full drug report →</a></p>

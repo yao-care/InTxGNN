@@ -3,7 +3,7 @@ layout: default
 title: "Ipratropium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ipratropium. Original indication: . 5 predicted indications."
+description: "Health news related to Ipratropium. Original indication: . 1 predicted indications."
 permalink: /news/ipratropium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ipratropium/
 ---
 
 <p class="key-answer" data-question="What news is there about Ipratropium?">
-<strong>Ipratropium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ipratropium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ipratropium with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ipramist 250mcg Inhaler (Zydus Cadila) | Packet of 200 MDI inhaler | Not stated (99.0%)</li>
-<li>Ipravent Respules 2ml (Cipla) | Strip of 5 respules | Not stated (99.0%)</li>
-<li>Ipravent Rotacaps (Cipla) | Packet of 30 capsules (for inhalation) | Not stated (99.0%)</li>
-<li>Ipratop 200mcg Inhaler (AstraZeneca) | Packet of 1 inhaler | Not stated (99.0%)</li>
-<li>Ipramist 250mcg Solution for inhalation (Zydus Cadila) | Bottle of 15 ml solution for inhalation | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Obstructive lung disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ipratropium/' | relative_url }}">View full drug report →</a></p>

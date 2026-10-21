@@ -3,7 +3,7 @@ layout: default
 title: "Naftopidil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Naftopidil. Original indication: . 4 predicted indications."
+description: "Health news related to Naftopidil. Original indication: . 1 predicted indications."
 permalink: /news/naftopidil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naftopidil/
 ---
 
 <p class="key-answer" data-question="What news is there about Naftopidil?">
-<strong>Naftopidil</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Naftopidil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Naftopidil with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Naftomax 50 Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Nafodil 75 Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Nafodil 50 Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Naftomax 25 Tablet | Strip of 10 tablets | Not stated in the data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naftopidil/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Azithromycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Azithromycin. Original indication: . 11 predicted indications."
+description: "Health news related to Azithromycin. Original indication: . 7 predicted indications."
 permalink: /news/azithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azithromycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Azithromycin?">
-<strong>Azithromycin</strong> currently has <strong>9 news articles</strong>, with 11 predicted indications.
+<strong>Azithromycin</strong> currently has <strong>10 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,24 +25,20 @@ This page combines the AI-predicted indications for Azithromycin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>Hyperamylasemia | 99.81% | L5 | A laboratory finding with heterogeneous causes; no supporting data (99.0%)</li>
-<li>Congenital analbuminemia | 99.79% | L5 | Rare genetic disorder; likely a graph artifact (99.0%)</li>
-<li>Punctate epithelial keratoconjunctivitis | 99.78% | L4 | Weak indirect rationale; the only paper is an unrelated microsporidial case report (99.0%)</li>
-<li>Monoclonal gammopathy | 99.61% | L4 | In vitro myeloma data suggest macrolides block autophagy; no efficacy data (99.0%)</li>
-<li>Septicemic plague | 99.52% | L4 | In vitro study showed poor azithromycin activity against *Yersinia pestis* (99.0%)</li>
-<li>Congenital hematological disorder (sickle cell disease) | 99.40% | L4 | Both sickle-cell trials were withdrawn with no enrollment (99.0%)</li>
-<li>Azimycin 500mg Tablet | Strip of 3 tablets | Not specified (99.0%)</li>
-<li>Azelac 250mg Tablet | Strip of 6 tablets | Not specified (99.0%)</li>
-<li>Loromycin 500mg Capsule | Strip of 3 capsules | Not specified (99.0%)</li>
-<li>Mythro 200mg Syrup | Bottle of 15 ml syrup | Not specified (99.0%)</li>
-<li>Azintra 100mg Tablet DT | Strip of 10 dispersible tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Polyclonal hyperviscosity syndrome (99.8%)</li>
+<li>Hyperamylasemia (99.8%)</li>
+<li>Congenital analbuminemia (99.8%)</li>
+<li>Punctate epithelial keratoconjunctivitis (99.8%)</li>
+<li>Monoclonal gammopathy (99.6%)</li>
+<li>Septicemic plague (99.5%)</li>
+<li>Congenital hematological disorder (sickle cell disease) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -97,6 +93,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

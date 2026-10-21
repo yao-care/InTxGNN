@@ -3,7 +3,7 @@ layout: default
 title: "Quetiapine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Quetiapine. Original indication: . 5 predicted indications."
+description: "Health news related to Quetiapine. Original indication: . 1 predicted indications."
 permalink: /news/quetiapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quetiapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Quetiapine?">
-<strong>Quetiapine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Quetiapine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Quetiapine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Qtripil 50mg Tablet | Strip of 10 tablets | Arinna Lifescience Pvt Ltd (99.0%)</li>
-<li>Pine 50mg Tablet | Strip of 10 tablets | Suraksha Pharma Pvt Ltd (99.0%)</li>
-<li>Q-Zac 50 SR Tablet | Strip of 10 SR tablets | Dorris Pharmaceutical Pvt Ltd (99.0%)</li>
-<li>Quel 100 Tablet | Strip of 10 tablets | Ipca Laboratories Ltd (99.0%)</li>
-<li>Sera 200mg Tablet SR | Strip of 10 SR tablets | Curelogic Pharma (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quetiapine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Sofosbuvir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sofosbuvir. Original indication: . 5 predicted indications."
+description: "Health news related to Sofosbuvir. Original indication: . 1 predicted indications."
 permalink: /news/sofosbuvir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sofosbuvir/
 ---
 
 <p class="key-answer" data-question="What news is there about Sofosbuvir?">
-<strong>Sofosbuvir</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sofosbuvir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sofosbuvir with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sovaldi 400mg Tablet (Mylan) | Bottle of 28 tablets | Not recorded (99.0%)</li>
-<li>Sofocure Tablet (Emcure) | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Hepcvel Tablet (Cipla) | Bottle of 28 tablets | Not recorded (99.0%)</li>
-<li>Hepcinat Tablet (Natco) | Strip of 28 tablets | Not recorded (99.0%)</li>
-<li>Resof 400mg Tablet (Dr Reddy's) | Strip of 28 tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatitis B virus infection (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sofosbuvir/' | relative_url }}">View full drug report →</a></p>

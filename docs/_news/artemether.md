@@ -3,7 +3,7 @@ layout: default
 title: "Artemether News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Artemether. Original indication: . 5 predicted indications."
+description: "Health news related to Artemether. Original indication: . 1 predicted indications."
 permalink: /news/artemether/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/artemether/
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Artemether</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rezatrin 80 mg/480 mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
-<li>Ufither L 80mg/480mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
-<li>Numal Forte Oral Suspension | Bottle of 30 ml oral suspension | Not stated (99.0%)</li>
-<li>Gnate L Syrup | Bottle of 30 ml syrup | Not stated (99.0%)</li>
-<li>Rezart M 80mg Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acquired angioedema (rank 1); P. falciparum malaria (rank 2) is an established use (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>

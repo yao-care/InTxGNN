@@ -3,7 +3,7 @@ layout: default
 title: "Blonanserin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Blonanserin. Original indication: . 5 predicted indications."
+description: "Health news related to Blonanserin. Original indication: . 1 predicted indications."
 permalink: /news/blonanserin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/blonanserin/
 ---
 
 <p class="key-answer" data-question="What news is there about Blonanserin?">
-<strong>Blonanserin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Blonanserin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Blonanserin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Blonet 2mg Tablet (Shatayushi Healthcare) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Elicia 4 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Elicia 8 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Blonitas 8 Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Blosana 4 Tablet (Ryon Pharma) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/blonanserin/' | relative_url }}">View full drug report →</a></p>

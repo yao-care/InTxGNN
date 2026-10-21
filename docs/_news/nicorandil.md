@@ -3,7 +3,7 @@ layout: default
 title: "Nicorandil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nicorandil. Original indication: . 5 predicted indications."
+description: "Health news related to Nicorandil. Original indication: . 10 predicted indications."
 permalink: /news/nicorandil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nicorandil/
 ---
 
 <p class="key-answer" data-question="What news is there about Nicorandil?">
-<strong>Nicorandil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nicorandil</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,17 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Korandil 5 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the records (99.0%)</li>
-<li>Zynicor 10mg Tablet (Zydus Cadila) | Strip of 30 tablets | Not stated in the records (99.0%)</li>
-<li>Zynicor 5 Tablet (Zydus Cadila) | Bottle of 30 tablets | Not stated in the records (99.0%)</li>
-<li>Nicoduce 5 Tablet (Abbott) | Bottle of 20 tablets | Not stated in the records (99.0%)</li>
-<li>Corflo 5mg Tablet (Wockhardt Ltd) | Strip of 20 tablets | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Benign prostatic hyperplasia (99.7%)</li>
+<li>Alopecia (99.6%)</li>
+<li>Hypotrichosis simplex of the scalp (99.5%)</li>
+<li>Congenital hypotrichosis milia (99.5%)</li>
+<li>Diffuse alopecia areata (99.5%)</li>
+<li>Osteoarthritis susceptibility (99.4%)</li>
+<li>Osteoarthritis (99.4%)</li>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (98.9%)</li>
+<li>Brachyolmia (98.9%)</li>
+<li>Brachyolmia-amelogenesis imperfecta syndrome (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nicorandil/' | relative_url }}">View full drug report →</a></p>

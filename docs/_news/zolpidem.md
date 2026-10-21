@@ -3,7 +3,7 @@ layout: default
 title: "Zolpidem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zolpidem. Original indication: . 5 predicted indications."
+description: "Health news related to Zolpidem. Original indication: . 1 predicted indications."
 permalink: /news/zolpidem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zolpidem/
 ---
 
 <p class="key-answer" data-question="What news is there about Zolpidem?">
-<strong>Zolpidem</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Zolpidem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Zolpidem with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Zolit 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Dactive 12.5mg Tablet | Strip of 7 tablets | Not stated (99.0%)</li>
-<li>Goodnoct 6.25mg Tablet XR | Strip of 10 XR tablets | Not stated (99.0%)</li>
-<li>Zedem 12.5mg Tablet ER | Strip of 10 ER tablets | Not stated (99.0%)</li>
-<li>Dactive 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Sleep disorder, initiating and maintaining sleep (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zolpidem/' | relative_url }}">View full drug report →</a></p>

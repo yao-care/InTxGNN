@@ -3,7 +3,7 @@ layout: default
 title: "Bosentan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bosentan. Original indication: . 9 predicted indications."
+description: "Health news related to Bosentan. Original indication: . 1 predicted indications."
 permalink: /news/bosentan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bosentan/
 ---
 
 <p class="key-answer" data-question="What news is there about Bosentan?">
-<strong>Bosentan</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Bosentan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ This page combines the AI-predicted indications for Bosentan with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>rheumatoid arthritis (99.8%)</li>
-<li>brachydactyly-syndactyly syndrome (99.7%)</li>
-<li>limited systemic sclerosis (99.7%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
-<li>pseudoxanthoma elasticum, forme fruste (99.5%)</li>
-<li>kyphoscoliotic heart disease (99.4%)</li>
-<li>elastoma (99.3%)</li>
-<li>gout (99.2%)</li>
-<li>hypertrichosis (disease) (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bosentan/' | relative_url }}">View full drug report →</a></p>

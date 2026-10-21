@@ -3,7 +3,7 @@ layout: default
 title: "Desonide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Desonide. Original indication: . 10 predicted indications."
+description: "Health news related to Desonide. Original indication: . 1 predicted indications."
 permalink: /news/desonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Desonide?">
-<strong>Desonide</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Desonide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Desonide with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>polyp of vocal cord (99.9%)</li>
-<li>polyp of middle ear (99.9%)</li>
-<li>polyp of external auditory canal (99.9%)</li>
-<li>polyp of frontal sinus (99.9%)</li>
-<li>polyp of ureter (99.9%)</li>
-<li>polyp of vulva (99.9%)</li>
-<li>fibroepithelial polyp (99.9%)</li>
-<li>neoplastic polyp (99.9%)</li>
-<li>epulis (99.9%)</li>
-<li>uterine polyp (99.9%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Polyp of vocal cord (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desonide/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Galantamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Galantamine. Original indication: . 3 predicted indications."
+description: "Health news related to Galantamine. Original indication: . 1 predicted indications."
 permalink: /news/galantamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/galantamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Galantamine?">
-<strong>Galantamine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Galantamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Galantamine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Galamer 8 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Galamer 4 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Galamer OD 4mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Psychogenic movement disorders (rank 1) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/galantamine/' | relative_url }}">View full drug report →</a></p>

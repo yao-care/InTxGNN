@@ -3,7 +3,7 @@ layout: default
 title: "Nitrazepam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nitrazepam. Original indication: . 5 predicted indications."
+description: "Health news related to Nitrazepam. Original indication: . 1 predicted indications."
 permalink: /news/nitrazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitrazepam/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitrazepam?">
-<strong>Nitrazepam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nitrazepam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Nitrazepam with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Nigap 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Sopor 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Nitrosun 5mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Dormin 5mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Nitraz 5mg Tablet SR | Strip of 10 tablet SR | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Sleep disorder, initiating and maintaining sleep (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrazepam/' | relative_url }}">View full drug report →</a></p>

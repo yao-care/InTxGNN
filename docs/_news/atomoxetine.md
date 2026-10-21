@@ -3,7 +3,7 @@ layout: default
 title: "Atomoxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atomoxetine. Original indication: . 5 predicted indications."
+description: "Health news related to Atomoxetine. Original indication: . 1 predicted indications."
 permalink: /news/atomoxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atomoxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Atomoxetine?">
-<strong>Atomoxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Atomoxetine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Atomoxetine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Atomoxet 25mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
-<li>Atmosril 18mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
-<li>Tomkid 40mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
-<li>Attentin 25mg Tablet | Strip of 10 tablets | Not stated in licence record (99.0%)</li>
-<li>Tomoxetin 25mg Capsule | Strip of 10 capsules | Not stated in licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Specific developmental disorder (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atomoxetine/' | relative_url }}">View full drug report →</a></p>

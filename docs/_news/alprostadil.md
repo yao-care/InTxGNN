@@ -3,7 +3,7 @@ layout: default
 title: "Alprostadil News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Alprostadil. Original indication: . 5 predicted indications."
+description: "Health news related to Alprostadil. Original indication: . 1 predicted indications."
 permalink: /news/alprostadil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprostadil/
 ---
 
 <p class="key-answer" data-question="What news is there about Alprostadil?">
-<strong>Alprostadil</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Alprostadil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Alprostadil with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Bioglandin 500mcg Injection | Vial of 1 injection | Not stated in the licence record (99.0%)</li>
-<li>Alpostin 500mcg Injection | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
-<li>Prostaver 500mcg Injection | Vial of 1 injection | Not stated in the licence record (99.0%)</li>
-<li>Prostin VR 500mcg Injection | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
-<li>Prostal Injection | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Aortic malformation (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprostadil/' | relative_url }}">View full drug report →</a></p>

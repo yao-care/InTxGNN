@@ -3,7 +3,7 @@ layout: default
 title: "Dexlansoprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexlansoprazole. Original indication: . 5 predicted indications."
+description: "Health news related to Dexlansoprazole. Original indication: . 1 predicted indications."
 permalink: /news/dexlansoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexlansoprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexlansoprazole?">
-<strong>Dexlansoprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dexlansoprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dexlansoprazole with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dexolan Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
-<li>Dexsofighter 60 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
-<li>DDR 60 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
-<li>DDR 30 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
-<li>Deltone Capsule MR | Strip of 10 capsule MR | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Active peptic ulcer disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexlansoprazole/' | relative_url }}">View full drug report →</a></p>

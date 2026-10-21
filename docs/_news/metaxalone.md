@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Metaxalone with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Flexura 400 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets (oral) | Not stated (99.0%)</li>
+<li>Infectious otitis media (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metaxalone/' | relative_url }}">View full drug report →</a></p>

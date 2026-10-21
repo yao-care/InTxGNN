@@ -3,7 +3,7 @@ layout: default
 title: "Dolutegravir News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dolutegravir. Original indication: . 4 predicted indications."
+description: "Health news related to Dolutegravir. Original indication: . 1 predicted indications."
 permalink: /news/dolutegravir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dolutegravir/
 ---
 
 <p class="key-answer" data-question="What news is there about Dolutegravir?">
-<strong>Dolutegravir</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Dolutegravir</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Dolutegravir with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Viropil Tablet | Bottle of 30 tablets | Not specified (99.0%)</li>
-<li>Spegra Tablet | Bottle of 30 tablets | Not specified (99.0%)</li>
-<li>Instgra Tablet | Bottle of 30 tablets | Not specified (99.0%)</li>
-<li>Cipanec 50mg/300mg/300mg Tablet | Bottle of 30 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dolutegravir/' | relative_url }}">View full drug report →</a></p>

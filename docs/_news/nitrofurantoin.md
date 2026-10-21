@@ -3,7 +3,7 @@ layout: default
 title: "Nitrofurantoin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nitrofurantoin. Original indication: . 5 predicted indications."
+description: "Health news related to Nitrofurantoin. Original indication: . 1 predicted indications."
 permalink: /news/nitrofurantoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nitrofurantoin?">
-<strong>Nitrofurantoin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nitrofurantoin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Nitrofurantoin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Utab 100mg Tablet SR | Sustained-release tablet (strip of 10) | Not specified (99.0%)</li>
-<li>Urosafe 100mg Tablet | Tablet (strip of 10) | Not specified (99.0%)</li>
-<li>Martifur MR 50mg Tablet | Modified-release tablet (strip of 10) | Not specified (99.0%)</li>
-<li>Nifutin Tablet SR | Sustained-release tablet (strip of 10) | Not specified (99.0%)</li>
-<li>Nitro 100mg Capsule | Capsule (strip of 10) | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">View full drug report →</a></p>

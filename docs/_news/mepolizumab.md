@@ -3,7 +3,7 @@ layout: default
 title: "Mepolizumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mepolizumab. Original indication: . 2 predicted indications."
+description: "Health news related to Mepolizumab. Original indication: . 5 predicted indications."
 permalink: /news/mepolizumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mepolizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Mepolizumab?">
-<strong>Mepolizumab</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Mepolizumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,12 @@ This page combines the AI-predicted indications for Mepolizumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Nucala 100mg Injection | Vial of 1 injection | Not available (99.0%)</li>
-<li>Nucala Injection | Pre-filled pen of 1 injection | Not available (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Thrombocytopenia due to immune destruction (99.7%)</li>
+<li>Primary release disorder of platelets (99.6%)</li>
+<li>Pseudo-von Willebrand disease (99.4%)</li>
+<li>Autoimmune thrombocytopenic (99.3%)</li>
+<li>Glanzmann thrombasthenia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mepolizumab/' | relative_url }}">View full drug report →</a></p>

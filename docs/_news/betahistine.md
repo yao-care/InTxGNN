@@ -3,7 +3,7 @@ layout: default
 title: "Betahistine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Betahistine. Original indication: . 14 predicted indications."
+description: "Health news related to Betahistine. Original indication: . 10 predicted indications."
 permalink: /news/betahistine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/betahistine/
 ---
 
 <p class="key-answer" data-question="What news is there about Betahistine?">
-<strong>Betahistine</strong> currently has <strong>0 news articles</strong>, with 14 predicted indications.
+<strong>Betahistine</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,21 +25,17 @@ This page combines the AI-predicted indications for Betahistine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (14)</strong>:<ul>
-<li>Active cochlear Meniere disease | 98.34% | L4 | Research Question (99.0%)</li>
-<li>Active vestibular Meniere disease | 98.34% | L3 | Proceed with Guardrails (99.0%)</li>
-<li>Active cochleovestibular Meniere disease | 98.34% | L5 | Hold (99.0%)</li>
-<li>Otosclerosis | 98.19% | L4 | Hold (99.0%)</li>
-<li>Peripheral vertigo | 98.07% | L2 | Proceed with Guardrails (99.0%)</li>
-<li>Age-related hearing impairment | 97.93% | L5 | Hold (99.0%)</li>
-<li>Vertigo, benign recurrent, 2 | 97.78% | L2 | Research Question (99.0%)</li>
-<li>Autosomal recessive hyperinsulinism (Kir6.2 deficiency) | 97.77% | L5 | Hold (99.0%)</li>
-<li>Hyperinsulinemic hypoglycemia, familial | 97.32% | L5 | Hold (99.0%)</li>
-<li>Dvert 16mg Tablet | Strip of 10 tablets | Lia Life Sciences Pvt Ltd (99.0%)</li>
-<li>Zevert 16 Tablet DT | Strip of 10 tablet DT | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Vergone 48mg Tablet SR | Strip of 10 tablet SR | Ardent Life Sciences Pvt Ltd (99.0%)</li>
-<li>Bvert OD 24mg Tablet CR | Strip of 10 tablet CR | Icon Life Sciences (99.0%)</li>
-<li>B-Stil 16 Tablet | Strip of 10 tablets | Abbott (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Restless legs syndrome (rank 1) (98.5%)</li>
+<li>Active cochlear Meniere disease (98.3%)</li>
+<li>Active vestibular Meniere disease (98.3%)</li>
+<li>Active cochleovestibular Meniere disease (98.3%)</li>
+<li>Otosclerosis (98.2%)</li>
+<li>Peripheral vertigo (98.1%)</li>
+<li>Age-related hearing impairment (97.9%)</li>
+<li>Vertigo, benign recurrent, 2 (97.8%)</li>
+<li>Autosomal recessive hyperinsulinism (Kir6.2 deficiency) (97.8%)</li>
+<li>Hyperinsulinemic hypoglycemia, familial (97.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/betahistine/' | relative_url }}">View full drug report →</a></p>

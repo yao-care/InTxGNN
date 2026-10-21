@@ -3,7 +3,7 @@ layout: default
 title: "Entacapone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Entacapone. Original indication: . 5 predicted indications."
+description: "Health news related to Entacapone. Original indication: . 4 predicted indications."
 permalink: /news/entacapone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Adcapone Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data compiled for this report (99.0%)</li>
-<li>Entacom Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data compiled for this report (99.0%)</li>
-<li>Paralysis agitans, juvenile, of Hunt | 99.60% | L4 | Historical term for juvenile parkinsonism. This largely overlaps with the existing Parkinson indication and is not a true new indication. Research Question. (99.0%)</li>
-<li>Lewy body dementia | 99.25% | L4 | Shares alpha-synuclein pathology with Parkinson disease. Support is limited to an in vitro study (PMID 23913715) and an unrelated imaging trial. Dopaminergic agents may worsen psychosis and hallucinations. Research Question. (99.0%)</li>
-<li>Progressive supranuclear palsy-corticobasal syndrome | 99.04% | L4 | These conditions respond poorly to levodopa. The only trial is an observational gait study. Research Question. (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>PLA2G6-associated neurodegeneration (99.8%)</li>
+<li>Paralysis agitans, juvenile, of Hunt (99.6%)</li>
+<li>Lewy body dementia (99.2%)</li>
+<li>Progressive supranuclear palsy-corticobasal syndrome (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
@@ -38,19 +37,19 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (2)
 
-### [Low daily step counts linked to dementia, Parkinson's and stroke - Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
-
-2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
-
----
-
 ### [Obesity Linked to Lower Risk for Mortality in Dementia - Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
 
 2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
+
+---
+
+### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
 
 ---
 

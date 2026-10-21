@@ -3,7 +3,7 @@ layout: default
 title: "Paliperidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Paliperidone. Original indication: . 5 predicted indications."
+description: "Health news related to Paliperidone. Original indication: . 1 predicted indications."
 permalink: /news/paliperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paliperidone/
 ---
 
 <p class="key-answer" data-question="What news is there about Paliperidone?">
-<strong>Paliperidone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Paliperidone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Paliperidone with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Peridol-OD 1.5 Tablet | Extended-release tablet (strip of 10) | Consern Pharma Limited (99.0%)</li>
-<li>Paliris 3 Tablet ER | Extended-release tablet (strip of 14) | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Palido-OD 3 Tablet ER | Extended-release tablet (strip of 10) | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Palip 6mg Tablet XR | Extended-release tablet (strip of 10) | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Invega Sustenna 75mg Injection | Injection (vial of 1) | Janssen Pharmaceuticals (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paliperidone/' | relative_url }}">View full drug report →</a></p>

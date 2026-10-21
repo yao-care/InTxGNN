@@ -3,7 +3,7 @@ layout: default
 title: "Fluvastatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Fluvastatin. Original indication: . 2 predicted indications."
+description: "Health news related to Fluvastatin. Original indication: . 1 predicted indications."
 permalink: /news/fluvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Fluvastatin?">
-<strong>Fluvastatin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Fluvastatin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Fluvastatin with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Lescol XL 80mg Tablet (Novartis India Ltd) | Strip of 14 tablets | Not stated in the registration record (99.0%)</li>
-<li>Fluvalip 40mg Tablet (Nectazen Pharmaceuticals) | Strip of 10 tablets | Not stated in the registration record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hyperlipoproteinemia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluvastatin/' | relative_url }}">View full drug report →</a></p>

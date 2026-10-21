@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Methdilazine with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Dilosyn Tablet (Glaxo SmithKline Pharmaceuticals Ltd) | Strip of 10 tablets (oral) | Not specified in the licence record (99.0%)</li>
+<li>Nasal cavity disease (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methdilazine/' | relative_url }}">View full drug report →</a></p>

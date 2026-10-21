@@ -3,7 +3,7 @@ layout: default
 title: "Naphazoline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Naphazoline. Original indication: . 5 predicted indications."
+description: "Health news related to Naphazoline. Original indication: . 1 predicted indications."
 permalink: /news/naphazoline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naphazoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Naphazoline?">
-<strong>Naphazoline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Naphazoline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Naphazoline with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Opti Zee Eye Drop | Packet of 10 ml eye drop | Not stated (99.0%)</li>
-<li>Nefcoz Eye Drop | Bottle of 10 ml eye drop | Not stated (99.0%)</li>
-<li>Optizee Plus Eye Drop | Packet of 10 ml eye drop | Not stated (99.0%)</li>
-<li>Nizoline Z Eye Drop | Packet of 5 ml eye drop | Not stated (99.0%)</li>
-<li>Mil Eye Drop | Packet of 10 ml eye drop | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypotrichosis simplex of the scalp (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naphazoline/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Midodrine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Midodrine. Original indication: . 5 predicted indications."
+description: "Health news related to Midodrine. Original indication: . 1 predicted indications."
 permalink: /news/midodrine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/midodrine/
 ---
 
 <p class="key-answer" data-question="What news is there about Midodrine?">
-<strong>Midodrine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Midodrine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Midodrine with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cipmido 5mg Tablet (Cipla Ltd) | Strip of 30 tablets | Not stated in registration records (99.0%)</li>
-<li>Midorise 10 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in registration records (99.0%)</li>
-<li>Midora Tablet (Dr Reddy's Laboratories Ltd) | Strip of 30 tablets | Not stated in registration records (99.0%)</li>
-<li>Inramed 5 Tablet (Mylan Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated in registration records (99.0%)</li>
-<li>Midodrive Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 20 tablets | Not stated in registration records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Variably protease-sensitive prionopathy (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/midodrine/' | relative_url }}">View full drug report →</a></p>

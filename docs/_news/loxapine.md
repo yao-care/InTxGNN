@@ -3,7 +3,7 @@ layout: default
 title: "Loxapine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Loxapine. Original indication: . 5 predicted indications."
+description: "Health news related to Loxapine. Original indication: . 1 predicted indications."
 permalink: /news/loxapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loxapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Loxapine?">
-<strong>Loxapine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Loxapine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Loxapine with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Loxapax 10mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Loxafly 25mg Tablet | Strip of 10 tablets | Not stated in the licence record (99.0%)</li>
-<li>Loxip 10mg Capsule | Strip of 10 capsules | Not stated in the licence record (99.0%)</li>
-<li>Loxapac 10mg Capsule (Pfizer Ltd) | Strip of 10 capsules | Not stated in the licence record (99.0%)</li>
-<li>Loxapax Syrup | Bottle of 60 ml syrup | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Manic bipolar affective disorder (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loxapine/' | relative_url }}">View full drug report →</a></p>

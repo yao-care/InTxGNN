@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Sorbitol with the latest hea
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Celemix Infusion (Claris Lifesciences Ltd) | Bottle of 1000 ml infusion | Not stated (99.0%)</li>
+<li>Exercise-induced malignant hyperthermia (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sorbitol/' | relative_url }}">View full drug report →</a></p>

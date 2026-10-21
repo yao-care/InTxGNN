@@ -26,9 +26,9 @@ This page combines the AI-predicted indications for Ephedrine with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
-<li>Tedral 24mg/130mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Adrena 2mg Injection (Geo Pharma Pvt Ltd) | Vial of 2 ml injection | Not listed (99.0%)</li>
-<li>Efipres Injection (Neon Laboratories Ltd) | Vial of 1 ml injection | Not listed (99.0%)</li>
+<li>Nasal cavity disease (99.9%)</li>
+<li>Acute laryngopharyngitis (99.9%)</li>
+<li>Trigeminal autonomic cephalalgia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ephedrine/' | relative_url }}">View full drug report →</a></p>

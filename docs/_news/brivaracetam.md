@@ -3,7 +3,7 @@ layout: default
 title: "Brivaracetam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Brivaracetam. Original indication: . 5 predicted indications."
+description: "Health news related to Brivaracetam. Original indication: . 1 predicted indications."
 permalink: /news/brivaracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brivaracetam/
 ---
 
 <p class="key-answer" data-question="What news is there about Brivaracetam?">
-<strong>Brivaracetam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Brivaracetam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Brivaracetam with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Briviact 75mg Tablet | Strip of 14 tablets | UCB India Pvt Ltd (99.0%)</li>
-<li>Brivajoy 100 Tablet | Strip of 14 tablets | Abbott (99.0%)</li>
-<li>Briv 25mg Tablet | Strip of 10 tablets | Dr Reddy's Laboratories Ltd (99.0%)</li>
-<li>Brivgard 50 Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
-<li>Brivup 10mg Injection | Vial of 5 ml injection | Icon Life Sciences (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Visual epilepsy (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brivaracetam/' | relative_url }}">View full drug report →</a></p>

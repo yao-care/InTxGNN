@@ -3,7 +3,7 @@ layout: default
 title: "Glutathione News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glutathione. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Glutathione. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/glutathione/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glutathione/
 ---
 
 <p class="key-answer" data-question="What news is there about Glutathione?">
-<strong>Glutathione</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Glutathione</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Glutathione with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **sclerosing cholangitis**, but **no clinical trials** are registered, and the **18 publications** retrieved are mostly associative or preclinical.</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Glutiprime Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Thiotres Injection | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Hepafresh Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Ralgyz Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Not stated (99.0%)</li>
-<li>Glutaup 500mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Sclerosing cholangitis (98.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glutathione/' | relative_url }}">View full drug report →</a></p>

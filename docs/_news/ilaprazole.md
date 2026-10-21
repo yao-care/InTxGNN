@@ -3,7 +3,7 @@ layout: default
 title: "Ilaprazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ilaprazole. Original indication: . 5 predicted indications."
+description: "Health news related to Ilaprazole. Original indication: . 1 predicted indications."
 permalink: /news/ilaprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ilaprazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Ilaprazole?">
-<strong>Ilaprazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ilaprazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ilaprazole with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Iladif 10mg Tablet | Strip of 10 tablets | Overseas Healthcare Pvt Ltd (99.0%)</li>
-<li>Ambila 10mg Tablet | Strip of 10 tablets | Ambience Pharma (99.0%)</li>
-<li>Iladac 10 Tablet | Strip of 10 tablets | Zydus Cadila (99.0%)</li>
-<li>Ilapro 10 Tablet | Strip of 10 tablets | Ajanta Pharma Ltd (99.0%)</li>
-<li>Ilabest 10mg Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Active peptic ulcer disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ilaprazole/' | relative_url }}">View full drug report →</a></p>

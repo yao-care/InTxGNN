@@ -3,7 +3,7 @@ layout: default
 title: "Rebamipide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rebamipide. Original indication: . 5 predicted indications."
+description: "Health news related to Rebamipide. Original indication: . 1 predicted indications."
 permalink: /news/rebamipide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rebamipide/
 ---
 
 <p class="key-answer" data-question="What news is there about Rebamipide?">
-<strong>Rebamipide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rebamipide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Rebamipide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rebator 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Rebam 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Mucogen 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Rebagen Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Rebagen-Otic Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Esophageal dyskinesia (best-supported of the 10 predictions; the highest TxGNN-scored prediction is achlorhydria) (96.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rebamipide/' | relative_url }}">View full drug report →</a></p>

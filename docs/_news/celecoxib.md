@@ -3,7 +3,7 @@ layout: default
 title: "Celecoxib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Celecoxib. Original indication: . 5 predicted indications."
+description: "Health news related to Celecoxib. Original indication: . 1 predicted indications."
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="What news is there about Celecoxib?">
-<strong>Celecoxib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Celecoxib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Celecoxib with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sionara 200mg Capsule | Strip of 10 capsules | Alembic Pharmaceuticals Ltd (99.0%)</li>
-<li>Icel 200mg Capsule | Strip of 10 capsules | Zydus Cadila (99.0%)</li>
-<li>Celicx 200 Capsule | Strip of 10 capsules | Goldenlad Pharmaceutical Pvt Ltd (99.0%)</li>
-<li>Coxib 90mg Tablet | Strip of 10 tablets | Micro Labs Ltd (99.0%)</li>
-<li>Revibra 200mg Capsule | Strip of 10 capsules | Dr Reddy's Laboratories Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">View full drug report →</a></p>

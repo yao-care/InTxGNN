@@ -3,7 +3,7 @@ layout: default
 title: "Homatropine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Homatropine. Original indication: . 5 predicted indications."
+description: "Health news related to Homatropine. Original indication: . 1 predicted indications."
 permalink: /news/homatropine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/homatropine/
 ---
 
 <p class="key-answer" data-question="What news is there about Homatropine?">
-<strong>Homatropine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Homatropine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Homatropine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Homatropine Eye Drop (Bell Pharma Pvt Ltd) | Packet of 10 ml eye drop | Not stated (99.0%)</li>
-<li>Homatropine Eye Drop (Bell Pharma Pvt Ltd) | Packet of 5 ml eye drop | Not stated (99.0%)</li>
-<li>Homatrapar 1% Eye Drop (Biomedica International) | Bottle of 5 ml eye drop | Not stated (99.0%)</li>
-<li>Homatropine Eye Drop (Entod Pharmaceuticals Ltd) | Packet of 5 ml eye drop | Not stated (99.0%)</li>
-<li>Aurohom Eye Drop (Aurolab) | Bottle of 5 ml eye drop | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cauda equina syndrome (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/homatropine/' | relative_url }}">View full drug report →</a></p>

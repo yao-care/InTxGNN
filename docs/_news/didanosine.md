@@ -3,7 +3,7 @@ layout: default
 title: "Didanosine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Didanosine. Original indication: . 5 predicted indications."
+description: "Health news related to Didanosine. Original indication: . 1 predicted indications."
 permalink: /news/didanosine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/didanosine/
 ---
 
 <p class="key-answer" data-question="What news is there about Didanosine?">
-<strong>Didanosine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Didanosine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Didanosine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dinosin 100mg Tablet | Bottle of 60 tablets | Not specified (99.0%)</li>
-<li>Virosine DR 250mg Capsule | Packet of 30 capsules | Not specified (99.0%)</li>
-<li>Dinosin 250mg Tablet | Strip of 30 tablets | Not specified (99.0%)</li>
-<li>Dinosin 400mg Capsule | Strip of 30 capsules | Not specified (99.0%)</li>
-<li>Virosine DR 400mg Capsule | Packet of 30 capsules | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/didanosine/' | relative_url }}">View full drug report →</a></p>

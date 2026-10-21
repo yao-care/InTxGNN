@@ -3,7 +3,7 @@ layout: default
 title: "D-Glucose News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to D-Glucose. Original indication: For the top prediction, **no mechanistic link coul.... 10 predicted indications."
+description: "Health news related to D-Glucose. Original indication: For the top prediction, **no mechanistic link coul.... 1 predicted indications."
 permalink: /news/d-glucose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/d-glucose/
 ---
 
 <p class="key-answer" data-question="What news is there about D-Glucose?">
-<strong>D-Glucose</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>D-Glucose</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,17 +26,8 @@ This page combines the AI-predicted indications for D-Glucose with the latest he
 <ul>
 <li><strong>Original indication</strong>: For the top prediction, **no mechanistic link could be identified**. Glucose has no known role in esophageal embryonic development or in correcting esophageal malformation, which is a structural...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>non-syndromic esophageal malformation (84.1%)</li>
-<li>primary hereditary glaucoma (83.7%)</li>
-<li>open-angle glaucoma (83.0%)</li>
-<li>esophageal disease (81.7%)</li>
-<li>biotin metabolic disease (81.4%)</li>
-<li>vitamin deficiency disorder (81.1%)</li>
-<li>dermatitis (80.8%)</li>
-<li>neonatal dermatomyositis (79.7%)</li>
-<li>acrodermatitis chronica atrophicans (79.6%)</li>
-<li>hydroa vacciniforme, familial (79.4%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Non-syndromic esophageal malformation (84.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/d-glucose/' | relative_url }}">View full drug report →</a></p>

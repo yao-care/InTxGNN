@@ -3,7 +3,7 @@ layout: default
 title: "Dobutamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dobutamine. Original indication: . 5 predicted indications."
+description: "Health news related to Dobutamine. Original indication: . 1 predicted indications."
 permalink: /news/dobutamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dobutamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dobutamine?">
-<strong>Dobutamine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dobutamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dobutamine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cardiforce 250mg Injection | Vial of 20 ml Injection | Not stated (99.0%)</li>
-<li>Dobutam Injection | Ampoule of 5 ml Injection | Not stated (99.0%)</li>
-<li>Butim 250mg Injection | Ampoule of 5 ml Injection | Not stated (99.0%)</li>
-<li>Dobutrex 250mg Injection | Vial of 50 ml Injection | Not stated (99.0%)</li>
-<li>Cardiject 50mg Injection | Vial of 4 ml Injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Alopecia (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dobutamine/' | relative_url }}">View full drug report →</a></p>

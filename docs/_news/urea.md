@@ -14,7 +14,7 @@ permalink: /news/urea/
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [A unified deep learning framework for multi-lesion detection in diabetic retinopathy using fundus images](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xUjFaZGtvMDFDZjZFTnhtVDZsSkRlOFd6VC05SG9IUm9oLVNiMGNHTHFDZTV3S2I3TkdpTnlLX0pldTRCZlpqa21LR09Zal9tdkZJNm5RbWN6Mkdremo0?oc=5)
+
+2026-10-19 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">diabetic retinopathy</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xUjFaZGtvMDFDZjZFTnhtVDZsSkRlOFd6VC05SG9IUm9oLVNiMGNHTHFDZTV3S2I3TkdpTnlLX0pldTRCZlpqa21LR09Zal9tdkZJNm5RbWN6Mkdremo0?oc=5)
+
+---
 
 
 <div class="disclaimer">

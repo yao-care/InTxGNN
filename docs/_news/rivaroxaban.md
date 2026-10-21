@@ -3,7 +3,7 @@ layout: default
 title: "Rivaroxaban News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rivaroxaban. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Rivaroxaban. Original indication: he TxGNN model predicts it may be effective for **.... 4 predicted indications."
 permalink: /news/rivaroxaban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rivaroxaban/
 ---
 
 <p class="key-answer" data-question="What news is there about Rivaroxaban?">
-<strong>Rivaroxaban</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rivaroxaban</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,11 @@ This page combines the AI-predicted indications for Rivaroxaban with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **no clinical trials** and **no publications testing rivaroxaban in this disease** currently support the prediction.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rivoxamac 15mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Rivared 15mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Xarelto 20mg Tablet | Box of 98 tablets | Not stated (99.0%)</li>
-<li>Nanotril 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Rivalto 20mg Tablet | Strip of 14 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (4)</strong>:<ul>
+<li>Rheumatoid arthritis (99.6%)</li>
+<li>Gout (99.5%)</li>
+<li>HIV infectious disease (99.2%)</li>
+<li>Brachydactyly-syndactyly syndrome (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">View full drug report →</a></p>

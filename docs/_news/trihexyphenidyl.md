@@ -3,7 +3,7 @@ layout: default
 title: "Trihexyphenidyl News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trihexyphenidyl. Original indication: . 5 predicted indications."
+description: "Health news related to Trihexyphenidyl. Original indication: . 1 predicted indications."
 permalink: /news/trihexyphenidyl/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trihexyphenidyl/
 ---
 
 <p class="key-answer" data-question="What news is there about Trihexyphenidyl?">
-<strong>Trihexyphenidyl</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Trihexyphenidyl</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Trihexyphenidyl with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Vihexy 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Hexinal 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Vacitane 5mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Parkinta 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Flyper 5mg Tablet | Strip of 30 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Attention deficit-hyperactivity disorder (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trihexyphenidyl/' | relative_url }}">View full drug report →</a></p>

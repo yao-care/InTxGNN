@@ -3,7 +3,7 @@ layout: default
 title: "Natamycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Natamycin. Original indication: . 5 predicted indications."
+description: "Health news related to Natamycin. Original indication: . 1 predicted indications."
 permalink: /news/natamycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/natamycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Natamycin?">
-<strong>Natamycin</strong> currently has <strong>13 news articles</strong>, with 5 predicted indications.
+<strong>Natamycin</strong> currently has <strong>13 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Natamycin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Natray Eye Drop | Bottle of 3 ml ophthalmic suspension | Not stated (99.0%)</li>
-<li>Natcon Eye Drop | Packet of 3 ml eye drop | Not stated (99.0%)</li>
-<li>Elmycin Eye Drop | Packet of 3 ml eye drop | Not stated (99.0%)</li>
-<li>Zonat Eye Drop | Packet of 5 ml eye drop | Not stated (99.0%)</li>
-<li>Ntc Eye Drop | Bottle of 5 ml ophthalmic suspension | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Vulvovaginal candidiasis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/natamycin/' | relative_url }}">View full drug report →</a></p>
@@ -67,14 +63,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5
 2026-10-20 <span class="news-indication-tag">cancer</span>
 
 Source: [ThePrint](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFjY2lkRnF5eUM2dTNYdVZvSmNHakNqYUFOOXJTaW1XVm1HRlpPSnVoSkJTNDI2SkpJRnJWdVRPN0hVRFRNejk4XzY4LURoQVJuM2pNbmp4SkJKNnV5RzBVeUFWOHc3Q09MSUhfSE96YzJPSXdna0NqdkRZM0Y4Sm9sWUU5c0lUQXpEWE05Yk5vTU1fOVF6UlVtT3JZZmstSzVzdnBBaEp5aURfbWhrRnozaWQ3X0hIQlhScEJ3d23SAcYBQVVfeXFMTndva2RLdUNCcFAyYS1JaWFpRTMzRGF0YkVYRXZfUWxJOWVPcnhBNkxuTDVQb21kVnd2WVVBN0g3QzJ6bkNGaWRFTHRCRlpvcEF6NXJGbWtWeTluMXFlN3pZY05ZSzlQU0dPa1QyVzF2RzVSRk5uQklXOFdnMmNoYkdZUGlKcnYxOERjcFF6dTVDeTc5R0xtRTFjXzdMdmM1YzlUNDAyaV9sdEY5TVFTZi00TjZfRm5aUDZFM1JKc0hyOUdCZzFn?oc=5)
-
----
-
-### [AI-powered virtual reality could help women manage menopause symptoms](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS1NN1lLdGt3U0d3VThSVElCcEVZQ2s3dmV0UmtuWUtBT3VFOXdlT2l0ajVXNTBGSE90c0N0c0J5ZlNFSzhhUHpTd1haTlFVRWJyV05saUZGNlpuUThveG1aNWhwVWduSFQ0M1FYRExoZGtySG9TTmlEdmU3WThsaUk1Tm1yNzhHVFlBSm00eUFmaFRSS3RXRGZJZWhZN2NMVlpSNlBNRFE2YXRub3phLWc2RzA5bVBr?oc=5)
-
-2026-10-20 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS1NN1lLdGt3U0d3VThSVElCcEVZQ2s3dmV0UmtuWUtBT3VFOXdlT2l0ajVXNTBGSE90c0N0c0J5ZlNFSzhhUHpTd1haTlFVRWJyV05saUZGNlpuUThveG1aNWhwVWduSFQ0M1FYRExoZGtySG9TTmlEdmU3WThsaUk1Tm1yNzhHVFlBSm00eUFmaFRSS3RXRGZJZWhZN2NMVlpSNlBNRFE2YXRub3phLWc2RzA5bVBr?oc=5)
 
 ---
 
@@ -115,6 +103,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

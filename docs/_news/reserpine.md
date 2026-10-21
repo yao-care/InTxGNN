@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Reserpine with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Adelphane 0.1mg/10mg Tablet (Novartis India Ltd) | Strip of 10 tablets (oral) | Not stated (99.0%)</li>
+<li>Treatment-refractory schizophrenia (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/reserpine/' | relative_url }}">View full drug report →</a></p>

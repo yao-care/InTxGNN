@@ -3,7 +3,7 @@ layout: default
 title: "Isoflurane News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Isoflurane. Original indication: . 5 predicted indications."
+description: "Health news related to Isoflurane. Original indication: . 1 predicted indications."
 permalink: /news/isoflurane/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isoflurane/
 ---
 
 <p class="key-answer" data-question="What news is there about Isoflurane?">
-<strong>Isoflurane</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Isoflurane</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Isoflurane with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Forane Solution (Abbott) | Bottle of 250 ml solution for inhalation | Not recorded (99.0%)</li>
-<li>Forane Solution (Abbott) | Bottle of 100 ml solution for inhalation | Not recorded (99.0%)</li>
-<li>Isotroy Solution for inhalation (Troikaa) | Packet of 100 ml solution for inhalation | Not recorded (99.0%)</li>
-<li>Sosrane Liquid For Inhalation (Neon Laboratories) | Bottle of 30 ml solution for inhalation | Not recorded (99.0%)</li>
-<li>Isoflurane USP Liquid For Inhalation (Baxter India) | Bottle of 100 ml solution for inhalation | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Prinzmetal angina (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isoflurane/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Capmatinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Capmatinib. Original indication: . 2 predicted indications."
+description: "Health news related to Capmatinib. Original indication: . 1 predicted indications."
 permalink: /news/capmatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capmatinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Capmatinib?">
-<strong>Capmatinib</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Capmatinib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Capmatinib with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Rahika 150mg Tablet | Strip of 12 tablets | Not stated in the available data (99.0%)</li>
-<li>Rahika 200mg Tablet | Strip of 12 tablets | Not stated in the available data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rheumatoid arthritis (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capmatinib/' | relative_url }}">View full drug report →</a></p>

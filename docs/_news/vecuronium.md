@@ -3,7 +3,7 @@ layout: default
 title: "Vecuronium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vecuronium. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Vecuronium. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/vecuronium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vecuronium/
 ---
 
 <p class="key-answer" data-question="What news is there about Vecuronium?">
-<strong>Vecuronium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Vecuronium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Vecuronium with the latest h
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **insomnia**, but there is only **1 registered clinical trial** (a generic paediatric pharmacokinetics study with no insomnia endpoint) and **no...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Verbo 4mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Kabivec 4mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Samvec 4mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Vecuron 10mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Vecurofix 10 Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vecuronium/' | relative_url }}">View full drug report →</a></p>

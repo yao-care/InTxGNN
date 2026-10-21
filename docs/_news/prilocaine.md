@@ -3,7 +3,7 @@ layout: default
 title: "Prilocaine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prilocaine. Original indication: . 5 predicted indications."
+description: "Health news related to Prilocaine. Original indication: . 1 predicted indications."
 permalink: /news/prilocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prilocaine/
 ---
 
 <p class="key-answer" data-question="What news is there about Prilocaine?">
-<strong>Prilocaine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Prilocaine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Prilocaine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Prilox Cream (Neon Laboratories) | Cream, 5 g tube | Not recorded (99.0%)</li>
-<li>Xynova P Cream (Troikaa) | Cream, 5 g tube | Not recorded (99.0%)</li>
-<li>Xynova P Gel (Troikaa) | Gel, 30 g tube | Not recorded (99.0%)</li>
-<li>Dolocaine Cream (Cadila) | Cream, 5 g tube | Not recorded (99.0%)</li>
-<li>Emlap Gel (Dr Reddy's) | Gel, 30 g tube | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Neuralgia (the highest-scoring prediction, papillary conjunctivitis, has no supporting evidence, so the most evidence-supported prediction is presented here) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prilocaine/' | relative_url }}">View full drug report →</a></p>

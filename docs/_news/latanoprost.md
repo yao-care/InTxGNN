@@ -3,7 +3,7 @@ layout: default
 title: "Latanoprost News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Latanoprost. Original indication: . 5 predicted indications."
+description: "Health news related to Latanoprost. Original indication: . 1 predicted indications."
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="What news is there about Latanoprost?">
-<strong>Latanoprost</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Latanoprost</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Latanoprost with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Latochek 5mg Eye Drop | Packet of 5 ml Eye Drop | Not specified (99.0%)</li>
-<li>Ioprost Eye Drop | Packet of 1 ml Eye Drop | Not specified (99.0%)</li>
-<li>Latoprost Eye Drop | Packet of 2.5 ml Ophthalmic Solution | Not specified (99.0%)</li>
-<li>Lacoma PF Eye Drop BAK Free | Bottle of 2.5 ml Eye Drop | Not specified (99.0%)</li>
-<li>Xalatan Eye Drop | Packet of 2.5 ml Eye Drop | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary hereditary glaucoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">View full drug report →</a></p>

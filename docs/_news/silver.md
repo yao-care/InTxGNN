@@ -3,7 +3,7 @@ layout: default
 title: "Silver News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Silver. Original indication: . 5 predicted indications."
+description: "Health news related to Silver. Original indication: . 1 predicted indications."
 permalink: /news/silver/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/silver/
 ---
 
 <p class="key-answer" data-question="What news is there about Silver?">
-<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Silver</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Silver with the latest healt
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 15 g tube | Not stated (99.0%)</li>
-<li>Silvacure Plus Cream | Cream, 15 g tube | Not stated (99.0%)</li>
-<li>Silverstream Liquid | Liquid, 100 ml bottle | Not stated (99.0%)</li>
-<li>Unosil Antimicrobial Wound and Burn Spray | Solution, 50 ml pump bottle | Not stated (99.0%)</li>
-<li>Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 200 g jar | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>bone Paget disease (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/silver/' | relative_url }}">View full drug report →</a></p>

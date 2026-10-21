@@ -3,7 +3,7 @@ layout: default
 title: "Diphenhydramine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Diphenhydramine. Original indication: . 5 predicted indications."
+description: "Health news related to Diphenhydramine. Original indication: . 1 predicted indications."
 permalink: /news/diphenhydramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diphenhydramine/
 ---
 
 <p class="key-answer" data-question="What news is there about Diphenhydramine?">
-<strong>Diphenhydramine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Diphenhydramine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Diphenhydramine with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Benacof 25mg Soft Gelatin Capsule | Strip of 10 soft gelatin capsules | Not recorded (99.0%)</li>
-<li>Matdryl Syrup | Bottle of 100 ml syrup | Not recorded (99.0%)</li>
-<li>Aden-Rex Syrup | Bottle of 100 ml syrup | Not recorded (99.0%)</li>
-<li>Novadryl 25mg Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Zendryl 25mg Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rosacea conjunctivitis (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diphenhydramine/' | relative_url }}">View full drug report →</a></p>

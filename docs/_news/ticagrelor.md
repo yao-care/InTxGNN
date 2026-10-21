@@ -3,7 +3,7 @@ layout: default
 title: "Ticagrelor News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ticagrelor. Original indication: . 5 predicted indications."
+description: "Health news related to Ticagrelor. Original indication: . 1 predicted indications."
 permalink: /news/ticagrelor/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ticagrelor/
 ---
 
 <p class="key-answer" data-question="What news is there about Ticagrelor?">
-<strong>Ticagrelor</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ticagrelor</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ticagrelor with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Brilinta 90mg Tablet | Strip of 14 tablets | AstraZeneca (99.0%)</li>
-<li>Ticaflo 90mg Tablet | Strip of 14 tablets | Dr Reddy's Laboratories Ltd (99.0%)</li>
-<li>Ticasave 60mg Tablet | Strip of 14 tablets | Eris Lifesciences Ltd (99.0%)</li>
-<li>Torplat 60 Tablet | Strip of 14 tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Axcer 60mg Tablet | Strip of 14 tablets | Sun Pharmaceutical Industries Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Intracranial arteriosclerosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ticagrelor/' | relative_url }}">View full drug report →</a></p>

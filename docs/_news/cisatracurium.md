@@ -3,7 +3,7 @@ layout: default
 title: "Cisatracurium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cisatracurium. Original indication: . 5 predicted indications."
+description: "Health news related to Cisatracurium. Original indication: . 1 predicted indications."
 permalink: /news/cisatracurium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cisatracurium/
 ---
 
 <p class="key-answer" data-question="What news is there about Cisatracurium?">
-<strong>Cisatracurium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cisatracurium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cisatracurium with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cisblok 20mg Injection (Abbott) | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Cis-Atrabloc 20 Injection (Varenyam Healthcare) | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Cis-Atrabloc 10 Injection (Varenyam Healthcare) | Vial of 5 ml injection | Not stated (99.0%)</li>
-<li>Cisartacil 10mg Injection (Neon Laboratories) | Vial of 5 ml injection | Not stated (99.0%)</li>
-<li>Cisblok 10mg Injection (Abbott) | Vial of 5 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cauda equina syndrome (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cisatracurium/' | relative_url }}">View full drug report →</a></p>

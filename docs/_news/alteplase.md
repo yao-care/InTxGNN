@@ -3,7 +3,7 @@ layout: default
 title: "Alteplase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Alteplase. Original indication: . 2 predicted indications."
+description: "Health news related to Alteplase. Original indication: . 9 predicted indications."
 permalink: /news/alteplase/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Alteplase?">
-<strong>Alteplase</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Alteplase</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,29 +25,28 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Actilyse 50mg Injection (Boehringer Ingelheim) | Vial of 1 Injection | Not listed in the records (99.0%)</li>
-<li>Actilyse 20mg Injection (Boehringer Ingelheim) | Bottle of 20 ml Injection | Not listed in the records (99.0%)</li>
+<li><strong>Predicted indications (9)</strong>:<ul>
+<li>Posteroinferior myocardial infarction (99.8%)</li>
+<li>Posterolateral myocardial infarction (99.8%)</li>
+<li>Septal myocardial infarction (99.8%)</li>
+<li>Heparin cofactor 2 deficiency (99.7%)</li>
+<li>Congenital coronary artery anomaly (99.6%)</li>
+<li>Factor 5 excess with spontaneous thrombosis (99.6%)</li>
+<li>Antithrombin deficiency type 2 (99.6%)</li>
+<li>Thrombophilia (99.4%)</li>
+<li>Coronary stenosis (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Premature menopause linked to higher heart disease risk and insulin levels](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
-
----
-
-### [Office stress, poor sleep and junk food: Habits your heart may not like - Mathrubhumi English](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFVrWFNxc0d4dGZpd0ttMmNzdUlWemVfb3JvTjl3T1VKT0tMSVo5QkdTdnVPU2lLazlad0M5M04tUnBsMHFPdmxwRVdOZ3NhYVZjSFM0cUJlZ3B1WXYyb0lsYmFway1KbjYzTDJFMEotazViX3ptd05tNnNsTGpYMnBkT1RxSnlUOGZ4cHdBWWZPQWR3SWd4YmRHZ1laUEJ4Vl9EUGRqTExqR0daWEJKdkVuTkdLU0RSU1RYTkRKX2pVbFN2NVE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">heart disease</span>
-
-Source: [Mathrubhumi English](https://news.google.com/rss/articles/CBMixgFBVV95cUxNeFVrWFNxc0d4dGZpd0ttMmNzdUlWemVfb3JvTjl3T1VKT0tMSVo5QkdTdnVPU2lLazlad0M5M04tUnBsMHFPdmxwRVdOZ3NhYVZjSFM0cUJlZ3B1WXYyb0lsYmFway1KbjYzTDJFMEotazViX3ptd05tNnNsTGpYMnBkT1RxSnlUOGZ4cHdBWWZPQWR3SWd4YmRHZ1laUEJ4Vl9EUGRqTExqR0daWEJKdkVuTkdLU0RSU1RYTkRKX2pVbFN2NVE?oc=5)
 
 ---
 

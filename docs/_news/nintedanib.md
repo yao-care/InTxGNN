@@ -3,7 +3,7 @@ layout: default
 title: "Nintedanib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nintedanib. Original indication: . 5 predicted indications."
+description: "Health news related to Nintedanib. Original indication: . 1 predicted indications."
 permalink: /news/nintedanib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nintedanib/
 ---
 
 <p class="key-answer" data-question="What news is there about Nintedanib?">
-<strong>Nintedanib</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
+<strong>Nintedanib</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,14 @@ This page combines the AI-predicted indications for Nintedanib with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cyendiv 100mg Soft Gelatin Capsule (Boehringer Ingelheim) | Bottle of 10 soft gelatin capsules | Not stated in the records (99.0%)</li>
-<li>Nintib 150 Soft Gelatin Capsule (Cipla Ltd) | Strip of 10 soft gelatin capsules | Not stated in the records (99.0%)</li>
-<li>Nindev 100mg Soft Gelatin Capsule (Zydus Cadila) | Strip of 10 soft gelatin capsules | Not stated in the records (99.0%)</li>
-<li>Mantedanib Capsule 150mg (Mankind Pharma Ltd) | Strip of 10 capsules | Not stated in the records (99.0%)</li>
-<li>Nintena 150mg Soft Gelatin Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 10 soft gelatin capsules | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Dermatofibrosarcoma protuberans (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nintedanib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -91,6 +87,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

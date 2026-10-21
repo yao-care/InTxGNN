@@ -3,7 +3,7 @@ layout: default
 title: "Sulpiride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sulpiride. Original indication: . 3 predicted indications."
+description: "Health news related to Sulpiride. Original indication: . 1 predicted indications."
 permalink: /news/sulpiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sulpiride/
 ---
 
 <p class="key-answer" data-question="What news is there about Sulpiride?">
-<strong>Sulpiride</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Sulpiride</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Sulpiride with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Stride 400mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Stride 100mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Stride 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulpiride/' | relative_url }}">View full drug report →</a></p>

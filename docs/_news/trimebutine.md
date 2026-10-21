@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Trimebutine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Trimspa 200mg Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 6 tablets | Not stated (99.0%)</li>
+<li>Migraine disorder (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trimebutine/' | relative_url }}">View full drug report →</a></p>

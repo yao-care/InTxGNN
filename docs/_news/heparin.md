@@ -3,7 +3,7 @@ layout: default
 title: "Heparin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Heparin. Original indication: . 5 predicted indications."
+description: "Health news related to Heparin. Original indication: . 1 predicted indications."
 permalink: /news/heparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heparin/
 ---
 
 <p class="key-answer" data-question="What news is there about Heparin?">
-<strong>Heparin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Heparin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Heparin with the latest heal
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Heprin 5000IU Injection | Vial of 1 injection | Not specified (99.0%)</li>
-<li>Heparin Sodium 5000IU Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
-<li>Heparin 25000IU Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
-<li>Hep Lock Solution | Vial of 10 ml injection | Not specified (99.0%)</li>
-<li>Hepgel 250IU Ointment | Tube of 15 g ointment | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Thrombophilia due to protein C deficiency, autosomal recessive (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/heparin/' | relative_url }}">View full drug report →</a></p>

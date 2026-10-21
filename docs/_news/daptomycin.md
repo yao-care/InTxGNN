@@ -3,7 +3,7 @@ layout: default
 title: "Daptomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Daptomycin. Original indication: . 5 predicted indications."
+description: "Health news related to Daptomycin. Original indication: . 1 predicted indications."
 permalink: /news/daptomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/daptomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Daptomycin?">
-<strong>Daptomycin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Daptomycin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Daptomycin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Daptocure 350mg Injection (Emcure) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Dapmicin 350mg Injection (Glenmark) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Daptovan 350mg Injection (German Remedies) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Dapute 350mg Injection (Concord Biotech) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Daptobio 350mg Injection (Biocon) | Vial of 1 injection | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Osteoarthritis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/daptomycin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Cyanocobalamin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyanocobalamin. Original indication: . 5 predicted indications."
+description: "Health news related to Cyanocobalamin. Original indication: . 1 predicted indications."
 permalink: /news/cyanocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyanocobalamin/
 ---
 
 <p class="key-answer" data-question="What news is there about Cyanocobalamin?">
-<strong>Cyanocobalamin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cyanocobalamin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cyanocobalamin with the late
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Polybion Injection 2ml | Ampoule of 5 injections | Not stated in the licence record (99.0%)</li>
-<li>Genoplex-L Syrup | Bottle of 60 ml syrup | Not stated in the licence record (99.0%)</li>
-<li>Bvigor Sublingual tablet Cherry | Strip of 10 sublingual tablets | Not stated in the licence record (99.0%)</li>
-<li>VIB 12 1000mcg Injection | Vial of 1 ml injection | Not stated in the licence record (99.0%)</li>
-<li>Titoebion Injection | Vial of 2 ml injection | Not stated in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Biotin metabolic disease (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyanocobalamin/' | relative_url }}">View full drug report →</a></p>

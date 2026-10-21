@@ -3,7 +3,7 @@ layout: default
 title: "Agomelatine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Agomelatine. Original indication: . 2 predicted indications."
+description: "Health news related to Agomelatine. Original indication: . 1 predicted indications."
 permalink: /news/agomelatine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/agomelatine/
 ---
 
 <p class="key-answer" data-question="What news is there about Agomelatine?">
-<strong>Agomelatine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Agomelatine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Agomelatine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Noveltin Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
-<li>Agoprex Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the compiled records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Benign paroxysmal torticollis of infancy (rank 1); agoraphobia (rank 2) is the more plausible anxiety-related candidate (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/agomelatine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Chlorzoxazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chlorzoxazone. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Chlorzoxazone. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/chlorzoxazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorzoxazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorzoxazone?">
-<strong>Chlorzoxazone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Chlorzoxazone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials** and only **3 indirect publications** (two reviews on vertigo and cerebellar disorders and one mouse...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dicron-MR Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Difquick MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Stalogesic Forte 250mg/50mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Demofen MR 250mg/50mg/325mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Inflacure MR 500mg/50mg/500mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">View full drug report →</a></p>

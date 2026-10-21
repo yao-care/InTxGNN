@@ -3,7 +3,7 @@ layout: default
 title: "Aceclofenac News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Aceclofenac. Original indication: . 10 predicted indications."
+description: "Health news related to Aceclofenac. Original indication: . 1 predicted indications."
 permalink: /news/aceclofenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aceclofenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Aceclofenac?">
-<strong>Aceclofenac</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Aceclofenac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Aceclofenac with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>myosclerosis (99.9%)</li>
-<li>brachyolmia (99.9%)</li>
-<li>pseudoachondroplasia (99.8%)</li>
-<li>hypermobility of coccyx (99.7%)</li>
-<li>rheumatoid vasculitis (99.6%)</li>
-<li>inflammatory spondylopathy (99.6%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.6%)</li>
-<li>Kummell disease (99.6%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aceclofenac/' | relative_url }}">View full drug report →</a></p>

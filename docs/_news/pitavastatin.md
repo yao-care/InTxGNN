@@ -3,7 +3,7 @@ layout: default
 title: "Pitavastatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pitavastatin. Original indication: . 5 predicted indications."
+description: "Health news related to Pitavastatin. Original indication: . 1 predicted indications."
 permalink: /news/pitavastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pitavastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pitavastatin?">
-<strong>Pitavastatin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pitavastatin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pitavastatin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ezenon-P4 Tablet (Indinon Pharma) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Livastat 4 Tablet (Novazen Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Pivasta 4 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Pitava 2mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Pivasta F 2mg/135mg Capsule DR (Zydus Cadila) | Strip of 10 delayed-release capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Homozygous familial hypercholesterolaemia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pitavastatin/' | relative_url }}">View full drug report →</a></p>

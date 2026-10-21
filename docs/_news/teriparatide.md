@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Teriparatide. Original indication: . 5 predicted indications."
+description: "Health news related to Teriparatide. Original indication: . 1 predicted indications."
 permalink: /news/teriparatide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teriparatide/
 ---
 
 <p class="key-answer" data-question="What news is there about Teriparatide?">
-<strong>Teriparatide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Teriparatide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Teriparatide with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Bonspark Injection | Cartridge of 3 ml injection | Integrace Pvt Ltd (99.0%)</li>
-<li>Tricium PTH Injection | Cartridge of 3 ml injection | Corona Remedies Pvt Ltd (99.0%)</li>
-<li>Terifrac Injection | Cartridge of 1 injection | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Osteri 750mcg Solution for Injection | Pre-filled pen of 3 ml | Emcure Pharmaceuticals Ltd (99.0%)</li>
-<li>Gemtide Injection | Pre-filled pen of 2.4 ml | Alkem Laboratories Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Duodenal ulcer (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teriparatide/' | relative_url }}">View full drug report →</a></p>

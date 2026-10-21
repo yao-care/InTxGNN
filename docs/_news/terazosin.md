@@ -3,7 +3,7 @@ layout: default
 title: "Terazosin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Terazosin. Original indication: . 5 predicted indications."
+description: "Health news related to Terazosin. Original indication: . 1 predicted indications."
 permalink: /news/terazosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terazosin/
 ---
 
 <p class="key-answer" data-question="What news is there about Terazosin?">
-<strong>Terazosin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Terazosin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Terazosin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Hypercin 2mg Tablet | Strip of 10 tablets | Not specified in the data (99.0%)</li>
-<li>Hytrin 1 Tablet | Strip of 10 tablets | Not specified in the data (99.0%)</li>
-<li>Teraz 2mg Tablet | Strip of 10 tablets | Not specified in the data (99.0%)</li>
-<li>Zytrin 2mg Tablet | Strip of 10 tablets | Not specified in the data (99.0%)</li>
-<li>Terapress 1 Tablet | Strip of 7 tablets | Not specified in the data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypotrichosis simplex of the scalp (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/terazosin/' | relative_url }}">View full drug report →</a></p>

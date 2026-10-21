@@ -3,7 +3,7 @@ layout: default
 title: "Midazolam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Midazolam. Original indication: . 5 predicted indications."
+description: "Health news related to Midazolam. Original indication: . 1 predicted indications."
 permalink: /news/midazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/midazolam/
 ---
 
 <p class="key-answer" data-question="What news is there about Midazolam?">
-<strong>Midazolam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Midazolam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Midazolam with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Mezolam 5mg Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
-<li>Medistat 0.5mg Tablet | Strip of 1 tablet | Not specified (99.0%)</li>
-<li>Midazom 0.5 Nasal Spray | Bottle of 5 ml nasal spray | Not specified (99.0%)</li>
-<li>Megarest 5mg Injection | Vial of 5 ml injection | Not specified (99.0%)</li>
-<li>Midacip Nasal Spray | Packet of 5 ml nasal spray | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/midazolam/' | relative_url }}">View full drug report →</a></p>

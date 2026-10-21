@@ -3,7 +3,7 @@ layout: default
 title: "Sulfadiazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sulfadiazine. Original indication: . 5 predicted indications."
+description: "Health news related to Sulfadiazine. Original indication: . 1 predicted indications."
 permalink: /news/sulfadiazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sulfadiazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Sulfadiazine?">
-<strong>Sulfadiazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sulfadiazine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sulfadiazine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Salphaz Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Clavora Cream | Tube of 20 gm cream | Not specified (99.0%)</li>
-<li>Silverine 1% Cream | Tube of 20 gm cream | Not specified (99.0%)</li>
-<li>Saphrine 1%/0.2% Ointment | Tube of 15 gm ointment | Not specified (99.0%)</li>
-<li>Silvez Plus 1%/0.2% Cream | Tube of 15 gm cream | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pneumocystosis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulfadiazine/' | relative_url }}">View full drug report →</a></p>

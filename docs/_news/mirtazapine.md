@@ -3,7 +3,7 @@ layout: default
 title: "Mirtazapine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mirtazapine. Original indication: . 5 predicted indications."
+description: "Health news related to Mirtazapine. Original indication: . 1 predicted indications."
 permalink: /news/mirtazapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirtazapine/
 ---
 
 <p class="key-answer" data-question="What news is there about Mirtazapine?">
-<strong>Mirtazapine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Mirtazapine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Mirtazapine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Mirfit 15 Tablet (Ryon Pharma) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Mitraford 30 Tablet (Oxpro Pharma) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Mirtadep 15mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Mirnite 7.5mg Tablet DT (Intas Pharmaceuticals) | Strip of 10 orally disintegrating tablets | Not specified (99.0%)</li>
-<li>Mirzat 7.5mg Tablet (Knoll Pharmaceuticals) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Ohdo syndrome and variants (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirtazapine/' | relative_url }}">View full drug report →</a></p>

@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Pegaptanib with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Macugen 0.3mg Infusion (Pfizer Ltd) | Bottle of 90 ml infusion (injectable) | Not stated in the available data (99.0%)</li>
+<li>Esophageal varices with bleeding (a second prediction, esophageal varices without bleeding, has the same score) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pegaptanib/' | relative_url }}">View full drug report →</a></p>

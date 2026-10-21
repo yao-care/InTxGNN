@@ -3,7 +3,7 @@ layout: default
 title: "Desogestrel News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Desogestrel. Original indication: . 3 predicted indications."
+description: "Health news related to Desogestrel. Original indication: . 1 predicted indications."
 permalink: /news/desogestrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/desogestrel/
 ---
 
 <p class="key-answer" data-question="What news is there about Desogestrel?">
-<strong>Desogestrel</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Desogestrel</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Desogestrel with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Femfolin 50mg Capsule (Lupin Ltd) | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Cerazette Tablet (Organon (India) Ltd) | Strip of 28 tablets | Not stated (99.0%)</li>
-<li>Famylette Tablet (Mylan Pharmaceuticals Pvt Ltd) | Packet of 28 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Amenorrhea (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/desogestrel/' | relative_url }}">View full drug report →</a></p>

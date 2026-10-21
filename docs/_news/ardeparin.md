@@ -26,12 +26,12 @@ This page combines the AI-predicted indications for Ardeparin with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Primary release disorder of platelets | 99.83% | No clear rationale; a bleeding-type platelet defect where an anticoagulant would likely be harmful. Hold (99.0%)</li>
-<li>Pseudo-von Willebrand disease | 99.75% | Bleeding disorder; anticoagulant expected to worsen bleeding. Hold (99.0%)</li>
-<li>Atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 99.74% | Speculative complement-modulating link; standard care is complement inhibition. Research question (99.0%)</li>
-<li>Painful neuropathy | 99.62% | No evident mechanism; likely a graph artefact. Hold (99.0%)</li>
-<li>Thrombotic thrombocytopenic purpura | 99.40% | Mechanism does not match; bleeding risk with severe thrombocytopenia. Hold (99.0%)</li>
-<li>Lomoparin 3500IU Injection (Biological E Ltd) | Vial of 1 ml injection | Not stated in the available licence data (99.0%)</li>
+<li>Thrombophilia due to protein C deficiency, autosomal recessive (99.9%)</li>
+<li>Primary release disorder of platelets (99.8%)</li>
+<li>Pseudo-von Willebrand disease (99.8%)</li>
+<li>Atypical hemolytic-uremic syndrome with thrombomodulin anomaly (99.7%)</li>
+<li>Painful neuropathy (99.6%)</li>
+<li>Thrombotic thrombocytopenic purpura (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ardeparin/' | relative_url }}">View full drug report →</a></p>

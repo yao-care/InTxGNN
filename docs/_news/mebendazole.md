@@ -3,7 +3,7 @@ layout: default
 title: "Mebendazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mebendazole. Original indication: . 5 predicted indications."
+description: "Health news related to Mebendazole. Original indication: . 1 predicted indications."
 permalink: /news/mebendazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mebendazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Mebendazole?">
-<strong>Mebendazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Mebendazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Mebendazole with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Raid Suspension | Suspension, bottle of 10 ml | Not specified in registration data (99.0%)</li>
-<li>Min Min 100mg Tablet | Tablet, strip of 10 | Not specified in registration data (99.0%)</li>
-<li>Mebenth 100mg Tablet | Tablet, strip of 6 | Not specified in registration data (99.0%)</li>
-<li>Sta 500mg Tablet | Tablet, strip of 1 | Not specified in registration data (99.0%)</li>
-<li>Mebex 500mg Tablet | Tablet, strip of 1 (Cipla Ltd) | Not specified in registration data (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acne (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mebendazole/' | relative_url }}">View full drug report →</a></p>

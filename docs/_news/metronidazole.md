@@ -3,7 +3,7 @@ layout: default
 title: "Metronidazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metronidazole. Original indication: . 10 predicted indications."
+description: "Health news related to Metronidazole. Original indication: . 1 predicted indications."
 permalink: /news/metronidazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,37 +25,20 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>pneumocystosis (100.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>ulcerative proctosigmoiditis (99.9%)</li>
-<li>nocardiosis (99.9%)</li>
-<li>postmenopausal atrophic vaginitis (99.8%)</li>
-<li>Cryptococcal meningitis (99.8%)</li>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>myiasis (99.8%)</li>
-<li>cap polyposis (99.7%)</li>
-<li>ulceration of vulva (99.7%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pneumocystosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [4 Osteoporosis Symptoms a Doctor Monitors in Herself and the ‘Critical Window’ for Preventing Bone Loss](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
 
 2026-10-20 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
-
----
-
-### [AI-powered virtual reality could help women manage menopause symptoms](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS1NN1lLdGt3U0d3VThSVElCcEVZQ2s3dmV0UmtuWUtBT3VFOXdlT2l0ajVXNTBGSE90c0N0c0J5ZlNFSzhhUHpTd1haTlFVRWJyV05saUZGNlpuUThveG1aNWhwVWduSFQ0M1FYRExoZGtySG9TTmlEdmU3WThsaUk1Tm1yNzhHVFlBSm00eUFmaFRSS3RXRGZJZWhZN2NMVlpSNlBNRFE2YXRub3phLWc2RzA5bVBr?oc=5)
-
-2026-10-20 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbS1NN1lLdGt3U0d3VThSVElCcEVZQ2s3dmV0UmtuWUtBT3VFOXdlT2l0ajVXNTBGSE90c0N0c0J5ZlNFSzhhUHpTd1haTlFVRWJyV05saUZGNlpuUThveG1aNWhwVWduSFQ0M1FYRExoZGtySG9TTmlEdmU3WThsaUk1Tm1yNzhHVFlBSm00eUFmaFRSS3RXRGZJZWhZN2NMVlpSNlBNRFE2YXRub3phLWc2RzA5bVBr?oc=5)
 
 ---
 

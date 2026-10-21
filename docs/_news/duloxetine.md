@@ -3,7 +3,7 @@ layout: default
 title: "Duloxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Duloxetine. Original indication: . 5 predicted indications."
+description: "Health news related to Duloxetine. Original indication: . 1 predicted indications."
 permalink: /news/duloxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/duloxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Duloxetine?">
-<strong>Duloxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Duloxetine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Duloxetine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dulox 30mg Tablet (Jpee Healthcare) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Diligo 20 Tablet (Salveo Lifecare) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Duvanta NP 20 Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Dulet 30mg Tablet DR (Chemo Healthcare) | Strip of 10 delayed-release tablets | Not stated (99.0%)</li>
-<li>Zidane 40mg Capsule (Cyril Pharmaceuticals) | Strip of 10 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Obsessive-compulsive disorder (rank 3 overall; the rank 1 prediction, benign paroxysmal torticollis of infancy, has no evidence and is not pursued) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">View full drug report →</a></p>

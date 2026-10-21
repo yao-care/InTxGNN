@@ -3,7 +3,7 @@ layout: default
 title: "Stanozolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Stanozolol. Original indication: . 5 predicted indications."
+description: "Health news related to Stanozolol. Original indication: . 1 predicted indications."
 permalink: /news/stanozolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stanozolol/
 ---
 
 <p class="key-answer" data-question="What news is there about Stanozolol?">
-<strong>Stanozolol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Stanozolol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Stanozolol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tanzol 2mg Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
-<li>Stenfil 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Ganzol 2mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Stazol 50 Injection | Ampoule of 1 ml injection | Not stated (99.0%)</li>
-<li>Neurabol Capsule | Strip of 10 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>C1 inhibitor deficiency (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/stanozolol/' | relative_url }}">View full drug report →</a></p>

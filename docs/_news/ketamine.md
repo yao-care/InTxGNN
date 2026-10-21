@@ -3,7 +3,7 @@ layout: default
 title: "Ketamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ketamine. Original indication: . 5 predicted indications."
+description: "Health news related to Ketamine. Original indication: . 1 predicted indications."
 permalink: /news/ketamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketamine/
 ---
 
 <p class="key-answer" data-question="What news is there about Ketamine?">
-<strong>Ketamine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ketamine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ketamine with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ketam 50mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Ketanik Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Ketmin 100mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Oblar 500mg Injection | Vial of 10 ml injection | Not stated (99.0%)</li>
-<li>Ketalar 10mg Injection | Vial of 20 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Headache disorder (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketamine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Tetrabenazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tetrabenazine. Original indication: . 5 predicted indications."
+description: "Health news related to Tetrabenazine. Original indication: . 1 predicted indications."
 permalink: /news/tetrabenazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tetrabenazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Tetrabenazine?">
-<strong>Tetrabenazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tetrabenazine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Tetrabenazine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Atrest 25 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Revocon Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Ticfree Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Ticstop Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Atrest 12.5 Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Polycystic kidney disease 3 with or without polycystic liver disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tetrabenazine/' | relative_url }}">View full drug report →</a></p>

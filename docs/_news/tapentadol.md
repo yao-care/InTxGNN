@@ -3,7 +3,7 @@ layout: default
 title: "Tapentadol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tapentadol. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Tapentadol. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/tapentadol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tapentadol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tapentadol?">
-<strong>Tapentadol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Tapentadol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Tapentadol with the latest h
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **migraine disorder**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** directly evaluating tapentadol in...</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tpd Plus 50mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Tapencet ER 75 Tablet | Strip of 10 extended-release tablets | Not available (99.0%)</li>
-<li>Nudol 50mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Newtap 75mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Dazfast 100mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tapentadol/' | relative_url }}">View full drug report →</a></p>

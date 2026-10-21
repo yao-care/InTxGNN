@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Oxiconazole with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>cutaneous candidiasis (99.8%)</li>
+<li>Cutaneous candidiasis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxiconazole/' | relative_url }}">View full drug report →</a></p>

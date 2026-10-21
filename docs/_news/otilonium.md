@@ -3,7 +3,7 @@ layout: default
 title: "Otilonium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Otilonium. Original indication: . 5 predicted indications."
+description: "Health news related to Otilonium. Original indication: . 1 predicted indications."
 permalink: /news/otilonium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/otilonium/
 ---
 
 <p class="key-answer" data-question="What news is there about Otilonium?">
-<strong>Otilonium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Otilonium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Otilonium with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Obgram 40 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Colirid Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>OB 40mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Menoctyl Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Menoctyl Tablet | Strip of 15 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypertrichosis (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/otilonium/' | relative_url }}">View full drug report →</a></p>

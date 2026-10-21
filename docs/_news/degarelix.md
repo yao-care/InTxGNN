@@ -3,7 +3,7 @@ layout: default
 title: "Degarelix News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Degarelix. Original indication: . 5 predicted indications."
+description: "Health news related to Degarelix. Original indication: . 1 predicted indications."
 permalink: /news/degarelix/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/degarelix/
 ---
 
 <p class="key-answer" data-question="What news is there about Degarelix?">
-<strong>Degarelix</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Degarelix</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Degarelix with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Firmagon 120mg Injection | Vial of 1 injection | Ferring Pharmaceuticals (99.0%)</li>
-<li>Firmagon 80mg Injection | Vial of 1 injection | Ferring Pharmaceuticals (99.0%)</li>
-<li>Degrinta 120mg Injection | Vial of 1 injection | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Degapride 80mg Injection | Vial of 1 injection | Sun Pharmaceutical Industries Ltd (99.0%)</li>
-<li>Deghor 120 Injection | Vial of 1 injection | Glenmark Pharmaceuticals Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypertrichosis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/degarelix/' | relative_url }}">View full drug report →</a></p>

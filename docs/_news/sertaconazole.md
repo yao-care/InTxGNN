@@ -3,7 +3,7 @@ layout: default
 title: "Sertaconazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sertaconazole. Original indication: . 5 predicted indications."
+description: "Health news related to Sertaconazole. Original indication: . 10 predicted indications."
 permalink: /news/sertaconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sertaconazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Sertaconazole?">
-<strong>Sertaconazole</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sertaconazole</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,17 @@ This page combines the AI-predicted indications for Sertaconazole with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sertalin Cream | Tube of 30 gm cream | Not specified (99.0%)</li>
-<li>Seriva 2% Lotion | Bottle of 30 ml lotion | Not specified (99.0%)</li>
-<li>Mycoclin Cream | Tube of 15 gm cream | Not specified (99.0%)</li>
-<li>Trusert 2% Cream | Tube of 30 gm cream | Not specified (99.0%)</li>
-<li>Mycoclin 500mg Tablet VT | Strip of 1 vaginal tablet | Not specified (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Dermatophytosis of groin and perianal area (TxGNN rank 1); the best-supported candidate is Tinea corporis (rank 2) (100.0%)</li>
+<li>Dermatophytosis of groin and perianal area (100.0%)</li>
+<li>Cutaneous candidiasis (99.6%)</li>
+<li>Superficial mycosis (99.5%)</li>
+<li>Pityriasis versicolor (99.5%)</li>
+<li>Dermatophytosis of scalp or beard (99.5%)</li>
+<li>Majocchi granuloma (99.6%)</li>
+<li>Ectothrix infectious disease (99.6%)</li>
+<li>Endothrix infectious disease (99.6%)</li>
+<li>Tinea profunda (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sertaconazole/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Ertapenem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ertapenem. Original indication: . 5 predicted indications."
+description: "Health news related to Ertapenem. Original indication: . 1 predicted indications."
 permalink: /news/ertapenem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ertapenem/
 ---
 
 <p class="key-answer" data-question="What news is there about Ertapenem?">
-<strong>Ertapenem</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ertapenem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ertapenem with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Invanz 1gm Injection (MSD Pharmaceuticals) | Vial of 1 Injection | Not available (99.0%)</li>
-<li>Gerta Injection (Zydus Cadila) | Vial of 1 ml Injection | Not available (99.0%)</li>
-<li>Ertacrit 1gm Injection (Cipla) | Vial of 1 Injection | Not available (99.0%)</li>
-<li>Eczas 1gm Injection (Glenmark) | Vial of 1 Injection | Not available (99.0%)</li>
-<li>Ertamac 1gm Injection (Macleods) | Vial of 1 Injection | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Bacterial arthritis (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ertapenem/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Sulfasalazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sulfasalazine. Original indication: . 5 predicted indications."
+description: "Health news related to Sulfasalazine. Original indication: . 1 predicted indications."
 permalink: /news/sulfasalazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sulfasalazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Sulfasalazine?">
-<strong>Sulfasalazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sulfasalazine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sulfasalazine with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sazomic 500 Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Sulseas DS 1000mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>SSN 500 Tablet DR | Strip of 15 delayed-release tablets | Not available (99.0%)</li>
-<li>Salazopyrin 500mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Salazar Tablet DR | Strip of 10 delayed-release tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Osteoarthritis (TxGNN rank 5; the rank 1 prediction, brachydactyly-syndactyly syndrome, has no supporting evidence) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sulfasalazine/' | relative_url }}">View full drug report →</a></p>

@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Treosulfan with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Emtreo Injection (Emcure Pharmaceuticals Ltd) | Vial of 1 injection | Not stated in the license data (99.0%)</li>
+<li>Diabetic cataract (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/treosulfan/' | relative_url }}">View full drug report →</a></p>

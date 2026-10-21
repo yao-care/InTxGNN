@@ -3,7 +3,7 @@ layout: default
 title: "Leuprolide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Leuprolide. Original indication: . 5 predicted indications."
+description: "Health news related to Leuprolide. Original indication: . 1 predicted indications."
 permalink: /news/leuprolide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/leuprolide/
 ---
 
 <p class="key-answer" data-question="What news is there about Leuprolide?">
-<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Leuprolide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Leuprolide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Bdsure 3.75mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Luprova 22.5mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Endorelin 3.75mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Gonadoreg 3.75mg Injection | Vial of 2 ml injection | Not stated (99.0%)</li>
-<li>Lutrate 3.75mg Injection | Vial of 1 injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Osteoarthritis (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/leuprolide/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Levomilnacipran News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Levomilnacipran. Original indication: . 8 predicted indications."
+description: "Health news related to Levomilnacipran. Original indication: . 6 predicted indications."
 permalink: /news/levomilnacipran/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levomilnacipran/
 ---
 
 <p class="key-answer" data-question="What news is there about Levomilnacipran?">
-<strong>Levomilnacipran</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Levomilnacipran</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,13 @@ This page combines the AI-predicted indications for Levomilnacipran with the lat
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>Agoraphobia | 99.53% | L5 | Plausible, since SNRIs and SSRIs are used in related anxiety and panic disorders, but no supporting studies were found (99.0%)</li>
-<li>Dysthymic disorder | 99.24% | L5 | Closely related to major depressive disorder; no studies found (99.0%)</li>
-<li>Melancholia | 99.20% | L4 | A severe subtype of major depression, so largely the existing indication; literature is indirect (99.0%)</li>
-<li>Neurotic depression | 99.20% | L4 | Historical term overlapping with dysthymia; one animal study is supportive (99.0%)</li>
-<li>Neurotic disorder | 99.19% | L5 | Outdated umbrella category; too vague to be actionable (99.0%)</li>
-<li>Levomil 20 Capsule ER | Strip of 10 extended-release capsules | Not stated (99.0%)</li>
-<li>Levomil 40 Capsule ER | Strip of 10 extended-release capsules | Not stated (99.0%)</li>
-<li>Levomil 80mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>Benign paroxysmal torticollis of infancy (99.5%)</li>
+<li>Agoraphobia (99.5%)</li>
+<li>Dysthymic disorder (99.2%)</li>
+<li>Melancholia (99.2%)</li>
+<li>Neurotic depression (99.2%)</li>
+<li>Neurotic disorder (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levomilnacipran/' | relative_url }}">View full drug report →</a></p>

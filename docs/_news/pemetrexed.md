@@ -3,7 +3,7 @@ layout: default
 title: "Pemetrexed News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pemetrexed. Original indication: . 10 predicted indications."
+description: "Health news related to Pemetrexed. Original indication: . 1 predicted indications."
 permalink: /news/pemetrexed/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pemetrexed/
 ---
 
 <p class="key-answer" data-question="What news is there about Pemetrexed?">
-<strong>Pemetrexed</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Pemetrexed</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Pemetrexed with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>malignant peritoneal mesothelioma (100.0%)</li>
-<li>pleural adenomatoid tumor (100.0%)</li>
-<li>pleural mesothelioma (100.0%)</li>
-<li>pleural epithelioid mesothelioma (100.0%)</li>
-<li>pleural sarcomatoid mesothelioma (100.0%)</li>
-<li>pleural biphasic mesothelioma (100.0%)</li>
-<li>pericardium cancer (100.0%)</li>
-<li>well differentiated papillary mesothelioma (100.0%)</li>
-<li>lymphohistiocytoid mesothelioma (100.0%)</li>
-<li>iminoglycinuria (100.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Malignant peritoneal mesothelioma (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pemetrexed/' | relative_url }}">View full drug report →</a></p>

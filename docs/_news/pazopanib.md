@@ -3,7 +3,7 @@ layout: default
 title: "Pazopanib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pazopanib. Original indication: . 5 predicted indications."
+description: "Health news related to Pazopanib. Original indication: . 1 predicted indications."
 permalink: /news/pazopanib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pazopanib/
 ---
 
 <p class="key-answer" data-question="What news is there about Pazopanib?">
-<strong>Pazopanib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pazopanib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pazopanib with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Votrient 200mg Tablet | Bottle of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd (99.0%)</li>
-<li>Votrient 400mg Tablet | Strip of 30 tablets | Glaxo SmithKline Pharmaceuticals Ltd (99.0%)</li>
-<li>Pazoci 200 Tablet | Bottle of 30 tablets | Cipla Ltd (99.0%)</li>
-<li>Pazoci 400 Tablet | Bottle of 30 tablets | Cipla Ltd (99.0%)</li>
-<li>Pazocam 200mg Tablet | Bottle of 30 tablets | Medicamen Biotech Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Unclassified renal cell carcinoma (rank 3; ranks 1 and 2 have no supporting evidence) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pazopanib/' | relative_url }}">View full drug report →</a></p>

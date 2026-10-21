@@ -3,7 +3,7 @@ layout: default
 title: "Ofatumumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ofatumumab. Original indication: . 8 predicted indications."
+description: "Health news related to Ofatumumab. Original indication: . 1 predicted indications."
 permalink: /news/ofatumumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ofatumumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ofatumumab?">
-<strong>Ofatumumab</strong> currently has <strong>0 news articles</strong>, with 8 predicted indications.
+<strong>Ofatumumab</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ This page combines the AI-predicted indications for Ofatumumab with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (8)</strong>:<ul>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.8%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.8%)</li>
-<li>follicular lymphoma (99.7%)</li>
-<li>leukemia, lymphocytic, susceptibility to (99.6%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma (99.5%)</li>
-<li>metastatic neoplasm (99.5%)</li>
-<li>malignant spiradenoma (99.5%)</li>
-<li>Langerhans cell histiocytosis (99.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Follicular lymphoma (the highest-evidence candidate; the top two predictions by score are CLL/SLL molecular subtypes with no specific evidence) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ofatumumab/' | relative_url }}">View full drug report →</a></p>

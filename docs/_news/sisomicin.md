@@ -3,7 +3,7 @@ layout: default
 title: "Sisomicin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sisomicin. Original indication: . 5 predicted indications."
+description: "Health news related to Sisomicin. Original indication: . 1 predicted indications."
 permalink: /news/sisomicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sisomicin/
 ---
 
 <p class="key-answer" data-question="What news is there about Sisomicin?">
-<strong>Sisomicin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sisomicin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sisomicin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sisorest Cream | Cream, 15 g tube | Not available (99.0%)</li>
-<li>Sisoptin 10mg Injection | Injection, 1 ml vial | Not available (99.0%)</li>
-<li>Sisocin Eye Drop | Eye drop, 3 ml | Not available (99.0%)</li>
-<li>Sisoptin 50mg Injection | Injection, 1 ml vial | Not available (99.0%)</li>
-<li>Sisowill 0.1% Cream | Cream, 10 g tube | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Osteoarthritis (98.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sisomicin/' | relative_url }}">View full drug report →</a></p>

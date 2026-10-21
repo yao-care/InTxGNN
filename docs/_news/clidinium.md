@@ -3,7 +3,7 @@ layout: default
 title: "Clidinium News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clidinium. Original indication: . 5 predicted indications."
+description: "Health news related to Clidinium. Original indication: . 1 predicted indications."
 permalink: /news/clidinium/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clidinium/
 ---
 
 <p class="key-answer" data-question="What news is there about Clidinium?">
-<strong>Clidinium</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Clidinium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Clidinium with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>StayHappi Clidinium+Chlordiazepoxide+Dicyclomine Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
-<li>Avidip Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
-<li>Coldax Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
-<li>Calm Spas Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
-<li>Zibra Tablet | Strip of 10 tablets | Not stated in the licence records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Peptic ulcer disease (rank 4 of the model's predictions; selected as the best-supported candidate. The top-ranked prediction, cauda equina syndrome, scores 99.93% but has no evidence) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clidinium/' | relative_url }}">View full drug report →</a></p>

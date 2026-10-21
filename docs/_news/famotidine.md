@@ -3,7 +3,7 @@ layout: default
 title: "Famotidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Famotidine. Original indication: . 5 predicted indications."
+description: "Health news related to Famotidine. Original indication: . 1 predicted indications."
 permalink: /news/famotidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/famotidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Famotidine?">
-<strong>Famotidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Famotidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Famotidine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Famomeg 40mg Tablet (Ridhima Biocare) | Strip of 14 tablets | Not stated in records (99.0%)</li>
-<li>Famogreat 40mg Tablet (Mankind Pharma Ltd) | Strip of 14 tablets | Not stated in records (99.0%)</li>
-<li>Fadine 20mg Tablet (Aristo Pharmaceuticals Pvt Ltd) | Strip of 14 tablets | Not stated in records (99.0%)</li>
-<li>Litz 40mg Tablet (Glitz Pharma) | Strip of 10 tablets | Not stated in records (99.0%)</li>
-<li>Famopril 20mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Duodenogastric reflux (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/famotidine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Niacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Niacin. Original indication: . 2 predicted indications."
+description: "Health news related to Niacin. Original indication: . 1 predicted indications."
 permalink: /news/niacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/niacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Niacin?">
-<strong>Niacin</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Niacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Niacin with the latest healt
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Nialip 250mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 7 tablets | Not specified (99.0%)</li>
-<li>Nicoglow 250mg Tablet (Glowderma Labs Pvt Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Homozygous familial hypercholesterolemia (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/niacin/' | relative_url }}">View full drug report →</a></p>

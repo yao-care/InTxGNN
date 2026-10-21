@@ -3,7 +3,7 @@ layout: default
 title: "Trimetazidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trimetazidine. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Trimetazidine. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/trimetazidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trimetazidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Trimetazidine?">
-<strong>Trimetazidine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Trimetazidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Trimetazidine with the lates
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **Endolymphatic Hydrops**, the pathological correlate of Ménière's disease, with **0 clinical trials** and **5 publications** (2 small double-blind...</li>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cytopill 35mg Tablet SR | Strip of 10 sustained-release tablets | Not listed (99.0%)</li>
-<li>Flavedon MR Tablet | Strip of 10 modified-release tablets | Not listed (99.0%)</li>
-<li>Timzid-MR Tablet | Strip of 15 modified-release tablets | Not listed (99.0%)</li>
-<li>Trilong 60mg Capsule | Strip of 10 capsules | Not listed (99.0%)</li>
-<li>Prodium 20mg Tablet | Strip of 10 tablets | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Endolymphatic hydrops (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trimetazidine/' | relative_url }}">View full drug report →</a></p>

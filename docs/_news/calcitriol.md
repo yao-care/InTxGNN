@@ -3,7 +3,7 @@ layout: default
 title: "Calcitriol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Calcitriol. Original indication: . 5 predicted indications."
+description: "Health news related to Calcitriol. Original indication: . 1 predicted indications."
 permalink: /news/calcitriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcitriol/
 ---
 
 <p class="key-answer" data-question="What news is there about Calcitriol?">
-<strong>Calcitriol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Calcitriol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Calcitriol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cal-Aid Soft Gelatin Capsule | Strip of 15 soft gelatin capsules | Indoco Remedies Ltd (99.0%)</li>
-<li>Laretol 1mcg Injection | Ampoule of 1 ml injection | La Renon Healthcare Pvt Ltd (99.0%)</li>
-<li>Calcirol 600000IU Injection | Packet of 6 injections | Cadila Pharmaceuticals Ltd (99.0%)</li>
-<li>Ritocal CT 0.25mcg Tablet | Strip of 10 tablets | Bodycare Pharmaceuticals (99.0%)</li>
-<li>Calcijet Injection | Ampoule of 1 ml injection | LG Lifesciences (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Obsolete vitamin D deficiency (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcitriol/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Dexamethasone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dexamethasone. Original indication: . 5 predicted indications."
+description: "Health news related to Dexamethasone. Original indication: . 1 predicted indications."
 permalink: /news/dexamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexamethasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexamethasone?">
-<strong>Dexamethasone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dexamethasone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dexamethasone with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Wymesone 4mg Injection (Pfizer Ltd) | Vial of 2 ml injection | Not specified (99.0%)</li>
-<li>Decamycin 4mg Injection (Sun Pharmaceutical Industries Ltd) | Vial of 20 ml injection | Not specified (99.0%)</li>
-<li>Dexford 8mg Tablet (Garwyn Remedies) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Dexona Tablet (Zydus Cadila) | Strip of 30 tablets | Not specified (99.0%)</li>
-<li>Dexacort Eye Drop (Kaizen Pharmaceuticals Pvt Ltd) | Packet of 5 ml eye drop | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Alopecia areata (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">View full drug report →</a></p>

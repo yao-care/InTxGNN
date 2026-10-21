@@ -3,7 +3,7 @@ layout: default
 title: "Ziprasidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ziprasidone. Original indication: . 5 predicted indications."
+description: "Health news related to Ziprasidone. Original indication: . 1 predicted indications."
 permalink: /news/ziprasidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ziprasidone/
 ---
 
 <p class="key-answer" data-question="What news is there about Ziprasidone?">
-<strong>Ziprasidone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ziprasidone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ziprasidone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Zipra 20mg Capsule | Strip of 10 capsules | Zydus Cadila (99.0%)</li>
-<li>Zipris 20mg Capsule | Strip of 10 capsules | Sunrise Remedies Pvt Ltd (99.0%)</li>
-<li>Zipral 40mg Capsule | Strip of 10 capsules | Lifecare Neuro Products Ltd (99.0%)</li>
-<li>Azona 40mg Capsule | Strip of 10 capsules | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Zipradep 80mg Tablet | Strip of 10 tablets | Emco Biotech (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Trichotillomania (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ziprasidone/' | relative_url }}">View full drug report →</a></p>

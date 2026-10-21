@@ -3,7 +3,7 @@ layout: default
 title: "Tacrolimus News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Tacrolimus. Original indication: . 5 predicted indications."
+description: "Health news related to Tacrolimus. Original indication: . 1 predicted indications."
 permalink: /news/tacrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="What news is there about Tacrolimus?">
-<strong>Tacrolimus</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Tacrolimus</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Tacrolimus with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tames Forte Ointment (Ampra Pharmaceuticals) | Tube of 10 gm ointment | Not recorded (99.0%)</li>
-<li>Advagraf 1mg Capsule PR (Astellas Pharma) | Strip of 10 prolonged-release capsules | Not recorded (99.0%)</li>
-<li>Takfa 0.25 Capsule (Intas Pharmaceuticals) | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Tacrolim 1mg Capsule (Dr Reddy's Laboratories) | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Rengraf 0.5mg Capsule (Abbott) | Strip of 10 capsules | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Seborrheic dermatitis (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">View full drug report →</a></p>

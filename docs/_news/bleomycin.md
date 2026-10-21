@@ -3,7 +3,7 @@ layout: default
 title: "Bleomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bleomycin. Original indication: . 11 predicted indications."
+description: "Health news related to Bleomycin. Original indication: . 7 predicted indications."
 permalink: /news/bleomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bleomycin/
 ---
 
 <p class="key-answer" data-question="What news is there about Bleomycin?">
-<strong>Bleomycin</strong> currently has <strong>9 news articles</strong>, with 11 predicted indications.
+<strong>Bleomycin</strong> currently has <strong>10 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,24 +25,20 @@ This page combines the AI-predicted indications for Bleomycin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>Cauda equina neoplasm | 99.30% | L5 | Hold (99.0%)</li>
-<li>Adult astrocytic tumour | 99.28% | L3 | Research Question (99.0%)</li>
-<li>Reticulum cell sarcoma | 99.14% | L1 | Proceed with Guardrails (99.0%)</li>
-<li>Primary pulmonary lymphoma | 99.10% | L4 | Research Question (99.0%)</li>
-<li>Pulmonary blastoma | 99.04% | L4 | Hold (99.0%)</li>
-<li>Well-differentiated fetal adenocarcinoma of the lung | 99.03% | L5 | Hold (99.0%)</li>
-<li>Bleomycin Sulphate Injection (Dabur India Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Oncobleo 15IU Injection (Sun Pharmaceutical Industries Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Bledmax 15mg Injection (Max India Ltd) | Vial of 1 powder for injection | Not stated (99.0%)</li>
-<li>Bleotex 15IU Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Tumocin 15IU Injection (Neon Laboratories Ltd) | Vial of 1 ml injection | Not stated (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Cauda equina neoplasm (top-ranked prediction) (99.3%)</li>
+<li>Cauda equina neoplasm (99.3%)</li>
+<li>Adult astrocytic tumour (99.3%)</li>
+<li>Reticulum cell sarcoma (99.1%)</li>
+<li>Primary pulmonary lymphoma (99.1%)</li>
+<li>Pulmonary blastoma (99.0%)</li>
+<li>Well-differentiated fetal adenocarcinoma of the lung (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bleomycin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5)
 
@@ -97,6 +93,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZ
 2026-10-19 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc2RINW1tUVptSHVuTlZULWJmb19wRUYxTTBpdG9peWhFMUZlVlp5eUI2OTZvQzk3cTRGWWhjSkh0OFdJZjBlYWlBRFVYdXVHM0tHS01zem5XdmxRVGFzQzc2WXRiRDdPYTZiNU9Ub3FVRkFJS29uTGVyNUpoS3M4S3UyTEE4QmFfVTNDZkoyYVREVEdSTVVUMW9xdXktRkZQbE1JbTI2QThmbGR5NzNZZHBUQnZzWk1PQTFr?oc=5)
+
+---
+
+### [Is India's quitting tobacco?: NFHS-6 says yes, but recent data tells a different story - Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Deccan Herald](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JpVE5SZ0JuSkhIaTZxbjZiVjJuN3NDRnZmN1dmdGwyU2JSZzAxcEd4bzR5eUtJa3hyRVd1YWZUM1ZiaDdFaGJmUGdLdzlvTjN5ZU1Ga0liX003NDZwUGZkTUpORDFfMzc5dlBDV1gtMTNkX3dxQlV5ZktGX3NLM05yWlpkMWd2eFhIZDlPai0yekJldzk0R241bXNGSjhwQ2VQaEFnTFJoOXZPMy1Ob05HVloyNnExcm5UVURyM0dNVHhsdlVMalB2TkJyUUFGN2R3?oc=5)
 
 ---
 

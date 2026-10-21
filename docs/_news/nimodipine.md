@@ -3,7 +3,7 @@ layout: default
 title: "Nimodipine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Nimodipine. Original indication: . 5 predicted indications."
+description: "Health news related to Nimodipine. Original indication: . 1 predicted indications."
 permalink: /news/nimodipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nimodipine/
 ---
 
 <p class="key-answer" data-question="What news is there about Nimodipine?">
-<strong>Nimodipine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Nimodipine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Nimodipine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Caldip 10mg Infusion | Bottle of 10 infusions | Not stated (99.0%)</li>
-<li>Nimocer 30mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Nimotide 30mg Tablet | Strip of 6 tablets | Not stated (99.0%)</li>
-<li>Vasotop 30mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Vasotop 30mg Infusion | Bottle of 50 ml infusion | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Homozygous familial hypercholesterolemia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nimodipine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Orlistat News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Orlistat. Original indication: . 5 predicted indications."
+description: "Health news related to Orlistat. Original indication: . 1 predicted indications."
 permalink: /news/orlistat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/orlistat/
 ---
 
 <p class="key-answer" data-question="What news is there about Orlistat?">
-<strong>Orlistat</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Orlistat</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Orlistat with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Finostat 60mg Capsule | Strip of 10 capsules | Cubit Healthcare (99.0%)</li>
-<li>Ishape 60mg Capsule | Strip of 10 capsules | Primus Pharmaceuticals (99.0%)</li>
-<li>Ishape 120mg Capsule | Strip of 10 capsules | Primus Pharmaceuticals (99.0%)</li>
-<li>Ultislim 120mg Tablet | Strip of 10 tablets | Akumentis Healthcare Ltd (99.0%)</li>
-<li>Orli-Misia 120mg Tablet | Strip of 10 tablets | Concord Drugs Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hypervitaminosis (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orlistat/' | relative_url }}">View full drug report →</a></p>

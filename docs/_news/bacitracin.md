@@ -3,7 +3,7 @@ layout: default
 title: "Bacitracin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bacitracin. Original indication: . 5 predicted indications."
+description: "Health news related to Bacitracin. Original indication: . 1 predicted indications."
 permalink: /news/bacitracin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bacitracin/
 ---
 
 <p class="key-answer" data-question="What news is there about Bacitracin?">
-<strong>Bacitracin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Bacitracin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Bacitracin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Neosporin Eye Drop | Eye drop, 10 ml | Not specified (99.0%)</li>
-<li>Neosporin Antibiotic Ointment | Ointment, 10 g tube | Not specified (99.0%)</li>
-<li>Neosporin Ointment | Ointment, 10 g tube | Not specified (99.0%)</li>
-<li>Neosporin Dusting Powder | Dusting powder, 10 g | Not specified (99.0%)</li>
-<li>Nebasulf Ointment | Ointment, 5 g tube | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Punctate epithelial keratoconjunctivitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bacitracin/' | relative_url }}">View full drug report →</a></p>

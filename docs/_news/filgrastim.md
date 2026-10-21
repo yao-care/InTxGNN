@@ -3,7 +3,7 @@ layout: default
 title: "Filgrastim News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Filgrastim. Original indication: . 5 predicted indications."
+description: "Health news related to Filgrastim. Original indication: . 1 predicted indications."
 permalink: /news/filgrastim/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/filgrastim/
 ---
 
 <p class="key-answer" data-question="What news is there about Filgrastim?">
-<strong>Filgrastim</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Filgrastim</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Filgrastim with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Fillif 300mcg Injection (Torrent) | Prefilled syringe, 1 ml | Not stated (99.0%)</li>
-<li>Ferograstim 300mcg Injection (Feron Healthcare) | Vial | Not stated (99.0%)</li>
-<li>Grastim Injection (Dr Reddy's) | Vial, 1 ml | Not stated (99.0%)</li>
-<li>Xgrast 300mcg Injection (Emcure) | Vial, 1 ml | Not stated (99.0%)</li>
-<li>Neukine 300mcg Injection (Intas) | Prefilled syringe, 1 ml | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Primary release disorder of platelets (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/filgrastim/' | relative_url }}">View full drug report →</a></p>

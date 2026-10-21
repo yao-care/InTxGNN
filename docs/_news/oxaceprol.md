@@ -3,7 +3,7 @@ layout: default
 title: "Oxaceprol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxaceprol. Original indication: . 5 predicted indications."
+description: "Health news related to Oxaceprol. Original indication: . 1 predicted indications."
 permalink: /news/oxaceprol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxaceprol/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxaceprol?">
-<strong>Oxaceprol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Oxaceprol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Oxaceprol with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Oxasoft 200mg Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Kneerol OD Tablet SR | Strip of 10 SR tablets | Not recorded (99.0%)</li>
-<li>Trueceprol OD Tablet SR | Strip of 10 SR tablets | Not recorded (99.0%)</li>
-<li>Zextra Capsule | Strip of 10 capsules | Not recorded (99.0%)</li>
-<li>Ceprol Tablet SR | Strip of 10 SR tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Spondyloarthropathy, susceptibility to (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxaceprol/' | relative_url }}">View full drug report →</a></p>

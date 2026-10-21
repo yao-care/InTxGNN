@@ -3,7 +3,7 @@ layout: default
 title: "Idebenone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Idebenone. Original indication: . 5 predicted indications."
+description: "Health news related to Idebenone. Original indication: . 1 predicted indications."
 permalink: /news/idebenone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/idebenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Idebenone?">
-<strong>Idebenone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Idebenone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Idebenone with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Norwayz Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>IDEBEST 45MG TABLET | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Cebrol 45mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>ID-45 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Benovat 45mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Hepatic porphyria (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/idebenone/' | relative_url }}">View full drug report →</a></p>

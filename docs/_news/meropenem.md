@@ -3,7 +3,7 @@ layout: default
 title: "Meropenem News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Meropenem. Original indication: . 10 predicted indications."
+description: "Health news related to Meropenem. Original indication: . 1 predicted indications."
 permalink: /news/meropenem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meropenem/
 ---
 
 <p class="key-answer" data-question="What news is there about Meropenem?">
-<strong>Meropenem</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Meropenem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Meropenem with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>bacterial arthritis (99.9%)</li>
-<li>epiglottitis (99.9%)</li>
-<li>staphylococcus aureus infection (99.8%)</li>
-<li>laryngitis (99.6%)</li>
-<li>paratyphoid fever (99.6%)</li>
-<li>urinary tract infection (disease) (99.5%)</li>
-<li>Lyme disease (99.5%)</li>
-<li>Peptostreptococcus infectious disease (99.4%)</li>
-<li>gonococcal urethritis (99.3%)</li>
-<li>Ureaplasma urethritis (99.3%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Bacterial arthritis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/meropenem/' | relative_url }}">View full drug report →</a></p>

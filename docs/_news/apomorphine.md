@@ -3,7 +3,7 @@ layout: default
 title: "Apomorphine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Apomorphine. Original indication: . 2 predicted indications."
+description: "Health news related to Apomorphine. Original indication: . 1 predicted indications."
 permalink: /news/apomorphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/apomorphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Apotab 2 Sublingual tablet (Alteus Biogenics Pvt Ltd) | Strip of 10 sublingual tablets | Not stated in the data compiled (99.0%)</li>
-<li>Zyprima 3mg Tablet (Zydus Cadila) | Strip of 4 sublingual tablets | Not stated in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (L5, no evidence). Best-supported: schizophrenia (rank 5) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Digoxin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Digoxin. Original indication: . 5 predicted indications."
+description: "Health news related to Digoxin. Original indication: . 1 predicted indications."
 permalink: /news/digoxin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/digoxin/
 ---
 
 <p class="key-answer" data-question="What news is there about Digoxin?">
-<strong>Digoxin</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Digoxin</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,24 +25,28 @@ This page combines the AI-predicted indications for Digoxin with the latest heal
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cardioxin 0.25mg Tablet | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
-<li>Lanoxin Tablet | Strip of 10 tablets | Not stated in the available records (99.0%)</li>
-<li>Lanoxin Syrup | Bottle of 30 ml syrup | Not stated in the available records (99.0%)</li>
-<li>Dixin 0.25mg Injection | Vial of 2 injections | Not stated in the available records (99.0%)</li>
-<li>Sangoxin 0.25mg Tablet | Strip of 14 tablets | Not stated in the available records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Prinzmetal angina (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Low daily step counts linked to dementia, Parkinson's and stroke - Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
+### [AI model analyses DNA to identify people at higher risk of stroke](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
 
-2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-20 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigAFBVV95cUxPSW1jaEdCeUc5bHZtLWEzXzZuVlc4eHF1bHQzeUFMNzVsNDRsTFF1RnNSVVBWdFZrUHFtUzNQWmp4bWFDeXhPWnZnOWZNd1c4ZTFjVEFNODZiU1JvdlJCNE9DYmpaeXVrMDRGNVYzeDNHTWZuZ2l2cm45RG5FUEdhNg?oc=5)
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
+
+---
+
+### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
 
 ---
 

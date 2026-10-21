@@ -3,7 +3,7 @@ layout: default
 title: "Flurbiprofen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flurbiprofen. Original indication: . 5 predicted indications."
+description: "Health news related to Flurbiprofen. Original indication: . 1 predicted indications."
 permalink: /news/flurbiprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/flurbiprofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Flurbiprofen?">
-<strong>Flurbiprofen</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Flurbiprofen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Flurbiprofen with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Migrid 10mg Tablet | Strip of 10 tablets (oral) (99.0%)</li>
-<li>Migrid 5mg Tablet | Strip of 10 tablets (oral) (99.0%)</li>
-<li>Gatidrops FP Eye Drop | Bottle of 5 ml eye drop (99.0%)</li>
-<li>Ocuflur Eye Ointment | Tube of 5 gm eye ointment (99.0%)</li>
-<li>Flur Ophthalmic Solution | Packet of 10 ml ophthalmic solution (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flurbiprofen/' | relative_url }}">View full drug report →</a></p>

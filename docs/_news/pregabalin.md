@@ -3,7 +3,7 @@ layout: default
 title: "Pregabalin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Pregabalin. Original indication: . 5 predicted indications."
+description: "Health news related to Pregabalin. Original indication: . 1 predicted indications."
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="What news is there about Pregabalin?">
-<strong>Pregabalin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Pregabalin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Pregabalin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pregalin SR 150 Tablet (Torrent Pharmaceuticals) | Strip of 10 SR tablets | Not stated in records (99.0%)</li>
-<li>Pregabid 150 Capsule (Intas Pharmaceuticals) | Strip of 10 capsules | Not stated in records (99.0%)</li>
-<li>Preega 150 Tablet (Talent India) | Strip of 10 tablets | Not stated in records (99.0%)</li>
-<li>Pregamax-D Capsule (Winmark Pharmaceuticals) | Strip of 10 capsules | Not stated in records (99.0%)</li>
-<li>Veintree 50mg Tablet (Zenolia Life Science) | Strip of 10 tablets | Not stated in records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine disorder (best-supported candidate; the rank 1 prediction, tendinitis, has a TxGNN score of 99.71% but only indirect literature, so evidence level L4) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Doxycycline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxycycline. Original indication: . 5 predicted indications."
+description: "Health news related to Doxycycline. Original indication: . 1 predicted indications."
 permalink: /news/doxycycline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doxycycline/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxycycline?">
-<strong>Doxycycline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Doxycycline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Doxycycline with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pydox 100mg Tablet | Strip of 10 tablets | Pifer Pharmaceuticals Pvt Ltd (99.0%)</li>
-<li>Amdoxy Capsule | Strip of 10 capsules | Ampira Biotechnics Pvt Ltd (99.0%)</li>
-<li>Doxicip LB Capsule | Strip of 10 capsules | Cipla Ltd (99.0%)</li>
-<li>Doxytab 100mg Tablet | Strip of 8 tablets | Intas Pharmaceuticals Ltd (99.0%)</li>
-<li>Dcyline 100mg Injection | Vial of 1 injection | Dr. Edwin Lab (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Punctate epithelial keratoconjunctivitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxycycline/' | relative_url }}">View full drug report →</a></p>

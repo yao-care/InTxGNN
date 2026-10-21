@@ -3,7 +3,7 @@ layout: default
 title: "Ethambutol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ethambutol. Original indication: . 5 predicted indications."
+description: "Health news related to Ethambutol. Original indication: . 1 predicted indications."
 permalink: /news/ethambutol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ethambutol/
 ---
 
 <p class="key-answer" data-question="What news is there about Ethambutol?">
-<strong>Ethambutol</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ethambutol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ethambutol with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sunibutol 800mg Tablet | Strip of 10 tablets | Sunij Pharma Pvt Ltd (99.0%)</li>
-<li>Sunibutol 600mg Tablet | Strip of 10 tablets | Sunij Pharma Pvt Ltd (99.0%)</li>
-<li>EBL 800mg Tablet | Strip of 10 tablets | Acron Pharmaceuticals (99.0%)</li>
-<li>Combutol 200 Tablet | Strip of 10 tablets | Lupin Ltd (99.0%)</li>
-<li>CAVIBUTOL 200MG TABLET | Strip of 10 tablets | Wockhardt Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Epiglottitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethambutol/' | relative_url }}">View full drug report →</a></p>

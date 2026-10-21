@@ -3,7 +3,7 @@ layout: default
 title: "Meloxicam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Meloxicam. Original indication: . 5 predicted indications."
+description: "Health news related to Meloxicam. Original indication: . 1 predicted indications."
 permalink: /news/meloxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meloxicam/
 ---
 
 <p class="key-answer" data-question="What news is there about Meloxicam?">
-<strong>Meloxicam</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Meloxicam</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Meloxicam with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Muvik 15mg Tablet (Lesanto Laboratories) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Movac 15mg Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>M-Cam 7.5mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Melotross 5mg Infusion (Kaytross Health Care) | Bottle of 100 ml infusion | Not available (99.0%)</li>
-<li>Rafree 7.5mg Tablet (Dr Reddy's Laboratories Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/meloxicam/' | relative_url }}">View full drug report →</a></p>

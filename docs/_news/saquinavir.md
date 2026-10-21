@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Saquinavir with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Saquin 500mg Tablet (Hetero Drugs Ltd) | Oral, strip of 10 tablets | — (not stated in the registration record) (99.0%)</li>
+<li>Feline acquired immunodeficiency syndrome (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/saquinavir/' | relative_url }}">View full drug report →</a></p>

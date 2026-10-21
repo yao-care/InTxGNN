@@ -3,7 +3,7 @@ layout: default
 title: "Bepotastine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bepotastine. Original indication: . 5 predicted indications."
+description: "Health news related to Bepotastine. Original indication: . 1 predicted indications."
 permalink: /news/bepotastine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bepotastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Bepotastine?">
-<strong>Bepotastine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Bepotastine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Bepotastine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Beipos Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Lupin Bepogra Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Bepomac Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Bepotosin Eye Drop | Bottle of 5 ml ophthalmic solution | Not specified (99.0%)</li>
-<li>Optistat Eye Drop | Bottle of 5 ml eye drop | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Allergic urticaria (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bepotastine/' | relative_url }}">View full drug report →</a></p>

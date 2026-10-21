@@ -3,7 +3,7 @@ layout: default
 title: "Clofarabine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clofarabine. Original indication: . 2 predicted indications."
+description: "Health news related to Clofarabine. Original indication: . 5 predicted indications."
 permalink: /news/clofarabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clofarabine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clofarabine?">
-<strong>Clofarabine</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Clofarabine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,12 @@ This page combines the AI-predicted indications for Clofarabine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Farabine 20mg Injection | Vial of 1 injection | Not stated in the data compiled (99.0%)</li>
-<li>Cfara Injection | Vial of 20 ml injection | Not stated in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Myeloid leukemia (99.9%)</li>
+<li>Precursor lymphoblastic lymphoma/leukemia (99.6%)</li>
+<li>Acute lymphoblastic leukemia (99.3%)</li>
+<li>Blast phase chronic myelogenous leukemia (99.4%)</li>
+<li>Neuroblastoma (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clofarabine/' | relative_url }}">View full drug report →</a></p>

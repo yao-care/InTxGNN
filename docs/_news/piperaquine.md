@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Piperaquine with the latest 
 <li><strong>Original indication</strong>: Other predictions (echinococcosis, mastocytosis, nocardiosis, juvenile arthritis, enterobiasis) rest on the model score alone, with no clinical evidence and no plausible mechanistic link.</li>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Fal-DP Capsule (Zuventus Healthcare Ltd) | Strip of 3 capsules | Not stated in the compiled data (99.0%)</li>
+<li>Plasmodium vivax malaria (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/piperaquine/' | relative_url }}">View full drug report →</a></p>

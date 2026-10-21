@@ -3,7 +3,7 @@ layout: default
 title: "Eletriptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Eletriptan. Original indication: . 2 predicted indications."
+description: "Health news related to Eletriptan. Original indication: . 1 predicted indications."
 permalink: /news/eletriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eletriptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Eletriptan?">
-<strong>Eletriptan</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Eletriptan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Eletriptan with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Elipran 20 Tablet (Intas Pharmaceuticals Ltd) | Strip of 4 tablets | Not specified in the data compiled (99.0%)</li>
-<li>Elipran 40 Tablet (Intas Pharmaceuticals Ltd) | Strip of 4 tablets | Not specified in the data compiled (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with brainstem aura (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eletriptan/' | relative_url }}">View full drug report →</a></p>

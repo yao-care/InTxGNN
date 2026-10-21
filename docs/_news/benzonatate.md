@@ -3,7 +3,7 @@ layout: default
 title: "Benzonatate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Benzonatate. Original indication: . 2 predicted indications."
+description: "Health news related to Benzonatate. Original indication: . 1 predicted indications."
 permalink: /news/benzonatate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/benzonatate/
 ---
 
 <p class="key-answer" data-question="What news is there about Benzonatate?">
-<strong>Benzonatate</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Benzonatate</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Benzonatate with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Lupin's Benz Pearls Capsule | Strip of 10 soft gelatin capsules | Not stated (99.0%)</li>
-<li>Benz 100mg Capsule | Strip of 12 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cauda equina syndrome (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/benzonatate/' | relative_url }}">View full drug report →</a></p>

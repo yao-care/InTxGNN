@@ -3,7 +3,7 @@ layout: default
 title: "Rosuvastatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rosuvastatin. Original indication: . 5 predicted indications."
+description: "Health news related to Rosuvastatin. Original indication: . 1 predicted indications."
 permalink: /news/rosuvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rosuvastatin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rosuvastatin?">
-<strong>Rosuvastatin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rosuvastatin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Rosuvastatin with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rosutime 10mg Tablet (TTK Healthcare Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Rosmi 5mg Tablet (Cadila Pharmaceuticals Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Crevast 20 Tablet (Eris Lifesciences Ltd) | Strip of 15 tablets | Not specified (99.0%)</li>
-<li>Rosuvas 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Rosave CV 20mg/75mg Capsule (Alembic Pharmaceuticals Ltd) | Strip of 10 capsules | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Cholesterol-ester transfer protein deficiency (rank 1; prediction only). The best-supported prediction is Familial Hypercholesterolemia (rank 2) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">View full drug report →</a></p>

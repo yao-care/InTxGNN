@@ -3,7 +3,7 @@ layout: default
 title: "Lynestrenol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lynestrenol. Original indication: . 2 predicted indications."
+description: "Health news related to Lynestrenol. Original indication: . 1 predicted indications."
 permalink: /news/lynestrenol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lynestrenol/
 ---
 
 <p class="key-answer" data-question="What news is there about Lynestrenol?">
-<strong>Lynestrenol</strong> currently has <strong>0 news articles</strong>, with 2 predicted indications.
+<strong>Lynestrenol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ This page combines the AI-predicted indications for Lynestrenol with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (2)</strong>:<ul>
-<li>Lyscost Tablet | Strip of 28 tablets | Not stated (99.0%)</li>
-<li>Minikare Tablet | Strip of 28 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with or without aura, susceptibility to (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lynestrenol/' | relative_url }}">View full drug report →</a></p>

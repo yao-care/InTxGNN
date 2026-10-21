@@ -3,7 +3,7 @@ layout: default
 title: "Ceftazidime News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ceftazidime. Original indication: . 5 predicted indications."
+description: "Health news related to Ceftazidime. Original indication: . 1 predicted indications."
 permalink: /news/ceftazidime/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ceftazidime/
 ---
 
 <p class="key-answer" data-question="What news is there about Ceftazidime?">
-<strong>Ceftazidime</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ceftazidime</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ceftazidime with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Fortum ES 2gm Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 2 gm injection | Not recorded (99.0%)</li>
-<li>Orzid 2gm Injection (Orchid Chemicals & Pharmaceuticals Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Bbcef S 1000mg/500mg Injection (LifeCare Formulation Pvt Ltd) | Vial of 1 powder for injection | Not recorded (99.0%)</li>
-<li>Tazid 500mg Injection (Alkem Laboratories Ltd) | Vial of 1 injection | Not recorded (99.0%)</li>
-<li>Spectrazid 250mg Injection (Apex Laboratories Pvt Ltd) | Vial of 2 ml injection | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Urinary tract infection (disease) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceftazidime/' | relative_url }}">View full drug report →</a></p>

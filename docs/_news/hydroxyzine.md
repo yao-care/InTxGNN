@@ -26,11 +26,11 @@ This page combines the AI-predicted indications for Hydroxyzine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>Hdz 25 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Yzin 10 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Hyzox 25 Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Hizone 25mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Hilerin 10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li>Allergic urticaria (99.8%)</li>
+<li>Cold urticaria (99.7%)</li>
+<li>Rosacea conjunctivitis (99.7%)</li>
+<li>Recalcitrant atopic dermatitis (99.4%)</li>
+<li>IgE responsiveness, atopic (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxyzine/' | relative_url }}">View full drug report →</a></p>

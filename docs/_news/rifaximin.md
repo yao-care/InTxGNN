@@ -3,7 +3,7 @@ layout: default
 title: "Rifaximin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rifaximin. Original indication: . 5 predicted indications."
+description: "Health news related to Rifaximin. Original indication: . 1 predicted indications."
 permalink: /news/rifaximin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rifaximin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rifaximin?">
-<strong>Rifaximin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Rifaximin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Rifaximin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Rifanid 400mg Tablet (Nidus Pharma Pvt Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Rifarex 400mg Tablet (Tas Med India Pvt Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Rifaset 550 Tablet (Macleods Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Rifakem 550 Tablet (Alkem Laboratories Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Rcifax 400 Tablet (Lupin Ltd) | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Oral candidiasis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rifaximin/' | relative_url }}">View full drug report →</a></p>

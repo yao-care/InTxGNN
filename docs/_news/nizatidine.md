@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Nizatidine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Axid Capsule (Apex Laboratories Pvt Ltd) | Strip of 10 capsules | Not stated in the available data (99.0%)</li>
+<li>Active peptic ulcer disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nizatidine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Triclofos News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triclofos. Original indication: . 5 predicted indications."
+description: "Health news related to Triclofos. Original indication: . 1 predicted indications."
 permalink: /news/triclofos/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triclofos/
 ---
 
 <p class="key-answer" data-question="What news is there about Triclofos?">
-<strong>Triclofos</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Triclofos</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Triclofos with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pedicalm Oral Solution | Oral solution, 30 ml bottle | Not stated (99.0%)</li>
-<li>Pedirest Syrup | Syrup, 30 ml bottle | Not stated (99.0%)</li>
-<li>Tricloslep Drop | Drop, 15 ml packet | Not stated (99.0%)</li>
-<li>Pedicloryl Oral Solution | Oral solution, 30 ml bottle | Not stated (99.0%)</li>
-<li>Trolis 500mg Oral Suspension | Oral suspension, 30 ml bottle | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triclofos/' | relative_url }}">View full drug report →</a></p>

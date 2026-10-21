@@ -3,7 +3,7 @@ layout: default
 title: "Imipramine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Imipramine. Original indication: . 5 predicted indications."
+description: "Health news related to Imipramine. Original indication: . 1 predicted indications."
 permalink: /news/imipramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imipramine/
 ---
 
 <p class="key-answer" data-question="What news is there about Imipramine?">
-<strong>Imipramine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Imipramine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Imipramine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Imipra 25mg Tablet (Cyril Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Antipres 25mg Tablet (Psycormedies) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Impranit 25mg Tablet (Signit Laboratories) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Depsonil 25mg Tablet (Abbott) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Antidep 25mg Tablet (Torrent Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Attention deficit-hyperactivity disorder (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imipramine/' | relative_url }}">View full drug report →</a></p>

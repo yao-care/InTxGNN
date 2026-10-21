@@ -3,7 +3,7 @@ layout: default
 title: "Caffeine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Caffeine. Original indication: . 5 predicted indications."
+description: "Health news related to Caffeine. Original indication: . 1 predicted indications."
 permalink: /news/caffeine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/caffeine/
 ---
 
 <p class="key-answer" data-question="What news is there about Caffeine?">
-<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Caffeine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Snokey Cold Plus Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Signcold Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>NT Grain Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Vinoryl Tablet | Strip of 10 tablets | Not available (99.0%)</li>
-<li>Makzine P Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nasal cavity disease (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/caffeine/' | relative_url }}">View full drug report →</a></p>

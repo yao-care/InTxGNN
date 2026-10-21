@@ -3,7 +3,7 @@ layout: default
 title: "Racecadotril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Racecadotril. Original indication: . 5 predicted indications."
+description: "Health news related to Racecadotril. Original indication: . 1 predicted indications."
 permalink: /news/racecadotril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/racecadotril/
 ---
 
 <p class="key-answer" data-question="What news is there about Racecadotril?">
-<strong>Racecadotril</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Racecadotril</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Racecadotril with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Radovib 100mg Capsule | Strip of 10 capsules | Vibcare Pharma Pvt Ltd (99.0%)</li>
-<li>Cadotril 100mg Capsule | Strip of 10 capsules | Ordain Health Care Global Pvt Ltd (99.0%)</li>
-<li>Rotril 10mg Sachet | Packet of 1 gm sachet | Delwis Healthcare Pvt Ltd (99.0%)</li>
-<li>Zomatril 100mg Tablet DT | Strip of 10 dispersible tablets | FDC Ltd (99.0%)</li>
-<li>Enuff O Dry Syrup | Bottle of 30 ml oral suspension | Hetero Drugs Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Polyclonal hyperviscosity syndrome (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/racecadotril/' | relative_url }}">View full drug report →</a></p>

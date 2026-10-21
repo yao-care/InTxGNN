@@ -3,7 +3,7 @@ layout: default
 title: "Dienogest News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dienogest. Original indication: he TxGNN model predicts it may be effective for **.... 5 predicted indications."
+description: "Health news related to Dienogest. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/dienogest/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dienogest/
 ---
 
 <p class="key-answer" data-question="What news is there about Dienogest?">
-<strong>Dienogest</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dienogest</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ This page combines the AI-predicted indications for Dienogest with the latest he
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **amenorrhea**, but **no clinical trials** and only **7 loosely related publications** are available. These publications describe amenorrhea mainly as...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Dienoziv 2 Tablet (Salveo Lifecare) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Dinofirst Tablet (Akumentis Healthcare Ltd) | Strip of 14 tablets | Not specified (99.0%)</li>
-<li>Cipgest 2mg Tablet (Cipla Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Terozesta 2mg Tablet (Mankind Pharma Ltd) | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Ibinest Soft Gelatin Capsule (Indiabulls Pharmaceutical Ltd) | Strip of 10 soft gelatin capsules | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Amenorrhea (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dienogest/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Naratriptan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Naratriptan. Original indication: There are two caveats. First, none of the supplied.... 3 predicted indications."
+description: "Health news related to Naratriptan. Original indication: There are two caveats. First, none of the supplied.... 1 predicted indications."
 permalink: /news/naratriptan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naratriptan/
 ---
 
 <p class="key-answer" data-question="What news is there about Naratriptan?">
-<strong>Naratriptan</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Naratriptan</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,8 @@ This page combines the AI-predicted indications for Naratriptan with the latest 
 <ul>
 <li><strong>Original indication</strong>: There are two caveats. First, none of the supplied literature studies brainstem aura specifically. Second, triptans have historically been used cautiously in this subtype (formerly called...</li>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>migraine with brainstem aura (100.0%)</li>
-<li>atrophoderma vermiculata (99.7%)</li>
-<li>ulerythema ophryogenesis (99.5%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Migraine with brainstem aura (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/naratriptan/' | relative_url }}">View full drug report →</a></p>

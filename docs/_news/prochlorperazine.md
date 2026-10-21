@@ -3,7 +3,7 @@ layout: default
 title: "Prochlorperazine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Prochlorperazine. Original indication: . 5 predicted indications."
+description: "Health news related to Prochlorperazine. Original indication: . 1 predicted indications."
 permalink: /news/prochlorperazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prochlorperazine/
 ---
 
 <p class="key-answer" data-question="What news is there about Prochlorperazine?">
-<strong>Prochlorperazine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Prochlorperazine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Prochlorperazine with the la
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Prochlor 5mg Tablet (Hema Laboratories) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Stemetil MD Tablet (Abbott) | Strip of 15 MD tablets | Not stated (99.0%)</li>
-<li>Westel 5mg Tablet (Key West Medicines) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Vometil 5mg Tablet MD (Cipla) | Strip of 10 MD tablets | Not stated (99.0%)</li>
-<li>Acuvert Tablet (Abbott) | Strip of 9 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Retinal dystrophy with or without extraocular anomalies (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prochlorperazine/' | relative_url }}">View full drug report →</a></p>

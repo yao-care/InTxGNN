@@ -3,7 +3,7 @@ layout: default
 title: "Sunitinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sunitinib. Original indication: . 5 predicted indications."
+description: "Health news related to Sunitinib. Original indication: . 1 predicted indications."
 permalink: /news/sunitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sunitinib/
 ---
 
 <p class="key-answer" data-question="What news is there about Sunitinib?">
-<strong>Sunitinib</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Sunitinib</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Sunitinib with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Sutent 25mg Capsule (Pfizer Ltd) | Strip of 7 capsules | Not stated (99.0%)</li>
-<li>Sutent 50mg Capsule (Pfizer Ltd) | Strip of 7 capsules | Not stated (99.0%)</li>
-<li>Sutent 12.5mg Capsule (Pfizer Ltd) | Strip of 7 capsules | Not stated (99.0%)</li>
-<li>Sutib 12.5 Capsule (Glenmark Pharmaceuticals Ltd) | Strip of 7 capsules | Not stated (99.0%)</li>
-<li>Svitinib 25 Capsule (Mylan Pharmaceuticals Pvt Ltd) | Strip of 7 capsules | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Liposarcoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sunitinib/' | relative_url }}">View full drug report →</a></p>

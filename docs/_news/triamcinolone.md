@@ -3,7 +3,7 @@ layout: default
 title: "Triamcinolone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Triamcinolone. Original indication: . 5 predicted indications."
+description: "Health news related to Triamcinolone. Original indication: . 1 predicted indications."
 permalink: /news/triamcinolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triamcinolone/
 ---
 
 <p class="key-answer" data-question="What news is there about Triamcinolone?">
-<strong>Triamcinolone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Triamcinolone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Triamcinolone with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Kenatroy 40mg Injection (Troikaa Pharmaceuticals) | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Kencort 16mg Tablet (Kenn Pharmaceuticals) | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Injicort 40mg Injection (Zydus Healthcare) | Vial of 1 injection | Not stated (99.0%)</li>
-<li>Lupicort 40mg Injection (Lupin) | Vial of 1 ml injection | Not stated (99.0%)</li>
-<li>Amecort 4mg Tablet (Ikon Remedies) | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Alopecia mucinosa (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">View full drug report →</a></p>

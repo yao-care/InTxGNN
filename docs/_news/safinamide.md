@@ -3,7 +3,7 @@ layout: default
 title: "Safinamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Safinamide. Original indication: . 5 predicted indications."
+description: "Health news related to Safinamide. Original indication: . 1 predicted indications."
 permalink: /news/safinamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/safinamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Safinamide?">
-<strong>Safinamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Safinamide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Safinamide with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Zafimove 100 Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Safion 100mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Xafinact 100 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Xafinact 50 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
-<li>Zafimove 50mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rasmussen subacute encephalitis (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/safinamide/' | relative_url }}">View full drug report →</a></p>

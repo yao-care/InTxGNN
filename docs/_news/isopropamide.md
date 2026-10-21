@@ -3,7 +3,7 @@ layout: default
 title: "Isopropamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Isopropamide. Original indication: . 5 predicted indications."
+description: "Health news related to Isopropamide. Original indication: . 1 predicted indications."
 permalink: /news/isopropamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isopropamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Isopropamide?">
-<strong>Isopropamide</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Isopropamide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Isopropamide with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Stelabid 5mg/1mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Stelbid Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Stelbid 5mg/2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Spascol 5mg/1mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Gastobid Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Gastroduodenitis (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isopropamide/' | relative_url }}">View full drug report →</a></p>

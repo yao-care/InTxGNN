@@ -3,7 +3,7 @@ layout: default
 title: "Vinblastine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vinblastine. Original indication: . 4 predicted indications."
+description: "Health news related to Vinblastine. Original indication: . 1 predicted indications."
 permalink: /news/vinblastine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vinblastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vinblastine?">
-<strong>Vinblastine</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
+<strong>Vinblastine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ This page combines the AI-predicted indications for Vinblastine with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
-<li>Hoydetain 1mg Injection | Vial of 10 ml powder for injection | Not specified in the licence record (99.0%)</li>
-<li>Uniblastin 10mg Injection | Vial of 10 ml injection | Not specified in the licence record (99.0%)</li>
-<li>Kristina V 1mg Injection | Vial of 1 injection | Not specified in the licence record (99.0%)</li>
-<li>Vblastin 10mg Injection | Vial of 10 ml injection | Not specified in the licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Rhabdomyosarcoma (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinblastine/' | relative_url }}">View full drug report →</a></p>

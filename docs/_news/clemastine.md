@@ -3,7 +3,7 @@ layout: default
 title: "Clemastine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clemastine. Original indication: . 3 predicted indications."
+description: "Health news related to Clemastine. Original indication: . 1 predicted indications."
 permalink: /news/clemastine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clemastine/
 ---
 
 <p class="key-answer" data-question="What news is there about Clemastine?">
-<strong>Clemastine</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Clemastine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Clemastine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Taregyl 0.5mg Syrup | Bottle of 30 ml syrup | Not listed (99.0%)</li>
-<li>Tavegyl Children Syrup | Bottle of 60 ml syrup | Not listed (99.0%)</li>
-<li>Taregyl 1mg Tablet | Strip of 10 tablets | Not listed (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Allergic urticaria (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clemastine/' | relative_url }}">View full drug report →</a></p>

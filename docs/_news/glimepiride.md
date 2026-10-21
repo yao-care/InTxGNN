@@ -3,7 +3,7 @@ layout: default
 title: "Glimepiride News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Glimepiride. Original indication: . 9 predicted indications."
+description: "Health news related to Glimepiride. Original indication: . 5 predicted indications."
 permalink: /news/glimepiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="What news is there about Glimepiride?">
-<strong>Glimepiride</strong> currently has <strong>0 news articles</strong>, with 9 predicted indications.
+<strong>Glimepiride</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,12 @@ This page combines the AI-predicted indications for Glimepiride with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (9)</strong>:<ul>
-<li>Classic stiff person syndrome | 99.75% | Same anti-GAD autoimmunity context; no known glimepiride action on GABAergic pathways (99.0%)</li>
-<li>Opsismodysplasia | 99.74% | Speculative link to insulin/PI3K signaling (INPPL1); untested (99.0%)</li>
-<li>Thiamine-responsive dysfunction syndrome | 99.73% | Overlap limited to the diabetic phenotype; treatment is thiamine (99.0%)</li>
-<li>Pancreatic agenesis | 99.55% | Mechanistically inappropriate, since glimepiride needs functional beta cells (99.0%)</li>
-<li>Supride 2mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Glimicord M 2 Forte Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
-<li>Ecoglim MV 2mg/500mg/0.2mg Tablet SR | Strip of 10 tablets (SR) | Not specified (99.0%)</li>
-<li>Zoryl M 1 Forte Tablet PR | Strip of 15 tablets (PR) | Not specified (99.0%)</li>
-<li>Adride 4mg Tablet | Strip of 10 tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (5)</strong>:<ul>
+<li>Focal stiff limb syndrome (99.8%)</li>
+<li>Classic stiff person syndrome (99.8%)</li>
+<li>Opsismodysplasia (99.7%)</li>
+<li>Thiamine-responsive dysfunction syndrome (99.7%)</li>
+<li>Pancreatic agenesis (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">View full drug report →</a></p>

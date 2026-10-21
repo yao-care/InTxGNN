@@ -3,7 +3,7 @@ layout: default
 title: "Dimethicone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dimethicone. Original indication: . 5 predicted indications."
+description: "Health news related to Dimethicone. Original indication: . 1 predicted indications."
 permalink: /news/dimethicone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dimethicone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dimethicone?">
-<strong>Dimethicone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Dimethicone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Dimethicone with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Enzym Tablet | Strip of 10 tablets | Allenge India (99.0%)</li>
-<li>Unipride Mps 125mg/10mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd (99.0%)</li>
-<li>Espumisan Endo Drop | Packet of 15 ml drop | A. Menarini India Pvt Ltd (99.0%)</li>
-<li>Flatease Capsule | Strip of 10 capsules | Teslamed Pharmaceuticals Private Limited (99.0%)</li>
-<li>Siloil 1300 Injection | Vial of 10 ml injection | Intas Pharmaceuticals Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Insomnia (94.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dimethicone/' | relative_url }}">View full drug report →</a></p>

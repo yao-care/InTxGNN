@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Ripasudil with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ripatec Eye Drop (Ajanta Pharma Ltd) | Bottle of 5 ml eye drop | Not specified in the data compiled for this report (99.0%)</li>
+<li>Hyperprolactinemia (disease) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ripasudil/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Vortioxetine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Vortioxetine. Original indication: . 5 predicted indications."
+description: "Health news related to Vortioxetine. Original indication: . 1 predicted indications."
 permalink: /news/vortioxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vortioxetine/
 ---
 
 <p class="key-answer" data-question="What news is there about Vortioxetine?">
-<strong>Vortioxetine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Vortioxetine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Vortioxetine with the latest
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Vortiray 10mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Voxigain 5 Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Vdep 10mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Trivoxetin 10mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
-<li>Vortidif 20mg Tablet | Strip of 10 tablets | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Neurotic disorder (rank 1); related predictions: neurotic depression, melancholia, dysthymic disorder (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vortioxetine/' | relative_url }}">View full drug report →</a></p>

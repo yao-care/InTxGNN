@@ -3,7 +3,7 @@ layout: default
 title: "Teneligliptin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Teneligliptin. Original indication: . 5 predicted indications."
+description: "Health news related to Teneligliptin. Original indication: . 1 predicted indications."
 permalink: /news/teneligliptin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/teneligliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Teneligliptin?">
-<strong>Teneligliptin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Teneligliptin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Teneligliptin with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Tenepace Tablet | Strip of 10 tablets | Meyer Organics Pvt Ltd (99.0%)</li>
-<li>Teniglip 20mg Tablet | Strip of 10 tablets | Biodiscovery Lifesciences Pvt Ltd (99.0%)</li>
-<li>Supraglip Tablet | Strip of 10 tablets | Oaknet Healthcare Pvt Ltd (99.0%)</li>
-<li>Zita-Pio Tablet | Strip of 10 tablets | Glenmark Pharmaceuticals Ltd (99.0%)</li>
-<li>Tendia Tablet | Strip of 15 tablets | Eris Lifesciences Ltd (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Opsismodysplasia (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/teneligliptin/' | relative_url }}">View full drug report →</a></p>

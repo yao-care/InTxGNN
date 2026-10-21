@@ -3,7 +3,7 @@ layout: default
 title: "Mupirocin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mupirocin. Original indication: . 5 predicted indications."
+description: "Health news related to Mupirocin. Original indication: . 1 predicted indications."
 permalink: /news/mupirocin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mupirocin/
 ---
 
 <p class="key-answer" data-question="What news is there about Mupirocin?">
-<strong>Mupirocin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Mupirocin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Mupirocin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Solum 2% Ointment | Ointment (5 g tube) | Not recorded (99.0%)</li>
-<li>Mupinase Cream | Cream (7.5 g tube) | Not recorded (99.0%)</li>
-<li>Mufect Ointment | Ointment (5 g tube) | Not recorded (99.0%)</li>
-<li>Supiroban 2% Ointment | Ointment (5 g tube) | Not recorded (99.0%)</li>
-<li>Bactifree Lotion | Lotion (100 ml bottle) | Not recorded (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Pleural empyema (rank 1); best-supported alternative: staphylococcal scalded skin syndrome (rank 9) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mupirocin/' | relative_url }}">View full drug report →</a></p>

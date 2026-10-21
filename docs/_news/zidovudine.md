@@ -3,7 +3,7 @@ layout: default
 title: "Zidovudine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Zidovudine. Original indication: . 5 predicted indications."
+description: "Health news related to Zidovudine. Original indication: . 1 predicted indications."
 permalink: /news/zidovudine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zidovudine/
 ---
 
 <p class="key-answer" data-question="What news is there about Zidovudine?">
-<strong>Zidovudine</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Zidovudine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Zidovudine with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Zido H 100mg Capsule | Strip of 10 capsules | Not available (99.0%)</li>
-<li>Zidomax 100mg Capsule | Strip of 10 capsules | Not available (99.0%)</li>
-<li>Zidohope 100mg Tablet | Bottle of 100 tablets | Not available (99.0%)</li>
-<li>Zidine 300mg Tablet | Bottle of 60 tablets | Not available (99.0%)</li>
-<li>Zidovir 300mg Tablet | Strip of 10 tablets | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Simian immunodeficiency virus infection (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zidovudine/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Micafungin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Micafungin. Original indication: . 5 predicted indications."
+description: "Health news related to Micafungin. Original indication: . 1 predicted indications."
 permalink: /news/micafungin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/micafungin/
 ---
 
 <p class="key-answer" data-question="What news is there about Micafungin?">
-<strong>Micafungin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Micafungin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Micafungin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Mycamine 100mg Injection (Astellas Pharma Inc) | Vial of 1 injection | Not stated in licence records (99.0%)</li>
-<li>Mycamine 50mg Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 1 ml injection | Not stated in licence records (99.0%)</li>
-<li>Micanfa 50mg Injection (Intas Pharmaceuticals Ltd) | Vial of 5 ml injection | Not stated in licence records (99.0%)</li>
-<li>Micalan Injection (Mylan Pharmaceuticals Pvt Ltd) | Vial of 1 injection | Not stated in licence records (99.0%)</li>
-<li>Fungofine 50mg Injection (Dr Reddy's Laboratories Ltd) | Vial of 1 injection | Not stated in licence records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Urinary tract infection (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/micafungin/' | relative_url }}">View full drug report →</a></p>

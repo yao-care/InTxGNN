@@ -3,7 +3,7 @@ layout: default
 title: "Doxofylline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxofylline. Original indication: . 14 predicted indications."
+description: "Health news related to Doxofylline. Original indication: . 10 predicted indications."
 permalink: /news/doxofylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doxofylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxofylline?">
-<strong>Doxofylline</strong> currently has <strong>0 news articles</strong>, with 14 predicted indications.
+<strong>Doxofylline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,21 +25,17 @@ This page combines the AI-predicted indications for Doxofylline with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (14)</strong>:<ul>
-<li>Doxo M 400mg/10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Doxygrap 400mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Roaron M 400mg/10mg Tablet SR | Strip of 10 sustained-release tablets | Not stated (99.0%)</li>
-<li>Doxside AM Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Evomont D 400mg/10mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Laubry-Pezzi syndrome | 99.54% | L5 | Structural cardiac defect; no mechanistic link (99.0%)</li>
-<li>Jeune syndrome situs inversus | 99.54% | L5 | Skeletal ciliopathy; at most theoretical symptom relief (99.0%)</li>
-<li>Genetic syndromic Pierre Robin syndrome | 99.53% | L5 | No mechanistic link (99.0%)</li>
-<li>Orofacial clefting syndrome | 99.53% | L5 | Developmental malformation; no mechanistic link (99.0%)</li>
-<li>Partial deletion of the long arm of chromosome 7 | 99.53% | L5 | No pharmacological rationale (99.0%)</li>
-<li>Disorder of fucoglycosan synthesis | 99.52% | L5 | Retrieved literature covers asthma/COPD only (99.0%)</li>
-<li>Partial deletion of the long arm of chromosome 22 | 99.52% | L5 | No pharmacological rationale (99.0%)</li>
-<li>Heart disease | 99.50% | L4 | Indirect evidence only (research question) (99.0%)</li>
-<li>Pulmonary valve disease | 99.50% | L5 | Structural valve disorder; no rationale (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly (99.5%)</li>
+<li>Laubry-Pezzi syndrome (99.5%)</li>
+<li>Jeune syndrome situs inversus (99.5%)</li>
+<li>Genetic syndromic Pierre Robin syndrome (99.5%)</li>
+<li>Orofacial clefting syndrome (99.5%)</li>
+<li>Partial deletion of the long arm of chromosome 7 (99.5%)</li>
+<li>Disorder of fucoglycosan synthesis (99.5%)</li>
+<li>Partial deletion of the long arm of chromosome 22 (99.5%)</li>
+<li>Heart disease (99.5%)</li>
+<li>Pulmonary valve disease (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxofylline/' | relative_url }}">View full drug report →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Cefuroxime News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cefuroxime. Original indication: . 5 predicted indications."
+description: "Health news related to Cefuroxime. Original indication: . 1 predicted indications."
 permalink: /news/cefuroxime/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cefuroxime/
 ---
 
 <p class="key-answer" data-question="What news is there about Cefuroxime?">
-<strong>Cefuroxime</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Cefuroxime</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Cefuroxime with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Cefuset 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Furix 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Mutum 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Cefumex 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Horoxime 250mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Urinary tract infection (disease) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefuroxime/' | relative_url }}">View full drug report →</a></p>

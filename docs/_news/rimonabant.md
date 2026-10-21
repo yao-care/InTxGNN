@@ -3,7 +3,7 @@ layout: default
 title: "Rimonabant News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rimonabant. Original indication: . 11 predicted indications."
+description: "Health news related to Rimonabant. Original indication: . 7 predicted indications."
 permalink: /news/rimonabant/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rimonabant/
 ---
 
 <p class="key-answer" data-question="What news is there about Rimonabant?">
-<strong>Rimonabant</strong> currently has <strong>0 news articles</strong>, with 11 predicted indications.
+<strong>Rimonabant</strong> currently has <strong>0 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,14 @@ This page combines the AI-predicted indications for Rimonabant with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (11)</strong>:<ul>
-<li>Proximal 16p11.2 microdeletion syndrome | 99.997% | The deletion is associated with obesity and metabolic features, so the link is conceptually plausible but unvalidated. Rimonabant's psychiatric adverse events are a major concern in a population with neurodevelopmental comorbidity. (99.0%)</li>
-<li>Obsolete hypertelorism (disease) | 99.992% | No plausible mechanism. The ontology term is obsolete, so this is likely a knowledge-graph artifact. (99.0%)</li>
-<li>Frontorhiny | 99.989% | No known link to the endocannabinoid system. (99.0%)</li>
-<li>Pentosuria | 99.398% | Benign metabolic condition that generally needs no treatment. (99.0%)</li>
-<li>Insomnia (disease) | 99.271% | Rimonabant is known to cause insomnia and sleep disturbance, so a therapeutic role is unfavourable. (99.0%)</li>
-<li>Lethal polymalformative syndrome, Boissel type | 99.049% | Lethal prenatal condition, so repurposing is impractical. (99.0%)</li>
-<li>Ribafit 20mg Tablet (Lupin Ltd) | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Oberim 20mg Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Obitone 20mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Defat 20mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in the data (99.0%)</li>
-<li>Rimobest 20mg Tablet (Aristo Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not stated in the data (99.0%)</li>
+<li><strong>Predicted indications (7)</strong>:<ul>
+<li>Hypervitaminosis (100.0%)</li>
+<li>Proximal 16p11.2 microdeletion syndrome (100.0%)</li>
+<li>Obsolete hypertelorism (disease) (100.0%)</li>
+<li>Frontorhiny (100.0%)</li>
+<li>Pentosuria (99.4%)</li>
+<li>Insomnia (disease) (99.3%)</li>
+<li>Lethal polymalformative syndrome, Boissel type (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rimonabant/' | relative_url }}">View full drug report →</a></p>

@@ -26,7 +26,7 @@ This page combines the AI-predicted indications for Tipiracil with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Tipanat 8.19mg/20mg Tablet (Natco Pharma Ltd) | Bottle of 20 tablets (oral) | Not specified in the data compiled for this report (99.0%)</li>
+<li>Cecum villous adenoma (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tipiracil/' | relative_url }}">View full drug report →</a></p>

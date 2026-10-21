@@ -3,7 +3,7 @@ layout: default
 title: "Oxymetazoline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxymetazoline. Original indication: . 5 predicted indications."
+description: "Health news related to Oxymetazoline. Original indication: . 1 predicted indications."
 permalink: /news/oxymetazoline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxymetazoline/
 ---
 
 <p class="key-answer" data-question="What news is there about Oxymetazoline?">
-<strong>Oxymetazoline</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Oxymetazoline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Oxymetazoline with the lates
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Clinovin 0.5mg Nasal Drops | Nasal drops (10 ml bottle) | Not available (99.0%)</li>
-<li>Cinus 0.5mg Nasal Drops | Nasal drops (10 ml) | Not available (99.0%)</li>
-<li>Nosivak 0.05% Nasal Spray | Nasal spray (10 ml bottle) | Not available (99.0%)</li>
-<li>Optolin Eye Drop | Eye drop (5 ml bottle) | Not available (99.0%)</li>
-<li>Maxtra-O Nasal Spray | Nasal solution (10 ml bottle) | Not available (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Nasal cavity disease (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxymetazoline/' | relative_url }}">View full drug report →</a></p>

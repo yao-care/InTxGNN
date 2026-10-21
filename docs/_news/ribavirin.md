@@ -3,7 +3,7 @@ layout: default
 title: "Ribavirin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ribavirin. Original indication: . 5 predicted indications."
+description: "Health news related to Ribavirin. Original indication: . 1 predicted indications."
 permalink: /news/ribavirin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ribavirin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ribavirin?">
-<strong>Ribavirin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ribavirin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ribavirin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Ribasure Capsule | Bottle of 140 capsules | Not stated in the records (99.0%)</li>
-<li>Heptos 200mg Capsule | Strip of 10 capsules | Not stated in the records (99.0%)</li>
-<li>Rebetol 200mg Capsule | Strip of 12 capsules | Not stated in the records (99.0%)</li>
-<li>Virazide 200mg Capsule | Strip of 4 capsules | Not stated in the records (99.0%)</li>
-<li>Ribavin 50mg Syrup | Bottle of 30 ml syrup | Not stated in the records (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Chronic hepatitis B virus infection (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ribavirin/' | relative_url }}">View full drug report →</a></p>

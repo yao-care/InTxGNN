@@ -3,7 +3,7 @@ layout: default
 title: "Ofloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ofloxacin. Original indication: . 5 predicted indications."
+description: "Health news related to Ofloxacin. Original indication: . 1 predicted indications."
 permalink: /news/ofloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ofloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ofloxacin?">
-<strong>Ofloxacin</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Ofloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ This page combines the AI-predicted indications for Ofloxacin with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Aliox 200mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Flavospas D 200 mg/200 mg Tablet | Strip of 10 tablets | Not stated (99.0%)</li>
-<li>Oflatoz 50mg Oral Suspension | Bottle of 60 ml oral suspension | Not stated (99.0%)</li>
-<li>ZO 100mg Tablet DT | Strip of 10 dispersible tablets | Not stated (99.0%)</li>
-<li>Fixit OF Dry Syrup | Bottle of 30 ml dry syrup | Not stated (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Polyclonal hyperviscosity syndrome (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ofloxacin/' | relative_url }}">View full drug report →</a></p>

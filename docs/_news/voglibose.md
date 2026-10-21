@@ -3,7 +3,7 @@ layout: default
 title: "Voglibose News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Voglibose. Original indication: . 10 predicted indications."
+description: "Health news related to Voglibose. Original indication: . 1 predicted indications."
 permalink: /news/voglibose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/voglibose/
 ---
 
 <p class="key-answer" data-question="What news is there about Voglibose?">
-<strong>Voglibose</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Voglibose</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ This page combines the AI-predicted indications for Voglibose with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.9%)</li>
-<li>type 1 diabetes mellitus (99.8%)</li>
-<li>congenital hypotrichosis milia (99.7%)</li>
-<li>autoimmune oophoritis (99.7%)</li>
-<li>diffuse alopecia areata (99.7%)</li>
-<li>IDDM 1 (99.4%)</li>
-<li>Wolman disease with hypolipoproteinemia and acanthocytosis (99.2%)</li>
-<li>familial apolipoprotein C-II deficiency (99.2%)</li>
-<li>cholesteryl ester storage disease (99.2%)</li>
-<li>opsismodysplasia (99.1%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Type 1 diabetes mellitus (adjunct to insulin therapy). The top-scoring prediction, hypotrichosis simplex of the scalp, was set aside because it has no evidence or mechanistic link (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/voglibose/' | relative_url }}">View full drug report →</a></p>

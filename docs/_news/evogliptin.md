@@ -3,7 +3,7 @@ layout: default
 title: "Evogliptin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Evogliptin. Original indication: . 3 predicted indications."
+description: "Health news related to Evogliptin. Original indication: . 1 predicted indications."
 permalink: /news/evogliptin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/evogliptin/
 ---
 
 <p class="key-answer" data-question="What news is there about Evogliptin?">
-<strong>Evogliptin</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Evogliptin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Evogliptin with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Valera M 1000 Tablet SR | Strip of 15 sustained-release tablets | Not specified (99.0%)</li>
-<li>Valera Tablet | Strip of 15 tablets | Not specified (99.0%)</li>
-<li>Valera M 500 Tablet SR | Strip of 15 sustained-release tablets | Not specified (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Opsismodysplasia (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/evogliptin/' | relative_url }}">View full drug report →</a></p>

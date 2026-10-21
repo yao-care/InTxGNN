@@ -3,7 +3,7 @@ layout: default
 title: "Climbazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Climbazole. Original indication: . 3 predicted indications."
+description: "Health news related to Climbazole. Original indication: . 1 predicted indications."
 permalink: /news/climbazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/climbazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Climbazole?">
-<strong>Climbazole</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
+<strong>Climbazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ This page combines the AI-predicted indications for Climbazole with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Medkin AD Shampoo | Shampoo, bottle of 200 ml | Not stated in licence record (99.0%)</li>
-<li>Ciola Shampoo | Shampoo, bottle of 100 ml | Not stated in licence record (99.0%)</li>
-<li>Itrakil Shampoo Anti Dandruff | Shampoo, bottle of 100 ml | Not stated in licence record (99.0%)</li>
+<li><strong>Predicted indications (1)</strong>:<ul>
+<li>Acne keloid (95.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/climbazole/' | relative_url }}">View full drug report →</a></p>

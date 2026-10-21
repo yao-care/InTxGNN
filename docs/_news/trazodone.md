@@ -3,7 +3,7 @@ layout: default
 title: "Trazodone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Trazodone. Original indication: . 5 predicted indications."
+description: "Health news related to Trazodone. Original indication: . 10 predicted indications."
 permalink: /news/trazodone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/trazodone/
 ---
 
 <p class="key-answer" data-question="What news is there about Trazodone?">
-<strong>Trazodone</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Trazodone</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,17 @@ This page combines the AI-predicted indications for Trazodone with the latest he
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
-<li><strong>Predicted indications (5)</strong>:<ul>
-<li>Trazonil 100 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Trazonil 25 Tablet (Intas Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Trazalon 25mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Tazodac 50mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated in record (99.0%)</li>
-<li>Trazodep 25mg Tablet (Torrent Pharmaceuticals Ltd) | Strip of 10 tablets | Not stated in record (99.0%)</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>Obsessive-compulsive disorder (100.0%)</li>
+<li>Agoraphobia (99.8%)</li>
+<li>Phobic disorder (99.5%)</li>
+<li>Dysthymic disorder (99.5%)</li>
+<li>Histrionic personality disorder (99.9%)</li>
+<li>Paranoid personality disorder (99.9%)</li>
+<li>Schizotypal personality disorder (99.9%)</li>
+<li>Schizoid personality disorder (99.9%)</li>
+<li>Benign paroxysmal torticollis of infancy (99.8%)</li>
+<li>Ohdo syndrome and variants (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trazodone/' | relative_url }}">View full drug report →</a></p>
