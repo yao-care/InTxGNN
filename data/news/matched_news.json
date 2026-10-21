@@ -1,208 +1,159 @@
 {
-  "last_updated": "2026-10-21T16:09:41.920630+00:00",
-  "total_count": 96,
-  "matched_count": 26,
+  "last_updated": "2026-10-21T20:56:11.992784+00:00",
+  "total_count": 89,
+  "matched_count": 24,
   "news": [
     {
-      "id": "db664bf51fc8",
-      "title": "4 Exercises To Keep Your Bones Strong as You Age",
-      "published": "2026-10-21T15:00:00+00:00",
-      "summary": "4 Exercises To Keep Your Bones Strong as You Age&nbsp;&nbsp;EatingWellWalking alone may not be enough: Why strength training matters for bone health&nbsp;&nbsp;India TodayAspirus highlights overlooked key to bone health for women&nbsp;&nbsp;Upper Michigan's SourceWhy Brisk Walking Is The Low-Impact Bone Density Booster You Need&nbsp;&nbsp;Blavity NewsNo. 1 Exercise To Boost Bone Density, According to a Doctor&nbsp;&nbsp;TODAY.com",
+      "id": "5ea791c8fd25",
+      "title": "What’s New On Radiotherapy of Breast Cancer in 2026?",
+      "published": "2026-10-21T20:18:04+00:00",
+      "summary": "What’s New On Radiotherapy of Breast Cancer in 2026?&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0RsOWtlVV9iN3pPaU1sTmJMUURzYkJYM2tsM0xFV2w3TUl1M1pDeEVIREpua2lEOTd3OEpJSV9jZGo1cFh1OW1zX2ttejQ5YkI1dDNvZ1VHMko1WDJ4aDVIZmU3STI5ejFqcVBRMF9BQTJxTl92X2pDc21USVJmMg?oc=5"
+          "name": "Oncodaily",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOamtIdnJBeUt1Q3NqSlptM2d5bS1oYkVXTDdYMENjRW9OQ3htcjA2Sk5YZlI3WE42YnN4cWxMRmF6NVM2N3RJTDFDZUsyVDFlWUZKVFFXajYtMmJhVXZqQ2dlUnpBd2tOc2Y3WEJXSEY2UHJPM3V1cFYtMzVmRG5QbE5wM18zUQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7a4423ca2ca2",
-      "title": "Regular tea consumption linked to lower risk of vascular disease",
-      "published": "2026-10-21T14:42:00+00:00",
-      "summary": "Regular tea consumption linked to lower risk of vascular disease&nbsp;&nbsp;News-MedicalHow you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNCan drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressTea has benefits for heart health -- but not if...&nbsp;&nbsp;RediffTea drinking may be good for your heart, researchers say&nbsp;&nbsp;RTE.ie",
+      "id": "ce4c5c0b6605",
+      "title": "Quick takes: CDC notes 3rd measles death, FDA OKs hepatitis B treatment, hep B vaccine seized in Guinea-Bissau",
+      "published": "2026-10-21T18:47:00+00:00",
+      "summary": "Quick takes: CDC notes 3rd measles death, FDA OKs hepatitis B treatment, hep B vaccine seized in Guinea-Bissau&nbsp;&nbsp;CIDRAPCDC reports third measles death in the United States this year&nbsp;&nbsp;Al JazeeraA counterintuitive way to build trust in measles vaccines and public health&nbsp;&nbsp;STATPa. warns of measles infections among pregnant women and congenital cases&nbsp;&nbsp;AudacyPennsylvania measles cases rise to 1,317, state health department says&nbsp;&nbsp;Reuters",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDVscFg2Q0tWSXVyRG9SNWxacFBIWE1zREc3Y01QZE5INlY0MVB1YWRpTThXTVkxN0NLYi1hMmwwZThPS1BjVFFqQkh5N0t6b296bHpzY2R5RXZaaVFuM3BrZzJCT25SQ1RUWkVhMEFZZ1JpRks5NU9ONDRiMXp2ZkdPWE1NNFpLWmFBWTczaVlBSDAwcmU1SjMwTDVIUmVYLWtOMktqYTRqLS1PNG5EdXBR?oc=5"
+          "name": "CIDRAP",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVm4yeXNWamltcTBYUkRtNzJwdVBTMndoUmY3M0xKajg1elJNakEya3NBa2ZtMnhrWVdoSXJsWXJmb04yLVpWTXV4blp4V3J0UzRhVmdyd0ZLdVBuY0NEd2dwNDlSdXdGb1MtRkk5R3dlMW9VaGFHcmo4Uml1RnpOcjA5ZGVWdF91azNySllCajJFZV84YURHczBCdmhmV0FaM0QzYUtqSWI2a211cFFqRXdpRXJYczJsSUdpOQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "cardiovascular",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "alteplase",
-              "name": "Alteplase",
-              "url": "/drugs/alteplase/"
+              "slug": "abemaciclib",
+              "name": "Abemaciclib",
+              "url": "/drugs/abemaciclib/"
             },
             {
-              "slug": "atosiban",
-              "name": "Atosiban",
-              "url": "/drugs/atosiban/"
+              "slug": "abiraterone",
+              "name": "Abiraterone",
+              "url": "/drugs/abiraterone/"
             },
             {
-              "slug": "cyclandelate",
-              "name": "Cyclandelate",
-              "url": "/drugs/cyclandelate/"
+              "slug": "alpelisib",
+              "name": "Alpelisib",
+              "url": "/drugs/alpelisib/"
             },
             {
-              "slug": "cyproterone_acetate",
-              "name": "Cyproterone Acetate",
-              "url": "/drugs/cyproterone-acetate/"
+              "slug": "amiodarone",
+              "name": "Amiodarone",
+              "url": "/drugs/amiodarone/"
             },
             {
-              "slug": "db00009",
-              "name": "ALTEPLASE",
-              "url": "/drugs/alteplase/"
+              "slug": "amodiaquine",
+              "name": "Amodiaquine",
+              "url": "/drugs/amodiaquine/"
             },
             {
-              "slug": "db00015",
-              "name": "RETEPLASE",
-              "url": "/drugs/reteplase/"
+              "slug": "apremilast",
+              "name": "Apremilast",
+              "url": "/drugs/apremilast/"
             },
             {
-              "slug": "db00031",
-              "name": "TENECTEPLASE",
-              "url": "/drugs/tenecteplase/"
+              "slug": "balsalazide",
+              "name": "Balsalazide",
+              "url": "/drugs/balsalazide/"
             },
             {
-              "slug": "db00063",
-              "name": "EPTIFIBATIDE",
+              "slug": "bosentan",
+              "name": "Bosentan",
+              "url": "/drugs/bosentan/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "chlorzoxazone",
+              "name": "Chlorzoxazone",
+              "url": "/drugs/chlorzoxazone/"
+            },
+            {
+              "slug": "choline_salicylate",
+              "name": "Choline Salicylate",
+              "url": "/drugs/choline-salicylate/"
+            },
+            {
+              "slug": "chromium",
+              "name": "Chromium",
+              "url": "/drugs/chromium/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
               "url": "/drugs/eptifibatide/"
             },
             {
-              "slug": "db00175",
-              "name": "PRAVASTATIN",
-              "url": "/drugs/pravastatin/"
+              "slug": "levocetirizine",
+              "name": "Levocetirizine",
+              "url": "/drugs/levocetirizine/"
             },
             {
-              "slug": "db00227",
-              "name": "LOVASTATIN",
-              "url": "/drugs/lovastatin/"
+              "slug": "lornoxicam",
+              "name": "Lornoxicam",
+              "url": "/drugs/lornoxicam/"
             },
             {
-              "slug": "db00335",
-              "name": "ATENOLOL",
-              "url": "/drugs/atenolol/"
+              "slug": "mefenamic_acid",
+              "name": "Mefenamic Acid",
+              "url": "/drugs/mefenamic-acid/"
             },
             {
-              "slug": "db00641",
-              "name": "SIMVASTATIN",
-              "url": "/drugs/simvastatin/"
+              "slug": "mesalazine",
+              "name": "Mesalazine",
+              "url": "/drugs/mesalazine/"
             },
             {
-              "slug": "db00661",
-              "name": "VERAPAMIL",
-              "url": "/drugs/verapamil/"
+              "slug": "metamizole",
+              "name": "Metamizole",
+              "url": "/drugs/metamizole/"
             },
             {
-              "slug": "db00722",
-              "name": "LISINOPRIL",
-              "url": "/drugs/lisinopril/"
+              "slug": "nalidixic_acid",
+              "name": "Nalidixic Acid",
+              "url": "/drugs/nalidixic-acid/"
             },
             {
-              "slug": "db00758",
-              "name": "CLOPIDOGREL",
-              "url": "/drugs/clopidogrel/"
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin",
+              "url": "/drugs/nitrofurantoin/"
             },
             {
-              "slug": "db01076",
-              "name": "ATORVASTATIN",
-              "url": "/drugs/atorvastatin/"
-            },
-            {
-              "slug": "db01095",
-              "name": "FLUVASTATIN",
-              "url": "/drugs/fluvastatin/"
-            },
-            {
-              "slug": "db01098",
-              "name": "ROSUVASTATIN",
-              "url": "/drugs/rosuvastatin/"
-            },
-            {
-              "slug": "db01113",
-              "name": "PAPAVERINE",
-              "url": "/drugs/papaverine/"
-            },
-            {
-              "slug": "db06209",
-              "name": "PRASUGREL",
-              "url": "/drugs/prasugrel/"
-            },
-            {
-              "slug": "db08816",
-              "name": "TICAGRELOR",
-              "url": "/drugs/ticagrelor/"
-            },
-            {
-              "slug": "db08941",
-              "name": "ISOXSUPRINE",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "doxapram",
-              "name": "Doxapram",
-              "url": "/drugs/doxapram/"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine",
-              "url": "/drugs/ebastine/"
-            },
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide Dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "Isoxsuprine",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "lubiprostone",
-              "name": "Lubiprostone",
-              "url": "/drugs/lubiprostone/"
-            },
-            {
-              "slug": "propafenone",
-              "name": "Propafenone",
-              "url": "/drugs/propafenone/"
-            },
-            {
-              "slug": "streptokinase",
-              "name": "Streptokinase",
-              "url": "/drugs/streptokinase/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "vascular disease",
-          "keyword": "vascular disease",
-          "related_drugs": [
-            {
-              "slug": "atosiban",
-              "name": "Atosiban",
-              "url": "/drugs/atosiban/"
-            },
-            {
-              "slug": "doxapram",
-              "name": "Doxapram",
-              "url": "/drugs/doxapram/"
-            },
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide Dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
+              "slug": "valdecoxib",
+              "name": "Valdecoxib",
+              "url": "/drugs/valdecoxib/"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "36c0911725ad",
+      "title": "Trapped With Nothing to Do, Bored AI Agents Invented Games From Scratch",
+      "published": "2026-10-21T15:45:55+00:00",
+      "summary": "Trapped With Nothing to Do, Bored AI Agents Invented Games From Scratch&nbsp;&nbsp;ExtremeTechScientists Left AI Alone on a Deserted Island With Nothing to Do. It Invented Games and Started Behaving Like Children at Play&nbsp;&nbsp;ZME ScienceAI researchers stranded Claude on a virtual desert island. It started to “play.”&nbsp;&nbsp;MIT Technology ReviewResearchers Stranded an AI Agent on a Virtual Island. Things Got Very Weird.&nbsp;&nbsp;GizmodoMIT AI 'Eko' built temple on virtual island witho",
+      "sources": [
+        {
+          "name": "ExtremeTech",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzBQbHZ0cms4SjlEM2pJMUpYMjBHV1BjZW1aNFVYamxQOXprUEpXM2szMEo4bjlVSjg4aXpWUkg4dVNQRWVDN2NxMnVzaHdnNUp4dUNtRmR1aEJrVjBrc1ZFNTNHWTFqOHZ2dDVCWUhiaDdXTmNvYno4VTJtWFpfR0lmUzR4S0ZwNTZCMDFNVVZycnQydWYwVml0YXlQR0lRNUtGRXBabThIdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "db9424e1b2a8",
@@ -1278,7 +1229,7 @@
     {
       "id": "4ea944e9d39f",
       "title": "5 minutes with Kathryn Nichol, LivaNova - European Medical Journal",
-      "published": "2026-10-21T13:45:48+00:00",
+      "published": "2026-10-21T13:46:58+00:00",
       "summary": "5 minutes with Kathryn Nichol, LivaNova&nbsp;&nbsp;European Medical Journal",
       "sources": [
         {
@@ -1292,7 +1243,7 @@
       "id": "d9ce78901eaf",
       "title": "UPF classification doesn’t tell the whole story about nutrition, study reveals",
       "published": "2026-10-21T13:33:45+00:00",
-      "summary": "UPF classification doesn’t tell the whole story about nutrition, study reveals&nbsp;&nbsp;FoodNavigator.comWhat actually makes ultraprocessed foods unhealthy?&nbsp;&nbsp;Deccan HeraldThe science and politics behind the panic over ultraprocessed foods&nbsp;&nbsp;Hindustan TimesThe ultra-processed health crisis: What massive global study means for India&nbsp;&nbsp;CounterviewUltra-processed foods to avoid and the challenges facing a Europe of health and peace&nbsp;&nbsp;Il Sole 24 ORE",
+      "summary": "UPF classification doesn’t tell the whole story about nutrition, study reveals&nbsp;&nbsp;FoodNavigator.comWhat actually makes ultraprocessed foods unhealthy?&nbsp;&nbsp;Deccan HeraldThe science and politics behind the panic over ultraprocessed foods&nbsp;&nbsp;Hindustan TimesUltra-processed foods to avoid and the challenges facing a Europe of health and peace&nbsp;&nbsp;Il Sole 24 OREThe ultraprocessed-food debate reaches milk processing&nbsp;&nbsp;Dairynews.today",
       "sources": [
         {
           "name": "FoodNavigator.com",
@@ -2440,7 +2391,7 @@
       "id": "a5b0894de586",
       "title": "Astronauts’ hearts just passed a surprising test for Mars - Science Daily",
       "published": "2026-10-21T12:38:04+00:00",
-      "summary": "Astronauts’ hearts just passed a surprising test for Mars&nbsp;&nbsp;Science DailyExercise helps astronauts’ hearts handle months in space, boosting prospects for Mars&nbsp;&nbsp;Northwestern Now NewsHumans may not have the heart for space travel to Mars&nbsp;&nbsp;The Brighter Side of NewsStudy finds astronauts' hearts improve under Marslike gravity on ISS&nbsp;&nbsp;NewsBytesScientists discover going to Mars could break human hearts&nbsp;&nbsp;geekspin",
+      "summary": "Astronauts’ hearts just passed a surprising test for Mars&nbsp;&nbsp;Science DailyExercise helps astronauts' hearts handle months in space, boosting prospects for Mars&nbsp;&nbsp;Northwestern Now NewsHumans may not have the heart for space travel to Mars&nbsp;&nbsp;The Brighter Side of NewsStudy finds astronauts' hearts improve under Marslike gravity on ISS&nbsp;&nbsp;NewsBytesScientists discover going to Mars could break human hearts&nbsp;&nbsp;geekspin",
       "sources": [
         {
           "name": "Science Daily",
@@ -2453,7 +2404,7 @@
       "id": "e515c4a24ce9",
       "title": "Bangladesh Reports Over 1,100 Measles Deaths Amid Worst Global Outbreak This Year - News On AIR",
       "published": "2026-10-21T12:29:49+00:00",
-      "summary": "Bangladesh Reports Over 1,100 Measles Deaths Amid Worst Global Outbreak This Year&nbsp;&nbsp;News On AIRBangladesh Sees 1,147 Deaths From Measles Over Weak Immunisation&nbsp;&nbsp;NDTVOpinion | Not Measles, Bangladesh Is Dealing With A Procession Of Child Deaths Born Of State Negligence&nbsp;&nbsp;News18Child deaths linked to measles cross 1,200 in Bangladesh as 5 more die&nbsp;&nbsp;Anadolu Ajansı3 more die with measles-like symptoms in 24 hours&nbsp;&nbsp;The Daily Star",
+      "summary": "Bangladesh Reports Over 1,100 Measles Deaths Amid Worst Global Outbreak This Year&nbsp;&nbsp;News On AIRBangladesh Sees 1,147 Deaths From Measles Over Weak Immunisation&nbsp;&nbsp;NDTVOpinion | Not Measles, Bangladesh Is Dealing With A Procession Of Child Deaths Born Of State Negligence&nbsp;&nbsp;News183 more die with measles-like symptoms in 24 hours&nbsp;&nbsp;The Daily StarBangladesh battle against measles a ‘real warning’ to other nations&nbsp;&nbsp;The Japan Times",
       "sources": [
         {
           "name": "News On AIR",
@@ -2492,11 +2443,24 @@
       "id": "443b90db6eca",
       "title": "As Ebola spreads in Congo, grieving families face a growing mental health toll - The Hindu",
       "published": "2026-10-21T11:23:59+00:00",
-      "summary": "As Ebola spreads in Congo, grieving families face a growing mental health toll&nbsp;&nbsp;The HinduMulti-country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 22 (5 - 11 October 2026)&nbsp;&nbsp;ReliefWebDRC: IRC finds 85% of people surveyed say mistrust of responders would keep them from seeking care, as Ebola cases near 10,000&nbsp;&nbsp;International Rescue CommitteeDR CONGO-BUNIA-EBOLA OUTBREAK-AFRICA CDC-URGENT CALL&nbsp;&nbsp;Big News Network.comThis chart shows just how rap",
+      "summary": "As Ebola spreads in Congo, grieving families face a growing mental health toll&nbsp;&nbsp;The HinduMulti-country Bundibugyo Ebola Virus Disease Outbreak Situation Report No. 22 (5 - 11 October 2026)&nbsp;&nbsp;ReliefWebDRC: IRC finds 85% of people surveyed say mistrust of responders would keep them from seeking care, as Ebola cases near 10,000&nbsp;&nbsp;International Rescue CommitteeThis chart shows just how rapidly Ebola is spreading&nbsp;&nbsp;VoxNigeria records its first Ebola case amid rapi",
       "sources": [
         {
           "name": "The Hindu",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVHQzWXptanNCbm5QZ3htQklOQ1FRQlA3UFA5U1pmZDRZZkhCMHl6VEs0SXpMc0thdEdTbkpWRVJ5c1VhV2FKS3hRVG14NnZTMExnTm0yalA5VUpraDNIdFdpT1dwd2kyc1AyaFlzNnJPMjQyM1hJLUV0TUgxYXY2ZFFTTjN6dVNFdHhwb2NTc08xcUxLaGJKSlB2NHZYVDN3OEQ1dldYSmF3ZUtQWm4xanh2UVkyaEd5T3l6R0d5bjc2X01GX2p0UlRGWnNyOXhPREJWM9IB2wFBVV95cUxNOHU1STh4WTU4d2lXYlJZNFloRENrQTEwOVVlZW5FSE1QZGlxMGwySnNzY3Bsc3YwWXhvQjVPVk9ZX0ZjalpTYmRLaWpmWmVVVjZXWlA4bndqR0FsVmd4WWNPb2NJNnRKYkwxTTlMNExYNFEtc2hEVnFmUWdwS3ZaeXEyeWh4ZENOYnA1MDRyazNEOUJpRTN0WVE5SUwtVGtEbE55WFliN25fQ1RJT3g2WEVBRXdQLTVrTWw4MFdHM09Cc0hZdi1ibWRkdnU0T2lrZHRrSkNRYmhZY00?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9c3998306071",
+      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells - Science Daily",
+      "published": "2026-10-21T11:05:34+00:00",
+      "summary": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells&nbsp;&nbsp;Science DailyOld Blood Cells Have Been Transformed Into Brain Stem Cells That Get Younger As They Age&nbsp;&nbsp;ScienceAlertIn Bonn, blood cells were turned into younger neural stem cells — ScienceAlert&nbsp;&nbsp;UA.NEWSSixty years in 50 days: how we’ll rejuvenate our neurons and better combat Alzheimer’s&nbsp;&nbsp;Il Sole 24 OREBlood Cells From an 80-Year-Old Were Reprogrammed to Show an Epigenetic Age ",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SEFyQnMyS3I5U0dwRDh5SzVESHJmcm5aYWtYTTVPWjBXV1dNWnp1NkZCcVF3WnFLUWU0TjdvcnY5UDBFY201WXJ3b2tFUmZPSXM0bUR3YU4tSmlmVW02WU9Ra185SnZDbVY1R0VrSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2528,56 +2492,9 @@
       "matched_keywords": []
     },
     {
-      "id": "db0e7ff7ac14",
-      "title": "Efficacy and Safety of Once-Weekly Subcutaneous Semaglutide in Adolescents With Obesity: A Retrospective Study - The Cureus Journal of Medical Science",
-      "published": "2026-10-21T10:52:16+00:00",
-      "summary": "Efficacy and Safety of Once-Weekly Subcutaneous Semaglutide in Adolescents With Obesity: A Retrospective Study&nbsp;&nbsp;The Cureus Journal of Medical Science",
-      "sources": [
-        {
-          "name": "The Cureus Journal of Medical Science",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYXo4X3ZRTy1OSi1MT2VNZjJDbkxLc00xM2JSLXZScUQ5UzlYRXFGVW5CcjRJZnNfMlFJNnVLU2tKMVR4RldIc1doTEltZWpWMGUzR1lnUkNYMkYtdTFyVkJIc093R2JhOGd1czZFbnAzcGhIZUpCMWI3V2tlVVhxOGNORDJGVFczeEhka2U0aVJEREh2RlRwSmo0QWJ5TmlVbTFMcXZCaUVMRjZEMHBpSHQ2c2h5WEViQllWQ0t6WGhkM2IxSzZtRDljMWdUNXlZaUJiNktFUUVUMXMydEpER3d3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "slug": "db13928",
-          "keyword": "semaglutide",
-          "name": "SEMAGLUTIDE",
-          "url": "/drugs/db13928/"
-        }
-      ]
-    },
-    {
-      "id": "6ef4ae892b46",
-      "title": "Inequality is major factor in impact of non-communicable diseases : WHO - The Hindu",
-      "published": "2026-10-21T10:45:38+00:00",
-      "summary": "Inequality is major factor in impact of non-communicable diseases : WHO&nbsp;&nbsp;The HinduMen drink and smoke more, while women are obese and do less exercise: WHO&nbsp;&nbsp;The New Indian ExpressWHO report examines inequalities in noncommunicable diseases and their risk factors&nbsp;&nbsp;World Health Organization (WHO)How Income, Education and Location Shape Chronic Disease Risks, WHO Report Reveals&nbsp;&nbsp;DevdiscourseWHO's Health Inequality Report Shows How Income, Education And Gender",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEg4Vl84ZGRKOUE5SGwxZGpyTHVKY2lJSl9FZXV1c1c5Rm5ZN2g5TzZCeC1TRnVWa2ROMjhrazV4OUlPdzhvYkJNSU1WTFd5bEg1cjZGOG5XcV9JY1Bndm1uWlRhejVSWVItVTMyT1NaNFVUdmNURGg3SEx1OGllMnpCY3h4UDVad05KbWFsOGpwellULVJXVDcxemhLSS1WaDFRLU5IS3Z5QjRkdnRKNlhVMVNhWEctVkhVTk1PTHdQOTUwN2pTY0pR0gHQAUFVX3lxTFBveFBueWhLa0trclBYXzFnRm03aHFIdzB6di1EZVloNm5lYlhKUG1yWHcxRVBWcUlSQXNKTTE3SFVPWVRuODJmSkNEWE1nZHp0SXRleWFYZFQ1TUtIeS1nM1QzSVpMS19US01DMktXcVM2SFJ6Q3JjV19iSjB6bmg1WnJoN1RvYkpYeXZWZjQ3X2NPcG9BVHNPYkFibmdoSDZFdUdYNGNZNzB4TWV5ZkF0eFFYSzRGV2JZZUF0SUp0dFV4UEFLRXlPMXJHTk5mZGk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "42afa4fdc28e",
-      "title": "Hemato-oncologist warns untreated sleep apnea could be putting your liver at risk; suggests signs to look out for and treatment | Health - Hindustan Times",
-      "published": "2026-10-21T10:27:45+00:00",
-      "summary": "Hemato-oncologist warns untreated sleep apnea could be putting your liver at risk; suggests signs to look out for and treatment | Health&nbsp;&nbsp;Hindustan Times",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQld5UmRZcl9zc0U1N3RSRUlFaWFySW5tWm1CQk94OHNEZjI5VEJseGFQVXNqMkVlOXN2V3VlQTVkclo4ay1SWTZrSmRQRHU2RmdiRTBKWE00R2hFMXpyQTdIRDJCbDAtREJJX3ZydXN3NmlZM25Ea3VYNl9sNHp2MWlKTzlZNm80SmNyeU1JSzBaMkU1WkdKMDl5aU9XLUJYMFp0d3RQd0YyNVZLUVA4MjdSZkhvNTFNRVNJc1hfVmhveGVyLUNQRGEwbFBnQ3B1VmpDTmpoR0VRaDBEZjZaekI1RVNCNmE4OTN6MU43cDIyYTRXMEpKX040MGNTYWd0Q2xiVy1Yenp2Tzl0bFN5SmNMc2F1Q1REOHJla0ZnV1bSAaYCQVVfeXFMTkdQT3ZFNDF1eF9pMVdvR1JTNFh4VlpzRk0wWVZzZkp2UHNtM0V1RTVRQmZPV0ZpZ2U2UU1GTFc1azFTVk5yMlplR19wU1BmdE5aUmpzaVp0T1FfLURXdGFuQTJoaTRfZnhsRENsR2VQbUVJZk5wUmZoRERKMUI0clBfR2FzYm54NmVuZGdRNFR3UkdWRXExd045NmxodU04MUxyM0hRYV9JR1NGR1kxMVpSaTJvekE3cEFxd0l1QjVJVHVhTHZSS3pxcmwtNjd5R1JEWXZQXzZoaVR3RmJxczdDeXZPQ0R3ODlhLTdHd1JqcGVHTl9MeWd6MlNRQmpJYmU3VmxlREVsQWpDeS1MNkhEcTY4dVptV1JReDJrRnI3anA4c1Zn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0daa9b178e43",
       "title": "Building Demand for Human Papillomavirus (HPV) Vaccination in India: A Review of the Behavioural and Social Drivers of Parental and Community Acceptance - The Cureus Journal of Medical Science",
-      "published": "2026-10-21T10:16:21+00:00",
+      "published": "2026-10-21T10:52:16+00:00",
       "summary": "Building Demand for Human Papillomavirus (HPV) Vaccination in India: A Review of the Behavioural and Social Drivers of Parental and Community Acceptance&nbsp;&nbsp;The Cureus Journal of Medical ScienceA shot at a cervical cancer-free generation&nbsp;&nbsp;Hindustan TimesNew HPV vaccines offer broader protection against cervical cancer. How much difference could they make?&nbsp;&nbsp;Gavi, the Vaccine AllianceCervical cancer: Vaccination drive to target 2.9 million girls in KP from Nov 11&nbsp;&n",
       "sources": [
         {
@@ -3644,6 +3561,53 @@
           ]
         }
       ]
+    },
+    {
+      "id": "db0e7ff7ac14",
+      "title": "Efficacy and Safety of Once-Weekly Subcutaneous Semaglutide in Adolescents With Obesity: A Retrospective Study - The Cureus Journal of Medical Science",
+      "published": "2026-10-21T10:52:16+00:00",
+      "summary": "Efficacy and Safety of Once-Weekly Subcutaneous Semaglutide in Adolescents With Obesity: A Retrospective Study&nbsp;&nbsp;The Cureus Journal of Medical Science",
+      "sources": [
+        {
+          "name": "The Cureus Journal of Medical Science",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYXo4X3ZRTy1OSi1MT2VNZjJDbkxLc00xM2JSLXZScUQ5UzlYRXFGVW5CcjRJZnNfMlFJNnVLU2tKMVR4RldIc1doTEltZWpWMGUzR1lnUkNYMkYtdTFyVkJIc093R2JhOGd1czZFbnAzcGhIZUpCMWI3V2tlVVhxOGNORDJGVFczeEhka2U0aVJEREh2RlRwSmo0QWJ5TmlVbTFMcXZCaUVMRjZEMHBpSHQ2c2h5WEViQllWQ0t6WGhkM2IxSzZtRDljMWdUNXlZaUJiNktFUUVUMXMydEpER3d3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "slug": "db13928",
+          "keyword": "semaglutide",
+          "name": "SEMAGLUTIDE",
+          "url": "/drugs/db13928/"
+        }
+      ]
+    },
+    {
+      "id": "6ef4ae892b46",
+      "title": "Inequality is major factor in impact of non-communicable diseases : WHO - The Hindu",
+      "published": "2026-10-21T10:45:38+00:00",
+      "summary": "Inequality is major factor in impact of non-communicable diseases : WHO&nbsp;&nbsp;The HinduMen drink and smoke more, while women are obese and do less exercise: WHO&nbsp;&nbsp;The New Indian ExpressWHO report examines inequalities in noncommunicable diseases and their risk factors&nbsp;&nbsp;World Health Organization (WHO)How Income, Education and Location Shape Chronic Disease Risks, WHO Report Reveals&nbsp;&nbsp;DevdiscourseWHO's Health Inequality Report Shows How Income, Education And Gender",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEg4Vl84ZGRKOUE5SGwxZGpyTHVKY2lJSl9FZXV1c1c5Rm5ZN2g5TzZCeC1TRnVWa2ROMjhrazV4OUlPdzhvYkJNSU1WTFd5bEg1cjZGOG5XcV9JY1Bndm1uWlRhejVSWVItVTMyT1NaNFVUdmNURGg3SEx1OGllMnpCY3h4UDVad05KbWFsOGpwellULVJXVDcxemhLSS1WaDFRLU5IS3Z5QjRkdnRKNlhVMVNhWEctVkhVTk1PTHdQOTUwN2pTY0pR0gHQAUFVX3lxTFBveFBueWhLa0trclBYXzFnRm03aHFIdzB6di1EZVloNm5lYlhKUG1yWHcxRVBWcUlSQXNKTTE3SFVPWVRuODJmSkNEWE1nZHp0SXRleWFYZFQ1TUtIeS1nM1QzSVpMS19US01DMktXcVM2SFJ6Q3JjV19iSjB6bmg1WnJoN1RvYkpYeXZWZjQ3X2NPcG9BVHNPYkFibmdoSDZFdUdYNGNZNzB4TWV5ZkF0eFFYSzRGV2JZZUF0SUp0dFV4UEFLRXlPMXJHTk5mZGk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "42afa4fdc28e",
+      "title": "Hemato-oncologist warns untreated sleep apnea could be putting your liver at risk; suggests signs to look out for and treatment | Health - Hindustan Times",
+      "published": "2026-10-21T10:27:45+00:00",
+      "summary": "Hemato-oncologist warns untreated sleep apnea could be putting your liver at risk; suggests signs to look out for and treatment | Health&nbsp;&nbsp;Hindustan Times",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQld5UmRZcl9zc0U1N3RSRUlFaWFySW5tWm1CQk94OHNEZjI5VEJseGFQVXNqMkVlOXN2V3VlQTVkclo4ay1SWTZrSmRQRHU2RmdiRTBKWE00R2hFMXpyQTdIRDJCbDAtREJJX3ZydXN3NmlZM25Ea3VYNl9sNHp2MWlKTzlZNm80SmNyeU1JSzBaMkU1WkdKMDl5aU9XLUJYMFp0d3RQd0YyNVZLUVA4MjdSZkhvNTFNRVNJc1hfVmhveGVyLUNQRGEwbFBnQ3B1VmpDTmpoR0VRaDBEZjZaekI1RVNCNmE4OTN6MU43cDIyYTRXMEpKX040MGNTYWd0Q2xiVy1Yenp2Tzl0bFN5SmNMc2F1Q1REOHJla0ZnV1bSAaYCQVVfeXFMTkdQT3ZFNDF1eF9pMVdvR1JTNFh4VlpzRk0wWVZzZkp2UHNtM0V1RTVRQmZPV0ZpZ2U2UU1GTFc1azFTVk5yMlplR19wU1BmdE5aUmpzaVp0T1FfLURXdGFuQTJoaTRfZnhsRENsR2VQbUVJZk5wUmZoRERKMUI0clBfR2FzYm54NmVuZGdRNFR3UkdWRXExd045NmxodU04MUxyM0hRYV9JR1NGR1kxMVpSaTJvekE3cEFxd0l1QjVJVHVhTHZSS3pxcmwtNjd5R1JEWXZQXzZoaVR3RmJxczdDeXZPQ0R3ODlhLTdHd1JqcGVHTl9MeWd6MlNRQmpJYmU3VmxlREVsQWpDeS1MNkhEcTY4dVptV1JReDJrRnI3anA4c1Zn?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "ea8347891df8",
@@ -4746,7 +4710,7 @@
       "id": "c524358e3dc8",
       "title": "Australian 'Naturopath' Barbara O'Neill's Medical Ban and the Dangers of Preaching Alternative Medicine as the - Times Now",
       "published": "2026-10-21T09:16:58+00:00",
-      "summary": "Australian 'Naturopath' Barbara O'Neill's Medical Ban and the Dangers of Preaching Alternative Medicine as the&nbsp;&nbsp;Times Now‘Keep away from the doctor’: a visit to an influencer’s wellness event, where the advice could kill&nbsp;&nbsp;The GuardianHundreds heard a sanctioned Australian ‘health guru’ lecture in Meath: Here's what she said&nbsp;&nbsp;The JournalHSE warn against health misinformation as controversial 'alternative nutritionist' comes to Ireland&nbsp;&nbsp;Irish Examiner",
+      "summary": "Australian 'Naturopath' Barbara O'Neill's Medical Ban and the Dangers of Preaching Alternative Medicine as the&nbsp;&nbsp;Times Now‘Keep away from the doctor’: a visit to an influencer’s wellness event, where the advice could kill&nbsp;&nbsp;The GuardianHundreds heard a sanctioned Australian ‘health guru’ lecture in Meath: Here's what she said&nbsp;&nbsp;The Journal",
       "sources": [
         {
           "name": "Times Now",
@@ -4772,7 +4736,7 @@
       "id": "f4070438dcfc",
       "title": "SD Mines researchers contribute to Nobel Prize-winning IceCube Experiment - Black Hills Pioneer",
       "published": "2026-10-21T09:00:00+00:00",
-      "summary": "SD Mines researchers contribute to Nobel Prize-winning IceCube Experiment&nbsp;&nbsp;Black Hills PioneerWhy is the nobel still Individual?&nbsp;&nbsp;Daily ExcelsiorCold and calculating: Ingenious Ice Cube solution assists in understanding cosmic particles&nbsp;&nbsp;The Journal GazetteThe Telescope Made of Ice Listening to Ghost Particles of the Universe&nbsp;&nbsp;Daily Mirror - Sri Lanka2026 Nobel Prize in Physics: Neutrinos on Ice | Magazine | Davidson Institute of Science Education&nbsp;&nb",
+      "summary": "SD Mines researchers contribute to Nobel Prize-winning IceCube Experiment&nbsp;&nbsp;Black Hills PioneerSouth Dakota Mines Researchers Celebrate Nobel Prize Tied to IceCube Neutrino Project&nbsp;&nbsp;KOTACold and calculating: Ingenious Ice Cube solution assists in understanding cosmic particles&nbsp;&nbsp;The Journal GazetteThe Telescope Made of Ice Listening to Ghost Particles of the Universe&nbsp;&nbsp;Daily Mirror - Sri Lanka2026 Nobel Prize in Physics: Neutrinos on Ice | Magazine | Davidson",
       "sources": [
         {
           "name": "Black Hills Pioneer",
@@ -4795,27 +4759,27 @@
       "matched_keywords": []
     },
     {
-      "id": "cd3e6e7c3cb7",
-      "title": "Disease outbreak makes monkeys wary of contaminated food, finds study",
-      "published": "2026-10-21T08:39:55+00:00",
-      "summary": "Disease outbreak makes monkeys wary of contaminated food, finds study&nbsp;&nbsp;ThePrintSee more headlines and perspectives on Google News",
+      "id": "bab31e68f9d7",
+      "title": "Son uses AI to identify vitamin deficiency after doctors give mother hours to live - Free Press Kashmir",
+      "published": "2026-10-21T08:33:59+00:00",
+      "summary": "Son uses AI to identify vitamin deficiency after doctors give mother hours to live&nbsp;&nbsp;Free Press Kashmir'She Only Had Hours': Man Uses AI To Solve Mother's Mysterious Illness&nbsp;&nbsp;NDTVOxfordshire resident says he felt he was in Hugh Laurie’s hit TV show, 'House,' as he describes saving his mom using AI&nbsp;&nbsp;The Times of IndiaNHS anesthetist Edward Patrick used AI to diagnose Ann's seizures&nbsp;&nbsp;NewsBytesSon Used AI to Save Mom’s Life, Compared His Lifesaving Moment to t",
       "sources": [
         {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ196MmM3a0dIYnVGNHdKU0dyTk1SbnNnaGh1c3Fta0FlTEJodTE0X1FFblNEZkhJNm1RUTRlODYwYzNsUnBlVkdvV0xnZENaSXJqN1NtbU8za0RNaGwtMG11c2hxS29ySmJHdm9SZGhmTElhakJYV2FVTWtvSE5BcTl0WVFia3U3dEw1N1N4TmNRZi02UEVpMFhrYXRDbkt1bkQ0U0ZHdzHSAa4BQVVfeXFMT1RGUnZFcXhlWmV1ZTNLbWU0NWNPUk9MOUFFNTRpWjlVMjA5UXAxcGFSVVB6UnN0QzcwenQ0ZkQyYVlfcWE5ZkJEdk96QVpyUVBJbkxBNkVEWm9lSUQ4MVNsM0wyWURpVVZLX3ItdmpSd01YU0VfYW5KcHByTjU2VmhHbFFkT3RkNXdzWHBXeFRRa3AzT3J3NjZjdGZUbVA1Z2VDb1VWS0N2cFp6M3B3?oc=5"
+          "name": "Free Press Kashmir",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUhKN3owbi1VdUluVUNNNXBWVEtxcjN0VkgtQktRXzN5N1RQTVlSTFNUSDhtQ2FPTG51VFNVRi1QVmVTN1RCNDVkWmU3ZlVGMHZGcmpCalpsSmNsX1pNSl9tWHgxUlF1enJlYXNXeWZubkNLbWdmX05aN19ySnljMlNyVjQyb2dfUXVINV92ejRRVUlwQ3R6VDhNZ0xfRHJoNXhqUTF0LTRuOEhqNWJYUkRkS2xZODBNb242RzlGUGhqUdIBxwFBVV95cUxPb2pjZWwyRlA3blJmc3JSQ2VDcXFJSVl6M0dPTkd0VUdmR2xpMnNUakZDc3g4bGtCUVBXTkRuV0RfQUU1MVN0UmpRWFZfZ0NvZ1Y2MTF5WmhScHliUndkeE5QcXhyMmtDY2w3V3FwNElfWjBlSl9zLUYwdW8yR2FrQ2hxYXp5Tm5NeEJvQ2JfbFRYVzRTdzJUTUJKRmplN05DUDZLWjdjQ3UtVnVsa3hjd1cweXctYXp1N0VMYmVRRWgzWmdIUFZz?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "bab31e68f9d7",
-      "title": "Son uses AI to identify vitamin deficiency after doctors give mother hours to live - Free Press Kashmir",
-      "published": "2026-10-21T08:33:59+00:00",
-      "summary": "Son uses AI to identify vitamin deficiency after doctors give mother hours to live&nbsp;&nbsp;Free Press Kashmir'She Only Had Hours': Man Uses AI To Solve Mother's Mysterious Illness&nbsp;&nbsp;NDTVOxfordshire resident says he felt he was in Hugh Laurie’s hit TV show, 'House,' as he describes saving his mom using AI&nbsp;&nbsp;The Times of IndiaNHS anesthetist Edward Patrick used AI to diagnose Ann's seizures&nbsp;&nbsp;NewsBytesDoctors gave woman hours to live, son used AI to identify vitamin d",
+      "id": "69557b3438bd",
+      "title": "Ashwagandha regulations by country: Bans, limits and FAQ - SupplySide Supplement Journal",
+      "published": "2026-10-21T08:17:47+00:00",
+      "summary": "Ashwagandha regulations by country: Bans, limits and FAQ&nbsp;&nbsp;SupplySide Supplement JournalAshwagandha Standards Alliance expands membership and drafts technical standards&nbsp;&nbsp;Nutraceutical Business ReviewAshwagandha Promises Calm. The Science Is More Complicated&nbsp;&nbsp;WIRED Middle East",
       "sources": [
         {
-          "name": "Free Press Kashmir",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUhKN3owbi1VdUluVUNNNXBWVEtxcjN0VkgtQktRXzN5N1RQTVlSTFNUSDhtQ2FPTG51VFNVRi1QVmVTN1RCNDVkWmU3ZlVGMHZGcmpCalpsSmNsX1pNSl9tWHgxUlF1enJlYXNXeWZubkNLbWdmX05aN19ySnljMlNyVjQyb2dfUXVINV92ejRRVUlwQ3R6VDhNZ0xfRHJoNXhqUTF0LTRuOEhqNWJYUkRkS2xZODBNb242RzlGUGhqUdIBxwFBVV95cUxPb2pjZWwyRlA3blJmc3JSQ2VDcXFJSVl6M0dPTkd0VUdmR2xpMnNUakZDc3g4bGtCUVBXTkRuV0RfQUU1MVN0UmpRWFZfZ0NvZ1Y2MTF5WmhScHliUndkeE5QcXhyMmtDY2w3V3FwNElfWjBlSl9zLUYwdW8yR2FrQ2hxYXp5Tm5NeEJvQ2JfbFRYVzRTdzJUTUJKRmplN05DUDZLWjdjQ3UtVnVsa3hjd1cweXctYXp1N0VMYmVRRWgzWmdIUFZz?oc=5"
+          "name": "SupplySide Supplement Journal",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODFhWGpkdnRpOVZSX3FNUS15dEt5ZnlpV2RKUHh5X0swV2xXZFJzSWpFZFkyVlF3VFZBNTNaM0JabkxNUWtDNkIzcFJ1cnA3WFVGNHNCdUo1VzlWcExIWkw4QnF4QUlWN2ZsaU1sTEcwUXlNMHUtdkV1MjJOZXZvcE1id3g?oc=5"
         }
       ],
       "matched_keywords": []
@@ -5294,6 +5258,45 @@
         {
           "name": "India Education Diary",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk83VzVHSVVSRGljN001VXFlR09KWXc3MExob1FoWkYwYll6VnlyYmgySDlLdFVDSHVXSTNwYWdDR0MzYzBGNE9DZjBBLWswWmdKSUxxUzl3dmszWjZ1UUprS0dpSEFoWFRNYVJsdVVDcWFOTGllcjUyRTVhWmltU19WNkxVdTdYbVF2N0Zidkx0TXhRTUUyek1jblg3bkxRcGRJWnE1Qm4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "479bf587753e",
+      "title": "AI Robot Security Blocks Hidden Trigger Attacks - Open Source For You",
+      "published": "2026-10-21T04:45:48+00:00",
+      "summary": "AI Robot Security Blocks Hidden Trigger Attacks&nbsp;&nbsp;Open Source For YouTwo-letter trigger makes US robot turn knife toward human hand in security test&nbsp;&nbsp;Interesting EngineeringSecret trigger words could make AI-powered robots dangerous—and these researchers developed a defense&nbsp;&nbsp;Binghamton UniversitySecret Trigger Words Can Turn a Helpful Household Robot Into a Weapon. Researchers Just Proved It&nbsp;&nbsp;Gadget ReviewAI-powered robots can be tricked into slicing off fi",
+      "sources": [
+        {
+          "name": "Open Source For You",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEt1YzBqMWcyRlpaVnBTUGxYRWl3WVJLVEhUMndmbWcyaFc1bFNzdk9QX2J4cmhJeEFaOEc1WGxqYXlGbE5oX3RaazFDQ3BRQVRvTU5JUVVwd3R3d0VITFhXUTdPcEcyY3lqRWNmaUFncmhYNGxnaU5DR2JMS3JuU2F4M2toM19NbktEUXNrWTk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "209c4bba4b64",
+      "title": "Body clock disruptions contribute to one in four cases of depression, suggests large study",
+      "published": "2026-10-21T04:18:02+00:00",
+      "summary": "Body clock disruptions contribute to one in four cases of depression, suggests large study&nbsp;&nbsp;NatureResearchers identify subtype of depression linked to body's internal clock&nbsp;&nbsp;ET HealthWorldAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The Guardian1 in 4 cases of depression may be caused by off-kilter body clocks&nbsp;&nbsp;New ScientistNew research may change the way many people with depression are treated&nbsp;&nbsp;The ",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbnRoa25nRVA5elAyLUEzR1JtRmN3bUlBVm1JT2dfcFR1MkxQZkNxS1d6ZkpjOVVlNEFqamZxT0ZJSTFxN3BlRlVXN0ppWG9vbi1NRjVLUkNyUnVDbVRZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e67fcf3e62db",
+      "title": "Alzheimer’s research offers hope as scientists reverse cognitive decline in mice",
+      "published": "2026-10-21T03:56:00+00:00",
+      "summary": "Alzheimer’s research offers hope as scientists reverse cognitive decline in mice&nbsp;&nbsp;Mid-DaySee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Mid-Day",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORjQ1X3JmZlRLcWlDZ0h6T19HYUUyVHBFS1poM2ppQ2c2OGNESEZmLWFUX2pRMVlnLWpMMGoyUzA1S05mamFVekU2OEZ0X3RkNzdQV1N0WmFLRndOMlVWb1k4TGtTTThjY0M4dm9oamdNOFZNUy1aZFIxVE1RNVlQU1lsLWFvUGxJaUJqVFlRQlQwcHVsX1V6dnE4OHpSU0tFdVV4cGRaREtVNGprSWFDTkVpRVpsQXpoVWZZRUNubjFCdFM2cVBpS2pTemhDUE55RFRQY2xKTnc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -6373,11 +6376,1147 @@
       "id": "98b171dab46c",
       "title": "What Drives the Jets Fired from Hungry Supermassive Black Holes? - Asia Research News |",
       "published": "2026-10-21T02:02:37+00:00",
-      "summary": "What Drives the Jets Fired from Hungry Supermassive Black Holes?&nbsp;&nbsp;Asia Research News |",
+      "summary": "What Drives the Jets Fired from Hungry Supermassive Black Holes?&nbsp;&nbsp;Asia Research News |Hot plasma may explain how rapidly feeding black holes launch powerful jets&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "Asia Research News |",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdFR0NFZWdFlFQWd2YWVSOEtCdEwyT0c0MHFvM3dQd0YyV2NwYmV4elNYdFdKQmphcnQ0TFRZUXVxR0JIX0pDdXN2UDg2SkdFbUxISmRieUJBck0yTUdMb0hRazZRT3IyM2gwZWE1MmdJcFpZOTBxV3cyMnFNckVBQnZyV29pWVowRlBtazhlZDRJS09rcFQzMTZMQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "298177e579f8",
+      "title": "Top US Expert Explains How Obesity Can Raise Breast Cancer Risk - Times Now",
+      "published": "2026-10-21T01:30:00+00:00",
+      "summary": "Top US Expert Explains How Obesity Can Raise Breast Cancer Risk&nbsp;&nbsp;Times NowWeight Management After Breast Cancer: Why Early Progress May Matter&nbsp;&nbsp;Cancer HealthDoctor shares breast cancer risk factor many women may overlook&nbsp;&nbsp;Boston 25 NewsBreast Cancer Awareness: Link to obesity&nbsp;&nbsp;KMPH Fox 26The Medical Minute: The link between obesity and breast cancer recurrence&nbsp;&nbsp;The Pennsylvania State University",
+      "sources": [
+        {
+          "name": "Times Now",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUi1jdVlnbVFYSnd0TlhYdjZOdUhyZ1pST0swZUt1QkNfSHJSM2Fjb0xrV2lQNWhMS1BnbWpUTE94MjdZQUtRd0Y4YU5QUFJ1NmZwMEs5Um5GTGFITFRNYlMtNGxXZU9sY2FvSVgwb3c0VnJqT18tdnZVdUZwd3lxVHNGWGpyOVpkaDNMQ3lvbXc5STFhbmdST0tFV0wwSm1yQTNGcFdIQlI3WGtDM2JHSy0xcndZaHZ00gG-AUFVX3lxTE5mS2RubEhDVElSajBfU3ZETzlXMG9NVVcza2VRTGJVYWtiMk5uSXBtaFJzSzhJSWM3Vkl2U3NHZ2R0c0l0Y0QwV1c3ZlUwdEwxUkkySEViaEtVQU9ZcnFOUjdXaFZIOFpDWFBfTDVFY3NoQ2dqbzRKall4LVhDT2pMYVgxeDJMdTJ0S1FaUVdkYUlhS1NDZ1pVQ3NTd3dTcTh1X1o1TU5fZWlkYXBZY1h3Q1o4clJnUndXeFRGanc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "ademetionine",
+              "name": "Ademetionine",
+              "url": "/drugs/ademetionine/"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "Aflibercept",
+              "url": "/drugs/aflibercept/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "aliskiren",
+              "name": "Aliskiren",
+              "url": "/drugs/aliskiren/"
+            },
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "amifostine",
+              "name": "Amifostine",
+              "url": "/drugs/amifostine/"
+            },
+            {
+              "slug": "amiloride",
+              "name": "Amiloride",
+              "url": "/drugs/amiloride/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "amylmetacresol",
+              "name": "Amylmetacresol",
+              "url": "/drugs/amylmetacresol/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "anidulafungin",
+              "name": "Anidulafungin",
+              "url": "/drugs/anidulafungin/"
+            },
+            {
+              "slug": "arsenic_trioxide",
+              "name": "Arsenic Trioxide",
+              "url": "/drugs/arsenic-trioxide/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "axitinib",
+              "name": "Axitinib",
+              "url": "/drugs/axitinib/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam",
+              "url": "/drugs/aztreonam/"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab",
+              "url": "/drugs/basiliximab/"
+            },
+            {
+              "slug": "becaplermin",
+              "name": "Becaplermin",
+              "url": "/drugs/becaplermin/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic Acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "bendamustine",
+              "name": "Bendamustine",
+              "url": "/drugs/bendamustine/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "bleomycin",
+              "name": "Bleomycin",
+              "url": "/drugs/bleomycin/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "Cabozantinib",
+              "url": "/drugs/cabozantinib/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "Chlorthalidone",
+              "url": "/drugs/chlorthalidone/"
+            },
+            {
+              "slug": "choline_salicylate",
+              "name": "Choline Salicylate",
+              "url": "/drugs/choline-salicylate/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "dacarbazine",
+              "name": "Dacarbazine",
+              "url": "/drugs/dacarbazine/"
+            },
+            {
+              "slug": "dactinomycin",
+              "name": "Dactinomycin",
+              "url": "/drugs/dactinomycin/"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib",
+              "url": "/drugs/dasatinib/"
+            },
+            {
+              "slug": "daunorubicin",
+              "name": "Daunorubicin",
+              "url": "/drugs/daunorubicin/"
+            },
+            {
+              "slug": "db00002",
+              "name": "CETUXIMAB",
+              "url": "/drugs/cetuximab/"
+            },
+            {
+              "slug": "db00059",
+              "name": "PEGASPARGASE",
+              "url": "/drugs/pegaspargase/"
+            },
+            {
+              "slug": "db00072",
+              "name": "TRASTUZUMAB",
+              "url": "/drugs/trastuzumab/"
+            },
+            {
+              "slug": "db00112",
+              "name": "BEVACIZUMAB",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "db00242",
+              "name": "CLADRIBINE",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "db00248",
+              "name": "CABERGOLINE",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "db00290",
+              "name": "BLEOMYCIN",
+              "url": "/drugs/bleomycin/"
+            },
+            {
+              "slug": "db00291",
+              "name": "CHLORAMBUCIL",
+              "url": "/drugs/chlorambucil/"
+            },
+            {
+              "slug": "db00305",
+              "name": "MITOMYCIN",
+              "url": "/drugs/mitomycin/"
+            },
+            {
+              "slug": "db00317",
+              "name": "GEFITINIB",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "db00361",
+              "name": "VINORELBINE",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "db00396",
+              "name": "PROGESTERONE",
+              "url": "/drugs/progesterone/"
+            },
+            {
+              "slug": "db00398",
+              "name": "SORAFENIB",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "db00441",
+              "name": "GEMCITABINE",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "db00443",
+              "name": "BETAMETHASONE",
+              "url": "/drugs/betamethasone/"
+            },
+            {
+              "slug": "db00445",
+              "name": "EPIRUBICIN",
+              "url": "/drugs/epirubicin/"
+            },
+            {
+              "slug": "db00480",
+              "name": "LENALIDOMIDE",
+              "url": "/drugs/lenalidomide/"
+            },
+            {
+              "slug": "db00488",
+              "name": "ALTRETAMINE",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "db00499",
+              "name": "FLUTAMIDE",
+              "url": "/drugs/flutamide/"
+            },
+            {
+              "slug": "db00526",
+              "name": "OXALIPLATIN",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "db00531",
+              "name": "CYCLOPHOSPHAMIDE",
+              "url": "/drugs/cyclophosphamide/"
+            },
+            {
+              "slug": "db00537",
+              "name": "CIPROFLOXACIN",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "db00541",
+              "name": "VINCRISTINE",
+              "url": "/drugs/vincristine/"
+            },
+            {
+              "slug": "db00544",
+              "name": "FLUOROURACIL",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "db00547",
+              "name": "DESOXIMETASONE",
+              "url": "/drugs/desoximetasone/"
+            },
+            {
+              "slug": "db00553",
+              "name": "METHOXSALEN",
+              "url": "/drugs/methoxsalen/"
+            },
+            {
+              "slug": "db00563",
+              "name": "METHOTREXATE",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "db00570",
+              "name": "VINBLASTINE",
+              "url": "/drugs/vinblastine/"
+            },
+            {
+              "slug": "db00571",
+              "name": "PROPRANOLOL",
+              "url": "/drugs/propranolol/"
+            },
+            {
+              "slug": "db00591",
+              "name": "FLUOCINOLONE ACETONIDE",
+              "url": "/drugs/fluocinolone-acetonide/"
+            },
+            {
+              "slug": "db00603",
+              "name": "MEDROXYPROGESTERONE ACETATE",
+              "url": "/drugs/medroxyprogesterone-acetate/"
+            },
+            {
+              "slug": "db00620",
+              "name": "TRIAMCINOLONE",
+              "url": "/drugs/triamcinolone/"
+            },
+            {
+              "slug": "db00631",
+              "name": "CLOFARABINE",
+              "url": "/drugs/clofarabine/"
+            },
+            {
+              "slug": "db00642",
+              "name": "PEMETREXED",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "db00675",
+              "name": "TAMOXIFEN",
+              "url": "/drugs/tamoxifen/"
+            },
+            {
+              "slug": "db00694",
+              "name": "DAUNORUBICIN",
+              "url": "/drugs/daunorubicin/"
+            },
+            {
+              "slug": "db00724",
+              "name": "IMIQUIMOD",
+              "url": "/drugs/imiquimod/"
+            },
+            {
+              "slug": "db00741",
+              "name": "HYDROCORTISONE",
+              "url": "/drugs/hydrocortisone/"
+            },
+            {
+              "slug": "db00742",
+              "name": "MANNITOL",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "db00755",
+              "name": "TRETINOIN",
+              "url": "/drugs/tretinoin/"
+            },
+            {
+              "slug": "db00762",
+              "name": "IRINOTECAN",
+              "url": "/drugs/irinotecan/"
+            },
+            {
+              "slug": "db00773",
+              "name": "ETOPOSIDE",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "db00851",
+              "name": "DACARBAZINE",
+              "url": "/drugs/dacarbazine/"
+            },
+            {
+              "slug": "db00860",
+              "name": "PREDNISOLONE",
+              "url": "/drugs/prednisolone/"
+            },
+            {
+              "slug": "db00877",
+              "name": "SIROLIMUS",
+              "url": "/drugs/sirolimus/"
+            },
+            {
+              "slug": "db00925",
+              "name": "PHENOXYBENZAMINE",
+              "url": "/drugs/phenoxybenzamine/"
+            },
+            {
+              "slug": "db00958",
+              "name": "CARBOPLATIN",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "db00959",
+              "name": "METHYLPREDNISOLONE",
+              "url": "/drugs/methylprednisolone/"
+            },
+            {
+              "slug": "db00970",
+              "name": "DACTINOMYCIN",
+              "url": "/drugs/dactinomycin/"
+            },
+            {
+              "slug": "db00987",
+              "name": "CYTARABINE",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "db00997",
+              "name": "DOXORUBICIN",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "db01005",
+              "name": "HYDROXYUREA",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "db01030",
+              "name": "TOPOTECAN",
+              "url": "/drugs/topotecan/"
+            },
+            {
+              "slug": "db01033",
+              "name": "MERCAPTOPURINE",
+              "url": "/drugs/mercaptopurine/"
+            },
+            {
+              "slug": "db01042",
+              "name": "MELPHALAN",
+              "url": "/drugs/melphalan/"
+            },
+            {
+              "slug": "db01059",
+              "name": "NORFLOXACIN",
+              "url": "/drugs/norfloxacin/"
+            },
+            {
+              "slug": "db01101",
+              "name": "CAPECITABINE",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "db01119",
+              "name": "DIAZOXIDE",
+              "url": "/drugs/diazoxide/"
+            },
+            {
+              "slug": "db01165",
+              "name": "OFLOXACIN",
+              "url": "/drugs/ofloxacin/"
+            },
+            {
+              "slug": "db01168",
+              "name": "PROCARBAZINE",
+              "url": "/drugs/procarbazine/"
+            },
+            {
+              "slug": "db01169",
+              "name": "ARSENIC TRIOXIDE",
+              "url": "/drugs/arsenic-trioxide/"
+            },
+            {
+              "slug": "db01196",
+              "name": "ESTRAMUSTINE",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "db01200",
+              "name": "BROMOCRIPTINE",
+              "url": "/drugs/bromocriptine/"
+            },
+            {
+              "slug": "db01204",
+              "name": "MITOXANTRONE",
+              "url": "/drugs/mitoxantrone/"
+            },
+            {
+              "slug": "db01206",
+              "name": "LOMUSTINE",
+              "url": "/drugs/lomustine/"
+            },
+            {
+              "slug": "db01229",
+              "name": "PACLITAXEL",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "db01234",
+              "name": "DEXAMETHASONE",
+              "url": "/drugs/dexamethasone/"
+            },
+            {
+              "slug": "db01248",
+              "name": "DOCETAXEL",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "db01254",
+              "name": "DASATINIB",
+              "url": "/drugs/dasatinib/"
+            },
+            {
+              "slug": "db01259",
+              "name": "LAPATINIB",
+              "url": "/drugs/lapatinib/"
+            },
+            {
+              "slug": "db01260",
+              "name": "DESONIDE",
+              "url": "/drugs/desonide/"
+            },
+            {
+              "slug": "db01262",
+              "name": "DECITABINE",
+              "url": "/drugs/decitabine/"
+            },
+            {
+              "slug": "db01268",
+              "name": "SUNITINIB",
+              "url": "/drugs/sunitinib/"
+            },
+            {
+              "slug": "db01269",
+              "name": "PANITUMUMAB",
+              "url": "/drugs/panitumumab/"
+            },
+            {
+              "slug": "db01590",
+              "name": "EVEROLIMUS",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "db04845",
+              "name": "IXABEPILONE",
+              "url": "/drugs/ixabepilone/"
+            },
+            {
+              "slug": "db04868",
+              "name": "NILOTINIB",
+              "url": "/drugs/nilotinib/"
+            },
+            {
+              "slug": "db05109",
+              "name": "TRABECTEDIN",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "db05294",
+              "name": "VANDETANIB",
+              "url": "/drugs/vandetanib/"
+            },
+            {
+              "slug": "db05578",
+              "name": "RAMUCIRUMAB",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "db06287",
+              "name": "TEMSIROLIMUS",
+              "url": "/drugs/temsirolimus/"
+            },
+            {
+              "slug": "db06366",
+              "name": "PERTUZUMAB",
+              "url": "/drugs/pertuzumab/"
+            },
+            {
+              "slug": "db06589",
+              "name": "PAZOPANIB",
+              "url": "/drugs/pazopanib/"
+            },
+            {
+              "slug": "db06626",
+              "name": "AXITINIB",
+              "url": "/drugs/axitinib/"
+            },
+            {
+              "slug": "db06650",
+              "name": "OFATUMUMAB",
+              "url": "/drugs/ofatumumab/"
+            },
+            {
+              "slug": "db06769",
+              "name": "BENDAMUSTINE",
+              "url": "/drugs/bendamustine/"
+            },
+            {
+              "slug": "db06809",
+              "name": "PLERIXAFOR",
+              "url": "/drugs/plerixafor/"
+            },
+            {
+              "slug": "db08865",
+              "name": "CRIZOTINIB",
+              "url": "/drugs/crizotinib/"
+            },
+            {
+              "slug": "db08875",
+              "name": "CABOZANTINIB",
+              "url": "/drugs/cabozantinib/"
+            },
+            {
+              "slug": "db08877",
+              "name": "RUXOLITINIB",
+              "url": "/drugs/ruxolitinib/"
+            },
+            {
+              "slug": "db08885",
+              "name": "AFLIBERCEPT",
+              "url": "/drugs/aflibercept/"
+            },
+            {
+              "slug": "db08889",
+              "name": "CARFILZOMIB",
+              "url": "/drugs/carfilzomib/"
+            },
+            {
+              "slug": "db08896",
+              "name": "REGORAFENIB",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "db08899",
+              "name": "ENZALUTAMIDE",
+              "url": "/drugs/enzalutamide/"
+            },
+            {
+              "slug": "db08911",
+              "name": "TRAMETINIB",
+              "url": "/drugs/trametinib/"
+            },
+            {
+              "slug": "db09037",
+              "name": "PEMBROLIZUMAB",
+              "url": "/drugs/pembrolizumab/"
+            },
+            {
+              "slug": "db09063",
+              "name": "CERITINIB",
+              "url": "/drugs/ceritinib/"
+            },
+            {
+              "slug": "db09074",
+              "name": "OLAPARIB",
+              "url": "/drugs/olaparib/"
+            },
+            {
+              "slug": "db09078",
+              "name": "LENVATINIB",
+              "url": "/drugs/lenvatinib/"
+            },
+            {
+              "slug": "db09079",
+              "name": "NINTEDANIB",
+              "url": "/drugs/nintedanib/"
+            },
+            {
+              "slug": "db09256",
+              "name": "TEGAFUR",
+              "url": "/drugs/tegafur/"
+            },
+            {
+              "slug": "db09257",
+              "name": "GIMERACIL",
+              "url": "/drugs/gimeracil/"
+            },
+            {
+              "slug": "db09343",
+              "name": "TIPIRACIL",
+              "url": "/drugs/tipiracil/"
+            },
+            {
+              "slug": "db11595",
+              "name": "ATEZOLIZUMAB",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "db11714",
+              "name": "DURVALUMAB",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "db12130",
+              "name": "LORLATINIB",
+              "url": "/drugs/lorlatinib/"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "Deferasirox",
+              "url": "/drugs/deferasirox/"
+            },
+            {
+              "slug": "demeclocycline",
+              "name": "Demeclocycline",
+              "url": "/drugs/demeclocycline/"
+            },
+            {
+              "slug": "desoximetasone",
+              "name": "Desoximetasone",
+              "url": "/drugs/desoximetasone/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine",
+              "url": "/drugs/eflornithine/"
+            },
+            {
+              "slug": "efonidipine",
+              "name": "Efonidipine",
+              "url": "/drugs/efonidipine/"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "Enzalutamide",
+              "url": "/drugs/enzalutamide/"
+            },
+            {
+              "slug": "epirubicin",
+              "name": "Epirubicin",
+              "url": "/drugs/epirubicin/"
+            },
+            {
+              "slug": "eplerenone",
+              "name": "Eplerenone",
+              "url": "/drugs/eplerenone/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "eribulin",
+              "name": "Eribulin",
+              "url": "/drugs/eribulin/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "flutamide",
+              "name": "Flutamide",
+              "url": "/drugs/flutamide/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "ixabepilone",
+              "name": "Ixabepilone",
+              "url": "/drugs/ixabepilone/"
+            },
+            {
+              "slug": "labetalol",
+              "name": "Labetalol",
+              "url": "/drugs/labetalol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "Lapatinib",
+              "url": "/drugs/lapatinib/"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "Lenalidomide",
+              "url": "/drugs/lenalidomide/"
+            },
+            {
+              "slug": "lenvatinib",
+              "name": "Lenvatinib",
+              "url": "/drugs/lenvatinib/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "Levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin",
+              "url": "/drugs/levofloxacin/"
+            },
+            {
+              "slug": "lindane",
+              "name": "Lindane",
+              "url": "/drugs/lindane/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib",
+              "url": "/drugs/lorlatinib/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "maraviroc",
+              "name": "Maraviroc",
+              "url": "/drugs/maraviroc/"
+            },
+            {
+              "slug": "megestrol_acetate",
+              "name": "Megestrol Acetate",
+              "url": "/drugs/megestrol-acetate/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
+            },
+            {
+              "slug": "mephenesin",
+              "name": "Mephenesin",
+              "url": "/drugs/mephenesin/"
+            },
+            {
+              "slug": "mercaptopurine",
+              "name": "Mercaptopurine",
+              "url": "/drugs/mercaptopurine/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "methoxsalen",
+              "name": "Methoxsalen",
+              "url": "/drugs/methoxsalen/"
+            },
+            {
+              "slug": "metolazone",
+              "name": "Metolazone",
+              "url": "/drugs/metolazone/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "mitomycin",
+              "name": "Mitomycin",
+              "url": "/drugs/mitomycin/"
+            },
+            {
+              "slug": "mitoxantrone",
+              "name": "Mitoxantrone",
+              "url": "/drugs/mitoxantrone/"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone",
+              "url": "/drugs/mometasone/"
+            },
+            {
+              "slug": "monobenzone",
+              "name": "Monobenzone",
+              "url": "/drugs/monobenzone/"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "Moxifloxacin",
+              "url": "/drugs/moxifloxacin/"
+            },
+            {
+              "slug": "moxonidine",
+              "name": "Moxonidine",
+              "url": "/drugs/moxonidine/"
+            },
+            {
+              "slug": "natamycin",
+              "name": "Natamycin",
+              "url": "/drugs/natamycin/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "Nilotinib",
+              "url": "/drugs/nilotinib/"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "Nintedanib",
+              "url": "/drugs/nintedanib/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "primidone",
+              "name": "Primidone",
+              "url": "/drugs/primidone/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "topiramate",
+              "name": "Topiramate",
+              "url": "/drugs/topiramate/"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic Acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "breast cancer",
+          "related_drugs": [
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ccc4ba3aa72",
+      "title": "A New Way to Make Iridium Catalysts for Hydrogen Production Last Longer - Asia Research News |",
+      "published": "2026-10-21T01:12:25+00:00",
+      "summary": "A New Way to Make Iridium Catalysts for Hydrogen Production Last Longer&nbsp;&nbsp;Asia Research News |",
+      "sources": [
+        {
+          "name": "Asia Research News |",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUFnMThGbXBHaDBMLVRuVmdvYTlHYkEzdjNHMUFBd3VqMlFUVER6SzNfdW5KSllxWUtDY2UzSW9NbkU2NUwzOTFCTFN5T3Vmb3M2MkVsZGxWa2hXVHRoRFAzYTNSMk94V3hjdkJhLWkwMG0zS181Q2llZlFPTkVyVlZoekRLQmQ4TWRJSTI0UXVlVTdRQ3lpaTZtNHVPOVRTeUxITVZn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -6391,19 +7530,6 @@
         {
           "name": "Xinhua",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFBNN1dUME5hMTFaWmIya2dLai1zWUFlNU9NZE9nZ0pRaXQ1b3JNZGpnOW5qRmpfbGwyUDJLSTBxT1ZwNi1EQ2hOdjM3eEpmYUFxMUpJZmRUU3VSaU8wdkJZak9RX0RyVUdJX2J6VEY4VGRzX1ZUel9iNllCZ01QVlZobmxsdnhWcUM1NjRB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e5852337caba",
-      "title": "Earth's Poles Have Dramatically Shifted 4 Times",
-      "published": "2026-10-20T23:00:00+00:00",
-      "summary": "Earth's Poles Have Dramatically Shifted 4 Times&nbsp;&nbsp;NewserEarth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests&nbsp;&nbsp;Smithsonian MagazineNew Study Reveals How Many Times Earth’s True North and South Poles Have Wandered&nbsp;&nbsp;People.com",
-      "sources": [
-        {
-          "name": "Newser",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3IySVNvUnVFR0x3YTctdHViU0pNVGFBdnBuTU9RbFMtSmZNRG1NQjNlLUxxRVVDUDM0cmxnMzhuZnI3QzBSekFGQ3dwWk91X1hrT0xyOXB4QWtVbTNvSFJ0RnJNbW5PU25NV0pwbXEzMHYxeTJXX20tVkdWQU9zODRmU0dtT3BXUEw2UEJrMVc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -6435,21 +7561,499 @@
       "matched_keywords": []
     },
     {
-      "id": "795d62fb289b",
-      "title": "In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy",
-      "published": "2026-10-20T19:48:57+00:00",
-      "summary": "In vitro and in vivo evaluation of liposomes constructed with Rg3 as a cholesterol substitute for tumor therapy&nbsp;&nbsp;Nature",
+      "id": "67d58e8dd472",
+      "title": "Genetic discovery links blindness with metabolic disorder - Clarity News",
+      "published": "2026-10-20T19:36:50+00:00",
+      "summary": "Genetic discovery links blindness with metabolic disorder&nbsp;&nbsp;Clarity News",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Vc0FLcEZJVHcxUDFzNkVqYUVaOFo0SUJPVWJtaEdvRDJpZmI4VW9nRmpqQVhTOGYwSWNXVG9tYkNfbGt1bUd6aFc1SzZSYU5JQlc2dmgxVEg5a2ZLZmhV?oc=5"
+          "name": "Clarity News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGRiNXhJeUphdnc4YWctbUFZVjYtanVzcmEzc2hLR0t0M3RwUV83SzVfRTRmNXFWQm5vaDU5NzJsb1RLVlJSalNoaXFrOGc1ajZhcVFoWGEzU2RJQUhYVWZQWjdtMGpTZ0ZhdGRsdWRPVW1QZFhzc2F5OHlTV0VHM0dGSkFTTDVkRlpN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0147bc85fd86",
+      "title": "Hyperglycemia on Capivasertib: Key Steps for Prevention, Monitoring and Treatment CTA - European Medical Journal",
+      "published": "2026-10-20T18:13:25+00:00",
+      "summary": "Hyperglycemia on Capivasertib: Key Steps for Prevention, Monitoring and Treatment CTA&nbsp;&nbsp;European Medical Journal",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaVozWEZiYjEzZTFvcUhodzJ0bm5NVEFJbVQ0WmZYVE5QclVUajVSdWttVDU1VDdDX2xPRW9jd0FIaHhld1o1SHEzSmpTZVQ0T25BTU1zSEo5M2xPalRLVnNlTUVpWXNMdDU4eDZzeGdUUXZaNXhCQmgxOHhsSWhkVmJscEZZQ3pzbmxPcTA4TGMxcE1POUVMN1JVYjVrUElLeDZKYmdUUVBLT2tRYnAtcWl4aWNacjZBa08zcXNqSWQ2OXpjdE9FYUdVclVEZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d078db7e59fa",
+      "title": "How penguin droppings may accelerate snowmelt in Antarctica - Down To Earth",
+      "published": "2026-10-20T17:13:13+00:00",
+      "summary": "How penguin droppings may accelerate snowmelt in Antarctica&nbsp;&nbsp;Down To EarthPenguin droppings linked to green snow algae in Antarctica, study finds&nbsp;&nbsp;FirstpostCrappy Feet: Penguins Cause, And Maybe Stop, Climate Change — The Climate Realism Show #221&nbsp;&nbsp;The Heartland Institute",
+      "sources": [
+        {
+          "name": "Down To Earth",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUVkSE50dDdZOXN6RUp1eTZ5SHhYdkoxWlpOTDFWX2V3V0xlQVRpYlNDWDNHdkFwazhuaFRDZ3A5MDNhbFc4d0tVSjljajBLbWFoMGJUTnlUbnl2WnA0LXdmVEZ2dnVkdkVCOGpDd1h4d3NpS2NhbGdHaWVuaEVNM1c3bWY4UzFaZGlRS045MHBqN0ZRS29MNGNaZVdYVXlEWEk4SklCbXrSAbYBQVVfeXFMTTlla3g1MGl4VlFNMDlSS0pfTFdHNFp2akZRdmZvMHlVRzNnam93cUJaQXFQOFFEXzBpYm43bk9hYzBMMGpJeWM1OFdvQkt0TTZIeFk2ZGlDSGhMM25ESE5FR0x3RldfbEZhSU94YU9Ka19QTFVIZWw4TUlCN19DV3daV3F1V1RaZmhKYXJBU0JubkhmZWt1RGxWOVJRSlF5TF9ybnRYaUtjVGlMc3B6SnJPLXNpQmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0b507d647374",
+      "title": "Protecting young skin: A new approach to melanoma prevention for children - Medical Xpress",
+      "published": "2026-10-20T14:40:02+00:00",
+      "summary": "Protecting young skin: A new approach to melanoma prevention for children&nbsp;&nbsp;Medical XpressSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXlGdE5vcFFFMi1BM2FLMS1GLWZiRHJNWGpTZWMxUnRjU3JxQ01BT01menhmSHJCU1VieUxhTUxNRS11MGRORXRqRFpyWUNPSW5mSUJ6SXpMQ0JhZkFRRjd3RWxGMnRlSGlGblNhYnFBOF9ja0l4MUFKZ1lVc3I3dzJKbDJ1d2pW?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "256c7aef412c",
+      "title": "Kidney Transplant Outcomes Worsen with High Tacrolimus Variability",
+      "published": "2026-10-20T14:01:37+00:00",
+      "summary": "Kidney Transplant Outcomes Worsen with High Tacrolimus Variability&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRFdTIzSUVELTFaNk0tb2pYVW9VR0RCdXg0MkNnTFlBREdHQmk2ZHdNZTVWUFhwd3c2MlJONWw1ck94YlJxSVJHMU1oTGE1STJ5VUFxLV84ZXdzY1lHei0yZmVacG9kcDBLR3pjcXNWMVlZQ0VOMzd6UlZJZDVYZndmb0tZMjVEc0VKQzc1MGE0TDhiVVZXc0ZqNjUyX0Zmc2NHXzB3SWNpUmhrQ1RR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "drug",
+          "slug": "db00864",
+          "keyword": "tacrolimus",
+          "name": "TACROLIMUS",
+          "url": "/drugs/db00864/"
+        },
+        {
+          "type": "drug",
+          "slug": "tacrolimus",
+          "keyword": "tacrolimus",
+          "name": "Tacrolimus",
+          "url": "/drugs/tacrolimus/"
+        }
+      ]
+    },
+    {
+      "id": "212a372ee989",
+      "title": "Genetic study shows seafarers from Easter Island settled Hawaii",
+      "published": "2026-10-20T13:49:13+00:00",
+      "summary": "Genetic study shows seafarers from Easter Island settled Hawaii&nbsp;&nbsp;DevdiscourseSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Devdiscourse",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX21sSzRjUnEzd0ktWWVfWC1LWjlsVUxENF9lbGM0R3pUZTBZNEM3WnlYN1hLemJReDdNSXhnZ1diQmQ0eDIxMFZLNmZ0NkJxMDRuX3VLTkMwUWFLTDU4R1lDUndXbU9lSFVfRGcyWkF2UFRDY0R3NFFNYzE3ODJjTHd0U0YyT1VaQ0ZRV0pnQ3ZJdGlCZks3clFWYkJLbThYTXNxbG9Sd18tYk9vaXZTbGNCRVJmV1VZUVRxZVRVc9IBxAFBVV95cUxQOHByVWhzb3dsQ2xzWlVoS0o4Um5fanZxTEtOSjNfdFY5QVRWOVVxRlc0Vk90d1paazNfVHBlRjJKaDNRbUtvRFRQMUVqV1F2QVBIWXo5M1Q3NGpNY1pjVkVHektKSXAtTk5mR0FKUHdONWc4MzFYVzl6MzZLeTUzY3RSY3JOV29WWDIzNzJySllhMHJxa2x5NDBlRDExcXRxY19jd1JEOVk5MUo0czJnWHRVUU9OWGs0b3BNa0xvN2tGTDNr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9a0ff7d0196d",
+      "title": "Caregivers with heart disease face high psychological distress risks",
+      "published": "2026-10-20T13:23:00+00:00",
+      "summary": "Caregivers with heart disease face high psychological distress risks&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX09Pcl91YXFXTHJRekVObVY1VnBxUHBkQ1ZmS2UtQ3lsVE5HVFVqbzh6LUhVdWRkd0FPTVBFeW05ODhJTEQ3RVFNX1JuMDcwUmRJQWQ1b3pWUWhzTnBoS2dQVjFzQWN6R05DcWxIcjlvbWh3UmNSOERTbUJNcHNkODdOWEs1b0Nnd0gyWWp6RHlFcDRGVGU5TVBVYnNKQ0l1SlF1YS1NcUY0UkQ3OVFEcTY4M2x0VWc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "heart disease",
+          "related_drugs": [
+            {
+              "slug": "alteplase",
+              "name": "Alteplase",
+              "url": "/drugs/alteplase/"
+            },
+            {
+              "slug": "atosiban",
+              "name": "Atosiban",
+              "url": "/drugs/atosiban/"
+            },
+            {
+              "slug": "cyclandelate",
+              "name": "Cyclandelate",
+              "url": "/drugs/cyclandelate/"
+            },
+            {
+              "slug": "cyproterone_acetate",
+              "name": "Cyproterone Acetate",
+              "url": "/drugs/cyproterone-acetate/"
+            },
+            {
+              "slug": "db00009",
+              "name": "ALTEPLASE",
+              "url": "/drugs/alteplase/"
+            },
+            {
+              "slug": "db00015",
+              "name": "RETEPLASE",
+              "url": "/drugs/reteplase/"
+            },
+            {
+              "slug": "db00031",
+              "name": "TENECTEPLASE",
+              "url": "/drugs/tenecteplase/"
+            },
+            {
+              "slug": "db00063",
+              "name": "EPTIFIBATIDE",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "db00175",
+              "name": "PRAVASTATIN",
+              "url": "/drugs/pravastatin/"
+            },
+            {
+              "slug": "db00227",
+              "name": "LOVASTATIN",
+              "url": "/drugs/lovastatin/"
+            },
+            {
+              "slug": "db00335",
+              "name": "ATENOLOL",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "db00641",
+              "name": "SIMVASTATIN",
+              "url": "/drugs/simvastatin/"
+            },
+            {
+              "slug": "db00661",
+              "name": "VERAPAMIL",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "db00722",
+              "name": "LISINOPRIL",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "db00758",
+              "name": "CLOPIDOGREL",
+              "url": "/drugs/clopidogrel/"
+            },
+            {
+              "slug": "db01076",
+              "name": "ATORVASTATIN",
+              "url": "/drugs/atorvastatin/"
+            },
+            {
+              "slug": "db01095",
+              "name": "FLUVASTATIN",
+              "url": "/drugs/fluvastatin/"
+            },
+            {
+              "slug": "db01098",
+              "name": "ROSUVASTATIN",
+              "url": "/drugs/rosuvastatin/"
+            },
+            {
+              "slug": "db01113",
+              "name": "PAPAVERINE",
+              "url": "/drugs/papaverine/"
+            },
+            {
+              "slug": "db06209",
+              "name": "PRASUGREL",
+              "url": "/drugs/prasugrel/"
+            },
+            {
+              "slug": "db08816",
+              "name": "TICAGRELOR",
+              "url": "/drugs/ticagrelor/"
+            },
+            {
+              "slug": "db08941",
+              "name": "ISOXSUPRINE",
+              "url": "/drugs/isoxsuprine/"
+            },
+            {
+              "slug": "doxapram",
+              "name": "Doxapram",
+              "url": "/drugs/doxapram/"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine",
+              "url": "/drugs/ebastine/"
+            },
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide Dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "isoxsuprine",
+              "name": "Isoxsuprine",
+              "url": "/drugs/isoxsuprine/"
+            },
+            {
+              "slug": "lubiprostone",
+              "name": "Lubiprostone",
+              "url": "/drugs/lubiprostone/"
+            },
+            {
+              "slug": "propafenone",
+              "name": "Propafenone",
+              "url": "/drugs/propafenone/"
+            },
+            {
+              "slug": "streptokinase",
+              "name": "Streptokinase",
+              "url": "/drugs/streptokinase/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f7f51f5a009",
+      "title": "Securing GLP-1 Access and Exploring Hidradenitis Suppurativa Trials - Dermatology Times",
+      "published": "2026-10-20T13:10:33+00:00",
+      "summary": "Securing GLP-1 Access and Exploring Hidradenitis Suppurativa Trials&nbsp;&nbsp;Dermatology TimesGLP-1 Candidacy and Prescribing Considerations in Psoriasis&nbsp;&nbsp;Dermatology TimesAnti-Inflammatory Effects of GLP-1 Medications in Psoriasis and Obesity&nbsp;&nbsp;Dermatology TimesGLP-1 Agonists Address Metabolic Risk in Psoriatic Disease&nbsp;&nbsp;Dermatology Times",
+      "sources": [
+        {
+          "name": "Dermatology Times",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXJvTWRiTzhLTkZfX0xuQzlJZUpTNGNHOHI4TGNsVU12NzBZaGxMaUdwTHladnVQSm1HZDdFZWduQlRQZzljaFJpM3JSeDc0SDhlNGRyVUNYNXgyaFEtc3NBWGZpTm5KWWhVb1BiUl9mdjQybmVQNlNxVTVXSjlwM2FxLVl2QU4yN0hTamNXVkFzTjVvSW5hb1d2Qm51X0tWTGpZRW9VbEg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "psoriasis",
+          "keyword": "psoriasis",
+          "related_drugs": [
+            {
+              "slug": "natalizumab",
+              "name": "Natalizumab",
+              "url": "/drugs/natalizumab/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "skin disease",
+          "keyword": "psoriasis",
+          "related_drugs": [
+            {
+              "slug": "natalizumab",
+              "name": "Natalizumab",
+              "url": "/drugs/natalizumab/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "chamdi ki bimari",
+          "keyword": "psoriasis",
+          "related_drugs": [
+            {
+              "slug": "natalizumab",
+              "name": "Natalizumab",
+              "url": "/drugs/natalizumab/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fcfc18a0ceb7",
+      "title": "Hunger may drive the propensity to develop alcohol addiction",
+      "published": "2026-10-20T12:54:00+00:00",
+      "summary": "Hunger may drive the propensity to develop alcohol addiction&nbsp;&nbsp;News-MedicalHunger may play a role in alcohol addiction, study finds | The study was conducted by Brown University | Inshorts&nbsp;&nbsp;InshortsHunger may play a role in alcohol addiction, new study finds&nbsp;&nbsp;Medical XpressHunger May Hasten Alcohol Cravings, Study Suggests&nbsp;&nbsp;StudyFindsHunger activates a brain cell that makes alcohol more appealing&nbsp;&nbsp;Earth.com",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEJCaG0xUUhXUzVyN29JYXZ6ZGVtUGVNb2NUQWhINEJqRkFsTEJpU2lwM3FYZ2JqbVNYNUtPN3JZN2pNLWZ0N2RUOGt5OElENjBLYXNkTktlZ2RaX0hLRjFIT2VmVE85WXYwSWZ2V1lmbGUxaFZCNDBRVmRBUkhEdHQxZFJ5OG9VcEM3Nk85UDFkdEdkamFXWFdUeDItSmxvU0ptQmZoMnI4anpT?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "58bc50495441",
+      "title": "New guidance urges doctors to prescribe exercise for heart health",
+      "published": "2026-10-20T12:17:26+00:00",
+      "summary": "New guidance urges doctors to prescribe exercise for heart health&nbsp;&nbsp;MedicalNewsTodayIs it true that … you need to take 10,000 steps a day to be healthy?&nbsp;&nbsp;The GuardianScientists say walking 10,000 steps is a myth. Here’s how many you really need&nbsp;&nbsp;The IndependentWalking at 90 Steps a Minute Was Linked to Lower Mortality, Even Below 5,000 Steps&nbsp;&nbsp;AOL.comWhy experts say 10,000 steps a day is a myth after age 60&nbsp;&nbsp;Futura, le média qui explore le monde",
+      "sources": [
+        {
+          "name": "MedicalNewsToday",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNy1Ub0l3SURVd1BXcU1LSm1TM3lCblJid1hoVVpyakFiLUFOaElYeWw2QzFrTngycTl1ckZSSWVmbEwxNU5NUUN3ZjF5RXhOcjExT25wcFZ6UGlDQXQ1am11MkU1RUhERXVDc19ZU0hQaXJMa08yeXpZa3IyY3RVaGRtMGtmZDdCckVQMUFzcEtjUGhOVGFucjQ0bmVpelludlZ4UkpHTmQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1dd102ab5af0",
+      "title": "Magnetic nanoparticles rewarm and restore function to pig kidneys one year after cryogenic storage - The Brighter Side of News",
+      "published": "2026-10-20T11:51:00+00:00",
+      "summary": "Magnetic nanoparticles rewarm and restore function to pig kidneys one year after cryogenic storage&nbsp;&nbsp;The Brighter Side of NewsPig kidneys that were “frozen” for a year have been brought back to life&nbsp;&nbsp;MIT Technology ReviewGlass-frozen for a year at minus 238°F, pig kidneys work again: A first for transplants&nbsp;&nbsp;YahooScientists Just Revived Pig Kidneys Frozen for a Year. It Could Rewrite the Future of Organ Transplants&nbsp;&nbsp;GizmodoUniversity of Minnesota revives fr",
+      "sources": [
+        {
+          "name": "The Brighter Side of News",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmdMLXI2M2RqeURoVGF6UnRoZ2ZqUWRNZG96VlZ0Z2pHcnNicDZwR1pPVFJIUlRvWWQwLWQ2TGY1clJpNF85RFdwOTVVYUtueFpFcXdMTVhfYjluLXp0bGI4WXNpQkVsQWl1bTc3Vl93bVc1dEF3bFBzUE12V0lIVElJQUczUHg2WHA5dnlyYnlfX0thSVBZTFVTY2pCNWF2ZHUyVzNIRXV6bUI0WWNYbEdtLTFnMUZSaXMtbk5JNC1FVHAwUHNDOURJM29veUxyeXln?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0be3b1361c27",
+      "title": "Fatty Liver Disease: Scientists Identify 5 Subtypes With Different Health Risks - Health and Me",
+      "published": "2026-10-20T11:30:00+00:00",
+      "summary": "Fatty Liver Disease: Scientists Identify 5 Subtypes With Different Health Risks&nbsp;&nbsp;Health and MeFatty liver disease is actually five different conditions, scientists discover&nbsp;&nbsp;Science DailyFatty liver risks cirrhosis despite normal enzymes&nbsp;&nbsp;조선일보Global epidemiology of metabolic dysfunction-associated steatotic liver disease: 2026 update&nbsp;&nbsp;Baishideng Publishing GroupWaiting to get sick enough&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUhoYmpvSmFXVDdvNnN1NkF0SjhSYkd0RW15U3V3dnRkV1UyN3IyT0tPTW1WcXd6Z01IdWhEQ01acW5sWFNydzVuX3dCaW1LbVNwZVEzRGppbjV4dUIybW04ZjR6b0l5TDNxYndFMmtQZkc1WUNDT2oxcy1oV2NVU3ZHQlpoYjBaYmNPd0ZnakVYWTZTRjBvdDhpMzF4NXFwMHdiX1NkODAzdGdQZ3lLSUFrOW5WY1l1T081X25qd004R3lZTkp1MnpxMXFsM0l1NXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8229d4abf4a7",
+      "title": "BP still high despite medication? India has no data to show how many have resistant hypertension",
+      "published": "2026-10-20T11:21:02+00:00",
+      "summary": "BP still high despite medication? India has no data to show how many have resistant hypertension&nbsp;&nbsp;ThePrintDespite taking his medication regularly, the man's blood pressure still spiked.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWR3M0M2b2E3MDIzWGNOVXNLU1VtcllGcWpXazl6T2tQZmE5XzRpZXoyMHBob2h0UFoyTzBXaV90eEJKdm5xWi1SQjEzTGRsdnlIMFFWTFV5OHZQVWNXWWRuNS14ZzZPTVU1ZFBfQlp5NXZmVFFoMVdSSHV6WEF3eGM0TzRaeE1sSGYxSFRjX3psMnFxdzFKYXp5QVEyR0VkOW1keXg3YU1iTklDQ21MaEtSZU1KdmpLcS1sclVIU3N0WlBXVUFnbGFiZ9IB0AFBVV95cUxOaS1QOU1CeDVKVVc5TndjR24tT0lWSUYxQ05URE9DR0owSlp1MFpzaTBrbGtCdlFfdm5sQmZCNVNqeVBDLURMM0tjaWFHcGRJdzRPRXNkYkJUOHFJc0ZHX2dEY1dfLXZfYm4tclBJajMzbnR1Q1B6THAyVTdiTjFoMU51dkRYQ3gxR25SaG5HMm1ZTDM0MTFxNHFyQ3RGa3daRjF0cktGUFh0MlhZTU9SR3MwbW1Uc0VaNzFlTG52Tl80WmxUUElobXhOZk53OUEw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ed7de9499898",
+      "title": "Red Blood Cell DNA Offers Promise for Early Gastric Cancer Detection",
+      "published": "2026-10-20T11:06:14+00:00",
+      "summary": "Red Blood Cell DNA Offers Promise for Early Gastric Cancer Detection&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkY0OXZwbnVXS1NDN3pTbE1hMXR0bGd2bllESE9DSzQwNTh1eENzQ3hHdlFSMDdveHlMUlV0RnE2a0xOX1RMd3VzaEs2V29YR29UaDF5YnFTTENFam5yQzZ6b2RvUmFLZkpFZlQ5a1VxOU5tTDFFZTVGcm9SLVd6TWpoT3p4N1QtN3RPTXU2dmRDOG1RQzQ2bTFvaXhMQUR4S3FZUTFteEVqWUlldjBrUE0wb2lOM2dfamc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eb49615876a8",
+      "title": "Bladder Stone Surgery Registry Highlights Transurethral Success",
+      "published": "2026-10-20T10:11:01+00:00",
+      "summary": "Bladder Stone Surgery Registry Highlights Transurethral Success&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFRrejMtS0RMS0dycy1tZXdhVXJxSFlKNnFyWGxXRXB2NW5TaTIxd055QldjVFk1Zi1uYk1hcDVWT0syYkNRdzY2ZDNOcWpmcGhCSE5McTJyS3VQUnR0Z1ozNUEwMFdCVlpqN3M2VUxLVWxHbmxsMFhIZmlxVEVWWlR0Y08xOGxQQnJRN20yVElFODRsdE0zLXM2a09jTjM2U1FtM25Xaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9b456814744d",
+      "title": "Red mud waste to stronger cement: Sulphate activation delivers 7.33 MPa compressive strength - AL Circle",
+      "published": "2026-10-20T08:30:00+00:00",
+      "summary": "Red mud waste to stronger cement: Sulphate activation delivers 7.33 MPa compressive strength&nbsp;&nbsp;AL Circle",
+      "sources": [
+        {
+          "name": "AL Circle",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREhZWXpCREg0NVR0cE1BNmdLODdIeEZsc0xHRlZmWUN3UlNJWW1Xc3BxaFRQcGFPa0R4djFHMHpUeEFiem1vMnBicTJoTFZOcmNRa0lwUE8zaWtJMUh6Q0E1T1d1Z0U3ZUkwb3FGZDhpUGV4OWJERHR5cWY0eVc1YTBqNkx3dnFQNVRPREU1alRZaEF5RlI0SlBsRTE3LTRoWkNiRTRBM3M5SmNRVFpWUW9ubnl0R0k1VmEyUUs0RklaZDZwSV93?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bb2d99909504",
+      "title": "Skin Barrier Damaged This Winter? Dermatologists Explain Why Your Moisturiser Isn't Working",
+      "published": "2026-10-20T08:12:48+00:00",
+      "summary": "Skin Barrier Damaged This Winter? Dermatologists Explain Why Your Moisturiser Isn't Working&nbsp;&nbsp;HerzindagiYour Skin Is Over It: Why Barrier Repair Is Beauty’s Biggest Conversation Right Now&nbsp;&nbsp;News18How to adjust your skincare routine in the winter&nbsp;&nbsp;The IndependentAtlanta dermatologists talk restorative cold-weather skincare&nbsp;&nbsp;Reporter NewspapersFrom cracks to wounds: Winter skin care is important&nbsp;&nbsp;OSF HealthCare",
+      "sources": [
+        {
+          "name": "Herzindagi",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ0xILW5pMk0yUTNGYnRBS19vblY1dWNmaGQ0UW9KVUh0aU1MelZyTU9Yc2JHZ0l3SzRZMzJtelliZVpCLVp1RTV0RDBYUmpUOGlTMlJ2QkNNX3Vtamg1ZDg5TkZjaG10N3hpSko5TmVTdmJSb2dZSUp3bjA2Sno5eU8xdzFQc2xLSVM2Q3d0Qi1pYU9vSzhXOGFFRVFkMzRTa0J6dk5QWGxFOUc3eWRwOWlJUUxOWUtRNktVdENzemZIRmIyNjNxSkhYNTVFVTVSUEVvdXpYYXJhNnI0ckZrTmRac9IB6gFBVV95cUxNQkdqMTBVQUQ0dmFQcHpsQ2JLQ1plNUxncG85cU90cXF4WV9ZNl90YzhJV2lTdERONEdrZ052TjJTY2ZMQXJQUnQ4cGhhZG02RG9mQTVPZlllLXR2U3dKZEhoNzJuQXpSMmhRSEJ3elNNT0ltMi16RktpUURDWFo5enVsbDBpNWh2Zmg1WDFBZDBBb3prdGk5ZjBEeF9tS0xxNGlON3V4ZFZfcGloUWxOdzVyWW1Pc0oyVXdVZDFYbHNoVzJyV2ttVmlBWmZsOG9jbDFyRThZenZzSWpnQ3VQcF9CR0lybktpNHc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "cold",
+          "related_drugs": [
+            {
+              "slug": "meclizine",
+              "name": "Meclizine",
+              "url": "/drugs/meclizine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "65522fab5727",
+      "title": "Wearing headphones during surgery linked to lower risk of nausea, vomiting – China study",
+      "published": "2026-10-20T07:47:40+00:00",
+      "summary": "Wearing headphones during surgery linked to lower risk of nausea, vomiting – China study&nbsp;&nbsp;ThePrintThere’s more to headphones than music. Doctors say they can reduce health troubles post-surgery&nbsp;&nbsp;Yahoo HealthNoise cancelling headphones have surprising post-operation benefit: New study&nbsp;&nbsp;New York PostNoise-cancelling headphones prevent vomiting after surgery&nbsp;&nbsp;New ScientistWearing headphones during surgery may reduce nausea and vomiting afterward&nbsp;&nbsp;Me",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmJQVmFibjVEd2NFaGpuc2FaTnJjeE5rb1FhbXNBNU41UjJsdzlzMFJleE04eWhqdTV0NnNGSlBqU3YwazNaMHR1bWtuRkNGcVd5QmlUZW9HZWNlLVM1VldMNC1qbl92aEtVT1R0Q29GLUlaQUJPSTRDTlI0aVc3WF9FeExmTDJrZGo3OWdZOEhYMkVqRkZydi1RUmNOdlB6YVNHdi1PQ0JOd0pJSGJ4blRVcF9SM2hEd0V1RF95d9IBxAFBVV95cUxNODdIWW1ucG9GaVpKQUpHV3hUeWJUSFMta29jeUtrektzanlIRUFGOTZyUmI2MUN4aVg0Zmd2dzlTSk5hVm00Z2xmZEQwRnctbUVBVVl2bldqQjYzMm0wOTZlbEcxZ2hiV3dTeW5saERHU2E1VlJzYUFnbG1TNDVqQ1NydE82anNLRnA0TjR2bjVhaDFUNUVJNU1lVWotQVVlYVgwVVFBYUtycXY1Rl9UMF8zX01veTlYQWxPVndFSUltYlEx?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b85660abd173",
+      "title": "Osteoporosis Poses Growing Bone Health Concern For Indian Men, Delhi Doctors Urge Early Screening To Prevent Fractures",
+      "published": "2026-10-20T07:32:29+00:00",
+      "summary": "Osteoporosis Poses Growing Bone Health Concern For Indian Men, Delhi Doctors Urge Early Screening To Prevent Fractures&nbsp;&nbsp;NDTVOsteoporosis Is Showing Up Earlier Than Ever: Expert On How Young Adults Can Prevent It&nbsp;&nbsp;NDTVDoctors warn indoor lifestyles are costing Indian kids their bone mass&nbsp;&nbsp;The Times of India6 Daily Habits That Protect Bone Density After Thirty&nbsp;&nbsp;FeminaHow to prevent osteoporosis, from training to eating calcium-rich food&nbsp;&nbsp;South Chin",
+      "sources": [
+        {
+          "name": "NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTnhNcG0zY2twRngydjRGNDU1RTlfSzBodV9WZEc1T2V5UUxkeWdPREkwUFFxQ3BsMDlodWZPcmR1Sm83NFZNdVNlSTBlU2FGSENwZHk4MW5fRk1kdktKMVF4cmRKaEE2b3lqcFIxb0lzUG1acDF0WnJfRS1lNHlQX0R3Mk9BcEc2NnB0eTRvaHhIckhhaU1WTHdEVU43SEVXNnBQbGc1S3ZZWUJaS1BHcjlOVmZERWtXbTc3TFJsVUFPaHJGbDVpRmU0VmM4alNXQjUzVkd4dU4yTVJMQ3BDZk9Jc3ZFblBVWmZtWXlpczFJNGFQT0x0UElad1o0UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4089ad972880",
+      "title": "Can eating blueberries every day improve your mood? A study in older adults found symptoms of depression - The Times of India",
+      "published": "2026-10-20T07:05:00+00:00",
+      "summary": "Can eating blueberries every day improve your mood? A study in older adults found symptoms of depression&nbsp;&nbsp;The Times of IndiaCan Blueberries Improve Your Mood? A 3-Month Study Found a Surprising Clue in the Gut&nbsp;&nbsp;Inc.comCan Blueberries Improve Your Mood? A New Study Finds Intriguing Clues in the Gut&nbsp;&nbsp;Yahoo HealthEating blueberries every day may have a surprising effect on your mood&nbsp;&nbsp;Science DailyEating Blueberries Linked to Subtle Gut Changes and Signs of Mo",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQZDRMTWRGSk4zYUltSVVla1FRMzRsSzUzb2l0eG5EWW5xU19XZGd2VEEzdkFFRk4talhjbmFFNDFXY1dOTTFwOHNlWG5zaVlkeGh1UUpFb2dxQWxfU0IzVHh5Tk96ZjNwVWtManp1a2Jabnd3U2xUaDNLRXZqd0dsVHFnUkNoT2FWdzZGU1FPMzlqVXRsVHF5NnpVSHZjNTVYOG55UG5IRFphS0Zka2pxVGxvb1pZSlFRZU1aS3VDbHFRc1JwbE5XRGsycFRUbXI5Zm1abEVTTU9nblRiQUxhNDNrRUItWEJRWUJ4dnNGVVFRWUxxUDZ3V181QlZ5ZEFlUzZaNDBnOEFhWHhwZHFxNjczSXNUUG9jdjEzT21BRzBSLXZkcl9EV3d5ekNWQmlqYkpEbnNWLVZaOUJnQVhLa1Fob0hvSGIwc1Q5N2VWOWdKOTZTamFGNUgwTnREM21QVXd5ampLaHN4Z2Z3bFZSWHJpQjUzZ2ZLOUxMZUQxaGw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "028508d4c322",
+      "title": "Walking before cancer surgery can cut risk of postoperative delirium by 50%, finds study",
+      "published": "2026-10-20T06:56:18+00:00",
+      "summary": "Walking before cancer surgery can cut risk of postoperative delirium by 50%, finds study&nbsp;&nbsp;ThePrint",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFjY2lkRnF5eUM2dTNYdVZvSmNHakNqYUFOOXJTaW1XVm1HRlpPSnVoSkJTNDI2SkpJRnJWdVRPN0hVRFRNejk4XzY4LURoQVJuM2pNbmp4SkJKNnV5RzBVeUFWOHc3Q09MSUhfSE96YzJPSXdna0NqdkRZM0Y4Sm9sWUU5c0lUQXpEWE05Yk5vTU1fOVF6UlVtT3JZZmstSzVzdnBBaEp5aURfbWhrRnozaWQ3X0hIQlhScEJ3d23SAcYBQVVfeXFMTndva2RLdUNCcFAyYS1JaWFpRTMzRGF0YkVYRXZfUWxJOWVPcnhBNkxuTDVQb21kVnd2WVVBN0g3QzJ6bkNGaWRFTHRCRlpvcEF6NXJGbWtWeTluMXFlN3pZY05ZSzlQU0dPa1QyVzF2RzVSRk5uQklXOFdnMmNoYkdZUGlKcnYxOERjcFF6dTVDeTc5R0xtRTFjXzdMdmM1YzlUNDAyaV9sdEY5TVFTZi00TjZfRm5aUDZFM1JKc0hyOUdCZzFn?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "tumor",
+          "keyword": "cancer",
           "related_drugs": [
             {
               "slug": "acetazolamide",
@@ -7504,561 +9108,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "67d58e8dd472",
-      "title": "Genetic discovery links blindness with metabolic disorder - Clarity News",
-      "published": "2026-10-20T19:36:50+00:00",
-      "summary": "Genetic discovery links blindness with metabolic disorder&nbsp;&nbsp;Clarity News",
-      "sources": [
-        {
-          "name": "Clarity News",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGRiNXhJeUphdnc4YWctbUFZVjYtanVzcmEzc2hLR0t0M3RwUV83SzVfRTRmNXFWQm5vaDU5NzJsb1RLVlJSalNoaXFrOGc1ajZhcVFoWGEzU2RJQUhYVWZQWjdtMGpTZ0ZhdGRsdWRPVW1QZFhzc2F5OHlTV0VHM0dGSkFTTDVkRlpN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1e8e2142bb6b",
-      "title": "Prevalence of Prehypertension and Its Association With Sedentary Lifestyle Indicators Among Adults: A Cross-Sectional Study",
-      "published": "2026-10-20T19:13:19+00:00",
-      "summary": "Prevalence of Prehypertension and Its Association With Sedentary Lifestyle Indicators Among Adults: A Cross-Sectional Study&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM2hsOHJwcHo0ZWJIdWZoRl9Xcm1YZ0NjcXhwV2tfQk5iLTFxaGhaZ1VTRHFjeWdQVUY5S3ptR3RxZnhBa3dJVGt2a3BPZDl4d1c4NnRMME16QjFZRmduN2toNFNKTFVoQXByRkxsanBQdWNkUzVhTW9wRG9QaEdWLUV1S1ZMWEJWR1hYcHZBcWxQVGU4N1JTakFNQjU3UnM3VlB1SEJPLTdqVEg2Mk54eTRxazZ4cnE0Q04zZU5vV25LcTRCX0Vpc3NKTGJOQnJrTTdrbUppT2Z0Y3pINUlyVm9XRm5hUGY4ZkxURTVYaEo2M0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8d53992a8a50",
-      "title": "Greenhouse warmth triggered the two major floristic turnover events of the past 120 million years",
-      "published": "2026-10-20T18:45:27+00:00",
-      "summary": "Greenhouse warmth triggered the two major floristic turnover events of the past 120 million years&nbsp;&nbsp;FloralDailyAncient warmth helped flowering plants dominate Earth, study finds&nbsp;&nbsp;CGTNWhy are there so many plants? Climate change is the important driver&nbsp;&nbsp;Scimex",
-      "sources": [
-        {
-          "name": "FloralDaily",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0tfbXVLd2REWHMwVFAtMWFCNXJfMXNtUmNRNnZwQ29BczFOeUdncHpNR0Q3ck5ncE5iMnplZnR0Rk13NGNmNFgzU0pSb0FhR0c2OGtKQ0FEbjlFYUVWakxVWXJDVVlPWG5KRmo5OGN0MmdjWERwb3N3V2JQNS1wNUZXUGVkWmZ2SGFWMThOTEgxa0p3TTdpTXp3aEJDS0loaWh3VFNVbWxnWVhmRk94bXNSeVEwUTlsZDJqZHlTVlM0ank3TUhkWm9OVW81aTdqNEpuYkhxMFlOQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0147bc85fd86",
-      "title": "Hyperglycemia on Capivasertib: Key Steps for Prevention, Monitoring and Treatment CTA - European Medical Journal",
-      "published": "2026-10-20T18:13:25+00:00",
-      "summary": "Hyperglycemia on Capivasertib: Key Steps for Prevention, Monitoring and Treatment CTA&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaVozWEZiYjEzZTFvcUhodzJ0bm5NVEFJbVQ0WmZYVE5QclVUajVSdWttVDU1VDdDX2xPRW9jd0FIaHhld1o1SHEzSmpTZVQ0T25BTU1zSEo5M2xPalRLVnNlTUVpWXNMdDU4eDZzeGdUUXZaNXhCQmgxOHhsSWhkVmJscEZZQ3pzbmxPcTA4TGMxcE1POUVMN1JVYjVrUElLeDZKYmdUUVBLT2tRYnAtcWl4aWNacjZBa08zcXNqSWQ2OXpjdE9FYUdVclVEZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "919c169e7ef0",
-      "title": "CDC reports third measles death in the United States this year - Al Jazeera",
-      "published": "2026-10-20T18:01:32+00:00",
-      "summary": "CDC reports third measles death in the United States this year&nbsp;&nbsp;Al JazeeraCDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak&nbsp;&nbsp;The GuardianA counterintuitive way to build trust in measles vaccines and public health&nbsp;&nbsp;STATInside Pa.’s measles vaccination efforts as statewide outbreak infects over 1,200&nbsp;&nbsp;90.5 WESAPennsylvania raises alarm on congenital measles&nbsp;&nbsp;CIDRAP",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUtHU281YnFwYmdvWlNFRU1HYldWZFp2YVc4YVRGTnM0MEc2WWphakw1cERFWURmNDlpdER3Z0o0eXl2YVozZ1FkZzQ5VzRia3hkODNrOTBtc2dtcFdFU0tJandTU0FDOFkzN2VIcUVCeEdCcFdaSExiX2RfOHV2ZUxoOGtIM3dpRWU5bGZqVFdFSTR6cGs4ejJmUDVNVFFNSmdxS2c3c9IBrAFBVV95cUxQTTNLZzRpTzdmXzBsV0NOOTl3RjlFVG00d19lNy1TLUkwNXg4b0xUcFQza1pPamxYT19wZkpVWmdxNDhjdVRFR0RsbU9HVXdrYTN6UmE4UGphLVdXR00yQ0stQ1pwQkNwX0NUNkROYWk0MDBxampPMmVFYmROREIyTWoyTE1FQTlqbjE0cUdLREZOdWZaWkZfcnNGSzhuWXVfanpkSEp5V01pTXQw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "RA",
-          "related_drugs": [
-            {
-              "slug": "abemaciclib",
-              "name": "Abemaciclib",
-              "url": "/drugs/abemaciclib/"
-            },
-            {
-              "slug": "abiraterone",
-              "name": "Abiraterone",
-              "url": "/drugs/abiraterone/"
-            },
-            {
-              "slug": "alpelisib",
-              "name": "Alpelisib",
-              "url": "/drugs/alpelisib/"
-            },
-            {
-              "slug": "amiodarone",
-              "name": "Amiodarone",
-              "url": "/drugs/amiodarone/"
-            },
-            {
-              "slug": "amodiaquine",
-              "name": "Amodiaquine",
-              "url": "/drugs/amodiaquine/"
-            },
-            {
-              "slug": "apremilast",
-              "name": "Apremilast",
-              "url": "/drugs/apremilast/"
-            },
-            {
-              "slug": "balsalazide",
-              "name": "Balsalazide",
-              "url": "/drugs/balsalazide/"
-            },
-            {
-              "slug": "bosentan",
-              "name": "Bosentan",
-              "url": "/drugs/bosentan/"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel",
-              "url": "/drugs/cabazitaxel/"
-            },
-            {
-              "slug": "chlorzoxazone",
-              "name": "Chlorzoxazone",
-              "url": "/drugs/chlorzoxazone/"
-            },
-            {
-              "slug": "choline_salicylate",
-              "name": "Choline Salicylate",
-              "url": "/drugs/choline-salicylate/"
-            },
-            {
-              "slug": "chromium",
-              "name": "Chromium",
-              "url": "/drugs/chromium/"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide",
-              "url": "/drugs/eptifibatide/"
-            },
-            {
-              "slug": "levocetirizine",
-              "name": "Levocetirizine",
-              "url": "/drugs/levocetirizine/"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam",
-              "url": "/drugs/lornoxicam/"
-            },
-            {
-              "slug": "mefenamic_acid",
-              "name": "Mefenamic Acid",
-              "url": "/drugs/mefenamic-acid/"
-            },
-            {
-              "slug": "mesalazine",
-              "name": "Mesalazine",
-              "url": "/drugs/mesalazine/"
-            },
-            {
-              "slug": "metamizole",
-              "name": "Metamizole",
-              "url": "/drugs/metamizole/"
-            },
-            {
-              "slug": "nalidixic_acid",
-              "name": "Nalidixic Acid",
-              "url": "/drugs/nalidixic-acid/"
-            },
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin",
-              "url": "/drugs/nitrofurantoin/"
-            },
-            {
-              "slug": "valdecoxib",
-              "name": "Valdecoxib",
-              "url": "/drugs/valdecoxib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "facf907655a0",
-      "title": "Do you need to take 10,000 steps a day to be healthy? - Taipei Times",
-      "published": "2026-10-20T16:00:00+00:00",
-      "summary": "Do you need to take 10,000 steps a day to be healthy?&nbsp;&nbsp;Taipei TimesIs it true that … you need to take 10,000 steps a day to be healthy?&nbsp;&nbsp;The GuardianScientists say walking 10,000 steps is a myth. Here’s how many you really need&nbsp;&nbsp;The IndependentWalking at 90 Steps a Minute Was Linked to Lower Mortality, Even Below 5,000 Steps&nbsp;&nbsp;Yahoo HealthWhy experts say 10,000 steps a day is a myth after age 60&nbsp;&nbsp;Futura, le média qui explore le monde",
-      "sources": [
-        {
-          "name": "Taipei Times",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TOFJJYXM2bVRKZzB6NDNZa2Y1TjdMRFhacE5xdnZMc2gxWjU1YWlzbUVVMlo2LUY3UzdJLU96SXJHakJzR2VwMXNxajlyNFhGUmtJc1dqUDduYldDQmd5MTJnYk1VUG55NGZtc2liSHdtRUJDcnZz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8175cf11d0a2",
-      "title": "New TB vaccines are coming. How are countries preparing for the rollout? - Gavi, the Vaccine Alliance",
-      "published": "2026-10-20T14:48:33+00:00",
-      "summary": "New TB vaccines are coming. How are countries preparing for the rollout?&nbsp;&nbsp;Gavi, the Vaccine AllianceNew TB Vaccines Offer Hope, but Equitable Access Is Key&nbsp;&nbsp;allAfrica.comPlanning TB prevention: Considerations for an evolving toolkit&nbsp;&nbsp;Clinton Health Access InitiativeAfrica: New TB Vaccines Could Save Millions, but Africa Must Prepare Now&nbsp;&nbsp;allAfrica.com",
-      "sources": [
-        {
-          "name": "Gavi, the Vaccine Alliance",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcXlmaVE1WXhpRkh6NFlHVnloYzloOWVHWHhsUUdxYmJWd1VwU2lSU2diZ1VwaDlzN0lnQW1fbEJCc0QzSG1pT3JHX2F6cGExYl9ERFFxTlo5T3ljU0xsbkZvSVU4WEZKS0c2ekV5SGxrZTBXS3ZTZW42Tl9DbGY2LVFnSEJsTnQ2dkJwOW14Q19rY0NvOENMXzVJUUc0bzRZeHpV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0b507d647374",
-      "title": "Protecting young skin: A new approach to melanoma prevention for children - Medical Xpress",
-      "published": "2026-10-20T14:40:02+00:00",
-      "summary": "Protecting young skin: A new approach to melanoma prevention for children&nbsp;&nbsp;Medical XpressSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXlGdE5vcFFFMi1BM2FLMS1GLWZiRHJNWGpTZWMxUnRjU3JxQ01BT01menhmSHJCU1VieUxhTUxNRS11MGRORXRqRFpyWUNPSW5mSUJ6SXpMQ0JhZkFRRjd3RWxGMnRlSGlGblNhYnFBOF9ja0l4MUFKZ1lVc3I3dzJKbDJ1d2pW?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d1ada0a495cc",
-      "title": "Chinese scientists develop world’s lightest 1-gram wireless mesoscale microscope, a new tool for neuroscience research and BCI research - Global Times",
-      "published": "2026-10-20T14:33:00+00:00",
-      "summary": "Chinese scientists develop world’s lightest 1-gram wireless mesoscale microscope, a new tool for neuroscience research and BCI research&nbsp;&nbsp;Global TimesChina builds the world’s smallest wearable brain monitor with a cortex-wide view&nbsp;&nbsp;South China Morning PostUltralight microscope tracks brain activity in mice&nbsp;&nbsp;China DailyChinese team invents 1-gram microscope for precise neural detection&nbsp;&nbsp;XinhuaChina creates 1-gram brain monitor for animals — South China Morni",
-      "sources": [
-        {
-          "name": "Global Times",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqOVJuWVYtLVYwMXpzUTdhNUhYTXBFeUV4ajdwTHNmcDBZR05ObXFMbVRnVVZIZDhzalVqZ1c5QWJyTXFFTU1KNlpxa3JINF96R09SQXdJX3dOU051QTNLZFFR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "256c7aef412c",
-      "title": "Kidney Transplant Outcomes Worsen with High Tacrolimus Variability",
-      "published": "2026-10-20T14:01:37+00:00",
-      "summary": "Kidney Transplant Outcomes Worsen with High Tacrolimus Variability&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRFdTIzSUVELTFaNk0tb2pYVW9VR0RCdXg0MkNnTFlBREdHQmk2ZHdNZTVWUFhwd3c2MlJONWw1ck94YlJxSVJHMU1oTGE1STJ5VUFxLV84ZXdzY1lHei0yZmVacG9kcDBLR3pjcXNWMVlZQ0VOMzd6UlZJZDVYZndmb0tZMjVEc0VKQzc1MGE0TDhiVVZXc0ZqNjUyX0Zmc2NHXzB3SWNpUmhrQ1RR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "slug": "db00864",
-          "keyword": "tacrolimus",
-          "name": "TACROLIMUS",
-          "url": "/drugs/db00864/"
-        },
-        {
-          "type": "drug",
-          "slug": "tacrolimus",
-          "keyword": "tacrolimus",
-          "name": "Tacrolimus",
-          "url": "/drugs/tacrolimus/"
-        }
-      ]
-    },
-    {
-      "id": "212a372ee989",
-      "title": "Genetic study shows seafarers from Easter Island settled Hawaii",
-      "published": "2026-10-20T13:49:13+00:00",
-      "summary": "Genetic study shows seafarers from Easter Island settled Hawaii&nbsp;&nbsp;DevdiscourseSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX21sSzRjUnEzd0ktWWVfWC1LWjlsVUxENF9lbGM0R3pUZTBZNEM3WnlYN1hLemJReDdNSXhnZ1diQmQ0eDIxMFZLNmZ0NkJxMDRuX3VLTkMwUWFLTDU4R1lDUndXbU9lSFVfRGcyWkF2UFRDY0R3NFFNYzE3ODJjTHd0U0YyT1VaQ0ZRV0pnQ3ZJdGlCZks3clFWYkJLbThYTXNxbG9Sd18tYk9vaXZTbGNCRVJmV1VZUVRxZVRVc9IBxAFBVV95cUxQOHByVWhzb3dsQ2xzWlVoS0o4Um5fanZxTEtOSjNfdFY5QVRWOVVxRlc0Vk90d1paazNfVHBlRjJKaDNRbUtvRFRQMUVqV1F2QVBIWXo5M1Q3NGpNY1pjVkVHektKSXAtTk5mR0FKUHdONWc4MzFYVzl6MzZLeTUzY3RSY3JOV29WWDIzNzJySllhMHJxa2x5NDBlRDExcXRxY19jd1JEOVk5MUo0czJnWHRVUU9OWGs0b3BNa0xvN2tGTDNr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0f7f51f5a009",
-      "title": "Securing GLP-1 Access and Exploring Hidradenitis Suppurativa Trials - Dermatology Times",
-      "published": "2026-10-20T13:10:33+00:00",
-      "summary": "Securing GLP-1 Access and Exploring Hidradenitis Suppurativa Trials&nbsp;&nbsp;Dermatology TimesGLP-1 Candidacy and Prescribing Considerations in Psoriasis&nbsp;&nbsp;Dermatology TimesAnti-Inflammatory Effects of GLP-1 Medications in Psoriasis and Obesity&nbsp;&nbsp;Dermatology TimesGLP-1 Agonists Address Metabolic Risk in Psoriatic Disease&nbsp;&nbsp;Dermatology Times",
-      "sources": [
-        {
-          "name": "Dermatology Times",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXJvTWRiTzhLTkZfX0xuQzlJZUpTNGNHOHI4TGNsVU12NzBZaGxMaUdwTHladnVQSm1HZDdFZWduQlRQZzljaFJpM3JSeDc0SDhlNGRyVUNYNXgyaFEtc3NBWGZpTm5KWWhVb1BiUl9mdjQybmVQNlNxVTVXSjlwM2FxLVl2QU4yN0hTamNXVkFzTjVvSW5hb1d2Qm51X0tWTGpZRW9VbEg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "psoriasis",
-          "keyword": "psoriasis",
-          "related_drugs": [
-            {
-              "slug": "natalizumab",
-              "name": "Natalizumab",
-              "url": "/drugs/natalizumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "skin disease",
-          "keyword": "psoriasis",
-          "related_drugs": [
-            {
-              "slug": "natalizumab",
-              "name": "Natalizumab",
-              "url": "/drugs/natalizumab/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "chamdi ki bimari",
-          "keyword": "psoriasis",
-          "related_drugs": [
-            {
-              "slug": "natalizumab",
-              "name": "Natalizumab",
-              "url": "/drugs/natalizumab/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fcfc18a0ceb7",
-      "title": "Hunger may drive the propensity to develop alcohol addiction",
-      "published": "2026-10-20T12:54:00+00:00",
-      "summary": "Hunger may drive the propensity to develop alcohol addiction&nbsp;&nbsp;News-MedicalHunger may play a role in alcohol addiction, study finds | The study was conducted by Brown University | Inshorts&nbsp;&nbsp;InshortsHunger may play a role in alcohol addiction, new study finds&nbsp;&nbsp;Medical XpressHunger May Hasten Alcohol Cravings, Study Suggests&nbsp;&nbsp;StudyFindsHunger activates a brain cell that makes alcohol more appealing&nbsp;&nbsp;Earth.com",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEJCaG0xUUhXUzVyN29JYXZ6ZGVtUGVNb2NUQWhINEJqRkFsTEJpU2lwM3FYZ2JqbVNYNUtPN3JZN2pNLWZ0N2RUOGt5OElENjBLYXNkTktlZ2RaX0hLRjFIT2VmVE85WXYwSWZ2V1lmbGUxaFZCNDBRVmRBUkhEdHQxZFJ5OG9VcEM3Nk85UDFkdEdkamFXWFdUeDItSmxvU0ptQmZoMnI4anpT?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2cc5b20b0433",
-      "title": "Scientists make discovery that could help explain why life exists: Study - hornbill tv",
-      "published": "2026-10-20T12:29:12+00:00",
-      "summary": "Scientists make discovery that could help explain why life exists: Study&nbsp;&nbsp;hornbill tv",
-      "sources": [
-        {
-          "name": "hornbill tv",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXVLZnpVQWV5QXUtVnZyQlVQd050cHU0ck1nWWRrNl9wMXFnN3kxTmpjX2JuQWtWTUZScmdsOTZBUFRwSGdGdXM1UXFCdVVCUjJCUUlCbUhiMkdRc0FDWmM2bU51clpKc3UzUDVsalJjUmpNUWNTZlFJNURpMXI0MVBVLU5mR0hUQTlFcWJVV1B3MllyUVVmTDM2Y1QzejZPUDhWdzVSbXpkbjl6ckpaTg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1dd102ab5af0",
-      "title": "Magnetic nanoparticles rewarm and restore function to pig kidneys one year after cryogenic storage - The Brighter Side of News",
-      "published": "2026-10-20T11:51:00+00:00",
-      "summary": "Magnetic nanoparticles rewarm and restore function to pig kidneys one year after cryogenic storage&nbsp;&nbsp;The Brighter Side of NewsPig kidneys that were “frozen” for a year have been brought back to life&nbsp;&nbsp;MIT Technology ReviewGlass-frozen for a year at minus 238°F, pig kidneys work again: A first for transplants&nbsp;&nbsp;YahooScientists Just Revived Pig Kidneys Frozen for a Year. It Could Rewrite the Future of Organ Transplants&nbsp;&nbsp;GizmodoUniversity of Minnesota revives fr",
-      "sources": [
-        {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmdMLXI2M2RqeURoVGF6UnRoZ2ZqUWRNZG96VlZ0Z2pHcnNicDZwR1pPVFJIUlRvWWQwLWQ2TGY1clJpNF85RFdwOTVVYUtueFpFcXdMTVhfYjluLXp0bGI4WXNpQkVsQWl1bTc3Vl93bVc1dEF3bFBzUE12V0lIVElJQUczUHg2WHA5dnlyYnlfX0thSVBZTFVTY2pCNWF2ZHUyVzNIRXV6bUI0WWNYbEdtLTFnMUZSaXMtbk5JNC1FVHAwUHNDOURJM29veUxyeXln?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0be3b1361c27",
-      "title": "Fatty Liver Disease: Scientists Identify 5 Subtypes With Different Health Risks - Health and Me",
-      "published": "2026-10-20T11:30:00+00:00",
-      "summary": "Fatty Liver Disease: Scientists Identify 5 Subtypes With Different Health Risks&nbsp;&nbsp;Health and MeFatty liver disease is actually five different conditions, scientists discover&nbsp;&nbsp;Science DailyFatty liver risks cirrhosis despite normal enzymes&nbsp;&nbsp;조선일보Global epidemiology of metabolic dysfunction-associated steatotic liver disease: 2026 update&nbsp;&nbsp;Baishideng Publishing GroupWaiting to get sick enough&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUhoYmpvSmFXVDdvNnN1NkF0SjhSYkd0RW15U3V3dnRkV1UyN3IyT0tPTW1WcXd6Z01IdWhEQ01acW5sWFNydzVuX3dCaW1LbVNwZVEzRGppbjV4dUIybW04ZjR6b0l5TDNxYndFMmtQZkc1WUNDT2oxcy1oV2NVU3ZHQlpoYjBaYmNPd0ZnakVYWTZTRjBvdDhpMzF4NXFwMHdiX1NkODAzdGdQZ3lLSUFrOW5WY1l1T081X25qd004R3lZTkp1MnpxMXFsM0l1NXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8229d4abf4a7",
-      "title": "BP still high despite medication? India has no data to show how many have resistant hypertension",
-      "published": "2026-10-20T11:21:02+00:00",
-      "summary": "BP still high despite medication? India has no data to show how many have resistant hypertension&nbsp;&nbsp;ThePrintDespite taking his medication regularly, the man's blood pressure still spiked.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTWR3M0M2b2E3MDIzWGNOVXNLU1VtcllGcWpXazl6T2tQZmE5XzRpZXoyMHBob2h0UFoyTzBXaV90eEJKdm5xWi1SQjEzTGRsdnlIMFFWTFV5OHZQVWNXWWRuNS14ZzZPTVU1ZFBfQlp5NXZmVFFoMVdSSHV6WEF3eGM0TzRaeE1sSGYxSFRjX3psMnFxdzFKYXp5QVEyR0VkOW1keXg3YU1iTklDQ21MaEtSZU1KdmpLcS1sclVIU3N0WlBXVUFnbGFiZ9IB0AFBVV95cUxOaS1QOU1CeDVKVVc5TndjR24tT0lWSUYxQ05URE9DR0owSlp1MFpzaTBrbGtCdlFfdm5sQmZCNVNqeVBDLURMM0tjaWFHcGRJdzRPRXNkYkJUOHFJc0ZHX2dEY1dfLXZfYm4tclBJajMzbnR1Q1B6THAyVTdiTjFoMU51dkRYQ3gxR25SaG5HMm1ZTDM0MTFxNHFyQ3RGa3daRjF0cktGUFh0MlhZTU9SR3MwbW1Uc0VaNzFlTG52Tl80WmxUUElobXhOZk53OUEw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ed7de9499898",
-      "title": "Red Blood Cell DNA Offers Promise for Early Gastric Cancer Detection",
-      "published": "2026-10-20T11:06:14+00:00",
-      "summary": "Red Blood Cell DNA Offers Promise for Early Gastric Cancer Detection&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkY0OXZwbnVXS1NDN3pTbE1hMXR0bGd2bllESE9DSzQwNTh1eENzQ3hHdlFSMDdveHlMUlV0RnE2a0xOX1RMd3VzaEs2V29YR29UaDF5YnFTTENFam5yQzZ6b2RvUmFLZkpFZlQ5a1VxOU5tTDFFZTVGcm9SLVd6TWpoT3p4N1QtN3RPTXU2dmRDOG1RQzQ2bTFvaXhMQUR4S3FZUTFteEVqWUlldjBrUE0wb2lOM2dfamc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "637d1800fe8b",
-      "title": "Gas around Milky Way's central black hole is rich in metals: Study | The study was published in Astronomical Journal | Inshorts",
-      "published": "2026-10-20T10:31:38+00:00",
-      "summary": "Gas around Milky Way's central black hole is rich in metals: Study | The study was published in Astronomical Journal | Inshorts&nbsp;&nbsp;InshortsWebb reveals metal-rich gas around Milky Way's central black hole&nbsp;&nbsp;Phys.orgGas Around the Milky Way's Black Hole Is Richer in Heavy Elements Than the Sun&nbsp;&nbsp;Around PragueGas near our galaxy's black hole is rich in metals&nbsp;&nbsp;Universe Space TechThe gas around Milky Way's central black hole is rich in metals, study finds&nbsp;&n",
-      "sources": [
-        {
-          "name": "Inshorts",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS25hbHVpSl9iQkk0SkpTdVlYaTI1M2ltZ3B6UkhzeVpWeEpyNE54UkpaakY0RjhBSGxvZGpOa1d6Z1lBa2VoR3g3cXlIbzVMMDRZNi1YWDc5Q1FKWnhQclVZX05TdXpwU29oOG1OODlsWEExdndsVkJ6Z2JES0FGdl9KV2tuV0UwcmdYd21ZdzdqVEIyZTIzWUJpZVNzYmp0V093UEQtSG5nUWVhQ1HSAbMBQVVfeXFMTWZfclAxa1p4cXNpd3BaV1ZTT2wwT1ZCNW1WWERMMkZiUVJmTVBkNjRuVXJ3ZjNFQW1CTnQ2Mks5TmVURDF1ZkJLa29PZDlSN1RDSmY0VDdneW1sYUJCTzYxek5ubk91MFU1Y201WDFFajJrUGZtYmJvSHNEd2MwNGxib1hESnBSQ0JBdGlCZjRLdHZHd2RCeV9jWS1rOEFsd0dVbmxFSHZUNnJvWm4wOXhOdjg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8cfaa3a7bd77",
-      "title": "Enhanced surface hydrophobicity in the combined treatment of chaplins and rodlins from Streptomyces griseus",
-      "published": "2026-10-20T10:30:00+00:00",
-      "summary": "Enhanced surface hydrophobicity in the combined treatment of chaplins and rodlins from Streptomyces griseus&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KWEFRVmpzUTRVMmZDaWRueU9RelViUlhQLVBjRVJsQUM5dzlMUlFOQlB3Njh3UFhkOXVMNEpRZVRCTVNvVFdJcE1fT2I2Uk92WmNkWGxHM2Z1Vk0xdzVr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "eb49615876a8",
-      "title": "Bladder Stone Surgery Registry Highlights Transurethral Success",
-      "published": "2026-10-20T10:11:01+00:00",
-      "summary": "Bladder Stone Surgery Registry Highlights Transurethral Success&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFRrejMtS0RMS0dycy1tZXdhVXJxSFlKNnFyWGxXRXB2NW5TaTIxd055QldjVFk1Zi1uYk1hcDVWT0syYkNRdzY2ZDNOcWpmcGhCSE5McTJyS3VQUnR0Z1ozNUEwMFdCVlpqN3M2VUxLVWxHbmxsMFhIZmlxVEVWWlR0Y08xOGxQQnJRN20yVElFODRsdE0zLXM2a09jTjM2U1FtM25Xaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "749cd1853a9e",
-      "title": "Why sunlight is vital to our physical and mental health",
-      "published": "2026-10-20T10:00:00+00:00",
-      "summary": "Why sunlight is vital to our physical and mental health&nbsp;&nbsp;Psyche",
-      "sources": [
-        {
-          "name": "Psyche",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2VjdDl6N2EzeTgzcjM0d3RzYkxCUVpvUzNjRjZfQ3hEU2ZwM2Q4TWx4UjlyNWh0R1pINUE1d2lIY0ljc0x3X24xekc2dFBSRTEwTGZ0OTU0ZEJ4UUdKRDBmUFNCWkVjeWk0b1YwR0lrMUhGSmFsRVhCMndjNEpqaER1UkxVNVA1X2daaTJsWjA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9b456814744d",
-      "title": "Red mud waste to stronger cement: Sulphate activation delivers 7.33 MPa compressive strength - AL Circle",
-      "published": "2026-10-20T08:30:00+00:00",
-      "summary": "Red mud waste to stronger cement: Sulphate activation delivers 7.33 MPa compressive strength&nbsp;&nbsp;AL Circle",
-      "sources": [
-        {
-          "name": "AL Circle",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREhZWXpCREg0NVR0cE1BNmdLODdIeEZsc0xHRlZmWUN3UlNJWW1Xc3BxaFRQcGFPa0R4djFHMHpUeEFiem1vMnBicTJoTFZOcmNRa0lwUE8zaWtJMUh6Q0E1T1d1Z0U3ZUkwb3FGZDhpUGV4OWJERHR5cWY0eVc1YTBqNkx3dnFQNVRPREU1alRZaEF5RlI0SlBsRTE3LTRoWkNiRTRBM3M5SmNRVFpWUW9ubnl0R0k1VmEyUUs0RklaZDZwSV93?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e5a77fd41a60",
-      "title": "CityUHK Researchers Shatter Physical Limitations and Reveal a Quantum Pathway to Entropy-Free Energy Transfer",
-      "published": "2026-10-20T08:23:00+00:00",
-      "summary": "CityUHK Researchers Shatter Physical Limitations and Reveal a Quantum Pathway to Entropy-Free Energy Transfer&nbsp;&nbsp;AZoQuantum",
-      "sources": [
-        {
-          "name": "AZoQuantum",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CTUNjdTUxVDRWRE9OeEFtdFZSLTZoX2lsUnVYWWlMdVpWb3RFbzFCTHk3aEdmQ1IwSlNEcFRWTjUtbVh6QW93YVFZNkE4c2JYbVFRcTZzalRnM2ZxTnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bb2d99909504",
-      "title": "Skin Barrier Damaged This Winter? Dermatologists Explain Why Your Moisturiser Isn't Working",
-      "published": "2026-10-20T08:12:48+00:00",
-      "summary": "Skin Barrier Damaged This Winter? Dermatologists Explain Why Your Moisturiser Isn't Working&nbsp;&nbsp;HerzindagiYour Skin Is Over It: Why Barrier Repair Is Beauty’s Biggest Conversation Right Now&nbsp;&nbsp;News18How to adjust your skincare routine in the winter&nbsp;&nbsp;The IndependentAtlanta dermatologists talk restorative cold-weather skincare&nbsp;&nbsp;Reporter NewspapersFrom cracks to wounds: Winter skin care is important&nbsp;&nbsp;OSF HealthCare",
-      "sources": [
-        {
-          "name": "Herzindagi",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQ0xILW5pMk0yUTNGYnRBS19vblY1dWNmaGQ0UW9KVUh0aU1MelZyTU9Yc2JHZ0l3SzRZMzJtelliZVpCLVp1RTV0RDBYUmpUOGlTMlJ2QkNNX3Vtamg1ZDg5TkZjaG10N3hpSko5TmVTdmJSb2dZSUp3bjA2Sno5eU8xdzFQc2xLSVM2Q3d0Qi1pYU9vSzhXOGFFRVFkMzRTa0J6dk5QWGxFOUc3eWRwOWlJUUxOWUtRNktVdENzemZIRmIyNjNxSkhYNTVFVTVSUEVvdXpYYXJhNnI0ckZrTmRac9IB6gFBVV95cUxNQkdqMTBVQUQ0dmFQcHpsQ2JLQ1plNUxncG85cU90cXF4WV9ZNl90YzhJV2lTdERONEdrZ052TjJTY2ZMQXJQUnQ4cGhhZG02RG9mQTVPZlllLXR2U3dKZEhoNzJuQXpSMmhRSEJ3elNNT0ltMi16RktpUURDWFo5enVsbDBpNWh2Zmg1WDFBZDBBb3prdGk5ZjBEeF9tS0xxNGlON3V4ZFZfcGloUWxOdzVyWW1Pc0oyVXdVZDFYbHNoVzJyV2ttVmlBWmZsOG9jbDFyRThZenZzSWpnQ3VQcF9CR0lybktpNHc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "cold",
-          "related_drugs": [
-            {
-              "slug": "meclizine",
-              "name": "Meclizine",
-              "url": "/drugs/meclizine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "65522fab5727",
-      "title": "Wearing headphones during surgery linked to lower risk of nausea, vomiting – China study",
-      "published": "2026-10-20T07:47:40+00:00",
-      "summary": "Wearing headphones during surgery linked to lower risk of nausea, vomiting – China study&nbsp;&nbsp;ThePrintThere’s more to headphones than music. Doctors say they can reduce health troubles post-surgery&nbsp;&nbsp;Yahoo HealthNoise cancelling headphones have surprising post-operation benefit: New study&nbsp;&nbsp;New York PostNoise-cancelling headphones prevent vomiting after surgery&nbsp;&nbsp;New ScientistWearing headphones during surgery may reduce nausea and vomiting afterward&nbsp;&nbsp;Me",
-      "sources": [
-        {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmJQVmFibjVEd2NFaGpuc2FaTnJjeE5rb1FhbXNBNU41UjJsdzlzMFJleE04eWhqdTV0NnNGSlBqU3YwazNaMHR1bWtuRkNGcVd5QmlUZW9HZWNlLVM1VldMNC1qbl92aEtVT1R0Q29GLUlaQUJPSTRDTlI0aVc3WF9FeExmTDJrZGo3OWdZOEhYMkVqRkZydi1RUmNOdlB6YVNHdi1PQ0JOd0pJSGJ4blRVcF9SM2hEd0V1RF95d9IBxAFBVV95cUxNODdIWW1ucG9GaVpKQUpHV3hUeWJUSFMta29jeUtrektzanlIRUFGOTZyUmI2MUN4aVg0Zmd2dzlTSk5hVm00Z2xmZEQwRnctbUVBVVl2bldqQjYzMm0wOTZlbEcxZ2hiV3dTeW5saERHU2E1VlJzYUFnbG1TNDVqQ1NydE82anNLRnA0TjR2bjVhaDFUNUVJNU1lVWotQVVlYVgwVVFBYUtycXY1Rl9UMF8zX01veTlYQWxPVndFSUltYlEx?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b85660abd173",
-      "title": "Osteoporosis Poses Growing Bone Health Concern For Indian Men, Delhi Doctors Urge Early Screening To Prevent Fractures",
-      "published": "2026-10-20T07:32:29+00:00",
-      "summary": "Osteoporosis Poses Growing Bone Health Concern For Indian Men, Delhi Doctors Urge Early Screening To Prevent Fractures&nbsp;&nbsp;NDTVOsteoporosis Is Showing Up Earlier Than Ever: Expert On How Young Adults Can Prevent It&nbsp;&nbsp;NDTVDoctors warn indoor lifestyles are costing Indian kids their bone mass&nbsp;&nbsp;The Times of IndiaHow to prevent osteoporosis, from training to eating calcium-rich food&nbsp;&nbsp;South China Morning PostOne in Six Older Indians May Be Living With a Spinal Frac",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTnhNcG0zY2twRngydjRGNDU1RTlfSzBodV9WZEc1T2V5UUxkeWdPREkwUFFxQ3BsMDlodWZPcmR1Sm83NFZNdVNlSTBlU2FGSENwZHk4MW5fRk1kdktKMVF4cmRKaEE2b3lqcFIxb0lzUG1acDF0WnJfRS1lNHlQX0R3Mk9BcEc2NnB0eTRvaHhIckhhaU1WTHdEVU43SEVXNnBQbGc1S3ZZWUJaS1BHcjlOVmZERWtXbTc3TFJsVUFPaHJGbDVpRmU0VmM4alNXQjUzVkd4dU4yTVJMQ3BDZk9Jc3ZFblBVWmZtWXlpczFJNGFQT0x0UElad1o0UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4089ad972880",
-      "title": "Can eating blueberries every day improve your mood? A study in older adults found symptoms of depression - The Times of India",
-      "published": "2026-10-20T07:05:00+00:00",
-      "summary": "Can eating blueberries every day improve your mood? A study in older adults found symptoms of depression&nbsp;&nbsp;The Times of IndiaCan Blueberries Improve Your Mood? A 3-Month Study Found a Surprising Clue in the Gut&nbsp;&nbsp;Inc.comCan Blueberries Improve Your Mood? A New Study Finds Intriguing Clues in the Gut&nbsp;&nbsp;Yahoo HealthEating blueberries every day may have a surprising effect on your mood&nbsp;&nbsp;Science DailyEating Blueberries Linked to Subtle Gut Changes and Signs of Mo",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxQZDRMTWRGSk4zYUltSVVla1FRMzRsSzUzb2l0eG5EWW5xU19XZGd2VEEzdkFFRk4talhjbmFFNDFXY1dOTTFwOHNlWG5zaVlkeGh1UUpFb2dxQWxfU0IzVHh5Tk96ZjNwVWtManp1a2Jabnd3U2xUaDNLRXZqd0dsVHFnUkNoT2FWdzZGU1FPMzlqVXRsVHF5NnpVSHZjNTVYOG55UG5IRFphS0Zka2pxVGxvb1pZSlFRZU1aS3VDbHFRc1JwbE5XRGsycFRUbXI5Zm1abEVTTU9nblRiQUxhNDNrRUItWEJRWUJ4dnNGVVFRWUxxUDZ3V181QlZ5ZEFlUzZaNDBnOEFhWHhwZHFxNjczSXNUUG9jdjEzT21BRzBSLXZkcl9EV3d5ekNWQmlqYkpEbnNWLVZaOUJnQVhLa1Fob0hvSGIwc1Q5N2VWOWdKOTZTamFGNUgwTnREM21QVXd5ampLaHN4Z2Z3bFZSWHJpQjUzZ2ZLOUxMZUQxaGw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6b5b4d18d7a1",
-      "title": "Rockburst risk assessment based on multi-parameter critical indicators: CW-TOPSIS approach",
-      "published": "2026-10-20T06:36:36+00:00",
-      "summary": "Rockburst risk assessment based on multi-parameter critical indicators: CW-TOPSIS approach&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YkVsMExJY1lJTDBPdEsyT3RNQU5SbjFFSWJ5YTVwZzJiaU92dnlRZlBqZFAwSURoWHlhNGZmYVNUQ2p0QUd2S3BBRUhHekY5SXNfOUp2U0VsdEdnbzBZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "acee2841058a",
@@ -9632,7 +10681,7 @@
       "id": "7641087cefc9",
       "title": "Premature menopause linked to higher heart disease risk and insulin levels",
       "published": "2026-10-20T05:36:00+00:00",
-      "summary": "Premature menopause linked to higher heart disease risk and insulin levels&nbsp;&nbsp;News-MedicalWorld Menopause Day 2026: Early menopause before 45, signs women should not ignore and what can help&nbsp;&nbsp;The Times of IndiaEarly menopause: Why better research and global guidance matter for women’s health&nbsp;&nbsp;World Health Organization (WHO)The midlife blind spot&nbsp;&nbsp;The News PakistanMenopause Awareness Month spotlights perimenopause symptoms and need for information&nbsp;&nbsp;",
+      "summary": "Premature menopause linked to higher heart disease risk and insulin levels&nbsp;&nbsp;News-MedicalWorld Menopause Day 2026: Early menopause before 45, signs women should not ignore and what can help&nbsp;&nbsp;The Times of IndiaEarly menopause: Why better research and global guidance matter for women’s health&nbsp;&nbsp;World Health Organization (WHO)Women in their 30s experiencing brain fog, anxiety and disturbed sleep may be in perimenopause, not stressed&nbsp;&nbsp;Hindustan TimesThe midlife ",
       "sources": [
         {
           "name": "News-Medical",
@@ -9796,88 +10845,6 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "db00367",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "db00396",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "db00481",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "db00603",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "db00717",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "db06285",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "db06548",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "db06643",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "db11110",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "menopause symptoms",
           "related_drugs": [
             {
               "slug": "calcipotriol",
@@ -11476,27 +12443,14 @@
       ]
     },
     {
-      "id": "30d3948f2f7d",
-      "title": "Pertussis Vaccine Cuts Whooping Cough Risk By 96% In Young Children: US CDC Study - Health and Me",
-      "published": "2026-10-19T22:30:00+00:00",
-      "summary": "Pertussis Vaccine Cuts Whooping Cough Risk By 96% In Young Children: US CDC Study&nbsp;&nbsp;Health and Me",
+      "id": "51629635354a",
+      "title": "One Diagnosis, Different Journeys: The Changing Face of Breast Cancer Care - BusinessToday Malaysia",
+      "published": "2026-10-20T03:57:29+00:00",
+      "summary": "One Diagnosis, Different Journeys: The Changing Face of Breast Cancer Care&nbsp;&nbsp;BusinessToday MalaysiaThe Changing Approach to Breast Cancer Treatment&nbsp;&nbsp;Deccan ChronicleBreast Cancer Awareness Month: Advancing breast cancer research through clinical trials&nbsp;&nbsp;EurekAlert!Guest commentary: Beyond chemotherapy — the evolution of cancer care&nbsp;&nbsp;Pine Island Eagle",
       "sources": [
         {
-          "name": "Health and Me",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaDZtQlN3cllVYktuMmVUOWhQak8ycEFQOEM1a3lqOHZLTFpIM2hkUW9oeGwwSmdncndMemtYcDZQRlk5X3U3LVBPV3U4V0RTNGpLY202R2pJdi1GRmNKQ2RVbmFPc3lpbGlPY1FmdFJfckwzOHVaTi14V0dGWjktZ0NrX2VWdG5tdzVxT2t4MkphcXlEUGo2dVFKbDk1VVdoZVdGN3c3dXhKNERnM29fT2tsejhRbHFvTldhNXdrdEN4QmZCYXpDQklVc2ktZkpG?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9daa1043a067",
-      "title": "COMMENT: Breast cancer is not just a women’s disease",
-      "published": "2026-10-19T22:05:25+00:00",
-      "summary": "COMMENT: Breast cancer is not just a women’s disease&nbsp;&nbsp;Herald.co.zw'Get it checked out,' says Loxley man after breast cancer shock&nbsp;&nbsp;BBCBreast cancer awareness advocate seeks to teach about risk to all people&nbsp;&nbsp;WAMCMale Breast Cancer Rate Doubles in Korea Over 16 Years&nbsp;&nbsp;Seoul Economic DailyHealth Experts Urge Men to Learn the Signs of Breast Cancer&nbsp;&nbsp;KCLY Radio",
-      "sources": [
-        {
-          "name": "Herald.co.zw",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdG54eWJBaEgwclRSUVdoMTNZX2xXTjU2Q3g3UUozNG5Bb1phMWpYYUxKWUJRd0M0Nk9FS29nWTRYUHFBMm90WWpCMnFWWlVsQU1sY2V2eW1JVUNZanRCZDY2TmozbklEaV9fTkItOUlocTlvd0d4YlhrdVRpTVU?oc=5"
+          "name": "BusinessToday Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb05NdFE5RDBEN2xDZkZLWDdTZVBpRzVPTHZOZnJMV0FtTzB4N2FvUGdnbDkzSkF6dS1Hemhjd0c0UF9TSThKTzdqZlVfempkdW9BQ3EtM0s1NUNBdDJGaXMxMl9CRTI4cXlHREZZYzhhRVU4WHUzQXJDTmZ2S1drc2toNktWZmZpSFJISU41X0NnR0VCempDSWNVamk3QVFobWFLRngzODlmRFh2S1UtSjcxd2lRbFNf?oc=5"
         }
       ],
       "matched_keywords": [
@@ -12612,94 +13566,92 @@
       ]
     },
     {
-      "id": "c91eb78ca3b9",
-      "title": "Flagellin Antibody Predicts Future Crohn’s Disease",
-      "published": "2026-10-19T19:27:28+00:00",
-      "summary": "Flagellin Antibody Predicts Future Crohn’s Disease&nbsp;&nbsp;DocWireNewsWarning signs could predict inflammatory bowel disease a decade before diagnosis | Medical research&nbsp;&nbsp;The GuardianBeyond the flare: How a specialized inflammatory bowel disease program can help control symptoms&nbsp;&nbsp;Valley Health SystemAntibody Signatures Could Reveal IBD Risk 10 Years Before Diagnosis&nbsp;&nbsp;Inside Precision MedicineIBD Management Requires Objective Monitoring, Advanced Therapy Selection",
+      "id": "7351a3969c36",
+      "title": "Walking alone may not be enough: Why strength training matters for bone health - India Today",
+      "published": "2026-10-20T02:31:01+00:00",
+      "summary": "Walking alone may not be enough: Why strength training matters for bone health&nbsp;&nbsp;India TodayAspirus highlights overlooked key to bone health for women&nbsp;&nbsp;Upper Michigan's Source4 Exercises To Keep Your Bones Strong as You Age&nbsp;&nbsp;EatingWellWhy Brisk Walking Is The Low-Impact Bone Density Booster You Need&nbsp;&nbsp;Yahoo HealthLifestyle changes key to healthy bones, joints&nbsp;&nbsp;Daily News",
       "sources": [
         {
-          "name": "DocWireNews",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDg1WE9nN0E3aVZjZjRpMm1ERktXei0tZnFObm1YbE5ZVUFBbmdLd1RPNDRCd0FYaEIxZFZtdDF0QTZLc244eXQ4TGJScks1aTVGd1dRSzNBYmlQbEZrUDNtZlJyUTBna1MydHI1QnpIdnZZTlQyTThPQW4tWGtMaXd1dmpIenZsblE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "inflammatory bowel disease",
-          "related_drugs": [
-            {
-              "slug": "azathioprine",
-              "name": "Azathioprine",
-              "url": "/drugs/azathioprine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dec032a993c9",
-      "title": "Weights v cardio: which should you do more of in midlife? - The Times",
-      "published": "2026-10-19T19:00:00+00:00",
-      "summary": "Weights v cardio: which should you do more of in midlife?&nbsp;&nbsp;The TimesAt What Age Does Your Body Start Losing Strength? A 47-Year Study Reveals&nbsp;&nbsp;Medical DialoguesPhysical Capacity Decline Begins Decades Before Sarcopenia&nbsp;&nbsp;EMJThis Is When Women Start Losing Muscle (It's Earlier Than You Think)&nbsp;&nbsp;Yahoo HealthYou Can Build Muscle and Strength Well Into Your 50s and 60s&nbsp;&nbsp;Men's Fitness",
-      "sources": [
-        {
-          "name": "The Times",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWU3d3J5RG93UFJMTl83c1ZvZ1h6X1Vnb2R0STRiWUEwbVBuV2xFR25INWxsdDRjeTJJVDFTcklwV3hodXpzY2E1WW94WUZEajBBVUF2djJlbzM4QjNnVkVTOUhzYmNqQkotMmpjSEdhU2ZfTHBxS2tBYWdHY25DT0FBRXhXMy1obng3WlgwU09nZw?oc=5"
+          "name": "India Today",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHFrTmZYNm10QVFjNEEycldCRXAwQVFFU05yQU9WVGpKS0lTaHd0WmQ5c0ZfMGpQNThqb0stWGdyTmszcm91dkVqLUJuSjZCc3pGSlVadDZQcER2RFpOQWRpTGpveVBpRXBmNV9VQXZZekZuZ2VZM1h6aVQzX1BkNU1ON3lRamlQNUlqODlzZmNQMDY2SXVpeVN3Z3ZKSl85RzJ6RE1xX3kwcW4xY2VhZ0xmY2RyRXFvOFFFT3pKZTFKcGVWLThLclpxMWxPN24wWE9r0gHYAUFVX3lxTE9oV2xuTnM2TmFjODRMa0xocEtJYkhzaXV5XzlWRk5IZlVVSTFLWm9nY3BvYm1UdFVoS21EQi15aWNQaUM3NlRNWm1WVF9UNU9IN0pxWHFqTkVjM09maS1razlPN1hvNFh1TW44aVI2alJ4aUM4ZXJrbjNQMDhCeURIdXpoTVIyVHliN19aUTlPN2FqclMxdF93YnEtdS1xSG1YaHdSVlhoZUxzWFBSaDg3ak9tdnU1dFQyeTJOQ1gzU0F1a3o3NlktZXNvdW9iNWZhem1abmxnaA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c644f9b385fe",
-      "title": "ChatGPT Explains the Odds of AI Triggering the Next Pandemic - Gadget Review",
-      "published": "2026-10-19T18:45:18+00:00",
-      "summary": "ChatGPT Explains the Odds of AI Triggering the Next Pandemic&nbsp;&nbsp;Gadget ReviewGoverning the AI–Bio Convergence: India’s Evolving Biosecurity Challenge&nbsp;&nbsp;orfonline.orgChatGPT explains probability that AI could trigger next pandemic as first viruses become real&nbsp;&nbsp;UNILAD TechOpinion | AI capabilities mean America needs a Manhattan Project for biodefense&nbsp;&nbsp;The Washington PostAI now creates unknown viruses—should we fear it or hope for a cure?&nbsp;&nbsp;Futura, le m",
+      "id": "30d3948f2f7d",
+      "title": "Pertussis Vaccine Cuts Whooping Cough Risk By 96% In Young Children: US CDC Study - Health and Me",
+      "published": "2026-10-19T22:30:00+00:00",
+      "summary": "Pertussis Vaccine Cuts Whooping Cough Risk By 96% In Young Children: US CDC Study&nbsp;&nbsp;Health and Me",
       "sources": [
         {
-          "name": "Gadget Review",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1NFSmxvOWhfQWJfcXAxc3UwMXdrNGQtem9JRWNvbnEtU3JQYUk5SU9OVEV3a0hWZ3RCcWV3VHdZQTNrM3M3WVhhQXVlRjR2SjktejdRR2UxZnFldDlhUlp5Y2Q1NEl5TmYxSzhjTk9aUlFTUVlwc25QcXAtRVdta2kxQ185ei1EZ2hEQnVhVVlwXzg?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaDZtQlN3cllVYktuMmVUOWhQak8ycEFQOEM1a3lqOHZLTFpIM2hkUW9oeGwwSmdncndMemtYcDZQRlk5X3U3LVBPV3U4V0RTNGpLY202R2pJdi1GRmNKQ2RVbmFPc3lpbGlPY1FmdFJfckwzOHVaTi14V0dGWjktZ0NrX2VWdG5tdzVxT2t4MkphcXlEUGo2dVFKbDk1VVdoZVdGN3c3dXhKNERnM29fT2tsejhRbHFvTldhNXdrdEN4QmZCYXpDQklVc2ktZkpG?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7d85092e2468",
-      "title": "Blood pressure drug losartan boosts metabolism by stimulating brown fat",
-      "published": "2026-10-19T18:15:00+00:00",
-      "summary": "Blood pressure drug losartan boosts metabolism by stimulating brown fat&nbsp;&nbsp;News-MedicalAI Study of 101,000 Patients Uncovers Links Between Brown Fat, Heart, and Mental Health&nbsp;&nbsp;Medical DialoguesAI study of 101,000 patients links brown fat to heart and mental health&nbsp;&nbsp;News-MedicalResearchers discover a commonly prescribed blood-pressure drug may stimulate “healthy” brown fat&nbsp;&nbsp;The Rockefeller UniversityBrown Fat Linked to Heart and Mental Health; Losartan May Ac",
+      "id": "e7768e99de25",
+      "title": "In 1975, Kodak began operating a uranium-based research device beneath its Rochester laboratory; 31 years - The Times of India",
+      "published": "2026-10-19T07:23:00+00:00",
+      "summary": "In 1975, Kodak began operating a uranium-based research device beneath its Rochester laboratory; 31 years&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNWDhQS3ZaWlIxWm5YOTRPRGhEeXctcEdWcUt3SUJob182ejA0d3gzcFlBazVWNm1DQXI0SHNfVER6d3hfdHdDQnduVkFwaGNHYnRuckgtNGRVZ0NFUllKWFUySzFYbnpNa2tHUVA5bEpaSm03Rzk2T1dic3pac0paWkVreGcwc202cDRSOFREcVJFZER2WTdoM3hDdTZnQ0FYSm1zMHN4b2t1QjRtSWljdUFUaDVMdk1iVERBNDZnVDVaNzJmTWVMNkhlal82UXJYNDBYUHNra3FXVENtcVZZS0lQcjFyZUVtcmlfS09wS3F2ZnpzOTRPaXBaOGo4NG93ejZfY1pWclVjd2ZvbGRjcUZEenlBblVGMHJ2cWo0QUoxTmU4RkJOUmcxbi03M25adndqamNjQm5UNzFmU3NwajlaeWF0UW1xRFpJUWdiT1lqYXVOMDhSeVY4RFdYM3BYODJpOUhHR09sb0hWODllSGNIdmFHaXI0QXdRb3hGcU5PUUpBaVBaWjkzbUFkb0ZsX1HSAZcDQVVfeXFMTzkwdDA5RUNMVFgwV29YVXl5UF8tV01zdEtqcDZVR3prV0NMeVFLSkt0LVhxVUVZU0VDMmVHOFN5TGxsd2RSX0xEa1RGWFc0ZTBVUnowNUVJMlVQbjR6S2FveWVkczJXRFBxSllpM0NZSTc1MTl0N1FsOGlBTE9qQzlxcUdmM0dacWxRWjFrV2lhLVl3cGVWeVJ2VUVFcm1yd1NTSndfbl9pTTQ3d0VwbHJOTWZKZUhDNU01Umc4X1U3OHZSVEwyTXRvd00wejlwRTE2TVl4LUEyS09uRzN6cDhNb1lrbmxqZVVrQUdnX0RDRjk2VzZMSW04M0l1TEpSazdNdTBVcGVnenBiWHN4SG1ldmZtQmJQUmZJY3h2OWIySy1Na0FUMWxVcEFtOTVHdm5hdVdfS3RCa3UxSFRFQjhiZUxWR3BtRWFYd013cGlybm9IT29lNHo3dV9Ta0ZXX0JmTU5Bd1pQczZQWHVlaFoxUk9GTWMtajRvcThaMXdkZ2JrcXJIcEJOam9rS05PVWRuWV93Tzg?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "drug",
-          "slug": "db00678",
-          "keyword": "losartan",
-          "name": "LOSARTAN",
-          "url": "/drugs/db00678/"
-        },
-        {
-          "type": "drug",
-          "slug": "losartan",
-          "keyword": "losartan",
-          "name": "Losartan",
-          "url": "/drugs/losartan/"
-        }
-      ]
+      "matched_keywords": []
     },
     {
-      "id": "0c10b0e7b296",
-      "title": "New research shows how microplastics and water interactions could lead to cell damage - The Columbian",
-      "published": "2026-10-19T16:28:55+00:00",
-      "summary": "New research shows how microplastics and water interactions could lead to cell damage&nbsp;&nbsp;The ColumbianMicroplastics are linked to inflammation—scientists might have finally worked out why&nbsp;&nbsp;Scientific AmericanBusting The Myth That Plastics Are Chemically Inert In Water&nbsp;&nbsp;HackadayPlastic pollution isn't just in our oceans. It's in our bodies&nbsp;&nbsp;Fernandina ObserverScientists uncover hidden risks of biodegradable plastics through fish blood&nbsp;&nbsp;EIN News",
+      "id": "29a156c3dc6a",
+      "title": "Flu, COVID, RSV, Shingles Vaccines: Studies Link All 4 To Better Heart Health - Health and Me",
+      "published": "2026-10-19T01:16:28+00:00",
+      "summary": "Flu, COVID, RSV, Shingles Vaccines: Studies Link All 4 To Better Heart Health&nbsp;&nbsp;Health and MeSee more headlines and perspectives on Google News",
       "sources": [
         {
-          "name": "The Columbian",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTBxRF80eTNNZlRPSUpzNW1CR1R5UVRzQy10M3ozTjVTNE1QNUVWSnVFVUtGSHJpaURIbGxfX0IzeGdfbUpPekVMSkMwWTE0SkJkOFNNTTN3QVQyR0VLckxwQlIxVktaemtPWFRXQ3NYTU5PQ3RXb3JLV2RCVFI1dG02bjdlVGtOYkh4TnNnMFhqeEZwWFpIUk04UUNQakswOXZZZGJlc3hrSWQ0dWlVRkxSRW9nT1A3SFhOSURtdi1TcGJjX05xcQ?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHZJaS1acG1sWldDMVItdUxKYWk3NUlLR3o4U2ppLVVQSkZBY1N1TnZKTmZXTnRFeUJXc3p5ZnFqQzhzcjR4VmFTTGtEZzhsRzdoMWhsbVpuOUJmOUh0NWVPLVBTakRGRzRHREtEQjZZVnFqTTNFejVwWFJJVVBOMFVKb3RmWHh4SFhKdGstZUthMXREemFkYUZhaFJaUGRoNmtSU2dEcmViZjU1dEdEZWNfY2VELTZ4bFA5QVpGZkJvbUFXLTF6dTU0cXltOGEx?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "22342e4538a7",
+      "title": "Earths oldest evidence of life is written in stone – but its at risk of disappearing - Daily Excelsior",
+      "published": "2026-10-17T22:30:53+00:00",
+      "summary": "Earths oldest evidence of life is written in stone – but its at risk of disappearing&nbsp;&nbsp;Daily ExcelsiorEarth's oldest evidence of life is written in stone—but it's at risk of disappearing&nbsp;&nbsp;Phys.org'It cannot be': ancient fossils confounded scientists&nbsp;&nbsp;inkl",
+      "sources": [
+        {
+          "name": "Daily Excelsior",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTl1eWdheWVzM1RjZHVDeVBtQ1VNZFBMeXJoMGg4Ync5Rkd0VW9UVWtJMDVKSzd0T04zVUpURGVUU1ZvcGhOYkdCZWxKcFVOVWlNYV9meFNUTXRUVTJhQzh0MmVZVGFfaEJhaHBLN1JEbzNaOV84N3RHdWRUXzFWV0c3bEhRU09JbHh5czNDeUZkeWszUk5peW1QY3ViMnhSckowRDJUOGlLNmhRd1ZoaVdpc0vSAbgBQVVfeXFMUHdtT0JfejV3clI0d0VGNUZzdUFRdElCRnpoSlRUdTFMRE9IbXNTQnFXRjhVb1U2Yi1KVUdZWnY0UmdfeURrUzlQX0lxeHVxWndVaDJLYWZaQ19jeEx1Y1dSNjBibVQ1ZGV2b1dfTnMxUGVGM1hQOG1GOTRRWl9JQS1jNnA1MWNkV2szWkRXU2VNMTlqMjlhZ0ktQ2NWM1JNc0tNc04zREprckVpc042TTVRMnFLWGMxTg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "86039f207e06",
+      "title": "Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge",
+      "published": "2026-10-16T07:51:16+00:00",
+      "summary": "Governing the AI–Bio Convergence: India’s Evolving Biosecurity Challenge&nbsp;&nbsp;orfonline.orgChatGPT explains probability that AI could trigger next pandemic as first viruses become real&nbsp;&nbsp;UNILAD TechOpinion | AI capabilities mean America needs a Manhattan Project for biodefense&nbsp;&nbsp;The Washington PostChatGPT Explains the Odds of AI Triggering the Next Pandemic&nbsp;&nbsp;Gadget ReviewAI now creates unknown viruses—should we fear it or hope for a cure?&nbsp;&nbsp;Futura, le m",
+      "sources": [
+        {
+          "name": "orfonline.org",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVNoMVRCeEZMREhUdGdYRlR6LUl2bjAyV1VoR0hxRDFuLUV3Y29KS2NmcUFCa2QxbG0zR0tHMUFTeXM5eUxnOUllUXRPdnpvQ25jNzBxOU5jUGxNWVd1NG15R1B5UHpHdVItMXhucE9rSVh3NmUxSmY2YUZDYlBJMUMtcXctaXlCN21BU2oxUmRyYm55bHBhd0VsY2F3d29iYlJQdUpfRzRMY3Q1T1JJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e75bbe850062",
+      "title": "Microplastics Are Inside All Of Us, And Scientists May Have Found How They Cause Biological Harm - ETV Bharat",
+      "published": "2026-10-15T11:32:58+00:00",
+      "summary": "Microplastics Are Inside All Of Us, And Scientists May Have Found How They Cause Biological Harm&nbsp;&nbsp;ETV BharatHow microplastics and water react to cause inflammation and damage our bodies&nbsp;&nbsp;South China Morning PostPlastic pollution isn't just in our oceans. It's in our bodies&nbsp;&nbsp;Fernandina ObserverScientists Uncover Hidden Risks of Biodegradable Plastics Through Fish Blood | Newswise&nbsp;&nbsp;Newswise",
+      "sources": [
+        {
+          "name": "ETV Bharat",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUlozLWJILWUzWWtqRUsxdXp2Q281RW11azRORlRlMzZUVkdyaGF0NnFxSExPTjN0TmZYczJ4TzE2d3pxWTg1aW14UEgzMW1IMkFPZmQ5MG9FRURnYWpsWXRrLWtYSElvX2hUUmI3b2JLVWF1OXpWTjc1QWpteFdGT2pldDB0cWRVeS1UNkNEaV94OTNCSEx4VlR1TEtoV1lXcHFkUmREUnJ2RFdfNm5LakJtb3hLRUliRm9HSHZkU2ZCNXpjMkRuWmhiZGZWcG5kd0dpZzdKVmZVUmR2Uk1QajkySUnSAeoBQVVfeXFMT0lsRE43VlFxc21qSmhDWjVrQ3dxbERNYUtBOGJEbE1rS1BKdXNmMUhyYXdCUkhJa2VKQllReThnMll5T1U0UFExam1kNHNmenhlSDlmUXF2WmFWS2dJUi05VXhkQmlNSy1DRHlXaF9OQW5uQUJwT0s4X0RMTDQwYnlMZFIyS3Q0R19GNWVJZWZ5bF9vY3FrU1d2VXl1ZVVCMDNoTHl2czdlb2NEb29GTjJ2RXpOeWdKQU9zcWNSX3hoODREZ2xVS3lQMzYxZzdjeldhSno1cTdlUk5OM1FIb2FJV0ZuOXpxS2FB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -12716,1181 +13668,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e7768e99de25",
-      "title": "In 1975, Kodak began operating a uranium-based research device beneath its Rochester laboratory; 31 years - The Times of India",
-      "published": "2026-10-19T07:23:00+00:00",
-      "summary": "In 1975, Kodak began operating a uranium-based research device beneath its Rochester laboratory; 31 years&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNWDhQS3ZaWlIxWm5YOTRPRGhEeXctcEdWcUt3SUJob182ejA0d3gzcFlBazVWNm1DQXI0SHNfVER6d3hfdHdDQnduVkFwaGNHYnRuckgtNGRVZ0NFUllKWFUySzFYbnpNa2tHUVA5bEpaSm03Rzk2T1dic3pac0paWkVreGcwc202cDRSOFREcVJFZER2WTdoM3hDdTZnQ0FYSm1zMHN4b2t1QjRtSWljdUFUaDVMdk1iVERBNDZnVDVaNzJmTWVMNkhlal82UXJYNDBYUHNra3FXVENtcVZZS0lQcjFyZUVtcmlfS09wS3F2ZnpzOTRPaXBaOGo4NG93ejZfY1pWclVjd2ZvbGRjcUZEenlBblVGMHJ2cWo0QUoxTmU4RkJOUmcxbi03M25adndqamNjQm5UNzFmU3NwajlaeWF0UW1xRFpJUWdiT1lqYXVOMDhSeVY4RFdYM3BYODJpOUhHR09sb0hWODllSGNIdmFHaXI0QXdRb3hGcU5PUUpBaVBaWjkzbUFkb0ZsX1HSAZcDQVVfeXFMTzkwdDA5RUNMVFgwV29YVXl5UF8tV01zdEtqcDZVR3prV0NMeVFLSkt0LVhxVUVZU0VDMmVHOFN5TGxsd2RSX0xEa1RGWFc0ZTBVUnowNUVJMlVQbjR6S2FveWVkczJXRFBxSllpM0NZSTc1MTl0N1FsOGlBTE9qQzlxcUdmM0dacWxRWjFrV2lhLVl3cGVWeVJ2VUVFcm1yd1NTSndfbl9pTTQ3d0VwbHJOTWZKZUhDNU01Umc4X1U3OHZSVEwyTXRvd00wejlwRTE2TVl4LUEyS09uRzN6cDhNb1lrbmxqZVVrQUdnX0RDRjk2VzZMSW04M0l1TEpSazdNdTBVcGVnenBiWHN4SG1ldmZtQmJQUmZJY3h2OWIySy1Na0FUMWxVcEFtOTVHdm5hdVdfS3RCa3UxSFRFQjhiZUxWR3BtRWFYd013cGlybm9IT29lNHo3dV9Ta0ZXX0JmTU5Bd1pQczZQWHVlaFoxUk9GTWMtajRvcThaMXdkZ2JrcXJIcEJOam9rS05PVWRuWV93Tzg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "41a0125f1b57",
-      "title": "Liquid biopsy and mammography: a perfect match for breast cancer detection?",
-      "published": "2026-10-18T06:08:24+00:00",
-      "summary": "Liquid biopsy and mammography: a perfect match for breast cancer detection?&nbsp;&nbsp;healthcare-in-europe.comClinical trial to evaluate blood test for early detection of breast cancer&nbsp;&nbsp;Keck Medicine of USCRetrospective blood test study shows high breast cancer discrimination&nbsp;&nbsp;Bioengineer.orgCan a blood test detect breast cancer early?&nbsp;&nbsp;THE WEEKCan a Blood Test Help Detect Breast Cancer Earlier? A New Clinical Trial Has The Answer&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "healthcare-in-europe.com",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "cancer",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin",
-              "url": "/drugs/acitretin/"
-            },
-            {
-              "slug": "ademetionine",
-              "name": "Ademetionine",
-              "url": "/drugs/ademetionine/"
-            },
-            {
-              "slug": "aflibercept",
-              "name": "Aflibercept",
-              "url": "/drugs/aflibercept/"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
-            },
-            {
-              "slug": "aliskiren",
-              "name": "Aliskiren",
-              "url": "/drugs/aliskiren/"
-            },
-            {
-              "slug": "altretamine",
-              "name": "Altretamine",
-              "url": "/drugs/altretamine/"
-            },
-            {
-              "slug": "amifostine",
-              "name": "Amifostine",
-              "url": "/drugs/amifostine/"
-            },
-            {
-              "slug": "amiloride",
-              "name": "Amiloride",
-              "url": "/drugs/amiloride/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "Amlodipine",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin",
-              "url": "/drugs/amoxicillin/"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin",
-              "url": "/drugs/ampicillin/"
-            },
-            {
-              "slug": "amylmetacresol",
-              "name": "Amylmetacresol",
-              "url": "/drugs/amylmetacresol/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "anidulafungin",
-              "name": "Anidulafungin",
-              "url": "/drugs/anidulafungin/"
-            },
-            {
-              "slug": "arsenic_trioxide",
-              "name": "Arsenic Trioxide",
-              "url": "/drugs/arsenic-trioxide/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab",
-              "url": "/drugs/atezolizumab/"
-            },
-            {
-              "slug": "axitinib",
-              "name": "Axitinib",
-              "url": "/drugs/axitinib/"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin",
-              "url": "/drugs/azithromycin/"
-            },
-            {
-              "slug": "aztreonam",
-              "name": "Aztreonam",
-              "url": "/drugs/aztreonam/"
-            },
-            {
-              "slug": "basiliximab",
-              "name": "Basiliximab",
-              "url": "/drugs/basiliximab/"
-            },
-            {
-              "slug": "becaplermin",
-              "name": "Becaplermin",
-              "url": "/drugs/becaplermin/"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic Acid",
-              "url": "/drugs/bempedoic-acid/"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril",
-              "url": "/drugs/benazepril/"
-            },
-            {
-              "slug": "bendamustine",
-              "name": "Bendamustine",
-              "url": "/drugs/bendamustine/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "Bisoprolol",
-              "url": "/drugs/bisoprolol/"
-            },
-            {
-              "slug": "bleomycin",
-              "name": "Bleomycin",
-              "url": "/drugs/bleomycin/"
-            },
-            {
-              "slug": "bupropion",
-              "name": "Bupropion",
-              "url": "/drugs/bupropion/"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel",
-              "url": "/drugs/cabazitaxel/"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "cabozantinib",
-              "name": "Cabozantinib",
-              "url": "/drugs/cabozantinib/"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "chlorthalidone",
-              "name": "Chlorthalidone",
-              "url": "/drugs/chlorthalidone/"
-            },
-            {
-              "slug": "choline_salicylate",
-              "name": "Choline Salicylate",
-              "url": "/drugs/choline-salicylate/"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin",
-              "url": "/drugs/ciprofloxacin/"
-            },
-            {
-              "slug": "clonazepam",
-              "name": "Clonazepam",
-              "url": "/drugs/clonazepam/"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine",
-              "url": "/drugs/colchicine/"
-            },
-            {
-              "slug": "dacarbazine",
-              "name": "Dacarbazine",
-              "url": "/drugs/dacarbazine/"
-            },
-            {
-              "slug": "dactinomycin",
-              "name": "Dactinomycin",
-              "url": "/drugs/dactinomycin/"
-            },
-            {
-              "slug": "dasatinib",
-              "name": "Dasatinib",
-              "url": "/drugs/dasatinib/"
-            },
-            {
-              "slug": "daunorubicin",
-              "name": "Daunorubicin",
-              "url": "/drugs/daunorubicin/"
-            },
-            {
-              "slug": "db00002",
-              "name": "CETUXIMAB",
-              "url": "/drugs/cetuximab/"
-            },
-            {
-              "slug": "db00059",
-              "name": "PEGASPARGASE",
-              "url": "/drugs/pegaspargase/"
-            },
-            {
-              "slug": "db00072",
-              "name": "TRASTUZUMAB",
-              "url": "/drugs/trastuzumab/"
-            },
-            {
-              "slug": "db00112",
-              "name": "BEVACIZUMAB",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "db00242",
-              "name": "CLADRIBINE",
-              "url": "/drugs/cladribine/"
-            },
-            {
-              "slug": "db00248",
-              "name": "CABERGOLINE",
-              "url": "/drugs/cabergoline/"
-            },
-            {
-              "slug": "db00290",
-              "name": "BLEOMYCIN",
-              "url": "/drugs/bleomycin/"
-            },
-            {
-              "slug": "db00291",
-              "name": "CHLORAMBUCIL",
-              "url": "/drugs/chlorambucil/"
-            },
-            {
-              "slug": "db00305",
-              "name": "MITOMYCIN",
-              "url": "/drugs/mitomycin/"
-            },
-            {
-              "slug": "db00317",
-              "name": "GEFITINIB",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "db00361",
-              "name": "VINORELBINE",
-              "url": "/drugs/vinorelbine/"
-            },
-            {
-              "slug": "db00396",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "db00398",
-              "name": "SORAFENIB",
-              "url": "/drugs/sorafenib/"
-            },
-            {
-              "slug": "db00441",
-              "name": "GEMCITABINE",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "db00443",
-              "name": "BETAMETHASONE",
-              "url": "/drugs/betamethasone/"
-            },
-            {
-              "slug": "db00445",
-              "name": "EPIRUBICIN",
-              "url": "/drugs/epirubicin/"
-            },
-            {
-              "slug": "db00480",
-              "name": "LENALIDOMIDE",
-              "url": "/drugs/lenalidomide/"
-            },
-            {
-              "slug": "db00488",
-              "name": "ALTRETAMINE",
-              "url": "/drugs/altretamine/"
-            },
-            {
-              "slug": "db00499",
-              "name": "FLUTAMIDE",
-              "url": "/drugs/flutamide/"
-            },
-            {
-              "slug": "db00526",
-              "name": "OXALIPLATIN",
-              "url": "/drugs/oxaliplatin/"
-            },
-            {
-              "slug": "db00531",
-              "name": "CYCLOPHOSPHAMIDE",
-              "url": "/drugs/cyclophosphamide/"
-            },
-            {
-              "slug": "db00537",
-              "name": "CIPROFLOXACIN",
-              "url": "/drugs/ciprofloxacin/"
-            },
-            {
-              "slug": "db00541",
-              "name": "VINCRISTINE",
-              "url": "/drugs/vincristine/"
-            },
-            {
-              "slug": "db00544",
-              "name": "FLUOROURACIL",
-              "url": "/drugs/fluorouracil/"
-            },
-            {
-              "slug": "db00547",
-              "name": "DESOXIMETASONE",
-              "url": "/drugs/desoximetasone/"
-            },
-            {
-              "slug": "db00553",
-              "name": "METHOXSALEN",
-              "url": "/drugs/methoxsalen/"
-            },
-            {
-              "slug": "db00563",
-              "name": "METHOTREXATE",
-              "url": "/drugs/methotrexate/"
-            },
-            {
-              "slug": "db00570",
-              "name": "VINBLASTINE",
-              "url": "/drugs/vinblastine/"
-            },
-            {
-              "slug": "db00571",
-              "name": "PROPRANOLOL",
-              "url": "/drugs/propranolol/"
-            },
-            {
-              "slug": "db00591",
-              "name": "FLUOCINOLONE ACETONIDE",
-              "url": "/drugs/fluocinolone-acetonide/"
-            },
-            {
-              "slug": "db00603",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "db00620",
-              "name": "TRIAMCINOLONE",
-              "url": "/drugs/triamcinolone/"
-            },
-            {
-              "slug": "db00631",
-              "name": "CLOFARABINE",
-              "url": "/drugs/clofarabine/"
-            },
-            {
-              "slug": "db00642",
-              "name": "PEMETREXED",
-              "url": "/drugs/pemetrexed/"
-            },
-            {
-              "slug": "db00675",
-              "name": "TAMOXIFEN",
-              "url": "/drugs/tamoxifen/"
-            },
-            {
-              "slug": "db00694",
-              "name": "DAUNORUBICIN",
-              "url": "/drugs/daunorubicin/"
-            },
-            {
-              "slug": "db00724",
-              "name": "IMIQUIMOD",
-              "url": "/drugs/imiquimod/"
-            },
-            {
-              "slug": "db00741",
-              "name": "HYDROCORTISONE",
-              "url": "/drugs/hydrocortisone/"
-            },
-            {
-              "slug": "db00742",
-              "name": "MANNITOL",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "db00755",
-              "name": "TRETINOIN",
-              "url": "/drugs/tretinoin/"
-            },
-            {
-              "slug": "db00762",
-              "name": "IRINOTECAN",
-              "url": "/drugs/irinotecan/"
-            },
-            {
-              "slug": "db00773",
-              "name": "ETOPOSIDE",
-              "url": "/drugs/etoposide/"
-            },
-            {
-              "slug": "db00851",
-              "name": "DACARBAZINE",
-              "url": "/drugs/dacarbazine/"
-            },
-            {
-              "slug": "db00860",
-              "name": "PREDNISOLONE",
-              "url": "/drugs/prednisolone/"
-            },
-            {
-              "slug": "db00877",
-              "name": "SIROLIMUS",
-              "url": "/drugs/sirolimus/"
-            },
-            {
-              "slug": "db00925",
-              "name": "PHENOXYBENZAMINE",
-              "url": "/drugs/phenoxybenzamine/"
-            },
-            {
-              "slug": "db00958",
-              "name": "CARBOPLATIN",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "db00959",
-              "name": "METHYLPREDNISOLONE",
-              "url": "/drugs/methylprednisolone/"
-            },
-            {
-              "slug": "db00970",
-              "name": "DACTINOMYCIN",
-              "url": "/drugs/dactinomycin/"
-            },
-            {
-              "slug": "db00987",
-              "name": "CYTARABINE",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "db00997",
-              "name": "DOXORUBICIN",
-              "url": "/drugs/doxorubicin/"
-            },
-            {
-              "slug": "db01005",
-              "name": "HYDROXYUREA",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "db01030",
-              "name": "TOPOTECAN",
-              "url": "/drugs/topotecan/"
-            },
-            {
-              "slug": "db01033",
-              "name": "MERCAPTOPURINE",
-              "url": "/drugs/mercaptopurine/"
-            },
-            {
-              "slug": "db01042",
-              "name": "MELPHALAN",
-              "url": "/drugs/melphalan/"
-            },
-            {
-              "slug": "db01059",
-              "name": "NORFLOXACIN",
-              "url": "/drugs/norfloxacin/"
-            },
-            {
-              "slug": "db01101",
-              "name": "CAPECITABINE",
-              "url": "/drugs/capecitabine/"
-            },
-            {
-              "slug": "db01119",
-              "name": "DIAZOXIDE",
-              "url": "/drugs/diazoxide/"
-            },
-            {
-              "slug": "db01165",
-              "name": "OFLOXACIN",
-              "url": "/drugs/ofloxacin/"
-            },
-            {
-              "slug": "db01168",
-              "name": "PROCARBAZINE",
-              "url": "/drugs/procarbazine/"
-            },
-            {
-              "slug": "db01169",
-              "name": "ARSENIC TRIOXIDE",
-              "url": "/drugs/arsenic-trioxide/"
-            },
-            {
-              "slug": "db01196",
-              "name": "ESTRAMUSTINE",
-              "url": "/drugs/estramustine/"
-            },
-            {
-              "slug": "db01200",
-              "name": "BROMOCRIPTINE",
-              "url": "/drugs/bromocriptine/"
-            },
-            {
-              "slug": "db01204",
-              "name": "MITOXANTRONE",
-              "url": "/drugs/mitoxantrone/"
-            },
-            {
-              "slug": "db01206",
-              "name": "LOMUSTINE",
-              "url": "/drugs/lomustine/"
-            },
-            {
-              "slug": "db01229",
-              "name": "PACLITAXEL",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "db01234",
-              "name": "DEXAMETHASONE",
-              "url": "/drugs/dexamethasone/"
-            },
-            {
-              "slug": "db01248",
-              "name": "DOCETAXEL",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "db01254",
-              "name": "DASATINIB",
-              "url": "/drugs/dasatinib/"
-            },
-            {
-              "slug": "db01259",
-              "name": "LAPATINIB",
-              "url": "/drugs/lapatinib/"
-            },
-            {
-              "slug": "db01260",
-              "name": "DESONIDE",
-              "url": "/drugs/desonide/"
-            },
-            {
-              "slug": "db01262",
-              "name": "DECITABINE",
-              "url": "/drugs/decitabine/"
-            },
-            {
-              "slug": "db01268",
-              "name": "SUNITINIB",
-              "url": "/drugs/sunitinib/"
-            },
-            {
-              "slug": "db01269",
-              "name": "PANITUMUMAB",
-              "url": "/drugs/panitumumab/"
-            },
-            {
-              "slug": "db01590",
-              "name": "EVEROLIMUS",
-              "url": "/drugs/everolimus/"
-            },
-            {
-              "slug": "db04845",
-              "name": "IXABEPILONE",
-              "url": "/drugs/ixabepilone/"
-            },
-            {
-              "slug": "db04868",
-              "name": "NILOTINIB",
-              "url": "/drugs/nilotinib/"
-            },
-            {
-              "slug": "db05109",
-              "name": "TRABECTEDIN",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "db05294",
-              "name": "VANDETANIB",
-              "url": "/drugs/vandetanib/"
-            },
-            {
-              "slug": "db05578",
-              "name": "RAMUCIRUMAB",
-              "url": "/drugs/ramucirumab/"
-            },
-            {
-              "slug": "db06287",
-              "name": "TEMSIROLIMUS",
-              "url": "/drugs/temsirolimus/"
-            },
-            {
-              "slug": "db06366",
-              "name": "PERTUZUMAB",
-              "url": "/drugs/pertuzumab/"
-            },
-            {
-              "slug": "db06589",
-              "name": "PAZOPANIB",
-              "url": "/drugs/pazopanib/"
-            },
-            {
-              "slug": "db06626",
-              "name": "AXITINIB",
-              "url": "/drugs/axitinib/"
-            },
-            {
-              "slug": "db06650",
-              "name": "OFATUMUMAB",
-              "url": "/drugs/ofatumumab/"
-            },
-            {
-              "slug": "db06769",
-              "name": "BENDAMUSTINE",
-              "url": "/drugs/bendamustine/"
-            },
-            {
-              "slug": "db06809",
-              "name": "PLERIXAFOR",
-              "url": "/drugs/plerixafor/"
-            },
-            {
-              "slug": "db08865",
-              "name": "CRIZOTINIB",
-              "url": "/drugs/crizotinib/"
-            },
-            {
-              "slug": "db08875",
-              "name": "CABOZANTINIB",
-              "url": "/drugs/cabozantinib/"
-            },
-            {
-              "slug": "db08877",
-              "name": "RUXOLITINIB",
-              "url": "/drugs/ruxolitinib/"
-            },
-            {
-              "slug": "db08885",
-              "name": "AFLIBERCEPT",
-              "url": "/drugs/aflibercept/"
-            },
-            {
-              "slug": "db08889",
-              "name": "CARFILZOMIB",
-              "url": "/drugs/carfilzomib/"
-            },
-            {
-              "slug": "db08896",
-              "name": "REGORAFENIB",
-              "url": "/drugs/regorafenib/"
-            },
-            {
-              "slug": "db08899",
-              "name": "ENZALUTAMIDE",
-              "url": "/drugs/enzalutamide/"
-            },
-            {
-              "slug": "db08911",
-              "name": "TRAMETINIB",
-              "url": "/drugs/trametinib/"
-            },
-            {
-              "slug": "db09037",
-              "name": "PEMBROLIZUMAB",
-              "url": "/drugs/pembrolizumab/"
-            },
-            {
-              "slug": "db09063",
-              "name": "CERITINIB",
-              "url": "/drugs/ceritinib/"
-            },
-            {
-              "slug": "db09074",
-              "name": "OLAPARIB",
-              "url": "/drugs/olaparib/"
-            },
-            {
-              "slug": "db09078",
-              "name": "LENVATINIB",
-              "url": "/drugs/lenvatinib/"
-            },
-            {
-              "slug": "db09079",
-              "name": "NINTEDANIB",
-              "url": "/drugs/nintedanib/"
-            },
-            {
-              "slug": "db09256",
-              "name": "TEGAFUR",
-              "url": "/drugs/tegafur/"
-            },
-            {
-              "slug": "db09257",
-              "name": "GIMERACIL",
-              "url": "/drugs/gimeracil/"
-            },
-            {
-              "slug": "db09343",
-              "name": "TIPIRACIL",
-              "url": "/drugs/tipiracil/"
-            },
-            {
-              "slug": "db11595",
-              "name": "ATEZOLIZUMAB",
-              "url": "/drugs/atezolizumab/"
-            },
-            {
-              "slug": "db11714",
-              "name": "DURVALUMAB",
-              "url": "/drugs/durvalumab/"
-            },
-            {
-              "slug": "db12130",
-              "name": "LORLATINIB",
-              "url": "/drugs/lorlatinib/"
-            },
-            {
-              "slug": "deferasirox",
-              "name": "Deferasirox",
-              "url": "/drugs/deferasirox/"
-            },
-            {
-              "slug": "demeclocycline",
-              "name": "Demeclocycline",
-              "url": "/drugs/demeclocycline/"
-            },
-            {
-              "slug": "desoximetasone",
-              "name": "Desoximetasone",
-              "url": "/drugs/desoximetasone/"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide",
-              "url": "/drugs/disopyramide/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "doxorubicin",
-              "name": "Doxorubicin",
-              "url": "/drugs/doxorubicin/"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab",
-              "url": "/drugs/durvalumab/"
-            },
-            {
-              "slug": "eflornithine",
-              "name": "Eflornithine",
-              "url": "/drugs/eflornithine/"
-            },
-            {
-              "slug": "efonidipine",
-              "name": "Efonidipine",
-              "url": "/drugs/efonidipine/"
-            },
-            {
-              "slug": "enzalutamide",
-              "name": "Enzalutamide",
-              "url": "/drugs/enzalutamide/"
-            },
-            {
-              "slug": "epirubicin",
-              "name": "Epirubicin",
-              "url": "/drugs/epirubicin/"
-            },
-            {
-              "slug": "eplerenone",
-              "name": "Eplerenone",
-              "url": "/drugs/eplerenone/"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide",
-              "url": "/drugs/eptifibatide/"
-            },
-            {
-              "slug": "eribulin",
-              "name": "Eribulin",
-              "url": "/drugs/eribulin/"
-            },
-            {
-              "slug": "estramustine",
-              "name": "Estramustine",
-              "url": "/drugs/estramustine/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "flutamide",
-              "name": "Flutamide",
-              "url": "/drugs/flutamide/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "Isotretinoin",
-              "url": "/drugs/isotretinoin/"
-            },
-            {
-              "slug": "ixabepilone",
-              "name": "Ixabepilone",
-              "url": "/drugs/ixabepilone/"
-            },
-            {
-              "slug": "labetalol",
-              "name": "Labetalol",
-              "url": "/drugs/labetalol/"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose",
-              "url": "/drugs/lactulose/"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "Lamotrigine",
-              "url": "/drugs/lamotrigine/"
-            },
-            {
-              "slug": "lapatinib",
-              "name": "Lapatinib",
-              "url": "/drugs/lapatinib/"
-            },
-            {
-              "slug": "lenalidomide",
-              "name": "Lenalidomide",
-              "url": "/drugs/lenalidomide/"
-            },
-            {
-              "slug": "lenvatinib",
-              "name": "Lenvatinib",
-              "url": "/drugs/lenvatinib/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "levamisole",
-              "name": "Levamisole",
-              "url": "/drugs/levamisole/"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "Levofloxacin",
-              "url": "/drugs/levofloxacin/"
-            },
-            {
-              "slug": "lindane",
-              "name": "Lindane",
-              "url": "/drugs/lindane/"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "Lisinopril",
-              "url": "/drugs/lisinopril/"
-            },
-            {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib",
-              "url": "/drugs/lorlatinib/"
-            },
-            {
-              "slug": "losartan",
-              "name": "Losartan",
-              "url": "/drugs/losartan/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "maraviroc",
-              "name": "Maraviroc",
-              "url": "/drugs/maraviroc/"
-            },
-            {
-              "slug": "megestrol_acetate",
-              "name": "Megestrol Acetate",
-              "url": "/drugs/megestrol-acetate/"
-            },
-            {
-              "slug": "melphalan",
-              "name": "Melphalan",
-              "url": "/drugs/melphalan/"
-            },
-            {
-              "slug": "mephenesin",
-              "name": "Mephenesin",
-              "url": "/drugs/mephenesin/"
-            },
-            {
-              "slug": "mercaptopurine",
-              "name": "Mercaptopurine",
-              "url": "/drugs/mercaptopurine/"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "Methotrexate",
-              "url": "/drugs/methotrexate/"
-            },
-            {
-              "slug": "methoxsalen",
-              "name": "Methoxsalen",
-              "url": "/drugs/methoxsalen/"
-            },
-            {
-              "slug": "metolazone",
-              "name": "Metolazone",
-              "url": "/drugs/metolazone/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "mitomycin",
-              "name": "Mitomycin",
-              "url": "/drugs/mitomycin/"
-            },
-            {
-              "slug": "mitoxantrone",
-              "name": "Mitoxantrone",
-              "url": "/drugs/mitoxantrone/"
-            },
-            {
-              "slug": "mometasone",
-              "name": "Mometasone",
-              "url": "/drugs/mometasone/"
-            },
-            {
-              "slug": "monobenzone",
-              "name": "Monobenzone",
-              "url": "/drugs/monobenzone/"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "Moxifloxacin",
-              "url": "/drugs/moxifloxacin/"
-            },
-            {
-              "slug": "moxonidine",
-              "name": "Moxonidine",
-              "url": "/drugs/moxonidine/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol",
-              "url": "/drugs/nebivolol/"
-            },
-            {
-              "slug": "nilotinib",
-              "name": "Nilotinib",
-              "url": "/drugs/nilotinib/"
-            },
-            {
-              "slug": "nintedanib",
-              "name": "Nintedanib",
-              "url": "/drugs/nintedanib/"
-            },
-            {
-              "slug": "oxaliplatin",
-              "name": "Oxaliplatin",
-              "url": "/drugs/oxaliplatin/"
-            },
-            {
-              "slug": "primidone",
-              "name": "Primidone",
-              "url": "/drugs/primidone/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            },
-            {
-              "slug": "sorafenib",
-              "name": "Sorafenib",
-              "url": "/drugs/sorafenib/"
-            },
-            {
-              "slug": "topiramate",
-              "name": "Topiramate",
-              "url": "/drugs/topiramate/"
-            },
-            {
-              "slug": "valproic_acid",
-              "name": "Valproic Acid",
-              "url": "/drugs/valproic-acid/"
-            },
-            {
-              "slug": "valsartan",
-              "name": "Valsartan",
-              "url": "/drugs/valsartan/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "breast cancer",
-          "related_drugs": [
-            {
-              "slug": "altretamine",
-              "name": "Altretamine",
-              "url": "/drugs/altretamine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "bicalutamide",
-              "name": "Bicalutamide",
-              "url": "/drugs/bicalutamide/"
-            },
-            {
-              "slug": "cabazitaxel",
-              "name": "Cabazitaxel",
-              "url": "/drugs/cabazitaxel/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "Eptifibatide",
-              "url": "/drugs/eptifibatide/"
-            },
-            {
-              "slug": "estramustine",
-              "name": "Estramustine",
-              "url": "/drugs/estramustine/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "melphalan",
-              "name": "Melphalan",
-              "url": "/drugs/melphalan/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "22342e4538a7",
-      "title": "Earths oldest evidence of life is written in stone – but its at risk of disappearing - Daily Excelsior",
-      "published": "2026-10-17T22:30:53+00:00",
-      "summary": "Earths oldest evidence of life is written in stone – but its at risk of disappearing&nbsp;&nbsp;Daily ExcelsiorEarth's oldest evidence of life is written in stone—but it's at risk of disappearing&nbsp;&nbsp;Phys.org'It cannot be': ancient fossils confounded scientists&nbsp;&nbsp;inkl",
-      "sources": [
-        {
-          "name": "Daily Excelsior",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTl1eWdheWVzM1RjZHVDeVBtQ1VNZFBMeXJoMGg4Ync5Rkd0VW9UVWtJMDVKSzd0T04zVUpURGVUU1ZvcGhOYkdCZWxKcFVOVWlNYV9meFNUTXRUVTJhQzh0MmVZVGFfaEJhaHBLN1JEbzNaOV84N3RHdWRUXzFWV0c3bEhRU09JbHh5czNDeUZkeWszUk5peW1QY3ViMnhSckowRDJUOGlLNmhRd1ZoaVdpc0vSAbgBQVVfeXFMUHdtT0JfejV3clI0d0VGNUZzdUFRdElCRnpoSlRUdTFMRE9IbXNTQnFXRjhVb1U2Yi1KVUdZWnY0UmdfeURrUzlQX0lxeHVxWndVaDJLYWZaQ19jeEx1Y1dSNjBibVQ1ZGV2b1dfTnMxUGVGM1hQOG1GOTRRWl9JQS1jNnA1MWNkV2szWkRXU2VNMTlqMjlhZ0ktQ2NWM1JNc0tNc04zREprckVpc042TTVRMnFLWGMxTg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "acb4bb5642e5",
-      "title": "This Martian soil type could be a candidate for future greenhouse farming - Interesting Engineering",
-      "published": "2026-10-17T17:16:00+00:00",
-      "summary": "This Martian soil type could be a candidate for future greenhouse farming&nbsp;&nbsp;Interesting EngineeringSydney student makes first map of Martian soils&nbsp;&nbsp;Spatial SourcePlanetary Scientists Create Classification System and Map of Martian Soils&nbsp;&nbsp;Sci.NewsCould this strange discovery finally make farming on Mars possible? | Discover Wildlife&nbsp;&nbsp;BBC Wildlife MagazineSydney student creates first map of Martian soils | The study was published in the journal 'Catena' | Ins",
-      "sources": [
-        {
-          "name": "Interesting Engineering",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHdIWE5xWm9NREY2ZXZwOVg4VWVORlRWSnJIY0hOSlVsYVV6SVRkQmJBdjdjNEg0RVJQOE1OOTllTmctVllUa2dOR3ZmR3FKRmItN2RsZjBVN2U2M21HYTBUcjlEWFFQb09JNkduZG43VUxnMVpOWXZFLU1fY3I1WFhJLV9pOTktMmpVXw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f3ba31930a5",
-      "title": "Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’ - Gulf Coast News and Weather",
-      "published": "2026-10-15T19:56:00+00:00",
-      "summary": "Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’&nbsp;&nbsp;Gulf Coast News and WeatherNASA Study Refines Projections for Thwaites Glacier&nbsp;&nbsp;NASA Science (.gov)‘Doomsday Glacier’ could double sea-level rise by 2100&nbsp;&nbsp;Daily SabahSenegal-sized Antarctic glacier melting faster than thought: Why it matters&nbsp;&nbsp;Al JazeeraSaving coasts with green policies to protect glacier&nbsp;&nbsp;Kids News",
-      "sources": [
-        {
-          "name": "Gulf Coast News and Weather",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjZyOEJlYUNrUWNick5ZUWlSbDR1UnFfUmNiSHh1X25XeW9OLUUyVVI0WWNNb3JPNDhGUVJtck9yVHJxWUxFUXAyWHQwNG1iN1EzY2lNZFlhX2pUQ2FRWktoOC1PUlhrNFlmOWNGanlvUEtKSUlObDQyM3h0WHFNcWRaR1A3U1BlbV8tWFNISTE3YWk3M1d1TzE1X1p6N1ZaMllJMQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "9e9614dc2ebc",

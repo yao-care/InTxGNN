@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Flagellin Antibody Predicts Future Crohn’s Disease](https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDg1WE9nN0E3aVZjZjRpMm1ERktXei0tZnFObm1YbE5ZVUFBbmdLd1RPNDRCd0FYaEIxZFZtdDF0QTZLc244eXQ4TGJScks1aTVGd1dRSzNBYmlQbEZrUDNtZlJyUTBna1MydHI1QnpIdnZZTlQyTThPQW4tWGtMaXd1dmpIenZsblE?oc=5)
-
-2026-10-19 <span class="news-indication-tag">inflammatory bowel disease</span>
-
-Source: [DocWireNews](https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDg1WE9nN0E3aVZjZjRpMm1ERktXei0tZnFObm1YbE5ZVUFBbmdLd1RPNDRCd0FYaEIxZFZtdDF0QTZLc244eXQ4TGJScks1aTVGd1dRSzNBYmlQbEZrUDNtZlJyUTBna1MydHI1QnpIdnZZTlQyTThPQW4tWGtMaXd1dmpIenZsblE?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

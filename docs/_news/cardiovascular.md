@@ -59,11 +59,11 @@ This page brings together the latest health news about “heart disease” and l
 
 ## Related News (2)
 
-### [Regular tea consumption linked to lower risk of vascular disease](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDVscFg2Q0tWSXVyRG9SNWxacFBIWE1zREc3Y01QZE5INlY0MVB1YWRpTThXTVkxN0NLYi1hMmwwZThPS1BjVFFqQkh5N0t6b296bHpzY2R5RXZaaVFuM3BrZzJCT25SQ1RUWkVhMEFZZ1JpRks5NU9ONDRiMXp2ZkdPWE1NNFpLWmFBWTczaVlBSDAwcmU1SjMwTDVIUmVYLWtOMktqYTRqLS1PNG5EdXBR?oc=5)
+### [Caregivers with heart disease face high psychological distress risks](https://news.google.com/rss/articles/CBMitwFBVV95cUxOX09Pcl91YXFXTHJRekVObVY1VnBxUHBkQ1ZmS2UtQ3lsVE5HVFVqbzh6LUhVdWRkd0FPTVBFeW05ODhJTEQ3RVFNX1JuMDcwUmRJQWQ1b3pWUWhzTnBoS2dQVjFzQWN6R05DcWxIcjlvbWh3UmNSOERTbUJNcHNkODdOWEs1b0Nnd0gyWWp6RHlFcDRGVGU5TVBVYnNKQ0l1SlF1YS1NcUY0UkQ3OVFEcTY4M2x0VWc?oc=5)
 
-2026-10-21
+2026-10-20
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDVscFg2Q0tWSXVyRG9SNWxacFBIWE1zREc3Y01QZE5INlY0MVB1YWRpTThXTVkxN0NLYi1hMmwwZThPS1BjVFFqQkh5N0t6b296bHpzY2R5RXZaaVFuM3BrZzJCT25SQ1RUWkVhMEFZZ1JpRks5NU9ONDRiMXp2ZkdPWE1NNFpLWmFBWTczaVlBSDAwcmU1SjMwTDVIUmVYLWtOMktqYTRqLS1PNG5EdXBR?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxOX09Pcl91YXFXTHJRekVObVY1VnBxUHBkQ1ZmS2UtQ3lsVE5HVFVqbzh6LUhVdWRkd0FPTVBFeW05ODhJTEQ3RVFNX1JuMDcwUmRJQWQ1b3pWUWhzTnBoS2dQVjFzQWN6R05DcWxIcjlvbWh3UmNSOERTbUJNcHNkODdOWEs1b0Nnd0gyWWp6RHlFcDRGVGU5TVBVYnNKQ0l1SlF1YS1NcUY0UkQ3OVFEcTY4M2x0VWc?oc=5)
 
 ---
 
