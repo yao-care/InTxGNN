@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 3 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>3 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Study explores potential breast cancer benefits of neurokinin receptor antagonists](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
 
@@ -55,19 +55,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cU
 
 ---
 
-### [Researchers use mitochondrial uncouplers to target breast cancer metastasis](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
+### [COMMENT: Breast cancer is not just a women’s disease](https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdG54eWJBaEgwclRSUVdoMTNZX2xXTjU2Q3g3UUozNG5Bb1phMWpYYUxKWUJRd0M0Nk9FS29nWTRYUHFBMm90WWpCMnFWWlVsQU1sY2V2eW1JVUNZanRCZDY2TmozbklEaV9fTkItOUlocTlvd0d4YlhrdVRpTVU?oc=5)
 
 2026-10-19
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUNZa1NXTWQ3R3lfYmNxbWJPSldaVE1CUHNDR0JxMXBkTVJIREhWWkRQNlVtMV9ReDNvWDBYT21FZnI3eGdZYVBXMTRNOHY1N3J4cHBDUUZMWUcwRjY4Ynh6YXM4SVduVHBjQ0NDRHN3Q19oTlVmbldkdDY5QzJPeDEwajBuMUw1cE1hcUhXR2JlUU03WE9aaC1jN1dhN0ZnS3F1VmluTEh6M05kb2gtV1BScmR1TTktQmN2ZDdWQkY?oc=5)
-
----
-
-### [Breast Cancer Awareness Month 2026: Does breast cancer only affect women? Breast cancer specialist reveals everything about male breast cancer | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiswJBVV95cUxPM3lVdUxHb3luUWpOMnRIZFd0R2NneEk3UjdOeFR0T1N3MEpJVm0zczZoNy1iLXVvMGk4SS1yTGdEQkYtSjZCOWlZaG81UVBKUUNvVW1zZDNjLXJ6aUtla1g2TFVMdklQbTFmT1dHSXlHYXZTTnl1ekNVTkQtejJOREZiVDVrRDIxUktRNEZMTDV0Umh6X2gzY2c0UGZsSUdYTGNFSE1PQkpoVldFT0JJUWg3S1h2Wmg2aUE0YkRrZUxZYlhvcE5CRlkyWnBoSUhyYmkxZ2dNSDFNRzUtS0tJd2hWd3FUUTdKbmFRaGR0RDUwWmotVmxERUN6azVIY0ZoOWRwS3hWZ2JHRU9BcjBrMjRkOFVxV1VEcW4yUWNIV3h2S2V6RjNiMkR6ZUFhMXBRMG5n0gG4AkFVX3lxTE5UMFZGWnhINGJrNFBrRUlnbUJ1SUd0QkdXNmRCbzN4UE1IQTAydUFkUXZXbUV1VTRFakhsYTlYQkhyQlhJWWdrU1pZT1JEZEJrejNubFA1cW51eDN6MjEzamliS1NKOFgtdlJzbjZneW8yQURnMXJvSGhuaTJnSk9Bd0FPaFh1TjFzcFJxTnNiWVQ5ZmgwYnZzVjBhVG5Kb0RXazBfSVRYQnZsVTlEQUhzU09iT3BaZkFlb2tFNVREN1BPaWVTVS12TnJnb0NpYW5ZTjRmT1pVQVhFMjdPTUlZYll2WUx2ZllzdnRIVU1GVlh5U0xGX3M4OWhBTnVYZGJiVUpjM09oQURfVnlrQ21qNXFkak9ULS0zTkhfQmlZamRCR2ZHT1J6d0tlYlpsZkJQMk1YakQwcw?oc=5)
-
-2026-10-19
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiswJBVV95cUxPM3lVdUxHb3luUWpOMnRIZFd0R2NneEk3UjdOeFR0T1N3MEpJVm0zczZoNy1iLXVvMGk4SS1yTGdEQkYtSjZCOWlZaG81UVBKUUNvVW1zZDNjLXJ6aUtla1g2TFVMdklQbTFmT1dHSXlHYXZTTnl1ekNVTkQtejJOREZiVDVrRDIxUktRNEZMTDV0Umh6X2gzY2c0UGZsSUdYTGNFSE1PQkpoVldFT0JJUWg3S1h2Wmg2aUE0YkRrZUxZYlhvcE5CRlkyWnBoSUhyYmkxZ2dNSDFNRzUtS0tJd2hWd3FUUTdKbmFRaGR0RDUwWmotVmxERUN6azVIY0ZoOWRwS3hWZ2JHRU9BcjBrMjRkOFVxV1VEcW4yUWNIV3h2S2V6RjNiMkR6ZUFhMXBRMG5n0gG4AkFVX3lxTE5UMFZGWnhINGJrNFBrRUlnbUJ1SUd0QkdXNmRCbzN4UE1IQTAydUFkUXZXbUV1VTRFakhsYTlYQkhyQlhJWWdrU1pZT1JEZEJrejNubFA1cW51eDN6MjEzamliS1NKOFgtdlJzbjZneW8yQURnMXJvSGhuaTJnSk9Bd0FPaFh1TjFzcFJxTnNiWVQ5ZmgwYnZzVjBhVG5Kb0RXazBfSVRYQnZsVTlEQUhzU09iT3BaZkFlb2tFNVREN1BPaWVTVS12TnJnb0NpYW5ZTjRmT1pVQVhFMjdPTUlZYll2WUx2ZllzdnRIVU1GVlh5U0xGX3M4OWhBTnVYZGJiVUpjM09oQURfVnlrQ21qNXFkak9ULS0zTkhfQmlZamRCR2ZHT1J6d0tlYlpsZkJQMk1YakQwcw?oc=5)
+Source: [Herald.co.zw](https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdG54eWJBaEgwclRSUVdoMTNZX2xXTjU2Q3g3UUozNG5Bb1phMWpYYUxKWUJRd0M0Nk9FS29nWTRYUHFBMm90WWpCMnFWWlVsQU1sY2V2eW1JVUNZanRCZDY2TmozbklEaV9fTkItOUlocTlvd0d4YlhrdVRpTVU?oc=5)
 
 ---
 

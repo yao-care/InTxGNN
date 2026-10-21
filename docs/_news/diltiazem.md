@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,23 +32,9 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [AI model analyses DNA to identify people at higher risk of stroke](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
-
-2026-10-20 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNT184RVRxVEpJdm5QN3F1a2Y5SGRLSE8zVjVMTUpITlNDdklTbzdreW51c05MaWhUTEppbU9RcEcxaDAzaGJreldlNjdnSUM2MDM4YXBsU0JOMkc1bnltN3c2cDMzR3A0R2VmMjIxYTJHR2VXVzFfOGpiTGprVkdWajRkN01ybkprQ0NlenRUN3NYVU5GRXZRQ1p4MGxpMlFrYURCcFVZOW9LTEQ0UlR5UkIxTGJkYnlReEE?oc=5)
-
----
-
-### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

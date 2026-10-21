@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 1 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Obesity Linked to Lower Risk for Mortality in Dementia - Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
+### [Obesity Linked to Lower Risk for Mortality in Dementia - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnk3X1o4VUlnTXYwaDB4SjJaSW9lYUNHOVMwTmhvUGZpR1VMN1RjNlA3UXd5N3lmN3RIdWZNTFVra0V3UkZvektHaWxqd2gtQk53RXAzNUtfSmc3MWZVdkRNUER3R2lIdk1OZ1N6MFhyZXZacVAxMi1YNGs1MG8ycDNNVURsSGtrYU1SSlc4T19SSm9yUTZtNFpObzRsNmVudWc?oc=5)
 
 2026-10-20
 
-Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
-
----
-
-### [Long-term study finds 3,000 steps nearly halve Alzheimer's markers](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
-
-2026-10-19
-
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUYxX0R1eXdkNk1lcmNyOUZST2xMSlE5Smc4dzlwZ1pwXzE4UmRYejRPV3dxbTBDU3RyWDRNNDg3ak1iRlBYd2JFSTM5OVBWeUR1Y2Y0T3BOOUdMSWFfTWJSU21zczNsem4yRTN3cnItUmlLSF9ueVJSN09RZHlBQmFqWW51WXdSUlNnbmlCUVNfbi0zYmJUTU03NjRjOUdyTFR5NzgyUmNkYkUyNXFOTw?oc=5)
+Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnk3X1o4VUlnTXYwaDB4SjJaSW9lYUNHOVMwTmhvUGZpR1VMN1RjNlA3UXd5N3lmN3RIdWZNTFVra0V3UkZvektHaWxqd2gtQk53RXAzNUtfSmc3MWZVdkRNUER3R2lIdk1OZ1N6MFhyZXZacVAxMi1YNGs1MG8ycDNNVURsSGtrYU1SSlc4T19SSm9yUTZtNFpObzRsNmVudWc?oc=5)
 
 ---
 

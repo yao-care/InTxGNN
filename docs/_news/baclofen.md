@@ -14,7 +14,7 @@ permalink: /news/baclofen/
 ---
 
 <p class="key-answer" data-question="What news is there about Baclofen?">
-<strong>Baclofen</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Baclofen</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ This page combines the AI-predicted indications for Baclofen with the latest hea
 <p><a href="{{ '/drugs/baclofen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [High-nicotine vapes make quitting harder for young adults, study finds](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTF5TVh3WWdEVE5rejVWczRFcW1vbkVMZzNmVDdtbExrMWFNRnE4NWRVRHpDMkJKSmNHUVFjNFo3T2g0TnRKSzFaZ0t4OEw2QWJwNjRMNnBhWDhGMEgxNDhrZ0M0bWdzQVd1cHhfQjk1d3Z5TkpjRF9zVFNwTnF5RlRBSGYyQ01haFZaYW9wXy1DeXpfTkowOTEwNEJRMF9oa0NHTWp4eTIwUdIBrwFBVV95cUxNZnl2bGRZa2V6VjBPejdEdFBsWHlJNkdnUGVrb01iNHV2VGQ5VU4zZHUxeEEya2NWdmh0NXk5THFFSVRZSGI0M0I0QjdfS2p4NlljeVZuRkZmYkc4ZFpObjFEbTBWWU9mZ0NTMmtHNUxmZmU1NzMtcjJfSlJvTmpXUjNubWJ1aU1uRExNZWJPbDV3SHdrY2hvMkg4MHdERGNBVm1wVV9Zank3QWlQc3l3?oc=5)
+
+2026-10-21 <span class="news-drug-tag">NICOTINE</span> <span class="news-indication-tag">nicotine dependence</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRTF5TVh3WWdEVE5rejVWczRFcW1vbkVMZzNmVDdtbExrMWFNRnE4NWRVRHpDMkJKSmNHUVFjNFo3T2g0TnRKSzFaZ0t4OEw2QWJwNjRMNnBhWDhGMEgxNDhrZ0M0bWdzQVd1cHhfQjk1d3Z5TkpjRF9zVFNwTnF5RlRBSGYyQ01haFZaYW9wXy1DeXpfTkowOTEwNEJRMF9oa0NHTWp4eTIwUdIBrwFBVV95cUxNZnl2bGRZa2V6VjBPejdEdFBsWHlJNkdnUGVrb01iNHV2VGQ5VU4zZHUxeEEya2NWdmh0NXk5THFFSVRZSGI0M0I0QjdfS2p4NlljeVZuRkZmYkc4ZFpObjFEbTBWWU9mZ0NTMmtHNUxmZmU1NzMtcjJfSlJvTmpXUjNubWJ1aU1uRExNZWJPbDV3SHdrY2hvMkg4MHdERGNBVm1wVV9Zank3QWlQc3l3?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -35,11 +35,11 @@ This page combines the AI-predicted indications for Nimotuzumab with the latest 
 
 ## Related News (1)
 
-### [A unified deep learning framework for multi-lesion detection in diabetic retinopathy using fundus images](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xUjFaZGtvMDFDZjZFTnhtVDZsSkRlOFd6VC05SG9IUm9oLVNiMGNHTHFDZTV3S2I3TkdpTnlLX0pldTRCZlpqa21LR09Zal9tdkZJNm5RbWN6Mkdremo0?oc=5)
+### [AAO 2026: Closing the Screening Gap in Diabetic Retinopathy - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hQTnNza1FGSkk4SFNsN0tTbUdnSU13MWtjaFRlZ0w4S3gzb0RtTnhoa0lVWGFnZU9GZ000Wndqc0p6a1ZpX2VGbDA4ODN0akttZmRFcTlmZ0NnTnZCVzFOdFRfR2ZYaVp0QWZUa29NY1ZUbjlvOS1QQ3Rrd0IyUExfZ0g5dXRCbGZwOFRvU3RxN04wRFVWRTFSWWVHTHJaSkxOTFp5Vng3N1B3WWFURw?oc=5)
 
-2026-10-19 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">diabetic retinopathy</span>
+2026-10-19 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xUjFaZGtvMDFDZjZFTnhtVDZsSkRlOFd6VC05SG9IUm9oLVNiMGNHTHFDZTV3S2I3TkdpTnlLX0pldTRCZlpqa21LR09Zal9tdkZJNm5RbWN6Mkdremo0?oc=5)
+Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hQTnNza1FGSkk4SFNsN0tTbUdnSU13MWtjaFRlZ0w4S3gzb0RtTnhoa0lVWGFnZU9GZ000Wndqc0p6a1ZpX2VGbDA4ODN0akttZmRFcTlmZ0NnTnZCVzFOdFRfR2ZYaVp0QWZUa29NY1ZUbjlvOS1QQ3Rrd0IyUExfZ0g5dXRCbGZwOFRvU3RxN04wRFVWRTFSWWVHTHJaSkxOTFp5Vng3N1B3WWFURw?oc=5)
 
 ---
 
