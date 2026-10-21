@@ -59,11 +59,11 @@ This page brings together the latest health news about “heart disease” and l
 
 ## Related News (2)
 
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+### [Regular tea consumption linked to lower risk of vascular disease](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDVscFg2Q0tWSXVyRG9SNWxacFBIWE1zREc3Y01QZE5INlY0MVB1YWRpTThXTVkxN0NLYi1hMmwwZThPS1BjVFFqQkh5N0t6b296bHpzY2R5RXZaaVFuM3BrZzJCT25SQ1RUWkVhMEFZZ1JpRks5NU9ONDRiMXp2ZkdPWE1NNFpLWmFBWTczaVlBSDAwcmU1SjMwTDVIUmVYLWtOMktqYTRqLS1PNG5EdXBR?oc=5)
 
 2026-10-21
 
-Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDVscFg2Q0tWSXVyRG9SNWxacFBIWE1zREc3Y01QZE5INlY0MVB1YWRpTThXTVkxN0NLYi1hMmwwZThPS1BjVFFqQkh5N0t6b296bHpzY2R5RXZaaVFuM3BrZzJCT25SQ1RUWkVhMEFZZ1JpRks5NU9ONDRiMXp2ZkdPWE1NNFpLWmFBWTczaVlBSDAwcmU1SjMwTDVIUmVYLWtOMktqYTRqLS1PNG5EdXBR?oc=5)
 
 ---
 

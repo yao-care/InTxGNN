@@ -33,11 +33,11 @@ This page brings together the latest health news about “bowel cancer” and li
 
 ## Related News (1)
 
-### [Not all ultra-processed foods show the same cancer risk](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
+### [Massive study of 460,000 people challenges ultra-processed food cancer fears - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
-2026-10-20
+2026-10-21
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDd5dHJhX1JrOTlTeXkxZG9ULUtBQkZKemxIMDBTbHJOY0VoVG1iZ2gzSEZnaGhLNFFHOU0zSW4tbERPWnhfTzJOZnlxVEszN2ZNQWZCalN5UVlrdkZyU3RWbGFYM0ZKbFBQaG50NDZmZENOWmN4NFV5MnIxUHpkWGNMb1czdENFbWh1U2dWQlZDcU1fZThST2xITjRaX2lzN2xVZXFR?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
 ---
 

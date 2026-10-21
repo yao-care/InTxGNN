@@ -61,14 +61,6 @@ Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMilAFB
 
 ---
 
-### [4 Osteoporosis Symptoms a Doctor Monitors in Herself and the ‘Critical Window’ for Preventing Bone Loss](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
-
-2026-10-20
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
-
----
-
 ### [Study explores potential breast cancer benefits of neurokinin receptor antagonists](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
 
 2026-10-20
@@ -82,6 +74,14 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28t
 2026-10-20
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
+
+---
+
+### [Premature menopause linked to higher heart disease risk and insulin levels](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
+
+2026-10-20
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
 
 ---
 

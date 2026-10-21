@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [AI-enhanced virtual reality could help manage menopause symptoms](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTno0Z1c5MEhieVh1WV8zLWk1UFMyczd0Ui1lTUhWSVZqQ0NrUVFkQ1c1ZmNqcTlvMHNOOEtnb0pvVTIyZ29ZcmRydnA5MVloOWZyVmJpeTdzWG9USll5dDUxdXFIOVRndjYzb3V3R01ZWENFVXVVQ29fR0xZRU1sX3RhV0Z5NWppMUtMWkRHRnN1d1ND?oc=5)
 
 2026-10-21 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxOTno0Z1c5MEhieVh1WV8zLWk1UFMyczd0Ui1lTUhWSVZqQ0NrUVFkQ1c1ZmNqcTlvMHNOOEtnb0pvVTIyZ29ZcmRydnA5MVloOWZyVmJpeTdzWG9USll5dDUxdXFIOVRndjYzb3V3R01ZWENFVXVVQ29fR0xZRU1sX3RhV0Z5NWppMUtMWkRHRnN1d1ND?oc=5)
-
----
-
-### [4 Osteoporosis Symptoms a Doctor Monitors in Herself and the ‘Critical Window’ for Preventing Bone Loss](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
-
-2026-10-20 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
 
 ---
 
@@ -60,7 +52,7 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28t
 
 ### [Premature menopause linked to higher heart disease risk and insulin levels](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
 
-2026-10-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-10-20 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGVKc3BfYVljN0k3dVM0eW9obVdTaXdxRVcxNUdBak9BU0c5cy0wajAzeGgxMHBIUGQzb3AzMk9DSk9XZFJmTS10OTR5R2cwa3did0FiX3c2dmJkV0dvZjF0dUMxd0pLUTIxYlB6X0xBY3JuT2MydV80dWJaMlg2RDZfQVVFbWk1WVNoaDhJS0NRMHdvU3FVV0R4d1BxVnNveF9UQUdCT21Dd255NEJBR1o2aVhYN2pkSGN0SFo4Yw?oc=5)
 

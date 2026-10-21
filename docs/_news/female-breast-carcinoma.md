@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 3 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>3 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Study explores potential breast cancer benefits of neurokinin receptor antagonists](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
 
@@ -60,6 +60,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cU
 2026-10-19
 
 Source: [Herald.co.zw](https://news.google.com/rss/articles/CBMif0FVX3lxTFBZdG54eWJBaEgwclRSUVdoMTNZX2xXTjU2Q3g3UUozNG5Bb1phMWpYYUxKWUJRd0M0Nk9FS29nWTRYUHFBMm90WWpCMnFWWlVsQU1sY2V2eW1JVUNZanRCZDY2TmozbklEaV9fTkItOUlocTlvd0d4YlhrdVRpTVU?oc=5)
+
+---
+
+### [Liquid biopsy and mammography: a perfect match for breast cancer detection?](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
+
+2026-10-18
+
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlFxWEROc1pDWllMWlJDNk9LLVp3R0VzaFB0cDJiQ083VzI2VUROcUVVT1dpOVBvaG1DemtFczdDTlBKNHZlRnB1X21SbTMySUxONE1FcE9Ec3dKRFM4eDY1ZEhkZUdJUnJUdWR1djBmYldCVmZacHNJdW1Wcy0zUE05bUhGWVZIN20wSFRtMjh6TDNBMmxIdFdmYw?oc=5)
 
 ---
 

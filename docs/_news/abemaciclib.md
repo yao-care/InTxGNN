@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
-
----
+## Related News (1)
 
 ### [CDC reports third measles death in the United States this year - Al Jazeera](https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUtHU281YnFwYmdvWlNFRU1HYldWZFp2YVc4YVRGTnM0MEc2WWphakw1cERFWURmNDlpdER3Z0o0eXl2YVozZ1FkZzQ5VzRia3hkODNrOTBtc2dtcFdFU0tJandTU0FDOFkzN2VIcUVCeEdCcFdaSExiX2RfOHV2ZUxoOGtIM3dpRWU5bGZqVFdFSTR6cGs4ejJmUDVNVFFNSmdxS2c3c9IBrAFBVV95cUxQTTNLZzRpTzdmXzBsV0NOOTl3RjlFVG00d19lNy1TLUkwNXg4b0xUcFQza1pPamxYT19wZkpVWmdxNDhjdVRFR0RsbU9HVXdrYTN6UmE4UGphLVdXR00yQ0stQ1pwQkNwX0NUNkROYWk0MDBxampPMmVFYmROREIyTWoyTE1FQTlqbjE0cUdLREZOdWZaWkZfcnNGSzhuWXVfanpkSEp5V01pTXQw?oc=5)
 
