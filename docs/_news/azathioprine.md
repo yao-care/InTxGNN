@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 
 ## Related News (1)
 
-### [We might have a way to predict inflammatory bowel disease](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTFCZGNmRVVEUm1CQXNRY0VmajdjMjh0NmhISHhsVGpPVkVwVFB0VDBqZlVtYWpoRDNYSHJNMTdGN2xSdEJodkZ2Rzdrb1paV2Zmb2FYWVNJY2RNczNGVTRxY2dOeW1SQ1ZFWk5yd2dRSUtTdk9jcldCN1FYeDFWX2IzS192VFpmakhYWlVkSk5jYmxzdTRSSHB3dkVUNWg1dE9PLV9FNDNqNmF2ODUzcnBld1JZbUdK?oc=5)
+### [Assessing Nonsurgical Options for Knee Osteoarthritis](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5)
 
-2026-10-19 <span class="news-indication-tag">inflammatory bowel disease</span>
+2026-10-22 <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTFCZGNmRVVEUm1CQXNRY0VmajdjMjh0NmhISHhsVGpPVkVwVFB0VDBqZlVtYWpoRDNYSHJNMTdGN2xSdEJodkZ2Rzdrb1paV2Zmb2FYWVNJY2RNczNGVTRxY2dOeW1SQ1ZFWk5yd2dRSUtTdk9jcldCN1FYeDFWX2IzS192VFpmakhYWlVkSk5jYmxzdTRSSHB3dkVUNWg1dE9PLV9FNDNqNmF2ODUzcnBld1JZbUdK?oc=5)
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5)
 
 ---
 

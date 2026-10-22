@@ -1,35 +1,60 @@
 {
-  "generated": "2026-10-22T16:07:26.077231+00:00",
-  "count": 21,
+  "generated": "2026-10-22T20:52:49.114418+00:00",
+  "count": 18,
   "news": [
     {
-      "id": "922c6921bb2d",
-      "title": "Dexmedetomidine as an Adjuvant to Local Anesthetics for Postoperative Analgesia in Breast Cancer Surgery - The Cureus Journal of Medical Science",
-      "published": "2026-10-22T15:45:41+00:00",
+      "id": "ae0621766081",
+      "title": "Assessing Nonsurgical Options for Knee Osteoarthritis",
+      "published": "2026-10-22T17:32:45+00:00",
       "sources": [
         {
-          "name": "The Cureus Journal of Medical Science",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjd6c2Q0d2FVN2lWRC1xTzhUUkg1akRFMXp1YjVlTHRnU3ZfRml4LWFZUTBXMjAta2M1eUpkNHNEbTNFNFJUVjR4aG1EcUhTMkNDWS1HT0xPT3pyZDJmSU9WTDMtb3RfWWsxZmxGeGdnN2ExRDRRemN4OXhEZEdyMnRsRXNiMFVvZ0tpNnZKYnE2d2hOMTFVbHR3SDJISERPXy1HVV9iQVBYN0VFaTBpaEdWSXdpalE3dUhUcUhFOVdHbjhkX2VPb1h3ZWVZV25oOWF0OWdKWFhUbjA?oc=5"
+          "name": "DocWireNews",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5"
         }
       ],
       "keywords": [
         {
-          "type": "drug",
-          "keyword": "dexmedetomidine",
-          "name": "Dexmedetomidine",
-          "slug": "dexmedetomidine",
-          "url": "/drugs/dexmedetomidine/"
+          "type": "indication",
+          "name": "osteoarthritis",
+          "keyword": "osteoarthritis",
+          "related_drugs": [
+            {
+              "slug": "azathioprine",
+              "name": "Azathioprine",
+              "url": "/drugs/azathioprine/"
+            },
+            {
+              "slug": "chromium",
+              "name": "Chromium",
+              "url": "/drugs/chromium/"
+            },
+            {
+              "slug": "leuprolide",
+              "name": "Leuprolide",
+              "url": "/drugs/leuprolide/"
+            },
+            {
+              "slug": "mesalazine",
+              "name": "Mesalazine",
+              "url": "/drugs/mesalazine/"
+            },
+            {
+              "slug": "nicorandil",
+              "name": "Nicorandil",
+              "url": "/drugs/nicorandil/"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "6df93065439d",
-      "title": "Total ultra-processed food intake not associated with colorectal cancer incidence in large US study - Oncology Central",
-      "published": "2026-10-22T15:18:42+00:00",
+      "id": "edc3598a56dc",
+      "title": "A selfie as a health check? AI detects health risks and biological age from a facial photo",
+      "published": "2026-10-22T16:24:00+00:00",
       "sources": [
         {
-          "name": "Oncology Central",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOME1KbkEtSGpza0k2SzBFTWVUNzJmdUpVZlhRbTRQQU96NEcxMXZlNmFJUzYweHpXeklBc1lSNkNPR0IwOW9rY1JZT3NSNGRISFI1SmJ5eUo3YnphMmVGejRSbndYbDFoMGRvRXBZRXI0blJ1STNnT0RRV1Y0YUJZMVg4d1llbDJQelNsb3pqdlRqZ2l4U3J1Ukw4ZndSbWhZZmdfNmRUbmRBRTNfdXJVY3cxeXFsQWtOaHlNV2w0MUFVb0F2a3I4eDA0U3drQQ?oc=5"
+          "name": "Notebookcheck",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGJ1NUFMNldzRG1EUUdWR0hjNzJpWkZ1SmdXTTlHNmhQQmhZSjFVdVNRZFNyMjhFS29mRlFRczNrZnpuUGFQSGR5b055NV9XOVhabW41TzFyckFWY1IzcHhoY1U4M2xWU3k0TEtLWXQyblJBV3liSk1vVGQwN0t5ODhheVNPSFU5YWRZN3Bqczdlb01uSFhVRDgteVRDcUtsS3VjWHNCbWlnMHotbldDTjNIVkp2eURDX0pTa1FFX1pYZ1VTcTlXdzhnQ1p2dkE?oc=5"
         }
       ],
       "keywords": [
@@ -1089,613 +1114,17 @@
               "url": "/drugs/valsartan/"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "colorectal cancer",
-          "related_drugs": [
-            {
-              "slug": "ademetionine",
-              "name": "Ademetionine",
-              "url": "/drugs/ademetionine/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "bowel cancer",
-          "keyword": "bowel cancer",
-          "related_drugs": [
-            {
-              "slug": "ademetionine",
-              "name": "Ademetionine",
-              "url": "/drugs/ademetionine/"
-            },
-            {
-              "slug": "altretamine",
-              "name": "Altretamine",
-              "url": "/drugs/altretamine/"
-            },
-            {
-              "slug": "melphalan",
-              "name": "Melphalan",
-              "url": "/drugs/melphalan/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "rectum mucinous adenocarcinoma",
-          "keyword": "rectal cancer",
-          "related_drugs": [
-            {
-              "slug": "altretamine",
-              "name": "Altretamine",
-              "url": "/drugs/altretamine/"
-            },
-            {
-              "slug": "melphalan",
-              "name": "Melphalan",
-              "url": "/drugs/melphalan/"
-            }
-          ]
         }
       ]
     },
     {
-      "id": "7460c3855212",
-      "title": "Anton Syndrome Following Recurrent Hemorrhagic Stroke: A Case Report - The Cureus Journal of Medical Science",
-      "published": "2026-10-22T15:11:01+00:00",
+      "id": "e3a50d249966",
+      "title": "Breast Cancer’s Transformation From Terminal to Manageable A Healthy Dialogue With Nancy E. Davidson",
+      "published": "2026-10-22T16:09:05+00:00",
       "sources": [
         {
-          "name": "The Cureus Journal of Medical Science",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXBCZTVLOFUxWmNzazJRaDA5ZlJTaVkxZ3RNN2h6WTNHeFNBRFYwV3FZVGtpRTVicG1PZHVZeFVIei0xLXJJLVZWcUlYV2lLeHV6RFNRQnZpVVF2TERSZkZ5UElYRUVUS1dhRzRGU3I3c1BFUV9Mc0pjOWpLN2RFQmR1SVFCX09GMzJDYTNBd1JXVTR6ZGI1Xy1HRE1zN3pHWTdBcFJaV2pjdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE",
-              "url": "/drugs/alteplase/"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "PRAVASTATIN",
-              "url": "/drugs/pravastatin/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "AMLODIPINE",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "SIMVASTATIN",
-              "url": "/drugs/simvastatin/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "TELMISARTAN",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "ATORVASTATIN",
-              "url": "/drugs/atorvastatin/"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "ROSUVASTATIN",
-              "url": "/drugs/rosuvastatin/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "ISOXSUPRINE",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "edaravone",
-              "name": "EDARAVONE",
-              "url": "/drugs/edaravone/"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin",
-              "url": "/drugs/digoxin/"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem",
-              "url": "/drugs/diltiazem/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol",
-              "url": "/drugs/sotalol/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "brain attack",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE",
-              "url": "/drugs/alteplase/"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "PRAVASTATIN",
-              "url": "/drugs/pravastatin/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "AMLODIPINE",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "SIMVASTATIN",
-              "url": "/drugs/simvastatin/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "TELMISARTAN",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "ATORVASTATIN",
-              "url": "/drugs/atorvastatin/"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "ROSUVASTATIN",
-              "url": "/drugs/rosuvastatin/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "ISOXSUPRINE",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "edaravone",
-              "name": "EDARAVONE",
-              "url": "/drugs/edaravone/"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin",
-              "url": "/drugs/digoxin/"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem",
-              "url": "/drugs/diltiazem/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol",
-              "url": "/drugs/sotalol/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "paralysis",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE",
-              "url": "/drugs/alteplase/"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "PRAVASTATIN",
-              "url": "/drugs/pravastatin/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "AMLODIPINE",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "SIMVASTATIN",
-              "url": "/drugs/simvastatin/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "TELMISARTAN",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "ATORVASTATIN",
-              "url": "/drugs/atorvastatin/"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "ROSUVASTATIN",
-              "url": "/drugs/rosuvastatin/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "ISOXSUPRINE",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "edaravone",
-              "name": "EDARAVONE",
-              "url": "/drugs/edaravone/"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin",
-              "url": "/drugs/digoxin/"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem",
-              "url": "/drugs/diltiazem/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol",
-              "url": "/drugs/sotalol/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "lakwa",
-          "keyword": "stroke",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE",
-              "url": "/drugs/alteplase/"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "PRAVASTATIN",
-              "url": "/drugs/pravastatin/"
-            },
-            {
-              "slug": "ramipril",
-              "name": "RAMIPRIL",
-              "url": "/drugs/ramipril/"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "AMLODIPINE",
-              "url": "/drugs/amlodipine/"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "SIMVASTATIN",
-              "url": "/drugs/simvastatin/"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "TELMISARTAN",
-              "url": "/drugs/telmisartan/"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "ATORVASTATIN",
-              "url": "/drugs/atorvastatin/"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "ROSUVASTATIN",
-              "url": "/drugs/rosuvastatin/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "ISOXSUPRINE",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "edaravone",
-              "name": "EDARAVONE",
-              "url": "/drugs/edaravone/"
-            },
-            {
-              "slug": "digoxin",
-              "name": "Digoxin",
-              "url": "/drugs/digoxin/"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem",
-              "url": "/drugs/diltiazem/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "sotalol",
-              "name": "Sotalol",
-              "url": "/drugs/sotalol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2b018fae5173",
-      "title": "Daily Curcumin Reduced Inflammatory Markers, Improved Cough, and Dyspnea in COPD Patients",
-      "published": "2026-10-22T13:24:06+00:00",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVlKTXlSNkpaLW92S3FkeXN2REtPYzVoalZIR3RJcy11ei1Zd1M5aEtKMm90eFROMU95RWtQZzI1N1J6OEJpRFRjRDU5cEo3bzFFTFNTZmNZNnZJRVlhc0hjZG4wTDlzY1lJY29MRDNuX0t0M1ZsNGhSOW9rdGhqT29iOU9ydjdMNTc1OF9oU0RXbEw2N3d0Qm5VVjdxQ0d4eDFMa0hmcHBfMThx?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "chronic obstructive pulmonary disease",
-          "keyword": "COPD",
-          "related_drugs": [
-            {
-              "slug": "tulobuterol",
-              "name": "Tulobuterol",
-              "url": "/drugs/tulobuterol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e59f6aca7094",
-      "title": "AI Scan Of 101,243 Patients Links Brown Fat To Fewer Diagnoses - Dr. Axe",
-      "published": "2026-10-22T12:02:48+00:00",
-      "sources": [
-        {
-          "name": "Dr. Axe",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44RUJfT0xyTWxLSkR6T2RtZ3FqaU5XdGhDM04zY0c1dHNoZzRFYWFjMW40VUNzX3RCR09xbzJmRVNFZ3BlS2toaDhSbUxIUXBVN1UxM1BCMGU1dGZRQ0NRZ2hJVGdqcGFDTG9OaWRJRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "keyword": "losartan",
-          "name": "LOSARTAN",
-          "slug": "losartan",
-          "url": "/drugs/losartan/"
-        },
-        {
-          "type": "drug",
-          "keyword": "losartan",
-          "name": "Losartan",
-          "slug": "losartan",
-          "url": "/drugs/losartan/"
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "heart disease",
-          "related_drugs": [
-            {
-              "slug": "alteplase",
-              "name": "Alteplase",
-              "url": "/drugs/alteplase/"
-            },
-            {
-              "slug": "atosiban",
-              "name": "Atosiban",
-              "url": "/drugs/atosiban/"
-            },
-            {
-              "slug": "cyclandelate",
-              "name": "Cyclandelate",
-              "url": "/drugs/cyclandelate/"
-            },
-            {
-              "slug": "cyproterone-acetate",
-              "name": "Cyproterone Acetate",
-              "url": "/drugs/cyproterone-acetate/"
-            },
-            {
-              "slug": "alteplase",
-              "name": "ALTEPLASE",
-              "url": "/drugs/alteplase/"
-            },
-            {
-              "slug": "reteplase",
-              "name": "RETEPLASE",
-              "url": "/drugs/reteplase/"
-            },
-            {
-              "slug": "tenecteplase",
-              "name": "TENECTEPLASE",
-              "url": "/drugs/tenecteplase/"
-            },
-            {
-              "slug": "eptifibatide",
-              "name": "EPTIFIBATIDE",
-              "url": "/drugs/eptifibatide/"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "PRAVASTATIN",
-              "url": "/drugs/pravastatin/"
-            },
-            {
-              "slug": "lovastatin",
-              "name": "LOVASTATIN",
-              "url": "/drugs/lovastatin/"
-            },
-            {
-              "slug": "atenolol",
-              "name": "ATENOLOL",
-              "url": "/drugs/atenolol/"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "SIMVASTATIN",
-              "url": "/drugs/simvastatin/"
-            },
-            {
-              "slug": "verapamil",
-              "name": "VERAPAMIL",
-              "url": "/drugs/verapamil/"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "LISINOPRIL",
-              "url": "/drugs/lisinopril/"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "CLOPIDOGREL",
-              "url": "/drugs/clopidogrel/"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "ATORVASTATIN",
-              "url": "/drugs/atorvastatin/"
-            },
-            {
-              "slug": "fluvastatin",
-              "name": "FLUVASTATIN",
-              "url": "/drugs/fluvastatin/"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "ROSUVASTATIN",
-              "url": "/drugs/rosuvastatin/"
-            },
-            {
-              "slug": "papaverine",
-              "name": "PAPAVERINE",
-              "url": "/drugs/papaverine/"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "PRASUGREL",
-              "url": "/drugs/prasugrel/"
-            },
-            {
-              "slug": "ticagrelor",
-              "name": "TICAGRELOR",
-              "url": "/drugs/ticagrelor/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "ISOXSUPRINE",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "doxapram",
-              "name": "Doxapram",
-              "url": "/drugs/doxapram/"
-            },
-            {
-              "slug": "ebastine",
-              "name": "Ebastine",
-              "url": "/drugs/ebastine/"
-            },
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide Dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "isoxsuprine",
-              "name": "Isoxsuprine",
-              "url": "/drugs/isoxsuprine/"
-            },
-            {
-              "slug": "lubiprostone",
-              "name": "Lubiprostone",
-              "url": "/drugs/lubiprostone/"
-            },
-            {
-              "slug": "propafenone",
-              "name": "Propafenone",
-              "url": "/drugs/propafenone/"
-            },
-            {
-              "slug": "streptokinase",
-              "name": "Streptokinase",
-              "url": "/drugs/streptokinase/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1581c3cf86be",
-      "title": "Two women, same breast cancer diagnosis, different treatments: How tumour biology decides who needs chemo - The Times of India",
-      "published": "2026-10-22T10:36:00+00:00",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb0dpOXhzd1QwWWh4SEhSU2ZGVTFMNnZkbVhqOEZZVmRPRlV4M3pqdGI1dm1Qdkk0VDVXLUg1dTFoaHBMYVJIV0JLMm81TEhxNXVTdW5KeXUyMm83WXpoY0cxM044eE1UNFBuMlVuc1VlTXM3VnRZMFNudUoyaUNOQXZhalVQbUtwNGFyY01oVEFVVUxRUUFvOUoxOUtFeEpMa2kyNjMwOU9tOGFsVU8ta1VHN09rNlF0cXRpbVAxdEdqd2VtR2pnSTFqZDJ6dHdDUE5lUjJaaGxBZHJ3SmRIZ0laWWdIRjZieTAxdnI1cm5SZ2dhQlJMUlllcEpfNUtac2FSS2JzeENxNmw1VFNVUGlUdkhVUdIBmwJBVV95cUxNWkNtYUo3MkNRUE5WenVZNjBJc3lCbTBKRnphb3MwLUhNUFdtaHcwc01MQ003V0hiX0lkekhmVGVjOGlBOGxYYW1rSVU5SVc0aXJLNExiV08wUFc2R2w3Smp3RFpWdkZNMGk3Y0JZRFpBOFdGRGVVRWdaTDYtcjhRajdza29aUWRxb1RfSGJaR2FyNmNyUE11RUJDUHZFRC1OLWxtNTltWXFDM3hvNnotRzJMeU5lUXN5NldmMEdpUWVRTGdvaEcyWmREZ2hSWnoxMUFGemlFa1ByQUJiRVI0ZUJybXhjckpTN0tONW1UczBNV0tVS0Z4NXd4NjdTUkotUi0wYlQ4RWlFX19zRnJlcnptV3VBbDF5aE4w?oc=5"
+          "name": "JAMA",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUFEzcjl6OFhDcEF1Z2NPTVZVUGtJNXp0MHBqSUlxY2k3ajN1ZGx6Y044d3BZU096Q25LSVhSQjl6VWxpeVhNT2FyWTBURU8yTnV0V1lqcVBpbERIOWJmRWlFT1hGRWc1?oc=5"
         }
       ],
       "keywords": [
@@ -3868,339 +3297,13 @@
       ]
     },
     {
-      "id": "6da7202e922e",
-      "title": "Osteoporosis in women: Doctors reveal how much calcium and vitamin D you really need | Health - Hindustan Times",
-      "published": "2026-10-22T10:11:43+00:00",
+      "id": "334e228ba24b",
+      "title": "Shubham Pant: Are KRAS-Targeted Therapies Changing the Treatment Landscape?",
+      "published": "2026-10-22T15:54:49+00:00",
       "sources": [
         {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "levonorgestrel",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "progesterone",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "medroxyprogesterone-acetate",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "norethisterone",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "minodronic-acid",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "denosumab",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "magnesium-citrate",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause symptoms",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "levonorgestrel",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "progesterone",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "medroxyprogesterone-acetate",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "norethisterone",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "minodronic-acid",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "denosumab",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "magnesium-citrate",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "masik dharm band",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "levonorgestrel",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "progesterone",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "medroxyprogesterone-acetate",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "norethisterone",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "minodronic-acid",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "denosumab",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "magnesium-citrate",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f5c97d2701f1",
-      "title": "MICROPLASTICS AND HUMAN HEALTH | Los Angeles Times - newspaper",
-      "published": "2026-10-22T08:45:07+00:00",
-      "sources": [
-        {
-          "name": "Magzter",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3hlaHFib25pUGZaNWVoTGxVSVM2djN4NzFLQ3dJYlJ5aFBMaG9UMFJsRnozSF9IYkt0cXFkaUN5eGVSQ1p3UzZPa3czbHVPLTVtYm1OS0pPbDVwN3gtX09fai1CVFY5RnVpZGNRT0xObThORFRzejdXc2FGcGhpM0ZBLUFUXzRZaGFBbUs5SmFaY3RU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "asthma",
-          "keyword": "dama",
-          "related_drugs": [
-            {
-              "slug": "montelukast",
-              "name": "Montelukast",
-              "url": "/drugs/montelukast/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c874a6eae24b",
-      "title": "Contact Dermatitis Uncommon Despite Positive Allergy Tests - European Medical Journal",
-      "published": "2026-10-22T07:05:47+00:00",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlVsdElRWFFfUTVjSFJWS3U3bXYtT2Jub0VXdUFWSEJFX2FKY3FZV0dTUDVhWmQxcDlWQ3MzQ1E4VW8wcFNKQmVWQURSS0x1b1FtU3lVbGQydVNLT210RkpBanQxVWFRLXJmb1R6LUkyd0tmQzcxV0o5T2lhQlBUYjR4WkF1NHJnbTEzemI3eVBBdVRTY2lrcUlNa3dwYW53Yzd6RHB3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "contact dermatitis",
-          "keyword": "contact dermatitis",
-          "related_drugs": [
-            {
-              "slug": "ciclesonide",
-              "name": "Ciclesonide",
-              "url": "/drugs/ciclesonide/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dermatitis",
-          "keyword": "dermatitis",
-          "related_drugs": [
-            {
-              "slug": "d-glucose",
-              "name": "D-Glucose",
-              "url": "/drugs/d-glucose/"
-            },
-            {
-              "slug": "l-glutamine",
-              "name": "L-Glutamine",
-              "url": "/drugs/l-glutamine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1dbbbd46456c",
-      "title": "Can a photo predict if a cancer patient is nearing death? It's possible with AI, say researchers - The South First",
-      "published": "2026-10-22T01:32:10+00:00",
-      "sources": [
-        {
-          "name": "The South First",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORWNWVlpMbVBDS1NfSXlLV1ByOERNOTVWNzJsWUt0Z3ZURS1sN1FSczhrMmd0SEwwbzYtV2thMHRuWndpb25oRUhHQmxXdTFmNEVFMWV6cTYxYUEtaHdDTlpuMXFpTm13djcybUx5ay15aVJFaDRLSVVyQUlQVVVrQkg0aE1zbHBMSldTMllLc1NqNW5HQnBCMUgzajdzUUVUaUJhNWNlV09YSXNoMnNIaTVQWVhlRXZYQmVtNkl1aDBRdlFJa1E?oc=5"
+          "name": "Oncodaily",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5"
         }
       ],
       "keywords": [
@@ -5258,6 +4361,2631 @@
               "slug": "valsartan",
               "name": "Valsartan",
               "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "pancreatic cancer",
+          "keyword": "pancreatic cancer",
+          "related_drugs": [
+            {
+              "slug": "mitomycin",
+              "name": "Mitomycin",
+              "url": "/drugs/mitomycin/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "pancreas cancer",
+          "keyword": "pancreatic cancer",
+          "related_drugs": [
+            {
+              "slug": "mitomycin",
+              "name": "Mitomycin",
+              "url": "/drugs/mitomycin/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "RA",
+          "related_drugs": [
+            {
+              "slug": "abemaciclib",
+              "name": "Abemaciclib",
+              "url": "/drugs/abemaciclib/"
+            },
+            {
+              "slug": "abiraterone",
+              "name": "Abiraterone",
+              "url": "/drugs/abiraterone/"
+            },
+            {
+              "slug": "alpelisib",
+              "name": "Alpelisib",
+              "url": "/drugs/alpelisib/"
+            },
+            {
+              "slug": "amiodarone",
+              "name": "Amiodarone",
+              "url": "/drugs/amiodarone/"
+            },
+            {
+              "slug": "amodiaquine",
+              "name": "Amodiaquine",
+              "url": "/drugs/amodiaquine/"
+            },
+            {
+              "slug": "apremilast",
+              "name": "Apremilast",
+              "url": "/drugs/apremilast/"
+            },
+            {
+              "slug": "balsalazide",
+              "name": "Balsalazide",
+              "url": "/drugs/balsalazide/"
+            },
+            {
+              "slug": "bosentan",
+              "name": "Bosentan",
+              "url": "/drugs/bosentan/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "chlorzoxazone",
+              "name": "Chlorzoxazone",
+              "url": "/drugs/chlorzoxazone/"
+            },
+            {
+              "slug": "choline-salicylate",
+              "name": "Choline Salicylate",
+              "url": "/drugs/choline-salicylate/"
+            },
+            {
+              "slug": "chromium",
+              "name": "Chromium",
+              "url": "/drugs/chromium/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "levocetirizine",
+              "name": "Levocetirizine",
+              "url": "/drugs/levocetirizine/"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam",
+              "url": "/drugs/lornoxicam/"
+            },
+            {
+              "slug": "mefenamic-acid",
+              "name": "Mefenamic Acid",
+              "url": "/drugs/mefenamic-acid/"
+            },
+            {
+              "slug": "mesalazine",
+              "name": "Mesalazine",
+              "url": "/drugs/mesalazine/"
+            },
+            {
+              "slug": "metamizole",
+              "name": "Metamizole",
+              "url": "/drugs/metamizole/"
+            },
+            {
+              "slug": "nalidixic-acid",
+              "name": "Nalidixic Acid",
+              "url": "/drugs/nalidixic-acid/"
+            },
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin",
+              "url": "/drugs/nitrofurantoin/"
+            },
+            {
+              "slug": "valdecoxib",
+              "name": "Valdecoxib",
+              "url": "/drugs/valdecoxib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6df93065439d",
+      "title": "Total ultra-processed food intake not associated with colorectal cancer incidence in large US study - Oncology Central",
+      "published": "2026-10-22T15:18:42+00:00",
+      "sources": [
+        {
+          "name": "Oncology Central",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOME1KbkEtSGpza0k2SzBFTWVUNzJmdUpVZlhRbTRQQU96NEcxMXZlNmFJUzYweHpXeklBc1lSNkNPR0IwOW9rY1JZT3NSNGRISFI1SmJ5eUo3YnphMmVGejRSbndYbDFoMGRvRXBZRXI0blJ1STNnT0RRV1Y0YUJZMVg4d1llbDJQelNsb3pqdlRqZ2l4U3J1Ukw4ZndSbWhZZmdfNmRUbmRBRTNfdXJVY3cxeXFsQWtOaHlNV2w0MUFVb0F2a3I4eDA0U3drQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "ademetionine",
+              "name": "Ademetionine",
+              "url": "/drugs/ademetionine/"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "Aflibercept",
+              "url": "/drugs/aflibercept/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "aliskiren",
+              "name": "Aliskiren",
+              "url": "/drugs/aliskiren/"
+            },
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "amifostine",
+              "name": "Amifostine",
+              "url": "/drugs/amifostine/"
+            },
+            {
+              "slug": "amiloride",
+              "name": "Amiloride",
+              "url": "/drugs/amiloride/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "amylmetacresol",
+              "name": "Amylmetacresol",
+              "url": "/drugs/amylmetacresol/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "anidulafungin",
+              "name": "Anidulafungin",
+              "url": "/drugs/anidulafungin/"
+            },
+            {
+              "slug": "arsenic-trioxide",
+              "name": "Arsenic Trioxide",
+              "url": "/drugs/arsenic-trioxide/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "axitinib",
+              "name": "Axitinib",
+              "url": "/drugs/axitinib/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam",
+              "url": "/drugs/aztreonam/"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab",
+              "url": "/drugs/basiliximab/"
+            },
+            {
+              "slug": "becaplermin",
+              "name": "Becaplermin",
+              "url": "/drugs/becaplermin/"
+            },
+            {
+              "slug": "bempedoic-acid",
+              "name": "Bempedoic Acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "bendamustine",
+              "name": "Bendamustine",
+              "url": "/drugs/bendamustine/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "bleomycin",
+              "name": "Bleomycin",
+              "url": "/drugs/bleomycin/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "Cabozantinib",
+              "url": "/drugs/cabozantinib/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "Chlorthalidone",
+              "url": "/drugs/chlorthalidone/"
+            },
+            {
+              "slug": "choline-salicylate",
+              "name": "Choline Salicylate",
+              "url": "/drugs/choline-salicylate/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "dacarbazine",
+              "name": "Dacarbazine",
+              "url": "/drugs/dacarbazine/"
+            },
+            {
+              "slug": "dactinomycin",
+              "name": "Dactinomycin",
+              "url": "/drugs/dactinomycin/"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib",
+              "url": "/drugs/dasatinib/"
+            },
+            {
+              "slug": "daunorubicin",
+              "name": "Daunorubicin",
+              "url": "/drugs/daunorubicin/"
+            },
+            {
+              "slug": "cetuximab",
+              "name": "CETUXIMAB",
+              "url": "/drugs/cetuximab/"
+            },
+            {
+              "slug": "pegaspargase",
+              "name": "PEGASPARGASE",
+              "url": "/drugs/pegaspargase/"
+            },
+            {
+              "slug": "trastuzumab",
+              "name": "TRASTUZUMAB",
+              "url": "/drugs/trastuzumab/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "BEVACIZUMAB",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "CLADRIBINE",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "CABERGOLINE",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "bleomycin",
+              "name": "BLEOMYCIN",
+              "url": "/drugs/bleomycin/"
+            },
+            {
+              "slug": "chlorambucil",
+              "name": "CHLORAMBUCIL",
+              "url": "/drugs/chlorambucil/"
+            },
+            {
+              "slug": "mitomycin",
+              "name": "MITOMYCIN",
+              "url": "/drugs/mitomycin/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "GEFITINIB",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "VINORELBINE",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "progesterone",
+              "name": "PROGESTERONE",
+              "url": "/drugs/progesterone/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "SORAFENIB",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "GEMCITABINE",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "BETAMETHASONE",
+              "url": "/drugs/betamethasone/"
+            },
+            {
+              "slug": "epirubicin",
+              "name": "EPIRUBICIN",
+              "url": "/drugs/epirubicin/"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "LENALIDOMIDE",
+              "url": "/drugs/lenalidomide/"
+            },
+            {
+              "slug": "altretamine",
+              "name": "ALTRETAMINE",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "flutamide",
+              "name": "FLUTAMIDE",
+              "url": "/drugs/flutamide/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "OXALIPLATIN",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "cyclophosphamide",
+              "name": "CYCLOPHOSPHAMIDE",
+              "url": "/drugs/cyclophosphamide/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "CIPROFLOXACIN",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "vincristine",
+              "name": "VINCRISTINE",
+              "url": "/drugs/vincristine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "FLUOROURACIL",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "desoximetasone",
+              "name": "DESOXIMETASONE",
+              "url": "/drugs/desoximetasone/"
+            },
+            {
+              "slug": "methoxsalen",
+              "name": "METHOXSALEN",
+              "url": "/drugs/methoxsalen/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "METHOTREXATE",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "vinblastine",
+              "name": "VINBLASTINE",
+              "url": "/drugs/vinblastine/"
+            },
+            {
+              "slug": "propranolol",
+              "name": "PROPRANOLOL",
+              "url": "/drugs/propranolol/"
+            },
+            {
+              "slug": "fluocinolone-acetonide",
+              "name": "FLUOCINOLONE ACETONIDE",
+              "url": "/drugs/fluocinolone-acetonide/"
+            },
+            {
+              "slug": "medroxyprogesterone-acetate",
+              "name": "MEDROXYPROGESTERONE ACETATE",
+              "url": "/drugs/medroxyprogesterone-acetate/"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "TRIAMCINOLONE",
+              "url": "/drugs/triamcinolone/"
+            },
+            {
+              "slug": "clofarabine",
+              "name": "CLOFARABINE",
+              "url": "/drugs/clofarabine/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "PEMETREXED",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "tamoxifen",
+              "name": "TAMOXIFEN",
+              "url": "/drugs/tamoxifen/"
+            },
+            {
+              "slug": "daunorubicin",
+              "name": "DAUNORUBICIN",
+              "url": "/drugs/daunorubicin/"
+            },
+            {
+              "slug": "imiquimod",
+              "name": "IMIQUIMOD",
+              "url": "/drugs/imiquimod/"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "HYDROCORTISONE",
+              "url": "/drugs/hydrocortisone/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "MANNITOL",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "tretinoin",
+              "name": "TRETINOIN",
+              "url": "/drugs/tretinoin/"
+            },
+            {
+              "slug": "irinotecan",
+              "name": "IRINOTECAN",
+              "url": "/drugs/irinotecan/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "ETOPOSIDE",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "dacarbazine",
+              "name": "DACARBAZINE",
+              "url": "/drugs/dacarbazine/"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "PREDNISOLONE",
+              "url": "/drugs/prednisolone/"
+            },
+            {
+              "slug": "sirolimus",
+              "name": "SIROLIMUS",
+              "url": "/drugs/sirolimus/"
+            },
+            {
+              "slug": "phenoxybenzamine",
+              "name": "PHENOXYBENZAMINE",
+              "url": "/drugs/phenoxybenzamine/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "CARBOPLATIN",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "methylprednisolone",
+              "name": "METHYLPREDNISOLONE",
+              "url": "/drugs/methylprednisolone/"
+            },
+            {
+              "slug": "dactinomycin",
+              "name": "DACTINOMYCIN",
+              "url": "/drugs/dactinomycin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "CYTARABINE",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "DOXORUBICIN",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "HYDROXYUREA",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "topotecan",
+              "name": "TOPOTECAN",
+              "url": "/drugs/topotecan/"
+            },
+            {
+              "slug": "mercaptopurine",
+              "name": "MERCAPTOPURINE",
+              "url": "/drugs/mercaptopurine/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "MELPHALAN",
+              "url": "/drugs/melphalan/"
+            },
+            {
+              "slug": "norfloxacin",
+              "name": "NORFLOXACIN",
+              "url": "/drugs/norfloxacin/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "CAPECITABINE",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "diazoxide",
+              "name": "DIAZOXIDE",
+              "url": "/drugs/diazoxide/"
+            },
+            {
+              "slug": "ofloxacin",
+              "name": "OFLOXACIN",
+              "url": "/drugs/ofloxacin/"
+            },
+            {
+              "slug": "procarbazine",
+              "name": "PROCARBAZINE",
+              "url": "/drugs/procarbazine/"
+            },
+            {
+              "slug": "arsenic-trioxide",
+              "name": "ARSENIC TRIOXIDE",
+              "url": "/drugs/arsenic-trioxide/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "ESTRAMUSTINE",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "bromocriptine",
+              "name": "BROMOCRIPTINE",
+              "url": "/drugs/bromocriptine/"
+            },
+            {
+              "slug": "mitoxantrone",
+              "name": "MITOXANTRONE",
+              "url": "/drugs/mitoxantrone/"
+            },
+            {
+              "slug": "lomustine",
+              "name": "LOMUSTINE",
+              "url": "/drugs/lomustine/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "PACLITAXEL",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "DEXAMETHASONE",
+              "url": "/drugs/dexamethasone/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "DOCETAXEL",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "DASATINIB",
+              "url": "/drugs/dasatinib/"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "LAPATINIB",
+              "url": "/drugs/lapatinib/"
+            },
+            {
+              "slug": "desonide",
+              "name": "DESONIDE",
+              "url": "/drugs/desonide/"
+            },
+            {
+              "slug": "decitabine",
+              "name": "DECITABINE",
+              "url": "/drugs/decitabine/"
+            },
+            {
+              "slug": "sunitinib",
+              "name": "SUNITINIB",
+              "url": "/drugs/sunitinib/"
+            },
+            {
+              "slug": "panitumumab",
+              "name": "PANITUMUMAB",
+              "url": "/drugs/panitumumab/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "EVEROLIMUS",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "ixabepilone",
+              "name": "IXABEPILONE",
+              "url": "/drugs/ixabepilone/"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "NILOTINIB",
+              "url": "/drugs/nilotinib/"
+            },
+            {
+              "slug": "trabectedin",
+              "name": "TRABECTEDIN",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "vandetanib",
+              "name": "VANDETANIB",
+              "url": "/drugs/vandetanib/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "RAMUCIRUMAB",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "temsirolimus",
+              "name": "TEMSIROLIMUS",
+              "url": "/drugs/temsirolimus/"
+            },
+            {
+              "slug": "pertuzumab",
+              "name": "PERTUZUMAB",
+              "url": "/drugs/pertuzumab/"
+            },
+            {
+              "slug": "pazopanib",
+              "name": "PAZOPANIB",
+              "url": "/drugs/pazopanib/"
+            },
+            {
+              "slug": "axitinib",
+              "name": "AXITINIB",
+              "url": "/drugs/axitinib/"
+            },
+            {
+              "slug": "ofatumumab",
+              "name": "OFATUMUMAB",
+              "url": "/drugs/ofatumumab/"
+            },
+            {
+              "slug": "bendamustine",
+              "name": "BENDAMUSTINE",
+              "url": "/drugs/bendamustine/"
+            },
+            {
+              "slug": "plerixafor",
+              "name": "PLERIXAFOR",
+              "url": "/drugs/plerixafor/"
+            },
+            {
+              "slug": "crizotinib",
+              "name": "CRIZOTINIB",
+              "url": "/drugs/crizotinib/"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "CABOZANTINIB",
+              "url": "/drugs/cabozantinib/"
+            },
+            {
+              "slug": "ruxolitinib",
+              "name": "RUXOLITINIB",
+              "url": "/drugs/ruxolitinib/"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "AFLIBERCEPT",
+              "url": "/drugs/aflibercept/"
+            },
+            {
+              "slug": "carfilzomib",
+              "name": "CARFILZOMIB",
+              "url": "/drugs/carfilzomib/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "REGORAFENIB",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "ENZALUTAMIDE",
+              "url": "/drugs/enzalutamide/"
+            },
+            {
+              "slug": "trametinib",
+              "name": "TRAMETINIB",
+              "url": "/drugs/trametinib/"
+            },
+            {
+              "slug": "pembrolizumab",
+              "name": "PEMBROLIZUMAB",
+              "url": "/drugs/pembrolizumab/"
+            },
+            {
+              "slug": "ceritinib",
+              "name": "CERITINIB",
+              "url": "/drugs/ceritinib/"
+            },
+            {
+              "slug": "olaparib",
+              "name": "OLAPARIB",
+              "url": "/drugs/olaparib/"
+            },
+            {
+              "slug": "lenvatinib",
+              "name": "LENVATINIB",
+              "url": "/drugs/lenvatinib/"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "NINTEDANIB",
+              "url": "/drugs/nintedanib/"
+            },
+            {
+              "slug": "tegafur",
+              "name": "TEGAFUR",
+              "url": "/drugs/tegafur/"
+            },
+            {
+              "slug": "gimeracil",
+              "name": "GIMERACIL",
+              "url": "/drugs/gimeracil/"
+            },
+            {
+              "slug": "tipiracil",
+              "name": "TIPIRACIL",
+              "url": "/drugs/tipiracil/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "ATEZOLIZUMAB",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "DURVALUMAB",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "LORLATINIB",
+              "url": "/drugs/lorlatinib/"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "Deferasirox",
+              "url": "/drugs/deferasirox/"
+            },
+            {
+              "slug": "demeclocycline",
+              "name": "Demeclocycline",
+              "url": "/drugs/demeclocycline/"
+            },
+            {
+              "slug": "desoximetasone",
+              "name": "Desoximetasone",
+              "url": "/drugs/desoximetasone/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine",
+              "url": "/drugs/eflornithine/"
+            },
+            {
+              "slug": "efonidipine",
+              "name": "Efonidipine",
+              "url": "/drugs/efonidipine/"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "Enzalutamide",
+              "url": "/drugs/enzalutamide/"
+            },
+            {
+              "slug": "epirubicin",
+              "name": "Epirubicin",
+              "url": "/drugs/epirubicin/"
+            },
+            {
+              "slug": "eplerenone",
+              "name": "Eplerenone",
+              "url": "/drugs/eplerenone/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "eribulin",
+              "name": "Eribulin",
+              "url": "/drugs/eribulin/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "flutamide",
+              "name": "Flutamide",
+              "url": "/drugs/flutamide/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "ixabepilone",
+              "name": "Ixabepilone",
+              "url": "/drugs/ixabepilone/"
+            },
+            {
+              "slug": "labetalol",
+              "name": "Labetalol",
+              "url": "/drugs/labetalol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "Lapatinib",
+              "url": "/drugs/lapatinib/"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "Lenalidomide",
+              "url": "/drugs/lenalidomide/"
+            },
+            {
+              "slug": "lenvatinib",
+              "name": "Lenvatinib",
+              "url": "/drugs/lenvatinib/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "Levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin",
+              "url": "/drugs/levofloxacin/"
+            },
+            {
+              "slug": "lindane",
+              "name": "Lindane",
+              "url": "/drugs/lindane/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib",
+              "url": "/drugs/lorlatinib/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "maraviroc",
+              "name": "Maraviroc",
+              "url": "/drugs/maraviroc/"
+            },
+            {
+              "slug": "megestrol-acetate",
+              "name": "Megestrol Acetate",
+              "url": "/drugs/megestrol-acetate/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
+            },
+            {
+              "slug": "mephenesin",
+              "name": "Mephenesin",
+              "url": "/drugs/mephenesin/"
+            },
+            {
+              "slug": "mercaptopurine",
+              "name": "Mercaptopurine",
+              "url": "/drugs/mercaptopurine/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "methoxsalen",
+              "name": "Methoxsalen",
+              "url": "/drugs/methoxsalen/"
+            },
+            {
+              "slug": "metolazone",
+              "name": "Metolazone",
+              "url": "/drugs/metolazone/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "mitomycin",
+              "name": "Mitomycin",
+              "url": "/drugs/mitomycin/"
+            },
+            {
+              "slug": "mitoxantrone",
+              "name": "Mitoxantrone",
+              "url": "/drugs/mitoxantrone/"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone",
+              "url": "/drugs/mometasone/"
+            },
+            {
+              "slug": "monobenzone",
+              "name": "Monobenzone",
+              "url": "/drugs/monobenzone/"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "Moxifloxacin",
+              "url": "/drugs/moxifloxacin/"
+            },
+            {
+              "slug": "moxonidine",
+              "name": "Moxonidine",
+              "url": "/drugs/moxonidine/"
+            },
+            {
+              "slug": "natamycin",
+              "name": "Natamycin",
+              "url": "/drugs/natamycin/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "Nilotinib",
+              "url": "/drugs/nilotinib/"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "Nintedanib",
+              "url": "/drugs/nintedanib/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "primidone",
+              "name": "Primidone",
+              "url": "/drugs/primidone/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "topiramate",
+              "name": "Topiramate",
+              "url": "/drugs/topiramate/"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "Valproic Acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "colorectal cancer",
+          "related_drugs": [
+            {
+              "slug": "ademetionine",
+              "name": "Ademetionine",
+              "url": "/drugs/ademetionine/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "bowel cancer",
+          "keyword": "bowel cancer",
+          "related_drugs": [
+            {
+              "slug": "ademetionine",
+              "name": "Ademetionine",
+              "url": "/drugs/ademetionine/"
+            },
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "rectum mucinous adenocarcinoma",
+          "keyword": "rectal cancer",
+          "related_drugs": [
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8c003ec26828",
+      "title": "Evaluating Environmental Hazards of Aged Biodegradable Plastics in Aquatic Life",
+      "published": "2026-10-22T08:08:00+00:00",
+      "sources": [
+        {
+          "name": "AZoCleantech",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "keyword": "iron",
+          "name": "IRON",
+          "slug": "iron",
+          "url": "/drugs/iron/"
+        },
+        {
+          "type": "drug",
+          "keyword": "iron",
+          "name": "Iron",
+          "slug": "iron",
+          "url": "/drugs/iron/"
+        },
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "dama",
+          "related_drugs": [
+            {
+              "slug": "montelukast",
+              "name": "Montelukast",
+              "url": "/drugs/montelukast/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c874a6eae24b",
+      "title": "Contact Dermatitis Uncommon Despite Positive Allergy Tests - European Medical Journal",
+      "published": "2026-10-22T07:05:47+00:00",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlVsdElRWFFfUTVjSFJWS3U3bXYtT2Jub0VXdUFWSEJFX2FKY3FZV0dTUDVhWmQxcDlWQ3MzQ1E4VW8wcFNKQmVWQURSS0x1b1FtU3lVbGQydVNLT210RkpBanQxVWFRLXJmb1R6LUkyd0tmQzcxV0o5T2lhQlBUYjR4WkF1NHJnbTEzemI3eVBBdVRTY2lrcUlNa3dwYW53Yzd6RHB3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "contact dermatitis",
+          "keyword": "contact dermatitis",
+          "related_drugs": [
+            {
+              "slug": "ciclesonide",
+              "name": "Ciclesonide",
+              "url": "/drugs/ciclesonide/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dermatitis",
+          "keyword": "dermatitis",
+          "related_drugs": [
+            {
+              "slug": "d-glucose",
+              "name": "D-Glucose",
+              "url": "/drugs/d-glucose/"
+            },
+            {
+              "slug": "l-glutamine",
+              "name": "L-Glutamine",
+              "url": "/drugs/l-glutamine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e385a8b25ae3",
+      "title": "The good fat: How brown fat can help lower diabetes, heart disease, and boost mental health",
+      "published": "2026-10-22T06:37:02+00:00",
+      "sources": [
+        {
+          "name": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWdoQkJQckNNbzJmRDNIX2dKMnZlZXFQWThEaUhKMmo4X2xqbzM5MjRjdUtCTUhzeFV5UE1KcWdITlg5Sjc2NjFzTjlSMWhJUzlqZ0ZybVBYYjJxRTNrZFJDVU41THd5N1dWNHgzM1FrOGljOGcyNm9EelZWWEtPSEVEd0Fwd092d254RFR0UTVOdEZsOG9ZbzVwWTEtNXJhV2Zvc0FpYVFIS1JlQjNQY3hLcjA4RExXQzJ2R3dFU1kxUjY4SERLd2VDWUpJeEtk0gHWAUFVX3lxTE5YUjMzcXQ1ZjdBaDBsREcwSGV6QXMtUWVMamRPUExMTmIzanl2MW43M0RVRWdfcDhidlVrbUp5MjJyZVRzYnd4ZElRQ0xyQ28tS2Y5Q3NfWFR6Slc1QWo0b1Z0M1ozb3lCOW1VTG5SVFF6eGUwdEszdDAwWG9hdERfeXRxR0RPVWZWRDhhOHBaanR1UXhQMHd2cXdkWUs1Qk9EX2RpNlVJTmFxNFhCTFJRVmRqR1Yyc3NQT3RLREx0SlRMVGlzaGJtdGUtVGl1OXg1djVsclE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "heart disease",
+          "related_drugs": [
+            {
+              "slug": "alteplase",
+              "name": "Alteplase",
+              "url": "/drugs/alteplase/"
+            },
+            {
+              "slug": "atosiban",
+              "name": "Atosiban",
+              "url": "/drugs/atosiban/"
+            },
+            {
+              "slug": "cyclandelate",
+              "name": "Cyclandelate",
+              "url": "/drugs/cyclandelate/"
+            },
+            {
+              "slug": "cyproterone-acetate",
+              "name": "Cyproterone Acetate",
+              "url": "/drugs/cyproterone-acetate/"
+            },
+            {
+              "slug": "alteplase",
+              "name": "ALTEPLASE",
+              "url": "/drugs/alteplase/"
+            },
+            {
+              "slug": "reteplase",
+              "name": "RETEPLASE",
+              "url": "/drugs/reteplase/"
+            },
+            {
+              "slug": "tenecteplase",
+              "name": "TENECTEPLASE",
+              "url": "/drugs/tenecteplase/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "EPTIFIBATIDE",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "PRAVASTATIN",
+              "url": "/drugs/pravastatin/"
+            },
+            {
+              "slug": "lovastatin",
+              "name": "LOVASTATIN",
+              "url": "/drugs/lovastatin/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "ATENOLOL",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "SIMVASTATIN",
+              "url": "/drugs/simvastatin/"
+            },
+            {
+              "slug": "verapamil",
+              "name": "VERAPAMIL",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "LISINOPRIL",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "CLOPIDOGREL",
+              "url": "/drugs/clopidogrel/"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "ATORVASTATIN",
+              "url": "/drugs/atorvastatin/"
+            },
+            {
+              "slug": "fluvastatin",
+              "name": "FLUVASTATIN",
+              "url": "/drugs/fluvastatin/"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "ROSUVASTATIN",
+              "url": "/drugs/rosuvastatin/"
+            },
+            {
+              "slug": "papaverine",
+              "name": "PAPAVERINE",
+              "url": "/drugs/papaverine/"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "PRASUGREL",
+              "url": "/drugs/prasugrel/"
+            },
+            {
+              "slug": "ticagrelor",
+              "name": "TICAGRELOR",
+              "url": "/drugs/ticagrelor/"
+            },
+            {
+              "slug": "isoxsuprine",
+              "name": "ISOXSUPRINE",
+              "url": "/drugs/isoxsuprine/"
+            },
+            {
+              "slug": "doxapram",
+              "name": "Doxapram",
+              "url": "/drugs/doxapram/"
+            },
+            {
+              "slug": "ebastine",
+              "name": "Ebastine",
+              "url": "/drugs/ebastine/"
+            },
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide Dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "isoxsuprine",
+              "name": "Isoxsuprine",
+              "url": "/drugs/isoxsuprine/"
+            },
+            {
+              "slug": "lubiprostone",
+              "name": "Lubiprostone",
+              "url": "/drugs/lubiprostone/"
+            },
+            {
+              "slug": "propafenone",
+              "name": "Propafenone",
+              "url": "/drugs/propafenone/"
+            },
+            {
+              "slug": "streptokinase",
+              "name": "Streptokinase",
+              "url": "/drugs/streptokinase/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0227e7bad6d1",
+      "title": "Not every breast cancer begins with a lump: Check your skin, says doctor - The Times of India",
+      "published": "2026-10-22T01:30:00+00:00",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXNKZDdieEVWeTBuZF9oTUdtVk0zYXo5NnNFeGZZYVdyNlpDXzJHbnJLOVlta3ZWaU8tNUI5Xy10cV9vQVY2eWxhWGZGNDU2S19EZHZXSnlQNDI1QkRHa01OTnpQTnJoMW5OQ012QzNPa21YMlc4ZHdfV3Z5eGQyZXJpWGlXYzBlUWxDWlhyQVRUcWg2MWVkNU4ta1FoLXN6NnlZbkE2SjQ3cEt5VFJLY2pnV1FWa0RkaUYydUUwVzhoN2xrNnJSZkdfZFIyZ2Y5eWNia09n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "cancer",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "ademetionine",
+              "name": "Ademetionine",
+              "url": "/drugs/ademetionine/"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "Aflibercept",
+              "url": "/drugs/aflibercept/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "aliskiren",
+              "name": "Aliskiren",
+              "url": "/drugs/aliskiren/"
+            },
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "amifostine",
+              "name": "Amifostine",
+              "url": "/drugs/amifostine/"
+            },
+            {
+              "slug": "amiloride",
+              "name": "Amiloride",
+              "url": "/drugs/amiloride/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "Amlodipine",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "amylmetacresol",
+              "name": "Amylmetacresol",
+              "url": "/drugs/amylmetacresol/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "anidulafungin",
+              "name": "Anidulafungin",
+              "url": "/drugs/anidulafungin/"
+            },
+            {
+              "slug": "arsenic-trioxide",
+              "name": "Arsenic Trioxide",
+              "url": "/drugs/arsenic-trioxide/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "axitinib",
+              "name": "Axitinib",
+              "url": "/drugs/axitinib/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "aztreonam",
+              "name": "Aztreonam",
+              "url": "/drugs/aztreonam/"
+            },
+            {
+              "slug": "basiliximab",
+              "name": "Basiliximab",
+              "url": "/drugs/basiliximab/"
+            },
+            {
+              "slug": "becaplermin",
+              "name": "Becaplermin",
+              "url": "/drugs/becaplermin/"
+            },
+            {
+              "slug": "bempedoic-acid",
+              "name": "Bempedoic Acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "bendamustine",
+              "name": "Bendamustine",
+              "url": "/drugs/bendamustine/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "bleomycin",
+              "name": "Bleomycin",
+              "url": "/drugs/bleomycin/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "Cabozantinib",
+              "url": "/drugs/cabozantinib/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "chlorthalidone",
+              "name": "Chlorthalidone",
+              "url": "/drugs/chlorthalidone/"
+            },
+            {
+              "slug": "choline-salicylate",
+              "name": "Choline Salicylate",
+              "url": "/drugs/choline-salicylate/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "clonazepam",
+              "name": "Clonazepam",
+              "url": "/drugs/clonazepam/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "dacarbazine",
+              "name": "Dacarbazine",
+              "url": "/drugs/dacarbazine/"
+            },
+            {
+              "slug": "dactinomycin",
+              "name": "Dactinomycin",
+              "url": "/drugs/dactinomycin/"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "Dasatinib",
+              "url": "/drugs/dasatinib/"
+            },
+            {
+              "slug": "daunorubicin",
+              "name": "Daunorubicin",
+              "url": "/drugs/daunorubicin/"
+            },
+            {
+              "slug": "cetuximab",
+              "name": "CETUXIMAB",
+              "url": "/drugs/cetuximab/"
+            },
+            {
+              "slug": "pegaspargase",
+              "name": "PEGASPARGASE",
+              "url": "/drugs/pegaspargase/"
+            },
+            {
+              "slug": "trastuzumab",
+              "name": "TRASTUZUMAB",
+              "url": "/drugs/trastuzumab/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "BEVACIZUMAB",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "CLADRIBINE",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "CABERGOLINE",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "bleomycin",
+              "name": "BLEOMYCIN",
+              "url": "/drugs/bleomycin/"
+            },
+            {
+              "slug": "chlorambucil",
+              "name": "CHLORAMBUCIL",
+              "url": "/drugs/chlorambucil/"
+            },
+            {
+              "slug": "mitomycin",
+              "name": "MITOMYCIN",
+              "url": "/drugs/mitomycin/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "GEFITINIB",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "VINORELBINE",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "progesterone",
+              "name": "PROGESTERONE",
+              "url": "/drugs/progesterone/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "SORAFENIB",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "GEMCITABINE",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "BETAMETHASONE",
+              "url": "/drugs/betamethasone/"
+            },
+            {
+              "slug": "epirubicin",
+              "name": "EPIRUBICIN",
+              "url": "/drugs/epirubicin/"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "LENALIDOMIDE",
+              "url": "/drugs/lenalidomide/"
+            },
+            {
+              "slug": "altretamine",
+              "name": "ALTRETAMINE",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "flutamide",
+              "name": "FLUTAMIDE",
+              "url": "/drugs/flutamide/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "OXALIPLATIN",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "cyclophosphamide",
+              "name": "CYCLOPHOSPHAMIDE",
+              "url": "/drugs/cyclophosphamide/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "CIPROFLOXACIN",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "vincristine",
+              "name": "VINCRISTINE",
+              "url": "/drugs/vincristine/"
+            },
+            {
+              "slug": "fluorouracil",
+              "name": "FLUOROURACIL",
+              "url": "/drugs/fluorouracil/"
+            },
+            {
+              "slug": "desoximetasone",
+              "name": "DESOXIMETASONE",
+              "url": "/drugs/desoximetasone/"
+            },
+            {
+              "slug": "methoxsalen",
+              "name": "METHOXSALEN",
+              "url": "/drugs/methoxsalen/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "METHOTREXATE",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "vinblastine",
+              "name": "VINBLASTINE",
+              "url": "/drugs/vinblastine/"
+            },
+            {
+              "slug": "propranolol",
+              "name": "PROPRANOLOL",
+              "url": "/drugs/propranolol/"
+            },
+            {
+              "slug": "fluocinolone-acetonide",
+              "name": "FLUOCINOLONE ACETONIDE",
+              "url": "/drugs/fluocinolone-acetonide/"
+            },
+            {
+              "slug": "medroxyprogesterone-acetate",
+              "name": "MEDROXYPROGESTERONE ACETATE",
+              "url": "/drugs/medroxyprogesterone-acetate/"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "TRIAMCINOLONE",
+              "url": "/drugs/triamcinolone/"
+            },
+            {
+              "slug": "clofarabine",
+              "name": "CLOFARABINE",
+              "url": "/drugs/clofarabine/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "PEMETREXED",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "tamoxifen",
+              "name": "TAMOXIFEN",
+              "url": "/drugs/tamoxifen/"
+            },
+            {
+              "slug": "daunorubicin",
+              "name": "DAUNORUBICIN",
+              "url": "/drugs/daunorubicin/"
+            },
+            {
+              "slug": "imiquimod",
+              "name": "IMIQUIMOD",
+              "url": "/drugs/imiquimod/"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "HYDROCORTISONE",
+              "url": "/drugs/hydrocortisone/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "MANNITOL",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "tretinoin",
+              "name": "TRETINOIN",
+              "url": "/drugs/tretinoin/"
+            },
+            {
+              "slug": "irinotecan",
+              "name": "IRINOTECAN",
+              "url": "/drugs/irinotecan/"
+            },
+            {
+              "slug": "etoposide",
+              "name": "ETOPOSIDE",
+              "url": "/drugs/etoposide/"
+            },
+            {
+              "slug": "dacarbazine",
+              "name": "DACARBAZINE",
+              "url": "/drugs/dacarbazine/"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "PREDNISOLONE",
+              "url": "/drugs/prednisolone/"
+            },
+            {
+              "slug": "sirolimus",
+              "name": "SIROLIMUS",
+              "url": "/drugs/sirolimus/"
+            },
+            {
+              "slug": "phenoxybenzamine",
+              "name": "PHENOXYBENZAMINE",
+              "url": "/drugs/phenoxybenzamine/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "CARBOPLATIN",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "methylprednisolone",
+              "name": "METHYLPREDNISOLONE",
+              "url": "/drugs/methylprednisolone/"
+            },
+            {
+              "slug": "dactinomycin",
+              "name": "DACTINOMYCIN",
+              "url": "/drugs/dactinomycin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "CYTARABINE",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "DOXORUBICIN",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "HYDROXYUREA",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "topotecan",
+              "name": "TOPOTECAN",
+              "url": "/drugs/topotecan/"
+            },
+            {
+              "slug": "mercaptopurine",
+              "name": "MERCAPTOPURINE",
+              "url": "/drugs/mercaptopurine/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "MELPHALAN",
+              "url": "/drugs/melphalan/"
+            },
+            {
+              "slug": "norfloxacin",
+              "name": "NORFLOXACIN",
+              "url": "/drugs/norfloxacin/"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "CAPECITABINE",
+              "url": "/drugs/capecitabine/"
+            },
+            {
+              "slug": "diazoxide",
+              "name": "DIAZOXIDE",
+              "url": "/drugs/diazoxide/"
+            },
+            {
+              "slug": "ofloxacin",
+              "name": "OFLOXACIN",
+              "url": "/drugs/ofloxacin/"
+            },
+            {
+              "slug": "procarbazine",
+              "name": "PROCARBAZINE",
+              "url": "/drugs/procarbazine/"
+            },
+            {
+              "slug": "arsenic-trioxide",
+              "name": "ARSENIC TRIOXIDE",
+              "url": "/drugs/arsenic-trioxide/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "ESTRAMUSTINE",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "bromocriptine",
+              "name": "BROMOCRIPTINE",
+              "url": "/drugs/bromocriptine/"
+            },
+            {
+              "slug": "mitoxantrone",
+              "name": "MITOXANTRONE",
+              "url": "/drugs/mitoxantrone/"
+            },
+            {
+              "slug": "lomustine",
+              "name": "LOMUSTINE",
+              "url": "/drugs/lomustine/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "PACLITAXEL",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "DEXAMETHASONE",
+              "url": "/drugs/dexamethasone/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "DOCETAXEL",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "dasatinib",
+              "name": "DASATINIB",
+              "url": "/drugs/dasatinib/"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "LAPATINIB",
+              "url": "/drugs/lapatinib/"
+            },
+            {
+              "slug": "desonide",
+              "name": "DESONIDE",
+              "url": "/drugs/desonide/"
+            },
+            {
+              "slug": "decitabine",
+              "name": "DECITABINE",
+              "url": "/drugs/decitabine/"
+            },
+            {
+              "slug": "sunitinib",
+              "name": "SUNITINIB",
+              "url": "/drugs/sunitinib/"
+            },
+            {
+              "slug": "panitumumab",
+              "name": "PANITUMUMAB",
+              "url": "/drugs/panitumumab/"
+            },
+            {
+              "slug": "everolimus",
+              "name": "EVEROLIMUS",
+              "url": "/drugs/everolimus/"
+            },
+            {
+              "slug": "ixabepilone",
+              "name": "IXABEPILONE",
+              "url": "/drugs/ixabepilone/"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "NILOTINIB",
+              "url": "/drugs/nilotinib/"
+            },
+            {
+              "slug": "trabectedin",
+              "name": "TRABECTEDIN",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "vandetanib",
+              "name": "VANDETANIB",
+              "url": "/drugs/vandetanib/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "RAMUCIRUMAB",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "temsirolimus",
+              "name": "TEMSIROLIMUS",
+              "url": "/drugs/temsirolimus/"
+            },
+            {
+              "slug": "pertuzumab",
+              "name": "PERTUZUMAB",
+              "url": "/drugs/pertuzumab/"
+            },
+            {
+              "slug": "pazopanib",
+              "name": "PAZOPANIB",
+              "url": "/drugs/pazopanib/"
+            },
+            {
+              "slug": "axitinib",
+              "name": "AXITINIB",
+              "url": "/drugs/axitinib/"
+            },
+            {
+              "slug": "ofatumumab",
+              "name": "OFATUMUMAB",
+              "url": "/drugs/ofatumumab/"
+            },
+            {
+              "slug": "bendamustine",
+              "name": "BENDAMUSTINE",
+              "url": "/drugs/bendamustine/"
+            },
+            {
+              "slug": "plerixafor",
+              "name": "PLERIXAFOR",
+              "url": "/drugs/plerixafor/"
+            },
+            {
+              "slug": "crizotinib",
+              "name": "CRIZOTINIB",
+              "url": "/drugs/crizotinib/"
+            },
+            {
+              "slug": "cabozantinib",
+              "name": "CABOZANTINIB",
+              "url": "/drugs/cabozantinib/"
+            },
+            {
+              "slug": "ruxolitinib",
+              "name": "RUXOLITINIB",
+              "url": "/drugs/ruxolitinib/"
+            },
+            {
+              "slug": "aflibercept",
+              "name": "AFLIBERCEPT",
+              "url": "/drugs/aflibercept/"
+            },
+            {
+              "slug": "carfilzomib",
+              "name": "CARFILZOMIB",
+              "url": "/drugs/carfilzomib/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "REGORAFENIB",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "ENZALUTAMIDE",
+              "url": "/drugs/enzalutamide/"
+            },
+            {
+              "slug": "trametinib",
+              "name": "TRAMETINIB",
+              "url": "/drugs/trametinib/"
+            },
+            {
+              "slug": "pembrolizumab",
+              "name": "PEMBROLIZUMAB",
+              "url": "/drugs/pembrolizumab/"
+            },
+            {
+              "slug": "ceritinib",
+              "name": "CERITINIB",
+              "url": "/drugs/ceritinib/"
+            },
+            {
+              "slug": "olaparib",
+              "name": "OLAPARIB",
+              "url": "/drugs/olaparib/"
+            },
+            {
+              "slug": "lenvatinib",
+              "name": "LENVATINIB",
+              "url": "/drugs/lenvatinib/"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "NINTEDANIB",
+              "url": "/drugs/nintedanib/"
+            },
+            {
+              "slug": "tegafur",
+              "name": "TEGAFUR",
+              "url": "/drugs/tegafur/"
+            },
+            {
+              "slug": "gimeracil",
+              "name": "GIMERACIL",
+              "url": "/drugs/gimeracil/"
+            },
+            {
+              "slug": "tipiracil",
+              "name": "TIPIRACIL",
+              "url": "/drugs/tipiracil/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "ATEZOLIZUMAB",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "DURVALUMAB",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "LORLATINIB",
+              "url": "/drugs/lorlatinib/"
+            },
+            {
+              "slug": "deferasirox",
+              "name": "Deferasirox",
+              "url": "/drugs/deferasirox/"
+            },
+            {
+              "slug": "demeclocycline",
+              "name": "Demeclocycline",
+              "url": "/drugs/demeclocycline/"
+            },
+            {
+              "slug": "desoximetasone",
+              "name": "Desoximetasone",
+              "url": "/drugs/desoximetasone/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "doxorubicin",
+              "name": "Doxorubicin",
+              "url": "/drugs/doxorubicin/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "eflornithine",
+              "name": "Eflornithine",
+              "url": "/drugs/eflornithine/"
+            },
+            {
+              "slug": "efonidipine",
+              "name": "Efonidipine",
+              "url": "/drugs/efonidipine/"
+            },
+            {
+              "slug": "enzalutamide",
+              "name": "Enzalutamide",
+              "url": "/drugs/enzalutamide/"
+            },
+            {
+              "slug": "epirubicin",
+              "name": "Epirubicin",
+              "url": "/drugs/epirubicin/"
+            },
+            {
+              "slug": "eplerenone",
+              "name": "Eplerenone",
+              "url": "/drugs/eplerenone/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "eribulin",
+              "name": "Eribulin",
+              "url": "/drugs/eribulin/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "flutamide",
+              "name": "Flutamide",
+              "url": "/drugs/flutamide/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "ixabepilone",
+              "name": "Ixabepilone",
+              "url": "/drugs/ixabepilone/"
+            },
+            {
+              "slug": "labetalol",
+              "name": "Labetalol",
+              "url": "/drugs/labetalol/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "Lamotrigine",
+              "url": "/drugs/lamotrigine/"
+            },
+            {
+              "slug": "lapatinib",
+              "name": "Lapatinib",
+              "url": "/drugs/lapatinib/"
+            },
+            {
+              "slug": "lenalidomide",
+              "name": "Lenalidomide",
+              "url": "/drugs/lenalidomide/"
+            },
+            {
+              "slug": "lenvatinib",
+              "name": "Lenvatinib",
+              "url": "/drugs/lenvatinib/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "Levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "Levofloxacin",
+              "url": "/drugs/levofloxacin/"
+            },
+            {
+              "slug": "lindane",
+              "name": "Lindane",
+              "url": "/drugs/lindane/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "lorlatinib",
+              "name": "Lorlatinib",
+              "url": "/drugs/lorlatinib/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "maraviroc",
+              "name": "Maraviroc",
+              "url": "/drugs/maraviroc/"
+            },
+            {
+              "slug": "megestrol-acetate",
+              "name": "Megestrol Acetate",
+              "url": "/drugs/megestrol-acetate/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
+            },
+            {
+              "slug": "mephenesin",
+              "name": "Mephenesin",
+              "url": "/drugs/mephenesin/"
+            },
+            {
+              "slug": "mercaptopurine",
+              "name": "Mercaptopurine",
+              "url": "/drugs/mercaptopurine/"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "Methotrexate",
+              "url": "/drugs/methotrexate/"
+            },
+            {
+              "slug": "methoxsalen",
+              "name": "Methoxsalen",
+              "url": "/drugs/methoxsalen/"
+            },
+            {
+              "slug": "metolazone",
+              "name": "Metolazone",
+              "url": "/drugs/metolazone/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "mitomycin",
+              "name": "Mitomycin",
+              "url": "/drugs/mitomycin/"
+            },
+            {
+              "slug": "mitoxantrone",
+              "name": "Mitoxantrone",
+              "url": "/drugs/mitoxantrone/"
+            },
+            {
+              "slug": "mometasone",
+              "name": "Mometasone",
+              "url": "/drugs/mometasone/"
+            },
+            {
+              "slug": "monobenzone",
+              "name": "Monobenzone",
+              "url": "/drugs/monobenzone/"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "Moxifloxacin",
+              "url": "/drugs/moxifloxacin/"
+            },
+            {
+              "slug": "moxonidine",
+              "name": "Moxonidine",
+              "url": "/drugs/moxonidine/"
+            },
+            {
+              "slug": "natamycin",
+              "name": "Natamycin",
+              "url": "/drugs/natamycin/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "nilotinib",
+              "name": "Nilotinib",
+              "url": "/drugs/nilotinib/"
+            },
+            {
+              "slug": "nintedanib",
+              "name": "Nintedanib",
+              "url": "/drugs/nintedanib/"
+            },
+            {
+              "slug": "oxaliplatin",
+              "name": "Oxaliplatin",
+              "url": "/drugs/oxaliplatin/"
+            },
+            {
+              "slug": "primidone",
+              "name": "Primidone",
+              "url": "/drugs/primidone/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
+            },
+            {
+              "slug": "sorafenib",
+              "name": "Sorafenib",
+              "url": "/drugs/sorafenib/"
+            },
+            {
+              "slug": "topiramate",
+              "name": "Topiramate",
+              "url": "/drugs/topiramate/"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "Valproic Acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "Valsartan",
+              "url": "/drugs/valsartan/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "breast cancer",
+          "related_drugs": [
+            {
+              "slug": "altretamine",
+              "name": "Altretamine",
+              "url": "/drugs/altretamine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "bicalutamide",
+              "name": "Bicalutamide",
+              "url": "/drugs/bicalutamide/"
+            },
+            {
+              "slug": "cabazitaxel",
+              "name": "Cabazitaxel",
+              "url": "/drugs/cabazitaxel/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "eptifibatide",
+              "name": "Eptifibatide",
+              "url": "/drugs/eptifibatide/"
+            },
+            {
+              "slug": "estramustine",
+              "name": "Estramustine",
+              "url": "/drugs/estramustine/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "melphalan",
+              "name": "Melphalan",
+              "url": "/drugs/melphalan/"
             }
           ]
         }
@@ -6351,201 +8079,259 @@
       ]
     },
     {
-      "id": "5ddf0f233344",
-      "title": "Overweight People with Alzheimer’s Disease May Live Longer - Fisher Center for Alzheimer's Research Foundation",
-      "published": "2026-10-21T12:34:39+00:00",
+      "id": "1d9c4cf2b969",
+      "title": "Survey: 7 in 10 women didn’t know their symptoms were perimenopause - Griffin Daily News",
+      "published": "2026-10-21T19:30:08+00:00",
       "sources": [
         {
-          "name": "Fisher Center for Alzheimer's Research Foundation",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUtWaVhhbjM2bmRCVzJzZDJkU3U2YVFIcjZ1aVcyaXlPOWUtVndoNi03ZHd5Z1dnTjVkU2U4aUgxdlFic29pTjNheVVmMFRrX01OT2JBRExwbEtXQ2dxMmk2by12WkpRbnlnczQ1WXhiaDN2bWc1SFhIb3hObUVYM2g5ZEFWZWVfOHdNczI0aTFBazlvT1NuQUFDVXduYkhISTNmbQ?oc=5"
+          "name": "Griffin Daily News",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTFA0X0R5dzdsM0FETWg2TDVRY1pJTFRkTExHQkJjUl9od0wwWE81aURUQUwxbE5oMGRUZVpUX2pObUpoYWE0WDNvUV9Pdjd3bUtjaktMdkpyaHJDdk5vT3BDTVJGekMtVVpxSVdjeUZSck9xUHo5d2paSC1LQjJPUTVhdU9vZlcwd0dXRlZGMFRCQjdHak1jdllNTnFBUG1nS2pEZWZ5TG1JdlpYWmNjc1Y1c3UwY194Ui1iNVdnSHpiM25GaDhoemN1MDlRSkZyekx5b2ZsdFE5ZVk5LWFZLW9XWHFXWnFoY1VJZGxLZ3lLanI0eWo5dHRrOA?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "dementia",
+          "name": "menopause",
+          "keyword": "menopause",
           "related_drugs": [
             {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
             },
             {
-              "slug": "dasatinib",
-              "name": "Dasatinib",
-              "url": "/drugs/dasatinib/"
+              "slug": "levonorgestrel",
+              "name": "LEVONORGESTREL",
+              "url": "/drugs/levonorgestrel/"
             },
             {
-              "slug": "galantamine",
-              "name": "GALANTAMINE",
-              "url": "/drugs/galantamine/"
+              "slug": "progesterone",
+              "name": "PROGESTERONE",
+              "url": "/drugs/progesterone/"
             },
             {
-              "slug": "donepezil",
-              "name": "DONEPEZIL",
-              "url": "/drugs/donepezil/"
+              "slug": "raloxifene",
+              "name": "RALOXIFENE",
+              "url": "/drugs/raloxifene/"
             },
             {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE",
-              "url": "/drugs/rivastigmine/"
+              "slug": "medroxyprogesterone-acetate",
+              "name": "MEDROXYPROGESTERONE ACETATE",
+              "url": "/drugs/medroxyprogesterone-acetate/"
             },
             {
-              "slug": "vinpocetine",
-              "name": "VINPOCETINE",
-              "url": "/drugs/vinpocetine/"
+              "slug": "norethisterone",
+              "name": "NORETHISTERONE",
+              "url": "/drugs/norethisterone/"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
+              "slug": "teriparatide",
+              "name": "TERIPARATIDE",
+              "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib",
-              "url": "/drugs/lorlatinib/"
+              "slug": "minodronic-acid",
+              "name": "MINODRONIC ACID",
+              "url": "/drugs/minodronic-acid/"
+            },
+            {
+              "slug": "denosumab",
+              "name": "DENOSUMAB",
+              "url": "/drugs/denosumab/"
+            },
+            {
+              "slug": "magnesium-citrate",
+              "name": "MAGNESIUM CITRATE",
+              "url": "/drugs/magnesium-citrate/"
+            },
+            {
+              "slug": "ivermectin",
+              "name": "Ivermectin",
+              "url": "/drugs/ivermectin/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "Metronidazole",
+              "url": "/drugs/metronidazole/"
+            },
+            {
+              "slug": "natamycin",
+              "name": "Natamycin",
+              "url": "/drugs/natamycin/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "memory loss",
-          "keyword": "dementia",
+          "name": "menopause symptoms",
+          "keyword": "menopause",
           "related_drugs": [
             {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
             },
             {
-              "slug": "dasatinib",
-              "name": "Dasatinib",
-              "url": "/drugs/dasatinib/"
+              "slug": "levonorgestrel",
+              "name": "LEVONORGESTREL",
+              "url": "/drugs/levonorgestrel/"
             },
             {
-              "slug": "galantamine",
-              "name": "GALANTAMINE",
-              "url": "/drugs/galantamine/"
+              "slug": "progesterone",
+              "name": "PROGESTERONE",
+              "url": "/drugs/progesterone/"
             },
             {
-              "slug": "donepezil",
-              "name": "DONEPEZIL",
-              "url": "/drugs/donepezil/"
+              "slug": "raloxifene",
+              "name": "RALOXIFENE",
+              "url": "/drugs/raloxifene/"
             },
             {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE",
-              "url": "/drugs/rivastigmine/"
+              "slug": "medroxyprogesterone-acetate",
+              "name": "MEDROXYPROGESTERONE ACETATE",
+              "url": "/drugs/medroxyprogesterone-acetate/"
             },
             {
-              "slug": "vinpocetine",
-              "name": "VINPOCETINE",
-              "url": "/drugs/vinpocetine/"
+              "slug": "norethisterone",
+              "name": "NORETHISTERONE",
+              "url": "/drugs/norethisterone/"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
+              "slug": "teriparatide",
+              "name": "TERIPARATIDE",
+              "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib",
-              "url": "/drugs/lorlatinib/"
+              "slug": "minodronic-acid",
+              "name": "MINODRONIC ACID",
+              "url": "/drugs/minodronic-acid/"
+            },
+            {
+              "slug": "denosumab",
+              "name": "DENOSUMAB",
+              "url": "/drugs/denosumab/"
+            },
+            {
+              "slug": "magnesium-citrate",
+              "name": "MAGNESIUM CITRATE",
+              "url": "/drugs/magnesium-citrate/"
+            },
+            {
+              "slug": "ivermectin",
+              "name": "Ivermectin",
+              "url": "/drugs/ivermectin/"
+            },
+            {
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "Metronidazole",
+              "url": "/drugs/metronidazole/"
+            },
+            {
+              "slug": "natamycin",
+              "name": "Natamycin",
+              "url": "/drugs/natamycin/"
+            },
+            {
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "bhoolne ki bimari",
-          "keyword": "dementia",
+          "name": "masik dharm band",
+          "keyword": "menopause",
           "related_drugs": [
             {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
             },
             {
-              "slug": "dasatinib",
-              "name": "Dasatinib",
-              "url": "/drugs/dasatinib/"
+              "slug": "levonorgestrel",
+              "name": "LEVONORGESTREL",
+              "url": "/drugs/levonorgestrel/"
             },
             {
-              "slug": "galantamine",
-              "name": "GALANTAMINE",
-              "url": "/drugs/galantamine/"
+              "slug": "progesterone",
+              "name": "PROGESTERONE",
+              "url": "/drugs/progesterone/"
             },
             {
-              "slug": "donepezil",
-              "name": "DONEPEZIL",
-              "url": "/drugs/donepezil/"
+              "slug": "raloxifene",
+              "name": "RALOXIFENE",
+              "url": "/drugs/raloxifene/"
             },
             {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE",
-              "url": "/drugs/rivastigmine/"
+              "slug": "medroxyprogesterone-acetate",
+              "name": "MEDROXYPROGESTERONE ACETATE",
+              "url": "/drugs/medroxyprogesterone-acetate/"
             },
             {
-              "slug": "vinpocetine",
-              "name": "VINPOCETINE",
-              "url": "/drugs/vinpocetine/"
+              "slug": "norethisterone",
+              "name": "NORETHISTERONE",
+              "url": "/drugs/norethisterone/"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
+              "slug": "teriparatide",
+              "name": "TERIPARATIDE",
+              "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib",
-              "url": "/drugs/lorlatinib/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "alzheimer",
-          "keyword": "dementia",
-          "related_drugs": [
-            {
-              "slug": "albendazole",
-              "name": "Albendazole",
-              "url": "/drugs/albendazole/"
+              "slug": "minodronic-acid",
+              "name": "MINODRONIC ACID",
+              "url": "/drugs/minodronic-acid/"
             },
             {
-              "slug": "dasatinib",
-              "name": "Dasatinib",
-              "url": "/drugs/dasatinib/"
+              "slug": "denosumab",
+              "name": "DENOSUMAB",
+              "url": "/drugs/denosumab/"
             },
             {
-              "slug": "galantamine",
-              "name": "GALANTAMINE",
-              "url": "/drugs/galantamine/"
+              "slug": "magnesium-citrate",
+              "name": "MAGNESIUM CITRATE",
+              "url": "/drugs/magnesium-citrate/"
             },
             {
-              "slug": "donepezil",
-              "name": "DONEPEZIL",
-              "url": "/drugs/donepezil/"
+              "slug": "ivermectin",
+              "name": "Ivermectin",
+              "url": "/drugs/ivermectin/"
             },
             {
-              "slug": "rivastigmine",
-              "name": "RIVASTIGMINE",
-              "url": "/drugs/rivastigmine/"
+              "slug": "letrozole",
+              "name": "Letrozole",
+              "url": "/drugs/letrozole/"
             },
             {
-              "slug": "vinpocetine",
-              "name": "VINPOCETINE",
-              "url": "/drugs/vinpocetine/"
+              "slug": "metronidazole",
+              "name": "Metronidazole",
+              "url": "/drugs/metronidazole/"
             },
             {
-              "slug": "entacapone",
-              "name": "Entacapone",
-              "url": "/drugs/entacapone/"
+              "slug": "natamycin",
+              "name": "Natamycin",
+              "url": "/drugs/natamycin/"
             },
             {
-              "slug": "lorlatinib",
-              "name": "Lorlatinib",
-              "url": "/drugs/lorlatinib/"
+              "slug": "secnidazole",
+              "name": "Secnidazole",
+              "url": "/drugs/secnidazole/"
             }
           ]
         }
@@ -8919,13 +10705,13 @@
       ]
     },
     {
-      "id": "298177e579f8",
-      "title": "Top US Expert Explains How Obesity Can Raise Breast Cancer Risk - Times Now",
-      "published": "2026-10-21T01:30:00+00:00",
+      "id": "7fe4fde377e5",
+      "title": "Breast Cancer Awareness Month: Does Being Physically Active Reduce Breast Cancer Risk?",
+      "published": "2026-10-21T06:09:18+00:00",
       "sources": [
         {
-          "name": "Times Now",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUi1jdVlnbVFYSnd0TlhYdjZOdUhyZ1pST0swZUt1QkNfSHJSM2Fjb0xrV2lQNWhMS1BnbWpUTE94MjdZQUtRd0Y4YU5QUFJ1NmZwMEs5Um5GTGFITFRNYlMtNGxXZU9sY2FvSVgwb3c0VnJqT18tdnZVdUZwd3lxVHNGWGpyOVpkaDNMQ3lvbXc5STFhbmdST0tFV0wwSm1yQTNGcFdIQlI3WGtDM2JHSy0xcndZaHZ00gG-AUFVX3lxTE5mS2RubEhDVElSajBfU3ZETzlXMG9NVVcza2VRTGJVYWtiMk5uSXBtaFJzSzhJSWM3Vkl2U3NHZ2R0c0l0Y0QwV1c3ZlUwdEwxUkkySEViaEtVQU9ZcnFOUjdXaFZIOFpDWFBfTDVFY3NoQ2dqbzRKall4LVhDT2pMYVgxeDJMdTJ0S1FaUVdkYUlhS1NDZ1pVQ3NTd3dTcTh1X1o1TU5fZWlkYXBZY1h3Q1o4clJnUndXeFRGanc?oc=5"
+          "name": "Onlymyhealth",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORWoxampmX01tbnZIeVpSNVVOT2dwNEtQU3pEWEg2UUpjbUptM0ZhX0w1a29VSFlzQnJ3MGM1aGJGUlB4aFVHbHBWRFMyeXNHUEtVSnhZbUJzRWpuWlQ4RndiRlVRM0hwM1lBTW1ybzFNNkFkSVFqVGhmMjdsOG5ubnFDMk5HamphaGI0MDJWQnZhLVZfdUdQOVhjdw?oc=5"
         }
       ],
       "keywords": [
@@ -10041,324 +11827,13 @@
       ]
     },
     {
-      "id": "01e3fd61e40b",
-      "title": "The midlife blind spot - The News Pakistan",
-      "published": "2026-10-20T19:00:00+00:00",
+      "id": "42abf37f828b",
+      "title": "Young Women and Breast Cancer: A Growing Concern - India News Network",
+      "published": "2026-10-21T04:22:30+00:00",
       "sources": [
         {
-          "name": "The News Pakistan",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mcEZnblUybUl1a2Z5LWdwYjZXODAyM05rN1IyeDdlcHBqaGMwbjVNajY0aGJzREZaYVNNYVhZdnJMQVJBOEdTY2I1bU1YbWNwMW5CNGxRQjFMd01ycG5CNmZ2a1lxckJQQm5B?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "levonorgestrel",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "progesterone",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "medroxyprogesterone-acetate",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "norethisterone",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "minodronic-acid",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "denosumab",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "magnesium-citrate",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause symptoms",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "levonorgestrel",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "progesterone",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "medroxyprogesterone-acetate",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "norethisterone",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "minodronic-acid",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "denosumab",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "magnesium-citrate",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "masik dharm band",
-          "keyword": "menopause",
-          "related_drugs": [
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol",
-              "url": "/drugs/calcipotriol/"
-            },
-            {
-              "slug": "levonorgestrel",
-              "name": "LEVONORGESTREL",
-              "url": "/drugs/levonorgestrel/"
-            },
-            {
-              "slug": "progesterone",
-              "name": "PROGESTERONE",
-              "url": "/drugs/progesterone/"
-            },
-            {
-              "slug": "raloxifene",
-              "name": "RALOXIFENE",
-              "url": "/drugs/raloxifene/"
-            },
-            {
-              "slug": "medroxyprogesterone-acetate",
-              "name": "MEDROXYPROGESTERONE ACETATE",
-              "url": "/drugs/medroxyprogesterone-acetate/"
-            },
-            {
-              "slug": "norethisterone",
-              "name": "NORETHISTERONE",
-              "url": "/drugs/norethisterone/"
-            },
-            {
-              "slug": "teriparatide",
-              "name": "TERIPARATIDE",
-              "url": "/drugs/teriparatide/"
-            },
-            {
-              "slug": "minodronic-acid",
-              "name": "MINODRONIC ACID",
-              "url": "/drugs/minodronic-acid/"
-            },
-            {
-              "slug": "denosumab",
-              "name": "DENOSUMAB",
-              "url": "/drugs/denosumab/"
-            },
-            {
-              "slug": "magnesium-citrate",
-              "name": "MAGNESIUM CITRATE",
-              "url": "/drugs/magnesium-citrate/"
-            },
-            {
-              "slug": "ivermectin",
-              "name": "Ivermectin",
-              "url": "/drugs/ivermectin/"
-            },
-            {
-              "slug": "letrozole",
-              "name": "Letrozole",
-              "url": "/drugs/letrozole/"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "Metronidazole",
-              "url": "/drugs/metronidazole/"
-            },
-            {
-              "slug": "natamycin",
-              "name": "Natamycin",
-              "url": "/drugs/natamycin/"
-            },
-            {
-              "slug": "secnidazole",
-              "name": "Secnidazole",
-              "url": "/drugs/secnidazole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "256c7aef412c",
-      "title": "Kidney Transplant Outcomes Worsen with High Tacrolimus Variability",
-      "published": "2026-10-20T14:01:37+00:00",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUDRFdTIzSUVELTFaNk0tb2pYVW9VR0RCdXg0MkNnTFlBREdHQmk2ZHdNZTVWUFhwd3c2MlJONWw1ck94YlJxSVJHMU1oTGE1STJ5VUFxLV84ZXdzY1lHei0yZmVacG9kcDBLR3pjcXNWMVlZQ0VOMzd6UlZJZDVYZndmb0tZMjVEc0VKQzc1MGE0TDhiVVZXc0ZqNjUyX0Zmc2NHXzB3SWNpUmhrQ1RR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "drug",
-          "keyword": "tacrolimus",
-          "name": "TACROLIMUS",
-          "slug": "tacrolimus",
-          "url": "/drugs/tacrolimus/"
-        },
-        {
-          "type": "drug",
-          "keyword": "tacrolimus",
-          "name": "Tacrolimus",
-          "slug": "tacrolimus",
-          "url": "/drugs/tacrolimus/"
-        }
-      ]
-    },
-    {
-      "id": "154fc850a31f",
-      "title": "We might have a way to predict inflammatory bowel disease",
-      "published": "2026-10-19T11:34:33+00:00",
-      "sources": [
-        {
-          "name": "NewsBytes",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTFCZGNmRVVEUm1CQXNRY0VmajdjMjh0NmhISHhsVGpPVkVwVFB0VDBqZlVtYWpoRDNYSHJNMTdGN2xSdEJodkZ2Rzdrb1paV2Zmb2FYWVNJY2RNczNGVTRxY2dOeW1SQ1ZFWk5yd2dRSUtTdk9jcldCN1FYeDFWX2IzS192VFpmakhYWlVkSk5jYmxzdTRSSHB3dkVUNWg1dE9PLV9FNDNqNmF2ODUzcnBld1JZbUdK?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "inflammatory bowel disease",
-          "keyword": "inflammatory bowel disease",
-          "related_drugs": [
-            {
-              "slug": "azathioprine",
-              "name": "Azathioprine",
-              "url": "/drugs/azathioprine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "89e65ff8e774",
-      "title": "Nearly 1 In 2 Breast Cancer Patients In India Are Under 50: Are Women Missing The Warning Signs? - Times Now",
-      "published": "2026-10-19T09:37:28+00:00",
-      "sources": [
-        {
-          "name": "Times Now",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdhSjJxVm9QU1ZDSnB6cnlxMS1WSUtTTHBVazQxaGU5cnF3cFd1a0ZMb2pyVWozS01fRVNFNFBUT1dYU05FV3dTZHZJTklUb2gzVkxtRmhVNklTYi1tbjJfdE41SDBLUEFTUjhydFc4OWNra0xCR2tHOTRSYkdHWDFCbTRwVVExYzByNXozaVZfNmlyWWtXQjExR2Z5eVFFYjRVb3pKWE1TY2JXdjRuV3dn0gG3AUFVX3lxTE1lSDNaUmxxN25UcEZWSHQ1aldBaVo5LVJSb0tsUGNBZGNjTnJ2c1JyZjhtdV92QW1HNmttaGRmTWdBUDhnZGlNaE1CQ3VpeGpZcnlTWG9UTXdyd21BWTVMTUIxcms2NjgxTVpQOWVqelRxYlhPS0ZVMmtrdjEtYkM0MklraXJyc1hzWkZ6OU15NzNxbGVhVFVUQVlCeTEzcnMzWWxzTFFDMnZCbndpVkg2VEVjS1ZHMA?oc=5"
+          "name": "India News Network",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlpVT3VucVU3dUdZSXAyOGprVko2Tm1QYzNLNWIycmV3eHFYZTNua2xMejZFWnN4bjdWNnhmR291ZDJYY1dBZW13Si1BRXQ3Yzh2NXJMd09JMHFrNEY0cWpvOFViWGRENDJoVmdsVF91eVAtX0U5X19lbFQ4NkpvbWJpZEMweDU3VDFNT2xKYw?oc=5"
         }
       ],
       "keywords": [
@@ -11418,6 +12893,33 @@
               "url": "/drugs/valsartan/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "795e301d349c",
+      "title": "Tired, distracted, picky eater? Iron deficiency may be hiding behind a healthy-looking child - The Times of India",
+      "published": "2026-10-20T09:30:00+00:00",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVXBDZE9ub3dkempmenNMbWo1dnE4OGtBc1BaQmYyRFBUa2Y0MjB2LUVGc0c3VGlBcFpvQ3Rwem5HaFNhRENpZFA0ZEwyeGM3Mlc5YWRoTGNQTVgyRzd4NkdCYkFhdnVkYnhFdW52TGNpMzB0eE51VTM2RndCazN5SGdtemZYb0pDRHZxZGtVRnRxcHdib1ZVX01mdkdBWjN1X0hXdDZBQjJDX08tSmY1SHJ5MkI5bFhxcDlqVVlGOHFfZVNHdTJUWVF3UnRYNmNadzE5UjB1M1g4QkQtWTZlbnhyWWpkRTBhT1BtcE5mUdIB9AFBVV95cUxPWjlNMFFkTkk3ZFdPeFBLR2VMbnpRVy1LRTVwcUFNYnkzY1pWMVhXTUhwS1Zkemp5QW5aVkRZMkMtSDdtbkQwdVBzRWpPcVlXdGszN01TUjhTem5aZXM2NnJOcVNwLUQ3SXY0TnBmOFVkUEtJZTlHWVFPUFoxT3VLblEtQnNSdk5HenBONlVzdlhQVnJXUzZyQk9qVE5VbG9RaUJ3dEJ0TVE5V2lHb093aWRHbGdmTXZ5WnluM1pjSDJyUVFFMlUtYzZHZXdrelRxOGpld1RGNElSVU1fUHN4b2ZURkpPTXBIcS0yUUhvTGthN0lZ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "keyword": "iron",
+          "name": "IRON",
+          "slug": "iron",
+          "url": "/drugs/iron/"
+        },
+        {
+          "type": "drug",
+          "keyword": "iron",
+          "name": "Iron",
+          "slug": "iron",
+          "url": "/drugs/iron/"
         }
       ]
     }

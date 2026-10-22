@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,23 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Evaluating Environmental Hazards of Aged Biodegradable Plastics in Aquatic Life](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
+
+2026-10-22 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dama</span>
+
+Source: [AZoCleantech](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
+
+---
+
+### [Tired, distracted, picky eater? Iron deficiency may be hiding behind a healthy-looking child - The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVXBDZE9ub3dkempmenNMbWo1dnE4OGtBc1BaQmYyRFBUa2Y0MjB2LUVGc0c3VGlBcFpvQ3Rwem5HaFNhRENpZFA0ZEwyeGM3Mlc5YWRoTGNQTVgyRzd4NkdCYkFhdnVkYnhFdW52TGNpMzB0eE51VTM2RndCazN5SGdtemZYb0pDRHZxZGtVRnRxcHdib1ZVX01mdkdBWjN1X0hXdDZBQjJDX08tSmY1SHJ5MkI5bFhxcDlqVVlGOHFfZVNHdTJUWVF3UnRYNmNadzE5UjB1M1g4QkQtWTZlbnhyWWpkRTBhT1BtcE5mUdIB9AFBVV95cUxPWjlNMFFkTkk3ZFdPeFBLR2VMbnpRVy1LRTVwcUFNYnkzY1pWMVhXTUhwS1Zkemp5QW5aVkRZMkMtSDdtbkQwdVBzRWpPcVlXdGszN01TUjhTem5aZXM2NnJOcVNwLUQ3SXY0TnBmOFVkUEtJZTlHWVFPUFoxT3VLblEtQnNSdk5HenBONlVzdlhQVnJXUzZyQk9qVE5VbG9RaUJ3dEJ0TVE5V2lHb093aWRHbGdmTXZ5WnluM1pjSDJyUVFFMlUtYzZHZXdrelRxOGpld1RGNElSVU1fUHN4b2ZURkpPTXBIcS0yUUhvTGthN0lZ?oc=5)
+
+2026-10-20 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVXBDZE9ub3dkempmenNMbWo1dnE4OGtBc1BaQmYyRFBUa2Y0MjB2LUVGc0c3VGlBcFpvQ3Rwem5HaFNhRENpZFA0ZEwyeGM3Mlc5YWRoTGNQTVgyRzd4NkdCYkFhdnVkYnhFdW52TGNpMzB0eE51VTM2RndCazN5SGdtemZYb0pDRHZxZGtVRnRxcHdib1ZVX01mdkdBWjN1X0hXdDZBQjJDX08tSmY1SHJ5MkI5bFhxcDlqVVlGOHFfZVNHdTJUWVF3UnRYNmNadzE5UjB1M1g4QkQtWTZlbnhyWWpkRTBhT1BtcE5mUdIB9AFBVV95cUxPWjlNMFFkTkk3ZFdPeFBLR2VMbnpRVy1LRTVwcUFNYnkzY1pWMVhXTUhwS1Zkemp5QW5aVkRZMkMtSDdtbkQwdVBzRWpPcVlXdGszN01TUjhTem5aZXM2NnJOcVNwLUQ3SXY0TnBmOFVkUEtJZTlHWVFPUFoxT3VLblEtQnNSdk5HenBONlVzdlhQVnJXUzZyQk9qVE5VbG9RaUJ3dEJ0TVE5V2lHb093aWRHbGdmTXZ5WnluM1pjSDJyUVFFMlUtYzZHZXdrelRxOGpld1RGNElSVU1fUHN4b2ZURkpPTXBIcS0yUUhvTGthN0lZ?oc=5)
+
+---
 
 
 <div class="disclaimer">

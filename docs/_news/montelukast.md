@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 
 ## Related News (1)
 
-### [MICROPLASTICS AND HUMAN HEALTH | Los Angeles Times - newspaper](https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3hlaHFib25pUGZaNWVoTGxVSVM2djN4NzFLQ3dJYlJ5aFBMaG9UMFJsRnozSF9IYkt0cXFkaUN5eGVSQ1p3UzZPa3czbHVPLTVtYm1OS0pPbDVwN3gtX09fai1CVFY5RnVpZGNRT0xObThORFRzejdXc2FGcGhpM0ZBLUFUXzRZaGFBbUs5SmFaY3RU?oc=5)
+### [Evaluating Environmental Hazards of Aged Biodegradable Plastics in Aquatic Life](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
 
-2026-10-22 <span class="news-indication-tag">dama</span>
+2026-10-22 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dama</span>
 
-Source: [Magzter](https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3hlaHFib25pUGZaNWVoTGxVSVM2djN4NzFLQ3dJYlJ5aFBMaG9UMFJsRnozSF9IYkt0cXFkaUN5eGVSQ1p3UzZPa3czbHVPLTVtYm1OS0pPbDVwN3gtX09fai1CVFY5RnVpZGNRT0xObThORFRzejdXc2FGcGhpM0ZBLUFUXzRZaGFBbUs5SmFaY3RU?oc=5)
+Source: [AZoCleantech](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
 
 ---
 

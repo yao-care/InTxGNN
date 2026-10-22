@@ -14,7 +14,7 @@ permalink: /news/dexmedetomidine/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexmedetomidine?">
-<strong>Dexmedetomidine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Dexmedetomidine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,9 @@ This page combines the AI-predicted indications for Dexmedetomidine with the lat
 <p><a href="{{ '/drugs/dexmedetomidine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Dexmedetomidine as an Adjuvant to Local Anesthetics for Postoperative Analgesia in Breast Cancer Surgery - The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjd6c2Q0d2FVN2lWRC1xTzhUUkg1akRFMXp1YjVlTHRnU3ZfRml4LWFZUTBXMjAta2M1eUpkNHNEbTNFNFJUVjR4aG1EcUhTMkNDWS1HT0xPT3pyZDJmSU9WTDMtb3RfWWsxZmxGeGdnN2ExRDRRemN4OXhEZEdyMnRsRXNiMFVvZ0tpNnZKYnE2d2hOMTFVbHR3SDJISERPXy1HVV9iQVBYN0VFaTBpaEdWSXdpalE3dUhUcUhFOVdHbjhkX2VPb1h3ZWVZV25oOWF0OWdKWFhUbjA?oc=5)
-
-2026-10-22 <span class="news-drug-tag">Dexmedetomidine</span>
-
-Source: [The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjd6c2Q0d2FVN2lWRC1xTzhUUkg1akRFMXp1YjVlTHRnU3ZfRml4LWFZUTBXMjAta2M1eUpkNHNEbTNFNFJUVjR4aG1EcUhTMkNDWS1HT0xPT3pyZDJmSU9WTDMtb3RfWWsxZmxGeGdnN2ExRDRRemN4OXhEZEdyMnRsRXNiMFVvZ0tpNnZKYnE2d2hOMTFVbHR3SDJISERPXy1HVV9iQVBYN0VFaTBpaEdWSXdpalE3dUhUcUhFOVdHbjhkX2VPb1h3ZWVZV25oOWF0OWdKWFhUbjA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
