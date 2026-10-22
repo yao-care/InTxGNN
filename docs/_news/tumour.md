@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor News"
+title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor. 1 articles, 228 related drugs."
-permalink: /news/tumor/
+description: "Health news about tumour. 1 articles, 228 related drugs."
+permalink: /news/tumour/
 ---
 
-# tumor News
+# tumour News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about tumor?">
-<strong>tumor</strong> currently has <strong>1 news articles</strong> and 228 related drugs.
+<p class="key-answer" data-question="What news is there about tumour?">
+<strong>tumour</strong> currently has <strong>1 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “tumor” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “tumour” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -240,11 +240,11 @@ This page brings together the latest health news about “tumor” and lists the
 
 ## Related News (1)
 
-### [p300 activity and subcellular localization associate with tumor aggressiveness and clinical outcome in triple-negative breast cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Q19NNjdYZTNLcW92TmdHc09wd3VuQktkbzRvSzdtcXhTbDRlZHNqN3FzRnZsM1U5QnBmWFM4ZlpfSXlQY084cW5lUUNxSUFLNUl1OG5ZNnJYdkI1QlNR?oc=5)
+### [Two women, same breast cancer diagnosis, different treatments: How tumour biology decides who needs chemo - The Times of India](https://news.google.com/rss/articles/CBMilgJBVV95cUxQb0dpOXhzd1QwWWh4SEhSU2ZGVTFMNnZkbVhqOEZZVmRPRlV4M3pqdGI1dm1Qdkk0VDVXLUg1dTFoaHBMYVJIV0JLMm81TEhxNXVTdW5KeXUyMm83WXpoY0cxM044eE1UNFBuMlVuc1VlTXM3VnRZMFNudUoyaUNOQXZhalVQbUtwNGFyY01oVEFVVUxRUUFvOUoxOUtFeEpMa2kyNjMwOU9tOGFsVU8ta1VHN09rNlF0cXRpbVAxdEdqd2VtR2pnSTFqZDJ6dHdDUE5lUjJaaGxBZHJ3SmRIZ0laWWdIRjZieTAxdnI1cm5SZ2dhQlJMUlllcEpfNUtac2FSS2JzeENxNmw1VFNVUGlUdkhVUdIBmwJBVV95cUxNWkNtYUo3MkNRUE5WenVZNjBJc3lCbTBKRnphb3MwLUhNUFdtaHcwc01MQ003V0hiX0lkekhmVGVjOGlBOGxYYW1rSVU5SVc0aXJLNExiV08wUFc2R2w3Smp3RFpWdkZNMGk3Y0JZRFpBOFdGRGVVRWdaTDYtcjhRajdza29aUWRxb1RfSGJaR2FyNmNyUE11RUJDUHZFRC1OLWxtNTltWXFDM3hvNnotRzJMeU5lUXN5NldmMEdpUWVRTGdvaEcyWmREZ2hSWnoxMUFGemlFa1ByQUJiRVI0ZUJybXhjckpTN0tONW1UczBNV0tVS0Z4NXd4NjdTUkotUi0wYlQ4RWlFX19zRnJlcnptV3VBbDF5aE4w?oc=5)
 
 2026-10-22
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Q19NNjdYZTNLcW92TmdHc09wd3VuQktkbzRvSzdtcXhTbDRlZHNqN3FzRnZsM1U5QnBmWFM4ZlpfSXlQY084cW5lUUNxSUFLNUl1OG5ZNnJYdkI1QlNR?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMilgJBVV95cUxQb0dpOXhzd1QwWWh4SEhSU2ZGVTFMNnZkbVhqOEZZVmRPRlV4M3pqdGI1dm1Qdkk0VDVXLUg1dTFoaHBMYVJIV0JLMm81TEhxNXVTdW5KeXUyMm83WXpoY0cxM044eE1UNFBuMlVuc1VlTXM3VnRZMFNudUoyaUNOQXZhalVQbUtwNGFyY01oVEFVVUxRUUFvOUoxOUtFeEpMa2kyNjMwOU9tOGFsVU8ta1VHN09rNlF0cXRpbVAxdEdqd2VtR2pnSTFqZDJ6dHdDUE5lUjJaaGxBZHJ3SmRIZ0laWWdIRjZieTAxdnI1cm5SZ2dhQlJMUlllcEpfNUtac2FSS2JzeENxNmw1VFNVUGlUdkhVUdIBmwJBVV95cUxNWkNtYUo3MkNRUE5WenVZNjBJc3lCbTBKRnphb3MwLUhNUFdtaHcwc01MQ003V0hiX0lkekhmVGVjOGlBOGxYYW1rSVU5SVc0aXJLNExiV08wUFc2R2w3Smp3RFpWdkZNMGk3Y0JZRFpBOFdGRGVVRWdaTDYtcjhRajdza29aUWRxb1RfSGJaR2FyNmNyUE11RUJDUHZFRC1OLWxtNTltWXFDM3hvNnotRzJMeU5lUXN5NldmMEdpUWVRTGdvaEcyWmREZ2hSWnoxMUFGemlFa1ByQUJiRVI0ZUJybXhjckpTN0tONW1UczBNV0tVS0Z4NXd4NjdTUkotUi0wYlQ4RWlFX19zRnJlcnptV3VBbDF5aE4w?oc=5)
 
 ---
 

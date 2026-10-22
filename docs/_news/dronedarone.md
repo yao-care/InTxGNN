@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Anton Syndrome Following Recurrent Hemorrhagic Stroke: A Case Report - The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXBCZTVLOFUxWmNzazJRaDA5ZlJTaVkxZ3RNN2h6WTNHeFNBRFYwV3FZVGtpRTVicG1PZHVZeFVIei0xLXJJLVZWcUlYV2lLeHV6RFNRQnZpVVF2TERSZkZ5UElYRUVUS1dhRzRGU3I3c1BFUV9Mc0pjOWpLN2RFQmR1SVFCX09GMzJDYTNBd1JXVTR6ZGI1Xy1HRE1zN3pHWTdBcFJaV2pjdw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXBCZTVLOFUxWmNzazJRaDA5ZlJTaVkxZ3RNN2h6WTNHeFNBRFYwV3FZVGtpRTVicG1PZHVZeFVIei0xLXJJLVZWcUlYV2lLeHV6RFNRQnZpVVF2TERSZkZ5UElYRUVUS1dhRzRGU3I3c1BFUV9Mc0pjOWpLN2RFQmR1SVFCX09GMzJDYTNBd1JXVTR6ZGI1Xy1HRE1zN3pHWTdBcFJaV2pjdw?oc=5)
+
+---
 
 
 <div class="disclaimer">

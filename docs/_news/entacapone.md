@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
+<strong>Entacapone</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,21 +35,13 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Overweight People with Alzheimer’s Disease May Live Longer - Fisher Center for Alzheimer's Research Foundation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUtWaVhhbjM2bmRCVzJzZDJkU3U2YVFIcjZ1aVcyaXlPOWUtVndoNi03ZHd5Z1dnTjVkU2U4aUgxdlFic29pTjNheVVmMFRrX01OT2JBRExwbEtXQ2dxMmk2by12WkpRbnlnczQ1WXhiaDN2bWc1SFhIb3hObUVYM2g5ZEFWZWVfOHdNczI0aTFBazlvT1NuQUFDVXduYkhISTNmbQ?oc=5)
 
 2026-10-21 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Fisher Center for Alzheimer's Research Foundation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUtWaVhhbjM2bmRCVzJzZDJkU3U2YVFIcjZ1aVcyaXlPOWUtVndoNi03ZHd5Z1dnTjVkU2U4aUgxdlFic29pTjNheVVmMFRrX01OT2JBRExwbEtXQ2dxMmk2by12WkpRbnlnczQ1WXhiaDN2bWc1SFhIb3hObUVYM2g5ZEFWZWVfOHdNczI0aTFBazlvT1NuQUFDVXduYkhISTNmbQ?oc=5)
-
----
-
-### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Rheumatology Advisor](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTJMX0VwQ1RtdDl3SktYaG15N19lNGlHWVZNOE0xSWRiYmFMNEVaZ2dYdW9zNWFVc0NSQW9xQXVvTUVuNEFkQldtanBYMGJfVnYzamlLOHRFRkRxRFNYdVB2elFGOFN4TnNERjZJLWxXZWhGQV9NdEJOYVQ4bG1QTWRJREp5U3U4V0x2ZUZSZklPRUlWQVBLanFGMjFabHJaR1AtbVNYMTFCZlBNMFF3?oc=5)
-
-2026-10-20 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTJMX0VwQ1RtdDl3SktYaG15N19lNGlHWVZNOE0xSWRiYmFMNEVaZ2dYdW9zNWFVc0NSQW9xQXVvTUVuNEFkQldtanBYMGJfVnYzamlLOHRFRkRxRFNYdVB2elFGOFN4TnNERjZJLWxXZWhGQV9NdEJOYVQ4bG1QTWRJREp5U3U4V0x2ZUZSZklPRUlWQVBLanFGMjFabHJaR1AtbVNYMTFCZlBNMFF3?oc=5)
 
 ---
 

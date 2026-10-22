@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Daily Curcumin Reduced Inflammatory Markers, Improved Cough, and Dyspnea in COPD Patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVlKTXlSNkpaLW92S3FkeXN2REtPYzVoalZIR3RJcy11ei1Zd1M5aEtKMm90eFROMU95RWtQZzI1N1J6OEJpRFRjRDU5cEo3bzFFTFNTZmNZNnZJRVlhc0hjZG4wTDlzY1lJY29MRDNuX0t0M1ZsNGhSOW9rdGhqT29iOU9ydjdMNTc1OF9oU0RXbEw2N3d0Qm5VVjdxQ0d4eDFMa0hmcHBfMThx?oc=5)
+
+2026-10-22 <span class="news-indication-tag">COPD</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVlKTXlSNkpaLW92S3FkeXN2REtPYzVoalZIR3RJcy11ei1Zd1M5aEtKMm90eFROMU95RWtQZzI1N1J6OEJpRFRjRDU5cEo3bzFFTFNTZmNZNnZJRVlhc0hjZG4wTDlzY1lJY29MRDNuX0t0M1ZsNGhSOW9rdGhqT29iOU9ydjdMNTc1OF9oU0RXbEw2N3d0Qm5VVjdxQ0d4eDFMa0hmcHBfMThx?oc=5)
+
+---
 
 
 <div class="disclaimer">

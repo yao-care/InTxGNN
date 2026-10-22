@@ -14,7 +14,7 @@ permalink: /news/balsalazide/
 ---
 
 <p class="key-answer" data-question="What news is there about Balsalazide?">
-<strong>Balsalazide</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Balsalazide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <p><a href="{{ '/drugs/balsalazide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Development of a transparent reporting tool for AI-based diagnostic prediction models of disease and syndrome in Chinese medicine (TRAPODS-CM): a Delphi study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTjNuTFl2c1BhUWJTMHB6YUJRd0ZfanJHQ0dhRE5GRmUtZ1J5cWwtUG9QQmx1QVQ4UFprQTdiRWJsRXNBaXR6dUduTWRnMHlQX25xSGk0bXVrZzUwOHA0?oc=5)
-
-2026-10-21 <span class="news-indication-tag">RA</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTjNuTFl2c1BhUWJTMHB6YUJRd0ZfanJHQ0dhRE5GRmUtZ1J5cWwtUG9QQmx1QVQ4UFprQTdiRWJsRXNBaXR6dUduTWRnMHlQX25xSGk0bXVrZzUwOHA0?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
