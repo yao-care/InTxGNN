@@ -14,7 +14,7 @@ permalink: /news/nicotinamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Nicotinamide?">
-<strong>Nicotinamide</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Nicotinamide</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Nicotinamide with the latest
 
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Nicotinic acid starvation sensitizes nicotinate phosphoribosyltransferase-expressing tumors to nicotinamide phosphoribosyltransferase inhibition](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY2JaQmtUNE9FZ3VJRlJpcnNZeTh6N19kRzN3eEYtaHczdm1FdkRMU3drdmZZYk5LUjItZjdvWEVOSGw4bzFKYlJTRWZyM0ZmeUVYTy1zV0Q0dEtpRjFV?oc=5)
+
+2026-10-22 <span class="news-drug-tag">NICOTINAMIDE</span> <span class="news-drug-tag">Nicotinamide</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY2JaQmtUNE9FZ3VJRlJpcnNZeTh6N19kRzN3eEYtaHczdm1FdkRMU3drdmZZYk5LUjItZjdvWEVOSGw4bzFKYlJTRWZyM0ZmeUVYTy1zV0Q0dEtpRjFV?oc=5)
+
+---
 
 
 <div class="disclaimer">

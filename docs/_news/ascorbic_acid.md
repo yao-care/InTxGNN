@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Coenzyme Q10 mitigates methotrexate induced salivary gland injury via antioxidant and anti-inflammatory mechanisms](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03R0lmRmpUeDh3bFd2MFpoY2tyXy1VSUVHR21OR2JIX3V4Z2VJSEZXdk43eFFnckFMN0hrNUFFcWlVS2hDcUliYmJOc09EODVUb1JaQmhkMEUxVklPRW4w?oc=5)
+
+2026-10-21 <span class="news-drug-tag">METHOTREXATE</span> <span class="news-drug-tag">Methotrexate</span> <span class="news-indication-tag">injury</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03R0lmRmpUeDh3bFd2MFpoY2tyXy1VSUVHR21OR2JIX3V4Z2VJSEZXdk43eFFnckFMN0hrNUFFcWlVS2hDcUliYmJOc09EODVUb1JaQmhkMEUxVklPRW4w?oc=5)
+
+---
 
 
 <div class="disclaimer">

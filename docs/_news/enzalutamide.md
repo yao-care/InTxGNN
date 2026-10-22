@@ -14,7 +14,7 @@ permalink: /news/enzalutamide/
 ---
 
 <p class="key-answer" data-question="What news is there about Enzalutamide?">
-<strong>Enzalutamide</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Enzalutamide</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,47 @@ This page combines the AI-predicted indications for Enzalutamide with the latest
 <p><a href="{{ '/drugs/enzalutamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Prognostic significance and clinicopathologic prediction of tumor deposits in non-metastatic colon mucinous adenocarcinoma](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUVQ2akJCak12SXpfdGFrd1VWOFNNYWdQcHI5MndSa1VjNll1Q1ljVFVZZUM3NW9BLVVaVXBCZE9RZy1ONF9MczBmaERlX3U5VHA4SWpMODkybnQ2c1U4?oc=5)
+
+2026-10-22 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">colon mucinous adenocarcinoma</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUVQ2akJCak12SXpfdGFrd1VWOFNNYWdQcHI5MndSa1VjNll1Q1ljVFVZZUM3NW9BLVVaVXBCZE9RZy1ONF9MczBmaERlX3U5VHA4SWpMODkybnQ2c1U4?oc=5)
+
+---
+
+### [Nicotinic acid starvation sensitizes nicotinate phosphoribosyltransferase-expressing tumors to nicotinamide phosphoribosyltransferase inhibition](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY2JaQmtUNE9FZ3VJRlJpcnNZeTh6N19kRzN3eEYtaHczdm1FdkRMU3drdmZZYk5LUjItZjdvWEVOSGw4bzFKYlJTRWZyM0ZmeUVYTy1zV0Q0dEtpRjFV?oc=5)
+
+2026-10-22 <span class="news-drug-tag">NICOTINAMIDE</span> <span class="news-drug-tag">Nicotinamide</span> <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY2JaQmtUNE9FZ3VJRlJpcnNZeTh6N19kRzN3eEYtaHczdm1FdkRMU3drdmZZYk5LUjItZjdvWEVOSGw4bzFKYlJTRWZyM0ZmeUVYTy1zV0Q0dEtpRjFV?oc=5)
+
+---
+
+### [Varda ships cancer drug to orbit after $251M raise to test space-made crystals](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVk4aFd0UTU4WngwRW9mNTdlWnNxdzBFdHNrSXVjYnZETGtGZklSV3BNcm1xdm41c2Z4eXJieHFWQVp6NTlWUzFyRU9mN1phVFhkcXVOY1cybER4NFY0Q1pVYkE3bVN2M3lVandKOHVMRElMLTJvZU1tVTRMYUpQZk5TMi03aEVRVGtLV0lwSkxtZXI0bmRWa2czYjByYXRhSU9JMXItMXZWVnhYYVFnVw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">cancer</span>
+
+Source: [Dealroom](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVk4aFd0UTU4WngwRW9mNTdlWnNxdzBFdHNrSXVjYnZETGtGZklSV3BNcm1xdm41c2Z4eXJieHFWQVp6NTlWUzFyRU9mN1phVFhkcXVOY1cybER4NFY0Q1pVYkE3bVN2M3lVandKOHVMRElMLTJvZU1tVTRMYUpQZk5TMi03aEVRVGtLV0lwSkxtZXI0bmRWa2czYjByYXRhSU9JMXItMXZWVnhYYVFnVw?oc=5)
+
+---
+
+### [Glucose priming may improve tumor targeting for chemotherapy nanocarriers](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENrbWlDbmhuQnZzWC1tWDBEekdjZG5MR0xJYjJRRXgzUnVpUDk4Qk9hZUJFUFFSTGtUN3c3QTBCQ0ZWMG9lS1Q0Zng1UWx2QnlRa1I3R0xLYUd1OEtaTVlmd3V0alNRa2pmQXd1OHdCRTJFSzV1OWtvUXprNlFCdjFqWVd3S04xSGNEWTY3NHUyb1BuOWpxZlZUNUs1WVloYmZ1YTk2bHlsWlVQczltZGJaZm01eXhvZ2h2QlBB?oc=5)
+
+2026-10-21 <span class="news-indication-tag">tumor</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENrbWlDbmhuQnZzWC1tWDBEekdjZG5MR0xJYjJRRXgzUnVpUDk4Qk9hZUJFUFFSTGtUN3c3QTBCQ0ZWMG9lS1Q0Zng1UWx2QnlRa1I3R0xLYUd1OEtaTVlmd3V0alNRa2pmQXd1OHdCRTJFSzV1OWtvUXprNlFCdjFqWVd3S04xSGNEWTY3NHUyb1BuOWpxZlZUNUs1WVloYmZ1YTk2bHlsWlVQczltZGJaZm01eXhvZ2h2QlBB?oc=5)
+
+---
+
+### [The Changing Approach to Breast Cancer Treatment - Deccan Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWng0Z3dNX1Z6bFdKSzI5M1RaNnNGTmFwSDlnc19nZU9rS1hxTHVQOWY2MkNXYVl4OHBiN3VGcUpwZTVJNWY1T3lVeWM4WDc2dDctdWVENGxuTDdTY3dpVm8tcnR0aWxqTDgyaXZWcEJlUVhoS3daWlUxYUtrejhEcUpTQnpoQUJxS1JSUmNzSmdhOGo3RW9yetIBngFBVV95cUxPbXlxbTUzMGV4dWZtYW5yUzdJT1hGYzM3NWViVjBuQWpKVmN1dEJHU1FLcW9uRnRlSEF6dnVfempsUjRsUlJnRVhGenBDOXJuMTdXY3hhcVhUUjdCRWlkdHJfUDdFV1RZRjNkOFdmTWw0MGFLUWZyYkkzdmVqZXZ1dm43TTNiaXM4LWtGdWx2aHBjNWV5VFNlVEpyTG1wdw?oc=5)
+
+2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWng0Z3dNX1Z6bFdKSzI5M1RaNnNGTmFwSDlnc19nZU9rS1hxTHVQOWY2MkNXYVl4OHBiN3VGcUpwZTVJNWY1T3lVeWM4WDc2dDctdWVENGxuTDdTY3dpVm8tcnR0aWxqTDgyaXZWcEJlUVhoS3daWlUxYUtrejhEcUpTQnpoQUJxS1JSUmNzSmdhOGo3RW9yetIBngFBVV95cUxPbXlxbTUzMGV4dWZtYW5yUzdJT1hGYzM3NWViVjBuQWpKVmN1dEJHU1FLcW9uRnRlSEF6dnVfempsUjRsUlJnRVhGenBDOXJuMTdXY3hhcVhUUjdCRWlkdHJfUDdFV1RZRjNkOFdmTWw0MGFLUWZyYkkzdmVqZXZ1dm43TTNiaXM4LWtGdWx2aHBjNWV5VFNlVEpyTG1wdw?oc=5)
+
+---
 
 ### [How a photo of a person’s face could help predict whether they’ll survive cancer treatment - Gulf Coast News and Weather](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelJPelhGUG80eXRZWmRyR3M5VXpfZWJPWnFIMXFlaDZlbXlzeEg5anJtWjZONXh3SnhhVjJTN01TekZFVEo1NC1WeHNPbTctcy1sZ2l0UzgxUDRaZGFqWmdxdGs3QjE4eUxVSkNZdnVnMkRDdXJSV2RuaFRyOTZ2ZWJEbTVud3V0?oc=5)
 
@@ -44,7 +84,7 @@ Source: [Gulf Coast News and Weather](https://news.google.com/rss/articles/CBMii
 
 ### [Massive study of 460,000 people challenges ultra-processed food cancer fears - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-21 <span class="news-indication-tag">cancer</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
@@ -66,27 +106,11 @@ Source: [India Today](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGpje
 
 ---
 
-### [Scientists unearth new instance of ‘contagious cancer’ in animals - The Hindu](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFFPXzBxNEdzMmMyVEhuQnZCZW8ya3Y4YjMtNTB5VDVOb2FRYWlJNnkwdUF0WVJqSGp1Z0k2VGVzbXFUcVlodW8yZkZWNlpfWjdhcnljemNwcFR0bXE5NWNCRUtaOFkzeS0zWWJMOTh1dkNBWHVnN2NuSFpyYXpjeDBlNnFjeGtoTENoVmt3RS1mQXJUM1dsclBTaGYteWF2UlNCMzVMMk5kSjlXUnpRSWZsLTlBSjhPeFBQWWJyT3U5bzTSAcoBQVVfeXFMUHlXVjA0R1RpVk1Ndl9BY1FJb19SbHVmNnhkY3ZBNU0xbTBORDA2Q2tLcnJzcnhjdFNQeVZsYXFUSEpBNDdrOVpiVEcwSEhQeWVwU2tfbHFCYW5qeGtfOHk2cnlRUm5OQWJrNnVqNTI1ZURJNWdVMnBpRUtXT3VEYUpTbUlDMVpKbEFTUTB5NGJhdmxqMXE0UERMaHJZRm9FMEJZSzNYcnRRN2pTZ2JqNkhDcFczellFbUh3TkRTbHZDUGp5SEYyVUluZw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFFPXzBxNEdzMmMyVEhuQnZCZW8ya3Y4YjMtNTB5VDVOb2FRYWlJNnkwdUF0WVJqSGp1Z0k2VGVzbXFUcVlodW8yZkZWNlpfWjdhcnljemNwcFR0bXE5NWNCRUtaOFkzeS0zWWJMOTh1dkNBWHVnN2NuSFpyYXpjeDBlNnFjeGtoTENoVmt3RS1mQXJUM1dsclBTaGYteWF2UlNCMzVMMk5kSjlXUnpRSWZsLTlBSjhPeFBQWWJyT3U5bzTSAcoBQVVfeXFMUHlXVjA0R1RpVk1Ndl9BY1FJb19SbHVmNnhkY3ZBNU0xbTBORDA2Q2tLcnJzcnhjdFNQeVZsYXFUSEpBNDdrOVpiVEcwSEhQeWVwU2tfbHFCYW5qeGtfOHk2cnlRUm5OQWJrNnVqNTI1ZURJNWdVMnBpRUtXT3VEYUpTbUlDMVpKbEFTUTB5NGJhdmxqMXE0UERMaHJZRm9FMEJZSzNYcnRRN2pTZ2JqNkhDcFczellFbUh3TkRTbHZDUGp5SEYyVUluZw?oc=5)
-
----
-
 ### [Top US Expert Explains How Obesity Can Raise Breast Cancer Risk - Times Now](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUi1jdVlnbVFYSnd0TlhYdjZOdUhyZ1pST0swZUt1QkNfSHJSM2Fjb0xrV2lQNWhMS1BnbWpUTE94MjdZQUtRd0Y4YU5QUFJ1NmZwMEs5Um5GTGFITFRNYlMtNGxXZU9sY2FvSVgwb3c0VnJqT18tdnZVdUZwd3lxVHNGWGpyOVpkaDNMQ3lvbXc5STFhbmdST0tFV0wwSm1yQTNGcFdIQlI3WGtDM2JHSy0xcndZaHZ00gG-AUFVX3lxTE5mS2RubEhDVElSajBfU3ZETzlXMG9NVVcza2VRTGJVYWtiMk5uSXBtaFJzSzhJSWM3Vkl2U3NHZ2R0c0l0Y0QwV1c3ZlUwdEwxUkkySEViaEtVQU9ZcnFOUjdXaFZIOFpDWFBfTDVFY3NoQ2dqbzRKall4LVhDT2pMYVgxeDJMdTJ0S1FaUVdkYUlhS1NDZ1pVQ3NTd3dTcTh1X1o1TU5fZWlkYXBZY1h3Q1o4clJnUndXeFRGanc?oc=5)
 
 2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Times Now](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUi1jdVlnbVFYSnd0TlhYdjZOdUhyZ1pST0swZUt1QkNfSHJSM2Fjb0xrV2lQNWhMS1BnbWpUTE94MjdZQUtRd0Y4YU5QUFJ1NmZwMEs5Um5GTGFITFRNYlMtNGxXZU9sY2FvSVgwb3c0VnJqT18tdnZVdUZwd3lxVHNGWGpyOVpkaDNMQ3lvbXc5STFhbmdST0tFV0wwSm1yQTNGcFdIQlI3WGtDM2JHSy0xcndZaHZ00gG-AUFVX3lxTE5mS2RubEhDVElSajBfU3ZETzlXMG9NVVcza2VRTGJVYWtiMk5uSXBtaFJzSzhJSWM3Vkl2U3NHZ2R0c0l0Y0QwV1c3ZlUwdEwxUkkySEViaEtVQU9ZcnFOUjdXaFZIOFpDWFBfTDVFY3NoQ2dqbzRKall4LVhDT2pMYVgxeDJMdTJ0S1FaUVdkYUlhS1NDZ1pVQ3NTd3dTcTh1X1o1TU5fZWlkYXBZY1h3Q1o4clJnUndXeFRGanc?oc=5)
-
----
-
-### [Walking before cancer surgery can cut risk of postoperative delirium by 50%, finds study](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFjY2lkRnF5eUM2dTNYdVZvSmNHakNqYUFOOXJTaW1XVm1HRlpPSnVoSkJTNDI2SkpJRnJWdVRPN0hVRFRNejk4XzY4LURoQVJuM2pNbmp4SkJKNnV5RzBVeUFWOHc3Q09MSUhfSE96YzJPSXdna0NqdkRZM0Y4Sm9sWUU5c0lUQXpEWE05Yk5vTU1fOVF6UlVtT3JZZmstSzVzdnBBaEp5aURfbWhrRnozaWQ3X0hIQlhScEJ3d23SAcYBQVVfeXFMTndva2RLdUNCcFAyYS1JaWFpRTMzRGF0YkVYRXZfUWxJOWVPcnhBNkxuTDVQb21kVnd2WVVBN0g3QzJ6bkNGaWRFTHRCRlpvcEF6NXJGbWtWeTluMXFlN3pZY05ZSzlQU0dPa1QyVzF2RzVSRk5uQklXOFdnMmNoYkdZUGlKcnYxOERjcFF6dTVDeTc5R0xtRTFjXzdMdmM1YzlUNDAyaV9sdEY5TVFTZi00TjZfRm5aUDZFM1JKc0hyOUdCZzFn?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span>
-
-Source: [ThePrint](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDFjY2lkRnF5eUM2dTNYdVZvSmNHakNqYUFOOXJTaW1XVm1HRlpPSnVoSkJTNDI2SkpJRnJWdVRPN0hVRFRNejk4XzY4LURoQVJuM2pNbmp4SkJKNnV5RzBVeUFWOHc3Q09MSUhfSE96YzJPSXdna0NqdkRZM0Y4Sm9sWUU5c0lUQXpEWE05Yk5vTU1fOVF6UlVtT3JZZmstSzVzdnBBaEp5aURfbWhrRnozaWQ3X0hIQlhScEJ3d23SAcYBQVVfeXFMTndva2RLdUNCcFAyYS1JaWFpRTMzRGF0YkVYRXZfUWxJOWVPcnhBNkxuTDVQb21kVnd2WVVBN0g3QzJ6bkNGaWRFTHRCRlpvcEF6NXJGbWtWeTluMXFlN3pZY05ZSzlQU0dPa1QyVzF2RzVSRk5uQklXOFdnMmNoYkdZUGlKcnYxOERjcFF6dTVDeTc5R0xtRTFjXzdMdmM1YzlUNDAyaV9sdEY5TVFTZi00TjZfRm5aUDZFM1JKc0hyOUdCZzFn?oc=5)
 
 ---
 
@@ -103,14 +127,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28t
 2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlpCUnpvUHBzRWE0Szh1cUIyaTZkUkZkT2c5RzNKZXNLRmJtcW5MSUNKTXZ2Tmp6VTdseE5SdE1kSHA5SmI5TGZSSnJOV0ZYTmNBSTQ3dmZxaHpaOUdaWWplSWFjblZXVmlfTkxzM0hNODYyTHdGd3ZDSmhvOWE4ZVRpS0FzNGZJUy03Z0pjZV9NVXhOY3diVEFpUXFlYjZnRUFBTDRLMXZDc3B5WTIxUzJiQTRvNlMtckdhU0ZlclpSWE0yNHo3c1g5TGpibXRIOXlNLVphVXRkTkJZNGhTcHF6ZDBsaHNfRUVNRklCbjhqMzNfVEHSAfsBQVVfeXFMUEU3c2VqQUhDZzBPWjhXWng2bVlHZDladlEwQk5WVHBpaGxkWGZXUmcxQ1R4Mmt4OE1LWldOOE9ZVFd2OWxzSlM5bHVQQmtXSHB6TE9IcTAxTmtOWnJvYmZDOWVGd0pFeVhuUnNoTzFLcEdQdlVBY2ZMRkpyeDRhQ0I5WGE3OFNyaHZLVmw2VV9DbkU5LTdXTVZvNHN4eFJGU2VaNkptY3VqSmtXRmgta1VJTEVBVk54OTZ1ZFVIU3NyM1g0ejhWX292cFZ5TGt5V1BySlhNN3VsRm5la2Qyak5ZeDlRTDlHdTFMTTVmZ3Bzem4wZVZMLUNZZDg?oc=5)
-
----
-
-### [One Diagnosis, Different Journeys: The Changing Face of Breast Cancer Care - BusinessToday Malaysia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb05NdFE5RDBEN2xDZkZLWDdTZVBpRzVPTHZOZnJMV0FtTzB4N2FvUGdnbDkzSkF6dS1Hemhjd0c0UF9TSThKTzdqZlVfempkdW9BQ3EtM0s1NUNBdDJGaXMxMl9CRTI4cXlHREZZYzhhRVU4WHUzQXJDTmZ2S1drc2toNktWZmZpSFJISU41X0NnR0VCempDSWNVamk3QVFobWFLRngzODlmRFh2S1UtSjcxd2lRbFNf?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [BusinessToday Malaysia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb05NdFE5RDBEN2xDZkZLWDdTZVBpRzVPTHZOZnJMV0FtTzB4N2FvUGdnbDkzSkF6dS1Hemhjd0c0UF9TSThKTzdqZlVfempkdW9BQ3EtM0s1NUNBdDJGaXMxMl9CRTI4cXlHREZZYzhhRVU4WHUzQXJDTmZ2S1drc2toNktWZmZpSFJISU41X0NnR0VCempDSWNVamk3QVFobWFLRngzODlmRFh2S1UtSjcxd2lRbFNf?oc=5)
 
 ---
 

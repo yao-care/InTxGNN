@@ -14,7 +14,7 @@ permalink: /news/azathioprine/
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [We might have a way to predict inflammatory bowel disease](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTFCZGNmRVVEUm1CQXNRY0VmajdjMjh0NmhISHhsVGpPVkVwVFB0VDBqZlVtYWpoRDNYSHJNMTdGN2xSdEJodkZ2Rzdrb1paV2Zmb2FYWVNJY2RNczNGVTRxY2dOeW1SQ1ZFWk5yd2dRSUtTdk9jcldCN1FYeDFWX2IzS192VFpmakhYWlVkSk5jYmxzdTRSSHB3dkVUNWg1dE9PLV9FNDNqNmF2ODUzcnBld1JZbUdK?oc=5)
+
+2026-10-19 <span class="news-indication-tag">inflammatory bowel disease</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTFCZGNmRVVEUm1CQXNRY0VmajdjMjh0NmhISHhsVGpPVkVwVFB0VDBqZlVtYWpoRDNYSHJNMTdGN2xSdEJodkZ2Rzdrb1paV2Zmb2FYWVNJY2RNczNGVTRxY2dOeW1SQ1ZFWk5yd2dRSUtTdk9jcldCN1FYeDFWX2IzS192VFpmakhYWlVkSk5jYmxzdTRSSHB3dkVUNWg1dE9PLV9FNDNqNmF2ODUzcnBld1JZbUdK?oc=5)
+
+---
 
 
 <div class="disclaimer">
