@@ -31,11 +31,11 @@ This page brings together the latest health news about “injury” and lists th
 
 ## Related News (1)
 
-### [Coenzyme Q10 mitigates methotrexate induced salivary gland injury via antioxidant and anti-inflammatory mechanisms](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03R0lmRmpUeDh3bFd2MFpoY2tyXy1VSUVHR21OR2JIX3V4Z2VJSEZXdk43eFFnckFMN0hrNUFFcWlVS2hDcUliYmJOc09EODVUb1JaQmhkMEUxVklPRW4w?oc=5)
+### [Acute Kidney Injury Raises Mortality in Immunotherapy - European Medical Journal](https://news.google.com/rss/articles/CBMingFBVV95cUxOdlVXdm9Edm1Va3dsSDBxV3N3WkRLNUFxd1ZPbHRyQkpKZmdPVFFfNjhJR3RFMWxpS3VBSjFKWkZEOVdfSjBHMWVZX2tmQkZMLThXRllSRTM5UHN1X1REOWx4N0daUDNneDRJSlBZeC1Ob1M2UHlGNHRGYnBBMDA1emVUbEEzLVZBSVFzT2RvR1pwbUJfRVNJTThXcERkdw?oc=5)
 
-2026-10-21
+2026-10-22
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03R0lmRmpUeDh3bFd2MFpoY2tyXy1VSUVHR21OR2JIX3V4Z2VJSEZXdk43eFFnckFMN0hrNUFFcWlVS2hDcUliYmJOc09EODVUb1JaQmhkMEUxVklPRW4w?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMingFBVV95cUxOdlVXdm9Edm1Va3dsSDBxV3N3WkRLNUFxd1ZPbHRyQkpKZmdPVFFfNjhJR3RFMWxpS3VBSjFKWkZEOVdfSjBHMWVZX2tmQkZMLThXRllSRTM5UHN1X1REOWx4N0daUDNneDRJSlBZeC1Ob1M2UHlGNHRGYnBBMDA1emVUbEEzLVZBSVFzT2RvR1pwbUJfRVNJTThXcERkdw?oc=5)
 
 ---
 

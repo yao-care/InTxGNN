@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 3 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 2 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QkFfYVpfQnVuQTdLY0xvdFUtZlJ4c0VfMXpLTDNaZWljMVhsVjNTbE55Q2cwXzdEMllpd2VHRDVPRENyUDY1WUZsb1ZhMUx6VEhTV05PRVhzVGc?oc=5)
+### [Overweight People with Alzheimer’s Disease May Live Longer - Fisher Center for Alzheimer's Research Foundation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUtWaVhhbjM2bmRCVzJzZDJkU3U2YVFIcjZ1aVcyaXlPOWUtVndoNi03ZHd5Z1dnTjVkU2U4aUgxdlFic29pTjNheVVmMFRrX01OT2JBRExwbEtXQ2dxMmk2by12WkpRbnlnczQ1WXhiaDN2bWc1SFhIb3hObUVYM2g5ZEFWZWVfOHdNczI0aTFBazlvT1NuQUFDVXduYkhISTNmbQ?oc=5)
 
 2026-10-21
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QkFfYVpfQnVuQTdLY0xvdFUtZlJ4c0VfMXpLTDNaZWljMVhsVjNTbE55Q2cwXzdEMllpd2VHRDVPRENyUDY1WUZsb1ZhMUx6VEhTV05PRVhzVGc?oc=5)
+Source: [Fisher Center for Alzheimer's Research Foundation](https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUtWaVhhbjM2bmRCVzJzZDJkU3U2YVFIcjZ1aVcyaXlPOWUtVndoNi03ZHd5Z1dnTjVkU2U4aUgxdlFic29pTjNheVVmMFRrX01OT2JBRExwbEtXQ2dxMmk2by12WkpRbnlnczQ1WXhiaDN2bWc1SFhIb3hObUVYM2g5ZEFWZWVfOHdNczI0aTFBazlvT1NuQUFDVXduYkhISTNmbQ?oc=5)
 
 ---
 
@@ -51,14 +51,6 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QkFfYVpfQnVuQ
 2026-10-20
 
 Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTJMX0VwQ1RtdDl3SktYaG15N19lNGlHWVZNOE0xSWRiYmFMNEVaZ2dYdW9zNWFVc0NSQW9xQXVvTUVuNEFkQldtanBYMGJfVnYzamlLOHRFRkRxRFNYdVB2elFGOFN4TnNERjZJLWxXZWhGQV9NdEJOYVQ4bG1QTWRJREp5U3U4V0x2ZUZSZklPRUlWQVBLanFGMjFabHJaR1AtbVNYMTFCZlBNMFF3?oc=5)
-
----
-
-### [Obesity Linked to Lower Risk for Mortality in Dementia - Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
-
-2026-10-20
-
-Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkg3djd4MDN3b0hiOHJvanBsQ1ltOWpCcEtXRlQyN2F3MWpOdGoxOTV2MG5sUlZGdlJpOWNEZG5ZbUJWRmRKM1AwamFMT0FZY2xnMnpSa1dhYzVibjJHN29QQWlHYWttbGZESmRQZVIzU3ZhQU5ZVF9jVUt2NkRFeDYtUnBObWtsWVpLV29Iam5TUk1WU1FyTG5n?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,9 +36,15 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Securing GLP-1 Access and Exploring Hidradenitis Suppurativa Trials - Dermatology Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXJvTWRiTzhLTkZfX0xuQzlJZUpTNGNHOHI4TGNsVU12NzBZaGxMaUdwTHladnVQSm1HZDdFZWduQlRQZzljaFJpM3JSeDc0SDhlNGRyVUNYNXgyaFEtc3NBWGZpTm5KWWhVb1BiUl9mdjQybmVQNlNxVTVXSjlwM2FxLVl2QU4yN0hTamNXVkFzTjVvSW5hb1d2Qm51X0tWTGpZRW9VbEg?oc=5)
+
+2026-10-20 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Dermatology Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXJvTWRiTzhLTkZfX0xuQzlJZUpTNGNHOHI4TGNsVU12NzBZaGxMaUdwTHladnVQSm1HZDdFZWduQlRQZzljaFJpM3JSeDc0SDhlNGRyVUNYNXgyaFEtc3NBWGZpTm5KWWhVb1BiUl9mdjQybmVQNlNxVTVXSjlwM2FxLVl2QU4yN0hTamNXVkFzTjVvSW5hb1d2Qm51X0tWTGpZRW9VbEg?oc=5)
+
+---
 
 
 <div class="disclaimer">

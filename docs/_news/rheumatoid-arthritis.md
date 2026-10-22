@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 1 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,15 +49,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (2)
-
-### [Quick takes: CDC notes 3rd measles death, FDA OKs hepatitis B treatment, hep B vaccine seized in Guinea-Bissau](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVm4yeXNWamltcTBYUkRtNzJwdVBTMndoUmY3M0xKajg1elJNakEya3NBa2ZtMnhrWVdoSXJsWXJmb04yLVpWTXV4blp4V3J0UzRhVmdyd0ZLdVBuY0NEd2dwNDlSdXdGb1MtRkk5R3dlMW9VaGFHcmo4Uml1RnpOcjA5ZGVWdF91azNySllCajJFZV84YURHczBCdmhmV0FaM0QzYUtqSWI2a211cFFqRXdpRXJYczJsSUdpOQ?oc=5)
-
-2026-10-21
-
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVm4yeXNWamltcTBYUkRtNzJwdVBTMndoUmY3M0xKajg1elJNakEya3NBa2ZtMnhrWVdoSXJsWXJmb04yLVpWTXV4blp4V3J0UzRhVmdyd0ZLdVBuY0NEd2dwNDlSdXdGb1MtRkk5R3dlMW9VaGFHcmo4Uml1RnpOcjA5ZGVWdF91azNySllCajJFZV84YURHczBCdmhmV0FaM0QzYUtqSWI2a211cFFqRXdpRXJYczJsSUdpOQ?oc=5)
-
----
+## Related News (1)
 
 ### [Development of a transparent reporting tool for AI-based diagnostic prediction models of disease and syndrome in Chinese medicine (TRAPODS-CM): a Delphi study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTjNuTFl2c1BhUWJTMHB6YUJRd0ZfanJHQ0dhRE5GRmUtZ1J5cWwtUG9QQmx1QVQ4UFprQTdiRWJsRXNBaXR6dUduTWRnMHlQX25xSGk0bXVrZzUwOHA0?oc=5)
 

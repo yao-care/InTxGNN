@@ -14,7 +14,7 @@ permalink: /news/nadifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Modus Therapeutics: SEVUSMART study of sevuparin in children with severe malaria published in Nature Communications](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMm9ERjJKR1FuT1hBX1k1ZjVpaWpPVmxDVjJKNTRLaHh3T0VBQU5nWF9waE9jRko1NUtweWFyTVJ3dUhwTmZlcnVCOWQwaWUzQWw0cldGdnFkZy0xM3hLS0RwdEVXRHZhV2VoRjJuTHpDYmxLZHlHcldmNlRPYXhLNHE2M1dUS1Bqa056YXNjSTBGM3N4a2xnaDRXWHBBRm1zaUdLcTVQdlNYaEt3WlJid0lTVFUzQkhFTmZUVmQyZjhCV25tWDlfaDhBUnJhcl9aSUMta2F4cndUODVETGxzVENNUlJ6QUlSSEJ3ektyVzhXWkhN?oc=5)
+
+2026-10-22 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMm9ERjJKR1FuT1hBX1k1ZjVpaWpPVmxDVjJKNTRLaHh3T0VBQU5nWF9waE9jRko1NUtweWFyTVJ3dUhwTmZlcnVCOWQwaWUzQWw0cldGdnFkZy0xM3hLS0RwdEVXRHZhV2VoRjJuTHpDYmxLZHlHcldmNlRPYXhLNHE2M1dUS1Bqa056YXNjSTBGM3N4a2xnaDRXWHBBRm1zaUdLcTVQdlNYaEt3WlJid0lTVFUzQkhFTmZUVmQyZjhCV25tWDlfaDhBUnJhcl9aSUMta2F4cndUODVETGxzVENNUlJ6QUlSSEJ3ektyVzhXWkhN?oc=5)
+
+---
 
 
 <div class="disclaimer">

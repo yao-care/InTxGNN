@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,15 +33,7 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Quick takes: CDC notes 3rd measles death, FDA OKs hepatitis B treatment, hep B vaccine seized in Guinea-Bissau](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVm4yeXNWamltcTBYUkRtNzJwdVBTMndoUmY3M0xKajg1elJNakEya3NBa2ZtMnhrWVdoSXJsWXJmb04yLVpWTXV4blp4V3J0UzRhVmdyd0ZLdVBuY0NEd2dwNDlSdXdGb1MtRkk5R3dlMW9VaGFHcmo4Uml1RnpOcjA5ZGVWdF91azNySllCajJFZV84YURHczBCdmhmV0FaM0QzYUtqSWI2a211cFFqRXdpRXJYczJsSUdpOQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">RA</span>
-
-Source: [CIDRAP](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVm4yeXNWamltcTBYUkRtNzJwdVBTMndoUmY3M0xKajg1elJNakEya3NBa2ZtMnhrWVdoSXJsWXJmb04yLVpWTXV4blp4V3J0UzRhVmdyd0ZLdVBuY0NEd2dwNDlSdXdGb1MtRkk5R3dlMW9VaGFHcmo4Uml1RnpOcjA5ZGVWdF91azNySllCajJFZV84YURHczBCdmhmV0FaM0QzYUtqSWI2a211cFFqRXdpRXJYczJsSUdpOQ?oc=5)
-
----
+## Related News (1)
 
 ### [Development of a transparent reporting tool for AI-based diagnostic prediction models of disease and syndrome in Chinese medicine (TRAPODS-CM): a Delphi study](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBTjNuTFl2c1BhUWJTMHB6YUJRd0ZfanJHQ0dhRE5GRmUtZ1J5cWwtUG9QQmx1QVQ4UFprQTdiRWJsRXNBaXR6dUduTWRnMHlQX25xSGk0bXVrZzUwOHA0?oc=5)
 

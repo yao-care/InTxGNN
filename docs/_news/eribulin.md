@@ -34,19 +34,27 @@ This page combines the AI-predicted indications for Eribulin with the latest hea
 
 ## Related News (12)
 
+### [Researchers trained AI on 40 million faces. Here’s what it learned about cancer](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0JEdEV0TDVDSk1ldEJfVGxRX3hieUxtaEoyV29CLVBSbVRBNVJvZUQ3UTRRRVo1SldWMHFheFNFbFIwOTI2VFBsOE9KcnhfODM0cVNIRk11X1c5c3FrX2tNaWRpZHVOaEVfTVNuT2lvRnFTYUwybjlZdTgyWkpCYmhYMmxmaGpQa3Y1czVOMHlOVmszR3JpSG1YSXpabThYQnctQXJBOVU1eWxZckRWV0RyVjZpeE03X2NyMXdB0gHSAUFVX3lxTE9kdGdCY1RqWExCRnhISGMwM0FkMEZXWDZ5cXF0ZmE0OURBUnVZNkpkcEgyT0JQN1V3bDNva1h4U3YtbkNiS0I0VnBsZDJXbnk4aTZFa0FhWVNiMi1QR0M2eXo1Nk9pLVpZLUkwbGJTb1J4c0JMOXM1UTZnZHVMV0ZfZWhHT3YxcjhrZ1NrMTlYYTREZXRjZ3FUalNrNUtPZ2N5TWg1SmUwVXlwLTlMQW1pU0pHdTdCVmIxdXN6d0pPMGRFWU1mUXl1alNORkJiTTdwZw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">cancer</span>
+
+Source: [Cleveland.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0JEdEV0TDVDSk1ldEJfVGxRX3hieUxtaEoyV29CLVBSbVRBNVJvZUQ3UTRRRVo1SldWMHFheFNFbFIwOTI2VFBsOE9KcnhfODM0cVNIRk11X1c5c3FrX2tNaWRpZHVOaEVfTVNuT2lvRnFTYUwybjlZdTgyWkpCYmhYMmxmaGpQa3Y1czVOMHlOVmszR3JpSG1YSXpabThYQnctQXJBOVU1eWxZckRWV0RyVjZpeE03X2NyMXdB0gHSAUFVX3lxTE9kdGdCY1RqWExCRnhISGMwM0FkMEZXWDZ5cXF0ZmE0OURBUnVZNkpkcEgyT0JQN1V3bDNva1h4U3YtbkNiS0I0VnBsZDJXbnk4aTZFa0FhWVNiMi1QR0M2eXo1Nk9pLVpZLUkwbGJTb1J4c0JMOXM1UTZnZHVMV0ZfZWhHT3YxcjhrZ1NrMTlYYTREZXRjZ3FUalNrNUtPZ2N5TWg1SmUwVXlwLTlMQW1pU0pHdTdCVmIxdXN6d0pPMGRFWU1mUXl1alNORkJiTTdwZw?oc=5)
+
+---
+
+### [p300 activity and subcellular localization associate with tumor aggressiveness and clinical outcome in triple-negative breast cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Q19NNjdYZTNLcW92TmdHc09wd3VuQktkbzRvSzdtcXhTbDRlZHNqN3FzRnZsM1U5QnBmWFM4ZlpfSXlQY084cW5lUUNxSUFLNUl1OG5ZNnJYdkI1QlNR?oc=5)
+
+2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Q19NNjdYZTNLcW92TmdHc09wd3VuQktkbzRvSzdtcXhTbDRlZHNqN3FzRnZsM1U5QnBmWFM4ZlpfSXlQY084cW5lUUNxSUFLNUl1OG5ZNnJYdkI1QlNR?oc=5)
+
+---
+
 ### [Prognostic significance and clinicopathologic prediction of tumor deposits in non-metastatic colon mucinous adenocarcinoma](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUVQ2akJCak12SXpfdGFrd1VWOFNNYWdQcHI5MndSa1VjNll1Q1ljVFVZZUM3NW9BLVVaVXBCZE9RZy1ONF9MczBmaERlX3U5VHA4SWpMODkybnQ2c1U4?oc=5)
 
 2026-10-22 <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">colon mucinous adenocarcinoma</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUVQ2akJCak12SXpfdGFrd1VWOFNNYWdQcHI5MndSa1VjNll1Q1ljVFVZZUM3NW9BLVVaVXBCZE9RZy1ONF9MczBmaERlX3U5VHA4SWpMODkybnQ2c1U4?oc=5)
-
----
-
-### [Nicotinic acid starvation sensitizes nicotinate phosphoribosyltransferase-expressing tumors to nicotinamide phosphoribosyltransferase inhibition](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY2JaQmtUNE9FZ3VJRlJpcnNZeTh6N19kRzN3eEYtaHczdm1FdkRMU3drdmZZYk5LUjItZjdvWEVOSGw4bzFKYlJTRWZyM0ZmeUVYTy1zV0Q0dEtpRjFV?oc=5)
-
-2026-10-22 <span class="news-drug-tag">NICOTINAMIDE</span> <span class="news-drug-tag">Nicotinamide</span> <span class="news-indication-tag">tumor</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY2JaQmtUNE9FZ3VJRlJpcnNZeTh6N19kRzN3eEYtaHczdm1FdkRMU3drdmZZYk5LUjItZjdvWEVOSGw4bzFKYlJTRWZyM0ZmeUVYTy1zV0Q0dEtpRjFV?oc=5)
 
 ---
 
@@ -58,14 +66,6 @@ Source: [Dealroom](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVk4aFd0
 
 ---
 
-### [Glucose priming may improve tumor targeting for chemotherapy nanocarriers](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENrbWlDbmhuQnZzWC1tWDBEekdjZG5MR0xJYjJRRXgzUnVpUDk4Qk9hZUJFUFFSTGtUN3c3QTBCQ0ZWMG9lS1Q0Zng1UWx2QnlRa1I3R0xLYUd1OEtaTVlmd3V0alNRa2pmQXd1OHdCRTJFSzV1OWtvUXprNlFCdjFqWVd3S04xSGNEWTY3NHUyb1BuOWpxZlZUNUs1WVloYmZ1YTk2bHlsWlVQczltZGJaZm01eXhvZ2h2QlBB?oc=5)
-
-2026-10-21 <span class="news-indication-tag">tumor</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENrbWlDbmhuQnZzWC1tWDBEekdjZG5MR0xJYjJRRXgzUnVpUDk4Qk9hZUJFUFFSTGtUN3c3QTBCQ0ZWMG9lS1Q0Zng1UWx2QnlRa1I3R0xLYUd1OEtaTVlmd3V0alNRa2pmQXd1OHdCRTJFSzV1OWtvUXprNlFCdjFqWVd3S04xSGNEWTY3NHUyb1BuOWpxZlZUNUs1WVloYmZ1YTk2bHlsWlVQczltZGJaZm01eXhvZ2h2QlBB?oc=5)
-
----
-
 ### [The Changing Approach to Breast Cancer Treatment - Deccan Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWng0Z3dNX1Z6bFdKSzI5M1RaNnNGTmFwSDlnc19nZU9rS1hxTHVQOWY2MkNXYVl4OHBiN3VGcUpwZTVJNWY1T3lVeWM4WDc2dDctdWVENGxuTDdTY3dpVm8tcnR0aWxqTDgyaXZWcEJlUVhoS3daWlUxYUtrejhEcUpTQnpoQUJxS1JSUmNzSmdhOGo3RW9yetIBngFBVV95cUxPbXlxbTUzMGV4dWZtYW5yUzdJT1hGYzM3NWViVjBuQWpKVmN1dEJHU1FLcW9uRnRlSEF6dnVfempsUjRsUlJnRVhGenBDOXJuMTdXY3hhcVhUUjdCRWlkdHJfUDdFV1RZRjNkOFdmTWw0MGFLUWZyYkkzdmVqZXZ1dm43TTNiaXM4LWtGdWx2aHBjNWV5VFNlVEpyTG1wdw?oc=5)
 
 2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -74,17 +74,9 @@ Source: [Deccan Chronicle](https://news.google.com/rss/articles/CBMimAFBVV95cUxN
 
 ---
 
-### [How a photo of a person’s face could help predict whether they’ll survive cancer treatment - Gulf Coast News and Weather](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelJPelhGUG80eXRZWmRyR3M5VXpfZWJPWnFIMXFlaDZlbXlzeEg5anJtWjZONXh3SnhhVjJTN01TekZFVEo1NC1WeHNPbTctcy1sZ2l0UzgxUDRaZGFqWmdxdGs3QjE4eUxVSkNZdnVnMkRDdXJSV2RuaFRyOTZ2ZWJEbTVud3V0?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cancer</span>
-
-Source: [Gulf Coast News and Weather](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelJPelhGUG80eXRZWmRyR3M5VXpfZWJPWnFIMXFlaDZlbXlzeEg5anJtWjZONXh3SnhhVjJTN01TekZFVEo1NC1WeHNPbTctcy1sZ2l0UzgxUDRaZGFqWmdxdGs3QjE4eUxVSkNZdnVnMkRDdXJSV2RuaFRyOTZ2ZWJEbTVud3V0?oc=5)
-
----
-
 ### [Massive study of 460,000 people challenges ultra-processed food cancer fears - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cancer</span>
+2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">bowel cancer</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
@@ -114,19 +106,27 @@ Source: [Times Now](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUi1jdVl
 
 ---
 
-### [Study explores potential breast cancer benefits of neurokinin receptor antagonists](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
+### [Nearly 1 In 2 Breast Cancer Patients In India Are Under 50: Are Women Missing The Warning Signs? - Times Now](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdhSjJxVm9QU1ZDSnB6cnlxMS1WSUtTTHBVazQxaGU5cnF3cFd1a0ZMb2pyVWozS01fRVNFNFBUT1dYU05FV3dTZHZJTklUb2gzVkxtRmhVNklTYi1tbjJfdE41SDBLUEFTUjhydFc4OWNra0xCR2tHOTRSYkdHWDFCbTRwVVExYzByNXozaVZfNmlyWWtXQjExR2Z5eVFFYjRVb3pKWE1TY2JXdjRuV3dn0gG3AUFVX3lxTE1lSDNaUmxxN25UcEZWSHQ1aldBaVo5LVJSb0tsUGNBZGNjTnJ2c1JyZjhtdV92QW1HNmttaGRmTWdBUDhnZGlNaE1CQ3VpeGpZcnlTWG9UTXdyd21BWTVMTUIxcms2NjgxTVpQOWVqelRxYlhPS0ZVMmtrdjEtYkM0MklraXJyc1hzWkZ6OU15NzNxbGVhVFVUQVlCeTEzcnMzWWxzTFFDMnZCbndpVkg2VEVjS1ZHMA?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause symptoms</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxOY28tWGd5NTBRZUszclc3bkxGdll6U3hWUHZIemxYR0pJSkZpeEFmSnloYlZ2VURXZDJNZmhLeWc0MlZHbVkwMHJXbXRxR3E0ZjhPcFQzcWxFOG1xN21xMkpjU2VEZzBhb0Nvd3RWTFdPT2pYQkEtUFlDNHlIeGxjY1FzTmtjNGlmSVJsOWdxOHFsazF0THVzaUZVbEVxd0J6R2pUQkVmRURLNnd6YmxESjg0UlZWM0l0eWtuNURpazhNTmpVNmNnLTdB?oc=5)
+Source: [Times Now](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdhSjJxVm9QU1ZDSnB6cnlxMS1WSUtTTHBVazQxaGU5cnF3cFd1a0ZMb2pyVWozS01fRVNFNFBUT1dYU05FV3dTZHZJTklUb2gzVkxtRmhVNklTYi1tbjJfdE41SDBLUEFTUjhydFc4OWNra0xCR2tHOTRSYkdHWDFCbTRwVVExYzByNXozaVZfNmlyWWtXQjExR2Z5eVFFYjRVb3pKWE1TY2JXdjRuV3dn0gG3AUFVX3lxTE1lSDNaUmxxN25UcEZWSHQ1aldBaVo5LVJSb0tsUGNBZGNjTnJ2c1JyZjhtdV92QW1HNmttaGRmTWdBUDhnZGlNaE1CQ3VpeGpZcnlTWG9UTXdyd21BWTVMTUIxcms2NjgxTVpQOWVqelRxYlhPS0ZVMmtrdjEtYkM0MklraXJyc1hzWkZ6OU15NzNxbGVhVFVUQVlCeTEzcnMzWWxzTFFDMnZCbndpVkg2VEVjS1ZHMA?oc=5)
 
 ---
 
-### [Dense Breasts, missed lumps: Oncologist shares why breast cancer is caught late in younger women - The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlpCUnpvUHBzRWE0Szh1cUIyaTZkUkZkT2c5RzNKZXNLRmJtcW5MSUNKTXZ2Tmp6VTdseE5SdE1kSHA5SmI5TGZSSnJOV0ZYTmNBSTQ3dmZxaHpaOUdaWWplSWFjblZXVmlfTkxzM0hNODYyTHdGd3ZDSmhvOWE4ZVRpS0FzNGZJUy03Z0pjZV9NVXhOY3diVEFpUXFlYjZnRUFBTDRLMXZDc3B5WTIxUzJiQTRvNlMtckdhU0ZlclpSWE0yNHo3c1g5TGpibXRIOXlNLVphVXRkTkJZNGhTcHF6ZDBsaHNfRUVNRklCbjhqMzNfVEHSAfsBQVVfeXFMUEU3c2VqQUhDZzBPWjhXWng2bVlHZDladlEwQk5WVHBpaGxkWGZXUmcxQ1R4Mmt4OE1LWldOOE9ZVFd2OWxzSlM5bHVQQmtXSHB6TE9IcTAxTmtOWnJvYmZDOWVGd0pFeVhuUnNoTzFLcEdQdlVBY2ZMRkpyeDRhQ0I5WGE3OFNyaHZLVmw2VV9DbkU5LTdXTVZvNHN4eFJGU2VaNkptY3VqSmtXRmgta1VJTEVBVk54OTZ1ZFVIU3NyM1g0ejhWX292cFZ5TGt5V1BySlhNN3VsRm5la2Qyak5ZeDlRTDlHdTFMTTVmZ3Bzem4wZVZMLUNZZDg?oc=5)
+### [India's tobacco burden extends beyond smoking, new estimates reveal differences by region, sex and cancer site - The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVOWGdsTXhEdHBHQ3RETTZDWFgydV9fUkhNSGhpTHNaTThxelppRDBSNVpjTEhIMmx6c1NXOWVmYU8zd2dfZWU4TXNxeGlXTkF1SWNETEFEUk5uU053b0VESUtwVWxIbmFtTnZvQkZqdWxRSzdIWkNaVGIwOXNRNFFjQ0F4dXlJanVIU2Z4UjB1OVFma2d0eFFpN0NsWWN6eVlkUV9sTExHSEkzOE5IZ3I2Z2VsOF90Qm9lWXVaS1RfMkdaRjRfUnFNWFFCak1BQkQyb3VaNHU?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-19 <span class="news-indication-tag">cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRlpCUnpvUHBzRWE0Szh1cUIyaTZkUkZkT2c5RzNKZXNLRmJtcW5MSUNKTXZ2Tmp6VTdseE5SdE1kSHA5SmI5TGZSSnJOV0ZYTmNBSTQ3dmZxaHpaOUdaWWplSWFjblZXVmlfTkxzM0hNODYyTHdGd3ZDSmhvOWE4ZVRpS0FzNGZJUy03Z0pjZV9NVXhOY3diVEFpUXFlYjZnRUFBTDRLMXZDc3B5WTIxUzJiQTRvNlMtckdhU0ZlclpSWE0yNHo3c1g5TGpibXRIOXlNLVphVXRkTkJZNGhTcHF6ZDBsaHNfRUVNRklCbjhqMzNfVEHSAfsBQVVfeXFMUEU3c2VqQUhDZzBPWjhXWng2bVlHZDladlEwQk5WVHBpaGxkWGZXUmcxQ1R4Mmt4OE1LWldOOE9ZVFd2OWxzSlM5bHVQQmtXSHB6TE9IcTAxTmtOWnJvYmZDOWVGd0pFeVhuUnNoTzFLcEdQdlVBY2ZMRkpyeDRhQ0I5WGE3OFNyaHZLVmw2VV9DbkU5LTdXTVZvNHN4eFJGU2VaNkptY3VqSmtXRmgta1VJTEVBVk54OTZ1ZFVIU3NyM1g0ejhWX292cFZ5TGt5V1BySlhNN3VsRm5la2Qyak5ZeDlRTDlHdTFMTTVmZ3Bzem4wZVZMLUNZZDg?oc=5)
+Source: [The South First](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVnVOWGdsTXhEdHBHQ3RETTZDWFgydV9fUkhNSGhpTHNaTThxelppRDBSNVpjTEhIMmx6c1NXOWVmYU8zd2dfZWU4TXNxeGlXTkF1SWNETEFEUk5uU053b0VESUtwVWxIbmFtTnZvQkZqdWxRSzdIWkNaVGIwOXNRNFFjQ0F4dXlJanVIU2Z4UjB1OVFma2d0eFFpN0NsWWN6eVlkUV9sTExHSEkzOE5IZ3I2Z2VsOF90Qm9lWXVaS1RfMkdaRjRfUnFNWFFCak1BQkQyb3VaNHU?oc=5)
+
+---
+
+### [Can fatty liver turn into cancer? What you need to know - India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
 
 ---
 

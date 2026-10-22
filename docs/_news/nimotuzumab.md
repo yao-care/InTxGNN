@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Nimotuzumab with the latest 
 
 ### [Artificial Intelligence (AI)-Driven Retinal Screening Device](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm1BY3d5eGFrS1RSdTJYNkdwd01YUDNMQkJ5cHNLV1JKOXBkSlBVbjIydm1kZE8wYTFwc1Z1Y2VDWlFfZUxfVGx3RXVkOXBsTkcxN0l4NFFpcmt5MXBoeE9oNUZVMEVUMUxnRlRXSlZjaXg1SjBCWmh1cUQtS0FhMkdZZWdUNWMwU3pSV0JiSzFhNDRPWGZfX1VB?oc=5)
 
-2026-10-21 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
+2026-10-21 <span class="news-indication-tag">diabetic retinopathy</span>
 
 Source: [openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm1BY3d5eGFrS1RSdTJYNkdwd01YUDNMQkJ5cHNLV1JKOXBkSlBVbjIydm1kZE8wYTFwc1Z1Y2VDWlFfZUxfVGx3RXVkOXBsTkcxN0l4NFFpcmt5MXBoeE9oNUZVMEVUMUxnRlRXSlZjaXg1SjBCWmh1cUQtS0FhMkdZZWdUNWMwU3pSV0JiSzFhNDRPWGZfX1VB?oc=5)
 
