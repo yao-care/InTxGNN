@@ -14,7 +14,7 @@ permalink: /news/beta_carotene/
 ---
 
 <p class="key-answer" data-question="What news is there about Beta Carotene?">
-<strong>Beta Carotene</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Beta Carotene</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,9 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 <p><a href="{{ '/drugs/beta-carotene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Artificial Intelligence (AI)-Driven Retinal Screening Device](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm1BY3d5eGFrS1RSdTJYNkdwd01YUDNMQkJ5cHNLV1JKOXBkSlBVbjIydm1kZE8wYTFwc1Z1Y2VDWlFfZUxfVGx3RXVkOXBsTkcxN0l4NFFpcmt5MXBoeE9oNUZVMEVUMUxnRlRXSlZjaXg1SjBCWmh1cUQtS0FhMkdZZWdUNWMwU3pSV0JiSzFhNDRPWGZfX1VB?oc=5)
-
-2026-10-21 <span class="news-indication-tag">diabetic retinopathy</span>
-
-Source: [openPR.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVm1BY3d5eGFrS1RSdTJYNkdwd01YUDNMQkJ5cHNLV1JKOXBkSlBVbjIydm1kZE8wYTFwc1Z1Y2VDWlFfZUxfVGx3RXVkOXBsTkcxN0l4NFFpcmt5MXBoeE9oNUZVMEVUMUxnRlRXSlZjaXg1SjBCWmh1cUQtS0FhMkdZZWdUNWMwU3pSV0JiSzFhNDRPWGZfX1VB?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

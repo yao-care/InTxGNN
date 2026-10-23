@@ -14,7 +14,7 @@ permalink: /news/chlorzoxazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorzoxazone?">
-<strong>Chlorzoxazone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Chlorzoxazone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 <p><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026 - European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
+
+2026-10-22 <span class="news-indication-tag">RA</span>
+
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
+
+---
 
 
 <div class="disclaimer">

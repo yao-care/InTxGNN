@@ -14,7 +14,7 @@ permalink: /news/nadifloxacin/
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Bharat Biotech announces equitable pricing for malaria vaccine - Awaz The Voice](https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1ac1J6NVpHQmM4VjVZOGFGZXJMWC12VjVZWnBMb2pzeVlLNTk1MUhWenM1Ym5fa2Z0TmtNeDZIMFZWYjNpX3lWbml1cWhMRHNPM3VWRVpXdktiRmRkYlFfQjJlZXFKRUF0bnl4Y2tkU0xOcjNwSDlGc2RJTTNULTFhZko5T3RPSXFVNHFYNWZEbWZsWXVzMW5aOFFmZVFLYllpaHRDcXROLUxQd0RaQW9n?oc=5)
+
+2026-10-23 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMisgFBVV95cUxPME1ac1J6NVpHQmM4VjVZOGFGZXJMWC12VjVZWnBMb2pzeVlLNTk1MUhWenM1Ym5fa2Z0TmtNeDZIMFZWYjNpX3lWbml1cWhMRHNPM3VWRVpXdktiRmRkYlFfQjJlZXFKRUF0bnl4Y2tkU0xOcjNwSDlGc2RJTTNULTFhZko5T3RPSXFVNHFYNWZEbWZsWXVzMW5aOFFmZVFLYllpaHRDcXROLUxQd0RaQW9n?oc=5)
+
+---
 
 
 <div class="disclaimer">

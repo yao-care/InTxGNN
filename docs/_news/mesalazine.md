@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 
 ## Related News (1)
 
-### [Assessing Nonsurgical Options for Knee Osteoarthritis](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5)
+### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026 - European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
 
-2026-10-22 <span class="news-indication-tag">osteoarthritis</span>
+2026-10-22 <span class="news-indication-tag">RA</span>
 
-Source: [DocWireNews](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
 
 ---
 

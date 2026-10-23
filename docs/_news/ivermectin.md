@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [ADHD Drugs May Alleviate Menopausal Brain Fog - MedPage Today](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubU16XzRFMVpEN1RUUnN3a2pDb2w5bm1HOTZYZWJhTkR4eG9LaElQS0dCcVhfRllEenFUXzlXMkVaUlVjTkpUR01QQko0WmxHVV9XeDZXNklONWxXMjF4WXFpMzhHQQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBubU16XzRFMVpEN1RUUnN3a2pDb2w5bm1HOTZYZWJhTkR4eG9LaElQS0dCcVhfRllEenFUXzlXMkVaUlVjTkpUR01QQko0WmxHVV9XeDZXNklONWxXMjF4WXFpMzhHQQ?oc=5)
-
----
-
-### [Survey: 7 in 10 women didn’t know their symptoms were perimenopause - Griffin Daily News](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTFA0X0R5dzdsM0FETWg2TDVRY1pJTFRkTExHQkJjUl9od0wwWE81aURUQUwxbE5oMGRUZVpUX2pObUpoYWE0WDNvUV9Pdjd3bUtjaktMdkpyaHJDdk5vT3BDTVJGekMtVVpxSVdjeUZSck9xUHo5d2paSC1LQjJPUTVhdU9vZlcwd0dXRlZGMFRCQjdHak1jdllNTnFBUG1nS2pEZWZ5TG1JdlpYWmNjc1Y1c3UwY194Ui1iNVdnSHpiM25GaDhoemN1MDlRSkZyekx5b2ZsdFE5ZVk5LWFZLW9XWHFXWnFoY1VJZGxLZ3lLanI0eWo5dHRrOA?oc=5)
+### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
 
 2026-10-21 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Griffin Daily News](https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTFA0X0R5dzdsM0FETWg2TDVRY1pJTFRkTExHQkJjUl9od0wwWE81aURUQUwxbE5oMGRUZVpUX2pObUpoYWE0WDNvUV9Pdjd3bUtjaktMdkpyaHJDdk5vT3BDTVJGekMtVVpxSVdjeUZSck9xUHo5d2paSC1LQjJPUTVhdU9vZlcwd0dXRlZGMFRCQjdHak1jdllNTnFBUG1nS2pEZWZ5TG1JdlpYWmNjc1Y1c3UwY194Ui1iNVdnSHpiM25GaDhoemN1MDlRSkZyekx5b2ZsdFE5ZVk5LWFZLW9XWHFXWnFoY1VJZGxLZ3lLanI0eWo5dHRrOA?oc=5)
+Source: [DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
 
 ---
 

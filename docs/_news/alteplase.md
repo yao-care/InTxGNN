@@ -14,7 +14,7 @@ permalink: /news/alteplase/
 ---
 
 <p class="key-answer" data-question="What news is there about Alteplase?">
-<strong>Alteplase</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Alteplase</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Weight Loss In Middle Age May Help Restore Heart Health, Research Finds - Times Now](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajI3eHJWRWhRckNkNjhKN242ajBlRHFTYXA0WkNQeXBSSG5SUE0xd0lPaHg4a3owQVFvaWxUaWlzU0lFM19GNDVNZDVteWF3RnRycUJBM0l0WjB4NFpZZ1BwRG94THlmc0ZJN3hpd1JWcm9VU3phOWpfVXdwcDlxcWdHQVpIYkxUMWtOVlhzTTh5clI0eFpiZk9aOFd5MnV1cURyOUpPa0NKSXBUMUpmeHZYRnZmUmxZQjF0YXJyQ3g2UdIBxwFBVV95cUxObW9obURZbGRZSFYySnhWVFphYzZVZkplSDVYdG1LWFRqZEdmXzdxQWRJTEFvRXV5X2JCYjJ2dWUyaG1qVkZvcl95UjZ5QVF0dV8yejg2U3NzOGt0eUJYb2lPamJHTEpoSHdEN2xHbGlGeHczaG1RMVhIUHZwTGdOSjJYRnFYVnl3TEMwZHBPV0tTeFdWZE9HVC1tQW0wYVQwRWE2Q1pZNG9sdElURWQ2bzBJVGFycHFHODZVb2JXYXBhZUVWWUNZ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajI3eHJWRWhRckNkNjhKN242ajBlRHFTYXA0WkNQeXBSSG5SUE0xd0lPaHg4a3owQVFvaWxUaWlzU0lFM19GNDVNZDVteWF3RnRycUJBM0l0WjB4NFpZZ1BwRG94THlmc0ZJN3hpd1JWcm9VU3phOWpfVXdwcDlxcWdHQVpIYkxUMWtOVlhzTTh5clI0eFpiZk9aOFd5MnV1cURyOUpPa0NKSXBUMUpmeHZYRnZmUmxZQjF0YXJyQ3g2UdIBxwFBVV95cUxObW9obURZbGRZSFYySnhWVFphYzZVZkplSDVYdG1LWFRqZEdmXzdxQWRJTEFvRXV5X2JCYjJ2dWUyaG1qVkZvcl95UjZ5QVF0dV8yejg2U3NzOGt0eUJYb2lPamJHTEpoSHdEN2xHbGlGeHczaG1RMVhIUHZwTGdOSjJYRnFYVnl3TEMwZHBPV0tTeFdWZE9HVC1tQW0wYVQwRWE2Q1pZNG9sdElURWQ2bzBJVGFycHFHODZVb2JXYXBhZUVWWUNZ?oc=5)
+
+---
 
 ### [AI Scan Of 101,243 Patients Links Brown Fat To Fewer Diagnoses - Dr. Axe](https://news.google.com/rss/articles/CBMib0FVX3lxTE44RUJfT0xyTWxLSkR6T2RtZ3FqaU5XdGhDM04zY0c1dHNoZzRFYWFjMW40VUNzX3RCR09xbzJmRVNFZ3BlS2toaDhSbUxIUXBVN1UxM1BCMGU1dGZRQ0NRZ2hJVGdqcGFDTG9OaWRJRQ?oc=5)
 

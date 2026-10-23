@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -57,7 +57,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Weight Loss In Middle Age May Help Restore Heart Health, Research Finds - Times Now](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajI3eHJWRWhRckNkNjhKN242ajBlRHFTYXA0WkNQeXBSSG5SUE0xd0lPaHg4a3owQVFvaWxUaWlzU0lFM19GNDVNZDVteWF3RnRycUJBM0l0WjB4NFpZZ1BwRG94THlmc0ZJN3hpd1JWcm9VU3phOWpfVXdwcDlxcWdHQVpIYkxUMWtOVlhzTTh5clI0eFpiZk9aOFd5MnV1cURyOUpPa0NKSXBUMUpmeHZYRnZmUmxZQjF0YXJyQ3g2UdIBxwFBVV95cUxObW9obURZbGRZSFYySnhWVFphYzZVZkplSDVYdG1LWFRqZEdmXzdxQWRJTEFvRXV5X2JCYjJ2dWUyaG1qVkZvcl95UjZ5QVF0dV8yejg2U3NzOGt0eUJYb2lPamJHTEpoSHdEN2xHbGlGeHczaG1RMVhIUHZwTGdOSjJYRnFYVnl3TEMwZHBPV0tTeFdWZE9HVC1tQW0wYVQwRWE2Q1pZNG9sdElURWQ2bzBJVGFycHFHODZVb2JXYXBhZUVWWUNZ?oc=5)
+
+2026-10-22
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajI3eHJWRWhRckNkNjhKN242ajBlRHFTYXA0WkNQeXBSSG5SUE0xd0lPaHg4a3owQVFvaWxUaWlzU0lFM19GNDVNZDVteWF3RnRycUJBM0l0WjB4NFpZZ1BwRG94THlmc0ZJN3hpd1JWcm9VU3phOWpfVXdwcDlxcWdHQVpIYkxUMWtOVlhzTTh5clI0eFpiZk9aOFd5MnV1cURyOUpPa0NKSXBUMUpmeHZYRnZmUmxZQjF0YXJyQ3g2UdIBxwFBVV95cUxObW9obURZbGRZSFYySnhWVFphYzZVZkplSDVYdG1LWFRqZEdmXzdxQWRJTEFvRXV5X2JCYjJ2dWUyaG1qVkZvcl95UjZ5QVF0dV8yejg2U3NzOGt0eUJYb2lPamJHTEpoSHdEN2xHbGlGeHczaG1RMVhIUHZwTGdOSjJYRnFYVnl3TEMwZHBPV0tTeFdWZE9HVC1tQW0wYVQwRWE2Q1pZNG9sdElURWQ2bzBJVGFycHFHODZVb2JXYXBhZUVWWUNZ?oc=5)
+
+---
 
 ### [AI Scan Of 101,243 Patients Links Brown Fat To Fewer Diagnoses - Dr. Axe](https://news.google.com/rss/articles/CBMib0FVX3lxTE44RUJfT0xyTWxLSkR6T2RtZ3FqaU5XdGhDM04zY0c1dHNoZzRFYWFjMW40VUNzX3RCR09xbzJmRVNFZ3BlS2toaDhSbUxIUXBVN1UxM1BCMGU1dGZRQ0NRZ2hJVGdqcGFDTG9OaWRJRQ?oc=5)
 
