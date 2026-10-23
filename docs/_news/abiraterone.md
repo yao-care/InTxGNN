@@ -14,7 +14,7 @@ permalink: /news/abiraterone/
 ---
 
 <p class="key-answer" data-question="What news is there about Abiraterone?">
-<strong>Abiraterone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Abiraterone</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,23 @@ This page combines the AI-predicted indications for Abiraterone with the latest 
 <p><a href="{{ '/drugs/abiraterone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [Genomic Test Predicts Which Prostate Cancer Patients Benefit From Abiraterone Therapy - Clinical Lab Products](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGJscm9aVldxaGxUYmJFYjdiemtlaEYtVDg5aHNDU2lTUks3cURwMHFlR0F3eTdyd1hZVjJ0T2JWZGJibm1fSWpoSlV5S3Z0bGpqazdFaDdaQmc2MW42cFQ5UlNrMVlXbkI2YzlnNkk2YzZrWW9OMUNMWkx3SDJCRzNNVVdpNFpyRjd1MWJFblgwOFFlYkhQMXBMeV9IUlFXc2JtUFFfSi1BamtFUU0zSkw5MEFJdklKTnFYNDdpelBYajg?oc=5)
+
+2026-10-23 <span class="news-drug-tag">Abiraterone</span> <span class="news-indication-tag">cancer</span>
+
+Source: [Clinical Lab Products](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGJscm9aVldxaGxUYmJFYjdiemtlaEYtVDg5aHNDU2lTUks3cURwMHFlR0F3eTdyd1hZVjJ0T2JWZGJibm1fSWpoSlV5S3Z0bGpqazdFaDdaQmc2MW42cFQ5UlNrMVlXbkI2YzlnNkk2YzZrWW9OMUNMWkx3SDJCRzNNVVdpNFpyRjd1MWJFblgwOFFlYkhQMXBMeV9IUlFXc2JtUFFfSi1BamtFUU0zSkw5MEFJdklKTnFYNDdpelBYajg?oc=5)
+
+---
+
+### [African Union calls for urgent action to contain Ebola outbreak across Africa - News On AIR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRk0wRG5NMXlUam5CZUQ0WjhOSXpxbWlBTFY1LWtqbG81Y0lIVHhOcE9ZMG5sZkoxak5sLUdCUUZqMklVeThjWjB6NGVDU0lyM0xmSG1mRWh2MUxDWXhicmVnWk1aOTNjQi10dkJudU9ybzhWMUpTS3JQLUZ1cHladXFzVGFwYXZYT0Y0V01sUkdZeXdaeFoxQUE4TGJiaFpLOExidW5B?oc=5)
+
+2026-10-23 <span class="news-indication-tag">RA</span>
+
+Source: [News On AIR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRk0wRG5NMXlUam5CZUQ0WjhOSXpxbWlBTFY1LWtqbG81Y0lIVHhOcE9ZMG5sZkoxak5sLUdCUUZqMklVeThjWjB6NGVDU0lyM0xmSG1mRWh2MUxDWXhicmVnWk1aOTNjQi10dkJudU9ybzhWMUpTS3JQLUZ1cHladXFzVGFwYXZYT0Y0V01sUkdZeXdaeFoxQUE4TGJiaFpLOExidW5B?oc=5)
+
+---
 
 ### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026 - European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
 

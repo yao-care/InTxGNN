@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research - DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
-
-2026-10-21 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [DD India](https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PTmx6WkFoX0paWm56ODhEX0VBWGxPZ0pXYXkyOS1WREM3eG1QNmdmSGU3cU16NVM5WjZEYlpodzB6M2k4Y2hURWl2aUlobHdHaDY2RFQxb1ljVnlDY0RhUUtBYXh0UnVENDM1VE1HT1M5YlRzdmp5X0c4am1zemVWUW9BclRyTFRmVlJseUtFVlJNLUNOYkhNNnhiM3hISjVBeXlPRkQ2SG1yNXlCajFhb3h5X1E?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

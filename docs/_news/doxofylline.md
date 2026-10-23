@@ -14,7 +14,7 @@ permalink: /news/doxofylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Doxofylline?">
-<strong>Doxofylline</strong> currently has <strong>0 news articles</strong>, with 10 predicted indications.
+<strong>Doxofylline</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,15 @@ This page combines the AI-predicted indications for Doxofylline with the latest 
 <p><a href="{{ '/drugs/doxofylline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Can fatty liver turn into cancer? What you need to know - India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

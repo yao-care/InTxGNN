@@ -14,7 +14,7 @@ permalink: /news/cycloserine/
 ---
 
 <p class="key-answer" data-question="What news is there about Cycloserine?">
-<strong>Cycloserine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Cycloserine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Cycloserine with the latest 
 <p><a href="{{ '/drugs/cycloserine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Cycloserine-Induced Psychosis in a Multidrug-Resistant Tuberculosis Patient in Jeddah, Saudi Arabia: A Case Report - The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGxfR0NWLWMtbGFpalpDVkxLZ3ZpVWNUMVBXbVo1U3FscFd3VlB5YUVkWVhoYjg5emNiLUw3dmI0eWtZNGt2VjBUY0t4TnZhV3N6eTUxdVZWa3pGSlpkSlJrTWw1cktDc1h1Rm5Ga1dIZVNnRFNVaXZCMUhhWV9JUVdQZ2xlUWgxc2wzdUVqX3lpeEhNSEtRTEtEamkyZ202TzhhTG5HMW5WOGR0MjNPNThVWW5paXh6VkdhWDk3ak5TR1ktOTVzS1lNRHRlalRRMEZjLUVDakVVd1prUGRVV0VtSmRIZw?oc=5)
-
-2026-10-23 <span class="news-drug-tag">Cycloserine</span> <span class="news-drug-tag">CYCLOSERINE</span>
-
-Source: [The Cureus Journal of Medical Science](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGxfR0NWLWMtbGFpalpDVkxLZ3ZpVWNUMVBXbVo1U3FscFd3VlB5YUVkWVhoYjg5emNiLUw3dmI0eWtZNGt2VjBUY0t4TnZhV3N6eTUxdVZWa3pGSlpkSlJrTWw1cktDc1h1Rm5Ga1dIZVNnRFNVaXZCMUhhWV9JUVdQZ2xlUWgxc2wzdUVqX3lpeEhNSEtRTEtEamkyZ202TzhhTG5HMW5WOGR0MjNPNThVWW5paXh6VkdhWDk3ak5TR1ktOTVzS1lNRHRlalRRMEZjLUVDakVVd1prUGRVV0VtSmRIZw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

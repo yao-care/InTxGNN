@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,29 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [African Union calls for urgent action to contain Ebola outbreak across Africa - News On AIR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRk0wRG5NMXlUam5CZUQ0WjhOSXpxbWlBTFY1LWtqbG81Y0lIVHhOcE9ZMG5sZkoxak5sLUdCUUZqMklVeThjWjB6NGVDU0lyM0xmSG1mRWh2MUxDWXhicmVnWk1aOTNjQi10dkJudU9ybzhWMUpTS3JQLUZ1cHladXFzVGFwYXZYT0Y0V01sUkdZeXdaeFoxQUE4TGJiaFpLOExidW5B?oc=5)
+
+2026-10-23 <span class="news-indication-tag">RA</span>
+
+Source: [News On AIR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPRk0wRG5NMXlUam5CZUQ0WjhOSXpxbWlBTFY1LWtqbG81Y0lIVHhOcE9ZMG5sZkoxak5sLUdCUUZqMklVeThjWjB6NGVDU0lyM0xmSG1mRWh2MUxDWXhicmVnWk1aOTNjQi10dkJudU9ybzhWMUpTS3JQLUZ1cHladXFzVGFwYXZYT0Y0V01sUkdZeXdaeFoxQUE4TGJiaFpLOExidW5B?oc=5)
+
+---
 
 ### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026 - European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
 
 2026-10-22 <span class="news-indication-tag">RA</span>
 
 Source: [European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
+
+---
+
+### [Can fatty liver turn into cancer? What you need to know - India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
 
 ---
 
