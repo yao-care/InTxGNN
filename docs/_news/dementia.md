@@ -3,7 +3,7 @@ layout: default
 title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 1 articles, 8 related drugs."
+description: "Health news about dementia. 2 articles, 8 related drugs."
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<strong>dementia</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Psychiatry Advisor](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEpsd1oxeVFkUU5iR3pLMWc3N1A4aTVxRUJBcEFyUmxRcURTMUx0MkhwU25PVE1CNngtR3JaVWd0Y01QVU56d3ZONXBfUmRocUZPNS1BS3duWHlKRUVLTm5GZDViMElNNjJHUVlad1NfcDV5RzdJTWpSb21jXzJJQ2ZpaU5tdUNWZUIxZGJMdThGaWhsODlqblFBT2RWOTR4U2xmSFlVVzAwSlQ4?oc=5)
 
 2026-10-23
 
 Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEpsd1oxeVFkUU5iR3pLMWc3N1A4aTVxRUJBcEFyUmxRcURTMUx0MkhwU25PVE1CNngtR3JaVWd0Y01QVU56d3ZONXBfUmRocUZPNS1BS3duWHlKRUVLTm5GZDViMElNNjJHUVlad1NfcDV5RzdJTWpSb21jXzJJQ2ZpaU5tdUNWZUIxZGJMdThGaWhsODlqblFBT2RWOTR4U2xmSFlVVzAwSlQ4?oc=5)
+
+---
+
+### [Brain fog at menopause: Separating normal change from dementia - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVFBNXNOT1R2VVlJMmpvdm5PY0hxNlFnVDRvaDRuRXNhN2N5TTRGUDBvelZ1N3Y2NlNiTzRfcjRVXzZYdG1LWWVlU2FQVm00Wm5qVlZKT0ZXdUk1OExWclRzRURxOXQzMmdhSUNfa2dLTUV5bGRUSEJkTlF3WFFpN1hJbjVfdUp6UGNuZXp2alluZjFwREpUOWZmbjUweGVDcHc?oc=5)
+
+2026-10-22
+
+Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVFBNXNOT1R2VVlJMmpvdm5PY0hxNlFnVDRvaDRuRXNhN2N5TTRGUDBvelZ1N3Y2NlNiTzRfcjRVXzZYdG1LWWVlU2FQVm00Wm5qVlZKT0ZXdUk1OExWclRzRURxOXQzMmdhSUNfa2dLTUV5bGRUSEJkTlF3WFFpN1hJbjVfdUp6UGNuZXp2alluZjFwREpUOWZmbjUweGVDcHc?oc=5)
 
 ---
 

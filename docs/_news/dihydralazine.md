@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Dihydralazine with the lates
 
 ## Related News (1)
 
-### [Can fatty liver turn into cancer? What you need to know - India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
+### [Key Drivers of Mortality in MASLD](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
 
-2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+2026-10-23 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOalJxanpXOVV1dTJ6RUktTVRpbzlNN0ZrWUdmdVhFbWlXb0JMMnlmSWw5SHMtUkctZDhBMXptQTJNTGNWN2U2UDVEbnVSQ0VraGxBWE53cWJsdGx3OU1WX0k2UTJJdFJ1RkFNRmU5UmZOejRMTXZkX3l6U01RR3VHMEdsMW1OUXJlTTFvS2s0Sk02MDlfSWloM2Etc2VPU08yLU5KdllJUmlFSS1BS05v0gG0AUFVX3lxTE9POVhHaWIxdFNwY3R1UjJuS3l6OG9vUExxeklmUTdZTzh3YzhUV21CSVpMN3QydkRXMl9lM2tjQ1IyNXptWGxiY05CU0ZXOGNYdk04SFdiUlpSTmNFalowS083VkdOQ0dmbDFJcnBudk10LVZabU1fTGFWTmQ0aXFxQmkwWUJSaU5vQVIxcUhjMFBNdUlDOGNRS08wSWtJZ1lwS1ZRek5rR2JXNjVGdDlIbFdTNQ?oc=5)
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
 
 ---
 

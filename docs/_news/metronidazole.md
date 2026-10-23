@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Brain fog at menopause: Separating normal change from dementia - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVFBNXNOT1R2VVlJMmpvdm5PY0hxNlFnVDRvaDRuRXNhN2N5TTRGUDBvelZ1N3Y2NlNiTzRfcjRVXzZYdG1LWWVlU2FQVm00Wm5qVlZKT0ZXdUk1OExWclRzRURxOXQzMmdhSUNfa2dLTUV5bGRUSEJkTlF3WFFpN1hJbjVfdUp6UGNuZXp2alluZjFwREpUOWZmbjUweGVDcHc?oc=5)
+
+2026-10-22 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVFBNXNOT1R2VVlJMmpvdm5PY0hxNlFnVDRvaDRuRXNhN2N5TTRGUDBvelZ1N3Y2NlNiTzRfcjRVXzZYdG1LWWVlU2FQVm00Wm5qVlZKT0ZXdUk1OExWclRzRURxOXQzMmdhSUNfa2dLTUV5bGRUSEJkTlF3WFFpN1hJbjVfdUp6UGNuZXp2alluZjFwREpUOWZmbjUweGVDcHc?oc=5)
+
+---
 
 
 <div class="disclaimer">

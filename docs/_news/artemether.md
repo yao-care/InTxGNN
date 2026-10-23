@@ -14,7 +14,7 @@ permalink: /news/artemether/
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Artemether</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Bharat Biotech announces equitable pricing for Malaria vaccine](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFRKUWZOdzZ0LTRFNDFYZWwyejY5Tl9YRTd0Wml6VG1SVkNpWGs3enU3aHhBSG9fNWswYjd2TWlidDVvV3g2S2RjT1g0ZUdHR2NmWGk5dklfMTJVajRCMXEtZjk5U2QxbzBGQWhFMUE5QjV6TGdEV3A0ZEo5dHF5cFFNZ3d3Z285TXFIMGlkLWJvd195di1POUhKaE1jWXIxMFdpN2dseXhlYjZiTzVTd0dsVkhSd2pJTTluNFE5V1JuUUpiZHfSAcwBQVVfeXFMT3ZfM3pjWlFZVmtDWHZNUkEtTWVYVTNSYURGanN1aXJVTjNzSDVleDE3Nm5WbkRiRndrNm8xd0Q3LWVsZGZYWEJZZ2V3WkpIVS1KbVBxTHlJUjlnUXlBR29rNkl3N3pNX0VUS0FlOElsRTNGVjExVlAyU0JXSEtBaHFJYWdBY2FfUWV4c1ltLTZic1hqYUxaNDNJcjJzMXdfcGNtb2Q3RlM3V0I2NDI1ZU9URnphM3FZZUJZeWlhcXhwTXIzbUV1VDF2ZkVw?oc=5)
+### [Bharat Biotech slashes malaria vaccine price on GAVI-backed pact with UNICEF - The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX2VDMk90S2FBbEJTeTFTT0FtM2M5b3JuRnB3RXpKcnpZNkdSZ3dvTnZEWUhGWU51RGdMX1ViUm5Cc1VzLW5BN2tKQU92aWszMlRQeWN2WFFibVc0cEFrM0tiNmphR2RDRWxpVnBGTDA5M0FZeHdwVlpDazJVT3diMnVfM3gzM2hZQk9GWmNLb2ZxQWhfZmNGXzZUZ01QWHFCc2dUVkpFMWwwTXh5YUJ6MVlYeUYyYVAzRTA4TG9HR0tDTi1fRGJQYi0wS3RWTkVBVzlpTFNGb3U1cG_SAeIBQVVfeXFMUHlIb2FzbU5LSzY3VzZ1MFI5aGRFODJTRFViVWFGVGFaWE8tck9mc2cwSE5BdXR0RFpaZWxYNXFldXR3c2xwTVNBd01CLU45d25wVHRodTNIQ1ZEYkxOQkdyM1BTS3hmUXozLUtGSEpsSnVLVV8zZHBBcDdpWEV3dE1EQVZUZHZsc01XSVFsaEZfV2NqRHF0LUdHWDJLdmJ6SENwQW4yaHo1ZFFuanpzMy13Nkw1RGFTV2ZKRmdzTTN6Z0RFTXVIV3dGdUNhYWctOXRyQXJQeGRmX09NLVBzXzBadw?oc=5)
 
 2026-10-23 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
 
-Source: [BusinessLine](https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFRKUWZOdzZ0LTRFNDFYZWwyejY5Tl9YRTd0Wml6VG1SVkNpWGs3enU3aHhBSG9fNWswYjd2TWlidDVvV3g2S2RjT1g0ZUdHR2NmWGk5dklfMTJVajRCMXEtZjk5U2QxbzBGQWhFMUE5QjV6TGdEV3A0ZEo5dHF5cFFNZ3d3Z285TXFIMGlkLWJvd195di1POUhKaE1jWXIxMFdpN2dseXhlYjZiTzVTd0dsVkhSd2pJTTluNFE5V1JuUUpiZHfSAcwBQVVfeXFMT3ZfM3pjWlFZVmtDWHZNUkEtTWVYVTNSYURGanN1aXJVTjNzSDVleDE3Nm5WbkRiRndrNm8xd0Q3LWVsZGZYWEJZZ2V3WkpIVS1KbVBxTHlJUjlnUXlBR29rNkl3N3pNX0VUS0FlOElsRTNGVjExVlAyU0JXSEtBaHFJYWdBY2FfUWV4c1ltLTZic1hqYUxaNDNJcjJzMXdfcGNtb2Q3RlM3V0I2NDI1ZU9URnphM3FZZUJZeWlhcXhwTXIzbUV1VDF2ZkVw?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX2VDMk90S2FBbEJTeTFTT0FtM2M5b3JuRnB3RXpKcnpZNkdSZ3dvTnZEWUhGWU51RGdMX1ViUm5Cc1VzLW5BN2tKQU92aWszMlRQeWN2WFFibVc0cEFrM0tiNmphR2RDRWxpVnBGTDA5M0FZeHdwVlpDazJVT3diMnVfM3gzM2hZQk9GWmNLb2ZxQWhfZmNGXzZUZ01QWHFCc2dUVkpFMWwwTXh5YUJ6MVlYeUYyYVAzRTA4TG9HR0tDTi1fRGJQYi0wS3RWTkVBVzlpTFNGb3U1cG_SAeIBQVVfeXFMUHlIb2FzbU5LSzY3VzZ1MFI5aGRFODJTRFViVWFGVGFaWE8tck9mc2cwSE5BdXR0RFpaZWxYNXFldXR3c2xwTVNBd01CLU45d25wVHRodTNIQ1ZEYkxOQkdyM1BTS3hmUXozLUtGSEpsSnVLVV8zZHBBcDdpWEV3dE1EQVZUZHZsc01XSVFsaEZfV2NqRHF0LUdHWDJLdmJ6SENwQW4yaHo1ZFFuanpzMy13Nkw1RGFTV2ZKRmdzTTN6Z0RFTXVIV3dGdUNhYWctOXRyQXJQeGRmX09NLVBzXzBadw?oc=5)
+
+---
+
+### [Malaria Parasite Caught in the Act of Breaking and Entering - Quanta Magazine](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWhqckRwaUFUQ1pQX2pBTEYwcnFUMk5TNnVpV2JGZnZ6TGNrY2lKSnRUNkFuem9WdDA2bEJTY1N2aXpKSmNqMWkydXpqN2ZKY0JFTC1xN2x4dkhyZDJkZDlyOFEtNTFfT29UWE51dXI2RVRrOVRhb3BYVGJtb2tPSzluclM5QmNsV3dUYVNPcUdNZHFPbFAxT0RUQmFSaUpWZFE?oc=5)
+
+2026-10-23 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [Quanta Magazine](https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWhqckRwaUFUQ1pQX2pBTEYwcnFUMk5TNnVpV2JGZnZ6TGNrY2lKSnRUNkFuem9WdDA2bEJTY1N2aXpKSmNqMWkydXpqN2ZKY0JFTC1xN2x4dkhyZDJkZDlyOFEtNTFfT29UWE51dXI2RVRrOVRhb3BYVGJtb2tPSzluclM5QmNsV3dUYVNPcUdNZHFPbFAxT0RUQmFSaUpWZFE?oc=5)
 
 ---
 
