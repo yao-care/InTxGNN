@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Paclitaxel?">
-<strong>Paclitaxel</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Paclitaxel</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Paclitaxel with the latest h
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Discovered: Hidden weaknesses in microtubules stabilized by cancer drug paclitaxel](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
+
+2026-10-22 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [ummid.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

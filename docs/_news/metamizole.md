@@ -14,7 +14,7 @@ permalink: /news/metamizole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metamizole?">
-<strong>Metamizole</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Metamizole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Metamizole with the latest h
 <p><a href="{{ '/drugs/metamizole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Shubham Pant: Are KRAS-Targeted Therapies Changing the Treatment Landscape?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

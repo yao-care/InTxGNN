@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Montelukast</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Evaluating Environmental Hazards of Aged Biodegradable Plastics in Aquatic Life](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
-
-2026-10-22 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">dama</span>
-
-Source: [AZoCleantech](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

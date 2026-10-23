@@ -14,7 +14,7 @@ permalink: /news/levamisole/
 ---
 
 <p class="key-answer" data-question="What news is there about Levamisole?">
-<strong>Levamisole</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Levamisole</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,29 +32,21 @@ This page combines the AI-predicted indications for Levamisole with the latest h
 <p><a href="{{ '/drugs/levamisole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
+
+### [Discovered: Hidden weaknesses in microtubules stabilized by cancer drug paclitaxel](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
+
+2026-10-22 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
+
+Source: [ummid.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
+
+---
 
 ### [A selfie as a health check? AI detects health risks and biological age from a facial photo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGJ1NUFMNldzRG1EUUdWR0hjNzJpWkZ1SmdXTTlHNmhQQmhZSjFVdVNRZFNyMjhFS29mRlFRczNrZnpuUGFQSGR5b055NV9XOVhabW41TzFyckFWY1IzcHhoY1U4M2xWU3k0TEtLWXQyblJBV3liSk1vVGQwN0t5ODhheVNPSFU5YWRZN3Bqczdlb01uSFhVRDgteVRDcUtsS3VjWHNCbWlnMHotbldDTjNIVkp2eURDX0pTa1FFX1pYZ1VTcTlXdzhnQ1p2dkE?oc=5)
 
 2026-10-22 <span class="news-indication-tag">cancer</span>
 
 Source: [Notebookcheck](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGJ1NUFMNldzRG1EUUdWR0hjNzJpWkZ1SmdXTTlHNmhQQmhZSjFVdVNRZFNyMjhFS29mRlFRczNrZnpuUGFQSGR5b055NV9XOVhabW41TzFyckFWY1IzcHhoY1U4M2xWU3k0TEtLWXQyblJBV3liSk1vVGQwN0t5ODhheVNPSFU5YWRZN3Bqczdlb01uSFhVRDgteVRDcUtsS3VjWHNCbWlnMHotbldDTjNIVkp2eURDX0pTa1FFX1pYZ1VTcTlXdzhnQ1p2dkE?oc=5)
-
----
-
-### [Breast Cancer’s Transformation From Terminal to Manageable A Healthy Dialogue With Nancy E. Davidson](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUFEzcjl6OFhDcEF1Z2NPTVZVUGtJNXp0MHBqSUlxY2k3ajN1ZGx6Y044d3BZU096Q25LSVhSQjl6VWxpeVhNT2FyWTBURU8yTnV0V1lqcVBpbERIOWJmRWlFT1hGRWc1?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [JAMA](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GUFEzcjl6OFhDcEF1Z2NPTVZVUGtJNXp0MHBqSUlxY2k3ajN1ZGx6Y044d3BZU096Q25LSVhSQjl6VWxpeVhNT2FyWTBURU8yTnV0V1lqcVBpbERIOWJmRWlFT1hGRWc1?oc=5)
-
----
-
-### [Shubham Pant: Are KRAS-Targeted Therapies Changing the Treatment Landscape?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5)
 
 ---
 
@@ -66,11 +58,11 @@ Source: [Oncology Central](https://news.google.com/rss/articles/CBMizgFBVV95cUxO
 
 ---
 
-### [Not every breast cancer begins with a lump: Check your skin, says doctor - The Times of India](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXNKZDdieEVWeTBuZF9oTUdtVk0zYXo5NnNFeGZZYVdyNlpDXzJHbnJLOVlta3ZWaU8tNUI5Xy10cV9vQVY2eWxhWGZGNDU2S19EZHZXSnlQNDI1QkRHa01OTnpQTnJoMW5OQ012QzNPa21YMlc4ZHdfV3Z5eGQyZXJpWGlXYzBlUWxDWlhyQVRUcWg2MWVkNU4ta1FoLXN6NnlZbkE2SjQ3cEt5VFJLY2pnV1FWa0RkaUYydUUwVzhoN2xrNnJSZkdfZFIyZ2Y5eWNia09n?oc=5)
+### [Changes in breast shape and skin to swelling in armpits: Experts share the lesser-known symptoms of breast cancer beyond the lump | Health - Hindustan Times](https://news.google.com/rss/articles/CBMiowJBVV95cUxPU3JqQ3d4alRFbFZLOGF6QWVGQXF3Rm4wTFRXcG96OUd3UlppLUJSOTloZng3ZGRlak9UN3FLUV9ybk1tMTN2NV9ocHVBVU1Zb0Y1TnBVMUE4Sm02UkNFVm9YdmVTUXpVRUFqU09DS3FIQUFGUEE3OXlUV1c3aFRQN3FaUElRZzNXYlpUZk51SXU1NjVBRmxNVTM1Yjc2MGpKOVZuOGlGdWM1T2U5N2d6ZDI1SVIxZzBlTC1SUnljOFl6UEJZOXJGOUZVU0E5TmtFdHp3RmZEMFpCQ29iNXFRRTI2ZGFaWU1HWF9ycXE0WkV0Um92b1QxZXFsWGNJSi1xMkoxN3AtMjByZTRMM2hlV1JyX0VxVWU0bjR3UzZPNTFyQ1nSAagCQVVfeXFMT0o3eWFEamM3V096bnhqRHQtQkxFRzFWcHRaNnRCVDF2NFdoc3pSakxOdnJlLWlfRm5Mdlh3RnA3LW43STQyczZyT3lKd0xHM3RDNXgxVXpJRzlXQU1jblN2WDlWSWFpeGY0Q1ZQUXFwbTVlQUR5RGUwbi1adUxjbUhSdGxwUXFUV2pZclJnMmp4SzFJdEszT3REVHl5TzlTR2R3V1FaQ1JGV0MwX0FubVptQlNJM0REVmY5YlNNMURheXhINlNuMXZBMXdJNzVKdnVjbXlRUzZCanZzbXBZaDFiRC1EckQ0WTRTVC04Smk5bVZxSmRBdklOMUcyRWdjVUZyNldydzdrU05fbVM5ZEVmOEI5T2RTVFkwTFY3cGhLalQ3aGZRajU?oc=5)
 
 2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXNKZDdieEVWeTBuZF9oTUdtVk0zYXo5NnNFeGZZYVdyNlpDXzJHbnJLOVlta3ZWaU8tNUI5Xy10cV9vQVY2eWxhWGZGNDU2S19EZHZXSnlQNDI1QkRHa01OTnpQTnJoMW5OQ012QzNPa21YMlc4ZHdfV3Z5eGQyZXJpWGlXYzBlUWxDWlhyQVRUcWg2MWVkNU4ta1FoLXN6NnlZbkE2SjQ3cEt5VFJLY2pnV1FWa0RkaUYydUUwVzhoN2xrNnJSZkdfZFIyZ2Y5eWNia09n?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMiowJBVV95cUxPU3JqQ3d4alRFbFZLOGF6QWVGQXF3Rm4wTFRXcG96OUd3UlppLUJSOTloZng3ZGRlak9UN3FLUV9ybk1tMTN2NV9ocHVBVU1Zb0Y1TnBVMUE4Sm02UkNFVm9YdmVTUXpVRUFqU09DS3FIQUFGUEE3OXlUV1c3aFRQN3FaUElRZzNXYlpUZk51SXU1NjVBRmxNVTM1Yjc2MGpKOVZuOGlGdWM1T2U5N2d6ZDI1SVIxZzBlTC1SUnljOFl6UEJZOXJGOUZVU0E5TmtFdHp3RmZEMFpCQ29iNXFRRTI2ZGFaWU1HWF9ycXE0WkV0Um92b1QxZXFsWGNJSi1xMkoxN3AtMjByZTRMM2hlV1JyX0VxVWU0bjR3UzZPNTFyQ1nSAagCQVVfeXFMT0o3eWFEamM3V096bnhqRHQtQkxFRzFWcHRaNnRCVDF2NFdoc3pSakxOdnJlLWlfRm5Mdlh3RnA3LW43STQyczZyT3lKd0xHM3RDNXgxVXpJRzlXQU1jblN2WDlWSWFpeGY0Q1ZQUXFwbTVlQUR5RGUwbi1adUxjbUhSdGxwUXFUV2pZclJnMmp4SzFJdEszT3REVHl5TzlTR2R3V1FaQ1JGV0MwX0FubVptQlNJM0REVmY5YlNNMURheXhINlNuMXZBMXdJNzVKdnVjbXlRUzZCanZzbXBZaDFiRC1EckQ0WTRTVC04Smk5bVZxSmRBdklOMUcyRWdjVUZyNldydzdrU05fbVM5ZEVmOEI5T2RTVFkwTFY3cGhLalQ3aGZRajU?oc=5)
 
 ---
 
@@ -98,19 +90,19 @@ Source: [India Today](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeGpje
 
 ---
 
-### [Breast Cancer Awareness Month: Does Being Physically Active Reduce Breast Cancer Risk?](https://news.google.com/rss/articles/CBMimwFBVV95cUxORWoxampmX01tbnZIeVpSNVVOT2dwNEtQU3pEWEg2UUpjbUptM0ZhX0w1a29VSFlzQnJ3MGM1aGJGUlB4aFVHbHBWRFMyeXNHUEtVSnhZbUJzRWpuWlQ4RndiRlVRM0hwM1lBTW1ybzFNNkFkSVFqVGhmMjdsOG5ubnFDMk5HamphaGI0MDJWQnZhLVZfdUdQOVhjdw?oc=5)
+### [Young Women and Breast Cancer: A Growing Concern - India News Network](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlpVT3VucVU3dUdZSXAyOGprVko2Tm1QYzNLNWIycmV3eHFYZTNua2xMejZFWnN4bjdWNnhmR291ZDJYY1dBZW13Si1BRXQ3Yzh2NXJMd09JMHFrNEY0cWpvOFViWGRENDJoVmdsVF91eVAtX0U5X19lbFQ4NkpvbWJpZEMweDU3VDFNT2xKYw?oc=5)
 
 2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Onlymyhealth](https://news.google.com/rss/articles/CBMimwFBVV95cUxORWoxampmX01tbnZIeVpSNVVOT2dwNEtQU3pEWEg2UUpjbUptM0ZhX0w1a29VSFlzQnJ3MGM1aGJGUlB4aFVHbHBWRFMyeXNHUEtVSnhZbUJzRWpuWlQ4RndiRlVRM0hwM1lBTW1ybzFNNkFkSVFqVGhmMjdsOG5ubnFDMk5HamphaGI0MDJWQnZhLVZfdUdQOVhjdw?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlpVT3VucVU3dUdZSXAyOGprVko2Tm1QYzNLNWIycmV3eHFYZTNua2xMejZFWnN4bjdWNnhmR291ZDJYY1dBZW13Si1BRXQ3Yzh2NXJMd09JMHFrNEY0cWpvOFViWGRENDJoVmdsVF91eVAtX0U5X19lbFQ4NkpvbWJpZEMweDU3VDFNT2xKYw?oc=5)
 
 ---
 
-### [Young Women and Breast Cancer: A Growing Concern - India News Network](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlpVT3VucVU3dUdZSXAyOGprVko2Tm1QYzNLNWIycmV3eHFYZTNua2xMejZFWnN4bjdWNnhmR291ZDJYY1dBZW13Si1BRXQ3Yzh2NXJMd09JMHFrNEY0cWpvOFViWGRENDJoVmdsVF91eVAtX0U5X19lbFQ4NkpvbWJpZEMweDU3VDFNT2xKYw?oc=5)
+### [Breast cancer risk factors: Surgeon explains what women can and cannot control, from genetics and hormones to lifestyle choices | Health - Hindustan Times](https://news.google.com/rss/articles/CBMinwJBVV95cUxQZGNGWDAzWmZPSnRoRHhjWTl2Z3Nya21aeVJ2d3FVYzlIR3ZTbklHX0c3Q3BMNUVRamU4QldXWHY2eTdObmgyZm5sekd0bThZeDItTERMdDZXZkpGSWN4U19NZ0pKMzcyU1lZYi1UUkhVRV9ldzNnUFRCX0p6Zy1rbm4tVkNfcFJZMWN0T3I4cTJZX3pqcmtiaFNHYThXdzd4Sk9FUTdIMVhCZDFEOTd0X1hyWWdlY25hdTU0UHpTanNDRVQ5UVlEeFNfTEdncjNyVUE4djFlWWRYZG53dWIxcDNFSDcwdC1OOU1kLW13VE03QlVwWWZZOFNYWW5qakJxY2RvMWg5a2xFdllBbE5zZXVnSU5NTFk4WG55OXh2TdIBpAJBVV95cUxObHRnU3Rnc2hLQTNkOGVhWjYxblhHcWs4S2tUMV9vMEhKUUxQMnFoam16Z0dfVk1YU3lIa2lIajJFSDFFc0gxWWlnQVBoS0IyS1ZNWVQ2bFVOcmpnS2JSejg5bEtYci1sR3RqNmJXLVlldy1ONktrZ2lyYWFHZnoyYW9jVU1tVXVIaXJNZzl2ZWFNTXhlUFVRUy1lRUVuU055V1hJZHZQbVZ1TTg2cy0yclRHUXE5cXd5NFY2NHZock1tUHZVbUFPaEtsNWo0QkJ6VkkteHFmTmRpM1AwLURBdHR3N0ZSUGtCTHkyRXZQeW9HaGlrWkoxR19PUEFSYXFldnRUc3lmRURqbVY2ODlQM25TX090cTZvY3JZZ1VfbGNqUFJx?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cancer</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlpVT3VucVU3dUdZSXAyOGprVko2Tm1QYzNLNWIycmV3eHFYZTNua2xMejZFWnN4bjdWNnhmR291ZDJYY1dBZW13Si1BRXQ3Yzh2NXJMd09JMHFrNEY0cWpvOFViWGRENDJoVmdsVF91eVAtX0U5X19lbFQ4NkpvbWJpZEMweDU3VDFNT2xKYw?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMinwJBVV95cUxQZGNGWDAzWmZPSnRoRHhjWTl2Z3Nya21aeVJ2d3FVYzlIR3ZTbklHX0c3Q3BMNUVRamU4QldXWHY2eTdObmgyZm5sekd0bThZeDItTERMdDZXZkpGSWN4U19NZ0pKMzcyU1lZYi1UUkhVRV9ldzNnUFRCX0p6Zy1rbm4tVkNfcFJZMWN0T3I4cTJZX3pqcmtiaFNHYThXdzd4Sk9FUTdIMVhCZDFEOTd0X1hyWWdlY25hdTU0UHpTanNDRVQ5UVlEeFNfTEdncjNyVUE4djFlWWRYZG53dWIxcDNFSDcwdC1OOU1kLW13VE03QlVwWWZZOFNYWW5qakJxY2RvMWg5a2xFdllBbE5zZXVnSU5NTFk4WG55OXh2TdIBpAJBVV95cUxObHRnU3Rnc2hLQTNkOGVhWjYxblhHcWs4S2tUMV9vMEhKUUxQMnFoam16Z0dfVk1YU3lIa2lIajJFSDFFc0gxWWlnQVBoS0IyS1ZNWVQ2bFVOcmpnS2JSejg5bEtYci1sR3RqNmJXLVlldy1ONktrZ2lyYWFHZnoyYW9jVU1tVXVIaXJNZzl2ZWFNTXhlUFVRUy1lRUVuU055V1hJZHZQbVZ1TTg2cy0yclRHUXE5cXd5NFY2NHZock1tUHZVbUFPaEtsNWo0QkJ6VkkteHFmTmRpM1AwLURBdHR3N0ZSUGtCTHkyRXZQeW9HaGlrWkoxR19PUEFSYXFldnRUc3lmRURqbVY2ODlQM25TX090cTZvY3JZZ1VfbGNqUFJx?oc=5)
 
 ---
 

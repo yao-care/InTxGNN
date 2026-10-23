@@ -14,7 +14,7 @@ permalink: /news/chromium/
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Chromium</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Assessing Nonsurgical Options for Knee Osteoarthritis](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5)
 
 2026-10-22 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [DocWireNews](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaXNQdkN0QTdtREtBZDVUOXNsSVJTeXc2OGNMOEFXb0R1T0NhUS1XZ2hwMnJWeWNyLTNIcmEySUFfdm1HQ1k4OXRTcDFqMG9HWmlvLU9rTVNSN2RtemZCcW5lYlhFajZlNGpHOTl3cVpud2tjZW1Fcm80UFA4MUpIZnhiMnh4Z2JFeEFNWEc4bw?oc=5)
-
----
-
-### [Shubham Pant: Are KRAS-Targeted Therapies Changing the Treatment Landscape?](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zd2RhTEdQMnZqb01GTTNidlNVcVpDb0V2eFNERXBsSDI2Q3M0bU0yNFUtQUJFejNLcjZmaTdhMUJyeEhSem5lTDluenBBX3g4WFdCazR2UDFHckg4?oc=5)
 
 ---
 
