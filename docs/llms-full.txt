@@ -22,6 +22,7 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 - `/sources/` Data Sources — Data sources behind InTxGNN: CDSCO registration data, TxGNN, ClinicalTrials.gov, PubMed and DrugBank.
 - `/downloads/` Downloads — InTxGNN open data downloads: FHIR resources, prediction results and search index.
 - `/about/` About — InTxGNN is a drug repurposing prediction platform developed by 藥提醒科技有限公司 (yao.care), built on the Harvard TxGNN model, covering CDSCO-approved medicines in India.
+- `/news/` Health News — Automated monitoring of the latest health news on the drugs and indications covered by InTxGNN.
 
 ## Example drug reports
 
