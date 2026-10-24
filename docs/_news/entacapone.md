@@ -37,11 +37,11 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (2)
 
-### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Psychiatry Advisor](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEpsd1oxeVFkUU5iR3pLMWc3N1A4aTVxRUJBcEFyUmxRcURTMUx0MkhwU25PVE1CNngtR3JaVWd0Y01QVU56d3ZONXBfUmRocUZPNS1BS3duWHlKRUVLTm5GZDViMElNNjJHUVlad1NfcDV5RzdJTWpSb21jXzJJQ2ZpaU5tdUNWZUIxZGJMdThGaWhsODlqblFBT2RWOTR4U2xmSFlVVzAwSlQ4?oc=5)
+### [Dementia Cases May Reach 24.7 Million Annually By 2050, Global Study Finds | Health and Fitness News](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
 
 2026-10-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEpsd1oxeVFkUU5iR3pLMWc3N1A4aTVxRUJBcEFyUmxRcURTMUx0MkhwU25PVE1CNngtR3JaVWd0Y01QVU56d3ZONXBfUmRocUZPNS1BS3duWHlKRUVLTm5GZDViMElNNjJHUVlad1NfcDV5RzdJTWpSb21jXzJJQ2ZpaU5tdUNWZUIxZGJMdThGaWhsODlqblFBT2RWOTR4U2xmSFlVVzAwSlQ4?oc=5)
+Source: [News18](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
 
 ---
 

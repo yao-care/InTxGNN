@@ -14,7 +14,7 @@ permalink: /news/amifostine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amifostine?">
-<strong>Amifostine</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Amifostine</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <p><a href="{{ '/drugs/amifostine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Fish consumption may help reduce hypertensive disorders of pregnancy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTEteUN3Sml1VHpQaGd6YUw1NzFLNDNudU53QVFCVWlDeU1JWjJNdmxaNkp5TndiSGoxWjM0alJzUEpORWpFSGNmWGRkRVprVkFNZlNYMDlSTHJZdEhPNDVYZTZNNDZ0dkl3cVlzZDdJM21yZHB5b3lLTy1xV2k5WFYwTjZKTDhJUDk1ZXh5STFnTUd0b0NqS2tOOURzY1pCNHpGdFRqdzlSdERPbkV2NWtDLVpFczg?oc=5)
+
+2026-10-24 <span class="news-indication-tag">hypertensive disorder</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTEteUN3Sml1VHpQaGd6YUw1NzFLNDNudU53QVFCVWlDeU1JWjJNdmxaNkp5TndiSGoxWjM0alJzUEpORWpFSGNmWGRkRVprVkFNZlNYMDlSTHJZdEhPNDVYZTZNNDZ0dkl3cVlzZDdJM21yZHB5b3lLTy1xV2k5WFYwTjZKTDhJUDk1ZXh5STFnTUd0b0NqS2tOOURzY1pCNHpGdFRqdzlSdERPbkV2NWtDLVpFczg?oc=5)
+
+---
 
 ### [Dr Naughton on De-escalating Breast Cancer Treatment - Targeted Oncology](https://news.google.com/rss/articles/CBMingFBVV95cUxPUHFucWc0NEhiN1Q3Q3l3NURfaGF0NWJMM0RfY3RCNnNUNjc5R1ZadXlwOURZZXBiX2gzc2xMTk9vcUtJcXNDbzJqSzFhcll2dktKZGt6aS1FczBfZ1BrR0RVbGZsZ3QyMXNXSVFMTDRGcE9IOGVyOS1FS1QzYjlVcHpZb0lkT3J1cG9WQXo5WTJwcHFROUJvaE5kTThNQQ?oc=5)
 
@@ -50,6 +58,14 @@ Source: [Clinical Lab Products](https://news.google.com/rss/articles/CBMiwwFBVV9
 
 ---
 
+### [Q&A: NVIDIA on AI and breast cancer](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
+
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
+
+---
+
 ### [How AI scoring tool can guide skin biopsy decision - Medical Buyer](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEVyOFo2UVlVanFFanp4c0JLLXVEVnVJVzIzbC1YMUdKaV85QkdJaHZOY0Q0MkF6cGFDaXlwc2VvUllrU1g4eEVTYU1KMFZxanY4TXhRYmxDYnhOZ1JnU2kxMDBJSkxFRmZUMFNidWJzTmhKNkhiT29uTERxRkVhTDZ5RVg?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span>
@@ -63,14 +79,6 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEV
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPZnRKX2RPdzhjWFRCRzViXzMwYUMwWHZfNFF3ZXZRSUQtRzZiampzc3ZjbTM5R3c0WV95dENLbEd1VUwzbXY1OEk0ajBVc29ybnd3YmJJNVNFUTBjQVlGTTFKOGdHUlJZYXhydVNmWHlWYWFHNVZSYndqc3M0a21TNXlZdTlia2VWYlhJMUZzeXVFMHFXeTQ1eUJIRURORDR6eHFIZ1J0YWlSMC1BWXpaVDlnajRVRHYtTmd4LXFHWDh2amNvckZab3BpZmdnMWgwMllxUm1qTWZZNFlLNXEwc1V4ajNGcnp4WmpDVU5rNUw2UVJEMExnYUxCbklpY1g5dzZoY3N1STN0V0xpU28ybTAxa0xRcnZ0T3JteEJYS2NjMVVJeGtaODNuNEpRejc1SUFLYXV1RUF5WjdySWNpVDNhU3BIVHBtbzZUMDQ1dUNJVVMxQkRfUG9DNElDbS02cWxHWEpCTUxONTV4cHdvbXFlSDdTcl9GUWdNd3B6LXd1VDhPZWFEN1BUaWRINExLcm1pM3pOdXBzOUFjdXd3UklKeDBkcVVYSXfSAa8DQVVfeXFMTV9QRzBFd0RGdjdpS3Fvc1NqeFVGUF9KYUZ6WkZGVm9tUEpRNi16UEpTOXBHbnRZdjFTY0hDZlpuWEY0V2NnOVRJbUZPSWdfLXBPYW5STFhyOXZrYzZfMDgtQ3ZBaFNSb0JSakhDSF95ZjJOMV9VRHk3bmlRbllOUVZiQndfZVo1WFdkQTdsb3lIODhTdkZoaGhsUXFYUVVhSEJDYmFvM05MNVcxeGRBX2NsSnctb0RNWWl2RWwwX29lTl9tVEQ4TFlKUlY4b2R4RWJiQ01JTTZDYzZYV25ncGFNMG5yZ2pYd1Nlcm5mNzhUN0luWk5LVDJzem0zdjJCc1NsWTl6TlBsYTNkMUdhTlpIdndaMVdnblJYV2Jmd1JxSlVLMGJPVjdXVGtvVHBUTVkwbUpIQ2VOdnU0SVRVOF8wdXVPbFJPR0JsTHZQV25TeXh3Q2hSNHh0bGltdHk4U3JhOXI1ZktlUmpwelVaSXBUSDF4QlVuaDlWeE1KT2JRNjNlMmRJMGlqY2dibzBkN3NBTVIzSTh4dG9xWTd1R1F3TURYSXdHSmtHN19zdTg?oc=5)
-
----
-
-### [Researchers harness cancer cells' carbon monoxide to produce anticancer drug](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZldVaEoyNFNQRVVyRGwxVnRPd19mdVVjLVRpSjk5YzQxMzVtdGhYMGx3NWlBYzlvZVR5U2l1MmdiSE5xTFluZ0J1MTJBaXVSN2dRbFlZLVk2WDdDX01xLTNmREl2SEhNUW5tWFk5cWdzbDh3eFlhWWlPbGY0Z0ppdF9zVy01cUplV25wRnFzX255a0ZTTThHS0ZqZ1FmQXVoUkZSRjhIVHpqbWVzRnpPckZqLVhBMGxGNTh5LWpReE8?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZldVaEoyNFNQRVVyRGwxVnRPd19mdVVjLVRpSjk5YzQxMzVtdGhYMGx3NWlBYzlvZVR5U2l1MmdiSE5xTFluZ0J1MTJBaXVSN2dRbFlZLVk2WDdDX01xLTNmREl2SEhNUW5tWFk5cWdzbDh3eFlhWWlPbGY0Z0ppdF9zVy01cUplV25wRnFzX255a0ZTTThHS0ZqZ1FmQXVoUkZSRjhIVHpqbWVzRnpPckZqLVhBMGxGNTh5LWpReE8?oc=5)
 
 ---
 

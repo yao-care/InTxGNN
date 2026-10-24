@@ -50,6 +50,22 @@ Source: [Clinical Lab Products](https://news.google.com/rss/articles/CBMiwwFBVV9
 
 ---
 
+### [Dementia Cases May Reach 24.7 Million Annually By 2050, Global Study Finds | Health and Fitness News](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
+
+2026-10-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [News18](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
+
+---
+
+### [Q&A: NVIDIA on AI and breast cancer](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
+
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
+
+---
+
 ### [How AI scoring tool can guide skin biopsy decision - Medical Buyer](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEVyOFo2UVlVanFFanp4c0JLLXVEVnVJVzIzbC1YMUdKaV85QkdJaHZOY0Q0MkF6cGFDaXlwc2VvUllrU1g4eEVTYU1KMFZxanY4TXhRYmxDYnhOZ1JnU2kxMDBJSkxFRmZUMFNidWJzTmhKNkhiT29uTERxRkVhTDZ5RVg?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span>
@@ -63,22 +79,6 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEV
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPZnRKX2RPdzhjWFRCRzViXzMwYUMwWHZfNFF3ZXZRSUQtRzZiampzc3ZjbTM5R3c0WV95dENLbEd1VUwzbXY1OEk0ajBVc29ybnd3YmJJNVNFUTBjQVlGTTFKOGdHUlJZYXhydVNmWHlWYWFHNVZSYndqc3M0a21TNXlZdTlia2VWYlhJMUZzeXVFMHFXeTQ1eUJIRURORDR6eHFIZ1J0YWlSMC1BWXpaVDlnajRVRHYtTmd4LXFHWDh2amNvckZab3BpZmdnMWgwMllxUm1qTWZZNFlLNXEwc1V4ajNGcnp4WmpDVU5rNUw2UVJEMExnYUxCbklpY1g5dzZoY3N1STN0V0xpU28ybTAxa0xRcnZ0T3JteEJYS2NjMVVJeGtaODNuNEpRejc1SUFLYXV1RUF5WjdySWNpVDNhU3BIVHBtbzZUMDQ1dUNJVVMxQkRfUG9DNElDbS02cWxHWEpCTUxONTV4cHdvbXFlSDdTcl9GUWdNd3B6LXd1VDhPZWFEN1BUaWRINExLcm1pM3pOdXBzOUFjdXd3UklKeDBkcVVYSXfSAa8DQVVfeXFMTV9QRzBFd0RGdjdpS3Fvc1NqeFVGUF9KYUZ6WkZGVm9tUEpRNi16UEpTOXBHbnRZdjFTY0hDZlpuWEY0V2NnOVRJbUZPSWdfLXBPYW5STFhyOXZrYzZfMDgtQ3ZBaFNSb0JSakhDSF95ZjJOMV9VRHk3bmlRbllOUVZiQndfZVo1WFdkQTdsb3lIODhTdkZoaGhsUXFYUVVhSEJDYmFvM05MNVcxeGRBX2NsSnctb0RNWWl2RWwwX29lTl9tVEQ4TFlKUlY4b2R4RWJiQ01JTTZDYzZYV25ncGFNMG5yZ2pYd1Nlcm5mNzhUN0luWk5LVDJzem0zdjJCc1NsWTl6TlBsYTNkMUdhTlpIdndaMVdnblJYV2Jmd1JxSlVLMGJPVjdXVGtvVHBUTVkwbUpIQ2VOdnU0SVRVOF8wdXVPbFJPR0JsTHZQV25TeXh3Q2hSNHh0bGltdHk4U3JhOXI1ZktlUmpwelVaSXBUSDF4QlVuaDlWeE1KT2JRNjNlMmRJMGlqY2dibzBkN3NBTVIzSTh4dG9xWTd1R1F3TURYSXdHSmtHN19zdTg?oc=5)
-
----
-
-### [Researchers harness cancer cells' carbon monoxide to produce anticancer drug](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZldVaEoyNFNQRVVyRGwxVnRPd19mdVVjLVRpSjk5YzQxMzVtdGhYMGx3NWlBYzlvZVR5U2l1MmdiSE5xTFluZ0J1MTJBaXVSN2dRbFlZLVk2WDdDX01xLTNmREl2SEhNUW5tWFk5cWdzbDh3eFlhWWlPbGY0Z0ppdF9zVy01cUplV25wRnFzX255a0ZTTThHS0ZqZ1FmQXVoUkZSRjhIVHpqbWVzRnpPckZqLVhBMGxGNTh5LWpReE8?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZldVaEoyNFNQRVVyRGwxVnRPd19mdVVjLVRpSjk5YzQxMzVtdGhYMGx3NWlBYzlvZVR5U2l1MmdiSE5xTFluZ0J1MTJBaXVSN2dRbFlZLVk2WDdDX01xLTNmREl2SEhNUW5tWFk5cWdzbDh3eFlhWWlPbGY0Z0ppdF9zVy01cUplV25wRnFzX255a0ZTTThHS0ZqZ1FmQXVoUkZSRjhIVHpqbWVzRnpPckZqLVhBMGxGNTh5LWpReE8?oc=5)
-
----
-
-### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Psychiatry Advisor](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEpsd1oxeVFkUU5iR3pLMWc3N1A4aTVxRUJBcEFyUmxRcURTMUx0MkhwU25PVE1CNngtR3JaVWd0Y01QVU56d3ZONXBfUmRocUZPNS1BS3duWHlKRUVLTm5GZDViMElNNjJHUVlad1NfcDV5RzdJTWpSb21jXzJJQ2ZpaU5tdUNWZUIxZGJMdThGaWhsODlqblFBT2RWOTR4U2xmSFlVVzAwSlQ4?oc=5)
-
-2026-10-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Psychiatry Advisor](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEpsd1oxeVFkUU5iR3pLMWc3N1A4aTVxRUJBcEFyUmxRcURTMUx0MkhwU25PVE1CNngtR3JaVWd0Y01QVU56d3ZONXBfUmRocUZPNS1BS3duWHlKRUVLTm5GZDViMElNNjJHUVlad1NfcDV5RzdJTWpSb21jXzJJQ2ZpaU5tdUNWZUIxZGJMdThGaWhsODlqblFBT2RWOTR4U2xmSFlVVzAwSlQ4?oc=5)
 
 ---
 
