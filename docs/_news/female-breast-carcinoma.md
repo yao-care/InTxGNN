@@ -39,11 +39,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (2)
 
-### [Q&A: NVIDIA on AI and breast cancer](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
+### [Breast Cancer Month: Seven Years Beyond Diagnosis - ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6REF4U01KVHAzTkYzMmtQMjNyd09pN3ZaazlxeS1KMzJ3UGlfel9xOU9nLTNpREFLTUZhOG9aLWJTd0JyLVBPOXhxczg0QnJSSE5JZHR3UnpieFVVMlRFMTh1OVhCUjAyMG1DWXYyUEhBVkpvSGNhSWV6UHRmVzJlbEJ2ajY5eXg1azhpZWxGRmc0czB0T0FTWmlmN1E?oc=5)
 
-2026-10-23
+2026-10-24
 
-Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
+Source: [ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6REF4U01KVHAzTkYzMmtQMjNyd09pN3ZaazlxeS1KMzJ3UGlfel9xOU9nLTNpREFLTUZhOG9aLWJTd0JyLVBPOXhxczg0QnJSSE5JZHR3UnpieFVVMlRFMTh1OVhCUjAyMG1DWXYyUEhBVkpvSGNhSWV6UHRmVzJlbEJ2ajY5eXg1azhpZWxGRmc0czB0T0FTWmlmN1E?oc=5)
 
 ---
 

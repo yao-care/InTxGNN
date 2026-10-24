@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about cardiovascular. 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -57,7 +57,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Key Drivers of Mortality in MASLD](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
 
@@ -72,14 +72,6 @@ Source: [DocWireNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSa
 2026-10-23
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbVRjdDY0Tno1SW5YSExJcFpWcF9sV1NWckNnZkRuajJTcjlSRmx0WEhkLWdEbV9BYWFpSUZFcGF2UTBHVnhTTmJSR21VckkzcExtOHhpcG5uNDk3cXh4dWpIaTdtTUdTYXE0aHBweHlWdlBGZTFDN09ZUTJrMTJJbEpOOWVhb0ZRQlZPbzhHdlB0MUhYSnBPY0stT2JjMTcwZU52MUo3TWt2RW5lWDVuMGphZE8zYmkxYng4cFRoX3B6cWVsVWlmU2ZYLWVnblZ6WjdVM0Z4WG1JdFlDbFJPd0V1OF90TVNyUGlZM01nUy1CUdIB9wFBVV95cUxPSzJ0R19RZDVKZmxXeUpOMFhsSzE5dDdfeEtwd0stSnVHTURwRzVjSFFFN0gyXzd5MHhGbm5RZ0tVUXlNTWNPejkxWUpPMFo2TW9PaXVPd21LSGlVdmtDbElyenhkUUI5VzhqX0VGTDNwUUVPUlYyT1JybGpoblpUME96YUZLZ1lMOFdGam81a1V2N0dmd2ZqMllhN0lmdFd5bGVTZlJ6UVcwcXBvX0FqQmhaTUpoS1FlMXJFR1FVYklONTdKUkUyUnVZVVhCR3pXdW5WRlhXbFBzSWtWUGFMelpvT1VfbnE4RWJpYTItY2NxYnJJUXZj?oc=5)
-
----
-
-### [The good fat: How brown fat can help lower diabetes, heart disease, and boost mental health](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWdoQkJQckNNbzJmRDNIX2dKMnZlZXFQWThEaUhKMmo4X2xqbzM5MjRjdUtCTUhzeFV5UE1KcWdITlg5Sjc2NjFzTjlSMWhJUzlqZ0ZybVBYYjJxRTNrZFJDVU41THd5N1dWNHgzM1FrOGljOGcyNm9EelZWWEtPSEVEd0Fwd092d254RFR0UTVOdEZsOG9ZbzVwWTEtNXJhV2Zvc0FpYVFIS1JlQjNQY3hLcjA4RExXQzJ2R3dFU1kxUjY4SERLd2VDWUpJeEtk0gHWAUFVX3lxTE5YUjMzcXQ1ZjdBaDBsREcwSGV6QXMtUWVMamRPUExMTmIzanl2MW43M0RVRWdfcDhidlVrbUp5MjJyZVRzYnd4ZElRQ0xyQ28tS2Y5Q3NfWFR6Slc1QWo0b1Z0M1ozb3lCOW1VTG5SVFF6eGUwdEszdDAwWG9hdERfeXRxR0RPVWZWRDhhOHBaanR1UXhQMHd2cXdkWUs1Qk9EX2RpNlVJTmFxNFhCTFJRVmRqR1Yyc3NQT3RLREx0SlRMVGlzaGJtdGUtVGl1OXg1djVsclE?oc=5)
-
-2026-10-22
-
-Source: [Firstpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWdoQkJQckNNbzJmRDNIX2dKMnZlZXFQWThEaUhKMmo4X2xqbzM5MjRjdUtCTUhzeFV5UE1KcWdITlg5Sjc2NjFzTjlSMWhJUzlqZ0ZybVBYYjJxRTNrZFJDVU41THd5N1dWNHgzM1FrOGljOGcyNm9EelZWWEtPSEVEd0Fwd092d254RFR0UTVOdEZsOG9ZbzVwWTEtNXJhV2Zvc0FpYVFIS1JlQjNQY3hLcjA4RExXQzJ2R3dFU1kxUjY4SERLd2VDWUpJeEtk0gHWAUFVX3lxTE5YUjMzcXQ1ZjdBaDBsREcwSGV6QXMtUWVMamRPUExMTmIzanl2MW43M0RVRWdfcDhidlVrbUp5MjJyZVRzYnd4ZElRQ0xyQ28tS2Y5Q3NfWFR6Slc1QWo0b1Z0M1ozb3lCOW1VTG5SVFF6eGUwdEszdDAwWG9hdERfeXRxR0RPVWZWRDhhOHBaanR1UXhQMHd2cXdkWUs1Qk9EX2RpNlVJTmFxNFhCTFJRVmRqR1Yyc3NQT3RLREx0SlRMVGlzaGJtdGUtVGl1OXg1djVsclE?oc=5)
 
 ---
 

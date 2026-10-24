@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (1)
 
-### [Evaluating Environmental Hazards of Aged Biodegradable Plastics in Aquatic Life](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
+### [VDAC1 regulates disulfidptosis susceptibility and associates with the immune microenvironment via multi-omics analysis in lung adenocarcinoma](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xLVlRQlJQMURTUjY5UHhJZVdJTFZ4RkdxcXFrR015Y0xTQXFLbm8zcnFDVFkxZExxRkI0MDMyR1lSd2ZKWDVxalZVVm5CVi05bUFQa0dEM2hzR1VQYW5J?oc=5)
 
-2026-10-22 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+2026-10-24 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [AZoCleantech](https://news.google.com/rss/articles/CBMiYEFVX3lxTE05NnJ5a3VuT1l2R1BxMWxhdmZQYVh3c3NHOUJIYnlwN05LWk16enYzTTF6a1QwQ0N6TzctV0xlTS0zdVdZVHh2SExjbmlLcGk5R3QtaVo2djFRcHJSREJSOA?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xLVlRQlJQMURTUjY5UHhJZVdJTFZ4RkdxcXFrR015Y0xTQXFLbm8zcnFDVFkxZExxRkI0MDMyR1lSd2ZKWDVxalZVVm5CVi05bUFQa0dEM2hzR1VQYW5J?oc=5)
 
 ---
 

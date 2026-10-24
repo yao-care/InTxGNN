@@ -30,11 +30,27 @@ This page combines the AI-predicted indications for Arsenic Trioxide with the la
 
 ## Related News (9)
 
-### [Dr Naughton on De-escalating Breast Cancer Treatment - Targeted Oncology](https://news.google.com/rss/articles/CBMingFBVV95cUxPUHFucWc0NEhiN1Q3Q3l3NURfaGF0NWJMM0RfY3RCNnNUNjc5R1ZadXlwOURZZXBiX2gzc2xMTk9vcUtJcXNDbzJqSzFhcll2dktKZGt6aS1FczBfZ1BrR0RVbGZsZ3QyMXNXSVFMTDRGcE9IOGVyOS1FS1QzYjlVcHpZb0lkT3J1cG9WQXo5WTJwcHFROUJvaE5kTThNQQ?oc=5)
+### [Breast Cancer Month: Seven Years Beyond Diagnosis - ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6REF4U01KVHAzTkYzMmtQMjNyd09pN3ZaazlxeS1KMzJ3UGlfel9xOU9nLTNpREFLTUZhOG9aLWJTd0JyLVBPOXhxczg0QnJSSE5JZHR3UnpieFVVMlRFMTh1OVhCUjAyMG1DWXYyUEhBVkpvSGNhSWV6UHRmVzJlbEJ2ajY5eXg1azhpZWxGRmc0czB0T0FTWmlmN1E?oc=5)
+
+2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6REF4U01KVHAzTkYzMmtQMjNyd09pN3ZaazlxeS1KMzJ3UGlfel9xOU9nLTNpREFLTUZhOG9aLWJTd0JyLVBPOXhxczg0QnJSSE5JZHR3UnpieFVVMlRFMTh1OVhCUjAyMG1DWXYyUEhBVkpvSGNhSWV6UHRmVzJlbEJ2ajY5eXg1azhpZWxGRmc0czB0T0FTWmlmN1E?oc=5)
+
+---
+
+### [Common kidney tests underestimate chronic kidney disease in cancer patients](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnJfWEF6ZGZ5akpnV1pvYzA3TUVnNUlxV1JLbTMzeG9nWkNjM0p6NHJXSGg4TnhSdUpXYXlURUNael92WDFRNExHNl9IZHNUamxJZlFZSzJUNlB5T2gyNkVtY0N0OHhhaUZfUnVKNFlhXzBEWDg0c2RIQ2pjVzFGNTF4TFIyMXhHWE1VcWJQWVhISU1DX2NidFNOLXhoQnF0VGZkT01wTC1VVEFfM1VSQVJtbk82b0VmUVZOdUlMZ2k?oc=5)
+
+2026-10-24 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnJfWEF6ZGZ5akpnV1pvYzA3TUVnNUlxV1JLbTMzeG9nWkNjM0p6NHJXSGg4TnhSdUpXYXlURUNael92WDFRNExHNl9IZHNUamxJZlFZSzJUNlB5T2gyNkVtY0N0OHhhaUZfUnVKNFlhXzBEWDg0c2RIQ2pjVzFGNTF4TFIyMXhHWE1VcWJQWVhISU1DX2NidFNOLXhoQnF0VGZkT01wTC1VVEFfM1VSQVJtbk82b0VmUVZOdUlMZ2k?oc=5)
+
+---
+
+### [Can AI predict Cancer Survival Chance from a Single Selfie?](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllZVmtaZTRYbXlrd01Ia2xsRGtzM1JKYnNHSTlJY0t1SHdyalhMa09nSTNjLTRaTHM0Ui1ENmdmNWo1NjU2UzRrcy1HdGxnd09GNTVLX1p3cFhkMVFfX2RZdnl2d241UGs2ZVhzay1Wenc1NUlGODRWak1fSm56SzZJUFlJeDFBN3pmYjFnLU8wdG56NVhZ?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span>
 
-Source: [Targeted Oncology](https://news.google.com/rss/articles/CBMingFBVV95cUxPUHFucWc0NEhiN1Q3Q3l3NURfaGF0NWJMM0RfY3RCNnNUNjc5R1ZadXlwOURZZXBiX2gzc2xMTk9vcUtJcXNDbzJqSzFhcll2dktKZGt6aS1FczBfZ1BrR0RVbGZsZ3QyMXNXSVFMTDRGcE9IOGVyOS1FS1QzYjlVcHpZb0lkT3J1cG9WQXo5WTJwcHFROUJvaE5kTThNQQ?oc=5)
+Source: [DESIblitz](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllZVmtaZTRYbXlrd01Ia2xsRGtzM1JKYnNHSTlJY0t1SHdyalhMa09nSTNjLTRaTHM0Ui1ENmdmNWo1NjU2UzRrcy1HdGxnd09GNTVLX1p3cFhkMVFfX2RZdnl2d241UGs2ZVhzay1Wenc1NUlGODRWak1fSm56SzZJUFlJeDFBN3pmYjFnLU8wdG56NVhZ?oc=5)
 
 ---
 
@@ -46,14 +62,6 @@ Source: [Clinical Lab Products](https://news.google.com/rss/articles/CBMiwwFBVV9
 
 ---
 
-### [Q&A: NVIDIA on AI and breast cancer](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [MobiHealthNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZdURPUzI5cmVLZ3VpQy1MdDFySVF5UTVKVnZrbVFfejlXSk50blIwTWZfVGhGQVZib0h2N2FBRUdZRG9PTEVERUo1WVd3S3N2SEZQZkRrU2hXN083Qm4xcFRQZWxic09hUkZKTGRFdUhXQ1pY?oc=5)
-
----
-
 ### [How AI scoring tool can guide skin biopsy decision - Medical Buyer](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEVyOFo2UVlVanFFanp4c0JLLXVEVnVJVzIzbC1YMUdKaV85QkdJaHZOY0Q0MkF6cGFDaXlwc2VvUllrU1g4eEVTYU1KMFZxanY4TXhRYmxDYnhOZ1JnU2kxMDBJSkxFRmZUMFNidWJzTmhKNkhiT29uTERxRkVhTDZ5RVg?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span>
@@ -62,11 +70,11 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEV
 
 ---
 
-### [A study of more than 460,000 Americans found that eating ultra-processed foods was not associated with a - The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPZnRKX2RPdzhjWFRCRzViXzMwYUMwWHZfNFF3ZXZRSUQtRzZiampzc3ZjbTM5R3c0WV95dENLbEd1VUwzbXY1OEk0ajBVc29ybnd3YmJJNVNFUTBjQVlGTTFKOGdHUlJZYXhydVNmWHlWYWFHNVZSYndqc3M0a21TNXlZdTlia2VWYlhJMUZzeXVFMHFXeTQ1eUJIRURORDR6eHFIZ1J0YWlSMC1BWXpaVDlnajRVRHYtTmd4LXFHWDh2amNvckZab3BpZmdnMWgwMllxUm1qTWZZNFlLNXEwc1V4ajNGcnp4WmpDVU5rNUw2UVJEMExnYUxCbklpY1g5dzZoY3N1STN0V0xpU28ybTAxa0xRcnZ0T3JteEJYS2NjMVVJeGtaODNuNEpRejc1SUFLYXV1RUF5WjdySWNpVDNhU3BIVHBtbzZUMDQ1dUNJVVMxQkRfUG9DNElDbS02cWxHWEpCTUxONTV4cHdvbXFlSDdTcl9GUWdNd3B6LXd1VDhPZWFEN1BUaWRINExLcm1pM3pOdXBzOUFjdXd3UklKeDBkcVVYSXfSAa8DQVVfeXFMTV9QRzBFd0RGdjdpS3Fvc1NqeFVGUF9KYUZ6WkZGVm9tUEpRNi16UEpTOXBHbnRZdjFTY0hDZlpuWEY0V2NnOVRJbUZPSWdfLXBPYW5STFhyOXZrYzZfMDgtQ3ZBaFNSb0JSakhDSF95ZjJOMV9VRHk3bmlRbllOUVZiQndfZVo1WFdkQTdsb3lIODhTdkZoaGhsUXFYUVVhSEJDYmFvM05MNVcxeGRBX2NsSnctb0RNWWl2RWwwX29lTl9tVEQ4TFlKUlY4b2R4RWJiQ01JTTZDYzZYV25ncGFNMG5yZ2pYd1Nlcm5mNzhUN0luWk5LVDJzem0zdjJCc1NsWTl6TlBsYTNkMUdhTlpIdndaMVdnblJYV2Jmd1JxSlVLMGJPVjdXVGtvVHBUTVkwbUpIQ2VOdnU0SVRVOF8wdXVPbFJPR0JsTHZQV25TeXh3Q2hSNHh0bGltdHk4U3JhOXI1ZktlUmpwelVaSXBUSDF4QlVuaDlWeE1KT2JRNjNlMmRJMGlqY2dibzBkN3NBTVIzSTh4dG9xWTd1R1F3TURYSXdHSmtHN19zdTg?oc=5)
+### [Do Ultraprocessed Foods Raise Colorectal Cancer Risk?](https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0huZWI3bEtBUkRGMnhmMVluRnlDYW5QeE9Ib01naW9sX294Si0xSlRyellnWHNkWUVCa05uc0ZGM3diLUY4RmwtNG9VTzlpLXNUSEJSMnoyUUhzdHM5RFB2REZRMkRON3dsUXR5OUl2VmNBMkozcUxyX3ByQ1h4UVU4WkI0TVpWUC1Ld0lUVEpidUl2T29tR3J1aU5NcWE5QWFlYQ?oc=5)
 
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">bowel cancer</span> <span class="news-indication-tag">rectal cancer</span>
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span> <span class="news-indication-tag">rectal cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPZnRKX2RPdzhjWFRCRzViXzMwYUMwWHZfNFF3ZXZRSUQtRzZiampzc3ZjbTM5R3c0WV95dENLbEd1VUwzbXY1OEk0ajBVc29ybnd3YmJJNVNFUTBjQVlGTTFKOGdHUlJZYXhydVNmWHlWYWFHNVZSYndqc3M0a21TNXlZdTlia2VWYlhJMUZzeXVFMHFXeTQ1eUJIRURORDR6eHFIZ1J0YWlSMC1BWXpaVDlnajRVRHYtTmd4LXFHWDh2amNvckZab3BpZmdnMWgwMllxUm1qTWZZNFlLNXEwc1V4ajNGcnp4WmpDVU5rNUw2UVJEMExnYUxCbklpY1g5dzZoY3N1STN0V0xpU28ybTAxa0xRcnZ0T3JteEJYS2NjMVVJeGtaODNuNEpRejc1SUFLYXV1RUF5WjdySWNpVDNhU3BIVHBtbzZUMDQ1dUNJVVMxQkRfUG9DNElDbS02cWxHWEpCTUxONTV4cHdvbXFlSDdTcl9GUWdNd3B6LXd1VDhPZWFEN1BUaWRINExLcm1pM3pOdXBzOUFjdXd3UklKeDBkcVVYSXfSAa8DQVVfeXFMTV9QRzBFd0RGdjdpS3Fvc1NqeFVGUF9KYUZ6WkZGVm9tUEpRNi16UEpTOXBHbnRZdjFTY0hDZlpuWEY0V2NnOVRJbUZPSWdfLXBPYW5STFhyOXZrYzZfMDgtQ3ZBaFNSb0JSakhDSF95ZjJOMV9VRHk3bmlRbllOUVZiQndfZVo1WFdkQTdsb3lIODhTdkZoaGhsUXFYUVVhSEJDYmFvM05MNVcxeGRBX2NsSnctb0RNWWl2RWwwX29lTl9tVEQ4TFlKUlY4b2R4RWJiQ01JTTZDYzZYV25ncGFNMG5yZ2pYd1Nlcm5mNzhUN0luWk5LVDJzem0zdjJCc1NsWTl6TlBsYTNkMUdhTlpIdndaMVdnblJYV2Jmd1JxSlVLMGJPVjdXVGtvVHBUTVkwbUpIQ2VOdnU0SVRVOF8wdXVPbFJPR0JsTHZQV25TeXh3Q2hSNHh0bGltdHk4U3JhOXI1ZktlUmpwelVaSXBUSDF4QlVuaDlWeE1KT2JRNjNlMmRJMGlqY2dibzBkN3NBTVIzSTh4dG9xWTd1R1F3TURYSXdHSmtHN19zdTg?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0huZWI3bEtBUkRGMnhmMVluRnlDYW5QeE9Ib01naW9sX294Si0xSlRyellnWHNkWUVCa05uc0ZGM3diLUY4RmwtNG9VTzlpLXNUSEJSMnoyUUhzdHM5RFB2REZRMkRON3dsUXR5OUl2VmNBMkozcUxyX3ByQ1h4UVU4WkI0TVpWUC1Ld0lUVEpidUl2T29tR3J1aU5NcWE5QWFlYQ?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cU
 2026-10-22 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
 
 Source: [ummid.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
-
----
-
-### [A selfie as a health check? AI detects health risks and biological age from a facial photo](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGJ1NUFMNldzRG1EUUdWR0hjNzJpWkZ1SmdXTTlHNmhQQmhZSjFVdVNRZFNyMjhFS29mRlFRczNrZnpuUGFQSGR5b055NV9XOVhabW41TzFyckFWY1IzcHhoY1U4M2xWU3k0TEtLWXQyblJBV3liSk1vVGQwN0t5ODhheVNPSFU5YWRZN3Bqczdlb01uSFhVRDgteVRDcUtsS3VjWHNCbWlnMHotbldDTjNIVkp2eURDX0pTa1FFX1pYZ1VTcTlXdzhnQ1p2dkE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span>
-
-Source: [Notebookcheck](https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGJ1NUFMNldzRG1EUUdWR0hjNzJpWkZ1SmdXTTlHNmhQQmhZSjFVdVNRZFNyMjhFS29mRlFRczNrZnpuUGFQSGR5b055NV9XOVhabW41TzFyckFWY1IzcHhoY1U4M2xWU3k0TEtLWXQyblJBV3liSk1vVGQwN0t5ODhheVNPSFU5YWRZN3Bqczdlb01uSFhVRDgteVRDcUtsS3VjWHNCbWlnMHotbldDTjNIVkp2eURDX0pTa1FFX1pYZ1VTcTlXdzhnQ1p2dkE?oc=5)
 
 ---
 

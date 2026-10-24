@@ -14,7 +14,7 @@ permalink: /news/lubiprostone/
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Key Drivers of Mortality in MASLD](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
 
@@ -44,17 +44,9 @@ Source: [DocWireNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSa
 
 ### [Weight loss in your 50s: How shedding pounds in middle age can restore heart health - The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbVRjdDY0Tno1SW5YSExJcFpWcF9sV1NWckNnZkRuajJTcjlSRmx0WEhkLWdEbV9BYWFpSUZFcGF2UTBHVnhTTmJSR21VckkzcExtOHhpcG5uNDk3cXh4dWpIaTdtTUdTYXE0aHBweHlWdlBGZTFDN09ZUTJrMTJJbEpOOWVhb0ZRQlZPbzhHdlB0MUhYSnBPY0stT2JjMTcwZU52MUo3TWt2RW5lWDVuMGphZE8zYmkxYng4cFRoX3B6cWVsVWlmU2ZYLWVnblZ6WjdVM0Z4WG1JdFlDbFJPd0V1OF90TVNyUGlZM01nUy1CUdIB9wFBVV95cUxPSzJ0R19RZDVKZmxXeUpOMFhsSzE5dDdfeEtwd0stSnVHTURwRzVjSFFFN0gyXzd5MHhGbm5RZ0tVUXlNTWNPejkxWUpPMFo2TW9PaXVPd21LSGlVdmtDbElyenhkUUI5VzhqX0VGTDNwUUVPUlYyT1JybGpoblpUME96YUZLZ1lMOFdGam81a1V2N0dmd2ZqMllhN0lmdFd5bGVTZlJ6UVcwcXBvX0FqQmhaTUpoS1FlMXJFR1FVYklONTdKUkUyUnVZVVhCR3pXdW5WRlhXbFBzSWtWUGFMelpvT1VfbnE4RWJpYTItY2NxYnJJUXZj?oc=5)
 
-2026-10-23 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-23 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbVRjdDY0Tno1SW5YSExJcFpWcF9sV1NWckNnZkRuajJTcjlSRmx0WEhkLWdEbV9BYWFpSUZFcGF2UTBHVnhTTmJSR21VckkzcExtOHhpcG5uNDk3cXh4dWpIaTdtTUdTYXE0aHBweHlWdlBGZTFDN09ZUTJrMTJJbEpOOWVhb0ZRQlZPbzhHdlB0MUhYSnBPY0stT2JjMTcwZU52MUo3TWt2RW5lWDVuMGphZE8zYmkxYng4cFRoX3B6cWVsVWlmU2ZYLWVnblZ6WjdVM0Z4WG1JdFlDbFJPd0V1OF90TVNyUGlZM01nUy1CUdIB9wFBVV95cUxPSzJ0R19RZDVKZmxXeUpOMFhsSzE5dDdfeEtwd0stSnVHTURwRzVjSFFFN0gyXzd5MHhGbm5RZ0tVUXlNTWNPejkxWUpPMFo2TW9PaXVPd21LSGlVdmtDbElyenhkUUI5VzhqX0VGTDNwUUVPUlYyT1JybGpoblpUME96YUZLZ1lMOFdGam81a1V2N0dmd2ZqMllhN0lmdFd5bGVTZlJ6UVcwcXBvX0FqQmhaTUpoS1FlMXJFR1FVYklONTdKUkUyUnVZVVhCR3pXdW5WRlhXbFBzSWtWUGFMelpvT1VfbnE4RWJpYTItY2NxYnJJUXZj?oc=5)
-
----
-
-### [The good fat: How brown fat can help lower diabetes, heart disease, and boost mental health](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWdoQkJQckNNbzJmRDNIX2dKMnZlZXFQWThEaUhKMmo4X2xqbzM5MjRjdUtCTUhzeFV5UE1KcWdITlg5Sjc2NjFzTjlSMWhJUzlqZ0ZybVBYYjJxRTNrZFJDVU41THd5N1dWNHgzM1FrOGljOGcyNm9EelZWWEtPSEVEd0Fwd092d254RFR0UTVOdEZsOG9ZbzVwWTEtNXJhV2Zvc0FpYVFIS1JlQjNQY3hLcjA4RExXQzJ2R3dFU1kxUjY4SERLd2VDWUpJeEtk0gHWAUFVX3lxTE5YUjMzcXQ1ZjdBaDBsREcwSGV6QXMtUWVMamRPUExMTmIzanl2MW43M0RVRWdfcDhidlVrbUp5MjJyZVRzYnd4ZElRQ0xyQ28tS2Y5Q3NfWFR6Slc1QWo0b1Z0M1ozb3lCOW1VTG5SVFF6eGUwdEszdDAwWG9hdERfeXRxR0RPVWZWRDhhOHBaanR1UXhQMHd2cXdkWUs1Qk9EX2RpNlVJTmFxNFhCTFJRVmRqR1Yyc3NQT3RLREx0SlRMVGlzaGJtdGUtVGl1OXg1djVsclE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">heart disease</span>
-
-Source: [Firstpost](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLWdoQkJQckNNbzJmRDNIX2dKMnZlZXFQWThEaUhKMmo4X2xqbzM5MjRjdUtCTUhzeFV5UE1KcWdITlg5Sjc2NjFzTjlSMWhJUzlqZ0ZybVBYYjJxRTNrZFJDVU41THd5N1dWNHgzM1FrOGljOGcyNm9EelZWWEtPSEVEd0Fwd092d254RFR0UTVOdEZsOG9ZbzVwWTEtNXJhV2Zvc0FpYVFIS1JlQjNQY3hLcjA4RExXQzJ2R3dFU1kxUjY4SERLd2VDWUpJeEtk0gHWAUFVX3lxTE5YUjMzcXQ1ZjdBaDBsREcwSGV6QXMtUWVMamRPUExMTmIzanl2MW43M0RVRWdfcDhidlVrbUp5MjJyZVRzYnd4ZElRQ0xyQ28tS2Y5Q3NfWFR6Slc1QWo0b1Z0M1ozb3lCOW1VTG5SVFF6eGUwdEszdDAwWG9hdERfeXRxR0RPVWZWRDhhOHBaanR1UXhQMHd2cXdkWUs1Qk9EX2RpNlVJTmFxNFhCTFJRVmRqR1Yyc3NQT3RLREx0SlRMVGlzaGJtdGUtVGl1OXg1djVsclE?oc=5)
 
 ---
 

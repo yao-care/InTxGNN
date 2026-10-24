@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="What news is there about Dipyridamole?">
-<strong>Dipyridamole</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Dipyridamole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Weight loss in your 50s: How shedding pounds in middle age can restore heart health - The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbVRjdDY0Tno1SW5YSExJcFpWcF9sV1NWckNnZkRuajJTcjlSRmx0WEhkLWdEbV9BYWFpSUZFcGF2UTBHVnhTTmJSR21VckkzcExtOHhpcG5uNDk3cXh4dWpIaTdtTUdTYXE0aHBweHlWdlBGZTFDN09ZUTJrMTJJbEpOOWVhb0ZRQlZPbzhHdlB0MUhYSnBPY0stT2JjMTcwZU52MUo3TWt2RW5lWDVuMGphZE8zYmkxYng4cFRoX3B6cWVsVWlmU2ZYLWVnblZ6WjdVM0Z4WG1JdFlDbFJPd0V1OF90TVNyUGlZM01nUy1CUdIB9wFBVV95cUxPSzJ0R19RZDVKZmxXeUpOMFhsSzE5dDdfeEtwd0stSnVHTURwRzVjSFFFN0gyXzd5MHhGbm5RZ0tVUXlNTWNPejkxWUpPMFo2TW9PaXVPd21LSGlVdmtDbElyenhkUUI5VzhqX0VGTDNwUUVPUlYyT1JybGpoblpUME96YUZLZ1lMOFdGam81a1V2N0dmd2ZqMllhN0lmdFd5bGVTZlJ6UVcwcXBvX0FqQmhaTUpoS1FlMXJFR1FVYklONTdKUkUyUnVZVVhCR3pXdW5WRlhXbFBzSWtWUGFMelpvT1VfbnE4RWJpYTItY2NxYnJJUXZj?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbVRjdDY0Tno1SW5YSExJcFpWcF9sV1NWckNnZkRuajJTcjlSRmx0WEhkLWdEbV9BYWFpSUZFcGF2UTBHVnhTTmJSR21VckkzcExtOHhpcG5uNDk3cXh4dWpIaTdtTUdTYXE0aHBweHlWdlBGZTFDN09ZUTJrMTJJbEpOOWVhb0ZRQlZPbzhHdlB0MUhYSnBPY0stT2JjMTcwZU52MUo3TWt2RW5lWDVuMGphZE8zYmkxYng4cFRoX3B6cWVsVWlmU2ZYLWVnblZ6WjdVM0Z4WG1JdFlDbFJPd0V1OF90TVNyUGlZM01nUy1CUdIB9wFBVV95cUxPSzJ0R19RZDVKZmxXeUpOMFhsSzE5dDdfeEtwd0stSnVHTURwRzVjSFFFN0gyXzd5MHhGbm5RZ0tVUXlNTWNPejkxWUpPMFo2TW9PaXVPd21LSGlVdmtDbElyenhkUUI5VzhqX0VGTDNwUUVPUlYyT1JybGpoblpUME96YUZLZ1lMOFdGam81a1V2N0dmd2ZqMllhN0lmdFd5bGVTZlJ6UVcwcXBvX0FqQmhaTUpoS1FlMXJFR1FVYklONTdKUkUyUnVZVVhCR3pXdW5WRlhXbFBzSWtWUGFMelpvT1VfbnE4RWJpYTItY2NxYnJJUXZj?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
