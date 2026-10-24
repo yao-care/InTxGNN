@@ -31,11 +31,11 @@ This page brings together the latest health news about “pancreatic cancer” a
 
 ## Related News (1)
 
-### [Restaging Pancreatic Cancer Requires More Than CT Imaging](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2lHVG9aV3BMM05FYWd1ZVpwczFXcTFjU3BXSkpiVndHOThSeUlBVGEwaDA4ZDltalMtUUVZblFmb0ZLR3FjaVl1OVBOcVhUaWVCcS1qYkRLTzIxZFd4M3RYX19Pb2VKWEZFcC1WNF95Y1BpemhZRkx2dkNPNmIwT0h2aE1yVExjcWd5ODU1YUR1WkwzaG9QTFhjZDhhcnM4bXc?oc=5)
+### [Restaging Pancreatic Cancer Requires More Than CT Imaging - European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2lHVG9aV3BMM05FYWd1ZVpwczFXcTFjU3BXSkpiVndHOThSeUlBVGEwaDA4ZDltalMtUUVZblFmb0ZLR3FjaVl1OVBOcVhUaWVCcS1qYkRLTzIxZFd4M3RYX19Pb2VKWEZFcC1WNF95Y1BpemhZRkx2dkNPNmIwT0h2aE1yVExjcWd5ODU1YUR1WkwzaG9QTFhjZDhhcnM4bXc?oc=5)
 
 2026-10-23
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2lHVG9aV3BMM05FYWd1ZVpwczFXcTFjU3BXSkpiVndHOThSeUlBVGEwaDA4ZDltalMtUUVZblFmb0ZLR3FjaVl1OVBOcVhUaWVCcS1qYkRLTzIxZFd4M3RYX19Pb2VKWEZFcC1WNF95Y1BpemhZRkx2dkNPNmIwT0h2aE1yVExjcWd5ODU1YUR1WkwzaG9QTFhjZDhhcnM4bXc?oc=5)
+Source: [European Medical Journal](https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2lHVG9aV3BMM05FYWd1ZVpwczFXcTFjU3BXSkpiVndHOThSeUlBVGEwaDA4ZDltalMtUUVZblFmb0ZLR3FjaVl1OVBOcVhUaWVCcS1qYkRLTzIxZFd4M3RYX19Pb2VKWEZFcC1WNF95Y1BpemhZRkx2dkNPNmIwT0h2aE1yVExjcWd5ODU1YUR1WkwzaG9QTFhjZDhhcnM4bXc?oc=5)
 
 ---
 

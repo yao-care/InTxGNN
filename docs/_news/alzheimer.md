@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 1 articles, 8 related drugs."
 permalink: /news/alzheimer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alzheimer/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Dementia Cases May Reach 24.7 Million Annually By 2050, Global Study Finds](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
 
 2026-10-23
 
 Source: [News18](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
-
----
-
-### [Brain fog at menopause: Separating normal change from dementia - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVFBNXNOT1R2VVlJMmpvdm5PY0hxNlFnVDRvaDRuRXNhN2N5TTRGUDBvelZ1N3Y2NlNiTzRfcjRVXzZYdG1LWWVlU2FQVm00Wm5qVlZKT0ZXdUk1OExWclRzRURxOXQzMmdhSUNfa2dLTUV5bGRUSEJkTlF3WFFpN1hJbjVfdUp6UGNuZXp2alluZjFwREpUOWZmbjUweGVDcHc?oc=5)
-
-2026-10-22
-
-Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVFBNXNOT1R2VVlJMmpvdm5PY0hxNlFnVDRvaDRuRXNhN2N5TTRGUDBvelZ1N3Y2NlNiTzRfcjRVXzZYdG1LWWVlU2FQVm00Wm5qVlZKT0ZXdUk1OExWclRzRURxOXQzMmdhSUNfa2dLTUV5bGRUSEJkTlF3WFFpN1hJbjVfdUp6UGNuZXp2alluZjFwREpUOWZmbjUweGVDcHc?oc=5)
 
 ---
 

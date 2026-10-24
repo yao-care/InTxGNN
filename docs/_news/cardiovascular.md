@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular News"
+title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 2 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
-# cardiovascular News
+# heart disease (cardiovascular) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
+<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -57,7 +57,15 @@ This page brings together the latest health news about “cardiovascular” and 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [High blood pressure during pregnancy can raise a woman’s future risk of heart disease by up to 2.7 times; - The Times of India](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQdEhwbGdyTFk3eHV1cC04SVptV3U4TG5XbzctNkZwc25OeHlyMmhfU2ZlaW93RE9nN3QwdVVOeGdPLTVvQWdybXlUWXdlUjdCX0FQeHdQTkZibHN1STZxOV9QeHM0Y2R0d1ludkpYVnR6RE5nN1FyUVRGSmNRbjg2aTdSdXFCWDVzeWxuUDljb0JyMFVEQjNHN1JEWjJySmtJSGtZSmNReVg2NVBDTkJVdFBXbDVDWjRpRjFLdEpCczR0aFB2T0JHSlc1djZzN3JWLV9WR2w0R191Qks2X1UtZ0E5bFZ3RFlVMFNjYTVveXhrWmJ0MlBGZjc1Vkw5bktEdnliZXZ5Qk9HSzFDclBnNTE5LXNCX1MzdDdhWmZPc2h2VlhGTGxZM0NONlNrR0xOdnBqNzBDNWRpX1QtREhrcW1zZGZsV3l0eGxnMllUME5qbzE1RVHSAdsCQVVfeXFMT0Ruc18td3c3bFFyb21PX0ZDVGpFMWRLZXZkendCaDFEZklrMG5aQWs5NVJJdjFzd3U5a1IwUFlIWVBZZmVTSTZEd1JPR2szaG5LcFFBcmtFdXhNeTFPWkh3cEJJdXdDVjg2aVhhOGFtLUpaNzAybVZnZFF2MFZFZ2VqZVhTM21tblViRHBEeTZkWjV0djVaRTU5TzJScW8wbEFyaDVLOVpNOFExZ0lhT01uNUw0YmtMY0NBNzM1V3ZDRU5manI4NVRnMXdKS0I2ekNfRFhuNHdYS2lCODVBOV9OamhpSlZaNzFXX19uclVfSW41blBhRmQ4aTlzb1JvdVlzdVRlcGNfZ01LRDAyQXBzU1haekIwd3FFOUpJSm9qek9zN1VzS2trTmZ2LU5FTjdpNkhha2VWWEdiV0RBUFRaNnVvTUlkb0tYRHVEUVMtT2hTRWhXTnlqQXM?oc=5)
+
+2026-10-24
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQdEhwbGdyTFk3eHV1cC04SVptV3U4TG5XbzctNkZwc25OeHlyMmhfU2ZlaW93RE9nN3QwdVVOeGdPLTVvQWdybXlUWXdlUjdCX0FQeHdQTkZibHN1STZxOV9QeHM0Y2R0d1ludkpYVnR6RE5nN1FyUVRGSmNRbjg2aTdSdXFCWDVzeWxuUDljb0JyMFVEQjNHN1JEWjJySmtJSGtZSmNReVg2NVBDTkJVdFBXbDVDWjRpRjFLdEpCczR0aFB2T0JHSlc1djZzN3JWLV9WR2w0R191Qks2X1UtZ0E5bFZ3RFlVMFNjYTVveXhrWmJ0MlBGZjc1Vkw5bktEdnliZXZ5Qk9HSzFDclBnNTE5LXNCX1MzdDdhWmZPc2h2VlhGTGxZM0NONlNrR0xOdnBqNzBDNWRpX1QtREhrcW1zZGZsV3l0eGxnMllUME5qbzE1RVHSAdsCQVVfeXFMT0Ruc18td3c3bFFyb21PX0ZDVGpFMWRLZXZkendCaDFEZklrMG5aQWs5NVJJdjFzd3U5a1IwUFlIWVBZZmVTSTZEd1JPR2szaG5LcFFBcmtFdXhNeTFPWkh3cEJJdXdDVjg2aVhhOGFtLUpaNzAybVZnZFF2MFZFZ2VqZVhTM21tblViRHBEeTZkWjV0djVaRTU5TzJScW8wbEFyaDVLOVpNOFExZ0lhT01uNUw0YmtMY0NBNzM1V3ZDRU5manI4NVRnMXdKS0I2ekNfRFhuNHdYS2lCODVBOV9OamhpSlZaNzFXX19uclVfSW41blBhRmQ4aTlzb1JvdVlzdVRlcGNfZ01LRDAyQXBzU1haekIwd3FFOUpJSm9qek9zN1VzS2trTmZ2LU5FTjdpNkhha2VWWEdiV0RBUFRaNnVvTUlkb0tYRHVEUVMtT2hTRWhXTnlqQXM?oc=5)
+
+---
 
 ### [Key Drivers of Mortality in MASLD](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
 

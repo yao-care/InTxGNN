@@ -14,7 +14,7 @@ permalink: /news/alpelisib/
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026 - European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
+### [Physical Therapy and Rehabilitation Interventions for Pain and Dysfunction in Rheumatoid Arthritis: A Systematic Review](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTNTTVM5VVN2MmlleXJsV3Y0M1ktRGJldGtmLThlMnpHZEpmUVpCYzFsMHQ2dHM0VkduWW1QMlJtSHd0N2o3akQwaGt6U1NtaUp0dEJnZUJncmVPY2FubXMyajllNFNoTENRY1hKQkdNdFNuOXpWY253cUctaXdFdE9WdnZjZFlCWWctMFpDRV9rUjllakhjZ2NJZnNiSE1wNlBBWi1NdThqd3R2SmV3NEg1cGt3aWp6YVBfVDc5UWtYYk9GdDYza3dKdFAtckc0Ujg4aWVRaHMtcWVqQkRsb2M5YTVrbUppUWoxYmxB?oc=5)
 
-2026-10-22 <span class="news-indication-tag">RA</span>
+2026-10-24 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
 
-Source: [European Medical Journal](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTNTTVM5VVN2MmlleXJsV3Y0M1ktRGJldGtmLThlMnpHZEpmUVpCYzFsMHQ2dHM0VkduWW1QMlJtSHd0N2o3akQwaGt6U1NtaUp0dEJnZUJncmVPY2FubXMyajllNFNoTENRY1hKQkdNdFNuOXpWY253cUctaXdFdE9WdnZjZFlCWWctMFpDRV9rUjllakhjZ2NJZnNiSE1wNlBBWi1NdThqd3R2SmV3NEg1cGt3aWp6YVBfVDc5UWtYYk9GdDYza3dKdFAtckc0Ujg4aWVRaHMtcWVqQkRsb2M5YTVrbUppUWoxYmxB?oc=5)
+
+---
+
+### [Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses - News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
+
+2026-10-23 <span class="news-indication-tag">RA</span>
+
+Source: [News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
 
 ---
 

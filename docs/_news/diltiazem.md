@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Children's brain reward responses may explain ultra-processed food-related weight gain](https://news.google.com/rss/articles/CBMizgFBVV95cUxPek5lZV9VWmdTdmg5UlRWdFNHN1lDSHFqY0dPRFJKU2gyWEE0Q3hvZU5RUlFDTncxUkdlZXZRbDJsQ1NjYjE4WWVVdm5VNEpoTHJIbGZBZldZLW5hWUpBYjhxeE5UMW9HMTJzMDk0by1xM0xfZVZPVnJIYWJSSmktcWJ2WW1NcjVKakRKQ05VbklkLUFWWGg0XzBrUjVZbnZaekc2TklrcVlGSkZNQ1hKNTgxYWU0ZFNGRm1fdHlYNlF1NEF1QmRmZVNaajVHZw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizgFBVV95cUxPek5lZV9VWmdTdmg5UlRWdFNHN1lDSHFqY0dPRFJKU2gyWEE0Q3hvZU5RUlFDTncxUkdlZXZRbDJsQ1NjYjE4WWVVdm5VNEpoTHJIbGZBZldZLW5hWUpBYjhxeE5UMW9HMTJzMDk0by1xM0xfZVZPVnJIYWJSSmktcWJ2WW1NcjVKakRKQ05VbklkLUFWWGg0XzBrUjVZbnZaekc2TklrcVlGSkZNQ1hKNTgxYWU0ZFNGRm1fdHlYNlF1NEF1QmRmZVNaajVHZw?oc=5)
+
+---
 
 
 <div class="disclaimer">

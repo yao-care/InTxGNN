@@ -14,7 +14,7 @@ permalink: /news/apomorphine/
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Most People Globally Face 'High Genetic Risk' For Three Common Diseases: Study](https://news.google.com/rss/articles/CBMisgFBVV95cUxORVVsRHZpdU1yZG91S1Zmd1ZjVmJNb1pHTEpHR0tzNG45aVJneWhhVGlUT2ZuM0k3Y1RTb09ja1lZODM0Qm1odTZYT2Y1dUUwMDl3b01XZ0x4c0NTWHIzbGx2Y2NfMWNwczhzU25mU3Z4dUl2SV9hcWtSSTJoX1pNb0U3bTJtdWlGbDdfcTJ4TFpLTjVWWkd3cEdfNkFHbG9MZUdqX1dZTkxqUXJoZ0NUdjFR?oc=5)
+
+2026-10-24 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxORVVsRHZpdU1yZG91S1Zmd1ZjVmJNb1pHTEpHR0tzNG45aVJneWhhVGlUT2ZuM0k3Y1RTb09ja1lZODM0Qm1odTZYT2Y1dUUwMDl3b01XZ0x4c0NTWHIzbGx2Y2NfMWNwczhzU25mU3Z4dUl2SV9hcWtSSTJoX1pNb0U3bTJtdWlGbDdfcTJ4TFpLTjVWWkd3cEdfNkFHbG9MZUdqX1dZTkxqUXJoZ0NUdjFR?oc=5)
+
+---
 
 
 <div class="disclaimer">

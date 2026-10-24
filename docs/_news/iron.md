@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Iron</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [VDAC1 regulates disulfidptosis susceptibility and associates with the immune microenvironment via multi-omics analysis in lung adenocarcinoma](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xLVlRQlJQMURTUjY5UHhJZVdJTFZ4RkdxcXFrR015Y0xTQXFLbm8zcnFDVFkxZExxRkI0MDMyR1lSd2ZKWDVxalZVVm5CVi05bUFQa0dEM2hzR1VQYW5J?oc=5)
-
-2026-10-24 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xLVlRQlJQMURTUjY5UHhJZVdJTFZ4RkdxcXFrR015Y0xTQXFLbm8zcnFDVFkxZExxRkI0MDMyR1lSd2ZKWDVxalZVVm5CVi05bUFQa0dEM2hzR1VQYW5J?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
