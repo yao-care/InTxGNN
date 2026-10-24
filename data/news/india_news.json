@@ -1,15 +1,111 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-10-24T14:55:52.844839+00:00",
+  "fetched_at": "2026-10-24T19:52:35.141216+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 79,
+  "health_related_count": 81,
   "news": [
+    {
+      "id": "99dea2396c88",
+      "title": "In situ immunotherapy shows encouraging survival findings in prostate cancer - Urology Times",
+      "published": "2026-10-24T18:48:05+00:00",
+      "summary": "In situ immunotherapy shows encouraging survival findings in prostate cancer&nbsp;&nbsp;Urology Times",
+      "sources": [
+        {
+          "name": "Urology Times",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHJLcmFFZFUzb3FJaUJlNm4xaG5YYkVsdV9pVVJlUVdxdXdEblVsbmFrN0Z5cjdGeW9NZ0gyLWFPVGYwbHNXYVlmZ0t1c3VyOFdwUXg4MmFVZlVtYTZSMlJVZ2ktMTJZaFRhTnlTTy1xdkw5R0QwWEN3ZUF0MXJfX1pWRFVEV0pGTklvT1RMLVBfUnlteEFVV2JkTjFrY3M1Y1lKcnlVZFZsb3BxaGxV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29da4fe74b61",
+      "title": "Kidney Biopsies Safe Even in High-Risk Patients - Medscape",
+      "published": "2026-10-24T17:38:32+00:00",
+      "summary": "Kidney Biopsies Safe Even in High-Risk Patients&nbsp;&nbsp;Medscape",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMk85UEplYVZjWS1HMjJMSVg4MEM3ay1IR3BaNXotcTBBLTZHVG5IY09LZTJZcDRNZHpKT0VPdS03ZGlpLUM3d1hFSFROZzRkVW1XSTMxTS1ucXZwUVFEY244N2ZBWEpDYUpXZWNsWFJmSmVNX3VuZjV0NEEzcExnR3N6M3pQV3pDR2Y3MjZxbzdQWV9MY0JiRFdqcFJGck5ycG4yd2VUeThiTjdH?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4faf40b07222",
+      "title": "Doctors explain why breast cancer screening should start at age 40 - News-Medical",
+      "published": "2026-10-24T17:30:00+00:00",
+      "summary": "Doctors explain why breast cancer screening should start at age 40&nbsp;&nbsp;News-MedicalNot every breast cancer begins with a lump: Check your skin, says doctor&nbsp;&nbsp;The Times of IndiaWHO says breast cancer killed 6.9 lakh in 2024 and 80% had no risk factors: Screening, self-exams and knowing your normal can help catch it early&nbsp;&nbsp;Hindustan TimesIf You Are Due for a Mammogram, Schedule it Today&nbsp;&nbsp;citybizTaking Control of Her Breast Cancer Risk&nbsp;&nbsp;McLaren Health C",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEE5bGR2OVJ3ekVPQ0lPNVoxWHNNWk84MFppRTZKSGpnMTZ1UHVPdWxocTNuWXhVSGVfRWh0Zzc4c2xaRzJIcENfNThuVXBCX2VZOWVqaW1TbjRtS2l1VEFMZGZmNjM0bG1lNDVXNm5UeDh6ZWhxNF9RRnFlLUJaMEdBVURBdm5RZC1fLU9xU01Xbk1meHpaZ3UwTExYWElBQXFCQ0tIUm5PQUJBcnNxVlNhN2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f44fde3a4f38",
+      "title": "Good Health Begins Long Before a Hospital Visit: Dr. Shriram Nene - Deccan Chronicle",
+      "published": "2026-10-24T17:10:52+00:00",
+      "summary": "Good Health Begins Long Before a Hospital Visit: Dr. Shriram Nene&nbsp;&nbsp;Deccan Chronicle",
+      "sources": [
+        {
+          "name": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOE1OaHB6MS1YTHFrZUdrVGdRRDlmY3B2VHhFTXFQVzM5OGh4ZXJ4VElKQ2xwX2JZZWxqYkZKaXZwWW5XY3NZLUFoTHA0eEg0RjBXd0dxUGlMZ19vcE1ya1JCby12cGlwV29udC1PQXVuYTVjUUh4TW11TkVfVHV4N05tTjRkT0ZiMC1IWmNobnFqb09VblZvT2x6a2MyMkt6RnIybk8xVFZ5NWxiNHhWak9aTzNBa0dibGgwWWN6b2Rkc1Y4SFpJaTlXUjJrNDF50gHWAUFVX3lxTFBWRkRLX2FZeksxeUdLQ1M5ZkpSRGpjdTJLOXBTNzlFSkRLNUNpdVFhd1prR05ON3h5VU9BdVpuMi14cWZFZWJBQmJERlJNbkZsdmRiWGg0Z0ltcHJzc0gxVWZIa3Vpb0sxUzFCWVF5S2hfeFVKZXpBcGJycmd6N3c4TGV0V3BHR1JvSHRuNkc1V1BidXUtZEJCeWRhbmNCSnpUbmtJX1paUkRyYlhGalNBZVdwNXJIZUh3U0ptQUE2djAwY0ExdmdzZ1Y2Z3hiU1VjOHBSQkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11f76ad71a6f",
+      "title": "Novel ADC Extends PFS in HER2-Low Breast Cancer - Medscape",
+      "published": "2026-10-24T15:59:32+00:00",
+      "summary": "Novel ADC Extends PFS in HER2-Low Breast Cancer&nbsp;&nbsp;MedscapeMatteo Lambertini and Kristina Jankovic About APEX-Breast01 Trial Results at ESMO 2026&nbsp;&nbsp;OncodailyNew ADCs Poised for HER2-Low Advanced Breast Cancer Space as Enhertu Gathers Data in Earlier Setting&nbsp;&nbsp;GenomeWebChinese Drug Shows Benefit in HER2-Low Breast Cancer&nbsp;&nbsp;MedPage TodayFagr Aboumadawy: HER2-Low Breast Cancer: ESMO26 Puts ADC Comparative Efficacy Into Focus&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzJiMnRuZWZyN3RUVGhqS0EtajloX25IZGFaNnNIYnpCRGxELU1kdi1TVERRaGFmYTRKVGJhQzhvbDBqOHA3SU5qeHpidXVIWW1JTnVlTDlnZFh0ck5QRUVUNGtBZUlSRXVzSVVoZVVmc2RmVjdUR1ZOM1o4S25MalNlY0lQU2o4WG8zT1lyVkhTcHFCc1U5bl9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f8422540b6d",
+      "title": "The Changing Obesity Treatment Landscape: Where Does Bariatric Surgery Fit in the Age of Weight-Loss Drugs? - Health and Me",
+      "published": "2026-10-24T15:30:00+00:00",
+      "summary": "The Changing Obesity Treatment Landscape: Where Does Bariatric Surgery Fit in the Age of Weight-Loss Drugs?&nbsp;&nbsp;Health and MeBeyond the Scale: Weight-Loss Drugs Aren’t a Quick Fix&nbsp;&nbsp;MedscapeMolecular obesity therapies advance, but precision prescribing remains largely unproven&nbsp;&nbsp;Bioengineer.org",
+      "sources": [
+        {
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeU1VMnZCSTNjVDhnMER2TVJOVEhVYXN3ckp0U3JyakFLSVF3UnhJWmtZUkJ6ZnJ2dWtPanJYMkJsNDY1SWFuSHFCdVRJeDd6U1pUU1ZYRU1COTJJdkpHR0JSRzR6T2xKbHcyTXQ1RzRCVldSMmVPV2JIVVVNUElacE1NZHVTdnBtMmdDalhTcFJyQ2hZYjZnNFNzUjNqLXhyZUF5UmI4R01ueHlMYVFYUklxbGFFRE9UbXlDcWtUUEZlczdTRnJvMmgzNmJRQmhBeExNdE5xa2JhR2UzV29Zc2hycXBhU05rMzJRQWtxbmU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe494634a2db",
+      "title": "This US Startup Claims Its 'AI-Generated Viruses' Have Been Used On A Human Patient - NDTV Profit",
+      "published": "2026-10-24T15:08:13+00:00",
+      "summary": "This US Startup Claims Its 'AI-Generated Viruses' Have Been Used On A Human Patient&nbsp;&nbsp;NDTV ProfitAI-designed virus infects person for the first time&nbsp;&nbsp;MashableStart-Up Claims to Use A.I.-Created Viruses to Treat a Patient&nbsp;&nbsp;The New York TimesAI-Designed Phages Combat Bacteria: Microbial Minutes&nbsp;&nbsp;ASM.orgEnlisting AI in the fight against drug-resistant bacteria&nbsp;&nbsp;Universities of Wisconsin",
+      "sources": [
+        {
+          "name": "NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmY2ck9SZmVrbWQ3SVI2YmNiRDNaRS1VZ2tFbkZJd3RpRlVrWjgybE9KYllpMlBEd0RvZ1pleVg2ZG1TYXBXa0hpNkVCdmxma2psYWVseDVwSXJ3RjN4ZFhsVkVOZWRRYm1haEY5LVdESWR6UG5tb3RWbUNKMU9SQ0pQMGlNX2R6NlUxVkttYkZ5bDNEcFRTOUx2a2pDOFBVempCbEVFSWM4UldjajVRc21CR1JQc3R6RW1xUlhxSG1zS21P0gHMAUFVX3lxTE1vNHFKM3J6aVY3eUZkRDY4TGk5Z0J0M0tPN3VOWl9YTHhZbjJxRHo0Wkc0NHNJdm56TEZFRzc2ZzhiZGQ3ZkFnZWdlV2txUlplSTNRSTNMMjN2LTNYN3Qyd2thSVNPem40T0JaekhuQTlOMG5vTDZCcFlGNDJJNGdCeUdWaXpYZUUwSEtPVkNESkdxT1hNc1hsLXNMMEhuY1lEcDlDY2Jrc0JESzNVV3lWVVVYZmJDREluQm9Id1JMNzNiZkZrQjdoZ2c1eQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95df89640d01",
+      "title": "Adenoid Cystic Carcinoma of the Breast in an Older Female: Diagnostic Pathway and Omission of Adjuvant Chemotherapy - Cureus",
+      "published": "2026-10-24T14:53:09+00:00",
+      "summary": "Adenoid Cystic Carcinoma of the Breast in an Older Female: Diagnostic Pathway and Omission of Adjuvant Chemotherapy&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWWN4ZG9hbGpGaTBvbUl3RGF1bURYQUNKeldKd0hfdURhczNwR2Fwa2tVcWJOSXp0YTZGVlR2R2IySHZERUk5QWV2WjE3amhrX1ZseHRaMDh2ZDJ3dDFCSzlRRnhtRUJlVm1pOUtrWlZVSGh4TUt0Smp5OVlmZFFEYnZpY1ZUZzJuNHUxUEpoQjhKNGNuaDhWNUlmX3BMMkdxbGhMbXpwRGlDR1RNMDdIajkyaFdZdV9KMXdvZVR6SnB0dWRkX0o3QnphU181OXRiWnpIb2ZtZC1IODhCWmltRHJlRFNRdDVw?oc=5"
+        }
+      ]
+    },
     {
       "id": "2dc96e5428da",
       "title": "Rotary Club of Aizawl Organises “End Polio Now” Awareness Car Rally on World Polio Day - DIPR Mizoram",
       "published": "2026-10-24T14:08:00+00:00",
-      "summary": "Rotary Club of Aizawl Organises “End Polio Now” Awareness Car Rally on World Polio Day&nbsp;&nbsp;DIPR MizoramWorld Polio Day: 5 Crucial Facts Every Parent Must Know About The Polio Vaccine&nbsp;&nbsp;NDTVHelp Rotary and Its PolioPlus partners deliver more than vaccines&nbsp;&nbsp;OrcasonianHealth Minister Highlights Vaccination Efforts on World Polio Day&nbsp;&nbsp;News On AIRWorld Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps persist&nbsp;&nbsp;Pan American",
+      "summary": "Rotary Club of Aizawl Organises “End Polio Now” Awareness Car Rally on World Polio Day&nbsp;&nbsp;DIPR MizoramWorld Polio Day: 5 Crucial Facts Every Parent Must Know About The Polio Vaccine&nbsp;&nbsp;NDTVHealth Minister Highlights Vaccination Efforts on World Polio Day&nbsp;&nbsp;News On AIRRotary Club of Pasadena Holds Fifth Annual Walk/Run to End Polio Around the Rose Bowl Sunday&nbsp;&nbsp;Pasadena NowWorld Polio Day 2026: Americas mark 35 years free of wild poliovirus as vaccination gaps pe",
       "sources": [
         {
           "name": "DIPR Mizoram",
@@ -30,6 +126,18 @@
       ]
     },
     {
+      "id": "1c9506517d29",
+      "title": "The last two countries with polio: Why Pakistan and Afghanistan are struggling to eliminate it - The Times of India",
+      "published": "2026-10-24T12:57:00+00:00",
+      "summary": "The last two countries with polio: Why Pakistan and Afghanistan are struggling to eliminate it&nbsp;&nbsp;The Times of IndiaWHO reports six more polio cases in Afghanistan&nbsp;&nbsp;VOA - Voice of America English NewsAfghanistan urges polio vaccination as cases reach 42&nbsp;&nbsp;Ariana NewsUNICEF: Every Child Has the Right to Grow Up Healthy and Polio-Free&nbsp;&nbsp;8AM MediaFive-year-old Zahra among Afghanistan’s polio victims as cases rise&nbsp;&nbsp;Amu TV",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnh2R2tUeVhPQW9LWGZyYmN0V0I2cXNhVDhfSFhRblhfaVE2X3U2aXZmMHhtUFhaenlack1Gb3hpSjZ2VGtVMUlCdjJGRUFOMlNsOE1rZzFpR2x5Zjl6bm1CTXRaR3E5OGdOVnZJQzN1MFdiNnM0MjJ6V1hDako4U3dlSW5abDJKZXJFcTBWbVV2NXRqR25TNE1sQmUwQnlJQ0NkV2NmV1dMRmxRcHFVb2U5QXBFclZFY1pubVZ1cFdFRHJDc3hPdTlNNFJRUG85dlpadGpvSmkzYVN4TEJTQy1VcWtQaFJDMHpOMUd0UnRDbWNNV2c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ae3d691d0a3e",
       "title": "New long‑clawed British dinosaur is the first of its kind in Europe - Phys.org",
       "published": "2026-10-24T12:00:01+00:00",
@@ -42,14 +150,14 @@
       ]
     },
     {
-      "id": "49c747af36e2",
+      "id": "289651bfe4bc",
       "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis - Science Daily",
       "published": "2026-10-24T11:54:39+00:00",
-      "summary": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis&nbsp;&nbsp;Science DailyAntibody patterns may predict inflammatory bowel disease years before diagnosis&nbsp;&nbsp;News-MedicalAntibody Signatures Could Reveal IBD Risk 10 Years Before Diagnosis&nbsp;&nbsp;Inside Precision MedicineScientists have found a way to predict the progression of IBD ten years before diagnosis&nbsp;&nbsp;LIGA.netWe might have a way to predict inflammatory bowel disease&nbsp;&nbsp;NewsBytes",
+      "summary": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis&nbsp;&nbsp;Science DailySee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEMVpTV0d3c2l1d3V6cXU2U2lUQThnYXFqeGNtUFNNVGI4UVZYTGh3aGJfclA4U0VBMkpJQmFZRG9YcVdvVXo5OWtFZ0RaVHdjUzZVQ3ZnWmNwdDN5M0tyZ0pQUDMyMzZaWGhxaERB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMc1drUkdDR19OSmpYMmlZZFRVdzcxRE1SbnJWTEVXcVFFRXJaLXlxNXQtWE9nN1ZGdk9TdkpINGcyRkM4VVo1REgzdUZRY1FoS1VUanNfa3RhNFlWbEhSbXA5alU5Wmh0R0lDdmQ3bw?oc=5"
         }
       ]
     },
@@ -90,6 +198,18 @@
       ]
     },
     {
+      "id": "8c1d528861a8",
+      "title": "Bilateral Spontaneous Kidney Hemorrhage Presenting as Acute Anemia in Pyelonephritis and Newly Diagnosed Diabetes - Cureus",
+      "published": "2026-10-24T10:31:40+00:00",
+      "summary": "Bilateral Spontaneous Kidney Hemorrhage Presenting as Acute Anemia in Pyelonephritis and Newly Diagnosed Diabetes&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTU0xSlZKNzlHcEJyeUZiSWJFaEVjREhnTnV5TTNPYXhNZHAySy1lSU1UeGlDRWZaS1Y4TWxMUl9mdk5FVVRMZjZfbDZzVzRWMmlVcnNnd2FXSnNCMGE5cm5sbjdRM05RdmtRVjdlbnA5bk5KR2hrVl9wMnpZUE9ydjlyaDY0UFBoQ3hSdERmU0prdWhuNE9kS3VEb2hVMUJ0bnhqUGp3OU94THdGajFaTktNUUxJQ1hlSEZ4bk9CVjhDNkhDbUc1Vk1yaVRHMHRwVHRQQ3VjS1BjQ2czZEV3a0l3YUM5YnM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "caa9e65b5eed",
       "title": "Amol Akhade and Mohana Murali Kolluri at COGC 2026: The Cancer Care Gap in Asia-Pacific - Oncodaily",
       "published": "2026-10-24T10:21:49+00:00",
@@ -102,22 +222,10 @@
       ]
     },
     {
-      "id": "5fd1e0fe4f97",
-      "title": "WHO says breast cancer killed 6.9 lakh in 2024 and 80% had no risk factors: Screening, self-exams and knowing your normal can help catch it early | Health - Hindustan Times",
-      "published": "2026-10-24T10:18:53+00:00",
-      "summary": "WHO says breast cancer killed 6.9 lakh in 2024 and 80% had no risk factors: Screening, self-exams and knowing your normal can help catch it early | Health&nbsp;&nbsp;Hindustan TimesNot every breast cancer begins with a lump: Check your skin, says doctor&nbsp;&nbsp;The Times of IndiaIf You Are Due for a Mammogram, Schedule it Today&nbsp;&nbsp;citybizTaking Control of Her Breast Cancer Risk&nbsp;&nbsp;McLaren Health CareExperts Share Updates on Breast Cancer Screening and Treatment | Newswise&nbsp",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPVlBPNm90dWYxblBsVWFtX3J3YnI0SmVYU1A2VngtcnlZMXdKTXBWYzFtSGxVNVpSN1p2T3g4NTdVOGFXSDNLUm5icTRRRUNHYl9Oa3NCU1JpQkpuMUtibThsSkw3SXNUTHlfTHBWNU11OF9JQ0FtVW1YTUExUl9BVTg5QUxldnlUVkg5YVRVaTB3WWtManpCamdYbF9iT2x2a0V1ZG5YZDQ1amtjUmZDLUY4NFdYbjdseks1bHBvZGs0RFZIbjJXYjZrRFlIUFNRa2c1SnFLZEs0aXpmblRza0dNd3g4RHRRMXFTTm1fYjNNOWJDUG1fZkluaUVITHpFOWlqZm4wbFFkcVllLW1pNXVGMENwOU1GSVI2X3NDV0ZhUHhBU1U1a3g2b0RYcmh4OW0zQy1B0gG7AkFVX3lxTFB3NHQ4VjRvc2g3SEtMZE1Eb2ZCaGhsR3M0MnYxZVBfTGQ3RWVHY21yVGhJUGUzU2lBTFRqaUR1ZW9SWHJzRFFzNnd4ZmU1clJQU1BaT0d0X0RGM254dTBVOXFmaV9ZZzE0b3Jvd2FSZ05NWTZEcFE5b1N4YU1ZWHNnbHZjNFUzejRiQzJ0UEltTHRQOFFudGFqM1BkQXBjUDRBdTg0VUFYeV9fb2xFTVNESHg4LXgwazVhMnpQOXBiZ3ZUSDdNM2hfNFpnWHpsbGwzRmJOVWQ1ZFdLQkxXdXIzaHluM2xYcTJpOUh2RVNhc0xDM3pOVU1CbmNjdFl0NUZfbnVhQVlLcDVWN0hxbjVGZTZ2SjFrRUpNeEV0X1RpYTJYendxck5VaDVmM0RRalZxcUdBMHlVVjYwWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "611f6fe894b5",
       "title": "Scientists Capture Remarkable Coral Recovery in Stunning Images - Scubaverse",
       "published": "2026-10-24T09:50:14+00:00",
-      "summary": "Scientists Capture Remarkable Coral Recovery in Stunning Images&nbsp;&nbsp;ScubaverseBleached corals brought back to luminous life, in two lab experiments&nbsp;&nbsp;The HinduStanford study reveals how healthy coral clones could help revive dying reefs&nbsp;&nbsp;Mid-DayA random lab accident just revealed the unusual technique that can revive dying coral in weeks&nbsp;&nbsp;UpworthyScientists find a faster way to reverse coral bleaching&nbsp;&nbsp;Stanford Report",
+      "summary": "Scientists Capture Remarkable Coral Recovery in Stunning Images&nbsp;&nbsp;ScubaverseBleached corals brought back to luminous life, in two lab experiments&nbsp;&nbsp;The HinduStanford study reveals how healthy coral clones could help revive dying reefs&nbsp;&nbsp;Mid-DayResearchers put bleached corals and healthy corals together for 5 days – and were astounded at what they saw&nbsp;&nbsp;BBC Wildlife MagazineScientists find a faster way to reverse coral bleaching&nbsp;&nbsp;Stanford Report",
       "sources": [
         {
           "name": "Scubaverse",
@@ -189,7 +297,7 @@
       "id": "da559d5b3e79",
       "title": "WHO confirms first documented human Shamonda virus case in France - News On AIR",
       "published": "2026-10-24T07:35:45+00:00",
-      "summary": "WHO confirms first documented human Shamonda virus case in France&nbsp;&nbsp;News On AIRShamonda virus, the livestock pathogen detected in human for the first time | Explained&nbsp;&nbsp;The HinduFirst known human case of Shamonda virus reported in France; patient dies&nbsp;&nbsp;Down To EarthShamonda virus: First human case reported in France after decades of animal infections; doctors explain symptoms, how it spreads, potential health risks, and precautions people should know&nbsp;&nbsp;The Ti",
+      "summary": "WHO confirms first documented human Shamonda virus case in France&nbsp;&nbsp;News On AIRShamonda virus, the livestock pathogen detected in human for the first time | Explained&nbsp;&nbsp;The HinduFirst known human case of Shamonda virus reported in France; patient dies&nbsp;&nbsp;Down To EarthShamonda virus: what do we know about its effects on animals?&nbsp;&nbsp;WOAHShamonda virus: First human case reported in France after decades of animal infections; doctors explain symptoms, how it spreads,",
       "sources": [
         {
           "name": "News On AIR",
@@ -213,11 +321,23 @@
       "id": "fc837cdc65a8",
       "title": "Most People Globally Face 'High Genetic Risk' For Three Common Diseases: Study - NDTV",
       "published": "2026-10-24T07:00:30+00:00",
-      "summary": "Most People Globally Face 'High Genetic Risk' For Three Common Diseases: Study&nbsp;&nbsp;NDTVMost of us carry genetic risks. Does that mean we’ll get sick?&nbsp;&nbsp;The Indian ExpressAverage Human Genome Carries Millions of Variants, New Research Shows&nbsp;&nbsp;Sci.NewsMost people carry high genetic risk for 3 diseases: Study | Tap to know more | Inshorts&nbsp;&nbsp;InshortsYour DNA May Put You at Risk of Diabetes, Heart Disease and Schizophrenia: New Study Explains Why&nbsp;&nbsp;Onlymyhea",
+      "summary": "Most People Globally Face 'High Genetic Risk' For Three Common Diseases: Study&nbsp;&nbsp;NDTVAverage Human Genome Carries Millions of Variants, New Research Shows&nbsp;&nbsp;Sci.NewsResearchers describe the average genome using data from nearly one million people — News-Medical&nbsp;&nbsp;UA.NEWSMost of us carry genetic risks. Does that mean we’ll get sick?&nbsp;&nbsp;The Indian ExpressMost people carry high genetic risk for 3 diseases: Study | Tap to know more | Inshorts&nbsp;&nbsp;Inshorts",
       "sources": [
         {
           "name": "NDTV",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORVVsRHZpdU1yZG91S1Zmd1ZjVmJNb1pHTEpHR0tzNG45aVJneWhhVGlUT2ZuM0k3Y1RTb09ja1lZODM0Qm1odTZYT2Y1dUUwMDl3b01XZ0x4c0NTWHIzbGx2Y2NfMWNwczhzU25mU3Z4dUl2SV9hcWtSSTJoX1pNb0U3bTJtdWlGbDdfcTJ4TFpLTjVWWkd3cEdfNkFHbG9MZUdqX1dZTkxqUXJoZ0NUdjFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1d48e96527b",
+      "title": "NASA confirms plans to land astronauts on Moon in 2028 - Daily Excelsior",
+      "published": "2026-10-24T06:15:36+00:00",
+      "summary": "NASA confirms plans to land astronauts on Moon in 2028&nbsp;&nbsp;Daily ExcelsiorNASA, Partners Accelerate Lander Development for 2028 Moon Missions&nbsp;&nbsp;NASA (.gov)NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch?&nbsp;&nbsp;Space‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers&nbsp;&nbsp;CNNNASA updates lander plans for Moon landings, finally solves long-festering Orion issue&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Daily Excelsior",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM3lTZmIxcEo1ZzJ5Nm9oLTRjVlVjREVETjB1U3FuMG0ycEt3dUxhNWhfakRoQTZuRjJ0b0dTWW9YRXFjNXVzbmFVbjM4QnhWNkFQUk5SRms3SzJmS25XelpYNVU4V0tWc1hIUXg1MnBHaHVGSTluOXExY19IZWpFNnhMVzJXeEdLMGo1eVBVONIBkwFBVV95cUxOQXNrWUVWXzlSZHJSTjRTNjhFVG04MDBjdzZQM1BGcFBFcWRDVjdHb2x6T2k4S3lBZTdMWDk5M0pZM1hNd2tTbml0VUxwZThPUWJwOHFzUjFyOGtyZVF5dGNIMU1lb3FHV0lKWk5Kd01ZWGJRdEVocEprNkE2SlQ3aE5tYXR3MnFsbzZRcm1DaFEtdjg?oc=5"
         }
       ]
     },
@@ -230,30 +350,6 @@
         {
           "name": "healthcare-in-europe.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSXlxOVM3U2FPN19zWTUyRmRMQ1dnaXZNRnVUTG4xcWpYaVNUeUFGdTFXdHQ3Vzc4X25aVVBnQVdhWXN3dEV1bWxUNUdTNzhiT0lVOElJWGRzVm9FRDEtZE1VRndicFRwdUxoRG5OWGFoUjNSbFJ2c1FRMjdfTUxuaWdxZm5QZ0I1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbe0eff09af3",
-      "title": "Body clock link? New type of depression could affect millions - NewsNation",
-      "published": "2026-10-24T06:04:27+00:00",
-      "summary": "Body clock link? New type of depression could affect millions&nbsp;&nbsp;NewsNationSleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York TimesCircadian Depression: What Are The Symptoms Of This New Depression Subtype?&nbsp;&nbsp;NDTVcircadian depression symptoms&nbsp;&nbsp;The StatesmanScientists Identify a New Type of Depression That May Feel Like Permanent Jet Lag&nbsp;&nbsp;ZME Science",
-      "sources": [
-        {
-          "name": "NewsNation",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYlpEYW54QXVqa3BObGwzX0RRVGNJZDZJelJ5b3lUUnYyNXRiWkFNbmphLVcyMmJXeDJuR0xHTTU0QUVwSi1jVGJrS3pubm9Hc0k5OUNKTGtZN09sbDRaOGZyN2FOX0pOcHhWdzdwck9kV292Vm9J0gF8QVVfeXFMUHhnZ0hUMlM1ZTB1dk1Fc2NaMnRpWi1DMUQ0eVRxS09HdHFzdEZlTVcybU1oRHVuQTBZdC13YURWanFOdnF6WmJpeDlCRXpFRVZWVVpMTEVUUnRJZVNiN2p4UHFPTTV6ZVFwb0hIcTgwckYtbVdqb3RGbjZkdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46cdb706a05e",
-      "title": "Histopathology of Erythema Nodosum Leprosum With Emphasis on Post-multidrug Therapy Considerations: A Narrative Review - Cureus",
-      "published": "2026-10-24T05:33:08+00:00",
-      "summary": "Histopathology of Erythema Nodosum Leprosum With Emphasis on Post-multidrug Therapy Considerations: A Narrative Review&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWmJVT182Wmd3RHNJaXJ5d0xadXJCLWRRUkNPdFpTOEVSckpLMTZGd3Nzd182VXlKM3BVOXBBLWtpUHBXTEhVZDEtWjNSVGctQ1RQbnctQXZRX1RjZXd1akpWUVl3b3lSa3lwMU1NaTJISjBSeWN4VTh5SEFfeEFGcnMtWGxuOFdTOVNoeU0wcVRTNmdUMWFyX0g4bnEzZFZPd084ODJUNllpQUNydFcxWTlXbUc5RzNWTW45RWNVWkowQktVRlhkQ2VjWUdBYUxhbWNJOHh0WGJDVDBUUVZWLUEzeU1WeHBLdUZlcw?oc=5"
         }
       ]
     },
@@ -294,18 +390,6 @@
       ]
     },
     {
-      "id": "7dd97462800e",
-      "title": "Newly discovered protein controls the space between mitochondrial membranes - News-Medical",
-      "published": "2026-10-24T02:56:00+00:00",
-      "summary": "Newly discovered protein controls the space between mitochondrial membranes&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0VBbnAxaktHb3o3R1pISTlObi1pdHJwdVZmbjR5ZXo2RHFIWmNRdGV4RFN4cjBsYmRYWlM3OXVZN1R4Ml90bHpMQTN4dDZtVFZ4VW9uWHZJdHQ4c0o2a1QxeXFNbFpiSTlvZFB1amE1YlFVRDV6cTdGbl8zN3lqZWstOEM0UEFYcXExd2NILWhoa3Y0UTNSYW15Q2RuYkxPT1JvWHpqOWdmcXhwMjRGdFoxT0FTV3E0TzNLdjdvam4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "39c23a6ef7d4",
       "title": "Common kidney tests underestimate chronic kidney disease in cancer patients - News-Medical",
       "published": "2026-10-24T02:23:00+00:00",
@@ -318,30 +402,6 @@
       ]
     },
     {
-      "id": "cf370e774859",
-      "title": "Shared meiosis proteins show surprising functional differences across animals - News-Medical",
-      "published": "2026-10-24T02:19:00+00:00",
-      "summary": "Shared meiosis proteins show surprising functional differences across animals&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXM2RHNfLWUzRy1kTFhXblo0bmpMU1FTRmZzcFhvVldqNmd6RUhGYklrRzU1dkdTTVgtTFJaeGNIN2JVdHhEdzFUMV90NGJNbUpOWkUzN0xWX2czWmdDcUhTNkxXZE5BaGo0VEE5V2MxNElzLXJVN3NKUW12ZVVwbkhPalBjU29HWi1kSzF4bmxMUlAxTHBfQVFTUVdlcjgzQ0RjdGhYSzgtbEh6SGJacUlWdmJiM1VWeGxPVzN0ME1IZjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc596e6fc6b2",
-      "title": "Children's brain reward responses may explain ultra-processed food-related weight gain - News-Medical",
-      "published": "2026-10-24T02:00:00+00:00",
-      "summary": "Children's brain reward responses may explain ultra-processed food-related weight gain&nbsp;&nbsp;News-MedicalChildren who eat more ultraprocessed foods show stronger brain responses to appetizing foods&nbsp;&nbsp;Medical XpressUltraprocessed Food May Be Silently Damaging Your Brain's Blood Vessels&nbsp;&nbsp;ScienceAlertIs Ultra-Processed Food Destroying Our Brains?&nbsp;&nbsp;Gideon M-K: Health NerdJunk food linked to ‘silent stroke’ by middle age&nbsp;&nbsp;The Seattle Times",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPek5lZV9VWmdTdmg5UlRWdFNHN1lDSHFqY0dPRFJKU2gyWEE0Q3hvZU5RUlFDTncxUkdlZXZRbDJsQ1NjYjE4WWVVdm5VNEpoTHJIbGZBZldZLW5hWUpBYjhxeE5UMW9HMTJzMDk0by1xM0xfZVZPVnJIYWJSSmktcWJ2WW1NcjVKakRKQ05VbklkLUFWWGg0XzBrUjVZbnZaekc2TklrcVlGSkZNQ1hKNTgxYWU0ZFNGRm1fdHlYNlF1NEF1QmRmZVNaajVHZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "310fde4ae48a",
       "title": "Development and internal validation of a nomogram for predicting mechanical ventilation requirement in adult tetanus patients: a dual-center retrospective study - Nature",
       "published": "2026-10-24T01:56:06+00:00",
@@ -350,18 +410,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fRzZqYUlUVHZTLTVqeFh6NnRkczZFdG04YUdnMHhhRmo1N1kzRmFfUU9CUFRXcE5qaFhUMm5JRmItOTNZdU5YXzdzaVRSSnpKTFhjOHBHTkpIcEg0dm1F?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "606fb93ecc35",
-      "title": "Fish consumption may help reduce hypertensive disorders of pregnancy - News-Medical",
-      "published": "2026-10-24T01:51:00+00:00",
-      "summary": "Fish consumption may help reduce hypertensive disorders of pregnancy&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTEteUN3Sml1VHpQaGd6YUw1NzFLNDNudU53QVFCVWlDeU1JWjJNdmxaNkp5TndiSGoxWjM0alJzUEpORWpFSGNmWGRkRVprVkFNZlNYMDlSTHJZdEhPNDVYZTZNNDZ0dkl3cVlzZDdJM21yZHB5b3lLTy1xV2k5WFYwTjZKTDhJUDk1ZXh5STFnTUd0b0NqS2tOOURzY1pCNHpGdFRqdzlSdERPbkV2NWtDLVpFczg?oc=5"
         }
       ]
     },
@@ -390,26 +438,26 @@
       ]
     },
     {
-      "id": "5721e3083fda",
-      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo - Al Jazeera",
-      "published": "2026-10-24T00:42:46+00:00",
-      "summary": "WHO announces start of Ebola vaccine clinical trial in DR Congo&nbsp;&nbsp;Al JazeeraEbola vaccine trial begins in DR Congo&nbsp;&nbsp;The HinduFirst participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC&nbsp;&nbsp;CEPIMajor trial for new Ebola vaccine begins in DR Congo amid outbreak&nbsp;&nbsp;CGTNAMA and EMA issue joint guidance on Ebola vaccine development&nbsp;&nbsp;European Medicines Agency (EMA)",
+      "id": "dbe0eff09af3",
+      "title": "Body clock link? New type of depression could affect millions - NewsNation",
+      "published": "2026-10-24T01:03:23+00:00",
+      "summary": "Body clock link? New type of depression could affect millions&nbsp;&nbsp;NewsNationSleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York TimesCircadian Depression: What Are The Symptoms Of This New Depression Subtype?&nbsp;&nbsp;NDTVcircadian depression symptoms&nbsp;&nbsp;The StatesmanScientists Identify a New Type of Depression That May Feel Like Permanent Jet Lag&nbsp;&nbsp;ZME Science",
       "sources": [
         {
-          "name": "Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGRSMjhjbnh2Q0h4Q2sxVjVYZGdZeFJwV3VrUklReDhUYUJkdGwxRmo1T01DTGEyYlZCYV9hYXhUVXREMnljTDNibGRfNXNZUnZsWEM3c0pNV2l0cDE3Z2JXTXVlNnZYR21fenhwQjI2MERuTWIycTBwb0RVRXJIbENPeThqaTJVdVh1WGNWNWZLOFlkY0JBOEM3NmtIQmNJNzNiaUVMeHbSAa4BQVVfeXFMUGctRm45V2VUbEk0cmpkaWgzNTBtNXM3RjNIZEtmc1g4Y0d3Vy16anQ3bVBqY0NGejJfOHcwM0trVGtzVV9FNGpJd1RFeTZ3X2F0d2pPUzVlYXJ3SXRQaXRSNFppMXJCSUV6V0VGMlpHc2ltNUlmeWN5UnhuV1ViWTlmX3dvUllxZk85OXNMOWlNV3dsc2JORVZCZHZUQmVzN0JFS2N6SGpBa1F0NFRR?oc=5"
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYlpEYW54QXVqa3BObGwzX0RRVGNJZDZJelJ5b3lUUnYyNXRiWkFNbmphLVcyMmJXeDJuR0xHTTU0QUVwSi1jVGJrS3pubm9Hc0k5OUNKTGtZN09sbDRaOGZyN2FOX0pOcHhWdzdwck9kV292Vm9J0gF8QVVfeXFMUHhnZ0hUMlM1ZTB1dk1Fc2NaMnRpWi1DMUQ0eVRxS09HdHFzdEZlTVcybU1oRHVuQTBZdC13YURWanFOdnF6WmJpeDlCRXpFRVZWVVpMTEVUUnRJZVNiN2p4UHFPTTV6ZVFwb0hIcTgwckYtbVdqb3RGbjZkdA?oc=5"
         }
       ]
     },
     {
-      "id": "bce020253295",
-      "title": "Global Study Highlights Prevalence of Pediatric Disorders of Gut-Brain Interaction - DocWireNews",
-      "published": "2026-10-23T20:31:12+00:00",
-      "summary": "Global Study Highlights Prevalence of Pediatric Disorders of Gut-Brain Interaction&nbsp;&nbsp;DocWireNews",
+      "id": "5721e3083fda",
+      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo - Al Jazeera",
+      "published": "2026-10-24T00:42:46+00:00",
+      "summary": "WHO announces start of Ebola vaccine clinical trial in DR Congo&nbsp;&nbsp;Al JazeeraEbola vaccine trial begins in DR Congo&nbsp;&nbsp;The HinduMajor trial for new Ebola vaccine begins in DR Congo amid outbreak&nbsp;&nbsp;CGTNFirst participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC&nbsp;&nbsp;CEPIAMA and EMA issue joint guidance on Ebola vaccine development&nbsp;&nbsp;European Medicines Agency (EMA)",
       "sources": [
         {
-          "name": "DocWireNews",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUtTQnk1RWY0OGFyMG83c2h3aVd2Z2pMRWNXSnYxbGF6Zjc1THdlb0o2UXc0SkxSaU8tRUVMMVVkSVdOQV9TY2FGSTRqZ0FqWHJBQTJGWFpHbzd6dURTRHU1V2xmUDE3Y3hHMF9NMnc3X29VeGRBRFFOOEtva3ViaXl0VHVRVlAxeUlhMjJEQnFrb3pzVFlSckJPeGthc3RYdWVxVTZXX2w0R2ZCX0Z1US1aMXhUQQ?oc=5"
+          "name": "Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGRSMjhjbnh2Q0h4Q2sxVjVYZGdZeFJwV3VrUklReDhUYUJkdGwxRmo1T01DTGEyYlZCYV9hYXhUVXREMnljTDNibGRfNXNZUnZsWEM3c0pNV2l0cDE3Z2JXTXVlNnZYR21fenhwQjI2MERuTWIycTBwb0RVRXJIbENPeThqaTJVdVh1WGNWNWZLOFlkY0JBOEM3NmtIQmNJNzNiaUVMeHbSAa4BQVVfeXFMUGctRm45V2VUbEk0cmpkaWgzNTBtNXM3RjNIZEtmc1g4Y0d3Vy16anQ3bVBqY0NGejJfOHcwM0trVGtzVV9FNGpJd1RFeTZ3X2F0d2pPUzVlYXJ3SXRQaXRSNFppMXJCSUV6V0VGMlpHc2ltNUlmeWN5UnhuV1ViWTlmX3dvUllxZk85OXNMOWlNV3dsc2JORVZCZHZUQmVzN0JFS2N6SGpBa1F0NFRR?oc=5"
         }
       ]
     },
@@ -429,7 +477,7 @@
       "id": "f94448aecd73",
       "title": "Key Drivers of Mortality in MASLD - DocWireNews",
       "published": "2026-10-23T20:01:06+00:00",
-      "summary": "Key Drivers of Mortality in MASLD&nbsp;&nbsp;DocWireNewsWaiting to get sick enough&nbsp;&nbsp;NatureMASLD and heart disease: What a fatty liver can tell you about cardiovascular risk&nbsp;&nbsp;VCU HealthFatty Liver May Lead to Cirrhosis Even With Normal Enzymes&nbsp;&nbsp;조선일보“Not a Drop of Alcohol, Yet Fatty Liver?” People in Their 20s and 30s Can’t Take Comfort in Their Youth [Health Talk]&nbsp;&nbsp;파이낸셜뉴스",
+      "summary": "Key Drivers of Mortality in MASLD&nbsp;&nbsp;DocWireNewsfunction-associated steatotic liver disease.&nbsp;&nbsp;Baishideng Publishing GroupWaiting to get sick enough&nbsp;&nbsp;NatureMASLD and heart disease: What a fatty liver can tell you about cardiovascular risk&nbsp;&nbsp;VCU HealthFatigue, Bloating, And Inflammation: Spotting The Subtle Signs Of MASLD&nbsp;&nbsp;The Black Chronicle",
       "sources": [
         {
           "name": "DocWireNews",
@@ -441,7 +489,7 @@
       "id": "66a7adeb8159",
       "title": "Bharat Biotech slashes malaria vaccine price on GAVI-backed pact with UNICEF - The Hindu",
       "published": "2026-10-23T18:31:59+00:00",
-      "summary": "Bharat Biotech slashes malaria vaccine price on GAVI-backed pact with UNICEF&nbsp;&nbsp;The HinduUNICEF and Gavi agree to cut Mosquirix malaria vaccine price by 40%&nbsp;&nbsp;pharma.economictimes.indiatimes.comBharat Biotech slashes price of malaria vaccine MOSQIVAC by 40%&nbsp;&nbsp;The Economic Times40% Cheaper Malaria Vaccine Puts Africa's Immunization Ambitions Within Closer Reach&nbsp;&nbsp;DevdiscourseGavi and UNICEF secure lower malaria vaccine price, saving US$50 million for childhood i",
+      "summary": "Bharat Biotech slashes malaria vaccine price on GAVI-backed pact with UNICEF&nbsp;&nbsp;The HinduBharat Biotech Cuts MOSQIVAC Malaria Vaccine Price by 40%&nbsp;&nbsp;Rediff40% Cheaper Malaria Vaccine Puts Africa's Immunization Ambitions Within Closer Reach&nbsp;&nbsp;DevdiscourseGavi and UNICEF secure lower malaria vaccine price, saving US$50 million for childhood immunization programmes&nbsp;&nbsp;UNICEFUNICEF and Gavi agree to cut Mosqivac malaria vaccine price by 40% (Oct. 22)&nbsp;&nbsp;Trad",
       "sources": [
         {
           "name": "The Hindu",
@@ -474,6 +522,18 @@
       ]
     },
     {
+      "id": "fb42af1b6ed8",
+      "title": "Scientists Just Rewrote Human DNA Inside the Body for the First Time - Gadget Review",
+      "published": "2026-10-23T16:45:26+00:00",
+      "summary": "Scientists Just Rewrote Human DNA Inside the Body for the First Time&nbsp;&nbsp;Gadget ReviewFirst in-body gene editing targets rare liver disease, aims for permanent cure&nbsp;&nbsp;bdnews24.comPotential cure for genetic disease? Scientists test DNA editing inside human body for first time&nbsp;&nbsp;Business TodayScientists edit human DNA inside the body for the first time&nbsp;&nbsp;The Independent",
+      "sources": [
+        {
+          "name": "Gadget Review",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQak4weWFyeDVSSHB6dUd4R0pPMXpDeDYwaDVfVEFYRkcwRm9yZGVvTXdIQjREWlB2d3hqTmRzYkdOMERwbFZSZlVSWUd3M0JadnJwTnh4RGxJZFBQLXVnb25NOFVsMTdSSjF0UUFEMGlaRlc2NWhiOWl1Z0dJOTNlSWk1S2IxTVZxUFJIcmh6Um9IT09rZk00TjNrVzVWQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "69e006e3bff0",
       "title": "Cumulative and Recent Cannabis Use Linked to Poorer Sleep Quality - EMJ",
       "published": "2026-10-23T16:19:45+00:00",
@@ -489,7 +549,7 @@
       "id": "635be27ee2ee",
       "title": "Can AI predict Cancer Survival Chance from a Single Selfie? - DESIblitz",
       "published": "2026-10-23T15:34:33+00:00",
-      "summary": "Can AI predict Cancer Survival Chance from a Single Selfie?&nbsp;&nbsp;DESIblitzCan AI predict whether you’ll die from cancer from just an image of your face?&nbsp;&nbsp;Scientific AmericanCan AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar&nbsp;&nbsp;The GuardianAI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment&nbsp;&nbsp;Medical XpressCan a simple photo of your face reveal how ill you are?&nbs",
+      "summary": "Can AI predict Cancer Survival Chance from a Single Selfie?&nbsp;&nbsp;DESIblitzCan AI predict whether you’ll die from cancer from just an image of your face?&nbsp;&nbsp;Scientific AmericanCan AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar&nbsp;&nbsp;The GuardianAI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment&nbsp;&nbsp;Medical XpressAI Tool Uses Facial Photos to Estimate Biological Age and C",
       "sources": [
         {
           "name": "DESIblitz",
@@ -506,18 +566,6 @@
         {
           "name": "Genetic Engineering and Biotechnology News",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONGVicS02NmJSX2s2aWRrdnNfeHJnY0dDaS1rS3UwQXBZTllvUGUxSC13S1Y2OU02VWhkQVpQaWNzSFoyY2Jjc0MtcHpfUW5BWk1vdkI5SjVBQWFUUHpMeUZZMV9lWlVpMW5vcm9pUE1ucmloUXV5dzZNMEZLa0k4cFpfTjdlbS1TTzl1LTZrOTdnRVc5SmRJYURRSE9yZThXVzlqNXRHT0ttaFZEeExsSFFKeVFyYlRtVkVZemxoUUx5T3RtYlVJenNpRV95eVlOUTlXeTJ4eEc5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0423ba64b4f",
-      "title": "Malaria Parasite Caught in the Act of Breaking and Entering - Quanta Magazine",
-      "published": "2026-10-23T14:57:25+00:00",
-      "summary": "Malaria Parasite Caught in the Act of Breaking and Entering&nbsp;&nbsp;Quanta Magazine",
-      "sources": [
-        {
-          "name": "Quanta Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWhqckRwaUFUQ1pQX2pBTEYwcnFUMk5TNnVpV2JGZnZ6TGNrY2lKSnRUNkFuem9WdDA2bEJTY1N2aXpKSmNqMWkydXpqN2ZKY0JFTC1xN2x4dkhyZDJkZDlyOFEtNTFfT29UWE51dXI2RVRrOVRhb3BYVGJtb2tPSzluclM5QmNsV3dUYVNPcUdNZHFPbFAxT0RUQmFSaUpWZFE?oc=5"
         }
       ]
     },
@@ -566,18 +614,6 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWozWlB6Z0xEYk1CR1hLdEpzblVxTkhZTWE4ZEkyek9xQWNob1RBeHg1b2tWaFo3R1E1eVo5VUlqTkVxY2lMSDZuMkVsTE5SV3RlWHBVSnZTWFIyU3hZZ2tydTBIYXJ2REg0YlpJSnRXcTN3dmJiX3BMLS1IRUFMek1hcUIwMU1iOTBjODN5S3E0QmZ1MWZFZEtVdXd5T3N2bGJ1V1ctNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b0af4643c3f",
-      "title": "LivaNova reports 76% seizure reduction in epilepsy study By Investing.com - Investing.com India",
-      "published": "2026-10-23T13:16:20+00:00",
-      "summary": "LivaNova reports 76% seizure reduction in epilepsy study By Investing.com&nbsp;&nbsp;Investing.com India",
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSXRmOHZlN0lvVnZVX1J0SEJMbjRFeU0yc2h4bjBRTlJrYW4zMHVDdEFPRk1zb3RFYzB0TXc4ekZYejRGS0hXU1VzOENkSGJOY3V2WVh3blpfODhuLTFxQUw2bUI3N19aOFFTdF8tT200T0tfQ1VKQ2FSM0w4dFBWSlpWTWMzLXZhSFdKYTVpZmZUQTNFUTQxWTZSZFgxS2UyUFdIVFhiRnUtdDAyZ2dQRkd2LTVPcTg?oc=5"
         }
       ]
     },
@@ -633,11 +669,23 @@
       "id": "a9eb0577d996",
       "title": "How AI scoring tool can guide skin biopsy decision - Medical Buyer",
       "published": "2026-10-23T10:34:13+00:00",
-      "summary": "How AI scoring tool can guide skin biopsy decision&nbsp;&nbsp;Medical BuyerAI tool may support dermatologists in assessing skin lesions for cancer risk&nbsp;&nbsp;Mayo Clinic News NetworkCan AI diagnose skin cancer better than a dermatologist? Answer may surprise you&nbsp;&nbsp;Miami HeraldAI Skin Cancer Models Burn Four Times More Energy for No Extra Accuracy&nbsp;&nbsp;Bioengineer.org",
+      "summary": "How AI scoring tool can guide skin biopsy decision&nbsp;&nbsp;Medical BuyerAI tool may support dermatologists in assessing skin lesions for cancer risk&nbsp;&nbsp;Mayo Clinic News NetworkAI scoring tool shows promise in flagging cancerous skin lesions&nbsp;&nbsp;Bioengineer.orgCan AI diagnose skin cancer better than a dermatologist? Answer may surprise you&nbsp;&nbsp;Miami Herald",
       "sources": [
         {
           "name": "Medical Buyer",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEVyOFo2UVlVanFFanp4c0JLLXVEVnVJVzIzbC1YMUdKaV85QkdJaHZOY0Q0MkF6cGFDaXlwc2VvUllrU1g4eEVTYU1KMFZxanY4TXhRYmxDYnhOZ1JnU2kxMDBJSkxFRmZUMFNidWJzTmhKNkhiT29uTERxRkVhTDZ5RVg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2d0a24d5b1a",
+      "title": "KAUST-developed experiments head to space to advance neurodegenerative disease research - Technology Org",
+      "published": "2026-10-23T08:30:00+00:00",
+      "summary": "KAUST-developed experiments head to space to advance neurodegenerative disease research&nbsp;&nbsp;Technology OrgMount Sinai sent 184 mini brains and hearts to the space station to study aging&nbsp;&nbsp;Crain's New YorkDragon Docks with Artificial Retina and Mini-Brain Experiments Aimed at Blindness, Alzheimer's and Parkinson's&nbsp;&nbsp;Nature World NewsSpaceX Dragon Mission Delivers Science and Solar Arrays to ISS&nbsp;&nbsp;SuaraGarut.ID",
+      "sources": [
+        {
+          "name": "Technology Org",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnQ1OEN3YkllRWdnbUtVWENPS0VaM1FveWdvZUEyRFcxMEFveDhlTGNCT054WjVLSWJHR2RtMzk2b1BUX1A2dDRRVktablM4blFuR0JydFRtdVROczBzdTZtWHlVcmtsTkJkaU5Mb1ZuMlBjMGJYYTlKZkFDQUR4QlVZU28zSUVaWXltR1h3V0tWaW1seU1weHd5TlZ6NXhNUkVDVV93b0hqWG8xZkhMYVdmSHJHaG1PX2JTQXBQVzFPLVNy?oc=5"
         }
       ]
     },
@@ -674,18 +722,6 @@
         {
           "name": "Moneycontrol.com",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVmNFUlg5UzFBQ2lsRVhCa0lMZHQxSFdnaEVGVFFUeGg4STc4TnZpdW0yZlJ0OUlMbmNvQVNITDIyN0RHU09QWXpWb28wV1gzeE1Rb3JXeGxnSUptakdUNE1NcXpkZnotbTdJRzJadEw5c0lkakFpLUp1TEN0a29RcmktU05sdGMxX1g5NTVZbHZsOUVTYkdpTWgwdG1uLUpqZjVLV1d2dnoyYWtQbk43czNVNk1zdFhyOE5qc3RiM05SR3pjeHFUbEdydWFpaTExeER3UWMweTh1WGpObUJSREJLdWZFY1dldERwY25DYjEyVGQwOUg2dGN3X2hzazRZQXdzWkJ4TFd4R0tQQXk0cVJpRlDSAZoCQVVfeXFMTkY2LXhrdXh2QXg4empIWWE0dWh4blUxbmRaTTRDMEVMSmxqZkpYRWV0WGFtb1JqY1l4TWdXbHlOMDNnejVwMHNsekRudGhocFd6LS04a3VsQTQ1OFpDc3JLNXRKclNoWjZ5Q2RTdmJLN3hHYTk4aFVHWXU0REYzb05UQXV4WkJGT0dZdE5qQ25EVUhRTVRoRU9mY2xHcDI2bFNGNDhXSU5ONnFadlJUZWtmYU5lNVdhRVJjekJEcFFKWkloNThpQUJXaFZORm9US21COUpaLUhqYVlRTTdfT3Z6N3hodzAtYld5VXJiNktiTmhIZ0M0U28xQi15MjN0NmJ5Z2MyRUVhVDlXS3RLMWw4V0w4SWM0a1F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee926904ab4f",
-      "title": "Plain silicon grating reveals a hidden “twist” in light from electron beams - Asia Research News |",
-      "published": "2026-10-23T07:46:17+00:00",
-      "summary": "Plain silicon grating reveals a hidden “twist” in light from electron beams&nbsp;&nbsp;Asia Research News |",
-      "sources": [
-        {
-          "name": "Asia Research News |",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQckZ2Q05xRXhjaHpCRnQ3LUVlZG1saXo4OUNfOXkzWlliYzNPTm5SVk1yeXFpOV9uOTdyNE1IYUZDV0hrZG5TcFBxRWdiOG1wSW5mTzlTTG1zWWlVYjZFaHQ5OVdRLXdLdnhoZnRkRm03cWdCRDYxS0dTY3JGZFd4Yi15b21EeUJ0QktYM2hBNGZ5NUxBOFVfcmVUVjBBdVlmd0lfQ21FSFRfc2RLdWtlX0FnTFRfT25fVFZBQnoyQQ?oc=5"
         }
       ]
     },
@@ -729,7 +765,7 @@
       "id": "fb998e100067",
       "title": "Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses - News Mobile",
       "published": "2026-10-23T06:57:40+00:00",
-      "summary": "Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses&nbsp;&nbsp;News MobileDrug-resistant infections linked to $3.5 trillion in global economic losses in 2021&nbsp;&nbsp;CIDRAPAMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026&nbsp;&nbsp;European Medical Journal",
+      "summary": "Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses&nbsp;&nbsp;News MobileDrug-resistant infections linked to $3.5 trillion in global economic losses in 2021&nbsp;&nbsp;CIDRAPAMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026&nbsp;&nbsp;EMJ",
       "sources": [
         {
           "name": "News Mobile",
@@ -758,6 +794,18 @@
         {
           "name": "Optometry Advisor",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelliZkNneHFHS0NFaXo0NmMtVU5WQzllM3VHQmNsdjhNT0FyMlo2MW9KbjhGVGlBUS1pWnZrSWdtZ1R4MXp4OXhRWUVldDJmREE4SzRNOUJXUGduVmlWakRfQk9WdG9QX1dVUEhqQmpZRzJOV1pnZ2hSRzlsWFhPZXdLZXdCYXR2bDR1NVNTZzY2NktwWEJxSF9kT0EwNzhzYWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "281cafe32419",
+      "title": "Report says NASA’s future Moon missions should target these 4 sites—and they are not in South Pole - Starlust.org",
+      "published": "2026-10-23T03:57:57+00:00",
+      "summary": "Report says NASA’s future Moon missions should target these 4 sites—and they are not in South Pole&nbsp;&nbsp;Starlust.orgHuman Exploration Across the Moon&nbsp;&nbsp;National Academies of Sciences, Engineering, and MedicineForget the Moon's south pole: 4 Other lunar sites could help astronauts build a base and prepare for Mars,...&nbsp;&nbsp;Moneycontrol.comNASEM Report On Lunar Landing Sites&nbsp;&nbsp;NASA WatchPurdue University professor leading committee that aims to see US astronauts retur",
+      "sources": [
+        {
+          "name": "Starlust.org",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkxmNy0xQnp5eGNqX1Y0eF9XNUp6UnhrQ1dPaGFic3ZIVzBxbjFiSDVpMVdsaXc2bTFLbXZWNmp2emxsQnd5TnFFbkZhYlhHa1gzckZaaXItYkI1RGpJdGhSOXVQbjQxMUtJZW03cUh4NFczWVpMd3hfUUFscFhFSHJQeEEyYUpuYTJveDFIb0lTSmtnWk5kcW1WbGY1WlNudVpiV3ZXaTBRZlk?oc=5"
         }
       ]
     },
@@ -794,54 +842,6 @@
         {
           "name": "Medical Xpress",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVNrNlFtQW5kMlc0SzhPbGlMT255Q2FSdGJzU3NQbXl2QXBsMFhZSGVpMnlUOFFrdEZkVGQ1TlZuQmZ5S0x1N1NHQjJhR1ZwcS1fa0F2MFpiX3REZUpnYkVmZjhwS1VvelNZMDVoRUNhcUtfbElhR05laDFkMTFqeUEzdHUyWUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd3a859048bf",
-      "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration - Space Policy Online",
-      "published": "2026-10-22T20:44:00+00:00",
-      "summary": "Moon’s South Pole Not the Only Compelling Location for Human Exploration&nbsp;&nbsp;Space Policy OnlineHuman Exploration Across the Moon&nbsp;&nbsp;National Academies of Sciences, Engineering, and MedicineForget the Moon's south pole: 4 Other lunar sites could help astronauts build a base and prepare for Mars,...&nbsp;&nbsp;Moneycontrol.comNASEM Report On Lunar Landing Sites&nbsp;&nbsp;NASA WatchPurdue University professor leading committee that aims to see US astronauts return to moon&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "Space Policy Online",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHNBQngwdGt3c0FFUFNRNGZJZHhiSUZ0SXZTNVl0SWpjalhEYXZQaGlzX0FRajdPeUpfeFlGaUQwc0g5c1hsRmRXbXFEOXphUjdfQmNTeTNSWDZvM1V5Tng1UDVKQVZsTVZZNEg5ZE9ndklZREFjM0oyazhHTzZvV3hPYzR2SDIyZHdnLTBFeTNkQ3RNMUtpN0tsYUJiSUEwX3A1aWw2dDRCMW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcc8bb7eea9d",
-      "title": "Discovered: Hidden weaknesses in microtubules stabilized by cancer drug paclitaxel - ummid.com",
-      "published": "2026-10-22T18:35:00+00:00",
-      "summary": "Discovered: Hidden weaknesses in microtubules stabilized by cancer drug paclitaxel&nbsp;&nbsp;ummid.com",
-      "sources": [
-        {
-          "name": "ummid.com",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3eddc5578c98",
-      "title": "WHO reports six more polio cases in Afghanistan - VOA - Voice of America English News",
-      "published": "2026-10-22T17:28:19+00:00",
-      "summary": "WHO reports six more polio cases in Afghanistan&nbsp;&nbsp;VOA - Voice of America English NewsThe last two countries with polio: Why Pakistan and Afghanistan are struggling to eliminate it&nbsp;&nbsp;The Times of IndiaTwo drops, one dream: a vaccinator's 14-year journey to protect Afghan children from polio&nbsp;&nbsp;World Health Organization (WHO)Afghanistan urges polio vaccination as cases reach 42&nbsp;&nbsp;Ariana NewsWorld Polio Day: Afghanistan Free of Polio Urges Childhood Vaccination&nb",
-      "sources": [
-        {
-          "name": "VOA - Voice of America English News",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZzRwbUdWNkdNbXJQWmhidWFtNTlWeFo5N0hLR0tXWERmbXFSVjZHWHVQbDFwd2N6WE9Vc2lUeUdPTjdlSTNGUWtrMkJDRTjSAVJBVV95cUxQZmlIUGVPeXJtcFlxM21mamxhR2MzVU1DUkluaWtodllOZGFBSGNlM2paN2Vjb2JGcUZkbzhTNGpNX24xNzNTV2IzRUE1cGpTRWNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23305d92c4f7",
-      "title": "Cardiac Autonomic Dysfunction Linked to Diabetic Neuropathy Severity - European Medical Journal",
-      "published": "2026-10-22T15:01:43+00:00",
-      "summary": "Cardiac Autonomic Dysfunction Linked to Diabetic Neuropathy Severity&nbsp;&nbsp;European Medical Journal",
-      "sources": [
-        {
-          "name": "European Medical Journal",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3hwaUFCbWxOWHl5c0R2M0lLVlhHcVFBN1RtUkN5dV9aYTRXQ0FmOWF2Y1pDYkVQTmdWRlJ2cGNlRTJUWmhCRGc2alpRdGRnSzVNeTJsWkRwdnJQNFBDRXFHdUNnZ0ltSzJtQXp3NE1ETFNYTGwzYXVRSjV2dDZnYlpkSVJjUHhQR2poZk11eHVKQ2pDQ1VGajZ6Z2w3VURUa3VLQWFWVlNPVWo1N2lV?oc=5"
         }
       ]
     },
@@ -921,7 +921,7 @@
       "id": "8175cf11d0a2",
       "title": "New TB vaccines are coming. How are countries preparing for the rollout? - Gavi, the Vaccine Alliance",
       "published": "2026-10-20T14:48:33+00:00",
-      "summary": "New TB vaccines are coming. How are countries preparing for the rollout?&nbsp;&nbsp;Gavi, the Vaccine AlliancePlanning TB prevention: Considerations for an evolving toolkit&nbsp;&nbsp;Clinton Health Access InitiativeCall for EOIs: Architects of Trust – Community-Driven Demand Creation for New TB Vaccines&nbsp;&nbsp;fundsforNGOs - Grants and Resources for SustainabilityIs tuberculosis eradication actually in sight?&nbsp;&nbsp;Devex",
+      "summary": "New TB vaccines are coming. How are countries preparing for the rollout?&nbsp;&nbsp;Gavi, the Vaccine AlliancePlanning TB prevention: Considerations for an evolving toolkit&nbsp;&nbsp;Clinton Health Access InitiativeCall for EOIs: Architects of Trust – Community-Driven Demand Creation for New TB Vaccines&nbsp;&nbsp;fundsforNGOs - Grants and Resources for Sustainability",
       "sources": [
         {
           "name": "Gavi, the Vaccine Alliance",
@@ -930,14 +930,26 @@
       ]
     },
     {
-      "id": "749cd1853a9e",
-      "title": "Why sunlight is vital to our physical and mental health - Psyche",
-      "published": "2026-10-20T10:00:00+00:00",
-      "summary": "Why sunlight is vital to our physical and mental health&nbsp;&nbsp;Psyche",
+      "id": "1dd102ab5af0",
+      "title": "Magnetic nanoparticles rewarm and restore function to pig kidneys one year after cryogenic storage - The Brighter Side of News",
+      "published": "2026-10-20T11:51:00+00:00",
+      "summary": "Magnetic nanoparticles rewarm and restore function to pig kidneys one year after cryogenic storage&nbsp;&nbsp;The Brighter Side of NewsGlass-frozen for a year at minus 238°F, pig kidneys work again: A first for transplants&nbsp;&nbsp;YahooScientists Just Revived Pig Kidneys Frozen for a Year. It Could Rewrite the Future of Organ Transplants&nbsp;&nbsp;GizmodoUniversity of Minnesota revives frozen pig kidneys, transplanted into pigs&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
-          "name": "Psyche",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2VjdDl6N2EzeTgzcjM0d3RzYkxCUVpvUzNjRjZfQ3hEU2ZwM2Q4TWx4UjlyNWh0R1pINUE1d2lIY0ljc0x3X24xekc2dFBSRTEwTGZ0OTU0ZEJ4UUdKRDBmUFNCWkVjeWk0b1YwR0lrMUhGSmFsRVhCMndjNEpqaER1UkxVNVA1X2daaTJsWjA?oc=5"
+          "name": "The Brighter Side of News",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmdMLXI2M2RqeURoVGF6UnRoZ2ZqUWRNZG96VlZ0Z2pHcnNicDZwR1pPVFJIUlRvWWQwLWQ2TGY1clJpNF85RFdwOTVVYUtueFpFcXdMTVhfYjluLXp0bGI4WXNpQkVsQWl1bTc3Vl93bVc1dEF3bFBzUE12V0lIVElJQUczUHg2WHA5dnlyYnlfX0thSVBZTFVTY2pCNWF2ZHUyVzNIRXV6bUI0WWNYbEdtLTFnMUZSaXMtbk5JNC1FVHAwUHNDOURJM29veUxyeXln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "637d1800fe8b",
+      "title": "Gas around Milky Way's central black hole is rich in metals: Study | The study was published in Astronomical Journal | Inshorts - Inshorts",
+      "published": "2026-10-20T10:31:38+00:00",
+      "summary": "Gas around Milky Way's central black hole is rich in metals: Study | The study was published in Astronomical Journal | Inshorts&nbsp;&nbsp;InshortsJames Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole&nbsp;&nbsp;Live ScienceJWST detects heavy elements near black hole at Milky Way’s center — Live Science&nbsp;&nbsp;UA.NEWSGas Around the Milky Way's Black Hole Is Richer in Heavy Elements Than the Sun&nbsp;&nbsp;Around PragueJames Webb Finds Heavy ",
+      "sources": [
+        {
+          "name": "Inshorts",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS25hbHVpSl9iQkk0SkpTdVlYaTI1M2ltZ3B6UkhzeVpWeEpyNE54UkpaakY0RjhBSGxvZGpOa1d6Z1lBa2VoR3g3cXlIbzVMMDRZNi1YWDc5Q1FKWnhQclVZX05TdXpwU29oOG1OODlsWEExdndsVkJ6Z2JES0FGdl9KV2tuV0UwcmdYd21ZdzdqVEIyZTIzWUJpZVNzYmp0V093UEQtSG5nUWVhQ1HSAbMBQVVfeXFMTWZfclAxa1p4cXNpd3BaV1ZTT2wwT1ZCNW1WWERMMkZiUVJmTVBkNjRuVXJ3ZjNFQW1CTnQ2Mks5TmVURDF1ZkJLa29PZDlSN1RDSmY0VDdneW1sYUJCTzYxek5ubk91MFU1Y201WDFFajJrUGZtYmJvSHNEd2MwNGxib1hESnBSQ0JBdGlCZjRLdHZHd2RCeV9jWS1rOEFsd0dVbmxFSHZUNnJvWm4wOXhOdjg?oc=5"
         }
       ]
     },
@@ -950,6 +962,18 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNWDhQS3ZaWlIxWm5YOTRPRGhEeXctcEdWcUt3SUJob182ejA0d3gzcFlBazVWNm1DQXI0SHNfVER6d3hfdHdDQnduVkFwaGNHYnRuckgtNGRVZ0NFUllKWFUySzFYbnpNa2tHUVA5bEpaSm03Rzk2T1dic3pac0paWkVreGcwc202cDRSOFREcVJFZER2WTdoM3hDdTZnQ0FYSm1zMHN4b2t1QjRtSWljdUFUaDVMdk1iVERBNDZnVDVaNzJmTWVMNkhlal82UXJYNDBYUHNra3FXVENtcVZZS0lQcjFyZUVtcmlfS09wS3F2ZnpzOTRPaXBaOGo4NG93ejZfY1pWclVjd2ZvbGRjcUZEenlBblVGMHJ2cWo0QUoxTmU4RkJOUmcxbi03M25adndqamNjQm5UNzFmU3NwajlaeWF0UW1xRFpJUWdiT1lqYXVOMDhSeVY4RFdYM3BYODJpOUhHR09sb0hWODllSGNIdmFHaXI0QXdRb3hGcU5PUUpBaVBaWjkzbUFkb0ZsX1HSAZcDQVVfeXFMTzkwdDA5RUNMVFgwV29YVXl5UF8tV01zdEtqcDZVR3prV0NMeVFLSkt0LVhxVUVZU0VDMmVHOFN5TGxsd2RSX0xEa1RGWFc0ZTBVUnowNUVJMlVQbjR6S2FveWVkczJXRFBxSllpM0NZSTc1MTl0N1FsOGlBTE9qQzlxcUdmM0dacWxRWjFrV2lhLVl3cGVWeVJ2VUVFcm1yd1NTSndfbl9pTTQ3d0VwbHJOTWZKZUhDNU01Umc4X1U3OHZSVEwyTXRvd00wejlwRTE2TVl4LUEyS09uRzN6cDhNb1lrbmxqZVVrQUdnX0RDRjk2VzZMSW04M0l1TEpSazdNdTBVcGVnenBiWHN4SG1ldmZtQmJQUmZJY3h2OWIySy1Na0FUMWxVcEFtOTVHdm5hdVdfS3RCa3UxSFRFQjhiZUxWR3BtRWFYd013cGlybm9IT29lNHo3dV9Ta0ZXX0JmTU5Bd1pQczZQWHVlaFoxUk9GTWMtajRvcThaMXdkZ2JrcXJIcEJOam9rS05PVWRuWV93Tzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11210c9ba347",
+      "title": "AI Detects Coronary Heart Disease With 98% Accuracy Using Face, Tongue Images - Deccan Chronicle",
+      "published": "2026-10-18T06:48:04+00:00",
+      "summary": "AI Detects Coronary Heart Disease With 98% Accuracy Using Face, Tongue Images&nbsp;&nbsp;Deccan Chronicle",
+      "sources": [
+        {
+          "name": "Deccan Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMUhfekdGNWVDYUUxeVdhWmZBRmFaMEFiTkszLVZGbVZ2XzFnTk1BXzlVRTQzSWdGQ2hLUU0yVEc5M3RJaFVMTnhrNkYxeElQRzM3Sks1UDNjT25Yc25YWFp5LWhmWW5YenpaS2xvcVVKeTBNY3hkaE9JQXlZdk1SMmNya293TjRvZDZ1VmFlNVNaNE01Vms1Y1QyZ1NKXzZ3cG9VU3pSczM0bXRQVWxaY19td0syX21kdENQdWxhRC1DN0hxT3pwanpQcElaUlk2S2doVTNNSEZQNnPSAeABQVVfeXFMUDVUbWtnYlpVZkRrWUtLRm5LQ0ZLbGo1d2VaUnNUX1FlelFTUUlnTVI4cEZ2bE9lTHYyY3N3bkRnaVNEa2l6ajBoT1RQcWR4a2VpUXI3MDBWZHlvblJZNy1ORWNRSG5pSmFlTWJNTHhTazgwZ1ZJenBxY0MxMG5WNzR6X1YzQ3g5SURiNzFpbGpxT29YOVFCc0xvWTV2aFFYMlFyM184SFFWdHJUQXc4a0FRREF6blVUVVJUMlhaaU1nQkNyWml4MDNYZm9nY3hfUUZXTjZkQVFKNkV2YkRPQ3M?oc=5"
         }
       ]
     }

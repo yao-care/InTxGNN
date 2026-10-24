@@ -14,7 +14,7 @@ permalink: /news/amifostine/
 ---
 
 <p class="key-answer" data-question="What news is there about Amifostine?">
-<strong>Amifostine</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Amifostine</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <p><a href="{{ '/drugs/amifostine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (9)
 
-### [WHO says breast cancer killed 6.9 lakh in 2024 and 80% had no risk factors: Screening, self-exams and knowing your normal can help catch it early | Health - Hindustan Times](https://news.google.com/rss/articles/CBMitgJBVV95cUxPVlBPNm90dWYxblBsVWFtX3J3YnI0SmVYU1A2VngtcnlZMXdKTXBWYzFtSGxVNVpSN1p2T3g4NTdVOGFXSDNLUm5icTRRRUNHYl9Oa3NCU1JpQkpuMUtibThsSkw3SXNUTHlfTHBWNU11OF9JQ0FtVW1YTUExUl9BVTg5QUxldnlUVkg5YVRVaTB3WWtManpCamdYbF9iT2x2a0V1ZG5YZDQ1amtjUmZDLUY4NFdYbjdseks1bHBvZGs0RFZIbjJXYjZrRFlIUFNRa2c1SnFLZEs0aXpmblRza0dNd3g4RHRRMXFTTm1fYjNNOWJDUG1fZkluaUVITHpFOWlqZm4wbFFkcVllLW1pNXVGMENwOU1GSVI2X3NDV0ZhUHhBU1U1a3g2b0RYcmh4OW0zQy1B0gG7AkFVX3lxTFB3NHQ4VjRvc2g3SEtMZE1Eb2ZCaGhsR3M0MnYxZVBfTGQ3RWVHY21yVGhJUGUzU2lBTFRqaUR1ZW9SWHJzRFFzNnd4ZmU1clJQU1BaT0d0X0RGM254dTBVOXFmaV9ZZzE0b3Jvd2FSZ05NWTZEcFE5b1N4YU1ZWHNnbHZjNFUzejRiQzJ0UEltTHRQOFFudGFqM1BkQXBjUDRBdTg0VUFYeV9fb2xFTVNESHg4LXgwazVhMnpQOXBiZ3ZUSDdNM2hfNFpnWHpsbGwzRmJOVWQ1ZFdLQkxXdXIzaHluM2xYcTJpOUh2RVNhc0xDM3pOVU1CbmNjdFl0NUZfbnVhQVlLcDVWN0hxbjVGZTZ2SjFrRUpNeEV0X1RpYTJYendxck5VaDVmM0RRalZxcUdBMHlVVjYwWQ?oc=5)
+### [In situ immunotherapy shows encouraging survival findings in prostate cancer - Urology Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHJLcmFFZFUzb3FJaUJlNm4xaG5YYkVsdV9pVVJlUVdxdXdEblVsbmFrN0Z5cjdGeW9NZ0gyLWFPVGYwbHNXYVlmZ0t1c3VyOFdwUXg4MmFVZlVtYTZSMlJVZ2ktMTJZaFRhTnlTTy1xdkw5R0QwWEN3ZUF0MXJfX1pWRFVEV0pGTklvT1RMLVBfUnlteEFVV2JkTjFrY3M1Y1lKcnlVZFZsb3BxaGxV?oc=5)
+
+2026-10-24 <span class="news-indication-tag">cancer</span>
+
+Source: [Urology Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHJLcmFFZFUzb3FJaUJlNm4xaG5YYkVsdV9pVVJlUVdxdXdEblVsbmFrN0Z5cjdGeW9NZ0gyLWFPVGYwbHNXYVlmZ0t1c3VyOFdwUXg4MmFVZlVtYTZSMlJVZ2ktMTJZaFRhTnlTTy1xdkw5R0QwWEN3ZUF0MXJfX1pWRFVEV0pGTklvT1RMLVBfUnlteEFVV2JkTjFrY3M1Y1lKcnlVZFZsb3BxaGxV?oc=5)
+
+---
+
+### [Doctors explain why breast cancer screening should start at age 40](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEE5bGR2OVJ3ekVPQ0lPNVoxWHNNWk84MFppRTZKSGpnMTZ1UHVPdWxocTNuWXhVSGVfRWh0Zzc4c2xaRzJIcENfNThuVXBCX2VZOWVqaW1TbjRtS2l1VEFMZGZmNjM0bG1lNDVXNm5UeDh6ZWhxNF9RRnFlLUJaMEdBVURBdm5RZC1fLU9xU01Xbk1meHpaZ3UwTExYWElBQXFCQ0tIUm5PQUJBcnNxVlNhN2s?oc=5)
 
 2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMitgJBVV95cUxPVlBPNm90dWYxblBsVWFtX3J3YnI0SmVYU1A2VngtcnlZMXdKTXBWYzFtSGxVNVpSN1p2T3g4NTdVOGFXSDNLUm5icTRRRUNHYl9Oa3NCU1JpQkpuMUtibThsSkw3SXNUTHlfTHBWNU11OF9JQ0FtVW1YTUExUl9BVTg5QUxldnlUVkg5YVRVaTB3WWtManpCamdYbF9iT2x2a0V1ZG5YZDQ1amtjUmZDLUY4NFdYbjdseks1bHBvZGs0RFZIbjJXYjZrRFlIUFNRa2c1SnFLZEs0aXpmblRza0dNd3g4RHRRMXFTTm1fYjNNOWJDUG1fZkluaUVITHpFOWlqZm4wbFFkcVllLW1pNXVGMENwOU1GSVI2X3NDV0ZhUHhBU1U1a3g2b0RYcmh4OW0zQy1B0gG7AkFVX3lxTFB3NHQ4VjRvc2g3SEtMZE1Eb2ZCaGhsR3M0MnYxZVBfTGQ3RWVHY21yVGhJUGUzU2lBTFRqaUR1ZW9SWHJzRFFzNnd4ZmU1clJQU1BaT0d0X0RGM254dTBVOXFmaV9ZZzE0b3Jvd2FSZ05NWTZEcFE5b1N4YU1ZWHNnbHZjNFUzejRiQzJ0UEltTHRQOFFudGFqM1BkQXBjUDRBdTg0VUFYeV9fb2xFTVNESHg4LXgwazVhMnpQOXBiZ3ZUSDdNM2hfNFpnWHpsbGwzRmJOVWQ1ZFdLQkxXdXIzaHluM2xYcTJpOUh2RVNhc0xDM3pOVU1CbmNjdFl0NUZfbnVhQVlLcDVWN0hxbjVGZTZ2SjFrRUpNeEV0X1RpYTJYendxck5VaDVmM0RRalZxcUdBMHlVVjYwWQ?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEE5bGR2OVJ3ekVPQ0lPNVoxWHNNWk84MFppRTZKSGpnMTZ1UHVPdWxocTNuWXhVSGVfRWh0Zzc4c2xaRzJIcENfNThuVXBCX2VZOWVqaW1TbjRtS2l1VEFMZGZmNjM0bG1lNDVXNm5UeDh6ZWhxNF9RRnFlLUJaMEdBVURBdm5RZC1fLU9xU01Xbk1meHpaZ3UwTExYWElBQXFCQ0tIUm5PQUJBcnNxVlNhN2s?oc=5)
 
 ---
 
@@ -55,14 +63,6 @@ Source: [ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6
 2026-10-24 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnJfWEF6ZGZ5akpnV1pvYzA3TUVnNUlxV1JLbTMzeG9nWkNjM0p6NHJXSGg4TnhSdUpXYXlURUNael92WDFRNExHNl9IZHNUamxJZlFZSzJUNlB5T2gyNkVtY0N0OHhhaUZfUnVKNFlhXzBEWDg0c2RIQ2pjVzFGNTF4TFIyMXhHWE1VcWJQWVhISU1DX2NidFNOLXhoQnF0VGZkT01wTC1VVEFfM1VSQVJtbk82b0VmUVZOdUlMZ2k?oc=5)
-
----
-
-### [Fish consumption may help reduce hypertensive disorders of pregnancy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTEteUN3Sml1VHpQaGd6YUw1NzFLNDNudU53QVFCVWlDeU1JWjJNdmxaNkp5TndiSGoxWjM0alJzUEpORWpFSGNmWGRkRVprVkFNZlNYMDlSTHJZdEhPNDVYZTZNNDZ0dkl3cVlzZDdJM21yZHB5b3lLTy1xV2k5WFYwTjZKTDhJUDk1ZXh5STFnTUd0b0NqS2tOOURzY1pCNHpGdFRqdzlSdERPbkV2NWtDLVpFczg?oc=5)
-
-2026-10-24 <span class="news-indication-tag">hypertensive disorder</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNdTEteUN3Sml1VHpQaGd6YUw1NzFLNDNudU53QVFCVWlDeU1JWjJNdmxaNkp5TndiSGoxWjM0alJzUEpORWpFSGNmWGRkRVprVkFNZlNYMDlSTHJZdEhPNDVYZTZNNDZ0dkl3cVlzZDdJM21yZHB5b3lLTy1xV2k5WFYwTjZKTDhJUDk1ZXh5STFnTUd0b0NqS2tOOURzY1pCNHpGdFRqdzlSdERPbkV2NWtDLVpFczg?oc=5)
 
 ---
 
@@ -95,14 +95,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiqgNBVV95cU
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRWNITGd3RDZKanBqY3NmZUtWNDNrRmdlNEQwdjlBb2Z5OGpGZ3hiMzRGS3JLRy1sUE5mTVFrZW1JeXo3WDlaWl9VOU1scjJhU0ZjUGplbmRiVjZJdnFGQTJzMzEzOENReHZ0QUxkVHBCc0MtU1MyaFo0bDhhc1hDcGNNUFhmTFhmVHNsRno3OWRGMU1IZXBsdG9MRFlrcldkc0ZtUXdpRTluSDRXTTN6cF83cmdjQUZ5SmJuOFJaNjNBWTB4OW9ybjdpcHB4YWpvSlVDQWtJYjRVVWtzTk5RdzZBV1dTbUNNRlUwYk1zWdIB9AFBVV95cUxQQkZoMGpSY3JnS3o0TW1IdHcwQ0JJNkxxLXprdUhTM0ZUNVpvX3RJNnk5bUFfRDBuc3ltY2hnempEaGhfWFZWV2RjblNCT3pHTDVnUWg3VGxVVVN4S3lOUEE3WlhyYVBFeWpnU2o4U1Y4TkxtMnAtVjBEVmpVYTdXQlRaQWx4VmpQNjNIQzdUcmNjZjBhNlpweC15RU8weFdIeDJuVFBvaFhtdy1tYjZCYm5tNnJEZkJFeGs2VkZycU54ZlNtY0JIakZHUzNaWkc5b3VGajNUY0VXa2htX1F4VzBRZzBadWtEMkc2NHNJYzJqaXV3?oc=5)
-
----
-
-### [Discovered: Hidden weaknesses in microtubules stabilized by cancer drug paclitaxel](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
-
-2026-10-22 <span class="news-drug-tag">PACLITAXEL</span> <span class="news-drug-tag">Paclitaxel</span> <span class="news-indication-tag">cancer</span>
-
-Source: [ummid.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlFicEk3ak03QUlmU3ByWG1zSTJpRS1vX0lqakJBVDJJeFJKelJ6UExiS2luaVdFZ254SU1oVkRobVlVeXpSc3ZKYTM0dktpNjVEV1BOME5sSzQ0US1PQVBqdkw2ZFhSWktrYUNWMXZYWS13eGhPTEtna2R1d01UMXc5SmVNQmN5ZzVNTWViZnBzRGVobWc1SlhiZHYtR3pkZUlfRkotUHJBRkxsTHR0MmNWZ0hMQQ?oc=5)
 
 ---
 

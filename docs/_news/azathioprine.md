@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 
 ## Related News (1)
 
-### [Your blood could reveal inflammatory bowel disease 10 years before diagnosis - Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTFBEMVpTV0d3c2l1d3V6cXU2U2lUQThnYXFqeGNtUFNNVGI4UVZYTGh3aGJfclA4U0VBMkpJQmFZRG9YcVdvVXo5OWtFZ0RaVHdjUzZVQ3ZnWmNwdDN5M0tyZ0pQUDMyMzZaWGhxaERB?oc=5)
+### [Your blood could reveal inflammatory bowel disease 10 years before diagnosis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMc1drUkdDR19OSmpYMmlZZFRVdzcxRE1SbnJWTEVXcVFFRXJaLXlxNXQtWE9nN1ZGdk9TdkpINGcyRkM4VVo1REgzdUZRY1FoS1VUanNfa3RhNFlWbEhSbXA5alU5Wmh0R0lDdmQ3bw?oc=5)
 
 2026-10-24 <span class="news-indication-tag">inflammatory bowel disease</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTFBEMVpTV0d3c2l1d3V6cXU2U2lUQThnYXFqeGNtUFNNVGI4UVZYTGh3aGJfclA4U0VBMkpJQmFZRG9YcVdvVXo5OWtFZ0RaVHdjUzZVQ3ZnWmNwdDN5M0tyZ0pQUDMyMzZaWGhxaERB?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBMc1drUkdDR19OSmpYMmlZZFRVdzcxRE1SbnJWTEVXcVFFRXJaLXlxNXQtWE9nN1ZGdk9TdkpINGcyRkM4VVo1REgzdUZRY1FoS1VUanNfa3RhNFlWbEhSbXA5alU5Wmh0R0lDdmQ3bw?oc=5)
 
 ---
 
