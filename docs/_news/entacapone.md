@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>1 news articles</strong>, with 4 predicted indications.
+<strong>Entacapone</strong> currently has <strong>0 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Dementia Cases May Reach 24.7 Million Annually By 2050, Global Study Finds](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
-
-2026-10-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [News18](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlZydUxMVGpvVjcyWjZsdEZuU1daeEY5dTdJZXZsbGhXVld6dFJZUlpkMktVdDl6TVg4TVNRTi1vdlBSZENvREVnWjZWT1ZPYmNZMkJ1NzdwM0doUHFWX2pqa04ySUs1Q2FGaGpKRElvZGdqRVl5VlIwY3dnb2VjTl9KRGlqSW0wajJwQUtKZ3V4dWFwX2F6Nm1KY1N0MllqUmNleGVqUzUxVjVQWW1HRUlxYkk3RWd6UlE0dDE4aEhiUE14czZHaXBwMVE0ckhZa196dlpaWHZrQ1pv?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
