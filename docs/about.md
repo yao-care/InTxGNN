@@ -24,6 +24,9 @@ the platform integrates clinical evidence from ClinicalTrials.gov and PubMed so 
 quickly assess how credible each prediction is.
 </p>
 
+See <a href="{{ '/methodology/' | relative_url }}">Methodology</a> for how evidence levels are graded,
+and <a href="{{ '/sources/' | relative_url }}">Data Sources</a> for the full list of data sources used.
+
 ---
 
 ## About the Developer
