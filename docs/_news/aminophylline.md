@@ -14,7 +14,7 @@ permalink: /news/aminophylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Aminophylline?">
-<strong>Aminophylline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Aminophylline</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ This page combines the AI-predicted indications for Aminophylline with the lates
 <p><a href="{{ '/drugs/aminophylline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Posterior Reversible Encephalopathy Syndrome Associated With Severe Autoimmune Hyperthyroidism: A Case of Cortical Visual Loss Mimicking Posterior Cerebral Artery Infarction](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSXY1TWpfbWx1dW42NDdjVWlvSUdHNzMxSG9JdDJfclZfRFY0MVZIUVpwcTIxa2g3NERaaVdyZk1ncUNIeGVwUnFyQldsOTkyUklMRnlfa1ZiSXoxaEtxb3A5azJPZnh4d2ZuVjYxSEg1SXJCUTFXejlGSGFLY3ZnQW5Fb0NJOW90OThOWnF5UlhuY2RCVkNXMFMwTmZzeWlCNmVBeEZyYjE2OUtsUWRoQzdpbjdWY1NjZEExa1lJUzY5b3lfRnAtUlhkV0toSTg3dDFSRWNxdWUyS01WalhzbFFTT0Q4QXN2RmVubEdQd3R0R0l4THN5RlNhSkVmRk9qTjl3ZGJwUkpoc21rdnBwRk5QM19HODFBU1JjTjAzZmRSWXlyTW5RUzgtRnVVT21rOGRUSkhn?oc=5)
+
+2026-10-25 <span class="news-indication-tag">hyperthyroidism</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSXY1TWpfbWx1dW42NDdjVWlvSUdHNzMxSG9JdDJfclZfRFY0MVZIUVpwcTIxa2g3NERaaVdyZk1ncUNIeGVwUnFyQldsOTkyUklMRnlfa1ZiSXoxaEtxb3A5azJPZnh4d2ZuVjYxSEg1SXJCUTFXejlGSGFLY3ZnQW5Fb0NJOW90OThOWnF5UlhuY2RCVkNXMFMwTmZzeWlCNmVBeEZyYjE2OUtsUWRoQzdpbjdWY1NjZEExa1lJUzY5b3lfRnAtUlhkV0toSTg3dDFSRWNxdWUyS01WalhzbFFTT0Q4QXN2RmVubEdQd3R0R0l4THN5RlNhSkVmRk9qTjl3ZGJwUkpoc21rdnBwRk5QM19HODFBU1JjTjAzZmRSWXlyTW5RUzgtRnVVT21rOGRUSkhn?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [What Happens to Your Brain During Menopause, According to a Neuroscientist - Oprah Daily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOY05Fa1ExNUxzTXlZM2tvWkhROVNQUFA2UzdjQ0pSbVoyUTIwaVZxNFpTWV9ld053ZENLZ0pXZm92WW1FRVl0WFJJbmVnQ3c4SmtKSTZTRnRGRjJMWHlEVV9ocmRnVWFwNHNUX0ZvLXd5cEVrQ2l1dV9xd0xPTjhpQ0V3RXc?oc=5)
-
-2026-10-23 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Oprah Daily](https://news.google.com/rss/articles/CBMihAFBVV95cUxOY05Fa1ExNUxzTXlZM2tvWkhROVNQUFA2UzdjQ0pSbVoyUTIwaVZxNFpTWV9ld053ZENLZ0pXZm92WW1FRVl0WFJJbmVnQ3c4SmtKSTZTRnRGRjJMWHlEVV9ocmRnVWFwNHNUX0ZvLXd5cEVrQ2l1dV9xd0xPTjhpQ0V3RXc?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

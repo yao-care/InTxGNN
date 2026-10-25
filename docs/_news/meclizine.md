@@ -14,7 +14,7 @@ permalink: /news/meclizine/
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>0 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,15 +37,9 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Dry, stinging and flaky skin as soon as temperatures drop? This overlooked ingredient could be the answer - Vogue Adria](https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNmVyanl0WjAwd2VCWWJRbV94SXZIcEo5OG9UeUU1QjZYaDUxZ0hjMXh6ZmNEWXI5Nl9WR0JfTENnM3pqQ0YtSHZNSGxiQThaRWMxcHEtX2xVZFY0TXpUVWdvWDRzNUo1Z2pYdjBqQjBDN1hn?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cold</span>
-
-Source: [Vogue Adria](https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNmVyanl0WjAwd2VCWWJRbV94SXZIcEo5OG9UeUU1QjZYaDUxZ0hjMXh6ZmNEWXI5Nl9WR0JfTENnM3pqQ0YtSHZNSGxiQThaRWMxcHEtX2xVZFY0TXpUVWdvWDRzNUo1Z2pYdjBqQjBDN1hn?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Posterior Reversible Encephalopathy Syndrome Associated With Severe Autoimmune Hyperthyroidism: A Case of Cortical Visual Loss Mimicking Posterior Cerebral Artery Infarction](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSXY1TWpfbWx1dW42NDdjVWlvSUdHNzMxSG9JdDJfclZfRFY0MVZIUVpwcTIxa2g3NERaaVdyZk1ncUNIeGVwUnFyQldsOTkyUklMRnlfa1ZiSXoxaEtxb3A5azJPZnh4d2ZuVjYxSEg1SXJCUTFXejlGSGFLY3ZnQW5Fb0NJOW90OThOWnF5UlhuY2RCVkNXMFMwTmZzeWlCNmVBeEZyYjE2OUtsUWRoQzdpbjdWY1NjZEExa1lJUzY5b3lfRnAtUlhkV0toSTg3dDFSRWNxdWUyS01WalhzbFFTT0Q4QXN2RmVubEdQd3R0R0l4THN5RlNhSkVmRk9qTjl3ZGJwUkpoc21rdnBwRk5QM19HODFBU1JjTjAzZmRSWXlyTW5RUzgtRnVVT21rOGRUSkhn?oc=5)
+
+2026-10-25 <span class="news-indication-tag">hyperthyroidism</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMitgJBVV95cUxPSXY1TWpfbWx1dW42NDdjVWlvSUdHNzMxSG9JdDJfclZfRFY0MVZIUVpwcTIxa2g3NERaaVdyZk1ncUNIeGVwUnFyQldsOTkyUklMRnlfa1ZiSXoxaEtxb3A5azJPZnh4d2ZuVjYxSEg1SXJCUTFXejlGSGFLY3ZnQW5Fb0NJOW90OThOWnF5UlhuY2RCVkNXMFMwTmZzeWlCNmVBeEZyYjE2OUtsUWRoQzdpbjdWY1NjZEExa1lJUzY5b3lfRnAtUlhkV0toSTg3dDFSRWNxdWUyS01WalhzbFFTT0Q4QXN2RmVubEdQd3R0R0l4THN5RlNhSkVmRk9qTjl3ZGJwUkpoc21rdnBwRk5QM19HODFBU1JjTjAzZmRSWXlyTW5RUzgtRnVVT21rOGRUSkhn?oc=5)
+
+---
 
 ### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 

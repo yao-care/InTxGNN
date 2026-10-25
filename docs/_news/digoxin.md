@@ -14,7 +14,7 @@ permalink: /news/digoxin/
 ---
 
 <p class="key-answer" data-question="What news is there about Digoxin?">
-<strong>Digoxin</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Digoxin</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Digoxin with the latest heal
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [World Stroke Day 2026: How to recognise a stroke and what to do immediately - The Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2FSSE9qN3B5RWo3a1R2aFRXUUtLQ3FTN3g0R1Q0ZktBd3k2NFE1eW5mQ0lPVDhGV01fUFF3UkxnSy15NjVFcUZUSFU2Si1vbmFKQldPalBNTWJDRHFjXzljSi1yWmVnZU8zUW03bkJIM1FlOGNDemVxdmJzQXNySVNGbTVPUVdfTEU3ZUlRNTNPOU1BV2xzN0lNRWN0OFFCTW5wSk9MRXhKWnkzVm5yQm5saTNyeVJ1aS1va3RTU0RfWEnSAcgBQVVfeXFMTWZUZUpUeEtRWS1vWVh0QzRfUUgwSWViUU9XOUZmWF9nYTJVR1U3VGNEM0sxNTVtUFB1RTZYTUJvUXBqZXVXZVZMTkQ0OENNdnNOdEVQa0RDM0FPYjdWb29PaVBiOFhidHBQTmFwQlF3azctSmFNV2piTUc1c3YwQ1JVOC1VYXZoaW44aTdfNDJoSlJ1cXVmWk15d2dGU0IxQ0JhSlAzYTNrMElzdGdXZVVCdTlMNUZNVmRDWUdVVl93UTBOUVhzZ08?oc=5)
 
@@ -47,14 +47,6 @@ Source: [The Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2FSSE9q
 2026-10-25 <span class="news-drug-tag">Carbamazepine</span> <span class="news-drug-tag">Clarithromycin</span> <span class="news-drug-tag">CARBAMAZEPINE</span> <span class="news-drug-tag">CLARITHROMYCIN</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW1NXy15VWwwM0xYMXIxd184Z1pGbU9GOG1OYUhWc2JGX2JXUGVVQXgzYzNhMEJuYklfNVFwNlBCSTU4cGo3cVBES3pKYkdDa1pVSXVkNlZ3dThGdnkxbWY4bnRTRUIxb180VWZJaDZjaDkyMkFWbWI5QzVPSHNKOG1oSnVEdkxZYmpYMjJsSVY5cGdwMkVsaEtQZ3Y1bUw1UTh3UjV4OFRMcUNpV09OcTBZUWV1S01Xd0RCaTNIQ3ItNnh5MktsUjZ1QTlXaDdoTnhoNw?oc=5)
-
----
-
-### [Children's brain reward responses may explain ultra-processed food-related weight gain](https://news.google.com/rss/articles/CBMizgFBVV95cUxPek5lZV9VWmdTdmg5UlRWdFNHN1lDSHFqY0dPRFJKU2gyWEE0Q3hvZU5RUlFDTncxUkdlZXZRbDJsQ1NjYjE4WWVVdm5VNEpoTHJIbGZBZldZLW5hWUpBYjhxeE5UMW9HMTJzMDk0by1xM0xfZVZPVnJIYWJSSmktcWJ2WW1NcjVKakRKQ05VbklkLUFWWGg0XzBrUjVZbnZaekc2TklrcVlGSkZNQ1hKNTgxYWU0ZFNGRm1fdHlYNlF1NEF1QmRmZVNaajVHZw?oc=5)
-
-2026-10-24 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMizgFBVV95cUxPek5lZV9VWmdTdmg5UlRWdFNHN1lDSHFqY0dPRFJKU2gyWEE0Q3hvZU5RUlFDTncxUkdlZXZRbDJsQ1NjYjE4WWVVdm5VNEpoTHJIbGZBZldZLW5hWUpBYjhxeE5UMW9HMTJzMDk0by1xM0xfZVZPVnJIYWJSSmktcWJ2WW1NcjVKakRKQ05VbklkLUFWWGg0XzBrUjVZbnZaekc2TklrcVlGSkZNQ1hKNTgxYWU0ZFNGRm1fdHlYNlF1NEF1QmRmZVNaajVHZw?oc=5)
 
 ---
 

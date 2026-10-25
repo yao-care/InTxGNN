@@ -34,11 +34,11 @@ This page combines the AI-predicted indications for Artemether with the latest h
 
 ## Related News (2)
 
-### [Doctors flag malaria, dengue risk amid construction activity](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZW5zWVowNkdqY3RQempYWnJpZDcxdHJkMEFPdW1FeWtibkJkUVpKaTEtR3F3QXhOdEI1UmJqcnl0dVdiMWFjZFROb0RmMDdTcnM0SHczX3FYcEMyV25GcThkNmFMS3VlUHRJOHMtcWVUaEk4eWptTktweWhVcmVSOVJnS3VzaHc4TjY1TFlab1FncnEwelRUTUJveERHbmc?oc=5)
+### [Doctors flag malaria, dengue risk amid construction activity](https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRTRGNpRmwyNjB4X1dsYWZ0Ym03YTh1a3BQOW5wdlRrMlQwN0RlUnhISl92anZzcm9VSkhhcEpsX20taU56b2RfejVaWW5MMHpDZUVMc1F2MHphRFdMOWhTVlo2MkEzYjlnM1NqbmxNcGZnU1NMeGk5ZDdqM0JSbjhKa2J1OUp5SUFaVXJhVEdhOUtlRk14eU5R?oc=5)
 
 2026-10-24 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
 
-Source: [Newsband](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZW5zWVowNkdqY3RQempYWnJpZDcxdHJkMEFPdW1FeWtibkJkUVpKaTEtR3F3QXhOdEI1UmJqcnl0dVdiMWFjZFROb0RmMDdTcnM0SHczX3FYcEMyV25GcThkNmFMS3VlUHRJOHMtcWVUaEk4eWptTktweWhVcmVSOVJnS3VzaHc4TjY1TFlab1FncnEwelRUTUJveERHbmc?oc=5)
+Source: [Newsband](https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRTRGNpRmwyNjB4X1dsYWZ0Ym03YTh1a3BQOW5wdlRrMlQwN0RlUnhISl92anZzcm9VSkhhcEpsX20taU56b2RfejVaWW5MMHpDZUVMc1F2MHphRFdMOWhTVlo2MkEzYjlnM1NqbmxNcGZnU1NMeGk5ZDdqM0JSbjhKa2J1OUp5SUFaVXJhVEdhOUtlRk14eU5R?oc=5)
 
 ---
 

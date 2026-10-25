@@ -3,7 +3,7 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 1 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [AI can flag Tuberculosis signs on X-rays, lung cancer nodules on CT scans, say experts - Telegraph India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2ctTmRkTW85WlkzdVg3bFRVVXpiNmplWnV6ODIzcmpvS2J4akhxOVNuRDRkeVBhdnlRZEF3cGMtclVZa2Y5VHZhTnNuaEFDYmNrcnBZS05paG9WUGRtRzhjaHJCdjNEcVlrQzNQMkpBMEZOMGNnLVExaTRVMnUwYllmd2FpY0ZPbmJGV0x4Sy00MGQta3BPbDdFaGpQS1U0MUx2S1Awb185Ynl1UFNycUxCdmkzTDJRMnFuczF0U1hQbHZkVHRxMFZ3M1dGQdIB0wFBVV95cUxOek5ManlTMTJKUmdBS1NmUm9sMHFCcENLbWpsNXc3UGxFTmZ3cEFfSlNNZW5Bc3JOY0Y2M0tIMDdDbjAxdlNFMjdaT1FVYy13ckpwZXA0SGZDTEkzMVhyX2ZObDRhcG5nc0xZbUl6bkcwSnQ5WVctUkZTVzk0V0YyOWlLVW1aUEtaYWxUb2k0Mi1FakFuenZxZXJfSVNHWDFjUGoyRVVRdUY1c0tnMDdrZmROZXJGemIzdUNWa1hLYTJBMDFIcGtqaV93Q0ZFaWdJOS13?oc=5)
+### [SARON: Consolidation Radiotherapy Improves PFS but Not Overall Survival in Oligometastatic NSCLC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1FOVdqRjFJZW5raDEwelhTZ1Vob2NTdVF0akJNVmZLdDlTN2hseUNpeFBkdThrbkF1ZmVUWkxNOWV3REs1TjdiTklLb3U1V0xUUjdjM0ZYb3BuQkd6QQ?oc=5)
 
 2026-10-25
 
-Source: [Telegraph India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2ctTmRkTW85WlkzdVg3bFRVVXpiNmplWnV6ODIzcmpvS2J4akhxOVNuRDRkeVBhdnlRZEF3cGMtclVZa2Y5VHZhTnNuaEFDYmNrcnBZS05paG9WUGRtRzhjaHJCdjNEcVlrQzNQMkpBMEZOMGNnLVExaTRVMnUwYllmd2FpY0ZPbmJGV0x4Sy00MGQta3BPbDdFaGpQS1U0MUx2S1Awb185Ynl1UFNycUxCdmkzTDJRMnFuczF0U1hQbHZkVHRxMFZ3M1dGQdIB0wFBVV95cUxOek5ManlTMTJKUmdBS1NmUm9sMHFCcENLbWpsNXc3UGxFTmZ3cEFfSlNNZW5Bc3JOY0Y2M0tIMDdDbjAxdlNFMjdaT1FVYy13ckpwZXA0SGZDTEkzMVhyX2ZObDRhcG5nc0xZbUl6bkcwSnQ5WVctUkZTVzk0V0YyOWlLVW1aUEtaYWxUb2k0Mi1FakFuenZxZXJfSVNHWDFjUGoyRVVRdUY1c0tnMDdrZmROZXJGemIzdUNWa1hLYTJBMDFIcGtqaV93Q0ZFaWdJOS13?oc=5)
-
----
-
-### [What’s New On Radiotherapy of Lung Cancer in 2026?](https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wc2hVdWFpMDh5MHhPS3RKaDlxUmZGVmQ1Tm1lNEp1RFpiU2dyQ1FMbnB2T0tNdWRJOWdnS3N6OTNzVkNGbVlzS3FKOGVHaU1uQ2FOOHdmREpuZ1FYcU5NT2FCMkFxVS1YZWxrTUVnV2RWdFFBRV9MNUVySEQ5Y28?oc=5)
-
-2026-10-22
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wc2hVdWFpMDh5MHhPS3RKaDlxUmZGVmQ1Tm1lNEp1RFpiU2dyQ1FMbnB2T0tNdWRJOWdnS3N6OTNzVkNGbVlzS3FKOGVHaU1uQ2FOOHdmREpuZ1FYcU5NT2FCMkFxVS1YZWxrTUVnV2RWdFFBRV9MNUVySEQ5Y28?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1FOVdqRjFJZW5raDEwelhTZ1Vob2NTdVF0akJNVmZLdDlTN2hseUNpeFBkdThrbkF1ZmVUWkxNOWV3REs1TjdiTklLb3U1V0xUUjdjM0ZYb3BuQkd6QQ?oc=5)
 
 ---
 

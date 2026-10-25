@@ -14,7 +14,7 @@ permalink: /news/ciclesonide/
 ---
 
 <p class="key-answer" data-question="What news is there about Ciclesonide?">
-<strong>Ciclesonide</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Ciclesonide</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Ciclesonide with the latest 
 <p><a href="{{ '/drugs/ciclesonide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Contact Dermatitis Uncommon Despite Positive Allergy Tests](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlVsdElRWFFfUTVjSFJWS3U3bXYtT2Jub0VXdUFWSEJFX2FKY3FZV0dTUDVhWmQxcDlWQ3MzQ1E4VW8wcFNKQmVWQURSS0x1b1FtU3lVbGQydVNLT210RkpBanQxVWFRLXJmb1R6LUkyd0tmQzcxV0o5T2lhQlBUYjR4WkF1NHJnbTEzemI3eVBBdVRTY2lrcUlNa3dwYW53Yzd6RHB3?oc=5)
+
+2026-10-22 <span class="news-indication-tag">contact dermatitis</span> <span class="news-indication-tag">dermatitis</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlVsdElRWFFfUTVjSFJWS3U3bXYtT2Jub0VXdUFWSEJFX2FKY3FZV0dTUDVhWmQxcDlWQ3MzQ1E4VW8wcFNKQmVWQURSS0x1b1FtU3lVbGQydVNLT210RkpBanQxVWFRLXJmb1R6LUkyd0tmQzcxV0o5T2lhQlBUYjR4WkF1NHJnbTEzemI3eVBBdVRTY2lrcUlNa3dwYW53Yzd6RHB3?oc=5)
+
+---
 
 
 <div class="disclaimer">
