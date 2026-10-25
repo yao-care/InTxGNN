@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>4 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,29 +32,13 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (2)
 
-### [Physical Therapy and Rehabilitation Interventions for Pain and Dysfunction in Rheumatoid Arthritis: A Systematic Review](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTNTTVM5VVN2MmlleXJsV3Y0M1ktRGJldGtmLThlMnpHZEpmUVpCYzFsMHQ2dHM0VkduWW1QMlJtSHd0N2o3akQwaGt6U1NtaUp0dEJnZUJncmVPY2FubXMyajllNFNoTENRY1hKQkdNdFNuOXpWY253cUctaXdFdE9WdnZjZFlCWWctMFpDRV9rUjllakhjZ2NJZnNiSE1wNlBBWi1NdThqd3R2SmV3NEg1cGt3aWp6YVBfVDc5UWtYYk9GdDYza3dKdFAtckc0Ujg4aWVRaHMtcWVqQkRsb2M5YTVrbUppUWoxYmxB?oc=5)
+### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 
-2026-10-24 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+2026-10-25 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTNTTVM5VVN2MmlleXJsV3Y0M1ktRGJldGtmLThlMnpHZEpmUVpCYzFsMHQ2dHM0VkduWW1QMlJtSHd0N2o3akQwaGt6U1NtaUp0dEJnZUJncmVPY2FubXMyajllNFNoTENRY1hKQkdNdFNuOXpWY253cUctaXdFdE9WdnZjZFlCWWctMFpDRV9rUjllakhjZ2NJZnNiSE1wNlBBWi1NdThqd3R2SmV3NEg1cGt3aWp6YVBfVDc5UWtYYk9GdDYza3dKdFAtckc0Ujg4aWVRaHMtcWVqQkRsb2M5YTVrbUppUWoxYmxB?oc=5)
-
----
-
-### [A Biological Psychiatrist Wins the Nobel - Mad In America](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEh4R0c4MTQtRVBXMGpYUnFwV2t0dzVYSEV5cVJ1ZHFGdlo5VnRRbU5pMGxCNDZMbUptWEpsenlsRnFCME5HVlFwSzRsS2d1bEczSENreVQ1OVJmaVRpYTZWdTJ2ZGx3eHR5ai1MSzJqVk1QVjNwMEZUNk1kdXVLR3gzTjI?oc=5)
-
-2026-10-24 <span class="news-indication-tag">RA</span>
-
-Source: [Mad In America](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEh4R0c4MTQtRVBXMGpYUnFwV2t0dzVYSEV5cVJ1ZHFGdlo5VnRRbU5pMGxCNDZMbUptWEpsenlsRnFCME5HVlFwSzRsS2d1bEczSENreVQ1OVJmaVRpYTZWdTJ2ZGx3eHR5ai1MSzJqVk1QVjNwMEZUNk1kdXVLR3gzTjI?oc=5)
-
----
-
-### [Key Drivers of Mortality in MASLD](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [DocWireNews](https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNGZSaGRaTGQ3R0RTaEUtSUlpS2dZaEYteUlqWHEwbEVQN2FjZkdxcDVheGZHUDlwVGRuTGtIa0hXeGlGSElrbTQ4aEtPeVNtcDRRdDQ2Z1p2Z1ptVGZoWFFEVTN1ajJ1d0E5Vnl3cjNmWE9s?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 
 ---
 

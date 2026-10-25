@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 3 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 1 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>3 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,23 +49,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (3)
-
-### [Physical Therapy and Rehabilitation Interventions for Pain and Dysfunction in Rheumatoid Arthritis: A Systematic Review](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTNTTVM5VVN2MmlleXJsV3Y0M1ktRGJldGtmLThlMnpHZEpmUVpCYzFsMHQ2dHM0VkduWW1QMlJtSHd0N2o3akQwaGt6U1NtaUp0dEJnZUJncmVPY2FubXMyajllNFNoTENRY1hKQkdNdFNuOXpWY253cUctaXdFdE9WdnZjZFlCWWctMFpDRV9rUjllakhjZ2NJZnNiSE1wNlBBWi1NdThqd3R2SmV3NEg1cGt3aWp6YVBfVDc5UWtYYk9GdDYza3dKdFAtckc0Ujg4aWVRaHMtcWVqQkRsb2M5YTVrbUppUWoxYmxB?oc=5)
-
-2026-10-24
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLTNTTVM5VVN2MmlleXJsV3Y0M1ktRGJldGtmLThlMnpHZEpmUVpCYzFsMHQ2dHM0VkduWW1QMlJtSHd0N2o3akQwaGt6U1NtaUp0dEJnZUJncmVPY2FubXMyajllNFNoTENRY1hKQkdNdFNuOXpWY253cUctaXdFdE9WdnZjZFlCWWctMFpDRV9rUjllakhjZ2NJZnNiSE1wNlBBWi1NdThqd3R2SmV3NEg1cGt3aWp6YVBfVDc5UWtYYk9GdDYza3dKdFAtckc0Ujg4aWVRaHMtcWVqQkRsb2M5YTVrbUppUWoxYmxB?oc=5)
-
----
-
-### [A Biological Psychiatrist Wins the Nobel - Mad In America](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEh4R0c4MTQtRVBXMGpYUnFwV2t0dzVYSEV5cVJ1ZHFGdlo5VnRRbU5pMGxCNDZMbUptWEpsenlsRnFCME5HVlFwSzRsS2d1bEczSENreVQ1OVJmaVRpYTZWdTJ2ZGx3eHR5ai1MSzJqVk1QVjNwMEZUNk1kdXVLR3gzTjI?oc=5)
-
-2026-10-24
-
-Source: [Mad In America](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEh4R0c4MTQtRVBXMGpYUnFwV2t0dzVYSEV5cVJ1ZHFGdlo5VnRRbU5pMGxCNDZMbUptWEpsenlsRnFCME5HVlFwSzRsS2d1bEczSENreVQ1OVJmaVRpYTZWdTJ2ZGx3eHR5ai1MSzJqVk1QVjNwMEZUNk1kdXVLR3gzTjI?oc=5)
-
----
+## Related News (1)
 
 ### [Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses - News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
 

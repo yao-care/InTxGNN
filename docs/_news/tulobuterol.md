@@ -14,7 +14,7 @@ permalink: /news/tulobuterol/
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [AI can flag Tuberculosis signs on X-rays, lung cancer nodules on CT scans, say experts - Telegraph India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2ctTmRkTW85WlkzdVg3bFRVVXpiNmplWnV6ODIzcmpvS2J4akhxOVNuRDRkeVBhdnlRZEF3cGMtclVZa2Y5VHZhTnNuaEFDYmNrcnBZS05paG9WUGRtRzhjaHJCdjNEcVlrQzNQMkpBMEZOMGNnLVExaTRVMnUwYllmd2FpY0ZPbmJGV0x4Sy00MGQta3BPbDdFaGpQS1U0MUx2S1Awb185Ynl1UFNycUxCdmkzTDJRMnFuczF0U1hQbHZkVHRxMFZ3M1dGQdIB0wFBVV95cUxOek5ManlTMTJKUmdBS1NmUm9sMHFCcENLbWpsNXc3UGxFTmZ3cEFfSlNNZW5Bc3JOY0Y2M0tIMDdDbjAxdlNFMjdaT1FVYy13ckpwZXA0SGZDTEkzMVhyX2ZObDRhcG5nc0xZbUl6bkcwSnQ5WVctUkZTVzk0V0YyOWlLVW1aUEtaYWxUb2k0Mi1FakFuenZxZXJfSVNHWDFjUGoyRVVRdUY1c0tnMDdrZmROZXJGemIzdUNWa1hLYTJBMDFIcGtqaV93Q0ZFaWdJOS13?oc=5)
+
+2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span> <span class="news-indication-tag">COPD</span>
+
+Source: [Telegraph India](https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2ctTmRkTW85WlkzdVg3bFRVVXpiNmplWnV6ODIzcmpvS2J4akhxOVNuRDRkeVBhdnlRZEF3cGMtclVZa2Y5VHZhTnNuaEFDYmNrcnBZS05paG9WUGRtRzhjaHJCdjNEcVlrQzNQMkpBMEZOMGNnLVExaTRVMnUwYllmd2FpY0ZPbmJGV0x4Sy00MGQta3BPbDdFaGpQS1U0MUx2S1Awb185Ynl1UFNycUxCdmkzTDJRMnFuczF0U1hQbHZkVHRxMFZ3M1dGQdIB0wFBVV95cUxOek5ManlTMTJKUmdBS1NmUm9sMHFCcENLbWpsNXc3UGxFTmZ3cEFfSlNNZW5Bc3JOY0Y2M0tIMDdDbjAxdlNFMjdaT1FVYy13ckpwZXA0SGZDTEkzMVhyX2ZObDRhcG5nc0xZbUl6bkcwSnQ5WVctUkZTVzk0V0YyOWlLVW1aUEtaYWxUb2k0Mi1FakFuenZxZXJfSVNHWDFjUGoyRVVRdUY1c0tnMDdrZmROZXJGemIzdUNWa1hLYTJBMDFIcGtqaV93Q0ZFaWdJOS13?oc=5)
+
+---
 
 
 <div class="disclaimer">
