@@ -14,7 +14,7 @@ permalink: /news/artemether/
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Artemether</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,23 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (2)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Doctors flag malaria, dengue risk amid construction activity](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZW5zWVowNkdqY3RQempYWnJpZDcxdHJkMEFPdW1FeWtibkJkUVpKaTEtR3F3QXhOdEI1UmJqcnl0dVdiMWFjZFROb0RmMDdTcnM0SHczX3FYcEMyV25GcThkNmFMS3VlUHRJOHMtcWVUaEk4eWptTktweWhVcmVSOVJnS3VzaHc4TjY1TFlab1FncnEwelRUTUJveERHbmc?oc=5)
+
+2026-10-24 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [Newsband](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZW5zWVowNkdqY3RQempYWnJpZDcxdHJkMEFPdW1FeWtibkJkUVpKaTEtR3F3QXhOdEI1UmJqcnl0dVdiMWFjZFROb0RmMDdTcnM0SHczX3FYcEMyV25GcThkNmFMS3VlUHRJOHMtcWVUaEk4eWptTktweWhVcmVSOVJnS3VzaHc4TjY1TFlab1FncnEwelRUTUJveERHbmc?oc=5)
+
+---
+
+### [Bharat Biotech slashes malaria vaccine price on GAVI-backed pact with UNICEF - The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX2VDMk90S2FBbEJTeTFTT0FtM2M5b3JuRnB3RXpKcnpZNkdSZ3dvTnZEWUhGWU51RGdMX1ViUm5Cc1VzLW5BN2tKQU92aWszMlRQeWN2WFFibVc0cEFrM0tiNmphR2RDRWxpVnBGTDA5M0FZeHdwVlpDazJVT3diMnVfM3gzM2hZQk9GWmNLb2ZxQWhfZmNGXzZUZ01QWHFCc2dUVkpFMWwwTXh5YUJ6MVlYeUYyYVAzRTA4TG9HR0tDTi1fRGJQYi0wS3RWTkVBVzlpTFNGb3U1cG_SAeIBQVVfeXFMUHlIb2FzbU5LSzY3VzZ1MFI5aGRFODJTRFViVWFGVGFaWE8tck9mc2cwSE5BdXR0RFpaZWxYNXFldXR3c2xwTVNBd01CLU45d25wVHRodTNIQ1ZEYkxOQkdyM1BTS3hmUXozLUtGSEpsSnVLVV8zZHBBcDdpWEV3dE1EQVZUZHZsc01XSVFsaEZfV2NqRHF0LUdHWDJLdmJ6SENwQW4yaHo1ZFFuanpzMy13Nkw1RGFTV2ZKRmdzTTN6Z0RFTXVIV3dGdUNhYWctOXRyQXJQeGRmX09NLVBzXzBadw?oc=5)
+
+2026-10-23 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX2VDMk90S2FBbEJTeTFTT0FtM2M5b3JuRnB3RXpKcnpZNkdSZ3dvTnZEWUhGWU51RGdMX1ViUm5Cc1VzLW5BN2tKQU92aWszMlRQeWN2WFFibVc0cEFrM0tiNmphR2RDRWxpVnBGTDA5M0FZeHdwVlpDazJVT3diMnVfM3gzM2hZQk9GWmNLb2ZxQWhfZmNGXzZUZ01QWHFCc2dUVkpFMWwwTXh5YUJ6MVlYeUYyYVAzRTA4TG9HR0tDTi1fRGJQYi0wS3RWTkVBVzlpTFNGb3U1cG_SAeIBQVVfeXFMUHlIb2FzbU5LSzY3VzZ1MFI5aGRFODJTRFViVWFGVGFaWE8tck9mc2cwSE5BdXR0RFpaZWxYNXFldXR3c2xwTVNBd01CLU45d25wVHRodTNIQ1ZEYkxOQkdyM1BTS3hmUXozLUtGSEpsSnVLVV8zZHBBcDdpWEV3dE1EQVZUZHZsc01XSVFsaEZfV2NqRHF0LUdHWDJLdmJ6SENwQW4yaHo1ZFFuanpzMy13Nkw1RGFTV2ZKRmdzTTN6Z0RFTXVIV3dGdUNhYWctOXRyQXJQeGRmX09NLVBzXzBadw?oc=5)
+
+---
 
 
 <div class="disclaimer">

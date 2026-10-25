@@ -14,7 +14,7 @@ permalink: /news/bromocriptine/
 ---
 
 <p class="key-answer" data-question="What news is there about Bromocriptine?">
-<strong>Bromocriptine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Bromocriptine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 <p><a href="{{ '/drugs/bromocriptine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Most people may have a high genetic risk for diseases such as diabetes, heart disease and schizophrenia, - The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPZmI2V3laT0RKSk9HaXFTaTFqR3J5QUxBMS0xRnB3ZGpOdWxRekhZU0toRHFXOUZZMGNVVlQ0TWprQVhiamZQejloVzlVM1pndE1Idk92UHFZa3ZqdVdBcnZhUEFUQlAwQ3hzU0JYdm0tNlg3TkxoS0RzWmhheDFLR1h4NTFhQkxGQ2dYRHFSdDRsejFIMEg5VnRyc2t5eFBFb0d3UW80MW5VSVQwR2FYTTliNmRCa1Q1ei1zNzhQaThuUVZUVDFPQTBPYU5JdkFpZDFfYTVHSUEtS3JwUHA2TjZPMXl5S2owdXEtV181clJ6ekNhRzI5UmVJZ25BZ2VOVnBGRXJsbGVxT3hVa0Z5QtIBlgJBVV95cUxPbWNXVkh0c25QeGpjdkpIeXBsdE1UX185RWVHdWdQSmtuSWMtMXNiWGtsRnc1blh6bGUza1RWSlY1dHBvV1ZzU0xYSVdhR193VzNvNUgxYU1MQ09PZFZXU1ZMYVNLNFZyU2VLUVA1RjRIOTl6Q3BjR1Q2T3RodUdPVGc5T1IwZFNDeDUxR2RKc08zY0Q0OVk5U084aXlZVXhJcTFhQWJVU2VUTGE1clByVjIwUXY4bXhYQjhyTDFLYmw3V015RlRoeWRQMVJTM0RkdXVINWRiMmJkUjNuQjBkdVFZUXIwV2tmd3Nqc0ROVFd5QTBiWEp4cTlOTlV4MmlMd2pxX1JKMGI3VkE2T1BTMW5rSUNYQQ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPZmI2V3laT0RKSk9HaXFTaTFqR3J5QUxBMS0xRnB3ZGpOdWxRekhZU0toRHFXOUZZMGNVVlQ0TWprQVhiamZQejloVzlVM1pndE1Idk92UHFZa3ZqdVdBcnZhUEFUQlAwQ3hzU0JYdm0tNlg3TkxoS0RzWmhheDFLR1h4NTFhQkxGQ2dYRHFSdDRsejFIMEg5VnRyc2t5eFBFb0d3UW80MW5VSVQwR2FYTTliNmRCa1Q1ei1zNzhQaThuUVZUVDFPQTBPYU5JdkFpZDFfYTVHSUEtS3JwUHA2TjZPMXl5S2owdXEtV181clJ6ekNhRzI5UmVJZ25BZ2VOVnBGRXJsbGVxT3hVa0Z5QtIBlgJBVV95cUxPbWNXVkh0c25QeGpjdkpIeXBsdE1UX185RWVHdWdQSmtuSWMtMXNiWGtsRnc1blh6bGUza1RWSlY1dHBvV1ZzU0xYSVdhR193VzNvNUgxYU1MQ09PZFZXU1ZMYVNLNFZyU2VLUVA1RjRIOTl6Q3BjR1Q2T3RodUdPVGc5T1IwZFNDeDUxR2RKc08zY0Q0OVk5U084aXlZVXhJcTFhQWJVU2VUTGE1clByVjIwUXY4bXhYQjhyTDFLYmw3V015RlRoeWRQMVJTM0RkdXVINWRiMmJkUjNuQjBkdVFZUXIwV2tmd3Nqc0ROVFd5QTBiWEp4cTlOTlV4MmlMd2pxX1JKMGI3VkE2T1BTMW5rSUNYQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
