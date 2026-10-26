@@ -3,7 +3,7 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 1 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [SARON: Consolidation Radiotherapy Improves PFS but Not Overall Survival in Oligometastatic NSCLC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1FOVdqRjFJZW5raDEwelhTZ1Vob2NTdVF0akJNVmZLdDlTN2hseUNpeFBkdThrbkF1ZmVUWkxNOWV3REs1TjdiTklLb3U1V0xUUjdjM0ZYb3BuQkd6QQ?oc=5)
 
 2026-10-25
 
 Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1FOVdqRjFJZW5raDEwelhTZ1Vob2NTdVF0akJNVmZLdDlTN2hseUNpeFBkdThrbkF1ZmVUWkxNOWV3REs1TjdiTklLb3U1V0xUUjdjM0ZYb3BuQkd6QQ?oc=5)
+
+---
+
+### [STPI and IIT BHU Explore AI Solutions for Healthcare and Assistive Technologies](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzFyUnFPRmpGcnJkN0Z0ZGRpbzktS1J5YVdnaVFVMWw5dzI1eWp4SW9Yc0lDN2kzOVZlaUxZd2lRNGtHQ05FakVZTWJTcXdNYXNkTUFRSHBMOWdadF84SG0zLUc5T2NJTGJxOFRmNVNMVVJKSmV1dEFQbDhWTUd0U3pwRU5PM19vSVhXckM1RF9sdTlzYURydllEdTBfdThSUVVqMHZFV2I?oc=5)
+
+2026-10-21
+
+Source: [IBEF](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzFyUnFPRmpGcnJkN0Z0ZGRpbzktS1J5YVdnaVFVMWw5dzI1eWp4SW9Yc0lDN2kzOVZlaUxZd2lRNGtHQ05FakVZTWJTcXdNYXNkTUFRSHBMOWdadF84SG0zLUc5T2NJTGJxOFRmNVNMVVJKSmV1dEFQbDhWTUd0U3pwRU5PM19vSVhXckM1RF9sdTlzYURydllEdTBfdThSUVVqMHZFV2I?oc=5)
 
 ---
 

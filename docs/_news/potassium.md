@@ -14,7 +14,7 @@ permalink: /news/potassium/
 ---
 
 <p class="key-answer" data-question="What news is there about Potassium?">
-<strong>Potassium</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Potassium</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Potassium with the latest he
 <p><a href="{{ '/drugs/potassium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Fruits And Vegetables Outperform Medication For Treating Metabolic Acidosis In Chronic Kidney Disease - ETV Bharat](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVM0NWFPeEg0Y1NaRW1tM2xoeWp5VUxnTDhKVUlDNzJaY005ZTI2bk5uVjlRc2M4ZFZMY3JQZ01ETnZMMmxrR2hVME0tWnQ4MUFRRHFCc1BraWl3UEt4WlB2SFF1ZWxDMmJvRi1MR3NtS0Q4TlhQZlhEWWlKcC1VdEhlTmJYWUZQWXNBbVZXQWxKWmhUXzRqMXU0X2poeXZTMzl0QjBrVVhYOURIam1CdGt5cUJjMFJqdXVBRHFxQdIBxAFBVV95cUxNb0h6eU1DVHgxaDIzcWc0VzNmVHZkdU8yVExuWUR6eG1nM1JzeWk1T1AyY1otZkJlVDJRNnVoNFdOQlAwcmJETzdKSEZwcnRPVDFidHFhejF3eVo3YUFqWWh4TnY5YS1oeGpCZzRyLUdkY2VJdTlxdi1tbmxFRWxXN2VhRUJwdkotVFpaQ2VSOXB6TWtKdm5BTzhYOEhFWXNFOFB4U05VczVJSG41WFRXbzJDakVnZWp0b0JfaWMxdHJDNnhT?oc=5)
+
+2026-10-26 <span class="news-drug-tag">Potassium</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVM0NWFPeEg0Y1NaRW1tM2xoeWp5VUxnTDhKVUlDNzJaY005ZTI2bk5uVjlRc2M4ZFZMY3JQZ01ETnZMMmxrR2hVME0tWnQ4MUFRRHFCc1BraWl3UEt4WlB2SFF1ZWxDMmJvRi1MR3NtS0Q4TlhQZlhEWWlKcC1VdEhlTmJYWUZQWXNBbVZXQWxKWmhUXzRqMXU0X2poeXZTMzl0QjBrVVhYOURIam1CdGt5cUJjMFJqdXVBRHFxQdIBxAFBVV95cUxNb0h6eU1DVHgxaDIzcWc0VzNmVHZkdU8yVExuWUR6eG1nM1JzeWk1T1AyY1otZkJlVDJRNnVoNFdOQlAwcmJETzdKSEZwcnRPVDFidHFhejF3eVo3YUFqWWh4TnY5YS1oeGpCZzRyLUdkY2VJdTlxdi1tbmxFRWxXN2VhRUJwdkotVFpaQ2VSOXB6TWtKdm5BTzhYOEhFWXNFOFB4U05VczVJSG41WFRXbzJDakVnZWp0b0JfaWMxdHJDNnhT?oc=5)
+
+---
 
 
 <div class="disclaimer">
