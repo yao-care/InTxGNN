@@ -14,7 +14,7 @@ permalink: /news/ascorbic_acid/
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>0 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,9 +28,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Giant Gallstone Ileus With Concomitant Mesenteric Torsion and Severe Acute Kidney Injury in an Elderly Woman: A Case Report](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXNNemFUa20xaFJZSF9JbDdKUHVpREEwT1YxaWRIb0lQZlB6endnV1h6WEktRTRrTzBtWUloSldubjhWUWZ6clN4cnlDaG1sR2Y0N3lBa0VkWFNUZEw1c2lEYnFwUVpXRE9hN0x1ZS1tVHFyeUFzX1VWWWhqQkVnNjZMV3JUeXRWbVNoQVJnNDZuLU1LTGlvZW1EMnVoekhZUHhxM2ZtZEFzUVBwOEhlcm40R2d4cUtIZ3UyaUhwMmMzX3BzUVVFQ05CNnZvSzdUamE5T1FuTUhYRk1zeHV2bng3M2o2R2ZnZ2htYllKZ1FqblU?oc=5)
+
+2026-10-26 <span class="news-indication-tag">injury</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXNNemFUa20xaFJZSF9JbDdKUHVpREEwT1YxaWRIb0lQZlB6endnV1h6WEktRTRrTzBtWUloSldubjhWUWZ6clN4cnlDaG1sR2Y0N3lBa0VkWFNUZEw1c2lEYnFwUVpXRE9hN0x1ZS1tVHFyeUFzX1VWWWhqQkVnNjZMV3JUeXRWbVNoQVJnNDZuLU1LTGlvZW1EMnVoekhZUHhxM2ZtZEFzUVBwOEhlcm40R2d4cUtIZ3UyaUhwMmMzX3BzUVVFQ05CNnZvSzdUamE5T1FuTUhYRk1zeHV2bng3M2o2R2ZnZ2htYllKZ1FqblU?oc=5)
+
+---
 
 
 <div class="disclaimer">

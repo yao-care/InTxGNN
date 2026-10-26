@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 3 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>3 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>5 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,37 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
 
-### [Black patients and people with learning disability face longer breast cancer care delays](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
+### [UCL scientists design symbolic AI digital twins to treat cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
 
 2026-10-26
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
 
 ---
 
-### [Oncologist explains 6 breast changes you should never ignore, from uneven appearance to skin changes | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN3kyMGJoYkh5ckVkOE01UVFuelp0RVl5eHI5SndoNkEwd0pQcDdBMnZnT3FadkdVaXZFS3lJLWgtejNkOHVnTFJYZ096WW9Cc2lzMG9PU3F4YzNoQmpKTDEtNGF1V1M3QkkyYkRNOVZOM0N3R0pxT0wya3hST2h6OFNDQS1KTGw0TkJmOUFBNEhfS2R3U0Q3c0FXRjhQLWNMTlVrUWlDdTIzaXNJT3FTRkVWbHFhMTRxeVpTbExsd2gwTDNkMWNtRXpiN1VqRFZCVW1DZTFnRmhXc3ZULVVTWUxzMk02MUlOT3djNXJVdUZyRkJfUlZqbkJaRlHSAYICQVVfeXFMTXlrYk5FS3FRRTZ0TDBCc0NXYWJmYi01Z3RXd2lvY1NTR3pheTd1MHk1MGpNUlpPWkZ6WnRENFY5S2hSX240NlVsNWdUR1ktWTBWRFJQekZRazMxeU5lT2tocXNReUktV3NYSHVENlV5dEUzV2N5NVRKbWlpWjhMMXlmNlZKOFJrT1AyZmh3b1BtanZOTkpqQXkwSlNvQmZhMUdSZU5SXzY2N040REFhaE1HTVFrNUVpT2RwLTAwaU5KTTFSYmd5dXFRTG13X2pVOVhiUG9ZSG41TFRLT3E0NmtfOHplNTZVS29jUy1INms0U3RnWjJqcnRlblRjNlZUSEln?oc=5)
+### [Breast cancer treatment: When less is more](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZBdjJCRS1NX1pBZ3VLMG9vV0thTUxUc1lKZE1RM0w3Y0wwUjRTWlU5ZHJxTVh0SEpYWmJteDNqOUZvWkQwYWU3cXg2OG5scUpOUWh0dGdzeWJFODdUQWZSTkVEbTlGdjN0X0gtQ3FaRU1fMm11WDVmbmE3V2o?oc=5)
 
 2026-10-26
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN3kyMGJoYkh5ckVkOE01UVFuelp0RVl5eHI5SndoNkEwd0pQcDdBMnZnT3FadkdVaXZFS3lJLWgtejNkOHVnTFJYZ096WW9Cc2lzMG9PU3F4YzNoQmpKTDEtNGF1V1M3QkkyYkRNOVZOM0N3R0pxT0wya3hST2h6OFNDQS1KTGw0TkJmOUFBNEhfS2R3U0Q3c0FXRjhQLWNMTlVrUWlDdTIzaXNJT3FTRkVWbHFhMTRxeVpTbExsd2gwTDNkMWNtRXpiN1VqRFZCVW1DZTFnRmhXc3ZULVVTWUxzMk02MUlOT3djNXJVdUZyRkJfUlZqbkJaRlHSAYICQVVfeXFMTXlrYk5FS3FRRTZ0TDBCc0NXYWJmYi01Z3RXd2lvY1NTR3pheTd1MHk1MGpNUlpPWkZ6WnRENFY5S2hSX240NlVsNWdUR1ktWTBWRFJQekZRazMxeU5lT2tocXNReUktV3NYSHVENlV5dEUzV2N5NVRKbWlpWjhMMXlmNlZKOFJrT1AyZmh3b1BtanZOTkpqQXkwSlNvQmZhMUdSZU5SXzY2N040REFhaE1HTVFrNUVpT2RwLTAwaU5KTTFSYmd5dXFRTG13X2pVOVhiUG9ZSG41TFRLT3E0NmtfOHplNTZVS29jUy1INms0U3RnWjJqcnRlblRjNlZUSEln?oc=5)
+Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZBdjJCRS1NX1pBZ3VLMG9vV0thTUxUc1lKZE1RM0w3Y0wwUjRTWlU5ZHJxTVh0SEpYWmJteDNqOUZvWkQwYWU3cXg2OG5scUpOUWh0dGdzeWJFODdUQWZSTkVEbTlGdjN0X0gtQ3FaRU1fMm11WDVmbmE3V2o?oc=5)
+
+---
+
+### [Black patients can face longer breast cancer care delays, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+
+2026-10-26
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+
+---
+
+### [Breast Cancer Awareness Month Highlights Early Detection and Access to Care - Voice of Healthcare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVJ6SjNmMzVNYUNMOHVJS3daWDFaV1JOR0xqbHNsZEJETkJWVlRpNTB2ZmJlNjJLa3ZJMmtqbDBYNU1Cc0F1M3lIcTdWc3JvMUppb1ZTLU4yMmJJTkxMcEVkN3JSem15cjl2aW5QalJlaEZVa1ZLUVhHc0EzYk9MeGNtVERNMHhvMkRHdlYyaTdfR2FHY3ozZVlhTUJROU1uQWRBQ0tCRWU3RmdKSTdN?oc=5)
+
+2026-10-26
+
+Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVJ6SjNmMzVNYUNMOHVJS3daWDFaV1JOR0xqbHNsZEJETkJWVlRpNTB2ZmJlNjJLa3ZJMmtqbDBYNU1Cc0F1M3lIcTdWc3JvMUppb1ZTLU4yMmJJTkxMcEVkN3JSem15cjl2aW5QalJlaEZVa1ZLUVhHc0EzYk9MeGNtVERNMHhvMkRHdlYyaTdfR2FHY3ozZVlhTUJROU1uQWRBQ0tCRWU3RmdKSTdN?oc=5)
 
 ---
 

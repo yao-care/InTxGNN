@@ -14,7 +14,7 @@ permalink: /news/cabazitaxel/
 ---
 
 <p class="key-answer" data-question="What news is there about Cabazitaxel?">
-<strong>Cabazitaxel</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Cabazitaxel</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,45 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (14)
 
-### [Black patients and people with learning disability face longer breast cancer care delays](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
+### [Silent bacterial genes yield potential leads for future cancer drugs](https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSjBoWnpCZGxUVHNoQURXd0NkNHh4bzZWOXZHa2c2Q1VOeGNTM01Od0hXemV4RjExS0ppWk9reUw1UDdrckpjaFB3bldyZ2VMR2w0XzNjN0R2am9uWHFNQVRyejVlZjdxZFV0NWRWd2s3Q0UySU5TTzhYQVVIUQ?oc=5)
 
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-26 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSjBoWnpCZGxUVHNoQURXd0NkNHh4bzZWOXZHa2c2Q1VOeGNTM01Od0hXemV4RjExS0ppWk9reUw1UDdrckpjaFB3bldyZ2VMR2w0XzNjN0R2am9uWHFNQVRyejVlZjdxZFV0NWRWd2s3Q0UySU5TTzhYQVVIUQ?oc=5)
 
 ---
 
-### [Oncologist explains 6 breast changes you should never ignore, from uneven appearance to skin changes | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN3kyMGJoYkh5ckVkOE01UVFuelp0RVl5eHI5SndoNkEwd0pQcDdBMnZnT3FadkdVaXZFS3lJLWgtejNkOHVnTFJYZ096WW9Cc2lzMG9PU3F4YzNoQmpKTDEtNGF1V1M3QkkyYkRNOVZOM0N3R0pxT0wya3hST2h6OFNDQS1KTGw0TkJmOUFBNEhfS2R3U0Q3c0FXRjhQLWNMTlVrUWlDdTIzaXNJT3FTRkVWbHFhMTRxeVpTbExsd2gwTDNkMWNtRXpiN1VqRFZCVW1DZTFnRmhXc3ZULVVTWUxzMk02MUlOT3djNXJVdUZyRkJfUlZqbkJaRlHSAYICQVVfeXFMTXlrYk5FS3FRRTZ0TDBCc0NXYWJmYi01Z3RXd2lvY1NTR3pheTd1MHk1MGpNUlpPWkZ6WnRENFY5S2hSX240NlVsNWdUR1ktWTBWRFJQekZRazMxeU5lT2tocXNReUktV3NYSHVENlV5dEUzV2N5NVRKbWlpWjhMMXlmNlZKOFJrT1AyZmh3b1BtanZOTkpqQXkwSlNvQmZhMUdSZU5SXzY2N040REFhaE1HTVFrNUVpT2RwLTAwaU5KTTFSYmd5dXFRTG13X2pVOVhiUG9ZSG41TFRLT3E0NmtfOHplNTZVS29jUy1INms0U3RnWjJqcnRlblRjNlZUSEln?oc=5)
+### [UCL scientists design symbolic AI digital twins to treat cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
+
+---
+
+### [Friends play a direct role in encouraging regular cancer screening](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTBPS0RNQkpiemdqeW4xNl91MUdHa2E4TTl5TlhTZDdhclZsQWpiVHphNjJBam1qdHptZDJocUU5X1htWmI3M1FtT3lQYzhzbXlOdHhDd0NQdHY5c2VOOWs4ZG82RXB2WTI0WE5Gd2JQcWwyTlVNYkxyZlFRN2VUckVNNVR5VExreWZpTlQ0WGtXcGpNd2piekppQ0thUHJQSWdlMFZ1aTZabENreUFnNnRiOXM?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTBPS0RNQkpiemdqeW4xNl91MUdHa2E4TTl5TlhTZDdhclZsQWpiVHphNjJBam1qdHptZDJocUU5X1htWmI3M1FtT3lQYzhzbXlOdHhDd0NQdHY5c2VOOWs4ZG82RXB2WTI0WE5Gd2JQcWwyTlVNYkxyZlFRN2VUckVNNVR5VExreWZpTlQ0WGtXcGpNd2piekppQ0thUHJQSWdlMFZ1aTZabENreUFnNnRiOXM?oc=5)
+
+---
+
+### [Breast cancer treatment: When less is more](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZBdjJCRS1NX1pBZ3VLMG9vV0thTUxUc1lKZE1RM0w3Y0wwUjRTWlU5ZHJxTVh0SEpYWmJteDNqOUZvWkQwYWU3cXg2OG5scUpOUWh0dGdzeWJFODdUQWZSTkVEbTlGdjN0X0gtQ3FaRU1fMm11WDVmbmE3V2o?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN3kyMGJoYkh5ckVkOE01UVFuelp0RVl5eHI5SndoNkEwd0pQcDdBMnZnT3FadkdVaXZFS3lJLWgtejNkOHVnTFJYZ096WW9Cc2lzMG9PU3F4YzNoQmpKTDEtNGF1V1M3QkkyYkRNOVZOM0N3R0pxT0wya3hST2h6OFNDQS1KTGw0TkJmOUFBNEhfS2R3U0Q3c0FXRjhQLWNMTlVrUWlDdTIzaXNJT3FTRkVWbHFhMTRxeVpTbExsd2gwTDNkMWNtRXpiN1VqRFZCVW1DZTFnRmhXc3ZULVVTWUxzMk02MUlOT3djNXJVdUZyRkJfUlZqbkJaRlHSAYICQVVfeXFMTXlrYk5FS3FRRTZ0TDBCc0NXYWJmYi01Z3RXd2lvY1NTR3pheTd1MHk1MGpNUlpPWkZ6WnRENFY5S2hSX240NlVsNWdUR1ktWTBWRFJQekZRazMxeU5lT2tocXNReUktV3NYSHVENlV5dEUzV2N5NVRKbWlpWjhMMXlmNlZKOFJrT1AyZmh3b1BtanZOTkpqQXkwSlNvQmZhMUdSZU5SXzY2N040REFhaE1HTVFrNUVpT2RwLTAwaU5KTTFSYmd5dXFRTG13X2pVOVhiUG9ZSG41TFRLT3E0NmtfOHplNTZVS29jUy1INms0U3RnWjJqcnRlblRjNlZUSEln?oc=5)
+Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZBdjJCRS1NX1pBZ3VLMG9vV0thTUxUc1lKZE1RM0w3Y0wwUjRTWlU5ZHJxTVh0SEpYWmJteDNqOUZvWkQwYWU3cXg2OG5scUpOUWh0dGdzeWJFODdUQWZSTkVEbTlGdjN0X0gtQ3FaRU1fMm11WDVmbmE3V2o?oc=5)
+
+---
+
+### [Black patients can face longer breast cancer care delays, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
 
 ---
 
@@ -59,11 +83,27 @@ Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMiywFBVV95cUx
 
 ---
 
+### [Breast Cancer Awareness Month Highlights Early Detection and Access to Care - Voice of Healthcare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVJ6SjNmMzVNYUNMOHVJS3daWDFaV1JOR0xqbHNsZEJETkJWVlRpNTB2ZmJlNjJLa3ZJMmtqbDBYNU1Cc0F1M3lIcTdWc3JvMUppb1ZTLU4yMmJJTkxMcEVkN3JSem15cjl2aW5QalJlaEZVa1ZLUVhHc0EzYk9MeGNtVERNMHhvMkRHdlYyaTdfR2FHY3ozZVlhTUJROU1uQWRBQ0tCRWU3RmdKSTdN?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVJ6SjNmMzVNYUNMOHVJS3daWDFaV1JOR0xqbHNsZEJETkJWVlRpNTB2ZmJlNjJLa3ZJMmtqbDBYNU1Cc0F1M3lIcTdWc3JvMUppb1ZTLU4yMmJJTkxMcEVkN3JSem15cjl2aW5QalJlaEZVa1ZLUVhHc0EzYk9MeGNtVERNMHhvMkRHdlYyaTdfR2FHY3ozZVlhTUJROU1uQWRBQ0tCRWU3RmdKSTdN?oc=5)
+
+---
+
 ### [AI model uses face photos to estimate biological age, predict survival risk in cancer patients - The Times of India](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOWRmSVpxVzd0Z0JmUnZkaEhwbUlERTJJclJXeE9PMzNyNHlvZTEwbDlvaWc1ZV82Y2R6d2trbE1TUW5GX1hMR0EyM05jU3VPdk5NREJnaWVrTFRHRTJTMmhJVVlJNkdOaWNTYUhkZ0RGcTRJTzZ3a19XXzh6YVFqNmRwUkkwblRuc1dTdkJ1T2JVUVVMcFFET1RLYm1KeU55WVZjMjE3dElxM1p1eVg0RUlmMVlUY1FHVnZKeVJkN2RaMFNUOUJrTTZHN2ZlZDdxWDV2V3pxMXpGZnZBWV9EYXFWUmVZV2YxdUhJMVZwZGJXLVk?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOWRmSVpxVzd0Z0JmUnZkaEhwbUlERTJJclJXeE9PMzNyNHlvZTEwbDlvaWc1ZV82Y2R6d2trbE1TUW5GX1hMR0EyM05jU3VPdk5NREJnaWVrTFRHRTJTMmhJVVlJNkdOaWNTYUhkZ0RGcTRJTzZ3a19XXzh6YVFqNmRwUkkwblRuc1dTdkJ1T2JVUVVMcFFET1RLYm1KeU55WVZjMjE3dElxM1p1eVg0RUlmMVlUY1FHVnZKeVJkN2RaMFNUOUJrTTZHN2ZlZDdxWDV2V3pxMXpGZnZBWV9EYXFWUmVZV2YxdUhJMVZwZGJXLVk?oc=5)
+
+---
+
+### [What is optogenetics? The Nobel-winning science explained - Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
+
+2026-10-26 <span class="news-indication-tag">RA</span>
+
+Source: [Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
 
 ---
 
@@ -83,35 +123,19 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1
 
 ---
 
-### [Scientists discover how pancreatic cancer rewrites its DNA to escape treatment - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
+### [NYU Langone finds DNA rewiring helps pancreatic cancer resist treatments](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGlyUTVZTmJKYmVWMmNZUnZJcFpTTGxDdG40UXAzTEVFRGNjSnVyU21SVXJKaVJldzhITDNWS2NWcjh5aUtYSjF0eENkSXBPZ20zNm05TGNRSjh0QlhIV3dXRUR1Y05ESGxOM1NKaF9wRWpxdkNXdm9ld1N3MERRaDBtX3RkbEJBazBOOS1JSGI5VXJyOVVhWEtOdGlYVVhJczB2NDlyUmpTZjg2X0tRYUE0TEpLckFOV3Nv?oc=5)
 
 2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGlyUTVZTmJKYmVWMmNZUnZJcFpTTGxDdG40UXAzTEVFRGNjSnVyU21SVXJKaVJldzhITDNWS2NWcjh5aUtYSjF0eENkSXBPZ20zNm05TGNRSjh0QlhIV3dXRUR1Y05ESGxOM1NKaF9wRWpxdkNXdm9ld1N3MERRaDBtX3RkbEJBazBOOS1JSGI5VXJyOVVhWEtOdGlYVVhJczB2NDlyUmpTZjg2X0tRYUE0TEpLckFOV3Nv?oc=5)
 
 ---
 
-### [Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more - The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
+### [Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses - News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span>
+2026-10-23 <span class="news-indication-tag">RA</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
-
----
-
-### [In situ immunotherapy shows encouraging survival findings in prostate cancer - Urology Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHJLcmFFZFUzb3FJaUJlNm4xaG5YYkVsdV9pVVJlUVdxdXdEblVsbmFrN0Z5cjdGeW9NZ0gyLWFPVGYwbHNXYVlmZ0t1c3VyOFdwUXg4MmFVZlVtYTZSMlJVZ2ktMTJZaFRhTnlTTy1xdkw5R0QwWEN3ZUF0MXJfX1pWRFVEV0pGTklvT1RMLVBfUnlteEFVV2JkTjFrY3M1Y1lKcnlVZFZsb3BxaGxV?oc=5)
-
-2026-10-24 <span class="news-indication-tag">cancer</span>
-
-Source: [Urology Times](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHJLcmFFZFUzb3FJaUJlNm4xaG5YYkVsdV9pVVJlUVdxdXdEblVsbmFrN0Z5cjdGeW9NZ0gyLWFPVGYwbHNXYVlmZ0t1c3VyOFdwUXg4MmFVZlVtYTZSMlJVZ2ktMTJZaFRhTnlTTy1xdkw5R0QwWEN3ZUF0MXJfX1pWRFVEV0pGTklvT1RMLVBfUnlteEFVV2JkTjFrY3M1Y1lKcnlVZFZsb3BxaGxV?oc=5)
-
----
-
-### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
-
-2026-10-22 <span class="news-indication-tag">RA</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
+Source: [News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
 
 ---
 

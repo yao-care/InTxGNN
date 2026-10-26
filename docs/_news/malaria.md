@@ -3,7 +3,7 @@ layout: default
 title: "malaria News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria. 2 articles, 2 related drugs."
+description: "Health news about malaria. 1 articles, 2 related drugs."
 permalink: /news/malaria/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/malaria/
 ---
 
 <p class="key-answer" data-question="What news is there about malaria?">
-<strong>malaria</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
+<strong>malaria</strong> currently has <strong>1 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Malaria vaccine price cut to protect 1 million more children - India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHJ4dms4U2w4R1pKUUJHbThJVUptb0R3ZXp1V09nb1hTbHpBem85YTdyakNfb29RWlpjbVJnR3RoVExuNnV5UlBFT0FhWDlsSHUzd2JaTUF0SzljQWVyS1VOVjFBM2lHUmM5T1JrT3VSS3RfZzFBQnFjNllMRTlqWUlIMTktRXdNS2hzWnl6MnVXVEpaTzM0Rk5ZcTZ0WjBacklTdGg5VEwzd3VIMzlF0gG0AUFVX3lxTE9iUnR4Smc5SndEUW9VVU9LcWxfUjFUSXhnNm9EWS1oRVRZVVV3a2pOYWE2SFI0OWY3VTFJb3hRdGhkQXJXY3lsNG1GYUVoQmtJcUlLWWgwNDBQUmNXWGFaN3ZDb01yZVowbEF3cFFHdkdjWjJWenRpRmtZY1pDWkdhVm51UXRUUUlMeTB4NkdvSTJHSGdTLU94dzNYR19BenZSYkFKYWVuY0lyRUVmOFNGeWJOUQ?oc=5)
 
 2026-10-26
 
 Source: [India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHJ4dms4U2w4R1pKUUJHbThJVUptb0R3ZXp1V09nb1hTbHpBem85YTdyakNfb29RWlpjbVJnR3RoVExuNnV5UlBFT0FhWDlsSHUzd2JaTUF0SzljQWVyS1VOVjFBM2lHUmM5T1JrT3VSS3RfZzFBQnFjNllMRTlqWUlIMTktRXdNS2hzWnl6MnVXVEpaTzM0Rk5ZcTZ0WjBacklTdGg5VEwzd3VIMzlF0gG0AUFVX3lxTE9iUnR4Smc5SndEUW9VVU9LcWxfUjFUSXhnNm9EWS1oRVRZVVV3a2pOYWE2SFI0OWY3VTFJb3hRdGhkQXJXY3lsNG1GYUVoQmtJcUlLWWgwNDBQUmNXWGFaN3ZDb01yZVowbEF3cFFHdkdjWjJWenRpRmtZY1pDWkdhVm51UXRUUUlMeTB4NkdvSTJHSGdTLU94dzNYR19BenZSYkFKYWVuY0lyRUVmOFNGeWJOUQ?oc=5)
-
----
-
-### [Doctors flag malaria, dengue risk amid construction activity](https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRTRGNpRmwyNjB4X1dsYWZ0Ym03YTh1a3BQOW5wdlRrMlQwN0RlUnhISl92anZzcm9VSkhhcEpsX20taU56b2RfejVaWW5MMHpDZUVMc1F2MHphRFdMOWhTVlo2MkEzYjlnM1NqbmxNcGZnU1NMeGk5ZDdqM0JSbjhKa2J1OUp5SUFaVXJhVEdhOUtlRk14eU5R?oc=5)
-
-2026-10-24
-
-Source: [Newsband](https://news.google.com/rss/articles/CBMimgFBVV95cUxORFRTRGNpRmwyNjB4X1dsYWZ0Ym03YTh1a3BQOW5wdlRrMlQwN0RlUnhISl92anZzcm9VSkhhcEpsX20taU56b2RfejVaWW5MMHpDZUVMc1F2MHphRFdMOWhTVlo2MkEzYjlnM1NqbmxNcGZnU1NMeGk5ZDdqM0JSbjhKa2J1OUp5SUFaVXJhVEdhOUtlRk14eU5R?oc=5)
 
 ---
 
