@@ -66,11 +66,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWxo
 
 ---
 
-### [Face and tongue photographs could help flag heart disease, study suggests - The Shillong Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEduMWtWRExFLTVabWlEUkhTMl9YX0tPbzEzNWh5bjZTTkV5aVJQZEZzbEJHVVRPblRZY2VBRWxYNXVjd1pPMWtjaF9sSTZmN3hzd0JGZHZCS0paby05WG91VEY1MGRacUNnN3hnU3Z2N2xIRkhKbFlwOTYyNWMzb2RLN2JzMFlTYmtiWmFBWFNobkNRN2JLeFF3bS13RDZyelNPWmVZYldQUzJLeHVONW81aw?oc=5)
+### [AI reads face and tongue images to flag coronary heart disease with 98% accuracy - The Sen Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1V5V29wbHhpN3FqXzdadjVMUUhUdHllTGdMUm1zbWJLZ2o5cVo1aTZNaFZDYmtJMGx2Y3lWd1FOaHNSWG0xbVdMeEpGTjBLWGhweUMyTVQ3RElwNnlGNks5MkdCQVhJYndFQ091R2lFQVZZX1ZZMlRoWVJoenhwYnAzd1FzVURrZmM0by05M0ZEOGpMWlI3WUpGU2FPUnVyYndodXI1OA?oc=5)
 
 2026-10-19 <span class="news-indication-tag">heart disease</span>
 
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEduMWtWRExFLTVabWlEUkhTMl9YX0tPbzEzNWh5bjZTTkV5aVJQZEZzbEJHVVRPblRZY2VBRWxYNXVjd1pPMWtjaF9sSTZmN3hzd0JGZHZCS0paby05WG91VEY1MGRacUNnN3hnU3Z2N2xIRkhKbFlwOTYyNWMzb2RLN2JzMFlTYmtiWmFBWFNobkNRN2JLeFF3bS13RDZyelNPWmVZYldQUzJLeHVONW81aw?oc=5)
+Source: [The Sen Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1V5V29wbHhpN3FqXzdadjVMUUhUdHllTGdMUm1zbWJLZ2o5cVo1aTZNaFZDYmtJMGx2Y3lWd1FOaHNSWG0xbVdMeEpGTjBLWGhweUMyTVQ3RElwNnlGNks5MkdCQVhJYndFQ091R2lFQVZZX1ZZMlRoWVJoenhwYnAzd1FzVURrZmM0by05M0ZEOGpMWlI3WUpGU2FPUnVyYndodXI1OA?oc=5)
 
 ---
 

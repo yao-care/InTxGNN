@@ -14,7 +14,7 @@ permalink: /news/eplerenone/
 ---
 
 <p class="key-answer" data-question="What news is there about Eplerenone?">
-<strong>Eplerenone</strong> currently has <strong>9 news articles</strong>, with 5 predicted indications.
+<strong>Eplerenone</strong> currently has <strong>8 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Eplerenone with the latest h
 <p><a href="{{ '/drugs/eplerenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (8)
+
+### [Mass General Brigham develops AI predicting cancer survival from photos](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3VhbFZ5NmVsejJRRUl1UVZEOVBsNVJIR2FCRllsc1FRYUhQZ2VlUTVSYnQtc3c1R21MWVU0cUtrUTM4aXNWcVF1bXdyTkVRenV1anFXVUJaUUprVV9wWGVrZl92ZWd1WGxMeDhYRHNjc2JXYVRMdDNveXVIbU5naTJESkZUM1hqbG9UaEItS3JEZndaUUFadldqQ19WVGNuWkN2UnVjcWpVdUVaSUpyNGMwQkx6Y0s4YlE?oc=5)
+
+2026-10-25 <span class="news-indication-tag">cancer</span>
+
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3VhbFZ5NmVsejJRRUl1UVZEOVBsNVJIR2FCRllsc1FRYUhQZ2VlUTVSYnQtc3c1R21MWVU0cUtrUTM4aXNWcVF1bXdyTkVRenV1anFXVUJaUUprVV9wWGVrZl92ZWd1WGxMeDhYRHNjc2JXYVRMdDNveXVIbU5naTJESkZUM1hqbG9UaEItS3JEZndaUUFadldqQ19WVGNuWkN2UnVjcWpVdUVaSUpyNGMwQkx6Y0s4YlE?oc=5)
+
+---
 
 ### [SARON: Consolidation Radiotherapy Improves PFS but Not Overall Survival in Oligometastatic NSCLC](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1FOVdqRjFJZW5raDEwelhTZ1Vob2NTdVF0akJNVmZLdDlTN2hseUNpeFBkdThrbkF1ZmVUWkxNOWV3REs1TjdiTklLb3U1V0xUUjdjM0ZYb3BuQkd6QQ?oc=5)
 
@@ -54,27 +62,11 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg
 
 ---
 
-### [Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more - The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
-
-2026-10-25 <span class="news-indication-tag">cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
-
----
-
 ### [One in eight cancers are likely caused by an infection worldwide: Study - The Shillong Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHlBOHFuM2hjZGJpSU8tNjJrd2tvc2xJZ1FfWldWMGxMVnFfdWFKZ3BFU1BzVDFKU2VreGU1bTV0WlhuSjhzT3I5MURCS0lBSlhvaVJoWm9zQ2xETXdidEtEbjZqdVpzdHhJNzJnaldiM0JNRk13MVlScTZjRHNzVU5lWnRQMjNEaHEtQnY2WmZKUm5pWEZHYThtVGptanhpSTBGR2lOa3NKa3pPczNCMg?oc=5)
 
 2026-10-25 <span class="news-indication-tag">cancer</span>
 
 Source: [The Shillong Times](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHlBOHFuM2hjZGJpSU8tNjJrd2tvc2xJZ1FfWldWMGxMVnFfdWFKZ3BFU1BzVDFKU2VreGU1bTV0WlhuSjhzT3I5MURCS0lBSlhvaVJoWm9zQ2xETXdidEtEbjZqdVpzdHhJNzJnaldiM0JNRk13MVlScTZjRHNzVU5lWnRQMjNEaHEtQnY2WmZKUm5pWEZHYThtVGptanhpSTBGR2lOa3NKa3pPczNCMg?oc=5)
-
----
-
-### [An AI that reads your face can now estimate how long you have to live](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHZQRTBXRFdweENRWVFNMnJ5WVJHdHZ5ZEpXbWxHbVdUZTRSYlpJU2Q3RDVJUGdjbGpnWHNtcWNsMzM1MUFGWVRiR1drT0k2Yk1valMzLWluUG55SGYxMkJBRTRmb3NJc3o2TTlpeXlHNzFiRVRXOEhjdnVaRDdYZjFkUzAzNTlNZUoxVXhzR2VaNDF4LUxaXzdtX2szcFhxLWx4MUNGaXc2d0hIRHppcEpFTdIBuAFBVV95cUxQMzg2c0ZDY2gxX0c2dmVCYU83ZVJFUC03WVdRYjJKRWgzQS0xX0hZUEcteDhVNzJxZDJBX2RxaTRFTzRlbUZZVTlsZjJRSlV5RG9ha05pRE5mY2Q3LXNTNmg0QzRYQ0dyNmZNY052MTJ2aXFnVi05OTB3QzhCNkNIOVQ3UFBWY2lDY1JnZzlQYzd4aGl5QTJUUlBVNUoyRmV5bzZEN0h4NE0xSGh4aW5Ebl82Tm1iNTdO?oc=5)
-
-2026-10-24 <span class="news-indication-tag">cancer</span>
-
-Source: [WION](https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHZQRTBXRFdweENRWVFNMnJ5WVJHdHZ5ZEpXbWxHbVdUZTRSYlpJU2Q3RDVJUGdjbGpnWHNtcWNsMzM1MUFGWVRiR1drT0k2Yk1valMzLWluUG55SGYxMkJBRTRmb3NJc3o2TTlpeXlHNzFiRVRXOEhjdnVaRDdYZjFkUzAzNTlNZUoxVXhzR2VaNDF4LUxaXzdtX2szcFhxLWx4MUNGaXc2d0hIRHppcEpFTdIBuAFBVV95cUxQMzg2c0ZDY2gxX0c2dmVCYU83ZVJFUC03WVdRYjJKRWgzQS0xX0hZUEcteDhVNzJxZDJBX2RxaTRFTzRlbUZZVTlsZjJRSlV5RG9ha05pRE5mY2Q3LXNTNmg0QzRYQ0dyNmZNY052MTJ2aXFnVi05OTB3QzhCNkNIOVQ3UFBWY2lDY1JnZzlQYzd4aGl5QTJUUlBVNUoyRmV5bzZEN0h4NE0xSGh4aW5Ebl82Tm1iNTdO?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEE5
 
 ---
 
-### [Breast Cancer Month: Seven Years Beyond Diagnosis - ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6REF4U01KVHAzTkYzMmtQMjNyd09pN3ZaazlxeS1KMzJ3UGlfel9xOU9nLTNpREFLTUZhOG9aLWJTd0JyLVBPOXhxczg0QnJSSE5JZHR3UnpieFVVMlRFMTh1OVhCUjAyMG1DWXYyUEhBVkpvSGNhSWV6UHRmVzJlbEJ2ajY5eXg1azhpZWxGRmc0czB0T0FTWmlmN1E?oc=5)
+### [Massive study of 460,000 people challenges ultra-processed food cancer fears - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
-2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-21 <span class="news-indication-tag">cancer</span>
 
-Source: [ANI News](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0taNTJ6REF4U01KVHAzTkYzMmtQMjNyd09pN3ZaazlxeS1KMzJ3UGlfel9xOU9nLTNpREFLTUZhOG9aLWJTd0JyLVBPOXhxczg0QnJSSE5JZHR3UnpieFVVMlRFMTh1OVhCUjAyMG1DWXYyUEhBVkpvSGNhSWV6UHRmVzJlbEJ2ajY5eXg1azhpZWxGRmc0czB0T0FTWmlmN1E?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5)
 
 ---
 

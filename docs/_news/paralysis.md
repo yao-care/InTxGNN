@@ -3,7 +3,7 @@ layout: default
 title: "stroke (paralysis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (paralysis). 2 articles, 15 related drugs."
+description: "Health news about stroke (paralysis). 1 articles, 15 related drugs."
 permalink: /news/paralysis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paralysis/
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (paralysis)?">
-<strong>stroke (paralysis)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke (paralysis)</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [World Stroke Day 2026: How to recognise a stroke and what to do immediately - The Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2FSSE9qN3B5RWo3a1R2aFRXUUtLQ3FTN3g0R1Q0ZktBd3k2NFE1eW5mQ0lPVDhGV01fUFF3UkxnSy15NjVFcUZUSFU2Si1vbmFKQldPalBNTWJDRHFjXzljSi1yWmVnZU8zUW03bkJIM1FlOGNDemVxdmJzQXNySVNGbTVPUVdfTEU3ZUlRNTNPOU1BV2xzN0lNRWN0OFFCTW5wSk9MRXhKWnkzVm5yQm5saTNyeVJ1aS1va3RTU0RfWEnSAcgBQVVfeXFMTWZUZUpUeEtRWS1vWVh0QzRfUUgwSWViUU9XOUZmWF9nYTJVR1U3VGNEM0sxNTVtUFB1RTZYTUJvUXBqZXVXZVZMTkQ0OENNdnNOdEVQa0RDM0FPYjdWb29PaVBiOFhidHBQTmFwQlF3azctSmFNV2piTUc1c3YwQ1JVOC1VYXZoaW44aTdfNDJoSlJ1cXVmWk15d2dGU0IxQ0JhSlAzYTNrMElzdGdXZVVCdTlMNUZNVmRDWUdVVl93UTBOUVhzZ08?oc=5)
 
 2026-10-25
 
 Source: [The Week](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2FSSE9qN3B5RWo3a1R2aFRXUUtLQ3FTN3g0R1Q0ZktBd3k2NFE1eW5mQ0lPVDhGV01fUFF3UkxnSy15NjVFcUZUSFU2Si1vbmFKQldPalBNTWJDRHFjXzljSi1yWmVnZU8zUW03bkJIM1FlOGNDemVxdmJzQXNySVNGbTVPUVdfTEU3ZUlRNTNPOU1BV2xzN0lNRWN0OFFCTW5wSk9MRXhKWnkzVm5yQm5saTNyeVJ1aS1va3RTU0RfWEnSAcgBQVVfeXFMTWZUZUpUeEtRWS1vWVh0QzRfUUgwSWViUU9XOUZmWF9nYTJVR1U3VGNEM0sxNTVtUFB1RTZYTUJvUXBqZXVXZVZMTkQ0OENNdnNOdEVQa0RDM0FPYjdWb29PaVBiOFhidHBQTmFwQlF3azctSmFNV2piTUc1c3YwQ1JVOC1VYXZoaW44aTdfNDJoSlJ1cXVmWk15d2dGU0IxQ0JhSlAzYTNrMElzdGdXZVVCdTlMNUZNVmRDWUdVVl93UTBOUVhzZ08?oc=5)
-
----
-
-### [Clarithromycin-Associated Carbamazepine Toxicity Presenting as a Posterior Circulation Stroke Mimic](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW1NXy15VWwwM0xYMXIxd184Z1pGbU9GOG1OYUhWc2JGX2JXUGVVQXgzYzNhMEJuYklfNVFwNlBCSTU4cGo3cVBES3pKYkdDa1pVSXVkNlZ3dThGdnkxbWY4bnRTRUIxb180VWZJaDZjaDkyMkFWbWI5QzVPSHNKOG1oSnVEdkxZYmpYMjJsSVY5cGdwMkVsaEtQZ3Y1bUw1UTh3UjV4OFRMcUNpV09OcTBZUWV1S01Xd0RCaTNIQ3ItNnh5MktsUjZ1QTlXaDdoTnhoNw?oc=5)
-
-2026-10-25
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW1NXy15VWwwM0xYMXIxd184Z1pGbU9GOG1OYUhWc2JGX2JXUGVVQXgzYzNhMEJuYklfNVFwNlBCSTU4cGo3cVBES3pKYkdDa1pVSXVkNlZ3dThGdnkxbWY4bnRTRUIxb180VWZJaDZjaDkyMkFWbWI5QzVPSHNKOG1oSnVEdkxZYmpYMjJsSVY5cGdwMkVsaEtQZ3Y1bUw1UTh3UjV4OFRMcUNpV09OcTBZUWV1S01Xd0RCaTNIQ3ItNnh5MktsUjZ1QTlXaDdoTnhoNw?oc=5)
 
 ---
 

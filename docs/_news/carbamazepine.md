@@ -14,7 +14,7 @@ permalink: /news/carbamazepine/
 ---
 
 <p class="key-answer" data-question="What news is there about Carbamazepine?">
-<strong>Carbamazepine</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Carbamazepine</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Carbamazepine with the lates
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Clarithromycin-Associated Carbamazepine Toxicity Presenting as a Posterior Circulation Stroke Mimic](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW1NXy15VWwwM0xYMXIxd184Z1pGbU9GOG1OYUhWc2JGX2JXUGVVQXgzYzNhMEJuYklfNVFwNlBCSTU4cGo3cVBES3pKYkdDa1pVSXVkNlZ3dThGdnkxbWY4bnRTRUIxb180VWZJaDZjaDkyMkFWbWI5QzVPSHNKOG1oSnVEdkxZYmpYMjJsSVY5cGdwMkVsaEtQZ3Y1bUw1UTh3UjV4OFRMcUNpV09OcTBZUWV1S01Xd0RCaTNIQ3ItNnh5MktsUjZ1QTlXaDdoTnhoNw?oc=5)
-
-2026-10-25 <span class="news-drug-tag">Carbamazepine</span> <span class="news-drug-tag">Clarithromycin</span> <span class="news-drug-tag">CARBAMAZEPINE</span> <span class="news-drug-tag">CLARITHROMYCIN</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW1NXy15VWwwM0xYMXIxd184Z1pGbU9GOG1OYUhWc2JGX2JXUGVVQXgzYzNhMEJuYklfNVFwNlBCSTU4cGo3cVBES3pKYkdDa1pVSXVkNlZ3dThGdnkxbWY4bnRTRUIxb180VWZJaDZjaDkyMkFWbWI5QzVPSHNKOG1oSnVEdkxZYmpYMjJsSVY5cGdwMkVsaEtQZ3Y1bUw1UTh3UjV4OFRMcUNpV09OcTBZUWV1S01Xd0RCaTNIQ3ItNnh5MktsUjZ1QTlXaDdoTnhoNw?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

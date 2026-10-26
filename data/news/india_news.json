@@ -1,19 +1,79 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-10-25T20:02:15.762976+00:00",
+  "fetched_at": "2026-10-26T01:54:05.664836+00:00",
   "total_fetched": 140,
   "unique_count": 140,
   "health_related_count": 81,
   "news": [
     {
-      "id": "e317ea09ac5c",
-      "title": "Melioidosis in India: a potentially deadly infection that may be going undetected - The Hindu",
-      "published": "2026-10-25T19:31:37+00:00",
-      "summary": "Melioidosis in India: a potentially deadly infection that may be going undetected&nbsp;&nbsp;The Hindu",
+      "id": "61438fd30e26",
+      "title": "Can happy feelings trigger eating too? Researchers explored both sides of emotional eating - News-Medical",
+      "published": "2026-10-26T00:45:00+00:00",
+      "summary": "Can happy feelings trigger eating too? Researchers explored both sides of emotional eating&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2p6VVJ3QWlfa3IyZkkzT05QTF9ybGYwZDVDOHV0Njl3aDdNY0diNVJlVkFjVFZrQmk1bnB4VTE3MW5samlqSzNYVVRoelRtRzBXRHZXbUdnc0dBaXp2Tm5GRzVLd1BRMVVhYzQwc21kbHdiZHJvTFdVTmVoTlp0MVNGXzhfTUhWNDNMOFpmbGpyS1V6V3k4VE5qS25yajZhaUREZzZ6MWUyTUtfUllBd0duemh6bXduWUVwT08yODllT0RsQmh5ZTNZbFRpZTQwTlYxa25tdXHSAd8BQVVfeXFMTmtCMDgtRU00cDZUZ1IzNWlMS1RCdWJRdDlwZmVTR19mNHMyVm5FUFhNMGpzWWo0ZnhTVUlrWVJ5TjY4MktzdTdCdWEyRVlmNS1fSWdUVG1ndEZTSThZa19nQ25Ka19RM3VJRTZrQ2pVZ0tGaERYLWRiRkgxVzZseG5mQUN2bDVKZDNTTFR3MU9YRzR5UzE2ZWoxSFZ3cnlCc1RhdTN1aEdEdktyZldmNUtIQjZPRF9kbzhkWFpQUVNOYTQtcEh6Rk9iZzdianhzVU5RcnJPNHpRaDBqLWFGYw?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdF85MlZoTGZHdVYxd2RFYXBHLUN0X2pVOFlQWlRYNTJjWXBVX1JzQWJrbHlFZGRzaWNYMVNBb3BtX1Z4OTYwZ3R3amw5aEpJTVBUcmFUbUN4OVU5aHFGbXBDZGRmc2hXRHhGckJ0U2JPRVM0YnltQjRfSGhCUTVlcW94WDZCbi05T3EtRHpaT2FJTkR5R2MtMzV6dXR1VWlJak0zTmVJc1RsOVZRck1HYmJWT0Zxd3NvQU95bF9oNjk4OG1aSWQ5VFZndWJRYTI5MUw4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d558ddab33b3",
+      "title": "Sun’s Death Will Shred Outer Solar System Far Sooner Than Thought, Study Finds - Tech Times",
+      "published": "2026-10-26T00:31:27+00:00",
+      "summary": "Sun’s Death Will Shred Outer Solar System Far Sooner Than Thought, Study Finds&nbsp;&nbsp;Tech TimesIs our Sun dying? The solar system could be destroyed 100 times faster than previously thought, new study suggests&nbsp;&nbsp;The Times of India“The End of the World” will happen much sooner&nbsp;&nbsp;Universe Space Tech🌌 The Sun's death could eject the giant planets&nbsp;&nbsp;Techno-ScienceStudy finds solar system may destabilize within 3 billion years&nbsp;&nbsp;NewsBytes",
+      "sources": [
+        {
+          "name": "Tech Times",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV2lHTkFMZ0ZtUU90bmwxN3gyZ1cxZTRsak1XbmpwQmprMi1RMHVhQ2Y4UHduQ082c2tZWVVfanJ3ZW94MmVfY3B5QnBRTHpfOFpTdEpNOUdOMi04WENXRDBMOExlVGp1Y2NkRkFQbHc3RDVNWWw1QU90c3FyWEs0d3RFQXFKSzdxS0N2cjdQaVVJMTRhc2lBSVJROUpkdVZNSmstOVRXSllIM21tUkYtVFE2enRjTUJFendqcjk3aDNRa2dN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6da904bca5f9",
+      "title": "Mass General Brigham develops AI predicting cancer survival from photos - NewsBytes",
+      "published": "2026-10-25T22:46:09+00:00",
+      "summary": "Mass General Brigham develops AI predicting cancer survival from photos&nbsp;&nbsp;NewsBytesSingle photo predicts your chances of surviving cancer treatment&nbsp;&nbsp;New AtlasCan AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar&nbsp;&nbsp;The GuardianAI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment&nbsp;&nbsp;Medical XpressAI Tool Predicts Cancer Survival Chances With Single Face Photo&nbsp;&n",
+      "sources": [
+        {
+          "name": "NewsBytes",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa3VhbFZ5NmVsejJRRUl1UVZEOVBsNVJIR2FCRllsc1FRYUhQZ2VlUTVSYnQtc3c1R21MWVU0cUtrUTM4aXNWcVF1bXdyTkVRenV1anFXVUJaUUprVV9wWGVrZl92ZWd1WGxMeDhYRHNjc2JXYVRMdDNveXVIbU5naTJESkZUM1hqbG9UaEItS3JEZndaUUFadldqQ19WVGNuWkN2UnVjcWpVdUVaSUpyNGMwQkx6Y0s4YlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "054a36018da9",
+      "title": "Retired Brookhaven Collider Delivers a Final Surprise as Oxygen Collisions Show Jets Losing Energy in Tiny Drops of Early-Universe Matter - Nature World News",
+      "published": "2026-10-25T21:35:09+00:00",
+      "summary": "Retired Brookhaven Collider Delivers a Final Surprise as Oxygen Collisions Show Jets Losing Energy in Tiny Drops of Early-Universe Matter&nbsp;&nbsp;Nature World NewsOxygen collisions show evidence of jet quenching, a signature of early-universe matter&nbsp;&nbsp;Phys.orgParticle colliders recreate matter that existed microseconds after the Big Bang&nbsp;&nbsp;Interesting EngineeringQuark-Gluon Plasma Confirmed in Oxygen Collisions at RHIC’s Lowest Energy Yet&nbsp;&nbsp;Tech TimesTiny oxygen col",
+      "sources": [
+        {
+          "name": "Nature World News",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWG81b1R6VzhsVHRSWlJwU2hJMkNXenBjY0dHRWM3ZDdXd3dHZGlaZm9ucjNkazNDU2pYalRhYmtkOVphQVU5RUJ6WmQ1UDdNdHZjM01fYVFzekpqSU9SSVNjdG84T2JsQ1phdnNqOHVhVFBWd2hiZVZmZkFwMkltS2g3NGFsVXZHWXNRVG5VRm8tbS00ZVZfS1ZfWTA2WldHeTZsVUYwOUQ5RkRpZHFNUlFVd1o2MXAwVmFxcFUwaVhnZnhFallUUVUzNXhUMW5XN3U0ZVJIOUJqUVRwT2Q3S3J2dHpvTWt1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9b2b5a01cf8",
+      "title": "Apophis will pass just 31,900 kilometers from Earth in April 2029: is there a risk of collision? - MARCA",
+      "published": "2026-10-25T21:18:48+00:00",
+      "summary": "Apophis will pass just 31,900 kilometers from Earth in April 2029: is there a risk of collision?&nbsp;&nbsp;MARCA",
+      "sources": [
+        {
+          "name": "MARCA",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTTNuMGtkZ1Rzdzk2UExyUUtOV3lrX2FsazVZRDN5RHRyUkQ5V2g5SmV6UDMzLWlsYWxrOGE3TWFVVzNUTDdMUlVmR1NVUzRxZENhT0NMeER0RGlxZFhEVkVHMGxITXQtYVlNaU9aVGpVbkcwd2YzdGQtS0paSk1hd0NRRnB3c3Rqdnl6TTRWclV5T2hyNU9seXhhcEM1QWM3b05oa29wZ1I4eG13bk5ENm9vamRpU1dYTDFubXZVM19rcmxYQUpkb19JYmtGQkxJOWJqS2U3dVVwTWhmMzlYLWhIcjhmR2tOX2fSAeoBQVVfeXFMTTZKYkRvYk1RdG9ySHpaRTRnM2h6azRESk5jejhQMloyQ3NXSUJHaFRMdXF3U0hRZGlnUHdJVnZQbjFPSDhENjV0UWtoa2FkZUJWcEdYc0RjRmQ1WGdKOWIwbWVJMFpFVGVRTC1UcEhUUkdtUE5ndlV3d0h4ZXNNOWRQR21id19seTM5RV9iMzNybjJkSXJsUTdFMGJucTJKQ0dzOTU3ZFFXZEF0UjgzUDBkYjJKOVhQS0I0MXpOaENEdkVnb2R0bEhtYW1FVWViQVFLNnp4NmlFcl9RRmlVLTc5TWpBOURhWE9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "608a66058cdd",
+      "title": "I had no idea I had an increased risk of developing osteoporosis until I tried this free quiz—here’s how to check your bone health - Fit&Well",
+      "published": "2026-10-25T20:00:00+00:00",
+      "summary": "I had no idea I had an increased risk of developing osteoporosis until I tried this free quiz—here’s how to check your bone health&nbsp;&nbsp;Fit&amp;WellSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Fit&Well",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jUnE2Q0RScU1ENHhRNlFPQzNkbV9aMTh0UVZsRzdDZFVEVkdoMTlpYVBnU2NQckNRU1hNd1BjWnZhZ1RwTi1ieGN4em5DVXMwRm5kd2MtS1dGTWlEN0NENUpHY1VWUmp0OU1YRw?oc=5"
         }
       ]
     },
@@ -33,7 +93,7 @@
       "id": "c13474f6ff85",
       "title": "SARON: Consolidation Radiotherapy Improves PFS but Not Overall Survival in Oligometastatic NSCLC - Oncodaily",
       "published": "2026-10-25T16:45:16+00:00",
-      "summary": "SARON: Consolidation Radiotherapy Improves PFS but Not Overall Survival in Oligometastatic NSCLC&nbsp;&nbsp;OncodailyNew trial finds 'added treatment' keeps advanced cancer under control for longer&nbsp;&nbsp;Cornwall LiveRadiotherapy ‘could keep advanced lung cancer patients stable for longer’&nbsp;&nbsp;LBCCancer breakthrough as 'added treatment' controls disease for longer&nbsp;&nbsp;Surrey LiveAdvanced lung cancer patients benefit from radiotherapy in addition to standard treatment&nbsp;&nbs",
+      "summary": "SARON: Consolidation Radiotherapy Improves PFS but Not Overall Survival in Oligometastatic NSCLC&nbsp;&nbsp;OncodailyNew trial finds 'added treatment' keeps advanced cancer under control for longer&nbsp;&nbsp;Cornwall LiveESMO 2026: Radiotherapy controls lung cancer for longer, vaccine stops melanoma returning and success for targeted drugs&nbsp;&nbsp;Cancer Research UK - Cancer NewsRadiotherapy ‘could keep advanced lung cancer patients stable for longer’&nbsp;&nbsp;LBCAdvanced lung cancer patie",
       "sources": [
         {
           "name": "Oncodaily",
@@ -81,7 +141,7 @@
       "id": "2e033f80a80b",
       "title": "Think Being a Night Owl Is Just a Sleep Preference? Researchers Link It to a Depression Subtype - Inc.com",
       "published": "2026-10-25T15:33:42+00:00",
-      "summary": "Think Being a Night Owl Is Just a Sleep Preference? Researchers Link It to a Depression Subtype&nbsp;&nbsp;Inc.comSleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York Times'Circadian' depression may be the reason why you can't sleep&nbsp;&nbsp;New York PostScientists Identify a New Type of Depression That May Feel Like Permanent Jet Lag&nbsp;&nbsp;ZME ScienceBody clock link? New type of depression could affect millions&nbsp;&nbsp;NewsNation",
+      "summary": "Think Being a Night Owl Is Just a Sleep Preference? Researchers Link It to a Depression Subtype&nbsp;&nbsp;Inc.comYour Sleep Habits May Point to a Specific Type of Depression, a New Study Finds&nbsp;&nbsp;The New York Timescircadian depression symptoms&nbsp;&nbsp;The StatesmanScientists Identify a New Type of Depression That May Feel Like Permanent Jet Lag&nbsp;&nbsp;ZME ScienceThe Science Behind Circadian Depression: How Your Poor Sleep Schedule Might Lead to Depression&nbsp;&nbsp;Onlymyhealth",
       "sources": [
         {
           "name": "Inc.com",
@@ -102,9 +162,21 @@
       ]
     },
     {
+      "id": "24eabc0681af",
+      "title": "Advanced Age Does Not Limit the Benefits of Sodium-Glucose Cotransporter 2 Inhibitors in Chronic Kidney Disease - FirstWord Pharma",
+      "published": "2026-10-25T14:22:54+00:00",
+      "summary": "Advanced Age Does Not Limit the Benefits of Sodium-Glucose Cotransporter 2 Inhibitors in Chronic Kidney Disease&nbsp;&nbsp;FirstWord PharmaSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "FirstWord Pharma",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yTlFBSE1BYS0waC05dmpjRGJtX0JTV1hSZVRTRFFmM1JCbUwtT2RGc0Jyb25LN2FsMmZ0OWg0TGlocXpveEVqeDkwa0NJSzFDSXJv?oc=5"
+        }
+      ]
+    },
+    {
       "id": "685011ab8918",
       "title": "Lizards have been shedding tails to stay safe for 99 million years, Israeli research finds - The Times of Israel",
-      "published": "2026-10-25T14:11:18+00:00",
+      "published": "2026-10-25T14:08:00+00:00",
       "summary": "Lizards have been shedding tails to stay safe for 99 million years, Israeli research finds&nbsp;&nbsp;The Times of IsraelWhat Was Hidden Inside This 99-Million-Year-Old Piece of Amber Is Something Lizards Still Do Today&nbsp;&nbsp;The Daily Galaxy",
       "sources": [
         {
@@ -117,7 +189,7 @@
       "id": "ef4e0f5b18b5",
       "title": "France Reports First Ever Human Case Of Shamonda Virus: Public Risk, Symptoms Explained - NDTV Profit",
       "published": "2026-10-25T13:36:51+00:00",
-      "summary": "France Reports First Ever Human Case Of Shamonda Virus: Public Risk, Symptoms Explained&nbsp;&nbsp;NDTV ProfitShamonda virus: what do we know about its effects on animals?&nbsp;&nbsp;WOAHFirst human case of Shamonda virus detected in France, officials say&nbsp;&nbsp;BBCShamonda virus, the livestock pathogen detected in human for the first time | Explained&nbsp;&nbsp;The HinduExplainer: What is Shamonda virus and what are the risks to humans and animals?&nbsp;&nbsp;Reuters",
+      "summary": "France Reports First Ever Human Case Of Shamonda Virus: Public Risk, Symptoms Explained&nbsp;&nbsp;NDTV ProfitExplainer: What is Shamonda virus and what are the risks to humans and animals?&nbsp;&nbsp;ReutersFrance Reports First Ever Human Case Of Shamonda Virus: Symptoms, Transmission, And Public Risk Explained&nbsp;&nbsp;NDTVShamonda virus: what do we know about its effects on animals?&nbsp;&nbsp;WOAHShamonda virus, the livestock pathogen detected in human for the first time | Explained&nbsp;&",
       "sources": [
         {
           "name": "NDTV Profit",
@@ -153,7 +225,7 @@
       "id": "9dc3080bd23b",
       "title": "World Stroke Day 2026: How to recognise a stroke and what to do immediately - The Week",
       "published": "2026-10-25T12:02:31+00:00",
-      "summary": "World Stroke Day 2026: How to recognise a stroke and what to do immediately&nbsp;&nbsp;The Week\"Every minute counts!\" – Doctors urge swift action for stroke patients&nbsp;&nbsp;Moldova 1Awareness Programme On Golden Hour Being Crucial In Stroke Treatment&nbsp;&nbsp;Deccan ChronicleSmall lifestyle changes, better brain health: Neurologists share practical ways to reduce stroke risk and improve overall well-being&nbsp;&nbsp;Hindustan TimesKMC Hospital Mangaluru to Mark World Stroke Day with Awaren",
+      "summary": "World Stroke Day 2026: How to recognise a stroke and what to do immediately&nbsp;&nbsp;The Week\"Every minute counts!\" – Doctors urge swift action for stroke patients&nbsp;&nbsp;Moldova 1When the brain is in danger: Why stroke cannot wait&nbsp;&nbsp;Borneo PostAwareness Programme On Golden Hour Being Crucial In Stroke Treatment&nbsp;&nbsp;Deccan ChronicleSmall lifestyle changes, better brain health: Neurologists share practical ways to reduce stroke risk and improve overall well-being&nbsp;&nbsp;",
       "sources": [
         {
           "name": "The Week",
@@ -177,7 +249,7 @@
       "id": "2f78d3b836e4",
       "title": "Does Mars have 2 potato-shaped Moons? Japan’s MMX Mission 2026 may solve the rare mystery - Moneycontrol.com",
       "published": "2026-10-25T11:30:09+00:00",
-      "summary": "Does Mars have 2 potato-shaped Moons? Japan’s MMX Mission 2026 may solve the rare mystery&nbsp;&nbsp;Moneycontrol.comJapan’s MMX Mars Mission&nbsp;&nbsp;Drishti IASJapan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples&nbsp;&nbsp;AP News20 MHz Magic: How a Slow Clock Delivers Sub-Meter Ranging Around Mars&nbsp;&nbsp;All About CircuitsJapan’s mission to Mars’s moons takes off&nbsp;&nbsp;The Economist",
+      "summary": "Does Mars have 2 potato-shaped Moons? Japan’s MMX Mission 2026 may solve the rare mystery&nbsp;&nbsp;Moneycontrol.comJapan’s MMX Mars Mission&nbsp;&nbsp;Drishti IAS20 MHz Magic: How a Slow Clock Delivers Sub-Meter Ranging Around Mars&nbsp;&nbsp;All About CircuitsLaunch result of the Martian Moons eXploration (MMX) spacecraft aboard H3 Launch Vehicle flight No.10&nbsp;&nbsp;Japan Aerospace Exploration AgencyJapan mission to retrieve samples from Mars moon&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
           "name": "Moneycontrol.com",
@@ -194,18 +266,6 @@
         {
           "name": "Science Daily",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79e1312ba807",
-      "title": "Interpretable machine learning for predicting intraoperative oxygenation impairment during one-lung ventilation in thoracic surgery: a retrospective cohort study - Nature",
-      "published": "2026-10-25T10:56:31+00:00",
-      "summary": "Interpretable machine learning for predicting intraoperative oxygenation impairment during one-lung ventilation in thoracic surgery: a retrospective cohort study&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjVDQ3U0NOR3o4OURpaFllUlpqenFrUXp6SWpYUWFvcXJ6MFJ0dUk0TkkxWGRVZjNDVkluZW5VOFRWbTRmOEFldzdqMmFXc3BXbGgtbmxYT0M2Qk9PZjk0?oc=5"
         }
       ]
     },
@@ -234,18 +294,6 @@
       ]
     },
     {
-      "id": "6200a4d97fb6",
-      "title": "Clarithromycin-Associated Carbamazepine Toxicity Presenting as a Posterior Circulation Stroke Mimic - Cureus",
-      "published": "2026-10-25T08:33:11+00:00",
-      "summary": "Clarithromycin-Associated Carbamazepine Toxicity Presenting as a Posterior Circulation Stroke Mimic&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeW1NXy15VWwwM0xYMXIxd184Z1pGbU9GOG1OYUhWc2JGX2JXUGVVQXgzYzNhMEJuYklfNVFwNlBCSTU4cGo3cVBES3pKYkdDa1pVSXVkNlZ3dThGdnkxbWY4bnRTRUIxb180VWZJaDZjaDkyMkFWbWI5QzVPSHNKOG1oSnVEdkxZYmpYMjJsSVY5cGdwMkVsaEtQZ3Y1bUw1UTh3UjV4OFRMcUNpV09OcTBZUWV1S01Xd0RCaTNIQ3ItNnh5MktsUjZ1QTlXaDdoTnhoNw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "88c2c7ed1ce0",
       "title": "Infant dies of mpox in Pakistan's Sindh - Xinhua",
       "published": "2026-10-25T08:22:15+00:00",
@@ -258,26 +306,14 @@
       ]
     },
     {
-      "id": "44293d0c24c3",
-      "title": "Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more - The Hindu",
-      "published": "2026-10-25T08:13:29+00:00",
-      "summary": "Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more&nbsp;&nbsp;The HinduSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77124203869c",
+      "id": "4416af769d87",
       "title": "Cellular reprogramming: Resetting the biological clock for a healthier lifespan - The Week",
       "published": "2026-10-25T02:57:05+00:00",
-      "summary": "Cellular reprogramming: Resetting the biological clock for a healthier lifespan&nbsp;&nbsp;The WeekRejuvenation breakthrough: Scientists reverse 60 years of aging in human cells&nbsp;&nbsp;Science DailyIn Bonn, blood cells were turned into younger neural stem cells — ScienceAlert&nbsp;&nbsp;UA.NEWSBlood Cells From an 80-Year-Old Were Reprogrammed to Show an Epigenetic Age Below 20&nbsp;&nbsp;YahooIs This the Real \"Off Switch\" for Aging? Japanese Scientists Reveal Breakthrough That Could Rewind Y",
+      "summary": "Cellular reprogramming: Resetting the biological clock for a healthier lifespan&nbsp;&nbsp;The WeekSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "The Week",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZjJuaDdCUS1qclhIekNTZk1hUWhLcV9fQUNKVVJqZU1uX2tseHV4U0JfdC1ubFVOenVJWi02RzZWOGxNaUJyZ1RCX0M0bHVDS0VrYzNuaDJ1VUozVVVOQmJ2bWFMMEZxR0Ixc2x1RmZWSVpsM0RiY3ZxMERKUVFMd3NESllBS1BIYVk2YnFVYmQ4bzA2UXNDQnpmak5ZUDUwN1NGTnRZR09zRmwzYjE5MTJTQ25DNzZKNGZxU1BDaDZaM3o4cVFhYdIB2gFBVV95cUxQVXBBZ2liTHVXVktzTDlTbWNoU09mSEQxV2pJLTJaVnhUVFAtek1Ya19ZQmZHZEpiUHpnRnN4MV81ZTIycW1yVW9KY1lJNXA4blZodnhaVnZNcDJfaVptbnV0ZkJpbUowUThweXdMY1ZRbzUxZDV5a3d0MlNrVEJiMHVscGNWeEFtQThyWVlHN3VoYTFqQy1lYzNYZ25rMFpMZG1KOGNoX0Z3UVFPVHBqWmVqTU5WRUF3ZndTVmlkR2ZlU2FYaFpXWFRDOE1SSnR4ZHY0eHpxQVFTUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLU9RTlpDeDlYYUR5dVhDOWwxQTdmazdJUTc4YjB6UG9LLVViOF9GVEZfY0trVnN0YmlzTlRsa0NDbDZSU1k4ZWgxd3Z1ejkwMmw5T1hDY1pUQUcyMzg1d2JfUk1pUzVhOURhMG1xQ0p4czE2d1QyZTFvUmUwQmQxbzVvZl9VLTE0QVV3Y2ZpeHhsWVVtU0NvRXVJQVl2U3FEWERESnJLLVFqTW1OTUxMVEFYQnc3WHI2dm1JUHB1V0dfNVpTbk9xQkVHbmVHWnhkRFJfWdIB2gFBVV95cUxQVXBBZ2liTHVXVktzTDlTbWNoU09mSEQxV2pJLTJaVnhUVFAtek1Ya19ZQmZHZEpiUHpnRnN4MV81ZTIycW1yVW9KY1lJNXA4blZodnhaVnZNcDJfaVptbnV0ZkJpbUowUThweXdMY1ZRbzUxZDV5a3d0MlNrVEJiMHVscGNWeEFtQThyWVlHN3VoYTFqQy1lYzNYZ25rMFpMZG1KOGNoX0Z3UVFPVHBqWmVqTU5WRUF3ZndTVmlkR2ZlU2FYaFpXWFRDOE1SSnR4ZHY0eHpxQVFTUQ?oc=5"
         }
       ]
     },
@@ -285,7 +321,7 @@
       "id": "afbb0467f0e8",
       "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science - Science Daily",
       "published": "2026-10-25T02:20:41+00:00",
-      "summary": "Scientists discover a hidden flaw that challenges 40 years of superconductor science&nbsp;&nbsp;Science Daily40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery&nbsp;&nbsp;SciTechDaily",
+      "summary": "Scientists discover a hidden flaw that challenges 40 years of superconductor science&nbsp;&nbsp;Science DailyMosaic crystal structure discovered in a cuprate — ScienceDaily&nbsp;&nbsp;UA.NEWS40 Years of Superconductor Science Just Got Turned Upside Down by a Stunning Discovery&nbsp;&nbsp;SciTechDaily",
       "sources": [
         {
           "name": "Science Daily",
@@ -297,7 +333,7 @@
       "id": "c55b2d799e66",
       "title": "One in eight cancers are likely caused by an infection worldwide: Study - The Shillong Times",
       "published": "2026-10-25T01:49:20+00:00",
-      "summary": "One in eight cancers are likely caused by an infection worldwide: Study&nbsp;&nbsp;The Shillong TimesOpinion | Want to reduce chronic diseases? Invest in vaccines.&nbsp;&nbsp;The Washington PostThese 12 Infections Are Linked to Cancer—and Some Are Widespread&nbsp;&nbsp;GreaterGoodWant To Restrain Various Cancers? Invest In Vaccines&nbsp;&nbsp;RealClearMarkets",
+      "summary": "One in eight cancers are likely caused by an infection worldwide: Study&nbsp;&nbsp;The Shillong TimesOpinion | Want to reduce chronic diseases? Invest in vaccines.&nbsp;&nbsp;The Washington PostThese 12 Infections Are Linked to Cancer—and Some Are Widespread&nbsp;&nbsp;GreaterGood",
       "sources": [
         {
           "name": "The Shillong Times",
@@ -330,30 +366,6 @@
       ]
     },
     {
-      "id": "e2d4676f2eb3",
-      "title": "An AI that reads your face can now estimate how long you have to live - WION",
-      "published": "2026-10-24T20:12:00+00:00",
-      "summary": "An AI that reads your face can now estimate how long you have to live&nbsp;&nbsp;WIONHow a photo of a person’s face could help predict whether they’ll survive cancer treatment&nbsp;&nbsp;CNNCan AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar&nbsp;&nbsp;The GuardianAI facial health recognition tools help physicians assess age and survival risk to guide personalized treatment&nbsp;&nbsp;Medical XpressAI Can Spot Signs of Impending Death Among Cancer Patients",
-      "sources": [
-        {
-          "name": "WION",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHZQRTBXRFdweENRWVFNMnJ5WVJHdHZ5ZEpXbWxHbVdUZTRSYlpJU2Q3RDVJUGdjbGpnWHNtcWNsMzM1MUFGWVRiR1drT0k2Yk1valMzLWluUG55SGYxMkJBRTRmb3NJc3o2TTlpeXlHNzFiRVRXOEhjdnVaRDdYZjFkUzAzNTlNZUoxVXhzR2VaNDF4LUxaXzdtX2szcFhxLWx4MUNGaXc2d0hIRHppcEpFTdIBuAFBVV95cUxQMzg2c0ZDY2gxX0c2dmVCYU83ZVJFUC03WVdRYjJKRWgzQS0xX0hZUEcteDhVNzJxZDJBX2RxaTRFTzRlbUZZVTlsZjJRSlV5RG9ha05pRE5mY2Q3LXNTNmg0QzRYQ0dyNmZNY052MTJ2aXFnVi05OTB3QzhCNkNIOVQ3UFBWY2lDY1JnZzlQYzd4aGl5QTJUUlBVNUoyRmV5bzZEN0h4NE0xSGh4aW5Ebl82Tm1iNTdO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a6ab8299c89",
-      "title": "Common Liver Disease May Actually Have 5 Distinct Types With Different Health Risks - ScienceAlert",
-      "published": "2026-10-24T19:04:34+00:00",
-      "summary": "Common Liver Disease May Actually Have 5 Distinct Types With Different Health Risks&nbsp;&nbsp;ScienceAlertMRI scans and DNA data uncover new genetic links to fatty liver disease&nbsp;&nbsp;Medical XpressScientists Discover Fatty Liver Disease May Consist of Five Distinct Conditions&nbsp;&nbsp;Medical DialoguesGenome-wide analyses identify 60 loci associated with liver triglyceride content&nbsp;&nbsp;NatureFatty liver disease is actually five different conditions, scientists discover&nbsp;&nbsp;",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWowWE41dUp5VDZaLVBTcGVGeUpTOWVRcmtLb3ZWR29vZ2JyelpmaHVzeGZ2U2lOeG1jZ1JKYUM2SkNWSTBjOEJOWi1iY3k0LXdBOXZUS0JsbVMxU0lmZEgxNHM1Z09mVmJESm9xX0ZteUd4Y0dTVWdHNnp1ajIzbmZVZWFmQUE4aGxOdFdfODI1a195ZGVYazFqYVBYNGlxNXNlazd5TmJwSDlDMzFSdXRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "99dea2396c88",
       "title": "In situ immunotherapy shows encouraging survival findings in prostate cancer - Urology Times",
       "published": "2026-10-24T18:51:10+00:00",
@@ -381,11 +393,23 @@
       "id": "4faf40b07222",
       "title": "Doctors explain why breast cancer screening should start at age 40 - News-Medical",
       "published": "2026-10-24T17:30:00+00:00",
-      "summary": "Doctors explain why breast cancer screening should start at age 40&nbsp;&nbsp;News-MedicalBreast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain&nbsp;&nbsp;The Times of IndiaWHO says breast cancer killed 6.9 lakh in 2024 and 80% had no risk factors: Screening, self-exams and knowing your normal can help catch it early&nbsp;&nbsp;Hindustan TimesIf You Are Due for a Mammogram, Schedule it Today&nbsp;&nbsp;citybizGo Pink Day highlights importance of ",
+      "summary": "Doctors explain why breast cancer screening should start at age 40&nbsp;&nbsp;News-MedicalBreast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain&nbsp;&nbsp;The Times of IndiaWHO says breast cancer killed 6.9 lakh in 2024 and 80% had no risk factors: Screening, self-exams and knowing your normal can help catch it early&nbsp;&nbsp;Hindustan TimesIf You Are Due for a Mammogram, Schedule it Today&nbsp;&nbsp;citybizBeyond the Pink Ribbon: Why Breast Ca",
       "sources": [
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEE5bGR2OVJ3ekVPQ0lPNVoxWHNNWk84MFppRTZKSGpnMTZ1UHVPdWxocTNuWXhVSGVfRWh0Zzc4c2xaRzJIcENfNThuVXBCX2VZOWVqaW1TbjRtS2l1VEFMZGZmNjM0bG1lNDVXNm5UeDh6ZWhxNF9RRnFlLUJaMEdBVURBdm5RZC1fLU9xU01Xbk1meHpaZ3UwTExYWElBQXFCQ0tIUm5PQUJBcnNxVlNhN2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17179c227c7c",
+      "title": "What Eating Eggs Every Day Does to Your Body - Martha Stewart",
+      "published": "2026-10-24T15:30:00+00:00",
+      "summary": "What Eating Eggs Every Day Does to Your Body&nbsp;&nbsp;Martha StewartAre egg whites really better than yolks? Here’s what dietitians say&nbsp;&nbsp;TasteWhole Eggs vs. Egg Whites—Which Is Better for Your Heart? A Dietitian Weighs In&nbsp;&nbsp;Yahoo HealthEgg Yolks & Cholesterol: What Current Research Actually Says&nbsp;&nbsp;SlurrpIs It Safe To Eat Eggs Every Day? Here Is What A Dietitian Says&nbsp;&nbsp;Onlymyhealth",
+      "sources": [
+        {
+          "name": "Martha Stewart",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzk5VENIemtIYlFVTEJnY2ZCbTdpbWtsZ2FXalBmUk5lX0VKMmpBdnBYZzJwNi1GWlFVa3BZZ29lMmlmZF9CUXRWUk5FOVpyZ2J2alpWQ1VEMGxuZDlkYmlHOGU0cTZ1V09FSUpvdzRfZlNDNnlOQnBtLTFCcmpVV25oZ1lIUQ?oc=5"
         }
       ]
     },
@@ -402,22 +426,10 @@
       ]
     },
     {
-      "id": "17179c227c7c",
-      "title": "What Eating Eggs Every Day Does to Your Body - Martha Stewart",
-      "published": "2026-10-24T15:30:00+00:00",
-      "summary": "What Eating Eggs Every Day Does to Your Body&nbsp;&nbsp;Martha StewartWhole Eggs vs. Egg Whites—Which Is Better for Your Heart? A Dietitian Weighs In&nbsp;&nbsp;Real SimpleEgg Yolks & Cholesterol: What Current Research Actually Says&nbsp;&nbsp;SlurrpIs It Safe To Eat Eggs Every Day? Here Is What A Dietitian Says&nbsp;&nbsp;Onlymyhealth",
-      "sources": [
-        {
-          "name": "Martha Stewart",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzk5VENIemtIYlFVTEJnY2ZCbTdpbWtsZ2FXalBmUk5lX0VKMmpBdnBYZzJwNi1GWlFVa3BZZ29lMmlmZF9CUXRWUk5FOVpyZ2J2alpWQ1VEMGxuZDlkYmlHOGU0cTZ1V09FSUpvdzRfZlNDNnlOQnBtLTFCcmpVV25oZ1lIUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fe494634a2db",
       "title": "This US Startup Claims Its 'AI-Generated Viruses' Have Been Used On A Human Patient - NDTV Profit",
       "published": "2026-10-24T15:08:13+00:00",
-      "summary": "This US Startup Claims Its 'AI-Generated Viruses' Have Been Used On A Human Patient&nbsp;&nbsp;NDTV ProfitAI-designed virus infects person for the first time&nbsp;&nbsp;MashableAI-Designed Phages Combat Bacteria: Microbial Minutes&nbsp;&nbsp;ASM.orgUS Startup Claims First AI-Designed Bacteriophages Administered to Patient&nbsp;&nbsp;ForkLogEnlisting AI in the fight against drug-resistant bacteria&nbsp;&nbsp;Universities of Wisconsin",
+      "summary": "This US Startup Claims Its 'AI-Generated Viruses' Have Been Used On A Human Patient&nbsp;&nbsp;NDTV ProfitAI-designed virus infects person for the first time&nbsp;&nbsp;MashableStart-Up Claims to Use A.I.-Created Viruses to Treat a Patient&nbsp;&nbsp;The New York TimesAI-Designed Phages Combat Bacteria: Microbial Minutes&nbsp;&nbsp;ASM.orgChatGPT Explains the Odds of AI Triggering the Next Pandemic&nbsp;&nbsp;Gadget Review",
       "sources": [
         {
           "name": "NDTV Profit",
@@ -470,18 +482,6 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnh2R2tUeVhPQW9LWGZyYmN0V0I2cXNhVDhfSFhRblhfaVE2X3U2aXZmMHhtUFhaenlack1Gb3hpSjZ2VGtVMUlCdjJGRUFOMlNsOE1rZzFpR2x5Zjl6bm1CTXRaR3E5OGdOVnZJQzN1MFdiNnM0MjJ6V1hDako4U3dlSW5abDJKZXJFcTBWbVV2NXRqR25TNE1sQmUwQnlJQ0NkV2NmV1dMRmxRcHFVb2U5QXBFclZFY1pubVZ1cFdFRHJDc3hPdTlNNFJRUG85dlpadGpvSmkzYVN4TEJTQy1VcWtQaFJDMHpOMUd0UnRDbWNNV2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "289651bfe4bc",
-      "title": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis - Science Daily",
-      "published": "2026-10-24T11:54:39+00:00",
-      "summary": "Your blood could reveal inflammatory bowel disease 10 years before diagnosis&nbsp;&nbsp;Science DailyAntibody patterns may predict inflammatory bowel disease years before diagnosis&nbsp;&nbsp;News-MedicalAntibody Signatures Could Reveal IBD Risk 10 Years Before Diagnosis&nbsp;&nbsp;Inside Precision MedicineScientists have found a way to predict the progression of IBD ten years before diagnosis&nbsp;&nbsp;LIGA.net",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMc1drUkdDR19OSmpYMmlZZFRVdzcxRE1SbnJWTEVXcVFFRXJaLXlxNXQtWE9nN1ZGdk9TdkpINGcyRkM4VVo1REgzdUZRY1FoS1VUanNfa3RhNFlWbEhSbXA5alU5Wmh0R0lDdmQ3bw?oc=5"
         }
       ]
     },
@@ -594,6 +594,18 @@
       ]
     },
     {
+      "id": "9bc1070e7def",
+      "title": "UTI symptoms but a negative urine test? Why your bladder pain may have another cause - Firstpost",
+      "published": "2026-10-24T08:24:18+00:00",
+      "summary": "UTI symptoms but a negative urine test? Why your bladder pain may have another cause&nbsp;&nbsp;FirstpostWomen take to social media to break the taboo of UTIs&nbsp;&nbsp;BBCWhat Can Be Mistaken for a UTI? Doctor Explains Conditions That Cause Similar Symptoms&nbsp;&nbsp;OnlymyhealthMillions of Women Are Being Treated for UTIs They Don’t Actually Have. Here’s Why&nbsp;&nbsp;Sacramento BeeWomen Share Their Experiences with Chronic Urinary Tract Infections on Social Media&nbsp;&nbsp;Nacionale",
+      "sources": [
+        {
+          "name": "Firstpost",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGtRWWlVVmhnN18tRzJuSl9QbjRTUTFLS05lMXVLUDZsRjhKOXIwM3U0WVNBR3JxMVVYb0F5VnJURGhfVGYyNkhDTEpSVHFLbHBOQU5ha0h4S1RwdzVDOWdqaTljaXFkenZ6NHFXNm9QYTR4V3lHODE0SDNqZGtYRThpcmNJMGU3c3d5S1hsdGYzeUZXTHFrRXpYOUVBd1lEdmxYeWFJLUIzSExtZ1hBRDhWYndnWE8ycjlxb0d4ekxTRm8xVlRFOFFn0gHPAUFVX3lxTFBKTkFUa2VFYm43LUd4N1lWdjRkbm9PaEFlSF9EVTY2Y3ROQ3B2WGFvWktEVHlacGNsUldmdUlHb19KendBQjlCZ1N1U2Q2VkV5cElocWRGc010dmtVS1ZDSFpyOUh2T3BuZFB1bkhPNGN4SkNySXBlTVZvSWRiNmRKSE9zWmRpNUtTanFKRWctY1IwMTFFWXdYczRpNjN4WUVDQmtKUjY3WmtObXBkN3RGODV1QXU3RlJ3VjRsZlo1QUNUTjV5enh4VkRQbmVJZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "327e772c5f71",
       "title": "Shorter Tuberculosis Treatment Shows Promising Results: IDWeek 2026 - EMJ",
       "published": "2026-10-24T08:05:20+00:00",
@@ -609,7 +621,7 @@
       "id": "c57dfc1f5ce6",
       "title": "Breast Cancer Month: Seven Years Beyond Diagnosis - ANI News",
       "published": "2026-10-24T07:26:00+00:00",
-      "summary": "Breast Cancer Month: Seven Years Beyond Diagnosis&nbsp;&nbsp;ANI NewsBreast cancer in the new era: From early detection to precision oncology&nbsp;&nbsp;The Times of IndiaGuest commentary: Beyond chemotherapy — the evolution of cancer care&nbsp;&nbsp;Pine Island EagleWhy precision biomarkers will change the future of breast cancer care&nbsp;&nbsp;pharmaphorumBeyond The Diagnosis: The Long Road To Breast Cancer Care&nbsp;&nbsp;The Reporter Ethiopia",
+      "summary": "Breast Cancer Month: Seven Years Beyond Diagnosis&nbsp;&nbsp;ANI NewsSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "ANI News",
@@ -621,23 +633,11 @@
       "id": "1c39b646a6e0",
       "title": "Tackling diabetes with an electronic implant: how a tiny catalyst lowers blood sugar - Technology Org",
       "published": "2026-10-24T06:00:00+00:00",
-      "summary": "Tackling diabetes with an electronic implant: how a tiny catalyst lowers blood sugar&nbsp;&nbsp;Technology OrgHope for sugar control without insulin or drugs as Indian scientist develops implant&nbsp;&nbsp;Telegraph IndiaThis implant burns up excess blood sugar with electricity&nbsp;&nbsp;Scientific AmericanScientists develop USB-sized electronic implant to lower blood sugar&nbsp;&nbsp;ThePrintThis implant zaps away high blood sugar in mice&nbsp;&nbsp;C&amp;EN",
+      "summary": "Tackling diabetes with an electronic implant: how a tiny catalyst lowers blood sugar&nbsp;&nbsp;Technology OrgHope for sugar control without insulin or drugs as Indian scientist develops implant&nbsp;&nbsp;Telegraph IndiaThis implant burns up excess blood sugar with electricity&nbsp;&nbsp;Scientific AmericanScientists develop USB-sized electronic implant to lower blood sugar&nbsp;&nbsp;ThePrintWirelessly Powered Electronic Implant, ECHO, Enables Drug-Free Management of 'Diabesity'&nbsp;&nbsp;Gen",
       "sources": [
         {
           "name": "Technology Org",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnVIZVdHQWdqZHVhZkt3V1FIbVAtTlNabU5XSFJkWVpuTzc0QWRDbElqeGRlY19EVm5SdGxWcXAtZ3F5WWpXUFVDNFVzQ1RtcXhEX0JNQVRpMENJd0xlaHlPSUhZVjd2aFVKSlhEME1QODFvQXN4TTZGZzVWVjhzN29CaVA4MmVhcXpsM291dTVTd1VDSjFyMUtLTWhaN25vSkI2eTdqNll4RDJmV3RxY0djdThpR01tUTZOUER3TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d2f925a5a42",
-      "title": "Species Distribution and Antifungal Susceptibility of Candida Bloodstream Isolates in Children: A Three-Year Study From North India - Cureus",
-      "published": "2026-10-24T05:23:08+00:00",
-      "summary": "Species Distribution and Antifungal Susceptibility of Candida Bloodstream Isolates in Children: A Three-Year Study From North India&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcV9COVlwaXdhRlJ1X2tDLTgwZHhwWm5pMTRkNEhpNFl5bHpMbFhPNHRVR2tVd2wyOEtlbUF0UUNsS2pyUHdSM1o3dTVvRlZLajRfNUZ6MDREdGFUSWJWSk56akhjQ2liWnN2RkVkUTNzeXJyejM1UU1pNHJob2o1YjFOMDlUTmpiMVhYSjJPZkZJRWZuR3p0RE9lem13UnN4ZUNpQXluSGdTYzZpX2VaVlp5aGtRSjhTUERrcVA4SENrNWxPWEgxbTR2dGY3ekFVcUxDVDNOS2tIZnVjanl3M1RRbUtEdTIzVm9iSkRHWEpvOThwUE80ZldhcXhSQQ?oc=5"
         }
       ]
     },
@@ -666,22 +666,10 @@
       ]
     },
     {
-      "id": "f5f2bb26b0dd",
-      "title": "Physicists Hold A Positron Captive For Months, Odd Correlation Found In Reincarnation Reports, And Much More This Week - IFLScience",
-      "published": "2026-10-23T23:00:56+00:00",
-      "summary": "Physicists Hold A Positron Captive For Months, Odd Correlation Found In Reincarnation Reports, And Much More This Week&nbsp;&nbsp;IFLSciencePhysicists trap a single antimatter particle for a month&nbsp;&nbsp;Scientific American'One-positron cyclotron' could test a key prediction of the Standard Model&nbsp;&nbsp;Phys.orgA Quantum Cyclotron for Antimatter&nbsp;&nbsp;American Physical SocietyScientists Trapped an Antimatter Particle for Months to Study Its Secrets&nbsp;&nbsp;WIRED",
-      "sources": [
-        {
-          "name": "IFLScience",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOb0RabTg5VC1ibWlVellZVG44OGJ4OWZBZUpKZGZrYVFGWkV2RGhDNjJiUC1NbTYyaS1jT0h5NU9kX3VTcEhHaTRJN2FpaklHM3hiOTdacDdBZ3FiZnNVTFJCYm9OcXh4UktDb0tFXzNaZzUtNWRhRnpqeVVYenlGZXl1emJIWEwxQUNDMXl5LTJPLTR6RjB3QmJBNVZtTml1NUJGbGkzZ2JjekdiZ2RGdXFIZDluRDVfajd4QVpmVFk1cGpzSTc3TDV1RFJYZmtSVDhPbFVfaXNuTzRPNVl3aDNkZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fb42af1b6ed8",
       "title": "Scientists Just Rewrote Human DNA Inside the Body for the First Time - Gadget Review",
       "published": "2026-10-23T16:45:26+00:00",
-      "summary": "Scientists Just Rewrote Human DNA Inside the Body for the First Time&nbsp;&nbsp;Gadget ReviewScientists edit human DNA inside the body for the first time&nbsp;&nbsp;The IndependentPrime editing rewrites DNA inside human body for the first time&nbsp;&nbsp;The News InternationalPotential cure for genetic disease? Scientists test DNA editing inside human body for first time&nbsp;&nbsp;Business TodayFirst in-body gene editing targets rare liver disease, aims for permanent cure&nbsp;&nbsp;bdnews24.co",
+      "summary": "Scientists Just Rewrote Human DNA Inside the Body for the First Time&nbsp;&nbsp;Gadget ReviewScientists edit human DNA inside the body for the first time&nbsp;&nbsp;The IndependentWorld-first gene editing trial rewrites DNA inside liver cells in bid to treat Wilson's disease&nbsp;&nbsp;upday NewsPrime editing rewrites DNA inside human body for the first time&nbsp;&nbsp;The News InternationalPotential cure for genetic disease? Scientists test DNA editing inside human body for first time&nbsp;&nbs",
       "sources": [
         {
           "name": "Gadget Review",
@@ -693,7 +681,7 @@
       "id": "69e006e3bff0",
       "title": "Cumulative and Recent Cannabis Use Linked to Poorer Sleep Quality - EMJ",
       "published": "2026-10-23T16:19:45+00:00",
-      "summary": "Cumulative and Recent Cannabis Use Linked to Poorer Sleep Quality&nbsp;&nbsp;EMJMedical marijuana failing to help against insomnia&nbsp;&nbsp;The StarUsing weed to sleep? Here's a wake-up call. Sort of.&nbsp;&nbsp;American Council on Science and HealthCannabis users may sleep worse than they think, new study suggests&nbsp;&nbsp;San Francisco ChronicleEvidence Shows Medical Cannabis Has Little Impact on Insomnia&nbsp;&nbsp;Clinical Pain Advisor",
+      "summary": "Cumulative and Recent Cannabis Use Linked to Poorer Sleep Quality&nbsp;&nbsp;EMJMedical marijuana failing to help against insomnia&nbsp;&nbsp;The StarCannabis users may sleep worse than they think, new study suggests&nbsp;&nbsp;San Francisco ChronicleUsing weed to sleep? Here's a wake-up call. Sort of.&nbsp;&nbsp;American Council on Science and HealthEvidence Shows Medical Cannabis Has Little Impact on Insomnia&nbsp;&nbsp;Clinical Pain Advisor",
       "sources": [
         {
           "name": "EMJ",
@@ -722,18 +710,6 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWozWlB6Z0xEYk1CR1hLdEpzblVxTkhZTWE4ZEkyek9xQWNob1RBeHg1b2tWaFo3R1E1eVo5VUlqTkVxY2lMSDZuMkVsTE5SV3RlWHBVSnZTWFIyU3hZZ2tydTBIYXJ2REg0YlpJSnRXcTN3dmJiX3BMLS1IRUFMek1hcUIwMU1iOTBjODN5S3E0QmZ1MWZFZEtVdXd5T3N2bGJ1V1ctNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9632637316d",
-      "title": "A study of more than 460,000 Americans found that eating ultra-processed foods was not associated with a - The Times of India",
-      "published": "2026-10-23T07:33:00+00:00",
-      "summary": "A study of more than 460,000 Americans found that eating ultra-processed foods was not associated with a&nbsp;&nbsp;The Times of India",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPZnRKX2RPdzhjWFRCRzViXzMwYUMwWHZfNFF3ZXZRSUQtRzZiampzc3ZjbTM5R3c0WV95dENLbEd1VUwzbXY1OEk0ajBVc29ybnd3YmJJNVNFUTBjQVlGTTFKOGdHUlJZYXhydVNmWHlWYWFHNVZSYndqc3M0a21TNXlZdTlia2VWYlhJMUZzeXVFMHFXeTQ1eUJIRURORDR6eHFIZ1J0YWlSMC1BWXpaVDlnajRVRHYtTmd4LXFHWDh2amNvckZab3BpZmdnMWgwMllxUm1qTWZZNFlLNXEwc1V4ajNGcnp4WmpDVU5rNUw2UVJEMExnYUxCbklpY1g5dzZoY3N1STN0V0xpU28ybTAxa0xRcnZ0T3JteEJYS2NjMVVJeGtaODNuNEpRejc1SUFLYXV1RUF5WjdySWNpVDNhU3BIVHBtbzZUMDQ1dUNJVVMxQkRfUG9DNElDbS02cWxHWEpCTUxONTV4cHdvbXFlSDdTcl9GUWdNd3B6LXd1VDhPZWFEN1BUaWRINExLcm1pM3pOdXBzOUFjdXd3UklKeDBkcVVYSXfSAa8DQVVfeXFMTV9QRzBFd0RGdjdpS3Fvc1NqeFVGUF9KYUZ6WkZGVm9tUEpRNi16UEpTOXBHbnRZdjFTY0hDZlpuWEY0V2NnOVRJbUZPSWdfLXBPYW5STFhyOXZrYzZfMDgtQ3ZBaFNSb0JSakhDSF95ZjJOMV9VRHk3bmlRbllOUVZiQndfZVo1WFdkQTdsb3lIODhTdkZoaGhsUXFYUVVhSEJDYmFvM05MNVcxeGRBX2NsSnctb0RNWWl2RWwwX29lTl9tVEQ4TFlKUlY4b2R4RWJiQ01JTTZDYzZYV25ncGFNMG5yZ2pYd1Nlcm5mNzhUN0luWk5LVDJzem0zdjJCc1NsWTl6TlBsYTNkMUdhTlpIdndaMVdnblJYV2Jmd1JxSlVLMGJPVjdXVGtvVHBUTVkwbUpIQ2VOdnU0SVRVOF8wdXVPbFJPR0JsTHZQV25TeXh3Q2hSNHh0bGltdHk4U3JhOXI1ZktlUmpwelVaSXBUSDF4QlVuaDlWeE1KT2JRNjNlMmRJMGlqY2dibzBkN3NBTVIzSTh4dG9xWTd1R1F3TURYSXdHSmtHN19zdTg?oc=5"
         }
       ]
     },
@@ -810,6 +786,18 @@
       ]
     },
     {
+      "id": "54695bab2dea",
+      "title": "Earlier ESR1 m Detection May Help Delay Endocrine Resistance in HR+/HER2– Advanced Breast Cancer - European Medical Journal",
+      "published": "2026-10-22T08:20:53+00:00",
+      "summary": "Earlier ESR1 m Detection May Help Delay Endocrine Resistance in HR+/HER2– Advanced Breast Cancer&nbsp;&nbsp;European Medical JournalJoanne Xiu: New Study on ESR1 Mutations in Metastatic Breast Cancer&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "European Medical Journal",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTdBWEZwUE1JN3Y4cjlDVkkxSUwwV2NNdGJpbmJfbE55cHFWVzhfVW85VUY3Sy1tN05weGM3TDVWWTBPZW1BdmRNRWRYSmx3dm9INEpQamFEX1RHYmlVeXAyNXpMNExqRm1WSDJCR1NObFVXZkJKb2txZ0thOXBjNG1BTWhKY0d5SHhLOXpYN1BXNGI2THZSWTJBTDFUNHNpNUpyZXc1VEZfRWVDNlhFZDAydHcwcmI1VXZGMnlMTXhEYWR0QjFMcHI4Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c3558eb9adf0",
       "title": "Contact Dermatitis Uncommon Despite Positive Allergy Tests - EMJ",
       "published": "2026-10-22T07:05:47+00:00",
@@ -818,6 +806,42 @@
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlVsdElRWFFfUTVjSFJWS3U3bXYtT2Jub0VXdUFWSEJFX2FKY3FZV0dTUDVhWmQxcDlWQ3MzQ1E4VW8wcFNKQmVWQURSS0x1b1FtU3lVbGQydVNLT210RkpBanQxVWFRLXJmb1R6LUkyd0tmQzcxV0o5T2lhQlBUYjR4WkF1NHJnbTEzemI3eVBBdVRTY2lrcUlNa3dwYW53Yzd6RHB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3a1246dccc3",
+      "title": "Dragon Docks with Artificial Retina and Mini-Brain Experiments Aimed at Blindness, Alzheimer's and Parkinson's - Nature World News",
+      "published": "2026-10-21T20:01:22+00:00",
+      "summary": "Dragon Docks with Artificial Retina and Mini-Brain Experiments Aimed at Blindness, Alzheimer's and Parkinson's&nbsp;&nbsp;Nature World NewsResearchers take brain cells to space to study MS&nbsp;&nbsp;NR TimesMount Sinai sent 184 mini brains and hearts to the space station to study aging&nbsp;&nbsp;Crain's New York",
+      "sources": [
+        {
+          "name": "Nature World News",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTE1xeElVRjVsTVhrT2pOMjhWaUdyQWF0SzZTcGJIZS02ZHJPbWZ3VHRvd1hEZDFtLUlmZ29FTm1HZkl6SEFHa3FSQnhfRlgwM05iWVpOTS1tNGpJUE5CZWxvSnNELUdIVzM1UUg1Sm84MUF3V2RXd2tVSGh1QnJXOFUwUkxkT3NRNGU5cUxnQTVTZUowT0ZkZUwwZWhXd0xKNkV4WXlGVmp5SnRRRXYzRjVwUXo5R2czbEN4c2ZGeEJvLWwyZWdYa05KQ1FsaGpndFVhVUhtLUVWc05JZVJPUmxtczVoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e96667420d9",
+      "title": "Physicists trap and tame single particle of antimatter for months - Phys.org",
+      "published": "2026-10-21T15:00:10+00:00",
+      "summary": "Physicists trap and tame single particle of antimatter for months&nbsp;&nbsp;Phys.orgPhysicists trap a single antimatter particle for a month&nbsp;&nbsp;Scientific American'One-positron cyclotron' could test a key prediction of the Standard Model&nbsp;&nbsp;Phys.orgA Quantum Cyclotron for Antimatter&nbsp;&nbsp;American Physical SocietyScientists Trapped an Antimatter Particle for Months to Study Its Secrets&nbsp;&nbsp;WIRED",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52LWl3U0FFZzM1b3prQ1FMU29kQkxFOU9FMmpOX0hTTGtPbkc3VkJJbHZFcklhb0pXcklQVnpZMlhjZnN2YUkwWC1BTV8tUmhxc2NIbC1YaVd3NEpIQmEybzlwR21XYlc3SjNZa3d2cHowbXd2aHA5OHJWTmY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccd23f6f4779",
+      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears - Science Daily",
+      "published": "2026-10-21T13:23:06+00:00",
+      "summary": "Massive study of 460,000 people challenges ultra-processed food cancer fears&nbsp;&nbsp;Science Daily",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUUWVGdUd2N1FYb1VkOFM5Q3owWnA1RE5LTVlXd3RBbllMR2MtYnZpVFRHT3FoYjRMeXN5Rk56MWJPcE44Mi1hMkVRZzhPVzJzd2lkaWRYMkxHNXpraDVXdVRoUzdjMmY0QmRRSXAyaw?oc=5"
         }
       ]
     },
@@ -849,7 +873,7 @@
       "id": "5f8cc6e0e6e9",
       "title": "Weight loss in middle age can restore cardiovascular health, research suggests - The Guardian",
       "published": "2026-10-20T23:01:00+00:00",
-      "summary": "Weight loss in middle age can restore cardiovascular health, research suggests&nbsp;&nbsp;The GuardianWeight loss in your 50s: How shedding pounds in middle age can restore heart health&nbsp;&nbsp;The Times of India'I'm a cardiologist and it's never too late to make modest change for heart health'&nbsp;&nbsp;The MirrorLosing weight in middle age has 'similar heart benefits' to always maintaining healthy size&nbsp;&nbsp;Doctors.net.ukHow to lose weight in your fifties – the healthiest thing you c",
+      "summary": "Weight loss in middle age can restore cardiovascular health, research suggests&nbsp;&nbsp;The GuardianWeight loss in your 50s: How shedding pounds in middle age can restore heart health&nbsp;&nbsp;The Times of India'I'm a cardiologist and it's never too late to make modest change for heart health'&nbsp;&nbsp;Daily MirrorLosing weight in middle age has 'similar heart benefits' to always maintaining healthy size&nbsp;&nbsp;Doctors.net.ukHow to lose weight in your fifties – the healthiest thing you",
       "sources": [
         {
           "name": "The Guardian",
@@ -861,7 +885,7 @@
       "id": "d078db7e59fa",
       "title": "How penguin droppings may accelerate snowmelt in Antarctica - Down To Earth",
       "published": "2026-10-20T17:13:13+00:00",
-      "summary": "How penguin droppings may accelerate snowmelt in Antarctica&nbsp;&nbsp;Down To EarthHow Penguin Poop Could Be Darkening Antarctica’s Snow?&nbsp;&nbsp;InfomancePenguin droppings linked to green snow algae in Antarctica, study finds&nbsp;&nbsp;FirstpostCrappy Feet: Penguins Cause, And Maybe Stop, Climate Change — The Climate Realism Show #221&nbsp;&nbsp;The Heartland Institute",
+      "summary": "How penguin droppings may accelerate snowmelt in Antarctica&nbsp;&nbsp;Down To EarthHow Penguin Poop Could Be Darkening Antarctica’s Snow?&nbsp;&nbsp;InfomancePenguin droppings linked to green snow algae in Antarctica, study finds&nbsp;&nbsp;Firstpost",
       "sources": [
         {
           "name": "Down To Earth",
@@ -918,18 +942,6 @@
       ]
     },
     {
-      "id": "05529c780a51",
-      "title": "Study finds honey bee hives use substances to protect young - NewsBytes",
-      "published": "2026-10-20T07:36:01+00:00",
-      "summary": "Study finds honey bee hives use substances to protect young&nbsp;&nbsp;NewsBytesBeehives act as 'living immune systems' with layered antimicrobial defenses&nbsp;&nbsp;Phys.orgHoney bee hives have ‘living immune systems’ which defend against disease&nbsp;&nbsp;The ConversationHoneybee Hives are Living Immune Systems, Scientists Say&nbsp;&nbsp;Sci.NewsBee hives found to be 'living immune systems' that protect bees&nbsp;&nbsp;The University of Sydney",
-      "sources": [
-        {
-          "name": "NewsBytes",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdG12UHBWZTNGZlE4Uktadms3TGFiazh4M3o0Q193ZHRMQXFsSFc2NXlnNUFOX0NyUER0M3Rzc1hpZldRcmQxWmNtcmJGbXVTLXdLc2EzSTFoYUFURHFCYmdIQ2FIdU1qcnhOcEkxNXhERXp6MmhDVnJNNzhUaW9IMzhtMzBwc1hfajh0RXplZVo3R2NWWndfSXo2Qk8zMWw1aGRqVWtOSl9Tdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "48a0a55d6d45",
       "title": "Your age may not tell the whole story about how healthy you are - News-Medical",
       "published": "2026-10-20T01:39:00+00:00",
@@ -938,18 +950,6 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUR1elJtVkpxcmQ2djV5bWNPbzgtSVhBUGFIdFpNcU9ESFVPaTZubzZNaDQ3S0JIOTMyTTc3NVExWmk0VGhUcFBoVzk1VHNndm9nY0tsUzB5V2M1TFdJQ2pwcFhWSy12c1BLcWN1UUZ3U0VoZkp2cmpGX0xCOXBwN3JxclNyd1VObUtGcXNwQno5RjNwUENacDNfOHpiWFNIZzZaa3lsTEd5Rlk4SEd5ag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85fe5555265f",
-      "title": "Osteoporosis Risk Among Indian Men Highlights Need For Early Screening - BW Healthcare World",
-      "published": "2026-10-19T17:28:20+00:00",
-      "summary": "Osteoporosis Risk Among Indian Men Highlights Need For Early Screening&nbsp;&nbsp;BW Healthcare WorldHow to prevent osteoporosis, from training to eating calcium-rich food&nbsp;&nbsp;South China Morning PostYour Lifestyle Could Be Weakening Your Bones&nbsp;&nbsp;ETV Bharat4 Osteoporosis Symptoms a Doctor Monitors in Herself and the ‘Critical Window’ for Preventing Bone Loss&nbsp;&nbsp;TODAY.comDona’s Story: Strengthening Her Bones After a Postmenopausal Osteoporosis Diagnosis&nbsp;&nbsp;Amgen",
-      "sources": [
-        {
-          "name": "BW Healthcare World",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakFLU3c0VlEyd3pMa0xIN1F0ZUZsY0VXRUlsT2g2OUdKWFJETkYxRTc0SVdYSHFZTFBiZU40RC1tdUVlRHVYLUpfekdoZlFIcUtDcVpZam8zZ1ZjS2VnMUtvV0dheExRWUFzR3U5RWIwTFVoMFBhTW13dVpaVXJVcmkybVBhNUY5WnU1cGx6VkdCTXJtSWFRTUlXclU4VG10Q2p5VjQyamZTeGZqUkF6b1QybUpvTWhGcU5B?oc=5"
         }
       ]
     },
@@ -966,14 +966,14 @@
       ]
     },
     {
-      "id": "daabaf375922",
-      "title": "Face and tongue photographs could help flag heart disease, study suggests - The Shillong Times",
-      "published": "2026-10-19T00:58:56+00:00",
-      "summary": "Face and tongue photographs could help flag heart disease, study suggests&nbsp;&nbsp;The Shillong Times",
+      "id": "205911bcfb2f",
+      "title": "AI reads face and tongue images to flag coronary heart disease with 98% accuracy - The Sen Times",
+      "published": "2026-10-19T04:09:16+00:00",
+      "summary": "AI reads face and tongue images to flag coronary heart disease with 98% accuracy&nbsp;&nbsp;The Sen Times",
       "sources": [
         {
-          "name": "The Shillong Times",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaEduMWtWRExFLTVabWlEUkhTMl9YX0tPbzEzNWh5bjZTTkV5aVJQZEZzbEJHVVRPblRZY2VBRWxYNXVjd1pPMWtjaF9sSTZmN3hzd0JGZHZCS0paby05WG91VEY1MGRacUNnN3hnU3Z2N2xIRkhKbFlwOTYyNWMzb2RLN2JzMFlTYmtiWmFBWFNobkNRN2JLeFF3bS13RDZyelNPWmVZYldQUzJLeHVONW81aw?oc=5"
+          "name": "The Sen Times",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1V5V29wbHhpN3FqXzdadjVMUUhUdHllTGdMUm1zbWJLZ2o5cVo1aTZNaFZDYmtJMGx2Y3lWd1FOaHNSWG0xbVdMeEpGTjBLWGhweUMyTVQ3RElwNnlGNks5MkdCQVhJYndFQ091R2lFQVZZX1ZZMlRoWVJoenhwYnAzd1FzVURrZmM0by05M0ZEOGpMWlI3WUpGU2FPUnVyYndodXI1OA?oc=5"
         }
       ]
     }
