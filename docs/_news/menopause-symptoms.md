@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 3 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause-symptoms/
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [Safety Monitoring and Dosing for NK3 Antagonists in Menopause VMS - Patient Care Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM05OYjZOSzZ4NTYzem1TNGRPdnZKeXA5QTRtaERmanBBODBFY1Y3YzJMNFJSSlB1em41QURJX19YYjlqRTFXa29jZUxYQUgxTTEtSU1LTTBpM0t3ekJSZWRDZHFCSlREQS0tN05tMG16Sm8wTGJTakNtWW9ja3VKR2ZnNWhsbXJhLWZ1TWNyT1otdjRoZzR3dE5semt0aWpTOUVoRzJIYw?oc=5)
+
+2026-10-26
+
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM05OYjZOSzZ4NTYzem1TNGRPdnZKeXA5QTRtaERmanBBODBFY1Y3YzJMNFJSSlB1em41QURJX19YYjlqRTFXa29jZUxYQUgxTTEtSU1LTTBpM0t3ekJSZWRDZHFCSlREQS0tN05tMG16Sm8wTGJTakNtWW9ja3VKR2ZnNWhsbXJhLWZ1TWNyT1otdjRoZzR3dE5semt0aWpTOUVoRzJIYw?oc=5)
+
+---
+
+### [Researchers Urge Adding Dry Eye Treatment to Menopause Care](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
+
+2026-10-26
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
+
+---
 
 ### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 

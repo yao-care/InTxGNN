@@ -14,7 +14,7 @@ permalink: /news/dexamethasone/
 ---
 
 <p class="key-answer" data-question="What news is there about Dexamethasone?">
-<strong>Dexamethasone</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Dexamethasone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,9 @@ This page combines the AI-predicted indications for Dexamethasone with the lates
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Effect of Preoperative Single-Dose Systemic Dexamethasone (8 mg) on Postoperative Pain and Blood Sugar Levels in Patients Undergoing Percutaneous Nephrolithotomy: A Randomised Controlled Trial](https://news.google.com/rss/articles/CBMizAJBVV95cUxQeE0xdFFVZ00yRDVRMlBRa25xbjZoVTNwVjZFd0JXOUZER2lTRkpmODdjYmw2UnhTSGVORHdCUjl5LUl1R1hwMUpEU3JGT01oS3ZxSmpDTVBjSDJMNG9sNHc2Mm84TEtEX2lhbXVJeE9DbEotTlNRbl9mVHlqUXdZdU91UEUwRnhuSWdYTUZkM3loR3lmUC12emllTGs1bi03bFhha2tDZWRhb09yYktPcjFzWFRmc0Zya1o5UUQ4akp6RHNxenZYVExOZ3lQXzlkVGRnVV9lX0c5Zmw4TTk3X2IzS011YkVlUXUzMTAyTEM3Z3lxOXdxdGZjSk02cjg4MzljUEhnVG5zdDA4bUc4RzlXQUMySU1LZGNSWEVzOGtXZHl4enFCdlZvWi1HVW5LWFRrUXFWN1lXSy1UTkpES2lGNUZGT1Z1aXBYbQ?oc=5)
-
-2026-10-26 <span class="news-drug-tag">DEXAMETHASONE</span> <span class="news-drug-tag">Dexamethasone</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMizAJBVV95cUxQeE0xdFFVZ00yRDVRMlBRa25xbjZoVTNwVjZFd0JXOUZER2lTRkpmODdjYmw2UnhTSGVORHdCUjl5LUl1R1hwMUpEU3JGT01oS3ZxSmpDTVBjSDJMNG9sNHc2Mm84TEtEX2lhbXVJeE9DbEotTlNRbl9mVHlqUXdZdU91UEUwRnhuSWdYTUZkM3loR3lmUC12emllTGs1bi03bFhha2tDZWRhb09yYktPcjFzWFRmc0Zya1o5UUQ4akp6RHNxenZYVExOZ3lQXzlkVGRnVV9lX0c5Zmw4TTk3X2IzS011YkVlUXUzMTAyTEM3Z3lxOXdxdGZjSk02cjg4MzljUEhnVG5zdDA4bUc4RzlXQUMySU1LZGNSWEVzOGtXZHl4enFCdlZvWi1HVW5LWFRrUXFWN1lXSy1UTkpES2lGNUZGT1Z1aXBYbQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

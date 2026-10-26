@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Ferritin face: The viral trend has people examining their faces for signs of deficiency, but can pale ski - The Times of India](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVHVLN1dPMFpUdjRnMXd5U2Z2Z0JlSnVTU1ZUWEtLbGttLUVVSjlJMFNyakc2SzBjVU5CLXBSRjRLV216bWs1aU5qSXpTTmlXYkhSeXR1bDBaalhhX24wcGFIdWY0RUNJZGR0YkpSdnpONjExbk5relRRSWdFTUtZdUN6b2w2ZzZnSUpMRGVmNmpDWDdTenVQeHpsaTRhUk9hMzVZaFoxbzJQS01vaDZObEx4QXh4WU1ENVl6c09OVnRXTkJHV2w4QkNrVTNkVXJseXhnWWY5dzM2NXpHWVhvaFZtRVAxWEtoSG1TMEVrQlZmQ0l1VHFfenVVVThrVFB3MUJoaUZHeGFfSms2U2EzdU1FQ0ZiM01XekxLdkwteWxRZUlLVDRaNEc4OG9HZV8xWDMyakFjUThnUHZRVlBTeks1WEU0OGt6dk9JWWl3bXUtVXZjbzdsVkZBeW5ZXzJpdmfSAecCQVVfeXFMT0RVTGxQOGFVNExJNTR3elJLdTlzYVRpYTl3d0xyV2JoNWtwckw4WVptN3ZvMnVDNUJNLXQtRzJYei1UcG1FQU9OVmFhcm5BSWtTU0pRdjdMTENWeDB1ek4tQnFYTHVGXzF1ZkhjTHliUmxVWjdaRUx3WnRzeHoyOFZrQnhpYjVncGFjRHZ6aEtsU2lhQXVYakF5N3ZPcmp6cV8tVVpkaUlmUEN2YmtiVXVPMnNpZkJoOS1aSkY3dlB5aUU3b2lzMnFOQVFaT2Y2TERqSnVacHFqUDliLVdfcGIySzR6OC1vdWY2UkxFSGZMTXBFSVZuVEJLMEtHTEZqX3RqcmpNSkFvUkwtU2E1LUdXSlh1dTJhclY3bGFqaXFOT2pQeXFncS1hT09teWVMcXhXT0pvS0xHVXp5ZHVkOFItYk1GOXBfaktHYl9zZ0FvbkVoYndsdTVSSE05Q2lpd2xTdFN6dkE?oc=5)
 
 2026-10-26 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVHVLN1dPMFpUdjRnMXd5U2Z2Z0JlSnVTU1ZUWEtLbGttLUVVSjlJMFNyakc2SzBjVU5CLXBSRjRLV216bWs1aU5qSXpTTmlXYkhSeXR1bDBaalhhX24wcGFIdWY0RUNJZGR0YkpSdnpONjExbk5relRRSWdFTUtZdUN6b2w2ZzZnSUpMRGVmNmpDWDdTenVQeHpsaTRhUk9hMzVZaFoxbzJQS01vaDZObEx4QXh4WU1ENVl6c09OVnRXTkJHV2w4QkNrVTNkVXJseXhnWWY5dzM2NXpHWVhvaFZtRVAxWEtoSG1TMEVrQlZmQ0l1VHFfenVVVThrVFB3MUJoaUZHeGFfSms2U2EzdU1FQ0ZiM01XekxLdkwteWxRZUlLVDRaNEc4OG9HZV8xWDMyakFjUThnUHZRVlBTeks1WEU0OGt6dk9JWWl3bXUtVXZjbzdsVkZBeW5ZXzJpdmfSAecCQVVfeXFMT0RVTGxQOGFVNExJNTR3elJLdTlzYVRpYTl3d0xyV2JoNWtwckw4WVptN3ZvMnVDNUJNLXQtRzJYei1UcG1FQU9OVmFhcm5BSWtTU0pRdjdMTENWeDB1ek4tQnFYTHVGXzF1ZkhjTHliUmxVWjdaRUx3WnRzeHoyOFZrQnhpYjVncGFjRHZ6aEtsU2lhQXVYakF5N3ZPcmp6cV8tVVpkaUlmUEN2YmtiVXVPMnNpZkJoOS1aSkY3dlB5aUU3b2lzMnFOQVFaT2Y2TERqSnVacHFqUDliLVdfcGIySzR6OC1vdWY2UkxFSGZMTXBFSVZuVEJLMEtHTEZqX3RqcmpNSkFvUkwtU2E1LUdXSlh1dTJhclY3bGFqaXFOT2pQeXFncS1hT09teWVMcXhXT0pvS0xHVXp5ZHVkOFItYk1GOXBfaktHYl9zZ0FvbkVoYndsdTVSSE05Q2lpd2xTdFN6dkE?oc=5)
-
----
-
-### [Brown researchers build cameras that can see in low-visibility environments - Brown Daily Herald](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHp5VnkwenhTQTVPaTdJWnVHMzhMLUh2azZ6WFREaFV6MjNQREw2amlHQlZ3UzJfMDdlOC1tZThsM1FnajBJUDVzTjY0bmM4eGhDY3BmangwWDluRDlyYTdINHBMOHpYZkNhN2VCQ0NzX2E3cGdkcmdOWHhlaE1FN1hiZUNTSWxieHJtbGxMRzFVOV9nNkhNY2lFaXRkakFvbUJSeW1RYjB3dHBPYjkyX1NBbGhpa1hfd3pWdHVENTNFOW8?oc=5)
-
-2026-10-26 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [Brown Daily Herald](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHp5VnkwenhTQTVPaTdJWnVHMzhMLUh2azZ6WFREaFV6MjNQREw2amlHQlZ3UzJfMDdlOC1tZThsM1FnajBJUDVzTjY0bmM4eGhDY3BmangwWDluRDlyYTdINHBMOHpYZkNhN2VCQ0NzX2E3cGdkcmdOWHhlaE1FN1hiZUNTSWxieHJtbGxMRzFVOV9nNkhNY2lFaXRkakFvbUJSeW1RYjB3dHBPYjkyX1NBbGhpa1hfd3pWdHVENTNFOW8?oc=5)
 
 ---
 

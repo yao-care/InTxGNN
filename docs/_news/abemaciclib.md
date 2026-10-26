@@ -14,7 +14,7 @@ permalink: /news/abemaciclib/
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [What is optogenetics? The Nobel-winning science explained - Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
-
-2026-10-26 <span class="news-indication-tag">RA</span>
-
-Source: [Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
-
----
+## Related News (2)
 
 ### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/aminophylline/
 ---
 
 <p class="key-answer" data-question="What news is there about Aminophylline?">
-<strong>Aminophylline</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Aminophylline</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ This page combines the AI-predicted indications for Aminophylline with the lates
 <p><a href="{{ '/drugs/aminophylline/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Stay Tuned for Pulmonary Hypertension-ILD Screening Tool](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTElpYVZETURHbHJ2MExTY29venV5dGo5REExQy14cXcwRF9CczNFVWlvV3FwT0dnWkk4YVpQVzUxcDV0RU9PVWNkdFlPR0tIVGRwUnZNbkVER25xQmEtWElQZjZCcXRpMnFfRzdKZ3V4T005RzduUldhcV9yRlh3TWJ6VjF0TG9pQmdZUzR6RURLREJ3NGJYcDdzZzJ2Mm5YdndlNw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">pulmonary hypertension</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTElpYVZETURHbHJ2MExTY29venV5dGo5REExQy14cXcwRF9CczNFVWlvV3FwT0dnWkk4YVpQVzUxcDV0RU9PVWNkdFlPR0tIVGRwUnZNbkVER25xQmEtWElQZjZCcXRpMnFfRzdKZ3V4T005RzduUldhcV9yRlh3TWJ6VjF0TG9pQmdZUzR6RURLREJ3NGJYcDdzZzJ2Mm5YdndlNw?oc=5)
+
+---
 
 
 <div class="disclaimer">

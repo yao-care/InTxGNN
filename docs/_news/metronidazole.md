@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Metronidazole-Induced Kounis Syndrome Type III Presenting as Acute In-Stent Thrombosis: A Case Report](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGdOclIxVVRkYnUzWUs5VkRjSDhROVlaczVfVk1nU3pYcVdhVnM3dkw2Q2NZalpzTjdBRXdyeG1hQmZVNjZFeVFWY2JHdTVMb0dES2xfSktYWWdGenpWdjBRelkzdlQycTZBWEJMZm1sOWJJU0NTQmhiNzJBUkJXOFpZQ181a0R2UE16YkUzT0pVSnNacVRnQnJVRmxQbDRaNmtSZG5zcW1ZZzQ0MDdkakZMQVdFeEZrbE5GQVkxR0NjWlR1VUVXZWdvNVhONWNaUmg5X0tB?oc=5)
+### [Safety Monitoring and Dosing for NK3 Antagonists in Menopause VMS - Patient Care Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM05OYjZOSzZ4NTYzem1TNGRPdnZKeXA5QTRtaERmanBBODBFY1Y3YzJMNFJSSlB1em41QURJX19YYjlqRTFXa29jZUxYQUgxTTEtSU1LTTBpM0t3ekJSZWRDZHFCSlREQS0tN05tMG16Sm8wTGJTakNtWW9ja3VKR2ZnNWhsbXJhLWZ1TWNyT1otdjRoZzR3dE5semt0aWpTOUVoRzJIYw?oc=5)
 
-2026-10-26 <span class="news-drug-tag">METRONIDAZOLE</span> <span class="news-drug-tag">Metronidazole</span>
+2026-10-26 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGdOclIxVVRkYnUzWUs5VkRjSDhROVlaczVfVk1nU3pYcVdhVnM3dkw2Q2NZalpzTjdBRXdyeG1hQmZVNjZFeVFWY2JHdTVMb0dES2xfSktYWWdGenpWdjBRelkzdlQycTZBWEJMZm1sOWJJU0NTQmhiNzJBUkJXOFpZQ181a0R2UE16YkUzT0pVSnNacVRnQnJVRmxQbDRaNmtSZG5zcW1ZZzQ0MDdkakZMQVdFeEZrbE5GQVkxR0NjWlR1VUVXZWdvNVhONWNaUmg5X0tB?oc=5)
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMipwFBVV95cUxPM05OYjZOSzZ4NTYzem1TNGRPdnZKeXA5QTRtaERmanBBODBFY1Y3YzJMNFJSSlB1em41QURJX19YYjlqRTFXa29jZUxYQUgxTTEtSU1LTTBpM0t3ekJSZWRDZHFCSlREQS0tN05tMG16Sm8wTGJTakNtWW9ja3VKR2ZnNWhsbXJhLWZ1TWNyT1otdjRoZzR3dE5semt0aWpTOUVoRzJIYw?oc=5)
+
+---
+
+### [Researchers Urge Adding Dry Eye Treatment to Menopause Care](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
+
+2026-10-26 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">eye disease</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
 
 ---
 

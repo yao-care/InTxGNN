@@ -14,7 +14,7 @@ permalink: /news/natalizumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>0 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,9 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (0)
 
-### [Psoriasis and Its Comorbidities: 5 Things to Know](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXlMaW15NnRWT3FQSjV5ZWhvZGNUU25WTFVpRlBRNTdMaDd5eXJlMUlwTWI3QVB3SWl5NHRNZXNjYW12YWUtVk0wMmNCakFSVzRVQ01Mb1ZURFR4Tnp6aHZuUkVPZmhUMHIyNHVSU1dxSmZFWFEwUXpjWXY2S0tSS3J3bmJIa2o3UEk4ZnRVdDBFZ3lISjBFOXNiUQ?oc=5)
-
-2026-10-22 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXlMaW15NnRWT3FQSjV5ZWhvZGNUU25WTFVpRlBRNTdMaDd5eXJlMUlwTWI3QVB3SWl5NHRNZXNjYW12YWUtVk0wMmNCakFSVzRVQ01Mb1ZURFR4Tnp6aHZuUkVPZmhUMHIyNHVSU1dxSmZFWFEwUXpjWXY2S0tSS3J3bmJIa2o3UEk4ZnRVdDBFZ3lISjBFOXNiUQ?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">

@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 2 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 4 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bhoolne-ki-bimari/
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,37 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (4)
 
-### [Dementia may affect 24.7 million people annually by 2050, global study finds - India Today](https://news.google.com/rss/articles/CBMizAFBVV95cUxNcW5kdG40Q0FuZ05CQS01V0NWT2c2MEpaeWFjVG1PMVp3NW50cUZxTWZxTWVmdndfN210ek8ta2FWVU1oTVV5aEdQQkNlakNSNWpQVWlmVF9penRibGNPdWxIMThmQ3FNclloRzh1XzhwTFlFcDB1SW1IYzVicl9RTGFyOFA2UzlkeDFNMy1FeWx5VkZ5dlBhaHNuZU1xcmxCb2JYN1ZIZGJFQkFYa3FEVklqMVVHWGdnVnNiUnRXUDRaYm1tdEc4MDlLN3fSAdIBQVVfeXFMTjhRTzdqQkhRQXBNZk9INUVuZU12UzJoZTliTGltcDJ1eGFKX1c4Wktub1pRRkFscm1NZWRCc0ZLdWRPLUxTSHpveHlyMGk4TUlrQlMya2ZJVFE1SXJUVm5Xc1ktN3Z6aUw5LUJxVWM1MGxSemcxUklEQmFhMWZISG1NV2c1cGhNVWtRRUNkMk5Ral9mR0dKLV9KeFNSZi1NQ1ZNMzIzYkxFcE90TkRtUnd1eVdZazJNLUJqd2duZjV1ZktUZGJ5U25NTWF2UnM3aFd3?oc=5)
+### [Additional education protects people with high genetic risk of dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
 
-2026-10-23
+2026-10-26
 
-Source: [India Today](https://news.google.com/rss/articles/CBMizAFBVV95cUxNcW5kdG40Q0FuZ05CQS01V0NWT2c2MEpaeWFjVG1PMVp3NW50cUZxTWZxTWVmdndfN210ek8ta2FWVU1oTVV5aEdQQkNlakNSNWpQVWlmVF9penRibGNPdWxIMThmQ3FNclloRzh1XzhwTFlFcDB1SW1IYzVicl9RTGFyOFA2UzlkeDFNMy1FeWx5VkZ5dlBhaHNuZU1xcmxCb2JYN1ZIZGJFQkFYa3FEVklqMVVHWGdnVnNiUnRXUDRaYm1tdEc4MDlLN3fSAdIBQVVfeXFMTjhRTzdqQkhRQXBNZk9INUVuZU12UzJoZTliTGltcDJ1eGFKX1c4Wktub1pRRkFscm1NZWRCc0ZLdWRPLUxTSHpveHlyMGk4TUlrQlMya2ZJVFE1SXJUVm5Xc1ktN3Z6aUw5LUJxVWM1MGxSemcxUklEQmFhMWZISG1NV2c1cGhNVWtRRUNkMk5Ral9mR0dKLV9KeFNSZi1NQ1ZNMzIzYkxFcE90TkRtUnd1eVdZazJNLUJqd2duZjV1ZktUZGJ5U25NTWF2UnM3aFd3?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
 
 ---
 
-### [A remarkable new picture is emerging of how the air around us could harm the brain - The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkJrR1RYUTdXNXozZ01qdDVqZ0JsWkFCZjNtc1ZGNVFodkFQbk1LdzV5V2lxU1hpM1BnbFl4WnpFdUlBNVpuQzBhR3FGdlQ1REhTaHU4U2ltamdqWDFfQ0tPNzJvcHNFMTNmQkhGd0l6WEdOeTREc3IyTHVpUGVyQk03SDY3cTluWEkyaF9zUTNmTmQ4bnVpRGdxeHE0Z0pFYXhsd0EybkU2Z0hqYnBYQzhpYXo1bkFIUm9hRA?oc=5)
+### [Does air pollution cause dementia? What new studies say on what it does to the brain](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1F4UzVYb2Z3OHdudEYtUEhHVWpFU3k5Unp1RU1EeEVTcnRzWDNjaEp3b0FrZGpud3Z0ODJ1OUVaYUVZQ2NiaGRvT3NGMGhqVmcxVjNjVl95enlYYzNHNzdpSlcxaGRBRTdyUUtxMUJuQjRCSzlPcGJwX3JBZ1dSaHQyTFpmZUhsU0Y2VTRQS29sTTU1M2FmdElTQ1hXVkhWLVhzMjZ5NjI0bHBBRGt1c1BaSEF6QTVWbFBmctIBwgFBVV95cUxPUkVIV1VYWXdwWlF4WVNlZTdqcjItZGtWOVROd014MlVUS1NNVVpmcm1TbUVHMGs1RlMwTlN0elRDTkg2OWpzNnVnaHVhYzRXSEVTd0x0SXd3RFBONF83eG5ULXpuVE5Fd0FGRGFhc05ieDZnQ3JDcjJMdUV5X0l4NGZFV2UyUUdibFgyc0tiWVZHX1Nibi1UeHQwT3RVZy1vUDRadVQ3UlpVME9LbmFKd0xSTnV0Rlk5SDBPLWJXOEVLQQ?oc=5)
 
-2026-10-22
+2026-10-26
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMivAFBVV95cUxOMkJrR1RYUTdXNXozZ01qdDVqZ0JsWkFCZjNtc1ZGNVFodkFQbk1LdzV5V2lxU1hpM1BnbFl4WnpFdUlBNVpuQzBhR3FGdlQ1REhTaHU4U2ltamdqWDFfQ0tPNzJvcHNFMTNmQkhGd0l6WEdOeTREc3IyTHVpUGVyQk03SDY3cTluWEkyaF9zUTNmTmQ4bnVpRGdxeHE0Z0pFYXhsd0EybkU2Z0hqYnBYQzhpYXo1bkFIUm9hRA?oc=5)
+Source: [ThePrint](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1F4UzVYb2Z3OHdudEYtUEhHVWpFU3k5Unp1RU1EeEVTcnRzWDNjaEp3b0FrZGpud3Z0ODJ1OUVaYUVZQ2NiaGRvT3NGMGhqVmcxVjNjVl95enlYYzNHNzdpSlcxaGRBRTdyUUtxMUJuQjRCSzlPcGJwX3JBZ1dSaHQyTFpmZUhsU0Y2VTRQS29sTTU1M2FmdElTQ1hXVkhWLVhzMjZ5NjI0bHBBRGt1c1BaSEF6QTVWbFBmctIBwgFBVV95cUxPUkVIV1VYWXdwWlF4WVNlZTdqcjItZGtWOVROd014MlVUS1NNVVpmcm1TbUVHMGs1RlMwTlN0elRDTkg2OWpzNnVnaHVhYzRXSEVTd0x0SXd3RFBONF83eG5ULXpuVE5Fd0FGRGFhc05ieDZnQ3JDcjJMdUV5X0l4NGZFV2UyUUdibFgyc0tiWVZHX1Nibi1UeHQwT3RVZy1vUDRadVQ3UlpVME9LbmFKd0xSTnV0Rlk5SDBPLWJXOEVLQQ?oc=5)
+
+---
+
+### [Dementia not a normal part of ageing, early recognition key: experts - Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzZpRHNpem9hS3pBdUx5Sy1MOHpBaGJDWWlfRVpULWFiMDhrV1Jkd3QwbVlsWmtzaS1QbFBhNFVCaVFvbGpnZUZJZXloX0pTZ3ZfcWF3b0JjS1dGV1BHQmhuZHJic1hxZnNkR2VORTBDNjV1SzdVRmlxTVRTNnd2UkpfRWVTTEVzWkJOOWNtVUZDOTdNQUtNc1pRaC12djc1ejkwMTA4VzgySUREbnlvUUU1dUNnSTZ4?oc=5)
+
+2026-10-26
+
+Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzZpRHNpem9hS3pBdUx5Sy1MOHpBaGJDWWlfRVpULWFiMDhrV1Jkd3QwbVlsWmtzaS1QbFBhNFVCaVFvbGpnZUZJZXloX0pTZ3ZfcWF3b0JjS1dGV1BHQmhuZHJic1hxZnNkR2VORTBDNjV1SzdVRmlxTVRTNnd2UkpfRWVTTEVzWkJOOWNtVUZDOTdNQUtNc1pRaC12djc1ejkwMTA4VzgySUREbnlvUUU1dUNnSTZ4?oc=5)
+
+---
+
+### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Ophthalmology Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhmQUJZR3dvSVpMNjJDMlM0ODRnYjREaDBQWmRkdkRZalZXbWZma2xMamtNa25qUXFhc2FkVS14VU9lSDVsenRxNzg0ZFpWVVl4V1RaS1FmWU1MQ1k3Sk9CVnNpeE1CTENRdGxCQVhmVTFnOFBXLUhMTFpBZTdza3BHNE94ZE1TaFFidXlWN3N0VkhDQXlEZGk4VWZ1d2dTRHJ1cVpvZ3lMTUQyYVoydw?oc=5)
+
+2026-10-26
+
+Source: [Ophthalmology Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhmQUJZR3dvSVpMNjJDMlM0ODRnYjREaDBQWmRkdkRZalZXbWZma2xMamtNa25qUXFhc2FkVS14VU9lSDVsenRxNzg0ZFpWVVl4V1RaS1FmWU1MQ1k3Sk9CVnNpeE1CTENRdGxCQVhmVTFnOFBXLUhMTFpBZTdza3BHNE94ZE1TaFFidXlWN3N0VkhDQXlEZGk4VWZ1d2dTRHJ1cVpvZ3lMTUQyYVoydw?oc=5)
 
 ---
 

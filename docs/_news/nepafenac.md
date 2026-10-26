@@ -14,7 +14,7 @@ permalink: /news/nepafenac/
 ---
 
 <p class="key-answer" data-question="What news is there about Nepafenac?">
-<strong>Nepafenac</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Nepafenac</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 <p><a href="{{ '/drugs/nepafenac/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Researchers Urge Adding Dry Eye Treatment to Menopause Care](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
+
+2026-10-26 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">eye disease</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
+
+---
 
 
 <div class="disclaimer">

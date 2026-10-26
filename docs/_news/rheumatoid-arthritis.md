@@ -3,7 +3,7 @@ layout: default
 title: "RA (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (rheumatoid arthritis). 2 articles, 21 related drugs."
+description: "Health news about RA (rheumatoid arthritis). 1 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (rheumatoid arthritis)?">
-<strong>RA (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
+<strong>RA (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,15 +49,7 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (2)
-
-### [What is optogenetics? The Nobel-winning science explained - Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
-
-2026-10-26
-
-Source: [Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
-
----
+## Related News (1)
 
 ### [AMR Linked to $3.5 Trillion in Global Losses: IDWeek 2026](https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2hGUFU3Y1M2cldldDEwMTNnQ3c1aVgyVzZDMEQ5bncxdTdHREcxYk5qMUhLWEktNmhMS2V1Wkc4VWY3Sl92MnowNk9fVlV3UlV3dk00SV9CRzFER251T2hPY1hOUE40S3lZR0pXdWpZLXpCREg2RTVNQnJxQ1ZqcXB2SkIyR3F1TWRqalJLNFZSMHlWMzVjNzBLYzJrWjFmSDBnMF9PT0pBRFBValdmYUdUZVVPLWtTWkQ5U3RR?oc=5)
 
