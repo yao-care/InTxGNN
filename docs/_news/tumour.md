@@ -3,7 +3,7 @@ layout: default
 title: "tumour News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumour. 1 articles, 228 related drugs."
+description: "Health news about tumour. 2 articles, 228 related drugs."
 permalink: /news/tumour/
 last_modified_at: 2026-10-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about tumour?">
-<strong>tumour</strong> currently has <strong>1 news articles</strong> and 228 related drugs.
+<strong>tumour</strong> currently has <strong>2 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -239,13 +239,21 @@ This page brings together the latest health news about “tumour” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [UCL scientists design symbolic AI digital twins to treat cancer](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
+### [Symbolic AI-driven "Digital Twins" predict personalised cancer treatments - Open Access Government](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVk5XY09JVUdScVJ4djJJUGNaa3pDd0c5SVY3d2VBWWdOcWgwTnZIcnpCUlYtYkpXY3ZVMm1KQXoxOTFYSHRraHNHdjZ1X21LSF9PckgyV1hLRmpjTGF3OFVlU1RCSzNQQW5hRGVjdGVsME9HQy1CWGE4TkZDMURSTFFOREo3VDZNdHMtZGxhZjNidVdSMzVVLTlFMG5CMjFVZjV6SV90amFMOURxaGVIMFcweXVhTmM?oc=5)
 
-2026-10-26
+2026-10-27
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
+Source: [Open Access Government](https://news.google.com/rss/articles/CBMitwFBVV95cUxQVk5XY09JVUdScVJ4djJJUGNaa3pDd0c5SVY3d2VBWWdOcWgwTnZIcnpCUlYtYkpXY3ZVMm1KQXoxOTFYSHRraHNHdjZ1X21LSF9PckgyV1hLRmpjTGF3OFVlU1RCSzNQQW5hRGVjdGVsME9HQy1CWGE4TkZDMURSTFFOREo3VDZNdHMtZGxhZjNidVdSMzVVLTlFMG5CMjFVZjV6SV90amFMOURxaGVIMFcweXVhTmM?oc=5)
+
+---
+
+### [Researchers harness cancer cells' carbon monoxide to produce anticancer drug](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZldVaEoyNFNQRVVyRGwxVnRPd19mdVVjLVRpSjk5YzQxMzVtdGhYMGx3NWlBYzlvZVR5U2l1MmdiSE5xTFluZ0J1MTJBaXVSN2dRbFlZLVk2WDdDX01xLTNmREl2SEhNUW5tWFk5cWdzbDh3eFlhWWlPbGY0Z0ppdF9zVy01cUplV25wRnFzX255a0ZTTThHS0ZqZ1FmQXVoUkZSRjhIVHpqbWVzRnpPckZqLVhBMGxGNTh5LWpReE8?oc=5)
+
+2026-10-23
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZldVaEoyNFNQRVVyRGwxVnRPd19mdVVjLVRpSjk5YzQxMzVtdGhYMGx3NWlBYzlvZVR5U2l1MmdiSE5xTFluZ0J1MTJBaXVSN2dRbFlZLVk2WDdDX01xLTNmREl2SEhNUW5tWFk5cWdzbDh3eFlhWWlPbGY0Z0ppdF9zVy01cUplV25wRnFzX255a0ZTTThHS0ZqZ1FmQXVoUkZSRjhIVHpqbWVzRnpPckZqLVhBMGxGNTh5LWpReE8?oc=5)
 
 ---
 

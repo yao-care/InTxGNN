@@ -39,11 +39,11 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (4)
 
-### [Additional education protects people with high genetic risk of dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
+### [Column | At 80, he’s a top dementia expert. Here’s how he keeps his brain healthy. - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
 
-2026-10-26
+2026-10-27
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
 
 ---
 

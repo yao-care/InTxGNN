@@ -38,19 +38,19 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (6)
 
+### [Column | At 80, he’s a top dementia expert. Here’s how he keeps his brain healthy. - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
+
+---
+
 ### [Proteins linked to Alzheimer's found to assist sperm cells](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVE0OXg3YUFqSjRlcG5QYVhnMW12aUg1QnpfMWlPRzkydEF2b0hOMjlGa1ZacVhieFVuUXZ5ajk5ZGNqY2RfT2xiTnctUzJvWkVIM1NHNjI5MXZqdlBULVhqRFlVRDVkazk4c1hpeUtjSTEyMlJCUDY1Ml82bEw0Znp3ODY1bGJoaF9xdmdvUXVYNFBIaXQ1dkFRaHlPek5Sc2Y2bWZ3YTY?oc=5)
 
 2026-10-26 <span class="news-indication-tag">alzheimer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVE0OXg3YUFqSjRlcG5QYVhnMW12aUg1QnpfMWlPRzkydEF2b0hOMjlGa1ZacVhieFVuUXZ5ajk5ZGNqY2RfT2xiTnctUzJvWkVIM1NHNjI5MXZqdlBULVhqRFlVRDVkazk4c1hpeUtjSTEyMlJCUDY1Ml82bEw0Znp3ODY1bGJoaF9xdmdvUXVYNFBIaXQ1dkFRaHlPek5Sc2Y2bWZ3YTY?oc=5)
-
----
-
-### [Additional education protects people with high genetic risk of dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
-
-2026-10-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
 
 ---
 
@@ -78,11 +78,11 @@ Source: [Ophthalmology Advisor](https://news.google.com/rss/articles/CBMisAFBVV9
 
 ---
 
-### [Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more - The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
+### [Machine Learning Shows Promise for Alzheimer’s Classification](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlJ1RkExQ2MyZHdZRUs2YTF4Ul9GT2tjZGxJeWNJN3pMWnIxSGdpMm1yWjRyeVNDTmxYVGxNd3pmRjNfZlZOMHJvLW1OYTFCb2xoaGdUUThnYjd1TXRHVExsZjNFUTl4S1k2VkxESDVLZWpwX3E0YkFEQmFobzJVem5nWUNSRTQzdnhqQkktcUJLVHQzQ3dIODBqcmtnYXJ2Q2c1QUdR?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span>
+2026-10-23 <span class="news-indication-tag">alzheimer</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlJ1RkExQ2MyZHdZRUs2YTF4Ul9GT2tjZGxJeWNJN3pMWnIxSGdpMm1yWjRyeVNDTmxYVGxNd3pmRjNfZlZOMHJvLW1OYTFCb2xoaGdUUThnYjd1TXRHVExsZjNFUTl4S1k2VkxESDVLZWpwX3E0YkFEQmFobzJVem5nWUNSRTQzdnhqQkktcUJLVHQzQ3dIODBqcmtnYXJ2Q2c1QUdR?oc=5)
 
 ---
 
