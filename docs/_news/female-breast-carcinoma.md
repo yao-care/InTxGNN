@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-10-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>5 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Impact of Digital Breast Tomosynthesis on Invasive Interval Breast Cancer Rate - The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
 
@@ -69,14 +69,6 @@ Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZB
 2026-10-26
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
-
----
-
-### [​Can breast cancer be treated safely without chemotherapy? 7 things we know so far about the new gene test​ - The Times of India](https://news.google.com/rss/articles/CBMijgJBVV95cUxPVnA1UGFrVy13YjhNbWl6d0xqeUZSYlA0XzI3Q0FibXlGZUx6Ry1Oci1nblJhYk9IRkpFa0FzS0JjU1ZHUUhSblJtanJ6eEQtanBSZ0Z3T1dZbFRJUGFxRHhlampWdC0xb0MwTzNXVkg5bkhNSnlvMEZ4RERkY1lySEhMbjlKU1FydXlheGNfemFWTFgzVE5LanN1bjFCdHJkTDJSTEc2R2FaaTd1WWZwWkpsU09OY3ZPaTQ0d2loSTJJbU8zQUdIdDRGU29CZmo4WllpZmliNFM3dWNIdW1pYTNSRklWVGxna2ZScGJyUjU5VG5seUxyNEVqZHNjbHJFWDk3dGVwZGlqaXJKaHfSAZYCQVVfeXFMT2V5aDlpcU94S0hndXlES0ZfVnM1MHFoRVhOSkpJUlNlczV4WlBGTWJ2cTVMcTlFWWVkbkVLTGpCTWJJeDgxTmtCemhiMnNJRk8tUmlUa1NTTmtnUWVKQklWRTZUX2F3VVZmT1pHMDNNbGYxeWMyRVQ3WTNZbmxySU9icWVGU2dXaWc2SXk2cVZhSE9XakhJc1ctajhBal9JRTh4LWdPdU5meHFwQ1FJajd5OExYblluaEVlOWE5N0t4YllOSUZDenpDc1VuZUhmeHBYWFYzcFpyMHpGaGlGcnl5UWcwd2JKUmViNUNWelVWdEFxMVR2QnZxMTBJbjVIUHdtd1Z2VURRZkpBVGRuTVhkdE11UVE?oc=5)
-
-2026-10-26
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMijgJBVV95cUxPVnA1UGFrVy13YjhNbWl6d0xqeUZSYlA0XzI3Q0FibXlGZUx6Ry1Oci1nblJhYk9IRkpFa0FzS0JjU1ZHUUhSblJtanJ6eEQtanBSZ0Z3T1dZbFRJUGFxRHhlampWdC0xb0MwTzNXVkg5bkhNSnlvMEZ4RERkY1lySEhMbjlKU1FydXlheGNfemFWTFgzVE5LanN1bjFCdHJkTDJSTEc2R2FaaTd1WWZwWkpsU09OY3ZPaTQ0d2loSTJJbU8zQUdIdDRGU29CZmo4WllpZmliNFM3dWNIdW1pYTNSRklWVGxna2ZScGJyUjU5VG5seUxyNEVqZHNjbHJFWDk3dGVwZGlqaXJKaHfSAZYCQVVfeXFMT2V5aDlpcU94S0hndXlES0ZfVnM1MHFoRVhOSkpJUlNlczV4WlBGTWJ2cTVMcTlFWWVkbkVLTGpCTWJJeDgxTmtCemhiMnNJRk8tUmlUa1NTTmtnUWVKQklWRTZUX2F3VVZmT1pHMDNNbGYxeWMyRVQ3WTNZbmxySU9icWVGU2dXaWc2SXk2cVZhSE9XakhJc1ctajhBal9JRTh4LWdPdU5meHFwQ1FJajd5OExYblluaEVlOWE5N0t4YllOSUZDenpDc1VuZUhmeHBYWFYzcFpyMHpGaGlGcnl5UWcwd2JKUmViNUNWelVWdEFxMVR2QnZxMTBJbjVIUHdtd1Z2VURRZkpBVGRuTVhkdE11UVE?oc=5)
 
 ---
 

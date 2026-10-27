@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Europe Builds a Network to Bring AI Into Heart Care](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
+
+---
+
+### [Abnormal Postpartum BP Linked to Higher Long-Term CVD Risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
 
 ---
 
