@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 12 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 14 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>12 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>14 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -238,7 +238,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Tomosynthesis detects breast cancer more frequently during screening - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+2026-10-27
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+---
+
+### [Scientists discover hidden weaknesses in microtubules stabilized by a cancer drug - Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
+
+2026-10-27
+
+Source: [Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
+
+---
 
 ### [Silent bacterial genes yield potential leads for future cancer drugs](https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSjBoWnpCZGxUVHNoQURXd0NkNHh4bzZWOXZHa2c2Q1VOeGNTM01Od0hXemV4RjExS0ppWk9reUw1UDdrckpjaFB3bldyZ2VMR2w0XzNjN0R2am9uWHFNQVRyejVlZjdxZFV0NWRWd2s3Q0UySU5TTzhYQVVIUQ?oc=5)
 
@@ -253,14 +269,6 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMifkFVX3lxTFBwSjBoWnpC
 2026-10-26
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJSTTh0djRVQjBxNjFiMTlGSXBqQVYxVDAxTTM2dWRTV09CRlNGN1pOYll3R3lGVkVaV09nU0FCdGg2Um5TZThaSjV6WUtaRTJwQ3FweU5qcW9VdW5CTnpIeEJJRWw1aTVuQ28zanRGZUVxTkQyd0RETkQ2cG85eWxFY2kybmkxZVNhRm1qbmx5UXFpYWQ0R2lGcWcwRkRPQnEzWk5CNG5QMVB4LWF5QQ?oc=5)
-
----
-
-### [Friends play a direct role in encouraging regular cancer screening](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTBPS0RNQkpiemdqeW4xNl91MUdHa2E4TTl5TlhTZDdhclZsQWpiVHphNjJBam1qdHptZDJocUU5X1htWmI3M1FtT3lQYzhzbXlOdHhDd0NQdHY5c2VOOWs4ZG82RXB2WTI0WE5Gd2JQcWwyTlVNYkxyZlFRN2VUckVNNVR5VExreWZpTlQ0WGtXcGpNd2piekppQ0thUHJQSWdlMFZ1aTZabENreUFnNnRiOXM?oc=5)
-
-2026-10-26
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTBPS0RNQkpiemdqeW4xNl91MUdHa2E4TTl5TlhTZDdhclZsQWpiVHphNjJBam1qdHptZDJocUU5X1htWmI3M1FtT3lQYzhzbXlOdHhDd0NQdHY5c2VOOWs4ZG82RXB2WTI0WE5Gd2JQcWwyTlVNYkxyZlFRN2VUckVNNVR5VExreWZpTlQ0WGtXcGpNd2piekppQ0thUHJQSWdlMFZ1aTZabENreUFnNnRiOXM?oc=5)
 
 ---
 
@@ -325,6 +333,14 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1
 2026-10-25
 
 Source: [NewsBytes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGlyUTVZTmJKYmVWMmNZUnZJcFpTTGxDdG40UXAzTEVFRGNjSnVyU21SVXJKaVJldzhITDNWS2NWcjh5aUtYSjF0eENkSXBPZ20zNm05TGNRSjh0QlhIV3dXRUR1Y05ESGxOM1NKaF9wRWpxdkNXdm9ld1N3MERRaDBtX3RkbEJBazBOOS1JSGI5VXJyOVVhWEtOdGlYVVhJczB2NDlyUmpTZjg2X0tRYUE0TEpLckFOV3Nv?oc=5)
+
+---
+
+### [Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more - The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
+
+2026-10-25
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
 
 ---
 

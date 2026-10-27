@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="What news is there about Isosorbide Dinitrate?">
-<strong>Isosorbide Dinitrate</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Isosorbide Dinitrate</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,7 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Stay Tuned for Pulmonary Hypertension-ILD Screening Tool](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTElpYVZETURHbHJ2MExTY29venV5dGo5REExQy14cXcwRF9CczNFVWlvV3FwT0dnWkk4YVpQVzUxcDV0RU9PVWNkdFlPR0tIVGRwUnZNbkVER25xQmEtWElQZjZCcXRpMnFfRzdKZ3V4T005RzduUldhcV9yRlh3TWJ6VjF0TG9pQmdZUzR6RURLREJ3NGJYcDdzZzJ2Mm5YdndlNw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">pulmonary hypertension</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTElpYVZETURHbHJ2MExTY29venV5dGo5REExQy14cXcwRF9CczNFVWlvV3FwT0dnWkk4YVpQVzUxcDV0RU9PVWNkdFlPR0tIVGRwUnZNbkVER25xQmEtWElQZjZCcXRpMnFfRzdKZ3V4T005RzduUldhcV9yRlh3TWJ6VjF0TG9pQmdZUzR6RURLREJ3NGJYcDdzZzJ2Mm5YdndlNw?oc=5)
-
----
+## Related News (2)
 
 ### [Most people globally face 'high genetic risk' for three common diseases: Study - The Hindu](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1NSY3ViekM4T05VQnYyeWtaWHpndFEyMTRjZ2pMYVJlcmVXcE5BRzA3Y3YyeVVRcFJoMjBwR0Q2bV9td1hfMjd5aTVtWUgtVVllc1piNU94NUdPQWNoLUxsaUtYTC1kOUZDdlUxVEVFcG1Hb1BLSTRnM2wzdW9FTEZnNkc4bVlWaVo5M2xKelRGMTI1U0VRaVotbHl4cHhmZ0V2QUJTY3ZOZUgzYlhzMk1ReEplMzRST1pwRFBNNUtfWXhGTE1YLVNCTmMyOGJxTEHSAdgBQVVfeXFMTnNPN3kxY2h3b290anVkOUg1anY1TlhISm9McGVWTkFRZmw1QkZLNTFrNlNIWFpEcVNjOWFvOV9fc2pTbEZCT2loOGwxREhOT0YxZDY0UlZMS2hSdmZqYndDUWI5elpCa052Y0JkNXJhWXJhWTdXQmVtOE1KbnFRVjNQdXFpVUNNdEtZdnprYl95ZjZHWlg1aDZsYXdnaUNfbFQ2VlRqUnY4bkQ2T0ZFbVVYcThHUVB4Mkt2eVZWX1o4TzN0N1JPOUtrME83aTVfYVlUV01Lczlh?oc=5)
 

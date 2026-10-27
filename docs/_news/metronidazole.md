@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [I had no idea I had an increased risk of developing osteoporosis until I tried this free quiz—here’s how to check your bone health](https://news.google.com/rss/articles/CBMibEFVX3lxTE5jUnE2Q0RScU1ENHhRNlFPQzNkbV9aMTh0UVZsRzdDZFVEVkdoMTlpYVBnU2NQckNRU1hNd1BjWnZhZ1RwTi1ieGN4em5DVXMwRm5kd2MtS1dGTWlEN0NENUpHY1VWUmp0OU1YRw?oc=5)
+
+2026-10-25 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Fit&Well](https://news.google.com/rss/articles/CBMibEFVX3lxTE5jUnE2Q0RScU1ENHhRNlFPQzNkbV9aMTh0UVZsRzdDZFVEVkdoMTlpYVBnU2NQckNRU1hNd1BjWnZhZ1RwTi1ieGN4em5DVXMwRm5kd2MtS1dGTWlEN0NENUpHY1VWUmp0OU1YRw?oc=5)
+
+---
 
 
 <div class="disclaimer">
