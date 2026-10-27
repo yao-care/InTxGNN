@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 14 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 18 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>14 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>18 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -238,7 +238,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (14)
+## Related News (18)
+
+### [The Surprising Clues BMI May Miss in Head and Neck Cancer](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTVTUzQ4X0VGYWpWLS1WamVYVHdPT05NSEVpMEUtZXZwX0dndGxMZjNmdkdKTWNjSGk2dVg5cnhwaktkamVCY2txWWx2eHdRSk1zS2JOU19GdDM0amxac3RVWXRpS1VTWmxjblVqclRpb204NDUxWUJfdjR3TjdkNDNndlA5VnV5QXp4QTJJdFY2eXJ5NE9DazNvdGx3Z0pHdUE?oc=5)
+
+2026-10-27
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQTVTUzQ4X0VGYWpWLS1WamVYVHdPT05NSEVpMEUtZXZwX0dndGxMZjNmdkdKTWNjSGk2dVg5cnhwaktkamVCY2txWWx2eHdRSk1zS2JOU19GdDM0amxac3RVWXRpS1VTWmxjblVqclRpb204NDUxWUJfdjR3TjdkNDNndlA5VnV5QXp4QTJJdFY2eXJ5NE9DazNvdGx3Z0pHdUE?oc=5)
+
+---
 
 ### [Tomosynthesis detects breast cancer more frequently during screening - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
 
@@ -253,6 +261,14 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3
 2026-10-27
 
 Source: [Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
+
+---
+
+### [Diagnosis and Treatment of Cervical Cancer - Medscape Reference: Drugs, Diseases & Medical Procedures](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXVBVXBhX1Z6dXllUUYycEozbm1vbWp0WHdrdkJzX1F4cENSX1I3eUJPWlpZZU9pb1NWTnhGOGZlMXdXeC03VTAxU1NpOTBMVjdudVVTWDZhSHRsd0l5c2JDQ3N2YmxobklhZ0VSYXZlUFBWTER3c2lrRWljWUVJQTVucV9qc3VOcHFXRXRPdTJpZC1reVBJ?oc=5)
+
+2026-10-26
+
+Source: [Medscape Reference: Drugs, Diseases & Medical Procedures](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXVBVXBhX1Z6dXllUUYycEozbm1vbWp0WHdrdkJzX1F4cENSX1I3eUJPWlpZZU9pb1NWTnhGOGZlMXdXeC03VTAxU1NpOTBMVjdudVVTWDZhSHRsd0l5c2JDQ3N2YmxobklhZ0VSYXZlUFBWTER3c2lrRWljWUVJQTVucV9qc3VOcHFXRXRPdTJpZC1reVBJ?oc=5)
 
 ---
 
@@ -280,19 +296,27 @@ Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZB
 
 ---
 
-### [Black patients can face longer breast cancer care delays, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+### [Black patients and people with learning disability face longer breast cancer care delays](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
 
 2026-10-26
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
 
 ---
 
-### [AI can boost early detection of tuberculosis and lung cancer, says Dr Randeep Guleria - Medical Dialogues](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTJfTDhhY2dJSmlTMWZUWDlmQktQbnExOVlNNHotT0lEWTdqM0k3cXJYMW11LVlLN3h6UGd5UXVOTENwVXIzRnpkZFdFRHpaY09WMVFmeF9XajZVb2xJeUMxRG5TTU5BUG1rVjlIUHJYdG5EaFF4WjZCd3dFZHBfQ085LTFVbjEwaW1vbjVkVy1yQXZ2bHlNTFFud2YzUVlFR1VjWE52Q0hqcXdEb1Q5TkEwTjZlZUxCV2JqbU1xNDhNSk5MTHNIZmQtZ9IB0AFBVV95cUxQeEdGQ3pmYmFCM2ZkOG1IY3FGemp6RFEwNXdKTDQtbHpaNEhSQjVkdDc5Sk1xdmpCc25fTVZuc2ljTTROWGNMcU9jaW1oTjhSQkFRUUJDdm52UmZTRW1pNFBsbjBYZTI5RUNjVm9ybnAyNzBLSGdWajdMVkRhNFdEbmhzb2R3Z3M0ZWxtUGtIVE9YWE1jTkdGQTJHQWZ1c2ZYdGxRVHZ2UE9sdUlRMEg5REg1RUdqSFlFcGh4ei1ydTZjT0tqS0lSVGNFZUlmUFVS?oc=5)
+### [Tumor Budding in Invasive Breast Carcinoma: Association With Histopathological Features and Hormone Receptor Status](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3BCRVNidzg1X2l5dVRPNnVTWjFGMHRoZHhsdzJNZjFmWExiSFIwcS1yc3A5bmxpTXpTM2dNZGR0Y2htc2dZSjJjd3REckNIcF9wYTEyaU5TbVVlZXZRSXRxZ1pQNENyc0lvQzdRNW02Y2JOS1A5VVZlNXBpRkhaSkM5Sl9fRjJFZi1FdmZVUEh6cnVfLVM1MDlnbFFmY041M0lsOXJtSU9DYlNCMmExNzRxRmdoWW1YaDBWeWdNSFNYem44VURZelV6OUhsZXhDTWozNktQblNFU1lDRk9HZjA0UTBvNzlE?oc=5)
 
 2026-10-26
 
-Source: [Medical Dialogues](https://news.google.com/rss/articles/CBMiywFBVV95cUxPbTJfTDhhY2dJSmlTMWZUWDlmQktQbnExOVlNNHotT0lEWTdqM0k3cXJYMW11LVlLN3h6UGd5UXVOTENwVXIzRnpkZFdFRHpaY09WMVFmeF9XajZVb2xJeUMxRG5TTU5BUG1rVjlIUHJYdG5EaFF4WjZCd3dFZHBfQ085LTFVbjEwaW1vbjVkVy1yQXZ2bHlNTFFud2YzUVlFR1VjWE52Q0hqcXdEb1Q5TkEwTjZlZUxCV2JqbU1xNDhNSk5MTHNIZmQtZ9IB0AFBVV95cUxQeEdGQ3pmYmFCM2ZkOG1IY3FGemp6RFEwNXdKTDQtbHpaNEhSQjVkdDc5Sk1xdmpCc25fTVZuc2ljTTROWGNMcU9jaW1oTjhSQkFRUUJDdm52UmZTRW1pNFBsbjBYZTI5RUNjVm9ybnAyNzBLSGdWajdMVkRhNFdEbmhzb2R3Z3M0ZWxtUGtIVE9YWE1jTkdGQTJHQWZ1c2ZYdGxRVHZ2UE9sdUlRMEg5REg1RUdqSFlFcGh4ei1ydTZjT0tqS0lSVGNFZUlmUFVS?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3BCRVNidzg1X2l5dVRPNnVTWjFGMHRoZHhsdzJNZjFmWExiSFIwcS1yc3A5bmxpTXpTM2dNZGR0Y2htc2dZSjJjd3REckNIcF9wYTEyaU5TbVVlZXZRSXRxZ1pQNENyc0lvQzdRNW02Y2JOS1A5VVZlNXBpRkhaSkM5Sl9fRjJFZi1FdmZVUEh6cnVfLVM1MDlnbFFmY041M0lsOXJtSU9DYlNCMmExNzRxRmdoWW1YaDBWeWdNSFNYem44VURZelV6OUhsZXhDTWozNktQblNFU1lDRk9HZjA0UTBvNzlE?oc=5)
+
+---
+
+### [Cancer Findings Support Calls for Improved LP Care](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
+
+2026-10-26
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
 
 ---
 
@@ -333,6 +357,14 @@ Source: [Oncodaily](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jTElIYW1
 2026-10-25
 
 Source: [NewsBytes](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGlyUTVZTmJKYmVWMmNZUnZJcFpTTGxDdG40UXAzTEVFRGNjSnVyU21SVXJKaVJldzhITDNWS2NWcjh5aUtYSjF0eENkSXBPZ20zNm05TGNRSjh0QlhIV3dXRUR1Y05ESGxOM1NKaF9wRWpxdkNXdm9ld1N3MERRaDBtX3RkbEJBazBOOS1JSGI5VXJyOVVhWEtOdGlYVVhJczB2NDlyUmpTZjg2X0tRYUE0TEpLckFOV3Nv?oc=5)
+
+---
+
+### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
+
+2026-10-25
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 
 ---
 

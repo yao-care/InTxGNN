@@ -14,7 +14,7 @@ permalink: /news/ripasudil/
 ---
 
 <p class="key-answer" data-question="What news is there about Ripasudil?">
-<strong>Ripasudil</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
+<strong>Ripasudil</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ This page combines the AI-predicted indications for Ripasudil with the latest he
 <p><a href="{{ '/drugs/ripasudil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (0)
+## Related News (1)
 
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
+### [Individualized Antiplatelet Therapy in a Patient With Stanford Type A Aortic Dissection and Thrombocytopenia Following Transcatheter Aortic Valve Replacement: A Case Report](https://news.google.com/rss/articles/CBMitAJBVV95cUxPa3BTNFAtVjhCM0FsamtDOW9CSFE2TnJUYXlsZTQ2emliTkVUQ1h0Zl9zME9fcTYzTDVpYXZ2RU1jQXIyWkRSZEZPeWNjcXlkVHhqUnpvckNnWUN6bW1jdXpwbFVQeFhwZzdkWDJSZ0FCcWhCc1ZKSGd6RU9qamFpeVFhd0FfWEpVUFVsOWNGTUZXa2xNMjB1RXFqanR1NjRpMlJyelMxbXJIcFE3a3ljcnNMamp6NW5BRWVmQW8xVkIydmhVT3pveERtTHlhSFpNNlNBbE1hWHFYRXJfQU1WVVlhX0tQTGlfcGdCX0lISkFVRWpjMFNfb24zakFqbjFOMmFYT3hUMndzS1pYd0dqZnlRQmY1YzE5MjdBVnY1em5VVkJjdk1ueXlyajlGRzA1ejl5Qw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">Thrombocytopenia</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMitAJBVV95cUxPa3BTNFAtVjhCM0FsamtDOW9CSFE2TnJUYXlsZTQ2emliTkVUQ1h0Zl9zME9fcTYzTDVpYXZ2RU1jQXIyWkRSZEZPeWNjcXlkVHhqUnpvckNnWUN6bW1jdXpwbFVQeFhwZzdkWDJSZ0FCcWhCc1ZKSGd6RU9qamFpeVFhd0FfWEpVUFVsOWNGTUZXa2xNMjB1RXFqanR1NjRpMlJyelMxbXJIcFE3a3ljcnNMamp6NW5BRWVmQW8xVkIydmhVT3pveERtTHlhSFpNNlNBbE1hWHFYRXJfQU1WVVlhX0tQTGlfcGdCX0lISkFVRWpjMFNfb24zakFqbjFOMmFYT3hUMndzS1pYd0dqZnlRQmY1YzE5MjdBVnY1em5VVkJjdk1ueXlyajlGRzA1ejl5Qw?oc=5)
+
+---
 
 
 <div class="disclaimer">

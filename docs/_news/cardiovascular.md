@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -57,7 +57,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Most people globally face 'high genetic risk' for three common diseases: Study - The Hindu](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1NSY3ViekM4T05VQnYyeWtaWHpndFEyMTRjZ2pMYVJlcmVXcE5BRzA3Y3YyeVVRcFJoMjBwR0Q2bV9td1hfMjd5aTVtWUgtVVllc1piNU94NUdPQWNoLUxsaUtYTC1kOUZDdlUxVEVFcG1Hb1BLSTRnM2wzdW9FTEZnNkc4bVlWaVo5M2xKelRGMTI1U0VRaVotbHl4cHhmZ0V2QUJTY3ZOZUgzYlhzMk1ReEplMzRST1pwRFBNNUtfWXhGTE1YLVNCTmMyOGJxTEHSAdgBQVVfeXFMTnNPN3kxY2h3b290anVkOUg1anY1TlhISm9McGVWTkFRZmw1QkZLNTFrNlNIWFpEcVNjOWFvOV9fc2pTbEZCT2loOGwxREhOT0YxZDY0UlZMS2hSdmZqYndDUWI5elpCa052Y0JkNXJhWXJhWTdXQmVtOE1KbnFRVjNQdXFpVUNNdEtZdnprYl95ZjZHWlg1aDZsYXdnaUNfbFQ2VlRqUnY4bkQ2T0ZFbVVYcThHUVB4Mkt2eVZWX1o4TzN0N1JPOUtrME83aTVfYVlUV01Lczlh?oc=5)
 
@@ -72,6 +72,14 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1NSY3V
 2026-10-25
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
+
+---
+
+### [Artificial Intelligence Advances Precision Cardiovascular Care](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkw2NXBNckc2VlJvR2ZBc3NIVkZZbDFESkFFUXJvOUJseEI5UGMxNlNTLUtNRjhOcmFfaGw0ZVowR2plZ2pWWUFrU2xuZGEzX1g3SEdrUzZkd00xV09ZdENtTG1HRU9RTjJaLUU1SVpIWjNTLUtfVVFlWXF5UFBlUS1Ub09DeWQ5WnJVTGVqZTZ4dTlRMFp3dW1JRnNNQjk3dzJHYTJGV09Wdw?oc=5)
+
+2026-10-23
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkw2NXBNckc2VlJvR2ZBc3NIVkZZbDFESkFFUXJvOUJseEI5UGMxNlNTLUtNRjhOcmFfaGw0ZVowR2plZ2pWWUFrU2xuZGEzX1g3SEdrUzZkd00xV09ZdENtTG1HRU9RTjJaLUU1SVpIWjNTLUtfVVFlWXF5UFBlUS1Ub09DeWQ5WnJVTGVqZTZ4dTlRMFp3dW1JRnNNQjk3dzJHYTJGV09Wdw?oc=5)
 
 ---
 

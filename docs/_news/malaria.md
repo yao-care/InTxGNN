@@ -3,7 +3,7 @@ layout: default
 title: "malaria News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria. 1 articles, 2 related drugs."
+description: "Health news about malaria. 2 articles, 2 related drugs."
 permalink: /news/malaria/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/malaria/
 ---
 
 <p class="key-answer" data-question="What news is there about malaria?">
-<strong>malaria</strong> currently has <strong>1 news articles</strong> and 2 related drugs.
+<strong>malaria</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Malaria Strikes Beyond the Blood: Acute Hepatic Failure and Multiorgan Dysfunction Syndrome Caused by Plasmodium falciparum Infection](https://news.google.com/rss/articles/CBMigAJBVV95cUxPNndrQVl1cC1USy1FU2ZXeWFwZFdGWVgyd1FaV0N2T3FsalY2Ukk0MlVDamxlaURhTEdzeVFJLTRXT1VwTjluQ25ERkRXWFZwQnpTWHBwQks2WkktbDZnVnlseUlrczZZZnJUeXRaY3NNdlctcktqSDN6X1pzQnJDdndxTlRSbV9UNmRHZWxJYmdnNTJrWnRuSW5lVHZ0enlJTS1oVE9LUDlOYks1WE84Um9FOXZsTkRYUkYyS0F2OVBIZmk4RlhQVHVFSmMweWhWVFNlTjNKdmJhVjhzd0RGNVdWOXpCOE5MdUVNNjFtZkpscXlUeUxuLWhLb0dkMVd1?oc=5)
+
+2026-10-27
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMigAJBVV95cUxPNndrQVl1cC1USy1FU2ZXeWFwZFdGWVgyd1FaV0N2T3FsalY2Ukk0MlVDamxlaURhTEdzeVFJLTRXT1VwTjluQ25ERkRXWFZwQnpTWHBwQks2WkktbDZnVnlseUlrczZZZnJUeXRaY3NNdlctcktqSDN6X1pzQnJDdndxTlRSbV9UNmRHZWxJYmdnNTJrWnRuSW5lVHZ0enlJTS1oVE9LUDlOYks1WE84Um9FOXZsTkRYUkYyS0F2OVBIZmk4RlhQVHVFSmMweWhWVFNlTjNKdmJhVjhzd0RGNVdWOXpCOE5MdUVNNjFtZkpscXlUeUxuLWhLb0dkMVd1?oc=5)
+
+---
 
 ### [Malaria vaccine price cut to protect 1 million more children - India Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHJ4dms4U2w4R1pKUUJHbThJVUptb0R3ZXp1V09nb1hTbHpBem85YTdyakNfb29RWlpjbVJnR3RoVExuNnV5UlBFT0FhWDlsSHUzd2JaTUF0SzljQWVyS1VOVjFBM2lHUmM5T1JrT3VSS3RfZzFBQnFjNllMRTlqWUlIMTktRXdNS2hzWnl6MnVXVEpaTzM0Rk5ZcTZ0WjBacklTdGg5VEwzd3VIMzlF0gG0AUFVX3lxTE9iUnR4Smc5SndEUW9VVU9LcWxfUjFUSXhnNm9EWS1oRVRZVVV3a2pOYWE2SFI0OWY3VTFJb3hRdGhkQXJXY3lsNG1GYUVoQmtJcUlLWWgwNDBQUmNXWGFaN3ZDb01yZVowbEF3cFFHdkdjWjJWenRpRmtZY1pDWkdhVm51UXRUUUlMeTB4NkdvSTJHSGdTLU94dzNYR19BenZSYkFKYWVuY0lyRUVmOFNGeWJOUQ?oc=5)
 

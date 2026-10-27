@@ -14,7 +14,7 @@ permalink: /news/entacapone/
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 4 predicted indications.
+<strong>Entacapone</strong> currently has <strong>6 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Proteins linked to Alzheimer's found to assist sperm cells](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVE0OXg3YUFqSjRlcG5QYVhnMW12aUg1QnpfMWlPRzkydEF2b0hOMjlGa1ZacVhieFVuUXZ5ajk5ZGNqY2RfT2xiTnctUzJvWkVIM1NHNjI5MXZqdlBULVhqRFlVRDVkazk4c1hpeUtjSTEyMlJCUDY1Ml82bEw0Znp3ODY1bGJoaF9xdmdvUXVYNFBIaXQ1dkFRaHlPek5Sc2Y2bWZ3YTY?oc=5)
+
+2026-10-26 <span class="news-indication-tag">alzheimer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVE0OXg3YUFqSjRlcG5QYVhnMW12aUg1QnpfMWlPRzkydEF2b0hOMjlGa1ZacVhieFVuUXZ5ajk5ZGNqY2RfT2xiTnctUzJvWkVIM1NHNjI5MXZqdlBULVhqRFlVRDVkazk4c1hpeUtjSTEyMlJCUDY1Ml82bEw0Znp3ODY1bGJoaF9xdmdvUXVYNFBIaXQ1dkFRaHlPek5Sc2Y2bWZ3YTY?oc=5)
+
+---
 
 ### [Additional education protects people with high genetic risk of dementia](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0s5c2JzZTlWUHlUcGhvRHNDN2t2ckU2RWp5MndpSURNeFN5Vy1NWWpDQVNsdkU5N1pHR3pNMm1UZWczVl8xY3UyNC1iTFVlUHl0SGhqbGpvbTNqWnk3Y0hJN0tMbUFaNmltVDM5LS15T1lxSTNoRnlrSTF6STJ1N1ltTFpDNS1Hc0d0UjV4aFBqR2tyaGFVTDRhdzNpaW9HX045MzVuNDNNOE5KU3h5X3JKOHY5RVRRR1VF?oc=5)
 
@@ -66,6 +74,14 @@ Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYz
 2026-10-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [Ophthalmology Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhmQUJZR3dvSVpMNjJDMlM0ODRnYjREaDBQWmRkdkRZalZXbWZma2xMamtNa25qUXFhc2FkVS14VU9lSDVsenRxNzg0ZFpWVVl4V1RaS1FmWU1MQ1k3Sk9CVnNpeE1CTENRdGxCQVhmVTFnOFBXLUhMTFpBZTdza3BHNE94ZE1TaFFidXlWN3N0VkhDQXlEZGk4VWZ1d2dTRHJ1cVpvZ3lMTUQyYVoydw?oc=5)
+
+---
+
+### [Health Wrap Episode 56 discusses early-onset Alzheimer’s, cancer research paper mills and more - The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
+
+2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkM5alhHdldhRGpRZTM0NDYtamJHT1d3RkVIblA0a1BUVVRIM3VQT1ppeU42WUtkYTlXTVNMU3FQN0syRTFkdnkwb1c2UG5FWDkwSEFzZ3NJaEdDZmNmWmNMM2pZU2FLbm5zeEV3RWREdEdUbm9ySnV4VHA3alNHeGRhcnlMNzVBY0J2b1B2ZGJMMmwyMFJ1ZmloSzgxX1hINVFQbkJ2SmUybTdBYTctVE5iUHNSYkVsSFRQZjlHbnlSSmUyOE9vdlVfRnp1ck9mSWVVLXBwR0NKVm1PYUIxYTkydFFBc0NI0gHvAUFVX3lxTE1mLTJfTXl2SC1XLXd0azhkWV9JWG9LREFUNWhTRUNQVWpPbWJudFhUVEFiajI0TVA5RWsyNWU0Smw4QW5RdWF2TFM2eERMSEdqb2hycmlIVGh4ZFB0cWlVSzU0cGY1ODBVSFd5NnM4MUdvMjlWMncxTlJqZjc5bEJZNVFoWTRxTzZKUjZQdU9HYnpBM2Y0Ml9Ndm5vVTRSZVlvbzZpYXhQeE1DRUI5NVpHbUpmNEQ0dzJpZmtHc3B1c1M1OURGR3pJRndBLWN6d1pLV3FJOUJWQUNFYTh5NV9KOXZ5S1prVktNeGxiSnUw?oc=5)
 
 ---
 

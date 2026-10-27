@@ -3,7 +3,7 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>5 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Tomosynthesis detects breast cancer more frequently during screening - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
 
@@ -55,11 +55,19 @@ Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWNrcVp2U3ZB
 
 ---
 
-### [Black patients can face longer breast cancer care delays, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+### [Black patients and people with learning disability face longer breast cancer care delays](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
 
 2026-10-26
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3BaUHE5QVdHQUhub1U1eU5DZ1dJdFZ2LWJqSVp3clJwdmo0dFNlZmlRR2JMekhIZExKNEZoZ1BiMk5fZHZ5WXdsckZZZDl5SGJ5aVREQjA0R1VzNXZDYlhOSUhNSHJjNVY1ZmYxWjFYOERMUlgwN2NLZ2JjNWotTEpTMDJmUQ?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdlZ3BHOXk5QzI0WUFhMy0yT0hoMzNmMlM5WlV3MWIwTjRIWU55ZjJHVjhHUS16YUxhMFNyNFdlNy13RE9uakpGX3pNTVFoZGhmM2FFcFZqb0dxa2lZQW5OaGFZVWlPSm9nei1ESEtJQXJSWkZtbEZtUk1UTU50cXVZMW92U1FGQktBTXRadVpvVDlVSWk1Vm9qZnQ0aWxscDdxeGdHR09IcDlDUmFxWmlCUEFxaUdfUU5hX29oRHZ4bTBQakZKbzRzc0I1dGxXTGc?oc=5)
+
+---
+
+### [Breast Cancer Awareness Month Highlights Early Detection and Access to Care - Voice of Healthcare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVJ6SjNmMzVNYUNMOHVJS3daWDFaV1JOR0xqbHNsZEJETkJWVlRpNTB2ZmJlNjJLa3ZJMmtqbDBYNU1Cc0F1M3lIcTdWc3JvMUppb1ZTLU4yMmJJTkxMcEVkN3JSem15cjl2aW5QalJlaEZVa1ZLUVhHc0EzYk9MeGNtVERNMHhvMkRHdlYyaTdfR2FHY3ozZVlhTUJROU1uQWRBQ0tCRWU3RmdKSTdN?oc=5)
+
+2026-10-26
+
+Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVJ6SjNmMzVNYUNMOHVJS3daWDFaV1JOR0xqbHNsZEJETkJWVlRpNTB2ZmJlNjJLa3ZJMmtqbDBYNU1Cc0F1M3lIcTdWc3JvMUppb1ZTLU4yMmJJTkxMcEVkN3JSem15cjl2aW5QalJlaEZVa1ZLUVhHc0EzYk9MeGNtVERNMHhvMkRHdlYyaTdfR2FHY3ozZVlhTUJROU1uQWRBQ0tCRWU3RmdKSTdN?oc=5)
 
 ---
 

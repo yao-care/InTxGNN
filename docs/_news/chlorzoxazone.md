@@ -14,7 +14,7 @@ permalink: /news/chlorzoxazone/
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorzoxazone?">
-<strong>Chlorzoxazone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Chlorzoxazone</strong> currently has <strong>0 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,23 +33,9 @@ This page combines the AI-predicted indications for Chlorzoxazone with the lates
 <p><a href="{{ '/drugs/chlorzoxazone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (0)
 
-### [What is optogenetics? The Nobel-winning science explained - Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
-
-2026-10-26 <span class="news-indication-tag">RA</span>
-
-Source: [Gulf News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSkdIU3VDX3Rub08wSVhyVXNKWnJ6TGI5S3FsbWpMNlcyZEY1eHZuUmdkd2JFc2VDcTdCcm1faFVnLUxjdDkzelpNRUpjRHRHRVo5ZktuNmdpVlZsMHI2blM3djlZV2JZWXEzYXV0OXF6d3A3eFJjUnpkZEJCWmJvMEV3cmFDcWx4clVyTmNHR2JUMlBHQ2Vzd3dIM2FQQ04y0gGwAUFVX3lxTE1Qd0VsQkZSeGlFZU41S2JrNUxidmdBcFpyYURURUJLNzRhMkpEOGVZYnZVcXE2RkJNYXBraDVRRlBxaHNPLWhEVWY1eVJsNzZIeERQLXVJS2k5UGhiYncxa2xTOUFpQVkwOWhSb3BwdEVuQ2FiZUc5SDM0RV83VzBSd0JMV0xxdFFYc2VscWlSN0lUc3dPb2k2d2NqWGFhR2Q5THU5WG0yYnVGaWoyeW9O?oc=5)
-
----
-
-### [Antimicrobial Resistance Linked to $3.5 Trillion in Global Economic Losses - News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
-
-2026-10-23 <span class="news-indication-tag">RA</span>
-
-Source: [News Mobile](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLWRibmpXcVBtOEtaLU1IaTNRY2ZkLS1fX25McmY2Sk9zNGszTVdVVnVfZTJjdlNxVFptYzlRZ052RVlvdUF0ZGJZWk9kS0xxZkw5TC1oV3ZhUjNGdnBPcmRDMllVVzVnS3NubFVVRFBGZEt1MVZWTGxqREs1eG4tSzVKUzVwa3lTakJjY1V0SXppSE9nLXVRUnpZUTY3SDN5Tk40a0hjWUtRUVE?oc=5)
-
----
+*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
 
 
 <div class="disclaimer">
