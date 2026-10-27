@@ -3,8 +3,9 @@ layout: default
 title: "Dactinomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dactinomycin. Original indication: . 1 predicted indications."
+description: "Health news related to Dactinomycin. 1 predicted indications."
 permalink: /news/dactinomycin/
+last_modified_at: 2026-10-27
 ---
 
 # Dactinomycin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dactinomycin with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Relapsing-remitting multiple sclerosis (top-ranked prediction) (99.6%)</li>
+<li>Relapsing-remitting multiple sclerosis (top-ranked prediction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dactinomycin/' | relative_url }}">View full drug report →</a></p>

@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
 permalink: /news/cardiovascular/
+last_modified_at: 2026-10-27
 ---
 
 # heart disease (cardiovascular) News

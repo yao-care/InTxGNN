@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about cancer (generic_cancer). 18 articles, 228 related drugs."
 permalink: /news/generic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # cancer (generic_cancer) News

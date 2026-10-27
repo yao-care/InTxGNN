@@ -3,8 +3,9 @@ layout: default
 title: "Lubiprostone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lubiprostone. Original indication: . 1 predicted indications."
+description: "Health news related to Lubiprostone. 1 predicted indications."
 permalink: /news/lubiprostone/
+last_modified_at: 2026-10-27
 ---
 
 # Lubiprostone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Alopecia (99.9%)</li>
+<li>Alopecia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>

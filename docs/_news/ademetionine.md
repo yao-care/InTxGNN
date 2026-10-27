@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ademetionine. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/ademetionine/
+last_modified_at: 2026-10-27
 ---
 
 # Ademetionine News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Ademetionine with the latest
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **acne**, with a very high score of **99.90%**.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Acne (disease) (99.9%)</li>
+<li>Acne (disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ademetionine/' | relative_url }}">View full drug report →</a></p>

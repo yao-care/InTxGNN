@@ -3,8 +3,9 @@ layout: default
 title: "Demeclocycline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Demeclocycline. Original indication: . 1 predicted indications."
+description: "Health news related to Demeclocycline. 1 predicted indications."
 permalink: /news/demeclocycline/
+last_modified_at: 2026-10-27
 ---
 
 # Demeclocycline News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Demeclocycline with the late
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Chronic ethmoidal sinusitis (99.1%)</li>
+<li>Chronic ethmoidal sinusitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/demeclocycline/' | relative_url }}">View full drug report →</a></p>

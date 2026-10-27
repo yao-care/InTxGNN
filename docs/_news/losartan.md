@@ -3,8 +3,9 @@ layout: default
 title: "Losartan News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Losartan. Original indication: . 1 predicted indications."
+description: "Health news related to Losartan. 1 predicted indications."
 permalink: /news/losartan/
+last_modified_at: 2026-10-27
 ---
 
 # Losartan News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Losartan with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant hypertensive renal disease (99.7%)</li>
+<li>Malignant hypertensive renal disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">View full drug report →</a></p>

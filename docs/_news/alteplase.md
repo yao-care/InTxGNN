@@ -3,8 +3,9 @@ layout: default
 title: "Alteplase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Alteplase. Original indication: . 9 predicted indications."
+description: "Health news related to Alteplase. 9 predicted indications."
 permalink: /news/alteplase/
+last_modified_at: 2026-10-27
 ---
 
 # Alteplase News
@@ -26,15 +27,15 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (9)</strong>:<ul>
-<li>Posteroinferior myocardial infarction (99.8%)</li>
-<li>Posterolateral myocardial infarction (99.8%)</li>
-<li>Septal myocardial infarction (99.8%)</li>
-<li>Heparin cofactor 2 deficiency (99.7%)</li>
-<li>Congenital coronary artery anomaly (99.6%)</li>
-<li>Factor 5 excess with spontaneous thrombosis (99.6%)</li>
-<li>Antithrombin deficiency type 2 (99.6%)</li>
-<li>Thrombophilia (99.4%)</li>
-<li>Coronary stenosis (99.1%)</li>
+<li>Posteroinferior myocardial infarction</li>
+<li>Posterolateral myocardial infarction</li>
+<li>Septal myocardial infarction</li>
+<li>Heparin cofactor 2 deficiency</li>
+<li>Congenital coronary artery anomaly</li>
+<li>Factor 5 excess with spontaneous thrombosis</li>
+<li>Antithrombin deficiency type 2</li>
+<li>Thrombophilia</li>
+<li>Coronary stenosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>

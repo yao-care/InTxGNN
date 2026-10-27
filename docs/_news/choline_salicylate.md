@@ -3,8 +3,9 @@ layout: default
 title: "Choline Salicylate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Choline Salicylate. Original indication: . 0 predicted indications."
+description: "Health news related to Choline Salicylate. 0 predicted indications."
 permalink: /news/choline_salicylate/
+last_modified_at: 2026-10-27
 ---
 
 # Choline Salicylate News

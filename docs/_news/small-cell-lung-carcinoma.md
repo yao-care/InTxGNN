@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about lung cancer (small cell lung carcinoma). 1 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
+last_modified_at: 2026-10-27
 ---
 
 # lung cancer (small cell lung carcinoma) News

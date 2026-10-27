@@ -3,8 +3,9 @@ layout: default
 title: "Eflornithine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Eflornithine. Original indication: . 3 predicted indications."
+description: "Health news related to Eflornithine. 3 predicted indications."
 permalink: /news/eflornithine/
+last_modified_at: 2026-10-27
 ---
 
 # Eflornithine News
@@ -26,9 +27,9 @@ This page combines the AI-predicted indications for Eflornithine with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (3)</strong>:<ul>
-<li>Esotropia (99.8%)</li>
-<li>Trypanosomiasis, bovine (98.4%)</li>
-<li>Neurotrophic keratopathy (99.4%)</li>
+<li>Esotropia</li>
+<li>Trypanosomiasis, bovine</li>
+<li>Neurotrophic keratopathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eflornithine/' | relative_url }}">View full drug report →</a></p>

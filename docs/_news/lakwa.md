@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about stroke (lakwa). 2 articles, 15 related drugs."
 permalink: /news/lakwa/
+last_modified_at: 2026-10-27
 ---
 
 # stroke (lakwa) News

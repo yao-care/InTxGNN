@@ -3,8 +3,9 @@ layout: default
 title: "Disopyramide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Disopyramide. Original indication: . 1 predicted indications."
+description: "Health news related to Disopyramide. 1 predicted indications."
 permalink: /news/disopyramide/
+last_modified_at: 2026-10-27
 ---
 
 # Disopyramide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Disopyramide with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Tourette syndrome (99.9%)</li>
+<li>Tourette syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">View full drug report →</a></p>

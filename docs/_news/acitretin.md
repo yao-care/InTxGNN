@@ -3,8 +3,9 @@ layout: default
 title: "Acitretin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Acitretin. Original indication: . 1 predicted indications."
+description: "Health news related to Acitretin. 1 predicted indications."
 permalink: /news/acitretin/
+last_modified_at: 2026-10-27
 ---
 
 # Acitretin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Acitretin with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Acne (disease) (99.9%)</li>
+<li>Acne (disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">View full drug report →</a></p>

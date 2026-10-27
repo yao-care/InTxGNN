@@ -3,8 +3,9 @@ layout: default
 title: "Amoxicillin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amoxicillin. Original indication: . 8 predicted indications."
+description: "Health news related to Amoxicillin. 8 predicted indications."
 permalink: /news/amoxicillin/
+last_modified_at: 2026-10-27
 ---
 
 # Amoxicillin News
@@ -26,14 +27,14 @@ This page combines the AI-predicted indications for Amoxicillin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (8)</strong>:<ul>
-<li>Polyclonal hyperviscosity syndrome (99.6%)</li>
-<li>Hyperamylasemia (99.6%)</li>
-<li>Congenital analbuminemia (99.6%)</li>
-<li>Blood group incompatibility (99.4%)</li>
-<li>Premalignant hematological system disease (99.3%)</li>
-<li>Monoclonal gammopathy (99.2%)</li>
-<li>Hematological disease with acquired peripheral neuropathy (99.1%)</li>
-<li>Septicemic plague (99.1%)</li>
+<li>Polyclonal hyperviscosity syndrome</li>
+<li>Hyperamylasemia</li>
+<li>Congenital analbuminemia</li>
+<li>Blood group incompatibility</li>
+<li>Premalignant hematological system disease</li>
+<li>Monoclonal gammopathy</li>
+<li>Hematological disease with acquired peripheral neuropathy</li>
+<li>Septicemic plague</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amoxicillin/' | relative_url }}">View full drug report →</a></p>

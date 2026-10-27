@@ -3,8 +3,9 @@ layout: default
 title: "Flutamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Flutamide. Original indication: . 1 predicted indications."
+description: "Health news related to Flutamide. 1 predicted indications."
 permalink: /news/flutamide/
+last_modified_at: 2026-10-27
 ---
 
 # Flutamide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Flutamide with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Prostate cancer/brain cancer susceptibility (100.0%)</li>
+<li>Prostate cancer/brain cancer susceptibility</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/flutamide/' | relative_url }}">View full drug report →</a></p>

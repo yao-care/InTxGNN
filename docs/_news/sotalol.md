@@ -3,8 +3,9 @@ layout: default
 title: "Sotalol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sotalol. Original indication: . 1 predicted indications."
+description: "Health news related to Sotalol. 1 predicted indications."
 permalink: /news/sotalol/
+last_modified_at: 2026-10-27
 ---
 
 # Sotalol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Sick sinus syndrome 2, autosomal dominant (99.8%)</li>
+<li>Sick sinus syndrome 2, autosomal dominant</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>

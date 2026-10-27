@@ -3,8 +3,9 @@ layout: default
 title: "Bendamustine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bendamustine. Original indication: . 1 predicted indications."
+description: "Health news related to Bendamustine. 1 predicted indications."
 permalink: /news/bendamustine/
+last_modified_at: 2026-10-27
 ---
 
 # Bendamustine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Bendamustine with the latest
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Mantle cell lymphoma (99.6%)</li>
+<li>Mantle cell lymphoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bendamustine/' | relative_url }}">View full drug report →</a></p>

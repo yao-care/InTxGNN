@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Cabazitaxel. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/cabazitaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Cabazitaxel News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Cabazitaxel with the latest 
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **female breast carcinoma**, but **no clinical trials** are registered in the data and the supporting **literature (20 publications)** is mostly...</li>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (99.9%)</li>
+<li>Female breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabazitaxel/' | relative_url }}">View full drug report →</a></p>

@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about dementia (memory loss). 4 articles, 8 related drugs."
 permalink: /news/memory-loss/
+last_modified_at: 2026-10-27
 ---
 
 # dementia (memory loss) News

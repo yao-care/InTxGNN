@@ -3,8 +3,9 @@ layout: default
 title: "Calcipotriol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Calcipotriol. Original indication: . 1 predicted indications."
+description: "Health news related to Calcipotriol. 1 predicted indications."
 permalink: /news/calcipotriol/
+last_modified_at: 2026-10-27
 ---
 
 # Calcipotriol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Calcipotriol with the latest
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Seborrheic keratosis (100.0%)</li>
+<li>Seborrheic keratosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">View full drug report →</a></p>

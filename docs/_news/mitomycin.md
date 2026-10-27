@@ -3,8 +3,9 @@ layout: default
 title: "Mitomycin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mitomycin. Original indication: . 1 predicted indications."
+description: "Health news related to Mitomycin. 1 predicted indications."
 permalink: /news/mitomycin/
+last_modified_at: 2026-10-27
 ---
 
 # Mitomycin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Mitomycin with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Solid pseudopapillary carcinoma of the pancreas (99.9%)</li>
+<li>Solid pseudopapillary carcinoma of the pancreas</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mitomycin/' | relative_url }}">View full drug report →</a></p>

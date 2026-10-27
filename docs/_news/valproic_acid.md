@@ -3,8 +3,9 @@ layout: default
 title: "Valproic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Valproic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Valproic Acid. 0 predicted indications."
 permalink: /news/valproic_acid/
+last_modified_at: 2026-10-27
 ---
 
 # Valproic Acid News

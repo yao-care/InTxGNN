@@ -3,8 +3,9 @@ layout: default
 title: "Acetazolamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Acetazolamide. Original indication: . 1 predicted indications."
+description: "Health news related to Acetazolamide. 1 predicted indications."
 permalink: /news/acetazolamide/
+last_modified_at: 2026-10-27
 ---
 
 # Acetazolamide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Acetazolamide with the lates
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Exercise-induced malignant hyperthermia (100.0%)</li>
+<li>Exercise-induced malignant hyperthermia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">View full drug report →</a></p>

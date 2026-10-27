@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about menopause. 1 articles, 23 related drugs."
 permalink: /news/menopause/
+last_modified_at: 2026-10-27
 ---
 
 # menopause News

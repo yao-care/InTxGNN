@@ -3,8 +3,9 @@ layout: default
 title: "Doxorubicin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxorubicin. Original indication: . 1 predicted indications."
+description: "Health news related to Doxorubicin. 1 predicted indications."
 permalink: /news/doxorubicin/
+last_modified_at: 2026-10-27
 ---
 
 # Doxorubicin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Doxorubicin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ewing sarcoma (99.9%)</li>
+<li>Ewing sarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxorubicin/' | relative_url }}">View full drug report →</a></p>

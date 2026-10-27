@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Maraviroc. Original indication: he TxGNN model ranks **multiple endocrine neoplasi.... 1 predicted indications."
 permalink: /news/maraviroc/
+last_modified_at: 2026-10-27
 ---
 
 # Maraviroc News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Maraviroc with the latest he
 <li><strong>Original indication</strong>: he TxGNN model ranks **multiple endocrine neoplasia** as its top prediction (score 99.82%), yet there are **0 clinical trials** and **0 publications** supporting it.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Multiple endocrine neoplasia (99.8%)</li>
+<li>Multiple endocrine neoplasia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/maraviroc/' | relative_url }}">View full drug report →</a></p>

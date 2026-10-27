@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about schizophrenia (mental disorder). 1 articles, 2 related drugs."
 permalink: /news/mental-disorder/
+last_modified_at: 2026-10-27
 ---
 
 # schizophrenia (mental disorder) News

@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about schizophrenia. 1 articles, 2 related drugs."
 permalink: /news/schizophrenia/
+last_modified_at: 2026-10-27
 ---
 
 # schizophrenia News

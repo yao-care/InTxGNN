@@ -3,8 +3,9 @@ layout: default
 title: "Mitoxantrone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mitoxantrone. Original indication: . 1 predicted indications."
+description: "Health news related to Mitoxantrone. 1 predicted indications."
 permalink: /news/mitoxantrone/
+last_modified_at: 2026-10-27
 ---
 
 # Mitoxantrone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Mitoxantrone with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Upper aerodigestive tract neoplasm (99.8%)</li>
+<li>Upper aerodigestive tract neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mitoxantrone/' | relative_url }}">View full drug report →</a></p>

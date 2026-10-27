@@ -3,8 +3,9 @@ layout: default
 title: "Dasatinib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Dasatinib. Original indication: . 1 predicted indications."
+description: "Health news related to Dasatinib. 1 predicted indications."
 permalink: /news/dasatinib/
+last_modified_at: 2026-10-27
 ---
 
 # Dasatinib News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Ewing sarcoma (99.9%)</li>
+<li>Ewing sarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>

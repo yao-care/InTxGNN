@@ -3,8 +3,9 @@ layout: default
 title: "Methoxsalen News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Methoxsalen. Original indication: . 1 predicted indications."
+description: "Health news related to Methoxsalen. 1 predicted indications."
 permalink: /news/methoxsalen/
+last_modified_at: 2026-10-27
 ---
 
 # Methoxsalen News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Methoxsalen with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Localized pagetoid reticulosis (100.0%)</li>
+<li>Localized pagetoid reticulosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methoxsalen/' | relative_url }}">View full drug report →</a></p>

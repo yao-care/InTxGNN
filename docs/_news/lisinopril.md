@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lisinopril. Original indication: Other high-scoring predictions follow the same pat.... 1 predicted indications."
 permalink: /news/lisinopril/
+last_modified_at: 2026-10-27
 ---
 
 # Lisinopril News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Lisinopril with the latest h
 <li><strong>Original indication</strong>: Other high-scoring predictions follow the same pattern: posteroinferior and septal myocardial infarction, and malignant hypertensive renal disease and malignant renovascular hypertension, which are...</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Posterolateral myocardial infarction (99.9%)</li>
+<li>Posterolateral myocardial infarction</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">View full drug report →</a></p>

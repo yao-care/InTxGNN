@@ -3,8 +3,9 @@ layout: default
 title: "Durvalumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Durvalumab. Original indication: . 1 predicted indications."
+description: "Health news related to Durvalumab. 1 predicted indications."
 permalink: /news/durvalumab/
+last_modified_at: 2026-10-27
 ---
 
 # Durvalumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Durvalumab with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Prostatic urethra urothelial carcinoma (100.0%)</li>
+<li>Prostatic urethra urothelial carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">View full drug report →</a></p>

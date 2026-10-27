@@ -3,8 +3,9 @@ layout: default
 title: "Atenolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atenolol. Original indication: . 1 predicted indications."
+description: "Health news related to Atenolol. 1 predicted indications."
 permalink: /news/atenolol/
+last_modified_at: 2026-10-27
 ---
 
 # Atenolol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Atenolol with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Posterolateral myocardial infarction (99.9%)</li>
+<li>Posterolateral myocardial infarction</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">View full drug report →</a></p>

@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 1 predicted indications."
 permalink: /news/cyclandelate/
+last_modified_at: 2026-10-27
 ---
 
 # Cyclandelate News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.</li>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Prinzmetal angina (99.8%)</li>
+<li>Prinzmetal angina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>

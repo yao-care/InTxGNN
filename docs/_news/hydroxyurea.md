@@ -3,8 +3,9 @@ layout: default
 title: "Hydroxyurea News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Hydroxyurea. Original indication: . 1 predicted indications."
+description: "Health news related to Hydroxyurea. 1 predicted indications."
 permalink: /news/hydroxyurea/
+last_modified_at: 2026-10-27
 ---
 
 # Hydroxyurea News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Hydroxyurea with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (rank 1); best-supported alternative: sickle cell-hemoglobin C disease (100.0%)</li>
+<li>Female breast carcinoma (rank 1); best-supported alternative: sickle cell-hemoglobin C disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">View full drug report →</a></p>

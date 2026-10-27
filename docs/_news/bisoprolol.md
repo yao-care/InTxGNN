@@ -3,8 +3,9 @@ layout: default
 title: "Bisoprolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bisoprolol. Original indication: . 1 predicted indications."
+description: "Health news related to Bisoprolol. 1 predicted indications."
 permalink: /news/bisoprolol/
+last_modified_at: 2026-10-27
 ---
 
 # Bisoprolol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Bisoprolol with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant hypertensive renal disease (99.9%)</li>
+<li>Malignant hypertensive renal disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">View full drug report →</a></p>

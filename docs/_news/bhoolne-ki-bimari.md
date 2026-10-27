@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about dementia (bhoolne ki bimari). 4 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
+last_modified_at: 2026-10-27
 ---
 
 # dementia (bhoolne ki bimari) News

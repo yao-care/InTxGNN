@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about alzheimer (dementia). 6 articles, 8 related drugs."
 permalink: /news/dementia/
+last_modified_at: 2026-10-27
 ---
 
 # alzheimer (dementia) News

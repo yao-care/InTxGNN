@@ -3,8 +3,9 @@ layout: default
 title: "Levamisole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Levamisole. Original indication: . 1 predicted indications."
+description: "Health news related to Levamisole. 1 predicted indications."
 permalink: /news/levamisole/
+last_modified_at: 2026-10-27
 ---
 
 # Levamisole News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Levamisole with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Drug-induced osteoporosis (100.0%)</li>
+<li>Drug-induced osteoporosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levamisole/' | relative_url }}">View full drug report →</a></p>

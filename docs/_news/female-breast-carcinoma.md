@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
+last_modified_at: 2026-10-27
 ---
 
 # breast cancer (female breast carcinoma) News

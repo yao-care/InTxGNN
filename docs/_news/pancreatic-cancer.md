@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about pancreatic cancer. 1 articles, 1 related drugs."
 permalink: /news/pancreatic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # pancreatic cancer News

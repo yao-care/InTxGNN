@@ -3,8 +3,9 @@ layout: default
 title: "Mephenesin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Mephenesin. Original indication: . 1 predicted indications."
+description: "Health news related to Mephenesin. 1 predicted indications."
 permalink: /news/mephenesin/
+last_modified_at: 2026-10-27
 ---
 
 # Mephenesin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Mephenesin with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Metastatic melanoma (96.3%)</li>
+<li>Metastatic melanoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mephenesin/' | relative_url }}">View full drug report →</a></p>

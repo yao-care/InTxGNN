@@ -3,8 +3,9 @@ layout: default
 title: "Doxofylline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Doxofylline. Original indication: . 10 predicted indications."
+description: "Health news related to Doxofylline. 10 predicted indications."
 permalink: /news/doxofylline/
+last_modified_at: 2026-10-27
 ---
 
 # Doxofylline News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Doxofylline with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Pierre Robin syndrome associated with a chromosomal anomaly (99.5%)</li>
-<li>Laubry-Pezzi syndrome (99.5%)</li>
-<li>Jeune syndrome situs inversus (99.5%)</li>
-<li>Genetic syndromic Pierre Robin syndrome (99.5%)</li>
-<li>Orofacial clefting syndrome (99.5%)</li>
-<li>Partial deletion of the long arm of chromosome 7 (99.5%)</li>
-<li>Disorder of fucoglycosan synthesis (99.5%)</li>
-<li>Partial deletion of the long arm of chromosome 22 (99.5%)</li>
-<li>Heart disease (99.5%)</li>
-<li>Pulmonary valve disease (99.5%)</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly</li>
+<li>Laubry-Pezzi syndrome</li>
+<li>Jeune syndrome situs inversus</li>
+<li>Genetic syndromic Pierre Robin syndrome</li>
+<li>Orofacial clefting syndrome</li>
+<li>Partial deletion of the long arm of chromosome 7</li>
+<li>Disorder of fucoglycosan synthesis</li>
+<li>Partial deletion of the long arm of chromosome 22</li>
+<li>Heart disease</li>
+<li>Pulmonary valve disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxofylline/' | relative_url }}">View full drug report →</a></p>

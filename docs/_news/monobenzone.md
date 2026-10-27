@@ -3,8 +3,9 @@ layout: default
 title: "Monobenzone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Monobenzone. Original indication: . 1 predicted indications."
+description: "Health news related to Monobenzone. 1 predicted indications."
 permalink: /news/monobenzone/
+last_modified_at: 2026-10-27
 ---
 
 # Monobenzone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Monobenzone with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Dentinogenesis imperfecta (92.2%)</li>
+<li>Dentinogenesis imperfecta</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/monobenzone/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Lactulose News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Lactulose. Original indication: . 1 predicted indications."
+description: "Health news related to Lactulose. 1 predicted indications."
 permalink: /news/lactulose/
+last_modified_at: 2026-10-27
 ---
 
 # Lactulose News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Lactulose with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Acute urate nephropathy (top-ranked); obstructive jaundice has the strongest evidence (99.9%)</li>
+<li>Acute urate nephropathy (top-ranked); obstructive jaundice has the strongest evidence</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">View full drug report →</a></p>

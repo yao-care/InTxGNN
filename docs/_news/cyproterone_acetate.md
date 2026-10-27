@@ -3,8 +3,9 @@ layout: default
 title: "Cyproterone Acetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyproterone Acetate. Original indication: . 0 predicted indications."
+description: "Health news related to Cyproterone Acetate. 0 predicted indications."
 permalink: /news/cyproterone_acetate/
+last_modified_at: 2026-10-27
 ---
 
 # Cyproterone Acetate News

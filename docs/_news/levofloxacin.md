@@ -3,8 +3,9 @@ layout: default
 title: "Levofloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Levofloxacin. Original indication: . 1 predicted indications."
+description: "Health news related to Levofloxacin. 1 predicted indications."
 permalink: /news/levofloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # Levofloxacin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Levofloxacin with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Punctate epithelial keratoconjunctivitis (TxGNN rank 1); monoclonal gammopathy (rank 7) is the best-evidenced candidate and is the focus of the evidence sections below (99.9%)</li>
+<li>Punctate epithelial keratoconjunctivitis (TxGNN rank 1); monoclonal gammopathy (rank 7) is the best-evidenced candidate and is the focus of the evidence sections below</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">View full drug report →</a></p>

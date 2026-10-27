@@ -3,8 +3,9 @@ layout: default
 title: "Primidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Primidone. Original indication: . 1 predicted indications."
+description: "Health news related to Primidone. 1 predicted indications."
 permalink: /news/primidone/
+last_modified_at: 2026-10-27
 ---
 
 # Primidone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Primidone with the latest he
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Trigeminal nerve neoplasm (100.0%)</li>
+<li>Trigeminal nerve neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/primidone/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Atezolizumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Atezolizumab. Original indication: . 1 predicted indications."
+description: "Health news related to Atezolizumab. 1 predicted indications."
 permalink: /news/atezolizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Atezolizumab News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Atezolizumab with the latest
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Prostatic urethra urothelial carcinoma (100.0%)</li>
+<li>Prostatic urethra urothelial carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atezolizumab/' | relative_url }}">View full drug report →</a></p>

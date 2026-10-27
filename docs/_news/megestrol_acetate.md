@@ -3,8 +3,9 @@ layout: default
 title: "Megestrol Acetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Megestrol Acetate. Original indication: . 0 predicted indications."
+description: "Health news related to Megestrol Acetate. 0 predicted indications."
 permalink: /news/megestrol_acetate/
+last_modified_at: 2026-10-27
 ---
 
 # Megestrol Acetate News

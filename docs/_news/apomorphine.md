@@ -3,8 +3,9 @@ layout: default
 title: "Apomorphine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Apomorphine. Original indication: . 1 predicted indications."
+description: "Health news related to Apomorphine. 1 predicted indications."
 permalink: /news/apomorphine/
+last_modified_at: 2026-10-27
 ---
 
 # Apomorphine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (L5, no evidence). Best-supported: schizophrenia (rank 5) (99.8%)</li>
+<li>Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (L5, no evidence). Best-supported: schizophrenia (rank 5)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Altretamine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Altretamine. Original indication: . 1 predicted indications."
+description: "Health news related to Altretamine. 1 predicted indications."
 permalink: /news/altretamine/
+last_modified_at: 2026-10-27
 ---
 
 # Altretamine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Altretamine with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (99.9%)</li>
+<li>Female breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/altretamine/' | relative_url }}">View full drug report →</a></p>

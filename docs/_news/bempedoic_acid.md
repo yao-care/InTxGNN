@@ -3,8 +3,9 @@ layout: default
 title: "Bempedoic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bempedoic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Bempedoic Acid. 0 predicted indications."
 permalink: /news/bempedoic_acid/
+last_modified_at: 2026-10-27
 ---
 
 # Bempedoic Acid News

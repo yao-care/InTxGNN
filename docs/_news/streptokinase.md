@@ -3,8 +3,9 @@ layout: default
 title: "Streptokinase News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Streptokinase. Original indication: . 1 predicted indications."
+description: "Health news related to Streptokinase. 1 predicted indications."
 permalink: /news/streptokinase/
+last_modified_at: 2026-10-27
 ---
 
 # Streptokinase News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Streptokinase with the lates
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Myocardial infarction (99.8%)</li>
+<li>Myocardial infarction</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/streptokinase/' | relative_url }}">View full drug report →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "Anastrozole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Anastrozole. Original indication: . 1 predicted indications."
+description: "Health news related to Anastrozole. 1 predicted indications."
 permalink: /news/anastrozole/
+last_modified_at: 2026-10-27
 ---
 
 # Anastrozole News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Anastrozole with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (99.7%)</li>
+<li>Female breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">View full drug report →</a></p>

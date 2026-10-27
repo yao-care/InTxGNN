@@ -3,8 +3,9 @@ layout: default
 title: "Eplerenone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Eplerenone. Original indication: . 5 predicted indications."
+description: "Health news related to Eplerenone. 5 predicted indications."
 permalink: /news/eplerenone/
+last_modified_at: 2026-10-27
 ---
 
 # Eplerenone News
@@ -26,11 +27,11 @@ This page combines the AI-predicted indications for Eplerenone with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (5)</strong>:<ul>
-<li>Pulmonary hypertension with unclear multifactorial mechanism (99.5%)</li>
-<li>Pulmonary hypertension owing to lung disease and/or hypoxia (99.5%)</li>
-<li>Malignant hypertensive renal disease (99.5%)</li>
-<li>Malignant renovascular hypertension (99.5%)</li>
-<li>Braddock syndrome (99.3%)</li>
+<li>Pulmonary hypertension with unclear multifactorial mechanism</li>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia</li>
+<li>Malignant hypertensive renal disease</li>
+<li>Malignant renovascular hypertension</li>
+<li>Braddock syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eplerenone/' | relative_url }}">View full drug report →</a></p>

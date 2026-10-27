@@ -3,8 +3,9 @@ layout: default
 title: "Isosorbide Dinitrate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Isosorbide Dinitrate. Original indication: . 0 predicted indications."
+description: "Health news related to Isosorbide Dinitrate. 0 predicted indications."
 permalink: /news/isosorbide_dinitrate/
+last_modified_at: 2026-10-27
 ---
 
 # Isosorbide Dinitrate News

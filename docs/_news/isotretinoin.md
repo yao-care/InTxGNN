@@ -3,8 +3,9 @@ layout: default
 title: "Isotretinoin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Isotretinoin. Original indication: . 1 predicted indications."
+description: "Health news related to Isotretinoin. 1 predicted indications."
 permalink: /news/isotretinoin/
+last_modified_at: 2026-10-27
 ---
 
 # Isotretinoin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Isotretinoin with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant renovascular hypertension (99.0%)</li>
+<li>Malignant renovascular hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isotretinoin/' | relative_url }}">View full drug report →</a></p>

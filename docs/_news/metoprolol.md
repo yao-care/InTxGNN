@@ -3,8 +3,9 @@ layout: default
 title: "Metoprolol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metoprolol. Original indication: . 6 predicted indications."
+description: "Health news related to Metoprolol. 6 predicted indications."
 permalink: /news/metoprolol/
+last_modified_at: 2026-10-27
 ---
 
 # Metoprolol News
@@ -26,12 +27,12 @@ This page combines the AI-predicted indications for Metoprolol with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
-<li>Malignant hypertensive renal disease (99.9%)</li>
-<li>Malignant renovascular hypertension (99.9%)</li>
-<li>Pulmonary hypertension, unclear multifactorial mechanism (99.9%)</li>
-<li>Pulmonary hypertension due to lung disease/hypoxia (99.9%)</li>
-<li>Chronic pulmonary heart disease (99.4%)</li>
-<li>Trichotillomania (99.0%)</li>
+<li>Malignant hypertensive renal disease</li>
+<li>Malignant renovascular hypertension</li>
+<li>Pulmonary hypertension, unclear multifactorial mechanism</li>
+<li>Pulmonary hypertension due to lung disease/hypoxia</li>
+<li>Chronic pulmonary heart disease</li>
+<li>Trichotillomania</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">View full drug report →</a></p>

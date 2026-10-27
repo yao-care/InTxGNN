@@ -3,8 +3,9 @@ layout: default
 title: "Amifostine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amifostine. Original indication: . 1 predicted indications."
+description: "Health news related to Amifostine. 1 predicted indications."
 permalink: /news/amifostine/
+last_modified_at: 2026-10-27
 ---
 
 # Amifostine News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Hypertensive disorder (100.0%)</li>
+<li>Hypertensive disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amifostine/' | relative_url }}">View full drug report →</a></p>

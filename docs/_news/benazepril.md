@@ -3,8 +3,9 @@ layout: default
 title: "Benazepril News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Benazepril. Original indication: . 1 predicted indications."
+description: "Health news related to Benazepril. 1 predicted indications."
 permalink: /news/benazepril/
+last_modified_at: 2026-10-27
 ---
 
 # Benazepril News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Benazepril with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant renovascular hypertension (99.7%)</li>
+<li>Malignant renovascular hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">View full drug report →</a></p>

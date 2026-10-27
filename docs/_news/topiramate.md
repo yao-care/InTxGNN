@@ -3,8 +3,9 @@ layout: default
 title: "Topiramate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Topiramate. Original indication: . 9 predicted indications."
+description: "Health news related to Topiramate. 9 predicted indications."
 permalink: /news/topiramate/
+last_modified_at: 2026-10-27
 ---
 
 # Topiramate News
@@ -26,15 +27,15 @@ This page combines the AI-predicted indications for Topiramate with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (9)</strong>:<ul>
-<li>Trigeminal nerve neoplasm (99.7%)</li>
-<li>Visual epilepsy (99.3%)</li>
-<li>Eating seizures (99.2%)</li>
-<li>Orgasm-induced seizures (99.2%)</li>
-<li>Audiogenic seizures (99.2%)</li>
-<li>Thinking seizures (99.2%)</li>
-<li>Micturition-induced seizures (99.2%)</li>
-<li>Startle epilepsy (99.2%)</li>
-<li>Reading seizures (99.1%)</li>
+<li>Trigeminal nerve neoplasm</li>
+<li>Visual epilepsy</li>
+<li>Eating seizures</li>
+<li>Orgasm-induced seizures</li>
+<li>Audiogenic seizures</li>
+<li>Thinking seizures</li>
+<li>Micturition-induced seizures</li>
+<li>Startle epilepsy</li>
+<li>Reading seizures</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/topiramate/' | relative_url }}">View full drug report →</a></p>

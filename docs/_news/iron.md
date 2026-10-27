@@ -3,8 +3,9 @@ layout: default
 title: "Iron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Iron. Original indication: . 1 predicted indications."
+description: "Health news related to Iron. 1 predicted indications."
 permalink: /news/iron/
+last_modified_at: 2026-10-27
 ---
 
 # Iron News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Plummer-Vinson syndrome (the highest-scoring prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia, has no supporting evidence and is not assessed here) (99.9%)</li>
+<li>Plummer-Vinson syndrome (the highest-scoring prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia, has no supporting evidence and is not assessed here)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>

@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about vascular disease. 1 articles, 3 related drugs."
 permalink: /news/vascular-disease/
+last_modified_at: 2026-10-27
 ---
 
 # vascular disease News

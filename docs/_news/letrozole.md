@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Letrozole. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
 permalink: /news/letrozole/
+last_modified_at: 2026-10-27
 ---
 
 # Letrozole News
@@ -27,7 +28,7 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **female breast carcinoma**, with **40 clinical trials** and **20 publications** retrieved for this direction.</li>
 <li><strong>Evidence level</strong>: L1</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Female breast carcinoma (100.0%)</li>
+<li>Female breast carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>

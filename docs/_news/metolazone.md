@@ -3,8 +3,9 @@ layout: default
 title: "Metolazone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metolazone. Original indication: . 1 predicted indications."
+description: "Health news related to Metolazone. 1 predicted indications."
 permalink: /news/metolazone/
+last_modified_at: 2026-10-27
 ---
 
 # Metolazone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Metolazone with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant renovascular hypertension (99.8%)</li>
+<li>Malignant renovascular hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metolazone/' | relative_url }}">View full drug report →</a></p>

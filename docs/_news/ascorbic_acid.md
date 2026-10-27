@@ -3,8 +3,9 @@ layout: default
 title: "Ascorbic Acid News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ascorbic Acid. Original indication: . 0 predicted indications."
+description: "Health news related to Ascorbic Acid. 0 predicted indications."
 permalink: /news/ascorbic_acid/
+last_modified_at: 2026-10-27
 ---
 
 # Ascorbic Acid News

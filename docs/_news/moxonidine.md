@@ -3,8 +3,9 @@ layout: default
 title: "Moxonidine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Moxonidine. Original indication: . 10 predicted indications."
+description: "Health news related to Moxonidine. 10 predicted indications."
 permalink: /news/moxonidine/
+last_modified_at: 2026-10-27
 ---
 
 # Moxonidine News
@@ -26,16 +27,16 @@ This page combines the AI-predicted indications for Moxonidine with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
-<li>Hypotrichosis simplex of the scalp (100.0%)</li>
-<li>Congenital hypotrichosis milia (99.9%)</li>
-<li>Diffuse alopecia areata (99.9%)</li>
-<li>Alopecia (99.9%)</li>
-<li>Malignant renovascular hypertension (99.7%)</li>
-<li>Malignant hypertensive renal disease (99.7%)</li>
-<li>Pulmonary hypertension owing to lung disease and/or hypoxia (99.7%)</li>
-<li>Pulmonary hypertension, unclear multifactorial mechanism (99.7%)</li>
-<li>Braddock syndrome (99.6%)</li>
-<li>Primary hereditary glaucoma (99.5%)</li>
+<li>Hypotrichosis simplex of the scalp</li>
+<li>Congenital hypotrichosis milia</li>
+<li>Diffuse alopecia areata</li>
+<li>Alopecia</li>
+<li>Malignant renovascular hypertension</li>
+<li>Malignant hypertensive renal disease</li>
+<li>Pulmonary hypertension owing to lung disease and/or hypoxia</li>
+<li>Pulmonary hypertension, unclear multifactorial mechanism</li>
+<li>Braddock syndrome</li>
+<li>Primary hereditary glaucoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/moxonidine/' | relative_url }}">View full drug report →</a></p>

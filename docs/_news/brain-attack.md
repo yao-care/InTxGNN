@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about stroke (brain attack). 2 articles, 15 related drugs."
 permalink: /news/brain-attack/
+last_modified_at: 2026-10-27
 ---
 
 # stroke (brain attack) News

@@ -3,8 +3,9 @@ layout: default
 title: "Arsenic Trioxide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Arsenic Trioxide. Original indication: . 0 predicted indications."
+description: "Health news related to Arsenic Trioxide. 0 predicted indications."
 permalink: /news/arsenic_trioxide/
+last_modified_at: 2026-10-27
 ---
 
 # Arsenic Trioxide News

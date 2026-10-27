@@ -3,8 +3,9 @@ layout: default
 title: "Ciprofloxacin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ciprofloxacin. Original indication: . 1 predicted indications."
+description: "Health news related to Ciprofloxacin. 1 predicted indications."
 permalink: /news/ciprofloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # Ciprofloxacin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Ciprofloxacin with the lates
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Diffuse scleroderma (99.9%)</li>
+<li>Diffuse scleroderma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">View full drug report →</a></p>

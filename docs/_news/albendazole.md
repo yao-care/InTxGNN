@@ -3,8 +3,9 @@ layout: default
 title: "Albendazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Albendazole. Original indication: . 1 predicted indications."
+description: "Health news related to Albendazole. 1 predicted indications."
 permalink: /news/albendazole/
+last_modified_at: 2026-10-27
 ---
 
 # Albendazole News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Alveolar echinococcosis (100.0%)</li>
+<li>Alveolar echinococcosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>

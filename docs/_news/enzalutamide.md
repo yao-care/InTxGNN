@@ -3,8 +3,9 @@ layout: default
 title: "Enzalutamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Enzalutamide. Original indication: . 1 predicted indications."
+description: "Health news related to Enzalutamide. 1 predicted indications."
 permalink: /news/enzalutamide/
+last_modified_at: 2026-10-27
 ---
 
 # Enzalutamide News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Enzalutamide with the latest
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Top-ranked: prostate cancer/brain cancer susceptibility (no evidence). Best-supported: male reproductive organ cancer / prostate neoplasm (99.7%)</li>
+<li>Top-ranked: prostate cancer/brain cancer susceptibility (no evidence). Best-supported: male reproductive organ cancer / prostate neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enzalutamide/' | relative_url }}">View full drug report →</a></p>

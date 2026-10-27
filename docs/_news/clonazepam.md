@@ -3,8 +3,9 @@ layout: default
 title: "Clonazepam News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Clonazepam. Original indication: . 1 predicted indications."
+description: "Health news related to Clonazepam. 1 predicted indications."
 permalink: /news/clonazepam/
+last_modified_at: 2026-10-27
 ---
 
 # Clonazepam News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Clonazepam with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L3</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Restless legs syndrome (99.7%)</li>
+<li>Restless legs syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clonazepam/' | relative_url }}">View full drug report →</a></p>

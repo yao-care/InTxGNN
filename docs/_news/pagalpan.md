@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about schizophrenia (pagalpan). 1 articles, 2 related drugs."
 permalink: /news/pagalpan/
+last_modified_at: 2026-10-27
 ---
 
 # schizophrenia (pagalpan) News

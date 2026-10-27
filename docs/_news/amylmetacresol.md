@@ -3,8 +3,9 @@ layout: default
 title: "Amylmetacresol News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amylmetacresol. Original indication: . 1 predicted indications."
+description: "Health news related to Amylmetacresol. 1 predicted indications."
 permalink: /news/amylmetacresol/
+last_modified_at: 2026-10-27
 ---
 
 # Amylmetacresol News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Amylmetacresol with the late
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Cauda equina syndrome (100.0%)</li>
+<li>Cauda equina syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amylmetacresol/' | relative_url }}">View full drug report →</a></p>

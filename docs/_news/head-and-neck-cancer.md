@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about head and neck cancer. 1 articles, 2 related drugs."
 permalink: /news/head-and-neck-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # head and neck cancer News

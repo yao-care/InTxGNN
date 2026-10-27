@@ -3,8 +3,9 @@ layout: default
 title: "Oxaliplatin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Oxaliplatin. Original indication: . 1 predicted indications."
+description: "Health news related to Oxaliplatin. 1 predicted indications."
 permalink: /news/oxaliplatin/
+last_modified_at: 2026-10-27
 ---
 
 # Oxaliplatin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Oxaliplatin with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L2</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Malignant pleural mesothelioma (99.7%)</li>
+<li>Malignant pleural mesothelioma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxaliplatin/' | relative_url }}">View full drug report →</a></p>

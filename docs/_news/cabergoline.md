@@ -3,8 +3,9 @@ layout: default
 title: "Cabergoline News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cabergoline. Original indication: . 1 predicted indications."
+description: "Health news related to Cabergoline. 1 predicted indications."
 permalink: /news/cabergoline/
+last_modified_at: 2026-10-27
 ---
 
 # Cabergoline News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Cabergoline with the latest 
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Pituitary cancer (99.0%)</li>
+<li>Pituitary cancer</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">View full drug report →</a></p>

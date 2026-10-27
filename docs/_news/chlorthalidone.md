@@ -3,8 +3,9 @@ layout: default
 title: "Chlorthalidone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Chlorthalidone. Original indication: . 1 predicted indications."
+description: "Health news related to Chlorthalidone. 1 predicted indications."
 permalink: /news/chlorthalidone/
+last_modified_at: 2026-10-27
 ---
 
 # Chlorthalidone News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Chlorthalidone with the late
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Primary hereditary glaucoma (99.9%)</li>
+<li>Primary hereditary glaucoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorthalidone/' | relative_url }}">View full drug report →</a></p>
