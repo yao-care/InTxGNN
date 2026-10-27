@@ -35,11 +35,11 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (2)
 
-### [​'Ferritin face': 7 warning signs of iron deficiency you shouldn’t ignore​ - The Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2I1TDd6V1JHN3YyRTBjb1pKbXlKMFp6bnZnWl9tOGxuOUFvY2RUZUZYVUV2Z0pqUGNxVzl1MlVTRzdySGV6OG11M05uVnFHeDRNWkoxVEdzNUdCaUgzY2VtMGdhcEhGeFpXcm41OGo1ZFJHQVRWVGVpT3dJazBfRVhubFo3QWk0OWtRNU1RdzY5bjhlTWdoSWcwQ3RkODBMeTljZ0dodjBnbGZlNkFjRE9DN1VvUHZycldHZWh2UWRYeXFCbWg2OTFSM05LdTlQUkVnWFRUVDQxb1B1emc?oc=5)
+### [Think you have ‘ferritin face’? A GP reveals the 5 signs of low iron to look out for](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWF1ZktQcV9TeVNwZWItLUxGbk5yWVRUUFoxSWpzcGwyQk5oZkVTUHJLZGZXMWhZXy1BU2lmcU1HTWVVbVRhOXF5RG1WWUoyZi03QXRVT0hfYS1JVUZIOWxKZTF3Ym16RVcyVEkwbDdZOXRiLXlSYU0xVE8wdW12dlVOY081Q3FUTUJhNklLNTVVeXVj?oc=5)
 
 2026-10-27 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2I1TDd6V1JHN3YyRTBjb1pKbXlKMFp6bnZnWl9tOGxuOUFvY2RUZUZYVUV2Z0pqUGNxVzl1MlVTRzdySGV6OG11M05uVnFHeDRNWkoxVEdzNUdCaUgzY2VtMGdhcEhGeFpXcm41OGo1ZFJHQVRWVGVpT3dJazBfRVhubFo3QWk0OWtRNU1RdzY5bjhlTWdoSWcwQ3RkODBMeTljZ0dodjBnbGZlNkFjRE9DN1VvUHZycldHZWh2UWRYeXFCbWg2OTFSM05LdTlQUkVnWFRUVDQxb1B1emc?oc=5)
+Source: [MadeForMums](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWF1ZktQcV9TeVNwZWItLUxGbk5yWVRUUFoxSWpzcGwyQk5oZkVTUHJLZGZXMWhZXy1BU2lmcU1HTWVVbVRhOXF5RG1WWUoyZi03QXRVT0hfYS1JVUZIOWxKZTF3Ym16RVcyVEkwbDdZOXRiLXlSYU0xVE8wdW12dlVOY081Q3FUTUJhNklLNTVVeXVj?oc=5)
 
 ---
 
