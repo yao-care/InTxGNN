@@ -1,80 +1,16 @@
 ---
-layout: default
-title: "Levobunolol News"
-parent: Health News
-nav_exclude: true
-description: "Health news related to Levobunolol. Original indication: . 3 predicted indications."
+layout: id_redirect
 permalink: /news/levobunolol/
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# Levobunolol News
-
-[← Back to News Overview]({{ '/news/' | relative_url }})
-
----
-
-<p class="key-answer" data-question="What news is there about Levobunolol?">
-<strong>Levobunolol</strong> currently has <strong>0 news articles</strong>, with 3 predicted indications.
-</p>
-
-<div class="key-takeaway">
-This page combines the AI-predicted indications for Levobunolol with the latest health news. Indications highlighted in orange have recent news coverage.
-</div>
-
-<div class="drug-info-card">
-<strong>Drug Information</strong>
-<ul>
-<li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (3)</strong>:<ul>
-<li>Primary hereditary glaucoma (100.0%)</li>
-<li>Glaucoma 1, open angle (99.6%)</li>
-<li>Open angle glaucoma (99.5%)</li>
-</ul></li>
-</ul>
-<p><a href="{{ '/drugs/levobunolol/' | relative_url }}">View full drug report →</a></p>
-</div>
-
-## Related News (0)
-
-*No related news yet. When news mentions this drug, it will be collected and shown here automatically.*
-
-
-<div class="disclaimer">
-<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
-</div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/levobunolol/">
+<meta http-equiv="refresh" content="0; url=/drugs/levobunolol/">
+<script>location="/drugs/levobunolol/"</script>
+<a href="/drugs/levobunolol/">/drugs/levobunolol/</a>
+</html>
