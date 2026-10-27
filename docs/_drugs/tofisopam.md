@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Tofisopam: From Anxiety-Related Use to Insomnia (Original Indication Not Recorded in Data)
+## Tofisopam: From Anxiety-Related Use to Insomnia (Original Indication Not Recorded in Data)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

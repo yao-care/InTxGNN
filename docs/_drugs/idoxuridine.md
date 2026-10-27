@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idoxuridine: From Herpes Simplex Virus Keratitis to Vulvovaginal Candidiasis
+## Idoxuridine: From Herpes Simplex Virus Keratitis to Vulvovaginal Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

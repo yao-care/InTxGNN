@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tulobuterol: From Asthma to Bronchitis
+## Tulobuterol: From Asthma to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

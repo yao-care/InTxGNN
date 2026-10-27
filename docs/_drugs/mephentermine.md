@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Mephentermine: From Hypotensive Disorder to Postural Orthostatic Tachycardia Syndrome
+## Mephentermine: From Hypotensive Disorder to Postural Orthostatic Tachycardia Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

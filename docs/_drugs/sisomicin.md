@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sisomicin: From Bacterial Infection (Aminoglycoside Antibiotic) to Osteoarthritis
+## Sisomicin: From Bacterial Infection (Aminoglycoside Antibiotic) to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

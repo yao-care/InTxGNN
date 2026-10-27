@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ranolazine: From Chronic Angina to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Ranolazine: From Chronic Angina to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

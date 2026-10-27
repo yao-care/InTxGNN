@@ -31,7 +31,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Oxiconazole: From Tinea Pedis to Cutaneous Candidiasis
+## Oxiconazole: From Tinea Pedis to Cutaneous Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

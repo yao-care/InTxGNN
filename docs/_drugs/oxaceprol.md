@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oxaceprol: From Osteoarthritis to Spondyloarthropathy (Susceptibility)
+## Oxaceprol: From Osteoarthritis to Spondyloarthropathy (Susceptibility)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

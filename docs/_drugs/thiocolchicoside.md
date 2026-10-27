@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Thiocolchicoside: From Muscle Relaxant Use to Insomnia
+## Thiocolchicoside: From Muscle Relaxant Use to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

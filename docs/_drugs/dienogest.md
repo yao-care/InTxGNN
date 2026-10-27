@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dienogest: From Endometriosis to Amenorrhea
+## Dienogest: From Endometriosis to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

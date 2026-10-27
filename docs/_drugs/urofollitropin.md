@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Urofollitropin: From Ovulation Induction and Ovarian Stimulation to Migraine Disorder
+## Urofollitropin: From Ovulation Induction and Ovarian Stimulation to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

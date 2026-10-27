@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Basiliximab: From Transplant Rejection Prophylaxis to Plasma Cell Myeloma
+## Basiliximab: From Transplant Rejection Prophylaxis to Plasma Cell Myeloma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

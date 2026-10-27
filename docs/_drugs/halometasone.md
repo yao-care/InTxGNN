@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Halometasone: From Topical Corticosteroid Therapy to Primary Cutaneous T-Cell Lymphoma
+## Halometasone: From Topical Corticosteroid Therapy to Primary Cutaneous T-Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

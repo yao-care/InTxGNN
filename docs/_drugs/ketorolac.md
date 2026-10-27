@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-# Ketorolac: From Allergic Conjunctivitis (Atopic, Papillary, Vernal) to Headache Disorder
+## Ketorolac: From Allergic Conjunctivitis (Atopic, Papillary, Vernal) to Headache Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

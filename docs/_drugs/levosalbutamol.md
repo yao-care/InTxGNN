@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Levosalbutamol: From Asthma to Nasal Cavity Disease
+## Levosalbutamol: From Asthma to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

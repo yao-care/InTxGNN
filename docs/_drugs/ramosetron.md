@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ramosetron: From Its Marketed Use to Insomnia
+## Ramosetron: From Its Marketed Use to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

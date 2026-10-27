@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Moxonidine: From Hypertension to Hypotrichosis Simplex of the Scalp
+## Moxonidine: From Hypertension to Hypotrichosis Simplex of the Scalp
+{: .text-alpha }
 
 ## One-Sentence Summary
 

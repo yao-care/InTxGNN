@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Mometasone: From Corticosteroid-Responsive Inflammatory Conditions to Primary Cutaneous T-Cell Lymphoma
+## Mometasone: From Corticosteroid-Responsive Inflammatory Conditions to Primary Cutaneous T-Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

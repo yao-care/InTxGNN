@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Calcitriol: From Hypoparathyroidism and Renal Osteodystrophy to Vitamin D Deficiency (Obsolete Term)
+## Calcitriol: From Hypoparathyroidism and Renal Osteodystrophy to Vitamin D Deficiency (Obsolete Term)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

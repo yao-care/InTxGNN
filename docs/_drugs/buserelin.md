@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Buserelin: From Prostate Cancer to Hypertrichosis
+## Buserelin: From Prostate Cancer to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

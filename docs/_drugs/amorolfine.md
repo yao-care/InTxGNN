@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amorolfine: From Fungal Nail Infection (Topical Antifungal) to Drug-Induced Osteoporosis
+## Amorolfine: From Fungal Nail Infection (Topical Antifungal) to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

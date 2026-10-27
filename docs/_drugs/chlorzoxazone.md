@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Chlorzoxazone: From Musculoskeletal Conditions to Migraine Disorder
+## Chlorzoxazone: From Musculoskeletal Conditions to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Sulpiride: From Schizophrenia to Retinal Dystrophy
+## Sulpiride: From Schizophrenia to Retinal Dystrophy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

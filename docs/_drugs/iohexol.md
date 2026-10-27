@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Iohexol: From Iodinated Contrast Imaging Agent to Insomnia
+## Iohexol: From Iodinated Contrast Imaging Agent to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

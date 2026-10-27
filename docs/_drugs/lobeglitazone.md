@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Lobeglitazone: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+## Lobeglitazone: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

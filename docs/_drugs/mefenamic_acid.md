@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-# Mefenamic Acid: From NSAID Pain and Inflammation Use to Rheumatoid Arthritis
+## Mefenamic Acid: From NSAID Pain and Inflammation Use to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

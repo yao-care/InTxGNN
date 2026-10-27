@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Mianserin: From Unipolar Depression to Benign Paroxysmal Torticollis of Infancy
+## Mianserin: From Unipolar Depression to Benign Paroxysmal Torticollis of Infancy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

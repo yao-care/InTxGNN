@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Asenapine: From Bipolar Disorder and Schizophrenia to Retinal Dystrophy (Top Prediction) and Major Affective Disorder (Best-Evidenced Prediction)
+## Asenapine: From Bipolar Disorder and Schizophrenia to Retinal Dystrophy (Top Prediction) and Major Affective Disorder (Best-Evidenced Prediction)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

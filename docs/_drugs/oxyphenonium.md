@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Oxyphenonium: From an Antispasmodic for Gastric and Duodenal Ulcer to Irritable Bowel Syndrome
+## Oxyphenonium: From an Antispasmodic for Gastric and Duodenal Ulcer to Irritable Bowel Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

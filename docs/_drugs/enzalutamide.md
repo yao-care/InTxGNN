@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enzalutamide: From Prostate Cancer to Male Reproductive Organ Cancer (Prostate Neoplasm)
+## Enzalutamide: From Prostate Cancer to Male Reproductive Organ Cancer (Prostate Neoplasm)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

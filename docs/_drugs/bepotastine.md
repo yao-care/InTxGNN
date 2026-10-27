@@ -31,7 +31,8 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Bepotastine: From Allergic Conjunctivitis to Allergic Urticaria
+## Bepotastine: From Allergic Conjunctivitis to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

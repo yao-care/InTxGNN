@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Astemizole: From Allergic Rhinitis to Rosacea Conjunctivitis
+## Astemizole: From Allergic Rhinitis to Rosacea Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

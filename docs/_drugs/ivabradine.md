@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ivabradine: From Cardiovascular Use (Heart Failure / Heart-Rate Control) to Hypertrichosis
+## Ivabradine: From Cardiovascular Use (Heart Failure / Heart-Rate Control) to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Blonanserin: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+## Blonanserin: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

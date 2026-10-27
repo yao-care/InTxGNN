@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Clotrimazole: From Superficial Fungal Infections to Acne
+## Clotrimazole: From Superficial Fungal Infections to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

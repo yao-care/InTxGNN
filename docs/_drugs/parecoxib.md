@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-# Parecoxib: From Perioperative Pain (Indication Not Recorded) to Migraine Disorder
+## Parecoxib: From Perioperative Pain (Indication Not Recorded) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

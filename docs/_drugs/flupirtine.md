@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flupirtine: From Pain Management to Osteoarthritis
+## Flupirtine: From Pain Management to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

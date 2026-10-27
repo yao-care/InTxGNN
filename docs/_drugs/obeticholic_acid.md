@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Obeticholic Acid: From Liver Disease Therapy to Rheumatoid Arthritis
+## Obeticholic Acid: From Liver Disease Therapy to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

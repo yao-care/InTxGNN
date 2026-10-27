@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isoprenaline: From Common Cold and Cardiac Conditions to Nasal Cavity Disease
+## Isoprenaline: From Common Cold and Cardiac Conditions to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

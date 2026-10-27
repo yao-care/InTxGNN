@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Streptokinase: From Thrombolytic Therapy to Myocardial Infarction
+## Streptokinase: From Thrombolytic Therapy to Myocardial Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

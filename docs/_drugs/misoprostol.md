@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Misoprostol: From Obstetric/Gastric Use to Amenorrhea (Predicted)
+## Misoprostol: From Obstetric/Gastric Use to Amenorrhea (Predicted)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-# Montelukast: From Allergic Rhinitis and Asthma to Bronchitis (Bronchiolitis)
+## Montelukast: From Allergic Rhinitis and Asthma to Bronchitis (Bronchiolitis)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

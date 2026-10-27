@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Cabazitaxel: From Cancer Treatment to Female Breast Carcinoma
+## Cabazitaxel: From Cancer Treatment to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

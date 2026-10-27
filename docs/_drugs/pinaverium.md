@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Pinaverium: From Irritable Bowel Syndrome (Gastrointestinal Spasm) to Benign Prostatic Hyperplasia
+## Pinaverium: From Irritable Bowel Syndrome (Gastrointestinal Spasm) to Benign Prostatic Hyperplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

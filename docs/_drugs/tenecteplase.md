@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tenecteplase: From Myocardial Infarction to Posteroinferior Myocardial Infarction
+## Tenecteplase: From Myocardial Infarction to Posteroinferior Myocardial Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

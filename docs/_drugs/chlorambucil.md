@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Chlorambucil: From Hodgkin Lymphoma and Related Lymphoid Malignancies to Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (IGHV-Mutated Subtype)
+## Chlorambucil: From Hodgkin Lymphoma and Related Lymphoid Malignancies to Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (IGHV-Mutated Subtype)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

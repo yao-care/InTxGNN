@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Hydroquinone: From Topical Skin Depigmentation to Seborrheic Keratosis
+## Hydroquinone: From Topical Skin Depigmentation to Seborrheic Keratosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

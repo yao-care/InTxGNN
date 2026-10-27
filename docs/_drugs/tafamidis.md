@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Tafamidis: From Transthyretin Amyloidosis to Primary Amyloidosis
+## Tafamidis: From Transthyretin Amyloidosis to Primary Amyloidosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

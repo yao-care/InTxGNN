@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Sulbactam: From Bacterial Infections (Staphylococcal and E. coli) to Bacterial Arthritis
+## Sulbactam: From Bacterial Infections (Staphylococcal and E. coli) to Bacterial Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

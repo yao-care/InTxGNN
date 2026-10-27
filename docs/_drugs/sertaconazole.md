@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sertaconazole: From Tinea Pedis to Tinea Corporis
+## Sertaconazole: From Tinea Pedis to Tinea Corporis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

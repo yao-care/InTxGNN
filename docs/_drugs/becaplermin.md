@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Becaplermin: From Diabetic Foot Ulcer Wound Healing to Amenorrhea
+## Becaplermin: From Diabetic Foot Ulcer Wound Healing to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

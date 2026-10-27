@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Aliskiren: From Hypertension to Pulmonary Hypertension (Hypoxia/Lung Disease-Related)
+## Aliskiren: From Hypertension to Pulmonary Hypertension (Hypoxia/Lung Disease-Related)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

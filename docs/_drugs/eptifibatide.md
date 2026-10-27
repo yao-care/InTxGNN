@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eptifibatide: From Acute Coronary Syndrome to Rheumatoid Arthritis
+## Eptifibatide: From Acute Coronary Syndrome to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

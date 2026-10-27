@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Orciprenaline: From Asthma to Obstructive Lung Disease
+## Orciprenaline: From Asthma to Obstructive Lung Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

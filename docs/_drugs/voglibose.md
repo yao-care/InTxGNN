@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Voglibose: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Voglibose: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Stanozolol: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Stanozolol: From Hereditary Angioedema to C1 Inhibitor Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

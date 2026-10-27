@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Nitroprusside: From Hypertensive Emergencies to Migraine Disorder
+## Nitroprusside: From Hypertensive Emergencies to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

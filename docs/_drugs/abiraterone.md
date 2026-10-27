@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Abiraterone: From Prostate Cancer (Not Recorded in License Data) to Migraine Disorder
+## Abiraterone: From Prostate Cancer (Not Recorded in License Data) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

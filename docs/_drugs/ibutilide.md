@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ibutilide: From Cardiac Arrhythmia to Rheumatoid Arthritis
+## Ibutilide: From Cardiac Arrhythmia to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amineptine: From Anxiety and Dysthymic Disorders to Agoraphobia
+## Amineptine: From Anxiety and Dysthymic Disorders to Agoraphobia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

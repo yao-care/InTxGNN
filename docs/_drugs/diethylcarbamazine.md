@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Diethylcarbamazine: From Filarial Lymphedema and Elephantiasis to Syndromic Lymphedema
+## Diethylcarbamazine: From Filarial Lymphedema and Elephantiasis to Syndromic Lymphedema
+{: .text-alpha }
 
 ## One-Sentence Summary
 

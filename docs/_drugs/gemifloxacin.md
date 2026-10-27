@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Gemifloxacin: From Bacterial Pneumonia to Hyperamylasemia
+## Gemifloxacin: From Bacterial Pneumonia to Hyperamylasemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

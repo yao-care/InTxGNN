@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Niclosamide: From Anthelmintic Use to Heart Disease
+## Niclosamide: From Anthelmintic Use to Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

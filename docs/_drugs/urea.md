@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Urea (DB03904): Repurposing Evaluation — Awaiting TxGNN Predictions
+## Urea (DB03904): Repurposing Evaluation — Awaiting TxGNN Predictions
+{: .text-alpha }
 
 ## One-Sentence Summary
 

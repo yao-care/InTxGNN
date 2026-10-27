@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cefetamet: From Bacterial Infection (Antibacterial Use) to Rheumatoid Arthritis
+## Cefetamet: From Bacterial Infection (Antibacterial Use) to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Dextromethorphan: From Upper Respiratory Conditions (Rhinitis, Common Cold, Pharyngitis) to Nasal Cavity Disease
+## Dextromethorphan: From Upper Respiratory Conditions (Rhinitis, Common Cold, Pharyngitis) to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

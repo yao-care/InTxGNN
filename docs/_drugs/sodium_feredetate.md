@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sodium Feredetate: From Iron Supplementation to Bronchitis
+## Sodium Feredetate: From Iron Supplementation to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

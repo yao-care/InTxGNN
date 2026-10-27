@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Fosphenytoin: From Epilepsy and Status Epilepticus to Conjunctivitis
+## Fosphenytoin: From Epilepsy and Status Epilepticus to Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

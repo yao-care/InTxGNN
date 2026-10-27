@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-# Ilaprazole: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Ilaprazole: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

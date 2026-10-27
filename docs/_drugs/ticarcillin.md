@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ticarcillin: From Bacterial Infections to Disease of Peritoneum
+## Ticarcillin: From Bacterial Infections to Disease of Peritoneum
+{: .text-alpha }
 
 ## One-Sentence Summary
 

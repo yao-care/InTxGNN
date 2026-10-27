@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Trimebutine: From Functional Gastrointestinal Disorders to Migraine Disorder
+## Trimebutine: From Functional Gastrointestinal Disorders to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

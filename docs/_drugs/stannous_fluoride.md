@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Stannous Fluoride: From Topical Oral Care to Meningococcal Infection
+## Stannous Fluoride: From Topical Oral Care to Meningococcal Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

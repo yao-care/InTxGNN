@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diosmin: From Venous Disease to Amenorrhea
+## Diosmin: From Venous Disease to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

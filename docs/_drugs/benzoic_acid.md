@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Benzoic Acid: From Fibrosing Skin and Connective Tissue Conditions to Bronchitis
+## Benzoic Acid: From Fibrosing Skin and Connective Tissue Conditions to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

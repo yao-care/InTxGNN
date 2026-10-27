@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Ceftizoxime: From Urinary Tract and Gonococcal Infections to Gonococcal Urethritis
+## Ceftizoxime: From Urinary Tract and Gonococcal Infections to Gonococcal Urethritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

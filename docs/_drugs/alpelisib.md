@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Alpelisib: From Oncology Use (PIK3CA-Mutated Breast Cancer) to Pulmonary Hypertension
+## Alpelisib: From Oncology Use (PIK3CA-Mutated Breast Cancer) to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vecuronium: From Neuromuscular Blockade in Anaesthesia to Insomnia
+## Vecuronium: From Neuromuscular Blockade in Anaesthesia to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

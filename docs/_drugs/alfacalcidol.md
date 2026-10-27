@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Alfacalcidol: From Hyperparathyroidism to Familial Isolated Hypoparathyroidism
+## Alfacalcidol: From Hyperparathyroidism to Familial Isolated Hypoparathyroidism
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ripasudil: From Ocular Hypertension and Glaucoma to Hyperprolactinemia
+## Ripasudil: From Ocular Hypertension and Glaucoma to Hyperprolactinemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

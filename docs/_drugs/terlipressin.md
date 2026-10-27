@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Terlipressin: From Portal Hypertension-Related Conditions to Pulmonary Hypertension
+## Terlipressin: From Portal Hypertension-Related Conditions to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

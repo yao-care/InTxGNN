@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Fosfomycin: From Urinary Tract Infection to Pyelitis
+## Fosfomycin: From Urinary Tract Infection to Pyelitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

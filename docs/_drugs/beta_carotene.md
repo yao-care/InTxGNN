@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Beta Carotene: From Nutritional Supplement (Original Indication Not Specified) to Acne
+## Beta Carotene: From Nutritional Supplement (Original Indication Not Specified) to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

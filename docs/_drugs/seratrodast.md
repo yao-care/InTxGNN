@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Seratrodast: From Asthma to Migraine with or without Aura, Susceptibility to
+## Seratrodast: From Asthma to Migraine with or without Aura, Susceptibility to
+{: .text-alpha }
 
 ## One-Sentence Summary
 

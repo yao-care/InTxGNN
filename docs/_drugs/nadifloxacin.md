@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nadifloxacin: From Acne to Malaria
+## Nadifloxacin: From Acne to Malaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

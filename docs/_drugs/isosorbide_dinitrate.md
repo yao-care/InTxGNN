@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isosorbide dinitrate: From Cardiovascular Nitrate Therapy to Alopecia (Top-Ranked Prediction)
+## Isosorbide dinitrate: From Cardiovascular Nitrate Therapy to Alopecia (Top-Ranked Prediction)
+{: .text-alpha }
 
 > **Note on indication selection:** The top-ranked TxGNN prediction (alopecia) has no supporting evidence. The only predictions with real supporting data are **pulmonary hypertension** and **vascular disease**. These are discussed below, and the clinical trial and literature sections cover them.
 

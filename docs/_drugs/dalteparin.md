@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Dalteparin: From Pulmonary Embolism and Related Coagulation Disorders to Thrombophilia due to Protein C Deficiency
+## Dalteparin: From Pulmonary Embolism and Related Coagulation Disorders to Thrombophilia due to Protein C Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

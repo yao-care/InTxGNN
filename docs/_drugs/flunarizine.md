@@ -31,7 +31,8 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-# Flunarizine: From Migraine Prophylaxis to Migraine Disorder
+## Flunarizine: From Migraine Prophylaxis to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

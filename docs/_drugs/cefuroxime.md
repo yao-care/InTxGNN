@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Cefuroxime: From Infectious Otitis Media to Urinary Tract Infection
+## Cefuroxime: From Infectious Otitis Media to Urinary Tract Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

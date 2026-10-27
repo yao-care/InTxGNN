@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rebamipide: From Peptic Ulcer Disease and Gastritis to Esophageal Dyskinesia
+## Rebamipide: From Peptic Ulcer Disease and Gastritis to Esophageal Dyskinesia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

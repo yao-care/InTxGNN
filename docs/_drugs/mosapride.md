@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Mosapride: From Gastrointestinal Motility Disorders to Insomnia
+## Mosapride: From Gastrointestinal Motility Disorders to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Anidulafungin: From Esophageal Candidiasis and Candidemia to Impetigo
+## Anidulafungin: From Esophageal Candidiasis and Candidemia to Impetigo
+{: .text-alpha }
 
 ## One-Sentence Summary
 

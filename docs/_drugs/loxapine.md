@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Loxapine: From Schizophrenia and Bipolar Disorder to Manic Bipolar Affective Disorder
+## Loxapine: From Schizophrenia and Bipolar Disorder to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vasopressin: From Vasopressor Use to Congenital Prothrombin Deficiency
+## Vasopressin: From Vasopressor Use to Congenital Prothrombin Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

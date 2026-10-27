@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Isopropamide: From Peptic Ulcer Disease to Gastroduodenitis
+## Isopropamide: From Peptic Ulcer Disease to Gastroduodenitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

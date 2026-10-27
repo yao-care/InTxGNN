@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Climbazole: From Seborrheic Dermatitis to Acne Keloid
+## Climbazole: From Seborrheic Dermatitis to Acne Keloid
+{: .text-alpha }
 
 ## One-Sentence Summary
 

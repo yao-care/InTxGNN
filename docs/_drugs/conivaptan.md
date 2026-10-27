@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Conivaptan: From Hyponatremia (Injectable Vasopressin Antagonist) to Pulmonary Hypertension
+## Conivaptan: From Hyponatremia (Injectable Vasopressin Antagonist) to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

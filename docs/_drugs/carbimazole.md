@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Carbimazole: From Hyperthyroidism to Resistance to Thyroid Hormone (THRB Mutation)
+## Carbimazole: From Hyperthyroidism to Resistance to Thyroid Hormone (THRB Mutation)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Etanercept: From Psoriatic Arthritis and Rheumatoid Arthritis to Rheumatoid Vasculitis
+## Etanercept: From Psoriatic Arthritis and Rheumatoid Arthritis to Rheumatoid Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

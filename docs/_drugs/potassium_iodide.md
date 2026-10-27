@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Iodide: From Allergic and Vasomotor Rhinitis to Nasal Cavity Disease
+## Potassium Iodide: From Allergic and Vasomotor Rhinitis to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

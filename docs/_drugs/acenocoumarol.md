@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Acenocoumarol: From Pulmonary Embolism and Thrombophilia to Heparin Cofactor 2 Deficiency
+## Acenocoumarol: From Pulmonary Embolism and Thrombophilia to Heparin Cofactor 2 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

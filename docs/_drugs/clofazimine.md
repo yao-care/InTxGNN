@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Clofazimine: From Pyoderma Gangrenosum and Leprosy to Pneumocystosis
+## Clofazimine: From Pyoderma Gangrenosum and Leprosy to Pneumocystosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

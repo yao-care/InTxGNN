@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Zaltoprofen: From an NSAID with an Unspecified Registered Indication to Rheumatoid Arthritis
+## Zaltoprofen: From an NSAID with an Unspecified Registered Indication to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

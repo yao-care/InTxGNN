@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Piperaquine: From Malaria to Plasmodium vivax Malaria
+## Piperaquine: From Malaria to Plasmodium vivax Malaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

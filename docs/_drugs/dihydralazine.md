@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dihydralazine: From Hypertension to Heart Disease
+## Dihydralazine: From Hypertension to Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

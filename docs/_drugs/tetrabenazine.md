@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tetrabenazine: From Huntington Disease to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+## Tetrabenazine: From Huntington Disease to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

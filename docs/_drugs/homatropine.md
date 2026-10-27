@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Homatropine: From Peptic Ulcer Disease and Uveitis to Cauda Equina Syndrome
+## Homatropine: From Peptic Ulcer Disease and Uveitis to Cauda Equina Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Cefoperazone: From Antibacterial Therapy to Sclerosing Cholangitis
+## Cefoperazone: From Antibacterial Therapy to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

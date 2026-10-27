@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Felbinac: From Osteoarthritis to Brachyolmia-Amelogenesis Imperfecta Syndrome
+## Felbinac: From Osteoarthritis to Brachyolmia-Amelogenesis Imperfecta Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

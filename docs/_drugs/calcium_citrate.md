@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Calcium Citrate: From a Calcium Supplement to Hemoglobinopathy
+## Calcium Citrate: From a Calcium Supplement to Hemoglobinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

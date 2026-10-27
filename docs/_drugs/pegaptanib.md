@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Pegaptanib: From Macular Degeneration to Esophageal Varices with Bleeding
+## Pegaptanib: From Macular Degeneration to Esophageal Varices with Bleeding
+{: .text-alpha }
 
 ## One-Sentence Summary
 

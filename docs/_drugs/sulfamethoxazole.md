@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Sulfamethoxazole: From Bacterial Infections (Otitis Media, Nocardiosis, Toxoplasmosis and Others) to Acute Contagious Conjunctivitis
+## Sulfamethoxazole: From Bacterial Infections (Otitis Media, Nocardiosis, Toxoplasmosis and Others) to Acute Contagious Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

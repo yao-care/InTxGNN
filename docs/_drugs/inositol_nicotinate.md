@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Inositol Nicotinate: From Pellagra and Beriberi to Vitamin Deficiency Disorder
+## Inositol Nicotinate: From Pellagra and Beriberi to Vitamin Deficiency Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

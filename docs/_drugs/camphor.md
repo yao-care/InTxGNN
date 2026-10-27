@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Camphor: From Topical Ophthalmic/Counter-Irritant Use to Migraine Disorder
+## Camphor: From Topical Ophthalmic/Counter-Irritant Use to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

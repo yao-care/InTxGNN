@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Glutathione: From an Unspecified Approved Indication to Sclerosing Cholangitis
+## Glutathione: From an Unspecified Approved Indication to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

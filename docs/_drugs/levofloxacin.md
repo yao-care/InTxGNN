@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Levofloxacin: From Bacterial Infections to Monoclonal Gammopathy
+## Levofloxacin: From Bacterial Infections to Monoclonal Gammopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

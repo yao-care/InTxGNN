@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Metamizole: From Analgesic/Antipyretic Use to Rheumatoid Arthritis
+## Metamizole: From Analgesic/Antipyretic Use to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

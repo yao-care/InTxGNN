@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Colistin: From Escherichia coli Infection to Postinfectious Vasculitis
+## Colistin: From Escherichia coli Infection to Postinfectious Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

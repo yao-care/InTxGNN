@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Camylofin: From Antispasmodic Use to Insomnia
+## Camylofin: From Antispasmodic Use to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

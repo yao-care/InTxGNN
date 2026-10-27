@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-# Cyclobenzaprine: From Muscle Spasm Treatment to Myofascial Pain Syndrome
+## Cyclobenzaprine: From Muscle Spasm Treatment to Myofascial Pain Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

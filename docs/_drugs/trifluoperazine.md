@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Trifluoperazine: From Schizophrenia to Manic Bipolar Affective Disorder
+## Trifluoperazine: From Schizophrenia to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

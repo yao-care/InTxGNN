@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Tenofovir Disoproxil: From Chronic Hepatitis B and HIV Infection to Simian Immunodeficiency Virus Infection
+## Tenofovir Disoproxil: From Chronic Hepatitis B and HIV Infection to Simian Immunodeficiency Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

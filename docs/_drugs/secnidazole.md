@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Secnidazole: From Giardiasis and Bacterial Vaginosis to Postmenopausal Atrophic Vaginitis
+## Secnidazole: From Giardiasis and Bacterial Vaginosis to Postmenopausal Atrophic Vaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

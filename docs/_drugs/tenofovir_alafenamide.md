@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Tenofovir Alafenamide: From HIV Infection to Simian Immunodeficiency Virus Infection
+## Tenofovir Alafenamide: From HIV Infection to Simian Immunodeficiency Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

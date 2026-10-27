@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Triptorelin: From Approved Hormonal Therapy to Precocious Puberty
+## Triptorelin: From Approved Hormonal Therapy to Precocious Puberty
+{: .text-alpha }
 
 ## One-Sentence Summary
 

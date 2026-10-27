@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Loteprednol Etabonate: From Uveitis and Allergic Conjunctivitis to Serous Conjunctivitis (Non-Viral)
+## Loteprednol Etabonate: From Uveitis and Allergic Conjunctivitis to Serous Conjunctivitis (Non-Viral)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

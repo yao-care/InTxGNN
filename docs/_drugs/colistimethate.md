@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Colistimethate: From Bacterial Infection to Osteoarthritis
+## Colistimethate: From Bacterial Infection to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Levocetirizine: From Allergic Rhinitis to Rheumatoid Arthritis
+## Levocetirizine: From Allergic Rhinitis to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

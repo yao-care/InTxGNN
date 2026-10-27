@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mizolastine: From Allergic Rhinitis to Acute Intermittent Porphyria
+## Mizolastine: From Allergic Rhinitis to Acute Intermittent Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

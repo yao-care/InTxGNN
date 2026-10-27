@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Indacaterol: From Obstructive Airway Disease to Bronchial Disease
+## Indacaterol: From Obstructive Airway Disease to Bronchial Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

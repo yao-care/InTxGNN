@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Tapentadol: From Pain Management to Migraine Disorder
+## Tapentadol: From Pain Management to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

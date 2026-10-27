@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pidotimod: From Immune Modulation (Original Indication Not Specified) to Osteoarthritis
+## Pidotimod: From Immune Modulation (Original Indication Not Specified) to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

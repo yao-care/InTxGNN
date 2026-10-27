@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Diatrizoate: From Radiographic Contrast Imaging to Osteoarthritis Susceptibility
+## Diatrizoate: From Radiographic Contrast Imaging to Osteoarthritis Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

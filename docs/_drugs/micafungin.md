@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Micafungin: From Esophageal Candidiasis and Candidemia to Urinary Tract Infection
+## Micafungin: From Esophageal Candidiasis and Candidemia to Urinary Tract Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

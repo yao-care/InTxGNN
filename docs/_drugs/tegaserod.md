@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Tegaserod: From Gastrointestinal Motility Disorder to Migraine Disorder
+## Tegaserod: From Gastrointestinal Motility Disorder to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

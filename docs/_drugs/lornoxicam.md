@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Lornoxicam: From Painful and Inflammatory Conditions to Rheumatoid Arthritis
+## Lornoxicam: From Painful and Inflammatory Conditions to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

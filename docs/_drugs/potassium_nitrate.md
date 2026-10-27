@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Nitrate: From Dental Hypersensitivity Products to Meningococcal Infection
+## Potassium Nitrate: From Dental Hypersensitivity Products to Meningococcal Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

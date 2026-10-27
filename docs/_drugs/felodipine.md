@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Felodipine: From Hypertension to Pulmonary Hypertension
+## Felodipine: From Hypertension to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

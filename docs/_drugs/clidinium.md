@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Clidinium: From Irritable Bowel Syndrome to Peptic Ulcer Disease
+## Clidinium: From Irritable Bowel Syndrome to Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

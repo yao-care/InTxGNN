@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Papain: From an Unspecified Original Indication to Primary Release Disorder of Platelets
+## Papain: From an Unspecified Original Indication to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

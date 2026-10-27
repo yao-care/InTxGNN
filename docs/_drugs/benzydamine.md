@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Benzydamine: From Local Oral and Throat Use to Benign Prostatic Hyperplasia
+## Benzydamine: From Local Oral and Throat Use to Benign Prostatic Hyperplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

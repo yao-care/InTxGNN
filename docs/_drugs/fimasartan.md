@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Fimasartan: From Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+## Fimasartan: From Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

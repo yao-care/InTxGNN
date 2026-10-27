@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vitamin A: From Vitamin Deficiency Disorder to Congenital Prothrombin Deficiency (Top-Ranked Prediction), with Perinatal Disease as the Best-Supported Candidate
+## Vitamin A: From Vitamin Deficiency Disorder to Congenital Prothrombin Deficiency (Top-Ranked Prediction), with Perinatal Disease as the Best-Supported Candidate
+{: .text-alpha }
 
 ## One-Sentence Summary
 

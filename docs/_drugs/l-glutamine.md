@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# L-Glutamine: From Short Bowel Syndrome to Dermatitis
+## L-Glutamine: From Short Bowel Syndrome to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

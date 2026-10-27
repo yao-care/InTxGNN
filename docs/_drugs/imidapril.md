@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Imidapril: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
+## Imidapril: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prulifloxacin: From Bacterial Infection (Fluoroquinolone Antibacterial) to Heart Disease
+## Prulifloxacin: From Bacterial Infection (Fluoroquinolone Antibacterial) to Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

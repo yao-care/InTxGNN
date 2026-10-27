@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **8**
 
 </div>
 
-# Simvastatin: From Hyperlipidaemia and Atherosclerosis to Familial Hypercholesterolaemia
+## Simvastatin: From Hyperlipidaemia and Atherosclerosis to Familial Hypercholesterolaemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

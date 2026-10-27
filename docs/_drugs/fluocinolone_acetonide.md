@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Fluocinolone Acetonide: From Inflammatory Skin Conditions to Lichen Planus Pigmentosus
+## Fluocinolone Acetonide: From Inflammatory Skin Conditions to Lichen Planus Pigmentosus
+{: .text-alpha }
 
 ## One-Sentence Summary
 

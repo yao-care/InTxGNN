@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methylergometrine: From Uterotonic Use to Hypertrichosis (Top Prediction), with Migraine as the Most Plausible Candidate
+## Methylergometrine: From Uterotonic Use to Hypertrichosis (Top Prediction), with Migraine as the Most Plausible Candidate
+{: .text-alpha }
 
 ## One-Sentence Summary
 

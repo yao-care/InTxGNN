@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Choline Salicylate: From Oral and Mucosal Use to Rheumatoid Arthritis
+## Choline Salicylate: From Oral and Mucosal Use to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

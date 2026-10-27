@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronic Acid: From Approved Indications to Dry Eye Syndrome
+## Hyaluronic Acid: From Approved Indications to Dry Eye Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

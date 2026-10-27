@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Idebenone: From Leber Hereditary Optic Neuropathy to Hepatic Porphyria
+## Idebenone: From Leber Hereditary Optic Neuropathy to Hepatic Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Trioxsalen: From Vitiligo and Photosensitivity Disorders to Vaginitis
+## Trioxsalen: From Vitiligo and Photosensitivity Disorders to Vaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

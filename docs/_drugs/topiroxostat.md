@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Topiroxostat: From Hyperuricemia and Gout to Renal Hypouricemia
+## Topiroxostat: From Hyperuricemia and Gout to Renal Hypouricemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

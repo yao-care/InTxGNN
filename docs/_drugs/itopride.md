@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Itopride: From Gastritis to Small Bowel Crohn Disease
+## Itopride: From Gastritis to Small Bowel Crohn Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

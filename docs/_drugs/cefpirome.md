@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cefpirome: From Bacterial Infections to Rheumatoid Arthritis
+## Cefpirome: From Bacterial Infections to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

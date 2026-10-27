@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aceclofenac: From Rheumatoid Arthritis and Osteoarthritis to Brachyolmia-Amelogenesis Imperfecta Syndrome
+## Aceclofenac: From Rheumatoid Arthritis and Osteoarthritis to Brachyolmia-Amelogenesis Imperfecta Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

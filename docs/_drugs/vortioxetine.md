@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Vortioxetine: From Depression to Neurotic Disorder (Melancholia and Related Depressive Conditions)
+## Vortioxetine: From Depression to Neurotic Disorder (Melancholia and Related Depressive Conditions)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Cisapride: From Gastroesophageal Reflux Disease to Peptic Ulcer Perforation
+## Cisapride: From Gastroesophageal Reflux Disease to Peptic Ulcer Perforation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

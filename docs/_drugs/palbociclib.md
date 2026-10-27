@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Palbociclib: From Breast Cancer to Hyperthyroidism
+## Palbociclib: From Breast Cancer to Hyperthyroidism
+{: .text-alpha }
 
 ## One-Sentence Summary
 

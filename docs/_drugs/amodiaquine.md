@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amodiaquine: From Malaria to Pulmonary Hypertension
+## Amodiaquine: From Malaria to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

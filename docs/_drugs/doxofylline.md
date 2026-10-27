@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Doxofylline: From Asthma and COPD to Pierre Robin Syndrome Associated with a Chromosomal Anomaly
+## Doxofylline: From Asthma and COPD to Pierre Robin Syndrome Associated with a Chromosomal Anomaly
+{: .text-alpha }
 
 ## One-Sentence Summary
 

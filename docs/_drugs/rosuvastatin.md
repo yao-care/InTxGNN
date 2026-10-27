@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rosuvastatin: From Hyperlipidaemia and Stroke Prevention to Familial Hypercholesterolemia
+## Rosuvastatin: From Hyperlipidaemia and Stroke Prevention to Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

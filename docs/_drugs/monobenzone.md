@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Monobenzone: From Depigmentation Therapy to Dentinogenesis Imperfecta
+## Monobenzone: From Depigmentation Therapy to Dentinogenesis Imperfecta
+{: .text-alpha }
 
 ## One-Sentence Summary
 

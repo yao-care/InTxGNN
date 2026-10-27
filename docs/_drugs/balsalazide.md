@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Balsalazide: From Ulcerative Colitis to Gout
+## Balsalazide: From Ulcerative Colitis to Gout
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lindane: From Scabies and Lice Infestation to Cervical Neuroblastoma
+## Lindane: From Scabies and Lice Infestation to Cervical Neuroblastoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

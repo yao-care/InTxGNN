@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Nalidixic Acid: From Bacterial Infections to Conjunctivitis
+## Nalidixic Acid: From Bacterial Infections to Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

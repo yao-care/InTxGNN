@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Glycolic Acid: From an Unspecified Original Indication to Esophageal Disease
+## Glycolic Acid: From an Unspecified Original Indication to Esophageal Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

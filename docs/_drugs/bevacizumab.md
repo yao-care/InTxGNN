@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bevacizumab: From Ovarian and Peritoneal Cancer to Epiglottis Neoplasm
+## Bevacizumab: From Ovarian and Peritoneal Cancer to Epiglottis Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

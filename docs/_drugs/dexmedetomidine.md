@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Dexmedetomidine: From Sedation (Original Indication Not Specified in Licence Data) to Headache Disorder
+## Dexmedetomidine: From Sedation (Original Indication Not Specified in Licence Data) to Headache Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

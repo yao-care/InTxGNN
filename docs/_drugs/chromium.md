@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Chromium: From an Unspecified Original Indication to Rheumatoid Arthritis
+## Chromium: From an Unspecified Original Indication to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

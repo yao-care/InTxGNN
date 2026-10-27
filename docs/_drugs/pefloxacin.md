@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pefloxacin: From Bacterial Infection (Fluoroquinolone Antibacterial) to Heart Conduction Disease
+## Pefloxacin: From Bacterial Infection (Fluoroquinolone Antibacterial) to Heart Conduction Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

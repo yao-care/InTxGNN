@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Iloperidone: From Schizophrenia to Manic Bipolar Affective Disorder
+## Iloperidone: From Schizophrenia to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

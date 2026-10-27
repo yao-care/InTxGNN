@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Potassium: From an Essential Electrolyte to Hypertensive Disorder
+## Potassium: From an Essential Electrolyte to Hypertensive Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

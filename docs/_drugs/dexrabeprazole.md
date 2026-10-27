@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Dexrabeprazole: From Acid Peptic Disorders to Active Peptic Ulcer Disease
+## Dexrabeprazole: From Acid Peptic Disorders to Active Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

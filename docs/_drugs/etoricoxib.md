@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Etoricoxib: From Inflammatory and Pain Conditions to Migraine Disorder
+## Etoricoxib: From Inflammatory and Pain Conditions to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

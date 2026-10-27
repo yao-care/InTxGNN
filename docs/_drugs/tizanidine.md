@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Tizanidine: From Spasticity-Related Muscle Tone Disorders to Migraine Disorder
+## Tizanidine: From Spasticity-Related Muscle Tone Disorders to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

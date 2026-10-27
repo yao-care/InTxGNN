@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Bleomycin: From Lymphoma and Head and Neck Cancer to Cauda Equina Neoplasm
+## Bleomycin: From Lymphoma and Head and Neck Cancer to Cauda Equina Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

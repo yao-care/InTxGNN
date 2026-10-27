@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-# Sertraline: From Anxiety Disorder to Paranoid Personality Disorder
+## Sertraline: From Anxiety Disorder to Paranoid Personality Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

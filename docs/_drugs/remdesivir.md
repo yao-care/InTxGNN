@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Remdesivir: From an Unspecified Original Indication to Multiple Endocrine Neoplasia
+## Remdesivir: From an Unspecified Original Indication to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

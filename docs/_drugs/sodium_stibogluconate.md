@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Sodium Stibogluconate: From Leishmaniasis to Drug-Induced Osteoporosis
+## Sodium Stibogluconate: From Leishmaniasis to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

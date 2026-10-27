@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Telbivudine: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+## Telbivudine: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

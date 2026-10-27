@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ziprasidone: From Schizophrenia and Bipolar Disorder to Trichotillomania
+## Ziprasidone: From Schizophrenia and Bipolar Disorder to Trichotillomania
+{: .text-alpha }
 
 ## One-Sentence Summary
 

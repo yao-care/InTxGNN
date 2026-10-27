@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tolperisone: From Muscle Spasm (Muscle Relaxant Use) to Laubry-Pezzi Syndrome
+## Tolperisone: From Muscle Spasm (Muscle Relaxant Use) to Laubry-Pezzi Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

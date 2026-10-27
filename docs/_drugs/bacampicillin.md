@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Bacampicillin: From Urinary Tract Infection to Epiglottitis
+## Bacampicillin: From Urinary Tract Infection to Epiglottitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

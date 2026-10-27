@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Triclofos: From Sedation/Hypnosis (No Indication Text on Record) to Insomnia
+## Triclofos: From Sedation/Hypnosis (No Indication Text on Record) to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

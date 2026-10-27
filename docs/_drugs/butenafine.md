@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Butenafine: From Superficial Fungal Skin Infections (Tinea) to Superficial Mycosis
+## Butenafine: From Superficial Fungal Skin Infections (Tinea) to Superficial Mycosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

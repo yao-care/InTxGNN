@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dimethicone: From Gas-Related Digestive Discomfort to Insomnia (Prediction Not Supported)
+## Dimethicone: From Gas-Related Digestive Discomfort to Insomnia (Prediction Not Supported)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

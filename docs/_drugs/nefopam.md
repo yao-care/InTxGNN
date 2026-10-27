@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nefopam: From Pain Management (Indication Not Listed on Licences) to Lumbar Spinal Stenosis
+## Nefopam: From Pain Management (Indication Not Listed on Licences) to Lumbar Spinal Stenosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

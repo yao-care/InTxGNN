@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Parnaparin: From Pulmonary Embolism and Coagulation Disorders to Breast Fibrocystic Disease
+## Parnaparin: From Pulmonary Embolism and Coagulation Disorders to Breast Fibrocystic Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

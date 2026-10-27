@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Polyethylene glycol: From Constipation and Dry Eye to Congenital Ichthyosiform Erythroderma
+## Polyethylene glycol: From Constipation and Dry Eye to Congenital Ichthyosiform Erythroderma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

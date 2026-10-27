@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Sparfloxacin: From Pneumonia to Hyperamylasemia
+## Sparfloxacin: From Pneumonia to Hyperamylasemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

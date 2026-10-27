@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-# Armodafinil: From Narcolepsy to Insomnia
+## Armodafinil: From Narcolepsy to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

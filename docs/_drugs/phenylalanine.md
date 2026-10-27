@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Phenylalanine: From an Unspecified Original Indication to Sclerosing Cholangitis
+## Phenylalanine: From an Unspecified Original Indication to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

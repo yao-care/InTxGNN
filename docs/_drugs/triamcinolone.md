@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Triamcinolone: From Autoimmune and Endocrine Conditions to Alopecia Mucinosa
+## Triamcinolone: From Autoimmune and Endocrine Conditions to Alopecia Mucinosa
+{: .text-alpha }
 
 ## One-Sentence Summary
 

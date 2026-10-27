@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nimotuzumab: From an Unspecified Original Indication to Diabetic Cataract
+## Nimotuzumab: From an Unspecified Original Indication to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Carbocisteine: From Mucolytic Therapy to Gout
+## Carbocisteine: From Mucolytic Therapy to Gout
+{: .text-alpha }
 
 ## One-Sentence Summary
 

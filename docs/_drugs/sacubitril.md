@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **5**
 
 </div>
 
-# Sacubitril: From Heart Failure (Original Indication Not Listed in Registration Data) to Diabetic Nephropathy
+## Sacubitril: From Heart Failure (Original Indication Not Listed in Registration Data) to Diabetic Nephropathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

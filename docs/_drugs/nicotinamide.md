@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Nicotinamide: From Vitamin B3 Deficiency — Repurposing Prediction Pending
+## Nicotinamide: From Vitamin B3 Deficiency — Repurposing Prediction Pending
+{: .text-alpha }
 
 ## One-Sentence Summary
 

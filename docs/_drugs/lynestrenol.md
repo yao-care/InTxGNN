@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Lynestrenol: From Hormonal Contraception to Migraine with or without Aura (Susceptibility)
+## Lynestrenol: From Hormonal Contraception to Migraine with or without Aura (Susceptibility)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

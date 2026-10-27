@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Nicergoline: From Cerebrovascular/Vasoactive Use to Hypertrichosis (Top Prediction), with Migraine as the Best-Supported Candidate
+## Nicergoline: From Cerebrovascular/Vasoactive Use to Hypertrichosis (Top Prediction), with Migraine as the Best-Supported Candidate
+{: .text-alpha }
 
 ## One-Sentence Summary
 

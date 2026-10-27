@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Etizolam: From Anxiety to Insomnia
+## Etizolam: From Anxiety to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

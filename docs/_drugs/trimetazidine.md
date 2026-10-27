@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Trimetazidine: From Angina Pectoris (Cardiac Metabolic Therapy) to Endolymphatic Hydrops
+## Trimetazidine: From Angina Pectoris (Cardiac Metabolic Therapy) to Endolymphatic Hydrops
+{: .text-alpha }
 
 ## One-Sentence Summary
 

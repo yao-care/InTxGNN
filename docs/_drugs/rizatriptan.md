@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **2**
 
 </div>
 
-# Rizatriptan: From Migraine to Migraine with Brainstem Aura
+## Rizatriptan: From Migraine to Migraine with Brainstem Aura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

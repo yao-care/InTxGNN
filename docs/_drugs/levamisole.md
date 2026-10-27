@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Levamisole: From Ascariasis and Hookworm Infection to Drug-Induced Osteoporosis
+## Levamisole: From Ascariasis and Hookworm Infection to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

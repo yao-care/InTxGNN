@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ixabepilone: From Breast Carcinoma to Ewing Sarcoma
+## Ixabepilone: From Breast Carcinoma to Ewing Sarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Silver: From Topical Wound and Burn Care to Bone Paget Disease
+## Silver: From Topical Wound and Burn Care to Bone Paget Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

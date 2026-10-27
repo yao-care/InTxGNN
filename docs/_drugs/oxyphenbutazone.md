@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Oxyphenbutazone: From Rheumatic Disorders (Historical NSAID Use) to Rheumatoid Arthritis
+## Oxyphenbutazone: From Rheumatic Disorders (Historical NSAID Use) to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

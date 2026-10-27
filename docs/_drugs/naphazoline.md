@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Naphazoline: From Ocular Redness Relief to Hypotrichosis Simplex of the Scalp
+## Naphazoline: From Ocular Redness Relief to Hypotrichosis Simplex of the Scalp
+{: .text-alpha }
 
 ## One-Sentence Summary
 

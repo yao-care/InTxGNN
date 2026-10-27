@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Favipiravir: From Influenza to Acquired Hemophagocytic Lymphohistiocytosis Associated with Malignant Disease
+## Favipiravir: From Influenza to Acquired Hemophagocytic Lymphohistiocytosis Associated with Malignant Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

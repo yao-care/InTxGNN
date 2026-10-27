@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ozenoxacin: From Acne to Malaria
+## Ozenoxacin: From Acne to Malaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

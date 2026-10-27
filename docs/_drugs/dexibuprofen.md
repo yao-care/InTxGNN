@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexibuprofen: From Rheumatoid Arthritis to Brachydactyly-Syndactyly Syndrome
+## Dexibuprofen: From Rheumatoid Arthritis to Brachydactyly-Syndactyly Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

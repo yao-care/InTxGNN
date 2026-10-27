@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-# Desloratadine: From Allergic Rhinitis and Urticaria to Cold Urticaria
+## Desloratadine: From Allergic Rhinitis and Urticaria to Cold Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

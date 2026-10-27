@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rofecoxib: From Rheumatoid Arthritis and Osteoarthritis to Heparin Cofactor 2 Deficiency
+## Rofecoxib: From Rheumatoid Arthritis and Osteoarthritis to Heparin Cofactor 2 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

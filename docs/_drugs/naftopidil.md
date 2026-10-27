@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Naftopidil: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
+## Naftopidil: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## One-Sentence Summary
 

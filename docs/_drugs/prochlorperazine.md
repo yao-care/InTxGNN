@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prochlorperazine: From Schizophrenia to Retinal Dystrophy (Top TxGNN Prediction, No Supporting Evidence)
+## Prochlorperazine: From Schizophrenia to Retinal Dystrophy (Top TxGNN Prediction, No Supporting Evidence)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

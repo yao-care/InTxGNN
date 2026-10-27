@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rifabutin: From Mycobacterial Infection to HIV-Associated Opportunistic Infection
+## Rifabutin: From Mycobacterial Infection to HIV-Associated Opportunistic Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

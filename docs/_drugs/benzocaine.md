@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Benzocaine: From Dermatologic and Pharyngeal Conditions to Papillary Conjunctivitis
+## Benzocaine: From Dermatologic and Pharyngeal Conditions to Papillary Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

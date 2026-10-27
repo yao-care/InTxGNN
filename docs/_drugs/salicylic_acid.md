@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Salicylic Acid: From Topical Dermatological Conditions (Acne, Seborrheic Dermatitis) to Papillary Conjunctivitis
+## Salicylic Acid: From Topical Dermatological Conditions (Acne, Seborrheic Dermatitis) to Papillary Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

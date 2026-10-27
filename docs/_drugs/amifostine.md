@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Amifostine: From Cytoprotection in Cancer Therapy to Hypertensive Disorder
+## Amifostine: From Cytoprotection in Cancer Therapy to Hypertensive Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

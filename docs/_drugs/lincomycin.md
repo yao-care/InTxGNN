@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Lincomycin: From Pneumococcal, Staphylococcal and Streptococcal Infections to Hyperamylasemia
+## Lincomycin: From Pneumococcal, Staphylococcal and Streptococcal Infections to Hyperamylasemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

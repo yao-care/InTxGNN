@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Duloxetine: From Depression and Anxiety to Obsessive-Compulsive Disorder
+## Duloxetine: From Depression and Anxiety to Obsessive-Compulsive Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

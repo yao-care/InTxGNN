@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cefditoren: From Bacterial Infection to Osteoarthritis Susceptibility
+## Cefditoren: From Bacterial Infection to Osteoarthritis Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

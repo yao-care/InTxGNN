@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Protamine Sulfate: From Heparin Neutralization to Helminthiasis (Animal)
+## Protamine Sulfate: From Heparin Neutralization to Helminthiasis (Animal)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

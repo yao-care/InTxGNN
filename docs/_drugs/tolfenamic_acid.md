@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tolfenamic Acid: From an Unspecified Labelled Indication to Headache Disorder
+## Tolfenamic Acid: From an Unspecified Labelled Indication to Headache Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

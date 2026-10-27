@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Trazodone: From Depression to Obsessive-Compulsive Disorder
+## Trazodone: From Depression to Obsessive-Compulsive Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

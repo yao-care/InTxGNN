@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-# Ketamine: From Anaesthesia to Headache Disorder
+## Ketamine: From Anaesthesia to Headache Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

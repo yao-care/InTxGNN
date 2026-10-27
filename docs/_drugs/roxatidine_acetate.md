@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Roxatidine Acetate: From Gastric Ulcer to Active Peptic Ulcer Disease
+## Roxatidine Acetate: From Gastric Ulcer to Active Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

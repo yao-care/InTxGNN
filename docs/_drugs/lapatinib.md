@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Lapatinib: From HER2-Positive Breast Carcinoma to Dermatofibrosarcoma Protuberans
+## Lapatinib: From HER2-Positive Breast Carcinoma to Dermatofibrosarcoma Protuberans
+{: .text-alpha }
 
 ## One-Sentence Summary
 

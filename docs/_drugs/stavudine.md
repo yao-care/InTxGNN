@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Stavudine: From HIV Infection / AIDS to Feline Acquired Immunodeficiency Syndrome
+## Stavudine: From HIV Infection / AIDS to Feline Acquired Immunodeficiency Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

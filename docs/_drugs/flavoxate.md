@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Flavoxate: From Urinary Tract Smooth Muscle Relaxation to Irritable Bowel Syndrome
+## Flavoxate: From Urinary Tract Smooth Muscle Relaxation to Irritable Bowel Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

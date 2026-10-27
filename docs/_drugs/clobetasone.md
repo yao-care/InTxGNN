@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Clobetasone: From Topical Corticosteroid-Responsive Skin Conditions to Primary Cutaneous T-Cell Lymphoma
+## Clobetasone: From Topical Corticosteroid-Responsive Skin Conditions to Primary Cutaneous T-Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

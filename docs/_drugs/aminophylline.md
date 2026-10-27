@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aminophylline: From Respiratory Airway Disease (Indication Not Stated on Licences) to Migraine Disorder
+## Aminophylline: From Respiratory Airway Disease (Indication Not Stated on Licences) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

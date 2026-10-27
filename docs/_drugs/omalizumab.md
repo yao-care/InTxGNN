@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Omalizumab: From Allergic Asthma to Bronchitis
+## Omalizumab: From Allergic Asthma to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Magnesium Citrate: From Osteoporosis and Mineral Metabolism Disorders to Calcium-Alkali Syndrome
+## Magnesium Citrate: From Osteoporosis and Mineral Metabolism Disorders to Calcium-Alkali Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

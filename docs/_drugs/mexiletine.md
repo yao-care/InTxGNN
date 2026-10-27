@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mexiletine: From Ventricular Arrhythmia to Hypertrichosis (Top Prediction), with Headache Disorder as the Best-Supported Candidate
+## Mexiletine: From Ventricular Arrhythmia to Hypertrichosis (Top Prediction), with Headache Disorder as the Best-Supported Candidate
+{: .text-alpha }
 
 ## One-Sentence Summary
 

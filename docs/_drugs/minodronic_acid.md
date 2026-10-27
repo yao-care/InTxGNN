@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Minodronic Acid: From Osteoporosis to Pseudo-von Willebrand Disease
+## Minodronic Acid: From Osteoporosis to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

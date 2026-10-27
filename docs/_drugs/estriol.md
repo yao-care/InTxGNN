@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Estriol: From Menopausal Hormone Therapy to Amenorrhea
+## Estriol: From Menopausal Hormone Therapy to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

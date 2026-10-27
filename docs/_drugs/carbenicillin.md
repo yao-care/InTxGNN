@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-# Carbenicillin: From Urinary Tract Infection to Gonococcal Urethritis
+## Carbenicillin: From Urinary Tract Infection to Gonococcal Urethritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

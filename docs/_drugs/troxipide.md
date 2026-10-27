@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Troxipide: From Gastric Ulcer to Esophagitis
+## Troxipide: From Gastric Ulcer to Esophagitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

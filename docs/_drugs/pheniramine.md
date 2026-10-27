@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Pheniramine: From Allergic Rhinitis and Related Allergic Conditions to Allergic Urticaria
+## Pheniramine: From Allergic Rhinitis and Related Allergic Conditions to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

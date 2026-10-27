@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Agomelatine: From Major Depressive Disorder to Agoraphobia
+## Agomelatine: From Major Depressive Disorder to Agoraphobia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

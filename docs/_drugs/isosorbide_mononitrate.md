@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isosorbide Mononitrate: From Angina-Type Nitrate Therapy to Hypertrichosis (Top Prediction)
+## Isosorbide Mononitrate: From Angina-Type Nitrate Therapy to Hypertrichosis (Top Prediction)
+{: .text-alpha }
 
 > Note: The data compiled for this report do not include the approved indication text for the Indian licenses. The drug's original use is therefore described from general pharmacological knowledge (an organic nitrate vasodilator used in ischaemic heart disease) and not from the licence records.
 

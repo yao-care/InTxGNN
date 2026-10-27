@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Epalrestat: From Diabetic Neuropathy to Type 2 Diabetic Nephropathy
+## Epalrestat: From Diabetic Neuropathy to Type 2 Diabetic Nephropathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

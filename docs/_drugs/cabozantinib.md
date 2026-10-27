@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Cabozantinib: From Renal Cell Carcinoma to Unclassified Renal Cell Carcinoma
+## Cabozantinib: From Renal Cell Carcinoma to Unclassified Renal Cell Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

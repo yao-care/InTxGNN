@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ferrous Fumarate: From Iron Deficiency Anemia to Non-Syndromic Esophageal Malformation
+## Ferrous Fumarate: From Iron Deficiency Anemia to Non-Syndromic Esophageal Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

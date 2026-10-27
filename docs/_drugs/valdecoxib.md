@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Valdecoxib: From Arthritis Pain Relief to Osteoarthritis Susceptibility
+## Valdecoxib: From Arthritis Pain Relief to Osteoarthritis Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Methdilazine: From Allergic Conditions (Angioedema, Allergic Rhinitis, Urticaria) to Nasal Cavity Disease
+## Methdilazine: From Allergic Conditions (Angioedema, Allergic Rhinitis, Urticaria) to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

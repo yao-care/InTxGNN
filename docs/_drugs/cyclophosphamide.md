@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-# Cyclophosphamide: From Mycosis Fungoides and Lymphoma to Myeloid Leukemia
+## Cyclophosphamide: From Mycosis Fungoides and Lymphoma to Myeloid Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

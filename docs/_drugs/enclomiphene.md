@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Enclomiphene: From an Unspecified Approved Indication to Acute Intermittent Porphyria
+## Enclomiphene: From an Unspecified Approved Indication to Acute Intermittent Porphyria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

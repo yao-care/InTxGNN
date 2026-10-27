@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Miltefosine: From Leishmaniasis to Diffuse Cutaneous Leishmaniasis
+## Miltefosine: From Leishmaniasis to Diffuse Cutaneous Leishmaniasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

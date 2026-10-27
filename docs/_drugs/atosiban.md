@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Atosiban: From Preterm Labour (Tocolysis) to Primary Hereditary Glaucoma
+## Atosiban: From Preterm Labour (Tocolysis) to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Phenylpropanolamine: From Allergic Rhinitis to Nasal Cavity Disease
+## Phenylpropanolamine: From Allergic Rhinitis to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

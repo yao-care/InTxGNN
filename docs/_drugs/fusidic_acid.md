@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Fusidic Acid: From Bacterial Skin and Systemic Infections to Exposure Keratitis
+## Fusidic Acid: From Bacterial Skin and Systemic Infections to Exposure Keratitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

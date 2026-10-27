@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fenticonazole: From Vulvovaginal Candidiasis to Trichomonal Vulvovaginitis
+## Fenticonazole: From Vulvovaginal Candidiasis to Trichomonal Vulvovaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

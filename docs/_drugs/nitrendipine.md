@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Nitrendipine: From Hypertension to Migraine Disorder
+## Nitrendipine: From Hypertension to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

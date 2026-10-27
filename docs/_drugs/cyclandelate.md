@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cyclandelate: From Vasodilator Therapy to Prinzmetal Angina
+## Cyclandelate: From Vasodilator Therapy to Prinzmetal Angina
+{: .text-alpha }
 
 ## One-Sentence Summary
 

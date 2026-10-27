@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Milrinone: From Heart Failure to Alopecia
+## Milrinone: From Heart Failure to Alopecia
+{: .text-alpha }
 
 **Note on indication choice:** The top-ranked TxGNN prediction is alopecia (rank 1), but it has no supporting trials or literature. The data compiled for this report contain much stronger evidence for two lower-ranked predictions (congestive heart failure and acute pulmonary heart disease). Both are discussed in the sections below.
 

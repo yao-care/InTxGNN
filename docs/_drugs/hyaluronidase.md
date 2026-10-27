@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronidase: From an Adjuvant Enzyme (No Approved Indication on Record) to Diabetic Retinopathy
+## Hyaluronidase: From an Adjuvant Enzyme (No Approved Indication on Record) to Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

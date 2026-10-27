@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Xylitol: From an Unspecified Original Indication to Meningococcal Infection
+## Xylitol: From an Unspecified Original Indication to Meningococcal Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

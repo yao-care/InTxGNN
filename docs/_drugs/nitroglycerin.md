@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **5**
 
 </div>
 
-# Nitroglycerin: From Angina (Label Indication to Be Verified) to Pulmonary Hypertension
+## Nitroglycerin: From Angina (Label Indication to Be Verified) to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Desoximetasone: From Inflammatory Skin Conditions to Alopecia Areata
+## Desoximetasone: From Inflammatory Skin Conditions to Alopecia Areata
+{: .text-alpha }
 
 ## One-Sentence Summary
 

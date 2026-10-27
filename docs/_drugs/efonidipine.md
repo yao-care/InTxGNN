@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Efonidipine: From Hypertension to Pulmonary Hypertension
+## Efonidipine: From Hypertension to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

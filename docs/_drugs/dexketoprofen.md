@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexketoprofen: From Pain Relief to Migraine
+## Dexketoprofen: From Pain Relief to Migraine
+{: .text-alpha }
 
 ## One-Sentence Summary
 

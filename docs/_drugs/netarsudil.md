@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Netarsudil: From Open-Angle Glaucoma to Glaucoma (Primary Hereditary Glaucoma)
+## Netarsudil: From Open-Angle Glaucoma to Glaucoma (Primary Hereditary Glaucoma)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

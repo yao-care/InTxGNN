@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Doripenem: From Cholecystitis to Idiopathic Copper-Associated Cirrhosis
+## Doripenem: From Cholecystitis to Idiopathic Copper-Associated Cirrhosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

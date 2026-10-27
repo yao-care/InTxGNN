@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Reserpine: From Hypertension and Psychotic Disorders to Treatment-Refractory Schizophrenia
+## Reserpine: From Hypertension and Psychotic Disorders to Treatment-Refractory Schizophrenia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

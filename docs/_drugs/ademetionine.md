@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ademetionine: From an Unspecified Original Indication to Acne
+## Ademetionine: From an Unspecified Original Indication to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

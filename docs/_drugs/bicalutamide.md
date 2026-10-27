@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bicalutamide: From Prostate Cancer to Female Breast Carcinoma
+## Bicalutamide: From Prostate Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 
