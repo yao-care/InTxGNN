@@ -52,19 +52,19 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3
 
 ---
 
-### [Heated tobacco products can damage blood vessels after a single use, study finds](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3E2MFV2NG12eGctbTlFeC1qTVNRa3lId2VzSnluM3hEZ1RZY1pWRUE4d0N4Y2tmLS1QWXF1Q2NPRWJWSGNURWJWSTB0Nmx5QzNSckN0dUIzbmM0UktJWWdBYnBGTTc0cW5XYzNvbkxRMWwtMGJBb0dzREc4NHhZQThvc3F4TXprNnBFc1JCUdIBlAFBVV95cUxNelJDN3NRME5HaGtDbVpRSGpJbkRESlh0eF8tM3BoMkE4bF80WEJXdm5Oelg2ZFNzd0cwcEVoSnF5SFhULU5Xb1dodkhIcGdVZHlpM2lfeXI0VlY2VURfakxWVkNvX2g1d1kwTEp3SWlvRmNFaHl2REJOYnAtejRrYjEyUTdhaGhFVWhFM3Vsc1NNZ3pw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [ThePrint](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3E2MFV2NG12eGctbTlFeC1qTVNRa3lId2VzSnluM3hEZ1RZY1pWRUE4d0N4Y2tmLS1QWXF1Q2NPRWJWSGNURWJWSTB0Nmx5QzNSckN0dUIzbmM0UktJWWdBYnBGTTc0cW5XYzNvbkxRMWwtMGJBb0dzREc4NHhZQThvc3F4TXprNnBFc1JCUdIBlAFBVV95cUxNelJDN3NRME5HaGtDbVpRSGpJbkRESlh0eF8tM3BoMkE4bF80WEJXdm5Oelg2ZFNzd0cwcEVoSnF5SFhULU5Xb1dodkhIcGdVZHlpM2lfeXI0VlY2VURfakxWVkNvX2g1d1kwTEp3SWlvRmNFaHl2REJOYnAtejRrYjEyUTdhaGhFVWhFM3Vsc1NNZ3pw?oc=5)
-
----
-
 ### [Abnormal Postpartum BP Linked to Higher Long-Term CVD Risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
+
+---
+
+### [Heated tobacco products cause immediate cardiovascular and genetic damage](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
 
 ---
 

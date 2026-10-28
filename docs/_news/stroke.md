@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 4 articles, 15 related drugs."
+description: "Health news about stroke. 5 articles, 15 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>4 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>5 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [Stroke Cases Rising Among Younger Adults, Warns Hyderabad Medical Experts - ETV Bharat](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVNoQnFna3p6WW92U09PaXVnLVNMYVNJcE5YT0hBWkxUUUI0cUtEZUF6bVNzcHdwTVRUdWRyaHVHOE9MMVdGdVZOekM4RkZ4T1ZZUHR4SlAtcFZKTWtLNzBrXzh0SHJjOHV6VVVaaFhWVThpWGZOUDZQRG5ac1IwNGtHS09NLWNfa2JXUnFxN2JqbWhya0lRcnFiS3pUUDFLX3NqNTdpdHVLWmtFN05GaDNhdFRPejBoTXl0QTAxUnPSAcYBQVVfeXFMTlpFMDZxMVBOS1VJMkowYlp2YW9iVnpTdEhkNGxHbXIxQzlRLTVqbDRRYURGZlQwR2sxcm9qYWo5by1NbTM2eldsNENYdFQ1Nm16UmNkMEQtUWdJRklBa0FycERsalZiTktLMXBBa3F0NGkyaXNiaVM2eHBHLWp3em03aW5oRlktZXc5ZUJ3TENONUFwamQwUVdTY1pDc1gxZ1V2ZW5fMUxGVzVGY2xwSngtUjc4TloxRGdJaGdVTno2dWFTaVd3?oc=5)
+### [Less Than 5% Of Stroke Patients In India Reach Hospitals Within Treatment Window - BW Healthcare World](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDExeEFoTDE0Z3R0MFROczdIZDhMbFJWNU5yOE9GbDBPV3pocUNmcEJIUXlaTXNJRW44bWRaUk1uV3RQVmFDREdYU1pZRTR3YllFc3c4b1FaZFZ6ZnRqVnR5eW1rOWJ4eG9Yc01DNkQ0OVZqN1NHREJxSk81RWRTbnJPbVNENDh5WC04UGlBdHFGRzdndTJsbndxVUJZX3hhWHFRNW4ybmhOSVA3c2c0NGNDaTJOQnJvQi0xMHdwbzVhcFl2RDN3?oc=5)
 
 2026-10-28
 
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVNoQnFna3p6WW92U09PaXVnLVNMYVNJcE5YT0hBWkxUUUI0cUtEZUF6bVNzcHdwTVRUdWRyaHVHOE9MMVdGdVZOekM4RkZ4T1ZZUHR4SlAtcFZKTWtLNzBrXzh0SHJjOHV6VVVaaFhWVThpWGZOUDZQRG5ac1IwNGtHS09NLWNfa2JXUnFxN2JqbWhya0lRcnFiS3pUUDFLX3NqNTdpdHVLWmtFN05GaDNhdFRPejBoTXl0QTAxUnPSAcYBQVVfeXFMTlpFMDZxMVBOS1VJMkowYlp2YW9iVnpTdEhkNGxHbXIxQzlRLTVqbDRRYURGZlQwR2sxcm9qYWo5by1NbTM2eldsNENYdFQ1Nm16UmNkMEQtUWdJRklBa0FycERsalZiTktLMXBBa3F0NGkyaXNiaVM2eHBHLWp3em03aW5oRlktZXc5ZUJ3TENONUFwamQwUVdTY1pDc1gxZ1V2ZW5fMUxGVzVGY2xwSngtUjc4TloxRGdJaGdVTno2dWFTaVd3?oc=5)
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDExeEFoTDE0Z3R0MFROczdIZDhMbFJWNU5yOE9GbDBPV3pocUNmcEJIUXlaTXNJRW44bWRaUk1uV3RQVmFDREdYU1pZRTR3YllFc3c4b1FaZFZ6ZnRqVnR5eW1rOWJ4eG9Yc01DNkQ0OVZqN1NHREJxSk81RWRTbnJPbVNENDh5WC04UGlBdHFGRzdndTJsbndxVUJZX3hhWHFRNW4ybmhOSVA3c2c0NGNDaTJOQnJvQi0xMHdwbzVhcFl2RDN3?oc=5)
 
 ---
 
@@ -75,6 +75,14 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMi0AFBVV95cU
 2026-10-28
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWG5lWW1lckQ4N3lHVUh5MzI2SUhYYzBqbkpVSnctVUtwLXE0S1g1N096LUpIV2xRY1FqRV9fVVcwRUVrSzF0b05FaXBERFBVVEEtOGhITWdpcnZQMm53UEYwZGtCOXVTWlh3SXU0M00teWoxU2gxaVNFSWltMFpGVjhwYk5CNTUwb0xzNDV0VzgwWFl6R2d5cHlLZWRpX0M5V0R4dDEzbzNPa1FlUi1OS3NlMTFDcWl1RXE5WlkyMnZyQ25NZjRxY0NVa1Vlb3JT?oc=5)
+
+---
+
+### [DOACs Beneficial for Patients With A-Fib and Prior Intracranial Bleeding - The Cardiology Advisor](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzl0S1Q1TTFlVFJQTWs4TVZhODUwMkJhbnBUZngxUnV1OGJ5ckxXdVc3Zk43ajNkVEVFVDFBNThMYlJrT0RmSzlrVnlJd3JTVHpMRHpRWk5zdGZaVEFqd3ZVcENIY0ZzQnBPU0VKZVloVGM3Y3lscTl4ak9Xa053Qk5leUpCX0hWTGdyeXBhY0hwdGVIdXlyZEM5V2sxWFhTNkxtQnY0aXJ3bGk3a1hsb0Njb0hKUQ?oc=5)
+
+2026-10-28
+
+Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzl0S1Q1TTFlVFJQTWs4TVZhODUwMkJhbnBUZngxUnV1OGJ5ckxXdVc3Zk43ajNkVEVFVDFBNThMYlJrT0RmSzlrVnlJd3JTVHpMRHpRWk5zdGZaVEFqd3ZVcENIY0ZzQnBPU0VKZVloVGM3Y3lscTl4ak9Xa053Qk5leUpCX0hWTGdyeXBhY0hwdGVIdXlyZEM5V2sxWFhTNkxtQnY0aXJ3bGk3a1hsb0Njb0hKUQ?oc=5)
 
 ---
 
