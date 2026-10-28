@@ -46,17 +46,17 @@ Varenicline is a nicotinic acetylcholine receptor partial agonist, marketed in I
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the India licence has no approved indication text) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not formally available in the data compiled for this report. From general pharmacology, varenicline is a partial agonist of α4β2 nicotinic acetylcholine receptors and a full agonist at α7 receptors. Nicotinic cholinergic signalling and cortical spreading depression are loosely implicated in migraine, which is the only theoretical bridge to this prediction.
 
-No direct mechanistic or clinical link between varenicline and migraine has been shown. The very high TxGNN score reflects proximity in the knowledge graph, not demonstrated efficacy. Other high-ranking predictions (for example migraine with brainstem aura, which is a subtype of migraine) appear to be inherited from the parent migraine node.
+No direct mechanistic or clinical link between varenicline and migraine has been shown. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other high-ranking predictions (for example migraine with brainstem aura, which is a subtype of migraine) appear to reflect the same learned similarity to migraine.
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nizatidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 605
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Nizatidine: predicted new indication Active peptic ulcer disease (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
 monitor_inn: "Nizatidine"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple endocrine neoplasia"]
+description: "Nizatidine: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nizatidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Nizatidine: From Gastric Ulcer to Active Peptic Ulcer Disease
+## Nizatidine: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Nizatidine is an H2-receptor antagonist originally used to treat gastric ulcer, duodenal ulcer, gastroesophageal reflux disease and related acid-related conditions.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is essentially an on-label or near-label use rather than true repurposing.
 Support comes from **0 registered clinical trials** and **19 publications**, mostly older clinical studies and reviews on duodenal ulcer.
 
 ---
@@ -48,12 +47,12 @@ Support comes from **0 registered clinical trials** and **19 publications**, mos
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer (from the knowledge graph; the India license text has no approved indication) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

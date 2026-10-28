@@ -48,10 +48,10 @@ with **no registered clinical trials** and **2 publications** (1979 and 1983) cu
 |------|------|
 | Original Indication | Anxiety |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Anxiety and insomnia often occur together, and calming agents can help with both. The two available publications, however, studied sleep disturbance caused by rheumatic stiffness or arthritis. The benefit may therefore be indirect, through relief of muscle tension or musculoskeletal discomfort, rather than a primary sleep-inducing action.
 
-The very high TxGNN score (99.94%) is a computational prediction only. It does not replace clinical evidence.
+The very high TxGNN score (0.9994) is a computational prediction only. It does not replace clinical evidence.
 
 ## Literature Evidence
 

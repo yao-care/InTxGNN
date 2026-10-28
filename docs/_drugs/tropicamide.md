@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 |------|------|
 | Original Indication | Cycloplegia |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,8 +62,8 @@ The model's link to cauda equina syndrome is probably driven by the shared antim
 Tropicamide is also an ophthalmic preparation with minimal systemic exposure, so a plausible systemic mechanism is lacking. The link is purely computational and biologically weak.
 
 Two other predictions were also reviewed, and both have the same evidence level (L5) and a Hold recommendation:
-- **Obsolete neurogenic bladder (score 99.13%):** Muscarinic antagonism is a validated mechanism for neurogenic detrusor overactivity, so the class-level rationale is credible. Tropicamide has no bladder-selective profile or established dosing for this use, the disease term is obsolete in the ontology, and better-characterized antimuscarinics already exist.
-- **Irritable bowel syndrome (score 99.12%):** Antispasmodic antimuscarinics are used for IBS cramping, which supports a class-level rationale. Tropicamide has no oral or systemic formulation or gastrointestinal data, and approved antispasmodics already cover this niche.
+- **Obsolete neurogenic bladder (score 0.9913):** Muscarinic antagonism is a validated mechanism for neurogenic detrusor overactivity, so the class-level rationale is credible. Tropicamide has no bladder-selective profile or established dosing for this use, the disease term is obsolete in the ontology, and better-characterized antimuscarinics already exist.
+- **Irritable bowel syndrome (score 0.9912):** Antispasmodic antimuscarinics are used for IBS cramping, which supports a class-level rationale. Tropicamide has no oral or systemic formulation or gastrointestinal data, and approved antispasmodics already cover this niche.
 
 ## Clinical Trial Evidence
 

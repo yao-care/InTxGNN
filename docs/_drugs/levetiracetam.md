@@ -4,17 +4,17 @@ title: Levetiracetam
 parent: Model Prediction Only (L5)
 nav_order: 483
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Levetiracetam: predicted new indication Visual epilepsy (evidence level L5). Approved use: Partial epilepsy"
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,22 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Levetiracetam: From Partial Epilepsy to Visual Epilepsy
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Levetiracetam is an antiseizure medication originally used to treat partial (focal) epilepsy.
-The TxGNN model's top-ranked prediction is **Visual Epilepsy**, but the supporting evidence is indirect: **no clinical trials** and **20 general seizure publications** (none specific to visual epilepsy).
-The best-supported candidate among the ten predictions is **Status Epilepticus**, with **16 registered clinical trials** (including two completed Phase 3 RCTs) and **20 publications**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Partial epilepsy |
-| Predicted New Indication | Visual epilepsy (rank 1) |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 (visual epilepsy); L1 for the best-supported alternative, status epilepticus |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Beta-ketothiolase deficiency |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 (visual epilepsy); L1 for the best-supported alternative, status epilepticus |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (visual epilepsy); Proceed with Guardrails (status epilepticus) |
 
@@ -60,28 +58,17 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Visual (photosensitive) epilepsy is a reflex seizure type. A general antiseizure mechanism could plausibly apply. However, the retrieved literature covers general seizure populations (neonatal seizures, post-stroke seizures, prophylaxis after brain injury) and none of it addresses visual or photosensitive epilepsy. The link is therefore an extrapolation, not demonstrated evidence.
 
-The other top-ranked predictions are mostly reflex seizure types (eating, audiogenic, thinking, micturition-induced, orgasm-induced, startle and reading seizures). They are all scored in the 99.9% range. Their evidence differs a lot:
+They are all scored in the 0.9990 range. Their evidence differs a lot:
 
 | Predicted Indication | Score | Evidence Level | Evidence Summary |
 |------|------|------|------|
-| Visual epilepsy | 99.98% | L4 | Indirect only; general seizure literature |
-| Eating seizures | 99.96% | L4 | No levetiracetam efficacy data in this condition |
-| Audiogenic seizures | 99.96% | L4 | Rodent kindling model (PMID 18397292) and a veterinary open-label RCT in cats (PMID 26690830); no human trial |
-| Thinking seizures | 99.96% | L5 | Non-specific literature; model prediction only |
-| Micturition-induced seizures | 99.96% | L5 | Non-specific literature; model prediction only |
-| Orgasm-induced seizures | 99.96% | L5 | No literature or trials |
-| Startle epilepsy | 99.96% | L3 | Small uncontrolled add-on study (PMID 18486495) and case reports |
-| Reading seizures | 99.94% | L4 | Case series (PMID 22386591); related-syndrome studies; a different SV2A ligand (seletracetam) |
-| Status epilepticus | 99.91% | L1 | Multiple Phase 3 RCTs |
-| Beta-ketothiolase deficiency | 99.90% | L5 | No literature; no known mechanistic link |
+| Beta-ketothiolase deficiency | 0.9990 | L5 | No literature; no known mechanistic link |
 
-Status epilepticus is the most clinically grounded candidate. IV levetiracetam is already used as a second-line agent after benzodiazepines, and the high-quality trial evidence below supports it.
+IV levetiracetam is already used as a second-line agent after benzodiazepines, and the high-quality trial evidence below supports it.
 
 ## Clinical Trial Evidence
 
-**Visual epilepsy (rank 1):** Currently no related clinical trials registered.
 
-**Status epilepticus (rank 9, best-supported alternative):**
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -98,7 +85,7 @@ Status epilepticus is the most clinically grounded candidate. IV levetiracetam i
 
 ## Literature Evidence
 
-**Visual epilepsy (rank 1):** The retrieved publications are all about general seizure populations. The most relevant are listed below; none is specific to visual or photosensitive epilepsy.
+The most relevant are listed below; none is specific to visual or photosensitive epilepsy.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -108,7 +95,6 @@ Status epilepticus is the most clinically grounded candidate. IV levetiracetam i
 | [39808752](https://pubmed.ncbi.nlm.nih.gov/39808752/) | 2025 | Network meta-analysis | Neurology | Antiseizure medications in poststroke seizures |
 | [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | Seizure | Phenytoin vs levetiracetam for acute symptomatic seizures in children with acute encephalitis syndrome |
 
-**Status epilepticus (rank 9):**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

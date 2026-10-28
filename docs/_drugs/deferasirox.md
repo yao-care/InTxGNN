@@ -50,10 +50,10 @@ This is a model-driven hypothesis at an early research stage.
 |------|------|
 | Original Indication | Beta-thalassemia and related hemoglobinopathies (hereditary persistence of fetal hemoglobin, beta-thalassemia intermedia, hemoglobinopathy); no approved indication text is available in the India licence records |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
+| India Market Status | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 
 ---
@@ -122,7 +122,7 @@ The prediction rests on a high model score and one indirect preclinical study, w
 - Assessment of whether iron chelation helps or harms host immunity in HIV
 - Review of drug-interaction and organ-toxicity risks in HIV patients on antiretroviral therapy
 
-**Other predicted indications (for reference):** Chronic hepatitis C infection (score 99.39%, L4, Hold) has only an indirect iron-measurement study and a hepatotoxicity concern. Three further predictions (a rare neurodevelopmental disorder, obsolete familial combined hyperlipidemia, and dermatofibrosarcoma protuberans) have model scores only, with no trials or literature (L5, Hold).
+**Other predicted indications (for reference):** Chronic hepatitis C infection (score 0.9939, L4, Hold) has only an indirect iron-measurement study and a hepatotoxicity concern. Three further predictions (a rare neurodevelopmental disorder, obsolete familial combined hyperlipidemia, and dermatofibrosarcoma protuberans) have model scores only, with no trials or literature (L5, Hold).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

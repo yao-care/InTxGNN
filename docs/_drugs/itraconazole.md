@@ -6,9 +6,9 @@ nav_order: 457
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Esophageal candidiasis, candidemia, histoplasmosis, aspergillosis…"
 monitor_inn: "Itraconazole"
 predicted_indications: ["pneumocystosis"]
+description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Itraconazole
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Itraconazole: From Systemic Fungal Infections to Pneumocystosis
+## Itraconazole: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **pneumocystosis**, but the evi
 
 | Item | Content |
 |------|------|
-| Original Indication | Esophageal candidiasis, candidemia, histoplasmosis, aspergillosis, blastomycosis, sporotrichosis and other systemic fungal infections (listed in the knowledge graph; no approved indication text is available from Indian licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,9 +57,9 @@ The TxGNN model predicts it may be effective for **pneumocystosis**, but the evi
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, itraconazole inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis in the fungal cell membrane. Its efficacy in other invasive fungal infections is established.
 
-The link to pneumocystosis is weak. *Pneumocystis jirovecii* was reclassified as a fungus, which may explain why the knowledge graph places it near other fungal diseases. However, it lacks ergosterol in its membrane and uses cholesterol instead, so the azole mechanism has no plausible target in this organism. Standard therapy (trimethoprim-sulfamethoxazole) works through folate pathway inhibition, not ergosterol disruption.
+The link to pneumocystosis is weak. *Pneumocystis jirovecii* was reclassified as a fungus, which may explain why the TxGNN model (deep learning) places it near other fungal diseases. This prediction may reflect similarities the model learned between related diseases, not biological evidence. The organism lacks ergosterol in its membrane and uses cholesterol instead, so the azole mechanism has no plausible target in it. Standard therapy (trimethoprim-sulfamethoxazole) works through folate pathway inhibition, not ergosterol disruption.
 
-The high score of 0.993 therefore most likely reflects network proximity to other fungal indications (histoplasmosis, aspergillosis, candidiasis) rather than a true mechanistic link. This prediction should be treated with caution.
+The high score of 0.9934 therefore most likely reflects network proximity to other fungal indications (histoplasmosis, aspergillosis, candidiasis) rather than a true mechanistic link. This prediction should be treated with caution.
 
 ## Clinical Trial Evidence
 

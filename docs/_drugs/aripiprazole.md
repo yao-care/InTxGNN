@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 69
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Aripiprazole: predicted new indication Major affective disorder (major depressive disorder) (evidence level L1). Approved use: Manic bipolar affective disorder, bipolar disorder, schizophrenia…"
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ Several large, completed Phase 3 placebo-controlled trials of adjunctive use are
 |------|------|
 | Original Indication | Manic bipolar affective disorder, bipolar disorder, schizophrenia, autism spectrum disorder (approved indication text is not available in the registration records) |
 | Predicted New Indication | Major affective disorder (major depressive disorder) |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9962 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -137,7 +137,7 @@ Multiple completed Phase 3 randomized, placebo-controlled trials with over 1,000
 
 ## Other Predicted Indications (Brief Note)
 
-- **Trichotillomania** (score 99.26%, evidence level L3, recommendation: research question): two small trials (one open-label, n=12; one not-yet-recruiting placebo-controlled Phase 2, n=100), one open-label study and several case reports. Aripiprazole has also been reported to cause trichotillomania and other impulsive-compulsive behaviours, so the evidence is mixed.
+- **Trichotillomania** (score 0.9926, evidence level L3, recommendation: research question): two small trials (one open-label, n=12; one not-yet-recruiting placebo-controlled Phase 2, n=100), one open-label study and several case reports. Aripiprazole has also been reported to cause trichotillomania and other impulsive-compulsive behaviours, so the evidence is mixed.
 - **Asperger syndrome susceptibility and Phelan-McDermid syndrome:** no trials or literature. These likely reflect overlap with existing autism-related indications and are model predictions only.
 - **Other predictions** (gaze palsy with progressive scoliosis, amelocerebrohypohidrotic syndrome, distal 17p13.3 microdeletion, Malan overgrowth syndrome, retinal dystrophy, hydranencephaly): no plausible mechanistic link and no clinical evidence. Decision: Hold.
 ## Disclaimer

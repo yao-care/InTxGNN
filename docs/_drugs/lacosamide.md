@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lacosamide
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 467
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Lacosamide: predicted new indication Migraine disorder (evidence level L1). Approved use: Not stated in the registration data compiled for this report (lacosam…"
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
+description: "Lacosamide: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Lacosamide: From Epilepsy (Original Indication Not Listed in Registration Data) to Migraine Disorder
+## Lacosamide: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **4 clinical trials** (including 3 Phase 3 trials) and **19 publications** 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the registration data compiled for this report (lacosamide is known as an antiseizure medicine for focal seizures) |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Manic bipolar affective disorder |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

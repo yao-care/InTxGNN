@@ -48,9 +48,9 @@ but at present there are **no registered clinical trials and no publications** s
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Rosacea conjunctivitis involves inflammation of the ocular surface. Olopatadine could plausibly reduce ocular surface inflammation and itching. This is an inference from general pharmacology and is not supported by the data compiled for this report.
 
-The high TxGNN score likely reflects network proximity to the approved conjunctivitis indications in the knowledge graph. It should be read as a computational signal, not as proof of efficacy. In addition, rosacea conjunctivitis is driven largely by meibomian gland dysfunction and non-allergic inflammation, so an antihistamine may address only part of the disease.
+The high TxGNN score (0.9941) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a computational signal, not as proof of efficacy. In addition, rosacea conjunctivitis is driven largely by meibomian gland dysfunction and non-allergic inflammation, so an antihistamine may address only part of the disease.
 
 ## Clinical Trial Evidence
 

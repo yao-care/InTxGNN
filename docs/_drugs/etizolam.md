@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **insomnia**, but the supportin
 |------|------|
 | Original Indication | Anxiety |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Anxiety and insomnia often occur together, and both respond to drugs that enhance GABAergic inhibition. A preclinical rat study found that etizolam shortened sleep latency, increased non-REM sleep time, and decreased wake time in a dose-dependent manner, which is consistent with the prediction.
 
-The very high TxGNN score (99.94%) is a computational prediction only and is not clinical evidence. No human trial data for insomnia are included in the data compiled for this report.
+The very high TxGNN score (0.9994) is a computational prediction only and is not clinical evidence. No human trial data for insomnia are included in the data compiled for this report.
 
 ---
 

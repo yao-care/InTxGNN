@@ -4,17 +4,17 @@ title: Ketoprofen
 parent: Model Prediction Only (L5)
 nav_order: 463
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ketoprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, arthropathy"
 monitor_inn: "Ketoprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+description: "Ketoprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ketoprofen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ketoprofen: From Rheumatoid Arthritis and Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Ketoprofen: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,13 +57,12 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 Currently, detailed mechanism of action data is not available. Based on known information, ketoprofen is an NSAID that inhibits cyclooxygenase (COX) enzymes and reduces prostaglandin-mediated inflammation and pain. Its efficacy in arthritis conditions is established.
 
-For the top-ranked prediction, the mechanistic link is **not supported**. Acromesomelic dysplasia, Hunter-Thompson type is a skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5. COX inhibition is not expected to correct this genetic defect. The very high TxGNN score (99.98%) is a model output only, with no trial or literature backing.
+For the top-ranked prediction, the mechanistic link is **not supported**. Acromesomelic dysplasia, Hunter-Thompson type is a skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5. COX inhibition is not expected to correct this genetic defect. The very high TxGNN score (0.9998) is a model output only, with no trial or literature backing.
 
 Several lower-ranked predictions are more coherent with ketoprofen's pharmacology, though none has supporting studies in the data compiled for this report:
-- **Spondyloarthropathy, susceptibility to** (score 99.86%): NSAIDs are established first-line symptomatic therapy for spondyloarthritis, making this the most biologically plausible candidate. Class-level evidence should be verified through a dedicated literature search.
-- **Juvenile arthritis due to defect in LACC1** (score 99.74%): NSAIDs are commonly used for symptom control in juvenile arthritis, but the link is indirect and symptomatic.
-- **Pseudoachondroplasia** (score 99.95%): ketoprofen might relieve joint pain and inflammation, but it would not modify the underlying disease.
-- **Myosclerosis** (score 99.98%): a weak, speculative link through symptomatic anti-inflammatory and analgesic effects.
+- **Juvenile arthritis due to defect in LACC1** (score 0.9974): NSAIDs are commonly used for symptom control in juvenile arthritis, but the link is indirect and symptomatic.
+- **Pseudoachondroplasia** (score 0.9995): ketoprofen might relieve joint pain and inflammation, but it would not modify the underlying disease.
+- **Myosclerosis** (score 0.9998): a weak, speculative link through symptomatic anti-inflammatory and analgesic effects.
 
 ## India Market Information
 
@@ -79,7 +78,7 @@ A total of 20 valid single-ingredient registrations exist. Formulations include 
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge graph associations, not label text)**: hypertension and hypertensive disorder, liver failure, kidney disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, pyoureter.
+- **Contraindications (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence)**: hypertension and hypertensive disorder, liver failure, kidney disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, pyoureter.
 - **Drug Interactions**: 226 interactions were identified in total. Examples from the compiled list:
   - *Moderate*: acetylsalicylic acid, corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), metformin, glimepiride, chlorpropamide, mesalazine, balsalazide, naltrexone, potassium citrate and bicarbonate, picosulfuric acid, polyethylene glycol with electrolytes.
   - *Minor*: famotidine, ranitidine, cimetidine, linaclotide.

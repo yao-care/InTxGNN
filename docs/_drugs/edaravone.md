@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency
 |------|------|
 | Original Indication | Ischemic stroke, stroke disorder, amyotrophic lateral sclerosis (approved indication text is not available in the India registrations) |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.47% |
+| TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 This link is weak. Heparin cofactor 2 deficiency is a defect in dermatan sulfate-dependent thrombin inhibition, and a radical scavenger would not correct it. The prediction is therefore hypothetical and unvalidated.
 
-A second prediction, **factor 5 excess with spontaneous thrombosis** (score 99.06%), has the same limitations. Edaravone does not target the coagulation cascade, and no trials or publications support it.
+A second prediction, **factor 5 excess with spontaneous thrombosis** (score 0.9906), has the same limitations. Edaravone does not target the coagulation cascade, and no trials or publications support it.
 
 ## Clinical Trial Evidence
 

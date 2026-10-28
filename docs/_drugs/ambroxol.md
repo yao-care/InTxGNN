@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ambroxol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 46
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Ambroxol: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Pharyngitis"
 monitor_inn: "Ambroxol"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Ambroxol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 |------|------|
 | Original Indication | Pharyngitis |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ Pharyngitis and nasal cavity disease both involve the upper airway mucosa. Mucus
 
 The caveat is that the only linked article concerns acute cough, a lower respiratory tract problem, and does not directly address nasal cavity disease. The very high TxGNN score is a computational prediction only and is not backed by clinical data for this indication.
 
-Other predictions in the list show how weak the evidence is across the board. Acute laryngopharyngitis (score 99.88%) is closely related to the approved use, but has no trials or literature. Vulvovaginal candidiasis, faucial diphtheria and cervical disc degenerative disorder have no clear mechanistic link and no evidence.
+Other predictions in the list show how weak the evidence is across the board. Vulvovaginal candidiasis, faucial diphtheria and cervical disc degenerative disorder have no clear mechanistic link and no evidence.
 
 ## Clinical Trial Evidence
 

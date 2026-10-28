@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifabutin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 738
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not available"
@@ -14,7 +14,7 @@ predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia"
 # Rifabutin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rifabutin: From Mycobacterial Infection to HIV-Associated Opportunistic Infection
+## Rifabutin: From Mycobacterial Infection to HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ Rifabutin has no activity against HIV itself. The evidence supports its use agai
 |------|------|
 | Original Indication | Not available (no approved indication text in the India licence record) |
 | Predicted New Indication | HIV infectious disease (best interpreted as HIV-associated opportunistic infection) |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs, in MAC disease among HIV patients) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

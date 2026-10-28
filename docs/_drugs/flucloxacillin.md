@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Flucloxacillin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 357
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Flucloxacillin: predicted new indication Conjunctivitis (evidence level L4). Approved use: Not stated in the available licence data (anti-staphylococcal antibac…"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "leprosy", "Pr
 # Flucloxacillin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **conjunctivitis**, but **no cl
 |------|------|
 | Original Indication | Not stated in the available licence data (anti-staphylococcal antibacterial use) |
 | Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| TxGNN Prediction Score | 0.9984 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, flucloxacillin is a penicillinase-resistant penicillin, a class that acts against susceptible Gram-positive bacteria, particularly *Staphylococcus aureus*. Mechanistically it may be applicable to bacterial conjunctivitis caused by susceptible Gram-positive organisms.
 
-However, the only retrieved publication concerns gonococcal dacryoadenitis, which involves a different pathogen (*Neisseria gonorrhoeae*) and a different site (the lacrimal gland). It does not support flucloxacillin use. The high model score is therefore not backed by clinical evidence. A second, duplicate ontology entry ("conjunctivitis (disease)", score 99.69%) rests on the same single case report and should be considered together with this one.
+However, the only retrieved publication concerns gonococcal dacryoadenitis, which involves a different pathogen (*Neisseria gonorrhoeae*) and a different site (the lacrimal gland). It does not support flucloxacillin use. The high model score is therefore not backed by clinical evidence. A second, duplicate ontology entry ("conjunctivitis (disease)", score 0.9969) rests on the same single case report and should be considered together with this one.
 
 ## Clinical Trial Evidence
 

@@ -4,17 +4,17 @@ title: Reboxetine
 parent: Model Prediction Only (L5)
 nav_order: 731
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Reboxetine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Reboxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "Ohdo syndrome and variants", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
 ---
 
 # Reboxetine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the compiled data. Pharmac
 
 **No mechanistic link to the predicted indication was identified.** Benign paroxysmal torticollis of infancy is a childhood disorder related to the migraine spectrum and is often associated with channelopathy genes such as CACNA1A. Blocking norepinephrine reuptake has no established rationale here.
 
-The very high TxGNN score (0.999) therefore appears to reflect knowledge-graph patterns rather than biological or clinical support. Use in infants would also raise major safety concerns.
+The very high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence. Use in infants would also raise major safety concerns.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Reboxetine is marketed in India as single-ingredient oral tablets. All 6 registrations are valid, and none are cancelled. The registrations on file do not include approved indication text.
+Reboxetine is marketed in India as single-ingredient oral tablets. All 6 of 6 licences are valid. The registrations on file do not include approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -91,7 +91,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature and no plausible mechanistic link. The target population is infants, for whom safety concerns would be substantial. This is a knowledge-graph prediction only (L5).
+The prediction has no supporting trials or literature and no plausible mechanistic link. The target population is infants, for whom safety concerns would be substantial. This is a TxGNN model (deep learning) prediction only (L5).
 
 **To proceed, the following is needed:**
 - A credible mechanistic hypothesis linking norepinephrine reuptake inhibition to the pathophysiology of benign paroxysmal torticollis of infancy

@@ -50,10 +50,10 @@ The best-supported direction among the other predictions is **eye disease**, wit
 |------|------|
 | Original Indication | Not stated in the licence data compiled for this report |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,10 +62,10 @@ The best-supported direction among the other predictions is **eye disease**, wit
 
 Currently, detailed mechanism of action data is not available. Based on known information, fludrocortisone is a mineralocorticoid with some glucocorticoid activity. It is used clinically for conditions such as adrenal insufficiency and orthostatic hypotension, as seen in the literature compiled for this report.
 
-For primary cutaneous T-cell lymphoma, the link is speculative. Glucocorticoid-mediated lymphocyte apoptosis could plausibly matter in T-cell malignancies. However, fludrocortisone's glucocorticoid potency is low, and corticosteroids used for this lymphoma are other agents. The high score (0.996) reflects model similarity only, and no trial or publication supports it.
+For primary cutaneous T-cell lymphoma, the link is speculative. Glucocorticoid-mediated lymphocyte apoptosis could plausibly matter in T-cell malignancies. However, fludrocortisone's glucocorticoid potency is low, and corticosteroids used for this lymphoma are other agents. The high score (0.9958) reflects model similarity only, and no trial or publication supports it.
 
 The other predictions are weaker still:
-- **Cystic teratoma, spinal cord dermoid cyst, dermoid cyst of ovary, exostosis:** No plausible mechanistic link was found. These are structural or developmental lesions, typically managed surgically. The predictions probably reflect knowledge-graph artifacts.
+- **Cystic teratoma, spinal cord dermoid cyst, dermoid cyst of ovary, exostosis:** No plausible mechanistic link was found. These are structural or developmental lesions, typically managed surgically. The predictions probably reflect TxGNN model (deep learning) artifacts.
 - **Disease of orbital part of eye adnexa, disease of orbital region:** Only a generic corticosteroid anti-inflammatory rationale exists, not specific to fludrocortisone.
 - **Eye disease:** This has indirect and preclinical support (see Literature Evidence) and is the most credible of the predicted directions.
 

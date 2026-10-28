@@ -4,17 +4,17 @@ title: Ripasudil
 parent: Model Prediction Only (L5)
 nav_order: 744
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Ripasudil: predicted new indication Hyperprolactinemia (disease) (evidence level L5). Approved use: Ocular hypertension"
 monitor_inn: "Ripasudil"
-predicted_indications: ["hyperprolactinemia (disease)", "Axenfeld anomaly", "hydrophthalmos", "familial hyperprolactinemia", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "thrombocytopenia"]
+predicted_indications: ["hyperprolactinemia (disease)", "Axenfeld anomaly", "familial hyperprolactinemia", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "thrombocytopenia"]
 ---
 
 # Ripasudil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ The ophthalmic predictions (Axenfeld anomaly, hydrophthalmos, primary infantile 
 |------|------|
 | Original Indication | Ocular hypertension; glaucoma |
 | Predicted New Indication | Hyperprolactinemia (disease) |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known information, ripasudil inhibits ROCK1 and ROCK2 (and also shows pharmacological activity at PRKACA, the catalytic subunit of cAMP-dependent protein kinase). It lowers intraocular pressure by increasing outflow through the trabecular meshwork.
 
-For the top prediction, hyperprolactinemia, **no clear mechanistic link was identified**. A connection through dopaminergic or pituitary signalling is speculative and not supported by the data. The high score most likely reflects knowledge-graph proximity rather than a demonstrated biological relationship. Familial hyperprolactinemia (rank 5) has the same weakness.
+For the top prediction, hyperprolactinemia (score 0.9987), **no clear mechanistic link was identified**. A connection through dopaminergic or pituitary signalling is speculative and not supported by the data. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Familial hyperprolactinemia (score 0.9979) has the same weakness.
 
 Other predictions are more biologically coherent:
 

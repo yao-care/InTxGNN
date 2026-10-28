@@ -4,17 +4,17 @@ title: Trimethoprim
 parent: Model Prediction Only (L5)
 nav_order: 868
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Urinary tract infection"
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Trimethoprim: From Urinary Tract Infection to Punctate Epithelial Keratoconjunctivitis
+## Trimethoprim: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ A second prediction, conjunctivitis, has **19 publications** but no registered t
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection (the data compiled for this report contain no approved indication text from the India licences; the original indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trimethoprim is a dihydrofolate reductase inhibitor. It blocks bacterial folate synthesis and is active against common bacterial pathogens. It is used in ophthalmic solutions, usually combined with polymyxin B, for bacterial conjunctivitis and blepharoconjunctivitis.
 
-The prediction most likely arises from the closeness of punctate epithelial keratoconjunctivitis to conjunctivitis in the knowledge graph. However, this condition is often viral (e.g., adenoviral) or immune-mediated. An antibacterial mechanism would therefore have limited relevance, and the link is speculative.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as punctate epithelial keratoconjunctivitis and conjunctivitis, not biological evidence. However, this condition is often viral (e.g., adenoviral) or immune-mediated. An antibacterial mechanism would therefore have limited relevance, and the link is speculative.
 
-For the second prediction, conjunctivitis (score 99.17%), trimethoprim already counts among its original indications. It is therefore not true repurposing. It does show that the drug is supported for bacterial eye infections.
+Conjunctivitis is already among trimethoprim's original indications. It is therefore not a prediction and not true repurposing. It does show that the drug is supported for bacterial eye infections.
 
 ## Clinical Trial Evidence
 
@@ -96,7 +96,7 @@ No ophthalmic formulation is registered among these licences, so route compatibi
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text):** inherited porphyria and other porphyrias, kidney disease, liver disease, thrombocytopenia, neutropenia, agranulocytosis, G6PD deficiency, folic acid deficiency anaemia, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, gallbladder disease, glycogen storage disease, cystinuria, galactosemia and pyoureter.
+- **Contraindications (from TxGNN model (deep learning) associations, not label text; these may reflect similarities the model learned between related diseases, not biological evidence):** inherited porphyria and other porphyrias, kidney disease, liver disease, thrombocytopenia, neutropenia, agranulocytosis, G6PD deficiency, folic acid deficiency anaemia, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, gallbladder disease, glycogen storage disease, cystinuria, galactosemia and pyoureter.
 - **Drug Interactions:** 106 interactions were identified.
   - Major: potassium citrate, potassium bicarbonate, potassium chloride and potassium gluconate. These raise a risk of hyperkalaemia.
   - Moderate: metformin, pioglitazone, rosiglitazone, repaglinide, balsalazide, picosulfuric acid and sapropterin.

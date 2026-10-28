@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Tamsulosin is an alpha-1 adrenergic receptor blocker originally used to treat benign prostatic hyperplasia (BPH).
 The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but **no clinical trials and no supporting publications** were found for this prediction.
-The high score appears to reflect knowledge-graph proximity rather than a biological rationale.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,9 +48,9 @@ The high score appears to reflect knowledge-graph proximity rather than a biolog
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.996% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The high score appears to reflect knowledge-graph proximity rather than a biolog
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Tamsulosin is known as an alpha-1A/1D adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which improves urinary flow in BPH.
 
-The new indication is a rare congenital hair-growth disorder with a genetic developmental basis. No credible pathway links alpha-1 adrenergic blockade to this condition. The very high score (rank 202 in the model's output) likely reflects proximity within the knowledge graph, not a plausible biological reason.
+The new indication is a rare congenital hair-growth disorder with a genetic developmental basis. No credible pathway links alpha-1 adrenergic blockade to this condition. The very high score (rank 202 in the model's output) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top predictions fall into similar groups, with no supporting evidence:
 - Hair and skin conditions: hypertrichosis, isolated genetic hair shaft abnormality, hypotrichosis simplex of the scalp, congenital hypotrichosis milia, diffuse alopecia areata and alopecia.
@@ -115,7 +115,7 @@ The prediction score is very high, but there are no clinical trials, no supporti
 - Detailed mechanism of action data (MOA), for example from DrugBank
 - Package insert warnings and contraindications from the India regulatory source, needed before safety screening
 - Any preclinical or mechanistic evidence linking alpha-1 adrenergic signalling to hair follicle biology
-- Review of whether the model score reflects true biology or only knowledge-graph proximity to related BPH drugs
+- Review of whether the TxGNN model (deep learning) score reflects similarities the model learned between related diseases rather than biological evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Phylloquinone
 parent: Model Prediction Only (L5)
 nav_order: 668
 evidence_level: L5
-indication_count: 9
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Phylloquinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Osteoporosis, postmenopausal osteoporosis, hypercalcemia…"
 monitor_inn: "Phylloquinone"
-predicted_indications: ["renal tubular acidosis", "hypophosphatemic rickets", "Pendred syndrome", "autosomal recessive nonsyndromic deafness", "NAD(P)HX dehydratase deficiency", "leukocyte adhesion deficiency", "hypermanganesemia with dystonia", "Fraser syndrome", "temtamy preaxial brachydactyly syndrome"]
+predicted_indications: ["renal tubular acidosis", "hypophosphatemic rickets", "Pendred syndrome", "autosomal recessive nonsyndromic deafness", "leukocyte adhesion deficiency", "Fraser syndrome", "temtamy preaxial brachydactyly syndrome"]
+description: "Phylloquinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Phylloquinone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Phylloquinone: From Osteoporosis and Mineral Metabolism Disorders to Renal Tubular Acidosis
+## Phylloquinone: Renal tubular acidosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis, postmenopausal osteoporosis, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, congenital prothrombin deficiency (from the knowledge graph; no approved indication text is available in the India licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Renal tubular acidosis |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,14 +64,12 @@ Other lower-ranked predictions show the same pattern, with weak or no mechanisti
 
 | Rank | Predicted Disease | Score | Assessment |
 |------|------|------|------|
-| 2 | Hypophosphatemic rickets | 99.67% | Indirect bone-mineral link; the main defect (FGF23-mediated phosphate wasting) is not addressed by vitamin K |
-| 3 | Pendred syndrome | 99.56% | No clear mechanism; likely a network artifact |
-| 4 | Autosomal recessive nonsyndromic deafness | 99.51% | No plausible mechanism |
-| 5 | NAD(P)HX dehydratase deficiency | 99.48% | Speculative redox link only |
-| 6 | Leukocyte adhesion deficiency | 99.47% | Weak and indirect; bleeding defect is not vitamin K-responsive |
-| 7 | Hypermanganesemia with dystonia | 99.38% | No credible mechanism |
-| 8 | Fraser syndrome | 99.22% | No mechanistic rationale |
-| 9 | Temtamy preaxial brachydactyly syndrome | 99.08% | Very indirect skeletal-development association |
+| 2 | Hypophosphatemic rickets | 0.9967 | Indirect bone-mineral link; the main defect (FGF23-mediated phosphate wasting) is not addressed by vitamin K |
+| 3 | Pendred syndrome | 0.9956 | No clear mechanism; likely a network artifact |
+| 4 | Autosomal recessive nonsyndromic deafness | 0.9951 | No plausible mechanism |
+| 6 | Leukocyte adhesion deficiency | 0.9947 | Weak and indirect; bleeding defect is not vitamin K-responsive |
+| 8 | Fraser syndrome | 0.9922 | No mechanistic rationale |
+| 9 | Temtamy preaxial brachydactyly syndrome | 0.9908 | Very indirect skeletal-development association |
 
 ## Clinical Trial Evidence
 

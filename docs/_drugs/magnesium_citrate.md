@@ -6,9 +6,9 @@ nav_order: 513
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Magnesium Citrate: predicted new indication Calcium-alkali syndrome (evidence level L5). Approved use: Osteoporosis, postmenopausal osteoporosis, hypercalcaemia…"
 monitor_inn: "Magnesium citrate"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
+description: "Magnesium Citrate: predicted new indication Calcium-alkali syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Magnesium Citrate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Magnesium Citrate: From Osteoporosis and Mineral Metabolism Disorders to Calcium-Alkali Syndrome
+## Magnesium Citrate: Calcium-alkali syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be relevant for **calcium-alkali syndrome**, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis, postmenopausal osteoporosis, hypercalcaemia, nephrocalcinosis, phosphorus metabolism disease, constipation (from the knowledge graph; no approved indication text is available in the India licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Calcium-alkali syndrome |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 However, the link is weak. Calcium-alkali syndrome is caused by excessive intake of calcium and absorbable alkali, and its main management is to stop the offending agents and give hydration. Whether magnesium citrate offers any benefit is unestablished. The citrate component is alkalinizing, and magnesium can accumulate in renal impairment, which is common in this syndrome, so there is a possible safety concern.
 
-A second prediction, **primary bone dysplasia with defective bone mineralization** (score 99.33%), is similarly unsupported. Magnesium is a cofactor in bone mineral metabolism, but these are heterogeneous genetic disorders driven by specific gene defects (for example hypophosphatasia). A general magnesium supplement is not expected to correct them, and no clinical evidence exists for it.
+A second prediction, **primary bone dysplasia with defective bone mineralization** (score 0.9933), is similarly unsupported. Magnesium is a cofactor in bone mineral metabolism, but these are heterogeneous genetic disorders driven by specific gene defects (for example hypophosphatasia). A general magnesium supplement is not expected to correct them, and no clinical evidence exists for it.
 
 ## India Market Information
 
@@ -83,7 +83,7 @@ Twelve valid single-ingredient licences are registered in total; the five above 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a knowledge-graph score, with no clinical trials or literature (Evidence Level L5). Calcium-alkali syndrome is managed by removing the causative agents, and magnesium citrate carries a possible safety concern in the renal impairment that often accompanies it.
+The prediction is supported only by a TxGNN model (deep learning) score, with no clinical trials or literature (Evidence Level L5). Calcium-alkali syndrome is managed by removing the causative agents, and magnesium citrate carries a possible safety concern in the renal impairment that often accompanies it.
 
 **To proceed, the following is needed:**
 - A literature and clinical-trial search specific to magnesium and calcium-alkali syndrome, to see whether any supporting evidence exists

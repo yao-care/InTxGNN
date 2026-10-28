@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Fluticasone Furoate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 374
-evidence_level: L4
-indication_count: 8
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L4). Approved use: Asthma, allergic asthma, intrinsic asthma, allergic rhinitis…"
 monitor_inn: "Fluticasone furoate"
@@ -14,7 +14,7 @@ predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacryl
 # Fluticasone Furoate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but there ar
 |------|------|
 | Original Indication | Asthma, allergic asthma, intrinsic asthma, allergic rhinitis, vasomotor rhinitis |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -65,13 +65,12 @@ The main limitation is formulation. Fluticasone furoate is developed for intrana
 
 | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|
-| Bronchitis | 99.89% | L3 | The most evidence-supported alternative. Indirect evidence from COPD, chronic cough and asthma studies; phenotype and drug-specific contribution unclear |
-| 2-Hydroxyethyl methacrylate sensitization | 99.87% | L5 | Score only, no studies |
-| Dermatitis, atopic | 99.81% | L4 | Duplicate of atopic eczema; consider merging |
-| Contact dermatitis | 99.46% | L5 | Class-level rationale only |
-| Asthma-related traits, susceptibility to | 99.37% | L5 | Likely a knowledge-graph artifact overlapping the existing asthma indication |
-| Occupational dermatitis | 99.33% | L5 | Computational prediction only |
-| Phototoxic dermatitis | 99.12% | L5 | Computational prediction only |
+| Bronchitis | 0.9989 | L5 | The most evidence-supported alternative. Indirect evidence from COPD, chronic cough and asthma studies; phenotype and drug-specific contribution unclear |
+| 2-Hydroxyethyl methacrylate sensitization | 0.9987 | L5 | Score only, no studies |
+| Dermatitis, atopic | 0.9981 | L5 | Duplicate of atopic eczema; consider merging |
+| Contact dermatitis | 0.9946 | L5 | Class-level rationale only |
+| Occupational dermatitis | 0.9933 | L5 | Computational prediction only |
+| Phototoxic dermatitis | 0.9912 | L5 | Computational prediction only |
 
 ## Clinical Trial Evidence
 

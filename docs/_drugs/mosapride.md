@@ -48,9 +48,9 @@ This is a model-only prediction at this stage.
 |------|------|
 | Original Indication | Not stated in the licence records. Pharmacology data describe use for gastrointestinal disorders (accelerating gastric emptying). |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the compiled re
 
 No direct pathway from this mechanism to sleep regulation has been established in the data compiled for this report. A speculative link could involve the gut-brain axis or serotonergic modulation of sleep-wake circuits, but nothing here supports it.
 
-The very high score (99.87%) reflects the model's output only. It should be treated as a hypothesis to test, not as evidence of efficacy.
+The very high score (0.9987) reflects the model's output only. It should be treated as a hypothesis to test, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 

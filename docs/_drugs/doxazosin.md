@@ -6,9 +6,9 @@ nav_order: 287
 evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Doxazosin: predicted new indication Migraine disorder (evidence level L4). Approved use: Hypertension"
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+description: "Doxazosin: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Doxazosin
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Doxazosin: From Hypertension and Benign Prostatic Hyperplasia to Migraine Disorder
+## Doxazosin: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but the 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension; benign prostatic hyperplasia (from the knowledge graph, as no approved indication text is available in the India license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.20% |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -65,7 +65,7 @@ Adrenergic signaling influences cerebrovascular tone and sympathetic activity, b
 
 The very high TxGNN score is a computational prediction only and is not clinical evidence. The mechanistic link here rests on general class knowledge rather than on supplied mechanism data.
 
-A second predicted indication, **migraine with brainstem aura** (score 99.19%), has no direct clinical or literature support. Its score likely reflects its close relationship to migraine disorder rather than independent evidence, so it remains prediction-only (L5, Hold).
+A second predicted indication, **migraine with brainstem aura** (score 0.9919), has no direct clinical or literature support. Its score likely reflects its close relationship to migraine disorder rather than independent evidence, so it remains prediction-only (L5, Hold).
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tizanidine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 841
-evidence_level: L5
-indication_count: 6
+evidence_level: L1
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence data (the drug is known as a muscle relaxan…"
 monitor_inn: "Tizanidine"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 ---
 
 # Tizanidine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **1
 |------|------|
 | Original Indication | Not stated in the licence data (the drug is known as a muscle relaxant for spasticity) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L1 (as assigned in the compiled data; see the caveat below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Evidence level caveat:** The only Phase 3 migraine trial (NCT05484349) has an unknown status and no verified results. The strongest completed evidence is a placebo-controlled RCT in chronic daily headache, not episodic migraine. The L1 grade should therefore be read cautiously.
@@ -124,10 +124,9 @@ A Phase 3 placebo-controlled migraine prevention trial is registered, and a plac
 ## Other Predicted Indications (Brief Note)
 
 The other predicted indications are weaker and do not currently support a decision to proceed:
-- **Migraine with brainstem aura** (score 99.71%): Hold. Evidence is indirect, with no trials.
-- **Migraine with or without aura, susceptibility to** (score 99.54%): Research question. This is a genetic susceptibility entity and should be assessed under migraine disorder.
-- **Tourette syndrome** (score 99.17%): Hold. Other alpha-2 agonists (clonidine, guanfacine) are used for tics, but there are no tizanidine-specific data.
-- **Atrophoderma vermiculata** (score 99.31%) and **ulerythema ophryogenesis** (score 99.13%): Hold. These are model predictions only, with no trials, no literature and no plausible mechanism.
+- **Migraine with brainstem aura** (score 0.9971): Hold. Evidence is indirect, with no trials.
+- **Tourette syndrome** (score 0.9917): Hold. Other alpha-2 agonists (clonidine, guanfacine) are used for tics, but there are no tizanidine-specific data.
+- **Atrophoderma vermiculata** (score 0.9931) and **ulerythema ophryogenesis** (score 0.9913): Hold. These are model predictions only, with no trials, no literature and no plausible mechanism.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

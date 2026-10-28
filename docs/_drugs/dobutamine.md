@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Dobutamine is an injectable beta-1 adrenergic inotrope, used in hospital settings to support heart function.
 The TxGNN model predicts it may be effective for **alopecia**, but the prediction has **no registered clinical trials** and **no relevant supporting publications**.
-The score most likely reflects knowledge-graph proximity to minoxidil rather than a real therapeutic signal.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a real therapeutic signal.
 
 ---
 
@@ -50,9 +50,9 @@ The score most likely reflects knowledge-graph proximity to minoxidil rather tha
 |------|------|
 | Original Indication | Not stated in the India license data compiled for this report |
 | Predicted New Indication | Alopecia |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The score most likely reflects knowledge-graph proximity to minoxidil rather tha
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, dobutamine is a beta-1 adrenergic agonist (inotrope) given by intravenous infusion. It is generally used for short-term cardiac support.
 
-The prediction is **not mechanistically convincing**. Dobutamine has no known role in hair follicle biology. The one publication retrieved is a veterinary case report of heart failure caused by minoxidil intoxication in a cat. Dobutamine was used there only to treat hypotension. It describes the cardiotoxicity of a hair-growth drug and says nothing about dobutamine treating alopecia. The high score most likely reflects graph proximity to minoxidil, a vasodilator used for alopecia.
+The prediction is **not mechanistically convincing**. Dobutamine has no known role in hair follicle biology. The one publication retrieved is a veterinary case report of heart failure caused by minoxidil intoxication in a cat. Dobutamine was used there only to treat hypotension. It describes the cardiotoxicity of a hair-growth drug and says nothing about dobutamine treating alopecia. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Minoxidil is a vasodilator used for alopecia.
 
 The other predicted indications are no stronger. They include hypotrichosis simplex of the scalp, congenital hypotrichosis milia, diffuse alopecia areata, open-angle glaucoma, Raynaud disease, headache disorder, hypertrichosis and migraine disorder. All are rated L5 and Hold, with no trials and no therapeutic literature.
 

@@ -6,9 +6,9 @@ nav_order: 904
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Zinc Acetate: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Wilson disease, dermatitis, exanthem, otitis externa, hemorrhoid…"
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
+description: "Zinc Acetate: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zinc Acetate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Zinc Acetate: From Wilson Disease and Dermatologic Conditions to Severe Nonproliferative Diabetic Retinopathy
+## Zinc Acetate: Severe nonproliferative diabetic retinopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Wilson disease, dermatitis, exanthem, otitis externa, hemorrhoid, burn and others (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A plausible but unproven link is zinc's role as a cofactor for antioxidant enzymes such as Cu/Zn-superoxide dismutase. Through this role it may influence oxidative stress and inflammation in the retina. Zinc is also involved in glucose metabolism and microvascular health, which is relevant to diabetic eye disease.
 
-These links are hypotheses only. Nothing in the data compiled for this report confirms them. The same model also ranks the broader term "diabetic retinopathy" highly (score 99.92%), which is consistent with the first prediction but is not independent evidence.
+These links are hypotheses only. Nothing in the data compiled for this report confirms them. The same model also ranks the broader term "diabetic retinopathy" highly (score 0.9992), which is consistent with the first prediction but is not independent evidence.
 
 ## Clinical Trial Evidence
 

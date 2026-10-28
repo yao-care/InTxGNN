@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Famotidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 338
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Famotidine: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Famotidine"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+description: "Famotidine: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Famotidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Famotidine: From Gastric and Duodenal Ulcer to Duodenogastric Reflux
+## Famotidine: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Famotidine is an H2 receptor antagonist originally used to treat gastric ulcer, duodenal ulcer, gastroesophageal reflux disease, and Zollinger-Ellison syndrome.
-The TxGNN model's top-ranked prediction is **duodenogastric reflux**, but the evidence for it is thin: **no registered clinical trials** and only **2 publications** (one critically ill cohort study and one older Russian-language report).
 Stronger support exists for related ulcer indications such as **peptic ulcer disease** (8 clinical trials, 20 publications), but this largely overlaps famotidine's approved uses and is not true repurposing.
 
 ---
@@ -48,11 +47,11 @@ Stronger support exists for related ulcer indications such as **peptic ulcer dis
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer, Zollinger-Ellison syndrome (the India licence records contain no approved-indication text) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -75,7 +74,6 @@ The other predictions fall into three groups:
 
 Currently no related clinical trials registered for duodenogastric reflux.
 
-For reference, the strongest trial evidence in the data is for the closely related **peptic ulcer disease** prediction (famotidine is mostly the comparator, not the test drug):
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -130,7 +128,7 @@ Famotidine has 20 valid single-ingredient registrations, all oral tablets. The r
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** The drug-disease graph links famotidine to kidney disease, impaired renal function, liver disease, gallbladder disease, nephrolithiasis, hypercalcemia, hyperparathyroidism, sarcoidosis, diarrheal disease, constipation, and gastric cancer/neoplasm. These need verification against the package insert.
+- These need verification against the package insert.
 - **Drug Interactions:** 639 interactions were found. Most listed are Moderate, for example abiraterone, acalabrutinib, tramadol, amiodarone, amitriptyline, aripiprazole, and aminophylline. Alendronic acid and aluminum hydroxide are Minor.
 - **Literature-noted cautions:** Renal dose adjustment is needed, and CNS adverse effects such as delirium have been reported (case report, [11573854](https://pubmed.ncbi.nlm.nih.gov/11573854/)), especially in the elderly.
 
@@ -143,7 +141,7 @@ Please also refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-For the top prediction, duodenogastric reflux, there are no registered trials and only two small or dated publications, so the evidence is L4. Famotidine acts on acid, whereas this condition is bile-driven, so benefit would be indirect. The L1 evidence applies to peptic ulcer disease, which overlaps famotidine's approved uses and is not true repurposing. In that setting famotidine was inferior to PPIs for preventing aspirin-related ulcer recurrence.
+Famotidine acts on acid, whereas this condition is bile-driven, so benefit would be indirect. The L1 evidence applies to peptic ulcer disease, which overlaps famotidine's approved uses and is not true repurposing. In that setting famotidine was inferior to PPIs for preventing aspirin-related ulcer recurrence.
 
 **To proceed, the following is needed:**
 - A prospective, controlled study of famotidine in duodenogastric reflux, with bile-reflux endpoints

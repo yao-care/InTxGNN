@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## L-Glutamine: From Short Bowel Syndrome to Dermatitis
+## L-Glutamine: From Short Bowel Syndrome to Drug-Induced Osteoporosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model's top-ranked prediction is drug-induced osteoporosis, but that p
 |------|------|
 | Original Indication | Short bowel syndrome |
 | Predicted New Indication | Drug-induced osteoporosis (TxGNN rank 1, no evidence). Dermatitis (rank 3) is the best-supported candidate and is the focus of this report. |
-| TxGNN Prediction Score | 99.98% (drug-induced osteoporosis); 99.85% (dermatitis) |
+| TxGNN Prediction Score | 0.9998 (drug-induced osteoporosis); 0.9985 (dermatitis) |
 | Evidence Level | L5 (drug-induced osteoporosis); L3 (dermatitis) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold (drug-induced osteoporosis); Hold for dermatitis, as a research question only |
 
 ---

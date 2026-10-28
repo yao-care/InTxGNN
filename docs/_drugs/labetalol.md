@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Labetalol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 466
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Labetalol: predicted new indication Malignant renovascular hypertension (evidence level L4). Approved use: Hypertensive disorder, hypertension"
 monitor_inn: "Labetalol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+description: "Labetalol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Labetalol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Labetalol: From Hypertension to Malignant Renovascular Hypertension
+## Labetalol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Labetalol is a combined alpha-1 and beta-adrenergic blocker, originally used to treat hypertension and hypertensive disorders.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but there are currently **no registered clinical trials** and only **1 publication** (a 1981 case report) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder, hypertension (from the knowledge graph; no approved indication text is available from the India licences) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.08% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9908 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,12 +59,11 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 However, caution is needed. In renovascular disease, blood pressure is driven largely by activation of the renin-angiotensin system, and beta-blockade only partly reduces renin release. This predicted indication is also very close to the drug's existing hypertension use, so it is better viewed as an extension of the current indication than as true repurposing.
 
-The high TxGNN score (about 99%) most likely reflects closeness to the original hypertension indication in the knowledge graph, not independent clinical evidence.
 
 The other predicted indications are weaker still:
-- **Malignant hypertensive renal disease** (score 99.08%, L5): no trials or literature. Any benefit would come through general blood pressure control rather than a kidney-specific mechanism.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.08%, L4): the retrieved literature concerns pregnancy, perioperative hypertension and animal studies, not pulmonary hypertension. Non-selective beta-blockade may worsen bronchospasm in lung disease.
-- **Pulmonary hypertension with unclear multifactorial mechanism** (score 99.08%, L5): no supporting studies. Beta-blockade may be harmful in some patients with right ventricular dysfunction.
+- **Malignant hypertensive renal disease** (score 0.9908, L5): no trials or literature. Any benefit would come through general blood pressure control rather than a kidney-specific mechanism.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9908, L4): the retrieved literature concerns pregnancy, perioperative hypertension and animal studies, not pulmonary hypertension. Non-selective beta-blockade may worsen bronchospasm in lung disease.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (score 0.9908, L5): no supporting studies. Beta-blockade may be harmful in some patients with right ventricular dysfunction.
 
 ## Clinical Trial Evidence
 
@@ -73,7 +71,6 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-For the top predicted indication (malignant renovascular hypertension):
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

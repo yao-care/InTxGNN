@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gemcitabine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 388
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Gemcitabine: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Ovarian cancer"
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
+description: "Gemcitabine: predicted new indication Rectum mucinous adenocarcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,26 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Gemcitabine: From Ovarian Cancer to Female Breast Carcinoma
+## Gemcitabine: Rectum mucinous adenocarcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Gemcitabine is a cytotoxic nucleoside analogue originally used to treat ovarian cancer.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**,
 with **36 clinical trials** and **20 publications** currently supporting this direction, including Phase 3 trials of gemcitabine-containing regimens.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Rectum mucinous adenocarcinoma |
+| TxGNN Prediction Score | 0.9977 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
-Note: the India licence records compiled for this report contain no approved-indication text, so the original indication above comes from the drug's ovarian cancer indication entries in the knowledge graph.
 
 ## Why is This Prediction Reasonable?
 
@@ -111,7 +109,6 @@ All 20 registrations are valid single-ingredient injectable products. The five b
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (pyrimidine nucleoside antimetabolite) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph links gemcitabine to leukopenia, thrombocytopenia and anaemia. |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Complete blood count, liver function and kidney function |
 | Handling Protection | Must follow cytotoxic drug handling regulations |

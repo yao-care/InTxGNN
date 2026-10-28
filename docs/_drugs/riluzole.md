@@ -4,7 +4,7 @@ title: Riluzole
 parent: Model Prediction Only (L5)
 nav_order: 741
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 monitor_inn: "Riluzole"
@@ -14,7 +14,7 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 # Riluzole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ It is a computational signal only.
 |------|------|
 | Original Indication | Amyotrophic lateral sclerosis |
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, riluzole is an established treatment for ALS and is generally described in the literature as acting on glutamate neurotransmission. Mechanistically, it might be applicable to a neurodevelopmental cortical malformation through glutamate modulation.
 
-That link is speculative. Polymicrogyria is a structural malformation of the cortex that arises during development, and nothing in the data compiled for this report shows that dampening glutamate signalling would change its course. The very high score (99.99%) reflects the model's pattern matching and is not clinical evidence.
+That link is speculative. Polymicrogyria is a structural malformation of the cortex that arises during development, and nothing in the data compiled for this report shows that dampening glutamate signalling would change its course. The very high score (0.9999) reflects the model's pattern matching and is not clinical evidence.
 
 Other top-ranked predictions are closer to the original indication, such as lower motor neuron syndrome with late-adult onset, monomelic amyotrophy, Mills syndrome, and ALS subtypes. They have some biological overlap with motor neuron disease, but they also lack trials or publications specific to those conditions.
 

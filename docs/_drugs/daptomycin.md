@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Daptomycin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 233
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Gram-positive bacterial infections"
 monitor_inn: "Daptomycin"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 ---
 
 # Daptomycin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,21 +48,21 @@ This prediction is best viewed as a model artefact rather than a genuine repurpo
 |------|------|
 | Original Indication | Gram-positive bacterial infections (the approved indication text is not recorded in the licence data compiled for this report; this is based on the known antibacterial use of the drug) |
 | Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.86% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, daptomycin is a cyclic lipopeptide antibiotic with activity against Gram-positive bacteria, and its efficacy in bacterial infections is established.
 
-For osteoarthritis, however, no mechanistic link has been established. The retrieved literature covers daptomycin as an antibacterial treatment for osteoarticular and prosthetic joint infections caused by organisms such as *Staphylococcus*. These are infectious conditions, not degenerative osteoarthritis. The high TxGNN score most likely reflects the graph proximity of joint-related terms, not a true therapeutic signal.
+For osteoarthritis, however, no mechanistic link has been established. The retrieved literature covers daptomycin as an antibacterial treatment for osteoarticular and prosthetic joint infections caused by organisms such as *Staphylococcus*. These are infectious conditions, not degenerative osteoarthritis. The high TxGNN score (0.9986) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predictions worth noting:**
-- **Rheumatoid arthritis** (score 99.84%): this is the only prediction with a plausible hypothesis. A 2025 animal study (PMID 39571268) reported that daptomycin alleviated collagen-induced arthritis by suppressing inflammatory cytokines and the NF-κB pathway, and a follow-up study (PMID 40923559) tested derived lipopeptides. The evidence is preclinical only (Level L4), with no human data. It is better treated as a research question than as a candidate for development.
-- **Gout** (score 99.79%): the only report describes daptomycin-induced rhabdomyolysis complicated by acute gouty arthritis. This is an adverse-event signal and potentially harmful.
+- **Rheumatoid arthritis** (score 0.9984): this is the only prediction with a plausible hypothesis. A 2025 animal study (PMID 39571268) reported that daptomycin alleviated collagen-induced arthritis by suppressing inflammatory cytokines and the NF-κB pathway, and a follow-up study (PMID 40923559) tested derived lipopeptides. The evidence is preclinical only (Level L4), with no human data. It is better treated as a research question than as a candidate for development.
+- **Gout** (score 0.9979): the only report describes daptomycin-induced rhabdomyolysis complicated by acute gouty arthritis. This is an adverse-event signal and potentially harmful.
 - **Rare skeletal dysplasias and genetic syndromes** (ranks 5–10, such as pseudoachondroplasia and brachyolmia): prediction only, with no literature and no plausible mechanism.
 
 ## Clinical Trial Evidence

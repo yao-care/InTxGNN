@@ -6,9 +6,9 @@ nav_order: 720
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Raloxifene: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Postmenopausal osteoporosis, osteoporosis"
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
+description: "Raloxifene: predicted new indication Duodenal ulcer (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Raloxifene
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Raloxifene: From Postmenopausal Osteoporosis to Duodenal Ulcer
+## Raloxifene: Duodenal ulcer (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ The prediction rests on the model score alone.
 
 | Item | Content |
 |------|------|
-| Original Indication | Postmenopausal osteoporosis, osteoporosis (the approved-indication text in the India licence records is empty, so this comes from the knowledge-graph indication data) |
-| Predicted New Indication | Duodenal ulcer |
-| TxGNN Prediction Score | 99.72% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal ulcer (disease) |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator (SERM) with tissue-selective estrogen agonist and antagonist activity in bone, breast and uterus. Its efficacy in postmenopausal osteoporosis is established.
 
-A link to duodenal ulcer is speculative. One could imagine a gastroprotective effect through estrogen receptor signalling in the gastric or duodenal mucosa, but nothing in the data compiled for this report establishes it. The high score (0.997) is a model prediction only.
+A link to duodenal ulcer is speculative. One could imagine a gastroprotective effect through estrogen receptor signalling in the gastric or duodenal mucosa, but nothing in the data compiled for this report establishes it. The high score (0.9972) is a model prediction only.
 
-Other top-ranked predictions are also weak. Hypoalphalipoproteinemia (99.65%) has a plausible lipid-metabolism connection, but raloxifene lowers LDL cholesterol and has little or no effect on HDL, so correcting low HDL is not expected. Duodenal obstruction (99.64%) is largely a structural condition that a SERM is unlikely to address. Duodenogastric reflux (99.59%) is a motility disorder with no known raloxifene action. The three duodenal predictions likely share neighbouring nodes in the knowledge graph, which may inflate their scores.
+Other top-ranked predictions are also weak. Hypoalphalipoproteinemia (0.9965) has a plausible lipid-metabolism connection, but raloxifene lowers LDL cholesterol and has little or no effect on HDL, so correcting low HDL is not expected. Duodenal obstruction (0.9964) is largely a structural condition that a SERM is unlikely to address. Duodenogastric reflux (0.9959) is a motility disorder with no known raloxifene action. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related duodenal diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

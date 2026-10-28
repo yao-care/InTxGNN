@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Heparin: From Pulmonary Embolism to Thrombophilia due to Protein C Deficiency (Autosomal Recessive)
+## Heparin: From Pulmonary Embolism to Thrombophilia due to Protein C Deficiency, Autosomal Recessive
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ but **no clinical trials and no publications** specific to this indication were 
 |------|------|
 | Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans, acquired purpura fulminans |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
-| TxGNN Prediction Score | 99.29% |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

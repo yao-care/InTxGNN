@@ -4,17 +4,17 @@ title: Cholecalciferol
 parent: Model Prediction Only (L5)
 nav_order: 179
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-14
-description: "Cholecalciferol: predicted new indication Familial isolated hypoparathyroidism due to impaired PTH secretion (evidence level L5). Approved use: Osteoporosis, postmenopausal osteoporosis, vitamin D de…"
+indication_count: 4
 monitor_inn: "Cholecalciferol"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
+last_modified_at: 2026-10-23
+description: "Cholecalciferol: predicted new indication Acromesomelic dysplasia, Campailla Martinelli type (evidence level L5). Approved use: Vitamin D deficiency and bone-mineral disorders (osteoporosis…"
 ---
 
 # Cholecalciferol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,30 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Cholecalciferol: From Vitamin D Deficiency and Bone Disorders to Familial Isolated Hypoparathyroidism (Impaired PTH Secretion)
+## Cholecalciferol: From Vitamin D Deficiency and Bone Disorders to Acromesomelic dysplasia, Campailla Martinelli type
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cholecalciferol (vitamin D3) is originally used for vitamin D deficiency and related bone and mineral disorders such as rickets, osteomalacia and osteoporosis.
-The TxGNN model predicts it may be effective for **familial isolated hypoparathyroidism due to impaired PTH secretion**.
-So far there are **no clinical trials and no publications** supporting this specific prediction, so it rests on model output alone.
+Cholecalciferol (vitamin D3) is a nutritional vitamin D form used for vitamin D deficiency and bone-mineral disorders such as rickets, osteomalacia and osteoporosis. The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Campailla-Martinelli type**, an ultra-rare genetic skeletal disorder. This prediction currently has **no supporting clinical trials and no publications**, so it is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis, postmenopausal osteoporosis, vitamin D deficiency, rickets, osteomalacia, hypoparathyroidism (general), and related calcium and phosphorus disorders |
-| Predicted New Indication | Familial isolated hypoparathyroidism due to impaired PTH secretion |
-| TxGNN Prediction Score | 99.79% |
+| Original Indication | Vitamin D deficiency and bone-mineral disorders (osteoporosis, rickets, osteomalacia, hypoparathyroidism). These are relations recorded in the knowledge graph. The local licence records contain no approved-indication text. |
+| Predicted New Indication | Acromesomelic dysplasia, Campailla-Martinelli type |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Licences | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cholecalciferol is a native vitamin D (a pro-hormone) that is converted in the body to active metabolites, which raise intestinal calcium absorption. Its efficacy in vitamin D deficiency and bone mineralisation disorders is well established, and mechanistically it may be applicable to hypoparathyroidism.
+Currently, detailed mechanism of action data is not available. Based on known information, cholecalciferol is a pro-hormone that is converted in the liver and kidney to active vitamin D metabolites. These metabolites support calcium and phosphate absorption and bone mineralization. Its use in vitamin D deficiency and bone-mineral disorders is the basis for the model's link to a skeletal disease.
 
-Hypoparathyroidism in general is already among the drug's original indications, which probably explains the very high model score. The predicted disease is a familial form in which PTH secretion is impaired. The model likely scores it highly because of its closeness to the already-recognised hypoparathyroidism indication, not because of new evidence.
-
-There is an important practical caveat. Converting vitamin D to its active form in the kidney depends on PTH. When PTH is deficient, this step is impaired, so active analogues such as calcitriol or alfacalcidol are generally preferred over native cholecalciferol. The benefit of cholecalciferol in this specific condition is therefore uncertain.
+The link to this new indication is weak. Acromesomelic dysplasia, Campailla Martinelli type is an ultra-rare skeletal dysplasia of genetic origin. Vitamin D's general role in bone mineralization is only a loose, nonspecific connection. It does not address the underlying genetic defect, and no specific mechanistic pathway has been established. The very high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical confirmation.
 
 ## Clinical Trial Evidence
 
@@ -72,48 +68,37 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations exist in India. Five representative ones are listed below; the dossier does not record approved indication text for any of them.
+All 20 listed licences are valid single-ingredient products. The table shows five of them, and the full list may be partial. Approved-indication text is not stated in the licence records.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 38874 | Cholvac-D3 Softgel Capsule | Strip of 4 soft gelatin capsules | Zydus Cadila |
-| 217773 | Tonecal-D3 Softgel Capsule | Strip of 4 soft gelatin capsules | Soigner Medicament Pvt Ltd |
-| 94298 | Gemsoline-D3 Nano Shot | Bottle of 5 ml oral solution | Medley Pharmaceuticals |
-| 242252 | Werol 600000IU Injection | Vial of 1 ml injection | Welgenic Pharma |
-| 5934 | Astesol-D3 60K Chewable Tablet | Strip of 4 chewable tablets | Asterism Pharmaceuticals Pvt Ltd |
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| Registration No. 38874 | Cholvac-D3 Softgel Capsule | Strip of 4 soft gelatin capsules |
+| Registration No. 217773 | Tonecal-D3 Softgel Capsule | Strip of 4 soft gelatin capsules |
+| Registration No. 115844 | Kalzin 60K Tablet | Strip of 4 tablets |
+| Registration No. 94298 | Gemsoline-D3 Nano Shot | Bottle of 5 ml oral solution |
+| Registration No. 242252 | Werol 600000IU Injection | Vial of 1 ml injection |
 
-Available forms include oral soft capsules, tablets, chewable tablets, oral solutions and injections.
+Available forms include oral capsules, tablets, chewable tablets, oral solutions and injections.
 
 ## Safety Considerations
 
-- **Drug Interactions** (56 interactions recorded; examples from the first 20 reviewed):
-  - **Major:** calcifediol, calcitriol, dihydrotachysterol and doxercalciferol. These are other vitamin D-active agents, so combining them risks additive hypercalcaemia.
-  - **Moderate:** thiazide diuretics (bendroflumethiazide, benzthiazide, chlorothiazide, chlorthalidone), barbiturates (amobarbital, butabarbital, butalbital), carbamazepine, bile acid sequestrants (cholestyramine, colesevelam, colestipol), digoxin and digitoxin, and topical calcipotriol and calcitriol.
-  - **Minor:** cimetidine.
-- **Disease associations flagged in the knowledge graph** (derived from graph data, not package insert text). The graph links the drug to caution in the following conditions:
-  - Calcium and phosphate disorders: hypercalcaemia, nephrocalcinosis, hyperparathyroidism, phosphorus metabolism disorders, primary hyperoxaluria.
-  - Organ disease: kidney disease, liver disease, gallbladder disease, sarcoidosis.
-  - Cardiometabolic conditions: hypertension, atrial fibrillation, diabetes mellitus, hyperlipidaemia.
-  - Iron and blood disorders: haemochromatosis and other iron metabolism disorders, Wilson disease, sickle cell anaemia, blood coagulation disorders.
-  - Other: some cancers (prostate, female breast).
+- **Drug Interactions**: 56 interactions are recorded. The major ones are with other vitamin D-active compounds: calcifediol, calcitriol, dihydrotachysterol and doxercalciferol. Moderate interactions include thiazide diuretics (for example chlorothiazide, chlorthalidone), barbiturates (amobarbital, butabarbital, butalbital), carbamazepine, digoxin and digitoxin, and bile acid sequestrants (cholestyramine, colestipol, colesevelam).
+- **Conditions flagged in the knowledge graph** (relations recorded in the knowledge graph, not label text): hypercalcemia, nephrocalcinosis, hyperparathyroidism, sarcoidosis, kidney disease, liver disease, primary hyperoxaluria, and several others. Hypercalcemia and nephrocalcinosis risk is the main practical concern with high-dose use.
 
-Because treating hypoparathyroidism involves close management of calcium levels, the hypercalcaemia and nephrocalcinosis risks are especially relevant here.
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, and the high model score most likely reflects closeness to the existing general hypoparathyroidism indication. Standard care in PTH-deficient states already favours active vitamin D analogues over native cholecalciferol, and narrow calcium margins add a safety concern.
-
-For context, among the other predictions generated for this drug, **renal osteodystrophy** has the strongest support (one Phase 3 trial, NCT00752401, in vitamin D-deficient kidney transplant recipients, one completed comparison trial, and several reviews and observational studies). It may be a better candidate for further evaluation, with calcium, phosphate, PTH and 25(OH)D monitoring.
+The prediction rests on model output alone, with no trials or publications for this disease. Cholecalciferol's nonspecific bone-mineral role does not address the genetic cause of this skeletal dysplasia.
 
 **To proceed, the following is needed:**
-- Disease-specific clinical or literature evidence for familial isolated hypoparathyroidism
-- A comparison against active vitamin D analogues (calcitriol, alfacalcidol) in PTH-deficient patients
-- Detailed mechanism of action data
-- Package insert warnings and contraindications for the India-marketed products
-- A calcium and renal monitoring plan to manage hypercalcaemia and nephrocalcinosis risk
+- Any disease-specific evidence, such as case series, preclinical work or mechanistic studies, linking vitamin D pathways to this dysplasia
+- Mechanism of action data for cholecalciferol
+- Package insert warnings and contraindications from Indian labelling
+- A review of other predicted indications for the drug. For example, renal osteodystrophy has two related trials and several publications, though its evidence is indirect and overlaps with existing uses.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

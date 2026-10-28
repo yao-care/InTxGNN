@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Pefloxacin: predicted new indication Heart conduction disease (evidence level L5). Approved use: Not stated in the licence data (fluoroquinolone antibacterial)"
 monitor_inn: "Pefloxacin"
-predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "heart aneurysm", "cor biloculare", "carcinoid heart disease", "myocardial rupture", "cardiac anomalies-heterotaxy syndrome"]
+predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "myocardial rupture", "carcinoid heart disease", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome", "cor biloculare"]
 ---
 
 # Pefloxacin
@@ -50,10 +50,10 @@ The prediction is model output only, and known fluoroquinolone safety signals po
 |------|------|
 | Original Indication | Not stated in the licence data (fluoroquinolone antibacterial) |
 | Predicted New Indication | Heart conduction disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ The prediction is model output only, and known fluoroquinolone safety signals po
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Pefloxacin belongs to the fluoroquinolone class, which inhibits bacterial DNA gyrase and topoisomerase IV. This is an antibacterial mechanism with no recognised role in cardiac conduction.
 
-The prediction therefore appears weak. Fluoroquinolones are known to block the hERG potassium channel and can prolong the QT interval, so they may cause or worsen conduction abnormalities rather than treat them. The high score most likely reflects network-based associations in the knowledge graph, not a real therapeutic link.
+The prediction therefore appears weak. Fluoroquinolones are known to block the hERG potassium channel and can prolong the QT interval, so they may cause or worsen conduction abnormalities rather than treat them. The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, not biological evidence of a real therapeutic link.
 
-The other top-ranked predictions (all cardiac conditions, scores 99.8% to 99.9%) show the same pattern: heart neoplasm, heart valve disease, congenital ventricular septal anomaly, pericardium disease, heart aneurysm, cor biloculare, carcinoid heart disease, myocardial rupture, and cardiac anomalies-heterotaxy syndrome. Most are structural or congenital conditions that an antibiotic cannot plausibly treat. For heart aneurysm, regulatory safety warnings link fluoroquinolones to a higher risk of aortic aneurysm and dissection, which conflicts with the predicted direction.
+The other top-ranked predictions (all cardiac conditions, scores 0.9985 to 0.9990) show the same pattern: heart neoplasm, heart valve disease, congenital ventricular septal anomaly, pericardium disease, heart aneurysm, cor biloculare, carcinoid heart disease, myocardial rupture, and cardiac anomalies-heterotaxy syndrome. Most are structural or congenital conditions that an antibiotic cannot plausibly treat. For heart aneurysm, regulatory safety warnings link fluoroquinolones to a higher risk of aortic aneurysm and dissection, which conflicts with the predicted direction.
 
 Only two of these predictions have any literature, and neither supports a therapeutic use:
 - **Heart valve disease:** a 2000 rabbit study of pefloxacin and other quinolones in experimental *Pseudomonas aeruginosa* endocarditis. It is preclinical and relevant only to infective valve disease (L4).

@@ -48,19 +48,19 @@ but there are currently **no clinical trials** and **no publications** supportin
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, naftopidil is an alpha-1 adrenergic receptor antagonist (preferentially alpha-1D) and is marketed for benign prostatic hyperplasia, where it relaxes smooth muscle in the prostate and bladder neck.
 
-The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis linked to chromosome 8q regulatory rearrangements that affect TRPS1 expression. No direct mechanistic connection between alpha-1 adrenergic blockade and this genetic basis is evident. The high score most likely reflects proximity in the knowledge graph rather than established biology.
+The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis linked to chromosome 8q regulatory rearrangements that affect TRPS1 expression. No direct mechanistic connection between alpha-1 adrenergic blockade and this genetic basis is evident. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other predictions in the same list (hypertrichosis in general, isolated genetic hair shaft abnormality, and several developmental malformation syndromes) show the same pattern: very high scores (99.92% to 99.95%) with no supporting studies. For general hypertrichosis, the therapeutic goal (reducing versus promoting hair growth) would also need to be defined.
+Other predictions in the same list (hypertrichosis in general, isolated genetic hair shaft abnormality, and several developmental malformation syndromes) show the same pattern: very high scores (0.9992 to 0.9995) with no supporting studies. For general hypertrichosis, the therapeutic goal (reducing versus promoting hair growth) would also need to be defined.
 
 ## India Market Information
 

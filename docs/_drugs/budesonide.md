@@ -50,9 +50,9 @@ The top-ranked prediction is therefore a research question rather than an action
 |------|------|
 | Original Indication | Crohn's disease, inflammatory bowel disease, Crohn's colitis, asthma, allergic rhinitis (approved indication text is not available in the India records) |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 (preclinical and indirect evidence only) |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 (preclinical and indirect evidence only) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -122,7 +122,7 @@ The registered products are inhalation and nebulised forms plus oral controlled-
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: hypertension, epilepsy, liver disease, gallbladder disease, hyperglycaemia, congestive heart failure, measles, herpes simplex keratitis, and several pituitary deficiency conditions (e.g. hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism).
+- **Contraindications (not label text)**: hypertension, epilepsy, liver disease, gallbladder disease, hyperglycaemia, congestive heart failure, measles, herpes simplex keratitis, and several pituitary deficiency conditions (e.g. hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism).
 - **Drug Interactions**: 599 interactions were identified. Major interactions include **adalimumab** and **fosamprenavir**. Moderate interactions include zidovudine, isotretinoin, ketorolac, ibuprofen, nifedipine, ethinylestradiol and fluvoxamine. Minor interactions include formoterol and salbutamol.
 - **Relevant risks from the literature**: corticosteroid contact allergy and hypersensitivity, adrenal (HPA axis) suppression, and possible effects on short-term growth in children.
 

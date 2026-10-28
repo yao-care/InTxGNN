@@ -48,9 +48,9 @@ with **17 clinical trials** and **19 publications** currently supporting this di
 |------|------|
 | Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis (from the knowledge base; no approved indication text is available in the India licence records) |
 | Predicted New Indication | Headache disorder |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

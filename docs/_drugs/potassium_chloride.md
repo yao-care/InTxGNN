@@ -48,9 +48,9 @@ Any benefit is likely supportive (correcting low potassium) rather than a treatm
 |------|------|
 | Original Indication | Potassium deficiency disease; constipation disorder |
 | Predicted New Indication | Renal tubular acidosis |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

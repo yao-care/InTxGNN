@@ -4,17 +4,17 @@ title: Sulfasalazine
 parent: Model Prediction Only (L5)
 nav_order: 798
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Sulfasalazine: predicted new indication Osteoarthritis (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
+description: "Sulfasalazine: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
 monitor_inn: "Sulfasalazine"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sulfasalazine: From Rheumatoid Arthritis and Inflammatory Bowel Disease to Osteoarthritis
+## Sulfasalazine: From Rheumatoid Arthritis and Inflammatory Bowel Disease to Brachydactyly-Syndactyly Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ This report therefore focuses on osteoarthritis (rank 5), as the most credible c
 |------|------|
 | Original Indication | Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease, juvenile idiopathic arthritis, spondyloarthropathy |
 | Predicted New Indication | Osteoarthritis (TxGNN rank 5; the rank 1 prediction, brachydactyly-syndactyly syndrome, has no supporting evidence) |
-| TxGNN Prediction Score | 99.64% (osteoarthritis); 99.94% (rank 1, brachydactyly-syndactyly syndrome) |
-| Evidence Level | L4 (preclinical only, for osteoarthritis); L5 for rank 1 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9964 (osteoarthritis); 0.9994 (rank 1, brachydactyly-syndactyly syndrome) |
+| Evidence Level | L5 (preclinical only, for osteoarthritis); L5 for rank 1 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (rank 1 prediction); research question for osteoarthritis |
 
@@ -70,7 +70,7 @@ For **osteoarthritis**, the link is plausible but unproven. Preclinical studies 
 
 No human trials were identified, so efficacy and safety in osteoarthritis are unestablished.
 
-The other top predictions (brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome, congenital hypotrichosis with juvenile macular dystrophy, WHIM syndrome, acromesomelic dysplasia Hunter-Thompson type, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis) are rare genetic developmental or connective-tissue disorders. No mechanistic link to sulfasalazine was found, and the high scores likely reflect knowledge-graph proximity rather than pharmacology. "Osteoarthritis susceptibility" is a genetic susceptibility entity, not a treatable condition. "Spondyloarthropathy, susceptibility to" is already an original indication, so it is not true repurposing.
+The other top predictions (colobomatous microphthalmia-rhizomelic dysplasia syndrome, congenital hypotrichosis with juvenile macular dystrophy, WHIM syndrome, acromesomelic dysplasia Hunter-Thompson type, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis) are rare genetic developmental or connective-tissue disorders. No mechanistic link to sulfasalazine was found, and the high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. "Osteoarthritis susceptibility" is a genetic susceptibility entity, not a treatable condition. "Spondyloarthropathy, susceptibility to" is already an original indication, so it is not true repurposing.
 
 ---
 

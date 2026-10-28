@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Bacterial infections (streptococcal, staphylococcal, pneumonia…"
 monitor_inn: "Levofloxacin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
 ---
 
 # Levofloxacin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Levofloxacin: From Bacterial Infections to Monoclonal Gammopathy
+## Levofloxacin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ That evidence supports infection *prevention* in myeloma patients, not treatment
 |------|------|
 | Original Indication | Bacterial infections (streptococcal, staphylococcal, pneumonia, anthrax, sinusitis, conjunctivitis, pyelonephritis, etc.) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis (TxGNN rank 1); monoclonal gammopathy (rank 7) is the best-evidenced candidate and is the focus of the evidence sections below |
-| TxGNN Prediction Score | 99.92% (punctate epithelial keratoconjunctivitis); 99.81% (monoclonal gammopathy) |
+| TxGNN Prediction Score | 0.9992 (punctate epithelial keratoconjunctivitis); 0.9981 (monoclonal gammopathy) |
 | Evidence Level | L5 for the top-ranked prediction; L1 for monoclonal gammopathy (infection prophylaxis in myeloma only); L3 for septicemic plague (preclinical) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (top prediction); Proceed with Guardrails as a research question for infection prophylaxis in myeloma |
 
@@ -131,7 +131,7 @@ Twenty valid single-ingredient registrations are on file, all oral tablets. Appr
 
 ## Safety Considerations
 
-- **Contraindications / high-risk conditions (from knowledge-graph associations, not label text):** long QT syndrome, torsades de pointes, epilepsy, liver disease, tendinitis and other tendon disorders, diabetes mellitus and diabetic ketoacidosis, peripheral neuropathy, rhabdomyolysis, myasthenia gravis, impaired renal function, *Clostridium difficile* colitis, thrombocytopenia, leukopenia, pancytopenia, anemia, coronary artery disease, and others.
+- **Contraindications / high-risk conditions (listed as associations, not taken from label text):** long QT syndrome, torsades de pointes, epilepsy, liver disease, tendinitis and other tendon disorders, diabetes mellitus and diabetic ketoacidosis, peripheral neuropathy, rhabdomyolysis, myasthenia gravis, impaired renal function, *Clostridium difficile* colitis, thrombocytopenia, leukopenia, pancytopenia, anemia, coronary artery disease, and others.
 - **Drug Interactions:** 434 interacting drugs are recorded. Major-level examples include **tramadol** and **hydrocortisone**. Moderate-level examples include abiraterone, acarbose, famotidine, formoterol, ketorolac, adenosine, ibuprofen, ethinylestradiol, salbutamol, alfuzosin, alogliptin, metformin, pioglitazone and amifampridine. Minor-level examples include paclitaxel, aldesleukin and altretamine.
 - **Context-specific concerns:** fluoroquinolone-associated peripheral neuropathy argues against the prediction for hematological disease with acquired peripheral neuropathy. In myeloma, resistance selection and healthcare-associated infections (e.g. *C. difficile*) are concerns, and one case report links levofloxacin with pomalidomide to crystal nephropathy.
 

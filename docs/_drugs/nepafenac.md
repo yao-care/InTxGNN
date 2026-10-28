@@ -50,9 +50,9 @@ This is better viewed as confirmation of an existing use than as true repurposin
 |------|------|
 | Original Indication | Not stated in the Indian licence records. Based on the supporting literature, it is used for pain and inflammation after cataract surgery |
 | Predicted New Indication | Eye disease |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

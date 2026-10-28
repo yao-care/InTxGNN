@@ -48,9 +48,9 @@ but there are currently **no registered clinical trials** and only **2 case repo
 |------|------|
 | Original Indication | Not stated in the Indian licence data. Reference pharmacology describes intranasal use for asthma, allergic rhinitis and nasal polyposis, and topical use for allergic skin disorders |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.36% |
+| TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 (model prediction only; the two case reports do not provide mometasone-specific evidence) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

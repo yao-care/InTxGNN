@@ -6,9 +6,9 @@ nav_order: 551
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Orthostatic hypotension, postural orthostatic tachycardia syndrome…"
 monitor_inn: "Midodrine"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
+description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Midodrine
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Midodrine: From Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
+## Midodrine: Variably protease-sensitive prionopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Midodrine is an oral alpha-1 adrenergic agonist originally used to treat orthostatic hypotension and related autonomic disorders (multiple system atrophy, postural orthostatic tachycardia syndrome).
-The TxGNN model's top-ranked prediction is **variably protease-sensitive prionopathy**, but **no clinical trials and no publications** support it, so it rests on a graph-based score alone.
+The TxGNN model's top-ranked prediction is **variably protease-sensitive prionopathy**, but **no clinical trials and no publications** support it. It rests on a TxGNN model (deep learning) score alone, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -47,11 +47,11 @@ The TxGNN model's top-ranked prediction is **variably protease-sensitive prionop
 
 | Item | Content |
 |------|------|
-| Original Indication | Orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy (from the knowledge graph; the registration records list no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Variably protease-sensitive prionopathy |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model's top-ranked prediction is **variably protease-sensitive prionop
 
 Currently, detailed mechanism of action data is not available in the compiled records. Midodrine is known to be a prodrug whose active metabolite, desglymidodrine, is a peripheral alpha-1 adrenergic agonist. It raises arteriolar and venous tone and therefore blood pressure. This fits its use in orthostatic hypotension.
 
-Variably protease-sensitive prionopathy is a neurodegenerative protein-misfolding disease. **No identifiable mechanistic link** connects alpha-1 vasoconstriction to prion pathology. The very high score (99.99%) is a graph-based artefact until proven otherwise. At most, midodrine might offer symptomatic relief of autonomic dysfunction if it occurred in these patients. It would not modify the disease.
+Variably protease-sensitive prionopathy is a neurodegenerative protein-misfolding disease. **No identifiable mechanistic link** connects alpha-1 vasoconstriction to prion pathology. The very high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, midodrine might offer symptomatic relief of autonomic dysfunction if it occurred in these patients. It would not modify the disease.
 
 ---
 
@@ -110,7 +110,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 The prediction has no trials, no literature and no plausible mechanistic link, so it is purely computational (L5).
 
-**Best-supported alternative among the model's predictions:** *hypotensive disorder* (score 99.90%, evidence level L2, Proceed with Guardrails). It is backed by one completed Phase 2 trial, [NCT02893553](https://clinicaltrials.gov/study/NCT02893553) (n=21, hypotension in spinal cord injury), and several reviews and guideline-type papers, plus a randomised trial of midodrine with octreotide in hepatorenal syndrome ([PMID 25644760](https://pubmed.ncbi.nlm.nih.gov/25644760/)). This is largely a re-confirmation of the existing orthostatic hypotension use, not true repurposing.
+**Best-supported alternative among the model's predictions:** *hypotensive disorder* (score 0.9990, evidence level L2, Proceed with Guardrails). It is backed by one completed Phase 2 trial, [NCT02893553](https://clinicaltrials.gov/study/NCT02893553) (n=21, hypotension in spinal cord injury), and several reviews and guideline-type papers, plus a randomised trial of midodrine with octreotide in hepatorenal syndrome ([PMID 25644760](https://pubmed.ncbi.nlm.nih.gov/25644760/)). This is largely a re-confirmation of the existing orthostatic hypotension use, not true repurposing.
 
 **To proceed, the following is needed:**
 - Any preclinical or clinical rationale linking midodrine to prion disease, or a decision to deprioritise this prediction

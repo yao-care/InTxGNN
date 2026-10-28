@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexlansoprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 253
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Dexlansoprazole: predicted new indication Active peptic ulcer disease (evidence level L4). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "Dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
+last_modified_at: 2026-10-27
+description: "Dexlansoprazole: predicted new indication gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexlansoprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,98 +33,76 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Dexlansoprazole: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Dexlansoprazole: proton pump inhibitor → gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dexlansoprazole is a proton pump inhibitor originally used to treat peptic ulcer disease, gastroesophageal reflux disease (GERD) and erosive esophagitis.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but the **2 linked Phase 3 trials** studied erosive esophagitis rather than ulcers, and no ulcer-specific efficacy trial has reported results.
-Because peptic ulcer disease is already among its original indications, this is not a true repurposing candidate.
-
----
+Dexlansoprazole is a proton pump inhibitor, an acid-suppressing drug taken as a modified-release capsule.
+The TxGNN model predicts it may be effective for **gastroduodenitis**, but the data compiled for this report contain **no clinical trials and no publications** for this disease.
+The prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis (the India licence records contain no indication text) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.999% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | gastroduodenitis |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Dexlansoprazole is a proton pump inhibitor (PPI). It blocks the H+/K+ ATPase in gastric parietal cells and suppresses gastric acid secretion. Lowering acid is the core mechanism behind peptic ulcer healing. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the general PPI class mechanism described in the literature.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Dexlansoprazole belongs to the proton pump inhibitor class, which reduces gastric acid secretion.
 
-The predicted indication sits very close to the existing ones. Active peptic ulcer disease belongs to the same acid-related disease family as the peptic ulcer disease and GERD indications already linked to the drug. The high TxGNN score therefore mostly reflects this closeness, not a new therapeutic area.
+Gastroduodenitis is an inflammation of the stomach and duodenal lining. Acid suppression could plausibly ease symptoms of acid-related mucosal inflammation, because less acid reaches the irritated tissue. This is a reasoned hypothesis and has not been tested in any trial or publication supplied here.
 
-The linked Phase 3 trials (NCT00251719, NCT00251693) enrolled patients with erosive esophagitis, not ulcer patients. They support safety and acid suppression but not direct ulcer efficacy.
-
----
+The high score of 0.9998 reflects a computational prediction. It should not be read as evidence of clinical benefit.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00251719](https://clinicaltrials.gov/study/NCT00251719) | Phase 3 | Completed | 2054 | Dexlansoprazole MR 60/90 mg vs lansoprazole 30 mg for 8 weeks in healing erosive esophagitis; indirect support only |
-| [NCT00251693](https://clinicaltrials.gov/study/NCT00251693) | Phase 3 | Completed | 2038 | Sibling trial with the same design in erosive esophagitis; indirect support through safety and acid-suppression data |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematic review / network meta-analysis | Am J Gastroenterol | Compares P-CAB and PPIs for healing grade C/D esophagitis; relevant to GERD, not ulcers |
-| [18821474](https://pubmed.ncbi.nlm.nih.gov/18821474/) | 2008 | Review | Curr Opin Investig Drugs | Development overview of dexlansoprazole modified-release for reflux esophagitis |
-| [36150104](https://pubmed.ncbi.nlm.nih.gov/36150104/) | 2022 | Preclinical/mechanistic | J Chin Med Assoc | PPIs, including dexlansoprazole, suppress vacuolar-type ATPase and induce endoplasmic reticulum stress; examined in relation to gastric cancer risk |
-
----
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 59177 | Dexolan Capsule MR | Strip of 10 capsule MR | Not stated in the licence record |
-| 64032 | Dexsofighter 60 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record |
-| 58377 | DDR 60 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record |
-| 58423 | DDR 30 Capsule MR | Strip of 10 capsule MR | Not stated in the licence record |
-| 58342 | Deltone Capsule MR | Strip of 10 capsule MR | Not stated in the licence record |
+| 59177 | Dexolan Capsule MR | Strip of 10 capsule MR | Not recorded |
+| 64032 | Dexsofighter 60 Capsule MR | Strip of 10 capsule MR | Not recorded |
+| 58377 | DDR 60 Capsule MR | Strip of 10 capsule MR | Not recorded |
+| 58423 | DDR 30 Capsule MR | Strip of 10 capsule MR | Not recorded |
+| 58342 | Deltone Capsule MR | Strip of 10 capsule MR | Not recorded |
 
-There are 11 valid single-ingredient registrations in total, all oral capsules. No cancelled registrations were found.
-
----
+All 11 licences are currently valid, and none is cancelled. Only the first five are listed here.
 
 ## Safety Considerations
 
-- **Contraindications flagged in the knowledge graph (not label text):** liver disease, gallbladder disease, osteoporosis, postmenopausal osteoporosis, bone fracture.
-- **Drug Interactions:** 118 interactions were found. Examples from the list reviewed:
-  - **Major:** acalabrutinib, atazanavir
-  - **Moderate:** fosamprenavir, foscarnet, fostamatinib, furosemide, gefitinib, hydrochlorothiazide, amphotericin B, amikacin, ampicillin, bosutinib, bumetanide, amphetamine
-  - **Minor:** acetylsalicylic acid, axitinib, brivaracetam, cyanocobalamin
+- **Drug Interactions**: 118 interactions were found in the interaction query. Examples:
+  - **Major**: acalabrutinib, atazanavir
+  - **Moderate**: fosamprenavir, foscarnet, fostamatinib, furosemide, gefitinib, hydrochlorothiazide, amphotericin B, amikacin, amphetamine, ampicillin, bosutinib, bumetanide
+  - **Minor**: acetylsalicylic acid, axitinib, brivaracetam, cyanocobalamin
 
-Please refer to the package insert for the full warnings and contraindications.
-
----
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for them.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, but the only linked Phase 3 trials addressed erosive esophagitis, not ulcers, and peptic ulcer disease is already an original indication. There is little new repurposing value.
+The only support for gastroduodenitis is a model prediction, with no clinical trials or publications. This places the evidence at L5. A plausible acid-suppression rationale is not enough to move forward.
 
 **To proceed, the following is needed:**
-- Results from an ulcer-specific trial (for example, the recruiting Phase 4 trial NCT07344506 comparing dexlansoprazole, lansoprazole and vonoprazan for H. pylori eradication)
+- Clinical or observational studies that directly address gastroduodenitis
 - Detailed mechanism-of-action data
-- Package insert warnings and contraindications from the Indian labels, plus the approved indication text
-- Review of the long-term safety signals flagged by the knowledge graph (bone, liver, gallbladder)
+- Package insert warnings and contraindications, to allow a safety review
+- A review of the major interactions (acalabrutinib, atazanavir) for the intended patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

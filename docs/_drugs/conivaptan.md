@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Conivaptan
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 211
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-14
 description: "Conivaptan: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not stated in the Indian license data (conivaptan is generally used f…"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension", "migraine disorder", "Prinzmet
 # Conivaptan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ At this stage the prediction is a research question, not an evidence-backed indi
 |------|------|
 | Original Indication | Not stated in the Indian license data (conivaptan is generally used for hyponatremia) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.52% |
+| TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L4 (preclinical and mechanistic support only; the one trial was withdrawn) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -95,7 +95,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.52%) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology. The mechanistic link is plausible but indirect, so there is no clinical evidence for pulmonary hypertension.
+The high TxGNN score (0.9952) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology. The mechanistic link is plausible but indirect, so there is no clinical evidence for pulmonary hypertension.
 
 **To proceed, the following is needed:**
 - Package insert warnings, contraindications, and approved indication text for Hyponat 20 mg Injection (currently missing and blocking safety screening)

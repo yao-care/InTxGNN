@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **hypotrichosis simplex of the 
 |------|------|
 | Original Indication | Temporary relief of eye redness (vasoconstrictor eye drop). The licence records contain no approved indication text; this is taken from pharmacology data compiled for this report. |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the compiled data. Pharmac
 
 **The prediction is not mechanistically supported.** Hypotrichosis simplex of the scalp is a genetic disorder of hair development. A vasoconstrictor has no known way to change its underlying pathology. If anything, constricting scalp vessels could reduce follicle perfusion.
 
-The high TxGNN score appears to reflect graph-based proximity rather than a real biological link. Supporting this view, the other top-ranked predictions include both hair-loss conditions (congenital hypotrichosis, alopecia areata, alopecia) and hair-overgrowth conditions (hypertrichosis). They also include unrelated congenital malformation syndromes. These predictions contradict one another, which suggests nonspecific scoring.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Supporting this view, the other top-ranked predictions include both hair-loss conditions (congenital hypotrichosis, alopecia areata, alopecia) and hair-overgrowth conditions (hypertrichosis). They also include unrelated congenital malformation syndromes. These predictions contradict one another, which suggests nonspecific scoring.
 
 The one prediction with some ophthalmic plausibility is open-angle glaucoma. Alpha-agonists such as brimonidine lower intraocular pressure. Naphazoline is not an established IOP-lowering agent, however, and the retrieved paper does not study it.
 
@@ -91,7 +91,7 @@ Naphazoline has 20 valid single-ingredient registrations and no combination or c
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** The TxGNN knowledge graph links naphazoline to caution in these conditions:
+- **Contraindications (not label text):** The following conditions are listed as cautions for naphazoline:
   - hypertension and other cardiovascular or heart disease
   - hyperglycaemia, diabetes mellitus and diabetic ketoacidosis
   - angle-closure glaucoma
@@ -107,7 +107,7 @@ Package insert warnings and contraindications could not be obtained, so please r
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or literature. It also has no plausible mechanism, and vasoconstriction could be counterproductive for hair follicles. The drug is marketed in India only as an ophthalmic product, and the available safety data are limited to knowledge-graph associations.
+The prediction rests only on a model score, with no clinical trials or literature. It also has no plausible mechanism, and vasoconstriction could be counterproductive for hair follicles. The drug is marketed in India only as an ophthalmic product, and the available safety data are limited.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian regulatory records (a blocking gap for safety screening)

@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **chronic rhinosinusitis**, but
 |------|------|
 | Original Indication | Bacterial infections (e.g., urinary tract infection, bronchitis, pneumonia, conjunctivitis); the license records compiled do not include indication wording |
 | Predicted New Indication | Chronic rhinosinusitis |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available for this report. B
 
 Tetracyclines are also known to have anti-inflammatory and matrix metalloproteinase-inhibiting properties. Low-dose doxycycline, a related tetracycline, has been explored in chronic rhinosinusitis with nasal polyps. This offers a plausible bridge between the original infectious indications and the predicted sinus disease.
 
-This link is **hypothetical**. No studies of oxytetracycline itself in chronic rhinosinusitis were found. The high score may partly reflect closeness to other respiratory and infectious disease nodes in the knowledge graph rather than a proven therapeutic signal.
+This link is **hypothetical**. No studies of oxytetracycline itself in chronic rhinosinusitis were found. The high score (0.9961) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a proven therapeutic signal.
 
 ---
 

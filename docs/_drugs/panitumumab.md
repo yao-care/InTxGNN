@@ -48,10 +48,10 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 |------|------|
 | Original Indication | Metastatic malignant neoplasm in the colon |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.13% |
+| TxGNN Prediction Score | 0.9913 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 However, this link is background knowledge only and is not supported by the data compiled for this report. Blocking EGFR could affect bone metabolism in either direction, and it is not clear that the effect would be beneficial. The high TxGNN score is a computational prediction with no trial or literature backing, and the relationship between colon cancer and drug-induced osteoporosis is not mechanistically obvious.
 
-A second predicted indication, severe nonproliferative diabetic retinopathy (TxGNN score 99.05%, also L5, Hold), was also generated. Its rationale is similarly speculative: EGFR signalling has been implicated in retinal angiogenesis, but panitumumab is a large systemic antibody with limited ocular penetration, and its known toxicities include ocular events such as keratitis.
+A second predicted indication, severe nonproliferative diabetic retinopathy (TxGNN score 0.9905, also L5, Hold), was also generated. Its rationale is similarly speculative: EGFR signalling has been implicated in retinal angiogenesis, but panitumumab is a large systemic antibody with limited ocular penetration, and its known toxicities include ocular events such as keratitis.
 
 ## Clinical Trial Evidence
 

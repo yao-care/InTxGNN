@@ -4,17 +4,17 @@ title: Milnacipran
 parent: Moderate Evidence (L3-L4)
 nav_order: 553
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Fibromyalgia"
 monitor_inn: "Milnacipran"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "migraine with or without aura, susceptibility to", "cauda equina syndrome"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
+description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Milnacipran
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Milnacipran: From Fibromyalgia to Migraine Disorder
+## Milnacipran: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **2 clinical trials** and **5 publications** currently supporting this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Fibromyalgia; myofascial pain syndrome (the approved indication text on the Indian licences is empty) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Other SNRIs and tricyclic antidepressants with serotonergic and noradrenergic activity are used for migraine prevention. Descending pain-modulatory pathways are implicated in both fibromyalgia and migraine, so the mechanistic link is plausible. However, this link rests on the known drug class rather than on a documented mechanism record for milnacipran itself.
 
-The prediction should be treated as a research hypothesis. The other predicted indications (such as migraine with brainstem aura, tendinitis, myositis variants and cauda equina syndrome) have no trials or literature. Their high scores likely reflect ontology proximity or model artifacts. The entry "migraine with or without aura, susceptibility to" largely repeats the same migraine evidence and is not an independent signal.
+The prediction should be treated as a research hypothesis. The other predicted indications (such as migraine with brainstem aura, tendinitis, myositis variants and cauda equina syndrome) have no trials or literature. Their high scores likely reflect ontology proximity or model artifacts.
 
 ## Clinical Trial Evidence
 

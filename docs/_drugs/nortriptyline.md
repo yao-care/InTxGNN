@@ -6,9 +6,9 @@ nav_order: 609
 evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 monitor_inn: "Nortriptyline"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
+description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Nortriptyline
@@ -33,12 +33,12 @@ Evidence Level: **L2** | Predicted Indications: **2**
 
 </div>
 
-## Nortriptyline: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
+## Nortriptyline: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Nortriptyline is a tricyclic antidepressant, with original indications in the knowledge graph of anxiety disorder, neurotic disorder and dysthymic disorder.
+Nortriptyline is a tricyclic antidepressant, with original indications of anxiety disorder, neurotic disorder and dysthymic disorder.
 The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**.
 Currently there are **no registered clinical trials**, but **15 publications** were retrieved, including a Cochrane review and a controlled trial in children and adolescents.
 
@@ -46,11 +46,11 @@ Currently there are **no registered clinical trials**, but **15 publications** w
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (from the knowledge graph; no approved indication text in the India licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -62,7 +62,7 @@ Noradrenergic enhancement in prefrontal circuits is the shared mechanism of appr
 
 The original indications (anxiety, neurotic and dysthymic disorders) and ADHD are all psychiatric conditions, and ADHD often co-occurs with mood and anxiety disorders. The prediction is therefore biologically plausible. Its clinical use is limited by a narrow therapeutic index, cardiac conduction effects, anticholinergic effects and overdose toxicity.
 
-A second predicted indication, ADHD inattentive type (score 99.33%), is a subtype of the same condition. It has no supporting trials or literature and is rated L4 / Hold. It is not evaluated further here.
+A second predicted indication, ADHD inattentive type (score 0.9933), is a subtype of the same condition. It has no supporting trials or literature and is rated L4 / Hold. It is not evaluated further here.
 
 ## Clinical Trial Evidence
 

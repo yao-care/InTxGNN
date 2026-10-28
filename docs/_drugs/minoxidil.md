@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Minoxidil
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 558
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L3). Approved use: Hypertension and alopecia"
 monitor_inn: "Minoxidil"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
+last_modified_at: 2026-10-23
+description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertensive disorder, hypertension and alopecia"
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,35 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Minoxidil: From Hypertension and Alopecia to Hypotrichosis Simplex of the Scalp
+## Minoxidil: From Hypertension and Hair Loss to Hypotrichosis Simplex of the Scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Minoxidil was originally used to treat hypertension (oral) and alopecia (topical).
-The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**,
-but support so far is limited to **3 case reports or small case series**, with **no registered clinical trials**.
+Minoxidil is a vasodilator, with relations to hypertensive disorder, hypertension and alopecia recorded in the knowledge graph. The TxGNN model predicts it may be useful for **hypotrichosis simplex of the scalp**, a rare hereditary hair disorder. Support currently consists of **0 registered clinical trials** and **3 publications**, all of them case reports in which minoxidil was combined with other treatments.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension and alopecia (from the knowledge-graph indication list; no approved-indication text is available in the India licence records) |
+| Original Indication | Hypertensive disorder, hypertension and alopecia (relations recorded in the knowledge graph; the licence records compiled for this report contain no approved-indication text) |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Proceed with Guardrails |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
+| Number of Approvals | At least 20 single-ingredient licences (the list may be partial) |
+| Recommended Decision | Hold |
+
+The data compiled for this report assigned L4 to this prediction. Because the 3 cited publications are case reports that all combine minoxidil with other treatments, and no study isolates minoxidil's effect on this disease, I have placed it at L5 under the evidence-level ceiling rule.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, minoxidil is an established hair-growth stimulant. It is thought to act by opening potassium channels, prolonging the anagen (growth) phase of the hair cycle, and increasing blood flow around follicles. Its efficacy in alopecia, including androgenetic alopecia, is well established.
+Detailed mechanism-of-action data from DrugBank is not available. Based on the literature compiled for this report, minoxidil is converted to an active sulfate metabolite that opens ATP-sensitive potassium channels. In hair follicles it is thought to prolong the anagen (growth) phase and enlarge follicles. Its vasodilator action is also what lowers blood pressure when it is given orally at higher doses.
 
-Hypotrichosis simplex of the scalp is a rare hereditary hair-thinning disorder. Its appearance resembles androgenetic alopecia, so a drug that stimulates existing follicles is mechanistically plausible. Three recent case reports (2022–2024) describe oral or topical minoxidil used in this condition. Most combined it with other treatments (growth factors, platelet-rich plasma, botanical extracts), so the contribution of minoxidil alone cannot be separated out.
+Hypotrichosis simplex of the scalp is a rare, inherited disorder (linked to variants such as CDSN) in which hair density and length are reduced. Minoxidil's follicle-stimulating action therefore offers a plausible, though unproven, link. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+
+A key limitation is that all three publications describe minoxidil together with growth factors, botanical extracts or platelet-rich plasma. The contribution of minoxidil alone cannot be separated from these other treatments.
 
 ## Clinical Trial Evidence
 
@@ -69,50 +72,43 @@ Currently no related clinical trials registered.
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case report/series | Dermatologic Therapy | Hereditary hypotrichosis simplex of the scalp treated with oral minoxidil plus growth factors |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report | J Dermatolog Treat | A 14-year-old patient treated with platelet-rich plasma injections plus topical minoxidil 2%, reported as successful |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report (small combination-therapy study) | Frontiers in Genetics | An 8-year-old boy with a CDSN-variant familial form treated with botanical extracts plus minoxidil |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report | Frontiers in Genetics | 8-year-old boy with CDSN-related hypotrichosis simplex treated with botanical extracts plus minoxidil |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report | Journal of Dermatological Treatment | 14-year-old patient treated with platelet-rich plasma injections plus topical minoxidil 2% |
 
 ## India Market Information
 
-The approved-indication text is not recorded for these licences. Twenty single-ingredient licences are valid; the five main ones are listed below.
+The licence records compiled for this report contain no approved-indication text. The list below shows 5 of at least 20 valid single-ingredient licences, and the full list may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 135535 | Mintop Forte 2 Hair Restore Formula (Dr Reddy's) | 60 ml solution | Not recorded |
-| 104773 | Hairz 5 Solution (Forman Medics) | 60 ml solution | Not recorded |
-| 133822 | Morr 10% Solution (Intas) | 60 ml solution | Not recorded |
-| 126031 | Lonit 10mg Tablet (Intas) | Strip of 10 tablets | Not recorded |
-| 134106 | Minogain 2.5mg Tablet (Trikona) | Bottle of 30 tablets | Not recorded |
+| 135535 | Mintop Forte 2 Hair Restore Formula | Bottle of 60 ml solution | Not stated in the records |
+| 104773 | Hairz 5 Solution | Bottle of 60 ml solution | Not stated in the records |
+| 126031 | Lonit 10mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 200268 | Staha 5mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 134106 | Minogain 2.5mg Tablet | Bottle of 30 tablets | Not stated in the records |
 
-Both topical (solution, lotion) and oral (tablet) products are marketed in India.
+Both topical (solution, lotion) and oral tablet forms are licensed.
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (not label text): cardiovascular disease, heart disease, myocardial infarction, stroke or cerebrovascular disorder, pericardial effusion and cardiac tamponade, orthostatic hypotension, kidney disease, phaeochromocytoma, and scalp dermatosis.
-- **Drug interactions**: 275 interactions were identified. The ones listed are mostly moderate, including corticosteroids (hydrocortisone, prednisone, dexamethasone, and others), bupropion, morphine and opium, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), dronabinol, nabilone, and sapropterin.
+Package insert warnings and contraindications were not available. Please refer to the package insert for safety information. The following items come from other sources.
 
-Please refer to the package insert for full warnings and contraindications.
+- **Relations recorded in the knowledge graph (not label text)**: The knowledge graph lists contraindication relations with, among others, heart disease, myocardial infarction, stroke and cerebrovascular disorders, pericardial effusion and cardiac tamponade, pheochromocytoma, orthostatic hypotension, kidney disease and scalp dermatosis.
+- **Drug interactions**: 275 interactions are recorded in total. Examples at moderate level include corticosteroids (hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone), bupropion, morphine, opium, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), dronabinol, nabilone and sapropterin.
+- **Cardiovascular caution**: Minoxidil given orally is associated with fluid retention, pericardial effusion and reflex tachycardia. This matters most for a rare disease affecting children, since the case reports include patients aged 8 and 14.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and minoxidil is widely marketed in India in both topical and oral forms. However, the evidence is limited to three case reports confounded by combination therapy, and there are no registered trials. This supports further investigation, not routine adoption.
+The prediction score is very high and minoxidil is widely available in India. However, no registered trial exists, and the only evidence is three case reports in which minoxidil was always combined with other treatments. That is not enough to attribute benefit to minoxidil itself, so this remains a research question.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the Indian product labels (currently a blocking gap)
-- Detailed mechanism of action data
-- A controlled study, or at least a larger series, testing minoxidil alone in hypotrichosis simplex
-- A cardiovascular safety plan for oral use, given the contraindication signals above
-- Confirmation of the approved indications on the Indian licences
-
----
-
-**Note on other predicted indications:** The following were also reviewed but are not recommended for advancement at this stage.
-- **Diffuse alopecia areata** (Research Question): the literature is mostly reviews and meta-analyses, with minoxidil only as an adjunct, and it does not address the autoimmune cause.
-- **Pseudopelade of Brocq**: this is a scarring alopecia, and the evidence is indirect (androgenetic alopecia). Hold.
-- **Pulmonary arterial hypertension and its subtypes, pulmonary arteriovenous malformation, primary hereditary glaucoma, and congenital hypotrichosis milia**: prediction only or very weak, indirect evidence, with significant safety concerns such as fluid retention and pericardial effusion. Hold.
+- Package insert warnings and contraindications from the India licence holders
+- Mechanism-of-action data from DrugBank
+- Controlled or single-agent data on minoxidil for hereditary hypotrichosis simplex
+- A route and dose decision (topical versus oral), with a cardiovascular safety plan for any oral use in children
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

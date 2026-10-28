@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 774
-evidence_level: L1
-indication_count: 8
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Simvastatin: predicted new indication Familial hypercholesterolaemia (evidence level L1). Approved use: Hypertriglyceridaemia, stroke and cerebrovascular disorders…"
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **8**
 
 </div>
 
-## Simvastatin: From Hyperlipidaemia and Atherosclerosis to Familial Hypercholesterolaemia
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ This indication substantially overlaps with simvastatin's existing lipid-lowerin
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertriglyceridaemia, stroke and cerebrovascular disorders, atherosclerosis, familial combined hyperlipidaemia, hyperlipoproteinaemia, homozygous familial hypercholesterolaemia (the India licence entries carry no indication text, so this list comes from the knowledge-graph indication data) |
-| Predicted New Indication | Familial hypercholesterolaemia |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Brain stem infarction |
+| TxGNN Prediction Score | 0.9941 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -152,7 +152,7 @@ Two directly relevant Phase 3 trials (ENHANCE and the adolescent ezetimibe-plus-
 |------|------|------|------|
 | Hypercholesterolaemia, autosomal dominant | L1 | Proceed with Guardrails | Overlaps substantially with familial hypercholesterolaemia and shares the same trials |
 | HIV infectious disease | L3 | Research Question | Relevant to managing antiretroviral-associated dyslipidaemia and drug interactions, not to treating HIV; one pilot study found no anti-HIV activity |
-| Brain stem infarction | L4 | Hold | No simvastatin-specific evidence |
+| Brain stem infarction | L5 | Hold | No simvastatin-specific evidence |
 | CETP deficiency; CYP7A1-deficiency hypercholesterolaemia; ABri amyloidosis; neurodevelopmental disorder with ataxic gait | L5 | Hold | Model prediction only, no trials or publications |
 ## Disclaimer
 

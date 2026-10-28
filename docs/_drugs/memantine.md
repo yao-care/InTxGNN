@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 ## One-Sentence Summary
 
 Memantine is an NMDA receptor antagonist marketed in India as oral tablets. The registration text compiled for this report does not state its approved indication.
-The TxGNN model's top-ranked prediction is **pulmonary hypertension** (score 99.5%), but this rests on model prediction alone, with **0 clinical trials** and **2 publications**, neither of which supports the indication.
+The TxGNN model's top-ranked prediction is **pulmonary hypertension** (score 0.9954), but this rests on model prediction alone, with **0 clinical trials** and **2 publications**, neither of which supports the indication.
 The data compiled for this report show that the better-supported direction is **migraine disorder**, with **1 Phase 3 trial** and **19 publications** (see the notes below).
 
 ## Quick Overview
@@ -48,9 +48,9 @@ The data compiled for this report show that the better-supported direction is **
 |------|------|
 | Original Indication | Not stated in the India registration data compiled for this report |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ The data compiled for this report show that the better-supported direction is **
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
 |---|---|---|---|---|
-| 2 | Migraine disorder | 99.52% | L1 (nominal) | Research question, worth pursuing |
-| 3 | Kyphoscoliotic heart disease | 99.43% | L5 | Hold |
-| 4 | Migraine with brainstem aura | 99.41% | L4 | Research question |
+| 2 | Migraine disorder | 0.9952 | L1 (nominal) | Research question, worth pursuing |
+| 3 | Kyphoscoliotic heart disease | 0.9943 | L5 | Hold |
+| 4 | Migraine with brainstem aura | 0.9941 | L5 | Research question |
 
 ## Why is This Prediction Reasonable?
 
@@ -139,7 +139,7 @@ Please also refer to the package insert for label warnings and contraindications
 **Decision: Hold** for the top-ranked indication, pulmonary hypertension.
 
 **Rationale:**
-- The TxGNN score is very high (99.5%), but there are no clinical trials and the two retrieved papers do not support memantine in this condition. One concerns a different compound, MN-08.
+- The TxGNN score is very high (0.9954), but there are no clinical trials and the two retrieved papers do not support memantine in this condition. One concerns a different compound, MN-08.
 - Migraine disorder (rank 2) is the more promising direction and is best treated as a research question. Its L1 label comes from a single small Phase 3 trial (n=33) with no available results, and the literature describes the evidence as limited.
 
 **To proceed, the following is needed:**

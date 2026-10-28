@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Blonanserin: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+## Blonanserin: From Schizophrenia to retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,19 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, blonanserin is a dopamine D2/D3 and serotonin 5-HT2A receptor antagonist. Its efficacy in schizophrenia is established, and it is approved for that use in Japan. The pharmacology data compiled for this report confirm binding to the 5-HT2A receptor (HTR2A) and the D2 receptor (DRD2).
 
-No mechanistic link to retinal dystrophy is supported by the available data. No retinal target or pathway connection has been documented, and the original mechanism of action record is incomplete. The high TxGNN score (99.98%) is a computational prediction only. It has no clinical or literature corroboration, so it should be treated as a hypothesis-generating signal rather than a rational basis for treatment.
+No mechanistic link to retinal dystrophy is supported by the available data. No retinal target or pathway connection has been documented, and the original mechanism of action record is incomplete. The high TxGNN score (0.9998) is a computational prediction only. It has no clinical or literature corroboration, so it should be treated as a hypothesis-generating signal rather than a rational basis for treatment.
 
-Other top-ranked predictions are similarly unsupported. They include congenital disorder of glycosylation with defective fucosylation, Charcot-Marie-Tooth disease type 1G, hydranencephaly, a polymicrogyria syndrome, several myopia subtypes, and atypical glycine encephalopathy. All have scores of about 99.96–99.97% and no trials or publications. For the myopia entries, retinal dopamine signalling is loosely associated with eye growth regulation, but the direction of effect for a D2 antagonist is uncertain and could be unfavourable.
+Other top-ranked predictions are similarly unsupported. They include congenital disorder of glycosylation with defective fucosylation, Charcot-Marie-Tooth disease type 1G, hydranencephaly, a polymicrogyria syndrome, several myopia subtypes, and atypical glycine encephalopathy. All have scores of about 99.96–0.9997 and no trials or publications. For the myopia entries, retinal dopamine signalling is loosely associated with eye growth regulation, but the direction of effect for a D2 antagonist is uncertain and could be unfavourable.
 
 ## India Market Information
 

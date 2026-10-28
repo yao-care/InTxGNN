@@ -6,9 +6,9 @@ nav_order: 549
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Miconazole: predicted new indication Acne (evidence level L3). Approved use: Tinea pedis, tinea corporis, tinea infection, cutaneous candidiasis…"
 monitor_inn: "Miconazole"
 predicted_indications: ["acne (disease)"]
+description: "Miconazole: predicted new indication Acne (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Miconazole
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-## Miconazole: From Superficial Fungal Skin Infections to Acne
+## Miconazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be useful for **acne**, but the support is still
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, tinea infection, cutaneous candidiasis, tinea unguium, pityriasis versicolor, dermatophytosis of groin and perianal area, vulvovaginal candidiasis (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.54% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acne (disease) |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

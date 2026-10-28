@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Model Prediction Only (L5)
 nav_order: 169
 evidence_level: L5
-indication_count: 8
-last_modified_at: 2026-10-14
-description: "Chlorambucil: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunogl… (evidence level L5). Approved use: Hodgkin lymphoma, follicular lymphoma, acute lymphobla…"
+indication_count: 7
 monitor_inn: "Chlorambucil"
-predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-10-23
+description: "Chlorambucil: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (evidence level L5). Approved use: Hodgkin lymphoma, follicular lymphoma, acute lymphobla…"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,108 +33,87 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Chlorambucil: From Hodgkin Lymphoma and Related Lymphoid Malignancies to Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (IGHV-Mutated Subtype)
+## Chlorambucil: From Hodgkin Lymphoma and Other Lymphoid Malignancies to Pregerminal Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Chlorambucil is an oral DNA-alkylating chemotherapy, originally used for Hodgkin lymphoma, follicular lymphoma, acute lymphoblastic leukemia and other lymphoid malignancies.
-The TxGNN model predicts it may be effective for **chronic lymphocytic leukemia/small lymphocytic lymphoma with IGHV somatic hypermutation**, but there are currently **no registered clinical trials and no publications** specific to this subtype, so the prediction rests on model output alone.
+Chlorambucil is an oral alkylating agent.
+The TxGNN model ranks **pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL)** highest (score 0.9972).
+No clinical trials are registered for this disease, and the only literature is **1 indirect review** (2003), so the evidence is prediction-level only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma, follicular lymphoma, acute lymphoblastic leukemia, Richter syndrome and other B-cell neoplasms |
-| Predicted New Indication | Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation |
-| TxGNN Prediction Score | 99.72% |
+| Original Indication | Hodgkin lymphoma, follicular lymphoma, acute lymphoblastic leukemia, Richter syndrome and related lymphoid malignancies (relations recorded in the knowledge graph; the local licence records contain no indication text) |
+| Predicted New Indication | Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, chlorambucil is a DNA-alkylating agent, and its activity in lymphoid malignancies is well established. Mechanistically, it may be applicable to the predicted indication.
+Currently, detailed mechanism of action data is not available. Based on known information, chlorambucil is a nitrogen mustard-type alkylating agent, and its use in lymphoid malignancies is recorded in the knowledge graph. Mechanistically, DNA alkylation could plausibly act on the malignant B-cell clones of CLL/SLL.
 
-The predicted indication is a molecular subtype (IGHV-mutated) of CLL/SLL. Because chlorambucil is already used in CLL generally, the biological plausibility is high. The very high TxGNN score most likely reflects how close this disease is to the lymphoid cancers already listed for the drug, rather than a truly new therapeutic idea.
+The predicted disease is a molecular subtype of CLL/SLL (unmutated immunoglobulin heavy chain variable region genes). The high score probably reflects the association with the parent disease, CLL/SLL, rather than any evidence specific to this subtype. The one retrieved publication is a 2003 review arguing for a risk-adapted approach to CLL. It discusses the disease's biology and prognosis, and it does not test chlorambucil in this subtype. Modern practice has also moved toward targeted agents (BTK and BCL2 inhibitors) for high-risk or unmutated disease.
 
-Important caveats: chlorambucil has been largely displaced in modern practice by targeted agents such as BTK inhibitors and venetoclax. Also, no trial or publication in the data compiled for this report addresses this specific subtype.
-
-Other predictions in the same analysis were also reviewed:
-
-- **Pregerminal center CLL/SLL (rank 2, score 99.72%)**: Also a CLL subtype, so it is not a novel target. The one linked paper (2003) is a risk-adapted CLL management review, not a chlorambucil study. Evidence level L5, Hold.
-- **Primary pulmonary lymphoma (rank 4, score 99.42%)**: The most evidence-supported prediction (L3, "Research Question"). It is mostly MALT-type marginal zone lymphoma, an indolent B-cell lymphoma where alkylators are an established option. The support comes from case reports, cohort studies, guidelines and a 1987 mixed-malignancy Phase II study, all indirect or retrospective.
-- **ALK-positive large B-cell lymphoma, well-differentiated fetal adenocarcinoma of the lung, pulmonary blastoma (ranks 3, 5, 6)**: No supporting evidence, and no clear rationale for single-agent chlorambucil. Hold.
-- **Acute lymphoblastic leukemia (rank 7)**: Already an original indication, so not a repurposing candidate. The retrieved papers are indirect. Hold.
-- **Small cell lung carcinoma (rank 8)**: Only dated studies of chlorambucil derivatives or combinations, plus preclinical work. No convincing benefit. Hold.
+The other top-ranked predictions have no supporting data in the compiled material. They are the mutated-IGHV CLL/SLL subtype, ALK-positive large B-cell lymphoma, well-differentiated fetal adenocarcinoma of the lung and pulmonary blastoma (all L5). Primary pulmonary lymphoma (L3) and small cell lung carcinoma (L4 as rated in the data, but see the note below) are covered only briefly in the Conclusion.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for the top-ranked predicted indication, or for any of the eight predictions reviewed.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No literature was retrieved for the top-ranked indication. The table below lists the most relevant publications from the other predictions: the supporting literature for primary pulmonary lymphoma (rank 4) and the single CLL subtype paper (rank 2).
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3307632](https://pubmed.ncbi.nlm.nih.gov/3307632/) | 1987 | Phase II trial | Gan to Kagaku Ryoho | Eight patients with mixed hematological malignancies given chlorambucil; partial remission in 2 CLL cases, 1 follicular lymphoma and 1 pulmonary pseudolymphoma. Myelosuppression among the side effects. |
-| [19541720](https://pubmed.ncbi.nlm.nih.gov/19541720/) | 2009 | Cohort | Eur Respir J | Clinical characteristics and prognostic factors of 63 pulmonary MALT lymphoma cases |
-| [18603558](https://pubmed.ncbi.nlm.nih.gov/18603558/) | 2008 | Guideline | Haematologica | Italian practice guidelines for primary lung and mediastinal lymphomas |
-| [36672456](https://pubmed.ncbi.nlm.nih.gov/36672456/) | 2023 | Cohort | Cancers | Long-term ibrutinib outcomes in CLL/SLL (RESONATE-2); ibrutinib was superior to chlorambucil in the primary results |
-| [25452791](https://pubmed.ncbi.nlm.nih.gov/25452791/) | 2015 | Case report/Review | Exp Ther Med | Pulmonary MALT lymphoma case report and literature review |
-| [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/) | 2003 | Review | Ned Tijdschr Geneeskd | Risk-adapted approach to CLL, including the pre-germinal centre (unmutated) subtype |
-| [11289295](https://pubmed.ncbi.nlm.nih.gov/11289295/) | 2001 | Case report | Dis Colon Rectum | MALT lymphoma in colon and lung; treatment included chlorambucil |
-| [3699123](https://pubmed.ncbi.nlm.nih.gov/3699123/) | 1986 | Case series | Eur J Respir Dis | Primary pulmonary non-Hodgkin lymphoma treated with chlorambucil for 5 months |
-| [6248988](https://pubmed.ncbi.nlm.nih.gov/6248988/) | 1980 | Case report | Sem Hop | Primary pulmonary lymphosarcoma; 3-year clinical remission on continuous chlorambucil |
-
-None of these studies addresses the top-ranked IGHV-mutated CLL/SLL subtype directly.
+| [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/) | 2003 | Review | Nederlands tijdschrift voor geneeskunde | CLL is not truly indolent. About 50% of Binet stage A patients need treatment, and two biological subtypes (pre-germinal center, unmutated, versus mutated) support a risk-adapted approach. Chlorambucil is not tested in this paper. |
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 40820 | Clokeran 2 Tablet | Strip of 30 tablets | Not stated |
-| 40553 | Celkeran 2 Tablet | Strip of 30 tablets | Not stated |
-| 185873 | Radix AQ 5mg Tablet | Strip of 30 tablets | Not stated |
-| 38855 | Clokeran 5mg Tablet | Strip of 30 tablets | Not stated |
-| 38241 | Celkeran 5mg Tablet | Strip of 30 tablets | Not stated |
+| 40820 | Clokeran 2 Tablet | Strip of 30 tablets | Not stated in the licence record |
+| 40553 | Celkeran 2 Tablet | Strip of 30 tablets | Not stated in the licence record |
+| 185873 | Radix AQ 5mg Tablet | Strip of 30 tablets | Not stated in the licence record |
+| 38855 | Clokeran 5mg Tablet | Strip of 30 tablets | Not stated in the licence record |
+| 38241 | Celkeran 5mg Tablet | Strip of 30 tablets | Not stated in the licence record |
 
-Seven single-ingredient oral tablet licences are valid in total (the remaining two are Chloramax 5 Tablet, No. 42889, and Chloramax 2mg Tablet, No. 40477), with no cancelled registrations.
+Seven valid single-ingredient licences are on record in total (the table lists five). No combination products are included.
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, nitrogen mustard class) |
-| Myelosuppression Risk | High. Myelosuppression was reported among side effects in the retrieved clinical literature, and the knowledge graph flags neutropenia, thrombocytopenia, leukopenia, lymphopenia and anemia as contraindicated conditions. |
-| Emetogenicity Classification | Low (at conventional oral doses). Nausea and vomiting were reported at very high experimental doses. |
-| Monitoring Items | CBC with differential, liver and renal function |
-| Handling Protection | Follow cytotoxic drug handling regulations. Please refer to the package insert warnings and precautions. |
+| Myelosuppression Risk | High. The knowledge graph lists neutropenia, thrombocytopenia, leukopenia, anemia and lymphopenia as contraindicated conditions. |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Complete blood count with differential, liver function, renal function |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-- **Conditions flagged as contraindications in the knowledge graph (not label text):** epilepsy, thrombocytopenia, neutropenia, agranulocytosis, leukopenia, lymphopenia, anemia (including macrocytic anemia), nephrotic syndrome (including familial nephrotic syndrome and lipoid nephrosis), interstitial lung disease, pulmonary fibrosis, drug-induced liver injury, and acute leukemias (including mixed phenotype and biphenotypic forms).
-- **Dose-related effects in the literature:** In high-dose Phase I and II studies, central nervous system toxicity (seizures) was dose-limiting. Second malignancies have been reported after treatment in Hodgkin disease cohorts.
-- **Drug interactions:** 167 interactions were identified. Major-level interactions include **deferiprone** and **samarium (153Sm) lexidronam**. Moderate-level interactions include amphotericin B (and its lipid, cholesteryl sulfate and liposomal forms), palifermin, strontium chloride Sr-89, mercaptopurine, roflumilast and chloramphenicol. Levofloxacin is minor. Prednisone, prednisolone, warfarin, omeprazole, simvastatin, mesalazine and levothyroxine are of unknown severity.
+- **Contraindicated conditions recorded in the knowledge graph** (not label text): epilepsy, thrombocytopenia, neutropenia, agranulocytosis, anemia, leukopenia, lymphopenia, nephrotic syndrome, interstitial lung disease, pulmonary fibrosis, drug-induced liver injury, and acute leukemias (including mixed phenotype acute leukemia).
+- **Drug interactions**: 167 interactions were identified in total. Major-level examples are deferiprone and samarium (153Sm) lexidronam, both of which add to myelosuppression risk. Moderate-level examples include amphotericin B (all formulations), mercaptopurine, chloramphenicol, roflumilast, palifermin and strontium-89 chloride. Others, such as warfarin, prednisone and omeprazole, are of unknown severity.
 
-Package insert warnings and contraindications were not available for this report; please refer to the package insert.
+Package insert warnings and contraindications were not available. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has only model-level support (L5) with no trials or literature. It largely duplicates the existing CLL use, and chlorambucil has been displaced by targeted therapies. Among the predictions, only primary pulmonary lymphoma reaches L3, and that evidence is retrospective and indirect.
+No trial or study in the compiled material tests chlorambucil in this CLL/SLL subtype, so the evidence is limited to the model prediction (L5). The score likely reflects the parent-disease association, and current practice favours targeted agents for unmutated, high-risk disease.
+
+Among the other predictions, primary pulmonary lymphoma has the most support (case reports, retrospective series and a small 1987 phase II study in mixed malignancies), but this is indirect and retrospective, so it is a research question rather than a candidate for action. For small cell lung carcinoma the retrieved material is mostly preclinical or old, and it includes negative results in other lung cancers. This is also weak, and chlorambucil is not part of current standard treatment.
 
 **To proceed, the following is needed:**
-- Subtype-specific clinical data (trials or cohorts) for IGHV-mutated CLL/SLL, including comparison with BTK inhibitors and venetoclax
-- A focused review of chlorambucil in pulmonary MALT lymphoma, the one prediction with some supporting literature
-- Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Approved indication text for the Indian licences
-- A dose and myelosuppression monitoring plan, given the high-risk toxicity profile
+- Subtype-specific clinical data (unmutated-IGHV CLL/SLL) comparing chlorambucil with current targeted therapies
+- Confirmed approved-indication text from the Indian package inserts
+- Mechanism of action data and package insert warnings and contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Tolmetin
 parent: Model Prediction Only (L5)
 nav_order: 845
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Tolmetin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis…"
+indication_count: 8
+last_modified_at: 2026-10-28
 monitor_inn: "Tolmetin"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "spondyloarthropathy, susceptibility to", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
+description: "Tolmetin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tolmetin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tolmetin: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Tolmetin: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ However, **no clinical trials and no publications** currently support this predi
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy (the market authorizations in the data compiled for this report carry no indication text; these indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,11 +60,10 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia caused by loss-of-function of CDMP1/GDF5. This defect lies in the GDF5/BMP signaling pathway, and COX inhibition has no plausible effect on it. At best, tolmetin could give symptomatic relief of joint pain, which would not modify the disease.
 
-The high score probably reflects proximity in the knowledge graph between skeletal dysplasia and arthropathy-related nodes, not a true pharmacological rationale. The prediction should therefore be treated with caution.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a true pharmacological rationale. The prediction should therefore be treated with caution.
 
 Other top-ranked predictions show a similar pattern:
-- **Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (score 99.75%)** and **spondyloarthropathy, susceptibility to (99.75%)**: mechanistically sound, but these are subtypes or annotations of indications tolmetin already covers, so they offer little true repurposing value.
-- **Pseudoachondroplasia (99.95%)**: NSAIDs are used for symptomatic joint pain in these patients, but this is a class effect and not specific to tolmetin.
+- **Pseudoachondroplasia (0.9995)**: NSAIDs are used for symptomatic joint pain in these patients, but this is a class effect and not specific to tolmetin.
 - **Rheumatoid nodulosis, myosclerosis, brachyolmia and related syndromes, colobomatous microphthalmia-rhizomelic dysplasia syndrome, WHIM syndrome**: weak or no mechanistic link.
 
 ## India Market Information
@@ -88,7 +87,7 @@ Package insert warnings and contraindications could not be retrieved; please ref
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (evidence level L5). The disease is caused by a GDF5/BMP signaling defect that COX inhibition does not address, so the high score likely reflects graph proximity. Tolmetin's use here would be limited to symptomatic pain relief.
+The prediction has no clinical trial or literature support (evidence level L5). The disease is caused by a GDF5/BMP signaling defect that COX inhibition does not address, so the high score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, not biological evidence. Tolmetin's use here would be limited to symptomatic pain relief.
 
 **To proceed, the following is needed:**
 - A confirmed mechanism of action for tolmetin from curated sources such as DrugBank

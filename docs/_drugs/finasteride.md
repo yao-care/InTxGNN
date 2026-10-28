@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Finasteride
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 354
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-14
-description: "Finasteride: predicted new indication Hypertrichosis (disease) (evidence level L4). Approved use: Benign prostatic hyperplasia"
 monitor_inn: "Finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
+description: "Finasteride: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Finasteride
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-## Finasteride: From Benign Prostatic Hyperplasia to Hypertrichosis
+## Finasteride: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,15 +45,15 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but there a
 
 | Item | Content |
 |------|------|
-| Original Indication | Benign prostatic hyperplasia |
-| Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Ambras type hypertrichosis universalis congenita |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-*Note: The top-ranked prediction by TxGNN score is Ambras type hypertrichosis universalis congenita (99.99%), but it has no trials or literature (L5). Hypertrichosis is presented here because it is the highest-ranked prediction with any supporting literature.*
+*Note: The top-ranked prediction by TxGNN score is Ambras type hypertrichosis universalis congenita (0.9999), but it has no trials or literature (L5). Hypertrichosis is presented here because it is the highest-ranked prediction with any supporting literature.*
 
 ## Why is This Prediction Reasonable?
 
@@ -61,7 +61,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The mechanistic fit with hypertrichosis is only partial. Hypertrichosis is, by definition, excess hair growth in non-androgen-dependent areas, whereas finasteride acts on androgen-dependent tissue. Any prediction signal may partly reflect overlap with hirsutism (androgen-dependent excess hair growth), which is a different condition. The relationship between the original and new indication is therefore thematic (hair biology and androgen signalling) rather than directly mechanistic.
 
-Other predictions are even weaker. For Ambras syndrome (a congenital condition linked to TRPS1 regulation), dental/periodontal malformation syndromes, Dandy-Walker-related syndromes, isolated hair shaft abnormalities and familial trichomegaly, no plausible DHT-mediated mechanism was identified. They appear to be computational artefacts of the knowledge graph. For Dandy-Walker-related syndromes, finasteride's concern for male fetal development also makes use unattractive.
+Other predictions are even weaker. For Ambras syndrome (a congenital condition linked to TRPS1 regulation), dental/periodontal malformation syndromes, Dandy-Walker-related syndromes, isolated hair shaft abnormalities and familial trichomegaly, no plausible DHT-mediated mechanism was identified. For Dandy-Walker-related syndromes, finasteride's concern for male fetal development also makes use unattractive.
 
 ## Clinical Trial Evidence
 

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 144
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-14
-description: "Carbetocin: predicted new indication Isotretinoin-like syndrome (evidence level L5). Approved use: Prader-Willi syndrome, Noonan syndrome"
 monitor_inn: "Carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
+last_modified_at: 2026-10-27
+description: "Carbetocin: predicted new indication isotretinoin-like syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Carbetocin
@@ -33,62 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Carbetocin: From Prader-Willi Syndrome to Isotretinoin-like Syndrome
+## Carbetocin: oxytocin receptor agonist (long-acting oxytocin analogue) → isotretinoin-like syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Carbetocin is a long-acting oxytocin analogue, originally associated with Prader-Willi syndrome and Noonan syndrome in the knowledge graph, and used clinically to prevent postpartum haemorrhage due to uterine atony.
-The TxGNN model predicts it may be effective for **isotretinoin-like syndrome**,
-but **no clinical trials and no publications** currently support this direction.
+Carbetocin is a long-acting oxytocin analogue peptide that acts on the oxytocin receptor and is used to prevent postpartum haemorrhage due to uterine atony.
+The TxGNN model predicts it may be relevant to **isotretinoin-like syndrome**, but this is a model prediction only, with **no clinical trials** and **no publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prader-Willi syndrome, Noonan syndrome (knowledge graph; no approved indication text is available for the Indian licences) |
-| Predicted New Indication | Isotretinoin-like syndrome |
-| TxGNN Prediction Score | 99.15% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | isotretinoin-like syndrome |
+| TxGNN Prediction Score | 0.9915 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, carbetocin is a long-acting oxytocin analogue that acts on the oxytocin receptor (OXTR). Pharmacology data show it is used to prevent postpartum haemorrhage due to uterine atony. An intranasal formulation (LV-101) has been developed as a treatment for Prader-Willi syndrome, aiming to reduce the extreme hunger that leads to hyperphagia.
+Detailed mechanism-of-action data for carbetocin are not available in the data compiled for this report. What is known is that carbetocin is a peptide oxytocin analogue that targets the oxytocin receptor (OXTR), and its recognised clinical use is preventing postpartum haemorrhage after uterine atony. An intranasal formulation has also been under development for hyperphagia in Prader-Willi syndrome.
 
-The original indications (Prader-Willi syndrome, Noonan syndrome) are developmental or genetic syndromes. The high TxGNN score most likely reflects network proximity to other syndromic or congenital disorders rather than validated biology. No mechanistic link between oxytocin-receptor signalling and isotretinoin-like syndrome can be established from the data compiled for this report, so any rationale would be speculative.
+No mechanistic link between oxytocin-receptor signalling and isotretinoin-like syndrome can be established from the available data. The high score (0.9915) is a computational output of the TxGNN model and likely reflects similarity to other syndromic or congenital disorders rather than validated biology. Any rationale beyond this would be speculative.
 
-For reference, a second prediction, **Goodman syndrome** (score 99.06%), has the same limitations. It is a rare congenital disorder with no known oxytocin-receptor-related pathophysiology, and it also has no supporting trials or literature (Evidence Level L5, Hold).
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 35607 | Cinomac 100mcg Injection (Macleods Pharmaceuticals) | Vial of 1 ml injection | Not stated |
-| 73959 | Ecbosure 100mcg Injection (Torrent Pharmaceuticals) | Vial of 1 injection | Not stated |
-| 184721 | Riligol Injection (Abbott) | Vial of 1 ml injection | Not stated |
-| 34497 | Caritec Solution for Injection (Sun Pharmaceutical Industries) | Vial of 1 ml solution for injection | Not stated |
+| 35607 | Cinomac 100mcg Injection | vial of 1 ml Injection | Not recorded |
+| 73959 | Ecbosure 100mcg Injection | vial of 1 Injection | Not recorded |
+| 184721 | Riligol Injection | vial of 1 ml Injection | Not recorded |
+| 34497 | Caritec Solution for Injection | vial of 1 ml Solution for Injection | Not recorded |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query returned one pharmacology entry, the oxytocin receptor (OXTR), which is carbetocin's target. It is not a drug-drug interaction. No other interacting drugs were identified.
+- **Drug Interactions**: The only recorded item is pharmacological, not a drug–drug interaction: carbetocin binds the oxytocin receptor (OXTR) as its target. No interacting drugs with a severity level are recorded.
 
-Please refer to the package insert for further safety information, including warnings and contraindications.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score. No clinical trials or literature were found, no mechanistic link can be established, and the package insert safety data are missing. Evidence Level is L5.
+The prediction rests only on a model score. No clinical trials or publications address isotretinoin-like syndrome, and no mechanistic link can be drawn from the available data, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian products, obtained from the manufacturer or regulator
-- Detailed mechanism of action data, to assess any biological link to isotretinoin-like syndrome
-- A literature and trial search, plus a plausibility review of the disease association
-- Assessment of route compatibility, since all marketed products are injectables
+- Mechanism-of-action data for carbetocin and a plausible biological link to isotretinoin-like syndrome
+- Package insert warnings and contraindications from the Indian licence holders
+- Preclinical or clinical studies that directly examine isotretinoin-like syndrome
+- Assessment of route compatibility (carbetocin is currently available only as injectables in India)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

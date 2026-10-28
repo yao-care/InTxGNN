@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Piribedil
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 679
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Piribedil: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Parkinson disease / parkinsonian disorder"
 monitor_inn: "Piribedil"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Piribedil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **no registered clinical trials** and only **1 loosely r
 |------|------|
 | Original Indication | Parkinson disease / parkinsonian disorder |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 0.9934 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,16 +60,15 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Dopamine signalling also takes part in normal retinal physiology, so a theoretical link to retinal disease is plausible. However, this link is indirect. The only publication retrieved discusses syncope in Kearns-Sayre syndrome, a mitochondrial disorder that includes retinopathy. It does not test piribedil or any other dopamine agonist in retinal dystrophy.
 
-The high TxGNN score (0.993) is a computational prediction without direct clinical support. It should be treated as a hypothesis to explore, not as evidence of benefit.
+The high TxGNN score (0.9934) is a computational prediction without direct clinical support. It should be treated as a hypothesis to explore, not as evidence of benefit.
 
 **Other predictions in the top 5**
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Paralysis agitans, juvenile, of Hunt | 99.34% | L5 | Historical label that overlaps with the approved Parkinson disease indication, so it adds little new repurposing value |
-| 3 | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.12% | L5 | No plausible mechanism from dopamine agonism to a structural developmental malformation |
-| 4 | PLA2G6-associated neurodegeneration | 99.07% | L5 | Could give limited symptomatic motor benefit only, with no effect on the underlying disease |
-| 5 | Juvenile onset Parkinson disease 19A | 99.01% | L5 | Symptomatic benefit is plausible, but response in monogenic juvenile forms is uncertain |
+| 2 | Paralysis agitans, juvenile, of Hunt | 0.9934 | L5 | Historical label that overlaps with the approved Parkinson disease indication, so it adds little new repurposing value |
+| 3 | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 0.9912 | L5 | No plausible mechanism from dopamine agonism to a structural developmental malformation |
+| 4 | PLA2G6-associated neurodegeneration | 0.9907 | L5 | Could give limited symptomatic motor benefit only, with no effect on the underlying disease |
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Danazol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 230
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L3). Approved use: Endometriosis"
 monitor_inn: "Danazol"
-predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
+predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "blunt duct adenosis of breast", "apocrine adenosis of breast", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 ---
 
 # Danazol
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Danazol: From Endometriosis to Amenorrhea (Therapeutic Menstrual Suppression)
+## Danazol: From Endometriosis to amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,13 +50,13 @@ with **no registered clinical trials** and **20 publications** (mostly dated rev
 |------|------|
 | Original Indication | Endometriosis; endometriosis of uterus; breast fibrocystic disease |
 | Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 99.9995% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-*Note: The approved-indication text was not available in the India licence records, so the original indications above come from the knowledge graph used by the TxGNN model. The predicted indication is framed as deliberately induced amenorrhea (menstrual suppression), not treatment of pathological amenorrhea.*
+*Note: The approved-indication text was not available in the India licence records, so the original indications above are not taken from licence records. Predictions and scores on this page come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.*
 
 ---
 

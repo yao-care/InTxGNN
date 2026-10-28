@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-14
 description: "Galantamine: predicted new indication Psychogenic movement disorders (evidence level L5). Approved use: Alzheimer disease"
 monitor_inn: "Galantamine"
-predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
+predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 ---
 
 # Galantamine
@@ -47,19 +47,19 @@ The TxGNN model's top-ranked prediction is **psychogenic movement disorders**, w
 |------|------|
 | Original Indication | Alzheimer disease (the licence records list no approved indication text) |
 | Predicted New Indication | Psychogenic movement disorders (rank 1) |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
-Eight other predictions, all mainly movement disorders, scored 99.71% to 99.89%. Only two have any literature: extrapyramidal and movement disease (L4, 4 publications) and lingual-facial-buccal dyskinesia (L4, 21 publications).
+Eight other predictions, all mainly movement disorders, scored 0.9971 to 0.9989. Only two have any literature: extrapyramidal and movement disease (L4, 4 publications) and lingual-facial-buccal dyskinesia (L4, 21 publications).
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Galantamine is a known acetylcholinesterase inhibitor and a positive allosteric modulator of nicotinic receptors. Its efficacy in Alzheimer disease comes from boosting cholinergic signalling.
 
-For **psychogenic movement disorders**, there is no established link between cholinergic mechanisms and the pathophysiology of functional movement disorders. The score is a knowledge-graph prediction only.
+For **psychogenic movement disorders**, there is no established link between cholinergic mechanisms and the pathophysiology of functional movement disorders. The score is a TxGNN model (deep learning) prediction only.
 
 The more plausible link is to **tardive dyskinesia and extrapyramidal disorders**. The striatum depends on a balance between cholinergic and dopaminergic signalling. Some researchers propose that tardive dyskinesia involves a cholinergic deficiency caused by antipsychotic damage to striatal cholinergic neurons. The evidence is mixed, though. A 2025 systematic review reports movement disorders as *adverse effects* of cholinesterase inhibitors in Alzheimer dementia, so the drug may carry a risk signal rather than a benefit.
 

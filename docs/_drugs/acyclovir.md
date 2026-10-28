@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Acyclovir is an antiviral originally used to treat herpes simplex infections, herpes zoster, chickenpox, herpes labialis, herpes simplex encephalitis and genital herpes.
-The TxGNN model ranks **punctate epithelial keratoconjunctivitis** highest at 99.67%, but **no clinical trials** and only **2 unrelated publications** support it. The better-supported secondary signal is **common warts**, with **4 clinical trials** (intralesional acyclovir) and **about 20 publications**, including recent randomized trials.
+The TxGNN model ranks **punctate epithelial keratoconjunctivitis** highest at 0.9967, but **no clinical trials** and only **2 unrelated publications** support it. The better-supported secondary signal is **common warts**, with **4 clinical trials** (intralesional acyclovir) and **about 20 publications**, including recent randomized trials.
 
 ## Quick Overview
 
@@ -47,9 +47,9 @@ The TxGNN model ranks **punctate epithelial keratoconjunctivitis** highest at 99
 |------|------|
 | Original Indication | Herpes simplex infection, herpes zoster, chickenpox, herpes labialis, herpes simplex encephalitis, genital herpes (the licence records carry no approved-indication text) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis (top-ranked); common wart (best-supported alternative) |
-| TxGNN Prediction Score | 99.67% (punctate epithelial keratoconjunctivitis); 99.46% (common wart) |
+| TxGNN Prediction Score | 0.9967 (punctate epithelial keratoconjunctivitis); 0.9946 (common wart) |
 | Evidence Level | L5 (top-ranked indication); L2 (common wart) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (top-ranked indication); Proceed with Guardrails for common wart as a research question |
 

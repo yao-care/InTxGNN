@@ -50,9 +50,9 @@ The prediction is best treated as a model-generated hypothesis only.
 |------|------|
 | Original Indication | Vitamin deficiency disorder; folic acid deficiency anemia; iron deficiency anemia; hypochromic anemia; deficiency anemia; microcytic anemia (the approved indication text on the India licences is blank) |
 | Predicted New Indication | Biotin metabolic disease |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The prediction is best treated as a model-generated hypothesis only.
 
 Currently, detailed mechanism of action data is not available. Based on known information, folic acid is a water-soluble B vitamin that acts as a cofactor precursor in one-carbon metabolism. Its efficacy in folate-deficiency anemia is well established.
 
-The high TxGNN score likely reflects that folic acid (B9) and biotin (B7) sit close together in the knowledge graph. Both are B vitamins involved in cellular metabolism.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Folic acid (B9) and biotin (B7) are both B vitamins involved in cellular metabolism.
 
 The mechanistic link is weak, though. Folic acid cannot replace biotin in biotin-dependent carboxylases. Biotin metabolic diseases, such as biotinidase deficiency and holocarboxylase synthetase deficiency, are treated with pharmacologic doses of biotin itself. No direct mechanism by which folic acid would correct the underlying defect was identified. The score is therefore more likely a "same vitamin family" association than a real therapeutic signal.
 

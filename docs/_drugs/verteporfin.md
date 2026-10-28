@@ -6,7 +6,7 @@ nav_order: 887
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Verteporfin: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Macular degeneration"
+description: "Verteporfin: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 monitor_inn: "Verteporfin"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 ---
@@ -48,10 +48,10 @@ but currently **no clinical trials and no publications** support this direction.
 |------|------|
 | Original Indication | Macular degeneration |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Preclinical reports suggest verteporfin can inhibit YAP-TEAD signaling. However, the data compiled for this report contain nothing connecting this activity to mitochondrial disorders caused by nuclear DNA abnormalities. Any connection, for example through mitochondrial stress, reactive oxygen species (ROS) or autophagy modulation, is speculative and unverified.
 
-There is also a safety concern. When activated by light, verteporfin generates ROS, which could plausibly worsen rather than improve mitochondrial dysfunction. This must be resolved before any repurposing hypothesis is pursued. The high model score (0.995) should therefore be treated as a hypothesis-generating signal only.
+There is also a safety concern. When activated by light, verteporfin generates ROS, which could plausibly worsen rather than improve mitochondrial dysfunction. This must be resolved before any repurposing hypothesis is pursued. The high model score (0.9949) should therefore be treated as a hypothesis-generating signal only.
 
 ## India Market Information
 

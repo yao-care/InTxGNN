@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Eletriptan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 301
-evidence_level: L4
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Eletriptan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
+last_modified_at: 2026-10-28
+description: "Eletriptan: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Eletriptan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,35 +33,33 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Eletriptan: From Migraine to Migraine with Brainstem Aura
+## Eletriptan: 5-HT1B/1D receptor agonist (triptan) → atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Eletriptan is a triptan (5-HT1B/1D receptor agonist) originally used to treat acute migraine, with or without aura.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, but **no clinical trials** and no literature specific to this subtype were found. The 16 publications compiled are about migraine in general, and some of them raise caution about this subtype.
+Eletriptan is a triptan-class serotonin receptor agonist.
+The TxGNN model predicts it may be relevant to **atrophoderma vermiculata**, but **no clinical trials and no publications** currently support this direction, so the prediction is computational only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder (the license records compiled for this report contain no approved indication text) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the literature, eletriptan is a 5-HT1B/1D receptor agonist with higher affinity for 5-HT1D than sumatriptan. It is already used for acute migraine with and without aura.
+Detailed mechanism of action data is not available in the data compiled for this report. Eletriptan belongs to the triptan class, which acts as an agonist at 5-HT1B/1D receptors.
 
-Brainstem aura is a subtype of migraine, so a mechanistic link is plausible. The very high score (99.99%) most likely reflects overlap with the already-approved migraine indication rather than a new repurposing signal. In effect, this is an on-label subtype with no subtype-specific evidence.
+Atrophoderma vermiculata is a rare follicular atrophic skin disorder. No identifiable mechanistic link connects serotonin receptor agonism to its pathology. The high model score appears to be an artifact of the computational method rather than a reflection of biological plausibility.
 
-There are also reasons for caution:
-- One randomised trial (PMID 15469451) found **no effect** when eletriptan 80 mg was given during the aura phase. This argues against benefit for aura symptoms.
-- Triptans are traditionally cautioned against, or contraindicated, in basilar-type or brainstem aura migraine because of theoretical vasoconstriction concerns. A case report of myocardial infarction after eletriptan (PMID 25155004) reinforces the vascular concern.
+For context, two other predictions were generated for this drug (ulerythema ophryogenesis, score 0.9989, and sciatic neuropathy, score 0.9903). Both also lack trials and literature. The first is likely driven by its similarity to atrophoderma vermiculata, and the second rests only on a speculative link to peripheral pain pathways.
 
 ## Clinical Trial Evidence
 
@@ -69,58 +67,37 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-None of these publications addresses brainstem aura specifically.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [12807526](https://pubmed.ncbi.nlm.nih.gov/12807526/) | 2003 | RCT | Cephalalgia | Placebo-controlled study of eletriptan in patients (n = 446) with and without aura who had previously responded poorly to, or not tolerated, oral sumatriptan |
-| [15469451](https://pubmed.ncbi.nlm.nih.gov/15469451/) | 2004 | RCT | Eur J Neurol | Eletriptan 80 mg taken during the aura phase had no effect on the headache |
-| [11844898](https://pubmed.ncbi.nlm.nih.gov/11844898/) | 2002 | RCT | Eur Neurol | Eletriptan 40 and 80 mg compared with ergotamine plus caffeine (Cafergot) and placebo in acute migraine |
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | American Headache Society evidence assessment of acute migraine pharmacotherapies |
-| [11687056](https://pubmed.ncbi.nlm.nih.gov/11687056/) | 2001 | Review | Cochrane Database Syst Rev | Evidence-based assessment of eletriptan for acute migraine (a later version was withdrawn, PMID 17636718) |
-| [12498013](https://pubmed.ncbi.nlm.nih.gov/12498013/) | 2002 | Review | Curr Opin Investig Drugs | Pharmacology overview: eletriptan has 6-fold greater 5-HT1D affinity than sumatriptan |
-| [21028917](https://pubmed.ncbi.nlm.nih.gov/21028917/) | 2010 | Review | Paediatr Drugs | Use of triptans for pediatric migraine |
-| [25155004](https://pubmed.ncbi.nlm.nih.gov/25155004/) | 2014 | Case report | Rev Port Cardiol | Non-ST-elevation myocardial infarction a few hours after taking eletriptan; a causal association is suggested |
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 75328 | Elipran 20 Tablet (Intas Pharmaceuticals Ltd) | Strip of 4 tablets | Not specified in the data compiled |
-| 74429 | Elipran 40 Tablet (Intas Pharmaceuticals Ltd) | Strip of 4 tablets | Not specified in the data compiled |
+| 75328 | Elipran 20 Tablet | Strip of 4 tablets | Not recorded |
+| 74429 | Elipran 40 Tablet | Strip of 4 tablets | Not recorded |
+
+Both licences are single-ingredient products and currently valid. The manufacturer is Intas Pharmaceuticals Ltd. The available dosage form is oral.
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph** (these are graph relationships, not label text): hypertension; liver disease or failure; coronary artery disease, myocardial infarction, myocardial ischemia and Prinzmetal angina; stroke, transient ischemic attack and other cerebrovascular disorders; peripheral vascular disease and Raynaud disease; ischemic bowel disease; serotonin syndrome; and **familial or sporadic hemiplegic migraine**. Other listed conditions include diabetes mellitus, diabetic ketoacidosis, obesity, gallbladder disease and hemoglobinopathy.
-- **Drug interactions**: 94 interactions were identified. Major ones include:
-  - Clarithromycin
-  - Serotonergic or anorectic agents: lorcaserin, fenfluramine, dexfenfluramine, sibutramine
-  - 5-HT3 antagonists: ondansetron, granisetron, dolasetron, palonosetron
+- **Contraindication-related conditions (not label text):** The data compiled for this report flag several conditions where use is of concern, mainly cardiovascular and cerebrovascular: hypertension, coronary artery disease, myocardial infarction, myocardial ischemia, Prinzmetal angina, stroke and transient ischemic attack, peripheral vascular disease, Raynaud disease, ischemic bowel disease, and vertebrobasilar insufficiency. Other flagged conditions include liver disease and liver failure, gallbladder disease, diabetes and diabetic ketoacidosis, obesity, hemoglobinopathy, serotonin syndrome, and hemiplegic migraine.
+- **Drug Interactions:** 94 interactions were recorded. Major-level examples include clarithromycin, lorcaserin, fenfluramine, dexfenfluramine, sibutramine, and the 5-HT3 antagonists ondansetron, granisetron, dolasetron and palonosetron. Moderate-level examples include aprepitant, morphine, cimetidine, clotrimazole and miconazole.
 
-  Moderate ones include aprepitant, morphine, cimetidine, clotrimazole and miconazole.
-- **Subtype-specific caution**: triptans are traditionally cautioned against in brainstem aura migraine (see above).
-
-Please refer to the package insert for full warnings and contraindications, which were not available in the data compiled.
+Please refer to the package insert for the full warnings, as label text was not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is a subtype of the drug's existing migraine use, and there are no trials or subtype-specific literature. The available evidence includes a negative aura-phase trial and vascular safety concerns, so the high TxGNN score is not backed by supporting evidence.
+The prediction has a high model score but no trials, no literature and no plausible mechanistic link. Evidence is at L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Subtype-specific clinical evidence for migraine with brainstem aura
+- A credible mechanistic hypothesis linking 5-HT1B/1D agonism to atrophoderma vermiculata
+- Preclinical or case-level evidence in this condition
+- Package insert warnings and contraindications from the Indian licences
 - Detailed mechanism of action data
-- Package insert warnings and contraindications for the India-marketed products, plus the approved indication text
-- A vascular and cardiovascular risk assessment for this subtype, including the knowledge-graph contraindications
-
-## Other Predictions (Not Recommended)
-
-The other predictions are all L5 (model prediction only), with no trials and no literature, and all are on Hold:
-- **Atrophoderma vermiculata** (score 99.94%): no identifiable mechanistic link; likely a knowledge-graph artifact.
-- **Ulerythema ophryogenesis** (score 99.89%): no plausible pathway; likely driven by similarity to atrophoderma vermiculata.
-- **Sciatic neuropathy** (score 99.03%): only a speculative link through nociceptive pathway modulation, with no clinical evidence that triptans relieve peripheral neuropathic pain.
+- A cardiovascular risk assessment, given the flagged contraindication-related conditions and the major interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Latanoprost
 parent: Model Prediction Only (L5)
 nav_order: 473
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Latanoprost: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+description: "Latanoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Latanoprost: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Latanoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Latanoprost is a prostaglandin eye drop originally used to treat open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
 but currently **no clinical trials** and **no publications** support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma; ocular hypertension |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.88% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Visceral calciphylaxis |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences: 20 of 20) |
+| Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, latanoprost is a prostaglandin F2-alpha analogue that lowers intraocular pressure by increasing uveoscleral outflow. Its efficacy in open-angle glaucoma is established, so a mechanistic overlap with other glaucomas is plausible.
 
-However, primary hereditary glaucoma (for example, primary congenital glaucoma) is typically driven by developmental abnormalities of the trabecular meshwork and anterior chamber angle, and it often requires surgery. The prediction is likely driven by the closeness of this disease to the approved indication (open-angle glaucoma) in the knowledge graph, rather than by new biology.
+However, primary hereditary glaucoma (for example, primary congenital glaucoma) is typically driven by developmental abnormalities of the trabecular meshwork and anterior chamber angle, and it often requires surgery.
 
-**Other predicted candidates.** The model also ranked nine other conditions. Most have no clear mechanistic link (for example, visceral calciphylaxis, the three thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome and lymphangiectasis). The most mechanistically credible one is **hypotrichosis simplex of the scalp** (score 99.81%), because prostaglandin F2-alpha analogues are known to prolong the hair growth phase and stimulate eyelash growth. This is class-level reasoning only, and no supporting trials or literature were found. Congenital hypotrichosis milia (99.71%) is a similar but more speculative case.
+**Other predicted candidates.** The model also ranked nine other conditions. Most have no clear mechanistic link (for example, visceral calciphylaxis, the three thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome and lymphangiectasis). The most mechanistically credible one is **hypotrichosis simplex of the scalp** (score 0.9981), because prostaglandin F2-alpha analogues are known to prolong the hair growth phase and stimulate eyelash growth. This is class-level reasoning only, and no supporting trials or literature were found. Congenital hypotrichosis milia (0.9971) is a similar but more speculative case.
 
 ## India Market Information
 

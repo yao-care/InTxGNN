@@ -6,9 +6,9 @@ nav_order: 498
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L2). Approved use: Hodgkin lymphoma and brain tumours"
 monitor_inn: "Lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer", "cerebral neuroblastoma", "pediatric cerebral ependymoblastoma", "pediatric infratentorial ependymoblastoma", "childhood brain germinoma", "cerebellopontine angle embryonal tumor", "lymph node cancer", "cerebral sarcoma"]
+description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Lomustine
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Lomustine: From Hodgkin Lymphoma and Brain Tumours to Lymphosarcoma
+## Lomustine: Lymphosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **lymphosarcoma** (non-Hodgkin 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma and brain tumours (the India licence entries carry no indication text; this comes from the knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Lymphosarcoma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -115,7 +115,6 @@ Lomustine is already used for Hodgkin lymphoma, so the sensitivity of lymphoid c
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (nitrosourea alkylating agent) |
-| Myelosuppression Risk | High (delayed, cumulative myelosuppression is characteristic of nitrosoureas; the knowledge graph flags leukopenia and thrombocytopenia) |
 | Emetogenicity Classification | Moderate to high |
 | Monitoring Items | CBC with differential and platelets, liver function, renal function; pulmonary function if prolonged use |
 | Handling Protection | Must follow cytotoxic drug handling regulations |

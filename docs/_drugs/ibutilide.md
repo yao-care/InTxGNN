@@ -46,10 +46,10 @@ Ibutilide is a class III antiarrhythmic drug given by injection. The TxGNN model
 |------|------|
 | Original Indication | Not listed in the India license data (known pharmacology: class III antiarrhythmic) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No clear link to rheumatoid arthritis biology (TNF, IL-6, JAK/STAT, B/T-cell activation) is supported by the available data. Potassium channels such as Kv1.3 and KCa3.1 are discussed in T-cell and synoviocyte biology. However, ibutilide is not known to act on them, so this connection is speculative. The high score (0.993) reflects a model prediction, not experimental or clinical support.
 
-The second predicted indication, **nephrogenic syndrome of inappropriate antidiuresis** (score 99.30%), is caused by gain-of-function mutations in the vasopressin V2 receptor. Ibutilide has no known action on this receptor or on renal water handling. This prediction also has no trials or literature. It is unfavorable on safety grounds because hyponatremia and electrolyte disturbances increase the risk of proarrhythmia with ibutilide.
+The second predicted indication, **nephrogenic syndrome of inappropriate antidiuresis** (score 0.9930), is caused by gain-of-function mutations in the vasopressin V2 receptor. Ibutilide has no known action on this receptor or on renal water handling. This prediction also has no trials or literature. It is unfavorable on safety grounds because hyponatremia and electrolyte disturbances increase the risk of proarrhythmia with ibutilide.
 
 ## India Market Information
 

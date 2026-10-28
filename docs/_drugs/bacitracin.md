@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this specific p
 |------|------|
 | Original Indication | Keratitis, keratoconjunctivitis, blepharoconjunctivitis |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, bacitracin is a topical polypeptide antibiotic that acts on Gram-positive bacterial cell wall synthesis. It is used for ocular surface infections, and mechanistically it could be applicable to bacterial forms of surface eye disease.
 
-The predicted indication is biologically close to the approved ocular uses, which likely explains the very high score. However, punctate epithelial keratoconjunctivitis is frequently viral (for example adenoviral) or non-infectious, and an antibacterial would not be expected to act on those causes. The score most likely reflects proximity to the approved ocular indications in the knowledge graph rather than independent evidence.
+The predicted indication is biologically close to the approved ocular uses, which likely explains the very high score. However, punctate epithelial keratoconjunctivitis is frequently viral (for example adenoviral) or non-infectious, and an antibacterial would not be expected to act on those causes. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions in the top 10 are weaker still. Exposure keratitis may benefit only from supportive protection against secondary infection. Otitis externa has a plausible antibacterial rationale, mainly through combination ear products. Most of the remaining predictions are non-specific categories or conditions with no plausible mechanistic link (for example Chagas cardiomyopathy, infection-related hemolytic uremic syndrome).
 
@@ -104,7 +104,7 @@ All 11 registrations are valid single-ingredient licences. Only one is an ophtha
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score, with no trials or literature. The most likely causes of punctate epithelial keratoconjunctivitis (viral or non-infectious) are not addressed by an antibacterial, so the high score probably reflects graph proximity to the approved ocular uses.
+The prediction is supported only by the model score, with no trials or literature. The most likely causes of punctate epithelial keratoconjunctivitis (viral or non-infectious) are not addressed by an antibacterial, so the high score, which comes from the TxGNN model (deep learning), may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products (currently a blocking gap for safety screening)

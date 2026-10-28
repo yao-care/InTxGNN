@@ -46,9 +46,9 @@ Granisetron is a selective 5-HT3 receptor antagonist that is widely marketed in 
 |------|------|
 | Original Indication | Not stated in the Indian licence records compiled for this report (granisetron is generally known as an antiemetic) |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -56,7 +56,7 @@ Granisetron is a selective 5-HT3 receptor antagonist that is widely marketed in 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Granisetron is generally described as a selective 5-HT3 receptor antagonist. Its established use is to prevent nausea and vomiting, although none of the 20 Indian licence entries lists an approved indication text.
 
-The proposed link to manic bipolar disorder is hypothetical. 5-HT3 antagonism has been suggested to modulate dopaminergic and serotonergic signalling in the central nervous system, and these pathways are implicated in mood disorders. No trials or publications were supplied to test this idea, so the high score (0.996) should be read as a computational association only.
+The proposed link to manic bipolar disorder is hypothetical. 5-HT3 antagonism has been suggested to modulate dopaminergic and serotonergic signalling in the central nervous system, and these pathways are implicated in mood disorders. No trials or publications were supplied to test this idea, so the high score (0.9962) should be read as a computational association only.
 
 Other top-ranked predictions have varying degrees of biological plausibility. Tourette syndrome (99.5%) and trichotillomania (99.2%) have loose serotonergic or dopaminergic rationales. Allergic urticaria (99.3%) has a weak itch-related rationale. Several others, such as nephrogenic syndrome of inappropriate antidiuresis, contagious conjunctivitis and bronchitis, have no evident mechanistic connection. All ten predictions are at evidence level L5.
 

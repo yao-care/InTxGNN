@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-14
 description: "Framycetin: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not stated in the available license records (marketed as topical crea…"
 monitor_inn: "Framycetin"
-predicted_indications: ["sclerosing cholangitis", "urinary tract infection (disease)", "congenital prothrombin deficiency", "gonococcal urethritis", "Ureaplasma urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
+predicted_indications: ["sclerosing cholangitis", "urinary tract infection (disease)", "congenital prothrombin deficiency", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Framycetin
@@ -48,10 +48,10 @@ This is a model prediction only and should not be read as clinical support.
 |------|------|
 | Original Indication | Not stated in the available license records (marketed as topical cream and bandage products) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,12 +64,12 @@ The proposed link to sclerosing cholangitis is the gut-liver axis. Primary scler
 
 | Rank | Predicted Indication | Score | Assessment |
 |---|---|---|---|
-| 2 | Urinary tract infection | 99.42% | Biologically plausible (Gram-negative activity, renal excretion), but framycetin is mainly used topically or orally. Systemic use is limited by nephrotoxicity and ototoxicity. Gentamicin and amikacin are better characterised. |
-| 3 | Congenital prothrombin deficiency | 99.41% | No plausible mechanism. Likely a graph artifact. Oral antibiotics may reduce vitamin K-producing gut flora and worsen coagulopathy, so this is more a safety concern. |
-| 4 | Gonococcal urethritis | 99.28% | Class-level plausibility, but guidelines rely on ceftriaxone-based regimens. |
-| 5 | Ureaplasma urethritis | 99.28% | Ureaplasma is usually treated with tetracyclines or macrolides. Aminoglycoside activity against mycoplasmas is inconsistent. |
-| 6 | Uterine inflammatory disease | 99.18% | Aminoglycosides (usually gentamicin plus clindamycin) are used in endometritis regimens, but there is no framycetin-specific evidence. |
-| 7 | Xanthogranulomatous pyelonephritis | 99.18% | Antibacterial link is plausible, but nephrotoxicity in a diseased kidney is a significant concern. |
+| 2 | Urinary tract infection | 0.9942 | Biologically plausible (Gram-negative activity, renal excretion), but framycetin is mainly used topically or orally. Systemic use is limited by nephrotoxicity and ototoxicity. Gentamicin and amikacin are better characterised. |
+| 3 | Congenital prothrombin deficiency | 0.9941 | No plausible mechanism. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Oral antibiotics may reduce vitamin K-producing gut flora and worsen coagulopathy, so this is more a safety concern. |
+| 4 | Gonococcal urethritis | 0.9928 | Class-level plausibility, but guidelines rely on ceftriaxone-based regimens. |
+| 5 | Ureaplasma urethritis | 0.9928 | Ureaplasma is usually treated with tetracyclines or macrolides. Aminoglycoside activity against mycoplasmas is inconsistent. |
+| 6 | Uterine inflammatory disease | 0.9918 | Aminoglycosides (usually gentamicin plus clindamycin) are used in endometritis regimens, but there is no framycetin-specific evidence. |
+| 7 | Xanthogranulomatous pyelonephritis | 0.9918 | Antibacterial link is plausible, but nephrotoxicity in a diseased kidney is a significant concern. |
 
 ## India Market Information
 

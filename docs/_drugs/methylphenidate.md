@@ -50,9 +50,9 @@ Of the other predictions, "specific developmental disorder" has the most literat
 |------|------|
 | Original Indication | Attention deficit hyperactivity disorder (ADHD), narcolepsy (the India license entries carry no approved-indication text) |
 | Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,13 +62,13 @@ Of the other predictions, "specific developmental disorder" has the most literat
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, methylphenidate blocks the dopamine and norepinephrine transporters, raising synaptic catecholamine levels in frontostriatal circuits involved in attention and executive function. Its efficacy in ADHD is well established.
 
-Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked disorder. It can include ADHD-like behavioural features, so any benefit would likely be limited to symptom management rather than disease modification. No mechanistic link is supported by the available data. Despite the very high model score, there is no clinical or preclinical corroboration, and the score may be a knowledge-graph artefact.
+Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked disorder. It can include ADHD-like behavioural features, so any benefit would likely be limited to symptom management rather than disease modification. No mechanistic link is supported by the available data. Despite the very high model score, there is no clinical or preclinical corroboration, and the score may be a TxGNN model (deep learning) artefact.
 
 For context, the other predictions in the data are:
 
-- **Specific developmental disorder** (score 99.99%, evidence level L4): These disorders often co-occur with ADHD. The literature mostly reflects the existing ADHD indication and is only indirect evidence for an independent benefit. Some items are off-topic.
-- **Dysthymic disorder** (score 99.11%, evidence level L4): Catecholamine dysfunction in chronic depressive states gives a plausible rationale. However, no study tests methylphenidate directly in dysthymia. The closest is a cohort study of methylphenidate in ADHD with subsyndromal depression.
-- **Chondromyxoid fibroma** (score 99.99%, evidence level L5): This is a benign cartilage-derived bone tumour, and no plausible mechanistic link was identified.
+- **Specific developmental disorder** (score 0.9999, evidence level L4): These disorders often co-occur with ADHD. The literature mostly reflects the existing ADHD indication and is only indirect evidence for an independent benefit. Some items are off-topic.
+- **Dysthymic disorder** (score 0.9911, evidence level L4): Catecholamine dysfunction in chronic depressive states gives a plausible rationale. However, no study tests methylphenidate directly in dysthymia. The closest is a cohort study of methylphenidate in ADHD with subsyndromal depression.
+- **Chondromyxoid fibroma** (score 0.9999, evidence level L5): This is a benign cartilage-derived bone tumour, and no plausible mechanistic link was identified.
 
 ---
 

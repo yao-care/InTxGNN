@@ -48,10 +48,10 @@ Support currently comes from **8 publications**, mostly macaque studies, and **n
 |------|------|
 | Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -50,9 +50,9 @@ Among the other top-ten predictions, schizophrenia has the most material (1 clin
 |------|------|
 | Original Indication | Parkinson disease, hyperprolactinaemia, acromegaly (the licence records contain no approved indication text) |
 | Predicted New Indication | Congenital disorder of glycosylation with defective fucosylation |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ Among the other top-ten predictions, schizophrenia has the most material (1 clin
 
 Currently, detailed mechanism of action data is not available. Based on known information, bromocriptine is a dopamine D2 receptor agonist. Its efficacy in Parkinson disease, hyperprolactinaemia and acromegaly is established, and it acts mainly through dopaminergic signalling.
 
-For the top-ranked prediction, no mechanistic link to fucosylation pathways is known. The very high score (99.83%) reflects graph-based similarity only and should not be read as biological support. The same applies to the other low-ranked predictions with no data, such as polymicrogyria with cerebellar hypoplasia, atypical glycine encephalopathy and hereditary demyelinating neuropathy.
+For the top-ranked prediction, no mechanistic link to fucosylation pathways is known. The very high score (0.9983) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to the other low-ranked predictions with no data, such as polymicrogyria with cerebellar hypoplasia, atypical glycine encephalopathy and hereditary demyelinating neuropathy.
 
 Two other predictions have some plausibility:
 - **Retinal dystrophy:** A 2024 preclinical study (PMID 39009597) tested a combination of tamsulosin, metoprolol and bromocriptine in retinopathy models and reported mutation-agnostic efficacy. A 1991 case report treated Goldmann-Favre syndrome with cyclosporin A plus bromocriptine, where the effect of bromocriptine cannot be separated.
@@ -128,7 +128,7 @@ Please refer to the package insert for further safety information, since label w
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction rests only on a graph-model score, with no trials, no literature and no plausible mechanistic link to fucosylation. The evidence level is L5. The schizophrenia direction (the only one with a registered trial) is a research question with a mixed safety direction, and its single trial concerns metabolic comorbidity.
+The top-ranked prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence, with no trials, no literature and no plausible mechanistic link to fucosylation. The evidence level is L5. The schizophrenia direction (the only one with a registered trial) is a research question with a mixed safety direction, and its single trial concerns metabolic comorbidity.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data for bromocriptine

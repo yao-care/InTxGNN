@@ -47,13 +47,13 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 |------|------|
 | Original Indication | Acute lymphoblastic leukemia and acute myeloid leukemia (including several AML subtypes) |
 | Predicted New Indication | Small cell lung carcinoma |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-The original indications come from the TxGNN knowledge graph, because the Indian licence records contain no approved-indication text.
+The original indications are not available from the Indian licence records, which contain no approved-indication text. The predicted indications on this page come from the TxGNN model (deep learning); its scores may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Why is This Prediction Reasonable?
 
@@ -129,14 +129,14 @@ The prediction rests on a computational score alone. The only clinical data conc
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |---|------|------|------|------|
-| 2 | Primary pulmonary lymphoma | 99.78% | L4 (indirect; evidence from other lymphoma sites such as CNS lymphoma) | Hold |
-| 3 | Well-differentiated fetal adenocarcinoma of the lung | 99.76% | L5 | Hold |
-| 4 | Pulmonary blastoma | 99.76% | L5 | Hold |
-| 5 | Upper aerodigestive tract neoplasm | 99.49% | L4 (indirect) | Hold |
-| 6 | Ganglioneuroblastoma | 99.36% | L5 | Hold |
-| 7 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 99.32% | L5 (likely a network artifact) | Hold |
-| 8 | Retroperitoneal neoplasm | 99.23% | L4 (indirect, mostly case reports) | Hold |
-| 9 | Neuroblastoma | 99.19% | L3 (preclinical cytarabine activity; the three registered trials do not clearly test cytarabine) | Research question |
+| 2 | Primary pulmonary lymphoma | 0.9978 | L4 (indirect; evidence from other lymphoma sites such as CNS lymphoma) | Hold |
+| 3 | Well-differentiated fetal adenocarcinoma of the lung | 0.9976 | L5 | Hold |
+| 4 | Pulmonary blastoma | 0.9976 | L5 | Hold |
+| 5 | Upper aerodigestive tract neoplasm | 0.9949 | L5 (indirect) | Hold |
+| 6 | Ganglioneuroblastoma | 0.9936 | L5 | Hold |
+| 7 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9932 | L5 (likely a network artifact) | Hold |
+| 8 | Retroperitoneal neoplasm | 0.9923 | L4 (indirect, mostly case reports) | Hold |
+| 9 | Neuroblastoma | 0.9919 | L3 (preclinical cytarabine activity; the three registered trials do not clearly test cytarabine) | Research question |
 
 Among the alternatives, **neuroblastoma** has the most direct preclinical support, with in vitro cytarabine activity in neuroblastoma cell lines and a priming strategy using cyclopentenyl cytosine.
 ## Disclaimer

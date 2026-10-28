@@ -6,9 +6,9 @@ nav_order: 780
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Vitamin deficiency disorder"
 monitor_inn: "Sodium fluoride"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "gonococcal urethritis", "Ureaplasma urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
+description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sodium Fluoride
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Sodium Fluoride: From Vitamin Deficiency Disorder to Epiglottitis
+## Sodium Fluoride: Epiglottitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Sodium fluoride is originally associated with vitamin deficiency disorder in the underlying knowledge graph, and it is marketed in India in tablet, injectable and dental varnish forms.
+Sodium fluoride is originally associated with vitamin deficiency disorder, and it is marketed in India in tablet, injectable and dental varnish forms.
 The TxGNN model predicts it may be effective for **epiglottitis**, but **no clinical trials and no publications** support this prediction.
 The prediction is a model output only and has no mechanistic or clinical backing in the data compiled for this report.
 
@@ -48,12 +48,12 @@ The prediction is a model output only and has no mechanistic or clinical backing
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin deficiency disorder (from the knowledge graph; no approved indication text is available in the Indian licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Epiglottitis is an acute infection of the epiglottis, typically caused by bacteria such as *Haemophilus influenzae* type b. It is treated with airway management and systemic antibiotics. Sodium fluoride has no recognised antibacterial role in this setting.
 
-The high score most likely reflects similarity in the knowledge-graph neighbourhood, not a real biological mechanism. Several other top predictions are infections (urinary tract infection, gonococcal urethritis, Ureaplasma urethritis, xanthogranulomatous pyelonephritis), and two of them share an identical score. This pattern points to a graph artifact rather than a disease-specific signal. The prediction should be treated as a hypothesis only.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other top predictions are infections (urinary tract infection, gonococcal urethritis, Ureaplasma urethritis, xanthogranulomatous pyelonephritis), and two of them share an identical score of 0.9990. This pattern suggests a general similarity-based signal rather than a disease-specific one. The prediction should be treated as a hypothesis only.
 
 ---
 
@@ -105,7 +105,7 @@ All five registrations are valid single-ingredient products.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: kidney disease, nephrolithiasis, nephrocalcinosis, acute urate nephropathy, nephrolithiasis susceptibility caused by SLC26A1, pyoureter, sarcoidosis, hyperparathyroidism, osteitis fibrosa, hypercalcemia disease, phosphorus metabolism disease, constipation disorder, lytic metastatic bone lesion, and dental fluorosis.
+- **Contraindications (not label text)**: kidney disease, nephrolithiasis, nephrocalcinosis, acute urate nephropathy, nephrolithiasis susceptibility caused by SLC26A1, pyoureter, sarcoidosis, hyperparathyroidism, osteitis fibrosa, hypercalcemia disease, phosphorus metabolism disease, constipation disorder, lytic metastatic bone lesion, and dental fluorosis.
 
 Please refer to the package insert for further safety information, including warnings and drug interactions.
 
@@ -123,7 +123,7 @@ The prediction rests only on a model score, with no clinical trials, no supporti
 - Package insert warnings and contraindications for the Indian products
 - Preclinical or in vitro evidence for activity relevant to epiglottitis
 - Confirmation of the approved indications and routes of administration for the registered products
-- Review of whether the high-scoring infection predictions reflect a graph artifact
+- Review of whether the high-scoring infection predictions reflect similarities the TxGNN model (deep learning) learned between related diseases rather than biological evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

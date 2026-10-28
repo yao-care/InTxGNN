@@ -48,9 +48,9 @@ but **no clinical trials are registered** and the evidence consists of **8 publi
 |------|------|
 | Original Indication | Restless legs syndrome, Parkinson disease |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -120,15 +120,15 @@ The other top-ranked predictions all carry a **Hold** recommendation. None has r
 
 | Predicted Indication | TxGNN Score | Evidence Level | Note |
 |------|------|------|------|
-| Schizophrenia | 99.90% | L4 | Evidence is preclinical, case-based or indirect. D2/D3 agonism is opposite to standard antipsychotic action and may worsen psychosis. Psychotic disorders also appear among the knowledge-graph contraindications. |
-| Faciodigitogenital syndrome | 99.98% | L5 | Model prediction only |
-| Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.92% | L5 | Model prediction only |
-| Retinal dystrophy with or without extraocular anomalies | 99.91% | L5 | Model prediction only |
-| Myopia X-linked | 99.90% | L5 | Model prediction only |
-| Congenital disorder of glycosylation with defective fucosylation | 99.90% | L5 | Model prediction only |
-| Atypical glycine encephalopathy | 99.89% | L5 | Model prediction only |
-| Myopia 26, X-linked, female-limited | 99.88% | L5 | Model prediction only |
-| Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.88% | L5 | Model prediction only |
+| Schizophrenia | 0.9990 | L4 | Evidence is preclinical, case-based or indirect. D2/D3 agonism is opposite to standard antipsychotic action and may worsen psychosis. Psychotic disorders also appear among the knowledge-graph contraindications. |
+| Faciodigitogenital syndrome | 0.9998 | L5 | Model prediction only |
+| Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 0.9992 | L5 | Model prediction only |
+| Retinal dystrophy with or without extraocular anomalies | 0.9991 | L5 | Model prediction only |
+| Myopia X-linked | 0.9990 | L5 | Model prediction only |
+| Congenital disorder of glycosylation with defective fucosylation | 0.9990 | L5 | Model prediction only |
+| Atypical glycine encephalopathy | 0.9989 | L5 | Model prediction only |
+| Myopia 26, X-linked, female-limited | 0.9988 | L5 | Model prediction only |
+| Charcot-Marie-Tooth disease, demyelinating, type 1G | 0.9988 | L5 | Model prediction only |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

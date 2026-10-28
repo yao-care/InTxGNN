@@ -4,17 +4,17 @@ title: Itopride
 parent: Model Prediction Only (L5)
 nav_order: 456
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Itopride: predicted new indication Small bowel Crohn disease (evidence level L5). Approved use: Gastritis"
 monitor_inn: "Itopride"
-predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)", "esophageal ulcer", "cascade stomach", "Dieulafoy lesion", "gastric dilatation", "pylorospasm", "hemorrhagic duodenitis"]
+predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
+description: "Itopride: predicted new indication Small bowel Crohn disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Itopride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Itopride: From Gastritis to Small Bowel Crohn Disease
+## Itopride: Small bowel Crohn disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **small bowel Crohn disease**, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastritis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Small bowel Crohn disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,13 +57,12 @@ The TxGNN model predicts it may be effective for **small bowel Crohn disease**, 
 
 Itopride is a dopamine D2 antagonist and acetylcholinesterase inhibitor. Together these actions enhance upper GI motility and gastric emptying. The data compiled for this report did not include a detailed, curated mechanism-of-action record, so this description rests on the mechanistic assessment prepared for the prediction.
 
-The link between the original indication and the predicted one is weak. Gastritis and functional dyspepsia are treated with a motility-enhancing drug, whereas Crohn disease is a chronic inflammatory condition driven by immune pathways. Itopride has no known anti-inflammatory action, so no clear mechanistic bridge exists. The very high TxGNN score most likely reflects patterns in the knowledge graph rather than biological or clinical reasoning.
+The link between the original indication and the predicted one is weak. Gastritis and functional dyspepsia are treated with a motility-enhancing drug, whereas Crohn disease is a chronic inflammatory condition driven by immune pathways. Itopride has no known anti-inflammatory action, so no clear mechanistic bridge exists.
 
 There is also a practical concern. Prokinetics may be unsuitable where strictures or obstruction are present, which is a recognised complication of small bowel Crohn disease.
 
-Other predictions in the top 10 were also reviewed. Most (venous insufficiency, Dieulafoy lesion, cascade stomach, hemorrhagic duodenitis) lack a plausible mechanism. A few are more plausible given itopride's prokinetic action, though still unproven:
-- **Esophageal ulcer**: indirect support only (L4, "Research Question"). The two retrieved papers cover functional dyspepsia and prokinetic evaluation, not esophageal ulcer.
-- **Gastric dilatation**: indirect support only (L4, "Research Question"). The one retrieved paper studies a different drug (mosapride) in rats.
+Other predictions in the top 10 were also reviewed. A few are more plausible given itopride's prokinetic action, though still unproven:
+- The one retrieved paper studies a different drug (mosapride) in rats.
 - **Pylorospasm, hiatus hernia, achlorhydria**: plausible symptom-level rationales, but no evidence (L5).
 
 ## Clinical Trial Evidence
@@ -109,7 +108,6 @@ The Crohn disease prediction has no clinical or literature support and no plausi
 - Package insert warnings and contraindications from the Indian regulatory source (a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
 - Any preclinical or clinical evidence linking itopride to intestinal inflammation (none currently exists)
-- Consideration of the more mechanistically plausible upper-GI candidates (esophageal ulcer, gastric dilatation) as research questions, supported by direct itopride studies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

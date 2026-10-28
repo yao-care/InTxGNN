@@ -4,17 +4,17 @@ title: Metoprolol
 parent: Model Prediction Only (L5)
 nav_order: 544
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Metoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension, acute coronary syndrome, myocardial infarction"
+indication_count: 6
 monitor_inn: "Metoprolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "trichotillomania"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
+last_modified_at: 2026-10-23
+description: "Metoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension"
 ---
 
 # Metoprolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Metoprolol: From Hypertension and Myocardial Infarction to Malignant Hypertensive Renal Disease
+## Metoprolol: From Hypertension to Malignant Hypertensive Renal Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Metoprolol is a beta-1 selective blocker, originally used to treat hypertension, acute coronary syndrome and myocardial infarction.
-The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but **no clinical trials or publications** currently support this specific prediction.
-The prediction is largely an extension of the original hypertension indication rather than true repurposing.
+Metoprolol is a beta-1 selective blocker whose recorded uses in the knowledge graph include hypertension, acute coronary syndrome and myocardial infarction.
+The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**, but **no clinical trials and no publications** directly study this condition, so the prediction rests on model output alone.
 
 ---
 
@@ -48,91 +47,73 @@ The prediction is largely an extension of the original hypertension indication r
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, acute coronary syndrome, myocardial infarction (approved indication text is not listed in the Indian licence records) |
+| Original Indication | Hypertension (relation recorded in the knowledge graph; no approved-indication text is available in the local licence records) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 licences (the list may be partial) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, metoprolol is a beta-1 selective adrenergic blocker. It lowers heart rate and blood pressure and reduces renin release.
+Currently, detailed mechanism of action data is not available. Based on known information, metoprolol is a beta-1 selective adrenergic blocker. Its blood-pressure-lowering effect is recorded for hypertension in the knowledge graph, and mechanistically it may be applicable to hypertensive kidney injury.
 
-Malignant hypertensive renal disease is kidney injury driven by severely elevated blood pressure. Because metoprolol is already an established antihypertensive, a link through blood pressure control and suppression of the renin-angiotensin system is plausible.
+Beta-1 blockade lowers heart rate, cardiac output and renin release. Lowering blood pressure and renin activity could plausibly limit hypertensive renal damage. The high TxGNN score most likely reflects closeness to the hypertension relation already recorded for the drug, rather than new information.
 
-This is mainly an extension of the existing hypertension indication, not a new mechanism. No trials or publications were found for this specific condition, so the high score is a computational result only.
-
-**Other predictions in the top 10 (for context):**
-
-| Rank | Predicted Indication | Score | Evidence Level | Note |
-|---|---|---|---|---|
-| 2 | Malignant renovascular hypertension | 99.91% | L5 | Only one linked paper, which is a diagnostic study unrelated to metoprolol efficacy |
-| 3 | Pulmonary hypertension, unclear multifactorial mechanism | 99.91% | L5 | Beta-blockers are used cautiously because of right ventricular concerns |
-| 4 | Pulmonary hypertension due to lung disease/hypoxia | 99.91% | L4 | Literature is heterogeneous and mostly off-target |
-| 6–8 | Posterolateral, posteroinferior and septal myocardial infarction | 99.8–99.84% | L4–L5 | Subtypes of an already approved use |
-| 9 | Chronic pulmonary heart disease | 99.40% | L3 | The only candidate with trials; the evidence is mainly about safety in COPD |
-| 10 | Trichotillomania | 99.05% | L5 | No data |
+There is an important caveat. Malignant hypertension is usually managed acutely with titratable intravenous agents, and beta-blockers are at best adjunctive. No trial or publication supplied for this report tests metoprolol in this condition.
 
 ---
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for the top-ranked prediction (malignant hypertensive renal disease). The only trials in the data relate to the rank 9 prediction, chronic pulmonary heart disease, and are shown below for reference:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06825728](https://clinicaltrials.gov/study/NCT06825728) | Phase 4 | Not yet recruiting | 311 | Metoprolol in heart failure with reduced ejection fraction and COPD; compares doses and looks at deaths and re-hospitalisation |
-| [NCT02587351](https://clinicaltrials.gov/study/NCT02587351) | Phase 3 | Terminated | 532 | BLOCK-COPD: metoprolol vs placebo for preventing COPD exacerbations; stopped early |
-| [NCT00384566](https://clinicaltrials.gov/study/NCT00384566) | Phase 4 | Withdrawn | 0 | Carvedilol vs metoprolol respiratory assessment in heart failure; no data |
-| [NCT05096884](https://clinicaltrials.gov/study/NCT05096884) | Early Phase 1 | Terminated | 14 | Post-COVID exertional dyspnoea and tachycardia; only tangentially related |
+Currently no related clinical trials registered for malignant hypertensive renal disease.
 
 ---
 
 ## Literature Evidence
 
-No literature was found that directly supports metoprolol in malignant hypertensive renal disease. The publications below relate to other predicted indications (rank 6–9) and are the most relevant available:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38762800](https://pubmed.ncbi.nlm.nih.gov/38762800/) | 2024 | RCT | JAMA | Bisoprolol in COPD at high exacerbation risk; notes that metoprolol did not reduce exacerbations and increased hospitalised exacerbations |
-| [38587241](https://pubmed.ncbi.nlm.nih.gov/38587241/) | 2024 | RCT | N Engl J Med | Beta-blockers after myocardial infarction with preserved ejection fraction |
-| [20413026](https://pubmed.ncbi.nlm.nih.gov/20413026/) | 2010 | Randomised crossover trial | J Am Coll Cardiol | Switching between beta1-selective and nonselective beta-blockers in heart failure with COPD |
-| [8737105](https://pubmed.ncbi.nlm.nih.gov/8737105/) | 1996 | Clinical study (RCT) | Eur Heart J | MEXIS: metoprolol vs xamoterol on left ventricular function in heart failure after myocardial infarction |
-| [32000982](https://pubmed.ncbi.nlm.nih.gov/32000982/) | 2020 | Cohort | Am J Cardiol | Metoprolol vs carvedilol in geriatric patients with heart failure, COPD, diabetes and renal failure |
-| [26844454](https://pubmed.ncbi.nlm.nih.gov/26844454/) | 2016 | Cohort | Medicine | Carvedilol, bisoprolol and metoprolol in coexistent heart failure and COPD (Taiwan database) |
-| [29159953](https://pubmed.ncbi.nlm.nih.gov/29159953/) | 2018 | Cohort | Eur J Heart Fail | Danish cohort of beta-blocker use in heart failure with COPD |
-| [32250198](https://pubmed.ncbi.nlm.nih.gov/32250198/) | 2020 | Review | Expert Rev Respir Med | Practical recommendations for beta-blockers in COPD |
-| [6401230](https://pubmed.ncbi.nlm.nih.gov/6401230/) | 1983 | Small clinical study | Circulation | Metoprolol, nitroglycerin and nifedipine effects on regional left ventricular function |
-| [3568727](https://pubmed.ncbi.nlm.nih.gov/3568727/) | 1987 | Clinical study | Crit Care Med | Metoprolol in multifocal atrial tachycardia in 11 patients with serious lung disease |
+Currently no related literature available for malignant hypertensive renal disease.
 
 ---
 
 ## India Market Information
 
-Metoprolol is marketed in India with 20 valid single-ingredient registrations. The records do not list approved indication text. The main authorisations are:
+At least 20 licences are on record, and the list may be partial. All are valid single-ingredient registrations. The records contain no approved-indication text. Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 73288 | Embeta XR 75mg Tablet (Intas Pharmaceuticals) | Extended-release tablet | Not listed |
-| 6427 | Angibloc 50 Tablet PR (Alkem Laboratories) | Prolonged-release tablet | Not listed |
-| 139154 | Metored 50mg Tablet XL (Morepen Laboratories) | Extended-release tablet | Not listed |
-| 140719 | Metosan XR 25 Tablet (Sanofi India) | Extended-release tablet | Not listed |
-| 48318 | Clovet M 50mg/6.25mg Tablet (Ajanta Pharma) | Tablet | Not listed |
+| 73288 | Embeta XR 75mg Tablet | Strip of 15 extended-release tablets | Not stated in the records |
+| 94901 | Genericart Metoprolol Succinate 12.5mg Tablet ER | Strip of 10 extended-release tablets | Not stated in the records |
+| 6427 | Angibloc 50 Tablet PR | Strip of 10 prolonged-release tablets | Not stated in the records |
+| 139154 | Metored 50mg Tablet XL | Strip of 10 extended-release tablets | Not stated in the records |
+| 218623 | Topme-XL 50mg Tablet | Strip of 10 extended-release tablets | Not stated in the records |
 
-All formulations are oral.
+All listed forms are oral tablets.
 
 ---
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph (not label text):** anxiety and neurotic disorders, pancreatitis, liver disease, diabetes mellitus and diabetic ketoacidosis, systemic lupus erythematosus, psoriasis, gout, hypotension, myasthenia gravis, pheochromocytoma, and several metabolic conditions (potassium deficiency, hypercalcaemia, hyperparathyroidism). These come from graph relationships and must be checked against the official package insert.
-- **Drug interactions:** 337 interactions were identified. Examples at moderate level include epinephrine, corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), anticholinergics (atropine, hyoscyamine, glycopyrronium), bupropion, morphine, cimetidine, canagliflozin, dapagliflozin and chlorpropamide. Acetylsalicylic acid and magnesium oxide interact at minor level.
-- **Respiratory safety:** In the BLOCK-COPD trial, metoprolol did not reduce COPD exacerbations and was associated with more exacerbations requiring hospitalisation. Caution is warranted in lung disease.
-- Package insert warnings and contraindications were not available for this report; please refer to the package insert for full safety information.
+- **Relations recorded in the knowledge graph (not label text):** The knowledge graph links metoprolol with contraindication relations to several conditions, including:
+  - hypotensive disorder
+  - diabetes mellitus and diabetic ketoacidosis
+  - liver disease and hepatic encephalopathy
+  - myasthenia gravis
+  - pheochromocytoma
+  - psoriasis
+  - gout
+  - systemic lupus erythematosus
+  - anxiety and dysthymic disorders
+  - pancreatitis and gallbladder disease
+  - anuria
+  
+  These come from the graph and have not been checked against a product label.
+- **Drug Interactions:** 337 interactions are recorded. Most of those listed are Moderate, including epinephrine, bupropion, morphine, cimetidine, the corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), canagliflozin, dapagliflozin and chlorpropamide. Acetylsalicylic acid and magnesium oxide are Minor.
+
+Please refer to the package insert for label warnings, as none were available for this report.
 
 ---
 
@@ -141,14 +122,24 @@ All formulations are oral.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for malignant hypertensive renal disease has a very high model score (99.91%), but there are no clinical trials or publications for it, so the evidence level is L5. It is also an extension of metoprolol's existing hypertension use rather than a distinct new indication.
+The prediction is model-only (L5). No trial or publication directly studies metoprolol in malignant hypertensive renal disease, and standard care for this condition relies on intravenous agents. Metoprolol is widely marketed in India, but this does not support the new use.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking data gap for safety screening)
-- Mechanism of action data from DrugBank
-- Targeted literature on beta-blockers in malignant hypertension with renal involvement, including renal safety
-- Clarification of whether this prediction represents a genuinely new use or a subtype of the approved hypertension indication
-- If pursuing the cardiopulmonary direction (chronic pulmonary heart disease), a dedicated safety assessment given the BLOCK-COPD findings, and follow-up of NCT06825728
+- Clinical or observational data on metoprolol in hypertensive renal disease
+- Mechanism of action data and the package insert warnings and contraindications
+- A comparison against current acute management of malignant hypertension
+
+**Other predictions reviewed**
+
+| Predicted indication | TxGNN score | Evidence level | Note |
+|------|------|------|------|
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9991 | L5 | The retrieved articles do not test metoprolol in this condition |
+| Pulmonary hypertension with unclear multifactorial mechanism | 0.9991 | L5 | Prediction only |
+| Braddock syndrome | 0.9989 | L5 | Prediction only |
+| Chronic pulmonary heart disease | 0.9940 | L5 | Trials and studies address heart failure or myocardial infarction with COPD, not this disease itself. Trial NCT02587351 (Phase 3, COPD exacerbation prevention) was terminated and does not support efficacy |
+| Trichotillomania | 0.9905 | L5 | Prediction only |
+
+For chronic pulmonary heart disease, the supplied evidence concerns related conditions rather than the disease itself. The level is therefore capped at L5, even though the pack scored it L4.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

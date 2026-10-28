@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-14
-description: "Acarbose: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
+last_modified_at: 2026-10-28
 monitor_inn: "Acarbose"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+description: "Acarbose: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Acarbose
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Acarbose: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+## Acarbose: Classic stiff person syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no related publications** currently support this pr
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Classic stiff person syndrome |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,15 +58,15 @@ but **no clinical trials and no related publications** currently support this pr
 
 Currently, detailed mechanism of action data is not available. Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut, slowing carbohydrate digestion and reducing post-meal blood glucose rises. Its efficacy in type 2 diabetes is established.
 
-A plausible mechanistic link to stiff person syndrome is not evident. Stiff person syndrome is an autoimmune neurological disorder involving the GABAergic system and anti-GAD65 antibodies. The only conceivable connection is that GAD-antibody-related autoimmune diabetes can co-occur with it. That is an association between diseases, not evidence that acarbose treats the neurological condition. The high score most likely reflects proximity in the knowledge graph rather than true biology.
+A plausible mechanistic link to stiff person syndrome is not evident. Stiff person syndrome is an autoimmune neurological disorder involving the GABAergic system and anti-GAD65 antibodies. The only conceivable connection is that GAD-antibody-related autoimmune diabetes can co-occur with it. That is an association between diseases, not evidence that acarbose treats the neurological condition. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The next-ranked predictions show the same pattern:
 
-- **Focal stiff limb syndrome** (99.65%): likely driven by its proximity to stiff person syndrome. No mechanism has been identified.
-- **Thiamine-responsive dysfunction syndrome** (99.62%): overlaps with diabetes, but acarbose would not address the underlying thiamine transporter defect.
-- **Opsismodysplasia** (99.62%): a rare skeletal dysplasia with no recognised link to glucosidase inhibition.
-- **Localized lipodystrophies** (99.17% to 99.25%): any link would be indirect, via glucose and lipid metabolism.
-- **Pancreatic agenesis** (99.16%): the only prediction with retrieved literature, but none of it is disease-specific. Patients need insulin and enzyme replacement, which acarbose cannot replace.
+- **Focal stiff limb syndrome** (0.9965): likely driven by its proximity to stiff person syndrome. No mechanism has been identified.
+- **Thiamine-responsive dysfunction syndrome** (0.9962): overlaps with diabetes, but acarbose would not address the underlying thiamine transporter defect.
+- **Opsismodysplasia** (0.9962): a rare skeletal dysplasia with no recognised link to glucosidase inhibition.
+- **Localized lipodystrophies** (0.9917 to 0.9924): any link would be indirect, via glucose and lipid metabolism.
+- **Pancreatic agenesis** (0.9916): the only prediction with retrieved literature, but none of it is disease-specific. Patients need insulin and enzyme replacement, which acarbose cannot replace.
 
 ## Clinical Trial Evidence
 

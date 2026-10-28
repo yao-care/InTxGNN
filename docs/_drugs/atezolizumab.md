@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atezolizumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 78
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Atezolizumab: predicted new indication Prostatic urethra urothelial carcinoma (evidence level L3). Approved use: Transitional cell carcinoma (urothelial carcinoma)"
+evidence_level: L5
+indication_count: 6
 monitor_inn: "Atezolizumab"
-predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+last_modified_at: 2026-10-23
+description: "Atezolizumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Transitional cell carcinoma"
 ---
 
 # Atezolizumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,87 +33,113 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Atezolizumab: From Transitional Cell Carcinoma to Prostatic Urethra Urothelial Carcinoma
+## Atezolizumab: From Transitional Cell Carcinoma to Uterine Ligament Adenocarcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Atezolizumab is a PD-L1 checkpoint inhibitor originally used to treat transitional cell (urothelial) carcinoma.
-The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**,
-but the supporting evidence is thin: **1 early-phase clinical trial** (a Phase 1b combination study) and **no publications** specific to this site.
+Atezolizumab is an injectable antibody-based cancer immunotherapy.
+The TxGNN model predicts it may be effective for **uterine ligament adenocarcinoma**, but **no clinical trials and no publications** currently support this specific prediction. It is a computational signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Transitional cell carcinoma (urothelial carcinoma) |
-| Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| Original Indication | Transitional cell carcinoma (relation recorded in the knowledge graph; the local licence records give no indication text) |
+| Predicted New Indication | Uterine ligament adenocarcinoma |
+| TxGNN Prediction Score | 0.9993 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Licences | 2 (valid: 2) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, atezolizumab is a PD-L1 inhibitor (a checkpoint-blocking monoclonal antibody). Its efficacy in urothelial carcinoma is established, and mechanistically it may be applicable to prostatic urethra urothelial carcinoma.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Atezolizumab is generally known as an antibody that blocks PD-L1, which may restore T-cell activity against tumour cells. A plausible rationale is that gynaecological adenocarcinomas can express PD-L1 and may respond to this approach.
 
-Prostatic urethra urothelial carcinoma is a histologically related urothelial malignancy. It shares its cell lineage with the approved bladder indication, so PD-1/PD-L1 blockade is biologically plausible.
+Nothing in the compiled data confirms this for uterine ligament adenocarcinoma. The score (0.9993) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The high score should not be read as clinical evidence.
 
-Two caveats apply. First, the only supporting study is a Phase 1b trial of cabozantinib combined with atezolizumab in a broad solid-tumour population, so it gives only indirect evidence. Second, no dedicated data exist for this specific site. The prostatic urethra may also already fall under the broader urothelial carcinoma indication, which would limit how new this indication really is.
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1 | Active, not recruiting | 914 | Cabozantinib alone or with atezolizumab in locally advanced or metastatic solid tumours, including urothelial carcinoma (bladder, renal pelvis, ureter, urethra). Assesses safety, tolerability, preliminary efficacy and PK. Indirect, early-phase evidence. |
+Currently no related clinical trials registered for uterine ligament adenocarcinoma.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for uterine ligament adenocarcinoma.
+
+---
+
+## Closest Supported Alternative: Endocervical Carcinoma
+
+The second-ranked prediction, **endocervical carcinoma** (score 0.9992), is the only prediction in this candidate with registered trials. These are early-phase studies, and no results were provided in the data.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02921269](https://clinicaltrials.gov/study/NCT02921269) | Phase 2 | Completed | 11 | Atezolizumab plus bevacizumab in recurrent, persistent or metastatic cervical cancer. The sample is very small and no results were provided. |
+| [NCT03738228](https://clinicaltrials.gov/study/NCT03738228) | Phase 1 | Completed | 40 | Atezolizumab as an immune primer and with extended-field chemoradiotherapy in node-positive locally advanced cervical cancer. It gives feasibility and safety signals only. |
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [37467967](https://pubmed.ncbi.nlm.nih.gov/37467967/) | 2023 | Review | Biomedical Journal | Small cell neuroendocrine carcinoma of the cervix. It notes limited data, mostly case series, and discusses emerging therapies. It is not specific to atezolizumab. |
+
+The other predictions (adenoid cystic carcinoma of the cervix uteri, uterine ligament serous adenocarcinoma, and signet ring cell and intestinal variants of cervical mucinous adenocarcinoma) have no trials or literature in the compiled data.
+
+---
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| 219483 | Tecentriq Injection | Vial of 14 ml injection | Not stated in the data |
-| 217022 | Tecentriq 1200mg Injection | Vial of 20 ml solution for infusion | Not stated in the data |
+| 219483 | Tecentriq Injection | Vial of 14 ml injection | Roche Products India Pvt Ltd |
+| 217022 | Tecentriq 1200mg Injection | Vial of 20 ml solution for infusion | Roche Products India Pvt Ltd |
 
-Both registrations are held by Roche Products India Pvt Ltd and are currently valid.
+Both licences are valid single-ingredient products. The licence records contain no approved-indication text, so the approved uses cannot be confirmed from the compiled data.
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (PD-L1 checkpoint inhibitor) |
+| Cytotoxicity Classification | Immunotherapy (PD-L1 checkpoint inhibitor), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
+---
+
 ## Safety Considerations
 
-- **Drug Interactions**: 75 interactions were identified. The ones listed below are a sample from the first 20 reviewed.
-  - **Major**: adalimumab, baricitinib, BCG live vaccine (Tice substrain)
-  - **Moderate**: corticosteroids (hydrocortisone, prednisone, prednisolone, methylprednisolone, dexamethasone, betamethasone, budesonide, triamcinolone, deflazacort), roflumilast, alefacept, alemtuzumab, anakinra, azathioprine, and several vaccines (tetanus toxoid, anthrax, adenovirus type 4)
-  - Most of these involve immunosuppressants or live vaccines, which can interfere with the immune-based action of atezolizumab or raise infection risk.
+- **Drug Interactions**: The interaction screen returned 75 interactions in total. The first 20 reviewed include:
+  - **Major**: adalimumab, baricitinib, and live BCG vaccine (Tice substrain).
+  - **Moderate**: corticosteroids (hydrocortisone, prednisone, prednisolone, methylprednisolone, dexamethasone, betamethasone, budesonide, triamcinolone, deflazacort), roflumilast, azathioprine, alemtuzumab, anakinra, alefacept, and several vaccines (tetanus toxoid, anthrax, adenovirus type 4).
+  - Most of these involve immunosuppressants or live or inactivated vaccines, so combination use needs review.
 
 Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.98%), and the mechanism is plausible given the shared urothelial lineage. However, the only supporting trial is a Phase 1b combination study with a different partner drug, and there is no site-specific literature. The package insert safety review is also incomplete, so the evidence does not yet justify moving forward.
+There are no trials or publications for uterine ligament adenocarcinoma, so the evidence level is L5 and the prediction rests on the model score alone. Endocervical carcinoma is the better-supported direction, but its evidence is limited to one small Phase 2 trial (n=11) and one Phase 1 trial.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the Indian registrations (a blocking gap for safety screening)
-- Mechanism of action data
-- Approved indication wording for the Indian licences, to confirm whether prostatic urethra disease is already covered by the existing urothelial indication
-- Site-specific clinical data (for example, a Phase 2 study or subgroup analysis in prostatic urethra urothelial carcinoma)
-
-**Other predictions:** The same data also lists nine further predicted indications. Endocervical carcinoma has the strongest supporting evidence of these (Phase 2 atezolizumab plus bevacizumab study, NCT02921269, 11 patients; Phase 1 study NCT03738228, 40 patients). The others, including upper-tract and sarcomatoid urothelial variants and rare gynaecologic adenocarcinomas, rest on model prediction alone and are on Hold.
+- Mechanism of action data and PD-L1 expression data for uterine ligament adenocarcinoma
+- Trial results or published outcomes for the cervical cancer studies (NCT02921269, NCT03738228)
+- Package insert warnings and contraindications for the Indian products, and the approved indication text
+- A decision on whether to prioritise endocervical carcinoma over the top-ranked prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

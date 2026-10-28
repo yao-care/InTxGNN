@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not stated in the registration records compiled for this report |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.23% |
+| TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Phenazopyridine i
 
 A credible mechanistic link to bronchitis has not been established. The drug has no known anti-inflammatory, antimicrobial, mucolytic or bronchodilatory activity relevant to bronchial disease, and its original use (symptomatic relief of urinary tract discomfort) is unrelated to respiratory illness.
 
-The high score (0.992) is a knowledge-graph prediction only. It may reflect network-structure artifacts, such as shared neighbours with other drugs or genes, rather than a true biological relationship. No clinical or preclinical data in the compiled dataset support the prediction.
+The high score (0.9923) is a TxGNN model (deep learning) prediction only. It may reflect network-structure artifacts, such as shared neighbours with other drugs or genes, rather than a true biological relationship. No clinical or preclinical data in the compiled dataset support the prediction.
 
 ## India Market Information
 

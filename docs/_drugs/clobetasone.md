@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Clobetasone is a moderate-potency topical corticosteroid marketed in India in cream and ointment form.
-The TxGNN model predicts it may be useful for **primary cutaneous T-cell lymphoma** (score 99.97%),
+The TxGNN model predicts it may be useful for **primary cutaneous T-cell lymphoma** (score 0.9997),
 but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it remains a model-based hypothesis only.
 
 ## Quick Overview
@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not specified in the available licence data |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Topical corticosteroids are used as skin-directed therapy for early-stage mycosis fungoides, the most common subtype of cutaneous T-cell lymphoma (CTCL). A symptomatic benefit (reduced inflammation, itch and plaque activity) is therefore plausible. However, higher-potency agents such as clobetasol are the ones typically studied for this purpose, and no data specific to clobetasone were supplied.
 
-The other top predictions are weaker. Sezary syndrome is a leukaemic, systemic disease, so a topical moderate-potency agent is unlikely to modify it. Primary cutaneous B-cell lymphoma and granulomatous slack skin disease are doubtful or unsupported. Several predictions (Crohn's colitis, nephrotic syndrome, adrenocortical insufficiency) appear to reflect a corticosteroid class association rather than a feasible use of a topical skin product. Cystic teratoma and spinal cord dermoid cyst have no plausible mechanism and are likely spurious knowledge-graph results.
+The other top predictions are weaker. Sezary syndrome is a leukaemic, systemic disease, so a topical moderate-potency agent is unlikely to modify it. Primary cutaneous B-cell lymphoma and granulomatous slack skin disease are doubtful or unsupported. Several predictions (Crohn's colitis, nephrotic syndrome, adrenocortical insufficiency) appear to reflect a corticosteroid class association rather than a feasible use of a topical skin product. Cystic teratoma and spinal cord dermoid cyst have no plausible mechanism; their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

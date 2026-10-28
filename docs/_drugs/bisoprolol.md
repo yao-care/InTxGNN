@@ -4,17 +4,17 @@ title: Bisoprolol
 parent: Model Prediction Only (L5)
 nav_order: 112
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Bisoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Bisoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Bisoprolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Bisoprolol: From Hypertension to Malignant Hypertensive Renal Disease
+## Bisoprolol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no publications** currently support this specific p
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,12 +58,12 @@ but **no clinical trials and no publications** currently support this specific p
 
 Currently, detailed mechanism of action data is not available. Based on known information, bisoprolol is a beta-1 selective blocker, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertensive kidney disease through blood pressure lowering and reduced renin release.
 
-However, malignant hypertensive renal disease is a hypertensive emergency with kidney involvement. It is managed with rapid, carefully titrated parenteral therapy and blockade of the renin-angiotensin-aldosterone system (RAAS). Oral beta-blockers are not a primary therapy. The very high TxGNN score most likely reflects closeness to the existing hypertension indication in the knowledge graph rather than independent evidence.
+However, malignant hypertensive renal disease is a hypertensive emergency with kidney involvement. It is managed with rapid, carefully titrated parenteral therapy and blockade of the renin-angiotensin-aldosterone system (RAAS). Oral beta-blockers are not a primary therapy. The very high score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, such as the existing hypertension indication, not biological evidence.
 
 Other top-ranked predictions are similarly weak:
-- **Malignant renovascular hypertension** (99.94%): beta-1 blockade lowers renin secretion, which is plausible, but definitive management is revascularisation and RAAS inhibitors.
-- **Pulmonary hypertension** (two entries, 99.93%): the link is weak. It is a distinct pulmonary vascular disease, and beta-blockers are generally avoided or used cautiously because of the risk of right ventricular dysfunction. Eight publications were retrieved for the hypoxia-related entry, but none shows bisoprolol treating pulmonary hypertension. They are heart failure, preclinical and physiology studies that give only indirect context.
-- **Braddock syndrome** (99.91%): no mechanistic rationale can be established from the available data.
+- **Malignant renovascular hypertension** (0.9994): beta-1 blockade lowers renin secretion, which is plausible, but definitive management is revascularisation and RAAS inhibitors.
+- **Pulmonary hypertension** (two entries, 0.9993): the link is weak. It is a distinct pulmonary vascular disease, and beta-blockers are generally avoided or used cautiously because of the risk of right ventricular dysfunction. Eight publications were retrieved for the hypoxia-related entry, but none shows bisoprolol treating pulmonary hypertension. They are heart failure, preclinical and physiology studies that give only indirect context.
+- **Braddock syndrome** (0.9991): no mechanistic rationale can be established from the available data.
 
 ## India Market Information
 

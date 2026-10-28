@@ -4,7 +4,7 @@ title: Paliperidone
 parent: Model Prediction Only (L5)
 nav_order: 638
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Paliperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia (also psychotic disorder, schizophreniform disorder…"
 monitor_inn: "Paliperidone"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Paliperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Paliperidone: From Schizophrenia to Retinal Dystrophy (with or without Extraocular Anomalies)
+## Paliperidone: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,21 +47,20 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 |------|------|
 | Original Indication | Schizophrenia (also psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder) |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Paliperidone is an atypical antipsychotic, the active metabolite of risperidone, and is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism. Its efficacy in schizophrenia is established.
 
-For retinal dystrophy, no plausible mechanistic link has been established. Retinal dystrophies are mostly genetic degenerative conditions, and nothing shows that D2/5-HT2A antagonism would slow or reverse them. The very high score (rank 1,886 in the model's overall ranking) most likely reflects similarity patterns in the underlying knowledge graph rather than a pharmacological rationale.
+For retinal dystrophy, no plausible mechanistic link has been established. Retinal dystrophies are mostly genetic degenerative conditions, and nothing shows that D2/5-HT2A antagonism would slow or reverse them. The very high score (rank 1,886 in the model's overall ranking) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top-ranked predictions have the same weakness: X-linked and syndromic myopia, hydranencephaly, a congenital glycosylation disorder, Charcot-Marie-Tooth disease type 1G and others. None has any clinical or literature support.
 
-The only prediction with any trial or literature activity is **treatment-refractory schizophrenia** (score 99.80%). It is essentially a refinement within the already approved disease area, not true repurposing. Its evidence is also weak:
 - The three Phase 4 trials are only indirectly relevant. One is terminated with 5 patients, one has unknown status, and one concerns recovery-oriented programs.
 - The two publications are general reviews.
 - Clozapine remains the guideline-supported option for this population.
@@ -100,13 +99,12 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction for retinal dystrophy rests only on a graph-based score. There are no trials or publications, and no plausible mechanistic link to paliperidone's pharmacology. The evidence level is L5.
+The prediction for retinal dystrophy rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications, and no plausible mechanistic link to paliperidone's pharmacology. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) and a testable biological hypothesis connecting paliperidone to retinal pathology
 - Preclinical evidence (for example retinal cell or animal models) supporting benefit in retinal dystrophy
 - Package insert warnings and contraindications from the India regulatory source
-- A separate review of treatment-refractory schizophrenia, the one prediction with trial activity, using paliperidone-specific data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

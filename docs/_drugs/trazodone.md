@@ -4,17 +4,17 @@ title: Trazodone
 parent: High Evidence (L1-L2)
 nav_order: 858
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L2). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Trazodone"
-predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "phobic disorder", "Ohdo syndrome and variants"]
+predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
+description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Trazodone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Trazodone: From Depression to Obsessive-Compulsive Disorder
+## Trazodone: Obsessive-compulsive disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ with **no registered clinical trials** but **21 publications** (including 1 doub
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; the Indian registrations carry no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obsessive-compulsive disorder |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -137,15 +137,14 @@ Trazodone has a plausible serotonergic rationale, a very high TxGNN score, and a
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|
-| Agoraphobia | 99.81% | L3 | Research question (older panic disorder studies; trazodone appeared less effective than imipramine and alprazolam) |
-| Phobic disorder | 99.45% | L3 | Research question (overlaps with agoraphobia evidence) |
-| Dysthymic disorder | 99.48% | L3 | Research question (limited trazodone-specific data; the meta-analysis is class-level) |
-| Histrionic personality disorder | 99.92% | L4 | Hold (only a 1975 hysteria report) |
-| Paranoid personality disorder | 99.92% | L5 | Hold (only a drug-interaction case report) |
-| Schizotypal personality disorder | 99.92% | L5 | Hold (prediction only) |
-| Schizoid personality disorder | 99.92% | L5 | Hold (prediction only) |
-| Benign paroxysmal torticollis of infancy | 99.83% | L5 | Hold (prediction only; paediatric safety unsupported) |
-| Ohdo syndrome and variants | 99.28% | L5 | Hold (prediction only; no plausible link) |
+| Agoraphobia | 0.9981 | L3 | Research question (older panic disorder studies; trazodone appeared less effective than imipramine and alprazolam) |
+| Phobic disorder | 0.9945 | L5 | Research question (overlaps with agoraphobia evidence) |
+| Histrionic personality disorder | 0.9992 | L5 | Hold (only a 1975 hysteria report) |
+| Paranoid personality disorder | 0.9992 | L5 | Hold (only a drug-interaction case report) |
+| Schizotypal personality disorder | 0.9992 | L5 | Hold (prediction only) |
+| Schizoid personality disorder | 0.9992 | L5 | Hold (prediction only) |
+| Benign paroxysmal torticollis of infancy | 0.9983 | L5 | Hold (prediction only; paediatric safety unsupported) |
+| Ohdo syndrome and variants | 0.9928 | L5 | Hold (prediction only; no plausible link) |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

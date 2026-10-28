@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are cur
 |------|------|
 | Original Indication | Not stated in the licence data (the drug is generally known as an antispasmodic) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.39% |
+| TxGNN Prediction Score | 0.9939 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are cur
 
 Currently, detailed mechanism of action data is not available. Based on general background knowledge (not part of the data compiled for this report), camylofin is an antispasmodic that combines anticholinergic (antimuscarinic) activity with direct smooth-muscle relaxation. Its use in smooth-muscle spasm is the likely original context, but no approved indication text was recorded in the licence data.
 
-The link to insomnia is speculative. Central anticholinergic effects could in theory cause sedation, but they could equally impair cognition or worsen sleep quality. No mechanistic, clinical, or literature evidence in the compiled data confirms a benefit. The high TxGNN score (99.39%) is a model-based prediction only and should be treated as a hypothesis to test, not as proof of efficacy.
+The link to insomnia is speculative. Central anticholinergic effects could in theory cause sedation, but they could equally impair cognition or worsen sleep quality. No mechanistic, clinical, or literature evidence in the compiled data confirms a benefit. The high TxGNN score (0.9939) is a model-based prediction only and should be treated as a hypothesis to test, not as proof of efficacy.
 
 ## Clinical Trial Evidence
 

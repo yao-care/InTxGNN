@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-14
 description: "Pioglitazone: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Pioglitazone"
-predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Pioglitazone
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare sk
 |------|------|
 | Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 99.59% |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare sk
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, pioglitazone is a PPAR-gamma agonist (thiazolidinedione class). Its efficacy in type 2 diabetes is established, where it improves insulin sensitivity.
 
-Opsismodysplasia is caused by INPPL1 mutations (loss of SHIP2 function), which affect PI3K/insulin signaling and chondrocyte maturation. Both conditions touch insulin-related signaling, which may explain the graph-based prediction. However, no direct mechanistic link is established, and any connection is speculative. The high score (0.996) most likely reflects relationships within the knowledge graph rather than independent evidence.
+Opsismodysplasia is caused by INPPL1 mutations (loss of SHIP2 function), which affect PI3K/insulin signaling and chondrocyte maturation. Both conditions touch insulin-related signaling, which may explain the prediction. However, no direct mechanistic link is established, and any connection is speculative. The high score (0.9959) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top predictions show the same pattern: stiff person syndrome and its focal variant (possible immunomodulation), localized lipodystrophies (PPAR-gamma-driven adipogenesis), thiamine-responsive dysfunction syndrome and pancreatic agenesis (both diabetes-related). All are L5 with no supporting trials or literature specific to the indication.
 

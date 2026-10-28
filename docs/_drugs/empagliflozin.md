@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
-description: "Empagliflozin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Empagliflozin"
-predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
+last_modified_at: 2026-10-23
+description: "Empagliflozin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Empagliflozin
@@ -33,34 +33,35 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Empagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+## Empagliflozin: Focal stiff limb syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Empagliflozin is an oral SGLT2 inhibitor originally used to treat type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **classic stiff person syndrome**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
+Empagliflozin is a drug used for type 2 diabetes mellitus (this use is recorded in the knowledge graph; the licence records compiled for this report contain no indication text).
+The TxGNN model predicts it may be relevant to **focal stiff limb syndrome**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus |
-| Predicted New Indication | Classic stiff person syndrome |
-| TxGNN Prediction Score | 99.06% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Focal stiff limb syndrome |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences: 20 of 20) |
+| Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Empagliflozin is known to be an SGLT2 inhibitor that lowers blood glucose by blocking glucose reabsorption in the kidney. Its efficacy in type 2 diabetes is well established, but that mechanism has no demonstrated link to the new indication.
+Currently, detailed mechanism of action data is not available. Empagliflozin is known as an SGLT2 inhibitor that acts on glucose reabsorption in the kidney's proximal tubule.
 
-Stiff person syndrome is an autoimmune neurological disorder involving GABAergic signalling and antibodies against glutamic acid decarboxylase (GAD65). A possible connection exists through the association of GAD65 autoimmunity with type 1 diabetes and other autoimmune conditions. This link is indirect and speculative, and no supported mechanistic link was identified.
+Focal stiff limb syndrome is a rare neurological disorder within the stiff person spectrum, involving impaired GABA-mediated inhibition and often anti-GAD65 autoimmunity. No established mechanistic link to empagliflozin was identified. Any connection would be speculative, such as indirect anti-inflammatory or metabolic effects, or the shared association of anti-GAD autoimmunity with diabetes.
 
-The prediction should be treated with caution. The closely related prediction, focal stiff limb syndrome, receives an identical score (99.06%), which suggests the model is propagating a shared disease-neighbourhood signal rather than independent evidence. The third-ranked prediction, opsismodysplasia (score 99.03%), is also unsupported by any trials or publications.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (diabetes and autoimmunity associations), not biological evidence or a pharmacological rationale.
+
+Two other predictions had identical or near-identical scores and were likewise unsupported: classic stiff person syndrome (0.9906) and opsismodysplasia (0.9903). For stiff person syndrome, the link is comorbidity with diabetes and autoimmunity. For opsismodysplasia, the link is a skeletal dysplasia caused by INPPL1 (SHIP2) mutations that touches insulin signalling. Neither is supported by a pharmacological mechanism.
 
 ## Clinical Trial Evidence
 
@@ -72,35 +73,34 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are on file. The main ones are listed below. The data compiled for this report contain no approved indication text for these products.
+Empagliflozin is marketed in India. The records contain no approved-indication text. Five main licences are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | 113870 | Jardiance 10mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
 | 113866 | Jardiance 25mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
-| 94211 | Glyxambi 25mg/5mg Tablet | Strip of 10 tablets | Boehringer Ingelheim |
 | 72505 | Empaone 10mg Tablet | Strip of 10 tablets | MSN Laboratories |
+| 94310 | Gibtulio 10mg Tablet | Strip of 10 tablets | Lupin Ltd |
 | 162085 | Oboravo 10mg Tablet | Strip of 10 tablets | Cipla Ltd |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 369 interactions were identified in total. Examples at Moderate level include phenylephrine, acebutolol, acetazolamide, formoterol, pseudoephedrine, nifedipine, epinephrine, ethinylestradiol, hydrocortisone, salbutamol, ethanol, furosemide and fosinopril. Minor-level examples include topical hydrocortisone and topical alclometasone.
+- **Drug Interactions**: 369 interactions are recorded. Most of those listed are of moderate severity, for example phenylephrine, acebutolol, acetazolamide, formoterol, pseudoephedrine, nifedipine, epinephrine, ethinylestradiol, hydrocortisone, salbutamol, ethanol, furosemide and fosinopril. Hydrocortisone (topical) and alclometasone (topical) are minor.
 
-Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or publications (evidence level L5), no verified mechanistic link, and the drug's package insert safety data are not yet available. A high TxGNN score alone is not enough to justify moving forward.
+No clinical trial or publication studies empagliflozin in focal stiff limb syndrome, and no mechanistic link is established. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or pharmacology, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India Pharma source, which currently block safety screening
-- Mechanism of action data from DrugBank, to allow a proper mechanistic-link analysis
-- A literature and trial search specific to stiff person syndrome and SGLT2 inhibitors, including preclinical or mechanistic studies
-- Assessment of whether the identical scores for classic stiff person syndrome and focal stiff limb syndrome reflect a model artefact
-- Review of the safety profile in the target population, given that stiff person syndrome patients often have autoimmune comorbidities
+- Mechanism of action data for empagliflozin
+- Package insert warnings and contraindications, which are required before safety screening
+- Preclinical or mechanistic studies showing a plausible link to GABAergic or autoimmune pathways in stiff person spectrum disorders
+- Case reports or exploratory studies in patients with focal stiff limb syndrome
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

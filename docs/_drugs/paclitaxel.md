@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Paclitaxel
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 636
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Paclitaxel: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Ovarian cancer"
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Paclitaxel: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Paclitaxel: From Ovarian Cancer to Female Breast Carcinoma
+## Paclitaxel: Parameningeal embryonal rhabdomyosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Paclitaxel is a taxane chemotherapy drug, originally used to treat ovarian cancer.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**,
 with **50 clinical trials** and **20 publications** compiled for this indication, although most trials are Phase 1/2 combination studies in which paclitaxel is a backbone or partner drug.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (the approved-indication text in the India licence records is blank; this is taken from the drug's knowledge-graph indication list) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.995% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -129,7 +128,7 @@ Package insert warnings and contraindications could not be retrieved. Please ref
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Paclitaxel is already a long-established part of breast cancer regimens, and the compiled trials include several completed Phase 3 studies and a randomised Phase 2 comparison across subtypes. However, these trials mostly evaluate partner drugs or regimens rather than paclitaxel alone, so the evidence for this specific indication is best graded L2. The other subtype-level indications (estrogen-receptor positive, estrogen-receptor negative and hormone-resistant breast cancer) point the same way. Rarer or non-distinct categories (Ehrlich tumour, bilateral and nipple carcinoma, gene-expression-defined breast carcinoma, and the two rhabdomyosarcoma predictions) have only preclinical, case-report or computational support, and should be held.
+Paclitaxel is already a long-established part of breast cancer regimens, and the compiled trials include several completed Phase 3 studies and a randomised Phase 2 comparison across subtypes. However, these trials mostly evaluate partner drugs or regimens rather than paclitaxel alone, so the evidence for this specific indication is best graded L2. The other subtype-level indications (estrogen-receptor positive, estrogen-receptor negative and hormone-resistant breast cancer) point the same way.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulator (currently missing, and the blocking gap for safety screening)

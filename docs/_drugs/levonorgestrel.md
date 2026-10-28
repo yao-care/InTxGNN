@@ -4,17 +4,17 @@ title: Levonorgestrel
 parent: Moderate Evidence (L3-L4)
 nav_order: 489
 evidence_level: L4
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L4). Approved use: Postmenopausal osteoporosis / osteoporosis"
 monitor_inn: "Levonorgestrel"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-## Levonorgestrel: From Postmenopausal Osteoporosis to Acne
+## Levonorgestrel: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Levonorgestrel is a progestin, listed in the TxGN knowledge graph for postmenopausal osteoporosis and widely marketed in India for contraception, including emergency contraception and intrauterine systems.
+Levonorgestrel is a progestin widely marketed in India for contraception, including emergency contraception and intrauterine systems. The TxGNN model (deep learning) predicts acne as a new indication (score 0.9988). The score may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **acne (disease)**, but there are **0 registered clinical trials** and only **indirect literature** supporting this direction.
 The evidence is a model prediction with class-level context, and levonorgestrel alone is unlikely to be beneficial for acne.
 
@@ -48,11 +48,11 @@ The evidence is a model prediction with class-level context, and levonorgestrel 
 
 | Item | Content |
 |------|------|
-| Original Indication | Postmenopausal osteoporosis / osteoporosis (from the knowledge graph; no approved indication text is available for the Indian licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -145,7 +145,7 @@ The prediction rests on a model score with no registered clinical trials. The on
 - Package insert warnings and contraindications from the India regulator, which are currently missing and block safety screening
 - Mechanism of action data
 - Direct comparative data on levonorgestrel alone versus antiandrogenic progestins in acne
-- Clarification of why the knowledge graph links levonorgestrel to osteoporosis and whether that link supports any rationale
+- Clarification of whether the TxGNN model (deep learning) score for acne reflects similarities the model learned between related diseases rather than biological evidence
 - Review of the other predictions (Worth syndrome, pregnancy-associated osteoporosis, and others), which have no supporting evidence and remain on Hold
 ## Disclaimer
 

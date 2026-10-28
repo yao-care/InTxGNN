@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Model Prediction Only (L5)
 nav_order: 372
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Flurbiprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, arthropathy"
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+description: "Flurbiprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Flurbiprofen: From Rheumatoid Arthritis and Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Flurbiprofen: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ A different, lower-ranked prediction, **ankylosing spondylitis**, has much stron
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge-graph indication records; the India licence entries carry no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ A different, lower-ranked prediction, **ankylosing spondylitis**, has much stron
 
 Detailed mechanism-of-action data were not available for this report. Flurbiprofen belongs to the NSAID class, which reduces prostaglandin-mediated inflammation and pain by inhibiting the COX-1 and COX-2 enzymes. Its efficacy in inflammatory and degenerative joint disease is well established.
 
-The predicted disease is a rare genetic skeletal dysplasia linked to the CDMP1/GDF5 pathway, which governs bone and cartilage development. A symptomatic anti-inflammatory drug has no clear way to alter this pathway. The very high score most likely reflects the disease's closeness to other skeletal and joint conditions in the knowledge graph, not a real pharmacological link.
+The predicted disease is a rare genetic skeletal dysplasia linked to the CDMP1/GDF5 pathway, which governs bone and cartilage development. A symptomatic anti-inflammatory drug has no clear way to alter this pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related skeletal and joint diseases, not biological evidence.
 
 Several other top-ranked predictions have the same weakness. They include brachydactyly-syndactyly syndrome, brachyolmia, pseudoachondroplasia and other rare developmental disorders. They also have no trials or literature, and no plausible disease-modifying mechanism for an NSAID.
 
@@ -104,7 +104,7 @@ Please refer to the package insert for label warnings.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, acromesomelic dysplasia (Hunter-Thompson type), has only a graph-based score. It has no trials, no publications and no plausible mechanism, so it does not justify further investment.
+The top-ranked prediction, acromesomelic dysplasia, Hunter-Thompson type, has only a score from the TxGNN model (deep learning). It has no trials, no publications and no plausible mechanism, so it does not justify further investment.
 
 **Better-supported alternative:** The same analysis ranks **ankylosing spondylitis** eighth, with about 20 publications. These include several double-blind randomized comparisons from 1974 to 1986 against indomethacin, phenylbutazone and naproxen, which found comparable pain relief (for example [PMID 3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) and [PMID 3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/)). This is a drug-class effect, so it is not a novel repurposing, and no disease-modifying benefit has been shown. It is rated L2 and **Proceed with Guardrails**. These trials are small and old, and their phase and design should be verified.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Golimumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 400
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Golimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis (also psoriatic arthritis…"
 monitor_inn: "Golimumab"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
+description: "Golimumab: predicted new indication Hypermobility of coccyx (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Golimumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Golimumab: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+## Golimumab: Hypermobility of coccyx
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Golimumab is a TNF-alpha–blocking antibody originally used for rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and ulcerative colitis.
-The TxGNN model predicts it may be effective for **rheumatoid vasculitis**, but the data compiled for this report contain only **1 loosely related clinical trial** and **6 publications** (case reports, reviews and RA studies), and none directly tests golimumab in this condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis (also psoriatic arthritis, ankylosing spondylitis, ulcerative colitis, inflammatory bowel disease) |
-| Predicted New Indication | Rheumatoid vasculitis |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypermobility of coccyx |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

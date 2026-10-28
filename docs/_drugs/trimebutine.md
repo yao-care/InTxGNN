@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trimebutine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 866
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Trimebutine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the Indian license record"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 # Trimebutine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be useful for **migraine disorder**, but the sup
 |------|------|
 | Original Indication | Not stated in the Indian license record |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.64% |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L2 (based on a single small randomized trial; no registered clinical trials) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -65,7 +65,7 @@ A possible link to migraine is modulation of visceral and peripheral pain signal
 
 The only direct clinical signal is a 2006 double-blind, randomized, cross-over, placebo-controlled study of rizatriptan versus rizatriptan plus trimebutine for acute migraine. Gastroparesis is common during migraine attacks and can delay absorption of oral drugs. A gastrokinetic agent might therefore help the triptan work faster or more consistently. If real, this would be an **adjunctive effect** rather than an independent antimigraine effect.
 
-A second predicted indication, **migraine with brainstem aura**, has no trials or literature. Its high score (99.54%) most likely reflects its close relationship to the parent migraine disorder. Triptans are traditionally used with caution in brainstem aura, so extrapolation is weak. It is not evaluated further here.
+A second predicted indication, **migraine with brainstem aura**, has no trials or literature. Its high score (0.9954) most likely reflects its close relationship to the parent migraine disorder. Triptans are traditionally used with caution in brainstem aura, so extrapolation is weak. It is not evaluated further here.
 
 ---
 

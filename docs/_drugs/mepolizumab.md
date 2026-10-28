@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mepolizumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 526
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L4). Approved use: Eosinophilic pneumonia"
 monitor_inn: "Mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
+description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mepolizumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Mepolizumab: From Eosinophilic Pneumonia to Thrombocytopenia Due to Immune Destruction
+## Mepolizumab: Thrombocytopenia due to immune destruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Mepolizumab is an anti-IL-5 monoclonal antibody, listed in the underlying knowledge graph for eosinophilic pneumonia and pulmonary eosinophilia.
+Mepolizumab is an anti-IL-5 monoclonal antibody.
 The TxGNN model predicts it may be effective for **thrombocytopenia due to immune destruction**,
 but the evidence is very limited: **0 clinical trials** and **1 publication** (a single case report) are available.
 
@@ -46,12 +46,12 @@ but the evidence is very limited: **0 clinical trials** and **1 publication** (a
 
 | Item | Content |
 |------|------|
-| Original Indication | Eosinophilic pneumonia; pulmonary eosinophilia (from knowledge graph indication edges; no approved indication text is available for the India licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Thrombocytopenia due to immune destruction |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| TxGNN Prediction Score | 0.9966 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,10 +66,10 @@ Other predictions from the model show the same pattern, with no supporting evide
 
 | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|
-| Primary release disorder of platelets | 99.61% | L4 | Only a review of hypereosinophilic syndrome that mentions mepolizumab; it does not address platelet function defects |
-| Pseudo-von Willebrand disease | 99.44% | L5 | No plausible link to IL-5 inhibition; no studies |
-| Autoimmune thrombocytopenic | 99.33% | L5 | Likely overlaps with the lead prediction; no direct evidence |
-| Glanzmann thrombasthenia | 99.28% | L5 | An inherited integrin αIIbβ3 defect with no known relationship to IL-5; the score likely reflects knowledge-graph proximity |
+| Primary release disorder of platelets | 0.9961 | L5 | Only a review of hypereosinophilic syndrome that mentions mepolizumab; it does not address platelet function defects |
+| Pseudo-von Willebrand disease | 0.9944 | L5 | No plausible link to IL-5 inhibition; no studies |
+| Autoimmune thrombocytopenic | 0.9933 | L5 | Likely overlaps with the lead prediction; no direct evidence |
+| Glanzmann thrombasthenia | 0.9928 | L5 | An inherited integrin αIIbβ3 defect with no known relationship to IL-5; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
 
 ## Clinical Trial Evidence
 

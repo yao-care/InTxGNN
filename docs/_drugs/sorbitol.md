@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **exercise-induced malignant hy
 |------|------|
 | Original Indication | Not available (the registration record contains no approved indication text) |
 | Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, sorbitol is a sugar alcohol used as an osmotic agent, laxative and pharmaceutical excipient. No original indication is documented for the Indian registration, so the relationship between an original and a new indication cannot be established.
 
-No biological pathway is known to link sorbitol to malignant hyperthermia. That condition is typically driven by dysregulated calcium release in skeletal muscle (RYR1 or CACNA1S variants), and the standard treatment is dantrolene. The high score may reflect graph proximity or shared-neighbour artifacts, such as sorbitol's use as an excipient or osmotic agent in related formulations, rather than a true therapeutic effect. This should be treated as a hypothesis only, requiring mechanistic validation before any further consideration.
+No biological pathway is known to link sorbitol to malignant hyperthermia. That condition is typically driven by dysregulated calcium release in skeletal muscle (RYR1 or CACNA1S variants), and the standard treatment is dantrolene. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This should be treated as a hypothesis only, requiring mechanistic validation before any further consideration.
 
 ## Clinical Trial Evidence
 
@@ -93,7 +93,7 @@ The only support is a high model prediction score. There are no clinical trials 
 - Mechanism of action data for sorbitol and a plausible biological link to skeletal-muscle calcium dysregulation
 - The approved indication and the package insert warnings and contraindications for the Indian product (Registration No. 38111)
 - Preclinical or literature evidence supporting any effect in malignant hyperthermia
-- Assessment of whether the prediction is an artifact of sorbitol's role as an excipient or osmotic agent in the knowledge graph
+- Assessment of whether the TxGNN model (deep learning) prediction reflects similarities learned between related diseases, not biological evidence, given sorbitol's role as an excipient or osmotic agent
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

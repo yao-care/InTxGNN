@@ -6,7 +6,7 @@ nav_order: 149
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Carisoprodol: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the India license data (carisoprodol is generally known…"
+description: "Carisoprodol: predicted new indication insomnia (evidence level L5). Approved use: Not stated in the India license data (carisoprodol is generally known…"
 monitor_inn: "Carisoprodol"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Carisoprodol: From Muscle Relaxation to Insomnia
+## Carisoprodol: From Muscle Relaxation to insomnia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,17 +48,17 @@ but there are currently **no registered clinical trials** and only **1 loosely r
 |------|------|
 | Original Indication | Not stated in the India license data (carisoprodol is generally known as a skeletal muscle relaxant) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.02% |
+| TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, carisoprodol is a centrally acting muscle relaxant. Its active metabolite, meprobamate, modulates GABA-A receptors and has sedative and anxiolytic properties.
 
-This sedative profile could plausibly be relevant to insomnia. However, this is background pharmacology and is not supported by the evidence compiled here. The high TxGNN score (99.02%) is a computational prediction only and does not confirm clinical benefit.
+This sedative profile could plausibly be relevant to insomnia. However, this is background pharmacology and is not supported by the evidence compiled here. The high TxGNN score (0.9902) is a computational prediction only and does not confirm clinical benefit.
 
 Safety is also a concern for this use. Carisoprodol has abuse and dependence potential, and it has 158 recorded drug interactions, many involving CNS depressants that are commonly co-prescribed to people with insomnia.
 
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: The TxGNN knowledge graph links carisoprodol to contraindications in many conditions, including:
+- **Contraindications (not label text)**: Carisoprodol is associated with contraindications in many conditions, including:
   - Epilepsy
   - Kidney disease and liver disease
   - Respiratory failure

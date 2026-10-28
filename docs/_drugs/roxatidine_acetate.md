@@ -4,17 +4,17 @@ title: Roxatidine Acetate
 parent: Model Prediction Only (L5)
 nav_order: 756
 evidence_level: L5
-indication_count: 6
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Roxatidine Acetate: predicted new indication Active peptic ulcer disease (evidence level L5). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Roxatidine acetate"
 predicted_indications: ["peptic ulcer perforation", "gastroduodenitis", "duodenal obstruction"]
+description: "Roxatidine Acetate: predicted new indication Peptic ulcer perforation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Roxatidine Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Roxatidine Acetate: From Gastric Ulcer to Active Peptic Ulcer Disease
+## Roxatidine Acetate: Peptic ulcer perforation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Roxatidine acetate is a histamine H2-receptor antagonist originally used to treat gastric ulcer, reflux disease and related acid-related disorders.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which is closely aligned with its existing uses.
 No clinical trials are registered for this indication, but **14 publications** (including randomized trials and reviews) support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, Zollinger-Ellison syndrome (the licence entries in India carry no indication text) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.58% |
-| Evidence Level | L1 (based on randomized controlled trials in the literature; see note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Peptic ulcer perforation |
+| TxGNN Prediction Score | 0.9955 |
+| Evidence Level | L5 (based on randomized controlled trials in the literature; see note below) |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note: Peptic ulcer disease is essentially an on-label use, so this is not a true repurposing. The L1 grade rests on published double-blind RCTs rather than registered trials, and the grade is moderately uncertain.*
@@ -114,11 +113,9 @@ Peptic ulcer disease is an established use of this H2-receptor antagonist, and t
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|
-| Gastrojejunal ulcer | 99.55% | L1 (indirect; trials are in gastric/duodenal ulcer and reflux esophagitis, so this is an extrapolation) | Proceed with Guardrails |
-| Gastroduodenitis | 99.28% | L4 (indirect evidence from NSAID-induced lesion prevention) | Research Question |
-| Peptic ulcer perforation | 99.55% | L5 | Hold |
-| Duodenogastric reflux | 99.21% | L5 | Hold |
-| Duodenal obstruction | 99.09% | L5 | Hold |
+| Gastroduodenitis | 0.9928 | L4 (indirect evidence from NSAID-induced lesion prevention) | Research Question |
+| Peptic ulcer perforation | 0.9955 | L5 | Hold |
+| Duodenal obstruction | 0.9909 | L5 | Hold |
 
 For gastrojejunal ulcer, guardrails include confirming the diagnosis, checking for H. pylori and NSAID causes, and considering a PPI as the standard comparator. Several head-to-head randomized trials against ranitidine exist for duodenal ulcer (PMIDs 2905255, 1679668), gastric ulcer (2905240) and reflux esophagitis (8100189), but none are specific to post-surgical marginal ulcer.
 ## Disclaimer

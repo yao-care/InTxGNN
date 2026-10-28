@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 |------|------|
 | Original Indication | Not available (the approved indication text of both registrations is blank) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Invert sugar is an equimolar mixture of glucose and fructose, used mainly as a carbohydrate and fluid source, including in parenteral nutrition. It has no known anti-cholestatic, anti-inflammatory, or immunomodulatory activity relevant to sclerosing cholangitis.
 
-No mechanistic link to sclerosing cholangitis can be established from the available data. The very high TxGNN score (0.996) is a model-derived prediction only. It likely reflects network proximity to glucose and fructose metabolic nodes in the knowledge graph rather than a biologically validated relationship.
+No mechanistic link to sclerosing cholangitis can be established from the available data. The very high TxGNN score (0.9962) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 There is also a plausible safety concern. Fructose and high-dose parenteral dextrose are associated with hepatic steatosis and parenteral nutrition-associated liver disease. This should be weighed carefully before any further consideration in a liver and biliary disease.
 

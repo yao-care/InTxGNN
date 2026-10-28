@@ -3,18 +3,18 @@ layout: default
 title: Lynestrenol
 parent: Moderate Evidence (L3-L4)
 nav_order: 511
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Lynestrenol: predicted new indication Migraine with or without aura, susceptibility to (evidence level L4). Approved use: Not stated in the available India licence records"
+evidence_level: L3
+indication_count: 4
 monitor_inn: "Lynestrenol"
-predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "Prinzmetal angina"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
+last_modified_at: 2026-10-23
+description: "Lynestrenol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence records"
 ---
 
 # Lynestrenol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,35 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Lynestrenol: From Hormonal Contraception to Migraine with or without Aura (Susceptibility)
+## Lynestrenol: From an Unspecified Original Indication to Migraine Disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lynestrenol is a progestin (a prodrug that is converted to norethisterone) marketed in India as a single-ingredient oral tablet.
-The TxGNN model predicts it may be useful for **migraine with or without aura, susceptibility to**,
-but there are currently **no registered clinical trials** and only **3 publications** (one 1963 clinical report, two reviews), so the prediction remains at the hypothesis stage.
+Lynestrenol is an oral progestin. The licence records compiled for this report do not state an approved indication.
+The TxGNN model predicts it may be useful for **migraine disorder**. Support is thin: **no clinical trials** and **2 publications**, one a 1963 clinical report and the other a 2026 review of combined oral contraceptive substances.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available India licence records |
-| Predicted New Indication | Migraine with or without aura, susceptibility to |
-| TxGNN Prediction Score | 99.51% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| Original Indication | Not stated in the licence records |
+| Predicted New Indication | Migraine disorder |
+| TxGNN Prediction Score | 0.9949 |
+| Evidence Level | L3 (see note below) |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
+
+*Evidence level note:* Both publications directly address migraine. However, one is a general review and the other a 1963 report that appears to be uncontrolled and has no abstract. Neither is a controlled trial, so L3 is the most the evidence can support.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, lynestrenol is a progestin that is converted in the body to norethisterone. Menstrual-related migraine is linked to the fall in estrogen around menstruation, so a hormonal agent that stabilises cycle-related fluctuations is a plausible way to reduce attacks.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Lynestrenol is a progestin that is converted in the body to norethisterone. It suppresses ovulation and helps stabilize hormonal fluctuations.
 
-Two pieces of literature point in this direction. A 1963 Swedish report describes prophylactic use of lynestrenol (Orgametril) in migraine. A 2026 review compares the components of combined oral contraceptives across acne, hirsutism, migraine and dysmenorrhea, and notes that headaches tied to the menstrual cycle may improve, especially with a 28/0 regimen. However, the 1963 report is old and its design is unverified, and the review is indirect and mostly concerns combined (estrogen-containing) products. The link therefore remains hypothesis-level.
+Menstrually related migraine is thought to be triggered by the fall in estrogen late in the luteal phase. Steadying hormone levels could therefore reduce this trigger. A 1963 Swedish report describes lynestrenol (Orgametril) as prophylactic treatment of migraine. A 2026 review also notes that some women with menstrual-cycle-related headaches may improve on hormonal contraception, particularly with the 28/0 regimen.
 
-Other migraine-related predictions (migraine disorder, rank 2; migraine with brainstem aura, rank 3) share the same rationale. The brainstem aura prediction has no subtype-specific evidence and probably reflects closeness to general migraine in the disease ontology.
+This evidence is indirect and old, and the TxGNN score is a computational prediction only. Combined oral contraceptives that contain estrogen are contraindicated in migraine with aura because of stroke risk. Any exploration should therefore favor progestin-only regimens.
 
 ## Clinical Trial Evidence
 
@@ -70,38 +71,35 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Review | Medical Science Monitor | Compares substances in combined oral contraceptives for acne, hirsutism, migraine and dysmenorrhea. Combined pills are contraindicated in migraine with aura, but menstrual-cycle-related headache may improve, especially with the 28/0 regimen. |
-| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Case series / clinical report (design unverified) | Svenska Läkartidningen | Reports prophylactic treatment of migraine with lynestrenol (Orgametril). No abstract available. |
-| [12276956](https://pubmed.ncbi.nlm.nih.gov/12276956/) | 1974 | Review | Contraception, Fertilité, Sexualité | Review on low doses in oral contraception. No abstract available; only indirectly related. |
+| [41723577](https://pubmed.ncbi.nlm.nih.gov/41723577/) | 2026 | Review | Medical Science Monitor | Compares substances in combined oral contraceptives used for acne, hirsutism, migraine and dysmenorrhea. Notes that combined contraceptives are contraindicated in migraine with aura, but menstrual-cycle-related headaches may improve, especially with the 28/0 regimen. |
+| [14091721](https://pubmed.ncbi.nlm.nih.gov/14091721/) | 1963 | Clinical observation (likely uncontrolled) | Svenska Läkartidningen | Title describes prophylactic treatment of migraine with lynestrenol (Orgametril). No abstract is available, so results cannot be summarized. |
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 124300 | Lyscost Tablet | Strip of 28 tablets | Not stated |
-| 141565 | Minikare Tablet | Strip of 28 tablets | Not stated |
+| Registration No. 124300 | Lyscost Tablet | Strip of 28 tablets | Not stated in the licence record |
+| Registration No. 141565 | Minikare Tablet | Strip of 28 tablets | Not stated in the licence record |
 
 ## Safety Considerations
 
-- **Class caution relevant to migraine:** Estrogen-containing combined oral contraceptives carry a stroke-risk caution in women with migraine with aura. Aura-type migraine therefore raises vascular safety concerns for hormonal products, and this matters for any development path.
-- **Cardiovascular profile:** The thrombotic and cardiovascular profile of hormonal agents warrants caution.
+Please refer to the package insert for safety information.
 
-No drug interactions were found in the data compiled for this report. Please refer to the package insert for further safety information.
+One point from the literature is worth noting: estrogen-containing combined oral contraceptives are contraindicated in migraine with aura. No drug interaction records were found for lynestrenol.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a 1963 report of unverified design and an indirect recent review, with no registered trials. The mechanistic link is plausible but unproven, and package insert safety data are missing.
+The only direct support for migraine is a 1963 report that appears uncontrolled and a general 2026 review. There are no registered trials. The licence records do not state an approved indication, and no package insert safety data is available. The prediction is a research question rather than something ready for development.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India licence holders
-- Detailed mechanism of action data (for example from DrugBank)
-- Approved indication text for the two marketed products
-- Retrieval and review of the full text of the 1963 report, and a targeted search for controlled studies of progestin-only treatment in menstrual migraine
-- A safety assessment for migraine with aura, with defined patient selection criteria
-- Specifically for the lower-ranked predictions (insomnia, leprosy, pulmonary hypertension and others), no trials or literature were found, so they should remain on hold
+- Mechanism of action data from DrugBank
+- Retrieval of the full text of the 1963 report, and a search for controlled studies of progestin-only treatment in menstrually related migraine
+- A safety assessment for women with migraine with aura, with a progestin-only approach considered
+- If the evidence supports it, a well-designed controlled trial in menstrually related migraine
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

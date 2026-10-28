@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Not stated in the India licence records. Published literature describes use in asthma and COPD |
 | Predicted New Indication | Pierre Robin syndrome associated with a chromosomal anomaly |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. From the published literature, doxofylline is a methylxanthine bronchodilator. It is thought to act through phosphodiesterase inhibition, with weaker binding to adenosine A1 and A2 receptors than theophylline. This may explain its better cardiovascular tolerability.
 
-The predicted indication is a craniofacial developmental condition linked to a chromosomal anomaly. It is not a respiratory-smooth-muscle disorder, and no plausible mechanistic link to doxofylline was identified. A bronchodilator would not be expected to alter the developmental or genetic basis of this syndrome. The high score (99.54%, rank 7922) reflects a graph-based association only, so this prediction should be treated with considerable caution.
+The predicted indication is a craniofacial developmental condition linked to a chromosomal anomaly. It is not a respiratory-smooth-muscle disorder, and no plausible mechanistic link to doxofylline was identified. A bronchodilator would not be expected to alter the developmental or genetic basis of this syndrome. The high score (0.9954, rank 7922) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so this prediction should be treated with considerable caution.
 
 ## Clinical Trial Evidence
 
@@ -105,15 +105,15 @@ The other nine top-ranked predictions were also reviewed. None has supporting cl
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Laubry-Pezzi syndrome | 99.54% | L5 | Structural cardiac defect; no mechanistic link |
-| 3 | Jeune syndrome situs inversus | 99.54% | L5 | Skeletal ciliopathy; at most theoretical symptom relief |
-| 4 | Genetic syndromic Pierre Robin syndrome | 99.53% | L5 | No mechanistic link |
-| 5 | Orofacial clefting syndrome | 99.53% | L5 | Developmental malformation; no mechanistic link |
-| 6 | Partial deletion of the long arm of chromosome 7 | 99.53% | L5 | No pharmacological rationale |
-| 7 | Disorder of fucoglycosan synthesis | 99.52% | L5 | Retrieved literature covers asthma/COPD only |
-| 8 | Partial deletion of the long arm of chromosome 22 | 99.52% | L5 | No pharmacological rationale |
-| 9 | Heart disease | 99.50% | L4 | Indirect evidence only (research question) |
-| 10 | Pulmonary valve disease | 99.50% | L5 | Structural valve disorder; no rationale |
+| 2 | Laubry-Pezzi syndrome | 0.9954 | L5 | Structural cardiac defect; no mechanistic link |
+| 3 | Jeune syndrome situs inversus | 0.9954 | L5 | Skeletal ciliopathy; at most theoretical symptom relief |
+| 4 | Genetic syndromic Pierre Robin syndrome | 0.9953 | L5 | No mechanistic link |
+| 5 | Orofacial clefting syndrome | 0.9953 | L5 | Developmental malformation; no mechanistic link |
+| 6 | Partial deletion of the long arm of chromosome 7 | 0.9953 | L5 | No pharmacological rationale |
+| 7 | Disorder of fucoglycosan synthesis | 0.9952 | L5 | Retrieved literature covers asthma/COPD only |
+| 8 | Partial deletion of the long arm of chromosome 22 | 0.9952 | L5 | No pharmacological rationale |
+| 9 | Heart disease | 0.9950 | L4 | Indirect evidence only (research question) |
+| 10 | Pulmonary valve disease | 0.9950 | L5 | Structural valve disorder; no rationale |
 
 For heart disease, the available evidence concerns cardiovascular safety. Doxofylline shows fewer cardiostimulant effects than theophylline ([PMID 2781149](https://pubmed.ncbi.nlm.nih.gov/2781149/), [PMID 11268710](https://pubmed.ncbi.nlm.nih.gov/11268710/)). A 1993 randomised, double-blind trial in chronic heart failure with hypoxaemia ([PMID 8088931](https://pubmed.ncbi.nlm.nih.gov/8088931/)) compared methylxanthines in 48 patients. Because it does not establish that doxofylline treats heart disease, it does not support this indication.
 ## Disclaimer

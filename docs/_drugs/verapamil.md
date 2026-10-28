@@ -4,17 +4,17 @@ title: Verapamil
 parent: Model Prediction Only (L5)
 nav_order: 886
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Hypertension, atrial fibrillation, acute coronary syndrome…"
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
+description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Verapamil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +33,41 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Verapamil: From Hypertension and Arrhythmia to Obsolete Bundle Branch Block
+## Verapamil: Obsolete bundle branch block
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Verapamil is a calcium channel blocker, originally used for hypertension, atrial fibrillation, acute coronary syndrome, Prinzmetal angina and ventricular tachycardia.
-The TxGNN model's top-ranked prediction is **obsolete bundle branch block**, but there are **0 clinical trials** and **0 publications** supporting it. The prediction rests on the model alone and is probably a knowledge-graph artifact.
+The TxGNN model's top-ranked prediction is **obsolete bundle branch block**, but there are **0 clinical trials** and **0 publications** supporting it. The prediction rests on the model alone and is probably a TxGNN model (deep learning) artifact.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, atrial fibrillation, acute coronary syndrome, Prinzmetal angina, ventricular tachycardia (from the knowledge graph; no approved-indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obsolete bundle branch block |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Verapamil is a well-known L-type calcium channel blocker. It slows conduction through the atrioventricular (AV) node and relaxes vascular smooth muscle, which explains its use in hypertension, angina and supraventricular arrhythmias.
 
-For the top prediction, this mechanism does **not** offer a therapeutic rationale. Slowing AV conduction is not a treatment for bundle branch block and may worsen conduction disease. The disease term is also marked as obsolete, which points to an artifact of the knowledge graph rather than a real clinical signal.
+For the top prediction (obsolete bundle branch block, 0.9962), this mechanism does **not** offer a therapeutic rationale. Slowing AV conduction is not a treatment for bundle branch block and may worsen conduction disease. The disease term is also marked as obsolete. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions are somewhat more plausible mechanistically but equally unsupported by direct evidence:
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Malignant renovascular hypertension | 99.27% | L5 | Class-level link through blood pressure lowering; the two retrieved papers do not test verapamil |
-| 3 | Malignant hypertensive renal disease | 99.27% | L5 | Plausible blood pressure effect; no specific data |
-| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.26% | L4 | Only indirect preclinical data; calcium channel blockers may impair hypoxic pulmonary vasoconstriction and gas exchange |
-| 5 | Pulmonary hypertension with unclear multifactorial mechanism | 99.26% | L5 | Calcium channel blockers are used only in the small vasoreactive subset, and verapamil is generally avoided because of negative inotropy |
-| 6 | Braddock syndrome | 99.15% | L5 | No identifiable mechanistic rationale |
-| 7 | Periodic paralysis with transient compartment-like syndrome | 99.08% | L5 | Speculative channelopathy link only |
+| 3 | Malignant hypertensive renal disease | 0.9927 | L5 | Plausible blood pressure effect; no specific data |
+| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9926 | L5 | Only indirect preclinical data; calcium channel blockers may impair hypoxic pulmonary vasoconstriction and gas exchange |
+| 5 | Pulmonary hypertension with unclear multifactorial mechanism | 0.9926 | L5 | Calcium channel blockers are used only in the small vasoreactive subset, and verapamil is generally avoided because of negative inotropy |
+| 6 | Braddock syndrome | 0.9915 | L5 | No identifiable mechanistic rationale |
+| 7 | Periodic paralysis with transient compartment-like syndrome | 0.9908 | L5 | Speculative channelopathy link only |
 
 ## Clinical Trial Evidence
 
@@ -78,7 +77,6 @@ Currently no related clinical trials registered.
 
 For the top-ranked prediction (obsolete bundle branch block), currently no related literature is available.
 
-For the second-ranked prediction (malignant renovascular hypertension), two papers were retrieved. Neither tests verapamil in this condition.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

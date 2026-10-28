@@ -48,17 +48,17 @@ Overall evidence is very weak, and the prediction currently looks like a network
 |------|------|
 | Original Indication | No approved indication text available in the registration data |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, sodium acetate is an electrolyte replenisher and alkalinizing agent. It supplies sodium and acetate, which the body converts to bicarbonate.
 
-Congenital prothrombin deficiency is a rare inherited bleeding disorder caused by missing or defective coagulation factor II. Sodium acetate has no known role in the synthesis or function of factor II, so no plausible mechanistic link can be identified. The high TxGNN score appears to come from the graph structure and is not backed by clinical or literature evidence.
+Congenital prothrombin deficiency is a rare inherited bleeding disorder caused by missing or defective coagulation factor II. Sodium acetate has no known role in the synthesis or function of factor II, so no plausible mechanistic link can be identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not backed by clinical or literature evidence.
 
 Other predictions in the top 10 (for example epiglottitis, urinary tract infection, sclerosing cholangitis, Ureaplasma and gonococcal urethritis, uterine inflammatory disease and xanthogranulomatous pyelonephritis) show the same pattern. None has a supportable mechanism or clinical evidence. For dyspepsia and gastroparesis, the retrieved papers only concern gastric emptying tests that use 13C-labelled acetate as a diagnostic tracer. They do not show a therapeutic effect of sodium acetate.
 
@@ -82,7 +82,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a graph-based score. There are no clinical trials or relevant literature, no plausible mechanism, and no approved indication text in the registration data. The graph-derived contraindications involving kidney and cardiac disease add further caution.
+The prediction is supported only by a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or relevant literature, no plausible mechanism, and no approved indication text in the registration data. The graph-derived contraindications involving kidney and cardiac disease add further caution.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source, which is currently a blocking gap for safety screening

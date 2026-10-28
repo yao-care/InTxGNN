@@ -49,10 +49,10 @@ The TxGNN model predicts it may be useful for **plasma cell myeloma**, with **30
 |------|------|
 | Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Plasma cell myeloma |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

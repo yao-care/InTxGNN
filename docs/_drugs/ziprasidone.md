@@ -6,9 +6,9 @@ nav_order: 909
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ziprasidone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ziprasidone: From Schizophrenia and Bipolar Disorder to Trichotillomania
+## Ziprasidone: Trichotillomania
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Currently, **0 clinical trials** and **0 publications** support this prediction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia; bipolar disorder (including manic episodes). The India licence records list no indication text, so these come from the TxGNN knowledge graph. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ---
@@ -96,7 +96,7 @@ Ziprasidone has 14 valid single-ingredient registrations. The licence records co
 
 Label-based warnings and contraindications were not available. Please refer to the package insert for these. The following information comes from other sources.
 
-- **Contraindications (knowledge-graph associations, not label text)**: The TxGNN knowledge graph links ziprasidone to conditions where use is a concern. The most clinically important are:
+- **Contraindications (TxGNN model associations, not label text)**: The TxGNN model (deep learning) links ziprasidone to conditions where use is a concern. These links may reflect similarities the model learned between related diseases, not biological evidence. The most clinically important are:
   - **Cardiac**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction and coronary thrombosis.
   - **Blood pressure**: orthostatic hypotension and postural orthostatic tachycardia syndrome.
   - **Blood**: neutropenia and agranulocytosis.
@@ -111,7 +111,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.83%), but no clinical trials or publications support ziprasidone for trichotillomania. The only supporting argument is general antipsychotic pharmacology. The QT-prolongation and metabolic risks add to the case for caution until some efficacy evidence exists.
+The prediction score is very high (0.9983), but no clinical trials or publications support ziprasidone for trichotillomania. The only supporting argument is general antipsychotic pharmacology. The QT-prolongation and metabolic risks add to the case for caution until some efficacy evidence exists.
 
 Among the other predictions in the compiled data, two have more support than trichotillomania:
 - **Major affective disorder (depression)** has several completed Phase 2 placebo-controlled trials and systematic reviews. However, the label overlaps with the approved bipolar indication, so the real repurposing value lies in unipolar depression and mixed states.

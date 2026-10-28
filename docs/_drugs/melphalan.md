@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Melphalan
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 522
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Melphalan: predicted new indication Gonadal germ cell tumor (evidence level L2). Approved use: Ovarian cancer"
 monitor_inn: "Melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+description: "Melphalan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Melphalan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Melphalan: From Ovarian Cancer to Gonadal Germ Cell Tumor
+## Melphalan: Female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Melphalan is an alkylating chemotherapy drug, originally used to treat ovarian cancer.
-The TxGNN model predicts it may be effective for **gonadal germ cell tumor**,
 with **7 clinical trials** and **1 publication** currently listed for this direction. Most of the trials test melphalan as one part of high-dose multi-drug regimens.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (the data compiled for this report list no approved indication text for the Indian products) |
-| Predicted New Indication | Gonadal germ cell tumor |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Female breast carcinoma |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -97,7 +96,6 @@ All 13 registrations are valid single-ingredient products. They include both ora
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (nitrogen mustard alkylating agent) |
-| Myelosuppression Risk | High (the knowledge graph links melphalan to leukopenia, neutropenia, thrombocytopenia and anemia as concerns) |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | CBC with differential, liver and renal function |
 | Handling Protection | Must follow cytotoxic drug handling regulations |

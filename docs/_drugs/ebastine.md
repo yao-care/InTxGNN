@@ -4,17 +4,17 @@ title: Ebastine
 parent: Model Prediction Only (L5)
 nav_order: 296
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Ebastine: predicted new indication Coronary artery disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, idiopathic urticaria"
 monitor_inn: "Ebastine"
-predicted_indications: ["coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery", "leprosy", "candidiasis", "pneumocystosis", "hypertrichosis (disease)", "polyp of vocal cord", "polyp of middle ear", "uterine polyp"]
+predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 ---
 
 # Ebastine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but there are currently **no clinical trials** and **no publications** supportin
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, idiopathic urticaria |
 | Predicted New Indication | Coronary artery disease |
-| TxGNN Prediction Score | 99.18% |
+| TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 Currently, detailed mechanism of action data is not available. Based on known information, ebastine belongs to the class of second-generation H1-antihistamines. Its efficacy in allergic rhinitis and urticaria is established, and a speculative mechanistic link to coronary artery disease may exist through histamine and mast cell signalling in atherosclerosis and coronary vasospasm.
 
-This link is not supported by any trial or publication in the data compiled for this report. The high TxGNN score (0.992) is a computational prediction only and should not be read as evidence of efficacy.
+This link is not supported by any trial or publication in the data compiled for this report. The high TxGNN score (0.9918) is a computational prediction only and should not be read as evidence of efficacy.
 
-Other predictions for ebastine, such as myocardial ischemia, leprosy, candidiasis and pneumocystosis, also have no clinical support. For some of them (for example anomalous left coronary artery from the pulmonary artery, a congenital structural anomaly that needs surgical correction), no plausible pharmacological mechanism is evident, and the high score likely reflects graph proximity to other coronary disease nodes rather than a true therapeutic signal.
+Other predictions for ebastine, such as myocardial ischemia, also have no clinical support. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

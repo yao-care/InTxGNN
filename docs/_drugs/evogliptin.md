@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Evogliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Evogliptin"
-predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "drug-induced localized lipodystrophy"]
+predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy"]
 ---
 
 # Evogliptin
@@ -48,10 +48,10 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 |------|------|
 | Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 99.35% |
+| TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Opsismodysplasia is a rare skeletal disorder caused by loss-of-function mutations in INPPL1 (SHIP2). These mutations affect PI3K/AKT signaling and bone formation (endochondral ossification). No established link connects DPP-4 inhibition to SHIP2 or to skeletal development pathways, so the mechanistic basis for this prediction is weak.
 
-The very high TxGNN score (about 99%) should be read as a model-derived association only. No trials, literature, or preclinical data back it up. Other top-ranked predictions (thiamine-responsive dysfunction syndrome, focal stiff limb syndrome, classic stiff person syndrome, drug-induced localized lipodystrophy) share the same limitation. The stiff-person spectrum conditions have a speculative immune-modulation rationale through DPP-4/CD26 on T cells, but this is hypothesis-level only.
+The very high TxGNN score (0.9935) should be read as a model-derived association only. No trials, literature, or preclinical data back it up. Other top-ranked predictions (thiamine-responsive dysfunction syndrome, focal stiff limb syndrome, classic stiff person syndrome, drug-induced localized lipodystrophy) share the same limitation. The stiff-person spectrum conditions have a speculative immune-modulation rationale through DPP-4/CD26 on T cells, but this is hypothesis-level only.
 
 ## India Market Information
 

@@ -4,17 +4,17 @@ title: Metamizole
 parent: Moderate Evidence (L3-L4)
 nav_order: 530
 evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Metamizole: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not stated in the approval records compiled for this report (analgesi…"
+indication_count: 9
+last_modified_at: 2026-10-28
 monitor_inn: "Metamizole"
-predicted_indications: ["rheumatoid arthritis", "migraine disorder", "migraine with or without aura, susceptibility to", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
+predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
+description: "Metamizole: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Metamizole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Metamizole: From Analgesic/Antipyretic Use to Rheumatoid Arthritis
+## Metamizole: Rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The evidence for this prediction is therefore weak. The only migraine-related pr
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the approval records compiled for this report (analgesic/antipyretic use is inferred from the drug class) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -65,9 +65,8 @@ Currently, detailed mechanism of action data is not available in the compiled da
 This could plausibly give symptomatic pain relief in rheumatic disease. However, there is no evidence that it modifies the course of rheumatoid arthritis. The retrieved literature is about safety (agranulocytosis when used alongside methotrexate, drug interactions, hypersensitivity) and prescribing patterns, not about efficacy. The high TxGNN score is not supported by clinical data.
 
 **Other predictions reviewed:**
-- **Migraine disorder (99.72%)**: The most plausible alternative. The literature includes a small randomized, single-blind comparison of intravenous dipyrone versus lysine clonixinate in severe migraine attacks, plus reviews and clinical surveys. Evidence level L3, a research question. A preclinical study also raises a caution signal for medication-overuse headache.
-- **Migraine with or without aura, susceptibility to (99.70%)**: Essentially a duplicate of the migraine disorder entry; it is not independent evidence.
-- **Migraine with brainstem aura (99.67%)**: Only a primary care survey was found; there is no subtype-specific evidence.
+- **Migraine disorder (0.9972)**: The most plausible alternative. The literature includes a small randomized, single-blind comparison of intravenous dipyrone versus lysine clonixinate in severe migraine attacks, plus reviews and clinical surveys. Evidence level L3, a research question. A preclinical study also raises a caution signal for medication-overuse headache.
+- **Migraine with brainstem aura (0.9967)**: Only a primary care survey was found; there is no subtype-specific evidence.
 - **Exostosis, gout, tendinitis, antithrombin deficiency type 2, brachydactyly-syndactyly syndrome, factor 5 excess with spontaneous thrombosis**: No clinical or literature evidence. For gout and tendinitis, only symptomatic pain relief is conceivable. For the genetic and coagulation disorders, no plausible mechanism exists.
 
 ---

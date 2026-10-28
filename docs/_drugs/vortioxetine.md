@@ -4,17 +4,17 @@ title: Vortioxetine
 parent: Model Prediction Only (L5)
 nav_order: 897
 evidence_level: L5
-indication_count: 5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Vortioxetine"
-predicted_indications: ["neurotic disorder", "melancholia", "benign paroxysmal torticollis of infancy", "dysthymic disorder"]
+predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
+description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Vortioxetine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Vortioxetine: From Depression to Neurotic Disorder (Melancholia and Related Depressive Conditions)
+## Vortioxetine: Neurotic disorder (rank 1); related predictions: neurotic depression, melancholia, dysthymic disorder (neurotic disorder)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model's top-ranked prediction is **Neurotic Disorder**, but this is la
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the TxGNN knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Neurotic disorder (rank 1); related predictions: neurotic depression, melancholia, dysthymic disorder |
-| TxGNN Prediction Score | 99.24% (neurotic disorder) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Neurotic disorder (rank 1); related predictions: neurotic depression, melancholia, dysthymic disorder (neurotic disorder) |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 for neurotic disorder (L1 for melancholia and neurotic depression, via evidence in general MDD) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (neurotic disorder); Proceed with Guardrails (melancholia, neurotic depression) |
 
@@ -67,7 +67,7 @@ The same applies to the other high-scoring predictions:
 - **Neurotic depression** maps to depressive disorders such as MDD and dysthymia.
 - **Melancholia** is the melancholic subtype of major depression, within the MDD indication. The trials enrolled general MDD populations, so efficacy in the melancholic subtype is inferred rather than directly demonstrated.
 - **Dysthymic disorder** (persistent depressive disorder) shares monoaminergic pathophysiology with MDD, but there is no controlled evidence specific to it.
-- **Benign paroxysmal torticollis of infancy** (rank 4) has no identifiable mechanistic link. It is a self-limiting paediatric episodic disorder, the high score is likely a knowledge-graph artefact, and antidepressant use in infants raises serious safety concerns.
+- **Benign paroxysmal torticollis of infancy** (rank 4) has no identifiable mechanistic link. It is a self-limiting paediatric episodic disorder, the high score is likely a TxGNN model (deep learning) artefact, and antidepressant use in infants raises serious safety concerns.
 
 ---
 
@@ -88,7 +88,6 @@ No clinical trials are registered for neurotic disorder itself. The table below 
 
 ## Literature Evidence
 
-Literature below is mainly from the neurotic depression and melancholia predictions, and covers general depression.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

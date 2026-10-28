@@ -4,17 +4,17 @@ title: Triclofos
 parent: Model Prediction Only (L5)
 nav_order: 863
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Triclofos: predicted new indication Insomnia (evidence level L5). Approved use: Not stated"
 monitor_inn: "Triclofos"
-predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep", "neurocirculatory asthenia", "anxiety disorder", "agoraphobia", "juvenile onset Parkinson disease 19A", "benign paroxysmal torticollis of infancy", "irritable bowel syndrome", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
+predicted_indications: ["insomnia (disease)"]
+description: "Triclofos: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Triclofos
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Triclofos: From Sedation/Hypnosis (No Indication Text on Record) to Insomnia
+## Triclofos: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Triclofos is an oral sedative-hypnotic, a prodrug of trichloroethanol (the active metabolite of chloral hydrate). The indication text is blank on all of its Indian registrations.
-The TxGNN model predicts it may be effective for **insomnia** (score 99.91%). However, **no clinical trials** are registered under this exact label, and the supporting literature sits under closely related labels. This is the drug's established pharmacological class use, not a novel repurposing signal.
+The TxGNN model predicts it may be effective for **insomnia** (score 0.9991). However, **no clinical trials** are registered under this exact label, and the supporting literature sits under closely related labels. This is the drug's established pharmacological class use, not a novel repurposing signal.
 
 ---
 
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **insomnia** (score 99.91%). Ho
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated (all registration records have blank indication text) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L4 (L3 under the related label "sleep disorder, initiating and maintaining sleep") |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 (L3 under the related label "sleep disorder, initiating and maintaining sleep") |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,12 +61,9 @@ The TxGNN model predicts it may be effective for **insomnia** (score 99.91%). Ho
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, triclofos is a prodrug of trichloroethanol, which enhances GABA-A receptor-mediated inhibition and produces sedative-hypnotic effects. This is mechanistically consistent with treating insomnia.
 
-Because insomnia is the drug's long-standing class use, this prediction is better read as a confirmation of known pharmacology than as a new repurposing opportunity. Closely related records exist under "sleep disorder, initiating and maintaining sleep," including a 1979 double-blind crossover trial and a 1972 clinical report. The product has been largely superseded by newer hypnotics.
+Because insomnia is the drug's long-standing class use, this prediction is better read as a confirmation of known pharmacology than as a new repurposing opportunity. The product has been largely superseded by newer hypnotics.
 
 Other predicted indications fall into three groups:
-- **Anxiety and procedural sedation:** Pre-operative anxiolysis and sedation in children has the most literature (ranks 2 and 5). It supports a procedural-sedation use, not treatment of anxiety disorders.
-- **Speculative anxiety-spectrum links:** Neurocirculatory asthenia, agoraphobia and irritable bowel syndrome (ranks 4, 6 and 9) have no supporting evidence.
-- **Likely graph artifacts:** Juvenile Parkinson disease 19A, benign paroxysmal torticollis of infancy and acute encephalopathy with biphasic seizures (ranks 7, 8 and 10) have no credible mechanistic link.
 
 ---
 
@@ -91,7 +88,7 @@ No literature was retrieved under the exact label "insomnia." The most relevant 
 | [22918094](https://pubmed.ncbi.nlm.nih.gov/22918094/) | 2012 | Comparative study | J Indian Soc Pedod Prev Dent | Oral midazolam vs tramadol, triclofos and zolpidem in pediatric dental sedation |
 | [40153912](https://pubmed.ncbi.nlm.nih.gov/40153912/) | 2025 | Cohort | Brain Dev | Risk factors for sedation and MRI failure with oral triclofos and/or rectal chloral hydrate in children with neurodevelopmental disorders |
 
-The insomnia-related evidence is old and of limited methodological quality. The pediatric premedication and sedation studies support procedural sedation rather than treatment of anxiety disorders.
+The insomnia-related evidence is old and of limited methodological quality.
 
 ---
 
@@ -113,7 +110,7 @@ Triclofos is marketed in India with 18 valid single-ingredient registrations. In
 
 Please refer to the package insert for safety information. Warnings and contraindications could not be retrieved for this report, and no drug-interaction records were found.
 
-Literature notes that sedative-hypnotics are not recommended for irritable bowel syndrome because of dependence and tolerance concerns. It also notes that sedation could confound neurological assessment in acute encephalopathy.
+It also notes that sedation could confound neurological assessment in acute encephalopathy.
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 308
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Entacapone: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Parkinson disease"
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
+description: "Entacapone: predicted new indication PLA2G6-associated neurodegeneration (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Entacapone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Entacapone: From Parkinson Disease to PLA2G6-Associated Neurodegeneration
+## Entacapone: PLA2G6-associated neurodegeneration
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson disease (the licence records compiled for this report contain no approved indication text; the original indication comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | PLA2G6-associated neurodegeneration |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 PLA2G6-associated neurodegeneration includes infantile neuroaxonal dystrophy and PLA2G6-related dystonia-parkinsonism. The parkinsonian features of the latter overlap with the original indication, so a symptomatic benefit from levodopa augmentation is conceivable. This is a hypothesis, not evidence.
 
-Entacapone would at best treat symptoms. It would not modify the underlying phospholipid metabolism defect. The very high score may also partly reflect the proximity of these diseases to Parkinson disease in the knowledge graph.
+Entacapone would at best treat symptoms. It would not modify the underlying phospholipid metabolism defect. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -108,10 +108,9 @@ The prediction is supported only by the model score. There are no trials or publ
 
 | Rank | Predicted Indication | Score | Evidence Level | Note |
 |---|---|---|---|---|
-| 4 | Paralysis agitans, juvenile, of Hunt | 99.60% | L4 | Historical term for juvenile parkinsonism. This largely overlaps with the existing Parkinson indication and is not a true new indication. Research Question. |
-| 7 | Lewy body dementia | 99.25% | L4 | Shares alpha-synuclein pathology with Parkinson disease. Support is limited to an in vitro study (PMID 23913715) and an unrelated imaging trial. Dopaminergic agents may worsen psychosis and hallucinations. Research Question. |
-| 10 | Progressive supranuclear palsy-corticobasal syndrome | 99.04% | L4 | These conditions respond poorly to levodopa. The only trial is an observational gait study. Research Question. |
-| 2, 3, 5, 6, 8, 9 | Rasmussen encephalitis, myelitis, transaldolase deficiency, lethal infantile mitochondrial myopathy, fructose-1,6-bisphosphatase deficiency, perisylvian polymicrogyria syndrome | 99.1–99.7% | L5 | No plausible mechanistic link and no evidence. Hold. |
+| 4 | Paralysis agitans, juvenile, of Hunt | 0.9960 | L5 | Historical term for juvenile parkinsonism. This largely overlaps with the existing Parkinson indication and is not a true new indication. Research Question. |
+| 7 | Lewy body dementia | 0.9925 | L5 | Shares alpha-synuclein pathology with Parkinson disease. Support is limited to an in vitro study (PMID 23913715) and an unrelated imaging trial. Dopaminergic agents may worsen psychosis and hallucinations. Research Question. |
+| 10 | Progressive supranuclear palsy-corticobasal syndrome | 0.9904 | L5 | These conditions respond poorly to levodopa. The only trial is an observational gait study. Research Question. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

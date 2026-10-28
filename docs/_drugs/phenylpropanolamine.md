@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Phenylpropanolamine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 666
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Phenylpropanolamine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
+evidence_level: L5
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "Phenylpropanolamine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "faucial diphtheria", "cervical disc degenerative disorder"]
+description: "Phenylpropanolamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Phenylpropanolamine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Phenylpropanolamine: From Allergic Rhinitis to Nasal Cavity Disease
+## Phenylpropanolamine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ Its serious safety history (hemorrhagic stroke risk) calls for strong caution.
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, and conjunctivitis (atopic, papillary, vernal). The India licence records contain no approved-indication text. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | Marketed |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -65,9 +65,9 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 Its original indications (allergic and vasomotor rhinitis, nasopharyngitis, the common cold) are largely nasal conditions. "Nasal cavity disease" is a broad category that overlaps heavily with them, so this prediction looks more like a natural extension of existing use than a truly new indication. The mechanism, reducing mucosal congestion, would plausibly apply across this category.
 
 The other predictions are weaker:
-- **Acute laryngopharyngitis** (99.98%) is a close extension of the existing pharyngitis indications, supported only by the model.
-- **Rosacea conjunctivitis** (99.19%) could theoretically benefit from reduced redness, but its cause (chronic inflammation, meibomian gland dysfunction) is not addressed by a decongestant.
-- **Faucial diphtheria** and **cervical disc degenerative disorder** (about 99%) have no plausible mechanistic link and are likely artifacts of the knowledge graph.
+- **Acute laryngopharyngitis** (0.9998) is a close extension of the existing pharyngitis indications, supported only by the model.
+- **Rosacea conjunctivitis** (0.9919) could theoretically benefit from reduced redness, but its cause (chronic inflammation, meibomian gland dysfunction) is not addressed by a decongestant.
+- **Faucial diphtheria** (0.9908) and **cervical disc degenerative disorder** (0.9903) have no plausible mechanistic link. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 

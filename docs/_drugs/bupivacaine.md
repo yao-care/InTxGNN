@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
-description: "Bupivacaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Dermatitis"
 monitor_inn: "Bupivacaine"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-27
+description: "Bupivacaine: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Bupivacaine
@@ -33,79 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Bupivacaine: From Dermatitis to Acrodermatitis Chronica Atrophicans
+## Bupivacaine: Sodium channel–blocking local anesthetic → acrodermatitis chronica atrophicans
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Bupivacaine is a long-acting local anaesthetic that, in the knowledge graph used for this prediction, is linked to dermatitis as its original indication.
-The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**,
-but **no clinical trials and no publications** currently support this direction, and the data compiled for this report found no credible mechanistic link.
+Bupivacaine is a local anesthetic that blocks sodium channels. The TxGNN model predicts it may be relevant to **acrodermatitis chronica atrophicans**, with a score of 0.9923. However, **no clinical trials and no publications** currently support this direction, so the prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Acrodermatitis chronica atrophicans |
-| TxGNN Prediction Score | 99.23% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | acrodermatitis chronica atrophicans |
+| TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology, bupivacaine is a sodium channel-blocking local anaesthetic. It has no known antimicrobial activity.
+Detailed mechanism of action data is not available in the data compiled for this report. Bupivacaine is generally known as a local anesthetic that blocks sodium channels in nerve fibres, which stops pain signals from being transmitted.
 
-Acrodermatitis chronica atrophicans is a late-stage skin manifestation of *Borrelia* infection and is treated with antibiotics. The very high score (99.23%) appears to reflect closeness to dermatological terms in the knowledge graph (the original indication is dermatitis) rather than a biological rationale. At most, local anaesthesia could ease pain in affected skin, but that would not treat the disease itself.
+Acrodermatitis chronica atrophicans is a late-stage skin manifestation of Borrelia infection, and it is treated with antibiotics. Bupivacaine has no antimicrobial activity, so no credible disease-modifying link was identified. The high score (0.9923) appears to reflect the model's closeness between dermatological terms rather than a biological rationale. At most, bupivacaine could be conceived for symptomatic numbing of painful skin lesions, which would not treat the disease itself.
 
-The other top predictions show the same pattern:
+Other predictions in the same list are also weakly supported. Their scores and mechanistic assessments are likewise without clinical evidence, and they do not change the conclusion for the main prediction.
 
-- **Neonatal dermatomyositis (99.15%)**: an immune-mediated disease treated with corticosteroids and immunomodulators. Bupivacaine can damage muscle at high local concentrations, which is a safety concern here rather than a rationale. Neonatal use adds further risk of systemic local anaesthetic toxicity.
-- **Childhood connective-tissue-disease-associated interstitial lung disease (99.11%)**: involves autoimmune inflammation and lung fibrosis. Bupivacaine has no anti-fibrotic or immunomodulatory action, and the link appears to be a graph artefact.
-- **Amyopathic dermatomyositis (99.03%)**: the link is weak and indirect. Local anaesthesia might theoretically ease itch or pain, but no evidence exists, and the muscle toxicity caution applies.
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## India Market Information
 
-Bupivacaine has 20 valid single-ingredient registrations, all injectable. The licence records contain no approved indication text. The five listed below are examples.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 27290 | Bupicain 5mg Injection | Vial of 20 ml injection | Not stated in the records |
-| 124998 | Levo Anawin 0.25% Injection | Vial of 10 ml injection | Not stated in the records |
-| 159193 | Numbcaine Heavy 20mg Injection | Vial of 4 ml injection | Not stated in the records |
-| 29364 | Bupicain Heavy 80mg Injection | Vial of 4 ml injection | Not stated in the records |
-| 3383 | Anawin 0.25% Injection | Vial of 20 ml injection | Not stated in the records |
+| 27290 | Bupicain 5mg Injection | vial of 20 ml Injection | Not recorded |
+| 124998 | Levo Anawin 0.25% Injection | vial of 10 ml Injection | Not recorded |
+| 159193 | Numbcaine Heavy 20mg Injection | vial of 4 ml Injection | Not recorded |
+| 29364 | Bupicain Heavy 80mg Injection | vial of 4 ml Injection | Not recorded |
+| 3383 | Anawin 0.25% Injection | vial of 20 ml Injection | Not recorded |
+
+The list shows five of at least 20 valid single-ingredient licences, and the records may be partial. All are injectable products.
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindications** (these come from drug-disease contraindication links in the graph, not from label text). The listed conditions include:
-  - Cardiovascular: hypertension, hypotension, atrial fibrillation, coronary artery disease, myocardial infarction, sudden cardiac arrest, heart conduction disease.
-  - Respiratory: COPD, respiratory failure.
-  - Liver and kidney: liver failure, liver disease, kidney disease.
-  - Other: epilepsy, hypothyroidism, diabetes mellitus, diabetic ketoacidosis, inflammatory bowel disease, benign prostatic hyperplasia, angle-closure glaucoma, substance abuse/dependence, hemoglobinopathy.
-- **Drug interactions**: 56 interactions were recorded. Two are rated Moderate: aprepitant and liposomal morphine. The remainder, such as pantoprazole, omeprazole, vancomycin, atropine, dexamethasone and ondansetron, have no severity rating.
-- **Population-specific concerns** raised for the predicted indications:
-  - Neonates and children: risk of systemic local anaesthetic toxicity.
-  - Dermatomyositis: potential muscle toxicity at high local concentrations.
-  - Lung disease: respiratory compromise.
+- **Drug Interactions**: 56 interactions were identified. Moderate-level interactions include aprepitant and liposomal morphine. Many others, such as proton pump inhibitors (pantoprazole, omeprazole, lansoprazole), corticosteroids (prednisone, hydrocortisone, dexamethasone), and ondansetron, have no severity level assigned.
+- Bupivacaine is known to be myotoxic at high local concentrations, and systemic local anesthetic toxicity is a concern, particularly in neonates and children. These points are relevant to some of the other predicted conditions.
 
-Please refer to the package insert for full warnings and contraindications.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone (L5). There are no clinical trials or publications, and the mechanistic review found no credible disease-modifying link for any of the top four predicted indications. The high scores most likely reflect knowledge-graph proximity to dermatological terms.
+The prediction has a high model score but no supporting trials or publications, and no credible mechanistic link to a late-stage Borrelia skin infection. Evidence is at the model-prediction-only level.
 
 **To proceed, the following is needed:**
-- Mechanism of action data, to allow a proper mechanistic analysis
-- Package insert warnings and contraindications from the India market, which are currently missing and block safety screening
-- Preclinical or clinical evidence for any predicted indication
-- Assessment of route compatibility: all registered forms are injectable
-- Safety review for neonatal, paediatric and myopathic populations
+- Any study directly examining bupivacaine in acrodermatitis chronica atrophicans
+- Detailed mechanism of action data
+- Package insert warnings and contraindications from the India regulatory source
+- A clear clinical rationale showing a benefit beyond symptomatic pain relief
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

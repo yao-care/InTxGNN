@@ -50,10 +50,10 @@ but **no clinical trials** and only **2 loosely related publications** (neither 
 |------|------|
 | Original Indication | Dementia |
 | Predicted New Indication | Coronary artery disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---

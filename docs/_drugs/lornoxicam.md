@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lornoxicam
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 503
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Lornoxicam: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not available"
+evidence_level: L2
+indication_count: 8
 monitor_inn: "Lornoxicam"
-predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
+last_modified_at: 2026-10-23
+description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the licence records compiled for this report (the liter…"
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,113 +33,75 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Lornoxicam: From Painful and Inflammatory Conditions to Rheumatoid Arthritis
+## Lornoxicam: From Pain and Inflammatory Conditions to Migraine Disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lornoxicam is an oxicam-class NSAID marketed in India as oral tablets for pain and inflammation. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but **no clinical trials are registered** for this indication and support rests on **about 19 publications**, mostly reviews, preclinical work and formulation studies. This is closer to a label-adjacent symptomatic use than a true novel repurposing.
-
----
+Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class, marketed in India as oral tablets. The TxGNN model predicts it may be effective for **migraine disorder**, supported by **1 Phase 2 clinical trial** and **2 review publications**. The trial studied intravenous lornoxicam, which is a different route from the oral products currently marketed in India.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the approved indication text is blank in all India licence records) |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| Original Indication | Not stated in the licence records compiled for this report (the literature describes painful and inflammatory conditions) |
+| Predicted New Indication | Migraine disorder |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L2 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 (the list may be partial) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lornoxicam is an oxicam NSAID that inhibits COX-1 and COX-2 non-selectively, which reduces prostaglandin-mediated inflammation and pain.
+Detailed mechanism-of-action data for lornoxicam is not available in the data compiled for this report. Based on general pharmacology, lornoxicam is a potent NSAID that inhibits COX-1 and COX-2, which reduces prostaglandin synthesis. A 1996 review describes it as having analgesic, anti-inflammatory and antipyretic properties, with a relatively short elimination half-life of 3 to 5 hours.
 
-That mechanism directly addresses the joint pain and inflammation of rheumatoid arthritis (RA). Several reviews describe lornoxicam as used in rheumatic conditions such as osteoarthritis and RA. Because of this, the prediction is less a new discovery than a confirmation of symptomatic use in inflammatory joint disease.
+Prostaglandins contribute to neurogenic inflammation and trigeminovascular sensitization in migraine. NSAIDs are an established class of acute migraine therapy, so the mechanism is biologically plausible. A 1992 review of controlled NSAID studies in migraine lists lornoxicam among the NSAIDs tested.
 
-Lornoxicam relieves symptoms only. It is not a disease-modifying agent and does not alter the course of RA.
-
----
+Other predictions from the model are weaker. Migraine with brainstem aura is a subtype of migraine and likely reflects ontology proximity. Headache disorder is a parent category covered by the same trial and literature. Trigeminal autonomic cephalalgia has only a weak rationale. Tendinitis has one study that found lornoxicam inferior to betamethasone. Brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome and myositis fibrosa have no supporting evidence, and the first two appear to be model artifacts.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for rheumatoid arthritis.
-
-For context, a different predicted indication, migraine disorder, does have a completed trial: [NCT00293657](https://clinicaltrials.gov/study/NCT00293657), a Phase 2 randomized, double-blind, placebo-controlled study of intravenous lornoxicam (n=150) in acute migraine headache. Outcome data were not available.
-
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | Completed | 150 | Randomized, double-blind, placebo-controlled single-dose study of intravenous lornoxicam (8 mg or 16 mg) versus placebo for moderate or severe headache of an acute migraine attack. Results are not included in the data compiled for this report. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Pharmacology and therapeutic potential of lornoxicam in painful and inflammatory conditions; relatively short half-life (3–5 h) |
-| [22469263](https://pubmed.ncbi.nlm.nih.gov/22469263/) | 2011 | Review | Profiles Drug Subst Excip Relat Methodol | Comprehensive drug profile; used in osteoarthritis and RA |
-| [19821419](https://pubmed.ncbi.nlm.nih.gov/19821419/) | 2009 | Systematic review | Cochrane Database Syst Rev | Single-dose oral lornoxicam for postoperative pain (indirect evidence for RA) |
-| [27086708](https://pubmed.ncbi.nlm.nih.gov/27086708/) | 2016 | Safety review | Pain Manag | Tolerability of lornoxicam in acute and rheumatic pain, focused on GI events |
-| [12207202](https://pubmed.ncbi.nlm.nih.gov/12207202/) | 2002 | Clinical study | Minerva Med | Long-term efficacy and safety of lornoxicam in RA |
-| [12404032](https://pubmed.ncbi.nlm.nih.gov/12404032/) | 2002 | Crossover double-blind study | Reumatismo | Lornoxicam 8 and 16 mg/day compared with diclofenac 150 mg/day in RA |
-| [29026298](https://pubmed.ncbi.nlm.nih.gov/29026298/) | 2017 | Preclinical (animal) | Int J Nanomedicine | Lornoxicam nanomicelles compared with free drug in experimental RA models |
-| [12240779](https://pubmed.ncbi.nlm.nih.gov/12240779/) | 2002 | Literature review | Clin Ther | Dose-effect relationships of NSAIDs in RA and osteoarthritis |
-| [41747163](https://pubmed.ncbi.nlm.nih.gov/41747163/) | 2026 | Formulation study | Drug Dev Ind Pharm | Transethosomal gel for transdermal lornoxicam delivery in RA |
-| [32792844](https://pubmed.ncbi.nlm.nih.gov/32792844/) | 2020 | Formulation study | Saudi Pharm J | Microsponge gel for sustained anti-inflammatory effect in arthritis |
-
-The remaining retrieved publications are further formulation studies (chronotherapy mini-tablets, pulsatile beads, patches, emulgel) and two glucocorticoid reviews that are not specific to lornoxicam.
-
----
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathologie-biologie | Reviews controlled studies of NSAIDs for acute migraine attacks and long-term prophylaxis. Lornoxicam is among the many NSAIDs tested. |
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Reviews the pharmacology and therapeutic potential of lornoxicam in painful and inflammatory conditions. This is a general review, not specific to migraine. |
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, all oral tablets supplied as strips of 10. Approved indication text is not recorded for any of them. Five examples:
+At least 20 licences are recorded (the list may be partial), all for single-ingredient products in oral tablet form. The licence records contain no approved indication text. Five examples are shown.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 132637 | Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Not recorded |
-| 126438 | Lodol 4mg Tablet | Strip of 10 tablets | Not recorded |
-| 250889 | Zoloxy 8mg Tablet | Strip of 10 tablets | Not recorded |
-| 131888 | Lornok 8mg Tablet | Strip of 10 tablets | Not recorded |
-| 232371 | Univer 4mg Tablet | Strip of 10 tablets | Not recorded |
-
-Many of the registered products pair lornoxicam 8 mg with 325 mg of a second ingredient (likely paracetamol, though the data do not state this).
-
----
+| Registration No. 132637 | Lormyp 8mg/325mg Tablet | Strip of 10 tablets | Not stated in the records |
+| Registration No. 126438 | Lodol 4mg Tablet | Strip of 10 tablets | Not stated in the records |
+| Registration No. 250889 | Zoloxy 8mg Tablet | Strip of 10 tablets | Not stated in the records |
+| Registration No. 131888 | Lornok 8mg Tablet | Strip of 10 tablets | Not stated in the records |
+| Registration No. 232371 | Univer 4mg Tablet | Strip of 10 tablets | Not stated in the records |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Lornoxicam's COX-inhibiting mechanism fits the symptomatic management of RA, and a small number of clinical studies (including a double-blind comparison with diclofenac) support this use. However, no clinical trials are registered, most of the literature is preclinical or formulation-focused, and the benefit is symptomatic only.
+One completed Phase 2 randomized, placebo-controlled trial directly studies lornoxicam in acute migraine headache, and the NSAID mechanism is plausible. However, there is only one Phase 2 trial, its results are not available here, and it used an intravenous formulation, whereas the products marketed in India are oral tablets.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are not yet available (this blocks safety screening)
-- Mechanism of action data from a primary source
-- Full-text review of the RA clinical studies (PMIDs 12207202 and 12404032) to confirm efficacy and safety
-- The approved indication wording for the India licences
-- A GI, cardiovascular and renal risk plan for long-term NSAID use in RA
-
----
-
-## Other Predicted Indications (for reference)
-
-| Predicted Indication | TxGNN Score | Evidence Level | Suggested Decision |
-|------|------|------|------|
-| Migraine disorder | 99.87% | L2 | Proceed with Guardrails (verify trial NCT00293657 outcomes) |
-| Headache disorder | 99.80% | L2 | Proceed with Guardrails (same single trial, not independent evidence) |
-| Tendinitis | 99.72% | L3 | Research question (one study found lornoxicam injection inferior to betamethasone in subacromial impingement) |
-| Migraine susceptibility, migraine with brainstem aura, trigeminal autonomic cephalalgia | 99.85%–99.75% | L4–L5 | Hold |
-| Brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome, idiopathic granulomatous myositis | 99.82%–99.70% | L5 | Hold (no plausible mechanism; likely graph artifacts) |
+- Results of NCT00293657 (primary endpoint, effect size and safety), and confirmation of its design
+- Package insert warnings and contraindications from the India Pharma website, which are currently missing and block safety screening
+- Mechanism-of-action data from DrugBank
+- A route and dose assessment for oral lornoxicam in acute migraine, since the trial tested the intravenous route
+- Confirmatory Phase 3 evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

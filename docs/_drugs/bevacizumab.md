@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 108
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Bevacizumab: predicted new indication Epiglottis neoplasm (evidence level L5). Approved use: Peritoneal cancer, ovarian cancer, breast cancer…"
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
+last_modified_at: 2026-10-27
+description: "Bevacizumab: predicted new indication epiglottis neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Bevacizumab
@@ -33,34 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Bevacizumab: From Ovarian and Peritoneal Cancer to Epiglottis Neoplasm
+## Bevacizumab: Anti-VEGF-A monoclonal antibody → epiglottis neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Bevacizumab is an anti-VEGF antibody originally used to treat cancers such as ovarian, peritoneal, breast, colorectal and brain tumours.
-The TxGNN model predicts it may be effective for **epiglottis neoplasm**, but this top-ranked prediction currently has **no clinical trials** and **no publications** behind it.
-It is supported by the model score alone (evidence level L5).
+Bevacizumab is a monoclonal antibody that blocks VEGF-A, a driver of tumour blood vessel growth, and it is marketed in India.
+The TxGNN model predicts it may be effective for **epiglottis neoplasm**, with a score of 0.9990.
+At present there are **no clinical trials and no publications** for this specific disease, so the support is model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peritoneal cancer, ovarian cancer, breast cancer, metastatic colon cancer, glioblastoma (approved indication text is not available in the India registration records; these are from the knowledge-graph indication list) |
-| Predicted New Indication | Epiglottis neoplasm |
-| TxGNN Prediction Score | 99.90% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | epiglottis neoplasm |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, bevacizumab is a monoclonal antibody that binds VEGF-A and blocks tumour angiogenesis. Its efficacy in ovarian, peritoneal, breast, colorectal and brain tumours is established, and mechanistically it may be applicable to other angiogenesis-dependent tumours, including head and neck tumours.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, bevacizumab binds VEGF-A and limits the growth of new blood vessels that tumours depend on.
 
-The epiglottis is part of the head and neck region, where VEGF-driven blood vessel growth is common in tumours. This is the only rationale available for this prediction. No trial or publication specific to epiglottis neoplasm was found, so the link remains speculative.
-
-Other predictions in the top 10 list show a similar pattern. Several are head and neck or rare tumours (tongue, floor of mouth, hypopharynx, nasal cavity, neuroblastoma, schwannoma) supported only by indirect or preclinical evidence. The one exception is "cystic neoplasm" (rank 7), which has Phase 3 ovarian cancer data. That evidence mostly reflects an existing indication rather than true repurposing, and the mapping from "cystic neoplasm" to ovarian cancer is loose.
+Epiglottis neoplasms arise in the head and neck region. Head and neck tumours are often rich in blood vessels, so blocking VEGF is a plausible approach. This reasoning is speculative here. No study in the compiled data tests bevacizumab in epiglottis tumours, and the prediction score is the only support.
 
 ## Clinical Trial Evidence
 
@@ -72,42 +70,29 @@ Currently no related literature available for epiglottis neoplasm.
 
 ## India Market Information
 
-Showing 5 of 20 valid registrations (all single-ingredient products, none cancelled). Approved indication text is not recorded for these registrations.
+The licence list may be partial. The licences below are a selection of the 20 valid single-ingredient registrations; no indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 13400 | Avastimab 400mg Injection | Vial of 16 ml injection | RPG Life Sciences Ltd |
-| 13987 | Avastimab 100mg Injection | Vial of 4 ml injection | RPG Life Sciences Ltd |
-| 110852 | Ivzumab 400 Solution for Injection | Vial of 16 ml solution for injection | RPG Life Sciences Ltd |
-| 116540 | Krabeva 100mg Injection | Vial of 4 ml injection | Biocon |
-| 233880 | Versavo 400 Solution for Infusion | Vial of 16 ml solution for infusion | Dr Reddy's Laboratories Ltd |
-
-All products are injectable or infusion formulations.
+| 13400 | Avastimab 400mg Injection | Vial of 16 ml, injection | Not recorded |
+| 13987 | Avastimab 100mg Injection | Vial of 4 ml, injection | Not recorded |
+| 110852 | Ivzumab 400 Solution for Injection | Vial of 16 ml, solution for injection | Not recorded |
+| 116540 | Krabeva 100mg Injection | Vial of 4 ml, injection | Not recorded |
+| 233880 | Versavo 400 Solution for Infusion | Vial of 16 ml, solution for infusion | Not recorded |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (anti-VEGF monoclonal antibody), not a conventional cytotoxic |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Targeted therapy (anti-VEGF monoclonal antibody) |
+| Myelosuppression Risk | Low as a single agent; please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Low |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 22 interactions were recorded in the interaction database. The Major-level interactions are with:
-  - Deferiprone
-  - Samarium (153Sm) lexidronam
-  - Panitumumab
-  - Sunitinib
-  - Thalidomide
-- Moderate-level interactions include:
-  - Bisphosphonates (alendronic acid, risedronic acid, etidronic acid, ibandronate, pamidronic acid, tiludronic acid)
-  - Growth factors (filgrastim, pegfilgrastim, sargramostim, palifermin)
-  - Radiopharmaceuticals (strontium-89, radium-223, sodium phosphate P-32)
-  - Idelalisib
-  - Romosozumab
+- **Drug Interactions**: 22 interactions were identified in the data compiled for this report. The main ones rated Major are deferiprone, samarium (153Sm) lexidronam, panitumumab, sunitinib and thalidomide. Others are rated Moderate, including bisphosphonates (alendronic, risedronic, etidronic, pamidronic, ibandronate and tiludronic acids), filgrastim, pegfilgrastim, sargramostim, palifermin, idelalisib, romosozumab, radium Ra 223 dichloride, strontium chloride Sr-89 and sodium phosphate P32.
 
 Please refer to the package insert for warnings and contraindications.
 
@@ -116,14 +101,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The epiglottis neoplasm prediction rests only on a high model score (99.90%) with no trials or literature. The mechanism is plausible but unsupported by disease-specific evidence.
+The prediction score is very high (0.9990), but no trial or publication studies bevacizumab in epiglottis neoplasm. Evidence is therefore at L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Disease-specific clinical or preclinical evidence in epiglottis or laryngeal tumours
-- Mechanism of action data and a clearer link between the original and new indications
-- Package insert warnings and contraindications for the India-marketed products, plus approved indication text
-- Route compatibility assessment and a safety review, including the Major interactions listed above
-- Consideration of "cystic neoplasm" (rank 7, L1 evidence in ovarian cancer) as a separate question, noting that it largely overlaps with an existing indication
+- Search for clinical or preclinical data on bevacizumab in laryngeal and epiglottic tumours
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications from the Indian licence holders
+- A safety review of the major drug interactions, especially with sunitinib, panitumumab and thalidomide
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

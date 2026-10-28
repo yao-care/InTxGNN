@@ -48,17 +48,17 @@ The strongest evidence is for **migraine prophylaxis**, with **7 randomized stud
 |------|------|
 | Original Indication | Not stated in the data (vasodilator used in peripheral and cerebral vascular disorders) |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 (for Prinzmetal angina). Migraine disorder, the best-supported prediction, is L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold (Prinzmetal angina). Migraine is a research question rather than a Go |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, cyclandelate is a direct-acting smooth muscle relaxant and vasodilator, with reported calcium-antagonist-like activity. It has historically been used in peripheral vascular disease.
 
-Prinzmetal angina is driven by coronary vasospasm, so a vasodilator that relaxes vascular smooth muscle is mechanistically plausible. However, no trials or literature were found for this indication. The 99.80% score reflects a computational prediction and not clinical proof.
+Prinzmetal angina is driven by coronary vasospasm, so a vasodilator that relaxes vascular smooth muscle is mechanistically plausible. However, no trials or literature were found for this indication. The 0.9980 score reflects a computational prediction and not clinical proof.
 
 The lower-ranked predictions differ in how well they are supported:
 - **Migraine disorder** has the most substantial evidence. Cyclandelate inhibits calcium-induced contraction of vascular smooth muscle, platelet aggregation, and serotonin release from platelets, which suggests prophylactic potential. Several randomized studies compare it with placebo, pizotifen, propranolol and flunarizine.

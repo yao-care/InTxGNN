@@ -4,7 +4,7 @@ title: Indinavir
 parent: Moderate Evidence (L3-L4)
 nav_order: 431
 evidence_level: L4
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Indinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection / AIDS"
 monitor_inn: "Indinavir"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Indinavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 |------|------|
 | Original Indication | HIV infection / AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -111,7 +111,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The SIV prediction rests only on in vitro and macaque studies, with no human trials. SIV does not infect humans, so this is a research-model finding rather than a viable new indication. The more clinically relevant predictions (congenital HIV, AIDS-related complex) largely overlap with the original indication, and indinavir has been superseded by newer agents. The remaining predictions (feline AIDS, a rare neurodevelopmental disorder, obsolete familial combined hyperlipidemia, fibroma of prostate) have no supporting evidence and appear to be graph-based artifacts.
+The SIV prediction rests only on in vitro and macaque studies, with no human trials. SIV does not infect humans, so this is a research-model finding rather than a viable new indication. Indinavir has been superseded by newer agents. The remaining predictions (feline AIDS, a rare neurodevelopmental disorder, obsolete familial combined hyperlipidemia, fibroma of prostate) have no supporting evidence. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source, which are required for safety screening

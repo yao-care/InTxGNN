@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 |------|------|
 | Original Indication | Constitutional neutropenia; severe congenital neutropenia; cyclic hematopoiesis; chronic familial neutropenia |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 Currently, detailed mechanism of action data is not available. Based on known information, filgrastim is a recombinant G-CSF analog that acts mainly on neutrophil-lineage progenitors through the G-CSF receptor. Its efficacy in neutropenic conditions is established.
 
-Primary release disorder of platelets is a qualitative platelet function defect, involving storage pool or secretion abnormalities. No plausible G-CSF mechanism is documented for it. The high TxGNN score is a graph-based prediction only, so the link between the original and new indications is weak.
+Primary release disorder of platelets is a qualitative platelet function defect, involving storage pool or secretion abnormalities. No plausible G-CSF mechanism is documented for it. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the link between the original and new indications is weak.
 
 The other top-ranked predictions (pseudo-von Willebrand disease, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defects, C1 inhibitor deficiency and others) show the same pattern. Each involves a defect that filgrastim does not target.
 
@@ -65,7 +65,7 @@ The other top-ranked predictions (pseudo-von Willebrand disease, Glanzmann throm
 
 Currently no related clinical trials are registered for the top predicted indication.
 
-For reference, the 10th-ranked prediction, *platelet-type bleeding disorder* (score 99.69%), retrieved seven trials. All are hematopoietic stem cell transplant studies in which filgrastim is only a supportive component. None tests filgrastim in a platelet disorder, and all were graded low relevance.
+For reference, the 10th-ranked prediction, *platelet-type bleeding disorder* (score 0.9969), retrieved seven trials. All are hematopoietic stem cell transplant studies in which filgrastim is only a supportive component. None tests filgrastim in a platelet disorder, and all were graded low relevance.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terfenadine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 822
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Terfenadine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis (also vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Terfenadine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis"]
+description: "Terfenadine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terfenadine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Terfenadine: From Allergic Rhinitis to Allergic Urticaria
+## Terfenadine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Terfenadine is a selective H1-receptor antagonist (antihistamine), originally used for allergic rhinitis, conjunctivitis and idiopathic urticaria.
-The TxGNN model predicts it may be effective for **allergic urticaria**, but **no clinical trials** are registered, and the **19 publications** retrieved are mostly class-level reviews rather than terfenadine-specific studies.
 Because this prediction largely overlaps with its existing indications and the drug has well-known cardiac safety problems, the practical repurposing value is low.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis (also vasomotor rhinitis, pharyngitis, common cold, conjunctivitis, idiopathic urticaria) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 0.9960 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,10 +65,8 @@ Other predictions follow the same pattern:
 
 | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|
-| Nasal cavity disease | 99.60% | L4 | Restates the approved rhinitis use; only indirect and preclinical literature |
-| Acute laryngopharyngitis | 99.59% | L5 | Prediction only; any benefit would be symptomatic |
-| Cold urticaria | 99.55% | L4 | Mechanistically plausible, but safer guideline-recommended antihistamines exist |
-| Rosacea conjunctivitis | 99.33% | L5 | Prediction only; histamine is not the main driver of the disease |
+| Nasal cavity disease | 0.9960 | L5 | Restates the approved rhinitis use; only indirect and preclinical literature |
+| Rosacea conjunctivitis | 0.9933 | L5 | Prediction only; histamine is not the main driver of the disease |
 
 ## Clinical Trial Evidence
 

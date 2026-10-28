@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Cisatracurium is a non-depolarizing neuromuscular blocking agent given by injection, used as a muscle relaxant in anaesthesia and critical care.
 The TxGNN model predicts it may be effective for **cauda equina syndrome**, but there are **no clinical trials** and **no publications** supporting this prediction.
-It is a graph-based prediction only, with no plausible mechanistic rationale.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There is no plausible mechanistic rationale.
 
 ## Quick Overview
 
@@ -48,17 +48,17 @@ It is a graph-based prediction only, with no plausible mechanistic rationale.
 |------|------|
 | Original Indication | Not stated in the registration data compiled for this report (generally used as a neuromuscular blocker during anaesthesia) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Cisatracurium is generally known as a non-depolarizing neuromuscular blocker that acts at nicotinic acetylcholine receptors of the motor endplate, producing skeletal muscle relaxation.
 
-This mechanism offers no plausible link to cauda equina syndrome. That condition is a compressive neurological emergency that requires surgical decompression, not muscle paralysis. The high TxGNN score (99.99%) reflects a pattern in the knowledge graph rather than pharmacological or clinical reasoning.
+This mechanism offers no plausible link to cauda equina syndrome. That condition is a compressive neurological emergency that requires surgical decompression, not muscle paralysis. The high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or pharmacological or clinical reasoning.
 
 The other top-ranked predictions (preeclampsia, neurogenic bladder, migraine, thrombotic disease, irritable bowel syndrome and others) show the same weakness. None has a therapeutic mechanism supported by clinical data. The two papers retrieved for preeclampsia and the one paper for thrombotic disease concern anaesthesia care in cesarean section and liver transplantation. In those papers cisatracurium would at most be an incidental co-administered anaesthetic, not a treatment for the disease.
 
@@ -98,7 +98,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the TxGNN graph score alone. There are no clinical trials or literature, and no plausible mechanism links neuromuscular blockade to cauda equina syndrome. Other top-ranked predictions are similarly unsupported, and the few papers found describe incidental anaesthetic use only.
+The prediction rests on the TxGNN model (deep learning) score alone, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or literature, and no plausible mechanism links neuromuscular blockade to cauda equina syndrome. Other top-ranked predictions are similarly unsupported, and the few papers found describe incidental anaesthetic use only.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India registration, as the current safety data is incomplete

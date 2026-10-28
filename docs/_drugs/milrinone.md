@@ -4,17 +4,17 @@ title: Milrinone
 parent: Model Prediction Only (L5)
 nav_order: 554
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Milrinone: predicted new indication Alopecia (evidence level L5). Approved use: Not stated in the Indian licence records . The literature and pharmac…"
 monitor_inn: "Milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
+description: "Milrinone: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Milrinone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Milrinone: From Heart Failure to Alopecia
+## Milrinone: Alopecia
 {: .text-alpha }
 
 **Note on indication choice:** The top-ranked TxGNN prediction is alopecia (rank 1), but it has no supporting trials or literature. The data compiled for this report contain much stronger evidence for two lower-ranked predictions (congestive heart failure and acute pulmonary heart disease). Both are discussed in the sections below.
@@ -46,27 +46,26 @@ Milrinone is a PDE3 inhibitor and inodilator, used in India as an injection for 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Indian licence records (approved indication text is empty for all 8 licences). The literature and pharmacology data describe use in congestive heart failure. |
-| Predicted New Indication | Alopecia (top-ranked) |
-| TxGNN Prediction Score | 99.91% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Alopecia |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 for alopecia (model prediction only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 Other predictions in brief:
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|
-| Hypotrichosis simplex of the scalp | 99.90% | L5 | Hold |
-| Congenital hypotrichosis milia | 99.89% | L5 | Hold |
-| Diffuse alopecia areata | 99.88% | L5 | Hold |
-| Headache disorder | 99.46% | L4 | Research question |
-| Congestive heart failure | 99.45% | L1 | Proceed with Guardrails (established use, not true repurposing) |
-| Migraine disorder | 99.45% | L5 | Hold |
-| Migraine with brainstem aura | 99.38% | L5 | Hold |
-| Trigeminal autonomic cephalalgia | 99.25% | L5 | Hold |
-| Acute pulmonary heart disease | 99.19% | L1 | Proceed with Guardrails |
+| Hypotrichosis simplex of the scalp | 0.9990 | L5 | Hold |
+| Congenital hypotrichosis milia | 0.9989 | L5 | Hold |
+| Diffuse alopecia areata | 0.9988 | L5 | Hold |
+| Headache disorder | 0.9946 | L5 | Research question |
+| Migraine disorder | 0.9945 | L5 | Hold |
+| Migraine with brainstem aura | 0.9938 | L5 | Hold |
+| Trigeminal autonomic cephalalgia | 0.9925 | L5 | Hold |
+| Acute pulmonary heart disease | 0.9919 | L1 | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 

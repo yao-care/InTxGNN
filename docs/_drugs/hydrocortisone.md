@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 412
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L5). Approved use: Adrenocortical insufficiency / Addison disease, autoimmune disease…"
 monitor_inn: "Hydrocortisone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Hydrocortisone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **1 clinical trial** (Phase 3) and **20 publications** retrieved, but most 
 |------|------|
 | Original Indication | Adrenocortical insufficiency / Addison disease, autoimmune disease, Crohn disease and inflammatory bowel disease, acute lymphoblastic leukemia, and others (approved indication text was not provided in the India licence records) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 per the underlying scoring (see note below) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (research question) |
 

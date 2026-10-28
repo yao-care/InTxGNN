@@ -48,17 +48,17 @@ but **no clinical trials and no directly relevant publications** currently suppo
 |------|------|
 | Original Indication | Hairy cell leukemia, hairy cell leukemia variant, relapsing-remitting multiple sclerosis (from the knowledge graph; the India license text has no indication recorded) |
 | Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cladribine is a purine nucleoside analog. It is cytotoxic to lymphocytes through activation by deoxycytidine kinase, which disrupts DNA synthesis. Its efficacy in hairy cell leukemia, a lymphoid malignancy, is established.
 
-The link to rhabdomyosarcoma is weak. Rhabdomyosarcoma is a solid tumor of soft tissue, and no mechanistic rationale for a lymphocyte-directed purine analog in this setting is documented. The high score most likely reflects proximity in the knowledge graph to the broader rhabdomyosarcoma/sarcoma disease nodes rather than a specific biological mechanism. The same pattern appears in the other top predictions: prostate, vaginal (botryoid), and bile duct embryonal subtypes, the parent term "rhabdomyosarcoma", and liver sarcoma. These all score between 99.7% and 99.8% and probably share one ontology-driven signal. Any further work would need preclinical validation first.
+The link to rhabdomyosarcoma is weak. Rhabdomyosarcoma is a solid tumor of soft tissue, and no mechanistic rationale for a lymphocyte-directed purine analog in this setting is documented. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same pattern appears in the other top predictions: prostate, vaginal (botryoid), and bile duct embryonal subtypes, the parent term "rhabdomyosarcoma", and liver sarcoma. These all score between 0.9970 and 0.9977 and probably share one similarity-driven signal. Any further work would need preclinical validation first.
 
 ## Clinical Trial Evidence
 
@@ -88,7 +88,7 @@ For the seventh-ranked prediction (liver sarcoma), one paper was retrieved: [152
 
 ## Safety Considerations
 
-- **Contraindicated conditions (knowledge-graph associations, not label text)**: kidney disease, pyoureter, thrombocytopenia, neutropenia, agranulocytosis, anemia (including macrocytic anemia), peripheral nervous system disease, peripheral neuropathy, hyperuricemia.
+- **Contraindicated conditions (not label text)**: kidney disease, pyoureter, thrombocytopenia, neutropenia, agranulocytosis, anemia (including macrocytic anemia), peripheral nervous system disease, peripheral neuropathy, hyperuricemia.
 - **Drug Interactions**: 344 interactions were found. Major interactions include:
   - Corticosteroids: hydrocortisone, triamcinolone (including ophthalmic), dexamethasone, betamethasone, budesonide, prednisolone, prednisone
   - Deferiprone

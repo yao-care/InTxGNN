@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Iron
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 447
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-14
 description: "Iron: predicted new indication Plummer-Vinson syndrome (evidence level L4). Approved use: Iron deficiency anemia and related anemias (folic acid deficiency ane…"
@@ -14,7 +14,7 @@ predicted_indications: ["vitamin B12- and folate-independent constitutional mega
 # Iron
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,13 +48,13 @@ Support comes from **about 19 publications** (mostly reviews, case reports and r
 |------|------|
 | Original Indication | Iron deficiency anemia and related anemias (folic acid deficiency anemia, anemia of prematurity, hypochromic anemia, deficiency anemia, microcytic anemia). The India licence records contain no approved indication text. |
 | Predicted New Indication | Plummer-Vinson syndrome (the highest-scoring prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia, has no supporting evidence and is not assessed here) |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
-Note: the top-ranked prediction by score, vitamin B12- and folate-independent constitutional megaloblastic anemia (99.89%), has no trials or literature (L5, Hold). Plummer-Vinson syndrome is the most credible candidate and is the focus of this report.
+Note: the top-ranked prediction by score, vitamin B12- and folate-independent constitutional megaloblastic anemia (0.9989), has no trials or literature (L5, Hold). Plummer-Vinson syndrome is the most credible candidate and is the focus of this report.
 
 ## Why is This Prediction Reasonable?
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpelisib
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 38
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Alpelisib: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Not recorded in the India license data (the clinical program is HR+/H…"
 monitor_inn: "Alpelisib"
-predicted_indications: ["pulmonary hypertension", "migraine with or without aura, susceptibility to", "migraine disorder", "kyphoscoliotic heart disease", "rheumatoid arthritis", "leprosy", "migraine with brainstem aura", "thrombotic disease", "amyotrophic lateral sclerosis", "multiple endocrine neoplasia"]
+predicted_indications: ["pulmonary hypertension"]
 ---
 
 # Alpelisib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Evidence for this prediction is essentially model-derived.
 |------|------|
 | Original Indication | Not recorded in the India license data (the clinical program is HR+/HER2-, PIK3CA-mutated advanced breast cancer) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.03% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 0.9903 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

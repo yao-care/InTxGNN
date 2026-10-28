@@ -4,17 +4,17 @@ title: Ilaprazole
 parent: High Evidence (L1-L2)
 nav_order: 423
 evidence_level: L1
-indication_count: 5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Ilaprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Ilaprazole"
 predicted_indications: ["gastroduodenitis"]
+description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Ilaprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **5** 
+Evidence Level: **L1** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-## Ilaprazole: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Ilaprazole: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ilaprazole is a proton pump inhibitor originally used for peptic ulcer disease, gastroesophageal reflux disease and esophagitis.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which is closely related to its existing use, with **2 clinical trials** and **6 publications** directly linked to this prediction.
 Because peptic ulcer disease is already an original indication, this is largely an on-label use rather than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, peptic esophagitis |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.89% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gastroduodenitis |
+| TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -60,7 +59,7 @@ Ilaprazole inhibits the H+/K+ ATPase (the gastric proton pump, encoded by ATP4A)
 
 Peptic ulcers are acid-driven, so lowering gastric acid promotes healing. Active peptic ulcer disease is a direct extension of the drug's original peptic ulcer indication, and the mechanism applies directly.
 
-Other predictions are weaker. For gastric ulcer (score 99.58%), evidence is strong, with several completed Phase 3 trials, but much of it comes from duodenal ulcer populations. For gastrojejunal ulcer, gastroduodenitis and peptic ulcer perforation, the support is only indirect or absent, and these remain research questions.
+Other predictions are weaker. For gastrojejunal ulcer, gastroduodenitis and peptic ulcer perforation, the support is only indirect or absent, and these remain research questions.
 
 ## Clinical Trial Evidence
 

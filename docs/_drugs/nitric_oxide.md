@@ -4,17 +4,17 @@ title: Nitric Oxide
 parent: Model Prediction Only (L5)
 nav_order: 601
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Pulmonary hypertension"
 monitor_inn: "Nitric Oxide"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
+description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nitric Oxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Nitric Oxide: From Pulmonary Hypertension to Malformation Syndrome with Odontal and/or Periodontal Component
+## Nitric Oxide: Malformation syndrome with odontal and/or periodontal component
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **malformation syndrome with od
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary hypertension; congenital alveolar capillary dysplasia; persistent fetal circulation syndrome (the registration record has no indication text, so these come from the knowledge-graph indications) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malformation syndrome with odontal and/or periodontal component |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -99,7 +99,7 @@ Please refer to the package insert for warnings and complete safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. There are no registered trials, no mechanistic rationale, and no literature testing Nitric Oxide in this condition. Within the same data set, other predicted indications are far better supported. These include pulmonary arterial hypertension (a completed Phase 2 study of inhaled Nitric Oxide, evidence level L2, Proceed with Guardrails) and pulmonary arteriovenous malformation (small cohort studies, evidence level L3). If the goal is to advance Nitric Oxide, these deserve priority over this prediction.
+The prediction rests on the model score alone. There are no registered trials, no mechanistic rationale, and no literature testing Nitric Oxide in this condition. Within the same data set, other predicted indications are far better supported. One example is pulmonary arteriovenous malformation (small cohort studies, evidence level L3). If the goal is to advance Nitric Oxide, this deserves priority over this prediction.
 
 **To proceed, the following is needed:**
 - Any direct preclinical or clinical evidence linking Nitric Oxide to this malformation syndrome

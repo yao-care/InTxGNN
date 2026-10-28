@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, b
 |------|------|
 | Original Indication | Herpes simplex virus keratitis |
 | Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ For the top-ranked prediction, vulvovaginal candidiasis, there is no plausible m
 
 Several other predicted indications also lack a rationale. Trichomonal vulvovaginitis (a protozoan infection), bacterial vaginosis (a polymicrobial dysbiosis), postmenopausal atrophic vaginitis (driven by estrogen deficiency) and nonspecific vaginal discharge have no mechanistic link to an antiviral nucleoside analog.
 
-The most coherent candidate is **herpetic vulvovaginitis** (score 99.59%). Idoxuridine inhibits HSV DNA replication, so activity against genital HSV is biologically reasonable. However, acyclovir and valacyclovir have far stronger evidence and a better safety profile, so repurposing idoxuridine would offer little clinical advantage.
+The most coherent candidate is **herpetic vulvovaginitis** (score 0.9959). Idoxuridine inhibits HSV DNA replication, so activity against genital HSV is biologically reasonable. However, acyclovir and valacyclovir have far stronger evidence and a better safety profile, so repurposing idoxuridine would offer little clinical advantage.
 
 ## Clinical Trial Evidence
 

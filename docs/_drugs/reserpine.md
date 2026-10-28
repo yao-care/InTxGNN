@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Reserpine
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 734
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Reserpine: predicted new indication Treatment-refractory schizophrenia (evidence level L5). Approved use: Hypertension and psychotic disorders"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Reserpine: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Reserpine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,48 +32,45 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Reserpine: From Hypertension and Psychotic Disorders to Treatment-Refractory Schizophrenia
+<!-- known-uses-page -->
+<!-- description: Reserpine: known uses and market status in India; currently no new candidate indication -->
+## Reserpine: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model produced candidates for Reserpine with a score of 0.99 or higher. Every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for Reserpine.
 
-Reserpine is an older drug originally used to treat hypertension and psychotic disorders, including schizophrenia.
-The TxGNN model predicts it may be effective for **treatment-refractory schizophrenia**,
-but **no clinical trials or publications** were found in the data compiled for this report, so the prediction rests on the model alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension and psychotic disorders (from the knowledge graph; the India licence lists no indication text) |
-| Predicted New Indication | Treatment-refractory schizophrenia |
-| TxGNN Prediction Score | 99.04% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 0 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Reserpine irreversibly inhibits vesicular monoamine transporter 2 (VMAT2). This depletes presynaptic stores of dopamine, norepinephrine and serotonin. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description comes from general pharmacological knowledge.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Dopamine depletion is consistent with antipsychotic activity. Reserpine was used historically as an early antipsychotic in schizophrenia and other psychotic disorders, and these conditions are already among its original indications. Treatment-refractory schizophrenia is a subgroup of the same disease, which probably explains the high model score.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The score is a computational prediction only. It likely reflects the drug's link to related psychotic disorders, not independent evidence of benefit in refractory disease. Reserpine's historical efficacy was modest compared with later antipsychotics. Its adverse effects (depression, sedation, hypotension, extrapyramidal symptoms) are a particular concern in a population that is already hard to treat.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 5857 | Adelphane 0.1mg/10mg Tablet (Novartis India Ltd) | Strip of 10 tablets (oral) | Not stated |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 5857 | Adelphane 0.1mg/10mg Tablet | strip of 10 tablets | Valid |
 
 ## Safety Considerations
 
@@ -91,19 +89,6 @@ Currently no related literature available.
 
 The concern about depression and dysthymic disorder is especially relevant for a psychiatric population.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the TxGNN model (Evidence Level L5), with no trials or publications for the refractory subgroup. Reserpine's modest historical efficacy and its adverse-effect profile weigh against advancing it for a difficult-to-treat population without further evidence.
-
-**To proceed, the following is needed:**
-- A systematic literature search for historical and recent reserpine studies in refractory schizophrenia
-- Package insert warnings and contraindications for the India-marketed product (these are currently missing, which blocks safety screening)
-- Confirmed mechanism-of-action data from DrugBank
-- A comparison against current standard options for refractory schizophrenia, such as clozapine
-- A risk assessment of depression, hypotension and extrapyramidal effects, with a monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

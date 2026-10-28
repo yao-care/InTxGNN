@@ -48,10 +48,10 @@ with **10 clinical trials** (4 rated as directly relevant Phase 3 studies) and *
 |------|------|
 | Original Indication | Dermatitis herpetiformis, acne, leprosy (the approved indication text in the India registrations is empty) |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -104,7 +104,7 @@ Only one of the 7 valid registrations is an oral product (the tablet). The other
 
 ## Safety Considerations
 
-- **Contraindications and risk conditions (from knowledge-graph associations, not label text)**: G6PD deficiency, methemoglobinemia due to methemoglobin reductase deficiency, anemia (including macrocytic anemia), liver disease, gallbladder disease, glycogen storage disease, cystinuria, galactosemia, and pyruvate dehydrogenase E3 deficiency.
+- **Contraindications and risk conditions (not from label text)**: G6PD deficiency, methemoglobinemia due to methemoglobin reductase deficiency, anemia (including macrocytic anemia), liver disease, gallbladder disease, glycogen storage disease, cystinuria, galactosemia, and pyruvate dehydrogenase E3 deficiency.
 - **Key adverse effects seen in the literature**: Methemoglobinemia is the most frequently reported, including cases in HIV patients, children, oncology patients and transplant recipients. Hepatic complications, acute pancreatitis and dapsone hypersensitivity syndrome are also reported. A large Phase 4 study (NCT02550080) examined HLA-B*13:01 screening for hypersensitivity risk.
 - **Drug interactions**: 350 interactions were identified. Moderate-level ones include aprepitant, metronidazole, picosulfuric acid, nateglinide, nitisinone, rosuvastatin, simvastatin, tinidazole, activated charcoal and troglitazone. Other listed interactions, of unknown severity, include calcitriol, pantoprazole, glimepiride, morphine, metformin, omeprazole, sucralfate, rosiglitazone, lansoprazole and vancomycin.
 

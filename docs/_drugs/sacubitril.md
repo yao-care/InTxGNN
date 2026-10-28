@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sacubitril
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 759
-evidence_level: L3
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Sacubitril: predicted new indication Diabetic nephropathy (evidence level L3). Approved use: Not stated in the registration data"
 monitor_inn: "Sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
+description: "Sacubitril: predicted new indication Brain small vessel disease 1 with or without ocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sacubitril
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **5**
 
 </div>
 
-## Sacubitril: From Heart Failure (Original Indication Not Listed in Registration Data) to Diabetic Nephropathy
+## Sacubitril: Brain small vessel disease 1 with or without ocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Note: the top-ranked TxGNN prediction is a rare COL4A1-related small vessel dise
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the registration data (the approved indication text is blank for all licenses) |
-| Predicted New Indication | Diabetic nephropathy (the rank 1 prediction, brain small vessel disease, has no relevant evidence) |
-| TxGNN Prediction Score | 99.50% (diabetic nephropathy); rank 1 disease: 99.58% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Brain small vessel disease 1 with or without ocular anomalies |
+| TxGNN Prediction Score | 0.9958 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold (research question; see conclusion) |
 
 ## Why is This Prediction Reasonable?

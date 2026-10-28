@@ -48,9 +48,9 @@ Support is limited: **no registered clinical trials** and **9 publications**, mo
 |------|------|
 | Original Indication | Tourette syndrome |
 | Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.996% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -94,7 +94,7 @@ All 20 licences are valid single-ingredient oral tablets. The five above are a s
 
 ## Safety Considerations
 
-- **Contraindications (knowledge graph associations, not label text)**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, epilepsy, kidney disease, liver disease, gallbladder disease, potassium deficiency, benign prostatic hyperplasia, glaucoma, neuroleptic malignant syndrome, neutropenia, agranulocytosis, leukopenia and related congenital neutropenias, female breast carcinoma, and Alzheimer disease.
+- **Contraindications (model-derived associations from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence)**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, epilepsy, kidney disease, liver disease, gallbladder disease, potassium deficiency, benign prostatic hyperplasia, glaucoma, neuroleptic malignant syndrome, neutropenia, agranulocytosis, leukopenia and related congenital neutropenias, female breast carcinoma, and Alzheimer disease.
 - **Drug Interactions**: 247 interactions were recorded. Major ones include hydrocortisone, amphotericin B (including the lipid complex), bupropion, aprepitant, morphine, lorcaserin, cimetidine, potassium citrate, clarithromycin, picosulfuric acid, and polyethylene glycol with electrolytes. Moderate ones include famotidine, epinephrine, hyoscyamine, loperamide, atropine, bisacodyl, glycopyrronium, and dicyclomine.
 
 Please also refer to the package insert for label-based warnings and contraindications, which were not available for this report.

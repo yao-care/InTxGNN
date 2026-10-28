@@ -8,6 +8,7 @@ nav_order: 875
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Urea
@@ -51,8 +52,8 @@ This report summarises the available regulatory and safety information to suppor
 | Predicted New Indication | No TxGNN prediction available |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (prediction pending) |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---

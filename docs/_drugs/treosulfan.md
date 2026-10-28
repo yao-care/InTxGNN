@@ -4,17 +4,17 @@ title: Treosulfan
 parent: Model Prediction Only (L5)
 nav_order: 859
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not stated in the India license data (the approved indication text is…"
 monitor_inn: "Treosulfan"
-predicted_indications: ["diabetic cataract", "cortical cataract", "nuclear senile cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "craniostenosis cataract", "mature cataract", "diabetic retinopathy", "senile cataract"]
+predicted_indications: ["diabetic cataract"]
+description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Treosulfan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Treosulfan: From Hematopoietic Stem Cell Transplant Conditioning to Diabetic Cataract
+## Treosulfan: Diabetic cataract
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,32 +44,23 @@ Treosulfan is an alkylating agent marketed in India as an injectable. The TxGNN 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India license data (the approved indication text is blank) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 99.01% |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Treosulfan is a bifunctional alkylating agent: a prodrug that converts to epoxide intermediates which cross-link DNA. It is generally used in conditioning regimens before hematopoietic stem cell transplantation. This general description comes from background knowledge, not from the data compiled for this report.
 
-A plausible mechanistic link to diabetic cataract cannot be established. Diabetic cataract is driven by polyol pathway activation, glycation and oxidative stress in the lens. DNA alkylation does not address these processes. The high score (0.990) reflects a graph-based signal only. Nine other predictions on the list are also eye conditions (eight cataract types plus diabetic retinopathy), with scores between 0.989 and 0.990. This suggests the signal may come from shared connectivity among cataract terms in the knowledge graph rather than a drug-specific effect.
+A plausible mechanistic link to diabetic cataract cannot be established. Diabetic cataract is driven by polyol pathway activation, glycation and oxidative stress in the lens. DNA alkylation does not address these processes.
 
 There is also a safety concern. Cataract is a known risk after conditioning regimens and with related alkylators such as busulfan, so lens toxicity could work against any benefit.
 
 Other top-ranked predictions are:
-- Cortical cataract (98.96%)
-- Nuclear senile cataract (98.96%)
-- Immature cataract (98.95%)
-- Diabetes mellitus type 2 associated cataract (98.95%)
-- Tetanic cataract (98.95%)
-- Craniostenosis cataract (98.95%)
-- Mature cataract (98.95%)
-- Diabetic retinopathy (98.93%)
-- Senile cataract (98.92%)
 
 None has trial or literature support.
 

@@ -4,17 +4,17 @@ title: Palonosetron
 parent: Moderate Evidence (L3-L4)
 nav_order: 639
 evidence_level: L4
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the India licence data compiled for this report (palono…"
 monitor_inn: "Palonosetron"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Palonosetron
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Palonosetron: From Chemotherapy-Related Nausea and Vomiting to Migraine Disorder
+## Palonosetron: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,21 +44,21 @@ Palonosetron is a second-generation 5-HT3 receptor antagonist, a class of drug u
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India licence data compiled for this report (palonosetron is generally used as an antiemetic) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, palonosetron is a second-generation 5-HT3 receptor antagonist. These receptors are found on trigeminal afferent nerves and in the brainstem circuits that control vomiting, which gives a theoretical link to migraine pathophysiology and to migraine-associated nausea.
 
-However, this link is weak. The high TxGNN score (99.74%) reflects a network-based prediction, not clinical data. The only retrieved publication (PMID 21132477) reports that palonosetron **induced** migraine-type headache. That is a safety signal opposite to therapeutic benefit.
+However, this link is weak. The high TxGNN score (0.9974) reflects a network-based prediction, not clinical data. The only retrieved publication (PMID 21132477) reports that palonosetron **induced** migraine-type headache. That is a safety signal opposite to therapeutic benefit.
 
-The other predicted indications are even less supported. Migraine with brainstem aura is a prediction driven only by its similarity to the general migraine node. "Migraine with or without aura, susceptibility to" is a genetic susceptibility phenotype rather than a treatable indication. Atrophoderma vermiculata and ulerythema ophryogenesis are rare skin disorders with no plausible 5-HT3 link and probably reflect knowledge-graph artifacts.
+The other predicted indications are even less supported. Migraine with brainstem aura is a prediction driven only by its similarity to the general migraine node. Atrophoderma vermiculata and ulerythema ophryogenesis are rare skin disorders with no plausible 5-HT3 link and probably reflect TxGNN model (deep learning) artifacts.
 
 ## Clinical Trial Evidence
 

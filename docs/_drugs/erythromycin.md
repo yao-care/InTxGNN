@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Erythromycin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 321
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-14
 description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bacterial infections, including acne, otitis media…"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute conta
 # Erythromycin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but there are currently **no registered clinical trials** and only **1 publicati
 |------|------|
 | Original Indication | Bacterial infections, including acne, otitis media, pneumonia and conjunctivitis (taken from the drug's known indications, because the approved-indication text in the Indian licence records is empty) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The original indications include conjunctivitis, so an ocular surface condition is a natural neighbour. Chronic blepharokeratoconjunctivitis is driven by meibomian gland dysfunction, bacterial overgrowth and ocular surface inflammation, and macrolides (topical or systemic) are used in its management. This makes the link plausible, but it is indirect. The only retrieved paper is a review of diagnosis and management in children, not a study of erythromycin for this specific condition.
 
-Other predicted indications fall into two groups. Acute contagious conjunctivitis (score 99.55%) largely overlaps the existing label and has no retrieved evidence. Lymphogranuloma venereum (score 99.05%) has the strongest mechanistic link, because it is a *Chlamydia trachomatis* infection, but the literature lists erythromycin only as an alternative to doxycycline, and no trials were found.
+Other predicted indications fall into two groups. Acute contagious conjunctivitis (score 0.9955) largely overlaps the existing label and has no retrieved evidence. Lymphogranuloma venereum (score 0.9905) has the strongest mechanistic link, because it is a *Chlamydia trachomatis* infection, but the literature lists erythromycin only as an alternative to doxycycline, and no trials were found.
 
 ## Clinical Trial Evidence
 
@@ -96,7 +96,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.89%), but the evidence is limited to a single general review with no clinical trials, and no ophthalmic erythromycin product is registered in India. The prediction is mechanistically plausible but not yet supported by direct evidence.
+The TxGNN score is very high (0.9989), but the evidence is limited to a single general review with no clinical trials, and no ophthalmic erythromycin product is registered in India. The prediction is mechanistically plausible but not yet supported by direct evidence.
 
 **To proceed, the following is needed:**
 - Studies or trials of erythromycin (topical or systemic) specifically in punctate epithelial keratoconjunctivitis

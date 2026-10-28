@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 ## One-Sentence Summary
 
 Exemestane is a steroidal, irreversible aromatase inhibitor that lowers estrogen levels. It is marketed in India under several brand names.
-The TxGNN model predicts it may be effective for **antithrombin deficiency type 2**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The TxGNN model (deep learning) predicts it may be effective for **antithrombin deficiency type 2**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 Evidence is therefore at the model-prediction level, and no plausible mechanistic link has been identified.
 
 ## Quick Overview
@@ -48,17 +48,17 @@ Evidence is therefore at the model-prediction level, and no plausible mechanisti
 |------|------|
 | Original Indication | Not available in the registration data compiled for this report (the approved indication text is empty for all licences) |
 | Predicted New Indication | Antithrombin deficiency type 2 |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, exemestane is a steroidal irreversible aromatase inhibitor that lowers circulating estrogen. It is generally used in hormone-receptor-positive breast cancer in postmenopausal women.
 
-Antithrombin deficiency type 2 is a hereditary defect in the function of the SERPINC1 gene product. Estrogen lowering is not expected to correct this defect. Any effect on thrombotic risk would be indirect and speculative. The high TxGNN score appears to reflect network proximity in the knowledge graph rather than a biological rationale.
+Antithrombin deficiency type 2 is a hereditary defect in the function of the SERPINC1 gene product. Estrogen lowering is not expected to correct this defect. Any effect on thrombotic risk would be indirect and speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions in the list show the same pattern:
 
@@ -94,7 +94,7 @@ For the second-ranked prediction (amenorrhea), five indirect publications were r
 | 74595 | Exeget 25mg Tablet (GLS Pharma Ltd.) | Strip of 10 tablets | Not specified |
 | 75614 | Exmasin 25mg Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 5 tablets | Not specified |
 
-Two further valid single-ingredient licences (76776 Exetraz, Alkem; 244202 Xmalon, Celon) are not shown. All 7 registrations are valid, with none cancelled.
+Two further valid single-ingredient licences (76776 Exetraz, Alkem; 244202 Xmalon, Celon) are not shown. All 7 registrations are valid.
 
 ## Cytotoxicity
 

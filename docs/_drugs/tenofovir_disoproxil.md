@@ -48,9 +48,9 @@ The data therefore mainly reinforce the existing HIV indication rather than poin
 |------|------|
 | Original Indication | Chronic hepatitis B virus infection, HIV infectious disease, AIDS (the Indian licence records contain no approved-indication text) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ However, SIV infection is a preclinical or veterinary model, not a human disease
 
 Other predictions from the model are weaker:
 - **Feline acquired immunodeficiency syndrome**: a veterinary indication with a single 2023 publication (combination antiretroviral therapy in FIV-infected cats). It has limited value for human repurposing.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter**: score 99.95%, but no trials, no literature and no plausible mechanistic link. It is likely a knowledge-graph artefact.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter**: score 0.9995, but no trials, no literature and no plausible mechanistic link. It is likely a TxGNN model (deep learning) artefact.
 - **Obsolete familial combined hyperlipidemia**: no evidence, the disease term is obsolete, and tenofovir has no lipid-lowering mechanism.
 
 ## Clinical Trial Evidence

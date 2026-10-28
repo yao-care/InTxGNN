@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 |------|------|
 | Original Indication | Cycloplegia |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -65,8 +65,8 @@ The high TxGNN score is a computational prediction only and should not be read a
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Neurogenic bladder (obsolete ontology term) | 99.40% | L5 | Systemic antimuscarinics are established for neurogenic detrusor overactivity, so the mechanism is plausible in principle. Cyclopentolate has no systemic dosing, has CNS toxicity concerns (confusion, seizures, especially in children), and the disease term is obsolete. Better-validated alternatives exist. |
-| 3 | Irritable bowel syndrome | 99.27% | L5 | Class-level rationale only (antispasmodics such as dicyclomine and hyoscyamine). No studies of cyclopentolate and no oral formulation. |
+| 2 | Neurogenic bladder (obsolete ontology term) | 0.9940 | L5 | Systemic antimuscarinics are established for neurogenic detrusor overactivity, so the mechanism is plausible in principle. Cyclopentolate has no systemic dosing, has CNS toxicity concerns (confusion, seizures, especially in children), and the disease term is obsolete. Better-validated alternatives exist. |
+| 3 | Irritable bowel syndrome | 0.9927 | L5 | Class-level rationale only (antispasmodics such as dicyclomine and hyoscyamine). No studies of cyclopentolate and no oral formulation. |
 
 ## India Market Information
 

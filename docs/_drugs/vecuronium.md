@@ -4,17 +4,17 @@ title: Vecuronium
 parent: Model Prediction Only (L5)
 nav_order: 885
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Vecuronium: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence records (approved indication text is empty)"
+description: "Vecuronium: predicted new indication insomnia (disease) (evidence level L5). Approved use: Not stated in the licence records (approved indication text is empty)"
 monitor_inn: "Vecuronium"
-predicted_indications: ["insomnia (disease)", "irritable bowel syndrome", "neurocirculatory asthenia", "benign prostatic hyperplasia (disease)", "cauda equina syndrome", "headache disorder", "rhinitis", "anxiety", "trigeminal autonomic cephalalgia", "migraine disorder"]
+predicted_indications: ["insomnia (disease)", "irritable bowel syndrome"]
 ---
 
 # Vecuronium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Vecuronium: From Neuromuscular Blockade in Anaesthesia to Insomnia
+## Vecuronium: From Neuromuscular Blockade in Anaesthesia to insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ The prediction is best read as a model artefact rather than a credible repurposi
 |------|------|
 | Original Indication | Not stated in the licence records (approved indication text is empty) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The prediction is best read as a model artefact rather than a credible repurposi
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, vecuronium blocks nicotinic acetylcholine receptors at the neuromuscular junction. This produces skeletal muscle relaxation during surgery and intubation.
 
-The mechanistic link to insomnia is weak. Vecuronium has no sedative, hypnotic or central nervous system activity. The high TxGNN score most likely reflects graph-based co-occurrence with sedative agents that are given alongside vecuronium in anaesthesia, not a therapeutic effect.
+The mechanistic link to insomnia is weak. Vecuronium has no sedative, hypnotic or central nervous system activity. The high TxGNN score (0.9934) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions show the same pattern. These include irritable bowel syndrome, neurocirculatory asthenia, benign prostatic hyperplasia, cauda equina syndrome, headache disorder, rhinitis, anxiety, trigeminal autonomic cephalalgia and migraine disorder. None has a plausible mechanism, and most have no direct evidence.
 

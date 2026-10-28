@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Alprostadil
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 40
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Alprostadil: predicted new indication Aortic malformation (evidence level L4). Approved use: Erectile dysfunction, psychologic dyspareunia, premature ejaculation…"
@@ -14,7 +14,7 @@ predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", 
 # Alprostadil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Support comes from **8 publications** (mostly case reports and small clinical st
 |------|------|
 | Original Indication | Erectile dysfunction, psychologic dyspareunia, premature ejaculation, tricuspid atresia, aortic coarctation, tetralogy of Fallot, and related congenital heart lesions (the India licence records list no approved indication text) |
 | Predicted New Indication | Aortic malformation |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -103,7 +103,7 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text):** newborn and acute respiratory distress syndrome, hypotensive disorder, blood coagulation disease, sickle cell disease and other haemoglobinopathies, lung disease, plasma cell myeloma, leukaemia, polycythaemia, thrombocytosis, pyloric stenosis, priapism, Peyronie disease, urethral stricture, urethritis, balanitis and balanoposthitis.
+- **Contraindications (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence):** newborn and acute respiratory distress syndrome, hypotensive disorder, blood coagulation disease, sickle cell disease and other haemoglobinopathies, lung disease, plasma cell myeloma, leukaemia, polycythaemia, thrombocytosis, pyloric stenosis, priapism, Peyronie disease, urethral stricture, urethritis, balanitis and balanoposthitis.
 - **Safety signals from the literature:** prolonged infusion in neonates has been linked to gastric outlet obstruction (antral foveolar hyperplasia and hypertrophic pyloric stenosis) and to pseudo-Bartter syndrome. Other recognised infusion effects in newborns include apnoea, fever and flushing.
 - **Drug interactions:** 59 interactions were identified. Moderate-level interactions were found with SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), lorcaserin and sapropterin. Others, such as morphine, metformin, prednisone, simvastatin and vancomycin, have an unclassified severity level.
 
@@ -118,7 +118,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Rationale:**
 The predicted indication largely duplicates an existing use of alprostadil in ductal-dependent aortic lesions. The supporting evidence is limited to case reports, small clinical studies and preclinical work, with no registered trials. Little genuine repurposing value has been shown.
 
-Several other predictions (congenital tricuspid stenosis, congenital valvular dysplasia, tricuspid valve agenesis and others) are model predictions only. Endemic goiter has no plausible mechanistic link and is likely a knowledge-graph artefact. Heart septal defect has some case-report support but remains at the research-question stage.
+Several other predictions (congenital tricuspid stenosis, congenital valvular dysplasia, tricuspid valve agenesis and others) are model predictions only. Endemic goiter has no plausible mechanistic link and is likely a TxGNN model (deep learning) artefact. Heart septal defect has some case-report support but remains at the research-question stage.
 
 **To proceed, the following is needed:**
 - Package insert warnings, contraindications and approved indication text for the Indian products

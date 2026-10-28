@@ -6,9 +6,9 @@ nav_order: 450
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Isoprenaline: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Common cold, nasopharyngitis, cardiac arrest, atrioventricular block"
 monitor_inn: "Isoprenaline"
 predicted_indications: ["nasal cavity disease", "headache disorder", "pharyngitis", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "bronchial disease", "endobronchial leiomyoma", "allergic urticaria", "endobronchial lipoma", "bronchus adenoma"]
+description: "Isoprenaline: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Isoprenaline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Isoprenaline: From Common Cold and Cardiac Conditions to Nasal Cavity Disease
+## Isoprenaline: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The evidence is model-prediction only, so this prediction should be treated as a
 
 | Item | Content |
 |------|------|
-| Original Indication | Common cold, nasopharyngitis, cardiac arrest, atrioventricular block (from the knowledge graph; the approved indication text in the India licenses is empty) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The evidence is model-prediction only, so this prediction should be treated as a
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, isoprenaline is a non-selective beta-adrenergic agonist. In theory, beta-2 stimulation could influence nasal vascular tone and mucosal secretion.
 
-The knowledge graph links isoprenaline to upper respiratory conditions (common cold, nasopharyngitis). The high prediction score for nasal cavity disease probably reflects this network proximity, not an independent therapeutic rationale. No direct evidence supports a benefit in nasal disease.
+The high prediction score for nasal cavity disease comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No direct evidence supports a benefit in nasal disease.
 
 The only retrieved paper describes coronary artery spasm and ventricular tachycardia after epinephrine-soaked nasal packing during intubation. It is not relevant to treating nasal disease.
 

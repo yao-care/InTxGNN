@@ -4,17 +4,17 @@ title: Flutamide
 parent: Model Prediction Only (L5)
 nav_order: 373
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Flutamide: predicted new indication Prostate cancer/brain cancer susceptibility (evidence level L5). Approved use: Prostate cancer"
 monitor_inn: "Flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Flutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Flutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+## Flutamide: Fibroma of prostate
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Flutamide is an oral androgen receptor antagonist originally used to treat prostate cancer.
-The TxGNN model's top-ranked prediction is **prostate cancer/brain cancer susceptibility**, but this label appears to be a genetic susceptibility entity rather than a treatable indication, and **no clinical trials or publications** support it.
-The broader category of **male reproductive organ cancer** (rank 6) has **43 registered trials and 20 publications**, but these are almost entirely prostate cancer studies, which is the existing indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer (from the knowledge graph; the India licence records list no approved indication text) |
-| Predicted New Indication | Prostate cancer/brain cancer susceptibility |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Fibroma of prostate |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (top-ranked prediction); the best-supported category, male reproductive organ cancer, is graded L1 but mainly reflects the existing indication |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, flutamide is a nonsteroidal androgen receptor antagonist. Its efficacy in prostate cancer is established, and the literature describes it as a "pure antiandrogen" that blocks androgen action in the prostate.
 
-The top-ranked prediction is not a convincing new indication. The prostate cancer component is simply the approved use. The brain cancer susceptibility component has no supporting mechanism, and the label looks like a genetic susceptibility entity rather than a disease that can be treated. The high score most likely reflects closeness to prostate cancer in the knowledge graph.
+The top-ranked prediction is not a convincing new indication. The prostate cancer component is simply the approved use. The brain cancer susceptibility component has no supporting mechanism, and the label looks like a genetic susceptibility entity rather than a disease that can be treated.
 
-Several other predictions are also weak. Fibroma of prostate, prostate leiomyoma and benign prostate phyllodes tumor are very rare entities with no trials or literature. Brenner tumor, an ovarian neoplasm, has no known androgen-dependent mechanism. The HIV, simian immunodeficiency virus and feline immunodeficiency predictions have no plausible link to androgen receptor blockade and appear to be graph artifacts.
+Several other predictions are also weak. Fibroma of prostate, prostate leiomyoma and benign prostate phyllodes tumor are very rare entities with no trials or literature. Brenner tumor, an ovarian neoplasm, has no known androgen-dependent mechanism.
 
 The more interesting signals are in the benign and prevention settings:
 - **Benign reproductive system neoplasm** (rank 4): androgen blockade is plausible for androgen-sensitive benign tumors such as benign prostatic hyperplasia. A 1991 study examined flutamide's effect on prostate volume, PSA and testosterone in such men.
@@ -68,7 +66,7 @@ The more interesting signals are in the benign and prevention settings:
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for the top-ranked prediction. The table below shows the most relevant trials from the male reproductive organ cancer category (rank 6), which is dominated by prostate cancer. Flutamide's role in several of these trials is not confirmed.
+No clinical trials are registered for the top-ranked prediction. Flutamide's role in several of these trials is not confirmed.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -135,7 +133,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, prostate cancer/brain cancer susceptibility, has no trials or literature and is not a treatable indication. The trial-rich category of male reproductive organ cancer mostly represents flutamide's existing prostate cancer use, not a new one. The nearest genuine repurposing signals are prostatic intraepithelial neoplasia chemoprevention (NCT00006214) and androgen-sensitive benign prostate conditions, both based on small, older studies. Flutamide's hepatotoxicity and the many drug interactions add further caution.
+The trial-rich category of male reproductive organ cancer mostly represents flutamide's existing prostate cancer use, not a new one. The nearest genuine repurposing signals are prostatic intraepithelial neoplasia chemoprevention (NCT00006214) and androgen-sensitive benign prostate conditions, both based on small, older studies. Flutamide's hepatotoxicity and the many drug interactions add further caution.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap for safety screening), including hepatotoxicity monitoring requirements

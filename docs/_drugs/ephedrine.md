@@ -4,17 +4,17 @@ title: Ephedrine
 parent: Moderate Evidence (L3-L4)
 nav_order: 312
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, bronchitis, pharyngitis…"
 monitor_inn: "Ephedrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
+description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Ephedrine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Ephedrine: From Allergic Rhinitis to Nasal Cavity Disease
+## Ephedrine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Evidence is thin: **no registered clinical trials** and **2 low-quality publicat
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, bronchitis, pharyngitis, common cold, conjunctivitis (atopic, papillary, vernal), rhinitis, nasopharyngitis, headache disorder, bronchial disease (the India license entries list no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -70,8 +70,7 @@ The benefit would be symptomatic relief (decongestion), not disease modification
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Acute laryngopharyngitis | 99.90% | L5 | No trials or literature. Likely a near-neighbour of existing pharyngitis and common cold indications. Symptomatic relief at most. Hold. |
-| Trigeminal autonomic cephalalgia | 99.34% | L5 | Computational prediction only. Mechanistic rationale is weak, because vasoconstriction does not address the hypothalamic and trigeminovascular pathways. Cardiovascular stimulation may worsen headache. Hold. |
+| Trigeminal autonomic cephalalgia | 0.9934 | L5 | Computational prediction only. Mechanistic rationale is weak, because vasoconstriction does not address the hypothalamic and trigeminovascular pathways. Cardiovascular stimulation may worsen headache. Hold. |
 
 ---
 

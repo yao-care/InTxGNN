@@ -4,17 +4,17 @@ title: Enzalutamide
 parent: Model Prediction Only (L5)
 nav_order: 310
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Enzalutamide: predicted new indication Top-ranked: prostate cancer/brain cancer susceptibility . Best-suppor… (evidence level L5). Approved use: Prostate cancer (including familial prostate carcinoma"
 monitor_inn: "Enzalutamide"
-predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "benign neoplasm of prostate", "prostate phyllodes tumor"]
+predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+description: "Enzalutamide: predicted new indication Prostate leiomyoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Enzalutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Enzalutamide: From Prostate Cancer to Male Reproductive Organ Cancer (Prostate Neoplasm)
+## Enzalutamide: Prostate leiomyoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Enzalutamide is an androgen receptor inhibitor originally used to treat prostate cancer.
-The TxGNN model's top-ranked prediction is "prostate cancer/brain cancer susceptibility", a germline susceptibility term with no evidence behind it. The best-supported candidates are **male reproductive organ cancer** (**35 clinical trials** and **20 publications**) and **prostate neoplasm** (**35 clinical trials** and **20 publications**). Both are essentially the already-approved prostate cancer indication rather than a genuinely new use.
+Both are essentially the already-approved prostate cancer indication rather than a genuinely new use.
 
 ---
 
@@ -47,12 +47,12 @@ The TxGNN model's top-ranked prediction is "prostate cancer/brain cancer suscept
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer (including familial prostate carcinoma) |
-| Predicted New Indication | Top-ranked: prostate cancer/brain cancer susceptibility (no evidence). Best-supported: male reproductive organ cancer / prostate neoplasm |
-| TxGNN Prediction Score | 99.71% (top-ranked); 99.51% (male reproductive organ cancer); 98.37% (prostate neoplasm) |
-| Evidence Level | L1 for male reproductive organ cancer and prostate neoplasm (on-label evidence); L5 for the top-ranked prediction |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Prostate leiomyoma |
+| TxGNN Prediction Score | 0.9957 |
+| Evidence Level | L5 for male reproductive organ cancer and prostate neoplasm (on-label evidence); L5 for the top-ranked prediction |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Proceed with Guardrails (restricted to prostate cancer); Hold for the other predictions |
 
 ---
@@ -63,13 +63,13 @@ Detailed mechanism-of-action data is not currently available in the data compile
 
 The high-scoring predictions are mostly different labels for prostate disease or closely related ontology terms. "Male reproductive organ cancer" and "prostate neoplasm" are parent terms that contain prostate cancer, so the supporting trial and literature evidence is almost entirely on-label prostate cancer work. This is confirmation of the existing indication, not novel repurposing. No evidence was found for other male reproductive cancers such as testicular or penile cancer.
 
-Other predictions are rare or benign prostate lesions (prostate leiomyoma, fibroma of prostate, benign prostate phyllodes tumor, prostate phyllodes tumor, benign neoplasm of prostate). They may be biologically conceivable through AR biology, but no trials or supporting literature exist. Brenner tumor has no known AR-driven biology, and its high score is likely a graph artifact. The top-ranked "prostate cancer/brain cancer susceptibility" is a germline susceptibility term, not a treatable disease state.
+Other predictions are rare or benign prostate lesions (prostate leiomyoma, fibroma of prostate, benign prostate phyllodes tumor, prostate phyllodes tumor, benign neoplasm of prostate). They may be biologically conceivable through AR biology, but no trials or supporting literature exist.
 
 ---
 
 ## Clinical Trial Evidence
 
-The table below covers the best-supported prediction groups (male reproductive organ cancer and prostate neoplasm), selecting the most relevant trials. The other predictions have no registered trials.
+The other predictions have no registered trials.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

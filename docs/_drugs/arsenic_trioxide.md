@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Arsenic Trioxide
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 71
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Arsenic Trioxide: predicted new indication Myelodysplastic syndrome (evidence level L2). Approved use: Acute promyelocytic leukemia (also myelomonocytic leukemia and AML wi…"
+description: "Arsenic Trioxide: predicted new indication unclassified myelodysplastic syndrome (evidence level L2). Approved use: Acute promyelocytic leukemia (also myelomonocytic leukemia and AML wi…"
 monitor_inn: "Arsenic trioxide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cyt
 # Arsenic Trioxide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Arsenic Trioxide: From Acute Promyelocytic Leukemia to Myelodysplastic Syndrome
+## Arsenic Trioxide: From Acute Promyelocytic Leukemia to Unclassified Myelodysplastic Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The data compiled for this report include **20 clinical trials** and **20 public
 |------|------|
 | Original Indication | Acute promyelocytic leukemia (also myelomonocytic leukemia and AML with inv(16)/t(16;16)) |
 | Predicted New Indication | Myelodysplastic syndrome (predicted_indications rank 6, the best-supported prediction; the top-scoring prediction, unclassified myelodysplastic syndrome, has no trials or literature) |
-| TxGNN Prediction Score | 99.91% (myelodysplastic syndrome); the top-ranked term, unclassified myelodysplastic syndrome, scores 99.93% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| TxGNN Prediction Score | 0.9991 (myelodysplastic syndrome); the top-ranked term, unclassified myelodysplastic syndrome, scores 0.9993 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on selection:** The highest-scoring predictions (unclassified MDS, refractory cytopenia of childhood, congenital sideroblastic anemia) have no or only indirect supporting evidence. This report therefore focuses on the broader MDS entity, which has the strongest evidence among the predictions. Aplastic-type anemia (L3) and Ewing sarcoma (L3) are secondary research questions.
@@ -132,7 +132,7 @@ A Phase 3 trial of decitabine plus arsenic trioxide (NCT03377725) was withdrawn 
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from knowledge-graph associations, not label text):** long QT syndrome (including familial), torsades de pointes, atrioventricular block, potassium deficiency, kidney disease, liver disease, gallbladder disease, and pyoureter.
+- **Contraindication-related conditions (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence):** long QT syndrome (including familial), torsades de pointes, atrioventricular block, potassium deficiency, kidney disease, liver disease, gallbladder disease, and pyoureter.
 - **Drug Interactions:** 332 interactions were identified. Major interactions include:
   - QT-prolonging agents: cisapride, clarithromycin, dolasetron, granisetron, levofloxacin
   - Hydrocortisone

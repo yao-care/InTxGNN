@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Misoprostol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 560
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Misoprostol: predicted new indication Amenorrhea (disease) (evidence level L4). Approved use: Not stated in the available India registration records"
@@ -14,7 +14,7 @@ predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 # Misoprostol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Misoprostol is a prostaglandin E1 analog marketed in India as 20 single-ingredie
 |------|------|
 | Original Indication | Not stated in the available India registration records |
 | Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 99.64% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9964 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ The retrieved literature concerns misoprostol, usually combined with mifepriston
 
 The high TxGNN score most likely reflects network proximity to reproductive and menstrual disorders, not direct therapeutic evidence. A plausible link exists only in narrow contexts, such as retained products of conception or intrauterine pathology. No evidence supports a general amenorrhea indication.
 
-A second prediction, atypical coarctation of aorta (score 99.30%), has no trials or literature at all. Prostaglandin E1 analogs such as alprostadil keep the ductus arteriosus open, which is a conceptual link. However, misoprostol is an oral, uterine-acting drug with no established role there, and it carries teratogenic risk. This is a hypothesis only.
+A second prediction, atypical coarctation of aorta (score 0.9930), has no trials or literature at all. Prostaglandin E1 analogs such as alprostadil keep the ductus arteriosus open, which is a conceptual link. However, misoprostol is an oral, uterine-acting drug with no established role there, and it carries teratogenic risk. This is a hypothesis only.
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cefoperazone
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 155
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Cefoperazone: predicted new indication Sclerosing cholangitis (evidence level L1). Approved use: Not stated in the registration records (cefoperazone is an injectable…"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-10-28
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
+description: "Cefoperazone: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cefoperazone
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Cefoperazone: From Antibacterial Therapy to Sclerosing Cholangitis
+## Cefoperazone: Sclerosing cholangitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Cefoperazone is a third-generation cephalosporin antibiotic, marketed in India as an injectable.
 The TxGNN model's top-ranked new indication for it is **sclerosing cholangitis**, but **no clinical trials and no publications** support this prediction.
-The best-supported predicted use is pneumonia, which is an established antibacterial use rather than true repurposing (see "Other Predicted Indications").
 
 ---
 
@@ -48,11 +47,11 @@ The best-supported predicted use is pneumonia, which is an established antibacte
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the registration records (cefoperazone is an injectable cephalosporin antibacterial) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -100,11 +99,10 @@ Because the top-ranked prediction has no support, here is how the other candidat
 
 | Predicted Indication | Evidence Level | Supporting Evidence | Assessment |
 |------|------|------|------|
-| **Pneumonia** (rank 3, score 99.93%) | L1 | 2 trials, 19 publications, including a randomized noninferiority trial of cefoperazone-sulbactam vs cefepime in hospital-acquired pneumonia ([PMID 31138577](https://pubmed.ncbi.nlm.nih.gov/31138577/)) and a comparison vs piperacillin-tazobactam ([PMID 34168466](https://pubmed.ncbi.nlm.nih.gov/34168466/)) | Proceed with Guardrails. This is an established antibacterial use. The trials are [NCT07671755](https://clinicaltrials.gov/study/NCT07671755) (completed, n=80, colistin ± cefoperazone-sulbactam for MDR *A. baumannii* ventilator-associated pneumonia) and [NCT02060149](https://clinicaltrials.gov/study/NCT02060149) (Phase 1/2, status unknown, n=90, indirect evidence). Guardrails are antimicrobial stewardship, local resistance patterns, and bleeding and alcohol-reaction risks. |
 | Bronchitis (rank 7) | L3 | Mostly 1980s open-label or comparative studies | Research question. Most bronchitis is viral, so stewardship applies. |
-| Meningococcal infection (rank 8) | L3 | One small 1987 preliminary report in bacterial meningitis | Research question. CSF penetration is inferior to ceftriaxone and cefotaxime. |
+| Meningococcal infection (rank 8) | L5 | One small 1987 preliminary report in bacterial meningitis | Research question. CSF penetration is inferior to ceftriaxone and cefotaxime. |
 | Infectious otitis media (rank 9) | L4 | Only indirect bacteriology and other-drug studies | Hold |
-| Rheumatoid arthritis, gout, IgG4-related sclerosing cholangitis, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome | L4–L5 | None relevant (the RA papers are case reports of infections in RA patients) | Hold. No plausible mechanism. |
+| Rheumatoid arthritis, gout, IgG4-related sclerosing cholangitis, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome | L5–L5 | None relevant (the RA papers are case reports of infections in RA patients) | Hold. No plausible mechanism. |
 
 ---
 

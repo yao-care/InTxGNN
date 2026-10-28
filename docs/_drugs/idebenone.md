@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Idebenone: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Leber hereditary optic neuropathy"
 monitor_inn: "Idebenone"
-predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
 ---
 
 # Idebenone
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Leber hereditary optic neuropathy (the Indian licence records contain no approved indication text) |
 | Predicted New Indication | Hepatic porphyria |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A speculative link to hepatic porphyria is that antioxidant activity might reduce oxidative stress in hepatocytes. However, no data support a role for idebenone in heme biosynthesis defects, so this rationale cannot be verified.
 
-The other top predictions are scored almost identically (99.9% for several hepatic vascular and liver disorders). This suggests a shared signal in the knowledge graph rather than a disease-specific mechanism. Other predicted indications include hepatopulmonary syndrome, primitive portal vein thrombosis, hepatoportal sclerosis, idiopathic copper-associated cirrhosis, and several inflammatory myopathies. All of them also lack supporting evidence.
+The other top predictions are scored identically (0.9992 for several hepatic vascular and liver disorders). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a disease-specific mechanism. Other predicted indications include hepatopulmonary syndrome, primitive portal vein thrombosis, hepatoportal sclerosis, idiopathic copper-associated cirrhosis, and several inflammatory myopathies. All of them also lack supporting evidence.
 
 ## Clinical Trial Evidence
 

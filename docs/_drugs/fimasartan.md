@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Fimasartan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 353
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Fimasartan: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "Fimasartan"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 # Fimasartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but at present there are **0 clinical trials** and only **1 preclinical publicat
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
-| TxGNN Prediction Score | 99.20% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| TxGNN Prediction Score | 0.9920 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,9 +63,9 @@ Activation of the renin-angiotensin system is implicated in pulmonary vascular r
 However, the only linked publication is a preclinical animal study of fimasartan in myocardial ischemia/reperfusion injury, which does not address pulmonary hypertension. The high TxGNN score is a computational output and is not supported by direct clinical or pulmonary-specific data.
 
 Other predicted indications share the same limitation (all are model predictions with no trials):
-- Pulmonary hypertension with unclear multifactorial mechanism (score 99.20%, evidence level L5)
-- Malignant hypertensive renal disease (score 99.16%, L5). This is closer to an extension of the original hypertension indication and would need dedicated renal and safety data.
-- Malignant renovascular hypertension (score 99.16%, L5). The mechanism is coherent, but ARBs carry a recognised concern in bilateral renal artery stenosis or stenosis in a solitary kidney.
+- Pulmonary hypertension with unclear multifactorial mechanism (score 0.9920, evidence level L5)
+- Malignant hypertensive renal disease (score 0.9916, L5). This is closer to an extension of the original hypertension indication and would need dedicated renal and safety data.
+- Malignant renovascular hypertension (score 0.9916, L5). The mechanism is coherent, but ARBs carry a recognised concern in bilateral renal artery stenosis or stenosis in a solitary kidney.
 
 ## Clinical Trial Evidence
 

@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Leishmaniasis |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.56% |
+| TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 As general background knowledge (not part of the supplied data), antimonials are known to inhibit protein tyrosine phosphatases such as SHP-1, SHP-2 and PTP1B. In theory, this could modulate bone-cell signalling in osteoclasts or osteoblasts, for example through RANKL or insulin/IGF pathways. This is speculative and has no support from the evidence gathered here.
 
-The very high TxGNN score (99.56%) is a computational prediction only, with no trials or literature to corroborate it. Antimonials also carry known toxicity, including cardiotoxicity, pancreatitis and hepatotoxicity. These risks weigh heavily against use in a chronic, non-life-threatening condition such as osteoporosis.
+The very high TxGNN score (0.9956) is a computational prediction only, with no trials or literature to corroborate it. Antimonials also carry known toxicity, including cardiotoxicity, pancreatitis and hepatotoxicity. These risks weigh heavily against use in a chronic, non-life-threatening condition such as osteoporosis.
 
 ## India Market Information
 

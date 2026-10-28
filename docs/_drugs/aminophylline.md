@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aminophylline
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 51
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Aminophylline: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated on the Indian licences in the data compiled for this report"
 monitor_inn: "Aminophylline"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
 ---
 
 # Aminophylline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This is an early-stage research question, not a validated repurposing opportunit
 |------|------|
 | Original Indication | Not stated on the Indian licences in the data compiled for this report |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L4 (mechanistic and narrative literature only; no clinical trials) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---
@@ -132,7 +132,7 @@ The prediction score is high, but the only support for migraine is one narrative
 **Other predicted indications (for context):**
 - **Pulmonary hypertension** has the most developed evidence (L3): one Phase 1 safety and pharmacokinetic trial (NCT01530464, n=18) and mostly older, small hemodynamic and preclinical studies. It remains a research question.
 - **Prinzmetal angina** and **hyperthyroidism**: the literature points to safety concerns rather than benefit.
-- **Atrophoderma vermiculata**, **ulerythema ophryogenesis**, **sciatic neuropathy** and **kyphoscoliotic heart disease** have no meaningful support and are probably knowledge-graph artifacts.
+- **Atrophoderma vermiculata**, **ulerythema ophryogenesis**, **sciatic neuropathy** and **kyphoscoliotic heart disease** have no meaningful support and are probably TxGNN model (deep learning) artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

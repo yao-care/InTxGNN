@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Obeticholic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 611
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-14
 description: "Obeticholic Acid: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not available in the data compiled for this report"
@@ -14,7 +14,7 @@ predicted_indications: ["rheumatoid arthritis", "conjunctivitis", "colobomatous 
 # Obeticholic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but t
 |------|------|
 | Original Indication | Not available in the data compiled for this report (all license records have empty indication text) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.67% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

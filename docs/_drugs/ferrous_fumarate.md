@@ -6,9 +6,9 @@ nav_order: 350
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Ferrous Fumarate: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Iron deficiency anemia and related anemias (folic acid deficiency ane…"
 monitor_inn: "Ferrous fumarate"
 predicted_indications: ["non-syndromic esophageal malformation"]
+description: "Ferrous Fumarate: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ferrous Fumarate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Ferrous Fumarate: From Iron Deficiency Anemia to Non-Syndromic Esophageal Malformation
+## Ferrous Fumarate: Non-syndromic esophageal malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia and related anemias (folic acid deficiency anemia, anemia of prematurity, hypochromic anemia, microcytic anemia, deficiency anemia); acne is also listed in the knowledge graph. The India license record contains no approved indication text. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Non-syndromic esophageal malformation |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Non-syndromic esophageal malformations (for example esophageal atresia or tracheoesophageal fistula) are congenital structural defects arising from abnormal embryonic foregut development. Iron supplementation is not known to correct or treat such defects.
 
-The very high TxGNN score (99.49%) is a knowledge-graph prediction only. It most likely reflects network proximity or shared gene/pathway associations rather than a pharmacologically plausible effect. Oral iron can also irritate the esophagus and gastrointestinal tract, which argues against benefit in a structurally abnormal esophagus. This prediction should therefore be treated with considerable caution.
+The very high TxGNN score (0.9949) is a TxGNN model (deep learning) prediction only. It most likely reflects network proximity or shared gene/pathway associations rather than a pharmacologically plausible effect. Oral iron can also irritate the esophagus and gastrointestinal tract, which argues against benefit in a structurally abnormal esophagus. This prediction should therefore be treated with considerable caution.
 
 ## Clinical Trial Evidence
 
@@ -78,7 +78,7 @@ Currently no related literature available.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: The following conditions are linked to ferrous fumarate as contraindications in the knowledge graph:
+- **Contraindications (database associations, not label text)**: The following conditions are listed as contraindications for ferrous fumarate (these are database associations, not predictions or scores from the TxGNN model):
   - Iron overload and metabolism: hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease
   - Blood disorders: sickle cell anemia, hereditary persistence of fetal hemoglobin
   - Porphyrias: inherited porphyria, porphyrin metabolism disease, porphyria

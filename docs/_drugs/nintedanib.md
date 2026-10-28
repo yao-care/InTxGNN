@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nintedanib
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 598
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L4). Approved use: Non-small cell lung carcinoma, idiopathic pulmonary fibrosis"
 monitor_inn: "Nintedanib"
-predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "axial spondylometaphyseal dysplasia", "amyotrohpic lateral sclerosis type 22", "fibroblastic neoplasm", "kidney fibrosarcoma", "conventional fibrosarcoma", "amyotrophic lateral sclerosis, susceptibility to"]
+predicted_indications: ["dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
+description: "Nintedanib: predicted new indication Dermatofibrosarcoma protuberans (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nintedanib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Nintedanib: From Non-Small Cell Lung Carcinoma and Pulmonary Fibrosis to Dermatofibrosarcoma Protuberans
+## Nintedanib: Dermatofibrosarcoma protuberans
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but at present only **1 review article** supports this direction, and **no clini
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-small cell lung carcinoma, idiopathic pulmonary fibrosis (the Indian licence records contain no approved indication text; indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.15% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9915 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -108,7 +108,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.15%), and the PDGFR-beta mechanism is plausible for DFSP. However, the only supporting evidence is one indirect review, there are no clinical trials, and an established PDGFR-targeted therapy (imatinib) already exists. Safety review also cannot proceed until the package insert data are obtained.
+The prediction score is high (0.9915), and the PDGFR-beta mechanism is plausible for DFSP. However, the only supporting evidence is one indirect review, there are no clinical trials, and an established PDGFR-targeted therapy (imatinib) already exists. Safety review also cannot proceed until the package insert data are obtained.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India Pharma source (a blocking data gap for safety screening)

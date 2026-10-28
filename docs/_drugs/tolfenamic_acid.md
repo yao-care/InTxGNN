@@ -4,17 +4,17 @@ title: Tolfenamic Acid
 parent: Model Prediction Only (L5)
 nav_order: 844
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Tolfenamic Acid: predicted new indication Headache disorder (evidence level L5). Approved use: Not stated in the available India licence data"
 monitor_inn: "Tolfenamic acid"
-predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "exostosis", "inclusion body myositis", "osteoarthritis susceptibility"]
+predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia", "exostosis", "inclusion body myositis"]
 ---
 
 # Tolfenamic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Tolfenamic acid is an NSAID marketed in India as Clotan Capsule. The approved in
 |------|------|
 | Original Indication | Not stated in the available India licence data |
 | Predicted New Indication | Headache disorder |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L1 (see note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 0.9974 |
+| Evidence Level | L5 (see note below) |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The literature includes several randomised double-blind trials in migraine (1979–2004), but none is a registered Phase 3 trial, so L1 rests on published RCTs rather than on the strict "two completed Phase 3 RCTs" definition. No clinical trial registry records are available.

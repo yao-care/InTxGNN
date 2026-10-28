@@ -4,7 +4,7 @@ title: Tacrolimus
 parent: High Evidence (L1-L2)
 nav_order: 802
 evidence_level: L2
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). Approved use: Atopic eczema / atopic dermatitis"
 monitor_inn: "Tacrolimus"
@@ -14,7 +14,7 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 # Tacrolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **3** 
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **2 clinical trials** (one completed Phase 3 and one completed Phase 4) and
 |------|------|
 | Original Indication | Atopic eczema / atopic dermatitis |
 | Predicted New Indication | Seborrheic dermatitis |
-| TxGNN Prediction Score | 99.26% |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

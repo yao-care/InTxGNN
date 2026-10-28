@@ -4,7 +4,7 @@ title: Ceritinib
 parent: Model Prediction Only (L5)
 nav_order: 164
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Ceritinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma"
 monitor_inn: "Ceritinib"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Ceritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ceritinib: From Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Ceritinib: From Non-Small Cell Lung Cancer to fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ This is a purely computational signal and should be treated as a hypothesis, not
 |------|------|
 | Original Indication | Non-small cell lung carcinoma; lung cancer (the approved indication text is not available in the India registration record) |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ This is a purely computational signal and should be treated as a hypothesis, not
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ceritinib is a kinase inhibitor with activity against ALK, ROS1 and IGF-1R. Its efficacy in ALK-rearranged non-small cell lung cancer is established, but it has no established role in gingival fibromatosis.
 
-The relationship between the original and predicted indications is weak. Gingival fibromatosis is a benign overgrowth of gum tissue. There is no known link between ALK/ROS1 signalling and this condition. The high score (99.86%) most likely reflects proximity in the knowledge graph rather than a biological rationale.
+The relationship between the original and predicted indications is weak. Gingival fibromatosis is a benign overgrowth of gum tissue. There is no known link between ALK/ROS1 signalling and this condition. The high score (0.9986) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top predictions show the same pattern:
 - **Lung-related tumours** (fibroma of lung, hamartoma of lung, lung hilum carcinoma, pulmonary sulcus neoplasm): these are in the same organ as the approved indication. Malignant ALK-positive cases would already fall under the current indication. For benign tumours, there is no evidence that ALK/ROS1 drives them.

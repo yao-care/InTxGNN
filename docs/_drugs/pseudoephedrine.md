@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pseudoephedrine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 712
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis…"
 monitor_inn: "Pseudoephedrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "allergic urticaria"]
 ---
 
 # Pseudoephedrine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ This prediction largely overlaps with the drug's existing uses, so it is better 
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold and related conditions (the licence records contain no approved indication text) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

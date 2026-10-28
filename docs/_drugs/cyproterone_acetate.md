@@ -4,17 +4,17 @@ title: Cyproterone Acetate
 parent: Moderate Evidence (L3-L4)
 nav_order: 222
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Cyproterone Acetate: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the India license records (the drug's general clinical…"
 monitor_inn: "Cyproterone acetate"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "migraine with or without aura, susceptibility to", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ This prediction is a computational signal only and should be treated with cautio
 |------|------|
 | Original Indication | Not stated in the India license records (the drug's general clinical use is androgen-dependent conditions, acne and hirsutism in women, and contraception) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Migraine, particularly menstrual and hormone-related migraine, is plausibly sensitive to sex-steroid fluctuation. A review of progestin effects on the brain notes that progestins interact with GABA-A receptors and dopamine and opioid systems, and that cyproterone acetate increases dopaminergic responses and binds opiate receptors independently of its classical action. This offers a loose biological link.
 
-However, no retrieved paper shows that cyproterone acetate treats migraine. Estrogen-containing cyproterone products carry migraine-related vascular warnings, so the direction of effect is uncertain and could be harmful. The high TxGNN score reflects a knowledge-graph association, not demonstrated benefit.
+However, no retrieved paper shows that cyproterone acetate treats migraine. Estrogen-containing cyproterone products carry migraine-related vascular warnings, so the direction of effect is uncertain and could be harmful. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Two related predictions, *migraine with brainstem aura* and *migraine with or without aura, susceptibility to*, rest on the same weak basis. The literature for them concerns thrombotic and vascular risk of hormonal contraception, which is a safety signal rather than evidence of benefit.
 

@@ -4,17 +4,17 @@ title: Roxithromycin
 parent: Model Prediction Only (L5)
 nav_order: 757
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Roxithromycin: predicted new indication Leprosy (evidence level L5). Approved use: Respiratory tract, urinary and soft tissue infections"
 monitor_inn: "Roxithromycin"
-predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension", "migraine disorder", "female breast carcinoma"]
+predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
 ---
 
 # Roxithromycin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but there are **no registered clinical trials** and only **5 publications** (mos
 |------|------|
 | Original Indication | Respiratory tract, urinary and soft tissue infections (from pharmacology reference data; no approved indication text is available in the Indian licence records) |
 | Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.70% |
-| Evidence Level | L3 (generous; strictly between L3 and L4, as the evidence is mostly preclinical) |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9970 |
+| Evidence Level | L5 (generous; strictly between L3 and L4, as the evidence is mostly preclinical) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

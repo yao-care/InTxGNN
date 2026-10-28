@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 |------|------|
 | Original Indication | Not stated in the registration data compiled for this report (the drug is generally described as a muscle relaxant) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 A link to sleep regulation through GABAergic or glycinergic modulation is conceivable, but it is speculative. The direction of effect is unclear: the drug could be sleep-promoting, or it could be arousing or pro-convulsant. No trial or publication supports this link, and the reasoning rests on general pharmacology knowledge only.
 
-A second prediction, **alcohol withdrawal delirium** (score 99.21%, also L5, Hold), was also generated. It is conceptually relevant because alcohol withdrawal involves GABA hypofunction. However, GABA-A antagonism and pro-convulsant potential would be a safety concern in a condition that already carries seizure risk, so the predicted benefit may be mechanistically contradictory. Benzodiazepines are also the established standard of care.
+A second prediction, **alcohol withdrawal delirium** (score 0.9921, also L5, Hold), was also generated. It is conceptually relevant because alcohol withdrawal involves GABA hypofunction. However, GABA-A antagonism and pro-convulsant potential would be a safety concern in a condition that already carries seizure risk, so the predicted benefit may be mechanistically contradictory. Benzodiazepines are also the established standard of care.
 
 ## India Market Information
 

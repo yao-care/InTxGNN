@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Psychotic disorder, schizophreniform disorder, schizoaffective disorder, schizophrenia, Tourette syndrome |
 | Predicted New Indication | Congenital disorder of glycosylation with defective fucosylation |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Haloperidol is generally understood as a high-affinity dopamine D2 receptor antagonist, and its efficacy in psychotic disorders is well established.
 
-No plausible mechanistic link could be identified between D2 antagonism and defective fucosylation, a congenital metabolic disorder of protein glycosylation. The high score (99.91%) is a model output only. Haloperidol could at most offer symptomatic help for neuropsychiatric features, which would not be disease-modifying. This prediction should therefore be treated as a hypothesis with no supporting evidence.
+No plausible mechanistic link could be identified between D2 antagonism and defective fucosylation, a congenital metabolic disorder of protein glycosylation. The high score (0.9991) is a model output only. Haloperidol could at most offer symptomatic help for neuropsychiatric features, which would not be disease-modifying. This prediction should therefore be treated as a hypothesis with no supporting evidence.
 
 ## Clinical Trial Evidence
 

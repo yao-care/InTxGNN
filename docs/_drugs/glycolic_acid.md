@@ -6,9 +6,9 @@ nav_order: 399
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Glycolic Acid: predicted new indication Esophageal disease (evidence level L5). Approved use: Not specified (the registered product is a cosmetic-type foaming face…"
+description: "Glycolic Acid: predicted new indication atypical coarctation of aorta (evidence level L5). Approved use: Not specified (the registered product is a cosmetic-type foaming face…"
 monitor_inn: "Glycolic acid"
-predicted_indications: ["atypical coarctation of aorta", "non-syndromic esophageal malformation", "esophageal disease", "potassium deficiency disease", "aortic malformation", "sclerosing cholangitis", "disorder of carbohydrate absorption and transport", "hyperinsulinemic hypoglycemia, familial", "autosomal recessive hyperinsulinism due to SUR1 deficiency", "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency"]
+predicted_indications: ["atypical coarctation of aorta", "non-syndromic esophageal malformation", "esophageal disease", "potassium deficiency disease", "aortic malformation", "sclerosing cholangitis", "disorder of carbohydrate absorption and transport", "hyperinsulinemic hypoglycemia, familial", "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency", "autosomal recessive hyperinsulinism due to SUR1 deficiency"]
 ---
 
 # Glycolic Acid
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Glycolic Acid: From an Unspecified Original Indication to Esophageal Disease
+## Glycolic Acid: From an Unspecified Original Indication to Atypical Coarctation of Aorta
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Glycolic acid is currently marketed in India as an ingredient of a topical face wash, and no approved medical indication is recorded for it.
-The TxGNN model predicts it may be relevant to **esophageal disease**, but this is a graph-based prediction supported by **0 clinical trials** and only **indirect preclinical literature**.
+The TxGNN model (deep learning) predicts it may be relevant to **atypical coarctation of aorta**, but this score may reflect similarities the model learned between related diseases, not biological evidence, and it is supported by **0 clinical trials** and only **indirect preclinical literature**.
 The retrieved papers concern glycolic acid-containing polymers (PGA, PLGA) used as biomaterials, not glycolic acid as an active drug.
 
 ---
@@ -50,10 +50,10 @@ The retrieved papers concern glycolic acid-containing polymers (PGA, PLGA) used 
 |------|------|
 | Original Indication | Not specified (the registered product is a cosmetic-type foaming face wash with no approved indication text) |
 | Predicted New Indication | Esophageal disease (the highest-ranked prediction, atypical coarctation of aorta, has no supporting evidence at all; esophageal disease is the highest-ranked prediction with any literature) |
-| TxGNN Prediction Score | 99.69% (esophageal disease); 99.72% for the top-ranked atypical coarctation of aorta |
-| Evidence Level | L4 (esophageal disease); L5 for the top-ranked prediction |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 0.9969 (esophageal disease); 0.9972 for the top-ranked atypical coarctation of aorta |
+| Evidence Level | L5 (esophageal disease); L5 for the top-ranked prediction |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Glycolic acid is 
 
 The retrieved literature on esophageal disease concerns polyglycolic acid (PGA) sheets and PLGA-based materials. These are used as stent coatings, scaffolds, and drug carriers to prevent or treat esophageal stricture. Glycolic acid is only a degradation monomer of these polymers. The therapeutic effect in these studies comes from the device, the carrier, or the loaded drug (paclitaxel, bFGF, triamcinolone), not from glycolic acid itself. The mechanistic link is therefore indirect and does not support a therapeutic indication for glycolic acid.
 
-The other top predictions, including atypical coarctation of aorta, non-syndromic esophageal malformation, potassium deficiency disease, sclerosing cholangitis, and several familial hyperinsulinism disorders, have no identifiable pharmacological rationale and no supporting trials or literature. Their high scores reflect graph-based prediction only.
+The other top predictions, including non-syndromic esophageal malformation, esophageal disease, potassium deficiency disease, sclerosing cholangitis, and several familial hyperinsulinism disorders, have no identifiable pharmacological rationale and no supporting trials or literature. Their high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -110,7 +110,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The predictions rest on graph-based scores alone. The only supporting literature for esophageal disease concerns glycolic acid-based polymers as device or carrier materials, not glycolic acid as a drug. The only registered product is a topical face wash, so there is no established therapeutic use to build on.
+The predictions rest on TxGNN model (deep learning) scores alone, which may reflect similarities the model learned between related diseases, not biological evidence. The only supporting literature for esophageal disease concerns glycolic acid-based polymers as device or carrier materials, not glycolic acid as a drug. The only registered product is a topical face wash, so there is no established therapeutic use to build on.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for glycolic acid

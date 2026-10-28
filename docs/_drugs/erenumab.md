@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Erenumab
-parent: Moderate Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 318
-evidence_level: L4
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Erenumab: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Erenumab: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Erenumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,59 +32,45 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Erenumab: From Migraine Prevention to Migraine with Brainstem Aura
+<!-- known-uses-page -->
+<!-- description: Erenumab: known uses and market status in India; currently no new candidate indication -->
+## Erenumab: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+All candidates produced by the TxGNN model for Erenumab (score ≥ 0.99) that can be traced to a source are already known uses, so there is currently no new predicted indication. The one known use found is related to an approved indication in the same disease category. It is not itself recorded as approved.
 
-Erenumab is a monoclonal antibody against the CGRP receptor, originally used to prevent migraine.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
-but there are **no registered clinical trials** and **no subtype-specific publications**. Only indirect evidence from broader migraine-with-aura populations is available (**20 publications** compiled, mostly general migraine studies).
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder (the India license record contains no approved indication text) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Erenumab is a monoclonal antibody that blocks the CGRP receptor. In laboratory assays it abolishes CGRP-stimulated cAMP production (IC50 about 2.3 nM) and is about 5,000-fold selective for the CGRP receptor over other human calcitonin-family receptors. Detailed mechanism-of-action data were not available in the compiled record, so this description draws on pharmacology data and general knowledge of the drug.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Migraine with brainstem aura is a clinical subtype of migraine with aura. CGRP signalling is implicated in trigeminovascular activation across migraine subtypes, so a mechanistic link is plausible. Erenumab is already established for migraine prevention.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| migraine with brainstem aura | migraine |
 
-An important caveat: none of the supplied studies examined patients with brainstem aura specifically. The closest evidence is a secondary analysis of randomised trials in migraine with and without aura, plus vascular safety analyses. This is a class-level extrapolation, not subtype-specific proof. The high TxGNN score is a computational prediction and is not clinical evidence.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30360965](https://pubmed.ncbi.nlm.nih.gov/30360965/) | 2018 | RCT (Phase 3b) | Lancet | Randomised, double-blind, placebo-controlled study of erenumab in episodic migraine after 2–4 failed preventive treatments |
-| [34928306](https://pubmed.ncbi.nlm.nih.gov/34928306/) | 2022 | Secondary analysis of RCTs | JAMA Neurol | Erenumab safety and efficacy in migraine with and without aura. Closest available evidence |
-| [37012858](https://pubmed.ncbi.nlm.nih.gov/37012858/) | 2023 | Systematic review | Int Immunopharmacol | Efficacy of erenumab for prevention of episodic and chronic migraine |
-| [36942409](https://pubmed.ncbi.nlm.nih.gov/36942409/) | 2023 | Post hoc pooled analysis | Headache | Cardiovascular and vascular safety of erenumab in migraine with and without aura |
-| [41888647](https://pubmed.ncbi.nlm.nih.gov/41888647/) | 2026 | Prospective study (REFORM) | J Headache Pain | Changes in migraine aura frequency during and after erenumab treatment |
-| [32867533](https://pubmed.ncbi.nlm.nih.gov/32867533/) | 2021 | Mechanistic study | Cephalalgia | Erenumab did not alter cerebral hemodynamics or endothelial function in migraine without aura |
-| [42390441](https://pubmed.ncbi.nlm.nih.gov/42390441/) | 2026 | Pharmacoepidemiologic cohort | Cephalalgia | Cerebrovascular risk of CGRP antibodies versus onabotulinumtoxinA |
-| [35538414](https://pubmed.ncbi.nlm.nih.gov/35538414/) | 2022 | Real-world retrospective | J Headache Pain | Twelve-month safety and tolerability of erenumab |
-| [35151970](https://pubmed.ncbi.nlm.nih.gov/35151970/) | 2022 | Real-world study | Clin Neurol Neurosurg | Effectiveness and safety of erenumab in chronic migraine |
-| [30725283](https://pubmed.ncbi.nlm.nih.gov/30725283/) | 2019 | Review | Handb Exp Pharmacol | Role of CGRP in migraine pathophysiology |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 214766 | Suviray Injection (Novartis India Ltd) | Vial of 1, solution for injection | Not stated in the available record |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 214766 | Suviray Injection | vial of 1 Solution for Injection | Valid |
 
 ## Safety Considerations
 
@@ -92,19 +79,6 @@ Currently no related clinical trials registered.
 
 Please refer to the package insert for other safety information, including warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is mechanistically plausible, but evidence is at L4: no registered trials, no brainstem-aura-specific studies, and only indirect data from broader migraine-with-aura populations. The India package insert safety data are also missing.
-
-**To proceed, the following is needed:**
-- Subtype-specific data in migraine with brainstem aura (case series, registry data, or a dedicated trial)
-- India package insert warnings, contraindications and approved indication text
-- Detailed mechanism-of-action data
-- Review of the REFORM aura-frequency study (PMID 41888647) and vascular safety data in patients with aura
-- Assessment of the similarity between the original and new indication, and of route compatibility (erenumab is injectable)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

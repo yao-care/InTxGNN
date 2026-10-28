@@ -6,9 +6,9 @@ nav_order: 678
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Idiopathic pulmonary fibrosis"
 monitor_inn: "Pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
+description: "Pirfenidone: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pirfenidone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pirfenidone: From Idiopathic Pulmonary Fibrosis to Extracutaneous Mastocytoma
+## Pirfenidone: Extracutaneous mastocytoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and idiopathic interstitial pneumonia, per the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Extracutaneous mastocytoma |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -131,7 +131,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (99.71%), with no clinical trials or publications for extracutaneous mastocytoma. Mastocytoma is driven mainly by KIT signalling, and no mechanistic link to pirfenidone is supported by the available data.
+The prediction rests only on a model score (0.9971), with no clinical trials or publications for extracutaneous mastocytoma. Mastocytoma is driven mainly by KIT signalling, and no mechanistic link to pirfenidone is supported by the available data.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for pirfenidone

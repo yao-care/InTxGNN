@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chlordiazepoxide
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 171
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Chlordiazepoxide: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Anxiety, alcohol withdrawal, peptic ulcer disease…"
 monitor_inn: "Chlordiazepoxide"
-predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "myofascial pain syndrome"]
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "myofascial pain syndrome"]
 ---
 
 # Chlordiazepoxide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are **n
 |------|------|
 | Original Indication | Anxiety, alcohol withdrawal, peptic ulcer disease, irritable bowel syndrome and others (the India licences list no approved indication text) |
 | Predicted New Indication | Insomnia (disease) |
-| TxGNN Prediction Score | 99.998% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

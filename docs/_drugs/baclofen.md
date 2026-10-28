@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 |------|------|
 | Original Indication | Not stated in the licence records (baclofen is generally known as a spasticity treatment) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.32% |
+| TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 (model prediction only, no direct studies) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -104,7 +104,7 @@ Please refer to the package insert for label-based warnings and contraindication
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.32%), but no clinical trials exist and no retrieved paper shows that baclofen improves ADHD symptoms. The evidence is model prediction only (L5). The safety signals in the knowledge graph (epilepsy, psychotic disorders) are also relevant to a neuropsychiatric population.
+The TxGNN score is very high (0.9932), but no clinical trials exist and no retrieved paper shows that baclofen improves ADHD symptoms. The evidence is model prediction only (L5). The safety signals in the knowledge graph (epilepsy, psychotic disorders) are also relevant to a neuropsychiatric population.
 
 **To proceed, the following is needed:**
 - Direct evidence, such as case series or a pilot trial of baclofen in ADHD
@@ -112,7 +112,7 @@ The TxGNN score is very high (99.32%), but no clinical trials exist and no retri
 - Package insert warnings and contraindications for Indian-marketed products
 - A safety assessment for seizure risk, psychiatric comorbidity and use in children and adolescents
 
-**Note:** The second predicted indication, **nicotine dependence** (score 99.19%), has stronger support at evidence level L2. It has three Phase 2 baclofen trials in smokers (one completed with 44 participants, two terminated early) and consistent preclinical data. It deserves a separate evaluation as a research question, although no Phase 3 evidence is available.
+**Note:** The second predicted indication, **nicotine dependence** (score 0.9919), has stronger support at evidence level L2. It has three Phase 2 baclofen trials in smokers (one completed with 44 participants, two terminated early) and consistent preclinical data. It deserves a separate evaluation as a research question, although no Phase 3 evidence is available.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

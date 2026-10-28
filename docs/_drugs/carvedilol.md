@@ -4,17 +4,17 @@ title: Carvedilol
 parent: Model Prediction Only (L5)
 nav_order: 150
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "Carvedilol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Carvedilol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Carvedilol: From Hypertension to Malignant Hypertensive Renal Disease
+## Carvedilol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no publications** specific to this indication were 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The new indication is very close to the original one. Malignant hypertensive renal disease is a severe, kidney-damaging form of hypertension, so the high score may largely reflect proximity to the existing hypertension label rather than a genuinely new repurposing signal. In clinical practice, malignant hypertension is usually managed with rapid-acting parenteral agents, so the role of an oral beta-blocker is uncertain and cannot be verified from the available data.
 
-The same model also ranks other related predictions: malignant renovascular hypertension (99.55%, also L5, no trials or literature), two forms of pulmonary hypertension (99.54%), and Braddock syndrome (99.37%, no identifiable mechanistic link). Among these, the pulmonary hypertension entry linked to lung disease and/or hypoxia has the only retrieved literature (indirect, mostly preclinical, L4). It includes a rat study showing carvedilol reversed hypertension induced by chronic intermittent hypoxia (PMID 26291659) and a rat study showing adrenergic blockade reversed right heart remodeling in pulmonary hypertension (PMID 20508210). Beta-blockade in lung disease and pulmonary arterial hypertension carries safety concerns.
+The same model also ranks other related predictions: malignant renovascular hypertension (0.9955, also L5, no trials or literature), two forms of pulmonary hypertension (0.9954), and Braddock syndrome (0.9937, no identifiable mechanistic link). Among these, the pulmonary hypertension entry linked to lung disease and/or hypoxia has the only retrieved literature (indirect, mostly preclinical, L4). It includes a rat study showing carvedilol reversed hypertension induced by chronic intermittent hypoxia (PMID 26291659) and a rat study showing adrenergic blockade reversed right heart remodeling in pulmonary hypertension (PMID 20508210). Beta-blockade in lung disease and pulmonary arterial hypertension carries safety concerns.
 
 ## Clinical Trial Evidence
 
@@ -86,7 +86,7 @@ All products are oral tablets (immediate-release, controlled-release, and extend
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** liver failure, asthma (including intrinsic and allergic), bronchitis, pulmonary emphysema and other bronchial disease, diabetes mellitus, diabetic ketoacidosis, hypotensive disorder, peripheral vascular disease (including intermittent claudication and peripheral arterial disease), atrioventricular block, sick sinus syndrome (including the familial form), Prinzmetal angina, anaphylaxis, intraoperative floppy iris syndrome.
+- **Contraindications (not label text):** liver failure, asthma (including intrinsic and allergic), bronchitis, pulmonary emphysema and other bronchial disease, diabetes mellitus, diabetic ketoacidosis, hypotensive disorder, peripheral vascular disease (including intermittent claudication and peripheral arterial disease), atrioventricular block, sick sinus syndrome (including the familial form), Prinzmetal angina, anaphylaxis, intraoperative floppy iris syndrome.
 - **Drug Interactions:** 329 interactions were recorded. The main one is **Epinephrine (Major)**. Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), bupropion, morphine, atropine, hyoscyamine, lorcaserin, canagliflozin, acetohexamide, and calcium salts (phosphate, acetate, carbonate, citrate). Minor interactions include acetylsalicylic acid, aluminum hydroxide, and attapulgite.
 - For pulmonary hypertension in particular, the non-selective beta-blockade raises a theoretical bronchospasm concern in lung disease and hypoxia.
 

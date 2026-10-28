@@ -4,17 +4,17 @@ title: Atenolol
 parent: Model Prediction Only (L5)
 nav_order: 77
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-14
-description: "Atenolol: predicted new indication Posterolateral myocardial infarction (evidence level L5). Approved use: Hypertension, myocardial infarction"
+indication_count: 5
 monitor_inn: "Atenolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-10-23
+description: "Atenolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension and myocardial infarction"
 ---
 
 # Atenolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Atenolol: From Hypertension and Myocardial Infarction to Posterolateral Myocardial Infarction
+## Atenolol: From Hypertension to Malignant Hypertensive Renal Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Atenolol is a beta-1 selective blocker, originally used to treat hypertension and myocardial infarction.
-The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**, but this is an anatomical subtype of an indication it already covers, so it is not a true repurposing candidate. There are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
+Atenolol is a beta-1 selective blocker whose original uses recorded in the knowledge graph are hypertension and myocardial infarction.
+The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**,
+but **no clinical trials and no publications** directly studying this disease were found, so the prediction rests on the model score alone.
 
 ---
 
@@ -47,23 +48,23 @@ The TxGNN model predicts it may be effective for **posterolateral myocardial inf
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, myocardial infarction (the registration records compiled for India contain no approved indication text) |
-| Predicted New Indication | Posterolateral myocardial infarction |
-| TxGNN Prediction Score | 99.87% |
+| Original Indication | Hypertension and myocardial infarction (relations recorded in the knowledge graph; the licence records contain no indication text) |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, atenolol is a cardioselective beta-blocker. Its efficacy in hypertension and myocardial infarction is established, and mechanistically it may be applicable to myocardial infarction at other locations. Beta-1 blockade lowers heart rate and myocardial oxygen demand, which can limit ischaemic injury.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, atenolol is a beta-1 selective blocker. It lowers blood pressure by reducing cardiac output and renin release.
 
-Posterolateral myocardial infarction describes where the infarct sits in the heart, not a different disease. The high TxGNN score mainly reflects how close this term is to the already approved myocardial infarction indication in the knowledge graph. It is not new evidence of benefit. No trials or literature were retrieved for this subtype.
+Hypertension is a relation recorded in the knowledge graph for atenolol, and malignant hypertensive renal disease is kidney injury caused by severely elevated blood pressure. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mechanistically, lowering blood pressure and renin release is biologically plausible for this condition.
 
-Other predictions in the same list show the same pattern. Posteroinferior and septal myocardial infarction are also subtypes of an approved use. Malignant hypertensive renal disease and malignant renovascular hypertension are severe forms of hypertension. Pulmonary hypertension, chronic pulmonary heart disease and Braddock syndrome have weak or unfavourable rationales and are not supported by direct clinical evidence.
+However, malignant hypertension is usually managed with parenteral antihypertensives and renin-angiotensin system blockade. Nothing in the data compiled for this report supports a role for atenolol in this disease.
 
 ---
 
@@ -75,37 +76,32 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for posterolateral myocardial infarction.
+Currently no related literature available for malignant hypertensive renal disease.
 
-For the closely related subtype **posteroinferior myocardial infarction**, one article was retrieved. It is indirect support only:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | RCT (single-blind, crossover) | La Revue de medecine interne | Atenolol 200 mg vs diltiazem 240 mg compared for anti-ischaemic activity in 23 patients undergoing retraining 4 weeks after a postero-inferior or anterior myocardial infarction; the title does not specify an MI subtype |
+For context, the other predicted indications drew only indirect literature. The pulmonary hypertension and chronic pulmonary heart disease searches returned mostly animal, mechanistic or general beta-blocker papers. These do not study atenolol in those diseases directly, and some findings conflict. For example, one rat study (PMID 8590992) reported reduced hypoxia-induced right heart hypertrophy with beta-blockade, while a rabbit study (PMID 6212672) found no such effect. Evidence for these diseases is therefore not strong enough to change the decision here.
 
 ---
 
 ## India Market Information
 
-The compiled registration records show 20 valid single-ingredient registrations and no cancelled ones. Approved indication text is not available in these records. Five main registrations are listed:
+At least 20 single-ingredient atenolol registrations are valid, and the list may be partial. The records contain no approved-indication text. Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 54419 | Cadpres 100mg Tablet | Strip of 14 tablets | Not available |
-| 105077 | Hyten 50mg Tablet | Strip of 10 tablets | Not available |
-| 28378 | BP-Nol 100mg Tablet | Strip of 10 tablets | Not available |
-| 3862 | AT Tablet | Strip of 10 tablets | Not available |
-| 218444 | Tenil 50 Tablet | Strip of 10 tablets | Not available |
+| 54419 | Cadpres 100mg Tablet | Strip of 14 tablets | Not stated in the records |
+| 105077 | Hyten 50mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 28378 | BP-Nol 100mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 3862 | AT Tablet | Strip of 10 tablets | Not stated in the records |
+| 218444 | Tenil 50 Tablet | Strip of 10 tablets | Not stated in the records |
 
 ---
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph** (these come from drug-disease relationships in the model's knowledge graph, not from package insert text): liver failure, anxiety and neurotic disorders, pancreatitis, systemic lupus erythematosus, asthma (including intrinsic and allergic), potassium deficiency, psoriasis, gout and hyperuricaemia, anuria, hypercalcaemia, nephrocalcinosis, type 1 and type 2 diabetes mellitus, diabetic ketoacidosis, atrioventricular block, Raynaud disease, and anaphylaxis.
-- **Drug Interactions**: 293 interactions were recorded. Those retrieved include moderate-level interactions with epinephrine, hydrocortisone and other corticosteroids (triamcinolone, betamethasone, budesonide), hyoscyamine, atropine, bupropion, morphine, acetohexamide, and calcium salts (acetate, carbonate, citrate, gluconate and others). Minor-level interactions include acetylsalicylic acid, aluminium hydroxide and attapulgite.
-- **Other considerations from the compiled analysis**: atenolol is cleared by the kidneys and needs dose adjustment in renal impairment. Beta-blockers carry a theoretical risk of reducing right ventricular reserve in pulmonary hypertension, and they are not a first-line choice for hypertensive emergencies.
+- **Contraindication relations recorded in the knowledge graph (not label text):** liver failure, asthma (including intrinsic and allergic asthma), atrioventricular block, Raynaud disease, anaphylaxis, diabetes mellitus (types 1 and 2) and diabetic ketoacidosis, systemic lupus erythematosus, psoriasis, gout, pancreatitis, anuria, and several metabolic or mood disorders (anxiety, dysthymic and neurotic disorders, potassium deficiency, hypercalcaemia, nephrocalcinosis).
+- **Drug Interactions:** 293 interactions are recorded. Examples at Moderate level include epinephrine, hydrocortisone, morphine, bupropion, atropine, calcium salts and several corticosteroids. Acetylsalicylic acid, aluminium hydroxide and attapulgite are Minor.
 
-Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the authoritative safety information.
+Please refer to the package insert for label warnings and contraindications.
 
 ---
 
@@ -114,13 +110,13 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-Posterolateral myocardial infarction is a subtype of an indication atenolol already holds, so the high score reflects graph proximity rather than new therapeutic evidence. No trials or literature support this specific prediction (evidence level L5).
+The prediction has a high model score but no trials or publications that directly study atenolol in malignant hypertensive renal disease, so the evidence level is L5. Standard care for this condition relies on other drug classes. The knowledge graph also records several contraindications relevant to patients with kidney or metabolic disease.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India regulator's records (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A decision on whether this subtype adds anything beyond the existing myocardial infarction indication. If not, focus on predictions with real repurposing potential instead.
-- Approved indication text for the India registrations, to confirm the current labelled uses
+- Clinical or observational data on atenolol in malignant hypertension with renal involvement
+- Mechanism of action data and package insert warnings and contraindications (not yet available)
+- Comparison against current standard therapy for this condition
+- A safety plan covering the contraindication signals and interactions listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

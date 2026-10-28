@@ -6,9 +6,9 @@ nav_order: 496
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Lobeglitazone: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Lobeglitazone"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia"]
+description: "Lobeglitazone: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lobeglitazone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Lobeglitazone: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+## Lobeglitazone: Focal stiff limb syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (from the knowledge graph; the India license record does not state an indication) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Focal stiff limb syndrome |
-| TxGNN Prediction Score | 99.17% |
+| TxGNN Prediction Score | 0.9917 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,12 +60,12 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 Focal stiff limb syndrome is a rare variant of the stiff-person spectrum. It is usually considered autoimmune and is linked to impaired GABAergic or glycinergic inhibition. The only conceivable route to a benefit is PPAR-gamma-mediated immunomodulation, which is speculative and unvalidated. No direct mechanistic link has been established.
 
-The high TxGNN score (99.17%) reflects a pattern found by the model in the knowledge graph. It is not evidence of efficacy.
+The high TxGNN score (0.9917) comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence. It is not evidence of efficacy.
 
 Other predictions produced for this drug have equally weak support:
-- **Classic stiff person syndrome** (score 99.17%): associated with anti-GAD65 autoimmunity and with autoimmune comorbidities such as type 1 diabetes. Any benefit would be hypothetical, and glycemic management is a separate matter from disease modification.
-- **Thiamine-responsive dysfunction syndrome** (score 99.10%): involves defective thiamine transport. Insulin sensitization might address the diabetic component but would not correct the underlying defect.
-- **Opsismodysplasia** (score 99.08%): a skeletal dysplasia caused by INPPL1 mutations. Thiazolidinediones are associated with reduced bone mass and increased fracture risk, which is a potential safety concern in this condition.
+- **Classic stiff person syndrome** (score 0.9917): associated with anti-GAD65 autoimmunity and with autoimmune comorbidities such as type 1 diabetes. Any benefit would be hypothetical, and glycemic management is a separate matter from disease modification.
+- **Thiamine-responsive dysfunction syndrome** (score 0.9910): involves defective thiamine transport. Insulin sensitization might address the diabetic component but would not correct the underlying defect.
+- **Opsismodysplasia** (score 0.9908): a skeletal dysplasia caused by INPPL1 mutations. Thiazolidinediones are associated with reduced bone mass and increased fracture risk, which is a potential safety concern in this condition.
 
 All four predictions are at evidence level L5 with a Hold recommendation.
 

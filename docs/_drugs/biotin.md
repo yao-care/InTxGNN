@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-14
-description: "Biotin: predicted new indication Dyspepsia (evidence level L5). Approved use: Nutritional biotin deficiency"
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
+last_modified_at: 2026-10-27
+description: "Biotin: predicted new indication dyspepsia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Biotin
@@ -33,86 +33,89 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Biotin: From Nutritional Biotin Deficiency to Dyspepsia
+## Biotin: Vitamin B7, a carboxylase cofactor → dyspepsia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Biotin (vitamin B7) was originally used to treat nutritional biotin deficiency.
-The TxGNN model predicts it may be effective for **dyspepsia**, but there are currently **no registered clinical trials** and **no publications that show biotin treating dyspepsia**. This is a model-generated hypothesis only.
+Biotin (vitamin B7) is a cofactor for carboxylase enzymes involved in carbohydrate, fat and amino acid metabolism. The TxGNN model predicts it may be useful for **dyspepsia**, with a score of 0.9943. However, **no clinical trials** and **no publications that show biotin treating dyspepsia** are available, so this remains a model prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Nutritional biotin deficiency (from the TxGNN knowledge graph; no approved indication text appears on the Indian licences) |
-| Predicted New Indication | Dyspepsia |
-| TxGNN Prediction Score | 99.43% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | dyspepsia |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, biotin is a water-soluble vitamin that serves as a cofactor for carboxylase enzymes involved in carbohydrate, fat and amino acid metabolism. Its efficacy in correcting biotin deficiency is established.
+Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, biotin is a cofactor for carboxylases that take part in carbohydrate, fat and amino acid metabolism. Deficiency can cause gastrointestinal symptoms such as nausea and loss of appetite.
 
-Deficiency can cause gastrointestinal symptoms such as nausea and loss of appetite. This offers at most a loose, indirect link to dyspepsia, and it would apply only in a deficiency state, not in general functional dyspepsia.
+This gives only a loose, indirect link to dyspepsia. It would apply at most in a deficiency state, not in general functional dyspepsia. No supporting mechanism specific to dyspepsia is established in the available data, so the prediction should be treated as hypothesis-generating.
 
-The very high model score (99.43%) is not backed by any established mechanism in the data compiled for this report. The same applies to the second-ranked prediction, gastroparesis (score 99.42%), which has no trials, no literature and no evident biological link to biotin. Both predictions are hypothesis-generating only.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-The six retrieved publications are indirect. Only the first involves biotin, and none shows that biotin treats dyspepsia.
+None of the retrieved publications shows that biotin treats dyspepsia. The only biotin-related item is a case report in which dyspepsia was the reason for an amino acid formula diet, and biotin deficiency followed.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Case report | The Journal of Dermatology | Biotin deficiency in an infant fed only an amino acid formula after a neonatal dyspepsia diagnosis; presented with alopecia and dermatitis, with low serum and urine biotin |
-| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Clinical article | Eksp Klin Gastroenterol | A prebiotic supplement containing multiple vitamins (including biotin) for gut microbiota disorders in patients on antibiotics; not biotin-specific |
-| [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Observational | Int J Mol Med | Stomach antral endocrine cells in irritable bowel syndrome; not biotin-related |
-| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Observational | World J Gastrointest Endosc | Endocrine cells in the stomach's oxyntic mucosa in irritable bowel syndrome; not biotin-related |
-| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Observational | J Clin Pathol | Interleukin 10 in Helicobacter pylori gastritis; not biotin-related |
-| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Observational | Kidney Int | Small bowel T cells in IgA nephropathy; not biotin-related |
+| [15863846](https://pubmed.ncbi.nlm.nih.gov/15863846/) | 2005 | Case report | The Journal of Dermatology | A 5-month-old infant diagnosed with dyspepsia as a neonate and fed only an amino acid formula developed biotin deficiency (alopecia, scaly dermatitis) with low serum and urine biotin. This is deficiency caused by diet, not treatment of dyspepsia. |
+| [21695955](https://pubmed.ncbi.nlm.nih.gov/21695955/) | 2011 | Clinical article | Eksperimental'naia i klinicheskaia gastroenterologiia | A prebiotic and vitamin supplement (biotin is one of many ingredients) was studied for gut microbiota disorders in patients with lung disease on antibiotics. It is not specific to biotin or dyspepsia. |
+| [25110039](https://pubmed.ncbi.nlm.nih.gov/25110039/) | 2014 | Observational | International Journal of Molecular Medicine | Stomach antral endocrine cells in irritable bowel syndrome. Not related to biotin. |
+| [24891930](https://pubmed.ncbi.nlm.nih.gov/24891930/) | 2014 | Observational | World Journal of Gastrointestinal Endoscopy | Endocrine cells in the stomach's oxyntic mucosa in irritable bowel syndrome. Not related to biotin. |
+| [11304845](https://pubmed.ncbi.nlm.nih.gov/11304845/) | 2001 | Observational | Journal of Clinical Pathology | Interleukin 10 in Helicobacter pylori gastritis. Not related to biotin. |
+| [10354275](https://pubmed.ncbi.nlm.nih.gov/10354275/) | 1999 | Observational | Kidney International | Small bowel T cells and stress protein in IgA nephropathy. Not related to biotin. |
+
+---
 
 ## India Market Information
 
-All 18 registrations are valid single-ingredient oral tablets, and none has approved indication text on record. Five are listed below.
+Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled. The licence records carry no approved indication text. Main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 27963 | B7F 5mg/1mg Tablet | Strip of 15 tablets | Not specified |
-| Registration No. 85165 | Folivern-Plus Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 115809 | Kerashine-F Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 86266 | Finrest-B 10mg/1mg Tablet | Strip of 10 tablets | Not specified |
-| Registration No. 27618 | Bkosa-F Tablet | Strip of 10 tablets | Not specified |
+| 27963 | B7F 5mg/1mg Tablet | Strip of 15 tablets | Not recorded |
+| 85165 | Folivern-Plus Tablet | Strip of 10 tablets | Not recorded |
+| 115809 | Kerashine-F Tablet | Strip of 10 tablets | Not recorded |
+| 86266 | Finrest-B 10mg/1mg Tablet | Strip of 10 tablets | Not recorded |
+| 27618 | Bkosa-F Tablet | Strip of 10 tablets | Not recorded |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Label warnings and contraindications are not available in the data compiled for this report; please refer to the package insert. No drug interaction records were found.
 
-The knowledge graph links biotin to contraindication-type relationships with the following conditions. These come from graph relationships, not label text, and should be verified:
-- Kidney disease, nephrolithiasis, nephrocalcinosis and acute urate nephropathy
-- Hypercalcaemia, hyperparathyroidism, osteitis fibrosa and phosphorus metabolism disease
-- Sarcoidosis, pyoureter, constipation disorder and lytic metastatic bone lesion
-
-No drug interaction data were found.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials, no supporting literature and no established mechanism linking biotin to dyspepsia or gastroparesis. The benefit is plausible only in the setting of deficiency.
+The prediction rests only on a high model score. There are no clinical trials, and no cited study shows biotin treating dyspepsia. The mechanism data are missing, and the link to dyspepsia is indirect at best.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and a clearer biological rationale for gastrointestinal effects
-- Package insert warnings and contraindications from the Indian regulator, which are currently missing and block safety screening
-- Targeted literature review or pilot studies of biotin in dyspepsia, ideally in patients with confirmed biotin deficiency
-- Clarification of the approved indications for the Indian registrations
+- Mechanism of action data and a plausible biological link between biotin and dyspepsia
+- Clinical or observational studies that directly examine biotin in dyspepsia
+- Package insert warnings and contraindications from the India regulatory source for safety screening
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

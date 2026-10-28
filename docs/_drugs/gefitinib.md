@@ -4,17 +4,17 @@ title: Gefitinib
 parent: Model Prediction Only (L5)
 nav_order: 387
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Gefitinib: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: Non-small cell lung cancer / lung cancer"
 monitor_inn: "Gefitinib"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
+description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Gefitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Gefitinib: From Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Gefitinib: Fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **0 clinical trials** and **0 publications** currently supporting this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-small cell lung cancer / lung cancer (from the knowledge graph; the Indian licence records contain no indication text) |
-| Predicted New Indication | Gingival fibromatosis |
-| TxGNN Prediction Score | 99.89% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Fibromatosis, gingival |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

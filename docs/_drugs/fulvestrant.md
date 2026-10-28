@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fulvestrant
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 384
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Fulvestrant: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not stated in the India licence data compiled for this report (fulves…"
@@ -14,7 +14,7 @@ predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia"
 # Fulvestrant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Fulvestrant is an estrogen receptor antagonist and degrader, marketed in India a
 |------|------|
 | Original Indication | Not stated in the India licence data compiled for this report (fulvestrant is known to be used in HR-positive advanced breast cancer) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 (preclinical/mechanistic evidence only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences: 20 of 20) |
+| Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -107,7 +107,7 @@ Please refer to the package insert for key warnings and contraindications; this 
 **Decision: Hold**
 
 **Rationale:**
-The only support for HIV is a single in vitro study and a tangential HTLV-1 paper, with no clinical trials. The high TxGNN score (99.91%) reflects network proximity rather than clinical evidence. Other predicted indications fare no better: the trials matched to "multiple endocrine neoplasia" are actually breast cancer studies (the approved use), and rheumatoid arthritis evidence is indirect and possibly contradictory (estrogen blockade worsened inflammation in a rat model). Treat HIV as a research question rather than a development candidate.
+The only support for HIV is a single in vitro study and a tangential HTLV-1 paper, with no clinical trials. The high TxGNN score (0.9991) reflects network proximity rather than clinical evidence. Other predicted indications fare no better: the trials matched to "multiple endocrine neoplasia" are actually breast cancer studies (the approved use), and rheumatoid arthritis evidence is indirect and possibly contradictory (estrogen blockade worsened inflammation in a rat model). Treat HIV as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India licence holders (currently missing; this blocks safety screening)

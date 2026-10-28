@@ -6,9 +6,9 @@ nav_order: 607
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Norethisterone: predicted new indication Amenorrhea (evidence level L4). Approved use: Endometriosis, primary ovarian failure, postmenopausal osteoporosis…"
 monitor_inn: "Norethisterone"
 predicted_indications: ["amenorrhea (disease)"]
+description: "Norethisterone: predicted new indication Amenorrhea (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Norethisterone
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Norethisterone: From Endometriosis and Ovarian Failure to Amenorrhea
+## Norethisterone: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **no registered clinical trials** and only **20 publicat
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis, primary ovarian failure, postmenopausal osteoporosis, postmenopausal atrophic vaginitis, acne (from the knowledge graph; no approved indication text in the India licences) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.60% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

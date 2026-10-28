@@ -6,7 +6,7 @@ nav_order: 68
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Arginine: predicted new indication Gastroparesis (evidence level L4). Approved use: Not stated in the available licence data"
+description: "Arginine: predicted new indication gastroparesis (evidence level L4). Approved use: Not stated in the available licence data"
 monitor_inn: "Arginine"
 predicted_indications: ["gastroparesis (disease)"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Arginine: From Unspecified Original Indication to Gastroparesis
+## Arginine: From Unspecified Original Indication to gastroparesis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,10 +46,10 @@ Arginine is an amino acid marketed in India as a single-ingredient oral product 
 |------|------|
 | Original Indication | Not stated in the available licence data |
 | Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

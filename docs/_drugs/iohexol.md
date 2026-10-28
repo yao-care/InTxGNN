@@ -4,17 +4,17 @@ title: Iohexol
 parent: Model Prediction Only (L5)
 nav_order: 442
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Iohexol: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
+description: "Iohexol: predicted new indication insomnia (disease) (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
 monitor_inn: "Iohexol"
-predicted_indications: ["insomnia (disease)", "anxiety", "rheumatoid arthritis", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "sleep disorder, initiating and maintaining sleep", "heparin cofactor 2 deficiency", "fibromyalgia", "conjunctivitis", "tendinitis"]
+predicted_indications: ["insomnia (disease)", "anxiety"]
 ---
 
 # Iohexol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Iohexol: From Iodinated Contrast Imaging Agent to Insomnia
+## Iohexol: From Iodinated Contrast Imaging Agent to insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,17 +46,17 @@ Iohexol is a non-ionic iodinated radiographic contrast agent that is marketed in
 |------|------|
 | Original Indication | Not stated in the registration data compiled for this report (iohexol is used as a radiographic contrast agent) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, iohexol is a non-ionic, water-soluble iodinated contrast medium that is cleared by the kidneys. It is used to visualize blood vessels, the spinal canal, joints and other structures during imaging.
 
-Iohexol is pharmacologically inert and has no known activity on sleep-regulating pathways. There is no plausible mechanistic link between a contrast agent and insomnia. The very high TxGNN score (99.87%) most likely reflects a graph-embedding artifact. The same applies to the closely related prediction "sleep disorder, initiating and maintaining sleep".
+Iohexol is pharmacologically inert and has no known activity on sleep-regulating pathways. There is no plausible mechanistic link between a contrast agent and insomnia. The very high TxGNN score (0.9987) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions were also reviewed: anxiety, rheumatoid arthritis, antithrombin deficiency type 2, factor 5 excess with spontaneous thrombosis, heparin cofactor 2 deficiency, fibromyalgia, conjunctivitis and tendinitis. None has a supporting mechanism or therapeutic evidence. Where literature exists, iohexol appears only as a diagnostic or imaging tool, or as the cause of adverse reactions. It never appears as a treatment.
 

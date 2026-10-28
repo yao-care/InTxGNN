@@ -4,17 +4,17 @@ title: Thiopental
 parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Thiopental: predicted new indication Trichotillomania (evidence level L5). Approved use: Epilepsy, pseudotumor cerebri, intracranial hypertension"
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
+description: "Thiopental: predicted new indication Trichotillomania (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Thiopental
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,35 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Thiopental: From Epilepsy and Intracranial Hypertension to Trichotillomania
+## Thiopental: Trichotillomania
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Thiopental is a barbiturate originally listed for epilepsy, pseudotumor cerebri and intracranial hypertension.
 The TxGNN model predicts it may be effective for **trichotillomania**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
-This is a graph-based prediction only, and the top-ranked prediction is not the most credible one in the list (see the note below on frontal lobe epilepsy).
+This is a prediction from the TxGNN model (deep learning) only, and the score may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy, pseudotumor cerebri, intracranial hypertension (from the knowledge graph; the India licence records carry no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, thiopental is a barbiturate that enhances GABA-A receptor activity, and its efficacy in seizure control is established. Mechanistically, however, there is no established rationale linking this to trichotillomania, a compulsive hair-pulling disorder.
 
-The high TxGNN score (99.95%) reflects a pattern in the knowledge graph, not clinical or laboratory evidence. No trials or publications were found for this indication, so the prediction should be treated as a hypothesis only.
+The high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or publications were found for this indication, so the prediction should be treated as a hypothesis only.
 
 **Other predictions worth noting:**
-- **Frontal lobe epilepsy (score 99.94%, evidence level L4)** is the most plausible candidate. Thiopental is already used for refractory seizures and status epilepticus, so this is closer to an extension of an existing indication than a true repurposing. The available literature (a thiopental test in 103 epilepsy surgery patients and several case reports) is indirect or anecdotal, and none of it is a controlled study of thiopental as treatment for frontal lobe epilepsy.
 - **Absence epilepsy (L4)** has indirect evidence only (mainly status epilepticus protocols and case reports). GABAergic enhancement can also aggravate absence seizures in some settings.
 - **Substance abuse/dependence (L4)**: the literature shows that barbiturates cause tolerance and dependence rather than treat it. These are safety signals, not therapeutic evidence, and the indication is not supported.
 - **Prinzmetal angina, migraine disorder, Tourette syndrome, migraine with brainstem aura, obsolete bundle branch block, and nephrogenic syndrome of inappropriate antidiuresis** have no relevant clinical evidence. The few retrieved articles concern other substances or use thiopental only as an anaesthetic in animal experiments.
@@ -74,7 +73,6 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for trichotillomania.
 
-For the closest candidate, frontal lobe epilepsy, the retrieved literature is listed below for reference.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

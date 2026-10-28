@@ -4,17 +4,17 @@ title: Losartan
 parent: Model Prediction Only (L5)
 nav_order: 504
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension, hypertensive disorder, diabetic nephropathy"
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Losartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Losartan: From Hypertension to Malignant Hypertensive Renal Disease
+## Losartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but the data compiled for this report contain **no clinical trials** and only **
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, hypertensive disorder, diabetic nephropathy (from the knowledge graph; no approved indication text is available in the India license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,9 +61,8 @@ Currently, detailed mechanism of action data is not available in the compiled da
 Malignant hypertensive renal disease is a severe form of kidney damage driven by very high blood pressure. It overlaps closely with losartan's existing uses in blood pressure control and renal protection. The only supporting paper is a rat model study showing that angiotensin II and NF-κB signaling contribute to malignant hypertensive nephrosclerosis. This makes AT1 blockade biologically plausible, but it is preclinical evidence only.
 
 Other predictions in the list have similarly limited support:
-- **Malignant renovascular hypertension** (score 99.73%, L4): one case report of enalapril plus losartan in Takayasu's arteritis and one rat methods paper. ARBs can reduce renal perfusion in bilateral renal artery stenosis, so caution is needed.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.71%, L4): a small human study showed losartan abolished intermittent-hypoxia-induced oxidative stress, and rat studies link AT1 blockade to hypoxia-induced right ventricular hypertrophy. A high-altitude trial found no benefit. No study tests pulmonary hypertension outcomes in patients.
-- **Brain small vessel disease 1 with or without ocular anomalies** (score 99.37%, L4): evidence is indirect, drawn from Marfan syndrome ARB reviews, Alport syndrome, and sporadic small vessel disease studies.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9971, L4): a small human study showed losartan abolished intermittent-hypoxia-induced oxidative stress, and rat studies link AT1 blockade to hypoxia-induced right ventricular hypertrophy. A high-altitude trial found no benefit. No study tests pulmonary hypertension outcomes in patients.
+- **Brain small vessel disease 1 with or without ocular anomalies** (score 0.9937, L4): evidence is indirect, drawn from Marfan syndrome ARB reviews, Alport syndrome, and sporadic small vessel disease studies.
 - Pulmonary hypertension with unclear multifactorial mechanism, Braddock syndrome, Prinzmetal angina, and a rare COL4A1-related hematuria syndrome are prediction-only, with no trials or literature.
 
 ## Clinical Trial Evidence

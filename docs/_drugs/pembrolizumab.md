@@ -4,7 +4,7 @@ title: Pembrolizumab
 parent: Model Prediction Only (L5)
 nav_order: 654
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma, lung cancer, metastatic melanoma"
 monitor_inn: "Pembrolizumab"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with 
 # Pembrolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 |------|------|
 | Original Indication | Non-small cell lung carcinoma, lung cancer, metastatic melanoma (the India licence record has no approved-indication text) |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

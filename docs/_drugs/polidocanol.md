@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Polidocanol
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 683
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Varicose disease"
 monitor_inn: "Polidocanol"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
+description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Polidocanol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Polidocanol: From Varicose Disease to Esophageal Varices with Bleeding
+## Polidocanol: Esophageal varices with bleeding
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ and although **no registered clinical trials** were found, **20 publications** (
 
 | Item | Content |
 |------|------|
-| Original Indication | Varicose disease (from the knowledge graph; no approved indication text in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Esophageal varices with bleeding |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L1 (based on the supplied scoring; supported by randomized trials in the literature, with no registered trials) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -109,8 +109,8 @@ Several randomized trials and comparative studies describe polidocanol sclerothe
 - A monitoring plan for stricture, dysphagia and ulceration
 
 **Other predictions:**
-- Esophageal varices without bleeding (score 99.95%): Research Question. The evidence for prevention is indirect, and guidelines favor beta-blockers or band ligation.
-- The remaining eight predictions (for example, immunoerythromyeloid hypoplasia, retinal and cone disorders, and monosomy X) have no trials, no literature and no plausible mechanistic link. They are Hold and are likely graph artifacts.
+- Esophageal varices without bleeding (score 0.9995): Research Question. The evidence for prevention is indirect, and guidelines favor beta-blockers or band ligation.
+- The remaining eight predictions (for example, immunoerythromyeloid hypoplasia, retinal and cone disorders, and monosomy X) have no trials, no literature and no plausible mechanistic link. They are Hold. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

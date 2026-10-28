@@ -4,17 +4,17 @@ title: Telbivudine
 parent: Model Prediction Only (L5)
 nav_order: 811
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Telbivudine: predicted new indication Chronic hepatitis C virus infection (evidence level L5). Approved use: Chronic hepatitis B virus infection"
 monitor_inn: "Telbivudine"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
+description: "Telbivudine: predicted new indication Chronic hepatitis C virus infection (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Telbivudine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Telbivudine: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+## Telbivudine: Chronic hepatitis C virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis B virus infection (registration records list no indication text, so this comes from the drug-disease relationship data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Chronic hepatitis C virus infection |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Published literature describes telbivudine as a thymidine nucleoside analogue that selectively inhibits HBV DNA polymerase. Its efficacy in chronic hepatitis B is well established.
 
-The mechanistic link to hepatitis C is weak. HCV replicates through an RNA-dependent RNA polymerase (NS5B), which differs structurally and functionally from HBV DNA polymerase. HCV is now treated with direct-acting antivirals. The high score most likely reflects the closeness of hepatitis B and hepatitis C in the knowledge graph, since both are chronic viral hepatitis. It does not reflect demonstrated antiviral activity.
+The mechanistic link to hepatitis C is weak. HCV replicates through an RNA-dependent RNA polymerase (NS5B), which differs structurally and functionally from HBV DNA polymerase. HCV is now treated with direct-acting antivirals. The high score most likely reflects similarities the TxGNN model (deep learning) learned between related diseases, since both are chronic viral hepatitis, not biological evidence. It does not reflect demonstrated antiviral activity.
 
 The retrieved literature supports this reading. Most papers are reviews covering both hepatitis B and C, and none shows telbivudine acting against HCV.
 

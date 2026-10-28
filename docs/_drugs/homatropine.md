@@ -6,9 +6,9 @@ nav_order: 409
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Homatropine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the India licence records. The knowledge graph lists pe…"
 monitor_inn: "Homatropine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "overactive bladder (disease)"]
+description: "Homatropine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Homatropine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Homatropine: From Peptic Ulcer Disease and Uveitis to Cauda Equina Syndrome
+## Homatropine: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India licence records. The knowledge graph lists peptic ulcer disease, uveitis, iris disease, ciliary body disease, cycloplegia, irritable bowel syndrome and others |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ---
@@ -121,7 +121,7 @@ The marketed products are eye drops. Systemic use for the predicted indications 
 **Decision: Hold**
 
 **Rationale:**
-The 99.89% TxGNN score is a computational prediction only, with no clinical trials or publications behind it. Marketed homatropine products in India are ophthalmic only. Better-studied antimuscarinics already exist for the bladder-related predictions, and surgery is the definitive treatment for cauda equina syndrome.
+The 0.9989 TxGNN score is a computational prediction only, with no clinical trials or publications behind it. Marketed homatropine products in India are ophthalmic only. Better-studied antimuscarinics already exist for the bladder-related predictions, and surgery is the definitive treatment for cauda equina syndrome.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the marketed products, which are currently missing and block safety screening

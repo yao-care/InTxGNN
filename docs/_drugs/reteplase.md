@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Reteplase
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 735
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Reteplase: predicted new indication Posterolateral myocardial infarction (evidence level L4). Approved use: Myocardial infarction, coronary thrombosis"
 monitor_inn: "Reteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "heparin cofactor 2 deficiency", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "antithrombin deficiency type 2", "hemolytic anemia due to glucophosphate isomerase deficiency"]
+description: "Reteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Reteplase
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Reteplase: From Myocardial Infarction to Posterolateral Myocardial Infarction
+## Reteplase: Congenital coronary artery anomaly
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Reteplase is a recombinant tissue plasminogen activator (a clot-dissolving drug) originally used to treat myocardial infarction and coronary thrombosis.
-The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**, but this is an anatomical subtype of the already-approved indication rather than a true new use.
 Evidence is thin: **0 registered clinical trials** and **1 publication** (a case report), so the support is essentially model prediction.
 
 ---
@@ -48,12 +47,12 @@ Evidence is thin: **0 registered clinical trials** and **1 publication** (a case
 
 | Item | Content |
 |------|------|
-| Original Indication | Myocardial infarction, coronary thrombosis (hemoglobinopathy is also listed in the knowledge graph) |
-| Predicted New Indication | Posterolateral myocardial infarction |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Congenital coronary artery anomaly |
+| TxGNN Prediction Score | 0.9980 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,13 +61,12 @@ Evidence is thin: **0 registered clinical trials** and **1 publication** (a case
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, reteplase is a recombinant tissue plasminogen activator that converts plasminogen to plasmin and dissolves fibrin clots in occluded coronary arteries. Its efficacy in acute myocardial infarction is established, and mechanistically it applies to any infarction caused by a thrombus in a coronary artery.
 
-Posterolateral myocardial infarction is defined by the part of the heart wall affected, not by a different disease process. It therefore falls under the existing myocardial infarction indication. The very high TxGNN score most likely reflects its closeness to the parent myocardial infarction node in the knowledge graph. For this reason it is not a true repurposing candidate.
+Posterolateral myocardial infarction is defined by the part of the heart wall affected, not by a different disease process. It therefore falls under the existing myocardial infarction indication. For this reason it is not a true repurposing candidate.
 
 Other predictions in the list are weaker still:
 - **Coronary stenosis** has the most reteplase-specific literature, but this comes from the facilitated-PCI era, and that strategy has since fallen out of favor.
 - **Septal myocardial infarction** is another subtype of the approved indication.
 - **Thrombophilias** (heparin cofactor 2 deficiency, antithrombin deficiency type 2) would benefit from thrombolysis only during an acute thrombotic event, not for the underlying disorder.
-- **Congenital coronary anomaly, beta-thalassemia, chromosome 16 partial deletion and glucophosphate isomerase deficiency hemolytic anemia** have no plausible disease-modifying role for a fibrinolytic and are likely graph artifacts.
 
 ---
 

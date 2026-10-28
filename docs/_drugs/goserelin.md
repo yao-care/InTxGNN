@@ -6,7 +6,7 @@ nav_order: 401
 evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Goserelin: predicted new indication Amenorrhea (evidence level L3). Approved use: Endometriosis"
+description: "Goserelin: predicted new indication amenorrhea (evidence level L3). Approved use: Endometriosis"
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Goserelin: From Endometriosis to Amenorrhea
+## Goserelin: From Endometriosis to amenorrhea
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The data compiled for this report include **1 clinical trial** (of low relevance
 |------|------|
 | Original Indication | Endometriosis (the data compiled for this report show no approved-indication text in the India licences) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not formally available in the data compiled
 
 This is why the prediction is biologically plausible, but it also limits its value. Amenorrhea is already seen as an on-target effect of goserelin in its existing endometriosis and breast cancer uses. It serves there as a marker of ovarian suppression, or as ovarian protection during chemotherapy. Whether amenorrhea is a treatment goal (for example, controlling abnormal uterine bleeding) or an adverse effect depends on the clinical context. It is therefore better viewed as a research question than as a new, separate indication.
 
-Two other predictions (renal hypoplasia and bilateral renal hypoplasia, scores about 99.06%) have no clinical or literature support and no plausible mechanistic link to GnRH agonism. They are likely knowledge-graph artefacts and are not pursued here.
+Two other predictions (renal hypoplasia and bilateral renal hypoplasia, scores about 0.9906) have no clinical or literature support and no plausible mechanistic link to GnRH agonism. They are likely TxGNN model (deep learning) artefacts and are not pursued here.
 
 ---
 

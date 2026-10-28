@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dapoxetine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 231
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
-description: "Dapoxetine: predicted new indication Migraine disorder (evidence level L4). Approved use: Premature ejaculation"
 monitor_inn: "Dapoxetine"
 predicted_indications: ["migraine disorder", "dysthymic disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-10-27
+description: "Dapoxetine: predicted new indication migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dapoxetine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,35 +33,33 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Dapoxetine: From Premature Ejaculation to Migraine Disorder
+## Dapoxetine: selective serotonin reuptake inhibitor (SSRI) → migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dapoxetine is a short-acting selective serotonin reuptake inhibitor (SSRI), originally used to treat premature ejaculation.
-The TxGNN model predicts it may be effective for **migraine disorder**, but this is currently a computational prediction only, with **0 clinical trials** and **2 publications** (only 1 of which is a general review that touches on the topic) supporting this direction.
+Dapoxetine is a short-acting selective serotonin reuptake inhibitor (SSRI) that is marketed in India under a number of single-ingredient licences.
+The TxGNN model predicts it may be useful for **migraine disorder**, but there are **no registered clinical trials** and **no publication that directly studies dapoxetine in migraine**, so the prediction rests on the model score and an indirect mechanistic rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Premature ejaculation (the India licence records contain no approved indication text; this indication comes from the knowledge graph) |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | migraine disorder |
+| TxGNN Prediction Score | 0.9934 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dapoxetine is a short-acting SSRI that blocks the serotonin transporter (SERT, gene SLC6A4). Its efficacy in premature ejaculation is established, and mechanistically it may be applicable to migraine.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Pharmacology data show that dapoxetine acts on the serotonin transporter (SERT, gene SLC6A4) and is a short-acting SSRI.
 
-Serotonergic dysregulation is implicated in migraine, and some SSRIs and other serotonergic agents have been explored for migraine prevention. This provides a plausible but indirect rationale. The very high TxGNN score is a computational prediction and does not replace dapoxetine-specific data.
+Serotonergic dysregulation is implicated in migraine, and some serotonergic agents and SSRIs have been explored for migraine prevention. This gives a plausible but indirect rationale for the prediction. One review of off-label SSRI uses covers migraine among many other conditions, but it concerns the SSRI class in general and not dapoxetine.
 
-There is also a practical mismatch. Dapoxetine is rapidly absorbed and cleared, and it is designed for on-demand use. Migraine prevention typically needs chronic, steady dosing, so the drug's pharmacokinetic profile is poorly suited to this use.
-
-Two other predictions were also generated: dysthymic disorder (score 99.14%, evidence level L5) and migraine with brainstem aura (score 99.11%, evidence level L5). The former is mechanistically plausible for an SSRI, but established SSRIs with chronic-dosing data already exist. The latter probably scores high because it sits close to the parent migraine term in the ontology, not because of subtype-specific evidence.
+There are also practical concerns. Dapoxetine is designed for short-acting, on-demand dosing, whereas migraine prevention usually needs chronic daily dosing. The very high score is a computational output only and should not be read as clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -71,41 +69,41 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33998993](https://pubmed.ncbi.nlm.nih.gov/33998993/) | 2022 | Review | Current Neuropharmacology | Reviews off-label uses of SSRIs as a class, including migraine; contains no dapoxetine-specific migraine data |
+| [33998993](https://pubmed.ncbi.nlm.nih.gov/33998993/) | 2022 | Review | Current Neuropharmacology | Review of off-label uses of SSRIs as a class, with migraine among the conditions covered; not specific to dapoxetine |
 | [23504864](https://pubmed.ncbi.nlm.nih.gov/23504864/) | 2013 | Cohort | Urologia | Treatment compliance with dapoxetine in premature ejaculation; not related to migraine |
+
+Neither publication directly studies dapoxetine in migraine disorder.
 
 ## India Market Information
 
-Twenty single-ingredient dapoxetine licences are valid and none are cancelled. The records contain no approved indication text. The five main licences are listed below.
+The data list 20 valid single-ingredient licences and none cancelled; the list may be partial. The licence records carry no approved-indication text. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 26353 | Bold Care 30 Tablet (Oddity Healthcare) | Strip of 4 tablets | Not stated in the records |
-| Registration No. 11465 | Amjoy 60mg Tablet (Albert David) | Strip of 4 tablets | Not stated in the records |
-| Registration No. 58268 | Duralast 30 Tablet (Sun Pharmaceutical) | Strip of 4 tablets | Not stated in the records |
-| Registration No. 58680 | Dejac 30 Tablet (Intas Pharmaceuticals) | Strip of 4 tablets | Not stated in the records |
-| Registration No. 59888 | Dapoxy 30mg Tablet (Alembic Pharmaceuticals) | Strip of 6 tablets | Not stated in the records |
+| 26353 | Bold Care 30 Tablet | Strip of 4 tablets | Not recorded |
+| 11465 | Amjoy 60mg Tablet | Strip of 4 tablets | Not recorded |
+| 120971 | Long Drive 30mg Tablet | Strip of 4 tablets | Not recorded |
+| 60135 | Duraject 30mg Tablet | Strip of 2 tablets | Not recorded |
+| 58268 | Duralast 30 Tablet | Strip of 4 tablets | Not recorded |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query completed with one entry, which is pharmacological rather than a drug-drug interaction. Dapoxetine's target is the serotonin transporter (SERT), which it inhibits as a short-acting SSRI. Because of this serotonergic action, caution is warranted when it is combined with other serotonergic agents.
-- **Regional approval context**: Dapoxetine is not approved by the US FDA. Several national agencies, including those in Austria, Germany, Italy, Portugal, New Zealand and the UK, have granted marketing authorisation. A US Phase 3 trial (NCT00211094) has been completed, but approval has not been granted.
+Please refer to the package insert for safety information.
 
-Please refer to the package insert for warnings and contraindications.
+Pharmacology data identify SERT as the target of dapoxetine. No specific drug-interaction records with other drugs are available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but rests on a computational score alone, with no migraine-specific trials or literature for dapoxetine. Its short half-life and on-demand design also fit poorly with the chronic dosing migraine prevention usually requires.
+The prediction has only a high model score and an indirect serotonergic rationale. No trial or publication directly addresses dapoxetine in migraine, and its on-demand, short-acting profile does not fit the chronic prophylactic dosing usually needed for migraine.
 
 **To proceed, the following is needed:**
-- India package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Dapoxetine-specific preclinical or clinical evidence in migraine
-- An assessment of whether the pharmacokinetics support a prophylactic regimen
-- A comparison against established SSRIs and other migraine preventives that already have chronic-dosing data
+- Dapoxetine-specific preclinical or clinical data in migraine
+- Mechanism-of-action data from DrugBank to support the mechanistic link
+- Package insert warnings and contraindications from the India licence holders
+- Assessment of whether a dosing regimen suitable for migraine prevention is feasible
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

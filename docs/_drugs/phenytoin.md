@@ -4,7 +4,7 @@ title: Phenytoin
 parent: Model Prediction Only (L5)
 nav_order: 667
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Phenytoin: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic seizures…"
 monitor_inn: "Phenytoin"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Phenytoin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ The more credible signal in the list is the related condition **trigeminal neura
 |------|------|
 | Original Indication | Epilepsy (including generalized tonic-clonic seizures, partial epilepsy, status epilepticus) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,12 +58,11 @@ The more credible signal in the list is the related condition **trigeminal neura
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, phenytoin blocks voltage-gated sodium channels in a use-dependent manner, which limits repetitive neuronal firing and seizure spread. Its efficacy in epilepsy is well established.
 
-For trigeminal nerve neoplasm, the prediction is **not mechanistically convincing**. The high score most likely reflects graph proximity to trigeminal neuralgia and seizure-related nodes, not any anti-tumour activity. Sodium channel blockade may relieve nerve-related pain, but there is no plausible route by which it would treat a neoplasm itself. The two retrieved papers concern trigeminal neuralgia treatment and Sturge-Weber syndrome, not neoplasms.
+For trigeminal nerve neoplasm, the prediction is **not mechanistically convincing**. The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases such as trigeminal neuralgia and seizure-related conditions, not biological evidence of anti-tumour activity. Sodium channel blockade may relieve nerve-related pain, but there is no plausible route by which it would treat a neoplasm itself. The two retrieved papers concern trigeminal neuralgia treatment and Sturge-Weber syndrome, not neoplasms.
 
 The data compiled for this report show a more meaningful picture among the other predictions:
 - **Trigeminal neuralgia (rank 9, evidence level L3):** Ectopic, hyperexcitable firing of trigeminal afferents is the same sodium channel mechanism targeted by carbamazepine and phenytoin. Phenytoin appears to be a second-line or rescue option, with carbamazepine and oxcarbazepine as first-line.
-- **Reflex seizure types (ranks 2-4, 6-8):** These include orgasm-, micturition-, thinking-, audiogenic, startle and reading seizures. They are sub-phenotypes of the already approved epilepsy indication rather than true repurposing, and direct evidence is sparse.
-- **Beta-ketothiolase deficiency (rank 10):** No known mechanistic link and no evidence. The score is likely a graph artifact.
+- **Beta-ketothiolase deficiency (rank 10):** No known mechanistic link and no evidence. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

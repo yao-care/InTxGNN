@@ -4,17 +4,17 @@ title: Ozenoxacin
 parent: Model Prediction Only (L5)
 nav_order: 635
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Ozenoxacin: predicted new indication Malaria (evidence level L5). Approved use: Acne"
 monitor_inn: "Ozenoxacin"
-predicted_indications: ["malaria", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "spondyloarthropathy, susceptibility to", "relapsing fever", "zinc, elevated plasma", "demodicidosis of sebaceous gland", "Zollinger-Ellison syndrome", "sterile multifocal osteomyelitis with periostitis and pustulosis", "leishmaniasis", "rheumatoid vasculitis"]
+predicted_indications: ["malaria"]
 ---
 
 # Ozenoxacin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **malaria**, but this is a mode
 |------|------|
 | Original Indication | Acne |
 | Predicted New Indication | Malaria |
-| TxGNN Prediction Score | 99.16% |
+| TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The plausible link to malaria is theoretical. The *Plasmodium* apicoplast contains a gyrase-like target, which gives a conceptual basis for quinolone activity against the parasite. However, ozenoxacin is formulated only for topical use, with minimal systemic exposure. Malaria is a bloodborne infection, so a cream is unlikely to reach therapeutic concentrations at the site of disease.
 
-The high TxGNN score (0.99) reflects knowledge-graph proximity, not clinical or experimental support. Other top-ranked predictions (for example PAPA syndrome, spondyloarthropathy, Zollinger-Ellison syndrome, and elevated plasma zinc) have no plausible mechanistic link and look like knowledge-graph artifacts. Among the ten predictions, demodicidosis of the sebaceous gland is the most anatomically plausible for a topical agent, because it affects the same pilosebaceous unit as acne. Even so, ozenoxacin has no known acaricidal activity, so this remains speculative.
+The high TxGNN score (0.9916) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it is not clinical or experimental support.
 
 ---
 

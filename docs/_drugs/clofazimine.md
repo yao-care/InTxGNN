@@ -50,10 +50,10 @@ This prediction rests on the model alone and should be treated as a hypothesis.
 |------|------|
 | Original Indication | Pyoderma gangrenosum, leprosy, multibacillary leprosy (approved indication text is not listed in the Indian licence records) |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 No credible mechanistic link to Pneumocystis has been established. The three papers retrieved concern opportunistic infections in AIDS in general, clofazimine as prophylaxis against *Mycobacterium avium* complex (MAC), and a case report of *M. kansasii* infection that was complicated by *Pneumocystis* pneumonia. In these papers, Pneumocystis is a co-occurring condition in people with AIDS, not a target of clofazimine.
 
-The high score (99.9%) is therefore most likely driven by shared associations with AIDS-related opportunistic infections in the knowledge graph, not by evidence of antifungal activity.
+The high score (0.9990) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as AIDS-related opportunistic infections, not biological evidence of antifungal activity.
 
 ---
 
@@ -100,7 +100,7 @@ There are 11 valid single-ingredient registrations in total, all oral capsules. 
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: liver disease, gallbladder disease, diarrheal disease, active peptic ulcer disease, digestive system disease, intestinal disease, splenic infarction, splenic disease, hypersplenism.
+- **Contraindications (not label text)**: liver disease, gallbladder disease, diarrheal disease, active peptic ulcer disease, digestive system disease, intestinal disease, splenic infarction, splenic disease, hypersplenism.
 - **Drug Interactions**: 111 interactions were found in total. Notable ones:
   - **Major**: cisapride, dolasetron
   - **Moderate**: famotidine, loperamide, bisacodyl, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, and several laxatives (e.g. lactulose, magnesium hydroxide, polyethylene glycol)
@@ -127,8 +127,8 @@ The prediction score is very high, but there are no clinical trials and no liter
 
 ### Other Predicted Indications (for reference)
 
-- **Malaria (score 99.6%, Evidence Level L4, Research Question):** Only indirect preclinical support exists, such as in vitro antiplasmodial activity of clofazimine analogues (PMID 29026393). The other retrieved papers concern tuberculosis regimens or unrelated compounds. No malaria trials are registered.
-- **Gastrin secretion abnormality (score 99.6%, Evidence Level L5, Hold):** No trials or literature are available, so the prediction is entirely unsupported.
+- **Malaria (score 0.9960, Evidence Level L4, Research Question):** Only indirect preclinical support exists, such as in vitro antiplasmodial activity of clofazimine analogues (PMID 29026393). The other retrieved papers concern tuberculosis regimens or unrelated compounds. No malaria trials are registered.
+- **Gastrin secretion abnormality (score 0.9960, Evidence Level L5, Hold):** No trials or literature are available, so the prediction is entirely unsupported.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

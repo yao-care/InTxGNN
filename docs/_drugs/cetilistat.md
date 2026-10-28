@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
-description: "Cetilistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
+last_modified_at: 2026-10-28
 monitor_inn: "Cetilistat"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
+description: "Cetilistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cetilistat
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Cetilistat: From Obesity to Hypervitaminosis
+## Cetilistat: Hypervitaminosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,23 +46,23 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity disorder; monogenic obesity (the India licence records contain no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cetilistat is a gastrointestinal (pancreatic) lipase inhibitor that reduces the absorption of dietary fat. Its efficacy in obesity is the basis of its original use, and it is approved in Japan for obesity and related disorders, including type 2 diabetes.
 
-The link to hypervitaminosis is theoretical. Fat-soluble vitamins (A, D, E, K) are absorbed together with dietary fat, so blocking fat absorption could lower their uptake. However, reduced vitamin absorption is a recognised adverse effect of this drug class, not an established therapeutic strategy. The high TxGNN score (99.98%) is a computational prediction only and is not backed by any trial or publication.
+The link to hypervitaminosis is theoretical. Fat-soluble vitamins (A, D, E, K) are absorbed together with dietary fat, so blocking fat absorption could lower their uptake. However, reduced vitamin absorption is a recognised adverse effect of this drug class, not an established therapeutic strategy. The high TxGNN score (0.9998) is a computational prediction only and is not backed by any trial or publication.
 
 Other predictions from the model are weaker still:
-- **Proximal 16p11.2 microdeletion syndrome** (99.97%): this is a genetic cause of severe early-onset obesity, so there is an indirect link to the original indication. Any benefit would be limited to weight effects and would not address the neurodevelopmental features.
-- **Hypertelorism (obsolete term)** and **frontorhiny**: these are craniofacial malformations with no plausible pharmacological link to lipase inhibition. They are likely knowledge-graph artifacts.
+- **Proximal 16p11.2 microdeletion syndrome** (0.9997): this is a genetic cause of severe early-onset obesity, so there is an indirect link to the original indication. Any benefit would be limited to weight effects and would not address the neurodevelopmental features.
+- **Hypertelorism (obsolete term)** and **frontorhiny**: these are craniofacial malformations with no plausible pharmacological link to lipase inhibition. They are likely TxGNN model (deep learning) artifacts.
 
 ## India Market Information
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Natamycin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 582
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Natamycin: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Mycotic corneal ulcer"
@@ -14,7 +14,7 @@ predicted_indications: ["vulvovaginal candidiasis", "candidiasis", "vulvitis", "
 # Natamycin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **1 completed Phase 3 trial** and **14 publications** currently supporting 
 |------|------|
 | Original Indication | Mycotic corneal ulcer |
 | Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (with caveat: only one completed Phase 3 trial, and it tested a natamycin + lactulose combination) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

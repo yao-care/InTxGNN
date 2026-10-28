@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dacarbazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 226
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L4). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma) and metastatic…"
@@ -14,7 +14,7 @@ predicted_indications: ["upper aerodigestive tract neoplasm"]
 # Dacarbazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but **no clinical trials** are registered for this indication and the **19 publi
 |------|------|
 | Original Indication | Hodgkin lymphoma (including classic Hodgkin lymphoma) and metastatic melanoma |
 | Predicted New Indication | Upper aerodigestive tract neoplasm |
-| TxGNN Prediction Score | 99.26% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9926 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -109,7 +109,7 @@ Please also refer to the package insert warnings and precautions.
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (knowledge-graph associations, not label text)**: kidney disease, liver disease, gallbladder disease, pyoureter, thrombocytopenia, anaemia, macrocytic anaemia, leukopenia, hepatic vein thrombosis, Budd-Chiari syndrome.
+- **Contraindication-related conditions (not label text)**: kidney disease, liver disease, gallbladder disease, pyoureter, thrombocytopenia, anaemia, macrocytic anaemia, leukopenia, hepatic vein thrombosis, Budd-Chiari syndrome.
 - **Drug Interactions**: 233 interactions were identified. The main ones with a graded severity are naltrexone (Moderate) and levofloxacin (Minor). Others, such as pantoprazole, omeprazole, morphine, metformin, prednisone, simvastatin and ondansetron, have no severity grade assigned.
 
 Please refer to the package insert for label-based warnings and contraindications.

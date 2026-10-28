@@ -6,9 +6,9 @@ nav_order: 643
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-14
-description: "Pantothenic Acid: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Ascorbic acid deficiency"
 monitor_inn: "Pantothenic acid"
-predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "gonococcal urethritis", "Ureaplasma urethritis"]
+predicted_indications: ["congenital prothrombin deficiency", "ochronosis disorder", "glycerol metabolism disease", "folic acid deficiency anemia", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis"]
+description: "Pantothenic Acid: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pantothenic Acid
@@ -33,31 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Pantothenic Acid: From Ascorbic Acid Deficiency to Congenital Prothrombin Deficiency
+## Pantothenic Acid: Congenital prothrombin deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Pantothenic acid (vitamin B5) is a coenzyme A precursor; in the knowledge graph used for this prediction, its original indications are ascorbic acid deficiency and scurvy.
+Pantothenic acid (vitamin B5) is a coenzyme A precursor; its original indications are ascorbic acid deficiency and scurvy.
 The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ascorbic acid deficiency; scurvy (from the knowledge graph; the Indian licence lists no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, pantothenic acid is a B vitamin and the precursor of coenzyme A, which takes part in lipid and energy metabolism.
 
-Congenital prothrombin deficiency is a monogenic defect of coagulation factor II. Pantothenic acid is not known to affect prothrombin synthesis or function, so no mechanistic link can be identified. The very high score (99.96%) reflects a computational association only and is not backed by any trial or publication.
+Congenital prothrombin deficiency is a monogenic defect of coagulation factor II. Pantothenic acid is not known to affect prothrombin synthesis or function, so no mechanistic link can be identified. The very high score (0.9996) reflects a computational association only and is not backed by any trial or publication.
 
 ### Other Predictions Considered
 
@@ -65,14 +65,14 @@ Eight further predictions were reviewed. None has trial evidence.
 
 | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Ochronosis disorder | 99.78% | L5 | No known role in homogentisic acid metabolism; Hold |
-| Glycerol metabolism disease | 99.77% | L5 | Only a loose link through coenzyme A; the retrieved papers are incidental metabolomics studies; Hold |
-| Folic acid deficiency anemia | 99.60% | L4 | Plausible nutritional link, but evidence is old and indirect; research question |
-| Uterine inflammatory disease | 99.14% | L4 | One 2026 mouse study; no human data; research question |
-| Xanthogranulomatous pyelonephritis | 99.10% | L5 | No rationale; Hold |
-| Urinary tract infection | 99.10% | L5 | Retrieved papers are unrelated; Hold |
-| Gonococcal urethritis | 99.10% | L5 | No antibacterial role; Hold |
-| Ureaplasma urethritis | 99.10% | L5 | No antibacterial role; Hold |
+| Ochronosis disorder | 0.9978 | L5 | No known role in homogentisic acid metabolism; Hold |
+| Glycerol metabolism disease | 0.9977 | L5 | Only a loose link through coenzyme A; the retrieved papers are incidental metabolomics studies; Hold |
+| Folic acid deficiency anemia | 0.9960 | L4 | Plausible nutritional link, but evidence is old and indirect; research question |
+| Uterine inflammatory disease | 0.9914 | L5 | One 2026 mouse study; no human data; research question |
+| Xanthogranulomatous pyelonephritis | 0.9910 | L5 | No rationale; Hold |
+| Urinary tract infection | 0.9910 | L5 | Retrieved papers are unrelated; Hold |
+| Gonococcal urethritis | 0.9910 | L5 | No antibacterial role; Hold |
+| Ureaplasma urethritis | 0.9910 | L5 | No antibacterial role; Hold |
 
 Of these, folic acid deficiency anemia and uterine inflammatory disease have the most plausible rationale. Folate is the established treatment for the former, so pantothenic acid would at most be adjunctive.
 

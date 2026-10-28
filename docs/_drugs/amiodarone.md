@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Amiodarone
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 52
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L5). Approved use: Ventricular fibrillation"
@@ -14,7 +14,7 @@ predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia",
 # Amiodarone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -51,9 +51,9 @@ By contrast, the third-ranked prediction, **ventricular tachycardia**, is suppor
 |------|------|
 | Original Indication | Ventricular fibrillation |
 | Predicted New Indication | Catecholaminergic polymorphic ventricular tachycardia |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 (CPVT); for reference, ventricular tachycardia (rank 3) is L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (CPVT); Proceed with Guardrails for ventricular tachycardia (rank 3) |
 

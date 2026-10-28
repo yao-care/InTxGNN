@@ -47,9 +47,9 @@ The TxGNN model's top-ranked prediction is **colobomatous microphthalmia-rhizome
 |------|------|
 | Original Indication | Rheumatoid arthritis, osteoarthritis (the data compiled for this report contain no approved-indication text from the India licences) |
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome (top-ranked prediction) |
-| TxGNN Prediction Score | 99.996% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,10 +57,10 @@ The TxGNN model's top-ranked prediction is **colobomatous microphthalmia-rhizome
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Piroxicam is generally known as a non-selective COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain. This is consistent with its use in rheumatoid arthritis and osteoarthritis.
 
-For the top-ranked prediction, **no mechanistic link is identified**. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare developmental skeletal and ocular syndrome, and COX inhibition has no known role in its underlying biology. The very high score is most likely a knowledge-graph artifact, probably driven by graph proximity to skeletal or arthropathy terms. The other top-ranked predictions (brachydactyly-syndactyly syndrome, Hunter-Thompson acromesomelic dysplasia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, WHIM syndrome) show the same pattern: very high scores, no trials, no literature, and no plausible mechanism.
+For the top-ranked prediction, **no mechanistic link is identified**. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare developmental skeletal and ocular syndrome, and COX inhibition has no known role in its underlying biology. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top-ranked predictions (brachydactyly-syndactyly syndrome, Hunter-Thompson acromesomelic dysplasia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, WHIM syndrome) show the same pattern: very high scores, no trials, no literature, and no plausible mechanism.
 
 Two lower-ranked predictions are somewhat more plausible:
-- **Juvenile idiopathic arthritis (score 99.93%)**: NSAID symptom control is mechanistically consistent with piroxicam's known action. Its long half-life allows once-daily dosing, and paediatric pharmacokinetic data exist. However, the evidence is largely historical (1980s–1990s) and symptomatic rather than disease-modifying, and JIA management has since shifted to DMARDs and biologics.
+- **Juvenile idiopathic arthritis (score 0.9993)**: NSAID symptom control is mechanistically consistent with piroxicam's known action. Its long half-life allows once-daily dosing, and paediatric pharmacokinetic data exist. However, the evidence is largely historical (1980s–1990s) and symptomatic rather than disease-modifying, and JIA management has since shifted to DMARDs and biologics.
 - **Rheumatoid nodulosis and pseudoachondroplasia**: these are only indirectly plausible (related to rheumatoid arthritis, or general analgesic use for joint pain), with no specific supporting studies.
 
 ## Clinical Trial Evidence
@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has a very high model score but no clinical trials, no literature, and no plausible mechanism, so it is most likely a knowledge-graph artifact. The best-supported alternative, juvenile idiopathic arthritis, has some historical evidence (L3) but is not a new, disease-modifying use, since NSAID symptom control is already established and care has moved to DMARDs and biologics.
+The top-ranked prediction has a very high model score but no clinical trials, no literature, and no plausible mechanism, so it is most likely a TxGNN model (deep learning) artifact. The best-supported alternative, juvenile idiopathic arthritis, has some historical evidence (L3) but is not a new, disease-modifying use, since NSAID symptom control is already established and care has moved to DMARDs and biologics.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India licences (currently blocking safety screening)

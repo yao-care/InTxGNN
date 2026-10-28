@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Citric Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 188
-evidence_level: L4
+evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-14
-description: "Citric Acid: predicted new indication Stomach disease (evidence level L4). Approved use: Dyspepsia"
 monitor_inn: "Citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
+last_modified_at: 2026-10-27
+description: "Citric Acid: predicted new indication stomach disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Citric Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,99 +33,84 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-## Citric Acid: From Dyspepsia to Stomach Disease
+## Citric Acid: Weak organic acid, gastric pH modulator → stomach disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Citric acid is a weak organic acid originally used for dyspepsia and headache disorder.
-The TxGNN model predicts it may be effective for **stomach disease**, but **no clinical trials** are registered and the **18 publications** retrieved offer only indirect links, so the prediction rests mainly on the model.
-
----
+Citric acid is a weak organic acid that modulates gastric pH and has been used in gastrointestinal settings.
+The TxGNN model predicts it may be relevant for **stomach disease**, but the data compiled for this report show **0 clinical trials** and **20 publications**, none of which show that citric acid treats a gastric disease.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Dyspepsia; headache disorder (from the knowledge graph; no approved indication text is available in the India licence data) |
-| Predicted New Indication | Stomach disease |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | stomach disease |
+| TxGNN Prediction Score | 0.9974 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, citric acid is a weak organic acid that modulates gastric pH and is already used in gastrointestinal contexts for dyspepsia. Mechanistically, it could be relevant to other stomach conditions.
+Detailed mechanism of action data is not available. Based on general pharmacology, citric acid is a weak organic acid that can influence gastric pH, which gives it a plausible link to the stomach.
 
-The literature shows only indirect links. A citric acid test meal has been studied to improve the accuracy of the 13C-urea breath test for detecting *H. pylori*. Other papers are general reviews on diet in ulcer disease and on *H. pylori* metabolism. **No evidence shows that citric acid treats stomach disease.** The very high TxGNN score is a computational prediction, partly explained by its similarity to the existing dyspepsia indication.
+The retrieved literature connects citric acid to the stomach only indirectly. One line of work studied a citric acid test meal to improve the accuracy of the 13C-urea breath test for detecting *Helicobacter pylori*. Another line consists of general reviews on diet in ulcer disease and on *H. pylori* metabolism. None of these papers tests citric acid as a treatment for a gastric disease.
 
-Other predicted indications (pharyngitis, acute laryngopharyngitis, postgastrectomy syndrome, nasal cavity disease, papillary conjunctivitis, blepharoconjunctivitis and rhinitis) have even weaker support. Most are L5, and the rhinitis and nasal cavity papers are indirect at best.
-
----
+The very high TxGNN score is a computational output. It should be read as a hypothesis to test, not as evidence of benefit.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
-
-The retrieved publications are mostly indirect. Selected items are listed below (the most relevant to the predicted indication).
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31505905](https://pubmed.ncbi.nlm.nih.gov/31505905/) | 2019 | Clinical diagnostic study | Gut and Liver | Discusses whether a citric acid test meal improves 13C-urea breath test accuracy in Asian populations (diagnostic use, not treatment) |
-| [30970440](https://pubmed.ncbi.nlm.nih.gov/30970440/) | 2019 | Clinical diagnostic study | Gut and Liver | Effect of citric acid on 13C-urea breath test accuracy after *H. pylori* eradication in a region with common atrophic gastritis |
-| [15854177](https://pubmed.ncbi.nlm.nih.gov/15854177/) | 2005 | Mechanistic study | Aliment Pharmacol Ther | Effect of citric, malic and ascorbic acids on intragastric urease activity |
-| [2072799](https://pubmed.ncbi.nlm.nih.gov/2072799/) | 1991 | Review | Med Clin North Am | Diet and nutrition in ulcer disease; restrictive diets are not supported in the era of H2-inhibitors |
+| [31505905](https://pubmed.ncbi.nlm.nih.gov/31505905/) | 2019 | Diagnostic study | Gut and Liver | Discusses whether a citric acid meal improves 13C-urea breath test accuracy in Asian populations |
+| [30970440](https://pubmed.ncbi.nlm.nih.gov/30970440/) | 2019 | Diagnostic study | Gut and Liver | Effect of citric acid on 13C-urea breath test accuracy after *H. pylori* eradication in a region with common atrophic gastritis |
+| [15854177](https://pubmed.ncbi.nlm.nih.gov/15854177/) | 2005 | Clinical study | Aliment Pharmacol Ther | Effect of citric, malic and ascorbic acids on intragastric urease activity |
+| [2072799](https://pubmed.ncbi.nlm.nih.gov/2072799/) | 1991 | Review | Med Clin North Am | Diet in ulcer disease; restrictive diets are not supported in the H2-inhibitor era |
 | [9889978](https://pubmed.ncbi.nlm.nih.gov/9889978/) | 1998 | Review | Adv Microb Physiol | Physiology and metabolism of *H. pylori* |
-| [35900644](https://pubmed.ncbi.nlm.nih.gov/35900644/) | 2022 | Cohort / metabolomic association | Metabolomics | Higher serum citric acid and L-carnitine detected in Koreans before gastric cancer onset (biomarker association) |
+| [35900644](https://pubmed.ncbi.nlm.nih.gov/35900644/) | 2022 | Cohort/metabolomic | Metabolomics | High serum citric acid and L-carnitine detected in Koreans before gastric cancer onset (biomarker association) |
+| [22313115](https://pubmed.ncbi.nlm.nih.gov/22313115/) | 2012 | Laboratory study | J Agric Food Chem | Beer bitter acids and mechanisms of gastric acid secretion |
+| [7106518](https://pubmed.ncbi.nlm.nih.gov/7106518/) | 1982 | Observational | Gastroenterology | Salivary secretion in reflux oesophagitis |
 
----
+None of these publications tests citric acid as a therapy for stomach disease.
 
 ## India Market Information
 
-Citric acid is marketed in India as 20 valid single-ingredient registrations (no cancelled ones), mostly syrups and expectorants. Approved indication text is not available for these registrations. The five main authorisations are shown below.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 123961 | Lupihist Plus Syrup | Syrup (100 ml bottle) | Not specified |
-| Registration No. 183137 | Quit Expectorant | Expectorant (100 ml bottle) | Not specified |
-| Registration No. 21827 | Ableed Lotion | Lotion (60 ml bottle) | Not specified |
-| Registration No. 116037 | Khasigo Syrup | Syrup (100 ml bottle) | Not specified |
-| Registration No. 230529 | Uriboost Solution | Solution (200 ml bottle) | Not specified |
+| 123961 | Lupihist Plus Syrup | Syrup, 100 ml bottle | Not recorded |
+| 183137 | Quit Expectorant | Expectorant, 100 ml bottle | Not recorded |
+| 21827 | Ableed Lotion | Lotion, 60 ml bottle | Not recorded |
+| 116037 | Khasigo Syrup | Syrup, 100 ml bottle | Not recorded |
+| 77176 | Epharyl Syrup | Syrup, 100 ml bottle | Not recorded |
 
----
+The local records are partial, so this list may be incomplete. All listed licences are valid.
 
 ## Safety Considerations
 
-- **Contraindications flagged in the knowledge graph** (drug-disease edges, not label text): hypertension, kidney disease or impaired renal function, anuria, liver disease, gallbladder disease, congestive heart failure, adrenal insufficiency (including Addison disease and congenital adrenal hyperplasia), peptic ulcer disease, gout, hypercalcaemia, nephrocalcinosis, phosphorus metabolism disease, thrombocytopenia and thrombocytopenic purpura, haemophilia, anaemia, chronic diarrhoeal disease and substance abuse/dependence. Notably, **peptic ulcer disease** is listed, which is relevant to a stomach-disease indication.
-- **Drug Interactions** (15 recorded):
-  - **Major:** aluminium hydroxide.
-  - **Moderate:** fluoroquinolone and quinolone antibacterials, including ciprofloxacin, levofloxacin, moxifloxacin, ofloxacin, norfloxacin, enoxacin, gatifloxacin, gemifloxacin, lomefloxacin, grepafloxacin, sparfloxacin, trovafloxacin, nalidixic acid and cinoxacin.
+- **Drug Interactions**: 15 interactions were found. Aluminum hydroxide is rated **Major**. The other 14 are rated Moderate and are all quinolone antibiotics: cinoxacin, ciprofloxacin, enoxacin, gatifloxacin, gemifloxacin, levofloxacin, lomefloxacin, moxifloxacin, nalidixic acid, norfloxacin, ofloxacin, trovafloxacin, grepafloxacin and sparfloxacin.
 
-Please also refer to the package insert for label warnings and contraindications.
-
----
+Package insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for them.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials support the predicted indication, and the literature is indirect (diagnostic test meals, reviews and mechanistic or biomarker work). The high TxGNN score therefore remains an unvalidated model prediction, and the knowledge graph lists peptic ulcer disease as a contraindication. Evidence is at most L4 for this and one other prediction (rhinitis), and L5 for the rest. Both are best treated as research questions.
+No clinical trial or publication tests citric acid as a treatment for stomach disease, so the evidence level is L5. The high TxGNN score of 0.9974 is a computational prediction, and the retrieved papers touch on diagnostic testing and background physiology only.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India regulator (the current safety data are incomplete)
-- Detailed mechanism of action data
-- Direct clinical evidence of benefit in stomach disease, such as a controlled trial
-- Clarification of the safety conflict with peptic ulcer disease
-- If pursuing rhinitis instead, confirmatory studies of the topical antibiofilm approach (currently preclinical only)
+- Mechanism of action data for citric acid
+- Package insert warnings and contraindications from the India regulatory source
+- Studies that directly test citric acid for a defined gastric condition
+- A clear definition of the target condition, since "stomach disease" is broad
+- Review of the interaction with aluminum hydroxide, a common antacid, and with quinolone antibiotics
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 |------|------|
 | Original Indication | Adrenal gland pheochromocytoma (also listed: phaeochromocytoma, sympathetic paraganglioma, adrenal gland cancer, duodenum cancer, small intestine cancer, heart cancer). The approved indication text on the India licences is blank. |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,7 +63,7 @@ There are important reasons for caution:
 - Primary hereditary glaucoma is mainly driven by genetic defects in the trabecular meshwork or anterior segment development (for example MYOC, CYP1B1). Alpha-blockade is unlikely to address these.
 - The original indication (a catecholamine-secreting tumour) is biologically unrelated to glaucoma. The prediction rests on a model score, not on a shared disease mechanism.
 - Systemic alpha-blockade carries risks such as orthostatic hypotension, reflex tachycardia, nasal congestion and miosis.
-- The second prediction, **open-angle glaucoma** (score 99.48%), has the same limitations. Established glaucoma treatments already exist (prostaglandin analogues, beta-blockers, alpha-2 agonists, carbonic anhydrase inhibitors). Any benefit of an irreversible systemic alpha-antagonist would need to be shown against its safety concerns, and topical or ocular-targeted delivery would likely be required.
+- The second prediction, **open-angle glaucoma** (score 0.9948), has the same limitations. Established glaucoma treatments already exist (prostaglandin analogues, beta-blockers, alpha-2 agonists, carbonic anhydrase inhibitors). Any benefit of an irreversible systemic alpha-antagonist would need to be shown against its safety concerns, and topical or ocular-targeted delivery would likely be required.
 
 ## India Market Information
 

@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Rebamipide
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 730
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Rebamipide: predicted new indication Esophageal dyskinesia (evidence level L5). Approved use: Peptic ulcer disease, gastritis"
-monitor_inn: "Rebamipide"
-predicted_indications: ["achlorhydria", "hiatus hernia (disease)", "cascade stomach", "gastric dilatation", "Dieulafoy lesion", "pylorospasm", "small bowel Crohn disease", "hemorrhagic duodenitis", "esophageal ulcer", "dyskinesia of esophagus"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Rebamipide: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Rebamipide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +32,56 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rebamipide: From Peptic Ulcer Disease and Gastritis to Esophageal Dyskinesia
+<!-- known-uses-page -->
+<!-- description: Rebamipide: known uses and market status in India; currently no new candidate indication -->
+## Rebamipide: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Rebamipide, so there is currently no new predicted indication. The drug's recorded uses are listed below. They are the drug's own known uses, not model candidates.
 
-Rebamipide is a mucosal protective agent originally used to treat peptic ulcer disease and gastritis.
-The TxGNN model predicts it may be effective for **esophageal dyskinesia** (the top-ranked prediction, achlorhydria, has no supporting evidence and no plausible mechanism, so the best-supported candidate is reported here). Support currently consists of **1 completed clinical trial** (in reflux esophagitis, an adjacent condition) and **5 publications**, mostly in reflux disease.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastritis (the licence records in India carry no indication text) |
-| Predicted New Indication | Esophageal dyskinesia (best-supported of the 10 predictions; the highest TxGNN-scored prediction is achlorhydria) |
-| TxGNN Prediction Score | 96.86% (achlorhydria, the top-scored prediction: 98.90%, evidence level L5) |
-| Evidence Level | L2 (capped at L2 because the evidence comes from an adjacent reflux population) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
-| Recommended Decision | Hold (research question) |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 5 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Detailed mechanism of action data is not available in the data compiled for this report. Literature describes rebamipide as a mucoprotective drug that induces cyclooxygenase-2 and prostaglandins, scavenges oxygen free radicals, stimulates epidermal growth factor, VEGF and nitric oxide, and reduces lipid peroxidation and neutrophil migration.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| dry eye | licence in another country |
+| gastric ulcer | licence in another country |
+| peptic ulcer | licence in another country |
 
-Its efficacy as a gastric mucosal protectant is established. Esophageal dyskinesia is a motility disorder, so rebamipide does not directly address its core problem. The link is indirect: the evidence concerns reflux disease (GERD and non-erosive reflux disease), where rebamipide improves tight junction protein expression and mucosal integrity, especially combined with proton pump inhibitors. The prediction is therefore plausible mainly as an adjunct for reflux-related mucosal injury rather than as a treatment for the motility abnormality itself.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-For context, other predictions fare differently. Esophageal ulcer has the broadest literature (L3), including a meta-analysis in dyspepsia and animal and clinical data in reflux esophagitis. Hemorrhagic duodenitis is supported by preclinical and cohort data (L4). Achlorhydria, Dieulafoy lesion, pylorospasm and small bowel Crohn disease have no direct evidence and weak or speculative mechanistic links.
-
-## Clinical Trial Evidence
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02755753](https://clinicaltrials.gov/study/NCT02755753) | Phase 4 | Completed | 143 | Randomized, double-blind, placebo-controlled pilot (REPAIR) of rebamipide as an adjuvant to heal erosive reflux esophagitis; population is reflux, not esophageal dyskinesia |
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [22367114](https://pubmed.ncbi.nlm.nih.gov/22367114/) | 2012 | Randomized placebo-controlled clinical study | Dig Dis Sci | Efficacy of rebamipide in PPI-refractory non-erosive reflux disease |
-| [20198424](https://pubmed.ncbi.nlm.nih.gov/20198424/) | 2010 | Clinical study | Dig Dis Sci | Synergistic effect of rebamipide with low-dose lansoprazole in managing GERD symptom recurrence |
-| [32598706](https://pubmed.ncbi.nlm.nih.gov/32598706/) | 2020 | Review | Ter Arkh | Rebamipide plus PPI is more effective for GERD symptom relief; mechanism via COX-2, prostaglandins and antioxidant effects |
-| [29069891](https://pubmed.ncbi.nlm.nih.gov/29069891/) | 2018 | Preclinical (rat) | Gut Liver | Additive effect of rebamipide and PPIs on tight junction proteins in GERD model |
-| [35552457](https://pubmed.ncbi.nlm.nih.gov/35552457/) | 2022 | Pharmacovigilance analysis | Sci Rep | Adverse event signals of rebamipide compared with other peptic ulcer and GERD drugs in the elderly |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| gastritis |
+| peptic ulcer disease |
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 185346 | Rebator 100mg Tablet | Strip of 10 tablets | Not stated |
-| 187266 | Rebam 100mg Tablet | Strip of 10 tablets | Not stated |
-| 134965 | Mucogen 100mg Tablet | Strip of 10 tablets | Not stated |
-| 184145 | Rebagen Tablet | Strip of 10 tablets | Not stated |
-| 184375 | Rebagen-Otic Capsule | Strip of 10 capsules | Not stated |
-
-Four more registrations are eye-drop products: Finetears, Rebacer, Eyesec and Rebasoothe (10 ml bottle or packet). All 9 registrations are valid single-ingredient products.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 185346 | Rebator 100mg Tablet | strip of 10 tablets | Valid |
+| 187266 | Rebam 100mg Tablet | strip of 10 tablets | Valid |
+| 134965 | Mucogen 100mg Tablet | strip of 10 tablets | Valid |
+| 184145 | Rebagen Tablet | strip of 10 tablets | Valid |
+| 184375 | Rebagen-Otic Capsule | strip of 10 capsules | Valid |
+| 85290 | Finetears Eye Drop | bottle of 10 ml Eye Drop | Valid |
+| 186847 | Rebacer Eye Drop | bottle of 10 ml Eye Drop | Valid |
+| 75168 | Eyesec Eye Drop | bottle of 10 ml Eye Drop | Valid |
+| 190024 | Rebasoothe Eye Drop | packet of 10 ml Eye Drop | Valid |
 
 ## Safety Considerations
 
@@ -96,19 +90,6 @@ Four more registrations are eye-drop products: Finetears, Rebacer, Eyesec and Re
 
 Please refer to the package insert for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-Rebamipide has solid mucosal protection data in reflux disease, but esophageal dyskinesia is a motility disorder. The only randomized evidence (a Phase 4 pilot, n=143) comes from reflux esophagitis, so support for the predicted indication is indirect. The top TxGNN-scored prediction (achlorhydria) is not mechanistically credible.
-
-**To proceed, the following is needed:**
-- Direct clinical evidence in esophageal motility disorders, or a refined target such as reflux-related mucosal injury, where evidence is stronger (esophageal ulcer, erosive reflux esophagitis)
-- Detailed mechanism of action data
-- Package insert warnings and contraindications for the India-marketed products
-- Confirmation of the approved indication text for the registered products
-- Route compatibility assessment (oral tablets and capsules are available; the other registered forms are ophthalmic)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

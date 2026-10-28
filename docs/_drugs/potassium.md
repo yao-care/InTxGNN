@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Potassium
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 688
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-14
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Potassium"
-predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
+predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 ---
 
 # Potassium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **23 registered clinical trials** and **20 publications** compiled for this
 |------|------|
 | Original Indication | Not stated in the Indian licence records compiled for this report |
 | Predicted New Indication | Hypertensive disorder |
-| TxGNN Prediction Score | 99.16% |
+| TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L1 (see note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The L1 grade is the one assigned in the data compiled for this report. It rests largely on meta-analyses of randomized trials and on one older Phase 3 trial of potassium and sodium. Many of the registered Phase 3 trials involve other drugs (for example losartan potassium), where potassium is only the salt counter-ion. A strict reading of the rules (at least two completed Phase 3 RCTs of potassium itself) would be more conservative.

@@ -4,7 +4,7 @@ title: Trametinib
 parent: Model Prediction Only (L5)
 nav_order: 853
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Trametinib: predicted new indication Choroideremia (evidence level L5). Approved use: Metastatic melanoma"
 monitor_inn: "Trametinib"
@@ -14,7 +14,7 @@ predicted_indications: ["choroideremia"]
 # Trametinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Trametinib is an oral MEK inhibitor originally used to treat metastatic melanoma.
-The TxGNN model predicts it may be effective for **choroideremia**, an inherited retinal degeneration, with a very high score of 99.31%.
+The TxGNN model predicts it may be effective for **choroideremia**, an inherited retinal degeneration, with a very high score of 0.9931.
 However, **no clinical trials and no publications** currently support this prediction, so it rests on computation alone.
 
 ---
@@ -50,10 +50,10 @@ However, **no clinical trials and no publications** currently support this predi
 |------|------|
 | Original Indication | Metastatic melanoma |
 | Predicted New Indication | Choroideremia |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -48,10 +48,10 @@ Benzonatate is an oral cough suppressant marketed in India as single-ingredient 
 |------|------|
 | Original Indication | Not stated in the India license records (the drug is generally known as a cough suppressant) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A possible link to cauda equina syndrome is modulation of nociceptive or neuropathic signalling through sodium channel blockade. This link is speculative. Cauda equina syndrome is a surgical emergency caused by mechanical compression of nerve roots, and a sodium channel blocker would not treat that cause. At most, it might play a symptomatic role.
 
-The second prediction, **obsolete neurogenic bladder (disease)**, has a TxGNN score of 99.39%. The theoretical rationale is that blocking sodium channels in sensory afferents could dampen bladder C-fibre signalling. The disease entry is marked "obsolete" in the ontology, so it probably maps to a broader neurogenic lower urinary tract dysfunction concept. It also has no supporting trials or literature.
+The second prediction, **obsolete neurogenic bladder (disease)**, has a TxGNN score of 0.9939. The theoretical rationale is that blocking sodium channels in sensory afferents could dampen bladder C-fibre signalling. The disease entry is marked "obsolete" in the ontology, so it probably maps to a broader neurogenic lower urinary tract dysfunction concept. It also has no supporting trials or literature.
 
 ---
 
@@ -102,7 +102,7 @@ For other safety information, such as warnings and contraindications, please ref
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN scores (99.66% for cauda equina syndrome and 99.39% for obsolete neurogenic bladder) are model predictions only, with no clinical trials or literature behind them. The proposed mechanism is speculative, and cauda equina syndrome is driven by mechanical compression that sodium channel blockade would not address.
+The high TxGNN scores (0.9966 for cauda equina syndrome and 0.9939 for obsolete neurogenic bladder) are model predictions only, with no clinical trials or literature behind them. The proposed mechanism is speculative, and cauda equina syndrome is driven by mechanical compression that sodium channel blockade would not address.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India Pharma source, which are needed for safety screening

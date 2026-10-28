@@ -4,17 +4,17 @@ title: Lorazepam
 parent: Model Prediction Only (L5)
 nav_order: 500
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Anxiety disorder, status epilepticus, absence epilepsy…"
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lorazepam: From Anxiety and Seizure Disorders to Trigeminal Nerve Neoplasm
+## Lorazepam: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The better-supported directions among the top 10 predictions are **insomnia** (1
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, status epilepticus, absence epilepsy, Lennox-Gastaut syndrome (approved indication text is not available for the Indian licenses; these are knowledge-graph indications) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The better-supported directions among the top 10 predictions are **insomnia** (1
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Lorazepam is a benzodiazepine, and this class acts as a positive allosteric modulator of GABA-A receptors, enhancing inhibitory neurotransmission. This explains its established use in anxiety and seizures.
 
-For **trigeminal nerve neoplasm**, no plausible mechanistic link to a disease-modifying effect has been established. Lorazepam could at most serve as supportive care (for example anxiety or seizure control), which is not a treatment of the tumour itself. The very high score (99.87%) should be read as a model output, not as evidence of efficacy.
+For **trigeminal nerve neoplasm**, no plausible mechanistic link to a disease-modifying effect has been established. Lorazepam could at most serve as supportive care (for example anxiety or seizure control), which is not a treatment of the tumour itself. The very high score (0.9987) should be read as a model output, not as evidence of efficacy.
 
 Other top-10 predictions are more coherent with the drug's pharmacology:
 
@@ -102,7 +102,6 @@ For reference, the best-supported alternative predictions are shown below. Many 
 | [35971024](https://pubmed.ncbi.nlm.nih.gov/35971024/) | 2022 | Review | CNS Drugs | Routes of delivery, pharmacokinetics, efficacy and tolerability of benzodiazepines in seizures |
 | [38358613](https://pubmed.ncbi.nlm.nih.gov/38358613/) | 2024 | Review | CNS Drugs | Benzodiazepines as the mainstay for acute treatment of seizure clusters |
 
-**Reading seizures (rank 3, evidence level L4)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

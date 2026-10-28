@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pyridostigmine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 714
-evidence_level: L3
-indication_count: 7
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Pyridostigmine: predicted new indication Myasthenia gravis with thymus hyperplasia (evidence level L3). Approved use: Myasthenia gravis"
 monitor_inn: "Pyridostigmine"
 predicted_indications: ["autoimmune disease of peripheral nervous system", "disease of receptor activity", "hypersplenism (disease)", "atypical hemolytic-uremic syndrome with B factor anomaly"]
+description: "Pyridostigmine: predicted new indication Autoimmune disease of peripheral nervous system (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pyridostigmine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-## Pyridostigmine: From Myasthenia Gravis to Myasthenia Gravis with Thymus Hyperplasia
+## Pyridostigmine: Autoimmune disease of peripheral nervous system
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pyridostigmine is a cholinesterase inhibitor originally used to treat myasthenia gravis and related neuromuscular junction disorders.
-The TxGNN model predicts it may be effective for **myasthenia gravis with thymus hyperplasia**, a subtype of the already-approved indication.
 Support currently comes from **3 publications** (a review, a case report and a cohort study) and **no registered clinical trials**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Myasthenia gravis; adult-onset myasthenia gravis; neuromuscular junction disease (from the knowledge graph, as the India licence records contain no indication text) |
-| Predicted New Indication | Myasthenia gravis with thymus hyperplasia |
-| TxGNN Prediction Score | 99.76% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Autoimmune disease of peripheral nervous system |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,7 @@ Pyridostigmine is a reversible acetylcholinesterase inhibitor. By slowing acetyl
 
 Thymic hyperplasia is common in acetylcholine receptor (AChR) antibody-positive myasthenia gravis. The predicted indication is therefore essentially a subtype of the approved indication rather than a true repurposing. The symptomatic benefit of cholinesterase inhibition does not depend on thymic pathology.
 
-Other predictions in the list (neonatal myasthenia gravis, autoimmune disease of the peripheral nervous system, autoimmune limb-girdle myasthenia) are also mechanistically plausible but rest on weaker evidence. They are listed in the next-steps section. Two predictions, hypersplenism and atypical haemolytic-uraemic syndrome with factor B anomaly, have no mechanistic rationale and no supporting studies.
+They are listed in the next-steps section. Two predictions, hypersplenism and atypical haemolytic-uraemic syndrome with factor B anomaly, have no mechanistic rationale and no supporting studies.
 
 ## Clinical Trial Evidence
 

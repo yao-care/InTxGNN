@@ -48,9 +48,9 @@ The data compiled for this report list tyrosine (DrugBank DB00135) under 20 vali
 |------|------|
 | Original Indication | Not stated in the registration records |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

@@ -6,9 +6,9 @@ nav_order: 787
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertension, congestive heart failure…"
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
+description: "Spironolactone: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Spironolactone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Spironolactone: From Hypertension and Heart Failure to Hypotrichosis Simplex of the Scalp
+## Spironolactone: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,15 +46,15 @@ but **no clinical trials or publications** currently support this prediction, so
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, congestive heart failure, hyperaldosteronism / primary aldosteronism (the India licence records contain no indication text; these come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.26% |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-A second prediction, **congenital hypotrichosis milia** (score 99.04%), is also evidence level L5 with a Hold recommendation.
+A second prediction, **congenital hypotrichosis milia** (score 0.9904), is also evidence level L5 with a Hold recommendation.
 
 ## Why is This Prediction Reasonable?
 
@@ -62,7 +62,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 One plausible but unverified link is spironolactone's anti-androgenic activity (androgen receptor blockade and reduced androgen synthesis). This is why it is used off-label in female pattern hair loss. However, hypotrichosis simplex is a rare hereditary hair loss disorder, linked to variants such as CDSN, APCDD1 and RPL21, and is not primarily androgen-driven. The mechanistic link is therefore weak and speculative.
 
-The high score probably reflects network proximity to other hypotrichosis phenotypes in the knowledge graph, not a demonstrated mechanism. The same caution applies even more strongly to congenital hypotrichosis milia, an ultra-rare condition more likely to have a genetic or developmental cause than a hormonal one.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same caution applies even more strongly to congenital hypotrichosis milia, an ultra-rare condition more likely to have a genetic or developmental cause than a hormonal one.
 
 ## India Market Information
 

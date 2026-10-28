@@ -4,17 +4,17 @@ title: Efonidipine
 parent: Model Prediction Only (L5)
 nav_order: 300
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Efonidipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 3
+last_modified_at: 2026-10-28
 monitor_inn: "Efonidipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
+description: "Efonidipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Efonidipine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Efonidipine: From Hypertension to Pulmonary Hypertension
+## Efonidipine: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials** and **no directly relevant publications** currently s
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.14% |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,8 +59,8 @@ but **no clinical trials** and **no directly relevant publications** currently s
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, efonidipine is a dual L-type/T-type calcium channel blocker with vasodilatory activity, and its blood-pressure-lowering efficacy in systemic hypertension is established (it is authorised for this use in Japan and India). Mechanistically, it may be applicable to pulmonary hypertension, because pulmonary vascular tone and smooth muscle proliferation also depend on calcium signalling.
 
 Other predictions from the model follow a similar pattern:
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.14%): hypoxia-driven pulmonary vasoconstriction and remodelling involve calcium signalling and the HIF-1 pathway. The only related publication is an in vitro study of a different drug, cilnidipine, which is class-level hint at best.
-- **Malignant hypertensive renal disease** and **malignant renovascular hypertension** (both 99.04%): these are close to the approved use. Efonidipine's vasodilation of glomerular arterioles gives a rationale for renal protection. However, these are more severe disease forms than the labelled use, and no trials or literature were found.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9914): hypoxia-driven pulmonary vasoconstriction and remodelling involve calcium signalling and the HIF-1 pathway. The only related publication is an in vitro study of a different drug, cilnidipine, which is class-level hint at best.
+- **Malignant hypertensive renal disease** and **malignant renovascular hypertension** (both 0.9904): these are close to the approved use. Efonidipine's vasodilation of glomerular arterioles gives a rationale for renal protection. However, these are more severe disease forms than the labelled use, and no trials or literature were found.
 
 The mechanistic rationale is therefore plausible but speculative.
 
@@ -100,7 +100,7 @@ One pharmacology record indicates that efonidipine acts on the Cav3.2 (T-type ca
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.14%), but there are no clinical trials and no efonidipine-specific publications for pulmonary hypertension, so the evidence is at the model-prediction level only (L5). The mechanistic rationale is plausible but unverified, and the key safety information is missing.
+The prediction score is high (0.9914), but there are no clinical trials and no efonidipine-specific publications for pulmonary hypertension, so the evidence is at the model-prediction level only (L5). The mechanistic rationale is plausible but unverified, and the key safety information is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India market (currently blocking for safety screening)

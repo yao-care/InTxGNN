@@ -4,17 +4,17 @@ title: Celecoxib
 parent: Model Prediction Only (L5)
 nav_order: 163
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Celecoxib: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis…"
 monitor_inn: "Celecoxib"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ The score is high, but there are **0 clinical trials** and **0 publications** su
 |------|------|
 | Original Indication | Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, juvenile idiopathic arthritis (the Indian licence records contain no approved-indication text, so this comes from the drug's known indication data) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -110,7 +110,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. There are no trials or publications, and no plausible mechanism links COX-2 inhibition to the *GDF5*-related skeletal defect. The safety profile (cardiovascular, gastrointestinal and renal signals) offers no offsetting benefit for this indication.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications, and no plausible mechanism links COX-2 inhibition to the *GDF5*-related skeletal defect. The safety profile (cardiovascular, gastrointestinal and renal signals) offers no offsetting benefit for this indication.
 
 **To proceed, the following is needed:**
 - Mechanistic or preclinical evidence that COX-2 inhibition affects GDF5/BMP signalling or limb growth in this disorder
@@ -118,7 +118,6 @@ The prediction rests only on a graph-based score. There are no trials or publica
 - Package insert warnings and contraindications from the Indian labels
 - A safety assessment relevant to the likely patient population, including paediatric use
 
-**Note on other predictions for celecoxib:** Within the same ranked list, the strongest evidence is for *inflammatory spondylopathy* (ankylosing spondylitis and axial spondyloarthritis). It has 4 completed Phase 3/4 randomized trials (for example NCT00648141, NCT02528201, NCT01934933, NCT02758782) and a published randomized trial report (PMID 38228361). However, this overlaps celecoxib's existing label, so it is better described as on-label use than as repurposing. A separate evaluation would be more informative than this one.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

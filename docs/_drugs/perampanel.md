@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Perampanel
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 657
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Perampanel: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,22 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Perampanel: From Partial Epilepsy to Visual Epilepsy
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Perampanel is an AMPA-receptor antagonist originally used to treat partial (focal) epilepsy.
-The TxGNN model predicts it may be effective for **visual epilepsy** with a very high score, but **no clinical trials** and only **general epilepsy literature** (none specific to visually induced seizures) support this prediction.
-Among the other predicted indications, **status epilepticus** has the most evidence, with **4 clinical trials** and **19 publications**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Partial epilepsy; partial motor epilepsy |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Beta-ketothiolase deficiency |
+| TxGNN Prediction Score | 0.9979 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,13 +58,12 @@ Perampanel is a non-competitive AMPA-receptor antagonist. It reduces glutamate-m
 
 Visual (photosensitive or visually triggered) epilepsy is a reflex seizure type, and these seizures are plausibly driven by cortical hyperexcitability. This gives a mechanistic reason to expect benefit. Preclinical studies also show perampanel suppresses audiogenic seizures in reflex-epilepsy rodent models.
 
-However, the very high TxGNN score mainly reflects how close visual epilepsy sits to the approved epilepsy indications in the knowledge graph. It is not disease-specific evidence. The retrieved literature covers general epilepsy topics (guidelines, network meta-analyses, pregnancy, status epilepticus) and nothing on visually induced seizures.
+It is not disease-specific evidence. The retrieved literature covers general epilepsy topics (guidelines, network meta-analyses, pregnancy, status epilepticus) and nothing on visually induced seizures.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials are registered for visual epilepsy.
 
-For context, the following trials relate to the best-supported alternative prediction, **status epilepticus**:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -122,7 +119,7 @@ Please refer to the package insert for further safety information.
 **Decision: Hold**
 
 **Rationale:**
-The visual epilepsy prediction rests on mechanistic plausibility and a knowledge-graph score alone. There are no trials and no disease-specific literature. Perampanel is already widely marketed in India for epilepsy, so access is not the obstacle; evidence is.
+There are no trials and no disease-specific literature. Perampanel is already widely marketed in India for epilepsy, so access is not the obstacle; evidence is.
 
 **To proceed, the following is needed:**
 - Disease-specific clinical or case data for visually induced or photosensitive seizures

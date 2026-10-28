@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **hypervitaminosis**, but the d
 |------|------|
 | Original Indication | Obesity disorder; monogenic obesity (the approved indication text in the India license record is blank) |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Lorcaserin is generally known as a selective 5-HT2C receptor agonist that reduces appetite, and its efficacy was studied in obesity.
 
-For the top-ranked prediction, hypervitaminosis, no plausible mechanistic link was identified. Hypervitaminosis results from excess vitamin intake or accumulation and is not known to involve serotonergic pathways. The very high TxGNN score (0.9997) is a graph-based prediction only, and no trial or literature evidence supports it.
+For the top-ranked prediction, hypervitaminosis, no plausible mechanistic link was identified. Hypervitaminosis results from excess vitamin intake or accumulation and is not known to involve serotonergic pathways. The very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trial or literature evidence supports it.
 
-Among the four predictions, the second-ranked one, **proximal 16p11.2 microdeletion syndrome** (score 99.96%), is the most biologically coherent. This syndrome is associated with early-onset obesity, hyperphagia and neurodevelopmental features, which overlaps conceptually with lorcaserin's original indications and with 5-HT2C-mediated appetite regulation. It still has no trial or literature support. The other two predictions, obsolete hypertelorism (99.91%) and frontorhiny (99.87%), are craniofacial structural anomalies with no credible mechanistic link to an appetite-pathway agonist.
+Among the four predictions, the second-ranked one, **proximal 16p11.2 microdeletion syndrome** (score 0.9996), is the most biologically coherent. This syndrome is associated with early-onset obesity, hyperphagia and neurodevelopmental features, which overlaps conceptually with lorcaserin's original indications and with 5-HT2C-mediated appetite regulation. It still has no trial or literature support. The other two predictions, obsolete hypertelorism (0.9991) and frontorhiny (0.9987), are craniofacial structural anomalies with no credible mechanistic link to an appetite-pathway agonist.
 
 Lorcaserin was also withdrawn from the US market in 2020 because of a cancer-risk signal, which would weigh heavily on any new research proposal.
 

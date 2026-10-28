@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Triptorelin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 870
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Triptorelin: predicted new indication Precocious puberty (evidence level L5). Approved use: Not available"
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+description: "Triptorelin: predicted new indication Hypertrichosis (disease) (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Triptorelin: From Approved Hormonal Therapy to Precocious Puberty
+## Triptorelin: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Triptorelin is a GnRH (gonadotropin-releasing hormone) agonist that is marketed in India, but the approved indication text is not available in the data compiled for this report.
 The TxGNN model's top-scoring prediction with real supporting evidence is **precocious puberty**, backed by **8 clinical trials** and **19 publications**. However, this is already an established, marketed use of triptorelin, so it is not a true repurposing finding.
-The other nine predictions (including the top-ranked hypertrichosis) have little or no supporting evidence and are most likely knowledge-graph artifacts.
+The other nine predictions (including the top-ranked hypertrichosis) have little or no supporting evidence and are most likely TxGNN model (deep learning) artifacts.
 
 ---
 
@@ -48,12 +48,12 @@ The other nine predictions (including the top-ranked hypertrichosis) have little
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (approved indication text is empty in all six registrations) |
-| Predicted New Indication | Precocious puberty (the highest-ranked prediction, hypertrichosis, has only L5 evidence and no credible mechanism; precocious puberty is the best-supported of the ten) |
-| TxGNN Prediction Score | 99.89% (precocious puberty); 99.997% (hypertrichosis, rank 1) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L1 (precocious puberty) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails (precocious puberty only) |
 
 ---
@@ -65,7 +65,7 @@ Detailed mechanism-of-action data was not available in the data compiled for thi
 This mechanism directly addresses central precocious puberty (CPP), which is caused by premature activation of the hypothalamic-pituitary-gonadal axis. The prediction is therefore mechanistically sound and consistent with the established use of GnRH agonists as the standard therapy for CPP. Because CPP is an approved, marketed use, the original-indication field in the source data appears incomplete.
 
 Most of the other predictions lack a plausible mechanism:
-- **Hypertrichosis (rank 1):** The only paper found describes ciclosporin-induced hypertrichosis in a patient who was also taking triptorelin. It is an adverse-event report, not evidence of benefit. The high score is likely a graph-proximity artifact.
+- **Hypertrichosis (rank 1):** The only paper found describes ciclosporin-induced hypertrichosis in a patient who was also taking triptorelin. It is an adverse-event report, not evidence of benefit.
 - **Ambras syndrome, malformation syndromes, Dandy-Walker syndrome, hair shaft abnormalities, familial trichomegaly:** These are genetic or structural conditions with no link to GnRH signalling.
 - **Allergic urticaria:** Hypersensitivity reactions are known adverse effects of GnRH analogues, so the direction of effect may be opposite to benefit.
 - **Familial male-limited precocious puberty:** This is driven by activating LHCGR mutations, independent of gonadotropins, so a GnRH agonist would not address the primary driver. It would matter only if secondary central puberty develops. The retrieved literature concerns ketoconazole and letrozole, not triptorelin.
@@ -137,7 +137,6 @@ Package insert warnings and contraindications were not available in the data com
 - **Major:** Dolasetron
 - **Moderate:** antidiabetic agents (acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, and the gliptins, gliflozins and GLP-1 agonists such as alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, albiglutide and dulaglutide), clarithromycin, famotidine, palonosetron, loperamide, bisacodyl, picosulfuric acid and polyethylene glycol with electrolytes
 
-The antidiabetic interactions are consistent with the knowledge-graph signals around hyperglycaemia and diabetes, and glycaemic monitoring is advisable.
 
 ---
 
@@ -147,7 +146,6 @@ The antidiabetic interactions are consistent with the knowledge-graph signals ar
 
 **Rationale:**
 - Precocious puberty has multiple completed Phase 3 studies (L1), including four Phase 3 trials of triptorelin formulations in CPP and a consistent literature base. It is a mechanistically sound, established use rather than a new repurposing opportunity.
-- The other nine predictions have no credible mechanism and little or no clinical evidence (L4–L5), and the high TxGNN scores appear to be graph artifacts.
 
 **To proceed, the following is needed:**
 - The approved indication text for the Indian registrations, to confirm whether CPP is already labelled, since all six registrations currently have empty indication fields. If it is, no repurposing action is required.

@@ -48,9 +48,9 @@ with **2 clinical trials** (both only indirectly relevant) and **10 publications
 |------|------|
 | Original Indication | Anxiety |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

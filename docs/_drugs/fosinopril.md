@@ -4,17 +4,17 @@ title: Fosinopril
 parent: Model Prediction Only (L5)
 nav_order: 381
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "Fosinopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fosinopril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Fosinopril: From Hypertension to Malignant Hypertensive Renal Disease
+## Fosinopril: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **no registered clinical trials** and **no relevant publ
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,9 +61,9 @@ Currently, detailed mechanism of action data is not available in the data compil
 Malignant hypertensive kidney disease involves severe blood pressure elevation and activation of the renin-angiotensin-aldosterone system (RAAS). Blocking angiotensin-converting enzyme is therefore biologically plausible. However, this prediction is essentially an extension of the approved hypertension indication rather than a true repurposing.
 
 Other high-scoring predictions in the same list are:
-- **Malignant renovascular hypertension** (99.87%): plausible because renal hypoperfusion drives RAAS activation, but caution is needed in bilateral renal artery stenosis because of the risk of acute kidney injury.
-- **Pulmonary hypertension (unclear multifactorial mechanism, and due to lung disease/hypoxia)** (99.87%): the link is indirect, and ACE inhibitors have no established benefit here. Systemic vasodilation may also cause hypotension.
-- **Braddock syndrome** (99.81%): no mechanistic rationale could be established; the score is likely a graph-based artifact.
+- **Malignant renovascular hypertension** (0.9987): plausible because renal hypoperfusion drives RAAS activation, but caution is needed in bilateral renal artery stenosis because of the risk of acute kidney injury.
+- **Pulmonary hypertension (unclear multifactorial mechanism, and due to lung disease/hypoxia)** (0.9987): the link is indirect, and ACE inhibitors have no established benefit here. Systemic vasodilation may also cause hypotension.
+- **Braddock syndrome** (0.9981): no mechanistic rationale could be established; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -100,7 +100,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction scores highly in the model (99.87%), but there are no clinical trials or supporting literature, so the evidence level is L5. It is also largely an extension of the approved hypertension indication rather than a new therapeutic direction.
+The prediction scores highly in the model (0.9987), but there are no clinical trials or supporting literature, so the evidence level is L5. It is also largely an extension of the approved hypertension indication rather than a new therapeutic direction.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India Pharma website (a blocking gap for safety screening)

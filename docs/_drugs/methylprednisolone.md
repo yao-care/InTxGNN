@@ -4,7 +4,7 @@ title: Methylprednisolone
 parent: Moderate Evidence (L3-L4)
 nav_order: 541
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Methylprednisolone: predicted new indication Alopecia areata (evidence level L3). Approved use: Autoimmune disease, inflammatory bowel disease (Crohn disease)…"
 monitor_inn: "Methylprednisolone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Methylprednisolone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **1 clinical trial** and **20 publications** currently supporting this dire
 |------|------|
 | Original Indication | Autoimmune disease, inflammatory bowel disease (Crohn disease), adrenocortical insufficiency and others (the registered indication text is not available in the India licence data) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

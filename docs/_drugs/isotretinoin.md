@@ -4,17 +4,17 @@ title: Isotretinoin
 parent: Model Prediction Only (L5)
 nav_order: 454
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Isotretinoin: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertensive disorder / hypertension"
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
+description: "Isotretinoin: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Isotretinoin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Isotretinoin: From Hypertensive Disorder to Malignant Renovascular Hypertension
+## Isotretinoin: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Isotretinoin is listed in the underlying knowledge graph with hypertensive disorder and hypertension as its original indications. This listing conflicts with its known clinical use in severe recalcitrant nodular acne and may be a data-mapping artifact.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+This listing conflicts with its known clinical use in severe recalcitrant nodular acne and may be a data-mapping artifact.
 
 ---
 
@@ -47,11 +46,11 @@ The TxGNN model predicts it may be effective for **malignant renovascular hypert
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder / hypertension (from the knowledge graph; no approved indication text is available from Indian licences) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.01% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +60,7 @@ The TxGNN model predicts it may be effective for **malignant renovascular hypert
 
 Currently, detailed mechanism of action data is not available. Isotretinoin is a retinoid. Retinoid signalling has been studied in vascular and renal biology, but this is a hypothesis and not established evidence for treating malignant renovascular hypertension.
 
-The "original indications" in the knowledge graph (hypertensive disorder, hypertension) do not match the drug's known clinical use, which is severe recalcitrant nodular acne. The prediction therefore probably reflects relationships between nodes in the graph rather than a real pharmacological link. A second prediction, malignant hypertensive renal disease, has an identical score (99.01%). This suggests the two are closely related graph nodes and not independent signals.
+A second prediction, malignant hypertensive renal disease, has an identical score (0.9901).
 
 Overall, no supported mechanistic link exists between isotretinoin and malignant renovascular hypertension. The high score should be read as a model output only.
 
@@ -129,7 +128,7 @@ Package insert warnings and contraindications could not be obtained for this rep
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only model-based support (L5), with no clinical trials and no literature. The original indication in the knowledge graph appears to be a data artifact. The drug's known safety profile (teratogenicity, lipid elevation, hepatotoxicity, many interactions) is unfavourable for a severe hypertensive condition.
+The prediction has only model-based support (L5), with no clinical trials and no literature. The drug's known safety profile (teratogenicity, lipid elevation, hepatotoxicity, many interactions) is unfavourable for a severe hypertensive condition.
 
 **To proceed, the following is needed:**
 - Verification of the original indication mapping (isotretinoin's known use is acne)

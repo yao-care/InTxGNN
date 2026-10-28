@@ -4,17 +4,17 @@ title: Irbesartan
 parent: Model Prediction Only (L5)
 nav_order: 445
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Irbesartan: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension, diabetic nephropathy"
 monitor_inn: "Irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+description: "Irbesartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Irbesartan: From Hypertension to Malignant Renovascular Hypertension
+## Irbesartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Irbesartan is an angiotensin II receptor blocker originally used to treat hypertension and diabetic nephropathy.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but **no clinical trials** and **no publications** currently support this specific prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, diabetic nephropathy (the license records contain no indication text) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.31% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,9 +62,9 @@ Renovascular hypertension is driven largely by activation of the renin-angiotens
 There is an important caveat. ARBs are generally contraindicated or used with great caution in bilateral renal artery stenosis because of the risk of acute kidney injury. The knowledge graph also lists renal artery obstruction among the contraindicated conditions. The high TxGNN score is a computational prediction only and does not address this safety concern.
 
 Other predicted indications were also reviewed:
-- **Malignant hypertensive renal disease** (score 99.31%): This is largely an extension of the existing hypertension and diabetic nephropathy label. It has no direct trials or literature, and the evidence level is L5.
-- **Pulmonary hypertension, unclear multifactorial mechanism** (score 99.25%): Angiotensin II contributes to pulmonary vascular remodeling, so the approach is plausible but unproven. It has no trials or literature (L5), and systemic hypotension is a concern.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.25%): This is the only prediction with literature support, all of it preclinical (L4). It is described in the notes below.
+- **Malignant hypertensive renal disease** (score 0.9931): This is largely an extension of the existing hypertension and diabetic nephropathy label. It has no direct trials or literature, and the evidence level is L5.
+- **Pulmonary hypertension, unclear multifactorial mechanism** (score 0.9925): Angiotensin II contributes to pulmonary vascular remodeling, so the approach is plausible but unproven. It has no trials or literature (L5), and systemic hypotension is a concern.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9925): This is the only prediction with literature support, all of it preclinical (L4). It is described in the notes below.
 
 ## Clinical Trial Evidence
 
@@ -110,7 +109,7 @@ The package insert warnings and contraindications could not be obtained, so plea
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (99.31%) with no clinical trials or literature (L5). ARBs also carry a known risk of acute kidney injury in renal artery stenosis, which is the central lesion in renovascular hypertension.
+The prediction rests only on a model score (0.9931) with no clinical trials or literature (L5). ARBs also carry a known risk of acute kidney injury in renal artery stenosis, which is the central lesion in renovascular hypertension.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source, since this blocks safety screening

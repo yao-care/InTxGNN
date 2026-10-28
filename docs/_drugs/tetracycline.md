@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tetracycline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 827
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bacterial infections, including urinary tract infection, bronchitis…"
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
+description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tetracycline
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Tetracycline: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+## Tetracycline: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are **no registered clinical trials** and only **1 publication** (a 19
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections, including urinary tract infection, bronchitis, acne, pneumonia and conjunctivitis (from the knowledge graph; no approved-indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.58% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9958 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Tetracycline is an established treatment for chlamydial (trachoma/inclusion) conjunctivitis, and persistent superficial punctate keratitis can follow chlamydial infection. Its antibacterial activity against *Chlamydia*, together with the anti-inflammatory and MMP-inhibiting effects of tetracyclines on the ocular surface, gives a plausible link.
 
-However, the only supporting paper is a 1992 report of post-chlamydial keratitis. It is indirect and does not test tetracycline for this indication. The high TxGNN score is likely driven by closeness to the approved conjunctivitis indications in the knowledge graph.
+However, the only supporting paper is a 1992 report of post-chlamydial keratitis. It is indirect and does not test tetracycline for this indication. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the approved conjunctivitis indications, not biological evidence.
 
 Other predictions for this drug are weaker or different in kind. Chronic rhinosinusitis (including its ethmoidal subtype) has class-level evidence, mostly on doxycycline. Paranasal sinus neoplasm has no supporting data.
 

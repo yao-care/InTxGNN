@@ -6,9 +6,9 @@ nav_order: 432
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Indomethacin: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Inflammatory joint and soft-tissue conditions (e.g.…"
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
+description: "Indomethacin: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Indomethacin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Indomethacin: From Inflammatory Arthritis and Related Conditions to Brachydactyly-Syndactyly Syndrome
+## Indomethacin: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 
 | Item | Content |
 |------|------|
-| Original Indication | Inflammatory joint and soft-tissue conditions (e.g., rheumatoid arthritis, ankylosing spondylitis, gout, osteoarthritis, bursitis, tendinitis) and patent ductus arteriosus. Indication text on the Indian licences is not specified, so this comes from the knowledge-graph indication list. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Indomethacin belongs to the NSAID class and is generally understood to reduce prostaglandin-driven inflammation by inhibiting cyclooxygenase (COX) enzymes. This is why it works in inflammatory arthritis and gout.
 
-Brachydactyly-syndactyly syndrome, however, is a rare congenital limb malformation with a genetic developmental basis. It is not an inflammatory disease, and no mechanistic link between COX inhibition and limb patterning has been established. The very high TxGNN score most likely reflects the disease's closeness to musculoskeletal and joint disease nodes in the knowledge graph, not a genuine therapeutic rationale.
+Brachydactyly-syndactyly syndrome, however, is a rare congenital limb malformation with a genetic developmental basis. It is not an inflammatory disease, and no mechanistic link between COX inhibition and limb patterning has been established. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The rationale for this prediction is therefore weak. It should be treated as a computational signal only, with no biological or clinical support at present.
 
@@ -110,7 +110,7 @@ Please refer to the package insert for authoritative warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no literature, and no plausible mechanistic link between COX inhibition and a genetic limb malformation. The high score appears to be a graph-based artifact, and indomethacin carries meaningful cardiovascular, gastrointestinal and renal risks that are not justified by any evidence of benefit here.
+The prediction has no clinical trials and no literature, and no plausible mechanistic link between COX inhibition and a genetic limb malformation. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Indomethacin carries meaningful cardiovascular, gastrointestinal and renal risks that are not justified by any evidence of benefit here.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, and any biological evidence linking prostaglandin pathways to this syndrome

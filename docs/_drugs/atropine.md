@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 |------|------|
 | Original Indication | Not stated in the licence data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.56% |
+| TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ The literature gives a plausible but indirect link:
 
 All of this is preclinical or physiological. No study tests atropine as a migraine treatment in humans. Several retrieved papers are off-topic or about adverse events (topiramate, botulinum toxin, a perioperative case report, ergot pharmacology) and add no support.
 
-A second predicted indication, **migraine with brainstem aura** (score 99.42%, evidence level L5), rests on a single mouse study (PMID 31945385). That study shows cholinergic *activation* inhibits cortical spreading depression, which, if anything, argues against an antagonist such as atropine. It is not recommended for pursuit.
+A second predicted indication, **migraine with brainstem aura** (score 0.9942, evidence level L5), rests on a single mouse study (PMID 31945385). That study shows cholinergic *activation* inhibits cortical spreading depression, which, if anything, argues against an antagonist such as atropine. It is not recommended for pursuit.
 
 ## Clinical Trial Evidence
 
@@ -105,7 +105,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.56%), but the supporting evidence is limited to preclinical and indirect studies, with no registered trials and no human data on atropine for migraine. The anticholinergic adverse-effect profile and the large interaction burden further limit feasibility for chronic use.
+The TxGNN score is very high (0.9956), but the supporting evidence is limited to preclinical and indirect studies, with no registered trials and no human data on atropine for migraine. The anticholinergic adverse-effect profile and the large interaction burden further limit feasibility for chronic use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian licences (currently a blocking gap for safety screening)

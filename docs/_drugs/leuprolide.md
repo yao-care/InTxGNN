@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **osteoarthritis**, but there a
 |------|------|
 | Original Indication | Endometriosis (the data compiled for this report lists endometriosis, endometriosis of uterus, precocious puberty, aromatase excess syndrome and familial male-limited precocious puberty; Indian licence entries contain no approved indication text) |
 | Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.70% |
+| TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on general 
 
 For osteoarthritis, however, **no established mechanistic link** was found. Estrogen deficiency is generally associated with worse joint health (for example, higher osteoarthritis risk after menopause), and GnRH agonist therapy can reduce bone mineral density. This points to **potential harm rather than benefit**.
 
-The very high TxGNN score (0.997) is a computational prediction only. The one publication retrieved is a case report of metastatic prostate cancer mimicking inflammatory breast cancer. It does not address osteoarthritis. The second-ranked prediction, pseudoachondroplasia (score 99.69%), also has no plausible mechanistic link and no supporting trials or literature.
+The very high TxGNN score (0.997) is a computational prediction only. The one publication retrieved is a case report of metastatic prostate cancer mimicking inflammatory breast cancer. It does not address osteoarthritis. The second-ranked prediction, pseudoachondroplasia (score 0.9969), also has no plausible mechanistic link and no supporting trials or literature.
 
 ## Clinical Trial Evidence
 

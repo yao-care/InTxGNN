@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Hypotensive disorder (the registration records compiled for this report contain no approved indication text) |
 | Predicted New Indication | Postural orthostatic tachycardia syndrome |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,11 +60,11 @@ Currently, detailed mechanism of action data is not available. Based on general 
 
 In POTS, standing up causes blood to pool in the lower body and the heart rate rises sharply. Raising vascular tone could, in theory, counter the pooling and the orthostatic blood pressure component. This is the main reason the prediction looks plausible.
 
-However, the same mechanism is likely to push the heart rate higher, and a rapid heart rate is the defining feature of POTS. The net effect is therefore uncertain and could be harmful. The high score of 99.84% is a computational prediction only, and no trials or literature were found to back it up.
+However, the same mechanism is likely to push the heart rate higher, and a rapid heart rate is the defining feature of POTS. The net effect is therefore uncertain and could be harmful. The high score of 0.9984 is a computational prediction only, and no trials or literature were found to back it up.
 
 Other lower-ranked predictions were also generated, but they are weaker:
-- **Sinoatrial node disease** (score 99.33%) and **sinoatrial block** (score 99.33%): a stimulant of heart rate might theoretically help a slow heartbeat, but it carries arrhythmia risk and established treatments are better supported. These two predictions are likely correlated and add little independent support.
-- **Variably protease-sensitive prionopathy** (score 99.11%): no plausible mechanistic link was identified, and this is likely a false positive.
+- **Sinoatrial node disease** (score 0.9933) and **sinoatrial block** (score 0.9933): a stimulant of heart rate might theoretically help a slow heartbeat, but it carries arrhythmia risk and established treatments are better supported. These two predictions are likely correlated and add little independent support.
+- **Variably protease-sensitive prionopathy** (score 0.9911): no plausible mechanistic link was identified, and this is likely a false positive.
 
 ## India Market Information
 

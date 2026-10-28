@@ -6,9 +6,9 @@ nav_order: 907
 evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Tinea pedis, exanthem, dermatitis, tinea corporis…"
 monitor_inn: "Zinc oxide"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
+description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Zinc Oxide
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Zinc Oxide: From Skin Conditions (Tinea Pedis, Dermatitis, Hemorrhoids) to Acne
+## Zinc Oxide: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **no registered clinical trials** and only **3 indirect 
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, exanthem, dermatitis, tinea corporis, cutaneous candidiasis, pityriasis versicolor, hemorrhoid, burn, proctitis, injury (from the knowledge graph; no approved indication text on the Indian licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

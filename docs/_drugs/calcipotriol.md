@@ -46,9 +46,9 @@ Calcipotriol is a topical vitamin D3 analogue that is widely marketed in India i
 |------|------|
 | Original Indication | Not stated in the licence records (calcipotriol is generally known as a psoriasis treatment) |
 | Predicted New Indication | Seborrheic keratosis |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (treat as a research question) |
 

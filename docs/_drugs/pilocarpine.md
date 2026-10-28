@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Pilocarpine
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 670
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Pilocarpine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Pilocarpine: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Pilocarpine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,48 +32,60 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Pilocarpine: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+<!-- known-uses-page -->
+<!-- description: Pilocarpine: known uses and market status in India; currently no new candidate indication -->
+## Pilocarpine: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Pilocarpine, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use found among the candidates is primary hereditary glaucoma, which is supported by a licence in another country.
 
-Pilocarpine was originally used to lower eye pressure in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but at present there are **no clinical trials and no publications** supporting this prediction, so it rests on model output alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma; ocular hypertension (from the knowledge graph, as no approved indication text is available in the India licence records) |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Pilocarpine is a muscarinic M3 receptor agonist. It contracts the ciliary muscle and increases outflow of fluid through the trabecular meshwork, which lowers intraocular pressure (IOP). This is the basis of its use in open-angle glaucoma and ocular hypertension. Detailed mechanism of action data are not available in the data compiled for this report, so this description is based on general pharmacological knowledge rather than a verified source record.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| primary hereditary glaucoma | licence in another country (approved indication: glaucoma) |
 
-The high prediction score likely reflects the shared pathophysiology of raised IOP and impaired outflow, and the closeness of primary hereditary glaucoma to the approved glaucoma indications in the knowledge graph.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-There are important caveats. Hereditary glaucoma forms, such as primary congenital glaucoma (often linked to CYP1B1 or other genes), frequently involve developmental abnormalities of the anterior chamber angle. Miotics may work less well there than in adult open-angle disease, and in some settings pilocarpine could even worsen angle closure. The mechanistic link is therefore a prediction only and is not supported by clinical data.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-Pilocarpine is marketed in India as a single-ingredient product under 16 valid registrations, with no cancelled ones. Approved indication text is not recorded for any of them. The main authorizations are listed below.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| 36699 | Carpinol Eye Drop | Bottle of 1 ml eye drop | Sunways India Pvt Ltd |
-| 175055 | Pilotbg Tablet | Strip of 10 tablets | TBG Pharma Ltd |
-| 36641 | Carpine 0.5% Injection | Vial of 1 ml injection | Intas Pharmaceuticals Ltd |
-| 178124 | Pilocar 4% Eye Drop | Packet of 5 ml eye drop | FDC Ltd |
-| 173852 | Pilomax Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
-
-Available routes include ophthalmic (eye drops), oral (tablets) and injectable forms.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 36699 | Carpinol Eye Drop | bottle of 1 ml Eye Drop | Valid |
+| 175055 | Pilotbg Tablet | strip of 10 tablets | Valid |
+| 36641 | Carpine 0.5% Injection | vial of 1 ml Injection | Valid |
+| 178124 | Pilocar 4% Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 173852 | Pilomax Tablet | strip of 10 tablets | Valid |
+| 176170 | Pilomin 0.5% Injection | vial of 1 ml Injection | Valid |
+| 177171 | Pilocar 1% Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 36908 | Carpinol Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 173863 | Pilocar 2% Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 181504 | Pilodrops 2% Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 43916 | Carpine Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 129424 | Locarp 2% Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 177700 | Pilocarpin 2% Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 176869 | Pilo 2 Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 182191 | Pilagan Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 179388 | Pilopress Eye Drop | packet of 5 ml Eye Drop | Valid |
 
 ## Safety Considerations
 
@@ -97,18 +110,6 @@ Available routes include ophthalmic (eye drops), oral (tablets) and injectable f
 
 Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction score is very high (99.83%), but no clinical trials or publications support pilocarpine in primary hereditary glaucoma. Developmental angle abnormalities in these patients may make miotics less effective, or even harmful.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications for the India-marketed products (a blocking gap for safety screening)
-- Verified mechanism of action data
-- A literature and clinical trial search specific to hereditary and congenital glaucoma subtypes, including the response of these patients to miotics
-- An assessment of whether the available ophthalmic formulations are suitable for the target population, including paediatric use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Esomeprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 323
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Esomeprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Esomeprazole: From Peptic Ulcer Disease and GERD to Duodenogastric Reflux
+## Esomeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Esomeprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease (GERD), and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **duodenogastric reflux** (bile reflux into the stomach).
 However, there are **0 clinical trials** and only **1 general review article** for this specific indication, so the prediction rests mainly on the model score.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, Zollinger-Ellison syndrome (label text for the Indian licences is not available) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.53% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9945 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +59,7 @@ Esomeprazole suppresses gastric acid secretion by irreversibly inhibiting the H+
 
 Duodenogastric reflux and the drug's original indications are both upper gastrointestinal disorders. The link is plausible but not direct. The main injurious agents in bile reflux are bile and pancreatic secretions, not acid. Acid suppression may therefore relieve symptoms or mucosal injury only indirectly.
 
-The very high TxGNN score (99.53%) most likely reflects the disease's closeness to acid-related GI disorders in the knowledge network. It is not disease-specific evidence. The score should be read as a hypothesis, not as confirmation of efficacy.
+It is not disease-specific evidence. The score should be read as a hypothesis, not as confirmation of efficacy.
 
 ## Clinical Trial Evidence
 

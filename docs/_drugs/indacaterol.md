@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Indacaterol
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 430
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Indacaterol: predicted new indication Bronchial disease (evidence level L1). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
+description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Indacaterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Indacaterol: From Obstructive Airway Disease to Bronchial Disease
+## Indacaterol: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Indacaterol is an ultra-long-acting beta2-agonist bronchodilator, marketed in In
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the data compiled for this report (the approved indication text on the Indian licences is blank) |
-| Predicted New Indication | Bronchial disease |
-| TxGNN Prediction Score | 99.18% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
+| TxGNN Prediction Score | 0.9954 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The data compiled for this report predicted 10 candidate indications. Bronchial disease is the only one with clinical trial and literature support. The other nine (for example nephrogenic syndrome of inappropriate antidiuresis, headache disorder, anaphylaxis and myositis) have no trials or publications and remain at Hold. Bronchial disease is therefore the focus of this report.

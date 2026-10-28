@@ -4,17 +4,17 @@ title: Calcium Citrate
 parent: Model Prediction Only (L5)
 nav_order: 134
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Calcium Citrate: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not stated in the available licence data"
 monitor_inn: "Calcium citrate"
-predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "septal myocardial infarction", "migraine disorder", "posterolateral myocardial infarction", "posteroinferior myocardial infarction"]
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
 ---
 
 # Calcium Citrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **hemoglobinopathy** with a ver
 |------|------|
 | Original Indication | Not stated in the available licence data |
 | Predicted New Indication | Hemoglobinopathy |
-| TxGNN Prediction Score | 99.37% |
+| TxGNN Prediction Score | 0.9937 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **hemoglobinopathy** with a ver
 
 Currently, detailed mechanism of action data is not available. Calcium citrate is a calcium supplement and citrate source. Calcium plays a central role in bone metabolism, and calcium and vitamin D deficiency or inadequate intake is common.
 
-The data compiled for this report found **no clear mechanistic link** between calcium citrate and hemoglobinopathy. Calcium and bone health matter in thalassemia-related osteoporosis, but that is supportive care, not a disease-modifying effect on the underlying blood disorder. The high TxGNN score therefore appears to reflect knowledge-graph proximity rather than a pharmacological rationale.
+The data compiled for this report found **no clear mechanistic link** between calcium citrate and hemoglobinopathy. Calcium and bone health matter in thalassemia-related osteoporosis, but that is supportive care, not a disease-modifying effect on the underlying blood disorder. The high TxGNN score (0.9937) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions show the same pattern: several are other hematologic conditions (beta-thalassemia, a rare glycolytic enzyme deficiency, a chromosome 16p deletion) that likely cluster together in the network, and none has trial or literature support. The most evidence-rich prediction is myocardial infarction (4 publications, none a clinical trial of calcium citrate for MI). Its evidence is mixed: a preclinical rat study of citrate pretreatment in ischemia/reperfusion injury, alongside debate over whether calcium supplements raise cardiovascular risk.
 

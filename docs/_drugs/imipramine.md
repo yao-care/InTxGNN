@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 |------|------|
 | Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder, nocturnal enuresis |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

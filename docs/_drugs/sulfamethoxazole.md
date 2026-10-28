@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulfamethoxazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 797
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Sulfamethoxazole: predicted new indication Acute contagious conjunctivitis (evidence level L4). Approved use: Infectious otitis media, nocardiosis, toxoplasmosis, hirudiniasis…"
 monitor_inn: "Sulfamethoxazole"
 predicted_indications: ["acute contagious conjunctivitis"]
+description: "Sulfamethoxazole: predicted new indication Acute contagious conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sulfamethoxazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Sulfamethoxazole: From Bacterial Infections (Otitis Media, Nocardiosis, Toxoplasmosis and Others) to Acute Contagious Conjunctivitis
+## Sulfamethoxazole: Acute contagious conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ Support is limited to **0 clinical trials** and **1 publication** (a cohort stud
 
 | Item | Content |
 |------|------|
-| Original Indication | Infectious otitis media, nocardiosis, toxoplasmosis, hirudiniasis, myiasis, pneumocystosis, shigellosis, conjunctivitis, cat-scratch disease (from the knowledge graph; no approved-indication text is available from the Indian licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acute contagious conjunctivitis |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9963 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Support is limited to **0 clinical trials** and **1 publication** (a cohort stud
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sulfamethoxazole inhibits bacterial dihydropteroate synthase and blocks folate synthesis. It is usually combined with trimethoprim, which blocks the folate pathway at a second step. This sequential blockade is plausibly relevant to bacterial conjunctivitis, an infection caused by susceptible pathogens.
 
-Importantly, conjunctivitis is already listed among the drug's original indications. The high TxGNN score (99.63%) is therefore likely driven by this existing association rather than by a genuinely new finding. The mechanism link above is inferred from general knowledge, not from the supplied data.
+Importantly, conjunctivitis is already listed among the drug's original indications. The high TxGNN score (0.9963) is therefore likely driven by this existing association rather than by a genuinely new finding. The mechanism link above is inferred from general knowledge, not from the supplied data.
 
 ## Clinical Trial Evidence
 

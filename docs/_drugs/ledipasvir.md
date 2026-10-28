@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ledipasvir
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 474
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ledipasvir: predicted new indication Hepatitis B virus infection (evidence level L5). Approved use: Chronic hepatitis C virus infection (hepatitis C virus infection)"
 monitor_inn: "Ledipasvir"
-predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 ---
 
 # Ledipasvir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The mechanistic basis for an anti-HBV effect is weak, so this should be treated 
 |------|------|
 | Original Indication | Chronic hepatitis C virus infection (hepatitis C virus infection) |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L2 (by the scoring rules; see the note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The only completed Phase 2/3 study (NCT02555943, n=23) is in HCV/HBV co-infection and measures HCV cure as its primary endpoint. The only study that directly tests HBV is a single-arm Phase 2 pilot. The strict L2 label therefore overstates the strength of the evidence for HBV efficacy.

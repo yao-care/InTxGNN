@@ -4,17 +4,17 @@ title: Potassium Iodide
 parent: Moderate Evidence (L3-L4)
 nav_order: 691
 evidence_level: L4
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Potassium Iodide"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but s
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, nasopharyngitis (the registered label text is blank in the data compiled for this report) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The retrieved literature describes nasal and rhinofacial infections (pythiosis, Aspergillus rhinitis, Pseudallescheria infection, nasofacial zygomycosis) in which potassium iodide was used or discussed. A plausible link is an antifungal or immunomodulatory effect on granulomatous fungal infection of the nasal cavity.
 
-There are important caveats. The original indications are about mucus thinning, not antimicrobial action, so the two mechanisms differ. The high TxGNN score is a computational prediction and is not backed by controlled human data. In addition, the same prediction list includes acute laryngopharyngitis (score 99.95%, no trials or literature found, evidence level L5). That is close to the existing upper respiratory uses, so it is more a label-adjacent indication than a true repurposing.
+There are important caveats. The original indications are about mucus thinning, not antimicrobial action, so the two mechanisms differ. The high TxGNN score is a computational prediction and is not backed by controlled human data. In addition, the same prediction list includes acute laryngopharyngitis (score 0.9995, no trials or literature found, evidence level L5). That is close to the existing upper respiratory uses, so it is more a label-adjacent indication than a true repurposing.
 
 ---
 

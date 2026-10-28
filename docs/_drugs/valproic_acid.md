@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Valproic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 879
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Valproic Acid: predicted new indication Visual epilepsy (evidence level L3). Approved use: Epilepsy"
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Valproic Acid: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Valproic Acid: From Epilepsy to Visual Epilepsy
+## Valproic Acid: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Valproic acid is a broad-spectrum antiseizure drug, originally used for epilepsy, manic episodes of bipolar disorder and absence epilepsy.
-The TxGNN model predicts it may be effective for **Visual Epilepsy** (photosensitive and visually triggered seizures), with **no registered clinical trials** and **20 publications** retrieved, mostly reviews and one randomized trial in a related syndrome.
 This is essentially an extension of its established use to a seizure subtype, rather than a new therapeutic area.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy; manic bipolar affective disorder; absence epilepsy |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Trigeminal nerve neoplasm |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
-The first-ranked prediction, trigeminal nerve neoplasm (score 99.97%), was not selected. It has only a single unrelated case series (Sturge-Weber syndrome) and is rated L5 with a Hold recommendation. Visual epilepsy was chosen as the lead indication because it has the strongest supporting evidence among the predictions. Other predictions are summarised below.
+The first-ranked prediction, trigeminal nerve neoplasm (score 0.9997), was not selected. It has only a single unrelated case series (Sturge-Weber syndrome) and is rated L5 with a Hold recommendation. Visual epilepsy was chosen as the lead indication because it has the strongest supporting evidence among the predictions. Other predictions are summarised below.
 
 ## Why is This Prediction Reasonable?
 
@@ -66,15 +65,8 @@ Visual (photosensitive) epilepsy is a reflex seizure type within the generalized
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 1 | Trigeminal nerve neoplasm | 99.97% | L5 | Hold. No clear mechanistic link; the only paper is an unrelated case series |
-| 3 | Trigeminal neuralgia | 99.83% | L4 | Research question. Class-level reviews only; no valproate-specific trials, and not better supported than first-line carbamazepine or oxcarbazepine |
-| 4 | Eating seizures | 99.81% | L4 | Research question. Case reports only |
-| 5 | Startle epilepsy | 99.81% | L4 | Research question. A small study and case reports; hyperekplexia is a distinct disorder |
-| 6 | Thinking seizures | 99.81% | L4 | Hold. Literature does not address this entity |
-| 7 | Orgasm-induced seizures | 99.81% | L5 | Hold. No trials or literature |
-| 8 | Micturition-induced seizures | 99.81% | L5 | Hold. Literature is general epilepsy only |
-| 9 | Audiogenic seizures | 99.81% | L4 | Hold. Rodent models only |
-| 10 | Reading seizures | 99.79% | L4 | Research question. Indirect support via juvenile myoclonic epilepsy |
+| 1 | Trigeminal nerve neoplasm | 0.9997 | L5 | Hold. No clear mechanistic link; the only paper is an unrelated case series |
+| 3 | Trigeminal neuralgia | 0.9983 | L4 | Research question. Class-level reviews only; no valproate-specific trials, and not better supported than first-line carbamazepine or oxcarbazepine |
 
 ## Clinical Trial Evidence
 
@@ -124,7 +116,7 @@ Package insert warnings and contraindications for the Indian products were not a
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Visual epilepsy is a reflex seizure type within the generalized epilepsy spectrum, where valproate is already established, so the prediction is pharmacologically plausible. Direct evidence is lacking, however: there are no trials, and support comes from reviews and a randomized trial in a related syndrome. The guardrails are teratogenicity, hepatotoxicity and the large number of drug interactions.
+Direct evidence is lacking, however: there are no trials, and support comes from reviews and a randomized trial in a related syndrome. The guardrails are teratogenicity, hepatotoxicity and the large number of drug interactions.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products, which are currently a blocking gap for safety screening

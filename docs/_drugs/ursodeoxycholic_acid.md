@@ -6,9 +6,9 @@ nav_order: 877
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Ursodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Cholelithiasis, cholecystolithiasis, choledocholithiasis…"
 monitor_inn: "Ursodeoxycholic acid"
 predicted_indications: ["homozygous familial hypercholesterolemia"]
+description: "Ursodeoxycholic Acid: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ursodeoxycholic Acid
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Ursodeoxycholic Acid: From Gallstone and Biliary Disease to Homozygous Familial Hypercholesterolemia
+## Ursodeoxycholic Acid: Homozygous familial hypercholesterolemia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Cholelithiasis, cholecystolithiasis, choledocholithiasis, primary biliary cholangitis, Reynolds syndrome (from the knowledge graph; the approved indication text on Indian licences is blank) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but **no clinical trials and no publications** currently support this direction,
 
 Currently, detailed mechanism of action data is not available. Based on known information, UDCA is a bile acid with established use in gallstone dissolution and primary biliary cholangitis, and it acts on bile acid and cholesterol metabolism, so it may be mechanistically linked to a lipid disorder.
 
-A plausible but unverified link runs through cholesterol handling. UDCA is reported to reduce intestinal cholesterol absorption and to suppress hepatic cholesterol synthesis and secretion, and it may lower LDL cholesterol modestly. This shared lipid and bile acid pathway is the most likely reason the graph model connects the drug to hypercholesterolemia.
+A plausible but unverified link runs through cholesterol handling. UDCA is reported to reduce intestinal cholesterol absorption and to suppress hepatic cholesterol synthesis and secretion, and it may lower LDL cholesterol modestly. This shared lipid and bile acid pathway is a possible reason the TxGNN model (deep learning) connects the drug to hypercholesterolemia. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The mechanistic case is weak, however. HoFH is caused mainly by LDL receptor dysfunction (variants in LDLR, APOB, PCSK9 or LDLRAP1), and its LDL elevation is largely independent of the pathways UDCA affects. A meaningful effect is therefore doubtful. The high score most likely reflects network proximity in the knowledge graph (shared lipid and bile acid nodes) and not demonstrated efficacy.
+The mechanistic case is weak, however. HoFH is caused mainly by LDL receptor dysfunction (variants in LDLR, APOB, PCSK9 or LDLRAP1), and its LDL elevation is largely independent of the pathways UDCA affects. A meaningful effect is therefore doubtful. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or demonstrated efficacy.
 
 ## India Market Information
 

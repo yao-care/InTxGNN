@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **Allergic Urticaria**, but **n
 |------|------|
 | Original Indication | Central nervous system origin vertigo; motion sickness (the licence records contain no approved indication text) |
 | Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
+| India Market Status | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 
 ---
@@ -67,11 +67,11 @@ H1-antihistamines are the standard first-line therapy for urticaria, so the mech
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |---|---|---|---|---|
-| 2 | Common cold | 99.49% | L5 | Possible symptomatic relief only (rhinorrhoea, sneezing); not disease-modifying |
-| 3 | Nasal cavity disease | 99.48% | L5 | Term too broad to test; a specific condition must be defined first |
-| 4 | Pharyngitis | 99.45% | L5 | No antimicrobial or anti-inflammatory action; at most symptom relief |
-| 5 | Acute laryngopharyngitis | 99.37% | L5 | Anticholinergic drying could worsen throat irritation |
-| 6 | Cold urticaria | 99.22% | L5 | Most direct mechanistic rationale; flagged as a research question |
+| 2 | Common cold | 0.9949 | L5 | Possible symptomatic relief only (rhinorrhoea, sneezing); not disease-modifying |
+| 3 | Nasal cavity disease | 0.9948 | L5 | Term too broad to test; a specific condition must be defined first |
+| 4 | Pharyngitis | 0.9945 | L5 | No antimicrobial or anti-inflammatory action; at most symptom relief |
+| 5 | Acute laryngopharyngitis | 0.9937 | L5 | Anticholinergic drying could worsen throat irritation |
+| 6 | Cold urticaria | 0.9922 | L5 | Most direct mechanistic rationale; flagged as a research question |
 
 ---
 

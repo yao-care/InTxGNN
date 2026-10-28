@@ -50,10 +50,10 @@ Support currently comes from **1 clinical trial** (terminated, with an indirect 
 |------|------|
 | Original Indication | Autoimmune thrombocytopenia (the India licence entries carry no indication text) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.26% |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 by the strict rules, with weak supporting case-level data (see note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The data compiled for this report assigns L2. The only trial found is terminated and its link to HIV is inferred, not stated. The literature consists of reviews, case reports, one case series and an in vitro screen. Under the stated rules, no completed Phase 2/3 RCT in HIV supports an L2 rating, so this report treats the evidence as weak, between L3 and L5.

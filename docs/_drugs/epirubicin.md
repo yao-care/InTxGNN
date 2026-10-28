@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **primary pulmonary lymphoma**,
 |------|------|
 | Original Indication | Breast carcinoma / breast neoplasm (the approved indication text on Indian registrations is blank) |
 | Predicted New Indication | Primary pulmonary lymphoma |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -132,7 +132,7 @@ These entries are based on the anthracycline drug class. Please refer to the pac
 **Decision: Hold**
 
 **Rationale:**
-The high model score (99.71%) is not backed by any clinical trial or by direct literature on epirubicin in primary pulmonary lymphoma. Doxorubicin-based R-CHOP is already standard care, so epirubicin has no clear added value here.
+The high model score (0.9971) is not backed by any clinical trial or by direct literature on epirubicin in primary pulmonary lymphoma. Doxorubicin-based R-CHOP is already standard care, so epirubicin has no clear added value here.
 
 **To proceed, the following is needed:**
 - Direct clinical evidence of epirubicin in primary pulmonary lymphoma, or a clear rationale for choosing it over doxorubicin.

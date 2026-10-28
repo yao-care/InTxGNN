@@ -50,9 +50,9 @@ The evidence is model-prediction only and should be treated as a hypothesis.
 |------|------|
 | Original Indication | Not available (approved indication text is blank in all registrations) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -137,9 +137,9 @@ The same analysis also produced the following lower-priority predictions. None i
 
 | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|
-| Gout | 99.51% | L5 | No trials; the retrieved papers cover a benzbromarone–CYP interaction and a varicose vein case, neither supporting efficacy |
-| HIV infectious disease | 99.17% | L4 | One Phase 2 trial (NCT00786422) is a DVT/PE study with a CYP3A4 inducer and not an HIV trial; the literature addresses safe co-administration and bleeding risk with antiretrovirals, not treatment of HIV |
-| Brachydactyly-syndactyly syndrome | 99.10% | L5 | No trials or literature; no plausible mechanistic link |
+| Gout | 0.9951 | L5 | No trials; the retrieved papers cover a benzbromarone–CYP interaction and a varicose vein case, neither supporting efficacy |
+| HIV infectious disease | 0.9917 | L4 | One Phase 2 trial (NCT00786422) is a DVT/PE study with a CYP3A4 inducer and not an HIV trial; the literature addresses safe co-administration and bleeding risk with antiretrovirals, not treatment of HIV |
+| Brachydactyly-syndactyly syndrome | 0.9910 | L5 | No trials or literature; no plausible mechanistic link |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

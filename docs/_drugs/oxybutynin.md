@@ -6,9 +6,9 @@ nav_order: 630
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Overactive bladder, neurogenic bladder, cauda equina syndrome"
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
+description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Oxybutynin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Oxybutynin: From Overactive Bladder to Restless Legs Syndrome
+## Oxybutynin: Restless legs syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,26 +45,26 @@ The TxGNN model predicts it may be effective for **restless legs syndrome**, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Overactive bladder, neurogenic bladder, cauda equina syndrome (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Restless legs syndrome |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Oxybutynin is known to be a muscarinic antagonist with direct antispasmodic activity on smooth muscle, and its efficacy in overactive bladder is established.
 
-The link to restless legs syndrome is weak. This condition is mainly tied to dopaminergic dysfunction and brain iron deficiency, and no direct mechanistic path to muscarinic blockade has been established. Anticholinergics with central activity may even worsen restless legs symptoms. The high TxGNN score therefore appears to reflect a pattern in the knowledge graph rather than a biologically supported rationale.
+The link to restless legs syndrome is weak. This condition is mainly tied to dopaminergic dysfunction and brain iron deficiency, and no direct mechanistic path to muscarinic blockade has been established. Anticholinergics with central activity may even worsen restless legs symptoms. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predictions in the candidate list**
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Gastroduodenitis | 99.62% | L5 | Antimuscarinic action could in theory reduce gastric secretion and motility, but anticholinergics are not standard therapy and no evidence was provided. |
-| 3 | Peptic ulcer disease | 99.31% | L4 | Same rationale as historical anticholinergic ulcer therapy, which has been displaced by proton pump inhibitors and H2 blockers. Only old, low-tier publications exist. |
+| 2 | Gastroduodenitis | 0.9962 | L5 | Antimuscarinic action could in theory reduce gastric secretion and motility, but anticholinergics are not standard therapy and no evidence was provided. |
+| 3 | Peptic ulcer disease | 0.9931 | L5 | Same rationale as historical anticholinergic ulcer therapy, which has been displaced by proton pump inhibitors and H2 blockers. Only old, low-tier publications exist. |
 
 ## Clinical Trial Evidence
 

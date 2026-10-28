@@ -4,17 +4,17 @@ title: Remdesivir
 parent: Model Prediction Only (L5)
 nav_order: 733
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Remdesivir"
-predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia", "Prinzmetal angina", "leprosy", "antithrombin deficiency type 2", "cytomegalovirus infection"]
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 ---
 
 # Remdesivir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,19 +46,19 @@ Remdesivir is a nucleotide analog antiviral that inhibits viral RNA polymerase a
 |------|------|
 | Original Indication | Not stated in the Indian licence records compiled for this report |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.50% |
+| TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase, and its established use is against RNA viruses such as SARS-CoV-2.
 
-Multiple endocrine neoplasia is a hereditary tumour syndrome (for example, MEN1 or RET mutations). Remdesivir has no known target in its pathophysiology, so no plausible mechanistic link can be identified. The high TxGNN score appears to be a knowledge-graph artefact rather than a pharmacological signal. No supporting trials or literature were found.
+Multiple endocrine neoplasia is a hereditary tumour syndrome (for example, MEN1 or RET mutations). Remdesivir has no known target in its pathophysiology, so no plausible mechanistic link can be identified. The high TxGNN score appears to be a TxGNN model (deep learning) artefact rather than a pharmacological signal. No supporting trials or literature were found.
 
-Other predictions were also reviewed. The most biologically plausible, **HIV infection** (score 99.32%, L4), has only a theoretical rationale. Remdesivir is not an established antiretroviral, and the retrieved literature concerns COVID-19, not HIV. The remaining predictions (simian immunodeficiency virus infection, feline AIDS, homozygous familial hypercholesterolaemia, Prinzmetal angina, leprosy, antithrombin deficiency type 2, a rare neurodevelopmental disorder, and cytomegalovirus infection) also lack a convincing mechanism or direct evidence.
+Other predictions were also reviewed. The most biologically plausible, **HIV infection** (score 0.9932, L4), has only a theoretical rationale. Remdesivir is not an established antiretroviral, and the retrieved literature concerns COVID-19, not HIV. The remaining predictions (simian immunodeficiency virus infection, feline AIDS, homozygous familial hypercholesterolaemia, Prinzmetal angina, leprosy, antithrombin deficiency type 2, a rare neurodevelopmental disorder, and cytomegalovirus infection) also lack a convincing mechanism or direct evidence.
 
 ## Clinical Trial Evidence
 

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but
 |------|------|
 | Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic, papillary and vernal conjunctivitis, idiopathic urticaria) |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Fexofenadine has 20 valid single-ingredient registrations in India, all oral tab
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: The knowledge graph links fexofenadine with caution in the following conditions:
+- **Contraindications (from the TxGNN model (deep learning), not label text; may reflect similarities the model learned between related diseases, not biological evidence)**: The model links fexofenadine with caution in the following conditions:
   - Cardiovascular: hypertension and hypertensive disorder; coronary artery disease, coronary atherosclerosis, arteriosclerosis and atherosclerosis.
   - Metabolic and endocrine: diabetes mellitus and diabetic ketoacidosis; hyperthyroidism, Graves disease and thyrotoxicosis.
   - Renal, urinary and ocular: kidney disease and pyoureter; benign prostatic hyperplasia; angle-closure (closed-angle) glaucoma.

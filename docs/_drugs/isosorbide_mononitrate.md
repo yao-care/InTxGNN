@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Isosorbide Mononitrate: From Angina-Type Nitrate Therapy to Hypertrichosis (Top Prediction)
+## Isosorbide Mononitrate: From Angina-Type Nitrate Therapy to hypertrichosis (disease) (Top Prediction)
 {: .text-alpha }
 
 > Note: The data compiled for this report do not include the approved indication text for the Indian licenses. The drug's original use is therefore described from general pharmacological knowledge (an organic nitrate vasodilator used in ischaemic heart disease) and not from the licence records.
@@ -50,9 +50,9 @@ The only prediction with any related literature is **pulmonary arterial hyperten
 |------|------|
 | Original Indication | Not stated in the available licence data |
 | Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.995% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,9 +62,9 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 The link to hypertrichosis is speculative. Vasodilators such as minoxidil are known to cause hypertrichosis, and improved follicular perfusion through NO/cGMP signalling has been discussed in hair biology. No evidence shows that isosorbide mononitrate has this effect. The high score is best read as a model output without clinical support.
 
-The other top-ranked predictions are even less plausible. They are mostly congenital or genetic conditions: Ambras syndrome, hair shaft abnormalities, congenital hypotrichosis, and Dandy-Walker or dental malformation syndromes. Their mechanisms are unrelated to a nitrate vasodilator, and they are likely artefacts of graph proximity. Alopecia and diffuse alopecia areata have only indirect or no mechanistic support. Alopecia areata is autoimmune, and nitrate vasodilation does not address it.
+The other top-ranked predictions are even less plausible. They are mostly congenital or genetic conditions: Ambras syndrome, hair shaft abnormalities, congenital hypotrichosis, and Dandy-Walker or dental malformation syndromes. Their mechanisms are unrelated to a nitrate vasodilator. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Alopecia and diffuse alopecia areata have only indirect or no mechanistic support. Alopecia areata is autoimmune, and nitrate vasodilation does not address it.
 
-**Pulmonary arterial hypertension (PAH)** is the most biologically plausible candidate (score 99.94%, evidence level L4). PAH involves impaired NO-sGC-cGMP signalling, which parallels approved PDE5 inhibitors and sGC stimulators such as riociguat. However, organic nitrates have not shown benefit in PAH. They may also cause tolerance and ventilation/perfusion mismatch, and there are no PAH-specific trials. This is a research question, not a treatment recommendation.
+**Pulmonary arterial hypertension (PAH)** is the most biologically plausible candidate (score 0.9994, evidence level L4). PAH involves impaired NO-sGC-cGMP signalling, which parallels approved PDE5 inhibitors and sGC stimulators such as riociguat. However, organic nitrates have not shown benefit in PAH. They may also cause tolerance and ventilation/perfusion mismatch, and there are no PAH-specific trials. This is a research question, not a treatment recommendation.
 
 ## Clinical Trial Evidence
 

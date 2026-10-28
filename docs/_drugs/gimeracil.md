@@ -4,17 +4,17 @@ title: Gimeracil
 parent: High Evidence (L1-L2)
 nav_order: 392
 evidence_level: L1
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Gastric cancer"
 monitor_inn: "Gimeracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Gimeracil: From Gastric Cancer to Colonic Neoplasm
+## Gimeracil: Colonic neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The clinical evidence is for the S-1 combination as a whole, not gimeracil alone
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric cancer (the approved indication text in the India licences is blank; this comes from the knowledge-graph indication list) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

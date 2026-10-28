@@ -6,9 +6,9 @@ nav_order: 820
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Terazosin: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertension and benign prostatic hyperplasia"
 monitor_inn: "Terazosin"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
+description: "Terazosin: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terazosin
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Terazosin: From Hypertension and Benign Prostatic Hyperplasia to Hypotrichosis Simplex of the Scalp
+## Terazosin: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Terazosin is an alpha-1 adrenergic blocker, originally used to treat hypertension and benign prostatic hyperplasia.
-The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, but there are **0 clinical trials** and **0 publications** supporting this top-ranked prediction. It is a graph-based prediction only. Among the other predictions, Raynaud disease has the most (still limited) supporting evidence.
+The TxGNN model (deep learning) predicts it may be effective for **hypotrichosis simplex of the scalp**, but there are **0 clinical trials** and **0 publications** supporting this top-ranked prediction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Among the other predictions, Raynaud disease has the most (still limited) supporting evidence.
 
 ---
 
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **hypotrichosis simplex of the 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension and benign prostatic hyperplasia (the approved indication text in the India licence records is blank, so these indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **hypotrichosis simplex of the 
 
 Currently, detailed mechanism of action data is not available. Based on known information, terazosin belongs to the alpha-1 adrenergic blocker class. Its efficacy in hypertension and benign prostatic hyperplasia is established, through relaxation of vascular and prostatic smooth muscle.
 
-For the top-ranked prediction, hypotrichosis simplex of the scalp, no plausible link to alpha-1 blockade has been established. This is a hereditary hair-follicle disorder. The high score most likely reflects proximity to hair-related phenotypes in the knowledge graph rather than a pharmacological rationale. The same holds for the other hair-related predictions (congenital hypotrichosis milia and Ambras-type hypertrichosis). For diffuse alopecia areata, an autoimmune condition, any benefit from scalp vasodilation is speculative.
+For the top-ranked prediction, hypotrichosis simplex of the scalp, no plausible link to alpha-1 blockade has been established. This is a hereditary hair-follicle disorder. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a pharmacological rationale. The same holds for the other hair-related predictions (congenital hypotrichosis milia and Ambras-type hypertrichosis). For diffuse alopecia areata, an autoimmune condition, any benefit from scalp vasodilation is speculative.
 
 Other predictions have more biological plausibility:
 - **Raynaud disease**: alpha-1 blockade reduces sympathetic vasoconstriction in digital arteries. This is the strongest candidate among the predictions.
@@ -117,7 +117,7 @@ Please also refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, hypotrichosis simplex of the scalp, rests only on a graph-based score. There are no trials or publications and no plausible mechanism, so the evidence level is L5. The other hair-related predictions are similarly unsupported.
+The top-ranked prediction, hypotrichosis simplex of the scalp, rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications and no plausible mechanism, so the evidence level is L5. The other hair-related predictions are similarly unsupported.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

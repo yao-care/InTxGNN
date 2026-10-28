@@ -4,7 +4,7 @@ title: Nitrendipine
 parent: Model Prediction Only (L5)
 nav_order: 600
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Nitrendipine: predicted new indication Migraine disorder (evidence level L5). Approved use: Mild to moderate hypertension"
 monitor_inn: "Nitrendipine"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pu
 # Nitrendipine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Of the four predicted indications, **pulmonary hypertension** and **Prinzmetal a
 |------|------|
 | Original Indication | Mild to moderate hypertension (from pharmacology reference data; the approved indication text on the India licences is blank) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -92,7 +92,7 @@ Migraine disorder (none of the three papers evaluates nitrendipine in migraine):
 
 Comparison with other predicted indications:
 
-**Pulmonary hypertension (score 99.14%, Evidence Level L3)**
+**Pulmonary hypertension (score 0.9914, Evidence Level L3)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -103,7 +103,6 @@ Comparison with other predicted indications:
 | [1339619](https://pubmed.ncbi.nlm.nih.gov/1339619/) | 1992 | Comparative study | Zhonghua Jie He He Hu Xi Za Zhi | Captopril and nitrendipine both lowered pulmonary artery pressure in pigs with acute hypoxic pulmonary hypertension |
 | [7712585](https://pubmed.ncbi.nlm.nih.gov/7712585/) | 1994 | Animal study | Zhonghua Jie He He Hu Xi Za Zhi | Nitrendipine, nifedipine and L-arginine helped prevent chronic intermittent hypoxic pulmonary hypertension in rats |
 
-**Prinzmetal angina (score 99.10%, Evidence Level L3)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

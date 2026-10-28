@@ -50,10 +50,10 @@ but there are **no registered clinical trials** and only **7 publications** retr
 |------|------|
 | Original Indication | Lymphomas (including Hodgkin lymphoma, non-Hodgkin lymphoma, mantle cell lymphoma, mycosis fungoides, Langerhans cell histiocytosis); the India licence records contain no approved indication text |
 | Predicted New Indication | Rhabdomyosarcoma |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold (research question only) |
 
 ---
@@ -129,7 +129,7 @@ Package insert warnings were not available. Please refer to the package insert f
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.86%) and the mechanism is plausible, but the evidence is limited to case reports, small series and preclinical work, with no registered trials. Vinblastine's effect cannot be separated from that of co-administered agents. Modern rhabdomyosarcoma standard-of-care regimens are also well established. This is best treated as a research question rather than a development candidate.
+The TxGNN score is high (0.9986) and the mechanism is plausible, but the evidence is limited to case reports, small series and preclinical work, with no registered trials. Vinblastine's effect cannot be separated from that of co-administered agents. Modern rhabdomyosarcoma standard-of-care regimens are also well established. This is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India licences (currently missing, which blocks safety screening)

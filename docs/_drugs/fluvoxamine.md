@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluvoxamine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 376
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Fluvoxamine: predicted new indication Schizotypal personality disorder (evidence level L4). Approved use: Social phobia, phobic disorder, obsessive-compulsive disorder"
 monitor_inn: "Fluvoxamine"
-predicted_indications: ["schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
+predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
 ---
 
 # Fluvoxamine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **schizotypal personality disor
 |------|------|
 | Original Indication | Social phobia, phobic disorder, obsessive-compulsive disorder |
 | Predicted New Indication | Schizotypal personality disorder |
-| TxGNN Prediction Score | 99.997% (rank 114) |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 1.0000 (rank 114) |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Fluvoxamine is a potent SSRI that blocks the serotonin transporter (SERT) and al
 
 The link to schizotypal personality disorder is indirect. Schizotypal traits often co-occur with OCD, and the literature found shows that OCD patients with schizotypal personality disorder or tic disorders were more likely to respond when an antipsychotic was added to fluvoxamine. These papers deal with fluvoxamine-refractory OCD, not with treating schizotypal personality disorder itself.
 
-The very high TxGNN score of 99.997% is shared with other personality disorders (schizoid, paranoid, histrionic). This suggests it reflects similarity in the knowledge graph rather than disease-specific evidence. It should be read as a hypothesis-generating signal only.
+The very high TxGNN score of 1.0000 is shared with other personality disorders (schizoid, paranoid, histrionic). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a hypothesis-generating signal only.
 
 ---
 
@@ -114,7 +114,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and indirect literature. No trial tests fluvoxamine in schizotypal personality disorder, and the available papers are case reports and OCD augmentation studies. The high score appears to reflect graph similarity across personality disorders rather than disease-specific evidence.
+The prediction rests on a model score and indirect literature. No trial tests fluvoxamine in schizotypal personality disorder, and the available papers are case reports and OCD augmentation studies. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Controlled evidence of fluvoxamine's effect on schizotypal symptoms, such as a pilot randomized trial

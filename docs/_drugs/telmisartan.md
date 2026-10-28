@@ -4,17 +4,17 @@ title: Telmisartan
 parent: Model Prediction Only (L5)
 nav_order: 812
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Hypertension, stroke, cerebrovascular disorder, cerebral infarction"
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Telmisartan: From Hypertension to Prinzmetal Angina
+## Telmisartan: Prinzmetal angina
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina** (vasospas
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, stroke, cerebrovascular disorder, cerebral infarction (from the knowledge graph; the licence records list no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 Prinzmetal angina is caused by spasm and hypercontractility of coronary smooth muscle. AT1 blockade and PPAR-gamma activity could plausibly modulate vascular tone and endothelial function. This connects the drug's established vascular effects to the predicted disease.
 
-This link is a hypothesis only. No trial or publication supporting telmisartan in Prinzmetal angina was retrieved. The high graph score should not be read as clinical evidence.
+This link is a hypothesis only. No trial or publication supporting telmisartan in Prinzmetal angina was retrieved. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should not be read as clinical evidence.
 
 ---
 

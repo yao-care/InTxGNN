@@ -6,9 +6,9 @@ nav_order: 906
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Ascorbic acid deficiency, scurvy"
 monitor_inn: "Zinc gluconate"
-predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
+predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
+description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zinc Gluconate
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Zinc Gluconate: From Ascorbic Acid Deficiency (Scurvy) to Anemia of Prematurity
+## Zinc Gluconate: Anemia of prematurity
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Zinc gluconate is a zinc salt, listed in the knowledge graph for ascorbic acid deficiency and scurvy, and it is marketed in India as oral zinc products.
-The TxGNN model predicts it may be useful for **anemia of prematurity** (score 99.94%), but **no clinical trials and no publications** were found for this indication, so the prediction rests on the model alone.
+Zinc gluconate is a zinc salt, and it is marketed in India as oral zinc products.
+The TxGNN model predicts it may be useful for **anemia of prematurity** (score 0.9994), but **no clinical trials and no publications** were found for this indication, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ascorbic acid deficiency, scurvy (from the knowledge graph; the Indian licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Anemia of prematurity |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -46,10 +46,10 @@ Carbocisteine is a mucolytic agent (a cysteine derivative) marketed in India as 
 |------|------|
 | Original Indication | Not stated in the licence records compiled for this report |
 | Predicted New Indication | Gout |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,7 @@ Currently, detailed mechanism of action data is not available, and no original i
 
 Those properties could plausibly relate to the inflammatory side of gout, for example by reducing oxidative stress or neutrophil-driven inflammation. This is speculative. Nothing in the compiled data confirms a mechanistic link between carbocisteine and gout.
 
-The very high TxGNN score (99.67%) is a model-derived prediction only. It is not clinical or mechanistic evidence.
+The very high TxGNN score (0.9967) is a model-derived prediction only. It is not clinical or mechanistic evidence.
 
 ## Clinical Trial Evidence
 

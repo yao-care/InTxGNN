@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Doxycycline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 290
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Doxycycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bronchitis, acne, bacterial pneumonia, anthrax…"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 # Doxycycline
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ Evidence is thin: **no clinical trials** and **1 publication** (a 1992 case repo
 |------|------|
 | Original Indication | Bronchitis, acne, bacterial pneumonia, anthrax, gonorrhoea and other bacterial infections (from the knowledge-graph indication list; no approved-indication text is recorded for the Indian licences) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

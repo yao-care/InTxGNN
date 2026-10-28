@@ -4,17 +4,17 @@ title: Letrozole
 parent: High Evidence (L1-L2)
 nav_order: 479
 evidence_level: L1
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Letrozole: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Not stated in the India license data (all approved-indication fields…"
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Letrozole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Letrozole: From Breast Cancer Endocrine Therapy to Female Breast Carcinoma
+## Letrozole: Nipple carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Letrozole is a nonsteroidal aromatase inhibitor that lowers estrogen production; its original approved indication is not recorded in the India license data compiled for this report.
-The TxGNN model predicts it may be effective for **female breast carcinoma**, with **40 clinical trials** and **20 publications** retrieved for this direction.
 The strongest support comes from Phase 3 trials of letrozole combined with CDK4/6 inhibitors in hormone receptor-positive (HR+) disease.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India license data (all approved-indication fields are empty) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nipple carcinoma |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -60,7 +59,7 @@ Detailed mechanism-of-action data for this drug is not available in the data com
 
 The predicted indication is therefore essentially an established use rather than a distant repurposing leap. Many breast cancers depend on estrogen signalling, and removing estrogen is the standard way to treat them. The literature retrieved (for example the review "The discovery and mechanism of action of letrozole") supports this reasoning.
 
-An important caveat applies to the broader breast-cancer predictions. Letrozole is only plausible in HR+ disease. Predictions for ER-negative breast cancer appear to be a disease-label mapping artifact, since the trials retrieved there are almost all in ER+ populations. The "female breast carcinoma" prediction should be read as HR+ breast cancer.
+An important caveat applies to the broader breast-cancer predictions. Letrozole is only plausible in HR+ disease. Predictions for ER-negative breast cancer appear to be a disease-label mapping artifact, since the trials retrieved there are almost all in ER+ populations.
 
 ## Clinical Trial Evidence
 

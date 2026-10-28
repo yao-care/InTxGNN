@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Acetazolamide: predicted new indication Exercise-induced malignant hyperthermia (evidence level L5). Approved use: Absence epilepsy, congestive heart failure, open-angle glaucoma…"
 monitor_inn: "Acetazolamide"
-predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "myopathic intestinal pseudoobstruction"]
+predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
+last_modified_at: 2026-10-23
+description: "Acetazolamide: predicted new indication exercise-induced malignant hyperthermia (evidence level L5). Approved use: Relations recorded in the knowledge graph: absence epilepsy…"
 ---
 
 # Acetazolamide
@@ -33,33 +33,40 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Acetazolamide: From Absence Epilepsy, Glaucoma and Heart Failure to Exercise-Induced Malignant Hyperthermia
+## Acetazolamide: From Glaucoma and Heart Failure Uses to Exercise-Induced Malignant Hyperthermia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Acetazolamide is a carbonic anhydrase inhibitor originally used for conditions such as absence epilepsy, congestive heart failure, glaucoma (open-angle and angle-closure) and altitude sickness.
-The TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but **no clinical trials and no publications** currently support this prediction, so it is a model-only hypothesis.
+Acetazolamide is a carbonic anhydrase inhibitor, with known uses in absence epilepsy, congestive heart failure, open-angle and angle-closure glaucoma, and altitude sickness.
+The TxGNN model ranks **hypertrophic cardiomyopathy** as its top prediction with literature support (score 0.9993), but the evidence consists only of general heart failure reviews and one case report, with **0 clinical trials** and **3 publications**, none of which studies the disease directly in a controlled way.
+This is an early prediction from the TxGNN model (deep learning) and not a validated new use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Absence epilepsy, congestive heart failure, open-angle glaucoma, angle-closure glaucoma, altitude sickness (the product labels in the India data have no indication text) |
-| Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Relations recorded in the knowledge graph: absence epilepsy, congestive heart failure, open-angle glaucoma, angle-closure glaucoma, altitude sickness (the local licence records contain no indication text) |
+| Predicted New Indication | Hypertrophic cardiomyopathy (the overall top-ranked prediction is exercise-induced malignant hyperthermia, which has no supporting evidence) |
+| TxGNN Prediction Score | 0.9993 (hypertrophic cardiomyopathy); 0.9995 (exercise-induced malignant hyperthermia) |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 licences (the list may be partial), all valid single-ingredient products |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, acetazolamide is a carbonic anhydrase inhibitor. Its efficacy in glaucoma, altitude sickness and as an adjunct diuretic is established, and mechanistically it may influence acid-base balance and muscle ion handling.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, acetazolamide inhibits carbonic anhydrase, which alters acid-base balance and fluid handling. In heart failure it is used as an adjunct diuretic to aid decongestion and to correct metabolic alkalosis.
 
-A link to exercise-induced malignant hyperthermia is plausible but unverified. The data compiled for this report contain no trials or literature on this condition, so the prediction rests on the model score alone.
+The only link to hypertrophic cardiomyopathy is indirect, through the heart failure phenotype. It is not a disease-modifying effect on the cardiomyopathy itself. The retrieved publications are general heart failure updates and a single case report of hypochloremia treated with acetazolamide in an advanced heart failure patient who also had hypertrophic cardiomyopathy. None provides data specific to hypertrophic cardiomyopathy.
 
-Other predicted indications were also reviewed. The only one with any literature is **cardiomyopathy** (rank 7, L4, "Research Question"). That literature includes reviews, a case report on correcting hypochloremia in advanced heart failure, and a rabbit ischemia-reperfusion study, and none of it is cardiomyopathy-specific. Several other predictions (intestinal obstruction, myopathic intestinal pseudo-obstruction, cirrhotic cardiomyopathy) carry signals of potential harm rather than benefit.
+Because no cited study directly addresses hypertrophic cardiomyopathy as a treatment target, the evidence level is capped at L5, which is a model prediction only. The 0.9993 score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it does not demonstrate efficacy.
+
+The other top predictions are weaker still:
+- **Exercise-induced malignant hyperthermia, congenital myopathy with excess of thin filaments, distal myopathy (Tateyama type), glycogen storage disease (late-onset acid maltase deficiency):** no trials or literature.
+- **Hypertrophic cardiomyopathy due to intensive athletic training:** a physiological adaptation that is generally not treated with drugs.
+- **Cirrhotic cardiomyopathy:** acetazolamide carries a risk of hyperammonemia and encephalopathy in cirrhosis, so this is a safety concern rather than an opportunity.
+- **Intestinal obstruction and intestinal pseudoobstruction:** the literature reports acetazolamide-induced ileus, which points in the opposite direction.
 
 ## Clinical Trial Evidence
 
@@ -67,52 +74,51 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for exercise-induced malignant hyperthermia.
-
-For reference, the closest related literature (cardiomyopathy, a separate predicted indication):
+Publications retrieved for hypertrophic cardiomyopathy:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Review | ESC Heart Failure | 2024 update on heart failure management; not specific to acetazolamide |
-| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Review | Eur Heart J Cardiovasc Pharmacother | Advances in cardiovascular pharmacology in 2022, including mavacamten for obstructive HCM |
-| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case report | J Cardiol Cases | Acetazolamide used to treat hypochloremia in advanced heart failure with hypertrophic cardiomyopathy |
-| [29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/) | 2017 | Case report (adverse event) | Acute Med Surg | Non-cardiogenic pulmonary edema after IV acetazolamide |
-| [22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/) | 2012 | Preclinical (animal) | Saudi Med J | Effects of acetazolamide on ischemia-reperfused isolated rabbit hearts |
+| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Review | ESC Heart Failure | 2024 heart failure update covering guideline changes; not specific to acetazolamide or hypertrophic cardiomyopathy |
+| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Review | Eur Heart J Cardiovasc Pharmacother | Overview of new cardiovascular drugs in 2022, including mavacamten for obstructive hypertrophic cardiomyopathy; no acetazolamide data |
+| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case report | J Cardiol Cases | Acetazolamide treated hypochloremia in an advanced heart failure patient who also had hypertrophic cardiomyopathy |
+
+For the broader category of cardiomyopathy, a preclinical study ([22426904](https://pubmed.ncbi.nlm.nih.gov/22426904/), 2012, Saudi Med J) examined acetazolamide in ischemia-reperfused isolated rabbit hearts. A case report ([29123889](https://pubmed.ncbi.nlm.nih.gov/29123889/), 2017, Acute Med Surg) described non-cardiogenic pulmonary edema after intravenous acetazolamide in a patient with dilated cardiomyopathy, which is an adverse event signal.
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed; the main ones are shown below. None of them has approved indication text in the data compiled for this report.
+At least 20 valid single-ingredient licences are on record, and the list may be partial. The records contain no approved indication text. Five main examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 60301 | Diamox ER 500 Capsule (Sun Pharmaceutical Industries Ltd) | Strip of 15 extended-release capsules | Not listed |
-| Registration No. 2332 | Avva 250mg Tablet SR (Intas Pharmaceuticals Ltd) | Strip of 10 sustained-release tablets | Not listed |
-| Registration No. 3222 | Actamide 250mg Tablet (Micro Labs Ltd) | Strip of 10 tablets | Not listed |
-| Registration No. 12121 | AT Zol 250mg Tablet (Medivision Pharm) | Strip of 10 tablets | Not listed |
-| Registration No. 107801 | Iopar-SR Capsule (FDC Ltd) | Strip of 10 sustained-release capsules | Not listed |
+| Registration No. 12121 | AT Zol 250mg Tablet | Strip of 10 tablets | Not stated in the record |
+| Registration No. 2332 | Avva 250mg Tablet SR | Strip of 10 sustained-release tablets | Not stated in the record |
+| Registration No. 60301 | Diamox ER 500 Capsule | Strip of 15 extended-release capsules | Not stated in the record |
+| Registration No. 3222 | ACTAMIDE 250MG TABLET | Strip of 10 tablets | Not stated in the record |
+| Registration No. 107801 | Iopar-SR Capsule | Strip of 10 sustained-release capsules | Not stated in the record |
 
-All products are oral formulations (tablets, sustained-release tablets and capsules, extended-release capsules).
+All available forms are oral.
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph** (not label text): liver failure, liver disease, kidney disease, hematologic disease, gallbladder disease, gout, diabetes mellitus (type 1 and type 2), diabetic ketoacidosis, respiratory failure, renal tubular acidosis, and adrenal insufficiency (including Addison disease and congenital adrenal hyperplasia).
-- **Drug Interactions**: 165 interactions were identified. Examples include Major interactions with acetylsalicylic acid and cisapride. Moderate interactions include antidiabetic agents (acarbose, chlorpropamide, alogliptin, canagliflozin, dapagliflozin, dulaglutide), corticosteroids (dexamethasone, betamethasone, beclomethasone), amphotericin B formulations, and laxatives (bisacodyl, castor oil). Doxycycline is a Minor interaction.
-- **Signals from the literature**: case reports describe acetazolamide-induced adynamic ileus and non-cardiogenic pulmonary edema after intravenous use. In cirrhosis, acetazolamide can precipitate hyperammonemia and encephalopathy.
+- **Contraindications recorded in the knowledge graph (not label text):** liver failure, liver disease, kidney disease, hematologic disease, gallbladder disease, gout, type 1 and type 2 diabetes mellitus, diabetic ketoacidosis, respiratory failure, adrenal insufficiency (including Addison disease and congenital adrenal hyperplasia), renal tubular acidosis and pyoureter.
+- **Drug interactions:** 165 interactions were found. Major ones include acetylsalicylic acid and cisapride. Moderate ones include antidiabetic drugs (acarbose, acetohexamide, alogliptin, canagliflozin, chlorpropamide, dapagliflozin), corticosteroids (betamethasone, dexamethasone, beclomethasone), amphotericin B formulations, and laxatives (bisacodyl, castor oil). Doxycycline is a minor interaction.
+- **Literature safety signals:** acetazolamide-induced adynamic ileus and non-cardiogenic pulmonary edema after intravenous use were reported in case reports. Acetazolamide also carries a risk of hyperammonemia and encephalopathy in cirrhosis.
 
-Package insert warnings were not available for this report; please refer to the package insert.
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for exercise-induced malignant hyperthermia is supported only by the model score (99.95%), with no trials or publications, so evidence is L5. Safety information is also incomplete, because package insert warnings were not obtained.
+The high TxGNN scores are predictions from the TxGNN model (deep learning) only and may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials exist, and no publication studies acetazolamide in hypertrophic cardiomyopathy itself, so the evidence level is L5. Some neighbouring predictions (cirrhotic cardiomyopathy, intestinal obstruction) are contradicted by known safety signals.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India product labels (a blocking gap for safety screening)
-- Detailed mechanism of action data (for example from DrugBank)
-- Preclinical or clinical evidence directly linking carbonic anhydrase inhibition to exercise-induced malignant hyperthermia
-- Assessment of whether the better-supported cardiomyopathy direction (L4) merits a dedicated research question, with attention to the pulmonary edema and ileus safety signals
+- Mechanism of action data and a clearly defined mechanistic hypothesis for hypertrophic cardiomyopathy
+- Disease-specific preclinical or clinical studies in hypertrophic cardiomyopathy
+- Package insert warnings and contraindications from the India regulatory records
+- Approved indication text for the local licences
+- A safety review covering interactions and the contraindicated conditions listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

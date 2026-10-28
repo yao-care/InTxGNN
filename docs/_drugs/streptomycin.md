@@ -50,10 +50,10 @@ The evidence is therefore at the level of a research question, not a development
 |------|------|
 | Original Indication | Pulmonary tuberculosis (also chancroid, leptospirosis, lymphogranuloma venereum, yaws, necrotizing ulcerative gingivitis, brucellosis, tularemia, plague, granuloma inguinale) |
 | Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -119,15 +119,15 @@ Please refer to the package insert for full warnings, as label text was not avai
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Postinfectious vasculitis | 99.86% | L5 | No evidence; immune-mediated, antibacterial unlikely to help |
-| 3 | Post-bacterial disorder | 99.86% | L5 | No evidence; vague category |
-| 4 | Post-infectious syndrome | 99.85% | L5 | No evidence; non-specific category |
-| 5 | Infective urethral stricture | 99.85% | L4 | Only historical TB case reports; extension of the TB indication, does not reverse fibrotic strictures |
-| 6 | Otitis externa | 99.85% | L4 | 1947 case series and veterinary or in vitro data; ototoxicity concern |
-| 7 | Chagas cardiomyopathy | 99.83% | L5 | No evidence; the pathogen is a protozoan |
-| 8 | Infection-related hemolytic uremic syndrome | 99.82% | L5 | Conflicts with standard care (antibiotics avoided in STEC-HUS; nephrotoxicity) |
-| 9 | Lyme disease | 99.66% | L4 | Literature concerns resistance genes as lab markers, not therapy; standard drugs are effective |
-| 10 | Infectious otitis interna | 99.65% | L5 | Likely false positive; streptomycin is vestibulotoxic and cochleotoxic |
+| 2 | Postinfectious vasculitis | 0.9986 | L5 | No evidence; immune-mediated, antibacterial unlikely to help |
+| 3 | Post-bacterial disorder | 0.9986 | L5 | No evidence; vague category |
+| 4 | Post-infectious syndrome | 0.9985 | L5 | No evidence; non-specific category |
+| 5 | Infective urethral stricture | 0.9985 | L5 | Only historical TB case reports; extension of the TB indication, does not reverse fibrotic strictures |
+| 6 | Otitis externa | 0.9985 | L5 | 1947 case series and veterinary or in vitro data; ototoxicity concern |
+| 7 | Chagas cardiomyopathy | 0.9983 | L5 | No evidence; the pathogen is a protozoan |
+| 8 | Infection-related hemolytic uremic syndrome | 0.9982 | L5 | Conflicts with standard care (antibiotics avoided in STEC-HUS; nephrotoxicity) |
+| 9 | Lyme disease | 0.9966 | L4 | Literature concerns resistance genes as lab markers, not therapy; standard drugs are effective |
+| 10 | Infectious otitis interna | 0.9965 | L5 | Likely false positive; streptomycin is vestibulotoxic and cochleotoxic |
 
 ---
 

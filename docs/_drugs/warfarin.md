@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Warfarin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 898
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L4). Approved use: Pulmonary embolism, thrombotic disease, intracranial embolism"
 monitor_inn: "Warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Warfarin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Warfarin: From Pulmonary Embolism and Thrombotic Disease to Heparin Cofactor 2 Deficiency
+## Warfarin: Heparin cofactor 2 deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The evidence is weak, and the prediction largely extends the existing thrombosis
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary embolism, thrombotic disease, intracranial embolism (from the knowledge graph; the Indian licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 
 ---
@@ -141,7 +141,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The evidence for heparin cofactor 2 deficiency is three older case reports with no trials. The mechanism is the same as for the existing thrombosis indications, so it is plausible but not new. The model score is very high (99.87%), yet it is not matched by clinical evidence. Among the other predictions, only thrombophilia reaches L3, and even that relies on indirect evidence. The rheumatoid arthritis and breast disease signals are interaction artefacts and should not be pursued.
+The evidence for heparin cofactor 2 deficiency is three older case reports with no trials. The mechanism is the same as for the existing thrombosis indications, so it is plausible but not new. The model score is very high (0.9987), yet it is not matched by clinical evidence. Among the other predictions, only thrombophilia reaches L3, and even that relies on indirect evidence. The rheumatoid arthritis and breast disease signals are interaction artefacts and should not be pursued.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian-licensed products, and the approved indication text

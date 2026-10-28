@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Aluminum Hydroxide
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 43
-evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Aluminum Hydroxide: predicted new indication Active peptic ulcer disease (evidence level L5). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
-monitor_inn: "Aluminum hydroxide"
-predicted_indications: ["gastroduodenitis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Aluminum Hydroxide: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Aluminum Hydroxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +32,68 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Aluminum Hydroxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+<!-- known-uses-page -->
+<!-- description: Aluminum Hydroxide: known uses and market status in India; currently no new candidate indication -->
+## Aluminum Hydroxide: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model produced candidates for Aluminum Hydroxide, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The four known uses are listed below, grouped by the kind of support behind each one.
 
-Aluminum hydroxide is an antacid originally used for gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, dyspepsia and duodenal ulcer.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is essentially an existing indication rather than a true new use.
-There are **0 registered clinical trials** and **9 publications**, mostly historical or indirect, supporting this direction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.64% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 4 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, aluminum hydroxide is an antacid that neutralizes gastric acid and reduces peptic activity. The supplied literature supports this: antacids containing aluminum hydroxide raise intragastric pH and adsorb pepsin, and they protect the gastric mucosa against damage from agents such as aspirin and ethanol.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Active peptic ulcer disease is closely related to the drug's original indications of gastric ulcer, duodenal ulcer and peptic ulcer disease. The high TxGNN score most likely reflects this existing overlap rather than a new discovery. For this reason, the prediction is better described as a confirmation of an established use than as true repurposing.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| gastroduodenitis | gastritis |
 
-Much of the supplied literature concerns sucralfate (an aluminum-containing mucosal protectant), antacid acid-neutralizing capacity, and a nizatidine trial. None of it provides direct modern clinical evidence of aluminum hydroxide for this disease.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Clinical physiology study | J Clin Gastroenterol | Compared sodium bicarbonate with aluminum-magnesium hydroxide on postprandial gastric acid in duodenal ulcer patients |
-| [3104655](https://pubmed.ncbi.nlm.nih.gov/3104655/) | 1986 | Review | Klin Wochenschr | Aluminum hydroxide antacids prevent gross mucosal necrosis and haemorrhage from aspirin or ethanol, mainly in deeper gastric mucosa |
-| [3929601](https://pubmed.ncbi.nlm.nih.gov/3929601/) | 1985 | Mechanistic study (sucralfate) | Am J Med | Aluminum hydroxide moieties inhibit peptic activity by raising pH and adsorbing pepsin |
-| [9334882](https://pubmed.ncbi.nlm.nih.gov/9334882/) | 1997 | Animal/in vitro (sucralfate) | Jpn J Pharmacol | Aluminum hydroxide prevented acid- and pepsin-induced damage to rat gastric epithelial cells |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro/product characterization | Med Pharm Rep | Evaluated acid-neutralizing capacity of antacids marketed in Morocco |
-| [6798099](https://pubmed.ncbi.nlm.nih.gov/6798099/) | 1981 | Review (sucralfate) | J Clin Gastroenterol | Development of sucralfate, an aluminum salt designed to counteract acid and pepsin |
-| [7190055](https://pubmed.ncbi.nlm.nih.gov/7190055/) | 1980 | Review | Brain Res Bull | Restraint-induced ulcers respond to known therapies, including aluminum hydroxide |
-| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT (nizatidine vs placebo, not aluminum hydroxide) | Clin Pharmacol Ther | Nizatidine in benign gastric ulcer; does not test aluminum hydroxide |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| active peptic ulcer disease |
+| gastrojejunal ulcer |
+| peptic ulcer perforation |
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 212944 | Silicool Oral Suspension Mint Sugar Free | 170 ml bottle, oral suspension | Not stated |
-| 195702 | Radocid Oral Suspension | 170 ml bottle, oral suspension | Not stated |
-| 22523 | Alzimin Oral Gel | 170 ml bottle, oral gel | Not stated |
-| 153745 | Neutral Oral Gel Sugar Free | 170 ml bottle, oral gel | Not stated |
-| 4923 | Alumcid MPS Oral Suspension | 170 ml bottle, oral suspension | Not stated |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 212944 | Silicool Oral Suspension Mint Sugar Free | bottle of 170 ml Oral Suspension | Valid |
+| 195702 | Radocid Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
+| 22523 | Alzimin Oral Gel | bottle of 170 ml Oral Gel | Valid |
+| 153745 | Neutral  Oral Gel Sugar Free | bottle of 170 ml Oral Gel | Valid |
+| 4923 | Alumcid MPS Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
+| 202354 | Sugel Syrup | bottle of 200 ml Syrup | Valid |
+| 161774 | Omez-O Oral Suspension Mint Sugar Free | bottle of 200 ml Oral Suspension | Valid |
+| 7700 | Acicool-Mps Oral Suspension Mint | bottle of 170 ml Oral Suspension | Valid |
+| 6874 | Amcid Syrup | bottle of 170 ml Syrup | Valid |
+| 99038 | Goacid Oral Suspension Mint | bottle of 170 ml Oral Suspension | Valid |
+| 104549 | Hypocid Oral Gel | bottle of 170 ml Oral Gel | Valid |
+| 14552 | Antasafe Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
+| 161765 | Omee Mps Liquid Mint | bottle of 170 ml Liquid | Valid |
+| 100904 | Glosmo Syrup | bottle of 170 ml Syrup | Valid |
+| 219466 | Titrate Suspension | bottle of 200 ml Suspension | Valid |
+| 234212 | Visco Tablet | strip of 10 tablets | Valid |
+| 119086 | Kantacid Oral Suspension | bottle of 170 ml Oral Suspension | Valid |
+| 6611 | Accid-Ams Oral Suspension Sugar Free | bottle of 170 ml Oral Suspension | Valid |
+| 50170 | Coolent Oral Gel | bottle of 170 ml Oral Gel | Valid |
+| 140211 | Marcid Oral Gel | bottle of 170 ml Oral Gel | Valid |
 
-All 20 registrations are valid single-ingredient products, in oral suspension, gel, syrup, liquid and tablet forms.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -101,26 +105,6 @@ All 20 registrations are valid single-ingredient products, in oral suspension, g
 
 Please refer to the package insert for further safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-Active peptic ulcer disease is effectively an existing indication, so this is not a true repurposing candidate. The high TxGNN score likely reflects the labeled use, and there are no registered trials and no direct modern clinical evidence.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications for the marketed Indian products
-- Detailed mechanism of action data
-- Confirmation of the approved indication text for the Indian licences
-- Direct controlled clinical evidence, if a formal claim for this indication is intended
-
-**Other predicted indications (for reference):**
-
-| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
-|------|------|------|------|
-| Gastroduodenitis | 99.59% | L4 | Hold; only historical (1949–1962) reports, indirect |
-| Gastrojejunal ulcer | 99.54% | L4 | Research question; mechanistically coherent but evidence is indirect and largely old |
-| Peptic ulcer perforation | 99.54% | L5 | Hold; no literature, and an antacid has no plausible role in this surgical complication |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

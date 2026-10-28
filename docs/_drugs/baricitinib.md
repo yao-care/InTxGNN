@@ -48,19 +48,19 @@ This prediction is supported by **0 clinical trials** and **0 publications**, so
 |------|------|
 | Original Indication | Rheumatoid arthritis |
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Baricitinib is generally known as a JAK1/JAK2 inhibitor, and its efficacy in rheumatoid arthritis is established. However, this general knowledge is not documented in the compiled data.
 
-No mechanistic link to the predicted disease can be established. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is an extremely rare developmental condition, and the compiled data show no involvement of JAK-STAT signalling. The high score (0.9994) is a computational knowledge-graph prediction. It may reflect network proximity artifacts rather than true biological plausibility.
+No mechanistic link to the predicted disease can be established. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is an extremely rare developmental condition, and the compiled data show no involvement of JAK-STAT signalling. The high score (0.9994) is a computational TxGNN model (deep learning) prediction. It may reflect network proximity artifacts rather than true biological plausibility.
 
-A second prediction, brachydactyly-syndactyly syndrome (score 99.94%), has the same limitations. It is a congenital limb malformation with no supporting trials or literature. A structural developmental disorder is also unlikely to respond to an immunomodulatory drug after birth.
+A second prediction, brachydactyly-syndactyly syndrome (score 0.9994), has the same limitations. It is a congenital limb malformation with no supporting trials or literature. A structural developmental disorder is also unlikely to respond to an immunomodulatory drug after birth.
 
 ## Clinical Trial Evidence
 

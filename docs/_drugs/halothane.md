@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Halothane is a volatile inhaled anaesthetic. The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but this is a graph-based prediction only, with **0 clinical trials** and **4 publications**. None of those publications studies halothane as a treatment for mania; they concern lithium or lamotrigine tested under halothane anaesthesia.
+Halothane is a volatile inhaled anaesthetic. The TxGNN model (deep learning) predicts it may be effective for **manic bipolar affective disorder**, but this is a model prediction only, with **0 clinical trials** and **4 publications**. None of those publications studies halothane as a treatment for mania; they concern lithium or lamotrigine tested under halothane anaesthesia.
 
 ---
 
@@ -48,10 +48,10 @@ Halothane is a volatile inhaled anaesthetic. The TxGNN model predicts it may be 
 |------|------|
 | Original Indication | Not stated in the India licence data (the approved indication text is blank). Halothane is a general inhalation anaesthetic. |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -60,7 +60,7 @@ Halothane is a volatile inhaled anaesthetic. The TxGNN model predicts it may be 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Halothane is generally known as a volatile anaesthetic that enhances GABA-A receptor activity and modulates K2P potassium channels. A speculative link to mood disorders could be drawn through GABAergic modulation, but no study in the compiled data supports this.
 
-The high score (0.998) appears to come from the graph structure, not from therapeutic evidence. All four retrieved publications concern lithium or lamotrigine, which are mood stabilisers. They cover anaesthetic interactions, cardiovascular safety margins and phosphoinositide metabolism, and halothane appears only as the anaesthetic used in the animal models. The association most likely reflects drug-interaction or anaesthetic-management links with lithium rather than any benefit of halothane for mania.
+The high score (0.9982) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. All four retrieved publications concern lithium or lamotrigine, which are mood stabilisers. They cover anaesthetic interactions, cardiovascular safety margins and phosphoinositide metabolism, and halothane appears only as the anaesthetic used in the animal models. The association most likely reflects drug-interaction or anaesthetic-management links with lithium rather than any benefit of halothane for mania.
 
 Other predicted indications are even less supported. Nephrogenic syndrome of inappropriate antidiuresis, Tourette syndrome and trichotillomania have no trials or literature, and bipolar disorder and major affective disorder have only indirect, non-halothane literature.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Prilocaine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 698
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Prilocaine: predicted new indication Neuralgia (evidence level L3). Approved use: Premature ejaculation"
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
+description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Prilocaine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Prilocaine: From Premature Ejaculation to Neuralgia
+## Prilocaine: Papillary conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Prilocaine is an amide-type local anaesthetic, used topically in India and listed in the knowledge graph for premature ejaculation and psychologic dyspareunia.
+Prilocaine is an amide-type local anaesthetic, used topically in India.
 The TxGNN model predicts it may be effective for **Neuralgia** (the top-ranked prediction with real supporting evidence), with **2 clinical trials** and **14 publications** currently supporting this direction.
 The evidence is mostly small, dated studies of the lidocaine/prilocaine combination (EMLA), so the prilocaine-specific signal is weak.
 
@@ -48,12 +48,12 @@ The evidence is mostly small, dated studies of the lidocaine/prilocaine combinat
 
 | Item | Content |
 |------|------|
-| Original Indication | Premature ejaculation; psychologic dyspareunia (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Neuralgia (the highest-scoring prediction, papillary conjunctivitis, has no supporting evidence, so the most evidence-supported prediction is presented here) |
-| TxGNN Prediction Score | 99.34% (papillary conjunctivitis, the top-ranked prediction, scored 99.78%) |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 19 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Papillary conjunctivitis |
+| TxGNN Prediction Score | 0.9978 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 19 of 19) |
+| Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold (research question; see Conclusion) |
 
 ---

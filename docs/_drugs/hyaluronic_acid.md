@@ -50,9 +50,9 @@ Hyaluronic acid eye drops are already widely used for this purpose, so this is l
 |------|------|
 | Original Indication | Not available (no approved indication text in the registered licences) |
 | Predicted New Indication | Dry eye syndrome |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 66
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-14
-description: "Ardeparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Pulmonary embolism, disseminated intravascular coagulation…"
 monitor_inn: "Ardeparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful", "thrombotic thrombocytopenic purpura"]
+last_modified_at: 2026-10-27
+description: "Ardeparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ardeparin
@@ -33,96 +33,67 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Ardeparin: From Pulmonary Embolism to Thrombophilia due to Protein C Deficiency (Autosomal Recessive)
+## Ardeparin: Low-molecular-weight heparin (anticoagulant) → Thrombophilia due to Protein C Deficiency, Autosomal Recessive
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Ardeparin is a low-molecular-weight heparin (LMWH) anticoagulant, originally associated with pulmonary embolism, disseminated intravascular coagulation, and purpura fulminans.
-The TxGNN model predicts it may be useful for **thrombophilia due to protein C deficiency, autosomal recessive**, but **no clinical trials and no publications** were found to support this prediction, so it remains a model-based research question.
+Ardeparin is a low-molecular-weight heparin anticoagulant that potentiates antithrombin III and inhibits factor Xa and thrombin.
+The TxGNN model predicts it may be useful for **thrombophilia due to protein C deficiency, autosomal recessive**, with a score of **0.9990**.
+No clinical trials or publications were found for this indication, so the support is **model prediction only**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans (from knowledge graph indication links; the India licence text is blank) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data are not available in the data compiled for this report. Based on general knowledge, ardeparin is a low-molecular-weight heparin that enhances antithrombin III activity and inhibits factor Xa and thrombin.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on what is known, ardeparin is a low-molecular-weight heparin: it enhances antithrombin III activity and thereby inhibits factor Xa and thrombin.
 
-Purpura fulminans is among its original indications, and it is the classic acute complication of severe (homozygous) protein C deficiency. This gives a plausible clinical-context link: anticoagulation is used as an adjunct alongside protein C replacement. The high TxGNN score is therefore not mechanistically implausible.
+Severe (homozygous) protein C deficiency leaves patients prone to widespread clotting, with purpura fulminans as its classic acute complication. Because ardeparin is an anticoagulant, there is a plausible link: anticoagulation is used as an adjunct alongside protein C replacement in this setting.
 
-However, the prediction rests on the model alone. No trials or literature were found for this indication. Ardeparin also has limited availability in many markets, so in practice other LMWHs may be preferred.
-
-### Other predicted indications (for context)
-
-All other predictions ranked in the top six also lack trials and literature, and most are mechanistically doubtful:
-
-| Rank | Predicted Indication | Score | Assessment |
-|---|---|---|---|
-| 2 | Primary release disorder of platelets | 99.83% | No clear rationale; a bleeding-type platelet defect where an anticoagulant would likely be harmful. Hold |
-| 3 | Pseudo-von Willebrand disease | 99.75% | Bleeding disorder; anticoagulant expected to worsen bleeding. Hold |
-| 4 | Atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 99.74% | Speculative complement-modulating link; standard care is complement inhibition. Research question |
-| 5 | Painful neuropathy | 99.62% | No evident mechanism; likely a graph artefact. Hold |
-| 6 | Thrombotic thrombocytopenic purpura | 99.40% | Mechanism does not match; bleeding risk with severe thrombocytopenia. Hold |
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+This link remains speculative. No trials or literature were supplied for this indication, and the high score is a model output only. Ardeparin also has limited availability in many markets, so in practice other low-molecular-weight heparins may be preferred.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 130372 | Lomoparin 3500IU Injection (Biological E Ltd) | Vial of 1 ml injection | Not stated in the available licence data |
-
-Only one registration (single-ingredient, valid, injectable) is on record.
+| 130372 | Lomoparin 3500IU Injection | Vial of 1 ml injection | Not recorded |
 
 ## Safety Considerations
 
-**Contraindications (from knowledge graph drug-disease links, not label text):**
-- Bleeding and coagulation disorders: hemophilia, blood coagulation disease, Glanzmann thrombasthenia, qualitative platelet defect, antithrombin III deficiency
-- Thrombocytopenia, including heparin-induced thrombocytopenia
-- Haemorrhagic conditions: intracranial hemorrhage, intracerebral hemorrhage, placental abruption
-- Gastrointestinal conditions: active peptic ulcer disease, ulcerative colitis, inflammatory bowel disease
-- Hepatic and biliary conditions: liver failure, biliary tract disease, obstructive jaundice
-- Eye conditions: retinal disease, retinitis, diabetic retinopathy, hypertensive retinopathy, diabetic cataract
-- Infective endocarditis (including subacute bacterial endocarditis)
-- Other: osteoporosis, postmenopausal osteoporosis, arteriosclerosis obliterans, hematologic disease
+- **Drug Interactions**: 76 interactions were identified. Major-level ones among those listed include:
+  - Antiplatelet and anticoagulant agents: acetylsalicylic acid, clopidogrel, cilostazol, dipyridamole, abciximab, cangrelor, apixaban, betrixaban, bivalirudin, caplacizumab, antithrombin III human
+  - Thrombolytic: alteplase
+  - Others: deferasirox, ibritumomab tiuxetan, tositumomab (I-131)
 
-**Drug Interactions:** 76 interactions were identified. The listed ones are mostly **Major** and involve other agents that affect clotting or platelets, so bleeding risk is the main concern:
-- Acetylsalicylic acid, clopidogrel, cilostazol, dipyridamole, abciximab, cangrelor, caplacizumab
-- Apixaban, betrixaban, bivalirudin, antithrombin III human, alteplase
-- Deferasirox, ibritumomab tiuxetan, tositumomab (I-131)
+  Moderate-level examples include fenfluramine, sibutramine, sugammadex and radioactive iodides (I-123, I-131). The combined effect with other agents that affect clotting is mainly a higher bleeding risk.
 
-Moderate interactions include fenfluramine, sibutramine, sugammadex, and iodide I-123/I-131.
+- **Conditions flagged as contraindicated in the compiled data (not label text)**: bleeding or clotting-related conditions (e.g., hemophilia, thrombocytopenia including heparin-induced thrombocytopenia, intracranial hemorrhage, blood coagulation disease, antithrombin III deficiency, Glanzmann thrombasthenia), liver failure, active peptic ulcer disease, inflammatory bowel disease, infective endocarditis, and several retinal diseases (e.g., diabetic and hypertensive retinopathy).
 
-Package insert warnings and contraindications were not available. Please refer to the package insert for label-based safety information.
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for protein C deficiency is biologically plausible, given the link to purpura fulminans, but it has no supporting trials or literature (evidence level L5). Safety screening cannot proceed without the package insert, and the product's licence record has no approved indication text.
+The prediction rests on model output alone, with no clinical trials or publications for this indication (evidence level L5). The mechanistic link is plausible but unproven, and the drug's bleeding risk and interactions require careful assessment.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for Lomoparin (blocking gap)
-- Detailed mechanism of action data
-- A systematic literature and trial search on LMWH use in severe protein C deficiency and purpura fulminans
-- A comparison against other LMWHs with better availability and clinical data
-- Clarification of the approved indication for licence 130372
+- Literature review and clinical data on low-molecular-weight heparin use in severe protein C deficiency
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications from the India label
+- Comparison with other, more widely available low-molecular-weight heparins
+- A bleeding-risk and drug-interaction management plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

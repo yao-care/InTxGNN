@@ -4,17 +4,17 @@ title: Mianserin
 parent: Model Prediction Only (L5)
 nav_order: 547
 evidence_level: L5
-indication_count: 7
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Mianserin: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Mianserin"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "neurotic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
+description: "Mianserin: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mianserin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Mianserin: From Unipolar Depression to Benign Paroxysmal Torticollis of Infancy
+## Mianserin: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,31 +46,28 @@ Among the other predicted indications, **neurotic disorder** has the most mianse
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; the India licence records contain no indication text) |
-| Predicted New Indication | Benign paroxysmal torticollis of infancy (rank 1) |
-| TxGNN Prediction Score | 99.49% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 (for the top-ranked indication) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 Other predicted indications, for comparison:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Registered Trials | Publications |
 |------|------|------|------|------|------|
-| 1 | Benign paroxysmal torticollis of infancy | 99.49% | L5 | 0 | 0 |
-| 2 | Dysthymic disorder | 99.45% | L4 | 0 | 1 |
-| 3 | Agoraphobia | 99.40% | L4 | 0 | 1 |
-| 4 | Ohdo syndrome and variants | 99.23% | L5 | 0 | 0 |
-| 5 | Melancholia | 99.17% | L4 | 0 | 20 |
-| 6 | Neurotic depression | 99.16% | L4 | 0 | 20 |
-| 7 | Neurotic disorder | 99.02% | L3 | 0 | 4 |
+| 1 | Benign paroxysmal torticollis of infancy | 0.9949 | L5 | 0 | 0 |
+| 3 | Agoraphobia | 0.9940 | L5 | 0 | 1 |
+| 4 | Ohdo syndrome and variants | 0.9923 | L5 | 0 | 0 |
+| 7 | Neurotic disorder | 0.9902 | L5 | 0 | 4 |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, mianserin is a tetracyclic antidepressant. Its receptor profile includes 5-HT1B, 5-HT2A/2B/2C, 5-HT6 and 5-HT7 serotonin receptors, α1A/1B/1D-adrenoceptors, the LPA1 receptor and the noradrenaline transporter (NET). Its efficacy in depression is established and it has been marketed for many years.
 
-The top-ranked prediction, benign paroxysmal torticollis of infancy, has **no established mechanistic link**. It is a rare paediatric condition often associated with channelopathy-related genetic variants (such as CACNA1A). There is no evidence that mianserin's receptor activity addresses its pathophysiology, and paediatric use would raise additional safety concerns. The high score reflects a graph-based pattern only. Ohdo syndrome (a rare genetic developmental disorder) is in the same position.
+The top-ranked prediction, benign paroxysmal torticollis of infancy, has **no established mechanistic link**. It is a rare paediatric condition often associated with channelopathy-related genetic variants (such as CACNA1A). There is no evidence that mianserin's receptor activity addresses its pathophysiology, and paediatric use would raise additional safety concerns. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Ohdo syndrome (a rare genetic developmental disorder) is in the same position.
 
 The more credible candidates are mood and anxiety conditions:
 - **Dysthymic disorder, melancholia and neurotic depression** are chronic, severe or milder forms of depression, closely related to mianserin's approved uses. Melancholia in particular is effectively on-label or near on-label, so it is not a true repurposing case.

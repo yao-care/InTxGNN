@@ -4,17 +4,17 @@ title: Tiotropium
 parent: High Evidence (L1-L2)
 nav_order: 839
 evidence_level: L1
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Tiotropium: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Bronchitis, asthma, intrinsic asthma, allergic asthma…"
 monitor_inn: "Tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Tiotropium: From Bronchitis, Asthma and Emphysema to Obstructive Lung Disease
+## Tiotropium: Obstructive lung disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The data compiled for this report show **38 clinical trials** (many Phase 3, com
 
 | Item | Content |
 |------|------|
-| Original Indication | Bronchitis, asthma, intrinsic asthma, allergic asthma, pulmonary emphysema (from the knowledge graph; no approved-indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

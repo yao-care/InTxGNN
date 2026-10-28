@@ -48,10 +48,10 @@ This prediction rests on a model score alone and is not supported by actual stud
 |------|------|
 | Original Indication | Not stated (the single registration has no approved indication text) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.29% |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. The only register
 
 The literature points in the opposite direction from the model's prediction. Ethanol is a recognised migraine trigger. A preclinical study in mice (PMID 37101198) shows that ethanol is metabolised to acetaldehyde, which acts through CGRP receptors and TRPA1 in Schwann cells to cause periorbital mechanical allodynia. This is a pain-promoting pathway. The other retrieved papers on migraine pathophysiology (KATP channels, spreading depression) and genetic susceptibility (ADH2, GABA receptors, NOS3) describe how migraine arises and do not show a therapeutic benefit from ethanol.
 
-The high TxGNN score (0.993) most likely reflects a disease association in the knowledge graph (ethanol as a trigger) and not a therapeutic relationship. The second-ranked prediction, migraine with brainstem aura (score 99.14%), has the same problem. It has no trials and no studies of ethanol as a treatment. One hit (PMID 30177906) concerns palmitoylethanolamide, a different compound, and appears to be a keyword match on "ethanol" only.
+The high TxGNN score (0.9929) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The second-ranked prediction, migraine with brainstem aura (score 0.9914), has the same limitation. It has no trials and no studies of ethanol as a treatment. One hit (PMID 30177906) concerns palmitoylethanolamide, a different compound, and appears to be a keyword match on "ethanol" only.
 
 ## Clinical Trial Evidence
 
@@ -101,14 +101,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no supportive studies. The available mechanistic evidence suggests ethanol promotes migraine and does not treat it. The high model score most likely reflects a trigger relationship in the knowledge graph.
+The prediction has no clinical trials and no supportive studies. The available mechanistic evidence suggests ethanol promotes migraine and does not treat it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India Pharma source, which are currently missing and block safety screening
 - Detailed mechanism of action data from DrugBank
 - Any original indication for ethanol as a drug, beyond its use as a solvent in the docetaxel product
 - Direct clinical evidence that ethanol relieves migraine, since none currently exists
-- Review of whether the knowledge graph edge reflects a trigger association and not a therapeutic one
+- Review of whether the TxGNN score reflects similarities the model learned between related diseases and not therapeutic evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

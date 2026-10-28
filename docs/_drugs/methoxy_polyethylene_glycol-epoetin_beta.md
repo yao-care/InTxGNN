@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-14
-description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: No approved indication text is available in the India licen…"
+last_modified_at: 2026-10-28
 monitor_inn: "Methoxy polyethylene glycol-epoetin beta"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Methoxy Polyethylene Glycol-Epoetin Beta: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methoxy Polyethylene Glycol-Epoetin Beta
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Methoxy polyethylene glycol-epoetin beta: From Anemia-Related Use to Primary Release Disorder of Platelets
+## Methoxy Polyethylene Glycol-Epoetin Beta: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,12 +44,12 @@ Methoxy polyethylene glycol-epoetin beta is a long-acting erythropoiesis-stimula
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication text is available in the India license records |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.36% |
+| TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ The link to the predicted indication is weak. Primary release disorder of platel
 
 Other predictions from the same model show similar problems:
 
-- **Glanzmann thrombasthenia (99.30%)** and **pseudo-von Willebrand disease (99.25%)** are platelet-function disorders with no known connection to erythropoietin signalling. Any benefit in Glanzmann thrombasthenia would be indirect, such as improving anaemia after chronic bleeding.
-- **Severe nonproliferative diabetic retinopathy (99.15%)**: erythropoietin is linked to retinal angiogenesis, and vitreous levels are raised in proliferative disease. The direction of effect is uncertain, and there is a risk of worsening retinal neovascularisation.
-- **Heparin cofactor 2 deficiency (99.10%)**, **antithrombin deficiency type 2 (99.07%)** and **factor 5 excess with spontaneous thrombosis (99.04%)** are pro-thrombotic conditions. Erythropoiesis-stimulating agents carry a thromboembolic risk, so these predictions raise a safety conflict rather than a therapeutic fit.
+- **Glanzmann thrombasthenia (0.9930)** and **pseudo-von Willebrand disease (0.9925)** are platelet-function disorders with no known connection to erythropoietin signalling. Any benefit in Glanzmann thrombasthenia would be indirect, such as improving anaemia after chronic bleeding.
+- **Severe nonproliferative diabetic retinopathy (0.9915)**: erythropoietin is linked to retinal angiogenesis, and vitreous levels are raised in proliferative disease. The direction of effect is uncertain, and there is a risk of worsening retinal neovascularisation.
+- **Heparin cofactor 2 deficiency (0.9910)**, **antithrombin deficiency type 2 (0.9907)** and **factor 5 excess with spontaneous thrombosis (0.9904)** are pro-thrombotic conditions. Erythropoiesis-stimulating agents carry a thromboembolic risk, so these predictions raise a safety conflict rather than a therapeutic fit.
 
 ## Clinical Trial Evidence
 

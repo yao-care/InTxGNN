@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-14
-description: "Glimepiride: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Glimepiride"
-predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+last_modified_at: 2026-10-23
+description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
 # Glimepiride
@@ -33,95 +33,87 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Glimepiride: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+## Glimepiride: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Glimepiride is a sulfonylurea originally used to treat type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **focal stiff limb syndrome**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
+Glimepiride is a sulfonylurea medicine, originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but there are **0 clinical trials** and **0 publications** supporting this prediction. It is a computational signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus |
-| Predicted New Indication | Focal stiff limb syndrome |
-| TxGNN Prediction Score | 99.75% |
+| Original Indication | Type 2 diabetes mellitus (relation recorded in the knowledge graph; no approved indication text is available in the licence records) |
+| Predicted New Indication | Classic stiff person syndrome |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, glimepiride is a sulfonylurea that closes K-ATP channels on pancreatic beta cells to stimulate insulin secretion. Its efficacy in type 2 diabetes is established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Glimepiride is generally known as a sulfonylurea that closes K-ATP channels in pancreatic beta cells and stimulates insulin release. This is background knowledge, not something confirmed by the compiled data.
 
-No mechanistic link to focal stiff limb syndrome is supported. This condition is closely related to stiff person syndrome, which involves anti-GAD autoimmunity and impaired GABAergic inhibition. Glimepiride has no known action on those pathways. The high score (99.75%) likely reflects shared diabetes/autoimmunity context in the knowledge graph (for example, GAD autoantibodies, which are also seen in type 1 diabetes) rather than a true drug effect.
+Classic stiff person syndrome is an autoimmune neurological disorder usually associated with anti-GAD65 antibodies and impaired GABAergic signalling. It often co-occurs with type 1 diabetes. The high TxGNN score most likely reflects network proximity through diabetes and GAD-related associations, not a therapeutic effect. No mechanistic link between glimepiride and the neurological symptoms of this disease is established.
 
-This should be treated as a hypothesis-generating signal, not clinical evidence.
+The same score was given to focal stiff limb syndrome (0.9975). This suggests the prediction is propagated from a shared parent or related disease node, not from independent evidence.
 
-**Other predicted indications (all L5, Hold, no supporting trials):**
-
-| Rank | Predicted Indication | Score | Note |
-|------|------|------|------|
-| 2 | Classic stiff person syndrome | 99.75% | Same anti-GAD autoimmunity context; no known glimepiride action on GABAergic pathways |
-| 3 | Opsismodysplasia | 99.74% | Speculative link to insulin/PI3K signaling (INPPL1); untested |
-| 4 | Thiamine-responsive dysfunction syndrome | 99.73% | Overlap limited to the diabetic phenotype; treatment is thiamine |
-| 5–8 | Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic) | 99.56–99.62% | Likely reflects lipodystrophy-cluster similarity; no supported mechanism |
-| 9 | Pancreatic agenesis | 99.55% | Mechanistically inappropriate, since glimepiride needs functional beta cells |
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available for the top predicted indication. For the rank 9 prediction (pancreatic agenesis), the only publication found was [PMID 12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) (2003, European Journal of Endocrinology), a study of endosonographic imaging pitfalls in suspected insulinomas. It is not relevant to treating pancreatic agenesis.
+Currently no related literature available for classic stiff person syndrome.
+
+---
 
 ## India Market Information
 
-Glimepiride is marketed in India with 20 valid registrations (all single-entry records, none cancelled). Approved indication text was not available in the data compiled for this report. Five examples:
+At least 20 licences were found, and the list may be partial. All listed products are valid. The licence records contain no approved indication text. The table shows five of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 208521 | Supride 2mg Tablet | Strip of 10 tablets | Not specified |
-| 100010 | Glimicord M 2 Forte Tablet | Strip of 10 tablets | Not specified |
-| 81192 | Ecoglim MV 2mg/500mg/0.2mg Tablet SR | Strip of 10 tablets (SR) | Not specified |
-| 246540 | Zoryl M 1 Forte Tablet PR | Strip of 15 tablets (PR) | Not specified |
-| 15505 | Adride 4mg Tablet | Strip of 10 tablets | Not specified |
+| 208521 | Supride 2mg Tablet | Strip of 10 tablets | Not stated in records |
+| 15505 | Adride 4mg Tablet | Strip of 10 tablets | Not stated in records |
+| 16440 | Asoride 1mg Tablet | Strip of 10 tablets | Not stated in records |
+| 102727 | Glimtec 2mg Tablet | Strip of 10 tablets | Not stated in records |
+| 99220 | Glenavon 2mg Tablet | Strip of 10 tablets | Not stated in records |
 
-All products are oral formulations. Many are fixed-dose combinations (for example with metformin or voglibose), although they are recorded as single entries.
+---
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, liver disease, gallbladder disease, congestive heart failure, pituitary hormone deficiencies (including hypopituitarism and Sheehan syndrome), hypogonadotropic hypogonadism (including Kallmann syndrome), thymus gland disease, osteoporosis (including postmenopausal), and infectious disease.
-- **Drug Interactions**: 599 interacting drugs were identified. Examples at Moderate level include:
-  - Beta-agonists and sympathomimetics: phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol
-  - Beta-blocker: acebutolol
-  - NSAIDs: ibuprofen, ketorolac
-  - Corticosteroid: hydrocortisone
-  - H2 blockers: famotidine, ranitidine
-  - Others: acetazolamide, hydrochlorothiazide, ethinylestradiol, ethanol, acitretin, nitazoxanide, albiglutide
+- **Relations recorded in the knowledge graph (not label text):** Contraindication links exist for kidney disease, liver disease, gallbladder disease, congestive heart failure, hypopituitarism and other pituitary hormone deficiencies, hypogonadotropic hypogonadism (including Kallmann syndrome), thymus gland disease, osteoporosis, postmenopausal osteoporosis and infectious disease.
+- **Drug Interactions:** 599 interactions were recorded. Examples at moderate level include phenylephrine, acebutolol, acetazolamide, famotidine, ranitidine, ibuprofen, ketorolac, ethinylestradiol, hydrocortisone, hydrochlorothiazide, salbutamol, epinephrine, ethanol and albiglutide. Topical hydrocortisone and topical alclometasone are rated minor.
 
-  Minor-level examples include topical hydrocortisone and alclometasone.
+Please refer to the package insert for label warnings and contraindications, which were not available for this report.
 
-Package insert warnings and contraindications were not available, so please refer to the package insert for the full safety profile. Hypoglycaemia is a general concern with sulfonylureas, particularly in non-diabetic patients.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or publications, and no plausible mechanism links glimepiride to focal stiff limb syndrome. The high TxGNN score probably reflects shared diabetes/autoimmunity network context. Treating non-diabetic patients with an insulin secretagogue also carries hypoglycaemia risk without a clear benefit.
+The prediction rests only on a model score. No trials or publications study glimepiride in stiff person syndrome, and no plausible mechanism is established. Evidence level is L5. The other predicted diseases (focal stiff limb syndrome, opsismodysplasia, thiamine-responsive dysfunction syndrome, localized lipodystrophies and pancreatic agenesis) are also supported by no direct clinical evidence. For pancreatic agenesis, a secretagogue is biologically unlikely to work.
 
 **To proceed, the following is needed:**
-- Detailed mechanism of action data (MOA)
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Preclinical or mechanistic evidence for any effect on GABAergic or autoimmune pathways
-- A targeted literature search on sulfonylureas in stiff person spectrum disorders
-- A route and formulation compatibility assessment
+- Package insert warnings and contraindications for safety screening
+- Mechanism of action data
+- A rationale linking glimepiride to GABAergic or autoimmune mechanisms, or preclinical data supporting one
+- Any clinical or observational data in stiff person syndrome patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

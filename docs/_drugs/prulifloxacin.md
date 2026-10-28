@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **heart disease**, but this is 
 |------|------|
 | Original Indication | Not stated in the India licence data compiled for this report (prulifloxacin is a fluoroquinolone antibacterial) |
 | Predicted New Indication | Heart disease |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **heart disease**, but this is 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, prulifloxacin is a prodrug of ulifloxacin, a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its established role is treating bacterial infections.
 
-**The prediction is not mechanistically reasonable.** No credible link connects a bacterial topoisomerase inhibitor to the treatment of heart disease. The high TxGNN score (99.94%, rank 1461) most likely reflects network-level similarity in the knowledge graph rather than biological relevance.
+**The prediction is not mechanistically reasonable.** No credible link connects a bacterial topoisomerase inhibitor to the treatment of heart disease. The high TxGNN score (0.9994, rank 1461) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The only retrieved publication on the cardiac question (PMID 15018156, 2004) is a rabbit study comparing the proarrhythmic effects and QT-interval changes of ulifloxacin and other quinolones. It examines a safety liability, not a therapeutic benefit. Fluoroquinolones as a class carry known cardiac warnings (QT prolongation, and aortic aneurysm/dissection), which argue against use in heart disease.
 

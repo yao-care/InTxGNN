@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ezetimibe
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 336
-evidence_level: L1
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Ezetimibe: predicted new indication Hyperlipoproteinemia (evidence level L1). Approved use: Hyperlipidemia (also familial hyperlipidemia…"
+evidence_level: L5
+indication_count: 1
+last_modified_at: 2026-10-28
 monitor_inn: "Ezetimibe"
-predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ezetimibe
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-## Ezetimibe: From Hyperlipidemia to Hyperlipoproteinemia
+## Ezetimibe: Cholesterol-ester transfer protein deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ezetimibe is a cholesterol absorption inhibitor, originally used to treat hyperlipidemia, familial hyperlipidemia, homozygous familial hypercholesterolemia and sitosterolemia.
-The TxGNN model predicts it may be effective for **hyperlipoproteinemia**, supported by **40 clinical trials** and **19 publications** in the data compiled for this report.
 This prediction is essentially an on-label or closely related use, so it has low novelty as a true repurposing candidate.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperlipidemia (also familial hyperlipidemia, homozygous familial hypercholesterolemia, sitosterolemia) |
-| Predicted New Indication | Hyperlipoproteinemia |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cholesterol-ester transfer protein deficiency |
+| TxGNN Prediction Score | 0.9909 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -61,9 +60,9 @@ Ezetimibe inhibits NPC1L1-mediated intestinal cholesterol absorption, which lowe
 Hyperlipoproteinemia is a closely related lipid disorder to the original indications. The mechanism that lowers cholesterol in hyperlipidemia applies directly, so this prediction is better seen as an extension within the same disease family than as a new therapeutic area. The label scope should be checked before it is counted as repurposing.
 
 Other predictions from the model:
-- **Familial hypercholesterolemia (99.38%, L1)**: Largely already covered by the original indications (homozygous FH). Heterozygous and paediatric populations are the main extension. Ezetimibe gives additive LDL-C lowering with statins in patients with LDL receptor defects.
-- **Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.25%, L4)**: Hypothesis only. One preclinical mouse report links NPC1L1 deficiency to altered FGF15 and bile acid pool. There are no human data for this ultra-rare condition. Status: Research Question.
-- **Cholesterol-ester transfer protein deficiency (99.09%, L5)**: Not supported. This condition raises HDL-C and does not mainly need LDL lowering. The retrieved literature does not evaluate ezetimibe. Status: Hold.
+- Heterozygous and paediatric populations are the main extension. Ezetimibe gives additive LDL-C lowering with statins in patients with LDL receptor defects.
+- One preclinical mouse report links NPC1L1 deficiency to altered FGF15 and bile acid pool. There are no human data for this ultra-rare condition. Status: Research Question.
+- **Cholesterol-ester transfer protein deficiency (0.9909, L5)**: Not supported. This condition raises HDL-C and does not mainly need LDL lowering. The retrieved literature does not evaluate ezetimibe. Status: Hold.
 
 ## Clinical Trial Evidence
 

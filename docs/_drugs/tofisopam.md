@@ -6,7 +6,7 @@ nav_order: 843
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Tofisopam: predicted new indication Insomnia (evidence level L5). Approved use: Not recorded in the compiled data"
+description: "Tofisopam: predicted new indication insomnia (evidence level L5). Approved use: Not recorded in the compiled data"
 monitor_inn: "Tofisopam"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Tofisopam: From Anxiety-Related Use to Insomnia (Original Indication Not Recorded in Data)
+## Tofisopam: Predicted New Indication Insomnia (Original Indication Not Recorded in Data)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ The prediction is therefore model-derived only.
 |------|------|
 | Original Indication | Not recorded in the compiled data (all license entries have empty indication text) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.16% |
+| TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. The compiled data
 
 From general pharmacology (outside the compiled data, to be verified), tofisopam is a 2,3-benzodiazepine that does not act through classical GABA-A benzodiazepine-site agonism. It is generally described as non-sedating, anxiolytic and activating. That profile argues against a straightforward hypnotic effect.
 
-The high score of 99.16% may therefore reflect network proximity to other benzodiazepines in the knowledge graph rather than a true therapeutic signal. No pathway-level support is available.
+The high score of 0.9916 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as other benzodiazepines, not biological evidence. No pathway-level support is available.
 
 ## Clinical Trial Evidence
 

@@ -50,9 +50,9 @@ The strongest evidence among the top 10 predictions is for **migraine disorder**
 |------|------|
 | Original Indication | Not stated in the available licence data (olmesartan is an ARB, typically used for hypertension) |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,12 +62,12 @@ The strongest evidence among the top 10 predictions is for **migraine disorder**
 
 Currently, detailed mechanism of action data is not available in the compiled data. Olmesartan belongs to the ARB class, which blocks the angiotensin II type 1 (AT1) receptor. This lowers vasoconstriction and blood pressure.
 
-For Prinzmetal angina (coronary vasospasm), a plausible but speculative link is that reduced angiotensin II-driven vasoconstriction could affect coronary spasm. No trials or publications support this, and the high score may reflect knowledge-graph proximity rather than a real signal.
+For Prinzmetal angina (coronary vasospasm), a plausible but speculative link is that reduced angiotensin II-driven vasoconstriction could affect coronary spasm. No trials or publications support this, and the high score comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions in the top 10 vary in plausibility:
 - **Migraine disorder** has the most supporting literature (see below). The evidence is mostly from hypertensive patients, so benefit in people with normal blood pressure is unclear.
 - **Pulmonary hypertension** has preclinical support only (rat and mouse models, evidence level L4).
-- **Hair-related conditions** (hypotrichosis simplex of the scalp, alopecia, congenital hypotrichosis milia, diffuse alopecia areata) have no plausible mechanism and no evidence. The scores likely reflect graph artifacts.
+- **Hair-related conditions** (hypotrichosis simplex of the scalp, alopecia, congenital hypotrichosis milia, diffuse alopecia areata) have no plausible mechanism and no evidence. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - **Open-angle glaucoma** has only a general treatment review with no olmesartan-specific data.
 - **Migraine with brainstem aura** and **kyphoscoliotic heart disease** have no subtype-specific evidence.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 184
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ciprofloxacin: predicted new indication Diffuse scleroderma (evidence level L4). Approved use: Bacterial infections (e.g., typhoid fever, salmonellosis…"
 monitor_inn: "Ciprofloxacin"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **diffuse scleroderma**, but th
 |------|------|
 | Original Indication | Bacterial infections (e.g., typhoid fever, salmonellosis, bacterial pneumonia, anthrax, Pseudomonas aeruginosa infection, shigellosis); the Indian licence records compiled for this report carry no indication text |
 | Predicted New Indication | Diffuse scleroderma |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -111,7 +111,7 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.87%) is not backed by registered trials or confirmed clinical results. The two available publications are indirect, with one of unverified design, and the mechanistic links address either an unproven antifibrotic effect or a complication of the disease.
+The high TxGNN score (0.9987) is not backed by registered trials or confirmed clinical results. The two available publications are indirect, with one of unverified design, and the mechanistic links address either an unproven antifibrotic effect or a complication of the disease.
 
 **To proceed, the following is needed:**
 - The full results and methodological verification of the 2010 ciprofloxacin scleroderma study (PMID 20507401)

@@ -4,17 +4,17 @@ title: Zolpidem
 parent: Model Prediction Only (L5)
 nav_order: 911
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Zolpidem: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L5). Approved use: Insomnia"
 monitor_inn: "Zolpidem"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Zolpidem: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zolpidem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Zolpidem: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
+## Zolpidem: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Zolpidem is a sedative-hypnotic originally used to treat insomnia.
-The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, but this is essentially the same condition as its approved use rather than a true new indication. No clinical trials are registered for this prediction, but **20 publications** (reviews, guidelines, network meta-analyses and one Phase 3 RCT with zolpidem ER as comparator) discuss the drug in this setting.
+No clinical trials are registered for this prediction, but **20 publications** (reviews, guidelines, network meta-analyses and one Phase 3 RCT with zolpidem ER as comparator) discuss the drug in this setting.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Insomnia |
-| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L1 (as assigned in the data compiled for this report; see note below) |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy |
+| TxGNN Prediction Score | 0.9926 |
+| Evidence Level | L5 (as assigned in the data compiled for this report; see note below) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -59,11 +59,11 @@ The TxGNN model predicts it may be effective for **sleep disorder, initiating an
 
 Zolpidem is a positive allosteric modulator of the GABA-A receptor with preferential affinity for the alpha-1 subunit, which mediates sedative-hypnotic effects. Detailed mechanism-of-action data was not included in the data compiled for this report, but this mechanism is well established in the literature.
 
-"Difficulty initiating and maintaining sleep" is essentially a synonym for insomnia, the drug's original indication. The prediction is therefore best read as a re-labeling of the approved use, not as true repurposing. The model's high score is consistent with this, since the drug-disease link already exists in the knowledge graph.
+"Difficulty initiating and maintaining sleep" is essentially a synonym for insomnia, the drug's original indication. The prediction is therefore best read as a re-labeling of the approved use, not as true repurposing.
 
 Two other predictions were also generated, but they lack support:
-- **Benign paroxysmal torticollis of infancy** (score 99.26%): no identifiable mechanistic link, no trials or literature, and sedative-hypnotics raise safety concerns in infants. This looks like a graph-based artifact. Decision: Hold.
-- **Agoraphobia** (score 99.25%): the rationale is weak, because zolpidem's alpha-1 selectivity gives it minimal anxiolytic activity. Guideline-preferred treatments are SSRIs/SNRIs and CBT, and the risks of dependence, complex sleep behaviors and next-day impairment argue against use. No trials or literature support it. Decision: Hold.
+- **Benign paroxysmal torticollis of infancy** (score 0.9926): no identifiable mechanistic link, no trials or literature, and sedative-hypnotics raise safety concerns in infants. Decision: Hold.
+- **Agoraphobia** (score 0.9925): the rationale is weak, because zolpidem's alpha-1 selectivity gives it minimal anxiolytic activity. Guideline-preferred treatments are SSRIs/SNRIs and CBT, and the risks of dependence, complex sleep behaviors and next-day impairment argue against use. No trials or literature support it. Decision: Hold.
 
 ## Clinical Trial Evidence
 

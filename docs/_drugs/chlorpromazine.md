@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Chlorpromazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 176
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Chlorpromazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Schizophrenia and related psychotic disorders (manic bipolar affect…"
 monitor_inn: "Chlorpromazine"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Chlorpromazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Chlorpromazine: From Schizophrenia and Other Psychotic Disorders to Retinal Dystrophy
+## Chlorpromazine: From Schizophrenia and Other Psychotic Disorders to Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 |------|------|
 | Original Indication | Schizophrenia and related psychotic disorders (manic bipolar affective disorder, schizoaffective disorder, schizophreniform disorder, and others) |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -123,7 +123,6 @@ The prediction rests on a computational score alone, and the single supporting p
 - Detailed mechanism of action data, and a mechanistic rationale connecting chlorpromazine to retinal dystrophy pathology
 - Preclinical evidence (e.g., retinal degeneration models) showing benefit and not toxicity
 - A review of ocular and phototoxicity risk, since retinal toxicity is a known concern
-- If the team wants a more tractable lead, consider the rank-10 prediction (early-onset schizophrenia). It is an on-label extension and would need paediatric and adolescent safety evaluation, particularly for extrapyramidal and metabolic burden.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 789
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Stanozolol: predicted new indication C1 inhibitor deficiency (evidence level L3). Approved use: Hereditary angioedema"
 monitor_inn: "Stanozolol"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "inflammatory myopathy with abundant macrophages"]
+predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "idiopathic eosinophilic myositis"]
+last_modified_at: 2026-10-23
+description: "Stanozolol: predicted new indication C1 inhibitor deficiency (evidence level L3). Approved use: Hereditary angioedema"
 ---
 
 # Stanozolol
@@ -38,29 +38,29 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Stanozolol is an anabolic-androgenic steroid originally used to prevent attacks of hereditary angioedema, including the form caused by C1 inhibitor deficiency.
-The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**. This is essentially the drug's original indication rather than a true new use.
-There are currently **no registered clinical trials**, but **18 publications** support this direction, including a systematic review of androgen use in hereditary angioedema.
+Stanozolol is an oral and injectable anabolic androgen. It is used for hereditary angioedema, including the form with C1 inhibitor deficiency.
+The TxGNN model predicts it for **C1 inhibitor deficiency**, which is essentially the same disease as its original use, so this is not true repurposing.
+Support comes from **0 registered clinical trials** and **18 publications**, mostly older reviews, cohorts and case reports.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary angioedema; hereditary angioedema with C1 inhibitor deficiency |
+| Original Indication | Hereditary angioedema (a relation recorded in the knowledge graph; the India licence records contain no indication text) |
 | Predicted New Indication | C1 inhibitor deficiency |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, stanozolol is an anabolic-androgenic steroid. It is understood to raise the liver's production of C1 inhibitor and related complement proteins such as C4, which reduces the frequency of angioedema attacks.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, stanozolol is an attenuated 17-alpha-alkylated androgen. It increases liver production of C1 inhibitor and of related complement components such as C4. This reduces the frequency of swelling attacks in hereditary angioedema caused by C1 inhibitor deficiency.
 
-The predicted indication, C1 inhibitor deficiency, is the underlying cause of hereditary angioedema. The prediction therefore largely restates the drug's established use rather than pointing to a new disease. The mechanism is supported by clinical experience and by a systematic review of androgen use in this condition (PMID 25707325).
+Hereditary angioedema due to C1 inhibitor deficiency is the same condition as the predicted indication, so the prediction mostly restates the drug's known use. The literature describes stanozolol as a long-term preventive treatment (prophylaxis), alongside danazol. An Indian case report describes treatment with stanozolol 2 mg several times daily.
 
-Androgens are second-line long-term prophylaxis because of their adverse effects, such as virilization, liver toxicity and lipid changes. They are not suitable in pregnancy or in children.
+The evidence is older and observational. Current guidelines favour C1 inhibitor concentrates, lanadelumab, berotralstat and similar agents for prevention, because androgens carry liver, virilization, lipid and pregnancy risks.
 
 ## Clinical Trial Evidence
 
@@ -70,50 +70,70 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25707325](https://pubmed.ncbi.nlm.nih.gov/25707325/) | 2015 | Systematic review | Ann Allergy Asthma Immunol | Critical appraisal of the risk-benefit balance of long-term androgen use in hereditary angioedema |
-| [22729959](https://pubmed.ncbi.nlm.nih.gov/22729959/) | 2012 | Review | Curr Allergy Asthma Rep | Current options for treating acute attacks and preventing attacks in HAE due to C1-INH deficiency |
+| [25707325](https://pubmed.ncbi.nlm.nih.gov/25707325/) | 2015 | Systematic review | Ann Allergy Asthma Immunol | Appraises the risk-benefit balance of long-term androgen use in hereditary angioedema |
+| [22729959](https://pubmed.ncbi.nlm.nih.gov/22729959/) | 2012 | Review | Curr Allergy Asthma Rep | Overview of treatment of acute attacks and prophylaxis in HAE due to C1 inhibitor deficiency |
 | [31826031](https://pubmed.ncbi.nlm.nih.gov/31826031/) | 2018 | Review | Allergologie Select | Update on treatment of acquired and hereditary recurrent angioedema |
-| [1869690](https://pubmed.ncbi.nlm.nih.gov/1869690/) | 1991 | Review | J Am Acad Dermatol | Prophylactic therapy with danazol or stanozolol is possible; acute attacks do not respond to antihistamines, corticosteroids or adrenergic drugs |
-| [26727765](https://pubmed.ncbi.nlm.nih.gov/26727765/) | 2015 | Cohort | J Investig Allergol Clin Immunol | Clinical pattern and acute and long-term management of HAE due to C1-INH deficiency |
-| [3146615](https://pubmed.ncbi.nlm.nih.gov/3146615/) | 1988 | Observational/Mechanistic | J Clin Chem Clin Biochem | Contact system and fibrinolysis evaluated at baseline, during attacks and during low-dose anabolic steroid prophylaxis |
-| [23248378](https://pubmed.ncbi.nlm.nih.gov/23248378/) | 2012 | Case report | Indian J Dermatol | Indian patient with type 1 HAE started on stanozolol 2 mg three times daily |
-| [7892812](https://pubmed.ncbi.nlm.nih.gov/7892812/) | 1994 | Case series | Allergol Immunopathol | Three type II HAE cases treated with stanozolol, with virtually no side effects or attacks; one had raised liver enzymes |
-| [18447143](https://pubmed.ncbi.nlm.nih.gov/18447143/) | 2008 | Case report | J Investig Allergol Clin Immunol | Patient with HAE stable on stanozolol who later developed acquired angioedema |
-| [38039144](https://pubmed.ncbi.nlm.nih.gov/38039144/) | 2024 | Observational | Clin Exp Dermatol | Experience in Chandigarh, India: delayed diagnosis is the main reason for HAE mortality |
+| [1869690](https://pubmed.ncbi.nlm.nih.gov/1869690/) | 1991 | Review | J Am Acad Dermatol | Prophylaxis with danazol or stanozolol is possible; acute attacks do not respond to antihistamines or corticosteroids |
+| [26727765](https://pubmed.ncbi.nlm.nih.gov/26727765/) | 2015 | Cohort | J Investig Allergol Clin Immunol | Clinical pattern and acute and long-term management of HAE with C1 inhibitor deficiency |
+| [3146615](https://pubmed.ncbi.nlm.nih.gov/3146615/) | 1988 | Observational | J Clin Chem Clin Biochem | Contact system and fibrinolysis studied under basal conditions, during attacks and during low-dose anabolic steroid prophylaxis |
+| [7892812](https://pubmed.ncbi.nlm.nih.gov/7892812/) | 1994 | Case series | Allergol Immunopathol | Three type II HAE patients on stanozolol had almost no attacks; one showed raised liver enzymes |
+| [23248378](https://pubmed.ncbi.nlm.nih.gov/23248378/) | 2012 | Case report | Indian J Dermatol | Type 1 HAE patient in India started on stanozolol 2 mg |
+| [18447143](https://pubmed.ncbi.nlm.nih.gov/18447143/) | 2008 | Case report | J Investig Allergol Clin Immunol | Woman with HAE stable on stanozolol later developed acquired angioedema features |
+| [33220126](https://pubmed.ncbi.nlm.nih.gov/33220126/) | 2021 | Clinical series | Pediatr Allergy Immunol | Novel SERPING1 mutations and clinical experience of type 1 HAE in North India |
 
 ## India Market Information
 
+The indication text is empty in all licence records. The list below shows 5 of the 10 valid single-ingredient licences.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 217404 | Tanzol 2mg Capsule | Strip of 10 capsules | Not stated |
-| 203547 | Stenfil 2mg Tablet | Strip of 10 tablets | Not stated |
-| 96382 | Ganzol 2mg Tablet | Strip of 10 tablets | Not stated |
-| 201784 | Stazol 50 Injection | Ampoule of 1 ml injection | Not stated |
-| 150720 | Neurabol Capsule | Strip of 10 capsules | Not stated |
+| 217404 | Tanzol 2mg Capsule | Strip of 10 capsules | Not stated in the licence record |
+| 203547 | Stenfil 2mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+| 96382 | Ganzol 2mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+| 201784 | Stazol 50 Injection | Ampoule of 1 ml injection | Not stated in the licence record |
+| 150720 | Neurabol Capsule | Strip of 10 capsules | Not stated in the licence record |
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph (not package insert text)**: kidney disease, nephrotic syndrome, liver disease, gallbladder disease, diabetes mellitus and diabetic ketoacidosis, heart and cardiovascular disease, coronary artery disease, hypercalcaemia and nephrocalcinosis, benign prostatic hyperplasia, and prostate cancer.
-- **Drug Interactions**: 69 interactions were recorded. Most are Moderate, and one major interaction is listed in the data reviewed:
-  - **Major**: carfilzomib.
-  - **Moderate (examples)**: corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), asparaginase products, brentuximab vedotin, cyclosporine, chlorpropamide, clofarabine, and C1-esterase inhibitor products.
-- **Population cautions** (from the literature review): avoid in pregnancy, in women of childbearing potential and in children. Monitor liver function and lipids.
+- **Knowledge-graph contraindication relations** (not label text): kidney disease, liver disease, gallbladder disease, nephrotic syndrome, diabetes mellitus and diabetic ketoacidosis, benign prostatic hyperplasia, prostate cancer, hypercalcemia and nephrocalcinosis, phosphorus metabolism disease, and heart, cardiovascular and coronary artery disease.
+- **Drug Interactions**: 69 interactions are recorded. Examples:
+  - Major: carfilzomib.
+  - Moderate: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, corticotropin, cyclosporine, chlorpropamide, cannabidiol, asparaginase products, human C1-esterase inhibitor and conestat alfa.
+- **Literature signals**: elevated liver enzymes were seen in one case series. The review literature highlights hepatotoxicity, virilization, lipid effects and teratogenicity as limits on long-term androgen use.
 
-The package insert warnings and contraindications for the Indian products were not available, so please refer to the package insert for the full safety information.
+Please also refer to the package insert, which was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication is essentially the drug's established use. It is supported by a systematic review, reviews and clinical case experience, but not by registered trials or Phase 3 RCTs. Androgen adverse effects require clear safeguards.
+The predicted indication is essentially the drug's original use, supported by a systematic review, reviews and cohort/case literature. No registered trials exist, and no study was supplied that tests the drug under modern standards. Newer prophylactic agents are preferred because of the androgen safety profile. The evidence level is L3, and the decision is "proceed with guardrails" rather than a full "go".
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian products
-- Detailed mechanism of action data from DrugBank
-- A liver function and lipid monitoring plan
-- Exclusion criteria for pregnancy, women of childbearing potential and pediatric patients
-- Review of comparative options (e.g., C1 inhibitor concentrates and newer prophylactic agents) and their availability in India
+- India package insert warnings, contraindications and approved indication text
+- Mechanism of action data
+- Liver function, lipid and virilization monitoring plan, with exclusion of pregnancy
+- Comparison with current guideline-preferred prophylaxis
+- Review of interaction risk with the 69 recorded interacting drugs
+
+## Other Predicted Indications (Not Recommended for Now)
+
+These nine lower-ranked predictions have no supporting trials. Only focal myositis has a retrieved paper, and it reports muscle injury, a safety signal.
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
+|------|------|------|------|------|
+| 2 | Serpinopathy with toxic serpin polymerization | 1.0000 | L5 | Hold |
+| 3 | Fetal erythroblastosis | 0.9996 | L5 | Hold |
+| 4 | Peyronie disease | 0.9996 | L5 | Hold |
+| 5 | Renal tubular acidosis | 0.9986 | L5 | Hold |
+| 6 | Immune-mediated necrotizing myopathy | 0.9983 | L5 | Hold |
+| 7 | Antisynthetase syndrome | 0.9983 | L5 | Hold |
+| 8 | Complement component C1s deficiency | 0.9982 | L5 | Hold (mechanism-based research question only) |
+| 9 | Focal myositis | 0.9982 | L5 | Hold |
+| 10 | Idiopathic eosinophilic myositis | 0.9977 | L5 | Hold |
+
+For complement component C1s deficiency, the supplied data labelled the evidence L4 and the recommendation "Research Question". Because no cited study addresses this disease directly, it is listed here as L5.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

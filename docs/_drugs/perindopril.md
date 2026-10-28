@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Perindopril
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 658
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Perindopril: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "perindopril"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 # Perindopril
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **malignant hypertensive renal 
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9977 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,9 +60,8 @@ Currently, detailed mechanism of action data is not available in the data compil
 The predicted indication is closely related to the approved one: it is a severe, kidney-damaging form of hypertension. The high TxGNN score most likely reflects this proximity to the hypertension indication rather than independent evidence. The only literature item retrieved concerns a solitary kidney after nephrectomy for renal cancer. It does not address perindopril or malignant hypertensive nephropathy.
 
 Other predictions in the list are weaker:
-- **Malignant renovascular hypertension** (score 99.77%, L5): the RAAS rationale is coherent, but ACE inhibitors can cause acute renal function decline in bilateral renal artery stenosis or stenosis of a solitary kidney. No trials or literature are available.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.75%, L4): only indirect rat studies exist (e.g., PMID 10602319 and 11282121). Most other retrieved items are off-topic.
-- **Pulmonary hypertension with unclear multifactorial mechanism** (99.75%, L5) and **Braddock syndrome** (99.66%, L5): no supporting evidence, and likely graph-based artifacts.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9975, L4): only indirect rat studies exist (e.g., PMID 10602319 and 11282121). Most other retrieved items are off-topic.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (0.9975, L5) and **Braddock syndrome** (0.9966, L5): no supporting evidence. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -99,7 +98,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible and close to the approved hypertension indication, but there are no clinical trials and no directly relevant literature. The high TxGNN score probably reflects graph proximity rather than independent evidence. Renal-related safety concerns also need clarification.
+The prediction is mechanistically plausible and close to the approved hypertension indication, but there are no clinical trials and no directly relevant literature. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Renal-related safety concerns also need clarification.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian regulator, which is a blocking gap for safety screening

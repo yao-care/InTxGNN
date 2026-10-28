@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trifluoperazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 864
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Trifluoperazine: predicted new indication Manic bipolar affective disorder (evidence level L4). Approved use: Schizophrenia, anxiety"
@@ -14,7 +14,7 @@ predicted_indications: ["manic bipolar affective disorder"]
 # Trifluoperazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but currently there are **no registered clinical trials** and only indirect lite
 |------|------|
 | Original Indication | Schizophrenia, anxiety |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.51% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9951 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

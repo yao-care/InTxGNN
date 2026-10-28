@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Insulin Glargine: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Insulin glargine"
-predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
 
 # Insulin Glargine
@@ -47,13 +47,13 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 |------|------|
 | Original Indication | Type 2 diabetes mellitus (other recorded indications: type 1 diabetes mellitus, diabetic ketoacidosis) |
 | Predicted New Indication | Autoimmune oophoritis |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-*Note: No approved-indication text was available in the India licence records, so the original indication comes from the knowledge-graph indication data.*
+*Note: No approved-indication text was available in the India licence records, so the original indication could not be taken from them.*
 
 ## Why is This Prediction Reasonable?
 

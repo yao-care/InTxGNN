@@ -4,7 +4,7 @@ title: Zonisamide
 parent: Model Prediction Only (L5)
 nav_order: 912
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not stated in the Indian license records compiled for this report (zo…"
 monitor_inn: "Zonisamide"
@@ -14,7 +14,7 @@ predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobine
 # Zonisamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Zonisamide is an anticonvulsant (antiseizure) drug that is marketed in India in capsule and tablet forms.
 The TxGNN model predicts it may be effective for **Tourette syndrome**, but this is a model prediction only, with **no clinical trials** and **no publications** currently supporting it.
-Among the other top-ranked predictions, **absence epilepsy** has the most supporting literature, although it is closer to an extension of the existing epilepsy use than a true repurposing.
 
 ## Quick Overview
 
@@ -48,10 +47,10 @@ Among the other top-ranked predictions, **absence epilepsy** has the most suppor
 |------|------|
 | Original Indication | Not stated in the Indian license records compiled for this report (zonisamide is a known antiseizure medication) |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,11 +60,10 @@ Currently, detailed mechanism of action data is not available in the data compil
 The prediction should be read with caution. A pragmatic review (PMID 36005856) reports that antiseizure medications can induce obsessive-compulsive and tic disorders, which points to a possible safety concern rather than support for benefit in Tourette syndrome. The TxGNN score is high, but no trial or publication directly supports this indication.
 
 Other predictions in the top 10 differ in strength:
-- **Absence epilepsy (score 99.24%, Evidence Level L3):** The most credible of the group. T-type calcium channel blockade is the same mechanism that underlies absence seizures and the action of ethosuximide. Evidence consists of small uncontrolled or retrospective studies. Because zonisamide is already used in epilepsy, this is a niche or adjunctive use rather than new repurposing.
-- **Manic bipolar affective disorder (score 99.35%, Evidence Level L4):** The evidence is mixed. An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.
-- **Fibromyalgia (score 99.20%, Evidence Level L5):** The only trial was withdrawn with zero enrollment.
+- **Manic bipolar affective disorder (score 0.9935, Evidence Level L4):** The evidence is mixed. An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.
+- **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment.
 - **Trichotillomania, Prinzmetal angina, conjunctivitis:** Prediction only, with speculative or implausible mechanistic links.
-- **Methemoglobinemia (including alpha type) and methemoglobin reductase deficiency:** No plausible mechanism. These scores probably reflect shared graph neighbours, and sulfonamides are more often linked to hematologic risk than benefit.
+- **Methemoglobinemia (including alpha type) and methemoglobin reductase deficiency:** No plausible mechanism. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Sulfonamides are more often linked to hematologic risk than benefit.
 
 ## Clinical Trial Evidence
 

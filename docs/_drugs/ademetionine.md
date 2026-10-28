@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ademetionine: From an Unspecified Original Indication to Acne
+## Ademetionine: From an Unspecified Original Indication to acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ademetionine (S-adenosylmethionine, SAMe) is marketed in India as an oral tablet, but the data compiled for this report do not list an approved indication.
-The TxGNN model predicts it may be effective for **acne**, with a very high score of **99.90%**.
+The TxGNN model predicts it may be effective for **acne**, with a very high score of **0.9990**.
 However, there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a model prediction only.
 
 ## Quick Overview
@@ -48,10 +48,10 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 |------|------|
 | Original Indication | Not stated in the data compiled for this report |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ A plausible but unvalidated link to acne runs through modulation of inflammation
 
 The very high TxGNN score is a computational result only. No trials or publications were found to support it.
 
-Other top-ranked predictions are mostly colonic conditions: colonic neoplasm (99.37%), cecum villous adenoma (99.17%), lipoma of colon (99.17%), rectosigmoid junction neoplasm (99.17%), colonic lymphangioma (99.17%), cecum neuroendocrine tumor G1 (99.15%), cecal disease (99.14%), benign neoplasm of cecum (99.13%) and colon leiomyoma (99.13%). Many of these appear to reflect clustering of colonic disease nodes in the knowledge graph rather than drug-specific signals. The one exception with a biologically plausible rationale is colonic neoplasm, where DNA and histone methylation are relevant to colorectal carcinogenesis. Even there, the direction of effect (protective or tumour-promoting) is uncertain.
+Other top-ranked predictions are mostly colonic conditions: colonic neoplasm (0.9937), cecum villous adenoma (0.9917), lipoma of colon (0.9917), rectosigmoid junction neoplasm (0.9917), colonic lymphangioma (0.9917), cecum neuroendocrine tumor G1 (0.9915), cecal disease (0.9914), benign neoplasm of cecum (0.9913) and colon leiomyoma (0.9913). These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related colonic diseases, not biological evidence. The one exception with a biologically plausible rationale is colonic neoplasm, where DNA and histone methylation are relevant to colorectal carcinogenesis. Even there, the direction of effect (protective or tumour-promoting) is uncertain.
 
 ## India Market Information
 

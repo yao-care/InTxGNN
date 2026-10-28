@@ -48,10 +48,10 @@ A related prediction, diabetic retinopathy, has 2 publications, but neither addr
 |------|------|
 | Original Indication | Osteoporosis (including postmenopausal and drug-induced osteoporosis) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A link to retinal microvascular disease or diabetes-related inflammation is therefore conceivable, but it is speculative. The only support in the data is the very high TxGNN score. No ocular efficacy or ocular safety data are available, and the mechanism cannot be cross-checked against a recorded mechanism of action.
 
-For the broader prediction of **diabetic retinopathy** (score 99.23%), one 2024 cohort analysis suggests denosumab may reduce the incidence of type 2 diabetes and related complications compared with bisphosphonates. This is an indirect, metabolic signal and not evidence of benefit in the retina.
+For the broader prediction of **diabetic retinopathy** (score 0.9923), one 2024 cohort analysis suggests denosumab may reduce the incidence of type 2 diabetes and related complications compared with bisphosphonates. This is an indirect, metabolic signal and not evidence of benefit in the retina.
 
 ## Clinical Trial Evidence
 

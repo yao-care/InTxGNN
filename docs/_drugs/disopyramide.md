@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Disopyramide is a class Ia antiarrhythmic (sodium channel blocker with anticholinergic activity) marketed in India as Norpace New Capsule. The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. The result is a graph-based signal only, with no pharmacological rationale behind it.
+Disopyramide is a class Ia antiarrhythmic (sodium channel blocker with anticholinergic activity) marketed in India as Norpace New Capsule. The TxGNN model (deep learning) predicts it may be effective for **Tourette syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. The score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence, and there is no pharmacological rationale behind it.
 
 ## Quick Overview
 
@@ -46,17 +46,17 @@ Disopyramide is a class Ia antiarrhythmic (sodium channel blocker with anticholi
 |------|------|
 | Original Indication | Not stated in the India license data (the drug's known use is as an antiarrhythmic) |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, disopyramide is a class Ia antiarrhythmic that blocks sodium channels and has anticholinergic activity. Its established role is in atrial and ventricular arrhythmias.
 
-Tourette syndrome is mainly treated by modulating dopaminergic and alpha-2 adrenergic pathways, which are not primary targets of disopyramide. No clear mechanistic link was identified. The high TxGNN score most likely reflects proximity in the knowledge graph and not a drug-specific pharmacological signal.
+Tourette syndrome is mainly treated by modulating dopaminergic and alpha-2 adrenergic pathways, which are not primary targets of disopyramide. No clear mechanistic link was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a drug-specific pharmacological signal.
 
 Other top-ranked predictions show the same pattern:
 - **ADHD (including the inattentive subtype), trichotillomania, specific developmental disorder, faciodigitogenital syndrome:** no plausible mechanism, and no supporting evidence.
@@ -103,7 +103,7 @@ In ADHD and Tourette populations, which include many children and adolescents, t
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction rests only on a graph-based score (L5). There are no clinical trials or literature, no plausible mechanism, and a cardiac and anticholinergic safety profile that is unfavorable for this population. The same applies to the other neurodevelopmental, oncologic and rare-disease predictions. Of the top 10 predictions, the arrhythmia-related ones (multifocal atrial tachycardia, idiopathic neonatal atrial flutter) are the most biologically plausible, but they also lack direct evidence.
+The Tourette syndrome prediction rests only on a TxGNN model (deep learning) score (L5), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or literature, no plausible mechanism, and a cardiac and anticholinergic safety profile that is unfavorable for this population. The same applies to the other neurodevelopmental, oncologic and rare-disease predictions. Of the top 10 predictions, the arrhythmia-related ones (multifocal atrial tachycardia, idiopathic neonatal atrial flutter) are the most biologically plausible, but they also lack direct evidence.
 
 **To proceed, the following is needed:**
 - The approved indication text and package insert warnings and contraindications from the India license (this blocks safety screening)

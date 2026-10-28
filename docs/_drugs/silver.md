@@ -4,17 +4,17 @@ title: Silver
 parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Silver: predicted new indication bone Paget disease (evidence level L5). Approved use: Not stated in the licence records (the products are marketed as antim…"
 monitor_inn: "Silver"
-predicted_indications: ["bone Paget disease", "amenorrhea (disease)", "non-syndromic esophageal malformation", "juvenile Paget disease", "esotropia", "epidermodysplasia verruciformis", "esophageal disease", "Paget disease of bone", "myelodysplastic syndrome", "primary immunodeficiency with post-measles-mumps-rubella vaccine viral infection"]
+predicted_indications: ["bone Paget disease"]
+description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Silver
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Silver: From Topical Wound and Burn Care to Bone Paget Disease
+## Silver: Bone Paget disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,23 +48,23 @@ This prediction is a model output without therapeutic support.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records (the products are marketed as antimicrobial wound and burn care) |
-| Predicted New Indication | bone Paget disease |
-| TxGNN Prediction Score | 99.67% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Bone Paget disease |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, silver is used topically in India as an antimicrobial agent in wound and burn products. Its relationship to Paget disease of bone cannot be established mechanistically from the data compiled for this report.
+Currently, detailed mechanism of action data is not available. Based on known information, silver is used topically in India as an antimicrobial agent in wound and burn products.
 
-The high TxGNN score (99.67%) is not backed by pharmacological evidence. The five retrieved papers mention silver only as a histological stain, for example silver impregnation of bone tissue and staining of nucleolar organizer regions in osteoclasts. None evaluates silver as a therapy. The link appears to be a text-mining artefact of the word "silver" rather than a real treatment relationship.
+The high TxGNN score (0.9967) is not backed by pharmacological evidence. The five retrieved papers mention silver only as a histological stain, for example silver impregnation of bone tissue and staining of nucleolar organizer regions in osteoclasts. None evaluates silver as a therapy. The link appears to be a text-mining artefact of the word "silver" rather than a real treatment relationship.
 
-Other top predictions show the same pattern. Silver appears as a stain, as a toxicant (argyria), as part of the eponym "Silver-Russell syndrome", or as a metaphor ("silver bullets", "silver lining"). The second entry for "Paget disease of bone" duplicates the first and should be consolidated with it. Antimicrobial wound-care use is also topical, which makes systemic bone disease an unlikely target.
+Other top predictions show the same pattern. Silver appears as a stain, as a toxicant (argyria), as part of the eponym "Silver-Russell syndrome", or as a metaphor ("silver bullets", "silver lining"). Antimicrobial wound-care use is also topical, which makes systemic bone disease an unlikely target.
 
 ---
 
@@ -115,7 +115,7 @@ One note from the literature: a case report of systemic argyria (PMID 8063942) d
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no therapeutic literature; the papers match only on the word "silver" as a stain. With evidence level L5 and no plausible mechanism, there is no basis to advance Paget disease of bone as a repurposing target.
+The prediction has no clinical trials and no therapeutic literature; the papers match only on the word "silver" as a stain.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for silver

@@ -6,9 +6,9 @@ nav_order: 493
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Lindane: predicted new indication Cervical neuroblastoma (evidence level L5). Approved use: Scabies, Norwegian scabies, Pediculus humanus capitis infestation…"
 monitor_inn: "Lindane"
 predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "epiglottis neoplasm", "odontogenic cyst", "pre-malignant neoplasm", "benign neoplasm of hypopharynx", "schwannoma of jugular foramen", "cystic neoplasm", "benign neoplasm of buccal mucosa", "inner ear neoplasm"]
+description: "Lindane: predicted new indication Cervical neuroblastoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lindane
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lindane: From Scabies and Lice Infestation to Cervical Neuroblastoma
+## Lindane: Cervical neuroblastoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **cervical neuroblastoma**, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Scabies, Norwegian scabies, Pediculus humanus capitis infestation, Pthirus pubis infestation, mite infestation (from the knowledge graph; the India licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cervical neuroblastoma |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **cervical neuroblastoma**, but
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Lindane is known as an organochlorine insecticide that acts as a GABA-A receptor antagonist. Its efficacy in scabies and lice is established, but this is a parasiticidal effect on the pest's nervous system.
 
-No mechanistic link has been identified between this action and neuroblastoma. The very high score (99.91%) is most likely a product of graph connectivity in the knowledge graph, not a biological rationale. Other top-ranked predictions are also tumour or cyst conditions of the head and neck (for example benign neoplasm of tongue, epiglottis neoplasm, odontogenic cyst, inner ear neoplasm). All are L5 with no supporting studies, which suggests a systematic pattern in the graph rather than a drug-specific signal.
+No mechanistic link has been identified between this action and neuroblastoma. The very high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other top-ranked predictions are also tumour or cyst conditions of the head and neck (for example benign neoplasm of tongue, epiglottis neoplasm, odontogenic cyst, inner ear neoplasm). All are L5 with no supporting studies, which suggests a systematic pattern in the model's predictions rather than a drug-specific signal.
 
 Lindane also has well-documented neurotoxicity (seizure risk) and carcinogenicity concerns, which argue against its use in oncology.
 

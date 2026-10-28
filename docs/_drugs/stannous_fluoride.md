@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **meningococcal infection**, bu
 |------|------|
 | Original Indication | No approved indication text is listed in the registration record |
 | Predicted New Indication | Meningococcal infection |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Stannous fluoride is a topical oral-care agent with known antibacterial and antiplaque activity against oral bacteria, and it is marketed in India as a toothpaste. No original indication is listed in the data compiled for this report.
 
-Meningococcal infection is caused by *Neisseria meningitidis*, which produces invasive systemic disease. No data show that the drug's antibacterial activity against oral bacteria extends to this organism. The drug is not used systemically, so any link would be speculative. The high prediction score may reflect knowledge-graph artifacts rather than a real pharmacological relationship, and the connection cannot be verified from the available data.
+Meningococcal infection is caused by *Neisseria meningitidis*, which produces invasive systemic disease. No data show that the drug's antibacterial activity against oral bacteria extends to this organism. The drug is not used systemically, so any link would be speculative. The high prediction score may reflect TxGNN model (deep learning) artifacts rather than a real pharmacological relationship, and the connection cannot be verified from the available data.
 
 ## India Market Information
 

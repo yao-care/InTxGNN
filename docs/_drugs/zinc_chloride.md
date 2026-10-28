@@ -48,18 +48,18 @@ Currently there are **0 clinical trials** and **0 publications** supporting any 
 |------|------|
 | Original Indication | Not recorded (the approved indication text on the India license is empty) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|------|
-| 2 | Sjogren syndrome | 99.18% | L5 | Hold |
-| 3 | Dry eye syndrome | 99.18% | L5 | Hold |
+| 2 | Sjogren syndrome | 0.9918 | L5 | Hold |
+| 3 | Dry eye syndrome | 0.9918 | L5 | Hold |
 
 ## Why is This Prediction Reasonable?
 
@@ -67,7 +67,7 @@ Currently, detailed mechanism of action data is not available. Zinc chloride is 
 
 A plausible but untested link exists through zinc's biology. Zinc is a cofactor for antioxidant enzymes such as Cu/Zn superoxide dismutase, which may bear on oxidative stress and retinal microvascular damage in diabetes. This is a hypothesis only and is not supported by any trial or publication in the data compiled for this report.
 
-For the other two predictions, zinc is involved in immune regulation and epithelial integrity (relevant to Sjogren syndrome), and in ocular surface maintenance, wound healing, and anti-inflammatory activity (relevant to dry eye syndrome). These rationales are also speculative. The high TxGNN scores (about 99%) reflect model output, not clinical proof.
+For the other two predictions, zinc is involved in immune regulation and epithelial integrity (relevant to Sjogren syndrome), and in ocular surface maintenance, wound healing, and anti-inflammatory activity (relevant to dry eye syndrome). These rationales are also speculative. The high TxGNN scores (0.9918 for Sjogren syndrome and 0.9918 for dry eye syndrome) reflect model output, not clinical proof.
 
 ## India Market Information
 

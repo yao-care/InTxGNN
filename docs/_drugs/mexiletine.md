@@ -6,9 +6,9 @@ nav_order: 546
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Mexiletine: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not available"
 monitor_inn: "Mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
+description: "Mexiletine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mexiletine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mexiletine: From Ventricular Arrhythmia to Hypertrichosis (Top Prediction), with Headache Disorder as the Best-Supported Candidate
+## Mexiletine: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model's top-ranked prediction is **hypertrichosis**, which has no clin
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (approved indication text is empty in all registrations) |
-| Predicted New Indication | Hypertrichosis (rank 1); best-supported alternatives: headache disorder, migraine disorder |
-| TxGNN Prediction Score | 99.78% (hypertrichosis); 99.48% (headache disorder); 99.66% (migraine disorder) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 for hypertrichosis; L3 for headache disorder and migraine disorder |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold (hypertrichosis); headache disorder may proceed as a research question only |
 
 ## Why is This Prediction Reasonable?

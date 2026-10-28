@@ -4,17 +4,17 @@ title: Fenticonazole
 parent: Model Prediction Only (L5)
 nav_order: 346
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Fenticonazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Vulvovaginal candidiasis"
 monitor_inn: "Fenticonazole"
-predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginitis (disease)", "ulceration of vulva", "vulvar neoplasm", "vaginal discharge", "bacterial vaginosis"]
+predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginitis (disease)"]
+description: "Fenticonazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fenticonazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fenticonazole: From Vulvovaginal Candidiasis to Trichomonal Vulvovaginitis
+## Fenticonazole: Trichomonal vulvovaginitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The related, broader indication of **vulvovaginitis** has stronger support (**ab
 
 | Item | Content |
 |------|------|
-| Original Indication | Vulvovaginal candidiasis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trichomonal vulvovaginitis |
-| TxGNN Prediction Score | 99.50% |
-| Evidence Level | L4 (for trichomonal vulvovaginitis) |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9950 |
+| Evidence Level | L5 (for trichomonal vulvovaginitis) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -87,7 +87,7 @@ The broader indication **vulvovaginitis** (rank 3) has more support (evidence le
 | [2019858](https://pubmed.ncbi.nlm.nih.gov/2019858/) | 1991 | Pharmacokinetic study | J Chemother | Low systemic absorption after vaginal administration of 1 g |
 | [31845594](https://pubmed.ncbi.nlm.nih.gov/31845594/) | 2019 | Review | Future Microbiol | Fenticonazole as an empiric treatment in mixed vaginitis |
 
-Evidence for **bacterial vaginosis** (rank 10, L4) is preclinical: a mouse model ([37960949](https://pubmed.ncbi.nlm.nih.gov/37960949/)) and in vitro activity against *Gardnerella vaginalis* ([36427832](https://pubmed.ncbi.nlm.nih.gov/36427832/), [31061161](https://pubmed.ncbi.nlm.nih.gov/31061161/)). No human controlled trial was found.
+No human controlled trial was found.
 
 Other predicted indications (postmenopausal atrophic vaginitis, herpetic vulvovaginitis, vulvar ulceration, vulvar neoplasm) have no supporting clinical or literature evidence and no plausible mechanistic rationale for an antifungal.
 
@@ -112,14 +112,13 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for trichomonal vulvovaginitis is high (99.50%), but there are no registered trials and no Trichomonas-specific data, so the prediction remains unconfirmed. The best-supported nearby indication, vulvovaginitis, is largely the same as the approved candidiasis use. It does not represent a new indication.
+The TxGNN score for trichomonal vulvovaginitis is high (0.9950), but there are no registered trials and no Trichomonas-specific data, so the prediction remains unconfirmed. The best-supported nearby indication, vulvovaginitis, is largely the same as the approved candidiasis use. It does not represent a new indication.
 
 **To proceed, the following is needed:**
 - In vitro activity data of fenticonazole against *Trichomonas vaginalis*, and the Trichomonas subgroup results from PMID 15216954
 - A controlled clinical trial against the standard comparator (nitroimidazoles such as metronidazole) if in vitro data are favourable
 - Package insert warnings and contraindications from Indian regulatory sources
 - Detailed mechanism of action data
-- Human controlled trials in mixed vaginitis or bacterial vaginosis, if those indications are to be pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

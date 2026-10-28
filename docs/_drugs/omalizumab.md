@@ -39,7 +39,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Omalizumab is an anti-IgE monoclonal antibody, originally used for asthma (including allergic and intrinsic asthma) and idiopathic urticaria.
-The TxGNN model predicts it may be effective for **bronchitis** (score 99.99%), but the evidence is weak: the 2 listed clinical trials are not clearly bronchitis studies, and the 7 publications address mainly asthma and related airway disease.
+The TxGNN model predicts it may be effective for **bronchitis** (score 1.0000), but the evidence is weak: the 2 listed clinical trials are not clearly bronchitis studies, and the 7 publications address mainly asthma and related airway disease.
 Among the other top-ranked predictions, **obstructive lung disease** (largely reflecting the existing asthma indication) and **atopic eczema / dermatitis** have more supporting evidence.
 
 ---
@@ -50,10 +50,10 @@ Among the other top-ranked predictions, **obstructive lung disease** (largely re
 |------|------|
 | Original Indication | Asthma, intrinsic asthma, allergic asthma, idiopathic urticaria (approved indication text is not listed in the India registrations) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,13 +62,13 @@ Among the other top-ranked predictions, **obstructive lung disease** (largely re
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, omalizumab is a humanized monoclonal antibody that binds free IgE. This lowers FcεRI expression on mast cells and basophils and reduces allergic airway inflammation. Its efficacy in allergic asthma is established.
 
-Mechanistically, this may help allergic or asthma-related bronchitis. However, there is no direct evidence in bronchitis itself. The literature concerns asthma, asthma-COPD overlap and smoking-related airway disease. The high TxGNN score probably reflects closeness to asthma and airway terms in the knowledge graph rather than demonstrated benefit in bronchitis.
+Mechanistically, this may help allergic or asthma-related bronchitis. However, there is no direct evidence in bronchitis itself. The literature concerns asthma, asthma-COPD overlap and smoking-related airway disease. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of benefit in bronchitis.
 
 ### Other predictions worth noting
 
 | Predicted Indication | Evidence Level | Assessment |
 |------|------|------|
-| Obstructive lung disease | L1 | Proceed with Guardrails. The signal largely reflects the existing asthma indication. Evidence outside asthma is limited (a withdrawn COPD Phase 2 trial and an ongoing Phase 2 trial in allergen-sensitized COPD, NCT07059091). Any use beyond asthma should be limited to patients with allergic sensitization and IgE-mediated disease. |
+| Obstructive lung disease | L5 | Proceed with Guardrails. The signal largely reflects the existing asthma indication. Evidence outside asthma is limited (a withdrawn COPD Phase 2 trial and an ongoing Phase 2 trial in allergen-sensitized COPD, NCT07059091). Any use beyond asthma should be limited to patients with allergic sensitization and IgE-mediated disease. |
 | Atopic eczema | L2 | Research question. Anti-IgE therapy is plausible, but results are mixed. The EuroGuiDerm guideline does not position omalizumab as a standard option, and other biologics (IL-4Rα and IL-13 blockers) are better supported. |
 | Dermatitis (broad category) | L2 | Research question. Shares the atopic dermatitis evidence base; no evidence for other subtypes. |
 | Bronchial neoplasm, acne keloid, acrodermatitis chronica atrophicans, familial hydroa vacciniforme, neonatal dermatomyositis, childhood secondary interstitial lung disease | L5 | Hold. Prediction only, with no credible mechanistic link or clinical data. |

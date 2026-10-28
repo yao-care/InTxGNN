@@ -50,10 +50,10 @@ The prediction most likely reflects a drug-harm association and not a therapeuti
 |------|------|
 | Original Indication | Not stated in the India licence record (drug class: local anaesthetic) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.01% |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The prediction most likely reflects a drug-harm association and not a therapeuti
 
 Chloroprocaine blocks voltage-gated sodium channels, which produces short-acting local anaesthesia. Detailed mechanism of action data from DrugBank is not available in the compiled data, but this class effect is well established.
 
-On review, the prediction does not appear to be therapeutically reasonable. The literature links chloroprocaine to cauda equina syndrome as a **possible cause**, through neurotoxicity after intrathecal or epidural exposure, particularly with older preservative-containing formulations. The high TxGNN score most likely reflects a knowledge-graph association between the drug and the disease, which is an adverse-event relationship.
+On review, the prediction does not appear to be therapeutically reasonable. The literature links chloroprocaine to cauda equina syndrome as a **possible cause**, through neurotoxicity after intrathecal or epidural exposure, particularly with older preservative-containing formulations. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it may therefore capture an adverse-event relationship between the drug and the disease.
 
 Cauda equina syndrome is a surgical emergency, usually caused by compression or ischaemia of the nerve roots and needing decompression. Sodium channel blockade would not reverse that injury, so no plausible mechanism supports treatment benefit.
 
@@ -116,7 +116,7 @@ Please refer to the package insert for full warnings and contraindications.
 The prediction has no clinical trial support and no plausible therapeutic mechanism. The available literature points to chloroprocaine as a potential cause of cauda equina syndrome, so the high model score is probably an artefact of an adverse-event association. Pursuing this as a repurposing candidate is not supported.
 
 **To proceed, the following is needed:**
-- Confirmation that the prediction is not driven by adverse-event edges in the knowledge graph. Without that, it should be treated as a false positive.
+- Confirmation that the prediction is not driven by adverse-event associations learned by the TxGNN model (deep learning), whose score may reflect similarities learned between related diseases, not biological evidence. Without that, it should be treated as a false positive.
 - Any preclinical or clinical evidence of therapeutic benefit in cauda equina syndrome, which is not currently available.
 - Package insert warnings and contraindications from the India regulator, and the approved indication text for the licensed product.
 - Mechanism of action data from DrugBank.

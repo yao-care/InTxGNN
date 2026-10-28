@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Orciprenaline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 621
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Orciprenaline: predicted new indication Obstructive lung disease (evidence level L3). Approved use: Asthma, intrinsic asthma, allergic asthma, bronchitis…"
 monitor_inn: "Orciprenaline"
@@ -14,7 +14,7 @@ predicted_indications: ["obstructive lung disease", "respiratory malformation", 
 # Orciprenaline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This prediction is essentially an umbrella term for the drug's existing indicati
 |------|------|
 | Original Indication | Asthma, intrinsic asthma, allergic asthma, bronchitis, pulmonary emphysema (the Indian license record has no indication text) |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.995% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -129,7 +129,7 @@ Orciprenaline's bronchodilator effect in obstructive airway disease is supported
 - **Chronic obstructive pulmonary disease**: Proceed with Guardrails (L3). It overlaps with the existing bronchitis and emphysema indications and rests on 1964-1988 studies only.
 - **Anaphylaxis** (L4, Hold): only animal and tissue studies exist, and epinephrine is the standard of care.
 - **Interstitial emphysema** (L4, Hold): the single linked item is an indirect Cochrane review in preterm infants.
-- **Respiratory malformation, Rienhoff syndrome, bronchial neoplasm, food-dependent exercise-induced anaphylaxis, compensatory emphysema, hyperlucent lung** (L5, Hold): there is no credible mechanistic link or direct evidence, so these predictions appear to be knowledge-graph artifacts.
+- **Respiratory malformation, Rienhoff syndrome, bronchial neoplasm, food-dependent exercise-induced anaphylaxis, compensatory emphysema, hyperlucent lung** (L5, Hold): there is no credible mechanistic link or direct evidence, so these predictions appear to be TxGNN model (deep learning) artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -50,13 +50,13 @@ This prediction should be treated as a research question, not a treatment claim.
 |------|------|
 | Original Indication | Chronic hepatitis C virus infection |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-*Note: The Indian licence records compiled for this report have no approved-indication text, so the original indication is taken from the drug's known indications in the knowledge graph.*
+*Note: The Indian licence records compiled for this report have no approved-indication text, so the original indication is not stated here.*
 
 ---
 

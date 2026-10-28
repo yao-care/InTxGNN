@@ -4,17 +4,17 @@ title: Valsartan
 parent: Moderate Evidence (L3-L4)
 nav_order: 880
 evidence_level: L4
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "Valsartan"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but the supporting evidence is thin: **no clinical trials** and **1 publication*
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -117,7 +117,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.97%), and the AT1-blockade mechanism is plausible. But there are no clinical trials, and the only retrieved paper is an animal study of a different drug. Evidence is at the L4 level for the top predictions and L5 for several others, so the score alone cannot justify moving forward.
+The prediction score is very high (0.9997), and the AT1-blockade mechanism is plausible. But there are no clinical trials, and the only retrieved paper is an animal study of a different drug. Evidence is at the L4 level for the top predictions and L5 for several others, so the score alone cannot justify moving forward.
 
 **To proceed, the following is needed:**
 - Clinical or valsartan-specific preclinical data in malignant hypertensive nephrosclerosis (and renovascular hypertension)

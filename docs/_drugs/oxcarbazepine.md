@@ -4,17 +4,17 @@ title: Oxcarbazepine
 parent: Moderate Evidence (L3-L4)
 nav_order: 628
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Oxcarbazepine: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: predicted new indication Restless legs syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Oxcarbazepine: From Partial Epilepsy to Visual Epilepsy
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Oxcarbazepine is an antiseizure medication originally used to treat partial (focal) epilepsy and partial motor epilepsy.
-The TxGNN model predicts it may be effective for **visual epilepsy**, but **no clinical trials** are registered and the **16 publications** retrieved are mostly general antiseizure medication reviews, so support is indirect and rests largely on the model prediction.
 
 ---
 
@@ -47,11 +46,11 @@ The TxGNN model predicts it may be effective for **visual epilepsy**, but **no c
 
 | Item | Content |
 |------|------|
-| Original Indication | Partial epilepsy; partial motor epilepsy |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Restless legs syndrome |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -67,9 +66,7 @@ Other predicted indications show a similar pattern:
 
 | Predicted indication | Score | Evidence level | Main support |
 |------|------|------|------|
-| Restless legs syndrome | 99.89% | L4 | Two case reports (2006, 2009) and a narrative review mention |
-| Status epilepticus | 99.87% | L4 | One small uncontrolled report in refractory cases, plus a safety signal (oxcarbazepine-induced myoclonic status epilepticus in juvenile myoclonic epilepsy) |
-| Eating, orgasm-induced, startle, audiogenic, thinking, micturition-induced and reading seizures | 99.84–99.89% | L5 | Model prediction only; retrieved papers are off-target or preclinical |
+| Restless legs syndrome | 0.9989 | L4 | Two case reports (2006, 2009) and a narrative review mention |
 
 ---
 
@@ -126,7 +123,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no registered trials and no publication addresses oxcarbazepine in visual epilepsy; support is indirect extrapolation from focal epilepsy (L4). Package insert safety data and mechanism data are also missing, so safety screening cannot proceed.
+Package insert safety data and mechanism data are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source (currently a blocking gap)

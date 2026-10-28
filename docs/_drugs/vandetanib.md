@@ -6,9 +6,9 @@ nav_order: 882
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Vandetanib: predicted new indication Renal cell carcinoma (evidence level L2). Approved use: Thyroid gland carcinoma"
 monitor_inn: "Vandetanib"
-predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
+predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
+description: "Vandetanib: predicted new indication Renal cell carcinoma (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Vandetanib
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Vandetanib: From Thyroid Gland Carcinoma to Renal Cell Carcinoma
+## Vandetanib: Renal cell carcinoma (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ with **4 clinical trials** (all Phase 1/2 or Phase 2, two terminated early with 
 
 | Item | Content |
 |------|------|
-| Original Indication | Thyroid gland carcinoma (the license record has no indication text; this comes from the knowledge graph) |
-| Predicted New Indication | Renal cell carcinoma |
-| TxGNN Prediction Score | 99.92% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Renal cell carcinoma (disease) |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

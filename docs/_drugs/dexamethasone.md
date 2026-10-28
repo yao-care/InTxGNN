@@ -48,9 +48,9 @@ with **no registered clinical trials** but **20 publications** retrieved, includ
 |------|------|
 | Original Indication | Adrenocortical insufficiency, Crohn disease / inflammatory bowel disease, acute lymphoblastic leukaemia, congenital adrenal hyperplasia, eosinophilic pneumonia, and others (approved indication text was not available in the India licence records) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

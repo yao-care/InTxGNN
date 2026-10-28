@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Allopurinol: predicted new indication Hepatic porphyria (evidence level L5). Approved use: Gout"
 monitor_inn: "Allopurinol"
-predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
+predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
+last_modified_at: 2026-10-27
+description: "Allopurinol: predicted new indication hepatic porphyria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Allopurinol
@@ -33,77 +33,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Allopurinol: From Gout to Hepatic Porphyria
+## Allopurinol: xanthine oxidase inhibitor → hepatic porphyria
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Allopurinol is a xanthine oxidase inhibitor used for gout, hyperuricemia and acute urate nephropathy.
-The TxGNN model predicts it may be effective for **hepatic porphyria**,
-but there are currently **0 clinical trials** and only **2 indirect, non-clinical publications** (a hypothesis paper and a rat study), so the prediction rests almost entirely on the model.
+Allopurinol is a xanthine oxidase inhibitor that is marketed in India as single-ingredient tablets and capsules.
+The TxGNN model predicts it may be effective for **hepatic porphyria**, but this rests on a high model score alone, with **0 clinical trials** and **2 indirect publications** (a hypothesis paper and a rat study) supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gout (also hyperuricemia and acute urate nephropathy, per the knowledge graph; no approved-indication text is available in the Indian licence records) |
-| Predicted New Indication | Hepatic porphyria |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | hepatic porphyria |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, allopurinol is a long-established urate-lowering agent, its efficacy in gout and hyperuricemia is well recognised, and it may mechanistically touch on purine and oxidative metabolism that could in theory relate to hepatic haem pathways.
+Currently, detailed mechanism of action data is not available. Allopurinol is generally known as a xanthine oxidase inhibitor that lowers uric acid production, but the data compiled for this report do not describe its mechanism, so its link to hepatic porphyria cannot be established from them.
 
-The link to hepatic porphyria is weak. The only support is a 2019 hypothesis paper on metabolic targeting of 5-aminolevulinate synthase (ALAS1), the rate-limiting enzyme of haem biosynthesis, and a 1992 rat study on how carbamazepine affects hepatic haem metabolism. Neither tests allopurinol as a treatment in people with porphyria.
+The support for this prediction is indirect. A 2019 hypothesis paper proposes metabolic targeting of 5-aminolevulinate synthase (ALAS1), the rate-limiting enzyme of haem synthesis, as a way to treat acute hepatic porphyrias. A 1992 rat study examined how carbamazepine affects haem metabolism in the liver in relation to porphyria exacerbation. Neither paper studies allopurinol as a treatment for hepatic porphyria in patients.
 
-Porphyria patients are also sensitive to many drugs that induce ALAS1, so any use would need a careful porphyrinogenicity review. The very high TxGNN score reflects a graph-based signal, not demonstrated efficacy.
+Porphyria patients are also sensitive to many drugs that induce ALAS1, so any use would need a careful review of whether the drug can provoke porphyric attacks. The very high model score is a computational signal only, not evidence of benefit.
 
-Other top-ranked predictions (hepatopulmonary syndrome, idiopathic copper-associated cirrhosis, portal vein and portal hypertension conditions, immune-mediated necrotizing myopathy, antisynthetase syndrome, eosinophilic myositis, and a disorder of phenylalanine metabolism) have no direct clinical evidence either.
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hypothesis/Review | Medical Hypotheses | Proposes targeting liver ALAS1 via tryptophan or inhibitors of haem utilisation by tryptophan 2,3-dioxygenase as therapy for acute hepatic porphyrias; not specific to allopurinol |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Animal study (rat) | Biochemical Pharmacology | Acute carbamazepine affected hepatic haem metabolism in rats, relevant to how drugs exacerbate hepatic porphyrias |
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hypothesis/Review | Medical Hypotheses | Proposes lowering the demand on the liver haem pool, via tryptophan or inhibition of tryptophan 2,3-dioxygenase, to reduce ALAS1 induction in acute hepatic porphyrias; allopurinol is not shown to be tested |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Animal study (rat) | Biochemical Pharmacology | Very low-dose carbamazepine altered haem metabolism in rat liver, relevant to how drugs worsen hepatic porphyrias |
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 246755 | Zyrik 300 Tablet | Strip of 10 tablets | Not specified in available records |
-| 235796 | Vriloric 100mg Tablet | Strip of 10 tablets | Not specified in available records |
-| 126377 | Lodiric-SR 250mg Capsule | Strip of 10 SR capsules | Not specified in available records |
-| 20861 | Allric 100mg Tablet | Strip of 10 tablets | Not specified in available records |
-| 16043 | Ausric 300 Tablet | Strip of 10 tablets | Not specified in available records |
+| 246755 | Zyrik 300 Tablet | Strip of 10 tablets | |
+| 235796 | Vriloric 100mg Tablet | Strip of 10 tablets | |
+| 126377 | Lodiric-SR 250mg Capsule | Strip of 10 SR capsules | |
+| 20861 | Allric 100mg Tablet | Strip of 10 tablets | |
+| 16043 | Ausric 300 Tablet | Strip of 10 tablets | |
 
-A total of 20 valid single-ingredient registrations exist, all oral forms (tablets, SR tablets, SR capsules).
+The list shows 5 of the records compiled for this report and may be partial. All 20 records are valid single-ingredient licences, and none of them carries indication text.
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from knowledge graph, not label text)**: liver disease, gallbladder disease, impaired renal function, hypersensitivity vasculitis, cutaneous leukocytoclastic angiitis, allergic cutaneous vasculitis, anti-glomerular basement membrane disease. Liver disease is notable because the predicted indication is hepatic.
-- **Drug Interactions**: 217 interactions are recorded. Moderate-level ones include aluminum hydroxide, attapulgite, kaolin, magaldrate and sucralfate. Minor ones include amoxicillin and chlorpropamide. Many others (e.g., metformin, omeprazole, pantoprazole, glimepiride, morphine, doxycycline) have an unclassified severity level.
-- **Other concern**: Allopurinol is a known cause of hypersensitivity reactions with eosinophilia (e.g., DRESS), and porphyria patients are sensitive to drugs that induce ALAS1.
+- **Drug Interactions**: 217 interacting drugs were identified in the interaction query. Moderate-level interactions include aluminum hydroxide, attapulgite, kaolin, magaldrate and sucralfate. Minor-level interactions include amoxicillin and chlorpropamide. Many others, such as metformin, omeprazole, glimepiride and morphine, have an unclassified level.
+- **Porphyria-specific concern**: Patients with hepatic porphyria are sensitive to drugs that induce haem-pathway enzymes, so the porphyrinogenic potential of allopurinol would need dedicated review before any use.
 
-Please refer to the package insert for full warnings, as label-based warnings were not available for this report.
+Please refer to the package insert for further safety information, since label warnings and contraindications were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but support is limited to one hypothesis paper and one rat study, with no clinical trials and no human data in porphyria. Safety data from the label is also missing, and liver disease appears among the graph-based contraindications.
+The prediction has a very high model score but no clinical trials and no study that tests allopurinol in hepatic porphyria. The two publications are a hypothesis paper and a rat study with only an indirect link, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for allopurinol and a defined hypothesis for its effect on haem biosynthesis
-- Preclinical or in vitro studies of allopurinol in porphyria models
-- A formal porphyrinogenicity review, since porphyria patients react to many drugs
-- Package insert warnings and contraindications from Indian regulatory sources
-- Review of the liver-disease contraindication signal in this population
+- Mechanism of action data linking allopurinol to haem biosynthesis or ALAS1 regulation
+- A porphyrinogenicity review, including preclinical haem-pathway testing
+- Package insert warnings and contraindications from the India label
+- Any human case or clinical data on allopurinol use in hepatic porphyria
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

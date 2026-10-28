@@ -6,9 +6,9 @@ nav_order: 766
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Selegiline: predicted new indication Polymicrogyria, perisylvian… (evidence level L5). Approved use: Parkinson's disease"
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
+description: "Selegiline: predicted new indication Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Selegiline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Selegiline: From Parkinson's Disease to Schizophrenia
+## Selegiline: Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The evidence is still at the research-question stage and not yet strong enough t
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease (the approved indication text in the India registrations is blank; the original indications come from the knowledge graph and also include depressive disorders and anxiety disorder) |
-| Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (top-ranked by TxGNN score; no supporting evidence). The best-supported prediction is **schizophrenia** (rank 2), which is the focus of this report. |
-| TxGNN Prediction Score | 99.15% (rank 1 prediction); 99.14% (schizophrenia) |
-| Evidence Level | L3 (schizophrenia); L5 for the rank 1 prediction |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
+| TxGNN Prediction Score | 0.9915 |
+| Evidence Level | L5 (schizophrenia); L5 for the rank 1 prediction |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The rationale for schizophrenia centres on negative and cognitive symptoms, which are linked to low dopamine activity in the prefrontal cortex. Blocking dopamine breakdown could plausibly help as an add-on to antipsychotics, which treat positive symptoms well but have limited effect on negative ones. The antioxidant and neuroprotective angle is biologically plausible but less established.
 
-The other predictions are much weaker. For the rank 1 prediction (a rare genetic cortical malformation syndrome) and rank 3 (a congenital disorder of glycosylation), no mechanistic link to MAO-B inhibition was found, and they are likely knowledge-graph artifacts. For rank 4 (retinal dystrophy), only a general neuroprotection rationale exists, supported by one indirect review.
+The other predictions are much weaker. For the rank 1 prediction (a rare genetic cortical malformation syndrome) and rank 3 (a congenital disorder of glycosylation), no mechanistic link to MAO-B inhibition was found, and they are likely TxGNN model (deep learning) artifacts. For rank 4 (retinal dystrophy), only a general neuroprotection rationale exists, supported by one indirect review.
 
 ---
 

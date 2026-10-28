@@ -48,10 +48,10 @@ but there are **no registered clinical trials** and the **15 publications** comp
 |------|------|
 | Original Indication | HIV infection, AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ SIV is a close lentiviral relative of HIV and carries a homologous integrase enz
 There is an important limitation. SIV infection is a veterinary and research-model condition, not a human therapeutic indication. It is essentially an extension of the approved HIV indication and offers little new repurposing value for human patients. Its main use is as a preclinical surrogate for studying HIV.
 
 Two other predictions were also generated, and neither has supporting evidence:
-- **Feline acquired immunodeficiency syndrome** (score 99.78%): the FIV integrase is plausibly related to HIV's, but no trials or literature were found. The high score likely reflects network similarity to the HIV and SIV indications rather than independent evidence.
-- **A genetic neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.77%): no mechanistic link to integrase inhibition was identified. The score is likely a graph-based artifact.
+- **Feline acquired immunodeficiency syndrome** (score 0.9978): the FIV integrase is plausibly related to HIV's, but no trials or literature were found. The high score likely reflects network similarity to the HIV and SIV indications rather than independent evidence.
+- **A genetic neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 0.9977): no mechanistic link to integrase inhibition was identified. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

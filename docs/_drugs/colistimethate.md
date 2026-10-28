@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Colistimethate
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 209
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-14
-description: "Colistimethate: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
+description: "Colistimethate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Colistimethate"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hepatic porphyria", "brachyolmia", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatoportal sclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Colistimethate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Colistimethate: From Bacterial Infection to Osteoarthritis
+## Colistimethate
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Colistimethate is a polymyxin antibiotic (a prodrug of colistin) that is marketed in India as an injectable product.
-The TxGNN model predicts it may be effective for **osteoarthritis**, but **no clinical trials and no publications** currently support this prediction.
-This is a model-only signal with no biological rationale identified.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the registration data compiled for this report |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 97.78% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, colistimethate is a polymyxin antibiotic and a prodrug of colistin. It disrupts the outer membrane of Gram-negative bacteria, and its established use is in Gram-negative infections.
-
-No known pathway connects this antibacterial action to the pathophysiology of osteoarthritis (cartilage degradation and inflammation). The high TxGNN score appears to be a graph-based prediction only, likely reflecting network proximity to other arthritis-related drugs rather than a biological rationale.
-
-Systemic use also carries nephrotoxicity and neurotoxicity risks. These are unfavourable for a chronic, non-infectious condition such as osteoarthritis.
-
-Other top-ranked predictions show the same pattern. These include rheumatoid arthritis (97.48%), osteoarthritis susceptibility (97.41%), gout (96.85%), pseudoachondroplasia (96.74%), hepatic porphyria (96.71%), brachyolmia (96.40%), and three hepatic vascular conditions (primitive portal vein thrombosis, hepatopulmonary syndrome and hepatoportal sclerosis, each 96.27%). None has any identified mechanistic support, and the three hepatic vascular conditions share an identical score, suggesting a graph-neighbourhood artefact.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
 
 ---
 
@@ -107,19 +73,6 @@ For other warnings and contraindications, please refer to the package insert.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a graph-based model score, with no clinical trials, no literature and no plausible mechanism. Together with the known nephrotoxicity and neurotoxicity of systemic colistimethate, the benefit-risk balance for osteoarthritis is unfavourable.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and preclinical evidence linking colistimethate to cartilage or joint inflammation pathways
-- Package insert warnings and contraindications from the India regulatory source, which are needed for safety screening
-- Approved indication text for the registered products
-- Assessment of route compatibility, since the drug is available only as an injectable and the predicted indication would need a suitable route (for example intra-articular) and formulation
-- Any supporting clinical or preclinical studies before reconsidering the decision
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 515
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the data compiled for this report"
+last_modified_at: 2026-10-28
 monitor_inn: "Maraviroc"
 predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "primary cutaneous T-cell lymphoma", "pediatric systemic lupus erythematosus", "primary cutaneous T-cell non-Hodgkin lymphoma", "primary cutaneous B-cell lymphoma", "candidiasis", "complement component 4a deficiency", "cytomegalovirus infection", "HER2 positive breast carcinoma"]
+description: "Maraviroc: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Maraviroc
@@ -33,25 +33,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Maraviroc: From an Unspecified Original Indication to Multiple Endocrine Neoplasia
+## Maraviroc: Multiple endocrine neoplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Maraviroc is a CCR5 antagonist marketed in India as a single-ingredient oral tablet, but the data compiled for this report do not list an approved indication.
-The TxGNN model ranks **multiple endocrine neoplasia** as its top prediction (score 99.82%), yet there are **0 clinical trials** and **0 publications** supporting it.
+The TxGNN model ranks **multiple endocrine neoplasia** as its top prediction (score 0.9982), yet there are **0 clinical trials** and **0 publications** supporting it.
 Among the ten predicted indications, the best-grounded hypothesis is **HER2-positive breast carcinoma**, which has one preclinical study on the CCL5–CCR5 pathway.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data compiled for this report |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,9 +61,9 @@ Currently, detailed mechanism of action data is not available in the compiled da
 For multiple endocrine neoplasia, no evidence connects CCR5 signalling to the disease. The high TxGNN score is a computational prediction only, with no trials or literature behind it.
 
 Other predicted indications have somewhat more plausible rationale, though all remain hypotheses:
-- **HER2-positive breast carcinoma (score 99.22%)**: A preclinical study (PMID 32404410) reports that autocrine CCL5 drives trastuzumab resistance through ERK pathway activation. Blocking CCR5 is therefore a rational idea, but this is the only supporting item and is not clinical evidence.
-- **Primary cutaneous T-cell lymphoma (99.72%) and T-cell non-Hodgkin lymphoma (99.50%)**: Chemokine receptors are involved in T-cell trafficking to skin. The only paper is a general review on ACKR1 and has no maraviroc-specific data.
-- **Cytomegalovirus infection (99.23%)**: CCR5 has biological relevance to immune responses, but the retrieved paper is an observational study in HIV patients and gives only context-level support.
+- **HER2-positive breast carcinoma (score 0.9922)**: A preclinical study (PMID 32404410) reports that autocrine CCL5 drives trastuzumab resistance through ERK pathway activation. Blocking CCR5 is therefore a rational idea, but this is the only supporting item and is not clinical evidence.
+- **Primary cutaneous T-cell lymphoma (0.9972) and T-cell non-Hodgkin lymphoma (0.9950)**: Chemokine receptors are involved in T-cell trafficking to skin. The only paper is a general review on ACKR1 and has no maraviroc-specific data.
+- **Cytomegalovirus infection (0.9923)**: CCR5 has biological relevance to immune responses, but the retrieved paper is an observational study in HIV patients and gives only context-level support.
 - **Acne, pediatric systemic lupus erythematosus, primary cutaneous B-cell lymphoma**: Speculative links through CCR5-mediated inflammation, with no supporting data.
 - **Candidiasis and complement component 4a deficiency**: No supportive evidence. The candidiasis paper is an HIV drug adverse-effects review that most likely reflects co-occurrence in HIV patients.
 
@@ -109,7 +109,7 @@ The top prediction, multiple endocrine neoplasia, rests on a computational score
 - Mechanism of action data from DrugBank
 - A mechanistic rationale for CCR5 in multiple endocrine neoplasia, or a decision to prioritise another candidate
 - For HER2-positive breast carcinoma, which is a reasonable research question, further preclinical work on CCL5–CCR5 blockade, followed by a review of whether early clinical studies are justified
-- A review of the major and moderate drug interactions (especially strong CYP3A inhibitors such as clarithromycin) and the knowledge-graph liver, renal, and cardiovascular flags before any new-use study
+- A review of the major and moderate drug interactions (especially strong CYP3A inhibitors such as clarithromycin) and the liver, renal, and cardiovascular flags before any new-use study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

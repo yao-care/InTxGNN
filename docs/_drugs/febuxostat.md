@@ -6,9 +6,9 @@ nav_order: 340
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Febuxostat: predicted new indication Renal hypouricemia (evidence level L4). Approved use: Hyperuricemia"
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
+description: "Febuxostat: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Febuxostat
@@ -33,24 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Febuxostat: From Hyperuricemia to Renal Hypouricemia
+## Febuxostat: Hypouricemia, renal
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Febuxostat is a xanthine oxidase inhibitor originally used to treat hyperuricemia (gout-related high uric acid).
 The TxGNN model predicts it may be relevant for **renal hypouricemia**, but only **1 clinical trial** (with an unconfirmed link to this condition) and **2 publications** are available, so the support is weak.
-The prediction appears to reflect proximity to urate metabolism in the knowledge graph rather than a true therapeutic rationale.
+The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a true therapeutic rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperuricemia (the approved-indication text is blank in the India licence records; the indication comes from the knowledge graph) |
-| Predicted New Indication | Renal hypouricemia |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypouricemia, renal |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The prediction appears to reflect proximity to urate metabolism in the knowledge
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Febuxostat is known to be a non-purine, selective xanthine oxidase inhibitor that lowers serum uric acid. Its efficacy in hyperuricemia is established, but this does not make it a sensible treatment for the predicted condition.
 
-Renal hypouricemia is a condition in which serum uric acid is already low because the kidney reabsorbs urate poorly (for example, loss of function in URAT1 or GLUT9). Lowering uric acid further has no clear therapeutic rationale and could be harmful. The very high TxGNN score most likely reflects the drug's closeness to urate metabolism in the knowledge graph, not a true therapeutic link.
+Renal hypouricemia is a condition in which serum uric acid is already low because the kidney reabsorbs urate poorly (for example, loss of function in URAT1 or GLUT9). Lowering uric acid further has no clear therapeutic rationale and could be harmful. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of a true therapeutic link.
 
 The only possible rationale is indirect. Xanthine oxidase inhibition has been proposed to help prevent exercise-induced acute kidney injury, a complication of renal hypouricemia. A 2023 case report describes this idea in a young athlete with familial renal hypouricemia. This remains hypothesis-level.
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nalidixic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 577
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Nalidixic Acid: predicted new indication Conjunctivitis (evidence level L4). Approved use: Not stated in the available India licence data (the drug is known as…"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid 
 # Nalidixic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ This prediction is supported by model output alone and should be treated as a hy
 |------|------|
 | Original Indication | Not stated in the available India licence data (the drug is known as a quinolone antibacterial, mainly for Gram-negative infections) |
 | Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -65,9 +65,9 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 The link is weak. The retrieved literature concerns Shigella and Yersinia susceptibility and resistance in diarrhoeal disease, not eye infection. Nalidixic acid is not used topically in the eye, its spectrum is narrow (mainly Enterobacteriaceae), and later fluoroquinolones have largely replaced it. The TxGNN score is a computational prediction only.
 
 Other predicted indications were also reviewed, and all remain at the Hold stage:
-- **Sclerosing cholangitis** (score 99.63%, L5): no trials or literature; a gut-liver axis link is speculative.
-- **Rheumatoid arthritis** (score 99.41%, L5): one paper on oral Staphylococcus carriage that does not evaluate the drug.
-- **Infectious otitis media** (score 99.04%, L4): one paper on ofloxacin, a different drug, and nalidixic acid has poor activity against the usual otitis media pathogens.
+- **Sclerosing cholangitis** (score 0.9963, L5): no trials or literature; a gut-liver axis link is speculative.
+- **Rheumatoid arthritis** (score 0.9941, L5): one paper on oral Staphylococcus carriage that does not evaluate the drug.
+- **Infectious otitis media** (score 0.9904, L4): one paper on ofloxacin, a different drug, and nalidixic acid has poor activity against the usual otitis media pathogens.
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zaltoprofen
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 902
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Zaltoprofen: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not stated in the India registration record"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Zaltoprofen"
-predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+last_modified_at: 2026-10-23
+description: "Zaltoprofen: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence record"
 ---
 
 # Zaltoprofen
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,77 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Zaltoprofen: From an NSAID with an Unspecified Registered Indication to Rheumatoid Arthritis
+## Zaltoprofen: From an NSAID with No Recorded Indication Text to Migraine Disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Zaltoprofen is a nonsteroidal anti-inflammatory drug (NSAID) marketed in India as an 80 mg oral tablet. The registration record compiled for this report does not state an approved indication.
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**. No clinical trials are registered for this indication, and **6 publications** were compiled, only one of which is a clinical efficacy study (a 1998 non-comparative long-term study).
+Zaltoprofen is a nonsteroidal anti-inflammatory drug (NSAID) with one valid single-ingredient registration in India, though the licence record contains no approved-indication text.
+The TxGNN model predicts it may be useful for **migraine disorder**, but **no clinical trials and no publications** directly study this use.
+The prediction rests on drug-class reasoning and model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India registration record |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not stated in the licence record |
+| Predicted New Indication | Migraine disorder |
+| TxGNN Prediction Score | 0.9988 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, zaltoprofen is an NSAID that inhibits cyclooxygenase (COX), with intermediate COX-2 selectivity reported in an intact-cell assay (PMID 9831331). It has also been described as inhibiting bradykinin-induced pain responses. By reducing prostaglandin-mediated inflammation and pain, it is mechanistically suited to inflammatory joint disease.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Zaltoprofen is classed as an NSAID. It is reported to inhibit cyclooxygenase (COX), with a preference for COX-2, and to have bradykinin-related analgesic activity. These properties are inferred from the drug class rather than from supplied label data.
 
-Rheumatoid arthritis is a chronic inflammatory condition in which NSAIDs are used for symptom control. A 1998 non-comparative multicentre study (PMID 9704197) evaluated long-term efficacy and tolerability of zaltoprofen in rheumatoid arthritis patients. A preclinical study in a collagen-induced arthritis mouse model (PMID 36170456) and an in vitro study on rheumatoid synovial cells (PMID 12065695, which examined NSAIDs generally rather than zaltoprofen alone) add supporting context.
+Reducing prostaglandin-driven inflammation and pain could plausibly ease headache pain, including neurogenic inflammation in migraine. This is the main basis for the prediction. It is a class-level argument, not evidence that zaltoprofen works in migraine.
 
-This is probably less a true repurposing signal than a confirmation of existing use. Zaltoprofen is described in the literature as clinically used for rheumatoid arthritis and osteoarthritis, and the India registration record has no indication text to compare against.
+Several other top-ranked predictions look like TxGNN model (deep learning) artifacts rather than real signals. Brachydactyly-syndactyly syndrome and colobomatous microphthalmia-rhizomelic dysplasia syndrome are congenital developmental conditions with no apparent link to NSAID pharmacology. Related headache predictions (migraine with brainstem aura, headache disorder, trigeminal autonomic cephalalgia) share the same weak, class-based reasoning. For trigeminal autonomic cephalalgia, NSAIDs generally have limited efficacy apart from indomethacin-responsive variants.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for rheumatoid arthritis.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+Currently no related literature available for migraine disorder.
+
+Across the lower-ranked predictions, one publication was supplied, listed under tendinitis:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9704197](https://pubmed.ncbi.nlm.nih.gov/9704197/) | 1998 | Long-term clinical study (non-comparative, multicentre) | Current Medical Research and Opinion | Efficacy and tolerability of zaltoprofen in long-term rheumatoid arthritis treatment, assessed by grip strength, blood sedimentation rate, morning stiffness and related measures |
-| [36170456](https://pubmed.ncbi.nlm.nih.gov/36170456/) | 2022 | Preclinical (mouse model) | Cutaneous and Ocular Toxicology | Oral zaltoprofen was evaluated for alleviating RA-related dry skin in collagen-induced arthritis mice |
-| [12065695](https://pubmed.ncbi.nlm.nih.gov/12065695/) | 2002 | Preclinical / mechanistic | J Pharmacol Exp Ther | NSAIDs induced apoptosis in rheumatoid synovial cells, linked to PPARγ activation |
-| [9831331](https://pubmed.ncbi.nlm.nih.gov/9831331/) | 1998 | Review / comparative analysis | Inflammation Research | Zaltoprofen showed intermediate COX-2 selectivity among NSAIDs; discusses GI complication risk in rheumatoid arthritis |
-| [25903196](https://pubmed.ncbi.nlm.nih.gov/25903196/) | 2015 | In vitro pharmacology | Chirality | Chirality influences zaltoprofen's inhibition of UGT enzymes, relevant to drug interactions |
-| [14739775](https://pubmed.ncbi.nlm.nih.gov/14739775/) | 2003 | Case report | Arerugi | Zaltoprofen-induced aseptic meningitis in a patient with Sjögren's syndrome |
+| [30738433](https://pubmed.ncbi.nlm.nih.gov/30738433/) | 2019 | RCT protocol | BMC Musculoskelet Disord | Protocol for a randomized, placebo-controlled, double-blind phase II study of zaltoprofen in diffuse-type and unresectable localized tenosynovial giant cell tumors. It does not directly address tendinitis or migraine. |
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 248794 | ZP 80mg Tablet (Wezen Chemicals Pvt Ltd) | Strip of 10 tablets | Not stated in the record |
+| Registration No. 248794 | ZP 80mg Tablet (Wezen Chemicals Pvt Ltd) | Strip of 10 tablets | Not stated in the licence record |
+
+This is a single-ingredient oral product. The only registration is valid.
 
 ## Safety Considerations
 
-- **Aseptic meningitis**: A case report describes zaltoprofen-induced aseptic meningitis in a patient with Sjögren's syndrome (PMID 14739775).
-- **Drug interactions**: In vitro work shows zaltoprofen can inhibit UDP-glucuronosyltransferase (UGT) enzymes, with effects depending on chirality (PMID 25903196). This may matter for co-administered drugs cleared by glucuronidation. No specific interaction records were found in the interaction database query.
-- **GI risk**: As with NSAIDs generally, gastrointestinal complications are a concern in rheumatoid arthritis patients (PMID 9831331).
+Please refer to the package insert for safety information.
 
-Please also refer to the package insert for full warnings and contraindications.
+No drug-interaction records were found, and the knowledge graph lists no contraindicated diseases for this drug.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Evidence is at the L3 level: the only clinical support is a 1998 non-comparative long-term study, with no registered trials and no randomized Phase 3 data. The NSAID mechanism is plausible and zaltoprofen appears to be an established rheumatoid arthritis therapy elsewhere, so the risk of pursuing this is low, but the repurposing value is limited.
+No trial or publication directly studies zaltoprofen in migraine disorder, so the evidence level is L5. The prediction is supported only by NSAID class reasoning and a high model score. Safety data and mechanism data are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication text for the India-registered product
-- Detailed mechanism of action data
-- Confirmation of zaltoprofen's labeled indications in other markets, to determine whether this is a new indication or an existing use
-- Controlled comparative data in rheumatoid arthritis, such as randomized trials against other NSAIDs
-- A safety monitoring plan covering GI risk, hypersensitivity/meningitis signals, and UGT-related interactions
+- Package insert warnings and contraindications from the India registration (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Approved-indication text for the Indian product
+- A targeted search for studies of zaltoprofen in migraine or headache
+- Clarification of the migraine-versus-NSAID-class question, including comparison with established migraine NSAIDs
+- Review of PMID 30738433 only as an indirect lead, since it concerns tenosynovial giant cell tumor rather than tendinitis or migraine
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

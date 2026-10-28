@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Temsirolimus
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 814
-evidence_level: L2
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Mantle cell lymphoma, renal cell carcinoma"
 monitor_inn: "Temsirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma"]
+description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Temsirolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-## Temsirolimus: From Mantle Cell Lymphoma and Renal Cell Carcinoma to Liposarcoma
+## Temsirolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **2 clinical trials** (both in sarcoma populations, not liposarcoma-specifi
 
 | Item | Content |
 |------|------|
-| Original Indication | Mantle cell lymphoma, renal cell carcinoma (the approved-indication text in the India licence records is blank, so this comes from the knowledge-graph indication list) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| TxGNN Prediction Score | 0.9954 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (research question; further evidence needed) |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Activation of the mTOR pathway and of IGF-1R/PI3K signalling has been implicated in sarcoma growth, including liposarcoma. Blocking IGF-1R together with mTOR (as with cixutumumab plus temsirolimus) targets the compensatory feedback activation of AKT. Combining temsirolimus with a liposarcoma-active cytotoxic such as liposomal doxorubicin is also plausible.
 
-The high TxGNN score is consistent with this pathway rationale, but it remains a computational prediction. Two other predicted indications, ovarian myxoid liposarcoma (99.47%) and vulva sarcoma (99.09%), have no supporting trials or literature and are likely extrapolations from the same sarcoma-pathway signal.
+The high TxGNN score is consistent with this pathway rationale, but it remains a computational prediction. Two other predicted indications, ovarian myxoid liposarcoma (0.9947) and vulva sarcoma (0.9909), have no supporting trials or literature and are likely extrapolations from the same sarcoma-pathway signal.
 
 ## Clinical Trial Evidence
 
@@ -89,7 +89,6 @@ The high TxGNN score is consistent with this pathway rationale, but it remains a
 | Cytotoxicity Classification | Targeted therapy (mTOR inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert; given the knowledge-graph flags, consider blood glucose, lipids, liver and renal function, bilirubin, and respiratory status |
 | Handling Protection | Please refer to the package insert warnings and precautions; follow institutional antineoplastic handling policy |
 
 ## Safety Considerations

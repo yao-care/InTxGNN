@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Griseofulvin: predicted new indication Myiasis (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea unguium, tinea barbae…"
 monitor_inn: "Griseofulvin"
-predicted_indications: ["myiasis", "furuncular myiasis", "wound myiasis", "creeping myiasis", "echinococcus granulosus infectious disease"]
+predicted_indications: ["myiasis", "wound myiasis", "furuncular myiasis", "creeping myiasis", "echinococcus granulosus infectious disease"]
 ---
 
 # Griseofulvin
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Myiasis**, but there are curr
 |------|------|
 | Original Indication | Tinea pedis, tinea corporis, tinea unguium, tinea barbae, dermatophytosis of the groin, perianal area, scalp or beard (no approved indication text is recorded in the India licence data; these are taken from the knowledge-graph indication list) |
 | Predicted New Indication | Myiasis |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The link to myiasis is speculative. Myiasis is an infestation by fly larvae, and the hypothesis is that disrupting microtubule or tubulin function might affect the larvae. No data support this. Myiasis is normally managed by larval removal, wound care and antiparasitic drugs such as ivermectin, so griseofulvin has no established role.
 
-The four highest-ranked predictions are myiasis subtypes (myiasis, furuncular myiasis, wound myiasis, creeping myiasis). Three of them have exactly the same score (99.34%). This suggests the model is propagating a shared disease-class signal rather than evidence specific to each indication. The fifth prediction, *Echinococcus granulosus* infection (99.32%), has a somewhat more plausible parallel, since albendazole-type drugs also act on parasite tubulin. Even so, griseofulvin's tubulin-binding profile differs, and no preclinical or clinical data were found. Any follow-up would need in vitro protoscolicidal or animal-model data first.
+The four highest-ranked predictions are myiasis subtypes (myiasis, furuncular myiasis, wound myiasis, creeping myiasis). Three of them have exactly the same score (0.9934). This suggests the model is propagating a shared disease-class signal rather than evidence specific to each indication. The fifth prediction, *Echinococcus granulosus* infection (0.9932), has a somewhat more plausible parallel, since albendazole-type drugs also act on parasite tubulin. Even so, griseofulvin's tubulin-binding profile differs, and no preclinical or clinical data were found. Any follow-up would need in vitro protoscolicidal or animal-model data first.
 
 ## Clinical Trial Evidence
 

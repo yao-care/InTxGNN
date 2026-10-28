@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **exposure keratitis**, but the
 |------|------|
 | Original Indication | Bacterial meningitis, uveitis, conjunctivitis, Staphylococcus aureus infection and related conditions (the approved indication text was not provided in the registration records) |
 | Predicted New Indication | Exposure keratitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

@@ -48,9 +48,9 @@ Most of the trials are in fibromyalgia, not myofascial pain, so direct evidence 
 |------|------|
 | Original Indication | Not stated in the India license records (the approved indication text is blank for all registrations) |
 | Predicted New Indication | Myofascial pain syndrome |
-| TxGNN Prediction Score | 99.09% |
+| TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -60,7 +60,7 @@ Cyclobenzaprine is structurally related to tricyclic antidepressants. It acts ma
 
 Myofascial pain syndrome involves muscle spasm and painful trigger points. A drug that reduces muscle spasm is a direct pharmacological fit for this condition. The use of cyclobenzaprine in painful musculoskeletal conditions supports the prediction.
 
-The other two predictions are much weaker. Neuralgia has only an indirect rationale through the tricyclic structure and no controlled evidence. Papillary conjunctivitis has no clear mechanistic link and is probably a graph-based artifact. Both are rated Hold.
+The other two predictions are much weaker. Neuralgia has only an indirect rationale through the tricyclic structure and no controlled evidence. Papillary conjunctivitis has no clear mechanistic link, and its score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, not biological evidence. Both are rated Hold.
 
 ## Clinical Trial Evidence
 

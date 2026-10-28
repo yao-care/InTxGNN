@@ -46,17 +46,17 @@ Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-in
 |------|------|
 | Original Indication | Not stated on the India licences (indication text is blank) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on general knowledge, diosmin is a flavonoid venoactive agent used for chronic venous insufficiency and haemorrhoids. Its proposed effects are on venous tone, capillary permeability, lymphatic drainage and inflammation. These details are background knowledge and are not drawn from the data compiled for this report.
 
-No plausible link has been identified between these actions and the hypothalamic-pituitary-ovarian axis, endometrial function, or other drivers of amenorrhea. The India licences list no approved indication text, which further limits inference. Any connection would be speculative, for example through indirect vascular or anti-inflammatory effects. The very high TxGNN score (0.994) should therefore be read as a model output, not as biological or clinical confirmation.
+No plausible link has been identified between these actions and the hypothalamic-pituitary-ovarian axis, endometrial function, or other drivers of amenorrhea. The India licences list no approved indication text, which further limits inference. Any connection would be speculative, for example through indirect vascular or anti-inflammatory effects. The very high TxGNN score (0.9942) should therefore be read as a model output, not as biological or clinical confirmation.
 
 ## Clinical Trial Evidence
 

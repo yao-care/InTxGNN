@@ -49,10 +49,10 @@ The evidence is mostly small Phase 2 studies and reviews, and ifosfamide is not 
 | Item | Content |
 |------|------|
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L3 (Phase 2 studies, cohorts and reviews; no completed Phase 2/3 RCT) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 (Phase 2 studies, cohorts and reviews; no completed Phase 2/3 RCT) |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ---

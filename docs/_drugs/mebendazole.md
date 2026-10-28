@@ -4,17 +4,17 @@ title: Mebendazole
 parent: Model Prediction Only (L5)
 nav_order: 516
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Mebendazole: predicted new indication Acne (evidence level L5). Approved use: Enterobiasis, ascariasis, trichuriasis"
 monitor_inn: "Mebendazole"
-predicted_indications: ["acne (disease)", "leishmaniasis, diffuse cutaneous", "echinococcus granulosus infectious disease", "hordeolum", "alveolar echinococcosis", "inhalational botulism", "toxin-mediated infectious botulism", "impetigo", "Sorsby's fundus dystrophy", "demodicidosis of sebaceous gland"]
+predicted_indications: ["acne (disease)"]
+description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mebendazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mebendazole: From Enterobiasis, Ascariasis and Trichuriasis to Acne
+## Mebendazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **acne**, but the data compiled
 
 | Item | Content |
 |------|------|
-| Original Indication | Enterobiasis, ascariasis, trichuriasis (from the knowledge-graph indication records; the India registration entries contain no indication text) |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.20% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acne (disease) |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **acne**, but the data compiled
 
 Currently, detailed mechanism of action data are not available in the compiled data. Based on general knowledge, mebendazole is a benzimidazole anthelmintic that is understood to bind parasite tubulin, disrupting microtubule-dependent processes such as glucose uptake. This is well established for intestinal worm infections.
 
-That mechanism does not map onto acne. Acne is driven by excess sebum, follicular blockage, *Cutibacterium acnes* and inflammation, and none of these is a recognised target of tubulin-binding anthelmintics. The high TxGNN score therefore appears to reflect network-level associations in the knowledge graph rather than a plausible biological link. The only retrieved publication is an unrelated parasitic case report that mentions acne-like skin lesions, which looks like a spurious match.
+That mechanism does not map onto acne. Acne is driven by excess sebum, follicular blockage, *Cutibacterium acnes* and inflammation, and none of these is a recognised target of tubulin-binding anthelmintics. The high TxGNN score (0.9920) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved publication is an unrelated parasitic case report that mentions acne-like skin lesions, which looks like a spurious match.
 
 ---
 
@@ -118,8 +118,7 @@ The prediction rests on a model score alone. There are no trials, the single ret
 - Route and formulation assessment (the current products are oral or suspension forms)
 
 **Other predictions in the same data set (for reference):**
-- **Alveolar echinococcosis** (score 94.2%) and **Echinococcus granulosus infection** (score 95.6%) both reach evidence level L3 with a "Proceed with Guardrails" recommendation. Support comes from observational studies, reviews and the WHO guideline. Benzimidazoles, mainly albendazole with mebendazole as an alternative, are already standard antiparasitic therapy, so these are existing-use confirmations rather than new repurposing. Long-term use requires liver function and blood count monitoring.
-- The remaining predictions (leishmaniasis, hordeolum, botulism, impetigo, Sorsby's fundus dystrophy, demodicidosis) have no trials or literature and are at evidence level L5.
+- Support comes from observational studies, reviews and the WHO guideline. Benzimidazoles, mainly albendazole with mebendazole as an alternative, are already standard antiparasitic therapy, so these are existing-use confirmations rather than new repurposing. Long-term use requires liver function and blood count monitoring.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

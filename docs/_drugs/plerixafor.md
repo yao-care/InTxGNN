@@ -4,17 +4,17 @@ title: Plerixafor
 parent: Model Prediction Only (L5)
 nav_order: 682
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Plerixafor: predicted new indication Indolent plasma cell myeloma (evidence level L5). Approved use: Plasma cell myeloma"
 monitor_inn: "Plerixafor"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
+description: "Plerixafor: predicted new indication CMM7 (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Plerixafor: From Plasma Cell Myeloma to Indolent Plasma Cell Myeloma
+## Plerixafor: CMM7
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Plerixafor is a CXCR4 antagonist, best known as a hematopoietic stem cell mobiliser used with autologous transplantation in multiple myeloma and non-Hodgkin lymphoma.
-The TxGNN model predicts it may be effective for **indolent plasma cell myeloma**.
 Currently there are **0 clinical trials** and **0 publications** for this specific subtype, so the prediction rests on the model score alone.
 
 ---
@@ -48,12 +47,12 @@ Currently there are **0 clinical trials** and **0 publications** for this specif
 
 | Item | Content |
 |------|------|
-| Original Indication | Plasma cell myeloma |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | CMM7 |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -107,7 +106,7 @@ Please refer to the package insert for full warnings, contraindications and drug
 **Decision: Hold**
 
 **Rationale:**
-The prediction for indolent plasma cell myeloma is supported only by the model score, with no trials or publications for this subtype. Plerixafor's current myeloma use is supportive (stem cell mobilisation), not disease-modifying, and the high score is likely inflated by similarity to the original indication.
+Plerixafor's current myeloma use is supportive (stem cell mobilisation), not disease-modifying, and the high score is likely inflated by similarity to the original indication.
 
 Among the other TxGNN predictions for this drug, **myeloid leukaemia** has much stronger support. It has 25 registered trials (Phase 1 to Phase 2, several completed with 39 to 52 patients) of plerixafor as a chemosensitiser alongside cytarabine-based regimens, and 20 publications. These include a systematic review and Phase 1/2 studies. No Phase 3 or randomised efficacy data exist yet, so that indication reaches only evidence level L2 and is a research question, not a go decision.
 

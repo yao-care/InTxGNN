@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Desloratadine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 243
-evidence_level: L2
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Desloratadine: predicted new indication Cold urticaria (evidence level L2). Approved use: Allergic rhinitis, vasomotor rhinitis…"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "Desloratadine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
+last_modified_at: 2026-10-27
+description: "Desloratadine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Desloratadine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,108 +33,77 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-## Desloratadine: From Allergic Rhinitis and Urticaria to Cold Urticaria
+## Desloratadine: H1 antihistamine → nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Desloratadine is a second-generation antihistamine, originally used for allergic rhinitis, allergic conjunctivitis and urticaria (idiopathic and allergic).
-The TxGNN model predicts it may be effective for **Cold Urticaria**,
-with **2 clinical trials** and **6 publications** currently supporting this direction. Two of those publications are randomized controlled trials of antihistamine dose escalation in cold urticaria.
-
----
+Desloratadine is an oral antihistamine (H1 receptor blocker) used for allergy-related conditions.
+The TxGNN model predicts it may be relevant to **nasal cavity disease**,
+but there are **no registered clinical trials** and only **2 preclinical publications**, so the evidence is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, allergic conjunctivitis (atopic, papillary, vernal), idiopathic urticaria, allergic urticaria (the India licence records contain no indication text, so these come from the knowledge-graph indication list) |
-| Predicted New Indication | Cold urticaria |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | nasal cavity disease |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, desloratadine is a selective peripheral H1-receptor inverse agonist. Its efficacy in histamine-mediated urticaria (idiopathic and allergic) is already established.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, desloratadine belongs to the H1 antihistamine class. It blocks histamine at H1 receptors, which drives sneezing, itching, and nasal discharge in allergic nasal conditions.
 
-Cold urticaria is a physical urticaria driven by mast-cell activation and histamine release. Blocking H1 receptors directly targets the resulting wheal-and-flare response. This makes the prediction a close extension of the existing urticaria use rather than a completely new therapeutic area.
+"Nasal cavity disease" is a broad, non-specific term. The model's signal most likely reflects overlap with allergic and vasomotor rhinitis, uses that are already established for this drug class, rather than a distinct new use. A narrower, clearly defined nasal condition would be needed to judge whether this is truly a repurposing opportunity.
 
-Increasing the dose of non-sedating antihistamines (up to four times the standard dose) is a guideline-endorsed approach for patients who do not respond to standard dosing. The trials below test exactly this question for desloratadine.
-
----
+The supporting literature is limited to animal models. One is a rat model of allergic rhinitis that tested hesperidin and thymol, not desloratadine. The other is a feline nasal congestion model that studied loratadine, a related drug, plus montelukast, with desloratadine looked at only in a side experiment with pseudoephedrine. Neither study directly examines desloratadine for nasal cavity disease in a clinical setting, so they count as indirect evidence only. Because no cited study directly addresses the predicted disease, the evidence level is L5.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01444196](https://clinicaltrials.gov/study/NCT01444196) | Phase 4 | Completed | 30 | Double-blind, dose-escalating comparison of desloratadine 5, 10 and 20 mg in acquired cold urticaria, aiming to find the dose that suppresses symptoms (no results summary available) |
-| [NCT00600847](https://clinicaltrials.gov/study/NCT00600847) | Phase 4 | Completed | 33 | Randomized, double-blind, placebo-controlled crossover study comparing 5 mg vs 20 mg desloratadine on experimentally induced cold urticaria lesions (no results summary available) |
-
-Both trials are small Phase 4 studies and are treated as Phase 2-equivalent evidence, not Phase 3 evidence.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19201016](https://pubmed.ncbi.nlm.nih.gov/19201016/) | 2009 | RCT | J Allergy Clin Immunol | Randomized, placebo-controlled crossover study. Compares high-dose with standard-dose desloratadine on wheal volume and cold provocation thresholds in acquired cold urticaria. The title reports that high-dose treatment decreased wheal volume and improved thresholds. |
-| [22242678](https://pubmed.ncbi.nlm.nih.gov/22242678/) | 2012 | RCT | Br J Dermatol | Randomized controlled trial of H1-antihistamine dose escalation, using critical temperature threshold measurement in cold urticaria. |
-| [14754651](https://pubmed.ncbi.nlm.nih.gov/14754651/) | 2004 | Clinical study | J Dermatol Treat | Desloratadine 5 mg for 4 days, tested with ice cubes before and after treatment in 12 patients with cold urticaria. |
-| [15516152](https://pubmed.ncbi.nlm.nih.gov/15516152/) | 2004 | Review | Drugs | Review of the causes, management and treatment options of chronic urticaria. |
-| [38025339](https://pubmed.ncbi.nlm.nih.gov/38025339/) | 2023 | Case report | Qatar Med J | Cold-induced urticaria after black ant bite anaphylaxis. Background only, not about desloratadine treatment. |
-| [19032340](https://pubmed.ncbi.nlm.nih.gov/19032340/) | 2008 | Review | Allergy | Review of ebastine, a different antihistamine, in allergic rhinitis and chronic idiopathic urticaria. Indirect evidence only. |
-
----
+| [30488351](https://pubmed.ncbi.nlm.nih.gov/30488351/) | 2019 | Preclinical animal study (rat) | Eur Arch Otorhinolaryngol | Hesperidin and thymol in ovalbumin-induced allergic rhinitis in rats; not specific to desloratadine |
+| [19769798](https://pubmed.ncbi.nlm.nih.gov/19769798/) | 2009 | Preclinical animal study (cat) | Am J Rhinol Allergy | Loratadine plus montelukast reduced nasal congestion in a feline model; desloratadine was studied with pseudoephedrine in a side experiment |
 
 ## India Market Information
 
-Desloratadine is marketed in India as single-ingredient oral tablets, with 20 valid registrations and none cancelled. Examples of the main authorizations are below. The licence records contain no approved indication text.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 58373 | Deskast Tablet | Strip of 10 tablets | Lupin Ltd |
-| 59235 | Des-OD 5mg Tablet | Strip of 10 tablets | Cadila Pharmaceuticals Ltd |
-| 62639 | Desent 5mg Tablet | Strip of 10 tablets | Indoco Remedies Ltd |
-| 66755 | Desolid 5mg Tablet | Strip of 10 tablets | Cmg Biotech Pvt Ltd |
-| 133196 | Lorin D 5mg Tablet | Strip of 10 tablets | Kestrel Lifesciences |
+| 61135 | Desolid M 5mg/10mg Tablet | Strip of 10 tablets | Not recorded |
+| 63132 | Desolate 10mg Tablet | Strip of 10 tablets | Not recorded |
+| 59208 | Dest 5mg Tablet | Strip of 10 tablets | Not recorded |
+| 62951 | Drewex 5mg Tablet | Strip of 10 tablets | Not recorded |
+| 60919 | Desgic 5 Tablet | Strip of 10 tablets | Not recorded |
 
----
+At least 20 single-ingredient licences are currently valid, and the list may be partial.
 
 ## Safety Considerations
 
-Package insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
 
-The following items come from a knowledge graph, not from label text, and should be verified against the label:
-- **Disease contraindication signals (knowledge graph):** hypertension, kidney disease, liver disease, gallbladder disease, diabetes mellitus and diabetic ketoacidosis, benign prostatic hyperplasia, coronary artery disease and atherosclerosis, angle-closure glaucoma, and hyperthyroidism (including Graves disease and thyrotoxicosis).
-- **Drug interactions:** 266 potential interactions were identified, but none has a severity rating. Examples include morphine, epinephrine, cimetidine, omeprazole, pantoprazole, lansoprazole, metformin, simvastatin, prednisone and doxycycline.
-
-Dose escalation up to four times the standard dose, as used in the cold urticaria studies, is outside the usual labeled dose. Its safety needs separate review.
-
----
+- **Drug Interactions**: 266 potential interactions are recorded, but severity levels are unclassified. Examples include cimetidine, omeprazole, pantoprazole, lansoprazole, metformin, morphine, simvastatin, epinephrine, prednisone and hydrocortisone. These need individual review before any new-use plan.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Two small completed Phase 4 trials and two RCTs directly test desloratadine dose escalation in cold urticaria, and the mechanism fits well with the existing urticaria use. However, the trials are small and the studies are Phase 2-equivalent rather than Phase 3, so the evidence is moderate (L2).
+The predicted indication is too broad to act on and likely overlaps with existing allergic and vasomotor rhinitis use. There are no clinical trials, and the only literature is indirect animal-model work.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed mechanism of action data
-- Safety review of higher-than-labeled doses, including the contraindication signals above
-- Confirmation of the trial results (primary outcomes) from the full publications
-
-**Other predicted indications (not recommended at this time):**
-All of the following are on Hold.
-- Nasal cavity disease (L4): the term is non-specific and likely overlaps with the existing rhinitis indications. Only preclinical support exists.
-- Acute laryngopharyngitis, recalcitrant atopic dermatitis, atopic IgE responsiveness, and rosacea conjunctivitis (all L5): prediction only, with no trials or literature, and a weak or uncertain mechanistic fit.
+- A specific, well-defined nasal condition that is clearly distinct from the existing use
+- Clinical studies that directly test desloratadine in that condition
+- Mechanism of action data
+- Package insert warnings and contraindications from the local product labels
+- Review of the drug interactions and a safety plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

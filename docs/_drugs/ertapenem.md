@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ertapenem
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 320
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Bacterial pneumonia, streptococcal pneumonia…"
 monitor_inn: "Ertapenem"
 predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection"]
+description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ertapenem
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Ertapenem: From Bacterial Pneumonia to Bacterial Arthritis
+## Ertapenem: Bacterial arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ertapenem is a broad-spectrum carbapenem antibiotic, originally used to treat bacterial infections such as bacterial pneumonia, streptococcal pneumonia and Peptostreptococcus infections.
-The TxGNN model predicts it may be effective for **bacterial arthritis** (score 99.7%), but the data compiled for this report show **no registered clinical trials** and only **case-level and indirect literature** for this indication.
+The TxGNN model (deep learning) predicts it may be effective for **bacterial arthritis** (score 0.9972), but the data compiled for this report show **no registered clinical trials** and only **case-level and indirect literature** for this indication.
 A second prediction, **Staphylococcus aureus infection**, has stronger support (**2 clinical trials** and **19 publications**), mainly for ertapenem combined with cefazolin.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial pneumonia, streptococcal pneumonia, Peptostreptococcus infectious disease (from the knowledge graph; no approved indication text in the India registrations) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bacterial arthritis |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9972 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 The original indications (pneumonia) and the predicted indication (bacterial arthritis) are both bacterial infections. This is therefore largely an extension within the drug's antibacterial class rather than a true repurposing. The biological link is plausible and supported by individual case reports, but the evidence is not specific to this indication. The high TxGNN score is a computational prediction only.
 
-A second candidate, **Staphylococcus aureus infection** (score 99.28%), has a more specific rationale. Ertapenem alone has limited anti-staphylococcal activity, but combined with cefazolin it shows synergy against methicillin-susceptible S. aureus (MSSA). The proposed explanation is complementary penicillin-binding protein saturation. This combination has been used as salvage therapy for persistent MSSA bacteremia. It is a combination-therapy rationale, not monotherapy.
+A second candidate, **Staphylococcus aureus infection** (score 0.9928), has a more specific rationale. Ertapenem alone has limited anti-staphylococcal activity, but combined with cefazolin it shows synergy against methicillin-susceptible S. aureus (MSSA). The proposed explanation is complementary penicillin-binding protein saturation. This combination has been used as salvage therapy for persistent MSSA bacteremia. It is a combination-therapy rationale, not monotherapy.
 
 ## Clinical Trial Evidence
 
@@ -111,7 +111,7 @@ Ertapenem has 20 valid single-ingredient registrations in India, all injectable.
 
 ## Safety Considerations
 
-- **Contraindications / conditions of concern (knowledge-graph associations, not label text):** epilepsy, kidney disease, pyoureter, Clostridium difficile colitis, perinatal necrotizing enterocolitis.
+- **Contraindications / conditions of concern (not label text):** epilepsy, kidney disease, pyoureter, Clostridium difficile colitis, perinatal necrotizing enterocolitis.
 - **Drug Interactions:** 38 interactions were identified. The only **Major** one is **bupropion**. **Moderate** interactions are with picosulfuric acid, polyethylene glycol (3350 with electrolytes) and sodium sulfate. The remaining listed interactions (for example vancomycin, metronidazole, metformin, omeprazole, morphine) have an unknown severity level.
 - **Pharmacokinetic caveat:** Ertapenem is highly protein bound, and hypoalbuminemia may reduce drug exposure.
 

@@ -46,17 +46,17 @@ Fosaprepitant is an injectable prodrug of aprepitant, a substance P/NK1 receptor
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the approved indication text is blank for all licences) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, fosaprepitant is a prodrug of aprepitant and acts as an NK1 receptor antagonist. Substance P/NK1 signalling has been loosely discussed in relation to water balance.
 
-The link to NSIAD is weak. NSIAD is a disorder caused by gain-of-function of the vasopressin V2 receptor, and no direct connection to NK1 antagonism is evident. The high TxGNN score (0.999) is a model output only and should be treated as speculative. It may reflect network proximity in the knowledge graph rather than true biological relevance.
+The link to NSIAD is weak. NSIAD is a disorder caused by gain-of-function of the vasopressin V2 receptor, and no direct connection to NK1 antagonism is evident. The high TxGNN score (0.9992) is a model output only and should be treated as speculative. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -105,15 +105,15 @@ Please refer to the package insert for full warnings and contraindications.
 
 | Rank | Predicted Indication | Score | Evidence Level | Note |
 |------|------|------|------|------|
-| 2 | Pneumocystosis | 99.87% | L5 | No supporting data; established antimicrobials exist |
-| 3 | Leprosy | 99.82% | L5 | No clear mechanism |
-| 4 | Cryptococcal meningitis | 99.79% | L5 | Theoretical interest only |
-| 5 | Multiple endocrine neoplasia | 99.76% | L5 | NK1 antiproliferative activity is preclinical only |
-| 6 | Intracranial abscess | 99.75% | L5 | No evident mechanism |
-| 7 | Retinitis | 99.68% | L4 | One preclinical mouse study (see below) |
-| 8 | *Plasmodium falciparum* malaria | 99.64% | L5 | No established mechanism |
-| 9 | Echinococcus infection | 99.50% | L5 | No plausible mechanism |
-| 10 | Hyperargininemia | 99.41% | L5 | Likely a network-proximity artifact |
+| 2 | Pneumocystosis | 0.9987 | L5 | No supporting data; established antimicrobials exist |
+| 3 | Leprosy | 0.9982 | L5 | No clear mechanism |
+| 4 | Cryptococcal meningitis | 0.9979 | L5 | Theoretical interest only |
+| 5 | Multiple endocrine neoplasia | 0.9976 | L5 | NK1 antiproliferative activity is preclinical only |
+| 6 | Intracranial abscess | 0.9975 | L5 | No evident mechanism |
+| 7 | Retinitis | 0.9968 | L5 | One preclinical mouse study (see below) |
+| 8 | *Plasmodium falciparum* malaria | 0.9964 | L5 | No established mechanism |
+| 9 | Echinococcus infection | 0.9950 | L5 | No plausible mechanism |
+| 10 | Hyperargininemia | 0.9941 | L5 | Likely a network-proximity artifact |
 
 **Retinitis, the only prediction with any supporting literature:**
 

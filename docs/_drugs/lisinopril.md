@@ -4,17 +4,17 @@ title: Lisinopril
 parent: Model Prediction Only (L5)
 nav_order: 494
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Lisinopril: predicted new indication Posterolateral myocardial infarction (evidence level L5). Approved use: Hypertension, myocardial infarction"
 monitor_inn: "Lisinopril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+description: "Lisinopril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lisinopril: From Hypertension to Posterolateral Myocardial Infarction
+## Lisinopril: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lisinopril is an ACE inhibitor originally used to treat hypertension and myocardial infarction.
-The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**, but **no clinical trials or publications** specific to this subtype are currently available.
 This prediction most likely reflects the closeness of the disease to the already-approved myocardial infarction indication, rather than a new therapeutic signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, myocardial infarction (from the knowledge graph; the licence records contain no indication text) |
-| Predicted New Indication | Posterolateral myocardial infarction |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 (below the L3 level reached by chronic pulmonary heart disease) |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 (below the L3 level reached by chronic pulmonary heart disease) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -101,7 +100,7 @@ The licence records contain no approved indication text. Of the 20 valid single-
 - **Disease-level contraindication signals (knowledge graph, not label text)**: kidney disease, liver disease, pancreatitis, gallbladder disease, angioedema (including hereditary and ACE-inhibitor-induced forms), systemic lupus erythematosus, diabetes mellitus and diabetic ketoacidosis, potassium deficiency, neutropenia and agranulocytosis, aortic stenosis, hypotensive disorders, hyperparathyroidism, hepatic encephalopathy, connective tissue disease and bone disease.
 - **Drug interactions**: 308 interactions were recorded. Major-level interactions include potassium citrate and potassium bicarbonate (risk of hyperkalaemia). Moderate-level interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), antidiabetic agents (metformin, alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide), acetylsalicylic acid, morphine and bupropion.
 - **Case-report signals**: severe hypotension and bradycardia with concomitant tizanidine (PMID 20852161), and a report of small bowel angioedema attributed to lisinopril (PMID 42226836).
-- **Prediction-specific cautions**: in malignant renovascular hypertension, bilateral renal artery stenosis or a solitary kidney can lead to acute kidney injury with ACE inhibitors. Hyperkalaemia and hypotension are also relevant.
+- Hyperkalaemia and hypotension are also relevant.
 
 Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the full safety information.
 
@@ -110,7 +109,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-Posterolateral myocardial infarction is a subtype of an indication lisinopril already holds, so the prediction adds little new therapeutic information. No subtype-specific trials or literature support it (evidence level L4).
+No subtype-specific trials or literature support it (evidence level L4).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)

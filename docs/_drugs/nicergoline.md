@@ -6,9 +6,9 @@ nav_order: 591
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-14
-description: "Nicergoline: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not stated in the India license data"
 monitor_inn: "Nicergoline"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
+description: "Nicergoline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nicergoline
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Nicergoline: From Cerebrovascular/Vasoactive Use to Hypertrichosis (Top Prediction), with Migraine as the Best-Supported Candidate
+## Nicergoline: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Nicergoline is an ergot-derived vasodilator and alpha-1 adrenergic antagonist marketed in India as single-ingredient tablets. The India license records compiled for this report do not list an approved indication.
-The TxGNN model's top prediction is **hypertrichosis** (score 99.57%), but it has **0 clinical trials and 0 publications**, so it rests on graph-based prediction only.
 Among the eight predicted indications, only **migraine disorder** has supporting literature (**6 publications, 0 registered trials**, mostly preclinical).
 
 ---
@@ -48,12 +47,12 @@ Among the eight predicted indications, only **migraine disorder** has supporting
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India license data |
-| Predicted New Indication | Hypertrichosis (rank 1); best-supported alternative: migraine disorder (rank 8) |
-| TxGNN Prediction Score | 99.57% (hypertrichosis); 99.12% (migraine disorder) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 (hypertrichosis); L4 (migraine disorder) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold (hypertrichosis); migraine flagged as a research question |
 
 ---
@@ -62,7 +61,7 @@ Among the eight predicted indications, only **migraine disorder** has supporting
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, nicergoline is an ergot derivative with vasodilating, alpha-1 adrenergic blocking and serotonin-modulating properties.
 
-**Hypertrichosis (rank 1):** No plausible mechanistic path from nicergoline to hair growth regulation is evident. The high score is likely a graph-proximity artefact. The same applies to the related predictions (Ambras-type congenital hypertrichosis, isolated genetic hair shaft abnormality), which are genetic conditions that a vasoactive drug is unlikely to correct.
+**Hypertrichosis (rank 1):** No plausible mechanistic path from nicergoline to hair growth regulation is evident. The same applies to the related predictions (Ambras-type congenital hypertrichosis, isolated genetic hair shaft abnormality), which are genetic conditions that a vasoactive drug is unlikely to correct.
 
 **Other low-plausibility predictions:** Malformation syndromes (odontal/periodontal, Dandy-Walker) are structural developmental conditions, and nephrogenic syndrome of inappropriate antidiuresis arises from vasopressin V2 receptor signalling. None has a link to nicergoline's pharmacology in the data supplied.
 
@@ -118,7 +117,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold** (for hypertrichosis and the other six non-migraine predictions). Migraine disorder is flagged as a research question rather than a Go.
 
 **Rationale:**
-- The top-ranked prediction has no clinical or literature support and no plausible mechanism, so the score is likely a knowledge-graph artefact.
+- The top-ranked prediction has no clinical or literature support and no plausible mechanism, so the score is likely a TxGNN model (deep learning) artefact.
 - Migraine has a coherent mechanism, but its evidence is mostly preclinical, with one old, low-grade clinical report. BPH is mechanistically plausible but entirely unsupported by evidence.
 
 **To proceed, the following is needed:**

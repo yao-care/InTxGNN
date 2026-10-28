@@ -48,10 +48,10 @@ but at present there are **no registered clinical trials** and only **1 loosely 
 |------|------|
 | Original Indication | Peptic ulcer disease |
 | Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.59% |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Peptic ulcer disease and gastroduodenitis are both upper gastrointestinal conditions. Symptom control through reduced acid secretion and reduced spasm is plausible in both. This link is inferred from general pharmacology, not from the supplied data.
 
-The high TxGNN score (0.996) reflects network proximity to peptic ulcer disease in the knowledge graph. It is a model prediction and is not clinical evidence.
+The high TxGNN score (0.9959) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is a model prediction and is not clinical evidence.
 
 ## Clinical Trial Evidence
 

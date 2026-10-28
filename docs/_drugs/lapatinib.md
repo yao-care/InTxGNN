@@ -48,10 +48,10 @@ but **no clinical trials or publications** currently support this prediction, so
 |------|------|
 | Original Indication | HER2-positive breast carcinoma |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.30% |
+| TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

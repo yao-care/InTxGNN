@@ -4,17 +4,17 @@ title: Urofollitropin
 parent: Model Prediction Only (L5)
 nav_order: 876
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Urofollitropin: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence records compiled for this report (ovulation…"
 monitor_inn: "Urofollitropin"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
 ---
 
 # Urofollitropin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 |------|------|
 | Original Indication | Not stated in the licence records compiled for this report (ovulation induction and ovarian stimulation, based on the drug class) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 Currently, detailed mechanism of action data is not available. Based on known information, urofollitropin is a gonadotropin (FSH) preparation derived from urine. Its efficacy in ovarian stimulation is established, but no mechanistic route to migraine has been demonstrated.
 
-The link between the two conditions is weak. A hormonal-fluctuation hypothesis, such as menstrual-related migraine, is conceivable. However, gonadotropin stimulation would more plausibly provoke headache than treat it. The high TxGNN score most likely reflects network proximity in the knowledge graph rather than a real pharmacological relationship.
+The link between the two conditions is weak. A hormonal-fluctuation hypothesis, such as menstrual-related migraine, is conceivable. However, gonadotropin stimulation would more plausibly provoke headache than treat it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions are similarly unsupported. These include migraine with brainstem aura, cauda equina syndrome, His bundle tachycardia, restless legs syndrome, and Raynaud disease. None has clinical or literature data, and none has an identified mechanistic link to FSH receptor signalling.
 

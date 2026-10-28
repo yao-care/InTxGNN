@@ -48,9 +48,9 @@ Among the ten predictions reviewed, only **streptococcal pneumonia** has a credi
 |------|------|
 | Original Indication | *Clostridium difficile* colitis (also staphylococcal infections, endocarditis, bacterial arthritis, staphylococcal pneumonia) |
 | Predicted New Indication | Diffuse scleroderma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Among the ten predictions reviewed, only **streptococcal pneumonia** has a credi
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on established pharmacology, vancomycin binds the D-Ala-D-Ala termini of peptidoglycan precursors and so inhibits bacterial cell wall synthesis. This makes it active against Gram-positive bacteria but not against Gram-negative organisms, whose outer membrane it cannot cross.
 
-For **diffuse scleroderma**, there is no plausible mechanistic link. It is an autoimmune fibrotic disease, and a cell wall synthesis inhibitor has no known action on it. The high TxGNN score most likely reflects network-level associations in the knowledge graph rather than biology. The only retrieved paper is a case report on erythroderma with sepsis, which is not about scleroderma.
+For **diffuse scleroderma**, there is no plausible mechanistic link. It is an autoimmune fibrotic disease, and a cell wall synthesis inhibitor has no known action on it. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved paper is a case report on erythroderma with sepsis, which is not about scleroderma.
 
 The other predictions follow a similar pattern:
 - **Paratyphoid fever, salmonellosis and typhoid fever** are caused by Gram-negative *Salmonella*, which vancomycin cannot effectively penetrate. The retrieved literature consists of resistance surveys, veterinary papers, reviews and case reports, none showing vancomycin benefit.
@@ -111,7 +111,7 @@ Package insert warnings and contraindications were not available and should be r
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, diffuse scleroderma, has no clinical trials, no relevant literature, and no plausible mechanism. Its high score appears to be a knowledge-graph artefact. The Gram-negative infections (typhoid, paratyphoid, salmonellosis) are biologically contradicted by vancomycin's spectrum. Only streptococcal pneumonia is plausible, and it is an extension of existing antibacterial use.
+The top-ranked prediction, diffuse scleroderma, has no clinical trials, no relevant literature, and no plausible mechanism. Its high score appears to be a TxGNN model (deep learning) artefact. The Gram-negative infections (typhoid, paratyphoid, salmonellosis) are biologically contradicted by vancomycin's spectrum. Only streptococcal pneumonia is plausible, and it is an extension of existing antibacterial use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India label (a blocking gap for safety screening)

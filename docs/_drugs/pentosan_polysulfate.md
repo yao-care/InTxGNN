@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
-description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Interstitial cystitis"
+last_modified_at: 2026-10-28
 monitor_inn: "Pentosan polysulfate"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
+description: "Pentosan Polysulfate: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pentosan Polysulfate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Pentosan Polysulfate: From Interstitial Cystitis to Primary Release Disorder of Platelets
+## Pentosan Polysulfate: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ The prediction rests on the model score alone, and the available data point to a
 
 | Item | Content |
 |------|------|
-| Original Indication | Interstitial cystitis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, pentosan polysulfate is a heparin-like sulfated polysaccharide with weak anticoagulant activity. It is established in interstitial cystitis, but no mechanism has been verified that would apply to a platelet disorder.
 
-The connection to the new indication is weak. A platelet release (secretion) defect involves impaired granule release by platelets. A drug with anticoagulant properties would be expected to worsen, not improve, a bleeding tendency. The prediction is probably driven by shared coagulation and haemostasis neighbours in the knowledge graph rather than a true therapeutic effect.
+The connection to the new indication is weak. A platelet release (secretion) defect involves impaired granule release by platelets. A drug with anticoagulant properties would be expected to worsen, not improve, a bleeding tendency. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The other two top predictions, Glanzmann thrombasthenia (99.65%) and pseudo-von Willebrand disease (99.62%), also have no supporting trials or literature. Pseudo-von Willebrand disease has a theoretical link, since sulfated polysaccharides can interact with VWF/GPIb binding. However, the direction of any effect is unknown and would need preclinical validation.
+The other two top predictions, Glanzmann thrombasthenia (0.9965) and pseudo-von Willebrand disease (0.9962), also have no supporting trials or literature. Pseudo-von Willebrand disease has a theoretical link, since sulfated polysaccharides can interact with VWF/GPIb binding. However, the direction of any effect is unknown and would need preclinical validation.
 
 ## Clinical Trial Evidence
 
@@ -104,7 +104,7 @@ The prediction is supported only by a model score (Evidence Level L5), with no t
 - Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
 - Mechanism of action data (e.g., from DrugBank)
 - Preclinical validation, such as platelet function and VWF/GPIb binding assays, particularly for pseudo-von Willebrand disease
-- A review of whether the prediction is a graph-based artifact before any clinical consideration
+- A review of whether the prediction only reflects similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence, before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

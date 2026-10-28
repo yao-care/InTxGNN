@@ -4,7 +4,7 @@ title: Sorafenib
 parent: High Evidence (L1-L2)
 nav_order: 783
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Sorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Hepatocellular carcinoma (also liver cancer…"
 monitor_inn: "Sorafenib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 # Sorafenib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,13 +48,13 @@ with **1 clinical trial** (a Phase 2 study in mixed soft tissue sarcomas) and **
 |------|------|
 | Original Indication | Hepatocellular carcinoma (also liver cancer, renal cell carcinoma and thyroid gland carcinoma) |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
-*Note: the data compiled for this report did not include approved-indication text from the India licences. The original indication is therefore taken from the drug's known indications in the knowledge graph.*
+*Note: the data compiled for this report did not include approved-indication text from the India licences. The original indication is therefore taken from the drug's known indications.*
 
 ## Why is This Prediction Reasonable?
 
@@ -123,7 +123,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The only direct clinical evidence is a single-arm Phase 2 trial in mixed soft tissue sarcoma histologies. It is not liposarcoma-specific, and the mechanistic fit is only partial, since liposarcoma is driven mainly by MDM2/CDK4. The score is high (99.82%), but this is a model prediction and does not substitute for histology-specific efficacy data. The idea is worth keeping as a research question, not as a development candidate.
+The only direct clinical evidence is a single-arm Phase 2 trial in mixed soft tissue sarcoma histologies. It is not liposarcoma-specific, and the mechanistic fit is only partial, since liposarcoma is driven mainly by MDM2/CDK4. The score is high (0.9982), but this is a model prediction and does not substitute for histology-specific efficacy data. The idea is worth keeping as a research question, not as a development candidate.
 
 **To proceed, the following is needed:**
 - Liposarcoma-subtype efficacy data extracted from the Phase 2 SWOG S0505 study (PMID 21751200).

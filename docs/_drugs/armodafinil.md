@@ -6,7 +6,7 @@ nav_order: 70
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Armodafinil: predicted new indication Insomnia (evidence level L2). Approved use: Narcolepsy (also listed: narcolepsy-cataplexy syndrome…"
+description: "Armodafinil: predicted new indication insomnia (evidence level L2). Approved use: Narcolepsy (also listed: narcolepsy-cataplexy syndrome…"
 monitor_inn: "Armodafinil"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -50,13 +50,13 @@ The evidence is weak: the trials mostly address daytime sleepiness and fatigue i
 |------|------|
 | Original Indication | Narcolepsy (also listed: narcolepsy-cataplexy syndrome, central nervous system disease, Balo concentric sclerosis, X-linked adrenoleukodystrophy) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 14 |
+| India Market Status | Marketed (valid licences: 14 of 14) |
+| Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
-*Note: the Indian licence records compiled for this report contain no approved-indication text, so the original indication comes from the knowledge-graph indication list.*
+*Note: the Indian licence records compiled for this report contain no approved-indication text, so the original indication is taken from the indication list compiled for this report.*
 
 ---
 
@@ -66,7 +66,7 @@ Detailed mechanism of action data is not currently available. Armodafinil is a w
 
 This is pharmacologically the opposite of treating insomnia as a primary problem of falling or staying asleep. The plausible link is indirect. In the available trials, armodafinil targets daytime sleepiness, fatigue, or wake-related impairment in people whose insomnia occurs alongside breast cancer, chemotherapy-related fatigue, or sleep-disordered breathing. It is not a direct treatment for insomnia.
 
-The very high TxGNN score (99.89%) is a computational prediction. It likely reflects network proximity to sleep-wake disorders such as narcolepsy and shift work sleep disorder, not a true therapeutic mechanism. It should not be read as evidence of efficacy.
+The very high TxGNN score (0.9989) is a computational prediction. It likely reflects network proximity to sleep-wake disorders such as narcolepsy and shift work sleep disorder, not a true therapeutic mechanism. It should not be read as evidence of efficacy.
 
 ---
 

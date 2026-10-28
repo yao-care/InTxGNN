@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 |------|------|
 | Original Indication | Acne, streptococcal and staphylococcal infections, anaerobic bacterial infections, bacterial vaginosis (the India licence records contain no approved indication text) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, clindamycin is a lincosamide antibiotic that inhibits bacterial protein synthesis. Its efficacy in Gram-positive and anaerobic bacterial infections is established, so any benefit would be limited to a bacterial component of an eye surface disease.
 
-The link to the predicted indication is weak. Punctate epithelial keratoconjunctivitis is often viral or inflammatory rather than bacterial, so an antibacterial mechanism is not established. The very high score (99.97%) is most likely a graph-proximity artefact of the knowledge graph rather than evidence of real efficacy.
+The link to the predicted indication is weak. Punctate epithelial keratoconjunctivitis is often viral or inflammatory rather than bacterial, so an antibacterial mechanism is not established. The very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions for this drug show the same pattern. Exposure keratitis has only indirect literature on bacterial keratitis. Epidemic keratoconjunctivitis is adenoviral, and clindamycin has no antiviral activity. Postmenopausal atrophic vaginitis is driven by oestrogen deficiency. "Non-human animal disease" is not a usable human indication. Neurotrophic keratopathy is not primarily bacterial.
 

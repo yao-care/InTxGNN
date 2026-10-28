@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Oral candidiasis, candidiasis, vulvovaginal candidiasis, oesophageal candidiasis, cryptococcal meningitis, candidaemia, disseminated candidiasis |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.24% |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is most often viral (for example adenovirus) or related to dry eye, drug toxicity, or other non-fungal causes. An antifungal mechanism therefore has no clear connection to the typical cause. A plausible link would exist only for a fungal subset of keratoconjunctivitis, and the supplied data do not support that.
 
-The high score (0.992) most likely reflects closeness in the knowledge graph to other ocular or fungal infection indications rather than a validated mechanism. The prediction should be regarded as a hypothesis only.
+The high score (0.9924) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be regarded as a hypothesis only.
 
 ## Clinical Trial Evidence
 

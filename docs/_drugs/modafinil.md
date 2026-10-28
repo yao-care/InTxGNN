@@ -6,9 +6,9 @@ nav_order: 565
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Modafinil: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Narcolepsy"
 monitor_inn: "Modafinil"
 predicted_indications: ["insomnia (disease)"]
+description: "Modafinil: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Modafinil
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Modafinil: From Narcolepsy to Insomnia
+## Modafinil: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **insomnia**, but the supportin
 
 | Item | Content |
 |------|------|
-| Original Indication | Narcolepsy (also narcolepsy-cataplexy syndrome, central nervous system disease, Balo concentric sclerosis, X-linked adrenoleukodystrophy, per the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Insomnia (disease) |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but the supportin
 
 Currently, detailed mechanism of action data is not available. Modafinil is a wake-promoting agent that is generally understood to act through dopamine transporter inhibition and effects on wake-promoting brain circuits. Its efficacy in excessive daytime sleepiness is established, and it is mechanistically aimed at that symptom.
 
-The very high TxGNN score most likely reflects how close insomnia sits to narcolepsy and other sleep/wake disorders in the knowledge graph, not a proven therapeutic link. A wake-promoting drug could plausibly help daytime function in people with disturbed sleep, but it would not be expected to improve insomnia itself and could even worsen it.
+The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as insomnia, narcolepsy and other sleep/wake disorders, not biological evidence. A wake-promoting drug could plausibly help daytime function in people with disturbed sleep, but it would not be expected to improve insomnia itself and could even worsen it.
 
 Overall, the link between the original and predicted indications is indirect, and the rationale is weak.
 

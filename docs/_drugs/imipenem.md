@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **diffuse scleroderma**, but th
 |------|------|
 | Original Indication | Bacterial infections (bacterial pneumonia, peritonitis, endocarditis, bacterial arthritis, endometritis) |
 | Predicted New Indication | Diffuse scleroderma |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

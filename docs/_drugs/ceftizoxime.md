@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ceftizoxime
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 160
-evidence_level: L3
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Ceftizoxime: predicted new indication Gonococcal urethritis (evidence level L3). Approved use: Urinary tract infection, streptococcal and staphylococcal infections…"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Ceftizoxime"
-predicted_indications: ["gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
+predicted_indications: ["Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
+last_modified_at: 2026-10-23
+description: "Ceftizoxime: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection, gonorrhea…"
 ---
 
 # Ceftizoxime
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-## Ceftizoxime: From Urinary Tract and Gonococcal Infections to Gonococcal Urethritis
+## Ceftizoxime: From Bacterial Infections to Ureaplasma Urethritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Ceftizoxime is a third-generation cephalosporin antibiotic, originally used for bacterial infections such as urinary tract infection, pneumonia, staphylococcal and streptococcal infections, and gonorrhea.
-The TxGNN model predicts it may be effective for **gonococcal urethritis**, supported by **0 registered clinical trials** and **6 publications** (3 single-arm or comparative clinical studies from the 1980s and 1990s, plus in vitro and resistance reports).
-Because gonorrhea is already a listed indication, this is largely an extension within the same pathogen rather than true repurposing.
+Ceftizoxime is a third-generation cephalosporin antibiotic.
+The TxGNN model predicts it may be effective for **Ureaplasma urethritis**, but **no clinical trials and no publications** support this prediction, and the biology argues against it (Ureaplasma has no cell wall).
 
 ---
 
@@ -48,94 +47,93 @@ Because gonorrhea is already a listed indication, this is largely an extension w
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection, streptococcal and staphylococcal infections, pneumonia, gonorrhea (original indications from the knowledge graph; the Indian license records list no approved indication text) |
-| Predicted New Indication | Gonococcal urethritis |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Urinary tract infection, gonorrhea, pneumonia and other bacterial infections (relations recorded in the knowledge graph; the licence records compiled for this report contain no indication text) |
+| Predicted New Indication | Ureaplasma urethritis |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ceftizoxime is a third-generation cephalosporin, a class that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins. It is active against *Neisseria gonorrhoeae*, including penicillinase-producing strains.
+Detailed mechanism of action data is not available in the data compiled for this report. Ceftizoxime belongs to the third-generation cephalosporins, which kill bacteria by binding penicillin-binding proteins and blocking cell wall synthesis.
 
-Its efficacy in gonorrhea, acute gonococcal cervicitis and endometritis is already recognised. Gonococcal urethritis is the male urethral presentation of the same infection, so the prediction is mechanistically straightforward. Published studies from the 1980s and 1990s report high cure rates after single-dose treatment, and one comparative study evaluated it against ceftriaxone.
+This is the central problem for the predicted indication. *Ureaplasma* species have no cell wall, so beta-lactam antibiotics such as ceftizoxime are expected to be intrinsically ineffective. The very high TxGNN score is most likely driven by network proximity to other urogenital infections (for example gonorrhea) rather than by real biological support.
 
-An important caveat is resistance. A 2001 report described cephem- and aztreonam-high-resistant *N. gonorrhoeae* that did not produce beta-lactamase, which limits how relevant these older efficacy data are to current practice.
+The prediction is therefore not considered mechanistically reasonable. It should be treated as a model artefact unless direct evidence emerges.
+
+### Other predicted indications (for context)
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Xanthogranulomatous pyelonephritis | 0.9988 | L5 | Plausible activity against *Proteus* and *E. coli*, but definitive treatment is usually nephrectomy; no supporting studies |
+| 3 | Uterine inflammatory disease | 0.9988 | L5* | Mechanistically coherent (gonococcus and anaerobe coverage), but no cited study shows ceftizoxime efficacy in this disease |
+| 4 | Epiglottitis | 0.9949 | L5 | Spectrum similar to standard third-generation cephalosporins; no studies |
+| 5 | Urogenital tuberculosis | 0.9948 | L5 | Not biologically supported (mycobacterial beta-lactamase); no studies |
+
+*The pack lists L4 for this indication, but the retrieved studies do not demonstrate ceftizoxime efficacy in uterine inflammatory disease itself (one is a preclinical hydrogel study, the other a 1988 pelvic inflammatory disease cohort), so it is reported conservatively here.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for Ureaplasma urethritis.
 
 ---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2264006](https://pubmed.ncbi.nlm.nih.gov/2264006/) | 1990 | Clinical study | Sexually Transmitted Diseases | Single-dose ceftizoxime in 175 men with confirmed uncomplicated gonococcal urethritis |
-| [1948517](https://pubmed.ncbi.nlm.nih.gov/1948517/) | 1991 | Comparative clinical study | Sexually Transmitted Diseases | Single-dose ceftizoxime compared with ceftriaxone in uncomplicated urethral gonorrhea |
-| [6324399](https://pubmed.ncbi.nlm.nih.gov/6324399/) | 1984 | Clinical study | Sexually Transmitted Diseases | 1 g intramuscular ceftizoxime cured all 55 men, including 26 with penicillinase-producing strains; well tolerated |
-| [6325750](https://pubmed.ncbi.nlm.nih.gov/6325750/) | 1983 | Clinical study | The Japanese Journal of Antibiotics | 41 men treated with ceftizoxime plus probenecid; bacteriological and clinical evaluation of 80 isolates |
-| [6092006](https://pubmed.ncbi.nlm.nih.gov/6092006/) | 1984 | In vitro / in vivo study | Chemotherapy | Most penicillin-resistant strains were highly susceptible to ceftizoxime (MIC90 0.004 µg/mL) |
-| [11406757](https://pubmed.ncbi.nlm.nih.gov/11406757/) | 2001 | Resistance surveillance | Journal of Infection and Chemotherapy | Emergence of cephem- and aztreonam-high-resistant *N. gonorrhoeae* without beta-lactamase production |
+Currently no related literature available for Ureaplasma urethritis.
 
 ---
 
 ## India Market Information
 
+There are 18 valid single-ingredient licences. None of the licence records include approved indication text. Five main licences are listed below.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 230404 | Unizox 1gm Injection | Vial of 20 ml injection | Not stated in the license records |
-| 41380 | Cefizox 500mg Injection (Glaxo SmithKline) | Vial of 1 injection | Not stated in the license records |
-| 83173 | Eldcef 250mg Injection | Vial of 5 ml injection | Not stated in the license records |
-| 78749 | Epocelin 1gm Injection | Vial of 1 injection | Not stated in the license records |
-| 224494 | Trizox 1mg Injection | Vial of 1 powder for injection | Not stated in the license records |
+| 230404 | Unizox 1gm Injection (United Biotech Pvt Ltd) | Vial of 20 ml injection | Not stated in the records |
+| 41380 | Cefizox 500mg Injection (Glaxo SmithKline Pharmaceuticals Ltd) | Vial of 1 injection | Not stated in the records |
+| 78749 | Epocelin 1gm Injection (Shreya Life Sciences Pvt Ltd) | Vial of 1 injection | Not stated in the records |
+| 78748 | Eldcef 1gm Injection (Elder Pharmaceuticals Ltd) | Vial of 10 ml injection | Not stated in the records |
+| 224494 | Trizox 1mg Injection (Osper Formulations Pvt Ltd) | Powder for injection | Not stated in the records |
 
-All 18 registrations are valid single-ingredient injectable products; the table shows five of them.
+All products are injectable.
 
 ---
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, pyoureter, blood coagulation disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, congenital prothrombin deficiency.
-- **Drug Interactions**: 12 moderate-level interactions were identified, including:
-  - Aminoglycosides (kanamycin, neomycin, streptomycin, amikacin, amikacin liposome, gentamicin)
+- **Relations recorded in the knowledge graph (not label text)**: the knowledge graph links ceftizoxime with the following conditions as contraindications: kidney disease, pyoureter, blood coagulation disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis and congenital prothrombin deficiency.
+- **Drug Interactions**: 12 interactions, all rated Moderate:
+  - Aminoglycosides: kanamycin, neomycin, streptomycin, amikacin (including liposomal), gentamicin
   - Warfarin
   - Chloramphenicol
+  - Picosulfuric acid
   - Ethinylestradiol
   - Mycophenolic acid
   - Pemetrexed
-  - Picosulfuric acid
 
-Please refer to the package insert for warnings and formal contraindications; these were not available in the data compiled for this report.
+Please refer to the package insert for warnings and label contraindications.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Several clinical studies report high cure rates for gonococcal urethritis, and gonorrhea is already a recognised indication, so the biological plausibility is strong. However, the evidence is old, no registered trials exist, and cephalosporin-resistant gonococci have been reported, so use should be conditional on current susceptibility data.
+The prediction has no trials or literature behind it, and *Ureaplasma* lacks a cell wall, so a cell-wall-targeting beta-lactam is not expected to work. The high TxGNN score is not backed by biology.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the Indian regulator's records (currently missing and blocking for safety screening)
+- Evidence that ceftizoxime has in vitro or clinical activity against *Ureaplasma* (currently contrary to expectation)
+- Package insert warnings and contraindications from Indian licence holders
 - Mechanism of action data from DrugBank
-- Current local *N. gonorrhoeae* susceptibility data for ceftizoxime, and a comparison with presently recommended first-line agents
-- Review of renal function, bleeding risk and *C. difficile* risk, and a plan for the aminoglycoside and warfarin interactions
-
-**Other predicted indications (for reference):**
-- **Uterine inflammatory disease** (L4, Hold): plausible for pelvic inflammatory disease pathogens, but only indirect microbiology data support it.
-- **Xanthogranulomatous pyelonephritis** (L5, Hold): inferred only from the urinary infection indication; definitive management is usually surgical.
-- **Epiglottitis** (L4, Hold): organisms are within the spectrum, but no evidence is available and ceftriaxone is preferred in practice.
-- **Ureaplasma urethritis** (L5, Hold): Ureaplasma lacks a cell wall, so beta-lactams are not expected to work; likely a graph artifact.
-- **Urogenital tuberculosis** (L5, Hold): *M. tuberculosis* is intrinsically resistant to most beta-lactams; not supported by mechanism.
+- If a urogenital or gynaecological use is of interest, consider uterine inflammatory disease (pelvic inflammatory disease) as a better-grounded research question, which would need prospective comparative data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

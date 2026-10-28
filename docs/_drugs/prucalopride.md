@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Prucalopride is a selective 5-HT4 receptor agonist originally used to treat constipation disorder.
-The TxGNN model predicts it may be effective for **hypoalphalipoproteinemia** (low HDL cholesterol), but this is a knowledge-graph prediction only,
+The TxGNN model predicts it may be effective for **hypoalphalipoproteinemia** (low HDL cholesterol), but this is a TxGNN model (deep learning) prediction only,
 with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
@@ -48,9 +48,9 @@ with **0 clinical trials** and **0 publications** supporting this direction.
 |------|------|
 | Original Indication | Constipation disorder |
 | Predicted New Indication | Hypoalphalipoproteinemia |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ with **0 clinical trials** and **0 publications** supporting this direction.
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, prucalopride is a selective 5-HT4 receptor agonist that enhances gut motility, and its efficacy in constipation disorder is established.
 
-For hypoalphalipoproteinemia, however, no mechanistic link can be identified. No established pathway connects 5-HT4 agonism to HDL metabolism. The very high TxGNN score (99.82%) reflects a pattern in the knowledge graph rather than biological or clinical evidence, and should be treated as a hypothesis-generating signal only.
+For hypoalphalipoproteinemia, however, no mechanistic link can be identified. No established pathway connects 5-HT4 agonism to HDL metabolism. The very high TxGNN score (0.9982) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence, and should be treated as a hypothesis-generating signal only.
 
 Other top-ranked predictions show the same pattern. Most lipid disorders (homozygous familial hypercholesterolemia, familial combined hyperlipidemia), infections (oral candidiasis, strongyloidiasis, HIV) and duodenal ulcer have no plausible mechanistic basis. The only partially plausible direction is amyloidosis-related gut dysmotility (amyloidosis, primary amyloidosis), where a prokinetic might give symptomatic relief of intestinal pseudo-obstruction without treating the underlying disease. These have only indirect literature support (a case report and a motility-diagnosis study, neither testing prucalopride).
 

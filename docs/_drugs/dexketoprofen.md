@@ -6,9 +6,9 @@ nav_order: 252
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Dexketoprofen: predicted new indication Migraine disorder (evidence level L5). Approved use: Not specified in the data compiled for this report"
+description: "Dexketoprofen: predicted new indication Tendinitis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 monitor_inn: "Dexketoprofen"
-predicted_indications: ["tendinitis", "fibromyalgia", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
+predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
 ---
 
 # Dexketoprofen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dexketoprofen: From Pain Relief to Migraine
+## Dexketoprofen: From Pain Relief to Tendinitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,13 +49,13 @@ The TxGNN model predicts it may be effective for **migraine disorder** (the top-
 |------|------|
 | Original Indication | Not specified in the data compiled for this report (the approved indication text of the India licences is blank) |
 | Predicted New Indication | Migraine disorder (the strongest-evidence prediction; the first-ranked prediction by TxGNN is tendinitis) |
-| TxGNN Prediction Score | 99.87% (migraine disorder); 99.90% (tendinitis) |
-| Evidence Level | L1 (with caveats: the trials are Phase 4 or N/A rather than Phase 3, and are mostly emergency department studies) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| TxGNN Prediction Score | 0.9987 (migraine disorder); 0.9990 (tendinitis) |
+| Evidence Level | L5 (with caveats: the trials are Phase 4 or N/A rather than Phase 3, and are mostly emergency department studies) |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
-Note: The top-ranked prediction, tendinitis (score 99.90%), has only one indirect study (L4, Hold). This report focuses on migraine disorder, the prediction with the strongest supporting evidence.
+Note: The top-ranked prediction, tendinitis (score 0.9990), has only one indirect study (L4, Hold). This report focuses on migraine disorder, the prediction with the strongest supporting evidence.
 
 ---
 

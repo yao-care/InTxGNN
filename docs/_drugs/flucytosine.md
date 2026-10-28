@@ -46,17 +46,17 @@ Flucytosine is an antifungal prodrug marketed in India as 500 mg tablets. The Tx
 |------|------|
 | Original Indication | Not available (the approved indication text in the India licences is blank; flucytosine is known as an antifungal) |
 | Predicted New Indication | Bone Paget disease |
-| TxGNN Prediction Score | 99.04% |
+| TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled record. Based on general pharmacology, flucytosine is an antifungal prodrug. Fungal cytosine deaminase converts it to 5-fluorouracil (5-FU), which inhibits thymidylate synthase and disrupts RNA and DNA synthesis. Mammalian cells have little cytosine deaminase activity, so systemic conversion is minimal, although gut flora can convert some.
 
-No established biological link to Paget disease of bone was identified. That disease involves dysregulated osteoclast activity (for example SQSTM1/p62 mutations and RANKL/NF-κB signalling) and is treated mainly with bisphosphonates. The very high TxGNN score is a knowledge-graph prediction and does not reflect an identified mechanism.
+No established biological link to Paget disease of bone was identified. That disease involves dysregulated osteoclast activity (for example SQSTM1/p62 mutations and RANKL/NF-κB signalling) and is treated mainly with bisphosphonates. The very high TxGNN score is a TxGNN model (deep learning) prediction and does not reflect an identified mechanism.
 
 One speculative possibility is that 5-FU-derived antimetabolite effects could affect the proliferation of osteoclast precursors. There is no supporting evidence for this. Flucytosine's toxicities (bone marrow suppression, hepatotoxicity, accumulation when kidney function is impaired) and its many known drug interactions make repurposing for a chronic disease that already has effective treatment unfavourable.
 

@@ -50,10 +50,10 @@ but **no clinical trials and no publications** currently support this specific p
 |------|------|
 | Original Indication | Parkinson disease and related parkinsonian and dystonic disorders (the approved indication text for the Indian licences is not available) |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.48% |
+| TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Rasmussen encephalitis is a rare, progressive inflammatory brain disease that causes severe seizures and loss of function on one side of the brain. Glutamate receptor-mediated excitotoxicity and autoimmune mechanisms have been proposed in this disease. NMDA receptor antagonism could therefore plausibly be relevant. This link is theoretical and unverified, and the prediction rests on the model score alone.
 
-For context, other top-ranked predictions are myelitis (score 99.24%, indirect evidence from post-polio syndrome fatigue studies) and PLA2G6-associated neurodegeneration (score 99.23%, extrapolated from a case report in a related disorder). Both rank below Rasmussen encephalitis by score but have some literature, whereas Rasmussen encephalitis has none.
+For context, other top-ranked predictions are myelitis (score 0.9924, indirect evidence from post-polio syndrome fatigue studies) and PLA2G6-associated neurodegeneration (score 0.9923, extrapolated from a case report in a related disorder). Both rank below Rasmussen encephalitis by score but have some literature, whereas Rasmussen encephalitis has none.
 
 ---
 

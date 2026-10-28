@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Buserelin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 124
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Buserelin: predicted new indication Hypertrichosis (evidence level L4). Approved use: Prostate cancer"
+description: "Buserelin: predicted new indication hypertrichosis (evidence level L4). Approved use: Prostate cancer"
 monitor_inn: "Buserelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 # Buserelin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Buserelin: From Prostate Cancer to Hypertrichosis
+## Buserelin: From Prostate Cancer to hypertrichosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but only **
 |------|------|
 | Original Indication | Prostate cancer (from pharmacology data; the approved indication text in the India licences is blank) |
 | Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -65,7 +65,7 @@ By lowering sex steroids and, indirectly, androgens, buserelin could plausibly r
 
 The only publication retrieved concerns Cantu syndrome, a condition that features hypertrichosis and hypopituitarism. It discusses endocrine monitoring and does not report buserelin treatment. The very high TxGNN score is a model prediction, not clinical evidence.
 
-Other predicted indications (Ambras type hypertrichosis universalis congenita, malformation syndromes with dental or periodontal involvement, Dandy-Walker malformation syndromes, and isolated genetic hair shaft abnormalities) have no trials or literature and no plausible GnRH-related mechanism. They likely reflect graph-propagation through shared hypertrichosis or hair-phenotype nodes.
+Other predicted indications (Ambras type hypertrichosis universalis congenita, malformation syndromes with dental or periodontal involvement, Dandy-Walker malformation syndromes, and isolated genetic hair shaft abnormalities) have no trials or literature and no plausible GnRH-related mechanism. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 

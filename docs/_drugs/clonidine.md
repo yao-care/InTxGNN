@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Clonidine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension"
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-27
+description: "Clonidine: predicted new indication faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Clonidine
@@ -33,90 +33,70 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Clonidine: From Hypertension to Faciodigitogenital Syndrome
+## Clonidine: alpha-2 adrenergic agonist → faciodigitogenital syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Clonidine is an established oral and injectable medicine, originally used for hypertension (the knowledge graph also lists open-angle glaucoma and ADHD).
-The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**, a rare developmental syndrome.
-However, there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
-
----
+Clonidine is a centrally acting alpha-2 adrenergic agonist sold in India as oral tablets and an injection.
+The TxGNN model predicts it may be useful for **faciodigitogenital syndrome**, with a score of 0.9999.
+No clinical trials or publications currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (also open-angle glaucoma and attention deficit hyperactivity disorder, per the knowledge graph) |
-| Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.9993% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | faciodigitogenital syndrome |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences: 20 of 20) |
+| Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, clonidine belongs to the centrally acting alpha-2 adrenergic agonist class. Its efficacy in hypertension is proven, and it also has established uses in neurobehavioural conditions such as ADHD.
+Currently, detailed mechanism of action data is not available. Clonidine is known as an alpha-2 adrenergic agonist that lowers noradrenergic tone, but no data compiled for this report links that action to faciodigitogenital syndrome.
 
-For faciodigitogenital syndrome, no mechanistic link could be established. This is a rare developmental syndrome, and no plausible alpha-2 adrenergic pathway is tied to its pathogenesis. The score is very high (0.99999), but with no trials or literature behind it, this prediction is most likely a graph-based artifact rather than a real therapeutic signal.
-
----
+Faciodigitogenital syndrome is a rare developmental syndrome. No plausible alpha-2 adrenergic pathway is known in its pathogenesis. The very high score is therefore best read as a computational artifact rather than a mechanism-based signal. The prediction is not supported by any trial, publication or mechanistic argument.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Clonidine is marketed in India, with 20 valid single-ingredient registrations and no cancelled ones. Five main authorizations are listed below. The approved indication text is not provided for these products.
+Clonidine is marketed in India. All 20 records are valid, and all are single-ingredient products. The data compiled for this report carry no approved-indication text for these records. The main ones are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 612 | Arkamin H Tablet | Strip of 10 tablets | Not listed |
-| Registration No. 36402 | Catapres 150mcg Tablet | Bottle of 100 tablets | Not listed |
-| Registration No. 16 | Arkamin Tablet | Strip of 30 tablets | Not listed |
-| Registration No. 1219 | Arkapres 100 Tablet | Strip of 10 tablets | Not listed |
-| Registration No. 34732 | Cloneon Injection | Vial of 1 ml injection | Not listed |
-
-Available forms include oral tablets and an injectable.
-
----
+| 612 | Arkamin H Tablet | Strip of 10 tablets | Not recorded |
+| 37962 | Cata-Dict 0.1 Tablet | Strip of 10 tablets | Not recorded |
+| 36402 | Catapres 150mcg Tablet | Bottle of 100 tablets | Not recorded |
+| 1751 | Arkapres 150 Tablet | Strip of 10 tablets | Not recorded |
+| 34732 | Cloneon Injection | Vial of 1 ml injection | Not recorded |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 234 interactions were identified in total. The ones listed here are all rated Moderate:
-  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
-  - Antidiabetic agents: insulins, sulfonylureas (glipizide, glimepiride, glyburide, chlorpropamide, acetohexamide), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
-  - Others: morphine, bupropion, dronabinol
-- **Knowledge-Graph Contraindication Signals** (graph-derived, not label text, so interpret with caution): hypotensive disorder, myocardial infarction and ischemia, heart conduction disease, sudden cardiac arrest, diabetes mellitus (type 1 and 2) and diabetic ketoacidosis, liver failure, pancreatitis, anuria, respiratory failure, and several electrolyte or metabolic disorders.
+- **Drug Interactions**: 234 interactions were identified. The ones listed here are all of moderate level. They include corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide), morphine, bupropion, dronabinol, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), sulfonylureas (chlorpropamide, acetohexamide, glimepiride, glipizide, glyburide) and insulins.
 
-Please refer to the package insert for label-based warnings and contraindications.
-
----
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature, and no plausible mechanism for faciodigitogenital syndrome. It is not supported by any real-world evidence. For comparison, other predictions for clonidine have more support: Tourette syndrome (guideline-recommended, Phase 4 trials) and, more weakly, mania, migraine and obesity-related hypertension physiology. These are better candidates for follow-up than this one.
+The score is very high, but there are no clinical trials, no publications and no plausible mechanistic link. The prediction is likely a model artifact, and evidence is at the lowest level (L5).
 
 **To proceed, the following is needed:**
-- Mechanism of action data to support any mechanistic-link analysis
-- Package insert warnings and contraindications from the Indian regulatory sources (a blocking gap for safety screening)
-- Any preclinical or clinical evidence linking clonidine to this syndrome; without it, resources are better directed to the better-supported indications above
+- Mechanism of action data for clonidine and any biological rationale linking alpha-2 agonism to this syndrome
+- Preclinical or case-level evidence in the condition
+- Package insert warnings and contraindications for the Indian products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

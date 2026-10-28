@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydroquinone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 413
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
-description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L4). Approved use: Not stated in the licence records compiled for this report (the produ…"
+last_modified_at: 2026-10-28
 monitor_inn: "Hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
+description: "Hydroquinone: predicted new indication Seborrheic keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroquinone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Hydroquinone: From Topical Skin Depigmentation to Seborrheic Keratosis
+## Hydroquinone: Seborrheic keratosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,11 +44,11 @@ Hydroquinone is a topical skin-lightening agent that is widely marketed in India
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records compiled for this report (the products are topical depigmenting creams and ointments) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Seborrheic keratosis |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,9 +59,9 @@ Currently, detailed mechanism of action data is not available in the data compil
 Seborrheic keratosis is a benign epidermal growth that is often pigmented. Reducing melanin could in theory lighten the lesions, so a mechanistic link is plausible. However, the link is indirect. Seborrheic keratosis is a proliferative lesion, not mainly a disorder of melanin production, so depigmentation would at best change the colour and not treat the growth. The very high TxGNN score is a computational prediction and should not be read as clinical evidence.
 
 Other predictions in the model output are weaker still:
-- **Vulvar inverted follicular keratosis** (score 99.64%): no trials or literature; it is usually managed by excision, and applying hydroquinone to vulvar mucosa raises irritation concerns.
-- **Exanthem** (99.42%): the only trial concerned an herbal depigmenting system for melasma and does not address exanthems.
-- **Lichen disease** (99.07%): hydroquinone might help the leftover pigmentation of pigmented lichenoid disorders, but it would not treat the inflammation. The one case report found benefit from topical tacrolimus, not hydroquinone.
+- **Vulvar inverted follicular keratosis** (score 0.9964): no trials or literature; it is usually managed by excision, and applying hydroquinone to vulvar mucosa raises irritation concerns.
+- **Exanthem** (0.9942): the only trial concerned an herbal depigmenting system for melasma and does not address exanthems.
+- **Lichen disease** (0.9907): hydroquinone might help the leftover pigmentation of pigmented lichenoid disorders, but it would not treat the inflammation. The one case report found benefit from topical tacrolimus, not hydroquinone.
 
 ## Clinical Trial Evidence
 

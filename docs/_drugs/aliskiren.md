@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Aliskiren
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 34
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Aliskiren: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension / hypertensive disorder"
+description: "Aliskiren: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L4). Approved use: Hypertension / hypertensive disorder"
 monitor_inn: "Aliskiren"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 # Aliskiren
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Aliskiren: From Hypertension to Pulmonary Hypertension (Hypoxia/Lung Disease-Related)
+## Aliskiren: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ Among the seven predicted indications, the most developed evidence is for **cere
 |------|------|
 | Original Indication | Hypertension / hypertensive disorder |
 | Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia (rank 2; rank 1 is pulmonary hypertension with unclear multifactorial mechanism) |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 *Note: Rank 1 (pulmonary hypertension with unclear multifactorial mechanism) has no trials or publications (L5). This report focuses on rank 2, which has the more informative evidence, and summarises the other predictions at the end.*
@@ -118,10 +118,10 @@ The TxGNN score is very high, but there are no clinical trials and the supportin
 |------|------|------|------|
 | 1 | Pulmonary hypertension with unclear multifactorial mechanism | L5 | Hold |
 | 3 | Malignant renovascular hypertension | L4 | Hold |
-| 4 | Malignant hypertensive renal disease | L4 | Hold |
+| 4 | Malignant hypertensive renal disease | L5 | Hold |
 | 5 | Braddock syndrome | L5 | Hold |
 | 6 | Chronic pulmonary heart disease | L4 | Hold |
-| 7 | Cerebrovascular disorder | L3 | Research Question |
+| 7 | Cerebrovascular disorder | L5 | Research Question |
 
 Cerebrovascular disorder has the strongest support: animal studies show neuroprotection (PMIDs 21124781, 27180190, 21859961), and trial NCT01417104 (ALPINE, Phase 2/3, terminated, 71 participants, surrogate MRI plaque endpoint) tested aliskiren in atherosclerosis. Human evidence for stroke treatment is indirect.
 

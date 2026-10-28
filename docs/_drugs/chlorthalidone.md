@@ -4,17 +4,17 @@ title: Chlorthalidone
 parent: Model Prediction Only (L5)
 nav_order: 177
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
+indication_count: 9
+last_modified_at: 2026-10-28
 monitor_inn: "Chlorthalidone"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
+description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chlorthalidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Chlorthalidone: From Hypertension to Primary Hereditary Glaucoma
+## Chlorthalidone: Primary hereditary glaucoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no relevant publications** currently support this p
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder, hypertension, congestive heart failure |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,12 +60,12 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Chlorthalidone has no established role in lowering intraocular pressure or in the genetic pathways of hereditary glaucoma. The high score is more likely driven by network proximity to other diuretics or carbonic anhydrase inhibitors, which has not been validated.
 
-A related prediction, **open-angle glaucoma** (score 99.90%), has a weak theoretical basis. Chlorthalidone has mild carbonic anhydrase inhibitory activity that could relate to aqueous humor dynamics, but no clinical or literature evidence supports it, and systemic diuretics are not an established glaucoma therapy.
+A related prediction, **open-angle glaucoma** (score 0.9990), has a weak theoretical basis. Chlorthalidone has mild carbonic anhydrase inhibitory activity that could relate to aqueous humor dynamics, but no clinical or literature evidence supports it, and systemic diuretics are not an established glaucoma therapy.
 
 Among the other top-ranked predictions, the more biologically plausible ones are extensions of the hypertension indication:
 
-- **Malignant renovascular hypertension** and **malignant hypertensive renal disease** (both 99.89%): these are plausible extensions of the approved indication, but there is no supporting evidence. These are severe, hypertensive-emergency-type settings where chlorthalidone is not a standard agent. Volume depletion may also further activate the renin-angiotensin system.
-- **Chronic pulmonary heart disease** (99.82%): this is the only prediction with some indirect support, a 1967 clinical report of chlorthalidone in congestive heart failure caused by chronic cor pulmonale. It reflects symptomatic volume management, not disease modification.
+- **Malignant renovascular hypertension** and **malignant hypertensive renal disease** (both 0.9990): these are plausible extensions of the approved indication, but there is no supporting evidence. These are severe, hypertensive-emergency-type settings where chlorthalidone is not a standard agent. Volume depletion may also further activate the renin-angiotensin system.
+- **Chronic pulmonary heart disease** (0.9982): this is the only prediction with some indirect support, a 1967 clinical report of chlorthalidone in congestive heart failure caused by chronic cor pulmonale. It reflects symptomatic volume management, not disease modification.
 
 ## Clinical Trial Evidence
 
@@ -119,7 +119,7 @@ Package insert warnings and contraindications were not retrieved. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The primary hereditary glaucoma prediction has a very high model score (99.92%) but no clinical trials, no literature, and no plausible mechanistic link. Chlorthalidone is not an established treatment for any form of glaucoma, so the prediction is likely a network artifact. Package insert safety data have not been retrieved, so safety screening cannot proceed.
+The primary hereditary glaucoma prediction has a very high model score (0.9992) but no clinical trials, no literature, and no plausible mechanistic link. Chlorthalidone is not an established treatment for any form of glaucoma, so the prediction is likely a network artifact. Package insert safety data have not been retrieved, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank)

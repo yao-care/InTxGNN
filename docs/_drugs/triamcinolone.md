@@ -4,7 +4,7 @@ title: Triamcinolone
 parent: Model Prediction Only (L5)
 nav_order: 861
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Triamcinolone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Autoimmune disease, adrenocortical insufficiency…"
 monitor_inn: "Triamcinolone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's f
 # Triamcinolone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ This is a model prediction with very limited supporting evidence.
 |------|------|
 | Original Indication | Autoimmune disease, adrenocortical insufficiency, Crohn disease / inflammatory bowel disease, acute lymphoblastic leukaemia and others (the approved indication text in the India licence records is blank) |
 | Predicted New Indication | Alopecia mucinosa |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction with no clinical trials; only case reports available) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

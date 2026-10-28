@@ -4,17 +4,17 @@ title: Estramustine
 parent: Model Prediction Only (L5)
 nav_order: 324
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Estramustine: predicted new indication Prostate cancer/brain cancer susceptibility (evidence level L5). Approved use: Prostate cancer"
 monitor_inn: "Estramustine"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "female breast carcinoma", "HIV infectious disease", "breast fibrocystic disease"]
+description: "Estramustine: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Estramustine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Estramustine: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+## Estramustine: Fibroma of prostate
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,27 +45,26 @@ The TxGNN model's top-ranked prediction is **prostate cancer/brain cancer suscep
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer (the India licence records contain no indication text) |
-| Predicted New Indication | Prostate cancer/brain cancer susceptibility (top-ranked prediction) |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Fibroma of prostate |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 for the top-ranked prediction (model prediction only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
-**Note on the top-ranked prediction:** It is a genetic susceptibility entity that overlaps with prostate cancer mainly by name. The high score probably reflects graph proximity to prostate cancer. The sections below therefore also cover the other candidates that have real evidence (breast carcinoma and the male reproductive organ cancer category).
+**Note on the top-ranked prediction:** It is a genetic susceptibility entity that overlaps with prostate cancer mainly by name.
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. From the literature, estramustine is an estradiol conjugated to a nitrogen mustard carbamate. It binds tubulin and microtubule-associated proteins, depolymerises microtubules, and disrupts the nuclear matrix. It is concentrated in prostatic tissue through estramustine-binding protein (EMBP).
 
-For the top-ranked prediction, no mechanistic link to a susceptibility phenotype has been shown. The score most likely reflects graph proximity to prostate cancer rather than a real therapeutic signal. The same is true of the other benign or rare prostate and ovarian entities (fibroma of prostate, prostate leiomyoma, benign prostate phyllodes tumor, Brenner tumor, breast fibrocystic disease). HIV infection also has no plausible mechanism.
+For the top-ranked prediction, no mechanistic link to a susceptibility phenotype has been shown. The same is true of the other benign or rare prostate and ovarian entities (fibroma of prostate, prostate leiomyoma, benign prostate phyllodes tumor, Brenner tumor, breast fibrocystic disease). HIV infection also has no plausible mechanism.
 
 The most credible new direction is **female breast carcinoma**. EMBP expression has been described in human breast cancer, and estramustine potentiates taxanes in refractory breast cancer. A Phase 1 study with paclitaxel and a single-agent report after anthracycline and taxane failure suggest activity. Taxanes alone are standard in breast cancer, so the added value of estramustine is unproven.
 
 ## Clinical Trial Evidence
 
-**Top-ranked prediction (prostate cancer/brain cancer susceptibility):** Currently no related clinical trials registered.
 
 **Female breast carcinoma (rank 8):**
 
@@ -73,7 +72,6 @@ The most credible new direction is **female breast carcinoma**. EMBP expression 
 |---------|------|------|------|---------|
 | [NCT00003066](https://clinicaltrials.gov/study/NCT00003066) | Phase 2 | Unknown | 40 | Docetaxel plus estramustine phosphate in metastatic breast cancer; small single-arm study |
 
-**Male reproductive organ cancer (rank 6)**, a category dominated by prostate cancer, the existing indication (selected trials):
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -128,7 +126,7 @@ These trials support the existing prostate cancer label, not a new indication.
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (knowledge-graph associations, not label text):** hypertension, epilepsy, kidney disease, liver disease, gallbladder disease, congestive heart failure, diabetes mellitus and diabetic ketoacidosis, hypercalcaemia, thrombophlebitis, migraine, coronary artery disease and myocardial infarction, cerebrovascular disorder, hyperbilirubinaemia and Gilbert syndrome, haemoglobinopathy, and gynaecomastia/breast hypertrophy. Erectile dysfunction, premature ejaculation and psychologic dyspareunia are also listed.
+- Erectile dysfunction, premature ejaculation and psychologic dyspareunia are also listed.
 - **Drug Interactions:** 111 interactions were identified, all of the 20 listed in the data being Moderate. They include:
   - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
   - Antidiabetic agents: acarbose, metformin, canagliflozin, dapagliflozin, empagliflozin, alogliptin, linagliptin, chlorpropamide, albiglutide, dulaglutide
@@ -144,7 +142,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (prostate cancer/brain cancer susceptibility) has a very high score but no trials, no literature and no plausible mechanism, so it is likely a graph artefact. The only direction with real evidence is female breast carcinoma, which has a single small Phase 2 trial (status unknown) and no Phase 3 data. It is best treated as a research question, not an actionable repurposing candidate. The substantial prostate cancer evidence supports the existing label, not a new use.
+The only direction with real evidence is female breast carcinoma, which has a single small Phase 2 trial (status unknown) and no Phase 3 data. It is best treated as a research question, not an actionable repurposing candidate. The substantial prostate cancer evidence supports the existing label, not a new use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India licences (currently missing, and a blocking gap for safety screening)

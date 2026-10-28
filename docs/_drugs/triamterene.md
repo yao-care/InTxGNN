@@ -4,17 +4,17 @@ title: Triamterene
 parent: Model Prediction Only (L5)
 nav_order: 862
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
+indication_count: 5
+last_modified_at: 2026-10-28
 monitor_inn: "Triamterene"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Triamterene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Triamterene: From Hypertension and Heart Failure to Malignant Hypertensive Renal Disease
+## Triamterene: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no relevant publications** currently support this p
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder, hypertension, congestive heart failure (the Indian licence lists no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,10 +61,10 @@ Currently, detailed mechanism of action data is not available in the data compil
 However, this link is only conceptual. The very high TxGNN score most likely reflects similarity to the already approved hypertension indication rather than independent evidence. In malignant hypertension with kidney involvement, kidney function is often impaired, and a potassium-sparing agent carries a real risk of hyperkalaemia. This weakens the case for the prediction.
 
 Other predicted indications were also reviewed and are weaker or equally unsupported:
-- **Malignant renovascular hypertension** (99.89%): this form is largely driven by the renin-angiotensin system, which a potassium-sparing diuretic does not address.
-- **Pulmonary hypertension** (two entries, 99.88%): there is no clear mechanistic rationale, and diuretics would at most relieve volume overload symptomatically.
-- **Braddock syndrome** (99.84%): no mechanistic rationale can be established.
-- **Chronic pulmonary heart disease** (99.75%): the only indication with indirect, symptom-level support, from two small studies of diuretic therapy in chronic heart failure (Evidence Level L4).
+- **Malignant renovascular hypertension** (0.9989): this form is largely driven by the renin-angiotensin system, which a potassium-sparing diuretic does not address.
+- **Pulmonary hypertension** (two entries, 0.9988): there is no clear mechanistic rationale, and diuretics would at most relieve volume overload symptomatically.
+- **Braddock syndrome** (0.9984): no mechanistic rationale can be established.
+- **Chronic pulmonary heart disease** (0.9975): the only indication with indirect, symptom-level support, from two small studies of diuretic therapy in chronic heart failure (Evidence Level L4).
 
 ## Clinical Trial Evidence
 

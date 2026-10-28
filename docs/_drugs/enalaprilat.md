@@ -48,10 +48,10 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 |------|------|
 | Original Indication | Hypertensive disorder, hypertension, congestive heart failure, heart failure (the licence record contains no approved indication text) |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.09% |
+| TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

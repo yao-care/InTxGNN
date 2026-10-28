@@ -4,17 +4,17 @@ title: Meropenem
 parent: Moderate Evidence (L3-L4)
 nav_order: 528
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Pseudomonas aeruginosa infection, meningococcal infection…"
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "gonococcal urethritis", "Ureaplasma urethritis"]
+description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Meropenem
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Meropenem: From Bacterial Infections (Pseudomonas aeruginosa Infection, Meningitis, Peritonitis) to Bacterial Arthritis
+## Meropenem: Bacterial arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The **19 publications** retrieved are mostly case reports, retrospective cohorts
 
 | Item | Content |
 |------|------|
-| Original Indication | Pseudomonas aeruginosa infection, meningococcal infection, bacterial meningitis, peritonitis (from the knowledge-graph indication list; no approved indication text in the licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bacterial arthritis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -111,7 +111,7 @@ Please refer to the package insert for label-based warnings and contraindication
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.92%), but the supporting evidence is indirect: no registered trials, and literature limited to case reports, retrospective series, susceptibility surveys and laboratory studies. Meropenem is also a reserve carbapenem, so stewardship considerations argue against broad use for joint infections without stronger evidence.
+The prediction score is very high (0.9992), but the supporting evidence is indirect: no registered trials, and literature limited to case reports, retrospective series, susceptibility surveys and laboratory studies. Meropenem is also a reserve carbapenem, so stewardship considerations argue against broad use for joint infections without stronger evidence.
 
 **To proceed, the following is needed:**
 - Clinical data in bacterial arthritis, such as prospective or comparative studies versus standard therapy, ideally pathogen-specific (for example ESBL-producing Enterobacterales or melioidosis).

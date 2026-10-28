@@ -50,9 +50,9 @@ The better-supported predictions are in otitis media (infectious, suppurative an
 |------|------|
 | Original Indication | Bacterial infections (pneumonia, meningitis, gonorrhea, salmonellosis, bacterial arthritis, among others); no approved indication text is available from the India licences |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score | 99.39% |
+| TxGNN Prediction Score | 0.9939 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,15 +62,15 @@ The better-supported predictions are in otitis media (infectious, suppurative an
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, ceftriaxone is a third-generation cephalosporin that inhibits bacterial cell wall synthesis, and its efficacy in bacterial infections is well established.
 
-**For the top-ranked prediction, the rationale is weak.** Polyclonal hyperviscosity syndrome is a haematologic/immunologic condition driven by elevated immunoglobulins, and an antibacterial would not be expected to address it. The high score (0.994) is a knowledge-graph prediction with no supporting trials or literature. Other top-ranked predictions are similarly unsupported: hyperamylasemia (a laboratory finding), congenital analbuminemia (a genetic albumin synthesis disorder, where ceftriaxone's high albumin binding is only a dosing consideration) and blood group incompatibility (an immune-mediated process).
+**For the top-ranked prediction, the rationale is weak.** Polyclonal hyperviscosity syndrome is a haematologic/immunologic condition driven by elevated immunoglobulins, and an antibacterial would not be expected to address it. The high score (0.9939) is a TxGNN model (deep learning) prediction with no supporting trials or literature. Other top-ranked predictions are similarly unsupported: hyperamylasemia (a laboratory finding), congenital analbuminemia (a genetic albumin synthesis disorder, where ceftriaxone's high albumin binding is only a dosing consideration) and blood group incompatibility (an immune-mediated process).
 
 **The otitis media predictions are biologically plausible.** Ceftriaxone is active against the main otitis media pathogens (*Streptococcus pneumoniae*, *Haemophilus influenzae*, *Moraxella catarrhalis*).
 
 | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Infectious otitis media | 99.26% | L3 | Strong plausibility; likely already an established use (single-dose intramuscular ceftriaxone), so label-adjacent rather than true repurposing |
-| Suppurative otitis media | 99.02% | L3 | Plausible, but chronic cases often involve *Pseudomonas aeruginosa* and biofilm producers, against which ceftriaxone has limited activity; evidence is largely descriptive or dated |
-| Chronic otitis media | 99.01% | L3 | Partially plausible; the literature is mostly susceptibility surveys, and topical therapy is generally preferred |
+| Infectious otitis media | 0.9926 | L3 | Strong plausibility; likely already an established use (single-dose intramuscular ceftriaxone), so label-adjacent rather than true repurposing |
+| Suppurative otitis media | 0.9902 | L3 | Plausible, but chronic cases often involve *Pseudomonas aeruginosa* and biofilm producers, against which ceftriaxone has limited activity; evidence is largely descriptive or dated |
+| Chronic otitis media | 0.9901 | L3 | Partially plausible; the literature is mostly susceptibility surveys, and topical therapy is generally preferred |
 
 ---
 

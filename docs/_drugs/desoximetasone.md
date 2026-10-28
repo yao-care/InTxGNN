@@ -48,10 +48,10 @@ with **1 randomized, double-blind, placebo-controlled trial publication** and **
 |------|------|
 | Original Indication | Inflammatory skin conditions (e.g., atopic dermatitis, contact dermatitis, seborrheic dermatitis, discoid lupus erythematosus). Approved indication text was not available on the India licences. |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: The drug-disease contraindication links include pituitary hormone deficiencies (e.g., hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism, Kallmann syndrome, Sheehan syndrome), thymus gland disease, skin atrophy, and peripheral vascular disease (peripheral arterial disease, intermittent claudication). Skin atrophy is particularly relevant to prolonged topical use.
+- **Contraindications (from TxGNN model (deep learning) associations, not label text)**: The drug-disease contraindication links come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. They include pituitary hormone deficiencies (e.g., hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism, Kallmann syndrome, Sheehan syndrome), thymus gland disease, skin atrophy, and peripheral vascular disease (peripheral arterial disease, intermittent claudication). Skin atrophy is particularly relevant to prolonged topical use.
 - **Drug Interactions**: Only a pharmacological target association was identified (glucocorticoid receptor, NR3C1). No specific drug-drug interactions were reported.
 
 Please also refer to the package insert for full safety information.

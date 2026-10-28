@@ -4,7 +4,7 @@ title: Mitoxantrone
 parent: Model Prediction Only (L5)
 nav_order: 562
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Mitoxantrone: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Acute myeloid leukemia and related myeloid leukemias"
 monitor_inn: "Mitoxantrone"
@@ -14,7 +14,7 @@ predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung c
 # Mitoxantrone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ A closely related prediction, **head and neck cancer** (rank 7), has the stronge
 |------|------|
 | Original Indication | Acute myeloid leukemia and related myeloid leukemias (the product licenses list no indication text) |
 | Predicted New Indication | Upper aerodigestive tract neoplasm |
-| TxGNN Prediction Score | 99.78% |
-| Evidence Level | L4 (preclinical, mechanistic and older phase II literature only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| TxGNN Prediction Score | 0.9978 |
+| Evidence Level | L5 (preclinical, mechanistic and older phase II literature only) |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 Note: Other predictions are far better supported. Head and neck cancer is rated L1 in the underlying data, but that rating is provisional (see below). Blast-crisis chronic myeloid leukemia is rated L3. The remaining predictions (small cell lung carcinoma, primary pulmonary lymphoma, fetal adenocarcinoma of the lung, pulmonary blastoma, bladder exstrophy complex) are L4–L5 and rated Hold.
@@ -121,7 +121,7 @@ All four registrations are valid single-ingredient injectable products.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no registered trials and only older, mostly negative or modest phase II literature, so evidence stays at L4 despite a 99.78% model score. The related head and neck cancer entry is rated L1 in the data, but that rests on a phase III trial that is not yet recruiting and has no results. L2 is the more defensible level, and the liposomal formulation is not the same product as the conventional injections registered in India.
+The top-ranked prediction has no registered trials and only older, mostly negative or modest phase II literature, so evidence stays at L4 despite a 0.9978 model score. The related head and neck cancer entry is rated L1 in the data, but that rests on a phase III trial that is not yet recruiting and has no results. L2 is the more defensible level, and the liposomal formulation is not the same product as the conventional injections registered in India.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products (currently a blocking gap)

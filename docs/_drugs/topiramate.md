@@ -4,7 +4,7 @@ title: Topiramate
 parent: Model Prediction Only (L5)
 nav_order: 848
 evidence_level: L5
-indication_count: 9
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Topiramate: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (generalized tonic-clonic seizures, partial epilepsy…"
 monitor_inn: "Topiramate"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 # Topiramate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 Topiramate is an anticonvulsant originally used for epilepsy (generalized tonic-clonic seizures, partial epilepsy and Lennox-Gastaut syndrome).
 The TxGNN model's top-ranked prediction is **trigeminal nerve neoplasm**, but there are **no clinical trials and no publications** supporting it; this is a computational prediction only.
-The better-supported candidates are reflex-seizure conditions (such as audiogenic seizures, thinking seizures and reading seizures), which are essentially extensions of the existing epilepsy use.
 
 ---
 
@@ -50,13 +49,13 @@ The better-supported candidates are reflex-seizure conditions (such as audiogeni
 |------|------|
 | Original Indication | Epilepsy (generalized tonic-clonic seizures, partial epilepsy, Lennox-Gastaut syndrome) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.70% |
+| TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-The original indications come from the TxGNN knowledge graph, because the Indian licence records contain no indication text.
+The original indications come from the TxGNN knowledge graph's record of known uses, because the Indian licence records contain no indication text.
 
 ---
 
@@ -64,20 +63,12 @@ The original indications come from the TxGNN knowledge graph, because the Indian
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Topiramate is a broad-spectrum antiseizure drug, and its efficacy in epilepsy is established. Literature retrieved for other predictions describes its actions as sodium channel blockade, GABA-A enhancement, AMPA/kainate antagonism and weak carbonic anhydrase inhibition.
 
-For the top-ranked prediction, **trigeminal nerve neoplasm**, none of these actions has an established link to tumour biology. Any benefit would at most be symptomatic, for example control of related neuropathic pain, and the data compiled here do not support even that. The very high score (99.70%) should therefore be treated as a model output, not as evidence of efficacy.
+For the top-ranked prediction, **trigeminal nerve neoplasm**, none of these actions has an established link to tumour biology. Any benefit would at most be symptomatic, for example control of related neuropathic pain, and the data compiled here do not support even that. The very high score (0.9970) should therefore be treated as a model output, not as evidence of efficacy.
 
 The other predictions are more plausible mechanistically because they are seizure disorders:
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |---|---|---|---|---|
-| 2 | Visual epilepsy | 99.28% | L4 | Indirect evidence; effectively an extension of the existing epilepsy indication |
-| 3 | Eating seizures | 99.21% | L4 | Literature mainly covers eating disorders and adverse events, not reflex eating seizures |
-| 4 | Orgasm-induced seizures | 99.21% | L5 | No evidence |
-| 5 | Audiogenic seizures | 99.21% | L4 | Animal data show anticonvulsant activity in DBA/2 mice; no human data |
-| 6 | Thinking seizures | 99.21% | L4 | Cochrane reviews support add-on use in drug-resistant partial epilepsy, but nothing is specific to this entity |
-| 7 | Micturition-induced seizures | 99.21% | L4 | Generic epilepsy reviews only |
-| 8 | Startle epilepsy | 99.21% | L5 | No evidence |
-| 9 | Reading seizures | 99.09% | L4 | Indirect evidence only |
 
 ---
 

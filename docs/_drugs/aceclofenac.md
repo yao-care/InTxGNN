@@ -4,17 +4,17 @@ title: Aceclofenac
 parent: Model Prediction Only (L5)
 nav_order: 16
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Aceclofenac: predicted new indication Brachyolmia-amelogenesis imperfecta syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis…"
 monitor_inn: "Aceclofenac"
-predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
+predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
 ---
 
 # Aceclofenac
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Aceclofenac is an oral NSAID originally used to relieve pain and inflammation in rheumatoid arthritis, ankylosing spondylitis and osteoarthritis.
 The TxGNN model ranks **brachyolmia-amelogenesis imperfecta syndrome** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it, so it is a model prediction only.
-The only prediction with a literature base is **inflammatory spondylopathy**, and that overlaps with aceclofenac's existing indications.
 
 ## Quick Overview
 
@@ -48,9 +47,9 @@ The only prediction with a literature base is **inflammatory spondylopathy**, an
 |------|------|
 | Original Indication | Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, arthropathy, frozen shoulder (the license records in the data compiled for this report contain no approved indication text) |
 | Predicted New Indication | Brachyolmia-amelogenesis imperfecta syndrome |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,9 +57,9 @@ The only prediction with a literature base is **inflammatory spondylopathy**, an
 
 Detailed mechanism of action data is not available for this report. Aceclofenac is a phenylacetic acid-derivative NSAID, related to diclofenac. The literature describes it as having analgesic and anti-inflammatory effects, mainly through prostaglandin inhibition. Its efficacy in rheumatoid arthritis, osteoarthritis and ankylosing spondylitis is well documented.
 
-For the top-ranked prediction, a plausible mechanistic link is hard to find. Brachyolmia-amelogenesis imperfecta syndrome is a rare genetic skeletal and dental developmental disorder. An NSAID would not be expected to alter its underlying pathology. The same holds for the next few predictions (acromesomelic dysplasia Hunter-Thompson type, brachyolmia, pseudoachondroplasia). These are genetic skeletal dysplasias, and the high scores most likely reflect network proximity to musculoskeletal terms in the knowledge graph rather than a real pharmacological relationship.
+For the top-ranked prediction, a plausible mechanistic link is hard to find. Brachyolmia-amelogenesis imperfecta syndrome is a rare genetic skeletal and dental developmental disorder. An NSAID would not be expected to alter its underlying pathology. The same holds for the next few predictions (acromesomelic dysplasia Hunter-Thompson type, brachyolmia, pseudoachondroplasia). These are genetic skeletal dysplasias, and the high scores come from the TxGNN model (deep learning) and most likely reflect similarities the model learned between related diseases, not biological evidence or a real pharmacological relationship.
 
-Among the top 10 predictions, only **inflammatory spondylopathy** (score 99.63%) has a strong indirect rationale. Aceclofenac is already used in ankylosing spondylitis, a prototypical inflammatory spondylopathy. Because this overlaps with existing indications, it is not a true repurposing opportunity. Other predictions (rheumatoid vasculitis, polyarticular juvenile rheumatoid arthritis, hypermobility of coccyx, myosclerosis) have only class-level or speculative links. Kummell disease would at most receive analgesia.
+Hypermobility of coccyx and myosclerosis have only class-level or speculative links. Kummell disease would at most receive analgesia.
 
 ## Clinical Trial Evidence
 
@@ -68,7 +67,7 @@ Currently no related clinical trials registered for the top-ranked prediction, o
 
 ## Literature Evidence
 
-Currently no related literature is available for the top-ranked prediction. The table below lists the most relevant publications found for the best-supported prediction, inflammatory spondylopathy (rank 8). They concern ankylosing spondylitis and general musculoskeletal use, which are existing indications.
+Currently no related literature is available for the top-ranked prediction.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -106,7 +105,7 @@ One literature item is a case report of generalized pustular psoriasis precipita
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, brachyolmia-amelogenesis imperfecta syndrome, rests on a graph-based score alone. There are no trials or publications, and no plausible mechanistic link between an NSAID and a genetic skeletal and dental developmental disorder. The nine other top predictions are either similarly unsupported or overlap with aceclofenac's established indications (inflammatory spondylopathy), so none represents a validated new repurposing opportunity.
+The top-ranked prediction, brachyolmia-amelogenesis imperfecta syndrome, rests on a score from the TxGNN model (deep learning) alone, which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications, and no plausible mechanistic link between an NSAID and a genetic skeletal and dental developmental disorder. The nine other top predictions are similarly unsupported, so none represents a validated new repurposing opportunity.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products (blocking for any safety screening)

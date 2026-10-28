@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dipyridamole
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 276
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Dipyridamole: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Atrial fibrillation"
+evidence_level: L4
+indication_count: 8
 monitor_inn: "Dipyridamole"
-predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
+predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-10-23
+description: "Dipyridamole: predicted new indication Thrombotic disease (evidence level L4). Approved use: Atrial fibrillation"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,124 +33,96 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dipyridamole: From Atrial Fibrillation to Prinzmetal Angina
+## Dipyridamole: From Atrial Fibrillation to Thrombotic Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dipyridamole is an antiplatelet and vasodilating drug, listed in the knowledge graph under atrial fibrillation as its source indication.
-The TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this one is supported only by diagnostic and observational literature (**0 clinical trials**, **10 publications**).
-The best-supported prediction is **stroke disorder** (rank 2), backed by **8 clinical trials** and **19 publications**, including the large ESPRIT trial. This is an established use rather than a novel repurposing.
-
----
+Dipyridamole is an antiplatelet and vasodilator drug. The knowledge graph records atrial fibrillation as its original indication, but this is a recorded relation, not an approved indication.
+The TxGNN model predicts it may be effective for **thrombotic disease**, a broad category.
+No clinical trials are registered for this term, and the supporting evidence is **about 10 relevant publications**, mostly older narrative reviews and one case report.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (from the knowledge graph; no approved indication text is available from the India licences) |
-| Predicted New Indication | Prinzmetal angina (rank 1); stroke disorder (rank 2) is the best-supported alternative |
-| TxGNN Prediction Score | 99.99% (Prinzmetal angina); 99.95% (stroke disorder) |
-| Evidence Level | L4 for Prinzmetal angina; L1 for stroke disorder |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold for Prinzmetal angina; Proceed with Guardrails for stroke disorder |
-
----
+| Original Indication | Atrial fibrillation (a relation recorded in the knowledge graph; the local licence records contain no approved indication text) |
+| Predicted New Indication | Thrombotic disease |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L4 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the literature, dipyridamole inhibits adenosine reuptake and phosphodiesterase (PDE) activity. This raises cAMP and cGMP in platelets and vascular smooth muscle, which reduces platelet aggregation and causes vasodilation.
+Dipyridamole inhibits adenosine reuptake (via ENT1) and phosphodiesterases (PDE3/PDE5). This raises extracellular adenosine and platelet cAMP/cGMP levels, which suppresses platelet aggregation. The literature also describes possible vascular protective effects, including potentiation of nitric oxide signalling and antioxidant activity.
 
-**Prinzmetal angina (rank 1).** The mechanistic link is weak. In the retrieved literature, dipyridamole appears mainly as a pharmacologic stress-test agent. One report describes aminophylline reversal after dipyridamole stress triggering coronary vasospasm in variant angina. That is diagnostic and pathophysiological context, not evidence of therapeutic benefit. Adenosine-mediated coronary steal could even worsen vasospasm in susceptible patients.
+Atrial fibrillation is a thromboembolic-risk condition, and thrombotic disease is driven largely by platelet activation and clot formation. The antiplatelet mechanism therefore fits the predicted use, which is why the model links the two.
 
-**Stroke disorder (rank 2) and transient ischemic attack (rank 5).** The mechanism fits well. Platelet inhibition is the basis for aspirin plus extended-release dipyridamole in secondary stroke prevention. Randomized trials, meta-analyses and Cochrane reviews support this use. The prediction is therefore reasonable, but it confirms an already-known indication.
+Three limits apply:
+- The predicted term is very broad and does not name a specific thrombotic condition.
+- The retrieved literature gives no disease-specific randomised evidence for it.
+- Platelet-directed therapy is a weaker fit for coagulation-driven venous thrombosis.
 
-**Other predictions.** "Thrombotic disease" is biologically consistent but too broad, and its literature is largely general or off-topic. The remaining predictions (sick sinus syndrome 2, sarcoglycanopathy, Wildervanck syndrome, a macrocephaly syndrome, and cavernous and lateral sinus thrombosis) have no trials or literature and no evident mechanistic link. They are model signals only.
-
----
+Because of this, the support is mechanistic and indirect, not confirmatory.
 
 ## Clinical Trial Evidence
 
-The table covers the best-supported prediction (stroke disorder). No clinical trials are registered for Prinzmetal angina, the rank 1 prediction.
+Currently no related clinical trials registered for "thrombotic disease".
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Phase 4 | Completed | 4500 | ESPRIT: aspirin plus dipyridamole or mild anticoagulation versus aspirin alone after cerebral ischemia of arterial origin |
-| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | Phase 4 | Completed | 551 | EARLY: Aggrenox started within 24 hours of ischaemic stroke versus after 7 days of aspirin (open-label, blinded endpoint) |
-| [NCT00238667](https://clinicaltrials.gov/study/NCT00238667) | Phase 3 | Completed | 250 | CADISS: feasibility of anticoagulants versus antiplatelets in cervical artery dissection (dipyridamole not the specific agent) |
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Completed | 664 | PFO closure or anticoagulation versus antiplatelet therapy to prevent stroke recurrence (indirect evidence) |
-| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | N/A | Completed | 664 | Gore REDUCE: PFO closure plus antiplatelet management versus antiplatelet management alone (device trial) |
-| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | N/A | Completed | 240 | Oxidative stress and oxysterol profiling after carotid revascularization, including dipyridamole's antioxidant action (biomarker study) |
-| [NCT06053021](https://clinicaltrials.gov/study/NCT06053021) | N/A | Unknown | 1200 | Antiplatelet therapy in acute ischemic stroke with thrombocytopenia |
-| [NCT06983795](https://clinicaltrials.gov/study/NCT06983795) | N/A | Not yet recruiting | 1000 | Asia-Pacific registry of patients with PFO and ischemic stroke |
-
----
+The data compiled for this report do contain a more specific, better-supported prediction: transient ischemic attack. It includes the large randomised trial ESPRIT ([NCT00161070](https://clinicaltrials.gov/study/NCT00161070), Phase 4, completed, 4,500 patients), which compared aspirin plus dipyridamole with aspirin alone after TIA or minor stroke of arterial origin. That evidence belongs to the TIA indication, not to the broad thrombotic disease term assessed here.
 
 ## Literature Evidence
 
-**Stroke disorder (best-supported prediction)**
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15569877](https://pubmed.ncbi.nlm.nih.gov/15569877/) | 2005 | Meta-analysis | Stroke | Individual patient data meta-analysis of dipyridamole for preventing recurrent ischemic stroke |
-| [17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/) | 2007 | Cochrane review | Cochrane Database Syst Rev | Dipyridamole for stroke and vascular event prevention; aspirin plus dipyridamole gave a 22% risk reduction versus aspirin in one trial |
-| [11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/) | 2002 | Meta-analysis | BMJ | Antiplatelet therapy for preventing death, MI and stroke in high-risk patients |
-| [23871093](https://pubmed.ncbi.nlm.nih.gov/23871093/) | 2013 | Meta-analysis | J Neurol Sci | Aspirin plus dipyridamole versus aspirin for secondary prevention after TIA or stroke |
-| [31177983](https://pubmed.ncbi.nlm.nih.gov/31177983/) | 2019 | Network meta-analysis | Stroke | Efficacy and safety of antiplatelet agents after noncardioembolic stroke or TIA |
-| [34211246](https://pubmed.ncbi.nlm.nih.gov/34211246/) | 2021 | Review | Australian Prescriber | Aspirin, clopidogrel, or aspirin plus dipyridamole are first-line options for secondary prevention without atrial fibrillation |
-| [20955428](https://pubmed.ncbi.nlm.nih.gov/20955428/) | 2010 | Review | Ann N Y Acad Sci | Possible neuroprotective and anti-inflammatory effects of dipyridamole in acute stroke |
+| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Review | Arterioscler Thromb Vasc Biol | Dipyridamole is a PDE inhibitor that raises cAMP/cGMP, reversibly inhibits platelet aggregation, and may enhance nitric oxide vascular effects |
+| [2182246](https://pubmed.ncbi.nlm.nih.gov/2182246/) | 1990 | Review | Clin Cardiol | Aspirin with dipyridamole in coronary thrombosis: partial effectiveness in experimental models, with limitations in coronary artery disease |
+| [12765506](https://pubmed.ncbi.nlm.nih.gov/12765506/) | 2003 | Review | Med J Aust | Antiplatelet drugs protect against myocardial infarction, stroke and other vascular events in high-risk patients |
+| [382146](https://pubmed.ncbi.nlm.nih.gov/382146/) | 1979 | Review | Postgrad Med | Aspirin, dipyridamole and sulfinpyrazone show antithrombotic effects in humans |
+| [20955428](https://pubmed.ncbi.nlm.nih.gov/20955428/) | 2010 | Review | Ann N Y Acad Sci | Dipyridamole in acute stroke: antithrombotic plus possible anti-inflammatory and neuroprotective effects |
+| [25697566](https://pubmed.ncbi.nlm.nih.gov/25697566/) | 2015 | Review | Curr Top Med Chem | Described as a long-used antithrombotic and vasodilator, with previously unrecognised antioxidant activity |
+| [559478](https://pubmed.ncbi.nlm.nih.gov/559478/) | 1977 | Case report | Arch Intern Med | In thrombotic thrombocytopenic purpura, one patient relapsed when dipyridamole was tapered and remitted again at a higher dose |
+| [2440111](https://pubmed.ncbi.nlm.nih.gov/2440111/) | 1987 | Review | Semin Hematol | Antiplatelet agents have been linked to resolution of thrombocytopenia in many TTP cases; failures were attributed to dose and disease severity |
+| [15494585](https://pubmed.ncbi.nlm.nih.gov/15494585/) | 2004 | Review | JAMA | Antiplatelet agents, alone or combined, prevent recurrent vascular events in established vascular disease |
+| [11945125](https://pubmed.ncbi.nlm.nih.gov/11945125/) | 2002 | Review | Curr Med Chem | Platelet aggregation drives thromboembolic disease, and the antiplatelet armamentarium has expanded |
 
-**Prinzmetal angina (rank 1)**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | Observational | Jpn Circ J | Response of 26 patients with rest angina, including 13 with variant angina, to several drugs including dipyridamole 50 mg |
-| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | Case report/Observational | Am J Cardiol | Aminophylline termination of dipyridamole stress can trigger coronary vasospasm in variant angina |
-| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | Observational | Br Heart J | Reproducibility of exercise testing in patients with ST elevation and different dipyridamole test responses |
-
-The Prinzmetal angina literature is diagnostic or observational and does not show therapeutic benefit.
-
----
+Several other retrieved papers (for example a bevacizumab mesothelioma trial and a heparin-induced thrombocytopenia report) are off-target and are not listed.
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+Dipyridamole is marketed in India with 6 valid single-ingredient registrations. The licence records provide no approved indication text.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| 111097 | Infartin 60 Tablet | Strip of 30 tablets | Not specified |
-| 220671 | Thrombonil 75mg Tablet | Strip of 10 tablets | Not specified |
-| 176522 | Persantin 100mg Tablet | Strip of 10 tablets | Not specified |
-| 41947 | Cardiwell 75mg Tablet | Strip of 10 tablets | Not specified |
-| 44912 | Cardiwell 100mg Tablet | Strip of 10 tablets | Not specified |
-
-A sixth valid licence, Dynacard 100mg Tablet (64959, USV Ltd), is also registered. All six are single-ingredient oral tablets, and none has been cancelled.
-
----
+| 111097 | Infartin 60 Tablet | Strip of 30 tablets | Jenburkt Pharmaceuticals Ltd |
+| 220671 | Thrombonil 75mg Tablet | Strip of 10 tablets | Sun Pharmaceutical Industries Ltd |
+| 176522 | Persantin 100mg Tablet | Strip of 10 tablets | German Remedies |
+| 41947 | Cardiwell 75mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
+| 44912 | Cardiwell 100mg Tablet | Strip of 10 tablets | Torrent Pharmaceuticals Ltd |
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: The knowledge graph links dipyridamole to a long list of conditions, including kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, hypotensive disorder, gout, acute coronary syndrome, myocardial infarction, hemophilia, anemia, gastritis, and Alzheimer disease. These are graph edges and must be checked against the official package insert before use.
-- **Drug Interactions**: 321 interactions are recorded. Moderate-level interactions include dexfenfluramine, sibutramine and fenfluramine. Other recorded interactions (level not classified) include acetylsalicylic acid, cimetidine, omeprazole, pantoprazole, lansoprazole, morphine, metformin, glimepiride, rosiglitazone, simvastatin, prednisone, vancomycin, amphotericin B, calcitriol, sucralfate, lactulose and nystatin.
-- **Practical guardrails** (from the evidence review): headache and gastrointestinal intolerance, bleeding risk with concomitant antithrombotics, and caution in severe coronary disease.
+- **Contraindication-type relations in the knowledge graph (not label text):** The graph links dipyridamole to conditions including kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, hypotensive disorder, gout, hemophilia, acute coronary syndrome, myocardial infarction, anemia, gastritis, Reye syndrome and Alzheimer disease. These need verification against the approved label.
+- **Drug interactions:** 321 interactions were identified in total. Moderate-level interactions include dexfenfluramine, sibutramine and fenfluramine. Other listed interacting drugs, with unclassified severity, include acetylsalicylic acid, cimetidine, omeprazole, pantoprazole, metformin, simvastatin and morphine.
+- **Mechanism-related caution:** Because dipyridamole raises adenosine, it may slow sinus and AV node conduction. Bleeding risk is also a concern when it is combined with aspirin or anticoagulants.
 
-Please refer to the package insert for official warnings and contraindications.
-
----
+Package insert warnings and contraindications for the Indian products were not available. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold for Prinzmetal angina (rank 1); Proceed with Guardrails for stroke disorder and transient ischemic attack**
+**Decision: Hold**
 
 **Rationale:**
-- Prinzmetal angina has the highest TxGNN score but no trials, and only diagnostic or observational literature. Dipyridamole's adenosine-mediated vasodilation could plausibly worsen vasospasm, so the decision is Hold.
-- Stroke disorder and transient ischemic attack are supported by ESPRIT (n=4500) and multiple meta-analyses and Cochrane reviews (Level L1). These are already-established uses, so they confirm the model but are not novel repurposing.
-- The other predictions are prediction-only (L5), or too broad to evaluate (thrombotic disease, L4), and should stay on Hold.
+The mechanism is plausible, but "thrombotic disease" is a broad term with no registered trials and no disease-specific randomised evidence in the compiled literature. The supporting papers are mostly older reviews, and the prediction comes only from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indications for the India-licensed products (a blocking data gap for safety screening)
-- Detailed mechanism of action data
-- For thrombotic disease, a narrower and specific thrombotic condition to evaluate
-- A review of the knowledge-graph contraindications and the 321 recorded interactions against label text, with a bleeding-risk monitoring plan for co-prescribed antithrombotics
+- Define a specific thrombotic condition. The TIA/secondary stroke prevention indication, backed by ESPRIT, is the strongest candidate and should be assessed separately.
+- Obtain the Indian package insert text to confirm approved indications, warnings and contraindications.
+- Confirm formal mechanism-of-action data from a curated source.
+- Review the large interaction burden, especially combinations with aspirin and anticoagulants.
+- Verify the knowledge-graph contraindication relations against the label.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

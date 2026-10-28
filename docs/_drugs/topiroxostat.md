@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Topiroxostat
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 849
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
 description: "Topiroxostat: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Hyperuricemia, gout"
@@ -14,7 +14,7 @@ predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribo
 # Topiroxostat
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Topiroxostat: From Hyperuricemia and Gout to Renal Hypouricemia
+## Topiroxostat: From Hyperuricemia and Gout to Hypouricemia, Renal
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The mechanistic logic is also counterintuitive, since the drug lowers uric acid 
 |------|------|
 | Original Indication | Hyperuricemia, gout (approved indication text not available in the India license records) |
 | Predicted New Indication | Hypouricemia, renal |
-| TxGNN Prediction Score | 99.58% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| TxGNN Prediction Score | 0.9958 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -67,8 +67,8 @@ Renal hypouricemia is a condition in which serum uric acid is already low, typic
 The only linked publication is a preclinical study in a mouse model of hereditary renal hypouricemia type 1. It suggests XOR inhibitors may suppress exercise-induced acute kidney injury (EIAKI), a known complication of the condition. If the drug has any role, it would be protective against that complication rather than correcting low urate. The high TxGNN score most likely reflects proximity in the knowledge network rather than a true therapeutic rationale.
 
 Two other predictions ranked lower and have no supporting studies:
-- **Partial HPRT deficiency (score 99.25%)**: purine salvage failure causes uric acid overproduction, so XOR inhibition is plausible for the hyperuricemic manifestations.
-- **Lesch-Nyhan syndrome (score 99.09%)**: XOR inhibition could address the metabolic component, but would not be expected to treat the neurological and behavioral features.
+- **Partial HPRT deficiency (score 0.9925)**: purine salvage failure causes uric acid overproduction, so XOR inhibition is plausible for the hyperuricemic manifestations.
+- **Lesch-Nyhan syndrome (score 0.9909)**: XOR inhibition could address the metabolic component, but would not be expected to treat the neurological and behavioral features.
 
 Both carry a risk of xanthine accumulation and xanthine nephropathy.
 

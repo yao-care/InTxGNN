@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Phenylalanine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 664
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not available"
@@ -14,7 +14,7 @@ predicted_indications: ["sclerosing cholangitis", "congenital prothrombin defici
 # Phenylalanine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 |------|------|
 | Original Indication | Not available (the approved indication text on the registration is blank) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L4 (indirect metabolic/biomarker literature only; no studies of phenylalanine as a treatment) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,9 +59,9 @@ Currently, detailed mechanism of action data is not available. Phenylalanine is 
 
 The only related literature is indirect. A 2005 cohort study examined plasma tyrosine (a phenylalanine metabolite) and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis. It suggests altered aromatic amino acid metabolism in cholestatic liver disease, but it does not show that giving phenylalanine helps. A 2020 serum metabolomics study in cholangiocarcinoma, a related biliary condition, treats amino acids as disease biomarkers, not treatments. A 1990 paper concerns a different compound (the chemotactic peptide formyl-methionyl-leucyl-phenylalanine) and is not evidence for phenylalanine as a drug.
 
-The high TxGNN score therefore reflects knowledge-graph patterns only and is not supported by clinical evidence.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it is not supported by clinical evidence.
 
-A second prediction, **congenital prothrombin deficiency** (score 99.26%), has no trials or literature at all. Congenital prothrombin deficiency is a factor II coagulation deficiency, and phenylalanine is not known to correct it. It is treated as a hypothesis only (Evidence Level L5, Hold).
+A second prediction, **congenital prothrombin deficiency** (score 0.9926), has no trials or literature at all. Congenital prothrombin deficiency is a factor II coagulation deficiency, and phenylalanine is not known to correct it. It is treated as a hypothesis only (Evidence Level L5, Hold).
 
 ## Clinical Trial Evidence
 

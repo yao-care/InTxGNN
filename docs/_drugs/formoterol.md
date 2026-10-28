@@ -4,17 +4,17 @@ title: Formoterol
 parent: Model Prediction Only (L5)
 nav_order: 378
 evidence_level: L5
-indication_count: 6
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Formoterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Pulmonary emphysema, intrinsic asthma, allergic asthma"
 monitor_inn: "Formoterol"
 predicted_indications: ["respiratory malformation", "bronchitis", "Rienhoff syndrome"]
+description: "Formoterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Formoterol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Formoterol: From Pulmonary Emphysema and Asthma to Respiratory Malformation
+## Formoterol: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Formoterol is a long-acting beta2-agonist bronchodilator, originally used for pulmonary emphysema and asthma (intrinsic and allergic).
 The TxGNN model predicts it may be effective for **respiratory malformation**, but **no clinical trials** and **no directly relevant publications** support this prediction.
-The high score appears to reflect the drug's proximity to respiratory disease nodes in the knowledge graph rather than a real therapeutic relationship.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary emphysema, intrinsic asthma, allergic asthma |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Respiratory malformation |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 Respiratory malformation is a congenital, structural developmental defect, which is a different kind of problem from reversible airflow obstruction. No plausible mechanistic link is supported. At most, bronchodilation could relieve secondary airflow symptoms, but it would not treat the malformation itself.
 
-The high TxGNN score therefore looks like a graph-proximity artefact, because the drug sits close to many respiratory disease nodes. It should not be read as evidence of a true therapeutic relationship.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related respiratory diseases, not biological evidence. It should not be read as evidence of a true therapeutic relationship.
 
 ## Clinical Trial Evidence
 

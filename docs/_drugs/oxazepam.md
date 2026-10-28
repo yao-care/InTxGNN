@@ -6,9 +6,9 @@ nav_order: 627
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Oxazepam: predicted new indication Insomnia (evidence level L3). Approved use: Anxiety"
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
+description: "Oxazepam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Oxazepam
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-## Oxazepam: From Anxiety and Alcohol Withdrawal Delirium to Insomnia
+## Oxazepam: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **insomnia**, with **no registe
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety; alcohol withdrawal delirium (knowledge-graph indications; no approved indication text in the India licence records) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.86% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -94,7 +94,7 @@ All 15 registrations are valid single-ingredient oral tablets; none are cancelle
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: anxiety and neurotic disorders, dysthymic disorder, psychotic and schizophrenia-spectrum disorders, personality disorder, intermittent explosive disorder, substance-related disorders and dependence, liver disease, kidney disease, gallbladder disease, porphyria, hypotensive disorder, respiratory failure, lung disease, sleep apnoea syndromes and congenital central hypoventilation syndrome.
+- **Contraindications (not label text)**: anxiety and neurotic disorders, dysthymic disorder, psychotic and schizophrenia-spectrum disorders, personality disorder, intermittent explosive disorder, substance-related disorders and dependence, liver disease, kidney disease, gallbladder disease, porphyria, hypotensive disorder, respiratory failure, lung disease, sleep apnoea syndromes and congenital central hypoventilation syndrome.
 - **Drug Interactions**: 163 interactions were identified. Major interactions include **morphine** (including liposomal morphine), likely reflecting additive central nervous system and respiratory depression. Moderate interactions include bupropion, dronabinol, nabilone, metoclopramide, opium, sibutramine and teduglutide. Antacids such as magnesium and aluminium salts and calcium carbonate are minor.
 
 Package insert warnings and contraindications are not available in the compiled data, so please refer to the package insert for full safety information.

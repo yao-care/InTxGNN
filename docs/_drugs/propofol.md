@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **migraine disorder**, supporte
 |------|------|
 | Original Indication | Not stated in the India licence data compiled for this report (propofol is generally used as an intravenous anesthetic/sedative) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: Moderate Evidence (L3-L4)
 nav_order: 519
 evidence_level: L3
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not stated in the licence data compiled for this report"
 monitor_inn: "Mefenamic acid"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L3** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) widely marketed
 |------|------|
 | Original Indication | Not stated in the licence data compiled for this report (all 20 licences have blank indication text) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 
 The mechanism is a plausible symptomatic one: it can relieve pain, joint tenderness and morning stiffness. There is no evidence that it modifies the disease course (slows joint damage). Rheumatoid arthritis already sits within the broad NSAID class indication, so this prediction is better read as a symptomatic, on-class use than as a new therapeutic direction.
 
-Other predictions in the list were also reviewed. Migraine disorder (L2, Research Question) has small controlled studies in menstrual migraine and migraine prophylaxis. Headache disorder is largely overlapping migraine evidence. The remaining predictions have no supporting evidence, or have no plausible mechanistic link (for example, rare developmental syndromes, which look like graph artifacts).
+Other predictions in the list were also reviewed. Migraine disorder (L2, Research Question) has small controlled studies in menstrual migraine and migraine prophylaxis. Headache disorder is largely overlapping migraine evidence. The remaining predictions have no supporting evidence, or have no plausible mechanistic link (for example, rare developmental syndromes, whose scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence).
 
 ---
 

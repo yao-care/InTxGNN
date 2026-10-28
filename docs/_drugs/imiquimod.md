@@ -6,9 +6,9 @@ nav_order: 429
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: Common wart, anogenital human papillomavirus infection…"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
+description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Imiquimod
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Imiquimod: From Actinic Keratosis and HPV-Related Skin Lesions to Pre-malignant Neoplasm
+## Imiquimod: Pre-malignant neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **2 clinical trials** and **9 publications** currently supporting this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Common wart, anogenital human papillomavirus infection, superficial multifocal basal cell carcinoma, actinic keratosis (no approved indication text is available in the India licence records, so these come from the knowledge-graph indication list) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pre-malignant neoplasm |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L1 (see note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 (see note below) |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), the data compiled for this report would not reach L1. Only one Phase 3 trial is completed (a small open-label, single-arm study), and the other was a terminated RCT. The L1 label reflects the strong evidence for the approved indications, and the evidence for the extension to other pre-malignant sites is closer to L3 (reviews and case reports). The decision below should be read with that in mind.

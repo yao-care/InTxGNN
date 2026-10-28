@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Bacampicillin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 87
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Bacampicillin: predicted new indication Epiglottitis (evidence level L4). Approved use: Urinary tract infection, gonorrhea, pharyngitis…"
 monitor_inn: "Bacampicillin"
-predicted_indications: ["epiglottitis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
+predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
 ---
 
 # Bacampicillin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The only study found among the top-ranked predictions is a small 1989 pilot stud
 |------|------|
 | Original Indication | Urinary tract infection, gonorrhea, pharyngitis, sinusitis (the marketed product has no indication text on file) |
 | Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,7 +66,7 @@ There are important limits. The TxGNN score is only a model prediction. Epiglott
 
 The other top-ranked predictions have little or no support. Most (for example abdominal cystic lymphangioma, celiac trunk compression syndrome, abdominal ectopic pregnancy, lymph node palisaded myofibroblastoma and sacrum chordoma) are non-infectious conditions with no plausible antibacterial mechanism, and their high scores are likely model artifacts. Broad categories such as disease of retroperitoneum, disease of uterine broad ligament and disease of peritoneum could respond only if the cause were a bacterial infection, and no evidence was provided.
 
-The one prediction with any literature is **urethral disease** (rank 9, score 99.85%, evidence level L3). A 1989 pilot study gave bacampicillin 800 mg twice daily for 7 days to 84 men with non-gonococcal urethritis. Among the 23 *Chlamydia*-positive patients who attended follow-up, 22 became chlamydia-negative, but only 14 also became asymptomatic with normal urethral smears. This was a small, non-randomized study. Non-gonococcal urethritis is often caused by organisms poorly covered by beta-lactams, and guidelines favor doxycycline or azithromycin, so efficacy remains doubtful.
+The one prediction with any literature is **urethral disease** (rank 9, score 0.9985, evidence level L3). A 1989 pilot study gave bacampicillin 800 mg twice daily for 7 days to 84 men with non-gonococcal urethritis. Among the 23 *Chlamydia*-positive patients who attended follow-up, 22 became chlamydia-negative, but only 14 also became asymptomatic with normal urethral smears. This was a small, non-randomized study. Non-gonococcal urethritis is often caused by organisms poorly covered by beta-lactams, and guidelines favor doxycycline or azithromycin, so efficacy remains doubtful.
 
 ## Literature Evidence
 

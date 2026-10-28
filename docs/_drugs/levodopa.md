@@ -48,9 +48,9 @@ but there are currently **no clinical trials** and **no publications** supportin
 |------|------|
 | Original Indication | Parkinson disease (and related parkinsonian syndromes) |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 Currently, detailed mechanism of action data is not available. Based on known information, levodopa is a dopamine precursor that is converted to dopamine in the brain. Its efficacy in Parkinson disease and related movement disorders is well established.
 
-Rasmussen encephalitis is a chronic, usually unilateral, immune-mediated inflammatory brain disease. It involves T-cell-driven neuronal injury, intractable focal seizures (often epilepsia partialis continua), progressive hemispheric atrophy, and neurological decline. A possible link is overlap in neurological symptoms with movement disorders, or proximity between the two in the knowledge graph. This is speculation only.
+Rasmussen encephalitis is a chronic, usually unilateral, immune-mediated inflammatory brain disease. It involves T-cell-driven neuronal injury, intractable focal seizures (often epilepsia partialis continua), progressive hemispheric atrophy, and neurological decline. A possible link is overlap in neurological symptoms with movement disorders. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This is speculation only.
 
-Dopamine replacement has no known effect on the autoimmune or inflammatory process, or on seizure control, in this disease. Dopaminergic agents could in principle lower the seizure threshold. The high score is most likely an artifact of graph connectivity and should not be read as clinical evidence.
+Dopamine replacement has no known effect on the autoimmune or inflammatory process, or on seizure control, in this disease. Dopaminergic agents could in principle lower the seizure threshold. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -105,7 +105,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The only support is a high model score (99.06%). There are no clinical trials or publications, and no mechanistic data. Dopamine replacement has no known effect on the immune-mediated pathology of Rasmussen encephalitis, and the seizure-related contraindication signal adds concern.
+The only support is a high model score (0.9906). There are no clinical trials or publications, and no mechanistic data. Dopamine replacement has no known effect on the immune-mediated pathology of Rasmussen encephalitis, and the seizure-related contraindication signal adds concern.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for levodopa, and a clear biological rationale linking dopaminergic signalling to Rasmussen encephalitis

@@ -50,10 +50,10 @@ The mechanism points in the opposite direction, so this prediction is most likel
 |------|------|
 | Original Indication | Gout; hyperuricemia |
 | Predicted New Indication | Renal hypouricemia |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -65,8 +65,8 @@ Detailed mechanism of action data is not available in the data compiled for this
 Renal hypouricemia is mostly caused by loss-of-function mutations in URAT1, so the kidney already wastes urate. The TxGNN score most likely reflects network proximity: the drug and the disease share the same urate-transport genes and pathways. That is not a therapeutic relationship. Probenecid would be expected to worsen the condition rather than treat it. In the literature, probenecid appears only as a diagnostic probe, where the response of urate clearance to probenecid and pyrazinamide is used to classify the type of tubular defect.
 
 **Other predictions in the model output (both rated Hold, L5):**
-- **Lesch-Nyhan syndrome** (score 99.39%): The disease causes purine overproduction and severe hyperuricemia. Probenecid could lower serum urate, but it would not help the neurological and behavioral features, which are the main burden. Extra uric acid in urine raises the risk of kidney stones and nephropathy. Xanthine oxidase inhibitors such as allopurinol are the standard approach. The two retrieved papers are not relevant (a computational modeling study and a 1976 Tourette's syndrome overview).
-- **Partial HPRT deficiency** (score 99.37%): This overlaps with gout and hyperuricemia, but the same overproduction and kidney-stone concerns apply. There is no direct literature and no trial.
+- **Lesch-Nyhan syndrome** (score 0.9939): The disease causes purine overproduction and severe hyperuricemia. Probenecid could lower serum urate, but it would not help the neurological and behavioral features, which are the main burden. Extra uric acid in urine raises the risk of kidney stones and nephropathy. Xanthine oxidase inhibitors such as allopurinol are the standard approach. The two retrieved papers are not relevant (a computational modeling study and a 1976 Tourette's syndrome overview).
+- **Partial HPRT deficiency** (score 0.9937): This overlaps with gout and hyperuricemia, but the same overproduction and kidney-stone concerns apply. There is no direct literature and no trial.
 
 ---
 

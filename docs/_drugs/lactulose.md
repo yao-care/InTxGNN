@@ -50,9 +50,9 @@ Among the other predicted indications, **obstructive jaundice** has the most sup
 |------|------|
 | Original Indication | Hepatic encephalopathy, hepatic coma, constipation (the licence records contain no approved indication text) |
 | Predicted New Indication | Acute urate nephropathy (top-ranked); obstructive jaundice has the strongest evidence |
-| TxGNN Prediction Score | 99.89% (acute urate nephropathy) |
+| TxGNN Prediction Score | 0.9989 (acute urate nephropathy) |
 | Evidence Level | L5 (acute urate nephropathy); L3 (obstructive jaundice) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (acute urate nephropathy); obstructive jaundice may be taken forward as a research question |
 
@@ -62,7 +62,7 @@ Among the other predicted indications, **obstructive jaundice** has the most sup
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Lactulose is generally known as a non-absorbable osmotic disaccharide that acidifies colonic contents and lowers ammonia. Its efficacy in hepatic encephalopathy and constipation is well established.
 
-**Acute urate nephropathy (rank 1).** No plausible link between lactulose and uric acid-related kidney injury is evident from the data. The very high score (99.89%) reflects model output only. Without any supporting study, it should not be treated as a credible lead.
+**Acute urate nephropathy (rank 1).** No plausible link between lactulose and uric acid-related kidney injury is evident from the data. The very high score (0.9989) reflects model output only. Without any supporting study, it should not be treated as a credible lead.
 
 **Obstructive jaundice (rank 3).** Here the evidence gives a coherent hypothesis. Bile duct obstruction removes bile from the gut, which impairs the intestinal barrier, allows bacterial translocation and causes endotoxaemia. Endotoxaemia contributes to postoperative renal failure and other complications. Lactulose is proposed to reduce gut endotoxin load and support the intestinal barrier. Supporting studies include a prospective clinical study (1986, 24 patients), a rabbit model of endotoxaemia (2003), and several rat studies of bacterial translocation. One study also showed that lactulose inhibits endotoxin-induced TNF production by monocytes in vitro (1990). The evidence is not uniformly positive: a 1997 review notes that a renoprotective effect has not been conclusively shown in clinical studies, and a 1989 rat study found that lactulose did not prevent bile infarction or transaminase elevation.
 

@@ -6,9 +6,9 @@ nav_order: 704
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Procyclidine: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease and related parkinsonian disorders…"
 monitor_inn: "Procyclidine"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "transaldolase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "fructose-1,6-bisphosphatase deficiency"]
+description: "Procyclidine: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Procyclidine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Procyclidine: From Parkinson Disease to Rasmussen Subacute Encephalitis
+## Procyclidine: Rasmussen subacute encephalitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Rasmussen subacute encephalit
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson disease and related parkinsonian disorders, including dystonia (per the knowledge graph; no approved-indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **Rasmussen subacute encephalit
 
 Currently, detailed mechanism of action data is not available. Based on known information, procyclidine is a muscarinic antagonist (anticholinergic) whose efficacy in parkinsonian disorders and dystonia is established. It reduces the relative excess of cholinergic activity in the basal ganglia.
 
-Rasmussen encephalitis is an immune-mediated, T-cell-driven chronic encephalitis that causes focal epilepsy. No established link exists between muscarinic blockade and this pathology. The high TxGNN score is a graph-based prediction, probably driven by shared neurological disease neighbours rather than a biological rationale.
+Rasmussen encephalitis is an immune-mediated, T-cell-driven chronic encephalitis that causes focal epilepsy. No established link exists between muscarinic blockade and this pathology. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 For context, other predictions in the top 10 are also unsupported by clinical data. The most plausible symptomatic links are **PLA2G6-associated neurodegeneration** (parkinsonism and dystonia overlap) and **progressive supranuclear palsy-corticobasal syndrome** (anticholinergics are generally poorly effective there and may worsen cognition). The entry "paralysis agitans, juvenile, of Hunt" is a historical term for juvenile parkinsonism and largely overlaps with existing indications, so it is not a true repurposing finding.
 
@@ -100,7 +100,7 @@ Please also refer to the package insert for full warnings, which were not availa
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (99.74%), with no clinical trials or literature and no plausible mechanistic link between muscarinic blockade and Rasmussen encephalitis. Evidence is at level L5.
+The prediction is supported only by the TxGNN model score (0.9974), with no clinical trials or literature and no plausible mechanistic link between muscarinic blockade and Rasmussen encephalitis. Evidence is at level L5.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)

@@ -6,9 +6,9 @@ nav_order: 433
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Inositol Nicotinate: predicted new indication Vitamin deficiency disorder (evidence level L5). Approved use: Pellagra, beriberi"
 monitor_inn: "Inositol nicotinate"
-predicted_indications: ["vitamin deficiency disorder", "biotin metabolic disease", "non-syndromic esophageal malformation", "iron deficiency anemia", "acute urate nephropathy", "esophageal disease", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome"]
+predicted_indications: ["vitamin deficiency disorder", "biotin metabolic disease", "non-syndromic esophageal malformation", "iron deficiency anemia", "acute urate nephropathy", "esophageal disease", "hepatopulmonary syndrome", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension"]
+description: "Inositol Nicotinate: predicted new indication Vitamin deficiency disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Inositol Nicotinate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Inositol Nicotinate: From Pellagra and Beriberi to Vitamin Deficiency Disorder
+## Inositol Nicotinate: Vitamin deficiency disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **vitamin deficiency disorder**
 
 | Item | Content |
 |------|------|
-| Original Indication | Pellagra, beriberi (from the knowledge-graph indication edges; the Indian licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Vitamin deficiency disorder |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 (model prediction only; no trials or literature supplied) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The predicted indication, vitamin deficiency disorder, is a broad category that already contains the original indication (pellagra). The prediction is therefore biologically plausible, but it is better viewed as an extension of the existing use than as a true repurposing. Niacin does not replace other vitamins, so any benefit would be limited to niacin-related deficiency.
 
-Other predictions generated for this drug are weaker. The data compiled for this report show that they lack supporting evidence and are likely to reflect knowledge-graph artifacts:
+Other predictions generated for this drug are weaker. The data compiled for this report show that they lack supporting evidence and are likely to reflect TxGNN model (deep learning) artifacts:
 - **Biotin metabolic disease**: Niacin and biotin are both B-complex vitamins, but niacin does not correct biotin metabolism defects.
 - **Iron deficiency anaemia**: Only a speculative link exists. Iron replacement is the standard treatment.
 - **Acute urate nephropathy**: Nicotinic acid can raise serum uric acid, so it may worsen rather than benefit this condition.

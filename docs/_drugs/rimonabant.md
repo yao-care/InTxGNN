@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 ## One-Sentence Summary
 
 Rimonabant is a CB1 receptor blocker originally used to treat obesity, including monogenic obesity.
-The TxGNN model predicts it may be effective for **hypervitaminosis**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** currently supporting it.
+The TxGNN model (deep learning) predicts it may be effective for **hypervitaminosis**, but this score may reflect similarities the model learned between related diseases, not biological evidence, with **0 clinical trials** and **0 publications** currently supporting it.
 The evidence is weak, and no plausible mechanistic link has been identified.
 
 ## Quick Overview
@@ -48,17 +48,17 @@ The evidence is weak, and no plausible mechanistic link has been identified.
 |------|------|
 | Original Indication | Obesity disorder; monogenic obesity (the India licence records contain no approved-indication text) |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, rimonabant is a CB1 receptor blocker (it also acts on GPR55) whose use in obesity is established, but no clear mechanism links CB1 antagonism to hypervitaminosis.
 
-The high TxGNN score is a graph-based prediction only. No clinical trials or literature were retrieved to support it, so the prediction should be treated as a hypothesis, not a finding.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature were retrieved to support it, so the prediction should be treated as a hypothesis, not a finding.
 
 ### Other Predictions Reviewed
 
@@ -66,12 +66,12 @@ The model also produced six lower-ranked predictions. None has clinical trial ev
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Proximal 16p11.2 microdeletion syndrome | 99.997% | The deletion is associated with obesity and metabolic features, so the link is conceptually plausible but unvalidated. Rimonabant's psychiatric adverse events are a major concern in a population with neurodevelopmental comorbidity. |
-| 3 | Obsolete hypertelorism (disease) | 99.992% | No plausible mechanism. The ontology term is obsolete, so this is likely a knowledge-graph artifact. |
-| 4 | Frontorhiny | 99.989% | No known link to the endocannabinoid system. |
-| 5 | Pentosuria | 99.398% | Benign metabolic condition that generally needs no treatment. |
-| 6 | Insomnia (disease) | 99.271% | Rimonabant is known to cause insomnia and sleep disturbance, so a therapeutic role is unfavourable. |
-| 7 | Lethal polymalformative syndrome, Boissel type | 99.049% | Lethal prenatal condition, so repurposing is impractical. |
+| 2 | Proximal 16p11.2 microdeletion syndrome | 1.0000 | The deletion is associated with obesity and metabolic features, so the link is conceptually plausible but unvalidated. Rimonabant's psychiatric adverse events are a major concern in a population with neurodevelopmental comorbidity. |
+| 3 | Obsolete hypertelorism (disease) | 1.0000 | No plausible mechanism. The ontology term is obsolete, so this is likely a TxGNN model (deep learning) artifact. |
+| 4 | Frontorhiny | 0.9999 | No known link to the endocannabinoid system. |
+| 5 | Pentosuria | 0.9940 | Benign metabolic condition that generally needs no treatment. |
+| 6 | Insomnia (disease) | 0.9927 | Rimonabant is known to cause insomnia and sleep disturbance, so a therapeutic role is unfavourable. |
+| 7 | Lethal polymalformative syndrome, Boissel type | 0.9905 | Lethal prenatal condition, so repurposing is impractical. |
 
 For insomnia, the single paper retrieved (PMID 19548858, a 2009 review in *Expert Opinion on Investigational Drugs*) concerns tesofensine, a different weight-loss agent. It is not direct evidence for rimonabant.
 

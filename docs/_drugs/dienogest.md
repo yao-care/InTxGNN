@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dienogest
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 265
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Dienogest: predicted new indication Amenorrhea (evidence level L4). Approved use: Not stated in the licence data (literature points to endometriosis)"
@@ -14,7 +14,7 @@ predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "brea
 # Dienogest
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ This is a model-driven research question, not an established repurposing opportu
 |------|------|
 | Original Indication | Not stated in the licence data (literature points to endometriosis) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 The link to amenorrhea is largely a pharmacological *effect*. Endometriosis treatment often aims to induce amenorrhea and a hypoestrogenic environment. The high TxGNN score probably reflects this association with menstrual-pattern changes rather than a therapeutic indication. Using dienogest in secondary amenorrhea, for example as a progestin challenge or for endometrial protection in hypoestrogenic states, is plausible. However, none of the supplied evidence directly supports it.
 
-Other top-ranked predictions are weaker. These include primary ovarian failure, isolated growth hormone deficiency, hypogonadotropic hypogonadism, fragile X carrier symptoms, BPES variants and chromosomal disorders. They have no trials or literature and are likely network-proximity artifacts. Breast fibrocystic disease (score 99.60%) has one indirect publication on breast effects and is a more plausible secondary research question.
+Other top-ranked predictions are weaker. These include primary ovarian failure, isolated growth hormone deficiency, hypogonadotropic hypogonadism, fragile X carrier symptoms, BPES variants and chromosomal disorders. They have no trials or literature and are likely network-proximity artifacts. Breast fibrocystic disease (score 0.9960) has one indirect publication on breast effects and is a more plausible secondary research question.
 
 ---
 

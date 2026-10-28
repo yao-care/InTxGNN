@@ -47,19 +47,19 @@ The TxGNN model predicts it may be relevant for **cauda equina syndrome**, but t
 |------|------|
 | Original Indication | Not stated in the registration data (marketed as throat/cough lozenges) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, amylmetacresol is a single-ingredient topical antiseptic used in oropharyngeal lozenges, with minimal systemic exposure expected from lozenge use.
 
-The predicted indication, cauda equina syndrome, is a compressive neurological emergency that requires surgical decompression. There is no plausible pharmacological route from a local throat antiseptic to this condition. The high score (0.9999) reflects a graph-based association, not a biological rationale.
+The predicted indication, cauda equina syndrome, is a compressive neurological emergency that requires surgical decompression. There is no plausible pharmacological route from a local throat antiseptic to this condition. The high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The other top predictions are also unsupported. They include an obsolete neurogenic bladder entry (likely a knowledge-graph artifact), irritable bowel syndrome, and several eye conditions (uveitis, panuveitis, iris and ciliary body diseases and neoplasms). None has clinical, literature, or mechanistic backing. The only weak, speculative link is infectious anterior uveitis, based on the drug's in-vitro antibacterial and antiviral activity in the throat. There is no evidence of intraocular penetration or ocular safety.
+The other top predictions are also unsupported. They include an obsolete neurogenic bladder entry (likely a TxGNN model (deep learning) artifact), irritable bowel syndrome, and several eye conditions (uveitis, panuveitis, iris and ciliary body diseases and neoplasms). None has clinical, literature, or mechanistic backing. The only weak, speculative link is infectious anterior uveitis, based on the drug's in-vitro antibacterial and antiviral activity in the throat. There is no evidence of intraocular penetration or ocular safety.
 
 ## Clinical Trial Evidence
 
@@ -90,7 +90,7 @@ Please refer to the package insert for safety information. No drug-interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. No clinical trials, publications, or plausible mechanism support using a local throat antiseptic for cauda equina syndrome. The same holds for the other nine predicted indications.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials, publications, or plausible mechanism support using a local throat antiseptic for cauda equina syndrome. The same holds for the other nine predicted indications.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulator's product information (currently blocking for safety screening)

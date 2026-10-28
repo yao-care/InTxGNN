@@ -48,10 +48,10 @@ Pinaverium is a gastrointestinal-selective calcium channel blocker (antispasmodi
 |------|------|
 | Original Indication | Not stated in the registration data compiled for this report (general pharmacology: irritable bowel syndrome / GI smooth muscle spasm) |
 | Predicted New Indication | Benign prostatic hyperplasia |
-| TxGNN Prediction Score | 99.22% |
+| TxGNN Prediction Score | 0.9922 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 A plausible link to BPH is that L-type calcium channels contribute to smooth muscle contraction in the prostate stroma, bladder neck and detrusor. Blocking them could theoretically lower smooth muscle tone and ease lower urinary tract symptoms. This is a hypothesis from general pharmacology, not a finding from the supplied data.
 
-There is also a significant counterargument. Pinaverium is poorly absorbed when taken orally and is largely excreted in bile, so exposure at prostatic tissue would likely be low, which weakens the hypothesis. The TxGNN score of 0.992 is a model prediction only and gives no clinical validation.
+There is also a significant counterargument. Pinaverium is poorly absorbed when taken orally and is largely excreted in bile, so exposure at prostatic tissue would likely be low, which weakens the hypothesis. The TxGNN score of 0.9922 is a model prediction only and gives no clinical validation.
 
 ---
 

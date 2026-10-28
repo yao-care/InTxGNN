@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **benign prostatic hyperplasia 
 |------|------|
 | Original Indication | Not stated in the registration records compiled for this report (the approved indication text is blank for all licenses; products are oral rinses, gargles and a dental gel) |
 | Predicted New Indication | Benign prostatic hyperplasia |
-| TxGNN Prediction Score | 99.26% |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

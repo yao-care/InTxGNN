@@ -50,9 +50,9 @@ Currently, **14 clinical trials** and **20 publications** support this direction
 |------|------|
 | Original Indication | Asthma (including intrinsic and allergic asthma), bronchitis, pulmonary emphysema (the marketed products carry no indication text in the data compiled for this report) |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -136,8 +136,8 @@ Please refer to the package insert for official warnings and contraindications.
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision | Comment |
 |------|------|------|------|------|
-| Respiratory malformation | 99.52% | L4 | Hold | Only one broad pediatric PK/safety program (NCT04278404) and mostly mismatched literature. Beta-2 agonism may relieve reversible bronchoconstriction but cannot correct a structural malformation. |
-| Rienhoff syndrome | 99.38% | L5 | Hold | No trials and no literature. No mechanistic link is supported by the data. |
+| Respiratory malformation | 0.9952 | L5 | Hold | Only one broad pediatric PK/safety program (NCT04278404) and mostly mismatched literature. Beta-2 agonism may relieve reversible bronchoconstriction but cannot correct a structural malformation. |
+| Rienhoff syndrome | 0.9938 | L5 | Hold | No trials and no literature. No mechanistic link is supported by the data. |
 
 ---
 

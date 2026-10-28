@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Sulpiride
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 799
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-14
 description: "Sulpiride: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Schizophrenia"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Sulpiride
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-## Sulpiride: From Schizophrenia to Retinal Dystrophy
+## Sulpiride: From Schizophrenia to retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ but so far only **2 preclinical publications** and **no clinical trials** suppor
 |------|------|
 | Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

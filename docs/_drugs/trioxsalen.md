@@ -6,9 +6,9 @@ nav_order: 869
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Trioxsalen: predicted new indication Vaginitis (evidence level L5). Approved use: Vitiligo, photosensitivity disease, photoparoxysmal response"
 monitor_inn: "trioxsalen"
 predicted_indications: ["vaginitis (disease)", "leukoplakia of vagina", "vaginal discharge", "bacterial vaginosis", "vulvar inverted follicular keratosis", "postmenopausal atrophic vaginitis", "vulvitis", "vulvovaginitis", "ulceration of vulva", "vulvar neoplasm"]
+description: "Trioxsalen: predicted new indication Vaginitis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Trioxsalen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Trioxsalen: From Vitiligo and Photosensitivity Disorders to Vaginitis
+## Trioxsalen: Vaginitis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The prediction rests on model output alone.
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitiligo, photosensitivity disease, photoparoxysmal response (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Vaginitis |
-| TxGNN Prediction Score | 99.78% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Vaginitis (disease) |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ The prediction rests on model output alone.
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, trioxsalen is a psoralen. When combined with UVA light, it intercalates into DNA and forms photoadducts, which produces antiproliferative and photosensitizing effects. This is the basis for its use in vitiligo and other photo-responsive skin conditions.
 
-A plausible link between this mechanism and vaginitis is weak. Vaginitis is mainly infectious or inflammatory, and UVA exposure of the vaginal mucosa is impractical. The very high TxGNN score reflects proximity in the knowledge graph rather than a demonstrated biological or clinical rationale.
+A plausible link between this mechanism and vaginitis is weak. Vaginitis is mainly infectious or inflammatory, and UVA exposure of the vaginal mucosa is impractical. The very high TxGNN score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The other top-ranked predictions are all genital or vulvovaginal conditions: leukoplakia of vagina, vaginal discharge, bacterial vaginosis, vulvar inverted follicular keratosis, postmenopausal atrophic vaginitis, vulvitis, vulvovaginitis, ulceration of vulva and vulvar neoplasm. Each has a score above 99.5%, and none has any clinical trial or literature support. A few have a loose conceptual link through psoralen effects on epidermal proliferation or immune modulation (for example vulvitis and vulvar inverted follicular keratosis). Others, such as bacterial vaginosis and atrophic vaginitis, have no pathway connection to this drug.
+The other top-ranked predictions are all genital or vulvovaginal conditions: leukoplakia of vagina (0.9974), vaginal discharge (0.9973), bacterial vaginosis (0.9969), vulvar inverted follicular keratosis (0.9966), postmenopausal atrophic vaginitis (0.9965), vulvitis (0.9965), vulvovaginitis (0.9961), ulceration of vulva (0.9954) and vulvar neoplasm (0.9952). Each has a TxGNN score ≥ 0.99, and none has any clinical trial or literature support. A few have a loose conceptual link through psoralen effects on epidermal proliferation or immune modulation (for example vulvitis and vulvar inverted follicular keratosis). Others, such as bacterial vaginosis and atrophic vaginitis, have no pathway connection to this drug.
 
 ## Clinical Trial Evidence
 

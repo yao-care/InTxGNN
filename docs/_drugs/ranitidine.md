@@ -4,17 +4,17 @@ title: Ranitidine
 parent: Moderate Evidence (L3-L4)
 nav_order: 726
 evidence_level: L3
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Ranitidine: predicted new indication Active peptic ulcer disease (evidence level L3). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
+description: "Ranitidine: predicted new indication Peptic ulcer perforation (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Ranitidine: From Gastric Ulcer to Active Peptic Ulcer Disease
+## Ranitidine: Peptic ulcer perforation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ranitidine is a histamine H2-receptor antagonist originally used to treat gastric and duodenal ulcers, reflux disease and gastric hypersecretory conditions.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is essentially an on-label use rather than true repurposing, and **no clinical trials** are registered for this exact term, while **20 publications** (mostly reviews and indirect studies) provide supporting context.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer, Zollinger-Ellison syndrome (labeled indication text is not available in the registration records) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.89% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Peptic ulcer perforation |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -65,7 +64,6 @@ Other predicted indications in the data (peptic ulcer disease, gastroduodenitis,
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for "active peptic ulcer disease" itself. The closest related condition, **peptic ulcer disease** (predicted rank 7), has the following registered trials, in which ranitidine is mostly a comparator:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

@@ -4,7 +4,7 @@ title: Salbutamol
 parent: Model Prediction Only (L5)
 nav_order: 761
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Salbutamol: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Asthma, bronchial disease"
 monitor_inn: "Salbutamol"
@@ -14,7 +14,7 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 # Salbutamol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Salbutamol is a short-acting beta-2 agonist bronchodilator, originally used to treat asthma and bronchial disease.
 The TxGNN model's top-ranked prediction is **papillary conjunctivitis**, but **no clinical trials and no publications** currently support it (evidence level L5, prediction only).
-Among the other predicted indications, **obstructive lung disease** has the strongest support (Phase 3 evidence), though it largely overlaps with salbutamol's existing uses.
 
 ---
 
@@ -50,9 +49,9 @@ Among the other predicted indications, **obstructive lung disease** has the stro
 |------|------|
 | Original Indication | Asthma, bronchial disease (the India license records contain no approved indication text) |
 | Predicted New Indication | Papillary conjunctivitis |
-| TxGNN Prediction Score | 99.996% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -79,7 +78,6 @@ For the top-ranked prediction (papillary conjunctivitis), there are currently no
 
 The trials below come from the lower-ranked predictions with the most evidence.
 
-**Obstructive lung disease (rank 10; most relevant trials)**
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

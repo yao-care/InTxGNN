@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Guaifenesin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 404
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Guaifenesin"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Guaifenesin: From Upper Respiratory Conditions (Rhinitis, Pharyngitis, Common Cold) to Nasal Cavity Disease
+## Guaifenesin: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but the evidence is thin: **no clinical trials** and only **1 publication** (a r
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder (from the knowledge graph; no approved indication text is available for the India licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Nasal cavity disease is a broader category that includes the rhinitis conditions guaifenesin is already linked to. The plausible link is improved clearance of nasal and sinus secretions. This link is inferred and not confirmed.
 
-The very high TxGNN score (99.98%) is a computational prediction. It probably reflects the overlap with existing rhinitis indications rather than independent evidence of a new benefit.
+The very high TxGNN score (0.9998) is a computational prediction. It probably reflects the overlap with existing rhinitis indications rather than independent evidence of a new benefit.
 
 ## Clinical Trial Evidence
 
@@ -114,10 +114,9 @@ All have no trials or literature and are rated L5 (model prediction only):
 
 | Predicted Indication | TxGNN Score | Comment |
 |------|------|------|
-| Acute laryngopharyngitis | 99.98% | Plausible given existing pharyngitis use, but no supporting data (Hold) |
-| Faucial diphtheria | 99.54% | Treatment relies on antitoxin and antibiotics; guaifenesin has no such activity (Hold) |
-| Cervical disc degenerative disorder | 99.50% | No clear mechanistic link (Hold) |
-| Papillary conjunctivitis | 99.27% | Tenuous link through allergy only; no ocular mechanism (Hold) |
+| Faucial diphtheria | 0.9954 | Treatment relies on antitoxin and antibiotics; guaifenesin has no such activity (Hold) |
+| Cervical disc degenerative disorder | 0.9950 | No clear mechanistic link (Hold) |
+| Papillary conjunctivitis | 0.9927 | Tenuous link through allergy only; no ocular mechanism (Hold) |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

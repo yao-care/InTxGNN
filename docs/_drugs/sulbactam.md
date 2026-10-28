@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulbactam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 795
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Sulbactam: predicted new indication Bacterial arthritis (evidence level L3). Approved use: Staphylococcus aureus infection, Escherichia coli infection…"
 monitor_inn: "Sulbactam"
 predicted_indications: ["bacterial arthritis"]
+description: "Sulbactam: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sulbactam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-## Sulbactam: From Bacterial Infections (Staphylococcal and E. coli) to Bacterial Arthritis
+## Sulbactam: Bacterial arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **bacterial arthritis**, but th
 
 | Item | Content |
 |------|------|
-| Original Indication | Staphylococcus aureus infection, *Escherichia coli* infection, cholangitis (from the knowledge graph; the Indian licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bacterial arthritis |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
+| TxGNN Prediction Score | 0.9979 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

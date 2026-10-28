@@ -6,9 +6,9 @@ nav_order: 808
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Psoriasis, parapsoriasis, acne"
 monitor_inn: "Tazarotene"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
+description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tazarotene
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Tazarotene: From Psoriasis to Seborrheic Dermatitis
+## Tazarotene: Seborrheic dermatitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials or publications** currently support this specific predi
 
 | Item | Content |
 |------|------|
-| Original Indication | Psoriasis, parapsoriasis, acne (from the knowledge graph; no approved indication text is available in the India registrations) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Seborrheic dermatitis |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 12 |
+| India Market Status | Marketed (valid licences: 12 of 12) |
+| Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ Retinoids normalise keratinocyte differentiation and reduce hyperproliferation. 
 One caution is tolerability. Retinoid-related skin irritation could be a problem on already inflamed seborrheic skin.
 
 Two other predictions were also generated, and both are weaker than the lead one:
-- **Seborrheic keratosis** (score 99.51%, evidence level L4): two publications exist, a 2023 systematic review of topical treatments and a 2004 comparative study of cryosurgery against topical calcipotriene, tazarotene and imiquimod. Only titles and brief abstracts were available, so whether tazarotene showed efficacy is unclear. It is best treated as a research question.
-- **Vulvar inverted follicular keratosis** (score 99.38%, evidence level L5): no evidence. It is a rare benign lesion usually treated by excision, and the vulvar site raises mucosal irritation concerns.
+- **Seborrheic keratosis** (score 0.9951, evidence level L4): two publications exist, a 2023 systematic review of topical treatments and a 2004 comparative study of cryosurgery against topical calcipotriene, tazarotene and imiquimod. Only titles and brief abstracts were available, so whether tazarotene showed efficacy is unclear. It is best treated as a research question.
+- **Vulvar inverted follicular keratosis** (score 0.9938, evidence level L5): no evidence. It is a rare benign lesion usually treated by excision, and the vulvar site raises mucosal irritation concerns.
 
 ## Clinical Trial Evidence
 

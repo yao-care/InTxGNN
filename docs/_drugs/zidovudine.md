@@ -4,17 +4,17 @@ title: Zidovudine
 parent: Model Prediction Only (L5)
 nav_order: 903
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Zidovudine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease"
+indication_count: 4
 monitor_inn: "Zidovudine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+last_modified_at: 2026-10-23
+description: "Zidovudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease"
 ---
 
 # Zidovudine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,115 +33,89 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Zidovudine: From HIV Infection / AIDS to Simian Immunodeficiency Virus Infection
+## Zidovudine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI) originally used to treat HIV infection and AIDS.
-The TxGNN model's top-ranked prediction is **simian immunodeficiency virus (SIV) infection**, an animal model of HIV, supported by **0 clinical trials** and **about 20 publications** (almost all non-human primate studies).
-Among the other predictions, **congenital HIV** and **AIDS related complex** have Phase 3 trial support, but both fall within the drug's established HIV use rather than representing new repurposing opportunities.
+Zidovudine is a nucleoside reverse transcriptase inhibitor, with HIV infectious disease and AIDS recorded as its original indications in the knowledge graph. The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**. The supporting evidence is **0 clinical trials** and **19 publications**, nearly all of them veterinary or animal studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infectious disease; AIDS (the registration records compiled for this report contain no approved-indication text) |
-| Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 (preclinical studies only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 19 |
+| Original Indication | HIV infectious disease; AIDS (relations recorded in the knowledge graph; the Indian licence records contain no indication text) |
+| Predicted New Indication | Feline acquired immunodeficiency syndrome |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 19 of 19) |
+| Number of Registrations | 19 (valid: 19) |
+| Number of Approvals | 19 licences (all single-ingredient products) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, zidovudine is a thymidine analogue NRTI. It is phosphorylated in cells and blocks reverse transcription, the step lentiviruses need to replicate. Its efficacy in HIV/AIDS is well established.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI). Its use against HIV is recorded in the knowledge graph.
 
-SIV is a lentivirus closely related to HIV and uses the same reverse transcriptase target, so the mechanistic link is strong. However, SIV infection is an animal model of HIV rather than a distinct human disease. The prediction is essentially a restatement of the approved HIV use, not a new human indication.
+Feline immunodeficiency virus (FIV) and feline leukemia virus (FeLV) are retroviruses that depend on reverse transcriptase, so zidovudine is biologically plausible against them. Studies in cats and in experimentally infected animals report lower plasma virus titers, reduced provirus burden, and higher CD4 counts. Some studies found that treatment did not prevent infection or the spread of the virus, and one FeLV study found no effect on circulating virus without interferon.
 
-The other predictions follow a similar pattern:
-- **Feline acquired immunodeficiency syndrome (FIV/FeLV):** a veterinary indication, mechanistically plausible but not relevant to human repurposing.
-- **AIDS related complex** and **congenital HIV:** historical or perinatal stages of HIV disease, already covered by the drug's established use.
-- **A rare neurodevelopmental disorder** and **obsolete familial combined hyperlipidemia:** high model scores but no trials, no literature, and no identifiable mechanistic rationale. The second is likely an ontology artifact, and NRTIs are associated with lipid disturbances, which argues against benefit.
+This is a veterinary indication, and it is essentially the animal model of the human disease rather than a new human use. Its relevance to human drug repurposing is limited. Zidovudine toxicity in FeLV-infected cats is documented, so haematological safety is a concern.
+
+On the evidence level: the literature does study this disease directly, but only as animal studies. There are no clinical trials, and no systematic review or observational study in humans. Under the evidence rules, the level is **L5** rather than the L3 shown in the internal scoring.
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for the top-ranked indication (SIV infection). The most relevant human trials were found for the related HIV-stage predictions:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00001011](https://clinicaltrials.gov/study/NCT00001011) | Phase 3 | Completed | 538 | Safety and efficacy of zidovudine in early AIDS related complex |
-| [NCT00001104](https://clinicaltrials.gov/study/NCT00001104) | Phase 3 | Completed | 538 | Placebo-controlled zidovudine in HIV-infected hemophilic patients |
-| [NCT00000960](https://clinicaltrials.gov/study/NCT00000960) | Phase 3 | Completed | 1496 | Oral zidovudine in pregnant HIV-infected women and their infants to reduce mother-to-child transmission |
-| [NCT00000736](https://clinicaltrials.gov/study/NCT00000736) | Phase 3 | Completed | 3200 | Zidovudine in asymptomatic HIV-infected individuals; delay of AIDS/ARC onset |
-| [NCT00102960](https://clinicaltrials.gov/study/NCT00102960) | Phase 3 | Completed | 377 | Strategies for antiretroviral therapy in infants infected at birth |
-| [NCT00001022](https://clinicaltrials.gov/study/NCT00001022) | Phase 3 | Completed | 1200 | AZT alone vs AZT + didanosine vs AZT + zalcitabine |
-| [NCT00002124](https://clinicaltrials.gov/study/NCT00002124) | Phase 3 | Completed | 1250 | Delavirdine plus zidovudine vs zidovudine alone |
-| [NCT00002436](https://clinicaltrials.gov/study/NCT00002436) | Phase 3 | Completed | 325 | Lamivudine or zalcitabine added to AZT in AZT-experienced patients |
-| [NCT00002238](https://clinicaltrials.gov/study/NCT00002238) | Phase 3 | Completed | Not reported | Interferon beta in AIDS/advanced ARC patients on reduced-dose AZT |
-| [NCT00000803](https://clinicaltrials.gov/study/NCT00000803) | Phase 2 | Completed | 471 | Delavirdine with AZT and/or ddI vs AZT/ddI |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-**SIV infection (top prediction):** all studies are non-human primate or in vitro work.
+Showing the most relevant publications (animal studies, clinical studies in cats, and one review):
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Preclinical (macaque) | AIDS | Post-exposure prophylaxis with zidovudine, lamivudine and indinavir after vaginal SIV exposure |
-| [7695293](https://pubmed.ncbi.nlm.nih.gov/7695293/) | 1995 | Preclinical (newborn macaque) | Antimicrob Agents Chemother | Immediate oral zidovudine prevented infection or reduced virus load and AIDS onset |
-| [7690823](https://pubmed.ncbi.nlm.nih.gov/7690823/) | 1993 | Preclinical (macaque) | J Infect Dis | Effect of starting zidovudine at different times after SIV inoculation |
-| [7797947](https://pubmed.ncbi.nlm.nih.gov/7797947/) | 1995 | Preclinical (rhesus macaque) | J Infect Dis | Zidovudine prolonged survival and lowered CNS viral burden |
-| [11020686](https://pubmed.ncbi.nlm.nih.gov/11020686/) | 2000 | Review | Ann Emerg Med | Non-occupational HIV post-exposure prophylaxis; animal studies provide indirect support |
-
-**Related HIV-stage indications (human evidence):**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2677429](https://pubmed.ncbi.nlm.nih.gov/2677429/) | 1989 | Clinical cohort | JAMA | Prolonged zidovudine therapy in 229 patients with AIDS and advanced ARC |
-| [1777174](https://pubmed.ncbi.nlm.nih.gov/1777174/) | 1991 | Double-blind trial | AIDS | Zidovudine with or without acyclovir in ARC (n=199) |
-| [7913986](https://pubmed.ncbi.nlm.nih.gov/7913986/) | 1994 | Guideline | MMWR | U.S. Public Health Service recommendations on zidovudine to reduce perinatal HIV transmission |
-| [29912896](https://pubmed.ncbi.nlm.nih.gov/29912896/) | 2018 | Systematic review / network meta-analysis | PLoS One | Comparative safety and effectiveness of perinatal antiretroviral therapies |
-| [28537936](https://pubmed.ncbi.nlm.nih.gov/28537936/) | 2017 | Cohort | AIDS | Zidovudine use in pregnancy and congenital malformations; evidence inconsistent |
+| [22816032](https://pubmed.ncbi.nlm.nih.gov/22816032/) | 2012 | Clinical study in naturally infected cats | Viruses | Compared zidovudine alone and combined with interferon-α, lamivudine or valproic acid in naturally FIV-infected cats over one year |
+| [7495172](https://pubmed.ncbi.nlm.nih.gov/7495172/) | 1995 | Clinical study in cats | Zentralblatt fur Veterinarmedizin A | Long-term oral AZT versus conventional symptomatic therapy in FIV-seropositive cats with clinical symptoms |
+| [25855689](https://pubmed.ncbi.nlm.nih.gov/25855689/) | 2016 | Follow-up study in cats | J Feline Med Surg | Effects of long-term antiretroviral therapy starting with AZT for 5-6 years in FIV-infected cats |
+| [1363008](https://pubmed.ncbi.nlm.nih.gov/1363008/) | 1992 | Clinical study in cats | Vet Immunol Immunopathol | Efficacy and side effects of AZT and PMEA in naturally FIV- and FeLV-infected cats with symptoms |
+| [7688949](https://pubmed.ncbi.nlm.nih.gov/7688949/) | 1993 | Animal study | Arch Virol | Zidovudine did not prevent FIV infection, but plasma virus titers were lower than controls at 2 weeks |
+| [8381867](https://pubmed.ncbi.nlm.nih.gov/8381867/) | 1993 | Animal study | J Acquir Immune Defic Syndr | Prophylactic ZDV prevented early viremia and lymphocyte decline but not primary infection |
+| [7749786](https://pubmed.ncbi.nlm.nih.gov/7749786/) | 1995 | Animal study | J Acquir Immune Defic Syndr Hum Retrovirol | Early suppression of viremia kept CD4 counts higher but did not alter spread of infection |
+| [7618256](https://pubmed.ncbi.nlm.nih.gov/7618256/) | 1995 | Animal study | Vet Immunol Immunopathol | Reduced provirus burden and enhanced humoral immune function in AZT-treated SCID-feline mice |
+| [2163339](https://pubmed.ncbi.nlm.nih.gov/2163339/) | 1990 | Animal toxicity study | Fundam Appl Toxicol | Zidovudine toxicity evaluated in FeLV-infected cats |
+| [8820595](https://pubmed.ncbi.nlm.nih.gov/8820595/) | 1995 | Review | Semin Vet Med Surg (Small Anim) | Management of retrovirus-infected cats, including virus-specific therapy such as zidovudine |
 
 ## India Market Information
 
-Zidovudine is marketed in India with 19 valid single-ingredient registrations (no combination or cancelled registrations). The records compiled for this report do not include approved-indication text. Main registrations:
+The 19 licences are all single-ingredient products, and none carries approved-indication text in the records. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 250241 | Zido H 100mg Capsule | Strip of 10 capsules | Not available |
-| 251540 | Zidomax 100mg Capsule | Strip of 10 capsules | Not available |
-| 251471 | Zidohope 100mg Tablet | Bottle of 100 tablets | Not available |
-| 248526 | Zidine 300mg Tablet | Bottle of 60 tablets | Not available |
-| 247170 | Zidovir 300mg Tablet | Strip of 10 tablets | Not available |
-
-All products are oral forms (capsules and tablets) from manufacturers including Cipla, Sun Pharma, Alkem, Macleods and Emcure.
+| 250241 | Zido H 100mg Capsule | Strip of 10 capsules | Not stated in the records |
+| 251540 | Zidomax 100mg Capsule | Strip of 10 capsules | Not stated in the records |
+| 251471 | Zidohope 100mg Tablet | Bottle of 100 tablets | Not stated in the records |
+| 251604 | Zidovex 100mg Capsule | Strip of 10 capsules | Not stated in the records |
+| 248526 | Zidine 300mg Tablet | Bottle of 60 tablets | Not stated in the records |
 
 ## Safety Considerations
 
-**Contraindication-related disease associations (from a drug-disease knowledge graph, not label text):** liver failure and liver disease, kidney disease, pancreatitis, gallbladder disease, myopathy and myositis (including dermatomyositis), neutropenia, agranulocytosis, anemia (including macrocytic anemia), hypertriglyceridemia, fatty liver disease and non-alcoholic steatohepatitis, lactic acidosis, obesity, and familial periodic paralysis.
+- **Relations recorded in the knowledge graph (not label text):** the knowledge graph records zidovudine contraindication relations with liver failure, liver disease, kidney disease, pancreatitis, neutropenia, agranulocytosis, anaemia (including macrocytic anaemia), lactic acidosis, myopathy, myositis, dermatomyositis, fatty liver disease and hypertriglyceridaemia, among others.
+- **Drug Interactions:** 235 interactions were found. Moderate-level examples include amphotericin B, corticosteroids (dexamethasone, prednisone, hydrocortisone, betamethasone, budesonide, prednisolone, triamcinolone), rosuvastatin, simvastatin, naltrexone and orlistat. Minor-level examples include cimetidine and clarithromycin.
+- **Animal toxicity:** zidovudine toxicity has been documented in FeLV-infected cats, so haematological monitoring is relevant.
 
-**Drug Interactions:** 235 interactions were recorded. Those listed include:
-- **Moderate:** amphotericin B (including lipid formulations), systemic corticosteroids (betamethasone, budesonide, dexamethasone, hydrocortisone, prednisolone, prednisone, triamcinolone), naltrexone, rosuvastatin, simvastatin, orlistat
-- **Minor:** cimetidine, clarithromycin
-- **Level unknown:** pantoprazole, omeprazole, morphine, metformin
-
-Veterinary studies also report zidovudine toxicity in cats. For label-based warnings and contraindications, please refer to the package insert.
+Please refer to the package insert for the official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (SIV infection) is supported only by non-human primate studies and is essentially a restatement of the approved HIV use, so it offers no new human repurposing value. The Phase 3 evidence for AIDS related complex and congenital HIV is strong (L1), but those uses are already established. The remaining high-scoring predictions have no trials, no literature and no plausible mechanism.
+Support for feline acquired immunodeficiency syndrome comes entirely from veterinary and animal studies, with no registered clinical trials. It is essentially the animal model of zidovudine's existing HIV use. It therefore does not constitute a new human indication, and the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data to support mechanistic-link analysis
-- Package insert warnings and contraindications for India-marketed products (currently missing, and a blocker for safety screening)
-- Approved-indication text for the registered products
-- Identification of a genuinely non-HIV indication with human evidence, since the current predictions are within the existing HIV use or are non-human diseases
-- For perinatal use, a guardrail review covering congenital malformation risk, neonatal hematologic toxicity, and the current preference for combination regimens over zidovudine alone
+- Confirmation of whether a veterinary development path is actually intended, since human repurposing relevance is limited
+- Package insert warnings and contraindications from the Indian licence holders
+- Mechanism of action data
+- Haematological and mitochondrial safety data relevant to the target species
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

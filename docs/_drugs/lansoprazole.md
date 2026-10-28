@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lansoprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 471
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Lansoprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Lansoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lansoprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Lansoprazole: From Gastric Ulcer and Acid-Related Upper GI Disease to Duodenogastric Reflux
+## Lansoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lansoprazole is a proton pump inhibitor originally used to treat gastric and duodenal ulcers, gastroesophageal reflux disease, esophagitis, and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **duodenogastric reflux**, but there are **no registered clinical trials** and only **1 general review article**, so evidence is limited to model prediction and indirect reasoning.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (the approved indication text on the Indian licences is blank; these come from the knowledge graph) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9968 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +60,7 @@ Duodenogastric (bile) reflux is the backflow of duodenal contents, including bil
 
 The high TxGNN score likely reflects the close pathophysiological and network proximity of this condition to lansoprazole's existing indications (GERD, esophagitis, peptic ulcer), not independent clinical evidence.
 
-A second prediction, duodenal obstruction (score 99.68%), was also generated. It has no identified mechanistic rationale, no trials, and no literature. Obstruction is mainly a mechanical or structural problem, and lansoprazole would at most be an adjunct for associated peptic disease. This prediction is not pursued further here.
+A second prediction, duodenal obstruction (score 0.9968), was also generated. It has no identified mechanistic rationale, no trials, and no literature. Obstruction is mainly a mechanical or structural problem, and lansoprazole would at most be an adjunct for associated peptic disease. This prediction is not pursued further here.
 
 ## Clinical Trial Evidence
 

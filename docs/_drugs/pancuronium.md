@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Pancuronium: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the registration data compiled for this report (pancuro…"
+last_modified_at: 2026-10-28
 monitor_inn: "Pancuronium"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "obsolete neurogenic bladder (disease)", "neurocirculatory asthenia", "migraine disorder", "migraine with brainstem aura", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "autonomic nervous system disease", "MVP1"]
+description: "Pancuronium: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pancuronium
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pancuronium: From Neuromuscular Blockade to Cauda Equina Syndrome
+## Pancuronium: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Pancuronium is a non-depolarizing neuromuscular blocker, used as a muscle relaxa
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the registration data compiled for this report (pancuronium is generally known as a neuromuscular blocking agent) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -60,16 +60,16 @@ Pancuronium is a non-depolarizing neuromuscular blocker, used as a muscle relaxa
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, pancuronium is a non-depolarizing neuromuscular blocker. It antagonizes nicotinic acetylcholine receptors at the motor endplate and also has vagolytic activity.
 
-The link to cauda equina syndrome is weak. Cauda equina syndrome is a compressive neurological emergency that normally requires surgical decompression, and neuromuscular blockade has no plausible disease-modifying role. The high TxGNN score (99.95%) is a model output only. It is not backed by trials or literature, and it likely reflects network proximity in the knowledge graph rather than a pharmacological rationale.
+The link to cauda equina syndrome is weak. Cauda equina syndrome is a compressive neurological emergency that normally requires surgical decompression, and neuromuscular blockade has no plausible disease-modifying role. The high TxGNN score (0.9995) is a model output only. It is not backed by trials or literature. It comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a pharmacological rationale.
 
 Other predictions had similarly weak rationale:
 
-- **Irritable bowel syndrome** (99.93%): a theoretical antimuscarinic or vagolytic effect on gut motility, but a systemic neuromuscular blocker that needs ventilatory support is impractical for a chronic functional disorder.
-- **Neurogenic bladder (obsolete term)** (99.89%): weak M2 blocking activity, but not a recognized or practical therapeutic route.
-- **Neurocirculatory asthenia** (99.81%): pancuronium's sympathomimetic-like hemodynamic effects are the opposite of what would be needed.
-- **Migraine and migraine with brainstem aura** (99.70% and 99.62%): no established mechanism.
-- **Mitral valve prolapse (familial, general, and MVP1)** (99.48%, 99.48%, 99.40%): a structural valve disorder, and pancuronium's tachycardic effect could be undesirable.
-- **Autonomic nervous system disease** (99.45%): the only prediction with a genuine pharmacological link, because pancuronium acts on autonomic pathways. However, the literature describes drug behavior in patients who already have autonomic dysfunction, not treatment of the disease.
+- **Irritable bowel syndrome** (0.9993): a theoretical antimuscarinic or vagolytic effect on gut motility, but a systemic neuromuscular blocker that needs ventilatory support is impractical for a chronic functional disorder.
+- **Neurogenic bladder (obsolete term)** (0.9989): weak M2 blocking activity, but not a recognized or practical therapeutic route.
+- **Neurocirculatory asthenia** (0.9981): pancuronium's sympathomimetic-like hemodynamic effects are the opposite of what would be needed.
+- **Migraine and migraine with brainstem aura** (0.9970 and 0.9962): no established mechanism.
+- **Mitral valve prolapse (familial, general, and MVP1)** (0.9948, 0.9948, 0.9940): a structural valve disorder, and pancuronium's tachycardic effect could be undesirable.
+- **Autonomic nervous system disease** (0.9945): the only prediction with a genuine pharmacological link, because pancuronium acts on autonomic pathways. However, the literature describes drug behavior in patients who already have autonomic dysfunction, not treatment of the disease.
 
 ---
 

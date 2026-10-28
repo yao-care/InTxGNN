@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Quetiapine: From Schizophrenia and Bipolar Disorder to Retinal Dystrophy
+## Quetiapine: From Schizophrenia and Bipolar Disorder to retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Schizophrenia; bipolar disorder (including manic bipolar affective disorder and major affective disorder). The Indian licence records list no indication text. |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 Currently, detailed mechanism of action data is not available. Based on known information, quetiapine is an atypical antipsychotic. Its efficacy in schizophrenia and bipolar disorder is established. Its receptor pharmacology is generally described as dopamine D2 and serotonin 5-HT2A antagonism, with histamine H1 and alpha-1 adrenergic blockade.
 
-Inherited retinal dystrophies are genetic degenerative conditions of the retina. From the data compiled for this report, no plausible mechanistic link can be established between quetiapine's receptor pharmacology and the pathology of these conditions. The high score (rank 7,551 in the model's overall ranking) reflects a pattern in the knowledge graph rather than demonstrated biology. This prediction should be treated as a hypothesis only.
+Inherited retinal dystrophies are genetic degenerative conditions of the retina. From the data compiled for this report, no plausible mechanistic link can be established between quetiapine's receptor pharmacology and the pathology of these conditions. The high score (rank 7,551 in the model's overall ranking) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should be treated as a hypothesis only.
 
 ---
 
@@ -116,7 +116,7 @@ Please also refer to the package insert for label-based warnings and contraindic
 **Rationale:**
 The prediction rests on a model score alone, with no clinical trials, no literature and no identifiable mechanistic link. Quetiapine also carries notable cardiometabolic and haematological safety signals, which raise the bar for any new use.
 
-For context, among the top 10 predicted indications, **trichotillomania** (score 99.38%) has the most supporting evidence. It has six publications, mostly case reports and reviews, including quetiapine-specific reports (PMIDs 19142421, 12405081). It has no registered trials and sits at L4, so it is a research question rather than an actionable indication. The other predictions, such as congenital glycosylation disorders, structural brain malformations and X-linked myopia, are also unsupported.
+For context, among the top 10 predicted indications, **trichotillomania** (score 0.9938) has the most supporting evidence. It has six publications, mostly case reports and reviews, including quetiapine-specific reports (PMIDs 19142421, 12405081). It has no registered trials and sits at L4, so it is a research question rather than an actionable indication. The other predictions, such as congenital glycosylation disorders, structural brain malformations and X-linked myopia, are also unsupported.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to allow a mechanistic assessment

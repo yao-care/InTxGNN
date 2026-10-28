@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Travoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma, ocular hypertension"
 monitor_inn: "Travoprost"
-predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
+predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
 ---
 
 # Travoprost
@@ -48,9 +48,9 @@ Evidence for the other top-ranked predictions is also absent or only indirect.
 |------|------|
 | Original Indication | Open-angle glaucoma, ocular hypertension |
 | Predicted New Indication | Visceral calciphylaxis |
-| TxGNN Prediction Score | 99.99985% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to visceral calciphylaxis (calcific uremic arteriolopathy) is weak. FP-receptor agonists have vasodilatory activity, which is conceptually related to vascular disease. However, the data compiled for this report show no biological or clinical link to calciphylaxis. Topical eye-drop dosing also gives minimal systemic exposure, so a systemic vascular effect is unlikely.
 
-The other top predictions (thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome, lymphangiectasis, spontaneous coronary artery dissection) show the same pattern. Several are mainly mechanical or anatomical conditions with no plausible role for an FP-receptor agonist. The high scores likely reflect knowledge-graph similarity rather than a verified mechanism.
+The other top predictions (thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome, lymphangiectasis, spontaneous coronary artery dissection) show the same pattern. Several are mainly mechanical or anatomical conditions with no plausible role for an FP-receptor agonist. The high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

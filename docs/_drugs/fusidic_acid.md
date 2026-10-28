@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fusidic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 385
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Fusidic Acid: predicted new indication Exposure keratitis (evidence level L4). Approved use: Not stated on the Indian licences"
 monitor_inn: "Fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
+description: "Fusidic Acid: predicted new indication Exposure keratitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fusidic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Fusidic Acid: From Bacterial Skin and Systemic Infections to Exposure Keratitis
+## Fusidic Acid: Exposure keratitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **Exposure Keratitis**, but the
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated on the Indian licences; the knowledge graph lists urinary tract infection, bronchitis, acne, folliculitis, seborrheic dermatitis, bacterial pneumonia and others |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Exposure keratitis |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **Exposure Keratitis**, but the
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, fusidic acid inhibits bacterial protein synthesis by blocking elongation factor G, and it is strongly active against Gram-positive bacteria such as *Staphylococcus*.
 
-Exposure keratitis is mainly a mechanical or desiccation disorder of the cornea, caused by incomplete eyelid closure. An antibacterial would only be relevant if a secondary bacterial infection developed. The single retrieved paper is a case series on ocular *Tsukamurella* infections and does not study fusidic acid in this condition. The very high TxGNN score therefore appears to reflect proximity in the knowledge graph (ocular and infectious disease nodes) rather than clinical support.
+Exposure keratitis is mainly a mechanical or desiccation disorder of the cornea, caused by incomplete eyelid closure. An antibacterial would only be relevant if a secondary bacterial infection developed. The single retrieved paper is a case series on ocular *Tsukamurella* infections and does not study fusidic acid in this condition. The very high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or clinical support.
 
 ---
 
@@ -97,7 +97,7 @@ All registered products are topical creams or ointments; no oral or ophthalmic f
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: The knowledge graph links fusidic acid with contraindications in conditions including liver failure, liver disease, kidney disease, gallbladder disease, diabetes mellitus, diabetic ketoacidosis, atrial fibrillation, atrioventricular block, myasthenia gravis, glaucoma, ocular hypertension, herpes simplex virus keratitis, eye infectious disease, conjunctivitis, *Clostridium difficile* colitis and respiratory failure. These associations are model-derived and should be checked against the official package insert.
+- **Contraindications (TxGNN model associations, not label text)**: The TxGNN model (deep learning) associates fusidic acid with contraindications in conditions including liver failure, liver disease, kidney disease, gallbladder disease, diabetes mellitus, diabetic ketoacidosis, atrial fibrillation, atrioventricular block, myasthenia gravis, glaucoma, ocular hypertension, herpes simplex virus keratitis, eye infectious disease, conjunctivitis, *Clostridium difficile* colitis and respiratory failure. These associations may reflect similarities the model learned between related diseases, not biological evidence, and should be checked against the official package insert.
 - **Ocular relevance**: Several of these associations involve the eye (glaucoma, ocular hypertension, herpes simplex keratitis, eye infection, conjunctivitis), which needs particular scrutiny for any ophthalmic use.
 
 No drug-interaction data were found, and package-insert warnings were not available. Please refer to the package insert for full safety information.

@@ -50,9 +50,9 @@ The best-supported direction among the predictions is **Obstructive Lung Disease
 |------|------|
 | Original Indication | Asthma, bronchial disease (approved indication text is not listed in the registration records) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -65,8 +65,8 @@ Currently, detailed mechanism of action data is not available in the data compil
 For nasal cavity disease, the link is speculative. Any benefit would have to come from effects such as mucosal vasoconstriction or decongestion, and no study supports this. The high score probably reflects the drug's network proximity to other respiratory tract diseases rather than a demonstrated mechanism.
 
 The other predictions follow the same pattern. Pharyngitis, acute laryngopharyngitis, anorectal stricture, proctitis, anal polyp and allergic urticaria have no trials or publications, and no plausible mechanism. Some of these, such as anorectal stricture, are likely model artifacts. Two predictions have more support:
-- **Bronchitis** (score 99.97%): bronchodilation is plausible, and one 2023 publication studied a fixed-dose combination of ambroxol, guaifenesin and levosalbutamol for productive cough in acute bronchitis. The contribution of levosalbutamol alone cannot be separated out (Evidence Level L4).
-- **Obstructive lung disease** (score 99.85%): this has a strong mechanistic fit, but it is mostly an extension of the existing asthma and bronchial indication rather than true repurposing (Evidence Level L3).
+- **Bronchitis** (score 0.9997): bronchodilation is plausible, and one 2023 publication studied a fixed-dose combination of ambroxol, guaifenesin and levosalbutamol for productive cough in acute bronchitis. The contribution of levosalbutamol alone cannot be separated out (Evidence Level L4).
+- **Obstructive lung disease** (score 0.9985): this has a strong mechanistic fit, but it is mostly an extension of the existing asthma and bronchial indication rather than true repurposing (Evidence Level L3).
 
 ---
 

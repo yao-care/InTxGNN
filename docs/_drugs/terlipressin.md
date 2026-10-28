@@ -4,17 +4,17 @@ title: Terlipressin
 parent: Model Prediction Only (L5)
 nav_order: 825
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Terlipressin: predicted new indication Open-angle glaucoma . Evidence review shows pulmonary hypertension is… (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Terlipressin"
-predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder", "hyperthyroidism", "glaucoma", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
+description: "Terlipressin: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terlipressin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Terlipressin: From Portal Hypertension-Related Conditions to Pulmonary Hypertension
+## Terlipressin: Open-angle glaucoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Terlipressin is a long-acting vasopressin analogue given by injection, widely marketed in India. The TxGNN model's top-ranked predictions were eye conditions (glaucoma), but these have no supporting evidence. The best-supported prediction is **Pulmonary Hypertension**, which has **no registered clinical trials** and about **20 publications**, mostly small physiological studies, case reports and observational work.
+Terlipressin is a long-acting vasopressin analogue given by injection, widely marketed in India. The best-supported prediction is **Pulmonary Hypertension**, which has **no registered clinical trials** and about **20 publications**, mostly small physiological studies, case reports and observational work.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the data compiled for this report (the Indian licence records contain no approved-indication text) |
-| Predicted New Indication | Open-angle glaucoma (rank 1, TxGNN score 99.78%). Evidence review shows pulmonary hypertension (rank 3, score 99.56%) is the only prediction with meaningful supporting literature, so it is the focus of this report |
-| TxGNN Prediction Score | 99.78% for open-angle glaucoma; 99.56% for pulmonary hypertension |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Open-angle glaucoma |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 for open-angle glaucoma; L3 for pulmonary hypertension |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (open-angle glaucoma); Research Question for pulmonary hypertension, which is closest to Proceed with Guardrails only after further study |
 
@@ -56,7 +56,7 @@ Terlipressin is a long-acting vasopressin analogue given by injection, widely ma
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, terlipressin is a synthetic vasopressin analogue that acts mainly on V1 receptors, causing systemic and splanchnic vasoconstriction.
 
-**Open-angle glaucoma (top-ranked prediction).** No plausible mechanism for lowering intraocular pressure is apparent. Systemic vasoconstriction could in theory reduce ocular perfusion, which is a potential safety concern rather than a benefit. The very high score likely reflects knowledge-graph connectivity artefacts. No trials or literature support it. The same applies to the related eye predictions (primary hereditary glaucoma, "glaucoma 1, open angle", glaucoma, esotropia).
+**Open-angle glaucoma (top-ranked prediction).** No plausible mechanism for lowering intraocular pressure is apparent. No trials or literature support it. The same applies to the related eye predictions (primary hereditary glaucoma, "glaucoma 1, open angle", glaucoma, esotropia).
 
 **Pulmonary hypertension (best-supported prediction).** Small haemodynamic studies in cirrhotic patients with portopulmonary or pulmonary hypertension suggest terlipressin may lower pulmonary vascular resistance and pressure while raising systemic pressure. Other vasoconstrictors can worsen pulmonary pressures. Case reports also describe rescue use in persistent pulmonary hypertension of the newborn with refractory shock. This selective effect gives a plausible, though unproven, rationale. The evidence is limited to small studies and case reports, and many retrieved papers concern portal hypertension, which is a different condition.
 
@@ -80,7 +80,6 @@ Publications relevant to pulmonary hypertension:
 | [30971593](https://pubmed.ncbi.nlm.nih.gov/30971593/) | 2019 | Comparative study | Ann Card Anaesth | Terlipressin versus norepinephrine to prevent milrinone-induced systemic hypotension in cardiac surgery patients with pulmonary hypertension, hypothesised to avoid raising pulmonary pressures |
 | [34179513](https://pubmed.ncbi.nlm.nih.gov/34179513/) | 2021 | Systematic review protocol | BMJ Paediatr Open | Protocol to review efficacy and safety of vasopressin and terlipressin in preterm neonates |
 
-Note: the single paper retrieved for "glaucoma" (PMID 31841026, dobutamine reversing terlipressin's cardio-suppressive effects in cirrhosis) is unrelated to glaucoma and provides no support.
 
 ## India Market Information
 
@@ -97,7 +96,6 @@ There are 20 valid single-ingredient licences in total, all injectable. Only the
 ## Safety Considerations
 
 - **Respiratory failure and ischaemic events** are known terlipressin concerns and are particularly relevant for any pulmonary or cardiovascular use.
-- Systemic vasoconstriction could theoretically reduce ocular perfusion, which is relevant to the glaucoma predictions.
 - Headache is a known adverse effect of vasopressin analogues.
 - Cardiovascular risks may matter in hyperthyroid patients.
 
@@ -105,10 +103,9 @@ Please refer to the package insert for full warnings, contraindications and drug
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for the top-ranked glaucoma predictions and all other predictions without evidence). **Pulmonary hypertension is a Research Question** worth further study.
+**Pulmonary hypertension is a Research Question** worth further study.
 
 **Rationale:**
-- The highest-scoring predictions (glaucoma and related eye conditions) have no clinical or literature support and no plausible mechanism, so they likely reflect knowledge-graph artefacts.
 - Pulmonary hypertension has a plausible mechanism and small supportive studies, but the evidence is limited to small haemodynamic studies and case reports, with no registered trials.
 
 **To proceed, the following is needed:**

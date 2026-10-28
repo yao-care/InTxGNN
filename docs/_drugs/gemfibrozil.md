@@ -4,17 +4,17 @@ title: Gemfibrozil
 parent: Moderate Evidence (L3-L4)
 nav_order: 389
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Hypertriglyceridemia"
 monitor_inn: "Gemfibrozil"
-predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Other predicted indications (HIV-associated lipid disorders and hypoalphalipopro
 |------|------|
 | Original Indication | Hypertriglyceridemia |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -86,7 +86,7 @@ Eight valid single-ingredient registrations exist in total.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: liver disease, gallbladder disease, cholelithiasis and related biliary stone conditions, primary biliary cholangitis, impaired renal function, thrombocytopenia, leukopenia, anaemia (including macrocytic anaemia).
+- **Contraindications (not from label text; the TxGNN model (deep learning) may reflect similarities it learned between related diseases, not biological evidence)**: liver disease, gallbladder disease, cholelithiasis and related biliary stone conditions, primary biliary cholangitis, impaired renal function, thrombocytopenia, leukopenia, anaemia (including macrocytic anaemia).
 - **Drug Interactions**: 129 interactions were identified. Major ones include:
   - Statins: rosuvastatin and simvastatin
   - Antidiabetic agents: pioglitazone and repaglinide
@@ -114,11 +114,10 @@ The high TxGNN score is not backed by human evidence. There are no registered tr
 
 | Rank | Predicted Indication | Score | Evidence Level | Decision | Notes |
 |---|---|---|---|---|---|
-| 3 | HIV infectious disease | 99.80% | L2 | Research Question | Supports managing protease-inhibitor-associated hypertriglyceridaemia, not treating HIV itself. Includes a randomized double-blind study ([PMID 12409741](https://pubmed.ncbi.nlm.nih.gov/12409741/)) and a comparative effectiveness study ([PMID 23892238](https://pubmed.ncbi.nlm.nih.gov/23892238/)). One Phase 1 trial ([NCT00039663](https://clinicaltrials.gov/study/NCT00039663)) was low relevance. Interaction risk with statins and antiretrovirals requires guardrails. |
-| 4 | Hypoalphalipoproteinemia (low HDL) | 99.77% | L3 | Proceed with Guardrails | Several small, older crossover and comparison studies (1989–2000) showing lipoprotein changes. Mostly surrogate endpoints. No registered trials. |
-| 8 | Familial combined hyperlipidemia (obsolete term) | 99.71% | L5 | Hold | Mechanistically plausible, but the term is obsolete and must be mapped to a current one before assessment. |
-| 9 | Sclerosing cholangitis | 99.70% | L4 | Hold | Literature covers fibrate safety in cholestatic disease, not efficacy. Hepatotoxicity concern. |
-| 2, 5, 6, 7, 10 | Multiple endocrine neoplasia; brachydactyly-syndactyly syndrome; colobomatous microphthalmia-rhizomelic dysplasia syndrome; methemoglobinemia, alpha type; methemoglobin reductase deficiency | 99.70–99.83% | L5 | Hold | No clinical or literature evidence and no plausible mechanistic link. Computational prediction only. |
+| 3 | HIV infectious disease | 0.9980 | L2 | Research Question | Supports managing protease-inhibitor-associated hypertriglyceridaemia, not treating HIV itself. Includes a randomized double-blind study ([PMID 12409741](https://pubmed.ncbi.nlm.nih.gov/12409741/)) and a comparative effectiveness study ([PMID 23892238](https://pubmed.ncbi.nlm.nih.gov/23892238/)). One Phase 1 trial ([NCT00039663](https://clinicaltrials.gov/study/NCT00039663)) was low relevance. Interaction risk with statins and antiretrovirals requires guardrails. |
+| 4 | Hypoalphalipoproteinemia (low HDL) | 0.9977 | L3 | Proceed with Guardrails | Several small, older crossover and comparison studies (1989–2000) showing lipoprotein changes. Mostly surrogate endpoints. No registered trials. |
+| 9 | Sclerosing cholangitis | 0.9970 | L5 | Hold | Literature covers fibrate safety in cholestatic disease, not efficacy. Hepatotoxicity concern. |
+| 2, 5, 6, 7, 10 | Multiple endocrine neoplasia; brachydactyly-syndactyly syndrome; colobomatous microphthalmia-rhizomelic dysplasia syndrome; methemoglobinemia, alpha type; methemoglobin reductase deficiency | 99.70–0.9983 | L5 | Hold | No clinical or literature evidence and no plausible mechanistic link. Computational prediction only. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

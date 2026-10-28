@@ -50,10 +50,10 @@ but currently **no clinical trials and no publications** support this direction.
 |------|------|
 | Original Indication | Atrial fibrillation, malaria (from the knowledge graph; the India label text has no indication recorded) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.27% |
+| TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause inappropriate water reabsorption in the renal collecting duct even when vasopressin is undetectable. No established mechanism links quinidine to V2 receptor signalling or aquaporin-2 regulation. A speculative route might involve ion-channel modulation in renal tubular cells, but nothing in the available data supports it.
 
-The high TxGNN score (0.993) therefore reflects a pattern found in the knowledge graph, not demonstrated biology or clinical benefit. Current NSIAD management relies on fluid restriction, urea, and sometimes vaptan-class or other agents. None of these involve quinidine.
+The high TxGNN score (0.9927) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or demonstrated clinical benefit. Current NSIAD management relies on fluid restriction, urea, and sometimes vaptan-class or other agents. None of these involve quinidine.
 
 ---
 

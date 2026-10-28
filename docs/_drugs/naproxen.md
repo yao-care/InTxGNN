@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 579
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
-description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Bursitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis…"
+last_modified_at: 2026-10-28
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Naproxen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Naproxen: From Inflammatory and Musculoskeletal Pain Conditions to Brachydactyly-Syndactyly Syndrome
+## Naproxen: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **brachydactyly-syndactyly synd
 
 | Item | Content |
 |------|------|
-| Original Indication | Bursitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis, gout, migraine, osteoarthritis and related conditions (the approved indication text in the India licences is blank) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
-| TxGNN Prediction Score | 99.35% |
+| TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,12 +57,12 @@ The TxGNN model predicts it may be effective for **brachydactyly-syndactyly synd
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Naproxen is generally known as a non-selective COX inhibitor with anti-inflammatory and analgesic effects, and its efficacy in inflammatory joint and pain conditions is established.
 
-Brachydactyly-syndactyly syndrome, however, is a congenital skeletal malformation with a developmental and genetic basis. Blocking prostaglandin synthesis is not expected to correct a structural limb patterning defect, so no mechanistic link is supported by the available data. The high score (99.35%) most likely reflects network proximity in the knowledge graph (for example, to skeletal and joint-related terms among naproxen's original indications) rather than a true therapeutic relationship.
+Brachydactyly-syndactyly syndrome, however, is a congenital skeletal malformation with a developmental and genetic basis. Blocking prostaglandin synthesis is not expected to correct a structural limb patterning defect, so no mechanistic link is supported by the available data. The high score (0.9935) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other three top-ranked predictions show the same pattern. All are rare congenital developmental syndromes, with no trials or literature:
-- Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.22%)
-- Acromesomelic dysplasia, Hunter-Thompson type (99.17%)
-- Brachyolmia-amelogenesis imperfecta syndrome (99.06%)
+- Colobomatous microphthalmia-rhizomelic dysplasia syndrome (0.9922)
+- Acromesomelic dysplasia, Hunter-Thompson type (0.9917)
+- Brachyolmia-amelogenesis imperfecta syndrome (0.9906)
 
 At most, naproxen might relieve joint pain symptomatically in some of these patients, which is not a repurposing claim.
 

@@ -48,13 +48,13 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid hemorrhage) |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.29% |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 
-Note: The approved indication text is blank in all India registration records compiled for this report, so the original indication above comes from the knowledge-graph indication data.
+Note: The approved indication text is blank in all India registration records compiled for this report, so the original indication above is not taken from those records. Any TxGNN model (deep learning) score may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Why is This Prediction Reasonable?
 
@@ -62,9 +62,9 @@ Currently, detailed mechanism of action data is not available. Based on general 
 
 Homozygous familial hypercholesterolemia is caused mainly by defects in the LDL receptor pathway (LDLR, APOB, PCSK9, LDLRAP1). The data compiled for this report do not support a direct mechanistic link between nimodipine and this pathway. Some calcium channel blockers have been reported to have minor effects on vascular lipid handling or atherosclerosis in preclinical settings. This connection is indirect and does not address the underlying LDL receptor deficiency.
 
-The very high TxGNN score (0.993) is a computational prediction only. It is not corroborated by any trial or publication, so it should be treated as a hypothesis to test, not as evidence of benefit.
+The very high TxGNN score (0.9929) is a computational prediction only. It is not corroborated by any trial or publication, so it should be treated as a hypothesis to test, not as evidence of benefit.
 
-A second prediction, nephrogenic syndrome of inappropriate antidiuresis (score 99.05%), is also at the model-only stage (L5, Hold). Its link is speculative: calcium signaling plays a role in renal water handling, but there is no evidence that nimodipine acts on the vasopressin V2 receptor pathway.
+A second prediction, nephrogenic syndrome of inappropriate antidiuresis (score 0.9905), is also at the model-only stage (L5, Hold). Its link is speculative: calcium signaling plays a role in renal water handling, but there is no evidence that nimodipine acts on the vasopressin V2 receptor pathway.
 
 ## Clinical Trial Evidence
 

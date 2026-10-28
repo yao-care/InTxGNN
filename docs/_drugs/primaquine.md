@@ -4,17 +4,17 @@ title: Primaquine
 parent: Model Prediction Only (L5)
 nav_order: 699
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Primaquine: predicted new indication Myiasis (evidence level L5). Approved use: Plasmodium vivax malaria"
 monitor_inn: "Primaquine"
 predicted_indications: ["myiasis", "wound myiasis", "furuncular myiasis", "creeping myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
+description: "Primaquine: predicted new indication Myiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Primaquine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Primaquine: From Plasmodium vivax Malaria to Myiasis
+## Primaquine: Myiasis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **myiasis** (fly-larvae infesta
 
 | Item | Content |
 |------|------|
-| Original Indication | Plasmodium vivax malaria |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Myiasis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Myiasis is an infestation of tissue by fly larvae, which are multicellular insect parasites. Primaquine is not known to act on insect targets. Standard care is mechanical removal or debridement, plus larvicidal agents such as ivermectin, and primaquine has no known larvicidal activity. The same lack of a mechanistic link applies to the related subtypes (wound, furuncular and creeping myiasis).
 
-The high TxGNN score most likely reflects proximity to antiparasitic drugs in the knowledge graph rather than a real biological relationship. It should be read as a computational artifact, not as evidence of efficacy.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a computational result, not as evidence of efficacy.
 
 ---
 
@@ -95,7 +95,7 @@ Primaquine is marketed in India as single-ingredient oral tablets, with 20 valid
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from knowledge-graph associations, not label text)**: neutropenia, agranulocytosis, G6PD deficiency, hemolytic anemia, methemoglobinemia due to methemoglobin reductase deficiency, glycogen storage disease, cystinuria, galactosemia, and pyruvate dehydrogenase E3 deficiency.
+- **Contraindication-related conditions (not taken from label text)**: neutropenia, agranulocytosis, G6PD deficiency, hemolytic anemia, methemoglobinemia due to methemoglobin reductase deficiency, glycogen storage disease, cystinuria, galactosemia, and pyruvate dehydrogenase E3 deficiency.
 - **Drug Interactions**: 278 interactions are recorded. One is Major (dolasetron). Most others are Moderate, including famotidine, alosetron, loperamide, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, and various laxatives and bowel-preparation agents. Metronidazole is Minor.
 
 Please refer to the package insert for label warnings and contraindications.

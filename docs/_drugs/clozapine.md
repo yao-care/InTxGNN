@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Clozapine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 206
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). Approved use: Not stated in the India registration data compiled for this report"
@@ -14,7 +14,7 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 # Clozapine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ The strongest direct evidence is for treatment-refractory bipolar disorder, a cl
 |------|------|
 | Original Indication | Not stated in the India registration data compiled for this report |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails (restricted to treatment-refractory cases) |
 

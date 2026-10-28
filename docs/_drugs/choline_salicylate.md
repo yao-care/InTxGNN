@@ -50,9 +50,9 @@ The evidence is weak and symptomatic only.
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (all 20 licences have blank indication text); the products are mainly oral and dental gels |
 | Predicted New Indication | Rheumatoid arthritis (the highest-scoring prediction, Prinzmetal angina, has no supporting evidence) |
-| TxGNN Prediction Score | 99.82% (rheumatoid arthritis); Prinzmetal angina scored 99.84% |
-| Evidence Level | L3 for rheumatoid arthritis (older reviews and clinical reports only) |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9982 (rheumatoid arthritis); Prinzmetal angina scored 0.9984 |
+| Evidence Level | L5 for rheumatoid arthritis (older reviews and clinical reports only) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (rheumatoid arthritis is flagged as a research question) |
 

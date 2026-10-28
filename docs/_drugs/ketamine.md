@@ -50,9 +50,9 @@ with **9 clinical trials** and **20 publications** currently supporting this dir
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the licence records contain no approved indication text) |
 | Predicted New Indication | Headache disorder |
-| TxGNN Prediction Score | 99.33% |
+| TxGNN Prediction Score | 0.9933 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

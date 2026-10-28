@@ -4,17 +4,17 @@ title: Eslicarbazepine
 parent: High Evidence (L1-L2)
 nav_order: 322
 evidence_level: L2
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the Indian licence data compiled for this report (eslic…"
 monitor_inn: "Eslicarbazepine"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Eslicarbazepine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L2** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **1 completed Phase 2 clinical trial (452 participants)** and a small body 
 |------|------|
 | Original Indication | Not stated in the Indian licence data compiled for this report (eslicarbazepine is known as an antiseizure drug) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

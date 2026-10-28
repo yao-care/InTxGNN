@@ -213,7 +213,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/maraviroc/' | relative_url }}">Maraviroc</a></li>
 <li><a href="{{ '/drugs/megestrol-acetate/' | relative_url }}">Megestrol Acetate</a></li>
 <li><a href="{{ '/drugs/melphalan/' | relative_url }}">Melphalan</a></li>
-<li><a href="{{ '/drugs/mephenesin/' | relative_url }}">Mephenesin</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Mephenesin</a></li>
 <li><a href="{{ '/drugs/mercaptopurine/' | relative_url }}">Mercaptopurine</a></li>
 <li><a href="{{ '/drugs/methotrexate/' | relative_url }}">Methotrexate</a></li>
 <li><a href="{{ '/drugs/methoxsalen/' | relative_url }}">Methoxsalen</a></li>
@@ -222,7 +222,7 @@ This page brings together the latest health news about “cancer” and lists th
 <li><a href="{{ '/drugs/mitomycin/' | relative_url }}">Mitomycin</a></li>
 <li><a href="{{ '/drugs/mitoxantrone/' | relative_url }}">Mitoxantrone</a></li>
 <li><a href="{{ '/drugs/mometasone/' | relative_url }}">Mometasone</a></li>
-<li><a href="{{ '/drugs/monobenzone/' | relative_url }}">Monobenzone</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Monobenzone</a></li>
 <li><a href="{{ '/drugs/moxifloxacin/' | relative_url }}">Moxifloxacin</a></li>
 <li><a href="{{ '/drugs/moxonidine/' | relative_url }}">Moxonidine</a></li>
 <li><a href="{{ '/drugs/natamycin/' | relative_url }}">Natamycin</a></li>

@@ -4,17 +4,17 @@ title: Chlorzoxazone
 parent: Model Prediction Only (L5)
 nav_order: 178
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Chlorzoxazone: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the Indian license records (chlorzoxazone is generally…"
 monitor_inn: "Chlorzoxazone"
-predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis", "headache disorder"]
+predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
 ---
 
 # Chlorzoxazone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ This is a model-only prediction with very weak supporting evidence.
 |------|------|
 | Original Indication | Not stated in the Indian license records (chlorzoxazone is generally known as a muscle relaxant for musculoskeletal pain and spasm) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,13 +62,12 @@ This is a model-only prediction with very weak supporting evidence.
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, chlorzoxazone is a centrally acting muscle relaxant that also activates Ca²⁺-dependent K⁺ channels (SK/IK/BK).
 
-The one mechanistic thread is a preclinical study (PMID 23115190). In mice carrying a CACNA1A mutation that enhances CaV2.1 currents, Ca²⁺-dependent K⁺-channel activators relieved cerebellar ataxia. CACNA1A mutations are also linked to familial hemiplegic migraine, so a plausible but **indirect** connection exists. The same knowledge-graph neighbourhood may explain why related entities (migraine with brainstem aura, migraine susceptibility) also scored highly.
+The one mechanistic thread is a preclinical study (PMID 23115190). In mice carrying a CACNA1A mutation that enhances CaV2.1 currents, Ca²⁺-dependent K⁺-channel activators relieved cerebellar ataxia. CACNA1A mutations are also linked to familial hemiplegic migraine, so a plausible but **indirect** connection exists. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (such as migraine with brainstem aura), not biological evidence.
 
 This link has clear limits. The ataxia study is in mice and does not test migraine. The other two papers are reviews of vertigo and cerebellar disorders and do not address migraine treatment. No data in migraine patients were provided.
 
 Other predictions were also reviewed, and none is better supported:
-- **Rheumatoid arthritis** (score 99.05%, L4, "Research Question"): the only other prediction with clinical-type literature, but it is limited to symptomatic pain and spasm relief.
-- **Headache disorder** (score 98.99%): the sole linked paper is a case report on methemoglobinemia after a multi-drug overdose, which is safety information rather than efficacy evidence.
+- **Rheumatoid arthritis** (score 0.9905, L4, "Research Question"): the only other prediction with clinical-type literature, but it is limited to symptomatic pain and spasm relief.
 - **The remaining predictions** (nephrogenic syndrome of inappropriate antidiuresis, pulmonary hypertension, atrophoderma vermiculata, ulerythema ophryogenesis, kyphoscoliotic heart disease): no trials or literature were supplied.
 
 ---

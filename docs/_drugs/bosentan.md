@@ -4,7 +4,7 @@ title: Bosentan
 parent: Moderate Evidence (L3-L4)
 nav_order: 115
 evidence_level: L4
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary hypertension / pulmonary arterial hypertension, scleroderma…"
 monitor_inn: "Bosentan"
@@ -14,7 +14,7 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 # Bosentan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but s
 |------|------|
 | Original Indication | Pulmonary hypertension / pulmonary arterial hypertension, scleroderma, systemic sclerosis (the approved-indication text is not available in the India registration records) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -66,7 +66,6 @@ Its efficacy in pulmonary arterial hypertension and systemic sclerosis-related v
 The main caveat is that no human RA trial exists. Most human literature concerns PAH associated with connective tissue disease, not RA joint disease itself.
 
 Other predicted indications are noted briefly:
-- **Limited systemic sclerosis** (score 99.65%, evidence level L3): supported by a 2023 systematic review/meta-analysis of bosentan for digital ulcers and by in vitro data. This overlaps with the drug's existing indications, so it is more an extension within the original indication space than true repurposing. It is the most evidence-supported of the predictions, though it is not the top-ranked one.
 - **Gout, hypertrichosis, and several rare syndromes** (brachydactyly-syndactyly, colobomatous microphthalmia-rhizomelic dysplasia, pseudoxanthoma elasticum forme fruste, kyphoscoliotic heart disease, elastoma): prediction-only signals with no trials and no plausible mechanistic support in the available data.
 
 ---

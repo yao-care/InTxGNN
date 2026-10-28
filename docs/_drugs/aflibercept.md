@@ -4,17 +4,17 @@ title: Aflibercept
 parent: Model Prediction Only (L5)
 nav_order: 29
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Aflibercept: predicted new indication Esotropia (evidence level L5). Approved use: Metastasis from malignant tumor of colon"
+indication_count: 1
 monitor_inn: "Aflibercept"
-predicted_indications: ["esotropia", "esophageal varices without bleeding", "esophageal varices with bleeding", "varicose disease", "urethral calculus", "adenosine deaminase deficiency", "hemorrhagic disease of newborn", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "middle ear neuroendocrine tumor"]
+predicted_indications: ["esotropia"]
+last_modified_at: 2026-10-27
+description: "Aflibercept: predicted new indication esotropia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Aflibercept
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,81 +33,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Aflibercept: From Metastatic Colon Cancer and Retinal Disease to Esotropia
+## Aflibercept: VEGF-A/VEGF-B/PlGF trap → esotropia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Aflibercept is a VEGF-A/VEGF-B/PlGF trap, originally used for metastatic colorectal cancer and retinal vascular diseases such as macular degeneration, retinal artery occlusion and diabetic macular edema.
-The TxGNN model predicts it may be effective for **esotropia**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
-
----
+Aflibercept is a VEGF-A/VEGF-B/PlGF trap, a biologic that blocks vascular endothelial growth factor signalling.
+The TxGNN model predicts it may be relevant to **esotropia**, but this rests on a model prediction only: **0 clinical trials** and **0 publications** were found to support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastasis from malignant tumor of colon; macular degeneration; retinal artery occlusion; diabetic macular edema (from the knowledge graph; the approved indication text in the India license is blank) |
-| Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.38% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | esotropia |
+| TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, aflibercept is a recombinant fusion protein that traps VEGF-A, VEGF-B and placental growth factor (PlGF). Its efficacy in neovascular and edematous retinal disease, and in metastatic colorectal cancer, rests on blocking VEGF-driven angiogenesis and vascular permeability.
+Aflibercept traps VEGF-A, VEGF-B and placental growth factor (PlGF), which reduces abnormal blood vessel growth and vascular leakage. Detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general knowledge of the drug class.
 
-Esotropia is an ocular motor alignment disorder (inward deviation of the eye). No plausible direct mechanism links VEGF blockade to it. The very high TxGNN score (0.994) is a model prediction, probably reflecting the drug's many ocular associations in the knowledge graph rather than a true therapeutic signal. The prediction should be treated as a hypothesis only.
+Esotropia is an eye alignment disorder in which one or both eyes turn inward. It stems from problems in eye muscle control, nerve signalling or refractive and developmental factors, rather than from abnormal blood vessel growth. No plausible direct mechanism links VEGF blockade to esotropia.
 
-Other predictions for this drug are also unsupported. These include esophageal varices (a theoretical link via VEGF-driven portal hypertension), varicose disease, and several rare tumours (a generic anti-angiogenic rationale). All have no trials or literature. For hemorrhagic disease of the newborn, the one linked trial (NCT02537054) studies choroidal neovascularization and is a spurious match.
-
----
+The high TxGNN score (0.9938) is a statistical output of the model. It is not evidence of clinical benefit, and no study in the compiled data examines aflibercept in esotropia. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for esotropia.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 72924 | Eylea 40mg/ml Injection (Bayer Zydus Pharma Pvt Ltd) | Vial of 1 ml injection | Not stated in the available record |
+| 72924 | Eylea 40mg/ml Injection | vial of 1 ml Injection | Not recorded in local data |
 
----
+Aflibercept is marketed in India with one valid single-ingredient licence (manufacturer: Bayer Zydus Pharma Pvt Ltd). It is an injectable product.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 78 interactions were identified. Major-level interactions listed include deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib, certolizumab pegol, cladribine and clozapine. Moderate-level interactions include strontium chloride Sr-89, roflumilast, chloramphenicol, zidovudine, alefacept, alemtuzumab, anakinra, azathioprine, canakinumab and several vaccines (tetanus toxoid, anthrax, live cholera).
-- **Bleeding risk**: Aflibercept carries a bleeding and hemorrhage warning, which is a particular concern for any predicted indication involving active bleeding (for example, bleeding esophageal varices).
+- **Drug Interactions**: 78 potential interactions were identified. Major-level examples include deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib, certolizumab pegol, cladribine and clozapine. Moderate-level examples include roflumilast, chloramphenicol, zidovudine, azathioprine, anakinra, alemtuzumab and several vaccines.
 
-Please refer to the package insert for the full warnings and contraindications.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). No clinical trials or publications support it, and there is no plausible mechanism linking VEGF blockade to esotropia. The same holds for the other nine predicted indications, which should not advance on the current evidence.
+The prediction is supported only by the model score. No clinical trials or publications address aflibercept in esotropia, and there is no plausible mechanistic link between VEGF blockade and an ocular motor alignment disorder. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for aflibercept (for example, from DrugBank), to allow a proper mechanistic-link analysis
-- Package insert warnings and contraindications from the India Pharma source, which are required before safety screening
-- Preclinical or mechanistic evidence for VEGF involvement in esotropia or extraocular muscle disease
-- Route compatibility assessment, since the only available form is an intravitreal/injectable vial
+- Preclinical or mechanistic evidence linking VEGF/PlGF signalling to esotropia
+- Detailed mechanism of action data
+- Package insert warnings and contraindications for safety screening
+- Assessment of route compatibility (intravitreal injection) with any proposed use in strabismus
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

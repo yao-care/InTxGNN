@@ -4,17 +4,17 @@ title: Mupirocin
 parent: Model Prediction Only (L5)
 nav_order: 573
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Mupirocin: predicted new indication Pleural empyema (evidence level L5). Approved use: Impetigo, bullous impetigo"
 monitor_inn: "Mupirocin"
-predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "cutaneous candidiasis", "vaginal discharge", "exposure keratitis", "leukoplakia of vagina", "non-human animal disease", "staphylococcal scalded skin syndrome", "bacterial vaginosis"]
+predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis"]
+description: "Mupirocin: predicted new indication Pleural empyema (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mupirocin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mupirocin: From Impetigo to Pleural Empyema
+## Mupirocin: Pleural empyema (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Mupirocin is a topical antibiotic originally used to treat impetigo and bullous impetigo.
-The TxGNN model's top-ranked prediction is **pleural empyema** (score 99.49%), but this prediction has **no clinical trials and no publications** behind it.
-The best-supported alternative direction is **staphylococcal scalded skin syndrome (SSSS)**, with **13 publications** (no registered trials), where mupirocin would serve as an adjunct to systemic therapy.
+The TxGNN model's top-ranked prediction is **pleural empyema** (score 0.9949), but this prediction has **no clinical trials and no publications** behind it.
 
 ---
 
@@ -48,11 +47,11 @@ The best-supported alternative direction is **staphylococcal scalded skin syndro
 
 | Item | Content |
 |------|------|
-| Original Indication | Impetigo, bullous impetigo (knowledge graph indication; the approved-indication text on the Indian licences is blank) |
-| Predicted New Indication | Pleural empyema (rank 1); best-supported alternative: staphylococcal scalded skin syndrome (rank 9) |
-| TxGNN Prediction Score | 99.49% (pleural empyema); 95.57% (SSSS) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pleural empyema (disease) |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 (pleural empyema); L3 (SSSS) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (pleural empyema); SSSS is a Research Question |
 
@@ -64,14 +63,11 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 **Pleural empyema (rank 1)** is a weak fit. *S. aureus* can cause empyema, but mupirocin is not used systemically and would not reach the pleural space, so there is no plausible route of use. The high score appears to be a model artefact rather than a pharmacologically grounded signal.
 
-**Staphylococcal scalded skin syndrome (rank 9)** is the most coherent candidate. SSSS is caused by exfoliative toxins from *S. aureus*, the same organism behind bullous impetigo, one of mupirocin's original indications. Topical mupirocin can reduce local bacterial load as an adjunct to systemic antistaphylococcal therapy. Its limits are that it would not be a standalone treatment, topical therapy has limited efficacy in generalised disease, and mupirocin-resistant *S. aureus* clones have been reported.
+Topical mupirocin can reduce local bacterial load as an adjunct to systemic antistaphylococcal therapy. Its limits are that it would not be a standalone treatment, topical therapy has limited efficacy in generalised disease, and mupirocin-resistant *S. aureus* clones have been reported.
 
 Other predictions are weak or unsupported:
-- **Cutaneous candidiasis (rank 4):** mupirocin has limited antifungal activity, and the evidence is one 1991 title-only report plus a case report.
-- **Bacterial vaginosis (rank 10):** the condition is mainly anaerobic, which mupirocin does not target. The only paper concerns MRSA vaginitis, a different condition.
-- **Exposure keratitis (rank 6):** the only evidence is an in vitro study that also raises corneal epithelial toxicity concerns.
+- The only paper concerns MRSA vaginitis, a different condition.
 - **Punctate epithelial keratoconjunctivitis, neurotrophic keratopathy, vaginal discharge, leukoplakia of vagina:** prediction only, with no plausible mechanism.
-- **Non-human animal disease:** a non-specific ontology category, not a clinical indication.
 
 ---
 
@@ -83,11 +79,10 @@ Currently no related clinical trials registered for pleural empyema or for any o
 
 ## Literature Evidence
 
-No literature is available for pleural empyema (the top-ranked prediction). The table below shows the most relevant publications for the best-supported alternative, **staphylococcal scalded skin syndrome**.
+No literature is available for pleural empyema (the top-ranked prediction).
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37404367](https://pubmed.ncbi.nlm.nih.gov/37404367/) | 2023 | Comparative/retrospective study | Clin Cosmet Investig Dermatol | Compared treatment duration, influencing factors and costs of different IV antibiotics combined with 2% mupirocin ointment in paediatric SSSS |
 | [15482208](https://pubmed.ncbi.nlm.nih.gov/15482208/) | 2004 | Review | Expert Rev Anti Infect Ther | Treatment of bullous impetigo and SSSS in infants; bullous impetigo is caused by *S. aureus* exfoliative toxin |
 | [8435912](https://pubmed.ncbi.nlm.nih.gov/8435912/) | 1993 | Review | Dermatol Clin | Control of staphylococci in skin disease; topical mupirocin described as a valuable addition for impetigo |
 | [30418106](https://pubmed.ncbi.nlm.nih.gov/30418106/) | 2019 | Epidemiology/molecular | J Med Microbiol | Emergence of a mupirocin- and fusidic acid-resistant, toxin-producing MSSA clone (ST121) causing SSSS |
@@ -99,9 +94,7 @@ No literature is available for pleural empyema (the top-ranked prediction). The 
 | [27047925](https://pubmed.ncbi.nlm.nih.gov/27047925/) | 2014 | Case report | Dermatopathology (Basel) | SSSS in an adult receiving chemotherapy |
 
 Evidence for other predictions is limited to low-tier reports:
-- **Cutaneous candidiasis:** [1678836](https://pubmed.ncbi.nlm.nih.gov/1678836/) (1991, *Lancet*), a title-only report, "Efficacy of mupirocin in cutaneous candidiasis". Study design could not be confirmed.
-- **Bacterial vaginosis:** [1815427](https://pubmed.ncbi.nlm.nih.gov/1815427/) (1991), a case report of MRSA vaginitis eradicated with intravaginal mupirocin.
-- **Exposure keratitis:** [8222720](https://pubmed.ncbi.nlm.nih.gov/8222720/) (1993), an in vitro study of antimicrobial activity and corneal epithelial toxicity.
+- Study design could not be confirmed.
 
 ---
 
@@ -133,10 +126,10 @@ Please refer to the package insert for other safety information, including warni
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (pleural empyema and the other prediction-only indications). **SSSS** is a Research Question worth further evaluation as an adjunct therapy.
+**Decision: Hold** (pleural empyema and the other prediction-only indications).
 
 **Rationale:**
-The top-ranked prediction, pleural empyema, has a very high model score but no trials, no literature and no plausible route of use for a topical drug. SSSS is the most mechanistically coherent direction, as it shares the *S. aureus* aetiology of bullous impetigo, and it has one retrospective comparative study of IV antibiotics plus 2% mupirocin. That evidence is still low-tier (L3), and mupirocin resistance is a concern.
+The top-ranked prediction, pleural empyema, has a very high model score but no trials, no literature and no plausible route of use for a topical drug. That evidence is still low-tier (L3), and mupirocin resistance is a concern.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)

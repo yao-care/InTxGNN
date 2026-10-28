@@ -6,9 +6,9 @@ nav_order: 497
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Lomefloxacin: predicted new indication Laryngotracheitis (evidence level L5). Approved use: Urinary tract infection, bronchitis"
 monitor_inn: "Lomefloxacin"
-predicted_indications: ["laryngotracheitis", "heart valve disease", "heart conduction disease", "congenital anomaly of ventricular septum", "heart neoplasm", "pericardium disease", "carcinoid heart disease", "myocardial rupture", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome"]
+predicted_indications: ["laryngotracheitis", "heart valve disease", "heart conduction disease", "congenital anomaly of ventricular septum", "heart neoplasm", "pericardium disease", "myocardial rupture", "cardiac anomalies-heterotaxy syndrome", "carcinoid heart disease", "heart aneurysm"]
+description: "Lomefloxacin: predicted new indication Laryngotracheitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lomefloxacin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lomefloxacin: From Urinary Tract Infection and Bronchitis to Laryngotracheitis
+## Lomefloxacin: Laryngotracheitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection, bronchitis (from the TxGNN knowledge graph; no approved indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Laryngotracheitis |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The link is limited, however. Laryngotracheitis (croup) is mostly viral, so an antibacterial agent has little relevance except in bacterial tracheitis. The high TxGNN score is most likely driven by network proximity to respiratory infection indications rather than by direct biological evidence.
 
-Other predictions in the top 10 are mostly cardiac conditions (heart valve disease, heart conduction disease, heart aneurysm, myocardial rupture and others). These have no plausible mechanistic basis, and some conflict with known fluoroquinolone safety signals. They are likely artifacts of the knowledge graph and are not recommended for further evaluation:
+Other predictions in the top 10 are mostly cardiac conditions (heart valve disease, heart conduction disease, heart aneurysm, myocardial rupture and others). These have no plausible mechanistic basis, and some conflict with known fluoroquinolone safety signals. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. They are not recommended for further evaluation:
 - Fluoroquinolones are associated with QT prolongation and arrhythmia risk.
 - They are associated with aortic aneurysm/dissection and valve regurgitation.
 

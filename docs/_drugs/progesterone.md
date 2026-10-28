@@ -4,17 +4,17 @@ title: Progesterone
 parent: High Evidence (L1-L2)
 nav_order: 705
 evidence_level: L2
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Progesterone: predicted new indication Amenorrhea (evidence level L2). Approved use: Endometriosis, endometrial carcinoma, postmenopausal osteoporosis…"
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis in cutaneous scar", "endometriosis of rectovaginal septum and vagina", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: predicted new indication Amenorrhea (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Progesterone: From Endometriosis and Endometrial Carcinoma to Amenorrhea
+## Progesterone: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ with **4 clinical trials** and **19 publications** currently supporting this dir
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis, endometrial carcinoma, postmenopausal osteoporosis, postmenopausal atrophic vaginitis (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -141,7 +141,7 @@ Progesterone is an established agent for the progestin challenge and withdrawal 
 | Rank | Predicted Indication | Evidence Level | Recommendation | Comment |
 |------|------|------|------|------|
 | 2 | Breast fibrocystic disease | L4 | Research Question | An altered estradiol/progesterone ratio gives a plausible rationale, but the evidence is old and indirect, there are no trials, and progestogen effects on breast tissue are mixed. |
-| 3 | Benign mammary dysplasia | L4 | Research Question | Largely the same entity as fibrocystic disease. Evidence is indirect, and several citations are veterinary. |
+| 3 | Benign mammary dysplasia | L5 | Research Question | Largely the same entity as fibrocystic disease. Evidence is indirect, and several citations are veterinary. |
 | 4 | Renal hypoplasia, bilateral | L5 | Hold | No credible mechanistic link. The retrieved papers are unrelated case reports. |
 | 5 | Cervix endometriosis | L4 | Research Question | An extension of the established endometriosis use. The literature is mostly about antiprogestins, plus one case report. |
 | 6 | Renal hypoplasia | L5 | Hold | Only a preclinical signal, in a polycystic kidney model, which is a different condition. |

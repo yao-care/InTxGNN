@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **agoraphobia**, with **no regi
 |------|------|
 | Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder |
 | Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

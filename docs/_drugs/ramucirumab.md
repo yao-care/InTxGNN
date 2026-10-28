@@ -6,9 +6,9 @@ nav_order: 724
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Ramucirumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Non-small cell lung carcinoma, lung cancer, gastric adenocarcinoma…"
 monitor_inn: "Ramucirumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+description: "Ramucirumab: predicted new indication Uterine ligament adenocarcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ramucirumab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ramucirumab: From Non-Small Cell Lung Cancer, Gastric Adenocarcinoma and Hepatocellular Carcinoma to Uterine Ligament Adenocarcinoma
+## Ramucirumab: Uterine ligament adenocarcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,33 +46,33 @@ but **no clinical trials and no publications** were found for this prediction, s
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-small cell lung carcinoma, lung cancer, gastric adenocarcinoma, hepatocellular carcinoma and related liver cancers (from the knowledge graph; no approved indication text is available in the India license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Uterine ligament adenocarcinoma |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Ramucirumab is known to be a VEGFR2 antagonist, and its efficacy in gastric, lung and liver cancers is established. Mechanistically, blocking VEGFR2 may be applicable to adenocarcinomas that depend on angiogenesis.
 
-The predicted indication is an adenocarcinoma, a histology shared with gastric adenocarcinoma and lung adenocarcinoma among the original indications. The link is therefore inferred from the similarity of disease types, not from direct evidence in this tumour. The score may partly reflect how close these diseases sit in the knowledge-graph ontology.
+The predicted indication is an adenocarcinoma, a histology shared with gastric adenocarcinoma and lung adenocarcinoma among the original indications. The link is therefore inferred from the similarity of disease types, not from direct evidence in this tumour. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predicted indications** (all L5, all Hold, none with trials or literature):
 
 | Rank | Predicted Indication | Score |
 |---|---|---|
-| 2 | Endocervical carcinoma | 99.95% |
-| 3 | Adenoid cystic carcinoma of the cervix uteri | 99.95% |
-| 4 | Uterine ligament serous adenocarcinoma | 99.94% |
-| 5 | Signet ring cell variant cervical mucinous adenocarcinoma | 99.94% |
-| 6 | Cervical adenosquamous carcinoma, glassy cell variant | 99.94% |
-| 7 | Uterine ligament endometrioid adenocarcinoma | 99.94% |
-| 8 | Uterine ligament clear cell adenocarcinoma | 99.94% |
-| 9 | Uterine ligament mucinous adenocarcinoma | 99.94% |
-| 10 | Intestinal variant cervical mucinous adenocarcinoma | 99.94% |
+| 2 | Endocervical carcinoma | 0.9995 |
+| 3 | Adenoid cystic carcinoma of the cervix uteri | 0.9995 |
+| 4 | Uterine ligament serous adenocarcinoma | 0.9994 |
+| 5 | Signet ring cell variant cervical mucinous adenocarcinoma | 0.9994 |
+| 6 | Cervical adenosquamous carcinoma, glassy cell variant | 0.9994 |
+| 7 | Uterine ligament endometrioid adenocarcinoma | 0.9994 |
+| 8 | Uterine ligament clear cell adenocarcinoma | 0.9994 |
+| 9 | Uterine ligament mucinous adenocarcinoma | 0.9994 |
+| 10 | Intestinal variant cervical mucinous adenocarcinoma | 0.9994 |
 
 Most predictions are gynaecological adenocarcinomas. Among them, endocervical carcinoma has the most biological plausibility, because VEGF-driven angiogenesis matters in cervical cancer and another anti-VEGF agent, bevacizumab, has an established role there.
 

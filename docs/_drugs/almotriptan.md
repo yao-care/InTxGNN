@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Almotriptan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 37
-evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-14
-description: "Almotriptan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-27
+description: "Almotriptan: predicted new indication atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Almotriptan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,36 +33,32 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Almotriptan: From Migraine to Migraine with Brainstem Aura
+## Almotriptan: 5-HT1B/1D receptor agonist → atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Almotriptan is a triptan (5-HT1B/1D agonist) originally used for the acute treatment of migraine, with or without aura.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, but this is mostly an extension within the same migraine family.
-There are **no registered clinical trials** and **19 publications**, none of which tests brainstem aura specifically.
+Almotriptan is a serotonin 5-HT1B/1D receptor agonist (triptan class) marketed in India as oral tablets.
+The TxGNN model predicts it may be relevant to **atrophoderma vermiculata**, a rare follicular atrophic skin disorder,
+but **no clinical trials and no publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder (the licence records compiled for this report contain no indication text) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9977 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, almotriptan is a selective 5-HT1B/1D receptor agonist. It acts on trigeminovascular activation and cranial vasodilation, which are involved in migraine attacks.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Almotriptan belongs to the triptan class, which acts as a 5-HT1B/1D receptor agonist and causes vasoconstriction of cranial blood vessels.
 
-Migraine with brainstem aura is a subtype of migraine with aura, so the shared pathophysiology makes a mechanistic link plausible. However, this is essentially an extension within the original indication family, not true repurposing. The high TxGNN score probably reflects how close this disease sits to the approved migraine indication, not subtype-specific evidence.
-
-There is also a caution. Triptans have historically carried cautions or contraindications in brainstem aura (formerly basilar-type migraine) and hemiplegic migraine, because of theoretical concerns about vasoconstriction in the posterior circulation. This is reflected in the knowledge-graph contraindication data below.
-
-The other two predictions, atrophoderma vermiculata (score 99.77%) and ulerythema ophryogenesis (score 99.64%), have no credible mechanistic link, no trials and no literature. They are likely artifacts of the knowledge graph and are not pursued here.
+For atrophoderma vermiculata, no credible mechanistic link was identified. It is a rare atrophic disorder of hair follicles affecting the cheeks, and serotonergic vasoconstrictive action has no known role in its pathology. The high TxGNN score is therefore best treated as a model output without biological or clinical backing, possibly driven by shared genetic or phenotype associations in the underlying network. It should not be read as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -70,58 +66,39 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-None of the publications below studies brainstem aura directly. They are general reviews of almotriptan or triptans, or studies in migraine overall or migraine with aura.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | American Headache Society evidence assessment of acute migraine pharmacotherapies in adults |
-| [30845850](https://pubmed.ncbi.nlm.nih.gov/30845850/) | 2019 | Review | Expert Rev Neurother | 20 years of almotriptan experience: data on more than 15,000 patients in studies |
-| [20945537](https://pubmed.ncbi.nlm.nih.gov/20945537/) | 2010 | Review | Expert Rev Neurother | 10 years of almotriptan experience, including large RCTs and post-marketing studies |
-| [11380642](https://pubmed.ncbi.nlm.nih.gov/11380642/) | 2001 | Safety/tolerability analysis | Headache | Safety and tolerability of oral almotriptan from premarketing trials |
-| [11768838](https://pubmed.ncbi.nlm.nih.gov/11768838/) | 2001 | Randomized, double-blind dose-finding study | Clin Ther | Efficacy and tolerability of subcutaneous almotriptan in acute migraine |
-| [14629242](https://pubmed.ncbi.nlm.nih.gov/14629242/) | 2003 | Clinical study | Headache | Treating when pain is mild improves pain-free and sustained pain-free rates |
-| [15109355](https://pubmed.ncbi.nlm.nih.gov/15109355/) | 2004 | Clinical study | Headache | Better response rates when almotriptan is taken within 1 hour of migraine onset |
-| [12455302](https://pubmed.ncbi.nlm.nih.gov/12455302/) | 2002 | Review | Am J Health Syst Pharm | Pharmacology, efficacy and adverse effects of almotriptan |
-| [21726161](https://pubmed.ncbi.nlm.nih.gov/21726161/) | 2011 | Review | Expert Opin Pharmacother | Almotriptan for menstrually related migraine |
-| [25916333](https://pubmed.ncbi.nlm.nih.gov/25916333/) | 2015 | Meta-analysis | J Headache Pain | Frovatriptan compared with rizatriptan, zolmitriptan and almotriptan in migraine with aura |
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 1265 | Almotan 6.25 Tablet (MSN Laboratories) | Strip of 4 tablets | Not stated |
-| 17044 | Almigra 6.25mg Tablet (Eigen Pharmaceuticals) | Strip of 4 tablets | Not stated |
-| 5657 | Almogril 12.5mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
-| 9291 | Amlotan 6.25mg Tablet (MSN Laboratories) | Strip of 4 tablets | Not stated |
-| 8436 | Almogril 6.25mg Tablet (Lupin) | Strip of 10 tablets | Not stated |
+| 1265 | Almotan 6.25 Tablet | Strip of 4 tablets | Not recorded |
+| 17044 | Almigra 6.25mg Tablet | Strip of 4 tablets | Not recorded |
+| 5657 | Almogril 12.5mg Tablet | Strip of 10 tablets | Not recorded |
+| 9291 | Amlotan 6.25mg Tablet | Strip of 4 tablets | Not recorded |
+| 8436 | Almogril 6.25mg Tablet | Strip of 10 tablets | Not recorded |
 
-A sixth registration (1638, Almotan 12.5 Tablet, MSN Laboratories) is also valid. All 6 registrations are single-ingredient oral tablets.
+All six registered single-ingredient licences are valid; the table lists the first five.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph data, not label text)**: The knowledge graph links almotriptan with these conditions:
-  - Cardiovascular and cerebrovascular: coronary artery disease, myocardial infarction, myocardial ischemia, Prinzmetal angina, sudden cardiac arrest, heart conduction disease, hypertension, stroke, transient ischemic attack, cerebral infarction, brain ischemia, vertebrobasilar insufficiency.
-  - Peripheral vascular: peripheral arterial disease, Raynaud disease.
-  - Migraine subtype: familial or sporadic hemiplegic migraine.
-  - Other: serotonin syndrome, liver disease, diabetes mellitus, obesity.
-  - Vertebrobasilar insufficiency and hemiplegic migraine are especially relevant to brainstem aura.
-- **Drug Interactions**: 56 interactions were recorded. Major-level ones include:
-  - 5-HT3 antagonists: ondansetron, granisetron, dolasetron, palonosetron.
-  - Serotonergic or weight-loss agents: fenfluramine, dexfenfluramine, lorcaserin, sibutramine.
-  - Moderate-level ones include aprepitant, clarithromycin and morphine.
+- **Drug Interactions**: 56 interactions were recorded. Major-level interactions include the serotonergic or 5-HT-related agents dexfenfluramine, fenfluramine, lorcaserin and sibutramine, and the 5-HT3 antagonists dolasetron, granisetron, ondansetron and palonosetron. Moderate-level interactions include aprepitant, clarithromycin and morphine (including liposomal).
+- **Conditions flagged as cautions for this drug class**: hypertension, coronary artery disease, myocardial infarction, stroke and cerebrovascular disorders, peripheral vascular disease, Raynaud disease, Prinzmetal angina, liver disease, serotonin syndrome and hemiplegic migraine, among others. These are relationships recorded in the data compiled for this report, not label text, and should be checked against the package insert.
+
+Package insert warnings and contraindications were not available and should be reviewed directly.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high score reflects closeness to the approved migraine indication, not new evidence. No trial or publication tests almotriptan in brainstem aura. Triptan caution in posterior-circulation and hemiplegic-type migraine adds a safety concern.
+The prediction rests only on a high model score (0.9977). There are no trials or publications on this disease, no plausible mechanism links a 5-HT1B/1D agonist to atrophoderma vermiculata, and the cardiovascular cautions of the drug class add risk. Evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India registrations, especially for brainstem aura and hemiplegic migraine
-- Mechanism of action data (e.g. from DrugBank)
-- Clinical or observational evidence specific to brainstem aura, with a safety assessment of posterior-circulation vasoconstriction
-- Clarification of whether this counts as a new indication or falls within the existing "migraine with aura" label
+- A credible mechanistic hypothesis connecting 5-HT1B/1D agonism to follicular atrophic skin pathology
+- Preclinical or case-level evidence directly addressing atrophoderma vermiculata
+- Package insert warnings and contraindications from the India regulatory records
+- Detailed mechanism-of-action data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

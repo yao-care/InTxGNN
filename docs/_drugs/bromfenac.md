@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **eye disease** (a broad catego
 |------|------|
 | Original Indication | Not stated in the Indian license data; the product is an ophthalmic NSAID used for postoperative ocular inflammation and pain |
 | Predicted New Indication | Eye disease |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

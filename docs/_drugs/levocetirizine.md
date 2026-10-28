@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but *
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, idiopathic urticaria |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,9 +59,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A possible, unvalidated link is that histamine signalling may contribute to synovial inflammation, mast cell activity and vascular permeability in rheumatoid arthritis. This link cannot be verified from the data compiled for this report. Any anti-inflammatory effect would likely be modest compared with established disease-modifying therapies.
 
-The score is high (0.997, rank 5273), but it reflects a model prediction rather than observed clinical benefit.
+The score is high (0.9973, rank 5273), but it reflects a model prediction rather than observed clinical benefit.
 
-Two other predictions, colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.59%) and brachydactyly-syndactyly syndrome (99.52%), have no identifiable mechanistic link. They are developmental or genetic disorders that H1 receptor blockade is not expected to correct. Their high scores likely reflect knowledge-graph topology rather than biological plausibility. Both are also L5 with a Hold recommendation.
+Two other predictions, colobomatous microphthalmia-rhizomelic dysplasia syndrome (0.9959) and brachydactyly-syndactyly syndrome (0.9952), have no identifiable mechanistic link. They are developmental or genetic disorders that H1 receptor blockade is not expected to correct. Their high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Both are also L5 with a Hold recommendation.
 
 ## India Market Information
 

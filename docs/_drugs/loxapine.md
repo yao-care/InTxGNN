@@ -4,17 +4,17 @@ title: Loxapine
 parent: Model Prediction Only (L5)
 nav_order: 507
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Loxapine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Schizophrenia, bipolar disorder, major affective disorder"
 monitor_inn: "Loxapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "atypical glycine encephalopathy"]
+description: "Loxapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Loxapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Loxapine: From Schizophrenia and Bipolar Disorder to Manic Bipolar Affective Disorder
+## Loxapine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Loxapine is a first-generation antipsychotic originally used for schizophrenia, bipolar disorder and major affective disorder.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, with **no registered clinical trials** but **20 publications** (mostly reviews on inhaled loxapine for acute agitation) supporting this direction.
 Because bipolar disorder is already a listed original indication, this is better described as a confirmation of an existing use than as true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia, bipolar disorder, major affective disorder (the licence records in India contain no indication text) |
-| Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 (provisional; see note below) |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 (provisional; see note below) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -91,7 +90,6 @@ A total of 20 single-ingredient licences are valid, in tablet, capsule, syrup an
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** epilepsy, benign prostatic hyperplasia, substance abuse/dependence, female breast carcinoma, cardiovascular and heart disease, glaucoma, neuroleptic malignant syndrome, Alzheimer disease, tardive dyskinesia, lingual-facial-buccal dyskinesia, and hyperprolactinaemia (including familial and acquired forms and prolactin-producing pituitary tumour).
 - **Drug Interactions:** 102 interactions were recorded. Major ones include **bupropion**, **morphine** and **potassium citrate**. Moderate ones include anticholinergic agents (atropine, hyoscyamine, glycopyrronium, dicyclomine, trospium), loperamide, epinephrine, dronabinol, nabilone and lorcaserin.
 - **Formulation-specific guardrails (from the literature):** the inhaled formulation carries a bronchospasm risk and requires restriction to controlled settings, with exclusion of patients with asthma or COPD. Sedation, extrapyramidal symptoms and QT effects also need attention.
 
@@ -111,7 +109,7 @@ Loxapine's D2/5-HT2A antagonism fits the treatment of mania and agitation, and b
 - Confirmation of which formulations are actually available in India, since inhaled loxapine is not among the listed products
 - A safety monitoring plan covering the large interaction burden, bronchospasm risk, sedation, extrapyramidal symptoms and QT effects
 
-**Other predictions (all Hold):** The nine other predicted indications are retinal dystrophy, hydranencephaly, X-linked myopia (three entries), congenital disorder of glycosylation, Charcot-Marie-Tooth type 1G, perisylvian polymicrogyria and atypical glycine encephalopathy. They have high graph scores but no trials, no literature and no plausible mechanistic link, so none should advance. For the myopia entries, D2 antagonism is expected to be unhelpful or counterproductive.
+**Other predictions (all Hold):** The nine other predicted indications are retinal dystrophy, hydranencephaly, X-linked myopia (three entries), congenital disorder of glycosylation, Charcot-Marie-Tooth type 1G, perisylvian polymicrogyria and atypical glycine encephalopathy. For the myopia entries, D2 antagonism is expected to be unhelpful or counterproductive.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

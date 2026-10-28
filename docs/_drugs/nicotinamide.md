@@ -8,6 +8,7 @@ nav_order: 594
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Nicotinamide
@@ -51,8 +52,8 @@ A formal repurposing assessment cannot be completed until TxGNN output and regul
 | Predicted New Indication | Not available — TxGNN prediction pending |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | L5 — No prediction or supporting studies linked to a specific indication |
-| India Market Status | ✗ Not Marketed |
-| Number of Registrations | 0 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | **Hold** |
 
 ---

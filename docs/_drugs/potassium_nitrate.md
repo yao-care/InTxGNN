@@ -46,9 +46,9 @@ Potassium nitrate is marketed in India as an ingredient in dental gels and tooth
 |------|------|
 | Original Indication | Not recorded (no approved indication text in the registrations) |
 | Predicted New Indication | Meningococcal infection |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ One speculative rationale is that potassium nitrate is an inorganic nitrate salt
 
 Meningococcal infection is an acute, life-threatening invasive disease. It is treated with established antibiotics and prevented by vaccines. A high TxGNN score alone does not justify repurposing a nitrate salt for this condition.
 
-A second prediction, **sclerosing cholangitis** (score 99.21%), also has no clinical trials or literature. Its proposed link, nitrate-derived NO signalling affecting vascular tone, inflammation or biliary epithelial function, is equally unsupported.
+A second prediction, **sclerosing cholangitis** (score 0.9921), also has no clinical trials or literature. Its proposed link, nitrate-derived NO signalling affecting vascular tone, inflammation or biliary epithelial function, is equally unsupported.
 
 ## Clinical Trial Evidence
 

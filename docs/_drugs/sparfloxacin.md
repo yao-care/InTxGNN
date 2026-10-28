@@ -50,9 +50,9 @@ It is a computational signal only and should be treated with caution.
 |------|------|
 | Original Indication | Pneumonia (streptococcal, Mycoplasma pneumoniae, chlamydial) |
 | Predicted New Indication | Hyperamylasemia |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,9 +62,9 @@ It is a computational signal only and should be treated with caution.
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sparfloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. This action explains its efficacy against respiratory pathogens.
 
-No mechanistic link to hyperamylasemia could be identified. Elevated amylase is not an established therapeutic target for this drug class, and no known pathway connects the antibacterial action to amylase regulation. The high TxGNN score appears to be a graph-based association without supporting clinical or literature data.
+No mechanistic link to hyperamylasemia could be identified. Elevated amylase is not an established therapeutic target for this drug class, and no known pathway connects the antibacterial action to amylase regulation. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and there are no supporting clinical or literature data.
 
-Other top-ranked predictions show the same pattern. These include polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, monoclonal gammopathy and several haematological conditions. None has a plausible mechanistic rationale, and none has trials or publications. One exception is **septicemic plague** (rank 8, score 99.31%). A class-level rationale exists because fluoroquinolones are active against *Yersinia pestis*. However, no sparfloxacin-specific data were found, and the one retrieved publication concerns uropathogenic *E. coli*, not plague.
+Other top-ranked predictions show the same pattern. These include polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, monoclonal gammopathy and several haematological conditions. None has a plausible mechanistic rationale, and none has trials or publications. One exception is **septicemic plague** (rank 8, score 0.9931). A class-level rationale exists because fluoroquinolones are active against *Yersinia pestis*. However, no sparfloxacin-specific data were found, and the one retrieved publication concerns uropathogenic *E. coli*, not plague.
 
 ---
 
@@ -126,7 +126,7 @@ For warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. There is no mechanistic link, no clinical trials and no literature for hyperamylasemia. Sparfloxacin's safety profile (phototoxicity, QT prolongation, neuropathy, many major interactions) further argues against pursuing this indication.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There is no mechanistic link, no clinical trials and no literature for hyperamylasemia. Sparfloxacin's safety profile (phototoxicity, QT prolongation, neuropathy, many major interactions) further argues against pursuing this indication.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, and a plausible biological rationale linking sparfloxacin to amylase regulation

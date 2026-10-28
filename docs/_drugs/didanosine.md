@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Didanosine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 264
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
-description: "Didanosine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection, AIDS"
 monitor_inn: "Didanosine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-23
+description: "Didanosine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infection and AIDS"
 ---
 
 # Didanosine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,95 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Didanosine: From HIV Infection to Simian Immunodeficiency Virus Infection
+## Didanosine: From HIV Infection and AIDS to Feline Acquired Immunodeficiency Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Didanosine is an antiretroviral drug originally used to treat HIV infection and AIDS.
-The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, but this is an animal-model disease, not a new human indication.
-Support is limited to **7 publications** (mostly animal and in vitro studies) and **no clinical trials**.
+Didanosine is a nucleoside reverse transcriptase inhibitor, with HIV infection and AIDS recorded as its original indications in the knowledge graph.
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, but there are **0 clinical trials** and only **2 preclinical publications**, and neither shows antiviral efficacy in infected cats.
+The prediction is therefore a model output with very little supporting evidence.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infection, AIDS |
-| Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.33% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| Original Indication | HIV infection and AIDS (relations recorded in the knowledge graph; the local licence records contain no indication text) |
+| Predicted New Indication | Feline acquired immunodeficiency syndrome |
+| TxGNN Prediction Score | 0.9933 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, didanosine is a nucleoside reverse transcriptase inhibitor (NRTI). Its active metabolite, ddATP, terminates viral DNA chain elongation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, didanosine is a nucleoside reverse transcriptase inhibitor. Its active metabolite blocks viral DNA synthesis by chain termination. Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a shared reverse transcriptase target is plausible.
 
-SIV is a lentivirus closely related to HIV and has a homologous reverse transcriptase, so activity is biologically plausible. Preclinical work supports this: SIV and SHIV strains were tested for susceptibility to anti-HIV compounds, and in a pigtail macaque study didanosine rescued animals from a lethal SIV dose.
+The two retrieved papers do not support the prediction directly. They use FIV-infected animals or lentivirus models to study didanosine-induced sensory neuropathy and neuronal autophagy. They do not test whether didanosine controls FIV infection in cats. The high TxGNN score most likely reflects network proximity to the HIV/AIDS indication rather than independent evidence.
 
-However, SIV infects non-human primates. These findings do not translate into a new human treatment. Their value is as a translational model for HIV, and the original HIV/AIDS indication already covers human clinical use.
+Because no cited study shows efficacy against feline immunodeficiency disease, the evidence level is L5 (model prediction only). This is also a veterinary condition, not a human indication, which limits its relevance for human drug repurposing.
 
-Two other predictions were also reviewed and are not actionable:
-- **Feline acquired immunodeficiency syndrome (score 99.33%, L4):** The feline model is used mainly to study didanosine-induced sensory neuropathy (a toxicity), not antiviral efficacy. It is a veterinary indication.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (score 99.26%, L5):** There are no trials or literature and no plausible mechanistic link. Didanosine's known mitochondrial toxicity and peripheral neuropathy raise a safety concern in neurological conditions. This is likely a knowledge-graph artifact.
+Two other predictions are in the data. Simian immunodeficiency virus infection (same score, 0.9933) has preclinical support, including didanosine rescuing pigtail macaques from a lethal SIV dose (PMID 9282812). It is an HIV research model and mostly supports the existing HIV use. A neurodevelopmental disorder with ataxic gait (score 0.9926) has no supporting data at all.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9282812](https://pubmed.ncbi.nlm.nih.gov/9282812/) | 1997 | Animal study (macaque) | AIDS Res Hum Retroviruses | Didanosine, but not high-dose hydroxyurea, rescued pigtail macaques from a lethal SIV dose |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro study | Antiviral Therapy | Antiviral activity of 16 approved drugs tested against HIV-2, SIV and SHIV strains |
-| [14965468](https://pubmed.ncbi.nlm.nih.gov/14965468/) | 2004 | Animal model study | DNA Cell Biol | T-cell receptor excision circles (TREC) measured as a marker in SHIV and SIV macaque models |
-| [8870848](https://pubmed.ncbi.nlm.nih.gov/8870848/) | 1996 | Animal model study | AIDS Res Hum Retroviruses | Cytokine mRNA expression in tissues during acute SIVmac251 infection of macaques |
-| [11435599](https://pubmed.ncbi.nlm.nih.gov/11435599/) | 2001 | In vitro study | J Virol | Dideoxynucleoside susceptibility of human foamy virus (indirect relevance) |
-| [9145853](https://pubmed.ncbi.nlm.nih.gov/9145853/) | 1997 | In vitro study | Antimicrob Agents Chemother | Protease inhibitor palinavir active against HIV-1, HIV-2 and SIV (indirect relevance) |
-| [15668538](https://pubmed.ncbi.nlm.nih.gov/15668538/) | 2005 | In vitro study | AIDS | Hydroxyurea is cytostatic but not immunosuppressive on T lymphocytes (indirect relevance) |
+| [17616550](https://pubmed.ncbi.nlm.nih.gov/17616550/) | 2007 | Preclinical animal study | Brain | In an FIV-infected model, didanosine caused sensory neuropathy with impaired mitochondrial and neurotrophic factor gene expression. This is a toxicity finding, not efficacy. |
+| [19380511](https://pubmed.ncbi.nlm.nih.gov/19380511/) | 2009 | Preclinical mechanistic study | FASEB J | Lentivirus infection suppressed neuronal autophagy through CXCR3 activation. Antiretroviral therapy was neuroprotective in the models. |
 
-Literature for the feline model (toxicity-focused):
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [17616550](https://pubmed.ncbi.nlm.nih.gov/17616550/) | 2007 | Animal model study | Brain | Didanosine caused sensory neuropathy in FIV-infected animals, with impaired mitochondrial and neurotrophic gene expression |
-| [19380511](https://pubmed.ncbi.nlm.nih.gov/19380511/) | 2009 | Animal/in vitro mechanistic study | FASEB J | CXCR3 activation suppresses neuronal autophagy; antiretroviral therapy was neuroprotective (indirect relevance) |
+---
 
 ## India Market Information
 
+The licence records contain no approved indication text. All five are single-ingredient, valid registrations.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 66713 | Dinosin 100mg Tablet | Bottle of 60 tablets | Not specified |
-| 237405 | Virosine DR 250mg Capsule | Packet of 30 capsules | Not specified |
-| 68259 | Dinosin 250mg Tablet | Strip of 30 tablets | Not specified |
-| 69362 | Dinosin 400mg Capsule | Strip of 30 capsules | Not specified |
-| 239969 | Virosine DR 400mg Capsule | Packet of 30 capsules | Not specified |
+| Registration No. 66713 | Dinosin 100mg Tablet | Bottle of 60 tablets | Not stated in the record |
+| Registration No. 237405 | Virosine DR 250mg Capsule | Packet of 30 capsules | Not stated in the record |
+| Registration No. 68259 | Dinosin 250mg Tablet | Strip of 30 tablets | Not stated in the record |
+| Registration No. 69362 | Dinosin 400mg Capsule | Strip of 30 capsules | Not stated in the record |
+| Registration No. 239969 | Virosine DR 400mg Capsule | Packet of 30 capsules | Not stated in the record |
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions:** 153 interactions are recorded. Moderate-level interactions include acetylsalicylic acid, metronidazole, levofloxacin, naltrexone, nitisinone, orlistat, rosuvastatin, simvastatin and tinidazole. Minor-level ones include ranitidine, doxycycline, minocycline and tetracycline.
-- **Disease-related contraindication signals (knowledge graph, not label text):** These include kidney disease and impaired renal function, liver disease, peripheral neuropathy, diabetes mellitus, hypertriglyceridemia, nephrolithiasis, and others.
-- **Mitochondrial toxicity and peripheral neuropathy:** Animal data (FIV model) show didanosine-induced sensory neuropathy with impaired mitochondrial gene expression.
+- **Drug Interactions**: 153 interactions are recorded in total. Moderate-level ones include aspirin (acetylsalicylic acid), metronidazole, levofloxacin, naltrexone, nitisinone, orlistat, rosuvastatin, simvastatin and tinidazole. Minor-level ones include ranitidine, doxycycline, minocycline and tetracycline.
+- **Contraindication relations in the knowledge graph** (not label text): these include kidney disease, liver disease, peripheral neuropathy, diabetes mellitus, hypertension, coronary artery disease, hypertriglyceridemia and nephrolithiasis.
+- **Neurotoxicity signal**: the retrieved literature documents didanosine-induced sensory neuropathy and mitochondrial toxicity in an animal model.
 
-Please refer to the package insert for full warnings and contraindications.
+Please refer to the package insert for label warnings and contraindications, as these were not available for this report.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is an animal-model infection supported only by preclinical studies (L4), with no clinical trials. It adds no new human use beyond the existing HIV/AIDS indication. The other two predictions are a veterinary toxicity model and an unsupported knowledge-graph artifact.
+The prediction rests on a TxGNN model (deep learning) score alone. No clinical trial or cited study shows didanosine working against feline immunodeficiency disease, and the retrieved papers mainly document toxicity. The condition is also veterinary, so it is not a human repurposing target.
 
 **To proceed, the following is needed:**
-- Detailed mechanism of action data (MOA)
-- Package insert warnings and contraindications from the India regulatory source
-- A clear human-relevant hypothesis (for example, using SIV data only as a translational HIV model) before any further evaluation
-- Independent mechanistic evidence before pursuing the neurodevelopmental disorder prediction
+- Veterinary efficacy data in FIV-infected cats
+- Mechanism of action data from DrugBank
+- Package insert warnings and contraindications from the Indian regulator
+- A decision on whether the SIV macaque findings should be treated as a research question rather than a repurposing candidate
+- A neurotoxicity and mitochondrial toxicity risk assessment before any new use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

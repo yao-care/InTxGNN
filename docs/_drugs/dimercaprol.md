@@ -46,10 +46,10 @@ Dimercaprol is a dithiol chelating agent that binds heavy metals such as mercury
 |------|------|
 | Original Indication | Not stated in the India license data (the approved indication text is blank) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The only linked publication is a 1963 case report describing bronchitis after acute mercury inhalation. In that setting, bronchitis is a consequence of metal poisoning. Chelation would address the underlying poisoning, not the bronchitis itself. There is no evidence that dimercaprol acts on bronchitis from other causes (infectious, allergic, or chronic obstructive).
 
-The very high TxGNN score (99.54%) is a computational prediction only and is not backed by clinical data. The mechanistic link is therefore weak.
+The very high TxGNN score (0.9954) is a computational prediction only and is not backed by clinical data. The mechanistic link is therefore weak.
 
 ## Clinical Trial Evidence
 

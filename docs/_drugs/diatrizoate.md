@@ -4,17 +4,17 @@ title: Diatrizoate
 parent: Model Prediction Only (L5)
 nav_order: 258
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-14
-description: "Diatrizoate: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not specified in the approved license data"
+indication_count: 1
 monitor_inn: "diatrizoate"
-predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis"]
+predicted_indications: ["rheumatoid arthritis"]
+last_modified_at: 2026-10-23
+description: "Diatrizoate: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the licence data compiled for this report"
 ---
 
 # Diatrizoate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,89 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Diatrizoate: From Radiographic Contrast Imaging to Osteoarthritis Susceptibility
+## Diatrizoate: From an Iodinated Contrast Agent to Rheumatoid Arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Diatrizoate is an iodinated radiographic contrast agent, marketed in India as an infusion (Trazograf).
-The TxGNN model predicts it may be relevant to **osteoarthritis susceptibility**, but there are **no clinical trials** and **no supporting publications** for this indication.
-The prediction rests on model output alone, and no mechanistic rationale supports it.
+Diatrizoate is an iodinated, high-osmolar radiographic contrast agent, marketed in India as an infusion product. The TxGNN model predicts it may be relevant to **rheumatoid arthritis**, but **no clinical trials** and only **1 publication** exist, and that publication is a laboratory methods paper rather than a treatment study. The prediction is a model output without real-world therapeutic support.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the approved license data |
-| Predicted New Indication | Osteoarthritis susceptibility |
-| TxGNN Prediction Score | 99.08% |
+| Original Indication | Not stated in the licence data compiled for this report |
+| Predicted New Indication | Rheumatoid arthritis |
+| TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, diatrizoate is an iodinated contrast agent used for radiographic imaging. It is not a disease-modifying therapy, and no established pharmacological action on cartilage metabolism, joint inflammation, or genetic susceptibility pathways has been identified.
+Currently, detailed mechanism of action data is not available. Diatrizoate is known as an iodinated, high-osmolar contrast agent used for imaging. It has no recognised anti-inflammatory or immunomodulatory pharmacology.
 
-The predicted indication is framed as "susceptibility", which describes a genetic risk concept rather than a treatable disease state. This weakens its plausibility as a repurposing target. The high TxGNN score is a computational prediction only, and no data compiled for this report supports a mechanistic link.
+No credible mechanistic link to rheumatoid arthritis has been established. The high TxGNN score (0.9902) is a model-derived prediction only. The one retrieved publication (PMID 6491310, 1984) is a laboratory study of density-gradient centrifugation media. Diatrizoate salts are a component of Ficoll-Hypaque, which was used to separate blood cells from healthy people and from patients with rheumatoid arthritis. Here diatrizoate served as a laboratory reagent, not as a treatment. The association therefore most likely reflects a literature co-occurrence artefact rather than a therapeutic signal.
 
-A second prediction, **rheumatoid arthritis** (score 99.02%), also has no clinical trial support. The only retrieved publication is a 1984 laboratory methods paper. It describes the use of diatrizoate salts in Ficoll-Hypaque density gradients to separate blood cells from rheumatoid arthritis patients. This reflects use as a laboratory reagent, not a treatment effect, so it is a spurious association and not clinical evidence.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
-
-For the top prediction (osteoarthritis susceptibility), currently no related literature is available.
-
-For the second prediction (rheumatoid arthritis), the only publication retrieved is a laboratory methods study, not clinical evidence:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6491310](https://pubmed.ncbi.nlm.nih.gov/6491310/) | 1984 | In vitro methods study | J Immunol Methods | Centrifugation of normal and rheumatoid arthritis blood on Ficoll-Hypaque and Ficoll-Nycodenz solutions. Diatrizoate was a reagent for cell separation, not a therapy. |
+| [6491310](https://pubmed.ncbi.nlm.nih.gov/6491310/) | 1984 | In vitro laboratory methods study | Journal of Immunological Methods | Ficoll-Hypaque and Ficoll-Nycodenz centrifugation for separating blood cells from normal and rheumatoid arthritis patients; diatrizoate used only as a separation-medium component, not as a therapy |
+
+---
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Registration No. 221587 | Trazograf 0.66gm/0.1gm Infusion | Bottle of 100 ml infusion | Not specified |
+| Registration No. 221587 | Trazograf 0.66gm/0.1gm Infusion | Bottle of 100 ml infusion | Not stated in the licence data |
+
+The manufacturer is J B Chemicals and Pharmaceuticals Ltd. This is the only licence, and it is a valid single-ingredient registration.
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: 156 interactions were recorded. Major interactions include:
+- **Drug Interactions**: 156 interactions are recorded in total. Examples rated **Major** include:
   - Metformin
-  - Amphotericin B, including the lipid complex, cholesteryl sulfate, and liposomal forms
-  - Aminoglycosides and related antibiotics: kanamycin, neomycin, streptomycin
-  - Polymyxin B and vancomycin
-  - Aminosalicylates: mesalazine, balsalazide, olsalazine, sulfasalazine
-  - Ketorolac and acyclovir
+  - Amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms)
+  - Aminoglycosides (kanamycin, neomycin, streptomycin)
+  - Polymyxin B
+  - Vancomycin
+  - Acyclovir
+  - Ketorolac
+  - Aminosalicylates (mesalazine, balsalazide, olsalazine, sulfasalazine)
 
-  Moderate interactions include mannitol, acebutolol, acetazolamide, and nifedipine. Many of the major interactions involve agents with kidney effects, so renal function is an important consideration.
+  Examples rated **Moderate** include mannitol, acebutolol, acetazolamide and nifedipine. Many of the Major interactions involve potentially nephrotoxic drugs. Please refer to the package insert for further safety information.
 
-Please refer to the package insert for warnings and contraindications.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predictions for osteoarthritis susceptibility and rheumatoid arthritis come from the model alone (Evidence Level L5). There are no clinical trials, and the only literature reflects laboratory reagent use. Diatrizoate has no plausible therapeutic mechanism in these conditions.
+The prediction rests only on a model score. The single publication is a laboratory methods paper that does not study diatrizoate as a treatment for rheumatoid arthritis, there are no clinical trials, and no plausible mechanism has been identified. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data to test whether any biological link exists
-- Package insert warnings and contraindications from the India product label, which are required before any safety screening
-- Preclinical or clinical evidence for the predicted indication
-- Confirmation of the original approved indication, which is not specified in the license data
-- Evaluation of route compatibility, since the product is an infusion
+- Mechanism of action data, and evidence of any plausible anti-inflammatory or immunomodulatory activity
+- Preclinical or clinical studies that test diatrizoate directly in rheumatoid arthritis
+- Package insert warnings, contraindications and approved indication text for the Indian licence
+- Assessment of whether an iodinated contrast agent is a feasible therapeutic candidate, including route and renal safety
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

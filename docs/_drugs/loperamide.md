@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Loperamide: predicted new indication Acute contagious conjunctivitis (evidence level L5). Approved use: Diarrheal disease, dysentery"
 monitor_inn: "Loperamide"
-predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "Angelucci syndrome"]
+predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "conjunctival folliculosis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
 ---
 
 # Loperamide
@@ -50,9 +50,9 @@ The prediction has no plausible biological rationale and should be treated with 
 |------|------|
 | Original Indication | Diarrheal disease, dysentery |
 | Predicted New Indication | Acute contagious conjunctivitis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The original indications (diarrheal disease, dysentery) are gastrointestinal, while the predicted indication is an eye infection. No mechanistic link was identified: loperamide has no known antimicrobial or anti-inflammatory activity on the ocular surface, and neither systemic nor topical ocular delivery is established.
 
-The very high score (0.9997) appears to be a graph-based artifact. Several other conjunctivitis subtypes received nearly identical scores (for example conjunctivitis, pseudomembranous conjunctivitis, parasitic conjunctivitis and chronic follicular conjunctivitis), which suggests the signal comes from shared neighbours in the knowledge graph rather than disease-specific biology. Among the other top-10 predictions, the closest to the original use is amebic dysentery, but the available literature points toward harm rather than benefit (see Safety Considerations).
+The very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other conjunctivitis subtypes received nearly identical scores (for example conjunctivitis at 0.9987, pseudomembranous conjunctivitis at 0.9965, parasitic conjunctivitis at 0.9965 and chronic follicular conjunctivitis at 0.9965), which suggests the signal comes from similarities the model learned between related diseases rather than disease-specific biology. Among the other top-10 predictions, the closest to the original use is amebic dysentery (0.9995), but the available literature points toward harm rather than benefit (see Safety Considerations).
 
 ---
 
@@ -117,7 +117,7 @@ The prediction for acute contagious conjunctivitis rests on a model score alone 
 - A credible mechanistic hypothesis for ocular activity, plus evidence of an ocular delivery route (none exists today)
 - Preclinical studies in ocular infection or inflammation models
 - Mechanism of action data and package insert warnings and contraindications for the India registrations
-- Re-evaluation of the model prediction for graph-propagation artifacts, given the identical scores across conjunctivitis subtypes
+- Re-evaluation of the model prediction for artifacts from similarities the model learned between related diseases, given the near-identical scores across conjunctivitis subtypes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

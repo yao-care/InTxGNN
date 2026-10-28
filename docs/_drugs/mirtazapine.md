@@ -48,9 +48,9 @@ but there are currently **no clinical trials** and **no publications** supportin
 |------|------|
 | Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder |
 | Predicted New Indication | Ohdo syndrome and variants |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,11 +58,11 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, mirtazapine is an antidepressant that acts through central alpha-2 adrenergic antagonism, 5-HT2/5-HT3 antagonism and H1 antagonism. Its efficacy in depression is established.
 
-The link to the predicted indication is weak. Ohdo syndrome is a rare genetic neurodevelopmental disorder (blepharophimosis, intellectual disability, hypotonia), associated with chromatin-modifier defects such as KAT6B or MED12 variants, depending on the subtype. Mirtazapine's monoaminergic pharmacology has no established connection to this pathology. The very high TxGNN score (0.994) reflects a graph-based computational prediction, not biological evidence. At most, benefit could be symptomatic (for example sleep, appetite or mood), and this is speculative.
+The link to the predicted indication is weak. Ohdo syndrome is a rare genetic neurodevelopmental disorder (blepharophimosis, intellectual disability, hypotonia), associated with chromatin-modifier defects such as KAT6B or MED12 variants, depending on the subtype. Mirtazapine's monoaminergic pharmacology has no established connection to this pathology. The very high score (0.9942) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, benefit could be symptomatic (for example sleep, appetite or mood), and this is speculative.
 
 Two other predictions were also generated, and they are equally unsupported:
-- **Blepharophimosis - intellectual disability syndrome, Ohdo type** (score 99.11%): a closely related entity to the first prediction. The similar scores suggest the predictions are not independent. No plausible disease-modifying mechanism is evident.
-- **Benign paroxysmal torticollis of infancy** (score 99.11%): an episodic movement disorder related to migraine equivalents, often linked to CACNA1A variants. Only a speculative, indirect link exists. The condition is self-limiting and managed supportively, and mirtazapine carries a boxed warning for suicidality in young patients and is not established in infants.
+- **Blepharophimosis - intellectual disability syndrome, Ohdo type** (score 0.9911): a closely related entity to the first prediction. The similar scores suggest the predictions are not independent. No plausible disease-modifying mechanism is evident.
+- **Benign paroxysmal torticollis of infancy** (score 0.9911): an episodic movement disorder related to migraine equivalents, often linked to CACNA1A variants. Only a speculative, indirect link exists. The condition is self-limiting and managed supportively, and mirtazapine carries a boxed warning for suicidality in young patients and is not established in infants.
 
 ## India Market Information
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Diethylcarbamazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 266
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Diethylcarbamazine: predicted new indication Syndromic lymphedema (evidence level L4). Approved use: Filariasis and related conditions (elephantiasis, lymphedema, loiasis…"
 monitor_inn: "Diethylcarbamazine"
-predicted_indications: ["syndromic lymphedema", "primary lymphedema", "podoconiosis", "lymphedema, hereditary", "Aagenaes syndrome", "chylous ascites", "lymphedema-cerebral arteriovenous anomaly syndrome", "mullerian derivatives-lymphangiectasia-polydactyly syndrome", "hypotrichosis-lymphedema-telangiectasia syndrome (grouping)", "microcephaly with or without chorioretinopathy, lymphedema, or intellectual disability"]
+predicted_indications: ["syndromic lymphedema", "primary lymphedema"]
 ---
 
 # Diethylcarbamazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ The prediction most likely reflects network proximity to the approved filarial l
 |------|------|
 | Original Indication | Filariasis and related conditions (elephantiasis, lymphedema, loiasis, onchocerciasis, pulmonary eosinophilia) |
 | Predicted New Indication | Syndromic lymphedema |
-| TxGNN Prediction Score | 99.59% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9959 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -66,7 +66,7 @@ Syndromic lymphedema is a genetic condition caused by developmental defects in l
 
 The high TxGNN score most likely arises from the shared "lymphedema" label with the approved filarial indication. It should be read as a network-proximity signal, not as evidence of mechanistic fit.
 
-Other predictions (ranks 2–10) follow the same pattern. They include primary lymphedema, podoconiosis, hereditary lymphedema, Aagenaes syndrome, chylous ascites and several rare genetic syndromes. All have scores of 97.7%–99.2%, are driven by the lymphedema association, and have no direct supporting studies.
+Other predictions follow the same pattern. They include primary lymphedema (score 0.9925). The score comes from the TxGNN model (deep learning), is driven by the lymphedema association, and has no direct supporting studies.
 
 ---
 
@@ -123,7 +123,7 @@ The prediction rests on model output and a shared lymphedema label. There are no
 - Mechanism of action data for diethylcarbamazine
 - Package insert warnings and contraindications for the Indian products
 - Preclinical or early clinical studies directly in syndromic or other non-filarial lymphedema
-- Review of whether other high-scoring predictions (such as podoconiosis) have any stronger direct evidence
+- Review of whether other high-scoring predictions have any stronger direct evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

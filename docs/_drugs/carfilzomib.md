@@ -48,10 +48,10 @@ However, **no clinical trials** are registered for this direction, and the only 
 |------|------|
 | Original Indication | Plasma cell myeloma |
 | Predicted New Indication | Melanoma (the top-ranked prediction is "CMM7", a poorly defined entity; the best-supported prediction is melanoma) |
-| TxGNN Prediction Score | 99.37% for the top-ranked prediction (CMM7); 99.03% for melanoma |
-| Evidence Level | L4 for melanoma (preclinical only); L5 for the other predicted melanoma subtypes |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| TxGNN Prediction Score | 0.9937 for the top-ranked prediction (CMM7); 0.9903 for melanoma |
+| Evidence Level | L5 for melanoma (preclinical only); L5 for the other predicted melanoma subtypes |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

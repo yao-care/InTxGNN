@@ -4,17 +4,17 @@ title: Nadifloxacin
 parent: Model Prediction Only (L5)
 nav_order: 575
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Nadifloxacin: predicted new indication Malaria (evidence level L5). Approved use: Acne"
 monitor_inn: "Nadifloxacin"
-predicted_indications: ["malaria", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "spondyloarthropathy, susceptibility to", "relapsing fever", "zinc, elevated plasma", "demodicidosis of sebaceous gland", "Zollinger-Ellison syndrome", "sterile multifocal osteomyelitis with periostitis and pustulosis", "leishmaniasis", "rheumatoid vasculitis"]
+predicted_indications: ["malaria"]
 ---
 
 # Nadifloxacin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ It is a model-based hypothesis only.
 |------|------|
 | Original Indication | Acne |
 | Predicted New Indication | Malaria |
-| TxGNN Prediction Score | 99.16% |
+| TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,11 +62,10 @@ It is a model-based hypothesis only.
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, nadifloxacin is a topical fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in acne is attributed to its antibacterial action.
 
-A theoretical link to malaria exists: *Plasmodium* has a gyrase located in its apicoplast, which could in principle be a target for quinolones. However, this is a hypothesis with no supporting activity data. The very high TxGNN score (99.16%) reflects a model prediction only.
+A theoretical link to malaria exists: *Plasmodium* has a gyrase located in its apicoplast, which could in principle be a target for quinolones. However, this is a hypothesis with no supporting activity data. The very high TxGNN score (0.9916) reflects a model prediction only.
 
 A major unresolved concern is route of administration. Nadifloxacin is marketed only as topical products (cream, gel, ointment, dusting powder), and achieving systemic antimalarial exposure with these forms is doubtful. Malaria is a bloodstream infection.
 
-Other top-ranked predictions are also unsupported by evidence. They include pyogenic arthritis-pyoderma gangrenosum-acne syndrome, spondyloarthropathy, relapsing fever, demodicidosis of the sebaceous gland, and leishmaniasis. Leishmaniasis (cutaneous form) and relapsing fever have the most plausible theoretical links, but neither has supporting data.
 
 ---
 

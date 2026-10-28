@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Fluorescein is a fluorescent diagnostic dye used in ophthalmology, for retinal angiography and for staining the ocular surface. The TxGNN model predicts it may be relevant to **Prinzmetal angina**, but **no clinical trials and no supporting publications** back this prediction. It is a graph-based signal only.
+Fluorescein is a fluorescent diagnostic dye used in ophthalmology, for retinal angiography and for staining the ocular surface. The TxGNN model predicts it may be relevant to **Prinzmetal angina**, but **no clinical trials and no supporting publications** back this prediction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -46,17 +46,17 @@ Fluorescein is a fluorescent diagnostic dye used in ophthalmology, for retinal a
 |------|------|
 | Original Indication | Not stated in the registration data compiled for this report (products are an injection for retinal angiography and ophthalmic staining strips) |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available for this report. Fluorescein is a diagnostic fluorescent dye. It is given by injection for retinal angiography and applied topically to stain the ocular surface. It is not known to have therapeutic pharmacological activity.
 
-The review of the prediction found no plausible mechanistic link between fluorescein and Prinzmetal angina. The condition is driven by coronary vasospasm, and fluorescein has no known vasodilatory or anti-vasospastic action. The high score reflects a pattern in the knowledge graph rather than a biological rationale. It should be read as a hypothesis-generating signal, not as evidence of benefit.
+The review of the prediction found no plausible mechanistic link between fluorescein and Prinzmetal angina. The condition is driven by coronary vasospasm, and fluorescein has no known vasodilatory or anti-vasospastic action. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a hypothesis-generating signal, not as evidence of benefit.
 
 Other predictions were also reviewed:
 

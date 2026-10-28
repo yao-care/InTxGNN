@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydroxyzine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 416
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Hydroxyzine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Atopic eczema / atopic dermatitis, allergic rhinitis…"
 monitor_inn: "Hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxyzine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Hydroxyzine: From Allergic and Atopic Conditions to Allergic Urticaria
+## Hydroxyzine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Hydroxyzine is a first-generation H1 antihistamine, originally used for allergic and itch-related conditions such as atopic dermatitis, allergic rhinitis, urticaria, angioedema and allergic conjunctivitis.
-The TxGNN model predicts it may be effective for **allergic urticaria**, but this is essentially a subtype of an already-labeled use, with **0 registered clinical trials** and **20 publications** (mostly reviews, largely about its metabolite cetirizine).
 
 ---
 
@@ -47,11 +46,11 @@ The TxGNN model predicts it may be effective for **allergic urticaria**, but thi
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic eczema / atopic dermatitis, allergic rhinitis, vasomotor rhinitis, common cold, allergic conjunctivitis (atopic, papillary, vernal), familial dermatographia, urticaria, angioedema (from the knowledge-graph indication list; the Indian licence records contain no indication text) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Rosacea conjunctivitis |
+| TxGNN Prediction Score | 0.9970 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (research question only; see Conclusion) |
 
@@ -69,10 +68,7 @@ The literature retrieved is mostly reviews of antihistamines in general and of c
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Cold urticaria | 99.66% | L3 | Mechanistically appropriate (H1 blockade). A 1984 double-blind comparison included hydroxyzine, but the study is old and of limited quality. Second-generation antihistamines are now preferred. |
-| Rosacea conjunctivitis | 99.70% | L5 | No trials or literature. Ocular rosacea is driven mainly by meibomian gland dysfunction, inflammation and microbial factors, not histamine, so the rationale is weak. |
-| Recalcitrant atopic dermatitis | 99.36% | L5 | Atopic dermatitis is already labeled. Antihistamines have limited effect on atopic itch, and no evidence supports use in refractory disease. |
-| IgE responsiveness, atopic | 99.27% | L5 | A genetic/phenotypic trait rather than a treatable disease. Not an actionable target. |
+| Rosacea conjunctivitis | 0.9970 | L5 | No trials or literature. Ocular rosacea is driven mainly by meibomian gland dysfunction, inflammation and microbial factors, not histamine, so the rationale is weak. |
 
 ---
 
@@ -117,7 +113,6 @@ Other presentations include 15-tablet strips and a 15 ml oral drop (Azon 6mg Dro
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** hypertension and other cardiovascular disease (coronary artery disease, myocardial infarction, heart conduction disease, sudden cardiac arrest), epilepsy, liver and gallbladder disease, thyroid disorders (hypothyroidism, hyperthyroidism), peptic ulcer disease, open-angle and angle-closure glaucoma, psychotic and other mental disorders, diabetes and diabetic ketoacidosis, benign prostatic hyperplasia, substance abuse/dependence, hemoglobinopathy.
 - **Drug Interactions:** 297 interactions were identified. Major ones include morphine, potassium citrate and dolasetron. Moderate ones include other anticholinergics (atropine, hyoscyamine, dicyclomine, trospium), clarithromycin, levofloxacin, famotidine, loperamide, dronabinol and nabilone.
 - **Class concerns from the literature:** first-generation antihistamines such as hydroxyzine are associated with sedation, cognitive impairment, dry mouth, dizziness and orthostatic hypotension, and have been linked to accidents, overdoses and sudden cardiac death (PMID 31582993).
 
@@ -130,7 +125,7 @@ For full warnings, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-Allergic urticaria is essentially an already-accepted use of hydroxyzine, so it is not a genuine repurposing opportunity. The evidence is limited to reviews, mostly about cetirizine, with no registered trials. Guidelines now prefer second-generation antihistamines because of hydroxyzine's sedation and anticholinergic burden. Of the other predictions, only cold urticaria has any hydroxyzine-specific data, and that is old.
+Allergic urticaria is essentially an already-accepted use of hydroxyzine, so it is not a genuine repurposing opportunity. The evidence is limited to reviews, mostly about cetirizine, with no registered trials. Guidelines now prefer second-generation antihistamines because of hydroxyzine's sedation and anticholinergic burden.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian regulatory sources

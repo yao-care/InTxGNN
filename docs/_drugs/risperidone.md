@@ -4,17 +4,17 @@ title: Risperidone
 parent: Model Prediction Only (L5)
 nav_order: 745
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Risperidone: From Schizophrenia and Bipolar Disorder to Familial Horizontal Gaze Palsy with Progressive Scoliosis
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Risperidone is an atypical antipsychotic originally used for schizophrenia, bipolar disorder (including mania) and autism-spectrum-related conditions.
 The TxGNN model's top-ranked prediction is **familial horizontal gaze palsy with progressive scoliosis**, a very rare genetic eye-movement disorder.
-This prediction has **no clinical trials and no publications** behind it, so it is most likely a knowledge-graph artifact. Among the other predictions, **major affective disorder** (treatment-resistant depression) has far stronger support, with **2 completed Phase 3 trials** and **several systematic reviews**.
+This prediction has **no clinical trials and no publications** behind it, so it is most likely a TxGNN model (deep learning) artifact. Among the other predictions, **major affective disorder** (treatment-resistant depression) has far stronger support, with **2 completed Phase 3 trials** and **several systematic reviews**.
 
 ---
 
@@ -48,11 +48,11 @@ This prediction has **no clinical trials and no publications** behind it, so it 
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia; bipolar disorder (including mania); autism spectrum disorder (the Indian registration records contain no indication text, so this comes from the drug's known indications in the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gaze palsy, familial horizontal, with progressive scoliosis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 (all valid single-ingredient products) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ This prediction has **no clinical trials and no publications** behind it, so it 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Risperidone is generally understood to act by blocking dopamine D2 and serotonin 5-HT2A receptors. This is why it works in schizophrenia, bipolar mania and irritability linked to autism.
 
-The predicted disease is a rare neurodevelopmental and eye-movement disorder, related to ROBO3 gene changes. It has no known dopaminergic or serotonergic target that risperidone could act on. The high score most likely reflects the way diseases and drugs are linked in the knowledge graph, not a real biological rationale. No mechanistic link could be established.
+The predicted disease is a rare neurodevelopmental and eye-movement disorder, related to ROBO3 gene changes. It has no known dopaminergic or serotonergic target that risperidone could act on. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No mechanistic link could be established.
 
 ---
 
@@ -126,7 +126,7 @@ Package insert warnings and contraindications were not retrieved for this report
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has a very high model score but no trials, no publications and no plausible mechanism, so it is best treated as a graph-based artifact. Risperidone's safety burden (metabolic, cardiovascular and extrapyramidal effects, and possibly a lowered seizure threshold) is not justified by this prediction.
+The top-ranked prediction has a very high model score but no trials, no publications and no plausible mechanism. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Risperidone's safety burden (metabolic, cardiovascular and extrapyramidal effects, and possibly a lowered seizure threshold) is not justified by this prediction.
 
 **Other predictions worth noting from the same analysis:**
 - **Major affective disorder (treatment-resistant unipolar depression)** is the strongest signal, rated L1 and "Proceed with Guardrails".

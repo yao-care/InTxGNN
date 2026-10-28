@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: Model Prediction Only (L5)
 nav_order: 571
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections"
 monitor_inn: "Moxifloxacin"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
+description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Moxifloxacin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+## Moxifloxacin: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syn
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (streptococcal, staphylococcal, pneumonia, peritonitis, conjunctivitis, plague and others, per the knowledge graph; no approved indication text in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 That mechanism has no known effect on serum viscosity or on the raised polyclonal immunoglobulins that characterise hyperviscosity syndrome. The expert review of the data found no plausible mechanistic link. The high TxGNN score is a model output only and should not be read as evidence of benefit.
 
-The other top-ranked predictions show the same pattern. Hyperamylasemia, congenital analbuminemia, blood group incompatibility, premalignant haematological disease, monoclonal gammopathy, congenital haematological disorder and haematopoietic neoplasm have no supporting mechanism either. The single exception is **bubonic plague**, ranked 10th (score 99.41%). It is close to the existing label, since plague and pneumonic plague are already among the original indications. Its evidence is preclinical (see below).
+The other top-ranked predictions show the same pattern. Hyperamylasemia (0.9998), congenital analbuminemia (0.9997), blood group incompatibility (0.9996), premalignant haematological disease (0.9995), monoclonal gammopathy (0.9995), congenital haematological disorder (0.9991) and haematopoietic neoplasm (0.9967) have no supporting mechanism either.
 
 ## Clinical Trial Evidence
 

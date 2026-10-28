@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trihexyphenidyl
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 865
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Trihexyphenidyl: predicted new indication Attention deficit-hyperactivity disorder (evidence level L4). Approved use: Parkinson disease (and related parkinsonian disorders, dystonia…"
@@ -14,7 +14,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigito
 # Trihexyphenidyl
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 |------|------|
 | Original Indication | Parkinson disease (and related parkinsonian disorders, dystonia, blepharospasm) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

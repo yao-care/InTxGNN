@@ -4,17 +4,17 @@ title: Quinapril
 parent: Model Prediction Only (L5)
 nav_order: 716
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Quinapril: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "Quinapril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Quinapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Quinapril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Quinapril: From Hypertension to Malignant Renovascular Hypertension
+## Quinapril: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Quinapril is an ACE inhibitor originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but **no clinical trials and no publications** currently support this specific prediction. It is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.86% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,10 +65,9 @@ However, the high TxGNN score most likely reflects similarity to the already-app
 
 | Rank | Predicted Indication | Score | Evidence Level | Note |
 |------|------|------|------|------|
-| 2 | Malignant hypertensive renal disease | 99.86% | L5 | RAAS blockade is relevant to hypertensive kidney damage, but this largely extends the approved use. No studies provided. |
-| 3 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.85% | L4 | Two animal studies from 1996 only. This is the best-supported of the five predictions, though still preclinical. |
-| 4 | Pulmonary hypertension with unclear multifactorial mechanism | 99.85% | L5 | Only an indirect link through hypoxic pulmonary hypertension work. |
-| 5 | Braddock syndrome | 99.79% | L5 | No clear mechanistic link. Likely reflects knowledge-graph proximity. |
+| 2 | Malignant hypertensive renal disease | 0.9986 | L5 | RAAS blockade is relevant to hypertensive kidney damage, but this largely extends the approved use. No studies provided. |
+| 3 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9985 | L5 | Two animal studies from 1996 only. This is the best-supported of the five predictions, though still preclinical. |
+| 4 | Pulmonary hypertension with unclear multifactorial mechanism | 0.9985 | L5 | Only an indirect link through hypoxic pulmonary hypertension work. |
 
 ## Clinical Trial Evidence
 
@@ -100,7 +98,6 @@ Seven valid single-ingredient registrations are listed in total; all are oral ta
 
 ## Safety Considerations
 
-- **Contraindications / Risk Conditions (from knowledge-graph associations, not label text):**
   - Kidney disease and anuria
   - Liver disease, hepatic coma and hepatic encephalopathy
   - Angioedema, including hereditary, acquired and RAAS-blocker-induced forms
@@ -122,7 +119,7 @@ Please refer to the package insert for full warnings and contraindications, as l
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone, with no clinical trials or literature for malignant renovascular hypertension. The score likely reflects overlap with the approved hypertension indication, and the renal safety risk in renovascular disease is significant.
+The score likely reflects overlap with the approved hypertension indication, and the renal safety risk in renovascular disease is significant.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)

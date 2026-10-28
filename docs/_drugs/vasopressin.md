@@ -4,17 +4,17 @@ title: Vasopressin
 parent: Model Prediction Only (L5)
 nav_order: 884
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Vasopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not stated in the available India license data"
 monitor_inn: "Vasopressin"
-predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "orofacial clefting syndrome", "ductal or ductular proliferation", "non-seminomatous lesion", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "cystic neoplasm"]
+predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
 ---
 
 # Vasopressin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This is a model-only prediction with weak supporting evidence.
 |------|------|
 | Original Indication | Not stated in the available India license data |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L4 (indirect mechanistic and case-level literature only; no trials) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| TxGNN Prediction Score | 0.9963 |
+| Evidence Level | L5 (indirect mechanistic and case-level literature only; no trials) |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---

@@ -4,17 +4,17 @@ title: Rosuvastatin
 parent: Model Prediction Only (L5)
 nav_order: 755
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Rosuvastatin: predicted new indication Cholesterol-ester transfer protein deficiency . The best-supported pr… (evidence level L5). Approved use: Hypertriglyceridemia, stroke disorder, cerebrovascular…"
 monitor_inn: "Rosuvastatin"
-predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
+description: "Rosuvastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rosuvastatin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rosuvastatin: From Hyperlipidaemia and Stroke Prevention to Familial Hypercholesterolemia
+## Rosuvastatin: Cholesterol-ester transfer protein deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Rosuvastatin is a statin (HMG-CoA reductase inhibitor) originally used for hypertriglyceridemia, hyperlipoproteinemia, atherosclerosis, stroke-related disorders and homozygous familial hypercholesterolemia.
-The top-ranked prediction with real supporting evidence is **Familial Hypercholesterolemia**, backed by **12 listed clinical trials** and **13 publications**. Note that this is largely an on-label or near-label use rather than true repurposing.
+The top-ranked prediction is **cholesterol-ester transfer protein deficiency**, which has no registered clinical trials.
 The only genuinely novel prediction with a body of evidence is **HIV infectious disease** (a research question, not a recommendation).
 
 ---
@@ -48,11 +48,11 @@ The only genuinely novel prediction with a body of evidence is **HIV infectious 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertriglyceridemia, stroke disorder, cerebrovascular disorder, cerebral infarction, atherosclerosis, familial combined hyperlipidemia, hyperlipoproteinemia, homozygous familial hypercholesterolemia (the Indian licence records contain no approved indication text) |
-| Predicted New Indication | Cholesterol-ester transfer protein deficiency (rank 1; prediction only). The best-supported prediction is Familial Hypercholesterolemia (rank 2) |
-| TxGNN Prediction Score | 99.54% (rank 1); 99.54% (Familial Hypercholesterolemia) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cholesterol-ester transfer protein deficiency |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 for rank 1; L1 for Familial Hypercholesterolemia |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold for rank 1; Proceed with Guardrails for Familial Hypercholesterolemia |
 
@@ -67,7 +67,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 **Familial hypercholesterolemia:** The LDL clearance deficit in this condition is directly addressed by statin-induced LDL receptor upregulation. Homozygous familial hypercholesterolemia is already among the original indications, so this is mostly an established use. Guardrails: pediatric dosing, monitoring for myopathy and liver enzymes, and limited response in homozygous patients with null LDLR variants, who often need add-on therapy.
 
 **Other predictions in the list:**
-- **Hyperlipidemia** (rank 10, L1): an established use, with large Phase 3 programmes.
+- **Hyperlipidemia**: an established use, with large Phase 3 programmes.
 - **HIV infectious disease** (rank 5, L2): the rationale is lipid-lowering and anti-inflammatory effects reducing cardiovascular risk in people with HIV. The trials mostly address surrogate cardiovascular endpoints and drug interactions with antiretrovirals, not HIV itself, and results are mixed.
 - **Brain stem infarction, hypoalphalipoproteinemia, CYP7A1-deficiency hypercholesterolemia:** only indirect or preclinical support.
 - **Hepatic lipase deficiency hyperlipidemia, ABri amyloidosis, a rare neurodevelopmental disorder:** prediction only, no evidence.
@@ -76,7 +76,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 ## Clinical Trial Evidence
 
-Shown for Familial Hypercholesterolemia, the best-supported prediction (up to 10 most relevant trials). The rank 1 prediction, CETP deficiency, has no registered clinical trials.
+Shown as a known use (up to 10 most relevant trials). The rank 1 prediction, CETP deficiency, has no registered clinical trials.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -122,7 +122,7 @@ Shown for Familial Hypercholesterolemia (up to 10 most relevant, RCTs first).
 | 184168 | Rosuvas 20 Tablet (Sun Pharmaceutical Industries Ltd) | Strip of 10 tablets | Not specified |
 | 185654 | Rosave CV 20mg/75mg Capsule (Alembic Pharmaceuticals Ltd) | Strip of 10 capsules | Not specified |
 
-All 20 registrations are valid, with none cancelled. Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), although the data classify all 20 as single-ingredient licences.
+All 20 registrations are valid. Several products carry rosuvastatin in combination with other agents (for example, the "CV" capsules), although the data classify all 20 as single-ingredient licences.
 
 ---
 
@@ -138,10 +138,10 @@ The package-insert warnings and contraindications for the Indian products have n
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails (Familial Hypercholesterolemia); Hold (CETP deficiency, the top-ranked prediction, and the other low-evidence predictions)**
+**Decision: Hold (CETP deficiency, the top-ranked prediction, and the other low-evidence predictions)**
 
 **Rationale:**
-- Familial hypercholesterolemia is supported by multiple completed Phase 3 trials, including paediatric RCTs, and is already close to an original indication. The top-scored prediction, CETP deficiency, has no trials or literature and rests on the model score alone.
+- The top-scored prediction, cholesterol-ester transfer protein deficiency (0.9954), has no trials or literature and rests on the model score alone.
 - HIV infectious disease (L2) is worth investigating as a research question, but the evidence is mostly surrogate and mixed.
 
 **To proceed, the following is needed:**

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be relevant to **drug-induced osteoporosis**, bu
 |------|------|
 | Original Indication | Fungal nail infection (onychomycosis), based on general pharmacological reference information; the Indian licence records compiled for this report contain no indication text |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be relevant to **drug-induced osteoporosis**, bu
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, amorolfine is a morpholine antifungal that inhibits fungal ergosterol biosynthesis (sterol delta-14 reductase and delta-7,delta-8 isomerase). It is applied topically and has negligible systemic absorption.
 
-No established mechanistic link to bone metabolism or osteoporosis has been identified. The very high TxGNN score (0.99998, rank 96) is a knowledge-graph-based prediction only. Similarity between the original and predicted indications could not be assessed.
+No established mechanistic link to bone metabolism or osteoporosis has been identified. The very high TxGNN score (0.99998, rank 96) is a TxGNN model (deep learning) prediction only. Similarity between the original and predicted indications could not be assessed.
 
 The other top predictions show the same pattern: disease of retroperitoneum, disease of uterine broad ligament, lumbar spinal stenosis, abdominal cystic lymphangioma, abdominal ectopic pregnancy, celiac trunk compression syndrome, lymph node palisaded myofibroblastoma, sacrum chordoma and urethral disease. All are Level L5 with no trials or literature, and many are anatomical groupings or mechanical conditions with no plausible antifungal link. Route compatibility with a topical-only product is also unresolved.
 
@@ -92,7 +92,7 @@ Please refer to the package insert for other safety information (warnings and co
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, no plausible mechanistic link between a topical antifungal and drug-induced osteoporosis, and negligible systemic exposure. Package-insert safety data are also missing, so safety screening cannot proceed.
+The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanistic link between a topical antifungal and drug-induced osteoporosis, and negligible systemic exposure. Package-insert safety data are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India product labels

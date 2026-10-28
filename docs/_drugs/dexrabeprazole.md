@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexrabeprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 256
-evidence_level: L3
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Dexrabeprazole: predicted new indication Active peptic ulcer disease (evidence level L3). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Dexrabeprazole"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis"]
+last_modified_at: 2026-10-27
+description: "Dexrabeprazole: predicted new indication duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexrabeprazole
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,31 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-## Dexrabeprazole: From Acid Peptic Disorders to Active Peptic Ulcer Disease
+## Dexrabeprazole: Proton pump inhibitor (acid suppressant) → duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dexrabeprazole is the R-enantiomer of rabeprazole, a proton pump inhibitor originally used for acid-related stomach and oesophageal conditions such as gastric ulcer, duodenal ulcer and gastroesophageal reflux disease.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which sits very close to its existing uses, so this is closer to an on-label use than true repurposing.
-Support currently consists of **0 clinical trials** and **1 publication** (a postmarketing surveillance study).
+Dexrabeprazole is an acid-suppressing drug (proton pump inhibitor) that is marketed in India.
+The TxGNN model predicts it may be relevant to **duodenal obstruction**, but **no clinical trials and no publications** were found to support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (from the knowledge graph; no approved indication text is available in the India licence records) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | duodenal obstruction |
+| TxGNN Prediction Score | 0.9962 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general proton pump inhibitor pharmacology, dexrabeprazole is the R-enantiomer of rabeprazole. It irreversibly blocks H+/K+-ATPase in gastric parietal cells and suppresses acid secretion.
+Detailed mechanism of action data is not available in the data compiled for this report. Dexrabeprazole is the active (right-handed) form of rabeprazole, and drugs of this class reduce stomach acid.
 
-Active peptic ulcer disease is closely aligned with the drug's known indications (gastric ulcer, duodenal ulcer, peptic ulcer disease). Acid suppression is the standard approach for ulcer healing, so the prediction is mechanistically coherent. It is essentially a near-label or on-label use.
-
-Other lower-ranked predictions are less convincing. Peptic ulcer perforation (a surgical emergency in which a PPI is at most adjunctive), duodenal obstruction (a mechanical condition) and duodenogastric reflux (driven by bile rather than acid) have no supporting studies, and their support rests on prediction scores alone. Gastrojejunal ulcer and gastroduodenitis are mechanistically plausible but have little or no direct evidence.
+Duodenal obstruction is a mechanical blockage, and acid suppression has no direct effect on it. A drug of this class might help only in cases where the blockage is secondary to peptic ulcer disease, with scarring or swelling of the duodenum. This indirect link is speculative and is not supported by any trial or publication in the data compiled for this report. The high model score should therefore be treated as a hypothesis-generating signal only.
 
 ## Clinical Trial Evidence
 
@@ -68,43 +65,38 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [19585824](https://pubmed.ncbi.nlm.nih.gov/19585824/) | 2009 | Postmarketing surveillance (observational) | Journal of the Indian Medical Association | Study of 4,931 patients with acid peptic disorders in India. It reconfirmed safety and efficacy, and reports that dexrabeprazole at half the rabeprazole dose showed favourable pharmacokinetics and faster, greater healing than rabeprazole. It is uncontrolled and does not report outcomes specific to active peptic ulcer disease. |
-
-One further paper (PMID 27134889, a hospital prescribing-pattern study) was linked to gastrojejunal ulcer. It is not efficacy evidence and is not listed above.
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 192477 | Rozydex 10mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 62833 | Dexlet 10mg Tablet | Strip of 10 tablets | Not stated in the records |
-| 202744 | Sulpraz 10mg/75mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 123491 | Levopraz 10mg/75mg Capsule | Strip of 10 capsules | Not stated in the records |
-| 61569 | Dexarab 10mg Tablet | Strip of 10 tablets | Not stated in the records |
+| 192477 | Rozydex 10mg Tablet | Strip of 10 tablets | Not recorded |
+| 62833 | Dexlet 10mg Tablet | Strip of 10 tablets | Not recorded |
+| 61569 | Dexarab 10mg Tablet | Strip of 10 tablets | Not recorded |
+| 65356 | Dirab 5mg Tablet | Strip of 10 tablets | Not recorded |
+| 59822 | Dexol 10mg Tablet | Strip of 10 tablets | Not recorded |
 
-All 17 registrations are valid single-ingredient products. Only the first five are shown. Formulations are oral (tablets, capsules and sustained-release capsules).
+All 17 registered licences are currently valid. Only the first five are listed here.
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (not label text): liver failure, liver disease, gallbladder disease, congestive heart failure, osteoporosis, postmenopausal osteoporosis, bone fracture and chronic atrophic gastritis.
+- **Conditions flagged as possible contraindications (not taken from label text):** liver failure, liver disease, gallbladder disease, congestive heart failure, osteoporosis, postmenopausal osteoporosis, bone fracture, chronic atrophic gastritis.
 
-Please refer to the package insert for full warnings, contraindications and drug interaction information.
+No drug interaction records were found. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Active peptic ulcer disease is essentially within dexrabeprazole's existing acid-related indications, and the drug is widely marketed in India. However, the only direct evidence is one uncontrolled postmarketing study, and package insert safety data are missing. The other predicted indications (perforation, duodenal obstruction, duodenogastric reflux, gastroduodenitis, gastrojejunal ulcer) should stay at Hold or Research Question until supporting evidence appears.
+Duodenal obstruction is a mechanical condition with no clear acid-related mechanism, and there are no trials or publications for it. Evidence is at the model-prediction level only (L5).
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India regulatory records (a blocking gap for safety screening)
-- Confirmed mechanism of action data from DrugBank
-- Controlled trial evidence (for example, ulcer healing rates versus rabeprazole or another PPI)
-- Review of the knowledge-graph contraindication signals (liver disease, osteoporosis and fracture risk, heart failure) against label text
-- Interaction data, since the query returned no results
+- Clinical or observational studies that directly address duodenal obstruction, for example in obstruction secondary to peptic ulcer
+- Mechanism of action data for dexrabeprazole
+- Package insert warnings and contraindications from the Indian licences
+- Review of the flagged conditions (liver disease, osteoporosis and fracture risk, heart failure) in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Diclofenac: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis…"
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
+last_modified_at: 2026-10-27
+description: "Diclofenac: predicted new indication hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Diclofenac
@@ -33,104 +33,62 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Diclofenac: From Arthritis and Keratosis Conditions to Hypotrichosis Simplex of the Scalp
+## Diclofenac: COX inhibitor (NSAID) → hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) used for inflammatory and degenerative joint conditions such as rheumatoid arthritis, osteoarthritis and ankylosing spondylitis. It is also associated with actinic keratosis and related skin lesions.
-The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, a genetic hair-loss disorder.
-Currently there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model's graph-based score alone.
-
----
+Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) that works by inhibiting cyclo-oxygenase (COX) enzymes.
+The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, but **no clinical trials and no publications** currently support this prediction, so it rests on the model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, actinic keratosis and related skin lesions (from the knowledge graph; approved-indication text is blank in the India licence records) |
-| Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.69% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | hypotrichosis simplex of the scalp |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. Diclofenac is known as a COX-1/COX-2 inhibitor, which lowers prostaglandin-mediated inflammation and pain. Its use in arthritis is well established.
+Detailed mechanism-of-action data for diclofenac is not available in the data compiled for this report. Based on known pharmacology, diclofenac is a COX-1/COX-2 inhibitor that reduces prostaglandin production, which lowers inflammation and pain.
 
-The link to the predicted indication is weak. Hypotrichosis simplex of the scalp is a genetic hair-follicle disorder (for example, variants in genes such as CDSN and APCDD1). It is not primarily an inflammatory, prostaglandin-driven disease, so COX inhibition would not be expected to correct the underlying defect.
-
-The very high TxGNN score reflects graph-based association only. No clinical or published evidence supports a mechanistic bridge between diclofenac and this condition.
-
----
+Hypotrichosis simplex of the scalp is a genetic hair-follicle disorder (for example, linked to CDSN or APCDD1 variants). It is not primarily an inflammatory or prostaglandin-driven condition, so there is no clear mechanistic link to COX inhibition. The high TxGNN score is a model-based prediction only. It is not backed by any trial or publication, and it should be treated as a hypothesis with weak biological support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-There are 20 valid single-ingredient registrations. Approved-indication text is not available for any of them. Five main registrations are listed below.
-
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| 63471 | Dipanac-MR Tablet | Strip of 10 tablets |
-| 70116 | Dicloden AQ 75mg Injection | Vial of 1 ml injection |
-| 112044 | Ipain 75mg Tablet SR | Strip of 10 sustained-release tablets |
-| 156080 | Nudiclo Plus 100mg/325mg Tablet | Strip of 6 tablets |
-| 69978 | Diclovol 75mg Injection | Vial of 1 ml injection |
-
-Available routes across all registrations are oral (tablets, sustained-release tablets) and injectable.
-
----
+Diclofenac is marketed in India. The data compiled for this report show that all recorded licences are valid single-ingredient products, in oral tablet, sustained-release tablet and injectable forms. This list may be partial, and the licence records carry no approved-indication text.
 
 ## Safety Considerations
 
-- **Disease-level cautions (from the knowledge graph, not label text)**: Diclofenac is linked to contraindication or caution in the following areas:
-  - Cardiovascular: hypertension, congestive heart failure, myocardial infarction, stroke and cerebrovascular disorders, other heart disease.
-  - Gastrointestinal: active peptic ulcer disease, inflammatory bowel disease.
-  - Liver: liver failure, liver disease, drug-induced liver injury, gallbladder disease.
-  - Respiratory and allergic: asthma, including intrinsic and allergic asthma.
-  - Metabolic: diabetes mellitus, diabetic ketoacidosis.
-  - Haematological: blood coagulation disease, hemoglobinopathy, anaemia (including macrocytic).
-  - Other: substance abuse/dependence, keratitis.
-- **Drug Interactions**: 641 interactions are recorded in total. Examples of moderate-level interactions:
-  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide.
-  - Other NSAIDs and aminosalicylates: acetylsalicylic acid, mesalazine, balsalazide.
-  - Antidiabetic agents: metformin, glimepiride, glipizide, chlorpropamide, acetohexamide, exenatide.
-  - Others: aprepitant, fenfluramine, dexfenfluramine.
-  - Minor-level interactions include famotidine, ranitidine and cimetidine.
+- **Drug Interactions**: 641 interacting drugs are recorded. Examples at moderate level include acetylsalicylic acid, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), metformin and sulfonylureas (glimepiride, glipizide, chlorpropamide), aprepitant, mesalazine and balsalazide. Famotidine, ranitidine and cimetidine are minor.
 
-Please refer to the package insert for label warnings and contraindications.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or publications behind it (Evidence Level L5). There is also no plausible mechanistic link between COX inhibition and a genetic hair-follicle disorder. Diclofenac also carries well-known cardiovascular, gastrointestinal and hepatic risks that would need a clear benefit to justify.
-
-For context, other lower-ranked predictions in the same list were assessed similarly. Most are rare genetic conditions with no evidence. The exception is juvenile idiopathic arthritis (Evidence Level L3), which has small, older paediatric studies. That is better viewed as an established symptomatic use of the NSAID class than as novel repurposing.
+The prediction has no supporting trials or literature and no plausible mechanism, since diclofenac's COX inhibition does not address a genetic hair-follicle disorder. Evidence is at the model-prediction level only (L5).
 
 **To proceed, the following is needed:**
-- Detailed mechanism of action data and a credible biological hypothesis linking prostaglandin/COX pathways to hair-follicle disease
-- Preclinical or in vitro evidence (for example, hair-follicle models) supporting any effect
-- Package insert warnings and contraindications from the India licence holders, which are not yet available
-- Assessment of route suitability (topical versus systemic), since systemic exposure carries meaningful safety risk
+- Preclinical or mechanistic evidence linking prostaglandin/COX pathways to hair-follicle function in this condition
+- Detailed mechanism-of-action data for diclofenac
+- Package insert warnings and contraindications for a safety review
+- Any clinical or published study that directly addresses this disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

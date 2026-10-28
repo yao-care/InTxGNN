@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-14
-description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Irritable bowel syndrome"
 monitor_inn: "Dicyclomine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
+last_modified_at: 2026-10-27
+description: "Dicyclomine: predicted new indication cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dicyclomine
@@ -33,75 +33,75 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Dicyclomine: From Irritable Bowel Syndrome to Cauda Equina Syndrome
+## Dicyclomine: Antimuscarinic antispasmodic → cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dicyclomine is an antispasmodic (antimuscarinic) agent originally used for irritable bowel syndrome and related gastrointestinal conditions.
-The TxGNN model predicts it may be effective for **cauda equina syndrome**,
-but at present there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
+Dicyclomine is an antimuscarinic antispasmodic that relaxes smooth muscle.
+The TxGNN model predicts it may be useful for **cauda equina syndrome**, with a score of **0.9966**.
+There are currently **no clinical trials and no publications** supporting this direction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Irritable bowel syndrome (the product records compiled for India contain no approved indication text; this comes from the knowledge-graph indications, which also list Clostridium difficile colitis and neurocirculatory asthenia) |
-| Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.66% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | cauda equina syndrome |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dicyclomine is an antimuscarinic/antispasmodic agent that relaxes smooth muscle. Its use in irritable bowel syndrome rests on that effect, and mechanistically it may be applicable to some symptoms of cauda equina syndrome.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on its known drug class, dicyclomine is an antimuscarinic/antispasmodic agent that relaxes smooth muscle.
 
-The plausible link is symptomatic relief of the neurogenic bladder and bowel dysfunction (detrusor overactivity, spasm) that accompanies cauda equina syndrome. Dicyclomine would not treat the underlying nerve root compression, which requires urgent surgical decompression. This link is unverified.
+A plausible but unverified link is symptomatic relief of the neurogenic bladder and bowel dysfunction (detrusor overactivity, spasm) that can accompany cauda equina syndrome. It would not treat the underlying nerve root compression, which requires urgent surgical decompression.
 
-There is also a specific safety concern. Anticholinergics can worsen urinary retention, which is common in cauda equina syndrome with an areflexic bladder. The second-ranked prediction, neurogenic bladder (score 99.50%), is also model-only. Its disease entry is labelled "obsolete", so it should be mapped to a current concept (e.g., neurogenic detrusor overactivity) before further evaluation. Dicyclomine's evidence base for bladder use is weaker than that of approved bladder-selective antimuscarinics such as oxybutynin.
+The prediction is a model output only. No studies were found that examine dicyclomine in this disease. Anticholinergics can also worsen urinary retention, which is common in cauda equina syndrome with an areflexic bladder, so safety is a specific concern.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## India Market Information
 
-Dicyclomine has 20 valid registrations in India, all single-entry records and none cancelled. No approved indication text was available for any of them. Main authorizations:
+Dicyclomine is marketed in India. All 20 licences in the data compiled for this report are valid, and none are cancelled. The list may be partial. The licence records carry no approved-indication text. Main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 44825 | Cefospas Tablet | Strip of 10 tablets | Not available |
-| 114514 | Jonyspas Plus 20mg/250mg Tablet | Strip of 10 tablets | Not available |
-| 35066 | Colispas Paed Oral Drops | Packet of 10 ml oral drops | Not available |
-| 187821 | Remigan 10 mg/40 mg Drop | Packet of 15 ml drop | Not available |
-| 221552 | Topspas Injection | Vial of 2 ml injection | Not available |
-
-Available forms include oral tablets, oral drops, other drop formulations and an injection.
+| 44825 | Cefospas Tablet | Strip of 10 tablets | Not recorded |
+| 114514 | Jonyspas Plus 20mg/250mg Tablet | Strip of 10 tablets | Not recorded |
+| 198905 | Renalpane 10mg/250mg Tablet | Strip of 10 tablets | Not recorded |
+| 35066 | Colispas Paed Oral Drops | Packet of 10 ml oral drops | Not recorded |
+| 221552 | Topspas Injection | Vial of 2 ml injection | Not recorded |
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph** (these are graph associations, not label text): angle-closure glaucoma, benign prostatic hyperplasia, hepatic encephalopathy/hepatic coma, liver disease and liver failure, kidney disease, gallbladder disease, gastric ulcer, hypertension, coronary artery disease, porphyria, thrombocytopenia, neutropenia, agranulocytosis, anaemia, obstructive sleep apnoea, anxiety and neurotic disorders, and substance abuse/dependence.
-- **Drug Interactions**: 344 interactions are recorded. Examples (mostly Moderate) include:
-  - Opioids: fentanyl, alfentanil, codeine, dihydrocodeine, tramadol
-  - Other anticholinergics and antihistamines: hyoscyamine, aclidinium, chlorpheniramine, acrivastine, phenyltoloxamine, amitriptyline
-  - Others: ethanol, loperamide, amantadine, galantamine, botulinum toxin type A, acebutolol
-  - Minor: acetaminophen, hydrochlorothiazide
-- **Specific concern for this prediction**: anticholinergic effects may worsen urinary retention in cauda equina syndrome.
+- **Drug Interactions**: 344 interactions are recorded. Examples of moderate-level interactions include botulinum toxin type A, fentanyl, chlorpheniramine, codeine, tramadol, amitriptyline, hyoscyamine, loperamide, and ethanol. Additive anticholinergic and sedative effects are the main concern.
+- **Disease-related cautions** (from drug-disease contraindication records, not label text): glaucoma (angle-closure), benign prostatic hyperplasia, liver and kidney disease, hepatic encephalopathy, porphyria, coronary artery disease, hypertension, and blood disorders such as neutropenia, agranulocytosis, thrombocytopenia, and anemia.
+- Anticholinergic action may worsen urinary retention, which is relevant in cauda equina syndrome.
 
-Package insert warnings and contraindications were not available for this report. Please refer to the package insert for label safety information.
+Please also refer to the package insert for label warnings and contraindications, which are not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.66%), but there are no clinical trials or publications behind it (Evidence Level L5). Dicyclomine cannot treat the underlying cause of cauda equina syndrome, and its anticholinergic action could worsen urinary retention.
+The prediction has a high model score (0.9966) but no supporting trials or literature, and the proposed use would only address symptoms, not the underlying cause. The anticholinergic effect on urinary retention is a specific safety concern.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
-- Detailed mechanism of action data (MOA)
-- A literature and trial search on antimuscarinics for neurogenic bladder/bowel dysfunction in cauda equina syndrome
-- Mapping of the "obsolete neurogenic bladder" term to a current disease concept
-- A safety assessment of urinary retention risk
-- Review of route compatibility (currently pending)
+- Published or registered studies of dicyclomine in cauda equina syndrome or closely related neurogenic bladder/bowel dysfunction
+- Mechanism of action data
+- Package insert warnings and contraindications for the India-marketed products
+- A safety assessment of urinary retention risk in this population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Codeine
 parent: Model Prediction Only (L5)
 nav_order: 207
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Codeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Codeine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
 ---
 
 # Codeine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,13 +50,13 @@ The evidence does not currently support a therapeutic repurposing.
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-*Note: The original indications come from the TxGNN knowledge graph, because the approved indication text in the India licence records is blank.*
+*Note: The original indications come from the TxGNN model (deep learning), because the approved indication text in the India licence records is blank. These scores may reflect similarities the model learned between related diseases, not biological evidence.*
 
 ---
 
@@ -64,14 +64,14 @@ The evidence does not currently support a therapeutic repurposing.
 
 Currently, detailed mechanism of action data is not available. Based on known information, codeine is an opioid used mainly for cough suppression and mild pain relief. Its use in upper respiratory symptoms is well established, and mechanistically it acts through mu-opioid receptors in the central nervous system.
 
-The high prediction score most likely reflects the closeness of nasal cavity disease to the approved indications (rhinitis, nasopharyngitis) in the knowledge graph. This is anatomical and symptomatic adjacency, not proof of benefit. Codeine's central antitussive and analgesic actions do not address nasal pathology, and no plausible mechanism for treating nasal cavity disease is supported.
+The high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as nasal cavity disease and the approved indications (rhinitis, nasopharyngitis), not biological evidence. This is anatomical and symptomatic adjacency, not proof of benefit. Codeine's central antitussive and analgesic actions do not address nasal pathology, and no plausible mechanism for treating nasal cavity disease is supported.
 
 The only publication is a case report of a rhinolith (nasal stone) that formed around a hardened codeine and opium foreign body. This is an incidental or adverse event, not a therapeutic effect.
 
 Other predictions in the ranked list show the same pattern:
-- **Acute laryngopharyngitis** (score 99.92%): no trials or literature; adjacent to the approved pharyngitis and cold indications. Codeine use in children with upper respiratory conditions is restricted because of ultra-rapid CYP2D6 metabolism risk.
-- **Trigeminal autonomic cephalalgia** (score 99.43%): opioids are not recommended for cluster headache, and the retrieved papers show no codeine benefit. Opioids also carry a risk of medication-overuse headache and dependence.
-- **Allergic urticaria** (score 99.37%): the literature points in the opposite direction. Codeine directly triggers mast-cell histamine release and is used as a positive control in skin tests, so it can provoke urticaria rather than treat it.
+- **Acute laryngopharyngitis**: no trials or literature; adjacent to the approved pharyngitis and cold indications. Codeine use in children with upper respiratory conditions is restricted because of ultra-rapid CYP2D6 metabolism risk.
+- **Trigeminal autonomic cephalalgia** (score 0.9943): opioids are not recommended for cluster headache, and the retrieved papers show no codeine benefit. Opioids also carry a risk of medication-overuse headache and dependence.
+- **Allergic urticaria** (score 0.9937): the literature points in the opposite direction. Codeine directly triggers mast-cell histamine release and is used as a positive control in skin tests, so it can provoke urticaria rather than treat it.
 
 ---
 

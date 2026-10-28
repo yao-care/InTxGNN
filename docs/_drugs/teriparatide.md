@@ -4,9 +4,9 @@ title: Teriparatide
 parent: Model Prediction Only (L5)
 nav_order: 824
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Teriparatide: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
+description: "Teriparatide: predicted new indication duodenal ulcer (disease) (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 # Teriparatide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Teriparatide: From Postmenopausal Osteoporosis to Duodenal Ulcer
+## Teriparatide: From Postmenopausal Osteoporosis to duodenal ulcer (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Teriparatide is a parathyroid hormone fragment (PTH 1-34) used to treat osteoporosis in patients at high risk of fracture.
-The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no clinical trials and no publications** currently support this prediction, so it rests on a graph-based score alone.
+The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no clinical trials and no publications** currently support this prediction, so it rests on the score from the TxGNN model (deep learning) alone, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 |------|------|
 | Original Indication | Postmenopausal osteoporosis / osteoporosis |
 | Predicted New Indication | Duodenal ulcer |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 
 Teriparatide is a synthetic fragment of human parathyroid hormone. It acts on the PTH1 receptor (and also binds the PTH2 receptor) to stimulate new bone formation. This is why it is used for osteoporosis. Detailed mechanism-of-action data beyond these receptor targets are not available.
 
-Based on the data compiled for this report, **no mechanistic link** was identified between PTH1 receptor-driven bone formation and duodenal ulcer. The two conditions differ in tissue, cause, and disease process: one is bone fragility, the other is damage to the lining of the upper intestine. The high TxGNN score reflects a pattern in the knowledge graph, not biological or clinical support. Without trials or literature, this prediction should be treated as a hypothesis only.
+Based on the data compiled for this report, **no mechanistic link** was identified between PTH1 receptor-driven bone formation and duodenal ulcer. The two conditions differ in tissue, cause, and disease process: one is bone fragility, the other is damage to the lining of the upper intestine. The high TxGNN score (0.9986) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical support. Without trials or literature, this prediction should be treated as a hypothesis only.
 
 ---
 
@@ -116,7 +116,6 @@ The duodenal ulcer prediction has no trials, no literature, and no plausible mec
 - Preclinical or mechanistic studies showing any effect on ulcer healing
 - Package insert warnings and contraindications for a formal safety screen
 
-**Note on other predictions:** Among the other predicted indications, **pregnancy-associated osteoporosis** (rank 8, score 99.55%) has much stronger support. It is an extension of the approved osteoporosis use, supported by cohort studies, systematic reviews, and a recent position statement, though no RCTs. It is rated L3 with a "Proceed with Guardrails" recommendation, and it may be a better candidate for a separate evaluation. Use would be off-label, specialist-directed, and only after lactation has ended, with pregnancy excluded and calcium and bone density monitored.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Flupirtine
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 370
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Flupirtine: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not stated in the available licence records (approved indication text…"
-monitor_inn: "Flupirtine"
-predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "hepatic porphyria", "pseudoachondroplasia", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "hepatoportal sclerosis", "primitive portal vein thrombosis"]
+last_modified_at: 2026-10-23
+description: "Flupirtine: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Flupirtine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,108 +32,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Flupirtine: From Pain Management to Osteoarthritis
+<!-- known-uses-page -->
+<!-- description: Flupirtine: known uses and market status in India; currently no new candidate indication -->
+## Flupirtine
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Flupirtine, so there is currently no new predicted indication. The drug's own recorded uses are listed below; there are none on record in the data used for this page.
 
-Flupirtine is a centrally acting, non-opioid analgesic (a selective neuronal potassium channel opener) marketed in India under many brand names, mainly for pain and muscle-relaxant use.
-The TxGNN model predicts it may be useful for **osteoarthritis** with a very high score, but there are currently **0 registered clinical trials** and only **indirect or preclinical literature** supporting this direction.
-The evidence is at the research-question stage, and the known liver safety risk weighs heavily on any repurposing decision.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available licence records (approved indication text is empty) |
-| Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 98.64% |
-| Evidence Level | L4 (preclinical and mechanistic evidence only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
+| Known uses recorded for this drug | 0 |
+| Market status in India | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 
----
+## Known uses recorded for this drug
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, flupirtine is a selective neuronal potassium channel (KCNQ/Kv7) opener with analgesic and muscle-relaxant activity.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-A 2019 rat study (PMID 30759446) found that KCNQ/M channels in dorsal root ganglia neurons are suppressed in osteoarthritic pain, and that this is associated with hyperalgesic behaviour. Opening these channels is therefore a plausible way to relieve osteoarthritis pain.
-
-This supports **symptomatic pain relief only**, not disease modification. Flupirtine has been withdrawn or restricted in Europe because of hepatotoxicity, which is a major concern for a chronic condition such as osteoarthritis.
-
-### Other Predicted Indications (for reference)
-
-| Predicted Indication | Score | Evidence Level | Comment |
-|------|------|------|------|
-| Osteoarthritis susceptibility | 98.46% | L5 | Genetic susceptibility concept, not a treatable indication; likely reflects similarity to osteoarthritis |
-| Rheumatoid arthritis | 98.43% | L4 | Possible symptomatic analgesia only; no anti-inflammatory or disease-modifying action; only a 1987 preliminary report |
-| Gout | 97.83% | L4 | Preclinical animal data on gout arthritis pain; no human data; does not address urate or inflammation |
-| Hepatic porphyria, hepatoportal sclerosis, primitive portal vein thrombosis | 97.5–97.9% | L5 | No rationale; likely graph artifacts; liver safety concern |
-| Pseudoachondroplasia, brachyolmia, acromesomelic dysplasia (Hunter-Thompson type) | 97.6–97.9% | L5 | Rare skeletal dysplasias with no plausible mechanistic link |
-
----
-
-## Literature Evidence
-
-Currently no registered clinical trials are available for osteoarthritis. The literature below is indirect or preclinical.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [30759446](https://pubmed.ncbi.nlm.nih.gov/30759446/) | 2019 | Preclinical (animal) | Pharmacology | Reduced KCNQ2/KCNQ3 expression and M-current in dorsal root ganglia neurons of osteoarthritic rats, associated with pain behaviour; supports the KCNQ-opening rationale |
-| [25376546](https://pubmed.ncbi.nlm.nih.gov/25376546/) | 2015 | Systematic review | Schmerz | Opioids vs non-opioid analgesics in chronic non-cancer pain; indirect relevance |
-| [28510996](https://pubmed.ncbi.nlm.nih.gov/28510996/) | 2017 | Systematic review | Cochrane Database Syst Rev | Tramadol for cancer pain; not relevant to osteoarthritis or flupirtine |
-| [26977921](https://pubmed.ncbi.nlm.nih.gov/26977921/) | 2015 | Review | Zh Nevrol Psikhiatr Im S S Korsakova | Differential diagnosis and treatment of back pain (spinal osteoarthritis); indirect |
-
-Related evidence for other predicted indications:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2451818](https://pubmed.ncbi.nlm.nih.gov/2451818/) | 1987 | Preliminary clinical report | Postgrad Med J | Long-term flupirtine in chronic pain from arthrosis or arthritis (104 patients reported, 12-month study); uncontrolled and dated |
-| [32062659](https://pubmed.ncbi.nlm.nih.gov/32062659/) | 2020 | Preclinical (animal) | Pharmacology | Retigabine and flupirtine showed antinociceptive efficacy in a gout arthritis pain model |
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-Flupirtine is widely registered in India: 20 valid single-ingredient registrations, with none cancelled. The approved indication text is not recorded in the licence data. Main examples:
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 174704 | Pirineu P 100mg/325mg Tablet | strip of 10 tablets | Valid |
+| 85535 | Flupride 100mg Tablet | strip of 10 tablets | Valid |
+| 175091 | Pirineu 100mg Capsule | strip of 10 capsules | Valid |
+| 117209 | Ketofil 100mg Tablet | strip of 10 tablets | Valid |
+| 84940 | Flutense P 100mg/325mg Tablet | strip of 10 tablets | Valid |
+| 84414 | Flupirin P Tablet 100mg/325mg | strip of 10 tablets | Valid |
+| 237218 | Vasnerv Tablet | strip of 10 tablets | Valid |
+| 89796 | Flupilib P 100mg/325mg Tablet | strip of 10 tablets | Valid |
+| 87149 | Flupitus P 100mg/325mg Tablet | strip of 10 tablets | Valid |
+| 86157 | Flupirin 100mg Capsule | strip of 10 capsules | Valid |
+| 233340 | Vasfree 100 Capsule | strip of 10 capsules | Valid |
+| 115766 | Katadol Capsule | strip of 10 capsules | Valid |
+| 4661 | Acronil-OD 400 Tablet ER | strip of 10 tablet er | Valid |
+| 90852 | Felex 100mg Capsule | strip of 10 capsules | Valid |
+| 88236 | Flupinorm P 100mg/325mg Tablet | strip of 10 tablets | Valid |
+| 85618 | Flupimac 100mg Tablet | strip of 10 tablets | Valid |
+| 184711 | Relaxin Capsule | strip of 10 capsules | Valid |
+| 115032 | Japiref 100mg Capsule | strip of 10 capsules | Valid |
+| 86764 | Flipwell 100mg Capsule | strip of 10 capsules | Valid |
+| 91514 | Flupishine Capsule | strip of 10 capsules | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 174704 | Pirineu P 100mg/325mg Tablet | Strip of 10 tablets | Not recorded |
-| 85535 | Flupride 100mg Tablet | Strip of 10 tablets | Not recorded |
-| 175091 | Pirineu 100mg Capsule | Strip of 10 capsules | Not recorded |
-| 233340 | Vasfree 100 Capsule (Intas) | Strip of 10 capsules | Not recorded |
-| 115766 | Katadol Capsule (Lupin) | Strip of 10 capsules | Not recorded |
-
-All products are oral (tablets, capsules, and one extended-release tablet).
-
----
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
-- **Hepatotoxicity:** Flupirtine has been withdrawn or restricted in Europe because of liver toxicity. This is a major concern for long-term use in chronic diseases such as osteoarthritis or rheumatoid arthritis, and it makes use in liver disease (for example hepatic porphyria, hepatoportal sclerosis, portal vein thrombosis) especially problematic.
+- **Hepatotoxicity:** Flupirtine has been withdrawn or restricted in Europe because of liver toxicity.
 
 Please refer to the package insert for further safety information, including warnings, contraindications and drug interactions. These were not available in the data compiled for this report.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction for osteoarthritis is mechanistically plausible (KCNQ/Kv7 opening for pain relief), but there are no registered clinical trials and the supporting literature is preclinical or indirect. The known hepatotoxicity risk makes long-term use in a chronic condition hard to justify without stronger evidence.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications from the Indian regulator, to complete safety screening
-- Confirmed approved indications for the registered Indian products
-- Detailed mechanism-of-action data
-- Controlled clinical evidence of efficacy in osteoarthritis pain, compared against current analgesic options
-- A liver safety assessment and monitoring plan, including current European regulatory status and post-marketing hepatic safety data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -6,9 +6,9 @@ nav_order: 752
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Idiopathic aplastic anemia, aplastic anemia…"
 monitor_inn: "Romiplostim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
+description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Romiplostim
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Romiplostim: From Immune Thrombocytopenia and Aplastic Anemia to Primary Release Disorder of Platelets
+## Romiplostim: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Romiplostim is a thrombopoietin receptor (MPL) agonist, originally used for autoimmune thrombocytopenia (immune thrombocytopenic purpura, ITP) and listed in the knowledge graph for aplastic anemia.
+Romiplostim is a thrombopoietin receptor (MPL) agonist, originally used for autoimmune thrombocytopenia (immune thrombocytopenic purpura, ITP).
 The TxGNN model predicts it may be effective for **primary release disorder of platelets**, but there are currently **0 clinical trials** and **1 publication** (basic in vitro research on ITP, not directly on this condition), so this prediction rests on the model alone.
 
 ---
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic aplastic anemia, aplastic anemia, autoimmune thrombocytopenia (from the knowledge graph; the Indian license records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.9998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,21 +61,21 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 Detailed mechanism of action data is not available in the data compiled for this report. From known pharmacology, romiplostim is a peptide that binds the thrombopoietin receptor (MPL) and stimulates megakaryocyte proliferation and platelet production. It is used to raise platelet counts in chronic ITP, a disease in which platelets are destroyed by autoantibodies.
 
-The predicted indication is a platelet *function* disorder, in which the defect lies in platelet release or activity rather than in low production. Raising platelet count would therefore be unlikely to correct the underlying defect. The single retrieved paper (PMID 25682608) shows that ITP autoantibodies inhibit proplatelet formation, which is relevant to ITP, not to this condition. The very high score most likely reflects network proximity to thrombocytopenia-related nodes in the knowledge graph rather than a true mechanistic fit.
+The predicted indication is a platelet *function* disorder, in which the defect lies in platelet release or activity rather than in low production. Raising platelet count would therefore be unlikely to correct the underlying defect. The single retrieved paper (PMID 25682608) shows that ITP autoantibodies inhibit proplatelet formation, which is relevant to ITP, not to this condition. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ### Other Top-Ranked Predictions (for context)
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |---|---|---|---|---|
-| 2 | Pseudo-von Willebrand disease | 99.9998% | L5 | No data; benefit-risk uncertain with hyper-reactive platelets |
-| 3 | Glanzmann thrombasthenia | 99.9995% | L5 | Qualitative defect with normal counts; weak rationale |
-| 4 | Fetal and neonatal alloimmune thrombocytopenia | 99.9873% | L4 | Only indirect evidence from ITP; Research Question |
-| 5 | Scott syndrome | 99.9666% | L5 | Procoagulant defect with normal counts; weak rationale |
-| 6 | Hemorrhagic disorder due to constitutional thrombocytopenia | 99.9529% | L5 | Plausible but subtype-dependent; Research Question |
-| 7 | Bleeding diathesis due to a collagen receptor defect | 99.9508% | L5 | Function defect; weak rationale |
-| 8 | Platelet-type bleeding disorder | 99.9319% | L5 | Too non-specific to assess |
-| 9 | Autosomal dominant macrothrombocytopenia | 99.8807% | L5 | Plausible in selected patients; Research Question |
-| 10 | Ehlers-Danlos syndrome, fibronectinemic type | 99.8452% | L5 | No plausible link; likely graph artifact |
+| 2 | Pseudo-von Willebrand disease | 1.0000 | L5 | No data; benefit-risk uncertain with hyper-reactive platelets |
+| 3 | Glanzmann thrombasthenia | 1.0000 | L5 | Qualitative defect with normal counts; weak rationale |
+| 4 | Fetal and neonatal alloimmune thrombocytopenia | 0.9999 | L5 | Only indirect evidence from ITP; Research Question |
+| 5 | Scott syndrome | 0.9997 | L5 | Procoagulant defect with normal counts; weak rationale |
+| 6 | Hemorrhagic disorder due to constitutional thrombocytopenia | 0.9995 | L5 | Plausible but subtype-dependent; Research Question |
+| 7 | Bleeding diathesis due to a collagen receptor defect | 0.9995 | L5 | Function defect; weak rationale |
+| 8 | Platelet-type bleeding disorder | 0.9993 | L5 | Too non-specific to assess |
+| 9 | Autosomal dominant macrothrombocytopenia | 0.9988 | L5 | Plausible in selected patients; Research Question |
+| 10 | Ehlers-Danlos syndrome, fibronectinemic type | 0.9985 | L5 | No plausible link; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
 
 Among these, the constitutional thrombocytopenias, autosomal dominant macrothrombocytopenia, and fetal/neonatal alloimmune thrombocytopenia are mechanistically more plausible than the top-ranked prediction, but none has direct supporting studies.
 
@@ -135,7 +135,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication, primary release disorder of platelets, has no clinical trials and no directly relevant literature. A drug that increases platelet number is unlikely to fix a platelet function defect. The high TxGNN score appears to reflect graph proximity rather than biological fit.
+The predicted indication, primary release disorder of platelets, has no clinical trials and no directly relevant literature. A drug that increases platelet number is unlikely to fix a platelet function defect. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Mechanism of action data to support a mechanistic-link analysis

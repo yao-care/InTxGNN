@@ -48,9 +48,9 @@ The prediction is a network-based computation only and has no clinical backing.
 |------|------|
 | Original Indication | Not available (approved indication text is blank in all registrations; the drug is described as a centrally acting muscle relaxant) |
 | Predicted New Indication | Laubry-Pezzi syndrome |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The prediction is a network-based computation only and has no clinical backing.
 
 Currently, detailed mechanism of action data is not available. Based on known information, tolperisone is a centrally acting muscle relaxant that blocks voltage-gated sodium and calcium channels. Its use in muscle spasticity and spasm is the context in which it is marketed.
 
-Laubry-Pezzi syndrome is a congenital cardiac condition (ventricular septal defect with aortic regurgitation). No plausible pathway links ion channel modulation in the central nervous system to this structural heart defect. The very high TxGNN score reflects graph similarity only, so the prediction should be treated with caution.
+Laubry-Pezzi syndrome is a congenital cardiac condition (ventricular septal defect with aortic regurgitation). No plausible pathway links ion channel modulation in the central nervous system to this structural heart defect. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated with caution.
 
 Other top-ranked predictions are also unsupported: Pierre Robin syndrome variants, a chromosome 7 partial deletion, valve diseases, orofacial clefting syndrome, general heart disease, a fucoglycosan synthesis disorder and interventricular septum aneurysm. Most are congenital or structural conditions with no apparent pharmacologic rationale for a muscle relaxant. The one indirect signal is a 2024 preclinical study of tolperisone in Parkinson's disease (via MMP-9 inhibition), which is not relevant to the predicted indication.
 

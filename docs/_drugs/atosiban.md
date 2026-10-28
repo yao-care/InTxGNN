@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Atosiban: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Delaying preterm birth in adult pregnant women (tocolysis). The India…"
+last_modified_at: 2026-10-28
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
+description: "Atosiban: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Atosiban
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Atosiban: From Preterm Labour (Tocolysis) to Primary Hereditary Glaucoma
+## Atosiban: Primary hereditary glaucoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,21 +45,21 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 
 | Item | Content |
 |------|------|
-| Original Indication | Delaying preterm birth in adult pregnant women (tocolysis). The Indian licence records contain no indication text, so this comes from pharmacology reference data. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the compiled data. From pharmacology reference data, atosiban is a peptide that binds the oxytocin receptor (OXTR) and the vasopressin V1A, V1B and V2 receptors. Its established clinical use is to delay birth in women 24 to 33 weeks pregnant who show signs of preterm labour.
 
-The link to primary hereditary glaucoma is weak. This condition is a genetic disorder of trabecular meshwork or angle development, and receptor antagonism has no clear rationale for it. A speculative connection might exist through oxytocin/vasopressin effects on ocular blood flow or aqueous humour dynamics, but no supporting data were found. A systemic, parenterally given peptide also faces delivery and pharmacokinetic barriers for eye use. The high score (0.999) reflects a graph-based prediction only.
+The link to primary hereditary glaucoma is weak. This condition is a genetic disorder of trabecular meshwork or angle development, and receptor antagonism has no clear rationale for it. A speculative connection might exist through oxytocin/vasopressin effects on ocular blood flow or aqueous humour dynamics, but no supporting data were found. A systemic, parenterally given peptide also faces delivery and pharmacokinetic barriers for eye use. The high score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The same model also ranks open-angle glaucoma (99.92%) second, and several hair disorders (alopecia, hypotrichosis, alopecia areata) and vascular conditions among the top ten. None has trial or literature support. Only "vascular disease" has indirect preclinical literature, which mostly studies oxytocin (not atosiban) in rat heart models. It is an L4 research question and not a treatment case.
+The same model also ranks open-angle glaucoma (0.9992) second, and several hair disorders (alopecia, hypotrichosis, alopecia areata) and vascular conditions among the top ten. None has trial or literature support. Only "vascular disease" has indirect preclinical literature, which mostly studies oxytocin (not atosiban) in rat heart models. It is an L4 research question and not a treatment case.
 
 ## Clinical Trial Evidence
 
@@ -88,7 +88,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph score alone, with no trials, no publications and no plausible mechanistic link to a genetic developmental glaucoma. The Indian licence records also lack indication text and the package insert safety data are not yet available.
+The prediction rests on a TxGNN model (deep learning) score alone, which may reflect similarities the model learned between related diseases, not biological evidence, with no trials, no publications and no plausible mechanistic link to a genetic developmental glaucoma. The Indian licence records also lack indication text and the package insert safety data are not yet available.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and an assessment of any oxytocin/vasopressin role in intraocular pressure regulation

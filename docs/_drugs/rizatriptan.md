@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rizatriptan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 749
-evidence_level: L3
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Rizatriptan: predicted new indication Migraine with brainstem aura (evidence level L3). Approved use: Migraine disorder"
 monitor_inn: "Rizatriptan"
 predicted_indications: ["atrophoderma vermiculata"]
+description: "Rizatriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rizatriptan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L3** | Predicted Indications: **2**
 
 </div>
 
-## Rizatriptan: From Migraine to Migraine with Brainstem Aura
+## Rizatriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Rizatriptan is a triptan originally used to treat acute migraine.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
 but no clinical trials are registered for this specific subtype, and the **19 publications** retrieved cover migraine broadly and are indirect evidence only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9919 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -119,7 +118,7 @@ The prediction is biologically plausible and rizatriptan is widely marketed in I
 
 ---
 
-*Note on the second predicted indication:* atrophoderma vermiculata (TxGNN score 99.19%) has no clinical or literature support and no clear mechanistic link to 5-HT1B/1D agonism. It is likely a knowledge-graph artefact, is rated L5, and the recommendation is Hold.
+*Note on the second predicted indication:* atrophoderma vermiculata (TxGNN score 0.9919) has no clinical or literature support and no clear mechanistic link to 5-HT1B/1D agonism. It is likely a TxGNN model (deep learning) artefact, is rated L5, and the recommendation is Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

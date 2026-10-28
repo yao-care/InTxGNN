@@ -6,7 +6,7 @@ nav_order: 240
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Degarelix: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not stated in the India license data"
+description: "Degarelix: predicted new indication hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the India license data"
 monitor_inn: "Degarelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Degarelix: From Prostate Cancer to Hypertrichosis
+## Degarelix: From Prostate Cancer to hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,10 +46,10 @@ Degarelix is a GnRH receptor antagonist marketed in India as an injectable. The 
 |------|------|
 | Original Indication | Not stated in the India license data (see note below) |
 | Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 Note: the license records contain no approved-indication text. Degarelix is generally known as a GnRH antagonist used in androgen-deprivation therapy for advanced prostate cancer, but this is background knowledge and is not confirmed by the data compiled for this report.
@@ -58,11 +58,11 @@ Note: the license records contain no approved-indication text. Degarelix is gene
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, degarelix is a GnRH receptor antagonist. It suppresses LH and FSH and thereby lowers gonadal androgen production.
 
-The link to hypertrichosis is weak. Hypertrichosis is generally non-androgen-dependent hair overgrowth, so suppressing androgens has no clear mechanistic rationale. The very high TxGNN score is a graph-based prediction and is not backed by any clinical or literature evidence. It likely reflects proximity to hair-phenotype nodes in the knowledge graph.
+The link to hypertrichosis is weak. Hypertrichosis is generally non-androgen-dependent hair overgrowth, so suppressing androgens has no clear mechanistic rationale. The very high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and is not backed by any clinical or literature evidence. It may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top predictions share this problem. Most are hair, congenital malformation or urticaria conditions with no plausible GnRH link. Two reproductive endocrine candidates are more biologically adjacent:
-- **Central precocious puberty** (score 99.67%): GnRH-dependent, so antagonism is mechanistically plausible. However, GnRH agonists are already the standard of care, degarelix is unstudied in children, and there is no evidence in the data.
-- **Familial male-limited precocious puberty** (score 99.84%): caused by activating LHCGR mutations that act independent of GnRH, so efficacy is doubtful.
+- **Central precocious puberty** (score 0.9967): GnRH-dependent, so antagonism is mechanistically plausible. However, GnRH agonists are already the standard of care, degarelix is unstudied in children, and there is no evidence in the data.
+- **Familial male-limited precocious puberty** (score 0.9984): caused by activating LHCGR mutations that act independent of GnRH, so efficacy is doubtful.
 
 These two are flagged as research questions rather than holds.
 
@@ -98,7 +98,7 @@ Thirteen valid single-ingredient registrations exist. The main ones are listed b
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph signals, not label text)**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver disease, gallbladder disease, potassium deficiency disease.
+- **Contraindications (not label text)**: long QT syndrome, familial long QT syndrome, torsades de pointes, liver disease, gallbladder disease, potassium deficiency disease.
 - **Drug Interactions**: 217 interactions were found in total. The 20 retrieved include:
   - **Major**: cisapride and dolasetron, both relevant to QT prolongation.
   - **Moderate**: clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, famotidine, loperamide, and several laxatives and bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol with electrolytes, lactulose, lactitol, magnesium citrate, magnesium hydroxide, castor oil, glycerin, mineral oil).
@@ -112,7 +112,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-All ten predictions are supported only by the TxGNN graph score, with no clinical trials or literature. Most have no plausible mechanistic link to GnRH antagonism. Central precocious puberty is the only biologically plausible candidate, and it already has an established GnRH agonist standard of care.
+All ten predictions are supported only by the TxGNN model (deep learning) score, with no clinical trials or literature. Most have no plausible mechanistic link to GnRH antagonism. Central precocious puberty is the only biologically plausible candidate, and it already has an established GnRH agonist standard of care.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)

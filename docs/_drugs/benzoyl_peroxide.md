@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Acne, atopic eczema, contact dermatitis, seborrheic dermatitis, seborrheic keratosis and related skin conditions (the licence records compiled for this report contain no approved indication text) |
 | Predicted New Indication | Vulvar inverted follicular keratosis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,9 +61,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 Seborrheic keratosis and inverted follicular keratosis are both benign keratinocytic lesions. Benzoyl peroxide's keratolytic and anti-inflammatory actions could plausibly extend to the new condition. This link is speculative, because no mechanism data, trials or literature support it.
 
 Other predictions for this drug are weaker or raise concerns:
-- **2-hydroxyethyl methacrylate sensitization** (score 99.43%): The model may be learning from the contact dermatitis association. Benzoyl peroxide is itself a recognised contact sensitiser and a radical initiator in acrylic and methacrylate polymerisation, so using it here could be counterproductive.
-- **Acrodermatitis chronica atrophicans** (score 99.17%): This is a late Borrelia skin infection treated with systemic antibiotics. Topical benzoyl peroxide is unlikely to reach the deep dermal infection.
-- **Acne keloid** (score 99.06%): This is the only prediction with any retrieved literature, and that evidence is indirect (see below). It is a plausible research question, since benzoyl peroxide is an established acne treatment.
+- **2-hydroxyethyl methacrylate sensitization** (score 0.9943): The model may be learning from the contact dermatitis association. Benzoyl peroxide is itself a recognised contact sensitiser and a radical initiator in acrylic and methacrylate polymerisation, so using it here could be counterproductive.
+- **Acrodermatitis chronica atrophicans** (score 0.9917): This is a late Borrelia skin infection treated with systemic antibiotics. Topical benzoyl peroxide is unlikely to reach the deep dermal infection.
+- **Acne keloid** (score 0.9906): This is the only prediction with any retrieved literature, and that evidence is indirect (see below). It is a plausible research question, since benzoyl peroxide is an established acne treatment.
 
 ## Literature Evidence
 

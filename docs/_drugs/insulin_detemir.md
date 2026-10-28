@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Detemir
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 436
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Insulin Detemir: predicted new indication Type 1 diabetes mellitus (evidence level L1). Approved use: Diabetes mellitus"
 monitor_inn: "Insulin detemir"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Detemir: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Insulin Detemir
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Insulin Detemir: From Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Insulin Detemir: Autoimmune oophoritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Insulin detemir is a long-acting basal insulin analogue, originally used to treat diabetes mellitus and diabetic ketoacidosis.
-The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, but this is already an approved use, so the prediction reflects a known indication rather than a new repurposing finding.
 The data compiled for this report include **40 clinical trials** and **19 publications** on this use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes mellitus; diabetic ketoacidosis (the India licence text for the product is blank) |
-| Predicted New Indication | Type 1 diabetes mellitus |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Autoimmune oophoritis |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,7 @@ Detailed mechanism of action data are not available in the data compiled for thi
 
 Type 1 diabetes is defined by absolute insulin deficiency. Insulin detemir binds the insulin receptor and replaces the missing hormone, so it fits the core pathophysiology of the disease. The prediction is therefore best read as confirmation of an existing indication, not as a new repurposing opportunity.
 
-Several lower-ranked predictions (such as pancreatic agenesis) have a similar rationale, but they have no direct clinical or literature evidence in the compiled data. Most others (such as autoimmune oophoritis, stiff person syndrome and the lipodystrophies) appear to be artifacts of shared graph neighbours, not therapeutic signals.
+Several lower-ranked predictions (such as pancreatic agenesis) have a similar rationale, but they have no direct clinical or literature evidence in the compiled data.
 
 ## Clinical Trial Evidence
 

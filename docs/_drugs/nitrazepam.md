@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nitrazepam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 599
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Nitrazepam: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L3). Approved use: Insomnia"
 monitor_inn: "Nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
+description: "Nitrazepam: predicted new indication Wernicke-Korsakoff syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nitrazepam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Nitrazepam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
+## Nitrazepam: Wernicke-Korsakoff syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Nitrazepam is a benzodiazepine originally used to treat insomnia and early myoclonic encephalopathy.
-The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, but this is essentially the same condition as its existing insomnia use, so it is not a true repurposing candidate.
 Currently **no clinical trials** are registered, and **20 publications** (mostly reviews and comparative or observational reports) are available.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Insomnia; early myoclonic encephalopathy (the India license records contain no approved indication text) |
-| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Wernicke-Korsakoff syndrome |
+| TxGNN Prediction Score | 0.9931 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

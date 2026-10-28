@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Trimetazidine
-parent: Moderate Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 867
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Trimetazidine: predicted new indication Endolymphatic hydrops (evidence level L3). Approved use: Not stated in the India licence data"
-monitor_inn: "Trimetazidine"
-predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "endolymphatic hydrops", "active cochlear Meniere disease", "active vestibular Meniere disease", "active cochleovestibular Meniere disease", "exocrine pancreatic insufficiency", "vertigo, benign recurrent, 2", "46,XY disorder of gonadal development", "male infertility due to gonadal dysgenesis", "metastatic melanoma"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Trimetazidine: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Trimetazidine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +32,66 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Trimetazidine: From Angina Pectoris (Cardiac Metabolic Therapy) to Endolymphatic Hydrops
+<!-- known-uses-page -->
+<!-- description: Trimetazidine: known uses and market status in India; currently no new candidate indication -->
+## Trimetazidine: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Trimetazidine, so there is currently no new predicted indication. The drug's recorded uses are listed below; no uses are recorded for it in the available data.
 
-Trimetazidine is a metabolic anti-ischaemic agent, widely marketed in India as oral tablets and capsules. The India licence records compiled for this report do not list an approved indication.
-The TxGNN model predicts it may be effective for **Endolymphatic Hydrops**, the pathological correlate of Ménière's disease, with **0 clinical trials** and **5 publications** (2 small double-blind RCTs from 1990) supporting this direction.
-Evidence is limited and dated, so this is best treated as a research question rather than a ready-to-develop indication.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India licence data (the cardiac use described here reflects general knowledge of the drug and is not drawn from the compiled data) |
-| Predicted New Indication | Endolymphatic hydrops |
-| TxGNN Prediction Score | 98.57% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold (treat as a research question; see Conclusion) |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 0 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 
----
+## Known uses recorded for this drug
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Detailed mechanism-of-action data for trimetazidine are not available in the data compiled for this report. Based on general pharmacological knowledge, trimetazidine is a partial inhibitor of long-chain 3-ketoacyl-CoA thiolase. It shifts cellular energy metabolism from fatty acid oxidation toward glucose oxidation, which improves energy efficiency under ischaemic or metabolically stressed conditions.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Endolymphatic hydrops is the pathological hallmark of Ménière's disease, which causes recurrent vertigo, hearing loss, tinnitus and ear fullness. Trimetazidine has been studied in vestibular vertigo and Ménière's disease, with proposed effects on inner-ear microcirculation and cellular energy metabolism. These effects could reduce ischaemic or metabolic stress in the labyrinth.
-
-The supporting studies are old and small, and abstracts were only partly available. The evidence applies to hydrops indirectly, through Ménière's disease. The mechanistic link remains a hypothesis.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2240994](https://pubmed.ncbi.nlm.nih.gov/2240994/) | 1990 | RCT | Ann Otolaryngol Chir Cervicofac | Double-blind, 3-month comparison of trimetazidine (60 mg/day) with betahistine (24 mg/day) in peripheral vestibular vertigo; 40 patients enrolled, 20 with Ménière's disease |
-| [2240995](https://pubmed.ncbi.nlm.nih.gov/2240995/) | 1990 | RCT | Ann Otolaryngol Chir Cervicofac | Double-blind, 2-month comparison of trimetazidine (60 mg/day) with betahistine (36 mg/day) in Ménière's disease; 45 patients enrolled, 5 dropped out |
-| [10367069](https://pubmed.ncbi.nlm.nih.gov/10367069/) | 1999 | Review | Ann Otolaryngol Chir Cervicofac | Synopsis of clinical trials of trimetazidine 20 mg in vertigo (no abstract available) |
-| [19454061](https://pubmed.ncbi.nlm.nih.gov/19454061/) | 2007 | Review | BMJ Clin Evid | General review of Ménière's disease (recurrent vertigo, hearing loss, tinnitus); not specific to trimetazidine |
-| [26208913](https://pubmed.ncbi.nlm.nih.gov/26208913/) | 2016 | Basic/Mechanistic | Eur Arch Otorhinolaryngol | Histamine receptor expression in the human endolymphatic sac; rationale for betahistine, not trimetazidine |
-
-Related evidence for other predicted indications: a 2015 study ([26563011](https://pubmed.ncbi.nlm.nih.gov/26563011/), B-ENT) examined trimetazidine, betahistine and ginkgo biloba extract for residual dizziness after repositioning manoeuvres for benign paroxysmal positional vertigo. This is a different condition from the genetically defined recurrent vertigo predicted by the model.
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-The compiled data list 20 valid single-ingredient registrations. Approved indication text is not available for any of them. Five representative authorizations:
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 42958 | Cytopill 35mg Tablet SR | strip of 10 tablet sr | Valid |
+| 169862 | Osvedon 35 MR Tablet | strip of 10 tablet mr | Valid |
+| 84040 | Flavedon MR Tablet | strip of 10 tablet mr | Valid |
+| 59635 | DavaIndia Trimetazidine 35mg Tablet MR | strip of 10 tablet mr | Valid |
+| 218593 | Trived 20 Tablet | strip of 10 tablets | Valid |
+| 214835 | Timzid-MR Tablet | strip of 15 tablet mr | Valid |
+| 968 | Accardi MR Tablet MR | strip of 10 tablet mr | Valid |
+| 142904 | Metazine CR 35 Tablet | strip of 10 tablet mr | Valid |
+| 1534 | Angidine Retard Tablet MR | strip of 10 tablet mr | Valid |
+| 180560 | Prodium 20mg Tablet | strip of 10 tablets | Valid |
+| 186991 | Redon-CR 60 Tablet CR | strip of 10 tablet cr | Valid |
+| 219011 | Trived 35mg Tablet SR | strip of 10 tablet sr | Valid |
+| 252448 | Zutrim 35mg Tablet SR | strip of 10 tablet sr | Valid |
+| 223930 | Trilong 60mg Capsule | strip of 10 capsules | Valid |
+| 207725 | StayHappi Trimetazidine 35mg Tablet | strip of 10 tablets | Valid |
+| 220346 | Taz 20mg Tablet | strip of 10 tablets | Valid |
+| 35119 | Carvidon 20 Tablet | strip of 10 tablets | Valid |
+| 88107 | Flavezee 35 SR Tablet | strip of 10 tablet sr | Valid |
+| 89769 | Flavelix 35mg Tablet MR | strip of 10 tablet mr | Valid |
+| 7838 | Angidine Tablet | strip of 10 tablets | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 42958 | Cytopill 35mg Tablet SR | Strip of 10 sustained-release tablets | Not listed |
-| 84040 | Flavedon MR Tablet | Strip of 10 modified-release tablets | Not listed |
-| 214835 | Timzid-MR Tablet | Strip of 15 modified-release tablets | Not listed |
-| 223930 | Trilong 60mg Capsule | Strip of 10 capsules | Not listed |
-| 180560 | Prodium 20mg Tablet | Strip of 10 tablets | Not listed |
-
-All products are oral forms.
-
----
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -110,21 +99,6 @@ Please refer to the package insert for safety information. No warnings, contrain
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold (research question)**
-
-**Rationale:**
-The only supporting studies are two small, 1990 double-blind comparisons against betahistine, and the evidence reaches endolymphatic hydrops only indirectly through Ménière's disease. There are no registered trials, and no safety or package-insert data are available to support a screening decision.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India licence documents
-- Mechanism-of-action data from DrugBank
-- Full-text review of the 1990 RCTs, covering methods, outcomes and betahistine comparator results
-- A modern, adequately powered RCT in Ménière's disease, or a systematic review of existing data
-- Confirmation of the approved indications on the India licences, to define the original indication properly
-
-**Other predicted indications:** The data compiled for this report rank mitochondrial oxidative phosphorylation disorder, exocrine pancreatic insufficiency, 46,XY gonadal development disorder, male infertility due to gonadal dysgenesis and metastatic melanoma among the top predictions. None has supporting trials or literature, and they are rated L5 with a Hold recommendation. The Ménière's disease subtypes (cochlear, vestibular, cochleovestibular) and benign recurrent vertigo have only indirect, non-subtype-specific support (L4).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

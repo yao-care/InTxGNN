@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oxymetazoline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 631
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Pharyngitis, common cold"
 monitor_inn: "Oxymetazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "headache disorder"]
+predicted_indications: ["nasal cavity disease", "headache disorder"]
 ---
 
 # Oxymetazoline
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 |------|------|
 | Original Indication | Pharyngitis, common cold |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,8 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 Nasal cavity disease is a broad category, and the drug's original uses (common cold, pharyngitis) already involve nasal congestion. The prediction is therefore mechanistically coherent. However, the very high score probably reflects how close the new indication is to the existing one, rather than a genuinely new repurposing signal.
 
 Two other predicted indications were also reviewed:
-- **Acute laryngopharyngitis** (score 99.95%): plausible because it is close to the existing pharyngitis use, but there are no trials and no literature (evidence level L5).
-- **Headache disorder** (score 99.04%): a small body of literature explores intranasal tetracaine plus oxymetazoline for status migrainosus. The effect cannot be attributed to oxymetazoline alone because it was given in combination (evidence level L4).
+- **Headache disorder** (score 0.9904): a small body of literature explores intranasal tetracaine plus oxymetazoline for status migrainosus. The effect cannot be attributed to oxymetazoline alone because it was given in combination (evidence level L4).
 
 ---
 

@@ -6,9 +6,9 @@ nav_order: 418
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, headache disorder…"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ibuprofen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Ibuprofen: From Rheumatoid Arthritis and Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Ibuprofen: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, headache disorder, juvenile idiopathic arthritis, patent ductus arteriosus (the approved-indication text in the India licences is empty, so this list comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -112,7 +112,7 @@ Please refer to the package insert for label-based warnings and contraindication
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (99.74%), with no clinical trials or publications. There is no plausible mechanism linking COX inhibition to correction of a GDF5-related developmental skeletal defect. Ibuprofen's safety profile is also considerable for a chronic use in a rare paediatric-onset condition.
+The prediction is supported only by a model score (0.9974), with no clinical trials or publications. There is no plausible mechanism linking COX inhibition to correction of a GDF5-related developmental skeletal defect. Ibuprofen's safety profile is also considerable for a chronic use in a rare paediatric-onset condition.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for ibuprofen, to allow mechanistic-link analysis

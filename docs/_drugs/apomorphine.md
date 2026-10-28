@@ -6,7 +6,7 @@ nav_order: 63
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Apomorphine: predicted new indication Top-ranked: polymicrogyria, perisylvian… (evidence level L5). Approved use: Parkinson disease"
+description: "Apomorphine: predicted new indication Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease"
 monitor_inn: "Apomorphine"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Apomorphine: From Parkinson Disease to Schizophrenia
+## Apomorphine: From Parkinson Disease to polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ Overall, the evidence is hypothesis-level, and the direction of any therapeutic 
 |------|------|
 | Original Indication | Parkinson disease (the licence records contain no approved indication text) |
 | Predicted New Indication | Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (L5, no evidence). Best-supported: schizophrenia (rank 5) |
-| TxGNN Prediction Score | 99.75% (rank 1); 99.69% (schizophrenia) |
+| TxGNN Prediction Score | 0.9975 (rank 1); 0.9969 (schizophrenia) |
 | Evidence Level | L5 for the rank 1 prediction; L3 for schizophrenia |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question only |
 
 ---
@@ -62,7 +62,7 @@ Overall, the evidence is hypothesis-level, and the direction of any therapeutic 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, apomorphine is a dopamine D1/D2 receptor agonist. Its efficacy in Parkinson disease comes from replacing deficient dopaminergic signalling.
 
-**Rank 1 (polymicrogyria with cerebellar hypoplasia and arthrogryposis):** No mechanistic link can be identified. The score is very high, but it appears to be a knowledge-graph prediction only, and nothing connects dopaminergic signalling to the pathogenesis of this rare developmental malformation. The other top-ranked predictions have similarly weak or absent rationales. These include congenital glycosylation disorder, hereditary neuropathy, atypical glycine encephalopathy and hydranencephaly. The exceptions are retinal dystrophy and the myopia variants, where retinal dopamine offers only a speculative link.
+**Rank 1 (polymicrogyria with cerebellar hypoplasia and arthrogryposis):** No mechanistic link can be identified. The score is very high, but it appears to be a TxGNN model (deep learning) prediction only, and nothing connects dopaminergic signalling to the pathogenesis of this rare developmental malformation. The other top-ranked predictions have similarly weak or absent rationales. These include congenital glycosylation disorder, hereditary neuropathy, atypical glycine encephalopathy and hydranencephaly. The exceptions are retinal dystrophy and the myopia variants, where retinal dopamine offers only a speculative link.
 
 **Schizophrenia (rank 5):** There is a clear pharmacological connection through the dopamine hypothesis. However, the direction is problematic. A D1/D2 agonist would be expected to worsen psychosis rather than treat it. The older literature mainly uses apomorphine as a probe of dopamine function. Small 1980s studies of low-dose apomorphine found no significant therapeutic improvement. The 1984 study of 25 patients showed no significant improvement or deterioration. A 1983 study of 12 chronic patients showed no overall difference from placebo, though anxiety and depression subscales improved.
 

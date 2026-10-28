@@ -4,17 +4,17 @@ title: Propranolol
 parent: Model Prediction Only (L5)
 nav_order: 708
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Hypertension, atrial fibrillation, hypertrophic cardiomyopathy…"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
+description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Propranolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Propranolol: From Hypertension and Cardiac Arrhythmias to Distal Myopathy, Tateyama Type
+## Propranolol: Distal myopathy, Tateyama type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The report also covers two better-supported alternatives from the same predictio
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, atrial fibrillation, hypertrophic cardiomyopathy, hemangioma (the India licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Distal myopathy, Tateyama type |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -65,11 +65,11 @@ Currently, detailed mechanism of action data is not available. Propranolol is a 
 For the top-ranked prediction, **no mechanistic link is supported by the data compiled for this report**. Tateyama-type distal myopathy is a rare skeletal muscle disorder, and there is no known pathway by which beta-adrenergic blockade would address its pathology. The high score (0.994) is a model output only. Notably, the knowledge graph lists myopathy and skeletal muscle disease among propranolol's contraindications, which argues against this prediction.
 
 The other predictions differ in plausibility:
-- **Congenital myopathy with excess of thin filaments** (score 99.30%): no mechanistic link, no trials, no literature.
-- **Hypertrophic cardiomyopathy due to intensive athletic training** (99.17%): there is a plausible link through reduced heart rate and contractility, because propranolol is already used in hypertrophic cardiomyopathy. However, this athlete's-heart phenotype is a physiological adaptation usually managed by detraining, and no studies were found.
-- **Chondroma** (99.14%): no clear link, no evidence.
-- **Cirrhotic cardiomyopathy** (99.12%): propranolol is widely used in cirrhosis for portal hypertension, and one 2024 report suggests it can correct prolonged QT intervals. Other work shows blunted cardiovascular effects in severe disease and possible harm to circulatory and renal function in refractory ascites, so benefit and risk both depend on disease stage.
-- **Cardiomyopathy** (99.12%): this overlaps largely with the existing hypertrophic cardiomyopathy indication, and beta-blockade has different considerations in other forms, such as systolic dysfunction.
+- **Congenital myopathy with excess of thin filaments** (score 0.9930): no mechanistic link, no trials, no literature.
+- However, this athlete's-heart phenotype is a physiological adaptation usually managed by detraining, and no studies were found.
+- **Chondroma** (0.9914): no clear link, no evidence.
+- **Cirrhotic cardiomyopathy** (0.9912): propranolol is widely used in cirrhosis for portal hypertension, and one 2024 report suggests it can correct prolonged QT intervals. Other work shows blunted cardiovascular effects in severe disease and possible harm to circulatory and renal function in refractory ascites, so benefit and risk both depend on disease stage.
+- **Cardiomyopathy** (0.9912): this overlaps largely with the existing hypertrophic cardiomyopathy indication, and beta-blockade has different considerations in other forms, such as systolic dysfunction.
 
 ---
 
@@ -91,7 +91,6 @@ Currently no related clinical trials registered, for the top-ranked prediction o
 | [35763518](https://pubmed.ncbi.nlm.nih.gov/35763518/) | 2022 | Clinical study | PLoS One | Real-time propranolol infusion studied across degrees of cirrhosis severity; cardiovascular effects of beta-blockers were blunted in more severe disease |
 | [32446716](https://pubmed.ncbi.nlm.nih.gov/32446716/) | 2020 | Clinical study | J Hepatol | Non-selective beta-blockers impaired circulatory homeostasis and renal function in refractory ascites |
 
-**Cardiomyopathy (rank 6, selected from the retrieved literature)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

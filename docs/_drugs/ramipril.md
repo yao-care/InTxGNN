@@ -4,17 +4,17 @@ title: Ramipril
 parent: Model Prediction Only (L5)
 nav_order: 722
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ramipril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertensive disorder / hypertension…"
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+description: "Ramipril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ramipril: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
+## Ramipril: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no publications** currently support this specific p
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder / hypertension, stroke and cerebrovascular disorder (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Pulmonary vascular tone and remodeling are also influenced by the renin-angiotensin system, so a mechanistic link is plausible. However, systemic hypertension does not establish efficacy in pulmonary hypertension, and no trial or publication was found for this exact predicted condition. The very high TxGNN score should be read as a network-based signal, not as evidence of efficacy.
 
-A related predicted condition, **pulmonary hypertension owing to lung disease and/or hypoxia** (same score, 99.93%), has some indirect support. A rat study (PMID 9200213) found that ramipril attenuated the effects of chronic hypoxia on pulmonary blood vessels. This is preclinical only, and no human trials were found.
+A related predicted condition, **pulmonary hypertension owing to lung disease and/or hypoxia** (same score, 0.9993), has some indirect support. A rat study (PMID 9200213) found that ramipril attenuated the effects of chronic hypoxia on pulmonary blood vessels. This is preclinical only, and no human trials were found.
 
 ## Clinical Trial Evidence
 

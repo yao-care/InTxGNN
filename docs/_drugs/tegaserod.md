@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tegaserod
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 810
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Tegaserod: predicted new indication Migraine disorder (evidence level L4). Approved use: Not available in the registration data"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 # Tegaserod
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 |------|------|
 | Original Indication | Not available in the registration data (the pharmacology suggests a gastrointestinal motility indication, but this is not confirmed by the data) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.47% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| TxGNN Prediction Score | 0.9947 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 
 Serotonin signalling is central to migraine biology, since triptans act on 5-HT1B/1D receptors. Gastric stasis and nausea are also common during migraine attacks. A prokinetic effect could therefore plausibly improve absorption of oral abortive drugs or relieve associated gastrointestinal symptoms.
 
-However, 5-HT4 agonism has no established direct antimigraine mechanism. The high TxGNN score comes from network proximity in a knowledge graph and does not replace clinical evidence. The second-ranked prediction, **migraine with brainstem aura** (score 99.29%), is a migraine subtype. It most likely reflects its closeness to the parent migraine node rather than independent evidence, and it has no clinical trials or literature.
+However, 5-HT4 agonism has no established direct antimigraine mechanism. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it does not replace clinical evidence. The second-ranked prediction, **migraine with brainstem aura** (score 0.9929), is a migraine subtype. It most likely reflects its closeness to the parent migraine disease as learned by the model rather than independent evidence, and it has no clinical trials or literature.
 
 ## Clinical Trial Evidence
 

@@ -6,9 +6,9 @@ nav_order: 647
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Parnaparin: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Pulmonary embolism, disseminated intravascular coagulation…"
 monitor_inn: "Parnaparin"
 predicted_indications: ["breast fibrocystic disease", "thrombophilia due to protein C deficiency, autosomal recessive", "benign mammary dysplasia"]
+description: "Parnaparin: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Parnaparin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Parnaparin: From Pulmonary Embolism and Coagulation Disorders to Breast Fibrocystic Disease
+## Parnaparin: Breast fibrocystic disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,23 +45,23 @@ The TxGNN model predicts it may be effective for **breast fibrocystic disease**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans (from the knowledge graph; the marketed product labels in India list no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Breast fibrocystic disease |
-| TxGNN Prediction Score | 99.21% |
+| TxGNN Prediction Score | 0.9921 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, parnaparin is a low-molecular-weight heparin, a class with anticoagulant activity and some reported anti-inflammatory and endothelial effects. Its efficacy in thrombotic and coagulation disorders is the basis of its original indications.
 
-A plausible link between this class and fibrocystic breast disease, a benign, hormone-driven condition, is not established in the data compiled for this report. The high score appears to be a graph-based signal rather than a mechanistically supported finding.
+A plausible link between this class and fibrocystic breast disease, a benign, hormone-driven condition, is not established in the data compiled for this report. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The third-ranked prediction, benign mammary dysplasia (score 99.03%), is essentially the same condition as fibrocystic breast disease. It likely reflects the same signal and should not be counted as independent corroboration.
+The third-ranked prediction, benign mammary dysplasia (score 0.9903), is essentially the same condition as fibrocystic breast disease. It likely reflects the same signal and should not be counted as independent corroboration.
 
-A more biologically coherent alternative is the second-ranked prediction, **thrombophilia due to protein C deficiency (autosomal recessive)**, with a score of 99.11%. Parnaparin's original indications (purpura fulminans, DIC) are closely related to severe protein C deficiency, and heparin anticoagulation is a recognized supportive approach there. It also has no trials or publications supplied, so it remains at L5 and Hold. A targeted literature search on LMWH in congenital protein C deficiency is worthwhile.
+A more biologically coherent alternative is the second-ranked prediction, **thrombophilia due to protein C deficiency (autosomal recessive)**, with a score of 0.9911. Parnaparin's original indications (purpura fulminans, DIC) are closely related to severe protein C deficiency, and heparin anticoagulation is a recognized supportive approach there. It also has no trials or publications supplied, so it remains at L5 and Hold. A targeted literature search on LMWH in congenital protein C deficiency is worthwhile.
 
 ## India Market Information
 

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syn
 |------|------|
 | Original Indication | Streptococcal infection, bacterial pneumonia, staphylococcal infection, conjunctivitis, and others (the approved indication text on the India licences is blank) |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,18 +57,18 @@ The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syn
 
 Currently, detailed mechanism of action data is not available. Based on known information, azithromycin is a macrolide antibiotic, its efficacy in bacterial infections is established, and its antibacterial action does not plausibly address the predicted condition.
 
-Polyclonal hyperviscosity syndrome is caused by excess circulating immunoglobulins. Nothing in the data compiled for this report links azithromycin to this mechanism. The high score (0.998) is a graph-based prediction only, and the evidence supporting it is at the model-prediction level, so it should be treated as a hypothesis rather than a finding.
+Polyclonal hyperviscosity syndrome is caused by excess circulating immunoglobulins. Nothing in the data compiled for this report links azithromycin to this mechanism. The high score (0.9981) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The evidence supporting it is at the model-prediction level, so it should be treated as a hypothesis rather than a finding.
 
 The other top-ranked predictions are also weakly supported:
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Hyperamylasemia | 99.81% | L5 | A laboratory finding with heterogeneous causes; no supporting data |
-| 3 | Congenital analbuminemia | 99.79% | L5 | Rare genetic disorder; likely a graph artifact |
-| 4 | Punctate epithelial keratoconjunctivitis | 99.78% | L4 | Weak indirect rationale; the only paper is an unrelated microsporidial case report |
-| 7 | Monoclonal gammopathy | 99.61% | L4 | In vitro myeloma data suggest macrolides block autophagy; no efficacy data |
-| 9 | Septicemic plague | 99.52% | L4 | In vitro study showed poor azithromycin activity against *Yersinia pestis* |
-| 10 | Congenital hematological disorder (sickle cell disease) | 99.40% | L4 | Both sickle-cell trials were withdrawn with no enrollment |
+| 2 | Hyperamylasemia | 0.9981 | L5 | A laboratory finding with heterogeneous causes; no supporting data |
+| 3 | Congenital analbuminemia | 0.9979 | L5 | Rare genetic disorder; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| 4 | Punctate epithelial keratoconjunctivitis | 0.9978 | L5 | Weak indirect rationale; the only paper is an unrelated microsporidial case report |
+| 7 | Monoclonal gammopathy | 0.9961 | L5 | In vitro myeloma data suggest macrolides block autophagy; no efficacy data |
+| 9 | Septicemic plague | 0.9952 | L5 | In vitro study showed poor azithromycin activity against *Yersinia pestis* |
+| 10 | Congenital hematological disorder (sickle cell disease) | 0.9940 | L5 | Both sickle-cell trials were withdrawn with no enrollment |
 
 Of these, the sickle cell disease direction (anti-inflammatory effects to reduce acute chest syndrome) and the myeloma/plasma cell direction have the most plausible hypotheses, but neither has clinical data yet.
 
@@ -125,7 +125,7 @@ Package insert warnings were not available for this report, so please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The 99.81% TxGNN score for polyclonal hyperviscosity syndrome is a graph-based prediction only. There are no trials or publications, and azithromycin's antibacterial action does not plausibly address hyperviscosity caused by excess immunoglobulins. No prediction on the list currently reaches the level of evidence needed to advance. Sickle cell disease and plasma cell disorders are the only directions worth tracking as research questions.
+The 0.9981 TxGNN score for polyclonal hyperviscosity syndrome comes from the TxGNN model (deep learning) only and may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications, and azithromycin's antibacterial action does not plausibly address hyperviscosity caused by excess immunoglobulins. No prediction on the list currently reaches the level of evidence needed to advance. Sickle cell disease and plasma cell disorders are the only directions worth tracking as research questions.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for azithromycin to allow a mechanistic-link analysis

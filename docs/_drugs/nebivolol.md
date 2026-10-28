@@ -4,17 +4,17 @@ title: Nebivolol
 parent: Model Prediction Only (L5)
 nav_order: 583
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Nebivolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "Nebivolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 ---
 
 # Nebivolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this specific p
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,12 +60,11 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Malignant hypertensive renal disease is a severe, hypertension-driven form of kidney injury. Blood-pressure lowering and possible endothelial protection give a plausible, theoretical link to the original indication.
 
-There are important limits. Malignant hypertension is a hypertensive emergency usually managed with intravenous agents, which makes an oral beta-blocker unlikely to be first-line. The high score likely reflects closeness to the approved hypertension indication in the knowledge graph rather than independent evidence.
+There are important limits. Malignant hypertension is a hypertensive emergency usually managed with intravenous agents, which makes an oral beta-blocker unlikely to be first-line. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions with the same model score level were also reviewed:
-- **Malignant renovascular hypertension** (score 99.42%): beta-blockers reduce renin release, but the link is theoretical only and no studies were supplied.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.39%): the only one of the five with any literature (12 papers, evidence level L4). The papers are mostly preclinical or indirect, such as nebivolol protecting liver, kidney and endothelium via AKT1/Hif-1α/eNOS signaling in animals and cells. None tests nebivolol in patients with pulmonary hypertension.
-- **Pulmonary hypertension with unclear multifactorial mechanism** (score 99.39%) and **Braddock syndrome** (score 99.14%): no studies, and no evident mechanistic link.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9939): the only one of the five with any literature (12 papers, evidence level L4). The papers are mostly preclinical or indirect, such as nebivolol protecting liver, kidney and endothelium via AKT1/Hif-1α/eNOS signaling in animals and cells. None tests nebivolol in patients with pulmonary hypertension.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (score 0.9939) and **Braddock syndrome** (score 0.9914): no studies, and no evident mechanistic link.
 
 ## Clinical Trial Evidence
 

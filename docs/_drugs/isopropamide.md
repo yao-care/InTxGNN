@@ -6,9 +6,9 @@ nav_order: 451
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Isopropamide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Peptic ulcer disease"
 monitor_inn: "Isopropamide"
 predicted_indications: ["gastroduodenitis", "overactive bladder (disease)"]
+description: "Isopropamide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Isopropamide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Isopropamide: From Peptic Ulcer Disease to Gastroduodenitis
+## Isopropamide: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease (the licence records contain no indication text, so this comes from the knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ Blocking muscarinic receptors can reduce gastric acid secretion and gastrointest
 
 This link is inferred from the drug class and has not been confirmed. The very high TxGNN score is likely driven by how close this disease is to the existing peptic ulcer indication.
 
-**A second prediction** is overactive bladder (score 99.88%). Antimuscarinics are an established class for this condition, because they reduce involuntary bladder muscle contractions. However, isopropamide is a quaternary ammonium compound with limited tissue penetration, and no bladder-specific data are available. It would also need to be compared against better-characterised approved antimuscarinics such as oxybutynin, tolterodine and solifenacin. It also has no supporting trials or literature and is rated L5 / Hold.
+**A second prediction** is overactive bladder (score 0.9988). Antimuscarinics are an established class for this condition, because they reduce involuntary bladder muscle contractions. However, isopropamide is a quaternary ammonium compound with limited tissue penetration, and no bladder-specific data are available. It would also need to be compared against better-characterised approved antimuscarinics such as oxybutynin, tolterodine and solifenacin. It also has no supporting trials or literature and is rated L5 / Hold.
 
 ## India Market Information
 

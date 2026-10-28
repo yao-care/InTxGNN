@@ -4,17 +4,17 @@ title: Polymyxin B
 parent: Moderate Evidence (L3-L4)
 nav_order: 685
 evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-14
-description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4)."
+indication_count: 2
+last_modified_at: 2026-10-28
 monitor_inn: "Polymyxin B"
 predicted_indications: ["bronchitis", "laryngotracheitis"]
+description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4)."
 ---
 
 # Polymyxin B
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Polymyxin B: From Gram-Negative Bacterial Infection to Bronchitis
+## Polymyxin B: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ The TxGNN model predicts it may be effective for **bronchitis**, but **no clinic
 | Item | Content |
 |------|------|
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -68,7 +68,7 @@ The link between the original use (Gram-negative infection) and bronchitis is in
 
 The very high TxGNN score is a model prediction only. No bronchitis-specific efficacy trial supports it. The existing evidence also raises a safety concern about inhaled use.
 
-*Other predictions:* the model also ranks conjunctivitis (99.06%) and laryngotracheitis (99.62%). Conjunctivitis has randomized trials, but they test the polymyxin B/trimethoprim combination, and it is an existing marketed ophthalmic use rather than true repurposing. Laryngotracheitis has no supporting trials or literature.
+Conjunctivitis has randomized trials, but they test the polymyxin B/trimethoprim combination, and it is an existing marketed ophthalmic use rather than true repurposing. Laryngotracheitis has no supporting trials or literature.
 
 ---
 
@@ -133,7 +133,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The 99.87% score is a prediction only. There are no registered trials, and the literature is limited to small cohort studies of resistant Gram-negative respiratory infection, older provocation studies, and animal models. The inhalation-related bronchospasm signal and systemic toxicity must be resolved before further investment.
+The 0.9987 score is a prediction only. There are no registered trials, and the literature is limited to small cohort studies of resistant Gram-negative respiratory infection, older provocation studies, and animal models. The inhalation-related bronchospasm signal and systemic toxicity must be resolved before further investment.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulator's website, which are not yet available and block safety screening

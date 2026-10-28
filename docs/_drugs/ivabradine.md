@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Ivabradine: From Cardiovascular Use (Heart Failure / Heart-Rate Control) to Hypertrichosis
+## Ivabradine: From Cardiovascular Use (Heart Failure / Heart-Rate Control) to hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,9 +46,9 @@ Ivabradine is a heart-rate-lowering drug that blocks HCN channels (the If curren
 |------|------|
 | Original Indication | Not stated in the India license data compiled for this report (the licensed product names, e.g. "Beat HF", suggest heart failure use) |
 | Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,15 +58,15 @@ Detailed mechanism-of-action data for ivabradine is not available in the data co
 
 Mechanistically, the link to hypertrichosis is weak. There is no established connection between HCN channel inhibition and hair follicle biology or hair growth regulation. HCN channel expression in hair follicles is not an established pathway. Hypertrichosis is a known adverse effect of some drugs (for example minoxidil), but that is unrelated to HCN inhibition.
 
-The high score (0.998) therefore most likely reflects graph proximity in the knowledge network, not a true mechanistic relationship. The other top predictions follow the same pattern. They are mostly congenital or genetic conditions that a heart-rate-lowering ion channel blocker is unlikely to correct:
+The high score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a true mechanistic relationship. The other top predictions follow the same pattern. They are mostly congenital or genetic conditions that a heart-rate-lowering ion channel blocker is unlikely to correct:
 
 | Rank | Predicted Disease | Score | Assessment |
 |---|---|---|---|
-| 2 | Ambras type hypertrichosis universalis congenita | 99.72% | Genetic rearrangement near TRPS1 (chromosome 8q22); no plausible link to HCN blockade |
-| 3 | Malformation syndrome with odontal and/or periodontal component | 99.72% | Broad developmental category; no known role of ivabradine in tooth or periodontal development |
-| 4 | Syndrome with a Dandy-Walker malformation as major feature | 99.70% | Structural brain malformation; not a plausible pharmacological target |
-| 5 | Isolated genetic hair shaft abnormality | 99.69% | Structural keratin or protein defects; no link to HCN channels |
-| 6 | Nephrogenic syndrome of inappropriate antidiuresis | 99.08% | Caused by gain-of-function AVPR2 mutations; ivabradine does not act on this pathway |
+| 2 | Ambras type hypertrichosis universalis congenita | 0.9972 | Genetic rearrangement near TRPS1 (chromosome 8q22); no plausible link to HCN blockade |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 0.9972 | Broad developmental category; no known role of ivabradine in tooth or periodontal development |
+| 4 | Syndrome with a Dandy-Walker malformation as major feature | 0.9970 | Structural brain malformation; not a plausible pharmacological target |
+| 5 | Isolated genetic hair shaft abnormality | 0.9969 | Structural keratin or protein defects; no link to HCN channels |
+| 6 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9908 | Caused by gain-of-function AVPR2 mutations; ivabradine does not act on this pathway |
 
 ## India Market Information
 

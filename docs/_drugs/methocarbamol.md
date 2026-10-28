@@ -50,10 +50,10 @@ It is a computational prediction only, so the evidence is very weak.
 |------|------|
 | Original Indication | Not stated in the India license data (methocarbamol is generally used as a muscle relaxant for painful muscle spasm) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ It is a computational prediction only, so the evidence is very weak.
 
 Currently, detailed mechanism of action data is not available. Based on known information, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link would be symptomatic relief of muscle spasm or pain associated with the condition.
 
-Cauda equina syndrome is caused by compression of the nerve roots at the base of the spinal cord, and it is a surgical emergency. Methocarbamol would not treat the underlying compression. At most, it could play a supportive, symptomatic role. The high TxGNN score reflects a pattern in the knowledge graph and is not backed by clinical evidence.
+Cauda equina syndrome is caused by compression of the nerve roots at the base of the spinal cord, and it is a surgical emergency. Methocarbamol would not treat the underlying compression. At most, it could play a supportive, symptomatic role. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions are also unsupported by the data compiled for this report. These are irritable bowel syndrome, panuveitis, anaphylaxis, iris disease, uveitis, ventricular tachycardia, food-dependent exercise-induced anaphylaxis, conjunctivitis and obsolete bundle branch block. For these, no plausible mechanistic link could be drawn. The only literature retrieved was for anaphylaxis and ventricular tachycardia, and it does not show efficacy (see below).
 

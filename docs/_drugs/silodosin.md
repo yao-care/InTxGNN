@@ -50,9 +50,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -68,11 +68,11 @@ The other predictions follow the same pattern, and the data compiled for this re
 
 | Rank | Predicted Indication | TxGNN Score | Comment |
 |------|------|------|------|
-| 2 | Hypertrichosis | 99.99% | Computational only; direction of effect unestablished |
-| 3 | Malformation syndrome with odontal and/or periodontal component | 99.99% | No identifiable mechanistic link; likely graph-neighbourhood similarity |
-| 4 | Syndrome with Dandy-Walker malformation as major feature | 99.98% | Structural brain anomaly not expected to respond to an alpha-blocker |
-| 5 | Isolated genetic hair shaft abnormality | 99.98% | Hair shaft structure is determined by genetic defects, with no evidence of alpha-1A involvement |
-| 6 | Familial isolated trichomegaly | 99.23% | Speculative and unverified |
+| 2 | Hypertrichosis | 0.9999 | Computational only; direction of effect unestablished |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 0.9999 | No identifiable mechanistic link; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| 4 | Syndrome with Dandy-Walker malformation as major feature | 0.9998 | Structural brain anomaly not expected to respond to an alpha-blocker |
+| 5 | Isolated genetic hair shaft abnormality | 0.9998 | Hair shaft structure is determined by genetic defects, with no evidence of alpha-1A involvement |
+| 6 | Familial isolated trichomegaly | 0.9923 | Speculative and unverified |
 
 ---
 
@@ -118,7 +118,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, and no plausible mechanism links alpha-1A blockade to Ambras syndrome or the other predicted conditions. Silodosin is a safe, widely marketed drug for BPH, but that does not support its use in these rare genetic hair and malformation disorders.
+The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, and no plausible mechanism links alpha-1A blockade to Ambras syndrome or the other predicted conditions. Silodosin is a safe, widely marketed drug for BPH, but that does not support its use in these rare genetic hair and malformation disorders.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, to assess any biological link to hair follicle biology

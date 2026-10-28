@@ -6,9 +6,9 @@ nav_order: 913
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-14
-description: "Zuclopenthixol: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Zuclopenthixol"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Zuclopenthixol: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zuclopenthixol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Zuclopenthixol: From Schizophrenia to Retinal Dystrophy
+## Zuclopenthixol: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia (from the knowledge graph; no approved indication text is available in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the curated data compiled for this report. Based on general pharmacological knowledge, zuclopenthixol is a thioxanthene antipsychotic that acts mainly as a dopamine D1/D2 antagonist, with additional 5-HT2A and alpha-1 adrenergic antagonism. Its efficacy in schizophrenia comes from this receptor blockade.
 
-For retinal dystrophy, no mechanistic link has been established. These disorders are largely monogenic, structural or degenerative conditions, and there is no known dopaminergic mechanism that receptor antagonism would correct. The high TxGNN score most likely reflects proximity in the knowledge graph rather than a biological rationale. The prediction should be treated as a hypothesis, not as supported evidence.
+For retinal dystrophy, no mechanistic link has been established. These disorders are largely monogenic, structural or degenerative conditions, and there is no known dopaminergic mechanism that receptor antagonism would correct. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis, not as supported evidence.
 
-Other predicted indications show the same pattern. All eight further predictions (scores 99.98–99.99%) also lack trials and literature, and they are L5 with a Hold recommendation:
+Other predicted indications show the same pattern. All eight further predictions (scores 99.98–0.9999) also lack trials and literature, and they are L5 with a Hold recommendation:
 
 | Rank | Predicted Disease | Mechanistic Assessment |
 |------|------|------|

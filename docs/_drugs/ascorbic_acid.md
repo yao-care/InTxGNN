@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ascorbic Acid: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Ascorbic acid deficiency"
 monitor_inn: "Ascorbic acid"
-predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
 ---
 
 # Ascorbic Acid
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 |------|------|
 | Original Indication | Ascorbic acid deficiency; scurvy |
 | Predicted New Indication | Non-syndromic esophageal malformation |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 
 Currently, detailed mechanism of action data is not available. Based on known information, ascorbic acid is a single-ingredient vitamin. Its efficacy in correcting vitamin C deficiency and scurvy is well established. It is also known as an antioxidant and as a cofactor in collagen synthesis.
 
-Non-syndromic esophageal malformation is a structural congenital defect that arises during embryonic development. No plausible mechanism has been identified by which ascorbic acid could correct or treat such a defect. The very high score (99.96%) reflects how the model links this drug to the disease, not biological or clinical support. The reliability of this prediction is therefore low, and it should be treated only as a hypothesis for screening.
+Non-syndromic esophageal malformation is a structural congenital defect that arises during embryonic development. No plausible mechanism has been identified by which ascorbic acid could correct or treat such a defect. The very high score (0.9996) reflects how the model links this drug to the disease, not biological or clinical support. The reliability of this prediction is therefore low, and it should be treated only as a hypothesis for screening.
 
 ---
 
@@ -93,7 +93,7 @@ Ascorbic acid is widely marketed in India as a single-ingredient product. There 
 
 ## Safety Considerations
 
-- **Disease associations from the knowledge graph (not label text):** The TxGNN knowledge graph links ascorbic acid with contraindication relationships for several conditions. Examples include kidney disease, anuria, nephrocalcinosis, primary hyperoxaluria, hereditary hemochromatosis, sickle cell anemia, diabetes mellitus, peptic ulcer disease, liver disease, and hypercalcemia. These should be confirmed against the official package insert.
+- **Disease associations from the TxGNN model (deep learning), not label text:** The TxGNN model (deep learning) may reflect similarities it learned between related diseases, not biological evidence. It lists contraindication relationships between ascorbic acid and several conditions. Examples include kidney disease, anuria, nephrocalcinosis, primary hyperoxaluria, hereditary hemochromatosis, sickle cell anemia, diabetes mellitus, peptic ulcer disease, liver disease, and hypercalcemia. These should be confirmed against the official package insert.
 - **Drug Interactions:** 25 interactions were recorded in total. The moderate-level interactions among those listed are:
   - Amphetamine
   - Dextroamphetamine

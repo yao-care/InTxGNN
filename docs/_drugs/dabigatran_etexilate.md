@@ -48,9 +48,9 @@ Dabigatran etexilate is an oral direct thrombin inhibitor marketed in India as a
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the approved indication text is empty for all registrations) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 A possible link is that thrombin signalling (through PAR receptors) contributes to liver inflammation and fibrosis. Blocking thrombin could, in theory, dampen these processes in a fibrosing bile duct disease. This remains a hypothesis. No data compiled for this report show that it applies to sclerosing cholangitis.
 
-The very high TxGNN score reflects a pattern found in a knowledge graph. It is not evidence of benefit. The other top predictions (lipid disorders and a platelet release disorder) have no clear mechanistic connection to thrombin inhibition. This suggests the model may be picking up network-proximity artifacts.
+The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top predictions (lipid disorders and a platelet release disorder) have no clear mechanistic connection to thrombin inhibition. This suggests the model may be picking up learned similarities between diseases rather than a real effect.
 
 ---
 

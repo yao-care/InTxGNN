@@ -6,9 +6,9 @@ nav_order: 569
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L4). Approved use: Diarrheal disease"
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
+description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Morphine
@@ -33,12 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Morphine: From Diarrheal Disease to Myofascial Pain Syndrome
+## Morphine: Myofascial pain syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Morphine is an opioid analgesic that, in the TxGNN knowledge graph, is linked to diarrheal disease as its original indication.
+Morphine is an opioid analgesic that is linked to diarrheal disease as its original indication.
 The TxGNN model predicts it may be effective for **myofascial pain syndrome**, but **no clinical trials** are registered for this indication and the **10 publications** retrieved are mostly indirect.
 Among the other predicted indications, **restless legs syndrome** has the most substantial support (observational registries, case series and a Phase 1 pharmacokinetic study), and it is described separately below.
 
@@ -48,12 +48,12 @@ Among the other predicted indications, **restless legs syndrome** has the most s
 
 | Item | Content |
 |------|------|
-| Original Indication | Diarrheal disease (from the TxGNN knowledge graph; no approved indication text is available in the India licence data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Myofascial pain syndrome |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ---
@@ -68,15 +68,15 @@ The retrieved literature is largely indirect. It covers opioid use in temporoman
 
 | Rank | Predicted Indication | Score | Evidence Level | Decision | Comment |
 |---|---|---|---|---|---|
-| 2 | Manic bipolar affective disorder | 99.64% | L5 | Hold | Literature is historical or preclinical; abuse liability and psychiatric risk are concerns |
-| 3 | Tourette syndrome | 99.48% | L5 | Hold | Preclinical and review-level only; not specific to morphine |
-| 4 | Restless legs syndrome | 99.47% | L3 | Research question | Observational support, including registries and intrathecal morphine reports |
-| 5 | ADHD, inattentive type | 99.34% | L5 | Hold | No literature or trials |
-| 6 | Migraine disorder | 99.32% | L4 | Hold | Guidelines generally discourage opioids |
-| 7 | Trichotillomania | 99.29% | L5 | Hold | No literature; opioid antagonists, not agonists, have been explored |
-| 8 | Methemoglobinemia | 99.15% | L5 | Hold | No plausible mechanism |
-| 9 | Migraine with brainstem aura | 99.15% | L5 | Hold | Preclinical or tangential only |
-| 10 | Specific developmental disorder | 99.06% | L5 | Hold | Preclinical or unrelated |
+| 2 | Manic bipolar affective disorder | 0.9964 | L5 | Hold | Literature is historical or preclinical; abuse liability and psychiatric risk are concerns |
+| 3 | Tourette syndrome | 0.9948 | L5 | Hold | Preclinical and review-level only; not specific to morphine |
+| 4 | Restless legs syndrome | 0.9947 | L3 | Research question | Observational support, including registries and intrathecal morphine reports |
+| 5 | ADHD, inattentive type | 0.9934 | L5 | Hold | No literature or trials |
+| 6 | Migraine disorder | 0.9932 | L4 | Hold | Guidelines generally discourage opioids |
+| 7 | Trichotillomania | 0.9929 | L5 | Hold | No literature; opioid antagonists, not agonists, have been explored |
+| 8 | Methemoglobinemia | 0.9915 | L5 | Hold | No plausible mechanism |
+| 9 | Migraine with brainstem aura | 0.9915 | L5 | Hold | Preclinical or tangential only |
+| 10 | Specific developmental disorder | 0.9906 | L5 | Hold | Preclinical or unrelated |
 
 For restless legs syndrome, opioids act on the endogenous opioid system and modulate dopaminergic and sensory pathways. Clinical guidance already recognizes opioids as an option for refractory cases, which makes it the most credible candidate in this list. Much of that evidence concerns opioids as a class (such as methadone and oxycodone) rather than morphine specifically.
 

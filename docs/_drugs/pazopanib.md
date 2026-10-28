@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pazopanib
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 649
-evidence_level: L5
-indication_count: 10
+evidence_level: L3
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Pazopanib: predicted new indication Unclassified renal cell carcinoma (evidence level L5). Approved use: Not stated in the Indian licence records (approved indication text is…"
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
+description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Pazopanib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,27 +33,26 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pazopanib: From Renal Cell Carcinoma and Soft Tissue Sarcoma to Unclassified Renal Cell Carcinoma
+## Pazopanib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pazopanib is an oral multi-targeted tyrosine kinase inhibitor (VEGFR/PDGFR/c-KIT), originally used for renal cell carcinoma and soft tissue sarcoma.
-The TxGNN model predicts it may be effective for **unclassified renal cell carcinoma**, supported by **6 publications** (no registered clinical trials).
 Of the top 10 predictions, **liposarcoma** has the strongest trial evidence (**6 clinical trials**, **20 publications**), and it is discussed alongside the lead prediction below.
 
 ## Quick Overview
 
-The lead indication is the highest-ranked prediction that has any supporting evidence. The three higher-ranked predictions (renal cell carcinoma associated with neuroblastoma, renal cell carcinoma with Xp11.2/TFE3 fusions) have no trials or literature.
+The lead indication is the highest-ranked prediction that has any supporting evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Indian licence records (approved indication text is blank). The knowledge graph lists renal cell carcinoma (including clear cell) and soft tissue sarcoma. |
-| Predicted New Indication | Unclassified renal cell carcinoma (rank 3; ranks 1 and 2 have no supporting evidence) |
-| TxGNN Prediction Score | 99.63% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Liposarcoma |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L3 (retrospective series, real-world data and one single-arm Phase 2 study; no randomized or registered trials) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold (research question; see below) |
 
 ## Why is This Prediction Reasonable?
@@ -66,7 +65,7 @@ The sarcoma-related predictions follow a similar logic. Pazopanib's PDGFR activi
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for the lead prediction (unclassified renal cell carcinoma). Currently no related clinical trials registered.
+Currently no related clinical trials registered.
 
 The most relevant trials for the best-supported sarcoma predictions are shown below.
 
@@ -91,7 +90,6 @@ The most relevant trials for the best-supported sarcoma predictions are shown be
 
 ## Literature Evidence
 
-**Unclassified renal cell carcinoma (lead prediction)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

@@ -4,17 +4,17 @@ title: Loteprednol Etabonate
 parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Loteprednol Etabonate: predicted new indication Serous conjunctivitis except viral (evidence level L5). Approved use: Uveitis, iris and ciliary body diseases…"
 monitor_inn: "Loteprednol etabonate"
-predicted_indications: ["serous conjunctivitis except viral", "conjunctival folliculosis", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "rosacea conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
+predicted_indications: ["serous conjunctivitis except viral", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
+description: "Loteprednol Etabonate: predicted new indication Serous conjunctivitis except viral (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Loteprednol Etabonate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Loteprednol Etabonate: From Uveitis and Allergic Conjunctivitis to Serous Conjunctivitis (Non-Viral)
+## Loteprednol Etabonate: Serous conjunctivitis except viral
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but at present there are **0 clinical trials** and **0 publications** directly s
 
 | Item | Content |
 |------|------|
-| Original Indication | Uveitis, iris and ciliary body diseases, atopic/vernal/papillary conjunctivitis, and related conditions (the India license records contain no indication text; this list comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Serous conjunctivitis except viral |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,15 +58,14 @@ Other top-ranked predictions (all with the same score or slightly lower) are lis
 
 | Rank | Predicted Indication | Score | Evidence Level | Recommendation |
 |---|---|---|---|---|
-| 2 | Conjunctival folliculosis | 99.69% | L5 | Hold |
-| 3 | Chronic follicular conjunctivitis | 99.69% | L5 | Hold |
-| 4 | Parasitic conjunctivitis | 99.69% | L5 | Hold |
-| 5 | Pseudomembranous conjunctivitis | 99.66% | L4 | Hold |
-| 6 | Angelucci syndrome | 99.66% | L5 | Hold |
-| 7 | Acute hemorrhagic conjunctivitis | 99.62% | L5 | Hold |
-| 8 | Rosacea conjunctivitis | 99.34% | L4 | Research Question |
-| 9 | Acute contagious conjunctivitis | 99.26% | L5 | Hold |
-| 10 | Otitis externa | 99.13% | L5 | Hold |
+| 2 | Conjunctival folliculosis | 0.9969 | L5 | Hold |
+| 3 | Chronic follicular conjunctivitis | 0.9969 | L5 | Hold |
+| 4 | Parasitic conjunctivitis | 0.9969 | L5 | Hold |
+| 5 | Pseudomembranous conjunctivitis | 0.9966 | L5 | Hold |
+| 6 | Angelucci syndrome | 0.9966 | L5 | Hold |
+| 7 | Acute hemorrhagic conjunctivitis | 0.9962 | L5 | Hold |
+| 9 | Acute contagious conjunctivitis | 0.9926 | L5 | Hold |
+| 10 | Otitis externa | 0.9913 | L5 | Hold |
 
 ## Why is This Prediction Reasonable?
 
@@ -116,7 +115,7 @@ Package insert warnings were not available; please refer to the package insert f
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.69%), and the drug is already widely marketed in India for related inflammatory eye conditions. However, there are no trials or literature for the lead prediction, so evidence is at L5. Several of the predicted conditions are infectious, where steroids carry real safety concerns. Rosacea conjunctivitis (L4) is the most promising candidate for follow-up, as an extension of an existing indication.
+The prediction score is high (0.9969), and the drug is already widely marketed in India for related inflammatory eye conditions. However, there are no trials or literature for the lead prediction, so evidence is at L5. Several of the predicted conditions are infectious, where steroids carry real safety concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulator, which are currently blocking the safety screening

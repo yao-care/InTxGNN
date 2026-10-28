@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nelfinavir
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 585
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
 description: "Nelfinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Nelfinavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are **no registered clinical trials** and only **3 publications** (all
 |------|------|
 | Original Indication | HIV infectious disease, AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge graph associations, not label text)**: anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, hemophilia, diarrheal disease.
+- **Contraindications (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence)**: anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, hemophilia, diarrheal disease.
 - **Drug Interactions**: 254 interactions were identified in total. Examples from the interactions reviewed:
   - **Major**: rabeprazole, omeprazole, loperamide, triamcinolone, budesonide
   - **Moderate**: acarbose, metformin, alogliptin, albiglutide, canagliflozin, chlorpropamide, hydrocortisone, dexamethasone, betamethasone, alosetron, aprepitant

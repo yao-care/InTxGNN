@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Carbamazepine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 142
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Carbamazepine: predicted new indication Trigeminal nerve neoplasm (evidence level L4). Approved use: Epilepsy (including partial epilepsy and generalized tonic-clonic sei…"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
+last_modified_at: 2026-10-27
+description: "Carbamazepine: predicted new indication trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Carbamazepine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,31 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Carbamazepine: From Epilepsy and Trigeminal Neuralgia to Trigeminal Nerve Neoplasm
+## Carbamazepine: Voltage-gated sodium channel blocker → trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Carbamazepine is an established antiseizure and neuropathic pain medicine, originally used for epilepsy, bipolar disorder (manic episodes) and trigeminal neuralgia.
-The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but there are **no registered clinical trials** and the **20 retrieved publications** are mostly case reports of tumour-related trigeminal neuralgia, not evidence of an antitumour effect.
+Carbamazepine is a sodium channel–blocking medicine used mainly in seizure and neuropathic pain disorders.
+The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but there are **no registered clinical trials** and the **19 publications** retrieved are mostly case reports and reviews of tumour-related trigeminal neuralgia, not studies of treating the tumour itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy (including partial epilepsy and generalized tonic-clonic seizures), manic bipolar disorder, trigeminal neuralgia (the India licence records list no approved indication text, so these come from the knowledge-graph indication data) |
-| Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.998% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | trigeminal nerve neoplasm |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, carbamazepine is a long-established antiseizure drug, its efficacy in trigeminal neuralgia is well recognised, and it is generally understood to act by blocking voltage-gated sodium channels.
+Detailed mechanism of action data is not available in the data compiled for this report. Carbamazepine is generally understood to act by blocking voltage-gated sodium channels, which calms abnormal nerve firing. This is why it is widely used for trigeminal neuralgia, a nerve pain condition.
 
-The prediction most likely reflects the existing trigeminal neuralgia indication rather than a new opportunity. The retrieved literature describes trigeminal neuralgia secondary to tumours (schwannoma, meningioma, lymphoma, dermoid cyst, lipoma, pituitary adenoma). In these settings carbamazepine can only relieve nerve pain symptoms. No evidence suggests it has any antitumour effect. In several reports it did not control symptoms, and the underlying tumour required surgical or oncological treatment.
-
-The high TxGNN score is therefore best read as a link between trigeminal neuralgia and trigeminal nerve disease, not as support for treating the neoplasm itself.
+The link to the predicted disease is weak. The literature describes patients whose trigeminal neuralgia was caused by tumours or other lesions near the trigeminal nerve (schwannoma, meningioma, lymphoma, lipoma, dermoid cyst, pituitary adenoma). In these reports carbamazepine was given for pain, and in several cases it stopped working as the lesion grew. Nothing retrieved suggests that carbamazepine shrinks or controls a tumour. The very high score most likely reflects the drug's close association with trigeminal neuralgia rather than a new anti-tumour opportunity.
 
 ## Clinical Trial Evidence
 
@@ -67,55 +65,51 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-The retrieved publications are mainly reviews and case reports. No randomized trials were found.
+No retrieved publication studies carbamazepine as a treatment for trigeminal nerve neoplasm itself. The most relevant items are listed below.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36824641](https://pubmed.ncbi.nlm.nih.gov/36824641/) | 2022 | Review | Acta Clin Croat | Treatment options for trigeminal neuralgia, which can be caused by vascular compression or a tumour |
+| [36824641](https://pubmed.ncbi.nlm.nih.gov/36824641/) | 2022 | Review | Acta Clin Croat | Treatment options for trigeminal neuralgia, including tumour-related causes |
 | [17997704](https://pubmed.ncbi.nlm.nih.gov/17997704/) | 2007 | Review | Expert Rev Neurother | Medical and surgical treatments for trigeminal neuralgia |
-| [30741017](https://pubmed.ncbi.nlm.nih.gov/30741017/) | 2023 | Case report | Br J Neurosurg | Primary lymphoma of the trigeminal nerve with facial pain; carbamazepine did not improve symptoms |
-| [25142539](https://pubmed.ncbi.nlm.nih.gov/25142539/) | 2014 | Case report | Rinsho Shinkeigaku | Lymphoma spreading along the trigeminal nerve; pain initially improved with carbamazepine, then became ineffective |
+| [30741017](https://pubmed.ncbi.nlm.nih.gov/30741017/) | 2023 | Case report | Br J Neurosurg | Primary lymphoma of the trigeminal nerve; carbamazepine did not improve facial pain |
+| [25433061](https://pubmed.ncbi.nlm.nih.gov/25433061/) | 2014 | Case report | No Shinkei Geka | Cerebellopontine angle lipoma with trigeminal neuralgia; pain poorly controlled and side effects on carbamazepine |
 | [15235745](https://pubmed.ncbi.nlm.nih.gov/15235745/) | 2004 | Case report | Arq Neuropsiquiatr | Primary melanoma of Meckel's cave; pain not relieved by carbamazepine |
-| [25433061](https://pubmed.ncbi.nlm.nih.gov/25433061/) | 2014 | Case report | No Shinkei Geka | Cerebellopontine angle lipoma; carbamazepine side effects limited pain control |
+| [25142539](https://pubmed.ncbi.nlm.nih.gov/25142539/) | 2014 | Case report | Rinsho Shinkeigaku | Lymphoma spreading along the trigeminal nerve; initial pain response to carbamazepine, later ineffective |
 | [33989821](https://pubmed.ncbi.nlm.nih.gov/33989821/) | 2021 | Case report | World Neurosurg | Petroclival meningioma causing trigeminal neuralgia, treated by surgery |
-| [26768887](https://pubmed.ncbi.nlm.nih.gov/26768887/) | 2016 | Case report and review | Turk Neurosurg | Trigeminal neuralgia as an isolated symptom of pituitary adenoma |
-| [3181365](https://pubmed.ncbi.nlm.nih.gov/3181365/) | 1988 | Preclinical (rat) | Exp Neurol | Carbamazepine inhibited spontaneous activity in experimental neuromas, a nerve-injury pain effect rather than an antitumour effect |
+| [32454201](https://pubmed.ncbi.nlm.nih.gov/32454201/) | 2020 | Case report | World Neurosurg | Endoscopic resection of a trigeminal schwannoma in the pterygopalatine fossa |
+| [3181365](https://pubmed.ncbi.nlm.nih.gov/3181365/) | 1988 | Preclinical | Exp Neurol | Carbamazepine inhibited spontaneous activity in experimental rat neuromas (nerve injury model, not tumour) |
+| [11286444](https://pubmed.ncbi.nlm.nih.gov/11286444/) | 2001 | Survey | Br J Oral Maxillofac Surg | Survey of how surgeons investigate and medically manage trigeminal neuralgia |
 
 ## India Market Information
 
-Showing 5 of 20 valid registrations (all single-ingredient products). The licence records do not include approved indication text.
+Carbamazepine is marketed in India, with single-ingredient oral products on the market. The licence list below may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 18656 | Ametol 200mg Tablet | Strip of 10 tablets | Not specified in the data |
-| 246689 | Zeptol 100 Tablet | Strip of 10 tablets | Not specified in the data |
-| 246565 | Zeptol 200 Tablet | Strip of 10 tablets | Not specified in the data |
-| 214822 | Tegrital 200 Tablet | Strip of 10 tablets | Not specified in the data |
-| 233879 | Versitol Retard 200 Tablet PR | Strip of 10 tablets (prolonged release) | Not specified in the data |
-
-Other registered forms include sustained-release, extended-release and controlled-release tablets.
+| 18656 | Ametol 200mg Tablet | Strip of 10 tablets | Not recorded |
+| 92152 | Fobigone 200mg Tablet | Strip of 10 tablets | Not recorded |
+| 24134 | Arilep 200mg Tablet SR | Strip of 10 tablets SR | Not recorded |
+| 234021 | Versitol 200mg Tablet | Strip of 10 tablets | Not recorded |
+| 214822 | Tegrital 200 Tablet | Strip of 10 tablets | Not recorded |
 
 ## Safety Considerations
 
-- **Contraindications flagged in the knowledge graph** (these are model-derived associations, not label text): hypertension, anxiety and neurotic disorders, kidney disease and impaired renal function, liver disease, gallbladder disease, glaucoma and ocular hypertension, coronary artery disease, heart conduction disease and atrioventricular block, sudden cardiac arrest, inappropriate ADH syndrome, absence epilepsy, and blood disorders (thrombocytopenia, neutropenia, agranulocytosis, pancytopenia, anaemia, and severe congenital or cyclic neutropenias).
-- **Drug Interactions**: 377 interactions were identified. Major ones include **clarithromycin** and **eliglustat**. Moderate ones include doxycycline, hydrocortisone, dexamethasone, betamethasone, triamcinolone, cimetidine, metronidazole, bupropion, aprepitant, morphine, pioglitazone, canagliflozin, dronabinol, activated charcoal and vitamin D analogues (cholecalciferol, calcifediol, calcitriol, dihydrotachysterol).
+- **Drug Interactions**: 377 interactions were found in the interaction database. Examples of major-level interactions include clarithromycin and eliglustat. Moderate-level examples include doxycycline, hydrocortisone, dexamethasone, bupropion, morphine, metronidazole, cimetidine and pioglitazone.
 
-Please refer to the package insert for authoritative warnings, as label data were not available for this report.
+Please refer to the package insert for warnings and contraindications, as these are not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support for this indication is a model score. No trials exist, and the literature shows carbamazepine relieving, or sometimes failing to relieve, nerve pain caused by tumours, with no antitumour effect. The prediction does not represent a genuine new therapeutic opportunity.
+No cited study examines carbamazepine for trigeminal nerve neoplasm itself. The literature only covers tumour-related trigeminal neuralgia, where carbamazepine treats pain, not the tumour. The high score is not backed by trial or anti-tumour evidence, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for carbamazepine, including any plausible antitumour mechanism
-- Package insert warnings and contraindications from the India regulator, as safety screening cannot proceed without them
-- Any controlled or preclinical evidence of antitumour activity in nerve sheath or trigeminal tumours
-- A clear definition of the intended use: symptomatic pain control in tumour-associated trigeminal neuralgia is already covered by the existing indication
-
-**Other predicted indications (for reference):** The reflex seizure predictions (startle, audiogenic, reading, eating, thinking and micturition-induced seizures) are mechanistically more plausible given carbamazepine's focal epilepsy use, but they remain at L4 with no controlled evidence. Audiogenic seizures have the most direct animal-model support and startle epilepsy has clinical case series, and both are better framed as research questions. Carbamazepine can also worsen some reflex or generalized seizure types. Orgasm-induced seizures, beta-ketothiolase deficiency and congenital Rett syndrome rest on model prediction alone (L5) and should be held.
+- Evidence of an anti-tumour effect, from preclinical or clinical studies
+- Detailed mechanism of action data
+- Package insert warnings and contraindications for safety review
+- A clear definition of whether the goal is pain relief in tumour patients (which is symptom control, not a new disease indication) or tumour treatment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

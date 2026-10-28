@@ -4,17 +4,17 @@ title: Voglibose
 parent: Model Prediction Only (L5)
 nav_order: 896
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Voglibose: predicted new indication Type 1 diabetes mellitus (adjunct to insulin therapy). The top-scorin… (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
+description: "Voglibose: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Voglibose
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Voglibose: From Type 2 Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Voglibose: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The highest-ranked prediction with any supporting data is **type 1 diabetes mell
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (the approved indication text is not stated in the registration records, so this comes from the knowledge graph) |
-| Predicted New Indication | Type 1 diabetes mellitus (adjunct to insulin therapy). The top-scoring prediction, hypotrichosis simplex of the scalp, was set aside because it has no evidence or mechanistic link |
-| TxGNN Prediction Score | 99.80% (type 1 diabetes mellitus); 99.86% for hypotrichosis simplex of the scalp |
-| Evidence Level | L3 (type 1 diabetes mellitus); L5 for the other predictions |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 (type 1 diabetes mellitus); L5 for the other predictions |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (type 1 diabetes mellitus is a research question only) |
 
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Type 1 and type 2 diabetes differ in cause, but both involve post-meal glucose spikes. Delayed carbohydrate absorption could therefore be a useful add-on to insulin in type 1 diabetes. A small 2000 study reported that voglibose taken before the evening meal reduced nocturnal hypoglycaemia in insulin-dependent patients on intensive insulin therapy. This is a narrower, adjunctive use within the same disease area rather than a truly new indication, and the signal is weak.
 
-Most other high-scoring predictions have no plausible mechanism. Examples are the hair disorders (hypotrichosis simplex of the scalp, congenital hypotrichosis milia, diffuse alopecia areata), autoimmune oophoritis, and rare lysosomal or skeletal disorders (Wolman disease, cholesteryl ester storage disease, opsismodysplasia). These scores appear to reflect relationships within the knowledge graph rather than the drug's pharmacology. Voglibose's listed Gaucher disease link likely explains the lysosomal storage disease predictions, but voglibose does not act on lysosomal acid lipase.
+Most other high-scoring predictions have no plausible mechanism. Examples are the hair disorders (hypotrichosis simplex of the scalp, congenital hypotrichosis milia, diffuse alopecia areata), autoimmune oophoritis, and rare lysosomal or skeletal disorders (Wolman disease, cholesteryl ester storage disease, opsismodysplasia). Voglibose's listed Gaucher disease link likely explains the lysosomal storage disease predictions, but voglibose does not act on lysosomal acid lipase.
 
 ## Clinical Trial Evidence
 

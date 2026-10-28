@@ -4,17 +4,17 @@ title: Oxaprozin
 parent: Model Prediction Only (L5)
 nav_order: 626
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Oxaprozin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis…"
 monitor_inn: "Oxaprozin"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Oxaprozin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 |------|------|
 | Original Indication | Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy (the Indian licence record contains no indication text) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Oxaprozin is an NSAID, and NSAIDs act by inhibiting cyclooxygenase (COX) and reducing prostaglandin-mediated inflammation and pain. Its efficacy in inflammatory and degenerative joint disease is established.
 
-Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by mutations in the CDMP1/GDF5 gene, which disrupt bone growth signalling. No plausible mechanistic link between COX inhibition and GDF5 signalling or the underlying bone growth defect has been established. The prediction most likely reflects proximity to musculoskeletal phenotypes in the knowledge graph rather than a pharmacological rationale. At best, an NSAID might offer symptomatic joint pain relief, which is not disease modification.
+Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by mutations in the CDMP1/GDF5 gene, which disrupt bone growth signalling. No plausible mechanistic link between COX inhibition and GDF5 signalling or the underlying bone growth defect has been established. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a pharmacological rationale. At best, an NSAID might offer symptomatic joint pain relief, which is not disease modification.
 
 **Other predictions in the top 10** follow a similar pattern:
 - Most are rare skeletal or developmental syndromes (brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome), with no plausible mechanism and no evidence.
@@ -97,7 +97,7 @@ The top prediction is supported only by the TxGNN score. There are no trials or 
 - Mechanism of action data for Oxaprozin (e.g., from DrugBank)
 - Package insert warnings and contraindications for the Indian product
 - Preclinical or mechanistic evidence linking Oxaprozin to GDF5 signalling or skeletal development
-- If a related direction is of interest, prioritise the near-indication predictions (e.g., rheumatoid factor-positive polyarticular juvenile idiopathic arthritis) as indication-scope extensions, supported by subtype-specific data
+- If a related direction is of interest, prioritise the near-indication predictions as indication-scope extensions, supported by subtype-specific data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

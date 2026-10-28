@@ -6,9 +6,9 @@ nav_order: 425
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Imatinib: predicted new indication Heart fibrosarcoma (evidence level L5). Approved use: Not stated in the India licence records (approved indication text is…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
+description: "Imatinib: predicted new indication Heart fibrosarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Imatinib
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Imatinib: From Chronic Myelogenous Leukemia / GIST to Heart Fibrosarcoma
+## Imatinib: Heart fibrosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The more evidence-supported directions among the top 10 predictions are **liposa
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India licence records (approved indication text is empty). The knowledge graph lists systemic mastocytosis, GIST, BCR-ABL1-positive CML, chronic eosinophilic leukemia, dermatofibrosarcoma protuberans and hypereosinophilic syndrome |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Heart fibrosarcoma |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 (heart fibrosarcoma); L2 for the best-supported alternative, liposarcoma |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 (heart fibrosarcoma); L2 for the best-supported alternative, liposarcoma |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -128,7 +128,6 @@ All products are oral (tablets or capsules).
 | Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert; the knowledge graph flags thrombocytopenia, neutropenia and agranulocytosis as contraindication-related conditions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC, liver and renal function (suggested given the knowledge graph flags for liver disease, kidney disease and cytopenias) |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
@@ -148,7 +147,7 @@ Given the cardiac-related flags, extra caution applies if the heart is the disea
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, heart fibrosarcoma, has no clinical trials and only one indirect commentary (evidence level L4), and the high model score (99.94%) is not corroborated by data. The best-supported alternatives are soft tissue sarcoma subsets (liposarcoma, L2, with Phase 2 trials but no subtype-specific results) and fibroblastic neoplasms driven by PDGFB (DFSP, already an approved use). The remaining predictions (familial Mediterranean fever, ovarian myxoid liposarcoma, familial rhabdoid tumor) are model-only (L5).
+The top prediction, heart fibrosarcoma, has no clinical trials and only one indirect commentary (evidence level L4), and the high model score (0.9994) is not corroborated by data. The best-supported alternatives are soft tissue sarcoma subsets (liposarcoma, L2, with Phase 2 trials but no subtype-specific results) and fibroblastic neoplasms driven by PDGFB (DFSP, already an approved use). The remaining predictions (familial Mediterranean fever, ovarian myxoid liposarcoma, familial rhabdoid tumor) are model-only (L5).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)

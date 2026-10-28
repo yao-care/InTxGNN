@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **PLA2G6-associated neurodegene
 |------|------|
 | Original Indication | Parkinson disease (the data compiled for this report also lists related parkinsonian syndromes; no approved indication text is available from Indian licences) |
 | Predicted New Indication | PLA2G6-associated neurodegeneration |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -65,11 +65,11 @@ However, the underlying pathology (defective phospholipid remodelling, iron accu
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Paralysis agitans, juvenile, of Hunt | 99.25% | L4 | Within the parkinsonism spectrum. This is closer to an extension of the existing indication than true repurposing, and needs juvenile and paediatric safety and efficacy confirmation. Recommendation: Research Question |
-| Rasmussen subacute encephalitis | 99.56% | L5 | No clear mechanistic rationale for a T-cell-mediated disease. Likely a graph artefact |
-| Myelitis | 99.32% | L5 | No established anti-inflammatory role. Only indirect preclinical neuroprotection |
-| Transaldolase deficiency | 99.19% | L5 | No mechanistic link. Hepatic involvement would need caution given rasagiline's CYP1A2 metabolism |
-| Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis | 99.01% | L5 | A structural malformation is not expected to respond to a symptomatic MAO-B inhibitor |
+| Paralysis agitans, juvenile, of Hunt | 0.9925 | L5 | Within the parkinsonism spectrum. This is closer to an extension of the existing indication than true repurposing, and needs juvenile and paediatric safety and efficacy confirmation. Recommendation: Research Question |
+| Rasmussen subacute encephalitis | 0.9956 | L5 | No clear mechanistic rationale for a T-cell-mediated disease. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| Myelitis | 0.9932 | L5 | No established anti-inflammatory role. Only indirect preclinical neuroprotection |
+| Transaldolase deficiency | 0.9919 | L5 | No mechanistic link. Hepatic involvement would need caution given rasagiline's CYP1A2 metabolism |
+| Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis | 0.9901 | L5 | A structural malformation is not expected to respond to a symptomatic MAO-B inhibitor |
 
 ## Clinical Trial Evidence
 

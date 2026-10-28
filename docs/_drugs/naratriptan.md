@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Naratriptan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 580
-evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-14
-description: "Naratriptan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder (migraine with or without aura)"
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-10-28
 monitor_inn: "Naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Naratriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Naratriptan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Naratriptan: From Migraine to Migraine with Brainstem Aura
+## Naratriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Naratriptan is a triptan originally used to treat acute migraine.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, a migraine subtype. However, there are **no registered clinical trials** and the **20 publications** identified are mostly general migraine or triptan studies, so the prediction is supported mainly by similarity to the approved indication.
+However, there are **no registered clinical trials** and the **20 publications** identified are mostly general migraine or triptan studies, so the prediction is supported mainly by similarity to the approved indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder (migraine with or without aura) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9974 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ Migraine with brainstem aura is a subtype of migraine, so the underlying pathoph
 
 There are two caveats. First, none of the supplied literature studies brainstem aura specifically. Second, triptans have historically been used cautiously in this subtype (formerly called basilar-type migraine) because of theoretical vasoconstriction concerns. The high TxGNN score largely reflects similarity to the approved migraine indication, not independent evidence.
 
-Two other predictions were also reviewed (atrophoderma vermiculata, 99.74%, and ulerythema ophryogenesis, 99.47%). Both have no clinical trials or literature and no plausible mechanistic link to 5-HT1B/1D agonism, so they are held at the model-prediction-only level (L5).
+Two other predictions were also reviewed (atrophoderma vermiculata, 0.9974, and ulerythema ophryogenesis, 0.9947). Both have no clinical trials or literature and no plausible mechanistic link to 5-HT1B/1D agonism, so they are held at the model-prediction-only level (L5).
 
 ## Clinical Trial Evidence
 

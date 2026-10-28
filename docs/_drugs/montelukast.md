@@ -4,17 +4,17 @@ title: Montelukast
 parent: High Evidence (L1-L2)
 nav_order: 568
 evidence_level: L2
-indication_count: 5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Allergic rhinitis, vasomotor rhinitis, intrinsic asthma…"
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-## Montelukast: From Allergic Rhinitis and Asthma to Bronchitis (Bronchiolitis)
+## Montelukast: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **bronchitis**, a label that in
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, intrinsic asthma, allergic asthma (the India licence records contain no approved-indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (research question only) |
 
@@ -130,10 +130,8 @@ Several randomised trials in infant bronchiolitis exist, including a large Phase
 
 ## Other Predicted Indications (Brief Note)
 
-- **Atopic eczema** (score 99.81%, L1): Three Phase 4 trials exist, but the Cochrane review of leukotriene receptor antagonists for eczema (PMID 30343498) did not find convincing benefit. The signal is inconsistent.
-- **Asthma** (score 99.54%, L1, Proceed with Guardrails): This is effectively an on-label indication rather than true repurposing. Large Phase 3 trials exist, with neuropsychiatric monitoring as a guardrail.
-- **Obstructive lung disease** (score 99.34%, L1): The supporting trials are essentially the same asthma trials. No data demonstrate benefit in COPD or other non-asthmatic obstructive disease.
-- **Asthma-related traits, susceptibility to** (score 99.22%, L5, Hold): This is a genetic trait category with no clinical trials or literature, so it provides no actionable evidence.
+- **Atopic eczema** (score 0.9981, L1): Three Phase 4 trials exist, but the Cochrane review of leukotriene receptor antagonists for eczema (PMID 30343498) did not find convincing benefit. The signal is inconsistent.
+- **Obstructive lung disease** (score 0.9934, L1): The supporting trials are essentially the same asthma trials. No data demonstrate benefit in COPD or other non-asthmatic obstructive disease.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -6,9 +6,9 @@ nav_order: 606
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). Approved use: Asthma, intrinsic asthma, allergic asthma, bronchitis…"
 monitor_inn: "Norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
+description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Norepinephrine
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Norepinephrine: From Asthma and Hypotensive Disorders to Obstructive Lung Disease
+## Norepinephrine: Obstructive lung disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, b
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma, intrinsic asthma, allergic asthma, bronchitis, hypotensive disorder, pulmonary emphysema, bronchiectasis (the indication text in the local licences is blank; these come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -110,7 +110,7 @@ Package-insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.84%) is not backed by direct clinical evidence: the only trial is an indirect Phase 1 hypertension study, and the literature is mechanistic. Norepinephrine's cardiovascular effects add risk in COPD patients, and the registered products are injections only.
+The high TxGNN score (0.9984) is not backed by direct clinical evidence: the only trial is an indirect Phase 1 hypertension study, and the literature is mechanistic. Norepinephrine's cardiovascular effects add risk in COPD patients, and the registered products are injections only.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (blocking for safety screening)
@@ -119,8 +119,8 @@ The high TxGNN score (99.84%) is not backed by direct clinical evidence: the onl
 - A cardiovascular risk assessment for patients with COPD and comorbid heart disease or hypoxaemia
 
 *Other predictions, not recommended for further work at this stage:*
-- **Respiratory malformation** (score 99.84%, L5): no clinical trials, and the literature is physiological or safety-related. A vasopressor has no clear therapeutic role.
-- **Rienhoff syndrome** (score 99.83%, L5): no trials or literature; this is a computational hypothesis only.
+- **Respiratory malformation** (score 0.9984, L5): no clinical trials, and the literature is physiological or safety-related. A vasopressor has no clear therapeutic role.
+- **Rienhoff syndrome** (score 0.9983, L5): no trials or literature; this is a computational hypothesis only.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Amifostine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 47
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Amifostine: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not stated in the available licence records (the drug is known as a c…"
 monitor_inn: "Amifostine"
-predicted_indications: ["hypertensive disorder", "alopecia", "congenital hypotrichosis milia", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata"]
+predicted_indications: ["hypertensive disorder", "alopecia", "congenital hypotrichosis milia", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata"]
 ---
 
 # Amifostine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Amifostine can itself cause hypotension, which makes this prediction hard to jus
 |------|------|
 | Original Indication | Not stated in the available licence records (the drug is known as a cytoprotectant in cancer therapy) |
 | Predicted New Indication | Hypertensive disorder |
-| TxGNN Prediction Score | 99.995% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 (preclinical and mechanistic literature only; no direct studies) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-14
-description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Vitamin B12 deficiency, pernicious anaemia…"
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
+last_modified_at: 2026-10-27
+description: "Cyanocobalamin: predicted new indication biotin metabolic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cyanocobalamin
@@ -33,34 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Cyanocobalamin: From Vitamin B12 Deficiency to Biotin Metabolic Disease
+## Cyanocobalamin: vitamin B12 (cobalamin) → biotin metabolic disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cyanocobalamin (vitamin B12) is originally used to treat vitamin B12 deficiency and related anaemias, including pernicious anaemia.
-The TxGNN model predicts it may be effective for **biotin metabolic disease**, but this is a graph-based prediction only.
-There are **no clinical trials** and only **1 loosely related publication** (a 1992 review on vitamin production), so direct evidence is essentially absent.
+Cyanocobalamin is a synthetic form of vitamin B12, a cobalamin cofactor used to correct B12-related deficiency states.
+The TxGNN model predicts it may be relevant to **biotin metabolic disease**, but the evidence is thin: **0 clinical trials** and **1 publication** (a general review on vitamin production, not a study of this disease).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin B12 deficiency, pernicious anaemia, folic acid deficiency anaemia, iron deficiency anaemia and other deficiency anaemias (the Indian licence records contain no indication text; these come from the knowledge graph) |
-| Predicted New Indication | Biotin metabolic disease |
-| TxGNN Prediction Score | 99.60% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | biotin metabolic disease |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cyanocobalamin is a form of vitamin B12 that serves as a cofactor for methionine synthase and methylmalonyl-CoA mutase. Its efficacy in B12 deficiency states is well established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Cyanocobalamin is known to act as a cofactor for two enzymes: methionine synthase and methylmalonyl-CoA mutase.
 
-Biotin metabolic disorders (for example, biotinidase or holocarboxylase synthetase deficiency) arise from defects in biotin recycling or in biotin-dependent carboxylases. The two vitamins share only a loose pathway context: the biotin-dependent propionyl-CoA carboxylase and the cobalamin-dependent methylmalonyl-CoA mutase act in sequence in the propionyl-CoA/methylmalonate pathway.
+Biotin metabolic diseases (for example biotinidase deficiency or holocarboxylase synthetase deficiency) involve defects in biotin recycling or in biotin-dependent carboxylases. The only link to cyanocobalamin is a loose shared pathway context: propionyl-CoA carboxylase depends on biotin, while methylmalonyl-CoA mutase depends on cobalamin, and both sit on the propionyl-CoA/methylmalonate route.
 
-This overlap is probably the reason for the high network score, rather than evidence of therapeutic benefit. The data compiled for this report do not support a plausible direct mechanistic link, and the prediction should be treated as a hypothesis only. Biotin disorders are conventionally treated with biotin itself, not B12.
+This overlap is the more likely source of the high model score than any therapeutic benefit. The score of 0.9960 reflects a model-based prediction only, and no data compiled here supports a direct treatment effect. The prediction should be treated as a hypothesis.
 
 ## Clinical Trial Evidence
 
@@ -70,40 +69,38 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1368195](https://pubmed.ncbi.nlm.nih.gov/1368195/) | 1992 | Review | Journal of Chemical Technology and Biotechnology | Overview of biotechnological production of vitamins and coenzymes. It concerns manufacturing, not treatment of biotin metabolic disease, so it offers no clinical support. |
+| [1368195](https://pubmed.ncbi.nlm.nih.gov/1368195/) | 1992 | Review | Journal of Chemical Technology and Biotechnology | Overview of biotechnological production of vitamins and coenzymes; does not study biotin metabolic disease or treatment with cyanocobalamin |
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 173652 | Polybion Injection 2ml | Ampoule of 5 injections | Not stated in the licence record |
-| 94517 | Genoplex-L Syrup | Bottle of 60 ml syrup | Not stated in the licence record |
-| 26103 | Bvigor Sublingual tablet Cherry | Strip of 10 sublingual tablets | Not stated in the licence record |
-| 233952 | VIB 12 1000mcg Injection | Vial of 1 ml injection | Not stated in the licence record |
-| 224998 | Titoebion Injection | Vial of 2 ml injection | Not stated in the licence record |
+| 173652 | Polybion Injection 2ml | Ampoule of 5 injections | Not recorded |
+| 94517 | Genoplex-L Syrup | Bottle of 60 ml syrup | Not recorded |
+| 26103 | Bvigor Sublingual tablet Cherry | Strip of 10 sublingual tablets | Not recorded |
+| 233952 | VIB 12 1000mcg Injection | Vial of 1 ml injection | Not recorded |
+| 224998 | Titoebion Injection | Vial of 2 ml injection | Not recorded |
 
-Eight valid single-ingredient licences are registered in total; the five above are shown.
+All 8 licences are single-ingredient products and currently valid; the table lists the first five.
 
 ## Safety Considerations
 
-- **Drug Interactions**: 313 interactions are recorded. The ones listed here are all minor or of unknown severity, and none is rated major.
-  - Minor: acid-suppressing drugs (famotidine, ranitidine, cimetidine, nizatidine, omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole, rabeprazole) and potassium chloride. These may reduce B12 absorption with long-term use.
-  - Unknown severity: metformin, glimepiride, rosiglitazone, acarbose, mesalazine, doxycycline, morphine, sucralfate.
+Please refer to the package insert for safety information.
 
-Please refer to the package insert for warnings and contraindications.
+The drug-interaction screening returned 313 records. The ones listed are mostly minor, including acid-suppressing drugs (famotidine, ranitidine, cimetidine, omeprazole, pantoprazole, esomeprazole, lansoprazole, rabeprazole) and potassium chloride. Several others have an unrated level, including metformin, glimepiride, acarbose, rosiglitazone, doxycycline, mesalazine, morphine and sucralfate.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.60%) is not backed by any clinical trial or relevant publication. The only mechanistic overlap is adjacent pathway context, not therapeutic rationale. Evidence is at the model-prediction-only level (L5).
+The prediction rests only on a model score. No clinical trial or publication directly studies cyanocobalamin in biotin metabolic disease, and the mechanistic link is indirect, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for cyanocobalamin
-- A literature search for B12 use in biotinidase or holocarboxylase synthetase deficiency, and any biochemical rationale
-- Package insert warnings and contraindications for the Indian-marketed products
-- Preclinical or mechanistic studies to test whether the predicted link has any biological basis
+- Mechanism-of-action data for cyanocobalamin, to test the proposed pathway link
+- Preclinical or clinical studies directly addressing biotin metabolic disease
+- Package insert warnings and contraindications from the licence holders
+- Review of the large set of recorded drug interactions for relevance to the intended population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

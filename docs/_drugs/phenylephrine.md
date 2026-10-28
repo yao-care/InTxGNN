@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Phenylephrine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 665
-evidence_level: L5
-indication_count: 3
+evidence_level: L4
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Phenylephrine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 ---
 
 # Phenylephrine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ The prediction overlaps heavily with existing indications, so it is best treated
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, conjunctivitis (atopic, papillary, vernal), headache disorder, hemorrhoid, proctitis (the India licence records contain no approved-indication text) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 (L5 would apply to model prediction alone; indirect literature exists, but no completed trials) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -90,7 +90,7 @@ All 20 registrations are valid single-ingredient licences. The records contain n
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** the TxGNN knowledge graph links phenylephrine to contraindications in several disease groups:
+- **Contraindications (TxGNN model output, not label text):** the TxGNN model (deep learning) links phenylephrine to contraindications in several disease groups; these associations may reflect similarities the model learned between related diseases, not biological evidence:
   - Cardiovascular: hypertension and hypertensive disorder
   - Hepatic and renal: liver failure, liver disease, kidney disease
   - Respiratory: COPD

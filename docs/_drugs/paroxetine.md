@@ -6,9 +6,9 @@ nav_order: 648
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Anxiety disorder, major depressive disorder…"
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
+description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Paroxetine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Paroxetine: From Depression and Anxiety Disorders to Ohdo Syndrome and Variants
+## Paroxetine: Ohdo syndrome and variants
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, major depressive disorder, obsessive-compulsive disorder, post-traumatic stress disorder, social phobia (from the knowledge graph; no approved indication text is available from the India registrations) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ohdo syndrome and variants |
-| TxGNN Prediction Score | 99.11% |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 397
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Constipation disorder"
+last_modified_at: 2026-10-28
 monitor_inn: "Glycerin"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
+description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Glycerin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Glycerin: From Constipation to Cauda Equina Syndrome
+## Glycerin: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The best-supported alternative among the top 10 predictions is **open-angle glau
 
 | Item | Content |
 |------|------|
-| Original Indication | Constipation disorder |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.60% |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,11 +58,11 @@ The best-supported alternative among the top 10 predictions is **open-angle glau
 
 Currently, detailed mechanism of action data is not available. Based on known information, glycerin is a hyperosmotic agent. Its efficacy in constipation is established, as it draws water into the bowel lumen.
 
-For cauda equina syndrome, no mechanistic link has been identified. The high TxGNN score is a graph-based association with no supporting clinical or literature evidence, so the prediction should be treated as a hypothesis only.
+For cauda equina syndrome, no mechanistic link has been identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There is no supporting clinical or literature evidence, so the prediction should be treated as a hypothesis only.
 
 Other predictions in the top 10 are also weak:
-- **Open-angle glaucoma (99.59%, L4):** Oral glycerin has a historical role as a hyperosmotic agent that lowers intraocular pressure, which gives a plausible indirect rationale. However, it was used mainly for acute angle-closure episodes rather than chronic open-angle glaucoma. The retrieved papers address closed-angle glaucoma pathogenesis, glycerin-preserved corneoscleral grafts, and osmoprotection in dry eye, and none supports efficacy.
-- **Irritable bowel syndrome (99.49%, L4):** Glycerin's osmotic laxative action gives indirect relevance to constipation-predominant IBS. The literature is weak, a 1964 commentary and an unrelated nanoemulsion paper.
+- **Open-angle glaucoma (0.9959, L4):** Oral glycerin has a historical role as a hyperosmotic agent that lowers intraocular pressure, which gives a plausible indirect rationale. However, it was used mainly for acute angle-closure episodes rather than chronic open-angle glaucoma. The retrieved papers address closed-angle glaucoma pathogenesis, glycerin-preserved corneoscleral grafts, and osmoprotection in dry eye, and none supports efficacy.
+- **Irritable bowel syndrome (0.9949, L4):** Glycerin's osmotic laxative action gives indirect relevance to constipation-predominant IBS. The literature is weak, a 1964 commentary and an unrelated nanoemulsion paper.
 - **Alopecia, hypotrichosis and alopecia areata variants, migraine and migraine with brainstem aura, primary hereditary glaucoma:** prediction only, with no credible mechanistic rationale.
 
 ## Clinical Trial Evidence
@@ -111,7 +111,7 @@ Doxycycline is the one listed minor interaction. Clinical significance should be
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, cauda equina syndrome, rests only on a graph-based score with no trials, no literature, and no mechanistic link. Even the more plausible candidates (open-angle glaucoma, IBS) lack supporting efficacy evidence. The India market is well established, but the registered products are all injectable or infusion forms and have no recorded indication text.
+The top prediction, cauda equina syndrome, rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials, no literature, and no mechanistic link. Even the more plausible candidates (open-angle glaucoma, IBS) lack supporting efficacy evidence. The India market is well established, but the registered products are all injectable or infusion forms and have no recorded indication text.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for glycerin

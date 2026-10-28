@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Entecavir
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 309
-evidence_level: L5
-indication_count: 10
+evidence_level: L3
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L5). Approved use: Chronic hepatitis B virus infection"
 monitor_inn: "Entecavir"
-predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Entecavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Entecavir: From Chronic Hepatitis B Virus Infection to Chronic Hepatitis C Virus Infection
+## Entecavir: Chronic hepatitis C virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis B virus infection |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Chronic hepatitis C virus infection |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L3 (indirect evidence only; no direct evidence of anti-HCV activity) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 
 Detailed mechanism of action data is not currently available in the data compiled for this report. From general knowledge, entecavir is a guanosine nucleoside analogue. Once converted to its triphosphate form inside cells, it inhibits the HBV polymerase and blocks viral DNA synthesis.
 
-HCV is an RNA virus that replicates with a different enzyme (NS5B RNA-dependent RNA polymerase), and entecavir has no recognized direct activity against it. The high TxGNN score most likely reflects how close the two hepatitis viruses sit in the knowledge graph, not a shared drug target.
+HCV is an RNA virus that replicates with a different enzyme (NS5B RNA-dependent RNA polymerase), and entecavir has no recognized direct activity against it. The high TxGNN score (deep learning model) may reflect similarities the model learned between related diseases, not biological evidence.
 
 The one plausible clinical link is co-infection. In patients with both HBV and HCV, anti-HCV direct-acting antiviral (DAA) therapy can trigger HBV reactivation, and entecavir can suppress that reactivation. This is HBV management in co-infected patients rather than anti-HCV efficacy, so it does not support a true repurposing claim for HCV.
 
@@ -104,7 +104,7 @@ Entecavir has 20 valid single-ingredient registrations in India, all oral tablet
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: impaired renal function, fatty liver disease, non-alcoholic steatohepatitis, lactic acidosis.
+- **Contraindications (TxGNN model (deep learning) associations, which may reflect similarities the model learned between related diseases, not biological evidence; not label text)**: impaired renal function, fatty liver disease, non-alcoholic steatohepatitis, lactic acidosis.
 - **Drug Interactions**: 44 interactions were identified, and the 20 listed are all moderate. Several involve agents that can affect renal function: amphotericin B (including lipid, liposomal and cholesteryl sulfate forms), vancomycin, kanamycin, neomycin, polymyxin B, levofloxacin and amoxicillin. Others include metformin, the H2 blockers famotidine, ranitidine and cimetidine, the aminosalicylates mesalazine, balsalazide, olsalazine and sulfasalazine, and orlistat.
 - **Other known signals (from the literature)**: lactic acidosis, post-treatment hepatitis flares, and rare thrombocytopenia.
 

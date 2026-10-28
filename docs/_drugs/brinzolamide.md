@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brinzolamide
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 116
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Brinzolamide: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma, ocular hypertension"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brinzolamide: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Brinzolamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,56 +32,66 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Brinzolamide: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+<!-- known-uses-page -->
+<!-- description: Brinzolamide: known uses and market status in India; currently no new candidate indication -->
+## Brinzolamide: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Brinzolamide, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use found, primary hereditary glaucoma, is supported by a licence in another country.
 
-Brinzolamide is a topical eye drop originally used to treat open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on model output alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma, ocular hypertension |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on established pharmacology, brinzolamide is a topical carbonic anhydrase II inhibitor. It lowers intraocular pressure (IOP) by reducing aqueous humour secretion.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| primary hereditary glaucoma | licence in another country (approved indication: glaucoma) |
 
-Elevated IOP is the shared final pathway in most glaucomas, regardless of genetic cause. Lowering IOP is therefore plausibly relevant to hereditary forms such as primary congenital or juvenile open-angle glaucoma.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The high TxGNN score most likely reflects close network proximity to the approved indications rather than independent evidence. This is largely an extension within the same disease family, not a true repurposing. Congenital forms are often managed surgically, and paediatric use would need separate evaluation.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-Brinzolamide has 20 valid single-ingredient registrations in India and no cancelled ones. The registered approved-indication text is blank for all of them. Main authorizations:
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 811 | Azarga Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26679 | B2 Doc Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26342 | Brinolar BKC Free Eye Drop | bottle of 5 ml Opthalmic Suspension | Valid |
+| 201460 | Sentibrim-BZ Opthalmic Suspension | bottle of 5 ml Opthalmic Suspension | Valid |
+| 199916 | Synca Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 59726 | Duo 2 Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26144 | Brinzolast Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26032 | Brinzox-T Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 123726 | Lupibrin Eye Drop | bottle of 5 ml Opthalmic Suspension | Valid |
+| 25952 | Brinzotim Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 25930 | Betafree Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26947 | Brinzemic-B Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26865 | Brinzodoc 1% Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26360 | Brinzagan Opthalmic Suspension | packet of 5 ml Opthalmic Suspension | Valid |
+| 335 | Azopt Opthalmic Suspension | bottle of 5 ml Eye Drop | Valid |
+| 216795 | Tregmon Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 26646 | Brivizac Eye Drop | bottle of 5 ml Eye Drop | Valid |
+| 199796 | Simbrinza Opthalmic Suspension | packet of 5 ml Opthalmic Suspension | Valid |
+| 25981 | Brinzox Opthalmic Suspension | bottle of 5 ml Opthalmic Suspension | Valid |
+| 25935 | Brivex Eye Drop | packet of 5 ml Eye Drop | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 335 | Azopt Opthalmic Suspension (Alcon Laboratories) | Bottle of 5 ml eye drop | Not specified |
-| 811 | Azarga Eye Drop (Novartis India Ltd) | Bottle of 5 ml eye drop | Not specified |
-| 199796 | Simbrinza Opthalmic Suspension (Alcon Laboratories) | Packet of 5 ml ophthalmic suspension | Not specified |
-| 26342 | Brinolar BKC Free Eye Drop (Sun Pharmaceutical Industries Ltd) | Bottle of 5 ml ophthalmic suspension | Not specified |
-| 26360 | Brinzagan Opthalmic Suspension (Allergan India Pvt Ltd) | Packet of 5 ml ophthalmic suspension | Not specified |
-
-All products are ophthalmic eye drops or suspensions.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -88,19 +99,6 @@ All products are ophthalmic eye drops or suspensions.
 
 Please refer to the package insert for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the model score (Evidence Level L5), with no clinical trials or publications for hereditary glaucoma. The drug is already widely marketed for related glaucoma indications in India, but efficacy and safety in hereditary and congenital forms, especially in children, are unverified.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications (from the Indian regulatory sources), which are currently missing and block safety screening
-- Detailed mechanism of action data (for example from DrugBank)
-- A literature and trial search on brinzolamide in hereditary, congenital and juvenile glaucoma
-- A paediatric safety and dosing assessment
-- Clinical significance grading of the listed drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

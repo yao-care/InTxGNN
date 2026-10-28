@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Tulobuterol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 873
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Tulobuterol: predicted new indication Bronchitis (evidence level L4). Approved use: Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema"
 monitor_inn: "Tulobuterol"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory m
 # Tulobuterol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ This is a computational prediction with limited direct clinical support.
 |------|------|
 | Original Indication | Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.998% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,7 +64,7 @@ This evidence is indirect. Neither available publication is a bronchitis-specifi
 
 **Other predictions in the same analysis:**
 - **Obstructive lung disease and chronic obstructive pulmonary disease (COPD):** these are close to the approved uses, so they are largely on-label or near-label rather than true repurposing. Evidence is stronger (L3), including Phase 4 trials and comparative studies (see below).
-- **Respiratory malformation, Rienhoff syndrome, compensatory emphysema, interstitial emphysema, hyperlucent lung, tracheal stenosis and congenital lobar emphysema:** no plausible mechanistic link or clinical evidence was found. Several involve fixed structural problems that bronchodilation is unlikely to change. These predictions appear to rest on knowledge-graph associations.
+- **Respiratory malformation, Rienhoff syndrome, hyperlucent lung and tracheal stenosis:** no plausible mechanistic link or clinical evidence was found. Several involve fixed structural problems that bronchodilation is unlikely to change. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

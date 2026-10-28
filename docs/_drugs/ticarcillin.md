@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ticarcillin: predicted new indication Lymph node palisaded myofibroblastoma (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bacterial pneumonia…"
 monitor_inn: "Ticarcillin"
-predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "sacrum chordoma", "disease of retroperitoneum", "urethral disease", "disease of uterine broad ligament", "disease of peritoneum", "pelvic varices"]
+predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "sacrum chordoma", "disease of retroperitoneum", "urethral disease", "disease of uterine broad ligament", "disease of peritoneum", "pelvic varices"]
 ---
 
 # Ticarcillin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ticarcillin: From Bacterial Infections to Disease of Peritoneum
+## Ticarcillin: From Bacterial Infections to Lymph Node Palisaded Myofibroblastoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,13 +47,13 @@ The TxGNN model's top-ranked prediction is **lymph node palisaded myofibroblasto
 |------|------|
 | Original Indication | Bacterial infections (urinary tract infection, bacterial pneumonia, staphylococcal infection, pelvic inflammatory disease, etc.) |
 | Predicted New Indication | Lymph node palisaded myofibroblastoma (rank 1); disease of peritoneum (rank 9) is the only candidate with literature support |
-| TxGNN Prediction Score | 99.82% (rank 1); 99.81% (disease of peritoneum) |
+| TxGNN Prediction Score | 0.9982 (rank 1); 0.9981 (disease of peritoneum) |
 | Evidence Level | L5 (rank 1); L3 (disease of peritoneum) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold (rank 1); Hold overall, with disease of peritoneum as a research question |
 
-The India approved-indication text was not available in the data compiled for this report, so the original indication above comes from the drug's known indications in the knowledge graph.
+The India approved-indication text was not available in the data compiled for this report, so the original indication above is not drawn from an India-specific approved-indication text.
 
 ## Why is This Prediction Reasonable?
 

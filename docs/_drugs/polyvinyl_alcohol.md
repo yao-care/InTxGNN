@@ -6,9 +6,9 @@ nav_order: 686
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Dry eye syndrome, xerophthalmia"
 monitor_inn: "Polyvinyl alcohol"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
+description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Polyvinyl Alcohol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Polyvinyl Alcohol: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
+## Polyvinyl Alcohol: Congenital ichthyosiform erythroderma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Dry eye syndrome, xerophthalmia (the approved indication text on the Indian licences is blank; this comes from the knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
+| India Market Status | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,10 +66,10 @@ Other predictions from the model follow the same pattern, all with no supporting
 
 | Predicted Indication | TxGNN Score | Evidence Level |
 |------|------|------|
-| Congenital ichthyosiform erythroderma | 99.90% | L5 |
-| Self-healing collodion baby | 99.83% | L5 |
-| Lamellar ichthyosis | 99.72% | L5 |
-| Bathing suit ichthyosis | 99.54% | L5 |
+| Congenital ichthyosiform erythroderma | 0.9990 | L5 |
+| Self-healing collodion baby | 0.9983 | L5 |
+| Lamellar ichthyosis | 0.9972 | L5 |
+| Bathing suit ichthyosis | 0.9954 | L5 |
 
 For self-healing collodion baby, the condition resolves on its own, and the safety of topical polyvinyl alcohol on a newborn's compromised skin (where absorption through the skin is higher) has not been assessed.
 

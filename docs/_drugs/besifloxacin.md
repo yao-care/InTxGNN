@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this is a c
 |------|------|
 | Original Indication | Conjunctivitis (including acute contagious conjunctivitis) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available from the compiled 
 
 Bacterial bronchitis is plausibly within the antibacterial spectrum of a fluoroquinolone, which is likely why the model scores it highly. However, besifloxacin is formulated only as an ophthalmic suspension with minimal systemic exposure, so there is no pharmacological basis for efficacy in the respiratory tract. The high score reflects a network-based association, not demonstrated activity.
 
-Other predictions for this drug are similarly weak. The most mechanistically plausible alternative is **otitis externa** (score 99.03%), because topical fluoroquinolones such as ciprofloxacin and ofloxacin are established there. Even so, besifloxacin is not formulated or tested for ear use, and no trials or literature exist for it.
+Other predictions for this drug are similarly weak. The most mechanistically plausible alternative is **otitis externa** (score 0.9903), because topical fluoroquinolones such as ciprofloxacin and ofloxacin are established there. Even so, besifloxacin is not formulated or tested for ear use, and no trials or literature exist for it.
 
 ## Clinical Trial Evidence
 

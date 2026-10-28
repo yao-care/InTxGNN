@@ -4,17 +4,17 @@ title: Insulin Glulisine
 parent: Model Prediction Only (L5)
 nav_order: 438
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Insulin Glulisine: predicted new indication Type 1 diabetes mellitus (evidence level L5). Approved use: Diabetes mellitus"
 monitor_inn: "Insulin glulisine"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Glulisine: predicted new indication Thiamine-responsive dysfunction syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Insulin Glulisine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Insulin Glulisine: From Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Insulin Glulisine: Thiamine-responsive dysfunction syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Insulin glulisine is a rapid-acting human insulin analogue, originally used to treat diabetes mellitus and diabetic ketoacidosis.
-The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, which in practice already falls within its diabetes indication, so this is an on-label use rather than true repurposing. It is supported by **27 registered clinical trials** and **20 publications**.
+It is supported by **27 registered clinical trials** and **20 publications**.
 
 ---
 
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, w
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes mellitus; diabetic ketoacidosis (from the knowledge graph; the Indian licence records contain no approved indication text) |
-| Predicted New Indication | Type 1 diabetes mellitus |
-| TxGNN Prediction Score | 99.55% |
-| Evidence Level | L1 (assigned from published comparative trials; the Phase 3 trials listed below also support this level) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Thiamine-responsive dysfunction syndrome |
+| TxGNN Prediction Score | 0.9947 |
+| Evidence Level | L5 (assigned from published comparative trials; the Phase 3 trials listed below also support this level) |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -63,7 +63,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Type 1 diabetes is a form of diabetes mellitus, the drug's original indication, so the prediction is consistent with existing use. Insulin replacement is the cornerstone of type 1 diabetes therapy. The drug has been studied extensively in mealtime (prandial) use, basal-bolus regimens with insulin glargine, and pump (CSII) therapy.
 
-Other top-ranked predictions (e.g., stiff person syndrome, autoimmune oophoritis, lipodystrophies) mostly reflect comorbidity or side-effect associations in the knowledge graph rather than therapeutic rationale, and are not pursued here.
 
 ---
 

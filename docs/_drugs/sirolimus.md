@@ -4,7 +4,7 @@ title: Sirolimus
 parent: Moderate Evidence (L3-L4)
 nav_order: 775
 evidence_level: L3
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal cell carcinoma (including clear cell and non-papillary subtypes)"
 monitor_inn: "Sirolimus"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine co
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Among the other predictions, **lymphangiomyoma (LAM)** has by far the strongest 
 |------|------|
 | Original Indication | Renal cell carcinoma (including clear cell and non-papillary subtypes); lymphangioleiomyomatosis |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold (research question; not ready to advance) |
 
 ## Why is This Prediction Reasonable?
@@ -104,7 +104,7 @@ Available forms are oral (tablet, capsule) and injectable.
 
 ## Safety Considerations
 
-- **Contraindication signals (knowledge-graph associations, not label text):** hypertension, kidney disease, liver disease, hyperglycaemia and diabetes, hyperlipidaemia and hypertriglyceridaemia, infections (including pneumocystosis and cytomegalovirus infection), interstitial lung disease, stroke and cerebrovascular disorders, hyperbilirubinaemia, pericardial effusion, progressive multifocal leukoencephalopathy, and certain cancers (including brain cancer). These should be verified against the product label.
+- **Contraindication signals (from the TxGNN model (deep learning); these may reflect similarities the model learned between related diseases, not biological evidence, and are not label text):** hypertension, kidney disease, liver disease, hyperglycaemia and diabetes, hyperlipidaemia and hypertriglyceridaemia, infections (including pneumocystosis and cytomegalovirus infection), interstitial lung disease, stroke and cerebrovascular disorders, hyperbilirubinaemia, pericardial effusion, progressive multifocal leukoencephalopathy, and certain cancers (including brain cancer). These should be verified against the product label.
 - **Drug Interactions:** 645 interactions were identified. Major interactions include amphotericin B (including lipid complex), clarithromycin, mesalazine and balsalazide. Moderate interactions include corticosteroids (dexamethasone, hydrocortisone, betamethasone, budesonide, triamcinolone), antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, dapagliflozin, chlorpropamide, albiglutide), cimetidine and aprepitant.
 
 Please refer to the package insert for label warnings and contraindications.
@@ -113,11 +113,11 @@ Please refer to the package insert for label warnings and contraindications.
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 5 | Lymphangiomyoma (LAM) | 99.79% | L1 | Proceed with Guardrails. Phase 3 MILES trial ([NCT00414648](https://clinicaltrials.gov/study/NCT00414648), n=89, completed) plus the ongoing Phase 3 early-disease trial ([NCT03150914](https://clinicaltrials.gov/study/NCT03150914)). This is an established use, not true repurposing. |
-| 9 | Lung PEComa | 99.63% | L3 | Proceed with Guardrails. Evidence is transferred from LAM; confirm the diagnosis. |
-| 4 | Benign PEComa | 99.80% | L4 | Research Question. Strong mechanism (TSC1/TSC2 loss), but support is mostly case reports. |
-| 3 | Uterine corpus PEComa | 99.80% | L4 | Research Question. No site-specific records. |
-| 2, 6, 7, 8, 10 | Ovarian myxoid liposarcoma, unclassified RCC, RCC with neuroblastoma, Xp11.2/TFE3 RCC, vulva sarcoma | 99.6–99.8% | L5 | Hold. Prediction score only, with no direct evidence. |
+| 5 | Lymphangiomyoma (LAM) | 0.9979 | L5 | Proceed with Guardrails. Phase 3 MILES trial ([NCT00414648](https://clinicaltrials.gov/study/NCT00414648), n=89, completed) plus the ongoing Phase 3 early-disease trial ([NCT03150914](https://clinicaltrials.gov/study/NCT03150914)). This is an established use, not true repurposing. |
+| 9 | Lung PEComa | 0.9963 | L5 | Proceed with Guardrails. Evidence is transferred from LAM; confirm the diagnosis. |
+| 4 | Benign PEComa | 0.9980 | L5 | Research Question. Strong mechanism (TSC1/TSC2 loss), but support is mostly case reports. |
+| 3 | Uterine corpus PEComa | 0.9980 | L5 | Research Question. No site-specific records. |
+| 2, 6, 7, 8, 10 | Ovarian myxoid liposarcoma, unclassified RCC, RCC with neuroblastoma, Xp11.2/TFE3 RCC, vulva sarcoma | 99.6–0.9980 | L5 | Hold. Prediction score only, with no direct evidence. |
 
 ## Conclusion and Next Steps
 

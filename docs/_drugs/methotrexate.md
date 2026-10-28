@@ -4,17 +4,17 @@ title: Methotrexate
 parent: Model Prediction Only (L5)
 nav_order: 535
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Acute lymphoblastic leukemia, non-Hodgkin lymphoma…"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Methotrexate: From Acute Lymphoblastic Leukemia, Rheumatoid Arthritis and Psoriasis to Pulmonary Blastoma
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ Among the other top-10 predictions, **Hodgkin lymphoma** (44 trials, 20 publicat
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia, non-Hodgkin lymphoma, rheumatoid arthritis, psoriasis, mycosis fungoides (from the knowledge graph; no approved-indication text is available for the Indian licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pulmonary blastoma |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,15 +60,12 @@ Other predictions in the top 10 (for context):
 
 | Rank | Predicted Indication | Score | Evidence Level | Recommendation |
 |---|---|---|---|---|
-| 2 | Primary pulmonary lymphoma | 99.45% | L4 | Hold |
-| 3 | Small cell lung carcinoma | 99.43% | L4 | Hold |
-| 4 | Well-differentiated fetal adenocarcinoma of the lung | 99.42% | L5 | Hold |
-| 5 | Hodgkin lymphoma | 99.32% | L3 | Research question |
-| 6 | Rhabdomyosarcoma | 99.25% | L2 | Research question |
-| 7 | CLL/SLL with mutated IGHV | 99.23% | L5 | Hold |
-| 8 | Pregerminal center CLL/SLL | 99.23% | L5 | Hold |
-| 9 | Parameningeal embryonal rhabdomyosarcoma | 99.21% | L5 | Hold |
-| 10 | Botryoid-type embryonal rhabdomyosarcoma of the vagina | 99.21% | L5 | Hold |
+| 2 | Primary pulmonary lymphoma | 0.9945 | L5 | Hold |
+| 4 | Well-differentiated fetal adenocarcinoma of the lung | 0.9942 | L5 | Hold |
+| 5 | Hodgkin lymphoma | 0.9932 | L3 | Research question |
+| 6 | Rhabdomyosarcoma | 0.9925 | L2 | Research question |
+| 9 | Parameningeal embryonal rhabdomyosarcoma | 0.9921 | L5 | Hold |
+| 10 | Botryoid-type embryonal rhabdomyosarcoma of the vagina | 0.9921 | L5 | Hold |
 
 ---
 
@@ -76,7 +73,7 @@ Other predictions in the top 10 (for context):
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, methotrexate is an antifolate that inhibits dihydrofolate reductase (DHFR), which limits DNA synthesis in rapidly dividing cells. Its efficacy in leukemia and lymphoma is established, and mechanistically it could be applicable to other fast-proliferating tumours.
 
-For **pulmonary blastoma** (rank 1), the data compiled for this report contain no trials, literature or mechanistic evidence. The high score likely reflects proximity to other thoracic and malignant diseases in the knowledge graph. No specific link between methotrexate and this rare lung tumour is supported here, so the prediction should be treated as a hypothesis only.
+For **pulmonary blastoma** (rank 1), the data compiled for this report contain no trials, literature or mechanistic evidence. The high score (0.9945) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No specific link between methotrexate and this rare lung tumour is supported here, so the prediction should be treated as a hypothesis only.
 
 For the better-supported predictions:
 
@@ -114,7 +111,6 @@ None of these trials tests methotrexate specifically in Hodgkin lymphoma.
 | [NCT00357084](https://clinicaltrials.gov/study/NCT00357084) | Phase 2 | Completed | 53 | Methotrexate plus glucocorticoids for acute GVHD after transplant (not tumour treatment; rhabdomyosarcoma relevance unverified) |
 | [NCT00112645](https://clinicaltrials.gov/study/NCT00112645) | Phase 1 | Completed | 10 | Allogeneic transplant toxicity in pediatric solid tumours; methotrexate likely used for GVHD prophylaxis |
 
-**Small cell lung carcinoma (rank 3)**: The trials below concern NSCLC, not SCLC.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -176,7 +172,7 @@ Both oral tablets (2.5–15 mg) and injectables (15 mg to 1000 mg vials) are mar
 
 ## Safety Considerations
 
-- **Contraindications (knowledge graph associations, not label text)**: liver failure, liver disease, kidney disease, gallbladder disease, thrombocytopenia, leukopenia, anemia (including macrocytic anemia), peptic and gastric ulcer, ulcerative colitis, inflammatory bowel disease, interstitial lung disease, pulmonary fibrosis (including postinflammatory), stomatitis, substance abuse/dependence, pyoureter, and immune system disease.
+- **Contraindications (model-derived associations, not label text)**: liver failure, liver disease, kidney disease, gallbladder disease, thrombocytopenia, leukopenia, anemia (including macrocytic anemia), peptic and gastric ulcer, ulcerative colitis, inflammatory bowel disease, interstitial lung disease, pulmonary fibrosis (including postinflammatory), stomatitis, substance abuse/dependence, pyoureter, and immune system disease.
 - **Drug Interactions**: 784 interactions are recorded. Examples classified as **Major**: rabeprazole, amoxicillin and acetylsalicylic acid. Many **Moderate** ones include doxycycline, tetracycline, clarithromycin, corticosteroids (hydrocortisone, dexamethasone, budesonide), amphotericin B, mesalazine, balsalazide and pioglitazone. Potassium citrate is Minor.
 - **Other signals from the literature**: pulmonary toxicity (relevant to any lung indication) and methotrexate-associated lymphoproliferative disorders.
 
@@ -189,7 +185,7 @@ Please refer to the package insert for label warnings; they were not available i
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, pulmonary blastoma, has only a model score (L5) with no supporting trials or literature, and the knowledge graph flags interstitial lung disease and pulmonary fibrosis as contraindications, which is a concern for lung-targeted use. The more evidence-rich predictions (Hodgkin lymphoma, rhabdomyosarcoma) are better framed as research questions than as ready-to-advance candidates, because the trials found mostly involve methotrexate as a component or for GVHD prophylaxis rather than as a tested antitumour agent.
+The top-ranked prediction, pulmonary blastoma, has only a model score (L5) with no supporting trials or literature, and interstitial lung disease and pulmonary fibrosis are listed among the contraindications, which is a concern for lung-targeted use. The more evidence-rich predictions (Hodgkin lymphoma, rhabdomyosarcoma) are better framed as research questions than as ready-to-advance candidates, because the trials found mostly involve methotrexate as a component or for GVHD prophylaxis rather than as a tested antitumour agent.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian product labels (a blocking gap for safety screening)

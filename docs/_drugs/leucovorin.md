@@ -48,9 +48,9 @@ but there are currently **no clinical trials and no publications** supporting th
 |------|------|
 | Original Indication | Megaloblastic anemia |
 | Predicted New Indication | Primary hyperoxaluria |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Primary hyperoxaluria is an inherited disorder of glyoxylate metabolism (for example, defects in AGXT, GRHPR or HOGA1) that causes the body to overproduce oxalate. A link between this pathway and folate-dependent metabolism is not established in the data compiled for this report. The high TxGNN score is therefore a statistical, model-based signal and should not be read as clinical support.
 
-A second prediction, **congenital intrinsic factor deficiency** (score 99.34%), has a more plausible rationale. This condition causes vitamin B12 malabsorption, which leads to megaloblastic anemia, the original indication. Leucovorin could partly relieve the blood-related signs. However, it does not correct B12 deficiency and may mask haematological signs while neurological damage progresses, so parenteral B12 replacement remains essential. This prediction also has no trials or literature behind it.
+A second prediction, **congenital intrinsic factor deficiency** (score 0.9934), has a more plausible rationale. This condition causes vitamin B12 malabsorption, which leads to megaloblastic anemia, the original indication. Leucovorin could partly relieve the blood-related signs. However, it does not correct B12 deficiency and may mask haematological signs while neurological damage progresses, so parenteral B12 replacement remains essential. This prediction also has no trials or literature behind it.
 
 ## Clinical Trial Evidence
 

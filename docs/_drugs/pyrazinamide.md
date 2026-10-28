@@ -50,9 +50,9 @@ The only supporting literature across the ear-related predictions concerns rare 
 |------|------|
 | Original Indication | Pulmonary tuberculosis, meningeal tuberculosis, tuberculous meningitis (the approved indication text in the India licence records is empty) |
 | Predicted New Indication | Infectious otitis media |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,11 +62,11 @@ The only supporting literature across the ear-related predictions concerns rare 
 
 Currently, detailed mechanism of action data is not available. Based on known information, pyrazinamide is a component of standard multidrug anti-tuberculosis therapy. Its efficacy in tuberculosis is established, and it is active only against *Mycobacterium tuberculosis*, through the acid-dependent activity of its metabolite pyrazinoic acid.
 
-The prediction for infectious otitis media is **not mechanistically convincing**. Pyrazinamide has no recognised activity against the usual otitis media pathogens (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). The high score most likely reflects network proximity in the knowledge graph to tuberculous otitis, not a validated mechanism.
+The prediction for infectious otitis media is **not mechanistically convincing**. Pyrazinamide has no recognised activity against the usual otitis media pathogens (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as tuberculous otitis, not biological evidence or a validated mechanism.
 
 Other ear-related predictions fall into two groups:
 - **Tuberculous subsets** (middle ear disease, chronic and suppurative otitis media): pyrazinamide is already part of anti-TB regimens, so this extends the approved TB indication to an extrapulmonary site.
-- **Non-infectious or non-mycobacterial conditions** (non-suppurative, allergic, cholesterol granuloma): there is no plausible mechanism, and these are likely graph artefacts.
+- **Non-infectious or non-mycobacterial conditions** (non-suppurative, allergic, cholesterol granuloma): there is no plausible mechanism. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 

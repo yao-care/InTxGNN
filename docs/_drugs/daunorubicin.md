@@ -6,7 +6,7 @@ nav_order: 236
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Daunorubicin: predicted new indication Hodgkin's lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
+description: "Daunorubicin: predicted new indication Hodgkins lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Daunorubicin: From Acute Leukemia to Hodgkin's Lymphoma
+## Daunorubicin: From Acute Leukemia to Hodgkins lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ but the supporting evidence is indirect: **2 Phase 2 clinical trials** (both of 
 |------|------|
 | Original Indication | Acute lymphoblastic leukemia and acute myeloid leukemia (and related subtypes) |
 | Predicted New Indication | Hodgkin's lymphoma |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---

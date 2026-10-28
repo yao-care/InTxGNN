@@ -4,17 +4,17 @@ title: Fenofibrate
 parent: Model Prediction Only (L5)
 nav_order: 344
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-14
-description: "Fenofibrate: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Hypertriglyceridemia, hyperlipidemia, familial hyperlipidemia…"
+indication_count: 1
 monitor_inn: "Fenofibrate"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+last_modified_at: 2026-10-23
+description: "Fenofibrate: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Hypertriglyceridemia and related hyperlipidaemias"
 ---
 
 # Fenofibrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,124 +33,75 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Fenofibrate: From Hypertriglyceridemia to Hyperlipoproteinemia
+## Fenofibrate: From Hypertriglyceridemia to Cholesterol-Ester Transfer Protein Deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Fenofibrate is a lipid-lowering drug originally used for hypertriglyceridemia and other forms of hyperlipidemia.
-The TxGNN model's top-ranked prediction is **homozygous familial hypercholesterolemia**, but the best-supported prediction is **hyperlipoproteinemia**, backed by **26 clinical trials** and **20 publications**. This is largely an on-label or near-label use rather than a true repurposing.
-
----
+Fenofibrate is a lipid-lowering drug whose recorded uses in the knowledge graph centre on hypertriglyceridemia and other hyperlipidaemias.
+The TxGNN model predicts it may be effective for **cholesterol-ester transfer protein (CETP) deficiency**, but there are **0 clinical trials** and only **3 publications** (all preclinical or mechanistic, none directly studying this disease), so the evidence is model-driven.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertriglyceridemia, hyperlipidemia, familial hyperlipidemia, hypoalphalipoproteinemia (the approved-indication text in the India licences is blank) |
-| Predicted New Indication | Homozygous familial hypercholesterolemia (rank 1); best-supported: hyperlipoproteinemia (rank 2) |
-| TxGNN Prediction Score | 99.91% (homozygous FH); 99.65% (hyperlipoproteinemia) |
-| Evidence Level | L4 (homozygous FH); L1 (hyperlipoproteinemia) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold for homozygous FH; Proceed with Guardrails for hyperlipoproteinemia |
-
----
+| Original Indication | Hypertriglyceridemia and related hyperlipidaemias (relations recorded in the knowledge graph; the licence records compiled for this report contain no indication text) |
+| Predicted New Indication | Cholesterol-ester transfer protein deficiency |
+| TxGNN Prediction Score | 0.9961 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 licences (the list may be partial) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. From the evidence reviewed, fenofibrate is a PPARα agonist. It increases lipoprotein lipase activity and fatty-acid oxidation and reduces apoC-III. This lowers triglycerides and VLDL and raises HDL-C. It also lowers LDL-C modestly.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fenofibrate is a PPAR-alpha agonist that lowers triglycerides and raises HDL cholesterol, partly by increasing expression of apolipoprotein A-I/A-II and phospholipid transfer protein (PLTP).
 
-**Homozygous FH (rank 1):** The mechanistic link is weak. This disease is driven by LDL receptor dysfunction, and PPARα activation is unlikely to produce meaningful LDL-C reduction. The only linked trial tests alirocumab, not fenofibrate. The only fenofibrate-specific literature is a 1984 study in type II hyperlipoproteinemia that included one homozygous patient, which is indirect evidence at best. The high TxGNN score therefore should not be read as clinical support.
+CETP deficiency is a condition of markedly elevated HDL cholesterol with impaired cholesteryl ester transfer. The link to fenofibrate is indirect: PPAR-alpha agonism acts on the same lipoprotein remodelling pathway (for example, HDL enlargement through PLTP induction in mice). Preclinical work combining CETP inhibition with PPAR-alpha agonism shows additive HDL-raising effects.
 
-**Hyperlipoproteinemia (rank 2):** This largely overlaps with fenofibrate's established indications (hypertriglyceridemia, mixed hyperlipidemia). Several Phase 3 randomized trials and head-to-head comparisons, including against gemfibrozil, support efficacy. It is better described as a near-label indication.
-
-**Other predictions:** Familial hypercholesterolemia and autosomal dominant hypercholesterolemia are supported only by small 1980s studies, with a plausible role as an adjunct for residual hypertriglyceridemia. CETP deficiency, cholesterol 7α-hydroxylase deficiency, and hepatic lipase deficiency rest on preclinical data, a very small kinetic study, or no data at all.
-
----
-
-## Clinical Trial Evidence
-
-Trials for the best-supported prediction, hyperlipoproteinemia (the 10 most relevant):
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00092573](https://clinicaltrials.gov/study/NCT00092573) | Phase 3 | Completed | 576 | Fenofibrate + ezetimibe coadministration in mixed hyperlipidemia |
-| [NCT00092560](https://clinicaltrials.gov/study/NCT00092560) | Phase 3 | Completed | 587 | Fenofibrate + ezetimibe coadministration in mixed hyperlipidemia |
-| [NCT00349375](https://clinicaltrials.gov/study/NCT00349375) | Phase 3 | Completed | 1040 | Fenofibrate 145 mg + simvastatin vs simvastatin alone in mixed dyslipidemia |
-| [NCT00459745](https://clinicaltrials.gov/study/NCT00459745) | Phase 3 | Completed | 481 | Pravastatin vs fenofibrate vs the combination (Pravafen) in combined hyperlipidemia |
-| [NCT00362934](https://clinicaltrials.gov/study/NCT00362934) | Phase 3 | Completed | 516 | Fenofibrate + simvastatin vs atorvastatin in mixed dyslipidemia |
-| [NCT00362206](https://clinicaltrials.gov/study/NCT00362206) | Phase 3 | Completed | 423 | Fenofibrate + simvastatin vs pravastatin in mixed dyslipidemia |
-| [NCT00352183](https://clinicaltrials.gov/study/NCT00352183) | Phase 3 | Completed | 450 | Fenofibrate + simvastatin vs simvastatin in mixed dyslipidemia |
-| [NCT01956201](https://clinicaltrials.gov/study/NCT01956201) | Phase 3 | Unknown | 476 | Fenofibrate added to atorvastatin vs atorvastatin in mixed hypercholesterolemia |
-| [NCT00349284](https://clinicaltrials.gov/study/NCT00349284) | Phase 3 | Completed | 181 | Fenofibrate vs ezetimibe vs combination in type IIb dyslipidemia |
-| [NCT00754039](https://clinicaltrials.gov/study/NCT00754039) | Phase 4 | Completed | 129 | Colesevelam + fenofibrate (TriCor) vs TriCor alone in mixed hyperlipidemia |
-
-For homozygous FH, the only linked trial ([NCT03510715](https://clinicaltrials.gov/study/NCT03510715), Phase 3, 18 participants) tests alirocumab and provides no direct evidence for fenofibrate.
-
----
+However, CETP deficiency is already a high-HDL state, so raising HDL further is not an evident therapeutic goal, and the clinical rationale for treating it with fenofibrate is unclear. The high score most likely reflects network proximity of lipid-metabolism genes (PPARA, CETP, PLTP) rather than a defined therapeutic need.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11942772](https://pubmed.ncbi.nlm.nih.gov/11942772/) | 2002 | RCT | Endocr Pract | Micronized fenofibrate vs gemfibrozil in type IIa/IIb primary hyperlipoproteinemia (crossover) |
-| [9110923](https://pubmed.ncbi.nlm.nih.gov/9110923/) | 1997 | RCT | Eur J Med Res | Bezafibrate vs micronized fenofibrate in type III hyperlipoproteinemia |
-| [12816176](https://pubmed.ncbi.nlm.nih.gov/12816176/) | 2003 | RCT | Int J Clin Pharmacol Ther | Fenofibrate and simvastatin effects on sICAM-1 and MCP-1 in hyperlipoproteinemia |
-| [2653622](https://pubmed.ncbi.nlm.nih.gov/2653622/) | 1989 | Clinical study | Cardiology | Placebo-controlled US study of fenofibrate in type IV/V hyperlipoproteinemia (n=147) |
-| [3318454](https://pubmed.ncbi.nlm.nih.gov/3318454/) | 1987 | Clinical study | Am J Med | Fenofibrate in hypercholesterolemia and combined hyperlipidemia (randomized, 24 weeks, n=227) |
-| [2226216](https://pubmed.ncbi.nlm.nih.gov/2226216/) | 1990 | Review | Drugs | Pharmacology and therapeutic use of fenofibrate in dyslipidaemia |
-| [37979722](https://pubmed.ncbi.nlm.nih.gov/37979722/) | 2024 | Review | Indian Heart J | Fenofibrate monotherapy is most clearly indicated for fasting triglycerides >500 mg/dl, to reduce acute pancreatitis risk |
-| [6529448](https://pubmed.ncbi.nlm.nih.gov/6529448/) | 1984 | Clinical study | Atherosclerosis | Fenofibrate lowered VLDL, IDL and LDL in familial hypercholesterolemia and combined hyperlipidemia |
-| [6593751](https://pubmed.ncbi.nlm.nih.gov/6593751/) | 1984 | Cohort | Pharmacol Res Commun | 22 type II patients: total cholesterol −22%, LDL −24%; one homozygous FH patient showed the greatest fall |
-| [16224048](https://pubmed.ncbi.nlm.nih.gov/16224048/) | 2005 | Clinical kinetic study | Arterioscler Thromb Vasc Biol | Fenofibrate in 2 patients with complete hepatic lipase deficiency |
+| [20332533](https://pubmed.ncbi.nlm.nih.gov/20332533/) | 2010 | Preclinical | J Cardiovasc Pharmacol Ther | In human ApoB100/CETP transgenic mice, CETP inhibition (torcetrapib) and PPAR-alpha agonism (fenofibrate) raised HDL cholesterol and lowered LDL cholesterol |
+| [11342537](https://pubmed.ncbi.nlm.nih.gov/11342537/) | 2001 | Mechanistic | J Biol Chem | Fenofibrate induced the PLTP gene, accounting for HDL enlargement in treated mice |
+| [30271349](https://pubmed.ncbi.nlm.nih.gov/30271349/) | 2018 | Mechanistic/cohort-type | Front Physiol | Plasma HDL did not correlate with fecal cholesterol or cholesterol efflux capacity, suggesting HDL function matters more than HDL level |
 
----
+Currently no clinical trials are registered for this prediction.
 
 ## India Market Information
 
-Fenofibrate has 20 valid single-ingredient registrations in India and none have been cancelled. Five are listed below. The approved-indication text is not available in the data compiled for this report.
+At least 20 licences were found (the list may be partial). All 20 listed are valid. None of the records include approved-indication text, and the product names suggest they are mostly fixed-dose combinations with a statin, so they should not be taken as describing fenofibrate alone. Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 228618 | Thunor F 75mg/10mg Tablet | Strip of 10 tablets | Not specified |
-| 185695 | Rosovas F 160mg/10mg Tablet | Strip of 10 tablets | Not specified |
-| 120868 | Lipicard 160 Tablet | Strip of 10 tablets | Not specified |
-| 104604 | Hivast F 145mg/10mg Tablet | Strip of 10 tablets | Not specified |
-| 85904 | Finabate 145mg Tablet | Strip of 10 tablets | Not specified |
-
----
+| 228618 | Thunor F 75mg/10mg Tablet | Strip of 10 tablets | Not stated in records |
+| 185695 | Rosovas F 160mg/10mg Tablet | Strip of 10 tablets | Not stated in records |
+| 120868 | Lipicard 160 Tablet | Strip of 10 tablets | Not stated in records |
+| 104604 | Hivast F 145mg/10mg Tablet | Strip of 10 tablets | Not stated in records |
+| 85904 | Finabate 145mg Tablet | Strip of 10 tablets | Not stated in records |
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph (not label text):** liver failure and liver disease, pancreatitis, gallbladder disease including cholelithiasis, myopathy and rhabdomyolysis, impaired renal function, thrombocytopenia, anemia, and leukopenia/neutropenia-type blood disorders.
-- **Drug Interactions:** 199 interactions were found. The listed ones are Moderate level and include:
-  - sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide);
-  - many insulin products;
-  - chenodeoxycholic acid;
-  - esomeprazole.
+- **Relations recorded in the knowledge graph (not label text):** contraindication links include liver failure and liver disease, pancreatitis, gallbladder disease and cholelithiasis, thrombocytopenia, myopathy and rhabdomyolysis, impaired renal function, anaemia, and leukopenia and neutropenia (including several congenital neutropenia syndromes).
+- **Drug Interactions:** 199 interactions were recorded. The listed ones are all moderate, and include sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), many insulin products, chenodeoxycholic acid, and esomeprazole.
 
-  Monitor blood glucose when fenofibrate is combined with antidiabetic agents.
-
-Please also refer to the package insert for full safety information.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails (hyperlipoproteinemia); Hold (homozygous FH, CETP deficiency, 7α-hydroxylase deficiency, hepatic lipase deficiency); Research Question (familial and autosomal dominant hypercholesterolemia)**
+**Decision: Hold**
 
 **Rationale:**
-- Hyperlipoproteinemia is supported by multiple completed Phase 3 randomized trials and randomized comparisons (L1), but it largely overlaps with existing indications.
-- The top-scoring prediction, homozygous FH, lacks fenofibrate-specific evidence and has a weak mechanistic rationale, so it should not be pursued.
-- For heterozygous and familial FH, fenofibrate's role is limited to an adjunct for residual hypertriglyceridemia, because statins, ezetimibe and PCSK9 inhibitors are far more effective on LDL-C.
+No clinical trial or publication directly studies fenofibrate in CETP deficiency; the three cited papers are preclinical or mechanistic. The high TxGNN score appears to reflect gene-network proximity, and since the condition already involves high HDL, a therapeutic need is not apparent.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India registrations (currently missing, and a blocking gap for safety screening)
-- Approved-indication text for the India licences
-- Detailed mechanism-of-action data
-- For FH, a modern controlled study of fenofibrate as an adjunct in patients with elevated triglycerides
-- A monitoring plan for liver and renal function, muscle toxicity, and glucose when co-prescribed with antidiabetic drugs
+- A clear clinical rationale showing a treatment goal in CETP deficiency
+- Mechanism of action data for fenofibrate
+- Package insert warnings and contraindications from the India licence holders
+- Clinical or human data directly in CETP-deficient patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

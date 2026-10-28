@@ -46,9 +46,9 @@ Ranolazine is an anti-anginal drug that is widely marketed in India as a single-
 |------|------|
 | Original Indication | Not stated in the Indian license records (approved indication text is empty for all registrations) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 NSIAD is a rare disorder caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause water retention and low blood sodium (hyponatremia) even though vasopressin levels are not elevated. No direct pathway linking late sodium current inhibition to V2 receptor signalling or renal water handling has been established.
 
-The very high TxGNN score (0.996) therefore comes from knowledge-graph link prediction, probably through shared network neighbours such as ion-transport or channel-related genes. It is not a validated mechanism. The prediction should be treated as a hypothesis only.
+The very high TxGNN score (0.9965) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not a validated mechanism. The prediction should be treated as a hypothesis only.
 
 ## Safety Considerations
 

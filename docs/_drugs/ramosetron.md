@@ -48,10 +48,10 @@ Currently **no clinical trials and no publications** support either prediction, 
 |------|------|
 | Original Indication | Not listed in the Indian license records compiled for this report |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A plausible link is serotonergic signalling. 5-HT3 receptors are found in brain regions involved in sleep-wake regulation, and gut-brain axis signalling may influence sleep quality. However, preclinical data on 5-HT3 antagonism and sleep architecture are mixed, and there is no direct evidence for ramosetron.
 
-The second-ranked prediction, **migraine disorder** (score 99.06%), rests on similar reasoning. Serotonin is involved in trigeminovascular activation, and 5-HT3 antagonists already relieve migraine-associated nausea and vomiting. Other drugs in the class have shown limited or inconsistent effects on migraine pain itself. Like insomnia, this prediction is also at evidence level L5 with a Hold recommendation.
+The second-ranked prediction, **migraine disorder** (score 0.9906), rests on similar reasoning. Serotonin is involved in trigeminovascular activation, and 5-HT3 antagonists already relieve migraine-associated nausea and vomiting. Other drugs in the class have shown limited or inconsistent effects on migraine pain itself. Like insomnia, this prediction is also at evidence level L5 with a Hold recommendation.
 
 ## India Market Information
 

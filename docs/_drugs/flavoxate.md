@@ -6,7 +6,7 @@ nav_order: 355
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-14
-description: "Flavoxate: predicted new indication Top-ranked: attention deficit hyperactivity disorder… (evidence level L5). Approved use: Not stated in the India license data (the drug is used for urinary ur…"
+description: "Flavoxate: predicted new indication Top-ranked: attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not stated in the India license data (the drug is used for urinary ur…"
 monitor_inn: "Flavoxate"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Flavoxate: From Urinary Tract Smooth Muscle Relaxation to Irritable Bowel Syndrome
+## Flavoxate: From Urinary Tract Smooth Muscle Relaxation to attention deficit hyperactivity disorder, inattentive type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ Currently there are **0 clinical trials** and **0 publications** supporting any 
 |------|------|
 | Original Indication | Not stated in the India license data (the drug is used for urinary urgency, frequency and bladder spasm) |
 | Predicted New Indication | Top-ranked: attention deficit hyperactivity disorder, inattentive type (implausible). Most plausible: obsolete neurogenic bladder (rank 6) and irritable bowel syndrome (rank 2) |
-| TxGNN Prediction Score | 99.75% (rank 1, ADHD inattentive type); 99.74% (irritable bowel syndrome); 99.13% (neurogenic bladder) |
+| TxGNN Prediction Score | 0.9975 (rank 1, ADHD inattentive type); 0.9974 (irritable bowel syndrome); 0.9913 (neurogenic bladder) |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (neurogenic bladder: Research Question) |
 
@@ -67,7 +67,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 **Irritable bowel syndrome (indirect link).** Antimuscarinic and smooth muscle relaxant activity underlies antispasmodics used in IBS, such as hyoscine and dicyclomine. This is an extrapolation from drug class only. Flavoxate acts mainly on the urinary tract, and no GI evidence was provided.
 
 **Other predictions.**
-- **ADHD (inattentive type and general) and specific developmental disorder:** No supported mechanism. Antimuscarinics are generally expected to worsen attention and cognition. These predictions are likely graph artifacts, with overlapping ontology terms giving correlated rather than independent support.
+- **ADHD (inattentive type and general) and specific developmental disorder:** No supported mechanism. Antimuscarinics are generally expected to worsen attention and cognition. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - **Peptic ulcer disease and gastroduodenitis:** Antimuscarinics were historically adjuncts in peptic ulcer disease, but they have been superseded by PPIs and H2 blockers. Flavoxate has no demonstrated gastric antisecretory effect.
 - **Cauda equina syndrome:** A neurosurgical emergency treated by decompression. Flavoxate could at most relieve associated bladder symptoms, could delay urgent care, and may worsen urinary retention.
 

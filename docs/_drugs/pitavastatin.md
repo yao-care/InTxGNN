@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pitavastatin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 681
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Pitavastatin: predicted new indication Homozygous familial hypercholesterolaemia (evidence level L4). Approved use: Familial combined hyperlipidaemia (including LPL-related forms)"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "Pitavastatin"
-predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
+last_modified_at: 2026-10-23
+description: "Pitavastatin: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Familial combined hyperlipidaemia"
 ---
 
 # Pitavastatin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +33,74 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Pitavastatin: From Familial Combined Hyperlipidaemia to Homozygous Familial Hypercholesterolaemia
+## Pitavastatin: From Familial Combined Hyperlipidaemia to Cholesterol-Ester Transfer Protein Deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Pitavastatin is a statin (HMG-CoA reductase inhibitor) originally used for familial combined hyperlipidaemia.
-The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolaemia**, but the evidence for this specific disease is thin: **no registered clinical trials** and only **2 loosely related publications** (an HIV dyslipidaemia RCT and a small case report on a related condition).
-Other predicted indications are much better supported, notably **hyperlipoproteinaemia** (Phase 3/4 trials) and **HIV-associated cardiovascular risk** (the large REPRIEVE trial).
-
----
+Pitavastatin is a statin (cholesterol-lowering drug). It is marketed in this country with 20 valid licences.
+The TxGNN model predicts it may be effective for **cholesterol-ester transfer protein (CETP) deficiency**, with a very high score.
+However, **no clinical trials and no publications** in the data compiled for this report support this specific pairing, so the prediction is model-only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Familial combined hyperlipidaemia (including LPL-related forms) |
-| Predicted New Indication | Homozygous familial hypercholesterolaemia |
-| TxGNN Prediction Score | 99.996% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| Original Indication | Familial combined hyperlipidaemia (relation recorded in the knowledge graph; the licence records contain no approved-indication text) |
+| Predicted New Indication | Cholesterol-ester transfer protein deficiency |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Licences | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, pitavastatin inhibits HMG-CoA reductase, which lowers hepatic cholesterol synthesis and upregulates hepatic LDL receptors, thereby reducing LDL cholesterol. Its efficacy in lipid disorders is well established.
+Detailed mechanism-of-action data is not available in the compiled data. Pitavastatin belongs to the statin class, which lowers LDL cholesterol by inhibiting HMG-CoA reductase. Its recorded link is to inherited lipid disorders, so a connection to another inherited lipid-metabolism condition is biologically adjacent.
 
-Homozygous familial hypercholesterolaemia (HoFH) is a severe inherited form of high LDL cholesterol, so a link with the original lipid indication is understandable. However, the benefit of a statin depends on residual LDL receptor activity. In patients with little or no receptor function, the response is expected to be limited. The only FH-relevant item found is a 2025 case report on autosomal recessive hypercholesterolaemia, which is a different condition, and the HIV dyslipidaemia RCT (INTREPID) does not address this disease. The prediction is therefore mechanistically plausible but not directly supported.
-
----
+CETP deficiency is a genetic condition marked by high HDL cholesterol and altered lipoprotein metabolism. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a demonstrated therapeutic need. CETP deficiency is generally not associated with raised cardiovascular risk that would call for statin treatment, and the mechanistic link is therefore weak. No trial or publication supports the pairing.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for homozygous familial hypercholesterolaemia.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT (Phase 4) | The Lancet HIV | Pitavastatin vs pravastatin in adults with HIV and dyslipidaemia (INTREPID); studied lipid-lowering efficacy and safety, but not in HoFH |
-| [39532566](https://pubmed.ncbi.nlm.nih.gov/39532566/) | 2025 | Case report | J Clin Lipidol | Rapid lipid-lowering response in two cases of autosomal recessive hypercholesterolaemia, a condition clinically indistinguishable from HoFH |
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-The 20 valid registrations are all single-ingredient products (no combinations recorded), none cancelled. No approved indication text was provided for any of them. Five representative entries:
+The compiled data lists at least 20 valid licences for pitavastatin-containing products, and the list may be partial. None of the records include approved-indication text. Several products are fixed-dose combinations, so the table below shows only products that appear to be single-ingredient pitavastatin.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| 78681 | Ezenon-P4 Tablet (Indinon Pharma) | Strip of 10 tablets | Not stated |
-| 126527 | Livastat 4 Tablet (Novazen Pharmaceuticals) | Strip of 10 tablets | Not stated |
-| 174138 | Pivasta 4 Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
-| 175394 | Pitava 2mg Tablet (Zydus Cadila) | Strip of 10 tablets | Not stated |
-| 180569 | Pivasta F 2mg/135mg Capsule DR (Zydus Cadila) | Strip of 10 delayed-release capsules | Not stated |
-
----
+| 126527 | Livastat 4 Tablet | Strip of 10 tablets | Novazen Pharmaceuticals |
+| 174138 | Pivasta 4 Tablet | Strip of 10 tablets | Zydus Cadila |
+| 178717 | Pitava 1mg Tablet | Strip of 10 tablets | Zydus Cadila |
+| 179727 | Ptvs 2mg Tablet | Strip of 10 tablets | Druto Laboratories |
+| 64399 | Diabastat 4 Tablet | Strip of 10 tablets | NYG Pharmaceuticals Pvt Ltd |
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text)**: liver disease, gallbladder disease, hypothyroidism, myxedema, congenital hypothyroidism, myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, hypotensive disorder, rhabdomyolysis, nodular fasciitis, impaired renal function, injury.
-- **Drug Interactions**: 86 interactions are recorded. The only **Major** interaction among those listed is **erythromycin**. Moderate interactions include other statins (rosuvastatin, simvastatin), cobicistat, eltrombopag, metronidazole, tinidazole, chloroquine, hydroxychloroquine, disulfiram, ethanol and others. Warfarin and dicoumarol are minor. Only 20 of the 86 are shown in the compiled data.
+- **Relations recorded in the knowledge graph (not label text):** The following conditions are linked to pitavastatin as contraindications: liver disease, gallbladder disease, hypothyroidism (including myxedema and congenital hypothyroidism), myopathy and other muscle diseases, familial periodic paralysis, hypotensive disorder, rhabdomyolysis, nodular fasciitis, impaired renal function, and injury.
+- **Drug interactions:** 86 interactions are recorded in total. The one rated Major is **erythromycin**. Examples rated Moderate include rosuvastatin, simvastatin, cobicistat, eltrombopag, metronidazole, chloroquine, hydroxychloroquine, naltrexone and ethanol. Warfarin and dicoumarol are rated Minor.
 
-Package insert warnings and contraindications were not available; please refer to the package insert for label safety information.
-
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials in HoFH and no directly relevant publications. Efficacy is expected to be limited in receptor-null patients. For comparison, the same drug has far stronger support in other predicted indications: hyperlipoproteinaemia (L1, Proceed with Guardrails), familial hypercholesterolaemia and autosomal dominant hypercholesterolaemia (L2, Proceed with Guardrails), and HIV-associated cardiovascular risk reduction (L1, Proceed with Guardrails, based on REPRIEVE).
+The prediction rests only on a high model score. There are no trials or publications for this disease, and the mechanistic link is weak because CETP deficiency does not usually call for statin therapy.
 
 **To proceed, the following is needed:**
-- Dedicated HoFH efficacy data, ideally stratified by LDL receptor activity (residual function vs null)
-- Detailed mechanism of action data
-- Package insert warnings and contraindications for products marketed in India (a blocking data gap)
-- Approved indication text for the Indian registrations
-- A DDI and myopathy/liver monitoring plan if pursued
+- Evidence that CETP deficiency carries a clinical risk or lipid problem that a statin would address
+- Detailed mechanism-of-action data for pitavastatin
+- Package insert warnings and contraindications from the Indian licence holders
+- Genetic and clinical validation, such as a pilot study or a review of existing patient cohorts
+
+**Note on other candidates:** Among the other predictions for this drug, **HIV infectious disease** has substantial supporting evidence, including a published randomised trial (REPRIEVE) and several follow-up studies. That benefit is primary prevention of cardiovascular disease in people with HIV, not treatment of the infection itself. It could be evaluated as a separate report, with attention to interactions with antiretrovirals.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

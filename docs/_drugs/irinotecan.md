@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Irinotecan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 446
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Metastatic colon cancer"
@@ -14,7 +14,7 @@ predicted_indications: ["female breast carcinoma"]
 # Irinotecan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 |------|------|
 | Original Indication | Metastatic colon cancer; pancreatic adenocarcinoma |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.08% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9908 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -127,7 +127,7 @@ Please also refer to the package insert for label warnings and contraindications
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.08%), but the evidence is indirect. Only one small Phase 1 trial (n=12) tests irinotecan in breast cancer, no efficacy trial exists, and most of the literature concerns SN-38 conjugates or liposomal formulations rather than conventional irinotecan. The mechanism is plausible, so this remains a research question rather than a candidate for advancement.
+The TxGNN score is high (0.9908), but the evidence is indirect. Only one small Phase 1 trial (n=12) tests irinotecan in breast cancer, no efficacy trial exists, and most of the literature concerns SN-38 conjugates or liposomal formulations rather than conventional irinotecan. The mechanism is plausible, so this remains a research question rather than a candidate for advancement.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India registrations, which are required before any safety screening

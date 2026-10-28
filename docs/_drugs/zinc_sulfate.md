@@ -48,10 +48,10 @@ That evidence comes from postoperative and radiation-related sore throat setting
 |------|------|
 | Original Indication | Not recorded in the available licence data |
 | Predicted New Indication | Pharyngitis |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

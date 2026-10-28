@@ -4,17 +4,17 @@ title: Iloperidone
 parent: Model Prediction Only (L5)
 nav_order: 424
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Iloperidone: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "Iloperidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy", "myopia X-linked"]
+description: "Iloperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Iloperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Iloperidone: From Schizophrenia to Manic Bipolar Affective Disorder
+## Iloperidone: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Iloperidone is an atypical antipsychotic originally used to treat schizophrenia.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**.
 Currently **18 publications** support this direction, including a double-blind, placebo-controlled study, but **no clinical trials** are registered in the data compiled for this report.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia |
-| Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 (provisional, see note below) |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 (provisional, see note below) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

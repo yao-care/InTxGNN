@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this specific p
 |------|------|
 | Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, epinastine is a topical H1 receptor antagonist with mast cell stabilising activity. Its efficacy in allergic conjunctivitis is established, and it may be mechanistically applicable to other inflammatory conditions of the ocular surface.
 
-The link to rosacea conjunctivitis is only a partial fit. Epinastine could relieve itching and surface inflammation. However, ocular disease in rosacea is driven mainly by meibomian gland dysfunction, eyelid inflammation, and microbial or Demodex factors, rather than classic IgE-mediated histamine release. The very high model score (0.996) therefore cannot be confirmed mechanistically at this stage.
+The link to rosacea conjunctivitis is only a partial fit. Epinastine could relieve itching and surface inflammation. However, ocular disease in rosacea is driven mainly by meibomian gland dysfunction, eyelid inflammation, and microbial or Demodex factors, rather than classic IgE-mediated histamine release. The very high model score (0.9957) therefore cannot be confirmed mechanistically at this stage.
 
 ## Clinical Trial Evidence
 

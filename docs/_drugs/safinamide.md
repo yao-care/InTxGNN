@@ -6,9 +6,9 @@ nav_order: 760
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Safinamide: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease"
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
+description: "Safinamide: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Safinamide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Safinamide: From Parkinson Disease to Rasmussen Subacute Encephalitis
+## Safinamide: Rasmussen subacute encephalitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,23 +46,23 @@ but **no clinical trials and no publications** currently support this direction.
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson disease (the data compiled for this report lists no approved indication text for the India licenses; this indication comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, safinamide is a reversible MAO-B inhibitor that also blocks voltage-gated sodium channels and modulates glutamate release. Its efficacy in Parkinson disease is established.
 
-Rasmussen encephalitis is a rare, immune-mediated chronic encephalitis. It causes inflammation in one cerebral hemisphere and refractory focal seizures. In theory, sodium channel blockade and reduced glutamate release could dampen neuronal hyperexcitability and seizures. However, nothing suggests safinamide addresses the underlying T-cell-mediated pathology, so the mechanistic link is speculative. The high TxGNN score reflects a graph-based association, not clinical evidence.
+Rasmussen encephalitis is a rare, immune-mediated chronic encephalitis. It causes inflammation in one cerebral hemisphere and refractory focal seizures. In theory, sodium channel blockade and reduced glutamate release could dampen neuronal hyperexcitability and seizures. However, nothing suggests safinamide addresses the underlying T-cell-mediated pathology, so the mechanistic link is speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Two other candidates were also predicted:
-- **Myelitis** (score 99.46%): the possible rationale is neuroprotection through glutamate inhibition, sodium channel blockade and reduced oxidative stress. This is untested in myelitis, and the causes of myelitis vary widely.
-- **PLA2G6-associated neurodegeneration** (score 99.22%): the parkinsonian features overlap with safinamide's original use, so symptomatic benefit in later-onset cases with parkinsonism is plausible. This is the most coherent of the three, but there is still no direct evidence, and disease-modifying effects are unsupported.
+- **Myelitis** (score 0.9946): the possible rationale is neuroprotection through glutamate inhibition, sodium channel blockade and reduced oxidative stress. This is untested in myelitis, and the causes of myelitis vary widely.
+- **PLA2G6-associated neurodegeneration** (score 0.9922): the parkinsonian features overlap with safinamide's original use, so symptomatic benefit in later-onset cases with parkinsonism is plausible. This is the most coherent of the three, but there is still no direct evidence, and disease-modifying effects are unsupported.
 
 ## Clinical Trial Evidence
 
@@ -98,7 +98,7 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score, with no clinical trials or publications and a speculative mechanistic link. The evidence level is L5. Package insert warnings and contraindications are also missing, so safety screening cannot proceed.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and the mechanistic link is speculative. The evidence level is L5. Package insert warnings and contraindications are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 |------|------|
 | Original Indication | Not available in the compiled data (aprepitant is generally known as an antiemetic) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 
 Currently, detailed mechanism of action data is not available. Based on known information, aprepitant is an NK1 receptor antagonist, which blocks substance P signaling. Its efficacy in its established antiemetic use is well known, but it is unclear whether this mechanism applies to the new indication.
 
-Substance P/NK1 signaling has been loosely linked to fluid and vasopressin regulation. However, nephrogenic syndrome of inappropriate antidiuresis is caused by gain-of-function mutations in the V2 vasopressin receptor, and no established mechanistic link to NK1 antagonism exists. The high TxGNN score (99.97%) reflects a graph-based computational prediction and should not be read as evidence of efficacy.
+Substance P/NK1 signaling has been loosely linked to fluid and vasopressin regulation. However, nephrogenic syndrome of inappropriate antidiuresis is caused by gain-of-function mutations in the V2 vasopressin receptor, and no established mechanistic link to NK1 antagonism exists. The high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as evidence of efficacy.
 
 Other top-ranked predictions (for example hypertrichosis, pulmonary hypertension, leprosy and subarachnoid hemorrhage) also have no supporting clinical evidence. Subarachnoid hemorrhage has a biologically plausible but unvalidated preclinical hypothesis (substance P/NK1 involvement in blood-brain barrier disruption and cerebral edema).
 

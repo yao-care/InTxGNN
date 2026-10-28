@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-## Acitretin: From Severe Psoriasis (Retinoid Therapy) to Acne
+## Acitretin: From Severe Psoriasis (Retinoid Therapy) to acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **acne**, but the supporting ev
 |------|------|
 | Original Indication | Not stated in the India licence data compiled for this report |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

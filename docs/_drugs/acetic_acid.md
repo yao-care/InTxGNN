@@ -50,10 +50,10 @@ The only prediction with any meaningful supporting literature is **tinea corpori
 |------|------|
 | Original Indication | Otitis externa, external ear disease |
 | Predicted New Indication | Post-bacterial disorder (top-ranked); tinea corporis is the only prediction with supporting literature |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 For the top-ranked prediction, **post-bacterial disorder**, the link is weak. The term is a non-specific category (post-infectious sequelae), and there is no clear pharmacological connection to a topical antiseptic. The other high-scoring predictions (postinfectious vasculitis, post-infectious syndrome, Chagas cardiomyopathy, infection-related hemolytic uremic syndrome, drug-induced osteoporosis) involve immune-mediated or systemic processes that a topical agent is unlikely to influence. Infective urethral stricture has only a very weak indirect rationale, because dilute acetic acid is used as an irrigant in some settings.
 
-The most biologically plausible prediction is **tinea corporis** (score 99.25%). Acetic acid acidifies the skin surface and inhibits fungal growth, which is consistent with its use in fungal otitis externa. Historical reports describe dilute acetic acid for related dermatophyte infections. Pityriasis simplex (score 99.33%) is also loosely plausible through the same skin-acidifying effect, but no evidence was found.
+The most biologically plausible prediction is **tinea corporis** (score 0.9925). Acetic acid acidifies the skin surface and inhibits fungal growth, which is consistent with its use in fungal otitis externa. Historical reports describe dilute acetic acid for related dermatophyte infections. Pityriasis simplex (score 0.9933) is also loosely plausible through the same skin-acidifying effect, but no evidence was found.
 
 ---
 
@@ -114,7 +114,7 @@ No drug interaction data were found. Please refer to the package insert for furt
 **Decision: Hold**
 
 **Rationale:**
-All predictions are supported only by the graph-based model, with no clinical trials. The top-ranked prediction (post-bacterial disorder) is non-specific and has no clear pharmacological link to a topical antiseptic. Tinea corporis is the most plausible research question (evidence level L4), but its support is limited to dated, uncontrolled reports on related dermatophytoses.
+All predictions are supported only by the TxGNN model (deep learning), with no clinical trials; the scores may reflect similarities the model learned between related diseases, not biological evidence. The top-ranked prediction (post-bacterial disorder) is non-specific and has no clear pharmacological link to a topical antiseptic. Tinea corporis is the most plausible research question (evidence level L4), but its support is limited to dated, uncontrolled reports on related dermatophytoses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the marketed product (needed before any safety screening)

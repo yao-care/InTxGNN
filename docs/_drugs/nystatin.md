@@ -48,10 +48,10 @@ This is largely an on-label use for candidal vulvovaginitis rather than true rep
 |------|------|
 | Original Indication | Cutaneous candidiasis, oral candidiasis, candidiasis, vulvovaginal candidiasis |
 | Predicted New Indication | Vulvovaginitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Epinephrine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 314
-evidence_level: L1
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Open-angle glaucoma, bronchitis, hypotensive disorder, asthma…"
 monitor_inn: "Epinephrine"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
+description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-## Epinephrine: From Asthma and Anaphylaxis to Obstructive Lung Disease
+## Epinephrine: Obstructive lung disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ This is largely an extension of established use (asthma, bronchitis, emphysema) 
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma, bronchitis, hypotensive disorder, asthma, pulmonary emphysema, anaphylaxis, bronchiectasis (labeled indication text for the Indian licenses is not available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -106,7 +106,7 @@ All 8 registrations are valid single-ingredient injectables. No inhaled product 
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: hypertension, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, angle-closure glaucoma, diabetes mellitus and diabetic ketoacidosis, hyperthyroidism, liver and kidney disease, epilepsy, benign prostatic hyperplasia, respiratory failure, and myasthenia gravis, among others.
+- **Contraindications (not from label text)**: hypertension, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, angle-closure glaucoma, diabetes mellitus and diabetic ketoacidosis, hyperthyroidism, liver and kidney disease, epilepsy, benign prostatic hyperplasia, respiratory failure, and myasthenia gravis, among others.
 - **Drug Interactions**: 385 interactions were identified. Major-level interactions include **amitriptyline** and **amoxapine**. Moderate-level interactions include beta-blockers (acebutolol, atenolol, betaxolol), other beta-agonists (formoterol, salbutamol, arformoterol), stimulants (amphetamine, methylphenidate, atomoxetine), antidiabetic agents (acarbose, alogliptin, albiglutide, acetohexamide), and antipsychotics (amisulpride, aripiprazole, asenapine).
 
 Please also refer to the package insert for label-level warnings.
@@ -130,9 +130,8 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma support effica
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision | Comment |
 |------|------|------|------|------|
-| Food-dependent exercise-induced anaphylaxis | 99.57% | L4 | Research Question | Strong mechanistic link as a subtype of anaphylaxis, but no registered trials; support is from reviews and case reports |
-| Rienhoff syndrome | 99.57% | L5 | Hold | No mechanistic rationale, trials, or literature; computational prediction only |
-| Respiratory malformation | 99.56% | L3 | Hold | Only a Phase 1 trial in transient tachypnea of the newborn (not a structural malformation); retrieved literature is largely off-target |
+| Rienhoff syndrome | 0.9957 | L5 | Hold | No mechanistic rationale, trials, or literature; computational prediction only |
+| Respiratory malformation | 0.9956 | L3 | Hold | Only a Phase 1 trial in transient tachypnea of the newborn (not a structural malformation); retrieved literature is largely off-target |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

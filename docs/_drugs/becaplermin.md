@@ -6,7 +6,7 @@ nav_order: 93
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Becaplermin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the India licence record"
+description: "Becaplermin: predicted new indication amenorrhea (disease) (evidence level L5). Approved use: Not stated in the India licence record"
 monitor_inn: "Becaplermin"
 predicted_indications: ["amenorrhea (disease)", "erectile dysfunction (disease)", "HER2 positive breast carcinoma", "progesterone-receptor negative breast cancer", "pulmonary hypertension", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "hypogonadotropic hypogonadism with or without anosmia", "Leydig cell hypoplasia due to LH resistance"]
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Becaplermin: From Diabetic Foot Ulcer Wound Healing to Amenorrhea
+## Becaplermin: From Diabetic Foot Ulcer Wound Healing to amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Becaplermin is a recombinant human platelet-derived growth factor (PDGF-BB) applied topically as a gel to promote wound healing, and it is marketed in India.
 The TxGNN model predicts it may be effective for **amenorrhea**, but **no clinical trials** and **no directly relevant publications** currently support this prediction.
-The prediction rests on graph-based modelling alone and has no plausible biological support.
+The prediction rests on the TxGNN model (deep learning) alone and has no plausible biological support. The score may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -50,10 +50,10 @@ The prediction rests on graph-based modelling alone and has no plausible biologi
 |------|------|
 | Original Indication | Not stated in the India licence record; the literature describes topical treatment of diabetic neuropathic foot ulcers and pressure ulcers |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The prediction rests on graph-based modelling alone and has no plausible biologi
 
 Currently, detailed mechanism of action data is not available in the compiled drug record. From general knowledge, becaplermin is recombinant human PDGF-BB. It acts on PDGF receptors alpha and beta to drive fibroblast and smooth muscle proliferation, granulation tissue formation and angiogenesis. This is the basis of its use in chronic skin wounds.
 
-For amenorrhea, no plausible mechanistic link has been established. Amenorrhea generally involves the hypothalamic-pituitary-ovarian axis or endometrial function, and PDGF-BB wound-healing biology does not obviously act on either. The high TxGNN score is a graph-based association and should not be read as evidence of benefit.
+For amenorrhea, no plausible mechanistic link has been established. Amenorrhea generally involves the hypothalamic-pituitary-ovarian axis or endometrial function, and PDGF-BB wound-healing biology does not obviously act on either. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it should not be read as evidence of benefit.
 
 The other top predictions fall into similar groups, and none has supporting trials:
 - **Breast cancers (several subtypes):** PDGFR agonism would be expected to promote tumour stroma and angiogenesis, so the biological rationale points the wrong way.
@@ -115,7 +115,7 @@ Package insert warnings, contraindications and drug interaction data were not av
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a graph-based score, with no clinical trials and no relevant literature. The known PDGFR agonist biology offers no mechanistic link to amenorrhea, and for several other top predictions (breast cancers, pulmonary hypertension) it points in the opposite direction.
+The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence, with no clinical trials and no relevant literature. The known PDGFR agonist biology offers no mechanistic link to amenorrhea, and for several other top predictions (breast cancers, pulmonary hypertension) it points in the opposite direction.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the India-marketed product

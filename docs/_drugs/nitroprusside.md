@@ -4,17 +4,17 @@ title: Nitroprusside
 parent: Moderate Evidence (L3-L4)
 nav_order: 604
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Nitroprusside: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the licence data"
 monitor_inn: "Nitroprusside"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "alopecia", "congenital hypotrichosis milia", "diffuse alopecia areata", "hypotrichosis simplex of the scalp", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "alopecia", "congenital hypotrichosis milia", "diffuse alopecia areata", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease"]
 ---
 
 # Nitroprusside
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,19 +48,19 @@ The literature also suggests NO donors tend to *provoke* migraine rather than re
 |------|------|
 | Original Indication | Not recorded in the licence data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the drug record. From general pharmacology, nitroprusside releases nitric oxide, which activates soluble guanylate cyclase, raises cGMP and relaxes vascular smooth muscle.
 
-The NO/cGMP and CGRP pathways are central to migraine biology. However, the direction of the link argues against benefit. NO donors such as nitroglycerin are established experimental migraine triggers, and sodium nitroprusside is used to *induce* migraine-like behaviour in the mouse models in the retrieved studies. The TxGNN score therefore likely reflects pathway proximity in the knowledge graph, not therapeutic potential.
+The NO/cGMP and CGRP pathways are central to migraine biology. However, the direction of the link argues against benefit. NO donors such as nitroglycerin are established experimental migraine triggers, and sodium nitroprusside is used to *induce* migraine-like behaviour in the mouse models in the retrieved studies. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-For context, other predictions in the ranking fit better. **Pulmonary hypertension** (score 99.98%, evidence level L3) is mechanistically coherent with vasodilation and is supported by clinical studies and reviews. Pulmonary use is limited by systemic hypotension, ventilation-perfusion mismatch and cyanide toxicity. Hair-loss conditions (alopecia, hypotrichosis), kyphoscoliotic heart disease and benign prostatic hyperplasia have little or no direct evidence.
+For context, other predictions in the ranking fit better. **Pulmonary hypertension** (score 0.9998, evidence level L3) is mechanistically coherent with vasodilation and is supported by clinical studies and reviews. Pulmonary use is limited by systemic hypotension, ventilation-perfusion mismatch and cyanide toxicity. Hair-loss conditions (alopecia, hypotrichosis), kyphoscoliotic heart disease and benign prostatic hyperplasia have little or no direct evidence.
 
 ## Clinical Trial Evidence
 

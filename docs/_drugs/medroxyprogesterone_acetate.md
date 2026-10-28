@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Medroxyprogesterone Acetate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 518
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Medroxyprogesterone Acetate: predicted new indication Amenorrhea (evidence level L4). Approved use: Endometriosis, endometrial cancer…"
 monitor_inn: "Medroxyprogesterone acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Medroxyprogesterone Acetate: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Medroxyprogesterone Acetate: From Endometriosis and Endometrial Cancer to Amenorrhea
+## Medroxyprogesterone Acetate: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The evidence is therefore mainly model-based and mechanistic.
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis, endometrial cancer, postmenopausal osteoporosis and atrophic vaginitis (the approved indication text is not available in the India licence records) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -142,7 +142,7 @@ The mechanism is plausible, since a progestin challenge is standard for secondar
 
 ---
 
-**Other predictions (for reference):** Fibrocystic breast disease (L3) has only small, old, uncontrolled clinical reports and raises safety concerns. Cervical endometriosis (L4) is mechanistically plausible but has no direct evidence. The remaining predictions are prediction-only (L5), and the two renal hypoplasia predictions are likely knowledge-graph artifacts. All are on **Hold**.
+**Other predictions (for reference):** Fibrocystic breast disease (L3) has only small, old, uncontrolled clinical reports and raises safety concerns. Cervical endometriosis (L4) is mechanistically plausible but has no direct evidence. The remaining predictions are prediction-only (L5), and the two renal hypoplasia predictions are likely TxGNN model (deep learning) artifacts. All are on **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

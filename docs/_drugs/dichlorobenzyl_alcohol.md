@@ -48,19 +48,19 @@ The prediction is a computational signal only.
 |------|------|
 | Original Indication | Not stated in the approval records (marketed as cough/throat lozenges) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.21% |
+| TxGNN Prediction Score | 0.9921 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, dichlorobenzyl alcohol is a mild topical antiseptic typically used in throat lozenges for oropharyngeal infections. Its action is presumably local antiseptic activity against oral and pharyngeal pathogens, which is an unverified assumption.
 
-Bronchitis is a respiratory tract condition and is related to the throat and cough settings in which the product is sold. However, a lozenge acts locally in the mouth and throat, and there is no data showing that this activity extends to the bronchi. The high score therefore likely reflects proximity within the knowledge graph rather than a demonstrated pharmacological link.
+Bronchitis is a respiratory tract condition and is related to the throat and cough settings in which the product is sold. However, a lozenge acts locally in the mouth and throat, and there is no data showing that this activity extends to the bronchi. The high score therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-A second prediction, **migraine disorder** (score 99.02%), has no clinical trials, no literature, and no identified mechanistic link. It is not considered supported.
+A second prediction, **migraine disorder** (score 0.9902), has no clinical trials, no literature, and no identified mechanistic link. It is not considered supported.
 
 ## Clinical Trial Evidence
 

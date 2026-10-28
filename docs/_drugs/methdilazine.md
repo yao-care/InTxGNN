@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 |------|------|
 | Original Indication | Angioedema, allergic rhinitis, vasomotor rhinitis, urticaria and related allergic conditions (the India licence record has no approved indication text) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

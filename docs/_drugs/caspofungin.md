@@ -4,17 +4,17 @@ title: Caspofungin
 parent: Model Prediction Only (L5)
 nav_order: 151
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Caspofungin: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Esophageal candidiasis"
 monitor_inn: "Caspofungin"
-predicted_indications: ["gastrin secretion abnormality", "punctate epithelial keratoconjunctivitis", "abnormality of glucagon secretion", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "exposure keratitis", "candida glabrata", "neonatal candidiasis", "congenital candidiasis"]
+predicted_indications: ["gastrin secretion abnormality"]
 ---
 
 # Caspofungin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **0 clinical trials** and **0 publications** supporting it.
 |------|------|
 | Original Indication | Esophageal candidiasis; candidemia |
 | Predicted New Indication | Gastrin secretion abnormality |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ with **0 clinical trials** and **0 publications** supporting it.
 
 Caspofungin inhibits beta-(1,3)-D-glucan synthase, an enzyme that fungi need to build their cell wall. Human cells do not have this enzyme, which is why the drug is selective for fungal infections such as *Candida*.
 
-Esophageal candidiasis and candidemia are fungal infections. Gastrin secretion abnormality is a disorder of a human digestive hormone. We found **no plausible mechanistic link** between blocking fungal glucan synthesis and regulating gastrin. The very high score most likely reflects patterns in the knowledge graph rather than a real pharmacological relationship. With no trials or publications behind it, this prediction should be treated as a computational hypothesis only.
+Esophageal candidiasis and candidemia are fungal infections. Gastrin secretion abnormality is a disorder of a human digestive hormone. We found **no plausible mechanistic link** between blocking fungal glucan synthesis and regulating gastrin. The very high score (0.9944) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. With no trials or publications behind it, this prediction should be treated as a computational hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -102,7 +102,7 @@ The prediction has the highest score but no clinical or literature support. It a
 - Package insert warnings and contraindications for the Indian products
 - Detailed mechanism of action data from a curated source
 
-**Note on other candidates:** Other predictions in the same list have much stronger support than this one. The best is **neonatal candidiasis** (score 95.18%, evidence level L2), with two Phase 2 trials (NCT00330395, completed, n=16; NCT01945281, terminated, n=51) and a pediatric echinocandin meta-analysis. It would be classed as **Proceed with Guardrails**: confirm neonatal dosing and PK, monitor liver function, and clarify why the randomized trial was terminated. Neonatal candidiasis is an extension of the approved candidemia use, not a new mechanism, so it would be a more productive focus for further evaluation than the top-ranked prediction.
+**Note on other candidates:** Other predictions in the same list have much stronger support than this one. The best is **neonatal candidiasis** (evidence level L2), with two Phase 2 trials (NCT00330395, completed, n=16; NCT01945281, terminated, n=51) and a pediatric echinocandin meta-analysis. It would be classed as **Proceed with Guardrails**: confirm neonatal dosing and PK, monitor liver function, and clarify why the randomized trial was terminated. Neonatal candidiasis is an extension of the approved candidemia use, not a new mechanism, so it would be a more productive focus for further evaluation than the top-ranked prediction.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

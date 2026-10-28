@@ -4,17 +4,17 @@ title: Artemether
 parent: Model Prediction Only (L5)
 nav_order: 72
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Artemether: predicted new indication Acquired angioedema (evidence level L5). Approved use: Not stated in the licence records compiled for this report (artemethe…"
+indication_count: 8
 monitor_inn: "Artemether"
-predicted_indications: ["acquired angioedema", "Plasmodium falciparum malaria", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
+predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
+last_modified_at: 2026-10-27
+description: "Artemether: predicted new indication acquired angioedema (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Artemether
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,109 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Artemether: From Malaria Treatment to Acquired Angioedema (Top Prediction) — and the Malaria Indication Behind the Evidence
+## Artemether: antimalarial artemisinin derivative → acquired angioedema
 {: .text-alpha }
-
-> **Note on the target indication.** The top-ranked TxGNN prediction (acquired angioedema) has no supporting trials or literature. The only predictions with real evidence (P. falciparum malaria and malaria) describe artemether's established use, not a new one. This report therefore covers the top-ranked prediction in the overview and uses the best-supported prediction (P. falciparum malaria) for the evidence sections.
 
 ## One-Sentence Summary
 
-Artemether is an artemisinin-derivative antimalarial, used mainly in a fixed-dose combination with lumefantrine for uncomplicated falciparum malaria.
-The TxGNN model's top-ranked prediction is **acquired angioedema** (score 99.90%), but it has **0 clinical trials and 0 publications** and no plausible mechanism. The best-supported prediction, **Plasmodium falciparum malaria**, is an established indication with **33 registered trials** and **20 publications**, so it is not a true repurposing signal.
+Artemether is an artemisinin-class drug marketed in India in many single-ingredient products. The TxGNN model predicts it may be relevant to **acquired angioedema**, with a score of 0.9990. However, **no clinical trials and no publications** were found for this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records compiled for this report (artemether is used for malaria) |
-| Predicted New Indication | Acquired angioedema (rank 1); P. falciparum malaria (rank 2) is an established use |
-| TxGNN Prediction Score | 99.90% (acquired angioedema); 99.77% (P. falciparum malaria) |
-| Evidence Level | L5 for acquired angioedema; L1 for P. falciparum malaria |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold for acquired angioedema; Proceed with Guardrails for malaria (established use) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | acquired angioedema |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. From general knowledge, artemether is an artemisinin derivative activated by heme iron, which generates free radicals that damage parasite proteins. It is used with lumefantrine as first-line therapy for uncomplicated P. falciparum malaria.
+Currently, detailed mechanism of action data is not available for artemether in the data compiled for this report. Artemether belongs to the artemisinin class, and its activity in this class is not known to involve the pathways that drive angioedema.
 
-For **acquired angioedema** and the other angioedema entries (angioedema, hereditary angioedema, RAAS-blocker-induced angioedema), no mechanistic link was found. Artemether is not known to act on the kallikrein-kinin pathway or on C1-inhibitor biology. These high scores most likely reflect shared neighbours in the knowledge graph rather than real biology, and the model's confidence should not be read as clinical promise.
+Acquired angioedema is typically linked to C1-inhibitor deficiency or excess bradykinin signalling (the kallikrein-kinin and complement C1-inhibitor pathways). No mechanistic link between artemether and these pathways has been established. The high score of 0.9990 is a model-based prediction only, and it should not be read as evidence of efficacy.
 
-The other low-evidence predictions (nephrogenic syndrome of inappropriate antidiuresis, acute contagious conjunctivitis, conjunctivitis) also lack any supporting mechanism or data. Scleroderma has only loose preclinical anti-fibrotic reports for artemisinins, which is speculative.
-
-The **malaria** predictions reflect the drug's existing use. They confirm that the model recovers known biology but do not suggest a new indication.
+Other angioedema-related predictions (angioedema, hereditary angioedema, and RAAS-blocker-induced angioedema) appear to share the same model signal, which suggests they reflect similar model patterns rather than independent biological support.
 
 ## Clinical Trial Evidence
 
-Trials below are for P. falciparum malaria, the only prediction with trial data. The top 10 most relevant are shown.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00422084](https://clinicaltrials.gov/study/NCT00422084) | Phase 3 | Completed | 1272 | Double-blind comparison of pyronaridine-artesunate versus artemether-lumefantrine in children and adults |
-| [NCT01082705](https://clinicaltrials.gov/study/NCT01082705) | Phase 3 | Completed | 323 | In vivo efficacy of artemisinin combination therapies in Tanzanian children |
-| [NCT00677833](https://clinicaltrials.gov/study/NCT00677833) | Phase 2/3 | Completed | 361 | Azithromycin plus chloroquine versus artemether-lumefantrine in African children |
-| [NCT05951595](https://clinicaltrials.gov/study/NCT05951595) | Phase 3 | Recruiting | 1680 | Triple therapy (artemether-lumefantrine-amodiaquine) versus first-line combinations |
-| [NCT02020330](https://clinicaltrials.gov/study/NCT02020330) | Phase 3 | Completed | 150 | 3-day versus 5-day artemether-lumefantrine in Myanmar |
-| [NCT00529867](https://clinicaltrials.gov/study/NCT00529867) | Phase 4 | Completed | 267 | Suspension versus tablets in Kenyan children under five |
-| [NCT01017770](https://clinicaltrials.gov/study/NCT01017770) | Phase 4 | Completed | 340 | Artemether-lumefantrine versus artesunate-amodiaquine in Burkina Faso |
-| [NCT03453840](https://clinicaltrials.gov/study/NCT03453840) | Phase 4 | Completed | 305 | Extended-duration regimen in children, including HIV-infected children on efavirenz |
-| [NCT02637128](https://clinicaltrials.gov/study/NCT02637128) | Phase 4 | Completed | 452 | In vivo efficacy in Malawi |
-| [NCT01998295](https://clinicaltrials.gov/study/NCT01998295) | Phase 4 | Completed | 45 | Parasite clearance time in Tanzanian children |
-
-For acquired angioedema and the other non-malaria predictions, currently no related clinical trials are registered.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33957925](https://pubmed.ncbi.nlm.nih.gov/33957925/) | 2021 | Systematic review/meta-analysis | Malaria Journal | Efficacy and safety of artemether-lumefantrine in Ethiopia |
-| [22548983](https://pubmed.ncbi.nlm.nih.gov/22548983/) | 2012 | Systematic review | Malaria Journal | Safety and efficacy in pregnancy |
-| [35271592](https://pubmed.ncbi.nlm.nih.gov/35271592/) | 2022 | Systematic review/meta-analysis | PLoS One | Efficacy of three ACTs in Sub-Saharan Africa |
-| [34983552](https://pubmed.ncbi.nlm.nih.gov/34983552/) | 2022 | Systematic review/meta-analysis | Malaria Journal | Safety of dihydroartemisinin-piperaquine versus artemether-lumefantrine in African children |
-| [31210357](https://pubmed.ncbi.nlm.nih.gov/31210357/) | 2019 | Cochrane review | Cochrane Database Syst Rev | Intramuscular artemether versus quinine and artesunate in severe malaria |
-| [17402835](https://pubmed.ncbi.nlm.nih.gov/17402835/) | 2007 | Review | Expert Rev Anti Infect Ther | Artesunate, artemether or quinine in severe malaria |
-| [1346408](https://pubmed.ncbi.nlm.nih.gov/1346408/) | 1992 | RCT | Lancet | Artemether versus chloroquine in Gambian children with severe malaria |
-| [40845863](https://pubmed.ncbi.nlm.nih.gov/40845863/) | 2026 | Randomised phase 4 trial | Lancet Infect Dis | Efficacy of four ACTs in Ugandan children, with concern about waning ACT efficacy in east Africa |
-| [40138574](https://pubmed.ncbi.nlm.nih.gov/40138574/) | 2025 | Resistance marker study | J Infect Dis | Artemether-lumefantrine treatment selects pfmdr1 copy-number increase in African infections |
-| [38741101](https://pubmed.ncbi.nlm.nih.gov/38741101/) | 2024 | Therapeutic efficacy study | Malaria Journal | Efficacy and tolerability in Niger, 2020 |
-
-For acquired angioedema and the other non-malaria predictions, currently no related literature is available.
+Currently no related literature available.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient licences. The compiled records contain no approved-indication text. The first five are listed.
+At least 20 valid single-ingredient licences are recorded, and the list may be partial. None of the records carry approved-indication text. Examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 188232 | Rezatrin 80 mg/480 mg Tablet | Strip of 6 tablets | Not stated |
-| 231992 | Ufither L 80mg/480mg Tablet | Strip of 6 tablets | Not stated |
-| 157460 | Numal Forte Oral Suspension | Bottle of 30 ml oral suspension | Not stated |
-| 101327 | Gnate L Syrup | Bottle of 30 ml syrup | Not stated |
-| 190805 | Rezart M 80mg Injection | Vial of 1 ml injection | Not stated |
-
-Other formulations on the market include dispersible tablets, dry syrups, capsules and ampoule injections.
+| 188232 | Rezatrin 80 mg/480 mg Tablet | Strip of 6 tablets | Not recorded |
+| 231992 | Ufither L 80mg/480mg Tablet | Strip of 6 tablets | Not recorded |
+| 157460 | Numal Forte Oral Suspension | Bottle of 30 ml oral suspension | Not recorded |
+| 190805 | Rezart M 80mg Injection | Vial of 1 ml injection | Not recorded |
+| 41355 | Coartrin 20 mg/120 mg Tablet | Strip of 8 tablets | Not recorded |
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (not label text): long QT syndrome, familial long QT syndrome, torsades de pointes, and potassium deficiency disease. These relate to QT-prolongation risk, and a Phase 1 QT study (NCT01103830) exists in the trial data.
-- **Drug Interactions**: 95 interactions are recorded. Major interactions include clarithromycin, cobicistat, amprenavir, apalutamide, atazanavir and boceprevir. Moderate interactions include dexamethasone, miconazole, troglitazone, deferasirox, bosentan and bexarotene. Many involve CYP3A4 induction or inhibition. Trial and literature data also point to interactions with antiretrovirals such as dolutegravir, nevirapine and efavirenz.
-- **Resistance**: Emerging artemisinin partial resistance and pfmdr1 selection are reported in Africa.
+- **Drug Interactions**: 95 interactions are recorded. Major-level examples include clarithromycin, cobicistat, amprenavir, apalutamide, atazanavir and boceprevir. Moderate-level examples include dexamethasone, miconazole, deferasirox and bosentan.
+- **Contraindication-related conditions flagged in the data**: long QT syndrome, familial long QT syndrome, torsades de pointes and potassium deficiency disease. These come from database relations, not from label text.
 
-Please refer to the package insert for label warnings and contraindications, which were not available for this report.
+Please refer to the package insert for further safety information, as label warnings and contraindications are not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (acquired angioedema and other non-malaria predictions); Proceed with Guardrails (malaria, established indication only)**
+**Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, acquired angioedema, rests on a graph-based score alone, with no trials, no literature and no plausible mechanism, so it should not advance. The malaria predictions have strong L1 evidence, but they describe the drug's existing use rather than a repurposing opportunity.
+The prediction is supported only by a model score. No trials or publications address acquired angioedema, no mechanistic link is known, and the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the Indian regulator (currently missing)
-- Mechanism of action data from DrugBank
-- For angioedema: any biological rationale (preclinical or mechanistic) before further consideration
-- For malaria use: monitoring for artemisinin partial resistance and pfmdr1 selection, QT-risk assessment, and a DDI management plan (especially with antiretrovirals and CYP3A4 modulators)
-- Separate uncomplicated from severe malaria in any plan, since IV artesunate is preferred over intramuscular artemether for severe disease
+- Mechanism of action data for artemether
+- Preclinical evidence that artemether acts on bradykinin, kallikrein or complement pathways
+- Package insert warnings and contraindications, with particular attention to QT-related risk
+- Any clinical or literature evidence directly studying artemether in acquired angioedema
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

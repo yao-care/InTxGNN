@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulfadiazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 796
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L4). Approved use: Toxoplasmosis"
 monitor_inn: "Sulfadiazine"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
+description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sulfadiazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Sulfadiazine: From Toxoplasmosis to Pneumocystosis
+## Sulfadiazine: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials** are registered and the supporting **literature (19 pu
 
 | Item | Content |
 |------|------|
-| Original Indication | Toxoplasmosis (the CDSCO licence records contain no approved indication text; the original indications listed here come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.39% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
+| TxGNN Prediction Score | 0.9939 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

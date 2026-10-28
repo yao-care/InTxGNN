@@ -48,9 +48,9 @@ Support comes from **15 publications** (including two observational cohort studi
 |------|------|
 | Original Indication | Not stated in the available India licence data (the approved-indication text is blank for all licences) |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

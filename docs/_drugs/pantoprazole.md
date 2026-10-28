@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 642
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Pantoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-## Pantoprazole: From Peptic Ulcer Disease and GERD to Active Peptic Ulcer Disease
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pantoprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease, esophagitis and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which is closely related to its existing uses, so this is better described as confirmation of an established indication than as true repurposing.
 Evidence for this prediction includes **1 completed Phase 3 trial** directly linked to the indication, **18 publications**, and additional Phase 3 and 4 trials in related ulcer settings.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, Zollinger-Ellison syndrome (the Indian licence records list no approved-indication text) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9921 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -58,7 +57,7 @@ Evidence for this prediction includes **1 completed Phase 3 trial** directly lin
 
 Pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses acid secretion and allows ulcers to heal. Detailed mechanism-of-action data was not available in the data compiled for this report. This description therefore draws on general pharmacology and the cited reviews.
 
-Peptic ulcers are acid-mediated, and peptic ulcer disease is already among pantoprazole's original indications. Active peptic ulcer disease is essentially the same disease area, so the high TxGNN score is expected. Because the use is already established, this evaluation is mostly a confirmation of existing evidence. It does not identify a new therapeutic opportunity.
+Peptic ulcers are acid-mediated, and peptic ulcer disease is already among pantoprazole's original indications. Because the use is already established, this evaluation is mostly a confirmation of existing evidence. It does not identify a new therapeutic opportunity.
 
 Other predicted indications are less well supported:
 
@@ -116,7 +115,6 @@ All 20 licences are valid single-ingredient products, and none are cancelled. Bo
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph association, not label text):** osteoporosis, postmenopausal osteoporosis, bone fracture, pernicious anemia.
 - **Drug interactions:** 597 interactions were identified. Examples:
   - Major: acalabrutinib, atazanavir.
   - Moderate: hydrochlorothiazide, atorvastatin, bosutinib, fenofibrate, alpelisib, apalutamide, amphotericin B, amikacin, bumetanide.

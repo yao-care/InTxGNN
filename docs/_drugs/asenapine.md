@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Asenapine: From Bipolar Disorder and Schizophrenia to Retinal Dystrophy (Top Prediction) and Major Affective Disorder (Best-Evidenced Prediction)
+## Asenapine: From Bipolar Disorder and Schizophrenia to Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Asenapine is a sublingual atypical antipsychotic, originally used to treat manic bipolar affective disorder, bipolar disorder and schizophrenia.
-The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies** (score 99.77%), but it has **no clinical trials and no publications** behind it.
+The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies** (score 0.9977), but it has **no clinical trials and no publications** behind it.
 The only prediction with literature support is **major affective disorder** (**19 publications**, no trial records), and it largely overlaps with asenapine's existing approved uses, so it is not a true new indication.
 
 ## Quick Overview
@@ -48,19 +48,19 @@ The only prediction with literature support is **major affective disorder** (**1
 |------|------|
 | Original Indication | Manic bipolar affective disorder; bipolar disorder; schizophrenia (the licence records in India contain no approved-indication text) |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies (rank 1) |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
-For reference, the best-supported prediction is major affective disorder (score 99.57%, Evidence Level L1 inferred from a meta-analysis and reviews, decision: Proceed with Guardrails). This is an on-label use and is discussed below.
+For reference, the best-supported prediction is major affective disorder (score 0.9957, Evidence Level L1 inferred from a meta-analysis and reviews, decision: Proceed with Guardrails). This is an on-label use and is discussed below.
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on literature, asenapine is a serotonin/dopamine/alpha-adrenergic antagonist with higher affinity for 5-HT2A than D2 receptors, plus effects on histamine, muscarinic and monoamine receptors.
 
-**Retinal dystrophy (rank 1):** No mechanistic rationale is identified. The high score is a graph-based prediction only. Nothing in the data links asenapine's receptor pharmacology to the genetic drivers of inherited retinal dystrophy.
+**Retinal dystrophy (rank 1):** No mechanistic rationale is identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in the data links asenapine's receptor pharmacology to the genetic drivers of inherited retinal dystrophy.
 
 **Other top-ranked predictions (ranks 2-9):** Congenital disorder of glycosylation, hydranencephaly, syndromic myopia, X-linked myopia, Charcot-Marie-Tooth type 1G, a polymicrogyria syndrome, X-linked female-limited myopia and atypical glycine encephalopathy. All are rare congenital or genetic conditions. None has a plausible pharmacological link to a receptor antagonist, and none has trials or literature. Dopaminergic signalling plays a general role in myopia biology, but asenapine is an antagonist and no evidence supports use in these forms.
 
@@ -119,7 +119,7 @@ Package insert warnings were not available in the data compiled for this report;
 **Decision: Hold** (for the top-ranked prediction, retinal dystrophy, and for ranks 2-9)
 
 **Rationale:**
-The top predictions rest only on graph-based scores with no trials, no literature and no plausible mechanism. The one prediction with supporting literature, major affective disorder, is essentially an existing approved use (Proceed with Guardrails), so it validates the model rather than offering a new opportunity. Its L1 level is inferred from a meta-analysis and reviews rather than direct trial records and should be verified.
+The top predictions rest only on scores from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence, with no trials, no literature and no plausible mechanism. The one prediction with supporting literature, major affective disorder, is essentially an existing approved use (Proceed with Guardrails), so it validates the model rather than offering a new opportunity. Its L1 level is inferred from a meta-analysis and reviews rather than direct trial records and should be verified.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for asenapine

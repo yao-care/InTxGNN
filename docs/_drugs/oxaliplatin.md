@@ -48,9 +48,9 @@ with **3 registered clinical trials (2 directly relevant Phase II studies)** and
 |------|------|
 | Original Indication | Metastasis from malignant tumour of colon |
 | Predicted New Indication | Malignant pleural mesothelioma |
-| TxGNN Prediction Score | 99.68% |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Metronidazole is a nitroimidazole antimicrobial originally used for anaerobic bacterial infections, giardiasis, bacterial vaginosis, and rosacea.
-The TxGNN model predicts it may be effective for **pneumocystosis** (score 99.99%), but there are **0 clinical trials** and only **general reviews and case reports** to support this, and the literature does not show any metronidazole activity against Pneumocystis.
+The TxGNN model predicts it may be effective for **pneumocystosis** (score 0.9999), but there are **0 clinical trials** and only **general reviews and case reports** to support this, and the literature does not show any metronidazole activity against Pneumocystis.
 
 ## Quick Overview
 
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **pneumocystosis** (score 99.99
 |------|------|
 | Original Indication | Peritonitis, endocarditis, anaerobic bacterial infections, giardiasis, rosacea, bacterial vaginosis, vulvovaginitis, intracranial abscess (the India label indication text is not available) |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

@@ -6,9 +6,9 @@ nav_order: 790
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Stavudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease"
 monitor_inn: "Stavudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Stavudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Stavudine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Stavudine: From HIV Infection / AIDS to Feline Acquired Immunodeficiency Syndrome
+## Stavudine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ This is a veterinary indication, so it falls outside the scope of human drug rep
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infectious disease; AIDS (from the knowledge graph, as no approved indication text is available in the licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,8 +61,8 @@ Currently, detailed mechanism of action data is not available in the compiled da
 Feline immunodeficiency virus (FIV) is a lentivirus whose reverse transcriptase is related to that of HIV-1, so a mechanistic rationale is plausible. The very high TxGNN score is most likely driven by the close similarity to the original HIV/AIDS indication, not by independent evidence for FIV.
 
 Two other predictions were also reviewed:
-- **Simian immunodeficiency virus (SIV) infection (score 99.55%)**: SIV is a primate lentivirus closely related to HIV, and its reverse transcriptase is susceptible to NRTIs. However, this is a non-human animal infection model. It is best viewed as a preclinical model of the existing HIV indication, not a new human indication.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (score 99.51%)**: No clear mechanistic link exists. Stavudine's mitochondrial toxicity and its risk of peripheral neuropathy argue against benefit and may raise safety concerns. The score likely reflects network-level associations only.
+- **Simian immunodeficiency virus (SIV) infection (score 0.9955)**: SIV is a primate lentivirus closely related to HIV, and its reverse transcriptase is susceptible to NRTIs. However, this is a non-human animal infection model. It is best viewed as a preclinical model of the existing HIV indication, not a new human indication.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (score 0.9951)**: No clear mechanistic link exists. Stavudine's mitochondrial toxicity and its risk of peripheral neuropathy argue against benefit and may raise safety concerns. The score likely reflects network-level associations only.
 
 ## Clinical Trial Evidence
 

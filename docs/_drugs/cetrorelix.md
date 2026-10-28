@@ -6,7 +6,7 @@ nav_order: 167
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Cetrorelix: predicted new indication Hypertrichosis (evidence level L5). Approved use: Inhibition of premature LH surges in women undergoing controlled ovar…"
+description: "Cetrorelix: predicted new indication hypertrichosis (evidence level L5). Approved use: Inhibition of premature LH surges in women undergoing controlled ovar…"
 monitor_inn: "Cetrorelix"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "persistent fetal circulation syndrome", "familial isolated trichomegaly", "familial male-limited precocious puberty", "aromatase excess syndrome", "centra precocious puberty 1"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cetrorelix: From Controlled Ovarian Stimulation to Hypertrichosis
+## Cetrorelix: From Controlled Ovarian Stimulation to hypertrichosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but there a
 |------|------|
 | Original Indication | Inhibition of premature LH surges in women undergoing controlled ovarian stimulation (fertility treatment). The India licence records contain no indication text, so this comes from the pharmacology data compiled for this report. |
 | Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
+| India Market Status | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. From the pharmacology information, cetrorelix is a peptide antagonist of the GnRH1 receptor (GNRHR). It suppresses LH and FSH, and therefore downstream sex steroids, without the initial flare seen with GnRH agonists.
 
-The link to hypertrichosis is weak. Hypertrichosis is not primarily driven by gonadotropins. Androgen suppression might matter only in a hormone-dependent subset of patients. The very high TxGNN score is a graph-based prediction, and no clinical or literature evidence supports it.
+The link to hypertrichosis is weak. Hypertrichosis is not primarily driven by gonadotropins. Androgen suppression might matter only in a hormone-dependent subset of patients. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical or literature evidence supports it.
 
 The other top-ranked predictions are mostly congenital or structural conditions (for example Ambras syndrome, Dandy-Walker malformation, hair shaft abnormalities) with no plausible GnRH-axis mechanism. They look like network artifacts from shared phenotype nodes. The most biologically credible candidate in the list is **central precocious puberty**, because it is driven by early activation of the GnRH axis. However, standard care is GnRH agonist therapy, short-acting cetrorelix is not well suited to chronic paediatric use, and no direct evidence is available. Familial male-limited precocious puberty is flagged as a research question only, since its driver (activating LHCGR mutations) acts downstream of GnRH and LH.
 
@@ -90,7 +90,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for hypertrichosis rests only on a graph-based model score. There are no trials or publications, and the mechanistic link is weak. Cetrorelix is well established and widely marketed in India for fertility treatment, but that does not support the predicted new use.
+The prediction for hypertrichosis rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or publications, and the mechanistic link is weak. Cetrorelix is well established and widely marketed in India for fertility treatment, but that does not support the predicted new use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source, since safety data are currently missing

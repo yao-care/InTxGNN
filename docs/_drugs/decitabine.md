@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Decitabine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 237
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Decitabine: predicted new indication Refractory cytopenia of childhood (evidence level L4). Approved use: Myeloid leukaemia / acute myeloid leukaemia (several subtypes)"
@@ -14,7 +14,7 @@ predicted_indications: ["refractory cytopenia of childhood"]
 # Decitabine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Currently there are **no registered clinical trials** and **2 publications** (on
 |------|------|
 | Original Indication | Myeloid leukaemia / acute myeloid leukaemia (several subtypes) |
 | Predicted New Indication | Refractory cytopenia of childhood |
-| TxGNN Prediction Score | 99.03% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 16 |
+| TxGNN Prediction Score | 0.9903 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 16 of 16) |
+| Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

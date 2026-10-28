@@ -4,17 +4,17 @@ title: Sunitinib
 parent: High Evidence (L1-L2)
 nav_order: 801
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Renal cell carcinoma and gastrointestinal stromal tumour"
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
+description: "Sunitinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Sunitinib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Sunitinib: From Renal Cell Carcinoma to Liposarcoma
+## Sunitinib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **2 clinical trials** (both Phase 2, completed) and **9 publications** comp
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma and gastrointestinal stromal tumour (as listed in the knowledge graph; no approved indication text is available from the India licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ with **2 clinical trials** (both Phase 2, completed) and **9 publications** comp
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, sunitinib is a multitargeted tyrosine kinase inhibitor that acts on VEGFR, PDGFR and KIT. Its efficacy in renal cell carcinoma and GIST is established, and mechanistically it may be applicable to sarcomas through anti-angiogenic and PDGFR-blocking effects.
 
-The link to liposarcoma is indirect, however. Liposarcoma is a heterogeneous disease (well-differentiated/dedifferentiated, myxoid and pleomorphic subtypes). Its drivers include MDM2/CDK4 amplification and the FUS-DDIT3 fusion, which are not the main targets of sunitinib. The high TxGNN score therefore reflects knowledge-graph proximity and general soft tissue sarcoma activity rather than a direct mechanism.
+The link to liposarcoma is indirect, however. Liposarcoma is a heterogeneous disease (well-differentiated/dedifferentiated, myxoid and pleomorphic subtypes). Its drivers include MDM2/CDK4 amplification and the FUS-DDIT3 fusion, which are not the main targets of sunitinib. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as general soft tissue sarcoma activity, not biological evidence or a direct mechanism.
 
 Other predicted indications show a stronger mechanistic rationale. Dermatofibrosarcoma protuberans (DFSP) is driven by COL1A1-PDGFB fusion, which activates PDGFRB, a direct sunitinib target. Non-clear-cell and unclassified renal cell carcinoma are extensions of an already approved area. These are beyond the scope of this report but may be worth separate evaluation.
 

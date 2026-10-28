@@ -4,17 +4,17 @@ title: Ivermectin
 parent: Model Prediction Only (L5)
 nav_order: 459
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Ivermectin: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Strongyloidiasis, onchocerciasis"
 monitor_inn: "Ivermectin"
-predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "candida glabrata", "neonatal candidiasis", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive", "vulvitis"]
+predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "candida glabrata", "congenital candidiasis", "neonatal candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 ---
 
 # Ivermectin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but **no clinical trials and no supporting publications** are currently availabl
 |------|------|
 | Original Indication | Strongyloidiasis, onchocerciasis |
 | Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **no clinical trials and no supporting publications** are currently availabl
 
 Currently, detailed mechanism of action data is not available. Based on known information, ivermectin is an antiparasitic agent that acts on glutamate-gated chloride channels in invertebrates. Its efficacy in strongyloidiasis and onchocerciasis is established.
 
-Candida is a fungus, not an invertebrate parasite, and the data compiled for this report documents no antifungal mechanism for ivermectin. The high score (99.95%) most likely reflects proximity in the knowledge graph rather than a validated biological link. Other top predictions (esophageal candidiasis, vulvovaginitis, *Candida glabrata*, neonatal candidiasis and others) show the same pattern: high scores, but no supporting studies.
+Candida is a fungus, not an invertebrate parasite, and the data compiled for this report documents no antifungal mechanism for ivermectin. The high score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other top predictions (esophageal candidiasis, vulvovaginitis, *Candida glabrata*, neonatal candidiasis and others) show the same pattern: high scores, but no supporting studies.
 
 At this stage the prediction should be treated as a hypothesis only.
 

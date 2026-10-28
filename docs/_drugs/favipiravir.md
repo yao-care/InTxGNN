@@ -6,7 +6,7 @@ nav_order: 339
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Favipiravir: predicted new indication Acquired hemophagocytic lymphohistiocytosis associated with malignant… (evidence level L5). Approved use: Influenza"
+description: "Favipiravir: predicted new indication acquired hemophagocytic lymphohistiocytosis associated with malignant disease (evidence level L5). Approved use: Influenza"
 monitor_inn: "Favipiravir"
 predicted_indications: ["acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"]
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **acquired hemophagocytic lymph
 |------|------|
 | Original Indication | Influenza |
 | Predicted New Indication | Acquired hemophagocytic lymphohistiocytosis associated with malignant disease |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The predicted new indication is a different kind of disease. Malignancy-associated hemophagocytic lymphohistiocytosis (HLH) is driven by immune dysregulation and cytokine storm, not by a viral target. No plausible direct mechanistic link is evident, and the high score is a model output only.
 
-A related prediction is worth noting as a research question. For **hemophagocytic syndrome associated with an infection** (same score, 99.41%), an indirect link is plausible: RNA viruses can trigger HLH, and treating the trigger virus might reduce the downstream hyperinflammation. The two papers retrieved for that prediction concern severe fever with thrombocytopenia syndrome and Heartland virus disease. They do not test favipiravir in HLH. That prediction is rated L4 with a "Research Question" status.
+A related prediction is worth noting as a research question. For **hemophagocytic syndrome associated with an infection** (same score, 0.9941), an indirect link is plausible: RNA viruses can trigger HLH, and treating the trigger virus might reduce the downstream hyperinflammation. The two papers retrieved for that prediction concern severe fever with thrombocytopenia syndrome and Heartland virus disease. They do not test favipiravir in HLH. That prediction is rated L4 with a "Research Question" status.
 
 ## Clinical Trial Evidence
 

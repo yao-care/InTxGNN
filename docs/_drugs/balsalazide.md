@@ -48,10 +48,10 @@ with **0 clinical trials** and **0 publications** currently supporting this dire
 |------|------|
 | Original Indication | Ulcerative colitis, inflammatory bowel disease |
 | Predicted New Indication | Gout |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The known anti-inflammatory activity of 5-ASA includes inhibition of prostaglandin and leukotriene synthesis, modulation of NF-kB, and radical scavenging. These pathways could plausibly overlap with the inflammation seen in gout. This link is speculative: no direct mechanistic connection is established in the data compiled for this report, and the high score is a model output only.
 
-Other top-ranked predictions are mostly inflammatory joint or spine conditions (ankylosing spondylitis, rheumatoid arthritis, inflammatory spondylopathy, polyarticular juvenile rheumatoid arthritis). Several others (congenital hypotrichosis with juvenile macular dystrophy, hypermobility of coccyx, Kummell disease) have no plausible biological link and are likely knowledge-graph artifacts. For the rheumatoid conditions, the benefit of the related drug sulfasalazine is generally attributed to its sulfapyridine component rather than 5-ASA, which weakens extrapolation to balsalazide.
+Other top-ranked predictions are mostly inflammatory joint or spine conditions (ankylosing spondylitis, rheumatoid arthritis, inflammatory spondylopathy, polyarticular juvenile rheumatoid arthritis). Several others (congenital hypotrichosis with juvenile macular dystrophy, hypermobility of coccyx, Kummell disease) have no plausible biological link and are likely TxGNN model (deep learning) artifacts. For the rheumatoid conditions, the benefit of the related drug sulfasalazine is generally attributed to its sulfapyridine component rather than 5-ASA, which weakens extrapolation to balsalazide.
 
 ## Clinical Trial Evidence
 

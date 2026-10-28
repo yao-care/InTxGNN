@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 |------|------|
 | Original Indication | Not stated in the available licence records |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---
@@ -117,7 +117,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction relies entirely on a high model score (99.89%). There are no clinical trials, no literature, and no mechanism of action data. The biological direction of effect is also uncertain, because G-CSF-driven neutrophilia could aggravate retinal inflammation.
+The prediction relies entirely on a high model score (0.9989). There are no clinical trials, no literature, and no mechanism of action data. The biological direction of effect is also uncertain, because G-CSF-driven neutrophilia could aggravate retinal inflammation.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products, which are required before safety screening can start

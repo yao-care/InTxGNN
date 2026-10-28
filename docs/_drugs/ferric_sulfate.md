@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Ferric Sulfate
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 348
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Ferric Sulfate: predicted new indication Bronchitis (evidence level L5). Approved use: Not specified in the compiled data"
-monitor_inn: "Ferric sulfate"
-predicted_indications: ["bronchitis", "bronchial neoplasm (disease)", "gastroduodenitis", "peptic ulcer disease", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "severe nonproliferative diabetic retinopathy", "Chagas cardiomyopathy", "infective urethral stricture"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Ferric Sulfate: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Ferric Sulfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +32,51 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ferric Sulfate: From an Unspecified Original Indication to Bronchitis
+<!-- known-uses-page -->
+<!-- description: Ferric Sulfate: known uses and market status in India; currently no new candidate indication -->
+## Ferric Sulfate: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model has no candidate with a score of 0.99 or higher for Ferric Sulfate, so there is currently no new predicted indication. The drug's recorded uses are listed below; for this drug, no known uses are recorded.
 
-Ferric sulfate is an iron salt that is currently marketed in India as oral tablets, but the data compiled for this report do not specify an approved indication.
-The TxGNN model predicts it may be effective for **bronchitis**, but this is a model prediction only, and the **2 linked clinical trials** and **0 publications** do not directly support it.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the compiled data |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 97.65% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 0 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Currently, detailed mechanism of action data is not available. Ferric sulfate is an iron salt, and in other settings it is known as an astringent and hemostatic agent. The registered products in India are oral tablets, and their approved indication text is not available in the compiled data.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-No credible mechanistic link between ferric sulfate and bronchitis has been established. The high TxGNN score (0.977) is a graph-based prediction only. The two linked trials study a different iron compound (sodium ferric gluconate) in iron-deficiency anemia and appear to have been matched through iron-compound overlap, not through any relevance to bronchitis.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The other top-ranked predictions are also model-only, with no trials or publications. They include bronchial neoplasm (93.3%), gastroduodenitis (92.5%), peptic ulcer disease (91.6%), and several coagulation-related conditions. Some of these, such as antithrombin deficiency type 2 and factor 5 excess with thrombosis, are pro-thrombotic conditions where a hemostatic agent would be conceptually undesirable.
-
-## Clinical Trial Evidence
-
-Both trials were graded as having low relevance (Grade C) for the bronchitis hypothesis.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00224055](https://clinicaltrials.gov/study/NCT00224055) | Phase 4 | Completed | 89 | Ferrlecit (IV iron) vs oral ferrous sulfate for anemia and iron deficiency in chronic kidney disease patients not receiving erythropoietic agents. Not related to bronchitis. |
-| [NCT00224042](https://clinicaltrials.gov/study/NCT00224042) | Phase 4 | Completed | 52 | Ferrlecit (IV iron) vs oral ferrous sulfate in chronic kidney disease patients receiving erythropoietic therapy. Not related to bronchitis. |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 88477 | Fevincio Tablet (Akognos Life Sciences) | Strip of 10 tablets | Not specified |
-| 86629 | Feroact Tablet (Edallia Pharmaceuticals Pvt Ltd) | Strip of 10 tablets | Not specified |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 88477 | Fevincio Tablet | strip of 10 tablets | Valid |
+| 86629 | Feroact Tablet | strip of 10 tablets | Valid |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The bronchitis prediction rests on the model score alone (Evidence Level L5). The only linked trials concern a different iron compound in kidney-disease anemia, there is no supporting literature, and no mechanistic link has been identified.
-
-**To proceed, the following is needed:**
-- The India package insert, including approved indication, warnings, and contraindications. This is a blocking gap for safety screening.
-- Mechanism of action data for ferric sulfate.
-- Preclinical or clinical evidence specifically relevant to bronchitis, or a re-evaluation of other predictions.
-- Assessment of whether the oral tablet route is compatible with a respiratory indication.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

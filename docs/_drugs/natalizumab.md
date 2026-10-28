@@ -50,10 +50,10 @@ Several other predicted indications (for example psoriasis) have some literature
 |------|------|
 | Original Indication | Crohn's disease, inflammatory bowel disease, Crohn's colitis, multiple sclerosis (the India license record has no approved indication text) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -70,11 +70,11 @@ The safety profile also works against this use. Natalizumab carries a risk of se
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Bronchitis | 99.46% | L5 | No trials or literature; theoretical link only |
-| Parapsoriasis | 99.37% | L4 | Only one case report, describing an adverse event, not a benefit |
-| Psoriasis | 99.19% | L4 | Conflicting case reports; one small series reports improvement, others report induced or worsened psoriasis |
-| Severe nonproliferative diabetic retinopathy | 99.18% | L5 | No trials or literature; theoretical link only |
-| Acute lichenoid pityriasis | 99.04% | L4 | Only one case report, describing an adverse event, not a benefit |
+| Bronchitis | 0.9946 | L5 | No trials or literature; theoretical link only |
+| Parapsoriasis | 0.9937 | L5 | Only one case report, describing an adverse event, not a benefit |
+| Psoriasis | 0.9919 | L4 | Conflicting case reports; one small series reports improvement, others report induced or worsened psoriasis |
+| Severe nonproliferative diabetic retinopathy | 0.9918 | L5 | No trials or literature; theoretical link only |
+| Acute lichenoid pityriasis | 0.9904 | L5 | Only one case report, describing an adverse event, not a benefit |
 
 ---
 

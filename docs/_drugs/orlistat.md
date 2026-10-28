@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **hypervitaminosis**, but **no 
 |------|------|
 | Original Indication | Obesity disorder, monogenic obesity (the approved-indication text in the India licence records is blank) |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -67,7 +67,7 @@ This reasoning has important limits:
 - It is inferred from pharmacology only. No study in the compiled data tests orlistat as a treatment for vitamin excess.
 - Reduced absorption of fat-soluble vitamins is a known **adverse effect** of orlistat in its approved use, not a recognised benefit.
 - Hypervitaminosis from supplement overuse is normally managed by stopping the supplement, so the case for adding a drug is unclear.
-- The high TxGNN score (0.994) is a computational prediction, not clinical evidence.
+- The high TxGNN score (0.9942) is a computational prediction, not clinical evidence.
 
 ---
 

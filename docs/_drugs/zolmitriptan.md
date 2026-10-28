@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 910
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Zolmitriptan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder (migraine with or without aura)"
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Zolmitriptan: From Migraine to Migraine with Brainstem Aura
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Zolmitriptan is a 5-HT1B/1D receptor agonist (a triptan), originally used for the acute treatment of migraine.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, but there are currently **no registered clinical trials** and only **general migraine literature (20 publications)** supporting this direction, none specific to this subtype.
 Triptans have also traditionally been cautioned against in brainstem-type aura, so this prediction should be treated as a research question rather than a ready-to-use indication.
 
 ---
@@ -48,12 +47,12 @@ Triptans have also traditionally been cautioned against in brainstem-type aura, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder (migraine with or without aura) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -137,7 +136,7 @@ Package insert warnings and contraindications for the Indian products were not a
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output and indirect migraine literature, with no trials or studies specific to migraine with brainstem aura. The theoretical vasoconstrictive risk, the established caution about triptans in this subtype and the knowledge-graph contraindication for hemiplegic migraine and vertebrobasilar insufficiency make this a research question rather than a candidate for clinical development at present.
+The theoretical vasoconstrictive risk, the established caution about triptans in this subtype and the knowledge-graph contraindication for hemiplegic migraine and vertebrobasilar insufficiency make this a research question rather than a candidate for clinical development at present.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
@@ -146,7 +145,7 @@ The prediction rests on model output and indirect migraine literature, with no t
 - Any subtype-specific clinical or observational data on triptans in brainstem aura
 - Clarification of the approved indication text for the Indian registrations
 
-**Other predictions:** Atrophoderma vermiculata (score 99.90%) and ulerythema ophryogenesis (score 99.83%) have no trials, no literature and no plausible mechanistic link to 5-HT1B/1D agonism. Both remain at Evidence Level L5 with a Hold decision.
+**Other predictions:** Atrophoderma vermiculata (score 0.9990) and ulerythema ophryogenesis (score 0.9983) have no trials, no literature and no plausible mechanistic link to 5-HT1B/1D agonism. Both remain at Evidence Level L5 with a Hold decision.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

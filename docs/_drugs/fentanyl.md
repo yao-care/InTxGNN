@@ -48,10 +48,10 @@ Fentanyl is a potent mu-opioid receptor agonist marketed in India as transdermal
 |------|------|
 | Original Indication | Not stated in the available India licence records |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 15 |
+| India Market Status | Marketed (valid licences: 15 of 15) |
+| Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause water retention in the kidney independent of vasopressin. Opioids can influence vasopressin release through central pathways. However, NSIAD is driven by constitutive receptor activation in the kidney, so a central opioid effect would not be expected to correct it. Opioids are also more often associated with SIADH-like effects (increased antidiuretic hormone activity), which suggests possible harm rather than benefit.
 
-**The prediction is therefore not mechanistically supported.** The high score of 0.995 is a computational output only.
+**The prediction is therefore not mechanistically supported.** The high score of 0.9946 is a computational output only.
 
-A second predicted indication, **Tourette syndrome** (score 99.05%, also L5, Hold), has a weak and speculative link. Opioid-modulating agents such as buprenorphine and naltrexone have been explored in small tic-suppression studies. Fentanyl is a short-acting, high-abuse-liability opioid with respiratory depression risk. It is poorly suited to a chronic neuropsychiatric condition normally managed with alpha-2 agonists, antipsychotics, or behavioural therapy (CBIT). No trials or publications support this prediction either.
+A second predicted indication, **Tourette syndrome** (score 0.9905, also L5, Hold), has a weak and speculative link. Opioid-modulating agents such as buprenorphine and naltrexone have been explored in small tic-suppression studies. Fentanyl is a short-acting, high-abuse-liability opioid with respiratory depression risk. It is poorly suited to a chronic neuropsychiatric condition normally managed with alpha-2 agonists, antipsychotics, or behavioural therapy (CBIT). No trials or publications support this prediction either.
 
 ---
 

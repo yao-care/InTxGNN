@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 ## One-Sentence Summary
 
 Bleomycin is a cytotoxic anticancer antibiotic, originally used for Hodgkin and non-Hodgkin lymphomas and head and neck cancer.
-The TxGNN model's top-ranked prediction is **cauda equina neoplasm** (score 99.30%), but only **0 clinical trials** and **1 publication** support it. The best-supported candidate among the top six predictions is **reticulum cell sarcoma** (an obsolete term for aggressive B-cell lymphoma), with **11 clinical trials** and **20 publications**. That candidate largely overlaps with bleomycin's already-approved lymphoma use.
+The TxGNN model's top-ranked prediction is **cauda equina neoplasm** (score 0.9930), but only **0 clinical trials** and **1 publication** support it. The best-supported candidate among the top six predictions is **reticulum cell sarcoma** (an obsolete term for aggressive B-cell lymphoma), with **11 clinical trials** and **20 publications**. That candidate largely overlaps with bleomycin's already-approved lymphoma use.
 
 ---
 
@@ -49,22 +49,22 @@ The TxGNN model's top-ranked prediction is **cauda equina neoplasm** (score 99.3
 |------|------|
 | Original Indication | Hodgkin lymphoma, non-Hodgkin lymphoma, head and neck cancer (the India licence records contain no indication text) |
 | Predicted New Indication | Cauda equina neoplasm (top-ranked prediction) |
-| TxGNN Prediction Score | 99.30% |
+| TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 
 **Other predictions reviewed:**
 
 | Rank | Predicted Indication | Score | Evidence Level | Decision |
 |------|------|------|------|------|
-| 1 | Cauda equina neoplasm | 99.30% | L5 | Hold |
-| 2 | Adult astrocytic tumour | 99.28% | L3 | Research Question |
-| 3 | Reticulum cell sarcoma | 99.14% | L1 | Proceed with Guardrails |
-| 4 | Primary pulmonary lymphoma | 99.10% | L4 | Research Question |
-| 5 | Pulmonary blastoma | 99.04% | L4 | Hold |
-| 6 | Well-differentiated fetal adenocarcinoma of the lung | 99.03% | L5 | Hold |
+| 1 | Cauda equina neoplasm | 0.9930 | L5 | Hold |
+| 2 | Adult astrocytic tumour | 0.9928 | L5 | Research Question |
+| 3 | Reticulum cell sarcoma | 0.9914 | L5 | Proceed with Guardrails |
+| 4 | Primary pulmonary lymphoma | 0.9910 | L4 | Research Question |
+| 5 | Pulmonary blastoma | 0.9904 | L4 | Hold |
+| 6 | Well-differentiated fetal adenocarcinoma of the lung | 0.9903 | L5 | Hold |
 
 ---
 

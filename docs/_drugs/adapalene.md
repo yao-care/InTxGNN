@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Adapalene: From Acne to Elevated Plasma Zinc
+## Adapalene: From Acne to Zinc, Elevated Plasma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but *
 |------|------|
 | Original Indication | Acne |
 | Predicted New Indication | Zinc, elevated plasma |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Elevated plasma zinc is a laboratory finding or biochemical state rather than a conventional treatable disease. No known pathway connects retinoid receptor signalling to zinc homeostasis in a way that would lower plasma zinc. Topical adapalene also has low systemic exposure, which makes a systemic effect on plasma zinc even less likely.
 
-The very high TxGNN score (0.995) is a model output only. It may reflect a knowledge-graph artifact, such as general retinoid–zinc associations in skin biology or shared gene-network neighbours. It should not be read as evidence of efficacy.
+The very high TxGNN score (0.9951) is a model output only. It may reflect a TxGNN model (deep learning) artifact, such as general retinoid–zinc associations in skin biology or shared gene-network neighbours. It should not be read as evidence of efficacy.
 
 ---
 

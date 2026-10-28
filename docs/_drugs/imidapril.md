@@ -4,17 +4,17 @@ title: Imidapril
 parent: Model Prediction Only (L5)
 nav_order: 426
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Imidapril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
 monitor_inn: "Imidapril"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome"]
+last_modified_at: 2026-10-23
+description: "Imidapril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Hypertension (hypertensive disorder)…"
 ---
 
 # Imidapril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +33,42 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Imidapril: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
+## Imidapril: From Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Imidapril is an ACE inhibitor originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
+The TxGNN model predicts it may be effective for **pulmonary hypertension owing to lung disease and/or hypoxia**,
+but **no clinical trials and no publications** were found in the data compiled for this report, so this remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.78% |
+| Original Indication | Hypertension (hypertensive disorder), as recorded in the knowledge graph; the licence records contain no indication text |
+| Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, imidapril is an ACE inhibitor prodrug, converted in the body to its active form imidaprilat. It lowers angiotensin II and reduces systemic vascular resistance, which explains its efficacy in hypertension.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, imidapril is an ACE inhibitor prodrug that is converted to its active form, imidaprilat. It reduces angiotensin II formation and may lower vascular tone and vascular remodeling. Its target is the angiotensin-converting enzyme (ACE).
 
-A theoretical link to pulmonary hypertension exists through the renin-angiotensin system, which may play a role in pulmonary vascular remodelling. However, this link rests on general class knowledge only. ACE inhibitors have not shown reliable benefit in pulmonary arterial hypertension, and the high TxGNN score is a computational prediction without clinical confirmation.
+Hypertension is a relation recorded in the knowledge graph for this drug. In theory, lowering vascular tone and remodeling could be relevant to pulmonary vascular resistance, which is the basis of the prediction.
 
-Other predicted indications were also reviewed. All have the same L5 evidence level and a Hold recommendation:
+This link is weak. ACE inhibitors are not generally used for pulmonary hypertension caused by lung disease or hypoxia, and systemic vasodilators may worsen ventilation-perfusion matching. The prediction rests only on the high model score and is not backed by clinical evidence.
 
-| Rank | Predicted Indication | Score | Comment |
-|------|------|------|------|
-| 2 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.78% | Possible RAS involvement, but systemic vasodilation could worsen ventilation-perfusion matching in hypoxic lung disease |
-| 3 | Malignant hypertensive renal disease | 99.76% | Close to the approved indication and biologically plausible, but it is a subtype of hypertension, usually managed with parenteral agents, with a risk of acute kidney injury |
-| 4 | Malignant renovascular hypertension | 99.76% | Strongly RAS-driven, but ACE inhibitors can precipitate acute renal failure in bilateral renal artery stenosis or a solitary kidney |
-| 5 | Braddock syndrome | 99.70% | No evident mechanistic rationale; likely reflects knowledge-graph proximity |
+Other predicted indications from the same model, all at evidence level L5 with a Hold recommendation:
+
+| Predicted Indication | TxGNN Score | Comment |
+|------|------|------|
+| Pulmonary hypertension with unclear multifactorial mechanism | 0.9978 | The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| Malignant hypertensive renal disease | 0.9976 | The most biologically coherent, since the RAAS is central to malignant hypertension and its renal injury; however, it is an acute emergency usually managed with IV agents, and ACE inhibitors carry risks such as acute kidney injury and renal artery stenosis |
+| Braddock syndrome | 0.9970 | The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; no clear mechanistic link, needs verification |
 
 ## Clinical Trial Evidence
 
@@ -81,31 +82,30 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 224165 | Tanatril 10mg Tablet | Strip of 10 tablets | Not specified |
-| 220107 | Tanatril 5mg Tablet | Strip of 10 tablets | Not specified |
+| Registration No. 224165 | Tanatril 10mg Tablet | Strip of 10 tablets | Not stated in the licence record |
+| Registration No. 220107 | Tanatril 5mg Tablet | Strip of 10 tablets | Not stated in the licence record |
 
-Both licences are valid single-ingredient oral products from Elder Pharmaceuticals Ltd.
+Both are single-ingredient products from Elder Pharmaceuticals Ltd, currently valid, for oral use.
 
 ## Safety Considerations
 
-- **Drug Interactions**: The only interaction entry compiled is pharmacological, with the target angiotensin-converting enzyme (ACE), which reflects its mechanism of action. No drug-drug interaction severity levels were available.
-- **Class-related cautions (from the repurposing assessment)**: ACE inhibitors carry a risk of acute kidney injury or acute renal failure in bilateral renal artery stenosis or a solitary kidney. In hypoxic lung disease, systemic vasodilation may worsen ventilation-perfusion matching.
+- **Drug Interactions**: The only interaction record is a pharmacological target relationship with angiotensin-converting enzyme (ACE), which is the drug's intended target rather than a drug-drug interaction.
 
-Please refer to the package insert for full warnings and contraindications.
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no supporting clinical trials or publications (L5). The mechanistic link is theoretical, and ACE inhibitors have not shown reliable benefit in pulmonary arterial hypertension. Package insert safety data are also missing.
+The prediction is supported only by the model score. No clinical trials or publications address pulmonary hypertension, and the mechanistic rationale is doubtful in lung-disease or hypoxia-related settings.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India Pharma source (a blocking gap for safety screening)
-- Detailed mechanism of action data (MOA) from DrugBank
-- Preclinical or clinical evidence for imidapril in pulmonary hypertension
-- Assessment of renal and haemodynamic safety in the target population
-- Route compatibility and similarity-to-original-indication analysis
+- Package insert warnings and contraindications from the manufacturer, which are currently missing and block safety screening
+- Confirmed mechanism of action data from DrugBank
+- A literature and trial search specific to ACE inhibitors in pulmonary hypertension
+- Preclinical or physiological evidence on the effect on ventilation-perfusion matching and pulmonary vascular resistance
+- If any indication is pursued, malignant hypertensive renal disease is the most plausible candidate, but it would require dedicated safety assessment (renal function, renal artery stenosis)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

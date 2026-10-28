@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Betaxolol
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 107
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Betaxolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertension, open-angle glaucoma, ocular hypertension"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Betaxolol: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Betaxolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,46 +32,47 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Betaxolol: From Hypertension and Open-Angle Glaucoma to Primary Hereditary Glaucoma
+<!-- known-uses-page -->
+<!-- description: Betaxolol: known uses and market status in India; currently no new candidate indication -->
+## Betaxolol: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+All candidates produced by the TxGNN model for Betaxolol (score ≥ 0.99) that can be traced to a source are already known uses. There is therefore currently no new predicted indication for this drug in India.
 
-Betaxolol is a cardioselective beta-1 blocker originally used for hypertension, open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but **no clinical trials and no publications** were found in the data compiled for this report, so the prediction currently rests on the model alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, open-angle glaucoma, ocular hypertension (the approved indication text on the Indian licences is blank) |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 0 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism-of-action data is not available. Based on known information, betaxolol is a cardioselective beta-1 adrenergic antagonist. In the eye it lowers intraocular pressure (IOP) by reducing aqueous humour production. Its efficacy in open-angle glaucoma and ocular hypertension is established, so it may be mechanistically applicable to primary hereditary glaucoma, where raised IOP is also a main driver of optic nerve damage.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Some preclinical reports also describe neuroprotective effects (for example, calcium and sodium channel modulation), which could be relevant to glaucoma generally. This has not been confirmed for the predicted indication.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-There are important limits to this reasoning:
-- Primary hereditary glaucoma (for example, congenital or juvenile forms linked to MYOC or CYP1B1 variants) often arises from structural developmental defects of the trabecular meshwork or the drainage angle. Medical IOP lowering is therefore usually only adjunctive or a temporary measure before surgery.
-- The very high TxGNN score most likely reflects how close this disease sits to the already approved glaucoma indications in the knowledge graph, rather than independent evidence.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 95232 | Glucoptic Eye Drop (Klar Sehen Pvt Ltd) | Packet of 5 ml eye drop | Not stated |
-| 29999 | Betapress 0.5% Eye Drop (Micro Labs Ltd) | Packet of 5 ml eye drop | Not stated |
-| 107898 | Iobet Eye Drop (FDC Ltd) | Bottle of 5 ml eye drop | Not stated |
-
-All three are valid single-ingredient ophthalmic products. No oral formulation is registered in the data compiled for this report.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 95232 | Glucoptic Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 29999 | Betapress 0.5% Eye Drop | packet of 5 ml Eye Drop | Valid |
+| 107898 | Iobet Eye Drop | bottle of 5 ml Eye Drop | Valid |
 
 ## Safety Considerations
 
@@ -89,20 +91,6 @@ Package insert warnings and contraindications were not available, so please refe
 
 The doses and routes relevant to the predicted indication have not been assessed, and the ophthalmic route is the only one registered in India.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the model score, with no registered clinical trials or literature. The mechanism is plausible for IOP lowering, but hereditary glaucoma often needs surgery, so the likely benefit is adjunctive.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
-- Detailed mechanism of action data (for example, from DrugBank)
-- A systematic literature and trial search for betaxolol in congenital, juvenile or other hereditary glaucoma
-- Clarification of the approved indication wording on the three Indian licences
-- Assessment of route and formulation suitability, particularly for paediatric patients
-- Review of the knowledge-graph contraindications against the label, especially respiratory, cardiac and diabetic risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

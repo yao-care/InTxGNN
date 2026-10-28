@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Epalrestat
-parent: Moderate Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 311
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Epalrestat: predicted new indication Type 2 diabetic nephropathy (evidence level L3). Approved use: Diabetic neuropathy / diabetic polyneuropathy"
-monitor_inn: "Epalrestat"
-predicted_indications: ["Tay-Sachs disease", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "adult Krabbe disease", "cholesterol metabolism disease", "infantile neuronal ceroid lipofuscinosis", "autosomal ichthyosis syndrome with fatal disease course", "familial generalized lentiginosis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Epalrestat: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Epalrestat
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +32,66 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Epalrestat: From Diabetic Neuropathy to Type 2 Diabetic Nephropathy
+<!-- known-uses-page -->
+<!-- description: Epalrestat: known uses and market status in India; currently no new candidate indication -->
+## Epalrestat: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Epalrestat, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The single known use is listed below with its source.
 
-Epalrestat is an aldose reductase inhibitor, originally used to treat diabetic neuropathy and diabetic polyneuropathy.
-The TxGNN model predicts it may be effective for **type 2 diabetic nephropathy**,
-but so far there are **no registered clinical trials** and only **3 publications** (one 5-year cohort study, one modelling/combination-therapy study and one narrative review) supporting this direction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Diabetic neuropathy / diabetic polyneuropathy (approved indication text is not listed in the Indian registrations) |
-| Predicted New Indication | Type 2 diabetic nephropathy |
-| TxGNN Prediction Score | 99.16% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold (research question; further evidence needed) |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available from the source database. Based on the known pharmacology, however, epalrestat inhibits aldose reductase, the rate-limiting enzyme of the polyol pathway. In hyperglycaemia, increased polyol flux leads to sorbitol accumulation, osmotic and oxidative stress, and downstream injury to the glomeruli and renal tubules.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| type 2 diabetes nephropathy | licence in another country (approved indication: diabetes) |
 
-This is the same pathway implicated in diabetic neuropathy, the approved indication. Diabetic neuropathy and diabetic nephropathy are both microvascular complications of chronic hyperglycaemia, so the mechanistic link is direct and biologically coherent. The drug is also already marketed and has an established safety record in diabetic patients, which lowers the barrier to further study.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [11522497](https://pubmed.ncbi.nlm.nih.gov/11522497/) | 2001 | Cohort | J Diabetes Complications | 35 type 2 diabetic patients with microalbuminuria; epalrestat 150 mg/day for 5 years compared with matched controls, assessing the effect on renal function and the development of incipient nephropathy |
-| [39423107](https://pubmed.ncbi.nlm.nih.gov/39423107/) | 2024 | Cohort/Modelling | Iran J Kidney Dis | Built a risk prediction model for diabetic nephropathy in type 2 diabetes and observed the therapeutic effect of epalrestat combined with dapagliflozin |
-| [41830794](https://pubmed.ncbi.nlm.nih.gov/41830794/) | 2026 | Review | Med Gas Res | Narrative review of the "glycohypoxia" hypothesis linking chronic hyperglycaemia to functional hypoxia and diabetic complications; indirect, background support only |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## India Market Information
 
-Showing 5 of 20 valid single-ingredient registrations. Approved indication text is not provided in the registration records.
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 74029 | Epstat 150mg Tablet SR | strip of 10 tablet sr | Valid |
+| 138007 | Mepal 150mg/1500mcg Tablet | strip of 10 tablets | Valid |
+| 80995 | Epalrest-M Tablet | strip of 10 tablets | Valid |
+| 81481 | Epalpex-M SR Tablet | strip of 10 tablet sr | Valid |
+| 1404 | Alrista Forte Tablet | strip of 10 tablets | Valid |
+| 72953 | Epineuron SR Tablet | strip of 10 tablet sr | Valid |
+| 124764 | Listap 150 SR Tablet | strip of 10 tablet sr | Valid |
+| 74234 | Eparel 50 Tablet | strip of 10 tablets | Valid |
+| 155510 | Nurestat 50mg Tablet | strip of 10 tablets | Valid |
+| 6866 | Aristat 50mg Tablet | strip of 10 tablets | Valid |
+| 76107 | Epalpex 150 SR Tablet | strip of 10 tablet sr | Valid |
+| 131645 | Listap 50mg Tablet | strip of 10 tablets | Valid |
+| 802 | Alrista Plus Tablet SR | strip of 10 tablet sr | Valid |
+| 74143 | Epineuron Tablet | strip of 10 tablets | Valid |
+| 175127 | Pre Aldonil 150mg/150mg Tablet | strip of 10 tablets | Valid |
+| 468 | Aldonil Tablet | strip of 10 tablets | Valid |
+| 74687 | Epo 150 Tablet SR | strip of 10 tablet sr | Valid |
+| 155602 | Nurestat-Plus Tablet SR | strip of 10 tablet sr | Valid |
+| 154798 | Nurestat 150SR Tablet | strip of 10 tablet sr | Valid |
+| 874 | Aldonil Plus Tablet SR | strip of 10 tablet sr | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Registration No. 74029 | Epstat 150mg Tablet SR | Sustained-release tablet (strip of 10) | Not listed |
-| Registration No. 138007 | Mepal 150mg/1500mcg Tablet | Tablet (strip of 10) | Not listed |
-| Registration No. 80995 | Epalrest-M Tablet | Tablet (strip of 10) | Not listed |
-| Registration No. 1404 | Alrista Forte Tablet | Tablet (strip of 10) | Not listed |
-| Registration No. 468 | Aldonil Tablet | Tablet (strip of 10) | Not listed |
-
-All products are oral formulations (tablets and sustained-release tablets), and none are cancelled.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -92,18 +99,6 @@ All products are oral formulations (tablets and sustained-release tablets), and 
 
 For other safety information, including warnings and contraindications, please refer to the package insert.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The mechanistic link between aldose reductase inhibition and diabetic nephropathy is sound, and the drug is widely marketed in India. However, the supporting evidence is limited to a small long-term cohort study, a modelling/combination-therapy study and a review, with no registered clinical trials. This is best treated as a research question rather than a candidate ready to proceed.
-
-**To proceed, the following is needed:**
-- Randomised controlled trials of epalrestat in diabetic nephropathy, with renal endpoints such as albuminuria and eGFR
-- Detailed mechanism of action data
-- Package insert warnings and contraindications from the Indian product labels, to allow safety screening
-- Safety assessment in patients with reduced renal function, and of combination use with agents such as SGLT2 inhibitors
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

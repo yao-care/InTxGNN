@@ -47,13 +47,13 @@ The TxGNN model predicts it may be effective for **specific developmental disord
 |------|------|
 | Original Indication | Attention deficit hyperactivity disorder (ADHD), including the inattentive type |
 | Predicted New Indication | Specific developmental disorder |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-The original indication comes from the TxGNN knowledge graph, because the Indian licence records contain no approved indication text.
+The original indication comes from the TxGNN model (deep learning), because the Indian licence records contain no approved indication text; the score comes from the model and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Why is This Prediction Reasonable?
 

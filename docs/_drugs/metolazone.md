@@ -4,17 +4,17 @@ title: Metolazone
 parent: Model Prediction Only (L5)
 nav_order: 543
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Metolazone: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "Metolazone"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Metolazone: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Metolazone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Metolazone: From Hypertension to Malignant Renovascular Hypertension
+## Metolazone: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Metolazone is a thiazide-like diuretic, originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.84% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Malignant renovascular hypertension is a severe form of hypertension. It is driven largely by activation of the renin-angiotensin system due to renal artery stenosis. This makes the link to the original indication only partial. Thiazide-like diuretics can further stimulate renin, which could work against the intended effect in this setting. The high score most likely reflects the model's similarity to the parent hypertension indication rather than a specific mechanistic fit.
 
-Other predictions show the same pattern. Malignant hypertensive renal disease (99.84%) has a plausible link, since metolazone stays effective when kidney function is reduced. However, malignant hypertension usually needs rapid, titratable intravenous agents, and an oral diuretic is not a primary therapy. Pulmonary hypertension (99.83%) has only a symptom-level rationale: relieving fluid congestion and right-heart volume load, not treating the pulmonary vessels. Braddock syndrome (99.78%) has no identifiable mechanistic connection and appears to be a knowledge-graph artifact.
+Other predictions show the same pattern. Malignant hypertensive renal disease (0.9984) has a plausible link, since metolazone stays effective when kidney function is reduced. However, malignant hypertension usually needs rapid, titratable intravenous agents, and an oral diuretic is not a primary therapy. Pulmonary hypertension (0.9983) has only a symptom-level rationale: relieving fluid congestion and right-heart volume load, not treating the pulmonary vessels. Braddock syndrome (0.9978) has no identifiable mechanistic connection and appears to be a TxGNN model (deep learning) artifact.
 
 ## Literature Evidence
 

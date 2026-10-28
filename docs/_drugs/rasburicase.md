@@ -6,9 +6,9 @@ nav_order: 729
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Hyperuricemia"
 monitor_inn: "Rasburicase"
-predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
+description: "Rasburicase: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rasburicase
@@ -33,34 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rasburicase: From Hyperuricemia to Renal Hypouricemia
+## Rasburicase: Hypouricemia, renal
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Rasburicase is a recombinant urate oxidase originally used to lower uric acid in hyperuricemia.
 The TxGNN model predicts it may be effective for **renal hypouricemia**, but **no clinical trials and no publications** currently support this prediction.
-The mechanism also argues against it, so the prediction appears to be a knowledge-graph artifact rather than a real therapeutic opportunity.
+The mechanism also argues against it, so the prediction appears to be a TxGNN model (deep learning) artifact rather than a real therapeutic opportunity.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperuricemia (obsolete disease term in the knowledge graph); no approved indication text is available for the Indian licenses |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypouricemia, renal |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, rasburicase is a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble, and so lowers serum uric acid. Its efficacy in hyperuricemia follows directly from this action.
 
-Renal hypouricemia, however, is already a state of low serum uric acid, typically caused by loss-of-function in urate transporters such as URAT1 or GLUT9. Depleting urate further is mechanistically counterproductive and could add risk. The high TxGNN score most likely comes from the shared urate-metabolism node in the graph, not from a rational therapeutic link.
+Renal hypouricemia, however, is already a state of low serum uric acid, typically caused by loss-of-function in urate transporters such as URAT1 or GLUT9. Depleting urate further is mechanistically counterproductive and could add risk. The high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other predictions in the top 10 are also weak. Partial HPRT deficiency has some biological plausibility for acute urate lowering. Rasburicase does not correct the enzyme defect, though, and it is a parenteral, immunogenic protein unsuited to chronic use, while oral xanthine oxidase inhibitors are already established. Hepatic porphyria, hepatopulmonary syndrome, portal vein disorders, copper-associated cirrhosis, renal tubular acidosis and phenylalanine metabolism disorders show no identifiable mechanistic link. They appear to reflect graph proximity only.
+Other predictions in the top 10 are also weak. Partial HPRT deficiency has some biological plausibility for acute urate lowering. Rasburicase does not correct the enzyme defect, though, and it is a parenteral, immunogenic protein unsuited to chronic use, while oral xanthine oxidase inhibitors are already established. Hepatic porphyria, hepatopulmonary syndrome, portal vein disorders, copper-associated cirrhosis, renal tubular acidosis and phenylalanine metabolism disorders show no identifiable mechanistic link. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

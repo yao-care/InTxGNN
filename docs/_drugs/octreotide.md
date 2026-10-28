@@ -4,17 +4,17 @@ title: Octreotide
 parent: Model Prediction Only (L5)
 nav_order: 612
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Acromegaly, hyperpituitarism, carcinoid syndrome"
 monitor_inn: "Octreotide"
-predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis", "nephrotic syndrome ocular anomalies", "Addison disease", "membranoproliferative glomerulonephritis, X-linked", "familial idiopathic steroid-resistant nephrotic syndrome with diffuse mesangial sclerosis", "familial idiopathic steroid-resistant nephrotic syndrome with minimal changes", "adrenocortical insufficiency", "primary hypereosinophilic syndrome", "autosomal recessive familial Mediterranean fever"]
+predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
+description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Octreotide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Octreotide: From Acromegaly to Vulvar Inverted Follicular Keratosis
+## Octreotide: Vulvar inverted follicular keratosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Acromegaly, hyperpituitarism, carcinoid syndrome |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Vulvar inverted follicular keratosis |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -105,7 +105,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between somatostatin receptor agonism and a benign keratinocyte lesion. The other top-ranked predictions (such as seborrheic keratosis and several nephrotic syndromes) are also prediction-only. Addison disease and adrenocortical insufficiency have only a few papers, which are indirect or negative.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between somatostatin receptor agonism and a benign keratinocyte lesion. The other top-ranked predictions (such as seborrheic keratosis and several nephrotic syndromes) are also prediction-only.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for the marketed Indian products. This is a blocking gap for safety screening.

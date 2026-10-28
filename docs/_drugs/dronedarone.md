@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dronedarone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 292
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Dronedarone: predicted new indication Stroke disorder (evidence level L3). Approved use: Atrial fibrillation"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Dronedarone"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
+predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
+last_modified_at: 2026-10-27
+description: "Dronedarone: predicted new indication stroke disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dronedarone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Dronedarone: From Atrial Fibrillation to Stroke Disorder
+## Dronedarone: multichannel-blocking antiarrhythmic → stroke disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dronedarone is a multichannel-blocking antiarrhythmic drug, originally used to treat atrial fibrillation.
-The TxGNN model predicts it may be effective for **stroke disorder**, but there are **no registered clinical trials** and the **20 publications** compiled for this report are mostly reviews, guidelines and post-hoc analyses in atrial fibrillation (AF) populations, not stroke-specific trials.
+Dronedarone is a multichannel-blocking antiarrhythmic drug.
+The TxGNN model predicts it may be relevant for **stroke disorder**, but the supporting material is indirect: **no registered clinical trials** and **20 publications** that mostly concern atrial fibrillation rather than stroke as a primary endpoint.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (the India license text contains no approved indication wording, so this comes from the knowledge graph) |
-| Predicted New Indication | Stroke disorder |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | stroke disorder |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dronedarone is a multichannel-blocking antiarrhythmic (it inhibits sodium, potassium and calcium currents, and has antiadrenergic effects), its use in atrial fibrillation is established, and mechanistically it may be applicable to stroke through indirect routes.
+Detailed mechanism of action data is not available in the data compiled for this report. Literature describes dronedarone as a multichannel-blocking antiarrhythmic, structurally related to amiodarone but without iodine. It inhibits sodium, potassium and calcium currents and has antiadrenergic effects.
 
-AF is a major cause of cardioembolic stroke. Any stroke benefit would most plausibly come indirectly, through rhythm or rate control. Post-hoc analyses of the ATHENA trial and a related meta-analysis reported fewer strokes in patients with paroxysmal or persistent AF taking dronedarone. One laboratory study also suggested direct anticoagulant and antiplatelet effects, and a preclinical review described protective effects on ischemia/reperfusion injury in heart and brain.
+Atrial fibrillation is a major cause of cardioembolic stroke. If dronedarone helps stroke outcomes, the most plausible route is indirect, through rhythm or rate control in patients with atrial fibrillation. Secondary analyses of the ATHENA trial suggested lower stroke rates in paroxysmal or persistent atrial fibrillation. One laboratory study also reported anticoagulant and antiplatelet effects independent of rhythm control.
 
-The high TxGNN score mainly reflects how closely AF and stroke are linked in the knowledge graph. It is not independent clinical evidence. Safety findings from the PALLAS trial (high-risk permanent AF) and heart failure reviews also limit how far these findings can be extended.
+These findings come from atrial fibrillation populations and post-hoc analyses, not from trials in which stroke itself was the studied disease. Accordingly, no cited study directly addresses stroke disorder as the target condition, and the evidence level is L5. The high score mainly reflects network proximity between atrial fibrillation and stroke, and it is not independent clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -67,53 +67,48 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-The table lists the most relevant publications. Evidence for stroke is mostly secondary or indirect.
+The publications below were compiled for this prediction. Most are reviews, guidelines or atrial fibrillation studies.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22082198](https://pubmed.ncbi.nlm.nih.gov/22082198/) | 2011 | RCT (PALLAS) | N Engl J Med | Dronedarone tested in high-risk permanent AF, where major vascular events were the focus; safety concerns arose in this population |
-| [22149318](https://pubmed.ncbi.nlm.nih.gov/22149318/) | 2011 | Meta-analysis / post-hoc | Am J Cardiovasc Drugs | Pooled randomized-trial data suggested a reduced stroke risk in paroxysmal or persistent AF |
 | [40387892](https://pubmed.ncbi.nlm.nih.gov/40387892/) | 2025 | RCT post-hoc analysis | Clin Res Cardiol | Long-term safety and efficacy of amiodarone and dronedarone for early rhythm control in EAST-AFNET 4 |
-| [25820938](https://pubmed.ncbi.nlm.nih.gov/25820938/) | 2015 | Systematic review | Cochrane Database Syst Rev | Antiarrhythmics for maintaining sinus rhythm after cardioversion of AF |
-| [20396635](https://pubmed.ncbi.nlm.nih.gov/20396635/) | 2010 | Review | Clin Interv Aging | Impact of dronedarone on stroke reduction in AF and flutter |
-| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | Mechanistic study | Atherosclerosis | Dronedarone showed anticoagulant and antiplatelet effects independent of its antiarrhythmic action |
-| [22366819](https://pubmed.ncbi.nlm.nih.gov/22366819/) | 2012 | Preclinical review | Cardiovasc Drugs Ther | Pleiotropic effects on ischemia/reperfusion injury in heart and brain |
-| [37485722](https://pubmed.ncbi.nlm.nih.gov/37485722/) | 2023 | Cohort | Circ Arrhythm Electrophysiol | Dronedarone vs sotalol in antiarrhythmic-drug-naive veterans with AF |
-| [41152878](https://pubmed.ncbi.nlm.nih.gov/41152878/) | 2025 | Cohort | BMC Med | Concomitant use of direct oral anticoagulants and interacting antiarrhythmics and the risk of stroke and bleeding in non-valvular AF |
-| [22433576](https://pubmed.ncbi.nlm.nih.gov/22433576/) | 2012 | Guideline | Can J Cardiol | Canadian guideline update on stroke prevention and rate/rhythm control in AF |
+| [22082198](https://pubmed.ncbi.nlm.nih.gov/22082198/) | 2011 | RCT (PALLAS) | N Engl J Med | Dronedarone in high-risk permanent atrial fibrillation; tested whether it reduces major vascular events |
+| [35293087](https://pubmed.ncbi.nlm.nih.gov/35293087/) | 2022 | Post-hoc analysis | Eur J Heart Fail | ATHENA analysis of atrial fibrillation with preserved or mildly reduced ejection fraction heart failure |
+| [37485722](https://pubmed.ncbi.nlm.nih.gov/37485722/) | 2023 | Cohort | Circ Arrhythm Electrophysiol | Dronedarone vs sotalol in antiarrhythmic-naive veterans with atrial fibrillation |
+| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | Experimental | Atherosclerosis | Anticoagulant and antiplatelet effects independent of antiarrhythmic action; ATHENA reported fewer strokes and transient ischemic attacks |
+| [28496906](https://pubmed.ncbi.nlm.nih.gov/28496906/) | 2013 | Retrospective cohort | J Atr Fibrillation | Real-world risk of cardiovascular events, stroke and heart failure vs amiodarone and other antiarrhythmics |
+| [38782070](https://pubmed.ncbi.nlm.nih.gov/38782070/) | 2024 | Cohort | Int J Cardiol | Antiarrhythmic drugs and cardiovascular outcomes in atrial fibrillation with coronary artery disease |
+| [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review | Vasc Health Risk Manag | Approval and efficacy of dronedarone; post hoc ATHENA data suggest lower stroke risk, with safety concerns |
+| [21370206](https://pubmed.ncbi.nlm.nih.gov/21370206/) | 2011 | Review | Swiss Med Wkly | Dronedarone for atrial fibrillation management |
+| [22433576](https://pubmed.ncbi.nlm.nih.gov/22433576/) | 2012 | Guideline | Can J Cardiol | Canadian guideline update on stroke prevention and rate/rhythm control in atrial fibrillation |
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 64181 | Dilsave 400mg Tablet (Emcure Pharmaceuticals Ltd) | Strip of 10 tablets (oral) | Not specified in the compiled data |
-
-## Cytotoxicity
-
-Not applicable: dronedarone is an antiarrhythmic, not an antineoplastic drug, so this section is omitted.
+| 64181 | Dilsave 400mg Tablet | Strip of 10 tablets | Not recorded |
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph** (these are graph relationships, not package insert text): long QT syndrome (including the familial form), torsades de pointes, liver failure, potassium deficiency, atrioventricular block, and sick sinus syndrome (including the familial form).
-- **Drug Interactions**: 253 interactions were identified. Major-level examples include hydrocortisone, clarithromycin, loperamide, dolasetron, the amphotericin B formulations, picosulfuric acid and polyethylene glycol (3350 with electrolytes). Moderate-level examples include famotidine, cimetidine, aprepitant, dexamethasone, budesonide, saxagliptin, alvimopan, bisacodyl and castor oil.
-- **Anticoagulants**: the literature indicates dronedarone can raise levels of direct oral anticoagulants (through P-gp inhibition). This matters for both stroke and bleeding risk.
-- **Patient selection**: harm was seen in permanent AF and in heart failure (PALLAS and heart failure reviews).
+- **Contraindication-related conditions:** Related records list long QT syndrome (including familial), torsades de pointes, liver failure, potassium deficiency, atrioventricular block and sick sinus syndrome (including familial). These are not label text.
+- **Drug Interactions:** 253 interactions were recorded. Major-level examples include hydrocortisone, amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms), loperamide, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes) and dolasetron. Moderate-level examples include famotidine, alvimopan, aprepitant, dexamethasone, bisacodyl, budesonide, cimetidine, saxagliptin and castor oil.
+- **Other concerns from the literature:** Harm was seen in permanent atrial fibrillation and heart failure (PALLAS). Dronedarone also interacts with direct oral anticoagulants, which matters for stroke and bleeding risk.
 
-Please refer to the package insert for the remaining safety information, since the label warnings were not available.
+Please also refer to the package insert, as warnings are not recorded in the local data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence level is L3 (reviews, guidelines and post-hoc analyses in AF populations). There are no registered trials, and no trial has stroke prevention in a non-AF population as its primary endpoint. Safety signals in permanent AF and heart failure also limit extrapolation. The other nine predictions have no trial or literature support. Most are L5 model predictions only, and several are obsolete, implausible or safety concerns (for example, sick sinus syndrome).
+No registered trial and no cited study directly examines dronedarone in stroke disorder. The stroke-related signals come from post-hoc analyses in atrial fibrillation populations, and the safety signal in permanent atrial fibrillation and heart failure restricts extrapolation.
 
 **To proceed, the following is needed:**
-- The India package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A prespecified stroke-outcome analysis in AF populations, or a prospective study with stroke as a primary endpoint
-- Clear patient selection criteria that exclude permanent AF, heart failure and conduction disorders
-- A plan for managing interactions with anticoagulants and other QT-prolonging drugs
+- A trial or well-designed study with stroke as the primary outcome
+- Clear definition of the patient group (for example paroxysmal or persistent atrial fibrillation, excluding permanent atrial fibrillation and heart failure)
+- Detailed mechanism of action data
+- The package insert warnings and contraindications for the marketed product
+- An assessment of interactions with anticoagulants
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

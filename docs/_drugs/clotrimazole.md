@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **acne**, but the supporting ev
 |------|------|
 | Original Indication | Tinea pedis, tinea corporis, cutaneous candidiasis, pityriasis versicolor, oral candidiasis, vulvovaginal candidiasis (the registration records list no indication text, so these come from the drug's known indications) |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The plausible link to acne is indirect. Clotrimazole might reduce microbial burd
 
 The very high TxGNN score is a computational prediction and does not replace clinical evidence. The only trial found tested clotrimazole inside a fixed combination, so it cannot show that clotrimazole itself helps acne.
 
-For context, the same analysis also ranked **vulvovaginitis** as a prediction (score 99.59%). That finding is essentially on-label use for candidal vulvovaginitis and is supported by many trials and publications, including completed Phase 3 studies. It is not a genuine repurposing signal. A third prediction, postmenopausal atrophic vaginitis, has no supporting studies and a poor mechanistic fit.
+For context, the same analysis also ranked **vulvovaginitis** as a prediction (score 0.9959). That finding is essentially on-label use for candidal vulvovaginitis and is supported by many trials and publications, including completed Phase 3 studies. It is not a genuine repurposing signal. A third prediction, postmenopausal atrophic vaginitis, has no supporting studies and a poor mechanistic fit.
 
 ## Clinical Trial Evidence
 
@@ -120,7 +120,7 @@ The acne prediction rests on a model score and a single suspended combination-pr
 - A controlled trial of clotrimazole alone (not a combination) in acne, with a clear comparator
 - Mechanistic or preclinical data on clotrimazole's effect on acne-relevant targets (sebum, *C. acnes*, *Malassezia*, inflammation)
 - Package insert warnings and contraindications for the topical forms that would be used
-- A review of the knowledge-graph-flagged conditions, especially skin atrophy and telangiectasis, which matter for long-term facial use
+- A review of the flagged conditions, especially skin atrophy and telangiectasis, which matter for long-term facial use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

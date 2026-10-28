@@ -4,17 +4,17 @@ title: Amineptine
 parent: Model Prediction Only (L5)
 nav_order: 50
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Amineptine: predicted new indication Agoraphobia (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
+indication_count: 8
 monitor_inn: "Amineptine"
-predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder", "neurotic depression", "migraine disorder", "melancholia", "migraine with brainstem aura", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder"]
+predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder", "migraine disorder", "migraine with brainstem aura", "paranoid personality disorder", "schizotypal personality disorder", "schizoid personality disorder"]
+last_modified_at: 2026-10-23
+description: "Amineptine: predicted new indication Agoraphobia (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 ---
 
 # Amineptine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,31 +33,35 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Amineptine: From Anxiety and Dysthymic Disorders to Agoraphobia
+## Amineptine: From Anxiety Disorder to Agoraphobia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Amineptine is a dopaminergic antidepressant, originally used for anxiety disorder, neurotic disorder and dysthymic disorder.
-The TxGNN model predicts it may be effective for **agoraphobia**, but there are **0 registered clinical trials** and only **1 loosely related publication** (a review that does not concern amineptine directly), so this prediction rests on the model alone.
+Amineptine is an antidepressant. Predictions for it come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+The TxGNN model predicts it may be useful for **agoraphobia**, but there are **no registered clinical trials** and only **1 publication** that mentions the drug, a review of antidepressant comparisons that does not study agoraphobia directly.
+This is a computational prediction without direct supporting studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (the India licence record lists no approved indication text) |
+| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (relations recorded in the knowledge graph; the local licence contains no indication text) |
 | Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
+| Number of Approvals | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for the original record is not available. The published literature describes amineptine as a tricyclic antidepressant that selectively reduces dopamine uptake, acting on the dopaminergic system. Its original indications already include anxiety disorder, so a plausible link to phobic anxiety exists.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, amineptine is a tricyclic-type antidepressant thought to act mainly through dopamine reuptake inhibition with weaker noradrenergic effects. This description is not confirmed by the data compiled for this report, so mechanistic confidence is limited.
 
-However, the only publication retrieved for agoraphobia is a 1995 review of reversible MAO-A inhibitors. It does not address amineptine and offers no direct support. The high TxGNN score is a model prediction, not evidence of efficacy. Agoraphobia is usually treated with serotonergic agents, and amineptine has little serotonergic activity.
+Agoraphobia belongs to the anxiety spectrum, so a plausible indirect link exists. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+
+The one linked publication is a review of reversible MAO-A inhibitors (mainly moclobemide) in depression. It lists amineptine only as one of several comparators and does not address agoraphobia.
 
 ## Clinical Trial Evidence
 
@@ -67,7 +71,7 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Review | Acta Psychiatr Scand Suppl | Review of reversible MAO-A inhibitors (brofaromine, moclobemide, toloxatone) in depression. Amineptine appears only as a comparator, so the paper gives no direct support for agoraphobia. |
+| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Review | Acta Psychiatr Scand Suppl | Review of reversible MAO-A inhibitors (brofaromine, moclobemide, toloxatone). Moclobemide was compared with several antidepressants, including amineptine, in depression. It does not directly study amineptine in agoraphobia. |
 
 ## India Market Information
 
@@ -77,32 +81,23 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were available in the data compiled for this report.
 
-The literature compiled for this report also points to concerns that need guardrails in any further work:
-- Hepatotoxicity and abuse/dependence have led to withdrawal or restriction of amineptine in several markets.
-- Case literature reports dose-related acneiform eruptions (PMID 11730047) and chronic abuse (PMID 2275948).
-- As a dopaminergic agent, it carries a theoretical risk of worsening psychotic-spectrum symptoms.
+Theoretical concerns noted in the analysis of other predicted indications include possible worsening of paranoid or psychotic-spectrum symptoms with dopaminergic stimulation, and a lack of paediatric safety data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The agoraphobia prediction has no clinical trials and no direct literature, and the mechanistic rationale is weak. The safety history of amineptine (hepatotoxicity, dependence) raises the bar for any new use.
+The prediction score is high, but no clinical trial or publication directly studies amineptine in agoraphobia, so the evidence level is L5. Mechanism data and safety information are also missing.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and receptor-profile analysis relevant to phobic anxiety
-- The India package insert (warnings, contraindications, approved indication)
-- Preclinical or small exploratory clinical data in agoraphobia or panic-related anxiety
-- A hepatic and dependence risk-management plan
-
-## Other Predictions Considered
-
-The ranked list included other predicted indications. None is stronger than agoraphobia as a true repurposing candidate:
-
-- **Neurotic depression** and **melancholia** (99.77% and 99.77%, evidence level L3): neurotic depression overlaps with dysthymia, an existing indication, so it is essentially not new repurposing. The supporting literature is mainly dysthymia reviews and an RCT of amisulpride versus amineptine versus placebo (PMID 9892856). Evidence for melancholia is indirect. Both warrant a research question rather than a decision to proceed.
-- **Obsessive-compulsive disorder**, **migraine disorder**, **migraine with brainstem aura**, **benign paroxysmal torticollis of infancy**, and **paranoid, histrionic and schizotypal personality disorders**: all L5, with no meaningful clinical or literature support. The identical scores across the personality disorders suggest a graph-based artifact, and dopaminergic stimulation could theoretically worsen paranoid or schizotypal symptoms.
+- Mechanism of action data for amineptine
+- Package insert warnings and contraindications for the marketed product
+- A systematic literature search for amineptine in agoraphobia and panic or phobic disorders
+- Comparison with established first-line treatments for agoraphobia (such as SSRIs and cognitive behavioural therapy)
+- A review of amineptine's safety history before considering any new-use study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

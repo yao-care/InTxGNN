@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this direction;
 |------|------|
 | Original Indication | Dyspepsia, heartburn, epigastric pain, nausea and vomiting (from general pharmacology information; the approved indication text in the India licences is blank) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.08% |
+| TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

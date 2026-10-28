@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Thiamine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 829
-evidence_level: L3
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Thiamine: predicted new indication Hyperthyroidism (evidence level L3). Approved use: Not specified in the licence data compiled for this report"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Thiamine"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
+last_modified_at: 2026-10-23
+description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
 # Thiamine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,65 +33,66 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-## Thiamine: From Vitamin B1 Supplementation to Hyperthyroidism
+## Thiamine: From an Unspecified Original Indication to resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Thiamine (vitamin B1) is marketed in India mainly as injectable and oral vitamin B1 products. The TxGNN model predicts it may be useful for **hyperthyroidism**, though only as supportive therapy for the relative thiamine deficiency that hyperthyroidism can cause, not as a treatment of the thyroid disease itself. Currently **1 small clinical trial** and about **20 publications** (mostly case reports) support this direction.
+Thiamine (vitamin B1) is marketed in India mainly as injectable products, but the data compiled for this report contain no approved indication text, so its original licensed use cannot be stated.
+The TxGNN model ranks **resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta** first (score 0.9943) and **primary hereditary glaucoma** second. This report focuses on **open-angle glaucoma**, the only candidate with any published literature, where **0 clinical trials** and **6 publications** were found. Most of these publications are observational or only tangentially related.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the licence data compiled for this report |
-| Predicted New Indication | Hyperthyroidism |
-| TxGNN Prediction Score | 99.44% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| Original Indication | Not available (no approved indication text in the licence records) |
+| Predicted New Indication | Top-ranked: resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta. Best-supported: open-angle glaucoma |
+| TxGNN Prediction Score | 0.9943 (top-ranked); 0.9936 (open-angle glaucoma) |
+| Evidence Level | L5 (see note below) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
+
+**Note on evidence level:** The open-angle glaucoma candidate has one 1979 observational study that directly examines thiamine in chronic open-angle glaucoma, but it only compares blood levels. It does not test thiamine as a treatment. The other papers address glaucoma biology, niacin, or nutrient intake generally. No cited study evaluates thiamine as a treatment for the predicted disease, so the ceiling rule gives L5.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, thiamine is an essential vitamin (a cofactor in carbohydrate and energy metabolism), and its use in correcting thiamine deficiency is well established.
+Currently, detailed mechanism of action data is not available. Thiamine is a vitamin that acts as a cofactor for enzymes of carbohydrate metabolism, such as pyruvate dehydrogenase and transketolase. This role in cellular energy production is general background knowledge rather than data compiled for this report.
 
-Hyperthyroidism raises metabolic rate and thiamine turnover, which can lead to relative thiamine deficiency. This deficiency can produce beriberi-like high-output heart failure and Wernicke's encephalopathy, especially when persistent vomiting is present, as in hyperemesis gravidarum with gestational thyrotoxicosis. In this setting thiamine acts as an adjunct that corrects the deficiency and supports cardiovascular and neurological function. It does not reduce thyroid hormone excess, so this is a supportive-care rationale rather than a disease-modifying one.
+**Open-angle glaucoma:** The link is plausible but indirect. Mitochondrial dysfunction and oxidative stress are implicated in retinal ganglion cell loss and trabecular meshwork dysfunction. A 1979 study of 38 glaucoma patients and 12 controls reported significantly lower blood thiamine in the patients (P < 0.001). This shows an association with nutritional status only. It does not show that giving thiamine changes intraocular pressure or disease course.
 
-The other high-scoring predictions are much weaker. Resistance to thyroid hormone (beta receptor mutation) and primary hereditary glaucoma have no trials or literature and no plausible mechanism, and the TxGNN scores likely reflect network proximity only. Open-angle glaucoma has only indirect observational and exploratory data (for example, lower blood thiamine in a small 1979 study of glaucoma patients), with no interventional evidence.
+**Top-ranked and second-ranked predictions:** No mechanistic link is identifiable for thyroid hormone resistance, which is a monogenic disorder of the receptor that thiamine is not known to affect. Primary hereditary glaucoma is driven mainly by genetic defects in aqueous outflow development, which thiamine is not known to correct. Neither candidate has any trial or publication, so these predictions rest on the TxGNN model (deep learning) score alone.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02767245](https://clinicaltrials.gov/study/NCT02767245) | N/A | Completed | 12 | Pilot study of thiamine supplementation to improve cardiovascular function in severe hyperthyroidism, also assessing prevalence of thiamine deficiency. No results are available in the compiled data. |
+Currently no related clinical trials registered for any of the three predicted indications.
 
 ## Literature Evidence
 
+For open-angle glaucoma (abstracts were truncated, so the summaries below rely on titles and the visible text):
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26567494](https://pubmed.ncbi.nlm.nih.gov/26567494/) | 2015 | Review/Case report | Crit Care Nurs Clin North Am | High-output heart failure caused by thyrotoxicosis and beriberi (severe thiamine deficiency) |
-| [7919625](https://pubmed.ncbi.nlm.nih.gov/7919625/) | 1994 | Case report | Intern Med | Pulmonary hypertension from high-output heart failure: improved with antithyroid therapy in hyperthyroidism and with thiamine in cardiac beriberi |
-| [18026802](https://pubmed.ncbi.nlm.nih.gov/18026802/) | 2008 | Case report | J Gen Intern Med | Wernicke's encephalopathy associated with thyrotoxicosis |
-| [32934066](https://pubmed.ncbi.nlm.nih.gov/32934066/) | 2020 | Case report | Clin Med (London) | Pregnant woman with hyperemesis and thyrotoxicosis who developed Wernicke's encephalopathy |
-| [32983708](https://pubmed.ncbi.nlm.nih.gov/32983708/) | 2020 | Case report | Cureus | Wernicke's encephalopathy with transient gestational hyperthyroidism and hyperemesis gravidarum |
-| [34995426](https://pubmed.ncbi.nlm.nih.gov/34995426/) | 2021 | Case report | S D Med | Wernicke encephalopathy in a Graves' disease patient after sleeve gastrectomy |
-| [7416185](https://pubmed.ncbi.nlm.nih.gov/7416185/) | 1980 | Case series | Am J Med | 23 cases of beriberi heart disease in Japan, driven by relative thiamine deficiency |
-| [9704251](https://pubmed.ncbi.nlm.nih.gov/9704251/) | 1998 | Review | Drug Saf | Treatment of nausea and vomiting in pregnancy, including hyperemesis and its complications |
-
-Most of the remaining retrieved publications are additional case reports of Wernicke's encephalopathy in thyrotoxic or pregnant patients, plus historical biochemical studies from the 1950s to 1960s. One veterinary study (cats) was retrieved and is not relevant to human use. No randomised controlled trial was found.
+| [485004](https://pubmed.ncbi.nlm.nih.gov/485004/) | 1979 | Observational | Annals of Ophthalmology | Patients with chronic open-angle glaucoma (n=38) had significantly lower blood thiamine than controls (n=12); no difference in ascorbic acid; poor thiamine absorption noted |
+| [32214001](https://pubmed.ncbi.nlm.nih.gov/32214001/) | 2020 | Cross-sectional | Nutrients | Korean national survey on obesity, nutrient supply and primary open-angle glaucoma |
+| [29565276](https://pubmed.ncbi.nlm.nih.gov/29565276/) | 2018 | Cross-sectional | Nutrients | Dietary niacin (not thiamine) and open-angle glaucoma in Korean survey data |
+| [40402521](https://pubmed.ncbi.nlm.nih.gov/40402521/) | 2025 | Metabolomic profiling | Investigative Ophthalmology & Visual Science | Aqueous humor metabolomics in glaucoma patients; metabolites with anti-inflammatory and neuroprotective potential tested in mice |
+| [30025119](https://pubmed.ncbi.nlm.nih.gov/30025119/) | 2018 | Molecular profiling | Investigative Ophthalmology & Visual Science | microRNA profiles in glaucomatous optic neuropathy |
+| [41889963](https://pubmed.ncbi.nlm.nih.gov/41889963/) | 2026 | Preclinical (preprint) | bioRxiv | MIF-CD74 signaling in trabecular meshwork dysfunction in glaucoma |
 
 ## India Market Information
 
+At least 20 licences are recorded for single-ingredient thiamine products (the list may be partial). None of the records include approved indication text. Five examples:
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 136127 | Macraberin Forte Injection | Vial of 2 ml injection | Not specified |
-| 218000 | Thi 100mg Injection | Vial of 2 ml injection | Not specified |
-| 157754 | Nexmin 100mg Injection | Vial of 2 ml injection | Not specified |
-| 152955 | Neuthia 200mg Injection | Vial of 2 ml injection | Not specified |
-| 248276 | Zeba Syrup | Bottle of 200 ml syrup | Not specified |
+| 136127 | Macraberin Forte Injection | Vial of 2 ml injection | Not stated in records |
+| 218000 | Thi 100mg Injection | Vial of 2 ml injection | Not stated in records |
+| 157754 | Nexmin 100mg Injection | Vial of 2 ml injection | Not stated in records |
+| 28629 | B Colex Injection | Vial of 1 ml injection | Not stated in records |
+| 248276 | Zeba Syrup | Bottle of 200 ml syrup | Not stated in records |
 
-There are 20 valid single-ingredient registrations in total, almost all injectable, with one syrup.
+Nearly all listed products are injectables. The only exception is one oral syrup.
 
 ## Safety Considerations
 
@@ -102,13 +103,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The evidence for hyperthyroidism is limited to one small completed pilot trial (12 patients, no phase, no results available) and mostly case reports. The mechanism is supportive correction of thiamine deficiency, not treatment of hyperthyroidism. This is better treated as a research question than as a repurposing candidate. The other predicted indications have no meaningful evidence.
+The TxGNN scores are very high (about 0.9940), but no clinical trial supports any of the three predictions. For open-angle glaucoma the literature shows only an association between low blood thiamine and disease, which is not evidence of treatment benefit. The two higher-ranked predictions have no identifiable mechanistic link.
 
 **To proceed, the following is needed:**
-- Results of NCT02767245 and a larger controlled trial in thyrotoxic patients with confirmed thiamine deficiency or cardiac involvement
-- Package insert warnings, contraindications and approved indications for the Indian products, since the licence data lack these
-- Detailed mechanism of action data
-- Clarification of whether the indication would be defined as supportive care in hyperthyroidism rather than a new disease indication
+- Package insert warnings, contraindications and approved indications for the India licences
+- Mechanism of action data from DrugBank
+- A controlled study or well-designed trial of thiamine supplementation in open-angle glaucoma (intraocular pressure and visual field outcomes)
+- Review of full abstracts and full texts, since this assessment relied on truncated abstracts
+- Route and formulation assessment, since the marketed products are mostly injectables
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Ambras type hypertrichosis un
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **Ambras type hypertrichosis un
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, alfuzosin is a selective alpha-1 adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which is why it works in BPH.
 
-A plausible mechanistic link to the predicted indication has not been established. Ambras syndrome is a rare genetic form of hypertrichosis, associated with structural rearrangements on chromosome 8q that affect regulation of the TRPS1 gene. Blocking alpha-1 receptors has no known effect on this pathway. The very high score most likely reflects proximity in the knowledge graph rather than a real therapeutic signal.
+A plausible mechanistic link to the predicted indication has not been established. Ambras syndrome is a rare genetic form of hypertrichosis, associated with structural rearrangements on chromosome 8q that affect regulation of the TRPS1 gene. Blocking alpha-1 receptors has no known effect on this pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top-ranked predictions point the same way. They are mostly hair-related genetic conditions (hypertrichosis, trichomegaly, hair shaft abnormalities, hypotrichosis), plus a few developmental malformation syndromes. The same drug is predicted for opposing hair phenotypes (too much hair and too little hair). This suggests the model is picking up generic hair-phenotype associations. For hypertrichosis, the direction of effect is also unclear. Some vasoactive drugs, such as minoxidil, cause hypertrichosis rather than treat it.
 
@@ -104,7 +104,7 @@ The prediction rests on the model score alone (L5). There are no clinical trials
 - Mechanism of action data for alfuzosin, plus a biological rationale linking it to TRPS1 or hair follicle regulation
 - Preclinical evidence (e.g., hair follicle models) showing a therapeutic rather than inducing effect
 - Package insert warnings and contraindications from the India market, for a safety screening
-- A review of whether the knowledge-graph prediction reflects real biology or only graph proximity
+- A review of whether the TxGNN model (deep learning) prediction reflects real biology or only similarities the model learned between related diseases
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

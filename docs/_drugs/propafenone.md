@@ -4,7 +4,7 @@ title: Propafenone
 parent: Model Prediction Only (L5)
 nav_order: 706
 evidence_level: L5
-indication_count: 8
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Propafenone: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Atrial fibrillation"
 monitor_inn: "Propafenone"
@@ -14,7 +14,7 @@ predicted_indications: ["manic bipolar affective disorder", "periodic paralysis 
 # Propafenone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,8 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 ## One-Sentence Summary
 
 Propafenone is a class IC antiarrhythmic originally used for atrial fibrillation and ventricular tachycardia.
-The TxGNN model's top-ranked prediction is **manic bipolar affective disorder**, but the supporting literature (**3 publications, 0 clinical trials**) describes propafenone as a *cause* of mania and psychosis, not a treatment. This prediction is most likely a graph artifact and should not be pursued.
-A far more credible candidate in the same prediction list is **catecholaminergic polymorphic ventricular tachycardia (CPVT)**, which is discussed below.
+The TxGNN model's top-ranked prediction is **manic bipolar affective disorder**, but the supporting literature (**3 publications, 0 clinical trials**) describes propafenone as a *cause* of mania and psychosis, not a treatment. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should not be pursued.
 
 ## Quick Overview
 
@@ -48,10 +47,10 @@ A far more credible candidate in the same prediction list is **catecholaminergic
 |------|------|
 | Original Indication | Atrial fibrillation; ventricular tachycardia (the India licence record has no approved indication text) |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,7 +63,7 @@ The high TxGNN score appears to be driven by the psychiatric adverse-event assoc
 
 ### A more credible alternative: CPVT
 
-Among the other predictions, **catecholaminergic polymorphic ventricular tachycardia** (score 99.79%, evidence level L3) has a strong mechanistic rationale. CPVT is caused by gain-of-function ryanodine receptor (RyR2) variants. Preclinical studies show that propafenone, like flecainide, inhibits RyR2 channels and suppresses diastolic Ca²⁺ waves (PMIDs 21270101, 26121139, 21798265). A case report describes 35 years of effective propafenone treatment (PMID 30820400). No registered trials or RCTs were found. Flecainide is the better-established class IC option, so propafenone would be an alternative or second-line consideration.
+**Catecholaminergic polymorphic ventricular tachycardia** has a strong mechanistic rationale. CPVT is caused by gain-of-function ryanodine receptor (RyR2) variants. Preclinical studies show that propafenone, like flecainide, inhibits RyR2 channels and suppresses diastolic Ca²⁺ waves (PMIDs 21270101, 26121139, 21798265). A case report describes 35 years of effective propafenone treatment (PMID 30820400). No registered trials or RCTs were found. Flecainide is the better-established class IC option, so propafenone would be an alternative or second-line consideration.
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mycophenolate Mofetil
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 574
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not available in the compiled data"
 monitor_inn: "Mycophenolate mofetil"
-predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
 ---
 
 # Mycophenolate Mofetil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, wit
 |------|------|
 | Original Indication | Not available in the compiled data (the Indian license records contain no indication text) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L2 (as assigned in the data; the supporting trials are small and indirect, so in practice the evidence is weaker) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (treated as a research question) |
 
@@ -122,7 +122,7 @@ The TxGNN score is high and the mechanism (IMPDH inhibition, potentiation of nuc
 
 ---
 
-*Other predicted indications:* **Multiple sclerosis** (score 99.54%) has the most supporting evidence among the remaining candidates, including several small Phase 1/2 trials of mycophenolate with interferon beta-1a, a Cochrane review of mycophenolate in relapsing-remitting MS, and a 344-patient retrospective study. It remains a research question because no adequately powered Phase 3 trial exists and established disease-modifying therapies are available. The other predictions (neurodevelopmental disorder, Paget disease, feline and simian immunodeficiency, hemosiderosis, Heiner syndrome, African iron overload, neonatal hemochromatosis) have little or no supporting evidence and are on hold.
+*Other predicted indications:* **Multiple sclerosis** (score 0.9954) has the most supporting evidence among the remaining candidates, including several small Phase 1/2 trials of mycophenolate with interferon beta-1a, a Cochrane review of mycophenolate in relapsing-remitting MS, and a 344-patient retrospective study. It remains a research question because no adequately powered Phase 3 trial exists and established disease-modifying therapies are available. The other predictions (neurodevelopmental disorder, Paget disease, feline and simian immunodeficiency, hemosiderosis, Heiner syndrome, African iron overload, neonatal hemochromatosis) have little or no supporting evidence and are on hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Tranexamic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 854
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Tranexamic Acid: predicted new indication Amenorrhea (evidence level L4). Approved use: Endometriosis"
+description: "Tranexamic Acid: predicted new indication amenorrhea (evidence level L4)."
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["amenorrhea (disease)"]
 # Tranexamic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Tranexamic Acid: From Endometriosis to Amenorrhea
+## Tranexamic Acid: amenorrhea
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Tranexamic acid is an antifibrinolytic agent; in the knowledge graph used for this analysis it is linked to endometriosis, and it is widely marketed in India.
+Tranexamic acid is an antifibrinolytic agent, and it is marketed in India with 20 valid licences.
 The TxGNN model predicts it may be effective for **Amenorrhea**, but there are **0 clinical trials** and only **2 review articles** supporting this direction.
 The prediction is best read as a computational signal, not a validated therapeutic relationship.
 
@@ -50,9 +50,9 @@ The prediction is best read as a computational signal, not a validated therapeut
 |------|------|
 | Original Indication | Endometriosis (the marketed-product records compiled for this report contain no approved indication text) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.19% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9919 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 That mechanism plausibly supports use in heavy menstrual bleeding and in menses suppression or prophylaxis, for example in premenopausal haematology patients at risk of heavy bleeding. However, amenorrhea is the absence of menses. Tranexamic acid does not treat its underlying causes and does not induce menstruation, so the link to the predicted indication is indirect.
 
-The high TxGNN score (0.99) probably reflects network proximity to menstrual disorders in the knowledge graph rather than a true therapeutic relationship. The lack of documented mechanism data further limits confidence.
+The high TxGNN score (0.9919) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The lack of documented mechanism data further limits confidence.
 
 ---
 

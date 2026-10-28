@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pertuzumab
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 659
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Pertuzumab: predicted new indication Progesterone-receptor positive breast cancer (evidence level L1). Approved use: HER2 positive breast carcinoma"
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Pertuzumab: From HER2-Positive Breast Carcinoma to Progesterone-Receptor Positive Breast Cancer
+## Pertuzumab: Ectomesenchymoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pertuzumab is a HER2-directed monoclonal antibody, originally used to treat HER2-positive breast carcinoma.
-The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**, which is largely an extension of the approved indication into a hormone-receptor-defined subgroup.
 Currently **1 clinical trial** and **20 publications** are linked to this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HER2 positive breast carcinoma (from the knowledge graph; the India licence text is blank) |
-| Predicted New Indication | Progesterone-receptor positive breast cancer |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Ectomesenchymoma |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

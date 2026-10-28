@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Sodium Feredetate
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 779
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-14
-description: "Sodium Feredetate: predicted new indication Bronchitis (evidence level L5). Approved use: Iron supplementation (iron deficiency)"
+description: "Sodium Feredetate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Sodium feredetate"
-predicted_indications: ["bronchitis", "bronchial neoplasm (disease)", "gastroduodenitis", "peptic ulcer disease", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "severe nonproliferative diabetic retinopathy", "Chagas cardiomyopathy", "infective urethral stricture"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Sodium Feredetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sodium Feredetate: From Iron Supplementation to Bronchitis
+## Sodium Feredetate
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Sodium feredetate is an iron(III) EDTA chelate used as an oral iron supplement.
-The TxGNN model predicts it may be effective for **bronchitis**, but **no clinical trials and no publications** currently support this direction. The prediction is based on graph topology alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron supplementation (iron deficiency); the registered indication text is not available in the data compiled for this report |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 97.45% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 6 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available. Based on known information, sodium feredetate is an iron(III) EDTA chelate that replenishes iron stores, and its use in iron deficiency is well established.
-
-No mechanistic link between iron repletion and the treatment of bronchitis has been identified. The high TxGNN score reflects relationships in the knowledge graph rather than a known biological pathway or clinical observation. At this stage the prediction should be regarded as a hypothesis only.
-
-Other top-ranked predictions (bronchial neoplasm, gastroduodenitis, peptic ulcer disease, and several hereditary coagulation disorders) likewise lack supporting evidence. For some of them, such as bronchial neoplasm, peptic ulcer disease, diabetic retinopathy and Chagas cardiomyopathy, there are theoretical concerns that iron could be unhelpful or harmful (oxidative stress, gastric mucosal irritation, or iron dependence of the parasite).
+| Original Indication | Not recorded in the local data |
+| India Market Status | Marketed (valid licences: 6 of 6) |
+| Number of Registrations | 6 (valid: 6) |
 
 ## India Market Information
 
@@ -77,19 +62,6 @@ A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10
 
 Please refer to the package insert for safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction for bronchitis rests solely on a model score, with no clinical trials or literature and no plausible mechanism. The drug is widely marketed in India as an iron supplement, but that does not support a respiratory indication.
-
-**To proceed, the following is needed:**
-- Mechanism of action data and a credible biological rationale linking iron EDTA to airway inflammation or infection
-- Package insert warnings and contraindications for a formal safety review
-- Evidence from preclinical or clinical studies in bronchitis
-- Registered indication text for the Indian licenses
-- Assessment of route compatibility and drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

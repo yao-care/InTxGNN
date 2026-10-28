@@ -4,17 +4,17 @@ title: Diazoxide
 parent: Model Prediction Only (L5)
 nav_order: 260
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Diazoxide: predicted new indication Alopecia (evidence level L5). Approved use: Hyperinsulinemic hypoglycemia (including insulinoma…"
 monitor_inn: "Diazoxide"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "autosomal dominant hyperinsulinism due to Kir6.2 deficiency"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
 ---
 
 # Diazoxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Diazoxide is a KATP channel opener, originally used to treat hyperinsulinemic hypoglycemia, including insulinoma and congenital hyperinsulinism.
-The TxGNN model's top-ranked predictions are hair-related conditions. The most clinically meaningful of these is **Alopecia** (score 99.91%), supported by **0 clinical trials** and **6 publications**. These are mostly indirect: reviews, case reports and one animal study.
+The TxGNN model's top-ranked predictions are hair-related conditions. The most clinically meaningful of these is **Alopecia** (score 0.9991), supported by **0 clinical trials** and **6 publications**. These are mostly indirect: reviews, case reports and one animal study.
 This report evaluates alopecia (rank 4) as the lead candidate. The three higher-scoring predictions have no trials or literature at all, so they are covered only in the notes below the Quick Overview table.
 
 ---
@@ -50,10 +50,10 @@ This report evaluates alopecia (rank 4) as the lead candidate. The three higher-
 |------|------|
 | Original Indication | Hyperinsulinemic hypoglycemia (including insulinoma, congenital hyperinsulinism, islet cell adenomatosis). The approved indication text on the India licenses is blank |
 | Predicted New Indication | Alopecia (the top-ranked prediction, hypotrichosis simplex of the scalp, has no supporting evidence) |
-| TxGNN Prediction Score | 99.91% (alopecia); 99.96% for the top-ranked hypotrichosis simplex of the scalp |
-| Evidence Level | L4 (preclinical and indirect evidence only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| TxGNN Prediction Score | 0.9991 (alopecia); 0.9996 for the top-ranked hypotrichosis simplex of the scalp |
+| Evidence Level | L5 (preclinical and indirect evidence only) |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 **Notes on the other top predictions:**

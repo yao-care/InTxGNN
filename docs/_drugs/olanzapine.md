@@ -4,17 +4,17 @@ title: Olanzapine
 parent: Model Prediction Only (L5)
 nav_order: 615
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Schizophrenia, bipolar disorder, major depressive disorder…"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Olanzapine: From Schizophrenia and Bipolar Disorder to Benign Paroxysmal Torticollis of Infancy
+## Olanzapine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia, bipolar disorder, major depressive disorder, anxiety disorder (the approved indication text in the India licences is blank; these come from knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,13 +58,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 Detailed mechanism of action data is not available in the data compiled for this report. Olanzapine is generally known as a dopamine D2 and serotonin 5-HT2A antagonist, and its efficacy in psychotic and mood disorders is established.
 
-The predicted condition is a rare, self-limiting paroxysmal movement disorder of infancy. It is related to the migraine spectrum and to CACNA1A channelopathy. There is no established link between this condition and olanzapine's receptor pharmacology. The high score most likely reflects proximity to other paroxysmal or movement disorders in the knowledge graph, not a pharmacological rationale.
+The predicted condition is a rare, self-limiting paroxysmal movement disorder of infancy. It is related to the migraine spectrum and to CACNA1A channelopathy. There is no established link between this condition and olanzapine's receptor pharmacology. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Olanzapine is also poorly suited to infants because of its metabolic and sedative adverse effects, and the condition usually resolves on its own. The prediction should therefore be treated as a weak, hypothesis-only signal.
 
 For context, two other predictions for this drug have more supporting evidence (both L3, "Research Question"):
-- **Agoraphobia** (score 99.47%): a 12-week open-label olanzapine augmentation trial in treatment-resistant panic disorder (31 patients), plus case reports.
-- **Dysthymic disorder** (score 99.28%): a Cochrane review of second-generation antipsychotics for major depression and dysthymia, plus indirect studies.
+- **Agoraphobia** (score 0.9947): a 12-week open-label olanzapine augmentation trial in treatment-resistant panic disorder (31 patients), plus case reports.
 
 ## Clinical Trial Evidence
 

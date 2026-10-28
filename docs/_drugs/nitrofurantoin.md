@@ -50,9 +50,9 @@ This prediction is best viewed as a network-proximity artifact, not a credible r
 |------|------|
 | Original Indication | Not stated in the Indian licence records (antibacterial use in urinary tract infection is described in the retrieved literature) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ This prediction is best viewed as a network-proximity artifact, not a credible r
 
 Currently, detailed mechanism of action data is not available. Nitrofurantoin is an antibacterial agent used for urinary tract infections, but no credible therapeutic mechanism links it to rheumatoid arthritis (RA).
 
-The very high TxGNN score (0.999) most likely reflects proximity in the knowledge graph rather than true pharmacological activity. The retrieved literature points the other way: nitrofurantoin is a recognised cause of pulmonary toxicity and fibrosis, and a case report describes a methotrexate–nitrofurantoin interaction causing irreversible pulmonary fibrosis in a patient with RA. A self-controlled case series examined antibiotic exposure and RA flares. None of this supports efficacy.
+The very high TxGNN score (0.9989) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The retrieved literature points the other way: nitrofurantoin is a recognised cause of pulmonary toxicity and fibrosis, and a case report describes a methotrexate–nitrofurantoin interaction causing irreversible pulmonary fibrosis in a patient with RA. A self-controlled case series examined antibiotic exposure and RA flares. None of this supports efficacy.
 
 Other predictions for this drug show the same pattern. Several are rare genetic syndromes with no plausible link. Others (methemoglobinemia, sclerosing cholangitis) reflect known adverse effects of nitrofurantoin, not therapeutic opportunities.
 

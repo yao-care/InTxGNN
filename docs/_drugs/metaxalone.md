@@ -48,21 +48,21 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (metaxalone is generally known as a skeletal muscle relaxant) |
 | Predicted New Indication | Infectious otitis media |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Metaxalone is a centrally acting skeletal muscle relaxant, and its exact mechanism is incompletely characterized.
 
-The review of the prediction found no established mechanistic link to infectious otitis media. Metaxalone has no known antimicrobial, anti-inflammatory, or Eustachian tube-related activity. The high score (99.06%) is a graph-based computational prediction only and is not backed by any trial or literature evidence.
+The review of the prediction found no established mechanistic link to infectious otitis media. Metaxalone has no known antimicrobial, anti-inflammatory, or Eustachian tube-related activity. The high score (0.9906) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not backed by any trial or literature evidence.
 
 Two other predictions were also generated, and neither is supported by evidence:
-- **Endocarditis** (score 99.02%): no plausible mechanistic link, because infective endocarditis is treated with targeted antimicrobial therapy and metaxalone has no antibacterial or cardiac-specific activity.
-- **Endocardial fibroelastosis** (score 99.00%): no identified mechanistic link, and pediatric safety data for metaxalone are limited.
+- **Endocarditis** (score 0.9902): no plausible mechanistic link, because infective endocarditis is treated with targeted antimicrobial therapy and metaxalone has no antibacterial or cardiac-specific activity.
+- **Endocardial fibroelastosis** (score 0.9900): no identified mechanistic link, and pediatric safety data for metaxalone are limited.
 
 All three predictions are rated L5 and Hold.
 

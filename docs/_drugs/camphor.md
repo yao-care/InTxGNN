@@ -4,17 +4,17 @@ title: Camphor
 parent: Model Prediction Only (L5)
 nav_order: 135
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Camphor: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the approval records compiled for this report (marketed…"
 monitor_inn: "Camphor"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 ---
 
 # Camphor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This is best regarded as a research question rather than an established repurpos
 |------|------|
 | Original Indication | Not stated in the approval records compiled for this report (marketed mainly as eye drops and a liniment) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 for the prediction as retrieved (model prediction with no human efficacy studies); a related migraine-susceptibility prediction has an L4 preclinical study |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 19 |
+| India Market Status | Marketed (valid licences: 19 of 19) |
+| Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ---
@@ -66,7 +66,7 @@ The relationship between the original use and migraine is indirect. Camphor's ma
 
 The retrieved literature does not strengthen the case. The two cluster headache reports describe headaches **temporally related to** toothpastes containing camphor and eucalyptus essential oils, which is a potential harm signal rather than a benefit. The third article is a historical review of paediatric neuropsychopharmacotherapy of unclear relevance. The high TxGNN score is a computational prediction only.
 
-A 2026 animal study (PMID 42849823), found under the related prediction "migraine with or without aura, susceptibility to", reported that natural (+)-camphor alleviated reserpine-induced migraine with local cerebral vasospasm, via the p38β MAPK/ATF2 pathway. This is the most direct supportive signal in the dataset, but it is preclinical only.
+A 2026 animal study (PMID 42849823) reported that natural (+)-camphor alleviated reserpine-induced migraine with local cerebral vasospasm, via the p38β MAPK/ATF2 pathway. This is the most direct supportive signal in the dataset, but it is preclinical only.
 
 ---
 

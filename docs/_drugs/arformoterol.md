@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Arformoterol
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 67
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Arformoterol: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Chronic obstructive pulmonary disease, bronchitis, pulmonary emphysema"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Arformoterol"
-predicted_indications: ["hyperlucent lung", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "susceptibility to respiratory infections associated with CD8alpha chain mutation", "tracheal calcification"]
+predicted_indications: ["hyperlucent lung", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "tracheal calcification"]
+last_modified_at: 2026-10-27
+description: "Arformoterol: predicted new indication hyperlucent lung (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Arformoterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,88 +33,67 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Arformoterol: From Chronic Obstructive Pulmonary Disease to Obstructive Lung Disease
+## Arformoterol: Long-acting beta-2 agonist bronchodilator → hyperlucent lung
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Arformoterol is a long-acting beta-2 agonist bronchodilator, originally used to treat chronic obstructive pulmonary disease (COPD), bronchitis and emphysema.
-The TxGNN model predicts it may be effective for **obstructive lung disease**,
-with **1 clinical trial** and **20 publications** currently supporting this direction.
-Note that this predicted indication overlaps heavily with the drug's existing indications, so it mainly confirms the current use rather than opening a new one.
+Arformoterol is an inhaled long-acting beta-2 adrenergic agonist bronchodilator.
+The TxGNN model predicts it may be useful for **hyperlucent lung**, with a score of 0.9975.
+There are currently **no clinical trials and no publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic obstructive pulmonary disease, bronchitis, pulmonary emphysema |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | hyperlucent lung |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, arformoterol is the (R,R)-enantiomer of formoterol, a long-acting beta-2 adrenergic agonist. It relaxes airway smooth muscle and produces sustained bronchodilation.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, arformoterol belongs to the long-acting beta-2 agonist class, which relaxes airway smooth muscle and widens the airways.
 
-Obstructive lung disease is the broad category that includes COPD, chronic bronchitis and emphysema, which are the drug's established indications. Bronchodilation is directly relevant to this group of conditions.
-
-This should be read as a confirmation of the existing label rather than a true repurposing opportunity. The other nine predictions (for example compensatory emphysema, interstitial emphysema, tracheal stenosis and congenital lobar emphysema) have no trials or literature, and their mechanistic rationale is weak. They appear to reflect proximity in the knowledge graph rather than pharmacological logic, so they are on Hold.
+Hyperlucent lung is a radiologic finding rather than a distinct disease. It can reflect underlying emphysema or air trapping, so any benefit would depend on the underlying cause. A bronchodilator could plausibly ease symptoms where airflow obstruction is present, but this link is indirect. No clinical evidence supports the prediction, and the high score should be treated as a model output only.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00250679](https://clinicaltrials.gov/study/NCT00250679) | Phase 3 | Completed | 443 | Randomized, double-blind, double-dummy, active-controlled 6-month safety study of arformoterol 15 μg and 25 μg twice daily in COPD, also monitoring long-term efficacy |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [25451347](https://pubmed.ncbi.nlm.nih.gov/25451347/) | 2014 | RCT | Chest | One-year safety and efficacy of arformoterol 15 μg twice daily in moderate to severe COPD |
-| [20214460](https://pubmed.ncbi.nlm.nih.gov/20214460/) | 2010 | RCT | COPD | 6-month double-blind comparison of nebulized arformoterol (15 and 25 μg) and racemic formoterol dry powder inhaler in COPD |
-| [19124357](https://pubmed.ncbi.nlm.nih.gov/19124357/) | 2008 | RCT | Ther Adv Respir Dis | 12-month safety and tolerance of arformoterol versus salmeterol in COPD, including whether benefit diminished over time |
-| [18259972](https://pubmed.ncbi.nlm.nih.gov/18259972/) | 2008 | RCT | COPD | Effect of nebulized arformoterol on airway function in COPD, from two randomized trials |
-| [25563342](https://pubmed.ncbi.nlm.nih.gov/25563342/) | 2015 | Review | Expert Opin Drug Saf | Review of the safety and efficacy of arformoterol in COPD |
-| [39186816](https://pubmed.ncbi.nlm.nih.gov/39186816/) | 2024 | Review | Med Lett Drugs Ther | Overview of drugs for COPD |
-| [32960872](https://pubmed.ncbi.nlm.nih.gov/32960872/) | 2020 | Review | Med Lett Drugs Ther | Overview of drugs for COPD |
-| [18501650](https://pubmed.ncbi.nlm.nih.gov/18501650/) | 2008 | PK/PD study | Pulm Pharmacol Ther | Comparison of exposure and FEV1 between nebulized arformoterol and racemic formoterol dry powder inhaler in COPD |
-| [31215259](https://pubmed.ncbi.nlm.nih.gov/31215259/) | 2019 | Cohort | COPD | Retrospective Medicare analysis of predictors of nebulized arformoterol treatment |
-| [19011503](https://pubmed.ncbi.nlm.nih.gov/19011503/) | 2008 | Pooled analysis of 2 Phase 3 trials | Medicine | Arrhythmia frequency and effect of arformoterol and salmeterol in COPD, using 24-hour Holter monitoring |
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 121883 | Labaneb Respules (2ml Each) (Lupin Ltd) | Packet of 5 respules | Not specified in the data compiled for this report |
-
-## Cytotoxicity
-
-Not applicable. Arformoterol is not an antineoplastic drug, so this section is omitted.
+| 121883 | Labaneb Respules (2ml Each) | Packet of 5 respules | Not recorded |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 145 interactions were recorded. Those listed in the compiled data include:
-  - **Moderate**: isometheptene, famotidine, epinephrine (including ophthalmic and topical forms), cisapride, clarithromycin, diethylpropion, dolasetron, ephedrine (including nasal), fenfluramine, granisetron, inhaled rapid-acting human insulin, levofloxacin
-  - **Minor**: corticosteroids such as hydrocortisone, beclomethasone dipropionate, betamethasone, budesonide and dexamethasone
-- **Cardiac safety**: A pooled Holter-monitoring analysis of two Phase 3 trials (PMID 19011503) evaluated arrhythmias with arformoterol and salmeterol in COPD patients. Cardiac monitoring remains a reasonable precaution with beta-agonists.
+- **Drug Interactions**: 145 interactions were found in the interaction screening. Examples are listed below.
+  - Moderate: isometheptene, famotidine, epinephrine, cisapride, clarithromycin, diethylpropion, dolasetron, ephedrine, fenfluramine, granisetron, levofloxacin, inhaled rapid-acting human insulin
+  - Minor: hydrocortisone, beclomethasone dipropionate, betamethasone, budesonide, dexamethasone
 
-Warnings and contraindications from the package insert were not available. Please refer to the package insert for full safety information.
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Phase 3 trial data and several randomized trials support arformoterol in COPD, which fits the predicted obstructive lung disease indication (evidence level L1). However, this overlaps with the existing label and is not new repurposing. The other nine predicted indications have no supporting evidence and should remain on Hold.
+The prediction has no supporting clinical trials or publications (Evidence Level L5). The target is a radiologic finding rather than a defined disease, and the mechanistic link is weak.
 
 **To proceed, the following is needed:**
-- India package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Approved indication text for the Indian license, to confirm that the use is covered by the label
-- Confirmation of whether any genuinely new indication beyond the existing label is of interest, since the top prediction is mainly a label confirmation
+- A clearly defined clinical target, such as the specific underlying disease behind the hyperlucent lung finding
+- Supporting clinical or observational studies in that population
+- Mechanism of action data
+- Package insert warnings and contraindications from the India label
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

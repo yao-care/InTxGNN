@@ -50,10 +50,10 @@ Evidence is stronger for other predicted indications (for example, migraine diso
 |------|------|
 | Original Indication | Not stated in the available licence data (isoflurane is an inhaled general anaesthetic) |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 13 |
+| India Market Status | Marketed (valid licences: 13 of 13) |
+| Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Volatile anaesthetics have vasodilatory effects and modulate vascular smooth muscle calcium handling, which could theoretically relate to coronary vasospasm. However, isoflurane can also cause coronary vasodilation and, in some settings, coronary steal, so this link is speculative and may carry safety concerns rather than benefit. No clinical evidence supports this use.
 
-The prediction score is very high (99.67%), but the score reflects knowledge-graph patterns and not clinical proof.
+The prediction score is very high (0.9967), but the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or clinical proof.
 
 ---
 
@@ -80,8 +80,8 @@ Currently no related literature available for Prinzmetal angina.
 
 For context, the other predicted indications with literature were:
 
-- **Migraine disorder (rank 7, score 99.06%, Evidence Level L4):** 12 publications, with no clinical trials.
-- **Manic bipolar affective disorder (rank 3, score 99.57%, Evidence Level L4):** 3 publications, with no clinical trials.
+- **Migraine disorder (rank 7, score 0.9906, Evidence Level L4):** 12 publications, with no clinical trials.
+- **Manic bipolar affective disorder (rank 3, score 0.9957, Evidence Level L4):** 3 publications, with no clinical trials.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tetrabenazine: From Huntington Disease to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+## Tetrabenazine: polycystic kidney disease 3 with or without polycystic liver disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tetrabenazine is a VMAT2 inhibitor originally used for Huntington disease and related hyperkinetic movement disorders.
 The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model's graph-based score alone.
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the TxGNN model (deep learning) score alone, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,17 +48,17 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Huntington disease (also Huntington disease-like syndromes, juvenile Huntington disease, McLeod neuroacanthocytosis syndrome) |
 | Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tetrabenazine is a reversible VMAT2 inhibitor that depletes presynaptic monoamines. This is how it controls hyperkinetic movements in Huntington disease and related disorders.
 
-Polycystic kidney/liver disease (the GANAB/PRKCSH-related form) is driven by cilia and polycystin dysfunction, which is unrelated to monoamine handling. No clear mechanistic link between the original and the predicted indication was identified. The high score is a graph-based prediction only and should be treated as a hypothesis, not as support for clinical use.
+Polycystic kidney/liver disease (the GANAB/PRKCSH-related form) is driven by cilia and polycystin dysfunction, which is unrelated to monoamine handling. No clear mechanistic link between the original and the predicted indication was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it should be treated as a hypothesis, not as support for clinical use.
 
 The other top-ranked predictions (for example renal-hepatic-pancreatic dysplasia, Joubert syndrome with renal defect, karyomegalic interstitial nephritis) show the same pattern. Most are ciliopathies or metabolic and developmental disorders with no plausible connection to VMAT2 inhibition. Joubert syndrome is the only one where symptomatic control of movement abnormalities is theoretically conceivable, and even there no evidence suggests an effect on the underlying disease or the renal defect.
 

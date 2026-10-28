@@ -4,17 +4,17 @@ title: Doripenem
 parent: Model Prediction Only (L5)
 nav_order: 284
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Doripenem: predicted new indication Idiopathic copper-associated cirrhosis (evidence level L5). Approved use: Cholecystitis"
+indication_count: 5
 monitor_inn: "Doripenem"
-predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatic porphyria", "genetic otorhinolaryngological malformation", "juvenile nasopharyngeal angiofibroma (disease)", "neonatal epileptic encephalopathy due to glutaminase deficiency", "familial nasal acilia"]
+predicted_indications: ["hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis"]
+last_modified_at: 2026-10-23
+description: "Doripenem: predicted new indication Hepatoportal sclerosis (evidence level L5). Approved use: Cholecystitis, low phospholipid associated cholelithiasis…"
 ---
 
 # Doripenem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Doripenem: From Cholecystitis to Idiopathic Copper-Associated Cirrhosis
+## Doripenem: From Cholecystitis to Hepatoportal Sclerosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Doripenem is a carbapenem antibiotic, originally associated with the treatment of cholecystitis, low phospholipid associated cholelithiasis and pyelonephritis.
-The TxGNN model predicts it may be effective for **idiopathic copper-associated cirrhosis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model alone.
+Doripenem is a carbapenem antibiotic. The TxGNN model (deep learning) predicts it may be effective for **hepatoportal sclerosis**, but **no clinical trials and no publications** support this prediction, so it rests on the model score alone, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cholecystitis; low phospholipid associated cholelithiasis; pyelonephritis (from the knowledge graph, as the approved indication text in the India licences is empty) |
-| Predicted New Indication | Idiopathic copper-associated cirrhosis |
-| TxGNN Prediction Score | 99.00% |
+| Original Indication | Cholecystitis, low phospholipid associated cholelithiasis, pyelonephritis (relations recorded in the knowledge graph; the licence records contain no approved indication text) |
+| Predicted New Indication | Hepatoportal sclerosis |
+| TxGNN Prediction Score | 0.9900 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
+| Number of Approvals | At least 20 registrations (the list may be partial) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Doripenem is a carbapenem beta-lactam antibiotic, which acts by inhibiting bacterial cell wall synthesis. Its efficacy in its original indications (biliary and kidney infections) is linked to this antibacterial action.
+Currently, detailed mechanism of action data is not available. Doripenem is a carbapenem antibiotic, a class that works by inhibiting bacterial cell wall synthesis. Its use in the biliary and urinary tract infections recorded in the knowledge graph fits that antibacterial action.
 
-The predicted new indication does not follow from that mechanism. Idiopathic copper-associated cirrhosis is a disorder of copper metabolism with hepatic copper accumulation, not an infectious process. No plausible mechanistic link between doripenem and this disease has been identified.
+Hepatoportal sclerosis is a non-infectious vascular disorder of the liver that causes noncirrhotic portal hypertension. Nothing in the data compiled for this report supports a mechanistic link between an antibacterial agent and this disease. The high score (0.9900) comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, such as the hepatobiliary original indications (cholecystitis, cholelithiasis), not biological evidence, and it has not been biologically validated.
 
-The high score (99.00%) is most likely a result of proximity in the knowledge graph, as the original indications (cholecystitis, cholelithiasis) share a hepatobiliary context with the predicted disease. It should be read as a model signal only, not as a biological rationale. The other top-ranked predictions (hepatopulmonary syndrome, hepatoportal sclerosis, portal vein thrombosis, hepatic porphyria and others) show the same pattern: very similar scores, no supporting studies and no plausible mechanism.
+The same score of 0.9900 was also given by the TxGNN model to four other liver-related conditions: hepatopulmonary syndrome, idiopathic copper-associated cirrhosis, early-onset familial noncirrhotic portal hypertension and primitive portal vein thrombosis. Each of them has no trials, no literature and no supported mechanistic link. The identical scores may reflect similarities the model learned between related diseases rather than disease-specific signals.
 
 ## Clinical Trial Evidence
 
@@ -72,36 +71,35 @@ Currently no related literature available.
 
 ## India Market Information
 
-Doripenem is marketed in India as a single-ingredient injection with 20 valid registrations and none cancelled. The approved indication text is not available in the data compiled for this report. Five main authorizations are listed below.
+At least 20 single-ingredient injectable registrations are listed, all valid. The list may be partial. No approved indication text is recorded in the licence data. Five main registrations are shown below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 65614 | Dori 500mg Injection | Vial of 1 injection | Medilife Health Sciences Pvt Ltd |
-| 69040 | Doriray 500mg Injection | Vial of 1 injection | Mylan Pharmaceuticals Pvt Ltd |
-| 112816 | Inarem 250mg Injection | Vial of 1 injection | Emcure Pharmaceuticals Ltd |
-| 62869 | Dorilon 500mg Injection | Vial of 1 injection | Zovilon Healthcare Private Limited |
-| 70160 | Dpenem 500mg Injection | Vial of 1 injection | Bharat Serums & Vaccines Ltd |
+| 65614 | Dori 500mg Injection | Vial of 1 injection | Not recorded |
+| 69040 | Doriray 500mg Injection | Vial of 1 injection | Not recorded |
+| 112816 | Inarem 250mg Injection | Vial of 1 injection | Not recorded |
+| 62869 | Dorilon 500mg Injection | Vial of 1 injection | Not recorded |
+| 158086 | Nozodor 500mg Injection | Vial of 1 ml injection | Not recorded |
 
 ## Safety Considerations
 
-- **Disease-level contraindication signals (knowledge graph, not label text)**: Clostridium difficile colitis, perinatal necrotizing enterocolitis, impaired renal function disease.
-- **Drug Interactions**: Four moderate-level interactions were found: picosulfuric acid, ethinylestradiol, mycophenolic acid and pemetrexed.
-- **Class-related concerns**: Carbapenems are known to carry a seizure risk and to interact with valproate. Safety in porphyria would also need separate assessment if hepatic porphyria were pursued.
+- **Relations recorded in the knowledge graph (not label text)**: Doripenem is linked to *Clostridium difficile* colitis, perinatal necrotizing enterocolitis and impaired renal function disease as contraindication relations.
+- **Drug Interactions**: Four moderate-level interactions are listed: picosulfuric acid, ethinylestradiol, mycophenolic acid and pemetrexed.
 
-Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the full safety information.
+For full warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanistic link between an antibacterial agent and copper-associated cirrhosis. The same holds for the other nine predicted indications reviewed.
+The prediction has no supporting clinical trials or publications, and no plausible mechanism links a carbapenem antibiotic to hepatoportal sclerosis. The evidence level is L5, so it is a model prediction only.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India regulatory source (currently a blocking gap for safety screening)
-- Detailed mechanism of action data (MOA) from DrugBank
-- A credible biological hypothesis linking doripenem to copper-associated cirrhosis, supported by preclinical or mechanistic studies
-- Any clinical or observational evidence in this indication, none of which is currently identified
+- Mechanism of action data and a testable biological hypothesis connecting doripenem to hepatoportal sclerosis
+- A systematic literature search for any direct clinical or preclinical studies in this disease
+- Package insert warnings and contraindications from Indian regulatory sources
+- Evidence that the score reflects more than the similarities the TxGNN model (deep learning) learned between related hepatobiliary diseases
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

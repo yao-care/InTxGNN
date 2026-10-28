@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Topotecan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 850
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Ovarian cancer (including ovarian adenocarcinoma…"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
+description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Topotecan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Topotecan: From Ovarian Cancer to Female Breast Carcinoma
+## Topotecan: Female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ with **3 clinical trials** (all early-phase or terminated, none with usable effi
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (including ovarian adenocarcinoma, ovarian germ cell and yolk sac tumours, and related subtypes) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, topotecan is a topoisomerase I inhibitor. It causes DNA strand breaks and replication-associated cell death in rapidly dividing tumour cells. Its activity in ovarian cancer is established.
 
-Ovarian and breast cancers are both hormone-related gynaecological-type malignancies, and they share familial links through BRCA-related hereditary syndromes. This is one reason a knowledge-graph model may connect the two diseases. Mechanistically, topoisomerase I inhibition is plausible in breast cancer. A 2023 preclinical study (PMID 37987734) suggests that topoisomerase 1 inhibition is synthetically lethal in MYC-driven breast cancer cells through aberrant R-loop accumulation.
+Ovarian and breast cancers are both hormone-related gynaecological-type malignancies, and they share familial links through BRCA-related hereditary syndromes. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mechanistically, topoisomerase I inhibition is plausible in breast cancer. A 2023 preclinical study (PMID 37987734) suggests that topoisomerase 1 inhibition is synthetically lethal in MYC-driven breast cancer cells through aberrant R-loop accumulation.
 
 There are also cautionary signals. Topotecan is a substrate of the BCRP/ABCG2 efflux transporter, which was first identified in a multidrug-resistant breast cancer cell line and may reduce drug accumulation and cause resistance. A phase 2 study of continuous infusional topotecan in advanced breast cancer also found no evidence of increased efficacy. The very high TxGNN score is a computational prediction and is not clinical evidence.
 
@@ -99,7 +99,6 @@ There are also cautionary signals. Topotecan is a substrate of the BCRP/ABCG2 ef
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (topoisomerase I inhibitor, camptothecin class) |
-| Myelosuppression Risk | High (myelosuppression is the main dose-limiting toxicity; the knowledge graph links topotecan with thrombocytopenia, neutropenia, agranulocytosis and anaemia) |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Complete blood count with differential, renal function, and monitoring for diarrhoea and respiratory symptoms |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
@@ -127,7 +126,7 @@ The TxGNN score is very high, but the supporting clinical evidence for breast ca
 - Controlled clinical data for topotecan in breast cancer, such as phase 2 or 3 trials with efficacy results
 - A comparison against current standard-of-care breast cancer regimens, including consideration of BCRP-mediated resistance
 
-**Other predicted indications (for reference):** Adult germ cell tumour (TxGNN 99.57%, evidence level L2) is the next most supported candidate, with a completed phase 2 trial of paclitaxel and topotecan (n=20), although most retrieved evidence concerns paediatric solid tumours. Seven testicular yolk sac tumour subtypes (TxGNN 99.49% each) have prediction-only support (L5) and should be on Hold. Topotecan is already labelled for ovarian yolk sac tumour, so extrapolation is biologically plausible.
+**Other predicted indications (for reference):** Adult germ cell tumour (TxGNN 0.9957, evidence level L2) is the next most supported candidate, with a completed phase 2 trial of paclitaxel and topotecan (n=20), although most retrieved evidence concerns paediatric solid tumours. Topotecan is already labelled for ovarian yolk sac tumour, so extrapolation is biologically plausible.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tiapride
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 834
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Tiapride: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the approved-indication text of the Indian licences"
@@ -14,7 +14,7 @@ predicted_indications: ["migraine disorder"]
 # Tiapride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Tiapride is a substituted benzamide (a dopamine D2/D3 receptor antagonist) marke
 |------|------|
 | Original Indication | Not stated in the approved-indication text of the Indian licences |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.18% |
+| TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L2 (see note below) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The compiled data assign L2 on the basis of one randomised pilot study and several controlled studies. Strictly under the grading rules, which require a completed Phase 2/3 RCT, this is better read as a low L2 or high L3. The RCT is a small pilot study, and the controlled studies are from the 1980s.

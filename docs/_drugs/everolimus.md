@@ -4,17 +4,17 @@ title: Everolimus
 parent: High Evidence (L1-L2)
 nav_order: 333
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Everolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Renal cell carcinoma (clear cell and non-papillary), breast carcinoma…"
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
+description: "Everolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Everolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Everolimus: From Renal Cell Carcinoma to Liposarcoma
+## Everolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,15 +48,15 @@ Evidence is limited for this top-ranked prediction. Among the other predictions,
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma (clear cell and non-papillary), breast carcinoma, kidney angiomyolipoma, tuberous sclerosis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-The approved indication text is not recorded in the India licence data compiled for this report. The original indications above come from the TxGNN knowledge graph.
+The approved indication text is not recorded in the India licence data compiled for this report. The predictions on this page come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -93,10 +93,9 @@ This rationale is plausible but so far rests on a single-arm Phase 2 trial with 
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 9 | Unclassified renal cell carcinoma | 99.72% | L2 | Several Phase 2 trials, including the randomized ASPEN and ESPN trials. Efficacy is modest and generally not superior to sunitinib. Closest to the approved RCC use. |
-| 7 | Rhabdomyosarcoma | 99.74% | L3 | Phase 1 and Phase 1/2 trials in mixed pediatric solid tumors. Rhabdomyosarcoma-specific efficacy is not established. |
-| 3 | Dermatofibrosarcoma protuberans | 99.82% | L4 | Only indirect imatinib-related literature. |
-| 2, 4, 5, 6, 8, 10 | Rare liposarcoma, rhabdomyosarcoma and RCC subtypes | 99.72–99.84% | L5 | Prediction only, with no trials or publications. |
+| 7 | Rhabdomyosarcoma | 0.9974 | L3 | Phase 1 and Phase 1/2 trials in mixed pediatric solid tumors. Rhabdomyosarcoma-specific efficacy is not established. |
+| 3 | Dermatofibrosarcoma protuberans | 0.9982 | L4 | Only indirect imatinib-related literature. |
+| 2, 4, 5, 6, 8, 10 | Rare liposarcoma, rhabdomyosarcoma and RCC subtypes | 99.72–0.9984 | L5 | Prediction only, with no trials or publications. |
 
 ---
 
@@ -132,7 +131,6 @@ The following information comes from a knowledge graph and drug interaction data
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (mTOR inhibitor), not a conventional cytotoxic |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions. Knowledge graph flags thrombocytopenia, neutropenia, leukopenia and anemia. |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Complete blood count, liver and renal function, blood glucose and lipids (based on the flagged conditions above) |
 | Handling Protection | Please refer to the package insert warnings and precautions |

@@ -48,31 +48,31 @@ The TxGNN model predicts it may be effective for **acute intermittent porphyria*
 |------|------|
 | Original Indication | Not stated in the compiled licence data |
 | Predicted New Indication | Acute intermittent porphyria |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, enclomiphene is a selective estrogen receptor modulator. It blocks estrogen feedback at the hypothalamus, which raises LH and FSH secretion. It is mainly associated with male hypogonadism and fertility-related use.
 
-Acute intermittent porphyria is a heme biosynthesis disorder caused by HMBS deficiency. Hormonal changes can influence the frequency of porphyria attacks, so a link through endocrine modulation is conceivable. However, no data support a role for enclomiphene in this disease, and no mechanistic link has been established. The high score most likely reflects similarity within the model's knowledge graph rather than biological evidence, and should be treated as a hypothesis only.
+Acute intermittent porphyria is a heme biosynthesis disorder caused by HMBS deficiency. Hormonal changes can influence the frequency of porphyria attacks, so a link through endocrine modulation is conceivable. However, no data support a role for enclomiphene in this disease, and no mechanistic link has been established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and should be treated as a hypothesis only.
 
 Other top-ranked predictions are also unsupported by evidence (see the table below).
 
 | Rank | Predicted Disease | TxGNN Score |
 |------|------|------|
-| 2 | Psychogenic movement disorders | 99.65% |
-| 3 | Chronic tic disorder | 99.64% |
-| 4 | Benign shuddering attacks | 99.64% |
-| 5 | Extrapyramidal and movement disease | 99.64% |
-| 6 | Primary orthostatic tremor | 99.63% |
-| 7 | Tremor-nystagmus-duodenal ulcer syndrome | 99.62% |
-| 8 | Lingual-facial-buccal dyskinesia | 99.62% |
-| 9 | Benign paroxysmal tonic upgaze of childhood with ataxia | 99.61% |
-| 10 | Carbamoyl phosphate synthetase I deficiency disease | 99.48% |
+| 2 | Psychogenic movement disorders | 0.9965 |
+| 3 | Chronic tic disorder | 0.9964 |
+| 4 | Benign shuddering attacks | 0.9964 |
+| 5 | Extrapyramidal and movement disease | 0.9964 |
+| 6 | Primary orthostatic tremor | 0.9963 |
+| 7 | Tremor-nystagmus-duodenal ulcer syndrome | 0.9962 |
+| 8 | Lingual-facial-buccal dyskinesia | 0.9962 |
+| 9 | Benign paroxysmal tonic upgaze of childhood with ataxia | 0.9961 |
+| 10 | Carbamoyl phosphate synthetase I deficiency disease | 0.9948 |
 
 ## Clinical Trial Evidence
 

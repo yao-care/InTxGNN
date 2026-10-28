@@ -48,31 +48,31 @@ The prediction is a computational signal only and does not hold up on mechanisti
 |------|------|
 | Original Indication | Postoperative ocular inflammation and pain, and anterior uveitis (based on pharmacology data; no approved indication text is recorded in the India licence entries) |
 | Predicted New Indication | Familial adrenal hypoplasia with absent pituitary luteinizing hormone |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 19 |
+| India Market Status | Marketed (valid licences: 19 of 19) |
+| Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled dataset. Based on known pharmacology, difluprednate is a synthetic glucocorticoid that acts as an agonist at the glucocorticoid receptor (NR3C1). A receptor binding assay reported a Ki of 0.78 nM. Its efficacy in ocular inflammation is established.
 
-The prediction most likely comes from the link between the glucocorticoid class and adrenal disorders in the knowledge graph. However, this condition is a congenital developmental disorder. Its standard of care is hormone replacement, not anti-inflammatory steroid therapy. Difluprednate is a topical ocular product with no evidence of systemic exposure adequate for replacement. **No plausible mechanism supports a benefit**, so the high score appears to reflect graph proximity rather than a real therapeutic link.
+The prediction most likely comes from the link between the glucocorticoid class and adrenal disorders as learned by the TxGNN model (deep learning). However, this condition is a congenital developmental disorder. Its standard of care is hormone replacement, not anti-inflammatory steroid therapy. Difluprednate is a topical ocular product with no evidence of systemic exposure adequate for replacement. **No plausible mechanism supports a benefit**, so the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ### Other Predicted Indications Reviewed
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Seborrheic keratosis | 99.96% | L5 | Benign growth, not inflammatory; steroids not an established treatment |
-| 3 | PAGOD syndrome | 99.93% | L5 | Ultra-rare malformation syndrome; no inflammatory target |
-| 4 | Vulvar inverted follicular keratosis | 99.92% | L5 | Benign lesion usually excised; no supporting data |
-| 5 | Adrenocortical insufficiency | 99.67% | L5 | Class link plausible, but ocular product gives no adequate systemic exposure; prolonged use may suppress the HPA axis |
-| 6 | Seborrheic dermatitis | 99.53% | L5 | Research question: topical steroids are established, but no difluprednate data and the emulsion is not made for skin |
-| 7 | 46,XY disorder of sex development | 99.47% | L5 | Genetic/endocrine disorder; glucocorticoid activity not relevant |
-| 8 | Necrobiosis lipoidica | 99.24% | L5 | Research question: class-level rationale only; skin atrophy risk |
-| 9 | Nephrotic syndrome | 99.21% | L5 | Systemic steroids are the appropriate option; topical ocular use would not reach relevant exposure |
-| 10 | Iris disease | 99.16% | L4 | Research question: plausible, but likely overlaps with existing labelled uses (anterior uveitis) |
+| 2 | Seborrheic keratosis | 0.9996 | L5 | Benign growth, not inflammatory; steroids not an established treatment |
+| 3 | PAGOD syndrome | 0.9993 | L5 | Ultra-rare malformation syndrome; no inflammatory target |
+| 4 | Vulvar inverted follicular keratosis | 0.9992 | L5 | Benign lesion usually excised; no supporting data |
+| 5 | Adrenocortical insufficiency | 0.9967 | L5 | Class link plausible, but ocular product gives no adequate systemic exposure; prolonged use may suppress the HPA axis |
+| 6 | Seborrheic dermatitis | 0.9953 | L5 | Research question: topical steroids are established, but no difluprednate data and the emulsion is not made for skin |
+| 7 | 46,XY disorder of sex development | 0.9947 | L5 | Genetic/endocrine disorder; glucocorticoid activity not relevant |
+| 8 | Necrobiosis lipoidica | 0.9924 | L5 | Research question: class-level rationale only; skin atrophy risk |
+| 9 | Nephrotic syndrome | 0.9921 | L5 | Systemic steroids are the appropriate option; topical ocular use would not reach relevant exposure |
+| 10 | Iris disease | 0.9916 | L5 | Research question: plausible, but likely overlaps with existing labelled uses (anterior uveitis) |
 
 ## Clinical Trial Evidence
 

@@ -4,7 +4,7 @@ title: Lorlatinib
 parent: Model Prediction Only (L5)
 nav_order: 502
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Lorlatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma / lung cancer"
 monitor_inn: "Lorlatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Lorlatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Lorlatinib is a third-generation ALK/ROS1 tyrosine kinase inhibitor, originally used to treat non-small cell lung cancer (NSCLC).
-The TxGNN model ranks **gingival fibromatosis** as its top predicted new indication (score 99.8%), but **no clinical trials and no publications** support this prediction, so it is a model-only signal.
+The TxGNN model (deep learning) ranks **gingival fibromatosis** as its top predicted new indication (score 0.9981), but **no clinical trials and no publications** support this prediction, so it is a model-only signal.
 The strongest evidence found for other top-ranked candidates in this list actually concerns the already approved NSCLC use, or ALK-driven neuroblastoma, not the predicted diseases themselves.
 
 ---
@@ -50,10 +50,10 @@ The strongest evidence found for other top-ranked candidates in this list actual
 |------|------|
 | Original Indication | Non-small cell lung carcinoma / lung cancer |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The strongest evidence found for other top-ranked candidates in this list actual
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, lorlatinib is a brain-penetrant, third-generation ALK/ROS1 kinase inhibitor. Its efficacy in ALK-positive NSCLC has been established in the Phase 3 CROWN trial, but there is no established link between ALK/ROS1 inhibition and gingival fibromatosis.
 
-The prediction for gingival fibromatosis is a graph-based output only. There are no trials, no publications, and no plausible mechanistic rationale, so it should be treated as a hypothesis-generating signal at best.
+The prediction for gingival fibromatosis comes from the TxGNN model (deep learning) only, and its score may reflect similarities the model learned between related diseases, not biological evidence. There are no trials, no publications, and no plausible mechanistic rationale, so it should be treated as a hypothesis-generating signal at best.
 
 Other highly ranked predictions show the same weakness:
 - **Fibroma of lung, hamartoma of lung, pulmonary sulcus neoplasm, lung benign neoplasm:** these have no direct evidence. The literature attached to lung benign neoplasm is about malignant ALK-positive NSCLC, the already approved indication, and does not transfer to benign tumours. This appears to be a disease-ontology artifact.
@@ -134,7 +134,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, gingival fibromatosis, is supported only by a graph-based score, with no trials, no publications, and no plausible ALK/ROS1 mechanism. The evidence level is L5. Strong evidence exists only for the already approved NSCLC use, and it cannot be carried over to the predicted diseases.
+The top-ranked prediction, gingival fibromatosis, is supported only by a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no trials, no publications, and no plausible ALK/ROS1 mechanism. The evidence level is L5. Strong evidence exists only for the already approved NSCLC use, and it cannot be carried over to the predicted diseases.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap for safety screening)

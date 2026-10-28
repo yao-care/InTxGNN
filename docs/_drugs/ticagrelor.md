@@ -4,17 +4,17 @@ title: Ticagrelor
 parent: Model Prediction Only (L5)
 nav_order: 835
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "Ticagrelor"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "venous thromboembolism"]
+description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ticagrelor: From Acute Coronary Syndrome to Intracranial Arteriosclerosis
+## Ticagrelor: Intracranial arteriosclerosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **intracranial arteriosclerosis
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute coronary syndrome (also peripheral arterial disease and intermittent claudication, per the knowledge graph; no approved-indication text is listed in the India licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Intracranial arteriosclerosis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L3 (observational cohort data only; the Phase 3 trial has not reported results) |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 (observational cohort data only; the Phase 3 trial has not reported results) |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ Twenty single-ingredient registrations are valid and none are cancelled. The lic
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: liver failure, liver disease, gallbladder disease, and intracranial hemorrhage. Intracranial hemorrhage matters most here, because patients with intracranial atherosclerosis are at risk of it and CAPTIVA counts it as a primary outcome.
+- **Contraindications (not label text)**: liver failure, liver disease, gallbladder disease, and intracranial hemorrhage. Intracranial hemorrhage matters most here, because patients with intracranial atherosclerosis are at risk of it and CAPTIVA counts it as a primary outcome.
 - **Drug Interactions**: 423 interactions were identified.
   - **Major**: clarithromycin.
   - **Moderate examples**: aspirin, morphine, simvastatin, dexamethasone, budesonide, aprepitant, saxagliptin, and miconazole.

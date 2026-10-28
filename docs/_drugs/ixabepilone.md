@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ixabepilone
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 460
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ixabepilone: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Breast carcinoma / breast neoplasm"
 monitor_inn: "Ixabepilone"
-predicted_indications: ["Ewing sarcoma", "salivary gland type cancer of the breast", "breast papillomatosis", "breast leiomyoma", "breast lipoma", "diabetic mastopathy", "giant adenofibroma of the breast", "benign neoplasm of male breast", "subareolar duct papillomatosis", "infiltrating nipple syringomatous adenoma"]
+predicted_indications: ["Ewing sarcoma", "salivary gland type cancer of the breast", "breast papillomatosis", "breast leiomyoma", "breast lipoma", "diabetic mastopathy", "benign neoplasm of male breast", "giant adenofibroma of the breast", "infiltrating nipple syringomatous adenoma", "subareolar duct papillomatosis"]
 ---
 
 # Ixabepilone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **2 clinical trials** (1 Phase 1, 1 Phase 2) and **1 publication** currentl
 |------|------|
 | Original Indication | Breast carcinoma / breast neoplasm (the licence text on file for India is blank) |
 | Predicted New Indication | Ewing sarcoma |
-| TxGNN Prediction Score | 99.76% |
-| Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| TxGNN Prediction Score | 0.9976 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -94,7 +94,7 @@ The very high TxGNN score agrees with the early clinical signal. However, the ma
 
 ## Safety Considerations
 
-- **Contraindications / risk conditions (from knowledge-graph associations, not label text)**: liver failure and liver disease, hyperbilirubinaemia (including Gilbert syndrome), gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anaemia, peripheral neuropathy and other peripheral nervous system disease, heart disease (including coronary artery disease, myocardial ischaemia, heart conduction disease and sudden cardiac arrest), cardiovascular disease, diabetes mellitus and diabetic ketoacidosis.
+- **Contraindications / risk conditions (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence)**: liver failure and liver disease, hyperbilirubinaemia (including Gilbert syndrome), gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anaemia, peripheral neuropathy and other peripheral nervous system disease, heart disease (including coronary artery disease, myocardial ischaemia, heart conduction disease and sudden cardiac arrest), cardiovascular disease, diabetes mellitus and diabetic ketoacidosis.
 - **Drug Interactions**: 276 interactions were identified. The major-level ones include deferiprone and samarium (153Sm) lexidronam. Moderate-level ones include aprepitant, dexamethasone, cimetidine, clarithromycin, clotrimazole, metronidazole, miconazole, rosuvastatin, simvastatin, tinidazole, troglitazone, cobicistat, deferasirox, palifermin, strontium chloride Sr-89, fostamatinib, lusutrombopag and chloroquine. Many of these likely involve CYP3A4 or myelosuppression effects.
 - **Known toxicity from the literature**: Peripheral neuropathy is usually mild to moderate, sensory and cumulative. Neutropenia is the main dose-limiting toxicity.
 
@@ -113,7 +113,7 @@ The evidence is L2. It rests on one completed Phase 2 trial in a mixed refractor
 - Detailed mechanism of action data (MOA) from DrugBank
 - A safety monitoring plan for paediatric and young-adult patients, covering neutropenia, neuropathy and hepatic impairment
 
-**Other predicted indications:** The remaining nine predictions (salivary gland-type breast cancer, breast papillomatosis, breast leiomyoma, breast lipoma, diabetic mastopathy, giant adenofibroma of the breast, benign neoplasm of male breast, subareolar duct papillomatosis and infiltrating nipple syringomatous adenoma) are at L5 with **Hold** recommendations. They have no supporting trials, and the literature listed for benign neoplasm of male breast concerns malignant disease and does not support that indication. Most are benign conditions where the toxicity of a cytotoxic agent is not justified. The high scores likely reflect knowledge-graph proximity to breast carcinoma.
+**Other predicted indications:** The remaining nine predictions (salivary gland-type breast cancer, breast papillomatosis, breast leiomyoma, breast lipoma, diabetic mastopathy, giant adenofibroma of the breast, benign neoplasm of male breast, subareolar duct papillomatosis and infiltrating nipple syringomatous adenoma) are at L5 with **Hold** recommendations. They have no supporting trials, and the literature listed for benign neoplasm of male breast concerns malignant disease and does not support that indication. Most are benign conditions where the toxicity of a cytotoxic agent is not justified. The high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

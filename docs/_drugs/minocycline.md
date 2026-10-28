@@ -6,9 +6,9 @@ nav_order: 556
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Minocycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Urinary tract infection, bronchitis, acne, anthrax infection…"
 monitor_inn: "Minocycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
+description: "Minocycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Minocycline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Minocycline: From Bacterial Infections and Acne to Punctate Epithelial Keratoconjunctivitis
+## Minocycline: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection, bronchitis, acne, anthrax infection, periodontitis, gonorrhea and other bacterial infections (the approved indication text in the India license records is blank, so these indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A plausible, but unverified, rationale is that minocycline has anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting activity. These properties are relevant to ocular surface inflammation, and tetracycline-class drugs are already used in ocular surface conditions such as meibomian gland dysfunction and blepharitis. This link comes from general pharmacology, not from the data compiled for this report.
 
-The second-ranked prediction, **exposure keratitis** (score 99.20%), has a similar but weaker rationale. Exposure keratitis is mainly caused by incomplete eyelid closure and corneal drying, so an antibiotic would be at best an adjunct, and the predicted benefit is uncertain. Neither prediction has supporting trials or literature.
+The second-ranked prediction, **exposure keratitis** (score 0.9920), has a similar but weaker rationale. Exposure keratitis is mainly caused by incomplete eyelid closure and corneal drying, so an antibiotic would be at best an adjunct, and the predicted benefit is uncertain. Neither prediction has supporting trials or literature.
 
 ## Clinical Trial Evidence
 

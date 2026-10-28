@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Sevoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: General anaesthesia (inhaled anaesthetic"
 monitor_inn: "Sevoflurane"
-predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
+predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 ---
 
 # Sevoflurane
@@ -50,10 +50,10 @@ The prediction should be regarded as a hypothesis only.
 |------|------|
 | Original Indication | General anaesthesia (inhaled anaesthetic; the registered indication text is not available) |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -70,15 +70,15 @@ Practical barriers are also substantial. Sevoflurane is an inhaled agent given u
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |---|---|---|---|---|
-| 2 | Tourette syndrome | 99.50% | L5 | Prediction only; chronic inhaled use is impractical |
-| 3 | Fibromyalgia | 99.42% | L4 | One case report of anaesthetic management, not treatment |
-| 4 | Tendinitis | 99.41% | L4 | Nine publications, all perioperative or unrelated to treating tendinitis |
-| 5 | Myositis fibrosa | 99.41% | L5 | No rationale or data |
-| 6 | Idiopathic granulomatous myositis | 99.41% | L5 | No rationale; malignant hyperthermia risk in myopathies is a concern |
-| 7 | Nephrogenic syndrome of inappropriate antidiuresis | 99.40% | L5 | No plausible mechanism |
-| 8 | Trichotillomania | 99.33% | L5 | Speculative only |
-| 9 | Migraine disorder | 99.23% | L4 | One paediatric MRI anaesthesia cohort, not migraine treatment |
-| 10 | Inclusion body myositis | 99.09% | L4 | One anaesthetic-safety case report |
+| 2 | Tourette syndrome | 0.9950 | L5 | Prediction only; chronic inhaled use is impractical |
+| 3 | Fibromyalgia | 0.9942 | L4 | One case report of anaesthetic management, not treatment |
+| 4 | Tendinitis | 0.9941 | L5 | Nine publications, all perioperative or unrelated to treating tendinitis |
+| 5 | Myositis fibrosa | 0.9941 | L5 | No rationale or data |
+| 6 | Idiopathic granulomatous myositis | 0.9941 | L5 | No rationale; malignant hyperthermia risk in myopathies is a concern |
+| 7 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9940 | L5 | No plausible mechanism |
+| 8 | Trichotillomania | 0.9933 | L5 | Speculative only |
+| 9 | Migraine disorder | 0.9923 | L5 | One paediatric MRI anaesthesia cohort, not migraine treatment |
+| 10 | Inclusion body myositis | 0.9909 | L4 | One anaesthetic-safety case report |
 
 ---
 

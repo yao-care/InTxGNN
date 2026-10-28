@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
-description: "Chloroquine: predicted new indication Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). Approved use: Rheumatoid arthritis, systemic lupus erythematosus…"
 monitor_inn: "Chloroquine"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
+last_modified_at: 2026-10-27
+description: "Chloroquine: predicted new indication rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chloroquine
@@ -33,80 +33,77 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Chloroquine: From Rheumatoid Arthritis and Malaria to Rheumatoid Factor-Positive Polyarticular Juvenile Idiopathic Arthritis
+## Chloroquine: Antimalarial and immunomodulatory 4-aminoquinoline → rheumatoid factor-positive polyarticular juvenile idiopathic arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Chloroquine is an established antimalarial that is also used for rheumatoid arthritis and lupus.
+Chloroquine is an established antimalarial and immunomodulatory agent that is marketed in India.
 The TxGNN model predicts it may be effective for **rheumatoid factor-positive polyarticular juvenile idiopathic arthritis**,
-but the data compiled for this report contain **no clinical trials** and only **1 publication**, which does not study chloroquine. This is a model-based prediction with very little direct support.
+but currently **0 clinical trials** and only **1 indirect publication** (a study of a different drug) support this direction, so this is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, systemic lupus erythematosus, malaria (Plasmodium vivax, falciparum, ovale, malariae), discoid and chronic cutaneous lupus erythematosus (from the knowledge graph; no approved-indication text in the India licences) |
-| Predicted New Indication | Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis |
-| TxGNN Prediction Score | 99.41% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, chloroquine is an antimalarial that is also used as a slow-acting, DMARD-like agent in rheumatoid arthritis. It is thought to act through immunomodulation: raising lysosomal pH and inhibiting autophagy, reducing antigen presentation, and lowering pro-inflammatory cytokine production.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, chloroquine acts as an immunomodulator by raising lysosomal pH, interfering with autophagy and antigen presentation, and reducing pro-inflammatory cytokine production. These effects are the reason it has long been used as a slow-acting antirheumatic agent.
 
-RF-positive polyarticular JIA closely resembles adult seropositive rheumatoid arthritis, so the same immunomodulatory effects may plausibly apply. The very high TxGNN score most likely reflects this network proximity to the approved RA indication rather than direct clinical evidence in JIA.
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis closely resembles adult seropositive rheumatoid arthritis in its joint-centred, autoantibody-associated inflammation. This similarity explains the very high model score, but the score reflects proximity to rheumatoid disease rather than clinical proof in children.
 
-Related predictions in the same disease family (rheumatoid nodulosis, juvenile chronic polyarthritis and juvenile idiopathic arthritis overall) also show scores of about 99%. They rest on the same reasoning and are likewise not supported by chloroquine-specific trials in the data compiled for this report.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
+The only publication retrieved for this specific disease concerns leflunomide, not chloroquine. No study in the data directly tests chloroquine in this condition, so the rationale remains theoretical.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24334641](https://pubmed.ncbi.nlm.nih.gov/24334641/) | 2014 | Cohort (prospective, real-life) | The Journal of Rheumatology | Describes long-term clinical experience with leflunomide in JIA. It does not evaluate chloroquine, so it is indirect evidence only. |
+| [24334641](https://pubmed.ncbi.nlm.nih.gov/24334641/) | 2014 | Prospective cohort | The Journal of Rheumatology | Real-life long-term experience with leflunomide in juvenile idiopathic arthritis; does not evaluate chloroquine |
 
-Across the broader JIA predictions, historical literature is also available, such as 1970s dosing studies of chloroquine and hydroxychloroquine in juvenile rheumatoid arthritis (PMIDs 4608161, 5574957) and older therapy reviews (PMID 2047820). The abstracts for these were not available, and none provides modern controlled efficacy data.
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
 
 ## India Market Information
 
+At least 20 valid single-ingredient registrations are recorded; the list may be partial. Approved indication text is not recorded in the local data. Main products:
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 144057 | Malaquin 250mg Suspension | Bottle of 60 ml suspension | Not stated |
-| 184408 | Resochin Tablet | Strip of 10 tablets | Not stated |
-| 18912 | Amoquin 50mg Syrup | Bottle of 60 ml syrup | Not stated |
-| 147598 | Malswift 40mg Injection | Vial of 30 ml injection | Not stated |
-| 148233 | Malgo 250mg Tablet | Strip of 10 tablets | Not stated |
-
-There are 20 valid single-ingredient registrations in total, covering tablets, syrups, suspensions, drops and injections. Paediatric-friendly forms (syrup, suspension, drops) are available.
+| 144057 | Malaquin 250mg Suspension | Bottle of 60 ml suspension | Not recorded |
+| 184408 | Resochin Tablet | Strip of 10 tablets | Not recorded |
+| 18912 | Amoquin 50mg Syrup | Bottle of 60 ml syrup | Not recorded |
+| 147598 | Malswift 40mg Injection | Vial of 30 ml injection | Not recorded |
+| 148233 | Malgo 250mg Tablet | Strip of 10 tablets | Not recorded |
 
 ## Safety Considerations
 
-- **Contraindications / conditions flagged in the knowledge graph** (not taken from label text): epilepsy, porphyria, liver disease, eye and retinal disease, vision and hearing disorders, psoriasis, neutropenia, agranulocytosis, leukopenia, anaemia, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia and substance abuse/dependence.
-- **Drug interactions**: 467 interactions were recorded. Major ones include bupropion, cisapride, clarithromycin, dolasetron, granisetron and agalsidase beta. Moderate ones include antacids (aluminium hydroxide, calcium carbonate), cimetidine, famotidine, metronidazole, and antidiabetic agents (glimepiride, glipizide, glyburide, chlorpropamide, insulin).
-- **Literature safety signals**: A case report describes third-degree atrioventricular block under chloroquine therapy (PMID 9523387), and another describes chloroquine-induced vitiligo in juvenile-onset rheumatoid arthritis (PMID 1450810). These call for caution in paediatric use.
+- **Contraindications / conditions requiring caution (from drug-disease relations, not label text)**: epilepsy, porphyria, liver disease, eye and retinal disease, vision and hearing disorders, psoriasis, neutropenia, agranulocytosis, leukopenia, anemia, G6PD deficiency, substance abuse/dependence, and certain metabolic disorders (glycogen storage disease, cystinuria, galactosemia).
+- **Drug Interactions**: 467 interactions are recorded. Major-level examples include agalsidase beta, bupropion, cisapride, clarithromycin, dolasetron and granisetron (several of these are QT-prolonging or otherwise high-risk combinations). Moderate-level examples include antacids, cimetidine, famotidine, metronidazole, and sulfonylureas and insulin (glucose-lowering effects).
+- **Cardiac signal in related literature**: a case report describes third-degree atrioventricular block under chloroquine therapy in a patient with juvenile-onset arthritis. This warrants attention in any paediatric use.
 
-Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score and mechanistic plausibility alone (Evidence Level L5). No clinical trials exist, and the only retrieved publication concerns a different drug. Documented cardiac conduction toxicity and the ocular and haematological risks raise the bar for paediatric use.
+The prediction score is very high, but there are no clinical trials and no study that tests chloroquine in this disease, so the evidence level is L5. Cardiac and retinal safety concerns add caution for paediatric use.
 
 **To proceed, the following is needed:**
-- Chloroquine-specific (or hydroxychloroquine) efficacy data in JIA, such as controlled trials or well-designed cohorts
-- Detailed mechanism of action data
-- India package insert warnings and contraindications, which are required for safety screening
-- A paediatric dosing and monitoring plan covering retinal, cardiac and haematological surveillance
-- Comparison against current standard JIA therapies, since modern practice relies on methotrexate and biologics
+- Studies directly evaluating chloroquine in RF-positive polyarticular JIA
+- Mechanism of action data
+- Package insert warnings and contraindications from the India label
+- Paediatric dosing and a cardiac and ophthalmic safety monitoring plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

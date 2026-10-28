@@ -4,17 +4,17 @@ title: Xylometazoline
 parent: Moderate Evidence (L3-L4)
 nav_order: 900
 evidence_level: L3
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Xylometazoline: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Pharyngitis, common cold"
 monitor_inn: "Xylometazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **no registered clinical trials** but **6 publications** currently supporti
 |------|------|
 | Original Indication | Pharyngitis, common cold |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -102,7 +102,7 @@ Please also refer to the package insert for full safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The evidence is supportive but limited. It consists of several small or procedural studies, including randomized trials in nasal preparation, with no registered clinical trials. The predicted use sits within or next to the drug's existing nasal decongestant role, and the drug is widely marketed in India. A second prediction, acute laryngopharyngitis (score 99.89%), has no trials or literature and mostly overlaps the existing pharyngitis indication, so it stays on **Hold** (Evidence Level L5).
+The evidence is supportive but limited. It consists of several small or procedural studies, including randomized trials in nasal preparation, with no registered clinical trials. The predicted use sits within or next to the drug's existing nasal decongestant role, and the drug is widely marketed in India.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from India registrations (currently missing, and a blocking gap for safety screening)

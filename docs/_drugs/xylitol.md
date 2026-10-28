@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **meningococcal infection**, bu
 |------|------|
 | Original Indication | Not stated in the licence records |
 | Predicted New Indication | Meningococcal infection |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. The original indication is also not recorded in the data compiled for this report, so a direct link between the original use and the new indication cannot be drawn.
 
-The prediction therefore rests on the model's very high score (0.997). Some hypotheses are plausible but unverified. Xylitol may interfere with bacterial adhesion to the nasopharyngeal lining, as has been described for *Streptococcus pneumoniae* and *Haemophilus influenzae* in the upper airway. It may also limit bacterial growth because many bacteria cannot ferment it readily. Neither effect has been shown for *Neisseria meningitidis*.
+The prediction therefore rests on the model's very high score (0.9966). Some hypotheses are plausible but unverified. Xylitol may interfere with bacterial adhesion to the nasopharyngeal lining, as has been described for *Streptococcus pneumoniae* and *Haemophilus influenzae* in the upper airway. It may also limit bacterial growth because many bacteria cannot ferment it readily. Neither effect has been shown for *Neisseria meningitidis*.
 
 Systemic exposure to xylitol is low when it is taken orally or nasally. It is therefore unlikely to treat invasive meningococcal disease (meningitis or sepsis), which requires systemic antibiotics. Any realistic role would be limited to nasopharyngeal carriage or colonisation, and even that is speculative.
 

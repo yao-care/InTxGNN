@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Beta Carotene
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 104
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Beta Carotene: predicted new indication Acne (disease) (evidence level L4). Approved use: Not stated"
 monitor_inn: "Beta carotene"
-predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "tetanic cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract"]
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract"]
+last_modified_at: 2026-10-27
+description: "Beta Carotene: predicted new indication acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Beta Carotene
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Beta Carotene: From Nutritional Supplement (Original Indication Not Specified) to Acne
+## Beta carotene: provitamin A carotenoid antioxidant → acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Beta carotene is a provitamin A carotenoid with antioxidant activity, currently marketed in India as an oral soft-gel capsule supplement.
-The TxGNN model predicts it may be useful for **acne**, but **no clinical trials** are registered and the 7 retrieved publications are observational, biochemical or general reviews.
-The prediction is therefore a computational signal only, supported at the weakest evidence level.
+Beta carotene is a provitamin A carotenoid with antioxidant activity, currently marketed in India as oral soft-gel capsules.
+The TxGNN model predicts it may be effective for **acne (disease)**, but the data compiled for this report contain **no clinical trials** and **7 publications**, mostly associative or about oxidative status, none showing that beta carotene treats acne.
+This is a model-only hypothesis with very little direct support.
 
 ---
 
@@ -48,21 +48,23 @@ The prediction is therefore a computational signal only, supported at the weakes
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated (the approved indication text is blank on both registrations) |
-| Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.999% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | acne (disease) |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, beta carotene is a provitamin A carotenoid with antioxidant properties. Oxidative stress and altered antioxidant status have been described in acne vulgaris, and vitamin A pathways are relevant to the pilosebaceous unit (the hair follicle and oil gland), which gives the prediction a plausible biological basis.
+Detailed mechanism of action data is not currently available. Beta carotene is known as a provitamin A carotenoid with antioxidant properties, and this is the basis for the proposed link.
 
-The retrieved literature, however, only describes associations: serum vitamin A and beta carotene levels in skin disease, oxidant/antioxidant status in adolescents with acne, and oxidative changes during isotretinoin treatment. No study has tested beta carotene as a treatment for acne. The very high TxGNN score should be read as a model prediction, not as proof of benefit.
+Studies report oxidative stress and altered antioxidant status in acne vulgaris. One small study of patients with anorexia nervosa noted raised beta carotene levels, with acne in a small subset. Another study looked at oxidative toxicity during isotretinoin treatment. Older work compared serum vitamin A and beta carotene levels in people with skin disease.
+
+These findings are associations or measurements of antioxidant status. None tests beta carotene as an acne treatment. Several retrieved papers concern plant essential oils or general vitamin reviews and are not relevant. Because no cited study directly examines beta carotene as a therapy for acne, the evidence level is L5.
 
 ---
 
@@ -76,13 +78,13 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20049267](https://pubmed.ncbi.nlm.nih.gov/20049267/) | 2009 | Cohort | Indian J Dermatol | Oxidant/antioxidant status assessed in obese adolescent females with acne vulgaris |
-| [22517509](https://pubmed.ncbi.nlm.nih.gov/22517509/) | 2012 | Clinical biomarker study | Cell Biochem Funct | Isotretinoin treatment altered antioxidant vitamins and induced oxidative toxicity in acne patients |
-| [7618499](https://pubmed.ncbi.nlm.nih.gov/7618499/) | 1995 | Review | J Am Board Fam Pract | General overview of vitamins used as therapy |
-| [2073211](https://pubmed.ncbi.nlm.nih.gov/2073211/) | 1990 | Review | Australas J Dermatol | Skin findings in anorexia nervosa, including elevated beta carotene levels and acne in a small subset |
-| [4230169](https://pubmed.ncbi.nlm.nih.gov/4230169/) | 1967 | Cross-sectional | Dermatol Wochenschr | Vitamin A and beta carotene serum levels in people with and without skin diseases |
-
-Two further retrieved papers (plant essential oil studies) are not specific to beta carotene and are omitted.
+| [20049267](https://pubmed.ncbi.nlm.nih.gov/20049267/) | 2009 | Cross-sectional | Indian Journal of Dermatology | Oxidant/antioxidant status in obese adolescent females with acne vulgaris |
+| [22517509](https://pubmed.ncbi.nlm.nih.gov/22517509/) | 2012 | Clinical observational | Cell Biochemistry and Function | Isotretinoin treatment altered antioxidant vitamins and induced oxidative toxicity in blood of acne patients (pilot study) |
+| [2073211](https://pubmed.ncbi.nlm.nih.gov/2073211/) | 1990 | Review | Australasian Journal of Dermatology | Skin findings in 14 anorexia nervosa patients, including elevated beta carotene levels and acne in a small subset |
+| [4230169](https://pubmed.ncbi.nlm.nih.gov/4230169/) | 1967 | Observational | Dermatologische Wochenschrift | Serum vitamin A and beta carotene levels in people with and without skin disease |
+| [7618499](https://pubmed.ncbi.nlm.nih.gov/7618499/) | 1995 | Review | J Am Board Fam Pract | General review of vitamins as therapy; not specific to acne |
+| [39459015](https://pubmed.ncbi.nlm.nih.gov/39459015/) | 2024 | In vitro | Pharmaceuticals (Basel) | Ylang-ylang essential oil properties for dermatology; limited relevance |
+| [23625436](https://pubmed.ncbi.nlm.nih.gov/23625436/) | 2013 | In vitro | Pak J Pharm Sci | Helichrysum extract activities; limited relevance |
 
 ---
 
@@ -90,19 +92,18 @@ Two further retrieved papers (plant essential oil studies) are not specific to b
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 197872 | Resumer Pro Softgel Capsule | Bottle of 60 soft gelatin capsules | Not stated |
-| 98656 | Glowishma Softgel Capsule | Strip of 10 soft gelatin capsules | Not stated |
+| 197872 | Resumer Pro Softgel Capsule | Bottle of 60 soft gelatin capsules | Not recorded |
+| 98656 | Glowishma Softgel Capsule | Strip of 10 soft gelatin capsules | Not recorded |
+
+Both licences are valid single-ingredient products (oral).
 
 ---
 
 ## Safety Considerations
 
-Beyond the data below, please refer to the package insert for safety information.
+- **Drug Interactions**: Verteporfin (moderate); lutein (minor).
 
-- **Drug Interactions**:
-  - Verteporfin: Moderate
-  - Lutein: Minor
-- **Disease associations flagged by the knowledge graph (not label text)**: blood coagulation disease, sickle cell anaemia, hereditary persistence of fetal haemoglobin, primary hyperoxaluria, hereditary haemochromatosis, haemosiderosis, iron metabolism disease and Wilson disease. These should be verified against the label before any use.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
 
 ---
 
@@ -111,28 +112,12 @@ Beyond the data below, please refer to the package insert for safety information
 **Decision: Hold**
 
 **Rationale:**
-The acne prediction has a very high model score but no clinical trials and only observational or biochemical literature, with no study testing beta carotene as an acne treatment. Evidence is at L4, which does not justify advancing.
+The prediction rests on the model score and indirect findings about oxidative status. No trial or publication shows that beta carotene improves acne.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the two Indian products (currently missing, blocking safety screening)
-- Mechanism of action data from DrugBank
-- Controlled human studies, or at least well-designed mechanistic work, testing beta carotene in acne
-- Review of the knowledge-graph contraindication flags and the verteporfin interaction
-
----
-
-## Other Predicted Indications (For Reference)
-
-Other predictions in the data are also weakly supported. None has a registered clinical trial.
-
-| Predicted Indication | Evidence Level | Assessment |
-|------|------|------|
-| Diabetic retinopathy | L4 | Research question. Animal studies and mixed observational data only; no human interventional trial |
-| Diabetic cataract | L4 | Research question. Observational nutrition associations, mostly in non-diabetic populations |
-| Cortical cataract | L4 | Hold. Antioxidant supplement RCTs (combination with vitamins C and E, or alpha-tocopherol) showed no meaningful benefit; they do not isolate beta carotene |
-| Type 2 diabetes-associated cataract | L4 | Hold. A single observational study |
-| Severe nonproliferative diabetic retinopathy, nuclear senile cataract | L5 | Hold. No trials or literature; computational prediction only |
-| Tetanic cataract, mature cataract, craniostenosis cataract | L5 | Hold. No plausible mechanistic link or clinical support; likely graph-propagation artifacts |
+- Controlled human studies of beta carotene in acne
+- Mechanism of action data
+- Package insert warnings and contraindications for the marketed products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

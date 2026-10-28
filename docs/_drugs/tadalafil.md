@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 Tadalafil is a PDE5 inhibitor originally used for erectile dysfunction, benign prostatic hyperplasia, and pulmonary hypertension.
 The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
-but **no clinical trials and no publications** currently support this prediction. It rests on a graph-based computational score alone, and the plausible explanation is a statistical artifact rather than a therapeutic link.
+but **no clinical trials and no publications** currently support this prediction. It rests on a score from the TxGNN model (deep learning) alone, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Erectile dysfunction, benign prostatic hyperplasia, pulmonary hypertension, premature ejaculation, psychologic dyspareunia (approved-indication text is not available in the Indian licence records) |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -63,8 +63,8 @@ On the evidence available, the prediction is **not mechanistically convincing**.
 The same pattern appears in the other top-ranked predictions: hypertrichosis, isolated genetic hair shaft abnormality, familial isolated trichomegaly, and developmental malformation syndromes (odontal/periodontal and Dandy-Walker). None has supporting evidence in the data compiled for this report.
 
 Two lower-ranked predictions are worth noting:
-- **Kyphoscoliotic heart disease** (score 99.43%): this is the only prediction with an indirect, speculative pathway. Tadalafil is approved for pulmonary arterial hypertension, and kyphoscoliosis can lead to cor pulmonale. However, no data support it, and PDE5 inhibitors may worsen ventilation-perfusion matching in chronic hypoxic or restrictive lung disease.
-- **Migraine with brainstem aura** (score 99.08%): the only evidence is a case report of tadalafil *associated with* migraine aura, which is a safety signal, not a therapeutic one.
+- **Kyphoscoliotic heart disease** (score 0.9943): this is the only prediction with an indirect, speculative pathway. Tadalafil is approved for pulmonary arterial hypertension, and kyphoscoliosis can lead to cor pulmonale. However, no data support it, and PDE5 inhibitors may worsen ventilation-perfusion matching in chronic hypoxic or restrictive lung disease.
+- **Migraine with brainstem aura** (score 0.9908): the only evidence is a case report of tadalafil *associated with* migraine aura, which is a safety signal, not a therapeutic one.
 
 ## Clinical Trial Evidence
 
@@ -109,7 +109,7 @@ Package insert warnings and contraindications were not available. The following 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score, with no clinical trials or publications, and the likely explanation is a graph artifact linked to drugs that cause hypertrichosis. There is also no plausible mechanism, and the one available publication is an adverse-event signal.
+The prediction rests only on a score from the TxGNN model (deep learning), with no clinical trials or publications. The score may reflect similarities the model learned between related diseases, not biological evidence, including similarities with drugs that cause hypertrichosis. There is also no plausible mechanism, and the one available publication is an adverse-event signal.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (DrugBank) and an analysis of whether any PDE5/cGMP effect on hair follicles exists

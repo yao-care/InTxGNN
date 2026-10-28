@@ -48,10 +48,10 @@ with **2 clinical trials** and **3 publications** currently supporting this dire
 |------|------|
 | Original Indication | Not stated in the licence records compiled for this report (a local anaesthetic used for regional anaesthesia and nerve blocks) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 19 |
+| India Market Status | Marketed (valid licences: 19 of 19) |
+| Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ In migraine, ropivacaine is used in regional nerve blocks (sphenopalatine gangli
 
 The very high TxGNN score fits this sodium channel and pain pathway link. However, the clinical support is modest and varied, so the score should be treated as a hypothesis, not proof.
 
-Other predicted indications were weaker. Migraine with brainstem aura likely scores high only because it is close to migraine in the knowledge graph, and nerve blocks are not known to act on its mechanism. Nephrogenic syndrome of inappropriate antidiuresis and dysthymic disorder have no plausible mechanistic link and no clinical evidence.
+Other predicted indications were weaker. Migraine with brainstem aura likely scores high (0.9955) because the TxGNN model (deep learning) may reflect similarities it learned between related diseases, not biological evidence, and nerve blocks are not known to act on its mechanism. Nephrogenic syndrome of inappropriate antidiuresis (0.9941) and dysthymic disorder (0.9915) have no plausible mechanistic link and no clinical evidence.
 
 ## Clinical Trial Evidence
 

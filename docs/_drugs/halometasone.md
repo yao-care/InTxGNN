@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Halometasone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 405
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Halometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L4). Approved use: Not specified in the registration data"
@@ -14,7 +14,7 @@ predicted_indications: ["primary cutaneous T-cell lymphoma", "polyp of vocal cor
 # Halometasone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** were found to support this predic
 |------|------|
 | Original Indication | Not specified in the registration data |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| TxGNN Prediction Score | 0.9962 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available for this drug. Bas
 
 Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, the most common primary cutaneous T-cell lymphoma. In this setting they reduce inflammation and can induce apoptosis of malignant T cells. This is class-level knowledge, not drug-specific evidence for halometasone. The high TxGNN score is a model prediction only, and a topical route fits skin-limited disease.
 
-Nine other predicted indications (various polyps, such as vocal cord, middle ear, uterine, ureter, vulvar, frontal sinus, external auditory canal, fibroepithelial and neoplastic polyps) also scored above 99.5%. None has any clinical evidence. Most involve sites a dermatologic cream cannot plausibly reach, or conditions treated by surgical removal, so they are not considered credible repurposing directions.
+Nine other predicted indications (various polyps, such as vocal cord, middle ear, uterine, ureter, vulvar, frontal sinus, external auditory canal, fibroepithelial and neoplastic polyps) also scored between 0.9956 and 0.9958. None has any clinical evidence. Most involve sites a dermatologic cream cannot plausibly reach, or conditions treated by surgical removal, so they are not considered credible repurposing directions.
 
 ## India Market Information
 

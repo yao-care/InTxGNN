@@ -6,9 +6,9 @@ nav_order: 495
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). Approved use: Bipolar disorder"
 monitor_inn: "Lithium carbonate"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
+description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lithium Carbonate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lithium Carbonate: From Bipolar Disorder to Pseudoachondroplasia
+## Lithium Carbonate: Pseudoachondroplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **pseudoachondroplasia**, but t
 
 | Item | Content |
 |------|------|
-| Original Indication | Bipolar disorder (the licence records contain no approved indication text; this is taken from the drug's known indications in the knowledge graph, which also lists major affective disorder, manic bipolar affective disorder, and several arthritis-related conditions) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pseudoachondroplasia |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Pseudoachondroplasia is a genetic skeletal dysplasia caused by COMP mutations, which lead to endoplasmic reticulum stress and retention of matrix proteins in chondrocytes. No direct link between lithium's action and this mechanism is established.
 
-The high score most likely reflects proximity within the knowledge graph. Several of the top-ranked predictions (pseudoachondroplasia, Hunter-Thompson acromesomelic dysplasia, brachyolmia and others) belong to the skeletal dysplasia cluster, which suggests a network-driven pattern rather than a validated biological link.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several of the top-ranked predictions (pseudoachondroplasia, Hunter-Thompson acromesomelic dysplasia, brachyolmia and others) belong to the skeletal dysplasia cluster, which suggests a pattern learned by the model rather than a validated biological link.
 
 ## Clinical Trial Evidence
 

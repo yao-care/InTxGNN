@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Piperaquine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 676
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Piperaquine: predicted new indication Plasmodium vivax malaria (evidence level L1). Approved use: Malaria"
 monitor_inn: "Piperaquine"
-predicted_indications: ["cystic echinococcosis", "Plasmodium vivax malaria", "echinococcus granulosus infectious disease", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "alveolar echinococcosis", "systemic mastocytosis", "nocardiosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "enterobiasis"]
+predicted_indications: ["cystic echinococcosis", "echinococcus granulosus infectious disease"]
+description: "Piperaquine: predicted new indication Cystic echinococcosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Piperaquine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Piperaquine: From Malaria to Plasmodium vivax Malaria
+## Piperaquine: Cystic echinococcosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Piperaquine is a bisquinoline antimalarial, originally used to treat malaria.
-The TxGNN model predicts it may be effective for **Plasmodium vivax malaria**, which is an extension within the same disease family rather than a true change of therapeutic area,
 with **19 clinical trials** and **20 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Malaria |
-| Predicted New Indication | Plasmodium vivax malaria |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cystic echinococcosis |
+| TxGNN Prediction Score | 0.9952 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
-Note: The highest-scoring prediction in the data is cystic echinococcosis (99.52%), but it has only a pipeline review and no supporting trials, so it is rated L5 / Hold. The report focuses on Plasmodium vivax malaria, the best-supported prediction.
+Note: The highest-scoring prediction in the data is cystic echinococcosis (0.9952), but it has only a pipeline review and no supporting trials, so it is rated L5 / Hold. The report focuses on Plasmodium vivax malaria, the best-supported prediction.
 
 ## Why is This Prediction Reasonable?
 
@@ -62,7 +61,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 *P. vivax* belongs to the same genus as the parasites it is already approved against, so this is closer to an extension of the approved indication than true repurposing. Piperaquine's long elimination half-life gives post-treatment protection against early relapse. However, it has **no activity against the dormant liver stage (hypnozoites)**. Radical cure of vivax therefore requires an 8-aminoquinoline (primaquine or tafenoquine) given alongside it.
 
-Other predictions (echinococcosis, mastocytosis, nocardiosis, juvenile arthritis, enterobiasis) rest on the model score alone, with no clinical evidence and no plausible mechanistic link.
 
 ## Clinical Trial Evidence
 

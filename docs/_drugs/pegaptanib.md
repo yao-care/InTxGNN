@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Macular degeneration |
 | Predicted New Indication | Esophageal varices with bleeding (a second prediction, esophageal varices without bleeding, has the same score) |
-| TxGNN Prediction Score | 99.19% |
+| TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A theoretical link to esophageal varices exists. VEGF-driven angiogenesis and the hyperdynamic splanchnic circulation contribute to portal hypertension and the formation of portosystemic collaterals, including varices. Blocking VEGF could in principle reduce this process.
 
-However, the link is speculative. Pegaptanib is given by intravitreal injection with minimal systemic exposure, so it is unlikely to reach the portal or splanchnic circulation at relevant levels. The score for the bleeding and non-bleeding forms is identical (0.992), which suggests it reflects a shared disease-node feature rather than evidence specific to each indication. Systemic anti-VEGF agents can also impair hemostasis and wound healing and carry bleeding risk, which is a particular concern in active variceal hemorrhage. Standard care (non-selective beta-blockers, endoscopic band ligation) is well established, so any repurposing would need preclinical support first.
+However, the link is speculative. Pegaptanib is given by intravitreal injection with minimal systemic exposure, so it is unlikely to reach the portal or splanchnic circulation at relevant levels. The score for the bleeding and non-bleeding forms is identical (0.9919), which suggests it reflects a shared disease-node feature rather than evidence specific to each indication. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Systemic anti-VEGF agents can also impair hemostasis and wound healing and carry bleeding risk, which is a particular concern in active variceal hemorrhage. Standard care (non-selective beta-blockers, endoscopic band ligation) is well established, so any repurposing would need preclinical support first.
 
 ## Clinical Trial Evidence
 

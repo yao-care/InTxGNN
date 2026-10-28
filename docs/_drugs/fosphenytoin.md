@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 ## One-Sentence Summary
 
 Fosphenytoin is an injectable prodrug of phenytoin, originally used to treat epilepsy and status epilepticus.
-The TxGNN model's top-ranked prediction is **conjunctivitis**, but this rests on a graph-based score alone, with **0 clinical trials** and **0 publications** supporting it.
+The TxGNN model's top-ranked prediction is **conjunctivitis** (score 0.9936). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, with **0 clinical trials** and **0 publications** supporting it.
 The only candidate with any published evidence is **manic bipolar affective disorder** (1 publication from 2003), which is a research question rather than an established use.
 
 ---
@@ -50,22 +50,22 @@ The only candidate with any published evidence is **manic bipolar affective diso
 |------|------|
 | Original Indication | Epilepsy; status epilepticus |
 | Predicted New Indication | Conjunctivitis (top-ranked) |
-| TxGNN Prediction Score | 99.36% |
+| TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 Other predicted indications from the same analysis:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
 |------|------|------|------|------|
-| 2 | Nephrogenic syndrome of inappropriate antidiuresis | 99.28% | L5 | Hold |
-| 3 | Tourette syndrome | 99.22% | L5 | Hold |
-| 4 | Manic bipolar affective disorder | 99.18% | L4 | Research Question |
-| 5 | Myositis fibrosa | 99.02% | L5 | Hold |
-| 6 | Idiopathic granulomatous myositis | 99.02% | L5 | Hold |
-| 7 | Fibromyalgia | 99.02% | L5 | Hold |
+| 2 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9928 | L5 | Hold |
+| 3 | Tourette syndrome | 0.9922 | L5 | Hold |
+| 4 | Manic bipolar affective disorder | 0.9918 | L5 | Research Question |
+| 5 | Myositis fibrosa | 0.9902 | L5 | Hold |
+| 6 | Idiopathic granulomatous myositis | 0.9902 | L5 | Hold |
+| 7 | Fibromyalgia | 0.9902 | L5 | Hold |
 
 ---
 
@@ -73,7 +73,7 @@ Other predicted indications from the same analysis:
 
 Currently, detailed mechanism of action data for fosphenytoin is not available in the data compiled for this report. Based on known information, fosphenytoin is a prodrug of phenytoin, a voltage-gated sodium channel blocker used for seizure control. Its efficacy in epilepsy and status epilepticus is established.
 
-For the top-ranked prediction, **conjunctivitis**, no clear mechanistic link was identified. Systemic sodium channel blockade has no established role in infectious or allergic conjunctivitis. The high score is a graph-based prediction only, and should be read with caution.
+For the top-ranked prediction, **conjunctivitis**, no clear mechanistic link was identified. Systemic sodium channel blockade has no established role in infectious or allergic conjunctivitis. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be read with caution.
 
 The most plausible candidate is **manic bipolar affective disorder**. Anticonvulsants with sodium channel activity (carbamazepine, valproate, lamotrigine) are established mood stabilizers, so reducing neuronal hyperexcitability is a reasonable hypothesis for an antimanic effect. However, phenytoin itself has not been established as an effective antimanic agent.
 

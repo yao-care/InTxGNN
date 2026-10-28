@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clioquinol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 195
-evidence_level: L4
-indication_count: 7
-last_modified_at: 2026-10-14
-description: "Clioquinol: predicted new indication Cutaneous candidiasis (evidence level L4). Approved use: Tinea pedis, tinea corporis, tinea infection…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Clioquinol"
-predicted_indications: ["Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease"]
+predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
+last_modified_at: 2026-10-23
+description: "Clioquinol: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 ---
 
 # Clioquinol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,36 +33,35 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Clioquinol: From Tinea Infections to Cutaneous Candidiasis
+## Clioquinol: From Tinea Infections to Ectothrix Infectious Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Clioquinol is a topical halogenated hydroxyquinoline originally used for fungal skin infections such as tinea pedis, tinea corporis and dermatophytosis of the groin and perianal area.
-The TxGNN model predicts it may be effective for **cutaneous candidiasis**,
-but support is thin: **no registered clinical trials** and only **1 indirect publication** (a 1988 occupational-prevention article).
+Clioquinol is a topical agent used for superficial fungal skin infections such as tinea pedis and tinea corporis.
+The TxGNN model predicts it may be effective for **ectothrix infectious disease** (a dermatophyte infection of the hair shaft), but **no clinical trials and no publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, tinea infection, dermatophytosis of groin and perianal area (the product labels in the data compiled for this report carry no indication text) |
-| Predicted New Indication | Cutaneous candidiasis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| Original Indication | Tinea pedis, tinea corporis, tinea infection, dermatophytosis of groin and perianal area (relations recorded in the knowledge graph; the licence records contain no indication text) |
+| Predicted New Indication | Ectothrix infectious disease |
+| TxGNN Prediction Score | 0.9926 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available from the compiled data. Based on known information, clioquinol is a halogenated hydroxyquinoline with broad antifungal activity. It plausibly acts by chelating metal ions (copper, zinc, iron) and disrupting fungal metal homeostasis. This is a hypothesis and not confirmed by the data compiled for this report.
+Detailed mechanism of action data is not available. Based on known information, clioquinol is a topical antifungal and antimicrobial agent. Its activity is plausibly related to chelation of metal ions such as copper, zinc and iron, which may disrupt fungal enzyme function. This remains a hypothesis and not a confirmed mechanism.
 
-Its use in dermatophyte infections (tinea) is the basis for the original indications. *Candida* is also a fungal pathogen that infects skin, so antifungal activity against it is biologically plausible. However, *Candida* is a yeast and dermatophytes are filamentous fungi, so activity against one does not guarantee activity against the other.
+Ectothrix infection is a dermatophyte infection in which fungal arthroconidia form a sheath on the outside of the hair shaft (for example *Microsporum* and some *Trichophyton* species). It belongs to the same disease family as the tinea infections linked to clioquinol. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction is therefore mainly an extension within the same disease family and not a distinct new use.
 
-The high TxGNN score is a computational prediction only. The sole literature item is a 1988 article on preventing occupational *C. albicans* infection with soap additives. It is indirect and is not a treatment study.
+A key limitation is that hair-shaft infections usually need systemic therapy, because topical agents penetrate the hair follicle poorly. Topical clioquinol may therefore be insufficient.
 
-Other predicted indications include superficial mycosis, Majocchi granuloma, ectothrix and endothrix infections, scalp/beard dermatophytosis and tinea profunda. Superficial mycosis is the closest to the approved use. The others involve hair follicles or deeper tissue, where topical penetration is a concern and systemic therapy is usually needed.
+A second predicted indication, endothrix infectious disease (score 0.9919, also L5, Hold), follows the same reasoning. Spores grow inside the hair shaft, as in tinea capitis, and standard care relies on systemic antifungals.
 
 ## Clinical Trial Evidence
 
@@ -70,47 +69,40 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2978600](https://pubmed.ncbi.nlm.nih.gov/2978600/) | 1988 | Other (occupational prevention article; design unclear) | Przeglad dermatologiczny | In vitro study of additives to toilet soaps against *C. albicans* strains from patients, assessing antifungal effect, foam properties and heat resistance. It is indirect evidence and not a treatment trial. |
-
-For the related prediction of superficial mycosis, a 2021 preclinical study ([33772895](https://pubmed.ncbi.nlm.nih.gov/33772895/), *Mycoses*) tested clioquinol combined with ciclopirox and terbinafine in alternative models of dermatophytosis. It assessed antidermatophytic activity and irritant potential and suggests possible synergy, but it contains no human efficacy data.
+Currently no related literature available.
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 59852 | Dermoquinol 8% Cream | Tube of 25 gm cream | Not stated |
-| 64513 | Dermoquinol 4% Ointment | Tube of 15 gm ointment | Not stated |
-| 61339 | Dermoquinol 4% Cream | Tube of 25 gm cream | Not stated |
-| 64362 | Dermoquinol 8% Ointment | Tube of 15 gm ointment | Not stated |
-| 61594 | Dermi-Zio 6 Cream | Tube of 15 gm cream | Not stated |
+| Registration No. 59852 | Dermoquinol 8% Cream | Tube of 25 gm cream | Not stated in the records |
+| Registration No. 64513 | Dermoquinol 4% Ointment | Tube of 15 gm ointment | Not stated in the records |
+| Registration No. 61339 | Dermoquinol 4% Cream | Tube of 25 gm cream | Not stated in the records |
+| Registration No. 64362 | Dermoquinol 8% Ointment | Tube of 15 gm ointment | Not stated in the records |
+| Registration No. 61594 | Dermi-Zio 6 Cream | Tube of 15 gm cream | Not stated in the records |
 
-All five registrations are single-ingredient, currently valid, and for topical creams or ointments.
+All five registrations are valid single-ingredient topical products (creams and ointments).
 
 ## Safety Considerations
 
-Contraindication-type associations from the knowledge graph (not label text) include:
-- **Endocrine:** adrenocortical insufficiency, Addison disease
-- **Skin and vascular:** skin atrophy, telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia
-- **Peripheral vascular:** peripheral vascular disease, intermittent vascular claudication, peripheral arterial disease
+- **Relations recorded in the knowledge graph (not label text):** The knowledge graph lists contraindication relations with adrenocortical insufficiency, Addison disease, skin atrophy, telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia, peripheral vascular disease, intermittent vascular claudication and peripheral arterial disease. These come from the graph and have not been verified against product labelling.
+- **Neurotoxicity history:** Oral clioquinol has been associated with subacute myelo-optic neuropathy (SMON). Any systemic exposure therefore calls for caution, which is especially relevant if systemic delivery were considered for hair-shaft infections.
 
-No drug interaction records were found. Please refer to the package insert for further safety information.
+No drug interaction data were found. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high and the antifungal link is plausible, but no clinical trials exist and the only literature is an indirect 1988 article. Evidence is at the L4 level and the product labels carry no indication text.
+The prediction rests only on model scoring and similarity to existing tinea indications. No clinical trial or publication studies ectothrix infection directly, so the evidence level is L5. Poor follicular penetration of topical products further limits the likelihood of benefit.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication wording for the marketed products
-- Detailed mechanism of action data
-- Direct evidence of clioquinol activity against *Candida* species (in vitro susceptibility, then clinical studies in cutaneous candidiasis)
-- Confirmation of the design of the 2021 combination study (PMID 33772895)
-- A safety review of topical use, including the knowledge-graph contraindications (skin atrophy, vascular conditions, adrenal insufficiency)
-- For the deeper or hair-follicle infections (Majocchi granuloma, ectothrix/endothrix, scalp/beard, tinea profunda), a check of whether topical delivery can reach the infection site
+- Package insert warnings and contraindications for the marketed products (currently a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- Evidence of follicular or hair-shaft penetration for topical clioquinol, plus in vitro activity against ectothrix pathogens
+- Clinical or observational data in hair-shaft dermatophytosis
+- A route and exposure assessment that takes the SMON history into account
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

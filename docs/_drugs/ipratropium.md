@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ipratropium
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 444
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ipratropium: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Chronic obstructive pulmonary disease, allergic rhinitis…"
 monitor_inn: "Ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
+description: "Ipratropium: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ipratropium
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Ipratropium: From Chronic Obstructive Pulmonary Disease to Obstructive Lung Disease
+## Ipratropium: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ipratropium is an inhaled anticholinergic (muscarinic antagonist) bronchodilator, originally used for chronic obstructive pulmonary disease (COPD), allergic and vasomotor rhinitis, bronchitis and related airway conditions.
-The TxGNN model predicts it may be effective for **obstructive lung disease**,
 with **25 clinical trials** and **20 publications** retrieved for this prediction.
 This is largely a confirmation of its established use rather than true repurposing, because the predicted indication overlaps heavily with the existing COPD, emphysema and bronchial disease indications.
 
@@ -49,12 +48,12 @@ This is largely a confirmation of its established use rather than true repurposi
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic obstructive pulmonary disease, allergic rhinitis, vasomotor rhinitis, bronchitis, common cold, pulmonary emphysema (source: knowledge graph indication data; the Indian licence records contain no indication text) |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 8 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 8 of 8) |
+| Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -63,7 +62,7 @@ This is largely a confirmation of its established use rather than true repurposi
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, ipratropium is a muscarinic antagonist that blocks cholinergic (vagally mediated) bronchoconstriction in airway smooth muscle. Review articles in the retrieved literature describe it as a non-selective muscarinic receptor antagonist delivered by inhalation.
 
-The predicted indication, obstructive lung disease, is a broad category that includes COPD, emphysema and chronic bronchial disease. These are conditions for which ipratropium is already used. The mechanism is therefore the same as that behind the existing use, and the prediction mostly reflects the established role of the drug in airway obstruction.
+These are conditions for which ipratropium is already used. The mechanism is therefore the same as that behind the existing use, and the prediction mostly reflects the established role of the drug in airway obstruction.
 
 Other top predictions (nasal cavity disease, pharyngitis, tracheal disease and others) are supported by far weaker evidence. They are not the focus of this report, but they are summarised in the conclusion.
 

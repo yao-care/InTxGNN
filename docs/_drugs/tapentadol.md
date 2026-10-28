@@ -4,17 +4,17 @@ title: Tapentadol
 parent: Model Prediction Only (L5)
 nav_order: 807
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data compiled for this report"
 monitor_inn: "Tapentadol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Tapentadol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ The available indirect literature points to cautions rather than support, becaus
 |------|------|
 | Original Indication | Not available in the data compiled for this report (approved indication text is empty in all registrations) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,11 +64,10 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 A link to migraine is plausible through central pain modulation and descending noradrenergic inhibition. The original indication is not recorded in the available registration data, so the relationship between it and migraine cannot be assessed directly.
 
-The high TxGNN score (99.67%) is a computational prediction and does not reflect clinical evidence. Opioids are generally not recommended for migraine because of the risks of medication-overuse headache, chronification and dependence. The prediction is therefore not supported by current clinical practice guidance.
+The high TxGNN score (0.9967) is a computational prediction and does not reflect clinical evidence. Opioids are generally not recommended for migraine because of the risks of medication-overuse headache, chronification and dependence. The prediction is therefore not supported by current clinical practice guidance.
 
 Two closely related predictions were also generated, with the same limitations:
-- **Migraine with brainstem aura** (score 99.57%): a subtype of migraine with aura. It has no subtype-specific rationale, trials or literature.
-- **Migraine with or without aura, susceptibility to** (score 99.08%): a genetic susceptibility phenotype rather than a treatable clinical condition, so a direct therapeutic link is weak.
+- **Migraine with brainstem aura** (score 0.9957): a subtype of migraine with aura. It has no subtype-specific rationale, trials or literature.
 
 ---
 

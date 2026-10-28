@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tenecteplase
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 815
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Tenecteplase: predicted new indication Posteroinferior myocardial infarction (evidence level L4). Approved use: Myocardial infarction, coronary thrombosis"
 monitor_inn: "Tenecteplase"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+description: "Tenecteplase: predicted new indication Congenital coronary artery anomaly (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tenecteplase
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Tenecteplase: From Myocardial Infarction to Posteroinferior Myocardial Infarction
+## Tenecteplase: Congenital coronary artery anomaly
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tenecteplase is a fibrin-specific thrombolytic (clot-dissolving) drug, originally used to treat acute myocardial infarction and coronary thrombosis.
-The TxGNN model predicts it may be effective for **posteroinferior myocardial infarction**, but this is an anatomical subtype of the approved indication, and **no clinical trials or publications** were retrieved specifically for it.
 Evidence is therefore indirect, inferred from the parent indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Myocardial infarction, coronary thrombosis (the approved indication text in the Indian licence records is empty) |
-| Predicted New Indication | Posteroinferior myocardial infarction |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Congenital coronary artery anomaly |
+| TxGNN Prediction Score | 0.9961 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 Posteroinferior myocardial infarction is an anatomical subtype of myocardial infarction, which is already an established indication. The high TxGNN score most likely reflects this overlap with the approved indication rather than a new repurposing signal. The mechanism applies in principle, because the same clot-lysis effect would be needed in whichever coronary artery is blocked.
 
-Other top-ranked predictions follow the same pattern. Posterolateral and septal myocardial infarction are also subtypes of the approved indication. Coronary stenosis has limited supportive data. The remaining predictions (congenital coronary anomaly, chromosome 16p partial deletion, beta-thalassemia, and red cell enzyme or membrane disorders) have no identified mechanistic or clinical support. They appear to be artefacts of knowledge-graph proximity to the original hemoglobinopathy association.
+Other top-ranked predictions follow the same pattern. Posterolateral and septal myocardial infarction are also subtypes of the approved indication. Coronary stenosis has limited supportive data. The remaining predictions (congenital coronary anomaly, chromosome 16p partial deletion, beta-thalassemia, and red cell enzyme or membrane disorders) have no identified mechanistic or clinical support.
 
 ## Clinical Trial Evidence
 
@@ -105,7 +104,7 @@ Please refer to the package insert for warnings and contraindications. As a thro
 **Decision: Hold**
 
 **Rationale:**
-Posteroinferior myocardial infarction is a subtype of an indication tenecteplase already covers, so the high TxGNN score adds little new information. No trials or publications specific to this subtype were retrieved. The evidence is model prediction plus inference from the parent indication (L4). The package insert safety data are also missing, which blocks progression past initial safety screening.
+No trials or publications specific to this subtype were retrieved. The evidence is model prediction plus inference from the parent indication (L4). The package insert safety data are also missing, which blocks progression past initial safety screening.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian regulator or manufacturers, plus the approved indication text for each licence

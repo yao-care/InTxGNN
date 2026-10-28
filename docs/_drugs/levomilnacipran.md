@@ -4,17 +4,17 @@ title: Levomilnacipran
 parent: Model Prediction Only (L5)
 nav_order: 488
 evidence_level: L5
-indication_count: 6
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Levomilnacipran"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "melancholia", "neurotic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder"]
+description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levomilnacipran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Levomilnacipran: From Major Depressive Disorder to Benign Paroxysmal Torticollis of Infancy
+## Levomilnacipran: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The result is a computational signal only and should be treated as a hypothesis.
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (source: knowledge-graph indication data; the Indian licence records carry no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,11 +66,8 @@ For context, the other top-ranked predictions are listed below. None has clinica
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Agoraphobia | 99.53% | L5 | Plausible, since SNRIs and SSRIs are used in related anxiety and panic disorders, but no supporting studies were found |
-| 3 | Dysthymic disorder | 99.24% | L5 | Closely related to major depressive disorder; no studies found |
-| 4 | Melancholia | 99.20% | L4 | A severe subtype of major depression, so largely the existing indication; literature is indirect |
-| 5 | Neurotic depression | 99.20% | L4 | Historical term overlapping with dysthymia; one animal study is supportive |
-| 6 | Neurotic disorder | 99.19% | L5 | Outdated umbrella category; too vague to be actionable |
+| 2 | Agoraphobia | 0.9953 | L5 | Plausible, since SNRIs and SSRIs are used in related anxiety and panic disorders, but no supporting studies were found |
+| 6 | Neurotic disorder | 0.9919 | L5 | Outdated umbrella category; too vague to be actionable |
 
 ## Clinical Trial Evidence
 

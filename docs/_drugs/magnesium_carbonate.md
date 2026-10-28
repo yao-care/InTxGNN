@@ -4,17 +4,17 @@ title: Magnesium Carbonate
 parent: Model Prediction Only (L5)
 nav_order: 512
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Magnesium Carbonate: predicted new indication Active peptic ulcer disease (evidence level L5). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "Magnesium carbonate"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
+description: "Magnesium Carbonate: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Magnesium Carbonate: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Magnesium Carbonate: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Magnesium carbonate is an antacid originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease and dyspepsia.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is largely an overlap with its existing use rather than a true new indication.
 Support is weak: **0 clinical trials** and **1 publication** (an in vitro antacid quality study) are currently available.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation, dyspepsia (the India licence records list no indication text) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.96% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gastroduodenitis |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

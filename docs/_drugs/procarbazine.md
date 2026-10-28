@@ -48,10 +48,10 @@ but the supporting evidence is limited: **2 related clinical trials** (neither d
 |------|------|
 | Original Indication | Hodgkin lymphoma (including classic Hodgkin lymphoma and related subtypes). The India licence records contain no approved indication text. |
 | Predicted New Indication | Follicular lymphoma |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold (research question) |
 
 ## Why is This Prediction Reasonable?

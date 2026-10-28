@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Papaverine: predicted new indication Ischemic disease (evidence level L4). Approved use: Peripheral vascular disease, intermittent claudication…"
 monitor_inn: "Papaverine"
-predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "fibrocartilaginous embolism", "venous thromboembolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
+predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "venous thromboembolism", "fibrocartilaginous embolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
 ---
 
 # Papaverine
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **ischemic disease**, but suppo
 |------|------|
 | Original Indication | Peripheral vascular disease, intermittent claudication, peripheral arterial disease, brain ischemia, transient ischemic attack (the Indian licence records contain no approved-indication text) |
 | Predicted New Indication | Ischemic disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -106,7 +106,7 @@ Please refer to the package insert for label warnings and contraindications; the
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.91%), and the vasodilator mechanism is plausible for ischemic states. However, the evidence is L4: no trial tests papaverine as a therapy, and the literature consists of reviews, diagnostic or adjunct uses, animal studies and case reports. The listed cardiac contraindications (coronary artery disease, myocardial infarction, conduction disease) also conflict with some ischemic settings.
+The TxGNN score is high (0.9991), and the vasodilator mechanism is plausible for ischemic states. However, the evidence is L4: no trial tests papaverine as a therapy, and the literature consists of reviews, diagnostic or adjunct uses, animal studies and case reports. The listed cardiac contraindications (coronary artery disease, myocardial infarction, conduction disease) also conflict with some ischemic settings.
 
 **To proceed, the following is needed:**
 - Specify which ischemic subtype to pursue (for example cerebral vasospasm, mesenteric ischemia, or Raynaud-type vasospasm). "Ischemic disease" is too broad to study as a single indication.

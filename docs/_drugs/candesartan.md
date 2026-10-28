@@ -4,17 +4,17 @@ title: Candesartan
 parent: High Evidence (L1-L2)
 nav_order: 137
 evidence_level: L1
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Candesartan: predicted new indication Migraine disorder (evidence level L1). Approved use: Hypertension (alone or in combination with other agents)"
 monitor_inn: "Candesartan"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
 ---
 
 # Candesartan
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **migraine disorder** (migraine
 |------|------|
 | Original Indication | Hypertension (alone or in combination with other agents) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences: 20 of 20) |
+| Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -126,7 +126,7 @@ A large, completed, triple-blind, placebo-controlled RCT (n=450, published in Th
 | Predicted Indication | Evidence Level | Recommendation | Note |
 |------|------|------|------|
 | Migraine with or without aura, susceptibility to | L1 (inherited from migraine disorder) | Proceed with Guardrails | No trials mapped directly; evidence is inferred from the parent condition. |
-| Migraine with brainstem aura | L4 | Research Question | No trial enrolled this subtype specifically. The high score likely reflects ontology proximity to migraine. |
+| Migraine with brainstem aura | L5 | Research Question | No trial enrolled this subtype specifically. The high score likely reflects ontology proximity to migraine. |
 | Pulmonary hypertension | L4 | Hold | Preclinical rationale only, and no clinical evidence. |
 | Prinzmetal angina, kyphoscoliotic heart disease, atrophoderma vermiculata, ulerythema ophryogenesis, benign prostatic hyperplasia, alopecia | L5 | Hold | Model prediction only, with no supporting trials or relevant literature. |
 ## Disclaimer

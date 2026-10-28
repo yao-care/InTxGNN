@@ -48,17 +48,17 @@ The prediction is mechanistically plausible but remains at the research-question
 |------|------|
 | Original Indication | Chronic myelogenous leukemia, BCR-ABL1 positive |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 (the data compiled for this report rates it L4; only a general review exists, with no nilotinib-specific study, so model prediction is effectively the main support) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data for nilotinib is not available in the data compiled for this report. Based on general knowledge, nilotinib is a tyrosine kinase inhibitor that blocks BCR-ABL1, and it also inhibits PDGFR, KIT and DDR kinases.
 
-DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib can inhibit PDGFR, there is a plausible mechanistic link between its activity in leukemia (kinase inhibition) and the growth signal that drives DFSP. The very high TxGNN score (0.993) is consistent with this biology.
+DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib can inhibit PDGFR, there is a plausible mechanistic link between its activity in leukemia (kinase inhibition) and the growth signal that drives DFSP. The very high TxGNN score (0.9931) is consistent with this biology.
 
 An important caveat: the single supporting publication is a 2018 review of small-molecule PDGFR inhibitors in neoplastic disorders. It appears to centre on imatinib, the established PDGFR inhibitor for this disease, and is not nilotinib-specific clinical evidence. The mechanism described here is inferred from the drug class, not from the data provided.
 

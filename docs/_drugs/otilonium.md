@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Otilonium
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 623
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-14
-description: "Otilonium: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not stated in the licence data compiled for this report (the drug is…"
+description: "Otilonium: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Otilonium"
-predicted_indications: ["hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "polyp of vocal cord", "polyp of middle ear", "uterine polyp", "polyp of external auditory canal", "polyp of frontal sinus"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Otilonium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Otilonium: From Gastrointestinal Spasm (Antispasmodic Use) to Hypertrichosis
+## Otilonium
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Otilonium is a gut-selective antispasmodic marketed in India in several tablet products.
-The TxGNN model predicts it may be effective for **hypertrichosis**, but there are **no clinical trials and no publications** supporting this prediction.
-It is a model-only prediction, and the pharmacology does not offer a plausible explanation for it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence data compiled for this report (the drug is known as an antispasmodic) |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 98.94% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Otilonium is a quaternary ammonium antispasmodic that acts locally in the gut. It blocks L-type and T-type calcium channels, has antimuscarinic activity (M1/M2/M4/M5), and antagonises tachykinin NK2 receptors. Because it is a quaternary ammonium compound, very little is absorbed into the bloodstream. Detailed mechanism data were not formally available in the data compiled for this report, so this description reflects the pharmacological assessment attached to the prediction.
-
-On that basis, **the prediction is not well supported.** Nothing in this pharmacology connects to hair follicle biology or hair growth regulation. The high score (0.989) most likely reflects the structure of the knowledge graph, such as proximity to related disease terms, rather than real biology.
-
-The other top-ranked predictions show the same pattern. All have a score above 98.5%, all are Evidence Level L5, and none has trials or literature:
-
-- Dandy-Walker malformation syndrome
-- Ambras-type hypertrichosis universalis congenita
-- Malformation syndromes with a dental or periodontal component
-- Isolated genetic hair shaft abnormality
-- Polyps of the vocal cord, middle ear, uterus, external auditory canal and frontal sinus
-
-Most of these are congenital or developmental disorders, or inflammatory or hormone-driven lesions. A gut-restricted, poorly absorbed antispasmodic has no known way to act on them.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+| Original Indication | Not recorded in the local data |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 
 ## India Market Information
 
@@ -94,19 +62,6 @@ All five registrations are valid single-ingredient oral tablets. None has been c
 
 Please refer to the package insert for safety information. No warning, contraindication or drug-interaction data were available in the data compiled for this report.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and there is no plausible mechanistic link between a gut-restricted antispasmodic and hypertrichosis or the other predicted conditions. The same holds for all ten top predictions.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India regulator's website, which are required before any safety screening
-- Approved indication text for the five registered products
-- Formal mechanism-of-action data from DrugBank
-- A biological rationale for hair growth effects, with preclinical evidence, before any further investment
-- An assessment of whether a poorly absorbed oral drug could reach the target tissue at all (route compatibility is still pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

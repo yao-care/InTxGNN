@@ -48,10 +48,10 @@ but at present **no clinical trials and no publications** support this predictio
 |------|------|
 | Original Indication | Gastric and duodenal ulcer (from pharmacology reference data; the India licence record has no indication text) |
 | Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 99.08% |
+| TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

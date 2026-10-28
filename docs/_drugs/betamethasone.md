@@ -4,7 +4,7 @@ title: Betamethasone
 parent: High Evidence (L1-L2)
 nav_order: 106
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Betamethasone: predicted new indication Alopecia areata (evidence level L2). Approved use: Autoimmune disease, Crohn disease, adrenocortical insufficiency…"
 monitor_inn: "Betamethasone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Betamethasone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **6 clinical trials** and **20 publications** currently supporting this dir
 |------|------|
 | Original Indication | Autoimmune disease, Crohn disease, adrenocortical insufficiency, and others (the licence records provide no approved indication text) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -102,7 +102,7 @@ In total, 20 valid single-ingredient registrations exist, covering oral tablets,
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: hypertension, congestive heart failure, hyperglycemia, epilepsy, measles, herpes simplex virus keratitis, and hypopituitarism and related pituitary hormone deficiencies.
+- **Contraindications (not label text)**: hypertension, congestive heart failure, hyperglycemia, epilepsy, measles, herpes simplex virus keratitis, and hypopituitarism and related pituitary hormone deficiencies.
 - **Drug Interactions**: 451 interactions are recorded. A major interaction is listed with adalimumab. Moderate interactions include zidovudine, isotretinoin, acarbose, acetazolamide, ketorolac, ibuprofen, nifedipine, ethinylestradiol, aldesleukin, alemtuzumab, fluvoxamine and fosamprenavir. Minor interactions include formoterol and salbutamol.
 - **Class considerations**: Systemic steroid adverse effects with pulse dosing and relapse after withdrawal are noted in the literature.
 

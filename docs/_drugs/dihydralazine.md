@@ -46,10 +46,10 @@ Dihydralazine is a direct-acting arteriolar vasodilator, and it is marketed in I
 |------|------|
 | Original Indication | Not stated in the India licence records (the drug class suggests hypertension) |
 | Predicted New Indication | Heart disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?

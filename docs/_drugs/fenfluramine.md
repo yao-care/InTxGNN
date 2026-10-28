@@ -6,9 +6,9 @@ nav_order: 343
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Obesity disorder"
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
+description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fenfluramine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Fenfluramine: From Obesity to Proximal 16p11.2 Microdeletion Syndrome
+## Fenfluramine: Proximal 16p11.2 microdeletion syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ but **no clinical trials or publications** currently support this prediction, so
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity disorder; monogenic obesity (from the knowledge graph, as no approved indication text is available for the India license) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Proximal 16p11.2 microdeletion syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The 16p11.2 deletion is associated with obesity and with neurodevelopmental and epilepsy phenotypes. This overlaps with both fenfluramine's original obesity use and its use in seizure disorders, which may explain the high model score.
 
-This link is plausible but unverified. The score reflects a graph-based prediction, not clinical evidence, and should not be treated as proof of efficacy.
+This link is plausible but unverified. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be treated as clinical evidence or proof of efficacy.
 
 Other predictions from the model (hypervitaminosis, hypertelorism, frontorhiny) show no identifiable mechanistic link to fenfluramine and are likely network artifacts or data-quality issues. They are not pursued in this report.
 
@@ -109,7 +109,7 @@ Please also refer to the package insert for full warnings and contraindications,
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.93%), but it is a model prediction only, with no clinical trials or literature (Evidence Level L5). The proposed serotonergic link to 16p11.2 microdeletion syndrome remains hypothetical.
+The prediction score is very high (0.9993), but it is a model prediction only, with no clinical trials or literature (Evidence Level L5). The proposed serotonergic link to 16p11.2 microdeletion syndrome remains hypothetical.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

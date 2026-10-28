@@ -4,17 +4,17 @@ title: Capmatinib
 parent: Model Prediction Only (L5)
 nav_order: 139
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Capmatinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the available India license data (the drug is known as…"
 monitor_inn: "Capmatinib"
-predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "heart disease", "Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "orofacial clefting syndrome", "Laubry-Pezzi syndrome", "interventricular septum aneurysm", "hyperthyroidism"]
+predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Capmatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,19 +46,18 @@ Capmatinib is a selective MET inhibitor and a kinase inhibitor, marketed in Indi
 |------|------|
 | Original Indication | Not stated in the available India license data (the drug is known as a MET inhibitor for MET-altered cancers) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, capmatinib is a selective MET inhibitor. MET signaling has been implicated in synovial inflammation and angiogenesis in rheumatoid arthritis, so a mechanistic rationale is plausible.
 
-However, the only linked publication is a general review of FDA-approved small-molecule kinase inhibitors, and it contains no RA-specific data for capmatinib. The high TxGNN score reflects a graph-based computational prediction without clinical support. The link between the original use (oncology) and RA is therefore hypothesis-level only.
+However, the only linked publication is a general review of FDA-approved small-molecule kinase inhibitors, and it contains no RA-specific data for capmatinib. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The link between the original use (oncology) and RA is therefore hypothesis-level only.
 
-Among the other top-ranked predictions, **heart disease** (score 98.64%) has a small amount of indirect preclinical evidence: a 2020 mouse study reported that capmatinib offset doxorubicin-induced cardiotoxicity and cisplatin-induced nephrotoxicity. This is a chemotherapy-toxicity setting and does not establish efficacy in heart disease generally. The remaining top-10 predictions (mostly rare congenital syndromes, plus hyperthyroidism) have no trials, no literature, and no plausible mechanistic basis.
 
 ## Clinical Trial Evidence
 

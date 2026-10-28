@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **duodenogastric reflux** (bile
 |------|------|
 | Original Indication | Duodenal ulcer |
 | Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.37% |
+| TxGNN Prediction Score | 0.9937 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -109,7 +109,7 @@ Available forms are mainly oral suspensions and syrups, with one tablet and one 
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: hyperglycemia, chronic kidney disease, chronic renal failure syndrome, end-stage renal failure.
+- **Contraindications (from the TxGNN model (deep learning), not label text; may reflect similarities the model learned between related diseases, not biological evidence)**: hyperglycemia, chronic kidney disease, chronic renal failure syndrome, end-stage renal failure.
 - **Drug Interactions**: 413 interactions were identified. Major interactions:
   - Dolutegravir
   - Bictegravir
@@ -146,7 +146,7 @@ Two randomized trials and a case series support sucralfate in alkaline reflux ga
 
 ## Note on the Second Predicted Indication
 
-The second predicted indication, **duodenal obstruction** (TxGNN score 99.30%), has no credible mechanistic link or supporting studies. Sucralfate is a mucosal protectant and does not relieve mechanical obstruction. The high score most likely reflects the graph's proximity to duodenal ulcer. The evidence level is L5 and the recommendation is **Hold**.
+The second predicted indication, **duodenal obstruction** (TxGNN score 0.9930), has no credible mechanistic link or supporting studies. Sucralfate is a mucosal protectant and does not relieve mechanical obstruction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The evidence level is L5 and the recommendation is **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

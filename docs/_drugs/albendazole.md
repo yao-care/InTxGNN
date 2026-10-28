@@ -4,17 +4,17 @@ title: Albendazole
 parent: High Evidence (L1-L2)
 nav_order: 31
 evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Albendazole: predicted new indication Alveolar echinococcosis (evidence level L2). Approved use: Cystic echinococcosis, cysticercosis…"
+indication_count: 3
 monitor_inn: "Albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease", "dermatofibrosarcoma protuberans", "lung benign neoplasm", "lung hilum carcinoma", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "fibroma of lung", "hamartoma of lung", "intestinal helminthiasis"]
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
+last_modified_at: 2026-10-27
+description: "Albendazole: predicted new indication alveolar echinococcosis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,102 +33,89 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Albendazole: From Cystic Echinococcosis to Alveolar Echinococcosis
+## Albendazole: Benzimidazole anthelmintic (beta-tubulin inhibitor) → alveolar echinococcosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Albendazole is a benzimidazole anthelmintic, originally used to treat cystic echinococcosis and cysticercosis.
-The TxGNN model predicts it may be effective for **Alveolar Echinococcosis**, with **3 clinical trials** and **20 publications** currently supporting this direction, including one completed Phase 2 trial in early-stage disease.
+Albendazole is a benzimidazole anthelmintic that is widely marketed in India.
+The TxGNN model predicts it may be effective for **alveolar echinococcosis**, with **3 clinical trials** and **20 publications** compiled for this direction.
+Only one of these trials, a completed Phase 2 study, directly tests albendazole in early-stage alveolar echinococcosis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystic echinococcosis, cysticercosis, Echinococcus granulosus infection (the data compiled for this report contain no approved-indication text from the India licences; these indications come from the TxGNN knowledge graph) |
-| Predicted New Indication | Alveolar echinococcosis |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | alveolar echinococcosis |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L2 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Albendazole is a benzimidazole that binds parasite beta-tubulin, disrupting microtubule polymerization and glucose uptake in the parasite.
+Albendazole binds parasite beta-tubulin, which disrupts microtubule polymerization and glucose uptake in the parasite. Detailed mechanism data were not available in the compiled drug record, so this description comes from the repurposing rationale.
 
-Alveolar echinococcosis is caused by *Echinococcus multilocularis*, a close relative of *E. granulosus*, which causes the already-approved cystic echinococcosis. Because the two parasites are so closely related, the same anti-parasitic mechanism applies. Reviews describe albendazole as the guideline-recommended parasitostatic therapy for alveolar echinococcosis, used either after surgery or when surgery is not possible. This is therefore closer to an on-label-adjacent use than a novel repurposing.
+*Echinococcus multilocularis*, which causes alveolar echinococcosis, is closely related to *E. granulosus*, the cause of cystic echinococcosis. Because both are larval cestode infections, the same anti-parasitic mechanism is expected to apply.
 
-An important caveat from the literature is that albendazole is **parasitostatic rather than parasiticidal** in alveolar echinococcosis. It stabilises disease but does not reliably cure it, so treatment is prolonged and relapse is a concern.
+Albendazole is already the guideline-recommended parasitostatic therapy for alveolar echinococcosis. The reviews compiled here describe it as parasitostatic rather than parasiticidal, and note that long-term use can cause adverse effects. This is therefore closer to an established use than to a novel repurposing.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Phase 2 | Completed | 194 | Albendazole treatment of early-stage alveolar echinococcosis found by ultrasound screening in Kyrgyzstan; directly matches drug and disease |
-| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | NA | Completed | 50 | EchinoVISTA study of parasite viability and follow-up markers to guide when albendazole can be withdrawn in hepatic alveolar echinococcosis; not a controlled efficacy test |
-| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | NA | Unknown | 24 | Randomised trial of adjuvant albendazole vs placebo after pulmonary hydatid cyst resection; cystic rather than alveolar disease, so indirectly relevant |
+| [NCT07182305](https://clinicaltrials.gov/study/NCT07182305) | Phase 2 | Completed | 194 | Albendazole treatment in early-stage alveolar echinococcosis, found by ultrasound screening in a newly identified focus in Kyrgyzstan |
+| [NCT02876146](https://clinicaltrials.gov/study/NCT02876146) | NA | Completed | 50 | Parasite viability and follow-up markers in hepatic alveolar echinococcosis patients on albendazole, to guide when to stop treatment; not a controlled efficacy test |
+| [NCT06483880](https://clinicaltrials.gov/study/NCT06483880) | NA | Unknown | 24 | Randomised trial of adjuvant albendazole versus placebo after pulmonary hydatid cyst resection (cystic disease, so only indirectly relevant) |
 
 ## Literature Evidence
 
-No randomised trials were retrieved for this indication. The publications are mainly reviews, preclinical studies and case reports.
+The compiled publications are mostly reviews and case reports. No randomised trial is among them.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Review | Acta Trop | Expert consensus on diagnosis, treatment and follow-up of cystic and alveolar echinococcosis |
-| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Review | Clin Microbiol Rev | Advances in diagnosis and treatment of echinococcosis in the 21st century |
-| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Review | Semin Liver Dis | Overview of hepatic alveolar echinococcosis and its management |
-| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Review | Tidsskr Nor Laegeforen | Treatment often combines extensive surgical resection with prolonged albendazole |
-| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Review | World J Gastroenterol | Current management of liver echinococcosis; surgery is the cornerstone |
-| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Review | Acta Trop | No non-surgical option yet replaces albendazole or mebendazole |
-| [36974024](https://pubmed.ncbi.nlm.nih.gov/36974024/) | 2022 | Review | Chin J Schisto Control | Albendazole may delay progression in patients who cannot have surgery |
-| [10980173](https://pubmed.ncbi.nlm.nih.gov/10980173/) | 2000 | Observational study | J Antimicrob Chemother | Open-label comparison of long-term mebendazole and albendazole in 35 patients, followed for an average of 39 months |
-| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Preclinical | Antimicrob Agents Chemother | Solubilising formulations of albendazole tested in an alveolar echinococcosis rat model, since poor solubility limits bioavailability |
-| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Review | Parasitology | Albendazole is not parasiticidal and can cause severe adverse effects; pyronaridine proposed as a repurposing candidate |
+| [19931502](https://pubmed.ncbi.nlm.nih.gov/19931502/) | 2010 | Review | Acta Tropica | Expert consensus on diagnosis, treatment and follow-up of cystic and alveolar echinococcosis |
+| [30760475](https://pubmed.ncbi.nlm.nih.gov/30760475/) | 2019 | Review | Clin Microbiol Rev | Advances in echinococcosis diagnosis, genomics and treatment |
+| [34161992](https://pubmed.ncbi.nlm.nih.gov/34161992/) | 2021 | Review | Semin Liver Dis | Hepatic alveolar echinococcosis: rising case numbers and clinical management |
+| [39254012](https://pubmed.ncbi.nlm.nih.gov/39254012/) | 2024 | Review | Tidsskr Nor Laegeforen | Alveolar echinococcosis; treatment is often surgical resection plus prolonged antiparasitic therapy |
+| [40093668](https://pubmed.ncbi.nlm.nih.gov/40093668/) | 2025 | Review | World J Gastroenterol | Management of liver echinococcosis; surgery is the cornerstone |
+| [34808118](https://pubmed.ncbi.nlm.nih.gov/34808118/) | 2022 | Review | Acta Tropica | Albendazole and mebendazole remain the only licensed anti-echinococcal drugs; novel options under study |
+| [25526545](https://pubmed.ncbi.nlm.nih.gov/25526545/) | 2014 | Review | Parasite | Albendazole, mebendazole and the search for further treatment options |
+| [10980173](https://pubmed.ncbi.nlm.nih.gov/10980173/) | 2000 | Observational study | J Antimicrob Chemother | Open-label comparison of long-term mebendazole and albendazole in 35 alveolar echinococcosis patients |
+| [38501660](https://pubmed.ncbi.nlm.nih.gov/38501660/) | 2024 | Preclinical | Antimicrob Agents Chemother | Albendazole metabolism and solubilising formulations in a rat model of hepatic alveolar echinococcosis |
+| [39508157](https://pubmed.ncbi.nlm.nih.gov/39508157/) | 2024 | Preclinical/review | Parasitology | Albendazole is not parasiticidal and can cause severe adverse effects; pyronaridine is a repurposing candidate |
 
 ## India Market Information
 
-Albendazole has 20 valid single-ingredient registrations in India and none cancelled. The data compiled for this report contain no approved-indication text for any of them. Five main registrations are listed below.
+At least 20 valid single-ingredient licences are on record, and the list may be partial. Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 242463 | Wormivon 400mg Tablet | Strip of 1 tablet | Not available |
-| 11982 | Alden 400mg Tablet | Strip of 50 tablets | Not available |
-| 81868 | Elminex 400mg Tablet | Strip of 1 tablet | Not available |
-| 33514 | Banhelmin 200mg Suspension | Bottle of 10 ml suspension | Not available |
-| 22518 | Alboven 400mg Chewable Tablet | Strip of 1 chewable tablet | Not available |
+| 242463 | Wormivon 400mg Tablet | strip of 1 Tablet | Not recorded |
+| 11982 | Alden 400mg Tablet | strip of 50 tablets | Not recorded |
+| 81868 | Elminex 400mg Tablet | strip of 1 Tablet | Not recorded |
+| 33514 | Banhelmin 200mg Suspension | bottle of 10 ml Suspension | Not recorded |
+| 226974 | Tikworm Oral Drops | bottle of 10 ml Oral Drops | Not recorded |
 
 ## Safety Considerations
 
-- **Contraindications (from a knowledge graph, not label text)**: liver disease, gallbladder disease, neutropenia, agranulocytosis, anaemia, macrocytic anaemia, pancytopenia, aplastic anaemia.
-- **Drug Interactions**: 96 interactions were identified. Examples at moderate level include aprepitant, cobicistat, deferasirox, fostamatinib, alemtuzumab, amprenavir, bendamustine, bexarotene, bosentan and apalutamide. Minor examples include cimetidine, dexamethasone and lidocaine.
-- The long treatment courses used in alveolar echinococcosis make monitoring of liver function and blood counts particularly relevant, and the literature notes albendazole can cause severe adverse effects.
-
-Please refer to the package insert for label warnings and contraindications.
+- **Drug Interactions**: 96 interactions were found in the interaction database. Examples at Moderate level include aprepitant, cobicistat, deferasirox, fostamatinib, alemtuzumab, amprenavir, bendamustine, bexarotene, bosentan and the radioactive iodides (I-123 and I-131). Minor-level examples include cimetidine, dexamethasone, lidocaine and armodafinil.
+- **Other**: Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for label safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Albendazole is already the guideline-recommended parasitostatic treatment for alveolar echinococcosis. A completed Phase 2 trial (194 patients) directly tests it in early-stage disease, and the mechanism is shared with the approved cystic indication. The evidence is limited by the lack of controlled efficacy data and by the drug's non-parasiticidal action.
+A completed Phase 2 trial (n=194) directly tests albendazole in early-stage alveolar echinococcosis, and guideline-oriented reviews already describe it as the standard parasitostatic therapy. The evidence is mainly reviews, however, and no randomised efficacy data are compiled here.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian products
-- Confirmation of the approved indications on Indian licences, including whether alveolar echinococcosis is covered
-- Results and efficacy outcomes from the completed Phase 2 trial
-- A monitoring plan for liver function and blood counts during prolonged therapy
-- Detailed mechanism of action data from a primary source
-
----
-
-**Other predicted indications (brief note):**
-- **Coenurosis** (L1, Proceed with Guardrails): the supporting trials are in neurocysticercosis, so this is analogy-based; coenurosis-specific evidence is limited to case reports.
-- **Cestode infectious disease** (L3, Proceed with Guardrails): largely covered by existing approvals.
-- **Intestinal helminthiasis** (L1, Proceed with Guardrails): a well-established standard-of-care use, with reduced efficacy against *Trichuris* and resistance concerns.
-- **Dermatofibrosarcoma protuberans, lung hilum carcinoma, inclusion body myopathy with Paget disease, fibroma of lung** (L5, Hold): prediction only, with no trials or literature.
-- **Lung benign neoplasm** (L4, Hold): only indirect and preclinical evidence.
-- **Hamartoma of lung** (L5, Hold): the only retrieved item is unrelated.
+- Results and outcome data from NCT07182305
+- India package insert warnings and contraindications
+- Long-term safety monitoring plan, including blood counts and liver function, for prolonged treatment
+- Dosage and duration guidance suited to Indian clinical practice
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

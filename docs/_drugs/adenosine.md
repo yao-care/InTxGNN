@@ -4,7 +4,7 @@ title: Adenosine
 parent: Model Prediction Only (L5)
 nav_order: 28
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Adenosine: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Ventricular tachycardia"
 monitor_inn: "Adenosine"
@@ -14,7 +14,7 @@ predicted_indications: ["obsolete bundle branch block"]
 # Adenosine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 Adenosine is an injectable antiarrhythmic originally used for ventricular tachycardia.
 The TxGNN model predicts it may be effective for **obsolete bundle branch block** (an outdated ontology term), with **no registered clinical trials** and **no related publications** supporting this prediction.
-The second-ranked prediction, **catecholaminergic polymorphic ventricular tachycardia (CPVT)**, has **no clinical trials** and **10 retrieved publications**, but only one case report directly relates to it.
 
 ## Quick Overview
 
@@ -48,19 +47,18 @@ The second-ranked prediction, **catecholaminergic polymorphic ventricular tachyc
 |------|------|
 | Original Indication | Ventricular tachycardia (the India licence records contain no approved indication text) |
 | Predicted New Indication | Obsolete bundle branch block |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 11 |
+| India Market Status | Marketed (valid licences: 11 of 11) |
+| Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. From general pharmacology, adenosine acts on A1 receptors at the AV node and slows conduction. That makes a link to conduction disorders plausible. However, the same action means adenosine may worsen bundle branch or AV conduction block rather than treat it. It is also used diagnostically to unmask conduction abnormalities.
 
-The disease name is flagged as obsolete, which suggests an outdated ontology term that maps to a poorly defined or merged concept. Despite the very high score, the prediction is not clinically interpretable and may be a graph artifact.
+The disease name is flagged as obsolete, which suggests an outdated ontology term that maps to a poorly defined or merged concept. Despite the very high score, the prediction is not clinically interpretable. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-**Secondary prediction: CPVT (score 99.42%, evidence level L4).** CPVT is driven by sarcoplasmic reticulum calcium leak and triggered activity during adrenergic stimulation. Adenosine opposes catecholamine effects through A1 receptor signalling, which lowers cAMP and may reduce triggered activity. This gives a biologically plausible route to terminating adrenergically driven arrhythmias. The only direct clinical evidence is one case report in which adenosine *triphosphate* (ATP, not adenosine itself) terminated bidirectional VT in a CPVT patient. Standard CPVT therapy (beta-blockers, flecainide, ICD, sympathetic denervation) remains the reference, and adenosine could at most be an acute adjunct.
 
 ## Clinical Trial Evidence
 

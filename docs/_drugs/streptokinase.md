@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Streptokinase
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 791
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Streptokinase: predicted new indication Myocardial infarction (evidence level L1). Approved use: Not stated in the available registration data"
 monitor_inn: "Streptokinase"
-predicted_indications: ["myocardial infarction", "Prinzmetal angina", "hemoglobinopathy", "coronary thrombosis", "septal myocardial infarction", "posteroinferior myocardial infarction", "posterolateral myocardial infarction", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
+predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
+description: "Streptokinase: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Streptokinase
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Streptokinase: From Thrombolytic Therapy to Myocardial Infarction
+## Streptokinase: Prinzmetal angina
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Streptokinase is a clot-dissolving (thrombolytic) enzyme given by injection, marketed in India under 20 valid registrations.
-The TxGNN model predicts it may be effective for **myocardial infarction**, with **7 registered clinical trials** and **20 publications** retrieved for this prediction.
 Note that myocardial infarction is already an established use of streptokinase, so this is better described as confirming a known use than as true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available registration data (approved indication text is blank for all licences) |
-| Predicted New Indication | Myocardial infarction |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Prinzmetal angina |
+| TxGNN Prediction Score | 0.9980 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -133,8 +132,8 @@ The mechanism directly fits myocardial infarction, and several completed Phase 3
 | Peripheral arterial disease | L2 | Proceed with Guardrails | Literature only (Cochrane reviews, streptokinase vs urokinase); no registered trials; restrict to acute limb ischaemia |
 | Peripheral vascular disease | L2 | Proceed with Guardrails | Overlaps with peripheral arterial occlusion; no registered trials |
 | Septal, posteroinferior and posterolateral MI | L3 | Research Question | Subtypes of MI; no registered trials and mostly case-level literature |
-| Prinzmetal angina | L4 | Hold | Mainly vasospasm, so weak mechanistic fit |
-| Hemoglobinopathy | L4 | Hold | No clear mechanistic link |
+| Prinzmetal angina | L5 | Hold | Mainly vasospasm, so weak mechanistic fit |
+| Hemoglobinopathy | L5 | Hold | No clear mechanistic link |
 | Partial deletion of the short arm of chromosome 16 | L5 | Hold | No supporting studies; likely a prediction artifact |
 ## Disclaimer
 

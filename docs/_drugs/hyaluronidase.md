@@ -6,9 +6,9 @@ nav_order: 411
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Hyaluronidase: predicted new indication Top TxGNN rank: esotropia . Best-supported candidate: diabetic retino… (evidence level L5). Approved use: Not stated in the compiled licence data"
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
+description: "Hyaluronidase: predicted new indication Top TxGNN rank: esotropia . Best-supported candidate: diabetic retinopathy (esotropia) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hyaluronidase
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Hyaluronidase: From an Adjuvant Enzyme (No Approved Indication on Record) to Diabetic Retinopathy
+## Hyaluronidase: Top TxGNN rank: esotropia (evidence supports an adverse-event link only). Best-supported candidate: diabetic retinopathy (esotropia)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ This report therefore evaluates diabetic retinopathy as the lead candidate and a
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the compiled licence data |
-| Predicted New Indication | Top TxGNN rank: esotropia (evidence supports an adverse-event link only). Best-supported candidate: diabetic retinopathy |
-| TxGNN Prediction Score | Esotropia 99.89%; diabetic retinopathy 99.71% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Top TxGNN rank: esotropia (evidence supports an adverse-event link only). Best-supported candidate: diabetic retinopathy (esotropia) |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | Diabetic retinopathy: L1 (as scored, based on two completed Phase 3 trials in vitreous hemorrhage; efficacy results not reviewed). Esotropia: L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails (diabetic retinopathy, as a research question only); Hold for all other predictions |
 
 ---

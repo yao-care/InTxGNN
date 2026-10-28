@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Methylergometrine: From Uterotonic Use to Hypertrichosis (Top Prediction), with Migraine as the Most Plausible Candidate
+## Methylergometrine: From Uterotonic Use to hypertrichosis (disease) (Top Prediction)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,26 +48,26 @@ Methylergometrine is an ergot-derived drug marketed in India as tablets and inje
 |------|------|
 | Original Indication | Not stated in the licence data compiled for this report |
 | Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-The ten predictions all score between 99.57% and 99.87%. The table below shows how the evidence differs between them.
+The ten predictions all score between 0.9957 and 0.9987. The table below shows how the evidence differs between them.
 
 | Rank | Predicted Indication | Score | Evidence Level | Recommendation |
 |---|---|---|---|---|
-| 1 | Hypertrichosis | 99.87% | L5 | Hold |
-| 2 | Pulmonary hypertension | 99.86% | L5 | Hold |
-| 3 | Migraine disorder | 99.84% | L4 | Research Question |
-| 4 | Ambras type hypertrichosis universalis congenita | 99.82% | L5 | Hold |
-| 5 | Malformation syndrome with odontal/periodontal component | 99.81% | L5 | Hold |
-| 6 | Syndrome with Dandy-Walker malformation as major feature | 99.81% | L5 | Hold |
-| 7 | Isolated genetic hair shaft abnormality | 99.79% | L5 | Hold |
-| 8 | Kyphoscoliotic heart disease | 99.77% | L5 | Hold |
-| 9 | Migraine with brainstem aura | 99.77% | L5 | Hold |
-| 10 | Nephrogenic syndrome of inappropriate antidiuresis | 99.57% | L5 | Hold |
+| 1 | Hypertrichosis | 0.9987 | L5 | Hold |
+| 2 | Pulmonary hypertension | 0.9986 | L5 | Hold |
+| 3 | Migraine disorder | 0.9984 | L4 | Research Question |
+| 4 | Ambras type hypertrichosis universalis congenita | 0.9982 | L5 | Hold |
+| 5 | Malformation syndrome with odontal/periodontal component | 0.9981 | L5 | Hold |
+| 6 | Syndrome with Dandy-Walker malformation as major feature | 0.9981 | L5 | Hold |
+| 7 | Isolated genetic hair shaft abnormality | 0.9979 | L5 | Hold |
+| 8 | Kyphoscoliotic heart disease | 0.9977 | L5 | Hold |
+| 9 | Migraine with brainstem aura | 0.9977 | L5 | Hold |
+| 10 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9957 | L5 | Hold |
 
 ---
 
@@ -81,7 +81,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 **Migraine disorder (rank 3):** This is the only prediction with a plausible, though indirect, link. Methylergometrine is the active metabolite of methysergide, a historical migraine preventive acting on 5-HT receptors. Ergot alkaloids such as ergotamine and dihydroergotamine are established migraine therapies. However, vasoconstriction and coronary risk, along with the fibrotic complications that led to methysergide's restriction, are major concerns.
 
-**Other predictions (ranks 4–8, 10):** These are rare congenital or genetic conditions, structural malformations, or disorders with unrelated pathways (for example, a vasopressin V2 receptor gain-of-function disorder). None has a known mechanistic link, and the scores appear to reflect knowledge-graph proximity rather than pharmacology.
+**Other predictions (ranks 4–8, 10):** These are rare congenital or genetic conditions, structural malformations, or disorders with unrelated pathways (for example, a vasopressin V2 receptor gain-of-function disorder). None has a known mechanistic link, and the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Migraine with brainstem aura (rank 9):** A serotonergic rationale exists by extension from migraine, but vasoconstrictive agents such as ergots and triptans are generally cautioned or contraindicated in this subtype because of ischemic concerns.
 

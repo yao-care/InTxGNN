@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Opsismodysplasia**, a rare sk
 |------|------|
 | Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 99.32% |
+| TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Opsismodysplasia is a rare skeletal disorder caused by INPPL1 mutations (loss of SHIP2 function), which affect PI3K/AKT signalling and the formation of bone from cartilage. No known pathway links DPP-4 inhibition to INPPL1/SHIP2 biology or to growth plate defects. The high TxGNN score is a model-based prediction only, and no mechanistic explanation currently supports it.
 
-Other top-ranked predictions have the same weakness: thiamine-responsive dysfunction syndrome, focal stiff limb syndrome and classic stiff person syndrome all score about 99.3%, yet none has trials, publications or an established mechanistic link. For the two stiff-person-spectrum conditions, DPP-4 (CD26) is expressed on T cells and may have a speculative immunomodulatory role, but this is unsupported.
+Other top-ranked predictions have the same weakness: thiamine-responsive dysfunction syndrome (0.9928), focal stiff limb syndrome (0.9926) and classic stiff person syndrome (0.9926) all have high TxGNN scores, yet none has trials, publications or an established mechanistic link. For the two stiff-person-spectrum conditions, DPP-4 (CD26) is expressed on T cells and may have a speculative immunomodulatory role, but this is unsupported.
 
 ## India Market Information
 

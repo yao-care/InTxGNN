@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abiraterone
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 14
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-14
-description: "Abiraterone: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the compiled license data"
+description: "Abiraterone: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Abiraterone"
-predicted_indications: ["migraine disorder", "migraine with or without aura, susceptibility to", "migraine with brainstem aura", "leprosy", "pulmonary hypertension", "nephrogenic syndrome of inappropriate antidiuresis", "rheumatoid arthritis", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Abiraterone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,45 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Abiraterone: From Prostate Cancer (Not Recorded in License Data) to Migraine Disorder
+## Abiraterone
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Abiraterone is an oral drug marketed in India under 20 valid registrations. The license data compiled for this report does not record an approved indication. The TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials and no relevant publications** currently support this prediction. It is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the compiled license data |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 98.81% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, abiraterone inhibits CYP17A1 and suppresses the synthesis of androgens and cortisol precursors. Its clinical use is in prostate cancer, where it is co-administered with prednisone. The retrieved publications about it are all prostate cancer studies.
-
-The link between this mechanism and migraine is speculative. Hormonal modulation could theoretically influence migraine, but no mechanistic or clinical evidence has been established. The high score (0.988) most likely reflects proximity in the knowledge graph, not a demonstrated pharmacological rationale.
-
-The other top predictions are also unsupported:
-
-- **Migraine-related terms** (susceptibility phenotype, brainstem aura): these appear to be redundant ontology neighbours of the main migraine prediction.
-- **Pulmonary hypertension:** this has only a loose theoretical link through sex-hormone signalling. The five retrieved publications are all about prostate cancer and are not relevant evidence. Abiraterone's mineralocorticoid excess can cause fluid retention and hypertension, which is a safety concern.
-- **Rheumatoid arthritis:** the anti-inflammatory effect comes from co-administered prednisone, not abiraterone, and androgen suppression could be unfavourable.
-- **Leprosy, nephrogenic syndrome of inappropriate antidiuresis, kyphoscoliotic heart disease, atrophoderma vermiculata, ulerythema ophryogenesis:** no plausible mechanism or evidence.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available for migraine disorder.
 
 ## India Market Information
 
@@ -105,23 +78,10 @@ Abiraterone is used as an anticancer hormonal therapy for prostate cancer. It is
   - **Major:** cisapride, dolasetron, eliglustat, loperamide
   - **Moderate:** bisacodyl, castor oil, clarithromycin, dexfenfluramine, eluxadoline, famotidine, fenfluramine, glycerin, granisetron, lactitol, lactulose, levofloxacin, magnesium citrate, magnesium hydroxide, metoclopramide
   - **Minor:** metronidazole
-- **Other concerns noted during evaluation:** Mineralocorticoid excess may cause fluid retention and hypertension. This is relevant to the cardiopulmonary predictions (pulmonary hypertension, kyphoscoliotic heart disease).
+- **Other concerns noted during evaluation:** Mineralocorticoid excess may cause fluid retention and hypertension.
 
 For warnings and contraindications, please refer to the package insert.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-All predictions are model outputs only (L5), with no clinical trials and no relevant literature. The mechanistic link to migraine is speculative, and the safety data needed for screening is incomplete.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India regulatory source (currently blocking safety screening)
-- Approved indication text and mechanism of action data
-- Preclinical or mechanistic evidence linking CYP17A1 inhibition or hormonal modulation to migraine
-- A targeted literature search specific to migraine, since the retrieved publications are all prostate cancer studies
-- Assessment of route compatibility and the cardiovascular risk of mineralocorticoid excess in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

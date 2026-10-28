@@ -48,17 +48,17 @@ but currently **no clinical trials and no publications** support this direction,
 |------|------|
 | Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic, papillary and vernal conjunctivitis, idiopathic urticaria) |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, astemizole is a second-generation H1-receptor antagonist. Its efficacy in allergic and atopic conjunctivitis (including vernal and papillary forms) is established, and by blocking histamine it may mechanistically reduce histamine-mediated inflammation of the ocular surface in rosacea conjunctivitis.
 
-This link is weak, however. Ocular rosacea is driven mainly by meibomian gland dysfunction, tear film instability, microbial and Demodex factors, and innate immune activation. Histamine plays only a minor role. The very high TxGNN score (99.78%) most likely reflects network proximity to astemizole's existing conjunctivitis indications rather than an independent mechanistic signal. Because the mechanism data is missing, the link is inferred from the drug class only.
+This link is weak, however. Ocular rosacea is driven mainly by meibomian gland dysfunction, tear film instability, microbial and Demodex factors, and innate immune activation. Histamine plays only a minor role. The very high TxGNN score (0.9978) most likely reflects network proximity to astemizole's existing conjunctivitis indications rather than an independent mechanistic signal. Because the mechanism data is missing, the link is inferred from the drug class only.
 
 ## Clinical Trial Evidence
 

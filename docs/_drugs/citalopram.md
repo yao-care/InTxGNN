@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Citalopram
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 187
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-14
 description: "Citalopram: predicted new indication Obsessive-compulsive disorder (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder…"
 monitor_inn: "Citalopram"
-predicted_indications: ["obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder"]
+predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder"]
 ---
 
 # Citalopram
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **4 related clinical trials** and **16 publications** currently supporting 
 |------|------|
 | Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder, unipolar depression, endogenous depression, major depressive disorder (the Indian licence records contain no approved indication text) |
 | Predicted New Indication | Obsessive-compulsive disorder |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L1 (see note in the Conclusion) |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -119,7 +119,7 @@ OCD responds well to serotonin reuptake inhibition, and citalopram has multiple 
 - A QT/ECG monitoring plan and a drug interaction management plan, especially for patients with cardiac disease or taking QT-prolonging drugs
 - Safety planning for pediatric use, since much of the available citalopram data comes from children and adolescents
 
-**Other predicted indications (not recommended at present):** schizotypal, schizoid, histrionic, and paranoid personality disorders all have **Hold** decisions. They have no clinical trials, and the identical TxGNN scores (99.68%) suggest a class-level graph artifact. For paranoid personality disorder, three retrieved papers are only indirectly related.
+**Other predicted indications (not recommended at present):** schizotypal, schizoid, histrionic, and paranoid personality disorders all have **Hold** decisions. They have no clinical trials, and the identical scores (0.9968) come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. For paranoid personality disorder, three retrieved papers are only indirectly related.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

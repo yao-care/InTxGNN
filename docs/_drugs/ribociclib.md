@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **myeloid leukemia**, but this 
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the license record has no indication text) |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.35% |
+| TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Ribociclib inhibits CDK4/6, which regulate progression from the G1 to the S phas
 
 A 2020 preclinical report suggests CDK4/6 inhibitors can address pharmacokinetic drug resistance in acute myeloid leukemia (AML) cells, in which ABCB1 and ABCG2 transporters are overexpressed. This offers a plausible but indirect rationale. The high TxGNN score is a computational prediction only and is not backed by clinical data.
 
-**Other predictions were not pursued.** The model also ranked thrombocytopenia and two rare thrombocytopenia-related conditions highly. Thrombocytopenia is a known adverse effect of ribociclib and other CDK4/6 inhibitors, caused by suppression of blood-cell progenitor growth. These predictions most likely reflect the drug's safety profile or knowledge-graph proximity rather than therapeutic benefit, and treating thrombocytopenia with ribociclib would be counterproductive. They are not valid repurposing candidates.
+**Other predictions were not pursued.** The model also ranked thrombocytopenia and two rare thrombocytopenia-related conditions highly. Thrombocytopenia is a known adverse effect of ribociclib and other CDK4/6 inhibitors, caused by suppression of blood-cell progenitor growth. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of therapeutic benefit, and treating thrombocytopenia with ribociclib would be counterproductive. They are not valid repurposing candidates.
 
 ## Clinical Trial Evidence
 

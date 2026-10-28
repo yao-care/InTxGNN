@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **cecum villous adenoma**, but 
 |------|------|
 | Original Indication | Colorectal cancer (malignant colon neoplasm, colonic neoplasm, squamous cell carcinoma of colon) |
 | Predicted New Indication | Cecum villous adenoma |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tipiracil is a thymidine phosphorylase inhibitor that is marketed only in combination with trifluridine (trifluridine/tipiracil). It prevents the breakdown of trifluridine, a cytotoxic nucleoside analogue, and so raises the drug's exposure. Tipiracil itself is not known to have a direct antitumour effect.
 
-A villous adenoma of the cecum is a benign precursor lesion in the same organ as colorectal cancer. The link between the two is therefore anatomical and prediction-based. The model score is very high, but it likely reflects shared colon-tissue neighbours in the knowledge graph rather than a biological reason.
+A villous adenoma of the cecum is a benign precursor lesion in the same organ as colorectal cancer. The link between the two is therefore anatomical and prediction-based. The model score is very high, but the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 There is also little clinical rationale for cytotoxic therapy in a benign lesion that can usually be removed endoscopically. No clinical, preclinical or literature evidence supports a benefit in this condition.
 

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-14
 description: "Buprenorphine: predicted new indication Acute intermittent porphyria (evidence level L4). Approved use: Opioid dependence, substance abuse/dependence, morphine dependence"
 monitor_inn: "Buprenorphine"
-predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
+predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
 ---
 
 # Buprenorphine
@@ -50,9 +50,9 @@ The evidence is weak, and the high model score is not supported by clinical data
 |------|------|
 | Original Indication | Opioid dependence, substance abuse/dependence, morphine dependence (approved indication text is not available in the India licence records) |
 | Predicted New Indication | Acute intermittent porphyria |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Acute intermittent porphyria is caused by a defect in heme biosynthesis. There is no credible mechanistic link between mu-opioid partial agonism and this defect. The only publication found is a report on anesthetic management of a patient with the disease. It suggests opioid-type analgesia may be usable in these patients, but it does not show any disease-modifying benefit.
 
-The high TxGNN score (0.994) is therefore not backed by clinical data. At most, buprenorphine could serve as symptomatic analgesia, and this would require checking porphyria safety first, including porphyrinogenic drug lists and CYP3A4 metabolism of buprenorphine.
+The high TxGNN score (0.9941) is therefore not backed by clinical data. At most, buprenorphine could serve as symptomatic analgesia, and this would require checking porphyria safety first, including porphyrinogenic drug lists and CYP3A4 metabolism of buprenorphine.
 
 ---
 
@@ -100,7 +100,7 @@ Available forms include transdermal patches, injections and tablets.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge graph associations, not label text)**: The knowledge graph links buprenorphine to a number of conditions, including:
+- **Contraindications (from TxGNN model associations, not label text)**: The TxGNN model (deep learning) links buprenorphine to a number of conditions, which may reflect similarities the model learned between related diseases, not biological evidence, including:
   - Respiratory: chronic obstructive pulmonary disease, respiratory failure
   - Cardiac and circulatory: long QT syndrome, torsades de pointes, orthostatic hypotension
   - Hepatic: liver disease, chronic hepatitis B and C infection
@@ -127,11 +127,11 @@ None of the other top-ranked predictions has supporting trials. All are rated Ho
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Lingual-facial-buccal dyskinesia | 99.32% | L4 | Literature is indirect (opioids and agitation in dementia, pharmacology, veterinary safety); none addresses dyskinesia. Opioids may themselves cause movement-related adverse effects. |
-| 3 | Chronic tic disorder | 99.13% | L5 | Model prediction only |
-| 4 | Continuous spikes and waves during sleep | 99.05% | L5 | Model prediction only; opioids can lower seizure threshold in some settings |
-| 5 | Extrapyramidal and movement disease | 99.03% | L5 | Broad category; model prediction only |
-| 6 | Benign shuddering attacks | 99.03% | L5 | Benign, self-limiting paediatric condition; the risk-benefit of an opioid would be unfavourable |
+| 2 | Lingual-facial-buccal dyskinesia | 0.9932 | L5 | Literature is indirect (opioids and agitation in dementia, pharmacology, veterinary safety); none addresses dyskinesia. Opioids may themselves cause movement-related adverse effects. |
+| 3 | Chronic tic disorder | 0.9913 | L5 | Model prediction only |
+| 4 | Continuous spikes and waves during sleep | 0.9905 | L5 | Model prediction only; opioids can lower seizure threshold in some settings |
+| 5 | Extrapyramidal and movement disease | 0.9903 | L5 | Broad category; model prediction only |
+| 6 | Benign shuddering attacks | 0.9903 | L5 | Benign, self-limiting paediatric condition; the risk-benefit of an opioid would be unfavourable |
 
 ---
 

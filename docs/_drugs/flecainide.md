@@ -4,17 +4,17 @@ title: Flecainide
 parent: Moderate Evidence (L3-L4)
 nav_order: 356
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Flecainide: predicted new indication Stroke disorder (evidence level L3). Approved use: Atrial fibrillation"
 monitor_inn: "Flecainide"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Flecainide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be useful for **stroke disorder**, but the suppo
 |------|------|
 | Original Indication | Atrial fibrillation (the licence records compiled for this report contain no approved indication text) |
 | Predicted New Indication | Stroke disorder |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be useful for **stroke disorder**, but the suppo
 
 Currently, detailed mechanism of action data is not available. Based on known information, flecainide is a class 1C antiarrhythmic that blocks cardiac sodium channels, and it is used to maintain sinus rhythm in atrial fibrillation (AF).
 
-AF is a major cause of cardioembolic stroke. By reducing AF burden, flecainide could in theory lower stroke risk indirectly. This is why a knowledge-graph model links the two conditions.
+AF is a major cause of cardioembolic stroke. By reducing AF burden, flecainide could in theory lower stroke risk indirectly. This is why the TxGNN model (deep learning) scores the two conditions as related; the score may reflect similarities the model learned between related diseases, not biological evidence.
 
 The link is only indirect, however. No data compiled for this report show that flecainide itself reduces stroke incidence. The only trial tests whether flecainide reduces atrial arrhythmia after patent foramen ovale (PFO) closure, which is an arrhythmia endpoint, not a stroke-recurrence endpoint. In addition, class 1C agents are generally not recommended in structural or ischaemic heart disease, which limits their use in many stroke patients.
 
@@ -103,7 +103,7 @@ The link is only indirect, however. No data compiled for this report show that f
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: kidney disease, liver disease, gallbladder disease, potassium deficiency disease, myocardial infarction and coronary thrombosis, haemoglobinopathy, atrioventricular block, sick sinus syndrome (including the familial form), and pyoureter.
+- **Contraindications (from model-derived associations, not label text)**: kidney disease, liver disease, gallbladder disease, potassium deficiency disease, myocardial infarction and coronary thrombosis, haemoglobinopathy, atrioventricular block, sick sinus syndrome (including the familial form), and pyoureter.
 - **Drug Interactions**: 215 interactions are recorded. Major-level interactions include **dolasetron** and **eliglustat**. Moderate-level interactions include famotidine, cimetidine, loperamide, bupropion, lorcaserin, clarithromycin, levofloxacin, palonosetron, trospium, and several laxatives and bowel-preparation agents (bisacodyl, picosulfuric acid, lactulose, lactitol, sodium sulfate, polyethylene glycol). Minor-level interactions include ascorbic acid, potassium citrate, and metronidazole. Interactions with direct oral anticoagulants are also relevant in stroke patients (see PMID 41152878).
 - **Other**: Case reports describe a Brugada pattern unmasked by flecainide overdose. Several of the associated conditions (ischaemic heart disease, conduction disease) are common in stroke populations, which narrows the eligible patient group.
 

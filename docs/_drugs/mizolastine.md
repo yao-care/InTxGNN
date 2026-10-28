@@ -6,9 +6,9 @@ nav_order: 563
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Mizolastine: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis"
 monitor_inn: "Mizolastine"
 predicted_indications: ["acute intermittent porphyria", "psychogenic movement disorders", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "carbamoyl phosphate synthetase I deficiency disease"]
+description: "Mizolastine: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mizolastine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mizolastine: From Allergic Rhinitis to Acute Intermittent Porphyria
+## Mizolastine: Acute intermittent porphyria
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ with **0 clinical trials** and **0 publications** currently supporting it.
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis (from the knowledge graph; the India license record has no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acute intermittent porphyria |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, mizolastine is a second-generation H1 receptor antagonist. Its use in allergic and vasomotor rhinitis is established, but the data compiled for this report do not show a mechanistic route to the predicted indication.
 
-Acute intermittent porphyria is a metabolic disorder of heme biosynthesis, and no plausible antihistamine-related mechanism is evident. The high TxGNN score (99.76%) reflects a pattern found by the model in a knowledge graph, not an experimentally supported link.
+Acute intermittent porphyria is a metabolic disorder of heme biosynthesis, and no plausible antihistamine-related mechanism is evident. The high TxGNN score (0.9976) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Safety is also a concern. Many drugs are porphyrinogenic, and the porphyria safety of mizolastine is not established in the data compiled for this report.
 
@@ -66,15 +66,15 @@ Safety is also a concern. Many drugs are porphyrinogenic, and the porphyria safe
 
 | Rank | Predicted Indication | TxGNN Score | Comment |
 |---|---|---|---|
-| 2 | Psychogenic movement disorders | 99.71% | H1 antagonism has no known direct relevance |
-| 3 | Lingual-facial-buccal dyskinesia | 99.71% | Speculative central histaminergic link; mizolastine has limited CNS penetration |
-| 4 | Chronic tic disorder | 99.71% | Histamine H3 pathways have been explored, but mizolastine acts on H1 |
-| 5 | Extrapyramidal and movement disease | 99.70% | Broad category; no specific mechanism |
-| 6 | Benign shuddering attacks | 99.70% | Benign, self-limiting condition; unfavourable risk-benefit |
-| 7 | Primary orthostatic tremor | 99.69% | No known antihistamine mechanism |
-| 8 | Tremor-nystagmus-duodenal ulcer syndrome | 99.69% | Extremely rare; H2 blockers, not H1, are relevant to ulcers |
-| 9 | Benign paroxysmal tonic upgaze of childhood with ataxia | 99.68% | Rare channelopathy-associated condition; no link to H1 |
-| 10 | Carbamoyl phosphate synthetase I deficiency disease | 99.47% | Inborn urea cycle disorder; no plausible link |
+| 2 | Psychogenic movement disorders | 0.9971 | H1 antagonism has no known direct relevance |
+| 3 | Lingual-facial-buccal dyskinesia | 0.9971 | Speculative central histaminergic link; mizolastine has limited CNS penetration |
+| 4 | Chronic tic disorder | 0.9971 | Histamine H3 pathways have been explored, but mizolastine acts on H1 |
+| 5 | Extrapyramidal and movement disease | 0.9970 | Broad category; no specific mechanism |
+| 6 | Benign shuddering attacks | 0.9970 | Benign, self-limiting condition; unfavourable risk-benefit |
+| 7 | Primary orthostatic tremor | 0.9969 | No known antihistamine mechanism |
+| 8 | Tremor-nystagmus-duodenal ulcer syndrome | 0.9969 | Extremely rare; H2 blockers, not H1, are relevant to ulcers |
+| 9 | Benign paroxysmal tonic upgaze of childhood with ataxia | 0.9968 | Rare channelopathy-associated condition; no link to H1 |
+| 10 | Carbamoyl phosphate synthetase I deficiency disease | 0.9947 | Inborn urea cycle disorder; no plausible link |
 
 ## Clinical Trial Evidence
 

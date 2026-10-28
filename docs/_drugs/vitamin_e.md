@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vitamin E
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 895
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Vitamin E: predicted new indication Inborn disorder of bilirubin metabolism (evidence level L4). Approved use: Cholestasis, benign recurrent intrahepatic cholestasis…"
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
+description: "Vitamin E: predicted new indication Inborn disorder of bilirubin metabolism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Vitamin E
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Vitamin E: From Cholestasis-Related Vitamin E Deficiency to Inborn Disorder of Bilirubin Metabolism
+## Vitamin E: Inborn disorder of bilirubin metabolism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **inborn disorder of bilirubin 
 
 | Item | Content |
 |------|------|
-| Original Indication | Cholestasis, benign recurrent intrahepatic cholestasis, familial intrahepatic cholestasis, familial isolated vitamin E deficiency (from the knowledge graph; the Indian licence records contain no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Inborn disorder of bilirubin metabolism |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 7 |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 7 of 7) |
+| Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---

@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Pulmonary embolism, thrombophilia |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,8 +61,8 @@ Acenocoumarol is a vitamin K antagonist. It inhibits vitamin K epoxide reductase
 Heparin cofactor II deficiency is an inherited thrombophilia in which thrombin inhibition by dermatan sulfate and heparin is impaired. The original indications of acenocoumarol, thrombophilia and pulmonary embolism, share the same underlying problem of excessive thrombin activity. Reducing thrombin generation through vitamin K antagonism is therefore mechanistically plausible.
 
 The two other top predictions follow the same logic:
-- **Factor 5 excess with spontaneous thrombosis** (score 99.78%): vitamin K antagonists dampen the coagulation cascade downstream of factor V. Warfarin-class drugs are already used in factor V Leiden thrombosis.
-- **Antithrombin deficiency type 2** (score 99.77%): oral vitamin K antagonists are a standard long-term option for hereditary antithrombin deficiency after initial heparin therapy.
+- **Factor 5 excess with spontaneous thrombosis** (score 0.9978): vitamin K antagonists dampen the coagulation cascade downstream of factor V. Warfarin-class drugs are already used in factor V Leiden thrombosis.
+- **Antithrombin deficiency type 2** (score 0.9977): oral vitamin K antagonists are a standard long-term option for hereditary antithrombin deficiency after initial heparin therapy.
 
 All three predictions are model outputs with no supporting trial or literature records in the data compiled for this report.
 

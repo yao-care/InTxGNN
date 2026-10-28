@@ -46,10 +46,10 @@ Dexpanthenol is a provitamin of pantothenic acid, used for skin conditions and g
 |------|------|
 | Original Indication | Paralytic ileus, intestinal obstruction, gastroparesis, atopic eczema, dermatitis, and other skin diseases (the India license records contain no approved indication text) |
 | Predicted New Indication | Anorectal stricture |
-| TxGNN Prediction Score | 99.72% |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

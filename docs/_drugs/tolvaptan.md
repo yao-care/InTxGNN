@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tolvaptan
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 847
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Tolvaptan: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L1). Approved use: Inappropriate ADH syndrome (SIADH)"
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Tolvaptan: From Inappropriate ADH Syndrome to Polycystic Kidney Disease 3 With or Without Polycystic Liver Disease
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tolvaptan is a vasopressin V2 receptor antagonist, originally used for inappropriate ADH syndrome (SIADH), nephrogenic syndrome of inappropriate antidiuresis and polycystic kidney disease.
-The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**,
 with **no registered clinical trials** for this specific subtype but **20 publications**, including 2 randomised controlled trials, supporting the broader ADPKD direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Inappropriate ADH syndrome (SIADH); nephrogenic syndrome of inappropriate antidiuresis; polycystic kidney disease (the approved indication text on the India licences is blank) |
-| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Renal-hepatic-pancreatic dysplasia |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -93,7 +92,6 @@ A total of 20 valid single-ingredient registrations exist, all oral tablets.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: liver failure, cirrhosis of liver, substance abuse/dependence, active peptic ulcer disease, demyelinating disease.
 - **Hepatotoxicity**: The ADPKD trials reported more elevations in aminotransferase and bilirubin levels. Liver enzyme monitoring is advised.
 - **Drug Interactions** (100 interactions recorded; main ones listed):
   - **Major**: Clarithromycin

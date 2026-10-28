@@ -4,17 +4,17 @@ title: Glycine
 parent: Model Prediction Only (L5)
 nav_order: 398
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Glycine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Glycine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Glycine is an amino acid. The knowledge base used for this report lists its orig
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis (from the knowledge base; the India licence records contain no approved indication text) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 "Nasal cavity disease" is a broad category that overlaps heavily with the existing indications (allergic rhinitis, rhinitis, nasopharyngitis). The high score is therefore likely the model extrapolating within the same disease family rather than identifying a genuinely new use. The predicted indication is not a clear repurposing opportunity.
 
-A second prediction, **acute laryngopharyngitis** (score 99.84%), has no trials or literature at all. It is closely related to the existing pharyngitis, common cold and nasopharyngitis indications, and it is likewise a model extrapolation rather than independent evidence of efficacy.
 
 ## Clinical Trial Evidence
 

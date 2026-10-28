@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Clobazam: predicted new indication Febrile infection-related epilepsy syndrome (evidence level L4). Approved use: Lennox-Gastaut syndrome"
 monitor_inn: "Clobazam"
-predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 ---
 
 # Clobazam
@@ -48,9 +48,9 @@ but at present there are **no registered clinical trials** and only **2 publicat
 |------|------|
 | Original Indication | Lennox-Gastaut syndrome (the licence entries in India carry no indication text) |
 | Predicted New Indication | Febrile infection-related epilepsy syndrome |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -64,15 +64,15 @@ Other predicted indications are listed below for context. Only childhood-onset e
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Note |
 |---|---|---|---|---|
-| 2 | Perioral myoclonia with absences | 99.79% | L5 | Prediction only |
-| 3 | Cryptogenic late-onset epileptic spasms | 99.77% | L4 | One cohort study, no clobazam efficacy data |
-| 4 | Atypical childhood epilepsy with centrotemporal spikes | 99.77% | L4 | General reviews and case series |
-| 5 | Photosensitive occipital lobe epilepsy | 99.77% | L4 | One 1994 regional report |
-| 6 | Childhood onset epileptic encephalopathy | 99.59% | L3 | Reviews and guidelines; largely an extension of the existing indication |
-| 7 | Benign occipital epilepsy | 99.58% | L4 | Includes Cochrane review of clobazam monotherapy; usually self-limited disease |
-| 8 | GRIN2A-related early-onset epileptic encephalopathy | 99.40% | L5 | Prediction only |
-| 9 | Restless legs syndrome | 99.30% | L5 | Prediction only; weak class-level rationale |
-| 10 | Polymicrogyria with optic nerve hypoplasia | 99.09% | L5 | Prediction only |
+| 2 | Perioral myoclonia with absences | 0.9979 | L5 | Prediction only |
+| 3 | Cryptogenic late-onset epileptic spasms | 0.9977 | L5 | One cohort study, no clobazam efficacy data |
+| 4 | Atypical childhood epilepsy with centrotemporal spikes | 0.9977 | L5 | General reviews and case series |
+| 5 | Photosensitive occipital lobe epilepsy | 0.9977 | L5 | One 1994 regional report |
+| 6 | Childhood onset epileptic encephalopathy | 0.9959 | L5 | Reviews and guidelines; largely an extension of the existing indication |
+| 7 | Benign occipital epilepsy | 0.9958 | L5 | Includes Cochrane review of clobazam monotherapy; usually self-limited disease |
+| 8 | GRIN2A-related early-onset epileptic encephalopathy | 0.9940 | L5 | Prediction only |
+| 9 | Restless legs syndrome | 0.9930 | L5 | Prediction only; weak class-level rationale |
+| 10 | Polymicrogyria with optic nerve hypoplasia | 0.9909 | L5 | Prediction only |
 
 ## Clinical Trial Evidence
 

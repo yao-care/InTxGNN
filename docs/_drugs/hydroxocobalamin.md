@@ -6,9 +6,9 @@ nav_order: 414
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Hydroxocobalamin: predicted new indication Esophageal varices without bleeding (evidence level L5). Approved use: Vitamin B12 deficiency, cyanide poisoning, pernicious anemia"
 monitor_inn: "Hydroxocobalamin"
 predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
+description: "Hydroxocobalamin: predicted new indication Esophageal varices without bleeding (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxocobalamin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices Without Bleeding
+## Hydroxocobalamin: Esophageal varices without bleeding
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **esophageal varices without bl
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin B12 deficiency, cyanide poisoning, pernicious anemia (from the knowledge graph; the approved indication text in the India licences is blank) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Esophageal varices without bleeding |
-| TxGNN Prediction Score | 99.23% |
+| TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A link to portal hypertension through nitric oxide modulation is conceivable, but nothing in the data compiled for this report supports it. No trial or publication tests this idea.
 
-The model gives the same score (99.23%) to both the non-bleeding and bleeding varices indications. This suggests the prediction reflects a shared disease-ontology relationship rather than biology specific to either indication. The high score should not be read as clinical evidence.
+The model gives the same score (0.9923) to both the non-bleeding and bleeding varices indications. This suggests the prediction reflects a shared disease-ontology relationship rather than biology specific to either indication. The high score should not be read as clinical evidence.
 
 A related prediction, **esophageal varices with bleeding**, has the same score, the same L5 evidence level and the same Hold recommendation. Acute variceal bleeding is managed with vasoactive agents, endoscopic band ligation and antibiotic prophylaxis. Nothing in the data suggests hydroxocobalamin has a role there.
 

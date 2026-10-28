@@ -6,9 +6,9 @@ nav_order: 557
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Osteoporosis"
 monitor_inn: "Minodronic acid"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "severe nonproliferative diabetic retinopathy", "bone Paget disease", "fetal and neonatal alloimmune thrombocytopenia", "juvenile Paget disease"]
+description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Minodronic Acid
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Minodronic Acid: From Osteoporosis to Pseudo-von Willebrand Disease
+## Minodronic Acid: Pseudo-von Willebrand disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,25 +46,25 @@ Among all seven predictions, **bone Paget disease** is the most biologically cre
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis; postmenopausal osteoporosis (the approved-indication text in the India licences is blank, so these come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pseudo-von Willebrand disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 **Other predicted indications**
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
 |------|------|------|------|------|
-| 1 | Pseudo-von Willebrand disease | 99.97% | L5 | Hold |
-| 2 | Primary release disorder of platelets | 99.97% | L5 | Hold |
-| 3 | Glanzmann thrombasthenia | 99.87% | L5 | Hold |
-| 4 | Severe nonproliferative diabetic retinopathy | 99.58% | L5 | Hold |
-| 5 | Bone Paget disease | 99.32% | L5 | Research Question |
-| 6 | Fetal and neonatal alloimmune thrombocytopenia | 99.19% | L5 | Hold |
-| 7 | Juvenile Paget disease | 99.15% | L5 | Research Question |
+| 1 | Pseudo-von Willebrand disease | 0.9997 | L5 | Hold |
+| 2 | Primary release disorder of platelets | 0.9997 | L5 | Hold |
+| 3 | Glanzmann thrombasthenia | 0.9987 | L5 | Hold |
+| 4 | Severe nonproliferative diabetic retinopathy | 0.9958 | L5 | Hold |
+| 5 | Bone Paget disease | 0.9932 | L5 | Research Question |
+| 6 | Fetal and neonatal alloimmune thrombocytopenia | 0.9919 | L5 | Hold |
+| 7 | Juvenile Paget disease | 0.9915 | L5 | Research Question |
 
 ## Why is This Prediction Reasonable?
 

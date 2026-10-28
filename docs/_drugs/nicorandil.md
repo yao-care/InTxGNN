@@ -4,17 +4,17 @@ title: Nicorandil
 parent: Moderate Evidence (L3-L4)
 nav_order: 593
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Nicorandil: predicted new indication Benign prostatic hyperplasia (evidence level L4). Approved use: Chronic stable angina pectoris"
+description: "Nicorandil: predicted new indication benign prostatic hyperplasia (disease) (evidence level L4). Approved use: Chronic stable angina pectoris"
 monitor_inn: "Nicorandil"
-predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis susceptibility", "osteoarthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis"]
 ---
 
 # Nicorandil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Nicorandil: From Angina Pectoris to Benign Prostatic Hyperplasia
+## Nicorandil: From Angina Pectoris to benign prostatic hyperplasia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ The prediction is best treated as a research question rather than an actionable 
 |------|------|
 | Original Indication | Chronic stable angina pectoris (from the pharmacology reference data; the Indian licence records contain no indication text) |
 | Predicted New Indication | Benign prostatic hyperplasia |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -128,15 +128,11 @@ Nine further predictions have no clinical trials or literature in the compiled d
 
 | Predicted Indication | TxGNN Score | Comment |
 |------|------|------|
-| Alopecia | 99.61% | Possible inference from the K-ATP opener class (as with minoxidil), but unsupported by the data |
-| Hypotrichosis simplex of the scalp | 99.51% | Rare genetic condition; relevance of a vasodilator mechanism is uncertain |
-| Congenital hypotrichosis milia | 99.51% | Likely a knowledge-graph similarity effect; no demonstrated mechanism |
-| Diffuse alopecia areata | 99.48% | Autoimmune condition; a vasodilator is not an established treatment route |
-| Osteoarthritis susceptibility | 99.44% | No clear mechanistic rationale |
-| Osteoarthritis | 99.40% | Any link would be speculative |
-| Acromesomelic dysplasia, Hunter-Thompson type | 98.94% | Rare skeletal dysplasia; likely a knowledge-graph artifact |
-| Brachyolmia | 98.94% | Rare skeletal dysplasia; no apparent rationale |
-| Brachyolmia-amelogenesis imperfecta syndrome | 98.86% | Rare genetic syndrome; no apparent rationale |
+| Alopecia | 0.9961 | Possible inference from the K-ATP opener class (as with minoxidil), but unsupported by the data |
+| Hypotrichosis simplex of the scalp | 0.9951 | Rare genetic condition; relevance of a vasodilator mechanism is uncertain |
+| Congenital hypotrichosis milia | 0.9951 | Likely a similarity the TxGNN model (deep learning) learned between related diseases; no demonstrated mechanism |
+| Diffuse alopecia areata | 0.9948 | Autoimmune condition; a vasodilator is not an established treatment route |
+| Osteoarthritis | 0.9940 | Any link would be speculative |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

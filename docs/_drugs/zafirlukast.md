@@ -6,9 +6,9 @@ nav_order: 901
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Asthma . The Indian licence record contains no indication text"
 monitor_inn: "Zafirlukast"
 predicted_indications: ["bronchitis", "obstructive lung disease"]
+description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zafirlukast
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Zafirlukast: From Asthma to Bronchitis
+## Zafirlukast: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ A second candidate, obstructive lung disease, has **18 publications**, mostly as
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma (intrinsic and allergic asthma also listed in the knowledge graph). The Indian licence record contains no indication text. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 
 Because these processes also occur in inflammatory bronchial conditions, there is a plausible mechanistic link between asthma and bronchitis. However, bronchitis is a heterogeneous condition (acute viral, chronic, eosinophilic), and the relevant subtype is not specified. The prediction score is the only support: no trials or publications were found for bronchitis.
 
-For the second-ranked prediction, obstructive lung disease (score 99.17%), the high score is largely explained by asthma itself being an obstructive lung disease and the drug's existing indication. It is therefore not a strong new repurposing signal. The only COPD-related item is a review discussing leukotriene pathway inhibitors in asthma and COPD (PMID 10421833). No controlled COPD data were available.
+For the second-ranked prediction, obstructive lung disease (score 0.9917), the high score is largely explained by asthma itself being an obstructive lung disease and the drug's existing indication. It is therefore not a strong new repurposing signal. The only COPD-related item is a review discussing leukotriene pathway inhibitors in asthma and COPD (PMID 10421833). No controlled COPD data were available.
 
 ---
 

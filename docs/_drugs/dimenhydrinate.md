@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dimenhydrinate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 271
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L4). Approved use: Central nervous system origin vertigo"
@@ -14,7 +14,7 @@ predicted_indications: ["allergic urticaria", "cold urticaria"]
 # Dimenhydrinate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,19 +48,19 @@ but at present only **1 publication** (a veterinary pharmacokinetic pilot study)
 |------|------|
 | Original Indication | Central nervous system origin vertigo; motion sickness (the registration records in India do not list approved indication text) |
 | Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| TxGNN Prediction Score | 0.9974 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Once absorbed, it releases diphenhydramine, a first-generation H1-receptor antagonist. Its efficacy in motion sickness and vertigo is established, and mechanistically it may be applicable to histamine-mediated conditions.
 
-Urticaria is driven largely by histamine released from mast cells. H1 antagonists are a recognized drug class for this condition, so the prediction is pharmacologically plausible, and the high TxGNN score (0.997) is consistent with it. However, the support is indirect. It comes from the diphenhydramine component, not from dimenhydrinate itself being tested in urticaria. Current practice generally favors second-generation, less sedating antihistamines, so any use of a sedating first-generation agent would need to be justified against that standard.
+Urticaria is driven largely by histamine released from mast cells. H1 antagonists are a recognized drug class for this condition, so the prediction is pharmacologically plausible, and the high TxGNN score (0.9974) is consistent with it. However, the support is indirect. It comes from the diphenhydramine component, not from dimenhydrinate itself being tested in urticaria. Current practice generally favors second-generation, less sedating antihistamines, so any use of a sedating first-generation agent would need to be justified against that standard.
 
-A second prediction, **cold urticaria** (score 99.24%), has the same theoretical rationale but no clinical trials or literature at all (evidence level L5, decision Hold).
+A second prediction, **cold urticaria** (score 0.9924), has the same theoretical rationale but no clinical trials or literature at all (evidence level L5, decision Hold).
 
 ## Clinical Trial Evidence
 

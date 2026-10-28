@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Posaconazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 687
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-14
 description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L4). Approved use: Fungal infections (chromomycosis, coccidioidomycosis, aspergillosis…"
@@ -14,7 +14,7 @@ predicted_indications: ["pneumocystosis"]
 # Posaconazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **pneumocystosis** (Pneumocysti
 |------|------|
 | Original Indication | Fungal infections (chromomycosis, coccidioidomycosis, aspergillosis, sporotrichosis, histoplasmosis, fusariosis, mycetoma, candidiasis, oral candidiasis, etc.). The Indian licence records contain no approved indication text. |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 18 |
+| TxGNN Prediction Score | 0.9977 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 18 of 18) |
+| Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data for the original record is not avai
 
 The link to pneumocystosis is weak. *Pneumocystis jirovecii* has little or no ergosterol in its membrane and relies on cholesterol-type sterols scavenged from the host, so the azole target is largely absent. Posaconazole is not an established treatment for Pneumocystis pneumonia; first-line therapy remains trimethoprim-sulfamethoxazole.
 
-The very high TxGNN score (99.77%) most likely reflects network proximity to other antifungal indications in the knowledge graph, rather than a true biological rationale. It should be read as a hypothesis-generating signal only.
+The very high TxGNN score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a hypothesis-generating signal only.
 
 ---
 

@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Constipation disorder, dry eye syndrome, xerophthalmia (the India license records contain no approved indication text) |
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
-| TxGNN Prediction Score | 99.03% |
+| TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

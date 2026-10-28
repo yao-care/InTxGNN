@@ -6,9 +6,9 @@ nav_order: 462
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-14
-description: "Ketoconazole: predicted new indication Acne (evidence level L4). Approved use: Not stated in the licence records. The knowledge graph lists tinea pe…"
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
+description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Ketoconazole
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Ketoconazole: From Superficial and Systemic Fungal Infections to Acne
+## Ketoconazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **acne**, but the supporting ev
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records. The knowledge graph lists tinea pedis, tinea corporis, seborrheic dermatitis, cutaneous candidiasis, pityriasis versicolor, histoplasmosis, aspergillosis and others |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.80% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acne (disease) |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

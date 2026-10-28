@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Flupentixol: From Schizophrenia to Retinal Dystrophy
+## Flupentixol: From Schizophrenia to Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 Currently, detailed mechanism of action data is not available. Based on known information, flupentixol is a thioxanthene-class antipsychotic that acts as an antagonist at dopamine receptors (D1, D2, D3 and D5). Its use in schizophrenia (and depression) is established.
 
-No mechanistic link to inherited retinal degeneration has been identified. The high TxGNN score reflects a graph-based association only. No known pathway connects dopamine receptor antagonism to the disease-modifying biology of inherited retinal dystrophies.
+No mechanistic link to inherited retinal degeneration has been identified. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No known pathway connects dopamine receptor antagonism to the disease-modifying biology of inherited retinal dystrophies.
 
 Other predictions for this drug (for example Charcot-Marie-Tooth disease type 1G, congenital disorders of glycosylation, congenital brain malformations, glycine encephalopathy and several myopia subtypes) likewise have no supporting trials or literature. For the myopia subtypes, dopamine antagonism may even act against the generally protective effect of dopamine signalling. The predictions should be treated as hypotheses, not findings.
 
@@ -95,7 +95,7 @@ Pharmacology data show that flupentixol binds dopamine D1, D2, D3 and D5 recepto
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph-model score alone (Evidence Level L5). There are no clinical trials, no literature and no plausible mechanistic link between dopamine antagonism and inherited retinal dystrophy.
+The prediction rests on a TxGNN model (deep learning) score alone (Evidence Level L5), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature and no plausible mechanistic link between dopamine antagonism and inherited retinal dystrophy.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulatory source, which are currently missing and block safety screening

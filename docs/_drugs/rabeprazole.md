@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Rabeprazole
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 718
-evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-14
-description: "Rabeprazole: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, duodenal ulcer…"
-monitor_inn: "Rabeprazole"
-predicted_indications: ["lymphoadenopathic mastocytosis with eosinophilia"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Rabeprazole: known uses and market status in India; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Rabeprazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +32,67 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Rabeprazole: From Peptic Ulcer and Acid-Related Disease to Smouldering Systemic Mastocytosis
+<!-- known-uses-page -->
+<!-- description: Rabeprazole: known uses and market status in India; currently no new candidate indication -->
+## Rabeprazole: Known uses and market status in India
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Rabeprazole, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The two known uses are relations recorded in the knowledge graph, and no approval was found for either.
 
-Rabeprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be useful for **Smouldering systemic mastocytosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, duodenal ulcer, Zollinger-Ellison syndrome (the India licence records contain no approved indication text) |
-| Predicted New Indication | Smouldering systemic mastocytosis |
-| TxGNN Prediction Score | 99.44% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 20 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 2 |
+| Evidence level | Not applicable |
+| Market status in India | Marketed (valid licences on record: at least 20) |
+| Number of Registrations | at least 20 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Currently, detailed mechanism of action data is not available. Based on known information, rabeprazole is a proton pump inhibitor (a class that suppresses gastric acid secretion). Its efficacy in acid-related disease is established, and the knowledge graph already links it to systemic mastocytosis and mastocytosis.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-The link to the predicted indication is indirect. In mastocytosis, mast cells release excess histamine, which can drive gastric acid hypersecretion. Acid suppression can control these complications, but this is symptom control, not treatment of the underlying disease. The high score most likely reflects the close network proximity between smouldering systemic mastocytosis and the mastocytosis indications already listed for the drug.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-There is no evidence that rabeprazole reduces mast cell burden, affects KIT-driven proliferation, or slows progression in smouldering disease.
-
-The second-ranked prediction, **lymphoadenopathic mastocytosis with eosinophilia** (score 99.35%), follows the same reasoning. It is a subtype extension of the existing mastocytosis indications, not a new mechanism. There is no evidence that rabeprazole affects eosinophilia, lymphadenopathy or the underlying neoplastic process. It also has no trials or literature (evidence level L5, Hold).
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| Smouldering systemic mastocytosis |
+| lymphoadenopathic mastocytosis with eosinophilia |
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations and no cancelled ones. The compiled records contain no approved indication text. The main authorizations are:
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| 191472 | Rowet 20mg Tablet | strip of 10 tablets | Valid |
+| 198837 | Rastik-IT Capsule SR | strip of 10 capsule sr | Valid |
+| 96400 | Gasorab 20mg Tablet | strip of 10 tablets | Valid |
+| 199186 | Rabicred IV 20mg Injection | vial of 1 Injection | Valid |
+| 198012 | Rabiamp 20mg Injection | vial of 1 Injection | Valid |
+| 242288 | Wagus IT 20mg/150mg Capsule SR | strip of 10 capsule sr | Valid |
+| 191336 | Ravezole 20mg Tablet | strip of 10 tablets | Valid |
+| 84872 | Fast 20 Tablet | strip of 10 tablets | Valid |
+| 185636 | Rabinta 20mg Tablet | strip of 10 tablets | Valid |
+| 86126 | Far 20mg Tablet | strip of 10 tablets | Valid |
+| 249587 | Zobit 20mg Injection | vial of 1 Injection | Valid |
+| 189919 | Rabdon Tablet | strip of 10 tablets | Valid |
+| 184495 | Rabeloc 20 Tablet | strip of 10 tablets | Valid |
+| 107407 | Hotrab 20mg Tablet | strip of 10 tablets | Valid |
+| 186854 | Rabeteo 20mg Tablet | strip of 10 tablets | Valid |
+| 190876 | Rabiton 20mg Injection | vial of 1 Injection | Valid |
+| 197163 | Rabiprez 20mg Injection | vial of 1 Injection | Valid |
+| 225512 | Tivazol 20mg Tablet | strip of 10 tablets | Valid |
+| 140164 | Miraz DSR 20mg Tablet | strip of 10 tablet sr | Valid |
+| 184873 | Rablet 10 Tablet | strip of 15 tablets | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| 191472 | Rowet 20mg Tablet | Strip of 10 tablets | Not available |
-| 198837 | Rastik-IT Capsule SR | Strip of 10 sustained-release capsules | Not available |
-| 199186 | Rabicred IV 20mg Injection | Vial of 1 injection | Not available |
-| 184495 | Rabeloc 20 Tablet | Strip of 10 tablets | Not available |
-| 184873 | Rablet 10 Tablet | Strip of 15 tablets | Not available |
-
-Available forms include oral tablets, sustained-release capsules and tablets, and injectables.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -92,20 +101,6 @@ Available forms include oral tablets, sustained-release capsules and tablets, an
 
 Please refer to the package insert for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the TxGNN score, with no clinical trials or literature (L5). Any plausible benefit is symptomatic control of acid hypersecretion, which the existing mastocytosis indications already cover. It is not a new disease-modifying effect.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications from India Pharma, a blocking gap for safety screening
-- Mechanism of action data from DrugBank
-- Clinical or observational evidence on rabeprazole use in smouldering systemic mastocytosis, including any effect on mast cell burden or disease progression
-- Clarification of whether the prediction adds value beyond the existing mastocytosis indications
-- Route compatibility and similarity-to-original assessments, both still pending
-- A review of the long-term bone and liver safety signals, given the knowledge-graph contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

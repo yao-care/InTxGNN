@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Daclatasvir: predicted new indication Hepatitis B virus infection (evidence level L3). Approved use: Chronic hepatitis C virus infection"
 monitor_inn: "Daclatasvir"
-predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["hepatitis B virus infection", "HIV infectious disease", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Daclatasvir
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **Hepatitis B Virus Infection**
 |------|------|
 | Original Indication | Chronic hepatitis C virus infection |
 | Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 17 |
+| India Market Status | Marketed (valid licences: 17 of 17) |
+| Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,11 +61,11 @@ The TxGNN model predicts it may be effective for **Hepatitis B Virus Infection**
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, daclatasvir is a direct-acting antiviral that targets the HCV NS5A protein, part of the replication complex. It is used with other agents such as sofosbuvir for HCV, and its efficacy there is well established.
 
-The link to HBV is weak. HBV and HCV are both hepatotropic viruses, so they sit close together in the knowledge graph. But HBV is a DNA virus that replicates through reverse transcription, and it has no NS5A equivalent. Daclatasvir has no established anti-HBV activity. The very high TxGNN score most likely reflects network proximity between viral hepatitis nodes rather than a real pharmacological mechanism.
+The link to HBV is weak. HBV and HCV are both hepatotropic viruses. But HBV is a DNA virus that replicates through reverse transcription, and it has no NS5A equivalent. Daclatasvir has no established anti-HBV activity. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The clinical literature points the other way. Case reports and cohorts describe HBV reactivation or acute hepatitis B in HBV/HCV co-infected patients during daclatasvir-based therapy. This is a safety signal, not a therapeutic one.
 
-The other top predictions (HIV, hepatitis E, hepatitis A, Omsk hemorrhagic fever, Kyasanur forest disease, and animal or neurodevelopmental conditions) rest on even less evidence. They appear to reflect graph proximity or artifacts and are not pursued here.
+The other top predictions (HIV, hepatitis E, hepatitis A, Omsk hemorrhagic fever, Kyasanur forest disease, and animal or neurodevelopmental conditions) rest on even less evidence. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. They are not pursued here.
 
 ---
 

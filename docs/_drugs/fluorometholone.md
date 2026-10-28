@@ -4,17 +4,17 @@ title: Fluorometholone
 parent: Model Prediction Only (L5)
 nav_order: 365
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Uveitis and related ocular inflammatory conditions (iritis…"
 monitor_inn: "Fluorometholone"
-predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis", "lens-induced iridocyclitis"]
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
 ---
 
 # Fluorometholone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Uveitis and related ocular inflammatory conditions (iritis, iridocyclitis, atopic/vernal conjunctivitis, corneal ulcer) |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,12 +58,11 @@ but **no clinical trials and no publications** currently support this prediction
 
 Currently, detailed mechanism of action data is not available. Based on known information, fluorometholone is a synthetic glucocorticoid that acts on the glucocorticoid receptor (NR3C1). Its efficacy in ocular inflammation is established, and mechanistically it may be applicable to immune-mediated inflammation elsewhere.
 
-In theory, a glucocorticoid could suppress immune-mediated vasculitis. However, fluorometholone is formulated as a topical eye drop with minimal systemic exposure, so it is unlikely to reach concentrations relevant to a systemic vascular disease. The high graph score therefore reflects a computational association rather than a demonstrated clinical rationale.
+In theory, a glucocorticoid could suppress immune-mediated vasculitis. However, fluorometholone is formulated as a topical eye drop with minimal systemic exposure, so it is unlikely to reach concentrations relevant to a systemic vascular disease. The high score therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predictions of note.** The other nine predictions have no clinical trial support either. Three are close to the existing ocular indications and are better framed as research questions:
-- **Glaucomatocyclitic crisis** (score 99.82%): a recurrent anterior uveitis-like condition with raised intraocular pressure, where fluorometholone's lower IOP risk is relevant.
-- **Lens-induced iridocyclitis** (score 99.82%): anterior segment inflammation that arguably falls within the existing indication class.
-- **Punctate epithelial keratoconjunctivitis** (score 98.89%): the only prediction with any retrieved literature. It is the only one rated L4, but the two papers are indirect.
+- **Glaucomatocyclitic crisis** (score 0.9982): a recurrent anterior uveitis-like condition with raised intraocular pressure, where fluorometholone's lower IOP risk is relevant.
+- **Punctate epithelial keratoconjunctivitis** (score 0.9989): the only prediction with any retrieved literature. It is the only one rated L4, but the two papers are indirect.
 
 ## Clinical Trial Evidence
 

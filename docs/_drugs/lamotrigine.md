@@ -4,7 +4,7 @@ title: Lamotrigine
 parent: Model Prediction Only (L5)
 nav_order: 470
 evidence_level: L5
-indication_count: 9
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Lamotrigine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including partial epilepsy and Lennox-Gastaut syndrome)"
 monitor_inn: "Lamotrigine"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 # Lamotrigine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 |------|------|
 | Original Indication | Epilepsy (including partial epilepsy and Lennox-Gastaut syndrome) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -61,9 +61,9 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. This calms abnormal, hyperexcitable nerve firing, which explains its use in epilepsy and its potential to relieve neuropathic pain.
 
-The link to the predicted indication is weak. The supporting literature is about **trigeminal neuralgia** (a facial nerve pain condition), not tumours of the trigeminal nerve. There is no evidence that lamotrigine has antitumour activity. The high score most likely reflects the drug's network proximity to trigeminal neuralgia in the knowledge graph, rather than a true neoplasm indication.
+The link to the predicted indication is weak. The supporting literature is about **trigeminal neuralgia** (a facial nerve pain condition), not tumours of the trigeminal nerve. There is no evidence that lamotrigine has antitumour activity. The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as trigeminal neuralgia, rather than biological evidence of a true neoplasm indication.
 
-A closely related prediction, **trigeminal neuralgia** (ranked 2nd by TxGNN, score 99.89%), has far stronger support. It has two completed trials of lamotrigine, one of them a Phase 2/3 comparison against carbamazepine, and European Academy of Neurology guidance lists lamotrigine as an add-on or alternative option. Any development effort would more sensibly focus on that indication.
+A closely related prediction, **trigeminal neuralgia** (ranked 2nd by TxGNN, score 0.9989), has far stronger support. It has two completed trials of lamotrigine, one of them a Phase 2/3 comparison against carbamazepine, and European Academy of Neurology guidance lists lamotrigine as an add-on or alternative option. Any development effort would more sensibly focus on that indication.
 
 ---
 

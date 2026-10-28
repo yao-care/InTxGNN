@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tioconazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 838
-evidence_level: L3
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
 description: "Tioconazole: predicted new indication Vulvovaginitis (evidence level L3). Approved use: Vulvovaginal candidiasis"
@@ -14,7 +14,7 @@ predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic v
 # Tioconazole
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Support comes from **0 registered clinical trials** and **20 publications**, mos
 |------|------|
 | Original Indication | Vulvovaginal candidiasis |
 | Predicted New Indication | Vulvovaginitis |
-| TxGNN Prediction Score | 99.23% |
-| Evidence Level | L3 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 1 |
+| TxGNN Prediction Score | 0.9923 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 1 of 1) |
+| Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -61,8 +61,8 @@ Detailed mechanism of action data is not available in the compiled record. Based
 Vulvovaginitis is largely caused by Candida species, so the prediction is essentially the approved vulvovaginal candidiasis use under a broader label. It generalises the existing indication rather than opening a new disease area. The evidence does not extend to non-fungal vulvovaginitis (such as bacterial vaginosis or non-infectious causes), where an azole would not be expected to work. One small open-label study did report cure in trichomoniasis and mixed vaginal infections, but this is limited evidence.
 
 Two other predictions were also generated, with weaker support:
-- **Vulvitis** (score 99.20%, evidence level L3): the mechanism applies to candidal vulvitis, which usually accompanies vaginal candidiasis. The literature is the same set as for vulvovaginitis and does not address vulvitis as a separate condition. The high score likely reflects network proximity to the approved indication.
-- **Postmenopausal atrophic vaginitis** (score 99.19%, evidence level L5, Hold): no clear mechanistic link, because this condition is driven by estrogen deficiency rather than fungal infection. No trials or literature support it.
+- **Vulvitis** (score 0.9920, evidence level L3): the mechanism applies to candidal vulvitis, which usually accompanies vaginal candidiasis. The literature is the same set as for vulvovaginitis and does not address vulvitis as a separate condition. The high score likely reflects network proximity to the approved indication.
+- **Postmenopausal atrophic vaginitis** (score 0.9919, evidence level L5, Hold): no clear mechanistic link, because this condition is driven by estrogen deficiency rather than fungal infection. No trials or literature support it.
 
 ## Clinical Trial Evidence
 

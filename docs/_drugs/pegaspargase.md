@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pegaspargase
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 652
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Pegaspargase: predicted new indication Precursor lymphoblastic lymphoma/leukemia (evidence level L1). Approved use: Acute lymphoblastic leukemia"
 monitor_inn: "Pegaspargase"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
+description: "Pegaspargase: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hy… (evidence level L5). Approved use: Not …"
 ---
 
 # Pegaspargase
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Pegaspargase: From Acute Lymphoblastic Leukemia to Precursor Lymphoblastic Lymphoma/Leukemia
+## Pegaspargase: Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pegaspargase is a PEGylated L-asparaginase originally used to treat acute lymphoblastic leukemia (ALL).
-The TxGNN model predicts it may be effective for **precursor lymphoblastic lymphoma/leukemia**, which is essentially the same disease under a different name, so this is an established on-label use rather than a true repurposing. The direction is supported by **more than 30 registered clinical trials** and **20 publications**, including multiple completed Phase 3 trials of regimens that contain pegaspargase.
+The direction is supported by **more than 30 registered clinical trials** and **20 publications**, including multiple completed Phase 3 trials of regimens that contain pegaspargase.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia (approved indication text is not stated in the registration records) |
-| Predicted New Indication | Precursor lymphoblastic lymphoma/leukemia |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L1 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

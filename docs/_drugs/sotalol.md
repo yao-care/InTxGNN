@@ -4,17 +4,17 @@ title: Sotalol
 parent: Model Prediction Only (L5)
 nav_order: 785
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Sotalol: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Atrial fibrillation"
 monitor_inn: "Sotalol"
-predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 ---
 
 # Sotalol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Sotalol: From Atrial Fibrillation to Sick Sinus Syndrome 2 (Autosomal Dominant)
+## Sotalol: From Atrial Fibrillation to Sick Sinus Syndrome 2, Autosomal Dominant
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **sick sinus syndrome 2, autoso
 |------|------|
 | Original Indication | Atrial fibrillation |
 | Predicted New Indication | Sick sinus syndrome 2, autosomal dominant |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 5 |
+| India Market Status | Marketed (valid licences: 5 of 5) |
+| Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **sick sinus syndrome 2, autoso
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, sotalol combines beta-adrenergic blockade with potassium channel blockade (class III antiarrhythmic activity). Together these slow the sinus rate and atrioventricular conduction, which is why it is effective for atrial fibrillation.
 
-The predicted indication is not mechanistically reasonable. Sick sinus syndrome 2 is linked to HCN4 variants that cause sinus node dysfunction. Further slowing of sinus node activity would be expected to worsen the condition, and sotalol is generally contraindicated in sick sinus syndrome without a pacemaker. The high score most likely reflects network proximity in the knowledge graph (both conditions are rhythm disorders) rather than therapeutic plausibility.
+The predicted indication is not mechanistically reasonable. Sick sinus syndrome 2 is linked to HCN4 variants that cause sinus node dysfunction. Further slowing of sinus node activity would be expected to worsen the condition, and sotalol is generally contraindicated in sick sinus syndrome without a pacemaker. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (both conditions are rhythm disorders), not biological evidence or therapeutic plausibility.
 
 Other predictions in the list have no better support:
 - **Stroke disorder** (rank 4) is the only prediction with any evidence. The link is indirect, through rhythm control in atrial fibrillation, a major cause of cardioembolic stroke. It has not been shown that sotalol reduces stroke independently of anticoagulation.
@@ -147,7 +147,7 @@ The top prediction (sick sinus syndrome 2) rests on model score alone (L5), with
 - Package insert warnings and contraindications for the Indian products, which are currently missing and block safety screening
 - Detailed mechanism of action data (for example from DrugBank)
 - For the stroke direction, trials with stroke as a primary endpoint that separate any sotalol effect from anticoagulation
-- Review of whether the sick sinus syndrome prediction should be discarded as a likely knowledge-graph artefact
+- Review of whether the sick sinus syndrome prediction should be discarded as a likely TxGNN model (deep learning) artefact
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

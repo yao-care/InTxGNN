@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Abacavir
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 11
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
-description: "Abacavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 monitor_inn: "Abacavir"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Abacavir: predicted new indication feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Abacavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,85 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Abacavir: From HIV Infection to Simian Immunodeficiency Virus Infection
+## Abacavir: Nucleoside reverse transcriptase inhibitor → feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Abacavir is a nucleoside reverse transcriptase inhibitor originally used to treat HIV infection and AIDS.
-The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, a veterinary/animal-model condition,
-but there are **0 clinical trials** and only **1 publication** (an in vitro study), so the evidence is indirect and preclinical.
+Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI) used against HIV.
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, a veterinary condition,
+but the data compiled for this report contain **0 clinical trials** and only **1 publication**, an older in vitro study of a three-drug combination.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infectious disease; AIDS |
-| Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 9 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | feline acquired immunodeficiency syndrome |
+| TxGNN Prediction Score | 0.9979 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences: 9 of 9) |
+| Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, abacavir belongs to the nucleoside reverse transcriptase inhibitor (NRTI) class. It is phosphorylated inside cells to carbovir triphosphate, which terminates viral DNA chain elongation. This description comes from general knowledge of the drug class, not from the supplied data.
+Detailed mechanism of action data are not available in the data compiled for this report. Based on general knowledge, abacavir belongs to the NRTI class, which blocks the reverse transcriptase enzyme that HIV uses to copy its genetic material.
 
-SIV is a lentivirus closely related to HIV and uses the same reverse transcriptase-dependent replication cycle. Mechanistically, activity against SIV is plausible. The very high TxGNN score is consistent with this close biological similarity to the approved HIV indication.
+Feline immunodeficiency virus (FIV) is a lentivirus whose reverse transcriptase is related to that of HIV. For this reason, it is biologically plausible that NRTIs could act against FIV. The single publication found (2002) tested a combination of zidovudine, lamivudine and abacavir against FIV in vitro. Abacavir's own contribution cannot be separated from the combination.
 
-SIV infection is an animal-model/veterinary condition, not a human therapeutic target. This limits its value as a repurposing opportunity for human medicine. Two other predictions were also reviewed:
-- **Feline acquired immunodeficiency syndrome** (score 99.79%): FIV is also a reverse transcriptase-dependent lentivirus. One 2002 preclinical study tested a zidovudine + lamivudine + abacavir combination against FIV in vitro. It did not isolate abacavir's contribution. Evidence level L4.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.78%): No trials, no literature, and no clear mechanistic link. Evidence level L5. Any connection would be speculative.
+This is a veterinary indication with no direct human clinical relevance. The study does not directly establish efficacy of abacavir for feline AIDS in animals, so the evidence level is capped at L5.
+
+---
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility study / Review | Antiviral Therapy | Evaluated 16 approved anti-HIV drugs and one experimental drug (AMD3100) against HIV-2, SIV and SHIV strains to inform treatment and post-exposure prophylaxis |
+| [11684314](https://pubmed.ncbi.nlm.nih.gov/11684314/) | 2002 | Preclinical combination study (inferred from title) | Antiviral Research | Zidovudine, lamivudine and abacavir combination therapy was evaluated for suppression of FIV replication in vitro. The cat is discussed as an animal model for HIV. Full text was not reviewed. |
+
+---
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 7370 | A Bec L 600mg/300mg Tablet | Strip of 30 tablets | Not stated |
-| 108303 | Inbec Tablet | Bottle of 30 tablets | Not stated |
-| 1957 | Abamune Tablet | Strip of 30 tablets | Not stated |
-| 236242 | Virol 300mg Tablet | Bottle of 60 tablets | Not stated |
-| 2296 | Abamune L 600 mg/300 mg Tablet | Strip of 30 tablets | Not stated |
+| 7370 | A Bec L 600mg/300mg Tablet | Strip of 30 tablets | Not recorded |
+| 108303 | Inbec Tablet | Bottle of 30 tablets | Not recorded |
+| 1957 | Abamune Tablet | Strip of 30 tablets | Not recorded |
+| 236242 | Virol 300mg Tablet | Bottle of 60 tablets | Not recorded |
+| 2296 | Abamune L 600 mg/300 mg Tablet | Strip of 30 tablets | Not recorded |
 
-Nine valid single-ingredient registrations exist in total. Only the first five are listed here.
+---
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text)**: liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, pancreatitis, gallbladder disease, pyoureter, lactic acidosis, neutropenia, agranulocytosis, anemia (including macrocytic anemia), hypertriglyceridemia, obesity disorders, myopathy and other muscle diseases (including myositis, dermatomyositis and familial periodic paralysis).
-- **Drug Interactions**: 93 interactions were recorded. Moderate-level interactions include **naltrexone** and **orlistat**. Other recorded interacting drugs, whose severity is not classified, include metformin, omeprazole, pantoprazole, lansoprazole, morphine, prednisone, hydrocortisone, vancomycin, amphotericin B, glimepiride and rosiglitazone.
-- **Known class concern**: HLA-B*57:01-associated hypersensitivity is a recognised safety consideration for abacavir.
+- **Drug Interactions**: 93 interactions were recorded. The ones listed with a Moderate level are naltrexone and orlistat. The others shown have an unclassified level, including metformin, omeprazole, pantoprazole, lansoprazole, morphine, prednisone, hydrocortisone, vancomycin, amphotericin B and sulfasalazine.
+- **Other information**: Abacavir is known to carry a risk of HLA-B*5701-associated hypersensitivity. Package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the package insert for full safety information.
 
-Please refer to the package insert for full warnings and contraindications, as label text was not available for this report.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is an indirect in vitro study and a plausible NRTI mechanism. There are no clinical trials. SIV is an animal-model condition without a human treatment need, so there is no clear path to a human repurposing program. The feline and neurodevelopmental predictions are no stronger.
+The prediction rests on a model score and one in vitro combination study from 2002 that cannot isolate abacavir's effect. The indication is also veterinary, so it has no direct human therapeutic relevance.
 
 **To proceed, the following is needed:**
-- Clarification of whether any human-relevant use exists for an SIV indication, or whether it serves only as a research model
-- Package insert warnings and contraindications from the Indian regulatory sources (a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- Abacavir-specific (not combination) preclinical data in SIV or FIV models
-- Review of knowledge-graph links for the neurodevelopmental disorder prediction, if it is to be pursued
+- Studies that test abacavir alone against FIV, with in vivo data in cats
+- Confirmation of whether a veterinary development path is relevant to this programme
+- Mechanism of action data and package insert warnings and contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

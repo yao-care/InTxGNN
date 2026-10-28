@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cefpirome
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 156
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-14
-description: "Cefpirome: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the licence records compiled for this report (cefpirome…"
+description: "Cefpirome: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Cefpirome"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hemoglobinopathy", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Cefpirome
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cefpirome: From Bacterial Infections to Rheumatoid Arthritis
+## Cefpirome
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Cefpirome is a fourth-generation cephalosporin antibiotic, supplied in India as an injectable for bacterial infections.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but **no clinical trials and no publications** currently support this prediction.
-It is a computational signal only, with no plausible mechanism identified.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records compiled for this report (cefpirome is a cephalosporin antibacterial) |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 98.31% |
-| Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| Original Indication | Not recorded in the local data |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, cefpirome is a fourth-generation cephalosporin that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins. Its established role is in treating bacterial infections.
-
-No mechanistic link to rheumatoid arthritis has been established. Cefpirome has no known immunomodulatory or anti-inflammatory activity relevant to this autoimmune joint disease. The high score (0.983) reflects proximity in a knowledge graph, not pharmacological evidence.
-
-Other top predictions show the same pattern: osteoarthritis, osteoarthritis susceptibility, gout, and several rare skeletal dysplasias and genetic syndromes. These are mostly joint or skeletal conditions, which suggests the model is picking up graph-neighbourhood patterns rather than a real therapeutic effect. None of them has trials, literature, or a plausible mechanism.
 
 ## India Market Information
 
@@ -78,19 +62,6 @@ The licence records list 20 valid single-ingredient injectable registrations and
 
 Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction rests only on a graph-based model score. There are no clinical trials, no literature, and no plausible mechanistic link between a bacterial cell-wall inhibitor and rheumatoid arthritis. Safety label data are also missing.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications from the Indian regulator's records, which are needed for safety screening
-- Confirmed mechanism of action and approved indication text
-- Preclinical or mechanistic evidence of anti-inflammatory or immunomodulatory activity relevant to rheumatoid arthritis
-- A search for any clinical or observational data on cefpirome in inflammatory arthritis
-- A review of route compatibility, since all current products are injectables
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ethambutol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 327
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Ethambutol: predicted new indication Epiglottitis (evidence level L4). Approved use: Pulmonary tuberculosis"
 monitor_inn: "Ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
+description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ethambutol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Ethambutol: From Pulmonary Tuberculosis to Epiglottitis
+## Ethambutol: Epiglottitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are **0 clinical trials** and only **1 publication** (a case series on
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary tuberculosis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but there are **0 clinical trials** and only **1 publication** (a case series on
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ethambutol is an antimycobacterial agent that inhibits arabinosyl transferases involved in building the mycobacterial cell wall. Its efficacy in tuberculosis is well established as part of standard multidrug regimens.
 
-The only linked literature is a case series of laryngeal tuberculosis, in which the epiglottis was one of the affected sites and ethambutol was part of the treatment. The link is therefore indirect and driven by tuberculosis. There is no evidence that ethambutol is active against typical bacterial epiglottitis (for example *Haemophilus influenzae* type b or streptococci), which is not a mycobacterial disease.
+The only linked literature is a case series of laryngeal tuberculosis, in which the epiglottis was one of the affected sites and ethambutol was part of the treatment. The link is therefore indirect and driven by tuberculosis.
 
 The high TxGNN score most likely reflects network proximity to upper airway tuberculosis. At most, this would be an extension of the existing tuberculosis indication to a different anatomical site, not true repurposing.
 

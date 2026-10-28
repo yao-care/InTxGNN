@@ -6,9 +6,9 @@ nav_order: 455
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Isoxsuprine: predicted new indication Benign prostatic hyperplasia (evidence level L5). Approved use: Cerebrovascular disorder, vascular disease, Raynaud disease"
 monitor_inn: "Isoxsuprine"
-predicted_indications: ["benign prostatic hyperplasia (disease)", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "blue toe syndrome", "atheroembolism of kidney", "hemangioendothelioma", "angiodysplasia of stomach", "respiratory failure", "neurogenic thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection"]
+predicted_indications: ["benign prostatic hyperplasia (disease)", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "blue toe syndrome", "atheroembolism of kidney", "hemangioendothelioma", "angiodysplasia of stomach", "respiratory failure", "neurogenic thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection"]
+description: "Isoxsuprine: predicted new indication Benign prostatic hyperplasia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Isoxsuprine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Isoxsuprine: From Cerebrovascular and Peripheral Vascular Disease to Benign Prostatic Hyperplasia
+## Isoxsuprine: Benign prostatic hyperplasia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials and no directly relevant publications** currently suppo
 
 | Item | Content |
 |------|------|
-| Original Indication | Cerebrovascular disorder, vascular disease, Raynaud disease (from the knowledge graph; no approved indication text is available in the India licence data) |
-| Predicted New Indication | Benign prostatic hyperplasia |
-| TxGNN Prediction Score | 100.00% (0.999997) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Benign prostatic hyperplasia (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

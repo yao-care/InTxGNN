@@ -4,17 +4,17 @@ title: Palbociclib
 parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Not stated in the registration data compiled for this report"
 monitor_inn: "Palbociclib"
-predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brachydactyly-syndactyly syndrome", "myeloid leukemia", "multiple endocrine neoplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hyperthyroxinemia", "Prinzmetal angina"]
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 ---
 
 # Palbociclib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Palbociclib is a CDK4/6 inhibitor used in hormone receptor-positive breast cance
 |------|------|
 | Original Indication | Not stated in the registration data compiled for this report; palbociclib is a CDK4/6 inhibitor used in HR+/HER2- breast cancer |
 | Predicted New Indication | Hyperthyroidism |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 3 |
+| India Market Status | Marketed (valid licences: 3 of 3) |
+| Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

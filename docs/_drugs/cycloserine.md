@@ -48,17 +48,17 @@ This is a computational prediction only and should be treated as a hypothesis.
 |------|------|
 | Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 10 |
+| India Market Status | Marketed (valid licences: 10 of 10) |
+| Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, cycloserine is a D-alanine analogue that inhibits bacterial cell wall synthesis, and its efficacy in drug-resistant tuberculosis is established. It is also known to act as a partial agonist at the glycine site of the NMDA receptor.
 
-A link between this pharmacology and irritable bowel syndrome (for example through the gut-brain axis or visceral hypersensitivity) is speculative. No data compiled for this report supports it. The high TxGNN score (rank 1382) reflects a pattern in the knowledge graph, not demonstrated efficacy.
+A link between this pharmacology and irritable bowel syndrome (for example through the gut-brain axis or visceral hypersensitivity) is speculative. No data compiled for this report supports it. The high TxGNN score (rank 1382) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or demonstrated efficacy.
 
 Other predicted indications were also reviewed (acne, gastroparesis, conjunctivitis, insomnia, pharyngitis, nasal cavity disease). None has clinical trial support. For insomnia, the available literature points to cycloserine **causing** insomnia and psychosis, which is a safety signal against that use.
 

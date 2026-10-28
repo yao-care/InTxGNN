@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
-description: "Demeclocycline: predicted new indication Chronic ethmoidal sinusitis (evidence level L5). Approved use: Bacterial infections"
 monitor_inn: "Demeclocycline"
 predicted_indications: ["chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
+last_modified_at: 2026-10-27
+description: "Demeclocycline: predicted new indication chronic ethmoidal sinusitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Demeclocycline
@@ -33,69 +33,87 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Demeclocycline: From Bacterial Infections to Chronic Ethmoidal Sinusitis
+## Demeclocycline: Tetracycline-class antibiotic → chronic ethmoidal sinusitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Demeclocycline is a tetracycline-class antibiotic, originally used to treat bacterial infections such as urinary tract infection, bronchitis, gonorrhea and pharyngitis.
-The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**,
-but at present there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on computation alone.
+Demeclocycline is a tetracycline-class antibiotic.
+The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**, with a score of 0.9914.
+**No clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (urinary tract infection, bronchitis, anthrax, staphylococcal infection, gonorrhea, pharyngitis and others; the approved indication text on the Indian licences is blank, so this list comes from the knowledge graph) |
-| Predicted New Indication | Chronic ethmoidal sinusitis |
-| TxGNN Prediction Score | 99.14% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | chronic ethmoidal sinusitis |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 2 |
+| India Market Status | Marketed (valid licences: 2 of 2) |
+| Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
-Other predictions for this drug are chronic rhinosinusitis (99.09%) and paranasal sinus neoplasm (99.05%). Neither has any clinical trials or literature either.
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, demeclocycline is a member of the tetracycline class of antibiotics. Its efficacy in bacterial infections of the respiratory tract and other sites is the basis of its original use, and mechanistically it may be applicable to chronic ethmoidal sinusitis.
+Detailed mechanism of action data for demeclocycline is not available in the data compiled for this report. Based on general knowledge, demeclocycline belongs to the tetracycline class of antibiotics, which act against a broad range of bacteria. Members of this class are also reported to have anti-inflammatory and matrix metalloproteinase-inhibiting properties.
 
-Plausible links include antibacterial activity against sinus pathogens, and the anti-inflammatory and matrix metalloproteinase-inhibiting properties of the tetracycline class. The original indications include upper airway infections such as bronchitis and pharyngitis, which offer only weak indirect plausibility for sinus disease. None of these links is supported by trial or literature data compiled for this report.
+Chronic ethmoidal sinusitis is a long-standing inflammation of the ethmoid sinuses, often with bacterial involvement. In theory, antibacterial and immunomodulatory activity could be relevant to this condition. A closely related condition, chronic rhinosinusitis, is also among the model's predictions.
 
-The high TxGNN score is a computational prediction only and is not clinical evidence. The predicted indication is closely related to chronic rhinosinusitis, which was also predicted. The third prediction, paranasal sinus neoplasm, has low biological plausibility for an antibiotic. Its high score likely reflects network proximity to sinus-related diseases rather than a true therapeutic signal.
+These links are plausible but are not supported by any trial or publication in the compiled data. The score of 0.9914 is a computational output, not clinical evidence.
+
+---
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+---
+
+## Literature Evidence
+
+Currently no related literature available.
+
+---
 
 ## India Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 124393 | Ledermycin 150mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available data |
-| 122118 | Ledermycin 300mg Tablet (Pfizer Ltd) | Strip of 10 tablets | Not stated in the available data |
+| 124393 | Ledermycin 150mg Tablet | Strip of 10 tablets | Not recorded |
+| 122118 | Ledermycin 300mg Tablet | Strip of 10 tablets | Not recorded |
 
-Both licences are valid single-ingredient oral products.
+Both products are single-ingredient oral tablets from Pfizer Ltd, and both licences are currently valid.
+
+---
 
 ## Safety Considerations
 
-- **Contraindications (from the knowledge graph, not label text)**: kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and diabetes insipidus (including neurohypophyseal and central forms).
-- **Drug Interactions**: 154 interactions were identified. The sample reviewed included mostly Moderate-level interactions:
+- **Drug Interactions**: 154 interactions were identified. The listed examples include:
   - **Major**: Vitamin A.
-  - **Moderate**: Amoxicillin, balsalazide, and polyvalent cation products (calcium phosphate, calcium acetate, magnesium oxide, magnesium sulfate, magnesium chloride, zinc sulfate, zinc acetate, potassium citrate). Several insulin products are also listed (aspart, degludec, detemir, glargine, glulisine, human isophane, human regular, human inhalation).
+  - **Moderate**: Amoxicillin, balsalazide, calcium salts (phosphate, acetate), magnesium salts (oxide, sulfate, chloride), zinc salts (sulfate, acetate), potassium citrate, and several insulin products (aspart, degludec, detemir, glargine, glulisine, human).
   - **Minor**: Mannitol.
 
-Package insert warnings and contraindications have not been obtained. Please refer to the package insert for the full safety information.
+For warnings and contraindications, please refer to the package insert.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no supporting clinical trials or publications (Evidence Level L5). The package insert safety data are also missing, so safety screening cannot proceed.
+The prediction is supported only by a model score, with no clinical trials or publications on chronic ethmoidal sinusitis. Package-insert safety data and mechanism of action data are also missing, so a further decision is premature.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian products (a blocking gap)
+- A literature and trial search directly on demeclocycline in chronic ethmoidal sinusitis and chronic rhinosinusitis
 - Mechanism of action data for demeclocycline
-- A literature and trial search on tetracycline-class antibiotics in chronic sinusitis, to establish whether any real-world or preclinical evidence exists
-- A review of the approved indications on the Indian licences, which are currently blank
-- A safety assessment of the knowledge-graph contraindications (especially kidney disease and *C. difficile* colitis) against the intended sinusitis population
+- Package insert warnings and contraindications for the Indian products
+- A review of interaction risks, especially with polyvalent cations (calcium, magnesium, zinc), vitamin A and insulin
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

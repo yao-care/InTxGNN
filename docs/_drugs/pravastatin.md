@@ -4,17 +4,17 @@ title: Pravastatin
 parent: Moderate Evidence (L3-L4)
 nav_order: 695
 evidence_level: L4
-indication_count: 9
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Pravastatin: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Not stated in the India licence records. The knowledge graph lists hy…"
 monitor_inn: "Pravastatin"
-predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-## Pravastatin: From Hyperlipidemia and Atherosclerotic Disease to Homozygous Familial Hypercholesterolemia
+## Pravastatin: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pravastatin is a statin (HMG-CoA reductase inhibitor) originally used for lipid disorders such as hypertriglyceridemia and hyperlipoproteinemia, and for atherosclerosis and stroke-related conditions.
-The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia (HoFH)**, but the data compiled for this report contain **1 clinical trial** (which does not test pravastatin) and **12 publications** (mostly reviews of other lipid-lowering drugs), so direct support is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the India licence records. The knowledge graph lists hypertriglyceridemia, stroke, cerebrovascular disorder, cerebral infarction, atherosclerosis, familial combined hyperlipidemia and hyperlipoproteinemia |
-| Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | HIV infectious disease |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| India Market Status | ✓ Marketed |
-| Number of Registrations | 4 |
+| India Market Status | Marketed (valid licences: 4 of 4) |
+| Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +58,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 There is an important limitation. Statin response depends on residual LDL receptor activity. In homozygous FH, particularly receptor-negative patients, the effect is expected to be limited. One review in the data (Prescrire, 2004) also states that statins are not very effective in homozygous FH.
 
-The same prediction approach also ranks **familial hypercholesterolemia (heterozygous/general)** much more strongly supported (evidence level L2, score 99.34%). Pediatric studies show pravastatin lowers LDL-C in FH, including a placebo-controlled study in 72 children and a 20-year follow-up of statins in children with FH. That use is largely an extension of its existing lipid-lowering role rather than a novel repurposing.
+Pediatric studies show pravastatin lowers LDL-C in FH, including a placebo-controlled study in 72 children and a 20-year follow-up of statins in children with FH. That use is largely an extension of its existing lipid-lowering role rather than a novel repurposing.
 
 ## Clinical Trial Evidence
 

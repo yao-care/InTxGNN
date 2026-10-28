@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Prochlorperazine: From Schizophrenia to Retinal Dystrophy (Top TxGNN Prediction, No Supporting Evidence)
+## Prochlorperazine: From Schizophrenia to retinal dystrophy with or without extraocular anomalies (Top TxGNN Prediction, No Supporting Evidence)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,19 @@ The only prediction with any literature is **manic bipolar affective disorder** 
 |------|------|
 | Original Indication | Schizophrenia (the India licence records contain no indication text) |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | ✓ Marketed |
+| India Market Status | Marketed (valid licences on record: at least 20) |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 
-For comparison, the only prediction with literature is manic bipolar affective disorder (score 99.98%, Evidence Level L4, flagged as a research question rather than a go decision).
+For comparison, the only prediction with literature is manic bipolar affective disorder (score 0.9998, Evidence Level L4, flagged as a research question rather than a go decision).
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Prochlorperazine is known as a phenothiazine D2 dopamine receptor antagonist, and its efficacy in schizophrenia and in nausea, vomiting and agitation is established.
 
-**Retinal dystrophy (top-ranked prediction):** No mechanistic link has been identified. Inherited retinal degeneration is a genetic condition, and a D2 antagonist has no plausible disease-modifying pathway. The very high score is likely a graph-based artefact common to rare genetic diseases. The same holds for the other top-ranked predictions: hydranencephaly, congenital disorder of glycosylation with defective fucosylation, X-linked myopia, Charcot-Marie-Tooth disease type 1G, perisylvian polymicrogyria, syndromic myopia, female-limited X-linked myopia 26, and atypical glycine encephalopathy. All have no trials, no literature and no plausible mechanism.
+**Retinal dystrophy with or without extraocular anomalies (top-ranked prediction):** No mechanistic link has been identified. Inherited retinal degeneration is a genetic condition, and a D2 antagonist has no plausible disease-modifying pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same holds for the other top-ranked predictions: hydranencephaly, congenital disorder of glycosylation with defective fucosylation, X-linked myopia, Charcot-Marie-Tooth disease type 1G, perisylvian polymicrogyria, syndromic myopia, female-limited X-linked myopia 26, and atypical glycine encephalopathy. All have no trials, no literature and no plausible mechanism.
 
 **Manic bipolar affective disorder:** This is biologically plausible. D2 antagonism underlies the antipsychotic efficacy seen in acute mania, and prochlorperazine is already used for psychosis and agitation. However, newer antipsychotics are the standard of care, so the incremental value of prochlorperazine is unclear.
 
