@@ -19,7 +19,7 @@ Drug repurposing predictions for India India Pharma-approved drugs using the TxG
 
 | Item | Count |
 |------|------|
-| **Drug Reports** | 901 |
+| **Drug Reports** | 884 |
 | **Total Predictions** | 2,181,255 |
 | **Unique Drugs** | 1,178 |
 | **Unique Indications** | 17,041 |
