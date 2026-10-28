@@ -3,9 +3,9 @@ layout: default
 title: "Abemaciclib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Abemaciclib. 1 predicted indications."
+description: "Health news related to Abemaciclib. 0 predicted indications."
 permalink: /news/abemaciclib/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Abemaciclib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Abemaciclib?">
-<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Abemaciclib</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,20 +26,17 @@ This page combines the AI-predicted indications for Abemaciclib with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Rheumatoid arthritis</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/abemaciclib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (2)
 
-### [Europe Builds a Network to Bring AI Into Heart Care](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
+### [Chronic Joint Pain and Musculoskeletal Sequelae in Ebola Survivors](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHRMb1h0cVhPMkFDQlJVX1FpbXJ2NEZCQk1HQTY0T3NfUFp1enpmdl9VZlhyWTRnUGE4b2diY1NUNkNtVUdQdjI4OHlUam9iX3c1dF90RXF6MVNZSUdFVktwbHJkempibDBMMFNLRGFoSENTd3B2N0JaTWZwbGJyOVFVb1JaRGU1RnJnMzRZNFVSbGNqY0JnUXZUOHFOdFhKS3NVSUZfVzJPeXJvc0VKOHpB?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+2026-10-28 <span class="news-indication-tag">joint pain</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHRMb1h0cVhPMkFDQlJVX1FpbXJ2NEZCQk1HQTY0T3NfUFp1enpmdl9VZlhyWTRnUGE4b2diY1NUNkNtVUdQdjI4OHlUam9iX3c1dF90RXF6MVNZSUdFVktwbHJkempibDBMMFNLRGFoSENTd3B2N0JaTWZwbGJyOVFVb1JaRGU1RnJnMzRZNFVSbGNqY0JnUXZUOHFOdFhKS3NVSUZfVzJPeXJvc0VKOHpB?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "Niclosamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Niclosamide. Original indication: he TxGNN model predicts it may be effective for **.... 1 predicted indications."
+description: "Health news related to Niclosamide. Original indication: he TxGNN model predicts it may be effective for **.... 10 predicted indications."
 permalink: /news/niclosamide/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Niclosamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Niclosamide?">
-<strong>Niclosamide</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Niclosamide</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,22 +27,23 @@ This page combines the AI-predicted indications for Niclosamide with the latest 
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model predicts it may be effective for **heart disease**, but **no clinical trials** are registered and the supporting literature is almost entirely preclinical or indirect.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Heart disease</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li class="indication-matched">heart disease<span class="indication-tag">📰 heart disease</span></li>
+<li>Laubry-Pezzi syndrome</li>
+<li>Pierre Robin syndrome associated with a chromosomal anomaly</li>
+<li>genetic syndromic Pierre Robin syndrome</li>
+<li>partial deletion of the long arm of chromosome 7</li>
+<li>orofacial clefting syndrome</li>
+<li>pulmonary valve disease</li>
+<li>interventricular septum aneurysm</li>
+<li>Jeune syndrome situs inversus</li>
+<li>disorder of fucoglycosan synthesis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/niclosamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Europe Builds a Network to Bring AI Into Heart Care](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
-
----
+## Related News (1)
 
 ### [Abnormal Postpartum BP Linked to Higher Long-Term CVD Risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 5 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>5 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
@@ -89,14 +89,6 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3E2MFV2
 2026-10-27
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
-
----
-
-### [Most people globally face 'high genetic risk' for three common diseases: Study - The Hindu](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1NSY3ViekM4T05VQnYyeWtaWHpndFEyMTRjZ2pMYVJlcmVXcE5BRzA3Y3YyeVVRcFJoMjBwR0Q2bV9td1hfMjd5aTVtWUgtVVllc1piNU94NUdPQWNoLUxsaUtYTC1kOUZDdlUxVEVFcG1Hb1BLSTRnM2wzdW9FTEZnNkc4bVlWaVo5M2xKelRGMTI1U0VRaVotbHl4cHhmZ0V2QUJTY3ZOZUgzYlhzMk1ReEplMzRST1pwRFBNNUtfWXhGTE1YLVNCTmMyOGJxTEHSAdgBQVVfeXFMTnNPN3kxY2h3b290anVkOUg1anY1TlhISm9McGVWTkFRZmw1QkZLNTFrNlNIWFpEcVNjOWFvOV9fc2pTbEZCT2loOGwxREhOT0YxZDY0UlZMS2hSdmZqYndDUWI5elpCa052Y0JkNXJhWXJhWTdXQmVtOE1KbnFRVjNQdXFpVUNNdEtZdnprYl95ZjZHWlg1aDZsYXdnaUNfbFQ2VlRqUnY4bkQ2T0ZFbVVYcThHUVB4Mkt2eVZWX1o4TzN0N1JPOUtrME83aTVfYVlUV01Lczlh?oc=5)
-
-2026-10-26
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ1NSY3ViekM4T05VQnYyeWtaWHpndFEyMTRjZ2pMYVJlcmVXcE5BRzA3Y3YyeVVRcFJoMjBwR0Q2bV9td1hfMjd5aTVtWUgtVVllc1piNU94NUdPQWNoLUxsaUtYTC1kOUZDdlUxVEVFcG1Hb1BLSTRnM2wzdW9FTEZnNkc4bVlWaVo5M2xKelRGMTI1U0VRaVotbHl4cHhmZ0V2QUJTY3ZOZUgzYlhzMk1ReEplMzRST1pwRFBNNUtfWXhGTE1YLVNCTmMyOGJxTEHSAdgBQVVfeXFMTnNPN3kxY2h3b290anVkOUg1anY1TlhISm9McGVWTkFRZmw1QkZLNTFrNlNIWFpEcVNjOWFvOV9fc2pTbEZCT2loOGwxREhOT0YxZDY0UlZMS2hSdmZqYndDUWI5elpCa052Y0JkNXJhWXJhWTdXQmVtOE1KbnFRVjNQdXFpVUNNdEtZdnprYl95ZjZHWlg1aDZsYXdnaUNfbFQ2VlRqUnY4bkQ2T0ZFbVVYcThHUVB4Mkt2eVZWX1o4TzN0N1JPOUtrME83aTVfYVlUV01Lczlh?oc=5)
 
 ---
 

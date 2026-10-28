@@ -9,8 +9,8 @@ nav_exclude: true
 <html>
 <meta charset="utf-8">
 <title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/ferrous-bisglycinate/">
-<meta http-equiv="refresh" content="0; url=/drugs/ferrous-bisglycinate/">
-<script>location="/drugs/ferrous-bisglycinate/"</script>
-<a href="/drugs/ferrous-bisglycinate/">/drugs/ferrous-bisglycinate/</a>
+<link rel="canonical" href="{{ site.url }}/news/">
+<meta http-equiv="refresh" content="0; url=/news/">
+<script>location="/news/"</script>
+<a href="/news/">/news/</a>
 </html>

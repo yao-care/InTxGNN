@@ -3,7 +3,7 @@ layout: default
 title: "Entacapone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Entacapone. 4 predicted indications."
+description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>5 news articles</strong>, with 4 predicted indications.
+<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,17 +26,39 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (4)</strong>:<ul>
+<li><strong>Predicted indications (10)</strong>:<ul>
 <li>PLA2G6-associated neurodegeneration</li>
-<li>Paralysis agitans, juvenile, of Hunt</li>
+<li>Rasmussen subacute encephalitis</li>
+<li>myelitis</li>
+<li>paralysis agitans, juvenile, of Hunt</li>
+<li>transaldolase deficiency</li>
+<li>lethal infantile mitochondrial myopathy</li>
 <li>Lewy body dementia</li>
-<li>Progressive supranuclear palsy-corticobasal syndrome</li>
+<li>fructose-1,6-bisphosphatase deficiency</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis</li>
+<li>progressive supranuclear palsy-corticobasal syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Aspirin Lowers Dementia Risk in High Platelet Genetic Group](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
+
+---
+
+### [Dementia cases in US projected to rise dramatically by 2050, study finds - The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
+
+---
 
 ### [Study Says Air Pollution May Be Harming Your Brain And Causing Dementia; Here Is What Experts Have To Say - Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
 
@@ -46,35 +68,11 @@ Source: [Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9
 
 ---
 
-### [Column | At 80, he’s a top dementia expert. Here’s how he keeps his brain healthy. - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
+### [Dementia not a normal part of ageing, early recognition key: experts - DT Next](https://news.google.com/rss/articles/CBMimAFBVV95cUxQenNnWml0blB3OWljWFRjekdNYWQzUXAxa3ZNRk9yUmJKT3JuV1FFYUxBWU9RQy13UlpHX2RkZFZteFdteklZZUViQ2pFQXRGellhWG9fZC1Bd1I5eTFHRmN2NnJHR1MxRWlueXNLRnpWSWhiTlVwc2k5MXROY3ZDZWJpZmFXNkhwQlRoMmhUNmRaOUJPeFpaYdIBpgFBVV95cUxNaVBZWHk4bU1aNGNPUzl1WThydVRIR1FXVVo5RVV4QVlSdjNHbmJGWVhKVnM5WUthOTk1d2VtX2dfOG5Qdi00cUhJOXdhT3RDN3E1cGxHVHpld3QtQ3M3VVdyNHpLejJHdEJkRGtUM2pfNFJseFh3Rm5RM08tZXlubEVuSTdpY2xib1c0b28wY25kVmJxLVhDRWRDOTB5UXlfTV9tWW9R?oc=5)
 
-2026-10-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
-
----
-
-### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Neurology Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbk16TVFNbEhVaDVyS1dIR3JHeEFMcUtIVFRkN184OVJxM3NYN0t1eXAweTZNYlVXUzlGTG92RmRkUU5yOVd6WHdRYnZ3VUtXY0VBSFVXTVhIVG40LUJhZ09EUkFpMHg0QkpwbHBVNWdFb3ZJYWFrdllpZHFqRjhEdHAydEtoMzJ5dkJDYWNqNThDemJ1ODFyU0ZyS2xoekNfRi1DMTNQOE5hTGc?oc=5)
-
-2026-10-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Neurology Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbk16TVFNbEhVaDVyS1dIR3JHeEFMcUtIVFRkN184OVJxM3NYN0t1eXAweTZNYlVXUzlGTG92RmRkUU5yOVd6WHdRYnZ3VUtXY0VBSFVXTVhIVG40LUJhZ09EUkFpMHg0QkpwbHBVNWdFb3ZJYWFrdllpZHFqRjhEdHAydEtoMzJ5dkJDYWNqNThDemJ1ODFyU0ZyS2xoekNfRi1DMTNQOE5hTGc?oc=5)
-
----
-
-### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span>
-
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
-
----
-
-### [What is the Link Between PMOS and Alzheimer’s Disease?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">alzheimer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
+Source: [DT Next](https://news.google.com/rss/articles/CBMimAFBVV95cUxQenNnWml0blB3OWljWFRjekdNYWQzUXAxa3ZNRk9yUmJKT3JuV1FFYUxBWU9RQy13UlpHX2RkZFZteFdteklZZUViQ2pFQXRGellhWG9fZC1Bd1I5eTFHRmN2NnJHR1MxRWlueXNLRnpWSWhiTlVwc2k5MXROY3ZDZWJpZmFXNkhwQlRoMmhUNmRaOUJPeFpaYdIBpgFBVV95cUxNaVBZWHk4bU1aNGNPUzl1WThydVRIR1FXVVo5RVV4QVlSdjNHbmJGWVhKVnM5WUthOTk1d2VtX2dfOG5Qdi00cUhJOXdhT3RDN3E1cGxHVHpld3QtQ3M3VVdyNHpLejJHdEJkRGtUM2pfNFJseFh3Rm5RM08tZXlubEVuSTdpY2xib1c0b28wY25kVmJxLVhDRWRDOTB5UXlfTV9tWW9R?oc=5)
 
 ---
 

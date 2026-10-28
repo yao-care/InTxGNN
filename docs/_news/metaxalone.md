@@ -3,9 +3,9 @@ layout: default
 title: "Metaxalone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Metaxalone. 1 predicted indications."
+description: "Health news related to Metaxalone. 3 predicted indications."
 permalink: /news/metaxalone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Metaxalone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Metaxalone?">
-<strong>Metaxalone</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Metaxalone</strong> currently has <strong>2 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,10 @@ This page combines the AI-predicted indications for Metaxalone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Infectious otitis media</li>
+<li><strong>Predicted indications (3)</strong>:<ul>
+<li>infectious otitis media</li>
+<li class="indication-matched">endocarditis<span class="indication-tag">📰 endocarditis</span></li>
+<li>endocardial fibroelastosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metaxalone/' | relative_url }}">View full drug report →</a></p>

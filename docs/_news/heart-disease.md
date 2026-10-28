@@ -3,9 +3,9 @@ layout: default
 title: "heart disease News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease. 2 articles, 35 related drugs."
+description: "Health news about heart disease. 1 articles, 35 related drugs."
 permalink: /news/heart-disease/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # heart disease News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 35 related drugs.
+<strong>heart disease</strong> currently has <strong>1 news articles</strong> and 35 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -62,15 +62,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (2)
-
-### [Europe Builds a Network to Bring AI Into Heart Care](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
-
-2026-10-27
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
-
----
+## Related News (1)
 
 ### [Abnormal Postpartum BP Linked to Higher Long-Term CVD Risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
 

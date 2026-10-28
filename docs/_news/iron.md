@@ -3,7 +3,7 @@ layout: default
 title: "Iron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Iron. 1 predicted indications."
+description: "Health news related to Iron. 6 predicted indications."
 permalink: /news/iron/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,13 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Plummer-Vinson syndrome (the highest-scoring prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia, has no supporting evidence and is not assessed here)</li>
+<li><strong>Predicted indications (6)</strong>:<ul>
+<li>vitamin B12- and folate-independent constitutional megaloblastic anemia</li>
+<li>Plummer-Vinson syndrome</li>
+<li>non-syndromic esophageal malformation</li>
+<li>biotin metabolic disease</li>
+<li>vitamin deficiency disorder</li>
+<li>esophageal disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
@@ -35,11 +40,11 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (1)
 
-### [‘Ferritin face’: are social media claims about iron deficiency fact – or fiction? - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
+### [Do you have 'ferritin face'? How to spot the signs of low iron, from dark circles to brittle nails - Harper's BAZAAR](https://news.google.com/rss/articles/CBMifEFVX3lxTE8tUWtmY2w2RTE1V2JHZDZEcklocFJFdU4wTmdEcXh1M3czNGtqck5lZXl4Rzc0SmNqcC03Xy1zZVJFcUdMWW9LSjZ5MVh2NkppTUllN2hLM2RObmVucXgzd3J1Mk5pTGl5eTJYb3dWbE5zUnI0LXpSVjNDU1Q?oc=5)
 
 2026-10-28 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2J4QmM3eTRVWlNuYVJ4WGJyU3phN1p4WElxREl2TU96TmdpdlRkbzhkdkxJNi1PTmwzWHBjcHJOUlFCYmZQUUE1MzdYcTNlcVJ0QXpaNUt5TUkwNFJZb3o5cm9WaWJYZEswM25YYWVpS3FJRmJGaDN5d1BhckFEZXFWdVRBXzVoSUMyU1BuMHVoSnJqRW5fZ2xXN0RKZw?oc=5)
+Source: [Harper's BAZAAR](https://news.google.com/rss/articles/CBMifEFVX3lxTE8tUWtmY2w2RTE1V2JHZDZEcklocFJFdU4wTmdEcXh1M3czNGtqck5lZXl4Rzc0SmNqcC03Xy1zZVJFcUdMWW9LSjZ5MVh2NkppTUllN2hLM2RObmVucXgzd3J1Mk5pTGl5eTJYb3dWbE5zUnI0LXpSVjNDU1Q?oc=5)
 
 ---
 
