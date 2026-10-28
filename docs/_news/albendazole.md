@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Albendazole. 1 predicted indications."
 permalink: /news/albendazole/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Albendazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>20 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>19 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (20)
+## Related News (19)
 
-### [Single-cell sequencing data shows how pancreatic cancer tumors evolve to resist therapy - Drug Discovery News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRndPakRwZHBVV0VRd04xVVQ5dk12YkRwQk1qbEtrck0wSTYyeFFFek8yTkNOcjNXcUJRNlJrT1k0QlVpUG1SdVB3MVpRLTUxNGZGYjFDd2ZlRWtiLWtjb2lMa0RNT3ZQb0tVQ1NHTExtaFRpN2hZT3N0LVk2T1VrUWVlbTZhcU9YRW9zbW1QUGkzZ1FhcjV0VHhvN3IydHJaLS1JdXBLVUNYREM3eE5ESXQ1bEluYm84dm1zaUw1T3drZmlsaWc?oc=5)
+### [Early breast cancer: How to make space for treatment without losing sight of yourself - The Hans India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm1BWnNhZTdSbml4SzFncjhudm1iZ3RKRWhJcDI4YVJwRlFWTG1oMDF0cEVBUGVnZ2kxSnU5Q2NBRzBCOThxa1ZaMzZwYWVRYzZaYVZJalo4TTFVb2RzUlF3cDFobFhPdURUakNscmtHemJQd3VGekNSU1BqRWR6bDlQbFluSEVzaHJ0NTlOcDVvY25aWExmOEpNNnZXb1JmbVVqbFg4b3JKMVl6Q0hhaUNvVmtuWEFwYVQ5UFZxdE1TRmFEX0docXd0enl2cGRhMmc?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Drug Discovery News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRndPakRwZHBVV0VRd04xVVQ5dk12YkRwQk1qbEtrck0wSTYyeFFFek8yTkNOcjNXcUJRNlJrT1k0QlVpUG1SdVB3MVpRLTUxNGZGYjFDd2ZlRWtiLWtjb2lMa0RNT3ZQb0tVQ1NHTExtaFRpN2hZT3N0LVk2T1VrUWVlbTZhcU9YRW9zbW1QUGkzZ1FhcjV0VHhvN3IydHJaLS1JdXBLVUNYREM3eE5ESXQ1bEluYm84dm1zaUw1T3drZmlsaWc?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm1BWnNhZTdSbml4SzFncjhudm1iZ3RKRWhJcDI4YVJwRlFWTG1oMDF0cEVBUGVnZ2kxSnU5Q2NBRzBCOThxa1ZaMzZwYWVRYzZaYVZJalo4TTFVb2RzUlF3cDFobFhPdURUakNscmtHemJQd3VGekNSU1BqRWR6bDlQbFluSEVzaHJ0NTlOcDVvY25aWExmOEpNNnZXb1JmbVVqbFg4b3JKMVl6Q0hhaUNvVmtuWEFwYVQ5UFZxdE1TRmFEX0docXd0enl2cGRhMmc?oc=5)
+
+---
+
+### [Breast Cancer In Younger Women: Experts Call For Greater Awareness And Early Detection - BW Healthcare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [BW Healthcare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
 
 ---
 
@@ -56,14 +64,6 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0p2
 2026-10-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
-
----
-
-### [Impact of Digital Breast Tomosynthesis on Invasive Interval Breast Cancer Rate - The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
 
 ---
 
@@ -115,6 +115,22 @@ Source: [Optometry Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUx
 
 ---
 
+### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span>
+
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
+
+---
+
+### [Tomosynthesis detects breast cancer more frequently during screening - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+---
+
 ### [Scientists discover hidden weaknesses in microtubules stabilized by a cancer drug - Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span>
@@ -147,11 +163,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdl
 
 ---
 
-### [Tumor Budding in Invasive Breast Carcinoma: Association With Histopathological Features and Hormone Receptor Status](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3BCRVNidzg1X2l5dVRPNnVTWjFGMHRoZHhsdzJNZjFmWExiSFIwcS1yc3A5bmxpTXpTM2dNZGR0Y2htc2dZSjJjd3REckNIcF9wYTEyaU5TbVVlZXZRSXRxZ1pQNENyc0lvQzdRNW02Y2JOS1A5VVZlNXBpRkhaSkM5Sl9fRjJFZi1FdmZVUEh6cnVfLVM1MDlnbFFmY041M0lsOXJtSU9DYlNCMmExNzRxRmdoWW1YaDBWeWdNSFNYem44VURZelV6OUhsZXhDTWozNktQblNFU1lDRk9HZjA0UTBvNzlE?oc=5)
+### [Low-Dose Aspirin Shows At Least 70% Lower Dementia Risk In Older Adults But A Serious Complication Still Remains - Health and Me](https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWtwcVdMeE52ZmtSZXZaYXhsUmQ1bEQwOUtHV0xmRGNhVWVGN1lNYlkwbDhjYXJZRXloN2xJWWZXeHVKclhCUTJyOGwzQUtxM29uLWFlV3gwYVNWMEZ3WHhnTklBYW4tcWxKZFZsTnBDUFc1TVpJbW1VTE1nNkl3M1N5eFN2UGdqbEtTekNOcFRnYXp3NGtPSmttQ0djb0duRXY1MEpzNUpnMzFJVG92VEdfbGZ6YWxMNVNTdGo4X1B6ekVZZGFlaGNnS2VuN3hXdXBoam5aWWxEYU93el9WZHZ5YVM3OTdBSGlzYjNSbE9uU1ZrQzNCdGlhQ1B1VE5veWYw?oc=5)
 
-2026-10-26 <span class="news-indication-tag">tumor</span>
+2026-10-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3BCRVNidzg1X2l5dVRPNnVTWjFGMHRoZHhsdzJNZjFmWExiSFIwcS1yc3A5bmxpTXpTM2dNZGR0Y2htc2dZSjJjd3REckNIcF9wYTEyaU5TbVVlZXZRSXRxZ1pQNENyc0lvQzdRNW02Y2JOS1A5VVZlNXBpRkhaSkM5Sl9fRjJFZi1FdmZVUEh6cnVfLVM1MDlnbFFmY041M0lsOXJtSU9DYlNCMmExNzRxRmdoWW1YaDBWeWdNSFNYem44VURZelV6OUhsZXhDTWozNktQblNFU1lDRk9HZjA0UTBvNzlE?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWtwcVdMeE52ZmtSZXZaYXhsUmQ1bEQwOUtHV0xmRGNhVWVGN1lNYlkwbDhjYXJZRXloN2xJWWZXeHVKclhCUTJyOGwzQUtxM29uLWFlV3gwYVNWMEZ3WHhnTklBYW4tcWxKZFZsTnBDUFc1TVpJbW1VTE1nNkl3M1N5eFN2UGdqbEtTekNOcFRnYXp3NGtPSmttQ0djb0duRXY1MEpzNUpnMzFJVG92VEdfbGZ6YWxMNVNTdGo4X1B6ekVZZGFlaGNnS2VuN3hXdXBoam5aWWxEYU93el9WZHZ5YVM3OTdBSGlzYjNSbE9uU1ZrQzNCdGlhQ1B1VE5veWYw?oc=5)
 
 ---
 
@@ -163,35 +179,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZ
 
 ---
 
-### [Does air pollution cause dementia? What new studies say on what it does to the brain](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1F4UzVYb2Z3OHdudEYtUEhHVWpFU3k5Unp1RU1EeEVTcnRzWDNjaEp3b0FrZGpud3Z0ODJ1OUVaYUVZQ2NiaGRvT3NGMGhqVmcxVjNjVl95enlYYzNHNzdpSlcxaGRBRTdyUUtxMUJuQjRCSzlPcGJwX3JBZ1dSaHQyTFpmZUhsU0Y2VTRQS29sTTU1M2FmdElTQ1hXVkhWLVhzMjZ5NjI0bHBBRGt1c1BaSEF6QTVWbFBmctIBwgFBVV95cUxPUkVIV1VYWXdwWlF4WVNlZTdqcjItZGtWOVROd014MlVUS1NNVVpmcm1TbUVHMGs1RlMwTlN0elRDTkg2OWpzNnVnaHVhYzRXSEVTd0x0SXd3RFBONF83eG5ULXpuVE5Fd0FGRGFhc05ieDZnQ3JDcjJMdUV5X0l4NGZFV2UyUUdibFgyc0tiWVZHX1Nibi1UeHQwT3RVZy1vUDRadVQ3UlpVME9LbmFKd0xSTnV0Rlk5SDBPLWJXOEVLQQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [ThePrint](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1F4UzVYb2Z3OHdudEYtUEhHVWpFU3k5Unp1RU1EeEVTcnRzWDNjaEp3b0FrZGpud3Z0ODJ1OUVaYUVZQ2NiaGRvT3NGMGhqVmcxVjNjVl95enlYYzNHNzdpSlcxaGRBRTdyUUtxMUJuQjRCSzlPcGJwX3JBZ1dSaHQyTFpmZUhsU0Y2VTRQS29sTTU1M2FmdElTQ1hXVkhWLVhzMjZ5NjI0bHBBRGt1c1BaSEF6QTVWbFBmctIBwgFBVV95cUxPUkVIV1VYWXdwWlF4WVNlZTdqcjItZGtWOVROd014MlVUS1NNVVpmcm1TbUVHMGs1RlMwTlN0elRDTkg2OWpzNnVnaHVhYzRXSEVTd0x0SXd3RFBONF83eG5ULXpuVE5Fd0FGRGFhc05ieDZnQ3JDcjJMdUV5X0l4NGZFV2UyUUdibFgyc0tiWVZHX1Nibi1UeHQwT3RVZy1vUDRadVQ3UlpVME9LbmFKd0xSTnV0Rlk5SDBPLWJXOEVLQQ?oc=5)
-
----
-
-### [Dementia not a normal part of ageing, early recognition key: experts - Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzZpRHNpem9hS3pBdUx5Sy1MOHpBaGJDWWlfRVpULWFiMDhrV1Jkd3QwbVlsWmtzaS1QbFBhNFVCaVFvbGpnZUZJZXloX0pTZ3ZfcWF3b0JjS1dGV1BHQmhuZHJic1hxZnNkR2VORTBDNjV1SzdVRmlxTVRTNnd2UkpfRWVTTEVzWkJOOWNtVUZDOTdNQUtNc1pRaC12djc1ejkwMTA4VzgySUREbnlvUUU1dUNnSTZ4?oc=5)
-
-2026-10-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzZpRHNpem9hS3pBdUx5Sy1MOHpBaGJDWWlfRVpULWFiMDhrV1Jkd3QwbVlsWmtzaS1QbFBhNFVCaVFvbGpnZUZJZXloX0pTZ3ZfcWF3b0JjS1dGV1BHQmhuZHJic1hxZnNkR2VORTBDNjV1SzdVRmlxTVRTNnd2UkpfRWVTTEVzWkJOOWNtVUZDOTdNQUtNc1pRaC12djc1ejkwMTA4VzgySUREbnlvUUU1dUNnSTZ4?oc=5)
-
----
-
 ### [Experts urge enhanced AI integration and research to combat Alzheimer's - China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWEtNLVI1MW1jRnpGMkRLdGNfVEpuOGdHNHN4SkJsQlp6NTdXOVczVXJGcVhLMFJWOVN0OFJpRGpfaTF5T1lrODJKNXJGeE1mN1dRNnhWS1FjSTRKWmhaWGRfSENGc0pCd04tem9jQ1FNQnZ2NDhNekRxQXd0UQ?oc=5)
 
 2026-10-26 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWEtNLVI1MW1jRnpGMkRLdGNfVEpuOGdHNHN4SkJsQlp6NTdXOVczVXJGcVhLMFJWOVN0OFJpRGpfaTF5T1lrODJKNXJGeE1mN1dRNnhWS1FjSTRKWmhaWGRfSENGc0pCd04tem9jQ1FNQnZ2NDhNekRxQXd0UQ?oc=5)
-
----
-
-### [AI Can Help Doctors Detect Tuberculosis And Lung Cancer Earlier, Says Former AIIMS Director](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNm45cTh4bmxFRnVxbko1WHRLczBQZDN4Nk1KdVpTeVRMOTROM0Zyb1Rya1JQajR4NTNKRUwybHhGRlVJbXIxSnBRRWVsbEdQZzc2LUdVY0JDb1RiY0d6enBpZ0dkYXU1RVNGM1NpOGlzbmxCYmktdXc2Mkt0dXhTTGhBcnQxaHZUN3k1QUFGM2NPMThPeG1mSlpLSUlpbFp2aVgyTDlMTk8xRkpQTkFTUUY2akdIcGtITl9HZGtXakVTM1ZmZGc?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNm45cTh4bmxFRnVxbko1WHRLczBQZDN4Nk1KdVpTeVRMOTROM0Zyb1Rya1JQajR4NTNKRUwybHhGRlVJbXIxSnBRRWVsbEdQZzc2LUdVY0JDb1RiY0d6enBpZ0dkYXU1RVNGM1NpOGlzbmxCYmktdXc2Mkt0dXhTTGhBcnQxaHZUN3k1QUFGM2NPMThPeG1mSlpLSUlpbFp2aVgyTDlMTk8xRkpQTkFTUUY2akdIcGtITl9HZGtXakVTM1ZmZGc?oc=5)
 
 ---
 

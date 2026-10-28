@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 5 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 6 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>5 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>6 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+2026-10-28
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+---
 
 ### [Is Gene Editing the Future of Heart Disease Treatment?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUZuQkt3NVNmU05iRDdDdU1GdEdNRHZuSlJFbi1Fb1dsNG1STWg4S0tVQkhjYWV4eWl1SHRTdV9USXZ2QVJNbEVPTkdEcDZXSWd4bEdISTE2ZGtYUUtqVTFGUzlSY1RsbmRCSjZtd2YwYXFMd0hyblhmbURXM3pJa21DMUVoOUg3cGY5YmVYVm9NZ1pkQkNR0gGcAUFVX3lxTE5nWnRYb3NEQVI4ZnAybDJNOTdEQnRqenptbmZ0REF6UnpQb3FaRVNPYmtvMFgwMklQVGhKVFlwMzcwN3ZQNnp3cWV1bFBVWXBrcFBfdFNyazR4WDdkY19VVk9kdEFnV0tzSXV6MWVoRVJ4T0liZHBJU21xZnU3Y0VVZDAtdWtCOWpkMm93eE5XTEJaU05zWnpKQmlqNQ?oc=5)
 

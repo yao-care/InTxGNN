@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lubiprostone. 1 predicted indications."
 permalink: /news/lubiprostone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Lubiprostone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+2026-10-28 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
+
+---
 
 ### [Is Gene Editing the Future of Heart Disease Treatment?](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUZuQkt3NVNmU05iRDdDdU1GdEdNRHZuSlJFbi1Fb1dsNG1STWg4S0tVQkhjYWV4eWl1SHRTdV9USXZ2QVJNbEVPTkdEcDZXSWd4bEdISTE2ZGtYUUtqVTFGUzlSY1RsbmRCSjZtd2YwYXFMd0hyblhmbURXM3pJa21DMUVoOUg3cGY5YmVYVm9NZ1pkQkNR0gGcAUFVX3lxTE5nWnRYb3NEQVI4ZnAybDJNOTdEQnRqenptbmZ0REF6UnpQb3FaRVNPYmtvMFgwMklQVGhKVFlwMzcwN3ZQNnp3cWV1bFBVWXBrcFBfdFNyazR4WDdkY19VVk9kdEFnV0tzSXV6MWVoRVJ4T0liZHBJU21xZnU3Y0VVZDAtdWtCOWpkMm93eE5XTEJaU05zWnpKQmlqNQ?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Anastrozole. 1 predicted indications."
 permalink: /news/anastrozole/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Anastrozole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Anastrozole?">
-<strong>Anastrozole</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
+<strong>Anastrozole</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Anastrozole with the latest 
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
 
-### [Single-cell sequencing data shows how pancreatic cancer tumors evolve to resist therapy - Drug Discovery News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRndPakRwZHBVV0VRd04xVVQ5dk12YkRwQk1qbEtrck0wSTYyeFFFek8yTkNOcjNXcUJRNlJrT1k0QlVpUG1SdVB3MVpRLTUxNGZGYjFDd2ZlRWtiLWtjb2lMa0RNT3ZQb0tVQ1NHTExtaFRpN2hZT3N0LVk2T1VrUWVlbTZhcU9YRW9zbW1QUGkzZ1FhcjV0VHhvN3IydHJaLS1JdXBLVUNYREM3eE5ESXQ1bEluYm84dm1zaUw1T3drZmlsaWc?oc=5)
+### [Early breast cancer: How to make space for treatment without losing sight of yourself - The Hans India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm1BWnNhZTdSbml4SzFncjhudm1iZ3RKRWhJcDI4YVJwRlFWTG1oMDF0cEVBUGVnZ2kxSnU5Q2NBRzBCOThxa1ZaMzZwYWVRYzZaYVZJalo4TTFVb2RzUlF3cDFobFhPdURUakNscmtHemJQd3VGekNSU1BqRWR6bDlQbFluSEVzaHJ0NTlOcDVvY25aWExmOEpNNnZXb1JmbVVqbFg4b3JKMVl6Q0hhaUNvVmtuWEFwYVQ5UFZxdE1TRmFEX0docXd0enl2cGRhMmc?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Drug Discovery News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRndPakRwZHBVV0VRd04xVVQ5dk12YkRwQk1qbEtrck0wSTYyeFFFek8yTkNOcjNXcUJRNlJrT1k0QlVpUG1SdVB3MVpRLTUxNGZGYjFDd2ZlRWtiLWtjb2lMa0RNT3ZQb0tVQ1NHTExtaFRpN2hZT3N0LVk2T1VrUWVlbTZhcU9YRW9zbW1QUGkzZ1FhcjV0VHhvN3IydHJaLS1JdXBLVUNYREM3eE5ESXQ1bEluYm84dm1zaUw1T3drZmlsaWc?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm1BWnNhZTdSbml4SzFncjhudm1iZ3RKRWhJcDI4YVJwRlFWTG1oMDF0cEVBUGVnZ2kxSnU5Q2NBRzBCOThxa1ZaMzZwYWVRYzZaYVZJalo4TTFVb2RzUlF3cDFobFhPdURUakNscmtHemJQd3VGekNSU1BqRWR6bDlQbFluSEVzaHJ0NTlOcDVvY25aWExmOEpNNnZXb1JmbVVqbFg4b3JKMVl6Q0hhaUNvVmtuWEFwYVQ5UFZxdE1TRmFEX0docXd0enl2cGRhMmc?oc=5)
+
+---
+
+### [Breast Cancer In Younger Women: Experts Call For Greater Awareness And Early Detection - BW Healthcare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [BW Healthcare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
 
 ---
 
@@ -48,14 +56,6 @@ Source: [Drug Discovery News](https://news.google.com/rss/articles/CBMixgFBVV95c
 2026-10-27 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0p2WVNkUVpPemNKZU1ieEIyN3JJcnhuajNZZ1dLRkYwS1BRNGdEbTBIYVB1ak1kZzFna2dqNnNRMlZseFVMenF5WnlXbU9tQXV4bWZnN3JhZmIwcU5BX0dWcXNwdGM0b3BVcHVaS0NNWE5NSmQzRkJ5azVjeWdqUFhuejVoWTg3dE1fUjlkeWxCQ0NWb3lkOWFuOFE5UGxoc2c?oc=5)
-
----
-
-### [Impact of Digital Breast Tomosynthesis on Invasive Interval Breast Cancer Rate - The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
 
 ---
 
@@ -99,6 +99,14 @@ Source: [Forbes](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOME1kWlJtZU
 
 ---
 
+### [Tomosynthesis detects breast cancer more frequently during screening - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+---
+
 ### [Scientists discover hidden weaknesses in microtubules stabilized by a cancer drug - Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span>
@@ -131,27 +139,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzdl
 
 ---
 
-### [Tumor Budding in Invasive Breast Carcinoma: Association With Histopathological Features and Hormone Receptor Status](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3BCRVNidzg1X2l5dVRPNnVTWjFGMHRoZHhsdzJNZjFmWExiSFIwcS1yc3A5bmxpTXpTM2dNZGR0Y2htc2dZSjJjd3REckNIcF9wYTEyaU5TbVVlZXZRSXRxZ1pQNENyc0lvQzdRNW02Y2JOS1A5VVZlNXBpRkhaSkM5Sl9fRjJFZi1FdmZVUEh6cnVfLVM1MDlnbFFmY041M0lsOXJtSU9DYlNCMmExNzRxRmdoWW1YaDBWeWdNSFNYem44VURZelV6OUhsZXhDTWozNktQblNFU1lDRk9HZjA0UTBvNzlE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">tumor</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3BCRVNidzg1X2l5dVRPNnVTWjFGMHRoZHhsdzJNZjFmWExiSFIwcS1yc3A5bmxpTXpTM2dNZGR0Y2htc2dZSjJjd3REckNIcF9wYTEyaU5TbVVlZXZRSXRxZ1pQNENyc0lvQzdRNW02Y2JOS1A5VVZlNXBpRkhaSkM5Sl9fRjJFZi1FdmZVUEh6cnVfLVM1MDlnbFFmY041M0lsOXJtSU9DYlNCMmExNzRxRmdoWW1YaDBWeWdNSFNYem44VURZelV6OUhsZXhDTWozNktQblNFU1lDRk9HZjA0UTBvNzlE?oc=5)
-
----
-
 ### [Cancer Findings Support Calls for Improved LP Care](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
-
----
-
-### [AI Can Help Doctors Detect Tuberculosis And Lung Cancer Earlier, Says Former AIIMS Director](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNm45cTh4bmxFRnVxbko1WHRLczBQZDN4Nk1KdVpTeVRMOTROM0Zyb1Rya1JQajR4NTNKRUwybHhGRlVJbXIxSnBRRWVsbEdQZzc2LUdVY0JDb1RiY0d6enBpZ0dkYXU1RVNGM1NpOGlzbmxCYmktdXc2Mkt0dXhTTGhBcnQxaHZUN3k1QUFGM2NPMThPeG1mSlpLSUlpbFp2aVgyTDlMTk8xRkpQTkFTUUY2akdIcGtITl9HZGtXakVTM1ZmZGc?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMixgFBVV95cUxPNm45cTh4bmxFRnVxbko1WHRLczBQZDN4Nk1KdVpTeVRMOTROM0Zyb1Rya1JQajR4NTNKRUwybHhGRlVJbXIxSnBRRWVsbEdQZzc2LUdVY0JDb1RiY0d6enBpZ0dkYXU1RVNGM1NpOGlzbmxCYmktdXc2Mkt0dXhTTGhBcnQxaHZUN3k1QUFGM2NPMThPeG1mSlpLSUlpbFp2aVgyTDlMTk8xRkpQTkFTUUY2akdIcGtITl9HZGtXakVTM1ZmZGc?oc=5)
 
 ---
 

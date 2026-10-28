@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 6 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>6 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
 
-### [Impact of Digital Breast Tomosynthesis on Invasive Interval Breast Cancer Rate - The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
+### [Early breast cancer: How to make space for treatment without losing sight of yourself - The Hans India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm1BWnNhZTdSbml4SzFncjhudm1iZ3RKRWhJcDI4YVJwRlFWTG1oMDF0cEVBUGVnZ2kxSnU5Q2NBRzBCOThxa1ZaMzZwYWVRYzZaYVZJalo4TTFVb2RzUlF3cDFobFhPdURUakNscmtHemJQd3VGekNSU1BqRWR6bDlQbFluSEVzaHJ0NTlOcDVvY25aWExmOEpNNnZXb1JmbVVqbFg4b3JKMVl6Q0hhaUNvVmtuWEFwYVQ5UFZxdE1TRmFEX0docXd0enl2cGRhMmc?oc=5)
 
 2026-10-27
 
-Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxOS0UzMzRGaXU0bW5pblRKeXdJUy1mbXFiRE15RjRYbmNLdFB3VWZKeFd3MkFIdVAzMWpzNWM1Vm5WRkh3QzNpZWtSSVRtZ0JWZXVwUER1a0RZU0NSSTluRDBDQXhzLTJqTnRIcFVlWkNOek50N3NOQ3RCWWZkTi1LZTNGZXNJUk5PMEU5VElxcUl1YmJjQWNrMHFaNGt6MTdHczJBUWF5SjFuYzVwNzd3QjhUdUpuUmZSWXc?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMm1BWnNhZTdSbml4SzFncjhudm1iZ3RKRWhJcDI4YVJwRlFWTG1oMDF0cEVBUGVnZ2kxSnU5Q2NBRzBCOThxa1ZaMzZwYWVRYzZaYVZJalo4TTFVb2RzUlF3cDFobFhPdURUakNscmtHemJQd3VGekNSU1BqRWR6bDlQbFluSEVzaHJ0NTlOcDVvY25aWExmOEpNNnZXb1JmbVVqbFg4b3JKMVl6Q0hhaUNvVmtuWEFwYVQ5UFZxdE1TRmFEX0docXd0enl2cGRhMmc?oc=5)
+
+---
+
+### [Breast Cancer In Younger Women: Experts Call For Greater Awareness And Early Detection - BW Healthcare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+
+2026-10-27
+
+Source: [BW Healthcare](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+
+---
+
+### [Tomosynthesis detects breast cancer more frequently during screening - Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
+
+2026-10-27
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3F0TTg4aFZWZEMtdk1aS21tSm0zZ25UeU84ckVKSXdVcTJUX1Bra190Z3pkUnQwdEdFRm9XY1ZTSVpRM1pUTTVBdzRmd2hZUWVIVmpqZVJuWW5WWERveTVxdE1lZEFkTFRseFdHZ04xRlAyYVM3QXE4QWN0cFhMd2Z5QVliNncxaktzaG4wQkJRQ3hBNkFN?oc=5)
 
 ---
 

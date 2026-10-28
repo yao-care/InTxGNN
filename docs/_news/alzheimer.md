@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 6 articles, 8 related drugs."
 permalink: /news/alzheimer/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # dementia (alzheimer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Column | At 80, he’s a top dementia expert. Here’s how he keeps his brain healthy. - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
 
@@ -55,19 +55,27 @@ Source: [Optometry Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUx
 
 ---
 
-### [Does air pollution cause dementia? What new studies say on what it does to the brain](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1F4UzVYb2Z3OHdudEYtUEhHVWpFU3k5Unp1RU1EeEVTcnRzWDNjaEp3b0FrZGpud3Z0ODJ1OUVaYUVZQ2NiaGRvT3NGMGhqVmcxVjNjVl95enlYYzNHNzdpSlcxaGRBRTdyUUtxMUJuQjRCSzlPcGJwX3JBZ1dSaHQyTFpmZUhsU0Y2VTRQS29sTTU1M2FmdElTQ1hXVkhWLVhzMjZ5NjI0bHBBRGt1c1BaSEF6QTVWbFBmctIBwgFBVV95cUxPUkVIV1VYWXdwWlF4WVNlZTdqcjItZGtWOVROd014MlVUS1NNVVpmcm1TbUVHMGs1RlMwTlN0elRDTkg2OWpzNnVnaHVhYzRXSEVTd0x0SXd3RFBONF83eG5ULXpuVE5Fd0FGRGFhc05ieDZnQ3JDcjJMdUV5X0l4NGZFV2UyUUdibFgyc0tiWVZHX1Nibi1UeHQwT3RVZy1vUDRadVQ3UlpVME9LbmFKd0xSTnV0Rlk5SDBPLWJXOEVLQQ?oc=5)
+### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
-2026-10-26
+2026-10-27
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1F4UzVYb2Z3OHdudEYtUEhHVWpFU3k5Unp1RU1EeEVTcnRzWDNjaEp3b0FrZGpud3Z0ODJ1OUVaYUVZQ2NiaGRvT3NGMGhqVmcxVjNjVl95enlYYzNHNzdpSlcxaGRBRTdyUUtxMUJuQjRCSzlPcGJwX3JBZ1dSaHQyTFpmZUhsU0Y2VTRQS29sTTU1M2FmdElTQ1hXVkhWLVhzMjZ5NjI0bHBBRGt1c1BaSEF6QTVWbFBmctIBwgFBVV95cUxPUkVIV1VYWXdwWlF4WVNlZTdqcjItZGtWOVROd014MlVUS1NNVVpmcm1TbUVHMGs1RlMwTlN0elRDTkg2OWpzNnVnaHVhYzRXSEVTd0x0SXd3RFBONF83eG5ULXpuVE5Fd0FGRGFhc05ieDZnQ3JDcjJMdUV5X0l4NGZFV2UyUUdibFgyc0tiWVZHX1Nibi1UeHQwT3RVZy1vUDRadVQ3UlpVME9LbmFKd0xSTnV0Rlk5SDBPLWJXOEVLQQ?oc=5)
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
 ---
 
-### [Dementia not a normal part of ageing, early recognition key: experts - Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzZpRHNpem9hS3pBdUx5Sy1MOHpBaGJDWWlfRVpULWFiMDhrV1Jkd3QwbVlsWmtzaS1QbFBhNFVCaVFvbGpnZUZJZXloX0pTZ3ZfcWF3b0JjS1dGV1BHQmhuZHJic1hxZnNkR2VORTBDNjV1SzdVRmlxTVRTNnd2UkpfRWVTTEVzWkJOOWNtVUZDOTdNQUtNc1pRaC12djc1ejkwMTA4VzgySUREbnlvUUU1dUNnSTZ4?oc=5)
+### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
+
+2026-10-27
+
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
+
+---
+
+### [Low-Dose Aspirin Shows At Least 70% Lower Dementia Risk In Older Adults But A Serious Complication Still Remains - Health and Me](https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWtwcVdMeE52ZmtSZXZaYXhsUmQ1bEQwOUtHV0xmRGNhVWVGN1lNYlkwbDhjYXJZRXloN2xJWWZXeHVKclhCUTJyOGwzQUtxM29uLWFlV3gwYVNWMEZ3WHhnTklBYW4tcWxKZFZsTnBDUFc1TVpJbW1VTE1nNkl3M1N5eFN2UGdqbEtTekNOcFRnYXp3NGtPSmttQ0djb0duRXY1MEpzNUpnMzFJVG92VEdfbGZ6YWxMNVNTdGo4X1B6ekVZZGFlaGNnS2VuN3hXdXBoam5aWWxEYU93el9WZHZ5YVM3OTdBSGlzYjNSbE9uU1ZrQzNCdGlhQ1B1VE5veWYw?oc=5)
 
 2026-10-26
 
-Source: [Awaz The Voice](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzZpRHNpem9hS3pBdUx5Sy1MOHpBaGJDWWlfRVpULWFiMDhrV1Jkd3QwbVlsWmtzaS1QbFBhNFVCaVFvbGpnZUZJZXloX0pTZ3ZfcWF3b0JjS1dGV1BHQmhuZHJic1hxZnNkR2VORTBDNjV1SzdVRmlxTVRTNnd2UkpfRWVTTEVzWkJOOWNtVUZDOTdNQUtNc1pRaC12djc1ejkwMTA4VzgySUREbnlvUUU1dUNnSTZ4?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWtwcVdMeE52ZmtSZXZaYXhsUmQ1bEQwOUtHV0xmRGNhVWVGN1lNYlkwbDhjYXJZRXloN2xJWWZXeHVKclhCUTJyOGwzQUtxM29uLWFlV3gwYVNWMEZ3WHhnTklBYW4tcWxKZFZsTnBDUFc1TVpJbW1VTE1nNkl3M1N5eFN2UGdqbEtTekNOcFRnYXp3NGtPSmttQ0djb0duRXY1MEpzNUpnMzFJVG92VEdfbGZ6YWxMNVNTdGo4X1B6ekVZZGFlaGNnS2VuN3hXdXBoam5aWWxEYU93el9WZHZ5YVM3OTdBSGlzYjNSbE9uU1ZrQzNCdGlhQ1B1VE5veWYw?oc=5)
 
 ---
 
