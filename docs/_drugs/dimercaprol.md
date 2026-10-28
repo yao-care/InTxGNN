@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 272
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Dimercaprol: predicted new indication Bronchitis (evidence level L4). Approved use: Not stated in the India license data (the approved indication text is…"
 monitor_inn: "Dimercaprol"
 predicted_indications: ["bronchitis"]

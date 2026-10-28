@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Desvenlafaxine"
 predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Desvenlafaxine: predicted new indication obsessive-compulsive disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

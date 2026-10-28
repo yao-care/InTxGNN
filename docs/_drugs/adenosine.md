@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Adenosine: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Ventricular tachycardia"
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]

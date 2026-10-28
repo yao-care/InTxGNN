@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 876
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Urofollitropin: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence records compiled for this report (ovulation…"
 monitor_inn: "Urofollitropin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]

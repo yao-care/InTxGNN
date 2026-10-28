@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 676
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Piperaquine"
 predicted_indications: ["cystic echinococcosis", "echinococcus granulosus infectious disease"]
 description: "Piperaquine: predicted new indication Cystic echinococcosis (evidence level L5). Approved use: Not recorded in the local data"

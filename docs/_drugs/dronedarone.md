@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dronedarone"
 predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Dronedarone: predicted new indication stroke disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "Valdecoxib"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Valdecoxib: predicted new indication Rheumatoid arthritis (evidence level L2). Approved use: Not stated in the local licence records"
 ---
 

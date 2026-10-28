@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Halothane: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the India licence data (the approved indication text is…"
 monitor_inn: "Halothane"
 predicted_indications: ["manic bipolar affective disorder", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "trichotillomania", "bipolar disorder", "major affective disorder"]

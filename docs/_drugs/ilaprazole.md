@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 423
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Ilaprazole"
 predicted_indications: ["gastroduodenitis"]
 description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L1). Approved use: Not recorded in the local data"

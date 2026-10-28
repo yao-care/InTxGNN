@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Zaltoprofen: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence record"
 ---
 

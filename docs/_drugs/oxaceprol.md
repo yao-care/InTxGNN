@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Oxaceprol"
 predicted_indications: ["ankylosing spondylitis", "brachyolmia-amelogenesis imperfecta syndrome", "juvenile idiopathic arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid vasculitis", "pseudoachondroplasia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Oxaceprol: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Osteoarthritis and arthropathy"
 ---
 

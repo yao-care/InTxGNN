@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Minodronic acid"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "severe nonproliferative diabetic retinopathy", "bone Paget disease", "fetal and neonatal alloimmune thrombocytopenia", "juvenile Paget disease"]
 description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"

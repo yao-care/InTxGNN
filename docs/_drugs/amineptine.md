@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amineptine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder", "migraine disorder", "migraine with brainstem aura", "paranoid personality disorder", "schizotypal personality disorder", "schizoid personality disorder"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Amineptine: predicted new indication Agoraphobia (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["ductal or ductular proliferation", "non-seminomatous lesion", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cetuximab: predicted new indication Ductal or ductular proliferation (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma, including head and neck"
 ---
 

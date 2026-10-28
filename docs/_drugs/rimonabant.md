@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 742
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Rimonabant: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
 monitor_inn: "Rimonabant"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny", "pentosuria", "insomnia (disease)", "lethal polymalformative syndrome, Boissel type"]

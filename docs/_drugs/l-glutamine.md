@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "L-Glutamine: predicted new indication Drug-induced osteoporosis . Dermatitis is the best-supported candidat… (evidence level L5). Approved use: Short bowel syndrome"
 monitor_inn: "L-Glutamine"
 predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of newborn", "dermatitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "severe nonproliferative diabetic retinopathy", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]

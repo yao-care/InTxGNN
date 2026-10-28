@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 497
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Lomefloxacin"
 predicted_indications: ["laryngotracheitis", "heart valve disease", "heart conduction disease", "congenital anomaly of ventricular septum", "heart neoplasm", "pericardium disease", "myocardial rupture", "cardiac anomalies-heterotaxy syndrome", "carcinoid heart disease", "heart aneurysm"]
 description: "Lomefloxacin: predicted new indication Laryngotracheitis (evidence level L5). Approved use: Not recorded in the local data"

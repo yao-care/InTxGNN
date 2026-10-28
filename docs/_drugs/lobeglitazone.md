@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Lobeglitazone"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia"]
 description: "Lobeglitazone: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"

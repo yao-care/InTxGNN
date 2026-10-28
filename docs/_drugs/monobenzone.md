@@ -5,7 +5,7 @@ layout: default
 title: Monobenzone
 parent: Known Uses Only (No New Predictions)
 nav_order: 567
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Monobenzone: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Monobenzone"
 predicted_indications: []

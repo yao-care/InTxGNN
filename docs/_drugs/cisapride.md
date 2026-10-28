@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cisapride"
 predicted_indications: ["gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)", "gastroduodenitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cisapride: predicted new indication gastrojejunal ulcer (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

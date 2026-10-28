@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 621
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Orciprenaline: predicted new indication Obstructive lung disease (evidence level L3). Approved use: Asthma, intrinsic asthma, allergic asthma, bronchitis…"
 monitor_inn: "Orciprenaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "food-dependent exercise-induced anaphylaxis", "anaphylaxis", "hyperlucent lung"]

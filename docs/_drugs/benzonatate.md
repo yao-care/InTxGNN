@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Benzonatate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the India license records (the drug is generally known…"
 monitor_inn: "Benzonatate"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]

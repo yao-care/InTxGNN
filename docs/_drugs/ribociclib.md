@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 737
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Ribociclib"
 predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 883
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Varenicline: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Varenicline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "alopecia", "open-angle glaucoma", "primary hereditary glaucoma", "headache disorder", "pulmonary hypertension"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ceftizoxime"
 predicted_indications: ["Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ceftizoxime: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection, gonorrhea…"
 ---
 

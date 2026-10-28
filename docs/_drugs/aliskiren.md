@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 34
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Aliskiren: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L4). Approved use: Hypertension / hypertensive disorder"
 monitor_inn: "Aliskiren"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]

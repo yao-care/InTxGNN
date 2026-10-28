@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 834
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Tiapride: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the approved-indication text of the Indian licences"
 monitor_inn: "Tiapride"
 predicted_indications: ["migraine disorder"]

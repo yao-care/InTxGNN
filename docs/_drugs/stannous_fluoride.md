@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 788
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Stannous Fluoride: predicted new indication Meningococcal infection (evidence level L5). Approved use: No approved indication text is listed in the registration record"
 monitor_inn: "Stannous fluoride"
 predicted_indications: ["meningococcal infection"]

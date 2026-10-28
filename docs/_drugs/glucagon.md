@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 395
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not available in the compiled data"
 monitor_inn: "Glucagon"
 predicted_indications: ["irritable bowel syndrome"]

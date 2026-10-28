@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 148
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Carfilzomib: predicted new indication Melanoma (evidence level L5). Approved use: Plasma cell myeloma"
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]

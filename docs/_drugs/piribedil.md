@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Piribedil: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Parkinson disease / parkinsonian disorder"
 monitor_inn: "Piribedil"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "PLA2G6-associated neurodegeneration"]

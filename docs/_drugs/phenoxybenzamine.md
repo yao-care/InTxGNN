@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Adrenal gland pheochromocytoma (also listed: phaeochromocytoma…"
 monitor_inn: "Phenoxybenzamine"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma"]

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 846
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Tolperisone: predicted new indication Laubry-Pezzi syndrome (evidence level L5). Approved use: Not available"
 monitor_inn: "Tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]

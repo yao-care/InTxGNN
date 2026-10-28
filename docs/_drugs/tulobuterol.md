@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Tulobuterol: predicted new indication Bronchitis (evidence level L4). Approved use: Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema"
 monitor_inn: "Tulobuterol"
 predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]

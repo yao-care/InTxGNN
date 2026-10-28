@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 869
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "trioxsalen"
 predicted_indications: ["vaginitis (disease)", "leukoplakia of vagina", "vaginal discharge", "bacterial vaginosis", "vulvar inverted follicular keratosis", "postmenopausal atrophic vaginitis", "vulvitis", "vulvovaginitis", "ulceration of vulva", "vulvar neoplasm"]
 description: "Trioxsalen: predicted new indication Vaginitis (disease) (evidence level L5). Approved use: Not recorded in the local data"

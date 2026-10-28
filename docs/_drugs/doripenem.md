@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Doripenem"
 predicted_indications: ["hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Doripenem: predicted new indication Hepatoportal sclerosis (evidence level L5). Approved use: Cholecystitis, low phospholipid associated cholelithiasis…"
 ---
 

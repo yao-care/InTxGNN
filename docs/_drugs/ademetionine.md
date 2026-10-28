@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Ademetionine: predicted new indication Acne (disease) (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Ademetionine"
 predicted_indications: ["acne (disease)", "colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "colon leiomyoma"]

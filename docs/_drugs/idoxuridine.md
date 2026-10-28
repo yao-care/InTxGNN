@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Idoxuridine: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Herpes simplex virus keratitis"
 monitor_inn: "Idoxuridine"
 predicted_indications: ["vulvovaginal candidiasis", "vaginitis (disease)", "trichomonal vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginal discharge", "bacterial vaginosis", "leukoplakia of vagina", "vulvovaginitis", "postmenopausal atrophic vaginitis"]

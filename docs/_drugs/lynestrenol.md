@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "Lynestrenol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Lynestrenol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence records"
 ---
 

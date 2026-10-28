@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 455
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Isoxsuprine"
 predicted_indications: ["benign prostatic hyperplasia (disease)", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "blue toe syndrome", "atheroembolism of kidney", "hemangioendothelioma", "angiodysplasia of stomach", "respiratory failure", "neurogenic thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection"]
 description: "Isoxsuprine: predicted new indication Benign prostatic hyperplasia (disease) (evidence level L5). Approved use: Not recorded in the local data"

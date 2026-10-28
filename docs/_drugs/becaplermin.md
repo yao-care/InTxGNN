@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Becaplermin: predicted new indication amenorrhea (disease) (evidence level L5). Approved use: Not stated in the India licence record"
 monitor_inn: "Becaplermin"
 predicted_indications: ["amenorrhea (disease)", "erectile dysfunction (disease)", "HER2 positive breast carcinoma", "progesterone-receptor negative breast cancer", "pulmonary hypertension", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "hypogonadotropic hypogonadism with or without anosmia", "Leydig cell hypoplasia due to LH resistance"]

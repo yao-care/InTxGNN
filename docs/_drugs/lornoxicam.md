@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the licence records compiled for this report (the liter…"
 ---
 

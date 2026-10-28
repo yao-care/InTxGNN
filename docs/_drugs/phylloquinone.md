@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 668
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "Phylloquinone"
 predicted_indications: ["renal tubular acidosis", "hypophosphatemic rickets", "Pendred syndrome", "autosomal recessive nonsyndromic deafness", "leukocyte adhesion deficiency", "Fraser syndrome", "temtamy preaxial brachydactyly syndrome"]
 description: "Phylloquinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Not recorded in the local data"

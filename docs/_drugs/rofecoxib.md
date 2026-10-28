@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 751
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Rofecoxib: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, migraine…"
 monitor_inn: "Rofecoxib"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia"]

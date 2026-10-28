@@ -5,7 +5,7 @@ layout: default
 title: Sodium Feredetate
 parent: Known Uses Only (No New Predictions)
 nav_order: 779
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Sodium Feredetate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Sodium feredetate"
 predicted_indications: []

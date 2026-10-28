@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Ambroxol: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Pharyngitis"
 monitor_inn: "Ambroxol"
 predicted_indications: ["nasal cavity disease", "vulvovaginal candidiasis", "faucial diphtheria", "cervical disc degenerative disorder"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["immature cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Nefopam: predicted new indication Immature cataract (evidence level L5). Approved use: Not stated in the licence records (analgesic drug class)"
 ---
 

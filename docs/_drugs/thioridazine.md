@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Thioridazine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "schizoid personality disorder", "schizotypal personality disorder"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the India licence records compiled for this report"
 ---
 

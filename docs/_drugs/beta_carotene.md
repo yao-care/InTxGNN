@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Beta Carotene: predicted new indication acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
