@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dementia News"
+title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 7 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 6 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-10-28
 ---
 
-# dementia News
+# alzheimer (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
+<strong>alzheimer (dementia)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
+
+### [Study Says Air Pollution May Be Harming Your Brain And Causing Dementia; Here Is What Experts Have To Say - Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
+
+2026-10-28
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
+
+---
 
 ### [Column | At 80, he’s a top dementia expert. Here’s how he keeps his brain healthy. - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzlZZ1hDTVNPUXVDTFJXZGFFSjIyT2J0d25kTDFob3l6eVA1Zm9SN1BBTXpraFRNdWs1Sy1VQ3JoOGI3SThySzI3VDBTVFhOU0YxajJPeWNZclJwd0lhcm5LUEpZUDNqaGJrWkNIaVJJMXlRVWs1WTU5a3RqeEp2SUhkS1RqMktyLUkyVlN3TTcyWUt0Sk5JZjJVSmYwWHpUTW40RjkwT01QUDIwbzQ2RnVPcXFGdw?oc=5)
 
@@ -47,11 +55,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95c
 
 ---
 
-### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Optometry Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0lKWGZjWHl0UExJLThhQ2RJTlVsWk8teTFKdENjSjR1cDNrY0dMQlYyUnR0Nlo2Q0pmTjVPaERWSThPcWVyQlFGQ3JYeEhJaGxLd25vUTFWVVRLQ2Z1LWlmZmpKYTBlV2Fta3NjQkpDbkNiX0F2N3BvNU95Ql81a0Mwc3o1Vmx3cW9UT21nc2dfVWZ0eU9vZHB2VEtsbmtYdmNVX0hMaUpMUVk?oc=5)
+### [Global Incidence of Dementia Projected to Reach 24.7 Million by 2050 - Neurology Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbk16TVFNbEhVaDVyS1dIR3JHeEFMcUtIVFRkN184OVJxM3NYN0t1eXAweTZNYlVXUzlGTG92RmRkUU5yOVd6WHdRYnZ3VUtXY0VBSFVXTVhIVG40LUJhZ09EUkFpMHg0QkpwbHBVNWdFb3ZJYWFrdllpZHFqRjhEdHAydEtoMzJ5dkJDYWNqNThDemJ1ODFyU0ZyS2xoekNfRi1DMTNQOE5hTGc?oc=5)
 
 2026-10-27
 
-Source: [Optometry Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0lKWGZjWHl0UExJLThhQ2RJTlVsWk8teTFKdENjSjR1cDNrY0dMQlYyUnR0Nlo2Q0pmTjVPaERWSThPcWVyQlFGQ3JYeEhJaGxLd25vUTFWVVRLQ2Z1LWlmZmpKYTBlV2Fta3NjQkpDbkNiX0F2N3BvNU95Ql81a0Mwc3o1Vmx3cW9UT21nc2dfVWZ0eU9vZHB2VEtsbmtYdmNVX0hMaUpMUVk?oc=5)
+Source: [Neurology Advisor](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbk16TVFNbEhVaDVyS1dIR3JHeEFMcUtIVFRkN184OVJxM3NYN0t1eXAweTZNYlVXUzlGTG92RmRkUU5yOVd6WHdRYnZ3VUtXY0VBSFVXTVhIVG40LUJhZ09EUkFpMHg0QkpwbHBVNWdFb3ZJYWFrdllpZHFqRjhEdHAydEtoMzJ5dkJDYWNqNThDemJ1ODFyU0ZyS2xoekNfRi1DMTNQOE5hTGc?oc=5)
 
 ---
 
@@ -71,27 +79,11 @@ Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cU
 
 ---
 
-### [Low-Dose Aspirin Shows At Least 70% Lower Dementia Risk In Older Adults But A Serious Complication Still Remains - Health and Me](https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWtwcVdMeE52ZmtSZXZaYXhsUmQ1bEQwOUtHV0xmRGNhVWVGN1lNYlkwbDhjYXJZRXloN2xJWWZXeHVKclhCUTJyOGwzQUtxM29uLWFlV3gwYVNWMEZ3WHhnTklBYW4tcWxKZFZsTnBDUFc1TVpJbW1VTE1nNkl3M1N5eFN2UGdqbEtTekNOcFRnYXp3NGtPSmttQ0djb0duRXY1MEpzNUpnMzFJVG92VEdfbGZ6YWxMNVNTdGo4X1B6ekVZZGFlaGNnS2VuN3hXdXBoam5aWWxEYU93el9WZHZ5YVM3OTdBSGlzYjNSbE9uU1ZrQzNCdGlhQ1B1VE5veWYw?oc=5)
+### [What is the Link Between PMOS and Alzheimer’s Disease?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
 
 2026-10-26
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMigwJBVV95cUxQNWtwcVdMeE52ZmtSZXZaYXhsUmQ1bEQwOUtHV0xmRGNhVWVGN1lNYlkwbDhjYXJZRXloN2xJWWZXeHVKclhCUTJyOGwzQUtxM29uLWFlV3gwYVNWMEZ3WHhnTklBYW4tcWxKZFZsTnBDUFc1TVpJbW1VTE1nNkl3M1N5eFN2UGdqbEtTekNOcFRnYXp3NGtPSmttQ0djb0duRXY1MEpzNUpnMzFJVG92VEdfbGZ6YWxMNVNTdGo4X1B6ekVZZGFlaGNnS2VuN3hXdXBoam5aWWxEYU93el9WZHZ5YVM3OTdBSGlzYjNSbE9uU1ZrQzNCdGlhQ1B1VE5veWYw?oc=5)
-
----
-
-### [Experts urge enhanced AI integration and research to combat Alzheimer's - China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWEtNLVI1MW1jRnpGMkRLdGNfVEpuOGdHNHN4SkJsQlp6NTdXOVczVXJGcVhLMFJWOVN0OFJpRGpfaTF5T1lrODJKNXJGeE1mN1dRNnhWS1FjSTRKWmhaWGRfSENGc0pCd04tem9jQ1FNQnZ2NDhNekRxQXd0UQ?oc=5)
-
-2026-10-26
-
-Source: [China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWEtNLVI1MW1jRnpGMkRLdGNfVEpuOGdHNHN4SkJsQlp6NTdXOVczVXJGcVhLMFJWOVN0OFJpRGpfaTF5T1lrODJKNXJGeE1mN1dRNnhWS1FjSTRKWmhaWGRfSENGc0pCd04tem9jQ1FNQnZ2NDhNekRxQXd0UQ?oc=5)
-
----
-
-### [Experts urge enhanced AI integration and research to combat Alzheimer's - China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWEtNLVI1MW1jRnpGMkRLdGNfVEpuOGdHNHN4SkJsQlp6NTdXOVczVXJGcVhLMFJWOVN0OFJpRGpfaTF5T1lrODJKNXJGeE1mN1dRNnhWS1FjSTRKWmhaWGRfSENGc0pCd04tem9jQ1FNQnZ2NDhNekRxQXd0UQ?oc=5)
-
-2026-10-26
-
-Source: [China Daily](https://news.google.com/rss/articles/CBMifkFVX3lxTE1uWEtNLVI1MW1jRnpGMkRLdGNfVEpuOGdHNHN4SkJsQlp6NTdXOVczVXJGcVhLMFJWOVN0OFJpRGpfaTF5T1lrODJKNXJGeE1mN1dRNnhWS1FjSTRKWmhaWGRfSENGc0pCd04tem9jQ1FNQnZ2NDhNekRxQXd0UQ?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
 
 ---
 
