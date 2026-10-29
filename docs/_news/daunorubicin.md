@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Daunorubicin. 10 predicted indications."
 permalink: /news/daunorubicin/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Daunorubicin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Daunorubicin?">
-<strong>Daunorubicin</strong> currently has <strong>15 news articles</strong>, with 10 predicted indications.
+<strong>Daunorubicin</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Daunorubicin with the latest
 <li>ALK-positive large B-cell lymphoma</li>
 <li>adenosarcoma</li>
 <li>retroperitoneal neoplasm</li>
-<li class="indication-matched">small cell lung carcinoma<span class="indication-tag">📰 lung cancer</span></li>
+<li>small cell lung carcinoma</li>
 <li>primary pulmonary lymphoma</li>
 <li>pulmonary blastoma</li>
 </ul></li>
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Daunorubicin with the latest
 <p><a href="{{ '/drugs/daunorubicin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (10)
 
 ### [Obesity In Young Adulthood Linked To Increased Risk Of Early-Onset Cancer - U.S. News & World Report](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlQtWWVCYy1qX185d2tOcjlxNGU0enUxeWZLN1ZCYzdsUldsYngwSWFJQ0RDdUI1VXVwZ0pfSlpqUDFYVHVXa3pLeXpVbW1nY0dQNjlTVTdRZnIxRTEzMWY1WjNPOFU4aWNtdWVMYTVHeS0zSmtLZVFHX1dWTFZhcDI5bEo5SWhneExEMVpwYWZSSmlTZFRiczVnck8zVmxOWnRJNHVyMVJzVk9QS21fSlpYd1FEV2R0N1JYOTJRRGtxQ1hXQ1c0VXhEdDRLdw?oc=5)
 
@@ -68,35 +68,11 @@ Source: [tovima.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHRja3
 
 ---
 
-### [Review Highlights Ovarian Resistance in Colorectal Cancer](https://news.google.com/rss/articles/CBMioAFBVV95cUxORkxpTUpNRGJPOEE2c29QOHVpRUJnenlqYUZaUjNfdXpKNGQyUVV0S1dxdWFIWnlhX0Q0MWltT3VEaldkN0lfZWZFUUUwcGNYZ3NMbGZtY1BmdnRLZVo5bmVWOVNDOGhCeGl6Vi1zZW5pRnBveDd4a2JvV1JDdV9jbnBKZW0wd2xIbmZwdlJxa2VxWmM0cEs5QjcwY2lMb2ZZ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxORkxpTUpNRGJPOEE2c29QOHVpRUJnenlqYUZaUjNfdXpKNGQyUVV0S1dxdWFIWnlhX0Q0MWltT3VEaldkN0lfZWZFUUUwcGNYZ3NMbGZtY1BmdnRLZVo5bmVWOVNDOGhCeGl6Vi1zZW5pRnBveDd4a2JvV1JDdV9jbnBKZW0wd2xIbmZwdlJxa2VxWmM0cEs5QjcwY2lMb2ZZ?oc=5)
-
----
-
 ### [Despite Retractions, Brain Tumor Research Papers Continue to Be Cited, Chinese Neurosurgical Journal Study Finds - EIN Presswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM0YtRzYxM3pEc0ZTRU13c3ZYRVdQVU42Z1RaX3gxRHgzNkJXeXpLTnZjb295NnByczVBa2loUGtFSWRlYjRqXzA5amppSGhZSVhqZzE4XzBHYmZhdWFaWlBJNjFXM3NSdUFzLXNNYnJHTXAzanc5elp3WjJNc1JkeG5iOEphaTV6cFNyQjRGMEpad1cxQVBCR2NkRlhKWFA4Z0FkSXdDd2M2Yl9fVGZ2ZnM2bkJYbG9pNVk0QXNVY2NWdjhKbUJYSTRkbUxXZU1RQlZtR0lkZno1MUFQSnF1Nm5jRnBjT2gzV1dBM1F3?oc=5)
 
 2026-10-28 <span class="news-indication-tag">tumor</span>
 
 Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM0YtRzYxM3pEc0ZTRU13c3ZYRVdQVU42Z1RaX3gxRHgzNkJXeXpLTnZjb295NnByczVBa2loUGtFSWRlYjRqXzA5amppSGhZSVhqZzE4XzBHYmZhdWFaWlBJNjFXM3NSdUFzLXNNYnJHTXAzanc5elp3WjJNc1JkeG5iOEphaTV6cFNyQjRGMEpad1cxQVBCR2NkRlhKWFA4Z0FkSXdDd2M2Yl9fVGZ2ZnM2bkJYbG9pNVk0QXNVY2NWdjhKbUJYSTRkbUxXZU1RQlZtR0lkZno1MUFQSnF1Nm5jRnBjT2gzV1dBM1F3?oc=5)
-
----
-
-### [Radiotherapy Highlights Local Risks in Bile Duct Cancer](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl93ZTNfR0k5bXJBNVFWVEtKZWNVVHU1dWlEU0c0VzFKaUxnZG4wOVduMnlrQXB4eFRxMGIxR2g2WkdzdjdqaFltQVZDQWY4V1ozRmtFbU9SUzROTjRzX0dCTkdGT1BpYU5Oa2JHSHFmZW9tUkIzeUxNYlZrbHRxOUVTZ1c0Y2JpWVhhTXZYT0pfcWZBOTZPZ1JoN2lTSzg3?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl93ZTNfR0k5bXJBNVFWVEtKZWNVVHU1dWlEU0c0VzFKaUxnZG4wOVduMnlrQXB4eFRxMGIxR2g2WkdzdjdqaFltQVZDQWY4V1ozRmtFbU9SUzROTjRzX0dCTkdGT1BpYU5Oa2JHSHFmZW9tUkIzeUxNYlZrbHRxOUVTZ1c0Y2JpWVhhTXZYT0pfcWZBOTZPZ1JoN2lTSzg3?oc=5)
-
----
-
-### [Breast Cancer Surgery Is Evolving: How Modern Techniques Are Balancing Cancer Control With Quality Of Life - ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkQxbHVSREVJeW1DZGpRNjlCRlk5YUFBUnFqVW1tZ0RxRUtzV05ySkFNRzJtbzN4Y1ZZSWZlUEdRMlhuSDIwTlh3YVJ4Y1ZTMXNJNlZSaUZwVFh5ZTFLSU5YdE1jNVZkaDlOZzR1TEt4YjVIMVljYUlKNDVfUHdhQ2FCVlZQMURSc0g5OXFJLUFOMGJteTNzcWhmdzI?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkQxbHVSREVJeW1DZGpRNjlCRlk5YUFBUnFqVW1tZ0RxRUtzV05ySkFNRzJtbzN4Y1ZZSWZlUEdRMlhuSDIwTlh3YVJ4Y1ZTMXNJNlZSaUZwVFh5ZTFLSU5YdE1jNVZkaDlOZzR1TEt4YjVIMVljYUlKNDVfUHdhQ2FCVlZQMURSc0g5OXFJLUFOMGJteTNzcWhmdzI?oc=5)
 
 ---
 
@@ -108,19 +84,19 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi4wJBVV95cU
 
 ---
 
+### [Diagnosed with early breast cancer? 4 questions to ask your oncologist - India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xaHJCMTlReFhzZWhNaEdxUExZNHZ1S1VtN3VTdXFpNVdBejZQTmplNlV5Njh5Q0hKc2NoaGxraDBHV3ZfQXVmVE8zeFpxd1Q0djlWd3JqT2NvcEI5TmpQWFNnREI0TDFMTFFQcTMzb2hlM2ttT2hkVlpVN05ucGs1TWZvdzFyNWtxdXpyOVY5WmFxLWFHUzdaQ3dQNUxCV1JMSTVEZkdMb3h6SHk3VUtSTHoxYk0xRzZFSEhBYWVQblJBM0HSAcsBQVVfeXFMT3FNRnVKQUh6M2d3cnk0M2JpcHIyYTJwOUt4dXNqMU8wa1pCWUtwVFA5R2hRaVpRUkkyS09sT0FwZjBndm5oWGhlbE83OXFaTHktRGhUQ3JVSndaSDlxUHNfYWZpWG13bHdqXzg2dzNCNjJPOUtHaFdtVUt6QzR2RVdXM2pQN3BWM0VBV1JnQkw4UUh2UWVoTlpLdVoyZDFHVzgxNFpnSkNZMWVoZGF2czdhdG9WSDRTVU11MEtIUjFuemV3dXkwcU1CNm8?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xaHJCMTlReFhzZWhNaEdxUExZNHZ1S1VtN3VTdXFpNVdBejZQTmplNlV5Njh5Q0hKc2NoaGxraDBHV3ZfQXVmVE8zeFpxd1Q0djlWd3JqT2NvcEI5TmpQWFNnREI0TDFMTFFQcTMzb2hlM2ttT2hkVlpVN05ucGs1TWZvdzFyNWtxdXpyOVY5WmFxLWFHUzdaQ3dQNUxCV1JMSTVEZkdMb3h6SHk3VUtSTHoxYk0xRzZFSEhBYWVQblJBM0HSAcsBQVVfeXFMT3FNRnVKQUh6M2d3cnk0M2JpcHIyYTJwOUt4dXNqMU8wa1pCWUtwVFA5R2hRaVpRUkkyS09sT0FwZjBndm5oWGhlbE83OXFaTHktRGhUQ3JVSndaSDlxUHNfYWZpWG13bHdqXzg2dzNCNjJPOUtHaFdtVUt6QzR2RVdXM2pQN3BWM0VBV1JnQkw4UUh2UWVoTlpLdVoyZDFHVzgxNFpnSkNZMWVoZGF2czdhdG9WSDRTVU11MEtIUjFuemV3dXkwcU1CNm8?oc=5)
+
+---
+
 ### [Painless breast lumps fear, social stigma delaying breast cancer diagnosis, warn CARE Hospital docs - The Hans India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTZ6UTdES1lFdnMwRXRDaVFjeUlPZjdLQWEwUmU5VXJpMDBNLWRPR25xTWVWVDllT0RKN0xjZTgwSnJ0empLMDR2dHZvbGNOMXAzcTNLM3ZJQUwtd1NTNHlTUS1sSUJwNFkzMU9JR0FtUjVDbElOZ25FRUFxVXNyVzltTUdSNXY2RVZ4X0JnNVZEa3gtX0xmbFh3bWd3cWU0M3VGUktTZ3cyWUZkLTBxX0ozbXFvcDZCR3ZTcTFQcG9tdWZ4YXY2cjhwdjdTeU5UY0J3dm5aeU1raXlWMkU5cl80Q0RQTkk?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Hans India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTZ6UTdES1lFdnMwRXRDaVFjeUlPZjdLQWEwUmU5VXJpMDBNLWRPR25xTWVWVDllT0RKN0xjZTgwSnJ0empLMDR2dHZvbGNOMXAzcTNLM3ZJQUwtd1NTNHlTUS1sSUJwNFkzMU9JR0FtUjVDbElOZ25FRUFxVXNyVzltTUdSNXY2RVZ4X0JnNVZEa3gtX0xmbFh3bWd3cWU0M3VGUktTZ3cyWUZkLTBxX0ozbXFvcDZCR3ZTcTFQcG9tdWZ4YXY2cjhwdjdTeU5UY0J3dm5aeU1raXlWMkU5cl80Q0RQTkk?oc=5)
-
----
-
-### [Why Never-Smoking Asian Women Skip Annual Lung Cancer Screening](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjgtWTY0cjZoTG1PSTZfaVJXZ2dDdHNmTXlQZHQ1X1NlV00ySXdIRjFFTjlOa2hGRk5lZnRMWVA1TE5mVzBSQzR4U2dTVzZtUklySUJMUUpWcVd4aWdQeTNCcnhYcFktMG5naHBBR2hkSHVmQWthb1VJTVE0Rm5EWi04U2haamhkek1HUGtHQWhhbnl2bWU0Qk5JQ2FxcGNiekE3clFGZ1BkV1JJ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjgtWTY0cjZoTG1PSTZfaVJXZ2dDdHNmTXlQZHQ1X1NlV00ySXdIRjFFTjlOa2hGRk5lZnRMWVA1TE5mVzBSQzR4U2dTVzZtUklySUJMUUpWcVd4aWdQeTNCcnhYcFktMG5naHBBR2hkSHVmQWthb1VJTVE0Rm5EWi04U2haamhkek1HUGtHQWhhbnl2bWU0Qk5JQ2FxcGNiekE3clFGZ1BkV1JJ?oc=5)
 
 ---
 
@@ -132,27 +108,11 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb0I
 
 ---
 
-### [Oxidative Stress Biomarkers Predict Prostate Cancer Recurrence](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDN5RlN2Umc0Z0RfdTdpc19PV2QzVklFOUhTanpsSDB0UWdSRjVwRW0yUVhaeldOdzh2Vk9qQjBlcUhvY09xdTlycU5aYW1vYjkzLWl5WXVvaldDX014Y0tLM2FXel96RVhEaDVzZFZLZVFQcS1fdEVxZHRGYzJRaHhva2QxWFZ4SjJWbVlkblNWT0hUNmhjc3dhYVRlQ1VFS0NsQUln?oc=5)
+### [Your Selfie Could Become A Medical Metric: Mass General Brigham’s AI Face-Scanning Breakthrough](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOME1kWlJtZUxvRkViN2RGS0E2UU95OGRXdTduN0RjNjM4cTFTWDMtRFN5eUNDdUxxTFdqOHRRT2I1MWZ6YmNYbWF1c3lHVXJWRW1JNU1wTWxqb3pJUTVVeDdIX3BXZ0xPQmhuTHFYckxrbEVlVGZocWxIYXBHX0pVWTI2d09aQ3gxNzZrbEUtS2JoUzR4dnJ4YkdKanVEY3NPd1pKa0RJR1dOSFhjR09KeHlDdmdMUC1qTWRWLWRYY0ZYN21oUkVlWDNmZk9KLTlVa25Ia2M1cnpWTmJWVFgxag?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDN5RlN2Umc0Z0RfdTdpc19PV2QzVklFOUhTanpsSDB0UWdSRjVwRW0yUVhaeldOdzh2Vk9qQjBlcUhvY09xdTlycU5aYW1vYjkzLWl5WXVvaldDX014Y0tLM2FXel96RVhEaDVzZFZLZVFQcS1fdEVxZHRGYzJRaHhva2QxWFZ4SjJWbVlkblNWT0hUNmhjc3dhYVRlQ1VFS0NsQUln?oc=5)
-
----
-
-### [Moderate Alcohol Consumption Linked to Low Lifetime Health Risks - India News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHRXWld0cGRuVzMyVE1jenJzSW52eVFXekhQUGZBcWo1dFBROTdwa0tfN3E1ckhtUGxLQlFNbEdwZkh1eGxNQnhkbE9WcS04SjItaVR1bFNmVGlVX0U0dFhYMkpVVUdtenF4aVlja0hqdkVudTAwTlM4V3hwN3VicmRHUkdIcnl1NGsya1lSRTFzNzRNUWdhTXFyTUM0Nk9BV2JrTGZWZ3NUZw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVHRXWld0cGRuVzMyVE1jenJzSW52eVFXekhQUGZBcWo1dFBROTdwa0tfN3E1ckhtUGxLQlFNbEdwZkh1eGxNQnhkbE9WcS04SjItaVR1bFNmVGlVX0U0dFhYMkpVVUdtenF4aVlja0hqdkVudTAwTlM4V3hwN3VicmRHUkdIcnl1NGsya1lSRTFzNzRNUWdhTXFyTUM0Nk9BV2JrTGZWZ3NUZw?oc=5)
-
----
-
-### [Scientists discover hidden weaknesses in microtubules stabilized by a cancer drug - Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span>
-
-Source: [Asia Research News |](https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE41WmZxUDlCNUhnbHRKNlBqNDdldE9XUllFMVlxMUdsaWpBRVQzQ1R3TkpDSjhiOWUwVThPV2xpRHNKcVZaTGp3TUtuOEFnaldCNXVYbDdiUmVNMjFKRUlaRWc1UzRTV3RNWE9LV0Y1UUp3dmMzdmhMbUNYNnFvWTlxeE83ZkFlR25fMHlwRk5yeDBtWmJuVThvV0NUODNvZjZkYlNMOUx6c3BQZzNkQUhtMlQ?oc=5)
+Source: [Forbes](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOME1kWlJtZUxvRkViN2RGS0E2UU95OGRXdTduN0RjNjM4cTFTWDMtRFN5eUNDdUxxTFdqOHRRT2I1MWZ6YmNYbWF1c3lHVXJWRW1JNU1wTWxqb3pJUTVVeDdIX3BXZ0xPQmhuTHFYckxrbEVlVGZocWxIYXBHX0pVWTI2d09aQ3gxNzZrbEUtS2JoUzR4dnJ4YkdKanVEY3NPd1pKa0RJR1dOSFhjR09KeHlDdmdMUC1qTWRWLWRYY0ZYN21oUkVlWDNmZk9KLTlVa25Ia2M1cnpWTmJWVFgxag?oc=5)
 
 ---
 
