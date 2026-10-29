@@ -8,6 +8,50 @@ nav_order: 1
 
 Welcome to InTxGNN, a drug repurposing prediction system for India using the TxGNN graph neural network.
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## India: what this site covers
+
+This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the registration data of [CDSCO](https://cdsco.gov.in/) (India).
+
+Reports by evidence level: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Highest evidence levels on this site
+
+| Medicine | Evidence level |
+|---|---|
+| [Bendamustine](/drugs/bendamustine/) | L1 |
+| [Bromfenac](/drugs/bromfenac/) | L1 |
+| [Bupropion](/drugs/bupropion/) | L1 |
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 |
+| [Natamycin](/drugs/natamycin/) | L1 |
+| [Nepafenac](/drugs/nepafenac/) | L1 |
+| [Polidocanol](/drugs/polidocanol/) | L1 |
+| [Rifabutin](/drugs/rifabutin/) | L1 |
+| [Tegafur](/drugs/tegafur/) | L1 |
+
+### Medicines covered only by this site among the 30 TxGNN sites
+
+| Medicine | Evidence level |
+|---|---|
+| [Valdecoxib](/drugs/valdecoxib/) | L2 |
+| [Oxyphenbutazone](/drugs/oxyphenbutazone/) | L3 |
+| [Amifostine](/drugs/amifostine/) | L4 |
+| [Conivaptan](/drugs/conivaptan/) | L4 |
+| [Chlormezanone](/drugs/chlormezanone/) | L4 |
+| [Enclomiphene](/drugs/enclomiphene/) | L5 |
+| [Glycolic Acid](/drugs/glycolic-acid/) | L5 |
+| [Levosalbutamol](/drugs/levosalbutamol/) | L5 |
+| [Oxaceprol](/drugs/oxaceprol/) | L5 |
+| [Rofecoxib](/drugs/rofecoxib/) | L5 |
+| [Seratrodast](/drugs/seratrodast/) | L5 |
+| [Sparfloxacin](/drugs/sparfloxacin/) | L5 |
+| [Amineptine](/drugs/amineptine/) | L5 |
+| [Ripasudil](/drugs/ripasudil/) | L5 |
+| [Carbenicillin](/drugs/carbenicillin/) | L5 |
+
+<!-- local-home:end -->
+
 ## What is Drug Repurposing?
 
 Drug repurposing (also known as drug repositioning) is the process of finding new therapeutic uses for existing approved drugs. This approach can significantly reduce the time and cost of drug development.
