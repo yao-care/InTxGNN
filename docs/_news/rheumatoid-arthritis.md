@@ -3,9 +3,9 @@ layout: default
 title: "joint pain (rheumatoid arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about joint pain (rheumatoid arthritis). 1 articles, 21 related drugs."
+description: "Health news about joint pain (rheumatoid arthritis). 2 articles, 21 related drugs."
 permalink: /news/rheumatoid-arthritis/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # joint pain (rheumatoid arthritis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about joint pain (rheumatoid arthritis)?">
-<strong>joint pain (rheumatoid arthritis)</strong> currently has <strong>1 news articles</strong> and 21 related drugs.
+<strong>joint pain (rheumatoid arthritis)</strong> currently has <strong>2 news articles</strong> and 21 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -49,13 +49,21 @@ This page brings together the latest health news about “joint pain” and list
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Chronic Joint Pain and Musculoskeletal Sequelae in Ebola Survivors](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHRMb1h0cVhPMkFDQlJVX1FpbXJ2NEZCQk1HQTY0T3NfUFp1enpmdl9VZlhyWTRnUGE4b2diY1NUNkNtVUdQdjI4OHlUam9iX3c1dF90RXF6MVNZSUdFVktwbHJkempibDBMMFNLRGFoSENTd3B2N0JaTWZwbGJyOVFVb1JaRGU1RnJnMzRZNFVSbGNqY0JnUXZUOHFOdFhKS3NVSUZfVzJPeXJvc0VKOHpB?oc=5)
 
 2026-10-28
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHRMb1h0cVhPMkFDQlJVX1FpbXJ2NEZCQk1HQTY0T3NfUFp1enpmdl9VZlhyWTRnUGE4b2diY1NUNkNtVUdQdjI4OHlUam9iX3c1dF90RXF6MVNZSUdFVktwbHJkempibDBMMFNLRGFoSENTd3B2N0JaTWZwbGJyOVFVb1JaRGU1RnJnMzRZNFVSbGNqY0JnUXZUOHFOdFhKS3NVSUZfVzJPeXJvc0VKOHpB?oc=5)
+
+---
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
 ---
 

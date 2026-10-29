@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Streptokinase?">
-<strong>Streptokinase</strong> currently has <strong>4 news articles</strong>, with 5 predicted indications.
+<strong>Streptokinase</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Streptokinase with the lates
 <p><a href="{{ '/drugs/streptokinase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Renal Hyperfiltration Dynamics Reveal Distinct Cardiovascular Risks](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
 
@@ -52,14 +52,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaV
 2026-10-28 <span class="news-indication-tag">heart disease</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
-
----
-
-### [One session of heated tobacco use injures blood vessels and damages DNA](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eGtkNVlWRXF4c3JLcjRUYnNOb0p4UXlvazNzSHZ4TWQ4N3BaeVE2WFBBVFV4QlJIcmxfOWpjWkVHLUxOWGQ0RDRNcHU4b29TQnFrbHhKZU9DWXhf?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [EurekAlert!](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eGtkNVlWRXF4c3JLcjRUYnNOb0p4UXlvazNzSHZ4TWQ4N3BaeVE2WFBBVFV4QlJIcmxfOWpjWkVHLUxOWGQ0RDRNcHU4b29TQnFrbHhKZU9DWXhf?oc=5)
 
 ---
 

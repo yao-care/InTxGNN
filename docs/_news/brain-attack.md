@@ -3,7 +3,7 @@ layout: default
 title: "stroke (brain attack) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (brain attack). 8 articles, 15 related drugs."
+description: "Health news about stroke (brain attack). 7 articles, 15 related drugs."
 permalink: /news/brain-attack/
 last_modified_at: 2026-10-29
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (brain attack)?">
-<strong>stroke (brain attack)</strong> currently has <strong>8 news articles</strong> and 15 related drugs.
+<strong>stroke (brain attack)</strong> currently has <strong>7 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (7)
+
+### [Lalitha Hospitals in Guntur hosts World Stroke Day - The Hindu](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2w3TGZUeTdZMGNtOUh1VnotWk5vRDNUYS1tdnowU2NGQzBEeG9qa05hOGpTcTJDT1pJRjZGMFdXU2YxczIya3NwaTVvMHZHY3VYQlpWd2dWUjQ0ajhhazRHeS1sblo3YjI0N1NKeHByU0hjdVduT1F1ZGs4V1U0aGdxaGk5N1dSQ2h3M0RFNGtZSGt4cmJtdHNmQ1A3UE50N3dMMGxjZy1SWE5CR1dfS1J1T2VBWGMxQS1SMDhkbFBsd9IByAFBVV95cUxNcXo1dEhZVFBTM3BQbjZxQ0FKVGtHR1VMLXZ5WU4xdVc3N0xFcndabVQ1a3ZTWjhKRThBbmZXY1h4TGRCMk9Sb3h1dTZwYmpOd3JQZnEwZXlZaUpNNWc1SzZkczRhVXpNYzJJb0ZGa3dmMmtJZ3JNZ0lZaXY2Z1lKdnp1ZHhpd3dXdUdYWmpYMW1xUEFHVmNHVDJLS0FhV1F4TE9yTHdDOUVFdGFMV1BrUE42ZXhUWTJwSXprMFYyc3lWU1R2Nk9oaQ?oc=5)
+
+2026-10-29
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2w3TGZUeTdZMGNtOUh1VnotWk5vRDNUYS1tdnowU2NGQzBEeG9qa05hOGpTcTJDT1pJRjZGMFdXU2YxczIya3NwaTVvMHZHY3VYQlpWd2dWUjQ0ajhhazRHeS1sblo3YjI0N1NKeHByU0hjdVduT1F1ZGs4V1U0aGdxaGk5N1dSQ2h3M0RFNGtZSGt4cmJtdHNmQ1A3UE50N3dMMGxjZy1SWE5CR1dfS1J1T2VBWGMxQS1SMDhkbFBsd9IByAFBVV95cUxNcXo1dEhZVFBTM3BQbjZxQ0FKVGtHR1VMLXZ5WU4xdVc3N0xFcndabVQ1a3ZTWjhKRThBbmZXY1h4TGRCMk9Sb3h1dTZwYmpOd3JQZnEwZXlZaUpNNWc1SzZkczRhVXpNYzJJb0ZGa3dmMmtJZ3JNZ0lZaXY2Z1lKdnp1ZHhpd3dXdUdYWmpYMW1xUEFHVmNHVDJLS0FhV1F4TE9yTHdDOUVFdGFMV1BrUE42ZXhUWTJwSXprMFYyc3lWU1R2Nk9oaQ?oc=5)
+
+---
 
 ### [Endovascular thrombectomy for acute ischemic stroke with large infarct core: translating results from a randomized trial into clinical practice - Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZk5vTWstOFNVMzg1YU1rZ2JleUpYdVY4aERWYXpPemt6bXh6eHdBQUV1eE9zLXU2cC13MFZiMHduTnhPMWdHY0tsMnJhTG5sTnFsN0ZWazJFX251SUNB?oc=5)
 
@@ -59,14 +67,6 @@ Source: [Annals of Translational Medicine](https://news.google.com/rss/articles/
 2026-10-29
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
-
----
-
-### [World Stroke Day observed in Mysuru - The Hindu](https://news.google.com/rss/articles/CBMipwFBVV95cUxPem9HLU1IV3hTbjZQVVV1SFZZUmgwYUkxblhYb3d0YzlfWlZ6TmN3eGZtbGxXWktzX0lJcmFVWFp1T2FRS2twbE1aVnhxc1NCekc3OUZLaW5JdWtKaFoyem0zTzRoTVduTVo5NHRySTFJSHBod1QzeGY2aUNzaGdhTl9SV0gwMFNXU3dOSDNnemxJQ1c5a1FJVGREQ1ZkYng1OXE4MzI1WdIBrgFBVV95cUxPSnh3YXFkU01LSEN5SUhvb2lObHltazRzVWNKdFpDcEZJOUs1aVR4dGRlZ2x1TmZPSWNmMHZudWQyZy1fdlhFMEZFU0dKRmQ4anJGZW05a19xWEVJdUU4XzhBZ0xKSkRTVGFhOHN3VlRYQWhaVVNyNURNYUc4MWlSVHFtaWVrY2dmbUFDamF4ZmpaZmpwb3J4UEcwV3BGYzd0b25jMXdOWVZ2TTRsdWc?oc=5)
-
-2026-10-29
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMipwFBVV95cUxPem9HLU1IV3hTbjZQVVV1SFZZUmgwYUkxblhYb3d0YzlfWlZ6TmN3eGZtbGxXWktzX0lJcmFVWFp1T2FRS2twbE1aVnhxc1NCekc3OUZLaW5JdWtKaFoyem0zTzRoTVduTVo5NHRySTFJSHBod1QzeGY2aUNzaGdhTl9SV0gwMFNXU3dOSDNnemxJQ1c5a1FJVGREQ1ZkYng1OXE4MzI1WdIBrgFBVV95cUxPSnh3YXFkU01LSEN5SUhvb2lObHltazRzVWNKdFpDcEZJOUs1aVR4dGRlZ2x1TmZPSWNmMHZudWQyZy1fdlhFMEZFU0dKRmQ4anJGZW05a19xWEVJdUU4XzhBZ0xKSkRTVGFhOHN3VlRYQWhaVVNyNURNYUc4MWlSVHFtaWVrY2dmbUFDamF4ZmpaZmpwb3J4UEcwV3BGYzd0b25jMXdOWVZ2TTRsdWc?oc=5)
 
 ---
 
@@ -91,14 +91,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cU
 2026-10-29
 
 Source: [Passionate In Marketing](https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVFfTGpobzQwbmlLWVBqYmZ6Vk5ZUGRzd19mbVFTa1Jya2VXUTRKNGVZWk1aYlBpbEc3ODB4MXZ3MzVUVzRjNVhiNjlDc2NIRGpIVnk3MmpNS1B1Qkl6UEg3MGhzbHU0ZU4wQnFxc2ZOa1VFOGJ5Y3BJdGZiT0FWb2xCLXYxZnlSVHIzMW9xdXc?oc=5)
-
----
-
-### [World Stroke Day 2026: 6 Things Families Must Know About Stroke Recovery](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXhNMm5hcnNEcXRxaXY2UjRFTHZMZDJHQWZfMk1IQkVDSXpkNUxRY2taWnhXX3RGYkI4QmktZFRfa1NnWVlKOXVRcVIyLWtfQXJEUWQ2Q3ZxNTFyM0tiVzJRRzYwWkxvQkJmNkV1ZmRDUzlEQkdUeW94cXgxVnVUb1lObXJVQ18wSzZQNTlXSGFxVk5Dc1NkczlJdm9rWUFaQThFWFJRXzBrMDQ5elhkRFM4alJ5Ul9ZQ2NKZ01xSzhJVDNuc2hGRFhfc3JzRTN2TlNYXzhCbG02WmZIbjlQV3ZLYm94N3hWNFRR0gHwAUFVX3lxTFB2cE50em01b2E2eFcxZXhWSWR2SXowX0ljLXNOX3pSdm40YldtOGtCbGF6NVZDcEp4UW9FeDh3d01iYkFsSUJrZEprbWd6ZUVhSjRuOGgwd0RHdFFaQTFEU1BzcnNzanRHcG44M3ZUOWxvRThLMkhIZDJ2R0hjQklpZDNjZ1FrNGI0d1o1cHFtT1FlQWRlR3VDZE16Q1NJb0FxTFJRd1AweUJ2Z0dtM3U1Rkk4eE9ld0Q5R1BxOXdFWlRXdWNxM3E1eHFTUHVwbURDeEZ2ZWlISW42OTFZYzhzTHJXSlVvLU13TC1RVXJqdQ?oc=5)
-
-2026-10-29
-
-Source: [News18](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaXhNMm5hcnNEcXRxaXY2UjRFTHZMZDJHQWZfMk1IQkVDSXpkNUxRY2taWnhXX3RGYkI4QmktZFRfa1NnWVlKOXVRcVIyLWtfQXJEUWQ2Q3ZxNTFyM0tiVzJRRzYwWkxvQkJmNkV1ZmRDUzlEQkdUeW94cXgxVnVUb1lObXJVQ18wSzZQNTlXSGFxVk5Dc1NkczlJdm9rWUFaQThFWFJRXzBrMDQ5elhkRFM4alJ5Ul9ZQ2NKZ01xSzhJVDNuc2hGRFhfc3JzRTN2TlNYXzhCbG02WmZIbjlQV3ZLYm94N3hWNFRR0gHwAUFVX3lxTFB2cE50em01b2E2eFcxZXhWSWR2SXowX0ljLXNOX3pSdm40YldtOGtCbGF6NVZDcEp4UW9FeDh3d01iYkFsSUJrZEprbWd6ZUVhSjRuOGgwd0RHdFFaQTFEU1BzcnNzanRHcG44M3ZUOWxvRThLMkhIZDJ2R0hjQklpZDNjZ1FrNGI0d1o1cHFtT1FlQWRlR3VDZE16Q1NJb0FxTFJRd1AweUJ2Z0dtM3U1Rkk4eE9ld0Q5R1BxOXdFWlRXdWNxM3E1eHFTUHVwbURDeEZ2ZWlISW42OTFZYzhzTHJXSlVvLU13TC1RVXJqdQ?oc=5)
 
 ---
 

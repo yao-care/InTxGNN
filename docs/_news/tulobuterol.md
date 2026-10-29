@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 
 ## Related News (1)
 
-### [COPD Outcomes Worse With Combined Cigarette and Biomass Smoke](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHdzX3JfN05VY0VxRFp2aGM2ZGVXMkNnNmxfSmU1eDdhUDlYb2prNGRvU1dyRmZjYktjX21nMlZVVS04Nl83RFRYcE9fWEYtVTRRdF9KQVRlcmsxa0F5MHBGUElHMmhlMk9jZU03RkpiVUNGbnUycDRFSGl1SEYzYnhYR2JQQ2YxOTExUGxrNEFQbWdGTy03MVNqNzJ1YXJMRXRjTWdHanczZw?oc=5)
+### [Worse COPD Outcomes With Combined Cigarette, Biomass Smoke - Respiratory Therapy](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDhnWEpyLUlzNWItQWR0MWtvdzFjREdIaDFNZ2ppTzJjZmJCRnM0X24tV0ZsVTZkbHZ3TWlBMVhKSXVBUWNpdjZsZXpBdExJTGw2YTNhUVpwaVVkSDdiWUE1alFvNFNQaXBOcF92WmRfMnFNb1ZzRTBSWVhPQ2o4bzVrbXVpM1BhdjBvNW1yZkxyQVBHaFJfMHE3WEM4Vl9jbUdIVXc4QVZuT09CQnhaLVp0NVhNSGNQaEJz?oc=5)
 
 2026-10-29 <span class="news-indication-tag">COPD</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHdzX3JfN05VY0VxRFp2aGM2ZGVXMkNnNmxfSmU1eDdhUDlYb2prNGRvU1dyRmZjYktjX21nMlZVVS04Nl83RFRYcE9fWEYtVTRRdF9KQVRlcmsxa0F5MHBGUElHMmhlMk9jZU03RkpiVUNGbnUycDRFSGl1SEYzYnhYR2JQQ2YxOTExUGxrNEFQbWdGTy03MVNqNzJ1YXJMRXRjTWdHanczZw?oc=5)
+Source: [Respiratory Therapy](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDhnWEpyLUlzNWItQWR0MWtvdzFjREdIaDFNZ2ppTzJjZmJCRnM0X24tV0ZsVTZkbHZ3TWlBMVhKSXVBUWNpdjZsZXpBdExJTGw2YTNhUVpwaVVkSDdiWUE1alFvNFNQaXBOcF92WmRfMnFNb1ZzRTBSWVhPQ2o4bzVrbXVpM1BhdjBvNW1yZkxyQVBHaFJfMHE3WEM4Vl9jbUdIVXc4QVZuT09CQnhaLVp0NVhNSGNQaEJz?oc=5)
 
 ---
 

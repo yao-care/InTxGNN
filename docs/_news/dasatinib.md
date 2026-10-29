@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>10 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>13 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,45 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (13)
 
-### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
-
----
-
-### [For AI, Your Selfie Is a Medical Scan; But It’s Not All Rosy - Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
+### [Obesity in Young Adulthood Linked to Higher Cancer Risk Into Midlife - Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span>
 
-Source: [Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
+Source: [Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
+
+---
+
+### [Building an army of brain warriors - Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNi1WejJOeU1GSHZHSWpkcWNCT3k3OE1acU9KcW4tUnc3cG55bUNJemhOZXZaR2xDQm13cDVaZnFkQkJFTTFBVjlIWmhXbjhMQ05GbFhkUE5TaE1RYi1fS1oyeTAyRmdEVDRkZmRxdmU1ODdmb2NjcU1WUFlxdXdDWVA4Q0c5SEF3cUFldk80R2c1QS1NUGw2StIBngFBVV95cUxPRjNPQW8tUGx3YUp6ckpNaDM0UlhoSVg3RHp3ZmpBYkswd18xMXFsUk1qSThnc19BUHQ2dERzel9PcFM3RXRHZzE4SG5fWXpld0Q2UWRpYlV2TmVmWFV1dk45aEtHQzI5YWZEWTBWYlZJdW4zdGZ6b2lETVE3ZXRjTUpDanRzblE4STJQRTF3dTlzN1RuQ042akh3SVFaZw?oc=5)
+
+2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNi1WejJOeU1GSHZHSWpkcWNCT3k3OE1acU9KcW4tUnc3cG55bUNJemhOZXZaR2xDQm13cDVaZnFkQkJFTTFBVjlIWmhXbjhMQ05GbFhkUE5TaE1RYi1fS1oyeTAyRmdEVDRkZmRxdmU1ODdmb2NjcU1WUFlxdXdDWVA4Q0c5SEF3cUFldk80R2c1QS1NUGw2StIBngFBVV95cUxPRjNPQW8tUGx3YUp6ckpNaDM0UlhoSVg3RHp3ZmpBYkswd18xMXFsUk1qSThnc19BUHQ2dERzel9PcFM3RXRHZzE4SG5fWXpld0Q2UWRpYlV2TmVmWFV1dk45aEtHQzI5YWZEWTBWYlZJdW4zdGZ6b2lETVE3ZXRjTUpDanRzblE4STJQRTF3dTlzN1RuQ042akh3SVFaZw?oc=5)
+
+---
+
+### [CervoMed publishes phase 2b trial results for DLB treatment By Investing.com - Investing.com India](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjZDSFdoVWtvYWRLVDd2UEZLTTVNTkcyVlhTbUt0ejlpZTlqTXdoWlN5WFNYS1Q0SmNjOEExZ19mWWpuMl91RXNtanZkMGRNblBVM2VkSWx5MDZmRWNYT3h1TE92RTBXZkVqNnZ3cGZFYTNuRmpxS09DZVp0MGVOR3owNzM2cUFkT05IMUtZaF9fM3RfX0kyaU1PQ2U3blRXWnpQSDQxZG51bmtuSkJ2MXdudkNYRkZzcUFsLQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Investing.com India](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjZDSFdoVWtvYWRLVDd2UEZLTTVNTkcyVlhTbUt0ejlpZTlqTXdoWlN5WFNYS1Q0SmNjOEExZ19mWWpuMl91RXNtanZkMGRNblBVM2VkSWx5MDZmRWNYT3h1TE92RTBXZkVqNnZ3cGZFYTNuRmpxS09DZVp0MGVOR3owNzM2cUFkT05IMUtZaF9fM3RfX0kyaU1PQ2U3blRXWnpQSDQxZG51bmtuSkJ2MXdudkNYRkZzcUFsLQ?oc=5)
+
+---
+
+### [AI Accurately Estimates Facial Aging From Photographs](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGZqT2RENjFNSmdNWTZOTWVYNE90NXQ0ajBUc0tnRWZxX1VEWkdtLW9OcUlON0xxRkJFLXVzaUkzLXd1X2x5c1ZOaS1SUEpfWGU5QmpfYy1BbndVRHlIYm9PNFk0Ylg5c3Vsd3VGVlFwTFZ1ZG1LMUJyVVpDa24xMUFkRmlhUFNuX2t5dmdxeE9DY0ZkYVRnZmhVMVR4d28?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGZqT2RENjFNSmdNWTZOTWVYNE90NXQ0ajBUc0tnRWZxX1VEWkdtLW9OcUlON0xxRkJFLXVzaUkzLXd1X2x5c1ZOaS1SUEpfWGU5QmpfYy1BbndVRHlIYm9PNFk0Ylg5c3Vsd3VGVlFwTFZ1ZG1LMUJyVVpDa24xMUFkRmlhUFNuX2t5dmdxeE9DY0ZkYVRnZmhVMVR4d28?oc=5)
+
+---
+
+### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFRNeU1POHZmRGxseVhWT3FwV0lUUU9McVBlRDNlTUJwX3VqZDFtQ0xnRUcwTm9ocUxzS2ZRbWV0RmpEaDR4STdDVU5OYmFnVGZtVTBIUVVOUV8wNjF2bVBHaXRha1VBc1RBMGtvSG1JTkwxX1ZkT1UtSk92NWUxQ1lEY0FDQllqeWZNRE1kUE1rcXQ3N3EyTE94VlhWeXRGenFzWkdiYnZFRlpPbHhZU3pvYzBZOXlvdHdYQVFlRlBZMG13?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFRNeU1POHZmRGxseVhWT3FwV0lUUU9McVBlRDNlTUJwX3VqZDFtQ0xnRUcwTm9ocUxzS2ZRbWV0RmpEaDR4STdDVU5OYmFnVGZtVTBIUVVOUV8wNjF2bVBHaXRha1VBc1RBMGtvSG1JTkwxX1ZkT1UtSk92NWUxQ1lEY0FDQllqeWZNRE1kUE1rcXQ3N3EyTE94VlhWeXRGenFzWkdiYnZFRlpPbHhZU3pvYzBZOXlvdHdYQVFlRlBZMG13?oc=5)
 
 ---
 
@@ -67,19 +91,11 @@ Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZ
 
 ---
 
-### [Scientists Develop AI That Can Predict Cancer Survival Risk From a Single Face Photo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFlMdFpmYTJOMnBlOHBtdlF0MHhKME1tS1RDWUg5MDNqNUlIMHZmOE1wejR2UkhocDZRUUplVVc2ZXV0aFM2dTVfYzJLRFJjMEFzUnRabjFXbnJ5N3gxNnV2UnJpYTlxR1ZJUFV0MEhuN2tUY2FGWFZEU050MTJacjB4TGZTR0xqWlNWb0E2SnBJMHFsdV9JZmJXdw?oc=5)
+### [Can daytime napping increase risk of dementia later in life?](https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbjBCOFJrc1hkRS1wS3FVMFNPUW9ET2NLcXVKcHIybHF3SUtIVHYwMURYcGtPV2d6STVqN2pJWkpESmh5UHdFN0xBWk9aM2twSmI1anBmTXVtbE91TmdYMnFGNUIxeVFfS1RHUVo5NVNjSlpuRnNKTDlVUVlJUdIBgwFBVV95cUxQd0lEU2FtX0xBS2RILXlncExPbnpvR3hSaTlHcjU5eFNJSm4zNmpjcGdpVGNENG04VER2Y3VTU0liazZiMzJ5UEI5UEhFLWsxRVZ0cGh5blRTel9fd1lsT00wTkhLdkdCVEpQTWZIVXpxUmxzamRnZGtLaTZsZ0FJMEhibw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">cancer</span>
+2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFlMdFpmYTJOMnBlOHBtdlF0MHhKME1tS1RDWUg5MDNqNUlIMHZmOE1wejR2UkhocDZRUUplVVc2ZXV0aFM2dTVfYzJLRFJjMEFzUnRabjFXbnJ5N3gxNnV2UnJpYTlxR1ZJUFV0MEhuN2tUY2FGWFZEU050MTJacjB4TGZTR0xqWlNWb0E2SnBJMHFsdV9JZmJXdw?oc=5)
-
----
-
-### [Obesity in young adulthood linked to increased risk of early-onset cancer - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTJLU1JFMFZ3VHR4emd2c1MyTUl4V3Uzald0Mnc0SGVyVExNLTNDVzlwdUw0eFU5ZEZ6b2NnZUt0QV83NVk1UzdvMlAwNFI0bmR5dms5Y3VkeVlHeFZWZUxDdkdBT19HMkprdzE3SlROeE1nVVhTVjZXY2NaN2ZGUmVaX1RmNkk?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTJLU1JFMFZ3VHR4emd2c1MyTUl4V3Uzald0Mnc0SGVyVExNLTNDVzlwdUw0eFU5ZEZ6b2NnZUt0QV83NVk1UzdvMlAwNFI0bmR5dms5Y3VkeVlHeFZWZUxDdkdBT19HMkprdzE3SlROeE1nVVhTVjZXY2NaN2ZGUmVaX1RmNkk?oc=5)
+Source: [NewsNation](https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbjBCOFJrc1hkRS1wS3FVMFNPUW9ET2NLcXVKcHIybHF3SUtIVHYwMURYcGtPV2d6STVqN2pJWkpESmh5UHdFN0xBWk9aM2twSmI1anBmTXVtbE91TmdYMnFGNUIxeVFfS1RHUVo5NVNjSlpuRnNKTDlVUVlJUdIBgwFBVV95cUxQd0lEU2FtX0xBS2RILXlncExPbnpvR3hSaTlHcjU5eFNJSm4zNmpjcGdpVGNENG04VER2Y3VTU0liazZiMzJ5UEI5UEhFLWsxRVZ0cGh5blRTel9fd1lsT00wTkhLdkdCVEpQTWZIVXpxUmxzamRnZGtLaTZsZ0FJMEhibw?oc=5)
 
 ---
 
@@ -120,6 +136,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi4wJBVV95cU
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Hans India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTZ6UTdES1lFdnMwRXRDaVFjeUlPZjdLQWEwUmU5VXJpMDBNLWRPR25xTWVWVDllT0RKN0xjZTgwSnJ0empLMDR2dHZvbGNOMXAzcTNLM3ZJQUwtd1NTNHlTUS1sSUJwNFkzMU9JR0FtUjVDbElOZ25FRUFxVXNyVzltTUdSNXY2RVZ4X0JnNVZEa3gtX0xmbFh3bWd3cWU0M3VGUktTZ3cyWUZkLTBxX0ozbXFvcDZCR3ZTcTFQcG9tdWZ4YXY2cjhwdjdTeU5UY0J3dm5aeU1raXlWMkU5cl80Q0RQTkk?oc=5)
+
+---
+
+### [Prostate Cancer Upgrading Linked to Key Clinical Predictors](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1MZUYxY3g3MlhLQkpfX3AyQUlkQTdUNDlObTRhcGUyM3NKNlE0WkFqdUZiT2hXMWRoRS1jdEo3UWppR0Nva0gxSXh1Sko5MFJCcWQ5YjlPY0J5ZVhNRFh1dUhKNUNuRG1CX3Z4WGx4cExWcjhfZzZpTUIybVAxN256WVZ4cEFkbVg4S1NWYjAwN3hGeF9MRnkyeTBib1NnZWc?oc=5)
+
+2026-10-23 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1MZUYxY3g3MlhLQkpfX3AyQUlkQTdUNDlObTRhcGUyM3NKNlE0WkFqdUZiT2hXMWRoRS1jdEo3UWppR0Nva0gxSXh1Sko5MFJCcWQ5YjlPY0J5ZVhNRFh1dUhKNUNuRG1CX3Z4WGx4cExWcjhfZzZpTUIybVAxN256WVZ4cEFkbVg4S1NWYjAwN3hGeF9MRnkyeTBib1NnZWc?oc=5)
 
 ---
 
