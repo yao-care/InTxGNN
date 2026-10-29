@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Urea?">
-<strong>Urea</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Urea</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Hydroxyurea and transfusion together: a step forward in defining the value of combination therapy in severe sickle cell disease - Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmcVdNaXQ0SjdoUDVObDRBVHVUbUdQbF9NajRXRVVTeXZnY3Q3N29Kc3k0Wmw0cl85eFVlQi15RnBYdklBVDluSW5KZjNFME5MSl9JTExYZU5QTWpRUXB3?oc=5)
 
 2026-10-29 <span class="news-drug-tag">HYDROXYUREA</span> <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Hydroxyurea</span> <span class="news-drug-tag">Urea</span>
 
 Source: [Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmcVdNaXQ0SjdoUDVObDRBVHVUbUdQbF9NajRXRVVTeXZnY3Q3N29Kc3k0Wmw0cl85eFVlQi15RnBYdklBVDluSW5KZjNFME5MSl9JTExYZU5QTWpRUXB3?oc=5)
+
+---
+
+### [Rapid Identification of Radioactive Sources Using Advanced Aerial Computational Modeling Tools](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oUmp5cGt5ek9LaC1Ka1BMTHgwODRmQXc2QlQ1TWFoTTFGaFp5SDBKcm1zMGhHdXhNQWFKTkdjb1lnR2k4SnlZUkF0U3loSjA5UXJ5aTU3Um9zd0JRQzVMQg?oc=5)
+
+2026-10-28 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+
+Source: [AZoCleantech](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oUmp5cGt5ek9LaC1Ka1BMTHgwODRmQXc2QlQ1TWFoTTFGaFp5SDBKcm1zMGhHdXhNQWFKTkdjb1lnR2k4SnlZUkF0U3loSjA5UXJ5aTU3Um9zd0JRQzVMQg?oc=5)
 
 ---
 

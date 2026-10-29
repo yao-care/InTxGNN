@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Ademetionine?">
-<strong>Ademetionine</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Ademetionine</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -43,15 +43,7 @@ This page combines the AI-predicted indications for Ademetionine with the latest
 <p><a href="{{ '/drugs/ademetionine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
-
-### [AI Accurately Estimates Facial Aging From Photographs](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGZqT2RENjFNSmdNWTZOTWVYNE90NXQ0ajBUc0tnRWZxX1VEWkdtLW9OcUlON0xxRkJFLXVzaUkzLXd1X2x5c1ZOaS1SUEpfWGU5QmpfYy1BbndVRHlIYm9PNFk0Ylg5c3Vsd3VGVlFwTFZ1ZG1LMUJyVVpDa24xMUFkRmlhUFNuX2t5dmdxeE9DY0ZkYVRnZmhVMVR4d28?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGZqT2RENjFNSmdNWTZOTWVYNE90NXQ0ajBUc0tnRWZxX1VEWkdtLW9OcUlON0xxRkJFLXVzaUkzLXd1X2x5c1ZOaS1SUEpfWGU5QmpfYy1BbndVRHlIYm9PNFk0Ylg5c3Vsd3VGVlFwTFZ1ZG1LMUJyVVpDa24xMUFkRmlhUFNuX2t5dmdxeE9DY0ZkYVRnZmhVMVR4d28?oc=5)
-
----
+## Related News (9)
 
 ### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
@@ -61,11 +53,27 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cU
 
 ---
 
-### [Obesity In Young Adulthood Linked To Increased Risk Of Early-Onset Cancer - U.S. News & World Report](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlQtWWVCYy1qX185d2tOcjlxNGU0enUxeWZLN1ZCYzdsUldsYngwSWFJQ0RDdUI1VXVwZ0pfSlpqUDFYVHVXa3pLeXpVbW1nY0dQNjlTVTdRZnIxRTEzMWY1WjNPOFU4aWNtdWVMYTVHeS0zSmtLZVFHX1dWTFZhcDI5bEo5SWhneExEMVpwYWZSSmlTZFRiczVnck8zVmxOWnRJNHVyMVJzVk9QS21fSlpYd1FEV2R0N1JYOTJRRGtxQ1hXQ1c0VXhEdDRLdw?oc=5)
+### [For AI, Your Selfie Is a Medical Scan; But It’s Not All Rosy - Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span>
+
+Source: [Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
+
+---
+
+### [Scientists Develop AI That Can Predict Cancer Survival Risk From a Single Face Photo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFlMdFpmYTJOMnBlOHBtdlF0MHhKME1tS1RDWUg5MDNqNUlIMHZmOE1wejR2UkhocDZRUUplVVc2ZXV0aFM2dTVfYzJLRFJjMEFzUnRabjFXbnJ5N3gxNnV2UnJpYTlxR1ZJUFV0MEhuN2tUY2FGWFZEU050MTJacjB4TGZTR0xqWlNWb0E2SnBJMHFsdV9JZmJXdw?oc=5)
 
 2026-10-28 <span class="news-indication-tag">cancer</span>
 
-Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMizgFBVV95cUxNRlQtWWVCYy1qX185d2tOcjlxNGU0enUxeWZLN1ZCYzdsUldsYngwSWFJQ0RDdUI1VXVwZ0pfSlpqUDFYVHVXa3pLeXpVbW1nY0dQNjlTVTdRZnIxRTEzMWY1WjNPOFU4aWNtdWVMYTVHeS0zSmtLZVFHX1dWTFZhcDI5bEo5SWhneExEMVpwYWZSSmlTZFRiczVnck8zVmxOWnRJNHVyMVJzVk9QS21fSlpYd1FEV2R0N1JYOTJRRGtxQ1hXQ1c0VXhEdDRLdw?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFlMdFpmYTJOMnBlOHBtdlF0MHhKME1tS1RDWUg5MDNqNUlIMHZmOE1wejR2UkhocDZRUUplVVc2ZXV0aFM2dTVfYzJLRFJjMEFzUnRabjFXbnJ5N3gxNnV2UnJpYTlxR1ZJUFV0MEhuN2tUY2FGWFZEU050MTJacjB4TGZTR0xqWlNWb0E2SnBJMHFsdV9JZmJXdw?oc=5)
+
+---
+
+### [Obesity in young adulthood linked to increased risk of early-onset cancer - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTJLU1JFMFZ3VHR4emd2c1MyTUl4V3Uzald0Mnc0SGVyVExNLTNDVzlwdUw0eFU5ZEZ6b2NnZUt0QV83NVk1UzdvMlAwNFI0bmR5dms5Y3VkeVlHeFZWZUxDdkdBT19HMkprdzE3SlROeE1nVVhTVjZXY2NaN2ZGUmVaX1RmNkk?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTJLU1JFMFZ3VHR4emd2c1MyTUl4V3Uzald0Mnc0SGVyVExNLTNDVzlwdUw0eFU5ZEZ6b2NnZUt0QV83NVk1UzdvMlAwNFI0bmR5dms5Y3VkeVlHeFZWZUxDdkdBT19HMkprdzE3SlROeE1nVVhTVjZXY2NaN2ZGUmVaX1RmNkk?oc=5)
 
 ---
 
@@ -74,6 +82,22 @@ Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMizgFB
 2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxORkxpTUpNRGJPOEE2c29QOHVpRUJnenlqYUZaUjNfdXpKNGQyUVV0S1dxdWFIWnlhX0Q0MWltT3VEaldkN0lfZWZFUUUwcGNYZ3NMbGZtY1BmdnRLZVo5bmVWOVNDOGhCeGl6Vi1zZW5pRnBveDd4a2JvV1JDdV9jbnBKZW0wd2xIbmZwdlJxa2VxWmM0cEs5QjcwY2lMb2ZZ?oc=5)
+
+---
+
+### [Fact Check: Can touching supermarket bills, electricity bills and ATM receipts cause cancer? Here’s what doctors say](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVhvdmdCYjlfS1FQVXRicHp5UFlzRFZtWjlnMzRWekJiNGNMWFhGMXowbWJ4NzZJNnpmUGFGZ01xZjZja3J4Q3NRLU1FY0hMUXRhSDVzaC1FSk5DYnY0MndTaXVMQmdzd1picWdPYXBJZDNORHNBNHFhOXg2MTZBMXZVcUNXS2hNT3ZtTkdTdFpJWWtOVjM3aFFzMm9TcFJxd3htY0Q5VUk2b2RnVkw5dGJyYWM3YTVVa2VnNS1LbUh0RExnak9CTUVlOW04RzlBdnRqekYtRzNqUDV2WA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span>
+
+Source: [NewsMeter](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVhvdmdCYjlfS1FQVXRicHp5UFlzRFZtWjlnMzRWekJiNGNMWFhGMXowbWJ4NzZJNnpmUGFGZ01xZjZja3J4Q3NRLU1FY0hMUXRhSDVzaC1FSk5DYnY0MndTaXVMQmdzd1picWdPYXBJZDNORHNBNHFhOXg2MTZBMXZVcUNXS2hNT3ZtTkdTdFpJWWtOVjM3aFFzMm9TcFJxd3htY0Q5VUk2b2RnVkw5dGJyYWM3YTVVa2VnNS1LbUh0RExnak9CTUVlOW04RzlBdnRqekYtRzNqUDV2WA?oc=5)
+
+---
+
+### [Radiotherapy Highlights Local Risks in Bile Duct Cancer](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl93ZTNfR0k5bXJBNVFWVEtKZWNVVHU1dWlEU0c0VzFKaUxnZG4wOVduMnlrQXB4eFRxMGIxR2g2WkdzdjdqaFltQVZDQWY4V1ozRmtFbU9SUzROTjRzX0dCTkdGT1BpYU5Oa2JHSHFmZW9tUkIzeUxNYlZrbHRxOUVTZ1c0Y2JpWVhhTXZYT0pfcWZBOTZPZ1JoN2lTSzg3?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl93ZTNfR0k5bXJBNVFWVEtKZWNVVHU1dWlEU0c0VzFKaUxnZG4wOVduMnlrQXB4eFRxMGIxR2g2WkdzdjdqaFltQVZDQWY4V1ozRmtFbU9SUzROTjRzX0dCTkdGT1BpYU5Oa2JHSHFmZW9tUkIzeUxNYlZrbHRxOUVTZ1c0Y2JpWVhhTXZYT0pfcWZBOTZPZ1JoN2lTSzg3?oc=5)
 
 ---
 
@@ -90,22 +114,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi4wJBVV95cU
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Hans India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTZ6UTdES1lFdnMwRXRDaVFjeUlPZjdLQWEwUmU5VXJpMDBNLWRPR25xTWVWVDllT0RKN0xjZTgwSnJ0empLMDR2dHZvbGNOMXAzcTNLM3ZJQUwtd1NTNHlTUS1sSUJwNFkzMU9JR0FtUjVDbElOZ25FRUFxVXNyVzltTUdSNXY2RVZ4X0JnNVZEa3gtX0xmbFh3bWd3cWU0M3VGUktTZ3cyWUZkLTBxX0ozbXFvcDZCR3ZTcTFQcG9tdWZ4YXY2cjhwdjdTeU5UY0J3dm5aeU1raXlWMkU5cl80Q0RQTkk?oc=5)
-
----
-
-### [Onc Now: Rethinking Menopause Care and Cancer Survivorship](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnRkYm9HbXVOLUhTTmRPV3RQY1ZoMEJSUVlQTXF3ZlJhWGdCNC1qRjBVUG1QYzBlenJJWFlsVndwNmtsaDNtT2J3RnllZkc0TmhLV0pETm1mVUFicm5ERFNWN2tyTHJyWUMwZHF2TGwydGpIcHBfSkZIRDhIMHdzeXdWQmdVLWk4clZnVWI0TGdPX0J3cDQyeS1TbWFRd1QwUDc3eWRB?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnRkYm9HbXVOLUhTTmRPV3RQY1ZoMEJSUVlQTXF3ZlJhWGdCNC1qRjBVUG1QYzBlenJJWFlsVndwNmtsaDNtT2J3RnllZkc0TmhLV0pETm1mVUFicm5ERFNWN2tyTHJyWUMwZHF2TGwydGpIcHBfSkZIRDhIMHdzeXdWQmdVLWk4clZnVWI0TGdPX0J3cDQyeS1TbWFRd1QwUDc3eWRB?oc=5)
-
----
-
-### [Cancer Findings Support Calls for Improved LP Care](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
 
 ---
 
