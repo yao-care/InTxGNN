@@ -44,6 +44,14 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (4)
 
+### [World Brain Stroke Day 2026: Can air pollution cause brain stroke](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
+
+2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
+
+---
+
 ### [Aspirin Lowers Dementia Risk in High Platelet Genetic Group](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
@@ -52,25 +60,17 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4L
 
 ---
 
-### [Dementia cases in US projected to rise dramatically by 2050, study finds - The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
+### [Early Alzheimer's Symptoms: Losing One's Way More Often Can Occur Well Before Memory Problems](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYndjcG1MTFFLcDRneGp0dFJ5RDNoZ2gwS09SeDNjbXdDcjdockNPTl8xUmhNQU42cUt3Zm5aVmpBSGNtR25fX3k2RlV1cF9BeUdYVXBoNnJhQWRZZzhTNndzTEtKUFlBNlVlb3ltV2ZwRV8ydWJqdVhOOS1ISVY5WDVmRTFNaE8yS2g1NkZ2MlF3SHRQaVJPYUZ0U2xjOEU?oc=5)
 
-2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMie0FVX3lxTFBTT0ZMbDhwVW9vNzJfZGZVdGpkR05BTFVMeG1YZ29GVHROb0lxVXE2dVhrd0JKcTNvYjB1UUNJSFN0WEN3elY4elRpMGl0NVkzeVRRaTZMMVZKcHRhb2JHMVk0N3BCazRaU0JQcUFGbVJWOHc0TlkwaVJhWQ?oc=5)
-
----
-
-### [Study Says Air Pollution May Be Harming Your Brain And Causing Dementia; Here Is What Experts Have To Say - Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
-
-2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMinwFBVV95cUxNYndjcG1MTFFLcDRneGp0dFJ5RDNoZ2gwS09SeDNjbXdDcjdockNPTl8xUmhNQU42cUt3Zm5aVmpBSGNtR25fX3k2RlV1cF9BeUdYVXBoNnJhQWRZZzhTNndzTEtKUFlBNlVlb3ltV2ZwRV8ydWJqdVhOOS1ISVY5WDVmRTFNaE8yS2g1NkZ2MlF3SHRQaVJPYUZ0U2xjOEU?oc=5)
 
 ---
 
 ### [Dementia not a normal part of ageing, early recognition key: experts - DT Next](https://news.google.com/rss/articles/CBMimAFBVV95cUxQenNnWml0blB3OWljWFRjekdNYWQzUXAxa3ZNRk9yUmJKT3JuV1FFYUxBWU9RQy13UlpHX2RkZFZteFdteklZZUViQ2pFQXRGellhWG9fZC1Bd1I5eTFHRmN2NnJHR1MxRWlueXNLRnpWSWhiTlVwc2k5MXROY3ZDZWJpZmFXNkhwQlRoMmhUNmRaOUJPeFpaYdIBpgFBVV95cUxNaVBZWHk4bU1aNGNPUzl1WThydVRIR1FXVVo5RVV4QVlSdjNHbmJGWVhKVnM5WUthOTk1d2VtX2dfOG5Qdi00cUhJOXdhT3RDN3E1cGxHVHpld3QtQ3M3VVdyNHpLejJHdEJkRGtUM2pfNFJseFh3Rm5RM08tZXlubEVuSTdpY2xib1c0b28wY25kVmJxLVhDRWRDOTB5UXlfTV9tWW9R?oc=5)
 
-2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span>
 
 Source: [DT Next](https://news.google.com/rss/articles/CBMimAFBVV95cUxQenNnWml0blB3OWljWFRjekdNYWQzUXAxa3ZNRk9yUmJKT3JuV1FFYUxBWU9RQy13UlpHX2RkZFZteFdteklZZUViQ2pFQXRGellhWG9fZC1Bd1I5eTFHRmN2NnJHR1MxRWlueXNLRnpWSWhiTlVwc2k5MXROY3ZDZWJpZmFXNkhwQlRoMmhUNmRaOUJPeFpaYdIBpgFBVV95cUxNaVBZWHk4bU1aNGNPUzl1WThydVRIR1FXVVo5RVV4QVlSdjNHbmJGWVhKVnM5WUthOTk1d2VtX2dfOG5Qdi00cUhJOXdhT3RDN3E1cGxHVHpld3QtQ3M3VVdyNHpLejJHdEJkRGtUM2pfNFJseFh3Rm5RM08tZXlubEVuSTdpY2xib1c0b28wY25kVmJxLVhDRWRDOTB5UXlfTV9tWW9R?oc=5)
 

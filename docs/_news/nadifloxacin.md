@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Nadifloxacin. 1 predicted indications."
 permalink: /news/nadifloxacin/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Nadifloxacin News
@@ -35,11 +35,11 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 
 ## Related News (1)
 
-### [Malaria Vaccine Price Cut to Expand Protection for One Million More Children - The Indian Practitioner](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHViVExwOHhBZ0s4aGJ2MTlZLWNaM1RrT251S2NpRm5yNl8tNk5zUW5wTFFuMjc0NXE5M2lCblFLc25lM2d5WHZ1Ulo2QVQzbE9nOWw2YVc5X25VTUZHMzQydHVkcl9yMV9JUVVFdEQ4NW8yaHJJalo4SE5oYlBrazhUSWZfWUl2SDdESENwSUxqYnlUY0lwdlZ6N1h2cmZDTVBoZkIzWHdlOFVrV2FIMw?oc=5)
+### [Bharat Biotech Slashes Malaria Vaccine Price by Forty Percent - The Indian Practitioner](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUVEYlB3N2hWUndIUERxWU9vLTlOYzN3Umc4TTREUjhnVGZmWnN4dXVIZzRreWdwbFY0NDlyZlNwcHZ4NjVUSW5RY01WdXNibDNuM3RXOVBFRFFnMksyd0dnNnlaMUVVX2ZfNHZ5ZURfWEltd3Q5OG9zdWdGN3duNGtwN3Y3WDJaeHF6bUJXUjh6NFQwNDUwVGRpVF8?oc=5)
 
-2026-10-27 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+2026-10-29 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
 
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdHViVExwOHhBZ0s4aGJ2MTlZLWNaM1RrT251S2NpRm5yNl8tNk5zUW5wTFFuMjc0NXE5M2lCblFLc25lM2d5WHZ1Ulo2QVQzbE9nOWw2YVc5X25VTUZHMzQydHVkcl9yMV9JUVVFdEQ4NW8yaHJJalo4SE5oYlBrazhUSWZfWUl2SDdESENwSUxqYnlUY0lwdlZ6N1h2cmZDTVBoZkIzWHdlOFVrV2FIMw?oc=5)
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUVEYlB3N2hWUndIUERxWU9vLTlOYzN3Umc4TTREUjhnVGZmWnN4dXVIZzRreWdwbFY0NDlyZlNwcHZ4NjVUSW5RY01WdXNibDNuM3RXOVBFRFFnMksyd0dnNnlaMUVVX2ZfNHZ5ZURfWEltd3Q5OG9zdWdGN3duNGtwN3Y3WDJaeHF6bUJXUjh6NFQwNDUwVGRpVF8?oc=5)
 
 ---
 

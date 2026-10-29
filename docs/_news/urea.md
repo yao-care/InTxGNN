@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Urea. 0 predicted indications."
 permalink: /news/urea/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Urea News
@@ -31,11 +31,11 @@ This page combines the AI-predicted indications for Urea with the latest health 
 
 ## Related News (1)
 
-### [First human endothelial cell atlas maps how blood vessels age](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXN3STFUc1hwU0RCZGdsenJxZUh0Wks2Mk1IZVZSSnBSVXVUNkJkQ1I0YmlmOXZCdzhWeU1FbmUtQnFsWldvM0dGemo3YjBRd1lwVVdqdTJ3di1Md1l5OEJGTHAtTGI3cl9JZGhwMDNrbHU0Y1l2Tk96UlZwZDJHUjV1Vi04azl1MlpwSkhycHdfWkxpckhTV3lWZktxSkZCeHpETVM2aTYtMWxsbUE?oc=5)
+### [Hydroxyurea and transfusion together: a step forward in defining the value of combination therapy in severe sickle cell disease - Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmcVdNaXQ0SjdoUDVObDRBVHVUbUdQbF9NajRXRVVTeXZnY3Q3N29Kc3k0Wmw0cl85eFVlQi15RnBYdklBVDluSW5KZjNFME5MSl9JTExYZU5QTWpRUXB3?oc=5)
 
-2026-10-27 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Urea</span>
+2026-10-29 <span class="news-drug-tag">HYDROXYUREA</span> <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Hydroxyurea</span> <span class="news-drug-tag">Urea</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXN3STFUc1hwU0RCZGdsenJxZUh0Wks2Mk1IZVZSSnBSVXVUNkJkQ1I0YmlmOXZCdzhWeU1FbmUtQnFsWldvM0dGemo3YjBRd1lwVVdqdTJ3di1Md1l5OEJGTHAtTGI3cl9JZGhwMDNrbHU0Y1l2Tk96UlZwZDJHUjV1Vi04azl1MlpwSkhycHdfWkxpckhTV3lWZktxSkZCeHpETVM2aTYtMWxsbUE?oc=5)
+Source: [Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmcVdNaXQ0SjdoUDVObDRBVHVUbUdQbF9NajRXRVVTeXZnY3Q3N29Kc3k0Wmw0cl85eFVlQi15RnBYdklBVDluSW5KZjNFME5MSl9JTExYZU5QTWpRUXB3?oc=5)
 
 ---
 

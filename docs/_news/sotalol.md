@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
+<strong>Sotalol</strong> currently has <strong>6 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,37 +38,45 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [World Stroke Day 2026: Warning Signs, Causes, Risk Factors and Prevention Tips](https://news.google.com/rss/articles/CBMivgFBVV95cUxPblJDWHlXTk5WVVZ3cVhweHdoNlpBZ3F6NlJjWnI2RU1HbHhFVXdOOTJJY3M5akI0NjJqNnNQMkRoeTFwZjlLY3h4cWVXVHE3RnhSeU9GRDl5RmhsYUpQQjJ6Q2FPTWt6YVYzWHNpdVdLX05YQV80X2NWaHQ3MW8ycjAyNklZOGlFd19Ocm9vV0dUcnhBQThhbjFWV3pHMlM0ZENGOXJQQ0tpMW8zZ0lrZ1drNUQwVjQzQUtnUlRR?oc=5)
+### [Stroke recovery: Doctors explain why brain fatigue persists even after strength and speech return - The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEdtYnJBUXhxTzFKbkJDNWZCMWFmWWZYQkNWdDh1akRWUkVoZ1loYzNTVFJWQ1YwdjNkUDIyNkpFOTFsdXQwQ1pFdC1IdVk1bVBkS0lOU21mR25UNWNhRUZBb1pzTzZXb3JUMWhkS2t1ek1sWU43Rjhwc1dGMFFZX3lrSndLcEczZzJYTDhJSzNhMHYyR19mT1RoVWZVejFnTjlzQkZZME9IOGtFZGJEUHUxM3FIVjdERUhLa01pVFZGVE5iNms3dlczNklXY1BJMU9QbjJYUlZTaHc0OFM0Qm1YdlhWSFIwLVdheGZlUldNVV9aNjVnS9IB_gFBVV95cUxOeXUxeFR1d3ZkWFh2Vnk1ZFlrb1Itb3pwUEFXRTZTbFdWS1E5c05rM1dRVzFMczFhYllmUkU5bzNtZGJPa2hnY2tDNGVsUWU4d09NTDdqWE5lQjRmRVFTdnUyczZZUmNMMExEYl9YWTk1TDM2bWpLMlRkNUhfWHN4VHJDZlJiWnlnTnBVVnMxMk9IOFc5MlQxMUprTEdCWDhUUndXUlFoUHNzcXByeUFPalZqdlNPWlhKczQ2MTh3dExjaVZsVUtNdUktdnZUN0lSWDkzTTB1T1U5dWNZcVlGN3czeGJkV1FtdzlEWUJmY083TWJoWU5Bc20wRy10dw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Netmeds](https://news.google.com/rss/articles/CBMivgFBVV95cUxPblJDWHlXTk5WVVZ3cVhweHdoNlpBZ3F6NlJjWnI2RU1HbHhFVXdOOTJJY3M5akI0NjJqNnNQMkRoeTFwZjlLY3h4cWVXVHE3RnhSeU9GRDl5RmhsYUpQQjJ6Q2FPTWt6YVYzWHNpdVdLX05YQV80X2NWaHQ3MW8ycjAyNklZOGlFd19Ocm9vV0dUcnhBQThhbjFWV3pHMlM0ZENGOXJQQ0tpMW8zZ0lrZ1drNUQwVjQzQUtnUlRR?oc=5)
-
----
-
-### [Less Than 5% Of Stroke Patients In India Reach Hospitals Within Treatment Window - BW Healthcare World](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDExeEFoTDE0Z3R0MFROczdIZDhMbFJWNU5yOE9GbDBPV3pocUNmcEJIUXlaTXNJRW44bWRaUk1uV3RQVmFDREdYU1pZRTR3YllFc3c4b1FaZFZ6ZnRqVnR5eW1rOWJ4eG9Yc01DNkQ0OVZqN1NHREJxSk81RWRTbnJPbVNENDh5WC04UGlBdHFGRzdndTJsbndxVUJZX3hhWHFRNW4ybmhOSVA3c2c0NGNDaTJOQnJvQi0xMHdwbzVhcFl2RDN3?oc=5)
-
-2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDExeEFoTDE0Z3R0MFROczdIZDhMbFJWNU5yOE9GbDBPV3pocUNmcEJIUXlaTXNJRW44bWRaUk1uV3RQVmFDREdYU1pZRTR3YllFc3c4b1FaZFZ6ZnRqVnR5eW1rOWJ4eG9Yc01DNkQ0OVZqN1NHREJxSk81RWRTbnJPbVNENDh5WC04UGlBdHFGRzdndTJsbndxVUJZX3hhWHFRNW4ybmhOSVA3c2c0NGNDaTJOQnJvQi0xMHdwbzVhcFl2RDN3?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEdtYnJBUXhxTzFKbkJDNWZCMWFmWWZYQkNWdDh1akRWUkVoZ1loYzNTVFJWQ1YwdjNkUDIyNkpFOTFsdXQwQ1pFdC1IdVk1bVBkS0lOU21mR25UNWNhRUZBb1pzTzZXb3JUMWhkS2t1ek1sWU43Rjhwc1dGMFFZX3lrSndLcEczZzJYTDhJSzNhMHYyR19mT1RoVWZVejFnTjlzQkZZME9IOGtFZGJEUHUxM3FIVjdERUhLa01pVFZGVE5iNms3dlczNklXY1BJMU9QbjJYUlZTaHc0OFM0Qm1YdlhWSFIwLVdheGZlUldNVV9aNjVnS9IB_gFBVV95cUxOeXUxeFR1d3ZkWFh2Vnk1ZFlrb1Itb3pwUEFXRTZTbFdWS1E5c05rM1dRVzFMczFhYllmUkU5bzNtZGJPa2hnY2tDNGVsUWU4d09NTDdqWE5lQjRmRVFTdnUyczZZUmNMMExEYl9YWTk1TDM2bWpLMlRkNUhfWHN4VHJDZlJiWnlnTnBVVnMxMk9IOFc5MlQxMUprTEdCWDhUUndXUlFoUHNzcXByeUFPalZqdlNPWlhKczQ2MTh3dExjaVZsVUtNdUktdnZUN0lSWDkzTTB1T1U5dWNZcVlGN3czeGJkV1FtdzlEWUJmY083TWJoWU5Bc20wRy10dw?oc=5)
 
 ---
 
-### [More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
+### [Endovascular thrombectomy for acute ischemic stroke with large infarct core: translating results from a randomized trial into clinical practice - Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZk5vTWstOFNVMzg1YU1rZ2JleUpYdVY4aERWYXpPemt6bXh6eHdBQUV1eE9zLXU2cC13MFZiMHduTnhPMWdHY0tsMnJhTG5sTnFsN0ZWazJFX251SUNB?oc=5)
 
-2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
+Source: [Annals of Translational Medicine](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZk5vTWstOFNVMzg1YU1rZ2JleUpYdVY4aERWYXpPemt6bXh6eHdBQUV1eE9zLXU2cC13MFZiMHduTnhPMWdHY0tsMnJhTG5sTnFsN0ZWazJFX251SUNB?oc=5)
 
 ---
 
-### [Study Says Air Pollution May Be Harming Your Brain And Causing Dementia; Here Is What Experts Have To Say - Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
+### [World Brain Stroke Day 2026: Can air pollution cause brain stroke](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
 
-2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Times Now](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk9ncl9GZHI1bXlOYlhUTnlTYi1Fb1Q0OWNERS1qQTJoVmxUZXRFVDFwOTZ4aF9JWjdCaS0xSkFfWmJOLWItelVKMDNhWXVQOFRXYnVONmk2clF5N290M3MyRjlTOXNiQXdPMDN2d2VxODJKa0F5VmJrWDFISUU3NU4wME9YTGJVelZHanhhaUpaNVpBRlYtNXZYV2VpYmo2bWp2bXFvV0RqaWluZWpuVGQyY2lfVlVJSklqN3RTNm53RnZrbHYwMGI1bnFDdzVIR01kYTBVb2w2WXl4XzJ3czFLQUk4cDFTNDl5QkxSc9IB9AFBVV95cUxNZ0c1OEx6TWgxTUdPWXU2YkpndUNsZ082OEpqZUhpeDFiUHJKdHNIc3pJbDFXZUhGU2dIQjNNOHlKLVp5NjNaeHNPWWNTbXg3WUxjRk1MVUM4eV9ERGdBM2NjWTNHR2ZleVkxWmdoZmJUbzRWSE9XNlhpcG1tbTdqeHdTc295TlU0SXVCbDNZOWswVXZNb2l2QzdZTWYyOWpKNUFzNnhNeWRvbXB4Wm5qUnNCX1BXZ205Y2V5N1luUVJHbTQ3SWRvaEZwbWZQU25WLVVBa0NPRzNGM2Jmb29DOWJYMHQyMjV6amtvdHNXazRkLUxF?oc=5)
+Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
+
+---
+
+### [Experts in stroke medicine emphasise on timely treatment - The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWkNyNnhXdkpsYl9xWUctMlBsdWZvRkR4MnluTUpWcEV5M1Z0ckVIU1B3N1pydlhTRUxCdHNoV0JEZEp2NzlWTE9ERmdQZklaWWoyXzdKS0N0Z1FyaWF0dTg1UndGQVhmU09USHpCWUVEUjUxTHdTZEpXQ3ZmdHl0b1FsZmo2TGFOdHBWbmZQZlYzRmZldmFCOHA5TzUxQTV4a0tpQ2NJMHdBM0lyN2N4WHZ5WEdXR0tmdXMxSUtBbDZFclVX0gHLAUFVX3lxTE5JTHZwb3FOc2cyYS1IQTR0Qml1UVJISWdOUktqZEdIT3FIcjhHUFB1MzhrWW5KeWtEdURwalBFLVRLYkhIV3ItSnZrN1RzRHNoOHNiQzNhblhPaWtqemw1MVhuQmJYLV93TnhUcGc5cUhpUjdBbm1XZEIwNEJrdDdDTnFmbmRzRmU1eGozTHRleUliRW5ZMXFwNjlTb2J6YmU1OVMwNGl0R21BZHN6MEgxTXYtdzBHcWNyVi1UNHJlSnhGNDVpODZJSFJr?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWkNyNnhXdkpsYl9xWUctMlBsdWZvRkR4MnluTUpWcEV5M1Z0ckVIU1B3N1pydlhTRUxCdHNoV0JEZEp2NzlWTE9ERmdQZklaWWoyXzdKS0N0Z1FyaWF0dTg1UndGQVhmU09USHpCWUVEUjUxTHdTZEpXQ3ZmdHl0b1FsZmo2TGFOdHBWbmZQZlYzRmZldmFCOHA5TzUxQTV4a0tpQ2NJMHdBM0lyN2N4WHZ5WEdXR0tmdXMxSUtBbDZFclVX0gHLAUFVX3lxTE5JTHZwb3FOc2cyYS1IQTR0Qml1UVJISWdOUktqZEdIT3FIcjhHUFB1MzhrWW5KeWtEdURwalBFLVRLYkhIV3ItSnZrN1RzRHNoOHNiQzNhblhPaWtqemw1MVhuQmJYLV93TnhUcGc5cUhpUjdBbm1XZEIwNEJrdDdDTnFmbmRzRmU1eGozTHRleUliRW5ZMXFwNjlTb2J6YmU1OVMwNGl0R21BZHN6MEgxTXYtdzBHcWNyVi1UNHJlSnhGNDVpODZJSFJr?oc=5)
+
+---
+
+### [World Stroke Day: Up to 75 per cent of post-stroke needs are financial - Express Healthcare](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWZCeE50bTNCMEVYWF81LThaTW1sRTRDa0ZjeUhiUThqeHpVc1MzZDdiSkJhUWVONGRaR3FKMVB6YVZIWkMya1JnVk1mbW03VWF5RVdjNEhLVkRsRU1zdUliQTZjT2ZmOGduYWNYbjhsaWdwX3AwdmtSdG5KQkFhM0R1aWNsS1pncy0xV0EtUkhXNlJtRVZRM1ZRWjJIR2FfZUl1S3BQWllRLVFiNGNsNFR6R2NWdw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Express Healthcare](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWZCeE50bTNCMEVYWF81LThaTW1sRTRDa0ZjeUhiUThqeHpVc1MzZDdiSkJhUWVONGRaR3FKMVB6YVZIWkMya1JnVk1mbW03VWF5RVdjNEhLVkRsRU1zdUliQTZjT2ZmOGduYWNYbjhsaWdwX3AwdmtSdG5KQkFhM0R1aWNsS1pncy0xV0EtUkhXNlJtRVZRM1ZRWjJIR2FfZUl1S3BQWllRLVFiNGNsNFR6R2NWdw?oc=5)
 
 ---
 

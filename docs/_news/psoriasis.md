@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about psoriasis. 1 articles, 1 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # psoriasis News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “psoriasis” and lists
 
 ## Related News (1)
 
-### [World Psoriasis Day 2026 Campaign Aims to Break Stigma Among Young People - The Dermatology Digest](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVBPVW5wWkpGUWtOS3FVTXp5X3p5QmpaRmZNcTU5SWRnZGV4bjktODNJY2dKOExNaDRWOERSVFBuWnR1bk1CMlhoU3ZjYklkb25nN2Zsc05XcUhoLUVCcU04QTd6bDNMUmpFTXEwR0pKS0ZfVWRCNzU1akI4eDRlTmQ2dmMxSm9sM3FiTjNycHhMZG4zVHZHN21CVXlxdThiamc?oc=5)
+### [World Psoriasis Day: Chronic disease awareness and treatment realities](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVJKSEQ4eDI3amhnWkZDRnlBbkw5NUtteWgxcl9lb2NHWW5EblY0ZFNlNlhHOVNLbmpHRU5pX000VWZDRzhyN21Vdi0tQVJ2XzBpOXVtTjl3UnRHYy0xaHVCVm0zMTMxMms3N2JQMVdiUWFjTXZuRS1mUzlHVGp1NE5tVG5tbDdIb0Q1eTV6cnJKbURKQ0s5Nmtzemo0bjI3TnFRRGtoaUJveXJpbVlDVEFjbUVCX09HdGt3WWdrY2VMaUhs?oc=5)
 
-2026-10-28
+2026-10-29
 
-Source: [The Dermatology Digest](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVBPVW5wWkpGUWtOS3FVTXp5X3p5QmpaRmZNcTU5SWRnZGV4bjktODNJY2dKOExNaDRWOERSVFBuWnR1bk1CMlhoU3ZjYklkb25nN2Zsc05XcUhoLUVCcU04QTd6bDNMUmpFTXEwR0pKS0ZfVWRCNzU1akI4eDRlTmQ2dmMxSm9sM3FiTjNycHhMZG4zVHZHN21CVXlxdThiamc?oc=5)
+Source: [CGTN](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVJKSEQ4eDI3amhnWkZDRnlBbkw5NUtteWgxcl9lb2NHWW5EblY0ZFNlNlhHOVNLbmpHRU5pX000VWZDRzhyN21Vdi0tQVJ2XzBpOXVtTjl3UnRHYy0xaHVCVm0zMTMxMms3N2JQMVdiUWFjTXZuRS1mUzlHVGp1NE5tVG5tbDdIb0Q1eTV6cnJKbURKQ0s5Nmtzemo0bjI3TnFRRGtoaUJveXJpbVlDVEFjbUVCX09HdGt3WWdrY2VMaUhs?oc=5)
 
 ---
 

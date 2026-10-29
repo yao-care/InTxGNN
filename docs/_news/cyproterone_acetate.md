@@ -31,6 +31,14 @@ This page combines the AI-predicted indications for Cyproterone Acetate with the
 
 ## Related News (4)
 
+### [Renal Hyperfiltration Dynamics Reveal Distinct Cardiovascular Risks](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
+
+---
+
 ### [Low vitamin B12 is linked to heart disease. Supplements tell a different story](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5)
 
 2026-10-28 <span class="news-indication-tag">heart disease</span>
@@ -39,27 +47,19 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBK
 
 ---
 
-### [Europe Builds a Network to Bring AI Into Heart Care](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
+### [One session of heated tobacco use injures blood vessels and damages DNA](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eGtkNVlWRXF4c3JLcjRUYnNOb0p4UXlvazNzSHZ4TWQ4N3BaeVE2WFBBVFV4QlJIcmxfOWpjWkVHLUxOWGQ0RDRNcHU4b29TQnFrbHhKZU9DWXhf?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVZVZFB3U0QyckJpQUg5bHpUWncyOG8zcXZNTjh5TnFCN2YtR1JtdTVqV0JNdjUtRUhoWVVOUnN2elRnLXVxMmtsZ2MxVDFwR01KVjNoOC11ZWVWakdNOUNMQXpwclZDbG1qamRrMDlvVmRHN2FXaHNVbm8tc3JhTlV5dVBQNnpOd1EzZlBMM2ZlclVlLWc?oc=5)
+Source: [EurekAlert!](https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1eGtkNVlWRXF4c3JLcjRUYnNOb0p4UXlvazNzSHZ4TWQ4N3BaeVE2WFBBVFV4QlJIcmxfOWpjWkVHLUxOWGQ0RDRNcHU4b29TQnFrbHhKZU9DWXhf?oc=5)
 
 ---
 
-### [Abnormal Postpartum BP Linked to Higher Long-Term CVD Risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
+### [Pregnancy May End, But Cardiovascular Risk Can Persist: Why Every Mother Needs A Post-Pregnancy Health Check](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMy1VZlp1Nm1lQjBZdWlrV3ZBckdwQ0FvSFN5dEhyeHFlM19yWFNKOFJ4WHhzSmxQQnh1YzctV3VzRk1vdVVZOF9iUHJGdGN1M2pzMk8tRUVCbzV0U2ZaQ184eHA0Zm5qNjFkSTh6WGRIQkgxWm1PcXFCRmcteHUyRUpBd0VfQzd3WXRQbWRIbHRqY2RpMFFva29uN2hWbS1hTzRxMEdmZWh5MzVTcTd1YS1Md3NuOFFhQVNiX1gzbFA2UnBpNHFrRzJ4T1llQ3BObUhBZW52S1BqZ3pfb2pINmM2MkRlVF81Rl9FUkh3?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
-
----
-
-### [Heated tobacco products cause immediate cardiovascular and genetic damage](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMy1VZlp1Nm1lQjBZdWlrV3ZBckdwQ0FvSFN5dEhyeHFlM19yWFNKOFJ4WHhzSmxQQnh1YzctV3VzRk1vdVVZOF9iUHJGdGN1M2pzMk8tRUVCbzV0U2ZaQ184eHA0Zm5qNjFkSTh6WGRIQkgxWm1PcXFCRmcteHUyRUpBd0VfQzd3WXRQbWRIbHRqY2RpMFFva29uN2hWbS1hTzRxMEdmZWh5MzVTcTd1YS1Md3NuOFFhQVNiX1gzbFA2UnBpNHFrRzJ4T1llQ3BObUhBZW52S1BqZ3pfb2pINmM2MkRlVF81Rl9FUkh3?oc=5)
 
 ---
 
