@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 411
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-description: "Hyaluronidase: predicted new indication Top TxGNN rank: esotropia . Best-supported candidate: diabetic retinopathy (esotropia) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hyaluronidase
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Hyaluronidase: Top TxGNN rank: esotropia (evidence supports an adverse-event link only). Best-supported candidate: diabetic retinopathy (esotropia)
+## Hyaluronidase: Esotropia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,9 +49,9 @@ This report therefore evaluates diabetic retinopathy as the lead candidate and a
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Top TxGNN rank: esotropia (evidence supports an adverse-event link only). Best-supported candidate: diabetic retinopathy (esotropia) |
+| Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 0.9989 |
-| Evidence Level | Diabetic retinopathy: L1 (as scored, based on two completed Phase 3 trials in vitreous hemorrhage; efficacy results not reviewed). Esotropia: L4 |
+| Evidence Level | Diabetic retinopathy: L5 (as scored, based on two completed Phase 3 trials in vitreous hemorrhage; efficacy results not reviewed). Esotropia: L5 |
 | India Market Status | Marketed (valid licences: 7 of 7) |
 | Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails (diabetic retinopathy, as a research question only); Hold for all other predictions |
