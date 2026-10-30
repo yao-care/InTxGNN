@@ -53,7 +53,7 @@ The evidence is mostly small, dated studies of the lidocaine/prilocaine combinat
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
-| Number of Registrations | 19 (valid: 19) |
+| Number of Listed Products | 19 (valid: 19) |
 | Recommended Decision | Hold (research question; see Conclusion) |
 
 ---

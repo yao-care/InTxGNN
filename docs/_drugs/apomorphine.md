@@ -53,7 +53,7 @@ Overall, the evidence is hypothesis-level, and the direction of any therapeutic 
 | TxGNN Prediction Score | 0.9975 (rank 1); 0.9969 (schizophrenia) |
 | Evidence Level | L5 for the rank 1 prediction; L3 for schizophrenia |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question only |
 
 ---

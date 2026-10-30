@@ -50,7 +50,7 @@ The TxGNN model ranks **brachyolmia-amelogenesis imperfecta syndrome** as its to
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

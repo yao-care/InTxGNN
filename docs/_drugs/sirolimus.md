@@ -51,7 +51,7 @@ Among the other predictions, **lymphangiomyoma (LAM)** has by far the strongest 
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
-| Number of Registrations | 15 (valid: 15) |
+| Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Hold (research question; not ready to advance) |
 
 ## Why is This Prediction Reasonable?

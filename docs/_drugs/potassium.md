@@ -51,7 +51,7 @@ with **23 registered clinical trials** and **20 publications** compiled for this
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L1 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The L1 grade is the one assigned in the data compiled for this report. It rests largely on meta-analyses of randomized trials and on one older Phase 3 trial of potassium and sodium. Many of the registered Phase 3 trials involve other drugs (for example losartan potassium), where potassium is only the salt counter-ion. A strict reading of the rules (at least two completed Phase 3 RCTs of potassium itself) would be more conservative.

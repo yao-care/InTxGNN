@@ -51,7 +51,7 @@ Fluorouracil is an antimetabolite chemotherapy drug. It is recorded for skin con
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 approvals (the list may be partial) |
+| Number of Listed Products | At least 20 approvals (the list may be partial) |
 | Recommended Decision | Hold |
 
 ---

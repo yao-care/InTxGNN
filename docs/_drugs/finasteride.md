@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but there a
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 *Note: The top-ranked prediction by TxGNN score is Ambras type hypertrichosis universalis congenita (0.9999), but it has no trials or literature (L5). Hypertrichosis is presented here because it is the highest-ranked prediction with any supporting literature.*

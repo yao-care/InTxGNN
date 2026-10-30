@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant for **calcium-alkali syndrome**, but
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
-| Number of Registrations | 12 (valid: 12) |
+| Number of Listed Products | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

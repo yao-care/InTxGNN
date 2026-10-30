@@ -53,7 +53,7 @@ The evidence is weak and symptomatic only.
 | TxGNN Prediction Score | 0.9982 (rheumatoid arthritis); Prinzmetal angina scored 0.9984 |
 | Evidence Level | L5 for rheumatoid arthritis (older reviews and clinical reports only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (rheumatoid arthritis is flagged as a research question) |
 
 ---

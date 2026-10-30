@@ -51,7 +51,7 @@ Note: the top-ranked TxGNN prediction is a rare COL4A1-related small vessel dise
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
-| Number of Registrations | 15 (valid: 15) |
+| Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Hold (research question; see conclusion) |
 
 ## Why is This Prediction Reasonable?

@@ -50,7 +50,7 @@ Because bipolar disorder is already a listed original indication, this is better
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 (provisional; see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on the evidence level:** No clinical trials were supplied in the data compiled for this report. The L1 grade rests on the literature, which describes two Phase 3 randomised controlled trials of inhaled loxapine, and on regulatory approval of that formulation in the USA and EU. The primary trial publications should be verified before the grade is finalised.

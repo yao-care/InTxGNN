@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
-| Number of Registrations | 5 (valid: 5) |
+| Number of Listed Products | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **psychogenic movement disorders**, w
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 Eight other predictions, all mainly movement disorders, scored 0.9971 to 0.9989. Only two have any literature: extrapyramidal and movement disease (L4, 4 publications) and lingual-facial-buccal dyskinesia (L4, 21 publications).

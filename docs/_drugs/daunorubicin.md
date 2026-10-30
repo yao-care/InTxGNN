@@ -53,7 +53,7 @@ but the supporting evidence is indirect: **2 Phase 2 clinical trials** (both of 
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
-| Number of Registrations | 6 (valid: 6) |
+| Number of Listed Products | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---

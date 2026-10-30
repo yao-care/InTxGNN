@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant to **focal stiff limb syndrome**, bu
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (20 of 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 (valid: 20) |
+| Number of Listed Products | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

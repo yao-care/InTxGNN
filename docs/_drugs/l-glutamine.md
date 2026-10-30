@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is drug-induced osteoporosis, but that p
 | TxGNN Prediction Score | 0.9998 (drug-induced osteoporosis); 0.9985 (dermatitis) |
 | Evidence Level | L5 (drug-induced osteoporosis); L3 (dermatitis) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Hold (drug-induced osteoporosis); Hold for dermatitis, as a research question only |
 
 ---

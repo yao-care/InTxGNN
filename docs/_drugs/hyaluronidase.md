@@ -53,7 +53,7 @@ This report therefore evaluates diabetic retinopathy as the lead candidate and a
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | Diabetic retinopathy: L5 (as scored, based on two completed Phase 3 trials in vitreous hemorrhage; efficacy results not reviewed). Esotropia: L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails (diabetic retinopathy, as a research question only); Hold for all other predictions |
 
 ---

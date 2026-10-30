@@ -53,7 +53,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting any 
 | TxGNN Prediction Score | 0.9975 (rank 1, ADHD inattentive type); 0.9974 (irritable bowel syndrome); 0.9913 (neurogenic bladder) |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (neurogenic bladder: Research Question) |
 
 ---

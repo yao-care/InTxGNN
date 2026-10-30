@@ -51,7 +51,7 @@ The data compiled for this report include **15 clinical trials** and **20 public
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (20 of 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 (valid: 20) |
+| Number of Listed Products | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 **Note on evidence level:** One completed Phase 3 trial directly studies hepatitis B (NCT00114361). A second Phase 2/3 pilot is also completed (NCT00275938). Both test ribavirin only as an add-on to interferon, so the evidence is weaker than "L1" suggests. The Phase 3 criterion for L1 is formally met only by one trial in hepatitis B, so I rate this **L2**: one completed Phase 3 trial that directly studies the predicted disease, with the caveats above.

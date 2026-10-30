@@ -53,7 +53,7 @@ This is an early-stage research question, not a validated repurposing opportunit
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L4 (mechanistic and narrative literature only; no clinical trials) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---

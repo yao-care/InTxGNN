@@ -50,7 +50,7 @@ The TxGNN model predicts it may be relevant to **cholesterol-ester transfer prot
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 licences (single-ingredient products; the list may be partial) |
+| Number of Listed Products | At least 20 licences (single-ingredient products; the list may be partial) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -53,7 +53,7 @@ The evidence is indirect: most of it concerns combined oral contraceptives rathe
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 (weak; the only Phase 3 trial does not clearly study desogestrel) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---

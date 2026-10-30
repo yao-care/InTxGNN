@@ -51,7 +51,7 @@ Rocuronium is a non-depolarizing neuromuscular blocking agent marketed in India 
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
-| Number of Registrations | 11 (valid: 11) |
+| Number of Listed Products | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ---

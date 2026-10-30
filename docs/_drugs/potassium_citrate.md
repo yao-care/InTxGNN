@@ -53,7 +53,7 @@ The TxGNN model predicts it may be effective for **familial visceral myopathy**,
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Licences | At least 20 (the list may be partial) |
+| Number of Listed Products | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
 
 ---

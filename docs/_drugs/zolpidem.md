@@ -50,7 +50,7 @@ No clinical trials are registered for this prediction, but **20 publications** (
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 (as assigned in the data compiled for this report; see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The L1 grade rests on a network meta-analysis, a clinical practice guideline and a Phase 3 trial in which zolpidem ER served only as an active comparator. No completed Phase 3 trials with zolpidem as the primary study drug are registered for this prediction. Because the indication is already approved, the grade reflects well-established use rather than new-indication evidence.

@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina** (vasospas
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ---

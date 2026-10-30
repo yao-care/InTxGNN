@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is *well-differentiated fetal adenocarci
 | TxGNN Prediction Score | 0.9985 (Ewing sarcoma) |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 Other predictions in the list:

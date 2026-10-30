@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **obsolete bundle branch block*
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
-| Number of Registrations | 11 (valid: 11) |
+| Number of Listed Products | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -53,7 +53,7 @@ There are **no registered clinical trials**, but **20 publications**, mostly mac
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 (the list may be partial) |
+| Number of Listed Products | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
 
 The evidence level is L5 even though the macaque literature is substantial. No cited study is a human clinical trial, and the macaque studies mostly examine SHIV (a chimeric virus) challenge for prevention, not SIV infection treatment in humans. Under the evidence rules, no study directly establishes this predicted disease as a human therapeutic target.

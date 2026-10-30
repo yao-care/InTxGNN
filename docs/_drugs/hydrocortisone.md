@@ -51,7 +51,7 @@ with **1 clinical trial** (Phase 3) and **20 publications** retrieved, but most 
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 per the underlying scoring (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (research question) |
 
 *Note on evidence level:* The scoring assigns L1, but only one completed Phase 3 trial was found, and it used hydrocortisone as the comparator rather than the test therapy. By the stated rules (≥2 completed Phase 3 RCTs), the evidence is closer to L2 at best, and it does not show hydrocortisone-specific efficacy.

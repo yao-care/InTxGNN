@@ -50,7 +50,7 @@ The TxGNN model ranks **punctate epithelial keratoconjunctivitis** highest at 0.
 | TxGNN Prediction Score | 0.9967 (punctate epithelial keratoconjunctivitis); 0.9946 (common wart) |
 | Evidence Level | L5 (top-ranked indication); L2 (common wart) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (top-ranked indication); Proceed with Guardrails for common wart as a research question |
 
 ## Why is This Prediction Reasonable?

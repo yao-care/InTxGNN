@@ -51,7 +51,7 @@ Methylergometrine is an ergot-derived drug marketed in India as tablets and inje
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 The ten predictions all score between 0.9957 and 0.9987. The table below shows how the evidence differs between them.

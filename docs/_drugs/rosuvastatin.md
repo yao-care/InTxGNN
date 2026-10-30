@@ -53,7 +53,7 @@ The only genuinely novel prediction with a body of evidence is **HIV infectious 
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 for rank 1; L1 for Familial Hypercholesterolemia |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold for rank 1; Proceed with Guardrails for Familial Hypercholesterolemia |
 
 ---

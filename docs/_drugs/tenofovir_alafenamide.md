@@ -51,7 +51,7 @@ Support currently comes from **8 publications**, mostly macaque studies, and **n
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
-| Number of Registrations | 9 (valid: 9) |
+| Number of Listed Products | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

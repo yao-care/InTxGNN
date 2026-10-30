@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **heparin cofactor 2 deficiency**,
 | TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

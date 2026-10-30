@@ -51,7 +51,7 @@ The prediction is a computational signal only and does not hold up on mechanisti
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
-| Number of Registrations | 19 (valid: 19) |
+| Number of Listed Products | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

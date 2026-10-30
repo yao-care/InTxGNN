@@ -49,7 +49,7 @@ Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class,
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 (the list may be partial) |
+| Number of Listed Products | At least 20 (the list may be partial) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

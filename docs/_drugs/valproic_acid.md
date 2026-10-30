@@ -50,7 +50,7 @@ This is essentially an extension of its established use to a seizure subtype, ra
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 The first-ranked prediction, trigeminal nerve neoplasm (score 0.9997), was not selected. It has only a single unrelated case series (Sturge-Weber syndrome) and is rated L5 with a Hold recommendation. Visual epilepsy was chosen as the lead indication because it has the strongest supporting evidence among the predictions. Other predictions are summarised below.

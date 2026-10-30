@@ -50,7 +50,7 @@ No clinical trials are registered for this indication, but **14 publications** (
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 (based on randomized controlled trials in the literature; see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note: Peptic ulcer disease is essentially an on-label use, so this is not a true repurposing. The L1 grade rests on published double-blind RCTs rather than registered trials, and the grade is moderately uncertain.*

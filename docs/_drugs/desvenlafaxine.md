@@ -52,7 +52,7 @@ The TxGNN model predicts it may be useful for **obsessive-compulsive disorder**,
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | at least 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

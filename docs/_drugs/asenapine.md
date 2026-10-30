@@ -51,7 +51,7 @@ The only prediction with literature support is **major affective disorder** (**1
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 For reference, the best-supported prediction is major affective disorder (score 0.9957, Evidence Level L1 inferred from a meta-analysis and reviews, decision: Proceed with Guardrails). This is an on-label use and is discussed below.

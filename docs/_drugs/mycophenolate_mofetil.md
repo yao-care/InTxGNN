@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, wit
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L2 (as assigned in the data; the supporting trials are small and indirect, so in practice the evidence is weaker) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (treated as a research question) |
 
 ## Why is This Prediction Reasonable?

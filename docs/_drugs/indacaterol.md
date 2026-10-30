@@ -51,7 +51,7 @@ Indacaterol is an ultra-long-acting beta2-agonist bronchodilator, marketed in In
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
-| Number of Registrations | 9 (valid: 9) |
+| Number of Listed Products | 9 (valid: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The data compiled for this report predicted 10 candidate indications. Bronchial disease is the only one with clinical trial and literature support. The other nine (for example nephrogenic syndrome of inappropriate antidiuresis, headache disorder, anaphylaxis and myositis) have no trials or publications and remain at Hold. Bronchial disease is therefore the focus of this report.

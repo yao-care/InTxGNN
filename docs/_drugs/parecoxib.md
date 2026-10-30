@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **0
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
-| Number of Registrations | 5 (valid: 5) |
+| Number of Listed Products | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

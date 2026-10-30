@@ -51,7 +51,7 @@ This is largely an extension of established use (asthma, bronchitis, emphysema) 
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
-| Number of Registrations | 8 (valid: 8) |
+| Number of Listed Products | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

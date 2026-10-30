@@ -49,7 +49,7 @@ Fulvestrant is an estrogen receptor antagonist and degrader, marketed in India a
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 (preclinical/mechanistic evidence only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (20 of 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 (valid: 20) |
+| Number of Listed Products | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -46,8 +46,8 @@ The TxGNN model produced candidates for Tiagabine, but every candidate that can 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 1 (valid: 1) |
 
 ## Known uses among the model's candidates
 

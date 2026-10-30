@@ -51,7 +51,7 @@ Support comes from **15 publications** (including two observational cohort studi
 | TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **prostate cancer/brain cancer suscep
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 for the top-ranked prediction (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 **Note on the top-ranked prediction:** It is a genetic susceptibility entity that overlaps with prostate cancer mainly by name.

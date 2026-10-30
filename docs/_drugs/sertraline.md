@@ -51,7 +51,7 @@ Sertraline is an antidepressant of the selective serotonin reuptake inhibitor (S
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 (the list may be partial); all are single-ingredient products |
+| Number of Listed Products | At least 20 (the list may be partial); all are single-ingredient products |
 | Recommended Decision | Hold |
 
 ---

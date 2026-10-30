@@ -51,7 +51,7 @@ with **1 clinical trial** (a Phase 2 study in mixed soft tissue sarcomas) and **
 | TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 *Note: the data compiled for this report did not include approved-indication text from the India licences. The original indication is therefore taken from the drug's known indications.*

@@ -49,7 +49,7 @@ Ferric carboxymaltose is an intravenous iron replacement product marketed in Ind
 | TxGNN Prediction Score | 0.9900 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (14 of 14) – CDSCO approval status is not included in this data |
-| Number of Registrations | 14 (valid: 14) |
+| Number of Listed Products | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

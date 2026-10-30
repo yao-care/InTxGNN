@@ -51,7 +51,7 @@ with **2 clinical trials** (both in sarcoma populations, not liposarcoma-specifi
 | TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold (research question; further evidence needed) |
 
 ## Why is This Prediction Reasonable?

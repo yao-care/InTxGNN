@@ -51,7 +51,7 @@ At this stage the prediction is a research question, not an evidence-backed indi
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L4 (preclinical and mechanistic support only; the one trial was withdrawn) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

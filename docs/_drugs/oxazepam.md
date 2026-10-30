@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **insomnia**, with **no registe
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
-| Number of Registrations | 15 (valid: 15) |
+| Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

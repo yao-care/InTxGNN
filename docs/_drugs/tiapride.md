@@ -49,7 +49,7 @@ Tiapride is a substituted benzamide (a dopamine D2/D3 receptor antagonist) marke
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L2 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The compiled data assign L2 on the basis of one randomised pilot study and several controlled studies. Strictly under the grading rules, which require a completed Phase 2/3 RCT, this is better read as a low L2 or high L3. The RCT is a small pilot study, and the controlled studies are from the 1980s.

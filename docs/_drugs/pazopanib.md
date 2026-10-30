@@ -52,7 +52,7 @@ The lead indication is the highest-ranked prediction that has any supporting evi
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L3 (retrospective series, real-world data and one single-arm Phase 2 study; no randomized or registered trials) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold (research question; see below) |
 
 ## Why is This Prediction Reasonable?

@@ -50,7 +50,7 @@ Currently **18 publications** support this direction, including a double-blind, 
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (provisional, see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note: The L1 level rests on the titles of the literature. The pivotal study is described as a phase 3 randomized, double-blind, placebo-controlled study, but its results and a second completed Phase 3 trial have not been verified, so the level may be overstated.*

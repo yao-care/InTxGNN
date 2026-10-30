@@ -51,7 +51,7 @@ The mechanistic basis for an anti-HBV effect is weak, so this should be treated 
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L2 (by the scoring rules; see the note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (14 of 14) – CDSCO approval status is not included in this data |
-| Number of Registrations | 14 (valid: 14) |
+| Number of Listed Products | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* The only completed Phase 2/3 study (NCT02555943, n=23) is in HCV/HBV co-infection and measures HCV cure as its primary endpoint. The only study that directly tests HBV is a single-arm Phase 2 pilot. The strict L2 label therefore overstates the strength of the evidence for HBV efficacy.

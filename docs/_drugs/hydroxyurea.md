@@ -53,7 +53,7 @@ The best-supported repurposing direction in the data compiled for this report is
 | TxGNN Prediction Score | 0.9997 (breast carcinoma); 0.9967 (HbSC) |
 | Evidence Level | L5 (breast carcinoma); L2 (HbSC) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (breast carcinoma); Proceed with Guardrails (HbSC) |
 
 ---

@@ -46,8 +46,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Rebamipide, 
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 5 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
-| Number of Registrations | 9 (valid: 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 9 (valid: 9) |
 
 ## Known uses recorded for this drug
 

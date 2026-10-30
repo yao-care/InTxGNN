@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **Tourette syndrome**, but this
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (13 of 13) – CDSCO approval status is not included in this data |
-| Number of Registrations | 13 (valid: 13) |
+| Number of Listed Products | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

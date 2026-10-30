@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **1
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L1 (as assigned in the compiled data; see the caveat below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
-| Number of Registrations | 15 (valid: 15) |
+| Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Evidence level caveat:** The only Phase 3 migraine trial (NCT05484349) has an unknown status and no verified results. The strongest completed evidence is a placebo-controlled RCT in chronic daily headache, not episodic migraine. The L1 grade should therefore be read cautiously.

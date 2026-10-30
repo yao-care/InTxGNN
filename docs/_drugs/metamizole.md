@@ -53,7 +53,7 @@ The evidence for this prediction is therefore weak. The only migraine-related pr
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
-| Number of Registrations | 5 (valid: 5) |
+| Number of Listed Products | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---

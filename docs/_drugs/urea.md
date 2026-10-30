@@ -53,7 +53,7 @@ This report summarises the available regulatory and safety information to suppor
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (prediction pending) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---

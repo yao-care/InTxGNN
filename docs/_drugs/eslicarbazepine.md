@@ -51,7 +51,7 @@ with **1 completed Phase 2 clinical trial (452 participants)** and a small body 
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
-| Number of Registrations | 9 (valid: 9) |
+| Number of Listed Products | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

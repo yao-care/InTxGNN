@@ -49,7 +49,7 @@ Levetiracetam is an antiseizure medication originally used to treat partial (foc
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 (visual epilepsy); L1 for the best-supported alternative, status epilepticus |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (visual epilepsy); Proceed with Guardrails (status epilepticus) |
 
 ## Why is This Prediction Reasonable?

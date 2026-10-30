@@ -53,7 +53,7 @@ The other nine predictions (including the top-ranked hypertrichosis) have little
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L1 (precocious puberty) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
-| Number of Registrations | 6 (valid: 6) |
+| Number of Listed Products | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails (precocious puberty only) |
 
 ---

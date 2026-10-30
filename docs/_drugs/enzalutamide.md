@@ -52,7 +52,7 @@ Both are essentially the already-approved prostate cancer indication rather than
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 for male reproductive organ cancer and prostate neoplasm (on-label evidence); L5 for the top-ranked prediction |
 | India Market Status | Listed in a compiled Indian medicine price dataset (17 of 17) – CDSCO approval status is not included in this data |
-| Number of Registrations | 17 (valid: 17) |
+| Number of Listed Products | 17 (valid: 17) |
 | Recommended Decision | Proceed with Guardrails (restricted to prostate cancer); Hold for the other predictions |
 
 ---

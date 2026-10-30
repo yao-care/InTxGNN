@@ -44,7 +44,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|
 | Original Indication | Not recorded in the local data |
 | India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
-| Number of Registrations | 12 (valid: 12) |
+| Number of Listed Products | 12 (valid: 12) |
 
 ## India Market Information
 

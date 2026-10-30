@@ -53,7 +53,7 @@ The retrieved papers concern glycolic acid-containing polymers (PGA, PLGA) used 
 | TxGNN Prediction Score | 0.9969 (esophageal disease); 0.9972 for the top-ranked atypical coarctation of aorta |
 | Evidence Level | L5 (esophageal disease); L5 for the top-ranked prediction |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

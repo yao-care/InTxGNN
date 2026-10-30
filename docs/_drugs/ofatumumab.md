@@ -51,7 +51,7 @@ Ofatumumab is an anti-CD20 antibody. The TxGNN model (deep learning) predicts it
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

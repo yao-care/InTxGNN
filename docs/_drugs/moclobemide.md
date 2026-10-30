@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **agoraphobia**, with **no regi
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
-| Number of Registrations | 6 (valid: 6) |
+| Number of Listed Products | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

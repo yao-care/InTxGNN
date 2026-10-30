@@ -51,7 +51,7 @@ The prediction overlaps heavily with existing indications, so it is best treated
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 (L5 would apply to model prediction alone; indirect literature exists, but no completed trials) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -51,7 +51,7 @@ Dexibuprofen is a nonsteroidal anti-inflammatory drug (NSAID), the S-enantiomer 
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
-| Number of Registrations | 5 (valid: 5) |
+| Number of Listed Products | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---

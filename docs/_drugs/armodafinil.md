@@ -53,7 +53,7 @@ The evidence is weak: the trials mostly address daytime sleepiness and fatigue i
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (14 of 14) – CDSCO approval status is not included in this data |
-| Number of Registrations | 14 (valid: 14) |
+| Number of Listed Products | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
 *Note: the Indian licence records compiled for this report contain no approved-indication text, so the original indication is taken from the indication list compiled for this report.*

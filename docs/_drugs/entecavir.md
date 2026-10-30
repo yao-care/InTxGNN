@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L3 (indirect evidence only; no direct evidence of anti-HCV activity) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ---

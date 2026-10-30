@@ -50,7 +50,7 @@ with **19 clinical trials** and **20 publications** currently supporting this di
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The highest-scoring prediction in the data is cystic echinococcosis (0.9952), but it has only a pipeline review and no supporting trials, so it is rated L5 / Hold. The report focuses on Plasmodium vivax malaria, the best-supported prediction.

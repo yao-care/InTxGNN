@@ -53,7 +53,7 @@ The evidence for this prediction is therefore weak, and the recommendation is to
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | at least 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

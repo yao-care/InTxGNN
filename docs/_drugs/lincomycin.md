@@ -51,7 +51,7 @@ Lincomycin is a lincosamide antibiotic. The TxGNN model (deep learning) predicts
 | TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 (the list may be partial; 20 single-ingredient licences are shown) |
+| Number of Listed Products | At least 20 (the list may be partial; 20 single-ingredient licences are shown) |
 | Recommended Decision | Hold |
 
 ---

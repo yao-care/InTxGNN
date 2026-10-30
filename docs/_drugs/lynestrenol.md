@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **migraine disorder**. Support is 
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L3 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 *Evidence level note:* Both publications directly address migraine. However, one is a general review and the other a 1963 report that appears to be uncontrolled and has no abstract. Neither is a controlled trial, so L3 is the most the evidence can support.

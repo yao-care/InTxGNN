@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **intracranial arteriosclerosis
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (observational cohort data only; the Phase 3 trial has not reported results) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

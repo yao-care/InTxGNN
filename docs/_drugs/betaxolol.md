@@ -46,8 +46,8 @@ All candidates produced by the TxGNN model for Betaxolol (score ≥ 0.99) that c
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 3 (valid: 3) |
 
 ## Known uses among the model's candidates
 

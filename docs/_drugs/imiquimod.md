@@ -51,7 +51,7 @@ with **2 clinical trials** and **9 publications** currently supporting this dire
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), the data compiled for this report would not reach L1. Only one Phase 3 trial is completed (a small open-label, single-arm study), and the other was a terminated RCT. The L1 label reflects the strong evidence for the approved indications, and the evidence for the extension to other pre-malignant sites is closer to L3 (reviews and case reports). The decision below should be read with that in mind.

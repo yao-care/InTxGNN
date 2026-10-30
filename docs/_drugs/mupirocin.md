@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is **pleural empyema** (score 0.9949), b
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 (pleural empyema); L3 (SSSS) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (pleural empyema); SSSS is a Research Question |
 
 ---

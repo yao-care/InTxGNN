@@ -51,7 +51,7 @@ with **no registered clinical trials** and **2 publications** (1979 and 1983) cu
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -46,8 +46,8 @@ The TxGNN model has no candidate indication for Papain with a score of 0.99 or h
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 0 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 1 (valid: 1) |
 
 ## Known uses recorded for this drug
 

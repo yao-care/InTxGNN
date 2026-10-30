@@ -51,7 +51,7 @@ SIV infection is an animal-model disease rather than a human indication, so the 
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
-| Number of Registrations | 11 (valid: 11) |
+| Number of Listed Products | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

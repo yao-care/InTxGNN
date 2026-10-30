@@ -51,7 +51,7 @@ Among the seven predicted indications, the most developed evidence is for **cere
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 *Note: Rank 1 (pulmonary hypertension with unclear multifactorial mechanism) has no trials or publications (L5). This report focuses on rank 2, which has the more informative evidence, and summarises the other predictions at the end.*

@@ -54,7 +54,7 @@ By contrast, the third-ranked prediction, **ventricular tachycardia**, is suppor
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 (CPVT); for reference, ventricular tachycardia (rank 3) is L1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (CPVT); Proceed with Guardrails for ventricular tachycardia (rank 3) |
 
 ---

@@ -53,7 +53,7 @@ The data compiled for this report include **20 clinical trials** and **20 public
 | TxGNN Prediction Score | 0.9991 (myelodysplastic syndrome); the top-ranked term, unclassified myelodysplastic syndrome, scores 0.9993 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on selection:** The highest-scoring predictions (unclassified MDS, refractory cytopenia of childhood, congenital sideroblastic anemia) have no or only indirect supporting evidence. This report therefore focuses on the broader MDS entity, which has the strongest evidence among the predictions. Aplastic-type anemia (L3) and Ewing sarcoma (L3) are secondary research questions.

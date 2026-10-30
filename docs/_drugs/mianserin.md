@@ -51,7 +51,7 @@ Among the other predicted indications, **neurotic disorder** has the most mianse
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 (for the top-ranked indication) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 Other predicted indications, for comparison:

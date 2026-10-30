@@ -51,7 +51,7 @@ Support comes from **about 19 publications** (mostly reviews, case reports and r
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: the top-ranked prediction by score, vitamin B12- and folate-independent constitutional megaloblastic anemia (0.9989), has no trials or literature (L5, Hold). Plummer-Vinson syndrome is the most credible candidate and is the focus of this report.

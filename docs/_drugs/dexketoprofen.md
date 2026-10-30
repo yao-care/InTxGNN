@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **migraine disorder** (the top-
 | TxGNN Prediction Score | 0.9987 (migraine disorder); 0.9990 (tendinitis) |
 | Evidence Level | L5 (with caveats: the trials are Phase 4 or N/A rather than Phase 3, and are mostly emergency department studies) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
-| Number of Registrations | 6 (valid: 6) |
+| Number of Listed Products | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: The top-ranked prediction, tendinitis (score 0.9990), has only one indirect study (L4, Hold). This report focuses on migraine disorder, the prediction with the strongest supporting evidence.

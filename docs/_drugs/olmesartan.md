@@ -53,7 +53,7 @@ The strongest evidence among the top 10 predictions is for **migraine disorder**
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ---

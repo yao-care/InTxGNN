@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **lymph node palisaded myofibroblasto
 | TxGNN Prediction Score | 0.9982 (rank 1); 0.9981 (disease of peritoneum) |
 | Evidence Level | L5 (rank 1); L3 (disease of peritoneum) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
-| Number of Registrations | 15 (valid: 15) |
+| Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Hold (rank 1); Hold overall, with disease of peritoneum as a research question |
 
 The India approved-indication text was not available in the data compiled for this report, so the original indication above is not drawn from an India-specific approved-indication text.

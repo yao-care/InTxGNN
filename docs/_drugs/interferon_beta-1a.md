@@ -46,8 +46,8 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Interfero
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 4 (valid: 4) |
 
 ## Known uses among the model's candidates
 

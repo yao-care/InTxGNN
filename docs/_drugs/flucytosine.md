@@ -49,7 +49,7 @@ Flucytosine is an antifungal prodrug marketed in India as 500 mg tablets. The Tx
 | TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

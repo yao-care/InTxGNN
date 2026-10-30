@@ -51,7 +51,7 @@ This is a veterinary indication, so it falls outside the scope of human drug rep
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (13 of 13) – CDSCO approval status is not included in this data |
-| Number of Registrations | 13 (valid: 13) |
+| Number of Listed Products | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -46,8 +46,8 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Flurazepa
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
-| Number of Registrations | 6 (valid: 6) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 6 (valid: 6) |
 
 ## Known uses among the model's candidates
 

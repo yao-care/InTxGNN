@@ -51,7 +51,7 @@ Pinaverium is a gastrointestinal-selective calcium channel blocker (antispasmodi
 | TxGNN Prediction Score | 0.9922 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

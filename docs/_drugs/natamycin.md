@@ -51,7 +51,7 @@ with **1 completed Phase 3 trial** and **14 publications** currently supporting 
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (with caveat: only one completed Phase 3 trial, and it tested a natamycin + lactulose combination) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

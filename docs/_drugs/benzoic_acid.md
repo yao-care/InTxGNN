@@ -49,7 +49,7 @@ Benzoic acid is marketed in India in topical ointment products. The TxGNN model 
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

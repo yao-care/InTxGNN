@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **hypertrichosis**, which has no clin
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 for hypertrichosis; L3 for headache disorder and migraine disorder |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
-| Number of Registrations | 6 (valid: 6) |
+| Number of Listed Products | 6 (valid: 6) |
 | Recommended Decision | Hold (hypertrichosis); headache disorder may proceed as a research question only |
 
 ## Why is This Prediction Reasonable?

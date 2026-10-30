@@ -53,7 +53,7 @@ This report therefore focuses on osteoarthritis (rank 5), as the most credible c
 | TxGNN Prediction Score | 0.9964 (osteoarthritis); 0.9994 (rank 1, brachydactyly-syndactyly syndrome) |
 | Evidence Level | L5 (preclinical only, for osteoarthritis); L5 for rank 1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (rank 1 prediction); research question for osteoarthritis |
 
 ---

@@ -46,8 +46,8 @@ The TxGNN model's candidates for Diltiazem (score ≥ 0.99) are all known uses, 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | at least 20 |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
+| Number of Listed Products | at least 20 |
 
 ## Known uses among the model's candidates
 

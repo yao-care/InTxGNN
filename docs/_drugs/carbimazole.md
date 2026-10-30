@@ -50,7 +50,7 @@ The TxGNN model predicts it may be useful for **resistance to thyroid hormone du
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
-| Number of Registrations | 19 (valid: 19) |
+| Number of Listed Products | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

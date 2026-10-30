@@ -53,7 +53,7 @@ That evidence supports infection *prevention* in myeloma patients, not treatment
 | TxGNN Prediction Score | 0.9992 (punctate epithelial keratoconjunctivitis); 0.9981 (monoclonal gammopathy) |
 | Evidence Level | L5 for the top-ranked prediction; L1 for monoclonal gammopathy (infection prophylaxis in myeloma only); L3 for septicemic plague (preclinical) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (top prediction); Proceed with Guardrails as a research question for infection prophylaxis in myeloma |
 
 ---

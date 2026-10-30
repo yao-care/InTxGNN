@@ -53,7 +53,7 @@ Among the ten predictions, the best-supported is **perinatal disease** (specific
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (congenital prothrombin deficiency); L1 (perinatal disease) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
-| Number of Registrations | 8 (valid: 8) |
+| Number of Listed Products | 8 (valid: 8) |
 | Recommended Decision | Hold (congenital prothrombin deficiency); Proceed with Guardrails (perinatal disease, limited to BPD prevention in very-low-birth-weight infants) |
 
 ---

@@ -51,7 +51,7 @@ The table focuses on **headache disorder**, the only prediction with a direct cl
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 **Note on the evidence level:** The trial (NCT06786650) studies tenoxicam directly in acute migraine, which falls under headache disorder. However, it is still active, has no results, and no published study of tenoxicam in headache is included. The two publications concern NSAIDs and triptans in general and are indirect. The evidence is therefore reported conservatively as L5 (prediction supported by a registered but unreported trial only) rather than the L3 shown in the compiled scoring data.

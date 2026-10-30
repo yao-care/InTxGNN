@@ -53,7 +53,7 @@ The best-supported prediction is **vaginal discharge**, with **3 clinical trials
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 The rank 1 prediction is a weak candidate. Among the other predictions, three have L1 evidence (vaginal discharge, trichomonal vulvovaginitis, infective vaginitis). All three overlap with existing indications and are not true repurposing.

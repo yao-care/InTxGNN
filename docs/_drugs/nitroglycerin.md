@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension**, wit
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (research question; not ready for a repurposing decision) |
 
 ---

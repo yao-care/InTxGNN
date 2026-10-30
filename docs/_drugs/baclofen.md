@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 | TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 (model prediction only, no direct studies) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -53,7 +53,7 @@ Among the other top-10 predictions, **Hodgkin lymphoma** (44 trials, 20 publicat
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 Other predictions in the top 10 (for context):

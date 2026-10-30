@@ -49,7 +49,7 @@ Ranitidine is a histamine H2-receptor antagonist originally used to treat gastri
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

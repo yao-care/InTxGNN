@@ -49,7 +49,7 @@ Cefditoren is a third-generation cephalosporin antibiotic. The TxGNN model predi
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
-| Number of Registrations | 5 (valid: 5) |
+| Number of Listed Products | 5 (valid: 5) |
 | Number of Approvals | 5 single-ingredient licences |
 | Recommended Decision | Hold |
 

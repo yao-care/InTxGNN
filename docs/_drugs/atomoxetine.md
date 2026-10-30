@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **specific developmental disord
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 The original indication comes from the TxGNN model (deep learning), because the Indian licence records contain no approved indication text; the score comes from the model and may reflect similarities the model learned between related diseases, not biological evidence.

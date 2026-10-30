@@ -51,7 +51,7 @@ The prediction is mechanistically plausible but remains at the research-question
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 (the data compiled for this report rates it L4; only a general review exists, with no nilotinib-specific study, so model prediction is effectively the main support) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

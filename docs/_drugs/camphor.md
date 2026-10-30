@@ -53,7 +53,7 @@ This is best regarded as a research question rather than an established repurpos
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 for the prediction as retrieved (model prediction with no human efficacy studies); a related migraine-susceptibility prediction has an L4 preclinical study |
 | India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
-| Number of Registrations | 19 (valid: 19) |
+| Number of Listed Products | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ---

@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (13 of 13) – CDSCO approval status is not included in this data |
-| Number of Registrations | 13 (valid: 13) |
+| Number of Listed Products | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---

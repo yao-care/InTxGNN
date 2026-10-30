@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 The original indications are not available from the Indian licence records, which contain no approved-indication text. The predicted indications on this page come from the TxGNN model (deep learning); its scores may reflect similarities the model learned between related diseases, not biological evidence.

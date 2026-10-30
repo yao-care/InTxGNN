@@ -53,7 +53,7 @@ This report evaluates alopecia (rank 4) as the lead candidate. The three higher-
 | TxGNN Prediction Score | 0.9991 (alopecia); 0.9996 for the top-ranked hypotrichosis simplex of the scalp |
 | Evidence Level | L5 (preclinical and indirect evidence only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 **Notes on the other top predictions:**

@@ -53,7 +53,7 @@ The strongest data are randomized and placebo-controlled, but they **do not supp
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L1 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
-| Number of Registrations | 2 (valid: 2) |
+| Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Hold (the data-based grade is Proceed with Guardrails, but the liposarcoma-specific results are negative; see Conclusion) |
 
 > **Note on evidence level:** The L1 grade rests on randomized, placebo-controlled Phase 2 trials in soft tissue sarcoma. Strictly under the grading rules (≥2 completed Phase 3 RCTs), no Phase 3 trial exists for this indication, so the level is better read as L2-equivalent. More importantly, the randomized data are **negative for liposarcoma specifically**.

@@ -49,7 +49,7 @@ Estriol is a weak estrogen receptor agonist marketed in India as oral tablets an
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
-| Number of Registrations | 5 (valid: 5) |
+| Number of Listed Products | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

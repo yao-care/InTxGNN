@@ -49,7 +49,7 @@ Degarelix is a GnRH receptor antagonist marketed in India as an injectable. The 
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (13 of 13) – CDSCO approval status is not included in this data |
-| Number of Registrations | 13 (valid: 13) |
+| Number of Listed Products | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 Note: the license records contain no approved-indication text. Degarelix is generally known as a GnRH antagonist used in androgen-deprivation therapy for advanced prostate cancer, but this is background knowledge and is not confirmed by the data compiled for this report.

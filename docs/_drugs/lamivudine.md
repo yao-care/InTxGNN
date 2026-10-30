@@ -53,7 +53,7 @@ This is a veterinary research question rather than a new human indication.
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 (the list may be partial) |
+| Number of Listed Products | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
 
 The evidence level is L5 because no cited study investigates lamivudine alone in this disease. The three cat or in vitro FIV studies test multi-drug regimens, so the contribution of lamivudine cannot be separated. The system's preliminary rating was L3, but it is lowered here under the evidence ceiling rule.

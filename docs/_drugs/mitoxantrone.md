@@ -51,7 +51,7 @@ A closely related prediction, **head and neck cancer** (rank 7), has the stronge
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 (preclinical, mechanistic and older phase II literature only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 Note: Other predictions are far better supported. Head and neck cancer is rated L1 in the underlying data, but that rating is provisional (see below). Blast-crisis chronic myeloid leukemia is rated L3. The remaining predictions (small cell lung carcinoma, primary pulmonary lymphoma, fetal adenocarcinoma of the lung, pulmonary blastoma, bladder exstrophy complex) are L4–L5 and rated Hold.

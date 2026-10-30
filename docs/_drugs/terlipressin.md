@@ -49,7 +49,7 @@ Terlipressin is a long-acting vasopressin analogue given by injection, widely ma
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 for open-angle glaucoma; L3 for pulmonary hypertension |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (open-angle glaucoma); Research Question for pulmonary hypertension, which is closest to Proceed with Guardrails only after further study |
 
 ## Why is This Prediction Reasonable?

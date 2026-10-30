@@ -50,7 +50,7 @@ The highest-ranked prediction with any supporting data is **type 1 diabetes mell
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 (type 1 diabetes mellitus); L5 for the other predictions |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (type 1 diabetes mellitus is a research question only) |
 
 ## Why is This Prediction Reasonable?

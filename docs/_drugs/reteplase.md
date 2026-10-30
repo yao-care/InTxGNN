@@ -52,7 +52,7 @@ Evidence is thin: **0 registered clinical trials** and **1 publication** (a case
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---

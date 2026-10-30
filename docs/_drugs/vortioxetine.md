@@ -52,7 +52,7 @@ The TxGNN model's top-ranked prediction is **Neurotic Disorder**, but this is la
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 for neurotic disorder (L1 for melancholia and neurotic depression, via evidence in general MDD) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (neurotic disorder); Proceed with Guardrails (melancholia, neurotic depression) |
 
 ---

@@ -52,7 +52,7 @@ The TxGNN model predicts it may be useful for **post-infectious neuralgia**, whi
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 (indirect evidence only; no famciclovir-specific study) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (18 of 18) – CDSCO approval status is not included in this data |
-| Number of Registrations | 18 (valid: 18) |
+| Number of Listed Products | 18 (valid: 18) |
 | Recommended Decision | Hold |
 
 ---

@@ -46,8 +46,8 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Abemaciclib,
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 1 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
-| Number of Registrations | 4 (valid: 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 4 (valid: 4) |
 
 ## Known uses recorded for this drug
 

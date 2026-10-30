@@ -53,7 +53,7 @@ The best-supported direction among the other predictions is **eye disease**, wit
 | TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---

@@ -51,7 +51,7 @@ This prediction is supported by **0 clinical trials** and **0 publications**, so
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (10 of 10) – CDSCO approval status is not included in this data |
-| Number of Registrations | 10 (valid: 10) |
+| Number of Listed Products | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

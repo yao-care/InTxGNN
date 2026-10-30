@@ -51,7 +51,7 @@ This is an early prediction from the TxGNN model (deep learning) and not a valid
 | TxGNN Prediction Score | 0.9993 (hypertrophic cardiomyopathy); 0.9995 (exercise-induced malignant hyperthermia) |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | At least 20 licences (the list may be partial), all valid single-ingredient products |
+| Number of Listed Products | At least 20 licences (the list may be partial), all valid single-ingredient products |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

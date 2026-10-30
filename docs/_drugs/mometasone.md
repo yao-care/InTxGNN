@@ -51,7 +51,7 @@ but there are currently **no registered clinical trials** and only **2 case repo
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 (model prediction only; the two case reports do not provide mometasone-specific evidence) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -49,7 +49,7 @@ Digoxin is a cardiac glycoside used in heart rhythm and heart failure care. The 
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
-| Number of Registrations | 19 (valid: 19) |
+| Number of Listed Products | 19 (valid: 19) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

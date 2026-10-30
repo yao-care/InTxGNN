@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L4 (indirect metabolic/biomarker literature only; no studies of phenylalanine as a treatment) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

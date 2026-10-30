@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but s
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ---

@@ -49,7 +49,7 @@ Cimetidine is a histamine H2-receptor antagonist that reduces stomach acid. The 
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
-| Number of Registrations | 8 (valid: 8) |
+| Number of Listed Products | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

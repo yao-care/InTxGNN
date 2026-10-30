@@ -51,7 +51,7 @@ A related prediction, diabetic retinopathy, has 2 publications, but neither addr
 | TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (10 of 10) – CDSCO approval status is not included in this data |
-| Number of Registrations | 10 (valid: 10) |
+| Number of Listed Products | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

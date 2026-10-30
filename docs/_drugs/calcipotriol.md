@@ -49,7 +49,7 @@ Calcipotriol is a topical vitamin D3 analogue that is widely marketed in India i
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold (treat as a research question) |
 
 ## Why is This Prediction Reasonable?

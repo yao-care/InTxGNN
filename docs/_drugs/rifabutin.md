@@ -53,7 +53,7 @@ Rifabutin has no activity against HIV itself. The evidence supports its use agai
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 (≥2 completed Phase 3 RCTs, in MAC disease among HIV patients) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

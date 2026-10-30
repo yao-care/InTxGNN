@@ -51,7 +51,7 @@ but there are **no registered clinical trials** and only **5 publications** (mos
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 (generous; strictly between L3 and L4, as the evidence is mostly preclinical) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Registrations | 20 |
+| Number of Listed Products | 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

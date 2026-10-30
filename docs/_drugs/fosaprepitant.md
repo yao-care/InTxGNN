@@ -49,7 +49,7 @@ Fosaprepitant is an injectable prodrug of aprepitant, a substance P/NK1 receptor
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
-| Number of Registrations | 15 (valid: 15) |
+| Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

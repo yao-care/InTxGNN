@@ -53,7 +53,7 @@ The evidence is still at the research-question stage and not yet strong enough t
 | TxGNN Prediction Score | 0.9915 |
 | Evidence Level | L5 (schizophrenia); L5 for the rank 1 prediction |
 | India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
-| Number of Registrations | 8 (valid: 8) |
+| Number of Listed Products | 8 (valid: 8) |
 | Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question |
 
 ---

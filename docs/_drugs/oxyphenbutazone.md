@@ -51,7 +51,7 @@ This is largely a rediscovery of a historical use rather than a novel repurposin
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
-| Number of Registrations | 3 (valid: 3) |
+| Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

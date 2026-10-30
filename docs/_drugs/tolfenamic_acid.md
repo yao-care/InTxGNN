@@ -51,7 +51,7 @@ Tolfenamic acid is an NSAID marketed in India as Clotan Capsule. The approved in
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
-| Number of Registrations | 1 (valid: 1) |
+| Number of Listed Products | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The literature includes several randomised double-blind trials in migraine (1979–2004), but none is a registered Phase 3 trial, so L1 rests on published RCTs rather than on the strict "two completed Phase 3 RCTs" definition. No clinical trial registry records are available.

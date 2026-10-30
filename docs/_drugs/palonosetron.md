@@ -49,7 +49,7 @@ Palonosetron is a second-generation 5-HT3 receptor antagonist, a class of drug u
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
-| Number of Registrations | 12 (valid: 12) |
+| Number of Listed Products | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

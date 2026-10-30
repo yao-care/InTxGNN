@@ -46,8 +46,8 @@ The TxGNN model produced candidates for Teriflunomide, but every candidate that 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in India | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
-| Number of Registrations | 7 (valid: 7) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
+| Number of Listed Products | 7 (valid: 7) |
 
 ## Known uses among the model's candidates
 
