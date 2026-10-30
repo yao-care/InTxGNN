@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Dipyridamole?">
-<strong>Dipyridamole</strong> currently has <strong>6 news articles</strong>, with 8 predicted indications.
+<strong>Dipyridamole</strong> currently has <strong>7 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [MGM Healthcare held walkathon to mark World Stroke Day - The Hindu](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2YweGFFSTRDbS1hRzBFNWRJbV9lbTJXcnVNTEFYMEJ2bTgwOW5CT2prX2E0d2VnaWxaQW5xS0ZUYWxybHluUzZSakRGRDRxdVc3REs0aFV2eU9TM0UxR2tNOFY3RHpGOHBLWFRKYTV6eXRzX3p5dkpEV0E3LUhPZE5WQURJNnlBTFlCQ2JmT2hWZ255bFQyUGEtdFdETF84STNDZHVNbmtVM1NqV2JOV19QMHd4eUt1Um440gHCAUFVX3lxTE1HbVhjRGJWWVNZRG5BYUZqVEUyNjYxSnFLdHVuNFBQLTNmYU1FaEJudnpvbGptZzk0Y2tfOXZFODJaOGF5aFc0UGVwOGJiZllDT2Rvck1PWXFvLXQwbjNmUW4xYWl0TTNwc3ZWLU5EWGVHZ0stYXFJa3BVcWJQN29tNF8xSThETGxCTk1sRzEyR252eFNBdjQzQ0k1bnRqRjBvYVhBUE05eGpnN1Brek9VMkFmUHF4aVhBSmltV21zTlJ3?oc=5)
 
@@ -79,6 +79,14 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJ
 2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEdtYnJBUXhxTzFKbkJDNWZCMWFmWWZYQkNWdDh1akRWUkVoZ1loYzNTVFJWQ1YwdjNkUDIyNkpFOTFsdXQwQ1pFdC1IdVk1bVBkS0lOU21mR25UNWNhRUZBb1pzTzZXb3JUMWhkS2t1ek1sWU43Rjhwc1dGMFFZX3lrSndLcEczZzJYTDhJSzNhMHYyR19mT1RoVWZVejFnTjlzQkZZME9IOGtFZGJEUHUxM3FIVjdERUhLa01pVFZGVE5iNms3dlczNklXY1BJMU9QbjJYUlZTaHc0OFM0Qm1YdlhWSFIwLVdheGZlUldNVV9aNjVnS9IB_gFBVV95cUxOeXUxeFR1d3ZkWFh2Vnk1ZFlrb1Itb3pwUEFXRTZTbFdWS1E5c05rM1dRVzFMczFhYllmUkU5bzNtZGJPa2hnY2tDNGVsUWU4d09NTDdqWE5lQjRmRVFTdnUyczZZUmNMMExEYl9YWTk1TDM2bWpLMlRkNUhfWHN4VHJDZlJiWnlnTnBVVnMxMk9IOFc5MlQxMUprTEdCWDhUUndXUlFoUHNzcXByeUFPalZqdlNPWlhKczQ2MTh3dExjaVZsVUtNdUktdnZUN0lSWDkzTTB1T1U5dWNZcVlGN3czeGJkV1FtdzlEWUJmY083TWJoWU5Bc20wRy10dw?oc=5)
+
+---
+
+### [Children who eat more ultra-processed food show stronger brain reward responses, gain more body fat - The South First](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGhhYzk0eElxY1JValdFeFNvT2FxRlVGRGhvMWUxUEFSYnZETG9SM3RQd2wtUm04dURGVXk1OGc1UnE1bWliczVab0NLbGw2czVZUUtMU0VvdjZlQWtINGJEVGNmYVJNMFlkT0xGRGlBR3FTa0xlZmk2cHFSak1CQlc4YWhZdHZELWVWTzFKMS1mN1dUVGRFWHA3akRoaElwZE40TjFJeWVFODBSQWRsZFJQY3I4NnJQX2pqQ0ZtSzRKWkVBMWNJQTB3?oc=5)
+
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The South First](https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGhhYzk0eElxY1JValdFeFNvT2FxRlVGRGhvMWUxUEFSYnZETG9SM3RQd2wtUm04dURGVXk1OGc1UnE1bWliczVab0NLbGw2czVZUUtMU0VvdjZlQWtINGJEVGNmYVJNMFlkT0xGRGlBR3FTa0xlZmk2cHFSak1CQlc4YWhZdHZELWVWTzFKMS1mN1dUVGRFWHA3akRoaElwZE40TjFJeWVFODBSQWRsZFJQY3I4NnJQX2pqQ0ZtSzRKWkVBMWNJQTB3?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Nadifloxacin. 1 predicted indications."
 permalink: /news/nadifloxacin/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Nadifloxacin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Japan's GHIT invests $6.8 M in product development for Malaria, NTDs and Ebola - BioSpectrum Asia](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lvMENnWEJUZDRrN0xDalVNSWlMREdFcjdhdTR5ZWRzMTYtVUw5WGFrbVc4aE04NlgwYThEZDNUWTNCaFF2WkxrRldnUDVzRUwtQzdxZDRyUlVEalRoU2F1TEJQRExQaGZlWGZCckRWT19JQ0hOOUpCVUhtVnZ0N0hpdHFHeWFYS3BRTW1NaTYtQlJ4bWQ3S2RzTFdkcURDY1NuakNadUh6NzlHNzlVb0t6ZzlLZnRXR0o3akZjMHBSekxo?oc=5)
+
+2026-10-30 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [BioSpectrum Asia](https://news.google.com/rss/articles/CBMixAFBVV95cUxNR0lvMENnWEJUZDRrN0xDalVNSWlMREdFcjdhdTR5ZWRzMTYtVUw5WGFrbVc4aE04NlgwYThEZDNUWTNCaFF2WkxrRldnUDVzRUwtQzdxZDRyUlVEalRoU2F1TEJQRExQaGZlWGZCckRWT19JQ0hOOUpCVUhtVnZ0N0hpdHFHeWFYS3BRTW1NaTYtQlJ4bWQ3S2RzTFdkcURDY1NuakNadUh6NzlHNzlVb0t6ZzlLZnRXR0o3akZjMHBSekxo?oc=5)
+
+---
 
 ### [Bharat Biotech Slashes Malaria Vaccine Price by Forty Percent - The Indian Practitioner](https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUVEYlB3N2hWUndIUERxWU9vLTlOYzN3Umc4TTREUjhnVGZmWnN4dXVIZzRreWdwbFY0NDlyZlNwcHZ4NjVUSW5RY01WdXNibDNuM3RXOVBFRFFnMksyd0dnNnlaMUVVX2ZfNHZ5ZURfWEltd3Q5OG9zdWdGN3duNGtwN3Y3WDJaeHF6bUJXUjh6NFQwNDUwVGRpVF8?oc=5)
 

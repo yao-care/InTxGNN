@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "cardiovascular News"
+title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-10-30
 ---
 
-# cardiovascular News
+# heart disease (cardiovascular) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
+<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “cardiovascular” and 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+
+2026-10-29
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+
+---
 
 ### [Renal Hyperfiltration Dynamics Reveal Distinct Cardiovascular Risks](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
 
@@ -76,11 +84,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhK
 
 ---
 
-### [Heated tobacco products cause immediate cardiovascular and genetic damage](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
+### [Artificial Intelligence Advances Precision Cardiovascular Care](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkw2NXBNckc2VlJvR2ZBc3NIVkZZbDFESkFFUXJvOUJseEI5UGMxNlNTLUtNRjhOcmFfaGw0ZVowR2plZ2pWWUFrU2xuZGEzX1g3SEdrUzZkd00xV09ZdENtTG1HRU9RTjJaLUU1SVpIWjNTLUtfVVFlWXF5UFBlUS1Ub09DeWQ5WnJVTGVqZTZ4dTlRMFp3dW1JRnNNQjk3dzJHYTJGV09Wdw?oc=5)
 
-2026-10-27
+2026-10-23
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkw2NXBNckc2VlJvR2ZBc3NIVkZZbDFESkFFUXJvOUJseEI5UGMxNlNTLUtNRjhOcmFfaGw0ZVowR2plZ2pWWUFrU2xuZGEzX1g3SEdrUzZkd00xV09ZdENtTG1HRU9RTjJaLUU1SVpIWjNTLUtfVVFlWXF5UFBlUS1Ub09DeWQ5WnJVTGVqZTZ4dTlRMFp3dW1JRnNNQjk3dzJHYTJGV09Wdw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>8 news articles</strong>, with 4 predicted indications.
+<strong>Letrozole</strong> currently has <strong>9 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,45 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [How Digital Health Is Transforming Personalized Menopause Care - Analytics Insight](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbms3cy1pUWZnZ3Frb283NnVlM0lwTFRlUDhxTk4zMm1xNUNQVmtPZFJVT0dRbmFHa3NtZTZ5bnY3TkJJUGJ3WUhzalh0OG1OUktuSHhDRmVpRG13UmlJV3V3Y2VndG8zel9ZbzBzMmZDZVFpV055VWFQU1UydlhvdmRLSFgyN2swVVZjUWlPVkk2OFU2bGszOVJILUo3T0c5WTQyRU9kMmVnUdIBtwFBVV95cUxQLWMxSDlBTV9ENzJIbFY5VURZcVZWa21vSFhOcVBUbElTUUdDZ2pkdVJMVTU1c1lxaXFRaEdSZFlHeTZ4b2pyNmFqM2p5TXRtaFpCYVRlc1RUMjRpbkJMb0lfUkRKX1lCOVBKamhDUGtuaWRsdElQS2ozcVluNGxVcl9kX0RWOEhTbmNNOV82YnpreUF2M0Y0aGZRLWh2LXl6VVotbTd0RzJpdjN4ZEdXMHpmd2V2SU0?oc=5)
+
+2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Analytics Insight](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbms3cy1pUWZnZ3Frb283NnVlM0lwTFRlUDhxTk4zMm1xNUNQVmtPZFJVT0dRbmFHa3NtZTZ5bnY3TkJJUGJ3WUhzalh0OG1OUktuSHhDRmVpRG13UmlJV3V3Y2VndG8zel9ZbzBzMmZDZVFpV055VWFQU1UydlhvdmRLSFgyN2swVVZjUWlPVkk2OFU2bGszOVJILUo3T0c5WTQyRU9kMmVnUdIBtwFBVV95cUxQLWMxSDlBTV9ENzJIbFY5VURZcVZWa21vSFhOcVBUbElTUUdDZ2pkdVJMVTU1c1lxaXFRaEdSZFlHeTZ4b2pyNmFqM2p5TXRtaFpCYVRlc1RUMjRpbkJMb0lfUkRKX1lCOVBKamhDUGtuaWRsdElQS2ozcVluNGxVcl9kX0RWOEhTbmNNOV82YnpreUF2M0Y0aGZRLWh2LXl6VVotbTd0RzJpdjN4ZEdXMHpmd2V2SU0?oc=5)
+
+---
+
+### [How a breast cancer survivor overcame severe post-mastectomy body trauma: Doctors explain](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3dQVkJKT1FSeWJLZnhPa1d5OUY5a3padU9PZHN3eG9iWmFsRXJ1X0paSzA3THNTSU9QYl9KcUdUcmM2TjdnZVFpNXRqMzNDU0ExOWVrOG8waEpWRUJpM2Q2QVlqRVJYRGl2WkVSUmFzSXFURHlCT0h0aWRDV0hBMmROME5wQ29wVERHM2d1T0REVnBHNE04T2QzX1J3eFdpMEln?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3dQVkJKT1FSeWJLZnhPa1d5OUY5a3padU9PZHN3eG9iWmFsRXJ1X0paSzA3THNTSU9QYl9KcUdUcmM2TjdnZVFpNXRqMzNDU0ExOWVrOG8waEpWRUJpM2Q2QVlqRVJYRGl2WkVSUmFzSXFURHlCT0h0aWRDV0hBMmROME5wQ29wVERHM2d1T0REVnBHNE04T2QzX1J3eFdpMEln?oc=5)
+
+---
+
+### [Breast Cancer: What every woman should know](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [HeraldLIVE](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+
+---
 
 ### [Obesity in Young Adulthood Linked to Higher Cancer Risk Into Midlife - Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span>
 
 Source: [Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
+
+---
+
+### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
 
 ---
 
@@ -63,35 +95,11 @@ Source: [Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN
 
 ---
 
-### [Importance of Early Detection in Breast Cancer Care Highlighted - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
-
----
-
 ### [Fact Check: Can touching supermarket bills, electricity bills and ATM receipts cause cancer? Here’s what doctors say](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVhvdmdCYjlfS1FQVXRicHp5UFlzRFZtWjlnMzRWekJiNGNMWFhGMXowbWJ4NzZJNnpmUGFGZ01xZjZja3J4Q3NRLU1FY0hMUXRhSDVzaC1FSk5DYnY0MndTaXVMQmdzd1picWdPYXBJZDNORHNBNHFhOXg2MTZBMXZVcUNXS2hNT3ZtTkdTdFpJWWtOVjM3aFFzMm9TcFJxd3htY0Q5VUk2b2RnVkw5dGJyYWM3YTVVa2VnNS1LbUh0RExnak9CTUVlOW04RzlBdnRqekYtRzNqUDV2WA?oc=5)
 
 2026-10-28 <span class="news-indication-tag">cancer</span>
 
 Source: [NewsMeter](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVhvdmdCYjlfS1FQVXRicHp5UFlzRFZtWjlnMzRWekJiNGNMWFhGMXowbWJ4NzZJNnpmUGFGZ01xZjZja3J4Q3NRLU1FY0hMUXRhSDVzaC1FSk5DYnY0MndTaXVMQmdzd1picWdPYXBJZDNORHNBNHFhOXg2MTZBMXZVcUNXS2hNT3ZtTkdTdFpJWWtOVjM3aFFzMm9TcFJxd3htY0Q5VUk2b2RnVkw5dGJyYWM3YTVVa2VnNS1LbUh0RExnak9CTUVlOW04RzlBdnRqekYtRzNqUDV2WA?oc=5)
-
----
-
-### [MRI May Improve Prediction of Prostate Cancer Upgrading](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnI0bC1GdnB3RkFyYm10YUNjM1JIemVxWGZZQmNiMlZjT29VT01WUnJjQ2UyQm5lLWJGeWtiT0RUVjluT1RVZk15WWNYU3dmb0dlMmFuVi1zdnFWSlRZRElEUTNMMm16aFRXOEdGWDZySFF2bHlna2Z5SXRUWjZNTHFOTDI4b1g1c2RWcVFjZHp0MHh3UDZfazFSdTltNzA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnI0bC1GdnB3RkFyYm10YUNjM1JIemVxWGZZQmNiMlZjT29VT01WUnJjQ2UyQm5lLWJGeWtiT0RUVjluT1RVZk15WWNYU3dmb0dlMmFuVi1zdnFWSlRZRElEUTNMMm16aFRXOEdGWDZySFF2bHlna2Z5SXRUWjZNTHFOTDI4b1g1c2RWcVFjZHp0MHh3UDZfazFSdTltNzA?oc=5)
-
----
-
-### [Breast Cancer Surgery Is Evolving: How Modern Techniques Are Balancing Cancer Control With Quality Of Life - ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkQxbHVSREVJeW1DZGpRNjlCRlk5YUFBUnFqVW1tZ0RxRUtzV05ySkFNRzJtbzN4Y1ZZSWZlUEdRMlhuSDIwTlh3YVJ4Y1ZTMXNJNlZSaUZwVFh5ZTFLSU5YdE1jNVZkaDlOZzR1TEt4YjVIMVljYUlKNDVfUHdhQ2FCVlZQMURSc0g5OXFJLUFOMGJteTNzcWhmdzLSAaIBQVVfeXFMTWZBUTdVQTVZUjNlazNXenlXMTZGZlpvelV3NzBvUXhkZHdUc2YyQjlLdUZQbWpnelRmbnFkdXNQcjdWU2hPdkw4NXpkU2xyMWtEbGc2REJWZG93NWJmbEhYN3dhRkVjdDF5LVU2N2Etb0pZanUzZnV3NElCckR0d0ZaUnIxNENaVTVBSUh1YUpqWjZoMXloYXhib1kyTG9KZGtR?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkQxbHVSREVJeW1DZGpRNjlCRlk5YUFBUnFqVW1tZ0RxRUtzV05ySkFNRzJtbzN4Y1ZZSWZlUEdRMlhuSDIwTlh3YVJ4Y1ZTMXNJNlZSaUZwVFh5ZTFLSU5YdE1jNVZkaDlOZzR1TEt4YjVIMVljYUlKNDVfUHdhQ2FCVlZQMURSc0g5OXFJLUFOMGJteTNzcWhmdzLSAaIBQVVfeXFMTWZBUTdVQTVZUjNlazNXenlXMTZGZlpvelV3NzBvUXhkZHdUc2YyQjlLdUZQbWpnelRmbnFkdXNQcjdWU2hPdkw4NXpkU2xyMWtEbGc2REJWZG93NWJmbEhYN3dhRkVjdDF5LVU2N2Etb0pZanUzZnV3NElCckR0d0ZaUnIxNENaVTVBSUh1YUpqWjZoMXloYXhib1kyTG9KZGtR?oc=5)
 
 ---
 
