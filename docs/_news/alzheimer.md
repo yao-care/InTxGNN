@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 4 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
 permalink: /news/alzheimer/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (2)
 
 ### [Building an army of brain warriors - Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNi1WejJOeU1GSHZHSWpkcWNCT3k3OE1acU9KcW4tUnc3cG55bUNJemhOZXZaR2xDQm13cDVaZnFkQkJFTTFBVjlIWmhXbjhMQ05GbFhkUE5TaE1RYi1fS1oyeTAyRmdEVDRkZmRxdmU1ODdmb2NjcU1WUFlxdXdDWVA4Q0c5SEF3cUFldk80R2c1QS1NUGw2StIBngFBVV95cUxPRjNPQW8tUGx3YUp6ckpNaDM0UlhoSVg3RHp3ZmpBYkswd18xMXFsUk1qSThnc19BUHQ2dERzel9PcFM3RXRHZzE4SG5fWXpld0Q2UWRpYlV2TmVmWFV1dk45aEtHQzI5YWZEWTBWYlZJdW4zdGZ6b2lETVE3ZXRjTUpDanRzblE4STJQRTF3dTlzN1RuQ042akh3SVFaZw?oc=5)
 
@@ -52,22 +52,6 @@ Source: [Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUx
 2026-10-29
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
-
----
-
-### [Aspirin Lowers Dementia Risk in High Platelet Genetic Group](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
-
-2026-10-28
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
-
----
-
-### [Can daytime napping increase risk of dementia later in life?](https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbjBCOFJrc1hkRS1wS3FVMFNPUW9ET2NLcXVKcHIybHF3SUtIVHYwMURYcGtPV2d6STVqN2pJWkpESmh5UHdFN0xBWk9aM2twSmI1anBmTXVtbE91TmdYMnFGNUIxeVFfS1RHUVo5NVNjSlpuRnNKTDlVUVlJUdIBgwFBVV95cUxQd0lEU2FtX0xBS2RILXlncExPbnpvR3hSaTlHcjU5eFNJSm4zNmpjcGdpVGNENG04VER2Y3VTU0liazZiMzJ5UEI5UEhFLWsxRVZ0cGh5blRTel9fd1lsT00wTkhLdkdCVEpQTWZIVXpxUmxzamRnZGtLaTZsZ0FJMEhibw?oc=5)
-
-2026-10-28
-
-Source: [NewsNation](https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbjBCOFJrc1hkRS1wS3FVMFNPUW9ET2NLcXVKcHIybHF3SUtIVHYwMURYcGtPV2d6STVqN2pJWkpESmh5UHdFN0xBWk9aM2twSmI1anBmTXVtbE91TmdYMnFGNUIxeVFfS1RHUVo5NVNjSlpuRnNKTDlVUVlJUdIBgwFBVV95cUxQd0lEU2FtX0xBS2RILXlncExPbnpvR3hSaTlHcjU5eFNJSm4zNmpjcGdpVGNENG04VER2Y3VTU0liazZiMzJ5UEI5UEhFLWsxRVZ0cGh5blRTel9fd1lsT00wTkhLdkdCVEpQTWZIVXpxUmxzamRnZGtLaTZsZ0FJMEhibw?oc=5)
 
 ---
 

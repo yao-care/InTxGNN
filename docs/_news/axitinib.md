@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Axitinib?">
-<strong>Axitinib</strong> currently has <strong>7 news articles</strong>, with 4 predicted indications.
+<strong>Axitinib</strong> currently has <strong>9 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,31 @@ This page combines the AI-predicted indications for Axitinib with the latest hea
 <p><a href="{{ '/drugs/axitinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [Advanced Breast Cancer Care Offers New Treatment Possibilities](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [webindia123](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
+
+---
+
+### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+
+---
+
+### [The Gap Between A Lump And A Diagnosis Costs More When It Comes To Breast Cancer - ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1E5ejZxa3ZxT2NXb0QzbEpBZV9HS3VlN2tQRi1jZTN2dWtRU29HR0ZiSDFTVnlNcmVkR19GbFpyeGZKc1VsUWcxTi1ueUNaaWdWRnE2NUw1bUpLSG5wanhnLVNKR3M4UGNXcG1acUhBeXdMVnI5VkNTdFEzYXVndndIYUhUUWVjdEtKWXZjMEtUSDFobnkxTUoxbGk3SE1tczBsNWR6ZmtXZw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1E5ejZxa3ZxT2NXb0QzbEpBZV9HS3VlN2tQRi1jZTN2dWtRU29HR0ZiSDFTVnlNcmVkR19GbFpyeGZKc1VsUWcxTi1ueUNaaWdWRnE2NUw1bUpLSG5wanhnLVNKR3M4UGNXcG1acUhBeXdMVnI5VkNTdFEzYXVndndIYUhUUWVjdEtKWXZjMEtUSDFobnkxTUoxbGk3SE1tczBsNWR6ZmtXZw?oc=5)
+
+---
 
 ### [How a breast cancer survivor overcame severe post-mastectomy body trauma: Doctors explain](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3dQVkJKT1FSeWJLZnhPa1d5OUY5a3padU9PZHN3eG9iWmFsRXJ1X0paSzA3THNTSU9QYl9KcUdUcmM2TjdnZVFpNXRqMzNDU0ExOWVrOG8waEpWRUJpM2Q2QVlqRVJYRGl2WkVSUmFzSXFURHlCT0h0aWRDV0hBMmROME5wQ29wVERHM2d1T0REVnBHNE04T2QzX1J3eFdpMEln?oc=5)
 
@@ -46,11 +70,19 @@ Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3
 
 ---
 
-### [Breast Cancer: What every woman should know](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
+
+---
+
+### [Breast Cancer Doesn't Wait Until 50: Why Young Women Need To Pay Attention](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVFo1WDlQaDQ0Y1U2RDVYU3lpMzRYUUlzb19aU0VPeHhERldmWmtDdFFkUElMM1FLMk1Qc1RSeFpaNHRSekJaOWpNS3VjZ1JySkRDY2Jwb1lSOWU5T0VDZ3ZreXk2ZHprVVIzU3RVdnZKTkRxQ3BlUm9VQzhnLVJWcHJSbWprU1RjRF9CcEZpWWhBRXBheE5TQzNWS29XZVg2UnFxeTBOSTBIU3p5QzNpT2pkNDJ1cFRjckM0ZVRRaHJlTGtUTTlta19naGVvSdIB2gFBVV95cUxORzhzSUNzV3NqWk9EXzBtYzZyS19XTHNxQWJzRmRDVU9vbVV2LXR6SVV0ZGlEeE5DR0R6dmdkZjd2MU5icGx4RWpnY0FDT1N3cnhOeU5sOF9BWksxMU5ndC1LNG1nWXdMcGdsUkxJSk1Yc2RnMEJrRjY1c05CLXdOQU9NU1h4Rl8wY3AtYlFlVFR3cS05TlZYT0xtMFJPSl9fbmRiRzFpc0RSMVBlOEIyMmZrcGZfaG4wYWs5VmQ2eHVWLWZ0REtUMzJjbFpNTnBvOU4yblRFZVVnZw?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [HeraldLIVE](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVFo1WDlQaDQ0Y1U2RDVYU3lpMzRYUUlzb19aU0VPeHhERldmWmtDdFFkUElMM1FLMk1Qc1RSeFpaNHRSekJaOWpNS3VjZ1JySkRDY2Jwb1lSOWU5T0VDZ3ZreXk2ZHprVVIzU3RVdnZKTkRxQ3BlUm9VQzhnLVJWcHJSbWprU1RjRF9CcEZpWWhBRXBheE5TQzNWS29XZVg2UnFxeTBOSTBIU3p5QzNpT2pkNDJ1cFRjckM0ZVRRaHJlTGtUTTlta19naGVvSdIB2gFBVV95cUxORzhzSUNzV3NqWk9EXzBtYzZyS19XTHNxQWJzRmRDVU9vbVV2LXR6SVV0ZGlEeE5DR0R6dmdkZjd2MU5icGx4RWpnY0FDT1N3cnhOeU5sOF9BWksxMU5ndC1LNG1nWXdMcGdsUkxJSk1Yc2RnMEJrRjY1c05CLXdOQU9NU1h4Rl8wY3AtYlFlVFR3cS05TlZYT0xtMFJPSl9fbmRiRzFpc0RSMVBlOEIyMmZrcGZfaG4wYWs5VmQ2eHVWLWZ0REtUMzJjbFpNTnBvOU4yblRFZVVnZw?oc=5)
 
 ---
 
@@ -70,27 +102,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3
 
 ---
 
-### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
+### [Breast cancer: This Nvidia-powered AI tool predicts cancer recurrence risk before surgery — here's how it works](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGh5TmxyRXNuTXlBUGhsZFVtRlZRZ1E2cm85Sl9NYU8zbTZXVWVjTnk4V0VKOVZUMXZDRmdoZVpLSVl1UDdlV21qcnF1RC04NDZNUGRKT0dzSG9RNkFHQ09ZRDkwZGsxaTBLdFRJUi16em1zVEdTNm12OVoweDQzTjlReE1lRzZPMXN3bmxEM0RJYmFRTnRUeElTX3hORHpyeWVWMVgtNW9PTDFKSzZJdGZ0dVdDNmVadW1ZVjJ5djdFWER2dlhLdVBQVzNSbUxCTS13WkltYlZHTHhzUHFoTzRHS2lBc0NOTGhn0gHwAUFVX3lxTE9oUTA3NVZXX2FWbV9VQTVrU1BWUkNwcUE0VmZtbVlYUjhNWkM1WkgxTzlIWUFEcl94djd1MEhzeVFUVi15Yl95VnMzMktXc3VYWjA1dTBhRXF2OG5hOWtGTElDelNYRW5PMW54QmQ4ZkRmdGxEM3ZDMllUMjRwOExSbFNmSWhsTmtmeFpsR2JHclQ1QnlrdExGdGFlZ1NSeF9uOTBNX0dKdWwzUEhHTlgxY0p0dXM2UkNibVVVekRQc3dwR2phOEF0Wlc2b3BNWTBobTJWdWVVNVg4UzdHLXVEU2phbVlmelBEamhGZm1kdg?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
-
----
-
-### [For AI, Your Selfie Is a Medical Scan; But It’s Not All Rosy - Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span>
-
-Source: [Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
-
----
-
-### [Fact Check: Can touching supermarket bills, electricity bills and ATM receipts cause cancer? Here’s what doctors say](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVhvdmdCYjlfS1FQVXRicHp5UFlzRFZtWjlnMzRWekJiNGNMWFhGMXowbWJ4NzZJNnpmUGFGZ01xZjZja3J4Q3NRLU1FY0hMUXRhSDVzaC1FSk5DYnY0MndTaXVMQmdzd1picWdPYXBJZDNORHNBNHFhOXg2MTZBMXZVcUNXS2hNT3ZtTkdTdFpJWWtOVjM3aFFzMm9TcFJxd3htY0Q5VUk2b2RnVkw5dGJyYWM3YTVVa2VnNS1LbUh0RExnak9CTUVlOW04RzlBdnRqekYtRzNqUDV2WA?oc=5)
-
-2026-10-28 <span class="news-indication-tag">cancer</span>
-
-Source: [NewsMeter](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVhvdmdCYjlfS1FQVXRicHp5UFlzRFZtWjlnMzRWekJiNGNMWFhGMXowbWJ4NzZJNnpmUGFGZ01xZjZja3J4Q3NRLU1FY0hMUXRhSDVzaC1FSk5DYnY0MndTaXVMQmdzd1picWdPYXBJZDNORHNBNHFhOXg2MTZBMXZVcUNXS2hNT3ZtTkdTdFpJWWtOVjM3aFFzMm9TcFJxd3htY0Q5VUk2b2RnVkw5dGJyYWM3YTVVa2VnNS1LbUh0RExnak9CTUVlOW04RzlBdnRqekYtRzNqUDV2WA?oc=5)
+Source: [Livemint](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGh5TmxyRXNuTXlBUGhsZFVtRlZRZ1E2cm85Sl9NYU8zbTZXVWVjTnk4V0VKOVZUMXZDRmdoZVpLSVl1UDdlV21qcnF1RC04NDZNUGRKT0dzSG9RNkFHQ09ZRDkwZGsxaTBLdFRJUi16em1zVEdTNm12OVoweDQzTjlReE1lRzZPMXN3bmxEM0RJYmFRTnRUeElTX3hORHpyeWVWMVgtNW9PTDFKSzZJdGZ0dVdDNmVadW1ZVjJ5djdFWER2dlhLdVBQVzNSbUxCTS13WkltYlZHTHhzUHFoTzRHS2lBc0NOTGhn0gHwAUFVX3lxTE9oUTA3NVZXX2FWbV9VQTVrU1BWUkNwcUE0VmZtbVlYUjhNWkM1WkgxTzlIWUFEcl94djd1MEhzeVFUVi15Yl95VnMzMktXc3VYWjA1dTBhRXF2OG5hOWtGTElDelNYRW5PMW54QmQ4ZkRmdGxEM3ZDMllUMjRwOExSbFNmSWhsTmtmeFpsR2JHclQ1QnlrdExGdGFlZ1NSeF9uOTBNX0dKdWwzUEhHTlgxY0p0dXM2UkNibVVVekRQc3dwR2phOEF0Wlc2b3BNWTBobTJWdWVVNVg4UzdHLXVEU2phbVlmelBEamhGZm1kdg?oc=5)
 
 ---
 

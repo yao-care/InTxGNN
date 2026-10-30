@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Metaxalone?">
-<strong>Metaxalone</strong> currently has <strong>2 news articles</strong>, with 3 predicted indications.
+<strong>Metaxalone</strong> currently has <strong>1 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ This page combines the AI-predicted indications for Metaxalone with the latest h
 <p><a href="{{ '/drugs/metaxalone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Infective Endocarditis After TAVR Is Less Common Than After SAVR](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWDZRdGloR1gxSGgteFZuQk9VRlVncTc5eHo0b0dMM3c4aHk4b3Z3LU4tUk1WNnZrSUZxQWlBN2pLbFFMUk0yUGZUcDJCY1RoZUJtbUNtNmlDSzJaVm1CUW9sZ3MtOFViblg2ZWptTjNkTkJ1aWI3QXdmUE1SRFpGZVU2NnJsUkQ2V3NoWU1CNVJBeGI1TmZ1SXdtRVVGTWV5cjhxcktHTGZFcjh4U3I0Wi1ZbElLQTlLQmJ2NDJmbC04SkFVbFlXWGJn?oc=5)
-
-2026-10-27 <span class="news-indication-tag">endocarditis</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWDZRdGloR1gxSGgteFZuQk9VRlVncTc5eHo0b0dMM3c4aHk4b3Z3LU4tUk1WNnZrSUZxQWlBN2pLbFFMUk0yUGZUcDJCY1RoZUJtbUNtNmlDSzJaVm1CUW9sZ3MtOFViblg2ZWptTjNkTkJ1aWI3QXdmUE1SRFpGZVU2NnJsUkQ2V3NoWU1CNVJBeGI1TmZ1SXdtRVVGTWV5cjhxcktHTGZFcjh4U3I0Wi1ZbElLQTlLQmJ2NDJmbC04SkFVbFlXWGJn?oc=5)
-
----
+## Related News (1)
 
 ### [Cost Reductions with Oral Step-Down Antibiotic Treatment by Causative Microorganism in Infective Endocarditis: A POET Trial Analysis](https://news.google.com/rss/articles/CBMikwJBVV95cUxObVJkTzZsZnU2dERSc3NoejdsYy13c2tRVEFmeV9uQkh4d2U5eTBXTkNOOFpELTFYczNPeU1MMF9oUXpUTk5mZERCdndiSXZ1RENYTmR1ZDd2Nlh2amJGTUd0M1ZSbS1xZVNLSkRTcjZpaG5XUGxOZV9FSUhWcFNJZ3VNWUVONU8tQ3dHaWVMSDJZMW1Kc0x2MGI2aTNZUGdnOWxobHpXS3dsWHg0OGxXNkVReGNiNzBhVlZuaXlLZ1JrYU90d1ZCaUR6NGlldUtpUExDTHdKa2NwRExxNXdFNDR6VDVuZ1RMQUZZM0FIRFhheE1yQTZqMmdSbmtScWktbzhEMjllQ1Jmel8yTzVZTDhFQQ?oc=5)
 

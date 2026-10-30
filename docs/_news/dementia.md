@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dementia News"
+title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 4 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 3 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-10-30
 ---
 
-# dementia News
+# alzheimer (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
+<strong>alzheimer (dementia)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Building an army of brain warriors - Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNi1WejJOeU1GSHZHSWpkcWNCT3k3OE1acU9KcW4tUnc3cG55bUNJemhOZXZaR2xDQm13cDVaZnFkQkJFTTFBVjlIWmhXbjhMQ05GbFhkUE5TaE1RYi1fS1oyeTAyRmdEVDRkZmRxdmU1ODdmb2NjcU1WUFlxdXdDWVA4Q0c5SEF3cUFldk80R2c1QS1NUGw2StIBngFBVV95cUxPRjNPQW8tUGx3YUp6ckpNaDM0UlhoSVg3RHp3ZmpBYkswd18xMXFsUk1qSThnc19BUHQ2dERzel9PcFM3RXRHZzE4SG5fWXpld0Q2UWRpYlV2TmVmWFV1dk45aEtHQzI5YWZEWTBWYlZJdW4zdGZ6b2lETVE3ZXRjTUpDanRzblE4STJQRTF3dTlzN1RuQ042akh3SVFaZw?oc=5)
 
@@ -55,19 +55,11 @@ Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZ
 
 ---
 
-### [Aspirin Lowers Dementia Risk in High Platelet Genetic Group](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
+### [What is the Link Between PMOS and Alzheimer’s Disease?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
 
-2026-10-28
+2026-10-26
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
-
----
-
-### [Can daytime napping increase risk of dementia later in life?](https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbjBCOFJrc1hkRS1wS3FVMFNPUW9ET2NLcXVKcHIybHF3SUtIVHYwMURYcGtPV2d6STVqN2pJWkpESmh5UHdFN0xBWk9aM2twSmI1anBmTXVtbE91TmdYMnFGNUIxeVFfS1RHUVo5NVNjSlpuRnNKTDlVUVlJUdIBgwFBVV95cUxQd0lEU2FtX0xBS2RILXlncExPbnpvR3hSaTlHcjU5eFNJSm4zNmpjcGdpVGNENG04VER2Y3VTU0liazZiMzJ5UEI5UEhFLWsxRVZ0cGh5blRTel9fd1lsT00wTkhLdkdCVEpQTWZIVXpxUmxzamRnZGtLaTZsZ0FJMEhibw?oc=5)
-
-2026-10-28
-
-Source: [NewsNation](https://news.google.com/rss/articles/CBMifkFVX3lxTFBXbjBCOFJrc1hkRS1wS3FVMFNPUW9ET2NLcXVKcHIybHF3SUtIVHYwMURYcGtPV2d6STVqN2pJWkpESmh5UHdFN0xBWk9aM2twSmI1anBmTXVtbE91TmdYMnFGNUIxeVFfS1RHUVo5NVNjSlpuRnNKTDlVUVlJUdIBgwFBVV95cUxQd0lEU2FtX0xBS2RILXlncExPbnpvR3hSaTlHcjU5eFNJSm4zNmpjcGdpVGNENG04VER2Y3VTU0liazZiMzJ5UEI5UEhFLWsxRVZ0cGh5blRTel9fd1lsT00wTkhLdkdCVEpQTWZIVXpxUmxzamRnZGtLaTZsZ0FJMEhibw?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
 
 ---
 
