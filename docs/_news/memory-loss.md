@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about dementia (memory loss). 4 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # dementia (memory loss) News
@@ -47,19 +47,19 @@ Source: [Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUx
 
 ---
 
-### [CervoMed publishes phase 2b trial results for DLB treatment By Investing.com - Investing.com India](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjZDSFdoVWtvYWRLVDd2UEZLTTVNTkcyVlhTbUt0ejlpZTlqTXdoWlN5WFNYS1Q0SmNjOEExZ19mWWpuMl91RXNtanZkMGRNblBVM2VkSWx5MDZmRWNYT3h1TE92RTBXZkVqNnZ3cGZFYTNuRmpxS09DZVp0MGVOR3owNzM2cUFkT05IMUtZaF9fM3RfX0kyaU1PQ2U3blRXWnpQSDQxZG51bmtuSkJ2MXdudkNYRkZzcUFsLQ?oc=5)
-
-2026-10-29
-
-Source: [Investing.com India](https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjZDSFdoVWtvYWRLVDd2UEZLTTVNTkcyVlhTbUt0ejlpZTlqTXdoWlN5WFNYS1Q0SmNjOEExZ19mWWpuMl91RXNtanZkMGRNblBVM2VkSWx5MDZmRWNYT3h1TE92RTBXZkVqNnZ3cGZFYTNuRmpxS09DZVp0MGVOR3owNzM2cUFkT05IMUtZaF9fM3RfX0kyaU1PQ2U3blRXWnpQSDQxZG51bmtuSkJ2MXdudkNYRkZzcUFsLQ?oc=5)
-
----
-
 ### [World Brain Stroke Day 2026: Can air pollution cause brain stroke](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
 
 2026-10-29
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
+
+---
+
+### [Aspirin Lowers Dementia Risk in High Platelet Genetic Group](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
+
+2026-10-28
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZl8xN0VYUEQ4LUdmTERBWXo2dGRWYUszVWVVRVRGbEFhMGhsV1V5NUJ3ZE9Dc1Zxd2thNUJfZ3J3WkJWUG94eldNTkVlbE5rYlR2ZU83RExZc0h0MWVNeGo5T0F6T2pzdk5kVG92VlBJTnJkWVBTTzhhc1ZnWjA2ajREam9ITFlHWUxfMWRaTGpEaVNFRE9Bb2hhMWRyTHN6SF9nVQ?oc=5)
 
 ---
 

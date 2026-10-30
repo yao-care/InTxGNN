@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Chromium. Original indication: he TxGNN model predicts several new indications. T.... 0 predicted indications."
 permalink: /news/chromium/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Chromium News
@@ -43,7 +43,7 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHRMb1h0cVhPM
 
 ### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">joint pain</span>
+2026-10-28 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 

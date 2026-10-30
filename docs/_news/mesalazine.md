@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Mesalazine. 6 predicted indications."
 permalink: /news/mesalazine/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Mesalazine News
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy</li>
-<li>osteoarthritis</li>
+<li class="indication-matched">osteoarthritis<span class="indication-tag">📰 osteoarthritis</span></li>
 <li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 joint pain</span></li>
 <li>seborrheic keratosis</li>
 <li>vulvar inverted follicular keratosis</li>
@@ -50,7 +50,7 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxORHRMb1h0cVhPM
 
 ### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">joint pain</span>
+2026-10-28 <span class="news-indication-tag">osteoarthritis</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Chlorthalidone. 9 predicted indications."
 permalink: /news/chlorthalidone/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Chlorthalidone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about Chlorthalidone?">
-<strong>Chlorthalidone</strong> currently has <strong>9 news articles</strong>, with 9 predicted indications.
+<strong>Chlorthalidone</strong> currently has <strong>7 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Chlorthalidone with the late
 <p><a href="{{ '/drugs/chlorthalidone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (7)
 
 ### [Obesity in Young Adulthood Linked to Higher Cancer Risk Into Midlife - Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
 
@@ -51,27 +51,27 @@ Source: [Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZE
 
 ---
 
-### [AI Accurately Estimates Facial Aging From Photographs](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGZqT2RENjFNSmdNWTZOTWVYNE90NXQ0ajBUc0tnRWZxX1VEWkdtLW9OcUlON0xxRkJFLXVzaUkzLXd1X2x5c1ZOaS1SUEpfWGU5QmpfYy1BbndVRHlIYm9PNFk0Ylg5c3Vsd3VGVlFwTFZ1ZG1LMUJyVVpDa24xMUFkRmlhUFNuX2t5dmdxeE9DY0ZkYVRnZmhVMVR4d28?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGZqT2RENjFNSmdNWTZOTWVYNE90NXQ0ajBUc0tnRWZxX1VEWkdtLW9OcUlON0xxRkJFLXVzaUkzLXd1X2x5c1ZOaS1SUEpfWGU5QmpfYy1BbndVRHlIYm9PNFk0Ylg5c3Vsd3VGVlFwTFZ1ZG1LMUJyVVpDa24xMUFkRmlhUFNuX2t5dmdxeE9DY0ZkYVRnZmhVMVR4d28?oc=5)
-
----
-
-### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFRNeU1POHZmRGxseVhWT3FwV0lUUU9McVBlRDNlTUJwX3VqZDFtQ0xnRUcwTm9ocUxzS2ZRbWV0RmpEaDR4STdDVU5OYmFnVGZtVTBIUVVOUV8wNjF2bVBHaXRha1VBc1RBMGtvSG1JTkwxX1ZkT1UtSk92NWUxQ1lEY0FDQllqeWZNRE1kUE1rcXQ3N3EyTE94VlhWeXRGenFzWkdiYnZFRlpPbHhZU3pvYzBZOXlvdHdYQVFlRlBZMG13?oc=5)
+### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMixAFBVV95cUxNSFRNeU1POHZmRGxseVhWT3FwV0lUUU9McVBlRDNlTUJwX3VqZDFtQ0xnRUcwTm9ocUxzS2ZRbWV0RmpEaDR4STdDVU5OYmFnVGZtVTBIUVVOUV8wNjF2bVBHaXRha1VBc1RBMGtvSG1JTkwxX1ZkT1UtSk92NWUxQ1lEY0FDQllqeWZNRE1kUE1rcXQ3N3EyTE94VlhWeXRGenFzWkdiYnZFRlpPbHhZU3pvYzBZOXlvdHdYQVFlRlBZMG13?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
 ---
 
-### [Review Highlights Ovarian Resistance in Colorectal Cancer](https://news.google.com/rss/articles/CBMioAFBVV95cUxORkxpTUpNRGJPOEE2c29QOHVpRUJnenlqYUZaUjNfdXpKNGQyUVV0S1dxdWFIWnlhX0Q0MWltT3VEaldkN0lfZWZFUUUwcGNYZ3NMbGZtY1BmdnRLZVo5bmVWOVNDOGhCeGl6Vi1zZW5pRnBveDd4a2JvV1JDdV9jbnBKZW0wd2xIbmZwdlJxa2VxWmM0cEs5QjcwY2lMb2ZZ?oc=5)
+### [For AI, Your Selfie Is a Medical Scan; But It’s Not All Rosy - Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
 
-2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
+2026-10-29 <span class="news-indication-tag">cancer</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxORkxpTUpNRGJPOEE2c29QOHVpRUJnenlqYUZaUjNfdXpKNGQyUVV0S1dxdWFIWnlhX0Q0MWltT3VEaldkN0lfZWZFUUUwcGNYZ3NMbGZtY1BmdnRLZVo5bmVWOVNDOGhCeGl6Vi1zZW5pRnBveDd4a2JvV1JDdV9jbnBKZW0wd2xIbmZwdlJxa2VxWmM0cEs5QjcwY2lMb2ZZ?oc=5)
+Source: [Sify News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFAyMkN1VDJsdlF0ME43RTRlc1o0cGNnblZoREYzQXllc3BycFBUclVhZHBXNXZjd01DMlhndWRBRWR5T2xheWZiT3RFYl9hMDNNcFo0MS0yNGo3aW1wa0VRTWdqTTFhTGZ0RUxaaUxkWDRXTHI4SWZLX3RnWjlIbDZTYXJwcV9BNU1EbDExUi0zdXRWT3Jj?oc=5)
+
+---
+
+### [Importance of Early Detection in Breast Cancer Care Highlighted - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
 
 ---
 
@@ -83,35 +83,19 @@ Source: [NewsMeter](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUZwMVh
 
 ---
 
-### [Radiotherapy Highlights Local Risks in Bile Duct Cancer](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl93ZTNfR0k5bXJBNVFWVEtKZWNVVHU1dWlEU0c0VzFKaUxnZG4wOVduMnlrQXB4eFRxMGIxR2g2WkdzdjdqaFltQVZDQWY4V1ozRmtFbU9SUzROTjRzX0dCTkdGT1BpYU5Oa2JHSHFmZW9tUkIzeUxNYlZrbHRxOUVTZ1c0Y2JpWVhhTXZYT0pfcWZBOTZPZ1JoN2lTSzg3?oc=5)
+### [MRI May Improve Prediction of Prostate Cancer Upgrading](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnI0bC1GdnB3RkFyYm10YUNjM1JIemVxWGZZQmNiMlZjT29VT01WUnJjQ2UyQm5lLWJGeWtiT0RUVjluT1RVZk15WWNYU3dmb0dlMmFuVi1zdnFWSlRZRElEUTNMMm16aFRXOEdGWDZySFF2bHlna2Z5SXRUWjZNTHFOTDI4b1g1c2RWcVFjZHp0MHh3UDZfazFSdTltNzA?oc=5)
 
 2026-10-28 <span class="news-indication-tag">cancer</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl93ZTNfR0k5bXJBNVFWVEtKZWNVVHU1dWlEU0c0VzFKaUxnZG4wOVduMnlrQXB4eFRxMGIxR2g2WkdzdjdqaFltQVZDQWY4V1ozRmtFbU9SUzROTjRzX0dCTkdGT1BpYU5Oa2JHSHFmZW9tUkIzeUxNYlZrbHRxOUVTZ1c0Y2JpWVhhTXZYT0pfcWZBOTZPZ1JoN2lTSzg3?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnI0bC1GdnB3RkFyYm10YUNjM1JIemVxWGZZQmNiMlZjT29VT01WUnJjQ2UyQm5lLWJGeWtiT0RUVjluT1RVZk15WWNYU3dmb0dlMmFuVi1zdnFWSlRZRElEUTNMMm16aFRXOEdGWDZySFF2bHlna2Z5SXRUWjZNTHFOTDI4b1g1c2RWcVFjZHp0MHh3UDZfazFSdTltNzA?oc=5)
 
 ---
 
-### [The mirror may notice before your hands do: 7 subtle breast cancer signs women often miss, from skin dimp - The Times of India](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPQ0xLenNsSkRsLXJjR2VRTU9Cd2lTSjM5Z2JscVYwa0ZvUW1tcDNxeFVweEl2YWQyY1M1ZHRMc0I4RmJGMGZQQmRNUW9XV1ZfSncxQlZqMzM3YjlhV1Z4TWd6MTdLcmZic3B3Q2VCZXZxVkdrMk80Y1FmR1lDRUxISFRwWXNYdkMtWEJ2aXNJOWxSbEVLTVpsZ1dKYlQxSkxqVm1ldm5VSm02Szd0NlJsTnk3Y2I1TGhMcmxrX05FN1lrTHoyLWZzWmNDMndWek04WUJSLWp4NG11WFhLdUJEb3hwLWJUZ1NmeHBzSDJCcUZNd1FsanhfdTAwYVBqWkJjSGZDR3JEcWJhZkQ1UGtqQjlHRHVRMDBzQUtnN1pWWmFGQ3ZmVlBIVW9pbVFUcGdBUUNyTVFBRmtlZXk1dmxBTk9teFJUcUl5NFA0YV9DSHVFYjd6a05RN2tJeW1POXdCVDZj0gHoAkFVX3lxTFBFcDAyaTNQdl81UjhGcUQxaG9lWGpJQ2JCSFhjOW5aWFpHaTlOYWQ2NVl1Q2ZCWER3M2lMTFVGM3hNanYtdkhBZWVOeFNJUC1WNFJxQWlJcWlHRGtfLTNKbFZUOGJ2SmptN1BFOC1oaFBBaUtQODhHU04tV1lmTUUtdV90b0NsdzZJa09nNF9RRThJYVBrLUxwSlJ4c20xa3lycnl3ekh0eTN3UjdaVDN0UVRPNjR6TE1WYkducXl0Rm1BYzB4WlhSNEdpa2FpNjBXVldPOE5mYTlKU3JnbVlRSmVKWGFtc29nclhwZ1hwU0U1dUJIcHN1aXA5dWoyRlI1ODJwZUtaNHhSanBQaDVScFJfX3g4SnA0ckRBd251QUhNaVkyRTJNVmZWWWM0a19hMHhxT2VReXdqUGdobHJvemFVbTU4Z1ZnejlYTk5xcTdXQjNsa25NTTBPS3JxOURHeHBETmhmdQ?oc=5)
+### [Breast Cancer Surgery Is Evolving: How Modern Techniques Are Balancing Cancer Control With Quality Of Life - ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkQxbHVSREVJeW1DZGpRNjlCRlk5YUFBUnFqVW1tZ0RxRUtzV05ySkFNRzJtbzN4Y1ZZSWZlUEdRMlhuSDIwTlh3YVJ4Y1ZTMXNJNlZSaUZwVFh5ZTFLSU5YdE1jNVZkaDlOZzR1TEt4YjVIMVljYUlKNDVfUHdhQ2FCVlZQMURSc0g5OXFJLUFOMGJteTNzcWhmdzLSAaIBQVVfeXFMTWZBUTdVQTVZUjNlazNXenlXMTZGZlpvelV3NzBvUXhkZHdUc2YyQjlLdUZQbWpnelRmbnFkdXNQcjdWU2hPdkw4NXpkU2xyMWtEbGc2REJWZG93NWJmbEhYN3dhRkVjdDF5LVU2N2Etb0pZanUzZnV3NElCckR0d0ZaUnIxNENaVTVBSUh1YUpqWjZoMXloYXhib1kyTG9KZGtR?oc=5)
 
 2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi4wJBVV95cUxPQ0xLenNsSkRsLXJjR2VRTU9Cd2lTSjM5Z2JscVYwa0ZvUW1tcDNxeFVweEl2YWQyY1M1ZHRMc0I4RmJGMGZQQmRNUW9XV1ZfSncxQlZqMzM3YjlhV1Z4TWd6MTdLcmZic3B3Q2VCZXZxVkdrMk80Y1FmR1lDRUxISFRwWXNYdkMtWEJ2aXNJOWxSbEVLTVpsZ1dKYlQxSkxqVm1ldm5VSm02Szd0NlJsTnk3Y2I1TGhMcmxrX05FN1lrTHoyLWZzWmNDMndWek04WUJSLWp4NG11WFhLdUJEb3hwLWJUZ1NmeHBzSDJCcUZNd1FsanhfdTAwYVBqWkJjSGZDR3JEcWJhZkQ1UGtqQjlHRHVRMDBzQUtnN1pWWmFGQ3ZmVlBIVW9pbVFUcGdBUUNyTVFBRmtlZXk1dmxBTk9teFJUcUl5NFA0YV9DSHVFYjd6a05RN2tJeW1POXdCVDZj0gHoAkFVX3lxTFBFcDAyaTNQdl81UjhGcUQxaG9lWGpJQ2JCSFhjOW5aWFpHaTlOYWQ2NVl1Q2ZCWER3M2lMTFVGM3hNanYtdkhBZWVOeFNJUC1WNFJxQWlJcWlHRGtfLTNKbFZUOGJ2SmptN1BFOC1oaFBBaUtQODhHU04tV1lmTUUtdV90b0NsdzZJa09nNF9RRThJYVBrLUxwSlJ4c20xa3lycnl3ekh0eTN3UjdaVDN0UVRPNjR6TE1WYkducXl0Rm1BYzB4WlhSNEdpa2FpNjBXVldPOE5mYTlKU3JnbVlRSmVKWGFtc29nclhwZ1hwU0U1dUJIcHN1aXA5dWoyRlI1ODJwZUtaNHhSanBQaDVScFJfX3g4SnA0ckRBd251QUhNaVkyRTJNVmZWWWM0a19hMHhxT2VReXdqUGdobHJvemFVbTU4Z1ZnejlYTk5xcTdXQjNsa25NTTBPS3JxOURHeHBETmhmdQ?oc=5)
-
----
-
-### [Painless breast lumps fear, social stigma delaying breast cancer diagnosis, warn CARE Hospital docs - The Hans India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTZ6UTdES1lFdnMwRXRDaVFjeUlPZjdLQWEwUmU5VXJpMDBNLWRPR25xTWVWVDllT0RKN0xjZTgwSnJ0empLMDR2dHZvbGNOMXAzcTNLM3ZJQUwtd1NTNHlTUS1sSUJwNFkzMU9JR0FtUjVDbElOZ25FRUFxVXNyVzltTUdSNXY2RVZ4X0JnNVZEa3gtX0xmbFh3bWd3cWU0M3VGUktTZ3cyWUZkLTBxX0ozbXFvcDZCR3ZTcTFQcG9tdWZ4YXY2cjhwdjdTeU5UY0J3dm5aeU1raXlWMkU5cl80Q0RQTkk?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTZ6UTdES1lFdnMwRXRDaVFjeUlPZjdLQWEwUmU5VXJpMDBNLWRPR25xTWVWVDllT0RKN0xjZTgwSnJ0empLMDR2dHZvbGNOMXAzcTNLM3ZJQUwtd1NTNHlTUS1sSUJwNFkzMU9JR0FtUjVDbElOZ25FRUFxVXNyVzltTUdSNXY2RVZ4X0JnNVZEa3gtX0xmbFh3bWd3cWU0M3VGUktTZ3cyWUZkLTBxX0ozbXFvcDZCR3ZTcTFQcG9tdWZ4YXY2cjhwdjdTeU5UY0J3dm5aeU1raXlWMkU5cl80Q0RQTkk?oc=5)
-
----
-
-### [Prostate Cancer Upgrading Linked to Key Clinical Predictors](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1MZUYxY3g3MlhLQkpfX3AyQUlkQTdUNDlObTRhcGUyM3NKNlE0WkFqdUZiT2hXMWRoRS1jdEo3UWppR0Nva0gxSXh1Sko5MFJCcWQ5YjlPY0J5ZVhNRFh1dUhKNUNuRG1CX3Z4WGx4cExWcjhfZzZpTUIybVAxN256WVZ4cEFkbVg4S1NWYjAwN3hGeF9MRnkyeTBib1NnZWc?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1MZUYxY3g3MlhLQkpfX3AyQUlkQTdUNDlObTRhcGUyM3NKNlE0WkFqdUZiT2hXMWRoRS1jdEo3UWppR0Nva0gxSXh1Sko5MFJCcWQ5YjlPY0J5ZVhNRFh1dUhKNUNuRG1CX3Z4WGx4cExWcjhfZzZpTUIybVAxN256WVZ4cEFkbVg4S1NWYjAwN3hGeF9MRnkyeTBib1NnZWc?oc=5)
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZkQxbHVSREVJeW1DZGpRNjlCRlk5YUFBUnFqVW1tZ0RxRUtzV05ySkFNRzJtbzN4Y1ZZSWZlUEdRMlhuSDIwTlh3YVJ4Y1ZTMXNJNlZSaUZwVFh5ZTFLSU5YdE1jNVZkaDlOZzR1TEt4YjVIMVljYUlKNDVfUHdhQ2FCVlZQMURSc0g5OXFJLUFOMGJteTNzcWhmdzLSAaIBQVVfeXFMTWZBUTdVQTVZUjNlazNXenlXMTZGZlpvelV3NzBvUXhkZHdUc2YyQjlLdUZQbWpnelRmbnFkdXNQcjdWU2hPdkw4NXpkU2xyMWtEbGc2REJWZG93NWJmbEhYN3dhRkVjdDF5LVU2N2Etb0pZanUzZnV3NElCckR0d0ZaUnIxNENaVTVBSUh1YUpqWjZoMXloYXhib1kyTG9KZGtR?oc=5)
 
 ---
 
