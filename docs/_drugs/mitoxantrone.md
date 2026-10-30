@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mitoxantrone: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Acute myeloid leukemia and related myeloid leukemias"
 monitor_inn: "Mitoxantrone"
 predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
@@ -50,7 +50,7 @@ A closely related prediction, **head and neck cancer** (rank 7), has the stronge
 | Predicted New Indication | Upper aerodigestive tract neoplasm |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 (preclinical, mechanistic and older phase II literature only) |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

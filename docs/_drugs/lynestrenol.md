@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "Lynestrenol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lynestrenol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence records"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be useful for **migraine disorder**. Support is 
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L3 (see note below) |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 

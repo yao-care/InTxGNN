@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 105
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Betahistine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model has no candidate indication with a score of 0.99 o
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 2 |
 | Evidence level | Not applicable |
-| Market status in India | Marketed (valid licences on record: at least 20) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 
 ## Known uses recorded for this drug

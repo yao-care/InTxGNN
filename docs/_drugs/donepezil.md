@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Donepezil: predicted new indication psychogenic movement disorders (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -52,7 +52,7 @@ No clinical trials or publications were found for this disease, so the predictio
 | Predicted New Indication | psychogenic movement disorders |
 | TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 

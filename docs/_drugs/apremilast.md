@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 64
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Apremilast: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model has no candidate indication for Apremilast with a 
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 4 |
 | Evidence level | Not applicable |
-| Market status in India | Marketed (valid licences: 19 of 19) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
 | Number of Registrations | 19 (valid: 19) |
 
 ## Known uses recorded for this drug

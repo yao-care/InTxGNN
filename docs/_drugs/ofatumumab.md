@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Ofatumumab"
 predicted_indications: ["follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Acute lymphoblastic/lymphocytic leukemia and Richter syndrome"
 ---
 
@@ -50,7 +50,7 @@ Ofatumumab is an anti-CD20 antibody. The TxGNN model (deep learning) predicts it
 | Predicted New Indication | Follicular lymphoma |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L2 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 

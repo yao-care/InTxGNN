@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 893
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Vinpocetine: predicted new indication Coronary artery disease (evidence level L5). Approved use: Dementia"
 monitor_inn: "Vinpocetine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery", "lissencephaly", "alexia", "respiratory malformation", "Rienhoff syndrome"]
@@ -52,7 +52,7 @@ but **no clinical trials** and only **2 loosely related publications** (neither 
 | Predicted New Indication | Coronary artery disease |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 13 of 13) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (13 of 13) – CDSCO approval status is not included in this data |
 | Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Hold |
 

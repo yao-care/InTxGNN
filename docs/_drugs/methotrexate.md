@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ Among the other top-10 predictions, **Hodgkin lymphoma** (44 trials, 20 publicat
 | Predicted New Indication | Pulmonary blastoma |
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Dexibuprofen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dexibuprofen: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ Dexibuprofen is a nonsteroidal anti-inflammatory drug (NSAID), the S-enantiomer 
 | Predicted New Indication | brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 

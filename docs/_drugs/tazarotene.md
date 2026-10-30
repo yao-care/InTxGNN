@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Tazarotene"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
 description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ but **no clinical trials or publications** currently support this specific predi
 | Predicted New Indication | Seborrheic dermatitis |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 12 of 12) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
 | Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 

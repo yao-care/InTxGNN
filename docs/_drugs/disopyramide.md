@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Disopyramide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not stated in the India license data (the drug's known use is as an a…"
 monitor_inn: "Disopyramide"
 predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
@@ -48,7 +48,7 @@ Disopyramide is a class Ia antiarrhythmic (sodium channel blocker with anticholi
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

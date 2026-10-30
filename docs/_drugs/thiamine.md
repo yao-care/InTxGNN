@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model ranks **resistance to thyroid hormone due to a mutation in thyro
 | Predicted New Indication | Top-ranked: resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta. Best-supported: open-angle glaucoma |
 | TxGNN Prediction Score | 0.9943 (top-ranked); 0.9936 (open-angle glaucoma) |
 | Evidence Level | L5 (see note below) |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | At least 20 (the list may be partial) |
 | Recommended Decision | Hold |
 

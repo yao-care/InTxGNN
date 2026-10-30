@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Nicergoline"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 description: "Nicergoline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ Among the eight predicted indications, only **migraine disorder** has supporting
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 (hypertrichosis); L4 (migraine disorder) |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold (hypertrichosis); migraine flagged as a research question |
 

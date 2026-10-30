@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mephentermine: predicted new indication Postural orthostatic tachycardia syndrome (evidence level L5). Approved use: Hypotensive disorder"
 monitor_inn: "Mephentermine"
 predicted_indications: ["postural orthostatic tachycardia syndrome", "sinoatrial node disease", "sinoatrial block", "variably protease-sensitive prionopathy"]
@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Postural orthostatic tachycardia syndrome |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 6 of 6) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 

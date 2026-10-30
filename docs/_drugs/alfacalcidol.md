@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Alfacalcidol: predicted new indication Craniofacial conodysplasia (evidence level L5). Approved use: Hyperparathyroidism, osteitis fibrosa, hypoparathyroidism…"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model's top prediction is **craniofacial conodysplasia**, but **no cli
 | Predicted New Indication | Craniofacial conodysplasia |
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 6 of 6) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 577
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nalidixic Acid: predicted new indication Conjunctivitis (evidence level L4). Approved use: Not stated in the available India licence data (the drug is known as…"
 monitor_inn: "Nalidixic acid"
 predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid arthritis", "infectious otitis media"]
@@ -52,7 +52,7 @@ This prediction is supported by model output alone and should be treated as a hy
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

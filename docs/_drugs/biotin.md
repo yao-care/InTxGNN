@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Biotin: predicted new indication dyspepsia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ Biotin (vitamin B7) is a cofactor for carboxylase enzymes involved in carbohydra
 | Predicted New Indication | dyspepsia |
 | TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 18 of 18) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (18 of 18) – CDSCO approval status is not included in this data |
 | Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 

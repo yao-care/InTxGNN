@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 866
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Trimebutine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the Indian license record"
 monitor_inn: "Trimebutine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be useful for **migraine disorder**, but the sup
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L2 (based on a single small randomized trial; no registered clinical trials) |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

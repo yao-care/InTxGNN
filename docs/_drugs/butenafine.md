@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Butenafine"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Butenafine: predicted new indication endothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,7 +48,7 @@ Butenafine is a topical antifungal cream. The TxGNN model predicts it may be use
 | Predicted New Indication | endothrix infectious disease |
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

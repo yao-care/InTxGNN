@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "Albendazole"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Albendazole: predicted new indication alveolar echinococcosis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ Only one of these trials, a completed Phase 2 study, directly tests albendazole 
 | Predicted New Indication | alveolar echinococcosis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L2 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 

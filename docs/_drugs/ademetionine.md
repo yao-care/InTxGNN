@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ademetionine: predicted new indication Acne (disease) (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Ademetionine"
 predicted_indications: ["acne (disease)", "colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "colon leiomyoma"]
@@ -50,7 +50,7 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 14 of 14) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (14 of 14) – CDSCO approval status is not included in this data |
 | Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Apomorphine: predicted new indication Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease"
 monitor_inn: "Apomorphine"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
@@ -52,7 +52,7 @@ Overall, the evidence is hypothesis-level, and the direction of any therapeutic 
 | Predicted New Indication | Top-ranked: polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (L5, no evidence). Best-supported: schizophrenia (rank 5) |
 | TxGNN Prediction Score | 0.9975 (rank 1); 0.9969 (schizophrenia) |
 | Evidence Level | L5 for the rank 1 prediction; L3 for schizophrenia |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (rank 1 prediction); schizophrenia is a research question only |
 

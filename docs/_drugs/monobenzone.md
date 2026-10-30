@@ -5,7 +5,7 @@ layout: default
 title: Monobenzone
 parent: Known Uses Only (No New Predictions)
 nav_order: 567
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Monobenzone: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Monobenzone"
 predicted_indications: []
@@ -43,7 +43,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 
 ## India Market Information

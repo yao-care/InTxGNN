@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 621
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Orciprenaline: predicted new indication Obstructive lung disease (evidence level L3). Approved use: Asthma, intrinsic asthma, allergic asthma, bronchitis…"
 monitor_inn: "Orciprenaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "food-dependent exercise-induced anaphylaxis", "anaphylaxis", "hyperlucent lung"]
@@ -52,7 +52,7 @@ This prediction is essentially an umbrella term for the drug's existing indicati
 | Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 

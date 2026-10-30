@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 415
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Melanoma, sickle cell anemia…"
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
@@ -52,7 +52,7 @@ The best-supported repurposing direction in the data compiled for this report is
 | Predicted New Indication | Female breast carcinoma (rank 1); best-supported alternative: sickle cell-hemoglobin C disease |
 | TxGNN Prediction Score | 0.9997 (breast carcinoma); 0.9967 (HbSC) |
 | Evidence Level | L5 (breast carcinoma); L2 (HbSC) |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (breast carcinoma); Proceed with Guardrails (HbSC) |
 

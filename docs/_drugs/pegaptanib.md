@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 651
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pegaptanib: predicted new indication Esophageal varices with bleeding (a second prediction… (evidence level L5). Approved use: Macular degeneration"
 monitor_inn: "Pegaptanib"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
@@ -50,7 +50,7 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Esophageal varices with bleeding (a second prediction, esophageal varices without bleeding, has the same score) |
 | TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

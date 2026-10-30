@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 497
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Lomefloxacin"
 predicted_indications: ["laryngotracheitis", "heart valve disease", "heart conduction disease", "congenital anomaly of ventricular septum", "heart neoplasm", "pericardium disease", "myocardial rupture", "cardiac anomalies-heterotaxy syndrome", "carcinoid heart disease", "heart aneurysm"]
 description: "Lomefloxacin: predicted new indication Laryngotracheitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ but there are currently **no clinical trials** and **no publications** supportin
 | Predicted New Indication | Laryngotracheitis |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 15 of 15) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 

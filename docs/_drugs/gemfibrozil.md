@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 389
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Hypertriglyceridemia"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
@@ -50,7 +50,7 @@ Other predicted indications (HIV-associated lipid disorders and hypoalphalipopro
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 

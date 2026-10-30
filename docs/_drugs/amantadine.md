@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 44
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amantadine: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease and related parkinsonian and dystonic disorders"
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
@@ -52,7 +52,7 @@ but **no clinical trials and no publications** currently support this specific p
 | Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 12 of 12) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
 | Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 

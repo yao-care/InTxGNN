@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Cetilistat"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 description: "Cetilistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 908
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Zinc Sulfate: predicted new indication Pharyngitis (evidence level L3). Approved use: Not recorded in the available licence data"
 monitor_inn: "Zinc sulfate"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
@@ -50,7 +50,7 @@ That evidence comes from postoperative and radiation-related sore throat setting
 | Predicted New Indication | Pharyngitis |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 

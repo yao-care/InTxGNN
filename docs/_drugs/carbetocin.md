@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carbetocin: predicted new indication isotretinoin-like syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be relevant to **isotretinoin-like syndrome**, b
 | Predicted New Indication | isotretinoin-like syndrome |
 | TxGNN Prediction Score | 0.9915 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

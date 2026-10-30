@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Bacterial infections (streptococcal, staphylococcal, pneumonia…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -52,7 +52,7 @@ That evidence supports infection *prevention* in myeloma patients, not treatment
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis (TxGNN rank 1); monoclonal gammopathy (rank 7) is the best-evidenced candidate and is the focus of the evidence sections below |
 | TxGNN Prediction Score | 0.9992 (punctate epithelial keratoconjunctivitis); 0.9981 (monoclonal gammopathy) |
 | Evidence Level | L5 for the top-ranked prediction; L1 for monoclonal gammopathy (infection prophylaxis in myeloma only); L3 for septicemic plague (preclinical) |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (top prediction); Proceed with Guardrails as a research question for infection prophylaxis in myeloma |
 

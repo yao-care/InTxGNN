@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pefloxacin: predicted new indication Heart conduction disease (evidence level L5). Approved use: Not stated in the licence data (fluoroquinolone antibacterial)"
 monitor_inn: "Pefloxacin"
 predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "myocardial rupture", "carcinoid heart disease", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome", "cor biloculare"]
@@ -52,7 +52,7 @@ The prediction is model output only, and known fluoroquinolone safety signals po
 | Predicted New Indication | Heart conduction disease |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 12 of 12) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
 | Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 

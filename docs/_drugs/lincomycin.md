@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Lincomycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lincomycin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Pneumococcal, staphylococcal and streptococcal infections"
 ---
 
@@ -50,7 +50,7 @@ Lincomycin is a lincosamide antibiotic. The TxGNN model (deep learning) predicts
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | At least 20 (the list may be partial; 20 single-ingredient licences are shown) |
 | Recommended Decision | Hold |
 

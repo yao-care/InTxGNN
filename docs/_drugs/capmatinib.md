@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Capmatinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the available India license data (the drug is known as…"
 monitor_inn: "Capmatinib"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome"]
@@ -48,7 +48,7 @@ Capmatinib is a selective MET inhibitor and a kinase inhibitor, marketed in Indi
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 

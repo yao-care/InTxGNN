@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 74
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Manic bipolar affective disorder"
 monitor_inn: "Asenapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "major affective disorder"]
@@ -50,7 +50,7 @@ The only prediction with literature support is **major affective disorder** (**1
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies (rank 1) |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 (model prediction only) |
-| India Market Status | Marketed (valid licences: 7 of 7) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 

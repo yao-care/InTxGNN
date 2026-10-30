@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 886
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The TxGNN model's top-ranked prediction is **obsolete bundle branch block**, but
 | Predicted New Indication | Obsolete bundle branch block |
 | TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 17 of 17) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (17 of 17) – CDSCO approval status is not included in this data |
 | Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 

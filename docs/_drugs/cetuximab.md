@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["ductal or ductular proliferation", "non-seminomatous lesion", "chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cetuximab: predicted new indication Ductal or ductular proliferation (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma, including head and neck"
 ---
 
@@ -50,7 +50,7 @@ Cetuximab is an anti-EGFR antibody used for EGFR-expressing metastatic colorecta
 | Predicted New Indication | Ductal or ductular proliferation |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

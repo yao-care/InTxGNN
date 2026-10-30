@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 711
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Prulifloxacin: predicted new indication Heart disease (evidence level L5). Approved use: Not stated in the India licence data compiled for this report (prulif…"
 monitor_inn: "Prulifloxacin"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "disorder of fucoglycosan synthesis", "mitral valve disease", "Jeune syndrome situs inversus"]
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **heart disease**, but this is 
 | Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 11 of 11) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
 | Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 

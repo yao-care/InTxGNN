@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 401
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Goserelin: predicted new indication amenorrhea (evidence level L3). Approved use: Endometriosis"
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
@@ -52,7 +52,7 @@ The data compiled for this report include **1 clinical trial** (of low relevance
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

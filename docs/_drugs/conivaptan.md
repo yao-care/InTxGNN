@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 211
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Conivaptan: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not stated in the Indian license data (conivaptan is generally used f…"
 monitor_inn: "Conivaptan"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "kyphoscoliotic heart disease", "peripheral arterial disease", "peripheral vascular disease"]
@@ -50,7 +50,7 @@ At this stage the prediction is a research question, not an evidence-backed indi
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L4 (preclinical and mechanistic support only; the one trial was withdrawn) |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

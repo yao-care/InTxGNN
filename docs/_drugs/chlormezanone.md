@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 172
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chlormezanone: predicted new indication Insomnia (evidence level L4). Approved use: Anxiety"
 monitor_inn: "Chlormezanone"
 predicted_indications: ["insomnia (disease)"]
@@ -50,7 +50,7 @@ with **no registered clinical trials** and **2 publications** (1979 and 1983) cu
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Arformoterol"
 predicted_indications: ["hyperlucent lung", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "tracheal calcification"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Arformoterol: predicted new indication hyperlucent lung (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ There are currently **no clinical trials and no publications** supporting this d
 | Predicted New Indication | hyperlucent lung |
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

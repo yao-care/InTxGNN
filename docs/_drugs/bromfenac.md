@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 118
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bromfenac: predicted new indication Eye disease (evidence level L1). Approved use: Not stated in the Indian license data"
 monitor_inn: "Bromfenac"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **eye disease** (a broad catego
 | Predicted New Indication | Eye disease |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L1 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Proceed with Guardrails |
 

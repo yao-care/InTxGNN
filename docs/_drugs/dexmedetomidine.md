@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dexmedetomidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not stated in the licence data (injectable dexmedetomidine is general…"
 monitor_inn: "Dexmedetomidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
@@ -51,7 +51,7 @@ The TxGNN model's top-ranked prediction is **nephrogenic syndrome of inappropria
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 16 of 16) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (16 of 16) – CDSCO approval status is not included in this data |
 | Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 

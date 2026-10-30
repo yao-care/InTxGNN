@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 627
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **insomnia**, with **no registe
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 15 of 15) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 134
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Calcium Citrate: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not stated in the available licence data"
 monitor_inn: "Calcium citrate"
 predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **hemoglobinopathy** with a ver
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 0.9937 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 

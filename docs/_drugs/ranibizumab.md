@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ranibizumab"
 predicted_indications: ["mature cataract", "immature cataract", "craniostenosis cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ranibizumab: predicted new indication Mature cataract (evidence level L5). Approved use: Diabetic retinopathy, macular degeneration…"
 ---
 
@@ -50,7 +50,7 @@ The prediction therefore rests almost entirely on the model score.
 | Predicted New Indication | Mature cataract |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 

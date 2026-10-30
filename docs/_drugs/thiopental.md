@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
 description: "Thiopental: predicted new indication Trichotillomania (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ This is a prediction from the TxGNN model (deep learning) only, and the score ma
 | Predicted New Indication | Trichotillomania |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 12 of 12) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
 | Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 

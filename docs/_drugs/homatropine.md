@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 409
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Homatropine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "overactive bladder (disease)"]
 description: "Homatropine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ but **no clinical trials and no publications** currently support this prediction
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 12 of 12) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
 | Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 

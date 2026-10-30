@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 619
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Omalizumab: predicted new indication Bronchitis (evidence level L4). Approved use: Asthma, intrinsic asthma, allergic asthma, idiopathic urticaria"
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
@@ -52,7 +52,7 @@ Among the other top-ranked predictions, **obstructive lung disease** (largely re
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

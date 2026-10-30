@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 639
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
@@ -48,7 +48,7 @@ Palonosetron is a second-generation 5-HT3 receptor antagonist, a class of drug u
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 12 of 12) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (12 of 12) – CDSCO approval status is not included in this data |
 | Number of Registrations | 12 (valid: 12) |
 | Recommended Decision | Hold |
 

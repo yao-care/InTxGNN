@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 379
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fosaprepitant: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Fosaprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "pneumocystosis", "leprosy", "Cryptococcal meningitis", "multiple endocrine neoplasia", "intracranial abscess", "retinitis", "Plasmodium falciparum malaria", "echinococcus granulosus infectious disease", "hyperargininemia"]
@@ -48,7 +48,7 @@ Fosaprepitant is an injectable prodrug of aprepitant, a substance P/NK1 receptor
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 15 of 15) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold |
 

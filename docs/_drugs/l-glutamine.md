@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "L-Glutamine: predicted new indication Drug-induced osteoporosis . Dermatitis is the best-supported candidat… (evidence level L5). Approved use: Short bowel syndrome"
 monitor_inn: "L-Glutamine"
 predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of newborn", "dermatitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "severe nonproliferative diabetic retinopathy", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -51,7 +51,7 @@ The TxGNN model's top-ranked prediction is drug-induced osteoporosis, but that p
 | Predicted New Indication | Drug-induced osteoporosis (TxGNN rank 1, no evidence). Dermatitis (rank 3) is the best-supported candidate and is the focus of this report. |
 | TxGNN Prediction Score | 0.9998 (drug-induced osteoporosis); 0.9985 (dermatitis) |
 | Evidence Level | L5 (drug-induced osteoporosis); L3 (dermatitis) |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold (drug-induced osteoporosis); Hold for dermatitis, as a research question only |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Clofazimine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Pyoderma gangrenosum, leprosy, multibacillary leprosy"
 monitor_inn: "Clofazimine"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
@@ -52,7 +52,7 @@ This prediction rests on the model alone and should be treated as a hypothesis.
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 11 of 11) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
 | Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 

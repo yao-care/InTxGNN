@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Conjugated Estrogens: predicted new indication migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ There are **no registered clinical trials** for this disease, and the data compi
 | Predicted New Indication | migraine disorder |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 

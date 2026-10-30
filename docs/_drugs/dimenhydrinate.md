@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L4). Approved use: Central nervous system origin vertigo"
 monitor_inn: "Dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
@@ -50,7 +50,7 @@ but at present only **1 publication** (a veterinary pharmacokinetic pilot study)
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

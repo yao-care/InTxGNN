@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Stanozolol"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Stanozolol: predicted new indication C1 inhibitor deficiency (evidence level L3). Approved use: Hereditary angioedema"
 ---
 
@@ -50,7 +50,7 @@ Support comes from **0 registered clinical trials** and **18 publications**, mos
 | Predicted New Indication | C1 inhibitor deficiency |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 10 of 10) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (10 of 10) – CDSCO approval status is not included in this data |
 | Number of Registrations | 10 (valid: 10) |
 | Recommended Decision | Proceed with Guardrails |
 

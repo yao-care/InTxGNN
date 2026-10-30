@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 554
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Milrinone"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
 description: "Milrinone: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ Milrinone is a PDE3 inhibitor and inodilator, used in India as an injection for 
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 for alopecia (model prediction only) |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 

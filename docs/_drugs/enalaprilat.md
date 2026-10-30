@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 305
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Enalaprilat: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure…"
 monitor_inn: "Enalaprilat"
 predicted_indications: ["primary hereditary glaucoma"]
@@ -50,7 +50,7 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

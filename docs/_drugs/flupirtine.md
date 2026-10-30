@@ -3,7 +3,7 @@ layout: default
 title: Flupirtine
 parent: Known Uses Only (No New Predictions)
 nav_order: 370
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Flupirtine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0
@@ -44,7 +44,7 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Flupirtine, 
 | Item | Content |
 |------|------|
 | Known uses recorded for this drug | 0 |
-| Market status in India | Marketed (valid licences on record: at least 20) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 
 ## Known uses recorded for this drug

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Glycolic Acid: predicted new indication atypical coarctation of aorta (evidence level L5). Approved use: Not specified (the registered product is a cosmetic-type foaming face…"
 monitor_inn: "Glycolic acid"
 predicted_indications: ["atypical coarctation of aorta", "non-syndromic esophageal malformation", "esophageal disease", "potassium deficiency disease", "aortic malformation", "sclerosing cholangitis", "disorder of carbohydrate absorption and transport", "hyperinsulinemic hypoglycemia, familial", "diazoxide-resistant focal hyperinsulinism due to Kir6.2 deficiency", "autosomal recessive hyperinsulinism due to SUR1 deficiency"]
@@ -52,7 +52,7 @@ The retrieved papers concern glycolic acid-containing polymers (PGA, PLGA) used 
 | Predicted New Indication | Esophageal disease (the highest-ranked prediction, atypical coarctation of aorta, has no supporting evidence at all; esophageal disease is the highest-ranked prediction with any literature) |
 | TxGNN Prediction Score | 0.9969 (esophageal disease); 0.9972 for the top-ranked atypical coarctation of aorta |
 | Evidence Level | L5 (esophageal disease); L5 for the top-ranked prediction |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Clofarabine"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Clofarabine: predicted new indication myeloid leukemia (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
@@ -48,7 +48,7 @@ Clofarabine is a purine nucleoside analog anticancer drug. The TxGNN model predi
 | Predicted New Indication | myeloid leukemia |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 

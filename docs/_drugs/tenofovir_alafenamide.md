@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 817
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tenofovir Alafenamide: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 monitor_inn: "Tenofovir alafenamide"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,7 +50,7 @@ Support currently comes from **8 publications**, mostly macaque studies, and **n
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 9 of 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 

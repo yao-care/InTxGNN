@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 731
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Reboxetine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "Reboxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "Keppen-Lubinsky syndrome", "ligneous conjunctivitis"]
@@ -50,7 +50,7 @@ but **no clinical trials and no publications** currently support this direction,
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 6 of 6) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Hold |
 

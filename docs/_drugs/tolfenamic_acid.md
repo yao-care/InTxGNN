@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 844
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tolfenamic Acid: predicted new indication Headache disorder (evidence level L5). Approved use: Not stated in the available India licence data"
 monitor_inn: "Tolfenamic acid"
 predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia", "exostosis", "inclusion body myositis"]
@@ -50,7 +50,7 @@ Tolfenamic acid is an NSAID marketed in India as Clotan Capsule. The approved in
 | Predicted New Indication | Headache disorder |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 (see note below) |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 

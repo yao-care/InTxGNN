@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 833
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tiagabine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN model produced candidates for Tiagabine, but every candidate that can 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in India | Marketed (valid licences: 1 of 1) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 
 ## Known uses among the model's candidates

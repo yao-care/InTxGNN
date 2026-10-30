@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Diazoxide: predicted new indication Alopecia (evidence level L5). Approved use: Hyperinsulinemic hypoglycemia (including insulinoma…"
 monitor_inn: "Diazoxide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -52,7 +52,7 @@ This report evaluates alopecia (rank 4) as the lead candidate. The three higher-
 | Predicted New Indication | Alopecia (the top-ranked prediction, hypotrichosis simplex of the scalp, has no supporting evidence) |
 | TxGNN Prediction Score | 0.9991 (alopecia); 0.9996 for the top-ranked hypotrichosis simplex of the scalp |
 | Evidence Level | L5 (preclinical and indirect evidence only) |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 

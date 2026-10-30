@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Difluprednate: predicted new indication Familial adrenal hypoplasia with absent pituitary luteinizing hormone (evidence level L5). Approved use: Postoperative ocular inflammation and pain, and anteri…"
 monitor_inn: "Difluprednate"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
@@ -50,7 +50,7 @@ The prediction is a computational signal only and does not hold up on mechanisti
 | Predicted New Indication | Familial adrenal hypoplasia with absent pituitary luteinizing hormone |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 19 of 19) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
 | Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 

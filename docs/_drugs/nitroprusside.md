@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 604
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nitroprusside: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the licence data"
 monitor_inn: "Nitroprusside"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "alopecia", "congenital hypotrichosis milia", "diffuse alopecia areata", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease"]
@@ -50,7 +50,7 @@ The literature also suggests NO donors tend to *provoke* migraine rather than re
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

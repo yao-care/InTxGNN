@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Methylergometrine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the licence data compiled for this report"
 monitor_inn: "Methylergometrine"
 predicted_indications: ["hypertrichosis (disease)", "pulmonary hypertension", "migraine disorder", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "kyphoscoliotic heart disease", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -50,7 +50,7 @@ Methylergometrine is an ergot-derived drug marketed in India as tablets and inje
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

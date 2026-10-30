@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 717
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Quinidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Atrial fibrillation, malaria"
 monitor_inn: "Quinidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -52,7 +52,7 @@ but currently **no clinical trials and no publications** support this direction.
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

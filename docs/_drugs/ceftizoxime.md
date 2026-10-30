@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ceftizoxime"
 predicted_indications: ["Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "epiglottitis", "urogenital tuberculosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ceftizoxime: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Urinary tract infection, gonorrhea…"
 ---
 
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **Ureaplasma urethritis**, but 
 | Predicted New Indication | Ureaplasma urethritis |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 18 of 18) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (18 of 18) – CDSCO approval status is not included in this data |
 | Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 

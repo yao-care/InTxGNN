@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 863
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Triclofos"
 predicted_indications: ["insomnia (disease)"]
 description: "Triclofos: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **insomnia** (score 0.9991). Ho
 | Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 (L3 under the related label "sleep disorder, initiating and maintaining sleep") |
-| India Market Status | Marketed (valid licences: 18 of 18) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (18 of 18) – CDSCO approval status is not included in this data |
 | Number of Registrations | 18 (valid: 18) |
 | Recommended Decision | Hold |
 

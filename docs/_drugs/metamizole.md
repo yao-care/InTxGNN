@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 530
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Metamizole"
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
 description: "Metamizole: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The evidence for this prediction is therefore weak. The only migraine-related pr
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 

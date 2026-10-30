@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 633
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oxyphenonium: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Gastric and duodenal ulcer"
 monitor_inn: "Oxyphenonium"
 predicted_indications: ["irritable bowel syndrome"]
@@ -50,7 +50,7 @@ but at present **no clinical trials and no publications** support this predictio
 | Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 0.9908 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

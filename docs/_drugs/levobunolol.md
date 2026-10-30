@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 484
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Levobunolol: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model produced candidates for Levobunolol, but every can
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 2 |
 | Evidence level | Not applicable |
-| Market status in India | Marketed (valid licences: 2 of 2) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 
 ## Known uses among the model's candidates

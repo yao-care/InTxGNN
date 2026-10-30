@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 173
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chloroprocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the India licence record (drug class: local anaesthetic)"
 monitor_inn: "Chloroprocaine"
 predicted_indications: ["cauda equina syndrome"]
@@ -52,7 +52,7 @@ The prediction most likely reflects a drug-harm association and not a therapeuti
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

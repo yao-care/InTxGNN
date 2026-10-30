@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Adenosine: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Ventricular tachycardia"
 monitor_inn: "Adenosine"
 predicted_indications: ["obsolete bundle branch block"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **obsolete bundle branch block*
 | Predicted New Indication | Obsolete bundle branch block |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 11 of 11) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
 | Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 

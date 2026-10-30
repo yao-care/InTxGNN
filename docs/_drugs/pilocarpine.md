@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 670
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pilocarpine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Pilocarpi
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in India | Marketed (valid licences: 16 of 16) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (16 of 16) – CDSCO approval status is not included in this data |
 | Number of Registrations | 16 (valid: 16) |
 
 ## Known uses among the model's candidates

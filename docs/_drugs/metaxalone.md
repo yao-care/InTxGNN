@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Metaxalone: predicted new indication Infectious otitis media (evidence level L5). Approved use: Not stated in the data compiled for this report (metaxalone is genera…"
 monitor_inn: "Metaxalone"
 predicted_indications: ["infectious otitis media", "endocarditis", "endocardial fibroelastosis"]
@@ -50,7 +50,7 @@ but **no clinical trials and no publications** currently support this prediction
 | Predicted New Indication | Infectious otitis media |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

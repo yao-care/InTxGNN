@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 548
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Micafungin: predicted new indication urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
 monitor_inn: "Micafungin"
 predicted_indications: ["urinary tract infection (disease)"]
@@ -52,7 +52,7 @@ Currently there are **no registered clinical trials**, but **13 publications** (
 | Predicted New Indication | Urinary tract infection |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 19 of 19) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
 | Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 

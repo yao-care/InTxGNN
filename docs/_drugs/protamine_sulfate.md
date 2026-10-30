@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 709
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Protamine Sulfate: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN model has no candidate with a score of 0.99 or higher for Protamine Su
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
 | Known uses recorded for this drug | 0 |
 | Evidence level | Not applicable |
-| Market status in India | Marketed (valid licences: 6 of 6) |
+| Market status in India | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Registrations | 6 (valid: 6) |
 
 ## Known uses recorded for this drug

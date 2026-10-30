@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dexketoprofen: predicted new indication Tendinitis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 monitor_inn: "Dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **migraine disorder** (the top-
 | Predicted New Indication | Migraine disorder (the strongest-evidence prediction; the first-ranked prediction by TxGNN is tendinitis) |
 | TxGNN Prediction Score | 0.9987 (migraine disorder); 0.9990 (tendinitis) |
 | Evidence Level | L5 (with caveats: the trials are Phase 4 or N/A rather than Phase 3, and are mostly emergency department studies) |
-| India Market Status | Marketed (valid licences: 6 of 6) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Registrations | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 

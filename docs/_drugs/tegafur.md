@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 809
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Tegafur"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
 description: "Tegafur: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ with **16 clinical trials** and **20 publications** currently supporting this di
 | Predicted New Indication | Colonic neoplasm |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L1 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 

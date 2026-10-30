@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 742
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Rimonabant: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
 monitor_inn: "Rimonabant"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny", "pentosuria", "insomnia (disease)", "lethal polymalformative syndrome, Boissel type"]
@@ -50,7 +50,7 @@ The evidence is weak, and no plausible mechanistic link has been identified.
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 9 of 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 

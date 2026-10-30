@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amineptine"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder", "migraine disorder", "migraine with brainstem aura", "paranoid personality disorder", "schizotypal personality disorder", "schizoid personality disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amineptine: predicted new indication Agoraphobia (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 ---
 
@@ -50,7 +50,7 @@ This is a computational prediction without direct supporting studies.
 | Predicted New Indication | Agoraphobia |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Number of Approvals | 1 |
 | Recommended Decision | Hold |

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 592
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Niclosamide: predicted new indication Heart disease (evidence level L5). Approved use: Not stated in the India license data (the drug is generally known as…"
 monitor_inn: "Niclosamide"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "interventricular septum aneurysm", "Jeune syndrome situs inversus", "disorder of fucoglycosan synthesis"]
@@ -52,7 +52,7 @@ This is a model-generated hypothesis with limited biological support, not a clin
 | Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L4 (preclinical and mechanistic studies only) |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 392
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Gimeracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
 description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ The clinical evidence is for the S-1 combination as a whole, not gimeracil alone
 | Predicted New Indication | Colonic neoplasm |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 

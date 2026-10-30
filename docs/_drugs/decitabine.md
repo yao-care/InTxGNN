@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Decitabine: predicted new indication Refractory cytopenia of childhood (evidence level L4). Approved use: Myeloid leukaemia / acute myeloid leukaemia (several subtypes)"
 monitor_inn: "Decitabine"
 predicted_indications: ["refractory cytopenia of childhood"]
@@ -50,7 +50,7 @@ Currently there are **no registered clinical trials** and **2 publications** (on
 | Predicted New Indication | Refractory cytopenia of childhood |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 16 of 16) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (16 of 16) – CDSCO approval status is not included in this data |
 | Number of Registrations | 16 (valid: 16) |
 | Recommended Decision | Hold |
 

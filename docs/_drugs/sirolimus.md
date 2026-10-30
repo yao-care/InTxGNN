@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 775
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal cell carcinoma (including clear cell and non-papillary subtypes)"
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
@@ -50,7 +50,7 @@ Among the other predictions, **lymphangiomyoma (LAM)** has by far the strongest 
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 15 of 15) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold (research question; not ready to advance) |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Sertaconazole"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease", "pityriasis versicolor"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sertaconazole: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis"
 ---
 
@@ -52,7 +52,7 @@ Two related predictions were also generated: endothrix infectious disease (no di
 | Predicted New Indication | Ectothrix infectious disease |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 | Number of Approvals | At least 20 licences (the list may be partial) |
 | Recommended Decision | Hold |

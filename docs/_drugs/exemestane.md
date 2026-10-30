@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L5). Approved use: Not available in the registration data compiled for this report"
 monitor_inn: "Exemestane"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
@@ -50,7 +50,7 @@ Evidence is therefore at the model-prediction level, and no plausible mechanisti
 | Predicted New Indication | Antithrombin deficiency type 2 |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 7 of 7) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 

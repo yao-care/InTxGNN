@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 668
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Phylloquinone"
 predicted_indications: ["renal tubular acidosis", "hypophosphatemic rickets", "Pendred syndrome", "autosomal recessive nonsyndromic deafness", "leukocyte adhesion deficiency", "Fraser syndrome", "temtamy preaxial brachydactyly syndrome"]
 description: "Phylloquinone: predicted new indication Renal tubular acidosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 14 of 14) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (14 of 14) – CDSCO approval status is not included in this data |
 | Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 

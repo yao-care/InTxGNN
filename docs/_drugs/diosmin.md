@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Diosmin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated on the India licences (indication text is blank)"
 monitor_inn: "Diosmin"
 predicted_indications: ["amenorrhea (disease)"]
@@ -48,7 +48,7 @@ Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-in
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 17 of 17) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (17 of 17) – CDSCO approval status is not included in this data |
 | Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 

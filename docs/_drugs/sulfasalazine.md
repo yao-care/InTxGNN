@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 798
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sulfasalazine: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
 monitor_inn: "Sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
@@ -52,7 +52,7 @@ This report therefore focuses on osteoarthritis (rank 5), as the most credible c
 | Predicted New Indication | Osteoarthritis (TxGNN rank 5; the rank 1 prediction, brachydactyly-syndactyly syndrome, has no supporting evidence) |
 | TxGNN Prediction Score | 0.9964 (osteoarthritis); 0.9994 (rank 1, brachydactyly-syndactyly syndrome) |
 | Evidence Level | L5 (preclinical only, for osteoarthritis); L5 for rank 1 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (rank 1 prediction); research question for osteoarthritis |
 

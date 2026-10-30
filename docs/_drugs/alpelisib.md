@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Alpelisib: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Not recorded in the India license data (the clinical program is HR+/H…"
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
@@ -52,7 +52,7 @@ Evidence for this prediction is essentially model-derived.
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

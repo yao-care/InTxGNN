@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ixabepilone: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Breast carcinoma / breast neoplasm"
 monitor_inn: "Ixabepilone"
 predicted_indications: ["Ewing sarcoma", "salivary gland type cancer of the breast", "breast papillomatosis", "breast leiomyoma", "breast lipoma", "diabetic mastopathy", "benign neoplasm of male breast", "giant adenofibroma of the breast", "infiltrating nipple syringomatous adenoma", "subareolar duct papillomatosis"]
@@ -50,7 +50,7 @@ with **2 clinical trials** (1 Phase 1, 1 Phase 2) and **1 publication** currentl
 | Predicted New Indication | Ewing sarcoma |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (treat as a research question) |
 

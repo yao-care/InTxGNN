@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Fluocinolone acetonide"
 predicted_indications: ["annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fluocinolone Acetonide: predicted new indication Annular atrophic lichen planus (evidence level L5). Approved use: Inflammatory and pruritic skin conditions"
 ---
 
@@ -50,7 +50,7 @@ No clinical trials or publications were found for this prediction, so it rests o
 | Predicted New Indication | Annular atrophic lichen planus |
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 | Number of Approvals | At least 20 licences (the list may be partial) |
 | Recommended Decision | Hold |

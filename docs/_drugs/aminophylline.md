@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 51
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Aminophylline: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated on the Indian licences in the data compiled for this report"
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -52,7 +52,7 @@ This is an early-stage research question, not a validated repurposing opportunit
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L4 (mechanistic and narrative literature only; no clinical trials) |
-| India Market Status | Marketed (valid licences: 7 of 7) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 

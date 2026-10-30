@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Besifloxacin: predicted new indication Bronchitis (evidence level L5). Approved use: Conjunctivitis (including acute contagious conjunctivitis)"
 monitor_inn: "Besifloxacin"
 predicted_indications: ["bronchitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this is a c
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

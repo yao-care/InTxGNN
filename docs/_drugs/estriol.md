@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 325
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Estriol: predicted new indication Amenorrhea (evidence level L3). Approved use: Not specified in the India licence records"
 monitor_inn: "Estriol"
 predicted_indications: ["amenorrhea (disease)"]
@@ -48,7 +48,7 @@ Estriol is a weak estrogen receptor agonist marketed in India as oral tablets an
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 

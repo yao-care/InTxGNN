@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 805
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L4). Approved use: Female breast carcinoma (invasive ductal breast carcinoma…"
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -50,7 +50,7 @@ but the direct support is thin: **1 related clinical trial** (which does not tes
 | Predicted New Indication | Mammary Paget disease |
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

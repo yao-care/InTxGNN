@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ibutilide: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not listed in the India license data (known pharmacology: class III a…"
 monitor_inn: "Ibutilide"
 predicted_indications: ["rheumatoid arthritis", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -48,7 +48,7 @@ Ibutilide is a class III antiarrhythmic drug given by injection. The TxGNN model
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

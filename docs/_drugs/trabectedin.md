@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 851
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Ovarian cancer (including ovarian adenocarcinoma, clear cell…"
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -50,7 +50,7 @@ with **1 clinical trial** (a safety-focused QT study) and **20 publications** cu
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

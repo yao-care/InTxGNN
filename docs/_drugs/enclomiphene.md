@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Enclomiphene: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Not stated in the compiled licence data"
 monitor_inn: "Enclomiphene"
 predicted_indications: ["acute intermittent porphyria", "psychogenic movement disorders", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "carbamoyl phosphate synthetase I deficiency disease"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **acute intermittent porphyria*
 | Predicted New Indication | Acute intermittent porphyria |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 17 of 17) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (17 of 17) – CDSCO approval status is not included in this data |
 | Number of Registrations | 17 (valid: 17) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 897
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
 description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The TxGNN model's top-ranked prediction is **Neurotic Disorder**, but this is la
 | Predicted New Indication | Neurotic disorder |
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 for neurotic disorder (L1 for melancholia and neurotic depression, via evidence in general MDD) |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (neurotic disorder); Proceed with Guardrails (melancholia, neurotic depression) |
 

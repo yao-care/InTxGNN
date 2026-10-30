@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 894
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ Among the ten predictions, the best-supported is **perinatal disease** (specific
 | Predicted New Indication | Congenital prothrombin deficiency (rank 1); best-supported alternative: perinatal disease (congenital prothrombin deficiency) |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (congenital prothrombin deficiency); L1 (perinatal disease) |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold (congenital prothrombin deficiency); Proceed with Guardrails (perinatal disease, limited to BPD prevention in very-low-birth-weight infants) |
 

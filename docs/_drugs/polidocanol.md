@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 683
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Polidocanol"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
 description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ and although **no registered clinical trials** were found, **20 publications** (
 | Predicted New Indication | Esophageal varices with bleeding |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L1 (based on the supplied scoring; supported by randomized trials in the literature, with no registered trials) |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 

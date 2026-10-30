@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 75
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Astemizole: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic…"
 monitor_inn: "Astemizole"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -50,7 +50,7 @@ but currently **no clinical trials and no publications** support this direction,
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 9 of 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 843
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tofisopam: predicted new indication insomnia (evidence level L5). Approved use: Not recorded in the compiled data"
 monitor_inn: "Tofisopam"
 predicted_indications: ["insomnia (disease)"]
@@ -50,7 +50,7 @@ The prediction is therefore model-derived only.
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 11 of 11) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
 | Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 

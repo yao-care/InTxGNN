@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the licence records compiled for this report (the liter…"
 ---
 
@@ -48,7 +48,7 @@ Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class,
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L2 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | At least 20 (the list may be partial) |
 | Recommended Decision | Proceed with Guardrails |
 

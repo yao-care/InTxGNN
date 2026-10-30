@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Empagliflozin: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be relevant to **focal stiff limb syndrome**, bu
 | Predicted New Indication | Focal stiff limb syndrome |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 20 of 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (20 of 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Hold |
 

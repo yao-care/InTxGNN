@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 70
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Armodafinil: predicted new indication insomnia (evidence level L2). Approved use: Narcolepsy (also listed: narcolepsy-cataplexy syndrome…"
 monitor_inn: "Armodafinil"
 predicted_indications: ["insomnia (disease)"]
@@ -52,7 +52,7 @@ The evidence is weak: the trials mostly address daytime sleepiness and fatigue i
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 |
-| India Market Status | Marketed (valid licences: 14 of 14) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (14 of 14) – CDSCO approval status is not included in this data |
 | Number of Registrations | 14 (valid: 14) |
 | Recommended Decision | Hold |
 

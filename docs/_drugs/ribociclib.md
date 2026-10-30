@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 737
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ribociclib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Not stated in the data compiled for this report"
 monitor_inn: "Ribociclib"
 predicted_indications: ["myeloid leukemia", "thrombocytopenia", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **myeloid leukemia**, but this 
 | Predicted New Indication | Myeloid leukemia |
 | TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

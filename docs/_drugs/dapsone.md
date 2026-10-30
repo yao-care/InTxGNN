@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 232
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Dermatitis herpetiformis, acne, leprosy"
 monitor_inn: "Dapsone"
 predicted_indications: ["pneumocystosis"]
@@ -50,7 +50,7 @@ with **10 clinical trials** (4 rated as directly relevant Phase 3 studies) and *
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L1 |
-| India Market Status | Marketed (valid licences: 7 of 7) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails |
 

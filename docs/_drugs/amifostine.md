@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 47
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amifostine: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not stated in the available licence records (the drug is known as a c…"
 monitor_inn: "Amifostine"
 predicted_indications: ["hypertensive disorder", "alopecia", "congenital hypotrichosis milia", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata"]
@@ -52,7 +52,7 @@ Amifostine can itself cause hypotension, which makes this prediction hard to jus
 | Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 (preclinical and mechanistic literature only; no direct studies) |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 

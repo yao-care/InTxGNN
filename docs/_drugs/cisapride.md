@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cisapride"
 predicted_indications: ["gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)", "gastroduodenitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cisapride: predicted new indication gastrojejunal ulcer (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be useful for **gastrojejunal ulcer**, but the d
 | Predicted New Indication | gastrojejunal ulcer |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | at least 20 |
 | Recommended Decision | Hold |
 

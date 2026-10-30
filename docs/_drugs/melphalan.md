@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 522
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Melphalan"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 description: "Melphalan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ with **7 clinical trials** and **1 publication** currently listed for this direc
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 13 of 13) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (13 of 13) – CDSCO approval status is not included in this data |
 | Number of Registrations | 13 (valid: 13) |
 | Recommended Decision | Proceed with Guardrails |
 

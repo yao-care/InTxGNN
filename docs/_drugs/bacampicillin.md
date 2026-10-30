@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 87
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Bacampicillin: predicted new indication Epiglottitis (evidence level L4). Approved use: Urinary tract infection, gonorrhea, pharyngitis…"
 monitor_inn: "Bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
@@ -50,7 +50,7 @@ The only study found among the top-ranked predictions is a small 1989 pilot stud
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

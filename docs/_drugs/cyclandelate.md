@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cyclandelate: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the data (vasodilator used in peripheral and cerebral v…"
 monitor_inn: "Cyclandelate"
 predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
@@ -50,7 +50,7 @@ The strongest evidence is for **migraine prophylaxis**, with **7 randomized stud
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 (for Prinzmetal angina). Migraine disorder, the best-supported prediction, is L1 |
-| India Market Status | Marketed (valid licences: 9 of 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold (Prinzmetal angina). Migraine is a research question rather than a Go |
 

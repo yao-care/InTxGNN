@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 302
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Eltrombopag: predicted new indication HIV infectious disease (evidence level L5). Approved use: Autoimmune thrombocytopenia"
 monitor_inn: "Eltrombopag"
 predicted_indications: ["HIV infectious disease"]
@@ -52,7 +52,7 @@ Support currently comes from **1 clinical trial** (terminated, with an indirect 
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 by the strict rules, with weak supporting case-level data (see note below) |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

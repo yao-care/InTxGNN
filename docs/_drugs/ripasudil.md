@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 744
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ripasudil: predicted new indication Hyperprolactinemia (disease) (evidence level L5). Approved use: Ocular hypertension"
 monitor_inn: "Ripasudil"
 predicted_indications: ["hyperprolactinemia (disease)", "Axenfeld anomaly", "familial hyperprolactinemia", "dense granule disease", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "thrombocytopenia"]
@@ -50,7 +50,7 @@ The ophthalmic predictions (Axenfeld anomaly, hydrophthalmos, primary infantile 
 | Predicted New Indication | Hyperprolactinemia (disease) |
 | TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

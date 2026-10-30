@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carisoprodol: predicted new indication insomnia (evidence level L5). Approved use: Not stated in the India license data (carisoprodol is generally known…"
 monitor_inn: "Carisoprodol"
 predicted_indications: ["insomnia (disease)"]
@@ -50,7 +50,7 @@ but there are currently **no registered clinical trials** and only **1 loosely r
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 

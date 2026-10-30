@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 901
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Zafirlukast"
 predicted_indications: ["bronchitis", "obstructive lung disease"]
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ A second candidate, obstructive lung disease, has **18 publications**, mostly as
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

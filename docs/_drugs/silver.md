@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Silver"
 predicted_indications: ["bone Paget disease"]
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ This prediction is a model output without therapeutic support.
 | Predicted New Indication | Bone Paget disease |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 9 of 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 

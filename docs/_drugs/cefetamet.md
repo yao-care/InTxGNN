@@ -5,7 +5,7 @@ layout: default
 title: Cefetamet
 parent: Known Uses Only (No New Predictions)
 nav_order: 154
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cefetamet: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Cefetamet"
 predicted_indications: []
@@ -43,7 +43,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| India Market Status | Marketed (valid licences: 6 of 6) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Registrations | 6 (valid: 6) |
 
 ## India Market Information

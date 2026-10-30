@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 468
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lactulose: predicted new indication Acute urate nephropathy (evidence level L5). Approved use: Hepatic encephalopathy, hepatic coma, constipation"
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
@@ -52,7 +52,7 @@ Among the other predicted indications, **obstructive jaundice** has the most sup
 | Predicted New Indication | Acute urate nephropathy (top-ranked); obstructive jaundice has the strongest evidence |
 | TxGNN Prediction Score | 0.9989 (acute urate nephropathy) |
 | Evidence Level | L5 (acute urate nephropathy); L3 (obstructive jaundice) |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold (acute urate nephropathy); obstructive jaundice may be taken forward as a research question |
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 287
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 description: "Doxazosin: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but the 
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 8 of 8) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (8 of 8) – CDSCO approval status is not included in this data |
 | Number of Registrations | 8 (valid: 8) |
 | Recommended Decision | Hold |
 

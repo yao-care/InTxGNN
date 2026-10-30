@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 841
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the licence data (the drug is known as a muscle relaxan…"
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **1
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L1 (as assigned in the compiled data; see the caveat below) |
-| India Market Status | Marketed (valid licences: 15 of 15) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 632
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oxyphenbutazone: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not stated in the Indian licence records"
 monitor_inn: "Oxyphenbutazone"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
@@ -50,7 +50,7 @@ This is largely a rediscovery of a historical use rather than a novel repurposin
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

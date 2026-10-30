@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 553
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "Milnacipran"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
 description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ with **2 clinical trials** and **5 publications** currently supporting this dire
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 11 of 11) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (11 of 11) – CDSCO approval status is not included in this data |
 | Number of Registrations | 11 (valid: 11) |
 | Recommended Decision | Hold |
 

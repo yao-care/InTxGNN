@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Phenindione: predicted new indication Thrombotic disease (evidence level L3). Approved use: Not listed in the available licence data (the drug is a known oral an…"
 monitor_inn: "Phenindione"
 predicted_indications: ["thrombotic disease"]
@@ -50,7 +50,7 @@ Support comes from **no registered clinical trials** and **20 publications**, mo
 | Predicted New Indication | Thrombotic disease |
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

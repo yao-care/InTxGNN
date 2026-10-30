@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 754
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). Approved use: Not stated in the licence records compiled for this report (a local a…"
 monitor_inn: "Ropivacaine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
@@ -50,7 +50,7 @@ with **2 clinical trials** and **3 publications** currently supporting this dire
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 19 of 19) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (19 of 19) – CDSCO approval status is not included in this data |
 | Number of Registrations | 19 (valid: 19) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 723
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ramosetron: predicted new indication Insomnia (evidence level L5). Approved use: Not listed in the Indian license records compiled for this report"
 monitor_inn: "Ramosetron"
 predicted_indications: ["insomnia (disease)", "migraine disorder"]
@@ -50,7 +50,7 @@ Currently **no clinical trials and no publications** support either prediction, 
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 807
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data compiled for this report"
 monitor_inn: "Tapentadol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -52,7 +52,7 @@ The available indirect literature points to cautions rather than support, becaus
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences on record: at least 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 |
 | Recommended Decision | Hold |
 

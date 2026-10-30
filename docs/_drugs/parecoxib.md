@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 646
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Parecoxib: predicted new indication Migraine disorder (evidence level L3). Approved use: Not stated in the Indian licence data"
 monitor_inn: "Parecoxib"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **0
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L3 |
-| India Market Status | Marketed (valid licences: 5 of 5) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Registrations | 5 (valid: 5) |
 | Recommended Decision | Hold |
 

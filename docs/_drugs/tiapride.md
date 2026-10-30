@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 834
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tiapride: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the approved-indication text of the Indian licences"
 monitor_inn: "Tiapride"
 predicted_indications: ["migraine disorder"]
@@ -48,7 +48,7 @@ Tiapride is a substituted benzamide (a dopamine D2/D3 receptor antagonist) marke
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L2 (see note below) |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

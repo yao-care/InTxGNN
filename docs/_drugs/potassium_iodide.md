@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 691
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but s
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 7 of 7) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Registrations | 7 (valid: 7) |
 | Recommended Decision | Hold |
 

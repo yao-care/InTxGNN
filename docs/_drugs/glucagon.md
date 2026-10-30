@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 395
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not available in the compiled data"
 monitor_inn: "Glucagon"
 predicted_indications: ["irritable bowel syndrome"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **irritable bowel syndrome (IBS
 | Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L3 (observational studies and systematic reviews only; no glucagon-specific trials) |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

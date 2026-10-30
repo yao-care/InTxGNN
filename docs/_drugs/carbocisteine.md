@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carbocisteine: predicted new indication Gout (evidence level L5). Approved use: Not stated in the licence records compiled for this report"
 monitor_inn: "Carbocisteine"
 predicted_indications: ["gout"]
@@ -48,7 +48,7 @@ Carbocisteine is a mucolytic agent (a cysteine derivative) marketed in India as 
 | Predicted New Indication | Gout |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Hold |
 

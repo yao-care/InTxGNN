@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 836
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ticarcillin: predicted new indication Lymph node palisaded myofibroblastoma (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bacterial pneumonia…"
 monitor_inn: "Ticarcillin"
 predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "sacrum chordoma", "disease of retroperitoneum", "urethral disease", "disease of uterine broad ligament", "disease of peritoneum", "pelvic varices"]
@@ -49,7 +49,7 @@ The TxGNN model's top-ranked prediction is **lymph node palisaded myofibroblasto
 | Predicted New Indication | Lymph node palisaded myofibroblastoma (rank 1); disease of peritoneum (rank 9) is the only candidate with literature support |
 | TxGNN Prediction Score | 0.9982 (rank 1); 0.9981 (disease of peritoneum) |
 | Evidence Level | L5 (rank 1); L3 (disease of peritoneum) |
-| India Market Status | Marketed (valid licences: 15 of 15) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Registrations | 15 (valid: 15) |
 | Recommended Decision | Hold (rank 1); Hold overall, with disease of peritoneum as a research question |
 

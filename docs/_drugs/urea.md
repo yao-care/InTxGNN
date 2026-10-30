@@ -7,7 +7,7 @@ parent: Model Prediction Only (L5)
 nav_order: 875
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ This report summarises the available regulatory and safety information to suppor
 | Predicted New Indication | No TxGNN prediction available |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (prediction pending) |
-| India Market Status | Marketed (valid licences: 4 of 4) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (4 of 4) – CDSCO approval status is not included in this data |
 | Number of Registrations | 4 (valid: 4) |
 | Recommended Decision | Hold |
 

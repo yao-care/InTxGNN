@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 137
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Candesartan: predicted new indication Migraine disorder (evidence level L1). Approved use: Hypertension (alone or in combination with other agents)"
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **migraine disorder** (migraine
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 |
-| India Market Status | Marketed (valid licences: 20 of 20) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (20 of 20) – CDSCO approval status is not included in this data |
 | Number of Registrations | 20 (valid: 20) |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 269
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dihydralazine: predicted new indication Heart disease (evidence level L4). Approved use: Not stated in the India licence records (the drug class suggests hype…"
 monitor_inn: "Dihydralazine"
 predicted_indications: ["heart disease", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "Jeune syndrome situs inversus", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "partial deletion of the long arm of chromosome 22"]
@@ -48,7 +48,7 @@ Dihydralazine is a direct-acting arteriolar vasodilator, and it is marketed in I
 | Predicted New Indication | Heart disease |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (research question only) |
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 732
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Regorafenib: predicted new indication Liposarcoma (evidence level L5). Approved use: Metastatic colorectal cancer, hepatocellular carcinoma (liver cancer)…"
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
@@ -52,7 +52,7 @@ The strongest data are randomized and placebo-controlled, but they **do not supp
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L1 (see note below) |
-| India Market Status | Marketed (valid licences: 2 of 2) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Registrations | 2 (valid: 2) |
 | Recommended Decision | Hold (the data-based grade is Proceed with Guardrails, but the liposarcoma-specific results are negative; see Conclusion) |
 

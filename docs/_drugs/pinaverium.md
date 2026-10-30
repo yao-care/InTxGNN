@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pinaverium: predicted new indication Benign prostatic hyperplasia (evidence level L5). Approved use: Not stated in the registration data compiled for this report (general…"
 monitor_inn: "Pinaverium"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
@@ -50,7 +50,7 @@ Pinaverium is a gastrointestinal-selective calcium channel blocker (antispasmodi
 | Predicted New Indication | Benign prostatic hyperplasia |
 | TxGNN Prediction Score | 0.9922 |
 | Evidence Level | L5 |
-| India Market Status | Marketed (valid licences: 1 of 1) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Registrations | 1 (valid: 1) |
 | Recommended Decision | Hold |
 

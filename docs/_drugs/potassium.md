@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 688
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
@@ -50,7 +50,7 @@ with **23 registered clinical trials** and **20 publications** compiled for this
 | Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L1 (see note below) |
-| India Market Status | Marketed (valid licences: 3 of 3) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Registrations | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 322
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the Indian licence data compiled for this report (eslic…"
 monitor_inn: "Eslicarbazepine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
@@ -50,7 +50,7 @@ with **1 completed Phase 2 clinical trial (452 participants)** and a small body 
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L2 |
-| India Market Status | Marketed (valid licences: 9 of 9) |
+| India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Registrations | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
