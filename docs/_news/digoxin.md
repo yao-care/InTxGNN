@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Digoxin?">
-<strong>Digoxin</strong> currently has <strong>6 news articles</strong>, with 5 predicted indications.
+<strong>Digoxin</strong> currently has <strong>5 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Digoxin with the latest heal
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
+
+### [CMC observes World Stroke Day - The Hindu](https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWhRaTZBc0ZLelN6Nkw0aWQxZ2JtVEFwNGZSRW5GOS01aHRWV2VENkZlQzdWZjRYZEZkVDZvc0JuOEkxcFg2R0xqYU9XaDMtdzJVQ09lS2w2MXdIajhjSkZLXy00dnhLeDdyaUNpdTlxNElXRFJGaGQ4WjJFMVZlaHB6RHpKS1NUX1VUanM0UWtPZURfLWdqeEIyLUtNa0ln0gGnAUFVX3lxTE9Rc05jNUU1UW1vRlVRSll5VUc5MGdTOWRuNmRpOVpmcm5yTGRlM21XZXF6N1ptTi1xWGNoYnRMRDkyel82Y1JSa1RFUjktWFRqVUdxSHdFTEFzMG96Nk1WLTN6WnpfOEYtdUNGQ1FIR3BGaGZnU1RMQWZlTnYxcFZ2bTAwc0VFdmVYNnhLTXhmZFBvSzNYMzFGeFdSNG8wQmFkWkgyb0Fz?oc=5)
+
+2026-10-30 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWhRaTZBc0ZLelN6Nkw0aWQxZ2JtVEFwNGZSRW5GOS01aHRWV2VENkZlQzdWZjRYZEZkVDZvc0JuOEkxcFg2R0xqYU9XaDMtdzJVQ09lS2w2MXdIajhjSkZLXy00dnhLeDdyaUNpdTlxNElXRFJGaGQ4WjJFMVZlaHB6RHpKS1NUX1VUanM0UWtPZURfLWdqeEIyLUtNa0ln0gGnAUFVX3lxTE9Rc05jNUU1UW1vRlVRSll5VUc5MGdTOWRuNmRpOVpmcm5yTGRlM21XZXF6N1ptTi1xWGNoYnRMRDkyel82Y1JSa1RFUjktWFRqVUdxSHdFTEFzMG96Nk1WLTN6WnpfOEYtdUNGQ1FIR3BGaGZnU1RMQWZlTnYxcFZ2bTAwc0VFdmVYNnhLTXhmZFBvSzNYMzFGeFdSNG8wQmFkWkgyb0Fz?oc=5)
+
+---
 
 ### [Ultra-processed foods linked to stronger brain responses and weight gain in children: Study - Connected to India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGJJMnJBZmZjWEo2cUxVbnYybzVYS2ZCaFB6ZXIzajBxeVRJX01BLWpLRnBXV201OHZhbVdvUlVNS0JfZzByc3JDNXNacVpKVUxCSnlZaTMxc1NaYnlJS1NjYW5FSlpaYWdTT0JFd3pVZ24zc2N6eVRsMmlfNE9rUmFoQm1HWE5sTTdpb1JhckVDTFNEWkxIVGNPdEROYUhpX3RGdzlkYXRJWk9rdFFtMC1oSUE2ODFGdDNoeXVYeGdjZw?oc=5)
 
@@ -47,27 +55,11 @@ Source: [Connected to India](https://news.google.com/rss/articles/CBMiwgFBVV95cU
 
 ---
 
-### [MGM Healthcare held walkathon to mark World Stroke Day - The Hindu](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2YweGFFSTRDbS1hRzBFNWRJbV9lbTJXcnVNTEFYMEJ2bTgwOW5CT2prX2E0d2VnaWxaQW5xS0ZUYWxybHluUzZSakRGRDRxdVc3REs0aFV2eU9TM0UxR2tNOFY3RHpGOHBLWFRKYTV6eXRzX3p5dkpEV0E3LUhPZE5WQURJNnlBTFlCQ2JmT2hWZ255bFQyUGEtdFdETF84STNDZHVNbmtVM1NqV2JOV19QMHd4eUt1Um440gHCAUFVX3lxTE1HbVhjRGJWWVNZRG5BYUZqVEUyNjYxSnFLdHVuNFBQLTNmYU1FaEJudnpvbGptZzk0Y2tfOXZFODJaOGF5aFc0UGVwOGJiZllDT2Rvck1PWXFvLXQwbjNmUW4xYWl0TTNwc3ZWLU5EWGVHZ0stYXFJa3BVcWJQN29tNF8xSThETGxCTk1sRzEyR252eFNBdjQzQ0k1bnRqRjBvYVhBUE05eGpnN1Brek9VMkFmUHF4aVhBSmltV21zTlJ3?oc=5)
+### [Before the warning sign: what your 30s can do for your brain - The New Indian Express](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOW1yaURUMUNsdl9OZTFyUzF0MGk2YWtuSGtONXpvc0xESzBCRjZiUG0tSVV1TU1hYm1id1JrM2piNWRZWWZjaEhwcHRNNzcySG9YbHl5OXVMMklMWUlja0lYRHVodlI5ZDRCTnlWNWEydTRmUkdFei1qbU1SNnFKbWJJS3dSWW5jSThTeHg2VmQtQWdRZjVwcV9ONVg2UHJ0MV9rcHMzZ18wbXZpQ2QzNHlSbVZUOWxCRVhzZjByUGrSAc4BQVVfeXFMTW5kbVJ4TjVwRGsxQlViQU96MFlqNDZMY3Bib1hZTEZBMW9YRndaTXRzZTFQSkxWUkhYTmpMM3VyRjNKYzUwNlluR0dNNHVKNi1QTmdrQkNucUtJVWRZQVhLNDZreXJZX2M0eHNUekV2eEVzd2thUHpqTWlhZ2pES052RW1hNE5oZ1lvenNyeVZaeXRvOUh2eERNVFBicXd3WFlvd0ZpQ0t3Z3ZCNlZPb05MVWlCcS1sOGdWUzc4ZVRaY0JMS0VCRmhwQXlYSGc?oc=5)
 
 2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2YweGFFSTRDbS1hRzBFNWRJbV9lbTJXcnVNTEFYMEJ2bTgwOW5CT2prX2E0d2VnaWxaQW5xS0ZUYWxybHluUzZSakRGRDRxdVc3REs0aFV2eU9TM0UxR2tNOFY3RHpGOHBLWFRKYTV6eXRzX3p5dkpEV0E3LUhPZE5WQURJNnlBTFlCQ2JmT2hWZ255bFQyUGEtdFdETF84STNDZHVNbmtVM1NqV2JOV19QMHd4eUt1Um440gHCAUFVX3lxTE1HbVhjRGJWWVNZRG5BYUZqVEUyNjYxSnFLdHVuNFBQLTNmYU1FaEJudnpvbGptZzk0Y2tfOXZFODJaOGF5aFc0UGVwOGJiZllDT2Rvck1PWXFvLXQwbjNmUW4xYWl0TTNwc3ZWLU5EWGVHZ0stYXFJa3BVcWJQN29tNF8xSThETGxCTk1sRzEyR252eFNBdjQzQ0k1bnRqRjBvYVhBUE05eGpnN1Brek9VMkFmUHF4aVhBSmltV21zTlJ3?oc=5)
-
----
-
-### [Older Adults With AF: Anticoagulant Use May Lower Death Risk](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGozYV9zTW5aTmx1U0o5bVpkT1lnWXNEc1NRcmJLM2VwTzhBdHBIQWZlZFdzYkNQeU1aWVl2Q3hwRkgxX3pNRWZOeDdWNFZlZEM4WlZWZ0VIVFBCUlVnUHlLS3V6ekprMmRmRmE5Smh6dDZGSUI1MjRTY19oWjRubWU2ZkZ2TE1tN1dNTHdiakE3eEdiS3RQWXVOYlpjdzRHMG1tVWxWbWN5RHc?oc=5)
-
----
-
-### [Recreational Drugs, Steroids & Birth Control: Expert Explains Why Strokes Are Arriving Decades Earlier - Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
+Source: [The New Indian Express](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOW1yaURUMUNsdl9OZTFyUzF0MGk2YWtuSGtONXpvc0xESzBCRjZiUG0tSVV1TU1hYm1id1JrM2piNWRZWWZjaEhwcHRNNzcySG9YbHl5OXVMMklMWUlja0lYRHVodlI5ZDRCTnlWNWEydTRmUkdFei1qbU1SNnFKbWJJS3dSWW5jSThTeHg2VmQtQWdRZjVwcV9ONVg2UHJ0MV9rcHMzZ18wbXZpQ2QzNHlSbVZUOWxCRVhzZjByUGrSAc4BQVVfeXFMTW5kbVJ4TjVwRGsxQlViQU96MFlqNDZMY3Bib1hZTEZBMW9YRndaTXRzZTFQSkxWUkhYTmpMM3VyRjNKYzUwNlluR0dNNHVKNi1QTmdrQkNucUtJVWRZQVhLNDZreXJZX2M0eHNUekV2eEVzd2thUHpqTWlhZ2pES052RW1hNE5oZ1lvenNyeVZaeXRvOUh2eERNVFBicXd3WFlvd0ZpQ0t3Z3ZCNlZPb05MVWlCcS1sOGdWUzc4ZVRaY0JMS0VCRmhwQXlYSGc?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Natalizumab News
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 
 ## Related News (1)
 
-### [World Psoriasis Day: Chronic disease awareness and treatment realities](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVJKSEQ4eDI3amhnWkZDRnlBbkw5NUtteWgxcl9lb2NHWW5EblY0ZFNlNlhHOVNLbmpHRU5pX000VWZDRzhyN21Vdi0tQVJ2XzBpOXVtTjl3UnRHYy0xaHVCVm0zMTMxMms3N2JQMVdiUWFjTXZuRS1mUzlHVGp1NE5tVG5tbDdIb0Q1eTV6cnJKbURKQ0s5Nmtzemo0bjI3TnFRRGtoaUJveXJpbVlDVEFjbUVCX09HdGt3WWdrY2VMaUhs?oc=5)
+### [Q&A: What Should Clinicians Ask Patients About Scalp Psoriasis and Hair Care?](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhBbmRTaWprN2lMT2x1VEszLTJkMUJFMzBHRjdtTGR3ZEExMXZGVnZUMjRDRnc0YU1XcVVHZVlQd1NqanNCWHZEa0FSaHN3Z3NSR3Y3elNCaDNScFdmYWpxT0txNV80TDVhM0JDMDlDTllGaThVMldueUhaSWlTUkp4cHlrTzkwcXZmLVZnaEpSbkxJMF9pSWpLbw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+2026-10-30 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
 
-Source: [CGTN](https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVJKSEQ4eDI3amhnWkZDRnlBbkw5NUtteWgxcl9lb2NHWW5EblY0ZFNlNlhHOVNLbmpHRU5pX000VWZDRzhyN21Vdi0tQVJ2XzBpOXVtTjl3UnRHYy0xaHVCVm0zMTMxMms3N2JQMVdiUWFjTXZuRS1mUzlHVGp1NE5tVG5tbDdIb0Q1eTV6cnJKbURKQ0s5Nmtzemo0bjI3TnFRRGtoaUJveXJpbVlDVEFjbUVCX09HdGt3WWdrY2VMaUhs?oc=5)
+Source: [HCPLive](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhBbmRTaWprN2lMT2x1VEszLTJkMUJFMzBHRjdtTGR3ZEExMXZGVnZUMjRDRnc0YU1XcVVHZVlQd1NqanNCWHZEa0FSaHN3Z3NSR3Y3elNCaDNScFdmYWpxT0txNV80TDVhM0JDMDlDTllGaThVMldueUhaSWlTUkp4cHlrTzkwcXZmLVZnaEpSbkxJMF9pSWpLbw?oc=5)
 
 ---
 

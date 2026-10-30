@@ -37,6 +37,14 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 
 ## Related News (12)
 
+### [Obesity in Your 20s and 30s Linked to Higher Cancer Risk](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
+
+---
+
 ### [Advanced Breast Cancer Care Offers New Treatment Possibilities](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -69,6 +77,14 @@ Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3
 
 ---
 
+### [Breast Cancer: What every woman should know](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [HeraldLIVE](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+
+---
+
 ### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
@@ -85,27 +101,11 @@ Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVF
 
 ---
 
-### [Obesity in Young Adulthood Linked to Higher Cancer Risk Into Midlife - Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span>
-
-Source: [Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
-
----
-
 ### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
-
----
-
-### [Building an army of brain warriors - Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNi1WejJOeU1GSHZHSWpkcWNCT3k3OE1acU9KcW4tUnc3cG55bUNJemhOZXZaR2xDQm13cDVaZnFkQkJFTTFBVjlIWmhXbjhMQ05GbFhkUE5TaE1RYi1fS1oyeTAyRmdEVDRkZmRxdmU1ODdmb2NjcU1WUFlxdXdDWVA4Q0c5SEF3cUFldk80R2c1QS1NUGw2StIBngFBVV95cUxPRjNPQW8tUGx3YUp6ckpNaDM0UlhoSVg3RHp3ZmpBYkswd18xMXFsUk1qSThnc19BUHQ2dERzel9PcFM3RXRHZzE4SG5fWXpld0Q2UWRpYlV2TmVmWFV1dk45aEtHQzI5YWZEWTBWYlZJdW4zdGZ6b2lETVE3ZXRjTUpDanRzblE4STJQRTF3dTlzN1RuQ042akh3SVFaZw?oc=5)
-
-2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [Business Standard](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNi1WejJOeU1GSHZHSWpkcWNCT3k3OE1acU9KcW4tUnc3cG55bUNJemhOZXZaR2xDQm13cDVaZnFkQkJFTTFBVjlIWmhXbjhMQ05GbFhkUE5TaE1RYi1fS1oyeTAyRmdEVDRkZmRxdmU1ODdmb2NjcU1WUFlxdXdDWVA4Q0c5SEF3cUFldk80R2c1QS1NUGw2StIBngFBVV95cUxPRjNPQW8tUGx3YUp6ckpNaDM0UlhoSVg3RHp3ZmpBYkswd18xMXFsUk1qSThnc19BUHQ2dERzel9PcFM3RXRHZzE4SG5fWXpld0Q2UWRpYlV2TmVmWFV1dk45aEtHQzI5YWZEWTBWYlZJdW4zdGZ6b2lETVE3ZXRjTUpDanRzblE4STJQRTF3dTlzN1RuQ042akh3SVFaZw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Calcipotriol?">
-<strong>Calcipotriol</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Calcipotriol</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Calcipotriol with the latest
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Recognizing Sleep Disturbances in Menopause - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
+
+2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
+
+---
+
+### [Obesity in Your 20s and 30s Linked to Higher Cancer Risk](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
+
+---
 
 ### [Advanced Breast Cancer Care Offers New Treatment Possibilities](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
 
@@ -76,6 +92,14 @@ Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3
 
 ---
 
+### [Breast Cancer: What every woman should know](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [HeraldLIVE](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
+
+---
+
 ### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
@@ -92,14 +116,6 @@ Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVF
 
 ---
 
-### [Obesity in Young Adulthood Linked to Higher Cancer Risk Into Midlife - Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span>
-
-Source: [Pharmacy Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEZueVhKYm1GSlV2VkJRdGd6MnkxZ1o2UzRiUjJGblhHdmVYZEZIcjJWWWxJc1hZR0oxWjlpdm9Wd1BDSmRodjdlYXFkWHQzV0ZMY0lJSkg2Y3NicjVQejBmd1lpWnlYeFZjUVFrTjJ2TlBUZG4xVmZoUG11eXRmUm0wS1NqaXduQ2hFUlhRZ0c2RkZKTjdMN0t2X2FfRm96c3JzWjR3?oc=5)
-
----
-
 ### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
@@ -113,14 +129,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Livemint](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGh5TmxyRXNuTXlBUGhsZFVtRlZRZ1E2cm85Sl9NYU8zbTZXVWVjTnk4V0VKOVZUMXZDRmdoZVpLSVl1UDdlV21qcnF1RC04NDZNUGRKT0dzSG9RNkFHQ09ZRDkwZGsxaTBLdFRJUi16em1zVEdTNm12OVoweDQzTjlReE1lRzZPMXN3bmxEM0RJYmFRTnRUeElTX3hORHpyeWVWMVgtNW9PTDFKSzZJdGZ0dVdDNmVadW1ZVjJ5djdFWER2dlhLdVBQVzNSbUxCTS13WkltYlZHTHhzUHFoTzRHS2lBc0NOTGhn0gHwAUFVX3lxTE9oUTA3NVZXX2FWbV9VQTVrU1BWUkNwcUE0VmZtbVlYUjhNWkM1WkgxTzlIWUFEcl94djd1MEhzeVFUVi15Yl95VnMzMktXc3VYWjA1dTBhRXF2OG5hOWtGTElDelNYRW5PMW54QmQ4ZkRmdGxEM3ZDMllUMjRwOExSbFNmSWhsTmtmeFpsR2JHclQ1QnlrdExGdGFlZ1NSeF9uOTBNX0dKdWwzUEhHTlgxY0p0dXM2UkNibVVVekRQc3dwR2phOEF0Wlc2b3BNWTBobTJWdWVVNVg4UzdHLXVEU2phbVlmelBEamhGZm1kdg?oc=5)
-
----
-
-### [Researchers Urge Adding Dry Eye Treatment to Menopause Care](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
-
-2026-10-26 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2J5amE3ajE0b29ldklONmJ6U01FdjRNaEpIZ0hvSmhrN1VVTTBMRnpsNkR4cndOd0tnakptUXkzYlhxWENBTVhKWFZJdXN3UDgxbnk0U1g0Sm9hUnZYLVI4bTU3NmlnTzV3cC1OZzJoZFlfcWhaUzFGNVdNRU02b2RsRENyWkJpQU5IblpDcllnc3d2OWhDcG1NSy1paDBreVM4M0dKRWNhSFk?oc=5)
 
 ---
 

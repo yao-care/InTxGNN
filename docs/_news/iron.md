@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Scientists find a way to make dead bacteria produce new DNA; discovery could open doors for environmental...](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSGJkUzJVWmFVRWFqV0hkbEk0eFQzX1l0OG5tellIcnp3X1pOZExVTWgydFRlZWE3cTBxaGdTVGRJYXZUdWtEZ0VhblNOMTROSG5uTGkxY2lpNUxzUUhDcldaTmU3TnNrR2g4QnV5X0lHN0kwcmd4Ti1KZ3daM0owa1Z5YjZfSHdFd0sxNVh2Uk9QNkpEbW14aFc2VER5N2h5VkF5TDFaSU56cmpQX1JuRzBOamh4Z2RPNUFvMGREcUhDVUhTLXdRRk1Ydi1LaHVZZTN0dFUyamM5SEFRTzZ5Zi11RTdIUTJETUN3bG9zZThZNjdHQU1ydWNnNkpxNlZjQUtKVmZ4cFbSAY4CQVVfeXFMTzNTbFNIcDNXNHJSaE5VM2ZVSFdrTDgxWXZZOTA4UEtCTWFCME5qV19POFR2WnRwTFZWLWFjS2k2YVNMLUVCRGZ3VnFNQUtUZ0prR1dsbzBSOXNENTFqQk1QcWQzc2VGWUQxNnA5N3l5RlF1UWpLVW5DYm82cEl2YkVvREZXdEt6RDdEOXZnS0hBeVpfMmJMU2Q3T0hIeDNzSWs2T0poZkFGZXh3Q0VIa3RWMWtqd1VXQ2hZWC1iOEdsRTRkdF9uOWdRRGNZZlJhdEFwTjA4X3dZUjBrWV9LUHVfellHTGFZUG1EVlpnVlJCZ2o0c1JaODBRS2ptWW5XaUtOYlp2OVBhMFhESDRn?oc=5)
+### [Is 'ferritin face' a real thing - and can you really spot low iron from looks?](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRSUhELVI2ZjZxbnVKN0M4d3VmRFlMTjF0NEFXYUNZRno3Z0Mzc2p6cWx4bFFfbW9XWXpibV9VMHRQNkZkTlNCYlV2d2RVdVllZ2pRdi1UMDJDNGM?oc=5)
 
-2026-10-30 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+2026-10-26 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [Moneycontrol.com](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSGJkUzJVWmFVRWFqV0hkbEk0eFQzX1l0OG5tellIcnp3X1pOZExVTWgydFRlZWE3cTBxaGdTVGRJYXZUdWtEZ0VhblNOMTROSG5uTGkxY2lpNUxzUUhDcldaTmU3TnNrR2g4QnV5X0lHN0kwcmd4Ti1KZ3daM0owa1Z5YjZfSHdFd0sxNVh2Uk9QNkpEbW14aFc2VER5N2h5VkF5TDFaSU56cmpQX1JuRzBOamh4Z2RPNUFvMGREcUhDVUhTLXdRRk1Ydi1LaHVZZTN0dFUyamM5SEFRTzZ5Zi11RTdIUTJETUN3bG9zZThZNjdHQU1ydWNnNkpxNlZjQUtKVmZ4cFbSAY4CQVVfeXFMTzNTbFNIcDNXNHJSaE5VM2ZVSFdrTDgxWXZZOTA4UEtCTWFCME5qV19POFR2WnRwTFZWLWFjS2k2YVNMLUVCRGZ3VnFNQUtUZ0prR1dsbzBSOXNENTFqQk1QcWQzc2VGWUQxNnA5N3l5RlF1UWpLVW5DYm82cEl2YkVvREZXdEt6RDdEOXZnS0hBeVpfMmJMU2Q3T0hIeDNzSWs2T0poZkFGZXh3Q0VIa3RWMWtqd1VXQ2hZWC1iOEdsRTRkdF9uOWdRRGNZZlJhdEFwTjA4X3dZUjBrWV9LUHVfellHTGFZUG1EVlpnVlJCZ2o0c1JaODBRS2ptWW5XaUtOYlp2OVBhMFhESDRn?oc=5)
-
----
-
-### [What is ‘ferritin face’? How to tell if you have it, and what it means for your looks at 50-plus - Good Housekeeping](https://news.google.com/rss/articles/CBMikAFBVV95cUxONGZ0Y0Q2ckRGU183ZThyR1VLZVBtTkZQZnFYY3NDTHpKbEhnU3ZDUVNNU3o0amJDb3lLalVfZlFaQldFbFpVQ1JJSEx3djlhMW1iOFB6WDltek5nOUJnc0xVc2VMSzlIZUJGSmxuMG1mWEVTVGpYbmkxaUpHRDhFaU9MVXJXZUpTY2V1b0xOMmE?oc=5)
-
-2026-10-28 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
-
-Source: [Good Housekeeping](https://news.google.com/rss/articles/CBMikAFBVV95cUxONGZ0Y0Q2ckRGU183ZThyR1VLZVBtTkZQZnFYY3NDTHpKbEhnU3ZDUVNNU3o0amJDb3lLalVfZlFaQldFbFpVQ1JJSEx3djlhMW1iOFB6WDltek5nOUJnc0xVc2VMSzlIZUJGSmxuMG1mWEVTVGpYbmkxaUpHRDhFaU9MVXJXZUpTY2V1b0xOMmE?oc=5)
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRSUhELVI2ZjZxbnVKN0M4d3VmRFlMTjF0NEFXYUNZRno3Z0Mzc2p6cWx4bFFfbW9XWXpibV9VMHRQNkZkTlNCYlV2d2RVdVllZ2pRdi1UMDJDNGM?oc=5)
 
 ---
 
