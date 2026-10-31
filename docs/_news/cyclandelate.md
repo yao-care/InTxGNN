@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 10 predicted indications."
 permalink: /news/cyclandelate/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Cyclandelate News
@@ -61,11 +61,11 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaV
 
 ---
 
-### [Abnormal Postpartum BP Linked to Higher Long-Term CVD Risk](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
+### [Heated tobacco products cause immediate cardiovascular and genetic damage](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+2026-10-27 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGJXeGhKd0dPTDVOOUZoMGNvOEVaY1p2QUdZdi1nRF9xMUkwNDR3Y04zUTNtdEZ1U0hEYkxUVWZ4NDVVclhSeTNUZU5tTHR6TDljZTJaLV9LaTZrTHpJMUZINUJfSFU2ZEhtWWc4dFp6dlZuUDVBZjJ4UlhJaTlHUFpmbnRlR21SODV5UDFtTjczNG5fOXV5bnBTZHdHSWNndUFGY3N4dmJFaFpk?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
 
 ---
 

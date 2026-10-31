@@ -3,9 +3,9 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 1 articles, 23 related drugs."
+description: "Health news about menopause. 2 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # menopause News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Recognizing Sleep Disturbances in Menopause - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
 
 2026-10-30
 
 Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
+
+---
+
+### [Menopause Care in Primary Care: Closing Diagnosis and Treatment Gaps - Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
+
+2026-10-30
+
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
 
 ---
 

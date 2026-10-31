@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Letrozole. Original indication: he TxGNN model predicts it may be effective for **.... 4 predicted indications."
 permalink: /news/letrozole/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Letrozole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>11 news articles</strong>, with 4 predicted indications.
+<strong>Letrozole</strong> currently has <strong>14 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (14)
 
 ### [Recognizing Sleep Disturbances in Menopause - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
 
 2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
+
+---
+
+### [Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
 
 ---
 
@@ -55,19 +63,19 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2
 
 ---
 
+### [GLP-1s Linked to 41% Drop in Cancer Risk in Nondiabetic Adults](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NTVUhBMHdYWVljNzNseHhhUUdSU09vZkI0ckZyT2pxUHpLRkprSGFqcnRyd0Exd0xpeDRMZ2lJMm1ZTFFyZlNQZ0lyWFdlZS1HY1JETko2dlpoMjF0QU8wcU0wNy1pcGo2M3dYck1kVkNJV1NUdjlHTFlVVmNUMmllZmZBYnpTQkZ6c2xtQUpGR0RPTl85RlZGX2M0T0RpaEp0SA?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NTVUhBMHdYWVljNzNseHhhUUdSU09vZkI0ckZyT2pxUHpLRkprSGFqcnRyd0Exd0xpeDRMZ2lJMm1ZTFFyZlNQZ0lyWFdlZS1HY1JETko2dlpoMjF0QU8wcU0wNy1pcGo2M3dYck1kVkNJV1NUdjlHTFlVVmNUMmllZmZBYnpTQkZ6c2xtQUpGR0RPTl85RlZGX2M0T0RpaEp0SA?oc=5)
+
+---
+
 ### [Advanced Breast Cancer Care Offers New Treatment Possibilities](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [webindia123](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
-
----
-
-### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
 
 ---
 
@@ -111,6 +119,14 @@ Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVF
 
 ---
 
+### [Menopause Care in Primary Care: Closing Diagnosis and Treatment Gaps - Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
+
+---
+
 ### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
@@ -124,6 +140,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Livemint](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGh5TmxyRXNuTXlBUGhsZFVtRlZRZ1E2cm85Sl9NYU8zbTZXVWVjTnk4V0VKOVZUMXZDRmdoZVpLSVl1UDdlV21qcnF1RC04NDZNUGRKT0dzSG9RNkFHQ09ZRDkwZGsxaTBLdFRJUi16em1zVEdTNm12OVoweDQzTjlReE1lRzZPMXN3bmxEM0RJYmFRTnRUeElTX3hORHpyeWVWMVgtNW9PTDFKSzZJdGZ0dVdDNmVadW1ZVjJ5djdFWER2dlhLdVBQVzNSbUxCTS13WkltYlZHTHhzUHFoTzRHS2lBc0NOTGhn0gHwAUFVX3lxTE9oUTA3NVZXX2FWbV9VQTVrU1BWUkNwcUE0VmZtbVlYUjhNWkM1WkgxTzlIWUFEcl94djd1MEhzeVFUVi15Yl95VnMzMktXc3VYWjA1dTBhRXF2OG5hOWtGTElDelNYRW5PMW54QmQ4ZkRmdGxEM3ZDMllUMjRwOExSbFNmSWhsTmtmeFpsR2JHclQ1QnlrdExGdGFlZ1NSeF9uOTBNX0dKdWwzUEhHTlgxY0p0dXM2UkNibVVVekRQc3dwR2phOEF0Wlc2b3BNWTBobTJWdWVVNVg4UzdHLXVEU2phbVlmelBEamhGZm1kdg?oc=5)
+
+---
+
+### [Saliva-Based Proteomics Reveals Immune Changes Linked to Oral Cancer Progression - Inside Precision Medicine](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0RJQTBnZk40ZFNZZDdRWGJ0UU5EZUV6eW9oRjFCN1lEcGQ2MHQzSnpUbU8tVHdXVk43T0ctb0N6X2E4Nk9lenBlTWFZYS1ydnRGS2JaTFMzWVB2V1E0Z3JmT1F0UE00MDM1ZTBISW9IRzQ0eVpLX3d4RDdZcHJOdFFod1pvc0VTTTJYR0o0RGZZeWR6RXdQOVI3WFJiYmpKVWs1aF9KTkFWTmNXMU9talloa2RPczFXMEw0WkNLcmxlb2gyZk16aEllZkE3TUdZU3dF?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span>
+
+Source: [Inside Precision Medicine](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0RJQTBnZk40ZFNZZDdRWGJ0UU5EZUV6eW9oRjFCN1lEcGQ2MHQzSnpUbU8tVHdXVk43T0ctb0N6X2E4Nk9lenBlTWFZYS1ydnRGS2JaTFMzWVB2V1E0Z3JmT1F0UE00MDM1ZTBISW9IRzQ0eVpLX3d4RDdZcHJOdFFod1pvc0VTTTJYR0o0RGZZeWR6RXdQOVI3WFJiYmpKVWs1aF9KTkFWTmNXMU9talloa2RPczFXMEw0WkNLcmxlb2gyZk16aEllZkE3TUdZU3dF?oc=5)
 
 ---
 

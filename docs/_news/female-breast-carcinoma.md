@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about breast cancer (female breast carcinoma). 7 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -40,19 +40,19 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (7)
 
+### [GLP-1s Linked to 41% Drop in Cancer Risk in Nondiabetic Adults](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NTVUhBMHdYWVljNzNseHhhUUdSU09vZkI0ckZyT2pxUHpLRkprSGFqcnRyd0Exd0xpeDRMZ2lJMm1ZTFFyZlNQZ0lyWFdlZS1HY1JETko2dlpoMjF0QU8wcU0wNy1pcGo2M3dYck1kVkNJV1NUdjlHTFlVVmNUMmllZmZBYnpTQkZ6c2xtQUpGR0RPTl85RlZGX2M0T0RpaEp0SA?oc=5)
+
+2026-10-30
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NTVUhBMHdYWVljNzNseHhhUUdSU09vZkI0ckZyT2pxUHpLRkprSGFqcnRyd0Exd0xpeDRMZ2lJMm1ZTFFyZlNQZ0lyWFdlZS1HY1JETko2dlpoMjF0QU8wcU0wNy1pcGo2M3dYck1kVkNJV1NUdjlHTFlVVmNUMmllZmZBYnpTQkZ6c2xtQUpGR0RPTl85RlZGX2M0T0RpaEp0SA?oc=5)
+
+---
+
 ### [Advanced Breast Cancer Care Offers New Treatment Possibilities](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
 
 2026-10-30
 
 Source: [webindia123](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
-
----
-
-### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
-
-2026-10-30
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Metronidazole. 10 predicted indications."
 permalink: /news/metronidazole/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Metronidazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about Metronidazole?">
-<strong>Metronidazole</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Metronidazole</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [Recognizing Sleep Disturbances in Menopause - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
 
 2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
+
+---
+
+### [Menopause Care in Primary Care: Closing Diagnosis and Treatment Gaps - Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
+
+2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
 
 ---
 
