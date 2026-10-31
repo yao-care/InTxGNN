@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 519
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not stated in the licence data compiled for this report"
 monitor_inn: "Mefenamic acid"
 predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
@@ -51,7 +51,7 @@ Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) widely marketed
 | TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

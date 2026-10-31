@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 574
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not available in the compiled data"
 monitor_inn: "Mycophenolate mofetil"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, wit
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L2 (as assigned in the data; the supporting trials are small and indirect, so in practice the evidence is weaker) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (treated as a research question) |
 
 ## Why is This Prediction Reasonable?

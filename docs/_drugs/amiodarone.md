@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 52
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L5). Approved use: Ventricular fibrillation"
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
@@ -54,7 +54,7 @@ By contrast, the third-ranked prediction, **ventricular tachycardia**, is suppor
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 (CPVT); for reference, ventricular tachycardia (rank 3) is L1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (CPVT); Proceed with Guardrails for ventricular tachycardia (rank 3) |
 
 ---

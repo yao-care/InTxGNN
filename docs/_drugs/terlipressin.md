@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 825
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 description: "Terlipressin: predicted new indication Open-angle glaucoma (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ Terlipressin is a long-acting vasopressin analogue given by injection, widely ma
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 for open-angle glaucoma; L3 for pulmonary hypertension |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (open-angle glaucoma); Research Question for pulmonary hypertension, which is closest to Proceed with Guardrails only after further study |
 
 ## Why is This Prediction Reasonable?

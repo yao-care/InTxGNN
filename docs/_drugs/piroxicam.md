@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis"
 monitor_inn: "Piroxicam"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
@@ -50,7 +50,7 @@ The TxGNN model's top-ranked prediction is **colobomatous microphthalmia-rhizome
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

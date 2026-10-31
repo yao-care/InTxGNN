@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 376
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Fluvoxamine: predicted new indication Schizotypal personality disorder (evidence level L4). Approved use: Social phobia, phobic disorder, obsessive-compulsive disorder"
 monitor_inn: "Fluvoxamine"
 predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **schizotypal personality disor
 | TxGNN Prediction Score | 1.0000 (rank 114) |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

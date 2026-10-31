@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 410
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Hyaluronic Acid: predicted new indication Dry eye syndrome (evidence level L1). Approved use: Not available"
 monitor_inn: "Hyaluronic acid"
 predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
@@ -53,7 +53,7 @@ Hyaluronic acid eye drops are already widely used for this purpose, so this is l
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

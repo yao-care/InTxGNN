@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluoxetine"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Fluoxetine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Relations recorded in the knowledge graph: anxiety disorder…"
 ---
 
@@ -53,7 +53,7 @@ The evidence is therefore model-driven only.
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 single-ingredient licences (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

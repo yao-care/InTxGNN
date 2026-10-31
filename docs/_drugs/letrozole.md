@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 479
 evidence_level: L1
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L1). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ The strongest support comes from Phase 3 trials of letrozole combined with CDK4/
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Levetiracetam: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ Levetiracetam is an antiseizure medication originally used to treat partial (foc
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 (visual epilepsy); L1 for the best-supported alternative, status epilepticus |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (visual epilepsy); Proceed with Guardrails (status epilepticus) |
 
 ## Why is This Prediction Reasonable?

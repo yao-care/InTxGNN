@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 707
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the India licence data compiled for this report (propof…"
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, supporte
 | TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

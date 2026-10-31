@@ -51,7 +51,7 @@ This report therefore focuses on migraine disorder as the most evidence-backed c
 | TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 (migraine disorder) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (a research question, not yet ready for a clinical recommendation) |
 
 ## Why is This Prediction Reasonable?

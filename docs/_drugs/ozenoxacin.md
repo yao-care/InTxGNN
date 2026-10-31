@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 635
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ozenoxacin: predicted new indication Malaria (evidence level L5). Approved use: Acne"
 monitor_inn: "Ozenoxacin"
 predicted_indications: ["malaria"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **malaria**, but this is a mode
 | TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

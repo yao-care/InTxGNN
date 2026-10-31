@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 603
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nitroglycerin: predicted new indication Pulmonary hypertension (evidence level L3). Approved use: Not stated in the licence records compiled for this report"
 monitor_inn: "Nitroglycerin"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "primary hereditary glaucoma", "congenital hypotrichosis milia"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension**, wit
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (research question; not ready for a repurposing decision) |
 
 ---

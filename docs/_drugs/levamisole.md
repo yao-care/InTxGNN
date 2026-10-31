@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Levamisole"
 predicted_indications: ["drug-induced osteoporosis", "benign neoplasm of tongue", "cervical neuroblastoma", "epiglottis neoplasm", "benign neoplasm of buccal mucosa", "cystic neoplasm", "benign neoplasm of floor of mouth", "schwannoma of jugular foramen", "benign neoplasm of hypopharynx", "neoplasm of major salivary gland"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Levamisole: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Ascaridiasis and ancylostomiasis"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be useful for **drug-induced osteoporosis**, but
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

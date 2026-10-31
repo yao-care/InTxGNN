@@ -5,7 +5,7 @@ layout: default
 title: Dimethicone
 parent: Known Uses Only (No New Predictions)
 nav_order: 273
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Dimethicone: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Dimethicone"
 predicted_indications: []
@@ -44,7 +44,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 |------|------|
 | Original Indication | Not recorded in the local data |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 
 ## India Market Information
 

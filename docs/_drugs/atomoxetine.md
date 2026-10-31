@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 79
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Atomoxetine: predicted new indication Specific developmental disorder (evidence level L4). Approved use: Attention deficit hyperactivity disorder (ADHD)…"
 monitor_inn: "Atomoxetine"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **specific developmental disord
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 The original indication comes from the TxGNN model (deep learning), because the Indian licence records contain no approved indication text; the score comes from the model and may reflect similarities the model learned between related diseases, not biological evidence.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Thiamine: predicted new indication resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L5). Approved use: Not available"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model ranks **resistance to thyroid hormone due to a mutation in thyro
 | TxGNN Prediction Score | 0.9943 (top-ranked); 0.9936 (open-angle glaucoma) |
 | Evidence Level | L5 (see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 **Note on evidence level:** The open-angle glaucoma candidate has one 1979 observational study that directly examines thiamine in chronic open-angle glaucoma, but it only compares blood levels. It does not test thiamine as a treatment. The other papers address glaucoma biology, niacin, or nutrient intake generally. No cited study evaluates thiamine as a treatment for the predicted disease, so the ceiling rule gives L5.

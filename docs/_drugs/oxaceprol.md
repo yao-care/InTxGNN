@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Oxaceprol"
 predicted_indications: ["ankylosing spondylitis", "brachyolmia-amelogenesis imperfecta syndrome", "juvenile idiopathic arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid vasculitis", "pseudoachondroplasia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Oxaceprol: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Osteoarthritis and arthropathy"
 ---
 
@@ -51,7 +51,7 @@ Oxaceprol is a proline derivative (N-acetyl-hydroxyproline) used for joint condi
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Camylofin: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence data (the drug is generally known as an ant…"
 monitor_inn: "Camylofin"
 predicted_indications: ["insomnia (disease)"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are cur
 | TxGNN Prediction Score | 0.9939 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

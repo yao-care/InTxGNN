@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 329
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Etizolam: predicted new indication Insomnia (evidence level L4). Approved use: Anxiety"
 monitor_inn: "Etizolam"
 predicted_indications: ["insomnia (disease)"]
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but the supportin
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

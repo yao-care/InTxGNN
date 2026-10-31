@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Secnidazole"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 description: "Secnidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -53,7 +53,7 @@ The best-supported prediction is **vaginal discharge**, with **3 clinical trials
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 The rank 1 prediction is a weak candidate. Among the other predictions, three have L1 evidence (vaginal discharge, trichomonal vulvovaginitis, infective vaginitis). All three overlap with existing indications and are not true repurposing.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 509
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Luliconazole: predicted new indication Pityriasis versicolor (evidence level L3). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 monitor_inn: "Luliconazole"
 predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]
@@ -51,7 +51,7 @@ with **1 clinical trial** (Phase 4, not yet recruiting) and **2 publications** c
 | TxGNN Prediction Score | 0.9913 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 355
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Flavoxate: predicted new indication Top-ranked: attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not stated in the India license data (the drug is used for urinary ur…"
 monitor_inn: "Flavoxate"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
@@ -53,7 +53,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting any 
 | TxGNN Prediction Score | 0.9975 (rank 1, ADHD inattentive type); 0.9974 (irritable bowel syndrome); 0.9913 (neurogenic bladder) |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold (neurogenic bladder: Research Question) |
 
 ---

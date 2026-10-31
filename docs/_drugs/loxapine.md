@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 507
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Loxapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "atypical glycine encephalopathy"]
 description: "Loxapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ Because bipolar disorder is already a listed original indication, this is better
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 (provisional; see note below) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 **Note on the evidence level:** No clinical trials were supplied in the data compiled for this report. The L1 grade rests on the literature, which describes two Phase 3 randomised controlled trials of inhaled loxapine, and on regulatory approval of that formulation in the USA and EU. The primary trial publications should be verified before the grade is finalised.

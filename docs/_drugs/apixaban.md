@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 62
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Apixaban: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the India license data compiled for this report"
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but the 
 | TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L4 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

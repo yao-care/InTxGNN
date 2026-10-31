@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Olmesartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the available licence data (olmesartan is an ARB…"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -53,7 +53,7 @@ The strongest evidence among the top 10 predictions is for **migraine disorder**
 | TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

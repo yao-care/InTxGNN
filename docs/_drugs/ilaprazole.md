@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 423
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Ilaprazole"
 predicted_indications: ["gastroduodenitis"]
 description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L1). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ Because peptic ulcer disease is already an original indication, this is largely 
 | TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "Valdecoxib"
 predicted_indications: ["rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Valdecoxib: predicted new indication Rheumatoid arthritis (evidence level L2). Approved use: Not stated in the local licence records"
 ---
 
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, with 
 | TxGNN Prediction Score | 0.9907 |
 | Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

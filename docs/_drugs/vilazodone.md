@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Vilazodone"
 predicted_indications: ["neurotic disorder", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "histrionic personality disorder (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Vilazodone: predicted new indication Neurotic disorder (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 ---
 
@@ -52,7 +52,7 @@ The TxGNN model predicts it may be effective for **neurotic disorder**, but **no
 | TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 single-ingredient licences (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

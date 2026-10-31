@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Emtricitabine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Emtricitabine: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infection and AIDS"
 ---
 
@@ -53,7 +53,7 @@ There are **no registered clinical trials**, but **20 publications**, mostly mac
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | At least 20 (the list may be partial) |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 The evidence level is L5 even though the macaque literature is substantial. No cited study is a human clinical trial, and the macaque studies mostly examine SHIV (a chimeric virus) challenge for prevention, not SIV infection treatment in humans. Under the evidence rules, no study directly establishes this predicted disease as a human therapeutic target.

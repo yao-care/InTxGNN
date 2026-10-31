@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 854
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tranexamic Acid: predicted new indication amenorrhea (evidence level L4)."
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
@@ -53,7 +53,7 @@ The prediction is best read as a computational signal, not a validated therapeut
 | TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ---

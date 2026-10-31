@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 23
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Acitretin: predicted new indication Acne (disease) (evidence level L3). Approved use: Not stated in the India licence data compiled for this report"
 monitor_inn: "Acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
@@ -50,7 +50,7 @@ The TxGNN model predicts it may be effective for **acne**, but the supporting ev
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
-| Number of Listed Products | 20 |
+| Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
