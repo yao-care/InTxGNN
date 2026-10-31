@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Acetazolamide?">
-<strong>Acetazolamide</strong> currently has <strong>13 news articles</strong>, with 10 predicted indications.
+<strong>Acetazolamide</strong> currently has <strong>12 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Acetazolamide with the lates
 <li>distal myopathy, Tateyama type</li>
 <li>cirrhotic cardiomyopathy</li>
 <li>cardiomyopathy</li>
-<li class="indication-matched">intestinal obstruction<span class="indication-tag">📰 intestinal obstruction</span></li>
+<li>intestinal obstruction</li>
 <li>glycogen storage disease due to acid maltase deficiency, late-onset</li>
 <li>unclassified intestinal pseudoobstruction</li>
 </ul></li>
@@ -42,13 +42,21 @@ This page combines the AI-predicted indications for Acetazolamide with the lates
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
 
-### [Tumor Recurrence at the Tracheostomy Stoma Following Oncologic Surgery for Squamous Cell Carcinoma of the Tongue: A Case Report and Literature Review](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX0dYQmdsSTlSb2QxeUlPelBwOEx3dktDZjBOQjRCbWg4S2NjX2NFdHE1Zi1lYnZpaUhYQUcxM2wzWDBwaXctZXMtR1VnSWQycDlabUZvcVpvWllFNXQ1UTlmSUdUUEdTUjNFc2UwMEpLWFM2T3E5T2tHcy1vMlgyLVlYRUlTOVlsMkt1eTYzWU03b2dpM3B3d3dJWTMxdC1TV1lnaFhpQ3hMb2MyUzlucEdMaEZIRE82OWF1M0RjZEJpYmNjd081MXVrekFQaDBrS29yNVp4V2Y4Si1iQlVfZFZzekZ6WXN4VDhLZF9pVjFXcC1yQTR6M3JZc2xaaXk2M0FNVHBLTGgzV3JEcEUtTFd1aFJvZw?oc=5)
+### [Scientists discover how a common gut bacterium can trigger colon cancer: Study - ANI News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXg3QUFDb1E3WVU2Q1paWjJNaFZIclpmVkR4ME01U3hkc21oMFljSElwQTJWZ21CUTVhTTRWeUFfZllKSVJoYVNiU0pkNFE1YkJaeHVhdmQ5OWJIU181U29odFRaN1BJejQ4V1RzVUtybVBMUjVqV09vYWM1SE51VFhXNGxSWjF5U2dKaGxHV3VxMEc0ZlpmeEZFUDR0RGlOYU5fWTN5UVhsQ1FxZnptSnByYUZkT3RuNExsS09MYjBId1NfNWc?oc=5)
 
-2026-10-31 <span class="news-indication-tag">tumor</span>
+2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX0dYQmdsSTlSb2QxeUlPelBwOEx3dktDZjBOQjRCbWg4S2NjX2NFdHE1Zi1lYnZpaUhYQUcxM2wzWDBwaXctZXMtR1VnSWQycDlabUZvcVpvWllFNXQ1UTlmSUdUUEdTUjNFc2UwMEpLWFM2T3E5T2tHcy1vMlgyLVlYRUlTOVlsMkt1eTYzWU03b2dpM3B3d3dJWTMxdC1TV1lnaFhpQ3hMb2MyUzlucEdMaEZIRE82OWF1M0RjZEJpYmNjd081MXVrekFQaDBrS29yNVp4V2Y4Si1iQlVfZFZzekZ6WXN4VDhLZF9pVjFXcC1yQTR6M3JZc2xaaXk2M0FNVHBLTGgzV3JEcEUtTFd1aFJvZw?oc=5)
+Source: [ANI News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXg3QUFDb1E3WVU2Q1paWjJNaFZIclpmVkR4ME01U3hkc21oMFljSElwQTJWZ21CUTVhTTRWeUFfZllKSVJoYVNiU0pkNFE1YkJaeHVhdmQ5OWJIU181U29odFRaN1BJejQ4V1RzVUtybVBMUjVqV09vYWM1SE51VFhXNGxSWjF5U2dKaGxHV3VxMEc0ZlpmeEZFUDR0RGlOYU5fWTN5UVhsQ1FxZnptSnByYUZkT3RuNExsS09MYjBId1NfNWc?oc=5)
+
+---
+
+### [Indian Biotech Startup Claims To Offer Personalised Cancer Vaccines](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWYzRXNYVkFYc2tyeUJpWnpvZ0o1RS0zaURvWExPOFJwNG1VM2Y1eWpBZENfQWhQYk04dmgxMGJSU2Jsb2o0U0RyWnFUelQzYlVTSTdJMkRUMXJQLWlOd3NrS2U1WDByNWwwdXhOSk9ZNHpNcUNGYUlaTkM5SG5QYS1ySUtKN3RkVzJ0UG9sOTdLS0dzTkhEU2V6MHVvRmxmY3JrY3AtSU8?oc=5)
+
+2026-10-31 <span class="news-indication-tag">cancer</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWYzRXNYVkFYc2tyeUJpWnpvZ0o1RS0zaURvWExPOFJwNG1VM2Y1eWpBZENfQWhQYk04dmgxMGJSU2Jsb2o0U0RyWnFUelQzYlVTSTdJMkRUMXJQLWlOd3NrS2U1WDByNWwwdXhOSk9ZNHpNcUNGYUlaTkM5SG5QYS1ySUtKN3RkVzJ0UG9sOTdLS0dzTkhEU2V6MHVvRmxmY3JrY3AtSU8?oc=5)
 
 ---
 
@@ -57,14 +65,6 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX0dYQmdsST
 2026-10-31 <span class="news-drug-tag">DENOSUMAB</span> <span class="news-drug-tag">Denosumab</span> <span class="news-indication-tag">cancer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
-
----
-
-### [Clinical Characteristics and Outcomes of Patients Undergoing Emergency Surgery for Intestinal Obstruction at a Tertiary Care Centre in Eastern India](https://news.google.com/rss/articles/CBMilgJBVV95cUxOSEV4MlpxbndWYlRVelB4Snd4aXhHTDd4XzVld0Z2YW1LbTAwcy1idXBMRDM2UHhzTDU5cjNHcEhuRnVWNUE2aDkybDg2MUpzZ096UUhlZEJQS2E1Vk9xc3BGeVlIZHhkSGhIRGFxREFWMHRraHZfYWRRbjdpNnNTakdiRllOS09uLXQzaVYxQ1lhektTQ2ZkdTJlc2cwek9hT1l4QVFwWE5ZVWZYVzM3b3VXNkFoSE4zeV9KSFQ3X1BUU1d1U3NkaGRmdmZ2YlZHa0dYVzRLWk9oc1FUTHlYZThDSGctZm44Mm5oWUlzUmFFR1M2UENxME1FTVk2R25JbzNQS2hud01fYk5ZX3RqWEs5djF5dw?oc=5)
-
-2026-10-31 <span class="news-indication-tag">intestinal obstruction</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMilgJBVV95cUxOSEV4MlpxbndWYlRVelB4Snd4aXhHTDd4XzVld0Z2YW1LbTAwcy1idXBMRDM2UHhzTDU5cjNHcEhuRnVWNUE2aDkybDg2MUpzZ096UUhlZEJQS2E1Vk9xc3BGeVlIZHhkSGhIRGFxREFWMHRraHZfYWRRbjdpNnNTakdiRllOS09uLXQzaVYxQ1lhektTQ2ZkdTJlc2cwek9hT1l4QVFwWE5ZVWZYVzM3b3VXNkFoSE4zeV9KSFQ3X1BUU1d1U3NkaGRmdmZ2YlZHa0dYVzRLWk9oc1FUTHlYZThDSGctZm44Mm5oWUlzUmFFR1M2UENxME1FTVk2R25JbzNQS2hud01fYk5ZX3RqWEs5djF5dw?oc=5)
 
 ---
 
@@ -92,11 +92,11 @@ Source: [TCTMD.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM
 
 ---
 
-### [Advanced Breast Cancer Care Offers New Treatment Possibilities](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
+### [Advanced Breast Cancer Care Offers New Treatment Possibilities - The Tribune](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem02YlMzNlRpRnI2dlhmcXR0V1VmLWQ2Q3FZRFF5LXZHSnRjYlpuYlhDSU9KYjItS1o4d0NHd282VV9HRWtNckVfd252VHowY1JrRmM1eDVrdzh6MnZGODZFeC1SX2NIeUNPcFdqUVJWZkR4bER2LWRvcW14SHNOVTBRUUo1a001VGM4T3h0TkRmS252N2FUOXM3VzAtbE01LU1ubzJCTWJid9IBrgFBVV95cUxQX3dhTi02THg4N2Jfa24zS3BhVi1iTG1WdFduRlVqc3BCUnBhWnZibFBrM0t6cUhqRGF6TEJ6VUxqZzZWY2tSenVrdVNvRXhWUFRLa0lodTRIU0tJSnFhZl80RWR0UFpnc3Jmdkh1SndPWWlVTFVpRktwemNVM05PMzNLRnppeEk5eU8yc1JqTGlIdGJnbkNiRUhHdGthUWpSWkhMQ3JsMEMyNXlvMEE?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [webindia123](https://news.google.com/rss/articles/CBMifkFVX3lxTE92TEhhU29JRVU4clRpSVJjeVQ4Y0xYbXZQSV9md1ZoeDdrS043V0lmMHBsSmUzRDNOaTJ1YzNSaUF5QjZxOXVQaVFudEdJNVNDSUp5Szg2QV94aTUzR2UwM21qcXN2cWpadUFwZVFocWVwT0k4eUJQLThoYlo1QQ?oc=5)
+Source: [The Tribune](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem02YlMzNlRpRnI2dlhmcXR0V1VmLWQ2Q3FZRFF5LXZHSnRjYlpuYlhDSU9KYjItS1o4d0NHd282VV9HRWtNckVfd252VHowY1JrRmM1eDVrdzh6MnZGODZFeC1SX2NIeUNPcFdqUVJWZkR4bER2LWRvcW14SHNOVTBRUUo1a001VGM4T3h0TkRmS252N2FUOXM3VzAtbE01LU1ubzJCTWJid9IBrgFBVV95cUxQX3dhTi02THg4N2Jfa24zS3BhVi1iTG1WdFduRlVqc3BCUnBhWnZibFBrM0t6cUhqRGF6TEJ6VUxqZzZWY2tSenVrdVNvRXhWUFRLa0lodTRIU0tJSnFhZl80RWR0UFpnc3Jmdkh1SndPWWlVTFVpRktwemNVM05PMzNLRnppeEk5eU8yc1JqTGlIdGJnbkNiRUhHdGthUWpSWkhMQ3JsMEMyNXlvMEE?oc=5)
 
 ---
 
@@ -132,19 +132,11 @@ Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVF
 
 ---
 
-### [Discarded fruit and vegetable parts offer overlooked fiber benefits](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
+### [ESMO26: Wider use of breast cancer gene test could save NHS £4m annually - Medical Device Network](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE9oTE5vcnMtRFFjaXBycmIzTHhBUm1wLWhQWWNfeFVMdTJHRWgwSV83d1RVbk5nb2o0czNTX3NvMEp1UTZKcW54SU11b2huUWYyS0FpT29fQUJNazNjZ0hXdlpVbzEyYVFzbktfZExXXzhvdWcxVkx0cUN2WWxrNDhWd3VtWDFjWFFTOFRzQnRFUnBzeE1HampSakxTUUFXUUFxdXlDSVMxMUFacUIxTGxqVng?oc=5)
 
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
-
----
-
-### [Breast Cancer Awareness Month Highlights Early Detection And Access To Care - BW Healthcare World](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUFTb1BlME9fTmpPOUV6LXpMYzZoY3FmVUZmNTZLR3ZsVkxYbjE4Q0QtUm9Tdk9BWHAySzkxQldvVWk2dlE4QzRsWFVPeUhaMWMtaVZ1NXkwbGdCMkRxZzE3amhtTWFScmh3MnBkdFNsN01OLUxGRXFXZFduc3NHLUg0NGQxQUdUNXRBYldfRHJXQUNUU2pQRDNGWUg2c194X2hCQmY1dm9OVHNkb2trcExjWTZKRUtsWmRHTjVsLTA4QQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUFTb1BlME9fTmpPOUV6LXpMYzZoY3FmVUZmNTZLR3ZsVkxYbjE4Q0QtUm9Tdk9BWHAySzkxQldvVWk2dlE4QzRsWFVPeUhaMWMtaVZ1NXkwbGdCMkRxZzE3amhtTWFScmh3MnBkdFNsN01OLUxGRXFXZFduc3NHLUg0NGQxQUdUNXRBYldfRHJXQUNUU2pQRDNGWUg2c194X2hCQmY1dm9OVHNkb2trcExjWTZKRUtsWmRHTjVsLTA4QQ?oc=5)
+Source: [Medical Device Network](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbE9oTE5vcnMtRFFjaXBycmIzTHhBUm1wLWhQWWNfeFVMdTJHRWgwSV83d1RVbk5nb2o0czNTX3NvMEp1UTZKcW54SU11b2huUWYyS0FpT29fQUJNazNjZ0hXdlpVbzEyYVFzbktfZExXXzhvdWcxVkx0cUN2WWxrNDhWd3VtWDFjWFFTOFRzQnRFUnBzeE1HampSakxTUUFXUUFxdXlDSVMxMUFacUIxTGxqVng?oc=5)
 
 ---
 

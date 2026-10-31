@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Caffeine. 8 predicted indications."
 permalink: /news/caffeine/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Caffeine News
@@ -42,11 +42,11 @@ This page combines the AI-predicted indications for Caffeine with the latest hea
 
 ## Related News (1)
 
-### [Caffeine-related exposure and dry eye disease: a systematic review and meta-analysis of epidemiological associations and tear-related outcomes](https://news.google.com/rss/articles/CBMiX0FVX3lxTFByblNvUlA4bENkN1FLLTJHQUROcVRkQkMzSGlIWmRjVl9SNkJSaURSWVhackpYWW1rbzdSUWJoUnZZYmdNZFZKaXJEckVscndBYlptNzJWYVZyN2ZsbDBZ?oc=5)
+### [Caffeine-related exposure and dry eye disease: a systematic review and meta-analysis of epidemiological associations and tear-related outcomes](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05bnJpREtHQ241TURyMndNbTlQN244MXcybWJFQ05hQURhcTVjX2o1NVBNZmN4cFU3YUV5OWpveTNpRkRPMHZFMTlqSVd6V0pzSHZvTTgzZzhHRk1EcTJjZjFkRjA?oc=5)
 
 2026-10-30 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span> <span class="news-indication-tag">eye disease</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFByblNvUlA4bENkN1FLLTJHQUROcVRkQkMzSGlIWmRjVl9SNkJSaURSWVhackpYWW1rbzdSUWJoUnZZYmdNZFZKaXJEckVscndBYlptNzJWYVZyN2ZsbDBZ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05bnJpREtHQ241TURyMndNbTlQN244MXcybWJFQ05hQURhcTVjX2o1NVBNZmN4cFU3YUV5OWpveTNpRkRPMHZFMTlqSVd6V0pzSHZvTTgzZzhHRk1EcTJjZjFkRjA?oc=5)
 
 ---
 

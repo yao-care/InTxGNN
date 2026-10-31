@@ -48,11 +48,11 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU1vbFZYeGc2e
 
 ---
 
-### [Is 'ferritin face' a real thing - and can you really spot low iron from looks?](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRSUhELVI2ZjZxbnVKN0M4d3VmRFlMTjF0NEFXYUNZRno3Z0Mzc2p6cWx4bFFfbW9XWXpibV9VMHRQNkZkTlNCYlV2d2RVdVllZ2pRdi1UMDJDNGM?oc=5)
+### [Do you have 'ferritin face'? Dark circles, thin hair and other signs: What to know about TikTok health trend - Yahoo Life UK](https://news.google.com/rss/articles/CBMifkFVX3lxTFBmaWt3QnBpNVlVQy1JR1cxWndXTk9UejlmcFN3SE1ZZ21RWG9Yb0dlbUlwOF8zRk5VUURTSDRMVlEzTUhoZG9XZFdTRVBoclpFNWs5WnZhYk5HMmNPUmpYa0MwRlNrUERXWElpU1lWcGlnZ282azMtZ1p4d2gxZw?oc=5)
 
-2026-10-26 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+2026-10-27 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRSUhELVI2ZjZxbnVKN0M4d3VmRFlMTjF0NEFXYUNZRno3Z0Mzc2p6cWx4bFFfbW9XWXpibV9VMHRQNkZkTlNCYlV2d2RVdVllZ2pRdi1UMDJDNGM?oc=5)
+Source: [Yahoo Life UK](https://news.google.com/rss/articles/CBMifkFVX3lxTFBmaWt3QnBpNVlVQy1JR1cxWndXTk9UejlmcFN3SE1ZZ21RWG9Yb0dlbUlwOF8zRk5VUURTSDRMVlEzTUhoZG9XZFdTRVBoclpFNWs5WnZhYk5HMmNPUmpYa0MwRlNrUERXWElpU1lWcGlnZ282azMtZ1p4d2gxZw?oc=5)
 
 ---
 

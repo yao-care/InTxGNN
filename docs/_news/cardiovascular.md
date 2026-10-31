@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 5 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>5 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,29 +58,21 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
+
+### [Pre-transplant cardiovascular risks and adverse outcomes in patients after receiving kidney transplantation](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtOUxSNWhZRWVISWI3aEl3am05QVlQZ3ppdmZBSVJRWWlwRUtpR1B3OXFhTXRUaUd6d0JXLWJMYmJIeUtkcjZGUW9zTFo3NU5mekpWNkE1cjkwV2IxRXE4?oc=5)
+
+2026-10-31
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtOUxSNWhZRWVISWI3aEl3am05QVlQZ3ppdmZBSVJRWWlwRUtpR1B3OXFhTXRUaUd6d0JXLWJMYmJIeUtkcjZGUW9zTFo3NU5mekpWNkE1cjkwV2IxRXE4?oc=5)
+
+---
 
 ### [Eating Healthy May Lower CVD Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
 
 2026-10-30
 
 Source: [TCTMD.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
-
----
-
-### [FDA-approved heart medication may be a ‘wonder drug’—protects against diabetes, blood clots and more - Cardiovascular Business](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0tTTFRLcTV3MjNpQWlYYVdXMmFTcl9XV01sOTNXQk5LYUZ1MmJmeGVjWFNtRE1fSjhYc3hkVnN4em5Qd1BzWE4zZC16RHJlMndld2RieVE4Y0J1ZVpBZjFJanJMMzdXM1J1WklSdDdWb2JubzBvTTdURVFhNFphNFY0RVFNV1F4Z2xnaEtjNmNNMkxLX3hlVnZUSG15ZS0xdmthbi1NLVljU2kyek9BeU12M1ktTEJxMmR2SEVHY29ZY1ljc3NZQWdZRVhzVVFXRDJueV9ZQ0lPWFdRelkyWW9MU0RsYVlFdDRjVld1NGJCUQ?oc=5)
-
-2026-10-30
-
-Source: [Cardiovascular Business](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0tTTFRLcTV3MjNpQWlYYVdXMmFTcl9XV01sOTNXQk5LYUZ1MmJmeGVjWFNtRE1fSjhYc3hkVnN4em5Qd1BzWE4zZC16RHJlMndld2RieVE4Y0J1ZVpBZjFJanJMMzdXM1J1WklSdDdWb2JubzBvTTdURVFhNFphNFY0RVFNV1F4Z2xnaEtjNmNNMkxLX3hlVnZUSG15ZS0xdmthbi1NLVljU2kyek9BeU12M1ktTEJxMmR2SEVHY29ZY1ljc3NZQWdZRVhzVVFXRDJueV9ZQ0lPWFdRelkyWW9MU0RsYVlFdDRjVld1NGJCUQ?oc=5)
-
----
-
-### [Discarded fruit and vegetable parts offer overlooked fiber benefits](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
-
-2026-10-30
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
 
 ---
 
