@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>16 news articles</strong>, with 4 predicted indications.
+<strong>Letrozole</strong> currently has <strong>14 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (14)
 
-### [Nanoscale particle shows potential as customizable delivery vehicle for personalized cancer vaccines](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRuNE1BYkVZWHZramxaZnl6YkU4YjlXRndPenRTbkVqRU5PYzFNQ3lrSzRnRjE3MFkyT1F4U05lT3NGVGZXekI4UHBnRTBwMzRkRm1wdjROSkxPbnRNZVNCcWZNMlZhVHp2R0VDQV8zZW5hbkdldHd6aE9DcW9Jc1pnMnJ4Y2lnTXo5RXpua1hRTHN4UWwwSGR5SFFaWEtDX2RHNTlhZHdpTDVSTzFJMXdBcEl6Q2RwQkdYSTI4VkdpaFllNEl1X2VTVk9ZZDVjUzFnSDFXckloamRtbDdWSzJ3?oc=5)
+### [Tumor Recurrence at the Tracheostomy Stoma Following Oncologic Surgery for Squamous Cell Carcinoma of the Tongue: A Case Report and Literature Review](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX0dYQmdsSTlSb2QxeUlPelBwOEx3dktDZjBOQjRCbWg4S2NjX2NFdHE1Zi1lYnZpaUhYQUcxM2wzWDBwaXctZXMtR1VnSWQycDlabUZvcVpvWllFNXQ1UTlmSUdUUEdTUjNFc2UwMEpLWFM2T3E5T2tHcy1vMlgyLVlYRUlTOVlsMkt1eTYzWU03b2dpM3B3d3dJWTMxdC1TV1lnaFhpQ3hMb2MyUzlucEdMaEZIRE82OWF1M0RjZEJpYmNjd081MXVrekFQaDBrS29yNVp4V2Y4Si1iQlVfZFZzekZ6WXN4VDhLZF9pVjFXcC1yQTR6M3JZc2xaaXk2M0FNVHBLTGgzV3JEcEUtTFd1aFJvZw?oc=5)
 
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+2026-10-31 <span class="news-indication-tag">tumor</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRuNE1BYkVZWHZramxaZnl6YkU4YjlXRndPenRTbkVqRU5PYzFNQ3lrSzRnRjE3MFkyT1F4U05lT3NGVGZXekI4UHBnRTBwMzRkRm1wdjROSkxPbnRNZVNCcWZNMlZhVHp2R0VDQV8zZW5hbkdldHd6aE9DcW9Jc1pnMnJ4Y2lnTXo5RXpua1hRTHN4UWwwSGR5SFFaWEtDX2RHNTlhZHdpTDVSTzFJMXdBcEl6Q2RwQkdYSTI4VkdpaFllNEl1X2VTVk9ZZDVjUzFnSDFXckloamRtbDdWSzJ3?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMilgJBVV95cUxPX0dYQmdsSTlSb2QxeUlPelBwOEx3dktDZjBOQjRCbWg4S2NjX2NFdHE1Zi1lYnZpaUhYQUcxM2wzWDBwaXctZXMtR1VnSWQycDlabUZvcVpvWllFNXQ1UTlmSUdUUEdTUjNFc2UwMEpLWFM2T3E5T2tHcy1vMlgyLVlYRUlTOVlsMkt1eTYzWU03b2dpM3B3d3dJWTMxdC1TV1lnaFhpQ3hMb2MyUzlucEdMaEZIRE82OWF1M0RjZEJpYmNjd081MXVrekFQaDBrS29yNVp4V2Y4Si1iQlVfZFZzekZ6WXN4VDhLZF9pVjFXcC1yQTR6M3JZc2xaaXk2M0FNVHBLTGgzV3JEcEUtTFd1aFJvZw?oc=5)
+
+---
+
+### [Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
+
+2026-10-31 <span class="news-drug-tag">DENOSUMAB</span> <span class="news-drug-tag">Denosumab</span> <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
 
 ---
 
@@ -55,11 +63,11 @@ Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95c
 
 ---
 
-### [Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YaWZOMWZ3UTBJbVpqT0E0NmJUVHItXzN0VW1iYld3b2dBUzEtd3QwLVZObVg5dG84OWctTkV3bm5Yc3JZTmkwcGJsbXlpZzM4bFEtR1VfRHc2VFUxSW13Q2pUems?oc=5)
+### [Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YaWZOMWZ3UTBJbVpqT0E0NmJUVHItXzN0VW1iYld3b2dBUzEtd3QwLVZObVg5dG84OWctTkV3bm5Yc3JZTmkwcGJsbXlpZzM4bFEtR1VfRHc2VFUxSW13Q2pUems?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
 
 ---
 
@@ -127,27 +135,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJP
 
 ---
 
-### [TumorSight Risk predicts breast cancer recurrence before surgery using MRI](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWZiZ0lsZUJ0VDd2ZUtVMnRHanBzcU00SFJuQUhsRkRPZVc2bTBUNHBHOEprc1pyV2RZaF9oWXhJbEZjNGNIVVFYODNmMVQybDZQOGk4TlJfRzNYTThsQy1lbW41b2tTSUtvWldkcnUyTkg2MzNFOXZfZDBtOVJHME1VRHRZbDRzWVhnYktvZFpvRW9jcVVfakEtT3ZrcmlMMTl2eGR2Xzd0aUkxM1R1STFDMGxtdlY2NmxaS3Zn?oc=5)
+### [Menopause Care in Primary Care: Closing Diagnosis and Treatment Gaps - Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWZiZ0lsZUJ0VDd2ZUtVMnRHanBzcU00SFJuQUhsRkRPZVc2bTBUNHBHOEprc1pyV2RZaF9oWXhJbEZjNGNIVVFYODNmMVQybDZQOGk4TlJfRzNYTThsQy1lbW41b2tTSUtvWldkcnUyTkg2MzNFOXZfZDBtOVJHME1VRHRZbDRzWVhnYktvZFpvRW9jcVVfakEtT3ZrcmlMMTl2eGR2Xzd0aUkxM1R1STFDMGxtdlY2NmxaS3Zn?oc=5)
-
----
-
-### [Saliva-Based Proteomics Reveals Immune Changes Linked to Oral Cancer Progression - Inside Precision Medicine](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0RJQTBnZk40ZFNZZDdRWGJ0UU5EZUV6eW9oRjFCN1lEcGQ2MHQzSnpUbU8tVHdXVk43T0ctb0N6X2E4Nk9lenBlTWFZYS1ydnRGS2JaTFMzWVB2V1E0Z3JmT1F0UE00MDM1ZTBISW9IRzQ0eVpLX3d4RDdZcHJOdFFod1pvc0VTTTJYR0o0RGZZeWR6RXdQOVI3WFJiYmpKVWs1aF9KTkFWTmNXMU9talloa2RPczFXMEw0WkNLcmxlb2gyZk16aEllZkE3TUdZU3dF?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span>
-
-Source: [Inside Precision Medicine](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ0RJQTBnZk40ZFNZZDdRWGJ0UU5EZUV6eW9oRjFCN1lEcGQ2MHQzSnpUbU8tVHdXVk43T0ctb0N6X2E4Nk9lenBlTWFZYS1ydnRGS2JaTFMzWVB2V1E0Z3JmT1F0UE00MDM1ZTBISW9IRzQ0eVpLX3d4RDdZcHJOdFFod1pvc0VTTTJYR0o0RGZZeWR6RXdQOVI3WFJiYmpKVWs1aF9KTkFWTmNXMU9talloa2RPczFXMEw0WkNLcmxlb2gyZk16aEllZkE3TUdZU3dF?oc=5)
-
----
-
-### [New Study Finds Low Initiation, Persistence With Menopause Hormone Therapy - Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
-
-2026-10-28 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
 
 ---
 
@@ -156,14 +148,6 @@ Source: [Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95c
 2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUFTb1BlME9fTmpPOUV6LXpMYzZoY3FmVUZmNTZLR3ZsVkxYbjE4Q0QtUm9Tdk9BWHAySzkxQldvVWk2dlE4QzRsWFVPeUhaMWMtaVZ1NXkwbGdCMkRxZzE3amhtTWFScmh3MnBkdFNsN01OLUxGRXFXZFduc3NHLUg0NGQxQUdUNXRBYldfRHJXQUNUU2pQRDNGWUg2c194X2hCQmY1dm9OVHNkb2trcExjWTZKRUtsWmRHTjVsLTA4QQ?oc=5)
-
----
-
-### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
-
-2026-10-25 <span class="news-indication-tag">cancer</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 
 ---
 

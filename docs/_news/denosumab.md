@@ -1,16 +1,86 @@
 ---
-layout: id_redirect
-permalink: /news/denosumab/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Denosumab News"
+parent: Health News
 nav_exclude: true
+description: "Health news related to Denosumab. 2 predicted indications."
+permalink: /news/denosumab/
+last_modified_at: 2026-10-31
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/denosumab/">
-<meta http-equiv="refresh" content="0; url=/drugs/denosumab/">
-<script>location="/drugs/denosumab/"</script>
-<a href="/drugs/denosumab/">/drugs/denosumab/</a>
-</html>
+
+# Denosumab News
+
+[← Back to News Overview]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="What news is there about Denosumab?">
+<strong>Denosumab</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+</p>
+
+<div class="key-takeaway">
+This page combines the AI-predicted indications for Denosumab with the latest health news. Indications highlighted in orange have recent news coverage.
+</div>
+
+<div class="drug-info-card">
+<strong>Drug Information</strong>
+<ul>
+<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>severe nonproliferative diabetic retinopathy</li>
+<li>diabetic retinopathy</li>
+</ul></li>
+</ul>
+<p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>
+</div>
+
+## Related News (1)
+
+### [Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
+
+2026-10-31 <span class="news-drug-tag">DENOSUMAB</span> <span class="news-drug-tag">Denosumab</span> <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Alteplase?">
-<strong>Alteplase</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
+<strong>Alteplase</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Eating Healthy May Lower CVD Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [TCTMD.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
+
+---
+
+### [FDA-approved heart medication may be a ‘wonder drug’—protects against diabetes, blood clots and more - Cardiovascular Business](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0tTTFRLcTV3MjNpQWlYYVdXMmFTcl9XV01sOTNXQk5LYUZ1MmJmeGVjWFNtRE1fSjhYc3hkVnN4em5Qd1BzWE4zZC16RHJlMndld2RieVE4Y0J1ZVpBZjFJanJMMzdXM1J1WklSdDdWb2JubzBvTTdURVFhNFphNFY0RVFNV1F4Z2xnaEtjNmNNMkxLX3hlVnZUSG15ZS0xdmthbi1NLVljU2kyek9BeU12M1ktTEJxMmR2SEVHY29ZY1ljc3NZQWdZRVhzVVFXRDJueV9ZQ0lPWFdRelkyWW9MU0RsYVlFdDRjVld1NGJCUQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Cardiovascular Business](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0tTTFRLcTV3MjNpQWlYYVdXMmFTcl9XV01sOTNXQk5LYUZ1MmJmeGVjWFNtRE1fSjhYc3hkVnN4em5Qd1BzWE4zZC16RHJlMndld2RieVE4Y0J1ZVpBZjFJanJMMzdXM1J1WklSdDdWb2JubzBvTTdURVFhNFphNFY0RVFNV1F4Z2xnaEtjNmNNMkxLX3hlVnZUSG15ZS0xdmthbi1NLVljU2kyek9BeU12M1ktTEJxMmR2SEVHY29ZY1ljc3NZQWdZRVhzVVFXRDJueV9ZQ0lPWFdRelkyWW9MU0RsYVlFdDRjVld1NGJCUQ?oc=5)
 
 ---
 
@@ -56,19 +64,19 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJP
 
 ---
 
-### [Renal Hyperfiltration Dynamics Reveal Distinct Cardiovascular Risks](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
-
----
-
 ### [Heated tobacco products cause immediate cardiovascular and genetic damage](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmExRjFTVVQxLS1tUzBycjhOcmk5QWRUcmVXZEJGb2Z3VTloRk1mRFFEWlY2T05ER0xQTVV1eHBqc04zaDZKSmdZMXRtbF91dm9ROUpvaml4UjJCQXRKQkhrbFJIMXFHZnNUSDZHaWVwTnBVTzJPOTBFeDNEX0tlYnFEN3pzYnpJZmM3SWstclVjWTlkLWpLQWZvbWtiM2swa0NINWY1Ukx6NjlfQ1paczR0MGI0NGhyQmRLYlJ3?oc=5)
+
+---
+
+### [Renal hyperfiltration dynamics as a cardiovascular risk stratification marker](https://news.google.com/rss/articles/CBMiX0FVX3lxTE94MlNmT0Vud093ZzVRb3JCWXhlQzJqQ3htWUNKS01SM3ZPaVUxb2hqS3hIRzlYQ3ZLNFVrajMzbjVzdTM1XzFrd2lxU2VjekwwOTNDWGQ5WHU2YjRTR2tz?oc=5)
+
+2026-10-25 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE94MlNmT0Vud093ZzVRb3JCWXhlQzJqQ3htWUNKS01SM3ZPaVUxb2hqS3hIRzlYQ3ZLNFVrajMzbjVzdTM1XzFrd2lxU2VjekwwOTNDWGQ5WHU2YjRTR2tz?oc=5)
 
 ---
 
