@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 211
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Conivaptan: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not stated in the Indian license data (conivaptan is generally used f…"
 monitor_inn: "Conivaptan"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "kyphoscoliotic heart disease", "peripheral arterial disease", "peripheral vascular disease"]
@@ -95,7 +95,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (0.9952) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology. The mechanistic link is plausible but indirect, so there is no clinical evidence for pulmonary hypertension.
+The high TxGNN score (0.9952) is a computational prediction. The mechanistic link is plausible but indirect, so there is no clinical evidence for pulmonary hypertension.
 
 **To proceed, the following is needed:**
 - Package insert warnings, contraindications, and approved indication text for Hyponat 20 mg Injection (currently missing and blocking safety screening)

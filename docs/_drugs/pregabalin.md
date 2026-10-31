@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -113,7 +113,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold**
 
 **Rationale:**
-Migraine disorder has the strongest support among the predictions, with randomized pediatric trials against propranolol and valproate (L2). However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small. The top-scoring prediction (tendinitis) and the myositis predictions rest on the model score alone. Package insert safety data are also missing, so safety screening cannot proceed.
+Migraine disorder has the strongest support among the predictions, with randomized pediatric trials against propranolol and valproate (L2). The top-scoring prediction (tendinitis) and the myositis predictions rest on the model score alone. Package insert safety data are also missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian regulatory source (a blocking gap)

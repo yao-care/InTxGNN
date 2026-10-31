@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 490
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Asthma, bronchial disease"
 monitor_inn: "Levosalbutamol"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria", "obstructive lung disease"]
@@ -131,7 +131,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, nasal cavity disease, rests on the model score alone, with no trials, no literature and no established mechanism. The best-supported prediction, obstructive lung disease, is largely an extension of the existing asthma and bronchial indication rather than a new one. Its only registered trial was withdrawn with no participants, so no completed Phase 3 trial confirms it.
+The top-ranked prediction, nasal cavity disease, rests on the model score alone, with no trials, no literature and no established mechanism. The best-supported prediction, obstructive lung disease, is largely an extension of the existing asthma and bronchial indication rather than a new one.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the India regulator, which are required for safety screening

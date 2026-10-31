@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 912
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not stated in the Indian license records compiled for this report (zo…"
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -61,7 +61,6 @@ The prediction should be read with caution. A pragmatic review (PMID 36005856) r
 
 Other predictions in the top 10 differ in strength:
 - **Manic bipolar affective disorder (score 0.9935, Evidence Level L4):** The evidence is mixed. An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.
-- **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment.
 - **Trichotillomania, Prinzmetal angina, conjunctivitis:** Prediction only, with speculative or implausible mechanistic links.
 - **Methemoglobinemia (including alpha type) and methemoglobin reductase deficiency:** No plausible mechanism. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Sulfonamides are more often linked to hematologic risk than benefit.
 
