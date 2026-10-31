@@ -52,11 +52,11 @@ Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95c
 
 ---
 
-### [Menopause Care in Primary Care: Closing Diagnosis and Treatment Gaps - Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
+### [New Study Finds Low Initiation, Persistence With Menopause Hormone Therapy - Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
 
-2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-10-28 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Patient Care Online](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDloZGtPY0RpR0VTbDBDZFo4MW9UNnhXNlNnNkotaGt5RnhiM0JKeVRwYkdSdEtRemwtUFUxOFdzMHlZTGlOc1UwYUJZbEJHQ016dkVvNS1vVmU2RDdvTlR1RkVCVjlHb3pGOWZYYzhIcVZJb2h6UUdkTXRIc2MyRzRFYWtXcWpObkI4Zko5bzU0TTdvRDZKTU5ieFk5MmNhdXhQNUljdXBxZw?oc=5)
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
 
 ---
 

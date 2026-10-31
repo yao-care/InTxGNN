@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Diltiazem?">
-<strong>Diltiazem</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Diltiazem</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Diltiazem with the latest he
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
 ### [CMC observes World Stroke Day - The Hindu](https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWhRaTZBc0ZLelN6Nkw0aWQxZ2JtVEFwNGZSRW5GOS01aHRWV2VENkZlQzdWZjRYZEZkVDZvc0JuOEkxcFg2R0xqYU9XaDMtdzJVQ09lS2w2MXdIajhjSkZLXy00dnhLeDdyaUNpdTlxNElXRFJGaGQ4WjJFMVZlaHB6RHpKS1NUX1VUanM0UWtPZURfLWdqeEIyLUtNa0ln0gGnAUFVX3lxTE9Rc05jNUU1UW1vRlVRSll5VUc5MGdTOWRuNmRpOVpmcm5yTGRlM21XZXF6N1ptTi1xWGNoYnRMRDkyel82Y1JSa1RFUjktWFRqVUdxSHdFTEFzMG96Nk1WLTN6WnpfOEYtdUNGQ1FIR3BGaGZnU1RMQWZlTnYxcFZ2bTAwc0VFdmVYNnhLTXhmZFBvSzNYMzFGeFdSNG8wQmFkWkgyb0Fz?oc=5)
 
@@ -53,22 +53,6 @@ Source: [Connected to India](https://news.google.com/rss/articles/CBMiwgFBVV95cU
 2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
-
----
-
-### [Stroke recovery: Doctors explain why brain fatigue persists even after strength and speech return - The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEdtYnJBUXhxTzFKbkJDNWZCMWFmWWZYQkNWdDh1akRWUkVoZ1loYzNTVFJWQ1YwdjNkUDIyNkpFOTFsdXQwQ1pFdC1IdVk1bVBkS0lOU21mR25UNWNhRUZBb1pzTzZXb3JUMWhkS2t1ek1sWU43Rjhwc1dGMFFZX3lrSndLcEczZzJYTDhJSzNhMHYyR19mT1RoVWZVejFnTjlzQkZZME9IOGtFZGJEUHUxM3FIVjdERUhLa01pVFZGVE5iNms3dlczNklXY1BJMU9QbjJYUlZTaHc0OFM0Qm1YdlhWSFIwLVdheGZlUldNVV9aNjVnS9IB_gFBVV95cUxOeXUxeFR1d3ZkWFh2Vnk1ZFlrb1Itb3pwUEFXRTZTbFdWS1E5c05rM1dRVzFMczFhYllmUkU5bzNtZGJPa2hnY2tDNGVsUWU4d09NTDdqWE5lQjRmRVFTdnUyczZZUmNMMExEYl9YWTk1TDM2bWpLMlRkNUhfWHN4VHJDZlJiWnlnTnBVVnMxMk9IOFc5MlQxMUprTEdCWDhUUndXUlFoUHNzcXByeUFPalZqdlNPWlhKczQ2MTh3dExjaVZsVUtNdUktdnZUN0lSWDkzTTB1T1U5dWNZcVlGN3czeGJkV1FtdzlEWUJmY083TWJoWU5Bc20wRy10dw?oc=5)
-
-2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbEdtYnJBUXhxTzFKbkJDNWZCMWFmWWZYQkNWdDh1akRWUkVoZ1loYzNTVFJWQ1YwdjNkUDIyNkpFOTFsdXQwQ1pFdC1IdVk1bVBkS0lOU21mR25UNWNhRUZBb1pzTzZXb3JUMWhkS2t1ek1sWU43Rjhwc1dGMFFZX3lrSndLcEczZzJYTDhJSzNhMHYyR19mT1RoVWZVejFnTjlzQkZZME9IOGtFZGJEUHUxM3FIVjdERUhLa01pVFZGVE5iNms3dlczNklXY1BJMU9QbjJYUlZTaHc0OFM0Qm1YdlhWSFIwLVdheGZlUldNVV9aNjVnS9IB_gFBVV95cUxOeXUxeFR1d3ZkWFh2Vnk1ZFlrb1Itb3pwUEFXRTZTbFdWS1E5c05rM1dRVzFMczFhYllmUkU5bzNtZGJPa2hnY2tDNGVsUWU4d09NTDdqWE5lQjRmRVFTdnUyczZZUmNMMExEYl9YWTk1TDM2bWpLMlRkNUhfWHN4VHJDZlJiWnlnTnBVVnMxMk9IOFc5MlQxMUprTEdCWDhUUndXUlFoUHNzcXByeUFPalZqdlNPWlhKczQ2MTh3dExjaVZsVUtNdUktdnZUN0lSWDkzTTB1T1U5dWNZcVlGN3czeGJkV1FtdzlEWUJmY083TWJoWU5Bc20wRy10dw?oc=5)
-
----
-
-### [Breathing Polluted Air For Years Could Raise Your Stroke Risk, Neurologists Explain Why - Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTVWMTladEc5a1JMSmZsMFc3U0lfU3JLdkNHUDlqa1ZJSkdiZFZDNzg5dEtNdDBiT1Q5M2dtd05lZ1NNUEg0Z3RpZTJ1d0hXc3ZJRktWUHJQQndWZ0dvN0c4dTNTR2t4b3ZCWnl5X3hBWlZ0cWZ4YU5IYzAwNUxBazdESnNHWjFiUDBaZ2VabFUyV3JkMGYxRlRQZTRtQnVWamQyWE9NVFFaa2RaRHk4U1NMQdIBuwFBVV95cUxOWlcwZl8tZGZqSmpWb01VRFpnTTNXWVpHbElwMUdYcGdabnRxSE1tbmhtSHBuSXJyTTQzMHRoQWhSenMwOVp1RVl3Nm5SalpUU2o3SjRmcWcxclNHVFk3X0huQjQyLWFHUk12NTRuMWZVcDhnLXdDMTc4bDNWV2N4VDJIWHVOSEhLTkNjY1pmSGZlcU9TOHZGMXU1WVZWMlM3c282Z1ZneTJISjhfX2hYSjFVVGtiUUZWZ0lr?oc=5)
-
-2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTVWMTladEc5a1JMSmZsMFc3U0lfU3JLdkNHUDlqa1ZJSkdiZFZDNzg5dEtNdDBiT1Q5M2dtd05lZ1NNUEg0Z3RpZTJ1d0hXc3ZJRktWUHJQQndWZ0dvN0c4dTNTR2t4b3ZCWnl5X3hBWlZ0cWZ4YU5IYzAwNUxBazdESnNHWjFiUDBaZ2VabFUyV3JkMGYxRlRQZTRtQnVWamQyWE9NVFFaa2RaRHk4U1NMQdIBuwFBVV95cUxOWlcwZl8tZGZqSmpWb01VRFpnTTNXWVpHbElwMUdYcGdabnRxSE1tbmhtSHBuSXJyTTQzMHRoQWhSenMwOVp1RVl3Nm5SalpUU2o3SjRmcWcxclNHVFk3X0huQjQyLWFHUk12NTRuMWZVcDhnLXdDMTc4bDNWV2N4VDJIWHVOSEhLTkNjY1pmSGZlcU9TOHZGMXU1WVZWMlM3c282Z1ZneTJISjhfX2hYSjFVVGtiUUZWZ0lr?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,13 +58,21 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+### [Eating Healthy May Lower CVD Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
 
-2026-10-29
+2026-10-30
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+Source: [TCTMD.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
+
+---
+
+### [Discarded fruit and vegetable parts offer overlooked fiber benefits](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
+
+2026-10-30
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
 
 ---
 

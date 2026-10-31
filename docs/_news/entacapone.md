@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Breathing Polluted Air For Years Could Raise Your Stroke Risk, Neurologists Explain Why - Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTVWMTladEc5a1JMSmZsMFc3U0lfU3JLdkNHUDlqa1ZJSkdiZFZDNzg5dEtNdDBiT1Q5M2dtd05lZ1NNUEg0Z3RpZTJ1d0hXc3ZJRktWUHJQQndWZ0dvN0c4dTNTR2t4b3ZCWnl5X3hBWlZ0cWZ4YU5IYzAwNUxBazdESnNHWjFiUDBaZ2VabFUyV3JkMGYxRlRQZTRtQnVWamQyWE9NVFFaa2RaRHk4U1NMQdIBuwFBVV95cUxOWlcwZl8tZGZqSmpWb01VRFpnTTNXWVpHbElwMUdYcGdabnRxSE1tbmhtSHBuSXJyTTQzMHRoQWhSenMwOVp1RVl3Nm5SalpUU2o3SjRmcWcxclNHVFk3X0huQjQyLWFHUk12NTRuMWZVcDhnLXdDMTc4bDNWV2N4VDJIWHVOSEhLTkNjY1pmSGZlcU9TOHZGMXU1WVZWMlM3c282Z1ZneTJISjhfX2hYSjFVVGtiUUZWZ0lr?oc=5)
-
-2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTVWMTladEc5a1JMSmZsMFc3U0lfU3JLdkNHUDlqa1ZJSkdiZFZDNzg5dEtNdDBiT1Q5M2dtd05lZ1NNUEg0Z3RpZTJ1d0hXc3ZJRktWUHJQQndWZ0dvN0c4dTNTR2t4b3ZCWnl5X3hBWlZ0cWZ4YU5IYzAwNUxBazdESnNHWjFiUDBaZ2VabFUyV3JkMGYxRlRQZTRtQnVWamQyWE9NVFFaa2RaRHk4U1NMQdIBuwFBVV95cUxOWlcwZl8tZGZqSmpWb01VRFpnTTNXWVpHbElwMUdYcGdabnRxSE1tbmhtSHBuSXJyTTQzMHRoQWhSenMwOVp1RVl3Nm5SalpUU2o3SjRmcWcxclNHVFk3X0huQjQyLWFHUk12NTRuMWZVcDhnLXdDMTc4bDNWV2N4VDJIWHVOSEhLTkNjY1pmSGZlcU9TOHZGMXU1WVZWMlM3c282Z1ZneTJISjhfX2hYSjFVVGtiUUZWZ0lr?oc=5)
-
----
+## Related News (1)
 
 ### [What is the Link Between PMOS and Alzheimer’s Disease?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
 

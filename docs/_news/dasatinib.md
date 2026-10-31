@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>14 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>15 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
 
-### [Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
+### [Nanoscale particle shows potential as customizable delivery vehicle for personalized cancer vaccines](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRuNE1BYkVZWHZramxaZnl6YkU4YjlXRndPenRTbkVqRU5PYzFNQ3lrSzRnRjE3MFkyT1F4U05lT3NGVGZXekI4UHBnRTBwMzRkRm1wdjROSkxPbnRNZVNCcWZNMlZhVHp2R0VDQV8zZW5hbkdldHd6aE9DcW9Jc1pnMnJ4Y2lnTXo5RXpua1hRTHN4UWwwSGR5SFFaWEtDX2RHNTlhZHdpTDVSTzFJMXdBcEl6Q2RwQkdYSTI4VkdpaFllNEl1X2VTVk9ZZDVjUzFnSDFXckloamRtbDdWSzJ3?oc=5)
+
+2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRuNE1BYkVZWHZramxaZnl6YkU4YjlXRndPenRTbkVqRU5PYzFNQ3lrSzRnRjE3MFkyT1F4U05lT3NGVGZXekI4UHBnRTBwMzRkRm1wdjROSkxPbnRNZVNCcWZNMlZhVHp2R0VDQV8zZW5hbkdldHd6aE9DcW9Jc1pnMnJ4Y2lnTXo5RXpua1hRTHN4UWwwSGR5SFFaWEtDX2RHNTlhZHdpTDVSTzFJMXdBcEl6Q2RwQkdYSTI4VkdpaFllNEl1X2VTVk9ZZDVjUzFnSDFXckloamRtbDdWSzJ3?oc=5)
+
+---
+
+### [Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YaWZOMWZ3UTBJbVpqT0E0NmJUVHItXzN0VW1iYld3b2dBUzEtd3QwLVZObVg5dG84OWctTkV3bm5Yc3JZTmkwcGJsbXlpZzM4bFEtR1VfRHc2VFUxSW13Q2pUems?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YaWZOMWZ3UTBJbVpqT0E0NmJUVHItXzN0VW1iYld3b2dBUzEtd3QwLVZObVg5dG84OWctTkV3bm5Yc3JZTmkwcGJsbXlpZzM4bFEtR1VfRHc2VFUxSW13Q2pUems?oc=5)
 
 ---
 
@@ -59,11 +67,11 @@ Source: [Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2
 
 ---
 
-### [GLP-1s Linked to 41% Drop in Cancer Risk in Nondiabetic Adults](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NTVUhBMHdYWVljNzNseHhhUUdSU09vZkI0ckZyT2pxUHpLRkprSGFqcnRyd0Exd0xpeDRMZ2lJMm1ZTFFyZlNQZ0lyWFdlZS1HY1JETko2dlpoMjF0QU8wcU0wNy1pcGo2M3dYck1kVkNJV1NUdjlHTFlVVmNUMmllZmZBYnpTQkZ6c2xtQUpGR0RPTl85RlZGX2M0T0RpaEp0SA?oc=5)
+### [Eating Healthy May Lower CVD Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
 
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NTVUhBMHdYWVljNzNseHhhUUdSU09vZkI0ckZyT2pxUHpLRkprSGFqcnRyd0Exd0xpeDRMZ2lJMm1ZTFFyZlNQZ0lyWFdlZS1HY1JETko2dlpoMjF0QU8wcU0wNy1pcGo2M3dYck1kVkNJV1NUdjlHTFlVVmNUMmllZmZBYnpTQkZ6c2xtQUpGR0RPTl85RlZGX2M0T0RpaEp0SA?oc=5)
+Source: [TCTMD.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
 
 ---
 
@@ -91,14 +99,6 @@ Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3
 
 ---
 
-### [Breast Cancer: What every woman should know](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [HeraldLIVE](https://news.google.com/rss/articles/CBMikgFBVV95cUxQOVFtX3ItSnVLWWkwQlI2NTJ6R3lwVUtGS3FVb0Qzd1dNRlpDMWlRdHFNNlM1MGZNVHFWRm9yd3g3bHM3MHNQdENrcGJ0S1F4bDc3QXpzMkFrVXdhVnVpV3psWmtvWGhOLXNYbWhRNjRFdUhvVk5iQ19Ya0toNFJPTm9ienhjaWM5V2I1dXBaX1FoZw?oc=5)
-
----
-
 ### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
@@ -115,19 +115,19 @@ Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVF
 
 ---
 
-### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+### [Discarded fruit and vegetable parts offer overlooked fiber benefits](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGJPS1l4UGR2aXVBdjhDcVQwZGthVU9CYU80VUEtcGIxaURoMGs5YnBDcWtMc1kwLWtVSGxEcGJpYTVZc2NjdE1UVGhibWo2MlBJYVpRQVpQUGdQNWMtdHZMbjlZVFJieEhMa3d6elZVQkZXUUpodmRSSURQZnM5YW9jRldLd0l1NUR6blBCaGlzcGM0ZFNfV1ZGcHVsRzNmaWI4cnIyOW51YlI5SHdrOGE2djBpUQ?oc=5)
 
 ---
 
-### [Breast cancer: This Nvidia-powered AI tool predicts cancer recurrence risk before surgery — here's how it works](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGh5TmxyRXNuTXlBUGhsZFVtRlZRZ1E2cm85Sl9NYU8zbTZXVWVjTnk4V0VKOVZUMXZDRmdoZVpLSVl1UDdlV21qcnF1RC04NDZNUGRKT0dzSG9RNkFHQ09ZRDkwZGsxaTBLdFRJUi16em1zVEdTNm12OVoweDQzTjlReE1lRzZPMXN3bmxEM0RJYmFRTnRUeElTX3hORHpyeWVWMVgtNW9PTDFKSzZJdGZ0dVdDNmVadW1ZVjJ5djdFWER2dlhLdVBQVzNSbUxCTS13WkltYlZHTHhzUHFoTzRHS2lBc0NOTGhn0gHwAUFVX3lxTE9oUTA3NVZXX2FWbV9VQTVrU1BWUkNwcUE0VmZtbVlYUjhNWkM1WkgxTzlIWUFEcl94djd1MEhzeVFUVi15Yl95VnMzMktXc3VYWjA1dTBhRXF2OG5hOWtGTElDelNYRW5PMW54QmQ4ZkRmdGxEM3ZDMllUMjRwOExSbFNmSWhsTmtmeFpsR2JHclQ1QnlrdExGdGFlZ1NSeF9uOTBNX0dKdWwzUEhHTlgxY0p0dXM2UkNibVVVekRQc3dwR2phOEF0Wlc2b3BNWTBobTJWdWVVNVg4UzdHLXVEU2phbVlmelBEamhGZm1kdg?oc=5)
+### [TumorSight Risk predicts breast cancer recurrence before surgery using MRI](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWZiZ0lsZUJ0VDd2ZUtVMnRHanBzcU00SFJuQUhsRkRPZVc2bTBUNHBHOEprc1pyV2RZaF9oWXhJbEZjNGNIVVFYODNmMVQybDZQOGk4TlJfRzNYTThsQy1lbW41b2tTSUtvWldkcnUyTkg2MzNFOXZfZDBtOVJHME1VRHRZbDRzWVhnYktvZFpvRW9jcVVfakEtT3ZrcmlMMTl2eGR2Xzd0aUkxM1R1STFDMGxtdlY2NmxaS3Zn?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Livemint](https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGh5TmxyRXNuTXlBUGhsZFVtRlZRZ1E2cm85Sl9NYU8zbTZXVWVjTnk4V0VKOVZUMXZDRmdoZVpLSVl1UDdlV21qcnF1RC04NDZNUGRKT0dzSG9RNkFHQ09ZRDkwZGsxaTBLdFRJUi16em1zVEdTNm12OVoweDQzTjlReE1lRzZPMXN3bmxEM0RJYmFRTnRUeElTX3hORHpyeWVWMVgtNW9PTDFKSzZJdGZ0dVdDNmVadW1ZVjJ5djdFWER2dlhLdVBQVzNSbUxCTS13WkltYlZHTHhzUHFoTzRHS2lBc0NOTGhn0gHwAUFVX3lxTE9oUTA3NVZXX2FWbV9VQTVrU1BWUkNwcUE0VmZtbVlYUjhNWkM1WkgxTzlIWUFEcl94djd1MEhzeVFUVi15Yl95VnMzMktXc3VYWjA1dTBhRXF2OG5hOWtGTElDelNYRW5PMW54QmQ4ZkRmdGxEM3ZDMllUMjRwOExSbFNmSWhsTmtmeFpsR2JHclQ1QnlrdExGdGFlZ1NSeF9uOTBNX0dKdWwzUEhHTlgxY0p0dXM2UkNibVVVekRQc3dwR2phOEF0Wlc2b3BNWTBobTJWdWVVNVg4UzdHLXVEU2phbVlmelBEamhGZm1kdg?oc=5)
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOWZiZ0lsZUJ0VDd2ZUtVMnRHanBzcU00SFJuQUhsRkRPZVc2bTBUNHBHOEprc1pyV2RZaF9oWXhJbEZjNGNIVVFYODNmMVQybDZQOGk4TlJfRzNYTThsQy1lbW41b2tTSUtvWldkcnUyTkg2MzNFOXZfZDBtOVJHME1VRHRZbDRzWVhnYktvZFpvRW9jcVVfakEtT3ZrcmlMMTl2eGR2Xzd0aUkxM1R1STFDMGxtdlY2NmxaS3Zn?oc=5)
 
 ---
 
@@ -139,11 +139,11 @@ Source: [Inside Precision Medicine](https://news.google.com/rss/articles/CBMi0wF
 
 ---
 
-### [Breathing Polluted Air For Years Could Raise Your Stroke Risk, Neurologists Explain Why - Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTVWMTladEc5a1JMSmZsMFc3U0lfU3JLdkNHUDlqa1ZJSkdiZFZDNzg5dEtNdDBiT1Q5M2dtd05lZ1NNUEg0Z3RpZTJ1d0hXc3ZJRktWUHJQQndWZ0dvN0c4dTNTR2t4b3ZCWnl5X3hBWlZ0cWZ4YU5IYzAwNUxBazdESnNHWjFiUDBaZ2VabFUyV3JkMGYxRlRQZTRtQnVWamQyWE9NVFFaa2RaRHk4U1NMQdIBuwFBVV95cUxOWlcwZl8tZGZqSmpWb01VRFpnTTNXWVpHbElwMUdYcGdabnRxSE1tbmhtSHBuSXJyTTQzMHRoQWhSenMwOVp1RVl3Nm5SalpUU2o3SjRmcWcxclNHVFk3X0huQjQyLWFHUk12NTRuMWZVcDhnLXdDMTc4bDNWV2N4VDJIWHVOSEhLTkNjY1pmSGZlcU9TOHZGMXU1WVZWMlM3c282Z1ZneTJISjhfX2hYSjFVVGtiUUZWZ0lr?oc=5)
+### [Breast Cancer Awareness Month Highlights Early Detection And Access To Care - BW Healthcare World](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUFTb1BlME9fTmpPOUV6LXpMYzZoY3FmVUZmNTZLR3ZsVkxYbjE4Q0QtUm9Tdk9BWHAySzkxQldvVWk2dlE4QzRsWFVPeUhaMWMtaVZ1NXkwbGdCMkRxZzE3amhtTWFScmh3MnBkdFNsN01OLUxGRXFXZFduc3NHLUg0NGQxQUdUNXRBYldfRHJXQUNUU2pQRDNGWUg2c194X2hCQmY1dm9OVHNkb2trcExjWTZKRUtsWmRHTjVsLTA4QQ?oc=5)
 
-2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTVWMTladEc5a1JMSmZsMFc3U0lfU3JLdkNHUDlqa1ZJSkdiZFZDNzg5dEtNdDBiT1Q5M2dtd05lZ1NNUEg0Z3RpZTJ1d0hXc3ZJRktWUHJQQndWZ0dvN0c4dTNTR2t4b3ZCWnl5X3hBWlZ0cWZ4YU5IYzAwNUxBazdESnNHWjFiUDBaZ2VabFUyV3JkMGYxRlRQZTRtQnVWamQyWE9NVFFaa2RaRHk4U1NMQdIBuwFBVV95cUxOWlcwZl8tZGZqSmpWb01VRFpnTTNXWVpHbElwMUdYcGdabnRxSE1tbmhtSHBuSXJyTTQzMHRoQWhSenMwOVp1RVl3Nm5SalpUU2o3SjRmcWcxclNHVFk3X0huQjQyLWFHUk12NTRuMWZVcDhnLXdDMTc4bDNWV2N4VDJIWHVOSEhLTkNjY1pmSGZlcU9TOHZGMXU1WVZWMlM3c282Z1ZneTJISjhfX2hYSjFVVGtiUUZWZ0lr?oc=5)
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUFTb1BlME9fTmpPOUV6LXpMYzZoY3FmVUZmNTZLR3ZsVkxYbjE4Q0QtUm9Tdk9BWHAySzkxQldvVWk2dlE4QzRsWFVPeUhaMWMtaVZ1NXkwbGdCMkRxZzE3amhtTWFScmh3MnBkdFNsN01OLUxGRXFXZFduc3NHLUg0NGQxQUdUNXRBYldfRHJXQUNUU2pQRDNGWUg2c194X2hCQmY1dm9OVHNkb2trcExjWTZKRUtsWmRHTjVsLTA4QQ?oc=5)
 
 ---
 
@@ -152,6 +152,14 @@ Source: [Times Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWd2VTV
 2026-10-26 <span class="news-indication-tag">alzheimer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
+
+---
+
+### [Fatty liver is not just about alcohol: Gastroenterologist explains the role of diabetes, belly fat and cholesterol | Health - Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
+
+2026-10-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZUJ1azVoSFhuazBtTklyMFNIdHdHWGxGY3hLVzVBaXUtWlNZSTM4ckJvN052Zjk0TG94LVRTRld0YzZnUGNkUlBkZHlXMzdlYkxRNU9OOW1HMXljTmVfMklnU0VTRWx6UU80YU8ybUNQTUhIaFRGM1FOalpldmFLUkh2eHp2Wm50Z09SUDZBRGJsc2tDX2NJWUxHWlQ3b2Nac1h5a3liNVpiUUhROEZkdjVLWEd6R1loZktwSzNnNlppSE1hTXItaHpQTi1LRTFsSEN1c1RnVzZUMThZc1E3ano1YklkWU5fbnFIX1E4NHExcndLYXpob0I2ckJIdXpCNVpIWkRZMXRfTWZqbnfSAZMCQVVfeXFMUE1XRTQ4X1JXMGIyMUVOcHhod05YdjRTZzVnRndZdFRUa05LaERwWUFmZnc5TUNaaXg2VzZrRTZjaXF2ZzZ5ZTVkVXhpVnBhRjJZYTZRQ0RDNzJLQkxZaW56X3pxYi1hODFnSllxVGt4MTlIN2pUNkxGcWppUGRodEJ4RTBQR0JfMm91RkptQnBncUZyQ2tfcnFOc1E5U3hmR0ZDOXJOV1RuTzVMUW83UEVZUGFxVlB3TVdsc0ozdmYtTUNxaU9yanZiSmRURGt1ZWxiSEFwOXNEa1NuVUpnRUJxM1hFQkpZczhYdlVsU185T2laQU1rOHpPaU5nZm83OFdvTHV3WmZQMHMwdWlCNGxCdjA?oc=5)
 
 ---
 
