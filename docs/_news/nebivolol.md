@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Nebivolol?">
-<strong>Nebivolol</strong> currently has <strong>11 news articles</strong>, with 4 predicted indications.
+<strong>Nebivolol</strong> currently has <strong>12 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,21 @@ This page combines the AI-predicted indications for Nebivolol with the latest he
 <p><a href="{{ '/drugs/nebivolol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
-
-### [Scientists discover how a common gut bacterium can trigger colon cancer: Study - ANI News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXg3QUFDb1E3WVU2Q1paWjJNaFZIclpmVkR4ME01U3hkc21oMFljSElwQTJWZ21CUTVhTTRWeUFfZllKSVJoYVNiU0pkNFE1YkJaeHVhdmQ5OWJIU181U29odFRaN1BJejQ4V1RzVUtybVBMUjVqV09vYWM1SE51VFhXNGxSWjF5U2dKaGxHV3VxMEc0ZlpmeEZFUDR0RGlOYU5fWTN5UVhsQ1FxZnptSnByYUZkT3RuNExsS09MYjBId1NfNWc?oc=5)
-
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span>
-
-Source: [ANI News](https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXg3QUFDb1E3WVU2Q1paWjJNaFZIclpmVkR4ME01U3hkc21oMFljSElwQTJWZ21CUTVhTTRWeUFfZllKSVJoYVNiU0pkNFE1YkJaeHVhdmQ5OWJIU181U29odFRaN1BJejQ4V1RzVUtybVBMUjVqV09vYWM1SE51VFhXNGxSWjF5U2dKaGxHV3VxMEc0ZlpmeEZFUDR0RGlOYU5fWTN5UVhsQ1FxZnptSnByYUZkT3RuNExsS09MYjBId1NfNWc?oc=5)
-
----
+## Related News (12)
 
 ### [Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
 
 2026-10-31 <span class="news-drug-tag">DENOSUMAB</span> <span class="news-drug-tag">Denosumab</span> <span class="news-indication-tag">cancer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
+
+---
+
+### [Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlONjZzMVVUQmNLRzBETkNDeEI4NE11bEU4NHZOR0FQU1BhWkUzVGNPWTcycmprSFlnc2RUaVNZU3dtclZDdHJodFNrcUtyM3YtWDBWbldMZHVGWGNpNnc3eW5TdmRhZnB4WExFb1pKVnZvUnZDaDlneWZKbjhPZ2dzLXlZVUc1M3oxOUVVV1VqUGdPamh1azExYWs4NE5neGNONnFsMXpsUjl3ejEw?oc=5)
+
+2026-10-31 <span class="news-indication-tag">cancer</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlONjZzMVVUQmNLRzBETkNDeEI4NE11bEU4NHZOR0FQU1BhWkUzVGNPWTcycmprSFlnc2RUaVNZU3dtclZDdHJodFNrcUtyM3YtWDBWbldMZHVGWGNpNnc3eW5TdmRhZnB4WExFb1pKVnZvUnZDaDlneWZKbjhPZ2dzLXlZVUc1M3oxOUVVV1VqUGdPamh1azExYWs4NE5neGNONnFsMXpsUjl3ejEw?oc=5)
 
 ---
 
@@ -62,11 +62,19 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSW
 
 ---
 
-### [Obesity in Your 20s and 30s Linked to Higher Cancer Risk](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
+### [Obesity in Your 20s and 30s May Increase Cancer Risk Later in Life](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span>
 
 Source: [Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
+
+---
+
+### [Breast cancer rates rising in women under 50](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYk9BWHBYNGtid2N2THhZNVU5ZURhYUVla1dhUktUZDlPXzcxcUlVa1dpVTl0MVM2RTItTkFERkV3dVpIdndnN2MxVkN0MFdSNFZyNk9DWFlCX3ltc3EweTVmRmNac1U1czNLS2pKUExTTkE2WE9HQ2cxdzJWWEhkendDUGViV2FxWlpoZ01iY2NCRmx4TmZIamJXajNKNHlYR1ZydEZURC0zSHBYNV9TU1VTMXRVbko3c2dSOEd5aWdubzQ?oc=5)
+
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [9News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYk9BWHBYNGtid2N2THhZNVU5ZURhYUVla1dhUktUZDlPXzcxcUlVa1dpVTl0MVM2RTItTkFERkV3dVpIdndnN2MxVkN0MFdSNFZyNk9DWFlCX3ltc3EweTVmRmNac1U1czNLS2pKUExTTkE2WE9HQ2cxdzJWWEhkendDUGViV2FxWlpoZ01iY2NCRmx4TmZIamJXajNKNHlYR1ZydEZURC0zSHBYNV9TU1VTMXRVbko3c2dSOEd5aWdubzQ?oc=5)
 
 ---
 
@@ -86,14 +94,6 @@ Source: [The Tribune](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem02Y
 
 ---
 
-### [The Gap Between A Lump And A Diagnosis Costs More When It Comes To Breast Cancer - ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1E5ejZxa3ZxT2NXb0QzbEpBZV9HS3VlN2tQRi1jZTN2dWtRU29HR0ZiSDFTVnlNcmVkR19GbFpyeGZKc1VsUWcxTi1ueUNaaWdWRnE2NUw1bUpLSG5wanhnLVNKR3M4UGNXcG1acUhBeXdMVnI5VkNTdFEzYXVndndIYUhUUWVjdEtKWXZjMEtUSDFobnkxTUoxbGk3SE1tczBsNWR6ZmtXZw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1E5ejZxa3ZxT2NXb0QzbEpBZV9HS3VlN2tQRi1jZTN2dWtRU29HR0ZiSDFTVnlNcmVkR19GbFpyeGZKc1VsUWcxTi1ueUNaaWdWRnE2NUw1bUpLSG5wanhnLVNKR3M4UGNXcG1acUhBeXdMVnI5VkNTdFEzYXVndndIYUhUUWVjdEtKWXZjMEtUSDFobnkxTUoxbGk3SE1tczBsNWR6ZmtXZw?oc=5)
-
----
-
 ### [How a breast cancer survivor overcame severe post-mastectomy body trauma: Doctors explain](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3dQVkJKT1FSeWJLZnhPa1d5OUY5a3padU9PZHN3eG9iWmFsRXJ1X0paSzA3THNTSU9QYl9KcUdUcmM2TjdnZVFpNXRqMzNDU0ExOWVrOG8waEpWRUJpM2Q2QVlqRVJYRGl2WkVSUmFzSXFURHlCT0h0aWRDV0hBMmROME5wQ29wVERHM2d1T0REVnBHNE04T2QzX1J3eFdpMEln?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -102,19 +102,27 @@ Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3
 
 ---
 
-### [Longitudinal Body Composition Changes Identified Before Pancreatic Cancer Diagnosis - Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
+### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [Gastroenterology Advisor](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUVpveElDdWNSOWVQdHZSU0NjZkRPbHJ6UkN1ZFVtd2ltSTZHRkRrWE5HNDB4REs0dUF2SWwzd0VKNEw1QS1YaUpvSUVtMHM3cTBOdlRQOVd4QXlCbzZoSUtkaW52cFVyV1VoQmo2ZHVTbTZXaXFKa2F5a1dzM3JhRHBPSU1WVFdRaFRlSWkwdGNraTR2VW9GLWx1MkZNeVlzU1IxT2tTd29xYVRxbnkyZG11S2g4NkZ6Nk9wRXl4RUdyRUVtNjNmWQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
 ---
 
-### [Breast Cancer In Younger Women: Experts Call For Greater Awareness And Early Detection - BW Healthcare World](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+### [Amritsar: ‘Four in 10 Indians may have fatty liver, most are unaware’ - The Tribune](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVdpYWtSQlE1RjJTOFVBTnJqZGIyYnBMNjRCZm5PYjlSZWVVb0NwQVk0MEdLS1R6WmRULVAzV2ZPRFBRMENEbEtFV1VBSlJWOEdNOUJwSk5WLS1STndmU09BaWRyWEEyVzhjVl92OURWWDM1TU5aNnhWRFF1Y0dlUXpkTE93WllKMXlkSmFIWS00LTdhQlJlUkUzMm5qM2E2YlHSAaYBQVVfeXFMTTRPWklMLU91blJpUHYwWUJqWHRxSG9UQ3puWi0tMXd4TDNiVkozRGNMS09VQm9STGU3MXB3M2RaeXZBRVVfeHNrakpMemZIZ0RDNEJjaUZlTVdMNkhPRUhTTmg3bTV3eTUwbElpZFBHT2hXUnFZV3JUeDZ1dXF3OXFrQmtXbHpmTThVNWloSEZXWUotVFR6UkpUUWJTRjI1SFNLZ0JWQQ?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-28 <span class="news-indication-tag">cancer</span>
 
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+Source: [The Tribune](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVdpYWtSQlE1RjJTOFVBTnJqZGIyYnBMNjRCZm5PYjlSZWVVb0NwQVk0MEdLS1R6WmRULVAzV2ZPRFBRMENEbEtFV1VBSlJWOEdNOUJwSk5WLS1STndmU09BaWRyWEEyVzhjVl92OURWWDM1TU5aNnhWRFF1Y0dlUXpkTE93WllKMXlkSmFIWS00LTdhQlJlUkUzMm5qM2E2YlHSAaYBQVVfeXFMTTRPWklMLU91blJpUHYwWUJqWHRxSG9UQ3puWi0tMXd4TDNiVkozRGNMS09VQm9STGU3MXB3M2RaeXZBRVVfeHNrakpMemZIZ0RDNEJjaUZlTVdMNkhPRUhTTmg3bTV3eTUwbElpZFBHT2hXUnFZV3JUeDZ1dXF3OXFrQmtXbHpmTThVNWloSEZXWUotVFR6UkpUUWJTRjI1SFNLZ0JWQQ?oc=5)
+
+---
+
+### [Diagnosed with early breast cancer? 4 questions to ask your oncologist - India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xaHJCMTlReFhzZWhNaEdxUExZNHZ1S1VtN3VTdXFpNVdBejZQTmplNlV5Njh5Q0hKc2NoaGxraDBHV3ZfQXVmVE8zeFpxd1Q0djlWd3JqT2NvcEI5TmpQWFNnREI0TDFMTFFQcTMzb2hlM2ttT2hkVlpVN05ucGs1TWZvdzFyNWtxdXpyOVY5WmFxLWFHUzdaQ3dQNUxCV1JMSTVEZkdMb3h6SHk3VUtSTHoxYk0xRzZFSEhBYWVQblJBM0HSAcsBQVVfeXFMT3FNRnVKQUh6M2d3cnk0M2JpcHIyYTJwOUt4dXNqMU8wa1pCWUtwVFA5R2hRaVpRUkkyS09sT0FwZjBndm5oWGhlbE83OXFaTHktRGhUQ3JVSndaSDlxUHNfYWZpWG13bHdqXzg2dzNCNjJPOUtHaFdtVUt6QzR2RVdXM2pQN3BWM0VBV1JnQkw4UUh2UWVoTlpLdVoyZDFHVzgxNFpnSkNZMWVoZGF2czdhdG9WSDRTVU11MEtIUjFuemV3dXkwcU1CNm8?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xaHJCMTlReFhzZWhNaEdxUExZNHZ1S1VtN3VTdXFpNVdBejZQTmplNlV5Njh5Q0hKc2NoaGxraDBHV3ZfQXVmVE8zeFpxd1Q0djlWd3JqT2NvcEI5TmpQWFNnREI0TDFMTFFQcTMzb2hlM2ttT2hkVlpVN05ucGs1TWZvdzFyNWtxdXpyOVY5WmFxLWFHUzdaQ3dQNUxCV1JMSTVEZkdMb3h6SHk3VUtSTHoxYk0xRzZFSEhBYWVQblJBM0HSAcsBQVVfeXFMT3FNRnVKQUh6M2d3cnk0M2JpcHIyYTJwOUt4dXNqMU8wa1pCWUtwVFA5R2hRaVpRUkkyS09sT0FwZjBndm5oWGhlbE83OXFaTHktRGhUQ3JVSndaSDlxUHNfYWZpWG13bHdqXzg2dzNCNjJPOUtHaFdtVUt6QzR2RVdXM2pQN3BWM0VBV1JnQkw4UUh2UWVoTlpLdVoyZDFHVzgxNFpnSkNZMWVoZGF2czdhdG9WSDRTVU11MEtIUjFuemV3dXkwcU1CNm8?oc=5)
 
 ---
 
