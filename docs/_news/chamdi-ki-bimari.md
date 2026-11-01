@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about psoriasis (chamdi ki bimari). 1 articles, 1 related drugs."
 permalink: /news/chamdi-ki-bimari/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-01
 ---
 
 # psoriasis (chamdi ki bimari) News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “psoriasis” and lists
 
 ## Related News (1)
 
-### [Q&A: What Should Clinicians Ask Patients About Scalp Psoriasis and Hair Care?](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhBbmRTaWprN2lMT2x1VEszLTJkMUJFMzBHRjdtTGR3ZEExMXZGVnZUMjRDRnc0YU1XcVVHZVlQd1NqanNCWHZEa0FSaHN3Z3NSR3Y3elNCaDNScFdmYWpxT0txNV80TDVhM0JDMDlDTllGaThVMldueUhaSWlTUkp4cHlrTzkwcXZmLVZnaEpSbkxJMF9pSWpLbw?oc=5)
+### [World Psoriasis Day 2026 Campaign Aims to Break Stigma Among Young People - The Dermatology Digest](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVBPVW5wWkpGUWtOS3FVTXp5X3p5QmpaRmZNcTU5SWRnZGV4bjktODNJY2dKOExNaDRWOERSVFBuWnR1bk1CMlhoU3ZjYklkb25nN2Zsc05XcUhoLUVCcU04QTd6bDNMUmpFTXEwR0pKS0ZfVWRCNzU1akI4eDRlTmQ2dmMxSm9sM3FiTjNycHhMZG4zVHZHN21CVXlxdThiamc?oc=5)
 
-2026-10-30
+2026-10-28
 
-Source: [HCPLive](https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjhBbmRTaWprN2lMT2x1VEszLTJkMUJFMzBHRjdtTGR3ZEExMXZGVnZUMjRDRnc0YU1XcVVHZVlQd1NqanNCWHZEa0FSaHN3Z3NSR3Y3elNCaDNScFdmYWpxT0txNV80TDVhM0JDMDlDTllGaThVMldueUhaSWlTUkp4cHlrTzkwcXZmLVZnaEpSbkxJMF9pSWpLbw?oc=5)
+Source: [The Dermatology Digest](https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVBPVW5wWkpGUWtOS3FVTXp5X3p5QmpaRmZNcTU5SWRnZGV4bjktODNJY2dKOExNaDRWOERSVFBuWnR1bk1CMlhoU3ZjYklkb25nN2Zsc05XcUhoLUVCcU04QTd6bDNMUmpFTXEwR0pKS0ZfVWRCNzU1akI4eDRlTmQ2dmMxSm9sM3FiTjNycHhMZG4zVHZHN21CVXlxdThiamc?oc=5)
 
 ---
 

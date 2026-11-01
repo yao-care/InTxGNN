@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about eye disease. 1 articles, 2 related drugs."
 permalink: /news/eye-disease/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # eye disease News
@@ -33,11 +33,11 @@ This page brings together the latest health news about “eye disease” and lis
 
 ## Related News (1)
 
-### [Caffeine-related exposure and dry eye disease: a systematic review and meta-analysis of epidemiological associations and tear-related outcomes](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05bnJpREtHQ241TURyMndNbTlQN244MXcybWJFQ05hQURhcTVjX2o1NVBNZmN4cFU3YUV5OWpveTNpRkRPMHZFMTlqSVd6V0pzSHZvTTgzZzhHRk1EcTJjZjFkRjA?oc=5)
+### [‘Like sand in my eye’: treatment gives hope to patients - Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
 
-2026-10-30
+2026-10-31
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05bnJpREtHQ241TURyMndNbTlQN244MXcybWJFQ05hQURhcTVjX2o1NVBNZmN4cFU3YUV5OWpveTNpRkRPMHZFMTlqSVd6V0pzSHZvTTgzZzhHRk1EcTJjZjFkRjA?oc=5)
+Source: [Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
 
 ---
 

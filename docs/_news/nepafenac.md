@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Nepafenac. 10 predicted indications."
 permalink: /news/nepafenac/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Nepafenac News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Nepafenac with the latest he
 
 ## Related News (1)
 
-### [Caffeine-related exposure and dry eye disease: a systematic review and meta-analysis of epidemiological associations and tear-related outcomes](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05bnJpREtHQ241TURyMndNbTlQN244MXcybWJFQ05hQURhcTVjX2o1NVBNZmN4cFU3YUV5OWpveTNpRkRPMHZFMTlqSVd6V0pzSHZvTTgzZzhHRk1EcTJjZjFkRjA?oc=5)
+### [‘Like sand in my eye’: treatment gives hope to patients - Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
 
-2026-10-30 <span class="news-drug-tag">Caffeine</span> <span class="news-drug-tag">CAFFEINE</span> <span class="news-indication-tag">eye disease</span>
+2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">blood cancer</span> <span class="news-indication-tag">eye disease</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE05bnJpREtHQ241TURyMndNbTlQN244MXcybWJFQ05hQURhcTVjX2o1NVBNZmN4cFU3YUV5OWpveTNpRkRPMHZFMTlqSVd6V0pzSHZvTTgzZzhHRk1EcTJjZjFkRjA?oc=5)
+Source: [Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
 
 ---
 

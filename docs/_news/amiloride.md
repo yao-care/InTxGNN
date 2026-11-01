@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Amiloride?">
-<strong>Amiloride</strong> currently has <strong>12 news articles</strong>, with 5 predicted indications.
+<strong>Amiloride</strong> currently has <strong>15 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,39 @@ This page combines the AI-predicted indications for Amiloride with the latest he
 <p><a href="{{ '/drugs/amiloride/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (15)
+
+### [Aster Medcity Organizes Cyclothon Emphasizing Awareness on Male Breast Cancer - Metro Vaartha](https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnVQaEZKN0F2d1p4Q0RCSHpYMjlDdUtlWEhkYW9UWjlLSDhqWkVNTjhNajJrQWZJc21HY0NhNl9IbXI4UnVaSzM3V2tKREM5ZU1HeVhmSzM1Rmg4aVZyc2hlbFZlRnp6YVM4QXdmTmZZWWFHb19vUnNHN0JoQjdDZHh6YmJoNnpFVUpIbzhGZF9ucDdBV3JSRWdrWm9qdldnbk9vNW90cV9wT2RVS2w4bFdRXzAxSkpFb0s0VDQ0NNIBzAFBVV95cUxPVzAxc1N0WHVQRklWNW9remhSWk5pQ2Vobm1LOHFlaFdXdVJGcDlfYXE1bWltXzc5Y2pjaFNFenpoV1IxQnlMdElkbHBRV09Oay0zWmdnd005SENMZ2xCc2tSZlREcVpMZ0NJWDBzOHhkRmJkcmZoN1JjenFPSEl2a1AxZ09RbHdRM2RZb29MWFZRYW1sY00wR2xyeDNoeGR5R1VPS1VkR0xQbGpoR3NxMnJaMnNmS3RQSEJRU1dDYlFkeV9sS1NWNmJXZ04?oc=5)
+
+2026-11-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Metro Vaartha](https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnVQaEZKN0F2d1p4Q0RCSHpYMjlDdUtlWEhkYW9UWjlLSDhqWkVNTjhNajJrQWZJc21HY0NhNl9IbXI4UnVaSzM3V2tKREM5ZU1HeVhmSzM1Rmg4aVZyc2hlbFZlRnp6YVM4QXdmTmZZWWFHb19vUnNHN0JoQjdDZHh6YmJoNnpFVUpIbzhGZF9ucDdBV3JSRWdrWm9qdldnbk9vNW90cV9wT2RVS2w4bFdRXzAxSkpFb0s0VDQ0NNIBzAFBVV95cUxPVzAxc1N0WHVQRklWNW9remhSWk5pQ2Vobm1LOHFlaFdXdVJGcDlfYXE1bWltXzc5Y2pjaFNFenpoV1IxQnlMdElkbHBRV09Oay0zWmdnd005SENMZ2xCc2tSZlREcVpMZ0NJWDBzOHhkRmJkcmZoN1JjenFPSEl2a1AxZ09RbHdRM2RZb29MWFZRYW1sY00wR2xyeDNoeGR5R1VPS1VkR0xQbGpoR3NxMnJaMnNmS3RQSEJRU1dDYlFkeV9sS1NWNmJXZ04?oc=5)
+
+---
+
+### [Development and external validation of a predictive model for epithelial ovarian tumors based on MRI features and serum tumor markers](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GVFhNZVlPZ3VNMnUzMlQ2SXpVYUNOdUJhbjN2ZXM4dzQ3X2pLYm0tYUtCLW9ISzQxZ1Z0LWR3RW5qTTJzVk9yaHc2emtkeFpfSU1iclJlYlI2WExIZWhzUmIxdDg?oc=5)
+
+2026-11-01 <span class="news-indication-tag">tumor</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GVFhNZVlPZ3VNMnUzMlQ2SXpVYUNOdUJhbjN2ZXM4dzQ3X2pLYm0tYUtCLW9ISzQxZ1Z0LWR3RW5qTTJzVk9yaHc2emtkeFpfSU1iclJlYlI2WExIZWhzUmIxdDg?oc=5)
+
+---
+
+### [Epigenetic regulation of cancer drivers and EMT revealed by genome-wide methylome profiling in NSCLC](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNEtHZzV0S1dyTVNRNHV2Y1d0MGVwc3ZyZW13WUNDSFRyNFlkVmhYenU2WF9DMmpaTjBfcVc3eFpjaG5uT1ZpdTVFb2M3NnBOMXp3OHZFY1N4RnN6TGM4?oc=5)
+
+2026-11-01 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNEtHZzV0S1dyTVNRNHV2Y1d0MGVwc3ZyZW13WUNDSFRyNFlkVmhYenU2WF9DMmpaTjBfcVc3eFpjaG5uT1ZpdTVFb2M3NnBOMXp3OHZFY1N4RnN6TGM4?oc=5)
+
+---
+
+### [‘Like sand in my eye’: treatment gives hope to patients - Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
+
+2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">blood cancer</span> <span class="news-indication-tag">eye disease</span>
+
+Source: [Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
+
+---
 
 ### [Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
 
@@ -55,35 +87,11 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlO
 
 ---
 
-### [Structural perturbations and destabilizing mutations in RAD51C and RAD51D reveal mechanisms of cancer risk](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZzdMLXpmSWhGTExBWlJaSGZKa25sQklGTU9SVWYwZEZXLWEwVGI5Y3A0WVB0Z2QxOHNsZWZDNjJxcUNXZ2FSSzFDUkszbXF2LWdJOTFkQm52ZWxUZG5F?oc=5)
-
----
-
-### [Obesity in Your 20s and 30s May Increase Cancer Risk Later in Life](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span>
-
-Source: [Healthline](https://news.google.com/rss/articles/CBMikgFBVV95cUxNampjU2hhdlMtOXJ6YXVlYWF2SHRMRHNxMTJ4cEwzVHphVGJYN0VnaWtYQ2RvaDdjZjIwb0tkNlVSQUhtWWJKVDVkbWxaOWV0RGg5aEFFbWRhWlZLWXYxWTRCWFY4V1ozWE9VcjJaZnRHeUNVM2F4Sk5nanFjWlpYVFp3OEM3TVV6OFlfVHp1WTFCdw?oc=5)
-
----
-
-### [Breast cancer rates rising in women under 50](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYk9BWHBYNGtid2N2THhZNVU5ZURhYUVla1dhUktUZDlPXzcxcUlVa1dpVTl0MVM2RTItTkFERkV3dVpIdndnN2MxVkN0MFdSNFZyNk9DWFlCX3ltc3EweTVmRmNac1U1czNLS2pKUExTTkE2WE9HQ2cxdzJWWEhkendDUGViV2FxWlpoZ01iY2NCRmx4TmZIamJXajNKNHlYR1ZydEZURC0zSHBYNV9TU1VTMXRVbko3c2dSOEd5aWdubzQ?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [9News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYk9BWHBYNGtid2N2THhZNVU5ZURhYUVla1dhUktUZDlPXzcxcUlVa1dpVTl0MVM2RTItTkFERkV3dVpIdndnN2MxVkN0MFdSNFZyNk9DWFlCX3ltc3EweTVmRmNac1U1czNLS2pKUExTTkE2WE9HQ2cxdzJWWEhkendDUGViV2FxWlpoZ01iY2NCRmx4TmZIamJXajNKNHlYR1ZydEZURC0zSHBYNV9TU1VTMXRVbko3c2dSOEd5aWdubzQ?oc=5)
-
----
-
-### [Eating Healthy May Lower CVD Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
+### [Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help - Everyday Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTA2MkdZdjdFeEVNZUx2LVVEVEY4aXhyWXJPU3p0SUxmQThWVWhNS19lNUpvRFI4eDVmNHN2THY4cjctN0M1MUtpYjJqTnJxT1Fza013bWFVNktmeEp0UXNISXZiNW05SU4zUUVESE9hRzlscEJvb3ZZdFpFVld2aVdLdzFYcXBlcGZxTHlSRDkwa2dNR295blNB?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [TCTMD.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUFGajM2dUt0QzdNQTN2SGNZS0hOSUtfeXNkQ2dtZXpqY2s2UDZKV3BMSEJaSmhMLWRQVTRZd0NiQnFLblFQQUtSZUltRnFGOEdoc2MxMlRWVWxRdExNcUhmYk44Wm84eldDSWRyZ2ktTFpLU3d0MGFMeWI1dktMQ0hsMA?oc=5)
+Source: [Everyday Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTA2MkdZdjdFeEVNZUx2LVVEVEY4aXhyWXJPU3p0SUxmQThWVWhNS19lNUpvRFI4eDVmNHN2THY4cjctN0M1MUtpYjJqTnJxT1Fza013bWFVNktmeEp0UXNISXZiNW05SU4zUUVESE9hRzlscEJvb3ZZdFpFVld2aVdLdzFYcXBlcGZxTHlSRDkwa2dNR295blNB?oc=5)
 
 ---
 
@@ -111,19 +119,27 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cU
 
 ---
 
-### [Amritsar: ‘Four in 10 Indians may have fatty liver, most are unaware’ - The Tribune](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVdpYWtSQlE1RjJTOFVBTnJqZGIyYnBMNjRCZm5PYjlSZWVVb0NwQVk0MEdLS1R6WmRULVAzV2ZPRFBRMENEbEtFV1VBSlJWOEdNOUJwSk5WLS1STndmU09BaWRyWEEyVzhjVl92OURWWDM1TU5aNnhWRFF1Y0dlUXpkTE93WllKMXlkSmFIWS00LTdhQlJlUkUzMm5qM2E2YlHSAaYBQVVfeXFMTTRPWklMLU91blJpUHYwWUJqWHRxSG9UQ3puWi0tMXd4TDNiVkozRGNMS09VQm9STGU3MXB3M2RaeXZBRVVfeHNrakpMemZIZ0RDNEJjaUZlTVdMNkhPRUhTTmg3bTV3eTUwbElpZFBHT2hXUnFZV3JUeDZ1dXF3OXFrQmtXbHpmTThVNWloSEZXWUotVFR6UkpUUWJTRjI1SFNLZ0JWQQ?oc=5)
+### [Importance of Early Detection in Breast Cancer Care Highlighted - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">cancer</span>
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Tribune](https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVdpYWtSQlE1RjJTOFVBTnJqZGIyYnBMNjRCZm5PYjlSZWVVb0NwQVk0MEdLS1R6WmRULVAzV2ZPRFBRMENEbEtFV1VBSlJWOEdNOUJwSk5WLS1STndmU09BaWRyWEEyVzhjVl92OURWWDM1TU5aNnhWRFF1Y0dlUXpkTE93WllKMXlkSmFIWS00LTdhQlJlUkUzMm5qM2E2YlHSAaYBQVVfeXFMTTRPWklMLU91blJpUHYwWUJqWHRxSG9UQ3puWi0tMXd4TDNiVkozRGNMS09VQm9STGU3MXB3M2RaeXZBRVVfeHNrakpMemZIZ0RDNEJjaUZlTVdMNkhPRUhTTmg3bTV3eTUwbElpZFBHT2hXUnFZV3JUeDZ1dXF3OXFrQmtXbHpmTThVNWloSEZXWUotVFR6UkpUUWJTRjI1SFNLZ0JWQQ?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
 
 ---
 
-### [Diagnosed with early breast cancer? 4 questions to ask your oncologist - India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xaHJCMTlReFhzZWhNaEdxUExZNHZ1S1VtN3VTdXFpNVdBejZQTmplNlV5Njh5Q0hKc2NoaGxraDBHV3ZfQXVmVE8zeFpxd1Q0djlWd3JqT2NvcEI5TmpQWFNnREI0TDFMTFFQcTMzb2hlM2ttT2hkVlpVN05ucGs1TWZvdzFyNWtxdXpyOVY5WmFxLWFHUzdaQ3dQNUxCV1JMSTVEZkdMb3h6SHk3VUtSTHoxYk0xRzZFSEhBYWVQblJBM0HSAcsBQVVfeXFMT3FNRnVKQUh6M2d3cnk0M2JpcHIyYTJwOUt4dXNqMU8wa1pCWUtwVFA5R2hRaVpRUkkyS09sT0FwZjBndm5oWGhlbE83OXFaTHktRGhUQ3JVSndaSDlxUHNfYWZpWG13bHdqXzg2dzNCNjJPOUtHaFdtVUt6QzR2RVdXM2pQN3BWM0VBV1JnQkw4UUh2UWVoTlpLdVoyZDFHVzgxNFpnSkNZMWVoZGF2czdhdG9WSDRTVU11MEtIUjFuemV3dXkwcU1CNm8?oc=5)
+### [Breast Cancer In Younger Women: Experts Call For Greater Awareness And Early Detection - BW Healthcare World](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
 
-2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xaHJCMTlReFhzZWhNaEdxUExZNHZ1S1VtN3VTdXFpNVdBejZQTmplNlV5Njh5Q0hKc2NoaGxraDBHV3ZfQXVmVE8zeFpxd1Q0djlWd3JqT2NvcEI5TmpQWFNnREI0TDFMTFFQcTMzb2hlM2ttT2hkVlpVN05ucGs1TWZvdzFyNWtxdXpyOVY5WmFxLWFHUzdaQ3dQNUxCV1JMSTVEZkdMb3h6SHk3VUtSTHoxYk0xRzZFSEhBYWVQblJBM0HSAcsBQVVfeXFMT3FNRnVKQUh6M2d3cnk0M2JpcHIyYTJwOUt4dXNqMU8wa1pCWUtwVFA5R2hRaVpRUkkyS09sT0FwZjBndm5oWGhlbE83OXFaTHktRGhUQ3JVSndaSDlxUHNfYWZpWG13bHdqXzg2dzNCNjJPOUtHaFdtVUt6QzR2RVdXM2pQN3BWM0VBV1JnQkw4UUh2UWVoTlpLdVoyZDFHVzgxNFpnSkNZMWVoZGF2czdhdG9WSDRTVU11MEtIUjFuemV3dXkwcU1CNm8?oc=5)
+Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
+
+---
+
+### [Obesity in Young Adults Linked to Multiple Early Cancers - MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tRkJyRTIwUlY1b2RlRG1BQnVPODUwU1ZBY2lEWFJwM2tibEkzOExrZjV4YUkxeWZERU5yeEYyU0ZCWTl2REcwcXpudWM5VGJ3ZkJLY0JoUk1xQmU4dnhiemZKQzRkaW4tN21iSEdzM2kxSWpLMFE?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span>
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tRkJyRTIwUlY1b2RlRG1BQnVPODUwU1ZBY2lEWFJwM2tibEkzOExrZjV4YUkxeWZERU5yeEYyU0ZCWTl2REcwcXpudWM5VGJ3ZkJLY0JoUk1xQmU4dnhiemZKQzRkaW4tN21iSEdzM2kxSWpLMFE?oc=5)
 
 ---
 
@@ -132,6 +148,14 @@ Source: [India Today](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUU8xa
 2026-10-26 <span class="news-indication-tag">cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
+
+---
+
+### [When 'Cancer-Free' Isn't The End Of The Conversation: Why Recurrence Risk Matters In Early Breast Cancer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDI3T0tsclRKQ0wzZmlYU25DTWFrZ1h0djdqX0lLaVBLaW1GRml2Y2I0c3hlNVAxb1lMclkyVDBDVXFKSGZVWkExdGlMSE5YRHRTYjJ0WmtQR2J6TldEZ3JHbU1ma2dLd0k3NmdYYTMyalVfZTZub0NTOE41QXpxNXY4eDN3eURRN0FkVERSZVRzeEhBd2tVR0VheDBCVngtcE9lLVA1OEdyTm41bG5wYndDTElkRGZobWVSWHBxcnlCTXc5dGFWQVM1ZEphNlpSZlMzRTg5cDEzWS1CVzJONl9lVFBKUQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDI3T0tsclRKQ0wzZmlYU25DTWFrZ1h0djdqX0lLaVBLaW1GRml2Y2I0c3hlNVAxb1lMclkyVDBDVXFKSGZVWkExdGlMSE5YRHRTYjJ0WmtQR2J6TldEZ3JHbU1ma2dLd0k3NmdYYTMyalVfZTZub0NTOE41QXpxNXY4eDN3eURRN0FkVERSZVRzeEhBd2tVR0VheDBCVngtcE9lLVA1OEdyTm41bG5wYndDTElkRGZobWVSWHBxcnlCTXc5dGFWQVM1ZEphNlpSZlMzRTg5cDEzWS1CVzJONl9lVFBKUQ?oc=5)
 
 ---
 

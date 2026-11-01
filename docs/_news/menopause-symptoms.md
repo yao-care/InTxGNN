@@ -3,7 +3,7 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 4 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>4 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (4)
-
-### [There’s new guidance on menopause symptoms like hot flashes. What women need to know - The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQmFBQUV0UWJPSFh4Nl9KRHRTWkpMQzZmcWZPQnhac2lhNGR6LUc4Q1V6UGEzLXdzVHp2dFdsUjFXRks3VW5ZcThRM3JIZTZkNWdXSHQxWld4VjVsSlpJRmF6Q09nUDlyaFVTVVFMaUVrTThRU2pBbWJBZGxoN1dfZkNXdWo0Q0Z1V2ZFLWw3dWhlV200ZktYaEJBbUZYYlRSZ2RHQldrOWVCb3Z1bHNPSXdKLWxQdmxBYnpyLWl6RmN6cTBKcnU3Z2ZzbURqYjhiSk55allaWmxQWG8?oc=5)
-
-2026-11-01
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQmFBQUV0UWJPSFh4Nl9KRHRTWkpMQzZmcWZPQnhac2lhNGR6LUc4Q1V6UGEzLXdzVHp2dFdsUjFXRks3VW5ZcThRM3JIZTZkNWdXSHQxWld4VjVsSlpJRmF6Q09nUDlyaFVTVVFMaUVrTThRU2pBbWJBZGxoN1dfZkNXdWo0Q0Z1V2ZFLWw3dWhlV200ZktYaEJBbUZYYlRSZ2RHQldrOWVCb3Z1bHNPSXdKLWxQdmxBYnpyLWl6RmN6cTBKcnU3Z2ZzbURqYjhiSk55allaWmxQWG8?oc=5)
-
----
+## Related News (2)
 
 ### [Guest Column | I’m a skeletal biology researcher. Here’s what you need to know about bone loss. - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDJZNVNCUEZxR0NKRER4SDJZVmY5eHpVTkFNblppemd2V0dUQUJUcGN0SFcwVWRyM0pxXzNjMGRIcXNUTlVCdkxueTEzVkJzd2FMSjdiekhjOV9WOU1rN3ptU0gxZW5vV1lOVUZCMnlHOUJWYUROWHRkSUtBeFhXdWYtZEY3OWlxaU9yd29XVnJxR0Z2X3dBSGxtRDRDc3ZReS0zcHQ1T0RKYWF4Tm4xbW02TjhINHpWdmVRVllR?oc=5)
 
@@ -67,14 +59,6 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95c
 2026-10-30
 
 Source: [Patient Care Online](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDFhdG45RGIwVDNYeTNZeERHaXBKVlRIMmJPVmxmY1RKbzZzVUt6QUdLVkozOHN2MG90WVViczNJN0xUZWtLdFItbzFRaERDbGJsLVd2M25GRVF2VXM3aHljMTJsMjY1NjFURENzUXY4bER4aFNJZkZ5SU9WbHpqb2FheEhoOGZ0cHVPQUdmZ1BjdVlFQXJZX0hYUERYVS1mS18tdA?oc=5)
-
----
-
-### [Recognizing Sleep Disturbances in Menopause - Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
-
-2026-10-30
-
-Source: [Contemporary OB/GYN](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS10TzZQNjNjNDBKUWMxOUNtQVNrQUdMd1JPcVFGTjNWb2FUY3c4TmF3OS1keC1UbDlQai1YQ05adlc3aVNaUFQ2VGd0djFXVnMwYV9idXhuTllTQXYtYWEtdHk0aGw4dVZNNnFOaU1IRE85MklkOUFvOUFQcXZnYzNudm9wcElJZ3c?oc=5)
 
 ---
 
