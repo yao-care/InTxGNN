@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 6 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Nearly half of 10 million ton food waste generated annually could help save environment - Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
+
+2026-10-31 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
+
+---
 
 ### [SGLT2 Inhibitors Linked to Higher Haemoglobin and Haematocrit](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU1vbFZYeGc2em9Odll1NUZRNEdaWEJLaWo4dVE4YkNMOV9hUHVDTHNEX3BWME85cTNZWlMtYm5kanFxV3lBNld0aW9uLTdXSTlYR1BPRGtZZkFyOUU1T1VQWkIyaGViRDctOVV0OFlEdVFFUmdlcWhEbER5Z0xqM2RwRktwSk02RnFocVV0T2s4ZGVaQ3JUWVpmenE0ZjdHdFlUc2RuaGU?oc=5)
 

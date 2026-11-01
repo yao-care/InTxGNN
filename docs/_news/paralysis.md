@@ -3,9 +3,9 @@ layout: default
 title: "stroke (paralysis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (paralysis). 4 articles, 15 related drugs."
+description: "Health news about stroke (paralysis). 3 articles, 15 related drugs."
 permalink: /news/paralysis/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # stroke (paralysis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (paralysis)?">
-<strong>stroke (paralysis)</strong> currently has <strong>4 news articles</strong> and 15 related drugs.
+<strong>stroke (paralysis)</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Think you're too young for a stroke? Here's why doctors are concerned - Deccan Herald](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjhxSGRhckUxZnh1aWxhS0N6NDVRTVZXRk1NNldncWNsblpvUkpnUFB4eDl3Q2I1TENrRTNYN1Z3Uk1Ic0gtTU9Rc1BkT0JrSHpNUXJMRW1XY3BuV2hXU0pqSnZYUnJ4N0wwWUp3ZFhJWVlpWmRxXzhZTFhNWElYWEhJbTNwUTRlV3R0SktnRUNrY3dRUV9LWWZlMzVEbHRpcFdndVZybHFQdUwwY25V0gG_AUFVX3lxTFBuOU1UR1NsTUZGWHd6bnpYSEgwWTl0QlBqT1VtS3YtajhmLXA1RFVWVEdOWHhFNU9JTm9UMHdjcTN1X3JVMGFoQ3NJY1U1SHB1YmlaVmp3LVFkYmZIR3VyWWVMaGRLM1B1YWZjSWRraHpZU1ZNTnE0aHVLYUlTeDlwNThibzd4dVJMdHpINFBFTUhEOThmcUY1V0dyMVhWUUpFbmVYdTltMHpkN1hEYkZmYzRrVTVVRVlSMzNyYVk0?oc=5)
 
@@ -62,19 +62,11 @@ Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMivAFBVV95c
 
 ---
 
-### [Ultra-processed foods linked to stronger brain responses and weight gain in children: Study - Connected to India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGJJMnJBZmZjWEo2cUxVbnYybzVYS2ZCaFB6ZXIzajBxeVRJX01BLWpLRnBXV201OHZhbVdvUlVNS0JfZzByc3JDNXNacVpKVUxCSnlZaTMxc1NaYnlJS1NjYW5FSlpaYWdTT0JFd3pVZ24zc2N6eVRsMmlfNE9rUmFoQm1HWE5sTTdpb1JhckVDTFNEWkxIVGNPdEROYUhpX3RGdzlkYXRJWk9rdFFtMC1oSUE2ODFGdDNoeXVYeGdjZw?oc=5)
+### [World Brain Stroke Day 2026: Can air pollution cause brain stroke](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
 
-2026-10-30
+2026-10-29
 
-Source: [Connected to India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGJJMnJBZmZjWEo2cUxVbnYybzVYS2ZCaFB6ZXIzajBxeVRJX01BLWpLRnBXV201OHZhbVdvUlVNS0JfZzByc3JDNXNacVpKVUxCSnlZaTMxc1NaYnlJS1NjYW5FSlpaYWdTT0JFd3pVZ24zc2N6eVRsMmlfNE9rUmFoQm1HWE5sTTdpb1JhckVDTFNEWkxIVGNPdEROYUhpX3RGdzlkYXRJWk9rdFFtMC1oSUE2ODFGdDNoeXVYeGdjZw?oc=5)
-
----
-
-### [How a scientist who studies dementia protects himself from bad air - The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3BBMTZGTW1MUGhqTUR6blNBR2dkRUJjOHFEemRMamRBQ2VBZG9MQzEtZ2M0bTNScEV5bHpGS2xtUkVmMVZsVXpfeU02VVJLV1lqNzRSOFdqQ1IzNFRBOTlheFVSZEsxR3Ezcjl6M0tYaUhxQnRvWlRjTFRKLWNHTGE5SndzZmxuckI2TEtIQ0d5UUsycVFaUFA1a3dlaGdPWWd0QkktREFHbWdzYlE?oc=5)
-
-2026-10-26
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3BBMTZGTW1MUGhqTUR6blNBR2dkRUJjOHFEemRMamRBQ2VBZG9MQzEtZ2M0bTNScEV5bHpGS2xtUkVmMVZsVXpfeU02VVJLV1lqNzRSOFdqQ1IzNFRBOTlheFVSZEsxR3Ezcjl6M0tYaUhxQnRvWlRjTFRKLWNHTGE5SndzZmxuckI2TEtIQ0d5UUsycVFaUFA1a3dlaGdPWWd0QkktREFHbWdzYlE?oc=5)
+Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
 
 ---
 
