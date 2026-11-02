@@ -1,10 +1,46 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-11-01T21:23:51.797417+00:00",
-  "total_fetched": 137,
-  "unique_count": 137,
-  "health_related_count": 79,
+  "fetched_at": "2026-11-02T02:52:42.903233+00:00",
+  "total_fetched": 140,
+  "unique_count": 140,
+  "health_related_count": 83,
   "news": [
+    {
+      "id": "8b105480f0c0",
+      "title": "The Links Between Napping And Dementia May Go Further Than We Realized - ScienceAlert",
+      "published": "2026-11-02T01:04:52+00:00",
+      "summary": "The Links Between Napping And Dementia May Go Further Than We Realized&nbsp;&nbsp;ScienceAlertJohns Hopkins Researchers Say One Common Daytime Habit Could Be An Early Sign Of Dementia, And Many People Over 65 Do It Most Days&nbsp;&nbsp;GraziaNappers beware: Dementia (maybe) ahead&nbsp;&nbsp;McKnight's Long-Term Care NewsNodding off easily and often may be linked to higher dementia risk&nbsp;&nbsp;AOL.comDementia: the everyday habit that may show up years before a diagnosis&nbsp;&nbsp;Futura, le ",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "732feac67d07",
+      "title": "​Lower back pain relief: 6 drug-free treatments that may help, and warning signs you should never ignore​ - The Times of India",
+      "published": "2026-11-01T23:53:01+00:00",
+      "summary": "​Lower back pain relief: 6 drug-free treatments that may help, and warning signs you should never ignore​&nbsp;&nbsp;The Times of India5 Cost-Effective Treatments For Back Pain That Beat Standard Care&nbsp;&nbsp;MindBodyGreenGuideline-Recommended Back Pain Treatments Mostly Offer Good Value for Money&nbsp;&nbsp;bioengineer.orgSystematic review identifies cost-effective methods for low back pain — News-Medical&nbsp;&nbsp;UA.NEWSGot lower back pain? The 6 methods proven to fix it - plus when it's ",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQS2xzdF80MnZ6UmRGTnM3NHBXZVpwSi1QNDAtcUloOGlrVlBxbmgxdFFGU0JubmdWWEpzQU0wNF9MUWhmWVlLYzBaaS05MlVHV0pvX0hOcHhPQmRCcU5tTVB1Q3hzd0drLWhYOUxvRDY2U3pfSEh1NXZraFY3MHgwZDFobnA3SFdxZHJ1QW1LVDhtRmk3UEI1VlUyRnlHRGNTem92c2dTLUFIMUxwbVNSRjhqRlp0cmswZFYzQWxEM3ZHRWQ1aTVPWmRkd2d6bWFlNDc5cDNQc3cwdU9fZk1MTDJhcmc0d2s4RTJZdzdVNWlDX1d3dXUzSThaZDgyOU5ybzFQSW9BLU5RQdIBkgJBVV95cUxPWHdZV2N4c3U2S1Nfcld5RUw1bGJtYXNFaXJLOUN3UDRGVUJ6MjJ6WG9XLUlEaWxLV0x3cjZ1cWxHVG9sOXBGaDVGZTQ1WmhTUXpDYVFQN0hGY3pqSUJDMGppb3pybEVQZ203WjMxLUVzcGstNnNRSUhxM211YllGcFhpcjc5bWVFdGlhTXM2d1Y2TFpyMVp3a1hnQ0NqdjVZalNhQmlTQUpnZ2F1aDVWbmRNdDZwZHBGd2ROSW8yeksxa0QwWkNJZFpxYUF2a2syMldxVDdKbXZ2bFpDbnZQcjJEdThEUjR0UmJvQ2hQYWMyVy1VbENxemdfUTlyZE4xUmRhQ0RjTHFab3B2bTMyTHJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cffcc06fe9a8",
+      "title": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates - Phys.org",
+      "published": "2026-11-01T22:00:01+00:00",
+      "summary": "Collective human metabolism produces 2 billion metric tons of CO₂ a year, global study estimates&nbsp;&nbsp;Phys.org",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UEtXNUdpMzFyS2hwQWs5SWFjUF94cUZRNTNPOUN1alZtX01POHozRFFYU1pIRGQ3ODRoUDZIZE14akxUY2xSMHQ1blZHOGhLS0ktTWlXZnF2SkY4a0RSbkh6akVSU0g0eUFaRWhqaUF0SWRub2RlNTFSdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "bb037f59b661",
       "title": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest - Phys.org",
@@ -45,11 +81,23 @@
       "id": "a71db2d24cf4",
       "title": "Scientists have what they say is one of the oldest Mars meteorites - The Washington Post",
       "published": "2026-11-01T17:00:00+00:00",
-      "summary": "Scientists have what they say is one of the oldest Mars meteorites&nbsp;&nbsp;The Washington PostMartian meteorite found in the Sahara is 4.1 billion years old&nbsp;&nbsp;ReutersIn 2022, an 800-gram pink rock was found in the Sahara Desert; NASA-funded researchers have now confirmed it came from Mars more than 4.1 billion years ago and preserves signs of the planet's ancient water&nbsp;&nbsp;The Times of IndiaSlice of Martian Meteorite Teghaza 001&nbsp;&nbsp;NASA Science (.gov)Study Reveals Deta",
+      "summary": "Scientists have what they say is one of the oldest Mars meteorites&nbsp;&nbsp;The Washington PostA Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars&nbsp;&nbsp;The New York TimesMartian meteorite found in the Sahara is 4.1 billion years old&nbsp;&nbsp;ReutersNASA-funded Study Details One of Oldest Mars Meteorites Ever Found&nbsp;&nbsp;NASA (.gov)In 2022, an 800-gram pink rock was found in the Sahara Desert; NASA-funded researchers have now confirmed it came from Mars more tha",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUTlzbDhYeWEwdHBaVFFEd1RleGswTXRpQkoxdmQ4dmlMVGE1YTlLWlZ5Ti1Uai1ZVThBRWNVRUFVNjZFdWlEMnd6cUtpUDBvc19xd09JaDVlVHZaV291WGlfYnVJWTBteV9Qc051eVpSTXRIclhEZ3FVbjBJWC04a1lWYXBEUGxEVWRqZGxVVTdlRm13aUtERExlVGdkLTdQckEyNldKTkpBS1BtWUFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32e2eeb733bf",
+      "title": "A scorching planet that should have lost its atmosphere billions of years ago still has one - Earth.com",
+      "published": "2026-11-01T16:16:12+00:00",
+      "summary": "A scorching planet that should have lost its atmosphere billions of years ago still has one&nbsp;&nbsp;Earth.comLava planet's 'sunscreen' clouds reflect 75% starlight: Study | The study was done by University of Birmingham | Inshorts&nbsp;&nbsp;InshortsJames Webb discovers a scorching lava planet with a “giant sunscreen”&nbsp;&nbsp;Science DailyThis lava planet shouldn’t have an atmosphere—but it does&nbsp;&nbsp;Popular ScienceThink Halloween is scary? This scorched alien world is a real-life co",
+      "sources": [
+        {
+          "name": "Earth.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONThxd2lKVDJ3blduOGR5dTlTNktKRDMwZ3dDd2VZVjJYbnV6UHRwNUtEc1U1TkdKNHAtTDlpR1hraVBOVk1tcFdaTkEzNlFqUnJzTk1DZkVlTlg3SlFvOWR2SnhSWDdEdTB1REJmNFJ5eTA5am5ucU9kTlNFUzlfZjJsbXNnaHlYSFdqcm5yYnJqanF4YmlXaW5vVEJndjBvUkY2bVJFWjQ1cVFNb3RhNXdQUk9mUGZISEJNQQ?oc=5"
         }
       ]
     },
@@ -66,10 +114,22 @@
       ]
     },
     {
+      "id": "311939037e4a",
+      "title": "The 2026 Nobel prize in Physics: In conversation with Teppei Katori - Roar News",
+      "published": "2026-11-01T14:51:07+00:00",
+      "summary": "The 2026 Nobel prize in Physics: In conversation with Teppei Katori&nbsp;&nbsp;Roar NewsFiguring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin&nbsp;&nbsp;Phys.orgDrexel physicists' research recognized in Nobel Prize&nbsp;&nbsp;Drexel TriangleAlexandria alum played a role in Nobel Prize-winning research&nbsp;&nbsp;Alexandria Echo PressNobel Prize in Physics 2026: Served on the Rocks — IceCube and theDiscovery of High-Energy Neutrinos&nbsp",
+      "sources": [
+        {
+          "name": "Roar News",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFdWLXRPMzl4S2VzLTJWQTFpeGxkN2oxeGFZOUhVWmpaQXoxT05YbVp1aTRXbXFQWDVGNTcwVVU5OFlYOHUxdzFrNUlDR284clFyQTNSRWtKa25vVmcyT3VnM3Rza25XWERQQ2Nhd0Q5bHdLVGROSXMyTUR6VFBJSi1ON1libVFkazY4TDR4VE5PZjlnWTNpXzRoVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3115f82c53f2",
       "title": "WHO sets new targets for long-acting tuberculosis injections - Deccan Herald",
       "published": "2026-11-01T14:44:44+00:00",
-      "summary": "WHO sets new targets for long-acting tuberculosis injections&nbsp;&nbsp;Deccan HeraldWHO releases target regimen profiles for long-acting injectables for TB&nbsp;&nbsp;World Health Organization (WHO)Single-Shot Tuberculosis Prevention, Shorter Treatment Regimens: WHO Sets Global Targets&nbsp;&nbsp;NDTVWhy Tuberculosis Still Kills Millions Despite a Vaccine and Effective Treatment&nbsp;&nbsp;ColombiaOne.comWHO Sets New Targets For TB Injections, Aims To Simplify Prevention And Treatment&nbsp;&nbs",
+      "summary": "WHO sets new targets for long-acting tuberculosis injections&nbsp;&nbsp;Deccan HeraldWHO releases target regimen profiles for long-acting injectables for TB&nbsp;&nbsp;World Health Organization (WHO)Single-Shot Tuberculosis Prevention, Shorter Treatment Regimens: WHO Sets Global Targets&nbsp;&nbsp;NDTVWhy Tuberculosis Still Kills Millions Despite a Vaccine and Effective Treatment&nbsp;&nbsp;ColombiaOne.comWHO releases target regimen profiles for long-acting injectables for TB prevention and trea",
       "sources": [
         {
           "name": "Deccan Herald",
@@ -93,7 +153,7 @@
       "id": "e85a3cfa23e0",
       "title": "Death Rate Due To Alcohol Consumption May Differ By Beverage Type: Study Based On 340,000 Adults - Health and Me",
       "published": "2026-11-01T14:00:00+00:00",
-      "summary": "Death Rate Due To Alcohol Consumption May Differ By Beverage Type: Study Based On 340,000 Adults&nbsp;&nbsp;Health and MeBeer, wine or spirits: A large study finds different mortality patterns for each&nbsp;&nbsp;News-MedicalModerate Alcohol Consumption and Health Risks Study Finds One in 25 Lifetime Risk at 14 Drinks a Week&nbsp;&nbsp;Aabkari TimesDoes Drinking Wine Lead to a Longer Life? What a New Study Reveals&nbsp;&nbsp;Yahoo Life UKStudy finds that two drinks a day may be riskier than you ",
+      "summary": "Death Rate Due To Alcohol Consumption May Differ By Beverage Type: Study Based On 340,000 Adults&nbsp;&nbsp;Health and MeModerate Alcohol Consumption and Health Risks Study Finds One in 25 Lifetime Risk at 14 Drinks a Week&nbsp;&nbsp;Aabkari TimesDoes Drinking Wine Lead to a Longer Life? What a New Study Reveals&nbsp;&nbsp;Yahoo Life UKStudy finds that two drinks a day may be riskier than you think!&nbsp;&nbsp;The Times of IndiaEven two drinks a day may increase Risk of Premature Death, Cancer a",
       "sources": [
         {
           "name": "Health and Me",
@@ -110,18 +170,6 @@
         {
           "name": "Metro Vaartha",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnVQaEZKN0F2d1p4Q0RCSHpYMjlDdUtlWEhkYW9UWjlLSDhqWkVNTjhNajJrQWZJc21HY0NhNl9IbXI4UnVaSzM3V2tKREM5ZU1HeVhmSzM1Rmg4aVZyc2hlbFZlRnp6YVM4QXdmTmZZWWFHb19vUnNHN0JoQjdDZHh6YmJoNnpFVUpIbzhGZF9ucDdBV3JSRWdrWm9qdldnbk9vNW90cV9wT2RVS2w4bFdRXzAxSkpFb0s0VDQ0NNIBzAFBVV95cUxPVzAxc1N0WHVQRklWNW9remhSWk5pQ2Vobm1LOHFlaFdXdVJGcDlfYXE1bWltXzc5Y2pjaFNFenpoV1IxQnlMdElkbHBRV09Oay0zWmdnd005SENMZ2xCc2tSZlREcVpMZ0NJWDBzOHhkRmJkcmZoN1JjenFPSEl2a1AxZ09RbHdRM2RZb29MWFZRYW1sY00wR2xyeDNoeGR5R1VPS1VkR0xQbGpoR3NxMnJaMnNmS3RQSEJRU1dDYlFkeV9sS1NWNmJXZ04?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8b2cd3fd3d8",
-      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall? - Space",
-      "published": "2026-11-01T13:00:00+00:00",
-      "summary": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?&nbsp;&nbsp;SpaceNASA satellite to plunge back to Earth after 22 years in space&nbsp;&nbsp;NBC26Nasa Swift telescope set to crash back to Earth, India among regions in debris path&nbsp;&nbsp;The Times of IndiaSWIFT Reentry Watch as Gamma-Ray Observatory's Orbit Decays&nbsp;&nbsp;KeepTrackNASA’s Swift Observatory Expected to Burn Up in Atmospheric Reentry Following Failed Commercial Rescue&nbsp;&nbsp;SatNews Publishers",
-      "sources": [
-        {
-          "name": "Space",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelBCZGZWUnQtbjByOVpCM19kUFFFY0hkQ0NkRDE5YV9US1p3aDY1ZkdoSFY4bERRSjNvREJacjdTdTZnS3Z1dmRtZHJGVkJ3c2Jwc1BvMlM5UlU0Rk9ESTVfdVNoY29aWHBGZHNDSk1tazdHWTltUmhURTlJNjMxRGc0RXlxMi10Wi10bVNIYWVqei1fZHZta1h2dngzQWswMDl1ejVvekpaQzNUZXdyVzNwMlFWVkpjVDJLSVhrbw?oc=5"
         }
       ]
     },
@@ -153,7 +201,7 @@
       "id": "93c0a0355da8",
       "title": "WHO Certifies Barbados For Eliminating Mother-To-Child HIV Transmission: How It Achieved The Milestone - Health and Me",
       "published": "2026-11-01T09:30:00+00:00",
-      "summary": "WHO Certifies Barbados For Eliminating Mother-To-Child HIV Transmission: How It Achieved The Milestone&nbsp;&nbsp;Health and MeBarbados eliminates mother-to-child transmission of HIV&nbsp;&nbsp;World Health Organization (WHO)Barbados meets global HIV targets&nbsp;&nbsp;Barbados TodayFrom HIV diagnosis to a child born HIV-free: Sarah's story in Barbados&nbsp;&nbsp;Pan American Health Organization (PAHO)UNAIDS congratulates Barbados on eliminating vertical transmission of HIV&nbsp;&nbsp;UNAIDS",
+      "summary": "WHO Certifies Barbados For Eliminating Mother-To-Child HIV Transmission: How It Achieved The Milestone&nbsp;&nbsp;Health and MeBarbados eliminates mother-to-child transmission of HIV&nbsp;&nbsp;World Health Organization (WHO)Barbados meets global HIV targets&nbsp;&nbsp;Barbados TodayWHO | Barbados eliminates mother-to-child transmission of HIV&nbsp;&nbsp;European AIDS Treatment GroupUNAIDS congratulates Barbados on eliminating vertical transmission of HIV&nbsp;&nbsp;UNAIDS",
       "sources": [
         {
           "name": "Health and Me",
@@ -177,7 +225,7 @@
       "id": "4796d071f15a",
       "title": "A new fossil from China may reveal the first amphibian known to have lived entirely at sea; the armoured, - The Times of India",
       "published": "2026-11-01T07:46:00+00:00",
-      "summary": "A new fossil from China may reveal the first amphibian known to have lived entirely at sea; the armoured,&nbsp;&nbsp;The Times of IndiaResearchers discover first fully marine stem amphibian in Late Triassic fossils&nbsp;&nbsp;XinhuaScientists Discovered a 237-Million-Year-Old Sea Monster, and It's Changing What We Know About Amphibians&nbsp;&nbsp;VICEAmphibians Aren't Supposed to Live in the Ocean. 237 Million Years Ago, This Armored Creature Did&nbsp;&nbsp;ZME ScienceA fully marine stem amphibi",
+      "summary": "A new fossil from China may reveal the first amphibian known to have lived entirely at sea; the armoured,&nbsp;&nbsp;The Times of IndiaResearchers discover first fully marine stem amphibian in Late Triassic fossils&nbsp;&nbsp;China Daily Global EditionScientists Discovered a 237-Million-Year-Old Sea Monster, and It's Changing What We Know About Amphibians&nbsp;&nbsp;VICEAmphibians Aren't Supposed to Live in the Ocean. 237 Million Years Ago, This Armored Creature Did&nbsp;&nbsp;ZME ScienceGerroth",
       "sources": [
         {
           "name": "The Times of India",
@@ -234,6 +282,18 @@
       ]
     },
     {
+      "id": "11b81139c74c",
+      "title": "When dementia strikes a family — Hazwani Ahmad Yusof @ Hanafi - Malay Mail",
+      "published": "2026-11-01T04:52:17+00:00",
+      "summary": "When dementia strikes a family — Hazwani Ahmad Yusof @ Hanafi&nbsp;&nbsp;Malay MailNormal Aging or Something More? Memory Changes You Shouldn't Ignore&nbsp;&nbsp;Baptist HealthNeurologists Reveal The Overlooked Signs Of Alzheimer's They Wish Everyone Knew&nbsp;&nbsp;Yahoo HealthDementia not a normal part of ageing, early recognition key: experts&nbsp;&nbsp;Awaz The Voice",
+      "sources": [
+        {
+          "name": "Malay Mail",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e5567fdb6e5f",
       "title": "Is brown rice really healthier than white rice? - Hindustan Times",
       "published": "2026-11-01T04:15:23+00:00",
@@ -270,22 +330,10 @@
       ]
     },
     {
-      "id": "d887020afdfd",
-      "title": "‘Like sand in my eye’: treatment gives hope to patients - Starts at 60",
-      "published": "2026-10-31T23:35:46+00:00",
-      "summary": "‘Like sand in my eye’: treatment gives hope to patients&nbsp;&nbsp;Starts at 60PBS listings to help children with cystic fibrosis, plus patients with blood cancer and thyroid disease&nbsp;&nbsp;Australian Government Department of Health, Disability and Ageing'Like sand in my eye': treatment gives hope to patients&nbsp;&nbsp;The Canberra TimesAlison had two surgeries for this condition. She hopes others will be spared the same&nbsp;&nbsp;Illawarra MercuryAustralians with thyroid eye disease gain ",
-      "sources": [
-        {
-          "name": "Starts at 60",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bcdb7e3828bf",
       "title": "Nearly half of 10 million ton food waste generated annually could help save environment - Interesting Engineering",
       "published": "2026-10-31T23:19:00+00:00",
-      "summary": "Nearly half of 10 million ton food waste generated annually could help save environment&nbsp;&nbsp;Interesting EngineeringDiscarded fruit and vegetable parts offer overlooked fiber benefits&nbsp;&nbsp;News-MedicalBiggest fibre boost could be scraps in your bin, experts say&nbsp;&nbsp;BBCScientists confirm fruit and vegetable skin really is good for you&nbsp;&nbsp;New ScientistFruit Peels and Cores Pack More Fiber Than the Flesh, Study Finds&nbsp;&nbsp;Seoul Economic Daily",
+      "summary": "Nearly half of 10 million ton food waste generated annually could help save environment&nbsp;&nbsp;Interesting EngineeringDiscarded fruit and vegetable parts offer overlooked fiber benefits&nbsp;&nbsp;News-MedicalScientists confirm fruit and vegetable skin really is good for you&nbsp;&nbsp;New ScientistStop binning these common foods that can help you lower your heart disease and cancer risk&nbsp;&nbsp;Yahoo News New ZealandFruit Peels and Cores Pack More Fiber Than the Flesh, Study Finds&nbsp;&",
       "sources": [
         {
           "name": "Interesting Engineering",
@@ -333,7 +381,7 @@
       "id": "d8b88ef11b53",
       "title": "Manipal Hospitals Urges Early Stroke Detection Through BE FAST Approach - BW Healthcare World",
       "published": "2026-10-31T17:40:43+00:00",
-      "summary": "Manipal Hospitals Urges Early Stroke Detection Through BE FAST Approach&nbsp;&nbsp;BW Healthcare WorldCMC observes World Stroke Day&nbsp;&nbsp;The HinduWorld Stroke Day: Nadda Urges Citizens to Recognise Stroke Warning Signs&nbsp;&nbsp;News On AIREvery second counts: A neurologist explains how a quick response to stroke can save lives and preserve brain function&nbsp;&nbsp;Hindustan TimesTableau creates stroke awareness&nbsp;&nbsp;Star of Mysore",
+      "summary": "Manipal Hospitals Urges Early Stroke Detection Through BE FAST Approach&nbsp;&nbsp;BW Healthcare WorldCMC observes World Stroke Day&nbsp;&nbsp;The HinduWorld Stroke Day: Nadda Urges Citizens to Recognise Stroke Warning Signs&nbsp;&nbsp;News On AIREvery second counts: A neurologist explains how a quick response to stroke can save lives and preserve brain function&nbsp;&nbsp;Hindustan TimesA missed 4.5-hour window: Stroke care’s biggest race begins at home, not in the emergency room&nbsp;&nbsp;Fir",
       "sources": [
         {
           "name": "BW Healthcare World",
@@ -350,6 +398,18 @@
         {
           "name": "NewsBytes",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMjNRN0JjUXNjUXM5UzhlZ1VSejFrd1NBOHdjbEVYb2c2WHprZnUxWFdYaVhpWWxoM2JubWRjRHg3ZzdIRWw5bWxoa0plSElNVmUwZkJNUlUwMC1jb0JBekhKUWkyZW9MRFZlVk4zTE9VRVJXOGs1bGt4RVY5TG5DU3ozUlBPMGNfeElVVkVFR05qRmVuYUc4STJZOHZJNkUzUnJ2TXgtYmg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e423c5b24d04",
+      "title": "Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction - SciTechDaily",
+      "published": "2026-10-31T16:36:19+00:00",
+      "summary": "Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction&nbsp;&nbsp;SciTechDailyProtein fibers, a hallmark of Alzheimer's, spotted making genetic deliveries to sperm cells&nbsp;&nbsp;Phys.orgAmyloid fibers help sperm deliver RNA to mouse embryos&nbsp;&nbsp;News-MedicalA Protein Structure Linked to Alzheimer’s Has a Secret Job in Sperm&nbsp;&nbsp;ZME ScienceDad’s Diet May Reach Embryos Via Alzheimer’s-Like Clumps In Semen&nbsp;&nbsp;StudyFinds",
+      "sources": [
+        {
+          "name": "SciTechDaily",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3pYVjYzX3lFSzFzdG9CeTRLWmxWUGgyWFp4OUMxRHhTRHg4UTNGaGRiUjZsWGt0eFJOWmNOYmZqTlJRWTNWRVdoZ2EtNGtjMG9RMDFjM3JFUVl4MEFrXzVTUXRfdDBoQ0VibDV1RnFMdmQ4LWlZUlVUSnFGaGpSaGpWLWgtdGktbzRPaVN4R28wN3hsY1RUSg?oc=5"
         }
       ]
     },
@@ -402,18 +462,6 @@
       ]
     },
     {
-      "id": "d2ab43eb3530",
-      "title": "Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer - EMJ",
-      "published": "2026-10-31T13:01:58+00:00",
-      "summary": "Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c4e84161f4c3",
       "title": "Did comets really start life on Earth? New study challenges long-held theory - The Times of India",
       "published": "2026-10-31T12:19:00+00:00",
@@ -422,6 +470,18 @@
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGJlb2Y1dVVlelI1bk85OVhrVk52Y0prV1RsblRtU0JDZEE1WXhXRVBsQmk1R2w1UVQ1U09ZRGRHOVhDWlUxQlJfelFyLXg1a1FRRER5VHc2VndzdUFiRGtXSlplMGFMdUtEbWkyamNXRUxIN1ZtT1prU1FySFdJX1ctb0plTXQ4SVlDaV83UUpXQXRDbnJWRVdTTF9USjdVZF9mRkpYYVhsR2JyRmZ5Z2x6OFZ2OGJWOE8zUEhrSnJNN21YYl9RUV9SWTljUWh4T0IyelNXRWNIb1dnc1HSAeMBQVVfeXFMT0FJUXpfZjNuZF9OMXEzVVhJOGdWdnB1cHg4ME5mYzRXblJMblFWWjdqMDBEUkZ0Sk95eFkwX1RkSkZ4YmJaMEZkYkhhZ3BpLVRyM2g5Uk9jdlhJVHN6Y3ZOY0Y0Z1ltb0xvR3J0TTNVdzFQc05YVkw5XzBKSVl4TW9reXo4UUVpeFpEZ3NiblJQMkdHZTFoWVBlQnhkVk9CbTFieDRiTENrSVBQbHRKQmdyZHViaWFncEI5QUpzRDVncVhxVFdDS0RkN1VIQjQyYlVlV3dKU0pPRktFR1BUZl9ra28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea3e834c0385",
+      "title": "This type of walking is better for healthy aging, according to a new study - Fit&Well",
+      "published": "2026-10-31T12:00:00+00:00",
+      "summary": "This type of walking is better for healthy aging, according to a new study&nbsp;&nbsp;Fit&amp;WellSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Fit&Well",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWtSZ3FOc3UwazJWMU95S1FLbVZCcGxWTEluX3BDQkxJNjZfdm0xWUU2MzZxSDJDN0hxQ0NQcTNyQl81V1ZSZ0JIVzJxc0xwbk5NbHRCWTVBVjRZV01aV1Q4M3ZPTnh6RGZ4S096ck4taWJqNEk4cDNQWG5PS3VNQjAwY0RDVzBRcVpTODh5bVZ5cllHbzVsNUNUb3BqOGhQUWZuSDZoLUlIeUs3bUVjWW5zR1YxT1VZ?oc=5"
         }
       ]
     },
@@ -438,18 +498,6 @@
       ]
     },
     {
-      "id": "bc55ae82244b",
-      "title": "SGLT2 Inhibitors Linked to Higher Haemoglobin and Haematocrit - EMJ",
-      "published": "2026-10-31T11:01:52+00:00",
-      "summary": "SGLT2 Inhibitors Linked to Higher Haemoglobin and Haematocrit&nbsp;&nbsp;EMJLarge meta-analysis sheds new light on how SGLT2 inhibitors affect blood and iron parameters&nbsp;&nbsp;Medical XpressTaking Jardiance, Farxiga or Another SGLT2 Pill? Your Next Blood Test May Show Slightly Higher Hemoglobin Levels&nbsp;&nbsp;Medical DailySGLT2 Inhibitors Linked to Modest Increases in Hemoglobin and Hematocrit: Study&nbsp;&nbsp;Medical Dialogues",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU1vbFZYeGc2em9Odll1NUZRNEdaWEJLaWo4dVE4YkNMOV9hUHVDTHNEX3BWME85cTNZWlMtYm5kanFxV3lBNld0aW9uLTdXSTlYR1BPRGtZZkFyOUU1T1VQWkIyaGViRDctOVV0OFlEdVFFUmdlcWhEbER5Z0xqM2RwRktwSk02RnFocVV0T2s4ZGVaQ3JUWVpmenE0ZjdHdFlUc2RuaGU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e482ec0f6f6d",
       "title": "Older Adults With Sarcopenia May Be Losing Muscle Unevenly - Yahoo",
       "published": "2026-10-31T09:05:00+00:00",
@@ -458,6 +506,18 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1hVQ3ZNRFZNbUhTLWp4WktuMWpWRVN1bnYwNGRVRHQ1emthTWJ1WmYyS3B0MndzOEVPZ01TUXdDY3k5OGpraFl5LUZPUS16akdkMVFxSjU2UGlSZVZoeHJIZVdNWHhDMHNicjMtWExTMTlPZ2gtNl96dEZjQWtYWTdkTjducGc4MGRnM2RXbWdxckpM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ed44ac062d8",
+      "title": "Watch 9News Latest Stories - Season 2026 - Expanded PBS listing gives young children access to cystic fibrosis drug - 9Now",
+      "published": "2026-10-31T08:15:38+00:00",
+      "summary": "Watch 9News Latest Stories - Season 2026 - Expanded PBS listing gives young children access to cystic fibrosis drug&nbsp;&nbsp;9NowSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "9Now",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVRsc1VqV3JYc0ZxQ0VNUnkwWGhCZUZHU29qRVFqQVA4bzI5bFlmUzRlZUlnbW16WUVRMV9fbXdRWGMyRG45UVVjNEE2c2U2WGRlNElBTS1FN0RMbmNGWHktdWd0Z0c2NWNDUEdVa2JyUXBhQndESkhoR056WG5pSFp0RDhYMk0zbU10UQ?oc=5"
         }
       ]
     },
@@ -486,6 +546,18 @@
       ]
     },
     {
+      "id": "3fb66ca44544",
+      "title": "Feasibility and Short-Term Outcomes of Desensitization in Sensitized Kidney Transplant Candidates: A Prospective Single-Center Observational Study From India - Cureus",
+      "published": "2026-10-31T05:29:51+00:00",
+      "summary": "Feasibility and Short-Term Outcomes of Desensitization in Sensitized Kidney Transplant Candidates: A Prospective Single-Center Observational Study From India&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQMTNkb290YjJTVVVGUVUyUE1pWUd2blVBMFpQQWp3NUZzVGFSRGhya2FfSWp2a1hRcjJ3RlI3SmVhd3lsNHNWNkdTUFllWWdSNVBndUVlVzFVaVNWcDc2RU1wS1ZkOERzUjR3RTB3RXk5UEFJUkV6b2hvUS1tZHAyZFFtQkxHUjlyUFhGV05MUmwwRzQ1UWluMXNXQmdNYTg4YUFCVGNVdkoyMXhxNEdlYWs2WUUybTJDYjIxdUxCRFZfdmJvaFowamU2NXgxWlJjLTcwZWZPQjlfWFAxWHA2S281aXpBZ0ppUUIzWm05QnVDeHF1QmxGQ0dDMUQyMXd6aDBUaHVuaU9hcDdNWUJndmkwNmc1aWFXYWdzSFlCcks?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a6165b517f9c",
       "title": "Clinical Characteristics and Outcomes of Patients Undergoing Emergency Surgery for Intestinal Obstruction at a Tertiary Care Centre in Eastern India - Cureus",
       "published": "2026-10-31T04:39:51+00:00",
@@ -510,66 +582,6 @@
       ]
     },
     {
-      "id": "655882766e95",
-      "title": "Psychedelic drug offers new route out of stubborn depression | Hindustan Times - Hindustan Times",
-      "published": "2026-10-31T01:36:12+00:00",
-      "summary": "Psychedelic drug offers new route out of stubborn depression | Hindustan Times&nbsp;&nbsp;Hindustan TimesSingle dose of fast-acting psychedelic nasal spray shows promise for stubborn depression&nbsp;&nbsp;Medical XpressNose Spray Made From Toad Venom Compound Quickly Eases Depression For Weeks in Clinical Trial&nbsp;&nbsp;ScienceAlertOne dose of psychedelic nasal spray eased depression for eight weeks, study finds&nbsp;&nbsp;YnetnewsPsychedelic nasal spray treats depression with toad-inspired go",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYTlXT0ZMbTUtb3BYakl3YUFhbGRsWnQxSjQ5c1V3bjJyWEgyRVgtRFJpWFZCeEJ4OGFPU052eGRFZ0pGS2p4U1d1bzVzNDhUcTdnOC16WEp4RHRQRTR3NmM0M2ozNk8xczNnRzg2d0s3R3RKTWxPTjFKM1d0d045VEZiSFI1U1gxdk5NQkFCcnZCQmtvakhVSEMxY3k2UnRaRWwyYUUweTFRQWxzUFRrX2hlSnFZNm9rRV9QMUpB0gHDAUFVX3lxTE8xSC1WVW85bFhnNjlLODlGZlFtampJRnpvcjN0V2NZQUd0MXNsYzZSbDJudTV0aEg5a1ZnX29xSVg0LUtSRm80R0xwNkVjWlZQSDlNR0g2R3NBYTVwUVZ4RUdNTW9sLTRRMWVUd1VPanFuaVJOY2pEeHh1dFZYZEFxemlXMnJTX1k4cjFRdzlmTzlFX3J2dzA0cklndmdSRTJfenR2dnBma1QwXzQ5Qko4dk5QWHdMMDJLNzloSWhWTHNNYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed258788f469",
-      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin - Phys.org",
-      "published": "2026-10-31T00:20:01+00:00",
-      "summary": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin&nbsp;&nbsp;Phys.orgThe 2026 Nobel prize in Physics: In conversation with Teppei Katori&nbsp;&nbsp;Roar NewsDrexel physicists' research recognized in Nobel Prize&nbsp;&nbsp;Drexel TriangleAlexandria alum played a role in Nobel Prize-winning research&nbsp;&nbsp;Alexandria Echo PressNobel Prize in Physics 2026: Served on the Rocks — IceCube and theDiscovery of High-Energy Neutrinos&nbsp",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xY1VfdzFaYkhzRW1fQnI0Y0wzR0lpbDFDOWsxdnlCZ3ByUUQzeGJ0OWlzallTVWVsY0lfNGdlQ01iYjd1a2NpeFBud2ZzUUVkWDE2TmdfN3A5N2FrR3RtaW55YTlMdnduSndBWHdwblMzYVJwdXpZYm1zT2hXZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95ae5cce3e13",
-      "title": "Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab - ScienceAlert",
-      "published": "2026-10-31T00:04:52+00:00",
-      "summary": "Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab&nbsp;&nbsp;ScienceAlert",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlONjZzMVVUQmNLRzBETkNDeEI4NE11bEU4NHZOR0FQU1BhWkUzVGNPWTcycmprSFlnc2RUaVNZU3dtclZDdHJodFNrcUtyM3YtWDBWbldMZHVGWGNpNnc3eW5TdmRhZnB4WExFb1pKVnZvUnZDaDlneWZKbjhPZ2dzLXlZVUc1M3oxOUVVV1VqUGdPamh1azExYWs4NE5neGNONnFsMXpsUjl3ejEw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ae2690a47bc",
-      "title": "Air pollution does not just harm your lungs, it may also damage your kidneys, heart: What doctors say - CNBC TV18",
-      "published": "2026-10-30T23:56:46+00:00",
-      "summary": "Air pollution does not just harm your lungs, it may also damage your kidneys, heart: What doctors say&nbsp;&nbsp;CNBC TV18Beyond semi-lockdown: Global lessons for a sustainable Delhi-NCR&nbsp;&nbsp;The Times of IndiaOPINION | Delhi Can Be Smarter Than the Smog: Why clean air needs more than seasonal action&nbsp;&nbsp;Moneycontrol.comDelhi's Air Pollution Crisis: The Health Damage Goes Far Beyond Cough And Breathlessness&nbsp;&nbsp;ETV BharatWhat happens to polluted air after it leaves your lungs",
-      "sources": [
-        {
-          "name": "CNBC TV18",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRkdSdXV6OU8xbHkxcGdTZ0FDM0JlQ0FaMGNBYWRsd3F1UmplQzhLLWtnT191eWswb2puMF9wY29lMk9tUmk3T2dTRXB5Sk50QTlnM1dKbDNTUjFmSzgzU2dGQ2pOLTVzbUNXQ0MwSlB0cWtpd0NhYVM1ZTA4NWgyMDRRQU50eW54bHM3NDU1YUlLbi1kaTJJMk51VFFrU3VROWtKcDhRWXp2ZEZuYkpnc1FHVDdsUGlJTXdoSlBUQlQySm9vODBER1NfMmx5cmhUT1RLdmRUT25OdDBST2dWd0duMjJudGg3MVlnUXB30gHzAUFVX3lxTE9LQng3ejRjbTJHMU1vRzQteE52NmhnUVd4bTNXeGRKTG85NXIzRlNiaUc4ZzRJOVpNSjlEVjRJdlhxRDVzTG5EdUtsYnNhUnFPYnhPTktzSU15MWoza1h2Mm11dDFuRGkyMnVza2NnRm9IVUk2R2pQcDdiOE4yOHBoMWZwbnRFaERWTFRIMGdUZ2NRNE02NEdMT1BZZXlHVUYyNElRelVzTVNxNTNPeWdwRDQtQzlTcFlmZVVKRmNMa1B5ZHFjbXpKQ2p4a0FDOW0tQ2JtV25wekE5c1d4Si1WS0VlbURoNmdNLTZGbjAzdUJFbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a3c242476190",
-      "title": "Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help - Everyday Health",
-      "published": "2026-10-30T23:00:54+00:00",
-      "summary": "Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help&nbsp;&nbsp;Everyday HealthSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "Everyday Health",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTA2MkdZdjdFeEVNZUx2LVVEVEY4aXhyWXJPU3p0SUxmQThWVWhNS19lNUpvRFI4eDVmNHN2THY4cjctN0M1MUtpYjJqTnJxT1Fza013bWFVNktmeEp0UXNISXZiNW05SU4zUUVESE9hRzlscEJvb3ZZdFpFVld2aVdLdzFYcXBlcGZxTHlSRDkwa2dNR295blNB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "12a02bc8ecb4",
       "title": "Menopause Hormone Therapy Gaps Raise Questions for Primary Care - Patient Care Online",
       "published": "2026-10-30T22:06:52+00:00",
@@ -578,18 +590,6 @@
         {
           "name": "Patient Care Online",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDFhdG45RGIwVDNYeTNZeERHaXBKVlRIMmJPVmxmY1RKbzZzVUt6QUdLVkozOHN2MG90WVViczNJN0xUZWtLdFItbzFRaERDbGJsLVd2M25GRVF2VXM3aHljMTJsMjY1NjFURENzUXY4bER4aFNJZkZ5SU9WbHpqb2FheEhoOGZ0cHVPQUdmZ1BjdVlFQXJZX0hYUERYVS1mS18tdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4fdeda7f118c",
-      "title": "Ebola vaccine trials begin in DRC - NPR",
-      "published": "2026-10-30T21:45:45+00:00",
-      "summary": "Ebola vaccine trials begin in DRC&nbsp;&nbsp;NPRBelgium sends mobile laboratory to DR Congo for Ebola research — Anadolu Agency&nbsp;&nbsp;UA.NEWSDR Congo, Russia discuss fast-tracking Ebola vaccine registration&nbsp;&nbsp;Sharjah24Explained: the new Ebola vaccine from the doctor who helped design it&nbsp;&nbsp;Shoreline Media GroupWHO hopes Ebola vaccine trials will provide answers&nbsp;&nbsp;Channel Africa",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFRsOTM4RktnSHNucENGUFpiaHNmX1NuVHBQYm1UVGU4WDlpQ0g5aUVqcTI5VzBRWWlzNVUtT3hFMUJsZzlON1N0dnVjY1Y3djBYdDBnelV0cTBJTEk1S3J1N0ZtMFRQR0hJLTZWbktaeW1kRVhBOTdRVUNFd1VFZ29Cem8?oc=5"
         }
       ]
     },
@@ -666,6 +666,18 @@
       ]
     },
     {
+      "id": "267e07970ae7",
+      "title": "Ultra-processed foods linked to stronger brain responses and weight gain in children: Study - Connected to India",
+      "published": "2026-10-30T05:31:35+00:00",
+      "summary": "Ultra-processed foods linked to stronger brain responses and weight gain in children: Study&nbsp;&nbsp;Connected to IndiaHow certain foods affect your brain and mental health&nbsp;&nbsp;GQ South Africaweek 44 / 2026&nbsp;&nbsp;Science XThis Study Links Ultraprocessed Food To Cognitive Decline — One Food Stands Out&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "Connected to India",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTGJJMnJBZmZjWEo2cUxVbnYybzVYS2ZCaFB6ZXIzajBxeVRJX01BLWpLRnBXV201OHZhbVdvUlVNS0JfZzByc3JDNXNacVpKVUxCSnlZaTMxc1NaYnlJS1NjYW5FSlpaYWdTT0JFd3pVZ24zc2N6eVRsMmlfNE9rUmFoQm1HWE5sTTdpb1JhckVDTFNEWkxIVGNPdEROYUhpX3RGdzlkYXRJWk9rdFFtMC1oSUE2ODFGdDNoeXVYeGdjZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "05179be0fcaf",
       "title": "Feeding the City: Food, Mobility and Health in Urban India - orfonline.org",
       "published": "2026-10-30T04:36:45+00:00",
@@ -674,6 +686,42 @@
         {
           "name": "orfonline.org",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0VYYTdteHV0eWxPYlhweXRaM2dsR2xMNHZjQllxdmt2S0xlUlpZVU5jOFBnbVFpVnV4MGZld1A2WXRVWGJnTmxGRkRnSzQyNmtDOFg4TmFsUW1WdEtOZ2REVWtLckZWWGltSnJVZV81dzZGNXNDRG5lZHhwY3RQSFJMd2tKdWNYT2dReTlUTmlRaXJhQ2YxZm9pUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a325f88795c9",
+      "title": "A NASA wheat test on the ISS lasted 73 days: plants grew 10% taller than Earth controls, while microgravi - The Times of India",
+      "published": "2026-10-29T20:10:00+00:00",
+      "summary": "A NASA wheat test on the ISS lasted 73 days: plants grew 10% taller than Earth controls, while microgravi&nbsp;&nbsp;The Times of IndiaSpace station experiment to probe plant disease risks for future moon and Mars missions&nbsp;&nbsp;Science XUL professor emeritus works to grow plants in space&nbsp;&nbsp;WGNOAn experiment on growing plants for lunar missions will be conducted on the ISS&nbsp;&nbsp;Universe Space TechUF researchers to study plant disease aboard the International Space Station&nbs",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQbkVfWVd1aWdVeEhDczRDbmRqTzVYV2ZzOG95UHpMdUh6MURPMGJTb2lwSXFpbE1nS2xrNEJiUFUzNjRPendyLVFtQVRnc2M3UUItVzJwVkFKOUM4bEZydFZUUEtWRl9BWEdaUGtqdGtKOHN6UG13MXdScG5HTWYxRVREek1ndVc1SGtLOFBWaU9jd3NyS1NBeVFZbVdjX25xaXp4Mm1VUmFmSTROdWZWOHl0MVExU3I0Z0xJMi1reTlRUmltcTFtQVRTTlBGLU5UU2cwTmRfQTkxRXFDWVgwTnpTTGMxQmpXWW4yc0hiQnhLOHhORFFjSGRCMzRWQTI5NTJpWHJvTUpOOGlmVWc3amJ6b3lJXzdXMDN1LU5FX2pyWVV2NUdlOTB0LVBYVUNIZllXT21La1ZUYklPSVM0TEdFaDdtUFHSAcwCQVVfeXFMT0hxWkwzamdBZlA0UHRCR2RudnFmbHZfSjhoc01ZR2VtNUlxOV95bjdla3lXaWUyNU9OR0dWZm1GNzYzdFo3VEhoak1GdlhDU1IyNmFMU0VqMUZybF8zMjdxNXlSd2k1cGFRcWFJVW90RFJaTnhsc1puZVlzS0tWbHl4LWpodlo1aV9OZEN6Y2ZMeWtIZm9xUWw0VTRhR0MxOUZxQkVlMk1EM0lJemIwQ010Z2lwZlhmVnl4aWZRZmtOeEVFdjdaZnAxTGtrNzd1N19XVWxGTnk1SGRYSTUzcWphcnZfZG10VGdZMGhYaVZJeWc0MGlsdjBpNUxyQ2dockZwMUUyRTZyNXd5bzlyeGhjS054M0lIXzZBMUhMUHAzbDVZaC1sRWlXdk5XSnlJTGgzX1FQZlhtMTBpQXlLNkJpa1VTYXl2Z2ppYjE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c6e8e546393",
+      "title": "Healthy Diet May Curb Heart Disease Risk in Cancer Survivors - Medscape",
+      "published": "2026-10-29T19:39:27+00:00",
+      "summary": "Healthy Diet May Curb Heart Disease Risk in Cancer Survivors&nbsp;&nbsp;MedscapeHealthy diet may lower heart disease risk after cancer&nbsp;&nbsp;Medical DialoguesCancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help&nbsp;&nbsp;Yahoo HealthEating Healthy May Lower CVD Risk in Cancer Survivors&nbsp;&nbsp;TCTMD.comDiet Quality May Play Key Role in Preventing Heart Disease Among Cancer Survivors: Study&nbsp;&nbsp;Medical Dialogues",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d99200081313",
+      "title": "Unlocking the mysteries of how simple embryos become complex creatures - The Washington Post",
+      "published": "2026-10-29T16:00:00+00:00",
+      "summary": "Unlocking the mysteries of how simple embryos become complex creatures&nbsp;&nbsp;The Washington PostCapturing the complete process of embryonic development&nbsp;&nbsp;MIT News",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnlkUnM0V0JfQ09GVVlGVkgwanhvSUFHblJYb2xWa0JaZ3BNXzl2ZnRxRDhMWE5DQlN6X09nbDExTkd6MC05QmZFck5VbEpoR1NtTzhYY1VldkUzell2X0dNLUp5VDUwVXBBWTBoQmtWb1p2djdKY3FJX3FQc3YzczQ1RVZnaUNZd1QtS3NlQndNSWpZRnNfSHR1UGRVZmZyMUVuTFdR?oc=5"
         }
       ]
     },
@@ -690,14 +738,14 @@
       ]
     },
     {
-      "id": "c7d302f76127",
-      "title": "New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India",
-      "published": "2026-10-29T08:30:00+00:00",
-      "summary": "New AI Model Predicts Cancer Risk 3 Years Before Diagnosis&nbsp;&nbsp;The Times of IndiaScientists Develop AI Tool That Spots Early Pancreatic Cancer Signs Missed on Routine CT Scans&nbsp;&nbsp;Medical DialoguesResearchers Say This Unexpected Body Change Could Be an Early Warning Sign of Pancreatic Cancer&nbsp;&nbsp;Men's JournalRoutine CT scans show steeper fat loss years before pancreatic cancer diagnosis&nbsp;&nbsp;2 Minute MedicinePancreatic Cancer Could Be Detected Much Earlier with Mayo Cl",
+      "id": "56cf46f40c80",
+      "title": "Scientists unveil AI detecting pancreatic cancer risk 3 years early - NewsBytes",
+      "published": "2026-10-29T09:21:01+00:00",
+      "summary": "Scientists unveil AI detecting pancreatic cancer risk 3 years early&nbsp;&nbsp;NewsBytesScientists Develop AI Tool That Spots Early Pancreatic Cancer Signs Missed on Routine CT Scans&nbsp;&nbsp;Medical DialoguesResearchers Say This Unexpected Body Change Could Be an Early Warning Sign of Pancreatic Cancer&nbsp;&nbsp;Men's JournalRoutine CT scans show steeper fat loss years before pancreatic cancer diagnosis&nbsp;&nbsp;2 Minute MedicinePancreatic Cancer Could Be Detected Much Earlier with Mayo Cl",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5"
+          "name": "NewsBytes",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5"
         }
       ]
     },
@@ -750,6 +798,18 @@
       ]
     },
     {
+      "id": "7f5c99967a97",
+      "title": "Diabetes medication may lower heart attack and stroke risk by curbing platelet overactivation - Medical Xpress",
+      "published": "2026-10-28T18:20:01+00:00",
+      "summary": "Diabetes medication may lower heart attack and stroke risk by curbing platelet overactivation&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2c3SWJBcEhoRWRmbVBNUjJsOVdGYmYxLUhmdF9uQmlIZ2VId2RPdGxoT25fcDdJcG1sQnc2TC1PZjB4N1hHMk80T3R6eHdjZC1LTktkWFMtdDJ0Y0J2TXF5OERITXlGSS1NZVhXZkw0UGxfXzQwTGE1Zm5HZk5ORzFhS0RaX01PV2ZZRGowdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f074535f491",
       "title": "World Psoriasis Day 2026 Campaign Aims to Break Stigma Among Young People - The Dermatology Digest",
       "published": "2026-10-28T16:48:15+00:00",
@@ -774,38 +834,14 @@
       ]
     },
     {
-      "id": "881891912d39",
-      "title": "More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses - NDTV",
-      "published": "2026-10-28T12:58:48+00:00",
-      "summary": "More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses&nbsp;&nbsp;NDTVJunk food’s impact may go beyond the weighing scale&nbsp;&nbsp;The Times of IndiaThis Study Links Ultraprocessed Food To Cognitive Decline — One Food Stands Out&nbsp;&nbsp;Yahoo Healthweek 44 / 2026&nbsp;&nbsp;Science XHow certain foods affect your brain and mental health&nbsp;&nbsp;GQ South Africa",
+      "id": "989ae09acfa3",
+      "title": "The hidden toll of India's air pollution: How PM2.5 affects long-term health - The Federal",
+      "published": "2026-10-28T12:30:00+00:00",
+      "summary": "The hidden toll of India's air pollution: How PM2.5 affects long-term health&nbsp;&nbsp;The FederalWinter is coming. Can NCR pass the pollution test?&nbsp;&nbsp;The Times of IndiaAir pollution does not just harm your lungs, it may also damage your kidneys, heart: What doctors say&nbsp;&nbsp;CNBC TV18Can a Simple Filter Reduce Pollution’s Cardiac Effects?&nbsp;&nbsp;MedscapeWhat happens to polluted air after it leaves your lungs?&nbsp;&nbsp;The New Indian Express",
       "sources": [
         {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4d3761a08508",
-      "title": "Low vitamin B12 is linked to heart disease. Supplements tell a different story - News-Medical",
-      "published": "2026-10-28T00:50:00+00:00",
-      "summary": "Low vitamin B12 is linked to heart disease. Supplements tell a different story&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejBKa0h0eFYxWDdndjItdVNXWmdZNEF1bEdHM0lMWE9FUnVHWkVHdzNFVEMzYXJrQTAxa1NhdzBRdU0xVGlCeDB6b3Q2ZDZnWGhpZnhQM2hrOFd5WHVqWjBJS3pFcHRBRmNsSmt1cTN1UGYxU1RkbFh3QnB2b2pWTlItMWdTeHZVTFNzUXU3NXhOR3ZfUXVQWnQ2N2tkaHJBbTJZRzNMTVBXT2lJSVFMQkF0c2dXeW43UzVINjBXWXhtVE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "731b8b4ddbff",
-      "title": "A Narrative Review of the Dental Implications of Optogenetics Recognized by the 2026 Nobel Prize in Physiology or Medicine - Cureus",
-      "published": "2026-10-27T20:26:29+00:00",
-      "summary": "A Narrative Review of the Dental Implications of Optogenetics Recognized by the 2026 Nobel Prize in Physiology or Medicine&nbsp;&nbsp;CureusScientists can now rewire living brains&nbsp;&nbsp;Scientific AmericanNobel Prize will “make neuroscience more real for people” says Oxford Professor&nbsp;&nbsp;London NowAn Inside Look at the First Optogenetics Experiment&nbsp;&nbsp;The ScientistThe Magic of Optogenetics: The Nobel Prize in Medicine or Physiology 2026&nbsp;&nbsp;The Commentator",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjlJMlU0SDdBbmtzVVg3bWRkX2kyZVRkT2lPTWd0R3F0Mk9sd0J5Qll0T21aNW5fRzBVQ3hLNmxWRmxCNUNqbzVGUFIzM3ItZW1BNlExeGlKdTlqSFpKVEdkSU1oX0d2X2o0UEVKZ0JHMDBydGlVLVBLUlI0OEVXQUNNaWhIUlh4aE11WTYwdGNPUkJRMHVuZ3FSSEw4VmQ4Yi03U3R3V0ozZU5DMFR6T0l0eVppeExtdngzbjRXS19nLUI0a3YxSjVrZUVjX0FYS1B4RHFmLTk4aGJpRWhFWE9kUHlDNDZtVENFY3NQVmdPZ2M?oc=5"
+          "name": "The Federal",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVldrLS1NaWgteGlzRTNvb1dvOUlWVHdqUzIycVltQmQwbkVTNEF5dWJCVFhoYU1IYVhNVzdxc3FLQWpfYjdORUVXT2FSYmo3cHZMTUdVV3g3TkJwTWRMcTFUTWhHblVKQmw2YTVTaXZCcERNbmRTMWhpRmZEeWFoTTlMSWo5N3JYalF2dw?oc=5"
         }
       ]
     },
@@ -825,11 +861,35 @@
       "id": "578fce6ca245",
       "title": "AI Predicts Diabetes Risk in Patients with Fatty Liver Disease - EMJ",
       "published": "2026-10-27T16:53:25+00:00",
-      "summary": "AI Predicts Diabetes Risk in Patients with Fatty Liver Disease&nbsp;&nbsp;EMJMachine Learning Models Flag Nonobese MASLD Using Routine Blood Tests&nbsp;&nbsp;The American Journal of Managed CareMachine Learning May Help Predict Diabetes in NAFLD&nbsp;&nbsp;EMJ",
+      "summary": "AI Predicts Diabetes Risk in Patients with Fatty Liver Disease&nbsp;&nbsp;EMJMachine Learning Models Flag Nonobese MASLD Using Routine Blood Tests&nbsp;&nbsp;The American Journal of Managed Care® (AJMC®)Machine Learning May Help Predict Diabetes in NAFLD&nbsp;&nbsp;EMJ",
       "sources": [
         {
           "name": "EMJ",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTdGQWJ1WGdSQ0V6eEVpa09RWnpsNGlIazJ2V0pYVUVram5uNEpQbHBGWFNvSWZhNmdzaWxDV2VmWnI0V3JGOUlYSGZfdkMzejg0allxYUNZMXBFUWxua3Z3M2dGWlRnV3JwREZ1cVAzaEZKQVNzUjBmQ3lyYU5iMkhSX2VMclQ3SGEwYlRDYzN1cDE5ZnFnSU1SX2Zna0hTNjNNejkzWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7799ae7c90a",
+      "title": "DRC begins trial testing Ebola jab against Bundibugyo: WHO - Yeni Şafak English",
+      "published": "2026-10-27T14:31:20+00:00",
+      "summary": "DRC begins trial testing Ebola jab against Bundibugyo: WHO&nbsp;&nbsp;Yeni Şafak EnglishBelgium sends mobile laboratory to DR Congo for Ebola research — Anadolu Agency&nbsp;&nbsp;UA.NEWSEbola vaccine trials begin in DRC&nbsp;&nbsp;NPRDR Congo, Russia discuss fast-tracking Ebola vaccine registration&nbsp;&nbsp;Sharjah24Explained: the new Ebola vaccine from the doctor who helped design it&nbsp;&nbsp;Shoreline Media Group",
+      "sources": [
+        {
+          "name": "Yeni Şafak English",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFlTTHoxakd1d3B0Tnhham1yNG5oVXRYVDhnSjZGbnU1MjNRVjJZWFE1SWFuSkpiQS1Qek1XeUZFM3VRbDJaLWpJeTByVWxlQk9mT3hMZUtXRVNfLXRwZ0otMXlySmNWSDAweUpOQjdvWjRxUm1Rb2RXRWM4TXItZUowUUZLTUlILXBPa0liZWNIYjlJcGxBaXZJQVM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50fb1507a500",
+      "title": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them - The Conversation",
+      "published": "2026-10-27T12:17:31+00:00",
+      "summary": "Where humans build, mosquitoes follow – bringing dengue, West Nile and other diseases with them&nbsp;&nbsp;The ConversationUF mosquito research exposes unexpected discovery on what is in your yard&nbsp;&nbsp;chronicleonline.com",
+      "sources": [
+        {
+          "name": "The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHljRUdqWEx1Smh4RmdfWWNCeW44Y3JHTnhIWmpPVUliLTktSGlLbzlkaHAxX1YwRngzYzdZUFpjQ0Z6eklhcWZBMndkcWlMSHpSNlVSS3hUT0k4dTMtSENRODBQZzNYY0hpTC1NOFc0andKak9iNG9CU21qd0Z3ekgtMk0xeVhnZUlBUVp2Y0c0NVdTLU9xc2RHd1lpazJrV3ltVEFwMk5TczNJamlXOEs5SzVCcFpHcTdsc1hiaTNUdmFa?oc=5"
         }
       ]
     },
@@ -858,14 +918,14 @@
       ]
     },
     {
-      "id": "e1e4d0ebb30b",
-      "title": "Ferritin Face: Online Trend Raises Questions About Iron Deficiency Signs - India News Network",
-      "published": "2026-10-27T06:13:19+00:00",
-      "summary": "Ferritin Face: Online Trend Raises Questions About Iron Deficiency Signs&nbsp;&nbsp;India News NetworkIs 'ferritin face' a real thing - and can you really spot low iron from looks?&nbsp;&nbsp;BBCHair Thinning, Brain Fog, and Fatigue? Experts Say Your Ferritin Levels Could Offer a Clue&nbsp;&nbsp;Real SimpleFeeling Exhausted? The Low-Iron Signs Women Often Miss—and the Tests to Ask For&nbsp;&nbsp;Marie Claire UK‘Ferritin face’: are social media claims about iron deficiency fact – or fiction?&nbsp",
+      "id": "038fd770a450",
+      "title": "​'Ferritin face': 7 warning signs of iron deficiency you shouldn’t ignore​ - The Times of India",
+      "published": "2026-10-27T02:23:59+00:00",
+      "summary": "​'Ferritin face': 7 warning signs of iron deficiency you shouldn’t ignore​&nbsp;&nbsp;The Times of IndiaHair Thinning, Brain Fog, and Fatigue? Experts Say Your Ferritin Levels Could Offer a Clue&nbsp;&nbsp;Real SimpleFeeling Exhausted? The Low-Iron Signs Women Often Miss—and the Tests to Ask For&nbsp;&nbsp;Marie Claire UK‘Ferritin face’: are social media claims about iron deficiency fact – or fiction?&nbsp;&nbsp;The Guardian‘Ferritin Face’ Is Trending, But This Is How Iron Deficiency Is Affectin",
       "sources": [
         {
-          "name": "India News Network",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcENvM0xLcjhfWFE4LWtmYXEzVl8tSXo5MTluWTlZZlhoSjBaTmhMTnEyVDFBSEdCa0FLdU5oUUVvMmhiclYxYzR4djdha0dpSkhxTFlZbWJ5WG9TNVExbmZmeW1kTV9wRW9jc0Iya0VlSFpXZHEwRGRZdnRTajRpX1dlbWFXekJWMm8tMDJzNkt3dkZKaWg2RkVPVU1CaUIyZnpUZm5ZMnI1Zmc0X1BDZnRpVno1WTA?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2I1TDd6V1JHN3YyRTBjb1pKbXlKMFp6bnZnWl9tOGxuOUFvY2RUZUZYVUV2Z0pqUGNxVzl1MlVTRzdySGV6OG11M05uVnFHeDRNWkoxVEdzNUdCaUgzY2VtMGdhcEhGeFpXcm41OGo1ZFJHQVRWVGVpT3dJazBfRVhubFo3QWk0OWtRNU1RdzY5bjhlTWdoSWcwQ3RkODBMeTljZ0dodjBnbGZlNkFjRE9DN1VvUHZycldHZWh2UWRYeXFCbWg2OTFSM05LdTlQUkVnWFRUVDQxb1B1emfSAeYBQVVfeXFMUG4tT25OYXFReTZuY24xT1p6UkZQRzEyNnh1WmRaWTYxOVpHTEtrbjVOUEx4T0V0clFPVlBLVmlsaWY4dWtoTU0tXzZyRTVXbVJwSjZZUi01eS1lVnhyZkJwVUpQeUh6UXBvbjYxM3RMeUNzWlJXR2pXQ245OXJNd3FEX0NIWkZYa0dtR0daVFBvdHlJZmRwbUJnLWVWWmdDdGJSdUlLWHR3X2lOd01YdWo2S0J5SUk0S2thNXZwdEotWmdBbVlLbmM0TGp0WC1CdERyVE1VZEw4ZHhlNHRzT3Y4N2NTVHc?oc=5"
         }
       ]
     },
@@ -878,18 +938,6 @@
         {
           "name": "MedPage Today",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tRkJyRTIwUlY1b2RlRG1BQnVPODUwU1ZBY2lEWFJwM2tibEkzOExrZjV4YUkxeWZERU5yeEYyU0ZCWTl2REcwcXpudWM5VGJ3ZkJLY0JoUk1xQmU4dnhiemZKQzRkaW4tN21iSEdzM2kxSWpLMFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40ba615e43de",
-      "title": "Could Walking Faster Help You Live Longer? Study Offers Clues - Healthline",
-      "published": "2026-10-26T19:44:56+00:00",
-      "summary": "Could Walking Faster Help You Live Longer? Study Offers Clues&nbsp;&nbsp;HealthlineCan your walking speed decode early risk of death&nbsp;&nbsp;The Times of IndiaFrail in your 40s? What to know about ‘pre-frailty’ and how to reverse it&nbsp;&nbsp;The AgeWalking sports may boost physical and psychosocial health in older adults, review finds&nbsp;&nbsp;Bioengineer.orgThis type of walking is better for healthy aging, according to a new study&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkxhSnUxUGdpZHBpTVVEQ0hQck9fd25KM3ptYnFTMGEyZUR6Q25sTDFrTDctYVlEU2YxcUZnbjRteEFYQ0RNb1ZiSWtlQ2JZSDBGSFVaWnpOWVVySEhmMHdqcTBERFpPeW1HbzJJUzNVRXYya0dnSjhnZVVuSGNrZEhqMVpVU1lyNWxjdkJCM1Y?oc=5"
         }
       ]
     },
@@ -918,14 +966,14 @@
       ]
     },
     {
-      "id": "5f40ae15384b",
-      "title": "Cancer Findings Support Calls for Improved LP Care - Medscape",
-      "published": "2026-10-26T10:59:49+00:00",
-      "summary": "Cancer Findings Support Calls for Improved LP Care&nbsp;&nbsp;Medscape",
+      "id": "7ad7866cc1a5",
+      "title": "Vitamin B12 deficiency: Can it affect memory and increase the risk of stroke? Doctor explains - The Times of India",
+      "published": "2026-10-26T09:30:00+00:00",
+      "summary": "Vitamin B12 deficiency: Can it affect memory and increase the risk of stroke? Doctor explains&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc2Y5eXBMd20xT2ZoUTBHV1V1Ny1HTkhUVG02cmFKSi1GMWlnYzQzQjgzNEpZMVlRWGpZTEZncEhnb1FJY09xYlA0R1NMa1VOS3ppcGN4NWw5ek40a2wyVVI1bE1uelFtUXlWOHgzdjdwSFhScGhCSDE2bTNqVWRua25adWlfUlJnOEt6NDE5d3hoaWFYWEFRSEt1VnowNnpEUXZld3JGZVR3TEJ4Wk5kS2NGTEJQRmtYSUg5VmFIdjI5b3pKZmFVbDNfdzZQdnBlbGZhM1hrRjJJTkN0S0JpcVVxOTlvYlFSbWhRUllyWGJaZ9IB9wFBVV95cUxQTUQ5blBMTnlmWmZBTzdVX1ZnaklhSlY1dFRtYjNDaXZXZ2NWRWVLLU9VU2J0RGZ3R216M0U1eG85RE1CdDVQREIwS1BmWldjS0dhNHNSamYteDVDcnhodzBzY1dxQW1MUnB3emdlMEtadFhaOENvTXEzb240VE5PbHlaZDYtUzB6czIySDN0UW12VWVKaDROWThzZmJIVGVmem51VDFJWDZON25la3JpZU8zWGZPUWd2M2M4LWRMZ2REQzRaZTFZcndtRkhHNzE4MnJjZVVFdWZYWDYtSXdIT2cxT1p2YUJ1Z2JoOVJlbjZhQWVacHlr?oc=5"
         }
       ]
     },
@@ -945,7 +993,7 @@
       "id": "207ff103d312",
       "title": "Global Tuberculosis Rates Remain High, Calls for Innovative Solutions - India News Network",
       "published": "2026-10-26T04:29:09+00:00",
-      "summary": "Global Tuberculosis Rates Remain High, Calls for Innovative Solutions&nbsp;&nbsp;India News NetworkBlogs: Over 100 yrs of BCG: Why is Tuberculosis still here?&nbsp;&nbsp;NewVision.co.ug",
+      "summary": "Global Tuberculosis Rates Remain High, Calls for Innovative Solutions&nbsp;&nbsp;India News NetworkSee more headlines and perspectives on Google News",
       "sources": [
         {
           "name": "India News Network",

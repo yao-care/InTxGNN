@@ -3,9 +3,9 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 1 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 3 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # dementia (memory loss) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [The Links Between Napping And Dementia May Go Further Than We Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
+
+2026-11-02
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
+
+---
+
+### [When dementia strikes a family — Hazwani Ahmad Yusof @ Hanafi - Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
+
+2026-11-01
+
+Source: [Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
+
+---
 
 ### [World Brain Stroke Day 2026: Can air pollution cause brain stroke](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
 

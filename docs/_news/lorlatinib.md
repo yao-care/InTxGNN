@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lorlatinib. 9 predicted indications."
 permalink: /news/lorlatinib/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Lorlatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>17 news articles</strong>, with 9 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>18 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (17)
+## Related News (18)
+
+### [The Links Between Napping And Dementia May Go Further Than We Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
+
+2026-11-02 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
+
+---
+
+### [Death Rate Due To Alcohol Consumption May Differ By Beverage Type: Study Based On 340,000 Adults - Health and Me](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3FwYVNXb3dUdFFBSW1nMUNUWkhHRGF3cFYxdW9PWndsSWFZUEJYR0NlcDBlczlrOUljV0lzaEczNmJKZmR5VkpyZUc3ZlV0Vi11TEZZZ3dVSWw1cS15VjRVRUxvNk1vaUI0UnJvQlMwTV9SRFdvUEJZc2tLT1hmMXNNTTJFX2IyN1BnejlHTWtDZTJpallQS2c2OTdxMDJuWmFkbTQ2Q1lkUm5yYWpZeW1hQjVrN3FaX0lfZ1Ytd2xqV3hKYVlKM2d1dlFkUXM0dTA4NVJPM2p4QQ?oc=5)
+
+2026-11-01 <span class="news-indication-tag">cancer</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3FwYVNXb3dUdFFBSW1nMUNUWkhHRGF3cFYxdW9PWndsSWFZUEJYR0NlcDBlczlrOUljV0lzaEczNmJKZmR5VkpyZUc3ZlV0Vi11TEZZZ3dVSWw1cS15VjRVRUxvNk1vaUI0UnJvQlMwTV9SRFdvUEJZc2tLT1hmMXNNTTJFX2IyN1BnejlHTWtDZTJpallQS2c2OTdxMDJuWmFkbTQ2Q1lkUm5yYWpZeW1hQjVrN3FaX0lfZ1Ytd2xqV3hKYVlKM2d1dlFkUXM0dTA4NVJPM2p4QQ?oc=5)
+
+---
 
 ### [Aster Medcity Organizes Cyclothon Emphasizing Awareness on Male Breast Cancer - Metro Vaartha](https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnVQaEZKN0F2d1p4Q0RCSHpYMjlDdUtlWEhkYW9UWjlLSDhqWkVNTjhNajJrQWZJc21HY0NhNl9IbXI4UnVaSzM3V2tKREM5ZU1HeVhmSzM1Rmg4aVZyc2hlbFZlRnp6YVM4QXdmTmZZWWFHb19vUnNHN0JoQjdDZHh6YmJoNnpFVUpIbzhGZF9ucDdBV3JSRWdrWm9qdldnbk9vNW90cV9wT2RVS2w4bFdRXzAxSkpFb0s0VDQ0NNIBzAFBVV95cUxPVzAxc1N0WHVQRklWNW9remhSWk5pQ2Vobm1LOHFlaFdXdVJGcDlfYXE1bWltXzc5Y2pjaFNFenpoV1IxQnlMdElkbHBRV09Oay0zWmdnd005SENMZ2xCc2tSZlREcVpMZ0NJWDBzOHhkRmJkcmZoN1JjenFPSEl2a1AxZ09RbHdRM2RZb29MWFZRYW1sY00wR2xyeDNoeGR5R1VPS1VkR0xQbGpoR3NxMnJaMnNmS3RQSEJRU1dDYlFkeV9sS1NWNmJXZ04?oc=5)
 
@@ -67,35 +83,27 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNEtHZzV0S1
 
 ---
 
-### [‘Like sand in my eye’: treatment gives hope to patients - Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
+### [When dementia strikes a family — Hazwani Ahmad Yusof @ Hanafi - Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
 
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">blood cancer</span> <span class="news-indication-tag">eye disease</span>
+2026-11-01 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
-
----
-
-### [Denosumab Duration Linked to Jaw Necrosis Risk in Prostate Cancer](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
-
-2026-10-31 <span class="news-drug-tag">DENOSUMAB</span> <span class="news-drug-tag">Denosumab</span> <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvNXpYd1lvVzRBNXJaQkN3MXZPTEg5MDFacGticVB1YkVkRk1kekFjdnlrb0swRGo0aHJoTjM5NWhIUmVxZElsZ2FsVUVvUVZXNFRxWXNoUExCQ1hqVWpRemgxaTFBdlRETmRoTE0tNGQwMlZmMXpFbFd5alhaZ0tYU25HNnFrczBuaHZ4RnRWQ0poUE1UMzhfdjR1bnY4MkNMbk04S2pLUQ?oc=5)
+Source: [Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
 
 ---
 
-### [Traditional Chinese Medicine Formula Kills Drug-Resistant Cancer Cells in The Lab](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlONjZzMVVUQmNLRzBETkNDeEI4NE11bEU4NHZOR0FQU1BhWkUzVGNPWTcycmprSFlnc2RUaVNZU3dtclZDdHJodFNrcUtyM3YtWDBWbldMZHVGWGNpNnc3eW5TdmRhZnB4WExFb1pKVnZvUnZDaDlneWZKbjhPZ2dzLXlZVUc1M3oxOUVVV1VqUGdPamh1azExYWs4NE5neGNONnFsMXpsUjl3ejEw?oc=5)
+### [Nearly half of 10 million ton food waste generated annually could help save environment - Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
 
-2026-10-31 <span class="news-indication-tag">cancer</span>
+2026-10-31 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVFlONjZzMVVUQmNLRzBETkNDeEI4NE11bEU4NHZOR0FQU1BhWkUzVGNPWTcycmprSFlnc2RUaVNZU3dtclZDdHJodFNrcUtyM3YtWDBWbldMZHVGWGNpNnc3eW5TdmRhZnB4WExFb1pKVnZvUnZDaDlneWZKbjhPZ2dzLXlZVUc1M3oxOUVVV1VqUGdPamh1azExYWs4NE5neGNONnFsMXpsUjl3ejEw?oc=5)
+Source: [Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
 
 ---
 
-### [Cancer Survivors Face Elevated Heart Disease Risk, But New Research Shows Healthy Diets May Help - Everyday Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTA2MkdZdjdFeEVNZUx2LVVEVEY4aXhyWXJPU3p0SUxmQThWVWhNS19lNUpvRFI4eDVmNHN2THY4cjctN0M1MUtpYjJqTnJxT1Fza013bWFVNktmeEp0UXNISXZiNW05SU4zUUVESE9hRzlscEJvb3ZZdFpFVld2aVdLdzFYcXBlcGZxTHlSRDkwa2dNR295blNB?oc=5)
+### [Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction](https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3pYVjYzX3lFSzFzdG9CeTRLWmxWUGgyWFp4OUMxRHhTRHg4UTNGaGRiUjZsWGt0eFJOWmNOYmZqTlJRWTNWRVdoZ2EtNGtjMG9RMDFjM3JFUVl4MEFrXzVTUXRfdDBoQ0VibDV1RnFMdmQ4LWlZUlVUSnFGaGpSaGpWLWgtdGktbzRPaVN4R28wN3hsY1RUSg?oc=5)
 
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-10-31 <span class="news-indication-tag">alzheimer</span>
 
-Source: [Everyday Health](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTA2MkdZdjdFeEVNZUx2LVVEVEY4aXhyWXJPU3p0SUxmQThWVWhNS19lNUpvRFI4eDVmNHN2THY4cjctN0M1MUtpYjJqTnJxT1Fza013bWFVNktmeEp0UXNISXZiNW05SU4zUUVESE9hRzlscEJvb3ZZdFpFVld2aVdLdzFYcXBlcGZxTHlSRDkwa2dNR295blNB?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3pYVjYzX3lFSzFzdG9CeTRLWmxWUGgyWFp4OUMxRHhTRHg4UTNGaGRiUjZsWGt0eFJOWmNOYmZqTlJRWTNWRVdoZ2EtNGtjMG9RMDFjM3JFUVl4MEFrXzVTUXRfdDBoQ0VibDV1RnFMdmQ4LWlZUlVUSnFGaGpSaGpWLWgtdGktbzRPaVN4R28wN3hsY1RUSg?oc=5)
 
 ---
 
@@ -115,11 +123,19 @@ Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3
 
 ---
 
-### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
+### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
+
+---
+
+### [Scientists unveil AI detecting pancreatic cancer risk 3 years early](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
 
 ---
 
@@ -160,14 +176,6 @@ Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tRkJ
 2026-10-26 <span class="news-indication-tag">alzheimer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
-
----
-
-### [Cancer Findings Support Calls for Improved LP Care](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQmN1aERZcFZnM1J4cDZNUkR4MXdYbUxzcXlEZ2szWmpJVFcxNHYwclBMcWd4UEtWQW9EZzljNEhUcGJKbjdLYWpiemN3VFp2ZmJPdEpmVXNRUGJfVVRvbUs3QWxvUExJa3FLd3YzeTBuOWJVcDZhaWZLazgyRU5DSVBnMHVKMzViQTFta3dhNHNQdW1yeUF5MEFoelpTQjk3dnl4RUtNMkM?oc=5)
 
 ---
 

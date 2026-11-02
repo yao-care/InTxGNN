@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dipyridamole. 8 predicted indications."
 permalink: /news/dipyridamole/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Dipyridamole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="What news is there about Dipyridamole?">
-<strong>Dipyridamole</strong> currently has <strong>4 news articles</strong>, with 8 predicted indications.
+<strong>Dipyridamole</strong> currently has <strong>6 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ This page combines the AI-predicted indications for Dipyridamole with the latest
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
 
 ### [Clot removal days after a stroke could help more patients recover, but the procedure is not without risks - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5)
 
@@ -71,6 +71,22 @@ Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMivAFBVV95c
 2026-10-29 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
+
+---
+
+### [Diabetes medication may lower heart attack and stroke risk by curbing platelet overactivation - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2c3SWJBcEhoRWRmbVBNUjJsOVdGYmYxLUhmdF9uQmlIZ2VId2RPdGxoT25fcDdJcG1sQnc2TC1PZjB4N1hHMk80T3R6eHdjZC1LTktkWFMtdDJ0Y0J2TXF5OERITXlGSS1NZVhXZkw0UGxfXzQwTGE1Zm5HZk5ORzFhS0RaX01PV2ZZRGowdw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2c3SWJBcEhoRWRmbVBNUjJsOVdGYmYxLUhmdF9uQmlIZ2VId2RPdGxoT25fcDdJcG1sQnc2TC1PZjB4N1hHMk80T3R6eHdjZC1LTktkWFMtdDJ0Y0J2TXF5OERITXlGSS1NZVhXZkw0UGxfXzQwTGE1Zm5HZk5ORzFhS0RaX01PV2ZZRGowdw?oc=5)
+
+---
+
+### [Vitamin B12 deficiency: Can it affect memory and increase the risk of stroke? Doctor explains - The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc2Y5eXBMd20xT2ZoUTBHV1V1Ny1HTkhUVG02cmFKSi1GMWlnYzQzQjgzNEpZMVlRWGpZTEZncEhnb1FJY09xYlA0R1NMa1VOS3ppcGN4NWw5ek40a2wyVVI1bE1uelFtUXlWOHgzdjdwSFhScGhCSDE2bTNqVWRua25adWlfUlJnOEt6NDE5d3hoaWFYWEFRSEt1VnowNnpEUXZld3JGZVR3TEJ4Wk5kS2NGTEJQRmtYSUg5VmFIdjI5b3pKZmFVbDNfdzZQdnBlbGZhM1hrRjJJTkN0S0JpcVVxOTlvYlFSbWhRUllyWGJaZ9IB9wFBVV95cUxQTUQ5blBMTnlmWmZBTzdVX1ZnaklhSlY1dFRtYjNDaXZXZ2NWRWVLLU9VU2J0RGZ3R216M0U1eG85RE1CdDVQREIwS1BmWldjS0dhNHNSamYteDVDcnhodzBzY1dxQW1MUnB3emdlMEtadFhaOENvTXEzb240VE5PbHlaZDYtUzB6czIySDN0UW12VWVKaDROWThzZmJIVGVmem51VDFJWDZON25la3JpZU8zWGZPUWd2M2M4LWRMZ2REQzRaZTFZcndtRkhHNzE4MnJjZVVFdWZYWDYtSXdIT2cxT1p2YUJ1Z2JoOVJlbjZhQWVacHlr?oc=5)
+
+2026-10-26 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi8gFBVV95cUxNc2Y5eXBMd20xT2ZoUTBHV1V1Ny1HTkhUVG02cmFKSi1GMWlnYzQzQjgzNEpZMVlRWGpZTEZncEhnb1FJY09xYlA0R1NMa1VOS3ppcGN4NWw5ek40a2wyVVI1bE1uelFtUXlWOHgzdjdwSFhScGhCSDE2bTNqVWRua25adWlfUlJnOEt6NDE5d3hoaWFYWEFRSEt1VnowNnpEUXZld3JGZVR3TEJ4Wk5kS2NGTEJQRmtYSUg5VmFIdjI5b3pKZmFVbDNfdzZQdnBlbGZhM1hrRjJJTkN0S0JpcVVxOTlvYlFSbWhRUllyWGJaZ9IB9wFBVV95cUxQTUQ5blBMTnlmWmZBTzdVX1ZnaklhSlY1dFRtYjNDaXZXZ2NWRWVLLU9VU2J0RGZ3R216M0U1eG85RE1CdDVQREIwS1BmWldjS0dhNHNSamYteDVDcnhodzBzY1dxQW1MUnB3emdlMEtadFhaOENvTXEzb240VE5PbHlaZDYtUzB6czIySDN0UW12VWVKaDROWThzZmJIVGVmem51VDFJWDZON25la3JpZU8zWGZPUWd2M2M4LWRMZ2REQzRaZTFZcndtRkhHNzE4MnJjZVVFdWZYWDYtSXdIT2cxT1p2YUJ1Z2JoOVJlbjZhQWVacHlr?oc=5)
 
 ---
 
