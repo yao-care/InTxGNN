@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "alzheimer (dementia) News"
+title: "dementia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 6 articles, 8 related drugs."
+description: "Health news about dementia. 3 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-11-02
 ---
 
-# alzheimer (dementia) News
+# dementia News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about dementia?">
+<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (6)
+## Related News (3)
 
 ### [The Links Between Napping And Dementia May Go Further Than We Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
 
@@ -47,43 +47,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZ
 
 ---
 
-### [When dementia strikes a family — Hazwani Ahmad Yusof @ Hanafi - Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
+### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
-2026-11-01
+2026-10-27
 
-Source: [Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
-
----
-
-### [When dementia strikes a family — Hazwani Ahmad Yusof @ Hanafi - Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
-
-2026-11-01
-
-Source: [Malay Mail](https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVo3d3g1RXJCaDgtbGRXc2hFdWdiQWhpYkc3azlqRFBxVnJRcDZNemZxUWN5c29Zalc1OUZWTjRaRlJFY1dyeG1BWlN2VGpLX0FDTE85T2d6YlNNZk9IMFBiWGJ6RENNMlNCeHVXU3VtdktrRWtHTTBIdkJCNnVyejQxX0NjYTBvTkZ2NVhMdHVrUGo4RkRMbFFnZHhmS0taOHRVVDJ2NFA0bnkybmFXUk1wdkYzc1kxMGM4dGxR0gHDAUFVX3lxTE5zUEZEWmplRENGZDhTZTVwbkNNaDdtRjRoWDBzOG9EZnB2dHUzZHZVbEZvRzlTUkVSUFRDS1VjU084bThzaGpncFMzMnlCMGJ5R3oxOFdoQU4yclNqZDNsSy1FM1NTbjdEVWlMWi1QZVdYbUlxTUlGTy1jWGJ2WktWZDlSUlViVWpLVUNmaUhWYTNQeG52X0RTMkRwZG9wdFdwTTNWVmJEWldYU0kzbDhuQXNCVnVLdVRIZDNmUnJEV3Qxaw?oc=5)
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
 ---
 
-### [Alzheimer’s-Linked Proteins Have a Hidden Role in Human Reproduction](https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3pYVjYzX3lFSzFzdG9CeTRLWmxWUGgyWFp4OUMxRHhTRHg4UTNGaGRiUjZsWGt0eFJOWmNOYmZqTlJRWTNWRVdoZ2EtNGtjMG9RMDFjM3JFUVl4MEFrXzVTUXRfdDBoQ0VibDV1RnFMdmQ4LWlZUlVUSnFGaGpSaGpWLWgtdGktbzRPaVN4R28wN3hsY1RUSg?oc=5)
+### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
-2026-10-31
+2026-10-27
 
-Source: [SciTechDaily](https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3pYVjYzX3lFSzFzdG9CeTRLWmxWUGgyWFp4OUMxRHhTRHg4UTNGaGRiUjZsWGt0eFJOWmNOYmZqTlJRWTNWRVdoZ2EtNGtjMG9RMDFjM3JFUVl4MEFrXzVTUXRfdDBoQ0VibDV1RnFMdmQ4LWlZUlVUSnFGaGpSaGpWLWgtdGktbzRPaVN4R28wN3hsY1RUSg?oc=5)
-
----
-
-### [World Brain Stroke Day 2026: Can air pollution cause brain stroke](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
-
-2026-10-29
-
-Source: [Firstpost](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWZUTEZrM0FMbFZ0YTgzWDZ1LVdtVmpYR2hCMjVLYUdzRmdLOW1MZThzTG1tYjljaTBEUi1XcFpvUVR0WWE1UmhrdGZsLURJZzVqUENPZ2tpQXdxU25jMnZMVnF1amhTTEJ2ZnVvNmg0cmxwbkRvQ0s3TzJmVVFEMV9Wb3lpT0U5NW16UVQ0eWFreU1peU9aZk51VlBwR3JiNGdCeUpTVW1RdEJHN05JYUlfNzPSAboBQVVfeXFMT0RCN2hVU3d2LWg5ZVBuZVJPTzhEMHVQelc3Uk5ManBmeURfU1FIWk0wS1JBNDBfQ1FWcWcxVDJnbjNoZkRvSzZVdGd1TEJLaWk0WUZhdXg1d1hFcnVCY0gya0VaaEp4TFFXX0gyWDlzaWZIRVQ2ZjZJTHpBdmM4ZF9fSlhpZWRPTjJiVzlDM2tubDN2T3h1N3dZdmJQTXd1RUQ1bkVUeGloZGlPVDJaLWtybkU1VHFOMHJ3?oc=5)
-
----
-
-### [What is the Link Between PMOS and Alzheimer’s Disease?](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
-
-2026-10-26
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTmtRUUJNYko3TEwzanM4aXhUa0xBa3dTbklkVkJLMnFzZklXd1BRVWRVYjd3UWNPekdHaHZOb3BPMUd5dXNLeG5ockFtZzM0blhXLVBXVk9pV18wUk5tUUowMG9BZHE5amRtdXRMdFFpLTlzRDUtUXRHLVhXT1owVHR5eTI1NDB3UEVqX0FqQTBzNUJoc1Q4dl9xQjRvcHczdVE?oc=5)
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
 ---
 

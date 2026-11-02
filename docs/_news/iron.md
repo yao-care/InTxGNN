@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,15 +38,7 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [Nearly half of 10 million ton food waste generated annually could help save environment - Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
-
-2026-10-31 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
-
----
+## Related News (1)
 
 ### [​'Ferritin face': 7 warning signs of iron deficiency you shouldn’t ignore​ - The Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2I1TDd6V1JHN3YyRTBjb1pKbXlKMFp6bnZnWl9tOGxuOUFvY2RUZUZYVUV2Z0pqUGNxVzl1MlVTRzdySGV6OG11M05uVnFHeDRNWkoxVEdzNUdCaUgzY2VtMGdhcEhGeFpXcm41OGo1ZFJHQVRWVGVpT3dJazBfRVhubFo3QWk0OWtRNU1RdzY5bjhlTWdoSWcwQ3RkODBMeTljZ0dodjBnbGZlNkFjRE9DN1VvUHZycldHZWh2UWRYeXFCbWg2OTFSM05LdTlQUkVnWFRUVDQxb1B1emfSAeYBQVVfeXFMUG4tT25OYXFReTZuY24xT1p6UkZQRzEyNnh1WmRaWTYxOVpHTEtrbjVOUEx4T0V0clFPVlBLVmlsaWY4dWtoTU0tXzZyRTVXbVJwSjZZUi01eS1lVnhyZkJwVUpQeUh6UXBvbjYxM3RMeUNzWlJXR2pXQ245OXJNd3FEX0NIWkZYa0dtR0daVFBvdHlJZmRwbUJnLWVWWmdDdGJSdUlLWHR3X2lOd01YdWo2S0J5SUk0S2thNXZwdEotWmdBbVlLbmM0TGp0WC1CdERyVE1VZEw4ZHhlNHRzT3Y4N2NTVHc?oc=5)
 

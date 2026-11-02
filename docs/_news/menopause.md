@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about menopause. 2 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # menopause News
@@ -46,11 +46,11 @@ This page brings together the latest health news about “menopause” and lists
 
 ## Related News (2)
 
-### [Guest Column | I’m a skeletal biology researcher. Here’s what you need to know about bone loss. - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDJZNVNCUEZxR0NKRER4SDJZVmY5eHpVTkFNblppemd2V0dUQUJUcGN0SFcwVWRyM0pxXzNjMGRIcXNUTlVCdkxueTEzVkJzd2FMSjdiekhjOV9WOU1rN3ptU0gxZW5vV1lOVUZCMnlHOUJWYUROWHRkSUtBeFhXdWYtZEY3OWlxaU9yd29XVnJxR0Z2X3dBSGxtRDRDc3ZReS0zcHQ1T0RKYWF4Tm4xbW02TjhINHpWdmVRVllR?oc=5)
+### [Optimizing Dry Eye Management: An Expert Consensus on the Use of Sodium Hyaluronate at Different Concentrations](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcDlONWQydkROR1VSbWlIX2lMYzh0REo0THFXY1RpQXBuSkg3ZmpRazlBa3FjOHhNbFcwS3B0ZDBpY1RzcldKQVFRQUxYbXdQSzNnZ3pRWXdxTGpERG9OaGJ3dVgzeVQxZ2VjZkZPUldQczd6NWVhUzAzV2UxM0ZrOGNYcVdPdTU0bXZINWpxMEV0X0daTVNhUTRfLVlGeWlkMTZhZWN5LXdPdm9MZkxjMzhZX3NNRnRmVEFZSGk4cWgwY3FhSUZYRE9wSzJlN0NUOTAtTDRBY1JoSXFPV3pQcHphWQ?oc=5)
 
-2026-10-31
+2026-11-02
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDJZNVNCUEZxR0NKRER4SDJZVmY5eHpVTkFNblppemd2V0dUQUJUcGN0SFcwVWRyM0pxXzNjMGRIcXNUTlVCdkxueTEzVkJzd2FMSjdiekhjOV9WOU1rN3ptU0gxZW5vV1lOVUZCMnlHOUJWYUROWHRkSUtBeFhXdWYtZEY3OWlxaU9yd29XVnJxR0Z2X3dBSGxtRDRDc3ZReS0zcHQ1T0RKYWF4Tm4xbW02TjhINHpWdmVRVllR?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcDlONWQydkROR1VSbWlIX2lMYzh0REo0THFXY1RpQXBuSkg3ZmpRazlBa3FjOHhNbFcwS3B0ZDBpY1RzcldKQVFRQUxYbXdQSzNnZ3pRWXdxTGpERG9OaGJ3dVgzeVQxZ2VjZkZPUldQczd6NWVhUzAzV2UxM0ZrOGNYcVdPdTU0bXZINWpxMEV0X0daTVNhUTRfLVlGeWlkMTZhZWN5LXdPdm9MZkxjMzhZX3NNRnRmVEFZSGk4cWgwY3FhSUZYRE9wSzJlN0NUOTAtTDRBY1JoSXFPV3pQcHphWQ?oc=5)
 
 ---
 

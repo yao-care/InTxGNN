@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Flutamide?">
-<strong>Flutamide</strong> currently has <strong>13 news articles</strong>, with 8 predicted indications.
+<strong>Flutamide</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ This page combines the AI-predicted indications for Flutamide with the latest he
 <p><a href="{{ '/drugs/flutamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (10)
+
+### [Mumbai start-up Qure.ai leads global automated TB screening, develops AI diagnosing tools for lung cancer, heart diseases - Fortune India](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZEZvazdqRFZYWTQxVGUwZ0lIYnVMZmZrQ19LZUFXTTJmUW1NR0hXNE9nVzRXNDlmM1BTVmpyanplZ0FKNkg3VWZMMjAtWDVtUmZHTG5KVXBvYlZxZU9NekdKanhYNU5FendQYW1kMDZWeDlJdFNBazVaVDV1RVlVdUE1SHRSbEhrRTB5bXZrQXJDcFhhOVBxM1RxYmFYbHdMRDR2Y0kwbFFVYWdiaXpwZ1Z2SDgwQ3FycVhzYk81cTB4Q01BcE1pRjlXOVpaUUN0WVlmRjVoT3VDc25OdE52cmJZd1p4ZVg5YmtZR2NlVjBJZVVvU1MyNDlORjjSAYoCQVVfeXFMTmlrcm9GbHFFTkJpQVBUUU95ekdTTUd4dEc4b1NJLUU2aFVRd19PaUJtY2d6Mk5MM09uLTN1M1dsOUdXcmdiNkxZbTE0ZVBFbkpfbXhVaDE5UXhfN1FqcDVWdUE3ek9seFlIMVdJSXAtT2ptbllrYkJrbnJPVXR4UDFfLUhRLUphR1hXWW93X1ZsMmpSanBGTHhRenhBcG5jdk9xelJwMmpvb2o1RUhOOHgxdHZSX0ZPUkc0TElwWkRHeHhNSk4tVzBKU0RrMDRRUm1WeTFSQlpZaTk1b1VFYWZuRGF1Qk02cVhCaVN0dF9hWExmSVgtbHlLdDM5UUliOUxIRVBQMzhMdFE?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Fortune India](https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZEZvazdqRFZYWTQxVGUwZ0lIYnVMZmZrQ19LZUFXTTJmUW1NR0hXNE9nVzRXNDlmM1BTVmpyanplZ0FKNkg3VWZMMjAtWDVtUmZHTG5KVXBvYlZxZU9NekdKanhYNU5FendQYW1kMDZWeDlJdFNBazVaVDV1RVlVdUE1SHRSbEhrRTB5bXZrQXJDcFhhOVBxM1RxYmFYbHdMRDR2Y0kwbFFVYWdiaXpwZ1Z2SDgwQ3FycVhzYk81cTB4Q01BcE1pRjlXOVpaUUN0WVlmRjVoT3VDc25OdE52cmJZd1p4ZVg5YmtZR2NlVjBJZVVvU1MyNDlORjjSAYoCQVVfeXFMTmlrcm9GbHFFTkJpQVBUUU95ekdTTUd4dEc4b1NJLUU2aFVRd19PaUJtY2d6Mk5MM09uLTN1M1dsOUdXcmdiNkxZbTE0ZVBFbkpfbXhVaDE5UXhfN1FqcDVWdUE3ek9seFlIMVdJSXAtT2ptbllrYkJrbnJPVXR4UDFfLUhRLUphR1hXWW93X1ZsMmpSanBGTHhRenhBcG5jdk9xelJwMmpvb2o1RUhOOHgxdHZSX0ZPUkc0TElwWkRHeHhNSk4tVzBKU0RrMDRRUm1WeTFSQlpZaTk1b1VFYWZuRGF1Qk02cVhCaVN0dF9hWExmSVgtbHlLdDM5UUliOUxIRVBQMzhMdFE?oc=5)
+
+---
+
+### [Rising Breast Cancer Incidence Among Younger Women Raises Concerns - India News Network](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzRLUHU2Y0J6bXp0Sm1fN0tTZmN5akFRQ2RoRUhkUGg2ZDkzeEhhUG1KSDM1VE5Cc0duQWc0b25zRjc4OHctMzNfbFhteUc4czRFTXliNzhQYkdCNmhKQTF1N2VtUWZOUzJVcXBfRTRjVHZJdUxPeGoyR3B2Z3ZQMm5pNHhVMlRDdjVQNFRLc3VtbWNDQS14dXF4X1c0cGN0QWFPQ0ZUZzdiNTdBLVZ5RQ?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzRLUHU2Y0J6bXp0Sm1fN0tTZmN5akFRQ2RoRUhkUGg2ZDkzeEhhUG1KSDM1VE5Cc0duQWc0b25zRjc4OHctMzNfbFhteUc4czRFTXliNzhQYkdCNmhKQTF1N2VtUWZOUzJVcXBfRTRjVHZJdUxPeGoyR3B2Z3ZQMm5pNHhVMlRDdjVQNFRLc3VtbWNDQS14dXF4X1c0cGN0QWFPQ0ZUZzdiNTdBLVZ5RQ?oc=5)
+
+---
+
+### [Global Colorectal Cancer Congress to Bring Together Global Leaders, Patient Advocates and Cancer Experts - EIN Presswire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNuVFNXU0JhOUFWaGFPaG1meGhUa2d0a3VRa2lpYm56WGdEMUdRbk5XeXN3VGRxR0tRLWY1aS1NQjR5MnVmQy10SmlLaTVDVEpHekZQWUxJWWs2b0p4UHJ3aDE3ZHZBYTVNNVpqR3VKUXR2UFl4NGdhUWdmT3JkZEExNXdZdy1YN09YbTJUZ01MOXlLLW54dVpjMm1jSDY0MnBRUm9mMHZzczJ0Z3dMUm1yUnktakp0S1J6ZkRKakU0QXpDb2pjNkVYYkI5Mk1kVFhFbERFblB3VXpzLUd6RVB5cVI?oc=5)
+
+2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
+
+Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNuVFNXU0JhOUFWaGFPaG1meGhUa2d0a3VRa2lpYm56WGdEMUdRbk5XeXN3VGRxR0tRLWY1aS1NQjR5MnVmQy10SmlLaTVDVEpHekZQWUxJWWs2b0p4UHJ3aDE3ZHZBYTVNNVpqR3VKUXR2UFl4NGdhUWdmT3JkZEExNXdZdy1YN09YbTJUZ01MOXlLLW54dVpjMm1jSDY0MnBRUm9mMHZzczJ0Z3dMUm1yUnktakp0S1J6ZkRKakU0QXpDb2pjNkVYYkI5Mk1kVFhFbERFblB3VXpzLUd6RVB5cVI?oc=5)
+
+---
 
 ### [Death Rate Due To Alcohol Consumption May Differ By Beverage Type: Study Based On 340,000 Adults - Health and Me](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3FwYVNXb3dUdFFBSW1nMUNUWkhHRGF3cFYxdW9PWndsSWFZUEJYR0NlcDBlczlrOUljV0lzaEczNmJKZmR5VkpyZUc3ZlV0Vi11TEZZZ3dVSWw1cS15VjRVRUxvNk1vaUI0UnJvQlMwTV9SRFdvUEJZc2tLT1hmMXNNTTJFX2IyN1BnejlHTWtDZTJpallQS2c2OTdxMDJuWmFkbTQ2Q1lkUm5yYWpZeW1hQjVrN3FaX0lfZ1Ytd2xqV3hKYVlKM2d1dlFkUXM0dTA4NVJPM2p4QQ?oc=5)
 
 2026-11-01 <span class="news-indication-tag">cancer</span>
 
 Source: [Health and Me](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ3FwYVNXb3dUdFFBSW1nMUNUWkhHRGF3cFYxdW9PWndsSWFZUEJYR0NlcDBlczlrOUljV0lzaEczNmJKZmR5VkpyZUc3ZlV0Vi11TEZZZ3dVSWw1cS15VjRVRUxvNk1vaUI0UnJvQlMwTV9SRFdvUEJZc2tLT1hmMXNNTTJFX2IyN1BnejlHTWtDZTJpallQS2c2OTdxMDJuWmFkbTQ2Q1lkUm5yYWpZeW1hQjVrN3FaX0lfZ1Ytd2xqV3hKYVlKM2d1dlFkUXM0dTA4NVJPM2p4QQ?oc=5)
-
----
-
-### [Aster Medcity Organizes Cyclothon Emphasizing Awareness on Male Breast Cancer - Metro Vaartha](https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnVQaEZKN0F2d1p4Q0RCSHpYMjlDdUtlWEhkYW9UWjlLSDhqWkVNTjhNajJrQWZJc21HY0NhNl9IbXI4UnVaSzM3V2tKREM5ZU1HeVhmSzM1Rmg4aVZyc2hlbFZlRnp6YVM4QXdmTmZZWWFHb19vUnNHN0JoQjdDZHh6YmJoNnpFVUpIbzhGZF9ucDdBV3JSRWdrWm9qdldnbk9vNW90cV9wT2RVS2w4bFdRXzAxSkpFb0s0VDQ0NNIBzAFBVV95cUxPVzAxc1N0WHVQRklWNW9remhSWk5pQ2Vobm1LOHFlaFdXdVJGcDlfYXE1bWltXzc5Y2pjaFNFenpoV1IxQnlMdElkbHBRV09Oay0zWmdnd005SENMZ2xCc2tSZlREcVpMZ0NJWDBzOHhkRmJkcmZoN1JjenFPSEl2a1AxZ09RbHdRM2RZb29MWFZRYW1sY00wR2xyeDNoeGR5R1VPS1VkR0xQbGpoR3NxMnJaMnNmS3RQSEJRU1dDYlFkeV9sS1NWNmJXZ04?oc=5)
-
-2026-11-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Metro Vaartha](https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnVQaEZKN0F2d1p4Q0RCSHpYMjlDdUtlWEhkYW9UWjlLSDhqWkVNTjhNajJrQWZJc21HY0NhNl9IbXI4UnVaSzM3V2tKREM5ZU1HeVhmSzM1Rmg4aVZyc2hlbFZlRnp6YVM4QXdmTmZZWWFHb19vUnNHN0JoQjdDZHh6YmJoNnpFVUpIbzhGZF9ucDdBV3JSRWdrWm9qdldnbk9vNW90cV9wT2RVS2w4bFdRXzAxSkpFb0s0VDQ0NNIBzAFBVV95cUxPVzAxc1N0WHVQRklWNW9remhSWk5pQ2Vobm1LOHFlaFdXdVJGcDlfYXE1bWltXzc5Y2pjaFNFenpoV1IxQnlMdElkbHBRV09Oay0zWmdnd005SENMZ2xCc2tSZlREcVpMZ0NJWDBzOHhkRmJkcmZoN1JjenFPSEl2a1AxZ09RbHdRM2RZb29MWFZRYW1sY00wR2xyeDNoeGR5R1VPS1VkR0xQbGpoR3NxMnJaMnNmS3RQSEJRU1dDYlFkeV9sS1NWNmJXZ04?oc=5)
 
 ---
 
@@ -71,14 +87,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GVFhNZVlPZ3
 2026-11-01 <span class="news-indication-tag">cancer</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZNEtHZzV0S1dyTVNRNHV2Y1d0MGVwc3ZyZW13WUNDSFRyNFlkVmhYenU2WF9DMmpaTjBfcVc3eFpjaG5uT1ZpdTVFb2M3NnBOMXp3OHZFY1N4RnN6TGM4?oc=5)
-
----
-
-### [Nearly half of 10 million ton food waste generated annually could help save environment - Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
-
-2026-10-31 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
-
-Source: [Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
 
 ---
 
@@ -106,43 +114,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3
 
 ---
 
-### [Scientists unveil AI detecting pancreatic cancer risk 3 years early](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
+### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
-
----
-
-### [Importance of Early Detection in Breast Cancer Care Highlighted - India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUElOTVJ6TDllWUhzVzJxZTFmOGdFX2RiRkpuNUNOSjJERUF3U3ZFaWhiMWhyWXpXLVA3bHRaV3l2Tk45Rzd3YjVvTUY5ZW5SaXpka2psSnd2YXJCSTFBZTlvR1ZsaGt1UldWeUh3VkkyN2ZiVFhhdEo1bTBheVEyeVRkMWZSdG1NMXFhU2dwMEJ0WGQxWGNxS3lUQ0J5bE1WQlVjOQ?oc=5)
-
----
-
-### [Breast Cancer In Younger Women: Experts Call For Greater Awareness And Early Detection - BW Healthcare World](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlPZE1UT3RuSUlqQXNkNUhWZTJCRDZ3UW9FTERNRWJsZFE5M1o0WllsYXE0eks2R1hoNFJJNUdFNzgtbGt3R1QyMk9iV3hSMHl5d29Rby1QUi1hb1FySm1jcjRxcVVtak8xaVZZTm54cTFUcUZIS2NuNDlxRGxpc0R1OEx4aW96UDdtWXJqbXJNN2hEVEVQbDg2WDBpTFJwVlZydHFzNWxhQUFLUUtOelJaSVhSS1FYNi1la0xiTHpEQ3ZldmZPcjdPbDJNcEU?oc=5)
-
----
-
-### [Obesity in Young Adults Linked to Multiple Early Cancers - MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tRkJyRTIwUlY1b2RlRG1BQnVPODUwU1ZBY2lEWFJwM2tibEkzOExrZjV4YUkxeWZERU5yeEYyU0ZCWTl2REcwcXpudWM5VGJ3ZkJLY0JoUk1xQmU4dnhiemZKQzRkaW4tN21iSEdzM2kxSWpLMFE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span>
-
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE9tRkJyRTIwUlY1b2RlRG1BQnVPODUwU1ZBY2lEWFJwM2tibEkzOExrZjV4YUkxeWZERU5yeEYyU0ZCWTl2REcwcXpudWM5VGJ3ZkJLY0JoUk1xQmU4dnhiemZKQzRkaW4tN21iSEdzM2kxSWpLMFE?oc=5)
-
----
-
-### [When 'Cancer-Free' Isn't The End Of The Conversation: Why Recurrence Risk Matters In Early Breast Cancer](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDI3T0tsclRKQ0wzZmlYU25DTWFrZ1h0djdqX0lLaVBLaW1GRml2Y2I0c3hlNVAxb1lMclkyVDBDVXFKSGZVWkExdGlMSE5YRHRTYjJ0WmtQR2J6TldEZ3JHbU1ma2dLd0k3NmdYYTMyalVfZTZub0NTOE41QXpxNXY4eDN3eURRN0FkVERSZVRzeEhBd2tVR0VheDBCVngtcE9lLVA1OEdyTm41bG5wYndDTElkRGZobWVSWHBxcnlCTXc5dGFWQVM1ZEphNlpSZlMzRTg5cDEzWS1CVzJONl9lVFBKUQ?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbDI3T0tsclRKQ0wzZmlYU25DTWFrZ1h0djdqX0lLaVBLaW1GRml2Y2I0c3hlNVAxb1lMclkyVDBDVXFKSGZVWkExdGlMSE5YRHRTYjJ0WmtQR2J6TldEZ3JHbU1ma2dLd0k3NmdYYTMyalVfZTZub0NTOE41QXpxNXY4eDN3eURRN0FkVERSZVRzeEhBd2tVR0VheDBCVngtcE9lLVA1OEdyTm41bG5wYndDTElkRGZobWVSWHBxcnlCTXc5dGFWQVM1ZEphNlpSZlMzRTg5cDEzWS1CVzJONl9lVFBKUQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
 
 ---
 

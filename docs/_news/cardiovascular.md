@@ -60,11 +60,11 @@ This page brings together the latest health news about “heart disease” and l
 
 ## Related News (3)
 
-### [Nearly half of 10 million ton food waste generated annually could help save environment - Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
+### [Physical Activity Linked to Lower Cardiovascular Mortality in MASLD](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
 
-2026-10-31
+2026-11-02
 
-Source: [Interesting Engineering](https://news.google.com/rss/articles/CBMihwFBVV95cUxOTDhhWG9qZXRWNS1JSlVZUVFZUExVSmRJd1JWMFJ0MkFWWDVzX3ppWkpsM3hYSTIyZkxENEQyU1F6djZqZzhLWFBoc1Vfc0dranhyWlpJaldPUHF1emFSZGVjWXkxbDZzNDJlbTlULXpLSEprYm9PZ25TN3hpcE43MjRNdmttd0U?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
 
 ---
 
