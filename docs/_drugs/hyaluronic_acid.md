@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hyaluronic Acid
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 410
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Hyaluronic acid"
 predicted_indications: ["Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
-description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Hyaluronic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Hyaluronic acid is a naturally occurring glycosaminoglycan used as a lubricant, hydrating agent and viscosupplement. The TxGNN model predicts it may be useful for **Sjogren syndrome**, mainly as symptomatic support for dry eye and dry mouth. Currently **1 clinical trial** and **20 publications** are linked to this direction, but the trial does not test hyaluronic acid itself.
+Hyaluronic acid is a lubricating, hydrating glycosaminoglycan that is marketed in India in injectable, topical, serum and oral forms.
+The TxGNN model predicts it may be useful as supportive, symptomatic care in **Sjogren syndrome**, with a score of 0.9974.
+Support comes from **1 loosely related clinical trial** and **about 20 publications**, mostly small clinical or observational studies of hyaluronic acid-containing preparations in Sjogren patients. No randomized trial specific to Sjogren syndrome was found.
 
 ## Quick Overview
 
@@ -47,41 +49,45 @@ Hyaluronic acid is a naturally occurring glycosaminoglycan used as a lubricant, 
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Sjogren syndrome |
 | TxGNN Prediction Score | 0.9974 |
-| Evidence Level | L5 |
+| Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Hold |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known properties, hyaluronic acid is a hydrating, viscous polymer that lubricates and protects tissue surfaces and improves tear film stability.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on what is known, hyaluronic acid is a water-binding, viscoelastic polymer that lubricates and protects mucosal and ocular surfaces.
 
-Sjogren syndrome is an autoimmune disease that damages the tear and salivary glands, causing dry eye and dry mouth. Hyaluronic acid does not change the underlying autoimmune process. Any benefit would be supportive and symptomatic, by lubricating and protecting the ocular surface.
+Sjogren syndrome is an autoimmune destruction of the lacrimal and salivary glands, which causes ocular dryness and dry mouth. A lubricant and surface protectant can plausibly relieve these symptoms and improve tear film stability.
+
+Hyaluronic acid does not modify the underlying autoimmune process. Any benefit would be supportive and symptomatic, not disease-modifying.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02257957](https://clinicaltrials.gov/study/NCT02257957) | Phase 3 | Completed | 30 | Platelet-rich plasma injection for severe dry eye. Hyaluronic acid is not the investigational agent, and the link to Sjogren syndrome is indirect. |
+| [NCT02257957](https://clinicaltrials.gov/study/NCT02257957) | Phase 3 | Completed | 30 | Platelet-rich plasma injection for severe ocular surface dryness. Hyaluronic acid is not the investigational agent, and the link to Sjogren syndrome is indirect. |
+
+No registered trial tests hyaluronic acid directly in Sjogren syndrome.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32067777](https://pubmed.ncbi.nlm.nih.gov/32067777/) | 2020 | RCT | Auris Nasus Larynx | Hyaluronic acid nasal sprays versus saline in dry nose symptoms; not a Sjogren population |
-| [28557655](https://pubmed.ncbi.nlm.nih.gov/28557655/) | 2017 | Clinical study | J Ocul Pharmacol Ther | Tear film stability with hyaluronic acid versus cross-linked hyaluronic acid eye drops in patients with Sjögren-related dry eye |
-| [28375792](https://pubmed.ncbi.nlm.nih.gov/28375792/) | 2017 | Clinical trial | J Ocul Pharmacol Ther | Cortisol phosphate eye drops in a hyaluronic acid vehicle for dry eye in Sjogren syndrome |
-| [15110955](https://pubmed.ncbi.nlm.nih.gov/15110955/) | 2004 | Review | Rev Med Interne | Overview of treatments for xerophthalmia in Sjögren's syndrome |
-| [35370264](https://pubmed.ncbi.nlm.nih.gov/35370264/) | 2022 | Formulation study | Biol Pharm Bull | Hyaluronate sheets containing pilocarpine for topical xerostomia treatment |
-| [9797560](https://pubmed.ncbi.nlm.nih.gov/9797560/) | 1998 | Observational | Ann Rheum Dis | Salivary and serum hyaluronic acid concentrations in primary Sjögren's syndrome |
-| [10364906](https://pubmed.ncbi.nlm.nih.gov/10364906/) | 1999 | Clinical study | Ann Rheum Dis | Hydroxychloroquine in primary Sjögren's syndrome; hyaluronic acid measured only as a biomarker |
-| [23890196](https://pubmed.ncbi.nlm.nih.gov/23890196/) | 2014 | Clinical/experimental | Acta Ophthalmol | Autologous serum eye drops diluted with sodium hyaluronate |
-
-The studies of hyaluronic acid in Sjögren-related dry eye are small and use it as a vehicle or comparator. No cited study directly shows that hyaluronic acid treats Sjogren syndrome itself, so the evidence level is L5.
+| [28557655](https://pubmed.ncbi.nlm.nih.gov/28557655/) | 2017 | Clinical study | J Ocul Pharmacol Ther | Compared tear film stability after hyaluronic acid versus cross-linked hyaluronic acid eye drops in Sjogren patients with ocular dryness |
+| [28375792](https://pubmed.ncbi.nlm.nih.gov/28375792/) | 2017 | Clinical trial | J Ocul Pharmacol Ther | Evaluated safety and efficacy of 0.3% cortisol phosphate eye drops in a hyaluronic acid vehicle in Sjogren-related ocular dryness |
+| [35370264](https://pubmed.ncbi.nlm.nih.gov/35370264/) | 2022 | Formulation study | Biol Pharm Bull | Hyaluronate sheets containing pilocarpine were developed as a topical treatment for xerostomia, including in Sjogren syndrome, to reduce systemic side effects |
+| [9797560](https://pubmed.ncbi.nlm.nih.gov/9797560/) | 1998 | Observational | Ann Rheum Dis | Measured salivary and serum hyaluronic acid concentrations in primary Sjogren syndrome |
+| [15110955](https://pubmed.ncbi.nlm.nih.gov/15110955/) | 2004 | Review | Rev Med Interne | Reviewed the treatments used for xerophthalmia and keratoconjunctivitis sicca in Sjogren syndrome |
+| [30830076](https://pubmed.ncbi.nlm.nih.gov/30830076/) | 2019 | Clinical study | Vestn Oftalmol | Evaluated the antioxidative effect of artificial tears in severe keratoconjunctivitis sicca in Sjogren patients |
+| [29296554](https://pubmed.ncbi.nlm.nih.gov/29296554/) | 2017 | Clinical study | Taiwan J Ophthalmol | Examined serum components and efficacy of autologous serum eye drops in active and inactive Sjogren syndrome |
+| [23890196](https://pubmed.ncbi.nlm.nih.gov/23890196/) | 2014 | Clinical and experimental study | Acta Ophthalmol | Assessed sodium hyaluronate as a vehicle for diluting autologous serum eye drops |
+| [10364906](https://pubmed.ncbi.nlm.nih.gov/10364906/) | 1999 | Clinical study | Ann Rheum Dis | Hydroxychloroquine study in primary Sjogren syndrome; hyaluronic acid was measured only as a biomarker |
+| [40346044](https://pubmed.ncbi.nlm.nih.gov/40346044/) | 2025 | Preclinical | Int J Oral Sci | Hydrogel platform for expanding functional salivary acinar cell spheroids, relevant to xerostomia in Sjogren syndrome |
 
 ## India Market Information
 
-At least 20 valid licences are recorded, all for single-ingredient products, and none are cancelled. The list below may be partial.
+Hyaluronic acid is marketed in India, and all licences in the data compiled for this report are valid. The list below shows five main authorizations and may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -93,23 +99,22 @@ At least 20 valid licences are recorded, all for single-ingredient products, and
 
 ## Safety Considerations
 
-- **Drug Interactions**: Two moderate interactions are recorded, with topical cetylpyridinium and topical benzalkonium.
-- **Disease Contraindication Signal**: Glaucoma is listed as a contraindicated condition in the data compiled for this report. This is not from label text and should be checked against product labelling.
+- **Drug Interactions** (moderate level): topical cetylpyridinium and topical benzalkonium.
 
-Please refer to the package insert for other safety information.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The prediction score is high and the lubricating role of hyaluronic acid is plausible. However, no cited study directly tests hyaluronic acid for Sjogren syndrome itself, and the only listed trial studies a different agent. Any benefit would be symptomatic rather than disease-modifying.
+Small clinical studies of hyaluronic acid-based eye drops and sheets in Sjogren patients support a symptomatic role, so the evidence level is L3. No randomized trial specific to Sjogren syndrome exists, and hyaluronic acid does not address the autoimmune cause. The use should be framed as supportive care.
 
 **To proceed, the following is needed:**
-- Controlled trials of hyaluronic acid in patients with confirmed Sjogren syndrome, with symptom and tear or saliva outcomes
-- Package insert warnings and contraindications from the Indian licences
-- Mechanism of action data
-- Review of the glaucoma contraindication signal
+- A randomized, controlled trial of hyaluronic acid alone in Sjogren patients, with ocular and oral symptom endpoints
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications for the relevant formulations
+- Confirmation of which formulation and route (ocular, oral or other) suit the target symptoms, as the licensed forms in India are mainly injectable and topical
 
 ## Disclaimer
 

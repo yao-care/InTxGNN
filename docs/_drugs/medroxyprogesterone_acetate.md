@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Medroxyprogesterone Acetate
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 518
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Medroxyprogesterone Acetate: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Medroxyprogesterone Acetate: predicted new indication Breast fibrocystic disease (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,9 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Medroxyprogesterone acetate is a synthetic progestin that is marketed in India in oral tablet and injectable forms.
-The TxGNN model predicts it may be useful for **breast fibrocystic disease**, with a score of 0.9995.
-Support is limited: there are **no registered clinical trials** and **9 publications**, mostly older reviews, small uncontrolled reports and hormone replacement therapy (HRT) cohort studies.
+Medroxyprogesterone acetate (MPA) is a synthetic progestin that is already marketed in India as oral tablets and an injectable. The TxGNN model predicts it may be useful for **breast fibrocystic disease**, with a score of 0.9995. Support is limited: there are **no registered clinical trials** and **9 publications**, including two small, older, uncontrolled clinical reports. Evidence is rated **L3**.
+
+---
 
 ## Quick Overview
 
@@ -49,40 +49,47 @@ Support is limited: there are **no registered clinical trials** and **9 publicat
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Breast fibrocystic disease |
 | TxGNN Prediction Score | 0.9995 |
-| Evidence Level | L5 |
+| Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
+---
+
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Medroxyprogesterone acetate is a synthetic progestin, and progestins act through the progesterone receptor.
+Detailed mechanism-of-action data for MPA is not available in the data compiled for this report. Based on general pharmacology, MPA acts as a progestin, an agonist at the progesterone receptor.
 
-Fibrocystic breast disease is thought to be driven by estrogen predominance and relative progesterone deficiency, which promote overgrowth of connective and epithelial tissue (Vorherr, 1986). A progestin could plausibly counter this estrogen-driven proliferation, and that is the basis for the prediction.
+The literature describes fibrocystic breast disease as driven by estrogen predominance and relative progesterone deficiency. This leads to overgrowth of connective tissue and then of the epithelium. A progestin could therefore plausibly counter estrogen-driven proliferation of breast tissue.
 
-The picture is mixed. Two small, older reports (a 1983 uncontrolled therapeutic trial in severe disease and a 1988 adolescent case series) suggest possible benefit, but their abstracts are not available. HRT studies, where medroxyprogesterone acetate is combined with estrogen, point to increased breast density and epithelial proliferation, which conflicts with a benefit and raises a safety question. A canine study also reports severe myoepithelial hyperplasia with some progestins, which may not carry over to humans.
+The evidence is mixed. Two small, older clinical reports suggest a possible benefit: a 1983 therapeutic trial in severe disease and a 1988 series in adolescents. However, hormone replacement therapy (HRT) studies of estrogen combined with MPA report increased breast density and epithelial proliferation. This raises a safety concern and conflicts with the idea of benefit. No modern controlled trials exist.
 
-None of the cited studies is a modern controlled trial of this drug in this disease. Under the evidence rules this prediction is therefore rated L5, because no study provides controlled evidence directly on the predicted disease.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6241963](https://pubmed.ncbi.nlm.nih.gov/6241963/) | 1983 | Small uncontrolled clinical trial | Revista chilena de obstetricia y ginecologia | Therapeutic trial of medroxyprogesterone acetate in severe fibrocystic breast disease (no abstract available) |
-| [2978834](https://pubmed.ncbi.nlm.nih.gov/2978834/) | 1988 | Case series | Revista chilena de pediatria | Medroxyprogesterone acetate in adolescents with fibrocystic breast disease (no abstract available) |
-| [12841885](https://pubmed.ncbi.nlm.nih.gov/12841885/) | 2003 | Cohort | Climacteric | Compares five HRT regimens on fibrocystic mastopathy in postmenopausal women |
-| [11379380](https://pubmed.ncbi.nlm.nih.gov/11379380/) | 2001 | Cohort | Climacteric | Fine-needle-aspiration cytology used to follow breast epithelial proliferation during HRT |
-| [11379377](https://pubmed.ncbi.nlm.nih.gov/11379377/) | 2001 | Cohort | Climacteric | Effects of different HRT regimens on mammographic breast density |
-| [10576236](https://pubmed.ncbi.nlm.nih.gov/10576236/) | 1999 | Cohort | Int J Gynaecol Obstet | Mammographic and ultrasound changes, including new solid or cystic formations, during HRT |
-| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Review | Am J Obstet Gynecol | Fibrocystic disease linked to estrogen predominance and progesterone deficiency; breast cancer risk raised two- to fourfold |
-| [3657597](https://pubmed.ncbi.nlm.nih.gov/3657597/) | 1987 | Review | Maturitas | Cause remains unclear; classical oral contraceptives reduce incidence, while some progestogens induce myoepithelial hyperplasia in dogs |
-| [8603031](https://pubmed.ncbi.nlm.nih.gov/8603031/) | 1996 | Preclinical/mechanistic | J Steroid Biochem Mol Biol | Androgen receptor-mediated growth control in breast and endometrial cancer cells |
+| [6241963](https://pubmed.ncbi.nlm.nih.gov/6241963/) | 1983 | Clinical trial (small, uncontrolled) | Rev Chil Obstet Ginecol | Therapeutic trial of MPA in severe fibrocystic breast disease (no abstract available) |
+| [2978834](https://pubmed.ncbi.nlm.nih.gov/2978834/) | 1988 | Case series | Rev Chil Pediatr | MPA used in fibrocystic breast disease in adolescents (no abstract available) |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Review | Am J Obstet Gynecol | Fibrocystic disease results from estrogen predominance and progesterone deficiency; breast cancer risk is increased two- to fourfold |
+| [3657597](https://pubmed.ncbi.nlm.nih.gov/3657597/) | 1987 | Review | Maturitas | Oral contraceptives (estrogen plus progestogen) reduce fibrocystic breast disease incidence; some progestogens, including MPA, caused myoepithelial hyperplasia in beagles |
+| [12841885](https://pubmed.ncbi.nlm.nih.gov/12841885/) | 2003 | Cohort | Climacteric | Compared five HRT regimens in postmenopausal women with benign fibrocystic mastopathy |
+| [10576236](https://pubmed.ncbi.nlm.nih.gov/10576236/) | 1999 | Cohort | Int J Gynaecol Obstet | Mammographic and ultrasound changes in breast tissue during different types of HRT |
+| [11379380](https://pubmed.ncbi.nlm.nih.gov/11379380/) | 2001 | Cohort | Climacteric | Breast epithelial proliferation during HRT assessed by fine-needle cytology |
+| [11379377](https://pubmed.ncbi.nlm.nih.gov/11379377/) | 2001 | Cohort | Climacteric | Mammographic breast density across HRT regimens (continuous combined, unopposed transdermal, low-potency estrogen) |
+
+---
 
 ## India Market Information
+
+MPA is marketed in India, and all 20 licences found in the local data are valid. The list below may be partial, and approved indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -92,29 +99,29 @@ Currently no related clinical trials registered.
 | 134176 | Meprate 5mg Tablet (Serum Institute Of India Ltd) | Strip of 10 tablets | Not available |
 | 174374 | Pari Contraceptive Injection (Janani) | Box of 1 injection | Not available |
 
-Twenty single-ingredient licences are valid and none are cancelled, covering oral tablets and an injectable. The list may be partial.
+---
 
 ## Safety Considerations
 
-- **Conditions flagged as contraindicated in reference data (not label text):** hypertension, liver failure and liver disease, kidney disease, gallbladder disease, epilepsy, asthma, diabetes mellitus and diabetic ketoacidosis, hypothyroidism, systemic lupus erythematosus, osteoporosis, hypercalcemia, hypertriglyceridemia, substance abuse or dependence, anxiety and related mood disorders, and female breast carcinoma.
-- **Drug interactions:** 205 interactions were found. The ones listed are all moderate, and many involve glucose-lowering drugs: acarbose, metformin, glimepiride, chlorpropamide, the gliptins and gliflozins, GLP-1 agonists such as semaglutide and liraglutide, and insulins. Others include dexamethasone, aprepitant and clarithromycin.
-- **Breast-specific concern:** HRT studies suggest that estrogen plus medroxyprogesterone acetate may increase breast density and epithelial proliferation. Breast carcinoma also appears among the flagged conditions, so safety in breast disease needs careful review.
+- **Hormone therapy context:** Studies of estrogen combined with MPA report increased mammographic breast density and epithelial proliferation. This is a particular concern when the target condition is a proliferative breast disease.
+- **Drug interactions:** 205 interactions are recorded, and the 20 listed are all of moderate level. They mainly involve glucose-lowering agents: acarbose, metformin, glimepiride, chlorpropamide, the gliptins (alogliptin, saxagliptin), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), GLP-1 agonists (liraglutide, semaglutide, dulaglutide, albiglutide) and insulins (aspart, degludec, detemir). Other interacting drugs include dexamethasone, aprepitant, clarithromycin and pegvaliase.
 
-Please refer to the package insert for label warnings, as none were available.
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The progestin rationale is biologically plausible, but the only direct human data are two small, uncontrolled reports from the 1980s. HRT studies suggest the drug may raise breast proliferation and density, which conflicts with a benefit in breast disease. The evidence is rated L5.
+The biological rationale is plausible, and two small, older, uncontrolled clinical reports exist (evidence level L3). However, there are no randomized trials, and HRT data suggest that MPA combined with estrogen may increase breast proliferation. This should be treated as a research question rather than a candidate ready for development.
 
 **To proceed, the following is needed:**
-- A modern controlled trial of medroxyprogesterone acetate alone in fibrocystic breast disease
-- Review of the full text of the 1983 and 1988 reports
-- Mechanism of action data
-- Package insert warnings and contraindications
-- A breast-safety assessment covering density, proliferation and cancer risk
+- A controlled clinical study of MPA alone (without estrogen) in fibrocystic breast disease, with breast density and proliferation outcomes
+- A focused safety review of breast effects of MPA, including the proliferation signals seen in HRT studies
+- Mechanism-of-action data for MPA in breast tissue
+- Package insert warnings and contraindications for the marketed Indian products
 
 ## Disclaimer
 

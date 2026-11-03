@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mefenamic Acid
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 519
-evidence_level: L3
+evidence_level: L2
 indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Mefenamic acid"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L3). Approved use: Not recorded in the local data"
+description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,9 +38,9 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) that inhibits prostaglandin synthesis and is marketed in India as a single-ingredient product.
+Mefenamic acid is a non-steroidal anti-inflammatory drug that blocks prostaglandin synthesis and is marketed in India as a single-ingredient product.
 The TxGNN model predicts it may be useful for **headache disorder**.
-This is supported by **no registered clinical trials** but **18 publications**, including small controlled studies in migraine, a headache subtype.
+There are **no registered clinical trials**, but **19 publications** were compiled, including three small randomized double-blind trials in migraine, a subtype of headache disorder.
 
 ## Quick Overview
 
@@ -49,18 +49,18 @@ This is supported by **no registered clinical trials** but **18 publications**, 
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Headache disorder |
 | TxGNN Prediction Score | 0.9964 |
-| Evidence Level | L3 |
+| Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Hold |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Mefenamic acid is an NSAID that inhibits cyclooxygenase (COX)-mediated prostaglandin synthesis.
+Detailed mechanism-of-action data is not available in the compiled data. The literature describes mefenamic acid as an inhibitor of prostaglandin synthesis and action.
 
-Prostaglandins are thought to contribute to headache, especially menstrually related headache and migraine. Published studies have tested mefenamic acid in migraine attacks, migraine prophylaxis and menstrual migraine. Migraine is a major form of headache disorder, so the prediction has a plausible pharmacological basis.
+Prostaglandins are implicated in some headache types, particularly menstrually related headache and migraine. This gives a plausible pharmacological link between the drug and headache disorder. Several of the studies below test it directly in migraine patients, with mixed results. They suggest benefit for acute attack pain, for menstrual migraine, and for reducing attack frequency in prophylaxis.
 
-Two limits apply. Much of the supporting evidence is old and small. It also overlaps heavily with the migraine literature rather than covering headache disorders broadly. Prolonged NSAID use can itself cause medication-overuse headache, and long-term mefenamic acid use has been linked to enteropathy.
+The evidence is small-scale and dated. Long-term use also carries safety concerns, including medication-overuse headache and gut injury, which weigh against routine prophylactic use.
 
 ## Clinical Trial Evidence
 
@@ -70,20 +70,20 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6347393](https://pubmed.ncbi.nlm.nih.gov/6347393/) | 1983 | RCT | Cephalalgia | Double-blind crossover of mefenamic acid 500 mg vs paracetamol 500 mg in 40 migraine patients (metoclopramide given in all attacks) |
-| [3524092](https://pubmed.ncbi.nlm.nih.gov/3524092/) | 1986 | RCT | Acta Neurol Scand | Double-blind crossover in 29 patients (17 completed): mefenamic acid and propranolol both significantly reduced attack frequency and total duration vs placebo; no effect on average severity or duration |
-| [10799353](https://pubmed.ncbi.nlm.nih.gov/10799353/) | 2000 | RCT | Eur J Med Res | Double-blind, placebo-controlled study of mefenamic acid in 24 women with menstrual migraine |
-| [22529203](https://pubmed.ncbi.nlm.nih.gov/22529203/) | 2012 | Guideline | Neurology | AAN/AHS evidence-based update on NSAIDs and complementary treatments for episodic migraine prevention |
-| [18427072](https://pubmed.ncbi.nlm.nih.gov/18427072/) | 2008 | Evidence-based review | Neurology | Systematic review and meta-analysis of therapies for acute and short-term preventive treatment of menstrually related migraine |
+| [6347393](https://pubmed.ncbi.nlm.nih.gov/6347393/) | 1983 | RCT | Cephalalgia | Double-blind crossover in 40 migraine patients comparing mefenamic acid 500 mg with paracetamol 500 mg over six attacks, with metoclopramide given in all attacks |
+| [3524092](https://pubmed.ncbi.nlm.nih.gov/3524092/) | 1986 | RCT | Acta Neurol Scand | Double-blind crossover in 29 patients. Mefenamic acid and propranolol both reduced attack frequency and total duration versus placebo, with no effect on average severity or duration |
+| [10799353](https://pubmed.ncbi.nlm.nih.gov/10799353/) | 2000 | RCT | Eur J Med Res | Placebo-controlled study in 24 women with menstrual migraine without aura, treated over two menstrual cycles |
+| [22529203](https://pubmed.ncbi.nlm.nih.gov/22529203/) | 2012 | Guideline | Neurology | American Academy of Neurology and American Headache Society update on NSAIDs and complementary treatments for episodic migraine prevention |
+| [18427072](https://pubmed.ncbi.nlm.nih.gov/18427072/) | 2008 | Evidence-based review | Neurology | Systematic review and meta-analysis of therapy trials for acute and short-term preventive treatment of menstrually related migraine |
 | [20836574](https://pubmed.ncbi.nlm.nih.gov/20836574/) | 2010 | Review | Drugs | Prevention and treatment of menstrual migraine |
-| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathol Biol | Review of controlled NSAID studies in acute migraine and prophylaxis, including mefenamic acid |
+| [40265504](https://pubmed.ncbi.nlm.nih.gov/40265504/) | 2025 | Review | Curr Opin Neurol | Update on the clinical course and management of migraine in women |
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathol Biol | Review of controlled NSAID studies in migraine attacks and prophylaxis, including mefenamic acid |
 | [8749241](https://pubmed.ncbi.nlm.nih.gov/8749241/) | 1995 | Review | Cephalalgia | Analgesics and NSAIDs in acute migraine attacks, usually combined with an antiemetic |
 | [29095288](https://pubmed.ncbi.nlm.nih.gov/29095288/) | 2017 | Case series (safety) | Medicine | Severe enteropathy with villous atrophy in prolonged mefenamic acid users |
-| [8262786](https://pubmed.ncbi.nlm.nih.gov/8262786/) | 1993 | Observational | Headache | Analgesic use and chronic renal disease in 79 patients with chronic headache; mefenamic acid was among the commonly used analgesics |
 
 ## India Market Information
 
-Mefenamic acid is marketed in India. All 20 licences in the local records are valid single-ingredient products, and the records may be partial. Five main licences are listed below.
+The data lists 20 valid single-ingredient licences. The records may be partial, so the list below is not exhaustive. The five shown are the main ones:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,23 +95,35 @@ Mefenamic acid is marketed in India. All 20 licences in the local records are va
 
 ## Safety Considerations
 
-- **Drug Interactions**: The data compiled for this report records 195 interacting drugs. Examples rated Moderate include acetylsalicylic acid, corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), metformin, chlorpropamide, aprepitant, mesalazine and balsalazide. Examples rated Minor include famotidine, ranitidine and cimetidine.
-- **Literature-reported risks**: Prolonged use has been associated with severe enteropathy with villous atrophy (PMID 29095288). Chronic analgesic use in headache patients has been associated with renal disease (PMID 8262786). NSAID overuse is also a recognised route to medication-overuse headache (PMID 38812640).
+- **Literature-reported risks:**
+  - Prolonged use has been linked to severe enteropathy with villous atrophy.
+  - NSAIDs, including mefenamic acid, are associated with medication-overuse headache.
+  - Analgesic overuse in chronic headache patients has been linked to chronic renal disease.
+  - An acute tubulointerstitial nephritis case was reported in a child given NSAIDs including mefenamic acid.
+- **Drug Interactions:** 195 interactions were identified. Moderate-level examples include:
+  - acetylsalicylic acid
+  - metformin
+  - chlorpropamide
+  - corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone)
+  - mesalazine and balsalazide
+  - aprepitant
 
-Please refer to the package insert for full warnings and contraindications.
+  Minor-level examples include famotidine, ranitidine and cimetidine.
+
+Please refer to the package insert for full warnings and contraindications, as they are not available in the compiled data.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Small, older controlled studies in migraine support the prediction. However, there are no registered clinical trials, and the evidence is concentrated in one headache subtype. Package-insert safety data is also missing, and long-term use carries gastrointestinal, renal and medication-overuse headache concerns.
+Small randomized double-blind trials of mefenamic acid exist in migraine, a subtype of headache disorder. They date from 1983, 1986 and 2000 and include a placebo-controlled menstrual migraine study. There is no phase 3 programme and no registered modern trial, so the evidence level is L2. The drug is already marketed in India, but the dated, small-scale evidence and the risks of long-term use call for careful limits.
 
 **To proceed, the following is needed:**
-- Package-insert warnings and contraindications from the India licences
-- Detailed mechanism-of-action data
-- Modern, adequately powered controlled trials in defined headache populations, with short treatment duration to limit medication-overuse and gastrointestinal risk
-- A clear comparison with established headache treatments to define mefenamic acid's place, for example in menstrual migraine
+- A modern, adequately powered randomized trial in a defined headache population, such as menstrual migraine
+- Limits on treatment duration, with monitoring for medication-overuse headache and gastrointestinal and renal toxicity
+- Package insert warnings and contraindications, and mechanism-of-action data
+- Review of interactions, especially with aspirin, corticosteroids and other drugs that raise gastrointestinal or renal risk
 
 ## Disclaimer
 
