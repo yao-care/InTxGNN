@@ -19,9 +19,9 @@ Evidence levels range from L1 (stronger clinical evidence) to L5 (model predicti
 - `/evidence-low/` Model Prediction Only (L5) — L5 candidates in InTxGNN: model prediction only, with no clinical or literature evidence yet.
 - `/methodology/` Methodology — How InTxGNN produces and validates predictions: TxGNN deep learning prediction, evidence collection, L1-L5 grading, and decision recommendations.
 - `/guide/` User Guide — InTxGNN user guide: how to look up drugs, read evidence levels and interpret recommendations.
-- `/sources/` Data Sources — Data sources behind InTxGNN: CDSCO registration data, TxGNN, ClinicalTrials.gov, PubMed and DrugBank.
+- `/sources/` Data Sources — Data sources behind InTxGNN: the public Indian Medicine Dataset (GitHub), TxGNN, ClinicalTrials.gov, PubMed and DrugBank.
 - `/downloads/` Downloads — InTxGNN open data downloads: FHIR resources, prediction results and search index.
-- `/about/` About — InTxGNN is a drug repurposing prediction platform developed by 藥提醒科技有限公司 (yao.care), built on the Harvard TxGNN model, covering CDSCO-approved medicines in India.
+- `/about/` About — InTxGNN is a drug repurposing prediction platform developed by 藥提醒科技有限公司 (yao.care), built on the Harvard TxGNN model, covering medicines in the public Indian Medicine Dataset for India.
 - `/news/` Health News — Health news about drugs with repurposing reports on InTxGNN
 
 ## Example drug reports
