@@ -3,18 +3,18 @@ layout: default
 title: Ilaprazole
 parent: High Evidence (L1-L2)
 nav_order: 423
-evidence_level: L1
+evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Ilaprazole"
 predicted_indications: ["gastroduodenitis"]
-description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L1). Approved use: Not recorded in the local data"
+description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Ilaprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **1** 
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,8 +38,9 @@ Evidence Level: **L1** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Ilaprazole is a proton pump inhibitor originally used for peptic ulcer disease, gastroesophageal reflux disease and esophagitis.
-Because peptic ulcer disease is already an original indication, this is largely an on-label use rather than true repurposing.
+Ilaprazole is a proton pump inhibitor that reduces gastric acid secretion. The TxGNN model predicts it may be effective for **gastroduodenitis**. Support currently consists of **1 randomised, double-blind trial publication** in gastric and duodenal ulcers and no registered clinical trials for this condition.
+
+---
 
 ## Quick Overview
 
@@ -48,42 +49,40 @@ Because peptic ulcer disease is already an original indication, this is largely 
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 0.9952 |
-| Evidence Level | L1 |
+| Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
+---
+
 ## Why is This Prediction Reasonable?
 
-Ilaprazole inhibits the H+/K+ ATPase (the gastric proton pump, encoded by ATP4A) in parietal cells. This suppresses gastric acid secretion, and pharmacology data compiled for this report indicate it does so more potently than omeprazole. Detailed mechanism of action data is otherwise not available in the compiled data.
+Detailed mechanism-of-action data is not available for this drug. Available pharmacology data show that ilaprazole acts on ATP4A, the gastric proton pump of parietal cells, and inhibits secretion of H⁺ ions (gastric acid). It is reported to do this more potently than omeprazole.
 
-Peptic ulcers are acid-driven, so lowering gastric acid promotes healing. Active peptic ulcer disease is a direct extension of the drug's original peptic ulcer indication, and the mechanism applies directly.
+Gastroduodenitis is inflammation of the stomach and duodenal lining. Strong, sustained acid suppression is mechanistically plausible as a way to reduce acid-related mucosal injury and support healing in both organs. The one linked trial studied ilaprazole against omeprazole in gastric and duodenal ulcers, which involve the same mucosal tissues.
 
-Other predictions are weaker. For gastrojejunal ulcer, gastroduodenitis and peptic ulcer perforation, the support is only indirect or absent, and these remain research questions.
+This remains a mechanistic inference. No registered trial targets gastroduodenitis itself, so dedicated confirmation is still needed.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Phase 3 | Completed | 323 | Ilaprazole vs pantoprazole triple therapy for H. pylori eradication in gastric and/or duodenal ulcer patients (7 days) |
-| [NCT06284876](https://clinicaltrials.gov/study/NCT06284876) | Phase 3 | Recruiting | 416 | Non-inferiority of ilaprazole 10 mg vs active control in preventing NSAID-associated peptic ulcer at Week 24; results not yet available |
+Currently no related clinical trials registered.
 
-Further trials, mostly in duodenal ulcer and gastric ulcer (for example NCT00952978, Phase 3, n=496, vs omeprazole), support the broader ulcer indication.
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22070512](https://pubmed.ncbi.nlm.nih.gov/22070512/) | 2012 | RCT | Curr Med Res Opin | Phase III trial of ilaprazole 10 mg/d vs omeprazole 20 mg/d in duodenal ulcer |
-| [30789856](https://pubmed.ncbi.nlm.nih.gov/30789856/) | 2019 | RCT | J Clin Gastroenterol | Ilaprazole vs rabeprazole in duodenal ulcer; dose-effect relationship |
-| [20679904](https://pubmed.ncbi.nlm.nih.gov/20679904/) | 2011 | RCT | J Clin Gastroenterol | Ilaprazole vs omeprazole in duodenal ulcer; efficacy, safety and dose-response |
-| [19434360](https://pubmed.ncbi.nlm.nih.gov/19434360/) | 2009 | RCT | J Gastroenterol | Ulcer-healing effects of ilaprazole vs omeprazole in gastric and duodenal ulcers |
-| [27605258](https://pubmed.ncbi.nlm.nih.gov/27605258/) | 2016 | RCT | Clin Drug Investig | Ilaprazole vs active control in reflux esophagitis |
-| [24801687](https://pubmed.ncbi.nlm.nih.gov/24801687/) | 2014 | Preclinical (animal) | Dig Dis Sci | Intravenous ilaprazole more potent than oral against gastric lesions in rats |
+| [19434360](https://pubmed.ncbi.nlm.nih.gov/19434360/) | 2009 | RCT (randomised, parallel, double-blind) | Journal of Gastroenterology | Compared the ulcer-healing effects of ilaprazole and omeprazole in gastric and duodenal ulcers. It was the first study of ilaprazole in patients with ulcer disease. |
+
+---
 
 ## India Market Information
 
-Twenty valid single-ingredient registrations are listed; five are shown below. The data compiled for this report contain no approved indication text for these products.
+At least 20 single-ingredient licences are currently valid, and none are cancelled. The list below shows five of them and may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -93,27 +92,29 @@ Twenty valid single-ingredient registrations are listed; five are shown below. T
 | 108021 | Ilapro 10 Tablet | Strip of 10 tablets | Ajanta Pharma Ltd |
 | 110365 | Ilabest 10mg Tablet | Strip of 10 tablets | Lupin Ltd |
 
-All products are oral tablets.
+All listed products are oral tablets.
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The only interaction record is its pharmacological target, ATP4A (the gastric proton pump), which is the intended mechanism rather than a clinical drug-drug interaction. No clinically relevant drug interactions are listed in the data.
+Please refer to the package insert for safety information.
 
-Please refer to the package insert for warnings and contraindications.
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several randomized Phase 3 trials and RCTs support ilaprazole in ulcer healing, and peptic ulcer disease is already an original indication with 20 registrations in India. The "guardrails" are needed because the package insert safety data are missing, and much of the evidence comes from duodenal ulcer populations rather than the exact predicted condition.
+- The evidence level is L2, based on one randomised, double-blind trial of ilaprazole against omeprazole in gastric and duodenal ulcers, with no phase 3 programme. The mechanism is plausible and the drug is widely marketed in India, but no trial targets gastroduodenitis itself.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the India product labels (a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- Results from the ongoing NSAID-associated ulcer prevention trial (NCT06284876)
-- Approved indication text for the Indian registrations, to confirm label coverage
-- For the lower-ranked predictions (gastrojejunal ulcer, gastroduodenitis, peptic ulcer perforation): direct clinical evidence before any consideration; they currently stay at Research Question or Hold
+- A prospective trial, or well-designed comparative study, in patients with gastroduodenitis.
+- Package insert warnings and contraindications from the local regulator, to complete the safety screening.
+- Detailed mechanism-of-action data from DrugBank to support the mechanistic analysis.
+- Confirmation of the approved indication text on the local licences.
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

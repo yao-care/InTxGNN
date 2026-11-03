@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 884,
   "level_counts": {
-    "L1": 20,
-    "L2": 36,
+    "L1": 17,
+    "L2": 37,
     "L3": 35,
     "L4": 58,
-    "L5": 690
+    "L5": 692
   },
   "all_drugs": [
     {
@@ -2442,7 +2442,7 @@
     {
       "name": "Ilaprazole",
       "slug": "ilaprazole",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 1
     },
     {
@@ -2778,7 +2778,7 @@
     {
       "name": "Letrozole",
       "slug": "letrozole",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 4
     },
     {
@@ -4284,7 +4284,7 @@
     {
       "name": "Rifabutin",
       "slug": "rifabutin",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 10
     },
     {
