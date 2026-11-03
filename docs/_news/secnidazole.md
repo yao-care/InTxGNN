@@ -3,7 +3,7 @@ layout: default
 title: "Secnidazole News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Secnidazole. 7 predicted indications."
+description: "Health news related to Secnidazole. 6 predicted indications."
 permalink: /news/secnidazole/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Secnidazole?">
-<strong>Secnidazole</strong> currently has <strong>12 news articles</strong>, with 7 predicted indications.
+<strong>Secnidazole</strong> currently has <strong>11 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,11 @@ This page combines the AI-predicted indications for Secnidazole with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (7)</strong>:<ul>
+<li><strong>Predicted indications (6)</strong>:<ul>
 <li>postmenopausal atrophic vaginitis</li>
 <li>ulceration of vulva</li>
 <li>vaginal discharge</li>
 <li>vulvar neoplasm</li>
-<li>trichomonal vulvovaginitis</li>
 <li>leukoplakia of vagina</li>
 <li>vulvovaginal candidiasis</li>
 </ul></li>
@@ -39,29 +38,29 @@ This page combines the AI-predicted indications for Secnidazole with the latest 
 <p><a href="{{ '/drugs/secnidazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (11)
+
+### [BRCA gene test explained: Who should get screened for breast cancer risk - The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
+
+---
+
+### [How smoking sets the stage for lung cancer | Explained - The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxONDJVSW95YS0ydzIwRU5obEVOU0daR3NPaG1uMkNyMlZsajZvX2M5TEE4d1QtemdyNm5zTUpsNE16Tzh5U3c1VDRrcEZUeC1PN1UxaHJtYlBBaUp2elJjZDJ4ZDBRU1NVRDVrcHFvMTFZQnFjNHpzYzNEYnJXYnpZcFJlSmVXSW9pV1NUdU1RSlZ3THgwb0pHOWpocnJwaVgtV204RnE5X05mcU5CQWIwNURMUUx2MzZVa3FLOEhBbFdFUURC0gHLAUFVX3lxTE9pQUUyd0xZUmFXX0dEdUFLanpEbkxqbFZhRHNyN1FaX0lxYWhYRnotSzdGdnRZXzlUQmRHbHRKc0VlcTVrdXNnMW1yNERTS1hYSmJUMXltTTVKbHh0S1d0bzhYNmlpR0ZENWh2QU9PQk5tUVA4WHQyR1hsaEx2VjlockY2c1ZpRmNBamxLMXlrc1JNbXJrM3dBS3VWQXRvaU5YSUJWMnhXdVdOOER0RFA4MFdJVkYzampGMlA5SHJWYlhvd3FGT240OGQw?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxONDJVSW95YS0ydzIwRU5obEVOU0daR3NPaG1uMkNyMlZsajZvX2M5TEE4d1QtemdyNm5zTUpsNE16Tzh5U3c1VDRrcEZUeC1PN1UxaHJtYlBBaUp2elJjZDJ4ZDBRU1NVRDVrcHFvMTFZQnFjNHpzYzNEYnJXYnpZcFJlSmVXSW9pV1NUdU1RSlZ3THgwb0pHOWpocnJwaVgtV204RnE5X05mcU5CQWIwNURMUUx2MzZVa3FLOEhBbFdFUURC0gHLAUFVX3lxTE9pQUUyd0xZUmFXX0dEdUFLanpEbkxqbFZhRHNyN1FaX0lxYWhYRnotSzdGdnRZXzlUQmRHbHRKc0VlcTVrdXNnMW1yNERTS1hYSmJUMXltTTVKbHh0S1d0bzhYNmlpR0ZENWh2QU9PQk5tUVA4WHQyR1hsaEx2VjlockY2c1ZpRmNBamxLMXlrc1JNbXJrM3dBS3VWQXRvaU5YSUJWMnhXdVdOOER0RFA4MFdJVkYzampGMlA5SHJWYlhvd3FGT240OGQw?oc=5)
+
+---
 
 ### [First Guidelines for Cancer Caregivers Address Key Information Void in Care - MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHotalY4clYyNzYwc2E0cENkeWQxcWJ0VzdKNldVLVZ0VWNTSmJka05pLXRfYVdEOC01MGxKeno3bjNtSkZWcFpmcDFtbG1CUU9STDRNYlZfeTFSOG16dTgyb2k3Y2R1MzBWZE02MG45Z3RVSUE?oc=5)
 
 2026-11-02 <span class="news-indication-tag">cancer</span>
 
 Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHotalY4clYyNzYwc2E0cENkeWQxcWJ0VzdKNldVLVZ0VWNTSmJka05pLXRfYVdEOC01MGxKeno3bjNtSkZWcFpmcDFtbG1CUU9STDRNYlZfeTFSOG16dTgyb2k3Y2R1MzBWZE02MG45Z3RVSUE?oc=5)
-
----
-
-### [Testosterone Therapy Showed No Cognitive Benefit in Menopause Review - Technology Networks](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3NpaDBJY3gzQm9zZVJyWXN5S20yd2xkaHpFeUxSVDNISFUzQm1QVnl5dnVLc2lIRW5NeGp0UkNxaEdueEhDdUdiNTYtak1rRnNiMGZfT0oteUxheEtYZkF3M2JXVW9TOHluM1NjN19ySmtHak5TQzBhc1dFY3VVbnZaNEdXemJ3V2RHeV9jaEhCb1RTOGJQcUdnbXE0NmZkMjdUT2s5cU1zb0hweXh1ZmJVSERCQ3pnZEE?oc=5)
-
-2026-11-02 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Technology Networks](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3NpaDBJY3gzQm9zZVJyWXN5S20yd2xkaHpFeUxSVDNISFUzQm1QVnl5dnVLc2lIRW5NeGp0UkNxaEdueEhDdUdiNTYtak1rRnNiMGZfT0oteUxheEtYZkF3M2JXVW9TOHluM1NjN19ySmtHak5TQzBhc1dFY3VVbnZaNEdXemJ3V2RHeV9jaEhCb1RTOGJQcUdnbXE0NmZkMjdUT2s5cU1zb0hweXh1ZmJVSERCQ3pnZEE?oc=5)
-
----
-
-### [Early Adulthood Obesity Linked To Thyroid, Ovarian And Endometrial Cancers: Study Of 6.3 Million - Health and Me](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLTA3MGZDRVpoc28wS1B5c2NfYWhrU3FwUWE5NmtPTEdia3plNUw3Z0ZEWW9mQkRPRTItZFUyOEk0cU9UUXVDdUctVFg5MFV0bmRWWXhNNTZWSlJFMUpIUDBVWUpiTVpmek9OaFhPM0RJMTJCeno4SU01dkVPeG81NTJYWlEwSVdoVWdfTnh4SWRLc3FXMkVrdjlzSHhlNFRfRGYtNTRfWFdvLTNXR1M5SG04YWhrRWliR2RHa1NPbmM0LXJyU1c2dkI3Vjg2RHM2QlVvTW5ZTDVBa2FNN2VMTWRjSjJwTHdyQXFfVQ?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLTA3MGZDRVpoc28wS1B5c2NfYWhrU3FwUWE5NmtPTEdia3plNUw3Z0ZEWW9mQkRPRTItZFUyOEk0cU9UUXVDdUctVFg5MFV0bmRWWXhNNTZWSlJFMUpIUDBVWUpiTVpmek9OaFhPM0RJMTJCeno4SU01dkVPeG81NTJYWlEwSVdoVWdfTnh4SWRLc3FXMkVrdjlzSHhlNFRfRGYtNTRfWFdvLTNXR1M5SG04YWhrRWliR2RHa1NPbmM0LXJyU1c2dkI3Vjg2RHM2QlVvTW5ZTDVBa2FNN2VMTWRjSjJwTHdyQXFfVQ?oc=5)
 
 ---
 
@@ -97,22 +96,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eTJ
 
 ---
 
-### [‘Like sand in my eye’: treatment gives hope to patients - Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
-
-2026-10-31 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">blood cancer</span> <span class="news-indication-tag">eye disease</span>
-
-Source: [Starts at 60](https://news.google.com/rss/articles/CBMijwFBVV95cUxQY056b2NDeFZEd0plQXFldGxKaURQVk5pclY4S2JhUTVmMUZVME9Cc3FQWXlYRWJ3c09YZzUyUHNEZ1B6ZFN0bVVtel9pT1RqTXhkb0JOZy1JQnYwUXF2ZXRORzJPZVVUUy1xcEFmUWZTZG1JdEpvU29HUGVubllCRGtJUGRXRFhkczFkZk5yQQ?oc=5)
-
----
-
-### [How a breast cancer survivor overcame severe post-mastectomy body trauma: Doctors explain](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3dQVkJKT1FSeWJLZnhPa1d5OUY5a3padU9PZHN3eG9iWmFsRXJ1X0paSzA3THNTSU9QYl9KcUdUcmM2TjdnZVFpNXRqMzNDU0ExOWVrOG8waEpWRUJpM2Q2QVlqRVJYRGl2WkVSUmFzSXFURHlCT0h0aWRDV0hBMmROME5wQ29wVERHM2d1T0REVnBHNE04T2QzX1J3eFdpMEln?oc=5)
-
-2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Onmanorama](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWm95Z3dQVkJKT1FSeWJLZnhPa1d5OUY5a3padU9PZHN3eG9iWmFsRXJ1X0paSzA3THNTSU9QYl9KcUdUcmM2TjdnZVFpNXRqMzNDU0ExOWVrOG8waEpWRUJpM2Q2QVlqRVJYRGl2WkVSUmFzSXFURHlCT0h0aWRDV0hBMmROME5wQ29wVERHM2d1T0REVnBHNE04T2QzX1J3eFdpMEln?oc=5)
-
----
-
 ### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
@@ -134,6 +117,14 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cU
 2026-10-28 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
 Source: [Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
+
+---
+
+### [TMS: Testosterone Therapy Linked to Increased Risk for CVD Postmenopause - Medical Professionals Reference](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29Dd1laMnJ1T2N0RFZOeGVabHRPcXNLaTlUVk1vSHRLMEtlZWE0c21aUnlFLTVwaHZSaUI4LXE0VHFocWs5bFJseG8weUZuY29HYjBHSld6UDAwNlFBWlMtYm5Ka0l6ZnpWc2VYZmptSWkxbnczQWZQbjYwbWRWUlFIVE8zNlNrRXBmQk1aQW5FN0pUQTUxOVpDZW8zOWs?oc=5)
+
+2026-10-28 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29Dd1laMnJ1T2N0RFZOeGVabHRPcXNLaTlUVk1vSHRLMEtlZWE0c21aUnlFLTVwaHZSaUI4LXE0VHFocWs5bFJseG8weUZuY29HYjBHSld6UDAwNlFBWlMtYm5Ka0l6ZnpWc2VYZmptSWkxbnczQWZQbjYwbWRWUlFIVE8zNlNrRXBmQk1aQW5FN0pUQTUxOVpDZW8zOWs?oc=5)
 
 ---
 

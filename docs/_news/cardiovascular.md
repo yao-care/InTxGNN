@@ -60,6 +60,14 @@ This page brings together the latest health news about “heart disease” and l
 
 ## Related News (4)
 
+### [AI Identifies Previously Unrecognized Health Insights in Routine Sleep Studies - Medical Product Outsourcing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXBRdF9UM21rM3U0UFIzZ2FTTFdZbmRPdEp1Ykc2WTdpUVA4cURrdVloUFhnSXo1WFZKeWNqdUljSjNOdWRDQkNlbjBVcTBDTzUwU21vRlI2V0V5aEwtWFZ6aUZONVhGdUMtTXpDZ1B1aXFoamMxNjBjdHZGNG5yb1k1eVBBMjlTNHpOSVZ5V0ljNExOV2R0N1luN3RkSnlqS3VqNGF2MDRGbHprWjMzYkdYWVFtRXY0?oc=5)
+
+2026-11-03
+
+Source: [Medical Product Outsourcing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXBRdF9UM21rM3U0UFIzZ2FTTFdZbmRPdEp1Ykc2WTdpUVA4cURrdVloUFhnSXo1WFZKeWNqdUljSjNOdWRDQkNlbjBVcTBDTzUwU21vRlI2V0V5aEwtWFZ6aUZONVhGdUMtTXpDZ1B1aXFoamMxNjBjdHZGNG5yb1k1eVBBMjlTNHpOSVZ5V0ljNExOV2R0N1luN3RkSnlqS3VqNGF2MDRGbHprWjMzYkdYWVFtRXY0?oc=5)
+
+---
+
 ### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 2026-11-02
@@ -81,14 +89,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjW
 2026-10-29
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
-
----
-
-### [Renal Hyperfiltration Dynamics Reveal Distinct Cardiovascular Risks](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
-
-2026-10-29
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
 
 ---
 

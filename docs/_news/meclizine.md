@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 
 ## Related News (1)
 
-### [Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace](https://news.google.com/rss/articles/CBMifEFVX3lxTE54aVlOemxXV09YSjliZlMyS0htSnNXT3BSR3QzWHhzanVrUXJjcVFxc09mMkxtRGV2MHJCVXNuUE1jYzRoTWhRZ0gtTndIdE9DdEhBaUxUdktETk5HcGpkSVQxTHpJVEI4QnVFMHI3emk3dWJnSG16ZXUyVEQ?oc=5)
+### [Why Do Some People Struggle More With Extreme Heat And Cold? Expert Explains](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3hza0dLdTBlREVVemcxX2g3MWs0emw0T1RXbTRuVTFuS0FPS01YTXI4YllhZzVuN1NRanAxeWg3c2xqcG9qdXZfYmlhc1BsSW9SVmFpY3VORVVVdUNHZFNQanZkaGg3OGNmMnZoNlVEaW9fOXpSMW1aMng2eDVXOUJ4SGZ3X3Q4NU14dW1JNGRPQzFGRDNBdlBtaFVsS2dvYTQyWkJEU3ptdTdUdDZJaG9B?oc=5)
 
-2026-11-01 <span class="news-indication-tag">cold</span>
+2026-11-03 <span class="news-indication-tag">cold</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE54aVlOemxXV09YSjliZlMyS0htSnNXT3BSR3QzWHhzanVrUXJjcVFxc09mMkxtRGV2MHJCVXNuUE1jYzRoTWhRZ0gtTndIdE9DdEhBaUxUdktETk5HcGpkSVQxTHpJVEI4QnVFMHI3emk3dWJnSG16ZXUyVEQ?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3hza0dLdTBlREVVemcxX2g3MWs0emw0T1RXbTRuVTFuS0FPS01YTXI4YllhZzVuN1NRanAxeWg3c2xqcG9qdXZfYmlhc1BsSW9SVmFpY3VORVVVdUNHZFNQanZkaGg3OGNmMnZoNlVEaW9fOXpSMW1aMng2eDVXOUJ4SGZ3X3Q4NU14dW1JNGRPQzFGRDNBdlBtaFVsS2dvYTQyWkJEU3ptdTdUdDZJaG9B?oc=5)
 
 ---
 

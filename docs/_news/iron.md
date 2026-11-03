@@ -3,9 +3,9 @@ layout: default
 title: "Iron News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Iron. 6 predicted indications."
+description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,8 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L4</li>
-<li><strong>Predicted indications (6)</strong>:<ul>
+<li><strong>Predicted indications (5)</strong>:<ul>
 <li>vitamin B12- and folate-independent constitutional megaloblastic anemia</li>
-<li>Plummer-Vinson syndrome</li>
 <li>non-syndromic esophageal malformation</li>
 <li>biotin metabolic disease</li>
 <li>vitamin deficiency disorder</li>
@@ -40,11 +39,11 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (1)
 
-### [​'Ferritin face': 7 warning signs of iron deficiency you shouldn’t ignore​ - The Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2I1TDd6V1JHN3YyRTBjb1pKbXlKMFp6bnZnWl9tOGxuOUFvY2RUZUZYVUV2Z0pqUGNxVzl1MlVTRzdySGV6OG11M05uVnFHeDRNWkoxVEdzNUdCaUgzY2VtMGdhcEhGeFpXcm41OGo1ZFJHQVRWVGVpT3dJazBfRVhubFo3QWk0OWtRNU1RdzY5bjhlTWdoSWcwQ3RkODBMeTljZ0dodjBnbGZlNkFjRE9DN1VvUHZycldHZWh2UWRYeXFCbWg2OTFSM05LdTlQUkVnWFRUVDQxb1B1emfSAeYBQVVfeXFMUG4tT25OYXFReTZuY24xT1p6UkZQRzEyNnh1WmRaWTYxOVpHTEtrbjVOUEx4T0V0clFPVlBLVmlsaWY4dWtoTU0tXzZyRTVXbVJwSjZZUi01eS1lVnhyZkJwVUpQeUh6UXBvbjYxM3RMeUNzWlJXR2pXQ245OXJNd3FEX0NIWkZYa0dtR0daVFBvdHlJZmRwbUJnLWVWWmdDdGJSdUlLWHR3X2lOd01YdWo2S0J5SUk0S2thNXZwdEotWmdBbVlLbmM0TGp0WC1CdERyVE1VZEw4ZHhlNHRzT3Y4N2NTVHc?oc=5)
+### [Ferritin Face Trend: Can You Really Spot Iron Deficiency By Looking At Someone's Face?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXd0eGRsR3h0TWg3ejVtOTY2emo5Wks4RUFSS0pBbEgxYVFlTVA1QXF2M2dSUVlibWJ3UXRpVHoxWlFUVV9SWUVzMmNTTnIzY3N1NFFZXzdaUGgxVGoyVXBZZnhFWG1DNDdtb0ZDem9mN19MUmFTVWE0SHpVYkJ1NjJkWGM1dXlKSkF2VE5fOWlyelFqRHB5QnUtTm1HSnI2Nk5zcXJoWm4wdUpNWkVWd3N1UldvbzBCVVJkbURQd0dPMTBoUGpMZVpRN3B6ellu?oc=5)
 
 2026-10-27 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT2I1TDd6V1JHN3YyRTBjb1pKbXlKMFp6bnZnWl9tOGxuOUFvY2RUZUZYVUV2Z0pqUGNxVzl1MlVTRzdySGV6OG11M05uVnFHeDRNWkoxVEdzNUdCaUgzY2VtMGdhcEhGeFpXcm41OGo1ZFJHQVRWVGVpT3dJazBfRVhubFo3QWk0OWtRNU1RdzY5bjhlTWdoSWcwQ3RkODBMeTljZ0dodjBnbGZlNkFjRE9DN1VvUHZycldHZWh2UWRYeXFCbWg2OTFSM05LdTlQUkVnWFRUVDQxb1B1emfSAeYBQVVfeXFMUG4tT25OYXFReTZuY24xT1p6UkZQRzEyNnh1WmRaWTYxOVpHTEtrbjVOUEx4T0V0clFPVlBLVmlsaWY4dWtoTU0tXzZyRTVXbVJwSjZZUi01eS1lVnhyZkJwVUpQeUh6UXBvbjYxM3RMeUNzWlJXR2pXQ245OXJNd3FEX0NIWkZYa0dtR0daVFBvdHlJZmRwbUJnLWVWWmdDdGJSdUlLWHR3X2lOd01YdWo2S0J5SUk0S2thNXZwdEotWmdBbVlLbmM0TGp0WC1CdERyVE1VZEw4ZHhlNHRzT3Y4N2NTVHc?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXd0eGRsR3h0TWg3ejVtOTY2emo5Wks4RUFSS0pBbEgxYVFlTVA1QXF2M2dSUVlibWJ3UXRpVHoxWlFUVV9SWUVzMmNTTnIzY3N1NFFZXzdaUGgxVGoyVXBZZnhFWG1DNDdtb0ZDem9mN19MUmFTVWE0SHpVYkJ1NjJkWGM1dXlKSkF2VE5fOWlyelFqRHB5QnUtTm1HSnI2Nk5zcXJoWm4wdUpNWkVWd3N1UldvbzBCVVJkbURQd0dPMTBoUGpMZVpRN3B6ellu?oc=5)
 
 ---
 

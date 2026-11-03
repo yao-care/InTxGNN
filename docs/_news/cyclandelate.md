@@ -3,7 +3,7 @@ layout: default
 title: "Cyclandelate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 10 predicted indications."
+description: "Health news related to Cyclandelate. Original indication: he TxGNN model's top-ranked prediction is **Prinzm.... 9 predicted indications."
 permalink: /news/cyclandelate/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>4 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <ul>
 <li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is **Prinzmetal angina**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.</li>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
 <li>Prinzmetal angina</li>
 <li>Raynaud disease</li>
 <li>migraine disorder</li>
@@ -37,7 +37,6 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <li>kyphoscoliotic heart disease</li>
 <li>benign prostatic hyperplasia (disease)</li>
 <li>exostosis</li>
-<li>peripheral vascular disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
@@ -45,9 +44,17 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 
 ## Related News (4)
 
+### [AI Identifies Previously Unrecognized Health Insights in Routine Sleep Studies - Medical Product Outsourcing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXBRdF9UM21rM3U0UFIzZ2FTTFdZbmRPdEp1Ykc2WTdpUVA4cURrdVloUFhnSXo1WFZKeWNqdUljSjNOdWRDQkNlbjBVcTBDTzUwU21vRlI2V0V5aEwtWFZ6aUZONVhGdUMtTXpDZ1B1aXFoamMxNjBjdHZGNG5yb1k1eVBBMjlTNHpOSVZ5V0ljNExOV2R0N1luN3RkSnlqS3VqNGF2MDRGbHprWjMzYkdYWVFtRXY0?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Medical Product Outsourcing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXBRdF9UM21rM3U0UFIzZ2FTTFdZbmRPdEp1Ykc2WTdpUVA4cURrdVloUFhnSXo1WFZKeWNqdUljSjNOdWRDQkNlbjBVcTBDTzUwU21vRlI2V0V5aEwtWFZ6aUZONVhGdUMtTXpDZ1B1aXFoamMxNjBjdHZGNG5yb1k1eVBBMjlTNHpOSVZ5V0ljNExOV2R0N1luN3RkSnlqS3VqNGF2MDRGbHprWjMzYkdYWVFtRXY0?oc=5)
+
+---
+
 ### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
-2026-11-02 <span class="news-indication-tag">heart disease</span>
+2026-11-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
@@ -66,14 +73,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjW
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
-
----
-
-### [Renal Hyperfiltration Dynamics Reveal Distinct Cardiovascular Risks](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeXROdlpSMDJaVll5VVYtVkFFeFdRUnBYUmtCVHA0eC1VR0x2TFZZNDZDaXVqSGppUUFRRDltNHo2UWkwVzRwNUgtbXhuRU9IVHlfSmNhamlFTlVUSWRRRmhNc0dlQmVlYlRlc2hBQnhzN2FSMTljd1ZFOWlFaS1VdGR4WktEbnM1aGdoREhXNmMxVnlGZ0J3ZjUyX2VPemxYT2E1Tmx2ZnNQX2FvLWNUdA?oc=5)
 
 ---
 

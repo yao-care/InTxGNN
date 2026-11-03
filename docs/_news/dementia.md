@@ -55,11 +55,11 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZ
 
 ---
 
-### [Scientists discover a surprising brain benefit of eating peanuts every day - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1TQkdMZ2U1cjZDQVZMZE9wM0xRX1M1WEdTZFpaalJXMjVQY1ctSWR5Tl9DdzR1V2VTOVVHUU1CMmpPY3g2VHJqSVl2eWpzc3MxazFhZUhZaDhtc1dFU2NocjJDMXRXRWo5ZGdyQ05fYw?oc=5)
+### [More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
 
-2026-11-01
+2026-10-28
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1TQkdMZ2U1cjZDQVZMZE9wM0xRX1M1WEdTZFpaalJXMjVQY1ctSWR5Tl9DdzR1V2VTOVVHUU1CMmpPY3g2VHJqSVl2eWpzc3MxazFhZUhZaDhtc1dFU2NocjJDMXRXRWo5ZGdyQ05fYw?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
 
 ---
 

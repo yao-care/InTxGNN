@@ -3,7 +3,7 @@ layout: default
 title: "Amiodarone News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Amiodarone. 10 predicted indications."
+description: "Health news related to Amiodarone. 9 predicted indications."
 permalink: /news/amiodarone/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Amiodarone?">
-<strong>Amiodarone</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Amiodarone</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,10 +26,9 @@ This page combines the AI-predicted indications for Amiodarone with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (10)</strong>:<ul>
+<li><strong>Predicted indications (9)</strong>:<ul>
 <li>catecholaminergic polymorphic ventricular tachycardia</li>
 <li>incessant infant ventricular tachycardia</li>
-<li>ventricular tachycardia</li>
 <li>obsolete bundle branch block</li>
 <li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 rheumatoid arthritis</span></li>
 <li>brachydactyly-syndactyly syndrome</li>

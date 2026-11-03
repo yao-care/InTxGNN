@@ -3,7 +3,7 @@ layout: default
 title: "Valdecoxib News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Valdecoxib. 1 predicted indications."
+description: "Health news related to Valdecoxib. 0 predicted indications."
 permalink: /news/valdecoxib/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Valdecoxib?">
-<strong>Valdecoxib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
+<strong>Valdecoxib</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,6 @@ This page combines the AI-predicted indications for Valdecoxib with the latest h
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 rheumatoid arthritis</span></li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/valdecoxib/' | relative_url }}">View full drug report →</a></p>
 </div>

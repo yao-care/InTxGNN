@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 4 articles, 15 related drugs."
+description: "Health news about stroke. 6 articles, 15 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>4 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>6 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,29 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
 
-### [Manipal Hospitals Promotes BE FAST Approach To Stroke Detection - BW Healthcare World](https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1R4c0p3VFNsMThxN3B6WWkxSE1WREpNYUlLMEY4MWRFOE5UNDd3dl9PTUtNWEgwOTNELXZPazRXTjE4Y1hBRkVqZFpCWmZUYlg4QWxfNjgxUmZXeWMxLVRUQnZvZ2doWDByRHNkOUpWZW5sV1lra01ENjA5WmUtcy1OUXhjRmFnX096Wlg2U29KeWNzVk5aZ01mN0RqNm9JRlo4NXMxRVczUmYwa2lTRXln?oc=5)
+### [More people are having strokes before 55. Here’s what experts know. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWc2Y0pRVHVnaTNoM1ZYOXVhbkhYdE43bkF3UlNPWEhoRTN1VDZVZ2ZRWWljODhUZlppemFVR1lQcXJTRW9pbkVGVW9DbWJHbkVtdnduWWg5TzZQbEdtSlBZd19XOTJRM19YU3pqdTRMSjVMTWdXZ0lSb2FJbVpYY1o4QXZRT2hRUlhtTHlvQV9Bem1MVGRGNmM4bE5hdU1hQ0J2WVB4QzAxSG5NclUtUEgyVFFKWUU?oc=5)
+
+2026-11-03
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWc2Y0pRVHVnaTNoM1ZYOXVhbkhYdE43bkF3UlNPWEhoRTN1VDZVZ2ZRWWljODhUZlppemFVR1lQcXJTRW9pbkVGVW9DbWJHbkVtdnduWWg5TzZQbEdtSlBZd19XOTJRM19YU3pqdTRMSjVMTWdXZ0lSb2FJbVpYY1o4QXZRT2hRUlhtTHlvQV9Bem1MVGRGNmM4bE5hdU1hQ0J2WVB4QzAxSG5NclUtUEgyVFFKWUU?oc=5)
+
+---
+
+### [50+ Stroke Survivors Invited to Mark World Stroke Day at Aadicura Hospital, Vadodara - ANI News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnZreW1xWWdtdjFtM1RFb29zRkdmZG5FN19pYUpwdHZPRm81eWdQb3lBbUR5a1BOWEZZOXFKOUtLLUdpcTBjRG94d0hZaFkyNnl0Ui1qM0t1UVFlVnhpa2otVDkzdzRQZWMzZ2RXUFNvWWpTMUxqNmpLTlBvbmpFbk03ZEVtcWVuc29hS0pGUmtTcVlTMUViYkdMZktSM2lpMi1tT3Zxci1mZjJpSzBRSzE0a0hIdlFPMV9hTWNvVE5WcnM5aWdtQWxLd2E3ckU?oc=5)
+
+2026-11-03
+
+Source: [ANI News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnZreW1xWWdtdjFtM1RFb29zRkdmZG5FN19pYUpwdHZPRm81eWdQb3lBbUR5a1BOWEZZOXFKOUtLLUdpcTBjRG94d0hZaFkyNnl0Ui1qM0t1UVFlVnhpa2otVDkzdzRQZWMzZ2RXUFNvWWpTMUxqNmpLTlBvbmpFbk03ZEVtcWVuc29hS0pGUmtTcVlTMUViYkdMZktSM2lpMi1tT3Zxci1mZjJpSzBRSzE0a0hIdlFPMV9hTWNvVE5WcnM5aWdtQWxLd2E3ckU?oc=5)
+
+---
+
+### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 2026-11-02
 
-Source: [BW Healthcare World](https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1R4c0p3VFNsMThxN3B6WWkxSE1WREpNYUlLMEY4MWRFOE5UNDd3dl9PTUtNWEgwOTNELXZPazRXTjE4Y1hBRkVqZFpCWmZUYlg4QWxfNjgxUmZXeWMxLVRUQnZvZ2doWDByRHNkOUpWZW5sV1lra01ENjA5WmUtcy1OUXhjRmFnX096Wlg2U29KeWNzVk5aZ01mN0RqNm9JRlo4NXMxRVczUmYwa2lTRXln?oc=5)
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 ---
 
@@ -62,19 +78,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0
 
 ---
 
-### [Recreational Drugs, Steroids & Birth Control: Expert Explains Why Strokes Are Arriving Decades Earlier - Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
-
-2026-10-29
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
-
----
-
 ### [More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
 
 2026-10-28
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
+
+---
+
+### [TMS: Testosterone Therapy Linked to Increased Risk for CVD Postmenopause - Medical Professionals Reference](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29Dd1laMnJ1T2N0RFZOeGVabHRPcXNLaTlUVk1vSHRLMEtlZWE0c21aUnlFLTVwaHZSaUI4LXE0VHFocWs5bFJseG8weUZuY29HYjBHSld6UDAwNlFBWlMtYm5Ka0l6ZnpWc2VYZmptSWkxbnczQWZQbjYwbWRWUlFIVE8zNlNrRXBmQk1aQW5FN0pUQTUxOVpDZW8zOWs?oc=5)
+
+2026-10-28
+
+Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29Dd1laMnJ1T2N0RFZOeGVabHRPcXNLaTlUVk1vSHRLMEtlZWE0c21aUnlFLTVwaHZSaUI4LXE0VHFocWs5bFJseG8weUZuY29HYjBHSld6UDAwNlFBWlMtYm5Ka0l6ZnpWc2VYZmptSWkxbnczQWZQbjYwbWRWUlFIVE8zNlNrRXBmQk1aQW5FN0pUQTUxOVpDZW8zOWs?oc=5)
 
 ---
 

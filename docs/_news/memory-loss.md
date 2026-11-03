@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 1 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 2 articles, 8 related drugs."
 permalink: /news/memory-loss/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
 ### [The Links Between Napping And Dementia May Go Further Than We Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
 
 2026-11-02
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
+
+---
+
+### [More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
+
+2026-10-28
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
 
 ---
 
