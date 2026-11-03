@@ -38,10 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Salmeterol is a long-acting beta2-agonist, originally used for pulmonary emphysema and for intrinsic and allergic asthma.
-This is better viewed as an extension within the existing COPD/obstructive airway indication family than as true repurposing.
-
----
+Salmeterol is a long-acting beta2-adrenergic agonist bronchodilator used in airway disease. The TxGNN model predicts it may be effective for **respiratory malformation** (score 0.9991), but the evidence is weak: **2 registered clinical trials** and **8 publications** were retrieved, and none directly studies this condition.
 
 ## Quick Overview
 
@@ -53,50 +50,33 @@ This is better viewed as an extension within the existing COPD/obstructive airwa
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, salmeterol is a long-acting beta2-adrenergic agonist. It relaxes airway smooth muscle and sustains bronchodilation, and it has been reported to influence mucociliary clearance.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, salmeterol is a long-acting beta2-agonist. It relaxes airway smooth muscle and may increase ciliary beat frequency and mucociliary clearance.
 
-Chronic bronchitis and emphysema are two phenotypes of COPD, and salmeterol is already used for emphysema. The predicted indication therefore sits very close to the original one. One study (PMID 15970448) specifically examined salmeterol's effect on mucociliary and cough clearance in patients with chronic bronchitis, and several Phase 3 trials enrolled COPD/chronic bronchitis patients.
-
----
+The link to the predicted condition is indirect. Respiratory malformation is a structural category, and a beta2-agonist is not expected to correct a structural defect. At most, salmeterol might ease symptoms of related airway problems such as impaired mucus clearance. The retrieved evidence concerns COPD, asthma, cystic fibrosis and ciliary function, not malformation itself. The prediction is therefore a computational signal without direct clinical support.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00268177](https://clinicaltrials.gov/study/NCT00268177) | Phase 3 | Completed | 130 | Salmeterol/fluticasone 50/500 mcg vs placebo for bronchial anti-inflammatory activity in COPD (13 weeks) |
-| [NCT02173691](https://clinicaltrials.gov/study/NCT02173691) | Phase 3 | Completed | 584 | Tiotropium vs salmeterol vs placebo over 6 months in COPD: bronchodilator efficacy and safety |
-| [NCT00269087](https://clinicaltrials.gov/study/NCT00269087) | Phase 3 | Completed | 122 | Long-term (56-week) safety of salmeterol/fluticasone 50/500 mcg in COPD, including chronic bronchitis and emphysema |
-| [NCT00064415](https://clinicaltrials.gov/study/NCT00064415) | Phase 3 | Completed | 799 | 12-month safety study of arformoterol in COPD, with an active comparator arm |
-| [NCT00064402](https://clinicaltrials.gov/study/NCT00064402) | Phase 3 | Completed | 741 | Arformoterol bronchodilator effect over 12 weeks in COPD, placebo- and active-controlled |
-| [NCT00269126](https://clinicaltrials.gov/study/NCT00269126) | Phase 3 | Completed | 150 | Comparison of two medicines in COPD over up to 18 weeks (limited detail available) |
-| [NCT00403286](https://clinicaltrials.gov/study/NCT00403286) | Phase 2 | Completed | 457 | Dose-finding of fluticasone/formoterol, benchmarked against salmeterol/fluticasone (Advair) in COPD |
-| [NCT01361984](https://clinicaltrials.gov/study/NCT01361984) | Phase 4 | Unknown | 20 | Nebulized arformoterol vs dry-powder salmeterol on inspiratory capacity in COPD |
-| [NCT00233051](https://clinicaltrials.gov/study/NCT00233051) | N/A | Terminated | 20 | Sputum inflammatory markers as a biomarker of drug response in COPD; no efficacy evidence |
-
----
+| [NCT00005110](https://clinicaltrials.gov/study/NCT00005110) | Not applicable | Suspended | Not reported | Long-term salmeterol vs albuterol or placebo, inhaled twice daily for 6 months, in cystic fibrosis. A related airway condition, not a malformation; no results available. |
+| [NCT01681979](https://clinicaltrials.gov/study/NCT01681979) | Not applicable | Completed | 1 | Asthma treatment in pregnancy and adverse pregnancy outcomes. Does not address respiratory malformation as a treatment target. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15970448](https://pubmed.ncbi.nlm.nih.gov/15970448/) | 2006 | RCT | Pulm Pharmacol Ther | Acute effect of salmeterol vs placebo on mucociliary and cough clearance in mild-moderate chronic bronchitis (n=14) |
-| [18671147](https://pubmed.ncbi.nlm.nih.gov/18671147/) | 2008 | RCT (crossover) | COPD | Fluticasone/salmeterol 250/50 plus different rescue regimens in COPD |
-| [12970006](https://pubmed.ncbi.nlm.nih.gov/12970006/) | 2003 | Clinical trial | Chest | Efficacy and safety of fluticasone 250/salmeterol 50 in the Diskus inhaler for COPD |
-| [19124357](https://pubmed.ncbi.nlm.nih.gov/19124357/) | 2008 | Clinical trial | Ther Adv Respir Dis | One-year safety and tolerance of arformoterol and salmeterol in COPD |
-| [17196106](https://pubmed.ncbi.nlm.nih.gov/17196106/) | 2006 | Meta-analysis | Respir Res | Salmeterol 50 mcg twice daily improves clinical outcomes in COPD vs placebo/usual therapy |
-| [15329047](https://pubmed.ncbi.nlm.nih.gov/15329047/) | 2004 | Review | Drugs | Salmeterol/fluticasone in COPD; approved in the US for COPD associated with chronic bronchitis |
-| [19210134](https://pubmed.ncbi.nlm.nih.gov/19210134/) | 2009 | Cohort | Curr Med Res Opin | Healthcare use and costs in chronic bronchitis patients starting fluticasone/salmeterol vs other inhaled therapies |
-| [9916607](https://pubmed.ncbi.nlm.nih.gov/9916607/) | 1998 | Open-label study | Clin Ther | Inhaled salmeterol vs oral theophylline in mild-to-moderate COPD |
-| [12236842](https://pubmed.ncbi.nlm.nih.gov/12236842/) | 2002 | Review | Br J Clin Pharmacol | Pharmacology of long-acting beta2-agonists, including salmeterol and formoterol |
-| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Guideline | Basic Clin Pharmacol Toxicol | Finnish guideline on diagnosis and pharmacotherapy of stable COPD |
-
----
+| [34902004](https://pubmed.ncbi.nlm.nih.gov/34902004/) | 2022 | Randomized trial (classified as systematic review) | JAMA Pediatrics | Inhaled corticosteroids alone or with long-acting beta2-agonists for reduced lung function in preterm-born children. |
+| [20528601](https://pubmed.ncbi.nlm.nih.gov/20528601/) | 2010 | Review | J Asthma | Budesonide/formoterol inhaler in persistent asthma; a different drug combination. |
+| [26229457](https://pubmed.ncbi.nlm.nih.gov/26229457/) | 2015 | Review | Int J COPD | Dual bronchodilation with indacaterol-glycopyrronium in COPD; a different drug. |
+| [15293609](https://pubmed.ncbi.nlm.nih.gov/15293609/) | 2004 | Clinical physiology study | Eur Respir J | Salmeterol reduced lung hyperinflation and improved exercise ventilatory response in COPD. |
+| [22608352](https://pubmed.ncbi.nlm.nih.gov/22608352/) | 2012 | Laboratory study | Respir Med | Nasal ciliary beating is depressed in COPD. |
+| [30021361](https://pubmed.ncbi.nlm.nih.gov/30021361/) | 2018 | Laboratory study | Biomed Pharmacother | Thyme extract increased mucociliary beat frequency in COPD patient cells. |
+| [20703071](https://pubmed.ncbi.nlm.nih.gov/20703071/) | 2010 | Case report | Arerugi | Primary ciliary dyskinesia in a patient previously treated as asthma. |
+| [37327273](https://pubmed.ncbi.nlm.nih.gov/37327273/) | 2023 | Case report | Medicine | Pulmonary aspergillosis treated with omalizumab. |
 
 ## India Market Information
 
@@ -108,45 +88,30 @@ Chronic bronchitis and emphysema are two phenotypes of COPD, and salmeterol is a
 | 200302 | Seroflo 125 Synchrobreathe (Cipla) | Packet of 120 MDI inhaler | Not listed |
 | 72466 | Esiflo 250 Transhaler (Lupin) | Packet of 120 MDI transhaler | Not listed |
 
-All 20 registrations are valid single-ingredient licences; none is cancelled.
-
----
+The data list 20 valid licences, and the records may be partial.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph drug-disease edges, not label text):** hypertension, long QT syndrome (including familial), epilepsy, hyperglycemia, herpes simplex virus keratitis, osteoporosis, thymus gland disease, and a group of pituitary hormone deficiency and hypogonadotropic hypogonadism conditions (including Kallmann syndrome and Sheehan syndrome).
-- **Drug Interactions:** 598 interactions were identified. Examples:
-  - **Major:** clarithromycin.
-  - **Moderate:** epinephrine, isometheptene, famotidine, and antidiabetic agents (acarbose, alogliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide, albiglutide, dulaglutide).
-  - **Moderate:** diethylpropion, dolasetron.
-  - **Minor:** corticosteroids (hydrocortisone, dexamethasone, budesonide, triamcinolone, betamethasone, beclomethasone).
-- **Class-level concern from the literature:** Cochrane reviews (PMIDs 30521673, 23543548) report serious-adverse-event signals with regular LABA use in asthma, so LABA monotherapy should be avoided in asthma and salmeterol used together with an inhaled corticosteroid.
+Package insert warnings and contraindications are not available in the data compiled for this report; please refer to the package insert.
 
-Please refer to the package insert for label warnings and contraindications.
-
----
+**Drug Interactions:** 598 interactions were recorded. Examples include:
+- **Major:** clarithromycin
+- **Moderate:** epinephrine, isometheptene, famotidine, acarbose, canagliflozin, dapagliflozin, empagliflozin, dolasetron
+- **Minor:** hydrocortisone, dexamethasone, budesonide, beclomethasone dipropionate
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Several completed Phase 3 trials in COPD/chronic bronchitis, a meta-analysis, and a chronic-bronchitis-specific mucociliary clearance study support salmeterol. The new indication is closely related to its established emphysema and asthma uses, so the evidence is strong, but this is an extension rather than novel repurposing.
+No retrieved trial or publication directly studies respiratory malformation, so evidence is limited to a model prediction (L5). A beta2-agonist is also not expected to correct a structural defect.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian-marketed products (approved indication text is missing from the licence records)
-- Detailed mechanism of action data
-- Trials that evaluate salmeterol alone in chronic bronchitis, since most Phase 3 evidence concerns salmeterol/fluticasone combinations or other bronchodilators
-- A risk-management plan covering cardiovascular, QT-related and metabolic contraindications, and combination with an inhaled corticosteroid in any asthma-related use
+- A clear biological rationale for how salmeterol would act on the specific malformation
+- Direct clinical or preclinical studies in this condition
+- Mechanism of action data
+- Package insert warnings and contraindications for a safety review
 
----
-
-### Note on Other Predictions
-
-The other predictions are weaker:
-- **Obstructive lung disease and asthma:** both reach L1 and are essentially on-label uses (Proceed with Guardrails).
-- **Respiratory malformation, atopic eczema:** low or indirect evidence (Hold).
-- **Rienhoff syndrome, asthma-related traits (susceptibility):** prediction only, with no supporting studies (Hold).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -38,11 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Ziprasidone is an atypical antipsychotic originally used for schizophrenia and bipolar disorder (including manic episodes).
-The TxGNN model predicts it may be effective for **trichotillomania**, a compulsive hair-pulling disorder.
-Currently, **0 clinical trials** and **0 publications** support this prediction, so it rests on the model score alone.
-
----
+Ziprasidone is an atypical antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors.
+The TxGNN model predicts it may be useful for **trichotillomania** (score 0.9983).
+No clinical trials or publications on this disease were found in the data compiled for this report, so the prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -56,31 +54,25 @@ Currently, **0 clinical trials** and **0 publications** support this prediction,
 | Number of Listed Products | 14 (valid: 14) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for ziprasidone in the data compiled for this report. Based on general pharmacology, ziprasidone is an atypical antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors. Its efficacy in schizophrenia and bipolar mania is established.
+Detailed mechanism-of-action data for ziprasidone is not available in the data compiled for this report. Ziprasidone is a member of the atypical antipsychotic class, which acts on D2 and 5-HT2A receptors.
 
-Trichotillomania is a compulsive, repetitive behaviour disorder related to the obsessive-compulsive spectrum. Antipsychotics have been explored in obsessive-compulsive spectrum conditions, so a link through D2/5-HT2A antagonism is plausible. However, no trials or publications in the compiled data support it. The prediction should be treated as a hypothesis only.
+Trichotillomania is a repetitive, compulsive hair-pulling disorder that sits in the obsessive-compulsive spectrum. Dopamine and serotonin signalling are thought to be involved in this group of conditions, and antipsychotics have been explored in related disorders. This is a plausible hypothesis, but no data supplied here tests it for trichotillomania.
 
----
+The prediction score is high, but the evidence base is empty. No registered trials, no publications and no preclinical studies were supplied. The prediction should therefore be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## India Market Information
 
-Ziprasidone has 14 valid single-ingredient registrations. The licence records contain no approved indication text. Five main authorizations are listed below.
+Ziprasidone is marketed in India. All 14 recorded licences are valid single-ingredient products, and none are cancelled. Five main authorizations are listed below. The licence records carry no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -90,38 +82,30 @@ Ziprasidone has 14 valid single-ingredient registrations. The licence records co
 | 7383 | Azona 40mg Capsule | Strip of 10 capsules | Torrent Pharmaceuticals Ltd |
 | 248256 | Zipradep 80mg Tablet | Strip of 10 tablets | Emco Biotech |
 
----
-
 ## Safety Considerations
 
-Label-based warnings and contraindications were not available. Please refer to the package insert for these. The following information comes from other sources.
+- **Conditions of concern:** The data compiled for this report flags the following. This is not label text.
+  - Cardiac and rhythm conditions: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction, orthostatic hypotension.
+  - Metabolic conditions: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, hyperlipidemia, obesity.
+  - Blood and organ conditions: neutropenia, agranulocytosis, liver failure, kidney disease.
+  - Neurological conditions: epilepsy, basal ganglia disease.
+- **Drug Interactions:** 305 interactions are recorded. Major-level interactions include hydrocortisone, amphotericin B (including the lipid complex), bupropion and morphine. Moderate-level interactions include several diabetes medicines (metformin, pioglitazone, alogliptin, acarbose, albiglutide), famotidine, epinephrine and several anticholinergic agents (atropine, hyoscyamine, glycopyrronium).
 
-- **Contraindications (TxGNN model associations, not label text)**: The TxGNN model (deep learning) links ziprasidone to conditions where use is a concern. These links may reflect similarities the model learned between related diseases, not biological evidence. The most clinically important are:
-  - **Cardiac**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction and coronary thrombosis.
-  - **Blood pressure**: orthostatic hypotension and postural orthostatic tachycardia syndrome.
-  - **Blood**: neutropenia and agranulocytosis.
-  - **Metabolic**: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, hyperlipidemia, obesity and potassium deficiency.
-  - **Other**: epilepsy, liver failure, kidney disease, multiple system atrophy, and basal ganglia and movement disorders (focal hand dystonia, blepharospasm).
-- **Drug Interactions**: 305 interactions were recorded. Major-level examples are hydrocortisone, amphotericin B (including the lipid complex), bupropion and morphine. Moderate-level examples include metformin, pioglitazone, famotidine, epinephrine, atropine and acarbose.
-
----
+Package insert warnings and contraindications were not captured. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (0.9983), but no clinical trials or publications support ziprasidone for trichotillomania. The only supporting argument is general antipsychotic pharmacology. The QT-prolongation and metabolic risks add to the case for caution until some efficacy evidence exists.
-
-Among the other predictions in the compiled data, two have more support than trichotillomania:
-- **Major affective disorder (depression)** has several completed Phase 2 placebo-controlled trials and systematic reviews. However, the label overlaps with the approved bipolar indication, so the real repurposing value lies in unipolar depression and mixed states.
-- **Tourette syndrome** has a small paediatric pilot study and guideline reviews, but guidelines generally favour other agents first.
+The prediction score is high, but no trials or publications on trichotillomania were found, so the evidence level is L5. Ziprasidone is known to prolong the QT interval and has notable metabolic and interaction concerns. These risks are hard to justify without any supporting efficacy data.
 
 **To proceed, the following is needed:**
-- Any clinical or preclinical evidence of ziprasidone in trichotillomania or related obsessive-compulsive spectrum disorders
-- Mechanism of action data for ziprasidone
-- Package insert warnings and contraindications for the India-marketed products
-- A cardiac (QTc) safety assessment plan for any exploratory study
+- A systematic literature search for antipsychotic or serotonergic treatment in trichotillomania, and a comparison with established treatment options.
+- Detailed mechanism-of-action data for ziprasidone.
+- The package insert warnings and contraindications from the Indian licences.
+- A cardiac (QTc) safety plan, with review of interacting medicines, if any clinical study is considered.
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -38,8 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Fluvoxamine is a selective serotonin reuptake inhibitor (SSRI) originally used for social phobia, phobic disorder and obsessive-compulsive disorder (OCD).
-The TxGNN model predicts it may be effective for **schizotypal personality disorder**, but there are **0 clinical trials** and only **5 publications** (case reports, one small open-label study and one case series), none of which tests fluvoxamine for this condition.
+Fluvoxamine is a selective serotonin reuptake inhibitor (SSRI) that is marketed in India in single-ingredient tablet products.
+The TxGNN model predicts it may be useful for **Schizotypal Personality Disorder**, but **no clinical trials** and only **5 indirect publications** (case reports, an open-label augmentation study and comorbidity observations) are available, so this is a computational hypothesis rather than an evidence-backed direction.
 
 ---
 
@@ -59,11 +59,9 @@ The TxGNN model predicts it may be effective for **schizotypal personality disor
 
 ## Why is This Prediction Reasonable?
 
-Fluvoxamine is a potent SSRI that blocks the serotonin transporter (SERT) and also acts as a sigma-1 receptor agonist. The data compiled for this report do not include a detailed mechanism-of-action record. Its efficacy in OCD and social anxiety disorder is well established, and both conditions involve serotonergic dysregulation.
+Detailed mechanism-of-action data for fluvoxamine are not available in the data compiled for this report. Fluvoxamine is known as a potent SSRI that blocks the serotonin transporter (SERT). The link to schizotypal personality disorder is indirect. Schizotypal traits often co-occur with obsessive-compulsive symptoms, which respond to serotonergic drugs, so a serotonin-based effect on obsessive and anxious features is plausible.
 
-The link to schizotypal personality disorder is indirect. Schizotypal traits often co-occur with OCD, and the literature found shows that OCD patients with schizotypal personality disorder or tic disorders were more likely to respond when an antipsychotic was added to fluvoxamine. These papers deal with fluvoxamine-refractory OCD, not with treating schizotypal personality disorder itself.
-
-The very high TxGNN score of 1.0000 is shared with other personality disorders (schizoid, paranoid, histrionic). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a hypothesis-generating signal only.
+The literature found does not test fluvoxamine as a treatment for schizotypal personality disorder. In one report, patients with a comorbid schizotypal personality disorder were more likely to respond when an antipsychotic was added to fluvoxamine. This suggests that fluvoxamine alone may not be enough for these patients. The very high TxGNN score is shared with several other personality-disorder predictions, so it more likely reflects similarity between diseases in the model than disease-specific evidence.
 
 ---
 
@@ -77,17 +75,17 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11063782](https://pubmed.ncbi.nlm.nih.gov/11063782/) | 2000 | Open-label trial | Psychiatry Research | 12-week olanzapine augmentation in 23 fluvoxamine-refractory OCD patients; the study assessed whether comorbid schizotypal personality disorder or tic disorder predicted response |
-| [1970224](https://pubmed.ncbi.nlm.nih.gov/1970224/) | 1990 | Case series | American Journal of Psychiatry | 9 of 17 fluvoxamine-refractory OCD patients responded to added neuroleptic; comorbid tic disorders or schizotypal personality disorder were associated with response |
-| [14999178](https://pubmed.ncbi.nlm.nih.gov/14999178/) | 2004 | Case report | CNS Spectrums | Man with compulsive hoarding, ADHD and schizotypal personality disorder improved on fluvoxamine, amphetamine salts, risperidone and behavioural therapy (a combination, so fluvoxamine's contribution is unclear) |
-| [16146185](https://pubmed.ncbi.nlm.nih.gov/16146185/) | 2005 | Case report | Seishin Shinkeigaku Zasshi | Schizophrenia patient with OCD symptoms and neuroleptic-induced deficit syndrome improved after neuroleptics were stopped and fluvoxamine started; the patient's personality was described as schizotypal |
-| [8473723](https://pubmed.ncbi.nlm.nih.gov/8473723/) | 1993 | Case report | International Clinical Psychopharmacology | Seizures after combined levomepromazine-fluvoxamine treatment, suggesting a pro-convulsant interaction with phenothiazines (a safety signal) |
+| [11063782](https://pubmed.ncbi.nlm.nih.gov/11063782/) | 2000 | Open-label trial | Psychiatry Res | 12-week olanzapine augmentation in fluvoxamine-refractory OCD (n=23); examined whether comorbid schizotypal personality disorder was linked to response |
+| [1970224](https://pubmed.ncbi.nlm.nih.gov/1970224/) | 1990 | Case series | Am J Psychiatry | 9 of 17 fluvoxamine-refractory OCD patients responded to added neuroleptic; schizotypal personality disorder or tic disorders were associated with response |
+| [14999178](https://pubmed.ncbi.nlm.nih.gov/14999178/) | 2004 | Case report | CNS Spectr | Compulsive hoarding with ADHD and schizotypal personality disorder; fluvoxamine, amphetamine salts, risperidone and behavioural therapy together improved hoarding and motivation |
+| [16146185](https://pubmed.ncbi.nlm.nih.gov/16146185/) | 2005 | Case report | Seishin Shinkeigaku Zasshi | OCD with neuroleptic-induced deficit syndrome in a man with schizotypal-type personality; improved after stopping neuroleptics and starting fluvoxamine |
+| [8473723](https://pubmed.ncbi.nlm.nih.gov/8473723/) | 1993 | Case report | Int Clin Psychopharmacol | Seizures after combined levomepromazine and fluvoxamine; safety signal for combination with phenothiazines |
 
 ---
 
 ## India Market Information
 
-Fluvoxamine has 20 valid single-ingredient registrations in India, with no combination products and none cancelled. The registration data do not include approved-indication text. Five representative authorizations are listed below.
+Fluvoxamine is marketed in India, with 20 valid single-ingredient licences. The list below shows 5 of them and may be partial. Approved-indication text is not recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -101,11 +99,11 @@ Fluvoxamine has 20 valid single-ingredient registrations in India, with no combi
 
 ## Safety Considerations
 
-- **Conditions flagged in the knowledge graph** (taken from drug-disease contraindication links, not from label text): epilepsy, bipolar disorder, major affective disorder, liver disease, gallbladder disease, blood coagulation disease, neuroleptic malignant syndrome, inappropriate ADH syndrome, nephrogenic syndrome of inappropriate antidiuresis, and serotonin syndrome.
-- **Drug interactions**: 283 interactions are recorded. Major-level interactions include alosetron, diethylpropion, dolasetron and bupropion. Moderate-level interactions include rabeprazole, aspirin, clarithromycin, aprepitant, morphine, pioglitazone and several corticosteroids (hydrocortisone, dexamethasone, budesonide, betamethasone, triamcinolone).
-- **Literature signal**: one case report describes seizures when fluvoxamine was combined with a phenothiazine (levomepromazine). This is relevant because antipsychotic combinations are commonly used in schizotypal and OCD-spectrum patients.
+- **Conditions of concern** (not taken from package-insert text): epilepsy, bipolar disorder and other major affective disorders, liver disease, gallbladder disease, blood coagulation disorders, neuroleptic malignant syndrome, inappropriate ADH secretion (SIADH), and serotonin syndrome.
+- **Drug Interactions**: 283 interactions are recorded. Major-level ones include alosetron, diethylpropion, dolasetron and bupropion. Moderate-level ones include rabeprazole, clarithromycin, aspirin, morphine, pioglitazone, aprepitant and several corticosteroids (hydrocortisone, dexamethasone, budesonide).
+- **Combination with antipsychotics**: one published case describes seizures when fluvoxamine was combined with the phenothiazine levomepromazine. This matters because antipsychotic augmentation is the context of the schizotypal-related literature.
 
-Please refer to the package insert for label warnings and contraindications.
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -114,15 +112,14 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and indirect literature. No trial tests fluvoxamine in schizotypal personality disorder, and the available papers are case reports and OCD augmentation studies. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+The prediction rests on a model score alone. There are no registered trials and no study testing fluvoxamine in schizotypal personality disorder. The available papers are case reports and comorbidity observations in OCD, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Controlled evidence of fluvoxamine's effect on schizotypal symptoms, such as a pilot randomized trial
-- Detailed mechanism of action data, to support a specific mechanistic link
-- Package insert warnings and contraindications for the Indian products
-- A safety plan for combination with antipsychotics, covering CYP-mediated interactions and seizure risk
+- Controlled studies, or at least systematic case data, of fluvoxamine in people diagnosed with schizotypal personality disorder
+- Detailed mechanism-of-action data and a rationale specific to this disorder
+- Package-insert warnings and contraindications for the marketed Indian products
+- A safety plan for combinations with antipsychotics (seizure risk) and for the major drug interactions
 
-**Note on other predicted indications:** within the same prediction list, **agoraphobia** and **anxiety disorder** have stronger support, with Phase 3 trials and double-blind RCTs of fluvoxamine in panic disorder, and **endogenous depression** has a Phase 2 trial (status unknown). All three have evidence levels of L1 or L2 and a recommendation of Proceed with Guardrails. Anxiety disorder overlaps largely with existing approved indications. Of the three, agoraphobia and endogenous depression may be more productive repurposing directions to evaluate in a separate report.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

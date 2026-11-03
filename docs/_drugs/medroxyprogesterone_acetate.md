@@ -38,11 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Medroxyprogesterone acetate (MPA) is a synthetic progestin originally used for endometriosis, endometrial cancer and postmenopausal conditions such as osteoporosis and atrophic vaginitis.
-The TxGNN model predicts it may be effective for **amenorrhea**, but there are currently **no registered clinical trials** and only **20 publications**, mostly contraceptive reviews, linked to this prediction.
-The evidence is therefore mainly model-based and mechanistic.
-
----
+Medroxyprogesterone acetate is a synthetic progestin that is marketed in India in oral tablet and injectable forms.
+The TxGNN model predicts it may be useful for **breast fibrocystic disease**, with a score of 0.9995.
+Support is limited: there are **no registered clinical trials** and **9 publications**, mostly older reviews, small uncontrolled reports and hormone replacement therapy (HRT) cohort studies.
 
 ## Quick Overview
 
@@ -56,48 +54,35 @@ The evidence is therefore mainly model-based and mechanistic.
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, MPA is a synthetic progestin. Its efficacy in endometriosis and endometrial conditions is established, and mechanistically it may be applicable to amenorrhea.
+Detailed mechanism of action data is not available in the data compiled for this report. Medroxyprogesterone acetate is a synthetic progestin, and progestins act through the progesterone receptor.
 
-A progestin withdrawal challenge is a standard diagnostic and therapeutic approach for secondary amenorrhea caused by anovulation with adequate endogenous estrogen. MPA converts the estrogen-primed endometrium into a secretory state, and withdrawal bleeding follows. This links the predicted use to the drug's existing action on the endometrium.
+Fibrocystic breast disease is thought to be driven by estrogen predominance and relative progesterone deficiency, which promote overgrowth of connective and epithelial tissue (Vorherr, 1986). A progestin could plausibly counter this estrogen-driven proliferation, and that is the basis for the prediction.
 
-The literature gathered is dominated by reviews of contraception (for example Depo-Provera), in which amenorrhea is a common side effect rather than a treatment target. No trial in the data tests amenorrhea treatment directly, so the very high model score is not yet backed by direct evidence.
+The picture is mixed. Two small, older reports (a 1983 uncontrolled therapeutic trial in severe disease and a 1988 adolescent case series) suggest possible benefit, but their abstracts are not available. HRT studies, where medroxyprogesterone acetate is combined with estrogen, point to increased breast density and epithelial proliferation, which conflicts with a benefit and raises a safety question. A canine study also reports severe myoepithelial hyperplasia with some progestins, which may not carry over to humans.
 
----
+None of the cited studies is a modern controlled trial of this drug in this disease. Under the evidence rules this prediction is therefore rated L5, because no study provides controlled evidence directly on the predicted disease.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
-
-The 20 publications are mostly reviews. Representative items are listed below, with Cochrane reviews first and then other reviews.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | Cochrane review | Cochrane Database Syst Rev | Combination injectable contraceptives are highly effective and reversible; bleeding pattern changes may limit acceptability |
-| [18843662](https://pubmed.ncbi.nlm.nih.gov/18843662/) | 2008 | Cochrane review | Cochrane Database Syst Rev | Earlier version of the review of combination injectable contraceptives |
-| [8178904](https://pubmed.ncbi.nlm.nih.gov/8178904/) | 1994 | Review | Am J Obstet Gynecol | Depot MPA 150 mg every 3 months has contraceptive efficacy above 99% |
-| [8725701](https://pubmed.ncbi.nlm.nih.gov/8725701/) | 1996 | Review | J Reprod Med | Counselling and management of side effects (including bleeding changes) with depot MPA |
-| [8829701](https://pubmed.ncbi.nlm.nih.gov/8829701/) | 1996 | Review | Int J Fertil Menopausal Stud | Long-acting contraceptive options, including injectable progestins |
-| [6119259](https://pubmed.ncbi.nlm.nih.gov/6119259/) | 1981 | Review | Int J Gynaecol Obstet | Postpartum contraception and the timing of its start |
-| [6141923](https://pubmed.ncbi.nlm.nih.gov/6141923/) | 1984 | Review | Drug Intell Clin Pharm | Drug-induced infertility |
-| [120837](https://pubmed.ncbi.nlm.nih.gov/120837/) | 1979 | Review | IARC Monogr | Carcinogenic risk evaluation of MPA |
-| [8492647](https://pubmed.ncbi.nlm.nih.gov/8492647/) | 1993 | Review | MCN Am J Matern Child Nurs | Overview of Depo-Provera |
-| [7139435](https://pubmed.ncbi.nlm.nih.gov/7139435/) | 1982 | Article | Can Med Assoc J | Whether depot MPA should be considered for additional uses |
-
-None of these studies tests MPA as a treatment for amenorrhea.
-
----
+| [6241963](https://pubmed.ncbi.nlm.nih.gov/6241963/) | 1983 | Small uncontrolled clinical trial | Revista chilena de obstetricia y ginecologia | Therapeutic trial of medroxyprogesterone acetate in severe fibrocystic breast disease (no abstract available) |
+| [2978834](https://pubmed.ncbi.nlm.nih.gov/2978834/) | 1988 | Case series | Revista chilena de pediatria | Medroxyprogesterone acetate in adolescents with fibrocystic breast disease (no abstract available) |
+| [12841885](https://pubmed.ncbi.nlm.nih.gov/12841885/) | 2003 | Cohort | Climacteric | Compares five HRT regimens on fibrocystic mastopathy in postmenopausal women |
+| [11379380](https://pubmed.ncbi.nlm.nih.gov/11379380/) | 2001 | Cohort | Climacteric | Fine-needle-aspiration cytology used to follow breast epithelial proliferation during HRT |
+| [11379377](https://pubmed.ncbi.nlm.nih.gov/11379377/) | 2001 | Cohort | Climacteric | Effects of different HRT regimens on mammographic breast density |
+| [10576236](https://pubmed.ncbi.nlm.nih.gov/10576236/) | 1999 | Cohort | Int J Gynaecol Obstet | Mammographic and ultrasound changes, including new solid or cystic formations, during HRT |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Review | Am J Obstet Gynecol | Fibrocystic disease linked to estrogen predominance and progesterone deficiency; breast cancer risk raised two- to fourfold |
+| [3657597](https://pubmed.ncbi.nlm.nih.gov/3657597/) | 1987 | Review | Maturitas | Cause remains unclear; classical oral contraceptives reduce incidence, while some progestogens induce myoepithelial hyperplasia in dogs |
+| [8603031](https://pubmed.ncbi.nlm.nih.gov/8603031/) | 1996 | Preclinical/mechanistic | J Steroid Biochem Mol Biol | Androgen receptor-mediated growth control in breast and endometrial cancer cells |
 
 ## India Market Information
-
-MPA has 20 valid single-ingredient registrations in India and none are cancelled. Approved indication text is not available in the records. The five main authorizations are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,42 +92,30 @@ MPA has 20 valid single-ingredient registrations in India and none are cancelled
 | 134176 | Meprate 5mg Tablet (Serum Institute Of India Ltd) | Strip of 10 tablets | Not available |
 | 174374 | Pari Contraceptive Injection (Janani) | Box of 1 injection | Not available |
 
-Most products are 10 mg oral tablets. One injectable contraceptive is registered.
-
----
-
-## Cytotoxicity
-
-MPA is a hormonal agent and not a cytotoxic drug, although it has been used in endometrial cancer. Special cytotoxic handling measures are not expected. Please refer to the package insert warnings and precautions.
-
----
+Twenty single-ingredient licences are valid and none are cancelled, covering oral tablets and an injectable. The list may be partial.
 
 ## Safety Considerations
 
-- **Contraindication signals from the knowledge graph (not label text):** hypertension, liver failure and liver disease, kidney disease, gallbladder disease, epilepsy, asthma, diabetes mellitus and diabetic ketoacidosis, hypothyroidism, systemic lupus erythematosus, osteoporosis, hypercalcemia, hypertriglyceridemia, anxiety and neurotic disorders, substance abuse or dependence, and female breast carcinoma.
-- **Breast safety:** Studies of hormone therapy combining estrogen and MPA suggest increased breast density and epithelial proliferation.
-- **Drug interactions:** 205 interactions were found, mostly moderate. The main ones involve antidiabetic drugs (metformin, glimepiride, chlorpropamide, acarbose, SGLT2 inhibitors, GLP-1 agonists, DPP-4 inhibitors and insulins), plus dexamethasone, clarithromycin and aprepitant.
+- **Conditions flagged as contraindicated in reference data (not label text):** hypertension, liver failure and liver disease, kidney disease, gallbladder disease, epilepsy, asthma, diabetes mellitus and diabetic ketoacidosis, hypothyroidism, systemic lupus erythematosus, osteoporosis, hypercalcemia, hypertriglyceridemia, substance abuse or dependence, anxiety and related mood disorders, and female breast carcinoma.
+- **Drug interactions:** 205 interactions were found. The ones listed are all moderate, and many involve glucose-lowering drugs: acarbose, metformin, glimepiride, chlorpropamide, the gliptins and gliflozins, GLP-1 agonists such as semaglutide and liraglutide, and insulins. Others include dexamethasone, aprepitant and clarithromycin.
+- **Breast-specific concern:** HRT studies suggest that estrogen plus medroxyprogesterone acetate may increase breast density and epithelial proliferation. Breast carcinoma also appears among the flagged conditions, so safety in breast disease needs careful review.
 
-Package insert warnings and contraindications were not available. Please refer to the package insert for confirmed safety information.
-
----
+Please refer to the package insert for label warnings, as none were available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, since a progestin challenge is standard for secondary amenorrhea, but no trial tests this use and the literature mainly describes amenorrhea as a contraceptive side effect. The evidence is limited to model prediction plus mechanistic reasoning (L4), and the safety profile has not been confirmed from label text.
+The progestin rationale is biologically plausible, but the only direct human data are two small, uncontrolled reports from the 1980s. HRT studies suggest the drug may raise breast proliferation and density, which conflicts with a benefit in breast disease. The evidence is rated L5.
 
 **To proceed, the following is needed:**
-- Clinical studies or guideline evidence of MPA as treatment for amenorrhea
-- Detailed mechanism of action data (MOA)
-- Package insert warnings and contraindications, and approved indication text for Indian products
-- A safety review for the contraindication signals above, and a check of whether the existing oral products fit the intended use
+- A modern controlled trial of medroxyprogesterone acetate alone in fibrocystic breast disease
+- Review of the full text of the 1983 and 1988 reports
+- Mechanism of action data
+- Package insert warnings and contraindications
+- A breast-safety assessment covering density, proliferation and cancer risk
 
----
-
-**Other predictions (for reference):** Fibrocystic breast disease (L3) has only small, old, uncontrolled clinical reports and raises safety concerns. Cervical endometriosis (L4) is mechanistically plausible but has no direct evidence. The remaining predictions are prediction-only (L5), and the two renal hypoplasia predictions are likely TxGNN model (deep learning) artifacts. All are on **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

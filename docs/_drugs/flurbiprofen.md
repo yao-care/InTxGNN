@@ -38,8 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Flurbiprofen is a nonsteroidal anti-inflammatory drug (NSAID) originally used for rheumatoid arthritis, osteoarthritis and related joint disorders.
-The TxGNN model's top-ranked prediction is **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder, but **no clinical trials and no publications** support it, so it rests on the model score alone.
+Flurbiprofen is a non-steroidal anti-inflammatory drug (NSAID) that is marketed in India in oral tablet and ophthalmic forms.
+The TxGNN model predicts it may be related to **acromesomelic dysplasia, Hunter-Thompson type**, but the prediction is supported by **0 clinical trials** and **0 publications**, so it remains a model-only signal.
 
 ## Quick Overview
 
@@ -48,18 +48,18 @@ The TxGNN model's top-ranked prediction is **acromesomelic dysplasia, Hunter-Tho
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L5 (model prediction only) |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data were not available for this report. Flurbiprofen belongs to the NSAID class, which reduces prostaglandin-mediated inflammation and pain by inhibiting the COX-1 and COX-2 enzymes. Its efficacy in inflammatory and degenerative joint disease is well established.
+Detailed mechanism of action data is not available for this drug. Flurbiprofen belongs to the NSAID class, which acts mainly by inhibiting cyclooxygenase (COX) enzymes and reducing inflammation and pain.
 
-The predicted disease is a rare genetic skeletal dysplasia linked to the CDMP1/GDF5 pathway, which governs bone and cartilage development. A symptomatic anti-inflammatory drug has no clear way to alter this pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related skeletal and joint diseases, not biological evidence.
+Acromesomelic dysplasia, Hunter-Thompson type, is a rare genetic skeletal dysplasia linked to the CDMP1/GDF5 pathway. No plausible mechanism is known by which COX inhibition would modify this disease. The high TxGNN score (0.9999) is a computational prediction based on network proximity to other skeletal phenotypes, not on clinical or laboratory findings.
 
-Several other top-ranked predictions have the same weakness. They include brachydactyly-syndactyly syndrome, brachyolmia, pseudoachondroplasia and other rare developmental disorders. They also have no trials or literature, and no plausible disease-modifying mechanism for an NSAID.
+At most, an NSAID might relieve secondary joint pain, which would be symptomatic relief rather than treatment of the underlying disorder. No data compiled for this report support even that use.
 
 ## Clinical Trial Evidence
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Flurbiprofen has 20 valid single-ingredient registrations and none cancelled. Only two are oral tablets (Migrid); the other 18 are ophthalmic products (eye drops, solution or ointment). The licence entries do not list approved-indication text. Five representative registrations:
+At least 20 licences are recorded, all valid, and this list may be partial. The main ones are listed below; none of the records carries approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form |
 |---------|------|------|
@@ -81,38 +81,25 @@ Flurbiprofen has 20 valid single-ingredient registrations and none cancelled. On
 | 164804 | Ocuflur Eye Ointment | Tube of 5 gm eye ointment |
 | 84289 | Flur Ophthalmic Solution | Packet of 10 ml ophthalmic solution |
 
-The marketed products are mostly ophthalmic, so a systemic skeletal indication would need an oral product. Route compatibility with any new indication has not yet been assessed.
-
 ## Safety Considerations
 
-- **Contraindication signals from the knowledge graph** (not label text): hypertension, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction and coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, and substance abuse/dependence.
-- **Drug interactions:** 352 interactions are recorded, a heavy burden. Most of the interactions listed are Moderate; only famotidine, cimetidine and linaclotide are Minor. They include:
-  - acetylsalicylic acid
-  - corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide)
-  - metformin
-  - sulfonylureas (glimepiride, chlorpropamide)
-  - mesalazine and balsalazide
-  - aprepitant
-  - potassium citrate and bicarbonate
-  - bowel-preparation laxatives (picosulfuric acid, sodium sulfate, polyethylene glycol with electrolytes)
+- **Drug Interactions**: 352 interactions are recorded. Examples rated Moderate include acetylsalicylic acid, hydrocortisone, dexamethasone, metformin, glimepiride, and mesalazine. Examples rated Minor include famotidine, cimetidine, and linaclotide.
 
-Please refer to the package insert for label warnings.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, acromesomelic dysplasia, Hunter-Thompson type, has only a score from the TxGNN model (deep learning). It has no trials, no publications and no plausible mechanism, so it does not justify further investment.
-
-These include several double-blind randomized comparisons from 1974 to 1986 against indomethacin, phenylbutazone and naproxen, which found comparable pain relief (for example [PMID 3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) and [PMID 3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/)). This is a drug-class effect, so it is not a novel repurposing, and no disease-modifying benefit has been shown. It is rated L2 and **Proceed with Guardrails**. These trials are small and old, and their phase and design should be verified.
+The prediction rests only on a model score. There are no clinical trials or publications for this disease, and no plausible mechanism links COX inhibition to the underlying genetic defect.
 
 **To proceed, the following is needed:**
-- Mechanism-of-action data for flurbiprofen
-- Package insert warnings and contraindications for the India products (currently a blocking gap for safety screening)
-- Verification of the trial design and phase for the ankylosing spondylitis literature
-- A safety plan covering gastrointestinal, cardiovascular and renal risk, gastroprotection, and the high drug-interaction burden
-- Assessment of whether an oral product is available for any systemic indication, since most India registrations are ophthalmic
+- Any preclinical or clinical study directly addressing this disease
+- Mechanism of action data and a credible biological rationale
+- Package insert warnings and contraindications for the relevant formulations
+- Assessment of whether the available oral and ophthalmic routes suit any proposed use
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

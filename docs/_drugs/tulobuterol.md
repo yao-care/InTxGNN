@@ -38,8 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Tulobuterol is a beta-2 adrenergic agonist bronchodilator, originally used to treat asthma and pulmonary emphysema.
-This is a computational prediction with limited direct clinical support.
+Tulobuterol is a beta-2 adrenergic agonist bronchodilator, marketed in India as a transdermal patch.
+The TxGNN model predicts it may be effective for **respiratory malformation**, but **no clinical trials** and only **1 publication** (a pediatric asthma study that does not address malformation) are available, so this prediction rests on the model alone.
 
 ## Quick Overview
 
@@ -55,46 +55,19 @@ This is a computational prediction with limited direct clinical support.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, tulobuterol is a beta-2 adrenergic agonist. It relaxes airway smooth muscle, and its efficacy in asthma and emphysema is established.
+Detailed mechanism of action data is not available. Tulobuterol belongs to the beta-2 agonist class, which relaxes airway smooth muscle and produces bronchodilation.
 
-Bronchitis with airflow obstruction shares the same airway-narrowing problem. Bronchodilation could plausibly give symptomatic relief. A 1987 study also found that tulobuterol improved mucociliary clearance in patients with chronic obstructive bronchitis, which is a second plausible benefit.
-
-This evidence is indirect. Neither available publication is a bronchitis-specific efficacy trial. The very high TxGNN score is a computational prediction and does not replace clinical evidence.
-
-**Other predictions in the same analysis:**
-- **Obstructive lung disease and chronic obstructive pulmonary disease (COPD):** these are close to the approved uses, so they are largely on-label or near-label rather than true repurposing. Evidence is stronger (L3), including Phase 4 trials and comparative studies (see below).
-- **Respiratory malformation, Rienhoff syndrome, hyperlucent lung and tracheal stenosis:** no plausible mechanistic link or clinical evidence was found. Several involve fixed structural problems that bronchodilation is unlikely to change. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+No mechanistic rationale links beta-2 agonism to correcting structural respiratory malformations. Bronchodilation can relieve airflow limitation, but it cannot repair a developmental structural defect. The only literature item is a 1986 pediatric asthma study, which concerns asthma, not malformation. The prediction therefore appears to reflect shared respiratory-disease associations in the model rather than a demonstrated pharmacological link. It should be read as a computational hypothesis only.
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for bronchitis. Currently no related clinical trials registered for this indication.
-
-For the closely related obstructive airway indications (rank 2 and rank 4 predictions):
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01465906](https://clinicaltrials.gov/study/NCT01465906) | Phase 4 | Unknown | 160 | Tulobuterol patch plus tiotropium for relieving dyspnea in COPD; multicentre randomized trial. Results not verified |
-| [NCT00950794](https://clinicaltrials.gov/study/NCT00950794) | Phase 4 | Completed | 367 | Salmeterol vs tulobuterol (Hokunalin) tape in adult asthma; tulobuterol is the comparator, not the focus |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-**Bronchitis:**
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [2884705](https://pubmed.ncbi.nlm.nih.gov/2884705/) | 1987 | Mechanistic/physiological study | Respiration | In 8 patients with chronic obstructive bronchitis and 2 with asthma, tulobuterol and fenoterol significantly improved mucociliary clearance in a double-blind crossover design |
-| [2861899](https://pubmed.ncbi.nlm.nih.gov/2861899/) | 1985 | Review | Clinical Therapeutics | Beta-2 agonists are useful in asthma; chronic bronchitis and emphysema respond less well, but a trial is warranted to look for a reversible component |
-
-**Related obstructive airway disease (COPD and asthma):**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [2876775](https://pubmed.ncbi.nlm.nih.gov/2876775/) | 1986 | RCT | Clinical Therapeutics | Double-blind comparison of tulobuterol and salbutamol in 40 men with COPD |
-| [1974678](https://pubmed.ncbi.nlm.nih.gov/1974678/) | 1990 | RCT | Lung | Tulobuterol aerosol vs fenoterol aerosol over two months in 36 adults; FEV1 increases were greater with tulobuterol |
-| [22270072](https://pubmed.ncbi.nlm.nih.gov/22270072/) | 2012 | Review | Allergology International | Review of the tulobuterol transdermal patch as a long-acting beta-2 agonist |
-| [41234762](https://pubmed.ncbi.nlm.nih.gov/41234762/) | 2025 | Phase 4 clinical study | Annals of Thoracic Medicine | Safety, tolerability and efficacy of the tulobuterol patch (Tuloplast) in asthma and COPD |
-| [16336029](https://pubmed.ncbi.nlm.nih.gov/16336029/) | 2005 | Open-label study | Treatments in Respiratory Medicine | Transdermal tulobuterol compared with inhaled salmeterol in stable COPD |
-| [22817699](https://pubmed.ncbi.nlm.nih.gov/22817699/) | 2013 | Comparative study | Geriatrics & Gerontology International | Better adherence to the tulobuterol patch than inhaled salmeterol in elderly COPD patients |
+| [2876923](https://pubmed.ncbi.nlm.nih.gov/2876923/) | 1986 | Clinical study | The Journal of International Medical Research | Dose-ranging and comparative study of tulobuterol syrup versus terbutaline in asthmatic children. Tulobuterol showed rapid and prolonged bronchodilation. It did not study respiratory malformation. |
 
 ## India Market Information
 
@@ -106,7 +79,7 @@ For the closely related obstructive airway indications (rank 2 and rank 4 predic
 | 218169 | Tulo-Touch 2mg Patch | Box of 14 patches | Not specified |
 | 219840 | Tulo-Touch 0.5mg Patch | Box of 14 patches | Not specified |
 
-There are 9 valid single-ingredient registrations in total, all transdermal patches, from Hetero Healthcare, Zuventus Healthcare and Sparsha Pharma International.
+All 9 single-ingredient licences are valid; the five above are shown as examples.
 
 ## Safety Considerations
 
@@ -117,13 +90,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The related indications of obstructive lung disease and COPD have stronger support (L3) but are largely on-label.
+No trial or publication studies respiratory malformation, and there is no plausible mechanism by which a bronchodilator would correct a structural malformation. The score is a computational prediction only.
 
 **To proceed, the following is needed:**
-- Bronchitis-specific clinical evidence, such as a controlled trial of the tulobuterol patch in chronic bronchitis with airflow obstruction
-- Mechanism of action data
-- Package insert warnings and contraindications from the Indian regulator, which are required before safety screening
-- Approved indication wording for the Indian registrations, to confirm how the current labels relate to bronchitis
+- Mechanism-based justification for use in respiratory malformation
+- Disease-specific preclinical or clinical evidence
+- Package insert safety data (warnings, contraindications) for the marketed patches
+- Confirmation that the patch formulation suits the target population
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

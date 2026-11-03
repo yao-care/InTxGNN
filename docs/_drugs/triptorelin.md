@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Triptorelin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 870
-evidence_level: L1
+evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
-description: "Triptorelin: predicted new indication Hypertrichosis (disease) (evidence level L1). Approved use: Not recorded in the local data"
+description: "Triptorelin: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,11 +38,9 @@ Evidence Level: **L1** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Triptorelin is a GnRH (gonadotropin-releasing hormone) agonist that is marketed in India, but the approved indication text is not available in the data compiled for this report.
-However, this is already an established, marketed use of triptorelin, so it is not a true repurposing finding.
-The other nine predictions (including the top-ranked hypertrichosis) have little or no supporting evidence and are most likely TxGNN model (deep learning) artifacts.
-
----
+Triptorelin is a gonadotropin-releasing hormone (GnRH) agonist that suppresses sex hormone production.
+The TxGNN model predicts it may be useful for **hypertrichosis (disease)**, but **no clinical trials** and **only 1 publication** were found.
+That publication is a case report of a drug side effect, not evidence that triptorelin treats the condition.
 
 ## Quick Overview
 
@@ -51,67 +49,26 @@ The other nine predictions (including the top-ranked hypertrichosis) have little
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 1.0000 |
-| Evidence Level | L1 (precocious puberty) |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 6 (valid: 6) |
-| Recommended Decision | Proceed with Guardrails (precocious puberty only) |
-
----
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, triptorelin is a GnRH agonist. Continuous (non-pulsatile) stimulation desensitises pituitary GnRH receptors and lowers LH and FSH secretion. This in turn suppresses gonadal sex steroids.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Triptorelin belongs to the GnRH agonist class. With continuous exposure, these drugs desensitise the pituitary and lower LH, FSH and sex-steroid levels. In theory, lowering androgen levels could matter for some hair-growth disorders.
 
-This mechanism directly addresses central precocious puberty (CPP), which is caused by premature activation of the hypothalamic-pituitary-gonadal axis. The prediction is therefore mechanistically sound and consistent with the established use of GnRH agonists as the standard therapy for CPP. Because CPP is an approved, marketed use, the original-indication field in the source data appears incomplete.
-
-Most of the other predictions lack a plausible mechanism:
-- **Hypertrichosis (rank 1):** The only paper found describes ciclosporin-induced hypertrichosis in a patient who was also taking triptorelin. It is an adverse-event report, not evidence of benefit.
-- **Ambras syndrome, malformation syndromes, Dandy-Walker syndrome, hair shaft abnormalities, familial trichomegaly:** These are genetic or structural conditions with no link to GnRH signalling.
-- **Allergic urticaria:** Hypersensitivity reactions are known adverse effects of GnRH analogues, so the direction of effect may be opposite to benefit.
-- **Familial male-limited precocious puberty:** This is driven by activating LHCGR mutations, independent of gonadotropins, so a GnRH agonist would not address the primary driver. It would matter only if secondary central puberty develops. The retrieved literature concerns ketoconazole and letrozole, not triptorelin.
-- **Aromatase excess syndrome:** The driver is peripheral aromatisation. Aromatase inhibitors are the treatment, and a GnRH agonist would at most be an adjunct.
-
----
+In practice, the link to hypertrichosis is weak. Hypertrichosis is most often drug-induced or genetic, and it is not typically driven by gonadotropin-mediated androgen excess. No credible mechanism was identified by which triptorelin would treat it. The high model score most likely reflects proximity between the drug and the disease in the model's data rather than a true therapeutic signal.
 
 ## Clinical Trial Evidence
 
-Trials for precocious puberty:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05029622](https://clinicaltrials.gov/study/NCT05029622) | Phase 3 | Completed | 66 | Open-label single-arm study of the 6-month formulation in Chinese children with CPP; primary endpoint is LH suppression to prepubertal levels at Month 6 |
-| [NCT01467882](https://clinicaltrials.gov/study/NCT01467882) | Phase 3 | Completed | 44 | Efficacy, safety and pharmacokinetics of the 22.5 mg 6-month formulation in CPP |
-| [NCT00564850](https://clinicaltrials.gov/study/NCT00564850) | Phase 3 | Completed | 37 | Triptorelin 11.25 mg in children with precocious puberty; proportion with suppressed LH response at 3 months |
-| [NCT00909844](https://clinicaltrials.gov/study/NCT00909844) | Phase 3 | Completed | 35 | Long-term follow-up of the 11.25 mg study; maintenance of regression or stabilisation of sexual maturity |
-| [NCT04736602](https://clinicaltrials.gov/study/NCT04736602) | Phase 3 | Completed | 32 | Efficacy and safety of the 3-month formulation in Chinese children with CPP |
-| [NCT01278290](https://clinicaltrials.gov/study/NCT01278290) | Phase 3 | Completed | 46 | Triptorelin as a stimulation test for the early diagnosis of CPP in girls (diagnostic use) |
-| [NCT06487143](https://clinicaltrials.gov/study/NCT06487143) | Phase 4 | Not yet recruiting | 134 | 3-month vs 1-month formulation: efficacy, glucose and lipid metabolism, and bone density in idiopathic CPP |
-| [NCT00438217](https://clinicaltrials.gov/study/NCT00438217) | Phase 4 | Unknown | 100 | Genetic and environmental factors influencing growth rate in children with precocious puberty (indirect relevance) |
-
-No clinical trials are registered for any of the other nine predicted indications.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Publications for precocious puberty (selected):
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39412628](https://pubmed.ncbi.nlm.nih.gov/39412628/) | 2024 | Phase 3 single-arm trial | Advances in Therapy | Efficacy, safety and pharmacokinetics of the 6-month formulation in Chinese children with CPP |
-| [37584898](https://pubmed.ncbi.nlm.nih.gov/37584898/) | 2023 | Phase 3 single-arm trial | Advances in Therapy | Efficacy and safety of the 3-month formulation in Chinese children with CPP |
-| [37266535](https://pubmed.ncbi.nlm.nih.gov/37266535/) | 2023 | Comparative study | Frontiers in Pediatrics | Efficacy and tolerability comparison of leuprolide and triptorelin in idiopathic CPP |
-| [40916129](https://pubmed.ncbi.nlm.nih.gov/40916129/) | 2025 | Cohort/comparative | Annals of Pediatric Endocrinology & Metabolism | Leuprolide acetate vs triptorelin pamoate in overweight and obese girls with CPP |
-| [40988204](https://pubmed.ncbi.nlm.nih.gov/40988204/) | 2025 | Clinical study | Medicine | Cluster nursing plus triptorelin in 110 children; effects on efficacy and quality of life |
-| [29957076](https://pubmed.ncbi.nlm.nih.gov/29957076/) | 2018 | Review | Expert Review of Clinical Pharmacology | Triptorelin depot in CPP: adult-height outcomes and 11.25 mg/22.5 mg formulations |
-| [27191050](https://pubmed.ncbi.nlm.nih.gov/27191050/) | 2016 | Review | Archives of Endocrinology and Metabolism | Diagnosis and therapeutic management of CPP |
-| [26887034](https://pubmed.ncbi.nlm.nih.gov/26887034/) | 2016 | Clinical study | J Pediatr Endocrinol Metab | First study of the 22.5 mg 6-month formulation in CPP |
-| [41384863](https://pubmed.ncbi.nlm.nih.gov/41384863/) | 2025 | Diagnostic accuracy study | Endocrine Connections | Subcutaneous triptorelin stimulation test vs gonadorelin for diagnosing CPP in girls |
-| [36875449](https://pubmed.ncbi.nlm.nih.gov/36875449/) | 2023 | Clinical study | Frontiers in Endocrinology | Impact of the 6-month formulation on predicted adult height and basal gonadotropins |
-
-Other predicted indications have only weak literature: one case report of ciclosporin-induced hypertrichosis (PMID 41822646, not triptorelin-specific), and two case reports on familial male-limited precocious puberty (PMIDs 36049976 and 35909557) that mainly concern ketoconazole and letrozole.
-
----
+| [41822646](https://pubmed.ncbi.nlm.nih.gov/41822646/) | 2026 | Case report | Cureus | Ciclosporin-induced generalised hypertrichosis in a transgender woman with psoriasis who was also taking estradiol and triptorelin. It describes a side effect of ciclosporin and does not show a benefit of triptorelin. |
 
 ## India Market Information
 
@@ -123,36 +80,33 @@ Other predicted indications have only weak literature: one case report of ciclos
 | 58621 | Decapeptyl 0.1mg Injection (Ferring Pharmaceuticals) | Vial of 1 ml injection | Not available |
 | 59940 | Decapeptyl Depot Injection (Ferring Pharmaceuticals) | Vial of 1 injection | Not available |
 
-A sixth registration, 222576 (Tryplog Injection, Life Medicare & Biotech Pvt Ltd, vial of 5 ml injection), is also valid. All six are single-ingredient injectable products and none is cancelled.
-
----
+All licences are for single-ingredient injectable products and are currently valid. A sixth valid licence (Tryplog Injection, Life Medicare & Biotech Pvt Ltd) is also on record.
 
 ## Safety Considerations
 
-Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+- **Drug Interactions**: 262 interactions were recorded. One is rated Major: dolasetron. Many others are rated Moderate, including:
+  - antidiabetic drugs (acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, albiglutide, dulaglutide)
+  - clarithromycin
+  - famotidine
+  - loperamide
+  - palonosetron
+  - bowel-preparation and laxative agents (bisacodyl, picosulfuric acid, polyethylene glycol with electrolytes)
 
-**Contraindication-related disease associations (knowledge graph, not label text):** The knowledge graph links triptorelin to the following conditions as potential contraindications: hypertension, kidney disease, liver disease, gallbladder disease, hyperglycaemia, diabetes mellitus, diabetic ketoacidosis, obesity (including monogenic obesity), urinary tract obstruction, pyoureter and spinal cord disease. These should be verified against the product labelling.
-
-**Drug Interactions:** 262 interactions were identified in total. Examples include:
-- **Major:** Dolasetron
-- **Moderate:** antidiabetic agents (acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, and the gliptins, gliflozins and GLP-1 agonists such as alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, albiglutide and dulaglutide), clarithromycin, famotidine, palonosetron, loperamide, bisacodyl, picosulfuric acid and polyethylene glycol with electrolytes
-
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails** (precocious puberty only). **Hold** for all other predicted indications, including hypertrichosis.
+**Decision: Hold**
 
 **Rationale:**
-- Precocious puberty has multiple completed Phase 3 studies (L1), including four Phase 3 trials of triptorelin formulations in CPP and a consistent literature base. It is a mechanistically sound, established use rather than a new repurposing opportunity.
+The prediction has no supporting trials, and the only publication is a case report of a side effect of another drug. No plausible mechanism links GnRH agonism to treating hypertrichosis, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- The approved indication text for the Indian registrations, to confirm whether CPP is already labelled, since all six registrations currently have empty indication fields. If it is, no repurposing action is required.
-- Package insert warnings and contraindications, which are a blocking gap for safety screening.
-- Mechanism-of-action data from DrugBank.
-- A safety monitoring plan for paediatric use, covering glycaemic and metabolic status, bone density and growth.
-- Verification of the formulation and dose strengths (3.75 mg, 11.25 mg, 22.5 mg) against paediatric dosing in the Indian context.
+- A defined mechanistic hypothesis for how lowering sex hormones would affect hypertrichosis
+- Controlled or observational clinical data on triptorelin in this condition
+- Package insert warnings and contraindications for the marketed products
+- Detailed mechanism-of-action data
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Luliconazole is a topical imidazole antifungal, originally used for tinea pedis, tinea corporis and other dermatophyte infections of the skin.
+Luliconazole is a topical azole antifungal used for skin fungal infections. The TxGNN model predicts it may be effective for **endothrix infectious disease**, but currently there are **no clinical trials and no publications** supporting this direction, so the evidence rests on the model prediction alone.
 
 ## Quick Overview
 
@@ -50,31 +50,27 @@ Luliconazole is a topical imidazole antifungal, originally used for tinea pedis,
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Proceed with Guardrails |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, luliconazole is a topical imidazole antifungal that inhibits lanosterol 14-alpha-demethylase, an enzyme needed to make ergosterol, a key component of the fungal cell membrane. Its efficacy in dermatophyte infections is established, and mechanistically it may be applicable to pityriasis versicolor.
+Detailed mechanism of action data is not available. Luliconazole belongs to the azole class of antifungals, which act against fungal cells, and it is used on the skin as a cream or lotion.
 
-Pityriasis versicolor is a superficial skin infection caused by *Malassezia* yeasts, and these organisms are susceptible to azole antifungals. Published work also notes that luliconazole has broad activity against dermatophytes, *Candida* and *Malassezia*. Because the drug is already marketed in India as a topical product for dermatophytosis, its topical use is familiar and the new indication is a short step from the existing one.
+Endothrix infections (for example, those caused by *Trichophyton tonsurans*) are dermatophyte infections in which the fungus grows inside the hair shaft. Because dermatophytes are generally susceptible to azoles, activity is biologically plausible.
 
-Superficial mycosis is close to an on-label extension. The hair-shaft and deep follicular infections are less promising, because topical drugs penetrate poorly there and oral therapy is usually standard.
+There is an important limitation. Fungus inside the hair shaft may be hard for a topical product to reach, and systemic therapy is usually the standard approach for this type of infection. At this stage the support is a model prediction only.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27559523](https://pubmed.ncbi.nlm.nih.gov/27559523/) | 2016 | RCT (prospective, open, randomized) | Indian Dermatology Online Journal | Compared topical ketoconazole and topical luliconazole in pityriasis versicolor at a tertiary care hospital in eastern India. No abstract was available, so results are not summarized here. |
-| [29198426](https://pubmed.ncbi.nlm.nih.gov/29198426/) | 2018 | In vitro study | Journal de Mycologie Medicale | Luliconazole inhibits sterol 14-α-demethylase and is active against dermatophytes, *Candida* and *Malassezia*. It has been used clinically for pityriasis versicolor and dermatophytosis. |
+Currently no related literature available.
 
 ## India Market Information
 
-There are 20 valid single-ingredient registrations, all topical (creams and lotions). Approved indication text was not available for these registrations. The main ones are:
+Luliconazole is marketed in India as a single-ingredient product. The data compiled for this report show 20 valid single-ingredient licences and no cancelled ones; the list may be partial. The licence records carry no indication text. Five main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -86,29 +82,21 @@ There are 20 valid single-ingredient registrations, all topical (creams and loti
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-No drug interaction records were found, and no contraindication records were found in the knowledge graph.
+Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, the drug is already marketed in India as a topical product, and a randomized comparative study already exists in pityriasis versicolor. However, the only registered trial is Phase 4 and has not yet started recruiting, and the published RCT had no abstract available for review. Evidence is therefore moderate (L3) rather than confirmatory.
+The prediction score is high, but there are no clinical trials or publications for endothrix infectious disease, so the evidence level is L5. Limited penetration of a topical product into the hair shaft further weakens the case.
 
 **To proceed, the following is needed:**
-- Results from the 2016 Indian RCT (PMID 27559523) and from NCT07333170 once available
-- Package insert warnings and contraindications for the Indian products (a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- Confirmation of the concentration (the registered products are 1% creams, while the trial uses 2%) and the treatment duration for pityriasis versicolor
-- Approved indication text for the Indian registrations
+- Laboratory data showing luliconazole activity against endothrix-causing dermatophytes
+- Evidence that topical delivery reaches the hair shaft, or an assessment of whether a systemic route would be required
+- Mechanism of action data
+- Package insert warnings and contraindications for the safety review
 
-**Notes on other predicted indications:**
-- **Superficial mycosis** (L3): close to the existing indication, so it is a low-risk, near on-label extension, but it is not a true new repurposing opportunity.
-- **Cutaneous candidiasis** (L4): evidence is limited to animal and formulation studies, so it remains a research question.
-- **Majocchi granuloma** (L4): only case reports are available, and deep infection limits topical efficacy, so it remains a research question.
-- **Scalp or beard dermatophytosis, endothrix and ectothrix infections**: hold, because there is no supportive efficacy evidence and hair-follicle penetration is limited.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

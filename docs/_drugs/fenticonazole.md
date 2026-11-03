@@ -38,9 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Fenticonazole is an imidazole antifungal, originally used to treat vulvovaginal candidiasis.
-The TxGNN model predicts it may be effective for **trichomonal vulvovaginitis**, but **no registered clinical trials** and **no Trichomonas-specific publications** currently support this prediction.
-The related, broader indication of **vulvovaginitis** has stronger support (**about 20 publications**, including several comparative trials), but that evidence mostly overlaps with the already-approved candidiasis use.
+Fenticonazole is a topical imidazole antifungal, marketed in India as vaginal capsules and a vaginal cream.
+The TxGNN model predicts it may be useful for **trichomonal vulvovaginitis**, with a score of 0.9950.
+No clinical trials and no publications specific to this disease were found, so the prediction is supported by model output only.
 
 ## Quick Overview
 
@@ -49,51 +49,33 @@ The related, broader indication of **vulvovaginitis** has stronger support (**ab
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trichomonal vulvovaginitis |
 | TxGNN Prediction Score | 0.9950 |
-| Evidence Level | L5 (for trichomonal vulvovaginitis) |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, fenticonazole is an imidazole derivative with broad antimycotic activity. It is described as acting by inhibiting Candida acid protease secretion, damaging the cytoplasmic membrane, and blocking cytochrome oxidases and peroxidases. It has also shown some antibacterial activity.
+Detailed mechanism-of-action data is not available in the data compiled for this report. From the literature, fenticonazole is an imidazole derivative with broad antimycotic activity. It is described as acting in three ways: inhibiting secretion of acid protease by *Candida albicans*, damaging the cytoplasmic membrane, and blocking cytochrome oxidases and peroxidases. It has also been described as having some antibacterial action.
 
-Trichomonal vulvovaginitis and candidal vulvovaginitis present similarly and affect the same anatomical site. Other imidazoles are reported to have some in vitro activity against Trichomonas, which makes the prediction plausible. However, this link is unconfirmed. The retrieved papers address vulvovaginitis in general, mainly candidal, and do not show Trichomonas-specific efficacy. One open-label pilot study (PMID 15216954) enrolled women with mixed infections including *Trichomonas vaginalis*, but the available summary does not report results for the trichomonal subgroup. The high TxGNN score is a computational prediction only.
+Some imidazoles have shown in vitro activity against *Trichomonas*, which gives a plausible but unconfirmed link to trichomonal infection. However, the retrieved papers concern vulvovaginal infection in general, mainly candidal. They do not show efficacy specific to trichomonal infection. The high score is a model prediction and should not be read as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for trichomonal vulvovaginitis.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No Trichomonas-specific publication was found.
+No retrieved paper studies trichomonal vulvovaginitis as its own endpoint. The two papers below are the closest and are listed for context only.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15216954](https://pubmed.ncbi.nlm.nih.gov/15216954/) | 2004 | Clinical study (open-label, multicenter pilot) | Journal of Chemotherapy | 101 women with single or mixed vulvovaginitis (Candida, Trichomonas, Gardnerella); 1 g ovules on days 1 and 3 |
-| [18840006](https://pubmed.ncbi.nlm.nih.gov/18840006/) | 2008 | Review | Drugs | Topical fenticonazole in dermatology and gynaecology: broad antimycotic activity, some antibacterial action |
-
-### Supporting evidence for related indications
-
-It rests mainly on candidal infection, so it is not a true repurposing signal.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [12017948](https://pubmed.ncbi.nlm.nih.gov/12017948/) | 2002 | Comparative trial | Ginecol Obstet Mex | Fenticonazole 200 mg vs miconazole 400 mg in mycotic vulvovaginitis |
-| [2202548](https://pubmed.ncbi.nlm.nih.gov/2202548/) | 1990 | Randomized comparative trial | Curr Med Res Opin | 153 patients; single 600 mg ovule vs clotrimazole 500 mg tablet in vaginal candidiasis |
-| [2680285](https://pubmed.ncbi.nlm.nih.gov/2680285/) | 1989 | Randomized comparative trial | Curr Med Res Opin | 50 patients; fenticonazole 600 mg ovule vs clotrimazole 500 mg tablet |
-| [3542628](https://pubmed.ncbi.nlm.nih.gov/3542628/) | 1986 | Double-blind trial | J Int Med Res | 54 patients; fenticonazole cream vs clotrimazole for 7 days |
-| [22481619](https://pubmed.ncbi.nlm.nih.gov/22481619/) | 2012 | Comparative study | Minerva Ginecol | Fluconazole 150 mg vs intravaginal fenticonazole 600 mg in acute vulvovaginal candidiasis |
-| [2019858](https://pubmed.ncbi.nlm.nih.gov/2019858/) | 1991 | Pharmacokinetic study | J Chemother | Low systemic absorption after vaginal administration of 1 g |
-| [31845594](https://pubmed.ncbi.nlm.nih.gov/31845594/) | 2019 | Review | Future Microbiol | Fenticonazole as an empiric treatment in mixed vaginitis |
-
-No human controlled trial was found.
-
-Other predicted indications (postmenopausal atrophic vaginitis, herpetic vulvovaginitis, vulvar ulceration, vulvar neoplasm) have no supporting clinical or literature evidence and no plausible mechanistic rationale for an antifungal.
+| [15216954](https://pubmed.ncbi.nlm.nih.gov/15216954/) | 2004 | Open-label multicenter pilot study | J Chemother | 101 women with single or mixed vulvovaginal infections (including *Trichomonas vaginalis*) received 1 g fenticonazole ovules on days 1 and 3; trichomonad-specific results are not given in the retrieved abstract |
+| [18840006](https://pubmed.ncbi.nlm.nih.gov/18840006/) | 2008 | Review | Drugs | Review of topical fenticonazole in dermatology and gynaecology; describes antifungal mechanisms and some antibacterial action |
 
 ## India Market Information
 
-Fenticonazole is marketed in India with 20 valid single-ingredient registrations. Approved indication text is not available in the data compiled for this report. Five representative registrations:
+At least 20 valid single-ingredient licences are recorded; the list below shows five of them and may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -105,20 +87,21 @@ Fenticonazole is marketed in India with 20 valid single-ingredient registrations
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report. The one available pharmacokinetic study suggests low systemic absorption after vaginal use (PMID 2019858).
+Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for trichomonal vulvovaginitis is high (0.9950), but there are no registered trials and no Trichomonas-specific data, so the prediction remains unconfirmed. The best-supported nearby indication, vulvovaginitis, is largely the same as the approved candidiasis use. It does not represent a new indication.
+The prediction rests on the model score alone. No trial or publication directly studies trichomonal vulvovaginitis, and the mechanistic link is only plausible.
 
 **To proceed, the following is needed:**
-- In vitro activity data of fenticonazole against *Trichomonas vaginalis*, and the Trichomonas subgroup results from PMID 15216954
-- A controlled clinical trial against the standard comparator (nitroimidazoles such as metronidazole) if in vitro data are favourable
-- Package insert warnings and contraindications from Indian regulatory sources
-- Detailed mechanism of action data
+- In vitro activity data of fenticonazole against *Trichomonas vaginalis*
+- Clinical data with trichomonad-specific endpoints, including subgroup results from existing mixed-infection studies
+- Mechanism-of-action data from DrugBank
+- Package insert warnings and contraindications from the India regulator
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

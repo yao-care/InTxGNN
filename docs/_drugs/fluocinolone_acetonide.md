@@ -38,8 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Fluocinolone acetonide is a potent topical corticosteroid used in inflammatory and pruritic skin conditions such as eczema, dermatitis and discoid lupus erythematosus.
-No clinical trials or publications were found for this prediction, so it rests on **model prediction only**.
+Fluocinolone acetonide is a synthetic topical corticosteroid used for inflammatory and itchy skin conditions.
+The TxGNN model predicts it may be useful for **lichen planus pemphigoides**, but **no clinical trials and no publications** were found to support this direction, so it remains a model prediction only.
 
 ## Quick Overview
 
@@ -51,19 +51,15 @@ No clinical trials or publications were found for this prediction, so it rests o
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Number of Approvals | At least 20 licences (the list may be partial) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Fluocinolone acetonide is a synthetic corticosteroid that acts on the glucocorticoid receptor (NR3C1). Corticosteroids of this class are known to suppress T-cell and cytokine-driven inflammation.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Pharmacology data show that fluocinolone acetonide acts on the glucocorticoid receptor (NR3C1), the target through which corticosteroids exert anti-inflammatory and anti-itch effects in the skin.
 
-Lichen planus is a T-cell-mediated inflammatory skin disease, and topical corticosteroids are a standard first-line therapy for it in general. This gives a plausible mechanistic link to the conditions the drug is already used for. The same reasoning applies to the other predicted variants: hypertrophic lichen planus (0.9942), lichen planus pigmentosus (0.9942) and lichen planus pemphigoides (0.9934).
+Lichen planus pemphigoides is a rare overlap of lichen planus and bullous pemphigoid, with autoantibodies against BP180 (collagen XVII). Topical corticosteroids are used for localized disease, so the anti-inflammatory action of fluocinolone acetonide gives a limited, plausible rationale for mild or localized disease. Moderate to severe cases usually need systemic corticosteroids or other immunosuppressants, and a topical agent is unlikely to be sufficient on its own.
 
-Annular atrophic lichen planus is a rare morphological variant. Variant-specific caveats:
-- **Hypertrophic lichen planus:** thick plaques often need super-potent agents, and fluocinolone's potency may be insufficient.
-- **Lichen planus pigmentosus:** results with topical steroids are variable, and long-term use on pigmented facial or flexural skin risks atrophy.
-- **Lichen planus pemphigoides:** moderate to severe disease usually needs systemic therapy, so topical use is plausible only for mild or localised disease.
+The prediction score (0.9934) is a model output without clinical support and should not be read as proof of benefit.
 
 ## Clinical Trial Evidence
 
@@ -75,7 +71,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-At least 20 single-ingredient licences are recorded and all are valid. This list may be partial. The licence records contain no approved indication text. The five main authorisations are listed below.
+Marketed products containing fluocinolone acetonide as a single ingredient include the following. At least 20 valid licences were found, and this list may be partial.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -85,29 +81,26 @@ At least 20 single-ingredient licences are recorded and all are valid. This list
 | 59932 | Dermolam Cream | Cream, tube of 15 gm | Not stated in the records |
 | 231826 | Ultiderm CS Ointment | Ointment, tube of 50 gm | Not stated in the records |
 
-The available forms are creams, ointments, lotions and a skin solution, all for topical use.
-
 ## Safety Considerations
 
-- **Contraindications recorded in the knowledge graph (not label text):** herpes simplex infections (including herpes simplex keratitis and geniculate herpes zoster), fungal infection of the eye, mycotic corneal ulcer, ocular tuberculosis, glaucoma, adrenocortical insufficiency and Addison disease, skin atrophy, telangiectasis and related capillary disease, peripheral vascular disease, and sunburn. Atopic eczema and dermatitis also appear in this list, so these relations should be checked against the actual product label.
-- **Drug interactions:** ten interaction records were retrieved, including dexamethasone, cetirizine, citalopram, valproic acid, acetaminophen, digoxin, levothyroxine, alendronic acid and clonazepam. Severity levels are unknown. The tenth record is the glucocorticoid receptor, the drug's pharmacological target.
-- **Class risk:** prolonged use on thin or pigmented skin carries a risk of atrophy and other steroid adverse effects.
+- **Contraindications (disease-level relations in the data compiled for this report, not label text):** sunburn, herpes simplex infections (including herpes simplex keratitis), adrenocortical insufficiency/Addison disease, glaucoma, skin atrophy, telangiectasis and other capillary disease, peripheral vascular disease, herpes zoster, fungal eye infection, ocular tuberculosis, mycotic corneal ulcer.
+- **Drug Interactions:** Ten interaction records were found, including dexamethasone, cetirizine, citalopram, valproic acid, acetaminophen, digoxin, levothyroxine, alendronic acid and clonazepam. Severity levels are not classified, so clinical significance is unknown.
 
-Please refer to the package insert for full warnings, as no label warnings were available.
+Please also refer to the package insert for full warnings, as label-based warnings were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score and a general mechanistic argument. The drug is widely marketed in India, but the licence records give no indication text, and the label safety information is missing.
+The only support is a model prediction (L5), with no trials or literature for lichen planus pemphigoides. A topical corticosteroid is plausible only for mild or localized disease.
 
 **To proceed, the following is needed:**
-- A literature and trial search specific to lichen planus variants and topical fluocinolone
-- Package insert warnings and contraindications from the Indian licence holders
-- Confirmed mechanism of action data
-- Potency and formulation suitability assessment for each variant, and a long-term safety plan for atrophy-prone sites
-- Review of the knowledge-graph contraindications, particularly the atopic eczema and dermatitis entries
+- Case series, case reports or clinical studies of topical fluocinolone acetonide in lichen planus pemphigoides
+- Package insert warnings and contraindications from the India regulatory source
+- Mechanism-of-action data
+- Assessment of which patients (localized versus moderate to severe disease) could realistically benefit from a topical product
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -38,9 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Ceftriaxone is a third-generation cephalosporin antibiotic, originally used for bacterial infections such as pneumonia, meningitis, gonorrhea and salmonellosis.
-The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome**, but **no clinical trials and no publications** support it, so it is a model prediction only.
-The better-supported predictions are in otitis media (infectious, suppurative and chronic), which are largely extensions of existing antibacterial use rather than true repurposing.
+Ceftriaxone is a third-generation cephalosporin antibiotic that works by blocking bacterial cell wall synthesis.
+The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, with a score of 0.9939.
+There are currently **no clinical trials and no publications** supporting this prediction, so it rests on model output alone.
 
 ---
 
@@ -60,51 +60,29 @@ The better-supported predictions are in otitis media (infectious, suppurative an
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, ceftriaxone is a third-generation cephalosporin that inhibits bacterial cell wall synthesis, and its efficacy in bacterial infections is well established.
+Ceftriaxone is a third-generation cephalosporin that inhibits bacterial cell wall synthesis. Detailed mechanism of action data is not available in the data compiled for this report.
 
-**For the top-ranked prediction, the rationale is weak.** Polyclonal hyperviscosity syndrome is a haematologic/immunologic condition driven by elevated immunoglobulins, and an antibacterial would not be expected to address it. The high score (0.9939) is a TxGNN model (deep learning) prediction with no supporting trials or literature. Other top-ranked predictions are similarly unsupported: hyperamylasemia (a laboratory finding), congenital analbuminemia (a genetic albumin synthesis disorder, where ceftriaxone's high albumin binding is only a dosing consideration) and blood group incompatibility (an immune-mediated process).
+Polyclonal hyperviscosity syndrome is a haematological and immunological condition driven by elevated immunoglobulin levels. An antibacterial agent would not be expected to act on this process, and no mechanistic link has been identified.
 
-**The otitis media predictions are biologically plausible.** Ceftriaxone is active against the main otitis media pathogens (*Streptococcus pneumoniae*, *Haemophilus influenzae*, *Moraxella catarrhalis*).
-
-| Predicted Indication | Score | Evidence Level | Assessment |
-|------|------|------|------|
-| Chronic otitis media | 0.9901 | L3 | Partially plausible; the literature is mostly susceptibility surveys, and topical therapy is generally preferred |
+The high TxGNN score is a model prediction only. No trial or publication tests ceftriaxone in this disease, so the prediction should be treated as a hypothesis with no supporting evidence.
 
 ---
 
 ## Clinical Trial Evidence
 
-For the top-ranked prediction (polyclonal hyperviscosity syndrome), no related clinical trials are currently registered.
-
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02567825](https://clinicaltrials.gov/study/NCT02567825) | Not applicable | Completed | 250 | Tympanostomy tubes versus non-surgical management in children with recurrent acute otitis media; ceftriaxone is not the studied intervention, so it gives disease context only |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-For the top-ranked prediction (polyclonal hyperviscosity syndrome), no related literature is currently available.
-
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [8989332](https://pubmed.ncbi.nlm.nih.gov/8989332/) | 1997 | RCT | Pediatrics | Single intramuscular dose of ceftriaxone compared with 10 days of oral trimethoprim-sulfamethoxazole for acute otitis media |
-| [11099083](https://pubmed.ncbi.nlm.nih.gov/11099083/) | 2000 | Clinical study | Pediatr Infect Dis J | Bacteriologic and clinical efficacy of one-day versus three-day intramuscular ceftriaxone in nonresponsive acute otitis media |
-| [9877360](https://pubmed.ncbi.nlm.nih.gov/9877360/) | 1998 | Clinical study | Pediatr Infect Dis J | Bacteriologic efficacy of a three-day intramuscular ceftriaxone regimen in nonresponsive acute otitis media |
-| [12166789](https://pubmed.ncbi.nlm.nih.gov/12166789/) | 2002 | Consensus recommendations | Clin Pediatr | Consensus recommendations for the management of acute otitis media |
-| [10688388](https://pubmed.ncbi.nlm.nih.gov/10688388/) | 2000 | Review | Clin Ther | Review of treatment recommendations for antimicrobial therapy of acute otitis media |
-| [35841649](https://pubmed.ncbi.nlm.nih.gov/35841649/) | 2022 | Cohort | Int J Pediatr Otorhinolaryngol | Factors associated with ceftriaxone use for acute otitis media in a large U.S. primary care population |
-| [39376426](https://pubmed.ncbi.nlm.nih.gov/39376426/) | 2024 | Microbiology study | Indian J Otolaryngol Head Neck Surg | Biofilm-producing organisms and their antibiotic sensitivity in chronic suppurative otitis media |
-
-For hyperamylasemia, three papers were found, but none supports ceftriaxone as a treatment. One 1999 study ([PMID 10458061](https://pubmed.ncbi.nlm.nih.gov/10458061/)) looked at ceftriaxone prophylaxis after endoscopic papillosphincterotomy, which is only an indirect association.
+Currently no related literature available.
 
 ---
 
 ## India Market Information
 
-Ceftriaxone is marketed in India with 20 valid single-ingredient registrations, all as injectable vials. The approved indication text is not available in the compiled data. Main authorisations:
+Ceftriaxone is marketed in India. At least 20 valid single-ingredient licences are recorded, and the list may be partial. No approved indication text is recorded in the local data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -118,15 +96,9 @@ Ceftriaxone is marketed in India with 20 valid single-ingredient registrations, 
 
 ## Safety Considerations
 
-**Contraindication-related conditions (from the knowledge graph, not label text):** liver disease, gallbladder disease, neonatal jaundice, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis and hemolytic anemia.
+- **Drug Interactions**: 164 interactions were found in the data compiled for this report. The main major-level interactions are with calcium chloride, calcium glucoheptonate and calcium gluconate. Moderate-level interactions include kanamycin, neomycin, streptomycin and picosulfuric acid.
 
-**Drug Interactions:** 164 interactions were identified. The main ones are:
-- **Major:** calcium chloride, calcium glucoheptonate, calcium gluconate
-- **Moderate:** kanamycin, neomycin, streptomycin, picosulfuric acid
-
-Many other listed interactions have an unknown severity level.
-
-Please refer to the package insert for full warnings and contraindications.
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ---
 
@@ -135,13 +107,13 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (polyclonal hyperviscosity syndrome) has no mechanistic link and no trials or literature, so it rests on model output alone (L5). The otitis media predictions are better supported (L3) but largely reflect existing antibacterial use rather than new repurposing, and the only registered trial does not test ceftriaxone. The compiled data also lack package insert safety information, which blocks safety screening.
+The prediction has no clinical trials or publications behind it, and no plausible mechanism links an antibacterial to a disease of raised immunoglobulins. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the India-registered products (approved indication text is also missing)
+- Evidence that ceftriaxone acts on the pathophysiology of polyclonal hyperviscosity syndrome, such as preclinical or mechanistic studies
 - Detailed mechanism of action data
-- If otitis media is pursued, confirmation of whether it is already a labelled use, plus current comparative efficacy data, particularly for chronic disease where *Pseudomonas* and biofilms limit activity
-- For the other top-ranked predictions, a plausible mechanistic hypothesis before any further investment
+- Package insert warnings and contraindications for the marketed products
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

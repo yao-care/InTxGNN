@@ -38,10 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Choline salicylate is a non-acetylated salicylate, marketed in India mainly as topical dental gels, oral liquids and paints, with one oral tablet product.
-The evidence is weak and symptomatic only.
-
----
+Choline salicylate is a salicylate-class anti-inflammatory compound, marketed in India mainly as topical oral and dental gels and related oral products.
+The TxGNN model predicts it for **Prinzmetal angina**, but there are **no clinical trials and no publications** supporting this direction, so the prediction remains a model output only.
 
 ## Quick Overview
 
@@ -50,42 +48,30 @@ The evidence is weak and symptomatic only.
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 0.9984 |
-| Evidence Level | L5 for rheumatoid arthritis (older reviews and clinical reports only) |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Hold (rheumatoid arthritis is flagged as a research question) |
-
----
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, choline salicylate is a non-acetylated salicylate with COX-inhibiting, anti-inflammatory and analgesic activity. This is biologically consistent with symptomatic control of inflammatory joint disease.
+Detailed mechanism of action data is not available for this drug. As a salicylate, it is generally expected to inhibit prostaglandin synthesis, which explains its anti-inflammatory and analgesic use.
 
-Three older publications describe its use as an antirheumatic agent, including in children with rheumatoid arthritis. The evidence supports symptomatic relief only, not disease modification. Modern DMARDs and biologics have largely replaced salicylates as primary therapy, so any role would be adjunctive at best.
+No clear mechanistic link to Prinzmetal angina was identified. This condition is driven by coronary vasospasm, and its standard therapies are calcium channel blockers and nitrates. Salicylates are not established vasodilators, and high-dose NSAID-type drugs can have adverse cardiovascular or renal effects.
 
-The other top predictions are mostly unsupported. Prinzmetal angina, the hypertension-related conditions (including malignant hypertensive renal disease, malignant renovascular hypertension and the pulmonary hypertension variants) and Raynaud disease have no clinical evidence. For several of them, NSAID-class effects on blood pressure and renal perfusion argue against benefit. Migraine has class-level plausibility, since NSAIDs are established for acute migraine, but no direct evidence for choline salicylate.
-
----
+The high prediction score is therefore not backed by clinical or mechanistic evidence, and it should be read as a statistical association from the model rather than a reasoned therapeutic hypothesis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [897386](https://pubmed.ncbi.nlm.nih.gov/897386/) | 1977 | Clinical study (pediatric, design unclear) | Reumatologia | Usefulness of choline salicylate in children with rheumatoid arthritis |
-| [377958](https://pubmed.ncbi.nlm.nih.gov/377958/) | 1979 | Review | American Journal of Hospital Pharmacy | Review of antirheumatic drugs, including choline salicylate, choline magnesium salicylate, aspirin and salsalate |
-| [7188920](https://pubmed.ncbi.nlm.nih.gov/7188920/) | 1980 | Review/Clinical report (design unclear) | Fysiatricky a reumatologicky vestnik | Choline salicylate as an antirheumatic agent |
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-All 20 registrations are valid single-ingredient products. The approved indication text is blank in the data compiled for this report. The five main authorizations are listed below.
+The data compiled for this report list 20 valid single-ingredient licences, and none are cancelled. The records may be partial. The approved indication text is not recorded for any of them. The first 5 are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,40 +81,28 @@ All 20 registrations are valid single-ingredient products. The approved indicati
 | 200486 | Seleno Tablet | Strip of 10 tablets | Not specified |
 | 236766 | Viloral Mouth Paint | Bottle of 20 ml paint | Not specified |
 
-Most registered products are topical or oral-cavity formulations. Only one oral tablet product was identified. Whether these formulations can deliver the systemic exposure needed for rheumatoid arthritis has not been assessed.
-
----
-
 ## Safety Considerations
 
-**Drug Interactions** (100 interactions identified; main ones shown):
-- **Corticosteroids (moderate):** hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide
-- **Sulfonylureas (moderate):** chlorpropamide, acetohexamide, glimepiride, glipizide, glyburide
-- **Insulins (moderate):** human insulin, insulin aspart and insulin aspart protamine
-- **Antacids and adsorbents (moderate):** aluminum hydroxide, calcium carbonate, activated charcoal
-- **Fenfluramine and dexfenfluramine (moderate)**
-- **Proton pump inhibitors (minor):** rabeprazole, dexlansoprazole
+- **Drug Interactions**: 100 interactions were found in the interaction databases. Examples include:
+  - Moderate: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide), sulfonylurea antidiabetics (chlorpropamide, acetohexamide, glimepiride, glipizide, glyburide), insulins, antacids (aluminum hydroxide, calcium carbonate), activated charcoal, and fenfluramine/dexfenfluramine.
+  - Minor: proton pump inhibitors (rabeprazole, dexlansoprazole).
+- **Predicted-indication concern**: NSAID-class drugs can interfere with blood pressure control and renal perfusion, which matters for patients with cardiovascular disease.
 
-Class-level concerns relevant to the predictions include NSAID effects on blood pressure, sodium retention and renal perfusion.
-
-Please refer to the package insert for warnings and contraindications.
-
----
+Please refer to the package insert for warnings and contraindications, as none were available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-However, there are no registered trials, the evidence is dated and of unclear design, and salicylates have been superseded by modern therapies. The other predictions have no supporting evidence, and some carry safety concerns.
+The prediction has a very high model score (0.9984) but no clinical trials, no publications and no plausible mechanistic link to coronary vasospasm. Evidence stays at L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data from DrugBank
-- Approved indications for the Indian licences
-- Full-text review of the three publications to confirm study design and outcomes
-- Assessment of whether the available formulations (mostly topical) suit a systemic indication
-- Modern controlled evidence, or a comparison against current standard care for rheumatoid arthritis, before any further development
+- Mechanism of action data for choline salicylate
+- Package insert warnings and contraindications from the India licences
+- Any preclinical or clinical study directly addressing Prinzmetal angina
+- A cardiovascular safety assessment, given the known effects of NSAID-class drugs on blood pressure and renal function
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

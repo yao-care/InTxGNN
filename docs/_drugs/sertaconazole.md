@@ -38,11 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Sertaconazole is a topical imidazole antifungal whose recorded original use is tinea pedis (a relation in the knowledge graph).
-The TxGNN model predicts it may be effective for **ectothrix infectious disease**, but **no clinical trials and no publications** directly study this disease, so the prediction rests on the model score and mechanistic plausibility alone.
-Two related predictions were also generated: endothrix infectious disease (no direct evidence) and pityriasis versicolor (1 small 1992 clinical study plus several reviews).
-
----
+Sertaconazole is a topical imidazole antifungal that is marketed in India in cream, lotion and tablet forms.
+The TxGNN model predicts it may be effective for **ectothrix infectious disease**, with a score of 0.9959.
+No clinical trials or publications were found for this indication, so the support is a computational prediction only.
 
 ## Quick Overview
 
@@ -54,46 +52,27 @@ Two related predictions were also generated: endothrix infectious disease (no di
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Number of Approvals | At least 20 licences (the list may be partial) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for the original record is not available. Sertaconazole is, however, a known imidazole antifungal. This class inhibits fungal ergosterol synthesis (lanosterol 14-alpha-demethylase), and sertaconazole's benzothiophene ring may add direct membrane-disrupting effects.
+Sertaconazole is an imidazole antifungal. It is thought to block fungal ergosterol synthesis by inhibiting lanosterol 14-alpha-demethylase. Its benzothiophene ring may also disrupt fungal membranes directly. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description reflects the general behaviour of the drug class.
 
-Ectothrix infection is a dermatophyte infection of the hair (tinea capitis, typically *Microsporum* or *Trichophyton* species), in which spores form on the outside of the hair shaft. Tinea pedis is caused by the same broad group of fungi, so activity against these organisms is biologically plausible.
+Ectothrix infection is a dermatophyte infection of the hair, in which fungal spores form around the outside of the hair shaft. It is typically caused by Microsporum or Trichophyton species. Sertaconazole's activity against dermatophytes makes this link biologically plausible.
 
-The main limitation is delivery. Hair-shaft and follicular infections are poorly reached by topical products, and treatment guidelines generally favour systemic therapy. The high TxGNN score is a computational prediction only. Closely related is endothrix infection (score 0.9956), with the same mechanistic reasoning and the same penetration limitation.
-
-It is caused by *Malassezia* yeasts in the stratum corneum, a superficial and topically accessible target. One caution is that the literature describes sertaconazole as already used for this condition in some regions, so the repurposing novelty is limited. Because the evidence for it sits in a different disease from the headline prediction, it is described separately below.
-
----
+There is an important limitation. Hair-shaft infections generally need oral therapy, because topical agents reach the hair follicle poorly. The high score is a computational prediction and does not replace clinical evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for ectothrix infectious disease (and none for endothrix infectious disease or pityriasis versicolor).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-There is currently no related literature for ectothrix or endothrix infectious disease. The publications below concern the third prediction, pityriasis versicolor, and related superficial mycoses.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [19275277](https://pubmed.ncbi.nlm.nih.gov/19275277/) | 2009 | Review | Drugs | Sertaconazole use in superficial mycoses in dermatology and gynaecology; indicated in the EU for several dermatophytoses, pityriasis versicolor and others, and in the US for tinea pedis only |
-| [15954850](https://pubmed.ncbi.nlm.nih.gov/15954850/) | 2005 | Review | Expert Rev Anti Infect Ther | Updated review of topical sertaconazole; in vitro activity and clinical experience in dermatophytosis and tinea versicolor |
-| [25968082](https://pubmed.ncbi.nlm.nih.gov/25968082/) | 2015 | Review | Der Hautarzt | Update on cutaneous *Malassezia* infections, including pityriasis versicolor (general background) |
-| [23546772](https://pubmed.ncbi.nlm.nih.gov/23546772/) | 2013 | Clinical study | Mycopathologia | Sertaconazole 2% cream in diaper dermatitis candidiasis (indirect evidence, different condition) |
-| [26135513](https://pubmed.ncbi.nlm.nih.gov/26135513/) | 2015 | Formulation/preclinical study | Nanomedicine (London) | Nanovesicle antifungal formulation with penetration enhancer in skin fungal disease (indirect evidence) |
-
----
+Currently no related literature available.
 
 ## India Market Information
 
-At least 20 licences are on record, all valid single-ingredient products (the list may be partial). No approved indication text is recorded in these licence entries. The five main entries are shown below.
+At least 20 licences are recorded, all currently valid, and the list may be partial. Up to five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -103,28 +82,19 @@ At least 20 licences are on record, all valid single-ingredient products (the li
 | 74534 | Episert Cream | Tube of 20 gm Cream | Not recorded |
 | 136020 | Mycoclin Lotion | Bottle of 20 ml Lotion | Not recorded |
 
-Most products are topical creams or lotions, which matters for hair-shaft infections that usually need systemic treatment.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information. No drug interactions were found in the data compiled for this report, and no knowledge-graph contraindications are recorded.
-
----
-
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The ectothrix prediction has no supporting trials or publications, so its evidence level is L5. Topical sertaconazole is also unlikely to reach infected hair shafts adequately.
+The prediction rests only on the model score and a plausible antifungal mechanism. No trials or publications address this disease, and topical delivery to the hair follicle is a major concern.
 
 **To proceed, the following is needed:**
-- Direct clinical or in vitro data of sertaconazole against ectothrix and endothrix dermatophytes (e.g. *Microsporum*, *Trichophyton*)
-- Evidence that a topical or other formulation can adequately penetrate the hair follicle and shaft
-- Mechanism of action data and package insert warnings and contraindications for the Indian products
-- Confirmation of the design and results of the 1992 pityriasis versicolor study, if that indication is pursued separately
+- Clinical or in vitro data on sertaconazole against ectothrix dermatophytes
+- Evidence on whether a topical formulation can reach the hair shaft and follicle, or whether an oral route is required
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications for a safety review
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

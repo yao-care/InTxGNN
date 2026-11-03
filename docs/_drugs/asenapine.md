@@ -38,8 +38,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Asenapine is a sublingual atypical antipsychotic, originally used to treat manic bipolar affective disorder, bipolar disorder and schizophrenia.
-The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies** (score 0.9977), but it has **no clinical trials and no publications** behind it.
+Asenapine is an antipsychotic that acts as a serotonin, dopamine and alpha-adrenergic receptor antagonist.
+The TxGNN model predicts it may be relevant for **retinal dystrophy with or without extraocular anomalies**, but this is a computational prediction only: **no clinical trials and no publications** were found to support it.
 
 ## Quick Overview
 
@@ -48,43 +48,24 @@ The TxGNN model's top-ranked prediction is **retinal dystrophy with or without e
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 0.9977 |
-| Evidence Level | L5 (model prediction only) |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
-This is an on-label use and is discussed below.
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on literature, asenapine is a serotonin/dopamine/alpha-adrenergic antagonist with higher affinity for 5-HT2A than D2 receptors, plus effects on histamine, muscarinic and monoamine receptors.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Asenapine is generally described as an antagonist at serotonin, dopamine and alpha-adrenergic receptors.
 
-**Retinal dystrophy (rank 1):** No mechanistic rationale is identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in the data links asenapine's receptor pharmacology to the genetic drivers of inherited retinal dystrophy.
-
-**Other top-ranked predictions (ranks 2-9):** Congenital disorder of glycosylation, hydranencephaly, syndromic myopia, X-linked myopia, Charcot-Marie-Tooth type 1G, a polymicrogyria syndrome, X-linked female-limited myopia and atypical glycine encephalopathy. All are rare congenital or genetic conditions. None has a plausible pharmacological link to a receptor antagonist, and none has trials or literature. Dopaminergic signalling plays a general role in myopia biology, but asenapine is an antagonist and no evidence supports use in these forms.
-
-Its combined 5-HT2A/D2 antagonism with broad receptor activity is consistent with antimanic efficacy. This is better viewed as a validation of the model than as a new repurposing opportunity.
+No mechanistic rationale linking this receptor pharmacology to the genetic drivers of inherited retinal dystrophy is supported by the data compiled for this report. The high TxGNN score (0.9977) reflects a model-based prediction and should not be read as evidence of benefit. Further work would have to start from basic biological questions, such as whether any of asenapine's target receptors play a role in the affected retinal pathways.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for any of the predicted indications.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No literature is available for the top-ranked prediction (retinal dystrophy).
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [23719049](https://pubmed.ncbi.nlm.nih.gov/23719049/) | 2013 | Meta-analysis of RCTs | Int Clin Psychopharmacol | Meta-analysis of four randomized trials of asenapine for acute mania in bipolar I disorder, assessing efficacy and tolerability |
-| [20420486](https://pubmed.ncbi.nlm.nih.gov/20420486/) | 2010 | Review | Expert Rev Neurother | Pharmacology and efficacy of sublingual asenapine, approved in 2009 for schizophrenia and for manic or mixed episodes of bipolar I disorder |
-| [20135021](https://pubmed.ncbi.nlm.nih.gov/20135021/) | 2009 | Review | Drugs Today (Barc) | Asenapine maleate as a new drug for schizophrenia and bipolar mania |
-| [29170943](https://pubmed.ncbi.nlm.nih.gov/29170943/) | 2018 | Review | Paediatr Drugs | Pediatric use: approved in the US for manic or mixed episodes of bipolar I in ages 10-17, based on one 3-week placebo-controlled study |
-| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Review | JAMA | Diagnosis and treatment of bipolar disorder |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Review | Acta Psychiatr Scand | Evidence-based treatment options for bipolar mania |
-| [28741044](https://pubmed.ncbi.nlm.nih.gov/28741044/) | 2017 | Open-label RCT | CNS Drugs | Asenapine compared with olanzapine in borderline personality disorder |
-| [27372312](https://pubmed.ncbi.nlm.nih.gov/27372312/) | 2016 | Review (safety) | CNS Drugs | Incidence, mechanisms and management of antipsychotic-induced somnolence |
-| [24494611](https://pubmed.ncbi.nlm.nih.gov/24494611/) | 2014 | Review | Expert Opin Drug Metab Toxicol | Interactions between newer antidepressants and second-generation antipsychotics |
-| [31065941](https://pubmed.ncbi.nlm.nih.gov/31065941/) | 2019 | Systematic review / meta-analysis | CNS Drugs | Akathisia with newly approved antipsychotics in severe mental illness |
+Currently no related literature available.
 
 ## India Market Information
 
@@ -96,35 +77,28 @@ No literature is available for the top-ranked prediction (retinal dystrophy).
 | 8880 | Azin 10mg Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record |
 | 12104 | Azin 5mg Tablet (Intas Pharmaceuticals) | Strip of 10 tablets | Not stated in the licence record |
 
-Seven valid single-ingredient registrations exist in total; none are cancelled.
+All 7 registrations are single-ingredient products and currently valid; the table lists the first 5.
 
 ## Safety Considerations
 
-**Contraindications (from the knowledge graph, not label text):** The drug-disease contraindication links in the TxGNN knowledge graph include:
-- Cardiovascular: long QT syndrome (including familial), torsades de pointes, orthostatic hypotension, postural orthostatic tachycardia syndrome, myocardial infarction, myocardial ischaemia, coronary artery disease, coronary thrombosis
-- Cerebrovascular: stroke, cerebrovascular disorder, cerebral infarction
-- Haematological: neutropenia, agranulocytosis, leukopenia, severe congenital neutropenia, cyclic hematopoiesis, haemoglobinopathy
-- Metabolic: diabetes mellitus, hyperglycaemia, diabetic ketoacidosis, obesity disorders, potassium deficiency
-- Neurological and other: epilepsy, neuroleptic malignant syndrome, multiple system atrophy, liver failure
+- **Conditions flagged as contraindication-related in the reference data** (not taken from label text): long QT syndrome, torsades de pointes, orthostatic hypotension, neutropenia, agranulocytosis, leukopenia, liver failure, epilepsy, diabetes mellitus, diabetic ketoacidosis, hyperglycemia, stroke and other cerebrovascular disorders, myocardial infarction, coronary artery disease, myocardial ischemia, and neuroleptic malignant syndrome.
+- **Drug Interactions**: 238 interactions were recorded. Major-level examples include bupropion, morphine and cisapride. Moderate-level examples include metformin, pioglitazone, famotidine, epinephrine, atropine and clarithromycin.
 
-**Drug Interactions:** 238 interactions are recorded. Examples of **Major** interactions are bupropion, morphine and cisapride. Examples of **Moderate** interactions include antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, albiglutide, chlorpropamide, acetohexamide), anticholinergics (atropine, hyoscyamine), famotidine, cimetidine, clarithromycin, epinephrine, loperamide, bisacodyl and castor oil.
-
-**Literature-flagged concerns:** Somnolence/sedation, akathisia, weight gain and metabolic effects, and pediatric use limited to ages 10-17 for bipolar I.
-
-Package insert warnings were not available in the data compiled for this report; please refer to the package insert for authoritative safety information.
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for the top-ranked prediction, retinal dystrophy, and for ranks 2-9)
+**Decision: Hold**
 
 **Rationale:**
-The top predictions rest only on scores from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence, with no trials, no literature and no plausible mechanism. Its L1 level is inferred from a meta-analysis and reviews rather than direct trial records and should be verified.
+The prediction rests only on a model score. There are no clinical trials, no literature and no plausible mechanistic link, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for asenapine
-- Package insert warnings and contraindications from the India regulator, as well as approved-indication text for the licences (currently blank); this is a blocking gap for safety screening
-- For major affective disorder: verification against the primary Phase 3 RCTs and a monitoring plan for sedation, QT/cardiovascular risk, metabolic effects and drug interactions
-- For retinal dystrophy and other rare-disease predictions: a credible mechanistic hypothesis and preclinical evidence before further investment
+- A mechanistic hypothesis connecting asenapine's receptor pharmacology to the retinal dystrophy pathways
+- Preclinical data in relevant retinal disease models
+- Mechanism of action data and package insert warnings and contraindications
+- A route and dosage-form assessment, since the available oral and sublingual forms may not suit an ocular indication
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

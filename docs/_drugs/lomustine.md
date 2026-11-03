@@ -38,10 +38,8 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Lomustine is an oral nitrosourea alkylating agent, originally used to treat Hodgkin lymphoma and brain tumours.
-The TxGNN model predicts it may be effective for **lymphosarcoma** (non-Hodgkin lymphoma), with **10 clinical trials** and **20 publications** currently supporting this direction. Most of these are small studies, and a large share of the literature is veterinary.
-
----
+Lomustine is an oral nitrosourea alkylating agent that crosses the blood-brain barrier.
+The TxGNN model predicts it may be useful for **lymphosarcoma**, and the data compiled for this report include **10 clinical trials** and **20 publications** on this prediction, mostly small, older or veterinary studies.
 
 ## Quick Overview
 
@@ -55,49 +53,42 @@ The TxGNN model predicts it may be effective for **lymphosarcoma** (non-Hodgkin 
 | Number of Listed Products | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, lomustine is a lipophilic nitrosourea alkylating agent that crosses the blood-brain barrier. This supports activity in central nervous system (CNS) lymphoma and other lymphoid malignancies.
+Detailed mechanism of action data are not available in the compiled data. Lomustine is a lipophilic nitrosourea that alkylates DNA, and it crosses the blood-brain barrier. That property is why it has been tested in lymphomas that involve the central nervous system.
 
-Lomustine is already used for Hodgkin lymphoma, so the sensitivity of lymphoid cancers to alkylating agents is established. Lymphosarcoma is an older term for non-Hodgkin lymphoma. Oral regimens containing lomustine have been tested in AIDS-related lymphoma and primary CNS lymphoma. These include the combination of lomustine, etoposide, cyclophosphamide and procarbazine, and the methotrexate, procarbazine and lomustine combination. Veterinary data (canine T-cell lymphoma treated with the LOPP protocol) are supportive but are not human evidence.
+Lymphoid cancers are generally sensitive to alkylating agents. Oral lomustine-containing combinations (with procarbazine, etoposide, cyclophosphamide or methotrexate) have been studied in AIDS-related lymphoma and in primary CNS lymphoma. Veterinary data (canine T-cell lymphoma treated with the LOPP protocol) are supportive but are not human evidence.
 
----
+The strongest human data are small phase 2 studies of combination regimens, so the contribution of lomustine itself cannot be separated from its partner drugs.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00049439](https://clinicaltrials.gov/study/NCT00049439) | Phase 2 | Completed | 54 | Dose-modified oral lomustine, etoposide, cyclophosphamide and procarbazine in AIDS-related non-Hodgkin lymphoma; largest direct trial of a lomustine regimen in this set |
-| [NCT00989352](https://clinicaltrials.gov/study/NCT00989352) | Phase 2 | Unknown | 56 | Rituximab plus high-dose methotrexate, lomustine and procarbazine, then procarbazine maintenance, in primary CNS lymphoma over age 65 |
-| [NCT01775475](https://clinicaltrials.gov/study/NCT01775475) | Phase 2 | Completed | 7 | Randomised CHOP vs oral chemotherapy (including lomustine) in HIV-associated lymphoma in sub-Saharan Africa; underpowered |
+| [NCT00049439](https://clinicaltrials.gov/study/NCT00049439) | Phase 2 | Completed | 54 | Dose-modified oral lomustine, etoposide, cyclophosphamide and procarbazine in AIDS-related non-Hodgkin lymphoma; the largest direct trial |
+| [NCT00989352](https://clinicaltrials.gov/study/NCT00989352) | Phase 2 | Unknown | 56 | Rituximab, high-dose methotrexate, lomustine and procarbazine, then procarbazine maintenance, in primary CNS lymphoma over age 65 |
+| [NCT01775475](https://clinicaltrials.gov/study/NCT01775475) | Phase 2 | Completed | 7 | CHOP vs. oral chemotherapy including lomustine in HIV-associated lymphoma in Sub-Saharan Africa; underpowered |
 | [NCT00003113](https://clinicaltrials.gov/study/NCT00003113) | Phase 2 | Terminated | 6 | Oral combination chemotherapy with G-CSF in elderly intermediate/high-grade non-Hodgkin lymphoma; limited data |
-| [NCT00074191](https://clinicaltrials.gov/study/NCT00074191) | Phase 2 | Completed | 1 | Methotrexate, procarbazine and CCNU for primary CNS lymphoma; only 1 patient enrolled |
-| [NCT00003114](https://clinicaltrials.gov/study/NCT00003114) | Phase 2 | Completed | 5 | Oral lomustine, etoposide, cyclophosphamide and procarbazine in AIDS-associated Hodgkin's disease; only 5 patients |
-| [NCT00317408](https://clinicaltrials.gov/study/NCT00317408) | N/A | Unknown | 96 | Relapsed paediatric anaplastic large cell lymphoma protocol; lomustine's role not confirmed |
-| [NCT03678883](https://clinicaltrials.gov/study/NCT03678883) | Phase 2 | Active, not recruiting | 350 | 9-ING-41 (GSK-3β inhibitor) alone or with chemotherapy in refractory cancers; lomustine is likely a combination partner, so relevance is indirect |
-| [NCT01989052](https://clinicaltrials.gov/study/NCT01989052) | Phase 1 | Terminated | 9 | Carboxyamidotriazole orotate alone or with lomustine in recurrent malignant glioma; not a lymphoma trial |
-| [NCT00003929](https://clinicaltrials.gov/study/NCT00003929) | Phase 2 | Withdrawn | 0 | Lomustine, procarbazine, filgrastim and radiation in primary CNS lymphoma; no patients enrolled |
-
----
+| [NCT00074191](https://clinicaltrials.gov/study/NCT00074191) | Phase 2 | Completed | 1 | Methotrexate, procarbazine and CCNU in primary CNS lymphoma; one patient enrolled |
+| [NCT00003114](https://clinicaltrials.gov/study/NCT00003114) | Phase 2 | Completed | 5 | Oral lomustine-based combination in AIDS-related Hodgkin disease |
+| [NCT00003929](https://clinicaltrials.gov/study/NCT00003929) | Phase 2 | Withdrawn | 0 | Lomustine, procarbazine, filgrastim and radiation in primary CNS lymphoma; no data generated |
+| [NCT00317408](https://clinicaltrials.gov/study/NCT00317408) | Not applicable | Unknown | 96 | Relapsed paediatric anaplastic large cell lymphoma protocol; lomustine's role not confirmed |
+| [NCT03678883](https://clinicaltrials.gov/study/NCT03678883) | Phase 2 | Active, not recruiting | 350 | 9-ING-41 alone or with chemotherapy in refractory cancers; lomustine is likely a combination partner, so relevance is indirect |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10711848](https://pubmed.ncbi.nlm.nih.gov/10711848/) | 1999 | Clinical study | Drugs | Oral lomustine, etoposide, cyclophosphamide and procarbazine in 38 patients with AIDS-related non-Hodgkin lymphoma; the regimen exploits oral dosing and blood-brain barrier penetration |
-| [17134114](https://pubmed.ncbi.nlm.nih.gov/17134114/) | 2006 | Review | Neurosurgical Focus | High-dose methotrexate is the mainstay of primary CNS lymphoma treatment; lomustine is among the combination partners |
-| [21303800](https://pubmed.ncbi.nlm.nih.gov/21303800/) | 2011 | Pilot trial | Annals of Oncology | Adding rituximab to methotrexate, procarbazine and lomustine in elderly primary CNS lymphoma |
-| [8436213](https://pubmed.ncbi.nlm.nih.gov/8436213/) | 1993 | Clinical study | European Journal of Haematology | LEMP (lomustine, etoposide, methotrexate, prednisone) in 22 patients with relapsed or refractory non-Hodgkin lymphoma |
-| [2222244](https://pubmed.ncbi.nlm.nih.gov/2222244/) | 1990 | Cohort | Archives of Neurology | Adjuvant procarbazine, lomustine and vincristine after irradiation in 10 patients with primary CNS lymphoma |
-| [35999255](https://pubmed.ncbi.nlm.nih.gov/35999255/) | 2022 | Retrospective | Scientific Reports | CEAC (lomustine-containing) vs BEAM and IEAC conditioning before autologous transplant in 52 peripheral T-cell lymphoma patients |
-| [7882286](https://pubmed.ncbi.nlm.nih.gov/7882286/) | 1995 | Clinical study | Cancer | New preparatory regimen for autologous bone marrow transplantation in advanced lymphoid malignancies |
-| [28508557](https://pubmed.ncbi.nlm.nih.gov/28508557/) | 2018 | Cohort (veterinary) | Veterinary and Comparative Oncology | LOPP chemotherapy as first-line treatment for canine T-cell lymphoma |
-| [30117253](https://pubmed.ncbi.nlm.nih.gov/30117253/) | 2018 | Cohort (veterinary) | Veterinary and Comparative Oncology | Modified LOPP protocol in 35 dogs with T-cell lymphoma |
-| [22888657](https://pubmed.ncbi.nlm.nih.gov/22888657/) | 2012 | Preclinical | Voprosy Onkologii | Gemcitabine plus lomustine extended survival 3.3-fold in mice with intracranial lymphosarcoma |
-
----
+| [10711848](https://pubmed.ncbi.nlm.nih.gov/10711848/) | 1999 | Clinical study | Drugs | Oral lomustine, etoposide, cyclophosphamide and procarbazine in 38 patients with AIDS-related non-Hodgkin lymphoma |
+| [21303800](https://pubmed.ncbi.nlm.nih.gov/21303800/) | 2011 | Pilot trial | Ann Oncol | Rituximab added to methotrexate, procarbazine and lomustine for elderly primary CNS lymphoma |
+| [17134114](https://pubmed.ncbi.nlm.nih.gov/17134114/) | 2006 | Review | Neurosurg Focus | Chemotherapy for primary CNS lymphoma; lomustine is one of several companion drugs to high-dose methotrexate |
+| [8436213](https://pubmed.ncbi.nlm.nih.gov/8436213/) | 1993 | Clinical study | Eur J Haematol | LEMP regimen (lomustine, etoposide, methotrexate, prednisone) in 22 patients with relapsed or refractory non-Hodgkin lymphoma |
+| [35999255](https://pubmed.ncbi.nlm.nih.gov/35999255/) | 2022 | Retrospective | Sci Rep | CEAC (lomustine-containing) vs. BEAM and IEAC conditioning before autologous transplant in 52 peripheral T-cell lymphoma patients |
+| [2222244](https://pubmed.ncbi.nlm.nih.gov/2222244/) | 1990 | Clinical study | Arch Neurol | Procarbazine, lomustine and vincristine after radiation in primary CNS lymphoma |
+| [28508557](https://pubmed.ncbi.nlm.nih.gov/28508557/) | 2018 | Veterinary cohort | Vet Comp Oncol | LOPP protocol as first-line treatment of canine T-cell lymphoma |
+| [30117253](https://pubmed.ncbi.nlm.nih.gov/30117253/) | 2018 | Veterinary cohort | Vet Comp Oncol | Modified LOPP in 35 dogs with T-cell lymphoma |
+| [22888657](https://pubmed.ncbi.nlm.nih.gov/22888657/) | 2012 | Preclinical | Vopr Onkol | Gemcitabine plus lomustine extended survival in mice with intracranial lymphosarcoma |
+| [28222789](https://pubmed.ncbi.nlm.nih.gov/28222789/) | 2017 | Review | BMC Vet Res | No clear consensus on lomustine's benefit in canine cutaneous T-cell lymphoma |
 
 ## India Market Information
 
@@ -108,46 +99,37 @@ Lomustine is already used for Hodgkin lymphoma, so the sensitivity of lymphoid c
 | Registration No. 125974 | Lomat 40mg Capsule (Neon Laboratories) | Strip of 4 capsules | Not specified |
 | Registration No. 125072 | Lustine 40mg Capsule (Samarth Life Sciences) | Strip of 4 capsules | Not specified |
 
----
+All four licences are valid single-ingredient oral capsule products.
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (nitrosourea alkylating agent) |
+| Myelosuppression Risk | High; delayed leukopenia and thrombocytopenia are expected, and the compiled safety data list both as concerns |
 | Emetogenicity Classification | Moderate to high |
-| Monitoring Items | CBC with differential and platelets, liver function, renal function; pulmonary function if prolonged use |
-| Handling Protection | Must follow cytotoxic drug handling regulations |
-
----
+| Monitoring Items | CBC with differential and platelets, liver and renal function, pulmonary status |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-- **Contraindication signals (knowledge graph, not label text)**: kidney disease, thrombocytopenia, leukopenia, hyperbilirubinemia (including Gilbert syndrome), drug-induced liver injury, pulmonary fibrosis, and active infectious disease (including fungal infection).
-- **Drug Interactions**: 172 interactions were recorded. Major ones include cimetidine, deferiprone, samarium (153Sm) lexidronam and adalimumab. Moderate ones include mercaptopurine, zidovudine, chloramphenicol, aldesleukin, alemtuzumab and strontium chloride Sr-89, plus several vaccines.
+- **Conditions of concern** (from drug-disease relations in the compiled data, not from label text): kidney disease, thrombocytopenia, leukopenia, drug-induced liver injury, hyperbilirubinemia (including Gilbert syndrome), pulmonary fibrosis, and fungal or other infectious disease.
+- **Drug Interactions**: 172 interactions were recorded. Major ones in the list reviewed include cimetidine, deferiprone, samarium (153Sm) lexidronam and adalimumab. Moderate ones include mercaptopurine, zidovudine, alemtuzumab, aldesleukin and several vaccines or immunosuppressive biologics.
 
-Package insert warnings and contraindications for the Indian products were not available. Please refer to the package insert for full safety information.
-
----
+Please refer to the package insert for label warnings and contraindications, which are not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Lymphosarcoma has the strongest human evidence of the ten predicted indications, including a completed Phase 2 trial of 54 patients and several clinical series with lomustine-containing regimens. However, the trials are small, many were terminated or withdrawn, and much of the literature is veterinary. The drug's marked myelosuppression also calls for tight monitoring. Lomustine is already marketed in India, but Indian licence entries carry no indication text.
+Several completed phase 2 studies tested lomustine-containing regimens in lymphoma, including a 54-patient trial in AIDS-related non-Hodgkin lymphoma. The trials are small, are all combination regimens, and are old or of uncertain status, and part of the supporting literature is veterinary. This supports further research rather than a clinical-use decision.
 
 **To proceed, the following is needed:**
-- Indian package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Confirmation of the approved indication wording on the four Indian licences
-- Comparison with current standard regimens for non-Hodgkin lymphoma, since the lomustine evidence is largely historical or in niche populations (AIDS-related and CNS lymphoma)
-- A haematological monitoring and dose-adjustment plan
+- Larger, controlled human studies that isolate lomustine's contribution within combination regimens
+- Mechanism of action data and label warnings and contraindications
+- A haematological and pulmonary safety monitoring plan, with a review of the major drug interactions
 
-**Other predicted indications (for reference):**
-- **Pediatric cerebral ependymoblastoma** and **spinal cord cancer** have some trial and literature support (L2 and L1 respectively). The spinal cord L1 grade rests on brain glioma trials and is an extrapolation.
-- **Malignant tumor of meninges, cerebral neuroblastoma and lymph node cancer** have only veterinary studies or case reports (L4), so a Hold is advised.
-- **Childhood brain germinoma, cerebellopontine angle embryonal tumor and cerebral sarcoma** have no trials or literature (L5), so a Hold is advised.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

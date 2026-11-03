@@ -38,7 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Chloramphenicol is a broad-spectrum bacteriostatic antibiotic that blocks protein synthesis in bacteria.
+Chloramphenicol is a broad-spectrum antibacterial that is marketed in India in oral, ophthalmic and other forms.
+The TxGNN model predicts it may be relevant to **diffuse scleroderma**, with a score of 0.9965.
+There are **no clinical trials** and only **4 basic-research publications** on this disease, none of which tests chloramphenicol, so this is a model prediction without supporting clinical evidence.
 
 ## Quick Overview
 
@@ -50,15 +52,15 @@ Chloramphenicol is a broad-spectrum bacteriostatic antibiotic that blocks protei
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Proceed with Guardrails |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Chloramphenicol binds the 50S subunit of the bacterial ribosome and stops bacterial protein synthesis. Because many cases of conjunctivitis are caused by bacteria, this mechanism is directly relevant to the eye surface infections the drug would be used for.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Chloramphenicol is generally known as an antibacterial that acts on the prokaryotic 50S ribosomal subunit.
 
-Several marketed Indian products are already eye ointments and eye drops containing chloramphenicol, so the predicted use fits formulations that exist on the market. The literature describes topical chloramphenicol as widely used for conjunctivitis in some countries, such as the UK, and rarely used for it in others, such as the US.
+The retrieved papers for diffuse scleroderma concern transcriptional regulation of the alpha1(I) procollagen gene, Smad3/Sp1/p300 signalling and TGF-beta in scleroderma fibroblasts. They are preclinical studies of disease mechanisms and do not test chloramphenicol. No established mechanistic connection links a bacterial ribosome inhibitor to fibrotic signalling.
 
-Note that the original mechanism-of-action field was not available in the compiled data; the description above reflects the drug's well-known pharmacology. Several of the retrieved papers are comparative studies of eye infections (for example fusidic acid vs chloramphenicol, and moxifloxacin vs chloramphenicol), but none of them is a registered trial and the evidence is mainly comparative, observational or review-level. Because the data compiled for this report contain no clinical trials, the evidence level is held at L5 under the reporting rules, even though the literature discusses the use itself.
+The high score is therefore a computational prediction only. Chloramphenicol's haematological toxicity is also a concern in a chronic autoimmune and fibrotic condition.
 
 ## Clinical Trial Evidence
 
@@ -68,16 +70,16 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Interventions to prevent ophthalmia neonatorum (neonatal conjunctivitis) |
-| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Comparative clinical study | Curr Ther Res | Moxifloxacin compared with chloramphenicol for bacterial eye infections |
-| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Open randomized comparison | Acta Ophthalmol | Fusidic acid, chloramphenicol and framycetin drops in Tanzania; success 93%, 48% and 74% respectively |
-| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Review | Drugs | Comparative review of topical ophthalmic antibacterials |
-| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Safety review | Drug Saf | Debated link between ocular chloramphenicol and aplastic anaemia |
-| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review/commentary | Eye (Lond) | Appropriate use of topical chloramphenicol |
-| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clin Pharmacokinet | Treatment of ocular infections with topical antibacterials |
-| [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Commentary | Clin Exp Ophthalmol | Over-the-counter chloramphenicol use |
+| [8702443](https://pubmed.ncbi.nlm.nih.gov/8702443/) | 1996 | Basic research | Arthritis and Rheumatism | Transcriptional regulation of the alpha1(I) procollagen gene in dermal fibroblasts from patients with recent-onset diffuse systemic sclerosis; role of intronic sequences |
+| [9811061](https://pubmed.ncbi.nlm.nih.gov/9811061/) | 1998 | Basic research | Arthritis and Rheumatism | Promoter elements and transcription factors behind up-regulated alpha1(I) procollagen expression in systemic sclerosis |
+| [11229480](https://pubmed.ncbi.nlm.nih.gov/11229480/) | 2001 | Basic research | Arthritis and Rheumatism | Blocking endogenous TGF-beta signalling prevents up-regulated collagen synthesis in scleroderma fibroblasts |
+| [16319104](https://pubmed.ncbi.nlm.nih.gov/16319104/) | 2006 | Basic research | Rheumatology (Oxford) | Constitutively phosphorylated Smad3 interacts with Sp1 and p300 in scleroderma fibroblasts |
+
+None of these studies evaluates chloramphenicol.
 
 ## India Market Information
+
+At least 20 valid single-ingredient licences are recorded and the list may be partial. Main examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -87,27 +89,24 @@ Currently no related clinical trials registered.
 | 13543 | Armycetin Capsule | Capsule, packet of 100 | Not recorded |
 | 120346 | Kidopalm 125mg Syrup | Syrup, bottle of 50 ml | Not recorded |
 
-The list shows five of 20 valid single-ingredient licences. The records may be partial.
-
 ## Safety Considerations
 
-- **Blood and organ-related cautions**: Safety records for this drug flag cautions in people with kidney disease, liver disease, gallbladder disease, thrombocytopenia, anaemia, aplastic anaemia, neutropenia and other blood-cell disorders, agranulocytosis, peripheral neuropathy, optic neuritis, acute intermittent porphyria and paroxysmal nocturnal hemoglobinuria. These come from drug-disease contraindication records, not from label text.
-- **Aplastic anaemia**: The literature discusses a controversial link between topical ocular chloramphenicol and aplastic anaemia.
-- **Stewardship**: Commentaries raise concerns about over-the-counter use and antimicrobial stewardship.
-- **Drug Interactions**: 478 interactions are recorded. Major-level ones include cisapride and naloxegol. Moderate-level ones include metronidazole, aprepitant, budesonide, sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), repaglinide, simvastatin, rosuvastatin and iron.
+- **Disease-level cautions:** Chloramphenicol is recorded as contraindicated or to be used with caution in patients with several conditions, including kidney disease, liver disease, thrombocytopenia, anaemia, aplastic anaemia, agranulocytosis, neutropenia, peripheral neuropathy, optic neuritis, acute intermittent porphyria and paroxysmal nocturnal haemoglobinuria. These are not taken from label text, so please confirm against the package insert.
+- **Drug Interactions:** 478 interactions are recorded. Major-level interactions include **cisapride** and **naloxegol**. Moderate-level examples include sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), repaglinide, saxagliptin, rosuvastatin, simvastatin, metronidazole, budesonide, aprepitant, eliglustat, iron, balsalazide, naldemedine and nitisinone.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanism is a good fit for bacterial conjunctivitis and eye formulations are already marketed in India, but the compiled data contain no registered trials, and the literature is mostly comparative, review-level or commentary. The blood toxicity concern, particularly aplastic anaemia, requires safeguards.
+The prediction rests on a model score alone. There are no clinical trials, the only publications are basic research that does not involve chloramphenicol, and there is no plausible mechanism linking a bacterial ribosome inhibitor to scleroderma fibrosis. The known bone-marrow toxicity adds a safety concern for a chronic condition.
 
 **To proceed, the following is needed:**
-- Controlled trials, or a systematic review, that directly evaluate chloramphenicol for conjunctivitis
-- Package insert warnings and contraindications for the Indian products
-- Confirmed mechanism-of-action data from a reference source
-- A plan to limit use to the topical route, with stewardship and haematological safety guidance
+- Mechanism-of-action data and a plausible biological rationale for fibrotic disease
+- Preclinical studies testing chloramphenicol directly in scleroderma models
+- Package insert warnings and contraindications from the local licence holders
+- A benefit-risk assessment addressing haematological toxicity in a chronic autoimmune condition
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

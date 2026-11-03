@@ -38,11 +38,9 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Alprostadil (prostaglandin E1) was originally used for erectile dysfunction and to keep the ductus arteriosus open in newborns with certain congenital heart defects.
-The TxGNN model predicts it may be effective for **aortic malformation**, but this overlaps heavily with existing uses (aortic coarctation is already among its original indications).
-Support comes from **8 publications** (mostly case reports and small clinical studies) and **no registered clinical trials**.
-
----
+Alprostadil is a prostaglandin E1 analogue given by injection that relaxes smooth muscle and keeps the ductus arteriosus open in newborns.
+The TxGNN model predicts it may be useful for **aortic malformation**.
+Support is limited to **8 publications** (case reports, reviews and small clinical studies) and **no registered clinical trials**.
 
 ## Quick Overview
 
@@ -54,40 +52,32 @@ Support comes from **8 publications** (mostly case reports and small clinical st
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 5 (valid: 5) |
-| Recommended Decision | Hold |
-
----
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, alprostadil is a synthetic prostaglandin E1 that relaxes the smooth muscle of the ductus arteriosus and of blood vessels in general. In newborns with ductal-dependent heart lesions, this keeps the duct open so that blood can reach the lungs or the body.
+Detailed mechanism of action data is not available in the data compiled for this report. Alprostadil is prostaglandin E1 (PGE1). Published clinical literature describes it relaxing the smooth muscle of the ductus arteriosus, which dilates the duct and keeps it open.
 
-The relationship between the original and predicted indications is close. Aortic coarctation and interrupted aortic arch rely on the ductus to supply blood to the lower body. The predicted "aortic malformation" therefore largely overlaps with a use that is already established, rather than representing a truly new therapeutic direction.
+In newborns whose circulation depends on an open duct, such as those with certain obstructive aortic arch lesions (for example interrupted aortic arch), keeping the duct patent supports blood flow until surgery. The literature includes an infant with interrupted aortic arch type B who received alprostadil to hold the duct open before single-stage repair.
 
-Secondary effects may also be relevant. Alprostadil has shown anti-inflammatory and organ-protective effects around cardiopulmonary bypass in children with congenital heart disease. It has also reduced skeletal muscle ischaemia-reperfusion injury in rats. These findings are plausible but indirect or preclinical.
-
----
+This prediction therefore reflects an established clinical practice more than a novel repurposing idea. Secondary anti-inflammatory and organ-protective effects, such as reduced lung injury after cardiopulmonary bypass in children with congenital heart disease, are plausible but come from indirect or preclinical work.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6763200](https://pubmed.ncbi.nlm.nih.gov/6763200/) | 1982 | Review / clinical evaluation | Pharmacotherapy | Alprostadil dilates the ductus, increases pulmonary blood flow, and supports newborns with congenital heart lesions that depend on the duct |
-| [19080093](https://pubmed.ncbi.nlm.nih.gov/19080093/) | 2008 | Clinical study | Zhonghua Yi Xue Za Zhi | Alprostadil and ulinastatin studied for inflammatory response and lung injury after cardiopulmonary bypass in children with congenital heart disease |
-| [19068708](https://pubmed.ncbi.nlm.nih.gov/19068708/) | 2008 | Case report | Kyobu Geka | Neonate with interrupted aortic arch type B; alprostadil used to keep the duct open before single-stage repair |
-| [15362549](https://pubmed.ncbi.nlm.nih.gov/15362549/) | 2004 | Review | Kyobu Geka | Alprostadil keeps the duct open to preserve left ventricular function in transposition of the great arteries before arterial switch surgery |
-| [30184041](https://pubmed.ncbi.nlm.nih.gov/30184041/) | 2018 | Case report | Braz J Cardiovasc Surg | Aortopulmonary window; milrinone and alprostadil used before surgery to counter high lung pressure |
+| [6763200](https://pubmed.ncbi.nlm.nih.gov/6763200/) | 1982 | Review / clinical evaluation | Pharmacotherapy | Alprostadil infusion dilates the ductus arteriosus and increases pulmonary blood flow in infants with congenital heart malformations |
+| [19068708](https://pubmed.ncbi.nlm.nih.gov/19068708/) | 2008 | Case report | Kyobu Geka | Neonate with interrupted aortic arch type B; alprostadil kept the duct open before single-stage repair |
+| [19080093](https://pubmed.ncbi.nlm.nih.gov/19080093/) | 2008 | Clinical study | Zhonghua Yi Xue Za Zhi | Alprostadil with ulinastatin studied for inflammatory response and lung injury after cardiopulmonary bypass in children with congenital heart disease |
+| [30184041](https://pubmed.ncbi.nlm.nih.gov/30184041/) | 2018 | Case report | Braz J Cardiovasc Surg | Aortopulmonary window repair; alprostadil and milrinone used before surgery to counter high lung pressure |
+| [15362549](https://pubmed.ncbi.nlm.nih.gov/15362549/) | 2004 | Review | Kyobu Geka | Alprostadil keeps the duct open in transposition of the great arteries before the arterial switch operation |
 | [41167776](https://pubmed.ncbi.nlm.nih.gov/41167776/) | 2025 | Retrospective cohort | Zhonghua Fu Chan Ke Za Zhi | Delivery mode and timing in 123 fetuses with complex congenital heart disease |
-| [42469655](https://pubmed.ncbi.nlm.nih.gov/42469655/) | 2026 | Retrospective cohort | BMC Pregnancy Childbirth | Perinatal management and postnatal outcomes of complex fetal congenital heart disease |
-| [20029353](https://pubmed.ncbi.nlm.nih.gov/20029353/) | 2009 | Preclinical (rat) | Minerva Chir | Alprostadil attenuated skeletal muscle ischaemia-reperfusion injury in rats |
-
----
+| [42469655](https://pubmed.ncbi.nlm.nih.gov/42469655/) | 2026 | Retrospective cohort | BMC Pregnancy Childbirth | Pregnancy and perinatal management of complex fetal congenital heart disease |
+| [20029353](https://pubmed.ncbi.nlm.nih.gov/20029353/) | 2009 | Preclinical (rat) | Minerva Chir | Alprostadil reduced skeletal muscle ischaemia-reperfusion injury markers in rats |
 
 ## India Market Information
 
@@ -99,33 +89,26 @@ Currently no related clinical trials registered.
 | 175756 | Prostin VR 500mcg Injection | Vial of 1 ml injection | Not stated in the licence record |
 | 175429 | Prostal Injection | Vial of 1 ml injection | Not stated in the licence record |
 
----
-
 ## Safety Considerations
 
-- **Contraindications (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence):** newborn and acute respiratory distress syndrome, hypotensive disorder, blood coagulation disease, sickle cell disease and other haemoglobinopathies, lung disease, plasma cell myeloma, leukaemia, polycythaemia, thrombocytosis, pyloric stenosis, priapism, Peyronie disease, urethral stricture, urethritis, balanitis and balanoposthitis.
-- **Safety signals from the literature:** prolonged infusion in neonates has been linked to gastric outlet obstruction (antral foveolar hyperplasia and hypertrophic pyloric stenosis) and to pseudo-Bartter syndrome. Other recognised infusion effects in newborns include apnoea, fever and flushing.
-- **Drug interactions:** 59 interactions were identified. Moderate-level interactions were found with SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), lorcaserin and sapropterin. Others, such as morphine, metformin, prednisone, simvastatin and vancomycin, have an unclassified severity level.
+- **Drug Interactions**: 59 interactions are recorded. Those rated Moderate include canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, lorcaserin and sapropterin. Others, such as morphine, metformin, omeprazole, prednisone and vancomycin, have no rated severity.
+- **Neonatal safety signals in the literature**: Prolonged infusion has been linked to gastric outlet obstruction (antral foveolar hyperplasia and hypertrophic pyloric stenosis) and to iatrogenic pseudo-Bartter syndrome in neonates, so close monitoring is needed.
 
-Please refer to the package insert for the official warnings and contraindications.
-
----
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication largely duplicates an existing use of alprostadil in ductal-dependent aortic lesions. The supporting evidence is limited to case reports, small clinical studies and preclinical work, with no registered trials. Little genuine repurposing value has been shown.
-
-Several other predictions (congenital tricuspid stenosis, congenital valvular dysplasia, tricuspid valve agenesis and others) are model predictions only. Endemic goiter has no plausible mechanistic link and is likely a TxGNN model (deep learning) artefact. Heart septal defect has some case-report support but remains at the research-question stage.
+Published reports support alprostadil for keeping the duct open in infants with aortic arch lesions, but the evidence is mostly case reports and reviews with no registered trials. Safety signals with prolonged neonatal infusion call for monitoring.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication text for the Indian products
-- Detailed mechanism of action data
-- Clarification of whether "aortic malformation" adds anything beyond the already established coarctation and interrupted aortic arch uses
-- Controlled clinical data in specific lesion subtypes, if a distinct new use is pursued
-- A neonatal safety monitoring plan for prolonged infusion (gastric outlet obstruction, apnoea, electrolyte disturbances)
+- Package insert warnings and contraindications for the marketed Indian products
+- Mechanism of action data
+- Controlled clinical data on aortic malformation specifically
+- A neonatal infusion monitoring plan covering duration, gastric outlet and electrolyte effects
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
