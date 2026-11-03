@@ -3,7 +3,7 @@ layout: default
 title: Data Sources
 nav_order: 93
 permalink: /sources/
-description: "Data sources behind InTxGNN: CDSCO registration data, TxGNN, ClinicalTrials.gov, PubMed and DrugBank."
+description: "Data sources behind InTxGNN: the public Indian Medicine Dataset (GitHub), TxGNN, ClinicalTrials.gov, PubMed and DrugBank."
 ---
 
 # Data Sources
@@ -21,7 +21,7 @@ Every conclusion traces back to a public data source — nothing is a black box.
 <tr><th>Type</th><th>Source</th><th>Used for</th></tr>
 </thead>
 <tbody>
-<tr><td>Registration data</td><td><a href="https://cdsco.gov.in/">CDSCO</a></td><td>Approved drug list and ingredients for India</td></tr>
+<tr><td>Drug list</td><td><a href="https://raw.githubusercontent.com/junioralive/Indian-Medicine-Dataset/main/DATA/indian_medicine_data.csv">Indian Medicine Dataset</a> (public GitHub dataset, junioralive/Indian-Medicine-Dataset)</td><td>Medicines sold in India with composition, manufacturer, price and a discontinued flag</td></tr>
 <tr><td>Prediction model</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Drug&ndash;disease association prediction</td></tr>
 <tr><td>Clinical trials</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>Evidence grading (NCT)</td></tr>
 <tr><td>Literature</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>Evidence grading (PMID)</td></tr>
@@ -29,6 +29,9 @@ Every conclusion traces back to a public data source — nothing is a black box.
 <tr><td>Interactions</td><td><a href="https://ddinter2.scbdd.com/">DDInter</a></td><td>Drug&ndash;drug interaction data</td></tr>
 </tbody>
 </table>
+
+India has no national product-licence database that this site can download, so the drug list comes from the
+compiled price dataset above. CDSCO approval status is not included in it.
 
 ---
 
@@ -39,7 +42,7 @@ Each source has its own licence — please check before citing:
 - **TxGNN**: academic use; cite Huang et al. (2024)
 - **ClinicalTrials.gov / PubMed**: US NIH public data
 - **DrugBank**: non-commercial use subject to its licence terms
-- **CDSCO**: subject to the open data terms of the India regulator
+- **Indian Medicine Dataset**: public dataset on GitHub; follow the licence stated in its repository
 
 ---
 
@@ -47,7 +50,7 @@ Each source has its own licence — please check before citing:
 
 | Data | Frequency |
 |------|-----------|
-| Registration data | As published by the regulator |
+| Discontinued status | Refreshed automatically every week (Mondays) from the dataset's CSV |
 | Trial / literature evidence | Re-collected periodically |
 | Interaction data | Reviewed quarterly |
 
@@ -62,18 +65,9 @@ Each source has its own licence — please check before citing:
 
 ## About the Developer
 
-This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration
-number 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-InTxGNN is the India site of the company's "TxGNN Drug Repurposing" product line.
-The same system is deployed across 30 countries and regions, each named `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, and so on) at `{cc}txgnn.yao.care`.
-Product overview: <https://www.yao.care/medical/txgnn/>.
-
-The TxGNN model itself was developed by the Zitnik Lab at Harvard Medical School and published
-in *Nature Medicine*. This platform is the production system 藥提醒科技有限公司 built on top of that
-model, covering national drug-registration data integration, deep-learning prediction that excludes uses already recorded in the knowledge graph, PubMed / ClinicalTrials evidence grading, and SMART on FHIR
-electronic health record integration.
+This platform is developed and operated by **藥提醒科技有限公司** (yao.care). See
+<a href="{{ '/about/' | relative_url }}">About</a> for company details, the TxGNN model
+background, and the full list of sites in this product line.
 
 ---
 
