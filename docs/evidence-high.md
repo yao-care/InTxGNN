@@ -12,6 +12,8 @@ description: "L1-L2 drug repurposing candidates in InTxGNN, supported by clinica
 Candidates that may be prioritised for clinical evaluation
 </p>
 
+Which of these drugs have trial evidence for their predicted new indication, and how many registered trials are cited? See [Medicines sold in India with clinical-trial evidence for a new indication]({{ '/clinical-trial-evidence/' | relative_url }}).
+
 ---
 
 ## Criteria

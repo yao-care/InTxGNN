@@ -36,6 +36,8 @@ This list is based on the [Indian Medicine Dataset](https://github.com/juniorali
 
 <!-- local-home:end -->
 
+Shortlist: [Medicines sold in India with clinical-trial evidence for a new indication]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, with the predicted indication and the number of registered trials cited).
+
 ## Evidence level breakdown
 
 | Evidence level | Drugs | Description |
