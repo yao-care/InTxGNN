@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 753
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Ropinirole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Restless legs syndrome, Parkinson disease"
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -129,6 +129,7 @@ The other top-ranked predictions all carry a **Hold** recommendation. None has r
 | Atypical glycine encephalopathy | 0.9989 | L5 | Model prediction only |
 | Myopia 26, X-linked, female-limited | 0.9988 | L5 | Model prediction only |
 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 0.9988 | L5 | Model prediction only |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

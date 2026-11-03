@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 705
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 description: "Progesterone: predicted new indication Amenorrhea (disease) (evidence level L2). Approved use: Not recorded in the local data"
@@ -149,6 +149,7 @@ Progesterone is an established agent for the progestin challenge and withdrawal 
 | 8 | Endometriosis of rectovaginal septum and vagina | L4 | Research Question | One immunohistochemistry study that tested no treatment. |
 | 9 | Blunt duct adenosis of breast | L5 | Hold | Model prediction only. This is a benign histological finding that does not typically need drug treatment. |
 | 10 | Apocrine adenosis of breast | L5 | Hold | The literature is pathology-focused with no therapeutic evidence. These lesions are driven mainly by androgen receptor signalling. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

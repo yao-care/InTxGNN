@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 644
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Papain: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 The TxGNN model has no candidate indication for Papain with a score of 0.99 or higher, so there is currently no new predicted indication. No recorded uses of Papain are available in the data used for this page, so the groups listed below are empty.
 
 ## Quick overview
+
 | Item | Content |
 |------|------|
 | New predicted indications | None (no model candidate scored 0.99 or higher) |
@@ -52,16 +53,19 @@ The TxGNN model has no candidate indication for Papain with a score of 0.99 or h
 ## Known uses recorded for this drug
 
 ### Approved (supported by a licence or label)
+
 | Indication | Source |
 |------|------|
 | None | None |
 
 ### Related to an approved indication (same disease category)
+
 | Indication | Approved category |
 |------|------|
 | None | None |
 
 ### Relations recorded in the knowledge graph (no approval found)
+
 | Indication |
 |------|
 | None |

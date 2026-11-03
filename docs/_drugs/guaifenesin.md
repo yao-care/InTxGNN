@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Guaifenesin"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -117,6 +117,7 @@ All have no trials or literature and are rated L5 (model prediction only):
 | Faucial diphtheria | 0.9954 | Treatment relies on antitoxin and antibiotics; guaifenesin has no such activity (Hold) |
 | Cervical disc degenerative disorder | 0.9950 | No clear mechanistic link (Hold) |
 | Papillary conjunctivitis | 0.9927 | Tenuous link through allergy only; no ocular mechanism (Hold) |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 137
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Candesartan: predicted new indication Migraine disorder (evidence level L1). Approved use: Hypertension (alone or in combination with other agents)"
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
@@ -129,6 +129,7 @@ A large, completed, triple-blind, placebo-controlled RCT (n=450, published in Th
 | Migraine with brainstem aura | L5 | Research Question | No trial enrolled this subtype specifically. The high score likely reflects ontology proximity to migraine. |
 | Pulmonary hypertension | L4 | Hold | Preclinical rationale only, and no clinical evidence. |
 | Prinzmetal angina, kyphoscoliotic heart disease, atrophoderma vermiculata, ulerythema ophryogenesis, benign prostatic hyperplasia, alopecia | L5 | Hold | Model prediction only, with no supporting trials or relevant literature. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 593
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Nicorandil: predicted new indication benign prostatic hyperplasia (disease) (evidence level L4). Approved use: Chronic stable angina pectoris"
 monitor_inn: "Nicorandil"
 predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis"]
@@ -133,6 +133,7 @@ Nine further predictions have no clinical trials or literature in the compiled d
 | Congenital hypotrichosis milia | 0.9951 | Likely a similarity the TxGNN model (deep learning) learned between related diseases; no demonstrated mechanism |
 | Diffuse alopecia areata | 0.9948 | Autoimmune condition; a vasodilator is not an established treatment route |
 | Osteoarthritis | 0.9940 | Any link would be speculative |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

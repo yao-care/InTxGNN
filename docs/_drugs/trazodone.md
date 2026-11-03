@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 858
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Trazodone"
 predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L2). Approved use: Not recorded in the local data"
@@ -145,6 +145,7 @@ Trazodone has a plausible serotonergic rationale, a very high TxGNN score, and a
 | Schizoid personality disorder | 0.9992 | L5 | Hold (prediction only) |
 | Benign paroxysmal torticollis of infancy | 0.9983 | L5 | Hold (prediction only; paediatric safety unsupported) |
 | Ohdo syndrome and variants | 0.9928 | L5 | Hold (prediction only; no plausible link) |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

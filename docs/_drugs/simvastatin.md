@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 774
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Not recorded in the local data"
@@ -154,6 +154,7 @@ Two directly relevant Phase 3 trials (ENHANCE and the adolescent ezetimibe-plus-
 | HIV infectious disease | L3 | Research Question | Relevant to managing antiretroviral-associated dyslipidaemia and drug interactions, not to treating HIV; one pilot study found no anti-HIV activity |
 | Brain stem infarction | L5 | Hold | No simvastatin-specific evidence |
 | CETP deficiency; CYP7A1-deficiency hypercholesterolaemia; ABri amyloidosis; neurodevelopmental disorder with ataxic gait | L5 | Hold | Model prediction only, no trials or publications |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

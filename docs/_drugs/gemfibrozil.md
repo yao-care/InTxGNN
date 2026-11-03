@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 389
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Hypertriglyceridemia"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
@@ -118,6 +118,7 @@ The high TxGNN score is not backed by human evidence. There are no registered tr
 | 4 | Hypoalphalipoproteinemia (low HDL) | 0.9977 | L3 | Proceed with Guardrails | Several small, older crossover and comparison studies (1989–2000) showing lipoprotein changes. Mostly surrogate endpoints. No registered trials. |
 | 9 | Sclerosing cholangitis | 0.9970 | L5 | Hold | Literature covers fibrate safety in cholestatic disease, not efficacy. Hepatotoxicity concern. |
 | 2, 5, 6, 7, 10 | Multiple endocrine neoplasia; brachydactyly-syndactyly syndrome; colobomatous microphthalmia-rhizomelic dysplasia syndrome; methemoglobinemia, alpha type; methemoglobin reductase deficiency | 99.70–0.9983 | L5 | Hold | No clinical or literature evidence and no plausible mechanistic link. Computational prediction only. |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

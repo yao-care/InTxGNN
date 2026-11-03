@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 791
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
 description: "Streptokinase: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
@@ -135,6 +135,7 @@ The mechanism directly fits myocardial infarction, and several completed Phase 3
 | Prinzmetal angina | L5 | Hold | Mainly vasospasm, so weak mechanistic fit |
 | Hemoglobinopathy | L5 | Hold | No clear mechanistic link |
 | Partial deletion of the short arm of chromosome 16 | L5 | Hold | No supporting studies; likely a prediction artifact |
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
