@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 541
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Methylprednisolone: predicted new indication Alopecia areata (evidence level L3). Approved use: Autoimmune disease, inflammatory bowel disease (Crohn disease)…"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Methylprednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Methylprednisolone: predicted new indication Alopecia mucinosa (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,21 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-## Methylprednisolone: From Autoimmune and Inflammatory Disease to Alopecia Areata
+## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Methylprednisolone is a glucocorticoid originally used for autoimmune and inflammatory conditions, including Crohn disease, adrenocortical insufficiency, and acute lymphoblastic leukaemia.
-The TxGNN model predicts it may be effective for **alopecia areata**,
-with **1 clinical trial** and **20 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Autoimmune disease, inflammatory bowel disease (Crohn disease), adrenocortical insufficiency and others (the registered indication text is not available in the India licence data) |
-| Predicted New Indication | Alopecia areata |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Alopecia mucinosa |
 | TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L3 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |

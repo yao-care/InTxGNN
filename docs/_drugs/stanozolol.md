@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Stanozolol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 789
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Stanozolol"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-30
-description: "Stanozolol: predicted new indication C1 inhibitor deficiency (evidence level L3). Approved use: Hereditary angioedema"
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "idiopathic eosinophilic myositis"]
+last_modified_at: 2026-11-03
+description: "Stanozolol: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Stanozolol
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Stanozolol: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Stanozolol: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Stanozolol is an oral and injectable anabolic androgen. It is used for hereditary angioedema, including the form with C1 inhibitor deficiency.
-The TxGNN model predicts it for **C1 inhibitor deficiency**, which is essentially the same disease as its original use, so this is not true repurposing.
 Support comes from **0 registered clinical trials** and **18 publications**, mostly older reviews, cohorts and case reports.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary angioedema (a relation recorded in the knowledge graph; the India licence records contain no indication text) |
-| Predicted New Indication | C1 inhibitor deficiency |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Serpinopathy with toxic serpin polymerization |
 | TxGNN Prediction Score | 1.0000 |
-| Evidence Level | L3 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (10 of 10) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 10 (valid: 10) |
 | Recommended Decision | Proceed with Guardrails |
@@ -58,7 +57,7 @@ Support comes from **0 registered clinical trials** and **18 publications**, mos
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, stanozolol is an attenuated 17-alpha-alkylated androgen. It increases liver production of C1 inhibitor and of related complement components such as C4. This reduces the frequency of swelling attacks in hereditary angioedema caused by C1 inhibitor deficiency.
 
-Hereditary angioedema due to C1 inhibitor deficiency is the same condition as the predicted indication, so the prediction mostly restates the drug's known use. The literature describes stanozolol as a long-term preventive treatment (prophylaxis), alongside danazol. An Indian case report describes treatment with stanozolol 2 mg several times daily.
+The literature describes stanozolol as a long-term preventive treatment (prophylaxis), alongside danazol. An Indian case report describes treatment with stanozolol 2 mg several times daily.
 
 The evidence is older and observational. Current guidelines favour C1 inhibitor concentrates, lanadelumab, berotralstat and similar agents for prevention, because androgens carry liver, virilization, lipid and pregnancy risks.
 

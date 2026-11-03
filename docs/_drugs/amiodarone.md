@@ -4,17 +4,17 @@ title: Amiodarone
 parent: Moderate Evidence (L3-L4)
 nav_order: 52
 evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L5). Approved use: Ventricular fibrillation"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Amiodarone"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+description: "Amiodarone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Amiodarone: From Ventricular Fibrillation to Catecholaminergic Polymorphic Ventricular Tachycardia
+## Amiodarone: Catecholaminergic polymorphic ventricular tachycardia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -41,7 +41,6 @@ Evidence Level: **L4** | Predicted Indications: **10**
 Amiodarone is a class III antiarrhythmic originally used to treat ventricular fibrillation.
 The TxGNN model predicts it may be effective for **catecholaminergic polymorphic ventricular tachycardia (CPVT)**,
 but this top-ranked prediction currently has **no registered clinical trials** and only **9 publications** (mostly case reports, a cohort study and reviews).
-By contrast, the third-ranked prediction, **ventricular tachycardia**, is supported by **18 clinical trials** and **20 publications**, and is the more actionable direction.
 
 ---
 
@@ -49,7 +48,7 @@ By contrast, the third-ranked prediction, **ventricular tachycardia**, is suppor
 
 | Item | Content |
 |------|------|
-| Original Indication | Ventricular fibrillation |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Catecholaminergic polymorphic ventricular tachycardia |
 | TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 (CPVT); for reference, ventricular tachycardia (rank 3) is L1 |
@@ -65,7 +64,7 @@ Amiodarone blocks potassium, sodium and calcium channels and has anti-adrenergic
 
 CPVT, however, is driven by diastolic calcium leak through RYR2 or CASQ2 mutations. The literature points to beta-blockers and flecainide as the effective agents. Amiodarone is not an established therapy for CPVT. The evidence is limited to case reports, cohort studies and general reviews, and one case report describes amiodarone only as part of multi-drug therapy for a neonate with long QT syndrome. The CPVT prediction is therefore plausible only in a broad sense and is not strongly supported.
 
-The prediction for **ventricular tachycardia** is much stronger. It is close to the original indication and is supported by large completed trials. It is essentially an on-label or closely related use rather than a true repurposing.
+It is close to the original indication and is supported by large completed trials. It is essentially an on-label or closely related use rather than a true repurposing.
 
 ---
 
@@ -73,7 +72,6 @@ The prediction for **ventricular tachycardia** is much stronger. It is close to 
 
 No clinical trials are registered for CPVT (the top-ranked prediction): currently no related clinical trials registered.
 
-For reference, the most relevant trials for ventricular tachycardia (rank 3) are listed below.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -102,7 +100,6 @@ CPVT (the top-ranked prediction):
 | [22553997](https://pubmed.ncbi.nlm.nih.gov/22553997/) | 2012 | Case report | Pacing Clin Electrophysiol | Flecainide suppressed defibrillator-induced storming in CPVT |
 | [22218697](https://pubmed.ncbi.nlm.nih.gov/22218697/) | 2012 | Case report | Anesth Analg | Neonate with long QT syndrome and refractory arrhythmias treated with several drugs including amiodarone |
 
-For reference, key publications for ventricular tachycardia (rank 3):
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -142,7 +139,6 @@ Please also refer to the package insert for full warnings, which were not availa
 
 ## Conclusion and Next Steps
 
-**Decision: Hold (CPVT, rank 1); Proceed with Guardrails (ventricular tachycardia, rank 3)**
 
 **Rationale:**
 - For CPVT, the prediction score is high, but there are no clinical trials and only case reports and general reviews. Established therapy is beta-blockers and flecainide, so amiodarone is not a recognised CPVT treatment (Evidence Level L4).
@@ -154,7 +150,6 @@ Please also refer to the package insert for full warnings, which were not availa
 - Package insert warnings and contraindications from the Indian regulator (not available in the compiled data)
 - For CPVT: head-to-head or controlled data against beta-blockers and flecainide
 - For ventricular tachycardia: a monitoring plan covering pulmonary, thyroid, hepatic and ocular toxicity, QT prolongation and drug interactions
-- For paediatric or infant use (rank 2): evidence specific to ventricular tachycardia, since existing data are mixed and mostly supraventricular
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

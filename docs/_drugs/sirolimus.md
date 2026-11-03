@@ -4,17 +4,17 @@ title: Sirolimus
 parent: Moderate Evidence (L3-L4)
 nav_order: 775
 evidence_level: L3
-indication_count: 7
-last_modified_at: 2026-10-30
-description: "Sirolimus: predicted new indication Liposarcoma (evidence level L3). Approved use: Renal cell carcinoma (including clear cell and non-papillary subtypes)"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Sirolimus"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
+description: "Sirolimus: predicted new indication Liposarcoma (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,19 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-## Sirolimus: From Renal Cell Carcinoma and Lymphangioleiomyomatosis to Liposarcoma
+## Sirolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Sirolimus is an mTOR inhibitor originally used for renal cell carcinoma and lymphangioleiomyomatosis (LAM).
 The TxGNN model predicts it may be effective for **liposarcoma**, but this is supported by only **1 clinical trial** (a single-arm Phase 2 combination study) and mostly indirect literature.
-Among the other predictions, **lymphangiomyoma (LAM)** has by far the strongest support, but it overlaps with an existing original indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma (including clear cell and non-papillary subtypes); lymphangioleiomyomatosis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L3 |
@@ -113,7 +112,6 @@ Please refer to the package insert for label warnings and contraindications.
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 5 | Lymphangiomyoma (LAM) | 0.9979 | L5 | Proceed with Guardrails. Phase 3 MILES trial ([NCT00414648](https://clinicaltrials.gov/study/NCT00414648), n=89, completed) plus the ongoing Phase 3 early-disease trial ([NCT03150914](https://clinicaltrials.gov/study/NCT03150914)). This is an established use, not true repurposing. |
 | 9 | Lung PEComa | 0.9963 | L5 | Proceed with Guardrails. Evidence is transferred from LAM; confirm the diagnosis. |
 | 4 | Benign PEComa | 0.9980 | L5 | Research Question. Strong mechanism (TSC1/TSC2 loss), but support is mostly case reports. |
 | 3 | Uterine corpus PEComa | 0.9980 | L5 | Research Question. No site-specific records. |

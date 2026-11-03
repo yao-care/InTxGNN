@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dipyridamole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 276
-evidence_level: L4
-indication_count: 8
+evidence_level: L5
+indication_count: 6
 monitor_inn: "Dipyridamole"
-predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-10-30
-description: "Dipyridamole: predicted new indication Thrombotic disease (evidence level L4). Approved use: Atrial fibrillation"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-11-03
+description: "Dipyridamole: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-## Dipyridamole: From Atrial Fibrillation to Thrombotic Disease
+## Dipyridamole: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dipyridamole is an antiplatelet and vasodilator drug. The knowledge graph records atrial fibrillation as its original indication, but this is a recorded relation, not an approved indication.
-The TxGNN model predicts it may be effective for **thrombotic disease**, a broad category.
 No clinical trials are registered for this term, and the supporting evidence is **about 10 relevant publications**, mostly older narrative reviews and one case report.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (a relation recorded in the knowledge graph; the local licence records contain no approved indication text) |
-| Predicted New Indication | Thrombotic disease |
-| TxGNN Prediction Score | 0.9994 |
-| Evidence Level | L4 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (6 of 6) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 6 (valid: 6) |
 | Recommended Decision | Hold |

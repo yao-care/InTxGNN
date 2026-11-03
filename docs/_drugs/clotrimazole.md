@@ -4,17 +4,17 @@ title: Clotrimazole
 parent: Moderate Evidence (L3-L4)
 nav_order: 205
 evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Tinea pedis, tinea corporis, cutaneous candidiasis…"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
+description: "Clotrimazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Clotrimazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Clotrimazole: From Superficial Fungal Infections to Acne
+## Clotrimazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,7 +45,7 @@ The TxGNN model predicts it may be effective for **acne**, but the supporting ev
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, cutaneous candidiasis, pityriasis versicolor, oral candidiasis, vulvovaginal candidiasis (the registration records list no indication text, so these come from the drug's known indications) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L4 |
@@ -61,7 +61,7 @@ The plausible link to acne is indirect. Clotrimazole might reduce microbial burd
 
 The very high TxGNN score is a computational prediction and does not replace clinical evidence. The only trial found tested clotrimazole inside a fixed combination, so it cannot show that clotrimazole itself helps acne.
 
-For context, the same analysis also ranked **vulvovaginitis** as a prediction (score 0.9959). That finding is essentially on-label use for candidal vulvovaginitis and is supported by many trials and publications, including completed Phase 3 studies. It is not a genuine repurposing signal. A third prediction, postmenopausal atrophic vaginitis, has no supporting studies and a poor mechanistic fit.
+That finding is essentially on-label use for candidal vulvovaginitis and is supported by many trials and publications, including completed Phase 3 studies. It is not a genuine repurposing signal. A third prediction, postmenopausal atrophic vaginitis, has no supporting studies and a poor mechanistic fit.
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Salmeterol
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 763
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-31
+evidence_level: L5
+indication_count: 3
+last_modified_at: 2026-11-03
 monitor_inn: "Salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol: predicted new indication Bronchitis (evidence level L1). Approved use: Not recorded in the local data"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-## Salmeterol: Bronchitis
+## Salmeterol: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Salmeterol is a long-acting beta2-agonist, originally used for pulmonary emphysema and for intrinsic and allergic asthma.
-The TxGNN model predicts it may be effective for **Bronchitis** (chronic bronchitis, a COPD phenotype), with **9 clinical trials** and **20 publications** currently supporting this direction.
 This is better viewed as an extension within the existing COPD/obstructive airway indication family than as true repurposing.
 
 ---
@@ -49,9 +48,9 @@ This is better viewed as an extension within the existing COPD/obstructive airwa
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 0.9992 |
-| Evidence Level | L1 |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |

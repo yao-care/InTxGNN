@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 31
-evidence_level: L2
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-30
-description: "Albendazole: predicted new indication alveolar echinococcosis (evidence level L2). Approved use: Not recorded in the local data"
+predicted_indications: ["coenurosis"]
+last_modified_at: 2026-11-03
+description: "Albendazole: predicted new indication Coenurosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L2** | Predicted Indications: **3**
 
 </div>
 
-## Albendazole: Benzimidazole anthelmintic (beta-tubulin inhibitor) → alveolar echinococcosis
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Albendazole is a benzimidazole anthelmintic that is widely marketed in India.
-The TxGNN model predicts it may be effective for **alveolar echinococcosis**, with **3 clinical trials** and **20 publications** compiled for this direction.
 Only one of these trials, a completed Phase 2 study, directly tests albendazole in early-stage alveolar echinococcosis.
 
 ## Quick Overview
@@ -47,9 +46,9 @@ Only one of these trials, a completed Phase 2 study, directly tests albendazole 
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | alveolar echinococcosis |
-| TxGNN Prediction Score | 0.9997 |
-| Evidence Level | L2 |
+| Predicted New Indication | Coenurosis |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |

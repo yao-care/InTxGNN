@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: Moderate Evidence (L3-L4)
 nav_order: 519
 evidence_level: L3
-indication_count: 7
-last_modified_at: 2026-10-31
-description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not stated in the licence data compiled for this report"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Mefenamic acid"
-predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+description: "Mefenamic Acid: predicted new indication Headache disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L3** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-## Mefenamic Acid: From NSAID Pain and Inflammation Use to Rheumatoid Arthritis
+## Mefenamic Acid: Headache disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) widely marketed in India as a pain reliever and fever reducer. The TxGNN model predicts it may be effective for **rheumatoid arthritis**, a prediction supported by **0 registered clinical trials** and **20 publications**, including several small, older randomized crossover studies. Because rheumatoid arthritis is already covered by the broad NSAID class, this is closer to an on-class symptomatic use than a true repurposing.
+Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) widely marketed in India as a pain reliever and fever reducer. Because rheumatoid arthritis is already covered by the broad NSAID class, this is closer to an on-class symptomatic use than a true repurposing.
 
 ---
 
@@ -46,9 +46,9 @@ Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) widely marketed
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence data compiled for this report (all 20 licences have blank indication text) |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 0.9973 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Headache disorder |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L3 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
@@ -60,7 +60,7 @@ Mefenamic acid is a non-steroidal anti-inflammatory drug (NSAID) widely marketed
 
 Detailed mechanism of action data is not available in the compiled data. Based on known information, mefenamic acid is a non-selective COX-1/COX-2 inhibitor. It reduces prostaglandin synthesis, and prostaglandins mediate inflammation and pain in rheumatoid arthritis.
 
-The mechanism is a plausible symptomatic one: it can relieve pain, joint tenderness and morning stiffness. There is no evidence that it modifies the disease course (slows joint damage). Rheumatoid arthritis already sits within the broad NSAID class indication, so this prediction is better read as a symptomatic, on-class use than as a new therapeutic direction.
+The mechanism is a plausible symptomatic one: it can relieve pain, joint tenderness and morning stiffness. There is no evidence that it modifies the disease course (slows joint damage).
 
 Other predictions in the list were also reviewed. Migraine disorder (L2, Research Question) has small controlled studies in menstrual migraine and migraine prophylaxis. Headache disorder is largely overlapping migraine evidence. The remaining predictions have no supporting evidence, or have no plausible mechanistic link (for example, rare developmental syndromes, whose scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence).
 

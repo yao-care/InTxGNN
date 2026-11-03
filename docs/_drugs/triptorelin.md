@@ -4,17 +4,17 @@ title: Triptorelin
 parent: High Evidence (L1-L2)
 nav_order: 870
 evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-30
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Triptorelin"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
 description: "Triptorelin: predicted new indication Hypertrichosis (disease) (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Triptorelin is a GnRH (gonadotropin-releasing hormone) agonist that is marketed in India, but the approved indication text is not available in the data compiled for this report.
-The TxGNN model's top-scoring prediction with real supporting evidence is **precocious puberty**, backed by **8 clinical trials** and **19 publications**. However, this is already an established, marketed use of triptorelin, so it is not a true repurposing finding.
+However, this is already an established, marketed use of triptorelin, so it is not a true repurposing finding.
 The other nine predictions (including the top-ranked hypertrichosis) have little or no supporting evidence and are most likely TxGNN model (deep learning) artifacts.
 
 ---

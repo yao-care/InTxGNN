@@ -4,17 +4,17 @@ title: Fluvoxamine
 parent: Model Prediction Only (L5)
 nav_order: 376
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Fluvoxamine: predicted new indication Schizotypal personality disorder (evidence level L4). Approved use: Social phobia, phobic disorder, obsessive-compulsive disorder"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Fluvoxamine"
-predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
+predicted_indications: ["schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Fluvoxamine: predicted new indication Schizotypal personality disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluvoxamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fluvoxamine: From Social Phobia and Obsessive-Compulsive Disorder to Schizotypal Personality Disorder
+## Fluvoxamine: Schizotypal personality disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **schizotypal personality disor
 
 | Item | Content |
 |------|------|
-| Original Indication | Social phobia, phobic disorder, obsessive-compulsive disorder |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Schizotypal personality disorder |
-| TxGNN Prediction Score | 1.0000 (rank 114) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |

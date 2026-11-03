@@ -4,17 +4,17 @@ title: Orciprenaline
 parent: Model Prediction Only (L5)
 nav_order: 621
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-30
-description: "Orciprenaline: predicted new indication Obstructive lung disease (evidence level L3). Approved use: Asthma, intrinsic asthma, allergic asthma, bronchitis…"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Orciprenaline"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "food-dependent exercise-induced anaphylaxis", "anaphylaxis", "hyperlucent lung"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "food-dependent exercise-induced anaphylaxis", "anaphylaxis", "hyperlucent lung"]
+description: "Orciprenaline: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Orciprenaline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Orciprenaline: From Asthma to Obstructive Lung Disease
+## Orciprenaline: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Orciprenaline (metaproterenol) is a non-selective beta-adrenergic agonist bronchodilator, originally used for asthma, bronchitis and pulmonary emphysema.
-The TxGNN model predicts it may be effective for **obstructive lung disease**, supported by **no registered clinical trials** and **20 publications** (mostly older comparative and pharmacology studies from 1971-2018).
 This prediction is essentially an umbrella term for the drug's existing indications rather than a true repurposing.
 
 ---
@@ -48,9 +47,9 @@ This prediction is essentially an umbrella term for the drug's existing indicati
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma, intrinsic asthma, allergic asthma, bronchitis, pulmonary emphysema (the Indian license record has no indication text) |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 1.0000 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 1 (valid: 1) |
@@ -62,7 +61,7 @@ This prediction is essentially an umbrella term for the drug's existing indicati
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, orciprenaline is a non-selective beta-adrenergic agonist that relaxes bronchial smooth muscle. Its efficacy in asthma, bronchitis and emphysema is established.
 
-Obstructive lung disease is the broader category that contains these original indications, so the prediction largely restates the drug's existing use. The mechanism, bronchodilation through beta-receptor stimulation, applies directly to airway obstruction.
+The mechanism, bronchodilation through beta-receptor stimulation, applies directly to airway obstruction.
 
 The main caveats are cardiac effects from beta-1 stimulation (a faster heart rate and higher blood pressure than salbutamol in a paediatric comparison) and the availability of more selective beta-2 agonists. Current guidelines generally favour those agents.
 

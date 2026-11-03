@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Luliconazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 509
-evidence_level: L3
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Luliconazole: predicted new indication Pityriasis versicolor (evidence level L3). Approved use: Tinea pedis, tinea corporis, tinea infection…"
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Luliconazole"
-predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]
+predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
+description: "Luliconazole: predicted new indication Endothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Luliconazole
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,21 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Luliconazole: From Tinea Infections to Pityriasis Versicolor
+## Luliconazole: Endothrix infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Luliconazole is a topical imidazole antifungal, originally used for tinea pedis, tinea corporis and other dermatophyte infections of the skin.
-The TxGNN model predicts it may be effective for **pityriasis versicolor**,
-with **1 clinical trial** (Phase 4, not yet recruiting) and **2 publications** currently supporting this direction, including one randomized controlled trial in India.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, tinea infection, dermatophytosis of groin and perianal area |
-| Predicted New Indication | Pityriasis versicolor |
-| TxGNN Prediction Score | 0.9913 |
-| Evidence Level | L3 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Endothrix infectious disease |
+| TxGNN Prediction Score | 0.9910 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
@@ -60,13 +58,12 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Pityriasis versicolor is a superficial skin infection caused by *Malassezia* yeasts, and these organisms are susceptible to azole antifungals. Published work also notes that luliconazole has broad activity against dermatophytes, *Candida* and *Malassezia*. Because the drug is already marketed in India as a topical product for dermatophytosis, its topical use is familiar and the new indication is a short step from the existing one.
 
-Other predicted indications (superficial mycosis, cutaneous candidiasis, scalp and beard dermatophytosis, Majocchi granuloma, and endothrix and ectothrix infections) are also fungal skin conditions. Superficial mycosis is close to an on-label extension. The hair-shaft and deep follicular infections are less promising, because topical drugs penetrate poorly there and oral therapy is usually standard.
+Superficial mycosis is close to an on-label extension. The hair-shaft and deep follicular infections are less promising, because topical drugs penetrate poorly there and oral therapy is usually standard.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07333170](https://clinicaltrials.gov/study/NCT07333170) | Phase 4 | Not yet recruiting | 86 | Randomized head-to-head comparison of luliconazole 2% cream vs ketoconazole 1% cream in pityriasis versicolor (planned 2026-02 to 2026-11). No results available yet. |
 
 ## Literature Evidence
 

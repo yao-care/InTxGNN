@@ -4,17 +4,17 @@ title: Choline Salicylate
 parent: Model Prediction Only (L5)
 nav_order: 180
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Choline Salicylate: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the data compiled for this report"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Choline salicylate"
-predicted_indications: ["Prinzmetal angina", "rheumatoid arthritis", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
+predicted_indications: ["Prinzmetal angina", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
+description: "Choline Salicylate: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Choline Salicylate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Choline Salicylate: From Oral and Mucosal Use to Rheumatoid Arthritis
+## Choline Salicylate: Prinzmetal angina
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Choline salicylate is a non-acetylated salicylate, marketed in India mainly as topical dental gels, oral liquids and paints, with one oral tablet product.
-The TxGNN model predicts it may be effective for **Rheumatoid Arthritis** (the top-ranked prediction with any supporting literature), with **no registered clinical trials** and **3 older publications (1977-1980)** currently supporting this direction.
 The evidence is weak and symptomatic only.
 
 ---
@@ -48,9 +47,9 @@ The evidence is weak and symptomatic only.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the data compiled for this report (all 20 licences have blank indication text); the products are mainly oral and dental gels |
-| Predicted New Indication | Rheumatoid arthritis (the highest-scoring prediction, Prinzmetal angina, has no supporting evidence) |
-| TxGNN Prediction Score | 0.9982 (rheumatoid arthritis); Prinzmetal angina scored 0.9984 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Prinzmetal angina |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 for rheumatoid arthritis (older reviews and clinical reports only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
@@ -121,7 +120,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Rheumatoid arthritis has the best support among the predictions, with biological plausibility and three older reports. However, there are no registered trials, the evidence is dated and of unclear design, and salicylates have been superseded by modern therapies. The other predictions have no supporting evidence, and some carry safety concerns.
+However, there are no registered trials, the evidence is dated and of unclear design, and salicylates have been superseded by modern therapies. The other predictions have no supporting evidence, and some carry safety concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening

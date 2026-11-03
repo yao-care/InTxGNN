@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Model Prediction Only (L5)
 nav_order: 169
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "Chlorambucil"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-30
-description: "Chlorambucil: predicted new indication Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (evidence level L5). Approved use: Hodgkin lymphoma, follicular lymphoma, acute lymphobla…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: predicted new indication ALK-positive large B-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Chlorambucil: From Hodgkin Lymphoma and Other Lymphoid Malignancies to Pregerminal Center Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Chlorambucil is an oral alkylating agent.
-The TxGNN model ranks **pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL)** highest (score 0.9972).
 No clinical trials are registered for this disease, and the only literature is **1 indirect review** (2003), so the evidence is prediction-level only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma, follicular lymphoma, acute lymphoblastic leukemia, Richter syndrome and related lymphoid malignancies (relations recorded in the knowledge graph; the local licence records contain no indication text) |
-| Predicted New Indication | Pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma |
-| TxGNN Prediction Score | 0.9972 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | ALK-positive large B-cell lymphoma |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 7 (valid: 7) |

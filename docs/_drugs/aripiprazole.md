@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: Model Prediction Only (L5)
 nav_order: 69
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Aripiprazole: predicted new indication Major affective disorder (major depressive disorder) (evidence level L1). Approved use: Manic bipolar affective disorder, bipolar disorder, schizophrenia…"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+description: "Aripiprazole: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Aripiprazole: From Schizophrenia and Bipolar Disorder to Major Affective Disorder
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Aripiprazole is an atypical antipsychotic originally used for schizophrenia, bipolar disorder and autism-related conditions.
-The TxGNN model predicts it may be effective for **major affective disorder** (major depressive disorder), with **36 clinical trials** and **18 publications** currently supporting this direction.
 Several large, completed Phase 3 placebo-controlled trials of adjunctive use are included, so the evidence is relatively strong.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Manic bipolar affective disorder, bipolar disorder, schizophrenia, autism spectrum disorder (approved indication text is not available in the registration records) |
-| Predicted New Indication | Major affective disorder (major depressive disorder) |
-| TxGNN Prediction Score | 0.9962 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |

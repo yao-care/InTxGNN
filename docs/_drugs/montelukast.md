@@ -4,17 +4,17 @@ title: Montelukast
 parent: High Evidence (L1-L2)
 nav_order: 568
 evidence_level: L2
-indication_count: 3
-last_modified_at: 2026-10-31
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Montelukast"
-predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **3** 
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -131,7 +131,6 @@ Several randomised trials in infant bronchiolitis exist, including a large Phase
 ## Other Predicted Indications (Brief Note)
 
 - **Atopic eczema** (score 0.9981, L1): Three Phase 4 trials exist, but the Cochrane review of leukotriene receptor antagonists for eczema (PMID 30343498) did not find convincing benefit. The signal is inconsistent.
-- **Obstructive lung disease** (score 0.9934, L1): The supporting trials are essentially the same asthma trials. No data demonstrate benefit in COPD or other non-asthmatic obstructive disease.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

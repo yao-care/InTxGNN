@@ -4,17 +4,17 @@ title: Imipenem
 parent: Model Prediction Only (L5)
 nav_order: 427
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
+indication_count: 9
+last_modified_at: 2026-11-03
 description: "Imipenem: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Bacterial infections (bacterial pneumonia, peritonitis, endocarditis…"
 monitor_inn: "Imipenem"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 ---
 
 # Imipenem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -64,7 +64,6 @@ Currently, detailed mechanism of action data is not available in the data compil
 Diffuse scleroderma, however, is an autoimmune, fibrotic disease, not an infection. No mechanistic link to imipenem's antibacterial action is evident. The very high TxGNN score is not supported by any clinical or published evidence, so it should be treated as a model-generated hypothesis rather than a credible repurposing signal.
 
 For context, the other predictions for this drug are mostly infectious diseases, where antibacterial activity is plausible:
-- **Staphylococcus aureus infection** has the strongest support. It has two small Phase 4 trials (both combination-based) plus older experimental and clinical literature, and is rated L3.
 - **Typhoid fever, paratyphoid fever and salmonellosis** are supported only by susceptibility data and case reports (L4).
 - **Sinusitis and chronic rhinosinusitis** are supported by microbiology surveys only (L4).
 

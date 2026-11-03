@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gimeracil
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 392
-evidence_level: L1
-indication_count: 7
-last_modified_at: 2026-10-30
+evidence_level: L5
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Gimeracil"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
-description: "Gimeracil: predicted new indication Colonic neoplasm (evidence level L1). Approved use: Not recorded in the local data"
+predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "rectosigmoid junction neoplasm", "colonic lymphangioma", "colon leiomyoma"]
+description: "Gimeracil: predicted new indication Cecum villous adenoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Gimeracil
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **7**
 
 </div>
 
-## Gimeracil: Colonic neoplasm
+## Gimeracil: Cecum villous adenoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Gimeracil is a component of the S-1 combination (tegafur/gimeracil/oteracil), originally used to treat gastric cancer.
-The TxGNN model predicts it may be effective for **colonic neoplasm**, with **6 clinical trials** (2 of them Phase 3) and **12 retrieved publications**, mostly case reports and preclinical studies, supporting this direction.
 The clinical evidence is for the S-1 combination as a whole, not gimeracil alone.
 
 ---
@@ -49,9 +48,9 @@ The clinical evidence is for the S-1 combination as a whole, not gimeracil alone
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 0.9988 |
-| Evidence Level | L1 |
+| Predicted New Indication | Cecum villous adenoma |
+| TxGNN Prediction Score | 0.9982 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (2 of 2) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |

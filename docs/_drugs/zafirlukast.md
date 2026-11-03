@@ -4,17 +4,17 @@ title: Zafirlukast
 parent: Model Prediction Only (L5)
 nav_order: 901
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-30
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "Zafirlukast"
-predicted_indications: ["bronchitis", "obstructive lung disease"]
+predicted_indications: ["bronchitis"]
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zafirlukast
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 Zafirlukast is a cysteinyl leukotriene receptor antagonist, originally used to treat asthma (including intrinsic and allergic asthma).
 The TxGNN model predicts it may be effective for **bronchitis**, but this rests on the model score alone: **0 clinical trials** and **0 publications** specific to this indication were found.
-A second candidate, obstructive lung disease, has **18 publications**, mostly asthma-focused reviews, and no clinical trials.
 
 ---
 
@@ -64,7 +63,7 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 
 Because these processes also occur in inflammatory bronchial conditions, there is a plausible mechanistic link between asthma and bronchitis. However, bronchitis is a heterogeneous condition (acute viral, chronic, eosinophilic), and the relevant subtype is not specified. The prediction score is the only support: no trials or publications were found for bronchitis.
 
-For the second-ranked prediction, obstructive lung disease (score 0.9917), the high score is largely explained by asthma itself being an obstructive lung disease and the drug's existing indication. It is therefore not a strong new repurposing signal. The only COPD-related item is a review discussing leukotriene pathway inhibitors in asthma and COPD (PMID 10421833). No controlled COPD data were available.
+It is therefore not a strong new repurposing signal. The only COPD-related item is a review discussing leukotriene pathway inhibitors in asthma and COPD (PMID 10421833). No controlled COPD data were available.
 
 ---
 

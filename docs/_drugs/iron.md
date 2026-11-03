@@ -4,17 +4,17 @@ title: Iron
 parent: Model Prediction Only (L5)
 nav_order: 447
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-31
-description: "Iron: predicted new indication Plummer-Vinson syndrome (evidence level L4). Approved use: Iron deficiency anemia and related anemias (folic acid deficiency ane…"
+indication_count: 5
+last_modified_at: 2026-11-03
 monitor_inn: "Iron"
-predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
+description: "Iron: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Iron
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Iron: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+## Iron: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Iron is an essential mineral originally used to treat iron deficiency and related anemias.
-The TxGNN model predicts it may be useful for **Plummer-Vinson syndrome**, a rare condition in which iron deficiency anemia occurs together with dysphagia and esophageal webs.
 Support comes from **about 19 publications** (mostly reviews, case reports and retrospective series) and **no registered clinical trials**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia and related anemias (folic acid deficiency anemia, anemia of prematurity, hypochromic anemia, deficiency anemia, microcytic anemia). The India licence records contain no approved indication text. |
-| Predicted New Indication | Plummer-Vinson syndrome (the highest-scoring prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia, has no supporting evidence and is not assessed here) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |

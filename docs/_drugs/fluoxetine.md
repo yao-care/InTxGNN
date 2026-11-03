@@ -4,17 +4,17 @@ title: Fluoxetine
 parent: Model Prediction Only (L5)
 nav_order: 367
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Fluoxetine"
-predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-31
+predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-11-03
 description: "Fluoxetine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Relations recorded in the knowledge graph: anxiety disorder…"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -68,7 +68,6 @@ Because no cited study directly addresses paranoid personality disorder, the evi
 
 Other predictions in the same set (for context):
 - **Schizotypal personality disorder**: small, mostly uncontrolled fluoxetine studies (e.g., a 1991 open 12-week study of 22 patients) and one case report of transient psychosis on fluoxetine, which is a safety signal.
-- **Agoraphobia**: SSRI evidence is mainly in panic disorder, which is indirect.
 - **Phobic disorder**: a completed Phase 3 trial in childhood social phobia (NCT00043537) and SSRI meta-analyses, the strongest evidence among the predictions.
 - **Manic bipolar affective disorder**: evidence concerns the depressive phase only and does not show benefit in mania.
 - **Histrionic and schizoid personality disorders, benign paroxysmal torticollis of infancy, Ohdo syndrome**: no relevant fluoxetine evidence.

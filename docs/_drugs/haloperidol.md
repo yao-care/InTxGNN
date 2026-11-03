@@ -4,17 +4,17 @@ title: Haloperidol
 parent: Model Prediction Only (L5)
 nav_order: 406
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Haloperidol: predicted new indication Congenital disorder of glycosylation with defective fucosylation (evidence level L5). Approved use: Psychotic disorder, schizophreniform disorder…"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Haloperidol"
-predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
+description: "Haloperidol: predicted new indication Congenital disorder of glycosylation with defective fucosylation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Haloperidol: From Psychotic Disorders to Congenital Disorder of Glycosylation with Defective Fucosylation
+## Haloperidol: Congenital disorder of glycosylation with defective fucosylation
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,7 +46,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Psychotic disorder, schizophreniform disorder, schizoaffective disorder, schizophrenia, Tourette syndrome |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Congenital disorder of glycosylation with defective fucosylation |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
@@ -101,7 +101,7 @@ The prediction has only a model score, with no clinical trials, no literature an
 - Package insert warnings and contraindications from the Indian regulator
 - A safety plan covering QT prolongation, extrapyramidal symptoms and the high interaction burden
 
-**Note on other predictions:** Among the other predictions compiled for haloperidol, **manic bipolar affective disorder** has far stronger support. It has completed Phase 3 trials (for example NCT00129220, a haloperidol-controlled olanzapine trial) and network meta-analyses (2022, 2025), and carries an L1 rating and a "Proceed with Guardrails" recommendation. It is closer to established clinical use than to novel repurposing. It would be a more productive candidate for evaluation than the prediction in this report.
+It has completed Phase 3 trials (for example NCT00129220, a haloperidol-controlled olanzapine trial) and network meta-analyses (2022, 2025), and carries an L1 rating and a "Proceed with Guardrails" recommendation. It is closer to established clinical use than to novel repurposing. It would be a more productive candidate for evaluation than the prediction in this report.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

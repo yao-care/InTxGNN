@@ -4,17 +4,17 @@ title: Bleomycin
 parent: Model Prediction Only (L5)
 nav_order: 113
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-30
-description: "Bleomycin: predicted new indication Cauda equina neoplasm (evidence level L5). Approved use: Hodgkin lymphoma, non-Hodgkin lymphoma, head and neck cancer"
+indication_count: 5
+last_modified_at: 2026-11-03
 monitor_inn: "Bleomycin"
-predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
+predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
+description: "Bleomycin: predicted new indication Cauda equina neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Bleomycin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Bleomycin: From Lymphoma and Head and Neck Cancer to Cauda Equina Neoplasm
+## Bleomycin: Cauda equina neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,8 +47,8 @@ The TxGNN model's top-ranked prediction is **cauda equina neoplasm** (score 0.99
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma, non-Hodgkin lymphoma, head and neck cancer (the India licence records contain no indication text) |
-| Predicted New Indication | Cauda equina neoplasm (top-ranked prediction) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cauda equina neoplasm |
 | TxGNN Prediction Score | 0.9930 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (18 of 18) – CDSCO approval status is not included in this data |
@@ -61,7 +61,6 @@ The TxGNN model's top-ranked prediction is **cauda equina neoplasm** (score 0.99
 |------|------|------|------|------|
 | 1 | Cauda equina neoplasm | 0.9930 | L5 | Hold |
 | 2 | Adult astrocytic tumour | 0.9928 | L5 | Research Question |
-| 3 | Reticulum cell sarcoma | 0.9914 | L5 | Proceed with Guardrails |
 | 4 | Primary pulmonary lymphoma | 0.9910 | L4 | Research Question |
 | 5 | Pulmonary blastoma | 0.9904 | L4 | Hold |
 | 6 | Well-differentiated fetal adenocarcinoma of the lung | 0.9903 | L5 | Hold |
@@ -74,7 +73,7 @@ Detailed mechanism of action data is not currently available. Bleomycin is a cyt
 
 **Cauda equina neoplasm (rank 1):** No direct mechanistic link has been established. The only retrieved paper describes radiation therapy for relapsed CNS germinoma after a carboplatin, etoposide and bleomycin regimen. That is a weak, indirect connection, and it does not address cauda equina tumours. The high score is a model prediction without clinical support.
 
-**Reticulum cell sarcoma (rank 3):** This is an old name for diffuse large B-cell or aggressive non-Hodgkin lymphoma. Bleomycin is already used in lymphoma regimens such as VACOP-B, ProMACE-CytaBOM and PMitCEBO. This is therefore closer to an existing indication than a true repurposing. Modern regimens (R-CHOP, DA-EPOCH-R) have largely replaced bleomycin-based ones for aggressive B-cell lymphoma.
+Bleomycin is already used in lymphoma regimens such as VACOP-B, ProMACE-CytaBOM and PMitCEBO. This is therefore closer to an existing indication than a true repurposing. Modern regimens (R-CHOP, DA-EPOCH-R) have largely replaced bleomycin-based ones for aggressive B-cell lymphoma.
 
 **Adult astrocytic tumour (rank 2):** In principle, bleomycin's DNA damage could act on high-grade glioma cells, but the blood-brain barrier limits systemic delivery. A Phase I trial of continuous intratumoral infusion in recurrent glioblastoma suggests local delivery is feasible. A randomized trial found no survival benefit from adding bleomycin to radiotherapy.
 
@@ -82,7 +81,7 @@ Detailed mechanism of action data is not currently available. Bleomycin is a cyt
 
 ## Clinical Trial Evidence
 
-Clinical trials were found only for reticulum cell sarcoma (rank 3). No registered trials were found for the other five predictions.
+No registered trials were found for the other five predictions.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

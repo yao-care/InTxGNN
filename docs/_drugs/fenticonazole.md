@@ -4,17 +4,17 @@ title: Fenticonazole
 parent: Model Prediction Only (L5)
 nav_order: 346
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "Fenticonazole"
-predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvovaginitis", "vulvitis", "herpetic vulvovaginitis", "vaginitis (disease)"]
+predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvitis", "herpetic vulvovaginitis"]
 description: "Fenticonazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fenticonazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -66,7 +66,7 @@ Currently no related clinical trials are registered for trichomonal vulvovaginit
 
 ## Literature Evidence
 
-No Trichomonas-specific publication was found. The two papers below were retrieved for this prediction, and both are general vulvovaginitis papers.
+No Trichomonas-specific publication was found.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -75,7 +75,7 @@ No Trichomonas-specific publication was found. The two papers below were retriev
 
 ### Supporting evidence for related indications
 
-The broader indication **vulvovaginitis** (rank 3) has more support (evidence level L2, recommendation Proceed with Guardrails). It rests mainly on candidal infection, so it is not a true repurposing signal.
+It rests mainly on candidal infection, so it is not a true repurposing signal.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

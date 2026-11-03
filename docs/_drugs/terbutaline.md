@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Terbutaline
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 821
-evidence_level: L1
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Terbutaline: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Asthma (including intrinsic and allergic asthma), bronchitis…"
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Terbutaline"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
+description: "Terbutaline: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-## Terbutaline: From Asthma to Obstructive Lung Disease
+## Terbutaline: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Terbutaline is a short-acting beta-2 agonist bronchodilator, originally used to treat asthma and related airway conditions such as bronchitis and pulmonary emphysema.
-The TxGNN model predicts it may be effective for **Obstructive Lung Disease**, a category that largely overlaps with its existing uses.
 Currently, **14 clinical trials** and **20 publications** support this direction. Most of the trials are completed Phase 3 studies in asthma, where terbutaline mainly served as a comparator or reliever.
 
 ---
@@ -48,10 +47,10 @@ Currently, **14 clinical trials** and **20 publications** support this direction
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma (including intrinsic and allergic asthma), bronchitis, pulmonary emphysema (the marketed products carry no indication text in the data compiled for this report) |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 0.9996 |
-| Evidence Level | L1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9952 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
@@ -62,7 +61,7 @@ Currently, **14 clinical trials** and **20 publications** support this direction
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, terbutaline is a selective beta-2 adrenergic agonist. It relaxes bronchial smooth muscle through the cAMP pathway and produces bronchodilation.
 
-This is the same mechanism behind its established use in asthma, bronchitis and emphysema. Obstructive lung disease (which includes asthma and COPD) is therefore effectively an on-label or near-label indication, not a true repurposing candidate. The main value of this prediction is to confirm and extend its use in COPD-type airway obstruction.
+This is the same mechanism behind its established use in asthma, bronchitis and emphysema. The main value of this prediction is to confirm and extend its use in COPD-type airway obstruction.
 
 Several studies directly support this. Placebo-controlled crossover trials of oral and inhaled terbutaline in COPD report effects on diaphragm strength, exercise capacity, FEV1 and walking distance.
 

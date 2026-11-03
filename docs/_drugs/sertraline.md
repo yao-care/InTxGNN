@@ -4,17 +4,17 @@ title: Sertraline
 parent: Model Prediction Only (L5)
 nav_order: 770
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 monitor_inn: "Sertraline"
-predicted_indications: ["histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-10-31
+predicted_indications: ["histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+last_modified_at: 2026-11-03
 description: "Sertraline: predicted new indication Histrionic personality disorder (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sertraline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -106,7 +106,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Rationale:**
 The prediction has no supporting clinical trials or publications for histrionic personality disorder. The high score appears to reflect network proximity to other personality and anxiety disorders. The evidence level is therefore L5.
 
-Among the other predictions in the same analysis, agoraphobia has the most supporting literature, including randomized trials and network meta-analyses in panic disorder. However, it largely overlaps with anxiety indications already linked to sertraline, so it is not a distinct repurposing opportunity.
+However, it largely overlaps with anxiety indications already linked to sertraline, so it is not a distinct repurposing opportunity.
 
 **To proceed, the following is needed:**
 - Any clinical or observational study of sertraline specifically in histrionic personality disorder

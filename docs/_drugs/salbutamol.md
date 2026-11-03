@@ -4,17 +4,17 @@ title: Salbutamol
 parent: Model Prediction Only (L5)
 nav_order: 761
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Salbutamol: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Asthma, bronchial disease"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Salbutamol: From Asthma to Papillary Conjunctivitis
+## Salbutamol: Papillary conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,7 +47,7 @@ The TxGNN model's top-ranked prediction is **papillary conjunctivitis**, but **n
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma, bronchial disease (the India license records contain no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
@@ -93,7 +93,6 @@ The trials below come from the lower-ranked predictions with the most evidence.
 |---------|------|------|------|---------|
 | [NCT05653024](https://clinicaltrials.gov/study/NCT05653024) | Phase 3 | Terminated | 24 | Double-blind inhaled salbutamol vs placebo for abdominal pain in food-induced IgE-mediated reactions; terminated early, so efficacy cannot be established |
 
-**Bronchitis / bronchiolitis (rank 4)**
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-19",
   "drug_count": 1712,
-  "indication_count": 2497,
+  "indication_count": 2485,
   "drugs": [
     {
       "slug": "abacavir",
@@ -21461,17 +21461,14 @@
         "bosentan",
         "cabazitaxel",
         "chlorzoxazone",
-        "choline_salicylate",
         "chromium",
         "eptifibatide",
         "levocetirizine",
         "lornoxicam",
-        "mefenamic_acid",
         "mesalazine",
         "metamizole",
         "nalidixic_acid",
-        "nitrofurantoin",
-        "valdecoxib"
+        "nitrofurantoin"
       ]
     },
     {
@@ -23109,10 +23106,8 @@
       },
       "related_drugs": [
         "acetylcysteine",
-        "acetylsalicylic_acid",
         "alpelisib",
-        "caffeine",
-        "dipyridamole"
+        "caffeine"
       ]
     },
     {
@@ -23221,8 +23216,7 @@
         "zh": []
       },
       "related_drugs": [
-        "acetylcysteine",
-        "dipyridamole"
+        "acetylcysteine"
       ]
     },
     {
@@ -23432,8 +23426,7 @@
       "related_drugs": [
         "acyclovir",
         "ambroxol",
-        "ivermectin",
-        "natamycin"
+        "ivermectin"
       ]
     },
     {
@@ -23821,7 +23814,6 @@
         "zh": []
       },
       "related_drugs": [
-        "albendazole",
         "miltefosine"
       ]
     },
@@ -23830,18 +23822,6 @@
       "keywords": {
         "en": [
           "coenurosis"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "albendazole"
-      ]
-    },
-    {
-      "name": "Cestode infectious disease",
-      "keywords": {
-        "en": [
-          "Cestode infectious disease"
         ],
         "zh": []
       },
@@ -24628,7 +24608,6 @@
         "zh": []
       },
       "related_drugs": [
-        "alprazolam",
         "amineptine",
         "desvenlafaxine",
         "duloxetine",
@@ -24665,18 +24644,6 @@
       "keywords": {
         "en": [
           "congenital valvular dysplasia"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "alprostadil"
-      ]
-    },
-    {
-      "name": "tricuspid valve agenesis",
-      "keywords": {
-        "en": [
-          "tricuspid valve agenesis"
         ],
         "zh": []
       },
@@ -25618,7 +25585,6 @@
         "zh": []
       },
       "related_drugs": [
-        "amiodarone",
         "methocarbamol"
       ]
     },
@@ -25886,9 +25852,7 @@
         "zh": []
       },
       "related_drugs": [
-        "amoxicillin",
-        "ciprofloxacin",
-        "levofloxacin"
+        "amoxicillin"
       ]
     },
     {
@@ -26742,10 +26706,7 @@
       },
       "related_drugs": [
         "arformoterol",
-        "epinephrine",
-        "levosalbutamol",
-        "montelukast",
-        "tulobuterol"
+        "epinephrine"
       ]
     },
     {
@@ -26877,19 +26838,6 @@
         "arginine",
         "biotin",
         "magnesium_carbonate"
-      ]
-    },
-    {
-      "name": "major affective disorder",
-      "keywords": {
-        "en": [
-          "major affective disorder"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "aripiprazole",
-        "asenapine"
       ]
     },
     {
@@ -27157,7 +27105,6 @@
       },
       "related_drugs": [
         "artemether",
-        "erythromycin",
         "loteprednol_etabonate"
       ]
     },
@@ -27306,7 +27253,6 @@
         "zh": []
       },
       "related_drugs": [
-        "ascorbic_acid",
         "d-glucose"
       ]
     },
@@ -28360,8 +28306,7 @@
         "methylene_blue",
         "montelukast",
         "natalizumab",
-        "neostigmine",
-        "tulobuterol"
+        "neostigmine"
       ]
     },
     {
@@ -28466,7 +28411,6 @@
         "dienogest",
         "diosmin",
         "estriol",
-        "medroxyprogesterone_acetate",
         "misoprostol"
       ]
     },
@@ -29208,10 +29152,7 @@
         "zh": []
       },
       "related_drugs": [
-        "betamethasone",
-        "desoximetasone",
-        "dexamethasone",
-        "methylprednisolone"
+        "desoximetasone"
       ]
     },
     {
@@ -29494,18 +29435,6 @@
       "keywords": {
         "en": [
           "adult astrocytic tumour"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "bleomycin"
-      ]
-    },
-    {
-      "name": "reticulum cell sarcoma",
-      "keywords": {
-        "en": [
-          "reticulum cell sarcoma"
         ],
         "zh": []
       },
@@ -30419,8 +30348,7 @@
       },
       "related_drugs": [
         "calcipotriol",
-        "ivermectin",
-        "natamycin"
+        "ivermectin"
       ]
     },
     {
@@ -49960,8 +49888,7 @@
       },
       "related_drugs": [
         "ebastine",
-        "maraviroc",
-        "natamycin"
+        "maraviroc"
       ]
     },
     {
@@ -50499,19 +50426,6 @@
       },
       "related_drugs": [
         "eribulin"
-      ]
-    },
-    {
-      "name": "staphylococcus aureus infection",
-      "keywords": {
-        "en": [
-          "staphylococcus aureus infection"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "ertapenem",
-        "meropenem"
       ]
     },
     {
@@ -52581,18 +52495,6 @@
       ]
     },
     {
-      "name": "pityriasis versicolor",
-      "keywords": {
-        "en": [
-          "pityriasis versicolor"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "luliconazole"
-      ]
-    },
-    {
       "name": "dermatophytosis of scalp or beard",
       "keywords": {
         "en": [
@@ -53296,18 +53198,6 @@
       ]
     },
     {
-      "name": "Peptostreptococcus infectious disease",
-      "keywords": {
-        "en": [
-          "Peptostreptococcus infectious disease"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "meropenem"
-      ]
-    },
-    {
       "name": "exostosis",
       "keywords": {
         "en": [
@@ -53839,18 +53729,6 @@
       ]
     },
     {
-      "name": "pancreatic intraductal papillary-mucinous carcinoma",
-      "keywords": {
-        "en": [
-          "pancreatic intraductal papillary-mucinous carcinoma"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "mitomycin"
-      ]
-    },
-    {
       "name": "mixed ductal-endocrine carcinoma of pancreas",
       "keywords": {
         "en": [
@@ -53863,34 +53741,10 @@
       ]
     },
     {
-      "name": "pancreatic signet ring cell adenocarcinoma",
-      "keywords": {
-        "en": [
-          "pancreatic signet ring cell adenocarcinoma"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "mitomycin"
-      ]
-    },
-    {
       "name": "undifferentiated pancreatic carcinoma",
       "keywords": {
         "en": [
           "undifferentiated pancreatic carcinoma"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "mitomycin"
-      ]
-    },
-    {
-      "name": "malignant exocrine pancreas neoplasm",
-      "keywords": {
-        "en": [
-          "malignant exocrine pancreas neoplasm"
         ],
         "zh": []
       },
@@ -54384,18 +54238,6 @@
       "keywords": {
         "en": [
           "trichomonal vulvovaginitis"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "natamycin"
-      ]
-    },
-    {
-      "name": "vaginitis (disease)",
-      "keywords": {
-        "en": [
-          "vaginitis (disease)"
         ],
         "zh": []
       },
@@ -56141,18 +55983,6 @@
       },
       "related_drugs": [
         "triamcinolone"
-      ]
-    },
-    {
-      "name": "precocious puberty",
-      "keywords": {
-        "en": [
-          "precocious puberty"
-        ],
-        "zh": []
-      },
-      "related_drugs": [
-        "triptorelin"
       ]
     },
     {

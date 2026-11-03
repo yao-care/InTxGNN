@@ -4,17 +4,17 @@ title: Cyclophosphamide
 parent: Model Prediction Only (L5)
 nav_order: 218
 evidence_level: L5
-indication_count: 4
+indication_count: 2
 monitor_inn: "Cyclophosphamide"
-predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
-last_modified_at: 2026-10-30
-description: "Cyclophosphamide: predicted new indication myeloid leukemia (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+last_modified_at: 2026-11-03
+description: "Cyclophosphamide: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Cyclophosphamide: Alkylating cytotoxic agent → myeloid leukemia
+## Cyclophosphamide: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Cyclophosphamide is an alkylating chemotherapy agent that cross-links DNA in rapidly dividing cells.
-The TxGNN model predicts it may be useful for **myeloid leukemia**, with **35 listed clinical trials** and **20 publications** pointing in this direction.
 Most of this evidence reflects its use inside transplant conditioning, post-transplant GVHD prophylaxis and combination regimens, not as a single tested agent, and no cited study tests cyclophosphamide alone against myeloid leukemia.
 
 ## Quick Overview
@@ -47,8 +46,8 @@ Most of this evidence reflects its use inside transplant conditioning, post-tran
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | myeloid leukemia |
-| TxGNN Prediction Score | 0.9947 |
+| Predicted New Indication | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
@@ -127,7 +126,7 @@ Label warnings and contraindications are not available in the data compiled for 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible and cyclophosphamide is widely used in myeloid leukemia transplant and chemotherapy regimens. But no cited study isolates its effect against this disease, so the evidence stays at L5 and the safety data are incomplete.
+But no cited study isolates its effect against this disease, so the evidence stays at L5 and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - Studies that isolate cyclophosphamide's contribution in myeloid leukemia (for example randomized comparisons of regimens that differ only in cyclophosphamide)

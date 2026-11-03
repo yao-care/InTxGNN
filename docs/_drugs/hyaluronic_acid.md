@@ -4,17 +4,17 @@ title: Hyaluronic Acid
 parent: High Evidence (L1-L2)
 nav_order: 410
 evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Hyaluronic Acid: predicted new indication Dry eye syndrome (evidence level L1). Approved use: Not available"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Hyaluronic acid"
-predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
+predicted_indications: ["Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
+description: "Hyaluronic Acid: predicted new indication Sjogren syndrome (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Hyaluronic Acid
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Hyaluronic Acid: From Approved Indications to Dry Eye Syndrome
+## Hyaluronic Acid: Sjogren syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Hyaluronic acid is a hygroscopic, viscoelastic glycosaminoglycan marketed in India in injectable, topical, oral and serum forms. Its original indication text is not recorded in the data compiled for this report.
-The TxGNN model predicts it may be effective for **dry eye syndrome**, supported by **9 clinical trials** (including a completed Phase 3 RCT and a Phase 2/3 RCT) and **20 publications**, including several meta-analyses and an RCT in BMJ.
 Hyaluronic acid eye drops are already widely used for this purpose, so this is largely an established use rather than a novel repurposing.
 
 ---
@@ -48,9 +47,9 @@ Hyaluronic acid eye drops are already widely used for this purpose, so this is l
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication text in the registered licences) |
-| Predicted New Indication | Dry eye syndrome |
-| TxGNN Prediction Score | 0.9986 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Sjogren syndrome |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L1 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |

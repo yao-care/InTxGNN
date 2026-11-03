@@ -4,17 +4,17 @@ title: Ceftriaxone
 parent: Model Prediction Only (L5)
 nav_order: 161
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-31
-description: "Ceftriaxone: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections (pneumonia, meningitis, gonorrhea, salmonellosis…"
+indication_count: 5
+last_modified_at: 2026-11-03
 monitor_inn: "Ceftriaxone"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
+description: "Ceftriaxone: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ceftriaxone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Ceftriaxone: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+## Ceftriaxone: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,7 +48,7 @@ The better-supported predictions are in otitis media (infectious, suppurative an
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (pneumonia, meningitis, gonorrhea, salmonellosis, bacterial arthritis, among others); no approved indication text is available from the India licences |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 0.9939 |
 | Evidence Level | L5 |
@@ -68,8 +68,6 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Infectious otitis media | 0.9926 | L3 | Strong plausibility; likely already an established use (single-dose intramuscular ceftriaxone), so label-adjacent rather than true repurposing |
-| Suppurative otitis media | 0.9902 | L3 | Plausible, but chronic cases often involve *Pseudomonas aeruginosa* and biofilm producers, against which ceftriaxone has limited activity; evidence is largely descriptive or dated |
 | Chronic otitis media | 0.9901 | L3 | Partially plausible; the literature is mostly susceptibility surveys, and topical therapy is generally preferred |
 
 ---
@@ -78,7 +76,6 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 For the top-ranked prediction (polyclonal hyperviscosity syndrome), no related clinical trials are currently registered.
 
-For the best-supported prediction, infectious otitis media, one trial was found:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -90,14 +87,12 @@ For the best-supported prediction, infectious otitis media, one trial was found:
 
 For the top-ranked prediction (polyclonal hyperviscosity syndrome), no related literature is currently available.
 
-For infectious otitis media (the best-supported prediction), the most relevant publications are:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [8989332](https://pubmed.ncbi.nlm.nih.gov/8989332/) | 1997 | RCT | Pediatrics | Single intramuscular dose of ceftriaxone compared with 10 days of oral trimethoprim-sulfamethoxazole for acute otitis media |
 | [11099083](https://pubmed.ncbi.nlm.nih.gov/11099083/) | 2000 | Clinical study | Pediatr Infect Dis J | Bacteriologic and clinical efficacy of one-day versus three-day intramuscular ceftriaxone in nonresponsive acute otitis media |
 | [9877360](https://pubmed.ncbi.nlm.nih.gov/9877360/) | 1998 | Clinical study | Pediatr Infect Dis J | Bacteriologic efficacy of a three-day intramuscular ceftriaxone regimen in nonresponsive acute otitis media |
-| [2523493](https://pubmed.ncbi.nlm.nih.gov/2523493/) | 1989 | Clinical efficacy evaluation | Jpn J Antibiot | Once-daily ceftriaxone 1 g versus cefotiam in acute suppurative otitis media and acute exacerbation of chronic suppurative otitis media (efficacy 71% vs 86%) |
 | [12166789](https://pubmed.ncbi.nlm.nih.gov/12166789/) | 2002 | Consensus recommendations | Clin Pediatr | Consensus recommendations for the management of acute otitis media |
 | [10688388](https://pubmed.ncbi.nlm.nih.gov/10688388/) | 2000 | Review | Clin Ther | Review of treatment recommendations for antimicrobial therapy of acute otitis media |
 | [35841649](https://pubmed.ncbi.nlm.nih.gov/35841649/) | 2022 | Cohort | Int J Pediatr Otorhinolaryngol | Factors associated with ceftriaxone use for acute otitis media in a large U.S. primary care population |

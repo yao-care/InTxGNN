@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-28",
+  "generated": "2026-11-03",
   "total_drugs": 884,
   "level_counts": {
-    "L1": 28,
-    "L2": 40,
-    "L3": 39,
-    "L4": 61,
-    "L5": 675
+    "L1": 22,
+    "L2": 37,
+    "L3": 34,
+    "L4": 59,
+    "L5": 687
   },
   "all_drugs": [
     {
@@ -73,7 +73,7 @@
       "name": "Acetylsalicylic Acid",
       "slug": "acetylsalicylic_acid",
       "level": "L5",
-      "indication_count": 8
+      "indication_count": 7
     },
     {
       "name": "Acitretin",
@@ -126,8 +126,8 @@
     {
       "name": "Albendazole",
       "slug": "albendazole",
-      "level": "L2",
-      "indication_count": 3
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Alfacalcidol",
@@ -175,13 +175,13 @@
       "name": "Alprazolam",
       "slug": "alprazolam",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Alprostadil",
       "slug": "alprostadil",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Alteplase",
@@ -253,7 +253,7 @@
       "name": "Amiodarone",
       "slug": "amiodarone",
       "level": "L4",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Amlodipine",
@@ -349,7 +349,7 @@
       "name": "Aripiprazole",
       "slug": "aripiprazole",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Armodafinil",
@@ -373,13 +373,13 @@
       "name": "Ascorbic Acid",
       "slug": "ascorbic_acid",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Asenapine",
       "slug": "asenapine",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Astemizole",
@@ -571,7 +571,7 @@
       "name": "Betamethasone",
       "slug": "betamethasone",
       "level": "L2",
-      "indication_count": 8
+      "indication_count": 7
     },
     {
       "name": "Betaxolol",
@@ -613,7 +613,7 @@
       "name": "Bleomycin",
       "slug": "bleomycin",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Blonanserin",
@@ -877,7 +877,7 @@
       "name": "Ceftazidime",
       "slug": "ceftazidime",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Ceftizoxime",
@@ -889,13 +889,13 @@
       "name": "Ceftriaxone",
       "slug": "ceftriaxone",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 5
     },
     {
       "name": "Cefuroxime",
       "slug": "cefuroxime",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Celecoxib",
@@ -937,13 +937,13 @@
       "name": "Chlorambucil",
       "slug": "chlorambucil",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 5
     },
     {
       "name": "Chloramphenicol",
       "slug": "chloramphenicol",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Chlordiazepoxide",
@@ -1003,7 +1003,7 @@
       "name": "Choline Salicylate",
       "slug": "choline_salicylate",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Chromium",
@@ -1027,7 +1027,7 @@
       "name": "Ciprofloxacin",
       "slug": "ciprofloxacin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Cisapride",
@@ -1075,7 +1075,7 @@
       "name": "Clidinium",
       "slug": "clidinium",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Climbazole",
@@ -1153,13 +1153,13 @@
       "name": "Clotrimazole",
       "slug": "clotrimazole",
       "level": "L4",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Clozapine",
       "slug": "clozapine",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Codeine",
@@ -1207,7 +1207,7 @@
       "name": "Cyclandelate",
       "slug": "cyclandelate",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Cyclobenzaprine",
@@ -1225,7 +1225,7 @@
       "name": "Cyclophosphamide",
       "slug": "cyclophosphamide",
       "level": "L5",
-      "indication_count": 4
+      "indication_count": 2
     },
     {
       "name": "Cycloserine",
@@ -1297,7 +1297,7 @@
       "name": "Danazol",
       "slug": "danazol",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Dapoxetine",
@@ -1410,8 +1410,8 @@
     {
       "name": "Dexamethasone",
       "slug": "dexamethasone",
-      "level": "L2",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Dexchlorpheniramine",
@@ -1566,8 +1566,8 @@
     {
       "name": "Dipyridamole",
       "slug": "dipyridamole",
-      "level": "L4",
-      "indication_count": 8
+      "level": "L5",
+      "indication_count": 6
     },
     {
       "name": "Disopyramide",
@@ -1831,13 +1831,13 @@
       "name": "Ertapenem",
       "slug": "ertapenem",
       "level": "L5",
-      "indication_count": 2
+      "indication_count": 1
     },
     {
       "name": "Erythromycin",
       "slug": "erythromycin",
       "level": "L5",
-      "indication_count": 5
+      "indication_count": 4
     },
     {
       "name": "Eslicarbazepine",
@@ -1987,7 +1987,7 @@
       "name": "Fenticonazole",
       "slug": "fenticonazole",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 4
     },
     {
       "name": "Ferric Carboxymaltose",
@@ -2083,7 +2083,7 @@
       "name": "Fluocinolone Acetonide",
       "slug": "fluocinolone_acetonide",
       "level": "L5",
-      "indication_count": 4
+      "indication_count": 1
     },
     {
       "name": "Fluorescein",
@@ -2107,7 +2107,7 @@
       "name": "Fluoxetine",
       "slug": "fluoxetine",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Flupentixol",
@@ -2137,7 +2137,7 @@
       "name": "Flurbiprofen",
       "slug": "flurbiprofen",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Flutamide",
@@ -2161,7 +2161,7 @@
       "name": "Fluvoxamine",
       "slug": "fluvoxamine",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Folic Acid",
@@ -2173,7 +2173,7 @@
       "name": "Formoterol",
       "slug": "formoterol",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Fosaprepitant",
@@ -2256,8 +2256,8 @@
     {
       "name": "Gimeracil",
       "slug": "gimeracil",
-      "level": "L1",
-      "indication_count": 7
+      "level": "L5",
+      "indication_count": 6
     },
     {
       "name": "Glatiramer",
@@ -2341,7 +2341,7 @@
       "name": "Haloperidol",
       "slug": "haloperidol",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Halothane",
@@ -2365,7 +2365,7 @@
       "name": "Hyaluronic Acid",
       "slug": "hyaluronic_acid",
       "level": "L1",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Hyaluronidase",
@@ -2395,7 +2395,7 @@
       "name": "Hydroxyurea",
       "slug": "hydroxyurea",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 6
     },
     {
       "name": "Hydroxyzine",
@@ -2467,7 +2467,7 @@
       "name": "Imipenem",
       "slug": "imipenem",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Imipramine",
@@ -2587,7 +2587,7 @@
       "name": "Iron",
       "slug": "iron",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Isoflurane",
@@ -2827,7 +2827,7 @@
       "name": "Levofloxacin",
       "slug": "levofloxacin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Levomilnacipran",
@@ -2845,7 +2845,7 @@
       "name": "Levosalbutamol",
       "slug": "levosalbutamol",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Lidocaine",
@@ -2893,7 +2893,7 @@
       "name": "Lomustine",
       "slug": "lomustine",
       "level": "L2",
-      "indication_count": 10
+      "indication_count": 3
     },
     {
       "name": "Loperamide",
@@ -2958,8 +2958,8 @@
     {
       "name": "Luliconazole",
       "slug": "luliconazole",
-      "level": "L3",
-      "indication_count": 3
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Lurasidone",
@@ -3013,13 +3013,13 @@
       "name": "Medroxyprogesterone Acetate",
       "slug": "medroxyprogesterone_acetate",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 6
     },
     {
       "name": "Mefenamic Acid",
       "slug": "mefenamic_acid",
       "level": "L3",
-      "indication_count": 7
+      "indication_count": 6
     },
     {
       "name": "Megestrol Acetate",
@@ -3067,7 +3067,7 @@
       "name": "Meropenem",
       "slug": "meropenem",
       "level": "L4",
-      "indication_count": 9
+      "indication_count": 7
     },
     {
       "name": "Mesalazine",
@@ -3144,8 +3144,8 @@
     {
       "name": "Methylprednisolone",
       "slug": "methylprednisolone",
-      "level": "L3",
-      "indication_count": 9
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Metoclopramide",
@@ -3265,7 +3265,7 @@
       "name": "Mitomycin",
       "slug": "mitomycin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 7
     },
     {
       "name": "Mitoxantrone",
@@ -3301,7 +3301,7 @@
       "name": "Montelukast",
       "slug": "montelukast",
       "level": "L2",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Morphine",
@@ -3384,8 +3384,8 @@
     {
       "name": "Natamycin",
       "slug": "natamycin",
-      "level": "L1",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 6
     },
     {
       "name": "Nebivolol",
@@ -3522,8 +3522,8 @@
     {
       "name": "Norethisterone",
       "slug": "norethisterone",
-      "level": "L4",
-      "indication_count": 1
+      "level": "N/A",
+      "indication_count": 0
     },
     {
       "name": "Norfloxacin",
@@ -3540,8 +3540,8 @@
     {
       "name": "Nystatin",
       "slug": "nystatin",
-      "level": "L3",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Obeticholic Acid",
@@ -3595,7 +3595,7 @@
       "name": "Omalizumab",
       "slug": "omalizumab",
       "level": "L4",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Omeprazole",
@@ -3607,7 +3607,7 @@
       "name": "Orciprenaline",
       "slug": "orciprenaline",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 6
     },
     {
       "name": "Orlistat",
@@ -3666,8 +3666,8 @@
     {
       "name": "Oxyphenbutazone",
       "slug": "oxyphenbutazone",
-      "level": "L3",
-      "indication_count": 3
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Oxyphenonium",
@@ -3840,8 +3840,8 @@
     {
       "name": "Phenindione",
       "slug": "phenindione",
-      "level": "L5",
-      "indication_count": 1
+      "level": "N/A",
+      "indication_count": 0
     },
     {
       "name": "Pheniramine",
@@ -4003,7 +4003,7 @@
       "name": "Potassium Citrate",
       "slug": "potassium_citrate",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Potassium Iodide",
@@ -4093,7 +4093,7 @@
       "name": "Progesterone",
       "slug": "progesterone",
       "level": "L2",
-      "indication_count": 7
+      "indication_count": 6
     },
     {
       "name": "Propafenone",
@@ -4303,7 +4303,7 @@
       "name": "Riluzole",
       "slug": "riluzole",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Rimonabant",
@@ -4321,7 +4321,7 @@
       "name": "Risperidone",
       "slug": "risperidone",
       "level": "L5",
-      "indication_count": 5
+      "indication_count": 4
     },
     {
       "name": "Ritonavir",
@@ -4417,7 +4417,7 @@
       "name": "Salbutamol",
       "slug": "salbutamol",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Salicylic Acid",
@@ -4428,8 +4428,8 @@
     {
       "name": "Salmeterol",
       "slug": "salmeterol",
-      "level": "L1",
-      "indication_count": 5
+      "level": "L5",
+      "indication_count": 3
     },
     {
       "name": "Saquinavir",
@@ -4441,7 +4441,7 @@
       "name": "Secnidazole",
       "slug": "secnidazole",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 6
     },
     {
       "name": "Selegiline",
@@ -4465,13 +4465,13 @@
       "name": "Sertaconazole",
       "slug": "sertaconazole",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Sertraline",
       "slug": "sertraline",
       "level": "L5",
-      "indication_count": 8
+      "indication_count": 7
     },
     {
       "name": "Sevoflurane",
@@ -4501,7 +4501,7 @@
       "name": "Sirolimus",
       "slug": "sirolimus",
       "level": "L3",
-      "indication_count": 7
+      "indication_count": 6
     },
     {
       "name": "Sodium Acetate",
@@ -4572,8 +4572,8 @@
     {
       "name": "Stanozolol",
       "slug": "stanozolol",
-      "level": "L3",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 9
     },
     {
       "name": "Stavudine",
@@ -4692,8 +4692,8 @@
     {
       "name": "Tegafur",
       "slug": "tegafur",
-      "level": "L1",
-      "indication_count": 10
+      "level": "L5",
+      "indication_count": 8
     },
     {
       "name": "Tegaserod",
@@ -4764,8 +4764,8 @@
     {
       "name": "Terbutaline",
       "slug": "terbutaline",
-      "level": "L1",
-      "indication_count": 3
+      "level": "L5",
+      "indication_count": 2
     },
     {
       "name": "Terfenadine",
@@ -4867,19 +4867,19 @@
       "name": "Tioconazole",
       "slug": "tioconazole",
       "level": "L5",
-      "indication_count": 3
+      "indication_count": 2
     },
     {
       "name": "Tiotropium",
       "slug": "tiotropium",
-      "level": "L1",
-      "indication_count": 5
+      "level": "L5",
+      "indication_count": 4
     },
     {
       "name": "Tipiracil",
       "slug": "tipiracil",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Tizanidine",
@@ -5016,8 +5016,8 @@
     {
       "name": "Triclofos",
       "slug": "triclofos",
-      "level": "L5",
-      "indication_count": 1
+      "level": "N/A",
+      "indication_count": 0
     },
     {
       "name": "Trifluoperazine",
@@ -5059,7 +5059,7 @@
       "name": "Triptorelin",
       "slug": "triptorelin",
       "level": "L1",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Tropicamide",
@@ -5077,7 +5077,7 @@
       "name": "Tulobuterol",
       "slug": "tulobuterol",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 4
     },
     {
       "name": "Tyrosine",
@@ -5100,8 +5100,8 @@
     {
       "name": "Valdecoxib",
       "slug": "valdecoxib",
-      "level": "L2",
-      "indication_count": 1
+      "level": "N/A",
+      "indication_count": 0
     },
     {
       "name": "Valproic Acid",
@@ -5239,7 +5239,7 @@
       "name": "Zafirlukast",
       "slug": "zafirlukast",
       "level": "L5",
-      "indication_count": 2
+      "indication_count": 1
     },
     {
       "name": "Zaltoprofen",
@@ -5287,7 +5287,7 @@
       "name": "Ziprasidone",
       "slug": "ziprasidone",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Zolmitriptan",

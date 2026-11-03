@@ -4,17 +4,17 @@ title: Sertaconazole
 parent: Model Prediction Only (L5)
 nav_order: 769
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 monitor_inn: "Sertaconazole"
-predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease", "pityriasis versicolor"]
-last_modified_at: 2026-10-30
-description: "Sertaconazole: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis"
+predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
+last_modified_at: 2026-11-03
+description: "Sertaconazole: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sertaconazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Sertaconazole: From Tinea Pedis to Ectothrix Infectious Disease
+## Sertaconazole: Ectothrix infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,7 +48,7 @@ Two related predictions were also generated: endothrix infectious disease (no di
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis (relation recorded in the knowledge graph; the licence records provide no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ectothrix infectious disease |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
@@ -67,7 +67,7 @@ Ectothrix infection is a dermatophyte infection of the hair (tinea capitis, typi
 
 The main limitation is delivery. Hair-shaft and follicular infections are poorly reached by topical products, and treatment guidelines generally favour systemic therapy. The high TxGNN score is a computational prediction only. Closely related is endothrix infection (score 0.9956), with the same mechanistic reasoning and the same penetration limitation.
 
-The third prediction, **pityriasis versicolor** (score 0.9945), is better supported. It is caused by *Malassezia* yeasts in the stratum corneum, a superficial and topically accessible target. One caution is that the literature describes sertaconazole as already used for this condition in some regions, so the repurposing novelty is limited. Because the evidence for it sits in a different disease from the headline prediction, it is described separately below.
+It is caused by *Malassezia* yeasts in the stratum corneum, a superficial and topically accessible target. One caution is that the literature describes sertaconazole as already used for this condition in some regions, so the repurposing novelty is limited. Because the evidence for it sits in a different disease from the headline prediction, it is described separately below.
 
 ---
 
@@ -83,7 +83,6 @@ There is currently no related literature for ectothrix or endothrix infectious d
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1627203](https://pubmed.ncbi.nlm.nih.gov/1627203/) | 1992 | Clinical study (randomized, parallel, double-blind per abstract; 21 patients) | Arzneimittel-Forschung | Sertaconazole 1% cream compared with a second treatment in 21 patients with pityriasis versicolor; efficacy and safety assessed |
 | [19275277](https://pubmed.ncbi.nlm.nih.gov/19275277/) | 2009 | Review | Drugs | Sertaconazole use in superficial mycoses in dermatology and gynaecology; indicated in the EU for several dermatophytoses, pityriasis versicolor and others, and in the US for tinea pedis only |
 | [15954850](https://pubmed.ncbi.nlm.nih.gov/15954850/) | 2005 | Review | Expert Rev Anti Infect Ther | Updated review of topical sertaconazole; in vitro activity and clinical experience in dermatophytosis and tinea versicolor |
 | [25968082](https://pubmed.ncbi.nlm.nih.gov/25968082/) | 2015 | Review | Der Hautarzt | Update on cutaneous *Malassezia* infections, including pityriasis versicolor (general background) |
@@ -119,7 +118,7 @@ Please refer to the package insert for safety information. No drug interactions 
 **Decision: Hold**
 
 **Rationale:**
-The ectothrix prediction has no supporting trials or publications, so its evidence level is L5. Topical sertaconazole is also unlikely to reach infected hair shafts adequately. The pityriasis versicolor prediction has more support but is a different disease and is possibly already covered by existing practice in some regions.
+The ectothrix prediction has no supporting trials or publications, so its evidence level is L5. Topical sertaconazole is also unlikely to reach infected hair shafts adequately.
 
 **To proceed, the following is needed:**
 - Direct clinical or in vitro data of sertaconazole against ectothrix and endothrix dermatophytes (e.g. *Microsporum*, *Trichophyton*)

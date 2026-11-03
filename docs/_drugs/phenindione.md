@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Phenindione
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 661
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-30
-description: "Phenindione: predicted new indication Thrombotic disease (evidence level L3). Approved use: Not listed in the available licence data (the drug is a known oral an…"
+last_modified_at: 2026-11-03
+description: "Phenindione: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Phenindione"
-predicted_indications: ["thrombotic disease"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Phenindione
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Phenindione: From Oral Anticoagulation to Thrombotic Disease
+## Phenindione
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Phenindione is an oral indandione-class anticoagulant (vitamin K antagonist) marketed in India as Dindevan 50 mg tablets.
-The TxGNN model predicts it may be effective for **thrombotic disease**, which is essentially its historical use rather than a true new indication.
-Support comes from **no registered clinical trials** and **20 publications**, most of them older case reports, historical clinical evaluations and reviews.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the available licence data (the drug is a known oral anticoagulant) |
-| Predicted New Indication | Thrombotic disease |
-| TxGNN Prediction Score | 0.9929 |
-| Evidence Level | L5 |
+| Original Indication | Not recorded in the local data |
 | India Market Status | Listed in a compiled Indian medicine price dataset (1 of 1) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 1 (valid: 1) |
-| Recommended Decision | Hold |
-
-## Why is This Prediction Reasonable?
-
-Phenindione inhibits vitamin K epoxide reductase (VKORC1). This reduces gamma-carboxylation of clotting factors II, VII, IX and X, and of proteins C and S. Less functional clotting factor means less thrombus formation, so the predicted indication is mechanistically consistent. The mechanism-of-action field in the compiled data is empty, so this explanation relies on known pharmacology and on the target recorded in the interaction data (VKORC1).
-
-The predicted indication, thrombotic disease, is effectively the drug's established, historical use as an oral anticoagulant. This is therefore not a true repurposing candidate. The model's high score likely reflects this existing use, which the source database simply does not annotate.
-
-The published reports support this, with historical clinical evaluations from the 1950s and 1960s describing phenindione for thrombophlebitis and long-term anticoagulation. Its regulatory standing is limited: one pharmacology source notes it was discontinued in some markets because of a higher rate of severe adverse effects than warfarin, and that no US FDA or European Medicines Agency approval information exists. Individual national agencies may have granted marketing authorisation.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Of the 20 publications compiled, most are historical or low-tier. The most relevant ones are listed below.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [8037888](https://pubmed.ncbi.nlm.nih.gov/8037888/) | 1994 | Review | Drug Safety | Clinically significant drug interactions with oral anticoagulants, which are used for thrombosis prevention and treatment |
-| [41177211](https://pubmed.ncbi.nlm.nih.gov/41177211/) | 2026 | Systematic Review | Contraception | Updated review on the safety of contraception in women on anticoagulant therapy, covering bleeding and recurrent thrombosis risk |
-| [7843480](https://pubmed.ncbi.nlm.nih.gov/7843480/) | 1994 | Review | Int J Gynaecol Obstet | Low molecular weight heparin for preventing venous thromboembolism in pregnancy |
-| [407865](https://pubmed.ncbi.nlm.nih.gov/407865/) | 1977 | Case Series | Arch Mal Coeur Vaiss | 100 patients over 75 years on long-term anticoagulation, with phenindione doses reduced with age |
-| [11907960](https://pubmed.ncbi.nlm.nih.gov/11907960/) | 2001 | Case Report | Ann Dermatol Venereol | Drug hypersensitivity with fluindione, a related anticoagulant; severe immuno-allergic reactions (hepatitis, renal failure, bone marrow failure) have been described with phenindione |
-| [13162792](https://pubmed.ncbi.nlm.nih.gov/13162792/) | 1954 | Case Report | JAMA | Severe drug sensitivity reaction to phenindione |
-| [13572936](https://pubmed.ncbi.nlm.nih.gov/13572936/) | 1958 | Historical clinical evaluation | Br Med J | Clinical evaluation of phenindione (Miradon) |
-| [13632299](https://pubmed.ncbi.nlm.nih.gov/13632299/) | 1958 | Historical clinical evaluation | Medicina Panamericana | Clinical evaluation of phenylindanedione as an anticoagulant |
-| [13307153](https://pubmed.ncbi.nlm.nih.gov/13307153/) | 1956 | Review/Commentary | J Med Assoc Georgia | Commentary describing phenylindanedione as a deserving anticoagulant |
-| [14172344](https://pubmed.ncbi.nlm.nih.gov/14172344/) | 1964 | Not classified | Lancet | Plasma hypercoagulability in patients with carcinoma and after haemorrhage |
 
 ## India Market Information
 
@@ -97,18 +58,6 @@ Of the 20 publications compiled, most are historical or low-tier. The most relev
 
 Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-Thrombotic disease is essentially phenindione's established use, so the high prediction score does not represent a new repurposing opportunity. The evidence is mostly historical case reports and clinical evaluations with no registered trials, and the severe adverse-effect profile relative to warfarin and the missing package insert safety data are unresolved.
-
-**To proceed, the following is needed:**
-- The package insert (warnings, contraindications and approved indications) for Dindevan from the India regulator or manufacturer. This is a blocking gap for safety screening.
-- Mechanism-of-action data from DrugBank to complete the mechanistic analysis
-- Confirmation of the original approved indication, so it can be decided whether this is a repurposing question at all
-- A comparative benefit-risk assessment against current anticoagulants (warfarin and direct oral anticoagulants), given the reported severe adverse effects
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

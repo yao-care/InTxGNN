@@ -4,17 +4,17 @@ title: Levofloxacin
 parent: Model Prediction Only (L5)
 nav_order: 487
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Bacterial infections (streptococcal, staphylococcal, pneumonia…"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Levofloxacin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
+description: "Levofloxacin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Levofloxacin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+## Levofloxacin: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ That evidence supports infection *prevention* in myeloma patients, not treatment
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (streptococcal, staphylococcal, pneumonia, anthrax, sinusitis, conjunctivitis, pyelonephritis, etc.) |
-| Predicted New Indication | Punctate epithelial keratoconjunctivitis (TxGNN rank 1); monoclonal gammopathy (rank 7) is the best-evidenced candidate and is the focus of the evidence sections below |
-| TxGNN Prediction Score | 0.9992 (punctate epithelial keratoconjunctivitis); 0.9981 (monoclonal gammopathy) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Punctate epithelial keratoconjunctivitis |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 for the top-ranked prediction; L1 for monoclonal gammopathy (infection prophylaxis in myeloma only); L3 for septicemic plague (preclinical) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |

@@ -4,17 +4,17 @@ title: Meropenem
 parent: Moderate Evidence (L3-L4)
 nav_order: 528
 evidence_level: L4
-indication_count: 9
-last_modified_at: 2026-10-31
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "Meropenem"
-predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "gonococcal urethritis", "Ureaplasma urethritis"]
+predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Meropenem
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---

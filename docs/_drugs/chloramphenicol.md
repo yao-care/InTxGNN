@@ -4,17 +4,17 @@ title: Chloramphenicol
 parent: Model Prediction Only (L5)
 nav_order: 170
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Chloramphenicol"
-predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-30
-description: "Chloramphenicol: predicted new indication conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-11-03
+description: "Chloramphenicol: predicted new indication Diffuse scleroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Chloramphenicol: Bacterial ribosome (50S) inhibitor antibiotic → conjunctivitis
+## Chloramphenicol: Diffuse scleroderma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Chloramphenicol is a broad-spectrum bacteriostatic antibiotic that blocks protein synthesis in bacteria.
-The TxGNN model predicts it may be useful for **conjunctivitis**,
-and the data compiled for this report include **no registered clinical trials** and **19 publications**, mostly reviews, commentaries and older comparative studies of topical eye use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | conjunctivitis |
-| TxGNN Prediction Score | 0.9966 |
+| Predicted New Indication | Diffuse scleroderma |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
@@ -72,13 +70,11 @@ Currently no related clinical trials registered.
 |------|-----|------|------|---------|
 | [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Interventions to prevent ophthalmia neonatorum (neonatal conjunctivitis) |
 | [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | Comparative clinical study | Curr Ther Res | Moxifloxacin compared with chloramphenicol for bacterial eye infections |
-| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | Randomized single-blind comparison | Acta Ophthalmol | Fusidic acid vs chloramphenicol drops in acute purulent conjunctivitis: success 84% vs 81% |
 | [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | Open randomized comparison | Acta Ophthalmol | Fusidic acid, chloramphenicol and framycetin drops in Tanzania; success 93%, 48% and 74% respectively |
 | [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | Review | Drugs | Comparative review of topical ophthalmic antibacterials |
 | [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | Safety review | Drug Saf | Debated link between ocular chloramphenicol and aplastic anaemia |
 | [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | Review/commentary | Eye (Lond) | Appropriate use of topical chloramphenicol |
 | [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | Review | Clin Pharmacokinet | Treatment of ocular infections with topical antibacterials |
-| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | Clinical observation | J Hyg (Lond) | Prior chloramphenicol drops delayed symptoms in chlamydial neonatal conjunctivitis, but swabs stayed positive in 85% |
 | [25833086](https://pubmed.ncbi.nlm.nih.gov/25833086/) | 2015 | Commentary | Clin Exp Ophthalmol | Over-the-counter chloramphenicol use |
 
 ## India Market Information

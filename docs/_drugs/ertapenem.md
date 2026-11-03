@@ -4,17 +4,17 @@ title: Ertapenem
 parent: Model Prediction Only (L5)
 nav_order: 320
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-31
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "Ertapenem"
-predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection"]
+predicted_indications: ["bacterial arthritis"]
 description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ertapenem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 Ertapenem is a broad-spectrum carbapenem antibiotic, originally used to treat bacterial infections such as bacterial pneumonia, streptococcal pneumonia and Peptostreptococcus infections.
 The TxGNN model (deep learning) predicts it may be effective for **bacterial arthritis** (score 0.9972), but the data compiled for this report show **no registered clinical trials** and only **case-level and indirect literature** for this indication.
-A second prediction, **Staphylococcus aureus infection**, has stronger support (**2 clinical trials** and **19 publications**), mainly for ertapenem combined with cefazolin.
 
 ## Quick Overview
 
@@ -60,13 +59,12 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 The original indications (pneumonia) and the predicted indication (bacterial arthritis) are both bacterial infections. This is therefore largely an extension within the drug's antibacterial class rather than a true repurposing. The biological link is plausible and supported by individual case reports, but the evidence is not specific to this indication. The high TxGNN score is a computational prediction only.
 
-A second candidate, **Staphylococcus aureus infection** (score 0.9928), has a more specific rationale. Ertapenem alone has limited anti-staphylococcal activity, but combined with cefazolin it shows synergy against methicillin-susceptible S. aureus (MSSA). The proposed explanation is complementary penicillin-binding protein saturation. This combination has been used as salvage therapy for persistent MSSA bacteremia. It is a combination-therapy rationale, not monotherapy.
+Ertapenem alone has limited anti-staphylococcal activity, but combined with cefazolin it shows synergy against methicillin-susceptible S. aureus (MSSA). The proposed explanation is complementary penicillin-binding protein saturation. This combination has been used as salvage therapy for persistent MSSA bacteremia. It is a combination-therapy rationale, not monotherapy.
 
 ## Clinical Trial Evidence
 
 **Bacterial arthritis:** Currently no related clinical trials registered.
 
-**Staphylococcus aureus infection (second prediction):**
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -86,7 +84,6 @@ A second candidate, **Staphylococcus aureus infection** (score 0.9928), has a mo
 | [37578166](https://pubmed.ncbi.nlm.nih.gov/37578166/) | 2023 | Case report with review | J Investig Med High Impact Case Rep | Prevotella bivia septic arthritis in an immunocompetent adult |
 | [38924836](https://pubmed.ncbi.nlm.nih.gov/38924836/) | 2024 | In vitro | Diagn Microbiol Infect Dis | Auranofin restores ertapenem susceptibility in carbapenem-resistant E. coli (indirect) |
 
-**Staphylococcus aureus infection (second prediction):**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

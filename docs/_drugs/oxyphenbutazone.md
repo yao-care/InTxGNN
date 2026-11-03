@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oxyphenbutazone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 632
-evidence_level: L3
-indication_count: 3
-last_modified_at: 2026-10-30
-description: "Oxyphenbutazone: predicted new indication Rheumatoid arthritis (evidence level L3). Approved use: Not stated in the Indian licence records"
+evidence_level: L5
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "Oxyphenbutazone"
-predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+description: "Oxyphenbutazone: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Oxyphenbutazone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Oxyphenbutazone: From Rheumatic Disorders (Historical NSAID Use) to Rheumatoid Arthritis
+## Oxyphenbutazone: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Oxyphenbutazone is a pyrazolone non-steroidal anti-inflammatory drug (NSAID) and a metabolite of phenylbutazone, marketed in India as 100 mg tablets.
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**, supported by **no registered clinical trials** and **20 publications**, mostly historical (1960s-1980s) clinical reports and reviews.
 This is largely a rediscovery of a historical use rather than a novel repurposing, and the drug's blood toxicity is the main barrier.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Indian licence records |
-| Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 0.9948 |
-| Evidence Level | L3 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| TxGNN Prediction Score | 0.9907 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (3 of 3) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 3 (valid: 3) |
 | Recommended Decision | Hold |
@@ -60,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link between the drug's anti-inflammatory use and rheumatoid arthritis is direct. Oxyphenbutazone and phenylbutazone were used for rheumatic disease for decades, and the literature includes placebo-controlled and comparator trials in rheumatoid arthritis. A laboratory study also found that a related compound, 4-hydroxy-oxyphenbutazone, strongly inhibits cytokine production, and it was reported to be in phase II trials as an immunosuppressant in rheumatoid arthritis.
 
-The predicted indications also include two lower-ranked results. **Gout** (score 0.9905, evidence level L3) is supported only by historical reports and reviews. **Colobomatous microphthalmia-rhizomelic dysplasia syndrome** (score 0.9907, evidence level L5) has no plausible mechanistic link and no supporting studies, so it is most likely a computational artifact.
+The predicted indications also include two lower-ranked results. **Gout** (score 0.9907, evidence level L3) is supported only by historical reports and reviews. **Colobomatous microphthalmia-rhizomelic dysplasia syndrome** (score 0.9907, evidence level L5) has no plausible mechanistic link and no supporting studies, so it is most likely a computational artifact.
 
 ## Clinical Trial Evidence
 

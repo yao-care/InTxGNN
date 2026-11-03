@@ -4,17 +4,17 @@ title: Medroxyprogesterone Acetate
 parent: Model Prediction Only (L5)
 nav_order: 518
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-31
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "Medroxyprogesterone acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Medroxyprogesterone Acetate: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Medroxyprogesterone Acetate: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Medroxyprogesterone Acetate: Amenorrhea (disease)
+## Medroxyprogesterone Acetate: Breast fibrocystic disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,8 +49,8 @@ The evidence is therefore mainly model-based and mechanistic.
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Amenorrhea (disease) |
-| TxGNN Prediction Score | 1.0000 |
+| Predicted New Indication | Breast fibrocystic disease |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |

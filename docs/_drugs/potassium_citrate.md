@@ -4,17 +4,17 @@ title: Potassium Citrate
 parent: Model Prediction Only (L5)
 nav_order: 690
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Potassium citrate"
-predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "nephrolithiasis", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
-last_modified_at: 2026-10-31
-description: "Potassium Citrate: predicted new indication Familial visceral myopathy (evidence level L5). Approved use: Potassium deficiency disease, renal tubular acidosis…"
+predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
+last_modified_at: 2026-11-03
+description: "Potassium Citrate: predicted new indication Familial visceral myopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Potassium Citrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Potassium Citrate: From Potassium Deficiency Disease to Familial Visceral Myopathy
+## Potassium Citrate: Familial visceral myopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,7 +48,7 @@ The TxGNN model predicts it may be effective for **familial visceral myopathy**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Potassium deficiency disease, renal tubular acidosis, acute urate nephropathy (relations recorded in the knowledge graph; the licence records contain no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Familial visceral myopathy |
 | TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
@@ -123,7 +123,7 @@ The prediction rests only on the model score. There are no trials or publication
 - Package insert warnings and contraindications from the India licence holders
 - Confirmation of the approved indications in the licence records
 
-**Note on other predictions:** The same analysis ranks **nephrolithiasis** (kidney stones) fourth, with several directly relevant trials, including a completed Phase 3 comparison against potassium phosphate in absorptive hypercalciuria, and a coherent mechanism of raising urinary pH and citrate. It is a far stronger candidate and should be evaluated as a separate report. Cautions would include small trial sizes, possible promotion of calcium phosphate stones by higher urinary pH, and monitoring of potassium and renal function.
+It is a far stronger candidate and should be evaluated as a separate report. Cautions would include small trial sizes, possible promotion of calcium phosphate stones by higher urinary pH, and monitoring of potassium and renal function.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

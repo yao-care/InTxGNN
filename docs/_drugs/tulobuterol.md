@@ -4,17 +4,17 @@ title: Tulobuterol
 parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-30
-description: "Tulobuterol: predicted new indication Bronchitis (evidence level L4). Approved use: Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema"
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "Tulobuterol"
-predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tulobuterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tulobuterol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Tulobuterol: From Asthma to Bronchitis
+## Tulobuterol: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tulobuterol is a beta-2 adrenergic agonist bronchodilator, originally used to treat asthma and pulmonary emphysema.
-The TxGNN model predicts it may be effective for **bronchitis** with a very high score, but so far only **2 publications** (one 1987 mucociliary clearance study and one 1985 review) bear on this indication, and **no clinical trials** are registered for it.
 This is a computational prediction with limited direct clinical support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma, intrinsic asthma, allergic asthma, pulmonary emphysema |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 1.0000 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (9 of 9) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 9 (valid: 9) |
@@ -118,7 +117,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-For bronchitis, the evidence is limited to a 1987 mucociliary clearance study and a 1985 review, with no registered clinical trials, so the prediction rests mainly on the model score. The related indications of obstructive lung disease and COPD have stronger support (L3) but are largely on-label.
+The related indications of obstructive lung disease and COPD have stronger support (L3) but are largely on-label.
 
 **To proceed, the following is needed:**
 - Bronchitis-specific clinical evidence, such as a controlled trial of the tulobuterol patch in chronic bronchitis with airflow obstruction

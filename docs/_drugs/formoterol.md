@@ -4,17 +4,17 @@ title: Formoterol
 parent: Model Prediction Only (L5)
 nav_order: 378
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-31
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Formoterol"
-predicted_indications: ["respiratory malformation", "bronchitis", "Rienhoff syndrome"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome"]
 description: "Formoterol: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Formoterol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---

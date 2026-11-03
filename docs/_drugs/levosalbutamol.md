@@ -4,17 +4,17 @@ title: Levosalbutamol
 parent: Model Prediction Only (L5)
 nav_order: 490
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Asthma, bronchial disease"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Levosalbutamol"
-predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria", "obstructive lung disease"]
+predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria"]
+description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levosalbutamol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Levosalbutamol: From Asthma to Nasal Cavity Disease
+## Levosalbutamol: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Levosalbutamol is the active (R)-enantiomer of salbutamol, a bronchodilator originally used to treat asthma and bronchial disease.
 The TxGNN model's top-ranked prediction is **Nasal Cavity Disease**, but this prediction rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
-The best-supported direction among the predictions is **Obstructive Lung Disease** (1 withdrawn trial and 15 publications), which largely overlaps with the existing indication.
 
 ---
 
@@ -48,7 +47,7 @@ The best-supported direction among the predictions is **Obstructive Lung Disease
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma, bronchial disease (approved indication text is not listed in the registration records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
@@ -66,7 +65,6 @@ For nasal cavity disease, the link is speculative. Any benefit would have to com
 
 The other predictions follow the same pattern. Pharyngitis, acute laryngopharyngitis, anorectal stricture, proctitis, anal polyp and allergic urticaria have no trials or publications, and no plausible mechanism. Some of these, such as anorectal stricture, are likely model artifacts. Two predictions have more support:
 - **Bronchitis** (score 0.9997): bronchodilation is plausible, and one 2023 publication studied a fixed-dose combination of ambroxol, guaifenesin and levosalbutamol for productive cough in acute bronchitis. The contribution of levosalbutamol alone cannot be separated out (Evidence Level L4).
-- **Obstructive lung disease** (score 0.9985): this has a strong mechanistic fit, but it is mostly an extension of the existing asthma and bronchial indication rather than true repurposing (Evidence Level L3).
 
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tiotropium
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 839
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-31
+evidence_level: L5
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "Tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-description: "Tiotropium: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Not recorded in the local data"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L1** | Predicted Indications: **5**
 
 </div>
 
-## Tiotropium: Obstructive lung disease
+## Tiotropium: Respiratory malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tiotropium is a long-acting inhaled anticholinergic (muscarinic antagonist) bronchodilator, originally used for bronchitis, asthma and pulmonary emphysema.
-The TxGNN model predicts it may be effective for **obstructive lung disease**, an umbrella category that includes COPD and asthma. This is largely an on-label or near-label indication rather than true repurposing.
+This is largely an on-label or near-label indication rather than true repurposing.
 The data compiled for this report show **38 clinical trials** (many Phase 3, completed) and **20 publications** for this prediction, including a randomized trial in the *New England Journal of Medicine*.
 
 ---
@@ -49,9 +49,9 @@ The data compiled for this report show **38 clinical trials** (many Phase 3, com
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L1 |
+| Predicted New Indication | Respiratory malformation |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |

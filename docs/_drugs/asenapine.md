@@ -4,17 +4,17 @@ title: Asenapine
 parent: Model Prediction Only (L5)
 nav_order: 74
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-30
-description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Manic bipolar affective disorder"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Asenapine"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "major affective disorder"]
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Asenapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Asenapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Asenapine: From Bipolar Disorder and Schizophrenia to Retinal dystrophy with or without extraocular anomalies
+## Asenapine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Asenapine is a sublingual atypical antipsychotic, originally used to treat manic bipolar affective disorder, bipolar disorder and schizophrenia.
 The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies** (score 0.9977), but it has **no clinical trials and no publications** behind it.
-The only prediction with literature support is **major affective disorder** (**19 publications**, no trial records), and it largely overlaps with asenapine's existing approved uses, so it is not a true new indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Manic bipolar affective disorder; bipolar disorder; schizophrenia (the licence records in India contain no approved-indication text) |
-| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies (rank 1) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 (model prediction only) |
 | India Market Status | Listed in a compiled Indian medicine price dataset (7 of 7) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
-For reference, the best-supported prediction is major affective disorder (score 0.9957, Evidence Level L1 inferred from a meta-analysis and reviews, decision: Proceed with Guardrails). This is an on-label use and is discussed below.
+This is an on-label use and is discussed below.
 
 ## Why is This Prediction Reasonable?
 
@@ -64,7 +63,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 **Other top-ranked predictions (ranks 2-9):** Congenital disorder of glycosylation, hydranencephaly, syndromic myopia, X-linked myopia, Charcot-Marie-Tooth type 1G, a polymicrogyria syndrome, X-linked female-limited myopia and atypical glycine encephalopathy. All are rare congenital or genetic conditions. None has a plausible pharmacological link to a receptor antagonist, and none has trials or literature. Dopaminergic signalling plays a general role in myopia biology, but asenapine is an antagonist and no evidence supports use in these forms.
 
-**Major affective disorder (rank 10):** This overlaps with asenapine's established use in manic and mixed episodes of bipolar I disorder. Its combined 5-HT2A/D2 antagonism with broad receptor activity is consistent with antimanic efficacy. This is better viewed as a validation of the model than as a new repurposing opportunity.
+Its combined 5-HT2A/D2 antagonism with broad receptor activity is consistent with antimanic efficacy. This is better viewed as a validation of the model than as a new repurposing opportunity.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +71,7 @@ Currently no related clinical trials registered for any of the predicted indicat
 
 ## Literature Evidence
 
-No literature is available for the top-ranked prediction (retinal dystrophy). The table below lists the most relevant publications for the best-evidenced prediction, major affective disorder.
+No literature is available for the top-ranked prediction (retinal dystrophy).
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -119,7 +118,7 @@ Package insert warnings were not available in the data compiled for this report;
 **Decision: Hold** (for the top-ranked prediction, retinal dystrophy, and for ranks 2-9)
 
 **Rationale:**
-The top predictions rest only on scores from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence, with no trials, no literature and no plausible mechanism. The one prediction with supporting literature, major affective disorder, is essentially an existing approved use (Proceed with Guardrails), so it validates the model rather than offering a new opportunity. Its L1 level is inferred from a meta-analysis and reviews rather than direct trial records and should be verified.
+The top predictions rest only on scores from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence, with no trials, no literature and no plausible mechanism. Its L1 level is inferred from a meta-analysis and reviews rather than direct trial records and should be verified.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for asenapine

@@ -4,17 +4,17 @@ title: Cyclandelate
 parent: Model Prediction Only (L5)
 nav_order: 215
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-30
+indication_count: 9
+last_modified_at: 2026-11-03
 description: "Cyclandelate: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not stated in the data (vasodilator used in peripheral and cerebral v…"
 monitor_inn: "Cyclandelate"
-predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
+predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis"]
 ---
 
 # Cyclandelate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -63,7 +63,6 @@ Prinzmetal angina is driven by coronary vasospasm, so a vasodilator that relaxes
 The lower-ranked predictions differ in how well they are supported:
 - **Migraine disorder** has the most substantial evidence. Cyclandelate inhibits calcium-induced contraction of vascular smooth muscle, platelet aggregation, and serotonin release from platelets, which suggests prophylactic potential. Several randomized studies compare it with placebo, pizotifen, propranolol and flunarizine.
 - **Raynaud disease** is plausible through relief of vasospasm. The only evidence is a 1965 general paper on peripheral circulatory disease.
-- **Peripheral vascular disease** has an established rationale, but the clinical results conflict.
 - **Pulmonary hypertension, gout, kyphoscoliotic heart disease, benign prostatic hyperplasia and exostosis** have no supporting data. For gout and exostosis, no plausible mechanistic link was identified.
 
 ## Clinical Trial Evidence
@@ -85,7 +84,6 @@ No literature is available for Prinzmetal angina. The evidence below is for the 
 | [11121368](https://pubmed.ncbi.nlm.nih.gov/11121368/) | 2000 | Retrospective qEEG analysis | Eur J Med Res | Links qEEG findings to clinical drug response in migraine |
 
 Evidence for other predictions is limited:
-- **Peripheral vascular disease:** [6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/) (1984, Angiology) is a double-blind crossover trial in 12 claudication patients that found **no effect** of cyclandelate. [853204](https://pubmed.ncbi.nlm.nih.gov/853204/) (1977, J Am Geriatr Soc) is a 39-patient crossover study of circulatory measurements and exercise tolerance. [10952473](https://pubmed.ncbi.nlm.nih.gov/10952473/) (2000, Eur J Clin Pharmacol) is a review questioning the usefulness of oral vasoactive drugs in claudication.
 - **Raynaud disease:** [14258038](https://pubmed.ncbi.nlm.nih.gov/14258038/) (1965, Angiology) is a general review of peripheral circulatory diseases and is indirect.
 
 ## India Market Information

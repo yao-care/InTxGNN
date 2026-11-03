@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: Model Prediction Only (L5)
 nav_order: 372
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,6 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 Flurbiprofen is a nonsteroidal anti-inflammatory drug (NSAID) originally used for rheumatoid arthritis, osteoarthritis and related joint disorders.
 The TxGNN model's top-ranked prediction is **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder, but **no clinical trials and no publications** support it, so it rests on the model score alone.
-A different, lower-ranked prediction, **ankylosing spondylitis**, has much stronger support and is discussed in the conclusion.
 
 ## Quick Overview
 
@@ -106,7 +105,7 @@ Please refer to the package insert for label warnings.
 **Rationale:**
 The top-ranked prediction, acromesomelic dysplasia, Hunter-Thompson type, has only a score from the TxGNN model (deep learning). It has no trials, no publications and no plausible mechanism, so it does not justify further investment.
 
-**Better-supported alternative:** The same analysis ranks **ankylosing spondylitis** eighth, with about 20 publications. These include several double-blind randomized comparisons from 1974 to 1986 against indomethacin, phenylbutazone and naproxen, which found comparable pain relief (for example [PMID 3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) and [PMID 3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/)). This is a drug-class effect, so it is not a novel repurposing, and no disease-modifying benefit has been shown. It is rated L2 and **Proceed with Guardrails**. These trials are small and old, and their phase and design should be verified.
+These include several double-blind randomized comparisons from 1974 to 1986 against indomethacin, phenylbutazone and naproxen, which found comparable pain relief (for example [PMID 3963017](https://pubmed.ncbi.nlm.nih.gov/3963017/) and [PMID 3963018](https://pubmed.ncbi.nlm.nih.gov/3963018/)). This is a drug-class effect, so it is not a novel repurposing, and no disease-modifying benefit has been shown. It is rated L2 and **Proceed with Guardrails**. These trials are small and old, and their phase and design should be verified.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data for flurbiprofen
