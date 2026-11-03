@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Sotalol. 6 predicted indications."
 permalink: /news/sotalol/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Sotalol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
+<strong>Sotalol</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Manipal Hospitals Promotes BE FAST Approach To Stroke Detection - BW Healthcare World](https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1R4c0p3VFNsMThxN3B6WWkxSE1WREpNYUlLMEY4MWRFOE5UNDd3dl9PTUtNWEgwOTNELXZPazRXTjE4Y1hBRkVqZFpCWmZUYlg4QWxfNjgxUmZXeWMxLVRUQnZvZ2doWDByRHNkOUpWZW5sV1lra01ENjA5WmUtcy1OUXhjRmFnX096Wlg2U29KeWNzVk5aZ01mN0RqNm9JRlo4NXMxRVczUmYwa2lTRXln?oc=5)
 
@@ -56,19 +56,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0
 
 ---
 
-### [Think you're too young for a stroke? Here's why doctors are concerned - Deccan Herald](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjhxSGRhckUxZnh1aWxhS0N6NDVRTVZXRk1NNldncWNsblpvUkpnUFB4eDl3Q2I1TENrRTNYN1Z3Uk1Ic0gtTU9Rc1BkT0JrSHpNUXJMRW1XY3BuV2hXU0pqSnZYUnJ4N0wwWUp3ZFhJWVlpWmRxXzhZTFhNWElYWEhJbTNwUTRlV3R0SktnRUNrY3dRUV9LWWZlMzVEbHRpcFdndVZybHFQdUwwY25V0gG_AUFVX3lxTFBuOU1UR1NsTUZGWHd6bnpYSEgwWTl0QlBqT1VtS3YtajhmLXA1RFVWVEdOWHhFNU9JTm9UMHdjcTN1X3JVMGFoQ3NJY1U1SHB1YmlaVmp3LVFkYmZIR3VyWWVMaGRLM1B1YWZjSWRraHpZU1ZNTnE0aHVLYUlTeDlwNThibzd4dVJMdHpINFBFTUhEOThmcUY1V0dyMVhWUUpFbmVYdTltMHpkN1hEYkZmYzRrVTVVRVlSMzNyYVk0?oc=5)
+### [Recreational Drugs, Steroids & Birth Control: Expert Explains Why Strokes Are Arriving Decades Earlier - Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
 
-2026-10-31 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-29 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Deccan Herald](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjhxSGRhckUxZnh1aWxhS0N6NDVRTVZXRk1NNldncWNsblpvUkpnUFB4eDl3Q2I1TENrRTNYN1Z3Uk1Ic0gtTU9Rc1BkT0JrSHpNUXJMRW1XY3BuV2hXU0pqSnZYUnJ4N0wwWUp3ZFhJWVlpWmRxXzhZTFhNWElYWEhJbTNwUTRlV3R0SktnRUNrY3dRUV9LWWZlMzVEbHRpcFdndVZybHFQdUwwY25V0gG_AUFVX3lxTFBuOU1UR1NsTUZGWHd6bnpYSEgwWTl0QlBqT1VtS3YtajhmLXA1RFVWVEdOWHhFNU9JTm9UMHdjcTN1X3JVMGFoQ3NJY1U1SHB1YmlaVmp3LVFkYmZIR3VyWWVMaGRLM1B1YWZjSWRraHpZU1ZNTnE0aHVLYUlTeDlwNThibzd4dVJMdHpINFBFTUhEOThmcUY1V0dyMVhWUUpFbmVYdTltMHpkN1hEYkZmYzRrVTVVRVlSMzNyYVk0?oc=5)
-
----
-
-### [Diabetes medication may lower heart attack and stroke risk by curbing platelet overactivation - Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2c3SWJBcEhoRWRmbVBNUjJsOVdGYmYxLUhmdF9uQmlIZ2VId2RPdGxoT25fcDdJcG1sQnc2TC1PZjB4N1hHMk80T3R6eHdjZC1LTktkWFMtdDJ0Y0J2TXF5OERITXlGSS1NZVhXZkw0UGxfXzQwTGE1Zm5HZk5ORzFhS0RaX01PV2ZZRGowdw?oc=5)
-
-2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijwFBVV95cUxQM2c3SWJBcEhoRWRmbVBNUjJsOVdGYmYxLUhmdF9uQmlIZ2VId2RPdGxoT25fcDdJcG1sQnc2TC1PZjB4N1hHMk80T3R6eHdjZC1LTktkWFMtdDJ0Y0J2TXF5OERITXlGSS1NZVhXZkw0UGxfXzQwTGE1Zm5HZk5ORzFhS0RaX01PV2ZZRGowdw?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbHJhaERLV0tmck9UTHhSWTRXdWJkeDJFM04yemp6eG9iVWNXdm5zUFVzRkF1d1dZcG1odmNKRzAwSEQ3eDA5MUlKd09mZlNZaFhZY004WGlsdy1Wb3hKclVGcmVFd0ptNndwNzkyall6bHBqZS1pSTE2OGxudHR1VExEc2RMb3pXclIzUmlTSkJLR2ZJc2dQLUs2Q3Y0ZmdxWVNTbGVwNGRTR2R0c1hMMV9WeVYtRzVGZnVqOFlVLWEtU2ExSDNTSzlfYzU5WW15Z25hanV4LXF6dklkaEVfVDlCa0lFNmNPMzRFUTdQZHZsUQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Alteplase. 6 predicted indications."
 permalink: /news/alteplase/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Alteplase News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Alteplase?">
-<strong>Alteplase</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
+<strong>Alteplase</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
+
+2026-11-02 <span class="news-indication-tag">heart disease</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
+
+---
 
 ### [Physical Activity Linked to Lower Cardiovascular Mortality in MASLD](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
 

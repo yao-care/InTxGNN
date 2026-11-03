@@ -3,9 +3,9 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 2 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 1 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # dementia (memory loss) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [The Links Between Napping And Dementia May Go Further Than We Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
 
 2026-11-02
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
-
----
-
-### [Early recognition key to spotting dementia - The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
-
-2026-10-27
-
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUwwMGtRNEJpa0U4cUVGVkNOUUdVb0xiQ1pxeksySGpzbUN3aEZ1QXFJSm9KeGptVC14ajgxVVNwNWRtZ19qOFNBMGVVMzB4ZmxJZHp4Sm1rb3BFY3lObXdiUUxNaDYxZlRMTjlaaklIN01Yb1U2YWVUX1JVX1NRd0NBM0h5MVhDLUgw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ivermectin. 9 predicted indications."
 permalink: /news/ivermectin/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Ivermectin News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="What news is there about Ivermectin?">
-<strong>Ivermectin</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Ivermectin</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ivermectin with the latest h
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Testosterone Therapy Showed No Cognitive Benefit in Menopause Review - Technology Networks](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3NpaDBJY3gzQm9zZVJyWXN5S20yd2xkaHpFeUxSVDNISFUzQm1QVnl5dnVLc2lIRW5NeGp0UkNxaEdueEhDdUdiNTYtak1rRnNiMGZfT0oteUxheEtYZkF3M2JXVW9TOHluM1NjN19ySmtHak5TQzBhc1dFY3VVbnZaNEdXemJ3V2RHeV9jaEhCb1RTOGJQcUdnbXE0NmZkMjdUT2s5cU1zb0hweXh1ZmJVSERCQ3pnZEE?oc=5)
+
+2026-11-02 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Technology Networks](https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3NpaDBJY3gzQm9zZVJyWXN5S20yd2xkaHpFeUxSVDNISFUzQm1QVnl5dnVLc2lIRW5NeGp0UkNxaEdueEhDdUdiNTYtak1rRnNiMGZfT0oteUxheEtYZkF3M2JXVW9TOHluM1NjN19ySmtHak5TQzBhc1dFY3VVbnZaNEdXemJ3V2RHeV9jaEhCb1RTOGJQcUdnbXE0NmZkMjdUT2s5cU1zb0hweXh1ZmJVSERCQ3pnZEE?oc=5)
+
+---
 
 ### [Optimizing Dry Eye Management: An Expert Consensus on the Use of Sodium Hyaluronate at Different Concentrations](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcDlONWQydkROR1VSbWlIX2lMYzh0REo0THFXY1RpQXBuSkg3ZmpRazlBa3FjOHhNbFcwS3B0ZDBpY1RzcldKQVFRQUxYbXdQSzNnZ3pRWXdxTGpERG9OaGJ3dVgzeVQxZ2VjZkZPUldQczd6NWVhUzAzV2UxM0ZrOGNYcVdPdTU0bXZINWpxMEV0X0daTVNhUTRfLVlGeWlkMTZhZWN5LXdPdm9MZkxjMzhZX3NNRnRmVEFZSGk4cWgwY3FhSUZYRE9wSzJlN0NUOTAtTDRBY1JoSXFPV3pQcHphWQ?oc=5)
 
@@ -51,11 +59,11 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcDlONWQydk
 
 ---
 
-### [Menopause Hormone Therapy Gaps Raise Questions for Primary Care - Patient Care Online](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDFhdG45RGIwVDNYeTNZeERHaXBKVlRIMmJPVmxmY1RKbzZzVUt6QUdLVkozOHN2MG90WVViczNJN0xUZWtLdFItbzFRaERDbGJsLVd2M25GRVF2VXM3aHljMTJsMjY1NjFURENzUXY4bER4aFNJZkZ5SU9WbHpqb2FheEhoOGZ0cHVPQUdmZ1BjdVlFQXJZX0hYUERYVS1mS18tdA?oc=5)
+### [New Study Finds Low Initiation, Persistence With Menopause Hormone Therapy - Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
 
-2026-10-30 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-10-28 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Patient Care Online](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWDFhdG45RGIwVDNYeTNZeERHaXBKVlRIMmJPVmxmY1RKbzZzVUt6QUdLVkozOHN2MG90WVViczNJN0xUZWtLdFItbzFRaERDbGJsLVd2M25GRVF2VXM3aHljMTJsMjY1NjFURENzUXY4bER4aFNJZkZ5SU9WbHpqb2FheEhoOGZ0cHVPQUdmZ1BjdVlFQXJZX0hYUERYVS1mS18tdA?oc=5)
+Source: [Patient Care Online](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNlg0STB3bHVabGJNalJCUlNfazlkV183V2tmMlIxZXdDTUVWNjBGZ2xteG9LbkJRWWFDdFJiTTA1aG5sSzhpQUJKWnlHaHptY19SQWxrbFE3VlM3aWNxS0NBVkZ2WXdxTExFZnhHdVNhaUkzblhPeVMtNDRlQ3dFYWNKUDQtT0hnc0JIRlduSUlxRUhvTE5kVW82cWNXVjM4STRfVEFTTWFTVUhsTGhKQTRR?oc=5)
 
 ---
 
