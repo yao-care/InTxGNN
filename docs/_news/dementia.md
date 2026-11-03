@@ -47,19 +47,19 @@ Source: [IndulgExpress](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnF
 
 ---
 
+### [Neurophet and RapidAI Partner to Expand Access to Alzheimer's and MS Treatment Monitoring](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaC1vMGsyWTA4Zkt4VnI2b0drYWFtbDJEaGQyUWNJTjZvWlA4UGFoQ0RRbUFvc2JPd1d1SXlOWnI3RE5EWHA2VEpxY2RaNEd1RTY2d1RjTE1wUzNObGJ0Um8wbUd4MWNTY3EyczJsUHhKaGtPdEZDV2J1SmNhWDhrc3U5VnBtTXhQRjlNclNPRzJ6VkthUjhZRjBHTHFvVEVreWJrVDVQUzc2UTZyM0wtZlJRUWs3cG5RYWVfV0Fn?oc=5)
+
+2026-11-02
+
+Source: [TNGlobal](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaC1vMGsyWTA4Zkt4VnI2b0drYWFtbDJEaGQyUWNJTjZvWlA4UGFoQ0RRbUFvc2JPd1d1SXlOWnI3RE5EWHA2VEpxY2RaNEd1RTY2d1RjTE1wUzNObGJ0Um8wbUd4MWNTY3EyczJsUHhKaGtPdEZDV2J1SmNhWDhrc3U5VnBtTXhQRjlNclNPRzJ6VkthUjhZRjBHTHFvVEVreWJrVDVQUzc2UTZyM0wtZlJRUWs3cG5RYWVfV0Fn?oc=5)
+
+---
+
 ### [The Links Between Napping And Dementia May Go Further Than We Realized](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
 
 2026-11-02
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5)
-
----
-
-### [More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
-
-2026-10-28
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
 
 ---
 

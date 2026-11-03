@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,15 +58,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (4)
-
-### [AI Identifies Previously Unrecognized Health Insights in Routine Sleep Studies - Medical Product Outsourcing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXBRdF9UM21rM3U0UFIzZ2FTTFdZbmRPdEp1Ykc2WTdpUVA4cURrdVloUFhnSXo1WFZKeWNqdUljSjNOdWRDQkNlbjBVcTBDTzUwU21vRlI2V0V5aEwtWFZ6aUZONVhGdUMtTXpDZ1B1aXFoamMxNjBjdHZGNG5yb1k1eVBBMjlTNHpOSVZ5V0ljNExOV2R0N1luN3RkSnlqS3VqNGF2MDRGbHprWjMzYkdYWVFtRXY0?oc=5)
-
-2026-11-03
-
-Source: [Medical Product Outsourcing](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXBRdF9UM21rM3U0UFIzZ2FTTFdZbmRPdEp1Ykc2WTdpUVA4cURrdVloUFhnSXo1WFZKeWNqdUljSjNOdWRDQkNlbjBVcTBDTzUwU21vRlI2V0V5aEwtWFZ6aUZONVhGdUMtTXpDZ1B1aXFoamMxNjBjdHZGNG5yb1k1eVBBMjlTNHpOSVZ5V0ljNExOV2R0N1luN3RkSnlqS3VqNGF2MDRGbHprWjMzYkdYWVFtRXY0?oc=5)
-
----
+## Related News (3)
 
 ### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 

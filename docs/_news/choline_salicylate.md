@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Choline Salicylate?">
-<strong>Choline Salicylate</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
+<strong>Choline Salicylate</strong> currently has <strong>11 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,37 @@ This page combines the AI-predicted indications for Choline Salicylate with the 
 <p><a href="{{ '/drugs/choline-salicylate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [Tarlatamab Plus Durvalumab Improves Overall and Progression-Free Survival in Extensive-Stage Small Cell Lung Cancer - Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
+
+2026-11-03 <span class="news-drug-tag">DURVALUMAB</span> <span class="news-drug-tag">Durvalumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">small cell lung cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
+
+---
+
+### [Breast Cancer in Young Women: New Digest Reframes Biology, Early Detection, Research, and Lifelong Care - EIN Presswire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTRXYl9jQ2RCMnhVWVR5UFptcTJlYmxFbHRWYmNiTXNvWkNScUFDSG9NeEw2WWRzeFVsWVV2RjBTcXlaRUdqeTVFQ1FmY2RlWGhtZHRZajdBY0VYSDMwVjBaaUJmYTJabThHYk53Y2lsRzROeVVXdjQzbVlEc09xNHBTTzNmeVFNNWRycnNEMDhaeU9XQjYydGZrOUhEaUp3MFZ0UzU3WEJrb0pIQWVNeW5zNkR2RjJmUVdtLVI5ejJIalNzNTlxeTZWNHlFTENJVHJJajFIRktvcUpQQW8w?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTRXYl9jQ2RCMnhVWVR5UFptcTJlYmxFbHRWYmNiTXNvWkNScUFDSG9NeEw2WWRzeFVsWVV2RjBTcXlaRUdqeTVFQ1FmY2RlWGhtZHRZajdBY0VYSDMwVjBaaUJmYTJabThHYk53Y2lsRzROeVVXdjQzbVlEc09xNHBTTzNmeVFNNWRycnNEMDhaeU9XQjYydGZrOUhEaUp3MFZ0UzU3WEJrb0pIQWVNeW5zNkR2RjJmUVdtLVI5ejJIalNzNTlxeTZWNHlFTENJVHJJajFIRktvcUpQQW8w?oc=5)
+
+---
 
 ### [BRCA gene test explained: Who should get screened for breast cancer risk - The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
 
 2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
+
+---
+
+### [When Cancer Comes for Your Career - Katie Couric Media](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTYwckQyM0hTNzF4NnN2Z2QtWk9oUm80Q3ZOVVN6bi1RRklUTzR2OHdTclBzSXpJU0lSZEZTeXdPcExLVk9DM1h2NWxiVVhmRjk4TWhmWWwwdHVINEMxVzdKaTctb01meHZTbE5iS09qa3Q3dlhRWU9WMHJyTnJzQ0RTY1N1NFFnaG9RNnFBdjE?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Katie Couric Media](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTYwckQyM0hTNzF4NnN2Z2QtWk9oUm80Q3ZOVVN6bi1RRklUTzR2OHdTclBzSXpJU0lSZEZTeXdPcExLVk9DM1h2NWxiVVhmRjk4TWhmWWwwdHVINEMxVzdKaTctb01meHZTbE5iS09qa3Q3dlhRWU9WMHJyTnJzQ0RTY1N1NFFnaG9RNnFBdjE?oc=5)
 
 ---
 
@@ -63,14 +87,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3JScGFUeE0tN
 
 ---
 
-### [Rising Breast Cancer Incidence Among Younger Women Raises Concerns - India News Network](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzRLUHU2Y0J6bXp0Sm1fN0tTZmN5akFRQ2RoRUhkUGg2ZDkzeEhhUG1KSDM1VE5Cc0duQWc0b25zRjc4OHctMzNfbFhteUc4czRFTXliNzhQYkdCNmhKQTF1N2VtUWZOUzJVcXBfRTRjVHZJdUxPeGoyR3B2Z3ZQMm5pNHhVMlRDdjVQNFRLc3VtbWNDQS14dXF4X1c0cGN0QWFPQ0ZUZzdiNTdBLVZ5RQ?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzRLUHU2Y0J6bXp0Sm1fN0tTZmN5akFRQ2RoRUhkUGg2ZDkzeEhhUG1KSDM1VE5Cc0duQWc0b25zRjc4OHctMzNfbFhteUc4czRFTXliNzhQYkdCNmhKQTF1N2VtUWZOUzJVcXBfRTRjVHZJdUxPeGoyR3B2Z3ZQMm5pNHhVMlRDdjVQNFRLc3VtbWNDQS14dXF4X1c0cGN0QWFPQ0ZUZzdiNTdBLVZ5RQ?oc=5)
-
----
-
 ### [Global Colorectal Cancer Congress to Bring Together Global Leaders, Patient Advocates and Cancer Experts - EIN Presswire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNuVFNXU0JhOUFWaGFPaG1meGhUa2d0a3VRa2lpYm56WGdEMUdRbk5XeXN3VGRxR0tRLWY1aS1NQjR5MnVmQy10SmlLaTVDVEpHekZQWUxJWWs2b0p4UHJ3aDE3ZHZBYTVNNVpqR3VKUXR2UFl4NGdhUWdmT3JkZEExNXdZdy1YN09YbTJUZ01MOXlLLW54dVpjMm1jSDY0MnBRUm9mMHZzczJ0Z3dMUm1yUnktakp0S1J6ZkRKakU0QXpDb2pjNkVYYkI5Mk1kVFhFbERFblB3VXpzLUd6RVB5cVI?oc=5)
 
 2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
@@ -95,11 +111,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3
 
 ---
 
-### [New AI Model Predicts Cancer Risk 3 Years Before Diagnosis - The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
+### [Scientists unveil AI detecting pancreatic cancer risk 3 years early](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
 
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGpKUEhlUno1TWJOdmtpTGFWd3YzdVE4VTFGb25qTG4waDB0cy1WMUVzQkhZLVg1VXgyaDNKaFE1T1FyTzlnWnZfNXkxWGVVSWJybF9faWliUXFqbWFZOHhrbUJTOWxjdjcta0w3ekNJckV0NEJmRjhOcHJEQXpPUzI5SnFlNm5lUjhoeHBNUWNPaUtveVMtMkJaZko0a0o4WU1lTVlmeHZ0WFZwSnlhTzNIQUZwZVhlbTh1ZTZ3NXNxck51djJONDl0clFadDNZ0gHWAUFVX3lxTFBoZ0tGSWJUTlNFbng1TWZYMk1zOGhXX2kyRGh3cVZ6ZGV4cjBoY0I2MGU2QzVfRG1FWnVsNi1GWkV2NXZCRWE4d2N0N2wxSWh4Zzhacm5pS3B2ZTM5WkhyRW1ZcXE5U1pPY3BLOTQ4WXBuOV93T1BXRldXcEFGa1l6blRDRFpjOFA3bklJNDU2UldRNmhScjFrVGhwOW5LWUE4ZmlCQlJLbXlEVEotdThvekZDeE40aEI2STFpVzFvX0g3X1NXellidDQ3T2pVaXJzT25zc0E?oc=5)
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
 
 ---
 

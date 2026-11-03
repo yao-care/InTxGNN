@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>6 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>5 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [More people are having strokes before 55. Here’s what experts know. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWc2Y0pRVHVnaTNoM1ZYOXVhbkhYdE43bkF3UlNPWEhoRTN1VDZVZ2ZRWWljODhUZlppemFVR1lQcXJTRW9pbkVGVW9DbWJHbkVtdnduWWg5TzZQbEdtSlBZd19XOTJRM19YU3pqdTRMSjVMTWdXZ0lSb2FJbVpYY1o4QXZRT2hRUlhtTHlvQV9Bem1MVGRGNmM4bE5hdU1hQ0J2WVB4QzAxSG5NclUtUEgyVFFKWUU?oc=5)
 
@@ -59,6 +59,14 @@ Source: [ANI News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnZreW1x
 
 ---
 
+### [TMS: Testosterone Therapy Linked to Increased Risk for CVD Postmenopause - The Cardiology Advisor](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeklpbVJEOTgwbDcwZE0weXRZSlJkS0swUVNXczdRVFBOUngwVUMyWGNjOFlnb19ONDE1dU9ZYmMwaS1pZDE1QkIxNkplemdTR1RqVXBUcl9pbTFJdzVuN2V2dVBYNW5ianVrNW5Lc1VtWHktOXYyZWhZWVFZblRGRzFIX3A5cFhLRi1BVXkweWFERklDZkFtNFZjaUVJdmxCdGZGTk42VEdoWXVKRmdxVExFUUw?oc=5)
+
+2026-11-03 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeklpbVJEOTgwbDcwZE0weXRZSlJkS0swUVNXczdRVFBOUngwVUMyWGNjOFlnb19ONDE1dU9ZYmMwaS1pZDE1QkIxNkplemdTR1RqVXBUcl9pbTFJdzVuN2V2dVBYNW5ianVrNW5Lc1VtWHktOXYyZWhZWVFZblRGRzFIX3A5cFhLRi1BVXkweWFERklDZkFtNFZjaUVJdmxCdGZGTk42VEdoWXVKRmdxVExFUUw?oc=5)
+
+---
+
 ### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 2026-11-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
@@ -67,27 +75,11 @@ Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cU
 
 ---
 
-### [Clot removal days after a stroke could help more patients recover, but the procedure is not without risks - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5)
+### [Surviving brain stroke: Clot removal may help patients up to 72 hours later, says study - The Indian Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjRPUjNEV3dlTjlUSjlENEdZQmlKdjIxMkh2Qy1xSVRSRm5JblMzYWczR2RiTm5SM1lFSVhHNXVMSmxOVjNGOTZHR2kyc1c3TVdobzhwQU56NkVLM3NzQlRGX1lZeENOYUxHdV9UUVdicHdEYnBDUG9EVEE1OGVVME53TDd1OEtRSlV3dlplWGJnLVpkSlVFXzJPeFp0aWtSTkFpUtIBqwFBVV95cUxNRVN3MENBc0FSV1VsdXpHZjdNTW01YUdMcmlaZThhNVpWcG5YNlQ4SFY4SXlfZWVSRXNoSS1RRzNjeVdYSDhVZDNmWkE5bFVKMjljZ091dkxGVWhDUFZuQkxqV1VsZ2ZmOEJmSVFzT19HUUpiQVJlMHBJUEsxV0RZQWw0bVJtazVzY2xZWm5QZG91ZENpVWtYbW1Tbm1rRUcyY1JNUnpJY3d1ZG8?oc=5)
 
-2026-11-01 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-10-28 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5)
-
----
-
-### [More Than Empty Calories, Ultra-Processed Foods May Alter Children's Brain Responses](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
-
-2026-10-28 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVURDbWhBM28xVktIeHFNMWxjQzZ1UzhWcFJfMmVUaVI2Wnd4V041MGY3Wlp6YW1hOHNqVVF1TUkxVVlWRVZjcW93NWtHYjRZdHNJOVM0bDFYdEhmWklhRFd0bDJBQ2R0cFhYT245T2tZR21hYTN3T1hHQkdpR2xpSVYxVThXY3BBbUJBSkZoNFFFb1dDUmFmb0hadTF2WmtZOWpDWTRHekFjamdDQmpXall6WVF6QndRZW1N?oc=5)
-
----
-
-### [TMS: Testosterone Therapy Linked to Increased Risk for CVD Postmenopause - Medical Professionals Reference](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29Dd1laMnJ1T2N0RFZOeGVabHRPcXNLaTlUVk1vSHRLMEtlZWE0c21aUnlFLTVwaHZSaUI4LXE0VHFocWs5bFJseG8weUZuY29HYjBHSld6UDAwNlFBWlMtYm5Ka0l6ZnpWc2VYZmptSWkxbnczQWZQbjYwbWRWUlFIVE8zNlNrRXBmQk1aQW5FN0pUQTUxOVpDZW8zOWs?oc=5)
-
-2026-10-28 <span class="news-drug-tag">TESTOSTERONE</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMinwFBVV95cUxQR29Dd1laMnJ1T2N0RFZOeGVabHRPcXNLaTlUVk1vSHRLMEtlZWE0c21aUnlFLTVwaHZSaUI4LXE0VHFocWs5bFJseG8weUZuY29HYjBHSld6UDAwNlFBWlMtYm5Ka0l6ZnpWc2VYZmptSWkxbnczQWZQbjYwbWRWUlFIVE8zNlNrRXBmQk1aQW5FN0pUQTUxOVpDZW8zOWs?oc=5)
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjRPUjNEV3dlTjlUSjlENEdZQmlKdjIxMkh2Qy1xSVRSRm5JblMzYWczR2RiTm5SM1lFSVhHNXVMSmxOVjNGOTZHR2kyc1c3TVdobzhwQU56NkVLM3NzQlRGX1lZeENOYUxHdV9UUVdicHdEYnBDUG9EVEE1OGVVME53TDd1OEtRSlV3dlplWGJnLVpkSlVFXzJPeFp0aWtSTkFpUtIBqwFBVV95cUxNRVN3MENBc0FSV1VsdXpHZjdNTW01YUdMcmlaZThhNVpWcG5YNlQ4SFY4SXlfZWVSRXNoSS1RRzNjeVdYSDhVZDNmWkE5bFVKMjljZ091dkxGVWhDUFZuQkxqV1VsZ2ZmOEJmSVFzT19HUUpiQVJlMHBJUEsxV0RZQWw0bVJtazVzY2xZWm5QZG91ZENpVWtYbW1Tbm1rRUcyY1JNUnpJY3d1ZG8?oc=5)
 
 ---
 
