@@ -32,7 +32,7 @@ description: "All drug validation reports and evidence level statistics in InTxG
 ---
 
 <!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
-This list is based on the registration data of [CDSCO](https://cdsco.gov.in/) (India).
+This list is based on the [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset), a public GitHub dataset (India).
 
 <!-- local-home:end -->
 

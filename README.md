@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-intxgnn.yao.care-blue)](https://intxgnn.yao.care)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Drug repurposing predictions for India India Pharma-approved drugs using the TxGNN model.
+Drug repurposing predictions for medicines in the Indian Medicine Dataset (public GitHub dataset, India) using the TxGNN model.
 
 ## Disclaimer
 
@@ -73,7 +73,7 @@ uv run python scripts/run_kg_prediction.py
 
 | Metric | Value |
 |------|------|
-| India Pharma Total Drugs | 246,068 |
+| Indian Medicine Dataset Total Drugs | 246,068 |
 | Mapped to DrugBank | 221,028 (89.8%) |
 | Repurposing Candidates | 5,544 |
 
@@ -131,7 +131,7 @@ The TxGNN score represents the model's confidence in a drug-disease pair, rangin
 flowchart TD
     A["TxGNN Prediction Results"] --> B
     subgraph B["Step 1: DrugBundle Collector"]
-        B1["Drug-level: India Pharma, DDI, DrugBank"]
+        B1["Drug-level: Indian Medicine Dataset, DDI, DrugBank"]
         B2["Indication-level: ClinicalTrials, PubMed, ICTRP"]
     end
     B --> |"drug_bundle.json"| C
@@ -154,7 +154,7 @@ flowchart TD
 
 | File | Download |
 |------|------|
-| India Pharma Data | Data Source |
+| Indian Medicine Dataset | [junioralive/Indian-Medicine-Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 | node.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144482) |
 | kg.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144484) |
 | edges.csv | [Harvard Dataverse](https://dataverse.harvard.edu/api/access/datafile/7144483) |
@@ -216,7 +216,7 @@ PYTHONPATH=src python -m intxgnn.predict.txgnn_model
 
 | Category | Data | Source | Note |
 |------|------|------|------|
-| **Drug Data** | India Pharma | - | India |
+| **Drug Data** | Indian Medicine Dataset | [GitHub](https://github.com/junioralive/Indian-Medicine-Dataset) | India |
 | **Knowledge Graph** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Drug Database** | DrugBank | [DrugBank](https://go.drugbank.com/) | Drug ingredient mapping |
 | **Drug Interactions** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | DDI pairs |
@@ -302,7 +302,7 @@ InTxGNN/
 
 ```mermaid
 flowchart TD
-    FDA["India Pharma Data"] --> proc["process_fda_data.py"]
+    FDA["Indian Medicine Dataset"] --> proc["process_fda_data.py"]
     TxGNN["TxGNN Data"] --> prep["prepare_external_data.py"]
 
     proc --> json["in_fda_drugs.json"]
