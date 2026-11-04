@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-04T04:39:29.324858",
+  "last_check": "2026-11-04T19:23:11.139598",
   "seen_trials": {
     "Albendazole": [
       "NCT07873398"
@@ -41,7 +41,8 @@
       "NCT02727803"
     ],
     "Dasatinib": [
-      "NCT07269470"
+      "NCT07269470",
+      "NCT00788125"
     ],
     "Daunorubicin": [
       "NCT06172296",
@@ -185,7 +186,8 @@
       "NCT00662740"
     ],
     "Etoposide": [
-      "NCT02306161"
+      "NCT02306161",
+      "NCT00788125"
     ],
     "Bendamustine": [
       "NCT02153580",
@@ -202,6 +204,9 @@
     ],
     "Ertapenem": [
       "NCT04886284"
+    ],
+    "Ifosfamide": [
+      "NCT00788125"
     ]
   }
 }
