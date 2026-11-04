@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 10 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 7 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>10 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>7 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,21 +236,21 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (7)
 
-### [Tarlatamab Plus Durvalumab Improves Overall and Progression-Free Survival in Extensive-Stage Small Cell Lung Cancer - Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
+### [DUSP4 protein identified as key to preventing CAR T cell exhaustion - Drug Target Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1l5VjB3TEtVV1EtbS1LUWxNUk1hSFpBbFJDYXBUZkJQUUNWR3AwVnk0eUx4M1gtNEJhS2Z4QzY2NWp5MFB1WHBJSlVGUXdqLVJic0oxWGVqWmctaXY5aWFlYTNLV2VTMkM1R3JTUnNPbElWVkJGTG9hQl9MVHl1Z0JLZ1Q3N24zcmx1eDItNXV6MFZ5b1Y2Z2RpNFltZFVUdGc1UmlQYUtEWFljNkh6UTkxMUJmY28?oc=5)
 
-2026-11-03
+2026-11-04
 
-Source: [Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
+Source: [Drug Target Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1l5VjB3TEtVV1EtbS1LUWxNUk1hSFpBbFJDYXBUZkJQUUNWR3AwVnk0eUx4M1gtNEJhS2Z4QzY2NWp5MFB1WHBJSlVGUXdqLVJic0oxWGVqWmctaXY5aWFlYTNLV2VTMkM1R3JTUnNPbElWVkJGTG9hQl9MVHl1Z0JLZ1Q3N24zcmx1eDItNXV6MFZ5b1Y2Z2RpNFltZFVUdGc1UmlQYUtEWFljNkh6UTkxMUJmY28?oc=5)
 
 ---
 
-### [Cancer registry in Telangana has logged 35,000 cases, government advisor informs Minister - The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5)
+### [Can Delhi’s toxic air cause cancer? How breathing PM2.5 over years damages the lungs - The Indian Express](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0JXRXZHaTUxVDREQmRUUFJOaWZEUTZfckpmTmh6MGNNMmdjM1BRcVRfMGtwTUdOaDg1WlZ6dnBzWGhzRE1RTTEzUXIzZGlQTUlXaVc2cVhRRDRLWEpxOFliV1dpSy1YbUdOQVRxanlScFBrTkotMGx0YnpvcnlmTVgtcG1Jb1VrLWVIX0poRzhhaWhDZ0E2Q0dZcC1NTUpKMkxwQXRrWE9TU0xkd3c4UEl30gG4AUFVX3lxTE1qYWNrVzFTZ0MydDhDUDFVYUY2S1d1SlNhWWZCOWxaYlZDSlU0cC1qWXJ5TW1qTzZNTTBkM2FpVFFzZDNhUWNoWU0yMU9pc3pJRkl0NGhSaHppcjRFVlNwUTU5RlJjS0VRR3R3S0RlZk40M1NGTkJIdXM4cDFCbEcyWDVwUjgxMnRzektSXzNNQm5USldEeXlYeEg0WlU2X1FHcHNxdnJBelIwRjF6a2ZZZEdoZjVFTXM?oc=5)
 
-2026-11-03
+2026-11-04
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5)
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0JXRXZHaTUxVDREQmRUUFJOaWZEUTZfckpmTmh6MGNNMmdjM1BRcVRfMGtwTUdOaDg1WlZ6dnBzWGhzRE1RTTEzUXIzZGlQTUlXaVc2cVhRRDRLWEpxOFliV1dpSy1YbUdOQVRxanlScFBrTkotMGx0YnpvcnlmTVgtcG1Jb1VrLWVIX0poRzhhaWhDZ0E2Q0dZcC1NTUpKMkxwQXRrWE9TU0xkd3c4UEl30gG4AUFVX3lxTE1qYWNrVzFTZ0MydDhDUDFVYUY2S1d1SlNhWWZCOWxaYlZDSlU0cC1qWXJ5TW1qTzZNTTBkM2FpVFFzZDNhUWNoWU0yMU9pc3pJRkl0NGhSaHppcjRFVlNwUTU5RlJjS0VRR3R3S0RlZk40M1NGTkJIdXM4cDFCbEcyWDVwUjgxMnRzektSXzNNQm5USldEeXlYeEg0WlU2X1FHcHNxdnJBelIwRjF6a2ZZZEdoZjVFTXM?oc=5)
 
 ---
 
@@ -259,14 +259,6 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl9
 2026-11-03
 
 Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTRXYl9jQ2RCMnhVWVR5UFptcTJlYmxFbHRWYmNiTXNvWkNScUFDSG9NeEw2WWRzeFVsWVV2RjBTcXlaRUdqeTVFQ1FmY2RlWGhtZHRZajdBY0VYSDMwVjBaaUJmYTJabThHYk53Y2lsRzROeVVXdjQzbVlEc09xNHBTTzNmeVFNNWRycnNEMDhaeU9XQjYydGZrOUhEaUp3MFZ0UzU3WEJrb0pIQWVNeW5zNkR2RjJmUVdtLVI5ejJIalNzNTlxeTZWNHlFTENJVHJJajFIRktvcUpQQW8w?oc=5)
-
----
-
-### [BRCA gene test explained: Who should get screened for breast cancer risk - The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
-
-2026-11-03
-
-Source: [The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
 
 ---
 
@@ -294,27 +286,11 @@ Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHo
 
 ---
 
-### [Even moderate drinking linked to cancer and early death, major study finds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eTJJcF9qZU5YR1V5c3ctVFZQemV1ZUxxOWJtVG5xd2x0dkxZdFR1WnoyOVFaOWs0SFdTSEl6UUN1U2ZsMWNUaThUd01UYTVYSHpnNzVhUmktWXhfUVJTaGlXbFI3dmtxNko1MlAxSQ?oc=5)
-
-2026-11-02
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eTJJcF9qZU5YR1V5c3ctVFZQemV1ZUxxOWJtVG5xd2x0dkxZdFR1WnoyOVFaOWs0SFdTSEl6UUN1U2ZsMWNUaThUd01UYTVYSHpnNzVhUmktWXhfUVJTaGlXbFI3dmtxNko1MlAxSQ?oc=5)
-
----
-
 ### [Healthy Diet May Curb Heart Disease Risk in Cancer Survivors](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
 
 2026-10-29
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
-
----
-
-### [Scientists unveil AI detecting pancreatic cancer risk 3 years early](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
-
-2026-10-29
-
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Propafenone. 6 predicted indications."
 permalink: /news/propafenone/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Propafenone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Propafenone?">
-<strong>Propafenone</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
+<strong>Propafenone</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ This page combines the AI-predicted indications for Propafenone with the latest 
 <p><a href="{{ '/drugs/propafenone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 2026-11-02 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
-
----
-
-### [Physical Activity Linked to Lower Cardiovascular Mortality in MASLD](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
 
 ---
 

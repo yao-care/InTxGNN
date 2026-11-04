@@ -39,11 +39,11 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (2)
 
-### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5)
+### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
 
 2026-11-04
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
 
 ---
 

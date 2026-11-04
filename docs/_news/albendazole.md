@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,37 +33,29 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (10)
 
-### [Neurophet Partners with RapidAI to Accelerate AI-Powered Alzheimer’s Imaging Solutions in the US - BioPharma APAC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5)
+### [DUSP4 protein identified as key to preventing CAR T cell exhaustion - Drug Target Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1l5VjB3TEtVV1EtbS1LUWxNUk1hSFpBbFJDYXBUZkJQUUNWR3AwVnk0eUx4M1gtNEJhS2Z4QzY2NWp5MFB1WHBJSlVGUXdqLVJic0oxWGVqWmctaXY5aWFlYTNLV2VTMkM1R3JTUnNPbElWVkJGTG9hQl9MVHl1Z0JLZ1Q3N24zcmx1eDItNXV6MFZ5b1Y2Z2RpNFltZFVUdGc1UmlQYUtEWFljNkh6UTkxMUJmY28?oc=5)
 
-2026-11-04 <span class="news-indication-tag">alzheimer</span>
+2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
 
-Source: [BioPharma APAC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5)
+Source: [Drug Target Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1l5VjB3TEtVV1EtbS1LUWxNUk1hSFpBbFJDYXBUZkJQUUNWR3AwVnk0eUx4M1gtNEJhS2Z4QzY2NWp5MFB1WHBJSlVGUXdqLVJic0oxWGVqWmctaXY5aWFlYTNLV2VTMkM1R3JTUnNPbElWVkJGTG9hQl9MVHl1Z0JLZ1Q3N24zcmx1eDItNXV6MFZ5b1Y2Z2RpNFltZFVUdGc1UmlQYUtEWFljNkh6UTkxMUJmY28?oc=5)
 
 ---
 
-### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5)
+### [Can Delhi’s toxic air cause cancer? How breathing PM2.5 over years damages the lungs - The Indian Express](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0JXRXZHaTUxVDREQmRUUFJOaWZEUTZfckpmTmh6MGNNMmdjM1BRcVRfMGtwTUdOaDg1WlZ6dnBzWGhzRE1RTTEzUXIzZGlQTUlXaVc2cVhRRDRLWEpxOFliV1dpSy1YbUdOQVRxanlScFBrTkotMGx0YnpvcnlmTVgtcG1Jb1VrLWVIX0poRzhhaWhDZ0E2Q0dZcC1NTUpKMkxwQXRrWE9TU0xkd3c4UEl30gG4AUFVX3lxTE1qYWNrVzFTZ0MydDhDUDFVYUY2S1d1SlNhWWZCOWxaYlZDSlU0cC1qWXJ5TW1qTzZNTTBkM2FpVFFzZDNhUWNoWU0yMU9pc3pJRkl0NGhSaHppcjRFVlNwUTU5RlJjS0VRR3R3S0RlZk40M1NGTkJIdXM4cDFCbEcyWDVwUjgxMnRzektSXzNNQm5USldEeXlYeEg0WlU2X1FHcHNxdnJBelIwRjF6a2ZZZEdoZjVFTXM?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cold</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0JXRXZHaTUxVDREQmRUUFJOaWZEUTZfckpmTmh6MGNNMmdjM1BRcVRfMGtwTUdOaDg1WlZ6dnBzWGhzRE1RTTEzUXIzZGlQTUlXaVc2cVhRRDRLWEpxOFliV1dpSy1YbUdOQVRxanlScFBrTkotMGx0YnpvcnlmTVgtcG1Jb1VrLWVIX0poRzhhaWhDZ0E2Q0dZcC1NTUpKMkxwQXRrWE9TU0xkd3c4UEl30gG4AUFVX3lxTE1qYWNrVzFTZ0MydDhDUDFVYUY2S1d1SlNhWWZCOWxaYlZDSlU0cC1qWXJ5TW1qTzZNTTBkM2FpVFFzZDNhUWNoWU0yMU9pc3pJRkl0NGhSaHppcjRFVlNwUTU5RlJjS0VRR3R3S0RlZk40M1NGTkJIdXM4cDFCbEcyWDVwUjgxMnRzektSXzNNQm5USldEeXlYeEg0WlU2X1FHcHNxdnJBelIwRjF6a2ZZZEdoZjVFTXM?oc=5)
+
+---
+
+### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5)
-
----
-
-### [Tarlatamab Plus Durvalumab Improves Overall and Progression-Free Survival in Extensive-Stage Small Cell Lung Cancer - Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
-
-2026-11-03 <span class="news-drug-tag">DURVALUMAB</span> <span class="news-drug-tag">Durvalumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">small cell lung cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
-
----
-
-### [Cancer registry in Telangana has logged 35,000 cases, government advisor informs Minister - The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5)
-
-2026-11-03 <span class="news-indication-tag">cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
 
 ---
 
@@ -72,14 +64,6 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl9
 2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTRXYl9jQ2RCMnhVWVR5UFptcTJlYmxFbHRWYmNiTXNvWkNScUFDSG9NeEw2WWRzeFVsWVV2RjBTcXlaRUdqeTVFQ1FmY2RlWGhtZHRZajdBY0VYSDMwVjBaaUJmYTJabThHYk53Y2lsRzROeVVXdjQzbVlEc09xNHBTTzNmeVFNNWRycnNEMDhaeU9XQjYydGZrOUhEaUp3MFZ0UzU3WEJrb0pIQWVNeW5zNkR2RjJmUVdtLVI5ejJIalNzNTlxeTZWNHlFTENJVHJJajFIRktvcUpQQW8w?oc=5)
-
----
-
-### [BRCA gene test explained: Who should get screened for breast cancer risk - The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
-
-2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
 
 ---
 
@@ -99,27 +83,19 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxONDJVSW9
 
 ---
 
+### [Omega-3 Supplements Might Not Be as Beneficial for Brain Health as We Think - Flow Space](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzQ2SF95ZWlhWTFVZk5uQzlQMmNaeEhYSXRuOVlBa2NWak1adWpsSG02Tk1XeEZIN1hEWXdpeGcyNmo1ZktvTTI5SHFPeEgxandxS3J3UVQtNVkxUjFTVEFMbTlQc0tOYVVLN3NTbXJ3c2pha1BVTWVvV2xwLUtYMG42eVZOVEx6VENROXZnWHg5bmxMeW1XbDVOVGdzTmtDWHd3?oc=5)
+
+2026-11-02 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Flow Space](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzQ2SF95ZWlhWTFVZk5uQzlQMmNaeEhYSXRuOVlBa2NWak1adWpsSG02Tk1XeEZIN1hEWXdpeGcyNmo1ZktvTTI5SHFPeEgxandxS3J3UVQtNVkxUjFTVEFMbTlQc0tOYVVLN3NTbXJ3c2pha1BVTWVvV2xwLUtYMG42eVZOVEx6VENROXZnWHg5bmxMeW1XbDVOVGdzTmtDWHd3?oc=5)
+
+---
+
 ### [First Guidelines for Cancer Caregivers Address Key Information Void in Care - MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHotalY4clYyNzYwc2E0cENkeWQxcWJ0VzdKNldVLVZ0VWNTSmJka05pLXRfYVdEOC01MGxKeno3bjNtSkZWcFpmcDFtbG1CUU9STDRNYlZfeTFSOG16dTgyb2k3Y2R1MzBWZE02MG45Z3RVSUE?oc=5)
 
 2026-11-02 <span class="news-indication-tag">cancer</span>
 
 Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHotalY4clYyNzYwc2E0cENkeWQxcWJ0VzdKNldVLVZ0VWNTSmJka05pLXRfYVdEOC01MGxKeno3bjNtSkZWcFpmcDFtbG1CUU9STDRNYlZfeTFSOG16dTgyb2k3Y2R1MzBWZE02MG45Z3RVSUE?oc=5)
-
----
-
-### [Omega-3 supplements help improve brain health: Is it a myth or a fact?](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnFueldCMTFMWUVDNHJDazRXOHllRGVqdGNoaC0xei1mUDdrMTZxME1yM2dWTDhiVzFkTUFkbWwybEY2VERhUEpPQ1V3M1Q2aURTeHl2dzVwM3EzMDFpTS1fd0xXY0YtNUt1ZmJNd3Q5UzV0N25xMDE5eVBYTkZZaWY3MTAxVUkyTTNLYjNYdS1vTWgxNzZtSk9DVGtoVUNDa2Ruc0xIbmlRYUFITXlTU2VHQTRJN1Rna3RJQlF6alBGN01lOE1qUmxBR3BWMDFf0gHeAUFVX3lxTFAtdHVLSkNPci02Nk5jdnJaVGxRenB0Q291al9UaUpLdGRvb2ZKbDNlSkJtVU03eW5EdENmbENhVnl1ZDdjYTFTb0J2N3B0R3pLSEY1TXo4N0NYS0JNbXNzbEg3eUREY0YtcWhXZHVKSVg1QWRYUXZhT252Tkt3ckR4RmlYWDhrQ3dCZElKRkZmUGxTeGkzZEtLQ2hla2lqb285SkJPMUdjQl80ZEZ0WXhtTGNuT0xHQ1cxNjVZNU9KTGNNQklHelF4TUMxcnRSSU0tZGN1WU9NandmQUhuUQ?oc=5)
-
-2026-11-02 <span class="news-indication-tag">alzheimer</span>
-
-Source: [IndulgExpress](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnFueldCMTFMWUVDNHJDazRXOHllRGVqdGNoaC0xei1mUDdrMTZxME1yM2dWTDhiVzFkTUFkbWwybEY2VERhUEpPQ1V3M1Q2aURTeHl2dzVwM3EzMDFpTS1fd0xXY0YtNUt1ZmJNd3Q5UzV0N25xMDE5eVBYTkZZaWY3MTAxVUkyTTNLYjNYdS1vTWgxNzZtSk9DVGtoVUNDa2Ruc0xIbmlRYUFITXlTU2VHQTRJN1Rna3RJQlF6alBGN01lOE1qUmxBR3BWMDFf0gHeAUFVX3lxTFAtdHVLSkNPci02Nk5jdnJaVGxRenB0Q291al9UaUpLdGRvb2ZKbDNlSkJtVU03eW5EdENmbENhVnl1ZDdjYTFTb0J2N3B0R3pLSEY1TXo4N0NYS0JNbXNzbEg3eUREY0YtcWhXZHVKSVg1QWRYUXZhT252Tkt3ckR4RmlYWDhrQ3dCZElKRkZmUGxTeGkzZEtLQ2hla2lqb285SkJPMUdjQl80ZEZ0WXhtTGNuT0xHQ1cxNjVZNU9KTGNNQklHelF4TUMxcnRSSU0tZGN1WU9NandmQUhuUQ?oc=5)
-
----
-
-### [Even moderate drinking linked to cancer and early death, major study finds - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eTJJcF9qZU5YR1V5c3ctVFZQemV1ZUxxOWJtVG5xd2x0dkxZdFR1WnoyOVFaOWs0SFdTSEl6UUN1U2ZsMWNUaThUd01UYTVYSHpnNzVhUmktWXhfUVJTaGlXbFI3dmtxNko1MlAxSQ?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB0eTJJcF9qZU5YR1V5c3ctVFZQemV1ZUxxOWJtVG5xd2x0dkxZdFR1WnoyOVFaOWs0SFdTSEl6UUN1U2ZsMWNUaThUd01UYTVYSHpnNzVhUmktWXhfUVJTaGlXbFI3dmtxNko1MlAxSQ?oc=5)
 
 ---
 
@@ -136,14 +112,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZ
 2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnBFYjc3NlhKSDZBQVRVbWdSSkF0VXlYSzQ2VnVYZWxPSzU3N25feERrak9HMTctSnBoZGxKdWhSd2tOM0FuVnF2TjN3MS1WNnlaSDFwWS1PN2taZC1zQ1lzb01SeGhQbE5IMHVLNmhKN0JIT2trR05uS0U3TmQ2ZWh0WFd4cUtha3k3QlJXOUsybUpxYV8yNkd3TlAwYzA5TTdIMURrWnQ1dUk?oc=5)
-
----
-
-### [Scientists unveil AI detecting pancreatic cancer risk 3 years early](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
-
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
-
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ1RzWDRaejFOQ3cwQzM0N0RFUF9QUUZ6R2duNGRsWGJJVE9TdEdHdnRNQWhGbHQxZVJ6UkdiOHBpNEpxZHZRLUFUSnlTSkZtMFAyS1VHUDNwTm9CY3N3VVB4dUtQZ2kwYTJnS0lpdHRkZHVUY0pFeVJ0X3h5VTQ1WWZlbVF6LWJpcGlPZnhUbUoyT2k2N0NNNUtZYWF3ZG5wVXA0MkZHdG9rVVFiZW0wek5lYUY?oc=5)
 
 ---
 

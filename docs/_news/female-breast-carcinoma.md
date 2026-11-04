@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 3 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>3 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>2 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Breast Cancer in Young Women: New Digest Reframes Biology, Early Detection, Research, and Lifelong Care - EIN Presswire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTRXYl9jQ2RCMnhVWVR5UFptcTJlYmxFbHRWYmNiTXNvWkNScUFDSG9NeEw2WWRzeFVsWVV2RjBTcXlaRUdqeTVFQ1FmY2RlWGhtZHRZajdBY0VYSDMwVjBaaUJmYTJabThHYk53Y2lsRzROeVVXdjQzbVlEc09xNHBTTzNmeVFNNWRycnNEMDhaeU9XQjYydGZrOUhEaUp3MFZ0UzU3WEJrb0pIQWVNeW5zNkR2RjJmUVdtLVI5ejJIalNzNTlxeTZWNHlFTENJVHJJajFIRktvcUpQQW8w?oc=5)
 
 2026-11-03
 
 Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQTRXYl9jQ2RCMnhVWVR5UFptcTJlYmxFbHRWYmNiTXNvWkNScUFDSG9NeEw2WWRzeFVsWVV2RjBTcXlaRUdqeTVFQ1FmY2RlWGhtZHRZajdBY0VYSDMwVjBaaUJmYTJabThHYk53Y2lsRzROeVVXdjQzbVlEc09xNHBTTzNmeVFNNWRycnNEMDhaeU9XQjYydGZrOUhEaUp3MFZ0UzU3WEJrb0pIQWVNeW5zNkR2RjJmUVdtLVI5ejJIalNzNTlxeTZWNHlFTENJVHJJajFIRktvcUpQQW8w?oc=5)
-
----
-
-### [BRCA gene test explained: Who should get screened for breast cancer risk - The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
-
-2026-11-03
-
-Source: [The Week](https://news.google.com/rss/articles/CBMivwFBVV95cUxQakVUTTFDdUJBdTNCbXMzVllyQ2FhbWltTjF0dHJ5OWVxZlZrUmdYb2pXYThndnYwVm9vVWlGYnEzRnhraFYwWmgzUW1RTE1tVzh6UGs4ZkpGTEpHZU5sT1lqVFhYdVNhemt6eUtYTEVKWmpEbnFhOHJJYk56TGpKeXlBZk85MGhKTGJCSklwWnFzQVZCWk92eVIxREsyRmk3akMxVHlnR2NrTWRsWUNyczh2VzVsMmhBU2lMZTl5c9IBxAFBVV95cUxNRXQ0dDJ6NmRGRU1ZenM0Z3MzdU5ZTG9VeGE4SHlPR0VqMHNJRGdmejA0ZnBSYkg2eVZwMnFmS3owRmRHb1l0eG9zSk9PM3NpSzR5RGFaSS1PekdGcmpOYnJVbTdEdDlFZF9WR3FpcHhfSkhQT2NpcmNpdDFUNVhBRWd2THBrbUNueWY5eGIwNFNLWWF1cUMzUl9yTWg2X09yNGQ5LWQ4MWtNTzBHUU9qdEh5QnBaUl9LVmpsbG1aeDhlV1FF?oc=5)
 
 ---
 

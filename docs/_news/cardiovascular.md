@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,21 +58,13 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
 ### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 2026-11-02
 
 Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
-
----
-
-### [Physical Activity Linked to Lower Cardiovascular Mortality in MASLD](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
-
-2026-11-02
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFdEU0hsTmpjWnNoQjNKaS1sWFc1QnpkUEVKTDIwOFREbU1YM1dNZkhLSDFhNF9yZENSa2NTR1UydWpRd20wSVBiUUJXR3pOZGMtQ1RXS092bXJiTUdOVVM0YW1JTk9MY0ZyNHJtZ3IyTnR6Z1RrcmN0N2toVjFlbE4yUGx0d3ZOOGtQbWhldUVFcjZCMGhOZFRvejRaaVhwb3liQXpqekVSenhoY2UwaQ?oc=5)
 
 ---
 
