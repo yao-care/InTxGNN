@@ -1,26 +1,86 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-11-03T22:36:34.132205+00:00",
-  "total_fetched": 125,
-  "unique_count": 125,
-  "health_related_count": 77,
+  "fetched_at": "2026-11-04T03:28:27.527691+00:00",
+  "total_fetched": 131,
+  "unique_count": 131,
+  "health_related_count": 79,
   "news": [
     {
-      "id": "b679c6e500e3",
-      "title": "The Yakutia Diet Explained: Traditional Foods, Metabolic Health, and Arctic Survival - News-Medical",
-      "published": "2026-11-03T22:14:51+00:00",
-      "summary": "The Yakutia Diet Explained: Traditional Foods, Metabolic Health, and Arctic Survival&nbsp;&nbsp;News-Medical",
+      "id": "488931877738",
+      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds - The Hindu",
+      "published": "2026-11-04T03:00:00+00:00",
+      "summary": "Cellophane bees produce a kind of plastic that also degrades, study finds&nbsp;&nbsp;The HinduNature already invented biodegradable plastic. Scientists want to reverse engineer it.&nbsp;&nbsp;Anthropocene MagazineBee nest linings could inspire plastics that break down in soil&nbsp;&nbsp;Phys.org",
       "sources": [
         {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNENBMkpWVGJWaW1XLVF6SkxDNDNwRWtJRl9hWmZ5R1hMcVhQdnRrcWdUX3RlbmE5cU1VNmdqaFBEaHE0bFIxeHBFdVZhak5DUWdnZWZXY1Z0ejZwdU02Wjh2MmFkVnFYT3Z5RTRIMHc5UEVsUm1JdnpkZlNFeEhqYnhjUFlXZlVVdmpSS3l1T3Q4YWd0eGlCYkVSbE9YZEl0Q3BBaw?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWGxycVloaXc3Q3dTR0xJM2V4Mjdqdko5aHNGZ0Uyejc2S2FEQ0VsN285MXZVbjFIY21HdjA2UVVxaThSX0F0Si1JdVF6M1J3R2o1SkFxRnN4RHJJdFR1VTVZR3V5T3ZNeExIbndCQW9lRS0yX213OE5lelU2NTJXamxUekRQdzNDb2JKSWFrZDVEc2lqSE84b0tiLTB6Q3NyMW01M3B3eTljcHZudnAxSVIyRjlMSHlCLTMxa1NQNjZ3TWNlTFJFS0psUTcyTGlaN19RTFc2RldiUTdTRV82RmI3QdIB6gFBVV95cUxQeE9hNm1ITHVFbFNvalFoQjM1NFhWWV9nZjJHTjNqQ2dSNGtjMDdBRjVlbl9SWWVDcm9CZHZNR0V2MzlZRVRmSzNHcFRmcmJ5NlV1SUcyT1NCY3FxaG5TNmZwS05Ta3VBVk9mcDdVTGU4WEhjdFliNkZFSGY4Yk9Ga3ZLajR1bW5jYjBrN2VremUtQlVYQ2FNSThmLVhpSTR5THJQd2pSemF1cFVaWGYwWDEyQV9OQXM5RGpqMzhpa3dFSnBxU2RrRjlRc3dNXzlkNVZlOEFJR1NKd0EtV0x0YnNXVDFtRHZzRGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da1e88cbe954",
+      "title": "NASA's Swift satellite telescope heads for fiery re-entry 22 years after launch - Reuters",
+      "published": "2026-11-04T01:36:00+00:00",
+      "summary": "NASA's Swift satellite telescope heads for fiery re-entry 22 years after launch&nbsp;&nbsp;ReutersNASA’s Swift Observatory to Re-Enter Atmosphere&nbsp;&nbsp;NASA Science (.gov)NASA's Swift space telescope is about to crash to Earth. Where will it fall?&nbsp;&nbsp;SpaceNASA Telescope To Fall On Earth: Mumbai, Hyderabad In Possible Debris Zone&nbsp;&nbsp;NDTVNASA telescope is on the verge of plunging back to Earth after failed rescue mission&nbsp;&nbsp;AP News",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUtfdUVRT2wyQ2toNFhvV1hXOFJHRHNhUU1EQ1Z2SVRZQkdpZHNMY2RVYm5HS1p6V21PbllNNkFhRkZuLV9ISHpTTm1DZWluSHpTMG9XTjA5Q3Z3TGFiRThweGJTVERxcUM3VktiaW90ek9mZnJ1UnVDN2wtdWVmYmYwWGlNWVkybktOMl83M01Pdks5NjBUcHVTLTI0YlJFM1lUNUtNai1oTTU0LUwxNjNzYTV5aXhaT0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab0d7f5e838d",
+      "title": "Neurophet Partners with RapidAI to Accelerate AI-Powered Alzheimer’s Imaging Solutions in the US - BioPharma APAC",
+      "published": "2026-11-04T01:07:30+00:00",
+      "summary": "Neurophet Partners with RapidAI to Accelerate AI-Powered Alzheimer’s Imaging Solutions in the US&nbsp;&nbsp;BioPharma APAC",
+      "sources": [
+        {
+          "name": "BioPharma APAC",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e440b12871a",
+      "title": "Kids who eat more ultra-processed foods show a troubling brain response - Science Daily",
+      "published": "2026-11-04T01:01:53+00:00",
+      "summary": "Kids who eat more ultra-processed foods show a troubling brain response&nbsp;&nbsp;Science DailyJunk food may be giving us brain damage, from ‘silent strokes’ to higher dementia risk&nbsp;&nbsp;Toronto StarJunk food linked to 'silent stroke' by middle age&nbsp;&nbsp;TelegraphHerald.comUltra-processed foods: Brain responses could contribute to weight gain&nbsp;&nbsp;Evidence Network",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fba224cfbabd",
+      "title": "Martian meteorite gives glimpse of origins - Metal Tech News",
+      "published": "2026-11-04T00:15:47+00:00",
+      "summary": "Martian meteorite gives glimpse of origins&nbsp;&nbsp;Metal Tech NewsUPSC Prelims Current Affairs for 3 November 2026&nbsp;&nbsp;Vajiram & RaviNASA-funded Study Details One of Oldest Mars Meteorites Ever Found&nbsp;&nbsp;NASA (.gov)A rose-colored rock found in the Sahara in 2022 turned out to be a 4.1-billion-year-old piece of Mars&nbsp;&nbsp;Futura, le média qui explore le mondeAncient Mars Meteorite From the Sahara Is Over 4 Billion Years Old&nbsp;&nbsp;Gizmodo",
+      "sources": [
+        {
+          "name": "Metal Tech News",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXB1WGNZTWE0WXVHcmpMR0FfT0RCTVY2b0h2T2JFUDRaWFZFWXBmeW9SU0lhZmZOSVFoeG42Xy1rM1FoWHVzZ0ZwbGZnZU43Skc2WU1wNlVvUjVNUWdHa3dXMm5JODNJNVk1QjNlaFAtdzFvN0NPSGptaUg0VEdFN0RjQmJiR0RHaFVkWUdxU0cxRS1KMkhuaG9hWWpBVzdwWVFUa2VuY0owZTd2VjBv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e472ee0220d",
+      "title": "Experts discuss pros, cons of psychedelics for recreational, clinical purposes - American Public Health Association",
+      "published": "2026-11-04T00:04:18+00:00",
+      "summary": "Experts discuss pros, cons of psychedelics for recreational, clinical purposes&nbsp;&nbsp;American Public Health AssociationOpinion | Could My Patients Benefit From Psychedelics?&nbsp;&nbsp;The New York TimesCan Psychedelics Restore Consciousness? The Trial Design Problem Nobody Is Ready For&nbsp;&nbsp;The Clinical Trial VanguardPsychedelic Trials Reveal Gaps Between Controlled Efficacy and Real-World Readiness&nbsp;&nbsp;Psychiatric Times",
+      "sources": [
+        {
+          "name": "American Public Health Association",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaUZ0TnU5Nl9kWnk3cjhkckJQMnNYT2NXejFmMXlMSjM5R2RkQlRvNV82UFZsMDVCSE55Q0cxcVVEMWRBaDMzclNZQ1p3Y190SGxuTVcxc0lSaHh6R1BzWFFLd294UWQ0S2l3NGFSMzVvd2tfVzRMUU9oVG5jUnphSjJWclB2OUtWUV9TcTRyMWlhaV9tTUxxN2E2T0ZTSjFJeVpwclphRnY1dE9wOWZrWS1pRC10T0hnNFNQeEE3SV9BN1NnX0NmaFNsbUVVTkwwM0RrbEVUT2VNcDEzRnZpXzVWTGhuTVlIUGhwZXhkMzdHLVpUbG5IUw?oc=5"
         }
       ]
     },
     {
       "id": "b37571665ce7",
       "title": "New approach switches on protein degradation machinery - Chemical & Engineering News",
-      "published": "2026-11-03T20:43:23+00:00",
+      "published": "2026-11-03T21:19:44+00:00",
       "summary": "New approach switches on protein degradation machinery&nbsp;&nbsp;Chemical & Engineering NewsNew Strategy Targets Multiple Proteins to Restore Cell Function&nbsp;&nbsp;Voice of HealthcareSuk Hyun: Science Introduces a New Approach to Protein Degradation&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
@@ -32,7 +92,7 @@
     {
       "id": "1cb8a23da9d2",
       "title": "Study in India links gut bacteria differences to Parkinson’s disease - Parkinson's News Today",
-      "published": "2026-11-03T20:26:15+00:00",
+      "published": "2026-11-03T20:32:32+00:00",
       "summary": "Study in India links gut bacteria differences to Parkinson’s disease&nbsp;&nbsp;Parkinson's News TodayStudy in Keralam sheds light on link between gut bacteria, Parkinson’s disease&nbsp;&nbsp;The HinduGut bacteria may impact cognitive status in Parkinson’s, study finds&nbsp;&nbsp;Parkinson's News TodayConstipation years before tremors: Doctor explains how the gut-brain connection could reveal early signs of Parkinson’s disease&nbsp;&nbsp;The Times of IndiaGut bacteria linked to cognitive functio",
       "sources": [
         {
@@ -54,14 +114,26 @@
       ]
     },
     {
-      "id": "53a57138be4e",
-      "title": "More people are having strokes before 55. Here’s what experts know. - The Washington Post",
-      "published": "2026-11-03T19:00:00+00:00",
-      "summary": "More people are having strokes before 55. Here’s what experts know.&nbsp;&nbsp;The Washington Post​Before the warning arrives: How your 30s could shape your brain health, and surprising stroke risk factors you shouldn't ignore in midlife​&nbsp;&nbsp;The Times of IndiaStroke isn't just an older person's disease: Neurologist busts myths and shares facts about how younger adults are at risk&nbsp;&nbsp;Hindustan TimesRecreational Drugs, Steroids & Birth Control: Expert Explains Why Strokes Are Arriv",
+      "id": "e7720197bdb1",
+      "title": "Diabetes Risk and Depression Among Adults Without Known Diabetes: A Community-Based Mixed-Methods Study in Rural Puducherry, India - Cureus",
+      "published": "2026-11-03T19:52:25+00:00",
+      "summary": "Diabetes Risk and Depression Among Adults Without Known Diabetes: A Community-Based Mixed-Methods Study in Rural Puducherry, India&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1kxSkNjN2t6ck1WZ3o0ZTVUZWRJZWdyZ1I5XzJOOVJMVmRKZm11cHdLTzl6M2JGeUg0bmNwMzdNSDh4SHNhbzA3ZzJQNzIxVk1tb1V1eVRsdFpzNnpFZWZJdWpnc0Jya21BcXBJWW9iNm5jQmZpMFNTcGtjV1NlSWxkOVFLUUVrV2x5dlNTajdKb2tmdnBINUJTWE02LVZBNHdDNkREZFNzNDdMdEQ3c0xVWGhSNml1MmxkWDF6THFQY29TSWpZcDFiR0hvNXJ0enVrWElrWDhSWURsMzdGTjdZaU04ZzlVWWpidnR4aEtoY0NxOGZkZlNrNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "011b02069eed",
+      "title": "5 early signs of cataracts that can start in your 40s or 50s - The Washington Post",
+      "published": "2026-11-03T19:30:21+00:00",
+      "summary": "5 early signs of cataracts that can start in your 40s or 50s&nbsp;&nbsp;The Washington PostCataracts, warning signs and when to have surgery&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
           "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWc2Y0pRVHVnaTNoM1ZYOXVhbkhYdE43bkF3UlNPWEhoRTN1VDZVZ2ZRWWljODhUZlppemFVR1lQcXJTRW9pbkVGVW9DbWJHbkVtdnduWWg5TzZQbEdtSlBZd19XOTJRM19YU3pqdTRMSjVMTWdXZ0lSb2FJbVpYY1o4QXZRT2hRUlhtTHlvQV9Bem1MVGRGNmM4bE5hdU1hQ0J2WVB4QzAxSG5NclUtUEgyVFFKWUU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1doVEJVNlJVRHFLdVZEWC1pQTljeFNQelg2YnEyd29LU1BqWEc5Z1dqX0NqM3d1aHlKY0hHa2Q4YnUyeHNqYnprUVU2eVBhRDZDWVNfczF0WldqSmJUT19ka3VLSkd4MjlqaWg3cHEwLS1jODBvRTd0Znl0X2k2SUktQmxKWXc0TWhPSml5eXNXQmJNeGhLYVpuNGhVdzNqY0FNQmVMMmowdw?oc=5"
         }
       ]
     },
@@ -74,6 +146,18 @@
         {
           "name": "Oncology News Central",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9445b6b265ee",
+      "title": "Why a growing number of younger Americans are having strokes - Yahoo News New Zealand",
+      "published": "2026-11-03T18:52:20+00:00",
+      "summary": "Why a growing number of younger Americans are having strokes&nbsp;&nbsp;Yahoo News New Zealand​Before the warning arrives: How your 30s could shape your brain health, and surprising stroke risk factors you shouldn't ignore in midlife​&nbsp;&nbsp;The Times of IndiaMore people are having strokes before 55. Here’s what experts know.&nbsp;&nbsp;The Washington PostStroke isn't just an older person's disease: Neurologist busts myths and shares facts about how younger adults are at risk&nbsp;&nbsp;Hind",
+      "sources": [
+        {
+          "name": "Yahoo News New Zealand",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHRZSEl0OXhnNXZJcVBKLXNSbDJ0UU5TVjV2aElrNTl3ZGxZR2JrQ1RQY19PcDJWcWRiZl9VUjM4OXJMeVBuMVVFeW5BeW5zblVrdWFTTnNYakZDbl9BeDVRNDZFZnlmT3JpVmN2d1p3UUgtRmtvMGRkUU42T1o5cE43dw?oc=5"
         }
       ]
     },
@@ -153,7 +237,7 @@
       "id": "d1ea02e01be8",
       "title": "Earlier bedtime linked to weight loss in prediabetes: Study | The findings were published in Nursing Research | Inshorts - Inshorts",
       "published": "2026-11-03T15:37:40+00:00",
-      "summary": "Earlier bedtime linked to weight loss in prediabetes: Study | The findings were published in Nursing Research | Inshorts&nbsp;&nbsp;InshortsEarlier Bedtime Linked to Weight Loss in Prediabetes&nbsp;&nbsp;New York UniversitySleep is not a diet, but improving it can help control appetite and weight&nbsp;&nbsp;vijesti.me",
+      "summary": "Earlier bedtime linked to weight loss in prediabetes: Study | The findings were published in Nursing Research | Inshorts&nbsp;&nbsp;InshortsEarlier Bedtime Linked to Weight Loss in Prediabetes&nbsp;&nbsp;New York UniversitySleep is not a diet, but improving it can help control appetite and weight&nbsp;&nbsp;vijesti.meGoing to bed earlier linked to weight loss in prediabetes&nbsp;&nbsp;The Sen Times",
       "sources": [
         {
           "name": "Inshorts",
@@ -198,6 +282,18 @@
       ]
     },
     {
+      "id": "b15064a2979d",
+      "title": "Cancer registry in Telangana has logged 35,000 cases, government advisor informs Minister - The Hindu",
+      "published": "2026-11-03T14:57:26+00:00",
+      "summary": "Cancer registry in Telangana has logged 35,000 cases, government advisor informs Minister&nbsp;&nbsp;The Hindu",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ee9fd6841c1",
       "title": "Over 1 Crore Indians at Risk of Diabetic Retinopathy: 84.8% of Rural Diabetes Patients Never Screened - Babushahi.com",
       "published": "2026-11-03T14:33:00+00:00",
@@ -225,7 +321,7 @@
       "id": "a6d7c1d3ccc1",
       "title": "Child dies from measles in state's first known measles-related death in more than 30 years - Buffalo Toronto Public Media",
       "published": "2026-11-03T14:20:00+00:00",
-      "summary": "Child dies from measles in state's first known measles-related death in more than 30 years&nbsp;&nbsp;Buffalo Toronto Public MediaChild dies of measles in New York's first such death in 30 years&nbsp;&nbsp;The HinduNew York reports first measles death in 30 yrs as vaccination rate falls | Measles is an extremely contagious virus | Inshorts&nbsp;&nbsp;InshortsNew York state reports first measles-linked child death in over 30 years amid outbreak&nbsp;&nbsp;ET HealthWorldNew York Reports First Meas",
+      "summary": "Child dies from measles in state's first known measles-related death in more than 30 years&nbsp;&nbsp;Buffalo Toronto Public MediaChild dies of measles in New York's first such death in 30 years&nbsp;&nbsp;The HinduNew York child dies from measles in state’s first fatal case in 30 years&nbsp;&nbsp;The GuardianNew York state reports first measles-linked child death in over 30 years amid outbreak&nbsp;&nbsp;ET HealthWorldNew York Reports First Measles Death In 30 Years&nbsp;&nbsp;NDTV",
       "sources": [
         {
           "name": "Buffalo Toronto Public Media",
@@ -270,18 +366,6 @@
       ]
     },
     {
-      "id": "1d6413bd9a45",
-      "title": "NASA Telescope To Fall On Earth: Mumbai, Hyderabad In Possible Debris Zone - NDTV",
-      "published": "2026-11-03T12:08:32+00:00",
-      "summary": "NASA Telescope To Fall On Earth: Mumbai, Hyderabad In Possible Debris Zone&nbsp;&nbsp;NDTVNASA’s Swift Observatory to Re-Enter Atmosphere&nbsp;&nbsp;NASA Science (.gov)1.5-tonne Nasa space observatory set to crash on Earth today, possibility of debris parts falling in India&nbsp;&nbsp;The Times of IndiaNASA's Swift space telescope is about to crash to Earth. Where will it fall?&nbsp;&nbsp;SpaceNasa telescope launched in 2004 to plunge back to Earth after failed rescue mission&nbsp;&nbsp;The Guar",
-      "sources": [
-        {
-          "name": "NDTV",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzR5cXdnOXBVMTUwaWdhSnFlOVdpME1HX3JnendLOTlYeFl2R2hQTmJzc3FrLUF0Smh4azBEcjJja0dfQXdLaXViSVV1bEhMa3AzSnBndnFhVXFtVnpyR1ZSNDVJdDJPWlhtYnNkWmpFbGJnQ2FLYnVkekZKVEJIWGZ5X3gxdXJpNDFobTRZUktSS2ZkUnBub0lEaDB0T1ZwTDJ4WXhsdF8wZ1dKM2RWcEZUSdIBuwFBVV95cUxNV29UazBfajl5SUhRRF9DU1h1dnJFTFFSNjZhZ2J4YUFYSERSa1Y2LVVUdmtmaEJlVURYR2RmeXlteW50SWRCVXhkbHBPTW8xTFZjbGVWVEl0YlhBaFhOWGo1RHlPWFl0ZXpRaEdFV0dwU0ZTelJtV2N0MHluMEpNZl9nWEhFT3VhdGF1ZG9mYmZUS0NMemdjLVhkb21lQkZ3SlZxYXRJY2ZWN1VqcUhwcFdlMzdCekFzLUtZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4e36067c080",
       "title": "Rituximab Linked to 10-fold Higher IBD Risk in MS - Medscape",
       "published": "2026-11-03T11:57:09+00:00",
@@ -294,14 +378,14 @@
       ]
     },
     {
-      "id": "e7720197bdb1",
-      "title": "Diabetes Risk and Depression Among Adults Without Known Diabetes: A Community-Based Mixed-Methods Study in Rural Puducherry, India - Cureus",
-      "published": "2026-11-03T10:35:13+00:00",
-      "summary": "Diabetes Risk and Depression Among Adults Without Known Diabetes: A Community-Based Mixed-Methods Study in Rural Puducherry, India&nbsp;&nbsp;Cureus",
+      "id": "c59be51c6fb9",
+      "title": "Africa CDC revises latest Ebola outbreak toll to over 5,300 | Daily Sabah - Daily Sabah",
+      "published": "2026-11-03T11:29:00+00:00",
+      "summary": "Africa CDC revises latest Ebola outbreak toll to over 5,300 | Daily Sabah&nbsp;&nbsp;Daily SabahMore than 5,000 die from Ebola in DR Congo's deadliest outbreak&nbsp;&nbsp;BBCEbola outbreak kills more than 5,300 people in DR Congo&nbsp;&nbsp;Al JazeeraEbola cases, AI math breakthrough and the dangers of making daylight saving time permanent&nbsp;&nbsp;Scientific AmericanThe world’s perilous Ebola complacency&nbsp;&nbsp;The Japan Times",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd1kxSkNjN2t6ck1WZ3o0ZTVUZWRJZWdyZ1I5XzJOOVJMVmRKZm11cHdLTzl6M2JGeUg0bmNwMzdNSDh4SHNhbzA3ZzJQNzIxVk1tb1V1eVRsdFpzNnpFZWZJdWpnc0Jya21BcXBJWW9iNm5jQmZpMFNTcGtjV1NlSWxkOVFLUUVrV2x5dlNTajdKb2tmdnBINUJTWE02LVZBNHdDNkREZFNzNDdMdEQ3c0xVWGhSNml1MmxkWDF6THFQY29TSWpZcDFiR0hvNXJ0enVrWElrWDhSWURsMzdGTjdZaU04ZzlVWWpidnR4aEtoY0NxOGZkZlNrNA?oc=5"
+          "name": "Daily Sabah",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVZXdUxmNTBXVl8xUXcyM002QlpEMEdFdTUyZmRDZkxwbUZPZUhHTURDUllPUVVnYXlQOWlrcS1UcHlqX1VzWkNESnNsdXlxWHVfUDJacnNOQVgwdWd2UWNQLWptZmY4NV84eEg5dkk4X0gxNi1KLUY1ekxyWlNSbjRkUDBvM3NqWmZpb1FNZFpHRW5zc2lwdjRYVlVDX0XSAaQBQVVfeXFMUE83Ql9nNmF3QnpkaTRmbDNZeFFTeVY2Qm5Rc09GT2dSZWU1OUJZU01WY1pWTXpqLUtmVnNvTFY5MkpuaUZHZnd3V19XZVZTdmhtajU1N2tXcEJiRHZDSERmRC1iTUZUU0hKSmk4eDBKRmJySUI1b29LZTMwUmdaWGdzY2JwV0FlN0Nlbk1jNllMRDFpQkUxQmpRazd0Y1pzNHJ5S0E?oc=5"
         }
       ]
     },
@@ -314,18 +398,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xUmFSbkExU3dQc0pndWRjUXh4bDB1MXdGcElzakl5WW5CaE9hVDFobnlfRnBBY3hISEw1RzJNX2FhZWlOMW9rLTh5bG5RelpZSW41S3ZxX1QtOC1qbF93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "805106ef18fb",
-      "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past - WIRED",
-      "published": "2026-11-03T10:15:00+00:00",
-      "summary": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past&nbsp;&nbsp;WIREDUPSC Prelims Current Affairs for 3 November 2026&nbsp;&nbsp;Vajiram & RaviNASA-funded Study Details One of Oldest Mars Meteorites Ever Found&nbsp;&nbsp;NASA (.gov)A rose-colored rock found in the Sahara in 2022 turned out to be a 4.1-billion-year-old piece of Mars&nbsp;&nbsp;Futura, le média qui explore le mondeAncient Mars Meteorite From the Sahara Is Over 4 Billion Years Old&nbsp;&nbsp;Gizmodo",
-      "sources": [
-        {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1J2VzdJd0J6eGg5VUVSTS1MU0xzUnJoVmdTZjlwX2hNSTZaTHVDWFRjS0FiZ1pCQXVrX1dsUHlfQ01pX2x6YVVXWU0wbWdkcWg2SmxaWW9YaHdRTTJqcXhfeGxmaWpuWUhYVXNoU09nS0wtUFJYX2tUV1Z0NlVEaEtqY0ZyN01DQ3U5cDhac0RiVGNqRHJzN3hjbExOZnZESFFDb1ZOTE5hQm9keHRnWXJVYlMtcGlqV2Vj?oc=5"
         }
       ]
     },
@@ -405,7 +477,7 @@
       "id": "a6e10d7e0572",
       "title": "Shamonda Virus Detected in UK Livestock for the First Time - India News Network",
       "published": "2026-11-03T05:58:37+00:00",
-      "summary": "Shamonda Virus Detected in UK Livestock for the First Time&nbsp;&nbsp;India News NetworkShamonda virus found at dairy farms in Shropshire and Powys&nbsp;&nbsp;BBCNew cattle disease spreads across Europe&nbsp;&nbsp;UkrAgroConsultHorror as deadly virus that killed person in France found in UK livestock for first time&nbsp;&nbsp;AOL.co.ukShamonda virus detected in livestock in Great Britain for first time&nbsp;&nbsp;GOV.UK",
+      "summary": "Shamonda Virus Detected in UK Livestock for the First Time&nbsp;&nbsp;India News NetworkShamonda virus found at dairy farms in Shropshire and Powys&nbsp;&nbsp;BBCNew cattle disease spreads across Europe&nbsp;&nbsp;UkrAgroConsultHorror as deadly virus that killed person in France found in UK livestock for first time&nbsp;&nbsp;Daily ExpressShamonda virus detected in livestock in Great Britain for first time&nbsp;&nbsp;GOV.UK",
       "sources": [
         {
           "name": "India News Network",
@@ -441,7 +513,7 @@
       "id": "0b7288420790",
       "title": "50+ Stroke Survivors Invited to Mark World Stroke Day at Aadicura Hospital, Vadodara - ANI News",
       "published": "2026-11-03T05:11:00+00:00",
-      "summary": "50+ Stroke Survivors Invited to Mark World Stroke Day at Aadicura Hospital, Vadodara&nbsp;&nbsp;ANI NewsSee more headlines and perspectives on Google News",
+      "summary": "50+ Stroke Survivors Invited to Mark World Stroke Day at Aadicura Hospital, Vadodara&nbsp;&nbsp;ANI NewsDo you know signs of a stroke? BE FAST are the words to remember&nbsp;&nbsp;NPRNeurologists explain how to use BEFAST method to recognise a stroke, warning signs and risk factors&nbsp;&nbsp;Hindustan TimesManipal Hospitals Promotes BE FAST Approach To Stroke Detection&nbsp;&nbsp;BW Healthcare WorldExperts in stroke medicine emphasise on timely treatment&nbsp;&nbsp;The Hindu",
       "sources": [
         {
           "name": "ANI News",
@@ -501,7 +573,7 @@
       "id": "718359c20a81",
       "title": "New Study Suggests Comets Didn't Bring Life To Early Earth After All - NDTV",
       "published": "2026-11-03T01:10:16+00:00",
-      "summary": "New Study Suggests Comets Didn't Bring Life To Early Earth After All&nbsp;&nbsp;NDTVScientists say decades-old theory on the origin of life might be wrong&nbsp;&nbsp;CNNComets didn’t seed life on Earth after all, new study suggests&nbsp;&nbsp;University of CambridgeStudy claims long-held theory of origin of life on earth could be completely wrong&nbsp;&nbsp;New York PostDid comets help start life on Earth? A new study questions the idea and scientists are baffled&nbsp;&nbsp;The Economic Times",
+      "summary": "New Study Suggests Comets Didn't Bring Life To Early Earth After All&nbsp;&nbsp;NDTVScientists say decades-old theory on the origin of life might be wrong&nbsp;&nbsp;CNNThe Components For Life May Not Have Arrived By Comet&nbsp;&nbsp;HackadayStudy claims long-held theory of origin of life on earth could be completely wrong&nbsp;&nbsp;New York PostScientists Upend Theory on Origin of Life on Earth&nbsp;&nbsp;Newser",
       "sources": [
         {
           "name": "NDTV",
@@ -518,18 +590,6 @@
         {
           "name": "Journal of Medical Internet Research (JMIR)",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Kd2dVOXM4bEZLMEhpRkZTclFhb1VJV3NCZU1lYkFvNHhPejB5d3IzS1R5S0dqLUo3SDE5UWl6QzR0dm5TX3R2ZzNKaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76436972ff61",
-      "title": "Scientists Gave a Human an AI-Designed Virus. What Could Possibly Go Wrong? - ZME Science",
-      "published": "2026-11-02T20:53:55+00:00",
-      "summary": "Scientists Gave a Human an AI-Designed Virus. What Could Possibly Go Wrong?&nbsp;&nbsp;ZME ScienceGoogle DeepMind Is Trying To Solve A Huge Problem In Healthcare: Antimicrobial Resistance&nbsp;&nbsp;ForbesAI-Designed Phage Treatment of Resistant Bacterial Infection&nbsp;&nbsp;Contagion LiveRadical Numerics says it gave a patient AI-designed viruses to treat a resistant infection&nbsp;&nbsp;Mezha.netGlobal Fight against Antimicrobial Resistance: New Superbug Threats, AI-Designed Viruses and Promi",
-      "sources": [
-        {
-          "name": "ZME Science",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelpraGxHcTNVUDhLdFYzemNkMzExR0Ytck5CUlpYZURwVWJYUDN0VE93MzRTOFJ4UFRIcFc4bGJCSEVQSy1VS0FQa3hqbjN3NFFzTmJkVGZnZDNRX1JkV3U2N1pXZkRNaUw0ck5IMzVPc0RNRUdnbWQ1aElsX2xWTUxUM3BMWjY1MlY0VGNn?oc=5"
         }
       ]
     },
@@ -561,23 +621,11 @@
       "id": "8488522ccb9b",
       "title": "Does vitamin B12 really help prevent heart disease? - Medical News Today",
       "published": "2026-11-02T18:14:11+00:00",
-      "summary": "Does vitamin B12 really help prevent heart disease?&nbsp;&nbsp;Medical News TodayLow vitamin B12 is linked to heart disease. Supplements tell a different story&nbsp;&nbsp;News-MedicalScientists Uncover Link Between Low Vitamin B12 and Heart Disease, Question Benefits of Supplementation&nbsp;&nbsp;Medical DialoguesVitamin B12 overhyped in heart health but could aid stroke prevention&nbsp;&nbsp;AOL.com",
+      "summary": "Does vitamin B12 really help prevent heart disease?&nbsp;&nbsp;Medical News TodayScientists Uncover Link Between Low Vitamin B12 and Heart Disease, Question Benefits of Supplementation&nbsp;&nbsp;Medical DialoguesVitamin B12 overhyped in heart health but could aid stroke prevention&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "Medical News Today",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bd3ed0e97f2",
-      "title": "Very Low Protein Intake Tied to Higher Kidney Failure Risk in CKD - Pharmacy Times",
-      "published": "2026-11-02T17:05:17+00:00",
-      "summary": "Very Low Protein Intake Tied to Higher Kidney Failure Risk in CKD&nbsp;&nbsp;Pharmacy TimesK-Wellness Kidney Health Guide: How Sodium, Protein and Potassium Affect Kidney Function, Plus Four Kidney-Friendly Foods&nbsp;&nbsp;헬스조선ASN: Low protein intake linked to kidney failure risk in Asian patients with CKD&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Pharmacy Times",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWNFQmRsb3BoTlgzM2lEejdHY0FvMlo5SV9QRTNKd1lXWUxpMjFCUDUyNlR4NVVTX0J6T09YZk1LQS1QSmYxeExWeTBRTm9vV3poN2JvUXRwV3IxMTZaVHlGS2ljTGJheXAxZXNGLWJGSWs5bWZITm1RUkYzOG9HUzRiOFNCTktkSWZJdWN1X2RPUE5QVl9adnBXaDlyZURmdVE?oc=5"
         }
       ]
     },
@@ -590,18 +638,6 @@
         {
           "name": "IndulgExpress",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnFueldCMTFMWUVDNHJDazRXOHllRGVqdGNoaC0xei1mUDdrMTZxME1yM2dWTDhiVzFkTUFkbWwybEY2VERhUEpPQ1V3M1Q2aURTeHl2dzVwM3EzMDFpTS1fd0xXY0YtNUt1ZmJNd3Q5UzV0N25xMDE5eVBYTkZZaWY3MTAxVUkyTTNLYjNYdS1vTWgxNzZtSk9DVGtoVUNDa2Ruc0xIbmlRYUFITXlTU2VHQTRJN1Rna3RJQlF6alBGN01lOE1qUmxBR3BWMDFf0gHeAUFVX3lxTFAtdHVLSkNPci02Nk5jdnJaVGxRenB0Q291al9UaUpLdGRvb2ZKbDNlSkJtVU03eW5EdENmbENhVnl1ZDdjYTFTb0J2N3B0R3pLSEY1TXo4N0NYS0JNbXNzbEg3eUREY0YtcWhXZHVKSVg1QWRYUXZhT252Tkt3ckR4RmlYWDhrQ3dCZElKRkZmUGxTeGkzZEtLQ2hla2lqb285SkJPMUdjQl80ZEZ0WXhtTGNuT0xHQ1cxNjVZNU9KTGNNQklHelF4TUMxcnRSSU0tZGN1WU9NandmQUhuUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7340f4ba91e",
-      "title": "Neurophet and RapidAI Partner to Expand Access to Alzheimer's and MS Treatment Monitoring - TNGlobal",
-      "published": "2026-11-02T14:57:20+00:00",
-      "summary": "Neurophet and RapidAI Partner to Expand Access to Alzheimer's and MS Treatment Monitoring&nbsp;&nbsp;TNGlobal",
-      "sources": [
-        {
-          "name": "TNGlobal",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaC1vMGsyWTA4Zkt4VnI2b0drYWFtbDJEaGQyUWNJTjZvWlA4UGFoQ0RRbUFvc2JPd1d1SXlOWnI3RE5EWHA2VEpxY2RaNEd1RTY2d1RjTE1wUzNObGJ0Um8wbUd4MWNTY3EyczJsUHhKaGtPdEZDV2J1SmNhWDhrc3U5VnBtTXhQRjlNclNPRzJ6VkthUjhZRjBHTHFvVEVreWJrVDVQUzc2UTZyM0wtZlJRUWs3cG5RYWVfV0Fn?oc=5"
         }
       ]
     },
@@ -630,18 +666,6 @@
       ]
     },
     {
-      "id": "ce2b44980f26",
-      "title": "Long COVID Risk Higher with Autoimmune Rheumatic Diseases - EMJ",
-      "published": "2026-11-02T13:39:22+00:00",
-      "summary": "Long COVID Risk Higher with Autoimmune Rheumatic Diseases&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0I5czNNdXQyQ0RtOWxNNDl4SWtFU0NlaHR5eF9hcUJXNjJPY1ZHN2c0UjBGb05SZGRyTjd2N3ZRZlZsSDBvY0ktLWhNLUd3WmtudHJhOWhTY1VyZ0MybXJZckxmY3Vxc0FLUWRNcGlGdmJWWkxCNFQ1RnhOWks1V2stbElWXzVwUURHM0NjTDRLRWRJUDdTbjZnMVJFR3I5NVJ2bkZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8927fd9f019b",
       "title": "Experts Warn Against Using Weight-Loss Injections as a Cure for PCOS - The Indian Practitioner",
       "published": "2026-11-02T13:22:31+00:00",
@@ -657,7 +681,7 @@
       "id": "00fadadcc762",
       "title": "Vaccines for the 2026 Bundibugyo Ebola disease outbreak: access gaps and recommendations - ReliefWeb",
       "published": "2026-11-02T13:07:51+00:00",
-      "summary": "Vaccines for the 2026 Bundibugyo Ebola disease outbreak: access gaps and recommendations&nbsp;&nbsp;ReliefWebEbola vaccine trials begin in DRC&nbsp;&nbsp;NPRBelgium sends mobile lab to DR Congo for Ebola research&nbsp;&nbsp;UA.NEWSKenya allocates $2m for Ebola preparedness as WHO launches vaccine trial in DRC&nbsp;&nbsp;Realnews MagazineEMA and AMA’s Joint Ebola Vaccine Guidance Is a Regulatory Harmonization Blueprint Sponsors Can’t Afford to Miss&nbsp;&nbsp;The Clinical Trial Vanguard",
+      "summary": "Vaccines for the 2026 Bundibugyo Ebola disease outbreak: access gaps and recommendations&nbsp;&nbsp;ReliefWebEbola vaccine trials begin in DRC&nbsp;&nbsp;NPRNorth Kivu: Measures taken against Ebola in Mutwanga Health Zone&nbsp;&nbsp;ACP | Agence Congolaise de PresseBelgium sends mobile laboratory to DR Congo for Ebola research — Anadolu Agency&nbsp;&nbsp;UA.NEWSEuro Roundup: EMA and African counterpart create guidance on Ebola vaccine clinical trials&nbsp;&nbsp;RAPS",
       "sources": [
         {
           "name": "ReliefWeb",
@@ -693,7 +717,7 @@
       "id": "f633358569c2",
       "title": "Non-experts with AI guidance and off-site review perform quality mobile rural heart scans - Medical Xpress",
       "published": "2026-11-02T10:00:26+00:00",
-      "summary": "Non-experts with AI guidance and off-site review perform quality mobile rural heart scans&nbsp;&nbsp;Medical XpressAI-Guided Heart Scans by Non-Experts Show Promise in Rural Communities&nbsp;&nbsp;citybuzz -",
+      "summary": "Non-experts with AI guidance and off-site review perform quality mobile rural heart scans&nbsp;&nbsp;Medical XpressAI Takes Center Stage at AHA 2026. Experts Warn It Must Be Built for Everyone&nbsp;&nbsp;MarketScaleHeartLung.AI to Present Eight Abstracts at AHA 2026, Advancing a New Era of Preventive Screening&nbsp;&nbsp;EIN Presswire",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -710,30 +734,6 @@
         {
           "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcDlONWQydkROR1VSbWlIX2lMYzh0REo0THFXY1RpQXBuSkg3ZmpRazlBa3FjOHhNbFcwS3B0ZDBpY1RzcldKQVFRQUxYbXdQSzNnZ3pRWXdxTGpERG9OaGJ3dVgzeVQxZ2VjZkZPUldQczd6NWVhUzAzV2UxM0ZrOGNYcVdPdTU0bXZINWpxMEV0X0daTVNhUTRfLVlGeWlkMTZhZWN5LXdPdm9MZkxjMzhZX3NNRnRmVEFZSGk4cWgwY3FhSUZYRE9wSzJlN0NUOTAtTDRBY1JoSXFPV3pQcHphWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0959b0977b9d",
-      "title": "Role of Transurethral Resection of the Prostate (TURP) in Chronic Kidney Disease Patients With Obstructive Uropathy - Cureus",
-      "published": "2026-11-02T06:19:59+00:00",
-      "summary": "Role of Transurethral Resection of the Prostate (TURP) in Chronic Kidney Disease Patients With Obstructive Uropathy&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmJXT2R0V3V0ZkpOWXJUbFgxZ0M3eTA3dXFSNTN3eGtHV0I4YmowNDRFdDB5YzBvOWtnRHBwcnhhOXQ2TnlmZnNLN3VIN3M4UWNmYklwNWpiZUU3VUVBUUxXVVlCUkFfOEJnNko4X0xPQjNGenZ0MGhZR0FqZVY0OThpRXJOVm9TSUNYbXBVVk81cjVTTnQxZnlyYS1jWEhKQ293RHlneFBZUTZWVFVQOE9ibTBJa2Y3MTBFVUJwbW4wRmtXUFNMQ3pmQTdGOEkzTnQ2dU1UdzB1WVVhVVZkejBjQl9QUUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "080545d403bc",
-      "title": "Global Colorectal Cancer Congress to Bring Together Global Leaders, Patient Advocates and Cancer Experts - EIN Presswire",
-      "published": "2026-11-02T05:00:00+00:00",
-      "summary": "Global Colorectal Cancer Congress to Bring Together Global Leaders, Patient Advocates and Cancer Experts&nbsp;&nbsp;EIN Presswire",
-      "sources": [
-        {
-          "name": "EIN Presswire",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNuVFNXU0JhOUFWaGFPaG1meGhUa2d0a3VRa2lpYm56WGdEMUdRbk5XeXN3VGRxR0tRLWY1aS1NQjR5MnVmQy10SmlLaTVDVEpHekZQWUxJWWs2b0p4UHJ3aDE3ZHZBYTVNNVpqR3VKUXR2UFl4NGdhUWdmT3JkZEExNXdZdy1YN09YbTJUZ01MOXlLLW54dVpjMm1jSDY0MnBRUm9mMHZzczJ0Z3dMUm1yUnktakp0S1J6ZkRKakU0QXpDb2pjNkVYYkI5Mk1kVFhFbERFblB3VXpzLUd6RVB5cVI?oc=5"
         }
       ]
     },
@@ -777,11 +777,23 @@
       "id": "8b105480f0c0",
       "title": "The Links Between Napping And Dementia May Go Further Than We Realized - ScienceAlert",
       "published": "2026-11-02T01:04:52+00:00",
-      "summary": "The Links Between Napping And Dementia May Go Further Than We Realized&nbsp;&nbsp;ScienceAlertJohns Hopkins Researchers Say One Common Daytime Habit Could Be An Early Sign Of Dementia, And Many People Over 65 Do It Most Days&nbsp;&nbsp;GraziaNappers beware: Dementia (maybe) ahead&nbsp;&nbsp;McKnight's Long-Term Care NewsDementia: the everyday habit that may show up years before a diagnosis&nbsp;&nbsp;Futura, le média qui explore le mondeCan daytime napping increase risk of dementia later in life",
+      "summary": "The Links Between Napping And Dementia May Go Further Than We Realized&nbsp;&nbsp;ScienceAlertJohns Hopkins Researchers Say One Common Daytime Habit Could Be An Early Sign Of Dementia, And Many People Over 65 Do It Most Days&nbsp;&nbsp;GraziaDementia: the everyday habit that may show up years before a diagnosis&nbsp;&nbsp;Futura, le média qui explore le mondeCan daytime napping increase risk of dementia later in life?&nbsp;&nbsp;NewsNation",
       "sources": [
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVFJZS0h3THM5dzhnZFhsWk9Iby12SlFfNzJGb21fcEdvS1Q1aDZFSFNubVlJZXMzOGlWRlJ5MVMzUkNUSXBrdVBwcWcwd282TzFNajlZeGl5cGVyWEJWaTQzNFU0NFNmRVIxWUw4aVN3WXp3b0JZVlVJN2pQMm85bFVNVmg4LTRJdnVTWUV5UEtwQjZtX2c0QmEtN1h5QnI5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca6ec458a47c",
+      "title": "Clot removal days after a stroke could help more patients recover, but the procedure is not without risks - Medical Xpress",
+      "published": "2026-11-01T14:40:01+00:00",
+      "summary": "Clot removal days after a stroke could help more patients recover, but the procedure is not without risks&nbsp;&nbsp;Medical XpressThe Treatment Window For Some Strokes May Be Far Longer Than We Thought, But There's a Catch&nbsp;&nbsp;ScienceAlert",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0ZVV3pJZmtxX0pZQWN5dmF3czFpYVNVNFNHdlg5aFFXcjA3cUVYZzU4VnRoSTdDd0thUXpIeFUwSnJOYW9hUnFnbXZNY1phbTRiNmMxN2k5dlJNU1MzbWtFQ0k3LXR1VDZTRHQ3ZzB0N2x1TkdMNGd4T2RTRVdYd0poS1UwcVk?oc=5"
         }
       ]
     },
@@ -801,7 +813,7 @@
       "id": "229d4d02c025",
       "title": "Can 4 Minutes Of Exercise A Day Keep Diabetes Away? New Study Has An Interesting Answer - Times Now",
       "published": "2026-11-01T07:02:00+00:00",
-      "summary": "Can 4 Minutes Of Exercise A Day Keep Diabetes Away? New Study Has An Interesting Answer&nbsp;&nbsp;Times NowScientists Reveal How Just a Few Minutes of Daily Movement May Benefit Blood Sugar Health&nbsp;&nbsp;Medical DialoguesCan Four Minutes of Exercise Prevent Diabetes? New Study Says Yes&nbsp;&nbsp;WorldHealth.netBlood sugar spikes may be tied to everyday habits you can control, expert says&nbsp;&nbsp;FOX 11 Los AngelesHow to manage blood sugar when you can’t exercise regularly&nbsp;&nbsp;The",
+      "summary": "Can 4 Minutes Of Exercise A Day Keep Diabetes Away? New Study Has An Interesting Answer&nbsp;&nbsp;Times NowScientists Reveal How Just a Few Minutes of Daily Movement May Benefit Blood Sugar Health&nbsp;&nbsp;Medical DialoguesCan Four Minutes of Exercise Prevent Diabetes? New Study Says Yes&nbsp;&nbsp;WorldHealth.netBlood sugar spikes may be tied to everyday habits you can control, expert says&nbsp;&nbsp;FOX 11 Los AngelesJust Four Minutes of Exercise a Day May Help Control Blood Sugar, Study Fi",
       "sources": [
         {
           "name": "Times Now",
@@ -822,18 +834,6 @@
       ]
     },
     {
-      "id": "cc5d5013c2fc",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak - BBC",
-      "published": "2026-10-31T15:16:20+00:00",
-      "summary": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak&nbsp;&nbsp;BBCEbola outbreak kills more than 5,300 people in DR Congo&nbsp;&nbsp;Al JazeeraEbola survivors comfort sick children in Congo's isolation wards&nbsp;&nbsp;ReutersThe world’s perilous Ebola complacency&nbsp;&nbsp;The Japan TimesEbola cases, AI math breakthrough and the dangers of making daylight saving time permanent&nbsp;&nbsp;Scientific American",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jNU5SVHJ6R1hPT1VhOS02QU9URWQwR0htNnBXeEg1UXNWOGV3T25BbTVhZXJXVDdhV3hRVy01RWItVTR4eWRSWGdWWlNTdjd5QnB4MlA5Wmw1M28?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0c1cbc62ce53",
       "title": "Higher BMI May Be A Key Factor Behind Lower Breastfeeding Rates In Women With Diabetes: Study - News Mobile",
       "published": "2026-10-31T07:00:00+00:00",
@@ -842,6 +842,30 @@
         {
           "name": "News Mobile",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakJpZHlTcHpBRDJYRU9veU4zdk5NQjc5LXd4Vzg1eW16bWdsMnVfOWcwVURuT21VQ2N1VjFTOFVUYkhfTm5DZG5SRTktTDh3TW5ib1dPUHgxeG05X0diV1dqRzNHS0NBN09OZ0pjZFVIcEttOVJqNlhZazBpQjZEcXZxQ0ZYNUE4Rjllc1Jqa3BJVU9BRGNqQ2FjUWhBNGQ5dXN6cHRsOG1ZOWc1QnNMa0kyZXVTa3VSc1ViRnhfOTRQRTNS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb5780687827",
+      "title": "Researchers tested honey and propolis from Australia’s native stingless bees against 16 bacterial and fun - The Times of India",
+      "published": "2026-10-30T07:10:00+00:00",
+      "summary": "Researchers tested honey and propolis from Australia’s native stingless bees against 16 bacterial and fun&nbsp;&nbsp;The Times of IndiaBeehives Have Built-in Immune Systems That Protect The Colony With Layers of Defense&nbsp;&nbsp;ScienceAlertAustralia’s native bees have an unusual power that can fight antibiotic resistance&nbsp;&nbsp;The ConversationDiscover the Complex Defense System of Bee Colonies&nbsp;&nbsp;finway.com.ua",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQcG5oSFVGaWNCTTRrQi1vbFAyY2tYMFBpdGgxZXVadVB6U19CZDZwM0oxWkdyRlZEU2d4eERJX0tMbGMySVNoYTFGUkFQd2dVOXYtcHVDTVBrMnk3SFh6ZUJfTUhKeThkc1ZZVVBXRHhUeTdkZGZzalZpRHlSN2cxTndIUmVGMzhXZ2E1SHNfTDB5a2NjOUIwTjcwTkZiOUc3WEVGQTBhZDA5eHhUOHgzRjFJdUR2YTBBNkM4ZlFtWExjanNYZGdacjVkZzVYUlZMNEpuck5PRC1pb0ZLRmxNcmJZVGtILXBsdGc3RlYxWVFkRWZaMUI4TzBWMlU5U3RRbENZUXd4UGFlM3ZnYUNGTnBVczlkVlNNWWtJZmsyMGlid19hUlN3R01rLWFJeEllUTlUUHc2Ynkxem94RkdCczFfajB0anlDcUJXVS1FMWRSdkVYd3J1XzJtWUxxY0RTRWxLa2pLU25EYVdqaEJXcEpFNlNORm1UWU95VzR3UnJFZXVlX2NoM1pWYXJMSUp0UjExeGJMcUIwWTc0a20xbS1UMElIOE5ZTFA5d2hSanZzUUkzZWg4RDJKU0tJM1N4aldoWWNFZFg3d1IwZE1fLUlHeVRQM1U3QXBvU244SDlDbU9H0gHqA0FVX3lxTE9fVEJraHo5X05GY1duckNzWDU0WXo1VDNqQ2w3OTFLVVRiQVlhVEhXeE85cFJFTlJMUlpCSE94a3RGWlRtX2VkUHpqeEJjSWxXTHhGbl9KbHhBa2p2VmV5bFkyZTNxclRNdFlzRHlsV3BKRG9CX3VldkJqVlVoNzdxR0dPVmY0WDdKRVVZUWg0UlBnbHdoM29qbElJVlk1ejhkYWFhV0dvMXFLMk9ZM3hVYVNXVk12eVYzTjRBWW53U1FPdnJxNEdhSTJBWkdPSzBzZTFHUklObEo2dFVQeThzcEVCYnRyMEFsWlowU29tYm10cEdXRFF3Wk9uaEdXVVBpaVFQMmpyREwzSndVLWt6ZWtCNksyc09aN1JRYm1jZHRleDlwc05ET0JFa2VsVldpeWJXTFlsQVJNZkpudmVvZXZ6UHVudC1YTm16d0FEaWVkLVNLRlpNc3Yta1FXaDdPVHJVWExITXRNbnRGbXpHeGlGOTZfTWtwX25yd3BuRlItczNVNFhYR0FCeC1hZHJHeWJMRjI0dnEtRENxZ1FPVlh0NFVBaGpnMWpxSGgycTFjZzVIRjNpWUFKSmtZaXBfR29uSmtvZVVndmpmZlV0WjJwSVlNZG9QSi03cFphTVN3YnI3Y2prVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3a97750ce97",
+      "title": "I didn't know I was lacking in vitamin D until I collapsed at work - BBC",
+      "published": "2026-10-30T00:29:05+00:00",
+      "summary": "I didn't know I was lacking in vitamin D until I collapsed at work&nbsp;&nbsp;BBCFind your place in the sun with Vitamin D&nbsp;&nbsp;The Times of IndiaSPF 30 vs SPF 50 In Winters: A Dermatologist Explains What Indian Skin Needs&nbsp;&nbsp;OnlymyhealthWhy Vitamin D Is So Important for Older Adults, and How to Get Enough&nbsp;&nbsp;Everyday HealthThe best ways to make sure you get enough Vitamin D in the fall&nbsp;&nbsp;WFMZ.com",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfYUFtU21xdVV3OFpzWFVWbzFiRHgtZU9adlVublEtTWJXaDFPbXlzSllaN3hJOEtqaThNLUdFa0RtQVd4RV9Gc3JoY0lzUGtVUUhpNzFrbGptb2c?oc=5"
         }
       ]
     },
@@ -861,7 +885,7 @@
       "id": "56cf46f40c80",
       "title": "Scientists unveil AI detecting pancreatic cancer risk 3 years early - NewsBytes",
       "published": "2026-10-29T09:21:01+00:00",
-      "summary": "Scientists unveil AI detecting pancreatic cancer risk 3 years early&nbsp;&nbsp;NewsBytesScientists Develop AI Tool That Spots Early Pancreatic Cancer Signs Missed on Routine CT Scans&nbsp;&nbsp;Medical DialoguesResearchers Say This Unexpected Body Change Could Be an Early Warning Sign of Pancreatic Cancer&nbsp;&nbsp;Men's JournalRoutine CT scans show steeper fat loss years before pancreatic cancer diagnosis&nbsp;&nbsp;2 Minute MedicinePancreatic Cancer Could Be Detected Much Earlier with Mayo Cl",
+      "summary": "Scientists unveil AI detecting pancreatic cancer risk 3 years early&nbsp;&nbsp;NewsBytesResearchers Say This Unexpected Body Change Could Be an Early Warning Sign of Pancreatic Cancer&nbsp;&nbsp;Men's JournalNew AI Model Predicts Cancer Risk 3 Years Before Diagnosis&nbsp;&nbsp;The Times of IndiaPancreatic cancer patients show symptoms in which visceral and subcutaneous fat decreases faster tha..&nbsp;&nbsp;매일경제Pancreatic Cancer Could Be Detected Much Earlier with Mayo Clinic AI&nbsp;&nbsp;Inside",
       "sources": [
         {
           "name": "NewsBytes",
@@ -918,14 +942,14 @@
       ]
     },
     {
-      "id": "46fefb266679",
-      "title": "Surviving brain stroke: Clot removal may help patients up to 72 hours later, says study - The Indian Express",
-      "published": "2026-10-28T01:32:48+00:00",
-      "summary": "Surviving brain stroke: Clot removal may help patients up to 72 hours later, says study&nbsp;&nbsp;The Indian ExpressClot removal days after a stroke could help more patients recover, but the procedure is not without risks&nbsp;&nbsp;Medical XpressThe Treatment Window For Some Strokes May Be Far Longer Than We Thought, But There's a Catch&nbsp;&nbsp;ScienceAlert",
+      "id": "c0372213a715",
+      "title": "Women’s longevity is not just about living longer: Expert explains why strength, hormones, brain health, - The Times of India",
+      "published": "2026-10-28T10:52:00+00:00",
+      "summary": "Women’s longevity is not just about living longer: Expert explains why strength, hormones, brain health,&nbsp;&nbsp;The Times of India",
       "sources": [
         {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjRPUjNEV3dlTjlUSjlENEdZQmlKdjIxMkh2Qy1xSVRSRm5JblMzYWczR2RiTm5SM1lFSVhHNXVMSmxOVjNGOTZHR2kyc1c3TVdobzhwQU56NkVLM3NzQlRGX1lZeENOYUxHdV9UUVdicHdEYnBDUG9EVEE1OGVVME53TDd1OEtRSlV3dlplWGJnLVpkSlVFXzJPeFp0aWtSTkFpUtIBqwFBVV95cUxNRVN3MENBc0FSV1VsdXpHZjdNTW01YUdMcmlaZThhNVpWcG5YNlQ4SFY4SXlfZWVSRXNoSS1RRzNjeVdYSDhVZDNmWkE5bFVKMjljZ091dkxGVWhDUFZuQkxqV1VsZ2ZmOEJmSVFzT19HUUpiQVJlMHBJUEsxV0RZQWw0bVJtazVzY2xZWm5QZG91ZENpVWtYbW1Tbm1rRUcyY1JNUnpJY3d1ZG8?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNM3FLc0dObmM0TTdtakI3UDVGbkhXOXpjdXZ2VWp6WVc5TkZJZnN6T0wtYTZCd190UGNCSTlGY3RxSno3QVBTMlFSdFJSaXd1SUxNMVdVWl9WYjd2eWh3ODB5RzNyOXdfdEFheTdaRmtrZk5JTjlZZHpsYmVmRDIxV1M5REM5WjktaDlxUWNfS19qeUotQzcxb0JzV3czQzFRNDZMUENZYThwZkJJQ2RhMExwdjBNaGU0QTBodlQ0NFpnNWdJMUJTSHpZY2NlWHJCNnJDLUZMWkdJVVdjYkxKaEY1QzU5akpjMXJ5Wk9zdktPSmpSbzE2WW9kTmhjOGtEN2dVR2MxSG5MbUFFRXdTbXpjTXhhM1ZsN010OUpjZ00zYTl4NFlEMkx1eXJPLVRiVTc5VW9tam40M0lxajhrdWRnanNfQ1hHQlA3dm5EeFJhUjhpVUFTbTViczRJcHpSVTV3ME5ZYnZqbFpnUlhuMzNRYTRSRjZnbWtzZUZ1M1F4WG04QzhEdGh4X3JFd9IBkwNBVV95cUxQX0ExNGFKZGU2OUJwWGV4UWxRaVhwaGVGYVRxZWpRVzZUUW83WW0wQ09SdVdxQ2J6WUw2SmNFeTY2ZmRLR0tOU3hVYWxhb3lQenJjUTZFOV9pTWt6ZURZeERaXzZJN0RnSlBiajFSZ3E4ekpCcTZVMENRRVZvVE5HUlpOa1ZPTk1EaXIzUGpHNTZxNk1qeTQ0SzRKMDdWTzY5cVZyYnh1WjlFV3RKeDExeTZXNFhENnJMZlJPNkpVRXFqX0QtaUVGV3Y4OVhuNGlEZThGaVd4N3hKaTFOc3JBSks3NFNhUXRnY0ttQThGaVFxcjlxRFJOcHhsVjhMSHRTS2tuREg5T1Q1aGN3dzhFU3VydXJGTk9aUUhIcXlMY1JyR0p1djBPYV9OdkJJNE5tbWlqcFdMT3VNQk53czBacmwtSFRhUjdrZlVXSldvZ1hRbmxJaHJrMFBOYXhxVzVwT3lmbzFVT0pMUWhaRGFMdHhBb2VqQnM5blZxUUR2OXpHX3BERUwybVNaZTN3NnI5N0hN?oc=5"
         }
       ]
     }

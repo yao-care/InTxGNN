@@ -60,11 +60,6 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 10
-    },
-    {
-      "url": "/news/colonic-neoplasm/",
-      "title": "colorectal cancer (colonic neoplasm) News",
-      "count": 1
     }
   ],
   "/drugs/aflibercept/": [
@@ -93,7 +88,7 @@
     {
       "url": "/news/albendazole/",
       "title": "Albendazole News",
-      "count": 13
+      "count": 14
     },
     {
       "url": "/news/generic-cancer/",
@@ -103,22 +98,22 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/aliskiren/": [
@@ -164,27 +159,27 @@
     {
       "url": "/news/db00009/",
       "title": "ALTEPLASE News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/alteplase/",
@@ -294,27 +289,27 @@
     {
       "url": "/news/db00381/",
       "title": "AMLODIPINE News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/amodiaquine/": [
@@ -506,27 +501,27 @@
     {
       "url": "/news/db01076/",
       "title": "ATORVASTATIN News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/cardiovascular/",
@@ -1324,7 +1319,7 @@
     {
       "url": "/news/dasatinib/",
       "title": "Dasatinib News",
-      "count": 13
+      "count": 14
     },
     {
       "url": "/news/db01254/",
@@ -1344,22 +1339,22 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/daunorubicin/": [
@@ -1524,81 +1519,81 @@
     {
       "url": "/news/digoxin/",
       "title": "Digoxin News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/diltiazem/": [
     {
       "url": "/news/diltiazem/",
       "title": "Diltiazem News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/dipyridamole/": [
     {
       "url": "/news/dipyridamole/",
       "title": "Dipyridamole News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/disopyramide/": [
@@ -1654,27 +1649,27 @@
     {
       "url": "/news/db00843/",
       "title": "DONEPEZIL News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/doxapram/": [
@@ -1715,27 +1710,27 @@
     {
       "url": "/news/dronedarone/",
       "title": "Dronedarone News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/durvalumab/": [
@@ -1776,27 +1771,27 @@
     {
       "url": "/news/db12243/",
       "title": "EDARAVONE News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/eflornithine/": [
@@ -1827,27 +1822,27 @@
     {
       "url": "/news/entacapone/",
       "title": "Entacapone News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/enzalutamide/": [
@@ -2090,27 +2085,27 @@
     {
       "url": "/news/db00674/",
       "title": "GALANTAMINE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/gefitinib/": [
@@ -2235,27 +2230,27 @@
     {
       "url": "/news/db08941/",
       "title": "ISOXSUPRINE News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/isoxsuprine/",
@@ -2574,7 +2569,7 @@
     {
       "url": "/news/lorlatinib/",
       "title": "Lorlatinib News",
-      "count": 13
+      "count": 14
     },
     {
       "url": "/news/db12130/",
@@ -2594,22 +2589,22 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/lornoxicam/": [
@@ -3549,13 +3544,6 @@
       "count": 10
     }
   ],
-  "/drugs/potassium/": [
-    {
-      "url": "/news/potassium/",
-      "title": "Potassium News",
-      "count": 1
-    }
-  ],
   "/drugs/prasugrel/": [
     {
       "url": "/news/db06209/",
@@ -3572,27 +3560,27 @@
     {
       "url": "/news/db00175/",
       "title": "PRAVASTATIN News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/cardiovascular/",
@@ -3713,27 +3701,27 @@
     {
       "url": "/news/db00178/",
       "title": "RAMIPRIL News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/ramucirumab/": [
@@ -3776,54 +3764,54 @@
     {
       "url": "/news/db00989/",
       "title": "RIVASTIGMINE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/rosuvastatin/": [
     {
       "url": "/news/db01098/",
       "title": "ROSUVASTATIN News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/cardiovascular/",
@@ -3874,27 +3862,27 @@
     {
       "url": "/news/db00641/",
       "title": "SIMVASTATIN News",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/cardiovascular/",
@@ -3940,27 +3928,27 @@
     {
       "url": "/news/sotalol/",
       "title": "Sotalol News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/streptokinase/": [
@@ -4015,27 +4003,27 @@
     {
       "url": "/news/db00966/",
       "title": "TELMISARTAN News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/temsirolimus/": [
@@ -4302,27 +4290,27 @@
     {
       "url": "/news/db12131/",
       "title": "VINPOCETINE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/memory-loss/",
       "title": "dementia (memory loss) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/bhoolne-ki-bimari/",
       "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/alzheimer/",
       "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 2
     }
   ]
 }

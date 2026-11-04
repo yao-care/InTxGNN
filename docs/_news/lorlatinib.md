@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lorlatinib. 9 predicted indications."
 permalink: /news/lorlatinib/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Lorlatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about Lorlatinib?">
-<strong>Lorlatinib</strong> currently has <strong>13 news articles</strong>, with 9 predicted indications.
+<strong>Lorlatinib</strong> currently has <strong>14 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,37 @@ This page combines the AI-predicted indications for Lorlatinib with the latest h
 <p><a href="{{ '/drugs/lorlatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
+
+### [Neurophet Partners with RapidAI to Accelerate AI-Powered Alzheimer’s Imaging Solutions in the US - BioPharma APAC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5)
+
+2026-11-04 <span class="news-indication-tag">alzheimer</span>
+
+Source: [BioPharma APAC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5)
+
+---
+
+### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5)
+
+2026-11-04 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMibkFVX3lxTE02Z3E1OHpMbE5VUTNsNVNUaWlfdzdWa1pubURFdjVpckxPRHdxamg5elRKOEhHYWhITUo1QWs0YnRoWDJlVkNVdWVJTGdTdDNzcWhCczJlazRWSGRxRDdabktUY0pNeDJkWFNoOVJn?oc=5)
+
+---
 
 ### [Tarlatamab Plus Durvalumab Improves Overall and Progression-Free Survival in Extensive-Stage Small Cell Lung Cancer - Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
 
 2026-11-03 <span class="news-drug-tag">DURVALUMAB</span> <span class="news-drug-tag">Durvalumab</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">small cell lung cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Oncology News Central](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWGFfWk1EaFp4bDJfTEswM0VBcHRneUpNYTFSSHp3d2ROLUJYejNSZnNfaW1XOG10bDVGUzZuUDBPLWhnaGdjbzMzMTlwWDdFcmZCdzUxSDhtc2tGVlBrUXNQWDgxTlpzLTNqQlBmUG0ySnFqZmYyanFJUVBVeE9zSzBwSlJ4UWlLaFBfcmIyelNiWGtwdDZlemwxRFhHZ2V6Y2RyZg?oc=5)
+
+---
+
+### [Cancer registry in Telangana has logged 35,000 cases, government advisor informs Minister - The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5)
+
+2026-11-03 <span class="news-indication-tag">cancer</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVUNPQl95MzJhYzRRcjg1bjQzN2FuOWdXSGZpVzZzWVVnenUzRVJ6TnF3R014cjE3QjJIRWs1YmVSQWFJeFBCRGVqZjFkNHM4Q3l1T3BVbHVWN1BicER1TmFCbjVMZnVYb1k5NEhKNnpKQ2xzQXowQVpkWU85N0JmUkdvQ0VQM0FIbkhvakp2anA5bFBfYWIxLUE0YXZyTjlVb2YzdjNUd05ON21pRm9UczZsQTg2SEhjWTlsYlhrS2JLVEd4U2ZVZ0x5dE9QUmhiRVVxdUYwbk12UmQ0RUpzeWk3d1BEWmRycEd3ONIB8wFBVV95cUxQdzNvTXBMRXU1ODVOVjlYNENqRXItaWtfNV92UnVIYm5KLU11bkFJRnVaZTIwd3ViV01DSjByY2d4c3l6MDB2M1FFSzNUTHFDNDRxMUtYX0tLZWdTYW8zalZ2NHh1ZWF6cWpuQjJ4ZzNHUHE3WnQwLXRhc3JJQVltbk5CdHdrZVJlSmhranBXbm54cEg2UWlDWWkzVmpHX25RTjRSNjJDRk03QWw2RGFyVHViUlhOQWFFUG0zSVczaWJla2FxaWxBRFdoejhCSERQMlFua3BwOEFLYjZURTlaTjRfRHU0MloxcU5VWXF0cXFvWk0?oc=5)
 
 ---
 
@@ -96,22 +120,6 @@ Source: [MedPage Today](https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNHo
 2026-11-02 <span class="news-indication-tag">alzheimer</span>
 
 Source: [IndulgExpress](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnFueldCMTFMWUVDNHJDazRXOHllRGVqdGNoaC0xei1mUDdrMTZxME1yM2dWTDhiVzFkTUFkbWwybEY2VERhUEpPQ1V3M1Q2aURTeHl2dzVwM3EzMDFpTS1fd0xXY0YtNUt1ZmJNd3Q5UzV0N25xMDE5eVBYTkZZaWY3MTAxVUkyTTNLYjNYdS1vTWgxNzZtSk9DVGtoVUNDa2Ruc0xIbmlRYUFITXlTU2VHQTRJN1Rna3RJQlF6alBGN01lOE1qUmxBR3BWMDFf0gHeAUFVX3lxTFAtdHVLSkNPci02Nk5jdnJaVGxRenB0Q291al9UaUpLdGRvb2ZKbDNlSkJtVU03eW5EdENmbENhVnl1ZDdjYTFTb0J2N3B0R3pLSEY1TXo4N0NYS0JNbXNzbEg3eUREY0YtcWhXZHVKSVg1QWRYUXZhT252Tkt3ckR4RmlYWDhrQ3dCZElKRkZmUGxTeGkzZEtLQ2hla2lqb285SkJPMUdjQl80ZEZ0WXhtTGNuT0xHQ1cxNjVZNU9KTGNNQklHelF4TUMxcnRSSU0tZGN1WU9NandmQUhuUQ?oc=5)
-
----
-
-### [Neurophet and RapidAI Partner to Expand Access to Alzheimer's and MS Treatment Monitoring](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaC1vMGsyWTA4Zkt4VnI2b0drYWFtbDJEaGQyUWNJTjZvWlA4UGFoQ0RRbUFvc2JPd1d1SXlOWnI3RE5EWHA2VEpxY2RaNEd1RTY2d1RjTE1wUzNObGJ0Um8wbUd4MWNTY3EyczJsUHhKaGtPdEZDV2J1SmNhWDhrc3U5VnBtTXhQRjlNclNPRzJ6VkthUjhZRjBHTHFvVEVreWJrVDVQUzc2UTZyM0wtZlJRUWs3cG5RYWVfV0Fn?oc=5)
-
-2026-11-02 <span class="news-indication-tag">alzheimer</span>
-
-Source: [TNGlobal](https://news.google.com/rss/articles/CBMivgFBVV95cUxOaC1vMGsyWTA4Zkt4VnI2b0drYWFtbDJEaGQyUWNJTjZvWlA4UGFoQ0RRbUFvc2JPd1d1SXlOWnI3RE5EWHA2VEpxY2RaNEd1RTY2d1RjTE1wUzNObGJ0Um8wbUd4MWNTY3EyczJsUHhKaGtPdEZDV2J1SmNhWDhrc3U5VnBtTXhQRjlNclNPRzJ6VkthUjhZRjBHTHFvVEVreWJrVDVQUzc2UTZyM0wtZlJRUWs3cG5RYWVfV0Fn?oc=5)
-
----
-
-### [Global Colorectal Cancer Congress to Bring Together Global Leaders, Patient Advocates and Cancer Experts - EIN Presswire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNuVFNXU0JhOUFWaGFPaG1meGhUa2d0a3VRa2lpYm56WGdEMUdRbk5XeXN3VGRxR0tRLWY1aS1NQjR5MnVmQy10SmlLaTVDVEpHekZQWUxJWWs2b0p4UHJ3aDE3ZHZBYTVNNVpqR3VKUXR2UFl4NGdhUWdmT3JkZEExNXdZdy1YN09YbTJUZ01MOXlLLW54dVpjMm1jSDY0MnBRUm9mMHZzczJ0Z3dMUm1yUnktakp0S1J6ZkRKakU0QXpDb2pjNkVYYkI5Mk1kVFhFbERFblB3VXpzLUd6RVB5cVI?oc=5)
-
-2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
-
-Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbHNuVFNXU0JhOUFWaGFPaG1meGhUa2d0a3VRa2lpYm56WGdEMUdRbk5XeXN3VGRxR0tRLWY1aS1NQjR5MnVmQy10SmlLaTVDVEpHekZQWUxJWWs2b0p4UHJ3aDE3ZHZBYTVNNVpqR3VKUXR2UFl4NGdhUWdmT3JkZEExNXdZdy1YN09YbTJUZ01MOXlLLW54dVpjMm1jSDY0MnBRUm9mMHZzczJ0Z3dMUm1yUnktakp0S1J6ZkRKakU0QXpDb2pjNkVYYkI5Mk1kVFhFbERFblB3VXpzLUd6RVB5cVI?oc=5)
 
 ---
 
