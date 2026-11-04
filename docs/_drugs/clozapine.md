@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clozapine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 206
-evidence_level: L5
+evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Clozapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L2** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,9 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 ## One-Sentence Summary
 
-Clozapine is an atypical antipsychotic with a broad receptor profile, marketed in India as oral tablets.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**,
-with **1 clinical trial** and **20 publications** currently listed for this direction.
+Clozapine is an atypical antipsychotic that acts on several receptor systems, including dopamine D2 and serotonin 5-HT2A receptors. The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, with **1 completed Phase 2 trial** and a **2020 systematic review and meta-analysis** supporting this direction, mostly in treatment-resistant patients.
 
 ## Quick Overview
 
@@ -49,41 +47,41 @@ with **1 clinical trial** and **20 publications** currently listed for this dire
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 0.9995 |
-| Evidence Level | L5 |
+| Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, clozapine acts on several receptor systems, including D2 and 5-HT2A antagonism, together with muscarinic and adrenergic activity. This broad profile plausibly supports antimanic and mood-stabilizing effects.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, clozapine blocks dopamine D2 and serotonin 5-HT2A receptors and also acts on muscarinic and adrenergic receptors. This broad profile plausibly supports antimanic and mood-stabilising effects.
 
-Mania and the psychotic conditions clozapine is known for share overlapping dopaminergic and serotonergic circuitry. A completed Phase 2 double-blind trial in treatment-resistant mania and a 2020 systematic review and meta-analysis of clozapine in bipolar disorder point in the same direction. However, the evidence comes mostly from refractory populations, so it should not be generalised to all patients with mania.
+Mania and psychotic illness share dopaminergic and serotonergic disturbances, and antipsychotics are already widely used in acute mania. The strongest support comes from treatment-refractory patients, for whom conventional treatments have failed or were not tolerated.
+
+A completed Phase 2 double-blind trial and a systematic review and meta-analysis point in this direction. The evidence base is small, however, and mainly covers refractory populations, so it should not be extended to all patients with mania.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Phase 2 | Completed | 42 | Double-blind study of clozapine's safety and efficacy in treatment-resistant mania, with a companion pathophysiology study |
+| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Phase 2 | Completed | 42 | Double-blind study of the safety and efficacy of clozapine in treatment-resistant mania, with an accompanying pathophysiology study |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Systematic review/Meta-analysis | Journal of Psychiatric Research | Assesses clinical efficacy and adverse-effect profile of clozapine in bipolar disorder |
-| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Systematic review | Bipolar Disorders | Efficacy and safety of clozapine in treatment-resistant bipolar disorder |
-| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Cohort / meta-analytic comparison | The Lancet Psychiatry | Transdiagnostic effectiveness and safety of clozapine versus other antipsychotics across psychiatric disorders |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Review | Acta Psychiatrica Scandinavica | Evidence-based options for managing a manic episode, including choice of mood stabilizer and antipsychotic |
-| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Review | Molecular Psychiatry | Treatment-resistant bipolar disorder in acute and maintenance phases |
-| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Review | Bulletin of the Menninger Clinic | Newer treatments for bipolar disorder rest largely on case reports and case series |
-| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Review | Bipolar Disorders | Overview of what is known about clozapine in bipolar disorder and next steps |
-| [41262335](https://pubmed.ncbi.nlm.nih.gov/41262335/) | 2025 | Modelling study | Drug Design, Development and Therapy | Clozapine drug interactions and individualized dosing in bipolar disorder |
-| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Case series | Clinical Neuropharmacology | 36 patients given ECT with clozapine; 67% benefited and the combination was mostly well tolerated |
-| [9448668](https://pubmed.ncbi.nlm.nih.gov/9448668/) | 1998 | Review | Journal of Clinical Psychiatry | Role of antipsychotics, including clozapine, in bipolar disorder |
+| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Systematic review/meta-analysis | J Psychiatr Res | Assessed the efficacy and adverse-effect profile of clozapine in bipolar disorder |
+| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Systematic review | Bipolar Disord | Efficacy and safety of clozapine in treatment-resistant bipolar disorder |
+| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | Cohort/effectiveness study | Lancet Psychiatry | Nationwide and meta-analytic comparison of clozapine with other antipsychotics across psychiatric disorders |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Review | Acta Psychiatr Scand | Evidence-based options for managing a manic episode, including mood stabiliser and antipsychotic choice |
+| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Review | Mol Psychiatry | Treatment-resistant bipolar disorder and options for inadequate response |
+| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Review | Bull Menninger Clin | Treatment-resistant bipolar disorder; newer treatments rest mainly on case reports and case series |
+| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Case series | Clin Neuropharmacol | 36 patients given combined ECT and clozapine; 67% benefited, adverse reactions in 16.6% |
+| [41262335](https://pubmed.ncbi.nlm.nih.gov/41262335/) | 2025 | Modelling study | Drug Des Devel Ther | Model-informed precision dosing to manage clozapine drug interactions in bipolar disorder |
 
 ## India Market Information
 
-At least 20 licences are recorded, all valid single-ingredient products, and the list may be partial. Main examples:
+Clozapine is marketed in India. The data compiled for this report show at least 20 valid single-ingredient registrations, and the list may be partial. Approved indication text is not recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,25 +93,24 @@ At least 20 licences are recorded, all valid single-ingredient products, and the
 
 ## Safety Considerations
 
-- **Drug Interactions**: 449 interactions are recorded. Major-level examples include bupropion, morphine and potassium citrate. Moderate-level examples include metformin, pioglitazone, omeprazole, famotidine, atropine and epinephrine.
-- **Conditions flagged as contraindication-related** (not taken from label text): epilepsy, liver disease, neutropenia, agranulocytosis, leukopenia, diabetes mellitus, diabetic ketoacidosis, hyperglycemia, orthostatic hypotension, coronary artery disease, heart conduction disease, sudden cardiac arrest, stroke, pulmonary embolism, respiratory failure, angle-closure glaucoma, paralytic ileus and benign prostatic hyperplasia.
-- **Literature-noted risks**: agranulocytosis and blood-count monitoring, myocarditis and cardiomyopathy, seizures, and metabolic risk.
+- **Contraindications flagged in the data compiled for this report** (taken from disease-association data, not label text): neutropenia, agranulocytosis, leukopenia, epilepsy, liver disease, orthostatic hypotension, coronary artery disease, stroke and cerebrovascular disorders, diabetes mellitus and diabetic ketoacidosis, hyperglycaemia, angle-closure glaucoma, benign prostatic hyperplasia, paralytic ileus, respiratory failure, heart conduction disease and sudden cardiac arrest.
+- **Drug Interactions**: 449 interactions are recorded. Major-level interactions include bupropion, morphine and potassium citrate. Moderate ones include metformin, pioglitazone, famotidine, omeprazole, cimetidine, atropine, epinephrine and loperamide.
+- Published safety literature on clozapine highlights agranulocytosis, myocarditis and cardiomyopathy, seizures, and metabolic risk, so blood count monitoring and cardiac and metabolic surveillance are essential.
 
-Please also refer to the package insert for full safety information.
+Package insert warnings and contraindications were not available and should be reviewed before any use.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed Phase 2 double-blind trial and a systematic review and meta-analysis directly address clozapine in mania and bipolar disorder. The evidence is small, concentrated in treatment-refractory patients, and carries serious safety demands.
+A completed placebo-controlled Phase 2 trial in treatment-resistant mania and a systematic review and meta-analysis support clozapine in this setting, but there are no Phase 3 trials (Evidence Level L2). The evidence is modest, and the drug carries serious haematological, cardiac, seizure and metabolic risks, so use should be limited to refractory cases.
 
 **To proceed, the following is needed:**
-- Larger controlled trials in mania, beyond treatment-resistant groups
-- Detailed mechanism of action data
-- Package insert warnings and contraindications for the Indian products
-- A monitoring plan covering neutrophil counts, cardiac effects, seizures and metabolic risk, with use restricted to refractory cases
-- A drug-interaction management plan
+- Larger confirmatory randomised trials in treatment-resistant mania
+- Review of package insert warnings and contraindications
+- Mechanism of action data
+- A monitoring plan covering absolute neutrophil count, cardiac and metabolic surveillance, and drug interaction management
 
 ## Disclaimer
 
