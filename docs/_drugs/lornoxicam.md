@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lornoxicam
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 503
-evidence_level: L2
+evidence_level: L5
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-10-31
-description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the licence records compiled for this report (the liter…"
+last_modified_at: 2026-11-04
+description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +33,49 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-## Lornoxicam: From Pain and Inflammatory Conditions to Migraine Disorder
+## Lornoxicam: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class, marketed in India as oral tablets. The TxGNN model predicts it may be effective for **migraine disorder**, supported by **1 Phase 2 clinical trial** and **2 review publications**. The trial studied intravenous lornoxicam, which is a different route from the oral products currently marketed in India.
+Lornoxicam is a nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class that is marketed in India as single-ingredient products.
+The TxGNN model predicts it may be effective for **migraine disorder**.
+The evidence is thin: **1 completed Phase 2 trial** has no published or posted results, and the **2 publications** are reviews, so the evidence level is **L5**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records compiled for this report (the literature describes painful and inflammatory conditions) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9987 |
-| Evidence Level | L2 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
-| Recommended Decision | Proceed with Guardrails |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for lornoxicam is not available in the data compiled for this report. Based on general pharmacology, lornoxicam is a potent NSAID that inhibits COX-1 and COX-2, which reduces prostaglandin synthesis. A 1996 review describes it as having analgesic, anti-inflammatory and antipyretic properties, with a relatively short elimination half-life of 3 to 5 hours.
+Lornoxicam inhibits both COX-1 and COX-2, which reduces prostaglandin synthesis. Detailed mechanism of action data is not available in the data compiled for this report, so this description reflects the general pharmacology of the drug class.
 
-Prostaglandins contribute to neurogenic inflammation and trigeminovascular sensitization in migraine. NSAIDs are an established class of acute migraine therapy, so the mechanism is biologically plausible. A 1992 review of controlled NSAID studies in migraine lists lornoxicam among the NSAIDs tested.
+Prostaglandins contribute to neurogenic inflammation and trigeminovascular sensitization, which are central to migraine attacks. NSAIDs as a class are an established acute migraine therapy, so the mechanism is biologically plausible for lornoxicam.
 
-Other predictions from the model are weaker. Migraine with brainstem aura is a subtype of migraine and likely reflects ontology proximity. Headache disorder is a parent category covered by the same trial and literature. Trigeminal autonomic cephalalgia has only a weak rationale. Tendinitis has one study that found lornoxicam inferior to betamethasone. Brachydactyly-syndactyly syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome and myositis fibrosa have no supporting evidence, and the first two appear to be model artifacts.
+This is a class-level rationale only. No published study tests lornoxicam itself in migraine, which is why the evidence level stays at L5 despite the high model score.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | Completed | 150 | Randomized, double-blind, placebo-controlled single-dose study of intravenous lornoxicam (8 mg or 16 mg) versus placebo for moderate or severe headache of an acute migraine attack. Results are not included in the data compiled for this report. |
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | Completed | 150 | Randomized, double-blind, placebo-controlled single-dose study of intravenous lornoxicam (8 mg or 16 mg) versus placebo for moderate or severe headache during an acute migraine attack. Completed in 2006 with no published or posted results. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathologie-biologie | Reviews controlled studies of NSAIDs for acute migraine attacks and long-term prophylaxis. Lornoxicam is among the many NSAIDs tested. |
-| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Reviews the pharmacology and therapeutic potential of lornoxicam in painful and inflammatory conditions. This is a general review, not specific to migraine. |
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathologie-biologie | Reviews controlled studies of NSAIDs for acute and preventive migraine treatment. Lornoxicam is among the many NSAIDs listed. |
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Reviews the pharmacology and therapeutic potential of lornoxicam in painful and inflammatory conditions. It is not a migraine-specific study. |
 
 ## India Market Information
-
-At least 20 licences are recorded (the list may be partial), all for single-ingredient products in oral tablet form. The licence records contain no approved indication text. Five examples are shown.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -85,23 +85,25 @@ At least 20 licences are recorded (the list may be partial), all for single-ingr
 | Registration No. 131888 | Lornok 8mg Tablet | Strip of 10 tablets | Not stated in the records |
 | Registration No. 232371 | Univer 4mg Tablet | Strip of 10 tablets | Not stated in the records |
 
+At least 20 valid licences are on record, and the list may be partial.
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-One completed Phase 2 randomized, placebo-controlled trial directly studies lornoxicam in acute migraine headache, and the NSAID mechanism is plausible. However, there is only one Phase 2 trial, its results are not available here, and it used an intravenous formulation, whereas the products marketed in India are oral tablets.
+The mechanism is plausible and the model score is high. However, the only trial in migraine (NCT00293657) has no published or posted results, and the available publications are reviews. No published study therefore tests lornoxicam in migraine, and the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Results of NCT00293657 (primary endpoint, effect size and safety), and confirmation of its design
-- Package insert warnings and contraindications from the India Pharma website, which are currently missing and block safety screening
-- Mechanism-of-action data from DrugBank
-- A route and dose assessment for oral lornoxicam in acute migraine, since the trial tested the intravenous route
-- Confirmatory Phase 3 evidence
+- Results of NCT00293657, or a new controlled trial of lornoxicam in migraine
+- Detailed mechanism of action data
+- Package insert warnings and contraindications from the Indian licences
+- Confirmation of the approved indication text on the local licences
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

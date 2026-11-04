@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zinc Sulfate
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 908
-evidence_level: L3
+evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-30
-description: "Zinc Sulfate: predicted new indication Pharyngitis (evidence level L3). Approved use: Not recorded in the available licence data"
+last_modified_at: 2026-11-04
 monitor_inn: "Zinc sulfate"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
+description: "Zinc Sulfate: predicted new indication Pharyngitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Zinc Sulfate
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **4** 
+Evidence Level: **L2** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,47 +33,43 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-## Zinc Sulfate: From Zinc Supplementation (Indication Not Recorded) to Pharyngitis
+## Zinc Sulfate: Pharyngitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Zinc sulfate is a zinc supplement marketed in India in several oral forms. The approved indication text is not recorded in the data compiled for this report.
-The TxGNN model predicts it may be effective for **pharyngitis**, with **1 clinical trial** and **2 publications** currently supporting this direction.
-That evidence comes from postoperative and radiation-related sore throat settings rather than infectious pharyngitis, so it supports the prediction only indirectly.
+Zinc sulfate is a zinc mineral salt that is marketed in India in oral forms (tablets, dispersible tablets, capsules and oral drops). The TxGNN model predicts it may be useful for **pharyngitis**. This direction is supported by **1 clinical trial** and **2 publications**, and the evidence is mixed: one placebo-controlled trial of zinc lozenges was positive for post-intubation sore throat, while a trial in radiation-induced pharyngitis found no benefit.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the available licence data |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pharyngitis |
 | TxGNN Prediction Score | 0.9985 |
-| Evidence Level | L3 |
+| Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (5 of 5) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 5 (valid: 5) |
-| Recommended Decision | Hold |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge, zinc is an essential trace element with local antiviral and mucosal-protective properties. It may also help modulate local inflammation and support mucosal repair.
+Detailed mechanism-of-action data is not available for this drug. Zinc is known to have local antiviral and mucosal-protective effects. It may also help modulate local inflammation and support mucosal repair. In principle, zinc given as lozenges or as a supplement could reduce throat pain and irritation.
 
-These properties could plausibly reduce throat pain and irritation, and zinc lozenges have been tested for postoperative sore throat. However, the available studies involve postoperative, post-tonsillectomy or radiation-induced throat problems, not infectious pharyngitis. The mechanistic link is therefore only partly transferable.
-
-The other predictions are weaker. Evidence for acute laryngopharyngitis is a single paper on mucositis during chemoradiotherapy. For nasal cavity disease, the literature is preclinical and suggests intranasal zinc can damage olfaction, which is a safety concern rather than a benefit. Congenital prothrombin deficiency has no supporting evidence or plausible mechanism and is likely a spurious network-driven association.
+The available human data concern sore throat after intubation, radiation-induced pharyngitis and post-tonsillectomy taste problems. They do not concern typical infectious pharyngitis. The mechanistic link is therefore only partly transferable. It is plausible for mucosal irritation, but not yet shown for infection-related sore throat.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02405832](https://clinicaltrials.gov/study/NCT02405832) | Not applicable | Completed | 87 | Randomized, double-blind, placebo-controlled study of preoperative zinc lozenges for postoperative sore throat after general anaesthesia with intubation. The population is not infectious pharyngitis. |
+| [NCT02405832](https://clinicaltrials.gov/study/NCT02405832) | Not applicable (no phase label) | Completed | 87 | Randomized, double-blinded, placebo-controlled study of preoperative zinc lozenges for postoperative sore throat after intubation. Zinc lozenges reduced the incidence and severity of sore throat (published 2018). |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23720981](https://pubmed.ncbi.nlm.nih.gov/23720981/) | 2013 | RCT | J Med Assoc Thai | Randomized, double-blind, placebo-controlled trial of zinc sulfate supplementation for radiation-induced oral mucositis and pharyngitis in head and neck cancer patients |
-| [20123362](https://pubmed.ncbi.nlm.nih.gov/20123362/) | 2010 | Case series | Oral Surg Oral Med Oral Pathol Oral Radiol Endod | Recovery from long-lasting post-tonsillectomy taste disturbance; zinc deficiency discussed as a possible factor |
+| [23720981](https://pubmed.ncbi.nlm.nih.gov/23720981/) | 2013 | RCT | J Med Assoc Thai | Placebo-controlled trial of zinc sulfate supplementation for radiation-induced oral mucositis and pharyngitis in head and neck cancer patients. No benefit was found. |
+| [20123362](https://pubmed.ncbi.nlm.nih.gov/20123362/) | 2010 | Case report/series | Oral Surg Oral Med Oral Pathol Oral Radiol Endod | Recovery from long-lasting taste disturbance after tonsillectomy, discussing a possible role of zinc deficiency. It gives only indirect support. |
 
 ## India Market Information
 
@@ -85,25 +81,37 @@ The other predictions are weaker. Evidence for acute laryngopharyngitis is a sin
 | 246829 | Zincolak Capsule | Strip of 10 capsules | Not recorded |
 | 248768 | Zod-Plus Oral Drops | Bottle of 30 ml oral drops | Not recorded |
 
+All five licences are valid single-ingredient products.
+
 ## Safety Considerations
 
-- **Disease-level cautions from the knowledge graph (not label text):** Zinc sulfate is linked to possible contraindications or cautions in several conditions, including kidney disease, nephrolithiasis, liver disease, diabetes mellitus, heart and cardiovascular disease, hypertensive and hypotensive disorders, hypercalcaemia, hyperparathyroidism, hyperthyroidism and Graves disease, and angle-closure glaucoma. These should be verified against the approved label.
-- **Nasal safety signal:** Literature shows intranasal zinc sulfate can induce anosmia in animals, so intranasal use should be avoided in any repurposing plan.
-- **Drug Interactions:** 103 interactions are recorded. Moderate-level ones include alendronic acid, risedronic acid, ibandronate, tetracycline and baloxavir marboxil. These are consistent with zinc chelation and absorption effects, so dosing should be separated. Most others, such as corticosteroids and biologic immunosuppressants, are minor.
+- **Drug Interactions**: The data compiled for this report lists 103 interacting drugs, mostly minor. Moderate-level interactions include:
+  - alendronic acid
+  - risedronic acid
+  - ibandronate
+  - tetracycline
+  - baloxavir marboxil
+
+  Separating the timing of doses of zinc and these agents should be considered.
+- Local irritation is a possible concern for any intranasal or topical mucosal use of zinc, and the lozenge route needs its own tolerability review.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The only direct support is one small, non-phased trial and one RCT in radiation-induced mucositis and pharyngitis. Neither addresses infectious pharyngitis, so the evidence is L3 and indirect. In addition, the package insert data, approved indications and mechanism of action are missing, which blocks the safety screening step.
+- A randomized placebo-controlled trial of zinc lozenges reduced post-intubation sore throat, which supports an L2 evidence level.
+- A randomized trial in radiation-induced pharyngitis showed no benefit, and no trial has yet tested infectious pharyngitis.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indications from the Indian regulator, to complete safety screening
-- Mechanism of action data from DrugBank
-- Evidence in infectious pharyngitis, ideally a Phase 2/3 RCT of zinc lozenges
-- Route and formulation compatibility assessment, since lozenges are not among the marketed Indian forms (tablets, dispersible tablets, capsules, oral drops)
-- Dosing and interaction management plan, covering zinc separation from bisphosphonates and tetracyclines and attention to the knowledge-graph caution conditions
+- A randomized, phase-labeled trial of zinc lozenges or oral zinc in acute (infectious) pharyngitis
+- Dose, formulation and duration data, since the licensed oral forms in India are not lozenges
+- Mechanism-of-action data for zinc sulfate
+- Package insert warnings and contraindications
+- A review of interaction timing, particularly with bisphosphonates and tetracycline
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
