@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Diazepam
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 259
-evidence_level: L4
+evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "barbiturate abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-30
-description: "Diazepam: predicted new indication insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
+last_modified_at: 2026-11-04
+description: "Diazepam: predicted new indication Insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Diazepam
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,32 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Diazepam: GABA-A positive allosteric modulator (benzodiazepine) → insomnia (disease)
+## Diazepam: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Diazepam is a benzodiazepine that acts on GABA-A receptors and is marketed in India in several tablet and suppository products.
-The TxGNN model predicts it may be useful for **insomnia (disease)**, but no clinical trials are registered for this prediction.
-The retrieved publications are mostly reviews, herbal-medicine studies and pharmacology papers, and only one old 1981 comparison study (diazepam as the comparator) bears directly on insomnia, so evidence is limited.
+Diazepam is a long-acting benzodiazepine that enhances GABA-A receptor signalling and has sedative-hypnotic effects.
+The TxGNN model predicts it may be useful for **insomnia**.
+Evidence is limited: **0 registered clinical trials** and **1 older double-blind comparative study** in insomnia patients, among 17 publications compiled, most of them reviews or preclinical work.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | insomnia (disease) |
-| TxGNN Prediction Score | 0.9999 |
-| Evidence Level | L4 |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L2 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (at least 20) – CDSCO approval status is not included in this data |
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, diazepam is a positive allosteric modulator of GABA-A receptors. It enhances inhibitory neurotransmission and has sedative-hypnotic effects, which makes a role in insomnia biologically plausible.
+Detailed mechanism-of-action data for diazepam are not available in the data compiled for this report. Based on known pharmacology, diazepam is a positive allosteric modulator of GABA-A receptors, which produces sedative-hypnotic effects. This makes a role in sleep disorders biologically plausible, and benzodiazepines as a class are already used for short-term insomnia.
 
-Benzodiazepines as a class are already used for short-term insomnia. However, diazepam has a long half-life and active metabolites (such as nordiazepam). These can cause residual daytime sedation, and long-term use carries dependence and safety concerns. Newer agents, such as orexin antagonists, are increasingly replacing benzodiazepines for this purpose.
-
-No diazepam-specific controlled trial for insomnia was identified in the retrieved literature. The score is therefore a computational prediction supported mainly by mechanistic plausibility.
+There are important limits. Diazepam has a long half-life and an active metabolite (nordiazepam), which can cause residual daytime sedation. Long-term use carries risks of dependence and cognitive effects. The only direct study in insomnia patients is a 1981 double-blind trial against another benzodiazepine, not against placebo. Most other retrieved papers are reviews, herbal-medicine studies or animal studies that use diazepam as a positive control.
 
 ## Clinical Trial Evidence
 
@@ -70,20 +68,20 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | Double-blind comparison | J Int Med Res | Lormetazepam 1 mg vs diazepam 5 mg over 7 days in 100 outpatients with sleep disorders; lormetazepam was significantly better at shortening time to fall asleep |
-| [39581171](https://pubmed.ncbi.nlm.nih.gov/39581171/) | 2024 | Review | Bioorg Chem | Reviews GABA-A modulators such as diazepam for epilepsy, anxiety, insomnia and depression; notes sedation-type side effects |
-| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analysis | Acta Pharm | Tranquilizers in elderly patients with chronic non-communicable diseases, assessed by dose, outcomes and adverse effects |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Pharmacokinetics of anxiolytic drugs, which are widely prescribed psychoactive drugs |
-| [40583063](https://pubmed.ncbi.nlm.nih.gov/40583063/) | 2025 | Cohort | Cell Mol Biol Lett | Long-term use of benzodiazepines and Z-drugs (including diazepam) was linked to exacerbated breast cancer risk |
-| [31770357](https://pubmed.ncbi.nlm.nih.gov/31770357/) | 2019 | Review | Med Lett Drugs Ther | Review of cannabis and cannabinoids |
+| [6113175](https://pubmed.ncbi.nlm.nih.gov/6113175/) | 1981 | Double-blind comparative trial | J Int Med Res | 100 outpatients with insomnia; lormetazepam 1 mg was significantly better than diazepam 5 mg at shortening time to fall asleep over 7 days |
+| [39581171](https://pubmed.ncbi.nlm.nih.gov/39581171/) | 2024 | Review | Bioorg Chem | GABA-A modulators including diazepam are used for neurological and psychiatric conditions, with sedation-related side effects |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Pharmacokinetics of anxiolytic and hypnotic drugs |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analysis | Acta Pharm | Tranquilizer use in elderly patients: dose, outcomes and adverse effects |
+| [40583063](https://pubmed.ncbi.nlm.nih.gov/40583063/) | 2025 | Cohort | Cell Mol Biol Lett | Long-term benzodiazepine and Z-drug use was linked to higher breast cancer risk |
+| [31770357](https://pubmed.ncbi.nlm.nih.gov/31770357/) | 2019 | Review | Med Lett Drugs Ther | Cannabis and cannabinoids overview |
 | [29479317](https://pubmed.ncbi.nlm.nih.gov/29479317/) | 2018 | Review | Front Pharmacol | Suanzaoren herbal formulae for insomnia (not diazepam-specific) |
-| [32623439](https://pubmed.ncbi.nlm.nih.gov/32623439/) | 2020 | Animal study | Med Sci Monit | Berberine in insomnia rats, with diazepam as a comparator |
-| [37776625](https://pubmed.ncbi.nlm.nih.gov/37776625/) | 2023 | Animal study | J Pharm Biomed Anal | Naoling Pian in insomnia rats, with diazepam as a positive control |
-| [35196378](https://pubmed.ncbi.nlm.nih.gov/35196378/) | 2022 | Non-randomized intervention | Fam Pract | Discontinuation of chronic benzodiazepine use in primary care |
+| [32623439](https://pubmed.ncbi.nlm.nih.gov/32623439/) | 2020 | Preclinical | Med Sci Monit | Berberine in insomnia rats, with diazepam as the comparator |
+| [37776625](https://pubmed.ncbi.nlm.nih.gov/37776625/) | 2023 | Preclinical | J Pharm Biomed Anal | Naoling Pian in insomnia rats, with diazepam as the positive control |
+| [16671957](https://pubmed.ncbi.nlm.nih.gov/16671957/) | 2006 | Survey | Fundam Clin Pharmacol | Benzodiazepine prescribing habits in Dakar; concerns about addiction |
 
 ## India Market Information
 
-The data compiled for this report list 20 valid single-ingredient registrations; the list may be partial. The records carry no approved-indication text.
+Diazepam-containing products are marketed in India. The data compiled for this report show 20 valid licences and no cancelled ones. This list may be partial. Approved indication text is not recorded for these licences. Selected single-strength products:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,24 +93,24 @@ The data compiled for this report list 20 valid single-ingredient registrations;
 
 ## Safety Considerations
 
-- **Disease-level cautions from the compiled data:** relations recorded for diazepam include liver failure and liver disease, respiratory failure, sleep apnoea syndromes, myasthenia gravis, open-angle and angle-closure glaucoma, substance-related disorders and substance dependence. These are not label text and need confirmation against the package insert.
-- **Drug Interactions:** 295 interactions were found. Morphine is rated Major. Examples rated Moderate include bupropion, aprepitant, omeprazole, esomeprazole, cimetidine, clarithromycin, cisapride, clotrimazole, miconazole, dronabinol and metoclopramide. Examples rated Minor include dexamethasone, betamethasone and several antacids (magnesium and aluminium salts, calcium carbonate).
-- **Literature signals:** long-term benzodiazepine use is linked to dependence, tolerance, cognitive decline, and falls in older adults. One cohort study also linked long-term use to a higher breast cancer risk.
+- **Drug Interactions**: 295 interactions are recorded. Morphine is listed as **Major**, since combining it with diazepam risks additive central nervous system and respiratory depression. Moderate interactions include bupropion, aprepitant, omeprazole, esomeprazole, cimetidine, clarithromycin, cisapride, clotrimazole, miconazole, dronabinol and metoclopramide. Dexamethasone, betamethasone and several antacids are Minor.
+- **Literature signals**: The retrieved papers describe dependence, withdrawal difficulty and inappropriate long-term prescribing of benzodiazepines. One cohort study links prolonged use to higher breast cancer risk.
 
-Please also refer to the package insert, as label warnings and contraindications were not available in the data compiled for this report.
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, and diazepam is widely marketed in India. However, no clinical trial is registered and no diazepam-specific controlled trial for insomnia was found. The only direct study is an old comparison in which diazepam was the weaker comparator. Safety concerns about long-term benzodiazepine use are substantial, and newer insomnia treatments are displacing benzodiazepines.
+The mechanism is plausible, and the one direct study in insomnia patients (a 1981 double-blind comparison with lormetazepam, in which diazepam performed worse) supports an L2 evidence level. It is old and has no placebo arm. The wider literature emphasises dependence and long-term harm, and newer hypnotics are displacing benzodiazepines.
 
 **To proceed, the following is needed:**
-- A controlled trial of diazepam for insomnia against current standard treatments
-- Package insert warnings and contraindications from the India label
+- A placebo-controlled or modern active-comparator trial of diazepam in insomnia
 - Detailed mechanism-of-action data
-- A dependence and next-day sedation risk assessment, especially for older adults
+- Label warnings and contraindications from the package insert
+- A risk plan covering dependence, residual daytime sedation, falls in older adults, and opioid co-prescription
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

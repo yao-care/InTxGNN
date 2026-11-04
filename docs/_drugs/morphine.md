@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Morphine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 569
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-04
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L4). Approved use: Not recorded in the local data"
+description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Morphine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,11 +38,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Morphine is an opioid analgesic that is linked to diarrheal disease as its original indication.
-The TxGNN model predicts it may be effective for **myofascial pain syndrome**, but **no clinical trials** are registered for this indication and the **10 publications** retrieved are mostly indirect.
-Among the other predicted indications, **restless legs syndrome** has the most substantial support (observational registries, case series and a Phase 1 pharmacokinetic study), and it is described separately below.
-
----
+Morphine is a mu-opioid receptor agonist, a long-established strong analgesic. The TxGNN model predicts it may be useful for **myofascial pain syndrome**, but no clinical trials are registered and none of the 10 publications retrieved tests morphine in this condition, so the evidence level is **L5**.
 
 ## Quick Overview
 
@@ -51,81 +47,39 @@ Among the other predicted indications, **restless legs syndrome** has the most s
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Myofascial pain syndrome |
 | TxGNN Prediction Score | 0.9975 |
-| Evidence Level | L4 |
+| Evidence Level | L5 |
 | India Market Status | Listed in a compiled Indian medicine price dataset (15 of 15) – CDSCO approval status is not included in this data |
 | Number of Listed Products | 15 (valid: 15) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Morphine is a well-known mu-opioid receptor agonist with established analgesic activity, so a plausible link to musculoskeletal and myofascial pain exists.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Morphine is a mu-opioid receptor agonist with well-established analgesic activity. A link to musculoskeletal and myofascial pain is therefore plausible in principle, because pain signalling is reduced.
 
-The retrieved literature is largely indirect. It covers opioid use in temporomandibular joint dysfunction, comparisons of adjunctive infiltration, and exercise programs that reduce opioid use. Opioids are generally not recommended as first-line therapy for myofascial pain because of dependence risk and limited efficacy in this condition. The high TxGNN score therefore reflects a computational association more than demonstrated clinical benefit.
-
-**Other predicted indications**
-
-| Rank | Predicted Indication | Score | Evidence Level | Decision | Comment |
-|---|---|---|---|---|---|
-| 2 | Manic bipolar affective disorder | 0.9964 | L5 | Hold | Literature is historical or preclinical; abuse liability and psychiatric risk are concerns |
-| 3 | Tourette syndrome | 0.9948 | L5 | Hold | Preclinical and review-level only; not specific to morphine |
-| 4 | Restless legs syndrome | 0.9947 | L3 | Research question | Observational support, including registries and intrathecal morphine reports |
-| 5 | ADHD, inattentive type | 0.9934 | L5 | Hold | No literature or trials |
-| 6 | Migraine disorder | 0.9932 | L4 | Hold | Guidelines generally discourage opioids |
-| 7 | Trichotillomania | 0.9929 | L5 | Hold | No literature; opioid antagonists, not agonists, have been explored |
-| 8 | Methemoglobinemia | 0.9915 | L5 | Hold | No plausible mechanism |
-| 9 | Migraine with brainstem aura | 0.9915 | L5 | Hold | Preclinical or tangential only |
-| 10 | Specific developmental disorder | 0.9906 | L5 | Hold | Preclinical or unrelated |
-
-For restless legs syndrome, opioids act on the endogenous opioid system and modulate dopaminergic and sensory pathways. Clinical guidance already recognizes opioids as an option for refractory cases, which makes it the most credible candidate in this list. Much of that evidence concerns opioids as a class (such as methadone and oxycodone) rather than morphine specifically.
-
----
+The supporting literature is indirect, though. The retrieved papers cover opioid use in temporomandibular joint dysfunction, exercise programmes that reduce opioid use in patients with long-term opioid-treated pain, and adjunctive infiltration comparisons after surgery. Opioids are generally not recommended as first-line therapy for myofascial pain, because of dependence risk and limited efficacy in this condition. The high score is a computational prediction and does not reflect demonstrated benefit.
 
 ## Clinical Trial Evidence
 
-No clinical trials are currently registered for myofascial pain syndrome, the top-ranked prediction.
-
-For restless legs syndrome (rank 4), one trial is registered:
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01476124](https://clinicaltrials.gov/study/NCT01476124) | Phase 1 | Completed | 18 | Double-blind crossover study of the pharmacokinetics and tolerability of morphine and gabapentin enacarbil, alone and combined, in healthy subjects; provides safety information but no efficacy evidence in RLS |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-**Myofascial pain syndrome (top-ranked prediction)**
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41664327](https://pubmed.ncbi.nlm.nih.gov/41664327/) | 2026 | Randomized trial | Asian Spine J | Double-blind trial of dexmedetomidine plus morphine versus plain ropivacaine for myofascial infiltration in spinal fusion (perioperative setting) |
-| [35066974](https://pubmed.ncbi.nlm.nih.gov/35066974/) | 2022 | Retrospective cohort | Pain Pract | Structured stretching program for "legacy pain" patients, assessing myofascial pain resolution and opioid usage |
-| [21419546](https://pubmed.ncbi.nlm.nih.gov/21419546/) | 2011 | Review | J Oral Maxillofac Surg | Long-term opioid use in temporomandibular joint dysfunction can be neither supported nor refuted by current evidence |
-| [16713811](https://pubmed.ncbi.nlm.nih.gov/16713811/) | 2006 | Review | J Oral Maxillofac Surg | Arthrocentesis followed by intra-articular morphine infusion for refractory TMJ pain |
-| [16967674](https://pubmed.ncbi.nlm.nih.gov/16967674/) | 2006 | Review | J Calif Dent Assoc | Medications and injections for differential diagnosis of orofacial pain |
-
-**Restless legs syndrome (strongest-supported alternative)**
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [41543123](https://pubmed.ncbi.nlm.nih.gov/41543123/) | 2026 | Registry cohort | Sleep | 5-year findings on opioid effectiveness and dose stability from the National RLS Opioid Registry |
-| [39106456](https://pubmed.ncbi.nlm.nih.gov/39106456/) | 2024 | Case series | Pain | Long-term low-dose intrathecal morphine relieved severe RLS without inducing opioid tolerance |
-| [36697248](https://pubmed.ncbi.nlm.nih.gov/36697248/) | 2023 | Cohort | Neurology | Two-year long-term safety, dose stability and efficacy of opioids in RLS |
-| [32918469](https://pubmed.ncbi.nlm.nih.gov/32918469/) | 2021 | Registry cohort | Sleep | Baseline and 1-year dosing and symptom outcomes in the National RLS Opioid Registry |
-| [31883387](https://pubmed.ncbi.nlm.nih.gov/31883387/) | 2020 | Case series | Acta Neurol Scand | Intrathecal morphine pump for refractory RLS: efficacy and complications |
-| [31133964](https://pubmed.ncbi.nlm.nih.gov/31133964/) | 2019 | Case report | Front Neurol | RLS improved during cancer pain treatment with morphine and fentanyl |
-| [29304922](https://pubmed.ncbi.nlm.nih.gov/29304922/) | 2018 | Review | Mayo Clin Proc | Appropriate use of opioids in refractory RLS |
-| [27964861](https://pubmed.ncbi.nlm.nih.gov/27964861/) | 2017 | Review | Sleep Med | Pain, opioids and sleep: implications for RLS treatment |
-| [27310338](https://pubmed.ncbi.nlm.nih.gov/27310338/) | 2016 | Review | Expert Opin Drug Metab Toxicol | Pharmacological and clinical aspects of opioids in RLS |
-| [36692170](https://pubmed.ncbi.nlm.nih.gov/36692170/) | 2023 | Case report | J Clin Sleep Med | RLS emerging during opioid discontinuation |
-
----
+| [41664327](https://pubmed.ncbi.nlm.nih.gov/41664327/) | 2026 | Randomized trial | Asian Spine J | Dexmedetomidine plus morphine vs plain ropivacaine for myofascial infiltration in spinal fusion. The setting is postoperative pain, not myofascial pain syndrome. |
+| [35066974](https://pubmed.ncbi.nlm.nih.gov/35066974/) | 2022 | Retrospective cohort | Pain Pract | A structured stretching programme for myofascial pain in "legacy pain" patients was studied for pain resolution and opioid usage. Morphine was not the intervention. |
+| [21419546](https://pubmed.ncbi.nlm.nih.gov/21419546/) | 2011 | Review | J Oral Maxillofac Surg | Long-term opioid use in temporomandibular joint dysfunction can be neither supported nor refuted by current evidence. |
+| [16713811](https://pubmed.ncbi.nlm.nih.gov/16713811/) | 2006 | Review | J Oral Maxillofac Surg | Arthrocentesis followed by intra-articular morphine infusion in refractory temporomandibular joint pain. |
+| [16967674](https://pubmed.ncbi.nlm.nih.gov/16967674/) | 2006 | Review | J Calif Dent Assoc | Oral medications, infusions and injections for differential diagnosis of orofacial pain. |
+| [39793344](https://pubmed.ncbi.nlm.nih.gov/39793344/) | 2025 | Clinical study | Eur J Obstet Gynecol Reprod Biol | Pudendal nerve block for pain after onabotulinumtoxinA injection in myofascial pelvic pain. Not morphine-specific. |
+| [21691691](https://pubmed.ncbi.nlm.nih.gov/21691691/) | 2011 | Descriptive study | Rev Assoc Med Bras | Therapeutic approach in 56 patients with failed back surgery pain syndrome. |
+| [17870625](https://pubmed.ncbi.nlm.nih.gov/17870625/) | 2008 | RCT | Eur J Pain | Epidural analgesia (bupivacaine and morphine) vs intercostal nerve cryoanalgesia after thoracotomy. Off-target. |
+| [7478690](https://pubmed.ncbi.nlm.nih.gov/7478690/) | 1995 | Animal study | Pain | Visceral pain episodes and referred lumbar muscle hyperalgesia in rats. |
+| [15176410](https://pubmed.ncbi.nlm.nih.gov/15176410/) | 2004 | Case report | Nervenarzt | Botulinum toxin A injected into stump-muscle trigger points for phantom and stump pain. Not morphine. |
 
 ## India Market Information
 
-Morphine has 15 valid single-ingredient registrations in India; none are cancelled. The approved indication text is not recorded in the licence data. The five main registrations are listed below.
+Morphine is marketed in India, and all 15 licences in the local records are valid. The records carry no approved indication text. Five representative licences:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -135,32 +89,35 @@ Morphine has 15 valid single-ingredient registrations in India; none are cancell
 | Registration No. 60882 | Duramor 30mg Tablet | Strip of 10 tablets | Not recorded |
 | Registration No. 118182 | Koxma Tag Syrup | Bottle of 100 ml syrup | Not recorded |
 
-Available dosage forms cover oral (tablets, controlled-release tablets), injectable (1 ml ampoule) and syrup. Other brands include Vermor, San Morf, Morcon, Morphitroy and Rumorf.
-
----
-
 ## Safety Considerations
 
-- **Contraindications flagged in the knowledge graph** (these come from drug-disease relationships, not from package insert text): hypertensive disorder, orthostatic hypotension, long QT syndrome and torsades de pointes, liver failure and liver disease, kidney disease, epilepsy, chronic obstructive pulmonary disease, gastric ulcer, pancreatitis, gallbladder disease, hypothyroidism, anxiety and other mental disorders (including psychotic and schizoaffective disorders), and potassium deficiency disease.
-- **Drug interactions**: 721 interactions are recorded. Major interactions include other opioids and CNS depressants: fentanyl, codeine, dihydrocodeine, tramadol, butalbital, dichloralphenazone, alprazolam and ethanol. Moderate interactions include chlorpheniramine, cetirizine, nifedipine, hydrochlorothiazide, metformin and alfentanil.
-- **Indication-specific risks noted in the literature**: dependence, respiratory depression, opioid-induced hyperalgesia, medication-overuse headache, and RLS augmentation or emergence during opioid discontinuation.
-
-Please refer to the package insert for key warnings, as the label text was not available for this report.
-
----
+- **Drug Interactions**: The interaction data lists 721 interacting drugs. Major-level interactions include other opioids and central nervous system depressants:
+  - fentanyl
+  - codeine
+  - dihydrocodeine
+  - tramadol
+  - butalbital
+  - dichloralphenazone
+  - alprazolam
+  - ethanol
+- Moderate-level interactions include chlorpheniramine, cetirizine, nifedipine, hydrochlorothiazide and metformin.
+- For package insert warnings and contraindications, please refer to the product label.
+- Dependence, respiratory depression and sedation are recognised class risks of opioids. They weigh heavily in a chronic, non-cancer condition such as myofascial pain.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-For myofascial pain syndrome, there are no registered trials and the literature is indirect. Opioids are generally not recommended for this condition because of dependence risk and limited efficacy, so a high TxGNN score alone does not justify advancing. Restless legs syndrome is the one prediction with meaningful observational support (L3, research question), but it rests mainly on registries and case series and does not establish morphine-specific efficacy.
+- No clinical trial is registered, and no retrieved study tests morphine in myofascial pain syndrome. The one randomized trial concerns postoperative pain after spinal fusion. The evidence is therefore L5, resting on the model prediction alone.
+- Opioids are generally not first-line for this condition, and their dependence risk is a significant concern.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the Indian-marketed products (currently a blocking gap for safety screening)
-- Mechanism of action data
-- For restless legs syndrome: controlled efficacy data specific to morphine, and a risk assessment covering dependence, augmentation and respiratory depression
-- For myofascial pain syndrome: direct clinical evidence of benefit versus established first-line treatments
+- Controlled clinical studies of morphine specifically in myofascial pain syndrome, with comparison against standard non-opioid care
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications for the marketed products
+- A risk-benefit assessment covering dependence, tolerance and opioid-induced hyperalgesia in chronic use
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
