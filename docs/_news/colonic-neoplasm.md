@@ -32,11 +32,11 @@ This page brings together the latest health news about “colorectal cancer” a
 
 ## Related News (1)
 
-### [DUSP4 protein identified as key to preventing CAR T cell exhaustion - Drug Target Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1l5VjB3TEtVV1EtbS1LUWxNUk1hSFpBbFJDYXBUZkJQUUNWR3AwVnk0eUx4M1gtNEJhS2Z4QzY2NWp5MFB1WHBJSlVGUXdqLVJic0oxWGVqWmctaXY5aWFlYTNLV2VTMkM1R3JTUnNPbElWVkJGTG9hQl9MVHl1Z0JLZ1Q3N24zcmx1eDItNXV6MFZ5b1Y2Z2RpNFltZFVUdGc1UmlQYUtEWFljNkh6UTkxMUJmY28?oc=5)
+### [Protein DUSP4 prevents immune cell exhaustion in colorectal cancer](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0dKcmxnbTBQX29iMXE3Q18zWlBPNWk3TGlJbnhheDJzQW1rM1A3RzcwanFSWDJMYndQUDZ3Wk5mN21sVWJUb2cySlNtZjFnR1MzdlhuZFNFS3loRV9zWjlaenEyMnJzOEdfaEl6R1RuNk56dWd2YXk5TVBHNWZBWVl0a3VDV1NfSnhhb0ZEbmEwd29JWjg2ek1PSWlWeDlESk8yOFpzZXZid0F6TTZFM1E3SzE?oc=5)
 
 2026-11-04
 
-Source: [Drug Target Review](https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1l5VjB3TEtVV1EtbS1LUWxNUk1hSFpBbFJDYXBUZkJQUUNWR3AwVnk0eUx4M1gtNEJhS2Z4QzY2NWp5MFB1WHBJSlVGUXdqLVJic0oxWGVqWmctaXY5aWFlYTNLV2VTMkM1R3JTUnNPbElWVkJGTG9hQl9MVHl1Z0JLZ1Q3N24zcmx1eDItNXV6MFZ5b1Y2Z2RpNFltZFVUdGc1UmlQYUtEWFljNkh6UTkxMUJmY28?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0dKcmxnbTBQX29iMXE3Q18zWlBPNWk3TGlJbnhheDJzQW1rM1A3RzcwanFSWDJMYndQUDZ3Wk5mN21sVWJUb2cySlNtZjFnR1MzdlhuZFNFS3loRV9zWjlaenEyMnJzOEdfaEl6R1RuNk56dWd2YXk5TVBHNWZBWVl0a3VDV1NfSnhhb0ZEbmEwd29JWjg2ek1PSWlWeDlESk8yOFpzZXZid0F6TTZFM1E3SzE?oc=5)
 
 ---
 

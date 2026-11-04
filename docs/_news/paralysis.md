@@ -3,7 +3,7 @@ layout: default
 title: "stroke (paralysis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (paralysis). 7 articles, 15 related drugs."
+description: "Health news about stroke (paralysis). 5 articles, 15 related drugs."
 permalink: /news/paralysis/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (paralysis)?">
-<strong>stroke (paralysis)</strong> currently has <strong>7 news articles</strong> and 15 related drugs.
+<strong>stroke (paralysis)</strong> currently has <strong>5 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (7)
-
-### [NEWSLETTER: GLP-1 drugs help control prediabetes better than current standard medicine](https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHJraGhpZDJuNGN4MGhLWkR2UEltdXpUaVphcjVHVGU1WERiSElLc1d1UUE4blNsUDR5ZmRZcVFoVFE1RkhCMnhXWUt3WndiQzQ3LWh4aXBibWV6dXlXb0Nkd0RleHpvdmNnSWc1a0prQnR4MDI1QXFzZEdfSW02UFdxTGxNZ1A4SmYyakd4Vml2NDlHbjdtWko3NV80Y2hTVDlNUnAwSkZYYkhqczlNczA3VHVxcUJURXFEYjJhRnhMWGRCZFgzc0NrcVJZYjRWSnEzSDRmMmk2UktLeS0w?oc=5)
-
-2026-11-04
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi3wFBVV95cUxORHJraGhpZDJuNGN4MGhLWkR2UEltdXpUaVphcjVHVGU1WERiSElLc1d1UUE4blNsUDR5ZmRZcVFoVFE1RkhCMnhXWUt3WndiQzQ3LWh4aXBibWV6dXlXb0Nkd0RleHpvdmNnSWc1a0prQnR4MDI1QXFzZEdfSW02UFdxTGxNZ1A4SmYyakd4Vml2NDlHbjdtWko3NV80Y2hTVDlNUnAwSkZYYkhqczlNczA3VHVxcUJURXFEYjJhRnhMWGRCZFgzc0NrcVJZYjRWSnEzSDRmMmk2UktLeS0w?oc=5)
-
----
+## Related News (5)
 
 ### [Why are young adults suffering stroke cases? US study says it has doubled in 3 decades](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkdpSFk4M09WeUpqa0xZMk0tWDJQdFhDaURXcFJ1VENUa3VxYVQ1N2g2ZWJhRzJMOXRvdXJtemJSdTdnQi1uZDFYUHN4TDJkNzY5VGZuUGYtQllRdVBtRjMzdzR0RzZYZmEzMVQ1LVc2OTdXR2pUM1VCLTdQV01LZEQ0U1VrMllfVEtLSHV3YkNQRFdCQ0VhTWR3M19TUGdNLU5LalROSTgxM1puV0FYTEQ1bzB4djR6NVRhUnJxTdIBxAFBVV95cUxQNG9oTW1PX0pIdmt4Nkt1R2l5X2dJZDZvbmZYdVRmQ1JUTUp0YWJTVjFDZFg5TUo5VDlucHBmUXpQcjEwek5hWmtsMTY0N2Y3cHoxMFVYekZNQ0JhdHhkZ0c4Z1RDZDBZX25Pb2hGcm5CT200bE1nblBtc1EteUpzWmpsZC1McGN6ZmpmcU42bkNsUmYxNmJpaGNEM0RiR1BocWZabUFub3hpbmFNRElPaEN0ZjIyeGRqd3Vkcjg3NE1FZ1ZS?oc=5)
 
@@ -62,19 +54,19 @@ Source: [ThePrint](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkdpSFk4
 
 ---
 
-### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
+### [‘Diabetes patients tend to lose less weight with GLP-1 drugs than others’ - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2d2ejAxaTlpZUFBQXBHVDZiSl9rSExnOER6bHUwbmQ2endCbVF2dTA0dHRoa0xrbFJyWXkxRTAtLWNzZlVzbXBSZlAyUTA2Uk5HTGZOMTNRejlXSFVqcmVieDZCTEo3ek5lMWQ5b3VFdjBsRl9CNEtIeDlEWUtwdlMzVXAwd3JVN3V3LU1sXzdDeDBxanAtRlItcFlOZFI1Um5SUDM4YkFRRDJ0dkh4RGVLV2pzOWp3WkpBdl9UdFUtQUotZXhac09JQS1nOGtzM3BOSW1DVdIB3AFBVV95cUxOWjJIT0tpXzlmZ3RKWHFqSUtWdklaOGFnNXd4UGRQanYwSU1IXzREY3FTMmtOcE13RFZxMk44eXJweW93WkZvN3ZVazluYnExRVVWZTdPSjlCXzRoRWdDTEJ4RHVzZ1NuOHVESU1NYVZQbFd2WUVHZDZURmRMdkJFRWFoX2FjNmxuWXBtQ2lXUHdJVDhONmZIZUhGajRDWmF2UXdGQ0pLVmhYQzByZkJuZi1xSTJjRGI0d29PUUszTWpEMndJay1CTFpSNm5jMjZrMGdVUzg5Zm93R1JF?oc=5)
 
 2026-11-04
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2d2ejAxaTlpZUFBQXBHVDZiSl9rSExnOER6bHUwbmQ2endCbVF2dTA0dHRoa0xrbFJyWXkxRTAtLWNzZlVzbXBSZlAyUTA2Uk5HTGZOMTNRejlXSFVqcmVieDZCTEo3ek5lMWQ5b3VFdjBsRl9CNEtIeDlEWUtwdlMzVXAwd3JVN3V3LU1sXzdDeDBxanAtRlItcFlOZFI1Um5SUDM4YkFRRDJ0dkh4RGVLV2pzOWp3WkpBdl9UdFUtQUotZXhac09JQS1nOGtzM3BOSW1DVdIB3AFBVV95cUxOWjJIT0tpXzlmZ3RKWHFqSUtWdklaOGFnNXd4UGRQanYwSU1IXzREY3FTMmtOcE13RFZxMk44eXJweW93WkZvN3ZVazluYnExRVVWZTdPSjlCXzRoRWdDTEJ4RHVzZ1NuOHVESU1NYVZQbFd2WUVHZDZURmRMdkJFRWFoX2FjNmxuWXBtQ2lXUHdJVDhONmZIZUhGajRDWmF2UXdGQ0pLVmhYQzByZkJuZi1xSTJjRGI0d29PUUszTWpEMndJay1CTFpSNm5jMjZrMGdVUzg5Zm93R1JF?oc=5)
 
 ---
 
-### [50+ Stroke Survivors Invited to Mark World Stroke Day at Aadicura Hospital, Vadodara - ANI News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnZreW1xWWdtdjFtM1RFb29zRkdmZG5FN19pYUpwdHZPRm81eWdQb3lBbUR5a1BOWEZZOXFKOUtLLUdpcTBjRG94d0hZaFkyNnl0Ui1qM0t1UVFlVnhpa2otVDkzdzRQZWMzZ2RXUFNvWWpTMUxqNmpLTlBvbmpFbk03ZEVtcWVuc29hS0pGUmtTcVlTMUViYkdMZktSM2lpMi1tT3Zxci1mZjJpSzBRSzE0a0hIdlFPMV9hTWNvVE5WcnM5aWdtQWxLd2E3ckU?oc=5)
+### [Neurologists explain how to use BEFAST method to recognise a stroke, warning signs and risk factors | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTlZJT19WaHRpV1lLZVJnaElnNklKeU1fOWZVMmI4bU5ZeWdFTlh2TlZXN3F3R2YxcUdzZVFjYjNnSUdNd2M4M3dNbWthLWtLRVlxWGpIcWpqNFpSMTYtaFhObFUxS05NQkh4UlR3Nm01cGNBd0lVZWRsbnQ0NktZZmVDQkZSR2xDZ1llaDF3bUUxa21vRERUMk9EQjBuOVMxSmFQRGlNWGRtczJBdjA1TkNuZ2lpQlJiUVlCM3gxZDRrTTJRbDlISjBZd3AwSTk4NmFkMFVEcjRkaUdMM1JXQnFkTnN3dW5LdTNpZk1ncHhNUzBNWmFlaG9ySdIBgAJBVV95cUxNSjFiOC1nRW12VThjZ1RJYTlFalFwWnN5Tk1WcFRVelR5MjBRRzl4RlVMbWtWaWZ1dk9wSnJZTDhsZ0Y0NzhROGQyM2k3UkZXY0pzV0Zkc3UwbWdqdndtTnZlWW5nRzIyNlN0SUdDRy1MaHNyMnNieVJJUW1WQjZsUl9PZmpRQzZ5V1ZzOHc1SlAwMXI3bGZxTm45c2ZrMlU3N3BsTV9DYlVEcTdybHltc2o0M1luaGtKMjRiQ1B1MWtDM3lsYTJMQ2YxZ0lIRUV2NGxaSkR5RkJDelJ1eHZ6clBmeURtREdMRmk4dzA0UW4tZF9TVE9hMGM4N1RIVDJ2?oc=5)
 
-2026-11-03
+2026-11-04
 
-Source: [ANI News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnZreW1xWWdtdjFtM1RFb29zRkdmZG5FN19pYUpwdHZPRm81eWdQb3lBbUR5a1BOWEZZOXFKOUtLLUdpcTBjRG94d0hZaFkyNnl0Ui1qM0t1UVFlVnhpa2otVDkzdzRQZWMzZ2RXUFNvWWpTMUxqNmpLTlBvbmpFbk03ZEVtcWVuc29hS0pGUmtTcVlTMUViYkdMZktSM2lpMi1tT3Zxci1mZjJpSzBRSzE0a0hIdlFPMV9hTWNvVE5WcnM5aWdtQWxLd2E3ckU?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTlZJT19WaHRpV1lLZVJnaElnNklKeU1fOWZVMmI4bU5ZeWdFTlh2TlZXN3F3R2YxcUdzZVFjYjNnSUdNd2M4M3dNbWthLWtLRVlxWGpIcWpqNFpSMTYtaFhObFUxS05NQkh4UlR3Nm01cGNBd0lVZWRsbnQ0NktZZmVDQkZSR2xDZ1llaDF3bUUxa21vRERUMk9EQjBuOVMxSmFQRGlNWGRtczJBdjA1TkNuZ2lpQlJiUVlCM3gxZDRrTTJRbDlISjBZd3AwSTk4NmFkMFVEcjRkaUdMM1JXQnFkTnN3dW5LdTNpZk1ncHhNUzBNWmFlaG9ySdIBgAJBVV95cUxNSjFiOC1nRW12VThjZ1RJYTlFalFwWnN5Tk1WcFRVelR5MjBRRzl4RlVMbWtWaWZ1dk9wSnJZTDhsZ0Y0NzhROGQyM2k3UkZXY0pzV0Zkc3UwbWdqdndtTnZlWW5nRzIyNlN0SUdDRy1MaHNyMnNieVJJUW1WQjZsUl9PZmpRQzZ5V1ZzOHc1SlAwMXI3bGZxTm45c2ZrMlU3N3BsTV9DYlVEcTdybHltc2o0M1luaGtKMjRiQ1B1MWtDM3lsYTJMQ2YxZ0lIRUV2NGxaSkR5RkJDelJ1eHZ6clBmeURtREdMRmk4dzA0UW4tZF9TVE9hMGM4N1RIVDJ2?oc=5)
 
 ---
 
@@ -83,14 +75,6 @@ Source: [ANI News](https://news.google.com/rss/articles/CBMizwFBVV95cUxPNnZreW1x
 2026-11-03
 
 Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMitAFBVV95cUxQeklpbVJEOTgwbDcwZE0weXRZSlJkS0swUVNXczdRVFBOUngwVUMyWGNjOFlnb19ONDE1dU9ZYmMwaS1pZDE1QkIxNkplemdTR1RqVXBUcl9pbTFJdzVuN2V2dVBYNW5ianVrNW5Lc1VtWHktOXYyZWhZWVFZblRGRzFIX3A5cFhLRi1BVXkweWFERklDZkFtNFZjaUVJdmxCdGZGTk42VEdoWXVKRmdxVExFUUw?oc=5)
-
----
-
-### [Does vitamin B12 really help prevent heart disease? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
-
-2026-11-02
-
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBHSkMwV0VyVWNTR0dLTHZ0SWJSQW5KT0UtNUlIY01kRUUxOGNMUFN2bGFHR0J6YXNqN1RZRkF5ODMxOWNXYjZFaDhGXzhBTndoSHZPMzk1eFNfZ19BRzBKUHZSVXk0WlZMRHFfTEY1Y2N0bEowSXQ1N2Z0LXNYaWgzaFhSM1M5UEs4eWtPRnZRQWlzNWZQLUVhQThIWEFKdU5jVDNiVWE1OU12cTRIZA?oc=5)
 
 ---
 
