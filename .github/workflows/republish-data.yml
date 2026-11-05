@@ -1,9 +1,14 @@
 # 重發自含的成果資料 Release（2026-11-05，用戶核准）：舊版 data-* 裡有指向 TwTxGNN 的符號連結（DDInter、GtoPdb、DDSI／DFI、vocab 等），
 # 單獨還原本站會得到斷掉的檔。這個 workflow 取指定的本站 data tag，把指向 TwTxGNN 的連結換成 TwTxGNN Release 裡的實際檔案，
-# 重新打包成新 tag 發布。舊 tag 一律不覆蓋。只能手動觸發。
+# 重新打包成新 tag 發布。舊 tag 一律不覆蓋。
+# 觸發：手動（workflow_dispatch），或 push 修改 .github/republish-data.request（內容兩行：本站 tag、TwTxGNN tag；
+# 雲端 session 沒有 workflow_dispatch 權限時用）。
 name: Republish self-contained data
 
 on:
+  push:
+    branches: [main]
+    paths: ['.github/republish-data.request']
   workflow_dispatch:
     inputs:
       source_tag:
@@ -25,6 +30,20 @@ jobs:
       SRC: ${{ inputs.source_tag }}
       TWTAG: ${{ inputs.tw_tag }}
     steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+        if: github.event_name == 'push'
+        with:
+          sparse-checkout: .github
+
+      - name: Read request file
+        if: github.event_name == 'push'
+        run: |
+          set -euo pipefail
+          src=$(sed -n 1p .github/republish-data.request | tr -d '[:space:]')
+          tw=$(sed -n 2p .github/republish-data.request | tr -d '[:space:]')
+          [[ "$src" =~ ^data-[0-9A-Za-z-]+$ && "$tw" =~ ^data-[0-9A-Za-z-]+$ ]] || { echo "request 檔格式錯誤" >&2; exit 1; }
+          echo "SRC=$src" >> "$GITHUB_ENV"; echo "TWTAG=$tw" >> "$GITHUB_ENV"
+
       - name: Download and extract
         run: |
           set -euo pipefail
