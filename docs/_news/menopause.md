@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about menopause. 3 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # menopause News
@@ -46,7 +46,7 @@ This page brings together the latest health news about “menopause” and lists
 
 ## Related News (3)
 
-### [Not all women’s midlife health problems can be blamed on perimenopause](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGlmYkJkYXN6VG5KS096ai1ZZzBHTFNtcFZub1hZUlA3S0dJbUpxMG9TSDZrb2xRd3lHenYyMUdZa2swbVBsTGNva0x0VGUzSnRxMDUyekRMekNKaWFEYzBjbF84eDRmTnlyV09FWld4NVpKMFNtN2hxXzlqaTZYRzcwOGVnWksxcmpHdEdsSUlPWUM5VnczNDliWGZ1dE1yVEZyUzFLOEg4aHpGSFltWWpWM2N4MDRqQVJqeExxaWc2RHdleEN3ZEFxWkE3R2MwOXJKVlRmRHR3UQ?oc=5)
+### [Why women in their late 30s demand HRT – and why doctors say no](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGlmYkJkYXN6VG5KS096ai1ZZzBHTFNtcFZub1hZUlA3S0dJbUpxMG9TSDZrb2xRd3lHenYyMUdZa2swbVBsTGNva0x0VGUzSnRxMDUyekRMekNKaWFEYzBjbF84eDRmTnlyV09FWld4NVpKMFNtN2hxXzlqaTZYRzcwOGVnWksxcmpHdEdsSUlPWUM5VnczNDliWGZ1dE1yVEZyUzFLOEg4aHpGSFltWWpWM2N4MDRqQVJqeExxaWc2RHdleEN3ZEFxWkE3R2MwOXJKVlRmRHR3UQ?oc=5)
 
 2026-11-04
 

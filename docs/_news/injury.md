@@ -3,9 +3,9 @@ layout: default
 title: "injury News"
 parent: Health News
 nav_exclude: true
-description: "Health news about injury. 1 articles, 1 related drugs."
+description: "Health news about injury. 2 articles, 1 related drugs."
 permalink: /news/injury/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 ---
 
 # injury News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="What news is there about injury?">
-<strong>injury</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>injury</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “injury” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Association of imipenem/cilastatin with development of acute kidney injury in critically ill patients requiring carbapenem treatment](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OQ2VvTUxIX2thQ0U4eWpLTWR5NGpzM2hob0FrYnBhUHlId1dqTkpiN18zbVEtb0NYTlRZR21JMk8tNXRXdkFWdUtqVzBkclB1QlFkXzdQVHRHb1FyR09Z?oc=5)
+
+2026-11-05
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OQ2VvTUxIX2thQ0U4eWpLTWR5NGpzM2hob0FrYnBhUHlId1dqTkpiN18zbVEtb0NYTlRZR21JMk8tNXRXdkFWdUtqVzBkclB1QlFkXzdQVHRHb1FyR09Z?oc=5)
+
+---
 
 ### [Acute Kidney Injury Timing May Influence VA-ECMO Outcomes](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkVibW5BTUh6Uk8zS0U1aU05TjdacFNzOGtZRDB0TWh6R0VYRjRFY29pWDQ5ZEo1eE4tT21iX3VfMmxudmphNlZiNDhueWJIZ1QyNmF5c0RsY2RZNnNKenF5VFdwMUJ0NnRNN0hLV1Z0T2UxMjBhSk9XOWwxWERVUmxUZEFGUFdYSDV4LVVobEREbVBlTEtRQmxNR1V5am5DMXc0?oc=5)
 

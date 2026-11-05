@@ -3,9 +3,9 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 2 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 3 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # alzheimer (dementia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [The Impact of Vitamin D Deficiency on the Development and Progression of Alzheimer's and Parkinson's Diseases: A Narrative Review](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVBLak5ZQktSaHN2Wm9YN1BxdlFqVUxhcUoxUWE1V0F6YTZtZGdveTY5OXRudWx0bjdnM1drTHNmOXhxQ2gyaHk5RHpidmtJYU1oSXpqQUljUW5EQjFqbUtOeXpHdWpzX1k1ZFpnalVmNUV0R016bF8wUE5SWW1iWjIxYndWU2daMC1OV2tTaEp4NkVncXhaSWZQYnZieElCcXZsYVNSUTRleXVCcHl2cjhuaF9JSG9RQlFhWmxNS2JNbzlDeFhKeVR2cTByakx5QlNOUmoyY2hsbXA5STNXN0NmUlM2TUtQYUJUUV90cTRvbzhRaGhlVA?oc=5)
+### [Neurophet Partners with RapidAI to Accelerate AI-Powered Alzheimer’s Imaging Solutions in the US - BioPharma APAC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5)
 
 2026-11-04
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRVBLak5ZQktSaHN2Wm9YN1BxdlFqVUxhcUoxUWE1V0F6YTZtZGdveTY5OXRudWx0bjdnM1drTHNmOXhxQ2gyaHk5RHpidmtJYU1oSXpqQUljUW5EQjFqbUtOeXpHdWpzX1k1ZFpnalVmNUV0R016bF8wUE5SWW1iWjIxYndWU2daMC1OV2tTaEp4NkVncXhaSWZQYnZieElCcXZsYVNSUTRleXVCcHl2cjhuaF9JSG9RQlFhWmxNS2JNbzlDeFhKeVR2cTByakx5QlNOUmoyY2hsbXA5STNXN0NmUlM2TUtQYUJUUV90cTRvbzhRaGhlVA?oc=5)
+Source: [BioPharma APAC](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUV4V0tMRDlHYkdlTlhFNVBPRDJXNS05amNicTlHRnNQS3dTZ2NuYTgzb1BQVU00VmRmem1zaEItV0tObVIwdzhhcjNQUFRFMDl1RU9aQW1KMVp2UnVUbWVWeF9DWmZHSjdSZkhaajZZcnFRMXJLcFhkanFVMHdzbUpzdmlDSTFQcUs5bW5Eb0x3RE51dFFGZW5WX2tsTHVyUUdGZDJrQWJaZzgzNkFJTjlJWTExRHRfbE5pX3lYVFh3Y1FiNWN2SmFsS3JwbURfbFVDR2VB?oc=5)
+
+---
+
+### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
+
+2026-11-04
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
 
 ---
 

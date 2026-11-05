@@ -3,9 +3,9 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 1 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 2 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # dementia (memory loss) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Kids who eat more ultra-processed foods show a troubling brain response - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
+
+2026-11-04
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLUozMEEwRV9qZjN0ZG1kMXRHU1k0WlpVeF92VlNjX1U3eXdRR08zVUEwRkIwSGVlcHh2M1VIY2NQa0tSOGV5SUhtUVZyanIzUlJSQ0gycmdPS3lORU5KOC14UW1mckNORzNXQmdySQ?oc=5)
+
+---
 
 ### [Study identifies molecular links between menopause and brain aging](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFZtNGZqR05WU3FBQWpyYnpNTzEzYjdiX2lTM21vV2Y5TVVYNnpxTlRaQjREUTFUN3pjbXRPdUlwVTdTOUQxVEY2WThGNVlQa2xhSnNoWGRuUnBqaTJLWjlTR1hISE1ZbTJaNW56dlN4ckU1RmpDTVYxUzcxdUVUeWh3VkJpT1dvYkdtY0d4SjVBVTByY2NzVTYzS3RqdmUtWUFPRkNKbC1KN2ROVFRaaWlZdzE?oc=5)
 

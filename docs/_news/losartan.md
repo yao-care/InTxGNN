@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Losartan. 7 predicted indications."
 permalink: /news/losartan/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # Losartan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="What news is there about Losartan?">
-<strong>Losartan</strong> currently has <strong>10 news articles</strong>, with 7 predicted indications.
+<strong>Losartan</strong> currently has <strong>7 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,29 +39,21 @@ This page combines the AI-predicted indications for Losartan with the latest hea
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (7)
 
-### [Deep learning method maps spatial architecture of brain cancer cells](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXp4YzBvT21oRmVKUllyN3k1Z1FnUHp6NERtdnBwRXJTRUxrS3FSNHEteGJWRThpa2Zsc1dhaE9GVF9SX002LVhaaGlaSE9vLUtKSHpDRERFWmRucDBJYUNtYS13RkpCWFZ5Ym52dkJGOVowTUhQbW54RUtSbzJVOHF4VGMtaWxpZ3A5M0dGOGMzUDh2V0Y2cnMxdTVUdGZsMlUxVTFTZzlYYkh4X2dkbjdhVEVBS28?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXp4YzBvT21oRmVKUllyN3k1Z1FnUHp6NERtdnBwRXJTRUxrS3FSNHEteGJWRThpa2Zsc1dhaE9GVF9SX002LVhaaGlaSE9vLUtKSHpDRERFWmRucDBJYUNtYS13RkpCWFZ5Ym52dkJGOVowTUhQbW54RUtSbzJVOHF4VGMtaWxpZ3A5M0dGOGMzUDh2V0Y2cnMxdTVUdGZsMlUxVTFTZzlYYkh4X2dkbjdhVEVBS28?oc=5)
-
----
-
-### [Protein DUSP4 prevents immune cell exhaustion in colorectal cancer](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0dKcmxnbTBQX29iMXE3Q18zWlBPNWk3TGlJbnhheDJzQW1rM1A3RzcwanFSWDJMYndQUDZ3Wk5mN21sVWJUb2cySlNtZjFnR1MzdlhuZFNFS3loRV9zWjlaenEyMnJzOEdfaEl6R1RuNk56dWd2YXk5TVBHNWZBWVl0a3VDV1NfSnhhb0ZEbmEwd29JWjg2ek1PSWlWeDlESk8yOFpzZXZid0F6TTZFM1E3SzE?oc=5)
+### [DUSP4: A Potential Boost for CAR-T Cells Against Solid Tumors](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09wRUx6VkJJS2M0ZWxTRGpIbkJxLVdiVXZUcmNSWXJrYkxFaVA3NTBwVlJzZHlFVWpQeUtiOTFKV3lQTUk5Q0N6dXdwdkNrcnVUZXJjcGJyZEFHaEQxR2JUbGV4ekg1LTY0UV9hOXpqdncxWl9LVDhkaE9ZTnlOd2J4LUdvX2FPQ01yWHQ?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0dKcmxnbTBQX29iMXE3Q18zWlBPNWk3TGlJbnhheDJzQW1rM1A3RzcwanFSWDJMYndQUDZ3Wk5mN21sVWJUb2cySlNtZjFnR1MzdlhuZFNFS3loRV9zWjlaenEyMnJzOEdfaEl6R1RuNk56dWd2YXk5TVBHNWZBWVl0a3VDV1NfSnhhb0ZEbmEwd29JWjg2ek1PSWlWeDlESk8yOFpzZXZid0F6TTZFM1E3SzE?oc=5)
+Source: [RegMedNet](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09wRUx6VkJJS2M0ZWxTRGpIbkJxLVdiVXZUcmNSWXJrYkxFaVA3NTBwVlJzZHlFVWpQeUtiOTFKV3lQTUk5Q0N6dXdwdkNrcnVUZXJjcGJyZEFHaEQxR2JUbGV4ekg1LTY0UV9hOXpqdncxWl9LVDhkaE9ZTnlOd2J4LUdvX2FPQ01yWHQ?oc=5)
 
 ---
 
-### [Delhi Air Pollution: Feeling Anxious As AQI Rises? Experts Explain The Mental Health Toll Of Breathing Toxic Air - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxPX1BoZHBhN1dPNDYtVzNGQzRWRVh6Z1EzckI2b1lwS01hdVJNaXNOQW5ka3NTY2hzVjFYNFIwTGhTaXd0emRQdE9VYzN1bUNqQ3BpTWo3SWVyYjhvcHdpbl9oVkZMX19XRjZ1WS15RlVXWXhVcTJhZXJ2dHY1VWEtZlZJelZzbk12VWtMRmhKcldKNjZ4Qlp5WkxxTDZHSGlpd1h6UWowODJqbVRVb1dOYmhsMGlQejZzOHRpSWNHRTlsQmc5ZFh4ZzRkQllvZHVRWTlGZHljTVd2QWpiUkEtUlNiX19ybU94Sk5GYkZGa0ZFZVpHNFpFeWtRYmZWbVBwSkE?oc=5)
+### [Air Pollution Not Just Environmental Issue Anymore, It's Serious Public Health Concern: Experts - ETV Bharat](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3dqa2Q2MFlMcy1CUGtjS2dWUGJuU19mTFNjdk1mZC1IeWZSYzZMbmRUUEJfeGpoN1RXVzNiZ3ZKa0xZMlhxdG5HOW5yZ0RJNTM3b1hsS1VXdFM5U25rMEZCMGZ3eGExSEZ0REFKLUpIZEJSbjRnNHp4SXpuTEU5ZXV4ZzN1dlh6VGNkYkdBc2RqamM2V3VySEJMODg2OG1VY2NHa0lJR1h0Mmh1ZzdmZjdUdXRzUUxzR21abTJULVJkdE9JV1MzbkhjREF5OFNkNEp6WFdsc0FpXzjSAeABQVVfeXFMUF9qV3g5SlZHUE1iMERkYWlxNE5rU1ZlV1VjTEhBb3hBeW5lMzhPNUVaRDNyeVVvLVJ0enE5MW94UG1iOEFNcDJiTnNCNlhWdlpGLWh4Zzc3aERjdWNxaFJObVEwTWNld0lPSjZGZ2ljc0kydGVRekVIV2otNnVZN3lIVTZ5blhOVl8zWUVlOHBGXzVaU3NnZW94eVJMUDBTYmd2MzN0RnpBeE0wa3pfa1E4R2xmV0RzWUMzWHVPdmtyYmkycHpEY3VzVzVXS0M4VzJuWlE1OGJxZk1YcXZrZEI?oc=5)
 
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+2026-11-04 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxPX1BoZHBhN1dPNDYtVzNGQzRWRVh6Z1EzckI2b1lwS01hdVJNaXNOQW5ka3NTY2hzVjFYNFIwTGhTaXd0emRQdE9VYzN1bUNqQ3BpTWo3SWVyYjhvcHdpbl9oVkZMX19XRjZ1WS15RlVXWXhVcTJhZXJ2dHY1VWEtZlZJelZzbk12VWtMRmhKcldKNjZ4Qlp5WkxxTDZHSGlpd1h6UWowODJqbVRVb1dOYmhsMGlQejZzOHRpSWNHRTlsQmc5ZFh4ZzRkQllvZHVRWTlGZHljTVd2QWpiUkEtUlNiX19ybU94Sk5GYkZGa0ZFZVpHNFpFeWtRYmZWbVBwSkE?oc=5)
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNc3dqa2Q2MFlMcy1CUGtjS2dWUGJuU19mTFNjdk1mZC1IeWZSYzZMbmRUUEJfeGpoN1RXVzNiZ3ZKa0xZMlhxdG5HOW5yZ0RJNTM3b1hsS1VXdFM5U25rMEZCMGZ3eGExSEZ0REFKLUpIZEJSbjRnNHp4SXpuTEU5ZXV4ZzN1dlh6VGNkYkdBc2RqamM2V3VySEJMODg2OG1VY2NHa0lJR1h0Mmh1ZzdmZjdUdXRzUUxzR21abTJULVJkdE9JV1MzbkhjREF5OFNkNEp6WFdsc0FpXzjSAeABQVVfeXFMUF9qV3g5SlZHUE1iMERkYWlxNE5rU1ZlV1VjTEhBb3hBeW5lMzhPNUVaRDNyeVVvLVJ0enE5MW94UG1iOEFNcDJiTnNCNlhWdlpGLWh4Zzc3aERjdWNxaFJObVEwTWNld0lPSjZGZ2ljc0kydGVRekVIV2otNnVZN3lIVTZ5blhOVl8zWUVlOHBGXzVaU3NnZW94eVJMUDBTYmd2MzN0RnpBeE0wa3pfa1E4R2xmV0RzWUMzWHVPdmtyYmkycHpEY3VzVzVXS0M4VzJuWlE1OGJxZk1YcXZrZEI?oc=5)
 
 ---
 
@@ -89,35 +81,19 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1
 
 ---
 
-### [Merthyr woman told she had anxiety but it was breast cancer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSHZoY1NnWC1PTkdIR041Y2NEWVZYc1F1V2VCNTBSWmxkNG9wSC1YNVplZ3NWbUlFTVkyYUZSd1JpblI2aHJ1TWxQX0tpeklzeENRNjRVMG1wN3c?oc=5)
+### [Rising Breast Cancer Incidence Among Younger Women Raises Concerns - India News Network](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzRLUHU2Y0J6bXp0Sm1fN0tTZmN5akFRQ2RoRUhkUGg2ZDkzeEhhUG1KSDM1VE5Cc0duQWc0b25zRjc4OHctMzNfbFhteUc4czRFTXliNzhQYkdCNmhKQTF1N2VtUWZOUzJVcXBfRTRjVHZJdUxPeGoyR3B2Z3ZQMm5pNHhVMlRDdjVQNFRLc3VtbWNDQS14dXF4X1c0cGN0QWFPQ0ZUZzdiNTdBLVZ5RQ?oc=5)
 
-2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-11-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSHZoY1NnWC1PTkdIR041Y2NEWVZYc1F1V2VCNTBSWmxkNG9wSC1YNVplZ3NWbUlFTVkyYUZSd1JpblI2aHJ1TWxQX0tpeklzeENRNjRVMG1wN3c?oc=5)
-
----
-
-### [When Cancer Comes for Your Career - Katie Couric Media](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTYwckQyM0hTNzF4NnN2Z2QtWk9oUm80Q3ZOVVN6bi1RRklUTzR2OHdTclBzSXpJU0lSZEZTeXdPcExLVk9DM1h2NWxiVVhmRjk4TWhmWWwwdHVINEMxVzdKaTctb01meHZTbE5iS09qa3Q3dlhRWU9WMHJyTnJzQ0RTY1N1NFFnaG9RNnFBdjE?oc=5)
-
-2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Katie Couric Media](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbTYwckQyM0hTNzF4NnN2Z2QtWk9oUm80Q3ZOVVN6bi1RRklUTzR2OHdTclBzSXpJU0lSZEZTeXdPcExLVk9DM1h2NWxiVVhmRjk4TWhmWWwwdHVINEMxVzdKaTctb01meHZTbE5iS09qa3Q3dlhRWU9WMHJyTnJzQ0RTY1N1NFFnaG9RNnFBdjE?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzRLUHU2Y0J6bXp0Sm1fN0tTZmN5akFRQ2RoRUhkUGg2ZDkzeEhhUG1KSDM1VE5Cc0duQWc0b25zRjc4OHctMzNfbFhteUc4czRFTXliNzhQYkdCNmhKQTF1N2VtUWZOUzJVcXBfRTRjVHZJdUxPeGoyR3B2Z3ZQMm5pNHhVMlRDdjVQNFRLc3VtbWNDQS14dXF4X1c0cGN0QWFPQ0ZUZzdiNTdBLVZ5RQ?oc=5)
 
 ---
 
-### [How smoking sets the stage for lung cancer | Explained - The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxONDJVSW95YS0ydzIwRU5obEVOU0daR3NPaG1uMkNyMlZsajZvX2M5TEE4d1QtemdyNm5zTUpsNE16Tzh5U3c1VDRrcEZUeC1PN1UxaHJtYlBBaUp2elJjZDJ4ZDBRU1NVRDVrcHFvMTFZQnFjNHpzYzNEYnJXYnpZcFJlSmVXSW9pV1NUdU1RSlZ3THgwb0pHOWpocnJwaVgtV204RnE5X05mcU5CQWIwNURMUUx2MzZVa3FLOEhBbFdFUURC0gHLAUFVX3lxTE9pQUUyd0xZUmFXX0dEdUFLanpEbkxqbFZhRHNyN1FaX0lxYWhYRnotSzdGdnRZXzlUQmRHbHRKc0VlcTVrdXNnMW1yNERTS1hYSmJUMXltTTVKbHh0S1d0bzhYNmlpR0ZENWh2QU9PQk5tUVA4WHQyR1hsaEx2VjlockY2c1ZpRmNBamxLMXlrc1JNbXJrM3dBS3VWQXRvaU5YSUJWMnhXdVdOOER0RFA4MFdJVkYzampGMlA5SHJWYlhvd3FGT240OGQw?oc=5)
-
-2026-11-03 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMixAFBVV95cUxONDJVSW95YS0ydzIwRU5obEVOU0daR3NPaG1uMkNyMlZsajZvX2M5TEE4d1QtemdyNm5zTUpsNE16Tzh5U3c1VDRrcEZUeC1PN1UxaHJtYlBBaUp2elJjZDJ4ZDBRU1NVRDVrcHFvMTFZQnFjNHpzYzNEYnJXYnpZcFJlSmVXSW9pV1NUdU1RSlZ3THgwb0pHOWpocnJwaVgtV204RnE5X05mcU5CQWIwNURMUUx2MzZVa3FLOEhBbFdFUURC0gHLAUFVX3lxTE9pQUUyd0xZUmFXX0dEdUFLanpEbkxqbFZhRHNyN1FaX0lxYWhYRnotSzdGdnRZXzlUQmRHbHRKc0VlcTVrdXNnMW1yNERTS1hYSmJUMXltTTVKbHh0S1d0bzhYNmlpR0ZENWh2QU9PQk5tUVA4WHQyR1hsaEx2VjlockY2c1ZpRmNBamxLMXlrc1JNbXJrM3dBS3VWQXRvaU5YSUJWMnhXdVdOOER0RFA4MFdJVkYzampGMlA5SHJWYlhvd3FGT240OGQw?oc=5)
-
----
-
-### [Breast Cancer Doesn't Wait Until 50: Why Young Women Need To Pay Attention](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVFo1WDlQaDQ0Y1U2RDVYU3lpMzRYUUlzb19aU0VPeHhERldmWmtDdFFkUElMM1FLMk1Qc1RSeFpaNHRSekJaOWpNS3VjZ1JySkRDY2Jwb1lSOWU5T0VDZ3ZreXk2ZHprVVIzU3RVdnZKTkRxQ3BlUm9VQzhnLVJWcHJSbWprU1RjRF9CcEZpWWhBRXBheE5TQzNWS29XZVg2UnFxeTBOSTBIU3p5QzNpT2pkNDJ1cFRjckM0ZVRRaHJlTGtUTTlta19naGVvSdIB2gFBVV95cUxORzhzSUNzV3NqWk9EXzBtYzZyS19XTHNxQWJzRmRDVU9vbVV2LXR6SVV0ZGlEeE5DR0R6dmdkZjd2MU5icGx4RWpnY0FDT1N3cnhOeU5sOF9BWksxMU5ndC1LNG1nWXdMcGdsUkxJSk1Yc2RnMEJrRjY1c05CLXdOQU9NU1h4Rl8wY3AtYlFlVFR3cS05TlZYT0xtMFJPSl9fbmRiRzFpc0RSMVBlOEIyMmZrcGZfaG4wYWs5VmQ2eHVWLWZ0REtUMzJjbFpNTnBvOU4yblRFZVVnZw?oc=5)
+### [The Gap Between A Lump And A Diagnosis Costs More When It Comes To Breast Cancer - ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1E5ejZxa3ZxT2NXb0QzbEpBZV9HS3VlN2tQRi1jZTN2dWtRU29HR0ZiSDFTVnlNcmVkR19GbFpyeGZKc1VsUWcxTi1ueUNaaWdWRnE2NUw1bUpLSG5wanhnLVNKR3M4UGNXcG1acUhBeXdMVnI5VkNTdFEzYXVndndIYUhUUWVjdEtKWXZjMEtUSDFobnkxTUoxbGk3SE1tczBsNWR6ZmtXZ9IBrwFBVV95cUxNeEJQcDlQcDIxVGlQRHlTWE5MMGtXNjExOXdhTHh2VWFWSWZ1WkpnQWZrMzZkc2RFam82X0ozcWZMM0Q2WnZMYWg5UHZrOHh3X3BfRG00VXVReDZZREZ0TjRxb3V3eGlYOEd6WGFVblo4M2NZZEhEVXo1LV85UXJmLTN2bDFqbVJYTklWSGJQZkIxTHlFTVJLbkstUnljbDZoaUFXYnppUnZXWHAzRThJ?oc=5)
 
 2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [News18](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTdpSW1jVFo1WDlQaDQ0Y1U2RDVYU3lpMzRYUUlzb19aU0VPeHhERldmWmtDdFFkUElMM1FLMk1Qc1RSeFpaNHRSekJaOWpNS3VjZ1JySkRDY2Jwb1lSOWU5T0VDZ3ZreXk2ZHprVVIzU3RVdnZKTkRxQ3BlUm9VQzhnLVJWcHJSbWprU1RjRF9CcEZpWWhBRXBheE5TQzNWS29XZVg2UnFxeTBOSTBIU3p5QzNpT2pkNDJ1cFRjckM0ZVRRaHJlTGtUTTlta19naGVvSdIB2gFBVV95cUxORzhzSUNzV3NqWk9EXzBtYzZyS19XTHNxQWJzRmRDVU9vbVV2LXR6SVV0ZGlEeE5DR0R6dmdkZjd2MU5icGx4RWpnY0FDT1N3cnhOeU5sOF9BWksxMU5ndC1LNG1nWXdMcGdsUkxJSk1Yc2RnMEJrRjY1c05CLXdOQU9NU1h4Rl8wY3AtYlFlVFR3cS05TlZYT0xtMFJPSl9fbmRiRzFpc0RSMVBlOEIyMmZrcGZfaG4wYWs5VmQ2eHVWLWZ0REtUMzJjbFpNTnBvOU4yblRFZVVnZw?oc=5)
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1E5ejZxa3ZxT2NXb0QzbEpBZV9HS3VlN2tQRi1jZTN2dWtRU29HR0ZiSDFTVnlNcmVkR19GbFpyeGZKc1VsUWcxTi1ueUNaaWdWRnE2NUw1bUpLSG5wanhnLVNKR3M4UGNXcG1acUhBeXdMVnI5VkNTdFEzYXVndndIYUhUUWVjdEtKWXZjMEtUSDFobnkxTUoxbGk3SE1tczBsNWR6ZmtXZ9IBrwFBVV95cUxNeEJQcDlQcDIxVGlQRHlTWE5MMGtXNjExOXdhTHh2VWFWSWZ1WkpnQWZrMzZkc2RFam82X0ozcWZMM0Q2WnZMYWg5UHZrOHh3X3BfRG00VXVReDZZREZ0TjRxb3V3eGlYOEd6WGFVblo4M2NZZEhEVXo1LV85UXJmLTN2bDFqbVJYTklWSGJQZkIxTHlFTVJLbkstUnljbDZoaUFXYnppUnZXWHAzRThJ?oc=5)
 
 ---
 

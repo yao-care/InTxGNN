@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about colorectal cancer (colonic neoplasm). 1 articles, 1 related drugs."
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # colorectal cancer (colonic neoplasm) News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “colorectal cancer” a
 
 ## Related News (1)
 
-### [Protein DUSP4 prevents immune cell exhaustion in colorectal cancer](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0dKcmxnbTBQX29iMXE3Q18zWlBPNWk3TGlJbnhheDJzQW1rM1A3RzcwanFSWDJMYndQUDZ3Wk5mN21sVWJUb2cySlNtZjFnR1MzdlhuZFNFS3loRV9zWjlaenEyMnJzOEdfaEl6R1RuNk56dWd2YXk5TVBHNWZBWVl0a3VDV1NfSnhhb0ZEbmEwd29JWjg2ek1PSWlWeDlESk8yOFpzZXZid0F6TTZFM1E3SzE?oc=5)
+### [DUSP4: A Potential Boost for CAR-T Cells Against Solid Tumors](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09wRUx6VkJJS2M0ZWxTRGpIbkJxLVdiVXZUcmNSWXJrYkxFaVA3NTBwVlJzZHlFVWpQeUtiOTFKV3lQTUk5Q0N6dXdwdkNrcnVUZXJjcGJyZEFHaEQxR2JUbGV4ekg1LTY0UV9hOXpqdncxWl9LVDhkaE9ZTnlOd2J4LUdvX2FPQ01yWHQ?oc=5)
 
 2026-11-04
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0dKcmxnbTBQX29iMXE3Q18zWlBPNWk3TGlJbnhheDJzQW1rM1A3RzcwanFSWDJMYndQUDZ3Wk5mN21sVWJUb2cySlNtZjFnR1MzdlhuZFNFS3loRV9zWjlaenEyMnJzOEdfaEl6R1RuNk56dWd2YXk5TVBHNWZBWVl0a3VDV1NfSnhhb0ZEbmEwd29JWjg2ek1PSWlWeDlESk8yOFpzZXZid0F6TTZFM1E3SzE?oc=5)
+Source: [RegMedNet](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09wRUx6VkJJS2M0ZWxTRGpIbkJxLVdiVXZUcmNSWXJrYkxFaVA3NTBwVlJzZHlFVWpQeUtiOTFKV3lQTUk5Q0N6dXdwdkNrcnVUZXJjcGJyZEFHaEQxR2JUbGV4ekg1LTY0UV9hOXpqdncxWl9LVDhkaE9ZTnlOd2J4LUdvX2FPQ01yWHQ?oc=5)
 
 ---
 
