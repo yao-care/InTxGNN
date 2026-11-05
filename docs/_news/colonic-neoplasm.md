@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "colorectal cancer (colonic neoplasm) News"
+title: "colon cancer (colonic neoplasm) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about colorectal cancer (colonic neoplasm). 2 articles, 1 related drugs."
+description: "Health news about colon cancer (colonic neoplasm). 2 articles, 1 related drugs."
 permalink: /news/colonic-neoplasm/
 last_modified_at: 2026-11-05
 ---
 
-# colorectal cancer (colonic neoplasm) News
+# colon cancer (colonic neoplasm) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about colorectal cancer (colonic neoplasm)?">
-<strong>colorectal cancer (colonic neoplasm)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about colon cancer (colonic neoplasm)?">
+<strong>colon cancer (colonic neoplasm)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “colorectal cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “colon cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -32,11 +32,11 @@ This page brings together the latest health news about “colorectal cancer” a
 
 ## Related News (2)
 
-### [Trend Reversal: Analysis Shows CRC Rise Across Age Groups](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2dobzc5a2hGeDZINEhraVBhay1NVkRoQjRCYTNhcDhwc1R3Z0VtSUREblNhSjlmUHhTZVVEWFZqQmppQ1FvVkI5TzY2OHdMbWktQ2JMMGJpZVRqczZ0WEpUWEYwS3doY0c5Y01vX0Z0dmVNVy1FOTZQYjJJalR4UFhYU0hPMnNCaWFTYnBQenlRcjgtNWl2T2lveVp2dVRobHI0Z0JDNEp0QQ?oc=5)
+### [Global Colon Cancer Association Announces Winners of the 2026 Global Colorectal Cancer Leadership Awards - EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUxZSnA3dWJOMERoQWhCYmx4SXA1SDBFb3dYTGtGLVFYRDFFWFNTR3BULWI0YTRreE1EMU9QUVZSWk8tUXk1ZFdkWmhRNmxEcmEzeV80QmRVcTZPRENJQUp2allvUVdSXzhXZ2dNcXFfZllqTy00VmJlQVJlOU5KSUFmMGlIS3RXb29Dc0ZsUGdLTi1ZTGxVNWd5M0NvcnhiYjV0U3JZQ2w1cGUxMlo3aHlueko0UEFqX2I4d0JxYjN0c2NiTW9LTWZZc0UzeGxPeWRsQVZaUEtMc0ZLZUVRaUg1R1JHZw?oc=5)
 
 2026-11-05
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2dobzc5a2hGeDZINEhraVBhay1NVkRoQjRCYTNhcDhwc1R3Z0VtSUREblNhSjlmUHhTZVVEWFZqQmppQ1FvVkI5TzY2OHdMbWktQ2JMMGJpZVRqczZ0WEpUWEYwS3doY0c5Y01vX0Z0dmVNVy1FOTZQYjJJalR4UFhYU0hPMnNCaWFTYnBQenlRcjgtNWl2T2lveVp2dVRobHI0Z0JDNEp0QQ?oc=5)
+Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUxZSnA3dWJOMERoQWhCYmx4SXA1SDBFb3dYTGtGLVFYRDFFWFNTR3BULWI0YTRreE1EMU9QUVZSWk8tUXk1ZFdkWmhRNmxEcmEzeV80QmRVcTZPRENJQUp2allvUVdSXzhXZ2dNcXFfZllqTy00VmJlQVJlOU5KSUFmMGlIS3RXb29Dc0ZsUGdLTi1ZTGxVNWd5M0NvcnhiYjV0U3JZQ2w1cGUxMlo3aHlueko0UEFqX2I4d0JxYjN0c2NiTW9LTWZZc0UzeGxPeWRsQVZaUEtMc0ZLZUVRaUg1R1JHZw?oc=5)
 
 ---
 

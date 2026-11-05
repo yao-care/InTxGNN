@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Metronidazole with the lates
 
 ## Related News (1)
 
-### [Why women in their late 30s demand HRT – and why doctors say no](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGlmYkJkYXN6VG5KS096ai1ZZzBHTFNtcFZub1hZUlA3S0dJbUpxMG9TSDZrb2xRd3lHenYyMUdZa2swbVBsTGNva0x0VGUzSnRxMDUyekRMekNKaWFEYzBjbF84eDRmTnlyV09FWld4NVpKMFNtN2hxXzlqaTZYRzcwOGVnWksxcmpHdEdsSUlPWUM5VnczNDliWGZ1dE1yVEZyUzFLOEg4aHpGSFltWWpWM2N4MDRqQVJqeExxaWc2RHdleEN3ZEFxWkE3R2MwOXJKVlRmRHR3UQ?oc=5)
+### [Menopause leaves clues in the blood about women’s future brain health](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVPWGpfNjdDd2d2QVdqRlJZUEpzdmx3dDhjTDJxVTBuVkxqcnBqMlpxZGNJdU1nc2xxYU9oUFY4WW1oZFhDczJDbXZlSzI3YmRZOE5Gb1BHcnpvQVlra2RYLVJ2dE1Gd28tM282UXU5dm5yZzdXV0JsVzZZQzdDbGxtdnk3LWNrckYzUGVQQlptbjJBMWJYSmxEVElHYXRvWndR?oc=5)
 
-2026-11-04 <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+2026-11-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [AFR](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGlmYkJkYXN6VG5KS096ai1ZZzBHTFNtcFZub1hZUlA3S0dJbUpxMG9TSDZrb2xRd3lHenYyMUdZa2swbVBsTGNva0x0VGUzSnRxMDUyekRMekNKaWFEYzBjbF84eDRmTnlyV09FWld4NVpKMFNtN2hxXzlqaTZYRzcwOGVnWksxcmpHdEdsSUlPWUM5VnczNDliWGZ1dE1yVEZyUzFLOEg4aHpGSFltWWpWM2N4MDRqQVJqeExxaWc2RHdleEN3ZEFxWkE3R2MwOXJKVlRmRHR3UQ?oc=5)
+Source: [Earth.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVPWGpfNjdDd2d2QVdqRlJZUEpzdmx3dDhjTDJxVTBuVkxqcnBqMlpxZGNJdU1nc2xxYU9oUFY4WW1oZFhDczJDbXZlSzI3YmRZOE5Gb1BHcnpvQVlra2RYLVJ2dE1Gd28tM282UXU5dm5yZzdXV0JsVzZZQzdDbGxtdnk3LWNrckYzUGVQQlptbjJBMWJYSmxEVElHYXRvWndR?oc=5)
 
 ---
 

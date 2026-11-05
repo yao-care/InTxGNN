@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 7 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 9 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-05
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>7 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,13 +236,37 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [Trend Reversal: Analysis Shows CRC Rise Across Age Groups](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2dobzc5a2hGeDZINEhraVBhay1NVkRoQjRCYTNhcDhwc1R3Z0VtSUREblNhSjlmUHhTZVVEWFZqQmppQ1FvVkI5TzY2OHdMbWktQ2JMMGJpZVRqczZ0WEpUWEYwS3doY0c5Y01vX0Z0dmVNVy1FOTZQYjJJalR4UFhYU0hPMnNCaWFTYnBQenlRcjgtNWl2T2lveVp2dVRobHI0Z0JDNEp0QQ?oc=5)
+### [Global Colon Cancer Association Announces Winners of the 2026 Global Colorectal Cancer Leadership Awards - EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUxZSnA3dWJOMERoQWhCYmx4SXA1SDBFb3dYTGtGLVFYRDFFWFNTR3BULWI0YTRreE1EMU9QUVZSWk8tUXk1ZFdkWmhRNmxEcmEzeV80QmRVcTZPRENJQUp2allvUVdSXzhXZ2dNcXFfZllqTy00VmJlQVJlOU5KSUFmMGlIS3RXb29Dc0ZsUGdLTi1ZTGxVNWd5M0NvcnhiYjV0U3JZQ2w1cGUxMlo3aHlueko0UEFqX2I4d0JxYjN0c2NiTW9LTWZZc0UzeGxPeWRsQVZaUEtMc0ZLZUVRaUg1R1JHZw?oc=5)
 
 2026-11-05
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2dobzc5a2hGeDZINEhraVBhay1NVkRoQjRCYTNhcDhwc1R3Z0VtSUREblNhSjlmUHhTZVVEWFZqQmppQ1FvVkI5TzY2OHdMbWktQ2JMMGJpZVRqczZ0WEpUWEYwS3doY0c5Y01vX0Z0dmVNVy1FOTZQYjJJalR4UFhYU0hPMnNCaWFTYnBQenlRcjgtNWl2T2lveVp2dVRobHI0Z0JDNEp0QQ?oc=5)
+Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUxZSnA3dWJOMERoQWhCYmx4SXA1SDBFb3dYTGtGLVFYRDFFWFNTR3BULWI0YTRreE1EMU9QUVZSWk8tUXk1ZFdkWmhRNmxEcmEzeV80QmRVcTZPRENJQUp2allvUVdSXzhXZ2dNcXFfZllqTy00VmJlQVJlOU5KSUFmMGlIS3RXb29Dc0ZsUGdLTi1ZTGxVNWd5M0NvcnhiYjV0U3JZQ2w1cGUxMlo3aHlueko0UEFqX2I4d0JxYjN0c2NiTW9LTWZZc0UzeGxPeWRsQVZaUEtMc0ZLZUVRaUg1R1JHZw?oc=5)
+
+---
+
+### [NCCN expands agreement to improve cancer care in Vietnam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGs4VncyS1lUa3N3bUp1dXBEdC1VcWhxYmNvWk9KS0dUeFZuZVcxTGlDWkhoVld0N2dsLVdhdENmQXhFOG1ETW9DMzluaHJ2Tm9LT1RPc1ZRZE1ydVJaVmoyem5tZkF0clF1T0Z6aDN1VDBaQVNtXzhZaUdwbG9kczdsRzVCRnA5UTRsQy1iLXFPbU93aU04RmphWW0wZjRzQzdTRWFwUQ?oc=5)
+
+2026-11-05
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGs4VncyS1lUa3N3bUp1dXBEdC1VcWhxYmNvWk9KS0dUeFZuZVcxTGlDWkhoVld0N2dsLVdhdENmQXhFOG1ETW9DMzluaHJ2Tm9LT1RPc1ZRZE1ydVJaVmoyem5tZkF0clF1T0Z6aDN1VDBaQVNtXzhZaUdwbG9kczdsRzVCRnA5UTRsQy1iLXFPbU93aU04RmphWW0wZjRzQzdTRWFwUQ?oc=5)
+
+---
+
+### [ESMO 2026: ADCs Lead Key Breast Cancer Data - Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
+
+2026-11-05
+
+Source: [Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
+
+---
+
+### [CARE Hospitals Highlights Lung Cancer Awareness and Treatment - Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
+
+2026-11-05
+
+Source: [Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
 
 ---
 
@@ -283,14 +307,6 @@ Source: [Deccan Herald](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDZ
 2026-11-04
 
 Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFgyS0VwcXl3UWFsMkhlRWRoTlpRNnhfVVNRUW9BQU01QnVfMVZrWnk5R290V244MzduM0FaanR2QTBIeWNPODNxd2t4cXRlLUl3YmJaUGVKbzZZaWl0cHJaYzEyTTFDTkU1dDh2SzdTdm9ISFE4OEdHODZneEFzWFF2VTFXb1paQzk2Smw4TVJxX2NJWi02Y1BBcDdxdw?oc=5)
-
----
-
-### [Merthyr woman told she had anxiety but it was breast cancer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSHZoY1NnWC1PTkdIR041Y2NEWVZYc1F1V2VCNTBSWmxkNG9wSC1YNVplZ3NWbUlFTVkyYUZSd1JpblI2aHJ1TWxQX0tpeklzeENRNjRVMG1wN3c?oc=5)
-
-2026-11-03
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSHZoY1NnWC1PTkdIR041Y2NEWVZYc1F1V2VCNTBSWmxkNG9wSC1YNVplZ3NWbUlFTVkyYUZSd1JpblI2aHJ1TWxQX0tpeklzeENRNjRVMG1wN3c?oc=5)
 
 ---
 

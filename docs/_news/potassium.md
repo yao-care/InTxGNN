@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Potassium with the latest he
 
 ### [Experts share recommendations on use of potassium enriched low sodium salt substitutes - NuFFooDS Spectrum](https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVZvTzFzRlVYTEdtNVlpNDFpbVQ1YXAtMlpnM2JybUsxV2JDQTNEMVN5QlFBaFJBczR0RW9wc3FXM1pxVUw3SDc3OUE0RkRPbzVUZ0FtelNGVHpqT0JuVy1zSWlvTERwcTJwU3NKaWdaUGROSWhYYndJam4yTTBnemlieWVfdmRNSVB3ZEJRZ0pLYmZYUGY4S28wdmJxdjVtd0psZHJHRlkxZ1FEOF9LNzdLRGx6RFBwdGZwY1hHajFCME8xRkhhdkxyT3l5QQ?oc=5)
 
-2026-11-05 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-05 <span class="news-drug-tag">Potassium</span>
 
 Source: [NuFFooDS Spectrum](https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVZvTzFzRlVYTEdtNVlpNDFpbVQ1YXAtMlpnM2JybUsxV2JDQTNEMVN5QlFBaFJBczR0RW9wc3FXM1pxVUw3SDc3OUE0RkRPbzVUZ0FtelNGVHpqT0JuVy1zSWlvTERwcTJwU3NKaWdaUGROSWhYYndJam4yTTBnemlieWVfdmRNSVB3ZEJRZ0pLYmZYUGY4S28wdmJxdjVtd0psZHJHRlkxZ1FEOF9LNzdLRGx6RFBwdGZwY1hHajFCME8xRkhhdkxyT3l5QQ?oc=5)
 

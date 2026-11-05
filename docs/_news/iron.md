@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Back from the dead: ‘zombie’ bacteria produce DNA from beyond the grave](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd215TlNyQ3BQdkRXbXR2VlZRN3N5MlJzcTdRWEFKS290d2Q2OC14cFVwQUktVkFZZkJTSS1ibTFFWVdtbkdLclprbTI4ZHpRRVJPMjRENGpFNkxZRmdhclhXWkNYTDRQYlNhQV9FcnFXUWx1M1ByUVIwZ1I2c2U1a2hkOW5QOTkzVG52cjJZdElfaVNZYTVsdzJ3cEppQTgxNk11eXp4WnM5VWlCVkdtTDVn?oc=5)
+
+2026-11-05 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [BioTechniques](https://news.google.com/rss/articles/CBMisgFBVV95cUxNd215TlNyQ3BQdkRXbXR2VlZRN3N5MlJzcTdRWEFKS290d2Q2OC14cFVwQUktVkFZZkJTSS1ibTFFWVdtbkdLclprbTI4ZHpRRVJPMjRENGpFNkxZRmdhclhXWkNYTDRQYlNhQV9FcnFXUWx1M1ByUVIwZ1I2c2U1a2hkOW5QOTkzVG52cjJZdElfaVNZYTVsdzJ3cEppQTgxNk11eXp4WnM5VWlCVkdtTDVn?oc=5)
+
+---
 
 ### [Mars may not be dead? ‘Smoking gun’ suggests life on Red planet - TPI Media Group](https://news.google.com/rss/articles/CBMi6gFBVV95cUxON1R1VDRsVGpNNV9xaWNnZU1EQkNZSXV0el91T2x0ZnowQ3E0TjBFcEdYZFdVajlUVjE1Q19mRVVscXNrVUZVcVZLZUxuTGliWkQ3dWg2SVFTUEdSb0lmMkp2OFhndWw1MXctNmdCV0Jrb0Q0TXBpcF9CdTBWZUNxOFM5MWxjakc2UzkyZW95enJIeE1hYUFNMjBSVzhKNWxxNExWQy15MGJDWDNTbjhnZGcxX3NKS2cyZmJYX2R0VFRyclh6eVNRLXFEbDdtNDh5YWR6alM5QkRmRDk1R1dNU0Z1Y1N0dHk1VlE?oc=5)
 
