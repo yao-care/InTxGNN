@@ -69,8 +69,8 @@ jobs:
             t=$(readlink "$l")
             case "$t" in *TwTxGNN/*) ;; *) echo "非 TwTxGNN 的連結，停止：$l -> $t" >&2; exit 1 ;; esac
             src="TwTxGNN/${t##*TwTxGNN/}"
-            [ -f "$src" ] || { echo "TwTxGNN Release 裡找不到 $src（$l）" >&2; exit 1; }
-            rm "$l"; cp -p "$src" "$l"; n=$((n+1)); echo "✓ $l <- $src"
+            [ -e "$src" ] || { echo "TwTxGNN Release 裡找不到 $src（$l）" >&2; exit 1; }
+            rm "$l"; cp -RLp "$src" "$l"; n=$((n+1)); echo "✓ $l <- $src"   # 檔案或目錄（如 complex_disease_42）
           done < <(find "$SITE" -type l -print0)
           [ -z "$(find "$SITE" -type l)" ] || { echo "仍有符號連結" >&2; exit 1; }
           echo "已換掉 $n 個連結" | tee -a "$GITHUB_STEP_SUMMARY"
