@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-05T04:55:55.669225",
+  "last_check": "2026-11-05T19:31:47.227863",
   "seen_trials": {
     "Albendazole": [
       "NCT07873398"
@@ -191,7 +191,8 @@
     ],
     "Bendamustine": [
       "NCT02153580",
-      "NCT04663347"
+      "NCT04663347",
+      "NCT06084936"
     ],
     "Celecoxib": [
       "NCT07894497"
@@ -207,6 +208,9 @@
     ],
     "Ifosfamide": [
       "NCT00788125"
+    ],
+    "Clozapine": [
+      "NCT05603104"
     ]
   }
 }
