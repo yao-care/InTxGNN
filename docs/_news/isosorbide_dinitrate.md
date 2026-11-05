@@ -31,11 +31,11 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 
 ## Related News (1)
 
-### [Faulty cellular recycling may link pulmonary arterial hypertension to brain damage](https://news.google.com/rss/articles/CBMiygFBVV95cUxPa1gydjdnUk5mNHFWUGVEWUUxQWJrekZaVllpa1hTeWxVR3U1NkJwZjlpX3BnRjBZQXVYbU9PdzhRRk5xRjdoTHlRSjZKV2JKaTg4ZG1pejhuaTZma19ES2g3bEM3aW9FZWJFWExtMVZ1QllsTEJmRW5PUkVzSjFLSmR3NU5iQ2p6a2luMzh1ZlQ5YjhZM0RiSkxVUVBoLUI4RUR0UFMzdmdyNDFGTnA5SU96R01lbFJXSFkyM2gtOEUzcjBCSDlrTVZB?oc=5)
+### [Experts share recommendations on use of potassium enriched low sodium salt substitutes - NuFFooDS Spectrum](https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVZvTzFzRlVYTEdtNVlpNDFpbVQ1YXAtMlpnM2JybUsxV2JDQTNEMVN5QlFBaFJBczR0RW9wc3FXM1pxVUw3SDc3OUE0RkRPbzVUZ0FtelNGVHpqT0JuVy1zSWlvTERwcTJwU3NKaWdaUGROSWhYYndJam4yTTBnemlieWVfdmRNSVB3ZEJRZ0pLYmZYUGY4S28wdmJxdjVtd0psZHJHRlkxZ1FEOF9LNzdLRGx6RFBwdGZwY1hHajFCME8xRkhhdkxyT3l5QQ?oc=5)
 
-2026-11-04 <span class="news-indication-tag">pulmonary hypertension</span> <span class="news-indication-tag">pulmonary arterial hypertension</span>
+2026-11-05 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxPa1gydjdnUk5mNHFWUGVEWUUxQWJrekZaVllpa1hTeWxVR3U1NkJwZjlpX3BnRjBZQXVYbU9PdzhRRk5xRjdoTHlRSjZKV2JKaTg4ZG1pejhuaTZma19ES2g3bEM3aW9FZWJFWExtMVZ1QllsTEJmRW5PUkVzSjFLSmR3NU5iQ2p6a2luMzh1ZlQ5YjhZM0RiSkxVUVBoLUI4RUR0UFMzdmdyNDFGTnA5SU96R01lbFJXSFkyM2gtOEUzcjBCSDlrTVZB?oc=5)
+Source: [NuFFooDS Spectrum](https://news.google.com/rss/articles/CBMizgFBVV95cUxOQVZvTzFzRlVYTEdtNVlpNDFpbVQ1YXAtMlpnM2JybUsxV2JDQTNEMVN5QlFBaFJBczR0RW9wc3FXM1pxVUw3SDc3OUE0RkRPbzVUZ0FtelNGVHpqT0JuVy1zSWlvTERwcTJwU3NKaWdaUGROSWhYYndJam4yTTBnemlieWVfdmRNSVB3ZEJRZ0pLYmZYUGY4S28wdmJxdjVtd0psZHJHRlkxZ1FEOF9LNzdLRGx6RFBwdGZwY1hHajFCME8xRkhhdkxyT3l5QQ?oc=5)
 
 ---
 
