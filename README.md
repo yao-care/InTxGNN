@@ -20,30 +20,31 @@ Drug repurposing predictions for medicines in the Indian Medicine Dataset (publi
 | Item | Count |
 |------|------|
 | **Drug Reports** | 884 |
-| **Total Predictions** | 2,181,255 |
-| **Unique Drugs** | 1,178 |
+| **Total Predictions** | 2,223,745 |
+| **Unique Drugs** | 1,195 |
 | **Unique Indications** | 17,041 |
 | **DDI Data** | 160,235 |
 | **DFI Data** | 857 |
 | **DHI Data** | 35 |
 | **DDSI Data** | 8,359 |
-| **FHIR Resources** | 818 MK / 5,544 CUD |
+| **FHIR Resources** | 1,070 MK / 5,612 CUD |
 
 ### Evidence Level Distribution
 
 | Evidence Level | Report Count | Description |
 |---------|-------|------|
-| **L1** | 0 | Multiple Phase 3 RCTs |
-| **L2** | 0 | Single RCT or multiple Phase 2 |
-| **L3** | 0 | Observational studies |
-| **L4** | 0 | Preclinical / mechanistic studies |
-| **L5** | 818 | Computational prediction only |
+| **L1** | 12 | Multiple Phase 3 RCTs |
+| **L2** | 40 | Single RCT or multiple Phase 2 |
+| **L3** | 33 | Observational studies |
+| **L4** | 56 | Preclinical / mechanistic studies |
+| **L5** | 698 | Computational prediction only |
+| **N/A** | 45 | Known uses only (no new prediction) |
 
 ### By Source
 
 | Source | Predictions |
 |------|------|
-| DL | 2,175,711 |
+| DL | 2,218,201 |
 | KG + DL | 4,768 |
 | KG | 776 |
 
@@ -52,9 +53,9 @@ Drug repurposing predictions for medicines in the Indian Medicine Dataset (publi
 | Confidence | Predictions |
 |------|------|
 | very_high | 3,621 |
-| high | 102,478 |
-| medium | 217,823 |
-| low | 1,857,333 |
+| high | 104,200 |
+| medium | 223,817 |
+| low | 1,892,107 |
 
 ---
 
@@ -73,8 +74,8 @@ uv run python scripts/run_kg_prediction.py
 
 | Metric | Value |
 |------|------|
-| Indian Medicine Dataset Total Drugs | 246,068 |
-| Mapped to DrugBank | 221,028 (89.8%) |
+| Indian Medicine Dataset Total Drugs | 246,333 |
+| Mapped to DrugBank | 230,890 (93.7%) |
 | Repurposing Candidates | 5,544 |
 
 ### Deep Learning Method
@@ -86,8 +87,8 @@ PYTHONPATH=src python -m intxgnn.predict.txgnn_model
 
 | Metric | Value |
 |------|------|
-| Total DL Predictions | 2,180,479 |
-| Unique Drugs | 1,178 |
+| Total DL Predictions | 2,222,969 |
+| Unique Drugs | 1,195 |
 | Unique Indications | 17,041 |
 
 ### Score Interpretation
