@@ -229,7 +229,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Pulmonary hypertension with unclear multifactorial mechanism",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/aliskiren/"
     },
@@ -2829,7 +2829,7 @@
       "evidence_level": "L5",
       "indication_count": 2,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/eflornithine/"
     },
@@ -2959,7 +2959,7 @@
       "evidence_level": "L4",
       "indication_count": 2,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ephedrine/"
     },
@@ -2979,7 +2979,7 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/epinephrine/"
     },
@@ -3149,7 +3149,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Well-differentiated fetal adenocarcinoma of the lung",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/etoposide/"
     },
@@ -3869,7 +3869,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/guaifenesin/"
     },
@@ -3989,7 +3989,7 @@
       "evidence_level": "L5",
       "indication_count": 1,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/hydroxyzine/"
     },
@@ -4089,7 +4089,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/imidapril/"
     },
@@ -4349,7 +4349,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/isosorbide-dinitrate/"
     },
@@ -5079,7 +5079,7 @@
       "evidence_level": "L5",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/mepolizumab/"
     },
@@ -5209,7 +5209,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Hypertrichosis",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/methylergometrine/"
     },
@@ -5259,7 +5259,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Predicted indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/metoprolol/"
     },
@@ -5289,7 +5289,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Benign paroxysmal torticollis of infancy",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/mianserin/"
     },
@@ -5359,7 +5359,7 @@
       "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/milrinone/"
     },
@@ -5389,7 +5389,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "Pseudo-von Willebrand disease",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/minodronic-acid/"
     },
@@ -5619,7 +5619,7 @@
       "evidence_level": "L5",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/natalizumab/"
     },
@@ -5739,7 +5739,7 @@
       "evidence_level": "L4",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nicorandil/"
     },
@@ -6619,7 +6619,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/polyvinyl-alcohol/"
     },
@@ -7029,7 +7029,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/rasagiline/"
     },
@@ -7209,7 +7209,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/rivaroxaban/"
     },
@@ -7269,7 +7269,7 @@
       "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ropinirole/"
     },
@@ -7299,7 +7299,7 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/roxatidine-acetate/"
     },
@@ -7999,7 +7999,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/theophylline/"
     },
@@ -8299,7 +8299,7 @@
       "evidence_level": "L2",
       "indication_count": 9,
       "original_indication": "",
-      "predicted_indication": "Predicted Indication",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/trazodone/"
     },
@@ -8499,7 +8499,7 @@
       "evidence_level": "L5",
       "indication_count": 2,
       "original_indication": "",
-      "predicted_indication": "Trigeminal nerve neoplasm",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/valproic-acid/"
     },
