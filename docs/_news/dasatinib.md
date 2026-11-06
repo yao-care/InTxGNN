@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dasatinib. 9 predicted indications."
 permalink: /news/dasatinib/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Dasatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>11 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>9 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
+
+### [Top US Expert On Why Menopause May Trigger Brain Changes Linked To Alzheimer's Disease - Times Now](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVN1Y0Y1dlo0Vng5aVZnRHhOSUE1aDRPZngzSDRLSnpxc1BROUc5X0c0UURqM2FVaU9kcFNkOEp3dzM3V2NlWFFiOTN6SWZBakN6bHVHZVdVRnNfNUxiV0E4dmhZZFRPUi03aTNTSXVlNWIycGxBN0tsWUlRd1Jib0dYa3RzMlRDSUxxc2ZxRUU3WTB3Q0F1aUZUVWZ2bC1yaUw5cDJYbVJYZmtBdDFHcDNIUWFRZ1piQUtvcmlyRnlJcXN4ODF1Q2E3blRROG05OG1UVF9B0gHbAUFVX3lxTFBPbElVS051aUtVV291di0yVFh2cW9FSzgzeTRDR0RCVllCNEk1VTN0WkEtdVVFT1VDOVdFS1hZTWJBQ0EtQzJpSk1UNUwtQnJjOWszbTNHSkRTSEdneVZLNzQ4d3dINFFZdFJBYmNqSUYtZ0htZS1BclhyTGhMZDl1V3BJTEFpdEM2SVIwZ21fQk5TRWMzWDBSMHByMXMzM0NmZGZXdmsxQ0hrRlJYMzh1LTQ4UFFVV0o4WGNqclpWY3Z4ZTlqZnlYM19sZk1hWTZlLUdzbm5rcnY3dw?oc=5)
+
+2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [Times Now](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVN1Y0Y1dlo0Vng5aVZnRHhOSUE1aDRPZngzSDRLSnpxc1BROUc5X0c0UURqM2FVaU9kcFNkOEp3dzM3V2NlWFFiOTN6SWZBakN6bHVHZVdVRnNfNUxiV0E4dmhZZFRPUi03aTNTSXVlNWIycGxBN0tsWUlRd1Jib0dYa3RzMlRDSUxxc2ZxRUU3WTB3Q0F1aUZUVWZ2bC1yaUw5cDJYbVJYZmtBdDFHcDNIUWFRZ1piQUtvcmlyRnlJcXN4ODF1Q2E3blRROG05OG1UVF9B0gHbAUFVX3lxTFBPbElVS051aUtVV291di0yVFh2cW9FSzgzeTRDR0RCVllCNEk1VTN0WkEtdVVFT1VDOVdFS1hZTWJBQ0EtQzJpSk1UNUwtQnJjOWszbTNHSkRTSEdneVZLNzQ4d3dINFFZdFJBYmNqSUYtZ0htZS1BclhyTGhMZDl1V3BJTEFpdEM2SVIwZ21fQk5TRWMzWDBSMHByMXMzM0NmZGZXdmsxQ0hrRlJYMzh1LTQ4UFFVV0o4WGNqclpWY3Z4ZTlqZnlYM19sZk1hWTZlLUdzbm5rcnY3dw?oc=5)
+
+---
 
 ### [Global Colon Cancer Association Announces Winners of the 2026 Global Colorectal Cancer Leadership Awards - EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUxZSnA3dWJOMERoQWhCYmx4SXA1SDBFb3dYTGtGLVFYRDFFWFNTR3BULWI0YTRreE1EMU9QUVZSWk8tUXk1ZFdkWmhRNmxEcmEzeV80QmRVcTZPRENJQUp2allvUVdSXzhXZ2dNcXFfZllqTy00VmJlQVJlOU5KSUFmMGlIS3RXb29Dc0ZsUGdLTi1ZTGxVNWd5M0NvcnhiYjV0U3JZQ2w1cGUxMlo3aHlueko0UEFqX2I4d0JxYjN0c2NiTW9LTWZZc0UzeGxPeWRsQVZaUEtMc0ZLZUVRaUg1R1JHZw?oc=5)
 
@@ -56,30 +64,6 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUx
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGs4VncyS1lUa3N3bUp1dXBEdC1VcWhxYmNvWk9KS0dUeFZuZVcxTGlDWkhoVld0N2dsLVdhdENmQXhFOG1ETW9DMzluaHJ2Tm9LT1RPc1ZRZE1ydVJaVmoyem5tZkF0clF1T0Z6aDN1VDBaQVNtXzhZaUdwbG9kczdsRzVCRnA5UTRsQy1iLXFPbU93aU04RmphWW0wZjRzQzdTRWFwUQ?oc=5)
-
----
-
-### [Menopause leaves clues in the blood about women’s future brain health](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVPWGpfNjdDd2d2QVdqRlJZUEpzdmx3dDhjTDJxVTBuVkxqcnBqMlpxZGNJdU1nc2xxYU9oUFY4WW1oZFhDczJDbXZlSzI3YmRZOE5Gb1BHcnpvQVlra2RYLVJ2dE1Gd28tM282UXU5dm5yZzdXV0JsVzZZQzdDbGxtdnk3LWNrckYzUGVQQlptbjJBMWJYSmxEVElHYXRvWndR?oc=5)
-
-2026-11-05 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [Earth.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVPWGpfNjdDd2d2QVdqRlJZUEpzdmx3dDhjTDJxVTBuVkxqcnBqMlpxZGNJdU1nc2xxYU9oUFY4WW1oZFhDczJDbXZlSzI3YmRZOE5Gb1BHcnpvQVlra2RYLVJ2dE1Gd28tM282UXU5dm5yZzdXV0JsVzZZQzdDbGxtdnk3LWNrckYzUGVQQlptbjJBMWJYSmxEVElHYXRvWndR?oc=5)
-
----
-
-### [ESMO 2026: ADCs Lead Key Breast Cancer Data - Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
-
----
-
-### [CARE Hospitals Highlights Lung Cancer Awareness and Treatment - Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
 
 ---
 
@@ -107,19 +91,19 @@ Source: [RegMedNet](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09
 
 ---
 
+### [Bispecific ADC May Offer New Treatment Option for HR-Positive, HER2-Negative Breast Cancer - The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
+
+---
+
 ### [Who cares for the caregiver? NCCN issues first-ever guidelines for cancer carers - Deccan Herald](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDZQUnVwN09BQ1I5NWFmOUdPVEplOHBmY3haNGtVN09jWWFNYm1fTXY0aG1BVzdNOURQYWFqVGF6bkl3QXhldFFiV0VwRG8tblJmazBKSm9jMFBkQ2cwaHJwY1RzM21WcTI4MHhqR0dFdFJCcUZwc2p3bXUtaUUxTHhvMmh0Ty1BLWlDZFY5ZTdaejFxVkF5c0JjRU9lMEJyZ19NZUlnWldUQTRseHA5TFlYbkVIWXNRbWk1MVVhLXdoR1YtMEtHTDkxQXVtNjA?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span>
 
 Source: [Deccan Herald](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDZQUnVwN09BQ1I5NWFmOUdPVEplOHBmY3haNGtVN09jWWFNYm1fTXY0aG1BVzdNOURQYWFqVGF6bkl3QXhldFFiV0VwRG8tblJmazBKSm9jMFBkQ2cwaHJwY1RzM21WcTI4MHhqR0dFdFJCcUZwc2p3bXUtaUUxTHhvMmh0Ty1BLWlDZFY5ZTdaejFxVkF5c0JjRU9lMEJyZ19NZUlnWldUQTRseHA5TFlYbkVIWXNRbWk1MVVhLXdoR1YtMEtHTDkxQXVtNjA?oc=5)
-
----
-
-### [Eating peanuts every day may change your brains insulin response](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm1Relc1eHpRR3h4NXRFa1B1WktIR29MS3hNb0FxSW12WmJJQ2E0dTd3NUxqU2l3S1ZWUDllbjdjR0xzUnFCcUZQbl95MVQ2Y0I5cWw5cTM0WHhLS1FXa2tJZ0F0ODRDY2hmc2FDNzV2UjI3bzJHN25TZ3dJMTI4cnA2LV9Ua21uS2x3M19QU3M2MjkxeFdRWmxzQXNnS2o5VUxob1k1RmVQRjBFYW53UEtn?oc=5)
-
-2026-11-04 <span class="news-indication-tag">alzheimer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYm1Relc1eHpRR3h4NXRFa1B1WktIR29MS3hNb0FxSW12WmJJQ2E0dTd3NUxqU2l3S1ZWUDllbjdjR0xzUnFCcUZQbl95MVQ2Y0I5cWw5cTM0WHhLS1FXa2tJZ0F0ODRDY2hmc2FDNzV2UjI3bzJHN25TZ3dJMTI4cnA2LV9Ua21uS2x3M19QU3M2MjkxeFdRWmxzQXNnS2o5VUxob1k1RmVQRjBFYW53UEtn?oc=5)
 
 ---
 
