@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Metformin. 5 predicted indications."
 permalink: /news/metformin/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Metformin News
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Metformin with the latest he
 
 ## Related News (1)
 
-### [GLP-1 drugs help control prediabetes better than current standard medicine](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcWRMTThwWjNnS2lRQ0d1czdub21INjBjdFg0U1BCMlIxV3ZLYUdqUkxHRWl2Nk9hSDJ3ZzE3ckRRdUhVd3hPcDQzeFU4V25BYjlERXUwVFpKMUd1SFZYVlg0cW9KNlNaeU9rbHNxcktrVFYxZ3VmelhDQWNxZmpiT1ZGYnd3M0NXOTAtYU1uZ0QzV09sc2VGNGNvQ2RxVXBmTU0zU3J6dDBzeXc5clhLNFpzWUVINVFYSTNzZkZ1TGFpNUtDa29IX1l1NEw4b0t3Nm9OZnp2SDRzOGQtYmRYQ0VQS0tibk1FTXpJMXRpVdIB9AFBVV95cUxOVWEzMW9mY3Y2RVZGWGtIYlRVUURXbUFvZHdZQ3pRTEZGMFFIek0xRC1ZRVVrVkYyNU93RVd6SWczWmZZQ3BXV25YMmhGV3RmLWMyVzc4QjQ2cnIydW4yb2J5aHNIa0o3cTh6YmFVcHFySVdnOTZwVDYwSkl3Q3g0cWw4Q2YyX2lQQzVOTzlad1h0ZHRjODFoMnVhV2ltNEpRNWdXZG9YVlVXUzhRYWFMc21jdzhqYXZUbXJDYU9EOUVVMTBuaVlQQzQ4UzJCRUxRYkwxb2pmVVNqMHBkWEFWMTFmZUg4Ykowc3Q4Z0pqcUtCa3dB?oc=5)
+### [GLP-1 Drugs Can Help Reverse Prediabetes, Researchers Report - U.S. News & World Report](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1dzSnBBYXFNYmNvNnNzZXZXaXBzU29Ib2dHbjZyT0ZIZ2NzbTFSS1RoTmpYMUx0UGdVaGNZcTNZTlhTVnJqVnRXNExkdUxEeVpiU2s2bXRTSDA1Znd2UjIwUW1DY2ZTaVhkNlBNajY0TU40YVg2SlctaU1IcnFyM1dCT1NRVFF2ZEswbGNwYUZXTUdoR2hJX2FKMWstUVh1NTA3M0szVzlwOGFsdy1pMTNJUWFzS0l3VlAw?oc=5)
 
-2026-11-05 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-04 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [pharma.economictimes.indiatimes.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcWRMTThwWjNnS2lRQ0d1czdub21INjBjdFg0U1BCMlIxV3ZLYUdqUkxHRWl2Nk9hSDJ3ZzE3ckRRdUhVd3hPcDQzeFU4V25BYjlERXUwVFpKMUd1SFZYVlg0cW9KNlNaeU9rbHNxcktrVFYxZ3VmelhDQWNxZmpiT1ZGYnd3M0NXOTAtYU1uZ0QzV09sc2VGNGNvQ2RxVXBmTU0zU3J6dDBzeXc5clhLNFpzWUVINVFYSTNzZkZ1TGFpNUtDa29IX1l1NEw4b0t3Nm9OZnp2SDRzOGQtYmRYQ0VQS0tibk1FTXpJMXRpVdIB9AFBVV95cUxOVWEzMW9mY3Y2RVZGWGtIYlRVUURXbUFvZHdZQ3pRTEZGMFFIek0xRC1ZRVVrVkYyNU93RVd6SWczWmZZQ3BXV25YMmhGV3RmLWMyVzc4QjQ2cnIydW4yb2J5aHNIa0o3cTh6YmFVcHFySVdnOTZwVDYwSkl3Q3g0cWw4Q2YyX2lQQzVOTzlad1h0ZHRjODFoMnVhV2ltNEpRNWdXZG9YVlVXUzhRYWFMc21jdzhqYXZUbXJDYU9EOUVVMTBuaVlQQzQ4UzJCRUxRYkwxb2pmVVNqMHBkWEFWMTFmZUg4Ykowc3Q4Z0pqcUtCa3dB?oc=5)
+Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1dzSnBBYXFNYmNvNnNzZXZXaXBzU29Ib2dHbjZyT0ZIZ2NzbTFSS1RoTmpYMUx0UGdVaGNZcTNZTlhTVnJqVnRXNExkdUxEeVpiU2s2bXRTSDA1Znd2UjIwUW1DY2ZTaVhkNlBNajY0TU40YVg2SlctaU1IcnFyM1dCT1NRVFF2ZEswbGNwYUZXTUdoR2hJX2FKMWstUVh1NTA3M0szVzlwOGFsdy1pMTNJUWFzS0l3VlAw?oc=5)
 
 ---
 

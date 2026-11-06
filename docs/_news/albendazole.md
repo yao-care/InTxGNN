@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Evidence level</strong>: L2</li>
+<li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
 <li>coenurosis</li>
 </ul></li>
@@ -33,13 +33,37 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
-### [Top US Expert On Why Menopause May Trigger Brain Changes Linked To Alzheimer's Disease - Times Now](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVN1Y0Y1dlo0Vng5aVZnRHhOSUE1aDRPZngzSDRLSnpxc1BROUc5X0c0UURqM2FVaU9kcFNkOEp3dzM3V2NlWFFiOTN6SWZBakN6bHVHZVdVRnNfNUxiV0E4dmhZZFRPUi03aTNTSXVlNWIycGxBN0tsWUlRd1Jib0dYa3RzMlRDSUxxc2ZxRUU3WTB3Q0F1aUZUVWZ2bC1yaUw5cDJYbVJYZmtBdDFHcDNIUWFRZ1piQUtvcmlyRnlJcXN4ODF1Q2E3blRROG05OG1UVF9B0gHbAUFVX3lxTFBPbElVS051aUtVV291di0yVFh2cW9FSzgzeTRDR0RCVllCNEk1VTN0WkEtdVVFT1VDOVdFS1hZTWJBQ0EtQzJpSk1UNUwtQnJjOWszbTNHSkRTSEdneVZLNzQ4d3dINFFZdFJBYmNqSUYtZ0htZS1BclhyTGhMZDl1V3BJTEFpdEM2SVIwZ21fQk5TRWMzWDBSMHByMXMzM0NmZGZXdmsxQ0hrRlJYMzh1LTQ4UFFVV0o4WGNqclpWY3Z4ZTlqZnlYM19sZk1hWTZlLUdzbm5rcnY3dw?oc=5)
+### [Blood Biomarker Panel Shows Liver Cancer Potential](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0anVYM2RMMVFrbFF5VHpOWmxOaHA3anJmbjdodUJ2X2RfZkg1UExtcWdlMWJHb0ZsNXUxdFFHU0xjOGg1eG5mQ1lsZmlpRUoxMTFPaXJQMF9WdlZ0OFZ5UzAyNG1GNXpqS09fTmFCT19lYkRYc0E3ZDFQNThiVTRlblpXZ2ZFTXdBZ2h6ZHR3LWRR?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">liver cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0anVYM2RMMVFrbFF5VHpOWmxOaHA3anJmbjdodUJ2X2RfZkg1UExtcWdlMWJHb0ZsNXUxdFFHU0xjOGg1eG5mQ1lsZmlpRUoxMTFPaXJQMF9WdlZ0OFZ5UzAyNG1GNXpqS09fTmFCT19lYkRYc0E3ZDFQNThiVTRlblpXZ2ZFTXdBZ2h6ZHR3LWRR?oc=5)
+
+---
+
+### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
 
 2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Times Now](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVVN1Y0Y1dlo0Vng5aVZnRHhOSUE1aDRPZngzSDRLSnpxc1BROUc5X0c0UURqM2FVaU9kcFNkOEp3dzM3V2NlWFFiOTN6SWZBakN6bHVHZVdVRnNfNUxiV0E4dmhZZFRPUi03aTNTSXVlNWIycGxBN0tsWUlRd1Jib0dYa3RzMlRDSUxxc2ZxRUU3WTB3Q0F1aUZUVWZ2bC1yaUw5cDJYbVJYZmtBdDFHcDNIUWFRZ1piQUtvcmlyRnlJcXN4ODF1Q2E3blRROG05OG1UVF9B0gHbAUFVX3lxTFBPbElVS051aUtVV291di0yVFh2cW9FSzgzeTRDR0RCVllCNEk1VTN0WkEtdVVFT1VDOVdFS1hZTWJBQ0EtQzJpSk1UNUwtQnJjOWszbTNHSkRTSEdneVZLNzQ4d3dINFFZdFJBYmNqSUYtZ0htZS1BclhyTGhMZDl1V3BJTEFpdEM2SVIwZ21fQk5TRWMzWDBSMHByMXMzM0NmZGZXdmsxQ0hrRlJYMzh1LTQ4UFFVV0o4WGNqclpWY3Z4ZTlqZnlYM19sZk1hWTZlLUdzbm5rcnY3dw?oc=5)
+Source: [India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
+
+---
+
+### [Decoding the rules of brain cancer progression](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVV3OHRZWTZQRG9rVGVNb1dCNE9JZ0JhREF5Zjd2SE52QTk0WHk4eWZGalFSbWlzME55T1VLa1l1ZmhZajluQnFSMF85aEcydmpUemdaM0s0enoybVZrcV84dVZ0MDllZXNVdG9fWUZxOTVTSHB2cEt6NzBpWWM5R1doZFVKangwUl9qTVdfWTQ2eUk?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span>
+
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVV3OHRZWTZQRG9rVGVNb1dCNE9JZ0JhREF5Zjd2SE52QTk0WHk4eWZGalFSbWlzME55T1VLa1l1ZmhZajluQnFSMF85aEcydmpUemdaM0s0enoybVZrcV84dVZ0MDllZXNVdG9fWUZxOTVTSHB2cEt6NzBpWWM5R1doZFVKangwUl9qTVdfWTQ2eUk?oc=5)
+
+---
+
+### [Can your love for sweets affect your long-term health? Understanding the sugar–obesity–cancer connection - The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTUluakhEejhGd2gxNVB3V0pWel9iY3hGSlBlY2xwaXFRNWhvNUd2RzBheGNTcnpjaW1oazFKa2MxZXFnSjNkM0lDLXFUVThFUEY2cXI2VUV5MnBTZ1EtZU1mb1FueG1BU282NHQxT2I2eTlBNmNWVlJ0QU41YUVRemphMml1MDNmYTJObWxjbWZld09nOXhyRWp3S0gtRGJ2Wm51MzVyUi1UczU2N0x2MWNRa3pYSnBZSjRLNjZmODRuWEpMMUxDQTRBUGh0SjRKY3NKWDNPY2lFOExyYXBaOGJTQUZUNFBxZS1CVnpRSnktVl9nMEFvUGh5N0FXZ9IBhgJBVV95cUxQa1hkT1hHVGtodmQ0STBPRnlGalNoNkdwTEdZVjl5WmpSMmJ4ZVhpT3Rxa1E3RktkYzdpZGRTaE5SVkNvZ0Z0b2tndE1CQ3dkSG05M01YV0QxM1FzZ2dSaGZkc3E4NWtoYXlJaGFpZjBpcXhlejZRMnVxX2prSm40MHI4REpZMTdsZTRIZHk5ajJ6TU9zbWdkRG9xZ2VBZVc2N3VncXhtNWNwV3ZDTnRNMHdTV2VnZ0pnOVFKSGxma21NSGFVMXJ4S3hkYmpCYkVCYUhVNThUV2xRelJhSmJRNlV1SUVfejN3TDRJb082bUR0OFVrWGNwbVJTV0VsRUx5M3FFbnJB?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTUluakhEejhGd2gxNVB3V0pWel9iY3hGSlBlY2xwaXFRNWhvNUd2RzBheGNTcnpjaW1oazFKa2MxZXFnSjNkM0lDLXFUVThFUEY2cXI2VUV5MnBTZ1EtZU1mb1FueG1BU282NHQxT2I2eTlBNmNWVlJ0QU41YUVRemphMml1MDNmYTJObWxjbWZld09nOXhyRWp3S0gtRGJ2Wm51MzVyUi1UczU2N0x2MWNRa3pYSnBZSjRLNjZmODRuWEpMMUxDQTRBUGh0SjRKY3NKWDNPY2lFOExyYXBaOGJTQUZUNFBxZS1CVnpRSnktVl9nMEFvUGh5N0FXZ9IBhgJBVV95cUxQa1hkT1hHVGtodmQ0STBPRnlGalNoNkdwTEdZVjl5WmpSMmJ4ZVhpT3Rxa1E3RktkYzdpZGRTaE5SVkNvZ0Z0b2tndE1CQ3dkSG05M01YV0QxM1FzZ2dSaGZkc3E4NWtoYXlJaGFpZjBpcXhlejZRMnVxX2prSm40MHI4REpZMTdsZTRIZHk5ajJ6TU9zbWdkRG9xZ2VBZVc2N3VncXhtNWNwV3ZDTnRNMHdTV2VnZ0pnOVFKSGxma21NSGFVMXJ4S3hkYmpCYkVCYUhVNThUV2xRelJhSmJRNlV1SUVfejN3TDRJb082bUR0OFVrWGNwbVJTV0VsRUx5M3FFbnJB?oc=5)
 
 ---
 
@@ -51,11 +75,11 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUx
 
 ---
 
-### [NCCN expands agreement to improve cancer care in Vietnam](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGs4VncyS1lUa3N3bUp1dXBEdC1VcWhxYmNvWk9KS0dUeFZuZVcxTGlDWkhoVld0N2dsLVdhdENmQXhFOG1ETW9DMzluaHJ2Tm9LT1RPc1ZRZE1ydVJaVmoyem5tZkF0clF1T0Z6aDN1VDBaQVNtXzhZaUdwbG9kczdsRzVCRnA5UTRsQy1iLXFPbU93aU04RmphWW0wZjRzQzdTRWFwUQ?oc=5)
+### [CARE Hospitals Highlights Lung Cancer Awareness and Treatment - Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
 
-2026-11-05 <span class="news-indication-tag">cancer</span>
+2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMipwFBVV95cUxQWGs4VncyS1lUa3N3bUp1dXBEdC1VcWhxYmNvWk9KS0dUeFZuZVcxTGlDWkhoVld0N2dsLVdhdENmQXhFOG1ETW9DMzluaHJ2Tm9LT1RPc1ZRZE1ydVJaVmoyem5tZkF0clF1T0Z6aDN1VDBaQVNtXzhZaUdwbG9kczdsRzVCRnA5UTRsQy1iLXFPbU93aU04RmphWW0wZjRzQzdTRWFwUQ?oc=5)
+Source: [Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
 
 ---
 
@@ -75,14 +99,6 @@ Source: [Innovation News Network](https://news.google.com/rss/articles/CBMijAFBV
 
 ---
 
-### [DUSP4: A Potential Boost for CAR-T Cells Against Solid Tumors](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09wRUx6VkJJS2M0ZWxTRGpIbkJxLVdiVXZUcmNSWXJrYkxFaVA3NTBwVlJzZHlFVWpQeUtiOTFKV3lQTUk5Q0N6dXdwdkNrcnVUZXJjcGJyZEFHaEQxR2JUbGV4ekg1LTY0UV9hOXpqdncxWl9LVDhkaE9ZTnlOd2J4LUdvX2FPQ01yWHQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
-
-Source: [RegMedNet](https://news.google.com/rss/articles/CBMikAFBVV95cUxONm0yV09wRUx6VkJJS2M0ZWxTRGpIbkJxLVdiVXZUcmNSWXJrYkxFaVA3NTBwVlJzZHlFVWpQeUtiOTFKV3lQTUk5Q0N6dXdwdkNrcnVUZXJjcGJyZEFHaEQxR2JUbGV4ekg1LTY0UV9hOXpqdncxWl9LVDhkaE9ZTnlOd2J4LUdvX2FPQ01yWHQ?oc=5)
-
----
-
 ### [Bispecific ADC May Offer New Treatment Option for HR-Positive, HER2-Negative Breast Cancer - The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
 
 2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -91,17 +107,9 @@ Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDl
 
 ---
 
-### [Who cares for the caregiver? NCCN issues first-ever guidelines for cancer carers - Deccan Herald](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDZQUnVwN09BQ1I5NWFmOUdPVEplOHBmY3haNGtVN09jWWFNYm1fTXY0aG1BVzdNOURQYWFqVGF6bkl3QXhldFFiV0VwRG8tblJmazBKSm9jMFBkQ2cwaHJwY1RzM21WcTI4MHhqR0dFdFJCcUZwc2p3bXUtaUUxTHhvMmh0Ty1BLWlDZFY5ZTdaejFxVkF5c0JjRU9lMEJyZ19NZUlnWldUQTRseHA5TFlYbkVIWXNRbWk1MVVhLXdoR1YtMEtHTDkxQXVtNjA?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span>
-
-Source: [Deccan Herald](https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDZQUnVwN09BQ1I5NWFmOUdPVEplOHBmY3haNGtVN09jWWFNYm1fTXY0aG1BVzdNOURQYWFqVGF6bkl3QXhldFFiV0VwRG8tblJmazBKSm9jMFBkQ2cwaHJwY1RzM21WcTI4MHhqR0dFdFJCcUZwc2p3bXUtaUUxTHhvMmh0Ty1BLWlDZFY5ZTdaejFxVkF5c0JjRU9lMEJyZ19NZUlnWldUQTRseHA5TFlYbkVIWXNRbWk1MVVhLXdoR1YtMEtHTDkxQXVtNjA?oc=5)
-
----
-
 ### [Clinician Forum: Addressing Sexuality, Femininity, and “Going Flat” After Mastectomy - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFgyS0VwcXl3UWFsMkhlRWRoTlpRNnhfVVNRUW9BQU01QnVfMVZrWnk5R290V244MzduM0FaanR2QTBIeWNPODNxd2t4cXRlLUl3YmJaUGVKbzZZaWl0cHJaYzEyTTFDTkU1dDh2SzdTdm9ISFE4OEdHODZneEFzWFF2VTFXb1paQzk2Smw4TVJxX2NJWi02Y1BBcDdxdw?oc=5)
 
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-11-04 <span class="news-indication-tag">cancer</span>
 
 Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFgyS0VwcXl3UWFsMkhlRWRoTlpRNnhfVVNRUW9BQU01QnVfMVZrWnk5R290V244MzduM0FaanR2QTBIeWNPODNxd2t4cXRlLUl3YmJaUGVKbzZZaWl0cHJaYzEyTTFDTkU1dDh2SzdTdm9ISFE4OEdHODZneEFzWFF2VTFXb1paQzk2Smw4TVJxX2NJWi02Y1BBcDdxdw?oc=5)
 
