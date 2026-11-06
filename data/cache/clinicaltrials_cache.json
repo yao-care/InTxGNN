@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-06T04:54:14.649890",
+  "last_check": "2026-11-06T18:54:46.199183",
   "seen_trials": {
     "Albendazole": [
       "NCT07873398"
@@ -8,7 +8,8 @@
       "NCT04704999"
     ],
     "Ascorbic Acid": [
-      "NCT07873372"
+      "NCT07873372",
+      "NCT07184866"
     ],
     "Busulfan": [
       "NCT05617625",
@@ -47,7 +48,8 @@
     "Daunorubicin": [
       "NCT06172296",
       "NCT07097363",
-      "NCT03712202"
+      "NCT03712202",
+      "NCT03113500"
     ],
     "Docetaxel": [
       "NCT04256707",
@@ -167,7 +169,8 @@
     ],
     "Clofarabine": [
       "NCT00641030",
-      "NCT02727803"
+      "NCT02727803",
+      "NCT01885689"
     ],
     "D-Glucose": [
       "NCT07118176"
@@ -211,6 +214,9 @@
     ],
     "Clozapine": [
       "NCT05603104"
+    ],
+    "Methotrexate": [
+      "NCT05998642"
     ]
   }
 }
