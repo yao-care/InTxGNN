@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Stavudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Stavudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -92,7 +92,7 @@ One further retrieved paper (PMID 9021177) concerns a different compound (SRR-SB
 | Registration No. 240904 | Virostav 40mg Tablet | Strip of 10 tablets | Not specified |
 | Registration No. 209713 | Stag 30mg Capsule | Strip of 10 capsules | Not specified |
 
-All 13 registrations are currently valid single-ingredient licences.
+All 13 registrations are currently valid licences.
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Tazarotene"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
 description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -91,7 +91,7 @@ For reference, the literature found for the second-ranked prediction (seborrheic
 | 217368 | Texara Gel | Tube of 15 gm gel | Not stated |
 | 220266 | Tazotop Forte Cream | Tube of 15 gm cream | Not stated |
 
-There are 12 valid single-ingredient registrations in total, all topical creams or gels.
+There are 12 valid registrations in total, all topical creams or gels.
 
 ## Safety Considerations
 

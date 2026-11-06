@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 686
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Polyvinyl alcohol"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
@@ -75,7 +75,7 @@ For self-healing collodion baby, the condition resolves on its own, and the safe
 
 ## India Market Information
 
-All 16 licences are for single-ingredient, valid products, with none cancelled. The five main ones are listed below. Approved indication text is not recorded in the data compiled for this report.
+All 16 licences are for valid products, with none cancelled. The five main ones are listed below. Approved indication text is not recorded in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

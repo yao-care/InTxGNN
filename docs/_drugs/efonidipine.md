@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Efonidipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
 description: "Efonidipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
@@ -87,7 +87,7 @@ No publications directly support efonidipine in pulmonary hypertension. Two indi
 | 72455 | Efnocar 40 Tablet | Strip of 10 tablets | Not stated |
 | 72983 | Efonta 40mg Tablet | Strip of 15 tablets | Not stated |
 
-Seven valid single-ingredient registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).
+Seven valid registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).
 
 ## Safety Considerations
 

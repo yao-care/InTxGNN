@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 871
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Cycloplegia"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Tropicamide has 14 valid single-ingredient registrations, all ophthalmic eye drops. The approved indication text is not available in the data compiled for this report. The five main authorizations are listed below.
+Tropicamide has 14 valid registrations, all ophthalmic eye drops. The approved indication text is not available in the data compiled for this report. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

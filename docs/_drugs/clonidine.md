@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Clonidine: predicted new indication faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Clonidine is marketed in India. All 20 records are valid, and all are single-ingredient products. The data compiled for this report carry no approved-indication text for these records. The main ones are listed below.
+Clonidine is marketed in India. All 20 records are valid. The data compiled for this report carry no approved-indication text for these records. The main ones are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

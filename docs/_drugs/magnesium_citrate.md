@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Magnesium citrate"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
 description: "Magnesium Citrate: predicted new indication Calcium-alkali syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -71,7 +71,7 @@ A second prediction, **primary bone dysplasia with defective bone mineralization
 | 200118 | Ston 1 Oral Solution Mixed Fruit | 200 ml bottle, oral solution | Not stated |
 | 200326 | Ston 1 Oral Solution Delicious Pineapple | 200 ml bottle, oral solution | Not stated |
 
-Twelve valid single-ingredient licences are registered in total; the five above are shown. There are no combination or cancelled licences.
+Twelve valid licences are registered in total; the five above are shown. There are no cancelled licences.
 
 ## Safety Considerations
 

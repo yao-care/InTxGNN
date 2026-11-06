@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
@@ -114,7 +114,7 @@ The 10 most relevant of the 22 registered trials are listed below, prioritised b
 | 164416 | Onbrez 300mcg Breezhaler | Packet of 1 kit | Not stated |
 | 163214 | Onbrez 150mcg Breezhaler | Packet of 1 kit | Not stated |
 
-All 9 registrations are valid single-ingredient licences. The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.
+All 9 registrations are valid licences. The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.
 
 ---
 

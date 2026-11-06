@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 688
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
@@ -110,7 +110,7 @@ Further registered trials (for example NCT00949884, NCT01216878, NCT05947448 and
 | 94750 | Gushout Tablet | Strip of 10 tablets | Not stated |
 | 150897 | Noculi Tablet | Strip of 10 tablets | Not stated |
 
-All three are valid single-ingredient registrations.
+All three are valid registrations.
 
 ## Safety Considerations
 

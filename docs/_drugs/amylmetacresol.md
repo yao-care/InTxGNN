@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Amylmetacresol: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the registration data (marketed as throat/cough lozenge…"
 monitor_inn: "Amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
@@ -79,7 +79,7 @@ Currently no related literature available.
 | 37682 | Cof Q Lozenges | Strip of 6 lozenges | Not stated |
 | 214969 | Tusq-D Cough Lozenges Sugar Free | Strip of 6 lozenges | Not stated |
 
-One further registration (214990, Tusq-D Cough Lozenges Orange) is also valid. All 6 registrations are single-ingredient products with valid status.
+One further registration (214990, Tusq-D Cough Lozenges Orange) is also valid. All 6 registrations are products with valid status.
 
 ## Safety Considerations
 

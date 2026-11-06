@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ritonavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis C virus infection, hepatitis C virus infection…"
 ---
 
@@ -82,7 +82,7 @@ Currently no related literature available for feline acquired immunodeficiency s
 
 ## India Market Information
 
-Ritonavir is marketed in India with 17 valid single-ingredient approvals. The licence records contain no approved indication text. The five listed below are examples of the 17.
+Ritonavir is marketed in India with 17 valid approvals. The licence records contain no approved indication text. The five listed below are examples of the 17.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

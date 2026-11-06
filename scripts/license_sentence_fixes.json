@@ -1,0 +1,389 @@
+{
+ "allantoin": [
+  {
+   "sentence": "Eleven valid single-ingredient registrations are on record; the five main ones are listed above.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "amiloride": [
+  {
+   "sentence": "Four valid single-ingredient licences are recorded.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "aminophylline": [
+  {
+   "sentence": "Seven valid single-ingredient licences are registered in total; the five above are shown.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "amylmetacresol": [
+  {
+   "sentence": "All 6 registrations are single-ingredient products with valid status.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "arginine": [
+  {
+   "sentence": "All 11 registrations are valid single-ingredient products, and none are cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 3 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "atazanavir": [
+  {
+   "sentence": "Showing 5 of 11 valid licences; all 11 are single-ingredient products and none are cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "bacitracin": [
+  {
+   "sentence": "All 11 registrations are valid single-ingredient licences.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "beta_carotene": [
+  {
+   "sentence": "Both licences are valid single-ingredient products (oral).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 2 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "biotin": [
+  {
+   "sentence": "Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 18 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "calcium_citrate": [
+  {
+   "sentence": "All 8 registrations are valid single-ingredient licences for oral tablets; the five above are shown.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "camphor": [
+  {
+   "sentence": "Camphor has 19 valid single-ingredient registrations and none are cancelled or combination products.",
+   "cut": [
+    "single-ingredient ",
+    " or combination products"
+   ],
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 19 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "clioquinol": [
+  {
+   "sentence": "All five registrations are valid single-ingredient topical products (creams and ointments).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 5 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "clonidine": [
+  {
+   "sentence": "All 20 records are valid, and all are single-ingredient products.",
+   "cut": ", and all are single-ingredient products",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 20 張，其中單方 19 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "cyanocobalamin": [
+  {
+   "sentence": "All 8 licences are single-ingredient products and currently valid; the table lists the first five.",
+   "cut": "single-ingredient products and ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "darunavir": [
+  {
+   "sentence": "At least the following authorisations are recorded (8 single-ingredient licences, all valid, none cancelled).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "dexketoprofen": [
+  {
+   "sentence": "All 6 registrations are single-ingredient products and currently valid.",
+   "cut": "single-ingredient products and ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "difluprednate": [
+  {
+   "sentence": "All 19 registrations are valid single-ingredient ophthalmic products.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 19 張，其中單方 18 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "diosmin": [
+  {
+   "sentence": "Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 17 張，其中單方 9 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "efonidipine": [
+  {
+   "sentence": "Seven valid single-ingredient registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ephedrine": [
+  {
+   "sentence": "All three registrations are valid single-ingredient licenses.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "epinephrine": [
+  {
+   "sentence": "All 8 registrations are valid single-ingredient injectables.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 7 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "evogliptin": [
+  {
+   "sentence": "All three authorizations are valid single-ingredient registrations held by Alkem Laboratories Ltd, in oral form.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ferrous_bisglycinate": [
+  {
+   "sentence": "Six valid single-ingredient licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "fluphenazine": [
+  {
+   "sentence": "Twelve valid single-ingredient registrations exist, with no cancelled licences.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 11 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "halometasone": [
+  {
+   "sentence": "All four registrations are valid single-ingredient products.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "hydroxocobalamin": [
+  {
+   "sentence": "All four licences are valid single-ingredient injectables.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 3 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "indacaterol": [
+  {
+   "sentence": "All 9 registrations are valid single-ingredient licences.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 9 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "insulin_aspart": [
+  {
+   "sentence": "All 12 licences are valid, single-ingredient products from Novo Nordisk India Pvt Ltd.",
+   "cut": ", single-ingredient",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 7 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "insulin_degludec": [
+  {
+   "sentence": "All four registrations are valid, single-ingredient products from Novo Nordisk India Pvt Ltd.",
+   "cut": ", single-ingredient",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "insulin_lispro": [
+  {
+   "sentence": "All 14 registrations are single-ingredient products and currently valid.",
+   "cut": "single-ingredient products and ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 14 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "isopropamide": [
+  {
+   "sentence": "All 6 registrations are valid single-ingredient entries (the table lists the first 5).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ledipasvir": [
+  {
+   "sentence": "Fourteen valid single-ingredient registrations are listed in total; all are oral tablets.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 14 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "magnesium_citrate": [
+  {
+   "sentence": "Twelve valid single-ingredient licences are registered in total; the five above are shown.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  },
+  {
+   "sentence": "There are no combination or cancelled licences.",
+   "cut": "combination or ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 0 張；「沒有複方」與事實不符，只刪「combination or」，「沒有註銷」保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "meclizine": [
+  {
+   "sentence": "Sixteen valid single-ingredient registrations exist and none are cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 16 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "mephenesin": [
+  {
+   "sentence": "All three licenses are valid single-ingredient products, and all are topical gels.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "nefopam": [
+  {
+   "sentence": "All three licences are valid single-ingredient products, available in oral and injectable forms.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "nicergoline": [
+  {
+   "sentence": "All five licences are valid single-ingredient oral products.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 5 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "polyvinyl_alcohol": [
+  {
+   "sentence": "All 16 licences are for single-ingredient, valid products, with none cancelled.",
+   "cut": "single-ingredient, ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 16 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "potassium": [
+  {
+   "sentence": "All three are valid single-ingredient registrations.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "potassium_iodide": [
+  {
+   "sentence": "All are single-ingredient products and all are currently valid.",
+   "cut": "single-ingredient products and all ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "prilocaine": [
+  {
+   "sentence": "All 19 registrations are valid single-ingredient products, mainly topical creams, gels and an ointment.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 19 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "quinapril": [
+  {
+   "sentence": "Seven valid single-ingredient registrations are listed in total; all are oral tablets.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ritonavir": [
+  {
+   "sentence": "Ritonavir is marketed in India with 17 valid single-ingredient approvals.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 17 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "sacubitril": [
+  {
+   "sentence": "There are 15 valid single-ingredient registrations in total, all oral tablets, and none are cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 15 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "silver": [
+  {
+   "sentence": "There are 9 valid single-ingredient registrations in total; the table lists the first 5.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 9 張，其中單方 7 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "sodium_feredetate": [
+  {
+   "sentence": "All six registrations are single-ingredient products and none has been cancelled.",
+   "cut": "All six registrations are single-ingredient products and n",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "capitalize": true
+  }
+ ],
+ "sodium_fluoride": [
+  {
+   "sentence": "All five registrations are valid single-ingredient products.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 5 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "stavudine": [
+  {
+   "sentence": "All 13 registrations are currently valid single-ingredient licences.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 13 張，其中單方 9 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "tazarotene": [
+  {
+   "sentence": "There are 12 valid single-ingredient registrations in total, all topical creams or gels.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 11 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "ticarcillin": [
+  {
+   "sentence": "Fifteen valid single-ingredient registrations were found.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 15 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "tropicamide": [
+  {
+   "sentence": "Tropicamide has 14 valid single-ingredient registrations, all ophthalmic eye drops.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 14 張，其中單方 12 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "vitamin_a": [
+  {
+   "sentence": "Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms).",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "vitamin_e": [
+  {
+   "sentence": "Seven single-ingredient oral registrations are valid in total, and none has been cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ],
+ "zinc_acetate": [
+  {
+   "sentence": "All 8 registrations are valid single-ingredient products, and none is cancelled.",
+   "cut": "single-ingredient ",
+   "reason": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）"
+  }
+ ]
+}

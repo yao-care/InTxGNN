@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 716
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Quinapril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Quinapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -94,7 +94,7 @@ For the rank 3 prediction (pulmonary hypertension owing to lung disease and/or h
 | 183540 | Q Press 5mg Tablet | Strip of 10 tablets | Not stated |
 | 183304 | Q Press 10mg Tablet | Strip of 10 tablets | Not stated |
 
-Seven valid single-ingredient registrations are listed in total; all are oral tablets.
+Seven valid registrations are listed in total; all are oral tablets.
 
 ## Safety Considerations
 

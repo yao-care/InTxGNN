@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Darunavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -98,7 +98,7 @@ The supplied abstracts are truncated, so whether darunavir is part of these regi
 
 ## India Market Information
 
-At least the following authorisations are recorded (8 single-ingredient licences, all valid, none cancelled). The licence records contain no approved-indication text.
+At least the following authorisations are recorded (8 licences, all valid, none cancelled). The licence records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

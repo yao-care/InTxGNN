@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["immature cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Nefopam: predicted new indication Immature cataract (evidence level L5). Approved use: Not stated in the licence records (analgesic drug class)"
 ---
 
@@ -97,7 +97,7 @@ Lumbar spinal stenosis (TxGNN score 0.9997) is the only predicted indication in 
 | 151496 | Nefosar 20mg Injection | Ampoule of 1 ml injection | Abbott |
 | 150485 | Nefosar Tablet | Strip of 10 tablets | Abbott |
 
-All three licences are valid single-ingredient products, available in oral and injectable forms. The licence records do not include approved indication text.
+All three licences are valid products, available in oral and injectable forms. The licence records do not include approved indication text.
 
 ---
 

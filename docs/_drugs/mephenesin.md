@@ -5,7 +5,7 @@ layout: default
 title: Mephenesin
 parent: Known Uses Only (No New Predictions)
 nav_order: 524
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Mephenesin: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Mephenesin"
 predicted_indications: []
@@ -54,7 +54,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | 76887 | Ethnorub Gel (Strides Shasun Ltd) | Tube of 30 gm gel | Not stated |
 | 8661 | Actofenal Gel 4X (Nexcellence Lifesciences) | Tube of 30 gm gel | Not stated |
 
-All three licenses are valid single-ingredient products, and all are topical gels. No systemic formulation is registered.
+All three licenses are valid products, and all are topical gels. No systemic formulation is registered.
 
 ## Safety Considerations
 

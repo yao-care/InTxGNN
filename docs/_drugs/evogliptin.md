@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Evogliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Evogliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy"]
@@ -70,7 +70,7 @@ The very high TxGNN score (0.9935) should be read as a model-derived association
 | 233304 | Valera Tablet | Strip of 15 tablets | Not specified |
 | 233332 | Valera M 500 Tablet SR | Strip of 15 sustained-release tablets | Not specified |
 
-All three authorizations are valid single-ingredient registrations held by Alkem Laboratories Ltd, in oral form.
+All three authorizations are valid registrations held by Alkem Laboratories Ltd, in oral form.
 
 ## Conclusion and Next Steps
 

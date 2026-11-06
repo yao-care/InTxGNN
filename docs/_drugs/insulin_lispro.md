@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus (also type 1 diabetes mellitus and diabetic…"
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -87,7 +87,7 @@ The approved indication text is not recorded for these registrations. Five of th
 | 73299 | Eglucent Rapid 100IU/ml Kwikpen (Lupin) | Pre-filled pen of 3 ml solution for injection | Not specified |
 | 103706 | Humalog Mix 25 100IU/ml Cartridge (Eli Lilly and Company India) | Cartridge of 3 ml injection | Not specified |
 
-All 14 registrations are single-ingredient products and currently valid. They are injectable only (cartridges and pens), in solution and premixed suspension forms.
+All 14 registrations are currently valid. They are injectable only (cartridges and pens), in solution and premixed suspension forms.
 
 ## Safety Considerations
 

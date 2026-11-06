@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 51
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Aminophylline: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated on the Indian licences in the data compiled for this report"
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -95,7 +95,7 @@ Currently no related clinical trials registered for migraine disorder.
 | 27594 | Biofylin 250mg Injection | Vial of 1 injection | Not stated |
 | 185377 | Renophyllline Injection | Ampoule of 10 ml injection | Not stated |
 
-Seven valid single-ingredient licences are registered in total; the five above are shown. Six are injectable products and one is an oral tablet.
+Seven valid licences are registered in total; the five above are shown. Six are injectable products and one is an oral tablet.
 
 ---
 

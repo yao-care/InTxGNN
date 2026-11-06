@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Diosmin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated on the India licences (indication text is blank)"
 monitor_inn: "Diosmin"
 predicted_indications: ["amenorrhea (disease)"]
@@ -68,7 +68,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones. Five main authorisations are listed below. The approved-indication text is blank on all of them.
+Diosmin has 17 valid registrations in India and no cancelled ones. Five main authorisations are listed below. The approved-indication text is blank on all of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

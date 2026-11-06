@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 435
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 description: "Insulin Degludec: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,7 +102,7 @@ The data include 40 trials. The most relevant are listed below, with completed P
 | 214903 | Tresiba 100IU/ml Flextouch | Pre-filled pen of 3 ml solution for injection | Not stated |
 | 184148 | Ryzodeg 100IU/ml Penfill | Penfill of 3 ml solution for injection | Not stated |
 
-All four registrations are valid, single-ingredient products from Novo Nordisk India Pvt Ltd.
+All four registrations are valid products from Novo Nordisk India Pvt Ltd.
 
 ## Safety Considerations
 

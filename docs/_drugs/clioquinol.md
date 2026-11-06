@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clioquinol"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Clioquinol: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 ---
 
@@ -81,7 +81,7 @@ Currently no related literature available.
 | Registration No. 64362 | Dermoquinol 8% Ointment | Tube of 15 gm ointment | Not stated in the records |
 | Registration No. 61594 | Dermi-Zio 6 Cream | Tube of 15 gm cream | Not stated in the records |
 
-All five registrations are valid single-ingredient topical products (creams and ointments).
+All five registrations are valid topical products (creams and ointments).
 
 ## Safety Considerations
 

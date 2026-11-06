@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 836
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ticarcillin: predicted new indication Lymph node palisaded myofibroblastoma (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bacterial pneumonia…"
 monitor_inn: "Ticarcillin"
 predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "sacrum chordoma", "disease of retroperitoneum", "urethral disease", "disease of uterine broad ligament", "disease of peritoneum", "pelvic varices"]
@@ -90,7 +90,7 @@ None of these are randomized controlled trials. Some are indirect (for example, 
 
 ## India Market Information
 
-Fifteen valid single-ingredient registrations were found. Approved indication text was not available for any of them. The five main ones are listed below.
+Fifteen valid registrations were found. Approved indication text was not available for any of them. The five main ones are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

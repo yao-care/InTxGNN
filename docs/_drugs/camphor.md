@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Camphor: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the approval records compiled for this report (marketed…"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -89,7 +89,7 @@ Currently no related clinical trials registered.
 
 ## India Market Information
 
-Camphor has 19 valid single-ingredient registrations and none are cancelled or combination products. The approval records do not include indication text. The main authorizations are listed below.
+Camphor has 19 valid registrations and none are cancelled. The approval records do not include indication text. The main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

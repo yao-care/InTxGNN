@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Biotin: predicted new indication dyspepsia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -87,7 +87,7 @@ None of the retrieved publications shows that biotin treats dyspepsia. The only 
 
 ## India Market Information
 
-Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled. The licence records carry no approved indication text. Main authorizations:
+Biotin is marketed in India, with 18 valid licences and none cancelled. The licence records carry no approved indication text. Main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

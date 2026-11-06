@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -103,7 +103,7 @@ Approved indication text is not available for these licences.
 | 150685 | Novorapid FlexPen | Pre-filled pen 3 ml solution for injection | Not available |
 | 84212 | Fiasp FlexTouch | Pre-filled pen 3 ml solution for injection | Not available |
 
-All 12 licences are valid, single-ingredient products from Novo Nordisk India Pvt Ltd.
+All 12 licences are valid products from Novo Nordisk India Pvt Ltd.
 
 ## Safety Considerations
 

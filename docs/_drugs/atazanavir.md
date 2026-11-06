@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 76
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Atazanavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 monitor_inn: "Atazanavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -84,7 +84,7 @@ The compiled data does not include approved indication text for these licences.
 | 3482 | Anzavir-R Tablet | Strip of 30 tablets | Mylan Pharmaceuticals Pvt Ltd |
 | 201156 | Synthivan Tablet | Strip of 30 tablets | Cipla Ltd |
 
-Showing 5 of 11 valid licences; all 11 are single-ingredient products and none are cancelled.
+Showing 5 of 11 valid licences; all 11 are products and none are cancelled.
 
 ## Safety Considerations
 

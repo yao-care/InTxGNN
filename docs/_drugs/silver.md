@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Silver"
 predicted_indications: ["bone Paget disease"]
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -98,7 +98,7 @@ None of these studies tests silver as a treatment.
 | 231127 | Unosil Antimicrobial Wound and Burn Spray | Solution, 50 ml pump bottle | Not stated |
 | 231323 | Unosil 550 Antimicrobial Wound and Burn Gel | Gel, 200 g jar | Not stated |
 
-There are 9 valid single-ingredient registrations in total; the table lists the first 5.
+There are 9 valid registrations in total; the table lists the first 5.
 
 ---
 

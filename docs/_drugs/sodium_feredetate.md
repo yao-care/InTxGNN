@@ -5,7 +5,7 @@ layout: default
 title: Sodium Feredetate
 parent: Known Uses Only (No New Predictions)
 nav_order: 779
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Sodium Feredetate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Sodium feredetate"
 predicted_indications: []
@@ -56,7 +56,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | 190762 | Rednext Syrup (Globus Labs) | Bottle of 150 ml syrup | Not specified |
 | 233868 | Vegefer Syrup (Sundyota Numandis Probioceuticals) | Bottle of 150 ml oral solution | Not specified |
 
-A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10 tablets), is also valid. All six registrations are single-ingredient products and none has been cancelled.
+A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10 tablets), is also valid. One has been cancelled.
 
 ## Safety Considerations
 

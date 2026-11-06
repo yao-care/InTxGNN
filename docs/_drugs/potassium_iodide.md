@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 691
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -94,7 +94,7 @@ Currently no related clinical trials registered.
 | 37727 | Catobar Eye Drop | Bottle of 10 ml eye drop | Not stated |
 | 35844 | Catafly Eye Drop | Bottle of 10 ml eye drop | Not stated |
 
-Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are single-ingredient products and all are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
+Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
 
 ---
 

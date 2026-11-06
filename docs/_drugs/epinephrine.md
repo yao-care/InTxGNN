@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,7 +102,7 @@ Fifteen trials were compiled; the 10 most relevant are listed below.
 | 3008 | Adraclor Injection | Ampoule of 1 ml injection | Not available |
 | 233294 | Vasocon Injection | Vial of 1 ml injection | Not available |
 
-All 8 registrations are valid single-ingredient injectables. No inhaled product is registered in India according to the compiled data.
+All 8 registrations are valid injectables. No inhaled product is registered in India according to the compiled data.
 
 ## Safety Considerations
 

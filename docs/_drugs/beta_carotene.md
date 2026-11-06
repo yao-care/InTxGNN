@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Beta Carotene: predicted new indication acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -95,7 +95,7 @@ Currently no related clinical trials registered.
 | 197872 | Resumer Pro Softgel Capsule | Bottle of 60 soft gelatin capsules | Not recorded |
 | 98656 | Glowishma Softgel Capsule | Strip of 10 soft gelatin capsules | Not recorded |
 
-Both licences are valid single-ingredient products (oral).
+Both licences are valid products (oral).
 
 ---
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Dexketoprofen: predicted new indication Tendinitis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 monitor_inn: "Dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
@@ -108,7 +108,7 @@ The same trial set also supports a broader "headache disorder" prediction, but t
 | 109815 | Infen 50mg Injection | Vial of 2 ml injection | Not stated |
 | 107911 | Infen P Tablet | Strip of 10 tablets | Not stated |
 
-A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. All 6 registrations are single-ingredient products and currently valid.
+A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. All 6 registrations are currently valid.
 
 ---
 

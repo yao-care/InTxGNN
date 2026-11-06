@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Bacitracin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Keratitis, keratoconjunctivitis, blepharoconjunctivitis"
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
@@ -89,7 +89,7 @@ For reference, the fourth-ranked prediction, otitis externa, has limited literat
 | 150299 | Neosporin Dusting Powder | Dusting powder, 10 g | Not specified |
 | 151066 | Nebasulf Ointment | Ointment, 5 g tube | Not specified |
 
-All 11 registrations are valid single-ingredient licences. Only one is an ophthalmic product (Neosporin Eye Drop). The others are ointments or powders.
+All 11 registrations are valid licences. Only one is an ophthalmic product (Neosporin Eye Drop). The others are ointments or powders.
 
 ## Safety Considerations
 

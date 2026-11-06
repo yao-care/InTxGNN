@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Allantoin"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Allantoin: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 | 84965 | F Next Dusting Powder | Box of 75 gm dusting powder | Not recorded |
 | 34860 | Candid Gold Dusting Powder | Bottle of 100 gm dusting powder | Not recorded |
 
-Eleven valid single-ingredient registrations are on record; the five main ones are listed above.
+Eleven valid registrations are on record; the five main ones are listed above.
 
 ## Safety Considerations
 

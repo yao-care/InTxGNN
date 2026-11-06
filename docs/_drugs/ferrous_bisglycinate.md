@@ -5,7 +5,7 @@ layout: default
 title: Ferrous Bisglycinate
 parent: Known Uses Only (No New Predictions)
 nav_order: 349
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Ferrous Bisglycinate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Ferrous bisglycinate"
 predicted_indications: []
@@ -56,7 +56,7 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | 26774 | Bisred Tablet | Strip of 10 tablets | Not stated |
 | 200366 | Sayfer XT Tablet | Strip of 10 tablets | Not stated |
 
-Six valid single-ingredient licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets). All are oral tablets.
+Six valid licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets). All are oral tablets.
 
 ## Safety Considerations
 

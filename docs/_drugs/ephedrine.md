@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 312
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Ephedrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Not recorded in the local data"
@@ -97,7 +97,7 @@ Currently no related clinical trials registered.
 | 4873 | Adrena 2mg Injection (Geo Pharma Pvt Ltd) | Vial of 2 ml injection | Not listed |
 | 72763 | Efipres Injection (Neon Laboratories Ltd) | Vial of 1 ml injection | Not listed |
 
-All three registrations are valid single-ingredient licenses. Available forms are oral (tablet) and injectable.
+All three registrations are valid licenses. Available forms are oral (tablet) and injectable.
 
 ---
 

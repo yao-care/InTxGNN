@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 698
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -100,7 +100,7 @@ Evidence for migraine disorder (rank 4) is also thin. One N/A-phase topical anal
 
 ## India Market Information
 
-All 19 registrations are valid single-ingredient products, mainly topical creams, gels and an ointment. No approved indication text is recorded for any of them. A selection of the main authorisations:
+All 19 registrations are valid products, mainly topical creams, gels and an ointment. No approved indication text is recorded for any of them. A selection of the main authorisations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

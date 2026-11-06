@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predicted new indication Brain small vessel disease 1 with or without ocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
@@ -95,7 +95,7 @@ The other predicted indications have no registered clinical trials.
 | 358 | Azmarda 200mg Tablet (J B Chemicals) | Strip of 7 tablets | Not stated |
 | 233474 | Valsac 100 Tablet (Natco Pharma) | Bottle of 28 tablets | Not stated |
 
-There are 15 valid single-ingredient registrations in total, all oral tablets, and none are cancelled.
+There are 15 valid registrations in total, all oral tablets, and none are cancelled.
 
 ## Safety Considerations
 

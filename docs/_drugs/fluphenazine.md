@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 description: "Fluphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
@@ -82,7 +82,7 @@ Currently no related literature available.
 
 ## India Market Information
 
-Twelve valid single-ingredient registrations exist, with no cancelled licences. The registration data lists no approved indication text. The five main authorizations are shown below.
+Twelve valid registrations exist, with no cancelled licences. The registration data lists no approved indication text. The five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form |
 |---------|------|------|

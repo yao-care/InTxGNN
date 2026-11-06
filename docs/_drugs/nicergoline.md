@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Nicergoline"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 description: "Nicergoline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,7 +102,7 @@ The literature below relates to migraine disorder, the only predicted indication
 | 150520 | Nicerbium Tablet | Strip of 10 tablets | Not stated |
 | 154136 | Nicerwin V Tablet | Strip of 10 tablets | Not stated |
 
-All five licences are valid single-ingredient oral products.
+All five licences are valid oral products.
 
 ---
 

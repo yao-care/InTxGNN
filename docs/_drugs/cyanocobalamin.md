@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Cyanocobalamin: predicted new indication biotin metabolic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -81,7 +81,7 @@ Currently no related clinical trials registered.
 | 233952 | VIB 12 1000mcg Injection | Vial of 1 ml injection | Not recorded |
 | 224998 | Titoebion Injection | Vial of 2 ml injection | Not recorded |
 
-All 8 licences are single-ingredient products and currently valid; the table lists the first five.
+All 8 licences are currently valid; the table lists the first five.
 
 ## Safety Considerations
 

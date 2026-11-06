@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 134
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Calcium Citrate: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not stated in the available licence data"
 monitor_inn: "Calcium citrate"
 predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
@@ -98,7 +98,7 @@ For reference, the literature found for the second-ranked prediction (myocardial
 | 217118 | Tenz-Cal Tablet | Strip of 10 tablets | Not stated |
 | 137164 | Muscobon Tablet | Strip of 10 tablets | Not stated |
 
-All 8 registrations are valid single-ingredient licences for oral tablets; the five above are shown.
+All 8 registrations are valid licences for oral tablets; the five above are shown.
 
 ---
 

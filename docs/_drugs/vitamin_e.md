@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 895
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
 description: "Vitamin E: predicted new indication Inborn disorder of bilirubin metabolism (evidence level L5). Approved use: Not recorded in the local data"
@@ -91,7 +91,7 @@ Related evidence was also retrieved for the closely related prediction "bilirubi
 | 246736 | Zevion 400 Capsule (Zeelab Pharmacy Pvt Ltd) | Strip of 10 capsules | Not stated in the records |
 | 73627 | E-Gen 400 Capsule (Hnf Care Pvt Ltd) | Strip of 10 capsules | Not stated in the records |
 
-Seven single-ingredient oral registrations are valid in total, and none has been cancelled. All are oral capsule products.
+Seven oral registrations are valid in total, and none has been cancelled. All are oral capsule products.
 
 ---
 

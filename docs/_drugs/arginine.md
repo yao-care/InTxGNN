@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 68
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 description: "Arginine: predicted new indication gastroparesis (evidence level L4). Approved use: Not stated in the available licence data"
 monitor_inn: "Arginine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -90,7 +90,7 @@ Licence records do not include approved indication text. The main authorisations
 | 231213 | Upgar Powder Lemony Orange Sugar Free (Karisca Healthcare) | Sachet of 10 g powder | Not stated |
 | 3873 | Arginall 500mg Capsule (Xeno Pharmaceuticals) | Strip of 10 capsules | Not stated |
 
-All 11 registrations are valid single-ingredient products, and none are cancelled.
+All 11 registrations are valid products, and none are cancelled.
 
 ## Safety Considerations
 

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 894
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -116,7 +116,7 @@ No publications were found for congenital prothrombin deficiency. Key publicatio
 | 233452 | Vitamin A 100000IU Syrup | Bottle of 50 ml syrup | Not stated |
 | 144556 | Multiband Injection | Vial of 10 ml injection | Not stated |
 
-Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms).
+Eight valid registrations exist in total (injection, capsule, syrup, and chewable tablet forms).
 
 ---
 

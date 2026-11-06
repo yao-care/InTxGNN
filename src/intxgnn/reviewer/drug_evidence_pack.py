@@ -31,6 +31,24 @@ _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|susp
                         r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ|archiv|^opinion|\|opinion", re.I)
 
 
+
+_IN_COMBO = None
+
+
+def _in_combo(lid):
+    """2026-11-06：本站資料集（data/raw/indian_medicine_data.csv，Indian Medicine Dataset）每個產品有 short_composition1／short_composition2
+    兩個成分欄；證據包紀錄只帶 short_composition1，複方（例 EEshmox DX：Amoxycillin＋Dicloxacillin）原本被算成單方。
+    short_composition2 有值＝複方。資料集不在（還原前）就不判（維持原本的單方）。"""
+    global _IN_COMBO
+    if _IN_COMBO is None:
+        import csv
+        p = Path(__file__).resolve().parents[3] / "data/raw/indian_medicine_data.csv"
+        _IN_COMBO = set()
+        if p.exists():
+            with open(p, encoding="utf-8-sig", newline="") as fh:
+                _IN_COMBO = {(x.get("id") or "").strip() for x in csv.DictReader(fh) if (x.get("short_composition2") or "").strip()}
+    return str(lid or "").strip() in _IN_COMBO
+
 class ValidationError(Exception):
     """Raised when output validation fails."""
     pass
@@ -115,7 +133,7 @@ class DrugEvidencePackGenerator:
             if not lid or lid in seen:
                 continue
             seen.add(lid)
-            ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
+            ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()] + ([None] if _in_combo(r.get("license_id")) else [])  # 2026-11-06：見 _in_combo
             status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("registration_status") or "") + str(r.get("註銷狀態") or "")) else "valid")
             # 2026-10-21：沒有狀態欄、但有效期已過（Tw 795 筆空白狀態）→ 視為過期失效
             _exp = re.sub(r"[^0-9]", "", str(r.get("expiry_date") or r.get("有效日期") or ""))[:8]

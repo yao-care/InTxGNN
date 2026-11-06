@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-06
 monitor_inn: "Isopropamide"
 predicted_indications: ["gastroduodenitis", "overactive bladder (disease)"]
 description: "Isopropamide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -74,7 +74,7 @@ This link is inferred from the drug class and has not been confirmed. The very h
 | 202131 | Spascol 5mg/1mg Tablet | Strip of 10 tablets | Not specified |
 | 96257 | Gastobid Tablet | Strip of 10 tablets | Not specified |
 
-All 6 registrations are valid single-ingredient entries (the table lists the first 5). The remaining registration is Stelbid 2 Tablet (200066). All are oral tablets.
+All 6 registrations are valid entries (the table lists the first 5). The remaining registration is Stelbid 2 Tablet (200066). All are oral tablets.
 
 ## Safety Considerations
 
