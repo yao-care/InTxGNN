@@ -6,7 +6,7 @@ nav_order: 687
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-30
-description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L4). Approved use: Fungal infections (chromomycosis, coccidioidomycosis, aspergillosis…"
+description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Fungal infections (chromomycosis, coccidioidomycosis, aspergillosis…"
 monitor_inn: "Posaconazole"
 predicted_indications: ["pneumocystosis"]
 ---

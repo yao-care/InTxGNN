@@ -6,7 +6,7 @@ nav_order: 271
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-30
-description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L4). Approved use: Central nervous system origin vertigo"
+description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L5). Approved use: Central nervous system origin vertigo"
 monitor_inn: "Dimenhydrinate"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---

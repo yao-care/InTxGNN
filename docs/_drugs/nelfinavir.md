@@ -6,7 +6,7 @@ nav_order: 585
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-30
-description: "Nelfinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
+description: "Nelfinavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease, AIDS"
 monitor_inn: "Nelfinavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---

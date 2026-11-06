@@ -27,7 +27,7 @@ Drug repurposing predictions for medicines in the Indian Medicine Dataset (publi
 | **DFI Data** | 857 |
 | **DHI Data** | 35 |
 | **DDSI Data** | 8,359 |
-| **FHIR Resources** | 1,070 MK / 5,612 CUD |
+| **FHIR Resources** | 1,060 MK / 5,612 CUD |
 
 ### Evidence Level Distribution
 

@@ -6,7 +6,7 @@ nav_order: 171
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Chlordiazepoxide: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Anxiety, alcohol withdrawal, peptic ulcer disease…"
+description: "Chlordiazepoxide: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Anxiety, alcohol withdrawal, peptic ulcer disease…"
 monitor_inn: "Chlordiazepoxide"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "myofascial pain syndrome"]
 ---

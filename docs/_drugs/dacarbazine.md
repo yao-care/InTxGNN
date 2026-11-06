@@ -6,7 +6,7 @@ nav_order: 226
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L4). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma) and metastatic…"
+description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Hodgkin lymphoma (including classic Hodgkin lymphoma) and metastatic…"
 monitor_inn: "Dacarbazine"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
 ---

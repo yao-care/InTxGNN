@@ -6,7 +6,7 @@ nav_order: 124
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-30
-description: "Buserelin: predicted new indication hypertrichosis (evidence level L4). Approved use: Prostate cancer"
+description: "Buserelin: predicted new indication hypertrichosis (evidence level L5). Approved use: Prostate cancer"
 monitor_inn: "Buserelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
 ---

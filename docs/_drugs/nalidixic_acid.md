@@ -6,7 +6,7 @@ nav_order: 577
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Nalidixic Acid: predicted new indication Conjunctivitis (evidence level L4). Approved use: Not stated in the available India licence data (the drug is known as…"
+description: "Nalidixic Acid: predicted new indication Conjunctivitis (evidence level L5). Approved use: Not stated in the available India licence data (the drug is known as…"
 monitor_inn: "Nalidixic acid"
 predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid arthritis", "infectious otitis media"]
 ---

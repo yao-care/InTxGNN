@@ -6,7 +6,7 @@ nav_order: 688
 evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-30
-description: "Potassium: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not stated in the Indian licence records compiled for this report"
+description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 ---

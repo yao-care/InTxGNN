@@ -6,7 +6,7 @@ nav_order: 38
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-30
-description: "Alpelisib: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Not recorded in the India license data (the clinical program is HR+/H…"
+description: "Alpelisib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not recorded in the India license data (the clinical program is HR+/H…"
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
 ---

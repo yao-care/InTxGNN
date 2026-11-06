@@ -6,7 +6,7 @@ nav_order: 854
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Tranexamic Acid: predicted new indication amenorrhea (evidence level L4)."
+description: "Tranexamic Acid: predicted new indication amenorrhea (evidence level L5)."
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
 ---

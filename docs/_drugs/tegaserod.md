@@ -6,7 +6,7 @@ nav_order: 810
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-30
-description: "Tegaserod: predicted new indication Migraine disorder (evidence level L4). Approved use: Not available in the registration data"
+description: "Tegaserod: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the registration data"
 monitor_inn: "Tegaserod"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---

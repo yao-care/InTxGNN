@@ -6,7 +6,7 @@ nav_order: 849
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-30
-description: "Topiroxostat: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Hyperuricemia, gout"
+description: "Topiroxostat: predicted new indication Hypouricemia, renal (evidence level L5). Approved use: Hyperuricemia, gout"
 monitor_inn: "Topiroxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 ---

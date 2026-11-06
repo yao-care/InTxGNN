@@ -6,7 +6,7 @@ nav_order: 664
 evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-10-30
-description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not available"
+description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available"
 monitor_inn: "Phenylalanine"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 ---
