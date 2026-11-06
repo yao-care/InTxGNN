@@ -3,7 +3,7 @@ layout: default
 title: "Bicalutamide News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Bicalutamide. Original indication: he TxGNN model's top-ranked prediction is hypertri.... 10 predicted indications."
+description: "Health news related to Bicalutamide. 10 predicted indications."
 permalink: /news/bicalutamide/
 last_modified_at: 2026-11-06
 ---
@@ -25,8 +25,7 @@ This page combines the AI-predicted indications for Bicalutamide with the latest
 <div class="drug-info-card">
 <strong>Drug Information</strong>
 <ul>
-<li><strong>Original indication</strong>: he TxGNN model's top-ranked prediction is hypertrichosis, but the best-supported candidate is **female breast carcinoma**, with **1 Phase 2 clinical trial** and **20 publications** pointing in this...</li>
-<li><strong>Evidence level</strong>: L5</li>
+<li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>hypertrichosis (disease)</li>
 <li>malformation syndrome with odontal and/or periodontal component</li>
