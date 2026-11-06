@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Methoxsalen?">
-<strong>Methoxsalen</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Methoxsalen</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ This page combines the AI-predicted indications for Methoxsalen with the latest 
 <p><a href="{{ '/drugs/methoxsalen/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [A Lobar Hematoma Mimicking a Brain Tumor in a Patient With Two Mechanical Heart Valves: The Value of Serial Magnetic Resonance Imaging](https://news.google.com/rss/articles/CBMiggJBVV95cUxQNVBXdFlVRGhBelFHa2hjZTlZeTFvTnJ3RDVfN0oyUm5KbjlkWlZsbFhJbGxoLWg5UUgzRU5SbnNYSm1rMDdfWE15cTA4bUdwSXNPTTVoUXBzZFNmelhvWGRuMkh2RngyclpKeHhlSGFHZmZJaFByak9lNDFPYTd5RV9YTEN5ejc1enhvR2tzREx1Zml3Z2lNdWY1UURINGV1ZlZCeE1hQkFkOWNaQ29iWkpwU0luRW13REVmTnBhSGdDTTJHLUMxd1RSMEo1cHdPMW8tLW4tMFhFMHlFQVNDQzFuNkJZNmJvTF9INXA0eWhUTmtWb2NhaWxYQjN6NXhnd0E?oc=5)
+
+2026-11-06 <span class="news-indication-tag">tumor</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiggJBVV95cUxQNVBXdFlVRGhBelFHa2hjZTlZeTFvTnJ3RDVfN0oyUm5KbjlkWlZsbFhJbGxoLWg5UUgzRU5SbnNYSm1rMDdfWE15cTA4bUdwSXNPTTVoUXBzZFNmelhvWGRuMkh2RngyclpKeHhlSGFHZmZJaFByak9lNDFPYTd5RV9YTEN5ejc1enhvR2tzREx1Zml3Z2lNdWY1UURINGV1ZlZCeE1hQkFkOWNaQ29iWkpwU0luRW13REVmTnBhSGdDTTJHLUMxd1RSMEo1cHdPMW8tLW4tMFhFMHlFQVNDQzFuNkJZNmJvTF9INXA0eWhUTmtWb2NhaWxYQjN6NXhnd0E?oc=5)
+
+---
+
+### [Q&A: Could sound waves revolutionize brain tumor treatment? - UVA Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmN0clFHR09nYmNPY3AtRWlVb3BfNXBuZ0RBQWh0cWFNcDlmeDc5ZDVtajN3a0haRkNXQzAwLXpPcXdsV08wSklyUmYzTzRUWVZRekxWMUlUcDd3UEZha0xrWEZMbk53Y0E3UE1rZzdHY0FaandzN1FOM21zQTRscHpYLXBNUU9WNU5VQWRTRHd1RURY?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+
+Source: [UVA Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmN0clFHR09nYmNPY3AtRWlVb3BfNXBuZ0RBQWh0cWFNcDlmeDc5ZDVtajN3a0haRkNXQzAwLXpPcXdsV08wSklyUmYzTzRUWVZRekxWMUlUcDd3UEZha0xrWEZMbk53Y0E3UE1rZzdHY0FaandzN1FOM21zQTRscHpYLXBNUU9WNU5VQWRTRHd1RURY?oc=5)
+
+---
+
+### [Lung Cancer Is No Longer Just A Smoker's Disease: Why More Non-Smokers And Women Are At Risk](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2FwbllxX3dqUkJSZXk3T1ZyRzVjU1ZEZTRtT0JBMUdlVlctXzhvY2pYQnpGMUtjQlFPTFdPVElXanRpSFlReFQ2amNWTHNHcmFKSVVBQlFWVl85ZUNOamFNOFppeEthYng2QlJvSVdhRHd0MHk0bHRWbzVIU3RsTTdmbGRVSm54Uzh6dmpJaHBRV2dvaVBpTE4wOVhlamR6NlJ3dFZTelZrWktjLTdYR0FzYVB5RGowYWdFaUNzVHduRE5EbjZPSzU2OWZucWt2TzF3SDBpS2cxQQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2FwbllxX3dqUkJSZXk3T1ZyRzVjU1ZEZTRtT0JBMUdlVlctXzhvY2pYQnpGMUtjQlFPTFdPVElXanRpSFlReFQ2amNWTHNHcmFKSVVBQlFWVl85ZUNOamFNOFppeEthYng2QlJvSVdhRHd0MHk0bHRWbzVIU3RsTTdmbGRVSm54Uzh6dmpJaHBRV2dvaVBpTE4wOVhlamR6NlJ3dFZTelZrWktjLTdYR0FzYVB5RGowYWdFaUNzVHduRE5EbjZPSzU2OWZucWt2TzF3SDBpS2cxQQ?oc=5)
+
+---
 
 ### [Blood Biomarker Panel Shows Liver Cancer Potential](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0anVYM2RMMVFrbFF5VHpOWmxOaHA3anJmbjdodUJ2X2RfZkg1UExtcWdlMWJHb0ZsNXUxdFFHU0xjOGg1eG5mQ1lsZmlpRUoxMTFPaXJQMF9WdlZ0OFZ5UzAyNG1GNXpqS09fTmFCT19lYkRYc0E3ZDFQNThiVTRlblpXZ2ZFTXdBZ2h6ZHR3LWRR?oc=5)
 
@@ -50,11 +74,11 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0a
 
 ---
 
-### [Decoding the rules of brain cancer progression](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVV3OHRZWTZQRG9rVGVNb1dCNE9JZ0JhREF5Zjd2SE52QTk0WHk4eWZGalFSbWlzME55T1VLa1l1ZmhZajluQnFSMF85aEcydmpUemdaM0s0enoybVZrcV84dVZ0MDllZXNVdG9fWUZxOTVTSHB2cEt6NzBpWWM5R1doZFVKangwUl9qTVdfWTQ2eUk?oc=5)
+### [Early detection and prompt treatment for cancer provides improved chances of complete cure](https://news.google.com/rss/articles/CBMiugFBVV95cUxNRS1QOVZiV3JUSTFtYzl5aWVXM24xeFJHV3RhRmxRUXpKUmpldHpEMXNvZ2RuMl92ai1odE5uMWxnbDVGWWlfTVpLOENYZzNsazYxSmYwYnFvRkZBSnp0RGFIZngzRTVKNS1iOFJKMjROYWl2Yk9KSnMxejZLUFNTbHR0b0RySVFWN093WU0xdXU2S2pyVzJWNFlFSUpyWl9aOWRYOGxacEdQTTlNQzF2YVlJZzF0cnpGc3c?oc=5)
 
 2026-11-06 <span class="news-indication-tag">cancer</span>
 
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVV3OHRZWTZQRG9rVGVNb1dCNE9JZ0JhREF5Zjd2SE52QTk0WHk4eWZGalFSbWlzME55T1VLa1l1ZmhZajluQnFSMF85aEcydmpUemdaM0s0enoybVZrcV84dVZ0MDllZXNVdG9fWUZxOTVTSHB2cEt6NzBpWWM5R1doZFVKangwUl9qTVdfWTQ2eUk?oc=5)
+Source: [Newspatrolling.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxNRS1QOVZiV3JUSTFtYzl5aWVXM24xeFJHV3RhRmxRUXpKUmpldHpEMXNvZ2RuMl92ai1odE5uMWxnbDVGWWlfTVpLOENYZzNsazYxSmYwYnFvRkZBSnp0RGFIZngzRTVKNS1iOFJKMjROYWl2Yk9KSnMxejZLUFNTbHR0b0RySVFWN093WU0xdXU2S2pyVzJWNFlFSUpyWl9aOWRYOGxacEdQTTlNQzF2YVlJZzF0cnpGc3c?oc=5)
 
 ---
 
@@ -74,19 +98,11 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUx
 
 ---
 
-### [CARE Hospitals Highlights Lung Cancer Awareness and Treatment - Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [Passionate In Marketing](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUjJvcXhWZmczMjFNQUNSQmtSX3VKX09tdURuSjZ6S0ZfdVVxTU9mcXZmWkxxVEh6RDBiNnEwRmpIT28wUkZMSzF0Vm0ta01ubkVOdU5ZVk5lbHFsMlE3LUNFRktTM0twcXE0TjNEYlIwRmpyY1Q0X0tDSlBPX1NleEg3c3htSGlSeXpiRjdRd29iLW9CTDVIZXc2ZjFHTXVQaHNpUUhpSWJWSG5UWkFoZHdNYWJwMmlfVE9TVzRHT051WTJKOXJLNVhlY1RrV0FWMW9BM19malN0YUtRcVh3aWJCcWNvQmRVTm9jOA?oc=5)
-
----
-
-### [Breast cancer begins long before the lump: why diet and lifestyle matter - The Hindu](https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWQtYXBxanVHZ3VkNWxHUVRGV25HYmpYMTdEWXdlSTJMQmN3YXU1NUpjSHB0dTdLeElCMmVtMzV2aGljOGhwNDFuYzhfR0pYTDN6QWMwMm1Dcl8xd0otVWRiR1NsXzhPdEg1ZmtibUJQUWdGS0p3SUJsUy0ySFBROE9LcHd6aVFyemxTM2NpMG5ndmoxRE9BN0MzbkxDMEppNzJJYjMyaGlHN2RfVGszOUhnTVhqbWxwVFFyQ2t6MUJ5Z0syZ3RyM1IxZHLSAdMBQVVfeXFMTTlTYzZIa0JseVFJR2NsaXlrdTg3ZVZfendrbDd4TURSSkRaUEpnY3kzRjBoNk91VlZmbFV5dGI4X1hFNHdVd3A0UmFqYk1ZajFGYnA2akd0c3YyQnU0dUNrVmFKcGtPMnBuSEhHR0tHenV0emI4azVmczFvblpxVk90TTU2MTM5bDh0bXlScG0xQlJqdUdHd2dBUEZIY3ZibUhpeFVhUHQ1amVuOE5MRzNGcF9fMWwwaTZySHdfMHRqcXlkcGw4RjNLUlNYbWQyZzdtMA?oc=5)
+### [ESMO 2026: ADCs Lead Key Breast Cancer Data - Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
 
 2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWQtYXBxanVHZ3VkNWxHUVRGV25HYmpYMTdEWXdlSTJMQmN3YXU1NUpjSHB0dTdLeElCMmVtMzV2aGljOGhwNDFuYzhfR0pYTDN6QWMwMm1Dcl8xd0otVWRiR1NsXzhPdEg1ZmtibUJQUWdGS0p3SUJsUy0ySFBROE9LcHd6aVFyemxTM2NpMG5ndmoxRE9BN0MzbkxDMEppNzJJYjMyaGlHN2RfVGszOUhnTVhqbWxwVFFyQ2t6MUJ5Z0syZ3RyM1IxZHLSAdMBQVVfeXFMTTlTYzZIa0JseVFJR2NsaXlrdTg3ZVZfendrbDd4TURSSkRaUEpnY3kzRjBoNk91VlZmbFV5dGI4X1hFNHdVd3A0UmFqYk1ZajFGYnA2akd0c3YyQnU0dUNrVmFKcGtPMnBuSEhHR0tHenV0emI4azVmczFvblpxVk90TTU2MTM5bDh0bXlScG0xQlJqdUdHd2dBUEZIY3ZibUhpeFVhUHQ1amVuOE5MRzNGcF9fMWwwaTZySHdfMHRqcXlkcGw4RjNLUlNYbWQyZzdtMA?oc=5)
+Source: [Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
 
 ---
 
@@ -95,14 +111,6 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWQtYXB
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [Innovation News Network](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5jTUVMSHlJRFdPbHpRbWFJSTNsWWw3QzlWMjJVcVdWdlFJOEZ2OGJraFl0RDNsMTlXNWdJNC02Z242VWdsbTRFbkttRVIyVlhUMFZwUTBQRHcyTkRhODh4YTcxdTQ4UlAtbzBBMFRUMHBnelNzM05TbEF6dGNFQ0NIWnRPeFhITHY4Tg?oc=5)
-
----
-
-### [Bispecific ADC May Offer New Treatment Option for HR-Positive, HER2-Negative Breast Cancer - The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
 
 ---
 

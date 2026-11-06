@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
+description: "Health news about cardiovascular. 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-06
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,11 +60,11 @@ This page brings together the latest health news about “heart disease” and l
 
 ## Related News (1)
 
-### [Replacing Sodium In Salt With Potassium Could Prevent Lakhs Of Deaths, Disease In India: Study](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWFxQnZpU05VaUctU2JoTFlId3BCQ0YtQ3dqZlZ3RGdVeUlHbW11TWszNEEzTEpvaWVpeXNaQ3ZuVGFnbHFFOW9tTEV1SVlUVzJSRHdwbTdxakpGYUliY1p4S3pjdjM0cDNKMFJlMTd5RVJlcXMyNXFDTHR1MDhoTXRnUlVUQ1NYUnpsZjVGc3lxdjNJQ3R6OFVJZm14anlISGFDWWRzUTdpSHRSRVZKWDl0MnZCRWh4ZUszSFI0emUzbmRhUU5udQ?oc=5)
+### [Could potassium-enriched salt avert 1 in 10 cardiovascular deaths? - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVcwZGh3NXh1eEc3YWlWaTUtSFV2bUVaSEJaa3BFZDVhNjlabTljRnBaalIzRk9wRFQ5UnhtSnViY1gyR3Z4YmtzVU1qanZCRzFaSzFUT2Uwb1p0Z0lkWmg0N2dBby1jUDJmSlNuSHgzaUI1VUo4TUE4bmtJQ2hkQ1k0Q0NETFMtaUdJcVdxcnZEcW5tODRUeWNrd0E4dHRkRFFKNjJLUDM3Vl90RGRGMTJR?oc=5)
 
 2026-11-06
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWFxQnZpU05VaUctU2JoTFlId3BCQ0YtQ3dqZlZ3RGdVeUlHbW11TWszNEEzTEpvaWVpeXNaQ3ZuVGFnbHFFOW9tTEV1SVlUVzJSRHdwbTdxakpGYUliY1p4S3pjdjM0cDNKMFJlMTd5RVJlcXMyNXFDTHR1MDhoTXRnUlVUQ1NYUnpsZjVGc3lxdjNJQ3R6OFVJZm14anlISGFDWWRzUTdpSHRSRVZKWDl0MnZCRWh4ZUszSFI0emUzbmRhUU5udQ?oc=5)
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVcwZGh3NXh1eEc3YWlWaTUtSFV2bUVaSEJaa3BFZDVhNjlabTljRnBaalIzRk9wRFQ5UnhtSnViY1gyR3Z4YmtzVU1qanZCRzFaSzFUT2Uwb1p0Z0lkWmg0N2dBby1jUDJmSlNuSHgzaUI1VUo4TUE4bmtJQ2hkQ1k0Q0NETFMtaUdJcVdxcnZEcW5tODRUeWNrd0E4dHRkRFFKNjJLUDM3Vl90RGRGMTJR?oc=5)
 
 ---
 

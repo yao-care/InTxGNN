@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Bromocriptine. 10 predicted indications."
 permalink: /news/bromocriptine/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Bromocriptine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="What news is there about Bromocriptine?">
-<strong>Bromocriptine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Bromocriptine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 <p><a href="{{ '/drugs/bromocriptine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [GLP-1s Tied to Fewer Psychiatric Hospitalisations in Schizophrenia](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA2WjI3R2ZwQzRTS2NvRmJMN1g0eVZhQVJnRGo2alc3Wm9vY1hUd2RRNFphUG56R2lpV1dfUVRaaUVRYy1zczFUTlB5UEhtczBDaEJuOUlwWGQ5aC1YZTZJaXlUQ2JocGFIN09ERXIzLWxmWnRnenZmQ3liekVlTy15cWhLMXViR3dpVU1YWDhQcklyRDkyRHVwQ0tfamYwaE5LYlJWY3M1Z0g3Q3c?oc=5)
+
+2026-11-06 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA2WjI3R2ZwQzRTS2NvRmJMN1g0eVZhQVJnRGo2alc3Wm9vY1hUd2RRNFphUG56R2lpV1dfUVRaaUVRYy1zczFUTlB5UEhtczBDaEJuOUlwWGQ5aC1YZTZJaXlUQ2JocGFIN09ERXIzLWxmWnRnenZmQ3liekVlTy15cWhLMXViR3dpVU1YWDhQcklyRDkyRHVwQ0tfamYwaE5LYlJWY3M1Z0g3Q3c?oc=5)
+
+---
 
 ### [Risk for Dyslipidemia Spikes Early in Youth on Antipsychotics](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWF1WTJtVjg5UUdVT2o5U3lKei1zWnRNMFNwczhZOHJhZ2pkaDk4TDF3S09HcXFTNS1kMlZzekxVeTRpbDVvSTVucm5uamkwbEd4Y2FTUXdjcExMSVctcnZWbGNTaDR1SHdIUXZ5cHdKQ2Y2QkJwaXJsT1YwTUJ3UVVWOHVUWEY1ZkhBOWRQV1lvbWNPakRyWHYyQ3oxaHRDM19N?oc=5)
 

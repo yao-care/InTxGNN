@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Replacing Sodium In Salt With Potassium Could Prevent Lakhs Of Deaths, Disease In India: Study](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWFxQnZpU05VaUctU2JoTFlId3BCQ0YtQ3dqZlZ3RGdVeUlHbW11TWszNEEzTEpvaWVpeXNaQ3ZuVGFnbHFFOW9tTEV1SVlUVzJSRHdwbTdxakpGYUliY1p4S3pjdjM0cDNKMFJlMTd5RVJlcXMyNXFDTHR1MDhoTXRnUlVUQ1NYUnpsZjVGc3lxdjNJQ3R6OFVJZm14anlISGFDWWRzUTdpSHRSRVZKWDl0MnZCRWh4ZUszSFI0emUzbmRhUU5udQ?oc=5)
+### [Could potassium-enriched salt avert 1 in 10 cardiovascular deaths? - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVcwZGh3NXh1eEc3YWlWaTUtSFV2bUVaSEJaa3BFZDVhNjlabTljRnBaalIzRk9wRFQ5UnhtSnViY1gyR3Z4YmtzVU1qanZCRzFaSzFUT2Uwb1p0Z0lkWmg0N2dBby1jUDJmSlNuSHgzaUI1VUo4TUE4bmtJQ2hkQ1k0Q0NETFMtaUdJcVdxcnZEcW5tODRUeWNrd0E4dHRkRFFKNjJLUDM3Vl90RGRGMTJR?oc=5)
 
-2026-11-06 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-06 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">cardiovascular</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWFxQnZpU05VaUctU2JoTFlId3BCQ0YtQ3dqZlZ3RGdVeUlHbW11TWszNEEzTEpvaWVpeXNaQ3ZuVGFnbHFFOW9tTEV1SVlUVzJSRHdwbTdxakpGYUliY1p4S3pjdjM0cDNKMFJlMTd5RVJlcXMyNXFDTHR1MDhoTXRnUlVUQ1NYUnpsZjVGc3lxdjNJQ3R6OFVJZm14anlISGFDWWRzUTdpSHRSRVZKWDl0MnZCRWh4ZUszSFI0emUzbmRhUU5udQ?oc=5)
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVcwZGh3NXh1eEc3YWlWaTUtSFV2bUVaSEJaa3BFZDVhNjlabTljRnBaalIzRk9wRFQ5UnhtSnViY1gyR3Z4YmtzVU1qanZCRzFaSzFUT2Uwb1p0Z0lkWmg0N2dBby1jUDJmSlNuSHgzaUI1VUo4TUE4bmtJQ2hkQ1k0Q0NETFMtaUdJcVdxcnZEcW5tODRUeWNrd0E4dHRkRFFKNjJLUDM3Vl90RGRGMTJR?oc=5)
+
+---
+
+### [India Leads South East Asia's NTD Elimination Drive, Yet Dengue And Leprosy Cases Surge: Report - ETV Bharat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVwdXlzVklOMG1sNDBBSzM3ZWFuTEhzczdNTXBCWnlzQVhiaFJlaUdjTTNrOFVhUjNmTHNNMV9mSW1XOXBCTnE3UkdlV2lkVG1hVU50dGdwTnBOT0RqQW43Qk4tU0NFMHM5WmJod0ZoX2xTNThHMkoybVJzdkY4R3NLamNvOTBGUWRzVDdjNml6RFg0YktJeGlvWHRlb1AwTE5MakZPTm1OdV9YLUVFeXpJZ1pmZjNLdkRSZkM1ZjY4TGJWZGNLN0txaHM3Q1Jkejk5eVlxMHdEd9IB3wFBVV95cUxONFMxN3VSeUZNOERPRXNlZ3lzX3Q1TXRLVU9ZZkt5STk4RnFNaTRRYzNuaVFfSjZRMTctY3pRREJBeWpOVE9hREZ6MFcwekhJTC1TOU1Eb1VSX3BxQ2MyTXY4eVZEbVZUX0RRR21iOWpxLUMwNjVhMlhoQlNwN241elZ2NldnYk9FbDRVUDVLS3FCWmJKXzdBb09ueTNaM1lKXzJsVDBuUENwOTFfVzNnUDZST1JaZ1R6ZXBOSW4zVnlPd242anB0eFhka19EV1hDc2F1el9JZUEzRFI4bDdB?oc=5)
+
+2026-11-06 <span class="news-indication-tag">leprosy</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVwdXlzVklOMG1sNDBBSzM3ZWFuTEhzczdNTXBCWnlzQVhiaFJlaUdjTTNrOFVhUjNmTHNNMV9mSW1XOXBCTnE3UkdlV2lkVG1hVU50dGdwTnBOT0RqQW43Qk4tU0NFMHM5WmJod0ZoX2xTNThHMkoybVJzdkY4R3NLamNvOTBGUWRzVDdjNml6RFg0YktJeGlvWHRlb1AwTE5MakZPTm1OdV9YLUVFeXpJZ1pmZjNLdkRSZkM1ZjY4TGJWZGNLN0txaHM3Q1Jkejk5eVlxMHdEd9IB3wFBVV95cUxONFMxN3VSeUZNOERPRXNlZ3lzX3Q1TXRLVU9ZZkt5STk4RnFNaTRRYzNuaVFfSjZRMTctY3pRREJBeWpOVE9hREZ6MFcwekhJTC1TOU1Eb1VSX3BxQ2MyTXY4eVZEbVZUX0RRR21iOWpxLUMwNjVhMlhoQlNwN241elZ2NldnYk9FbDRVUDVLS3FCWmJKXzdBb09ueTNaM1lKXzJsVDBuUENwOTFfVzNnUDZST1JaZ1R6ZXBOSW4zVnlPd242anB0eFhka19EV1hDc2F1el9JZUEzRFI4bDdB?oc=5)
 
 ---
 
