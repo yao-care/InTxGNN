@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lorlatinib. 9 predicted indications."
 permalink: /news/lorlatinib/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Lorlatinib News
@@ -83,6 +83,14 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0a
 
 ---
 
+### [New Blood Test Trial Aims to Transform Cancer Diagnosis in NHS - India News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjF5cXpsQ1JWd1RXekREdkQ5UjJ3eENQcXljRXlhdlhlbXVhM1RDamNVUVdpRk1QZTFFdThNRVhPeno3ZXZnU3puZ05Rb1ZMOC1yVUpwTVNFOUktUTBzWnJPai1tVTc3UVVFWEE0enExQjFmbzRyOTF2aGF6TklNM2YzZklxZ05Oa2pTUllKRFpRSDVmck5NQVFGOXd1SlV3aHA4?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjF5cXpsQ1JWd1RXekREdkQ5UjJ3eENQcXljRXlhdlhlbXVhM1RDamNVUVdpRk1QZTFFdThNRVhPeno3ZXZnU3puZ05Rb1ZMOC1yVUpwTVNFOUktUTBzWnJPai1tVTc3UVVFWEE0enExQjFmbzRyOTF2aGF6TklNM2YzZklxZ05Oa2pTUllKRFpRSDVmck5NQVFGOXd1SlV3aHA4?oc=5)
+
+---
+
 ### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
 
 2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
@@ -120,14 +128,6 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUx
 2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
-
----
-
-### [NHS testing new cancer blood test trial - Innovation News Network](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5jTUVMSHlJRFdPbHpRbWFJSTNsWWw3QzlWMjJVcVdWdlFJOEZ2OGJraFl0RDNsMTlXNWdJNC02Z242VWdsbTRFbkttRVIyVlhUMFZwUTBQRHcyTkRhODh4YTcxdTQ4UlAtbzBBMFRUMHBnelNzM05TbEF6dGNFQ0NIWnRPeFhITHY4Tg?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span>
-
-Source: [Innovation News Network](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5jTUVMSHlJRFdPbHpRbWFJSTNsWWw3QzlWMjJVcVdWdlFJOEZ2OGJraFl0RDNsMTlXNWdJNC02Z242VWdsbTRFbkttRVIyVlhUMFZwUTBQRHcyTkRhODh4YTcxdTQ4UlAtbzBBMFRUMHBnelNzM05TbEF6dGNFQ0NIWnRPeFhITHY4Tg?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Doxapram. 10 predicted indications."
 permalink: /news/doxapram/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Doxapram News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 
 ## Related News (1)
 
-### [Could potassium-enriched salt avert 1 in 10 cardiovascular deaths? - Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVcwZGh3NXh1eEc3YWlWaTUtSFV2bUVaSEJaa3BFZDVhNjlabTljRnBaalIzRk9wRFQ5UnhtSnViY1gyR3Z4YmtzVU1qanZCRzFaSzFUT2Uwb1p0Z0lkWmg0N2dBby1jUDJmSlNuSHgzaUI1VUo4TUE4bmtJQ2hkQ1k0Q0NETFMtaUdJcVdxcnZEcW5tODRUeWNrd0E4dHRkRFFKNjJLUDM3Vl90RGRGMTJR?oc=5)
+### [Medical groups create framework to identify women’s cardiovascular risk](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHhldjZyNkRnUFRXVzljODBaYVFTaDZQbjNsMzV5MF9NMzMybzJmejFBZHc2cDM2dF9PakJkd0dhc2Nwc1dKX3hjcnFoNHJ3ZkFGMnlQX0RIaHVqMm1oRFNnOUpGd25NUlNCbDBJd3VtdkFmSTNYRjZ5cmFFSTlfbTJRVkhGTUl3M1RNNjQ0amQxbGR1dy1HekZ4MGFmTjdqNVJiMHhraUxwZi1Ndi1qTXRhVdIBxwFBVV95cUxQeWdyN1FCUFh2d1R6dThud2s2WkpudTJiUUhnS3VybUpXWXZIR19FcUcteUNQVWFCWVBXd0x6UVQ1TTNIOEJrcm9SeFBzYlR5bWFveHo1dU5fZVZHeFo0am8tQldXYXhyNmxkMFJ5S2ZfQlJkQ3BGS20yNHVabXRQQUhuUkF0MHA2eTNvTjZxaV9FSVhMcHRUM2ppOThNQ3lwWXh5WmxiSkx6SVdxNXE2dV9WaFFWd3FXUFQzaGpWX3ZaZ3FtMHRn?oc=5)
 
-2026-11-06 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">cardiovascular</span>
+2026-11-06 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVcwZGh3NXh1eEc3YWlWaTUtSFV2bUVaSEJaa3BFZDVhNjlabTljRnBaalIzRk9wRFQ5UnhtSnViY1gyR3Z4YmtzVU1qanZCRzFaSzFUT2Uwb1p0Z0lkWmg0N2dBby1jUDJmSlNuSHgzaUI1VUo4TUE4bmtJQ2hkQ1k0Q0NETFMtaUdJcVdxcnZEcW5tODRUeWNrd0E4dHRkRFFKNjJLUDM3Vl90RGRGMTJR?oc=5)
+Source: [WIFR](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHhldjZyNkRnUFRXVzljODBaYVFTaDZQbjNsMzV5MF9NMzMybzJmejFBZHc2cDM2dF9PakJkd0dhc2Nwc1dKX3hjcnFoNHJ3ZkFGMnlQX0RIaHVqMm1oRFNnOUpGd25NUlNCbDBJd3VtdkFmSTNYRjZ5cmFFSTlfbTJRVkhGTUl3M1RNNjQ0amQxbGR1dy1HekZ4MGFmTjdqNVJiMHhraUxwZi1Ndi1qTXRhVdIBxwFBVV95cUxQeWdyN1FCUFh2d1R6dThud2s2WkpudTJiUUhnS3VybUpXWXZIR19FcUcteUNQVWFCWVBXd0x6UVQ1TTNIOEJrcm9SeFBzYlR5bWFveHo1dU5fZVZHeFo0am8tQldXYXhyNmxkMFJ5S2ZfQlJkQ3BGS20yNHVabXRQQUhuUkF0MHA2eTNvTjZxaV9FSVhMcHRUM2ppOThNQ3lwWXh5WmxiSkx6SVdxNXE2dV9WaFFWd3FXUFQzaGpWX3ZaZ3FtMHRn?oc=5)
 
 ---
 
