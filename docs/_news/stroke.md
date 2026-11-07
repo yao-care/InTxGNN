@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 2 articles, 15 related drugs."
+description: "Health news about stroke. 1 articles, 15 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
-
-### [‘Diabetes patients tend to lose less weight with GLP-1 drugs than others’ - The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2d2ejAxaTlpZUFBQXBHVDZiSl9rSExnOER6bHUwbmQ2endCbVF2dTA0dHRoa0xrbFJyWXkxRTAtLWNzZlVzbXBSZlAyUTA2Uk5HTGZOMTNRejlXSFVqcmVieDZCTEo3ek5lMWQ5b3VFdjBsRl9CNEtIeDlEWUtwdlMzVXAwd3JVN3V3LU1sXzdDeDBxanAtRlItcFlOZFI1Um5SUDM4YkFRRDJ0dkh4RGVLV2pzOWp3WkpBdl9UdFUtQUotZXhac09JQS1nOGtzM3BOSW1DVdIB3AFBVV95cUxOWjJIT0tpXzlmZ3RKWHFqSUtWdklaOGFnNXd4UGRQanYwSU1IXzREY3FTMmtOcE13RFZxMk44eXJweW93WkZvN3ZVazluYnExRVVWZTdPSjlCXzRoRWdDTEJ4RHVzZ1NuOHVESU1NYVZQbFd2WUVHZDZURmRMdkJFRWFoX2FjNmxuWXBtQ2lXUHdJVDhONmZIZUhGajRDWmF2UXdGQ0pLVmhYQzByZkJuZi1xSTJjRGI0d29PUUszTWpEMndJay1CTFpSNm5jMjZrMGdVUzg5Zm93R1JF?oc=5)
-
-2026-11-04
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2d2ejAxaTlpZUFBQXBHVDZiSl9rSExnOER6bHUwbmQ2endCbVF2dTA0dHRoa0xrbFJyWXkxRTAtLWNzZlVzbXBSZlAyUTA2Uk5HTGZOMTNRejlXSFVqcmVieDZCTEo3ek5lMWQ5b3VFdjBsRl9CNEtIeDlEWUtwdlMzVXAwd3JVN3V3LU1sXzdDeDBxanAtRlItcFlOZFI1Um5SUDM4YkFRRDJ0dkh4RGVLV2pzOWp3WkpBdl9UdFUtQUotZXhac09JQS1nOGtzM3BOSW1DVdIB3AFBVV95cUxOWjJIT0tpXzlmZ3RKWHFqSUtWdklaOGFnNXd4UGRQanYwSU1IXzREY3FTMmtOcE13RFZxMk44eXJweW93WkZvN3ZVazluYnExRVVWZTdPSjlCXzRoRWdDTEJ4RHVzZ1NuOHVESU1NYVZQbFd2WUVHZDZURmRMdkJFRWFoX2FjNmxuWXBtQ2lXUHdJVDhONmZIZUhGajRDWmF2UXdGQ0pLVmhYQzByZkJuZi1xSTJjRGI0d29PUUszTWpEMndJay1CTFpSNm5jMjZrMGdVUzg5Zm93R1JF?oc=5)
-
----
+## Related News (1)
 
 ### [Neurologists explain how to use BEFAST method to recognise a stroke, warning signs and risk factors | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTlZJT19WaHRpV1lLZVJnaElnNklKeU1fOWZVMmI4bU5ZeWdFTlh2TlZXN3F3R2YxcUdzZVFjYjNnSUdNd2M4M3dNbWthLWtLRVlxWGpIcWpqNFpSMTYtaFhObFUxS05NQkh4UlR3Nm01cGNBd0lVZWRsbnQ0NktZZmVDQkZSR2xDZ1llaDF3bUUxa21vRERUMk9EQjBuOVMxSmFQRGlNWGRtczJBdjA1TkNuZ2lpQlJiUVlCM3gxZDRrTTJRbDlISjBZd3AwSTk4NmFkMFVEcjRkaUdMM1JXQnFkTnN3dW5LdTNpZk1ncHhNUzBNWmFlaG9ySdIBgAJBVV95cUxNSjFiOC1nRW12VThjZ1RJYTlFalFwWnN5Tk1WcFRVelR5MjBRRzl4RlVMbWtWaWZ1dk9wSnJZTDhsZ0Y0NzhROGQyM2k3UkZXY0pzV0Zkc3UwbWdqdndtTnZlWW5nRzIyNlN0SUdDRy1MaHNyMnNieVJJUW1WQjZsUl9PZmpRQzZ5V1ZzOHc1SlAwMXI3bGZxTm45c2ZrMlU3N3BsTV9DYlVEcTdybHltc2o0M1luaGtKMjRiQ1B1MWtDM3lsYTJMQ2YxZ0lIRUV2NGxaSkR5RkJDelJ1eHZ6clBmeURtREdMRmk4dzA0UW4tZF9TVE9hMGM4N1RIVDJ2?oc=5)
 

@@ -31,11 +31,11 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 
 ## Related News (2)
 
-### [A promising new medicine against heart disease fails unexpectedly](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGJ0eVlwTncyS0ZrNVlaN1RxNlU1Y3NEVjF0bkJsV0c3bnBWYUpUUS1keW5kSndDNXRMcy03OU9mUTFNcTZISHlFWVE2OURiblJsTGhVSVJBWjhXNkRBNzFDeFVLS3ZOcm55U2VOTVN1TVJGR3BjUVUxR1c4dVVzTmI1T2JGblNtbVNHQTFvWUtvcGtUMGRXbXpINk5LQmlhSkNxQnZyNA?oc=5)
+### [A promising new medicine against heart disease fails unexpectedly - KACU 89.5](https://news.google.com/rss/articles/CBMingFBVV95cUxPYTczQVRiSEJ1aHBaMENrS3VHVXpzX0xGblFrOHI4YUVaUGdXN29HMmdpY0JQaEZwQkhmOXJVTDVVQ3Y4eGw5SU5xV2NnRHh0QVZTSk9IblIxT3pQMjBXcko1czdDMTVEa1pUTTJURzRDZEVaSkt2SDdUOXlkUXp3MlZmRmRQc3YtM3VNNE5LaDZtMHdWQzUzWmJHTU9iUQ?oc=5)
 
-2026-11-07 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+2026-11-07 <span class="news-indication-tag">heart disease</span>
 
-Source: [KGOU](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGJ0eVlwTncyS0ZrNVlaN1RxNlU1Y3NEVjF0bkJsV0c3bnBWYUpUUS1keW5kSndDNXRMcy03OU9mUTFNcTZISHlFWVE2OURiblJsTGhVSVJBWjhXNkRBNzFDeFVLS3ZOcm55U2VOTVN1TVJGR3BjUVUxR1c4dVVzTmI1T2JGblNtbVNHQTFvWUtvcGtUMGRXbXpINk5LQmlhSkNxQnZyNA?oc=5)
+Source: [KACU 89.5](https://news.google.com/rss/articles/CBMingFBVV95cUxPYTczQVRiSEJ1aHBaMENrS3VHVXpzX0xGblFrOHI4YUVaUGdXN29HMmdpY0JQaEZwQkhmOXJVTDVVQ3Y4eGw5SU5xV2NnRHh0QVZTSk9IblIxT3pQMjBXcko1czdDMTVEa1pUTTJURzRDZEVaSkt2SDdUOXlkUXp3MlZmRmRQc3YtM3VNNE5LaDZtMHdWQzUzWmJHTU9iUQ?oc=5)
 
 ---
 
