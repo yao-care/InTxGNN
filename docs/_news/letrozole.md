@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Letrozole?">
-<strong>Letrozole</strong> currently has <strong>11 news articles</strong>, with 4 predicted indications.
+<strong>Letrozole</strong> currently has <strong>12 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,29 @@ This page combines the AI-predicted indications for Letrozole with the latest he
 <p><a href="{{ '/drugs/letrozole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
 
-### [A Lobar Hematoma Mimicking a Brain Tumor in a Patient With Two Mechanical Heart Valves: The Value of Serial Magnetic Resonance Imaging](https://news.google.com/rss/articles/CBMiggJBVV95cUxQNVBXdFlVRGhBelFHa2hjZTlZeTFvTnJ3RDVfN0oyUm5KbjlkWlZsbFhJbGxoLWg5UUgzRU5SbnNYSm1rMDdfWE15cTA4bUdwSXNPTTVoUXBzZFNmelhvWGRuMkh2RngyclpKeHhlSGFHZmZJaFByak9lNDFPYTd5RV9YTEN5ejc1enhvR2tzREx1Zml3Z2lNdWY1UURINGV1ZlZCeE1hQkFkOWNaQ29iWkpwU0luRW13REVmTnBhSGdDTTJHLUMxd1RSMEo1cHdPMW8tLW4tMFhFMHlFQVNDQzFuNkJZNmJvTF9INXA0eWhUTmtWb2NhaWxYQjN6NXhnd0E?oc=5)
+### [National Cancer Awareness Day: Health Minister urges cancer screening and awareness - News On AIR](https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2wtT1R5cjhqaU1qbER0ZUFDd3RrSVltVkZHVVcyQzRBcmwxQ2FRTEU0RUl6SWNaNEFSSGdXMGVyNkp2R1c3SXpMa3lyQzBmeVhrZ19CNEtZMEdQUXd5MHRZMG1EOWpycW51aUlnRERrTEEwQUFfeUdWdlpvdkxVUEJQTGF3Vk81dnlNTkx4eV8za080aHdPMDRWS19WSkJySmhENU1NZFR0OC1j?oc=5)
 
-2026-11-06 <span class="news-indication-tag">tumor</span>
+2026-11-07 <span class="news-indication-tag">cancer</span>
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMiggJBVV95cUxQNVBXdFlVRGhBelFHa2hjZTlZeTFvTnJ3RDVfN0oyUm5KbjlkWlZsbFhJbGxoLWg5UUgzRU5SbnNYSm1rMDdfWE15cTA4bUdwSXNPTTVoUXBzZFNmelhvWGRuMkh2RngyclpKeHhlSGFHZmZJaFByak9lNDFPYTd5RV9YTEN5ejc1enhvR2tzREx1Zml3Z2lNdWY1UURINGV1ZlZCeE1hQkFkOWNaQ29iWkpwU0luRW13REVmTnBhSGdDTTJHLUMxd1RSMEo1cHdPMW8tLW4tMFhFMHlFQVNDQzFuNkJZNmJvTF9INXA0eWhUTmtWb2NhaWxYQjN6NXhnd0E?oc=5)
+Source: [News On AIR](https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2wtT1R5cjhqaU1qbER0ZUFDd3RrSVltVkZHVVcyQzRBcmwxQ2FRTEU0RUl6SWNaNEFSSGdXMGVyNkp2R1c3SXpMa3lyQzBmeVhrZ19CNEtZMEdQUXd5MHRZMG1EOWpycW51aUlnRERrTEEwQUFfeUdWdlpvdkxVUEJQTGF3Vk81dnlNTkx4eV8za080aHdPMDRWS19WSkJySmhENU1NZFR0OC1j?oc=5)
 
 ---
 
-### [Q&A: Could sound waves revolutionize brain tumor treatment? - UVA Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmN0clFHR09nYmNPY3AtRWlVb3BfNXBuZ0RBQWh0cWFNcDlmeDc5ZDVtajN3a0haRkNXQzAwLXpPcXdsV08wSklyUmYzTzRUWVZRekxWMUlUcDd3UEZha0xrWEZMbk53Y0E3UE1rZzdHY0FaandzN1FOM21zQTRscHpYLXBNUU9WNU5VQWRTRHd1RURY?oc=5)
+### [How improving your daily lifestyle can help decrease the risk of endometrial cancer - The Hindu](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXRBZ2dhSHFEUl9MVG11MU0yaEE5OFVDYWRISE1ZR3NxTEotUXZ0UUxjUW5pSDdGV0c3MU10ZkpNTjh4bjR0RHRjSXR5S0VPOHo0VGxlMnBoU19uZlRsVFRTSEFpN2h0OFhLVjEzVlRjZWNINWtqV1kta2h6bEo4RVJhUXZYU2ZOSEhldXVHODZKVHktajk2UU9nWHJ5VDU0RkE2RDlJMi1BaERuWlpYYUd6b0lsSTVsUWRMSmY4NHdIaTJLd2Fvd21pTkdKVVRqYTB4Y1c0cEJraHli0gHjAUFVX3lxTE56ajJqTHVHV1BzNDdzdzkyUXZ0VzJIMnJibENRdFdXVUE5T1pTN2UwV0t0aG9ZSFdvTVpYajF3MF9OQnVxUUhYQTJONW45Z1NzSzNPdGp2bXQ4elJ0ZzE3TmFKLTJlem9LY1BNVU9ISG5HZlVuUlRPdG9CNk1wXzN3T0hRV0piOFlKT2JvbUZwemtJRXI4bGVySzA2ZXFPLWhTOWwxaV9jNWFYbTRDRWx5T3ZtQlA0SkVocUJ6OTRXY0wzbVRmTlM2X1cxa3dodjF6UjBmRV9sWlh3N2ljNjREUTlN?oc=5)
 
-2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span>
+2026-11-07 <span class="news-indication-tag">cancer</span>
 
-Source: [UVA Today](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmN0clFHR09nYmNPY3AtRWlVb3BfNXBuZ0RBQWh0cWFNcDlmeDc5ZDVtajN3a0haRkNXQzAwLXpPcXdsV08wSklyUmYzTzRUWVZRekxWMUlUcDd3UEZha0xrWEZMbk53Y0E3UE1rZzdHY0FaandzN1FOM21zQTRscHpYLXBNUU9WNU5VQWRTRHd1RURY?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXRBZ2dhSHFEUl9MVG11MU0yaEE5OFVDYWRISE1ZR3NxTEotUXZ0UUxjUW5pSDdGV0c3MU10ZkpNTjh4bjR0RHRjSXR5S0VPOHo0VGxlMnBoU19uZlRsVFRTSEFpN2h0OFhLVjEzVlRjZWNINWtqV1kta2h6bEo4RVJhUXZYU2ZOSEhldXVHODZKVHktajk2UU9nWHJ5VDU0RkE2RDlJMi1BaERuWlpYYUd6b0lsSTVsUWRMSmY4NHdIaTJLd2Fvd21pTkdKVVRqYTB4Y1c0cEJraHli0gHjAUFVX3lxTE56ajJqTHVHV1BzNDdzdzkyUXZ0VzJIMnJibENRdFdXVUE5T1pTN2UwV0t0aG9ZSFdvTVpYajF3MF9OQnVxUUhYQTJONW45Z1NzSzNPdGp2bXQ4elJ0ZzE3TmFKLTJlem9LY1BNVU9ISG5HZlVuUlRPdG9CNk1wXzN3T0hRV0piOFlKT2JvbUZwemtJRXI4bGVySzA2ZXFPLWhTOWwxaV9jNWFYbTRDRWx5T3ZtQlA0SkVocUJ6OTRXY0wzbVRmTlM2X1cxa3dodjF6UjBmRV9sWlh3N2ljNjREUTlN?oc=5)
+
+---
+
+### [Mapping somatic mutations in every corner of the genome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZU5sUGxrb2JTUlQ0aEphcUM4NzJSQlNCVmIzdnd2WmdFbjBsTlhDS1RraUdIRFgwbEV0NGFMS2g3LUFRMGxtcEdSZE1TLUMwT2FuVHpVNktKd3B0NW5n?oc=5)
+
+2026-11-06 <span class="news-indication-tag">cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZU5sUGxrb2JTUlQ0aEphcUM4NzJSQlNCVmIzdnd2WmdFbjBsTlhDS1RraUdIRFgwbEV0NGFMS2g3LUFRMGxtcEdSZE1TLUMwT2FuVHpVNktKd3B0NW5n?oc=5)
 
 ---
 
@@ -75,14 +83,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0a
 2026-11-06 <span class="news-indication-tag">cancer</span>
 
 Source: [India News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjF5cXpsQ1JWd1RXekREdkQ5UjJ3eENQcXljRXlhdlhlbXVhM1RDamNVUVdpRk1QZTFFdThNRVhPeno3ZXZnU3puZ05Rb1ZMOC1yVUpwTVNFOUktUTBzWnJPai1tVTc3UVVFWEE0enExQjFmbzRyOTF2aGF6TklNM2YzZklxZ05Oa2pTUllKRFpRSDVmck5NQVFGOXd1SlV3aHA4?oc=5)
-
----
-
-### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
-
-2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
 
 ---
 
@@ -115,6 +115,14 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUx
 2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
 Source: [Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
+
+---
+
+### [Women with DCIS may not need routine imaging after double mastectomy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
+
+2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
 
 ---
 

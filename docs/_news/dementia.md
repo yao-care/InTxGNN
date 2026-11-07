@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "dementia News"
+title: "memory loss (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia. 3 articles, 8 related drugs."
+description: "Health news about memory loss (dementia). 1 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
-# dementia News
+# memory loss (dementia) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about dementia?">
-<strong>dementia</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about memory loss (dementia)?">
+<strong>memory loss (dementia)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “dementia” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “memory loss” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,29 +37,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (1)
 
-### [Association Between Herpes Simplex Virus Type 1 IgG Seropositivity and Dementia at a University Hospital in Bangladesh](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzVrUS0wZ2h5eHVrSFRGTk9sV3NNQW5FTmJaeU93QV9oNnB6ZGNGclB5aXVsb0JaUGxrR3RINmRfT0hSWWZjbExEQkJJLTFWcS14WWVfaVFrNzVyRDhNNGttWGFTdEhPbGZNMTNrM1NqeEU4YTlDWlVNSHpnRGpvNTFzQmJCeGt6UFM4NjFDbEZuZDlENy13OVJvZVVHTW5FXzNqVnAwQVNEbERZMGMycWNWczhPaXE1ZDZBYmdpSVUzWTlrYzNJczlmWDdyOGs3UkJOT0xZVEh5RFhUaVlweW9ub0FKTGlJR055M2Jn?oc=5)
+### [UC Berkeley links lonely deep-sleep waves to early memory loss](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZzYmtZcXI4RTNvbjVLbl9oaXFjbUVibUE0eU91VjVmcTA0ei1fTnVMckVmZW5QWnhzSFYtdENQUjU5R19EWWQzSlhacHFXOHlPTE5TeDJIWVEzYnMtRlZQdzdKQXdqb0ZucVFxMDdtbzNrMGZNZGlqR0xRenRjMVM1S1k4NFpsT0pTSEpqVUQtVUFpeDhEcXBDc0RqV0Y3Qk5DMjAyWGhXMW5YM1E?oc=5)
 
-2026-11-06
+2026-11-05
 
-Source: [Cureus](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMzVrUS0wZ2h5eHVrSFRGTk9sV3NNQW5FTmJaeU93QV9oNnB6ZGNGclB5aXVsb0JaUGxrR3RINmRfT0hSWWZjbExEQkJJLTFWcS14WWVfaVFrNzVyRDhNNGttWGFTdEhPbGZNMTNrM1NqeEU4YTlDWlVNSHpnRGpvNTFzQmJCeGt6UFM4NjFDbEZuZDlENy13OVJvZVVHTW5FXzNqVnAwQVNEbERZMGMycWNWczhPaXE1ZDZBYmdpSVUzWTlrYzNJczlmWDdyOGs3UkJOT0xZVEh5RFhUaVlweW9ub0FKTGlJR055M2Jn?oc=5)
-
----
-
-### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
-
-2026-11-06
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
-
----
-
-### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
-
-2026-11-06
-
-Source: [India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
+Source: [NewsBytes](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZzYmtZcXI4RTNvbjVLbl9oaXFjbUVibUE0eU91VjVmcTA0ei1fTnVMckVmZW5QWnhzSFYtdENQUjU5R19EWWQzSlhacHFXOHlPTE5TeDJIWVEzYnMtRlZQdzdKQXdqb0ZucVFxMDdtbzNrMGZNZGlqR0xRenRjMVM1S1k4NFpsT0pTSEpqVUQtVUFpeDhEcXBDc0RqV0Y3Qk5DMjAyWGhXMW5YM1E?oc=5)
 
 ---
 

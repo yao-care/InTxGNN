@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Iron News
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Iron with the latest health 
 
 ## Related News (1)
 
-### [What the “Ferritin Face” Trend Says About the Future of Beauty](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUZBVE1WMzFxTy1hME4zeXhTd0tySXpWUTZRd01TS2hCTFA1Q1JRdloxNE1reTFkSEh6RkxZemtTM3VHY3EyVTREeGItMWlOZkhNbU85RE5XZXhrOHpvVVNRcDE0Q0w1d09lZkc4bW8xYVIwd1ZCczB0c3pOU2xpOHpHWHNmX2lpRUZWVVFWZDd3STlw?oc=5)
+### [Persistent Anaemia and Double Burden of Malnutrition among Women in India - Economic and Political Weekly](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUpCenJpTVk4ZEk5eEtnQlhHX1hQSGZCRThrUGhxc2duZ0VvVk1oTE4zYUhORVpKcWlqdUhhdmNrOVJ6NldLNnVIMkctbnFBamFaaEY5SUJzMUtfc1JWY3BrQW42QlY4MWZFZVd1T0hPVnJCVWZwUUZ4dHpWbmtMUW9Za252WklCVXo1UkRMOUJkQS1KcVdkb2Fpam5SNElUTUxsUWxXNE4xdw?oc=5)
 
-2026-11-06 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+2026-11-07 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
 
-Source: [Vogue](https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUZBVE1WMzFxTy1hME4zeXhTd0tySXpWUTZRd01TS2hCTFA1Q1JRdloxNE1reTFkSEh6RkxZemtTM3VHY3EyVTREeGItMWlOZkhNbU85RE5XZXhrOHpvVVNRcDE0Q0w1d09lZkc4bW8xYVIwd1ZCczB0c3pOU2xpOHpHWHNmX2lpRUZWVVFWZDd3STlw?oc=5)
+Source: [Economic and Political Weekly](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUpCenJpTVk4ZEk5eEtnQlhHX1hQSGZCRThrUGhxc2duZ0VvVk1oTE4zYUhORVpKcWlqdUhhdmNrOVJ6NldLNnVIMkctbnFBamFaaEY5SUJzMUtfc1JWY3BrQW42QlY4MWZFZVd1T0hPVnJCVWZwUUZ4dHpWbmtMUW9Za252WklCVXo1UkRMOUJkQS1KcVdkb2Fpam5SNElUTUxsUWxXNE4xdw?oc=5)
 
 ---
 

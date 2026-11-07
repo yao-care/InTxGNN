@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Potassium with the latest he
 
 ## Related News (1)
 
-### [Replacing Sodium In Salt With Potassium Could Prevent Lakhs Of Deaths, Disease In India: Study](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWFxQnZpU05VaUctU2JoTFlId3BCQ0YtQ3dqZlZ3RGdVeUlHbW11TWszNEEzTEpvaWVpeXNaQ3ZuVGFnbHFFOW9tTEV1SVlUVzJSRHdwbTdxakpGYUliY1p4S3pjdjM0cDNKMFJlMTd5RVJlcXMyNXFDTHR1MDhoTXRnUlVUQ1NYUnpsZjVGc3lxdjNJQ3R6OFVJZm14anlISGFDWWRzUTdpSHRSRVZKWDl0MnZCRWh4ZUszSFI0emUzbmRhUU5udQ?oc=5)
+### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
-2026-11-06 <span class="news-drug-tag">Potassium</span>
+2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWFxQnZpU05VaUctU2JoTFlId3BCQ0YtQ3dqZlZ3RGdVeUlHbW11TWszNEEzTEpvaWVpeXNaQ3ZuVGFnbHFFOW9tTEV1SVlUVzJSRHdwbTdxakpGYUliY1p4S3pjdjM0cDNKMFJlMTd5RVJlcXMyNXFDTHR1MDhoTXRnUlVUQ1NYUnpsZjVGc3lxdjNJQ3R6OFVJZm14anlISGFDWWRzUTdpSHRSRVZKWDl0MnZCRWh4ZUszSFI0emUzbmRhUU5udQ?oc=5)
+Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
 ---
 

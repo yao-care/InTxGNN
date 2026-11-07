@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about diabetic retinopathy. 1 articles, 4 related drugs."
 permalink: /news/diabetic-retinopathy/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-07
 ---
 
 # diabetic retinopathy News
@@ -34,11 +34,11 @@ This page brings together the latest health news about â€œdiabetic retinopathyâ€
 
 ## Related News (1)
 
-### [Diabetic Retinopathy Threatens the Sight of Millions: Grewal Eye Institute Calls for Early Screening Ahead of World Diabetes Day - :: India News Calling ::](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOXhtQ2RYR0pwMVpFMFNIcHZyREs5eTVoMmVOQWRmN1daeDc0dVVfNGJwcEFqV0lVOURSRXRQZ3hvaXlYb3dKdXdhSWozWE9aX2lzNldrbS1Vd1Y1Mnh0elpnalZBUFpJU0V0dlFmaEU0NGtURDUycGdCdElIMGE0VnRTcWxuLXlSc2pFVHo0TXFtak04SDJGVkxMaHZkdlloWVVuT09GUEFWbmhuajY3b2NiT09BZEczQ1o5SkNkM0VFTldRRkdldDc1LWZQSURnb2hVN3Uxa3IwZlVvcVM3aFBnZw?oc=5)
+### [Diabetic Retinopathy Threatens the Sight of Millions: Grewal Eye Institute Calls for Early Screening Ahead of World Diabetes Day - :: India News Calling ::](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlA2UktxTnllb1V5Y0VGdExxSGx4Vmo2WXV5N2JKUEFkNTktX0pySXIyWmZnLWFOV0ZvRjdyX2VPXzVkOVdJMk9FeldKRE9HVEZMUlE3NG02YTg0Y3lUc2ZuRlFicGhWZWhZaTNPdU9ZNk1wT1U0eXgyZGhacTBaQXk1ZEkxcm5zcHJnUlpoRkprSFAzTzlMcDJZOGRJZ0I5SkVOQk40MTQ0eFpuS0toSzdpVENBRFl6d2gzQkcweDdkRXlmd2xXbXNYbW5EcnNmNGxlc1pmeEhZVFVXczM4cXNMcw?oc=5)
 
 2026-11-04
 
-Source: [:: India News Calling ::](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOXhtQ2RYR0pwMVpFMFNIcHZyREs5eTVoMmVOQWRmN1daeDc0dVVfNGJwcEFqV0lVOURSRXRQZ3hvaXlYb3dKdXdhSWozWE9aX2lzNldrbS1Vd1Y1Mnh0elpnalZBUFpJU0V0dlFmaEU0NGtURDUycGdCdElIMGE0VnRTcWxuLXlSc2pFVHo0TXFtak04SDJGVkxMaHZkdlloWVVuT09GUEFWbmhuajY3b2NiT09BZEczQ1o5SkNkM0VFTldRRkdldDc1LWZQSURnb2hVN3Uxa3IwZlVvcVM3aFBnZw?oc=5)
+Source: [:: India News Calling ::](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlA2UktxTnllb1V5Y0VGdExxSGx4Vmo2WXV5N2JKUEFkNTktX0pySXIyWmZnLWFOV0ZvRjdyX2VPXzVkOVdJMk9FeldKRE9HVEZMUlE3NG02YTg0Y3lUc2ZuRlFicGhWZWhZaTNPdU9ZNk1wT1U0eXgyZGhacTBaQXk1ZEkxcm5zcHJnUlpoRkprSFAzTzlMcDJZOGRJZ0I5SkVOQk40MTQ0eFpuS0toSzdpVENBRFl6d2gzQkcweDdkRXlmd2xXbXNYbW5EcnNmNGxlc1pmeEhZVFVXczM4cXNMcw?oc=5)
 
 ---
 

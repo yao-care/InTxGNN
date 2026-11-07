@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "cardiovascular News"
+title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 1 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-07
 ---
 
-# cardiovascular News
+# heart disease (cardiovascular) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
+<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -60,11 +60,11 @@ This page brings together the latest health news about “cardiovascular” and 
 
 ## Related News (1)
 
-### [Medical groups create framework to identify women’s cardiovascular risk](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHhldjZyNkRnUFRXVzljODBaYVFTaDZQbjNsMzV5MF9NMzMybzJmejFBZHc2cDM2dF9PakJkd0dhc2Nwc1dKX3hjcnFoNHJ3ZkFGMnlQX0RIaHVqMm1oRFNnOUpGd25NUlNCbDBJd3VtdkFmSTNYRjZ5cmFFSTlfbTJRVkhGTUl3M1RNNjQ0amQxbGR1dy1HekZ4MGFmTjdqNVJiMHhraUxwZi1Ndi1qTXRhVdIBxwFBVV95cUxQeWdyN1FCUFh2d1R6dThud2s2WkpudTJiUUhnS3VybUpXWXZIR19FcUcteUNQVWFCWVBXd0x6UVQ1TTNIOEJrcm9SeFBzYlR5bWFveHo1dU5fZVZHeFo0am8tQldXYXhyNmxkMFJ5S2ZfQlJkQ3BGS20yNHVabXRQQUhuUkF0MHA2eTNvTjZxaV9FSVhMcHRUM2ppOThNQ3lwWXh5WmxiSkx6SVdxNXE2dV9WaFFWd3FXUFQzaGpWX3ZaZ3FtMHRn?oc=5)
+### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
-2026-11-06
+2026-11-07
 
-Source: [WIFR](https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHhldjZyNkRnUFRXVzljODBaYVFTaDZQbjNsMzV5MF9NMzMybzJmejFBZHc2cDM2dF9PakJkd0dhc2Nwc1dKX3hjcnFoNHJ3ZkFGMnlQX0RIaHVqMm1oRFNnOUpGd25NUlNCbDBJd3VtdkFmSTNYRjZ5cmFFSTlfbTJRVkhGTUl3M1RNNjQ0amQxbGR1dy1HekZ4MGFmTjdqNVJiMHhraUxwZi1Ndi1qTXRhVdIBxwFBVV95cUxQeWdyN1FCUFh2d1R6dThud2s2WkpudTJiUUhnS3VybUpXWXZIR19FcUcteUNQVWFCWVBXd0x6UVQ1TTNIOEJrcm9SeFBzYlR5bWFveHo1dU5fZVZHeFo0am8tQldXYXhyNmxkMFJ5S2ZfQlJkQ3BGS20yNHVabXRQQUhuUkF0MHA2eTNvTjZxaV9FSVhMcHRUM2ppOThNQ3lwWXh5WmxiSkx6SVdxNXE2dV9WaFFWd3FXUFQzaGpWX3ZaZ3FtMHRn?oc=5)
+Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
 ---
 
