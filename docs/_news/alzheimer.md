@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "alzheimer News"
+title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer. 1 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
 permalink: /news/alzheimer/
 last_modified_at: 2026-11-07
 ---
 
-# alzheimer News
+# dementia (alzheimer) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about alzheimer?">
-<strong>alzheimer</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
+<p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
+<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “alzheimer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “dementia” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -37,13 +37,21 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [UC Berkeley links lonely deep-sleep waves to early memory loss](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZzYmtZcXI4RTNvbjVLbl9oaXFjbUVibUE0eU91VjVmcTA0ei1fTnVMckVmZW5QWnhzSFYtdENQUjU5R19EWWQzSlhacHFXOHlPTE5TeDJIWVEzYnMtRlZQdzdKQXdqb0ZucVFxMDdtbzNrMGZNZGlqR0xRenRjMVM1S1k4NFpsT0pTSEpqVUQtVUFpeDhEcXBDc0RqV0Y3Qk5DMjAyWGhXMW5YM1E?oc=5)
+### [Gut Vesicles May Reveal New Clues to Parkinson's Disease - Technology Networks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGN6TC1ULW5EcVhyTkxqNnhEc3FrSkc2UVFaSVFnZXJBaXdfcGxnRzVIamcxRHV4Qkh0YUt3NVI2aXduaG5KaWJtUE92NWJTUWhFaF9OaWZRQlBvRFg5bVR6cGg3bVdqMHVSZ2JYbTJONDVwaUM1NTRNcGduZzlIc3Utd3ZZblNxM2NuckVjbjRpcXZXNVh1Q0o3YzRNRE1yWlgxamN6R2tJTkpSSWlVaUJIaGFpMVhl?oc=5)
 
-2026-11-05
+2026-11-06
 
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZzYmtZcXI4RTNvbjVLbl9oaXFjbUVibUE0eU91VjVmcTA0ei1fTnVMckVmZW5QWnhzSFYtdENQUjU5R19EWWQzSlhacHFXOHlPTE5TeDJIWVEzYnMtRlZQdzdKQXdqb0ZucVFxMDdtbzNrMGZNZGlqR0xRenRjMVM1S1k4NFpsT0pTSEpqVUQtVUFpeDhEcXBDc0RqV0Y3Qk5DMjAyWGhXMW5YM1E?oc=5)
+Source: [Technology Networks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGN6TC1ULW5EcVhyTkxqNnhEc3FrSkc2UVFaSVFnZXJBaXdfcGxnRzVIamcxRHV4Qkh0YUt3NVI2aXduaG5KaWJtUE92NWJTUWhFaF9OaWZRQlBvRFg5bVR6cGg3bVdqMHVSZ2JYbTJONDVwaUM1NTRNcGduZzlIc3Utd3ZZblNxM2NuckVjbjRpcXZXNVh1Q0o3YzRNRE1yWlgxamN6R2tJTkpSSWlVaUJIaGFpMVhl?oc=5)
+
+---
+
+### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
+
+2026-11-06
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
 
 ---
 

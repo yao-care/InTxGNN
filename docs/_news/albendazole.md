@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>13 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>14 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (14)
 
-### [National Cancer Awareness Day: Health Minister urges cancer screening and awareness - News On AIR](https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2wtT1R5cjhqaU1qbER0ZUFDd3RrSVltVkZHVVcyQzRBcmwxQ2FRTEU0RUl6SWNaNEFSSGdXMGVyNkp2R1c3SXpMa3lyQzBmeVhrZ19CNEtZMEdQUXd5MHRZMG1EOWpycW51aUlnRERrTEEwQUFfeUdWdlpvdkxVUEJQTGF3Vk81dnlNTkx4eV8za080aHdPMDRWS19WSkJySmhENU1NZFR0OC1j?oc=5)
+### [How new genomic tools can help detect rare DNA changes - Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ21oRXl4V0VUd21qbGRiTTlrc25hdVlzX2tQazB5YUFMSTVSOFVVQzBsUEctRHc5Q2x0OHA0dmNiQmMxOU4wajFlcC1IWjRPZnQzSXkzM2V2eGtiZE5nc1k3MjlzSmpJSEtjTEdiVVRxZVVldUN6dHhrWFl4NGl2a0NybjFydU1rMWc?oc=5)
 
 2026-11-07 <span class="news-indication-tag">cancer</span>
 
-Source: [News On AIR](https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2wtT1R5cjhqaU1qbER0ZUFDd3RrSVltVkZHVVcyQzRBcmwxQ2FRTEU0RUl6SWNaNEFSSGdXMGVyNkp2R1c3SXpMa3lyQzBmeVhrZ19CNEtZMEdQUXd5MHRZMG1EOWpycW51aUlnRERrTEEwQUFfeUdWdlpvdkxVUEJQTGF3Vk81dnlNTkx4eV8za080aHdPMDRWS19WSkJySmhENU1NZFR0OC1j?oc=5)
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ21oRXl4V0VUd21qbGRiTTlrc25hdVlzX2tQazB5YUFMSTVSOFVVQzBsUEctRHc5Q2x0OHA0dmNiQmMxOU4wajFlcC1IWjRPZnQzSXkzM2V2eGtiZE5nc1k3MjlzSmpJSEtjTEdiVVRxZVVldUN6dHhrWFl4NGl2a0NybjFydU1rMWc?oc=5)
+
+---
+
+### [How genomics is changing cancer landscape - The Week](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWndZQjNud05YMFk0NmNLbjdmTnRTRmRadm9CMjlYZ0cxc0hVYVctT2FpeC0tOGI3djk0Y2Y0emVtMHYyZjZ0OFdZUlgxLVEyZUJHc3FqejZ2ekZaOUlQbU9wellOYXdOQjJUX2s1NVhyMVB4Mks4eng2V04zbzZSek5jd19sTEJBOEJZZnkyOTJGR3BuS2Vj0gGcAUFVX3lxTFBPVzJocmZwdnMwbFYzVkkzYlVQcUs0elB3NHl0TUM2cHlZN2JVeWY5WW11V1RFR3Q4bDZsamZla1d3QUJtbFRrQ0pfYmZRVTYtWlZCNkhNOTA1NE9zTjdSampjY2VzdEFXNlpYY2lQQ1o2NXFlTG9zT0MtQXowNF9idkFNdi0zcS1WWFlkb0VaaWUwYkY0TFF1clRXVQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [The Week](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWndZQjNud05YMFk0NmNLbjdmTnRTRmRadm9CMjlYZ0cxc0hVYVctT2FpeC0tOGI3djk0Y2Y0emVtMHYyZjZ0OFdZUlgxLVEyZUJHc3FqejZ2ekZaOUlQbU9wellOYXdOQjJUX2s1NVhyMVB4Mks4eng2V04zbzZSek5jd19sTEJBOEJZZnkyOTJGR3BuS2Vj0gGcAUFVX3lxTFBPVzJocmZwdnMwbFYzVkkzYlVQcUs0elB3NHl0TUM2cHlZN2JVeWY5WW11V1RFR3Q4bDZsamZla1d3QUJtbFRrQ0pfYmZRVTYtWlZCNkhNOTA1NE9zTjdSampjY2VzdEFXNlpYY2lQQ1o2NXFlTG9zT0MtQXowNF9idkFNdi0zcS1WWFlkb0VaaWUwYkY0TFF1clRXVQ?oc=5)
+
+---
+
+### [Working Against Your Body Clock: Can Long-Term Night Shifts Increase Cancer Risk? - ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXpaMFJqMHNkby0xc1kyY1ZqTURWU3lDMWxtbGRkNnhvQnY5YzVGQ0k1YksyeklQOUpxSGxiSjA0TndzZ2FGamJfTXFITE5jOEN4OTJ0QkJrZUEyRnNoM2pTYVRxeFczT0h0OVZlQ3BTbm5iaEdFWGFEZlgwekptR3h2QldUMW5lZ05pNzBWNktlaU0yQlVjMGF30gGfAUFVX3lxTE14Z0FzVjNBOEpEVTZHbHFsTEpaNF9WU0VqWmZrZkRKcFpLa0ZXeTBPdkFTSlRSbWtmN2dOalpOTndJMEVKOTJLWFNhWE1WcGVSZ19aaUpISFNJbGdNUW5nRllEaFBHQjlfTFNSbTl3a2M0cFpiM3VUSjdiUklQLVp4QkZUcGpBNHBwcjZVNi03bXZ6RVotZllBRHI5U3c1QQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXpaMFJqMHNkby0xc1kyY1ZqTURWU3lDMWxtbGRkNnhvQnY5YzVGQ0k1YksyeklQOUpxSGxiSjA0TndzZ2FGamJfTXFITE5jOEN4OTJ0QkJrZUEyRnNoM2pTYVRxeFczT0h0OVZlQ3BTbm5iaEdFWGFEZlgwekptR3h2QldUMW5lZ05pNzBWNktlaU0yQlVjMGF30gGfAUFVX3lxTE14Z0FzVjNBOEpEVTZHbHFsTEpaNF9WU0VqWmZrZkRKcFpLa0ZXeTBPdkFTSlRSbWtmN2dOalpOTndJMEVKOTJLWFNhWE1WcGVSZ19aaUpISFNJbGdNUW5nRllEaFBHQjlfTFNSbTl3a2M0cFpiM3VUSjdiUklQLVp4QkZUcGpBNHBwcjZVNi03bXZ6RVotZllBRHI5U3c1QQ?oc=5)
 
 ---
 
@@ -51,19 +67,19 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXRBZ2d
 
 ---
 
-### [Mapping somatic mutations in every corner of the genome](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZU5sUGxrb2JTUlQ0aEphcUM4NzJSQlNCVmIzdnd2WmdFbjBsTlhDS1RraUdIRFgwbEV0NGFMS2g3LUFRMGxtcEdSZE1TLUMwT2FuVHpVNktKd3B0NW5n?oc=5)
-
-2026-11-06 <span class="news-indication-tag">cancer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CZU5sUGxrb2JTUlQ0aEphcUM4NzJSQlNCVmIzdnd2WmdFbjBsTlhDS1RraUdIRFgwbEV0NGFMS2g3LUFRMGxtcEdSZE1TLUMwT2FuVHpVNktKd3B0NW5n?oc=5)
-
----
-
 ### [Lung Cancer Is No Longer Just A Smoker's Disease: Why More Non-Smokers And Women Are At Risk](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2FwbllxX3dqUkJSZXk3T1ZyRzVjU1ZEZTRtT0JBMUdlVlctXzhvY2pYQnpGMUtjQlFPTFdPVElXanRpSFlReFQ2amNWTHNHcmFKSVVBQlFWVl85ZUNOamFNOFppeEthYng2QlJvSVdhRHd0MHk0bHRWbzVIU3RsTTdmbGRVSm54Uzh6dmpJaHBRV2dvaVBpTE4wOVhlamR6NlJ3dFZTelZrWktjLTdYR0FzYVB5RGowYWdFaUNzVHduRE5EbjZPSzU2OWZucWt2TzF3SDBpS2cxQQ?oc=5)
 
 2026-11-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [NDTV](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM2FwbllxX3dqUkJSZXk3T1ZyRzVjU1ZEZTRtT0JBMUdlVlctXzhvY2pYQnpGMUtjQlFPTFdPVElXanRpSFlReFQ2amNWTHNHcmFKSVVBQlFWVl85ZUNOamFNOFppeEthYng2QlJvSVdhRHd0MHk0bHRWbzVIU3RsTTdmbGRVSm54Uzh6dmpJaHBRV2dvaVBpTE4wOVhlamR6NlJ3dFZTelZrWktjLTdYR0FzYVB5RGowYWdFaUNzVHduRE5EbjZPSzU2OWZucWt2TzF3SDBpS2cxQQ?oc=5)
+
+---
+
+### [Gut Vesicles May Reveal New Clues to Parkinson's Disease - Technology Networks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGN6TC1ULW5EcVhyTkxqNnhEc3FrSkc2UVFaSVFnZXJBaXdfcGxnRzVIamcxRHV4Qkh0YUt3NVI2aXduaG5KaWJtUE92NWJTUWhFaF9OaWZRQlBvRFg5bVR6cGg3bVdqMHVSZ2JYbTJONDVwaUM1NTRNcGduZzlIc3Utd3ZZblNxM2NuckVjbjRpcXZXNVh1Q0o3YzRNRE1yWlgxamN6R2tJTkpSSWlVaUJIaGFpMVhl?oc=5)
+
+2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Technology Networks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGN6TC1ULW5EcVhyTkxqNnhEc3FrSkc2UVFaSVFnZXJBaXdfcGxnRzVIamcxRHV4Qkh0YUt3NVI2aXduaG5KaWJtUE92NWJTUWhFaF9OaWZRQlBvRFg5bVR6cGg3bVdqMHVSZ2JYbTJONDVwaUM1NTRNcGduZzlIc3Utd3ZZblNxM2NuckVjbjRpcXZXNVh1Q0o3YzRNRE1yWlgxamN6R2tJTkpSSWlVaUJIaGFpMVhl?oc=5)
 
 ---
 
@@ -80,6 +96,14 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM2tJMTNWOHk0a
 2026-11-06 <span class="news-indication-tag">cancer</span>
 
 Source: [India News Network](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjF5cXpsQ1JWd1RXekREdkQ5UjJ3eENQcXljRXlhdlhlbXVhM1RDamNVUVdpRk1QZTFFdThNRVhPeno3ZXZnU3puZ05Rb1ZMOC1yVUpwTVNFOUktUTBzWnJPai1tVTc3UVVFWEE0enExQjFmbzRyOTF2aGF6TklNM2YzZklxZ05Oa2pTUllKRFpRSDVmck5NQVFGOXd1SlV3aHA4?oc=5)
+
+---
+
+### [Menopause Linked to Brain Changes and Increased Alzheimer's Risk - India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
+
+2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
+
+Source: [India News Network](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmd2bkRjdVREMDh2RnNLSThiM1VWTGZrUnowaDNkbXI1NDhhU1J3V1ZXWHE0MVdwN05wR3dFaThsalRpTFE3WWtqLU5oN1ZmaXlaTEc0aGJFbWU0eXZLRm1sdFZVWFR4ZTNST0p6STU5U1ZZblMxc3dERFlYRXFnRktWbjBxd00zbGRNbFJnMXVxU3BiUnJqLVh4N3NUS293elE?oc=5)
 
 ---
 
@@ -107,22 +131,6 @@ Source: [EIN Presswire](https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUx
 
 ---
 
-### [UC Berkeley links lonely deep-sleep waves to early memory loss](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZzYmtZcXI4RTNvbjVLbl9oaXFjbUVibUE0eU91VjVmcTA0ei1fTnVMckVmZW5QWnhzSFYtdENQUjU5R19EWWQzSlhacHFXOHlPTE5TeDJIWVEzYnMtRlZQdzdKQXdqb0ZucVFxMDdtbzNrMGZNZGlqR0xRenRjMVM1S1k4NFpsT0pTSEpqVUQtVUFpeDhEcXBDc0RqV0Y3Qk5DMjAyWGhXMW5YM1E?oc=5)
-
-2026-11-05 <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">alzheimer</span>
-
-Source: [NewsBytes](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZzYmtZcXI4RTNvbjVLbl9oaXFjbUVibUE0eU91VjVmcTA0ei1fTnVMckVmZW5QWnhzSFYtdENQUjU5R19EWWQzSlhacHFXOHlPTE5TeDJIWVEzYnMtRlZQdzdKQXdqb0ZucVFxMDdtbzNrMGZNZGlqR0xRenRjMVM1S1k4NFpsT0pTSEpqVUQtVUFpeDhEcXBDc0RqV0Y3Qk5DMjAyWGhXMW5YM1E?oc=5)
-
----
-
-### [ESMO 2026: ADCs Lead Key Breast Cancer Data - Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [Oncology News Central](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzdxZ3ZHQ2d6Mkdud3R5dmFrWElYekwyUXIwbWl1ODVYMjlVUEY2WHVRZ1lFRjBPOGw2djIxNG5UX05hVWJaUUMycTNyU0x4ODFUYWVEZFdHSGFBdnJPNzBrMmUzcE9ZQmNhUFZST0otR1k0VDFoWnRiUUVETkFFaFAtSmUxVTV2bFJYQ2xNMHBsdzEtVFN2c2hVUTJXMklMcjlXX2FlZ2Q?oc=5)
-
----
-
 ### [Women with DCIS may not need routine imaging after double mastectomy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
 
 2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
@@ -131,11 +139,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldz
 
 ---
 
-### [Clinician Forum: Addressing Sexuality, Femininity, and “Going Flat” After Mastectomy - Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFgyS0VwcXl3UWFsMkhlRWRoTlpRNnhfVVNRUW9BQU01QnVfMVZrWnk5R290V244MzduM0FaanR2QTBIeWNPODNxd2t4cXRlLUl3YmJaUGVKbzZZaWl0cHJaYzEyTTFDTkU1dDh2SzdTdm9ISFE4OEdHODZneEFzWFF2VTFXb1paQzk2Smw4TVJxX2NJWi02Y1BBcDdxdw?oc=5)
+### [How scientists uncovered a gut bacterium’s role in colon cancer](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWFJEb3VZa19zUFR6enNSdlRVLTVPLXFTNFdHSG9mcG80V3lzYTVRdzVHcWx1TTk3bUszVExtQ2ZhemhTYVV6cmFCSUpQcWJVaWZmNTJTYzNPTlBsOW1QZkxCd0labTNmRVlWR3NpODBBYVM1Qm9ycU5GWkRMTHo4a0dVZTZlZlc4OGFmYkRuQ3BxTmNOa3dSdTRoU1dDNHJKVm9kYWZMMG51NEpNeTRuNHNPR2N4NzlZOFpWNjFCUDhUNmxuN2Z1TER6bjdPUzTSAdYBQVVfeXFMTkU5YzhSTXBaRVNESWxlSmxNanRjT3NTc05McXdpWVBsWDRuZmFqT0hZQmZlSkNQY1RXT0MyMk1KQmZteXNTX1ljNjNRZ2tyQm9iZkk1cVNpajhWX25Ga0h5LWpmdXBnR0pYcVF2b3UyY0JHTXRFME5jdllDMWltU056QUdULTgtanBmT1NLM2UycWN3TTNsZlcxN3pZeGctcTBLZmFZRkY2N3FkeDUzQ2NkU083cE5kUmRHVm94bkpPdFVmN0psZ0hmYnhqbTA0b1VHcV95dw?oc=5)
 
-2026-11-04 <span class="news-indication-tag">cancer</span>
+2026-11-01 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span> <span class="news-indication-tag">colorectal cancer</span>
 
-Source: [Cancer Therapy Advisor](https://news.google.com/rss/articles/CBMingFBVV95cUxOUFgyS0VwcXl3UWFsMkhlRWRoTlpRNnhfVVNRUW9BQU01QnVfMVZrWnk5R290V244MzduM0FaanR2QTBIeWNPODNxd2t4cXRlLUl3YmJaUGVKbzZZaWl0cHJaYzEyTTFDTkU1dDh2SzdTdm9ISFE4OEdHODZneEFzWFF2VTFXb1paQzk2Smw4TVJxX2NJWi02Y1BBcDdxdw?oc=5)
+Source: [BusinessLine](https://news.google.com/rss/articles/CBMizwFBVV95cUxQWFJEb3VZa19zUFR6enNSdlRVLTVPLXFTNFdHSG9mcG80V3lzYTVRdzVHcWx1TTk3bUszVExtQ2ZhemhTYVV6cmFCSUpQcWJVaWZmNTJTYzNPTlBsOW1QZkxCd0labTNmRVlWR3NpODBBYVM1Qm9ycU5GWkRMTHo4a0dVZTZlZlc4OGFmYkRuQ3BxTmNOa3dSdTRoU1dDNHJKVm9kYWZMMG51NEpNeTRuNHNPR2N4NzlZOFpWNjFCUDhUNmxuN2Z1TER6bjdPUzTSAdYBQVVfeXFMTkU5YzhSTXBaRVNESWxlSmxNanRjT3NTc05McXdpWVBsWDRuZmFqT0hZQmZlSkNQY1RXT0MyMk1KQmZteXNTX1ljNjNRZ2tyQm9iZkk1cVNpajhWX25Ga0h5LWpmdXBnR0pYcVF2b3UyY0JHTXRFME5jdllDMWltU056QUdULTgtanBmT1NLM2UycWN3TTNsZlcxN3pZeGctcTBLZmFZRkY2N3FkeDUzQ2NkU083cE5kUmRHVm94bkpPdFVmN0psZ0hmYnhqbTA0b1VHcV95dw?oc=5)
 
 ---
 

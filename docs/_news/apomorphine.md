@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [GLP-1s Tied to Fewer Psychiatric Hospitalisations in Schizophrenia](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA2WjI3R2ZwQzRTS2NvRmJMN1g0eVZhQVJnRGo2alc3Wm9vY1hUd2RRNFphUG56R2lpV1dfUVRaaUVRYy1zczFUTlB5UEhtczBDaEJuOUlwWGQ5aC1YZTZJaXlUQ2JocGFIN09ERXIzLWxmWnRnenZmQ3liekVlTy15cWhLMXViR3dpVU1YWDhQcklyRDkyRHVwQ0tfamYwaE5LYlJWY3M1Z0g3Q3c?oc=5)
 
 2026-11-06 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA2WjI3R2ZwQzRTS2NvRmJMN1g0eVZhQVJnRGo2alc3Wm9vY1hUd2RRNFphUG56R2lpV1dfUVRaaUVRYy1zczFUTlB5UEhtczBDaEJuOUlwWGQ5aC1YZTZJaXlUQ2JocGFIN09ERXIzLWxmWnRnenZmQ3liekVlTy15cWhLMXViR3dpVU1YWDhQcklyRDkyRHVwQ0tfamYwaE5LYlJWY3M1Z0g3Q3c?oc=5)
-
----
-
-### [Several schizophrenia symptoms linked to a single brain signal - Technology Org](https://news.google.com/rss/articles/CBMiowFBVV95cUxObTJNQnZkeTdkUEphQWs3MnJCbWZwRnZ4Y1U5ZERwMkwxZk5PbHphRTVCTVVkcTZOdW9xdENEZ3FXeUtLOFZjNzVCUnlrVFpEVER1SUVVVENrb3VkY2szd3FXTVhRSVJqX212a3p4b3k3MUJNOV9MRDkxZTNDUDRUd1dwUUtzaWhwVWNucmdmNFZGd2hFcUZUa0JOYVNaWlJ4OUNR?oc=5)
-
-2026-11-06 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
-
-Source: [Technology Org](https://news.google.com/rss/articles/CBMiowFBVV95cUxObTJNQnZkeTdkUEphQWs3MnJCbWZwRnZ4Y1U5ZERwMkwxZk5PbHphRTVCTVVkcTZOdW9xdENEZ3FXeUtLOFZjNzVCUnlrVFpEVER1SUVVVENrb3VkY2szd3FXTVhRSVJqX212a3p4b3k3MUJNOV9MRDkxZTNDUDRUd1dwUUtzaWhwVWNucmdmNFZGd2hFcUZUa0JOYVNaWlJ4OUNR?oc=5)
 
 ---
 

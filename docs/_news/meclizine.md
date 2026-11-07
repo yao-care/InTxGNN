@@ -40,19 +40,19 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 
 ## Related News (2)
 
+### [How to biohack flu season and avoid getting sick - Vogue India](https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3dGYXBOcXZfYllURHp5V1paTFlmUHVsUkxnYks0QV81N18zRHUyallOQXl6SU5mVmdidzZQS3IwN1h3RlFUNjZhd01XeFVYRHFFSFdtT2VsSDBpa0JUSHFfaW83NXctMzg3WGJkVFo5M3BSRUN5d0U1aVZ6cnotek1FQQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cold</span>
+
+Source: [Vogue India](https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3dGYXBOcXZfYllURHp5V1paTFlmUHVsUkxnYks0QV81N18zRHUyallOQXl6SU5mVmdidzZQS3IwN1h3RlFUNjZhd01XeFVYRHFFSFdtT2VsSDBpa0JUSHFfaW83NXctMzg3WGJkVFo5M3BSRUN5d0U1aVZ6cnotek1FQQ?oc=5)
+
+---
+
 ### [Winter Baby Care Tips: 4 Essential Ways to Protect Your Little One from Infections - News Arena India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcS1SUnZGUEFMX1ZYTjg4MGZoTTlhTWl2Z1dzTVhFODJmdjRZWDFRVmNxNjBTZlo3UGJpVUxkRkFEeV9zSy1UMTNtLVlOSFFYdDkyaXFCbFpld1FUTlRSQWNFaTkxdU1NbERhZThoLWE4aWthUFBCb0R1MmVOQ3YzMFdvZG1GUVhPQklOcERxQmM1WG5MdkFvNVNiZ19lX2RKVlJGclVGMm1heWFNaF9mZC1rRG1tVUlVSU40QTZqejVoZw?oc=5)
 
 2026-11-06 <span class="news-indication-tag">cold</span>
 
 Source: [News Arena India](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcS1SUnZGUEFMX1ZYTjg4MGZoTTlhTWl2Z1dzTVhFODJmdjRZWDFRVmNxNjBTZlo3UGJpVUxkRkFEeV9zSy1UMTNtLVlOSFFYdDkyaXFCbFpld1FUTlRSQWNFaTkxdU1NbERhZThoLWE4aWthUFBCb0R1MmVOQ3YzMFdvZG1GUVhPQklOcERxQmM1WG5MdkFvNVNiZ19lX2RKVlJGclVGMm1heWFNaF9mZC1rRG1tVUlVSU40QTZqejVoZw?oc=5)
-
----
-
-### [Here’s what to do every day to boost your immune system - The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjRFLXlPek9vdWQxT0s3SkN6QzdoNjJNTFBmeWhHaTJ2MERDZlFpeFFpN1JYX3pXTEdpZkJuTnQ0aDZGME1WM01EdGIzb043YmVsaXVpRVdBZEswRXpjUmpXdmgtVENOQV9jdWVRaHhTY2tXdzlDT2RfZU5JQXo5YWlWNE1zdzJYcDhNRFk5VFRNUGEyZ2JuT3RHWGtEZFM1?oc=5)
-
-2026-11-01 <span class="news-indication-tag">cold</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjRFLXlPek9vdWQxT0s3SkN6QzdoNjJNTFBmeWhHaTJ2MERDZlFpeFFpN1JYX3pXTEdpZkJuTnQ0aDZGME1WM01EdGIzb043YmVsaXVpRVdBZEswRXpjUmpXdmgtVENOQV9jdWVRaHhTY2tXdzlDT2RfZU5JQXo5YWlWNE1zdzJYcDhNRFk5VFRNUGEyZ2JuT3RHWGtEZFM1?oc=5)
 
 ---
 

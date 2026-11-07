@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 1 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [A promising new medicine against heart disease fails unexpectedly](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGJ0eVlwTncyS0ZrNVlaN1RxNlU1Y3NEVjF0bkJsV0c3bnBWYUpUUS1keW5kSndDNXRMcy03OU9mUTFNcTZISHlFWVE2OURiblJsTGhVSVJBWjhXNkRBNzFDeFVLS3ZOcm55U2VOTVN1TVJGR3BjUVUxR1c4dVVzTmI1T2JGblNtbVNHQTFvWUtvcGtUMGRXbXpINk5LQmlhSkNxQnZyNA?oc=5)
+
+2026-11-07
+
+Source: [KGOU](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGJ0eVlwTncyS0ZrNVlaN1RxNlU1Y3NEVjF0bkJsV0c3bnBWYUpUUS1keW5kSndDNXRMcy03OU9mUTFNcTZISHlFWVE2OURiblJsTGhVSVJBWjhXNkRBNzFDeFVLS3ZOcm55U2VOTVN1TVJGR3BjUVUxR1c4dVVzTmI1T2JGblNtbVNHQTFvWUtvcGtUMGRXbXpINk5LQmlhSkNxQnZyNA?oc=5)
+
+---
 
 ### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
