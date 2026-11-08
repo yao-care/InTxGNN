@@ -43,11 +43,11 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 
 ## Related News (1)
 
-### [Why are young adults suffering stroke cases? US study says it has doubled in 3 decades](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkdpSFk4M09WeUpqa0xZMk0tWDJQdFhDaURXcFJ1VENUa3VxYVQ1N2g2ZWJhRzJMOXRvdXJtemJSdTdnQi1uZDFYUHN4TDJkNzY5VGZuUGYtQllRdVBtRjMzdzR0RzZYZmEzMVQ1LVc2OTdXR2pUM1VCLTdQV01LZEQ0U1VrMllfVEtLSHV3YkNQRFdCQ0VhTWR3M19TUGdNLU5LalROSTgxM1puV0FYTEQ1bzB4djR6NVRhUnJxTdIBxAFBVV95cUxQNG9oTW1PX0pIdmt4Nkt1R2l5X2dJZDZvbmZYdVRmQ1JUTUp0YWJTVjFDZFg5TUo5VDlucHBmUXpQcjEwek5hWmtsMTY0N2Y3cHoxMFVYekZNQ0JhdHhkZ0c4Z1RDZDBZX25Pb2hGcm5CT200bE1nblBtc1EteUpzWmpsZC1McGN6ZmpmcU42bkNsUmYxNmJpaGNEM0RiR1BocWZabUFub3hpbmFNRElPaEN0ZjIyeGRqd3Vkcjg3NE1FZ1ZS?oc=5)
+### [Surging Stroke in Young Adults Driven by Ischemic Events](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
 
-2026-11-04 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkdpSFk4M09WeUpqa0xZMk0tWDJQdFhDaURXcFJ1VENUa3VxYVQ1N2g2ZWJhRzJMOXRvdXJtemJSdTdnQi1uZDFYUHN4TDJkNzY5VGZuUGYtQllRdVBtRjMzdzR0RzZYZmEzMVQ1LVc2OTdXR2pUM1VCLTdQV01LZEQ0U1VrMllfVEtLSHV3YkNQRFdCQ0VhTWR3M19TUGdNLU5LalROSTgxM1puV0FYTEQ1bzB4djR6NVRhUnJxTdIBxAFBVV95cUxQNG9oTW1PX0pIdmt4Nkt1R2l5X2dJZDZvbmZYdVRmQ1JUTUp0YWJTVjFDZFg5TUo5VDlucHBmUXpQcjEwek5hWmtsMTY0N2Y3cHoxMFVYekZNQ0JhdHhkZ0c4Z1RDZDBZX25Pb2hGcm5CT200bE1nblBtc1EteUpzWmpsZC1McGN6ZmpmcU42bkNsUmYxNmJpaGNEM0RiR1BocWZabUFub3hpbmFNRElPaEN0ZjIyeGRqd3Vkcjg3NE1FZ1ZS?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
 
 ---
 

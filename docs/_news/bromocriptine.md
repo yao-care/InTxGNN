@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Bromocriptine. 10 predicted indications."
 permalink: /news/bromocriptine/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # Bromocriptine News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 
 ## Related News (1)
 
-### [GLP-1s Tied to Fewer Psychiatric Hospitalisations in Schizophrenia](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA2WjI3R2ZwQzRTS2NvRmJMN1g0eVZhQVJnRGo2alc3Wm9vY1hUd2RRNFphUG56R2lpV1dfUVRaaUVRYy1zczFUTlB5UEhtczBDaEJuOUlwWGQ5aC1YZTZJaXlUQ2JocGFIN09ERXIzLWxmWnRnenZmQ3liekVlTy15cWhLMXViR3dpVU1YWDhQcklyRDkyRHVwQ0tfamYwaE5LYlJWY3M1Z0g3Q3c?oc=5)
+### [GLP-1 Drugs May Help Combat Antipsychotic Weight Gain in Schizophrenia - MedPage Today](https://news.google.com/rss/articles/CBMia0FVX3lxTE1CbWUxeDlUM1VHQ1JiR0FEVmtoUTRyRk1CWC00WDFCTkdWTDVnNHNiLUJQaFpNNktybElWeEFXa2ZnM21pa0dEeVBPcW9TVDdIdDZlekdCX0o4b3VzYUlqMXdoWlZqMlhUcXE4?oc=5)
 
-2026-11-06 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+2026-11-02 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxQelA2WjI3R2ZwQzRTS2NvRmJMN1g0eVZhQVJnRGo2alc3Wm9vY1hUd2RRNFphUG56R2lpV1dfUVRaaUVRYy1zczFUTlB5UEhtczBDaEJuOUlwWGQ5aC1YZTZJaXlUQ2JocGFIN09ERXIzLWxmWnRnenZmQ3liekVlTy15cWhLMXViR3dpVU1YWDhQcklyRDkyRHVwQ0tfamYwaE5LYlJWY3M1Z0g3Q3c?oc=5)
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMia0FVX3lxTE1CbWUxeDlUM1VHQ1JiR0FEVmtoUTRyRk1CWC00WDFCTkdWTDVnNHNiLUJQaFpNNktybElWeEFXa2ZnM21pa0dEeVBPcW9TVDdIdDZlekdCX0o4b3VzYUlqMXdoWlZqMlhUcXE4?oc=5)
 
 ---
 

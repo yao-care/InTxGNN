@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+
+2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+
+---
 
 ### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 

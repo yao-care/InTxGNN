@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 1 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>1 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [Bengal Oncologists Link Passive Smoking, Pollution to Aggressive Lung Cancer Rise - The Times of India](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjBUaGtIUEIyYkVKdWY0eFVwY2ptTmp0VldVNXo0anVzSFVEcWlkTk5ZWDJPMXBicGFDUWI2S0d1MzIxZVNZT0FsSkNKd3Rybjg3UXQ0R05GRzVZd3hxUUhtdEpaYVFXZjdKT0hjbjF0RTdZcWgwU0NFdlNEUUt3MURYT3hjWVpaZDM4Z2s1WGprdGwtdW42VDdudDctckFFSjBkRUM4bVJucS1WVG9oYkptRFV3NFlxaTZnaVNsZFJLc3labHZzVkN5aDJHWlBFZUg3cVpValIwRmhFRUlvb1BDWkVpNU9UNzA00gHwAUFVX3lxTFBnNTNiLXBpT2lJZml3UUlvN3hSQ3JOaTQ1VzdsVmJpd0Y0RWN6UDkybm9YNVVwVjM5NnVMbkk2X056YkFnNXgxVVVEb2pFWGRBbnRqNlZVd0RwOU95UTR3bWN2eU44bXpnZklIQl9weHI5SDJaNklWcXpESVJhVVpPT3RBMTM0QWdlOFFhTFFUUDB1aWxqczEzTU93UGpHc2hUUW13U3B6RUxBa3Z0MmdTYjFVdFZhMGpnS2JXLUVjMUdEXzBBeGNlcWdTUVQ5SjVUR0pCcVV1M2xwZVZEUHNHYkNiM0EyakE2YnVxelRpdw?oc=5)
 
 2026-11-07
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjBUaGtIUEIyYkVKdWY0eFVwY2ptTmp0VldVNXo0anVzSFVEcWlkTk5ZWDJPMXBicGFDUWI2S0d1MzIxZVNZT0FsSkNKd3Rybjg3UXQ0R05GRzVZd3hxUUhtdEpaYVFXZjdKT0hjbjF0RTdZcWgwU0NFdlNEUUt3MURYT3hjWVpaZDM4Z2s1WGprdGwtdW42VDdudDctckFFSjBkRUM4bVJucS1WVG9oYkptRFV3NFlxaTZnaVNsZFJLc3labHZzVkN5aDJHWlBFZUg3cVpValIwRmhFRUlvb1BDWkVpNU9UNzA00gHwAUFVX3lxTFBnNTNiLXBpT2lJZml3UUlvN3hSQ3JOaTQ1VzdsVmJpd0Y0RWN6UDkybm9YNVVwVjM5NnVMbkk2X056YkFnNXgxVVVEb2pFWGRBbnRqNlZVd0RwOU95UTR3bWN2eU44bXpnZklIQl9weHI5SDJaNklWcXpESVJhVVpPT3RBMTM0QWdlOFFhTFFUUDB1aWxqczEzTU93UGpHc2hUUW13U3B6RUxBa3Z0MmdTYjFVdFZhMGpnS2JXLUVjMUdEXzBBeGNlcWdTUVQ5SjVUR0pCcVV1M2xwZVZEUHNHYkNiM0EyakE2YnVxelRpdw?oc=5)
-
----
-
-### [Unprecedented OS with the addition of tarlatamab to first-line maintenance therapy for ES-SCLC](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CN3dscUFlZGZmcUdsWUEyYUtEdTRuVTZCSk1sOXFHODZ2aktMcDBhRFdNcWozZXNiZURHMmZhZTZSbnY0ckdVNmZmNHB2Z2puc3ZBdk9wbXNSSXBabEFZ?oc=5)
-
-2026-11-06
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CN3dscUFlZGZmcUdsWUEyYUtEdTRuVTZCSk1sOXFHODZ2aktMcDBhRFdNcWozZXNiZURHMmZhZTZSbnY0ckdVNmZmNHB2Z2puc3ZBdk9wbXNSSXBabEFZ?oc=5)
 
 ---
 
