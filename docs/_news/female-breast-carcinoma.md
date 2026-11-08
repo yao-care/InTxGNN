@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -48,11 +48,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMi_gFBVV95cU
 
 ---
 
-### [Women with DCIS may not need routine imaging after double mastectomy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
+### [Bispecific ADC May Offer New Treatment Option for HR-Positive, HER2-Negative Breast Cancer - The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
 
-2026-11-05
+2026-11-04
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
+Source: [The ASCO Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDlGLWs4bXk4QUUyTDRCekxlOGNjdUZLUmZhUk8wRE9VRXZrQVhwNFZSMFVOR1E3X0JyUXQwUmhaYUttTzNmMG43SkhScWlVOS12WXNJeF9OMFNuRDU0Um4zS2FOUUdZZ3BQeFRJa3NMajFBNmE1SmlwZFBpS2ptbmdNLTNxVDhqTlozUlFPeW1DalBQWml2RHo2TTRQNG5kbk1ISkRlNGZMV0VEa2g3dkZkenZ3YmxobDMydFpEM1RLWWdLbFd0S2dn?oc=5)
 
 ---
 

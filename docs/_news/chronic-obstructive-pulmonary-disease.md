@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about COPD (chronic obstructive pulmonary disease). 1 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-08
 ---
 
 # COPD (chronic obstructive pulmonary disease) News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “COPD” and lists the 
 
 ## Related News (1)
 
-### [Physician Views In-Depth: Tozorakimab set to both challenge and grow the COPD market - FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVmVxb0FwTC1mLVBGWVFtRHd4cFFQSDZEdzRhM09wcktxMmJtYkI2Rk9VZnZBSzZaMjRkd2d5R0VWYnJzbjBYcENtLVpZNzFkbWRZ?oc=5)
+### [Targeting IL-33 in COPD: Who Benefits and What Remains Unknown](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUG16T1piSy1scWFBY2ItbDNsdHRHc0o3Ukl1Tlg0LXRlTzFrSVRCM3N1NzV4bGFRRm9Hd2JYMmhfb05tZWg2QVBlQnpUa3BhSUpwWjlJeXlGdHVBbWpLT2RhRkVvd0Fub0FOakd4UjdQX1o3M0lWUmlQTERyVDhvU05TM1lrWGlkQ2VlaQ?oc=5)
 
-2026-11-06
+2026-11-07
 
-Source: [FirstWord Pharma](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVmVxb0FwTC1mLVBGWVFtRHd4cFFQSDZEdzRhM09wcktxMmJtYkI2Rk9VZnZBSzZaMjRkd2d5R0VWYnJzbjBYcENtLVpZNzFkbWRZ?oc=5)
+Source: [HCPLive](https://news.google.com/rss/articles/CBMijAFBVV95cUxQUG16T1piSy1scWFBY2ItbDNsdHRHc0o3Ukl1Tlg0LXRlTzFrSVRCM3N1NzV4bGFRRm9Hd2JYMmhfb05tZWg2QVBlQnpUa3BhSUpwWjlJeXlGdHVBbWpLT2RhRkVvd0Fub0FOakd4UjdQX1o3M0lWUmlQTERyVDhvU05TM1lrWGlkQ2VlaQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about dementia (bhoolne ki bimari). 2 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # dementia (bhoolne ki bimari) News
@@ -39,11 +39,11 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (2)
 
-### [Gut Vesicles May Reveal New Clues to Parkinson's Disease - Technology Networks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGN6TC1ULW5EcVhyTkxqNnhEc3FrSkc2UVFaSVFnZXJBaXdfcGxnRzVIamcxRHV4Qkh0YUt3NVI2aXduaG5KaWJtUE92NWJTUWhFaF9OaWZRQlBvRFg5bVR6cGg3bVdqMHVSZ2JYbTJONDVwaUM1NTRNcGduZzlIc3Utd3ZZblNxM2NuckVjbjRpcXZXNVh1Q0o3YzRNRE1yWlgxamN6R2tJTkpSSWlVaUJIaGFpMVhl?oc=5)
+### [Less Than 42 Minutes of Bright Light Daily Is a Stronger Predictor of Dementia Than Obesity, Study Finds](https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmFqbW9CYjlRTGJRYlQ4Qk9YaVBhcjNrZ29XQU45QzAzTXROTi1Yb294eDFDSWJNRGR5NFN1Ym1JUlY3U0I2WEpCRWJ1ZmFUeW41SVVmN1lWdV9pWjl1ZG1KZXlXeEFqTUZvcmNHRTUxbGNoZnNvSjA2RW04cFl4N2ZOMFlkc29RWjFFOU02bHB0N1M0RUV2bkFxUDl6WXFvcnh6SG43NHR5Z3QzR1l2TmZQZDl0dm1xOGxEZFdyQ1RUQnM3WUNORHlYcjg?oc=5)
 
-2026-11-06
+2026-11-07
 
-Source: [Technology Networks](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGN6TC1ULW5EcVhyTkxqNnhEc3FrSkc2UVFaSVFnZXJBaXdfcGxnRzVIamcxRHV4Qkh0YUt3NVI2aXduaG5KaWJtUE92NWJTUWhFaF9OaWZRQlBvRFg5bVR6cGg3bVdqMHVSZ2JYbTJONDVwaUM1NTRNcGduZzlIc3Utd3ZZblNxM2NuckVjbjRpcXZXNVh1Q0o3YzRNRE1yWlgxamN6R2tJTkpSSWlVaUJIaGFpMVhl?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmFqbW9CYjlRTGJRYlQ4Qk9YaVBhcjNrZ29XQU45QzAzTXROTi1Yb294eDFDSWJNRGR5NFN1Ym1JUlY3U0I2WEpCRWJ1ZmFUeW41SVVmN1lWdV9pWjl1ZG1KZXlXeEFqTUZvcmNHRTUxbGNoZnNvSjA2RW04cFl4N2ZOMFlkc29RWjFFOU02bHB0N1M0RUV2bkFxUDl6WXFvcnh6SG43NHR5Z3QzR1l2TmZQZDl0dm1xOGxEZFdyQ1RUQnM3WUNORHlYcjg?oc=5)
 
 ---
 
