@@ -39,27 +39,27 @@ This page combines the AI-predicted indications for Streptokinase with the lates
 
 ## Related News (3)
 
-### [Protecting heart health: Cardiac surgeon reveals which morning habits to avoid, from high-salt breakfast to smoking with tea | Health - Hindustan Times](https://news.google.com/rss/articles/CBMimwJBVV95cUxPNS1iRHBxNmhDaHdXSThEWHVBbDhteFcxSjVrckZWYWsxNU9iOGVadFVYS28tNWxSM1dDZTREZm8zdU94aUpkTjUtOWU5bG1fVDRwd0h1UUFYd2Y4aXFMZTJ6b0FBMmYwZjhJUVFrUldqWjRPMHhiSmxxeWh4dEt5bkljZnJfVEpySE82dnBLYnltMnR0MUlndEQ3SHA0NV9WS29nVVhiYm01OFZkRHNXSG9BcGNDd1ktb05fN1NvMksyZnJLbi0wc09LUTFFOUFJOGVTY211NzFnbTNSRERfRGRyZVNYU296TXdoMW1DZ09INVdmd0RGam5MZFJYbEdQVENrc3VoYVBOWjB3SjFaQlMyRWs3QzI2V3ow0gGgAkFVX3lxTFByUFNLS2lZZzYwemJZNGgydU1iWUFISHlKMzFYUnBhX2c1SFNReTlkbzlKSEhidk1vT3NiLS1LWkRESUN5SmZWMXVsMmJTSmxtaGpUeU5zU3V1MnNqNmRhM3o4RUlvZlNfMzFSSVlRelhLeENEVG9ya3hubU9NbVhYUElwVnl2SF9qeFhhemxzenJTdXloYUd6VUM5M0V4RzhhR2lnTng0NldlMTVXZzNLS185bl9ub0N5eXo4SkFwb1k2VGU3eWJpRWlRMkxSTVZTT2ktYnNKSHhUbDd5dS1yY0RoWDcxT29lTE55b0RjemdXSEFCNnlTLU1fMjNDRVp6VlFhT2Y3UGJDY2VqbllZMGFWV05rNFdqZmZyc2t5Tg?oc=5)
+### [From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
-2026-11-09 <span class="news-indication-tag">heart disease</span>
+2026-11-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">alzheimer</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMimwJBVV95cUxPNS1iRHBxNmhDaHdXSThEWHVBbDhteFcxSjVrckZWYWsxNU9iOGVadFVYS28tNWxSM1dDZTREZm8zdU94aUpkTjUtOWU5bG1fVDRwd0h1UUFYd2Y4aXFMZTJ6b0FBMmYwZjhJUVFrUldqWjRPMHhiSmxxeWh4dEt5bkljZnJfVEpySE82dnBLYnltMnR0MUlndEQ3SHA0NV9WS29nVVhiYm01OFZkRHNXSG9BcGNDd1ktb05fN1NvMksyZnJLbi0wc09LUTFFOUFJOGVTY211NzFnbTNSRERfRGRyZVNYU296TXdoMW1DZ09INVdmd0RGam5MZFJYbEdQVENrc3VoYVBOWjB3SjFaQlMyRWs3QzI2V3ow0gGgAkFVX3lxTFByUFNLS2lZZzYwemJZNGgydU1iWUFISHlKMzFYUnBhX2c1SFNReTlkbzlKSEhidk1vT3NiLS1LWkRESUN5SmZWMXVsMmJTSmxtaGpUeU5zU3V1MnNqNmRhM3o4RUlvZlNfMzFSSVlRelhLeENEVG9ya3hubU9NbVhYUElwVnl2SF9qeFhhemxzenJTdXloYUd6VUM5M0V4RzhhR2lnTng0NldlMTVXZzNLS185bl9ub0N5eXo4SkFwb1k2VGU3eWJpRWlRMkxSTVZTT2ktYnNKSHhUbDd5dS1yY0RoWDcxT29lTE55b0RjemdXSEFCNnlTLU1fMjNDRVp6VlFhT2Y3UGJDY2VqbllZMGFWV05rNFdqZmZyc2t5Tg?oc=5)
-
----
-
-### [Yoga-CaRe: QoL and Functional Gains Seen in HFrEF Patients](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNmUkxZRUhSQnBSS2dDNTFvRG1qelljQklIRm10OHlCWmZZQVRkMjJUN3Rub01LQzc1NjhuTi1BclVUQnlRaW56Qy1xR1o3NTBUeU95dGpQbDRXRXBzYXdLWWtIUzF3eDVOMHlRZUdnTzJTSGt6Z281RGp4MkdHWVJsYUpfMmY3?oc=5)
-
-2026-11-08 <span class="news-indication-tag">cardiovascular</span>
-
-Source: [TCTMD.com](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzNmUkxZRUhSQnBSS2dDNTFvRG1qelljQklIRm10OHlCWmZZQVRkMjJUN3Rub01LQzc1NjhuTi1BclVUQnlRaW56Qy1xR1o3NTBUeU95dGpQbDRXRXBzYXdLWWtIUzF3eDVOMHlRZUdnTzJTSGt6Z281RGp4MkdHWVJsYUpfMmY3?oc=5)
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
 ---
 
-### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+### [Potassium-enriched salt could prevent nearly 3 million deaths a year - The Brighter Side of News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaG1KQW54V1ZOazF5LS1tQnV0a1QtVnBJd0NqdjFUeGN2bjVOa3JVZ0pHdlZQNmQ0RlVVRlZWWXBYYU9KWU9sMEZCeWlENTI4c3V6NVlES2FXWGFvUWVVR21WaGpad2ZwZkdyUl9ONi1SMl95aVhNSkxLZi1NZGJjblpaVWRLS3NXS1docnBoRjNZZ2tlMWJFZUdLVEVCNHlIM2VLLV93enRQOE0?oc=5)
 
-2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
+2026-11-07 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Potassium</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaG1KQW54V1ZOazF5LS1tQnV0a1QtVnBJd0NqdjFUeGN2bjVOa3JVZ0pHdlZQNmQ0RlVVRlZWWXBYYU9KWU9sMEZCeWlENTI4c3V6NVlES2FXWGFvUWVVR21WaGpad2ZwZkdyUl9ONi1SMl95aVhNSkxLZi1NZGJjblpaVWRLS3NXS1docnBoRjNZZ2tlMWJFZUdLVEVCNHlIM2VLLV93enRQOE0?oc=5)
+
+---
+
+### [Can NAD+ Supplements Slow Aging and Extend Life?](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ockRMbjBvLVRCYVQxMU03TUpxLU92V08tVURjMzg2dWxmNlA3eUhPdWpzNk5uNHFGc3B1TWhIYXpOMlpPSFJHeFRQd081M1EwVU1TV3ZMaTZuTGgxRWMyMW5TSEw3R0VqQ0lodGdMeC1hM2dBOWl3SE9XMC1GLTVWRQ?oc=5)
+
+2026-11-04 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
+
+Source: [AARP](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ockRMbjBvLVRCYVQxMU03TUpxLU92V08tVURjMzg2dWxmNlA3eUhPdWpzNk5uNHFGc3B1TWhIYXpOMlpPSFJHeFRQd081M1EwVU1TV3ZMaTZuTGgxRWMyMW5TSEw3R0VqQ0lodGdMeC1hM2dBOWl3SE9XMC1GLTVWRQ?oc=5)
 
 ---
 

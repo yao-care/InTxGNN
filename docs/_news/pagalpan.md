@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about schizophrenia (pagalpan). 1 articles, 2 related drugs."
 permalink: /news/pagalpan/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # schizophrenia (pagalpan) News
@@ -33,11 +33,11 @@ This page brings together the latest health news about “schizophrenia” and l
 
 ## Related News (1)
 
-### [GLP-1 Drugs May Help Combat Antipsychotic Weight Gain in Schizophrenia - MedPage Today](https://news.google.com/rss/articles/CBMia0FVX3lxTE1CbWUxeDlUM1VHQ1JiR0FEVmtoUTRyRk1CWC00WDFCTkdWTDVnNHNiLUJQaFpNNktybElWeEFXa2ZnM21pa0dEeVBPcW9TVDdIdDZlekdCX0o4b3VzYUlqMXdoWlZqMlhUcXE4?oc=5)
+### [The Ozempic Dilemma: Promises and Pitfalls in Psychiatry - Psychiatric Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3ZQM1c1LS1hR21iQmRVUmdmZzVIdjBKbWtMa2JZNmxoVkxVTzYzLUNDSjRJTGhRVmJ4dDNwaERnUVItbENzcHBCWnB6bGxTaDlrS083ZUxrS1VOTzluRE14MG5HREl4bTd5VFZDOU5ObmcyOExfM3RCUFlLNHlEVk1qSzdDWTgyNTBKak9NNm5lUHhPM2lzTA?oc=5)
 
-2026-11-02
+2026-11-04
 
-Source: [MedPage Today](https://news.google.com/rss/articles/CBMia0FVX3lxTE1CbWUxeDlUM1VHQ1JiR0FEVmtoUTRyRk1CWC00WDFCTkdWTDVnNHNiLUJQaFpNNktybElWeEFXa2ZnM21pa0dEeVBPcW9TVDdIdDZlekdCX0o4b3VzYUlqMXdoWlZqMlhUcXE4?oc=5)
+Source: [Psychiatric Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3ZQM1c1LS1hR21iQmRVUmdmZzVIdjBKbWtMa2JZNmxoVkxVTzYzLUNDSjRJTGhRVmJ4dDNwaERnUVItbENzcHBCWnB6bGxTaDlrS083ZUxrS1VOTzluRE14MG5HREl4bTd5VFZDOU5ObmcyOExfM3RCUFlLNHlEVk1qSzdDWTgyNTBKak9NNm5lUHhPM2lzTA?oc=5)
 
 ---
 

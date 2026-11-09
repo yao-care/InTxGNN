@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (3)
 
 ### [Scientists Discover Greenland’s Ice Sheet Once Retreated 60 Miles](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDN2d3BEMml4YUd1V0VwSVkzTFRPV1QwYVJpdDJGbklINE5rSjJSc3V5b3VnR2Q1Y3pSVGpuM0ZWOGtyUmF6ZnVRcmdVVERpbTdlVEJlV3ZqajBUUmtxYXhKWHppdFF1Zm5pTXZneUl3VnVLQVNNUjZOdGxSX1dYdXQ5ZkNMMTNjRzFGQ0h2NFlTaEtD?oc=5)
 
@@ -53,14 +53,6 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDN2
 2026-11-08 <span class="news-indication-tag">cold</span>
 
 Source: [Hindusthan Samachar English](https://news.google.com/rss/articles/CBMikgFBVV95cUxOTG13Z2xoQ1dod2cwQnJjYjctSGMtX1UwNlBtZHhRdldEY3pHNVFZRC1HaVlFTVpTcXZqQ2kwRk1RdkxhOGJQTDk3aFIwZGw4STFwYjFVS3pfd2JzQnNQQmU1a3pJTEg1MVNIeERicWRaRjFRYV81c0RMZTJ6VjhjMUtpX3NhdTF6MG1lNW82SU5wZw?oc=5)
-
----
-
-### [How to biohack flu season and avoid getting sick - Vogue India](https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3dGYXBOcXZfYllURHp5V1paTFlmUHVsUkxnYks0QV81N18zRHUyallOQXl6SU5mVmdidzZQS3IwN1h3RlFUNjZhd01XeFVYRHFFSFdtT2VsSDBpa0JUSHFfaW83NXctMzg3WGJkVFo5M3BSRUN5d0U1aVZ6cnotek1FQQ?oc=5)
-
-2026-11-07 <span class="news-indication-tag">cold</span>
-
-Source: [Vogue India](https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3dGYXBOcXZfYllURHp5V1paTFlmUHVsUkxnYks0QV81N18zRHUyallOQXl6SU5mVmdidzZQS3IwN1h3RlFUNjZhd01XeFVYRHFFSFdtT2VsSDBpa0JUSHFfaW83NXctMzg3WGJkVFo5M3BSRUN5d0U1aVZ6cnotek1FQQ?oc=5)
 
 ---
 
