@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Amodiaquine. 5 predicted indications."
 permalink: /news/amodiaquine/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Amodiaquine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Amodiaquine?">
-<strong>Amodiaquine</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Amodiaquine</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Amodiaquine with the latest 
 <p><a href="{{ '/drugs/amodiaquine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [GLP-1 RAs Improve Patient-Reported Outcomes in Rheumatoid, Psoriatic Arthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3JtcVdrUzVKbGVHTy0zajNGQi0zYlhGMmtDRS1LZHFQZS1hOW51VFFRNFJmMVliOVBwem9xMG5icVYtQVowTjNGV2xuclFLRWlOUU1hV3l1UFNBZUZLN1ZOZzdxWlBCWU1xS2g0MFNjeHRYYVJaUlFsU1o1LWduTXRoU3ZDZkpfZzE2U3R1NTI?oc=5)
+
+2026-11-08 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3JtcVdrUzVKbGVHTy0zajNGQi0zYlhGMmtDRS1LZHFQZS1hOW51VFFRNFJmMVliOVBwem9xMG5icVYtQVowTjNGV2xuclFLRWlOUU1hV3l1UFNBZUZLN1ZOZzdxWlBCWU1xS2g0MFNjeHRYYVJaUlFsU1o1LWduTXRoU3ZDZkpfZzE2U3R1NTI?oc=5)
+
+---
 
 ### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 

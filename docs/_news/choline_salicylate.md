@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Choline Salicylate. 0 predicted indications."
 permalink: /news/choline_salicylate/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Choline Salicylate News
@@ -39,6 +39,14 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQM
 
 ---
 
+### [Beyond the Scan: How AI and Advanced Imaging Are Reshaping Radiology - Voice of Healthcare](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWlKMlo2V0RRLWpzSkUtcGFodmRZOXNuMndDTXUtMEZ0YmZ6WmNheWEyYkkzR3lRS2t1elBrNjVqcFpfU0RDTFdBQndZTDJXbS1XakNEUV9nRWtEZWJmQWN1b1dBLVNxX0tUMjcyZmd2Z3hNQlNFUnhTSkJvS0ZXZXJybi1OY3NQdVV6ODduVmtfZVRJanR4Wm5vT3AxdUV1UHNyaEp0SlNzQjJueU9KMHg4Yi0?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWlKMlo2V0RRLWpzSkUtcGFodmRZOXNuMndDTXUtMEZ0YmZ6WmNheWEyYkkzR3lRS2t1elBrNjVqcFpfU0RDTFdBQndZTDJXbS1XakNEUV9nRWtEZWJmQWN1b1dBLVNxX0tUMjcyZmd2Z3hNQlNFUnhTSkJvS0ZXZXJybi1OY3NQdVV6ODduVmtfZVRJanR4Wm5vT3AxdUV1UHNyaEp0SlNzQjJueU9KMHg4Yi0?oc=5)
+
+---
+
 ### [Looksmaxxing gone wrong: Teenage boys are taking cancer drug to get taller; how ‘heightmaxxing’ may prove - The Times of India](https://news.google.com/rss/articles/CBMipwJBVV95cUxNM0MxSEx3OFNSZEZsMVVoNUFTTk9jRm9GdEw3Nk1GUDJvMW9vOWNBM1UyVEZGT1ZFS2pDUVZnWHRSTTdoR21ZQnBiVF9RM1BpU2pVc3llbWRaYjBTenFiZjdZeE1oSDFTTGdYTllqa2tkNktoTGpaZWRHNlo5NkgxcjFlUnpTNWR2VUVNSkJWcURuNVMtbVFzeUhoNmFjaHVtakxXTG9jMGVRU0RWbU1fTHJ5OTZuMXBndGtmM1JjTWd5VkdLUkJWSF9mOU1jdGpUUnhwcE1vZ3hLdWxmQW9sNmtBNVhlWTBWMHV4d3VSR0tGaFN3UXNoM0dLcXdoTHBocmxnQlMyMTFLTjQtVUl3YlQzYVhVSE5KSE9XODY5a2NoTHN2aUZB0gGsAkFVX3lxTE9sS3l2MUp1UHNyLURqN3Flc21DWW9QZ3Q3bWMwZUFOQjl2MVNXWDJCZmdZcE9sSlRMb0NwN09jV2drOUdmdVlFekUyMWJJLS1jenI2UWFfcE8yazdPZ0lzV0ZITFg3QS04bF9fZnVkeUlwTlFpN3o5Y2M0d2tYYVUyNk9ibmdwajA2S3o4U0ZKZjFic2VfVGFPMG8xcXZGMDFGMWFVT1VGdDBzUUlCS1E2Wko2bXY4V0lybjlETk9mcHdwY096d1FyTEFrcmFMU1NSZHpOVENOMEVMdmFDTXJ5SXZSeS1DTHRpckstY1YwRk9tVzQwT3RGc3Jvb3hZaTZObUlyS1BzOFZjdGpGaEZCbGxKVmZXVENQVEFEVWlyX1lyY1pfNVJuenlNMQ?oc=5)
 
 2026-11-08 <span class="news-indication-tag">cancer</span>
@@ -55,19 +63,19 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi0gFBVV95cU
 
 ---
 
+### [GLP-1 RAs Improve Patient-Reported Outcomes in Rheumatoid, Psoriatic Arthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3JtcVdrUzVKbGVHTy0zajNGQi0zYlhGMmtDRS1LZHFQZS1hOW51VFFRNFJmMVliOVBwem9xMG5icVYtQVowTjNGV2xuclFLRWlOUU1hV3l1UFNBZUZLN1ZOZzdxWlBCWU1xS2g0MFNjeHRYYVJaUlFsU1o1LWduTXRoU3ZDZkpfZzE2U3R1NTI?oc=5)
+
+2026-11-08 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3JtcVdrUzVKbGVHTy0zajNGQi0zYlhGMmtDRS1LZHFQZS1hOW51VFFRNFJmMVliOVBwem9xMG5icVYtQVowTjNGV2xuclFLRWlOUU1hV3l1UFNBZUZLN1ZOZzdxWlBCWU1xS2g0MFNjeHRYYVJaUlFsU1o1LWduTXRoU3ZDZkpfZzE2U3R1NTI?oc=5)
+
+---
+
 ### [Bengal Oncologists Link Passive Smoking, Pollution to Aggressive Lung Cancer Rise - The Times of India](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjBUaGtIUEIyYkVKdWY0eFVwY2ptTmp0VldVNXo0anVzSFVEcWlkTk5ZWDJPMXBicGFDUWI2S0d1MzIxZVNZT0FsSkNKd3Rybjg3UXQ0R05GRzVZd3hxUUhtdEpaYVFXZjdKT0hjbjF0RTdZcWgwU0NFdlNEUUt3MURYT3hjWVpaZDM4Z2s1WGprdGwtdW42VDdudDctckFFSjBkRUM4bVJucS1WVG9oYkptRFV3NFlxaTZnaVNsZFJLc3labHZzVkN5aDJHWlBFZUg3cVpValIwRmhFRUlvb1BDWkVpNU9UNzA00gHwAUFVX3lxTFBnNTNiLXBpT2lJZml3UUlvN3hSQ3JOaTQ1VzdsVmJpd0Y0RWN6UDkybm9YNVVwVjM5NnVMbkk2X056YkFnNXgxVVVEb2pFWGRBbnRqNlZVd0RwOU95UTR3bWN2eU44bXpnZklIQl9weHI5SDJaNklWcXpESVJhVVpPT3RBMTM0QWdlOFFhTFFUUDB1aWxqczEzTU93UGpHc2hUUW13U3B6RUxBa3Z0MmdTYjFVdFZhMGpnS2JXLUVjMUdEXzBBeGNlcWdTUVQ5SjVUR0pCcVV1M2xwZVZEUHNHYkNiM0EyakE2YnVxelRpdw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjBUaGtIUEIyYkVKdWY0eFVwY2ptTmp0VldVNXo0anVzSFVEcWlkTk5ZWDJPMXBicGFDUWI2S0d1MzIxZVNZT0FsSkNKd3Rybjg3UXQ0R05GRzVZd3hxUUhtdEpaYVFXZjdKT0hjbjF0RTdZcWgwU0NFdlNEUUt3MURYT3hjWVpaZDM4Z2s1WGprdGwtdW42VDdudDctckFFSjBkRUM4bVJucS1WVG9oYkptRFV3NFlxaTZnaVNsZFJLc3labHZzVkN5aDJHWlBFZUg3cVpValIwRmhFRUlvb1BDWkVpNU9UNzA00gHwAUFVX3lxTFBnNTNiLXBpT2lJZml3UUlvN3hSQ3JOaTQ1VzdsVmJpd0Y0RWN6UDkybm9YNVVwVjM5NnVMbkk2X056YkFnNXgxVVVEb2pFWGRBbnRqNlZVd0RwOU95UTR3bWN2eU44bXpnZklIQl9weHI5SDJaNklWcXpESVJhVVpPT3RBMTM0QWdlOFFhTFFUUDB1aWxqczEzTU93UGpHc2hUUW13U3B6RUxBa3Z0MmdTYjFVdFZhMGpnS2JXLUVjMUdEXzBBeGNlcWdTUVQ5SjVUR0pCcVV1M2xwZVZEUHNHYkNiM0EyakE2YnVxelRpdw?oc=5)
-
----
-
-### [National Cancer Awareness Day: Early Detection Crucial as India Reports Over 1.4 Million New Cancer Cases Annually - The Indian Practitioner](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZm0zV29CS2RvSnZkLWRRUG9UakFwWHVMcEFBaUZBeE4yeVZKN0k5QlpyQkdpRXlVSW9WaUJObnFWRUlPUkE3ZHRLTlVkMmdheWxMdldXSFRtclpKR0xsSUtDSXp5dnhHSHZKeUItM0MxdXJJZFB5VXFEdkxENU9hSEhCakE0dm5iOHlzXzNiLUxsdjVXel9zMjQ2RXhyY1NabGdPQWZiX1B1VnRGTG5KVmo4M0pLaF82TmVoTlVKeXBwMVJPOHpXUWI3R3BHc0ZOb1lUMW5pTUtXSnRLSHpoUFpB?oc=5)
-
-2026-11-07 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZm0zV29CS2RvSnZkLWRRUG9UakFwWHVMcEFBaUZBeE4yeVZKN0k5QlpyQkdpRXlVSW9WaUJObnFWRUlPUkE3ZHRLTlVkMmdheWxMdldXSFRtclpKR0xsSUtDSXp5dnhHSHZKeUItM0MxdXJJZFB5VXFEdkxENU9hSEhCakE0dm5iOHlzXzNiLUxsdjVXel9zMjQ2RXhyY1NabGdPQWZiX1B1VnRGTG5KVmo4M0pLaF82TmVoTlVKeXBwMVJPOHpXUWI3R3BHc0ZOb1lUMW5pTUtXSnRLSHpoUFpB?oc=5)
 
 ---
 
@@ -100,14 +108,6 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXRBZ2d
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [Innovation News Network](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5jTUVMSHlJRFdPbHpRbWFJSTNsWWw3QzlWMjJVcVdWdlFJOEZ2OGJraFl0RDNsMTlXNWdJNC02Z242VWdsbTRFbkttRVIyVlhUMFZwUTBQRHcyTkRhODh4YTcxdTQ4UlAtbzBBMFRUMHBnelNzM05TbEF6dGNFQ0NIWnRPeFhITHY4Tg?oc=5)
-
----
-
-### [Women with DCIS may not need routine imaging after double mastectomy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
 
 ---
 

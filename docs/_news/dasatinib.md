@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dasatinib. 9 predicted indications."
 permalink: /news/dasatinib/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # Dasatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>11 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>10 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Cancer risk reduction: Oncologist explains why healthy eating is not enough, shares what else matters | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMkoyRm51M0MxQmY5MnlSQ3JjRFJfa0hQekdwYU9RMGwwZnNlZVQwdVIzVGpicm5QNFJoWmdkY1pXNUF0SzFJdVlxRmRMWUpzN2NrRkZ3VlVGYk5JU0VmUjlnMWdhcFQ0RUxQMmtySzFuWjlPUGJZYzBPUF9OeHJnd01qUl8xaFFLUkMxZ1o4dDIzQXhJMUZGSkVNeUpyd1Nvd1FpZUJ0WWoxVXRxVHVfcnRzQnZtQzl6LWlNbG5GWFlyZUFCU2JIaDh0UHlpdnhLaDJTbkptZEdIbF9ZdDNyVVpnd04yN1J0Z2tTUmk0NjZia05ibG1Gci1xYTLSAYICQVVfeXFMTURuc09LZWR4R05vZHZWUlpmR0dObE9NYTlwZ0otQWdZQWhqZ0dQS3lHOW1LaHUySmdUeWRjZFBWa1Q5MkQ5UEtmdXRVaVA2T2JtN0dIWUNiSU5Fei1fNTYzYlZxWlNoTjBzNXFnSEhRWS1FRHh6RjNoaE9aNTJSUXhPNFlLeFBtN1BTbWxsODdTLTF4d2lKTU53TFdtcXI1c1Q5azc4UDg5VE1TWGFkTFNFbi1VRVhhRFBYdVZMTjZIcVptMER1elF4R193Z21BR1gtZjhWTTFRRGRQYzRmMmZFTzZHb1BFZVk3d3pLODVmeFZHem1FMmhld1hnTFk4VUlB?oc=5)
 
 2026-11-08 <span class="news-indication-tag">cancer</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMkoyRm51M0MxQmY5MnlSQ3JjRFJfa0hQekdwYU9RMGwwZnNlZVQwdVIzVGpicm5QNFJoWmdkY1pXNUF0SzFJdVlxRmRMWUpzN2NrRkZ3VlVGYk5JU0VmUjlnMWdhcFQ0RUxQMmtySzFuWjlPUGJZYzBPUF9OeHJnd01qUl8xaFFLUkMxZ1o4dDIzQXhJMUZGSkVNeUpyd1Nvd1FpZUJ0WWoxVXRxVHVfcnRzQnZtQzl6LWlNbG5GWFlyZUFCU2JIaDh0UHlpdnhLaDJTbkptZEdIbF9ZdDNyVVpnd04yN1J0Z2tTUmk0NjZia05ibG1Gci1xYTLSAYICQVVfeXFMTURuc09LZWR4R05vZHZWUlpmR0dObE9NYTlwZ0otQWdZQWhqZ0dQS3lHOW1LaHUySmdUeWRjZFBWa1Q5MkQ5UEtmdXRVaVA2T2JtN0dIWUNiSU5Fei1fNTYzYlZxWlNoTjBzNXFnSEhRWS1FRHh6RjNoaE9aNTJSUXhPNFlLeFBtN1BTbWxsODdTLTF4d2lKTU53TFdtcXI1c1Q5azc4UDg5VE1TWGFkTFNFbi1VRVhhRFBYdVZMTjZIcVptMER1elF4R193Z21BR1gtZjhWTTFRRGRQYzRmMmZFTzZHb1BFZVk3d3pLODVmeFZHem1FMmhld1hnTFk4VUlB?oc=5)
+
+---
+
+### [Beyond the Scan: How AI and Advanced Imaging Are Reshaping Radiology - Voice of Healthcare](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWlKMlo2V0RRLWpzSkUtcGFodmRZOXNuMndDTXUtMEZ0YmZ6WmNheWEyYkkzR3lRS2t1elBrNjVqcFpfU0RDTFdBQndZTDJXbS1XakNEUV9nRWtEZWJmQWN1b1dBLVNxX0tUMjcyZmd2Z3hNQlNFUnhTSkJvS0ZXZXJybi1OY3NQdVV6ODduVmtfZVRJanR4Wm5vT3AxdUV1UHNyaEp0SlNzQjJueU9KMHg4Yi0?oc=5)
+
+2026-11-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Voice of Healthcare](https://news.google.com/rss/articles/CBMitAFBVV95cUxPYWlKMlo2V0RRLWpzSkUtcGFodmRZOXNuMndDTXUtMEZ0YmZ6WmNheWEyYkkzR3lRS2t1elBrNjVqcFpfU0RDTFdBQndZTDJXbS1XakNEUV9nRWtEZWJmQWN1b1dBLVNxX0tUMjcyZmd2Z3hNQlNFUnhTSkJvS0ZXZXJybi1OY3NQdVV6ODduVmtfZVRJanR4Wm5vT3AxdUV1UHNyaEp0SlNzQjJueU9KMHg4Yi0?oc=5)
 
 ---
 
@@ -72,14 +80,6 @@ Source: [The Indian Express](https://news.google.com/rss/articles/CBMi0gFBVV95cU
 2026-11-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjBUaGtIUEIyYkVKdWY0eFVwY2ptTmp0VldVNXo0anVzSFVEcWlkTk5ZWDJPMXBicGFDUWI2S0d1MzIxZVNZT0FsSkNKd3Rybjg3UXQ0R05GRzVZd3hxUUhtdEpaYVFXZjdKT0hjbjF0RTdZcWgwU0NFdlNEUUt3MURYT3hjWVpaZDM4Z2s1WGprdGwtdW42VDdudDctckFFSjBkRUM4bVJucS1WVG9oYkptRFV3NFlxaTZnaVNsZFJLc3labHZzVkN5aDJHWlBFZUg3cVpValIwRmhFRUlvb1BDWkVpNU9UNzA00gHwAUFVX3lxTFBnNTNiLXBpT2lJZml3UUlvN3hSQ3JOaTQ1VzdsVmJpd0Y0RWN6UDkybm9YNVVwVjM5NnVMbkk2X056YkFnNXgxVVVEb2pFWGRBbnRqNlZVd0RwOU95UTR3bWN2eU44bXpnZklIQl9weHI5SDJaNklWcXpESVJhVVpPT3RBMTM0QWdlOFFhTFFUUDB1aWxqczEzTU93UGpHc2hUUW13U3B6RUxBa3Z0MmdTYjFVdFZhMGpnS2JXLUVjMUdEXzBBeGNlcWdTUVQ5SjVUR0pCcVV1M2xwZVZEUHNHYkNiM0EyakE2YnVxelRpdw?oc=5)
-
----
-
-### [National Cancer Awareness Day: Early Detection Crucial as India Reports Over 1.4 Million New Cancer Cases Annually - The Indian Practitioner](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZm0zV29CS2RvSnZkLWRRUG9UakFwWHVMcEFBaUZBeE4yeVZKN0k5QlpyQkdpRXlVSW9WaUJObnFWRUlPUkE3ZHRLTlVkMmdheWxMdldXSFRtclpKR0xsSUtDSXp5dnhHSHZKeUItM0MxdXJJZFB5VXFEdkxENU9hSEhCakE0dm5iOHlzXzNiLUxsdjVXel9zMjQ2RXhyY1NabGdPQWZiX1B1VnRGTG5KVmo4M0pLaF82TmVoTlVKeXBwMVJPOHpXUWI3R3BHc0ZOb1lUMW5pTUtXSnRLSHpoUFpB?oc=5)
-
-2026-11-07 <span class="news-indication-tag">cancer</span>
-
-Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZm0zV29CS2RvSnZkLWRRUG9UakFwWHVMcEFBaUZBeE4yeVZKN0k5QlpyQkdpRXlVSW9WaUJObnFWRUlPUkE3ZHRLTlVkMmdheWxMdldXSFRtclpKR0xsSUtDSXp5dnhHSHZKeUItM0MxdXJJZFB5VXFEdkxENU9hSEhCakE0dm5iOHlzXzNiLUxsdjVXel9zMjQ2RXhyY1NabGdPQWZiX1B1VnRGTG5KVmo4M0pLaF82TmVoTlVKeXBwMVJPOHpXUWI3R3BHc0ZOb1lUMW5pTUtXSnRLSHpoUFpB?oc=5)
 
 ---
 
@@ -112,14 +112,6 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUXRBZ2d
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [Innovation News Network](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5jTUVMSHlJRFdPbHpRbWFJSTNsWWw3QzlWMjJVcVdWdlFJOEZ2OGJraFl0RDNsMTlXNWdJNC02Z242VWdsbTRFbkttRVIyVlhUMFZwUTBQRHcyTkRhODh4YTcxdTQ4UlAtbzBBMFRUMHBnelNzM05TbEF6dGNFQ0NIWnRPeFhITHY4Tg?oc=5)
-
----
-
-### [Women with DCIS may not need routine imaging after double mastectomy](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
-
-2026-11-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUldzc1FGNk11cmNNTzdDa2cwUG0tVldaNEtFQVRrUHZmelg5TFBNUDRlckRvUkZNcmZRTkViTUhRb3FaWVJCUGZ6dU1DUEkwZU5rUHRLVHN0b0I2VGVzTW92LWlCNVptYmVBWjNnVUdCRWl6NjljN0xLN3Z4Ri1GbExCSk5OSVJKd1ZpZVFaRkh0Y1d5ZGs2ZVNSM2VIYXlwX3lLNk04SFVvc25pakpLcWZZanh3MkU?oc=5)
 
 ---
 
