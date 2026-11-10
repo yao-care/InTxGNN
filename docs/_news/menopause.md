@@ -3,9 +3,9 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 1 articles, 23 related drugs."
+description: "Health news about menopause. 2 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # menopause News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [Women with a longer reproductive lifespan show less brain damage, says new study](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdklVTjN0blVXejlOcWh0UDBEQmxoWk9XSGZtV3JJSGwyS1pFMmtJcGI3WHYtTmxUN1hKYnF0U18yNmN3V21CTGc1RTFQbDc5NE1SVzR1ZmRhV2NycXdwWTRYeUpuMDZkWWFveksyeFB2SkZLeXZ2dkNrMmVnQmhiamVEb3nSAYoBQVVfeXFMTlByeHAwdjBFUkwzMzhCMFdwc2JfNmFJVFg1VGpNcEN4YmxwUzZaU25MWHphMnE5aldSTDhybnFUS1Z2OF9TUVM3anB3ak9HTzRaSmxpMXB0QjNnRmtsbWtjMWxKYVgtU1RUTktVQ1A5aDgzT3JVeFlpWjZmdy1ENE12Smk4bmRYdGdn?oc=5)
+### [Testosterone Therapy Doesn't Help Menopause 'Brain Fog,' Review Concludes - U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
 
-2026-11-06
+2026-11-09
 
-Source: [ThePrint](https://news.google.com/rss/articles/CBMihAFBVV95cUxOdklVTjN0blVXejlOcWh0UDBEQmxoWk9XSGZtV3JJSGwyS1pFMmtJcGI3WHYtTmxUN1hKYnF0U18yNmN3V21CTGc1RTFQbDc5NE1SVzR1ZmRhV2NycXdwWTRYeUpuMDZkWWFveksyeFB2SkZLeXZ2dkNrMmVnQmhiamVEb3nSAYoBQVVfeXFMTlByeHAwdjBFUkwzMzhCMFdwc2JfNmFJVFg1VGpNcEN4YmxwUzZaU25MWHphMnE5aldSTDhybnFUS1Z2OF9TUVM3anB3ak9HTzRaSmxpMXB0QjNnRmtsbWtjMWxKYVgtU1RUTktVQ1A5aDgzT3JVeFlpWjZmdy1ENE12Smk4bmRYdGdn?oc=5)
+Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
+
+---
+
+### [Could Menopause Hormone Therapy Help Protect Women’s Brains?](https://news.google.com/rss/articles/CBMifEFVX3lxTE5HRVpDWWFJa1d0clA0aXdTQVpMY09xandQWldBbDltV1UzdFpZWlFVOUtSS0FycTMxbzZWOHdXMjloLUlBTjJpOTd1TFBvOVRUY0xGQTZuUGRZYWtES1JJc2s3WWtIbFFDdjBnOHpkdzVxLUpfUXpoVDVCTnE?oc=5)
+
+2026-11-09
+
+Source: [StudyFinds](https://news.google.com/rss/articles/CBMifEFVX3lxTE5HRVpDWWFJa1d0clA0aXdTQVpMY09xandQWldBbDltV1UzdFpZWlFVOUtSS0FycTMxbzZWOHdXMjloLUlBTjJpOTd1TFBvOVRUY0xGQTZuUGRZYWtES1JJc2s3WWtIbFFDdjBnOHpkdzVxLUpfUXpoVDVCTnE?oc=5)
 
 ---
 

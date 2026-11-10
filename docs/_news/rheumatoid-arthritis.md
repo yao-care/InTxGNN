@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about rheumatoid arthritis. 1 articles, 18 related drugs."
 permalink: /news/rheumatoid-arthritis/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # rheumatoid arthritis News
@@ -48,11 +48,11 @@ This page brings together the latest health news about â€œrheumatoid arthritisâ€
 
 ## Related News (1)
 
-### [GLP-1 RAs Improve Patient-Reported Outcomes in Rheumatoid, Psoriatic Arthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3JtcVdrUzVKbGVHTy0zajNGQi0zYlhGMmtDRS1LZHFQZS1hOW51VFFRNFJmMVliOVBwem9xMG5icVYtQVowTjNGV2xuclFLRWlOUU1hV3l1UFNBZUZLN1ZOZzdxWlBCWU1xS2g0MFNjeHRYYVJaUlFsU1o1LWduTXRoU3ZDZkpfZzE2U3R1NTI?oc=5)
+### [GLP-1 RAs Reduce Joint Replacements, In-Hospital Mortality in Osteoarthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
 
-2026-11-08
+2026-11-09
 
-Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV3JtcVdrUzVKbGVHTy0zajNGQi0zYlhGMmtDRS1LZHFQZS1hOW51VFFRNFJmMVliOVBwem9xMG5icVYtQVowTjNGV2xuclFLRWlOUU1hV3l1UFNBZUZLN1ZOZzdxWlBCWU1xS2g0MFNjeHRYYVJaUlFsU1o1LWduTXRoU3ZDZkpfZzE2U3R1NTI?oc=5)
+Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
 
 ---
 

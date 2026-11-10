@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Potassium. 5 predicted indications."
 permalink: /news/potassium/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Potassium News
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Potassium with the latest he
 
 ## Related News (1)
 
-### [Potassium-enriched salt could prevent nearly 3 million deaths a year - The Brighter Side of News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaG1KQW54V1ZOazF5LS1tQnV0a1QtVnBJd0NqdjFUeGN2bjVOa3JVZ0pHdlZQNmQ0RlVVRlZWWXBYYU9KWU9sMEZCeWlENTI4c3V6NVlES2FXWGFvUWVVR21WaGpad2ZwZkdyUl9ONi1SMl95aVhNSkxLZi1NZGJjblpaVWRLS3NXS1docnBoRjNZZ2tlMWJFZUdLVEVCNHlIM2VLLV93enRQOE0?oc=5)
+### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
-2026-11-07 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Potassium</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">heart disease</span>
+2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaG1KQW54V1ZOazF5LS1tQnV0a1QtVnBJd0NqdjFUeGN2bjVOa3JVZ0pHdlZQNmQ0RlVVRlZWWXBYYU9KWU9sMEZCeWlENTI4c3V6NVlES2FXWGFvUWVVR21WaGpad2ZwZkdyUl9ONi1SMl95aVhNSkxLZi1NZGJjblpaVWRLS3NXS1docnBoRjNZZ2tlMWJFZUdLVEVCNHlIM2VLLV93enRQOE0?oc=5)
+Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
 ---
 

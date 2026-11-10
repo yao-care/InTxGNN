@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ebastine. 2 predicted indications."
 permalink: /news/ebastine/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Ebastine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,29 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
-### [From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
+### [Could a daily supplement keep blood vessels healthier as we age?](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE5LZG5kajhyT1N4UU5rbUtiUGdiU2w1S2xPOHYwdk9ETllSVTlyZFhUblI0TGFrbVFsN0R5Mzh2eFpmNDFaVzh3WWRoNnlZMHN5N1gwaXNZYVlJLXVuZ25VemxRSWliZEVUaVl0RExDdzJhZ0VoSElYWHNVSFd6Y0FsQWVLa3k2bFFEcy1aWmp3cnhJVkxZMkc0NnI5dEtYSGJtOWJsdzZ6ZXBWaU03Qg?oc=5)
 
-2026-11-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">alzheimer</span>
+2026-11-09 <span class="news-indication-tag">cardiovascular</span>
 
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE5LZG5kajhyT1N4UU5rbUtiUGdiU2w1S2xPOHYwdk9ETllSVTlyZFhUblI0TGFrbVFsN0R5Mzh2eFpmNDFaVzh3WWRoNnlZMHN5N1gwaXNZYVlJLXVuZ25VemxRSWliZEVUaVl0RExDdzJhZ0VoSElYWHNVSFd6Y0FsQWVLa3k2bFFEcy1aWmp3cnhJVkxZMkc0NnI5dEtYSGJtOWJsdzZ6ZXBWaU03Qg?oc=5)
 
 ---
 
-### [Potassium-enriched salt could prevent nearly 3 million deaths a year - The Brighter Side of News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaG1KQW54V1ZOazF5LS1tQnV0a1QtVnBJd0NqdjFUeGN2bjVOa3JVZ0pHdlZQNmQ0RlVVRlZWWXBYYU9KWU9sMEZCeWlENTI4c3V6NVlES2FXWGFvUWVVR21WaGpad2ZwZkdyUl9ONi1SMl95aVhNSkxLZi1NZGJjblpaVWRLS3NXS1docnBoRjNZZ2tlMWJFZUdLVEVCNHlIM2VLLV93enRQOE0?oc=5)
+### [Congenital Heart Disease Odds Elevated With Maternal Chronic Hypertension - The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5DV0NDYVVXSWFNVk5jRXBLN24tZTJROXFmNFdZR2p2Z3FDZFFSR3lkZG41Zy16YXFWTEV1RzhkWmVXeUkyOExNWTE3R0x0TGw4T055cnRRUk92dVRuQkZFdl80Q1VvVjRUNU5zbHNwWXNXZDBWRmZnbDRxbUJXajFBMEVCNXdNeDIyUmpLdTZGenFrcnJPWXFzWjljSExvTjM0Tw?oc=5)
 
-2026-11-07 <span class="news-drug-tag">UREA</span> <span class="news-drug-tag">Potassium</span> <span class="news-drug-tag">Urea</span> <span class="news-indication-tag">heart disease</span>
+2026-11-09 <span class="news-indication-tag">heart disease</span>
 
-Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaG1KQW54V1ZOazF5LS1tQnV0a1QtVnBJd0NqdjFUeGN2bjVOa3JVZ0pHdlZQNmQ0RlVVRlZWWXBYYU9KWU9sMEZCeWlENTI4c3V6NVlES2FXWGFvUWVVR21WaGpad2ZwZkdyUl9ONi1SMl95aVhNSkxLZi1NZGJjblpaVWRLS3NXS1docnBoRjNZZ2tlMWJFZUdLVEVCNHlIM2VLLV93enRQOE0?oc=5)
+Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5DV0NDYVVXSWFNVk5jRXBLN24tZTJROXFmNFdZR2p2Z3FDZFFSR3lkZG41Zy16YXFWTEV1RzhkWmVXeUkyOExNWTE3R0x0TGw4T055cnRRUk92dVRuQkZFdl80Q1VvVjRUNU5zbHNwWXNXZDBWRmZnbDRxbUJXajFBMEVCNXdNeDIyUmpLdTZGenFrcnJPWXFzWjljSExvTjM0Tw?oc=5)
+
+---
+
+### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+
+2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
 ---
 

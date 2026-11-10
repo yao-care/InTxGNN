@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Azathioprine News
@@ -31,7 +31,7 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <li>brachydactyly-syndactyly syndrome</li>
 <li>WHIM syndrome</li>
 <li>granulomatous disease, chronic, autosomal recessive, 5</li>
-<li>osteoarthritis</li>
+<li class="indication-matched">osteoarthritis<span class="indication-tag">📰 osteoarthritis</span></li>
 <li>granulomatous disease with defect in neutrophil chemotaxis</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type</li>
 </ul></li>
@@ -41,11 +41,11 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 
 ## Related News (1)
 
-### [IBDome Atlas Maps Inflammatory Bowel Disease Molecular Landscapes](https://news.google.com/rss/articles/CBMigAFBVV95cUxNYnJpazRUbktlWS1xcVJfbFlOM0JLS0ZNRXhYWmMyMDFudEplQmNaV2NwQy1Mc2tkX01qMThidnZBa1Y1QXoyTVhTSWdXZjMweFdTUThETmdxak9rRU5RUXFFaGZCVF9jcVdib3pGNjkwMU5FR05ZZFNKN0RkOXZhRQ?oc=5)
+### [GLP-1 RAs Reduce Joint Replacements, In-Hospital Mortality in Osteoarthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
 
-2026-11-09 <span class="news-indication-tag">inflammatory bowel disease</span>
+2026-11-09 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [DocWireNews](https://news.google.com/rss/articles/CBMigAFBVV95cUxNYnJpazRUbktlWS1xcVJfbFlOM0JLS0ZNRXhYWmMyMDFudEplQmNaV2NwQy1Mc2tkX01qMThidnZBa1Y1QXoyTVhTSWdXZjMweFdTUThETmdxak9rRU5RUXFFaGZCVF9jcVdib3pGNjkwMU5FR05ZZFNKN0RkOXZhRQ?oc=5)
+Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
 
 ---
 

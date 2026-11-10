@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
 permalink: /news/alzheimer/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # dementia (alzheimer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,29 +37,21 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [AI Gut Microbiome Alzheimer Model Points to Two Gut Bacteria - Intelligent Living](https://news.google.com/rss/articles/CBMid0FVX3lxTE5reF9xRV9CRzJ3c1ZPZTVHLXFkQ0kzdXluVS1pWnk4eWpSa0gwc2M1X0hzdzhNbkF5UzZ3R0szSW43ZVlEOHBUanpLclhLbmJUZ0VMbzZiQ1psbW5TRG1PWTBNSTFMMTJobnFWYlVoNDVRX0ZzOHFF?oc=5)
+### [Testosterone Therapy Doesn't Help Menopause 'Brain Fog,' Review Concludes - U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
 
-2026-11-08
+2026-11-09
 
-Source: [Intelligent Living](https://news.google.com/rss/articles/CBMid0FVX3lxTE5reF9xRV9CRzJ3c1ZPZTVHLXFkQ0kzdXluVS1pWnk4eWpSa0gwc2M1X0hzdzhNbkF5UzZ3R0szSW43ZVlEOHBUanpLclhLbmJUZ0VMbzZiQ1psbW5TRG1PWTBNSTFMMTJobnFWYlVoNDVRX0ZzOHFF?oc=5)
-
----
-
-### [Normal-looking sleep can mask memory problems, study suggests - Medical Xpress](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5)
-
-2026-11-07
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMickFVX3lxTFBUZy16YTg3b25nZFRseWNjVGw0dldDc1Z1di1mMkt4TndSclRYUjV5NTdmUU4xZzNkVXQ1QVp4TWRVdldWeDlCcFZTeTMxY1ZKVGNvZW1TeVNETnJUa1NyZFBURF9CaVFKR2tCc0xvQXVCUQ?oc=5)
+Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
 
 ---
 
-### [Five UK research hubs to develop technologies for healthier lives](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
+### [How a once-controversial idea is advancing understanding of Parkinson’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MS1FPX1hWdHZFcl9Sc0g5a2RmR3hsbVNGbUQ4dndWYWtzZW5YbzhQYWYyZ2ZSTUVWLXFCbl9sTkRITzVYbWd0SEh1MGc4dzFoRExVQ2ZfYVJhRmFSVGU4?oc=5)
 
-2026-11-06
+2026-11-04
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MS1FPX1hWdHZFcl9Sc0g5a2RmR3hsbVNGbUQ4dndWYWtzZW5YbzhQYWYyZ2ZSTUVWLXFCbl9sTkRITzVYbWd0SEh1MGc4dzFoRExVQ2ZfYVJhRmFSVGU4?oc=5)
 
 ---
 
