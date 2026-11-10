@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Aprepitant. 10 predicted indications."
 permalink: /news/aprepitant/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-10
 ---
 
 # Aprepitant News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Aprepitant with the latest h
 
 ## Related News (1)
 
-### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
+### [WHO evaluation finds parasite milestones missed - Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
 
-2026-11-05 <span class="news-indication-tag">leprosy</span>
+2026-11-09 <span class="news-indication-tag">leprosy</span>
 
-Source: [NDTV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
+Source: [Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
 
 ---
 

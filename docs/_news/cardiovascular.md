@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,15 +58,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (4)
-
-### [Could a daily supplement keep blood vessels healthier as we age?](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE5LZG5kajhyT1N4UU5rbUtiUGdiU2w1S2xPOHYwdk9ETllSVTlyZFhUblI0TGFrbVFsN0R5Mzh2eFpmNDFaVzh3WWRoNnlZMHN5N1gwaXNZYVlJLXVuZ25VemxRSWliZEVUaVl0RExDdzJhZ0VoSElYWHNVSFd6Y0FsQWVLa3k2bFFEcy1aWmp3cnhJVkxZMkc0NnI5dEtYSGJtOWJsdzZ6ZXBWaU03Qg?oc=5)
-
-2026-11-09
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE5LZG5kajhyT1N4UU5rbUtiUGdiU2w1S2xPOHYwdk9ETllSVTlyZFhUblI0TGFrbVFsN0R5Mzh2eFpmNDFaVzh3WWRoNnlZMHN5N1gwaXNZYVlJLXVuZ25VemxRSWliZEVUaVl0RExDdzJhZ0VoSElYWHNVSFd6Y0FsQWVLa3k2bFFEcy1aWmp3cnhJVkxZMkc0NnI5dEtYSGJtOWJsdzZ6ZXBWaU03Qg?oc=5)
-
----
+## Related News (2)
 
 ### [Congenital Heart Disease Odds Elevated With Maternal Chronic Hypertension - The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5DV0NDYVVXSWFNVk5jRXBLN24tZTJROXFmNFdZR2p2Z3FDZFFSR3lkZG41Zy16YXFWTEV1RzhkWmVXeUkyOExNWTE3R0x0TGw4T055cnRRUk92dVRuQkZFdl80Q1VvVjRUNU5zbHNwWXNXZDBWRmZnbDRxbUJXajFBMEVCNXdNeDIyUmpLdTZGenFrcnJPWXFzWjljSExvTjM0Tw?oc=5)
 
@@ -81,14 +73,6 @@ Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV
 2026-11-07
 
 Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
-
----
-
-### [Can NAD+ Supplements Slow Aging and Extend Life?](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ockRMbjBvLVRCYVQxMU03TUpxLU92V08tVURjMzg2dWxmNlA3eUhPdWpzNk5uNHFGc3B1TWhIYXpOMlpPSFJHeFRQd081M1EwVU1TV3ZMaTZuTGgxRWMyMW5TSEw3R0VqQ0lodGdMeC1hM2dBOWl3SE9XMC1GLTVWRQ?oc=5)
-
-2026-11-04
-
-Source: [AARP](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ockRMbjBvLVRCYVQxMU03TUpxLU92V08tVURjMzg2dWxmNlA3eUhPdWpzNk5uNHFGc3B1TWhIYXpOMlpPSFJHeFRQd081M1EwVU1TV3ZMaTZuTGgxRWMyMW5TSEw3R0VqQ0lodGdMeC1hM2dBOWl3SE9XMC1GLTVWRQ?oc=5)
 
 ---
 

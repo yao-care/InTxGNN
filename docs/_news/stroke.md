@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 3 articles, 15 related drugs."
+description: "Health news about stroke. 1 articles, 15 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,29 +44,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (3)
+## Related News (1)
 
 ### [The stroke risk younger adults may be overlooking—and the symptoms that should never be dismissed - Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGthS2lHRDIyX0dkM05pbDlnSS1QMkcxdDVSZVpKb2toazdPVDd2Zk82eVNTdEhMNXBDanlrVlhodkt3TXppazU1YllUcEl3a0VlNU9fU0szQ1JaV0NDVURrV3IweldIa1ozTEo0VGxUSFR0a2tzS1Z3bG52RXNBelBlbWY1NlVMSXcwWXVKZXEyYjg?oc=5)
 
 2026-11-09
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGthS2lHRDIyX0dkM05pbDlnSS1QMkcxdDVSZVpKb2toazdPVDd2Zk82eVNTdEhMNXBDanlrVlhodkt3TXppazU1YllUcEl3a0VlNU9fU0szQ1JaV0NDVURrV3IweldIa1ozTEo0VGxUSFR0a2tzS1Z3bG52RXNBelBlbWY1NlVMSXcwWXVKZXEyYjg?oc=5)
-
----
-
-### [Column | Your stroke risk is 72 percent higher during these 3 hours of the day - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)
-
-2026-11-09
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOLUtZb0dfOGJYM05Sc19JWTRocFdJQ2c0SG1HbS1JREVpX1ZqUWRZUDYwNE5JX3BRekJKUEFxNkN1bzE0Uy1rcWVsMkZPdmtoQzdCX1RncHdXT2VWakQ3X0R5RW9MNDFfOExOcTgwZHJtN2piZDJjQ2l6RnFpM2YzUWk5Q0NBamdtV0tKajFBdXlMUXVzZlZYQ3RaX2VnUG56WHlhQ2RuOEFCQkNDZU9WR2x5QmI?oc=5)
-
----
-
-### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
-
-2026-11-07
-
-Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Denosumab. 2 predicted indications."
 permalink: /news/denosumab/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-10
 ---
 
 # Denosumab News
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 
 ### [Diabetic Retinopathy Threatens the Sight of Millions: Grewal Eye Institute Calls for Early Screening Ahead of World Diabetes Day - :: India News Calling ::](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlA2UktxTnllb1V5Y0VGdExxSGx4Vmo2WXV5N2JKUEFkNTktX0pySXIyWmZnLWFOV0ZvRjdyX2VPXzVkOVdJMk9FeldKRE9HVEZMUlE3NG02YTg0Y3lUc2ZuRlFicGhWZWhZaTNPdU9ZNk1wT1U0eXgyZGhacTBaQXk1ZEkxcm5zcHJnUlpoRkprSFAzTzlMcDJZOGRJZ0I5SkVOQk40MTQ0eFpuS0toSzdpVENBRFl6d2gzQkcweDdkRXlmd2xXbXNYbW5EcnNmNGxlc1pmeEhZVFVXczM4cXNMcw?oc=5)
 
-2026-11-04 <span class="news-indication-tag">diabetic retinopathy</span>
+2026-11-04 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
 
 Source: [:: India News Calling ::](https://news.google.com/rss/articles/CBMi4wFBVV95cUxONlA2UktxTnllb1V5Y0VGdExxSGx4Vmo2WXV5N2JKUEFkNTktX0pySXIyWmZnLWFOV0ZvRjdyX2VPXzVkOVdJMk9FeldKRE9HVEZMUlE3NG02YTg0Y3lUc2ZuRlFicGhWZWhZaTNPdU9ZNk1wT1U0eXgyZGhacTBaQXk1ZEkxcm5zcHJnUlpoRkprSFAzTzlMcDJZOGRJZ0I5SkVOQk40MTQ0eFpuS0toSzdpVENBRFl6d2gzQkcweDdkRXlmd2xXbXNYbW5EcnNmNGxlc1pmeEhZVFVXczM4cXNMcw?oc=5)
 

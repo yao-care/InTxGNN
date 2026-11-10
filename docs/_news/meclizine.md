@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,21 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [New COVID-19 Variant PJ.2.1 Spreads Globally: WHO Says Symptoms Resemble Cold, Flu - Health and Me](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkZjMDg5QW1XUE5RVm1MMzEzSUx0aHN2TVotMC13cTdwc2ZaeUNpQUM3UDA3WHBpYmNRNjM2NU5ybFllNFRFS3lqekhNWlh2aXlUQTBLdUtaZHluc3h0NUZBR0FCRU9RMDlzalYycXVpajBPb1RmbFpLVnVxTW5xWXlXcWpaMk1BRzVFci1NNFJHWHBOcExxZnVlczVUeVM1MGVrTzNqLXpSYkVJVDk2SEZ1Uk91dnlBQldVdENwNWhocmlEYjg3b2lhNi02LXhOVzRwYQ?oc=5)
+### [Persistent cough for 3 weeks or more: Is it pollution, asthma, pneumonia or TB?](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcW9va3JMTW5HdU9kMnZOZFg2S0dZLWhESGlVdFNjWVNFd1JUZnpCRFI4Z2lWSDNBaXgwaDU2V29OaHpGVkZ3N3ZTRnlveXFxWDYwYml6Q2JLdTJwNkZ3MjdkaFZrTm1jQ24tT3BLQ3AxVnhRcVJfUGFCMjlCMUxzNDZ0WXMtNVhUMExBeEJsQjNRcU9XUkhpTW4zYUF5MVpGd2gwOWNGaEVnSEJQUDZ0S25PMy05Z0xSSlB1Q3QtYkgzVjTSAcgBQVVfeXFMTlhWMEJrTDVFemlwUzM0T2doXy1ralZ6aUZmVlhuMGEzekFNby1LbWFMOE1Wcnh4YzJ2SHVEYVo3Ung3MXM4RDdoaGM5THIxZ3QxaFZuMUtqTkFfMlh4SDItWmREb1FtNWtmZzMtb211T2xNVDFUeTdFLUhnZWZqMnF3OWk4WENud0swVlpNbUMwUkdsTHRSSVloU1hPRmRvYnd1Y1EwZ0k4SFN3SFloeEQzRWFPRXdHdjgyMkVoOTRUa3hCam5BQW0?oc=5)
 
-2026-11-09 <span class="news-indication-tag">common cold</span> <span class="news-indication-tag">cold</span> <span class="news-indication-tag">common cold</span> <span class="news-indication-tag">common cold</span> <span class="news-indication-tag">common cold</span>
+2026-11-10 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">cold</span>
 
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkZjMDg5QW1XUE5RVm1MMzEzSUx0aHN2TVotMC13cTdwc2ZaeUNpQUM3UDA3WHBpYmNRNjM2NU5ybFllNFRFS3lqekhNWlh2aXlUQTBLdUtaZHluc3h0NUZBR0FCRU9RMDlzalYycXVpajBPb1RmbFpLVnVxTW5xWXlXcWpaMk1BRzVFci1NNFJHWHBOcExxZnVlczVUeVM1MGVrTzNqLXpSYkVJVDk2SEZ1Uk91dnlBQldVdENwNWhocmlEYjg3b2lhNi02LXhOVzRwYQ?oc=5)
+Source: [Firstpost](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcW9va3JMTW5HdU9kMnZOZFg2S0dZLWhESGlVdFNjWVNFd1JUZnpCRFI4Z2lWSDNBaXgwaDU2V29OaHpGVkZ3N3ZTRnlveXFxWDYwYml6Q2JLdTJwNkZ3MjdkaFZrTm1jQ24tT3BLQ3AxVnhRcVJfUGFCMjlCMUxzNDZ0WXMtNVhUMExBeEJsQjNRcU9XUkhpTW4zYUF5MVpGd2gwOWNGaEVnSEJQUDZ0S25PMy05Z0xSSlB1Q3QtYkgzVjTSAcgBQVVfeXFMTlhWMEJrTDVFemlwUzM0T2doXy1ralZ6aUZmVlhuMGEzekFNby1LbWFMOE1Wcnh4YzJ2SHVEYVo3Ung3MXM4RDdoaGM5THIxZ3QxaFZuMUtqTkFfMlh4SDItWmREb1FtNWtmZzMtb211T2xNVDFUeTdFLUhnZWZqMnF3OWk4WENud0swVlpNbUMwUkdsTHRSSVloU1hPRmRvYnd1Y1EwZ0k4SFN3SFloeEQzRWFPRXdHdjgyMkVoOTRUa3hCam5BQW0?oc=5)
+
+---
+
+### [New Covid Variant PJ.2.1 Spreads Globally: Symptoms, Risks And Key Facts](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3RKUlNRWjBSVGt1ekpGbXRFX0pxR2NjNWZZcmYtM3JCOVhFSUQ4NTZESGNlXy1VSVVxa1FsUGM1QkJpV2JINllhTTBrY01jTG93eklHMW83RW5IdDNudUxadkVGRVg3VmpFMHgwMEIxY29JT3BMWm9xSEhMVHpiTXA4Y2M4Zjk2VWI3MXpjeVd3WTFuWXlaMElGNmtzd1dIZjVlYVRnc0dOTkU?oc=5)
+
+2026-11-10 <span class="news-indication-tag">cold</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR3RKUlNRWjBSVGt1ekpGbXRFX0pxR2NjNWZZcmYtM3JCOVhFSUQ4NTZESGNlXy1VSVVxa1FsUGM1QkJpV2JINllhTTBrY01jTG93eklHMW83RW5IdDNudUxadkVGRVg3VmpFMHgwMEIxY29JT3BMWm9xSEhMVHpiTXA4Y2M4Zjk2VWI3MXpjeVd3WTFuWXlaMElGNmtzd1dIZjVlYVRnc0dOTkU?oc=5)
 
 ---
 

@@ -47,11 +47,11 @@ Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFB
 
 ---
 
-### [How a once-controversial idea is advancing understanding of Parkinson’s disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MS1FPX1hWdHZFcl9Sc0g5a2RmR3hsbVNGbUQ4dndWYWtzZW5YbzhQYWYyZ2ZSTUVWLXFCbl9sTkRITzVYbWd0SEh1MGc4dzFoRExVQ2ZfYVJhRmFSVGU4?oc=5)
+### [Five UK research hubs to develop technologies for healthier lives](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
 
-2026-11-04
+2026-11-06
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MS1FPX1hWdHZFcl9Sc0g5a2RmR3hsbVNGbUQ4dndWYWtzZW5YbzhQYWYyZ2ZSTUVWLXFCbl9sTkRITzVYbWd0SEh1MGc4dzFoRExVQ2ZfYVJhRmFSVGU4?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
 
 ---
 

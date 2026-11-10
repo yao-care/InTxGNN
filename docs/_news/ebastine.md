@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (3)
 
-### [Could a daily supplement keep blood vessels healthier as we age?](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE5LZG5kajhyT1N4UU5rbUtiUGdiU2w1S2xPOHYwdk9ETllSVTlyZFhUblI0TGFrbVFsN0R5Mzh2eFpmNDFaVzh3WWRoNnlZMHN5N1gwaXNZYVlJLXVuZ25VemxRSWliZEVUaVl0RExDdzJhZ0VoSElYWHNVSFd6Y0FsQWVLa3k2bFFEcy1aWmp3cnhJVkxZMkc0NnI5dEtYSGJtOWJsdzZ6ZXBWaU03Qg?oc=5)
+### [WHO evaluation finds parasite milestones missed - Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
 
-2026-11-09 <span class="news-indication-tag">cardiovascular</span>
+2026-11-09 <span class="news-indication-tag">leprosy</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE5LZG5kajhyT1N4UU5rbUtiUGdiU2w1S2xPOHYwdk9ETllSVTlyZFhUblI0TGFrbVFsN0R5Mzh2eFpmNDFaVzh3WWRoNnlZMHN5N1gwaXNZYVlJLXVuZ25VemxRSWliZEVUaVl0RExDdzJhZ0VoSElYWHNVSFd6Y0FsQWVLa3k2bFFEcy1aWmp3cnhJVkxZMkc0NnI5dEtYSGJtOWJsdzZ6ZXBWaU03Qg?oc=5)
+Source: [Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
 
 ---
 
@@ -54,25 +54,9 @@ Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV
 
 ### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
 
-2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
-
----
-
-### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">leprosy</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
-
----
-
-### [Can NAD+ Supplements Slow Aging and Extend Life?](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ockRMbjBvLVRCYVQxMU03TUpxLU92V08tVURjMzg2dWxmNlA3eUhPdWpzNk5uNHFGc3B1TWhIYXpOMlpPSFJHeFRQd081M1EwVU1TV3ZMaTZuTGgxRWMyMW5TSEw3R0VqQ0lodGdMeC1hM2dBOWl3SE9XMC1GLTVWRQ?oc=5)
-
-2026-11-04 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
-
-Source: [AARP](https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ockRMbjBvLVRCYVQxMU03TUpxLU92V08tVURjMzg2dWxmNlA3eUhPdWpzNk5uNHFGc3B1TWhIYXpOMlpPSFJHeFRQd081M1EwVU1TV3ZMaTZuTGgxRWMyMW5TSEw3R0VqQ0lodGdMeC1hM2dBOWl3SE9XMC1GLTVWRQ?oc=5)
 
 ---
 

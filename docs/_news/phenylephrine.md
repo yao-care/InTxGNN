@@ -1,16 +1,86 @@
 ---
-layout: id_redirect
-permalink: /news/phenylephrine/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Phenylephrine News"
+parent: Health News
 nav_exclude: true
+description: "Health news related to Phenylephrine. 2 predicted indications."
+permalink: /news/phenylephrine/
+last_modified_at: 2026-11-10
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/phenylephrine/">
-<meta http-equiv="refresh" content="0; url=/drugs/phenylephrine/">
-<script>location="/drugs/phenylephrine/"</script>
-<a href="/drugs/phenylephrine/">/drugs/phenylephrine/</a>
-</html>
+
+# Phenylephrine News
+
+[← Back to News Overview]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="What news is there about Phenylephrine?">
+<strong>Phenylephrine</strong> currently has <strong>1 news articles</strong>, with 2 predicted indications.
+</p>
+
+<div class="key-takeaway">
+This page combines the AI-predicted indications for Phenylephrine with the latest health news. Indications highlighted in orange have recent news coverage.
+</div>
+
+<div class="drug-info-card">
+<strong>Drug Information</strong>
+<ul>
+<li><strong>Evidence level</strong>: L4</li>
+<li><strong>Predicted indications (2)</strong>:<ul>
+<li>nasal cavity disease</li>
+<li>trigeminal autonomic cephalalgia</li>
+</ul></li>
+</ul>
+<p><a href="{{ '/drugs/phenylephrine/' | relative_url }}">View full drug report →</a></p>
+</div>
+
+## Related News (1)
+
+### [Two Prophylactic Bolus Doses of Phenylephrine Coadministered With Oxytocin to Prevent Hypotension During Elective Cesarean Section: A Single-Center Randomized Controlled Trial](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOYTBDNWtaQVc0WFlqbVB5MGt4VDUyX0pjQkJ1VzFvRFZ2ZHdNcFhjWm96TFlkM1pQb1R4UHJoQ0lwMWVuQ0RZRk5TVzNtVkR2UVZZTUxpMkVOejd1ZTdERnV0eFBrNnhqeUFIakoybG9hMVBTV0hMeEZfbGw0bHd5YUFaQXNXVlhtR2J6V0I2cnFZMTJIY0x6UmloS3pUQkZ4RUFXOE1rZnZteFBZdWZ0cmFwekNFdFhMZTh4VTFhTTIwMXFUajVpOGhRUG9acmVmN1dmdVhXR3lyMWJqdkloMEZ2ZGtSck5WZUhyQVVMQlpORl9jZTN2YWlMX0hFcG1FU0NTQjhSa2dfeXRKS1V0djFuMjdnVlBwUFdldU1jYjVpaWVRRWk1WUVFU2Vwdk1wQWNzMTgzcXc?oc=5)
+
+2026-11-10 <span class="news-drug-tag">OXYTOCIN</span> <span class="news-drug-tag">PHENYLEPHRINE</span> <span class="news-drug-tag">Phenylephrine</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiuAJBVV95cUxOYTBDNWtaQVc0WFlqbVB5MGt4VDUyX0pjQkJ1VzFvRFZ2ZHdNcFhjWm96TFlkM1pQb1R4UHJoQ0lwMWVuQ0RZRk5TVzNtVkR2UVZZTUxpMkVOejd1ZTdERnV0eFBrNnhqeUFIakoybG9hMVBTV0hMeEZfbGw0bHd5YUFaQXNXVlhtR2J6V0I2cnFZMTJIY0x6UmloS3pUQkZ4RUFXOE1rZnZteFBZdWZ0cmFwekNFdFhMZTh4VTFhTTIwMXFUajVpOGhRUG9acmVmN1dmdVhXR3lyMWJqdkloMEZ2ZGtSck5WZUhyQVVMQlpORl9jZTN2YWlMX0hFcG1FU0NTQjhSa2dfeXRKS1V0djFuMjdnVlBwUFdldU1jYjVpaWVRRWk1WUVFU2Vwdk1wQWNzMTgzcXc?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>
