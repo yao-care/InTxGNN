@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Potassium with the latest he
 
 ## Related News (1)
 
-### [Potassium-enriched salt could prevent nearly 4 lakh deaths in India annually, says study - The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+### [Swapping Table Salt for a Potassium Blend Could Prevent Nearly 3 Million Deaths a Year, Modeling Study Suggests - Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEtzVFlvZTFsendUa1hCRE55OXIyUVdobEV2bmdGZlFDS2dCUmZ0X2UyTC1ReXcyZC00bUNuN3BocGd2ZDIwU3Z2RzJsSVlILWpKYWFlVmpwN0M0STZNVmY5MHFMRVc1dFptRWw5c0lGdGo4dDlpSWhhaXR4NWxBeHRiUWQ1Z3VfSVVqX21yWV94UjI4TFFxbUktdmoyNXFYRllLNDRGRzFGWXMxa1B2T1F3aXZKWklUN053cElycER1V3c3Q2N2RnJwVE92N2RCWk5rY3c2WGVZenZLa2tNSVd2OThZMy1p?oc=5)
 
-2026-11-07 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
+2026-11-10 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
 
-Source: [The South First](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkJBUzZCMUFNYXBBMWpURkVJS1lXNUJJWEJtVk5MUTdQa1RCaHVSblN3QmJHV2UxdWZwU3hvdXB3blRqcTF3aXFiRkJfclpQWTBWaWFhZmlGZjhMaFFqbkhJMnlYZ19PRjFmS3FQUW5yeHEwX3BNeFF1blpXY0ZpUU1rYjRSYm1YZ1JPZHZCczhxeURZN0t2eU8xckhfQWxvaUxPRUw3T3R6d3BIVXB4VmxPLXFXUDh2M3dB?oc=5)
+Source: [Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEtzVFlvZTFsendUa1hCRE55OXIyUVdobEV2bmdGZlFDS2dCUmZ0X2UyTC1ReXcyZC00bUNuN3BocGd2ZDIwU3Z2RzJsSVlILWpKYWFlVmpwN0M0STZNVmY5MHFMRVc1dFptRWw5c0lGdGo4dDlpSWhhaXR4NWxBeHRiUWQ1Z3VfSVVqX21yWV94UjI4TFFxbUktdmoyNXFYRllLNDRGRzFGWXMxa1B2T1F3aXZKWklUN053cElycER1V3c3Q2N2RnJwVE92N2RCWk5rY3c2WGVZenZLa2tNSVd2OThZMy1p?oc=5)
 
 ---
 

@@ -32,11 +32,11 @@ This page brings together the latest health news about “ovarian cancer” and 
 
 ## Related News (1)
 
-### [Epitopea doses first patient in UK ovarian cancer vaccine trial - FemTech World](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanlZSVRBQ2xYWGJYbVI5RjFUV2NhTEJRVXYyQ21HejdZQU9uWHZoRXB4Unh0MGItN1VzVTh3Z3NWT19udXBJdkpkeHBqdGt0M0ZlbHVwZWJKdzhzaXdTLWxTaTR4VlJhWXp3XzN0UWxNX2pPeDlmeWV4dTRIVDlhZVRvcVo4a3prQWNkNzhyeXVSeUdobGxqdEhQSUE3ajhwUjEtZG1GV0E4eTg?oc=5)
+### [Epitopea’s Off-the-Shelf mRNA Ovarian Cancer Vaccine Enters the Clinic - Inside Precision Medicine](https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JWbUhqVlFYeF9TdUUwSzdKWHVOVmRxZmZJYnRfQ1dtZks5RWVSY3BjSE9fM01JN2ZLS3BaOFBDYXJwdTA4OGdTT1NyaW9oWjNyZktOOVpSNnIxOF9wbVY2bWRQMnlaYlZZSnpDc1BDVTN6Ni0xY2I3SVUyeGtRZzc0QUdCTVpJdVgzdC0xSjBOSUtNZXRxVTgxMk1nR1ZLb3dfdWVWRmxoVXhZTDVMVkk0TmpCdTZIZkVRUGZuN3JVSExC?oc=5)
 
 2026-11-10
 
-Source: [FemTech World](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanlZSVRBQ2xYWGJYbVI5RjFUV2NhTEJRVXYyQ21HejdZQU9uWHZoRXB4Unh0MGItN1VzVTh3Z3NWT19udXBJdkpkeHBqdGt0M0ZlbHVwZWJKdzhzaXdTLWxTaTR4VlJhWXp3XzN0UWxNX2pPeDlmeWV4dTRIVDlhZVRvcVo4a3prQWNkNzhyeXVSeUdobGxqdEhQSUE3ajhwUjEtZG1GV0E4eTg?oc=5)
+Source: [Inside Precision Medicine](https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JWbUhqVlFYeF9TdUUwSzdKWHVOVmRxZmZJYnRfQ1dtZks5RWVSY3BjSE9fM01JN2ZLS3BaOFBDYXJwdTA4OGdTT1NyaW9oWjNyZktOOVpSNnIxOF9wbVY2bWRQMnlaYlZZSnpDc1BDVTN6Ni0xY2I3SVUyeGtRZzc0QUdCTVpJdVgzdC0xSjBOSUtNZXRxVTgxMk1nR1ZLb3dfdWVWRmxoVXhZTDVMVkk0TmpCdTZIZkVRUGZuN3JVSExC?oc=5)
 
 ---
 

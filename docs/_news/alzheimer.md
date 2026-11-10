@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
 permalink: /news/alzheimer/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Scientists discover mysterious “lonely” brain waves linked to memory loss](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEt5dVNZbnN4MnR2bHd3WHhsVXgzWVd3OHBRUE5vMUctalpGbGt0ejdKMHY4RTh0eXR3TVJIUFQxem9veUpjaWlCWnlfU3M1Sk5aQzAxcUZTYVB1MGtFSFVGaEQ3TlhNQlMtOTd0OHNaQnd0RGU4ZXZuUmY2ci1SWmh1aU1ScHUwQUtTQ19SOWc2Ynp4MmtUelBLX1JMWFdCLW9zQTJiWEZSUHhq0gGyAUFVX3lxTE1Pc2hDcUpVaUlMTGVJWV9rQThUWmlFMnNyXzlBN1dHWm5HeVV4dlRsRV9jaHVQbFFLaldVdVdLUzJzZ2xSR3ZYckN2ckNveEt4VXVrNXRHRWFULXRmQkNSSGhBNGFSSEJUc0VVUi1SZk9DU0JGQ25WaFVFMC1aT1hDS3lsOXhEZXFhUHJzMVFVZzZ1NExPeU5ubUI4WW9pREozVDlURTFramd0eUFoaVdtQmc?oc=5)
+
+2026-11-10
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEt5dVNZbnN4MnR2bHd3WHhsVXgzWVd3OHBRUE5vMUctalpGbGt0ejdKMHY4RTh0eXR3TVJIUFQxem9veUpjaWlCWnlfU3M1Sk5aQzAxcUZTYVB1MGtFSFVGaEQ3TlhNQlMtOTd0OHNaQnd0RGU4ZXZuUmY2ci1SWmh1aU1ScHUwQUtTQ19SOWc2Ynp4MmtUelBLX1JMWFdCLW9zQTJiWEZSUHhq0gGyAUFVX3lxTE1Pc2hDcUpVaUlMTGVJWV9rQThUWmlFMnNyXzlBN1dHWm5HeVV4dlRsRV9jaHVQbFFLaldVdVdLUzJzZ2xSR3ZYckN2ckNveEt4VXVrNXRHRWFULXRmQkNSSGhBNGFSSEJUc0VVUi1SZk9DU0JGQ25WaFVFMC1aT1hDS3lsOXhEZXFhUHJzMVFVZzZ1NExPeU5ubUI4WW9pREozVDlURTFramd0eUFoaVdtQmc?oc=5)
+
+---
 
 ### [Testosterone Therapy Doesn't Help Menopause 'Brain Fog,' Review Concludes - U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
 
