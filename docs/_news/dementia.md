@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about alzheimer (dementia). 4 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # alzheimer (dementia) News
@@ -39,6 +39,14 @@ This page brings together the latest health news about “alzheimer” and lists
 
 ## Related News (4)
 
+### [Blood proteins reveal how menopause may shape brain health later](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
+
+2026-11-11
+
+Source: [Futurity](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
+
+---
+
 ### [Three Investigational Therapies Get UK Innovation Passports](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 2026-11-10
@@ -52,14 +60,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25D
 2026-11-10
 
 Source: [ThePrint](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEt5dVNZbnN4MnR2bHd3WHhsVXgzWVd3OHBRUE5vMUctalpGbGt0ejdKMHY4RTh0eXR3TVJIUFQxem9veUpjaWlCWnlfU3M1Sk5aQzAxcUZTYVB1MGtFSFVGaEQ3TlhNQlMtOTd0OHNaQnd0RGU4ZXZuUmY2ci1SWmh1aU1ScHUwQUtTQ19SOWc2Ynp4MmtUelBLX1JMWFdCLW9zQTJiWEZSUHhq0gGyAUFVX3lxTE1Pc2hDcUpVaUlMTGVJWV9rQThUWmlFMnNyXzlBN1dHWm5HeVV4dlRsRV9jaHVQbFFLaldVdVdLUzJzZ2xSR3ZYckN2ckNveEt4VXVrNXRHRWFULXRmQkNSSGhBNGFSSEJUc0VVUi1SZk9DU0JGQ25WaFVFMC1aT1hDS3lsOXhEZXFhUHJzMVFVZzZ1NExPeU5ubUI4WW9pREozVDlURTFramd0eUFoaVdtQmc?oc=5)
-
----
-
-### [Testosterone Therapy Doesn't Help Menopause 'Brain Fog,' Review Concludes - U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
-
-2026-11-09
-
-Source: [U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
 
 ---
 

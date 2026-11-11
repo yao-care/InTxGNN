@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Potassium. 5 predicted indications."
 permalink: /news/potassium/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Potassium News
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Potassium with the latest he
 
 ## Related News (1)
 
-### [Swapping Table Salt for a Potassium Blend Could Prevent Nearly 3 Million Deaths a Year, Modeling Study Suggests - Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEtzVFlvZTFsendUa1hCRE55OXIyUVdobEV2bmdGZlFDS2dCUmZ0X2UyTC1ReXcyZC00bUNuN3BocGd2ZDIwU3Z2RzJsSVlILWpKYWFlVmpwN0M0STZNVmY5MHFMRVc1dFptRWw5c0lGdGo4dDlpSWhhaXR4NWxBeHRiUWQ1Z3VfSVVqX21yWV94UjI4TFFxbUktdmoyNXFYRllLNDRGRzFGWXMxa1B2T1F3aXZKWklUN053cElycER1V3c3Q2N2RnJwVE92N2RCWk5rY3c2WGVZenZLa2tNSVd2OThZMy1p?oc=5)
+### [Potassium-Enriched Salt Could Prevent Nearly 3 Million Deaths a Year - Global Agriculture](https://news.google.com/rss/articles/CBMixwFBVV95cUxQamdPSDRHSDRYbGIwWmI1bTJuTVE4NzZjX3NqWmI3RHJlWmQxY1VIem1FT2ZmcklLMWNQQTdzWUFpNkh1d1JjWHk0V1JjSWZQTnNlR0haSXA2dzg2aWR6SXJVbHR1UzVHUWhUcjB6X0RySFg2Nk93bUJyeFg0RF80WTN3d0oxWWs4aW9uTTF1cjJzYmU3MlRCV1ZXOFJ2OU8yM0N1eGgtRmR5Q1JTZzc0TTIxVzZ2MjZObTY5c0JzQWp1WlJ1ZEFZ?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Potassium</span> <span class="news-indication-tag">heart disease</span>
+2026-11-11 <span class="news-drug-tag">Potassium</span>
 
-Source: [Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEtzVFlvZTFsendUa1hCRE55OXIyUVdobEV2bmdGZlFDS2dCUmZ0X2UyTC1ReXcyZC00bUNuN3BocGd2ZDIwU3Z2RzJsSVlILWpKYWFlVmpwN0M0STZNVmY5MHFMRVc1dFptRWw5c0lGdGo4dDlpSWhhaXR4NWxBeHRiUWQ1Z3VfSVVqX21yWV94UjI4TFFxbUktdmoyNXFYRllLNDRGRzFGWXMxa1B2T1F3aXZKWklUN053cElycER1V3c3Q2N2RnJwVE92N2RCWk5rY3c2WGVZenZLa2tNSVd2OThZMy1p?oc=5)
+Source: [Global Agriculture](https://news.google.com/rss/articles/CBMixwFBVV95cUxQamdPSDRHSDRYbGIwWmI1bTJuTVE4NzZjX3NqWmI3RHJlWmQxY1VIem1FT2ZmcklLMWNQQTdzWUFpNkh1d1JjWHk0V1JjSWZQTnNlR0haSXA2dzg2aWR6SXJVbHR1UzVHUWhUcjB6X0RySFg2Nk93bUJyeFg0RF80WTN3d0oxWWs4aW9uTTF1cjJzYmU3MlRCV1ZXOFJ2OU8yM0N1eGgtRmR5Q1JTZzc0TTIxVzZ2MjZObTY5c0JzQWp1WlJ1ZEFZ?oc=5)
 
 ---
 

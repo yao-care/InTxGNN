@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,13 +58,13 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [What to do if you, or someone around you, might be having a heart attack - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)
+### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
 
-2026-11-11
+2026-11-10
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)
+Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95c
 2026-11-10
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
-
----
-
-### [Swapping Table Salt for a Potassium Blend Could Prevent Nearly 3 Million Deaths a Year, Modeling Study Suggests - Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEtzVFlvZTFsendUa1hCRE55OXIyUVdobEV2bmdGZlFDS2dCUmZ0X2UyTC1ReXcyZC00bUNuN3BocGd2ZDIwU3Z2RzJsSVlILWpKYWFlVmpwN0M0STZNVmY5MHFMRVc1dFptRWw5c0lGdGo4dDlpSWhhaXR4NWxBeHRiUWQ1Z3VfSVVqX21yWV94UjI4TFFxbUktdmoyNXFYRllLNDRGRzFGWXMxa1B2T1F3aXZKWklUN053cElycER1V3c3Q2N2RnJwVE92N2RCWk5rY3c2WGVZenZLa2tNSVd2OThZMy1p?oc=5)
-
-2026-11-10
-
-Source: [Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOEtzVFlvZTFsendUa1hCRE55OXIyUVdobEV2bmdGZlFDS2dCUmZ0X2UyTC1ReXcyZC00bUNuN3BocGd2ZDIwU3Z2RzJsSVlILWpKYWFlVmpwN0M0STZNVmY5MHFMRVc1dFptRWw5c0lGdGo4dDlpSWhhaXR4NWxBeHRiUWQ1Z3VfSVVqX21yWV94UjI4TFFxbUktdmoyNXFYRllLNDRGRzFGWXMxa1B2T1F3aXZKWklUN053cElycER1V3c3Q2N2RnJwVE92N2RCWk5rY3c2WGVZenZLa2tNSVd2OThZMy1p?oc=5)
 
 ---
 

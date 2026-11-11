@@ -3,7 +3,7 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 1 articles, 15 related drugs."
+description: "Health news about stroke. 2 articles, 15 related drugs."
 permalink: /news/stroke/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [The stroke risk younger adults may be overlooking – and the symptoms that should never be dismissed - The Conversation](https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUdsT3dsbVdLdFdkY3c2QjlDM0hoajEwVzJDMi16TG1yMFFBLURiSGxpVF9GV3BHZkI0cDFTX0s4X1lYUi1vSW5Ub25nS1Z0cjYzR0RuamVqMGNlUXVQbVZkU0VUN0VkTUVUNGMzX3NTa1BETzNVajZqaTVRNVQ1RXZtUEdNWm40dE9PZ2NfX1FMWEY4SlJkUzV4QVoxbWhweTBZcm9vdTV5TXpKU3dobUxRMG9TZl9EZGJacmhOcUlXSF9SeHpMZ0phemQ?oc=5)
+### [Coming off GLP-1s linked to double heart attack, stroke, death risk](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJqZmx0Q0FVc1NVZVlvSElmMmNfWXloQkxKTHljaTRCNWNxd3BoMllSSmNjZ1psM2VqaEhIbFZFUUxHZzBKS09xWVBZWXFKTFg2X2NuRktGdk8wTjFZOXBWSGpNeXF1ek5hUlFkcFZGU0MxYUVlZEIwRXJDQndJU3dkQzVOdVl4V1kzRG1DcW5ma2FUekxYU0syVzVhcWg0djJyS3czWW5ydmpvRDc2OUhGUmdGTVJGMTlIYWJ4V0VWVGpu?oc=5)
+
+2026-11-11
+
+Source: [Euronews.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJqZmx0Q0FVc1NVZVlvSElmMmNfWXloQkxKTHljaTRCNWNxd3BoMllSSmNjZ1psM2VqaEhIbFZFUUxHZzBKS09xWVBZWXFKTFg2X2NuRktGdk8wTjFZOXBWSGpNeXF1ek5hUlFkcFZGU0MxYUVlZEIwRXJDQndJU3dkQzVOdVl4V1kzRG1DcW5ma2FUekxYU0syVzVhcWg0djJyS3czWW5ydmpvRDc2OUhGUmdGTVJGMTlIYWJ4V0VWVGpu?oc=5)
+
+---
+
+### [Surging Stroke in Young Adults Driven by Ischemic Events](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
 
 2026-11-08
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMizAFBVV95cUxOeUdsT3dsbVdLdFdkY3c2QjlDM0hoajEwVzJDMi16TG1yMFFBLURiSGxpVF9GV3BHZkI0cDFTX0s4X1lYUi1vSW5Ub25nS1Z0cjYzR0RuamVqMGNlUXVQbVZkU0VUN0VkTUVUNGMzX3NTa1BETzNVajZqaTVRNVQ1RXZtUEdNWm40dE9PZ2NfX1FMWEY4SlJkUzV4QVoxbWhweTBZcm9vdTV5TXpKU3dobUxRMG9TZl9EZGJacmhOcUlXSF9SeHpMZ0phemQ?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
 
 ---
 

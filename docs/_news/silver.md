@@ -35,11 +35,11 @@ This page combines the AI-predicted indications for Silver with the latest healt
 
 ## Related News (1)
 
-### [Aster- derived biogenic silver nanoparticles for multifaceted study on antioxidant, para-nitrophenol catalysis, cytotoxicity, and in silico molecular docking evaluation](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fZ0IwOEFxNE93R1FXM0FvYl9FWkRsN0pEdU45aXVPd3lHYU9LVG9IWVNtNXVodFZhbG9UVmx1X010eXNYNk9tdk1QckFwbW5pVzFEX1RTR1lzUGxHSnFj?oc=5)
+### [Aster- derived biogenic silver nanoparticles for multifaceted study on antioxidant, para-nitrophenol catalysis, cytotoxicity, and in silico molecular docking evaluation](https://news.google.com/rss/articles/CBMiZEFVX3lxTE83UFIwZVcyVDRWeDFCRkl0SEhjUHZXdXpnZTRXYWVDWHluZzd0Zjl6M2p2TVJvY3RwaFhtbk13OHBpd1FwSFJoQkE1VU81eWdCd2JFSnhKQy1tRFl0RGREdHBxWVU?oc=5)
 
 2026-11-11 <span class="news-drug-tag">Silver</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fZ0IwOEFxNE93R1FXM0FvYl9FWkRsN0pEdU45aXVPd3lHYU9LVG9IWVNtNXVodFZhbG9UVmx1X010eXNYNk9tdk1QckFwbW5pVzFEX1RTR1lzUGxHSnFj?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiZEFVX3lxTE83UFIwZVcyVDRWeDFCRkl0SEhjUHZXdXpnZTRXYWVDWHluZzd0Zjl6M2p2TVJvY3RwaFhtbk13OHBpd1FwSFJoQkE1VU81eWdCd2JFSnhKQy1tRFl0RGREdHBxWVU?oc=5)
 
 ---
 
