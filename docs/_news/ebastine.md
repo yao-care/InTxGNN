@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+### [What to do if you, or someone around you, might be having a heart attack - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span>
+2026-11-11 <span class="news-indication-tag">heart disease</span>
 
-Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5)
 
 ---
 
@@ -60,19 +60,11 @@ Source: [Nature World News](https://news.google.com/rss/articles/CBMi6AFBVV95cUx
 
 ---
 
-### [WHO evaluation finds parasite milestones missed - Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
+### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 
-2026-11-09 <span class="news-indication-tag">leprosy</span>
+2026-11-05 <span class="news-indication-tag">leprosy</span>
 
-Source: [Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
-
----
-
-### [Congenital Heart Disease Odds Elevated With Maternal Chronic Hypertension - The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5DV0NDYVVXSWFNVk5jRXBLN24tZTJROXFmNFdZR2p2Z3FDZFFSR3lkZG41Zy16YXFWTEV1RzhkWmVXeUkyOExNWTE3R0x0TGw4T055cnRRUk92dVRuQkZFdl80Q1VvVjRUNU5zbHNwWXNXZDBWRmZnbDRxbUJXajFBMEVCNXdNeDIyUmpLdTZGenFrcnJPWXFzWjljSExvTjM0Tw?oc=5)
-
-2026-11-09 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQk5DV0NDYVVXSWFNVk5jRXBLN24tZTJROXFmNFdZR2p2Z3FDZFFSR3lkZG41Zy16YXFWTEV1RzhkWmVXeUkyOExNWTE3R0x0TGw4T055cnRRUk92dVRuQkZFdl80Q1VvVjRUNU5zbHNwWXNXZDBWRmZnbDRxbUJXajFBMEVCNXdNeDIyUmpLdTZGenFrcnJPWXFzWjljSExvTjM0Tw?oc=5)
+Source: [NDTV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 
 ---
 
