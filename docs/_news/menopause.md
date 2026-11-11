@@ -3,9 +3,9 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 1 articles, 23 related drugs."
+description: "Health news about menopause. 2 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # menopause News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Longer lifetime estrogen exposure tied to healthier brain blood vessels in older women - Medical News Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxObkZpZXJNLVFBOEYyblFjVUphTEVNa0dqNXgzb2NoLUJmbENWQUVEOS1zZzBoNGlPQUZzMjVHb3Itbm9TNHBWS2tpVXAwZzFQQlk1QkFTRjlMMkJabTN2UjdjcUd3dEdVaFRkXzRrX1Rwb1dvQndOZkRqTEVZX2dvSVVESlNCTHhKQjZMWmwzdGs5bmhEQlJ5a2xKY1BOTXJ3ZnBDZnVlZDZaY2VYMFA3VVFJcldueGc1OU5GSDlpMA?oc=5)
+
+2026-11-10
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxObkZpZXJNLVFBOEYyblFjVUphTEVNa0dqNXgzb2NoLUJmbENWQUVEOS1zZzBoNGlPQUZzMjVHb3Itbm9TNHBWS2tpVXAwZzFQQlk1QkFTRjlMMkJabTN2UjdjcUd3dEdVaFRkXzRrX1Rwb1dvQndOZkRqTEVZX2dvSVVESlNCTHhKQjZMWmwzdGs5bmhEQlJ5a2xKY1BOTXJ3ZnBDZnVlZDZaY2VYMFA3VVFJcldueGc1OU5GSDlpMA?oc=5)
+
+---
 
 ### [Testosterone Therapy Doesn't Help Menopause 'Brain Fog,' Review Concludes - U.S. News & World Report](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzl5TmRlbXgwbDR0czduQ193Z1ktVGlqa2pfZC1QRzRHX2JYN08wYjBaSGRYY3ZfNU5vbkRyUC1uenZyT2s2U254bndZT2xiTW5FcVhJb3hDTmxscmlTMmF3dDJ2RjNwaVRyNm5HN0NYZVROMFpkb3VYOEw0b2JXQWo3MHVRN3BWd28tdDU4VnZLWXJPaXdQNTlwZ3VQcUh4WE1tZEtMSGFVTWxGRzFoY2pWblpXUU9QOG1nZjA3M1JSbWhBUkZBRg?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "rheumatoid arthritis News"
 parent: Health News
 nav_exclude: true
-description: "Health news about rheumatoid arthritis. 1 articles, 18 related drugs."
+description: "Health news about rheumatoid arthritis. 2 articles, 18 related drugs."
 permalink: /news/rheumatoid-arthritis/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # rheumatoid arthritis News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about rheumatoid arthritis?">
-<strong>rheumatoid arthritis</strong> currently has <strong>1 news articles</strong> and 18 related drugs.
+<strong>rheumatoid arthritis</strong> currently has <strong>2 news articles</strong> and 18 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,21 @@ This page brings together the latest health news about â€œrheumatoid arthritisâ€
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [GLP-1 RAs Reduce Joint Replacements, In-Hospital Mortality in Osteoarthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
+### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
 
-2026-11-09
+2026-11-10
 
-Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
+Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+
+---
+
+### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+
+2026-11-10
+
+Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
 
 ---
 

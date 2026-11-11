@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Alpelisib. 1 predicted indications."
 permalink: /news/alpelisib/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Alpelisib News
@@ -35,19 +35,19 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 
 ## Related News (2)
 
+### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+
+Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+
+---
+
 ### [WHO evaluation finds parasite milestones missed - Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
 
 2026-11-09 <span class="news-indication-tag">leprosy</span>
 
 Source: [Food Safety News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR0FZNHUxT3otTjhta01RQkZsR2VxVG9McDdLTlVjTWhIbWNCZ1RrVnFhUEtzS2FEdWN4MlhkUGtiMWI4M190TUZZb0ktcmxkSHhUSEV4bzRhU0xHWWZqd0JITUc3dGFUVUNtdDBsU3JTU25paDcwZ2RTWERLbjc4NC05dlM5QnZGLU9hd0kzdzI?oc=5)
-
----
-
-### [GLP-1 RAs Reduce Joint Replacements, In-Hospital Mortality in Osteoarthritis - Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
-
-2026-11-09 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">osteoarthritis</span>
-
-Source: [Rheumatology Advisor](https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0pQRWNXRzJra2lwSHNTeHZPSlFDeksxZy1ldEZHbFotX3BHVkQ3MFh5WFhQeXNNQWpCOXgtVDAyQ0I4LXU1MDZWOFNOMHVKQnlKYTlreWlOX2VFYXhKVTljSnhpb0hHQTZSVFBuU0F2aWdHV3hMdkN1Sll4cnhWV0ZZUEk3WWd5Sl9qdmFVVQ?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 17 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 16 articles, 228 related drugs."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # cancer (generic_cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>17 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>16 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (17)
+## Related News (16)
 
 ### [5 ways to take care of yourself when you’re caring for someone with cancer - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWRHTVdzZDE0ZTdvTkRUcjJNR1F1ZWdIV1dfQ0ZIY09qbFc4U2dKVVpuOXpsMUltZTVEbFZkN1VzWlYtR1lCZ2J3VXJKN1c0MlZiYXY1aGhxVEo3a1UwOEVLOW10REdIc1otRy1aY0l3Uk54MmtJZGFxTmtSN2MtNkVZeEZIRXJQbDBKNi1IajlfWW9IUkZBclBkWTBIeEdJX0dBVmJ6MU43NUNPVHB2SmE4ZjV3dw?oc=5)
 
@@ -259,14 +259,6 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkh
 2026-11-10
 
 Source: [Inside Precision Medicine](https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JWbUhqVlFYeF9TdUUwSzdKWHVOVmRxZmZJYnRfQ1dtZks5RWVSY3BjSE9fM01JN2ZLS3BaOFBDYXJwdTA4OGdTT1NyaW9oWjNyZktOOVpSNnIxOF9wbVY2bWRQMnlaYlZZSnpDc1BDVTN6Ni0xY2I3SVUyeGtRZzc0QUdCTVpJdVgzdC0xSjBOSUtNZXRxVTgxMk1nR1ZLb3dfdWVWRmxoVXhZTDVMVkk0TmpCdTZIZkVRUGZuN3JVSExC?oc=5)
-
----
-
-### [Association Between Post-radiotherapy Salivary Dysfunction and Patient-Reported Satisfaction With Removable Dental Prostheses Among Oral Cancer Survivors: A Cross-Sectional Observational Study](https://news.google.com/rss/articles/CBMizwJBVV95cUxNeGxkWXhtcWh1SW8wcTVrNGFEWlpRNVJKNkFNV3ZDVkhjdHJKU1d1UU9sSzc2T3F6VG9aa3RoUWNHVDl2SG9RcnFFQTBiV2dsT3d3ZlVPZzVfOFc5NGcyU3hhY0ZaVmR2NW8yY084UGtTNnByTTVnbnVSNmV4SmtSTjFaOThaV0ZmWVF3X2JIYWE0RkxBODFTcWFoVVZvTW85cjV0T0Y1cXBNSS1GSC00RHUyc1BrWVFacXUxbjZaU090SWVQYXp4YUN1c01BclBweFdDRV9vMmZ1Q284V1U0Mi1fYXl1QlA0WlRXY2VPMkNkZkRXRnNMNjRfaWV2RkFTbV9DRHk0SEc2RUNmekJERnhVR0tQNFh0b21Zb2xxVjBhZmF6ODh0bkVzeURSTmh3Mlc1ZWU5TVQzamdxMFowb1RsLWU4OGltR3cwWVRfUQ?oc=5)
-
-2026-11-10
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMizwJBVV95cUxNeGxkWXhtcWh1SW8wcTVrNGFEWlpRNVJKNkFNV3ZDVkhjdHJKU1d1UU9sSzc2T3F6VG9aa3RoUWNHVDl2SG9RcnFFQTBiV2dsT3d3ZlVPZzVfOFc5NGcyU3hhY0ZaVmR2NW8yY084UGtTNnByTTVnbnVSNmV4SmtSTjFaOThaV0ZmWVF3X2JIYWE0RkxBODFTcWFoVVZvTW85cjV0T0Y1cXBNSS1GSC00RHUyc1BrWVFacXUxbjZaU090SWVQYXp4YUN1c01BclBweFdDRV9vMmZ1Q284V1U0Mi1fYXl1QlA0WlRXY2VPMkNkZkRXRnNMNjRfaWV2RkFTbV9DRHk0SEc2RUNmekJERnhVR0tQNFh0b21Zb2xxVjBhZmF6ODh0bkVzeURSTmh3Mlc1ZWU5TVQzamdxMFowb1RsLWU4OGltR3cwWVRfUQ?oc=5)
 
 ---
 
@@ -342,19 +334,19 @@ Source: [Medical News Today](https://news.google.com/rss/articles/CBMitwFBVV95cU
 
 ---
 
+### [Working Against Your Body Clock: Can Long-Term Night Shifts Increase Cancer Risk? - ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXpaMFJqMHNkby0xc1kyY1ZqTURWU3lDMWxtbGRkNnhvQnY5YzVGQ0k1YksyeklQOUpxSGxiSjA0TndzZ2FGamJfTXFITE5jOEN4OTJ0QkJrZUEyRnNoM2pTYVRxeFczT0h0OVZlQ3BTbm5iaEdFWGFEZlgwekptR3h2QldUMW5lZ05pNzBWNktlaU0yQlVjMGF30gGfAUFVX3lxTE14Z0FzVjNBOEpEVTZHbHFsTEpaNF9WU0VqWmZrZkRKcFpLa0ZXeTBPdkFTSlRSbWtmN2dOalpOTndJMEVKOTJLWFNhWE1WcGVSZ19aaUpISFNJbGdNUW5nRllEaFBHQjlfTFNSbTl3a2M0cFpiM3VUSjdiUklQLVp4QkZUcGpBNHBwcjZVNi03bXZ6RVotZllBRHI5U3c1QQ?oc=5)
+
+2026-11-07
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXpaMFJqMHNkby0xc1kyY1ZqTURWU3lDMWxtbGRkNnhvQnY5YzVGQ0k1YksyeklQOUpxSGxiSjA0TndzZ2FGamJfTXFITE5jOEN4OTJ0QkJrZUEyRnNoM2pTYVRxeFczT0h0OVZlQ3BTbm5iaEdFWGFEZlgwekptR3h2QldUMW5lZ05pNzBWNktlaU0yQlVjMGF30gGfAUFVX3lxTE14Z0FzVjNBOEpEVTZHbHFsTEpaNF9WU0VqWmZrZkRKcFpLa0ZXeTBPdkFTSlRSbWtmN2dOalpOTndJMEVKOTJLWFNhWE1WcGVSZ19aaUpISFNJbGdNUW5nRllEaFBHQjlfTFNSbTl3a2M0cFpiM3VUSjdiUklQLVp4QkZUcGpBNHBwcjZVNi03bXZ6RVotZllBRHI5U3c1QQ?oc=5)
+
+---
+
 ### [Can drinking very hot tea or coffee lead to food pipe cancer?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHEteGdrVzhLM0ZRSDBTOW83aGtyalM3aDZDNnFnZjhhYnprVFl2YldyRWg3Z1IxUW5lLUZaS2lZNDBPVGY3M2RKU05fa09iSkN3M0lfcHVlTzZxZjZqbzF4TzA5TFA1SkFtVDUwUkYwTzVZMTRpOC1zMG9yUW5NTjYtdkFsLWN1NlR5LTVZX3dyM3BUbkx4V3FJV2pWRE5wb19LUDZNMVNGZ2M1clFJ0gG0AUFVX3lxTFBEcTVTOFYyLXdDOGtUZnZ5blkzUFhJQ0dfS1ZERzlNVmtFMjA5VFdjTk83a1hDbi1lcDBjOU95aHVqeW5kOU1sSGlVb1pLVTVFM3FsWlJ2Z285T2xQOHF3aUpjai1JcjExU3ZmcFZRNlk0ZUV5TzV6T2NOY1lQNUtCbmtfUTF1OXdZNVY2VnlvemoxQ3hHellIeWxQTmVqN3ZmVThsRi1YN2NJYmVMSUFkT0d2MA?oc=5)
 
 2026-11-07
 
 Source: [Firstpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHEteGdrVzhLM0ZRSDBTOW83aGtyalM3aDZDNnFnZjhhYnprVFl2YldyRWg3Z1IxUW5lLUZaS2lZNDBPVGY3M2RKU05fa09iSkN3M0lfcHVlTzZxZjZqbzF4TzA5TFA1SkFtVDUwUkYwTzVZMTRpOC1zMG9yUW5NTjYtdkFsLWN1NlR5LTVZX3dyM3BUbkx4V3FJV2pWRE5wb19LUDZNMVNGZ2M1clFJ0gG0AUFVX3lxTFBEcTVTOFYyLXdDOGtUZnZ5blkzUFhJQ0dfS1ZERzlNVmtFMjA5VFdjTk83a1hDbi1lcDBjOU95aHVqeW5kOU1sSGlVb1pLVTVFM3FsWlJ2Z285T2xQOHF3aUpjai1JcjExU3ZmcFZRNlk0ZUV5TzV6T2NOY1lQNUtCbmtfUTF1OXdZNVY2VnlvemoxQ3hHellIeWxQTmVqN3ZmVThsRi1YN2NJYmVMSUFkT0d2MA?oc=5)
-
----
-
-### [Cancer treatment gets personal: How custom-made vaccines help the immune system fight tumours - The Week](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclZVcE5uMEtyckNTTU9KYkd3YklDeW10ZWc5SUlKUGtDVnpfaXZZcE84UHJlOXdjeVBXMzNPRDZaS0tkbFFRX2VfUkZLRXRHMXEweXpFTGdQT2VWNjM5TTdzN1lYZU9UWEVsTDJBNHZuZE54MmI4SGN6dG5pbnE4RjE5U3duMDBpRU5UZmZnTVZ3WllSUGdGWURMVUhwU3hKelp2dHZRb3BFa1JGamZXSmxUdFFtQ0ZiWEQzZVVadVVTX1dwZWtlRFlsdTVMRmNHQVhSalRKbFNjX0nSAeABQVVfeXFMTzRoZ2JDZVZLWGhMNlJja2pNdlVXNmNyYlhkQWp5U05BakZZdEZfU25sRXU4dU12NXNZRWFOTmFTYWlvdEFFeW1JZjlsdGQyWHRGU1hDbHRyYUNQWDBOQzBtSFJmTTBSRm4tQldLcnFqMkNHc0JzOHF1NHd1LVVZbTdGRGhHNEJhTE1paUdyWHFGNlBjS2hSTU1BaVBBRnRZdzBpUm5GZDA5M2ZpdjhyRTExcXNkN2JTbFBpbFRXTFZUYngwS0I1ZmVBQWZsSDV2RE51OFlnMVAtUXUwRmxvN28?oc=5)
-
-2026-11-06
-
-Source: [The Week](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQclZVcE5uMEtyckNTTU9KYkd3YklDeW10ZWc5SUlKUGtDVnpfaXZZcE84UHJlOXdjeVBXMzNPRDZaS0tkbFFRX2VfUkZLRXRHMXEweXpFTGdQT2VWNjM5TTdzN1lYZU9UWEVsTDJBNHZuZE54MmI4SGN6dG5pbnE4RjE5U3duMDBpRU5UZmZnTVZ3WllSUGdGWURMVUhwU3hKelp2dHZRb3BFa1JGamZXSmxUdFFtQ0ZiWEQzZVVadVVTX1dwZWtlRFlsdTVMRmNHQVhSalRKbFNjX0nSAeABQVVfeXFMTzRoZ2JDZVZLWGhMNlJja2pNdlVXNmNyYlhkQWp5U05BakZZdEZfU25sRXU4dU12NXNZRWFOTmFTYWlvdEFFeW1JZjlsdGQyWHRGU1hDbHRyYUNQWDBOQzBtSFJmTTBSRm4tQldLcnFqMkNHc0JzOHF1NHd1LVVZbTdGRGhHNEJhTE1paUdyWHFGNlBjS2hSTU1BaVBBRnRZdzBpUm5GZDA5M2ZpdjhyRTExcXNkN2JTbFBpbFRXTFZUYngwS0I1ZmVBQWZsSDV2RE51OFlnMVAtUXUwRmxvN28?oc=5)
 
 ---
 
