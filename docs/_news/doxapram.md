@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Doxapram. 10 predicted indications."
 permalink: /news/doxapram/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Doxapram News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Doxapram with the latest hea
 
 ## Related News (2)
 
-### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+### [GLP-1 Drugs Linked to 31% Lower Diabetes Risk Than Metformin in Prediabetes - Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span>
+2026-11-10 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">cardiovascular</span>
 
-Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+Source: [Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
 
 ---
 

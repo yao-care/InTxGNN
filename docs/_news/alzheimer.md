@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 1 articles, 8 related drugs."
 permalink: /news/alzheimer/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # dementia (alzheimer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,23 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
-
-### [Blood proteins reveal how menopause may shape brain health later](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
-
-2026-11-11
-
-Source: [Futurity](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
-
----
-
-### [Scientists discover mysterious “lonely” brain waves linked to memory loss](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEt5dVNZbnN4MnR2bHd3WHhsVXgzWVd3OHBRUE5vMUctalpGbGt0ejdKMHY4RTh0eXR3TVJIUFQxem9veUpjaWlCWnlfU3M1Sk5aQzAxcUZTYVB1MGtFSFVGaEQ3TlhNQlMtOTd0OHNaQnd0RGU4ZXZuUmY2ci1SWmh1aU1ScHUwQUtTQ19SOWc2Ynp4MmtUelBLX1JMWFdCLW9zQTJiWEZSUHhq0gGyAUFVX3lxTE1Pc2hDcUpVaUlMTGVJWV9rQThUWmlFMnNyXzlBN1dHWm5HeVV4dlRsRV9jaHVQbFFLaldVdVdLUzJzZ2xSR3ZYckN2ckNveEt4VXVrNXRHRWFULXRmQkNSSGhBNGFSSEJUc0VVUi1SZk9DU0JGQ25WaFVFMC1aT1hDS3lsOXhEZXFhUHJzMVFVZzZ1NExPeU5ubUI4WW9pREozVDlURTFramd0eUFoaVdtQmc?oc=5)
-
-2026-11-10
-
-Source: [ThePrint](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEt5dVNZbnN4MnR2bHd3WHhsVXgzWVd3OHBRUE5vMUctalpGbGt0ejdKMHY4RTh0eXR3TVJIUFQxem9veUpjaWlCWnlfU3M1Sk5aQzAxcUZTYVB1MGtFSFVGaEQ3TlhNQlMtOTd0OHNaQnd0RGU4ZXZuUmY2ci1SWmh1aU1ScHUwQUtTQ19SOWc2Ynp4MmtUelBLX1JMWFdCLW9zQTJiWEZSUHhq0gGyAUFVX3lxTE1Pc2hDcUpVaUlMTGVJWV9rQThUWmlFMnNyXzlBN1dHWm5HeVV4dlRsRV9jaHVQbFFLaldVdVdLUzJzZ2xSR3ZYckN2ckNveEt4VXVrNXRHRWFULXRmQkNSSGhBNGFSSEJUc0VVUi1SZk9DU0JGQ25WaFVFMC1aT1hDS3lsOXhEZXFhUHJzMVFVZzZ1NExPeU5ubUI4WW9pREozVDlURTFramd0eUFoaVdtQmc?oc=5)
-
----
+## Related News (1)
 
 ### [Five UK research hubs to develop technologies for healthier lives](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
 

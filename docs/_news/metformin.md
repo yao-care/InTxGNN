@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Metformin. 5 predicted indications."
 permalink: /news/metformin/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 ---
 
 # Metformin News
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Metformin with the latest he
 
 ### [GLP-1 Drugs Linked to 31% Lower Diabetes Risk Than Metformin in Prediabetes - Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
 
-2026-11-10 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span>
+2026-11-10 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">cardiovascular</span>
 
 Source: [Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
 

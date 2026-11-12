@@ -3,9 +3,9 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 2 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 1 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # dementia (bhoolne ki bimari) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>1 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,15 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (2)
-
-### [Blood proteins reveal how menopause may shape brain health later](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
-
-2026-11-11
-
-Source: [Futurity](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
-
----
+## Related News (1)
 
 ### [Five UK research hubs to develop technologies for healthier lives](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
 

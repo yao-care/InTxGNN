@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Alpelisib. 1 predicted indications."
 permalink: /news/alpelisib/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Alpelisib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Alpelisib?">
-<strong>Alpelisib</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Alpelisib</strong> currently has <strong>1 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ This page combines the AI-predicted indications for Alpelisib with the latest he
 <p><a href="{{ '/drugs/alpelisib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
 ### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
 
 2026-11-10 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
 
 Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
-
----
-
-### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">leprosy</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 
 ---
 

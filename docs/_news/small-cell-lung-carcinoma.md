@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 3 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 4 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>3 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>4 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Living with Stage 4 Lung Cancer, she is turning her fight into a campaign for clean air - The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWQ?oc=5)
+
+2026-11-12
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWQ?oc=5) · [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+
+---
 
 ### [Non-smokers are not safe from lung damage: 5 essential rules to protect yourself from second-hand smoke a - The Times of India](https://news.google.com/rss/articles/CBMiogJBVV95cUxQSWRUZ00xTkxiX1FMNDN4UjZyT1lzenBYZlBLOUsyTEdtZnBnbGhQeDQwUjkyQ3JveWVub2d3NkJ0ajhrV2k1Q2NWX09VVkxtbFFQVV8xcTcyaVlweVV1VUxpR2hMbUtwemtpOGtlOWYweEhwcGZnR0hrbEVQOGZLd0lSSWFWR1drY0xYejJNLWo4UURyYUVNZkEzVGlnTlp6VXZLM2V6eEp5N0JSQ2RYc3hxRzBhOFBGVmFaaE42c1o4VFFobXk4QXJHNUQwVkpyYWlVa0FxUlBDVGxTdUFsVnVRVGZzenZoMk1qaHJmSmFmdjRINllYUzZna2lXTUhwbThrbXk3WVlUMnpDcUpFWDRKdW5Od1l1RDY1LUNJOHdUUdIBpwJBVV95cUxQZzJPSkpWS3poUlFGajZKWl9HMzhtWmNvYlFFU1lrLUNibFgxVDAwOGJiZjRwWEJqNGtwTnRzQmxHVFNzdXEtakZpUjZRVDhkSnRSeW43NHpVYXJPSVM5TFVzbzhyaGhDZGVzUHRjNWVJWG50YmNHQS1UblJMS25nVjd2azhxMzNTQ1oweHFKcG50Sk82MU5NSFFUQ2VhOUNObGxEMFRzOVVJZWFWSjV4emxqN2hLZmYyUDhkTXBoVEJYX0NmYVYwRUpZNTBLYW9zbFBBdXV1RGhxMmpGMm02UXkzZ2loMEVKWnhPbUlBSC1HNzd6c3Ywb050UG00Nm1zZE14YU1UUWRtUkI3Q1U5bUFHaG5SM0lvQ2xTNmhiOTZFZ2cwX2Nn?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "menopause News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause. 2 articles, 23 related drugs."
+description: "Health news about menopause. 3 articles, 23 related drugs."
 permalink: /news/menopause/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # menopause News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about menopause?">
-<strong>menopause</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
+<strong>menopause</strong> currently has <strong>3 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,7 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Blood proteins reveal how menopause may shape brain health later](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1qakIyRnR0eG4zbVB5c19oUzhyQlFYVmlCYlZYUkZQZXhKdjN3V1dyUDdHb1QtcnlCLVRPRk9rN2daTS05SWNaNW9uWDhURTZDZkhCN0hrSlFiZEVNX2hIUFFRdFhWUkNMUmRlN3oyZ1NiMnFpUQ?oc=5)
 
@@ -59,6 +59,14 @@ Source: [Futurity](https://news.google.com/rss/articles/CBMie0FVX3lxTE1HU2htdC1q
 2026-11-10
 
 Source: [Medical News Today](https://news.google.com/rss/articles/CBMivwFBVV95cUxObkZpZXJNLVFBOEYyblFjVUphTEVNa0dqNXgzb2NoLUJmbENWQUVEOS1zZzBoNGlPQUZzMjVHb3Itbm9TNHBWS2tpVXAwZzFQQlk1QkFTRjlMMkJabTN2UjdjcUd3dEdVaFRkXzRrX1Rwb1dvQndOZkRqTEVZX2dvSVVESlNCTHhKQjZMWmwzdGs5bmhEQlJ5a2xKY1BOTXJ3ZnBDZnVlZDZaY2VYMFA3VVFJcldueGc1OU5GSDlpMA?oc=5)
+
+---
+
+### [Do Japanese women experience menopause better because of their soy-rich diet? - The Indian Express](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1NDbV9YU1lCM3RXX2ljWEVwSFd0Z2NyTzJnaDBrUmtwa0tKMkdZaEh6eFluOFhUY3dSeHU1Mm1jM21EMXkxTktsUTlLeUI4Y0ZYcF8yaGFmQmlFWTFfTzhYMGdQRkNqNWtMUlB5N3pMTnFWMVN2dzhtODkyX0V2NmpmTVZBWXkyYWxvdDFSUDBLb0Y2U1JhejZjek4wZk15TllLSmRzYUxiNjdlUm90X2gyT2xoSzM4RmYwRXk2UjjSAccBQVVfeXFMUENCTWxud2EyU0pyXy1kNjBNWHpham9VOFFiYjRFRDhmYXpybmFfMGZ1YUVMVGJwX1VaS3lReG9uWmRPSGNLWGFidERDdkJyNWFubkxHYjlUVzNmSlZWeTV6bUNaXzRnakVtRmN6OFNsU0E5U0NyUzA0TWRpRmc3Vm9aNUsxUElvQzBMWnV5RWJYWlYxNHktU185ZkFRakZzYWsyVEJtbDFybGNYU25oZVlOZUlHZWxzLUFMYldUamd0MGNBVDhRVQ?oc=5)
+
+2026-11-07
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1NDbV9YU1lCM3RXX2ljWEVwSFd0Z2NyTzJnaDBrUmtwa0tKMkdZaEh6eFluOFhUY3dSeHU1Mm1jM21EMXkxTktsUTlLeUI4Y0ZYcF8yaGFmQmlFWTFfTzhYMGdQRkNqNWtMUlB5N3pMTnFWMVN2dzhtODkyX0V2NmpmTVZBWXkyYWxvdDFSUDBLb0Y2U1JhejZjek4wZk15TllLSmRzYUxiNjdlUm90X2gyT2xoSzM4RmYwRXk2UjjSAccBQVVfeXFMUENCTWxud2EyU0pyXy1kNjBNWHpham9VOFFiYjRFRDhmYXpybmFfMGZ1YUVMVGJwX1VaS3lReG9uWmRPSGNLWGFidERDdkJyNWFubkxHYjlUVzNmSlZWeTV6bUNaXzRnakVtRmN6OFNsU0E5U0NyUzA0TWRpRmc3Vm9aNUsxUElvQzBMWnV5RWJYWlYxNHktU185ZkFRakZzYWsyVEJtbDFybGNYU25oZVlOZUlHZWxzLUFMYldUamd0MGNBVDhRVQ?oc=5)
 
 ---
 

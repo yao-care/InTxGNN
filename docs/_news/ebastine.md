@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ebastine. 2 predicted indications."
 permalink: /news/ebastine/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Ebastine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,13 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+### [GLP-1 Drugs Linked to 31% Lower Diabetes Risk Than Metformin in Prediabetes - Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
 
-2026-11-10 <span class="news-indication-tag">heart disease</span>
+2026-11-10 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">cardiovascular</span>
 
-Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+Source: [Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
 
 ---
 
@@ -49,14 +49,6 @@ Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm
 2026-11-10 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
-
----
-
-### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">leprosy</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 
 ---
 

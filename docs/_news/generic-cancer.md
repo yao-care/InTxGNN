@@ -3,9 +3,9 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 15 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 17 articles, 228 related drugs."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # cancer (generic_cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>15 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>17 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [Living with Stage 4 Lung Cancer, she is turning her fight into a campaign for clean air - The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWQ?oc=5)
+
+2026-11-12
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWQ?oc=5) · [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+
+---
+
+### [Cambodia launches HPV campaign - The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUeUpXSFU1TldRT2dlakpBVm9vbm5zdE1fWXZwbnIxZnEwa0JNdWRTYjhDR2pSSzVDMS1xZVlZRmJwakN2NEpLN19sRldoZmlTMnBoWldRb0lJYU0yTGhBR2dyU0RiS3V1djFCdjFJdDB2cnd5THR5TGhfbw?oc=5)
+
+2026-11-12
+
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUeUpXSFU1TldRT2dlakpBVm9vbm5zdE1fWXZwbnIxZnEwa0JNdWRTYjhDR2pSSzVDMS1xZVlZRmJwakN2NEpLN19sRldoZmlTMnBoWldRb0lJYU0yTGhBR2dyU0RiS3V1djFCdjFJdDB2cnd5THR5TGhfbw?oc=5)
+
+---
 
 ### [HCC Blood Test Score Tracks Tumor Size, Not Liver Disease Severity](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE9KNTd5dURoMTJwdDd5QzVtZDZGLTdUSlpHOEhYdWtYa2dPSk4zVnVKOFFxV0lfTkFnSE1TcVc3WHZOVm8taWU3WXQxdWd1QlplSEVYcVRhZkNKSjQ3Ulg4TXNRUm0wY3gtN0VMUWwwUmRtUGEta2Vya1YzYy02UHQxM3kxOHVSMU9aZ21CRk1zcnNrMUNXZ3p3?oc=5)
 
@@ -259,14 +275,6 @@ Source: [Japan Today](https://news.google.com/rss/articles/CBMipAJBVV95cUxOSE51S
 2026-11-11
 
 Source: [SheKnows](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDNaT1pkT21Cb04wOFNVc0pOaEEzN25BNGY2aURudzR1QVF4bENVd0hWVC1CZDJWU1JwZFEwMmt4RUlwMG54dVo3T0tHV1V6bzFRMlFlVGhGWUhWOFY3S3ZjdktTZmdQWXhFaVJFUDA4OEw2Z1lQQ2tfb2NSVG1wci1RbGg4aWNu?oc=5)
-
----
-
-### [Cambodia launches nationwide HPV campaign to protect girls from cervical cancer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMW9QX01aTFZ3bXZSeVZ3SDB0MGozLV93cXp4cjJTQTdtUExGLWNQemlNcWhhc2VSRmtodW5BbmdGSVNTTnpuY0RUam5PTlZQaGFSSEhIbE1tNlRRUmRGRnlPUFl1TlZkWUh4emFydVpVVDBqMWI0ZzZ4RHY?oc=5)
-
-2026-11-11
-
-Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMW9QX01aTFZ3bXZSeVZ3SDB0MGozLV93cXp4cjJTQTdtUExGLWNQemlNcWhhc2VSRmtodW5BbmdGSVNTTnpuY0RUam5PTlZQaGFSSEhIbE1tNlRRUmRGRnlPUFl1TlZkWUh4emFydVpVVDBqMWI0ZzZ4RHY?oc=5)
 
 ---
 
@@ -339,6 +347,14 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN
 2026-11-10
 
 Source: [India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDNMMmhlZXc3NDdGNUhwYnN6ZnRtWkJPMzMxVFBnb284Nnl4YVhPWk9aTk5KNnk3a1hDRkM2M3BIaVdwb0FKOFA2SXN0MHluOXZ0LXZYTDA5SGloWF8teWdzempCR3U4R1NQRXdNdU1fWWpZSTE0dGZ0b1JCOHhoNEFkSXBaMU5oc3hVYXlkWjJVWkl5bUJoN29WaHNQdEU?oc=5)
+
+---
+
+### [How genomics is changing cancer landscape - The Week](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWndZQjNud05YMFk0NmNLbjdmTnRTRmRadm9CMjlYZ0cxc0hVYVctT2FpeC0tOGI3djk0Y2Y0emVtMHYyZjZ0OFdZUlgxLVEyZUJHc3FqejZ2ekZaOUlQbU9wellOYXdOQjJUX2s1NVhyMVB4Mks4eng2V04zbzZSek5jd19sTEJBOEJZZnkyOTJGR3BuS2Vj0gGcAUFVX3lxTFBPVzJocmZwdnMwbFYzVkkzYlVQcUs0elB3NHl0TUM2cHlZN2JVeWY5WW11V1RFR3Q4bDZsamZla1d3QUJtbFRrQ0pfYmZRVTYtWlZCNkhNOTA1NE9zTjdSampjY2VzdEFXNlpYY2lQQ1o2NXFlTG9zT0MtQXowNF9idkFNdi0zcS1WWFlkb0VaaWUwYkY0TFF1clRXVQ?oc=5)
+
+2026-11-07
+
+Source: [The Week](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWndZQjNud05YMFk0NmNLbjdmTnRTRmRadm9CMjlYZ0cxc0hVYVctT2FpeC0tOGI3djk0Y2Y0emVtMHYyZjZ0OFdZUlgxLVEyZUJHc3FqejZ2ekZaOUlQbU9wellOYXdOQjJUX2s1NVhyMVB4Mks4eng2V04zbzZSek5jd19sTEJBOEJZZnkyOTJGR3BuS2Vj0gGcAUFVX3lxTFBPVzJocmZwdnMwbFYzVkkzYlVQcUs0elB3NHl0TUM2cHlZN2JVeWY5WW11V1RFR3Q4bDZsamZla1d3QUJtbFRrQ0pfYmZRVTYtWlZCNkhNOTA1NE9zTjdSampjY2VzdEFXNlpYY2lQQ1o2NXFlTG9zT0MtQXowNF9idkFNdi0zcS1WWFlkb0VaaWUwYkY0TFF1clRXVQ?oc=5)
 
 ---
 

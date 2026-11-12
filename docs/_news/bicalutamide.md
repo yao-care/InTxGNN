@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Bicalutamide. 10 predicted indications."
 permalink: /news/bicalutamide/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Bicalutamide News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Bicalutamide?">
-<strong>Bicalutamide</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
+<strong>Bicalutamide</strong> currently has <strong>17 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Bicalutamide with the latest
 <li>Ambras type hypertrichosis universalis congenita</li>
 <li>syndrome with a Dandy-Walker malformation as major feature</li>
 <li>isolated genetic hair shaft abnormality</li>
-<li class="indication-matched">leprosy<span class="indication-tag">📰 leprosy</span></li>
+<li>leprosy</li>
 <li>multiple endocrine neoplasia</li>
 <li>pulmonary hypertension</li>
 <li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 breast cancer</span></li>
@@ -42,7 +42,23 @@ This page combines the AI-predicted indications for Bicalutamide with the latest
 <p><a href="{{ '/drugs/bicalutamide/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (17)
+
+### [Living with Stage 4 Lung Cancer, she is turning her fight into a campaign for clean air - The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWQ?oc=5) · [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+
+---
+
+### [Cambodia launches HPV campaign - The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUeUpXSFU1TldRT2dlakpBVm9vbm5zdE1fWXZwbnIxZnEwa0JNdWRTYjhDR2pSSzVDMS1xZVlZRmJwakN2NEpLN19sRldoZmlTMnBoWldRb0lJYU0yTGhBR2dyU0RiS3V1djFCdjFJdDB2cnd5THR5TGhfbw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUeUpXSFU1TldRT2dlakpBVm9vbm5zdE1fWXZwbnIxZnEwa0JNdWRTYjhDR2pSSzVDMS1xZVlZRmJwakN2NEpLN19sRldoZmlTMnBoWldRb0lJYU0yTGhBR2dyU0RiS3V1djFCdjFJdDB2cnd5THR5TGhfbw?oc=5)
+
+---
 
 ### [HCC Blood Test Score Tracks Tumor Size, Not Liver Disease Severity](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE9KNTd5dURoMTJwdDd5QzVtZDZGLTdUSlpHOEhYdWtYa2dPSk4zVnVKOFFxV0lfTkFnSE1TcVc3WHZOVm8taWU3WXQxdWd1QlplSEVYcVRhZkNKSjQ3Ulg4TXNRUm0wY3gtN0VMUWwwUmRtUGEta2Vya1YzYy02UHQxM3kxOHVSMU9aZ21CRk1zcnNrMUNXZ3p3?oc=5)
 
@@ -65,14 +81,6 @@ Source: [Japan Today](https://news.google.com/rss/articles/CBMipAJBVV95cUxOSE51S
 2026-11-11 <span class="news-indication-tag">cancer</span>
 
 Source: [SheKnows](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDNaT1pkT21Cb04wOFNVc0pOaEEzN25BNGY2aURudzR1QVF4bENVd0hWVC1CZDJWU1JwZFEwMmt4RUlwMG54dVo3T0tHV1V6bzFRMlFlVGhGWUhWOFY3S3ZjdktTZmdQWXhFaVJFUDA4OEw2Z1lQQ2tfb2NSVG1wci1RbGg4aWNu?oc=5)
-
----
-
-### [Cambodia launches nationwide HPV campaign to protect girls from cervical cancer](https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMW9QX01aTFZ3bXZSeVZ3SDB0MGozLV93cXp4cjJTQTdtUExGLWNQemlNcWhhc2VSRmtodW5BbmdGSVNTTnpuY0RUam5PTlZQaGFSSEhIbE1tNlRRUmRGRnlPUFl1TlZkWUh4emFydVpVVDBqMWI0ZzZ4RHY?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span>
-
-Source: [Xinhua](https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMW9QX01aTFZ3bXZSeVZ3SDB0MGozLV93cXp4cjJTQTdtUExGLWNQemlNcWhhc2VSRmtodW5BbmdGSVNTTnpuY0RUam5PTlZQaGFSSEhIbE1tNlRRUmRGRnlPUFl1TlZkWUh4emFydVpVVDBqMWI0ZzZ4RHY?oc=5)
 
 ---
 
@@ -148,6 +156,14 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cU
 
 ---
 
+### [How genomics is changing cancer landscape - The Week](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWndZQjNud05YMFk0NmNLbjdmTnRTRmRadm9CMjlYZ0cxc0hVYVctT2FpeC0tOGI3djk0Y2Y0emVtMHYyZjZ0OFdZUlgxLVEyZUJHc3FqejZ2ekZaOUlQbU9wellOYXdOQjJUX2s1NVhyMVB4Mks4eng2V04zbzZSek5jd19sTEJBOEJZZnkyOTJGR3BuS2Vj0gGcAUFVX3lxTFBPVzJocmZwdnMwbFYzVkkzYlVQcUs0elB3NHl0TUM2cHlZN2JVeWY5WW11V1RFR3Q4bDZsamZla1d3QUJtbFRrQ0pfYmZRVTYtWlZCNkhNOTA1NE9zTjdSampjY2VzdEFXNlpYY2lQQ1o2NXFlTG9zT0MtQXowNF9idkFNdi0zcS1WWFlkb0VaaWUwYkY0TFF1clRXVQ?oc=5)
+
+2026-11-07 <span class="news-indication-tag">cancer</span>
+
+Source: [The Week](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWndZQjNud05YMFk0NmNLbjdmTnRTRmRadm9CMjlYZ0cxc0hVYVctT2FpeC0tOGI3djk0Y2Y0emVtMHYyZjZ0OFdZUlgxLVEyZUJHc3FqejZ2ekZaOUlQbU9wellOYXdOQjJUX2s1NVhyMVB4Mks4eng2V04zbzZSek5jd19sTEJBOEJZZnkyOTJGR3BuS2Vj0gGcAUFVX3lxTFBPVzJocmZwdnMwbFYzVkkzYlVQcUs0elB3NHl0TUM2cHlZN2JVeWY5WW11V1RFR3Q4bDZsamZla1d3QUJtbFRrQ0pfYmZRVTYtWlZCNkhNOTA1NE9zTjdSampjY2VzdEFXNlpYY2lQQ1o2NXFlTG9zT0MtQXowNF9idkFNdi0zcS1WWFlkb0VaaWUwYkY0TFF1clRXVQ?oc=5)
+
+---
+
 ### [Can drinking very hot tea or coffee lead to food pipe cancer?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHEteGdrVzhLM0ZRSDBTOW83aGtyalM3aDZDNnFnZjhhYnprVFl2YldyRWg3Z1IxUW5lLUZaS2lZNDBPVGY3M2RKU05fa09iSkN3M0lfcHVlTzZxZjZqbzF4TzA5TFA1SkFtVDUwUkYwTzVZMTRpOC1zMG9yUW5NTjYtdkFsLWN1NlR5LTVZX3dyM3BUbkx4V3FJV2pWRE5wb19LUDZNMVNGZ2M1clFJ0gG0AUFVX3lxTFBEcTVTOFYyLXdDOGtUZnZ5blkzUFhJQ0dfS1ZERzlNVmtFMjA5VFdjTk83a1hDbi1lcDBjOU95aHVqeW5kOU1sSGlVb1pLVTVFM3FsWlJ2Z285T2xQOHF3aUpjai1JcjExU3ZmcFZRNlk0ZUV5TzV6T2NOY1lQNUtCbmtfUTF1OXdZNVY2VnlvemoxQ3hHellIeWxQTmVqN3ZmVThsRi1YN2NJYmVMSUFkT0d2MA?oc=5)
 
 2026-11-07 <span class="news-indication-tag">cancer</span>
@@ -161,14 +177,6 @@ Source: [Firstpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHEteGd
 2026-11-05 <span class="news-indication-tag">cancer</span>
 
 Source: [Innovation News Network](https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5jTUVMSHlJRFdPbHpRbWFJSTNsWWw3QzlWMjJVcVdWdlFJOEZ2OGJraFl0RDNsMTlXNWdJNC02Z242VWdsbTRFbkttRVIyVlhUMFZwUTBQRHcyTkRhODh4YTcxdTQ4UlAtbzBBMFRUMHBnelNzM05TbEF6dGNFQ0NIWnRPeFhITHY4Tg?oc=5)
-
----
-
-### [Global Advances In Neglected Tropical Disease Control Highlighted By WHO Amid Funding Concerns](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">leprosy</span>
-
-Source: [NDTV](https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFdmNlFzeEZCM2JlS1R5RWUzVmtibExJNUU2WXVBaG9LSDBaeTJQU2REVzZrd1U3SkZ2RnNqc1BLNVFQVWJHN19QR2o0NFJrOWY4WlkxRWhqY1RDOEFzX201eFNBWmY5OFBtVUlMbm9BN0VpXzFsMDJubEF5VDFreVFudWUwa181VEhGT0ZxTkNiVmJxNUp2U2dQM2VYS2ctckluc3dFQy1Dc3pPRGxTWGNyWDBMMjhFQWVydDJwWWRmUktPbm5fLUhBTQ?oc=5)
 
 ---
 
