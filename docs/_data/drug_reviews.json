@@ -1,0 +1,1209 @@
+{
+ "_doc": "藥物頁人工查核紀錄（單一真實來源；2026-11-12 建，核心流程比照 TwTxGNN docs/_data/drug_reviews.json，欄位相同）。每筆＝一次查核：drug／file／claim（頁面原句）／replacement（更正後）／note（頁面上顯示的英文說明）／finding（內部查證結論）／sources（網址＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 附來源段落｜rereview_result 重審結果｜header_level｜description_level）。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；改寫頁面的程式結尾都會重套，scripts/check_seo_docs.py 第 17 項擋未套用的紀錄。原則：基本事實照主管機關資料更正；模型預測原文不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新。2026-10-31～11-06 許可證修正時直接刪掉的矛盾子句（10-31 dcc29335e、11-06 a373ef9df（單方／複方說法）），2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入（id 以 in-lic- 開頭）；報告在 11 月經 AI 重產、原句已不在頁面的標 status=resolved_by_regeneration。同 id 重發時前版存進 history（retired、reason），不覆蓋丟棄。",
+ "schema_version": 1,
+ "records": [
+  {
+   "id": "in-lic-20261106-allantoin-1",
+   "drug": "allantoin",
+   "file": "allantoin.md",
+   "action": "correct",
+   "claim": "Eleven valid single-ingredient registrations are on record; the five main ones are listed above.",
+   "replacement": "Eleven valid registrations are on record; the five main ones are listed above.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-amiloride-1",
+   "drug": "amiloride",
+   "file": "amiloride.md",
+   "action": "correct",
+   "claim": "Four valid single-ingredient licences are recorded.",
+   "replacement": "Four valid licences are recorded.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-aminophylline-1",
+   "drug": "aminophylline",
+   "file": "aminophylline.md",
+   "action": "correct",
+   "claim": "Seven valid single-ingredient licences are registered in total; the five above are shown.",
+   "replacement": "Seven valid licences are registered in total; the five above are shown.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-amylmetacresol-1",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "action": "correct",
+   "claim": "All 6 registrations are single-ingredient products with valid status.",
+   "replacement": "All 6 registrations are products with valid status.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-arginine-1",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "All 11 registrations are valid single-ingredient products, and none are cancelled.",
+   "replacement": "All 11 registrations are valid products, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 3 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-atazanavir-1",
+   "drug": "atazanavir",
+   "file": "atazanavir.md",
+   "action": "correct",
+   "claim": "Showing 5 of 11 valid licences; all 11 are single-ingredient products and none are cancelled.",
+   "replacement": "Showing 5 of 11 valid licences; all 11 are products and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-bacitracin-1",
+   "drug": "bacitracin",
+   "file": "bacitracin.md",
+   "action": "correct",
+   "claim": "All 11 registrations are valid single-ingredient licences.",
+   "replacement": "All 11 registrations are valid licences.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 11 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-beta_carotene-1",
+   "drug": "beta_carotene",
+   "file": "beta_carotene.md",
+   "action": "correct",
+   "claim": "Both licences are valid single-ingredient products (oral).",
+   "replacement": "Both licences are valid products (oral).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 2 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-biotin-1",
+   "drug": "biotin",
+   "file": "biotin.md",
+   "action": "correct",
+   "claim": "Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled.",
+   "replacement": "Biotin is marketed in India, with 18 valid licences and none cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 18 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-calcium_citrate-1",
+   "drug": "calcium_citrate",
+   "file": "calcium_citrate.md",
+   "action": "correct",
+   "claim": "All 8 registrations are valid single-ingredient licences for oral tablets; the five above are shown.",
+   "replacement": "All 8 registrations are valid licences for oral tablets; the five above are shown.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-camphor-1",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "action": "correct",
+   "claim": "Camphor has 19 valid single-ingredient registrations and none are cancelled or combination products.",
+   "replacement": "Camphor has 19 valid registrations and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 19 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient or combination products\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-clioquinol-1",
+   "drug": "clioquinol",
+   "file": "clioquinol.md",
+   "action": "correct",
+   "claim": "All five registrations are valid single-ingredient topical products (creams and ointments).",
+   "replacement": "All five registrations are valid topical products (creams and ointments).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 5 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-clonidine-1",
+   "drug": "clonidine",
+   "file": "clonidine.md",
+   "action": "correct",
+   "claim": "All 20 records are valid, and all are single-ingredient products.",
+   "replacement": "All 20 records are valid.",
+   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 20 product records for this drug, 20 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 20 張，其中單方 19 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"and all are single-ingredient products\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261031-conivaptan-1",
+   "drug": "conivaptan",
+   "file": "conivaptan.md",
+   "action": "correct",
+   "claim": "The high TxGNN score (0.9952) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology.",
+   "replacement": "The high TxGNN score (0.9952) is a computational prediction.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Removed: \"The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharm\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+  },
+  {
+   "id": "in-lic-20261106-cyanocobalamin-1",
+   "drug": "cyanocobalamin",
+   "file": "cyanocobalamin.md",
+   "action": "correct",
+   "claim": "All 8 licences are single-ingredient products and currently valid; the table lists the first five.",
+   "replacement": "All 8 licences are currently valid; the table lists the first five.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient products and\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-darunavir-1",
+   "drug": "darunavir",
+   "file": "darunavir.md",
+   "action": "correct",
+   "claim": "At least the following authorisations are recorded (8 single-ingredient licences, all valid, none cancelled).",
+   "replacement": "At least the following authorisations are recorded (8 licences, all valid, none cancelled).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-dexketoprofen-1",
+   "drug": "dexketoprofen",
+   "file": "dexketoprofen.md",
+   "action": "correct",
+   "claim": "All 6 registrations are single-ingredient products and currently valid.",
+   "replacement": "All 6 registrations are currently valid.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient products and\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-difluprednate-1",
+   "drug": "difluprednate",
+   "file": "difluprednate.md",
+   "action": "correct",
+   "claim": "All 19 registrations are valid single-ingredient ophthalmic products.",
+   "replacement": "All 19 registrations are valid ophthalmic products.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 19 張，其中單方 18 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-diosmin-1",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "action": "correct",
+   "claim": "Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones.",
+   "replacement": "Diosmin has 17 valid registrations in India and no cancelled ones.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 17 張，其中單方 9 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-efonidipine-1",
+   "drug": "efonidipine",
+   "file": "efonidipine.md",
+   "action": "correct",
+   "claim": "Seven valid single-ingredient registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).",
+   "replacement": "Seven valid registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-ephedrine-1",
+   "drug": "ephedrine",
+   "file": "ephedrine.md",
+   "action": "correct",
+   "claim": "All three registrations are valid single-ingredient licenses.",
+   "replacement": "All three registrations are valid licenses.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-epinephrine-1",
+   "drug": "epinephrine",
+   "file": "epinephrine.md",
+   "action": "correct",
+   "claim": "All 8 registrations are valid single-ingredient injectables.",
+   "replacement": "All 8 registrations are valid injectables.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 7 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-evogliptin-1",
+   "drug": "evogliptin",
+   "file": "evogliptin.md",
+   "action": "correct",
+   "claim": "All three authorizations are valid single-ingredient registrations held by Alkem Laboratories Ltd, in oral form.",
+   "replacement": "All three authorizations are valid registrations held by Alkem Laboratories Ltd, in oral form.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-ferrous_bisglycinate-1",
+   "drug": "ferrous_bisglycinate",
+   "file": "ferrous_bisglycinate.md",
+   "action": "correct",
+   "claim": "Six valid single-ingredient licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets).",
+   "replacement": "Six valid licenses are registered in total (a sixth product, Hbqte-XT Tablet, license 104189, comes in strips of 15 tablets).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-fluphenazine-1",
+   "drug": "fluphenazine",
+   "file": "fluphenazine.md",
+   "action": "correct",
+   "claim": "Twelve valid single-ingredient registrations exist, with no cancelled licences.",
+   "replacement": "Twelve valid registrations exist, with no cancelled licences.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 11 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-halometasone-1",
+   "drug": "halometasone",
+   "file": "halometasone.md",
+   "action": "correct",
+   "claim": "All four registrations are valid single-ingredient products.",
+   "replacement": "All four registrations are valid products.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-hydroxocobalamin-1",
+   "drug": "hydroxocobalamin",
+   "file": "hydroxocobalamin.md",
+   "action": "correct",
+   "claim": "All four licences are valid single-ingredient injectables.",
+   "replacement": "All four licences are valid injectables.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 3 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-indacaterol-1",
+   "drug": "indacaterol",
+   "file": "indacaterol.md",
+   "action": "correct",
+   "claim": "All 9 registrations are valid single-ingredient licences.",
+   "replacement": "All 9 registrations are valid licences.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 9 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-insulin_aspart-1",
+   "drug": "insulin_aspart",
+   "file": "insulin_aspart.md",
+   "action": "correct",
+   "claim": "All 12 licences are valid, single-ingredient products from Novo Nordisk India Pvt Ltd.",
+   "replacement": "All 12 licences are valid products from Novo Nordisk India Pvt Ltd.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 7 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-insulin_degludec-1",
+   "drug": "insulin_degludec",
+   "file": "insulin_degludec.md",
+   "action": "correct",
+   "claim": "All four registrations are valid, single-ingredient products from Novo Nordisk India Pvt Ltd.",
+   "replacement": "All four registrations are valid products from Novo Nordisk India Pvt Ltd.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 4 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-insulin_lispro-1",
+   "drug": "insulin_lispro",
+   "file": "insulin_lispro.md",
+   "action": "correct",
+   "claim": "All 14 registrations are single-ingredient products and currently valid.",
+   "replacement": "All 14 registrations are currently valid.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 14 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient products and\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-isopropamide-1",
+   "drug": "isopropamide",
+   "file": "isopropamide.md",
+   "action": "correct",
+   "claim": "All 6 registrations are valid single-ingredient entries (the table lists the first 5).",
+   "replacement": "All 6 registrations are valid entries (the table lists the first 5).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261031-l-glutamine-1",
+   "drug": "l-glutamine",
+   "file": "l-glutamine.md",
+   "action": "correct",
+   "claim": "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis.",
+   "replacement": "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Removed: \"Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no en\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+  },
+  {
+   "id": "in-lic-20261106-ledipasvir-1",
+   "drug": "ledipasvir",
+   "file": "ledipasvir.md",
+   "action": "correct",
+   "claim": "Fourteen valid single-ingredient registrations are listed in total; all are oral tablets.",
+   "replacement": "Fourteen valid registrations are listed in total; all are oral tablets.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 14 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261031-levosalbutamol-1",
+   "drug": "levosalbutamol",
+   "file": "levosalbutamol.md",
+   "action": "correct",
+   "claim": "The best-supported prediction, obstructive lung disease, is largely an extension of the existing asthma and bronchial indication rather than a new one. Its only registered trial was withdrawn with no participants, so no completed Phase 3 trial confirms it.",
+   "replacement": "The best-supported prediction, obstructive lung disease, is largely an extension of the existing asthma and bronchial indication rather than a new one.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31).",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Removed: \"Its only registered trial was withdrawn with no participants, so no completed Phase 3 trial confirms it\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-12",
+   "resolved_note": "the report was regenerated in 2026-11 and no longer contains this statement"
+  },
+  {
+   "id": "in-lic-20261031-lurasidone-1",
+   "drug": "lurasidone",
+   "file": "lurasidone.md",
+   "action": "correct",
+   "claim": "The TxGNN score is very high, but lurasidone is already used in bipolar disorder, so this prediction adds little that is new. Direct evidence for acute mania is thin: the only mania trial was withdrawn with no enrolment, and the supporting literature is mostly reviews, guidelines and meta-analyses on bipolar depression.",
+   "replacement": "The TxGNN score is very high, but lurasidone is already used in bipolar disorder, so this prediction adds little that is new.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31).",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Removed: \"Direct evidence for acute mania is thin: the only mania trial was withdrawn with no enrolment, and the supporting literature is mostly revie\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+  },
+  {
+   "id": "in-lic-20261106-magnesium_citrate-1",
+   "drug": "magnesium_citrate",
+   "file": "magnesium_citrate.md",
+   "action": "correct",
+   "claim": "Twelve valid single-ingredient licences are registered in total; the five above are shown. There are no combination or cancelled licences.",
+   "replacement": "Twelve valid licences are registered in total; the five above are shown. There are no cancelled licences.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient ombination or c\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-meclizine-1",
+   "drug": "meclizine",
+   "file": "meclizine.md",
+   "action": "correct",
+   "claim": "Sixteen valid single-ingredient registrations exist and none are cancelled.",
+   "replacement": "Sixteen valid registrations exist and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 16 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-mephenesin-1",
+   "drug": "mephenesin",
+   "file": "mephenesin.md",
+   "action": "correct",
+   "claim": "All three licenses are valid single-ingredient products, and all are topical gels.",
+   "replacement": "All three licenses are valid products, and all are topical gels.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 1 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-nefopam-1",
+   "drug": "nefopam",
+   "file": "nefopam.md",
+   "action": "correct",
+   "claim": "All three licences are valid single-ingredient products, available in oral and injectable forms.",
+   "replacement": "All three licences are valid products, available in oral and injectable forms.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-nicergoline-1",
+   "drug": "nicergoline",
+   "file": "nicergoline.md",
+   "action": "correct",
+   "claim": "All five licences are valid single-ingredient oral products.",
+   "replacement": "All five licences are valid oral products.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 5 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-polyvinyl_alcohol-1",
+   "drug": "polyvinyl_alcohol",
+   "file": "polyvinyl_alcohol.md",
+   "action": "correct",
+   "claim": "All 16 licences are for single-ingredient, valid products, with none cancelled.",
+   "replacement": "All 16 licences are for valid products, with none cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 16 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-potassium-1",
+   "drug": "potassium",
+   "file": "potassium.md",
+   "action": "correct",
+   "claim": "All three are valid single-ingredient registrations.",
+   "replacement": "All three are valid registrations.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 3 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-potassium_iodide-1",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "action": "correct",
+   "claim": "All are single-ingredient products and all are currently valid.",
+   "replacement": "All are are currently valid.",
+   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 7 product records for this drug, 7 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient products and all\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261031-pregabalin-1",
+   "drug": "pregabalin",
+   "file": "pregabalin.md",
+   "action": "correct",
+   "claim": "Migraine disorder has the strongest support among the predictions, with randomized pediatric trials against propranolol and valproate (L2). However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small.",
+   "replacement": "Migraine disorder has the strongest support among the predictions, with randomized pediatric trials against propranolol and valproate (L2).",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31).",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Removed: \"However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+  },
+  {
+   "id": "in-lic-20261106-prilocaine-1",
+   "drug": "prilocaine",
+   "file": "prilocaine.md",
+   "action": "correct",
+   "claim": "All 19 registrations are valid single-ingredient products, mainly topical creams, gels and an ointment.",
+   "replacement": "All 19 registrations are valid products, mainly topical creams, gels and an ointment.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 19 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-quinapril-1",
+   "drug": "quinapril",
+   "file": "quinapril.md",
+   "action": "correct",
+   "claim": "Seven valid single-ingredient registrations are listed in total; all are oral tablets.",
+   "replacement": "Seven valid registrations are listed in total; all are oral tablets.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-ritonavir-1",
+   "drug": "ritonavir",
+   "file": "ritonavir.md",
+   "action": "correct",
+   "claim": "Ritonavir is marketed in India with 17 valid single-ingredient approvals.",
+   "replacement": "Ritonavir is marketed in India with 17 valid approvals.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 17 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-sacubitril-1",
+   "drug": "sacubitril",
+   "file": "sacubitril.md",
+   "action": "correct",
+   "claim": "There are 15 valid single-ingredient registrations in total, all oral tablets, and none are cancelled.",
+   "replacement": "There are 15 valid registrations in total, all oral tablets, and none are cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 15 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-silver-1",
+   "drug": "silver",
+   "file": "silver.md",
+   "action": "correct",
+   "claim": "There are 9 valid single-ingredient registrations in total; the table lists the first 5.",
+   "replacement": "There are 9 valid registrations in total; the table lists the first 5.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 9 張，其中單方 7 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-sodium_feredetate-1",
+   "drug": "sodium_feredetate",
+   "file": "sodium_feredetate.md",
+   "action": "correct",
+   "claim": "All six registrations are single-ingredient products and none has been cancelled.",
+   "replacement": "One has been cancelled.",
+   "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"All six registrations are single-ingredient products and no\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-sodium_fluoride-1",
+   "drug": "sodium_fluoride",
+   "file": "sodium_fluoride.md",
+   "action": "correct",
+   "claim": "All five registrations are valid single-ingredient products.",
+   "replacement": "All five registrations are valid products.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 5 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-stavudine-1",
+   "drug": "stavudine",
+   "file": "stavudine.md",
+   "action": "correct",
+   "claim": "All 13 registrations are currently valid single-ingredient licences.",
+   "replacement": "All 13 registrations are currently valid licences.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 13 張，其中單方 9 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-tazarotene-1",
+   "drug": "tazarotene",
+   "file": "tazarotene.md",
+   "action": "correct",
+   "claim": "There are 12 valid single-ingredient registrations in total, all topical creams or gels.",
+   "replacement": "There are 12 valid registrations in total, all topical creams or gels.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 12 張，其中單方 11 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-ticarcillin-1",
+   "drug": "ticarcillin",
+   "file": "ticarcillin.md",
+   "action": "correct",
+   "claim": "Fifteen valid single-ingredient registrations were found.",
+   "replacement": "Fifteen valid registrations were found.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 15 張，其中單方 0 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-tropicamide-1",
+   "drug": "tropicamide",
+   "file": "tropicamide.md",
+   "action": "correct",
+   "claim": "Tropicamide has 14 valid single-ingredient registrations, all ophthalmic eye drops.",
+   "replacement": "Tropicamide has 14 valid registrations, all ophthalmic eye drops.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 14 張，其中單方 12 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-vitamin_a-1",
+   "drug": "vitamin_a",
+   "file": "vitamin_a.md",
+   "action": "correct",
+   "claim": "Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms).",
+   "replacement": "Eight valid registrations exist in total (injection, capsule, syrup, and chewable tablet forms).",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 4 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-vitamin_e-1",
+   "drug": "vitamin_e",
+   "file": "vitamin_e.md",
+   "action": "correct",
+   "claim": "Seven single-ingredient oral registrations are valid in total, and none has been cancelled.",
+   "replacement": "Seven oral registrations are valid in total, and none has been cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 7 張，其中單方 5 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261106-zinc_acetate-1",
+   "drug": "zinc_acetate",
+   "file": "zinc_acetate.md",
+   "action": "correct",
+   "claim": "All 8 registrations are valid single-ingredient products, and none is cancelled.",
+   "replacement": "All 8 registrations are valid products, and none is cancelled.",
+   "note": "Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06).",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 8 張，其中單方 6 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-11-06"
+    }
+   ],
+   "checked": "2026-11-06",
+   "summary": "Removed: \"single-ingredient\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+  },
+  {
+   "id": "in-lic-20261031-zonisamide-1",
+   "drug": "zonisamide",
+   "file": "zonisamide.md",
+   "action": "correct",
+   "claim": "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.\n- **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment.",
+   "replacement": "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.",
+   "note": "Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 13 product records for this drug, 13 current; the Quick Overview and the table under India Market Information show the current figures.",
+   "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+   "sources": [
+    {
+     "title": "Indian Medicine Dataset",
+     "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+     "accessed": "2026-10-31"
+    }
+   ],
+   "checked": "2026-10-31",
+   "summary": "Removed: \"**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：dcc29335e（2026-10-31）"
+  }
+ ]
+}

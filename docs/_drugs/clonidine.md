@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Clonidine: predicted new indication faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -72,6 +72,12 @@ Currently no related literature available.
 
 Clonidine is marketed in India. All 20 records are valid. The data compiled for this report carry no approved-indication text for these records. The main ones are listed below.
 
+<!-- review:begin in-lic-20261106-clonidine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 20 records are valid, and all are single-ingredient products." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 20 product records for this drug, 20 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-clonidine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 612 | Arkamin H Tablet | Strip of 10 tablets | Not recorded |
@@ -97,6 +103,19 @@ The score is very high, but there are no clinical trials, no publications and no
 - Mechanism of action data for clonidine and any biological rationale linking alpha-2 agonism to this syndrome
 - Preclinical or case-level evidence in the condition
 - Package insert warnings and contraindications for the Indian products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "and all are single-ingredient products" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

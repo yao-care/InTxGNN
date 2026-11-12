@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 300
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Efonidipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
 description: "Efonidipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
@@ -89,6 +89,12 @@ No publications directly support efonidipine in pulmonary hypertension. Two indi
 
 Seven valid registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet).
 
+<!-- review:begin in-lic-20261106-efonidipine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Seven valid single-ingredient registrations exist in total (the two not shown are Efnocar-MX 40/25 Tablet MR and Efonta T 20mg/40mg Tablet)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-efonidipine-1 -->
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
@@ -109,6 +115,19 @@ The prediction score is high (0.9914), but there are no clinical trials and no e
 - A literature search focused on efonidipine and pulmonary vascular effects
 - Safety assessment for pulmonary hypertension populations, including haemodynamic effects of systemic vasodilation
 - Review of the closer-to-label predictions (malignant hypertensive renal disease, malignant renovascular hypertension) as possibly lower-risk alternatives to explore
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

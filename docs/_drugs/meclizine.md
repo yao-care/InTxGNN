@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Meclizine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Central nervous system origin vertigo"
 monitor_inn: "Meclizine"
 predicted_indications: ["allergic urticaria", "common cold", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "cold urticaria"]
@@ -79,6 +79,12 @@ H1-antihistamines are the standard first-line therapy for urticaria, so the mech
 
 Sixteen valid registrations exist and none are cancelled. The records contain no approved indication text. The five main authorizations are listed below.
 
+<!-- review:begin in-lic-20261106-meclizine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Sixteen valid single-ingredient registrations exist and none are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-meclizine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 58351 | Diligan 25 Tablet (Dr Reddy's Laboratories Ltd) | Strip of 15 tablets | Not stated |
@@ -114,6 +120,19 @@ The prediction is supported only by a high model score and class-level pharmacol
 - A literature search for any meclizine data in allergic, chronic, or physical (including cold) urticaria. Cold urticaria is the best-supported candidate for follow-up.
 - A comparison against second-generation antihistamines to determine whether meclizine adds value
 - A specific condition definition if "nasal cavity disease" is to be pursued
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

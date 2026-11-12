@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 698
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -102,6 +102,12 @@ Evidence for migraine disorder (rank 4) is also thin. One N/A-phase topical anal
 
 All 19 registrations are valid products, mainly topical creams, gels and an ointment. No approved indication text is recorded for any of them. A selection of the main authorisations:
 
+<!-- review:begin in-lic-20261106-prilocaine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 19 registrations are valid single-ingredient products, mainly topical creams, gels and an ointment." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-prilocaine-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 174279 | Prilox Cream (Neon Laboratories) | Cream, 5 g tube | Not recorded |
@@ -145,6 +151,19 @@ The prilocaine-specific evidence is limited to small, dated studies of the lidoc
 - Controlled studies of topical lidocaine/prilocaine in neuralgia that include a comparator and clearly separate the effect of prilocaine
 - A safety plan for methemoglobinemia risk, covering the interacting drugs, barrier-compromised skin, and young or vulnerable patients
 - Confirmation of route and formulation compatibility with the intended neuropathic pain use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

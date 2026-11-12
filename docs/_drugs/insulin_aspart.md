@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Insulin aspart"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 description: "Insulin Aspart: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -105,6 +105,12 @@ Approved indication text is not available for these licences.
 
 All 12 licences are valid products from Novo Nordisk India Pvt Ltd.
 
+<!-- review:begin in-lic-20261106-insulin_aspart-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 12 licences are valid, single-ingredient products from Novo Nordisk India Pvt Ltd." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-insulin_aspart-1 -->
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
@@ -124,6 +130,19 @@ Multiple completed Phase 3 trials and several systematic reviews support insulin
 **Other predicted indications:** The remaining predictions have little or no supporting evidence.
 - Permanent neonatal diabetes mellitus and pancreatic agenesis are mechanistically plausible (insulin deficiency) but supported only by indirect literature, so they remain research questions.
 - The other predictions (e.g. autoimmune oophoritis, stiff person syndrome, lipodystrophies) have no clinical evidence and likely reflect network associations. Drug-induced localized lipodystrophy is a known adverse effect of insulin injection. These should be held.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

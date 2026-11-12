@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Sodium fluoride"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "gonococcal urethritis", "Ureaplasma urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
 description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -101,6 +101,12 @@ A search for the lower-ranked prediction, laryngitis, returned four publications
 
 All five registrations are valid products.
 
+<!-- review:begin in-lic-20261106-sodium_fluoride-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five registrations are valid single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-sodium_fluoride-1 -->
+
 ---
 
 ## Safety Considerations
@@ -124,6 +130,19 @@ The prediction rests only on a model score, with no clinical trials, no supporti
 - Preclinical or in vitro evidence for activity relevant to epiglottitis
 - Confirmation of the approved indications and routes of administration for the registered products
 - Review of whether the high-scoring infection predictions reflect similarities the TxGNN model (deep learning) learned between related diseases rather than biological evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

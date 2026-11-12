@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -115,12 +115,31 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Rationale:**
 Migraine disorder has the strongest support among the predictions, with randomized pediatric trials against propranolol and valproate (L2). The top-scoring prediction (tendinitis) and the myositis predictions rest on the model score alone. Package insert safety data are also missing, so safety screening cannot proceed.
 
+<!-- review:begin in-lic-20261031-pregabalin-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "Migraine disorder has the strongest support among the predictions, with randomized pediatric trials against propranolol and valproate (L2). However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261031-pregabalin-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the Indian regulatory source (a blocking gap)
 - Detailed mechanism of action data from DrugBank
 - Adult randomized controlled trials of pregabalin for migraine prevention
 - Review of sedation and sexual dysfunction risks, and of the interaction with opioids
 - Confirmation of the pediatric trial results, and a decision on target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

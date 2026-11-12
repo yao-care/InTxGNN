@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Nicergoline"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 description: "Nicergoline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
@@ -104,6 +104,12 @@ The literature below relates to migraine disorder, the only predicted indication
 
 All five licences are valid oral products.
 
+<!-- review:begin in-lic-20261106-nicergoline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five licences are valid single-ingredient oral products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-nicergoline-1 -->
+
 ---
 
 ## Safety Considerations
@@ -126,6 +132,19 @@ Please refer to the package insert for safety information.
 - Mechanism of action data for nicergoline (for example, from DrugBank)
 - For migraine: a systematic search for controlled clinical trials of nicergoline, and comparison with established prophylaxis options
 - For BPH: a literature search and a comparison of alpha-1 selectivity and blood-pressure effects against existing alpha-blockers
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

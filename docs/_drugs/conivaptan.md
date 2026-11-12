@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 211
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Conivaptan: predicted new indication Pulmonary hypertension (evidence level L4). Approved use: Not stated in the Indian license data (conivaptan is generally used f…"
 monitor_inn: "Conivaptan"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "kyphoscoliotic heart disease", "peripheral arterial disease", "peripheral vascular disease"]
@@ -97,12 +97,31 @@ Please refer to the package insert for warnings and contraindications.
 **Rationale:**
 The high TxGNN score (0.9952) is a computational prediction. The mechanistic link is plausible but indirect, so there is no clinical evidence for pulmonary hypertension.
 
+<!-- review:begin in-lic-20261031-conivaptan-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The high TxGNN score (0.9952) is a computational prediction. The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharmacology." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261031-conivaptan-1 -->
+
 **To proceed, the following is needed:**
 - Package insert warnings, contraindications, and approved indication text for Hyponat 20 mg Injection (currently missing and blocking safety screening)
 - Detailed mechanism of action data
 - Clinical data in pulmonary hypertension, such as a well-designed pilot or Phase 2 study, especially in right heart failure with volume overload
 - Evaluation of the clinical relevance of the many Major drug interactions
 - Assessment of whether the injectable-only route suits the intended use in pulmonary hypertension
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "The only trial was withdrawn without enrolling anyone, and the literature consists of reviews on heart-failure hyponatremia and animal pharm" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

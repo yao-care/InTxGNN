@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Isopropamide"
 predicted_indications: ["gastroduodenitis", "overactive bladder (disease)"]
 description: "Isopropamide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -76,6 +76,12 @@ This link is inferred from the drug class and has not been confirmed. The very h
 
 All 6 registrations are valid entries (the table lists the first 5). The remaining registration is Stelbid 2 Tablet (200066). All are oral tablets.
 
+<!-- review:begin in-lic-20261106-isopropamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 6 registrations are valid single-ingredient entries (the table lists the first 5)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-isopropamide-1 -->
+
 ## Safety Considerations
 
 - **Conditions flagged in the knowledge graph as contraindications** (from drug-disease relationships in the TxGNN knowledge graph, not from package insert text):
@@ -102,6 +108,19 @@ The prediction rests only on a computational score and class-level mechanistic r
 - Approved indication text for the registered products
 - Route and dosing compatibility assessment for the new indication
 - For overactive bladder, a comparison against approved antimuscarinics and an assessment of tissue penetration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

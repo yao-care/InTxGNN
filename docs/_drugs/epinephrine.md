@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Epinephrine"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -104,6 +104,12 @@ Fifteen trials were compiled; the 10 most relevant are listed below.
 
 All 8 registrations are valid injectables. No inhaled product is registered in India according to the compiled data.
 
+<!-- review:begin in-lic-20261106-epinephrine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 8 registrations are valid single-ingredient injectables." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-epinephrine-1 -->
+
 ## Safety Considerations
 
 - **Contraindications (not from label text)**: hypertension, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, angle-closure glaucoma, diabetes mellitus and diabetic ketoacidosis, hyperthyroidism, liver and kidney disease, epilepsy, benign prostatic hyperplasia, respiratory failure, and myasthenia gravis, among others.
@@ -132,6 +138,18 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma support effica
 |------|------|------|------|------|
 | Rienhoff syndrome | 0.9957 | L5 | Hold | No mechanistic rationale, trials, or literature; computational prediction only |
 | Respiratory malformation | 0.9956 | L3 | Hold | Only a Phase 1 trial in transient tachypnea of the newborn (not a structural malformation); retrieved literature is largely off-target |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

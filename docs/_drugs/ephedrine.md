@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 312
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Ephedrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Not recorded in the local data"
@@ -99,6 +99,12 @@ Currently no related clinical trials registered.
 
 All three registrations are valid licenses. Available forms are oral (tablet) and injectable.
 
+<!-- review:begin in-lic-20261106-ephedrine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three registrations are valid single-ingredient licenses." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-ephedrine-1 -->
+
 ---
 
 ## Safety Considerations
@@ -138,6 +144,19 @@ The prediction score is high, but the predicted indication largely overlaps with
 - Approved indication text for the three India registrations
 - Clarification of whether "nasal cavity disease" adds anything beyond existing rhinitis indications
 - Modern controlled studies of ephedrine for nasal congestion, with cardiovascular safety assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

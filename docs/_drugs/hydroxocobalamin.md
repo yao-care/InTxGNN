@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 414
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Hydroxocobalamin"
 predicted_indications: ["esophageal varices without bleeding", "esophageal varices with bleeding"]
 description: "Hydroxocobalamin: predicted new indication Esophageal varices without bleeding (evidence level L5). Approved use: Not recorded in the local data"
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 All four licences are valid injectables. No oral or other non-injectable forms are registered.
 
+<!-- review:begin in-lic-20261106-hydroxocobalamin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four licences are valid single-ingredient injectables." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-hydroxocobalamin-1 -->
+
 ## Safety Considerations
 
 - **Knowledge-graph contraindications**: Hypertensive disorder and hypertension are listed as contraindications. These come from drug-disease relationships in the knowledge graph, not from label text. This is relevant because hydroxocobalamin can cause transient hypertension, which matters in portal hypertension and bleeding settings.
@@ -110,6 +116,19 @@ The prediction rests on a model score alone (L5). There are no clinical trials a
 - A literature and trial search specific to varices to confirm whether any evidence exists
 - Route and dosing compatibility assessment for the new indication
 - An assessment of blood pressure effects in patients with portal hypertension or variceal bleeding
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

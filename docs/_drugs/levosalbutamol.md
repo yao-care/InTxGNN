@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 490
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Levosalbutamol"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria"]
 description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -96,6 +96,18 @@ The prediction score is very high (0.9999), but it is not backed by any trial or
 - Preclinical or early clinical studies addressing nasal cavity disease directly
 - Package insert warnings and contraindications from the Indian regulator
 - Assessment of route and formulation suitability for nasal use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Its only registered trial was withdrawn with no participants, so no completed Phase 3 trial confirms it" | No longer present after the report was regenerated (2026-11-12: the report was regenerated in 2026-11 and no longer contains this statement; was: Corrected) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

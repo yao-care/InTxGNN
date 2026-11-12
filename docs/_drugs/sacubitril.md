@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
 description: "Sacubitril: predicted new indication Brain small vessel disease 1 with or without ocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
@@ -97,6 +97,12 @@ The other predicted indications have no registered clinical trials.
 
 There are 15 valid registrations in total, all oral tablets, and none are cancelled.
 
+<!-- review:begin in-lic-20261106-sacubitril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are 15 valid single-ingredient registrations in total, all oral tablets, and none are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-sacubitril-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: Six moderate-level interactions were identified: nitisinone, rosuvastatin, simvastatin, cobicistat, revefenacin and alpelisib.
@@ -115,6 +121,19 @@ Diabetic nephropathy is the only prediction with meaningful support, but the evi
 - Mechanism of action data and package insert warnings and contraindications for the Indian market products
 - A safety plan covering hypotension, hyperkalaemia and renal function monitoring in diabetic patients
 - Confirmation of the approved indications for the Indian registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

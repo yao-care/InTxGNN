@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 51
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Aminophylline: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated on the Indian licences in the data compiled for this report"
 monitor_inn: "Aminophylline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -97,6 +97,12 @@ Currently no related clinical trials registered for migraine disorder.
 
 Seven valid licences are registered in total; the five above are shown. Six are injectable products and one is an oral tablet.
 
+<!-- review:begin in-lic-20261106-aminophylline-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Seven valid single-ingredient licences are registered in total; the five above are shown." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-aminophylline-1 -->
+
 ---
 
 ## Safety Considerations
@@ -133,6 +139,19 @@ The prediction score is high, but the only support for migraine is one narrative
 - **Pulmonary hypertension** has the most developed evidence (L3): one Phase 1 safety and pharmacokinetic trial (NCT01530464, n=18) and mostly older, small hemodynamic and preclinical studies. It remains a research question.
 - **Prinzmetal angina** and **hyperthyroidism**: the literature points to safety concerns rather than benefit.
 - **Atrophoderma vermiculata**, **ulerythema ophryogenesis**, **sciatic neuropathy** and **kyphoscoliotic heart disease** have no meaningful support and are probably TxGNN model (deep learning) artifacts.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Dexketoprofen: predicted new indication Tendinitis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 monitor_inn: "Dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
@@ -110,6 +110,12 @@ The same trial set also supports a broader "headache disorder" prediction, but t
 
 A sixth licence (108166, Infen Gel, 30 g tube, topical) is also valid. All 6 registrations are currently valid.
 
+<!-- review:begin in-lic-20261106-dexketoprofen-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 6 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-dexketoprofen-1 -->
+
 ---
 
 ## Conclusion and Next Steps
@@ -125,6 +131,19 @@ Several randomized trials, including placebo-controlled studies, and a meta-anal
 - Confirmation of the regulatory status and approved indication text for migraine in India
 - Safety precautions for NSAIDs (gastrointestinal, renal and cardiovascular risks) and limits on use frequency to avoid medication-overuse headache
 - Evidence in outpatient settings and for oral formulations, since most trials used the IV route in emergency departments
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

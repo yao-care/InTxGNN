@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Indacaterol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "trigeminal autonomic cephalalgia", "paratenonitis", "calcific tendinitis", "hypertrichosis (disease)", "bronchial disease", "myositis", "anaphylaxis", "Ambras type hypertrichosis universalis congenita"]
 description: "Indacaterol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
@@ -116,6 +116,12 @@ The 10 most relevant of the 22 registered trials are listed below, prioritised b
 
 All 9 registrations are valid licences. The remaining four are Loftair-L Capsule with Inhaler, Indamet 80 Capsule, Indamet 320 Capsule and Sequadra Inhaler.
 
+<!-- review:begin in-lic-20261106-indacaterol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 9 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-indacaterol-1 -->
+
 ---
 
 ## Safety Considerations
@@ -141,6 +147,19 @@ Multiple completed Phase 2 and Phase 3 trials, plus a Phase 3 RCT publication, s
 - Clarification of what "bronchial disease" adds beyond the existing asthma and COPD indications
 - Separation of indacaterol monotherapy effects from combination-product data
 - A cardiovascular, metabolic and QT safety review, given the knowledge-graph cautions and the large number of interacting drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

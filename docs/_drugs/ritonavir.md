@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Ritonavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ritonavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Chronic hepatitis C virus infection, hepatitis C virus infection…"
 ---
 
@@ -84,6 +84,12 @@ Currently no related literature available for feline acquired immunodeficiency s
 
 Ritonavir is marketed in India with 17 valid approvals. The licence records contain no approved indication text. The five listed below are examples of the 17.
 
+<!-- review:begin in-lic-20261106-ritonavir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Ritonavir is marketed in India with 17 valid single-ingredient approvals." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-ritonavir-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 127028 | Lopimune 50 mg/200 mg Capsule (Cipla Ltd) | Strip of 30 capsules | Not stated in the records |
@@ -124,6 +130,19 @@ No clinical trial or publication directly studies ritonavir in feline acquired i
 - Direct evidence of ritonavir activity against FIV, for example in vitro protease inhibition and veterinary studies
 - A decision on whether a veterinary indication is within the scope of this programme
 - If a different target is preferred, a review of the SIV literature for ritonavir-specific findings. This is a preclinical model, not a human indication.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Clioquinol"
 predicted_indications: ["ectothrix infectious disease", "endothrix infectious disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Clioquinol: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 ---
 
@@ -83,6 +83,12 @@ Currently no related literature available.
 
 All five registrations are valid topical products (creams and ointments).
 
+<!-- review:begin in-lic-20261106-clioquinol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All five registrations are valid single-ingredient topical products (creams and ointments)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-clioquinol-1 -->
+
 ## Safety Considerations
 
 - **Relations recorded in the knowledge graph (not label text):** The knowledge graph lists contraindication relations with adrenocortical insufficiency, Addison disease, skin atrophy, telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia, peripheral vascular disease, intermittent vascular claudication and peripheral arterial disease. These come from the graph and have not been verified against product labelling.
@@ -103,6 +109,19 @@ The prediction rests only on model scoring and similarity to existing tinea indi
 - Evidence of follicular or hair-shaft penetration for topical clioquinol, plus in vitro activity against ectothrix pathogens
 - Clinical or observational data in hair-shaft dermatophytosis
 - A route and exposure assessment that takes the SMON history into account
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

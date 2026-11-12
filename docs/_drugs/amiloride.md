@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Amiloride: predicted new indication malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -74,6 +74,12 @@ Currently no related literature available.
 
 Four valid licences are recorded. The approved indication text is not recorded in the local data.
 
+<!-- review:begin in-lic-20261106-amiloride-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Four valid single-ingredient licences are recorded." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-amiloride-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | 11714 | Amiur H Forte 5mg/50mg Tablet | Strip of 10 tablets | East West Pharma |
@@ -105,6 +111,19 @@ The prediction has a high model score but no supporting clinical trials or publi
 - Detailed mechanism-of-action data.
 - Package insert warnings and contraindications from the India licences.
 - A potassium and kidney-function monitoring plan, and a review of the interaction burden in this population.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

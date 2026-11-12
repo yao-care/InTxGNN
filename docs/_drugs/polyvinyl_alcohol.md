@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 686
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Polyvinyl alcohol"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
@@ -77,6 +77,12 @@ For self-healing collodion baby, the condition resolves on its own, and the safe
 
 All 16 licences are for valid products, with none cancelled. The five main ones are listed below. Approved indication text is not recorded in the data compiled for this report.
 
+<!-- review:begin in-lic-20261106-polyvinyl_alcohol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 16 licences are for single-ingredient, valid products, with none cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-polyvinyl_alcohol-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 208557 | Stemoist Eye Drop | Bottle of 10 ml eye drop | Not recorded |
@@ -113,6 +119,19 @@ The prediction is supported only by the TxGNN model score (Evidence Level L5), w
 - A literature and trial search specifically on topical polyvinyl alcohol or similar film-forming polymers in ichthyosis
 - A feasibility assessment of a topical skin formulation and its safety, especially for neonates with impaired skin barrier
 - Clarification of the knowledge-graph contraindication flags against actual label information
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

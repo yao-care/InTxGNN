@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Camphor: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the approval records compiled for this report (marketed…"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -91,6 +91,12 @@ Currently no related clinical trials registered.
 
 Camphor has 19 valid registrations and none are cancelled. The approval records do not include indication text. The main authorizations are listed below.
 
+<!-- review:begin in-lic-20261106-camphor-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Camphor has 19 valid single-ingredient registrations and none are cancelled or combination products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-camphor-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 124746 | Lacricool Eye Drop | Eye drop, 10 ml bottle | Not specified |
@@ -125,6 +131,19 @@ The prediction rests on a computational score with no registered trials and no c
 - Replication of the preclinical migraine findings and a dose-exposure assessment
 - A route and formulation strategy, since current marketed forms are topical or ophthalmic
 - A safety assessment of seizure and headache-trigger risk before any human study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient or combination products" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

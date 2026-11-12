@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Lurasidone"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
 description: "Lurasidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
@@ -126,6 +126,12 @@ The package insert warnings and contraindications could not be retrieved, so ple
 **Rationale:**
 The TxGNN score is very high, but lurasidone is already used in bipolar disorder, so this prediction adds little that is new. Package-insert safety data are also missing.
 
+<!-- review:begin in-lic-20261031-lurasidone-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The TxGNN score is very high, but lurasidone is already used in bipolar disorder, so this prediction adds little that is new. Direct evidence for acute mania is thin: the only mania trial was withdrawn with no enrolment, and the supporting literature is mostly reviews, guidelines and meta-analyses on bipolar depression." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261031-lurasidone-1 -->
+
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications from the Indian regulatory sources, to enable safety screening
 - Mechanism of action data (for example from DrugBank)
@@ -136,6 +142,19 @@ The TxGNN score is very high, but lurasidone is already used in bipolar disorder
 ---
 
 *Note on other TxGNN predictions: The nine other predictions in the ranked list (for example retinal dystrophy, hydranencephaly, X-linked myopia, Charcot-Marie-Tooth disease type 1G) have no clinical trials or literature and no plausible mechanistic link. They are rated L5 and Hold, and are best regarded as network-proximity artefacts rather than real therapeutic signals.*
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Direct evidence for acute mania is thin: the only mania trial was withdrawn with no enrolment, and the supporting literature is mostly revie" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

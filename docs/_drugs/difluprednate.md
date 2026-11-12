@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 267
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Difluprednate: predicted new indication Familial adrenal hypoplasia with absent pituitary luteinizing hormone (evidence level L5). Approved use: Postoperative ocular inflammation and pain, and anteri…"
 monitor_inn: "Difluprednate"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
@@ -92,6 +92,12 @@ For reference, the only publication found across the top ten predictions relates
 
 All 19 registrations are valid ophthalmic products. Approved indication text is not recorded for these entries. The main authorizations are:
 
+<!-- review:begin in-lic-20261106-difluprednate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 19 registrations are valid single-ingredient ophthalmic products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-difluprednate-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 176619 | Prednate Eye Drop | Bottle of 5 ml Eye Drop | Not recorded |
@@ -120,6 +126,19 @@ The top-ranked prediction has no clinical or literature support and no plausible
 - Detailed mechanism of action data (for example, via DrugBank)
 - Approved indication text for the India registrations
 - For any future repurposing work, redirect attention to the lower-ranked "Research Question" candidates (seborrheic dermatitis, necrobiosis lipoidica, iris disease). These would need difluprednate-specific data and a suitable formulation and route, since the current products are ophthalmic only.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

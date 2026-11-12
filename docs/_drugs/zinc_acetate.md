@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 904
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Zinc acetate"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "urinary tract infection (disease)"]
 description: "Zinc Acetate: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
@@ -82,6 +82,12 @@ Currently no related literature available.
 
 All 8 registrations are valid products, and none is cancelled. Only the first 5 are shown above.
 
+<!-- review:begin in-lic-20261106-zinc_acetate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 8 registrations are valid single-ingredient products, and none is cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-zinc_acetate-1 -->
+
 ## Safety Considerations
 
 - **Contraindications (knowledge graph, not label text)**: The knowledge graph links zinc acetate to inherited porphyria, porphyrin metabolism disease and porphyria as contraindicated conditions.
@@ -110,6 +116,19 @@ The prediction score is very high, but there are no clinical trials or publicati
 - A check of clinical trial registries for zinc in diabetic retinopathy
 - Assessment of route and formulation suitability for retinal disease, since the marketed forms are oral tablets, syrups and kits
 - Review of the porphyria contraindication signal and of interactions with chelation-sensitive drugs (bisphosphonates, tetracycline)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

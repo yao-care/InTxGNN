@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Beta Carotene: predicted new indication acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -97,6 +97,12 @@ Currently no related clinical trials registered.
 
 Both licences are valid products (oral).
 
+<!-- review:begin in-lic-20261106-beta_carotene-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Both licences are valid single-ingredient products (oral)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-beta_carotene-1 -->
+
 ---
 
 ## Safety Considerations
@@ -118,6 +124,19 @@ The prediction rests on the model score and indirect findings about oxidative st
 - Controlled human studies of beta carotene in acne
 - Mechanism of action data
 - Package insert warnings and contraindications for the marketed products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

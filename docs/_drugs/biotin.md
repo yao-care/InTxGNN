@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Biotin"
 predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Biotin: predicted new indication dyspepsia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -89,6 +89,12 @@ None of the retrieved publications shows that biotin treats dyspepsia. The only 
 
 Biotin is marketed in India, with 18 valid licences and none cancelled. The licence records carry no approved indication text. Main authorizations:
 
+<!-- review:begin in-lic-20261106-biotin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Biotin is marketed in India, with 18 valid single-ingredient licences and none cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-biotin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 27963 | B7F 5mg/1mg Tablet | Strip of 15 tablets | Not recorded |
@@ -116,6 +122,19 @@ The prediction rests only on a high model score. There are no clinical trials, a
 - Mechanism of action data and a plausible biological link between biotin and dyspepsia
 - Clinical or observational studies that directly examine biotin in dyspepsia
 - Package insert warnings and contraindications from the India regulatory source for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

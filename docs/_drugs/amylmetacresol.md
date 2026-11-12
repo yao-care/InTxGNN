@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Amylmetacresol: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not stated in the registration data (marketed as throat/cough lozenge…"
 monitor_inn: "Amylmetacresol"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "ciliary body disease", "panuveitis (disease)", "iris disease", "infectious anterior uveitis", "uveitis", "ciliary body cancer", "benign neoplasm of ciliary body"]
@@ -81,6 +81,12 @@ Currently no related literature available.
 
 One further registration (214990, Tusq-D Cough Lozenges Orange) is also valid. All 6 registrations are products with valid status.
 
+<!-- review:begin in-lic-20261106-amylmetacresol-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 6 registrations are single-ingredient products with valid status." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-amylmetacresol-1 -->
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information. No drug-interaction records were found, and no contraindication edges were identified in the knowledge graph.
@@ -97,6 +103,19 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Mechanism of action data for amylmetacresol
 - A credible biological rationale linking the drug to the predicted condition, plus evidence that the drug can reach the target tissue (the current lozenge route is local and oropharyngeal)
 - Any preclinical or clinical evidence for the predicted indication, or review of whether a different candidate indication is more plausible
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

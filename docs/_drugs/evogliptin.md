@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Evogliptin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "Evogliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy"]
@@ -72,6 +72,12 @@ The very high TxGNN score (0.9935) should be read as a model-derived association
 
 All three authorizations are valid registrations held by Alkem Laboratories Ltd, in oral form.
 
+<!-- review:begin in-lic-20261106-evogliptin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three authorizations are valid single-ingredient registrations held by Alkem Laboratories Ltd, in oral form." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-evogliptin-1 -->
+
 ## Conclusion and Next Steps
 
 **Decision: Hold**
@@ -84,6 +90,19 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 - Package insert safety information (warnings and contraindications) from the India regulatory source
 - Preclinical or mechanistic studies exploring any connection between DPP-4 and INPPL1/SHIP2 or PI3K/AKT signaling in skeletal development
 - Reassessment of other predicted indications, which have the same evidence gap
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

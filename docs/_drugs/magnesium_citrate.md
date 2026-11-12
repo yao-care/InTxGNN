@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Magnesium citrate"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
 description: "Magnesium Citrate: predicted new indication Calcium-alkali syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -73,6 +73,12 @@ A second prediction, **primary bone dysplasia with defective bone mineralization
 
 Twelve valid licences are registered in total; the five above are shown. There are no cancelled licences.
 
+<!-- review:begin in-lic-20261106-magnesium_citrate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Twelve valid single-ingredient licences are registered in total; the five above are shown. There are no combination or cancelled licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-magnesium_citrate-1 -->
+
 ## Safety Considerations
 
 - **Contraindications (from knowledge-graph drug-disease edges, not label text)**: kidney disease and impaired renal function, nephrolithiasis, nephrocalcinosis, acute urate nephropathy, hypercalcaemia, hyperparathyroidism, hyperphosphataemia, metabolic acidosis, adrenal insufficiency (including Addison disease and congenital adrenal hyperplasia), peptic ulcer disease, appendicitis, diarrhoeal disease, sarcoidosis, rhabdomyolysis. Several of these (renal impairment, hypercalcaemia, metabolic acidosis) are directly relevant to calcium-alkali syndrome.
@@ -91,6 +97,19 @@ The prediction is supported only by a TxGNN model (deep learning) score, with no
 - Package insert warnings and contraindications for the marketed Indian products, and their approved indications
 - A renal safety assessment for patients with impaired kidney function and for the alkalinizing effect of citrate
 - Route compatibility and similarity-to-original-indication analyses, which are still pending
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient ombination or c" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

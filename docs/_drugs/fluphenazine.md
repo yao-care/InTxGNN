@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 369
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 description: "Fluphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
@@ -84,6 +84,12 @@ Currently no related literature available.
 
 Twelve valid registrations exist, with no cancelled licences. The registration data lists no approved indication text. The five main authorizations are shown below.
 
+<!-- review:begin in-lic-20261106-fluphenazine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Twelve valid single-ingredient registrations exist, with no cancelled licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-fluphenazine-1 -->
+
 | Authorization Number | Product Name | Dosage Form |
 |---------|------|------|
 | 180783 | Phenvator 25mg Injection | Vial, injection |
@@ -123,6 +129,19 @@ The prediction rests solely on a model score. No trials or publications exist, a
 - Package insert warnings and contraindications for the Indian products.
 - A benefit-risk assessment in the target population, including cardiac and haematological monitoring.
 - If the team wants a near-term research question, reprioritise toward the adjacent indication of manic bipolar affective disorder. It has indirect literature support, but fluphenazine-specific data would still be needed.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

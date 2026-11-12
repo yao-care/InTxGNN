@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 474
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ledipasvir: predicted new indication Hepatitis B virus infection (evidence level L2). Approved use: Chronic hepatitis C virus infection (hepatitis C virus infection)"
 monitor_inn: "Ledipasvir"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "chronic hepatitis B virus infection", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
@@ -99,6 +99,12 @@ Some clinical signals exist. A Phase 2 open-label study of ledipasvir/sofosbuvir
 
 Fourteen valid registrations are listed in total; all are oral tablets. The first five are shown here.
 
+<!-- review:begin in-lic-20261106-ledipasvir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Fourteen valid single-ingredient registrations are listed in total; all are oral tablets." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-ledipasvir-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions:** 65 interactions were identified in total. The ones listed below are mostly Moderate, and the main ones fall into these groups:
@@ -123,6 +129,19 @@ Ledipasvir has no established anti-HBV mechanism, and the direct evidence is a s
 - An HBV reactivation monitoring plan for any HBV-positive population, and a review of interactions with acid-suppressing drugs
 
 **Other predicted indications (for reference):** Hepatitis E virus infection (L4, Hold) rests on a single case report of ribavirin-refractory infection treated with ledipasvir/sofosbuvir plus ribavirin; any effect is more plausibly due to sofosbuvir. Chronic hepatitis B virus infection (L3) has the same limitations as the lead indication. The remaining predictions (hepatitis A, Omsk hemorrhagic fever, Kyasanur forest disease, HIV infection, and animal or veterinary viral diseases) are model-only (L5) or reflect HCV treatment in other populations, and should be held.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 871
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Cycloplegia"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
@@ -77,6 +77,12 @@ Currently no related literature available.
 
 Tropicamide has 14 valid registrations, all ophthalmic eye drops. The approved indication text is not available in the data compiled for this report. The five main authorizations are listed below.
 
+<!-- review:begin in-lic-20261106-tropicamide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Tropicamide has 14 valid single-ingredient registrations, all ophthalmic eye drops." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-tropicamide-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | 9880 | Ahlmide P Eye Drop | Packet of 5 ml eye drop | Ahlcon Parenterals India Limited |
@@ -104,6 +110,19 @@ The predictions for cauda equina syndrome, neurogenic bladder and irritable bowe
 - Detailed mechanism of action data (for example from DrugBank)
 - Preclinical or pharmacokinetic evidence that a systemically active, safe dose can be achieved for any non-ophthalmic use
 - A review of whether the prediction is clinically meaningful for cauda equina syndrome, or whether neurogenic bladder or IBS is a more sensible direction, given that established antimuscarinics already exist for those
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

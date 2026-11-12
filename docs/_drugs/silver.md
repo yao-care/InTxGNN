@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Silver"
 predicted_indications: ["bone Paget disease"]
 description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -100,6 +100,12 @@ None of these studies tests silver as a treatment.
 
 There are 9 valid registrations in total; the table lists the first 5.
 
+<!-- review:begin in-lic-20261106-silver-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "There are 9 valid single-ingredient registrations in total; the table lists the first 5." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-silver-1 -->
+
 ---
 
 ## Safety Considerations
@@ -124,6 +130,19 @@ The prediction has no clinical trials and no therapeutic literature; the papers 
 - Route compatibility assessment (current products are topical or non-systemic; Paget disease needs systemic or bone-targeted exposure)
 - Consolidation of the duplicate "bone Paget disease" and "Paget disease of bone" predictions
 - Review of other top predictions with the same silver-as-stain artefact before any further evaluation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Darunavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: HIV infectious disease"
 ---
 
@@ -100,6 +100,12 @@ The supplied abstracts are truncated, so whether darunavir is part of these regi
 
 At least the following authorisations are recorded (8 licences, all valid, none cancelled). The licence records contain no approved-indication text.
 
+<!-- review:begin in-lic-20261106-darunavir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "At least the following authorisations are recorded (8 single-ingredient licences, all valid, none cancelled)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-darunavir-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | Registration No. 63782 | Danavir 600 Tablet | Bottle of 60 tablets | Not stated in licence record |
@@ -140,6 +146,19 @@ The prediction for feline acquired immunodeficiency syndrome is supported only b
 - Package insert warnings and contraindications from the Indian regulator, which are currently missing and block safety screening
 - Verification of the regimen composition in the SIV studies, to see whether darunavir was actually used
 - Confirmation of whether a veterinary indication falls within the scope of this repurposing programme
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

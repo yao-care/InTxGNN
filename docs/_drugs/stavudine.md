@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Stavudine"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Stavudine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -94,6 +94,12 @@ One further retrieved paper (PMID 9021177) concerns a different compound (SRR-SB
 
 All 13 registrations are currently valid licences.
 
+<!-- review:begin in-lic-20261106-stavudine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 13 registrations are currently valid single-ingredient licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-stavudine-1 -->
+
 ## Safety Considerations
 
 - **Contraindications / conditions of concern (knowledge graph, not label text)**: kidney disease, pancreatitis, liver disease, fatty liver disease, non-alcoholic steatohepatitis, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, peripheral neuropathy and other peripheral nervous system disease, lactic acidosis, substance abuse/dependence, obesity disorder, and monogenic obesity.
@@ -114,6 +120,19 @@ The predictions rest on model scores alone (Evidence Level L5 for the top indica
 - Mechanism of action data from DrugBank
 - A decision on whether veterinary indications are in scope; if not, a review of lower-ranked predictions for human diseases
 - Any human clinical or mechanistic evidence for a new indication before reconsidering the decision
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

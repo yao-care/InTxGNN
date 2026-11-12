@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 894
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 description: "Vitamin A: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -118,6 +118,12 @@ No publications were found for congenital prothrombin deficiency. Key publicatio
 
 Eight valid registrations exist in total (injection, capsule, syrup, and chewable tablet forms).
 
+<!-- review:begin in-lic-20261106-vitamin_a-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Eight valid single-ingredient registrations exist in total (injection, capsule, syrup, and chewable tablet forms)." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-vitamin_a-1 -->
+
 ---
 
 ## Safety Considerations
@@ -146,6 +152,19 @@ Eight valid registrations exist in total (injection, capsule, syrup, and chewabl
 - For perinatal disease: a precisely defined indication (BPD prevention in very-low-birth-weight infants), dose, route, and toxicity limits, and an assessment of how the injection burden fits the available Indian formulations
 - Route compatibility assessment against the marketed forms (oral, injectable, syrup)
 - Safety monitoring plan covering hepatic toxicity, bone effects, and interactions with retinoids and tetracyclines
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

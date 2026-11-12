@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 912
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not stated in the Indian license records compiled for this report (zo…"
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -63,6 +63,12 @@ Other predictions in the top 10 differ in strength:
 - **Manic bipolar affective disorder (score 0.9935, Evidence Level L4):** The evidence is mixed. An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania.
 - **Trichotillomania, Prinzmetal angina, conjunctivitis:** Prediction only, with speculative or implausible mechanistic links.
 - **Methemoglobinemia (including alpha type) and methemoglobin reductase deficiency:** No plausible mechanism. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Sulfonamides are more often linked to hematologic risk than benefit.
+
+<!-- review:begin in-lic-20261031-zonisamide-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "An open-label-type report exists in bipolar depression, but there is also a report of zonisamide-induced mania. / **Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 13 product records for this drug, 13 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261031-zonisamide-1 -->
 
 ## Clinical Trial Evidence
 
@@ -135,6 +141,19 @@ The Tourette syndrome prediction rests on the model score alone, with no trials 
 - Approved indication text for the Indian licenses, to confirm the original indication
 - Preclinical or clinical evidence specific to Tourette syndrome, with a focus on tic-related safety
 - If a more evidence-supported direction is wanted, a separate assessment of **absence epilepsy** (Evidence Level L3), recognizing that it is largely an extension of the existing epilepsy use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

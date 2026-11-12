@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Bacitracin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Keratitis, keratoconjunctivitis, blepharoconjunctivitis"
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
@@ -91,6 +91,12 @@ For reference, the fourth-ranked prediction, otitis externa, has limited literat
 
 All 11 registrations are valid licences. Only one is an ophthalmic product (Neosporin Eye Drop). The others are ointments or powders.
 
+<!-- review:begin in-lic-20261106-bacitracin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 11 registrations are valid single-ingredient licences." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-bacitracin-1 -->
+
 ## Safety Considerations
 
 - **Contraindications (from knowledge-graph disease associations, not label text)**: Eye-related entries include herpes simplex virus keratitis, viral eye infection, fungal infection of the eye, conjunctivitis, eye infectious disease, open-angle glaucoma and ocular hypertension. Other listed conditions include kidney disease, liver disease, myasthenia gravis and neuromuscular junction disease, epilepsy, diabetes mellitus, adrenocortical insufficiency, and heart block. These associations likely partly reflect companion ingredients in combination products and should be verified against the label.
@@ -113,6 +119,19 @@ The prediction is supported only by the model score, with no trials or literatur
 - Clinical or preclinical evidence specific to this condition
 - Confirmation of approved indications for the Indian licences, and whether an ophthalmic ointment is available
 - If the project continues, otitis externa (the only prediction with some clinical literature) could be explored as a separate research question, using evidence on bacitracin as a single agent
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

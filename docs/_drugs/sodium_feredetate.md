@@ -5,7 +5,7 @@ layout: default
 title: Sodium Feredetate
 parent: Known Uses Only (No New Predictions)
 nav_order: 779
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Sodium Feredetate: known uses and market status in India; currently no new candidate indication"
 monitor_inn: "Sodium feredetate"
 predicted_indications: []
@@ -58,9 +58,27 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 
 A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10 tablets), is also valid. One has been cancelled.
 
+<!-- review:begin in-lic-20261106-sodium_feredetate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All six registrations are single-ingredient products and none has been cancelled." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-sodium_feredetate-1 -->
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "All six registrations are single-ingredient products and no" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

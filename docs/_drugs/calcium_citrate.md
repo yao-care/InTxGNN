@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 134
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Calcium Citrate: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not stated in the available licence data"
 monitor_inn: "Calcium citrate"
 predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
@@ -100,6 +100,12 @@ For reference, the literature found for the second-ranked prediction (myocardial
 
 All 8 registrations are valid licences for oral tablets; the five above are shown.
 
+<!-- review:begin in-lic-20261106-calcium_citrate-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 8 registrations are valid single-ingredient licences for oral tablets; the five above are shown." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-calcium_citrate-1 -->
+
 ---
 
 ## Safety Considerations
@@ -126,6 +132,19 @@ The prediction rests only on a model score, with no clinical trials or literatur
 - Mechanism of action data (for example, from DrugBank)
 - Any clinical or mechanistic evidence linking calcium citrate to hemoglobinopathy beyond supportive bone care
 - Approved indication text for the registered products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

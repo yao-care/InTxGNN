@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 691
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]
@@ -96,6 +96,12 @@ Currently no related clinical trials registered.
 
 Two more eye drop registrations also exist (Cataclear, 35495; Catadoze, 39559), for 7 in total. All are are currently valid. The marketed forms are ophthalmic and gum paint, and none is a nasal or oral systemic form, so the predicted nasal indication has no route match among current Indian products.
 
+<!-- review:begin in-lic-20261106-potassium_iodide-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All are single-ingredient products and all are currently valid." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 7 product records for this drug, 7 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-potassium_iodide-1 -->
+
 ---
 
 ## Safety Considerations
@@ -122,6 +128,19 @@ The prediction rests on a high model score and a handful of case reports, mostly
 - Human controlled data or registered trials in nasal fungal disease or other nasal cavity conditions
 - A route and formulation assessment, since current Indian products are ophthalmic or gum paint
 - A review of the contraindication and drug interaction signals (hypertension, thyroid, renal disease, potassium-raising drugs) for the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient products and all" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

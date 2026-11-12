@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 68
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Arginine: predicted new indication gastroparesis (evidence level L4). Approved use: Not stated in the available licence data"
 monitor_inn: "Arginine"
 predicted_indications: ["gastroparesis (disease)"]
@@ -92,6 +92,12 @@ Licence records do not include approved indication text. The main authorisations
 
 All 11 registrations are valid products, and none are cancelled.
 
+<!-- review:begin in-lic-20261106-arginine-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 11 registrations are valid single-ingredient products, and none are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-arginine-1 -->
+
 ## Safety Considerations
 
 Package insert warnings, contraindications and drug interaction data were not available. Please refer to the package insert for safety information.
@@ -122,6 +128,19 @@ The prediction is mechanistically plausible through the arginine–nNOS–nitric
 - Human evidence, such as a pilot or proof-of-concept study of arginine in gastroparesis (for example, diabetic gastroparesis with measured gastric emptying)
 - A safety assessment for patients with renal impairment, cardiac disease or acid-base disturbances
 - Dosage form and route review, since the current products are oral sachets, tablets and capsules, and one is a vaginal capsule
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 439
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Insulin Lispro: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus (also type 1 diabetes mellitus and diabetic…"
 monitor_inn: "Insulin lispro"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -89,6 +89,12 @@ The approved indication text is not recorded for these registrations. Five of th
 
 All 14 registrations are currently valid. They are injectable only (cartridges and pens), in solution and premixed suspension forms.
 
+<!-- review:begin in-lic-20261106-insulin_lispro-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All 14 registrations are single-ingredient products and currently valid." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-insulin_lispro-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: The data compiled for this report list 352 known interactions. Most of those shown are moderate, with a few minor. Examples:
@@ -109,6 +115,19 @@ The prediction for autoimmune oophoritis is supported only by a model score, wit
 - Detailed mechanism of action data
 - Preclinical or clinical evidence linking insulin lispro to autoimmune oophoritis
 - Assessment of route compatibility and similarity to the original indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

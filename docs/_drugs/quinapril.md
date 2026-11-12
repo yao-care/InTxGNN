@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 716
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Quinapril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Quinapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -96,6 +96,12 @@ For the rank 3 prediction (pulmonary hypertension owing to lung disease and/or h
 
 Seven valid registrations are listed in total; all are oral tablets.
 
+<!-- review:begin in-lic-20261106-quinapril-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Seven valid single-ingredient registrations are listed in total; all are oral tablets." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-quinapril-1 -->
+
 ## Safety Considerations
 
   - Kidney disease and anuria
@@ -127,6 +133,19 @@ The score likely reflects overlap with the approved hypertension indication, and
 - Clinical studies or systematic literature review of ACE inhibitors in malignant or renovascular hypertension
 - A renal safety assessment for patients with renal artery stenosis
 - If pursuing pulmonary hypertension instead, human data to follow up the 1996 animal studies, which is currently a research question only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

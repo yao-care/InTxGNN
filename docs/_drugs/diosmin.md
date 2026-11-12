@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 274
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Diosmin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated on the India licences (indication text is blank)"
 monitor_inn: "Diosmin"
 predicted_indications: ["amenorrhea (disease)"]
@@ -70,6 +70,12 @@ Currently no related literature available.
 
 Diosmin has 17 valid registrations in India and no cancelled ones. Five main authorisations are listed below. The approved-indication text is blank on all of them.
 
+<!-- review:begin in-lic-20261106-diosmin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Diosmin has 17 valid single-ingredient registrations in India and no cancelled ones." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-diosmin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 104457 | Hesdin Tablet | Strip of 15 tablets | Not specified |
@@ -96,6 +102,19 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Package insert warnings and contraindications from the India licences, to allow safety screening
 - A literature and trial search specifically on diosmin or flavonoids and menstrual or ovarian function
 - A clear clinical rationale for amenorrhea, including the type (primary or secondary) and cause, before any further evaluation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

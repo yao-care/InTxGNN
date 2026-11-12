@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["immature cataract", "mature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Nefopam: predicted new indication Immature cataract (evidence level L5). Approved use: Not stated in the licence records (analgesic drug class)"
 ---
 
@@ -99,6 +99,12 @@ Lumbar spinal stenosis (TxGNN score 0.9997) is the only predicted indication in 
 
 All three licences are valid products, available in oral and injectable forms. The licence records do not include approved indication text.
 
+<!-- review:begin in-lic-20261106-nefopam-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three licences are valid single-ingredient products, available in oral and injectable forms." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-nefopam-1 -->
+
 ---
 
 ## Safety Considerations
@@ -122,6 +128,19 @@ The immature cataract prediction has no clinical trials and no publications, and
 - The package insert warnings and contraindications from the India licence documents
 - The approved indication text for the three licences
 - If the lumbar spinal stenosis question is pursued, confirmation of the study designs and a review of seizure-risk safety
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 435
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 monitor_inn: "Insulin degludec"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 description: "Insulin Degludec: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
@@ -104,6 +104,12 @@ The data include 40 trials. The most relevant are listed below, with completed P
 
 All four registrations are valid products from Novo Nordisk India Pvt Ltd.
 
+<!-- review:begin in-lic-20261106-insulin_degludec-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four registrations are valid, single-ingredient products from Novo Nordisk India Pvt Ltd." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-insulin_degludec-1 -->
+
 ## Safety Considerations
 
 - **Drug Interactions**: 351 interactions were recorded. Most listed examples are moderate:
@@ -126,6 +132,19 @@ Several completed Phase 3 RCTs and multiple systematic reviews support degludec 
 - Detailed mechanism of action data, to complete the mechanistic analysis
 - A hypoglycaemia monitoring plan, with attention to interactions with other glucose-lowering drugs
 - Approved indication wording for the four Indian registrations, to confirm type 1 diabetes is explicitly covered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 76
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Atazanavir: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease"
 monitor_inn: "Atazanavir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -86,6 +86,12 @@ The compiled data does not include approved indication text for these licences.
 
 Showing 5 of 11 valid licences; all 11 are products and none are cancelled.
 
+<!-- review:begin in-lic-20261106-atazanavir-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Showing 5 of 11 valid licences; all 11 are single-ingredient products and none are cancelled." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-atazanavir-1 -->
+
 ## Safety Considerations
 
 - **Disease-related cautions (from the knowledge graph, not label text):** The knowledge graph links atazanavir to possible contraindications or cautions in liver failure and liver disease, gallbladder disease, hyperglycemia, diabetes mellitus and diabetic ketoacidosis, chronic hepatitis B and C infection, hemophilia, hyperbilirubinemia (including Gilbert syndrome), nephrolithiasis and acute urate nephropathy, atrioventricular block, and lactic acidosis.
@@ -109,6 +115,19 @@ The prediction is supported by a single indirect preclinical macaque study and n
 - Package insert warnings and contraindications from the India regulatory source, which are required before safety screening can begin
 - Detailed mechanism of action data
 - If a human-relevant direction is wanted, evaluate the better-supported perinatal HIV (congenital HIV) setting, where cohort data on pregnancy pharmacokinetics and in utero exposure exist, and review the safety of the large DDI burden
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

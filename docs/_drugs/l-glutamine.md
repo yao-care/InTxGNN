@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "L-Glutamine: predicted new indication Drug-induced osteoporosis . Dermatitis is the best-supported candidat… (evidence level L5). Approved use: Short bowel syndrome"
 monitor_inn: "L-Glutamine"
 predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of newborn", "dermatitis", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "severe nonproliferative diabetic retinopathy", "hydroa vacciniforme, familial", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
@@ -119,12 +119,31 @@ Please refer to the package insert for safety information. No drug interaction r
 **Rationale:**
 The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. It is best treated as a research question rather than a candidate for development.
 
+<!-- review:begin in-lic-20261031-l-glutamine-1 -->
+
+> **Review correction (2026-10-31)**: Originally stated: "The highest-scoring prediction (drug-induced osteoporosis) and most other predictions have no supporting trials or literature, so they remain computational outputs only. Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no enrolment and the clinical studies do not address primary dermatitis." Removed: it said the product records were cancelled, discontinued, or not current, which did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-10-31). The data list 1 product record for this drug, 1 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261031-l-glutamine-1 -->
+
 **To proceed, the following is needed:**
 - Mechanism of action data for L-glutamine
 - Package insert warnings and contraindications (Indian label information is currently missing)
 - Controlled clinical studies of glutamine alone in dermatitis, such as atopic or contact dermatitis, to replace the withdrawn trial
 - Evidence separating the effect of glutamine from the combination products used in supportive-care studies
 - Dosage form and route assessment for the target dermatitis use, since the only registered product is an oral tablet
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-10-31 | Removed: "Dermatitis has plausible preclinical mechanisms and supportive-care clinical signals, but the only registered trial was withdrawn with no en" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

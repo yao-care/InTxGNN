@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 836
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Ticarcillin: predicted new indication Lymph node palisaded myofibroblastoma (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bacterial pneumonia…"
 monitor_inn: "Ticarcillin"
 predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "sacrum chordoma", "disease of retroperitoneum", "urethral disease", "disease of uterine broad ligament", "disease of peritoneum", "pelvic varices"]
@@ -92,6 +92,12 @@ None of these are randomized controlled trials. Some are indirect (for example, 
 
 Fifteen valid registrations were found. Approved indication text was not available for any of them. The five main ones are listed below.
 
+<!-- review:begin in-lic-20261106-ticarcillin-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "Fifteen valid single-ingredient registrations were found." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-ticarcillin-1 -->
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | 228363 | Ticwise 3000mg/100mg Injection | Vial of 1 injection | Not available |
@@ -128,6 +134,19 @@ The top-ranked prediction (lymph node palisaded myofibroblastoma) has no mechani
 - Detailed mechanism of action data (MOA)
 - For disease of peritoneum: a comparison against current standard intra-abdominal infection regimens and evidence specific to ticarcillin rather than the combination product
 - Route compatibility and similarity-to-original assessment for any candidate that advances
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

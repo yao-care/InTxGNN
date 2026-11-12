@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Halometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not specified in the registration data"
 monitor_inn: "Halometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "polyp of vocal cord", "polyp of middle ear", "uterine polyp", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "fibroepithelial polyp", "polyp of vulva", "neoplastic polyp"]
@@ -73,6 +73,12 @@ Nine other predicted indications (various polyps, such as vocal cord, middle ear
 
 All four registrations are valid products.
 
+<!-- review:begin in-lic-20261106-halometasone-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All four registrations are valid single-ingredient products." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-halometasone-1 -->
+
 ## Safety Considerations
 
 Please refer to the package insert for safety information. No drug interactions were found in the data compiled for this report.
@@ -90,6 +96,19 @@ The prediction rests on the model score and class-level reasoning alone, with no
 - Mechanism of action data from DrugBank
 - Comparison with established topical corticosteroids already used in early-stage mycosis fungoides
 - Assessment of route compatibility and the suitability of the cream formulation for skin lesions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

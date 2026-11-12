@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 688
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not stated in the Indian licence records compiled for this report"
 monitor_inn: "Potassium"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
@@ -112,6 +112,12 @@ Further registered trials (for example NCT00949884, NCT01216878, NCT05947448 and
 
 All three are valid registrations.
 
+<!-- review:begin in-lic-20261106-potassium-1 -->
+
+> **Review correction (2026-11-06)**: Originally stated: "All three are valid single-ingredient registrations." Removed: it described the products as single-ingredient or combination products in a way that did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- review:end in-lic-20261106-potassium-1 -->
+
 ## Safety Considerations
 
 - **Hyperkalaemia risk:** Extra potassium is a concern in chronic kidney disease, in people with impaired renal potassium excretion, and in those taking ACE inhibitors, ARBs or potassium-sparing diuretics. One small trial (NCT00949585) specifically examined potassium intake in kidney disease.
@@ -134,6 +140,19 @@ Meta-analyses of randomized trials consistently link higher potassium intake wit
 - Confirmation of the dose, formulation and route to be studied (oral products only are currently registered)
 
 **Other predicted indications (not recommended at this time):** Pulmonary hypertension owing to lung disease and/or hypoxia, pulmonary hypertension of unclear multifactorial mechanism, malignant renovascular hypertension and malignant hypertensive renal disease were all rated **Hold**. They have no supporting clinical trials, only indirect or diagnostic literature, and in renal disease supplementation carries a hyperkalaemia risk.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
