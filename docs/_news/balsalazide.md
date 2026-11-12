@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Balsalazide. 10 predicted indications."
 permalink: /news/balsalazide/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Balsalazide News
@@ -30,7 +30,7 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 <li>gout</li>
 <li>congenital hypotrichosis with juvenile macular dystrophy</li>
 <li>ankylosing spondylitis</li>
-<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 joint pain</span></li>
+<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 rheumatoid arthritis</span></li>
 <li>rheumatoid vasculitis</li>
 <li>hypermobility of coccyx</li>
 <li>inflammatory spondylopathy</li>
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Balsalazide with the latest 
 
 ## Related News (1)
 
-### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+### [ACR 2026: GLP-1 Receptor Agonists Show Joint and Vascular Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
 
-2026-11-10 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+2026-11-07 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
 
-Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
 
 ---
 
