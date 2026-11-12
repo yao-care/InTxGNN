@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [In Good Health: Why Strokes Are Becoming More Common : 1A](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWtCYWhsZ3RBY0VTUzdiSWZYYmdKSWR3cXgzcW1xZkdGZWM5bmFsQzN1bDBsb0JTbWg5ZXp3Q2NqMHh2Z0hZdDJIcGhQYjIxWnA2VWhQZ0lXTUpfeVd0bEE1VFNYYnRZZHdzaGt5N2w5SFhjZDl1N0pNckdlYjZJbnBVbEdoWjRoWTl3dDBTdEhpYXFiUExLNW5CUl8?oc=5)
 
-2026-11-12 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-12 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+Source: [NPR](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWtCYWhsZ3RBY0VTUzdiSWZYYmdKSWR3cXgzcW1xZkdGZWM5bmFsQzN1bDBsb0JTbWg5ZXp3Q2NqMHh2Z0hZdDJIcGhQYjIxWnA2VWhQZ0lXTUpfeVd0bEE1VFNYYnRZZHdzaGt5N2w5SFhjZDl1N0pNckdlYjZJbnBVbEdoWjRoWTl3dDBTdEhpYXFiUExLNW5CUl8?oc=5)
 
 ---
 
@@ -56,14 +56,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0
 2026-11-11 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Yahoo News Singapore](https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYVRCSVVVVklmQWdMUEhPdk4xM0xod0FRcGJGRlFaTE13OUg0X0taNkRmeUhIall6U0szd1o5NW1iRmxmNTFpRTJlaUVINEdRVHZ3b0Vnb1BudkQtdXo3clhZMDBpTWY0TlRTajRDUXRReVNtcDAxdmROanpSZw?oc=5)
-
----
-
-### [Surging Stroke in Young Adults Driven by Ischemic Events](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
-
-2026-11-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
 
 ---
 

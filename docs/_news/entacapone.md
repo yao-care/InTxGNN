@@ -44,11 +44,19 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 
 ## Related News (3)
 
-### [New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
+### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
-2026-11-11 <span class="news-indication-tag">alzheimer</span>
+2026-11-12 <span class="news-indication-tag">alzheimer</span>
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbXp1c2g0MDdxdVVSbzJVVnJPZ3prNkpKLUhHTkJnQlRFUmlXMlFrVGtWbHVudk5YT2czSlVWM0wyQk9jMmZMM3RNdExBYmRMVHJhdVFObHBn?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+---
+
+### [Type 2 diabetes significantly increases risk of developing Alzheimer's disease](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5VeFJ5UExGZldXX25Ua2FiLXNoQnpvWTJ4clpYYkRXTjUyX0JXRXZralVVaTRDTzJIQjg3cVhjMG43UThkWkx2REtpM3VCT0NOUmhid0ZtOEFLUXU2UVdqR1M4MFRTMFBXaGZ2ZU5TSGE1NE5MZE5hZzg3bHZZd084Ri1LcTBQandQT1p1TEpGX3lFaGFEeVFlVk1GM1dyTDlCeC1LY3B1TGZibnlXT0JjMkRJZHpfUHlDYXh1UTNYZHM?oc=5)
+
+2026-11-12 <span class="news-indication-tag">alzheimer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5VeFJ5UExGZldXX25Ua2FiLXNoQnpvWTJ4clpYYkRXTjUyX0JXRXZralVVaTRDTzJIQjg3cVhjMG43UThkWkx2REtpM3VCT0NOUmhid0ZtOEFLUXU2UVdqR1M4MFRTMFBXaGZ2ZU5TSGE1NE5MZE5hZzg3bHZZd084Ri1LcTBQandQT1p1TEpGX3lFaGFEeVFlVk1GM1dyTDlCeC1LY3B1TGZibnlXT0JjMkRJZHpfUHlDYXh1UTNYZHM?oc=5)
 
 ---
 
@@ -57,14 +65,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iOHp0T2ZXbX
 2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
-
----
-
-### [Five UK research hubs to develop technologies for healthier lives](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
-
-2026-11-06 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5)
 
 ---
 

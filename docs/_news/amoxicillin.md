@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Amoxicillin?">
-<strong>Amoxicillin</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
+<strong>Amoxicillin</strong> currently has <strong>15 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,47 @@ This page combines the AI-predicted indications for Amoxicillin with the latest 
 <p><a href="{{ '/drugs/amoxicillin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (15)
+
+### [Can Mindfulness for Insomnia Help Women With Cancer?](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
+
+---
+
+### ['Heightmaxxing' through cancer drugs - The Mary Sue](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmo5SnJIY1dBLWNtSlQzejdoelVIejk3aktqcGx6YVdEdjI1dzlZbG1JMWVNUjdMLW9uMGQ2V1R5cHlhN0Jtdk0yT1BpTzhHMWZfdl9hMUFrY2g2UVIzdnRuOUZRTnNpYUZUQnZhZ2Z6SG1tZElzTmtYVk9SWHVXN0h1TEFhLTZHUi0zeXdicWZvcDRsTl8wQWxoejNFVnRreUIzckFsSFdrMjBuc0c2TExR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [The Mary Sue](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmo5SnJIY1dBLWNtSlQzejdoelVIejk3aktqcGx6YVdEdjI1dzlZbG1JMWVNUjdMLW9uMGQ2V1R5cHlhN0Jtdk0yT1BpTzhHMWZfdl9hMUFrY2g2UVIzdnRuOUZRTnNpYUZUQnZhZ2Z6SG1tZElzTmtYVk9SWHVXN0h1TEFhLTZHUi0zeXdicWZvcDRsTl8wQWxoejNFVnRreUIzckFsSFdrMjBuc0c2TExR?oc=5)
+
+---
+
+### [Experimental vaccines aim to treat and prevent aggressive cancers](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzRXWDJaU2tZcENWam9Jbm1ibHJmQXhuUTZxeVlvZV9EbzhiaG5TSTF1ejJvRlhiWTR5RlRPczJaajN4aVpWVlkzUkc4OGs5MklWd1NXNjcwTmlnVVpZZ3hacUlfZ0NtU2VpSEpOZ3lXUkZYc3R4ZndER3lDNXRIaTNEZ042ckFmQm1zakx5QndzTkdGYk82d3BDV3JIMlZmQUg3Wk1SSHVqUDBWTTUyd0Uzcw?oc=5)
+
+2026-11-12 <span class="news-drug-tag">PEMBROLIZUMAB</span> <span class="news-drug-tag">Pembrolizumab</span> <span class="news-indication-tag">cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzRXWDJaU2tZcENWam9Jbm1ibHJmQXhuUTZxeVlvZV9EbzhiaG5TSTF1ejJvRlhiWTR5RlRPczJaajN4aVpWVlkzUkc4OGs5MklWd1NXNjcwTmlnVVpZZ3hacUlfZ0NtU2VpSEpOZ3lXUkZYc3R4ZndER3lDNXRIaTNEZ042ckFmQm1zakx5QndzTkdGYk82d3BDV3JIMlZmQUg3Wk1SSHVqUDBWTTUyd0Uzcw?oc=5)
+
+---
+
+### [Anthracycline Chemo May Accelerate Biological Aging in Breast Cancer Survivors](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [CancerNetwork](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
+
+---
+
+### [New blood test finds early risk for ovarian cancer - The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
+
+---
 
 ### [Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds - Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
 
@@ -50,11 +90,11 @@ Source: [Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cU
 
 ---
 
-### [Living with Stage 4 Lung Cancer, she is turning her fight into a campaign for clean air - The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+### [A Two-Part Nanozyme Targets the Inflammatory Loop Linked to Colon Cancer](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SURyQXFZeGdMZUtMazdKZGc5bnlhUnlsUGg0eU15c0ZaTXhlM2tvY2NCRlhZMm5qcUpiSmVjdUUwR3hXT1Mzek1hODFWR242RTNndzFSa0JNdw?oc=5)
 
-2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colon cancer</span>
 
-Source: [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+Source: [AZoNano](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SURyQXFZeGdMZUtMazdKZGc5bnlhUnlsUGg0eU15c0ZaTXhlM2tvY2NCRlhZMm5qcUpiSmVjdUUwR3hXT1Mzek1hODFWR242RTNndzFSa0JNdw?oc=5)
 
 ---
 
@@ -71,46 +111,6 @@ Source: [The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTF
 2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">tumor</span> <span class="news-indication-tag">liver cancer</span>
 
 Source: [HCPLive](https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE9KNTd5dURoMTJwdDd5QzVtZDZGLTdUSlpHOEhYdWtYa2dPSk4zVnVKOFFxV0lfTkFnSE1TcVc3WHZOVm8taWU3WXQxdWd1QlplSEVYcVRhZkNKSjQ3Ulg4TXNRUm0wY3gtN0VMUWwwUmRtUGEta2Vya1YzYy02UHQxM3kxOHVSMU9aZ21CRk1zcnNrMUNXZ3p3?oc=5)
-
----
-
-### [How ‘Heightmaxxing’ Is Pushing Teen Boys to Take a Risky Cancer Drug](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDNaT1pkT21Cb04wOFNVc0pOaEEzN25BNGY2aURudzR1QVF4bENVd0hWVC1CZDJWU1JwZFEwMmt4RUlwMG54dVo3T0tHV1V6bzFRMlFlVGhGWUhWOFY3S3ZjdktTZmdQWXhFaVJFUDA4OEw2Z1lQQ2tfb2NSVG1wci1RbGg4aWNu?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span>
-
-Source: [SheKnows](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWDNaT1pkT21Cb04wOFNVc0pOaEEzN25BNGY2aURudzR1QVF4bENVd0hWVC1CZDJWU1JwZFEwMmt4RUlwMG54dVo3T0tHV1V6bzFRMlFlVGhGWUhWOFY3S3ZjdktTZmdQWXhFaVJFUDA4OEw2Z1lQQ2tfb2NSVG1wci1RbGg4aWNu?oc=5)
-
----
-
-### [Molecular signal in blood helps detect early risk for ovarian cancer, study finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlDaV9ORlZ2OVNhUGU3Zm82cE5LdVdUX0VEOGg0OUlPR1UtTE9uaWZOMTlNMkVxMlU0Vzd4V1o1elh3dzBwLTk1TldkYS04N01HN0h3aHl3Y01rSVU2Nkh1a2xSMDV6UWVhcXpLTThldEJFOWV3SkFxTGFrOVg5eEIwUG9WZjFmQ3ZBZEJCV3hQYzBT?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlDaV9ORlZ2OVNhUGU3Zm82cE5LdVdUX0VEOGg0OUlPR1UtTE9uaWZOMTlNMkVxMlU0Vzd4V1o1elh3dzBwLTk1TldkYS04N01HN0h3aHl3Y01rSVU2Nkh1a2xSMDV6UWVhcXpLTThldEJFOWV3SkFxTGFrOVg5eEIwUG9WZjFmQ3ZBZEJCV3hQYzBT?oc=5)
-
----
-
-### [Tattoos Affect Your Immune System in Ways Scientists Are Only Beginning to Understand](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lymphoma</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxPQi1MVFVnbWtrZzhpUndkVWNSOElxT1k5QkYzdHVDdE1jeDNxMzM3YWg4enRfNDc5OW81LTVEM1V4NTB2N3JXWTdtb0g4c0o5eGxyT09KOWY5bVR1UXdWWkNQZ2lQZzZpZjJEM2djLW4teG5KNDZJRkN1MnJTSDJKWHk2WC1uMHVPVnZreGlNcEFyOGJvdXFhUVJWazRwTXpUUExNeVFVQ1RETGV4Ykx3UUJYLWg?oc=5)
-
----
-
-### [Chemotherapy may accelerate biological aging in breast cancer survivors](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NseGIwNDFSZkZ0OEdkM0ItNk5MN0ozdWdZQVd5VnlyRnBzckxSRUtiWkpZcW5ObXBDX0llYTc0OW1GNUZIY2s5bTk3NUNYSG1iRVJlNG1Cb3hhT2lWUTN5MG5RSmE4X1RsVzFKWXVnLVM2cTdzZnlCbHpPczFoQXFNZlFEU3Y0clBYbDlidk9icklxOHlTQWtOZzF1RVZ6WWFuSVU5Q3NHbVA1QWRsZ1ZRRm9OVGNpSWJn?oc=5)
-
-2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NseGIwNDFSZkZ0OEdkM0ItNk5MN0ozdWdZQVd5VnlyRnBzckxSRUtiWkpZcW5ObXBDX0llYTc0OW1GNUZIY2s5bTk3NUNYSG1iRVJlNG1Cb3hhT2lWUTN5MG5RSmE4X1RsVzFKWXVnLVM2cTdzZnlCbHpPczFoQXFNZlFEU3Y0clBYbDlidk9icklxOHlTQWtOZzF1RVZ6WWFuSVU5Q3NHbVA1QWRsZ1ZRRm9OVGNpSWJn?oc=5)
-
----
-
-### [Miguel Bronchud: Are We Doing Enough to Prevent Virus-Related Cancers Through Vaccination?](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaV1NjZDVOLVZaSjc3RHh3UlI4V0pMQXJTTVVKcjZ3eU1fUVREdHhGZ2xHNWYwZV9GQW8yam5DZmU0Rk12SF9STndsa1ExemNINEM4ZDBuZnZkQlVqYXNWSg?oc=5)
-
-2026-11-10 <span class="news-indication-tag">cancer</span>
-
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaV1NjZDVOLVZaSjc3RHh3UlI4V0pMQXJTTVVKcjZ3eU1fUVREdHhGZ2xHNWYwZV9GQW8yam5DZmU0Rk12SF9STndsa1ExemNINEM4ZDBuZnZkQlVqYXNWSg?oc=5)
 
 ---
 
@@ -138,11 +138,19 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cU
 
 ---
 
-### [Can drinking very hot tea or coffee lead to food pipe cancer?](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHEteGdrVzhLM0ZRSDBTOW83aGtyalM3aDZDNnFnZjhhYnprVFl2YldyRWg3Z1IxUW5lLUZaS2lZNDBPVGY3M2RKU05fa09iSkN3M0lfcHVlTzZxZjZqbzF4TzA5TFA1SkFtVDUwUkYwTzVZMTRpOC1zMG9yUW5NTjYtdkFsLWN1NlR5LTVZX3dyM3BUbkx4V3FJV2pWRE5wb19LUDZNMVNGZ2M1clFJ0gG0AUFVX3lxTFBEcTVTOFYyLXdDOGtUZnZ5blkzUFhJQ0dfS1ZERzlNVmtFMjA5VFdjTk83a1hDbi1lcDBjOU95aHVqeW5kOU1sSGlVb1pLVTVFM3FsWlJ2Z285T2xQOHF3aUpjai1JcjExU3ZmcFZRNlk0ZUV5TzV6T2NOY1lQNUtCbmtfUTF1OXdZNVY2VnlvemoxQ3hHellIeWxQTmVqN3ZmVThsRi1YN2NJYmVMSUFkT0d2MA?oc=5)
+### [WHO says nearly 4 in 10 cancer cases could be prevented and much of it comes down to lifestyle, infections, air pollution | Health - Hindustan Times](https://news.google.com/rss/articles/CBMilwJBVV95cUxORXh1QzZuWk5XYksxcmFvUUdQdmFoT3FxQXVJc3B5TzlxSy1aankzajlIQjBBTTNaWWtTSVFXNFlwSEVDT3UtRGI1eXBkVzgzY2ZLSTBjeFlOTjVmMTIyYzlQUmxULUprc2RCcDlqR3c5LXl5ZlpKSmxEVEdldW56T1RBZV9wMVNYYUVBQzJiLS00SFA3ZzlfdkNSYWJ6MFNJQ05IOXBSQWw5SWFsZ2lNR1dMdGhjZWNLY29XTGFjNEVWVzhsTGhMcG5CZTBHaHZ4d255RXduV3pKa0dMS2FYWTBGX2NzSWUyeXVUQjhvN2J3QV9NMkVRQ1R0OGwtM2lTbjFJZzM2UlAtNlc4TlhDbS1BRzl4SFXSAZwCQVVfeXFMTzlrRjlKTFJZb3hGckdER21ZUlZJMFBEdkQ1ejQyYTZRZ0R0YjktZGQwRnNwQU9NdERDYWVlbExyVDk5RzFrY1dZMEU0djFoSmdWcWFaZUExU2FBWFEwcVV5WDJFSlpSVFlxRkNRdU4xT2dFN2pJVDZYWGJ2TkFuN3RKaFBhSWEycmJaTkpRTWJPX2t4cExIbjhqcElzM2N4cjlaeUM2bnF1X19iaUhHMFByX3NCcUNRYU1DU1lJRm9KM3RwNFI3bHRzV2c5cEhoUElHN1JyRk5wU29KRUx1STUwa2NEOUNidUZTZ216WkFzTlUxYXh2cFlLVEZLdWNnV3dXT21mNV9Id1hKY0pPOW1UQXh5akJZM3BJZ3k?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMilwJBVV95cUxORXh1QzZuWk5XYksxcmFvUUdQdmFoT3FxQXVJc3B5TzlxSy1aankzajlIQjBBTTNaWWtTSVFXNFlwSEVDT3UtRGI1eXBkVzgzY2ZLSTBjeFlOTjVmMTIyYzlQUmxULUprc2RCcDlqR3c5LXl5ZlpKSmxEVEdldW56T1RBZV9wMVNYYUVBQzJiLS00SFA3ZzlfdkNSYWJ6MFNJQ05IOXBSQWw5SWFsZ2lNR1dMdGhjZWNLY29XTGFjNEVWVzhsTGhMcG5CZTBHaHZ4d255RXduV3pKa0dMS2FYWTBGX2NzSWUyeXVUQjhvN2J3QV9NMkVRQ1R0OGwtM2lTbjFJZzM2UlAtNlc4TlhDbS1BRzl4SFXSAZwCQVVfeXFMTzlrRjlKTFJZb3hGckdER21ZUlZJMFBEdkQ1ejQyYTZRZ0R0YjktZGQwRnNwQU9NdERDYWVlbExyVDk5RzFrY1dZMEU0djFoSmdWcWFaZUExU2FBWFEwcVV5WDJFSlpSVFlxRkNRdU4xT2dFN2pJVDZYWGJ2TkFuN3RKaFBhSWEycmJaTkpRTWJPX2t4cExIbjhqcElzM2N4cjlaeUM2bnF1X19iaUhHMFByX3NCcUNRYU1DU1lJRm9KM3RwNFI3bHRzV2c5cEhoUElHN1JyRk5wU29KRUx1STUwa2NEOUNidUZTZ216WkFzTlUxYXh2cFlLVEZLdWNnV3dXT21mNV9Id1hKY0pPOW1UQXh5akJZM3BJZ3k?oc=5)
+
+---
+
+### [National Cancer Awareness Day 2026: Date, History, Significance and Prevention](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHJSVjJ2c0lRRXVKMGg4MU9lcHR3NVBrYjJDMkdvZkJySGJQdDRIMS1TRHRoeVhRUS12R2w1dzQ0M1NxWnFPSTdlc3QwdWk4ZUhZOVZob2VBVlJqS2pGeVh5ZGp6WGR1b28yQnBhNlhzZ2h2U3RMbXc4Ync1QVNmOFAxMUU3Z1JhcWI4amF3eXBBVFpyUW1CYkEycVVVbkdhbnVQVzI2ZXpmTXhSVXZyUw?oc=5)
 
 2026-11-07 <span class="news-indication-tag">cancer</span>
 
-Source: [Firstpost](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWHEteGdrVzhLM0ZRSDBTOW83aGtyalM3aDZDNnFnZjhhYnprVFl2YldyRWg3Z1IxUW5lLUZaS2lZNDBPVGY3M2RKU05fa09iSkN3M0lfcHVlTzZxZjZqbzF4TzA5TFA1SkFtVDUwUkYwTzVZMTRpOC1zMG9yUW5NTjYtdkFsLWN1NlR5LTVZX3dyM3BUbkx4V3FJV2pWRE5wb19LUDZNMVNGZ2M1clFJ0gG0AUFVX3lxTFBEcTVTOFYyLXdDOGtUZnZ5blkzUFhJQ0dfS1ZERzlNVmtFMjA5VFdjTk83a1hDbi1lcDBjOU95aHVqeW5kOU1sSGlVb1pLVTVFM3FsWlJ2Z285T2xQOHF3aUpjai1JcjExU3ZmcFZRNlk0ZUV5TzV6T2NOY1lQNUtCbmtfUTF1OXdZNVY2VnlvemoxQ3hHellIeWxQTmVqN3ZmVThsRi1YN2NJYmVMSUFkT0d2MA?oc=5)
+Source: [Adda247](https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHJSVjJ2c0lRRXVKMGg4MU9lcHR3NVBrYjJDMkdvZkJySGJQdDRIMS1TRHRoeVhRUS12R2w1dzQ0M1NxWnFPSTdlc3QwdWk4ZUhZOVZob2VBVlJqS2pGeVh5ZGp6WGR1b28yQnBhNlhzZ2h2U3RMbXc4Ync1QVNmOFAxMUU3Z1JhcWI4amF3eXBBVFpyUW1CYkEycVVVbkdhbnVQVzI2ZXpmTXhSVXZyUw?oc=5)
 
 ---
 

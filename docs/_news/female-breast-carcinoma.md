@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -40,11 +40,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (2)
 
-### [Chemotherapy may accelerate biological aging in breast cancer survivors](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NseGIwNDFSZkZ0OEdkM0ItNk5MN0ozdWdZQVd5VnlyRnBzckxSRUtiWkpZcW5ObXBDX0llYTc0OW1GNUZIY2s5bTk3NUNYSG1iRVJlNG1Cb3hhT2lWUTN5MG5RSmE4X1RsVzFKWXVnLVM2cTdzZnlCbHpPczFoQXFNZlFEU3Y0clBYbDlidk9icklxOHlTQWtOZzF1RVZ6WWFuSVU5Q3NHbVA1QWRsZ1ZRRm9OVGNpSWJn?oc=5)
+### [Anthracycline Chemo May Accelerate Biological Aging in Breast Cancer Survivors](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
 
-2026-11-11
+2026-11-12
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NseGIwNDFSZkZ0OEdkM0ItNk5MN0ozdWdZQVd5VnlyRnBzckxSRUtiWkpZcW5ObXBDX0llYTc0OW1GNUZIY2s5bTk3NUNYSG1iRVJlNG1Cb3hhT2lWUTN5MG5RSmE4X1RsVzFKWXVnLVM2cTdzZnlCbHpPczFoQXFNZlFEU3Y0clBYbDlidk9icklxOHlTQWtOZzF1RVZ6WWFuSVU5Q3NHbVA1QWRsZ1ZRRm9OVGNpSWJn?oc=5)
+Source: [CancerNetwork](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
 
 ---
 

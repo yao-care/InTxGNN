@@ -60,11 +60,19 @@ This page brings together the latest health news about “heart disease” and l
 
 ## Related News (4)
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
 
 2026-11-12
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+Source: [EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
+
+---
+
+### [Low blood NAD levels track heart disease and hypertension, not aging - Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
+
+2026-11-11
+
+Source: [Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
 
 ---
 
@@ -73,14 +81,6 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0
 2026-11-11
 
 Source: [Radiology Business](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFvcDFhR2hJMml3TE5paEdFbDJZa3lkcTVYeURmVjNJQmYtVWZLU1pqb2MxNllwcEZNX0F1SW9Eb1FtcXlqYjQzZHdfVUM3Y1lXX3lLYTg2LWVIWjhyQzRoU3Bha3M2d2RXY3RwWkpyVk8zNnZpNlVUVFRmTmVENi03ZW5OZzlPNGR1M05aOFF5NDJoX0hMOTl1blNweHNQWTlQNVI5cVRDcUFkWWtwVDRYREJTTlJxUVVvbVlRSUt5SmxfWmhaYi1UQV8xMTFNenlKbWZEWTA?oc=5)
-
----
-
-### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
-
-2026-11-10
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (4)
 
-### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+### [ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
 
-2026-11-12 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-12 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+Source: [EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
+
+---
+
+### [Low blood NAD levels track heart disease and hypertension, not aging - Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">heart disease</span>
+
+Source: [Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
 
 ---
 
@@ -52,27 +60,11 @@ Source: [Radiology Business](https://news.google.com/rss/articles/CBMi2AFBVV95cU
 
 ---
 
-### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
-
-2026-11-10 <span class="news-indication-tag">heart disease</span>
-
-Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
-
----
-
 ### [Postpartum Screening Reveals Cardiovascular and Kidney Risks](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
-
----
-
-### [India Leads South East Asia's NTD Elimination Drive, Yet Dengue And Leprosy Cases Surge: Report - ETV Bharat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVwdXlzVklOMG1sNDBBSzM3ZWFuTEhzczdNTXBCWnlzQVhiaFJlaUdjTTNrOFVhUjNmTHNNMV9mSW1XOXBCTnE3UkdlV2lkVG1hVU50dGdwTnBOT0RqQW43Qk4tU0NFMHM5WmJod0ZoX2xTNThHMkoybVJzdkY4R3NLamNvOTBGUWRzVDdjNml6RFg0YktJeGlvWHRlb1AwTE5MakZPTm1OdV9YLUVFeXpJZ1pmZjNLdkRSZkM1ZjY4TGJWZGNLN0txaHM3Q1Jkejk5eVlxMHdEd9IB3wFBVV95cUxONFMxN3VSeUZNOERPRXNlZ3lzX3Q1TXRLVU9ZZkt5STk4RnFNaTRRYzNuaVFfSjZRMTctY3pRREJBeWpOVE9hREZ6MFcwekhJTC1TOU1Eb1VSX3BxQ2MyTXY4eVZEbVZUX0RRR21iOWpxLUMwNjVhMlhoQlNwN241elZ2NldnYk9FbDRVUDVLS3FCWmJKXzdBb09ueTNaM1lKXzJsVDBuUENwOTFfVzNnUDZST1JaZ1R6ZXBOSW4zVnlPd242anB0eFhka19EV1hDc2F1el9JZUEzRFI4bDdB?oc=5)
-
-2026-11-06 <span class="news-indication-tag">leprosy</span>
-
-Source: [ETV Bharat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVwdXlzVklOMG1sNDBBSzM3ZWFuTEhzczdNTXBCWnlzQVhiaFJlaUdjTTNrOFVhUjNmTHNNMV9mSW1XOXBCTnE3UkdlV2lkVG1hVU50dGdwTnBOT0RqQW43Qk4tU0NFMHM5WmJod0ZoX2xTNThHMkoybVJzdkY4R3NLamNvOTBGUWRzVDdjNml6RFg0YktJeGlvWHRlb1AwTE5MakZPTm1OdV9YLUVFeXpJZ1pmZjNLdkRSZkM1ZjY4TGJWZGNLN0txaHM3Q1Jkejk5eVlxMHdEd9IB3wFBVV95cUxONFMxN3VSeUZNOERPRXNlZ3lzX3Q1TXRLVU9ZZkt5STk4RnFNaTRRYzNuaVFfSjZRMTctY3pRREJBeWpOVE9hREZ6MFcwekhJTC1TOU1Eb1VSX3BxQ2MyTXY4eVZEbVZUX0RRR21iOWpxLUMwNjVhMlhoQlNwN241elZ2NldnYk9FbDRVUDVLS3FCWmJKXzdBb09ueTNaM1lKXzJsVDBuUENwOTFfVzNnUDZST1JaZ1R6ZXBOSW4zVnlPd242anB0eFhka19EV1hDc2F1el9JZUEzRFI4bDdB?oc=5)
 
 ---
 
