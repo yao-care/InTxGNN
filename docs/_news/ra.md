@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about rheumatoid arthritis (RA). 1 articles, 21 related drugs."
 permalink: /news/ra/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # rheumatoid arthritis (RA) News
@@ -51,11 +51,11 @@ This page brings together the latest health news about â€œrheumatoid arthritisâ€
 
 ## Related News (1)
 
-### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+### [ACR 2026: GLP-1 Receptor Agonists Show Joint and Vascular Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
 
-2026-11-10
+2026-11-07
 
-Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
 
 ---
 

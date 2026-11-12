@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Chromium. 0 predicted indications."
 permalink: /news/chromium/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Chromium News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Chromium</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Does Mars have ruby deposits? Perseverance rover makes a red-hot discovery - India Today](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbG5FRXhFdXpWZjIyMHNLa2Vrem44LVVfcjRyY2VhN25ISGRMWWprbGZHcHpkMHdpeFFmcWdRU000YlhLZlRaZHphLTdEcmpRLUl4a3hOa1l0ZmVIWC10SnA5RzRvN0JHVjNvOUVEcWI4R1d3SDIxU01rTXJnNTE0M0VWOUF4ZTBOWlFvQlkwT1FGOFJ0WWR2dXNHb21JZlN0XzFnSEsza3I3M3Y4bzQzaW5pLV96ZGE4a0diQ2E1N1NaY0swZzhCbXo5UVTSAdIBQVVfeXFMT2R4WDg0M2pLQm9UeDJjZmdOVUlvWGlrS2tTekRtbUlzMVhTZFU1WjdnVE1JVVptSnF2NjgxZ05vWUZsa1dPQVFMMVZSNzJPbDN5QXZyZXJEQWYzMzJoU0ZNQ2hDUW1BWU14X1R4LTdWZ2NrMENUaHZGQUNMTEUwMzRobGx1a0VzU0Raa01EZHZWaHN4anZIY05Rc0tkLXAwbVROM2dOMTkxM0dnZWNxemgtRkRuV2N4QzNqSWx1M2VjNlVUTXlUSy1ZYWR0SHRlaDNn?oc=5)
+### [ACR 2026: GLP-1 Receptor Agonists Show Joint and Vascular Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
 
-2026-11-10 <span class="news-drug-tag">Chromium</span>
+2026-11-07 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
 
-Source: [India Today](https://news.google.com/rss/articles/CBMizAFBVV95cUxNbG5FRXhFdXpWZjIyMHNLa2Vrem44LVVfcjRyY2VhN25ISGRMWWprbGZHcHpkMHdpeFFmcWdRU000YlhLZlRaZHphLTdEcmpRLUl4a3hOa1l0ZmVIWC10SnA5RzRvN0JHVjNvOUVEcWI4R1d3SDIxU01rTXJnNTE0M0VWOUF4ZTBOWlFvQlkwT1FGOFJ0WWR2dXNHb21JZlN0XzFnSEsza3I3M3Y4bzQzaW5pLV96ZGE4a0diQ2E1N1NaY0swZzhCbXo5UVTSAdIBQVVfeXFMT2R4WDg0M2pLQm9UeDJjZmdOVUlvWGlrS2tTekRtbUlzMVhTZFU1WjdnVE1JVVptSnF2NjgxZ05vWUZsa1dPQVFMMVZSNzJPbDN5QXZyZXJEQWYzMzJoU0ZNQ2hDUW1BWU14X1R4LTdWZ2NrMENUaHZGQUNMTEUwMzRobGx1a0VzU0Raa01EZHZWaHN4anZIY05Rc0tkLXAwbVROM2dOMTkxM0dnZWNxemgtRkRuV2N4QzNqSWx1M2VjNlVUTXlUSy1ZYWR0SHRlaDNn?oc=5)
-
----
-
-### [GLP-1 Therapies Linked to Increased Joint Pain in Rheumatoid Arthritis - Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
-
-2026-11-10 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">joint pain</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
-
-Source: [Medical Professionals Reference](https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ19kV3BNNzBsc1FXTnh5ZjN2M1NmZFRsZ24zVVQtUHZ6d3hXS2Y4RDdDcTZZdUplWDF2N0doZEt4YkZlbFI3Vkw1bVpNTzlWT0l1UmR5dEpmaUZqR29Hdm1jVTFrSDlkMmJqYUxqdXkzSkFDaWZnd0FwSDlaS2NoTEFn?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
 
 ---
 

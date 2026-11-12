@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>5 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (5)
 
-### [GLP-1 Drugs Linked to 31% Lower Diabetes Risk Than Metformin in Prediabetes - Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
+### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
 
-2026-11-10 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">cardiovascular</span>
+2026-11-12 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjRhY2o3Ti1VVDdQMm80RjVyUHlWTExaWGVjd2Vvek1FbEFkYkN3QlFydXJPM2JHbVF2Q0MxeUsxd09tdzZwbFpPUEM0aUdtSDRCSU5ZUFU5b2JJSlR1Z1ZvZ2VWbUx1ZlBIcW9Tb1l2WjJ4cFc4b0lEWlowc21LYWdHQTZaWGJTQnE4dk1HWExhWWI1RWhpZUJwUXpxUTk2czhIanQ2Z1FjZzNzNjVVWXdlY3dDWGFwWDlxZzdiS0NudkJVR2NyaXRMa1I4RGc?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+---
+
+### [AI-derived inflammation score improves cardiovascular risk prediction beyond CAC - Radiology Business](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFvcDFhR2hJMml3TE5paEdFbDJZa3lkcTVYeURmVjNJQmYtVWZLU1pqb2MxNllwcEZNX0F1SW9Eb1FtcXlqYjQzZHdfVUM3Y1lXX3lLYTg2LWVIWjhyQzRoU3Bha3M2d2RXY3RwWkpyVk8zNnZpNlVUVFRmTmVENi03ZW5OZzlPNGR1M05aOFF5NDJoX0hMOTl1blNweHNQWTlQNVI5cVRDcUFkWWtwVDRYREJTTlJxUVVvbVlRSUt5SmxfWmhaYi1UQV8xMTFNenlKbWZEWTA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Radiology Business](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFvcDFhR2hJMml3TE5paEdFbDJZa3lkcTVYeURmVjNJQmYtVWZLU1pqb2MxNllwcEZNX0F1SW9Eb1FtcXlqYjQzZHdfVUM3Y1lXX3lLYTg2LWVIWjhyQzRoU3Bha3M2d2RXY3RwWkpyVk8zNnZpNlVUVFRmTmVENi03ZW5OZzlPNGR1M05aOFF5NDJoX0hMOTl1blNweHNQWTlQNVI5cVRDcUFkWWtwVDRYREJTTlJxUVVvbVlRSUt5SmxfWmhaYi1UQV8xMTFNenlKbWZEWTA?oc=5)
+
+---
+
+### [Silent heart disease can strike without warning - The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
+
+2026-11-10 <span class="news-indication-tag">heart disease</span>
+
+Source: [The Hans India](https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm9ob01wYVZMQXhZenZNVzk1WWp4d0I4Y2lUWDNkZlNVNjlaVGtvYlpZdGc3UksyS28wTzR3LUliRXpOX0VYblpBNEU0WkhDNmlzejR5LThGQ294Y1Brc1JOZjFELXdKeUhPVDJmOVRFNTluTm9WaFdCLUVBNHpwS0lrS1RNQ1FfVWxrVkV4cm1MYWlmcDR4UTg3cG9mN2FiSDVBcg?oc=5)
 
 ---
 
@@ -49,6 +65,14 @@ Source: [Global Agriculture](https://news.google.com/rss/articles/CBMizwFBVV95cU
 2026-11-10 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
+
+---
+
+### [India Leads South East Asia's NTD Elimination Drive, Yet Dengue And Leprosy Cases Surge: Report - ETV Bharat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVwdXlzVklOMG1sNDBBSzM3ZWFuTEhzczdNTXBCWnlzQVhiaFJlaUdjTTNrOFVhUjNmTHNNMV9mSW1XOXBCTnE3UkdlV2lkVG1hVU50dGdwTnBOT0RqQW43Qk4tU0NFMHM5WmJod0ZoX2xTNThHMkoybVJzdkY4R3NLamNvOTBGUWRzVDdjNml6RFg0YktJeGlvWHRlb1AwTE5MakZPTm1OdV9YLUVFeXpJZ1pmZjNLdkRSZkM1ZjY4TGJWZGNLN0txaHM3Q1Jkejk5eVlxMHdEd9IB3wFBVV95cUxONFMxN3VSeUZNOERPRXNlZ3lzX3Q1TXRLVU9ZZkt5STk4RnFNaTRRYzNuaVFfSjZRMTctY3pRREJBeWpOVE9hREZ6MFcwekhJTC1TOU1Eb1VSX3BxQ2MyTXY4eVZEbVZUX0RRR21iOWpxLUMwNjVhMlhoQlNwN241elZ2NldnYk9FbDRVUDVLS3FCWmJKXzdBb09ueTNaM1lKXzJsVDBuUENwOTFfVzNnUDZST1JaZ1R6ZXBOSW4zVnlPd242anB0eFhka19EV1hDc2F1el9JZUEzRFI4bDdB?oc=5)
+
+2026-11-06 <span class="news-indication-tag">leprosy</span>
+
+Source: [ETV Bharat](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVlVwdXlzVklOMG1sNDBBSzM3ZWFuTEhzczdNTXBCWnlzQVhiaFJlaUdjTTNrOFVhUjNmTHNNMV9mSW1XOXBCTnE3UkdlV2lkVG1hVU50dGdwTnBOT0RqQW43Qk4tU0NFMHM5WmJod0ZoX2xTNThHMkoybVJzdkY4R3NLamNvOTBGUWRzVDdjNml6RFg0YktJeGlvWHRlb1AwTE5MakZPTm1OdV9YLUVFeXpJZ1pmZjNLdkRSZkM1ZjY4TGJWZGNLN0txaHM3Q1Jkejk5eVlxMHdEd9IB3wFBVV95cUxONFMxN3VSeUZNOERPRXNlZ3lzX3Q1TXRLVU9ZZkt5STk4RnFNaTRRYzNuaVFfSjZRMTctY3pRREJBeWpOVE9hREZ6MFcwekhJTC1TOU1Eb1VSX3BxQ2MyTXY4eVZEbVZUX0RRR21iOWpxLUMwNjVhMlhoQlNwN241elZ2NldnYk9FbDRVUDVLS3FCWmJKXzdBb09ueTNaM1lKXzJsVDBuUENwOTFfVzNnUDZST1JaZ1R6ZXBOSW4zVnlPd242anB0eFhka19EV1hDc2F1el9JZUEzRFI4bDdB?oc=5)
 
 ---
 

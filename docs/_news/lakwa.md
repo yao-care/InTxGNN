@@ -3,9 +3,9 @@ layout: default
 title: "stroke (lakwa) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (lakwa). 2 articles, 15 related drugs."
+description: "Health news about stroke (lakwa). 3 articles, 15 related drugs."
 permalink: /news/lakwa/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # stroke (lakwa) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (lakwa)?">
-<strong>stroke (lakwa)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke (lakwa)</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,13 +44,21 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
-### [Coming off GLP-1s linked to double heart attack, stroke, death risk](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJqZmx0Q0FVc1NVZVlvSElmMmNfWXloQkxKTHljaTRCNWNxd3BoMllSSmNjZ1psM2VqaEhIbFZFUUxHZzBKS09xWVBZWXFKTFg2X2NuRktGdk8wTjFZOXBWSGpNeXF1ek5hUlFkcFZGU0MxYUVlZEIwRXJDQndJU3dkQzVOdVl4V1kzRG1DcW5ma2FUekxYU0syVzVhcWg0djJyS3czWW5ydmpvRDc2OUhGUmdGTVJGMTlIYWJ4V0VWVGpu?oc=5)
+### [Two Trials of Intensive BP Lowering, Two Different Outcomes](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+2026-11-12
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSU9ELWs0OGYxT3MtemRwWnpPVzkyLUNGWklPVENwb3NHR2hmWXBtZG9QUE1SSk9XWE9ET05qU0VXbmVBeEdTX1BKVl81UVVmOW9jem9pMDlld2E3NDFhWjU1MkpqcmFfOGVvTGR2ZHZYZ3lCZVVrbTExUEpQS1pwcWFsVDc0c3NZcktDVnM3Q1A4bjl0cEhEVzdYSkd0Wmd6cjcxei1Td2t1UQ?oc=5)
+
+---
+
+### [For diabetes patients, stopping GLP-1 drugs linked to doubled risk of heart attack, stroke, death - Yahoo News Singapore](https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYVRCSVVVVklmQWdMUEhPdk4xM0xod0FRcGJGRlFaTE13OUg0X0taNkRmeUhIall6U0szd1o5NW1iRmxmNTFpRTJlaUVINEdRVHZ3b0Vnb1BudkQtdXo3clhZMDBpTWY0TlRTajRDUXRReVNtcDAxdmROanpSZw?oc=5)
 
 2026-11-11
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTGJqZmx0Q0FVc1NVZVlvSElmMmNfWXloQkxKTHljaTRCNWNxd3BoMllSSmNjZ1psM2VqaEhIbFZFUUxHZzBKS09xWVBZWXFKTFg2X2NuRktGdk8wTjFZOXBWSGpNeXF1ek5hUlFkcFZGU0MxYUVlZEIwRXJDQndJU3dkQzVOdVl4V1kzRG1DcW5ma2FUekxYU0syVzVhcWg0djJyS3czWW5ydmpvRDc2OUhGUmdGTVJGMTlIYWJ4V0VWVGpu?oc=5)
+Source: [Yahoo News Singapore](https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYVRCSVVVVklmQWdMUEhPdk4xM0xod0FRcGJGRlFaTE13OUg0X0taNkRmeUhIall6U0szd1o5NW1iRmxmNTFpRTJlaUVINEdRVHZ3b0Vnb1BudkQtdXo3clhZMDBpTWY0TlRTajRDUXRReVNtcDAxdmROanpSZw?oc=5)
 
 ---
 
