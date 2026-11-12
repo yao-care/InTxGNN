@@ -1011,9 +1011,9 @@
    "file": "sodium_feredetate.md",
    "action": "correct",
    "claim": "All six registrations are single-ingredient products and none has been cancelled.",
-   "replacement": "One has been cancelled.",
+   "replacement": "None has been cancelled.",
    "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures.",
-   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+   "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）。2026-11-12 更正：原刪句切斷後變成「One has been cancelled.」，跟資料（indian_medicine_data.csv 本藥 6 筆 Is_discontinued 全是 FALSE）相反，改成保留「None has been cancelled.」",
    "sources": [
     {
      "title": "Indian Medicine Dataset",
@@ -1021,9 +1021,33 @@
      "accessed": "2026-11-06"
     }
    ],
-   "checked": "2026-11-06",
-   "summary": "Removed: \"All six registrations are single-ingredient products and no\"",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）"
+   "checked": "2026-11-12",
+   "summary": "Removed: \"All six registrations are single-ingredient products and\"",
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）",
+   "history": [
+    {
+     "id": "in-lic-20261106-sodium_feredetate-1",
+     "drug": "sodium_feredetate",
+     "file": "sodium_feredetate.md",
+     "action": "correct",
+     "claim": "All six registrations are single-ingredient products and none has been cancelled.",
+     "replacement": "One has been cancelled.",
+     "note": "Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures.",
+     "finding": "依本站資料集（Indian Medicine Dataset，short_composition2 有值＝複方）本藥有效註冊 6 張，其中單方 2 張；句子的單方／複方說法（全部單方、沒有複方或單方張數）與事實不符，只刪「單方」這個詞或子句，其餘保留（2026-11-06 用戶決定）",
+     "sources": [
+      {
+       "title": "Indian Medicine Dataset",
+       "url": "https://github.com/junioralive/Indian-Medicine-Dataset",
+       "accessed": "2026-11-06"
+      }
+     ],
+     "checked": "2026-11-06",
+     "summary": "Removed: \"All six registrations are single-ingredient products and no\"",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：a373ef9df（2026-11-06）",
+     "retired": "2026-11-12",
+     "reason": "11-06 的刪句（a373ef9df）要刪「All six registrations are single-ingredient products and」，卻在「no|ne」中間切斷，留下的「ne has been cancelled.」被寫成「One has been cancelled.」，意思反過來（資料 6 筆都沒有停產）；改成只刪單方子句、保留「None has been cancelled.」"
+    }
+   ]
   },
   {
    "id": "in-lic-20261106-sodium_fluoride-1",

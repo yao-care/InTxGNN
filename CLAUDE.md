@@ -516,3 +516,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 
 2026-10-31～11-06 許可證修正時直接刪掉的矛盾子句（10-31 dcc29335e、11-06 a373ef9df（單方／複方說法）），2026-11-12 由 scripts/reviews_from_edits.py 依 git 前後版本轉入。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁時會重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
+2026-11-12：sodium_feredetate 的 11-06 刪句（a373ef9df）在「no|ne」中間切斷，留下「One has been cancelled.」（意思相反，資料 6 筆都沒有停產）；重發 `in-lic-20261106-sodium_feredetate-1`，改成只刪單方子句、保留「None has been cancelled.」，前版存在 history。

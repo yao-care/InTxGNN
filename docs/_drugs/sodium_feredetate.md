@@ -56,11 +56,11 @@ Evidence Level: **N/A** | Predicted Indications: **0**
 | 190762 | Rednext Syrup (Globus Labs) | Bottle of 150 ml syrup | Not specified |
 | 233868 | Vegefer Syrup (Sundyota Numandis Probioceuticals) | Bottle of 150 ml oral solution | Not specified |
 
-A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10 tablets), is also valid. One has been cancelled.
+A sixth registration, Fericom-SF Tablet (No. 85282, Bioncare Pharma, strip of 10 tablets), is also valid. None has been cancelled.
 
 <!-- review:begin in-lic-20261106-sodium_feredetate-1 -->
 
-> **Review correction (2026-11-06)**: Originally stated: "All six registrations are single-ingredient products and none has been cancelled." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
+> **Review correction (2026-11-12)**: Originally stated: "All six registrations are single-ingredient products and none has been cancelled." Removed: the number or status of product records stated here did not match the Indian medicine data (the Indian Medicine Dataset as of 2026-11-06). The data list 6 product records for this drug, 6 current; the Quick Overview and the table under India Market Information show the current figures. Source: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset).
 
 <!-- review:end in-lic-20261106-sodium_feredetate-1 -->
 
@@ -76,7 +76,7 @@ Below is the review log for this page: statements checked against official India
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-06 | Removed: "All six registrations are single-ingredient products and no" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-12 | Removed: "All six registrations are single-ingredient products and" | Corrected (revised 2026-11-12; earlier version kept in the record) | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
 
 <!-- review:end log -->
 
