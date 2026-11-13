@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Sotalol</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Intensive Blood Pressure Control Reduces Heart Events](https://news.google.com/rss/articles/CBMingFBVV95cUxNWFpjWFhIUkVMOFBBd3RXRkQyTjU4eGZEOXJoazdFak9YOVBIemhWNGxzNm1oUGVueU0xM3kwcVV6WEZHUEFZaEJTUWlQYzFuZVN4Zy01RWtlUEQ1VFB4eHVwUGRBNk0tUEtPamJqRTlpNzR2bHVHY2gxRGtCTF9ITnVUNW5qaF94NkQwSXhZV0MyMUdjSHdEQlQwZWJLdw?oc=5)
+### [Robotic Exoskeleton-Assisted Training for Upper Limb Recovery After Stroke: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://news.google.com/rss/articles/CBMikAJBVV95cUxOT09GZ0pwanA1amJ4QmQySEpoMzUwSmhXS2pVeXR0RS1oYWhMNGdiMzg2OXB3RUlTYTN0YWRLM0J0LWZXdkFncDlQQmJGTERkeExzVUxXa0VubUwwaEVtd3pwLWVscnl1VHowb2hJV0djSVQwMlhIVHlzaC12VDEzU0VsVVUwRGRJcnFOS0VQRVFmTGUxajFuSGVkTnRleEVwTWdVOFdaVUdrNVVUNGNoX0JSczV4VHI0bmJ3MEVZb2JiMElnNUFPa1pfR3JqN01ncnBmdmdUTC02QUN0RVhZTmpFeDBKR042Y0FYUC1BZFRBMmQxTklrdDlNQ3JkZGZtTHRfOUhlbnpJUG1zMlFxdg?oc=5)
 
 2026-11-13 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMingFBVV95cUxNWFpjWFhIUkVMOFBBd3RXRkQyTjU4eGZEOXJoazdFak9YOVBIemhWNGxzNm1oUGVueU0xM3kwcVV6WEZHUEFZaEJTUWlQYzFuZVN4Zy01RWtlUEQ1VFB4eHVwUGRBNk0tUEtPamJqRTlpNzR2bHVHY2gxRGtCTF9ITnVUNW5qaF94NkQwSXhZV0MyMUdjSHdEQlQwZWJLdw?oc=5)
-
----
-
-### [Delhi Air Pollution In Early Winter Is Highest In 3 Years: Can PM2.5 Exposure Affect Children’s IQ & Memory? - Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHdBN29ud1ppR0JlM0Ridk9yVmg5UVI4RVptLV9nRXE4RkVrQmZjNWdwTm9aeVBfU0lPbV9mN2lqOE54cElhRV9wRXRvRXJtQkFWYXhrTXJZeHBDMk5tVVMzOG5fazh0YmhZR3dKNDJnRjdfZ0lCYUlYQmltZjh4Zm5yeEpueFBIdHdtekY5aXN3bkl0aGJlU0JHZ2ZDYkdEN29UUEEyM0szcEJVaWg1My1GdF9ERE9MenhIVlBhQTBDUTZWNDZsbF9QaU92RjNjakhJTFFVNnhrNnlZYUVWNG1DVmpkcjZuN2M3aHctUmpBYmRGS0llSXhn?oc=5)
-
-2026-11-12 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHdBN29ud1ppR0JlM0Ridk9yVmg5UVI4RVptLV9nRXE4RkVrQmZjNWdwTm9aeVBfU0lPbV9mN2lqOE54cElhRV9wRXRvRXJtQkFWYXhrTXJZeHBDMk5tVVMzOG5fazh0YmhZR3dKNDJnRjdfZ0lCYUlYQmltZjh4Zm5yeEpueFBIdHdtekY5aXN3bkl0aGJlU0JHZ2ZDYkdEN29UUEEyM0szcEJVaWg1My1GdF9ERE9MenhIVlBhQTBDUTZWNDZsbF9QaU92RjNjakhJTFFVNnhrNnlZYUVWNG1DVmpkcjZuN2M3aHctUmpBYmRGS0llSXhn?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMikAJBVV95cUxOT09GZ0pwanA1amJ4QmQySEpoMzUwSmhXS2pVeXR0RS1oYWhMNGdiMzg2OXB3RUlTYTN0YWRLM0J0LWZXdkFncDlQQmJGTERkeExzVUxXa0VubUwwaEVtd3pwLWVscnl1VHowb2hJV0djSVQwMlhIVHlzaC12VDEzU0VsVVUwRGRJcnFOS0VQRVFmTGUxajFuSGVkTnRleEVwTWdVOFdaVUdrNVVUNGNoX0JSczV4VHI0bmJ3MEVZb2JiMElnNUFPa1pfR3JqN01ncnBmdmdUTC02QUN0RVhZTmpFeDBKR042Y0FYUC1BZFRBMmQxTklrdDlNQ3JkZGZtTHRfOUhlbnpJUG1zMlFxdg?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "stroke (paralysis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (paralysis). 2 articles, 15 related drugs."
+description: "Health news about stroke (paralysis). 1 articles, 15 related drugs."
 permalink: /news/paralysis/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (paralysis)?">
-<strong>stroke (paralysis)</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke (paralysis)</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,21 +44,13 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [Intensive Blood Pressure Control Reduces Heart Events](https://news.google.com/rss/articles/CBMingFBVV95cUxNWFpjWFhIUkVMOFBBd3RXRkQyTjU4eGZEOXJoazdFak9YOVBIemhWNGxzNm1oUGVueU0xM3kwcVV6WEZHUEFZaEJTUWlQYzFuZVN4Zy01RWtlUEQ1VFB4eHVwUGRBNk0tUEtPamJqRTlpNzR2bHVHY2gxRGtCTF9ITnVUNW5qaF94NkQwSXhZV0MyMUdjSHdEQlQwZWJLdw?oc=5)
+### [Robotic Exoskeleton-Assisted Training for Upper Limb Recovery After Stroke: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://news.google.com/rss/articles/CBMikAJBVV95cUxOT09GZ0pwanA1amJ4QmQySEpoMzUwSmhXS2pVeXR0RS1oYWhMNGdiMzg2OXB3RUlTYTN0YWRLM0J0LWZXdkFncDlQQmJGTERkeExzVUxXa0VubUwwaEVtd3pwLWVscnl1VHowb2hJV0djSVQwMlhIVHlzaC12VDEzU0VsVVUwRGRJcnFOS0VQRVFmTGUxajFuSGVkTnRleEVwTWdVOFdaVUdrNVVUNGNoX0JSczV4VHI0bmJ3MEVZb2JiMElnNUFPa1pfR3JqN01ncnBmdmdUTC02QUN0RVhZTmpFeDBKR042Y0FYUC1BZFRBMmQxTklrdDlNQ3JkZGZtTHRfOUhlbnpJUG1zMlFxdg?oc=5)
 
 2026-11-13
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMingFBVV95cUxNWFpjWFhIUkVMOFBBd3RXRkQyTjU4eGZEOXJoazdFak9YOVBIemhWNGxzNm1oUGVueU0xM3kwcVV6WEZHUEFZaEJTUWlQYzFuZVN4Zy01RWtlUEQ1VFB4eHVwUGRBNk0tUEtPamJqRTlpNzR2bHVHY2gxRGtCTF9ITnVUNW5qaF94NkQwSXhZV0MyMUdjSHdEQlQwZWJLdw?oc=5)
-
----
-
-### [Delhi Air Pollution In Early Winter Is Highest In 3 Years: Can PM2.5 Exposure Affect Children’s IQ & Memory? - Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHdBN29ud1ppR0JlM0Ridk9yVmg5UVI4RVptLV9nRXE4RkVrQmZjNWdwTm9aeVBfU0lPbV9mN2lqOE54cElhRV9wRXRvRXJtQkFWYXhrTXJZeHBDMk5tVVMzOG5fazh0YmhZR3dKNDJnRjdfZ0lCYUlYQmltZjh4Zm5yeEpueFBIdHdtekY5aXN3bkl0aGJlU0JHZ2ZDYkdEN29UUEEyM0szcEJVaWg1My1GdF9ERE9MenhIVlBhQTBDUTZWNDZsbF9QaU92RjNjakhJTFFVNnhrNnlZYUVWNG1DVmpkcjZuN2M3aHctUmpBYmRGS0llSXhn?oc=5)
-
-2026-11-12
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbHdBN29ud1ppR0JlM0Ridk9yVmg5UVI4RVptLV9nRXE4RkVrQmZjNWdwTm9aeVBfU0lPbV9mN2lqOE54cElhRV9wRXRvRXJtQkFWYXhrTXJZeHBDMk5tVVMzOG5fazh0YmhZR3dKNDJnRjdfZ0lCYUlYQmltZjh4Zm5yeEpueFBIdHdtekY5aXN3bkl0aGJlU0JHZ2ZDYkdEN29UUEEyM0szcEJVaWg1My1GdF9ERE9MenhIVlBhQTBDUTZWNDZsbF9QaU92RjNjakhJTFFVNnhrNnlZYUVWNG1DVmpkcjZuN2M3aHctUmpBYmRGS0llSXhn?oc=5)
+Source: [Cureus](https://news.google.com/rss/articles/CBMikAJBVV95cUxOT09GZ0pwanA1amJ4QmQySEpoMzUwSmhXS2pVeXR0RS1oYWhMNGdiMzg2OXB3RUlTYTN0YWRLM0J0LWZXdkFncDlQQmJGTERkeExzVUxXa0VubUwwaEVtd3pwLWVscnl1VHowb2hJV0djSVQwMlhIVHlzaC12VDEzU0VsVVUwRGRJcnFOS0VQRVFmTGUxajFuSGVkTnRleEVwTWdVOFdaVUdrNVVUNGNoX0JSczV4VHI0bmJ3MEVZb2JiMElnNUFPa1pfR3JqN01ncnBmdmdUTC02QUN0RVhZTmpFeDBKR042Y0FYUC1BZFRBMmQxTklrdDlNQ3JkZGZtTHRfOUhlbnpJUG1zMlFxdg?oc=5)
 
 ---
 

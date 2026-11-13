@@ -1,16 +1,81 @@
 ---
-layout: id_redirect
-permalink: /news/benzoic_acid/
-sitemap: false
-search_exclude: true
+layout: default
+title: "Benzoic Acid News"
+parent: Health News
 nav_exclude: true
+description: "Health news related to Benzoic Acid. 0 predicted indications."
+permalink: /news/benzoic_acid/
+last_modified_at: 2026-11-13
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/benzoic-acid/">
-<meta http-equiv="refresh" content="0; url=/drugs/benzoic-acid/">
-<script>location="/drugs/benzoic-acid/"</script>
-<a href="/drugs/benzoic-acid/">/drugs/benzoic-acid/</a>
-</html>
+
+# Benzoic Acid News
+
+[← Back to News Overview]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="What news is there about Benzoic Acid?">
+<strong>Benzoic Acid</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+</p>
+
+<div class="key-takeaway">
+This page combines the AI-predicted indications for Benzoic Acid with the latest health news. Indications highlighted in orange have recent news coverage.
+</div>
+
+<div class="drug-info-card">
+<strong>Drug Information</strong>
+<ul>
+</ul>
+<p><a href="{{ '/drugs/benzoic-acid/' | relative_url }}">View full drug report →</a></p>
+</div>
+
+## Related News (1)
+
+### [Diabetes care beyond blood sugar: Why eye health belongs in the portfolio conversation - Express Healthcare](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkt4M0ZadjlBMGtHX3R4SDJtNmxGaVlGLTdhQldpTHdmbW5paTRRUV92TDQwenlVZ1BQTVQ1ZWhIbWY1UUdWWTJ4RG5SLTMyS3BLYTdrMnFPMlBjYWM3ZzRteTB4b2FBMzZaWm56ZlMwVFg4ZlJuVGpDcGQtS2lzSUtPNjlSbXFXQnRLemp2S1U1UXQ0TXdIR0xvcFkxWkluWVBXZUZDems3V19DMU1BYVk5NF81OFdNSC15R0VFallyUXFpUV9uZDB6SQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
+
+Source: [Express Healthcare](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkt4M0ZadjlBMGtHX3R4SDJtNmxGaVlGLTdhQldpTHdmbW5paTRRUV92TDQwenlVZ1BQTVQ1ZWhIbWY1UUdWWTJ4RG5SLTMyS3BLYTdrMnFPMlBjYWM3ZzRteTB4b2FBMzZaWm56ZlMwVFg4ZlJuVGpDcGQtS2lzSUtPNjlSbXFXQnRLemp2S1U1UXQ0TXdIR0xvcFkxWkluWVBXZUZDems3V19DMU1BYVk5NF81OFdNSC15R0VFallyUXFpUV9uZDB6SQ?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>Disclaimer</strong>: The news on this page is collected automatically and is for research reference only; it does not constitute medical advice.
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>
