@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Dronedarone News
@@ -43,19 +43,19 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 
 ## Related News (2)
 
-### [In Good Health: Why Strokes Are Becoming More Common : 1A](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWtCYWhsZ3RBY0VTUzdiSWZYYmdKSWR3cXgzcW1xZkdGZWM5bmFsQzN1bDBsb0JTbWg5ZXp3Q2NqMHh2Z0hZdDJIcGhQYjIxWnA2VWhQZ0lXTUpfeVd0bEE1VFNYYnRZZHdzaGt5N2w5SFhjZDl1N0pNckdlYjZJbnBVbEdoWjRoWTl3dDBTdEhpYXFiUExLNW5CUl8?oc=5)
-
-2026-11-12 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
-
-Source: [NPR](https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWtCYWhsZ3RBY0VTUzdiSWZYYmdKSWR3cXgzcW1xZkdGZWM5bmFsQzN1bDBsb0JTbWg5ZXp3Q2NqMHh2Z0hZdDJIcGhQYjIxWnA2VWhQZ0lXTUpfeVd0bEE1VFNYYnRZZHdzaGt5N2w5SFhjZDl1N0pNckdlYjZJbnBVbEdoWjRoWTl3dDBTdEhpYXFiUExLNW5CUl8?oc=5)
-
----
-
 ### [For diabetes patients, stopping GLP-1 drugs linked to doubled risk of heart attack, stroke, death - Yahoo News Singapore](https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYVRCSVVVVklmQWdMUEhPdk4xM0xod0FRcGJGRlFaTE13OUg0X0taNkRmeUhIall6U0szd1o5NW1iRmxmNTFpRTJlaUVINEdRVHZ3b0Vnb1BudkQtdXo3clhZMDBpTWY0TlRTajRDUXRReVNtcDAxdmROanpSZw?oc=5)
 
 2026-11-11 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
 
 Source: [Yahoo News Singapore](https://news.google.com/rss/articles/CBMifkFVX3lxTE1EYVRCSVVVVklmQWdMUEhPdk4xM0xod0FRcGJGRlFaTE13OUg0X0taNkRmeUhIall6U0szd1o5NW1iRmxmNTFpRTJlaUVINEdRVHZ3b0Vnb1BudkQtdXo3clhZMDBpTWY0TlRTajRDUXRReVNtcDAxdmROanpSZw?oc=5)
+
+---
+
+### [Surging Stroke in Young Adults Driven by Ischemic Events](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
+
+2026-11-08 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5)
 
 ---
 

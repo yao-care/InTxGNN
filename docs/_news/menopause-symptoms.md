@@ -3,9 +3,9 @@ layout: default
 title: "menopause (menopause symptoms) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about menopause (menopause symptoms). 2 articles, 23 related drugs."
+description: "Health news about menopause (menopause symptoms). 1 articles, 23 related drugs."
 permalink: /news/menopause-symptoms/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # menopause (menopause symptoms) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about menopause (menopause symptoms)?">
-<strong>menopause (menopause symptoms)</strong> currently has <strong>2 news articles</strong> and 23 related drugs.
+<strong>menopause (menopause symptoms)</strong> currently has <strong>1 news articles</strong> and 23 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,15 +44,7 @@ This page brings together the latest health news about “menopause” and lists
 </ul>
 </div>
 
-## Related News (2)
-
-### [ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
-2026-11-12
-
-Source: [EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
----
+## Related News (1)
 
 ### [Menopause and Common Inflammatory Dermatoses: Current Evidence and Clinical Implications](https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUZyUzl1OWR2bWIyOW5VYWN5LWFoMnJkLXhIbUNlTFpHZEhKbjVZVlctc0tSSlFfNjgyaHJpeXVydXFEdWNqQzhKZlcxTnlURmx1S2dCNEx2Z1ljTU5MR0NJQUw0N2w4R0JoV1VoclVmc3VzSXJ1a3h6d1JWZzFhcFVoLTE4NnUxUm1SdnhFQWUtRUVISDlvZXZLbkJkSUQ5MjdEUGYydkU0UUZtc3FmYVdzU0hzc3pDQnpjVTdjUlVESzVrcmMwYkNjbm12c0QtenQ2U2FGY203Zw?oc=5)
 

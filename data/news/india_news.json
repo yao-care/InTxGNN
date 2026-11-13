@@ -1,15 +1,99 @@
 {
   "source": "india_news",
-  "fetched_at": "2026-11-12T22:54:25.964201+00:00",
+  "fetched_at": "2026-11-13T03:43:07.439462+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 87,
+  "health_related_count": 89,
   "news": [
+    {
+      "id": "17cfbcfc3bc7",
+      "title": "Placental stem cell therapy shows promise for diabetic foot ulcers - News-Medical",
+      "published": "2026-11-13T03:16:00+00:00",
+      "summary": "Placental stem cell therapy shows promise for diabetic foot ulcers&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWE9MMWJEdU5HYmt4SWx3UE9pcU83ZFUycUFucy1rdWFZT2hjLTg3OTNiQW5PZ1dsS3dybjRmM2ZGN2FTejJTVTBxVF9fQlE5UUphU2I2QjJTOTAyQ043WEZRQzFSOFBwYlNDdWZvVDh5endadHN0R1BLMjY2UjFnSl9xeDFZQ3RnWkJTaEdlS3lUeDZKQkluaUYzMWtaQnlZMHZnU1BFSG5yOXNBSHRZZXpNdks?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "43feb223418d",
+      "title": "Scientists identify metabolic pathway driving lung cancer lymph node metastasis - News-Medical",
+      "published": "2026-11-13T02:35:00+00:00",
+      "summary": "Scientists identify metabolic pathway driving lung cancer lymph node metastasis&nbsp;&nbsp;News-Medical",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aace8d877a06",
+      "title": "WHO warns Ebola outbreak in DR Congo amid rising infections, violence - China Daily",
+      "published": "2026-11-13T02:32:01+00:00",
+      "summary": "WHO warns Ebola outbreak in DR Congo amid rising infections, violence&nbsp;&nbsp;China DailyEbola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns&nbsp;&nbsp;BBCDR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths&nbsp;&nbsp;The HinduEbola Outbreak, DRC and Region, Situation Report #15 (November 10, 2026)&nbsp;&nbsp;ReliefWebEbola: IOM urges wider surveillance beyond formal routes in DR Congo&nbsp;&nbsp;UN News",
+      "sources": [
+        {
+          "name": "China Daily",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Na1FicmFrRkowLTAyanZ6SWljX0RQRU9MVWFWOF90VHF5M2x2MTVudEZ1TjU2dlJKZzhGSG5LVmFlTXQ4RTJnSnUxTmhYRXRBSGhCbVFEUHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "481a5b0cf76c",
+      "title": "Stanford Digital Brain Project to build predictive AI models | ETIH EdTech News - EdTech Innovation Hub",
+      "published": "2026-11-13T00:17:21+00:00",
+      "summary": "Stanford Digital Brain Project to build predictive AI models | ETIH EdTech News&nbsp;&nbsp;EdTech Innovation HubFuture of AI brain models sparks debate&nbsp;&nbsp;The TransmitterUniversity launches project to develop predictive models of the brain&nbsp;&nbsp;The Stanford DailyJNS Publishes Nov 11 Paper Establishing AI Brain Models Predict Well but Cannot Explain Brains&nbsp;&nbsp;Tech Times",
+      "sources": [
+        {
+          "name": "EdTech Innovation Hub",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEZHUWNPU21jX2FkNUJITF9qYjNlVzNqMmlGUjdkdDRjamhBWm1Zbjg2aWVNVjhzS09FcjdFUHBoenBtejE4dWpUVzI3VXVpM2JyUFduVy10b19jZnNjVjdUVk1aQTNIQWhMMGlBaTFlek9HWElmUjhWUzhEZkVfb0FjU2xkZGpYYU44VDVSMlBQRWdxNkwxTWJzRDZ5MkF1SEtBYnZZcTh2VGdVWHNsT25Xc05IVlZKV05BQUhMVDg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddc8131e9156",
+      "title": "Crows make decisions twice as fast as humans, study finds - BusinessLine",
+      "published": "2026-11-12T23:52:56+00:00",
+      "summary": "Crows make decisions twice as fast as humans, study finds&nbsp;&nbsp;BusinessLineTwo Crows Named Iggy and Lemmy Just Outsmarted Humans in a Surprising Brain Test&nbsp;&nbsp;ZME ScienceCrows make visual decisions twice as fast as humans: Study | Study is published in journal 'Science' | Inshorts&nbsp;&nbsp;InshortsCrows can make decisions twice as fast as humans, scientists discover&nbsp;&nbsp;Science DailyCrows make visual decisions twice as fast as humans, study reveals how their brains process",
+      "sources": [
+        {
+          "name": "BusinessLine",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeHdwcVVIdnFkRFdwNlJ6cUYzWW5CeDV4YWhiSm1wZzVIbnhZRkc2bGl1MWZtSmhxTnRjbE93SzMzY2RpZ1I4R3k4MG1XVUxBQUdNeFQ4SkxjUnI1TVQ1OFJnSEdTRS1zNm5ZRkFNdjk2d1p4MnIwN1FCeWMzNjJMZ2JZMzBJZ3NOMEZsTEYyZ2xBZnl4X1kwbWM4RDBOQmpMdENFbXlYV2N2MS1Odm9wYkhia2xpQ2NtOFQwMVJEUGt6N1dGb1FkZW5QQncxUdIB1AFBVV95cUxQWDRtM2hIQi1RcTEwWWZvTXVNT3F1ZzhNeGVqdUd2R2owU1VjcGlGeDVBaHN3T3FEY00xX1ExenFRQWxnX0Z4UUozaVg4bEoyWVZqVXR1bDlIZ0R4YkNZVzdEYkxiVklERk5VUTl2NG4zSUxEdEJCYUFPTVdaUHBHbkJIS0JxbXdhOF80bF9VQktJbFVzbC0yVFJzU2lGTGZzNTlrUUNGZktBSV9YWHozYjk5eEhaOGhIenI1QjN0X1BmR3ozOUJLeEFhUWNDUmZEUFpvUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03208155b06c",
+      "title": "Global Tuberculosis Burden Declining, But Five Years Behind Schedule - Health Policy Watch",
+      "published": "2026-11-12T23:12:03+00:00",
+      "summary": "Global Tuberculosis Burden Declining, But Five Years Behind Schedule&nbsp;&nbsp;Health Policy WatchIndia records 38% drop in TB mortality since 2015: WHO report&nbsp;&nbsp;The HinduAmid challenges, countries increase domestic investment to protect progress against tuberculosis&nbsp;&nbsp;World Health Organization (WHO)‘Monitoring TB patients helped reduce deaths by 38 per cent in TN’: study&nbsp;&nbsp;The New Indian ExpressIndia’s TB incidence missing from WHO’s 2026 global report&nbsp;&nbsp;The",
+      "sources": [
+        {
+          "name": "Health Policy Watch",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOalg4bHlneDFNQS1idDE2RVJEWnMwV0JXZEZLQVBXenBmbnlpbGRlVUxmZ3hPZUt3Qlk1bWxubFRWeE1QRE5JMWVTbV9iMUVpQk93NUsyQWlwWjltVUpOR1BUcGlJX1lkX0RBUmMzY3hublAyMS1lUTVVY2hYTW1ja3Z3cE1GTEpjUVhJek5GQkt2UWdtX2Z5M0hrZ04yZUJkVWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "44ff5f764572",
+      "title": "Effects of water content on the mechanical properties of rock and structural planes and slope stability: a case study of a highway rock slope - Nature",
+      "published": "2026-11-12T22:36:27+00:00",
+      "summary": "Effects of water content on the mechanical properties of rock and structural planes and slope stability: a case study of a highway rock slope&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NclpvaWQ3aVlKS3FLMWNiV2NFM3MxRWhMZ2NPck9kY0VScWgxOXNiZDRZVjZrZzYxcWhfenpPeTZuVW1mdjNnSkR5aFVGR2Z1S0JLbWlPejJwd1pUdTN3?oc=5"
+        }
+      ]
+    },
     {
       "id": "d61c902890fc",
       "title": "Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice - News-Medical",
       "published": "2026-11-12T22:26:00+00:00",
-      "summary": "Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice&nbsp;&nbsp;News-MedicalThe blood-brain barrier may contribute to cognitive function&nbsp;&nbsp;The EconomistAtlas of Brain Protein Delivery Points to Outside-In Treatment Approach for Alzheimer's&nbsp;&nbsp;Technology NetworksScientists describe 92 proteins the barrier transports into the brain — ScienceAlert&nbsp;&nbsp;UA.NEWSNew Study Rewrites The Rules of The Blood-Brain Barrier&nbsp;&nbsp;ScienceAlert",
+      "summary": "Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice&nbsp;&nbsp;News-MedicalThe blood-brain barrier may contribute to cognitive function&nbsp;&nbsp;The EconomistBBB selects Alzheimer's-linked proteins, Gladstone study finds | Tap to know more | Inshorts&nbsp;&nbsp;InshortsAtlas of Brain Protein Delivery Points to Outside-In Treatment Approach for Alzheimer's&nbsp;&nbsp;Technology NetworksNeuroprotective Protein Atlas Positions the Blood-Brain Barrier as a Selec",
       "sources": [
         {
           "name": "News-Medical",
@@ -30,26 +114,14 @@
       ]
     },
     {
-      "id": "45cffcd5dd70",
-      "title": "Reusable molecular fabric could cut energy needed to separate industrial chemicals - Phys.org",
-      "published": "2026-11-12T21:20:22+00:00",
-      "summary": "Reusable molecular fabric could cut energy needed to separate industrial chemicals&nbsp;&nbsp;Phys.org",
+      "id": "619c395fdb9e",
+      "title": "What Is Viral Heightmaxxing? US Doctors Warn Teen Boys Against Taking Cancer Drug To Grow Taller - Health and Me",
+      "published": "2026-11-12T20:30:00+00:00",
+      "summary": "What Is Viral Heightmaxxing? US Doctors Warn Teen Boys Against Taking Cancer Drug To Grow Taller&nbsp;&nbsp;Health and MeTeen boys take changing their appearance to the extreme with new “heightmaxxing” trend&nbsp;&nbsp;YahooCancer drugs become \"miracle cures\" for increasing height.&nbsp;&nbsp;Vietnam.vnDoctors warn teens are reportedly taking cancer drug to grow taller&nbsp;&nbsp;Mezha.netUrgent warning over 'heightmaxxing' where teens take cancer drugs&nbsp;&nbsp;Daily Mail",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT0w5QWFCWXROYmVXUHFna1A0c1FMa2daWTlOQ0s5Z29WT0t5U1pKbVNEc1ktNDRKeHRWeFk2MmRRbWEwMmNBNnlfbVJvNDBULTFSMHAtZHRsNkNHMkhlcDU1djltWjFwNmtOcXRjQXFydmRscWFNWFlFTFlJcmZDdVcyTUc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a79822babab0",
-      "title": "ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine",
-      "published": "2026-11-12T20:32:24+00:00",
-      "summary": "ormone Therapy and the Heart: What Black Women Should Know&nbsp;&nbsp;EEW MagazineHormone Therapy in Menopause Linked to Lower Heart Risks&nbsp;&nbsp;AARPHot news flash: Menopause can impact a woman’s heart health&nbsp;&nbsp;Connersville News-ExaminerHormone Replacement Therapy Shows No Increased Cardiovascular Risk in Study of Over 52,000 Women&nbsp;&nbsp;Medical DialoguesFocus on Health: Can Hormone Therapy Help Protect Your Heart?&nbsp;&nbsp;kobi5.com",
-      "sources": [
-        {
-          "name": "EEW Magazine",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5"
+          "name": "Health and Me",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjhFSVZCZTgzdzRjX2xzOEdXbE93aXp2NWNSVDRqdzRPXzdrZ0xpMWxzQTltX1VlRFV3OUJRUUJQN1dYTDRhN2FFUzdYWlFJSExVUmdJNXBFVnlIVGJIeEJ6VWpjOUxYZWJMZ3FlVlhWOF8tanFfZ3lmd1Z5UGFtT0hQdGthNnF0MG5sN0tzdnJkdDZkSk92WTUyRjRKYThYMEI1R1YyVjducGVZSTVDMTRfamRIQnZJM2pKNm4xNERLelZPMEwteWh4VmVlMExEeHFn?oc=5"
         }
       ]
     },
@@ -57,7 +129,7 @@
       "id": "dfe545672630",
       "title": "CMC to organise exhibition, poster competition to mark World Diabetes Day - The Hindu",
       "published": "2026-11-12T19:37:18+00:00",
-      "summary": "CMC to organise exhibition, poster competition to mark World Diabetes Day&nbsp;&nbsp;The HinduDiabetes: Prevention begins before blood sugar rises&nbsp;&nbsp;The New Indian ExpressWorld Diabetes Day 2026, Date, Theme and Significance&nbsp;&nbsp;Vajiram & RaviWorld Diabetes Day: Early Prevention And Screening Key To Reducing Type 2 Diabetes Risk&nbsp;&nbsp;BW Healthcare WorldDiabetes in the Americas: 112 million adults live with the disease as gaps in diagnosis and treatment persist&nbsp;&nbsp;Pa",
+      "summary": "CMC to organise exhibition, poster competition to mark World Diabetes Day&nbsp;&nbsp;The HinduWorld Diabetes Day: Early Prevention of Diabetes is Key&nbsp;&nbsp;India News NetworkDiabetes in the Americas: 112 million adults live with the disease as gaps in diagnosis and treatment persist&nbsp;&nbsp;Pan American Health Organization (PAHO)Early Action on Diabetes Must Begin with Informed Food Choices&nbsp;&nbsp;www.daily-sun.comDiabetes prevention and control: Act early today, for a healthier tomo",
       "sources": [
         {
           "name": "The Hindu",
@@ -66,14 +138,14 @@
       ]
     },
     {
-      "id": "df90a12ac9bc",
-      "title": "'Heightmaxxing' through cancer drugs - The Mary Sue",
-      "published": "2026-11-12T19:30:00+00:00",
-      "summary": "'Heightmaxxing' through cancer drugs&nbsp;&nbsp;The Mary SueTeen boys take changing their appearance to the extreme with new “heightmaxxing” trend&nbsp;&nbsp;YahooCancer drugs become \"miracle cures\" for increasing height.&nbsp;&nbsp;Vietnam.vnDoctors warn teens are reportedly taking cancer drug to grow taller&nbsp;&nbsp;Mezha.netWhat is ‘heightmaxxing?’ Viral TikTok trend sees teens taking cancer drugs to get taller&nbsp;&nbsp;KRON4",
+      "id": "71424a7307d6",
+      "title": "Isofalcarintriol ameliorates gestational diabetes mellitus-induced β-cell dysfunction by targeting MIF to enhance mitophagy - Nature",
+      "published": "2026-11-12T19:00:50+00:00",
+      "summary": "Isofalcarintriol ameliorates gestational diabetes mellitus-induced β-cell dysfunction by targeting MIF to enhance mitophagy&nbsp;&nbsp;Nature",
       "sources": [
         {
-          "name": "The Mary Sue",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTmo5SnJIY1dBLWNtSlQzejdoelVIejk3aktqcGx6YVdEdjI1dzlZbG1JMWVNUjdMLW9uMGQ2V1R5cHlhN0Jtdk0yT1BpTzhHMWZfdl9hMUFrY2g2UVIzdnRuOUZRTnNpYUZUQnZhZ2Z6SG1tZElzTmtYVk9SWHVXN0h1TEFhLTZHUi0zeXdicWZvcDRsTl8wQWxoejNFVnRreUIzckFsSFdrMjBuc0c2TExR?oc=5"
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hSExVdDM0WC13RlM0UHFQd01yel80VnlHRFJvM0F0b2hBWmhWM2xST0xYTktFX2Y2aTQ5NkhlTVNKMUpTTlR2MlVQaGp2aVNBQ09UbU9UdXowWkpFWGtJ?oc=5"
         }
       ]
     },
@@ -81,23 +153,11 @@
       "id": "daf59f24f4f1",
       "title": "Climate Change Abolishes Ice - WIRED",
       "published": "2026-11-12T19:00:00+00:00",
-      "summary": "Climate Change Abolishes Ice&nbsp;&nbsp;WIREDEarth's Frozen Systems Have Crossed an Alarming Threshold&nbsp;&nbsp;GizmodoFrozen Parts Of The Planet Degrading Beyond Safe Limits, Study Warns&nbsp;&nbsp;Yahoo",
+      "summary": "Climate Change Abolishes Ice&nbsp;&nbsp;WIREDEarth's Frozen Systems Have Crossed an Alarming Threshold&nbsp;&nbsp;GizmodoCryosphere decline beyond safe planetary limits, putting conditions for human society at risk&nbsp;&nbsp;EurekAlert!UN warns of irreversible ice damage&nbsp;&nbsp;The National | Your Number One Daily!Major science study finds Earth's ice beyond safe climate limits&nbsp;&nbsp;NewsBytes",
       "sources": [
         {
           "name": "WIRED",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SzZsdEdCRFI1RUxUUzlCY3NtUzI1SHlOeWhULWZ0QjRHdURCYm5ZZFJrRHgyWWExQkF5OEg4TXgzSm5HdTctdmh0dGUwb0ZVT0huTXR5QlFYV2s3UlpwWlNXZGhYd3Ro?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a1cab8a1fcc",
-      "title": "Experimental vaccines aim to treat and prevent aggressive cancers - News-Medical",
-      "published": "2026-11-12T18:20:00+00:00",
-      "summary": "Experimental vaccines aim to treat and prevent aggressive cancers&nbsp;&nbsp;News-MedicalCan Intismeran with Pembrolizumab Halt Melanoma Relapse?&nbsp;&nbsp;OC AcademyModerna Outlines Next Phase of Growth at Analyst Day&nbsp;&nbsp;Corsicana Daily SunModerna CEO: Laying ground for cancer vaccine to sell more than Keytruda&nbsp;&nbsp;BioWorld NewsMark Yarchoan Discusses Personalized Cancer Vaccines in Melanoma Treatment and Prevention&nbsp;&nbsp;Oncodaily",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzRXWDJaU2tZcENWam9Jbm1ibHJmQXhuUTZxeVlvZV9EbzhiaG5TSTF1ejJvRlhiWTR5RlRPczJaajN4aVpWVlkzUkc4OGs5MklWd1NXNjcwTmlnVVpZZ3hacUlfZ0NtU2VpSEpOZ3lXUkZYc3R4ZndER3lDNXRIaTNEZ042ckFmQm1zakx5QndzTkdGYk82d3BDV3JIMlZmQUg3Wk1SSHVqUDBWTTUyd0Uzcw?oc=5"
         }
       ]
     },
@@ -114,50 +174,14 @@
       ]
     },
     {
-      "id": "ebeb42f4254c",
-      "title": "In Good Health: Why Strokes Are Becoming More Common : 1A - NPR",
-      "published": "2026-11-12T17:38:11+00:00",
-      "summary": "In Good Health: Why Strokes Are Becoming More Common : 1A&nbsp;&nbsp;NPRStroke Incidence Rising, Case Fatality Rates Declining in Young Adults&nbsp;&nbsp;U.S. MedicineStroke isn’t just a concern for older people: The signs every under-55 should know&nbsp;&nbsp;The Independent",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWtCYWhsZ3RBY0VTUzdiSWZYYmdKSWR3cXgzcW1xZkdGZWM5bmFsQzN1bDBsb0JTbWg5ZXp3Q2NqMHh2Z0hZdDJIcGhQYjIxWnA2VWhQZ0lXTUpfeVd0bEE1VFNYYnRZZHdzaGt5N2w5SFhjZDl1N0pNckdlYjZJbnBVbEdoWjRoWTl3dDBTdEhpYXFiUExLNW5CUl8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "42061fc2e81f",
       "title": "Researchers Extend Photon Counting Beyond Single Photons - AZoQuantum",
       "published": "2026-11-12T17:32:45+00:00",
-      "summary": "Researchers Extend Photon Counting Beyond Single Photons&nbsp;&nbsp;AZoQuantumSee more headlines and perspectives on Google News",
+      "summary": "Researchers Extend Photon Counting Beyond Single Photons&nbsp;&nbsp;AZoQuantumSuperconducting detector can count one, two or three photons at once&nbsp;&nbsp;Interesting EngineeringMultiplexed detector system precisely counts more than 9,000 photons&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "AZoQuantum",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBweE5tQ1R2ZmZ4VUhQbmpmS0cwV1ltaEtvUk8zcExjMmFaaGtvN3J0bmNxNWlOM0RxTGdCbTZfXy0wbnJhSVJWelR2aWFDRTRwYUlCOEVwd2F4UmZ4WEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16237f08d9aa",
-      "title": "Scientists discover crows can make decisions twice as fast as humans: Study - ANI News",
-      "published": "2026-11-12T17:29:00+00:00",
-      "summary": "Scientists discover crows can make decisions twice as fast as humans: Study&nbsp;&nbsp;ANI NewsCrows can make decisions twice as fast as humans, scientists discover&nbsp;&nbsp;Science DailyTwo Crows Named Iggy and Lemmy Just Outsmarted Humans in a Surprising Brain Test&nbsp;&nbsp;ZME ScienceCrows make visual decisions twice as fast as humans: Study | Study is published in journal 'Science' | Inshorts&nbsp;&nbsp;InshortsScientists Discover Crows Make Decisions Twice As Fast as Humans&nbsp;&nbsp;S",
-      "sources": [
-        {
-          "name": "ANI News",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbENab2ROOElRVW50QnpQQ05hQ25qRGRfM1pxV0lmWDVPUmgxZElxa2UwX3ZWaXhLZXh4WTgwUUZBcm9xZG0yX3ctWFVTTE8yUEJETVVrdG9kdU5STmpKNWVMcVB2aUxsekZNOUVCOWcxS0hldV9NSnQ4czVENGFkNWJOX0lIcm41LUhnNnBjZmZUUE5abTdYUWlHbk1kdW1pelVZWDN5d3dNYmlBaTcxQ3hTSjNYbm1nUVUwZWhjNDkzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "192165ae9dde",
-      "title": "India records 38% drop in TB mortality since 2015: WHO report - The Hindu",
-      "published": "2026-11-12T16:58:09+00:00",
-      "summary": "India records 38% drop in TB mortality since 2015: WHO report&nbsp;&nbsp;The HinduIndia's Tuberculosis Deaths Fall 38% Since 2015; 15 Lakh Asymptomatic Cases Detected: WHO Report&nbsp;&nbsp;NDTV‘Monitoring TB patients helped reduce deaths by 38 per cent in TN’: study&nbsp;&nbsp;The New Indian ExpressIndia makes major strides towards TB elimination; 38 pc decline in TB mortality, 94 pc treatment success rate&nbsp;&nbsp;DevdiscourseAmid challenges, countries increase domestic investment to protect",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGN2SlBMbXIxbTQ2UXdZOFl6MlI3ZThzYkYzbURjc19FRjlJaWt3S091a2x2LXVPN1g5N2xwd0FrdHl0Q0puSHpuMnQwVkJndE5xTFBGNlVtSF9rRjVWMGVTcVAxVnJXdW1ZLW1VNUtLMUJhRkZhZWRJSkVoeGVYRTRHRi1hQmI4eWxnR19uTDVKZ0pFM20zNXpNMVJIX0RVNGlneDA4bGFlTFlSZXRiNUhFSzN6UEdHMXfSAcABQVVfeXFMTU5ETUs3UDhxYTZzNk1sUUNmQWN1ckUwQW10elVONmFseDRqc2VtOEtTTHJIZ0FRbDJONEZDY2VIQWpIRUlJcHh2SW9zeV9EN055MzlnRFFCM29pazNJRWJ4MFpsNTJVczFaR0xDWkxPdHBtWkdrQ3FvZUllckVVVGxFRDh5a0t2N0NZbnMteHpNNmZoc2VNZ253OU1lVTVCYkpEWW1fOWhJSGNNNVpONWFNc05YM2dMQi1Yc3AzUmZX?oc=5"
         }
       ]
     },
@@ -170,18 +194,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9odFloSUZidnM5bmtqQ2g4RW45Q2daUWhobHRFeTJBWTU3VnkwQ2x3NXZsZE81clE4dFRBTW9hb1BKZWM1a2dZUF9RRWJtUXBwM2NPalZkVWxGMUpaVEc4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fbfcda5da52",
-      "title": "Berkeley Lab Helps Build Telescope Like No Other - Mirage News",
-      "published": "2026-11-12T16:34:00+00:00",
-      "summary": "Berkeley Lab Helps Build Telescope Like No Other&nbsp;&nbsp;Mirage NewsPhysics Professor Recalls Role in Nobel-Winning IceCube Neutrino Observatory Research&nbsp;&nbsp;North Carolina A&amp;T UniversityHow Berkeley Lab Helped Build a Telescope Unlike Any Other&nbsp;&nbsp;Berkeley Lab News Center (.gov)Simply Stated: What is the IceCube Neutrino Observatory?&nbsp;&nbsp;The Daily NexusHow neutrinos are beginning to reveal the secrets of our galaxy&nbsp;&nbsp;New Scientist",
-      "sources": [
-        {
-          "name": "Mirage News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzNZWElmU1hOMHhWZk9yZEtaTUtrWnZNMmxDcEVEanpiTGV0UFc4ekZEUXZGVXB3YmxfZktEcW9pWEhrazhXQThaV3VIQWUtMUMyTkFZd3BTeXZmSy02ZmJqR1JWeEtOeWZPUDVlRmxiSjN2ZWhUcVdmYXVhMlJjN1pDcjlqT3B6amZMTQ?oc=5"
         }
       ]
     },
@@ -222,18 +234,6 @@
       ]
     },
     {
-      "id": "e08f063e9cdb",
-      "title": "Prevention starts with protection: making vaccination part of diabetes care - Vaccines Today",
-      "published": "2026-11-12T14:59:46+00:00",
-      "summary": "Prevention starts with protection: making vaccination part of diabetes care&nbsp;&nbsp;Vaccines TodayFlu shots extra important for those with type 2 diabetes&nbsp;&nbsp;UCLA HealthASK THE DOCTORS: Flu Shots Extra Important for Those With Type 2 Diabetes&nbsp;&nbsp;Marietta Daily Journal",
-      "sources": [
-        {
-          "name": "Vaccines Today",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOEN5SUhBOVE1RW1NTE03S0RuejhRbUluanBzODBiM093TElwaFVLZVI4enIyUDlSVmp3NG5WWThvS24yS0NFcnZELXhDTldhQ0RUM2VsVzVhSlB4UDZQaEt6Y2pnVXd1NnVBUm0zOElHZGxzNkV2Y1RtZTY5OFpya1ExdlFxZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dd7b31a615d5",
       "title": "New blood test finds early risk for ovarian cancer - The Hindu",
       "published": "2026-11-12T12:57:05+00:00",
@@ -249,11 +249,23 @@
       "id": "15b4e405d9c6",
       "title": "From gut feelings to brain health: The next key opportunity in health nutrition - Nutraceutical Business Review",
       "published": "2026-11-12T12:32:14+00:00",
-      "summary": "From gut feelings to brain health: The next key opportunity in health nutrition&nbsp;&nbsp;Nutraceutical Business ReviewWhat's the best way to reverse memory decline?&nbsp;&nbsp;BBC Science Focus MagazineMapping the gut-brain axis: What our gut bacteria may reveal about mental health&nbsp;&nbsp;Innovation News NetworkReview Assesses Synbiotics and Diet Across the Gut Immune Brain Axis&nbsp;&nbsp;Bioengineer.org",
+      "summary": "From gut feelings to brain health: The next key opportunity in health nutrition&nbsp;&nbsp;Nutraceutical Business ReviewMapping the gut-brain axis: What our gut bacteria may reveal about mental health&nbsp;&nbsp;Innovation News NetworkWhat's the best way to reverse memory decline?&nbsp;&nbsp;BBC Science Focus MagazinePredictive Model Links Gut Microbiota and Neuroimaging to Alzheimer Severity&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "Nutraceutical Business Review",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNfSFc0RDlodW1JMkFzQ19IUklFS0dVWFdaWFVLX0I3TzI5ZnVKcWEzQmpIRDFsUHU0cnNGSms4SkZOR1QydU1DbWxFLTRzQURFcFhBaDY4RE9nUTVEQ0RtZmJpZmxsY1ZsZWhQeVN0bTZ0ZVIzSjFfaW1Ic3U3ZE9xU1YyQzRPRlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad7d4ab74dd7",
+      "title": "Health more important than wealth for generation X in midlife | UCL IOE - Faculty of Education and Society - Wired Gov",
+      "published": "2026-11-12T12:32:06+00:00",
+      "summary": "Health more important than wealth for generation X in midlife | UCL IOE - Faculty of Education and Society&nbsp;&nbsp;Wired GovGeneration X in worse health in their fifties than baby boomers&nbsp;&nbsp;The TimesThe generation in poorer health in their 50s than baby boomers at same age&nbsp;&nbsp;The IndependentGeneration X values ​​health more than wealth, but faces obesity and diabetes more often&nbsp;&nbsp;Gazeta ExpressHealth more important than wealth for Generation X in midlife&nbsp;&nbsp;D",
+      "sources": [
+        {
+          "name": "Wired Gov",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1ZDQXhwVjByZWJpd3ItVVZSRDJvUGdkdUNVZGpFMU9FZkE5aE0tU2NPV053OEFsa1RURHdwd1JZYjJ2TG9BUldJZDFGZlVXZV8wdGhUcjl5X2E2NTBZUHAxYUZ5LWhzamJlc0Fqemk4SEU3bHhqTEZ0bW1jYWhNakdFVXdwTWlCV1dBSE9nSFd0UVRfaWpJNmdNZ3d4eGl3aTlERE1PN084Y1dFalpSTkRPcFZhSGJrNkJiX3gtNWVnRWJSY3U0?oc=5"
         }
       ]
     },
@@ -333,7 +345,7 @@
       "id": "eddbbf83a892",
       "title": "World Pneumonia Day: Why early detection and medical access matter at sea - safety4sea",
       "published": "2026-11-12T10:11:14+00:00",
-      "summary": "World Pneumonia Day: Why early detection and medical access matter at sea&nbsp;&nbsp;safety4seaWorld Pneumonia Day: China's multi-pronged approach to respiratory health protection&nbsp;&nbsp;CGTNWorld Pneumonia Day: 7 Reasons Why The Disease Claims So Many Lives In India And How to Prevent It&nbsp;&nbsp;NDTVSAANS campaign: Andhra Pradesh steps up fight against pneumonia&nbsp;&nbsp;The New Indian ExpressBuddhist Quote of the Day November 12, 2026: On World Pneumonia Day, Be Grateful For Every Bre",
+      "summary": "World Pneumonia Day: Why early detection and medical access matter at sea&nbsp;&nbsp;safety4seaWorld Pneumonia Day: China's multi-pronged approach to respiratory health protection&nbsp;&nbsp;CGTNWorld Pneumonia Day: 7 Reasons Why The Disease Claims So Many Lives In India And How to Prevent It&nbsp;&nbsp;NDTVSAANS campaign launched to curb child deaths from pneumonia&nbsp;&nbsp;The Times of IndiaSAANS campaign: Andhra Pradesh steps up fight against pneumonia&nbsp;&nbsp;The New Indian Express",
       "sources": [
         {
           "name": "safety4sea",
@@ -342,14 +354,14 @@
       ]
     },
     {
-      "id": "44ff5f764572",
-      "title": "Effects of water content on the mechanical properties of rock and structural planes and slope stability: a case study of a highway rock slope - Nature",
-      "published": "2026-11-12T09:54:21+00:00",
-      "summary": "Effects of water content on the mechanical properties of rock and structural planes and slope stability: a case study of a highway rock slope&nbsp;&nbsp;Nature",
+      "id": "d05e2f87d122",
+      "title": "What Happens to Your Brain When You Eat Peanuts Daily for 16 Weeks? Researchers Found Out - Food & Wine",
+      "published": "2026-11-12T10:01:00+00:00",
+      "summary": "What Happens to Your Brain When You Eat Peanuts Daily for 16 Weeks? Researchers Found Out&nbsp;&nbsp;Food & Wine",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NclpvaWQ3aVlKS3FLMWNiV2NFM3MxRWhMZ2NPck9kY0VScWgxOXNiZDRZVjZrZzYxcWhfenpPeTZuVW1mdjNnSkR5aFVGR2Z1S0JLbWlPejJwd1pUdTN3?oc=5"
+          "name": "Food & Wine",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcElUQm11N3hyd2tHbFJCWVZlYVdScHQ4YVBxTVkyV2w4anlXZm5jNXdKdlQxWXg2VklnbDctTV96MjhqcjJCNTl2aS01dkdvWWs4RlNQTnA0dTFpNURYRjVDRV90dzBMV2szQ1kxSkxjT3lRaUJZSjE0LUZHT0FnOTZMeW9acjhiUmc?oc=5"
         }
       ]
     },
@@ -357,23 +369,11 @@
       "id": "4d70ac40fa86",
       "title": "New Covid variant spreads from Canada to US, Europe and Asia: What we know about PJ.2.1 - The Times of India",
       "published": "2026-11-12T09:54:00+00:00",
-      "summary": "New Covid variant spreads from Canada to US, Europe and Asia: What we know about PJ.2.1&nbsp;&nbsp;The Times of IndiaNew Covid Variant PJ.2.1 Spreads Globally: Symptoms, Risks And Key Facts&nbsp;&nbsp;NDTVGlobal spread of new Covid variant highlights lingering danger of deadly virus&nbsp;&nbsp;The NationalMinistry of Health: No cases of new coronavirus variant registered in Belarus&nbsp;&nbsp;Наша НіваWhat is known about the new COVID-19 variant spreading globally? | It has been described as sal",
+      "summary": "New Covid variant spreads from Canada to US, Europe and Asia: What we know about PJ.2.1&nbsp;&nbsp;The Times of IndiaNew Covid Variant PJ.2.1 Spreads Globally: Symptoms, Risks And Key Facts&nbsp;&nbsp;NDTVWhy scientists call PJ.2.1 a ‘jump’ variant: The COVID strain that arrived with dozens of mutations at onc&nbsp;&nbsp;The Economic TimesWhat is known about the new COVID-19 variant spreading globally? | It has been described as saltation variant | Inshorts&nbsp;&nbsp;InshortsNo Cases of New COV",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOTdaRGptTWtvM3U3dWdnWEtWcUNoYnFFeV8yaWdPdnFnWFFERndkMzdzU1lzVFNRYjEwQU55SERtNlI0SDBiM0xKRjVxQlh6TGJNNXg2blhfWXhVVVVrbzdBeUtzZzJiQTZlRS15NUNuRkI4UmIwanphOXNDdjhCMGV0bTNGUm5ORWMwU1A3RW1xRjNJaFQydUVQM3hWUDRhX1BFa2VOYTcwSmdKaTRCbnRBYVpIRTVEYkpkVi1meFZPcjA5R3JKZXBMa3lSczlnUlRtbGFqdDNFLUhBR3p5bFhLeGF3WUtER1M00gHwAUFVX3lxTFA3VlJGbVJZQnM0blZpLU16MmFMUFdSb0ptZFpKQ1hpUzdlWlFwUC03LThTQlJMNGtPMExnZU8yRDVXU09GcG1wWFdfQVJtdEZkSFVKZnBqd3hOYnk4NzhSWWlkX1JjemQxZlJYOU9uU0hDak5FakxQNGl4WjlGQmowVlV1Rk9Cb05jSnBPLTQyeXZwR25YRzU1VnNMUi1tdFlwWGNiWnl0Uk5Vc3V6STNLZ3lab29HVUR2RWUxOG9WbmgzTVlhTnoxT21NNHBBRm9ON0dQMF91b21aaU8zMVpIMjJJcF9DbUNYNXJJcTEtTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ab353e8a387",
-      "title": "Pulmonary Rehabilitation and Outcomes in Chronic Obstructive Pulmonary Disease: A Prospective Interventional Study - Cureus",
-      "published": "2026-11-12T09:33:43+00:00",
-      "summary": "Pulmonary Rehabilitation and Outcomes in Chronic Obstructive Pulmonary Disease: A Prospective Interventional Study&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMElwSXRPRlg4cmtGM1VRcTFHQkRfRTFrYUY1QUdVZ1lNc3RZdnZMMC1TaTlzNjJWY0lrQi1mdHc0ZG9xcnBRazJUaFRYX1NKWk5PekxRRjlVS1hUSDYtZ196XzRvN1FyZjFvbmdXeHZWdUY4S0lUOV8zNVV5NlBScHdFRFBhSDRQTjUzWkRsSUc2Wk1OT2hkTHV0ZkZjUzN2eGt5ZXQ5WkJoMGVrWFdyT19ReTZTRDg3U1ZaOXV5eUNOQ0JoSzN1dVNENEpuSDdkV0o2SEVHNjU5U3A0TkpUamRhcnNJdW8?oc=5"
         }
       ]
     },
@@ -410,6 +410,18 @@
         {
           "name": "News18",
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTzk2Y3FfQm1idTVGb0Z6a3M3Si01azFiM29iUF93VlJuRWJQUUd4SWFTVGZpVUp0em1Fd3E5X1BYclhRaHhYN0FwWkxQNjNnaGFuVi1ONHBNdFhFSEI5MngtYnlNdlBJaDVHbEoxemJzT29LMUt2Y3RJYnM2bW9LblZBY05xX3c4M1VIQ1AwaXRJMjFqbmdCOE1MQkRqZkp1OU5VcE83M1RjTnJaNXdZTTV5dnc2TGpaN1ZvSlJRdS1QSDd2WEFMbzFpY1A1dGdaYjBod0hRV1ZxZ1d0clVV0gHkAUFVX3lxTFBiYXJJQ09sRmtIOTVjNE0yWTJWdUJpdC0xRnRxSWZtVGdSVzJmVjZlaXBEYnpJUUprQ2FjX3RJV0ttdkR1YlpNZW1ucDIySWh3al9JQUhtRlpyWl80TFpIWEdFekhsbUFTbUFkOFh5LTBsWHRvMW9XVEw1azdsSzlSUllBLVJMUU42OW8tdGo1aEdIbHVnZHVBN1NhM3NEcGxGSG9HdWVYR0dpSGdWaXdSRnZ2QzY0azBZYXRHcDdEbGdYeGhzQzk0VDRkcC15dkNtR25JRnNieVJUSHdvOFBsZjR5Mg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01bd63085b46",
+      "title": "Plastic can conduct electricity: Hideki Shirakawa, Nobel Prize winning chemist who did this innovation dies at 90; Know about his accidental discovery - Education Times",
+      "published": "2026-11-12T07:59:00+00:00",
+      "summary": "Plastic can conduct electricity: Hideki Shirakawa, Nobel Prize winning chemist who did this innovation dies at 90; Know about his accidental discovery&nbsp;&nbsp;Education Times",
+      "sources": [
+        {
+          "name": "Education Times",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNekpzODV5SVBCM3lueWpjSnIyV1drVzZDR1B6YTVGUUw1M0ZPaDd0VTEzUkhfc3R2dlo0dTRQSU1sUnRTXzJPeld6M1hBRldCb3d4dm9zcFlXZGVrRzlLWC1DWjdTRFZrWS1KWUhhcGliWTZ1cFo2b3BDemZoeEJTOGs0UUE3RmNqWEZiYmRiQk9GMEZKSzU3UDdFMENFeC1SRnBNYTRDMXlPZ1N0M01icGVjY1ZTQ3FiSXAzRzBVR1J0UFlNLVFJMUlpeEtrR28xSGlTZnZXZmM0dnYwMVltU2d4R0pESmNSMjNKVE1uU2hfdEdPWjVBY2JITndQdm50RUQ2OHBqZnpkankwUWF4VDdDYWgyeTdtMGY1aWFvanhsZGhHYXpsbnFfYnM1VDRYUzlxZklOLXk?oc=5"
         }
       ]
     },
@@ -534,18 +546,6 @@
       ]
     },
     {
-      "id": "8ca06035e294",
-      "title": "DR Congo Ebola outbreak surpasses 11,000 cases as conflict hampers response - Africanews",
-      "published": "2026-11-12T06:12:48+00:00",
-      "summary": "DR Congo Ebola outbreak surpasses 11,000 cases as conflict hampers response&nbsp;&nbsp;AfricanewsEbola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns&nbsp;&nbsp;BBCDR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths&nbsp;&nbsp;The HinduEbola Bundibugyo virus disease outbreak: Democratic Republic of the Congo | Kenya | Nigeria Weekly External Situation Report 25, Data as of 7 November 2026&nbsp;&nbsp;ReliefWebAttacks on Health Workers Hamper Congo Ebola F",
-      "sources": [
-        {
-          "name": "Africanews",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0FiRGNia2JQa2thWHVROTNodUR3c2hxTUlZN0ZLLTZ0ZGoweE81TjFDcU8zalFXQnNHVjBUNmJ3dExraHVweFJqUENhYlYxbGM4VGhIRlJOOVAzMHNnaldKZXM1Z3ZocVpOOEFvbEVNSHRSRFY3NFhPY0pLS3FTazN6QWxJeE1HeWFmU2NwT29ka1FiM0VNYjgwSjFvakJ0ajJHVmRIY2t4c1k1cGh2NFlxZ9IBuAFBVV95cUxOVW5PYk5vM2cxeHRINHJfel9BRUt2TENoTDJaTzE5SUtyZkw1cDFQaWxvTXVIZG9fMjUwU29Edy1WSENoTmFwaGFCeHgtM3d5dUdabXhSN3E2S081WU1yUHIwVUwyTjZ0RFVzdGtES3kzYmRnZzNQLWNlcmdDUGpMOTh2WjAtaVhWblUwZjM2akI1Q00yMWxzNkxfdTVWZzNJYzRRZ2JIRkUyaFJTb3o4RXBmUGRsVWlj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "efa95d97a771",
       "title": "Innovative Approaches to Obesity Care Begin to Emerge - India News Network",
       "published": "2026-11-12T05:54:42+00:00",
@@ -582,6 +582,18 @@
       ]
     },
     {
+      "id": "58518ed1dd10",
+      "title": "Transfusion-Transmissible Infection Screening Reactivity, Temporal Trends, and Post-donation Counselling and Referral at a Tertiary Care Centre in North India: A Retrospective Record-Based Study - Cureus",
+      "published": "2026-11-12T05:23:04+00:00",
+      "summary": "Transfusion-Transmissible Infection Screening Reactivity, Temporal Trends, and Post-donation Counselling and Referral at a Tertiary Care Centre in North India: A Retrospective Record-Based Study&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQcndNYm5rVTEyLTg0MWxZZnZDaFZGbFotMlRGQS0zdUFNYzFNcWd1WFB5RlIwOWZCQUtGSlpzMk1QRDY3bmJfVUtUZlFQUjZRLW9iN0g2RWZOV1Zrd3JiVkRNTG5Bb2VWMlN5dUNLSTBuUnlGSDJOSGZBWHdVc19Oel9MUnVHbGd2NWVRYVBKV01MQmtUT21FZy0wU0FIZjU2WjRHc2pNOFpRRllZQ0xzRmdZbmt5TUtGNnJrNzVicTRDQ0wtdFp6VlBKal9ibnlQbkV0X0luU1RIVGZLYlVCQzFuZTNrTzlVY1lSY29lY2ZKNUVyWVlFdnAxSkpFYWYySk85bmhmTXhySUVvZ2k0bTJXSERfd0xka3RKbWVvb1RwdWxReTlZcXg3cTBvV196V29QSzNZWkFpMjlfWlFyX0hWaURXUUpuY0xHX2hIMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6d8527f67763",
       "title": "Adequacy of control strategies in a selected sample of contemporary high-impact medical studies - Nature",
       "published": "2026-11-12T05:18:10+00:00",
@@ -594,14 +606,14 @@
       ]
     },
     {
-      "id": "63f74054069c",
-      "title": "Beyond Ozempic and Mounjaro, the growing concern over unapproved peptides - India Today",
-      "published": "2026-11-12T04:11:21+00:00",
-      "summary": "Beyond Ozempic and Mounjaro, the growing concern over unapproved peptides&nbsp;&nbsp;India TodayPromise of beauty and fitness in a needle can have deadly consequences&nbsp;&nbsp;Queensland HealthBeyond Ozempic: The truth behind the new peptide weight-loss craze&nbsp;&nbsp;QazinformPeptides: The new beauty buzzword, but are they safe?&nbsp;&nbsp;NEWSTRAILPushing Peptides - ABC Loop&nbsp;&nbsp;ABC iview",
+      "id": "a9804358be8a",
+      "title": "Scientists discover a common sugar may help cancer cells break free and spread - Science Daily",
+      "published": "2026-11-12T04:40:22+00:00",
+      "summary": "Scientists discover a common sugar may help cancer cells break free and spread&nbsp;&nbsp;Science DailyResearchers link fructose to ovarian cancer spread — ScienceDaily&nbsp;&nbsp;UA.NEWSCommon sugar could be lead cause of cancer relapse, major study suggests&nbsp;&nbsp;The News International",
       "sources": [
         {
-          "name": "India Today",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmtxODJnRVpBZTFBZUNmMER2RDk1RGFmb1A5OEd6M005aUtHS2swdFRxT3RCWV9saVY5c25TdXZObldLWTdmN2xNMUc2X0ptZkhPOVVpSVJ5cDNjUGN6ZnR5ZXp3MHBhRW5qQzA4b2tJaHQxalhsS3BSYXcwUGdRcE5BZjVJWnVUSWtDYURwTGNWMjRYa3hrVFJxX2pySGJGTEpRM1FNWDQtLXlCM2YtX2cxOHJVZFZIWWppcmU1ZEtKS0Q2aU9aOE930gHPAUFVX3lxTE5TbVZySWpNazg4d3BmOHVxVC1CRl9tY0VqRUlkZWdpWTAtRVd6RUQ3VGtPTzgwdTlpUnU3alJ1bFNHeG5TMThLWTJselU3Y1J3MmM2SVFyc0xzRFh2aUZNZUNaUmRfMlVqbnJyVWdrQTdQUGExYzF2cVR2VGFhQWVTc1g3Tlg3cXVDblhYV29PUlltZld1eXNRR0JiTEFhZ3NuSHNIQXk5aXpzV1Y4YXN6RGpveGFpc0pxa0d4US05STEtR1lqUmpqTVFXRzVvOA?oc=5"
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5"
         }
       ]
     },
@@ -609,7 +621,7 @@
       "id": "d05457f21e80",
       "title": "Environmental experiences trigger widespread changes in brain cell connections - News-Medical",
       "published": "2026-11-12T03:36:00+00:00",
-      "summary": "Environmental experiences trigger widespread changes in brain cell connections&nbsp;&nbsp;News-MedicalExperience modifies the synaptome architecture in the developing and adult mouse brain&nbsp;&nbsp;NatureScientists find synaptic changes in mice due to enriched environments — News-Medical&nbsp;&nbsp;UA.NEWSNew Study Reveals How Experiences Drive Widespread Brain Synapse Changes&nbsp;&nbsp;RediffExperiences reshape brain cell connections, synapse mapping reveals&nbsp;&nbsp;Medical Xpress",
+      "summary": "Environmental experiences trigger widespread changes in brain cell connections&nbsp;&nbsp;News-MedicalExperience modifies the synaptome architecture in the developing and adult mouse brain&nbsp;&nbsp;NatureNew Study Reveals How Experiences Drive Widespread Brain Synapse Changes&nbsp;&nbsp;RediffScientists find synaptic changes in mice due to enriched environments — News-Medical&nbsp;&nbsp;UA.NEWSExperiences reshape brain cell connections, synapse mapping reveals&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
           "name": "News-Medical",
@@ -678,6 +690,18 @@
       ]
     },
     {
+      "id": "b0012e2b5ada",
+      "title": "Electron-Withdrawing Ligands Boost Dilute CO₂ Electrolysis - Mirage News",
+      "published": "2026-11-12T00:04:00+00:00",
+      "summary": "Electron-Withdrawing Ligands Boost Dilute CO₂ Electrolysis&nbsp;&nbsp;Mirage NewsPromoting dilute CO2 electrolysis with electron-withdrawing ligand modification&nbsp;&nbsp;EurekAlert!Second life: How McMaster researchers are using copper wires to convert carbon emissions into useful chemicals&nbsp;&nbsp;McMaster NewsHow Catalysts Change as They Convert CO₂ Into Useful Chemicals&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Mirage News",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWoxM2NBblF2anpxTVR5b2NTN1I4YUJ4SGJOTlcwNHI3d3plcTFmRjdlaEdjLS1XcUpzdGJrR2RMSGlnd1dxTFNVTlpHZkRlNmxRMmZhZVNKMGxEMVJxNXlyaE5fTUowOUJ2RFFUYkQ0MzZIQjI2M0k1akUzRFRGUzNOYzExZE0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b2b82a75c524",
       "title": "Low blood NAD levels track heart disease and hypertension, not aging - Managed Healthcare Executive",
       "published": "2026-11-11T23:35:03+00:00",
@@ -702,18 +726,6 @@
       ]
     },
     {
-      "id": "bbf057706571",
-      "title": "HCC Blood Test Score Tracks Tumor Size, Not Liver Disease Severity - HCPLive",
-      "published": "2026-11-11T22:00:30+00:00",
-      "summary": "HCC Blood Test Score Tracks Tumor Size, Not Liver Disease Severity&nbsp;&nbsp;HCPLiveBlood Biomarker Panel Shows Liver Cancer Potential&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "HCPLive",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWE9KNTd5dURoMTJwdDd5QzVtZDZGLTdUSlpHOEhYdWtYa2dPSk4zVnVKOFFxV0lfTkFnSE1TcVc3WHZOVm8taWU3WXQxdWd1QlplSEVYcVRhZkNKSjQ3Ulg4TXNRUm0wY3gtN0VMUWwwUmRtUGEta2Vya1YzYy02UHQxM3kxOHVSMU9aZ21CRk1zcnNrMUNXZ3p3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eabd27061958",
       "title": "Drug ads can subtly sway AI medical treatment recommendations - News-Medical",
       "published": "2026-11-11T20:20:00+00:00",
@@ -722,42 +734,6 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeC1iM1BDa3c3X3ZpbjduN1VRclhvZTBVNVM1QUozTDlyc1hObjBUdU9sU3NQdE4yOEEzc3VEYmxFYXl4R3o1Z3g2Z05tR2s1X2RLbnRSUVlUaHlVaDdEQ2F0WW9GSmVlb0tiUl9RcEJYSHVjODJCTlFRVkZwU0tEZFNxYS1PZkpYejBRNktFYm5rUXJiUlVSY0Z1Y3ptY1prRWNkSDZabUZNal9wQkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39705605b997",
-      "title": "Future of AI brain models sparks debate - The Transmitter",
-      "published": "2026-11-11T18:44:10+00:00",
-      "summary": "Future of AI brain models sparks debate&nbsp;&nbsp;The TransmitterUniversity launches project to develop predictive models of the brain&nbsp;&nbsp;The Stanford DailyJNS Publishes Nov 11 Paper Establishing AI Brain Models Predict Well but Cannot Explain Brains&nbsp;&nbsp;Tech Times",
-      "sources": [
-        {
-          "name": "The Transmitter",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2JwS2FZcWhFM0tScjVQX2E2TnVrcTBydjFsQmF6RUE3c002X1JJS05sUVRxd0RsazBDZWZFM1I1aUJNTk05RkI1clNVZ0tPb3JscFp2OFExWV9ISGVTZDZzSkpSTHU0azl5eTV4NnNRN1Y4OFROUjNNQ004MEZSR1dSWUF3TElBcDlmb3RoUFpwT0k4aVJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a6115a5de33",
-      "title": "Aster- derived biogenic silver nanoparticles for multifaceted study on antioxidant, para-nitrophenol catalysis, cytotoxicity, and in silico molecular docking evaluation - Nature",
-      "published": "2026-11-11T18:10:50+00:00",
-      "summary": "Aster- derived biogenic silver nanoparticles for multifaceted study on antioxidant, para-nitrophenol catalysis, cytotoxicity, and in silico molecular docking evaluation&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83UFIwZVcyVDRWeDFCRkl0SEhjUHZXdXpnZTRXYWVDWHluZzd0Zjl6M2p2TVJvY3RwaFhtbk13OHBpd1FwSFJoQkE1VU81eWdCd2JFSnhKQy1tRFl0RGREdHBxWVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "163e43c85896",
-      "title": "What to do if you, or someone around you, might be having a heart attack - The Washington Post",
-      "published": "2026-11-11T18:00:00+00:00",
-      "summary": "What to do if you, or someone around you, might be having a heart attack&nbsp;&nbsp;The Washington PostDon’t mistake a heart attack for heartburn&nbsp;&nbsp;Hometown News BrevardHeart attacks in young adults: Symptoms you should never ignore&nbsp;&nbsp;Daily Nation",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZHY4NEJfR0xmZlFrS2pLVVZiSEpSa2xLV0p5OFo1M0I0RVUtTmtFcElhOTZwa1NsbTdIVFBOTFJRc2hhc3hMcDdYbFNEYXpzcTFKQWIxVi0yaGVCbUlKYVpBVEpxMGNoanFzM1lTeHQwRDlGWlBCUjRjSk1RZ2w2dkZuWjRGSUxHbHBwLVNIWXZ4Z1dGS0NvaHFGT1A1bFdVUFZmM0Z1aEh4Ym9EeGRSUEViTml5Zw?oc=5"
         }
       ]
     },
@@ -834,10 +810,34 @@
       ]
     },
     {
+      "id": "4142a37a05d9",
+      "title": "A collision between Pluto-sized bodies? Study investigates a mysterious dust cloud spotted by NASA - ThePrint",
+      "published": "2026-11-11T07:16:03+00:00",
+      "summary": "A collision between Pluto-sized bodies? Study investigates a mysterious dust cloud spotted by NASA&nbsp;&nbsp;ThePrintHubble captures dark dust structure near Beta Pictoris for the first time — ScienceDaily&nbsp;&nbsp;UA.NEWSA mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds&nbsp;&nbsp;Science DailyTwo Dwarf Planets May Have Collided 65 Light-Years Away, and Hubble Found the Wreckage&nbsp;&nbsp;StudyFindsHubble Detects Scattered Light from Beta Pictoris’s Cat’s",
+      "sources": [
+        {
+          "name": "ThePrint",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUXBNcEkyYnVvblZLazhYaHVjVjBJa0t3RWwybDVKWUhaM2RGTXlHdTl6b3ZxSXVZZEhybFBRbk1odUk2V0pDR2dSNTZqdzlDNGNQdTU1WkZrSTE3MV82Vzg2R0tHeGtVWXNzdUxoNXRsdE1DN3o3cHh3UWQtOU1YM3JHQlpVRXlJbGFqY0NkcVZYYXFDT0NLNnQtTERLUE1SeTg0WTFoSDVoYkkxSWd2RTAtamZqT0RGVlhXWnJRVGVVYi1uWFh5d1ZuV2o0ajDSAdQBQVVfeXFMTVFiQXZhNU9ZVENwMTd4eGRhV0d2cDEtUDl0Qk1oZkU5dnNXTjNsd0RvMndYWEJzTlhTQV9BXzVOU2JrX1M0dFVqanRPVlJTLV9mcm5NSTdoMm5iWUdKTVhxMWZpLVRfYnZhODY3bndfcjdsZWQ0cTRYbW9Dc0xpbS00SW1VNUdYUHJrcXN6UFdSay1HVEZzbjFWdTRtbHE1SmdmT2FBV2lNVFJPeWZqeDZTdTl4NmcwbFRlRE9RSFZMdzQyN3BabWJrZVU4bnJDQmJ4YnE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a74a966ddf8",
+      "title": "KADAK Sehat Samvad Brings Leading Healthcare Experts Together To Champion Cancer Awareness And Early Detect - News18",
+      "published": "2026-11-11T07:05:09+00:00",
+      "summary": "KADAK Sehat Samvad Brings Leading Healthcare Experts Together To Champion Cancer Awareness And Early Detect&nbsp;&nbsp;News18Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert&nbsp;&nbsp;The HinduNational Cancer Awareness Day: Health Minister Urges Cancer Screening And Awareness&nbsp;&nbsp;The Right NewsAtul Batra: Discussing Common Cancer Warning Signs and the Importance of Early Detection&nbsp;&nbsp;OncodailyCancer in India: Screening exists, but why ar",
+      "sources": [
+        {
+          "name": "News18",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYTE1N1g1TzBjRFN5RFVSTEFNdFhLZUVSNDJPUFJFWVdVaFRsRF9NekE2a3N6amhxaFJSanpMU2M5aFdVRE1INzRmTXJMTWZoVS1wWUZWdUFBbF9GaHNvVkJjSy1mSlBWRE1jMUhWMk5XLVZCNHY2UWZ4VG5rRXFid1ctZ0RVN1FHeWxHRDRfNGsydFFURGFvWjVJbGdwdU02WDNockhoRlRIdmt4UnE5cTBPWE1Vb1dBSTcxNFRmZ2NlLUdHR0NoRjJpS0g4ZkEyd0VuRXFKa1JEajI0UmlfWkQtN0E0d09URWFNeVhsY9IB9AFBVV95cUxNNXhIZ0RXV2NmM3ZaSGhaUEhHZzR3LVdZWm1IZTFUX3BTWkxvbUFnQV9LTnNTRU1Oam5jYWlLOFhBaC1xVERMUmlpdExwbWFyc3BkSUZ2dXZkNFdKS3QyMVpCWUFGejFQQWVJQXVVZGJXa2xFZU9NR184WE9XYUVyTFhBMDdGMFcxMjFBV2htVkNPX1ZFaDlBTXM1cEw1NWtOUjA1bm05aHRBWDQyd0NSbFVZX0hEa0tZc0ZDTE40eTNhTnRDdHdUWVJjNi0tT1RqQWNWaUhIdlhrTl8wM2k4V2dHY2Q2M3oyLVdabjFpaXB6TTFK?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fb0f0dbfad2a",
       "title": "For diabetes patients, stopping GLP-1 drugs linked to doubled risk of heart attack, stroke, death - Yahoo News Singapore",
       "published": "2026-11-11T06:13:00+00:00",
-      "summary": "For diabetes patients, stopping GLP-1 drugs linked to doubled risk of heart attack, stroke, death&nbsp;&nbsp;Yahoo News SingaporeOzempic and Zepbound users face 6 rebound risks after stopping, doctor warns&nbsp;&nbsp;Fox NewsStopping GLP-1 drugs linked to twice the risk of heart attack | Tap to know more | Inshorts&nbsp;&nbsp;InshortsNew heart attack and stroke warning for people on Ozempic, Wegovy and Mounjaro&nbsp;&nbsp;Wales OnlineType 2 diabetes patients ‘may risk heart issues if they stop w",
+      "summary": "For diabetes patients, stopping GLP-1 drugs linked to doubled risk of heart attack, stroke, death&nbsp;&nbsp;Yahoo News SingaporeStopping GLP-1 drugs linked to twice the risk of heart attack | Tap to know more | Inshorts&nbsp;&nbsp;InshortsNew heart attack and stroke warning for people on Ozempic, Wegovy and Mounjaro&nbsp;&nbsp;Wales OnlineType 2 diabetes patients ‘may risk heart issues if they stop weight-loss jabs’&nbsp;&nbsp;Doctors.net.ukStopping GLP-1s linked to twice the risk of heart atta",
       "sources": [
         {
           "name": "Yahoo News Singapore",
@@ -854,18 +854,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KcGVzQi1QdDBoOGxzTTZrSDRPNnk1NVlxcEpRRGlzTU50NGthQnJGUFN3eVZRYTJRRWV6YXF3S0QzZHNONlpqbzlFcjlSXzFDZldGZHdsbS1tRVpsa1NBMXFrdkg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "767f274d18d3",
-      "title": "Management of Symptomatic Carotid Artery Stenosis: A Diagnosis Not to Be Missed - Cureus",
-      "published": "2026-11-11T01:21:14+00:00",
-      "summary": "Management of Symptomatic Carotid Artery Stenosis: A Diagnosis Not to Be Missed&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1dwajlfelJFZHRZTXNQY0xTLTVZcFJkLWVIVDljZ0V3b004Qkhpc2N6WVZJZzJCYy0zWS1Yc0xwYkIyWGVpTHNuUi1FNGRnTWdVeXl2ZmtRaHBqRGZCUUVCcE9yNlFwakFVbEhFUUVNMmswR3pFQWNmakJSZVpaYml6TmsxOWpmT3dKOXF0bG1rRVZ6enJ2UkRVeWFYai1HZTdMb1BpUC1idXJ5MGhuY25Qa3J5VDdE?oc=5"
         }
       ]
     },
@@ -894,38 +882,38 @@
       ]
     },
     {
-      "id": "02de1c63edc0",
-      "title": "Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway - Pharmabiz.com",
-      "published": "2026-11-10T05:31:02+00:00",
-      "summary": "Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway&nbsp;&nbsp;Pharmabiz.comSee more headlines and perspectives on Google News",
+      "id": "6d8b3db911bd",
+      "title": "Subaru Telescope reveals shape, temperature of Comet Encke's nucleus | The study was published in Astronomical Journal | Inshorts - Inshorts",
+      "published": "2026-11-10T11:09:48+00:00",
+      "summary": "Subaru Telescope reveals shape, temperature of Comet Encke's nucleus | The study was published in Astronomical Journal | Inshorts&nbsp;&nbsp;InshortsSubaru Telescope reveals the shape and temperature of Comet Encke's nucleus&nbsp;&nbsp;Phys.orgSubaru telescope revealed the shape and temperature of сomet Encke’s nucleus&nbsp;&nbsp;Universe Space Tech",
       "sources": [
         {
-          "name": "Pharmabiz.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5"
+          "name": "Inshorts",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXFXd0ZPdjNlSXRuamVINjdIQzhldll2SWNfWnN2Z0o1RHNXRGNaVmp6dElqYms4bG96bzNzY2ZTdTBNTGhkaUxFSWVuVnBDc3BTamlTZ0UyMGdfYkl4RGNxcDdaMjFFVjNNOHRQX2pweHpoaTV4OGY3Yll0bXFwZVJ4MENjc0h5Tk56bWlCQ2NmY3pIX2g0TzNfQlpIdW5aRG5NMXpKVTRkMWpOTjJTSNIBtgFBVV95cUxQVEFWc29HVnJXaTk4cFpCa2c5WjBfM3czNjdiMnZkdlBGVWdOQmVnSHMzZXVUN0F0a25qRWZDTkZ6VUc0NU10V2lIU2pLdXZSTGl4TzBKa1lxalFmT0NBX2U1R21US2hlY1NxV19TakRlRTdqWkREQlNicGFsQmExNWozaDZwcTYzdjhpZ3o4b0EwQ0thejI4VklkLWdNaTYwaWtzUEkxLTVoeGJrNzhxOTNRaTdyUQ?oc=5"
         }
       ]
     },
     {
-      "id": "f137635aca7d",
-      "title": "More Than 1 in 4 Americans Misrepresent Symptoms to Get Antibiotics - Gastroenterology Advisor",
-      "published": "2026-11-10T05:00:00+00:00",
-      "summary": "More Than 1 in 4 Americans Misrepresent Symptoms to Get Antibiotics&nbsp;&nbsp;Gastroenterology AdvisorWhy are some patients lying to their doctors to get antibiotics?&nbsp;&nbsp;News-MedicalMany Americans exaggerate or make up symptoms to obtain antibiotics&nbsp;&nbsp;Technology OrgPatients faking symptoms to get antibiotics as drug resistance grows&nbsp;&nbsp;Yahoo",
+      "id": "88a7d3effb03",
+      "title": "Three Investigational Therapies Get UK Innovation Passports - Medscape",
+      "published": "2026-11-10T09:24:22+00:00",
+      "summary": "Three Investigational Therapies Get UK Innovation Passports&nbsp;&nbsp;MedscapeInvestigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway&nbsp;&nbsp;GOV.UKExperimental Huntington’s drug selected for UK access pathway&nbsp;&nbsp;NR TimesExperimental Alzheimer’s, Huntington’s and Lung Cancer Drugs Gain UK Innovation Passports&nbsp;&nbsp;fish4news.co.ukMHRA grants Innovation Passports to three novel ",
       "sources": [
         {
-          "name": "Gastroenterology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3RfeHRfQ1ZZMmZHN004MTF0U1NGd1ctcHNvRnBJTVBfb1NQZFhIZHZ3NUlWc2c2TWxPWWotYU1PVl90UWpYMkE0Tzh1WElUOFlmdFRtS0VtYUlsZjVMazhvdTg5Vml6TU8yWTRCTURZak9OSWFSdDA5bm9najM3c3lwQnp3TThqM284MHJyVVVOZ1BHSHR5YXczUjFJRzNxa1o1YXFHTGFPRGxxQjBNNDZnVQ?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5"
         }
       ]
     },
     {
-      "id": "63c3a77c17a2",
-      "title": "Impact of Breast Cancer Treatment on Fertility in Indian Women - India News Network",
-      "published": "2026-11-10T04:56:13+00:00",
-      "summary": "Impact of Breast Cancer Treatment on Fertility in Indian Women&nbsp;&nbsp;India News NetworkBreast cancer and fertility: Can women still become mothers after treatment? What to know about fertility preservation before starting cancer care&nbsp;&nbsp;The Times of IndiaBreast cancer and your dreams of motherhood: Breast oncologist reveals fertility risks and options for Indian women&nbsp;&nbsp;Hindustan TimesOncologic Safety Boundaries Reshape Fertility Preservation in Common Gynecologic Cancers&n",
+      "id": "603930e8ae43",
+      "title": "Why are some patients lying to their doctors to get antibiotics? - News-Medical",
+      "published": "2026-11-10T08:50:00+00:00",
+      "summary": "Why are some patients lying to their doctors to get antibiotics?&nbsp;&nbsp;News-MedicalMany Americans exaggerate or make up symptoms to obtain antibiotics&nbsp;&nbsp;Technology OrgPatients faking symptoms to get antibiotics as drug resistance grows&nbsp;&nbsp;Yahoo",
       "sources": [
         {
-          "name": "India News Network",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDNMMmhlZXc3NDdGNUhwYnN6ZnRtWkJPMzMxVFBnb284Nnl4YVhPWk9aTk5KNnk3a1hDRkM2M3BIaVdwb0FKOFA2SXN0MHluOXZ0LXZYTDA5SGloWF8teWdzempCR3U4R1NQRXdNdU1fWWpZSTE0dGZ0b1JCOHhoNEFkSXBaMU5oc3hVYXlkWjJVWkl5bUJoN29WaHNQdEU?oc=5"
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMjJSZFdteWZvNEQwRFFIamJyYWRuVTFRSWlTSXFTMFJUQk9tUTlCV3BMcmRqLVNPNWExSnQ4Vmo1RHBiYlR1UF96UTBWSndpeWtFejVrOHJXMUJhcjBtbnExa210VUtjVnpyUmQ5NFlGdEp3a3JvNmVZbkk5SGFDYkZHcWJaOWhPVGZHT3I2T1FIV1puVUVvYjZvWllLQ3hjMjE0Rjh4YTFuTUh0d1B6Uw?oc=5"
         }
       ]
     },
@@ -942,14 +930,14 @@
       ]
     },
     {
-      "id": "5e2e47c05309",
-      "title": "Subaru Telescope reveals the shape and temperature of Comet Encke's nucleus - Phys.org",
-      "published": "2026-11-09T22:10:04+00:00",
-      "summary": "Subaru Telescope reveals the shape and temperature of Comet Encke's nucleus&nbsp;&nbsp;Phys.orgSubaru Telescope reveals shape, temperature of Comet Encke's nucleus | The study was published in Astronomical Journal | Inshorts&nbsp;&nbsp;InshortsSubaru telescope revealed the shape and temperature of сomet Encke’s nucleus&nbsp;&nbsp;Universe Space Tech",
+      "id": "7fe7c83761c0",
+      "title": "FDA Grants Tentative Approval for First Generic Lenacapavir - Drug Topics",
+      "published": "2026-11-09T18:06:49+00:00",
+      "summary": "FDA Grants Tentative Approval for First Generic Lenacapavir&nbsp;&nbsp;Drug TopicsIntroducing long-acting injectable lenacapavir as HIV pre-exposure prophylaxis: implementation considerations&nbsp;&nbsp;ReliefWeb",
       "sources": [
         {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXE2eUYyUkNYS2laZnJFS015OHU0M1pYSFZ3SVEwSXRmQWRGR2xrNjNTYmx4X2VqUjJ5c3lZSW5OclZsMExCbnlRSDlxbjZERkF1TE4tbUdzcVU2bk93c3ZFOS1Xa1EwMVVsVUwzV2dyUDZCRGFqUXZoRDA4YWM1NlUtMA?oc=5"
+          "name": "Drug Topics",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGFlZS1ORTVtWDBybE1WM2pMbGNqR3lLREYtOXpNZUNkNkJVQ29hb0VsZUp2M2RSb2ZVZlg1eVlxaWlPX0VXT1JIMzlyU3ZfWWlQZVhxdS1LbUVaT293cXFUUHAydDg0Z0F4YUVMQ0JjOXdmNWRLRXRrMW1ZNjFiSDNSa3NoZHFodVFYWTBNS3k4WVRkYlE?oc=5"
         }
       ]
     },
@@ -981,11 +969,23 @@
       "id": "1e6d0aa0a3e9",
       "title": "Aditya-L1 completes 1 yr of solar observations, offers new insights | Aditya-L1 enters halo orbit around L1 point | Inshorts - Inshorts",
       "published": "2026-11-09T11:16:22+00:00",
-      "summary": "Aditya-L1 completes 1 yr of solar observations, offers new insights | Aditya-L1 enters halo orbit around L1 point | Inshorts&nbsp;&nbsp;InshortsIndia’s Aditya-L1 unlocks Sun's secrets: How new discovery could help predict solar storms that threaten Earth&nbsp;&nbsp;The Times of IndiaSolar plasma heated to 2.2 crore degrees: Udaipur scientists reveal powerful explosion with hydrogen bomb-l...&nbsp;&nbsp;Bhaskar English",
+      "summary": "Aditya-L1 completes 1 yr of solar observations, offers new insights | Aditya-L1 enters halo orbit around L1 point | Inshorts&nbsp;&nbsp;InshortsIndia’s Aditya-L1 unlocks Sun's secrets: How new discovery could help predict solar storms that threaten Earth&nbsp;&nbsp;The Times of IndiaSolar plasma heated to 2.2 crore degrees: Udaipur scientists reveal powerful explosion with hydrogen bomb-l...&nbsp;&nbsp;Bhaskar EnglishIndia's Aditya-L1 has completed a year of studying the Sun's secrets&nbsp;&nbsp",
       "sources": [
         {
           "name": "Inshorts",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDhGMzlEd1Jlak96TkZnUzBSWUc1Zy1NT0d6QzV3ZDdkS0lBOTBaLUVtWGd1SVJ0V05lSkZwbEo2R2p5cVN4cTI3QW1oWFB4WlJpblRub3BJZ0llckJFNkN4UGN3WFlqTWNDTU1JR3VuRm8yZDQ3OGc3NUkwM0pSQTlFOWg4MjZqSHFqTGpNY2tSMHhad3V4YVB5a1dmS1ZzZmxtM000M2s2TUJDaUJZ0gG0AUFVX3lxTFAzX0RVVXFNb3d2ci1LMkdKdUVKbXlrYUM2cFd4RTZRZ2RYemNHc2ZIN0pJcFRWUUlWdWxucUVYajRCX1M5c25oYnJITXZKS2U3OFhJb0pXeGJEcENNX095Qjk3dDNEVDNaUURES3BjS0l0UXpfLTgtR0tXYWFTbS1WdzgxU3BpeXBtbjlhVkxQYjNLTGYyeUY3OUpUZnBzOWJiVkNPajZEVkJIclVzOVN3UV9aZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d2a2acb0f4d",
+      "title": "Breast cancer and your dreams of motherhood: Breast oncologist reveals fertility risks and options for Indian women | Health - Hindustan Times",
+      "published": "2026-11-09T05:30:51+00:00",
+      "summary": "Breast cancer and your dreams of motherhood: Breast oncologist reveals fertility risks and options for Indian women | Health&nbsp;&nbsp;Hindustan TimesBreast cancer and fertility: Can women still become mothers after treatment? What to know about fertility preservation before starting cancer care&nbsp;&nbsp;The Times of IndiaImpact of Breast Cancer Treatment on Fertility in Indian Women&nbsp;&nbsp;India News NetworkThe fear of losing the opportunity to become parents for young people with cancer",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNW1wU2pvZlRhalFJeERva3VDd2pwa2pfMTlwTDlXUkVkbTlPTnoxbWlybEo5M3M3UkNKN2Vnckt6VzRaS19XRERHbzdFelR1RFhLckZzQzlYU0ozbHd4eEQwRlA5RlNPN25JLUdNVXhuRFlNOWpEelo0YktqNzlOdEZOWUFvdGFTcnVPVjUtcUJqTlZuc09YckIzWEVGeDc5cUhzT28wV0VHZlVzUjJUNjRIZ0MwejN5TTV1QXZkemVQTndTcm1FVERQT242VVZCeGtPVkNPOThTRWE4UFVoRkNoNWlQMVHSAewBQVVfeXFMTVlQRHpLRDQyMEk1V2FFR09SdElUQ0o4SjVoNjZJUE42Y1ExMDRYaHo0Z2taR0EyTEVqQ1p1S1ZjeUlhQzhWUmM5T1RFX3RpbVBTVEZEeG1OazUxS2VJVjJfVEt1TnRfZVA0cElQdmhUMmVsRnFjbkNtWFJFcnQ4dUdjU1J0b1k3RHl5QmlJbWxSRFozbkxobWt4YWxMaFk2VGxVS2c2NS1hSDREaGNxWGNaWnZKUjh6Qy00VUxIQVFOcVFrRW1BRVZNdXlVMGNPRnhYMld2bUlrdDRWTjFaOW03Tm9nUndvLXk1djQ?oc=5"
         }
       ]
     },
@@ -1002,26 +1002,38 @@
       ]
     },
     {
-      "id": "939e935939fa",
-      "title": "Tiny Galaxies Lose Most Of Their Oxygen, No One Knows Where It Goes - Mashable India",
-      "published": "2026-11-08T12:38:02+00:00",
-      "summary": "Tiny Galaxies Lose Most Of Their Oxygen, No One Knows Where It Goes&nbsp;&nbsp;Mashable IndiaAPOD: 2026 November 11 - NGC 4449: Small Galaxy, Big Impact&nbsp;&nbsp;NASA Science (.gov)Hubble finds dwarf galaxies are missing most of their oxygen&nbsp;&nbsp;MashableDwarf Galaxies Have Lost Most of Their Oxygen, Hubble Study of 37 Finds&nbsp;&nbsp;Around Prague",
+      "id": "59a2aa903227",
+      "title": "Surging Stroke in Young Adults Driven by Ischemic Events - EMJ",
+      "published": "2026-11-08T18:54:52+00:00",
+      "summary": "Surging Stroke in Young Adults Driven by Ischemic Events&nbsp;&nbsp;EMJIn Good Health: Why Strokes Are Becoming More Common : 1A&nbsp;&nbsp;NPRStroke Incidence Rising, Case Fatality Rates Declining in Young Adults&nbsp;&nbsp;U.S. MedicineStroke isn’t just a concern for older people: The signs every under-55 should know&nbsp;&nbsp;The Independent",
       "sources": [
         {
-          "name": "Mashable India",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzRiMXZsUHRVamhtZ1k2R01qLVpMUlV0bWI1V255RXhzaURNY0VualBvXzY2Tk1TNElzeHBtLUZOSUpSUndtSEdUY1N3R21mbEF1d0JZWXU2RTVZaHJ4SXYtQ0syVU9jMEJNbFVQM0dxeWEtYVVwZUJJdmNKVDQwcDJfWjVnTUYwZ05maEp5ckpCdWo4MUJwZDNaMHkxWFhucGR4LTFB?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWkVMZlpmNFdzcjNaNkRYV1hESkZXZHdwYmQzaUZ1RHIxNmRvWnVXYjlhZG5vRVpxV3h0LWtCUE1JbVZtU3RfVHdmM2QySjJEYkxMaTNGSGRKT0VveDVGS0Mtc294QmFYeU9EWlU3Y1lKN3plZmpVWW5XVFRjUzk1amptUWUzTkJfSGtzbUVCSUxmMnhZdUpQN3dXZzZKTnQ2?oc=5"
         }
       ]
     },
     {
-      "id": "1ed8afa22469",
-      "title": "National Cancer Awareness Day 2026: Date, History, Significance and Prevention - Adda247",
-      "published": "2026-11-07T04:36:30+00:00",
-      "summary": "National Cancer Awareness Day 2026: Date, History, Significance and Prevention&nbsp;&nbsp;Adda247Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert&nbsp;&nbsp;The HinduKADAK Sehat Samvad News and Updates&nbsp;&nbsp;AdgullyNational Cancer Awareness Day: Health Minister Urges Cancer Screening And Awareness&nbsp;&nbsp;The Right NewsAtul Batra: Discussing Common Cancer Warning Signs and the Importance of Early Detection&nbsp;&nbsp;Oncodaily",
+      "id": "72c069b9821c",
+      "title": "The History, Legacy and Science behind the 2026 Nobel Prize in Physics From High Energy Astrophysical Neutrinos to the Nobel - The Sangai Express",
+      "published": "2026-11-08T18:27:21+00:00",
+      "summary": "The History, Legacy and Science behind the 2026 Nobel Prize in Physics From High Energy Astrophysical Neutrinos to the Nobel&nbsp;&nbsp;The Sangai ExpressPhysics Professor Recalls Role in Nobel-Winning IceCube Neutrino Observatory Research&nbsp;&nbsp;North Carolina A&amp;T UniversityHow Berkeley Lab Helped Build a Telescope Unlike Any Other&nbsp;&nbsp;Berkeley Lab News Center (.gov)Simply Stated: What is the IceCube Neutrino Observatory?&nbsp;&nbsp;The Daily NexusHow neutrinos are beginning to r",
       "sources": [
         {
-          "name": "Adda247",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHJSVjJ2c0lRRXVKMGg4MU9lcHR3NVBrYjJDMkdvZkJySGJQdDRIMS1TRHRoeVhRUS12R2w1dzQ0M1NxWnFPSTdlc3QwdWk4ZUhZOVZob2VBVlJqS2pGeVh5ZGp6WGR1b28yQnBhNlhzZ2h2U3RMbXc4Ync1QVNmOFAxMUU3Z1JhcWI4amF3eXBBVFpyUW1CYkEycVVVbkdhbnVQVzI2ZXpmTXhSVXZyUw?oc=5"
+          "name": "The Sangai Express",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONnNiY0dSZHRFS1Rwb3VtdXV3YjluZmYzNGF4d2xsTGs4LXhBNGVqSndQX3ZaZEdXVlkzdUs0OHdCeU9OTEZjNGU0OTFvcmdHNU9pWjdhR3NreUYxUVkzMDJYQjRyeXpRZnRveGlnakE1NnlwLTBtSXlOU1hFMl85X2o1ODVGSnNaV3dHSDFIVmg5MnlEQkhMYkFYM2tENXFYa0xTY2hkbDdkaFBucVRxekxMbDZ0bXJYanp1ZjRtV1lzVkxib0c0Tk5VTzN5bTRMS2ZKclBjWGh5cV9DNjNPdVV5aDFYclZCRHcyNlppRDVfWVktM0hz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42f5a9e76792",
+      "title": "Tiny galaxies lose most of their oxygen. No one knows where it goes. - Mashable SEA",
+      "published": "2026-11-08T12:38:02+00:00",
+      "summary": "Tiny galaxies lose most of their oxygen. No one knows where it goes.&nbsp;&nbsp;Mashable SEAAPOD: 2026 November 11 - NGC 4449: Small Galaxy, Big Impact&nbsp;&nbsp;NASA Science (.gov)Hubble finds dwarf galaxies are missing most of their oxygen&nbsp;&nbsp;MashableDwarf Galaxies Have Lost Most of Their Oxygen, Hubble Study of 37 Finds&nbsp;&nbsp;Around PragueTiny Galaxies Lose Most Of Their Oxygen, No One Knows Where It Goes&nbsp;&nbsp;Mashable India",
+      "sources": [
+        {
+          "name": "Mashable SEA",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVJndG9uZWtnbFRkODhSeEJQQlBwNDFYMXNwOEthd25VRXJENHdORUdZNXlPcWt5Y0txVUllb3VNaFlfckhNNDNzUE9GZ0FBSlpDQnpuTTBFUFc0eV9WRFlrUmwyeXFfbWZob3NabFEwVmsweDM2eEpEUVpvVW1mdE85dG1zUllJQ0ZhWUpETW82LU9UYkM3c3RfNU1INEI4MFAzZ29B?oc=5"
         }
       ]
     },
@@ -1034,6 +1046,18 @@
         {
           "name": "News-Medical",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnl0VzFwQjB4M2RyYmxId1ZhU0plQ3hKU0ZQbDdjengtYTdUcXBINGM2b1ZlMkUxcFNELXNvMmFadmRkd1p2SVBxYktvNmpUWElfSEVoWnNCcU1IVjZqdTJKZlBBU3k5bzh1RG5jcjdlbHJSdm1hMmZSZkR2WmFQb0gzaDRWcmN5VVlWUk9HTmpFNDMxbmlzM1FMNlRqQ19pc0ppN3JuT3JPOUlBdWZUNG5HWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36fc1144084a",
+      "title": "Trump Officials to Miss His Vaccine Recommendation Deadline - Livemint",
+      "published": "2026-11-06T20:02:06+00:00",
+      "summary": "Trump Officials to Miss His Vaccine Recommendation Deadline&nbsp;&nbsp;LivemintSee more headlines and perspectives on Google News",
+      "sources": [
+        {
+          "name": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEl0MHQ1czB5YXkyUEtfVUZHYTZPakJRUlZqekhqaEppVHFjVUZ3TVZQLV9JZ2lLakJhd1ZIcVNaV1owLVpJYWZxS2FHb181dnBTc3c1SzZoTGxqSXhBYU9tS0Z5TjNnMGctLXRoV0txZjFCV1dOazZIMlM1ZU5UcklxNC00OElXZXJqWm5oYUxsYm1SVnVFM1V1VzRHWU1qNnBjRUI2NkN1SW54Q0xra2ZZOXhOTHZK0gG-AUFVX3lxTE0ybDNub0t0azZQaW5lN2NBWDR5eFRIek11SEhjVTBqYU1KcTJSa1BxNlNBV3lNN3VXdHQ2WDlwTFNpT0dQcnNhemQ3QkRMR1JLazdiS2RfZXJ1Y3U4bEx1OEd4RVJ5NmY2dy1PNXlZMDItejZfOHlGRHpnY2d1Mm02eXZ2UHZvcDdzOEZ6dnZ3Wk1QMmxWQ044STJkbEpPaHdfSUcyRnRyUFZzT0RqZzFTWlNKVTBneFluOW1pbFE?oc=5"
         }
       ]
     },

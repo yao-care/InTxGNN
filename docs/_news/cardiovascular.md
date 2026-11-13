@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,15 +58,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (4)
-
-### [ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
-2026-11-12
-
-Source: [EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
----
+## Related News (3)
 
 ### [Low blood NAD levels track heart disease and hypertension, not aging - Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
 

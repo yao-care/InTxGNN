@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lubiprostone. 10 predicted indications."
 permalink: /news/lubiprostone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Lubiprostone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
-
-### [ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span> <span class="news-indication-tag">menopause</span>
-
-Source: [EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
----
+## Related News (3)
 
 ### [Low blood NAD levels track heart disease and hypertension, not aging - Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
 

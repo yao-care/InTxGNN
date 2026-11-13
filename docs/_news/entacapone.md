@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Entacapone. 10 predicted indications."
 permalink: /news/entacapone/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Entacapone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="What news is there about Entacapone?">
-<strong>Entacapone</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Entacapone</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Entacapone with the latest h
 <p><a href="{{ '/drugs/entacapone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
@@ -60,11 +60,19 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5V
 
 ---
 
-### [Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
+### [From gut feelings to brain health: The next key opportunity in health nutrition - Nutraceutical Business Review](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNfSFc0RDlodW1JMkFzQ19IUklFS0dVWFdaWFVLX0I3TzI5ZnVKcWEzQmpIRDFsUHU0cnNGSms4SkZOR1QydU1DbWxFLTRzQURFcFhBaDY4RE9nUTVEQ0RtZmJpZmxsY1ZsZWhQeVN0bTZ0ZVIzSjFfaW1Ic3U3ZE9xU1YyQzRPRlE?oc=5)
+
+2026-11-12 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Nutraceutical Business Review](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNfSFc0RDlodW1JMkFzQ19IUklFS0dVWFdaWFVLX0I3TzI5ZnVKcWEzQmpIRDFsUHU0cnNGSms4SkZOR1QydU1DbWxFLTRzQURFcFhBaDY4RE9nUTVEQ0RtZmJpZmxsY1ZsZWhQeVN0bTZ0ZVIzSjFfaW1Ic3U3ZE9xU1YyQzRPRlE?oc=5)
+
+---
+
+### [Three Investigational Therapies Get UK Innovation Passports](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 ---
 
