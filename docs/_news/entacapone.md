@@ -60,11 +60,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5V
 
 ---
 
-### [From gut feelings to brain health: The next key opportunity in health nutrition - Nutraceutical Business Review](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNfSFc0RDlodW1JMkFzQ19IUklFS0dVWFdaWFVLX0I3TzI5ZnVKcWEzQmpIRDFsUHU0cnNGSms4SkZOR1QydU1DbWxFLTRzQURFcFhBaDY4RE9nUTVEQ0RtZmJpZmxsY1ZsZWhQeVN0bTZ0ZVIzSjFfaW1Ic3U3ZE9xU1YyQzRPRlE?oc=5)
+### [What's the best way to reverse memory decline? - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmVHMDJTWGV0WTc3clhXNVV3WkwzencxSUFlSEdaOG5KYTVDN3c3b1VhcUo2WG9INEJ5SV9WTzVMMmNHVG14SExyR2xPOG8ydmtvMTBaMkVQcVdaaEN0WjcwYnI2d3FpYXFCWTF1OV9JSVdDR1MydTVteWRPYk41Rg?oc=5)
 
 2026-11-12 <span class="news-indication-tag">alzheimer</span>
 
-Source: [Nutraceutical Business Review](https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXNfSFc0RDlodW1JMkFzQ19IUklFS0dVWFdaWFVLX0I3TzI5ZnVKcWEzQmpIRDFsUHU0cnNGSms4SkZOR1QydU1DbWxFLTRzQURFcFhBaDY4RE9nUTVEQ0RtZmJpZmxsY1ZsZWhQeVN0bTZ0ZVIzSjFfaW1Ic3U3ZE9xU1YyQzRPRlE?oc=5)
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmVHMDJTWGV0WTc3clhXNVV3WkwzencxSUFlSEdaOG5KYTVDN3c3b1VhcUo2WG9INEJ5SV9WTzVMMmNHVG14SExyR2xPOG8ydmtvMTBaMkVQcVdaaEN0WjcwYnI2d3FpYXFCWTF1OV9JSVdDR1MydTVteWRPYk41Rg?oc=5)
 
 ---
 
