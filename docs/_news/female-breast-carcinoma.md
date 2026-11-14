@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -40,11 +40,11 @@ This page brings together the latest health news about “breast cancer” and l
 
 ## Related News (2)
 
-### [Anthracycline Chemo May Accelerate Biological Aging in Breast Cancer Survivors](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
+### [Abemaciclib-Based Treatments for HR+, HER2– Advanced Breast Cancer | Breast Cancers Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
 
-2026-11-12
+2026-11-13
 
-Source: [CancerNetwork](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
 
 ---
 

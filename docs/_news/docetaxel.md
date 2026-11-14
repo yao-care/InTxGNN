@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Docetaxel. 7 predicted indications."
 permalink: /news/docetaxel/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Docetaxel News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Docetaxel?">
-<strong>Docetaxel</strong> currently has <strong>14 news articles</strong>, with 7 predicted indications.
+<strong>Docetaxel</strong> currently has <strong>11 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ This page combines the AI-predicted indications for Docetaxel with the latest he
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (11)
 
-### [AI Tools Take on Cancer Classification, Reporting, and Test Triage at AMP 2026 - Clinical Lab Products](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnluaUNKTlVmZmRwQURlZm1TWUh3ajhOSTJBVkRVXzRLU3J5Vy01RkZIcFlTQnpPRGYtUlU5UTUxVXJaLUUxSWpuNVZEdXpPaDV3ZGpSUWloZGZrOWg2ZWoxdkhER1pKaG5mTUtoZWJNWENiSjJIenRvMW53UWVQM0UzdmE3eHRFR09UR2hNS0F5YTAzWXhnX1VQR1VuS1N0c01IUEhkVTk4Zkd2eGhtSA?oc=5)
+### [Abemaciclib-Based Treatments for HR+, HER2– Advanced Breast Cancer | Breast Cancers Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
 
-2026-11-13 <span class="news-indication-tag">cancer</span>
+2026-11-13 <span class="news-drug-tag">Abemaciclib</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
 
-Source: [Clinical Lab Products](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUnluaUNKTlVmZmRwQURlZm1TWUh3ajhOSTJBVkRVXzRLU3J5Vy01RkZIcFlTQnpPRGYtUlU5UTUxVXJaLUUxSWpuNVZEdXpPaDV3ZGpSUWloZGZrOWg2ZWoxdkhER1pKaG5mTUtoZWJNWENiSjJIenRvMW53UWVQM0UzdmE3eHRFR09UR2hNS0F5YTAzWXhnX1VQR1VuS1N0c01IUEhkVTk4Zkd2eGhtSA?oc=5)
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
+
+---
+
+### [Lung cancer prevention in a Changing World: Beyond Tobacco - Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYldyN2wxVHJMSmFRN0xaRW9XSHJ2bG9JMm9yVmQ4eVJ4OFZCckdNYjJ2OHNVRVpHZEwyMnRlU2xNM1hxaU9heGtWQmdKMWJXLV91di1Pa3FBVkpxZkJ5M2VBaTI0aTNsYnljUDBvMExod1BVVmtCNVpsRjRLc25TNUhEZGQycmtKQ183d2xqNFpwbDTSAZcBQVVfeXFMTUl2WXpoOWZ2ME5iN2I3U3IzMHEzVU1yZG56ZjRwdUpTc3dqQlFIWHVsc3dIdHN1OXV0VzdySVVoYkZPQUtYOW5uR1Z0NUZkWmJ4QVNjQTQxRXQ3UFZHRjhVMnF3VWZKMnJfUFoyOFAyTHpnNGtYN2gzSGtCeFFKcGxIaDNLaC05ZnB6TERGNmpQb3QzTTBVYw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYldyN2wxVHJMSmFRN0xaRW9XSHJ2bG9JMm9yVmQ4eVJ4OFZCckdNYjJ2OHNVRVpHZEwyMnRlU2xNM1hxaU9heGtWQmdKMWJXLV91di1Pa3FBVkpxZkJ5M2VBaTI0aTNsYnljUDBvMExod1BVVmtCNVpsRjRLc25TNUhEZGQycmtKQ183d2xqNFpwbDTSAZcBQVVfeXFMTUl2WXpoOWZ2ME5iN2I3U3IzMHEzVU1yZG56ZjRwdUpTc3dqQlFIWHVsc3dIdHN1OXV0VzdySVVoYkZPQUtYOW5uR1Z0NUZkWmJ4QVNjQTQxRXQ3UFZHRjhVMnF3VWZKMnJfUFoyOFAyTHpnNGtYN2gzSGtCeFFKcGxIaDNLaC05ZnB6TERGNmpQb3QzTTBVYw?oc=5)
+
+---
+
+### [Early changes linked to ovarian cancer may leave a trace in the blood – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
 
 ---
 
@@ -89,51 +105,11 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGRFRUha
 
 ---
 
-### [Anthracycline Chemo May Accelerate Biological Aging in Breast Cancer Survivors](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
-
-Source: [CancerNetwork](https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2hrVTVWZXlTMGJ4cGlpTllXU0VnZGIyTDVGQVhlcDJVY29aY3Z3YVVQcXFLaXN4Y0EwRzhCV0pZbEZyRU9WUU1md0VBeU0yRk5vUkhXN2ZaTi1yYnZDSDQ5MENWcFdpYktmanNNaUEyNzJSbHN4X04yX0ZOeG9kMGN0ekZ3NzJMenBDU1c3WkdTbXk5OXFDNkhzYVVoQ0xtZm1XM3RVdDdrVVh5dG5UaWRwSQ?oc=5)
-
----
-
-### [New blood test finds early risk for ovarian cancer - The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
-
----
-
 ### [Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds - Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
 
 2026-11-12 <span class="news-indication-tag">cancer</span>
 
 Source: [Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
-
----
-
-### [Scientists discover a common sugar may help cancer cells break free and spread - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
-
----
-
-### [Cambodia launches HPV campaign - The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUeUpXSFU1TldRT2dlakpBVm9vbm5zdE1fWXZwbnIxZnEwa0JNdWRTYjhDR2pSSzVDMS1xZVlZRmJwakN2NEpLN19sRldoZmlTMnBoWldRb0lJYU0yTGhBR2dyU0RiS3V1djFCdjFJdDB2cnd5THR5TGhfbw?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span>
-
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMie0FVX3lxTFBUeUpXSFU1TldRT2dlakpBVm9vbm5zdE1fWXZwbnIxZnEwa0JNdWRTYjhDR2pSSzVDMS1xZVlZRmJwakN2NEpLN19sRldoZmlTMnBoWldRb0lJYU0yTGhBR2dyU0RiS3V1djFCdjFJdDB2cnd5THR5TGhfbw?oc=5)
-
----
-
-### [Precision Oncology Advances Will Shift Competitive Differentiation Beyond Clinical Efficacy - Fitch Solutions](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVdTanhsdUJBdG9FTDFoN2poc3dKN21QVm1RRFRTQ1pzaWhpYUFWOGRvTy1sOWFqbDhOU3o2dnZmS0R4TlFMNy0tR0kzM2Z1NlU0azhERlRmalZEUi04ODh1UUxHalYyMno2Y3JNZnJpTkxCbTd6bnJqa0g4TjNvVEl3MWJ5cWpmRkJQQXFzcU10RU9QY0RiamFzeXRlTDdjVWRIS242LTNmQm5vbDh3ZC14d0lWem42dVRsVnRZV2ZXWER2NVNNSzd2RHExWXhhM2NDSk9QRWRteWZiMDBqQ3NKYVpyZTIt?oc=5)
-
-2026-11-10 <span class="news-indication-tag">cancer</span>
-
-Source: [Fitch Solutions](https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVdTanhsdUJBdG9FTDFoN2poc3dKN21QVm1RRFRTQ1pzaWhpYUFWOGRvTy1sOWFqbDhOU3o2dnZmS0R4TlFMNy0tR0kzM2Z1NlU0azhERlRmalZEUi04ODh1UUxHalYyMno2Y3JNZnJpTkxCbTd6bnJqa0g4TjNvVEl3MWJ5cWpmRkJQQXFzcU10RU9QY0RiamFzeXRlTDdjVWRIS242LTNmQm5vbDh3ZC14d0lWem42dVRsVnRZV2ZXWER2NVNNSzd2RHExWXhhM2NDSk9QRWRteWZiMDBqQ3NKYVpyZTIt?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "ovarian cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about ovarian cancer. 2 articles, 1 related drugs."
+description: "Health news about ovarian cancer. 1 articles, 1 related drugs."
 permalink: /news/ovarian-cancer/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # ovarian cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about ovarian cancer?">
-<strong>ovarian cancer</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>ovarian cancer</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page brings together the latest health news about “ovarian cancer” and 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [New blood test finds early risk for ovarian cancer - The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
+### [Early changes linked to ovarian cancer may leave a trace in the blood – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
 
-2026-11-12
+2026-11-13
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
-
----
-
-### [Scientists discover a common sugar may help cancer cells break free and spread - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
-
-2026-11-12
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1xMGJNaXlhUjNTaTRaaEtCd01JOFQ1bk01N1VDVXlGYVVUU3lLUmJSb2RaS3BwSUd5aHgtS3FldGFoV0xQMm1ZcjAxY3ZiNjVNUWZQVExNaG8zYWlScWF2MGNaRHZkQWUybFM4MF91Zw?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
 
 ---
 

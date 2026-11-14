@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Beta Carotene. 0 predicted indications."
 permalink: /news/beta_carotene/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Beta Carotene News
@@ -33,7 +33,7 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 
 ### [Diabetes care beyond blood sugar: Why eye health belongs in the portfolio conversation - Express Healthcare](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkt4M0ZadjlBMGtHX3R4SDJtNmxGaVlGLTdhQldpTHdmbW5paTRRUV92TDQwenlVZ1BQTVQ1ZWhIbWY1UUdWWTJ4RG5SLTMyS3BLYTdrMnFPMlBjYWM3ZzRteTB4b2FBMzZaWm56ZlMwVFg4ZlJuVGpDcGQtS2lzSUtPNjlSbXFXQnRLemp2S1U1UXQ0TXdIR0xvcFkxWkluWVBXZUZDems3V19DMU1BYVk5NF81OFdNSC15R0VFallyUXFpUV9uZDB6SQ?oc=5)
 
-2026-11-13 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
+2026-11-13 <span class="news-indication-tag">diabetic retinopathy</span>
 
 Source: [Express Healthcare](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkt4M0ZadjlBMGtHX3R4SDJtNmxGaVlGLTdhQldpTHdmbW5paTRRUV92TDQwenlVZ1BQTVQ1ZWhIbWY1UUdWWTJ4RG5SLTMyS3BLYTdrMnFPMlBjYWM3ZzRteTB4b2FBMzZaWm56ZlMwVFg4ZlJuVGpDcGQtS2lzSUtPNjlSbXFXQnRLemp2S1U1UXQ0TXdIR0xvcFkxWkluWVBXZUZDems3V19DMU1BYVk5NF81OFdNSC15R0VFallyUXFpUV9uZDB6SQ?oc=5)
 
