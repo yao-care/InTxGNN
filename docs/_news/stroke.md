@@ -3,9 +3,9 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 1 articles, 15 related drugs."
+description: "Health news about stroke. 2 articles, 15 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # stroke News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>1 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Learning uncertainty fields for joint brain stroke diagnosis and intrinsic lesion localization in CT and MRI](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX2phaE9ZWml0ZHNaYWVyUHU2emg3TVNrdWh6azNCTGs1Wmp3X2xtZXNrQjZjYVpZMU1FQUJWUVNUNG1QVEt1aGxRNVRBRUl0Y09WcHdZaUtaMWJtMzlz?oc=5)
+
+2026-11-14
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX2phaE9ZWml0ZHNaYWVyUHU2emg3TVNrdWh6azNCTGs1Wmp3X2xtZXNrQjZjYVpZMU1FQUJWUVNUNG1QVEt1aGxRNVRBRUl0Y09WcHdZaUtaMWJtMzlz?oc=5)
+
+---
 
 ### [Robotic Exoskeleton-Assisted Training for Upper Limb Recovery After Stroke: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://news.google.com/rss/articles/CBMikAJBVV95cUxOT09GZ0pwanA1amJ4QmQySEpoMzUwSmhXS2pVeXR0RS1oYWhMNGdiMzg2OXB3RUlTYTN0YWRLM0J0LWZXdkFncDlQQmJGTERkeExzVUxXa0VubUwwaEVtd3pwLWVscnl1VHowb2hJV0djSVQwMlhIVHlzaC12VDEzU0VsVVUwRGRJcnFOS0VQRVFmTGUxajFuSGVkTnRleEVwTWdVOFdaVUdrNVVUNGNoX0JSczV4VHI0bmJ3MEVZb2JiMElnNUFPa1pfR3JqN01ncnBmdmdUTC02QUN0RVhZTmpFeDBKR042Y0FYUC1BZFRBMmQxTklrdDlNQ3JkZGZtTHRfOUhlbnpJUG1zMlFxdg?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Sotalol. 6 predicted indications."
 permalink: /news/sotalol/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # Sotalol News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Sotalol?">
-<strong>Sotalol</strong> currently has <strong>1 news articles</strong>, with 6 predicted indications.
+<strong>Sotalol</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Sotalol with the latest heal
 <p><a href="{{ '/drugs/sotalol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Learning uncertainty fields for joint brain stroke diagnosis and intrinsic lesion localization in CT and MRI](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX2phaE9ZWml0ZHNaYWVyUHU2emg3TVNrdWh6azNCTGs1Wmp3X2xtZXNrQjZjYVpZMU1FQUJWUVNUNG1QVEt1aGxRNVRBRUl0Y09WcHdZaUtaMWJtMzlz?oc=5)
+
+2026-11-14 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX2phaE9ZWml0ZHNaYWVyUHU2emg3TVNrdWh6azNCTGs1Wmp3X2xtZXNrQjZjYVpZMU1FQUJWUVNUNG1QVEt1aGxRNVRBRUl0Y09WcHdZaUtaMWJtMzlz?oc=5)
+
+---
 
 ### [Robotic Exoskeleton-Assisted Training for Upper Limb Recovery After Stroke: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://news.google.com/rss/articles/CBMikAJBVV95cUxOT09GZ0pwanA1amJ4QmQySEpoMzUwSmhXS2pVeXR0RS1oYWhMNGdiMzg2OXB3RUlTYTN0YWRLM0J0LWZXdkFncDlQQmJGTERkeExzVUxXa0VubUwwaEVtd3pwLWVscnl1VHowb2hJV0djSVQwMlhIVHlzaC12VDEzU0VsVVUwRGRJcnFOS0VQRVFmTGUxajFuSGVkTnRleEVwTWdVOFdaVUdrNVVUNGNoX0JSczV4VHI0bmJ3MEVZb2JiMElnNUFPa1pfR3JqN01ncnBmdmdUTC02QUN0RVhZTmpFeDBKR042Y0FYUC1BZFRBMmQxTklrdDlNQ3JkZGZtTHRfOUhlbnpJUG1zMlFxdg?oc=5)
 

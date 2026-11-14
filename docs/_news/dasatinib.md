@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>16 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>15 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (16)
+## Related News (15)
+
+### [Diagnostic Performance of the Vesical Imaging-Reporting and Data System for Predicting Muscle Invasion in Bladder Cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5)
+
+2026-11-14 <span class="news-indication-tag">cancer</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5)
+
+---
 
 ### [Abemaciclib-Based Treatments for HR+, HER2– Advanced Breast Cancer | Breast Cancers Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
 
@@ -67,11 +75,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWlB
 
 ---
 
-### [Older AI-estimated heart age linked to worse health outcomes](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWTZ1TTB0R2RkY0o2LWpvckRDeXh5dWNEelAwVU1iYlJNNl9yWHM0ZjA1RmhqNEhJTmNBbVpoVVNiWjU5VGdvVjlOY1BhNkk2Y3hYc1M1a0Q3LUxMbkFQcEJuNThsTjk3ZUt2dnUzTEZkNlhQQTZWSjhyVXMwZzk3RFRGUWxMcUFtZ3FoVmlKRlZYMVNiRVl0ZVBmOEpFR0hjZU5saWhIUnZacGx3?oc=5)
+### [Vaccines may prevent cancers, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
 
-2026-11-13 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-11-13 <span class="news-indication-tag">cancer</span>
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxOWTZ1TTB0R2RkY0o2LWpvckRDeXh5dWNEelAwVU1iYlJNNl9yWHM0ZjA1RmhqNEhJTmNBbVpoVVNiWjU5VGdvVjlOY1BhNkk2Y3hYc1M1a0Q3LUxMbkFQcEJuNThsTjk3ZUt2dnUzTEZkNlhQQTZWSjhyVXMwZzk3RFRGUWxMcUFtZ3FoVmlKRlZYMVNiRVl0ZVBmOEpFR0hjZU5saWhIUnZacGx3?oc=5)
+Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
 
 ---
 
@@ -83,11 +91,19 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxN
 
 ---
 
-### [Breast self-examination: Why every woman should know what is normal for her breasts and spot unusual changes | Health - Hindustan Times](https://news.google.com/rss/articles/CBMihwJBVV95cUxQQWhmMThzdVVPWFZGcGR5cVY4N0NWMHdwbHFjajBJdEc0TTdYYlVwX29kVEVLWFN5ajB3bGdxMFQ4aGNWSkFrU0R1eXcxQlEtZWFqWDJkZWJxVUs5WDVkQm1ieml6b3JrNzBDS2M4RV9JUFJpd2JrbncxaHNUaDNlZEdXSElmbDJNdkp0VHVWUFB1eXFNV2NucWlrcFh6QlFqZzZNSU1qdEkxT2lrYjhabkZ6QU80VjE1OE9SVlBPOVRVTFFIWjJyMHJpS3B4T3QybFZwRDNnQWk3UFAtZFZ6RERzc0NCa3ZoMDRnRXJkYkZlcHpwVE9EdnlqT0lHSUdBcGROdTFfWdIBjAJBVV95cUxQSTREdzdTLVItOTEtaDNMUjhhclVBTlcySEZvamdtZW55QmlIUEJhVm54VTFja1p4azFTeTRJZEpacUhlWnZfbjE0VHo2SHp2R0tTbXJjUTBNRkJYMW1SY280MXZaeTdFYUJYcmg5WUhLOXRrd0JMcmR0LXo1RzJNWVY3aDhlOUc2WC1XZERXSFdLSU9TRHFUVUpkMUR4UUJyVlFFUlNsdzRyQmRieVJib3VNeE1LOGplOWMyQmxjZWNnY21KdTlNelBQMWRyWk0tcjluM3FBSXA0Q0RwYTE4Mmt3Y3ZpMXpBTnVjZV91UUxpallJNERXMzFxTHA4VEhJeFp5aHdDSXExSkVG?oc=5)
+### [Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com - The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMihwJBVV95cUxQQWhmMThzdVVPWFZGcGR5cVY4N0NWMHdwbHFjajBJdEc0TTdYYlVwX29kVEVLWFN5ajB3bGdxMFQ4aGNWSkFrU0R1eXcxQlEtZWFqWDJkZWJxVUs5WDVkQm1ieml6b3JrNzBDS2M4RV9JUFJpd2JrbncxaHNUaDNlZEdXSElmbDJNdkp0VHVWUFB1eXFNV2NucWlrcFh6QlFqZzZNSU1qdEkxT2lrYjhabkZ6QU80VjE1OE9SVlBPOVRVTFFIWjJyMHJpS3B4T3QybFZwRDNnQWk3UFAtZFZ6RERzc0NCa3ZoMDRnRXJkYkZlcHpwVE9EdnlqT0lHSUdBcGROdTFfWdIBjAJBVV95cUxQSTREdzdTLVItOTEtaDNMUjhhclVBTlcySEZvamdtZW55QmlIUEJhVm54VTFja1p4azFTeTRJZEpacUhlWnZfbjE0VHo2SHp2R0tTbXJjUTBNRkJYMW1SY280MXZaeTdFYUJYcmg5WUhLOXRrd0JMcmR0LXo1RzJNWVY3aDhlOUc2WC1XZERXSFdLSU9TRHFUVUpkMUR4UUJyVlFFUlNsdzRyQmRieVJib3VNeE1LOGplOWMyQmxjZWNnY21KdTlNelBQMWRyWk0tcjluM3FBSXA0Q0RwYTE4Mmt3Y3ZpMXpBTnVjZV91UUxpallJNERXMzFxTHA4VEhJeFp5aHdDSXExSkVG?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
+
+---
+
+### [Type 2 diabetes linked to 53 pct higher Alzheimer's risk: study](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHhLWkw5U3F5RDVnX1VDSzFxWGIwZUdQTEZEYnZpVm84QUh6NklXN0oza0U3MGhrNjJ5dmx2LTVFS015QlFmMm9vNUR3WjFETUNTckRnRUNPSFAxT1VVM2xuSnFldjd2bEhrb2xxTGZOZTlramlHSW1yaUM4cEVXWHNEbUZxVGkyVkVVag?oc=5)
+
+2026-11-13 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Xinhua](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHhLWkw5U3F5RDVnX1VDSzFxWGIwZUdQTEZEYnZpVm84QUh6NklXN0oza0U3MGhrNjJ5dmx2LTVFS015QlFmMm9vNUR3WjFETUNTckRnRUNPSFAxT1VVM2xuSnFldjd2bEhrb2xxTGZOZTlramlHSW1yaUM4cEVXWHNEbUZxVGkyVkVVag?oc=5)
 
 ---
 
@@ -115,30 +131,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwN
 
 ---
 
-### [What Is Viral Heightmaxxing? US Doctors Warn Teen Boys Against Taking Cancer Drug To Grow Taller - Health and Me](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjhFSVZCZTgzdzRjX2xzOEdXbE93aXp2NWNSVDRqdzRPXzdrZ0xpMWxzQTltX1VlRFV3OUJRUUJQN1dYTDRhN2FFUzdYWlFJSExVUmdJNXBFVnlIVGJIeEJ6VWpjOUxYZWJMZ3FlVlhWOF8tanFfZ3lmd1Z5UGFtT0hQdGthNnF0MG5sN0tzdnJkdDZkSk92WTUyRjRKYThYMEI1R1YyVjducGVZSTVDMTRfamRIQnZJM2pKNm4xNERLelZPMEwteWh4VmVlMExEeHFn?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYjhFSVZCZTgzdzRjX2xzOEdXbE93aXp2NWNSVDRqdzRPXzdrZ0xpMWxzQTltX1VlRFV3OUJRUUJQN1dYTDRhN2FFUzdYWlFJSExVUmdJNXBFVnlIVGJIeEJ6VWpjOUxYZWJMZ3FlVlhWOF8tanFfZ3lmd1Z5UGFtT0hQdGthNnF0MG5sN0tzdnJkdDZkSk92WTUyRjRKYThYMEI1R1YyVjducGVZSTVDMTRfamRIQnZJM2pKNm4xNERLelZPMEwteWh4VmVlMExEeHFn?oc=5)
-
----
-
-### [Type 2 diabetes significantly increases risk of developing Alzheimer's disease](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5VeFJ5UExGZldXX25Ua2FiLXNoQnpvWTJ4clpYYkRXTjUyX0JXRXZralVVaTRDTzJIQjg3cVhjMG43UThkWkx2REtpM3VCT0NOUmhid0ZtOEFLUXU2UVdqR1M4MFRTMFBXaGZ2ZU5TSGE1NE5MZE5hZzg3bHZZd084Ri1LcTBQandQT1p1TEpGX3lFaGFEeVFlVk1GM1dyTDlCeC1LY3B1TGZibnlXT0JjMkRJZHpfUHlDYXh1UTNYZHM?oc=5)
-
-2026-11-12 <span class="news-indication-tag">alzheimer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5VeFJ5UExGZldXX25Ua2FiLXNoQnpvWTJ4clpYYkRXTjUyX0JXRXZralVVaTRDTzJIQjg3cVhjMG43UThkWkx2REtpM3VCT0NOUmhid0ZtOEFLUXU2UVdqR1M4MFRTMFBXaGZ2ZU5TSGE1NE5MZE5hZzg3bHZZd084Ri1LcTBQandQT1p1TEpGX3lFaGFEeVFlVk1GM1dyTDlCeC1LY3B1TGZibnlXT0JjMkRJZHpfUHlDYXh1UTNYZHM?oc=5)
-
----
-
-### [NICE Recommends PD-1 Inhibitor for Advanced Anal Cancer](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGRFRUhadGt0VENTQkN2UzRsSFhDdDd6V2hsbkxIakRpS3F2UTVUd1JSME9pRnR1WVJFa1l5MGthTkNKVTB2aHprejFfNVY4a1hfZVJ3OVRaekJIUDJ2aTRwNldzLUowcDAtVzNYeGpzYVhuRmxhcENWM0FycjZVUERabUMwTnFHSWpRVURPOFZzU2pPQWYwbEgyV2pENWZOdGVF?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGRFRUhadGt0VENTQkN2UzRsSFhDdDd6V2hsbkxIakRpS3F2UTVUd1JSME9pRnR1WVJFa1l5MGthTkNKVTB2aHprejFfNVY4a1hfZVJ3OVRaekJIUDJ2aTRwNldzLUowcDAtVzNYeGpzYVhuRmxhcENWM0FycjZVUERabUMwTnFHSWpRVURPOFZzU2pPQWYwbEgyV2pENWZOdGVF?oc=5)
-
----
-
 ### [What's the best way to reverse memory decline? - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmVHMDJTWGV0WTc3clhXNVV3WkwzencxSUFlSEdaOG5KYTVDN3c3b1VhcUo2WG9INEJ5SV9WTzVMMmNHVG14SExyR2xPOG8ydmtvMTBaMkVQcVdaaEN0WjcwYnI2d3FpYXFCWTF1OV9JSVdDR1MydTVteWRPYk41Rg?oc=5)
 
 2026-11-12 <span class="news-indication-tag">alzheimer</span>
@@ -147,11 +139,11 @@ Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigA
 
 ---
 
-### [Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds - Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
+### [Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert - The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
 
-2026-11-12 <span class="news-indication-tag">cancer</span>
+2026-11-10 <span class="news-indication-tag">cancer</span>
 
-Source: [Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
 
 ---
 
@@ -163,11 +155,11 @@ Source: [India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cU
 
 ---
 
-### [National Cancer Awareness Day: The Power of Hope, Courage and Strength in the Fight Against Cancer - Catholic Connect](https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxSNENacUNBalQ5c1dDWmkxZzJmUmYtVWpqNjN4Y0tpb0I4MDRZR1RWWmVfR29KeVBQekhiUzl1TWkxZWlhLVZfamdYRHlnMWpnbGxVLW1wbDh3YWZhMFgxNnZDY09iQ1BubGhCMUd1QUpEQ29tZGZ5aHVCM2VmbklmSTFsbUZ0RnY4eURLNTJGZ0JQYXdTRkR4dlY3OUxhSHFmSlo1bmNqUmNUQ1dPNU94Wm1qV3pHaVZSUHRJYXFVbERNeHdn?oc=5)
+### [From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
-2026-11-07 <span class="news-indication-tag">cancer</span>
+2026-11-09 <span class="news-indication-tag">cancer</span>
 
-Source: [Catholic Connect](https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxSNENacUNBalQ5c1dDWmkxZzJmUmYtVWpqNjN4Y0tpb0I4MDRZR1RWWmVfR29KeVBQekhiUzl1TWkxZWlhLVZfamdYRHlnMWpnbGxVLW1wbDh3YWZhMFgxNnZDY09iQ1BubGhCMUd1QUpEQ29tZGZ5aHVCM2VmbklmSTFsbUZ0RnY4eURLNTJGZ0JQYXdTRkR4dlY3OUxhSHFmSlo1bmNqUmNUQ1dPNU94Wm1qV3pHaVZSUHRJYXFVbERNeHdn?oc=5)
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
 ---
 

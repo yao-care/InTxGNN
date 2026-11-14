@@ -10,12 +10,22 @@
     {
       "url": "/news/acetazolamide/",
       "title": "Acetazolamide News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/hypertrophic-cardiomyopathy/",
+      "title": "hypertrophic cardiomyopathy News",
+      "count": 1
+    },
+    {
+      "url": "/news/cardiomyopathy/",
+      "title": "cardiomyopathy News",
+      "count": 1
     }
   ],
   "/drugs/acitretin/": [
@@ -80,7 +90,7 @@
     {
       "url": "/news/albendazole/",
       "title": "Albendazole News",
-      "count": 15
+      "count": 14
     },
     {
       "url": "/news/generic-cancer/",
@@ -90,22 +100,7 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ],
   "/drugs/aliskiren/": [
@@ -129,37 +124,37 @@
     {
       "url": "/news/alteplase/",
       "title": "Alteplase News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/altretamine/": [
@@ -227,27 +222,27 @@
     {
       "url": "/news/db00381/",
       "title": "AMLODIPINE News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/amoxicillin/": [
@@ -344,12 +339,12 @@
     {
       "url": "/news/db00335/",
       "title": "ATENOLOL News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/atezolizumab/": [
@@ -383,39 +378,39 @@
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/atosiban/": [
     {
       "url": "/news/atosiban/",
       "title": "Atosiban News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/axitinib/": [
@@ -688,7 +683,7 @@
     {
       "url": "/news/cabergoline/",
       "title": "Cabergoline News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/db00248/",
@@ -704,6 +699,21 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/glaucoma/",
+      "title": "glaucoma News",
+      "count": 1
+    },
+    {
+      "url": "/news/eye-pressure/",
+      "title": "glaucoma (eye pressure) News",
+      "count": 1
+    },
+    {
+      "url": "/news/aankhon-ka-dabav/",
+      "title": "glaucoma (aankhon ka dabav) News",
+      "count": 1
     }
   ],
   "/drugs/cabozantinib/": [
@@ -732,12 +742,27 @@
     {
       "url": "/news/calcipotriol/",
       "title": "Calcipotriol News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/capecitabine/": [
@@ -898,12 +923,12 @@
     {
       "url": "/news/db00758/",
       "title": "CLOPIDOGREL News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/colchicine/": [
@@ -934,12 +959,12 @@
     {
       "url": "/news/cyclandelate/",
       "title": "Cyclandelate News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/cyclophosphamide/": [
@@ -958,12 +983,12 @@
     {
       "url": "/news/cyproterone_acetate/",
       "title": "Cyproterone Acetate News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/cytarabine/": [
@@ -1026,7 +1051,7 @@
     {
       "url": "/news/dasatinib/",
       "title": "Dasatinib News",
-      "count": 16
+      "count": 15
     },
     {
       "url": "/news/db01254/",
@@ -1046,26 +1071,11 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/myeloid-leukemia/",
       "title": "leukemia (myeloid leukemia) News",
-      "count": 1
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
       "count": 1
     }
   ],
@@ -1134,6 +1144,11 @@
   ],
   "/drugs/denosumab/": [
     {
+      "url": "/news/db06643/",
+      "title": "DENOSUMAB News",
+      "count": 1
+    },
+    {
       "url": "/news/denosumab/",
       "title": "Denosumab News",
       "count": 1
@@ -1141,6 +1156,21 @@
     {
       "url": "/news/diabetic-retinopathy/",
       "title": "diabetic retinopathy News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
       "count": 1
     }
   ],
@@ -1206,81 +1236,81 @@
     {
       "url": "/news/digoxin/",
       "title": "Digoxin News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/diltiazem/": [
     {
       "url": "/news/diltiazem/",
       "title": "Diltiazem News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/dipyridamole/": [
     {
       "url": "/news/dipyridamole/",
       "title": "Dipyridamole News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/disopyramide/": [
@@ -1331,39 +1361,24 @@
     {
       "url": "/news/db00843/",
       "title": "DONEPEZIL News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ],
   "/drugs/doxapram/": [
     {
       "url": "/news/doxapram/",
       "title": "Doxapram News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/doxorubicin/": [
@@ -1392,27 +1407,27 @@
     {
       "url": "/news/dronedarone/",
       "title": "Dronedarone News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/durvalumab/": [
@@ -1441,39 +1456,39 @@
     {
       "url": "/news/ebastine/",
       "title": "Ebastine News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/edaravone/": [
     {
       "url": "/news/db12243/",
       "title": "EDARAVONE News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/eflornithine/": [
@@ -1504,27 +1519,12 @@
     {
       "url": "/news/entacapone/",
       "title": "Entacapone News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ],
   "/drugs/enzalutamide/": [
@@ -1597,12 +1597,12 @@
     {
       "url": "/news/db00063/",
       "title": "EPTIFIBATIDE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/female-breast-carcinoma/",
@@ -1747,39 +1747,24 @@
     {
       "url": "/news/db01095/",
       "title": "FLUVASTATIN News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/galantamine/": [
     {
       "url": "/news/db00674/",
       "title": "GALANTAMINE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ],
   "/drugs/gefitinib/": [
@@ -1892,12 +1877,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide Dinitrate News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/isotretinoin/": [
@@ -1921,36 +1906,58 @@
     {
       "url": "/news/isoxsuprine/",
       "title": "Isoxsuprine News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
+      "count": 2
+    }
+  ],
+  "/drugs/ivermectin/": [
+    {
+      "url": "/news/ivermectin/",
+      "title": "Ivermectin News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
       "count": 1
     }
   ],
@@ -2087,7 +2094,7 @@
     {
       "url": "/news/letrozole/",
       "title": "Letrozole News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
@@ -2098,6 +2105,21 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "breast cancer (female breast carcinoma) News",
       "count": 2
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/levamisole/": [
@@ -2122,6 +2144,28 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    }
+  ],
+  "/drugs/levonorgestrel/": [
+    {
+      "url": "/news/db00367/",
+      "title": "LEVONORGESTREL News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/lindane/": [
@@ -2150,12 +2194,12 @@
     {
       "url": "/news/db00722/",
       "title": "LISINOPRIL News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/lomustine/": [
@@ -2174,7 +2218,7 @@
     {
       "url": "/news/lorlatinib/",
       "title": "Lorlatinib News",
-      "count": 15
+      "count": 14
     },
     {
       "url": "/news/db12130/",
@@ -2194,22 +2238,7 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ],
   "/drugs/losartan/": [
@@ -2228,24 +2257,46 @@
     {
       "url": "/news/db00227/",
       "title": "LOVASTATIN News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/lubiprostone/": [
     {
       "url": "/news/lubiprostone/",
       "title": "Lubiprostone News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
+    }
+  ],
+  "/drugs/magnesium-citrate/": [
+    {
+      "url": "/news/db11110/",
+      "title": "MAGNESIUM CITRATE News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/mannitol/": [
@@ -2282,28 +2333,31 @@
       "count": 11
     }
   ],
-  "/drugs/meclizine/": [
-    {
-      "url": "/news/meclizine/",
-      "title": "Meclizine News",
-      "count": 1
-    },
-    {
-      "url": "/news/common-cold/",
-      "title": "cold (common cold) News",
-      "count": 1
-    }
-  ],
   "/drugs/medroxyprogesterone-acetate/": [
     {
       "url": "/news/db00603/",
       "title": "MEDROXYPROGESTERONE ACETATE News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/megestrol-acetate/": [
@@ -2479,6 +2533,28 @@
       "count": 11
     }
   ],
+  "/drugs/metronidazole/": [
+    {
+      "url": "/news/metronidazole/",
+      "title": "Metronidazole News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
+    }
+  ],
   "/drugs/miglitol/": [
     {
       "url": "/news/miglitol/",
@@ -2488,6 +2564,28 @@
     {
       "url": "/news/type-1-diabetes-mellitus/",
       "title": "type 1 diabetes mellitus News",
+      "count": 1
+    }
+  ],
+  "/drugs/minodronic-acid/": [
+    {
+      "url": "/news/db06548/",
+      "title": "MINODRONIC ACID News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
       "count": 1
     }
   ],
@@ -2550,33 +2648,6 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
-    }
-  ],
-  "/drugs/montelukast/": [
-    {
-      "url": "/news/montelukast/",
-      "title": "Montelukast News",
-      "count": 1
-    },
-    {
-      "url": "/news/asthma/",
-      "title": "asthma News",
-      "count": 1
-    },
-    {
-      "url": "/news/wheezing/",
-      "title": "asthma (wheezing) News",
-      "count": 1
-    },
-    {
-      "url": "/news/dama/",
-      "title": "asthma (dama) News",
-      "count": 1
-    },
-    {
-      "url": "/news/saans-ki-bimari/",
-      "title": "asthma (saans ki bimari) News",
-      "count": 1
     }
   ],
   "/drugs/moxifloxacin/": [
@@ -2643,12 +2714,27 @@
     {
       "url": "/news/natamycin/",
       "title": "Natamycin News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/nebivolol/": [
@@ -2661,6 +2747,28 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    }
+  ],
+  "/drugs/netarsudil/": [
+    {
+      "url": "/news/netarsudil/",
+      "title": "Netarsudil News",
+      "count": 1
+    },
+    {
+      "url": "/news/glaucoma/",
+      "title": "glaucoma News",
+      "count": 1
+    },
+    {
+      "url": "/news/eye-pressure/",
+      "title": "glaucoma (eye pressure) News",
+      "count": 1
+    },
+    {
+      "url": "/news/aankhon-ka-dabav/",
+      "title": "glaucoma (aankhon ka dabav) News",
+      "count": 1
     }
   ],
   "/drugs/nilotinib/": [
@@ -2705,6 +2813,28 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    }
+  ],
+  "/drugs/norethisterone/": [
+    {
+      "url": "/news/db00717/",
+      "title": "NORETHISTERONE News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/norfloxacin/": [
@@ -2805,12 +2935,12 @@
     {
       "url": "/news/db01113/",
       "title": "PAPAVERINE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/pazopanib/": [
@@ -2901,12 +3031,12 @@
     {
       "url": "/news/db06209/",
       "title": "PRASUGREL News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/pravastatin/": [
@@ -2918,27 +3048,27 @@
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/prednisolone/": [
@@ -2981,24 +3111,39 @@
     {
       "url": "/news/db00396/",
       "title": "PROGESTERONE News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/propafenone/": [
     {
       "url": "/news/propafenone/",
       "title": "Propafenone News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/propranolol/": [
@@ -3013,31 +3158,53 @@
       "count": 11
     }
   ],
+  "/drugs/raloxifene/": [
+    {
+      "url": "/news/db00481/",
+      "title": "RALOXIFENE News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
+    }
+  ],
   "/drugs/ramipril/": [
     {
       "url": "/news/db00178/",
       "title": "RAMIPRIL News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/ramucirumab/": [
@@ -3068,39 +3235,24 @@
     {
       "url": "/news/db00015/",
       "title": "RETEPLASE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/rivastigmine/": [
     {
       "url": "/news/db00989/",
       "title": "RIVASTIGMINE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ],
   "/drugs/rosuvastatin/": [
@@ -3112,27 +3264,27 @@
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/ruxolitinib/": [
@@ -3151,12 +3303,27 @@
     {
       "url": "/news/secnidazole/",
       "title": "Secnidazole News",
-      "count": 11
+      "count": 12
     },
     {
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 11
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/simvastatin/": [
@@ -3168,27 +3335,27 @@
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/sirolimus/": [
@@ -3229,39 +3396,39 @@
     {
       "url": "/news/sotalol/",
       "title": "Sotalol News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/streptokinase/": [
     {
       "url": "/news/streptokinase/",
       "title": "Streptokinase News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/sunitinib/": [
@@ -3304,27 +3471,27 @@
     {
       "url": "/news/db00966/",
       "title": "TELMISARTAN News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/stroke/",
       "title": "stroke News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/brain-attack/",
       "title": "stroke (brain attack) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/paralysis/",
       "title": "stroke (paralysis) News",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/lakwa/",
       "title": "stroke (lakwa) News",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/temsirolimus/": [
@@ -3343,24 +3510,46 @@
     {
       "url": "/news/db00031/",
       "title": "TENECTEPLASE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
+    }
+  ],
+  "/drugs/teriparatide/": [
+    {
+      "url": "/news/db06285/",
+      "title": "TERIPARATIDE News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "menopause News",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause-symptoms/",
+      "title": "menopause (menopause symptoms) News",
+      "count": 1
+    },
+    {
+      "url": "/news/masik-dharm-band/",
+      "title": "menopause (masik dharm band) News",
+      "count": 1
     }
   ],
   "/drugs/ticagrelor/": [
     {
       "url": "/news/db08816/",
       "title": "TICAGRELOR News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/tipiracil/": [
@@ -3499,12 +3688,12 @@
     {
       "url": "/news/db00661/",
       "title": "VERAPAMIL News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/vinblastine/": [
@@ -3547,27 +3736,12 @@
     {
       "url": "/news/db12131/",
       "title": "VINPOCETINE News",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 4
-    },
-    {
-      "url": "/news/memory-loss/",
-      "title": "dementia (memory loss) News",
-      "count": 1
-    },
-    {
-      "url": "/news/bhoolne-ki-bimari/",
-      "title": "dementia (bhoolne ki bimari) News",
-      "count": 1
-    },
-    {
-      "url": "/news/alzheimer/",
-      "title": "dementia (alzheimer) News",
-      "count": 1
+      "count": 3
     }
   ]
 }
