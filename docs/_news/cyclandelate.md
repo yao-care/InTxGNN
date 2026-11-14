@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
-
-### [Blood NAD levels track heart disease, not aging, study of more than 1,000 adults finds - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeURGTFdiTlNwbGdrYXNFSzBNT2p3YUUzckpsN1pESGNKR2Fuci1tckh4RVhUdEEyRzRkb0RCN2VUVmlnR1Z2Q2VkNVdELUZBRDBsTnJQeU5QbFNzNVpRc01JYTFsQ2ZCZ2I1Y2RBcXpaOWxveW1IU2M2NjdPdw?oc=5)
-
-2026-11-13 <span class="news-indication-tag">heart disease</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeURGTFdiTlNwbGdrYXNFSzBNT2p3YUUzckpsN1pESGNKR2Fuci1tckh4RVhUdEEyRzRkb0RCN2VUVmlnR1Z2Q2VkNVdELUZBRDBsTnJQeU5QbFNzNVpRc01JYTFsQ2ZCZ2I1Y2RBcXpaOWxveW1IU2M2NjdPdw?oc=5)
-
----
+## Related News (2)
 
 ### [GLP-1 RAs Outperform Metformin for Prediabetes and Obesity - The Cardiology Advisor](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmliRHN6RjF4QnZmblZSem1nbWRnYUZVY1JULThHTmE2UUdueVc1SjZJZmxsTnp4dGotVy1XQ0stY1ZCWW5HSmpyRGV6dFBSdDlvMUItWWM2WTl4eGdmdV9RSkZfclQyZjJEZmFENVgtaWhGdm1XUlNtdjJGbXFvYk1xeU1jcXVqXzFQS3RXMkZZVWVRM05NYQ?oc=5)
 

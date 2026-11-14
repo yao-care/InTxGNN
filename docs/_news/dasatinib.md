@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>15 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>14 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (14)
+
+### [Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQd1hDWG5lWVhieW5lRkpOREhGek13YkktaXRVbGdpMnpoVkFnTDRsNGlfSkplVlRxLUdFWXpvcG5xaTJIelU0SUJvUEFycnd1cFBXZWIzOEtnVVhvaW1n?oc=5)
+
+2026-11-14 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQd1hDWG5lWVhieW5lRkpOREhGek13YkktaXRVbGdpMnpoVkFnTDRsNGlfSkplVlRxLUdFWXpvcG5xaTJIelU0SUJvUEFycnd1cFBXZWIzOEtnVVhvaW1n?oc=5)
+
+---
+
+### [Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBhVGxjTnpfbGlWQm4xV2tOUTl2MDZXZjYyX3oybXlyR0dEUm1xQmMtcEdTQW1sMER6STJxRmZ5SmcxNUFYTlhqbGNFUy1IV3FtdkRNTzNSQml0Qnh1LXRfMzJ1SzFsSW84SEhnM2hRYw?oc=5)
+
+2026-11-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBhVGxjTnpfbGlWQm4xV2tOUTl2MDZXZjYyX3oybXlyR0dEUm1xQmMtcEdTQW1sMER6STJxRmZ5SmcxNUFYTlhqbGNFUy1IV3FtdkRNTzNSQml0Qnh1LXRfMzJ1SzFsSW84SEhnM2hRYw?oc=5)
+
+---
 
 ### [Diagnostic Performance of the Vesical Imaging-Reporting and Data System for Predicting Muscle Invasion in Bladder Cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5)
 
@@ -51,11 +67,19 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um
 
 ---
 
-### [Abemaciclib-Based Treatments for HR+, HER2– Advanced Breast Cancer | Breast Cancers Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
+### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
-2026-11-13 <span class="news-drug-tag">Abemaciclib</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
-Source: [DocWireNews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
+Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
+
+---
+
+### [It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
 
 ---
 
@@ -67,14 +91,6 @@ Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY
 
 ---
 
-### [Newly identified enzyme protects growth protein in leukemia cells](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWlBVlV2RXFwQkNpNjhvaHc0VXR2NTByU1dGRk83UU1hdWNQM000VXhMY2prV3hVZHRWVmliUUlrcDVEMlJJMTk5aUVnNVpiQS1PeXJHVkJieDgyTUIyQlhmbVJtOVluaGZ1b2FkN3pGR18ycndBY1BrMnpUU0FPSmFoTTkzeWJEX0pBTTVJX0VYeW9jLXFVNW9ibEYxZFQ0b0c3YUdOZ01tWWxlaFlKR0ZlYw?oc=5)
-
-2026-11-13 <span class="news-indication-tag">leukemia</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWlBVlV2RXFwQkNpNjhvaHc0VXR2NTByU1dGRk83UU1hdWNQM000VXhMY2prV3hVZHRWVmliUUlrcDVEMlJJMTk5aUVnNVpiQS1PeXJHVkJieDgyTUIyQlhmbVJtOVluaGZ1b2FkN3pGR18ycndBY1BrMnpUU0FPSmFoTTkzeWJEX0pBTTVJX0VYeW9jLXFVNW9ibEYxZFQ0b0c3YUdOZ01tWWxlaFlKR0ZlYw?oc=5)
-
----
-
 ### [Vaccines may prevent cancers, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
 
 2026-11-13 <span class="news-indication-tag">cancer</span>
@@ -83,11 +99,11 @@ Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3
 
 ---
 
-### [Early changes linked to ovarian cancer may leave a trace in the blood – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
+### [Why Does Type 2 Diabetes Increase The Risk Of Alzheimer’s Disease? Neurologist Explains - Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWHlTRVJjYlFYQXJCaGV4dzFhSUIxMU9oRWVtMTlFRThlZFI4dFhrWXhMSkZYX2dSVHplVVl6NV9FdmJMQlhGcTN4NkZzTWhXN0N1N01MZDJQMzFudDMySUw2cnFlTG9sM0tiUzRydGhBVmNaQXZSSU56elhmZVd3ZjJVYWtNc0c0UDd4LWNWb2ZpQjh3ZWRIWUhJYVZnSDlQS1prU28tZXlFbGNIQzJwV3BRQ0kwVnNJVzFzT3RxbmJRY2pFR25yb05NRVRoTGRzWHBNRHhDNHpNN0VMX3JCbURadUFseGc5ang2NWMzVEpteE9ubmFsZjNR?oc=5)
 
-2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+2026-11-13 <span class="news-indication-tag">alzheimer</span>
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWHlTRVJjYlFYQXJCaGV4dzFhSUIxMU9oRWVtMTlFRThlZFI4dFhrWXhMSkZYX2dSVHplVVl6NV9FdmJMQlhGcTN4NkZzTWhXN0N1N01MZDJQMzFudDMySUw2cnFlTG9sM0tiUzRydGhBVmNaQXZSSU56elhmZVd3ZjJVYWtNc0c0UDd4LWNWb2ZpQjh3ZWRIWUhJYVZnSDlQS1prU28tZXlFbGNIQzJwV3BRQ0kwVnNJVzFzT3RxbmJRY2pFR25yb05NRVRoTGRzWHBNRHhDNHpNN0VMX3JCbURadUFseGc5ang2NWMzVEpteE9ubmFsZjNR?oc=5)
 
 ---
 
@@ -99,27 +115,11 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cU
 
 ---
 
-### [Type 2 diabetes linked to 53 pct higher Alzheimer's risk: study](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHhLWkw5U3F5RDVnX1VDSzFxWGIwZUdQTEZEYnZpVm84QUh6NklXN0oza0U3MGhrNjJ5dmx2LTVFS015QlFmMm9vNUR3WjFETUNTckRnRUNPSFAxT1VVM2xuSnFldjd2bEhrb2xxTGZOZTlramlHSW1yaUM4cEVXWHNEbUZxVGkyVkVVag?oc=5)
+### [Early Alzheimer’s has a new culprit. A brain barrier that blocks beneficial proteins](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVIxZTVJX1BGNml6cGlUM2pOWHY1RFEtUG1ZcjlFSjJwdTh3eWRLT0Yzb1Myc3RXOXRwV2ZGTUxNemFPYkI0XzlMQnJ6V0NOMFd4WE5BLWwtQ244RTFGdnVqak5zVVZZREVOWXJWOW1VazdnVE1JLUoyaHZlaTFXQWFuRmFLYzhfTEVMams4N2xVZ3c5R0p4TS1VcnVBdy1VZG1DVNIBqgFBVV95cUxOTEV3ZS1SbWwxWk84cWx0U2g5c2E2VnlubmtsWndYQ0tNOThrcTBIeFExajc3MU1BVURnbU5Eck16cWRIQWwwM2FMX3RqQkVsU2JmN0stV2pNWXRlN0U5S3R2LUFhTktqYlVRcHJIeFNBR3RwUGxYWjlkU1o0dDdhc0NPbTBITXQ5VDVhWENfOWhDb0FXM1QzX3dDQVNiaExJOVh4Z1F6ZF9lZw?oc=5)
 
-2026-11-13 <span class="news-indication-tag">alzheimer</span>
+2026-11-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [Xinhua](https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHhLWkw5U3F5RDVnX1VDSzFxWGIwZUdQTEZEYnZpVm84QUh6NklXN0oza0U3MGhrNjJ5dmx2LTVFS015QlFmMm9vNUR3WjFETUNTckRnRUNPSFAxT1VVM2xuSnFldjd2bEhrb2xxTGZOZTlramlHSW1yaUM4cEVXWHNEbUZxVGkyVkVVag?oc=5)
-
----
-
-### [Scientists identify metabolic pathway driving lung cancer lymph node metastasis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5)
-
-2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5)
-
----
-
-### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
-
-2026-11-12 <span class="news-indication-tag">alzheimer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+Source: [ThePrint](https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVIxZTVJX1BGNml6cGlUM2pOWHY1RFEtUG1ZcjlFSjJwdTh3eWRLT0Yzb1Myc3RXOXRwV2ZGTUxNemFPYkI0XzlMQnJ6V0NOMFd4WE5BLWwtQ244RTFGdnVqak5zVVZZREVOWXJWOW1VazdnVE1JLUoyaHZlaTFXQWFuRmFLYzhfTEVMams4N2xVZ3c5R0p4TS1VcnVBdy1VZG1DVNIBqgFBVV95cUxOTEV3ZS1SbWwxWk84cWx0U2g5c2E2VnlubmtsWndYQ0tNOThrcTBIeFExajc3MU1BVURnbU5Eck16cWRIQWwwM2FMX3RqQkVsU2JmN0stV2pNWXRlN0U5S3R2LUFhTktqYlVRcHJIeFNBR3RwUGxYWjlkU1o0dDdhc0NPbTBITXQ5VDVhWENfOWhDb0FXM1QzX3dDQVNiaExJOVh4Z1F6ZF9lZw?oc=5)
 
 ---
 
@@ -131,14 +131,6 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwN
 
 ---
 
-### [What's the best way to reverse memory decline? - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmVHMDJTWGV0WTc3clhXNVV3WkwzencxSUFlSEdaOG5KYTVDN3c3b1VhcUo2WG9INEJ5SV9WTzVMMmNHVG14SExyR2xPOG8ydmtvMTBaMkVQcVdaaEN0WjcwYnI2d3FpYXFCWTF1OV9JSVdDR1MydTVteWRPYk41Rg?oc=5)
-
-2026-11-12 <span class="news-indication-tag">alzheimer</span>
-
-Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmVHMDJTWGV0WTc3clhXNVV3WkwzencxSUFlSEdaOG5KYTVDN3c3b1VhcUo2WG9INEJ5SV9WTzVMMmNHVG14SExyR2xPOG8ydmtvMTBaMkVQcVdaaEN0WjcwYnI2d3FpYXFCWTF1OV9JSVdDR1MydTVteWRPYk41Rg?oc=5)
-
----
-
 ### [Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert - The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">cancer</span>
@@ -147,11 +139,11 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkh
 
 ---
 
-### [Impact of Breast Cancer Treatment on Fertility in Indian Women - India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDNMMmhlZXc3NDdGNUhwYnN6ZnRtWkJPMzMxVFBnb284Nnl4YVhPWk9aTk5KNnk3a1hDRkM2M3BIaVdwb0FKOFA2SXN0MHluOXZ0LXZYTDA5SGloWF8teWdzempCR3U4R1NQRXdNdU1fWWpZSTE0dGZ0b1JCOHhoNEFkSXBaMU5oc3hVYXlkWjJVWkl5bUJoN29WaHNQdEU?oc=5)
+### [Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
 
-2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDNMMmhlZXc3NDdGNUhwYnN6ZnRtWkJPMzMxVFBnb284Nnl4YVhPWk9aTk5KNnk3a1hDRkM2M3BIaVdwb0FKOFA2SXN0MHluOXZ0LXZYTDA5SGloWF8teWdzempCR3U4R1NQRXdNdU1fWWpZSTE0dGZ0b1JCOHhoNEFkSXBaMU5oc3hVYXlkWjJVWkl5bUJoN29WaHNQdEU?oc=5)
+Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
 
 ---
 

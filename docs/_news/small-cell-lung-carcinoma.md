@@ -44,11 +44,11 @@ Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY
 
 ---
 
-### [Scientists identify metabolic pathway driving lung cancer lymph node metastasis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5)
+### [Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
 
-2026-11-13
+2026-11-10
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5)
+Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
 
 ---
 

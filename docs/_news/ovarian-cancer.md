@@ -32,11 +32,11 @@ This page brings together the latest health news about “ovarian cancer” and 
 
 ## Related News (1)
 
-### [Early changes linked to ovarian cancer may leave a trace in the blood – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
+### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
-2026-11-13
+2026-11-14
 
-Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
+Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
 ---
 

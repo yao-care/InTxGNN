@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Ademetionine?">
-<strong>Ademetionine</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Ademetionine</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Ademetionine with the latest
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>acne (disease)</li>
-<li>colonic neoplasm</li>
+<li class="indication-matched">colonic neoplasm<span class="indication-tag">📰 colorectal cancer</span></li>
 <li>cecum villous adenoma</li>
 <li>lipoma of colon</li>
 <li>rectosigmoid junction neoplasm</li>
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Ademetionine with the latest
 <p><a href="{{ '/drugs/ademetionine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [Diagnostic Performance of the Vesical Imaging-Reporting and Data System for Predicting Muscle Invasion in Bladder Cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5)
 
@@ -52,11 +52,19 @@ Source: [Cureus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um
 
 ---
 
-### [Abemaciclib-Based Treatments for HR+, HER2– Advanced Breast Cancer | Breast Cancers Today](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
+### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
-2026-11-13 <span class="news-drug-tag">Abemaciclib</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
-Source: [DocWireNews](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYm51dGFxU2R5MGVPeExSUGp0dERfMUM4cjl5Sko3M3pqbWZNU2k1dEhxbWRuZC1xck1YMUV0bW9oUzJRc2xZS3d5OHVyZ2gzMmNfN0otOVdRSTJPZnIyRWtTUEpTdzVVM1V0d1dIVmVzN0RPNHkzdzUzRDVWRVhZMXM0Sk9oTThab2lFTlM4T0pEdVZiQUpoUGRrRGNsT2hIZ3NMQkRmSl8ybWc?oc=5)
+Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
+
+---
+
+### [It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
+
+2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
 
 ---
 
@@ -76,27 +84,11 @@ Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3
 
 ---
 
-### [Early changes linked to ovarian cancer may leave a trace in the blood – new study - The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
-
-2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0VpS2lHSWp3SEx1akx0NS1aS2FzRFVrMzg1aThhWVhDcE8wUHAxOEFHV1FKZnVzSWxfY3RPaXhPUkhCV0tKUVNGWTY1REJMQ0QwSmlhZE8xYWRyajQtUkVsVk9JcTNHZFF5M25JTzVVbVZVajRGOWFpd2VGd3FUWVhYdVNSbnNIbGJCVm9VSk1DNnd5Ri0yNVpaVk80VjJIMVhlSDBXWUFCazRaNF96NkszRC0?oc=5)
-
----
-
 ### [Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com - The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
-
----
-
-### [Scientists identify metabolic pathway driving lung cancer lymph node metastasis](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5)
-
-2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU1Zhd0dCYUpqb0NBdXE0TUEzYjd1N1owTk9QaXNtMjBEMTdXOEg3WE9BVjF6Z0pudE5PSnlUQ0ViYVpPRWZoS0sxYTZsLUFlZ0tFQzhwQ3g4OFpWRHRfZzYxSXNBV2NJajFQeC0xSUZJSGdqYTdCd2hnYmZOT1FmRElvb3pCdjRfSmZpNDBkc0t2a04yYkliSlZRUzlTdGlTT3VBal9nZ0p1RGJEVmVfVHREZ1ppS3Q5ZnhwU1BKY1ltQnA1WkE?oc=5)
 
 ---
 
@@ -116,11 +108,11 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkh
 
 ---
 
-### [Impact of Breast Cancer Treatment on Fertility in Indian Women - India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDNMMmhlZXc3NDdGNUhwYnN6ZnRtWkJPMzMxVFBnb284Nnl4YVhPWk9aTk5KNnk3a1hDRkM2M3BIaVdwb0FKOFA2SXN0MHluOXZ0LXZYTDA5SGloWF8teWdzempCR3U4R1NQRXdNdU1fWWpZSTE0dGZ0b1JCOHhoNEFkSXBaMU5oc3hVYXlkWjJVWkl5bUJoN29WaHNQdEU?oc=5)
+### [Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
 
-2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [India News Network](https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDNMMmhlZXc3NDdGNUhwYnN6ZnRtWkJPMzMxVFBnb284Nnl4YVhPWk9aTk5KNnk3a1hDRkM2M3BIaVdwb0FKOFA2SXN0MHluOXZ0LXZYTDA5SGloWF8teWdzempCR3U4R1NQRXdNdU1fWWpZSTE0dGZ0b1JCOHhoNEFkSXBaMU5oc3hVYXlkWjJVWkl5bUJoN29WaHNQdEU?oc=5)
+Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
 
 ---
 

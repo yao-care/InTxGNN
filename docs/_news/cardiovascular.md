@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 3 articles, 31 related drugs."
+description: "Health news about cardiovascular. 2 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-14
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>3 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -58,15 +58,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (3)
-
-### [Blood NAD levels track heart disease, not aging, study of more than 1,000 adults finds - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeURGTFdiTlNwbGdrYXNFSzBNT2p3YUUzckpsN1pESGNKR2Fuci1tckh4RVhUdEEyRzRkb0RCN2VUVmlnR1Z2Q2VkNVdELUZBRDBsTnJQeU5QbFNzNVpRc01JYTFsQ2ZCZ2I1Y2RBcXpaOWxveW1IU2M2NjdPdw?oc=5)
-
-2026-11-13
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeURGTFdiTlNwbGdrYXNFSzBNT2p3YUUzckpsN1pESGNKR2Fuci1tckh4RVhUdEEyRzRkb0RCN2VUVmlnR1Z2Q2VkNVdELUZBRDBsTnJQeU5QbFNzNVpRc01JYTFsQ2ZCZ2I1Y2RBcXpaOWxveW1IU2M2NjdPdw?oc=5)
-
----
+## Related News (2)
 
 ### [GLP-1 RAs Outperform Metformin for Prediabetes and Obesity - The Cardiology Advisor](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmliRHN6RjF4QnZmblZSem1nbWRnYUZVY1JULThHTmE2UUdueVc1SjZJZmxsTnp4dGotVy1XQ0stY1ZCWW5HSmpyRGV6dFBSdDlvMUItWWM2WTl4eGdmdV9RSkZfclQyZjJEZmFENVgtaWhGdm1XUlNtdjJGbXFvYk1xeU1jcXVqXzFQS3RXMkZZVWVRM05NYQ?oc=5)
 
