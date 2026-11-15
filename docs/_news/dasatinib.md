@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>13 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>12 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (12)
 
-### [New brain-body connections expand understanding of Alzheimer's disease - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5)
+### [Predicting Head and Neck Cancer Swallowing Risks Over Time](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMTGFsQmlFN3dQTmhtNFFaWGlFdWRCYzBYbnBWUmV6YTlLdnZNYTVoTjV1N2RHV1ZrZllLbUJuSTYycTBLTXFteC11aGJubElzWkxwbUg3eVd3ZjcwRUxxX2ZrMVlIZHh4LWpGZDRLUjZvbzNoUV9Pakp2VC1Db3pyaWZVTFl5OFdBWG56Q1lmd1h3WXVDWDc3d3c?oc=5)
 
-2026-11-14 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span>
+2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">head and neck cancer</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMTGFsQmlFN3dQTmhtNFFaWGlFdWRCYzBYbnBWUmV6YTlLdnZNYTVoTjV1N2RHV1ZrZllLbUJuSTYycTBLTXFteC11aGJubElzWkxwbUg3eVd3ZjcwRUxxX2ZrMVlIZHh4LWpGZDRLUjZvbzNoUV9Pakp2VC1Db3pyaWZVTFl5OFdBWG56Q1lmd1h3WXVDWDc3d3c?oc=5)
+
+---
+
+### [Diabetes linked with 53% higher risk of Alzheimer's, review finds - The Hindu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWVUSU1pYmlGSXpzemZ6WF9EdkU3LTZUOHBmT0ZNYVVVelB6anI3WEItZjJIV0VnbHZ6ZTFOdFZnLUpSX3RXc0MzVkZqQkMybzhVcTJncmNTaTItSnpwNmdjdjlVaXVRY0FodmVDWkRxUy04b0Q5dHBBZDhMMmhPT0N2bkpGVUhiR1hWazZUTDg2QTg1T2xvMXVKR1BVYTF5WlNKbEduV09IT3kxZTFMV1dCZ3FwYVRnWm45S3pvNlHSAccBQVVfeXFMTU1lUzZubXQ3Z3hZNWNpbkNNTDBqdnBGNkpYM2xqeFhuSFlkOF96Y2VrWTV0aXU3OXVtQkhQb3FuUGlfMm9lLWZjTHhmMzQ2RkJnbDBBVEhVSmFGam4yVFdTVTM3V25TYnFER0hNeDg2SEw3cHk1RUJGX083MFR1dEZmbkpKanZycTJjMEFkWURTUmhSdG1jSmc2NENQTW1iOVB5YlJPcWtqNmU1X3BHb1pmbE9sWTFpR25CNy1idld4NTRoLUlwQQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">alzheimer</span>
+
+Source: [The Hindu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWVUSU1pYmlGSXpzemZ6WF9EdkU3LTZUOHBmT0ZNYVVVelB6anI3WEItZjJIV0VnbHZ6ZTFOdFZnLUpSX3RXc0MzVkZqQkMybzhVcTJncmNTaTItSnpwNmdjdjlVaXVRY0FodmVDWkRxUy04b0Q5dHBBZDhMMmhPT0N2bkpGVUhiR1hWazZUTDg2QTg1T2xvMXVKR1BVYTF5WlNKbEduV09IT3kxZTFMV1dCZ3FwYVRnWm45S3pvNlHSAccBQVVfeXFMTU1lUzZubXQ3Z3hZNWNpbkNNTDBqdnBGNkpYM2xqeFhuSFlkOF96Y2VrWTV0aXU3OXVtQkhQb3FuUGlfMm9lLWZjTHhmMzQ2RkJnbDBBVEhVSmFGam4yVFdTVTM3V25TYnFER0hNeDg2SEw3cHk1RUJGX083MFR1dEZmbkpKanZycTJjMEFkWURTUmhSdG1jSmc2NENQTW1iOVB5YlJPcWtqNmU1X3BHb1pmbE9sWTFpR25CNy1idld4NTRoLUlwQQ?oc=5)
+
+---
+
+### [Alzheimer’s may start shrinking two brain regions years before memory loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">alzheimer</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
 
 ---
 
@@ -67,11 +83,11 @@ Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95
 
 ---
 
-### [It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
+### [New method reveals how glioblastoma cells invade the brain](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5)
 
-2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">colorectal cancer</span>
+2026-11-14 <span class="news-indication-tag">cancer</span>
 
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5)
 
 ---
 
@@ -99,27 +115,11 @@ Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3
 
 ---
 
-### [Why Does Type 2 Diabetes Increase The Risk Of Alzheimer’s Disease? Neurologist Explains - Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWHlTRVJjYlFYQXJCaGV4dzFhSUIxMU9oRWVtMTlFRThlZFI4dFhrWXhMSkZYX2dSVHplVVl6NV9FdmJMQlhGcTN4NkZzTWhXN0N1N01MZDJQMzFudDMySUw2cnFlTG9sM0tiUzRydGhBVmNaQXZSSU56elhmZVd3ZjJVYWtNc0c0UDd4LWNWb2ZpQjh3ZWRIWUhJYVZnSDlQS1prU28tZXlFbGNIQzJwV3BRQ0kwVnNJVzFzT3RxbmJRY2pFR25yb05NRVRoTGRzWHBNRHhDNHpNN0VMX3JCbURadUFseGc5ang2NWMzVEpteE9ubmFsZjNR?oc=5)
-
-2026-11-13 <span class="news-indication-tag">alzheimer</span>
-
-Source: [Health and Me](https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWHlTRVJjYlFYQXJCaGV4dzFhSUIxMU9oRWVtMTlFRThlZFI4dFhrWXhMSkZYX2dSVHplVVl6NV9FdmJMQlhGcTN4NkZzTWhXN0N1N01MZDJQMzFudDMySUw2cnFlTG9sM0tiUzRydGhBVmNaQXZSSU56elhmZVd3ZjJVYWtNc0c0UDd4LWNWb2ZpQjh3ZWRIWUhJYVZnSDlQS1prU28tZXlFbGNIQzJwV3BRQ0kwVnNJVzFzT3RxbmJRY2pFR25yb05NRVRoTGRzWHBNRHhDNHpNN0VMX3JCbURadUFseGc5ang2NWMzVEpteE9ubmFsZjNR?oc=5)
-
----
-
 ### [Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com - The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
 
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
-
----
-
-### [Can Mindfulness for Insomnia Help Women With Cancer?](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
-
-2026-11-12 <span class="news-indication-tag">cancer</span>
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
 
 ---
 
@@ -136,14 +136,6 @@ Source: [Storyboard18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVm
 2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
-
----
-
-### [From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
-
-2026-11-09 <span class="news-indication-tag">cancer</span>
-
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
 ---
 

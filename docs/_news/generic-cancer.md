@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 9 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 8 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-15
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>9 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>8 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (8)
+
+### [Predicting Head and Neck Cancer Swallowing Risks Over Time](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMTGFsQmlFN3dQTmhtNFFaWGlFdWRCYzBYbnBWUmV6YTlLdnZNYTVoTjV1N2RHV1ZrZllLbUJuSTYycTBLTXFteC11aGJubElzWkxwbUg3eVd3ZjcwRUxxX2ZrMVlIZHh4LWpGZDRLUjZvbzNoUV9Pakp2VC1Db3pyaWZVTFl5OFdBWG56Q1lmd1h3WXVDWDc3d3c?oc=5)
+
+2026-11-15
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMTGFsQmlFN3dQTmhtNFFaWGlFdWRCYzBYbnBWUmV6YTlLdnZNYTVoTjV1N2RHV1ZrZllLbUJuSTYycTBLTXFteC11aGJubElzWkxwbUg3eVd3ZjcwRUxxX2ZrMVlIZHh4LWpGZDRLUjZvbzNoUV9Pakp2VC1Db3pyaWZVTFl5OFdBWG56Q1lmd1h3WXVDWDc3d3c?oc=5)
+
+---
 
 ### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
@@ -246,11 +254,11 @@ Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95
 
 ---
 
-### [It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
+### [New method reveals how glioblastoma cells invade the brain](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5)
 
 2026-11-14
 
-Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
+Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5)
 
 ---
 
@@ -278,14 +286,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cU
 
 ---
 
-### [Can Mindfulness for Insomnia Help Women With Cancer?](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
-
-2026-11-12
-
-Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
-
----
-
 ### [Kadak Sehat Samvad puts cancer screening and early diagnosis in focus on National Cancer Awareness Day](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVmYW9zbktrUVZsY3pUaHg5TUc1LVp5S2VuR1NhMi1HcklwdWJja1VOYmxRejRyYy1vVFpfQ0FkS1Q5WUthVkVDMzJ1bkNHQnY0M29SWlNvY2xfaXp4MUVQNEI4V1p1eVh2Nk9DZUhjamVPSkxxd1VNZ2V0bUZBR1NLTUV5cC1jZWZOUXJFYjFUUlFtM0FiMHNPQWc0dTJIeDhqbmxlYm11S0dGUHc2VEEzUndtNENwbF9kX0RILUxieEVLRjNfS0p2TWVzTUs5a3gyZXNmMUtkNEI0NWJ6MlhCLWkwOUJIeDBValRKZ2k1Sy1iRmhR0gH8AUFVX3lxTFBUM3p6OUFNSEM4US1BWHZLWElqWTh3bjFhVGRTLUxVczBGRlh0MHVYRjkxUExQNXdFbUlmMGhCTFpwOWdCb24xalFJY0xRQTJBTWZvOW5VWGxiaFNqRHlObGNBVUVuSU04Sjk0Y2JPcWhrOWphSWUyS3I1QWctUF9ianJ3cWRSSnpxT0dRVjRKU0ZZdFR4clRsWlF6M0V0YVpVWjBTWU1WMkJiQ1Y2YmRfQzNmQ3NZbmIyZ1lpMkk2MGdBVGpZdm5QWmsteGNLSERjajd2WnBrSmlIaGdkN2JJUmtUQnhqU3NLREFlaVZ1cWNrSi1hVVAyYWxXUg?oc=5)
 
 2026-11-10
@@ -299,14 +299,6 @@ Source: [Storyboard18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVm
 2026-11-10
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
-
----
-
-### [From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
-
-2026-11-09
-
-Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
 ---
 
