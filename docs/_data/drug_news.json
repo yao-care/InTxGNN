@@ -61,7 +61,7 @@
     {
       "url": "/news/albendazole/",
       "title": "Albendazole News",
-      "count": 12
+      "count": 11
     },
     {
       "url": "/news/generic-cancer/",
@@ -71,7 +71,7 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/alzheimer/",
@@ -105,22 +105,22 @@
     {
       "url": "/news/db00009/",
       "title": "ALTEPLASE News",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/alteplase/",
       "title": "Alteplase News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/stroke/",
@@ -187,6 +187,23 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 8
+    }
+  ],
+  "/drugs/amiodarone/": [
+    {
+      "url": "/news/amiodarone/",
+      "title": "Amiodarone News",
+      "count": 1
+    },
+    {
+      "url": "/news/gout/",
+      "title": "gout News",
+      "count": 1
+    },
+    {
+      "url": "/news/uric-acid/",
+      "title": "gout (uric acid) News",
+      "count": 1
     }
   ],
   "/drugs/amlodipine/": [
@@ -332,12 +349,12 @@
     {
       "url": "/news/db00335/",
       "title": "ATENOLOL News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/atezolizumab/": [
@@ -366,12 +383,12 @@
     {
       "url": "/news/db01076/",
       "title": "ATORVASTATIN News",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/stroke/",
@@ -398,12 +415,12 @@
     {
       "url": "/news/atosiban/",
       "title": "Atosiban News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/axitinib/": [
@@ -462,6 +479,23 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 8
+    }
+  ],
+  "/drugs/balsalazide/": [
+    {
+      "url": "/news/balsalazide/",
+      "title": "Balsalazide News",
+      "count": 1
+    },
+    {
+      "url": "/news/gout/",
+      "title": "gout News",
+      "count": 1
+    },
+    {
+      "url": "/news/uric-acid/",
+      "title": "gout (uric acid) News",
+      "count": 1
     }
   ],
   "/drugs/basiliximab/": [
@@ -638,15 +672,20 @@
       "count": 8
     }
   ],
-  "/drugs/bromfenac/": [
+  "/drugs/bosentan/": [
     {
-      "url": "/news/bromfenac/",
-      "title": "Bromfenac News",
+      "url": "/news/bosentan/",
+      "title": "Bosentan News",
       "count": 1
     },
     {
-      "url": "/news/eye-disease/",
-      "title": "eye disease News",
+      "url": "/news/gout/",
+      "title": "gout News",
+      "count": 1
+    },
+    {
+      "url": "/news/uric-acid/",
+      "title": "gout (uric acid) News",
       "count": 1
     }
   ],
@@ -892,6 +931,16 @@
     {
       "url": "/news/chromium/",
       "title": "Chromium News",
+      "count": 2
+    },
+    {
+      "url": "/news/gout/",
+      "title": "gout News",
+      "count": 1
+    },
+    {
+      "url": "/news/uric-acid/",
+      "title": "gout (uric acid) News",
       "count": 1
     },
     {
@@ -962,12 +1011,12 @@
     {
       "url": "/news/db00758/",
       "title": "CLOPIDOGREL News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/colchicine/": [
@@ -998,12 +1047,12 @@
     {
       "url": "/news/cyclandelate/",
       "title": "Cyclandelate News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/cyclophosphamide/": [
@@ -1022,12 +1071,12 @@
     {
       "url": "/news/cyproterone_acetate/",
       "title": "Cyproterone Acetate News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/cytarabine/": [
@@ -1089,13 +1138,18 @@
       "url": "/news/head-and-neck-cancer/",
       "title": "head and neck cancer News",
       "count": 1
+    },
+    {
+      "url": "/news/liver-sarcoma/",
+      "title": "liver cancer (liver sarcoma) News",
+      "count": 1
     }
   ],
   "/drugs/dasatinib/": [
     {
       "url": "/news/dasatinib/",
       "title": "Dasatinib News",
-      "count": 12
+      "count": 11
     },
     {
       "url": "/news/db01254/",
@@ -1115,7 +1169,7 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/alzheimer/",
@@ -1410,12 +1464,12 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/db00843/",
       "title": "DONEPEZIL News",
-      "count": 5
+      "count": 3
     },
     {
       "url": "/news/alzheimer/",
@@ -1437,12 +1491,12 @@
     {
       "url": "/news/doxapram/",
       "title": "Doxapram News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/doxorubicin/": [
@@ -1520,12 +1574,12 @@
     {
       "url": "/news/ebastine/",
       "title": "Ebastine News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/edaravone/": [
@@ -1583,12 +1637,12 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/entacapone/",
       "title": "Entacapone News",
-      "count": 5
+      "count": 3
     },
     {
       "url": "/news/alzheimer/",
@@ -1676,12 +1730,12 @@
     {
       "url": "/news/db00063/",
       "title": "EPTIFIBATIDE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/eribulin/": [
@@ -1804,24 +1858,24 @@
     {
       "url": "/news/db01095/",
       "title": "FLUVASTATIN News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/galantamine/": [
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/db00674/",
       "title": "GALANTAMINE News",
-      "count": 5
+      "count": 3
     },
     {
       "url": "/news/alzheimer/",
@@ -1949,12 +2003,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide Dinitrate News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/isotretinoin/": [
@@ -1973,22 +2027,22 @@
     {
       "url": "/news/db08941/",
       "title": "ISOXSUPRINE News",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/isoxsuprine/",
       "title": "Isoxsuprine News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/stroke/",
@@ -2268,12 +2322,12 @@
     {
       "url": "/news/db00722/",
       "title": "LISINOPRIL News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/lomustine/": [
@@ -2292,7 +2346,7 @@
     {
       "url": "/news/lorlatinib/",
       "title": "Lorlatinib News",
-      "count": 12
+      "count": 11
     },
     {
       "url": "/news/db12130/",
@@ -2312,7 +2366,7 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/alzheimer/",
@@ -2346,24 +2400,24 @@
     {
       "url": "/news/db00227/",
       "title": "LOVASTATIN News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/lubiprostone/": [
     {
       "url": "/news/lubiprostone/",
       "title": "Lubiprostone News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/magnesium-citrate/": [
@@ -2524,6 +2578,23 @@
     {
       "url": "/news/osteoarthritis/",
       "title": "osteoarthritis News",
+      "count": 1
+    }
+  ],
+  "/drugs/metamizole/": [
+    {
+      "url": "/news/metamizole/",
+      "title": "Metamizole News",
+      "count": 1
+    },
+    {
+      "url": "/news/gout/",
+      "title": "gout News",
+      "count": 1
+    },
+    {
+      "url": "/news/uric-acid/",
+      "title": "gout (uric acid) News",
       "count": 1
     }
   ],
@@ -2797,18 +2868,6 @@
       "count": 8
     }
   ],
-  "/drugs/nepafenac/": [
-    {
-      "url": "/news/nepafenac/",
-      "title": "Nepafenac News",
-      "count": 1
-    },
-    {
-      "url": "/news/eye-disease/",
-      "title": "eye disease News",
-      "count": 1
-    }
-  ],
   "/drugs/netarsudil/": [
     {
       "url": "/news/netarsudil/",
@@ -2885,6 +2944,23 @@
       "url": "/news/generic-cancer/",
       "title": "cancer (generic_cancer) News",
       "count": 8
+    }
+  ],
+  "/drugs/nitrofurantoin/": [
+    {
+      "url": "/news/nitrofurantoin/",
+      "title": "Nitrofurantoin News",
+      "count": 1
+    },
+    {
+      "url": "/news/gout/",
+      "title": "gout News",
+      "count": 1
+    },
+    {
+      "url": "/news/uric-acid/",
+      "title": "gout (uric acid) News",
+      "count": 1
     }
   ],
   "/drugs/norethisterone/": [
@@ -3007,12 +3083,12 @@
     {
       "url": "/news/db01113/",
       "title": "PAPAVERINE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/pazopanib/": [
@@ -3103,24 +3179,24 @@
     {
       "url": "/news/db06209/",
       "title": "PRASUGREL News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/pravastatin/": [
     {
       "url": "/news/db00175/",
       "title": "PRAVASTATIN News",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/stroke/",
@@ -3210,12 +3286,12 @@
     {
       "url": "/news/propafenone/",
       "title": "Propafenone News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/propranolol/": [
@@ -3307,24 +3383,24 @@
     {
       "url": "/news/db00015/",
       "title": "RETEPLASE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/rivastigmine/": [
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/db00989/",
       "title": "RIVASTIGMINE News",
-      "count": 5
+      "count": 3
     },
     {
       "url": "/news/alzheimer/",
@@ -3346,12 +3422,12 @@
     {
       "url": "/news/db01098/",
       "title": "ROSUVASTATIN News",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/stroke/",
@@ -3417,12 +3493,12 @@
     {
       "url": "/news/db00641/",
       "title": "SIMVASTATIN News",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/stroke/",
@@ -3510,12 +3586,12 @@
     {
       "url": "/news/streptokinase/",
       "title": "Streptokinase News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/sunitinib/": [
@@ -3597,12 +3673,12 @@
     {
       "url": "/news/db00031/",
       "title": "TENECTEPLASE News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/teriparatide/": [
@@ -3631,12 +3707,12 @@
     {
       "url": "/news/db08816/",
       "title": "TICAGRELOR News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/tipiracil/": [
@@ -3735,6 +3811,18 @@
       "count": 8
     }
   ],
+  "/drugs/tulobuterol/": [
+    {
+      "url": "/news/tulobuterol/",
+      "title": "Tulobuterol News",
+      "count": 1
+    },
+    {
+      "url": "/news/chronic-obstructive-pulmonary-disease/",
+      "title": "COPD (chronic obstructive pulmonary disease) News",
+      "count": 1
+    }
+  ],
   "/drugs/valproic-acid/": [
     {
       "url": "/news/valproic_acid/",
@@ -3775,12 +3863,12 @@
     {
       "url": "/news/db00661/",
       "title": "VERAPAMIL News",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "heart disease (cardiovascular) News",
-      "count": 3
+      "count": 4
     }
   ],
   "/drugs/vinblastine/": [
@@ -3823,12 +3911,12 @@
     {
       "url": "/news/dementia/",
       "title": "alzheimer (dementia) News",
-      "count": 6
+      "count": 4
     },
     {
       "url": "/news/db12131/",
       "title": "VINPOCETINE News",
-      "count": 5
+      "count": 3
     },
     {
       "url": "/news/alzheimer/",

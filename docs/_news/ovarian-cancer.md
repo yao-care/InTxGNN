@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about ovarian cancer. 1 articles, 1 related drugs."
 permalink: /news/ovarian-cancer/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # ovarian cancer News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “ovarian cancer” and 
 
 ## Related News (1)
 
-### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
+### [HEALTH ROUNDS-New blood test finds early risk for ovarian cancer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeF85YmhRYi1wUkhVQl9DTndLMkt1Y185bTdiZHZ4NHBZVE5IUVRkVlpOWUxOWkloYTEzS3EtOS1fVGJRZHdTbHFZMFk3MklraHpLS3l1eUdsQ1U4NXVfY3d1R1h2UkRwQU1FQTduU1c2QVdiLU9EOUE2N3RkN0R3TUJMdVVESUprN25faGs4OER2SGIxUWU4SnhPRTgxekVSRlU0Wm0wNDBBZEpSb0NiUlQyUjNTVmRmT041RGxJT2TSAcYBQVVfeXFMUHdtYXNXM3hvMFd4bHpfZUozSEluRHZpTE5FbWpsbXdDMy1PQm1KTzVjSTZTLXBPYUU0ejFKVy11WmNnTDN3S2l3WUlZcFVkcDdpMkRRbkNOdVhqcER4V2lmLWFNcmtOank4VFhMdWhBUXFiUVdzTHhGdmdDak1HOTcwNERWRktfNDV6aVNoY2FDVkZhUlBUcmR4Q1UyVWR3N3c2OG5rUnpFbzhGdGJBenR3dnYxdnlhN1Bya0xPWThhV1BjZ29B?oc=5)
 
-2026-11-14
+2026-11-11
 
-Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
+Source: [Devdiscourse](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeF85YmhRYi1wUkhVQl9DTndLMkt1Y185bTdiZHZ4NHBZVE5IUVRkVlpOWUxOWkloYTEzS3EtOS1fVGJRZHdTbHFZMFk3MklraHpLS3l1eUdsQ1U4NXVfY3d1R1h2UkRwQU1FQTduU1c2QVdiLU9EOUE2N3RkN0R3TUJMdVVESUprN25faGs4OER2SGIxUWU4SnhPRTgxekVSRlU0Wm0wNDBBZEpSb0NiUlQyUjNTVmRmT041RGxJT2TSAcYBQVVfeXFMUHdtYXNXM3hvMFd4bHpfZUozSEluRHZpTE5FbWpsbXdDMy1PQm1KTzVjSTZTLXBPYUU0ejFKVy11WmNnTDN3S2l3WUlZcFVkcDdpMkRRbkNOdVhqcER4V2lmLWFNcmtOank4VFhMdWhBUXFiUVdzTHhGdmdDak1HOTcwNERWRktfNDV6aVNoY2FDVkZhUlBUcmR4Q1UyVWR3N3c2OG5rUnpFbzhGdGJBenR3dnYxdnlhN1Bya0xPWThhV1BjZ29B?oc=5)
 
 ---
 
