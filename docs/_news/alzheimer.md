@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 2 articles, 8 related drugs."
 permalink: /news/alzheimer/
 last_modified_at: 2026-11-15
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>2 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [New brain-body connections expand understanding of Alzheimer's disease - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5)
+### [Alzheimer’s may start shrinking two brain regions years before memory loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
 
-2026-11-14
+2026-11-15
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5)
-
----
-
-### [New brain-body connections expand understanding of Alzheimer's disease - Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5)
-
-2026-11-14
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
 
 ---
 

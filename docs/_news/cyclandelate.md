@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>3 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (3)
+
+### [NAD Supplements Unnecessary for Healthy Adults](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEV4am9kcmpCVFQ1LVA1V1VzUklyYjBGdUZiRDdqM2JCV0FiQXB0eF9WYmhyVXI3dGFWbjcxdS1SaEd4c3VvZzdyQnJXbWlJZFBKOXFNZHRSWXdBcl9ySGpBZ0tENTR5VllGU2Y4bmwtT3FQSjBobGFvVkxXSjl4bUJiUXVFZ3d3?oc=5)
+
+2026-11-15 <span class="news-indication-tag">heart disease</span>
+
+Source: [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEV4am9kcmpCVFQ1LVA1V1VzUklyYjBGdUZiRDdqM2JCV0FiQXB0eF9WYmhyVXI3dGFWbjcxdS1SaEd4c3VvZzdyQnJXbWlJZFBKOXFNZHRSWXdBcl9ySGpBZ0tENTR5VllGU2Y4bmwtT3FQSjBobGFvVkxXSjl4bUJiUXVFZ3d3?oc=5)
+
+---
+
+### [Endothelial Dysfunction as a Mediator of Hypertension and Cardiovascular Risk: A Systematic Review and Meta-Analysis](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNclFnWnlBZG1WLVE5RUhpQm80QnFDdEtEYm9zWW5hb2VzMTkwdFU1SF9hRnRlSmNadGhwTUJxWVJydVBQVnZ6WjFxaEJkeEdsekxlSFp6NXFkb1dLMTZIV0hjY1JxYkhQZXQ5d2Q5NjZFdEw2cko4eDlwUG5JRDRDSlpHZG9iWUlLcG5DRG9tRXpvNkNDeDN1NEg3djlUQjg0X2N6TkREbTFoWkFTdjUtMFZvNC1jYWZqa3FYQy1oZHd5cnJoSTVnb08wX2MwTUJKdkFKWGFXQ2tCTzdMbmtaejVrakZMWkdaeHc?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNclFnWnlBZG1WLVE5RUhpQm80QnFDdEtEYm9zWW5hb2VzMTkwdFU1SF9hRnRlSmNadGhwTUJxWVJydVBQVnZ6WjFxaEJkeEdsekxlSFp6NXFkb1dLMTZIV0hjY1JxYkhQZXQ5d2Q5NjZFdEw2cko4eDlwUG5JRDRDSlpHZG9iWUlLcG5DRG9tRXpvNkNDeDN1NEg3djlUQjg0X2N6TkREbTFoWkFTdjUtMFZvNC1jYWZqa3FYQy1oZHd5cnJoSTVnb08wX2MwTUJKdkFKWGFXQ2tCTzdMbmtaejVrakZMWkdaeHc?oc=5)
+
+---
 
 ### [Postpartum Screening Reveals Cardiovascular and Kidney Risks](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
 
