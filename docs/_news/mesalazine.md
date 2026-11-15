@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Mesalazine. 6 predicted indications."
 permalink: /news/mesalazine/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # Mesalazine News
@@ -28,8 +28,8 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
 <li>congenital hypotrichosis with juvenile macular dystrophy</li>
-<li>osteoarthritis</li>
-<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 rheumatoid arthritis</span></li>
+<li class="indication-matched">osteoarthritis<span class="indication-tag">📰 osteoarthritis</span></li>
+<li>rheumatoid arthritis</li>
 <li>seborrheic keratosis</li>
 <li>vulvar inverted follicular keratosis</li>
 <li>pseudoachondroplasia</li>
@@ -40,11 +40,11 @@ This page combines the AI-predicted indications for Mesalazine with the latest h
 
 ## Related News (1)
 
-### [ACR 2026: GLP-1 Receptor Agonists Show Joint and Vascular Benefits](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
+### [Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials - The Hindu](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzJaM1lpalNCT3M2cjJNQVgwckdIa25TNW1YYVF6ZUpDYW9YeWcyOWR3VmtaY2ZLQW5mTEQxbFJZU1E3QXIyWW41bF9CVjBTVHJQRkRVOFQxZkhfNHBOYmFXVWRfbUpOUXd1eXJCV1hvX1F6d25rMjZCZDFlUE00STF1M3FVVDFyc24yRnZqUHdRVUxmejNBdkJNYUVCUW9ES25sdW92TTlEdUNObFdNZllBSVhndHFaYlR6dnlxcm9RVDl6b0hnRHFZNlNEWThFRzdBUzFUc3BrVGFyQ0FNcHFiUDg4MUXSAe4BQVVfeXFMTnZKWnpLa3dTOGdqc1k5TW1uZE5fME9hdkhXSVBSQ3ZhRVhfeWphOHdWalVvbDZQNk9TdkM2bFJLRXJOWGhvQ3M1c0tIdzhFMkVxV3p5QUY2ZWx1dTZheDlXSHY1a1A2akhfMEFtaFZKN21sQjE0RHpKSm54eWhOMFBiYXllbFhYRXFFaWZzUHA5SWEwM1VCNGNLcTI1RU0tdkk3YVo1cVBmODI4RFhUTnVSZkoxMGRYXzZqcWU3b1JzeUZUZ2RLVXBWUm5yRm40STZtdFE4NDRlRGNJSF9IWDN0b3lyeFpqSDV0YnFWZw?oc=5)
 
-2026-11-07 <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span> <span class="news-indication-tag">rheumatoid arthritis</span>
+2026-11-13 <span class="news-indication-tag">osteoarthritis</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2RpVDFRdkhVTV9ZQTZXamFpMW9QS1g4OFJGQnRDYXRkZHdOeUdEYTU3MnpFMzF3RW1sLWExZkxzc0cwc2tfMm1xemdFLURhUW1JeFpnOTl2UXItTGJPWXQ4MW0zTHpZaUkxUkRsUVdqN3AzZkwxTFBOU09NWDJhOW5uN3FCY3hWNkhfLXhPOGxfQzFQbjNCeFNvdHE5a3JQRFRmMEszWGxtYWdhNXVpMQ?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzJaM1lpalNCT3M2cjJNQVgwckdIa25TNW1YYVF6ZUpDYW9YeWcyOWR3VmtaY2ZLQW5mTEQxbFJZU1E3QXIyWW41bF9CVjBTVHJQRkRVOFQxZkhfNHBOYmFXVWRfbUpOUXd1eXJCV1hvX1F6d25rMjZCZDFlUE00STF1M3FVVDFyc24yRnZqUHdRVUxmejNBdkJNYUVCUW9ES25sdW92TTlEdUNObFdNZllBSVhndHFaYlR6dnlxcm9RVDl6b0hnRHFZNlNEWThFRzdBUzFUc3BrVGFyQ0FNcHFiUDg4MUXSAe4BQVVfeXFMTnZKWnpLa3dTOGdqc1k5TW1uZE5fME9hdkhXSVBSQ3ZhRVhfeWphOHdWalVvbDZQNk9TdkM2bFJLRXJOWGhvQ3M1c0tIdzhFMkVxV3p5QUY2ZWx1dTZheDlXSHY1a1A2akhfMEFtaFZKN21sQjE0RHpKSm54eWhOMFBiYXllbFhYRXFFaWZzUHA5SWEwM1VCNGNLcTI1RU0tdkk3YVo1cVBmODI4RFhUTnVSZkoxMGRYXzZqcWU3b1JzeUZUZ2RLVXBWUm5yRm40STZtdFE4NDRlRGNJSF9IWDN0b3lyeFpqSDV0YnFWZw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about ovarian cancer. 1 articles, 1 related drugs."
 permalink: /news/ovarian-cancer/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # ovarian cancer News
@@ -32,11 +32,11 @@ This page brings together the latest health news about “ovarian cancer” and 
 
 ## Related News (1)
 
-### [New blood test finds early risk for ovarian cancer - The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
+### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
-2026-11-12
+2026-11-14
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3dpN1I1VGlMdXlIaElsbEszaE1uc2ZnbnRYaUpSSXdYczRheDE1U19uZi1Zam84Z3R5OHp4cVFqV0R6ZzRNak9nM1dNejRRaUppZmxEQzFqYnZWbGZIZ3pJTXNsX1VFWlZjbEZ1bENXeUVOcTJCb1dMZlpHYUVfVkFsVXVVZ1F2ZExUdWZOM003LThWYVUtMHdfWFN0TzdIT29JNnQwM3NjMHFzMjN2TNIBtwFBVV95cUxQaVN5aHdNUGxEcXVyT0VjUHAtNG0xNFVrNW9WamNiQUdvbFhCWkhhWEIyeUkzSjN2eFVOU0JlMWw5QUREQTNCWjNIZFk3LVVqZ2ozSWJSa0U1TFJRRlpKV1E0cFFqTlRMR3E1ajFUajBmYzRUYndYemNJQUhNNU1CNWxpcWJMMXhtdWZoakJRLTFxbVJ4Zk1hcmdHZl9TRnA3cDY3aDdTY3ZxdFFNWExsU2g2QzlRQVk?oc=5)
+Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
 ---
 

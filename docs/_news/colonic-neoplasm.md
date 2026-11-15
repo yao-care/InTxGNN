@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "colon cancer (colonic neoplasm) News"
+title: "colorectal cancer (colonic neoplasm) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about colon cancer (colonic neoplasm). 1 articles, 1 related drugs."
+description: "Health news about colorectal cancer (colonic neoplasm). 1 articles, 1 related drugs."
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
-# colon cancer (colonic neoplasm) News
+# colorectal cancer (colonic neoplasm) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about colon cancer (colonic neoplasm)?">
-<strong>colon cancer (colonic neoplasm)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about colorectal cancer (colonic neoplasm)?">
+<strong>colorectal cancer (colonic neoplasm)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “colon cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “colorectal cancer” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -32,11 +32,11 @@ This page brings together the latest health news about “colon cancer” and li
 
 ## Related News (1)
 
-### [A Two-Part Nanozyme Targets the Inflammatory Loop Linked to Colon Cancer](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SURyQXFZeGdMZUtMazdKZGc5bnlhUnlsUGg0eU15c0ZaTXhlM2tvY2NCRlhZMm5qcUpiSmVjdUUwR3hXT1Mzek1hODFWR242RTNndzFSa0JNdw?oc=5)
+### [It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
 
-2026-11-12
+2026-11-14
 
-Source: [AZoNano](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SURyQXFZeGdMZUtMazdKZGc5bnlhUnlsUGg0eU15c0ZaTXhlM2tvY2NCRlhZMm5qcUpiSmVjdUUwR3hXT1Mzek1hODFWR242RTNndzFSa0JNdw?oc=5)
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5)
 
 ---
 

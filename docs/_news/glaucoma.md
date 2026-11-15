@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about glaucoma. 1 articles, 2 related drugs."
 permalink: /news/glaucoma/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-14
 ---
 
 # glaucoma News

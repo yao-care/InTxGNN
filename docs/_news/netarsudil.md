@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Netarsudil. 0 predicted indications."
 permalink: /news/netarsudil/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-14
 ---
 
 # Netarsudil News

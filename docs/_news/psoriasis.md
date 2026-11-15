@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "psoriasis News"
+title: "skin disease (psoriasis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about psoriasis. 1 articles, 1 related drugs."
+description: "Health news about skin disease (psoriasis). 1 articles, 1 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-13
 ---
 
-# psoriasis News
+# skin disease (psoriasis) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about psoriasis?">
-<strong>psoriasis</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about skin disease (psoriasis)?">
+<strong>skin disease (psoriasis)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “psoriasis” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “skin disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -32,11 +32,11 @@ This page brings together the latest health news about “psoriasis” and lists
 
 ## Related News (1)
 
-### [Psoriasis Linked to Higher Cataract Risk After Phototherapy](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWU4dVAwQUlsMnZBRVNpNC1Bb3JDOENVZ0hzU2NQRVJ5eG0yUC1pMUYyeGxGTHBPZ05zRUZ4NlBlZDNWMXFrTWptNllpQml0ckJLZkNjNmZTT2VZaDQyY05OSWlOTEtrLTcyTDdST2RtWjBSbFBVWUw0SVpWY2hBWGRGWXRNVU5SeXRPeVRWbWxSRVF2SHc2c2U5UlNOUk1lLWM2c01kaw?oc=5)
+### [Evening Preference Linked to Inflammatory Skin Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVoyVE9ZejU2OVJjVXhTWVJFaU9PZGRleS1keUxZc2dJZUR3OWdOZGEtRmpKU1NnQkVFX196c00xRVZla2NhRmZCZ2ZRMERPTmJGM1Vsa09sdm8xRUFkczdBUG44cU1Sb205blFVWVpjSjRMM3lCanpZTUNNWVBwcGpLWFE0WWtscG5zQjdIck4tQ2pvZkpTMkctQjk2TXJQ?oc=5)
 
-2026-11-09
+2026-11-13
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWU4dVAwQUlsMnZBRVNpNC1Bb3JDOENVZ0hzU2NQRVJ5eG0yUC1pMUYyeGxGTHBPZ05zRUZ4NlBlZDNWMXFrTWptNllpQml0ckJLZkNjNmZTT2VZaDQyY05OSWlOTEtrLTcyTDdST2RtWjBSbFBVWUw0SVpWY2hBWGRGWXRNVU5SeXRPeVRWbWxSRVF2SHc2c2U5UlNOUk1lLWM2c01kaw?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVoyVE9ZejU2OVJjVXhTWVJFaU9PZGRleS1keUxZc2dJZUR3OWdOZGEtRmpKU1NnQkVFX196c00xRVZla2NhRmZCZ2ZRMERPTmJGM1Vsa09sdm8xRUFkczdBUG44cU1Sb205blFVWVpjSjRMM3lCanpZTUNNWVBwcGpLWFE0WWtscG5zQjdIck4tQ2pvZkpTMkctQjk2TXJQ?oc=5)
 
 ---
 

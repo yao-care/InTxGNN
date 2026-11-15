@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "heart disease (cardiovascular) News"
+title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 4 articles, 31 related drugs."
+description: "Health news about cardiovascular. 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
-# heart disease (cardiovascular) News
+# cardiovascular News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>4 news articles</strong> and 31 related drugs.
+<p class="key-answer" data-question="What news is there about cardiovascular?">
+<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cardiovascular” and lists the drugs in the InTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -58,31 +58,7 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (4)
-
-### [ormone Therapy and the Heart: What Black Women Should Know - EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
-2026-11-12
-
-Source: [EEW Magazine](https://news.google.com/rss/articles/CBMitgFBVV95cUxOV1VwN2lkWmZ6d0hfMlhWZEw4Qk91R2Rqb1l2ZHhCYThWU25DREp6ZktxeWxySUFMdk55NFZhLUhsTVJ1TlZUaExxV25RSnVNcDE1QmFRLXFQVXlORmxHNnlwX3I5NTVVRGlxaW9LOUZfTmQxd2xkUnZ2LUNpbm5mU05HWUNobUg1MzZyb0JZb1RGZkJVNzEwcnh4MGlUNXlTZHBCOVdrdWdnRFlqTTRNY29CazNxQQ?oc=5)
-
----
-
-### [Low blood NAD levels track heart disease and hypertension, not aging - Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
-
-2026-11-11
-
-Source: [Managed Healthcare Executive](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbi0zQlY3NmxuN0dpdXNiREE5TXhRN1NBZWNGaGxFdUFtNjA4dG5DYzNncmxWSDhJaVpkaWUyMlRiME51TlRjdVc3MHBueDNoX3B6VDRFbEp0MUNsaWpGaDJzdGR6dzloR3pFek9PdW1rN0xmWDBIc2RIUDNDTHVrekZ6eVBiMjBQeXgxVnhVLVBoRnlOakFvTDQxeHFBbDNnTFFkUFcxOWJBb214Q2d4TVp5SVNlUQ?oc=5)
-
----
-
-### [AI-derived inflammation score improves cardiovascular risk prediction beyond CAC - Radiology Business](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFvcDFhR2hJMml3TE5paEdFbDJZa3lkcTVYeURmVjNJQmYtVWZLU1pqb2MxNllwcEZNX0F1SW9Eb1FtcXlqYjQzZHdfVUM3Y1lXX3lLYTg2LWVIWjhyQzRoU3Bha3M2d2RXY3RwWkpyVk8zNnZpNlVUVFRmTmVENi03ZW5OZzlPNGR1M05aOFF5NDJoX0hMOTl1blNweHNQWTlQNVI5cVRDcUFkWWtwVDRYREJTTlJxUVVvbVlRSUt5SmxfWmhaYi1UQV8xMTFNenlKbWZEWTA?oc=5)
-
-2026-11-11
-
-Source: [Radiology Business](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFvcDFhR2hJMml3TE5paEdFbDJZa3lkcTVYeURmVjNJQmYtVWZLU1pqb2MxNllwcEZNX0F1SW9Eb1FtcXlqYjQzZHdfVUM3Y1lXX3lLYTg2LWVIWjhyQzRoU3Bha3M2d2RXY3RwWkpyVk8zNnZpNlVUVFRmTmVENi03ZW5OZzlPNGR1M05aOFF5NDJoX0hMOTl1blNweHNQWTlQNVI5cVRDcUFkWWtwVDRYREJTTlJxUVVvbVlRSUt5SmxfWmhaYi1UQV8xMTFNenlKbWZEWTA?oc=5)
-
----
+## Related News (1)
 
 ### [Postpartum Screening Reveals Cardiovascular and Kidney Risks](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
 

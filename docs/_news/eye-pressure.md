@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about glaucoma (eye pressure). 1 articles, 2 related drugs."
 permalink: /news/eye-pressure/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-14
 ---
 
 # glaucoma (eye pressure) News

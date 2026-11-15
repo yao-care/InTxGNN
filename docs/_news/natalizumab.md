@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-13
 ---
 
 # Natalizumab News
@@ -29,7 +29,7 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <li><strong>Predicted indications (5)</strong>:<ul>
 <li>bronchitis</li>
 <li>parapsoriasis</li>
-<li class="indication-matched">psoriasis<span class="indication-tag">📰 psoriasis</span></li>
+<li class="indication-matched">psoriasis<span class="indication-tag">📰 skin disease</span></li>
 <li>severe nonproliferative diabetic retinopathy</li>
 <li>acute lichenoid pityriasis</li>
 </ul></li>
@@ -39,11 +39,11 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 
 ## Related News (1)
 
-### [Psoriasis Linked to Higher Cataract Risk After Phototherapy](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWU4dVAwQUlsMnZBRVNpNC1Bb3JDOENVZ0hzU2NQRVJ5eG0yUC1pMUYyeGxGTHBPZ05zRUZ4NlBlZDNWMXFrTWptNllpQml0ckJLZkNjNmZTT2VZaDQyY05OSWlOTEtrLTcyTDdST2RtWjBSbFBVWUw0SVpWY2hBWGRGWXRNVU5SeXRPeVRWbWxSRVF2SHc2c2U5UlNOUk1lLWM2c01kaw?oc=5)
+### [Evening Preference Linked to Inflammatory Skin Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVoyVE9ZejU2OVJjVXhTWVJFaU9PZGRleS1keUxZc2dJZUR3OWdOZGEtRmpKU1NnQkVFX196c00xRVZla2NhRmZCZ2ZRMERPTmJGM1Vsa09sdm8xRUFkczdBUG44cU1Sb205blFVWVpjSjRMM3lCanpZTUNNWVBwcGpLWFE0WWtscG5zQjdIck4tQ2pvZkpTMkctQjk2TXJQ?oc=5)
 
-2026-11-09 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+2026-11-13 <span class="news-indication-tag">skin disease</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWU4dVAwQUlsMnZBRVNpNC1Bb3JDOENVZ0hzU2NQRVJ5eG0yUC1pMUYyeGxGTHBPZ05zRUZ4NlBlZDNWMXFrTWptNllpQml0ckJLZkNjNmZTT2VZaDQyY05OSWlOTEtrLTcyTDdST2RtWjBSbFBVWUw0SVpWY2hBWGRGWXRNVU5SeXRPeVRWbWxSRVF2SHc2c2U5UlNOUk1lLWM2c01kaw?oc=5)
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVoyVE9ZejU2OVJjVXhTWVJFaU9PZGRleS1keUxZc2dJZUR3OWdOZGEtRmpKU1NnQkVFX196c00xRVZla2NhRmZCZ2ZRMERPTmJGM1Vsa09sdm8xRUFkczdBUG44cU1Sb205blFVWVpjSjRMM3lCanpZTUNNWVBwcGpLWFE0WWtscG5zQjdIck4tQ2pvZkpTMkctQjk2TXJQ?oc=5)
 
 ---
 
