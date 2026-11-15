@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Eflornithine. 2 predicted indications."
 permalink: /news/eflornithine/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Eflornithine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Eflornithine?">
-<strong>Eflornithine</strong> currently has <strong>10 news articles</strong>, with 2 predicted indications.
+<strong>Eflornithine</strong> currently has <strong>9 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ This page combines the AI-predicted indications for Eflornithine with the latest
 <p><a href="{{ '/drugs/eflornithine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
-
-### [Diagnostic Performance of the Vesical Imaging-Reporting and Data System for Predicting Muscle Invasion in Bladder Cancer](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5)
-
-2026-11-14 <span class="news-indication-tag">cancer</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5)
-
----
+## Related News (9)
 
 ### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
 
@@ -92,19 +84,19 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwN
 
 ---
 
-### [Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert - The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
+### [Kadak Sehat Samvad puts cancer screening and early diagnosis in focus on National Cancer Awareness Day](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVmYW9zbktrUVZsY3pUaHg5TUc1LVp5S2VuR1NhMi1HcklwdWJja1VOYmxRejRyYy1vVFpfQ0FkS1Q5WUthVkVDMzJ1bkNHQnY0M29SWlNvY2xfaXp4MUVQNEI4V1p1eVh2Nk9DZUhjamVPSkxxd1VNZ2V0bUZBR1NLTUV5cC1jZWZOUXJFYjFUUlFtM0FiMHNPQWc0dTJIeDhqbmxlYm11S0dGUHc2VEEzUndtNENwbF9kX0RILUxieEVLRjNfS0p2TWVzTUs5a3gyZXNmMUtkNEI0NWJ6MlhCLWkwOUJIeDBValRKZ2k1Sy1iRmhR0gH8AUFVX3lxTFBUM3p6OUFNSEM4US1BWHZLWElqWTh3bjFhVGRTLUxVczBGRlh0MHVYRjkxUExQNXdFbUlmMGhCTFpwOWdCb24xalFJY0xRQTJBTWZvOW5VWGxiaFNqRHlObGNBVUVuSU04Sjk0Y2JPcWhrOWphSWUyS3I1QWctUF9ianJ3cWRSSnpxT0dRVjRKU0ZZdFR4clRsWlF6M0V0YVpVWjBTWU1WMkJiQ1Y2YmRfQzNmQ3NZbmIyZ1lpMkk2MGdBVGpZdm5QWmsteGNLSERjajd2WnBrSmlIaGdkN2JJUmtUQnhqU3NLREFlaVZ1cWNrSi1hVVAyYWxXUg?oc=5)
 
 2026-11-10 <span class="news-indication-tag">cancer</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
+Source: [Storyboard18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVmYW9zbktrUVZsY3pUaHg5TUc1LVp5S2VuR1NhMi1HcklwdWJja1VOYmxRejRyYy1vVFpfQ0FkS1Q5WUthVkVDMzJ1bkNHQnY0M29SWlNvY2xfaXp4MUVQNEI4V1p1eVh2Nk9DZUhjamVPSkxxd1VNZ2V0bUZBR1NLTUV5cC1jZWZOUXJFYjFUUlFtM0FiMHNPQWc0dTJIeDhqbmxlYm11S0dGUHc2VEEzUndtNENwbF9kX0RILUxieEVLRjNfS0p2TWVzTUs5a3gyZXNmMUtkNEI0NWJ6MlhCLWkwOUJIeDBValRKZ2k1Sy1iRmhR0gH8AUFVX3lxTFBUM3p6OUFNSEM4US1BWHZLWElqWTh3bjFhVGRTLUxVczBGRlh0MHVYRjkxUExQNXdFbUlmMGhCTFpwOWdCb24xalFJY0xRQTJBTWZvOW5VWGxiaFNqRHlObGNBVUVuSU04Sjk0Y2JPcWhrOWphSWUyS3I1QWctUF9ianJ3cWRSSnpxT0dRVjRKU0ZZdFR4clRsWlF6M0V0YVpVWjBTWU1WMkJiQ1Y2YmRfQzNmQ3NZbmIyZ1lpMkk2MGdBVGpZdm5QWmsteGNLSERjajd2WnBrSmlIaGdkN2JJUmtUQnhqU3NLREFlaVZ1cWNrSi1hVVAyYWxXUg?oc=5)
 
 ---
 
-### [Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
+### [Three Investigational Therapies Get UK Innovation Passports](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
 
-Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 ---
 

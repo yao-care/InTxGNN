@@ -3,9 +3,9 @@ layout: default
 title: "cardiovascular News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular. 2 articles, 31 related drugs."
+description: "Health news about cardiovascular. 1 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # cardiovascular News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about cardiovascular?">
-<strong>cardiovascular</strong> currently has <strong>2 news articles</strong> and 31 related drugs.
+<strong>cardiovascular</strong> currently has <strong>1 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,15 +58,7 @@ This page brings together the latest health news about “cardiovascular” and 
 </ul>
 </div>
 
-## Related News (2)
-
-### [GLP-1 RAs Outperform Metformin for Prediabetes and Obesity - The Cardiology Advisor](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmliRHN6RjF4QnZmblZSem1nbWRnYUZVY1JULThHTmE2UUdueVc1SjZJZmxsTnp4dGotVy1XQ0stY1ZCWW5HSmpyRGV6dFBSdDlvMUItWWM2WTl4eGdmdV9RSkZfclQyZjJEZmFENVgtaWhGdm1XUlNtdjJGbXFvYk1xeU1jcXVqXzFQS3RXMkZZVWVRM05NYQ?oc=5)
-
-2026-11-13
-
-Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmliRHN6RjF4QnZmblZSem1nbWRnYUZVY1JULThHTmE2UUdueVc1SjZJZmxsTnp4dGotVy1XQ0stY1ZCWW5HSmpyRGV6dFBSdDlvMUItWWM2WTl4eGdmdV9RSkZfclQyZjJEZmFENVgtaWhGdm1XUlNtdjJGbXFvYk1xeU1jcXVqXzFQS3RXMkZZVWVRM05NYQ?oc=5)
-
----
+## Related News (1)
 
 ### [Postpartum Screening Reveals Cardiovascular and Kidney Risks](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
 

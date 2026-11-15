@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-14T21:42:29.470940+00:00",
+  "fetched_at": "2026-11-15T03:18:37.082567+00:00",
   "count": 70,
   "news": [
     {
       "id": "32e2d4858144",
       "title": "Exhibition, poster competitions held at CMC to mark World Diabetes Day - The Hindu",
       "published": "2026-11-14T18:41:19+00:00",
-      "summary": "Exhibition, poster competitions held at CMC to mark World Diabetes Day&nbsp;&nbsp;The HinduWorld Diabetes Day: Can prediabetes be reversed?&nbsp;&nbsp;CGTNWorld Diabetes Day 2026: Diabetes can develop silently for years: Why one simple health check could help detect the risk early and prevent future complications&nbsp;&nbsp;The Times of IndiaEarly Detection, Lifestyle Changes Key To Tackling Diabetes Burden, Says Union Minister&nbsp;&nbsp;NDTVIndia is eating its way to diabetes. We still call it",
+      "summary": "Exhibition, poster competitions held at CMC to mark World Diabetes Day&nbsp;&nbsp;The HinduScreen time, obesity driving diabetes among youngsters: Docs&nbsp;&nbsp;The Times of IndiaCM Omar Abdullah Urges People to Adopt Healthy Lifestyle on World Diabetes Day&nbsp;&nbsp;Kashmir LifeEarly Detection, Lifestyle Changes Key To Tackling Diabetes Burden, Says Union Minister&nbsp;&nbsp;NDTVIndia is eating its way to diabetes. We still call it prosperity&nbsp;&nbsp;The Indian Express",
       "sources": [
         {
           "name": "The Hindu",
@@ -28,14 +28,38 @@
       ]
     },
     {
-      "id": "9582d9fc5098",
-      "title": "India records 38% drop in TB deaths since 2015 - Manorama Yearbook",
-      "published": "2026-11-14T09:03:31+00:00",
-      "summary": "India records 38% drop in TB deaths since 2015&nbsp;&nbsp;Manorama YearbookSocial Media Corner 13th November 2026&nbsp;&nbsp;NarendraModi.inIndia records 38% drop in TB mortality since 2015: WHO report&nbsp;&nbsp;The HinduAmid challenges, countries increase domestic investment to protect progress against tuberculosis&nbsp;&nbsp;World Health Organization (WHO)India achieves significant milestone in its fight against TB; records 38% decline in TB mortality and 94% treatment success rate&nbsp;&nbsp",
+      "id": "7490ddb495dd",
+      "title": "[HIV Glasgow 2026] European Medical Journal | Hepatitis C coinfection linked to liver risk in HIV - European AIDS Treatment Group",
+      "published": "2026-11-14T23:02:53+00:00",
+      "summary": "[HIV Glasgow 2026] European Medical Journal | Hepatitis C coinfection linked to liver risk in HIV&nbsp;&nbsp;European AIDS Treatment Group",
       "sources": [
         {
-          "name": "Manorama Yearbook",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmRGZG5QSEE2YmVjdlctNmpyeFlOOWRuVUJWQTdORWlMcWRERERoRU1PTzlMbFVGeENXWDBkVXYtNHRXUF9GcUs1ZFI1TTZ1aU1maDZ4MGEzbVFzVGtnYTcwZV94TUIybVJkU2d1ejJwYWVlclc4OXA5VnN3ZHNXbkVBanpzWDlPTWU5NndjUXlXZw?oc=5"
+          "name": "European AIDS Treatment Group",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdk5oXy1wTWhYTnBOc3kzSUVTSXJVTE1IREZRS0E1aG1vMS1aYUVqYVoxVGdnR0xKS1VadmxQcjhBa1B1YU1ILWtrcnJldjVHbEV2V2FkQzFZWWdTem1nenRUSUx6WnZFTm9uaFFJXy1velkwSHRBYV9wejJlekh2bE5xOGpDeW5DYmJYRnpDS0lNekJRS3ljQ2pxSHFpVlhxaS0wTVc3SnBPVWc5ejRONjlhdkQyYUVNWUtPcXhDOHZpdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "630e5252640a",
+      "title": "India conducts 11 crore chest x-rays, 3 crore molecular tests to eliminate TB - Medical Buyer",
+      "published": "2026-11-14T07:14:30+00:00",
+      "summary": "India conducts 11 crore chest x-rays, 3 crore molecular tests to eliminate TB&nbsp;&nbsp;Medical BuyerSocial Media Corner 13th November 2026&nbsp;&nbsp;NarendraModi.inIndia records 38% drop in TB mortality since 2015: WHO report&nbsp;&nbsp;The HinduAmid challenges, countries increase domestic investment to protect progress against tuberculosis&nbsp;&nbsp;World Health Organization (WHO)India achieves significant milestone in its fight against TB; records 38% decline in TB mortality and 94% treatm",
+      "sources": [
+        {
+          "name": "Medical Buyer",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGpraU5FWGFLZXlGODBaREs3bldGQWNRR09IVU41Y3kwVkhPZnpITGFtbUZteUVUY0pyYmthY2U1UVBNYnZiMGNxbkZUZXV3b1l6MFZ3aUtHRm9GN2FRV3M5R3U0NVVTaUZuVmZmclFhQ0pLdkhpOTdEMWo4WG5UdkxYd1NtZzB4QlNJSlNmZ3F4ejhlaVhaOXo3bS1SRjR3OWZLU0lWYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a83f2338a2c",
+      "title": "Diabetes is a lifelong condition. Can Indian families afford a lifetime of treatment? - The South First",
+      "published": "2026-11-15T01:32:40+00:00",
+      "summary": "Diabetes is a lifelong condition. Can Indian families afford a lifetime of treatment?&nbsp;&nbsp;The South FirstIn Focus: What diabetes access barriers mean for Kentuckians&nbsp;&nbsp;Spectrum NewsDiabetes care should not depend on what patients can afford&nbsp;&nbsp;Cape TimesKentucky diabetes law expands school education and screenings&nbsp;&nbsp;Spectrum News",
+      "sources": [
+        {
+          "name": "The South First",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkl6dW1LbThkUUN5MmxzbVptZWFTRnh4TVoxWlpKcmZmRld2N0FvRmJwa29iY2VUdnhlTnVhT1hoWEd2OC03ZE05TGRoNG1nVTJWZUtoWEpvb0x5ZEdFbFJrdWNiM3RfMzBmanplelFaTjVKb0RUUjlDQVBuNWs4MDM5Q0FDRW14ZnhOa3ZEaGYzVWhDdmVyZGVpQ3lmUkNtUk9iTDN1OHN3b3gzYnBSRnpLZV9SZw?oc=5"
         }
       ]
     },
@@ -52,38 +76,50 @@
       ]
     },
     {
-      "id": "f5fd456fc00d",
-      "title": "US Stands to Lose Measles Elimination Status as Multiple States Face The Worst Outbreaks in Nearly Three Decades - Health Policy Watch",
-      "published": "2026-11-14T19:06:27+00:00",
-      "summary": "US Stands to Lose Measles Elimination Status as Multiple States Face The Worst Outbreaks in Nearly Three Decades&nbsp;&nbsp;Health Policy WatchAfter 26 years, the US has lost its measles elimination status&nbsp;&nbsp;CNNThe US And Mexico Are On The Verge Of Forfeiting A Major Health Victory. Here's What To Know&nbsp;&nbsp;NDTVU.S. loses measles-free status after continued spread of the disease: report&nbsp;&nbsp;The HinduUS loses measles-free status as two more deaths reported&nbsp;&nbsp;Al Jaze",
-      "sources": [
-        {
-          "name": "Health Policy Watch",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YVlNhTThWMUZqUnc0RDV6a2V4eEFOcWJ1bXhBSXRyQkxsRDd0a0FMYnBTSG5HSFM0UnpucUxnelNaS2dRbTRIenNnamZxbUpkNERhY2ZsT1hKNUFpWWdSVDAwMWkyTlY3UnIyRUpyYnRxZXNhRjBTUkVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "161f82597815",
-      "title": "Diabetes — it’s as much about the mind as it is about metabolism - The Times of India",
-      "published": "2026-11-14T08:51:00+00:00",
-      "summary": "Diabetes — it’s as much about the mind as it is about metabolism&nbsp;&nbsp;The Times of India1 in 5 children with diabetes face mental health challenges: PGI study&nbsp;&nbsp;The Times of IndiaFor World Diabetes Day, Insulet Launches \"Give Yourself the Freedom to\" Campaign, Encouraging People with Diabetes to Prioritize Their Well-Being&nbsp;&nbsp;Yahoo FinanceHoliday blues or something more? Understanding the link between diabetes and depression&nbsp;&nbsp;KUTVWellbeing and diabetes: the perso",
+      "id": "3b3208e0b6fc",
+      "title": "1 in 5 children with diabetes face mental health challenges: PGI study - The Times of India",
+      "published": "2026-11-14T19:32:00+00:00",
+      "summary": "1 in 5 children with diabetes face mental health challenges: PGI study&nbsp;&nbsp;The Times of IndiaInsulet launches “Give Yourself the Freedom to” campaign, encouraging people with diabetes to prioritize their well-being&nbsp;&nbsp;Chain Drug ReviewHoliday blues or something more? Understanding the link between diabetes and depression&nbsp;&nbsp;KUTVWellbeing and diabetes: the person behind the blood sugar readings&nbsp;&nbsp;NIHRFor World Diabetes Day, Insulet Launches \"Give Yourself the Freed",
       "sources": [
         {
           "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV1d3Sk9OV3c2ZkNxQTF6aF9sNTI1U2twTVlzQS1iRzdjbzA2cGc0YnJaV21hcGpLdHVaOEdmTEtpcmMxU21NdW9fcWxFX084VEhCdEM3TTJzN1ktTlRCVmFmVlFrMVRjbWxxaGhXM2FzSkJsOUtycGxzSkxEaUlYbEhDQ2hheHg3MmJ4T2JwUVZGZkJqY3dTdzkzSzJ5alVUaUlDckhxeTEwMXhmbVZMakJzQW5tUzBOMXdlZXRrTjRUWHRNM3YxdFFTR1JIbXZoa2fSAdcBQVVfeXFMTnMtRXNWQ2tpcER6cmJ6aDk4VVVNaFZ3VHFSc1Z2SUYzZEdUWmJjc1BpbUF5dV9OeEtkcFRkaHp6ZnVjNlg0STJLV0FRSDU4c013OUdTbmQ3SGRNbVhzckFhczQ2OXEyVnZmLWVib19NZW9aYVhNQ2tjSXY0LWROMzBCeTQwVHFNRE1kUkVrdTZCVzRHczlfWmhYNzVrWjdXRnFINVpoYXJPY3h6d2xfWm9STWlyQlBwNGUwUWZRRERTU3BsWXBxemNsWkl0SHhucElTc3hQV1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcVE0WGxtUS1MWm9KcXZoZ2xDdkdOT1BUQXlyRGU5aVhkbWgzTlMtRUUtQ2VWVTNnU1d4a25NSkl0dnBWSXJSUVVRb1RtZzNHMlZlRDB1RkJybXh4TjVNMnNnXzF1dkVnS1JqdUlkV0pmYWFYNS1GUU4weUczSkVQVm1kZldoVFZocFRTamY5TzhydHpPOVlMZDd1c2d6NFR0QjF0S1Y5eDRhZ2VjcTVlbGliQmVjTXJXVmMtZ1p0ZzRGRjZaVUVQRm5wOVlwY0dJc1o0V3A5SmtsMGtZNmtXRtIB5gFBVV95cUxQZ0FYNUQ1VUxSY2xoZkZtU0NnYmg4aUJsVFpqanE0S1NCLUJ4OVk0ZUFNX19hcFY3VWRFaXBpSkNpV0pLR3lhWmFsWGlYeGExN01NWFk2Q0o2bmZ3WkgyakMzWmVTWTN3dkdvMURMcV9lekVPbEZIb2xOdlVlems2T281bzNHMzJkZndyOXhyN0FERDhsUDBuNmk2QmdEUnVRcEIzaVBSbHBZX0tBQnhtTnVMOGFuX2hYQldGeTE0dnRld1pRYVRXQnZfUkJqM3d5Y1dWemc0bXV3NnpPcEdiSjFFMnEtZw?oc=5"
         }
       ]
     },
     {
-      "id": "5464d90b6eb6",
-      "title": "Diabetes care beyond blood sugar: Why eye health belongs in the portfolio conversation - Express Healthcare",
-      "published": "2026-11-13T11:22:30+00:00",
-      "summary": "Diabetes care beyond blood sugar: Why eye health belongs in the portfolio conversation&nbsp;&nbsp;Express HealthcareWorld Diabetes Day 2026: Experts share irreversible harm pre-diabetes causes before symptoms even appear&nbsp;&nbsp;LivemintWhy India faces a diabetic retinopathy crisis and how early care can help&nbsp;&nbsp;THE WEEKWorld Diabetes Day 2026: Not just blood sugar, why eye checkups should also be a priority&nbsp;&nbsp;The Economic TimesWorld Diabetes Day 2026: 5 diabetes and eye heal",
+      "id": "19fc29a0a30a",
+      "title": "Dr. Daniel Griffin: US Has Lost Measles Elimination as Cases Pass 5,400 and Medical Societies Break With RFK Jr. - BigGo Finance",
+      "published": "2026-11-14T20:08:00+00:00",
+      "summary": "Dr. Daniel Griffin: US Has Lost Measles Elimination as Cases Pass 5,400 and Medical Societies Break With RFK Jr.&nbsp;&nbsp;BigGo FinanceAfter 26 years, the US has lost its measles elimination status&nbsp;&nbsp;CNNU.S. loses measles-free status after continued spread of the disease: report&nbsp;&nbsp;The HinduThe US And Mexico Are On The Verge Of Forfeiting A Major Health Victory. Here's What To Know&nbsp;&nbsp;NDTVUS loses measles-free status as two more deaths reported&nbsp;&nbsp;Al Jazeera",
       "sources": [
         {
-          "name": "Express Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkt4M0ZadjlBMGtHX3R4SDJtNmxGaVlGLTdhQldpTHdmbW5paTRRUV92TDQwenlVZ1BQTVQ1ZWhIbWY1UUdWWTJ4RG5SLTMyS3BLYTdrMnFPMlBjYWM3ZzRteTB4b2FBMzZaWm56ZlMwVFg4ZlJuVGpDcGQtS2lzSUtPNjlSbXFXQnRLemp2S1U1UXQ0TXdIR0xvcFkxWkluWVBXZUZDems3V19DMU1BYVk5NF81OFdNSC15R0VFallyUXFpUV9uZDB6SQ?oc=5"
+          "name": "BigGo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LQmRjQmoyUkdyTmJFeEEzWTg4WVc5b2VNVlJ2Skc0blJPWnA0c21vN1pGd1dlZTI1VkdQdWd6c0g4UFpSRURhQXF5N0J0SWtKN0NBTmFXMmh5TTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7fbc4a85af8",
+      "title": "Postpartum Screening Reveals Cardiovascular and Kidney Risks - EMJ",
+      "published": "2026-11-10T15:05:34+00:00",
+      "summary": "Postpartum Screening Reveals Cardiovascular and Kidney Risks&nbsp;&nbsp;EMJThe hidden danger after childbirth: What new moms need to know about postpartum preeclampsia&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f62379bc3b11",
+      "title": "World Diabetes Day 2026: Experts share irreversible harm pre-diabetes causes before symptoms even appear - Livemint",
+      "published": "2026-11-14T11:25:26+00:00",
+      "summary": "World Diabetes Day 2026: Experts share irreversible harm pre-diabetes causes before symptoms even appear&nbsp;&nbsp;LivemintWhy India faces a diabetic retinopathy crisis and how early care can help&nbsp;&nbsp;THE WEEKWorld Diabetes Day 2026: Not just blood sugar, why eye checkups should also be a priority&nbsp;&nbsp;The Economic TimesWorld Diabetes Day 2026: 5 diabetes and eye health myths busted&nbsp;&nbsp;Firstpost5 Things to Know About Diabetes-Related Eye Disease Awareness Month&nbsp;&nbsp;T",
+      "sources": [
+        {
+          "name": "Livemint",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVViLVB4R0d4TnJWMWlwMVRvZndRbWh0VlNZTk94ZWx1X1BYeHhGOEo2YmJwTXc3QU1oejk5TWpMU01Pb1lra2ctX2JSWEx5MTFnY2xoQ0NSdnhyN1BWd1VPQ05KYjRUWjR4NDc0cUZNV2xlOTBBdk1OY0dVLVlxRW5vQXNWVURIb1ZqVnVHakJ0alF1bTlCb0gycjJfZDJwRzg5ZnBEdXZ6MG9teGJBb3pPamVIMHN1ZDU3VjZTUDEwRWFfMkhlaG1xeFdPa0p5b1FjMjZJcDBTYTNuNk40Mm5DemRNRnk1THRFZkw2X1BOVTh0d3fSAfsBQVVfeXFMTm96c3Y0RkVzYW9SSUd5UVZ1TzBJbEY5NUlycDZpZ0R0dkgtUWNkS0pJVUhjRjRzcXRmZW5HVHY3bmFINU5XTHpFRnh1RWQ2eWFMdVdBVkxXbFAtNDZUdUNZbDkzYUhjYmtIZGgzYXNsX0ZLbUo2VElJSXFxbjdvMV9oSk4zVzA4eGFZT0ZSQ1NFRGR2SHZZNXYySjlUVXNqTUlkbHFRdzc5OGNfZzBlWFlRbXVZdXV2ZFUwSVotRXJvNUIzSmdiQnEtVFBMNlNwVTYzemZ6NUVvRHV3cF9xSzE0NXpkQzhSTW1oMnFLZ1RYWFhGMWdqNW92RG8?oc=5"
         }
       ]
     },
@@ -91,7 +127,7 @@
       "id": "ffbc67cfdd15",
       "title": "Ebola spreads into rural areas of DRC as violence hampers response | Daily Sabah - Daily Sabah",
       "published": "2026-11-13T12:39:00+00:00",
-      "summary": "Ebola spreads into rural areas of DRC as violence hampers response | Daily Sabah&nbsp;&nbsp;Daily SabahCaught Between Killers: Ebola on One Side, Islamic State on the Other&nbsp;&nbsp;The New York TimesCongo Ebola outbreak still out of control after six months, MSF says&nbsp;&nbsp;ET HealthWorldEbola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns&nbsp;&nbsp;BBCTrump Gutted USAID. Congo Pays the Price in an Ebola Epidemic&nbsp;&nbsp;Time Magazine",
+      "summary": "Ebola spreads into rural areas of DRC as violence hampers response | Daily Sabah&nbsp;&nbsp;Daily SabahCaught Between Killers: Ebola on One Side, Islamic State on the Other&nbsp;&nbsp;The New York TimesCongo Ebola outbreak still out of control after six months, MSF says&nbsp;&nbsp;ET HealthWorldEbola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns&nbsp;&nbsp;BBCUN hails progress in Ebola response, cites insecurity as biggest challenge&nbsp;&nbsp;Arab News",
       "sources": [
         {
           "name": "Daily Sabah",
@@ -100,14 +136,14 @@
       ]
     },
     {
-      "id": "0ca6fcf97a19",
-      "title": "Cellular atlas created for the basal ganglia, a key brain region - The Hindu",
-      "published": "2026-11-13T14:07:41+00:00",
-      "summary": "Cellular atlas created for the basal ganglia, a key brain region&nbsp;&nbsp;The HinduMolecular mapping of 8 million cells brings cerebral architecture into focus&nbsp;&nbsp;Medical XpressScientists Discover a Neuron That May Play a Role in Schizophrenia&nbsp;&nbsp;National GeographicFor the first time, researchers map out the brain’s behavioral gatekeeper&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Seattle's Allen Institute helps create a ‘Rosetta Stone’ for brain cells to unlock clue",
+      "id": "4da7ced4f477",
+      "title": "Scientists develop smarter Parkinson’s gene therapy - The Shillong Times",
+      "published": "2026-11-13T21:25:13+00:00",
+      "summary": "Scientists develop smarter Parkinson’s gene therapy&nbsp;&nbsp;The Shillong TimesCellular atlas created for the basal ganglia, a key brain region&nbsp;&nbsp;The HinduScientists Discover a Neuron That May Play a Role in Schizophrenia&nbsp;&nbsp;National GeographicMolecular mapping of 8 million cells brings cerebral architecture into focus&nbsp;&nbsp;Medical XpressFor the first time, researchers map out the brain’s behavioral gatekeeper&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEV3c3NENVNCUG40Sk9IVTdDSDhCSzJNbWY5WWNPSUVvM3dOZmE0MXFIWV9sWm9aYUFGWG1GdXNGYzhYY2FpR0dYM3E2T0JsRmRhM2duSEJ1UmVrUmllX0FLOEJaV1lUZ2ctYU9tZi1CQTkxWVlLZDRab0Fqb2VQVG5aaG1PVzIwRmRENVZPZVJRTHZDdzRmX2NULWE0TV9VTFlLSmJzVjBrUTRscmg5RmhEcjFGVFZOWl9hN1hORG05QdIByAFBVV95cUxNeUNUbGVhM015SXF2V2QxRXJWaXNlLThwWFl3SG1YanJsU3lvd2JEUmhDbXJlaWxMczBYYnhWdUhzNUtPV0wxR0JKdy1GenpCVDgyeDgwdXV5cElWUVBJaW5rNDc3bGQxdm4xdmlkdGdUdDJkeWpTalM4ZDgwZkM0T255NjdpVzVpN09sTndnd2hEMmVPdmR4ZlEtMzNpU3dZUUItTGZiRU9qTWhOaGNGMlFVcGhGV1ZabWZ2TWhNUEtRWS1NNGJFQQ?oc=5"
+          "name": "The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjlmaGlxX2xjVWRjdW0tbndDWXRRUzNSbXFxdUdfMEtxQ1BRWW9VdjJYX04za3AtMEpnOUd0bUlHOWdicDFwQXZvTXhXeWpCTkFIYmtjS1VuY2RTNjFjUzBwUDl4SkwycUNDT2JNSTRHZU1YdkZfNXFwVlZYa1g4WFlYM3dkSE9JaDI4b3h0NGp3VFhLUHc?oc=5"
         }
       ]
     },
@@ -136,18 +172,6 @@
       ]
     },
     {
-      "id": "df40a0598cc2",
-      "title": "Ovarian cancer biomarker breakthrough - The Naked Scientists",
-      "published": "2026-11-14T09:14:46+00:00",
-      "summary": "Ovarian cancer biomarker breakthrough&nbsp;&nbsp;The Naked ScientistsBlood-based RNA biomarker for the early detection of ovarian cancer&nbsp;&nbsp;NatureNew blood test finds early risk for ovarian cancer&nbsp;&nbsp;The HinduRanjit Manchanda: Can Tu-Stroma Improve Early Detection of Ovarian Cancer?&nbsp;&nbsp;OncodailyExperimental blood marker detects a precursor to deadly ovarian cancer—but it is not ready for screening&nbsp;&nbsp;Medical Daily",
-      "sources": [
-        {
-          "name": "The Naked Scientists",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8f8a2472b9b9",
       "title": "Review of the European Association for the Study of Diabetes (EASD) Annual Meeting 2026 - EMJ",
       "published": "2026-11-12T07:33:42+00:00",
@@ -160,62 +184,14 @@
       ]
     },
     {
-      "id": "97a2f158a72b",
-      "title": "What Health Experts Want You to Know About Pneumococcal Pneumonia - The Boca Raton Tribune",
-      "published": "2026-11-13T19:54:00+00:00",
-      "summary": "What Health Experts Want You to Know About Pneumococcal Pneumonia&nbsp;&nbsp;The Boca Raton TribuneRajasthan to run SAANS campaign from November 12 to February 28 to prevent pneumonia in children&nbsp;&nbsp;ET GovernmentWorld Pneumonia Day: China's multi-pronged approach to respiratory health protection&nbsp;&nbsp;CGTNWorld Pneumonia Day: 7 Reasons Why The Disease Claims So Many Lives In India And How to Prevent It&nbsp;&nbsp;NDTVPneumonia Isn't Just a Childhood Disease: Who Else Is at Risk?&nbs",
+      "id": "eddbbf83a892",
+      "title": "World Pneumonia Day: Why early detection and medical access matter at sea - safety4sea",
+      "published": "2026-11-12T10:11:14+00:00",
+      "summary": "World Pneumonia Day: Why early detection and medical access matter at sea&nbsp;&nbsp;safety4seaRajasthan to run SAANS campaign from November 12 to February 28 to prevent pneumonia in children&nbsp;&nbsp;ET GovernmentWorld Pneumonia Day: 7 Reasons Why The Disease Claims So Many Lives In India And How to Prevent It&nbsp;&nbsp;NDTVExperts to discuss pneumonia prevention, diagnosis and treatment at November 14 conference&nbsp;&nbsp;ArmenpressPneumonia Isn't Just a Childhood Disease: Who Else Is at R",
       "sources": [
         {
-          "name": "The Boca Raton Tribune",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONnJHTkFMQVJrcmZQQ3ByaG0wN0FRRGNrSW56MHNWbXd2QTRXd2xiYnRMRnZCUFdYbjY1RmM1ejItV1BUMVVVV2dLcDEtd3h2M0pRc3BCcGtoTURTcjgxbVJCaTdDREdWMWgxNUIxRi1ITmNOeVdWMEdvN0RocmtyYlN4RUk3enFHcmFNTXNfS05Ga3JyTTZDNGk0MFM5V2Zoak5uVkVhSGRPaEMyOGZoQWZ3UzQ3N1gyNld5RXRXZnU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7fbc4a85af8",
-      "title": "Postpartum Screening Reveals Cardiovascular and Kidney Risks - EMJ",
-      "published": "2026-11-10T15:05:34+00:00",
-      "summary": "Postpartum Screening Reveals Cardiovascular and Kidney Risks&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7e8910aaa2c8",
-      "title": "Can Mindfulness for Insomnia Help Women With Cancer? - EMJ",
-      "published": "2026-11-12T22:23:56+00:00",
-      "summary": "Can Mindfulness for Insomnia Help Women With Cancer?&nbsp;&nbsp;EMJStudy finds mindfulness and tai chi practices eased sleep problems, fatigue, and pain after cancer...&nbsp;&nbsp;Medical DialoguesTai Chi and exercise may improve sleep in older cancer survivors&nbsp;&nbsp;News-MedicalSleep problems after cancer are common and often overlooked; a trial in older men tests Tai Chi and exercise&nbsp;&nbsp;EIN PresswireSlow hands, quiet nights? Tai chi and a matched exercise class nudged sleep about ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95af8646b4eb",
-      "title": "Hepatitis C Coinfection Linked to Liver Risk in HIV: HIV Glasgow 2026 - EMJ",
-      "published": "2026-11-13T09:19:05+00:00",
-      "summary": "Hepatitis C Coinfection Linked to Liver Risk in HIV: HIV Glasgow 2026&nbsp;&nbsp;EMJ",
-      "sources": [
-        {
-          "name": "EMJ",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3RheTJrWnJwYnlTMFAyMnJvcVZjUXhMM1JHaVRwSHR4V0NuUENTQzNpR2JLYU1sSlUyR1hBVmFabG5xQ1g1bWRwOGJ6d3I2aTdSZ0h0aTVyVXp0THdoWEtoaHJhZmxNdHFvbTF5VUhsXzVDVllZQ1BUTHpqYXE5dHZYV1FVUjFXeVJ0aFhQU0FoVXRiejRLNDFMZV9KZVRMVmg1S1NKSXJYUkxHTXhEbTJhajllNkVSVU5DdnVXUHNxNjQ4LU5UVjhqeldjMWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6cdf3cc1ecc0",
-      "title": "New COVID-19 Variant PJ.2.1: Symptoms, Spread, Vaccine Findings and Key Facts - Adda247",
-      "published": "2026-11-10T11:43:37+00:00",
-      "summary": "New COVID-19 Variant PJ.2.1: Symptoms, Spread, Vaccine Findings and Key Facts&nbsp;&nbsp;Adda247New Covid variant spreads from Canada to US, Europe and Asia: What we know about PJ.2.1&nbsp;&nbsp;The Times of IndiaGlobal spread of new Covid variant highlights lingering danger of deadly virus&nbsp;&nbsp;The NationalMinistry of Health: No cases of new coronavirus variant registered in Belarus&nbsp;&nbsp;Наша НіваWhat is known about the new COVID-19 variant spreading globally? | It has been describe",
-      "sources": [
-        {
-          "name": "Adda247",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXFEM3QyVmszZFo5R05JUWVsWHA0dlF6M1hoMTM2alREOEVCRkRheGUyN1h3UnJNdHJpb2tVdGVzNkdzQmN4eU9DWC1YeDQ5VHAwR3pUUE1lUmY4b1U5bzFrQU1CQ0xlS2ZHWTN6WUpjUDdOajhLbmg3cHBjM0dxa25PTXFzaENLUWpZWkdlZ3d6Q3pSZDkzeElvZjBPbVRHNm5DRDNaNmc1bDBVRVNJ?oc=5"
+          "name": "safety4sea",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFRGWkxwbEdvRUdTRGo3QXJ4OVZZQWVXcm9hMzJfanRhSlBoS2lrSjJjcHdHV0MtMngxZlMxZUlXcDBsSmZ0RXd3QjhkMFRHR28tT2dieDFlWHgtOFRneVU3eEp1OWZ2TE9EcUVXQW9qVFJrRFVONGZWY0Z4aWp0NW5IT3FRNk0ySzVPclJLTXIxQXVQNllIRTk0LVF6bjh3?oc=5"
         }
       ]
     },
@@ -232,6 +208,54 @@
       ]
     },
     {
+      "id": "6cdf3cc1ecc0",
+      "title": "New COVID-19 Variant PJ.2.1: Symptoms, Spread, Vaccine Findings and Key Facts - Adda247",
+      "published": "2026-11-10T11:43:37+00:00",
+      "summary": "New COVID-19 Variant PJ.2.1: Symptoms, Spread, Vaccine Findings and Key Facts&nbsp;&nbsp;Adda247New Covid variant spreads from Canada to US, Europe and Asia: What we know about PJ.2.1&nbsp;&nbsp;The Times of IndiaGlobal spread of new Covid variant highlights lingering danger of deadly virus&nbsp;&nbsp;The NationalMinistry of Health: No cases of new coronavirus variant registered in Belarus&nbsp;&nbsp;Наша НіваWhat is known about the new COVID-19 variant spreading globally? | It has been describe",
+      "sources": [
+        {
+          "name": "Adda247",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXFEM3QyVmszZFo5R05JUWVsWHA0dlF6M1hoMTM2alREOEVCRkRheGUyN1h3UnJNdHJpb2tVdGVzNkdzQmN4eU9DWC1YeDQ5VHAwR3pUUE1lUmY4b1U5bzFrQU1CQ0xlS2ZHWTN6WUpjUDdOajhLbmg3cHBjM0dxa25PTXFzaENLUWpZWkdlZ3d6Q3pSZDkzeElvZjBPbVRHNm5DRDNaNmc1bDBVRVNJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af408a754cbd",
+      "title": "CT Radiomics Predicts Outcomes After Brainstem Haemorrhage - EMJ",
+      "published": "2026-11-13T09:19:05+00:00",
+      "summary": "CT Radiomics Predicts Outcomes After Brainstem Haemorrhage&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTG5pTWplaU1kZ3lULTBMNTI1WmF5OXZRdlMwbnZaV1ZscHRSNF96ZS05RmRvWHUtNmxqVm5lVXpHUVNNRVhOci1Bd1hkWnE3US04N2hKSUlkWmZlVVA3cGw5UjhMWkx2OFJxZDEtMFpRZ2RYd0kzcDE4QWJkdDlYVlRLVGlwUC0xQ19kejV4QjVpUG5RVlp0Q01jXzgzZGdmbnNV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df40a0598cc2",
+      "title": "Ovarian cancer biomarker breakthrough - The Naked Scientists",
+      "published": "2026-11-14T09:14:46+00:00",
+      "summary": "Ovarian cancer biomarker breakthrough&nbsp;&nbsp;The Naked ScientistsBlood-based RNA biomarker for the early detection of ovarian cancer&nbsp;&nbsp;NatureNew blood test finds early risk for ovarian cancer&nbsp;&nbsp;The HinduRanjit Manchanda: Can Tu-Stroma Improve Early Detection of Ovarian Cancer?&nbsp;&nbsp;OncodailyExperimental blood marker detects a precursor to deadly ovarian cancer—but it is not ready for screening&nbsp;&nbsp;Medical Daily",
+      "sources": [
+        {
+          "name": "The Naked Scientists",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e8910aaa2c8",
+      "title": "Can Mindfulness for Insomnia Help Women With Cancer? - EMJ",
+      "published": "2026-11-12T22:23:56+00:00",
+      "summary": "Can Mindfulness for Insomnia Help Women With Cancer?&nbsp;&nbsp;EMJStudy finds mindfulness and tai chi practices eased sleep problems, fatigue, and pain after cancer...&nbsp;&nbsp;Medical DialoguesTai Chi and exercise may improve sleep in older cancer survivors&nbsp;&nbsp;News-MedicalSleep problems after cancer are common and often overlooked; a trial in older men tests Tai Chi and exercise&nbsp;&nbsp;EIN PresswireSlow hands, quiet nights? Tai chi and a matched exercise class nudged sleep about ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f2f0efd17542",
       "title": "MRI Models Predict Early Hepatocellular Carcinoma Recurrence - EMJ",
       "published": "2026-11-08T10:04:47+00:00",
@@ -244,22 +268,10 @@
       ]
     },
     {
-      "id": "56054b869bc9",
-      "title": "Kidney Compass: Platform Trials in IgA Nephropathy and Glomerular Disease - HCPLive",
-      "published": "2026-11-14T15:36:04+00:00",
-      "summary": "Kidney Compass: Platform Trials in IgA Nephropathy and Glomerular Disease&nbsp;&nbsp;HCPLive",
-      "sources": [
-        {
-          "name": "HCPLive",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDFtTzJzb2duU2UwSWwyaDhfeVdhSUxzcnhMYUZ1bDRtOWg5Z1N3bkxwdWh1cy1HeUUtdm55S21fQWU1anFENFNYQ0NvNHdiNXczQmZSZFpRQnBZMzNpdk81V2hzcmNNNHo1c0pkYlNmRTQ0b3diTG40ODBlSml3Y1FoWWtxcC1TTnNUZzZ1UFVGeDB4WjRFMEhraUJZWG8yampF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32eca53dc70d",
       "title": "From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS",
       "published": "2026-11-09T08:37:40+00:00",
-      "summary": "From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life.&nbsp;&nbsp;TRIPURA STAR NEWSPrecision Oncology Advances Will Shift Competitive Differentiation Beyond Clinical Efficacy&nbsp;&nbsp;Fitch SolutionsOptions in precision medicine, clinical trials close to home | Opinion&nbsp;&nbsp;Times Record NewsPrecision oncology advances at Rochester Regional Health expand personalized cancer treatment&nbsp;&nbsp;Rochester Business Journal",
+      "summary": "From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life.&nbsp;&nbsp;TRIPURA STAR NEWSPrecision Oncology Advances Will Shift Competitive Differentiation Beyond Clinical Efficacy&nbsp;&nbsp;Fitch SolutionsOptions in precision medicine, clinical trials close to home | Opinion&nbsp;&nbsp;Times Record NewsPrecision oncology advances at RRH expand personalized cancer treatment&nbsp;&nbsp;Rochester Business Journal",
       "sources": [
         {
           "name": "TRIPURA STAR NEWS",
@@ -268,26 +280,14 @@
       ]
     },
     {
-      "id": "0aa4719c3bd2",
-      "title": "Type 2 diabetes remission in 90 days: What an endocrinologist wants you to know - The Indian Express",
-      "published": "2026-11-14T10:30:08+00:00",
-      "summary": "Type 2 diabetes remission in 90 days: What an endocrinologist wants you to know&nbsp;&nbsp;The Indian ExpressDoctor explains if diabetes can be reversed, breaks down what remission actually means and how can weight loss help&nbsp;&nbsp;Hindustan TimesA 155K-Person Study Found Plant-Forward Eating Was Linked To Reduced Diabetes Risk&nbsp;&nbsp;Yahoo HealthStructured Exercise Interventions Improve Glycemic Control in Adults With Type 2 Diabetes&nbsp;&nbsp;Bioengineer.orgNow Streaming: New ‘Reversi",
+      "id": "63f85c90e900",
+      "title": "IIT-Kanpur researchers identify how pancreatic immune cells switch off insulin release - The Hindu",
+      "published": "2026-11-13T13:37:48+00:00",
+      "summary": "IIT-Kanpur researchers identify how pancreatic immune cells switch off insulin release&nbsp;&nbsp;The HinduIIT Kanpur Scientists Identify Rapid Macrophage Pathway That Suppresses Insulin Release within Minutes&nbsp;&nbsp;drugscontrol.orgBreakthrough at IIT Kanpur opens new direction in diabetes research&nbsp;&nbsp;BioSpectrum IndiaHow Pancreatic Immune Cells Shut Down Insulin Production&nbsp;&nbsp;OC AcademyIIT Kanpur scientists uncover molecular switch that shuts down insulin production in minu",
       "sources": [
         {
-          "name": "The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkxkM1E2alRnenVxZkpIQXlCb1pUa256Wkd3dWxuc2pWYVdlTE02YXJyUGxnb09VTUV4YVdJMWhMMHVWTFNtb3VXbHJFSFdCd1NrenRwQ0VzZGJPWHFIUWhUVnU5U1IyR0lyLW1DSWN6aDF1RkZOLUNHTDJsSTVMMlFQSWFCYjJuajRZMWZUMEtsS24zWUNCSjEwb2tNVEFHUEJIU2c3V1BnY3AxTVExQ01ucl91QUZyaThWV3VFV3VaU3MxN1dlWXFNQm8tUE9laURWemV30gHcAUFVX3lxTE95SkpYeXpnQndhSDk4Q2FsZ2xwWkRaUmdLTmRuQ2d3T0pNQThCUnFrNWFSVDZUV3F6dTlQTnpUUG5SbF80MFkzeWhJSFNoZ2NiRlR5azhkTXEzYktPeEx5eWh3NjlHZTJCNG1qbHRVcFRvYkF1T2Fna3dyQURNMUtReVF6WmF6XzB5aGg3al9XMk45T3RQUzBNdWF6MEFzYlozQWdweDN1VnZlcGV4VlhjcG1JajdQM2RNeExJdzJZZTBoNzRNUVNDVExLVTBSTWZrYUd6aFBXQTNVRGY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd7c2df5d764",
-      "title": "Scientists are at last starting to understand endometriosis | Hindustan Times - Hindustan Times",
-      "published": "2026-11-14T11:30:46+00:00",
-      "summary": "Scientists are at last starting to understand endometriosis | Hindustan Times&nbsp;&nbsp;Hindustan TimesThe Mysteries Of Endometriosis Pain, The Dangers Of Acid Reflux, And Do Whales Hold The Secret To Immortality? | Medical Notes&nbsp;&nbsp;The Black ChronicleScientists are at last starting to understand endometriosis&nbsp;&nbsp;The Economist",
-      "sources": [
-        {
-          "name": "Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjhZQjNIMi1qZElzc1g2RHZsWDcxVTJUZU9jcEpYa3B1T2NfTmtyajNhTnlJV0diMHloU1FVLUdlUG9LRDNjcDNPVHBHaW5FSTFTSWtULUhkNWRYOWNWcjNLWFVkM3JvOFpjTjhNdkhuSmdOWnVDX2tURFh5LWt0LTlwLVlST3hrLVl2MEVPd0tOU0JJSWZuNUZOdExSR3pOMXY5bTRHX0ExS1V0dHRTQ25NdEx6T0tDVkHSAb8BQVVfeXFMTjdUa0ZqTWdyWFhSWG9YVldMNGFGejdQRU1sNFp0NWdQVmNlTkJNVTI0R2RUZm4xelRDZ1liMDRWZW5iMy1ILWp4RkdTNktaLUdaNVAxc1BLeU5mTXdkYmoyN1NaYndQRWZJcXkyNTY4Z2s1TjJEdS1Ga1JaYmUtYklwZUFYRjFHb1ZKQ1A2a3J0X1dDbXRyM0h1djMycXNDOHJ2ajZUekk0MXZMeFQxczlhVkR2al8tM19PUk1zeXc?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRGdZSTVEM2hxcGZSaXNnNE9IOWhUUnN2eFlVZjlEVTB6S3NjODlnN0tGN09RV0lzd0NUUk9TUnBSTkhrc3dRaFBadVgtLWtWbVNHSTB5S3B6S0FWM3dSY29nTlEySmJtenljdlNjaW5qYnBHMXBRVGVWTFB0QTJqaGV2NzQxbDlBNGNPWTRNZE14RFFaaWRjRzNEMkpzYmg1cGtzWU5XOWpRQWRlVXpEd1BpV2NDcHFpcDdzRzFZMTFSZ29lalFSTm50MXdmUTlEX3NRUXFXTEQ5dlN5bTZIetIB5wFBVV95cUxQdkJIWVp3cDBQRzQ0ZFVoTE53RWtrTWtFUEFrTWhzZEVyZUR3YXZSZWllRGZxVk9nckxuVlpZMENZREl6VU51VkotYjYyUm50WDVyMXN2WUtHT0drdVlDTm9HaXg0VHpyeDVCNUVNcklleERVSUx2LTYzRGR4X0JWbklVaGpsUmhQWG5oR21EWlBSM1J0SmVNQW5qR2NpUHR0M3ByN3FpMUlscmV2ODRHVXQ4V0RHNlhicWxUQlFyNzhMaWdnVHBqWC10TTVaVE9XV3RjeGJUblliaTdyWHVvUzBkSDVNNGc?oc=5"
         }
       ]
     },
@@ -304,14 +304,26 @@
       ]
     },
     {
-      "id": "1b45b22b1622",
-      "title": "Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert - The Hindu",
-      "published": "2026-11-10T18:22:40+00:00",
-      "summary": "Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert&nbsp;&nbsp;The HinduKADAK Sehat Samvad News and Updates&nbsp;&nbsp;AdgullyCancer care: Bridging the gap between treatment and access&nbsp;&nbsp;Telegraph IndiaAtul Batra: Discussing Common Cancer Warning Signs and the Importance of Early Detection&nbsp;&nbsp;Oncodaily",
+      "id": "14949531ca69",
+      "title": "Kadak Sehat Samvad puts cancer screening and early diagnosis in focus on National Cancer Awareness Day - Storyboard18",
+      "published": "2026-11-10T12:24:01+00:00",
+      "summary": "Kadak Sehat Samvad puts cancer screening and early diagnosis in focus on National Cancer Awareness Day&nbsp;&nbsp;Storyboard18KADAK Sehat Samvad News and Updates&nbsp;&nbsp;AdgullyFear, stigma, financial concerns keep cancer patients from seeking timely care, says expert&nbsp;&nbsp;The HinduCancer care: Bridging the gap between treatment and access&nbsp;&nbsp;Telegraph IndiaAtul Batra: Discussing Common Cancer Warning Signs and the Importance of Early Detection&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
-          "name": "The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5"
+          "name": "Storyboard18",
+          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVmYW9zbktrUVZsY3pUaHg5TUc1LVp5S2VuR1NhMi1HcklwdWJja1VOYmxRejRyYy1vVFpfQ0FkS1Q5WUthVkVDMzJ1bkNHQnY0M29SWlNvY2xfaXp4MUVQNEI4V1p1eVh2Nk9DZUhjamVPSkxxd1VNZ2V0bUZBR1NLTUV5cC1jZWZOUXJFYjFUUlFtM0FiMHNPQWc0dTJIeDhqbmxlYm11S0dGUHc2VEEzUndtNENwbF9kX0RILUxieEVLRjNfS0p2TWVzTUs5a3gyZXNmMUtkNEI0NWJ6MlhCLWkwOUJIeDBValRKZ2k1Sy1iRmhR0gH8AUFVX3lxTFBUM3p6OUFNSEM4US1BWHZLWElqWTh3bjFhVGRTLUxVczBGRlh0MHVYRjkxUExQNXdFbUlmMGhCTFpwOWdCb24xalFJY0xRQTJBTWZvOW5VWGxiaFNqRHlObGNBVUVuSU04Sjk0Y2JPcWhrOWphSWUyS3I1QWctUF9ianJ3cWRSSnpxT0dRVjRKU0ZZdFR4clRsWlF6M0V0YVpVWjBTWU1WMkJiQ1Y2YmRfQzNmQ3NZbmIyZ1lpMkk2MGdBVGpZdm5QWmsteGNLSERjajd2WnBrSmlIaGdkN2JJUmtUQnhqU3NLREFlaVZ1cWNrSi1hVVAyYWxXUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f17a7793fb0",
+      "title": "Editor's Pick: Temporal Trends in Childhood Type 1 Diabetes in the East Midlands, UK (2010–2024) - EMJ",
+      "published": "2026-11-12T09:13:42+00:00",
+      "summary": "Editor's Pick: Temporal Trends in Childhood Type 1 Diabetes in the East Midlands, UK (2010–2024)&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmN3ZFR5Q2RXNGFhWGgxSGtBbXB2Z2hjRXladXdkbFV2bFRYNVRGcFJwb053RWt6eE9fN0RnblBHRjg4eFlKelJCZGpVMWcwNEFjUzY1eW0wbU9GZElIQnJUZFhMQWpBN19rUndsYTY5ejgxMUFvRkJEemEwTTNpY2JyNFRmalR5MGVjaTg1QTRYTm9pVlI5a2swcEZEelhFWHdDbktVZUZPU1VJU1hUNTVuejdwblBlTFV4R3RCTXZ1eEVBQS1LNkR3?oc=5"
         }
       ]
     },
@@ -340,26 +352,86 @@
       ]
     },
     {
-      "id": "aabc83797455",
-      "title": "Inflammatory Progressive Multifocal Leukoencephalopathy Without Immune Reconstitution in HIV: An Underrecognized Clinical Entity - Cureus",
-      "published": "2026-11-14T11:31:24+00:00",
-      "summary": "Inflammatory Progressive Multifocal Leukoencephalopathy Without Immune Reconstitution in HIV: An Underrecognized Clinical Entity&nbsp;&nbsp;Cureus",
+      "id": "90545b83fa60",
+      "title": "Continuous Glucose Monitoring Initiation is Associated with Reduced Mortality in Older Patients with Type 1 Diabetes: A Target Trial Emulation Study Using National Healthcare Data - EMJ",
+      "published": "2026-11-12T07:33:42+00:00",
+      "summary": "Continuous Glucose Monitoring Initiation is Associated with Reduced Mortality in Older Patients with Type 1 Diabetes: A Target Trial Emulation Study Using National Healthcare Data&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbFpyUzk4eXh2X3c0RUY1QjJKLWRGZnp3X2RTSVhaS3VxeDROaXYtVmhsaFJOOFYyUDgxNngxSlJ4bmhESGJ1VWUxWHNNZldkaDVKUF9Jc0kxSDJnb0Y5dFVjQk5NYlpQdG1WSXlSZDV2RDJMRVlEcXZxaDJnQ3BRak1VME5LY01DTV8wNFl4dU1Gc3U0NG5zSkZpcGpmMjVNRDRwVDVkSHh0aWRYUm01c0FGNGV4Mm5qalF2VlFjTmt6bzJjUmpUbFNESHFuc0ZoT2wtQ2FIdWl3dlhLSVQxVG5WaTRHVGgyc1RUMkstZGFTcktmUUpzaFVn?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcGFHYkxPV0tNckV3VlpCcF9ncmtTUWdBOEpBVS1sVTQ3dWNaWGdNR1lIY08tT29qODdUVV9jTVJyX0ZlWEg5QWF1Y0xJUEdxM1B0NDJRdnQ1TWNHQTgxemxGNHE1dkxhNjlLZlBxcS1LTmVpSGFjZGVrUjJjNTNKQ3J0MktEdlEyTVJTWVBCSFgxc21rQ0FVdjE0QURZS1lTOW5uR29yWVpKM0FrbExqd3ZzU2RINkRybjlJUmdNQWh1djd5bTNBRkN0c2ZHdGVULWtUNUxrUjlqWEUxT3RwVjVXS2plYlR0TXNhbDMtUGRTNGMwR3VTRVpZOEU4QjBrVEM4X0FwWEp4Nk5kZ3BtOFpKVDE5bXhicy1obGN0OTRDN1cxSjFkWlJfcDdnQUlmOVZhUExscE9fWnBTUDBuekh5NlJiaUphcG1RcWVOc08?oc=5"
         }
       ]
     },
     {
-      "id": "4f8d77aa4f60",
-      "title": "It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya - Oncodaily",
-      "published": "2026-11-14T08:14:00+00:00",
-      "summary": "It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya&nbsp;&nbsp;Oncodaily",
+      "id": "87ec1efaf053",
+      "title": "Hammer Toe in Diabetes: Mechanisms and Risk Assessment - EMJ",
+      "published": "2026-11-12T07:28:42+00:00",
+      "summary": "Hammer Toe in Diabetes: Mechanisms and Risk Assessment&nbsp;&nbsp;EMJ",
       "sources": [
         {
-          "name": "Oncodaily",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5"
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3o1ejh5dndwYzRic096THVHWXlZbV95a0NjZHNXc1ZnQ0gyRU9pMlU2bmVHWXJxT1ZuR3JUME0yNFhsSE5UcG1aOGh2UzF0UFp5RmtuY1lGZ2piZmNoRGlYb3JzVE5JVGFGWUJlbHdXNVA5YmdHdnRlSVphT0c3Q3ViQ3daZE5vN1YzMUtkRzVHeFlNaWNZU3NaLWlUUW5KNXFqeUprTHI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4ccd238b6e2",
+      "title": "Outcomes of a 7-Day Fruit-Based Diet on Glycaemic Control and Body Weight in Adults with Type 2 Diabetes - EMJ",
+      "published": "2026-11-12T07:28:42+00:00",
+      "summary": "Outcomes of a 7-Day Fruit-Based Diet on Glycaemic Control and Body Weight in Adults with Type 2 Diabetes&nbsp;&nbsp;EMJ",
+      "sources": [
+        {
+          "name": "EMJ",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdXR3YkZ2QXN6Nld5OU5tbmJqMDdXMVZ4VkxCTGVWS1dIVHFnOGI2UnRtanZBUDNOVUxsMVlCYkNIMi1ibFZVaDNuUEtDSlJocEVNcGZpSmJxVmRmQ21RR1NUNElvWGs1MlVKVTZqMTJtSlRiYUl0c3Y3bHFkX1NqMml0OURjN3F5UkVTV1oyLVVEVHkyR0NubGRRb3l6Vkp6QkdOWkllMl9hNy1PRVgybC0ySjhGb2JvRWhWNFFFNXBlb3l6QlhpR2FSMDFzSnJza05uRmRjVDFURHhXWFM1Q0c0R0xvMFBnRHVxdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd7c2df5d764",
+      "title": "Scientists are at last starting to understand endometriosis | Hindustan Times - Hindustan Times",
+      "published": "2026-11-14T11:30:46+00:00",
+      "summary": "Scientists are at last starting to understand endometriosis | Hindustan Times&nbsp;&nbsp;Hindustan TimesThe Mysteries Of Endometriosis Pain, The Dangers Of Acid Reflux, And Do Whales Hold The Secret To Immortality? | Medical Notes&nbsp;&nbsp;The Black ChronicleScientists are at last starting to understand endometriosis&nbsp;&nbsp;The Economist",
+      "sources": [
+        {
+          "name": "Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjhZQjNIMi1qZElzc1g2RHZsWDcxVTJUZU9jcEpYa3B1T2NfTmtyajNhTnlJV0diMHloU1FVLUdlUG9LRDNjcDNPVHBHaW5FSTFTSWtULUhkNWRYOWNWcjNLWFVkM3JvOFpjTjhNdkhuSmdOWnVDX2tURFh5LWt0LTlwLVlST3hrLVl2MEVPd0tOU0JJSWZuNUZOdExSR3pOMXY5bTRHX0ExS1V0dHRTQ25NdEx6T0tDVkHSAb8BQVVfeXFMTjdUa0ZqTWdyWFhSWG9YVldMNGFGejdQRU1sNFp0NWdQVmNlTkJNVTI0R2RUZm4xelRDZ1liMDRWZW5iMy1ILWp4RkdTNktaLUdaNVAxc1BLeU5mTXdkYmoyN1NaYndQRWZJcXkyNTY4Z2s1TjJEdS1Ga1JaYmUtYklwZUFYRjFHb1ZKQ1A2a3J0X1dDbXRyM0h1djMycXNDOHJ2ajZUekk0MXZMeFQxczlhVkR2al8tM19PUk1zeXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0aa4719c3bd2",
+      "title": "Type 2 diabetes remission in 90 days: What an endocrinologist wants you to know - The Indian Express",
+      "published": "2026-11-14T10:30:08+00:00",
+      "summary": "Type 2 diabetes remission in 90 days: What an endocrinologist wants you to know&nbsp;&nbsp;The Indian ExpressDoctor explains if diabetes can be reversed, breaks down what remission actually means and how weight loss can help&nbsp;&nbsp;Hindustan TimesA 155K-Person Study Found Plant-Forward Eating Was Linked To Reduced Diabetes Risk&nbsp;&nbsp;Yahoo HealthStructured Exercise Interventions Improve Glycemic Control in Adults With Type 2 Diabetes&nbsp;&nbsp;Bioengineer.orgNow Streaming: New ‘Reversi",
+      "sources": [
+        {
+          "name": "The Indian Express",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYkxkM1E2alRnenVxZkpIQXlCb1pUa256Wkd3dWxuc2pWYVdlTE02YXJyUGxnb09VTUV4YVdJMWhMMHVWTFNtb3VXbHJFSFdCd1NrenRwQ0VzZGJPWHFIUWhUVnU5U1IyR0lyLW1DSWN6aDF1RkZOLUNHTDJsSTVMMlFQSWFCYjJuajRZMWZUMEtsS24zWUNCSjEwb2tNVEFHUEJIU2c3V1BnY3AxTVExQ01ucl91QUZyaThWV3VFV3VaU3MxN1dlWXFNQm8tUE9laURWemV30gHcAUFVX3lxTE95SkpYeXpnQndhSDk4Q2FsZ2xwWkRaUmdLTmRuQ2d3T0pNQThCUnFrNWFSVDZUV3F6dTlQTnpUUG5SbF80MFkzeWhJSFNoZ2NiRlR5azhkTXEzYktPeEx5eWh3NjlHZTJCNG1qbHRVcFRvYkF1T2Fna3dyQURNMUtReVF6WmF6XzB5aGg3al9XMk45T3RQUzBNdWF6MEFzYlozQWdweDN1VnZlcGV4VlhjcG1JajdQM2RNeExJdzJZZTBoNzRNUVNDVExLVTBSTWZrYUd6aFBXQTNVRGY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db3c7a4a6603",
+      "title": "The scientific benefits of collagen powders, creams and bone broth - The Shillong Times",
+      "published": "2026-11-15T01:27:53+00:00",
+      "summary": "The scientific benefits of collagen powders, creams and bone broth&nbsp;&nbsp;The Shillong TimesCollagen powders, creams and bone broth: what the science says about their benefits&nbsp;&nbsp;The ConversationDoctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks&nbsp;&nbsp;AOL.comThe Collagen Craze Promises Younger-Looking Skin, But The Evidence Is Less Convincing&nbsp;&nbsp;Menafn",
+      "sources": [
+        {
+          "name": "The Shillong Times",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMC1zdU9sN21vb2MwVVRvSEF4b3V6ZHN6bTJQbWtvUW1YaW4xUFl4N292eHZxc1hnRVpwTkNPZTh2M0ZtWTB4ODhuY1FiNjktM1FXVk02T3d1dGozbnVqTjVpME5GQ3pEaFVMY1ppdVFPT0ZqZ0F0cE1Ed2RtLWdWLVprWTRkbm1xNVpZUTZUNEFkN0tHRHJKdVh2NXpOWmlueHVMcTVQcWo1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc43777d8622",
+      "title": "Yoga-Based Cardiac Rehab Improves Quality of Life in Heart Failure Trial - Patient Care Online",
+      "published": "2026-11-14T05:14:38+00:00",
+      "summary": "Yoga-Based Cardiac Rehab Improves Quality of Life in Heart Failure Trial&nbsp;&nbsp;Patient Care OnlineYoga-CaRe Improves Quality of Life and Exercise Capacity in People with Heart Failure through Yoga-Based Cardiac Rehabilitation&nbsp;&nbsp;TheWire.inYoga Helps Heart Failure Patients Walk Farther And Live Better, All-India Study Reveals&nbsp;&nbsp;NDTVYoga helps heart failure patients live better, says all-India study&nbsp;&nbsp;The Indian ExpressIndia’s Yoga Cardiac Rehab Trial at AHA 2026 Boo",
+      "sources": [
+        {
+          "name": "Patient Care Online",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW9icksyeVE3UGtDMWhzbzYzNmJYUEprbUZqbjFHQkFyRFhvQ1pDNU0wT21oX1MxaEJkUlI3eVlhZEtDVExzbjAyRWs2R0RwWld3bkF5NVdmdVl3UktjWGdacGtzRWI5Ynh0TFVZb3RRN2w1SjRnXzFmTmh4UHlxNGoxd1FIcDRTQ0ZnTXBraEVFczRnYkV1SmRpLXZYVWVoQi00TWV0ZHRUdm5wS1ZUWA?oc=5"
         }
       ]
     },
@@ -376,14 +448,14 @@
       ]
     },
     {
-      "id": "bc43777d8622",
-      "title": "Yoga-Based Cardiac Rehab Improves Quality of Life in Heart Failure Trial - Patient Care Online",
-      "published": "2026-11-14T05:14:38+00:00",
-      "summary": "Yoga-Based Cardiac Rehab Improves Quality of Life in Heart Failure Trial&nbsp;&nbsp;Patient Care OnlineYoga-CaRe Improves Quality of Life and Exercise Capacity in People with Heart Failure through Yoga-Based Cardiac Rehabilitation&nbsp;&nbsp;TheWire.inYoga Helps Heart Failure Patients Walk Farther And Live Better, All-India Study Reveals&nbsp;&nbsp;NDTVYoga helps heart failure patients live better, says all-India study&nbsp;&nbsp;The Indian ExpressYoga-based cardiac rehab improved quality of lif",
+      "id": "3c4cedf66dc2",
+      "title": "Blood-brain barrier discovery could lead to new Alzheimer's disease approach - ET HealthWorld",
+      "published": "2026-11-14T02:14:35+00:00",
+      "summary": "Blood-brain barrier discovery could lead to new Alzheimer's disease approach&nbsp;&nbsp;ET HealthWorldThe blood-brain barrier may contribute to cognitive function&nbsp;&nbsp;The EconomistLiver-derived protein helps protect brain cells and improves memory in Alzheimer's mice&nbsp;&nbsp;News-MedicalEarly Alzheimer’s has a new culprit. A brain barrier that blocks beneficial proteins&nbsp;&nbsp;ThePrintMolecular Shuttles Help Dementia Drugs Sneak Into the Brain&nbsp;&nbsp;Being Patient",
       "sources": [
         {
-          "name": "Patient Care Online",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeW9icksyeVE3UGtDMWhzbzYzNmJYUEprbUZqbjFHQkFyRFhvQ1pDNU0wT21oX1MxaEJkUlI3eVlhZEtDVExzbjAyRWs2R0RwWld3bkF5NVdmdVl3UktjWGdacGtzRWI5Ynh0TFVZb3RRN2w1SjRnXzFmTmh4UHlxNGoxd1FIcDRTQ0ZnTXBraEVFczRnYkV1SmRpLXZYVWVoQi00TWV0ZHRUdm5wS1ZUWA?oc=5"
+          "name": "ET HealthWorld",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk4xSUU2M3ZKV1Q3WUl4RTlJbXZ5V0NzOHU1ZFBkdlpLZHQtRVl5TlVyazhVSC1oSGdyM1RUTWdjbHVNdWxSU0oySXg1QlF0cGN6elVSaVNaeWVibHB5OTlIcmlFZnFVZE8zRzRuRHdGTGFIaW1UTlJ2c2lWSXZhbGVHTGZQaW5RRE9aX2dkdldpTVp3SENHaXk3akpIM0xidy1uSmRCMy0zOTZrUHlDcG1HM1dKLXJXLXlKNVRfbVdMOGswSE11TmVadXU1b2EwWmdpUlRodFdPdU3SAeABQVVfeXFMUDZVLVlLN2VQNEVoR3ZWMDRjdGcwTWpvR1NnMDU0VndTTzVwa0tENW5CdjE5b2s2OTJsZG9KY1UwcUNoQjZHMzRVTE1DN2NhR01iZWxTVm83V2dod2R3YkJOZXVmaG1NSG1VODhzUVhzWVVlYnF2eG1TdHdIcXQ1MTdZa1ZvOE1Md0dkb1dMZ0tQVWtNSjQ0cGJZRWpoSVh0SWtMeTZIQVl0aVMzcHBJSHlLblNNaGhpZ3M2cklXaGZOSVBYVWdXcEp6dlFVb0EwSmw0UzYycjdqcVZiOGg4emk?oc=5"
         }
       ]
     },
@@ -400,18 +472,6 @@
       ]
     },
     {
-      "id": "da6c535f4d22",
-      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms - Science Daily",
-      "published": "2026-11-14T12:50:46+00:00",
-      "summary": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms&nbsp;&nbsp;Science DailyAlzheimer’s is not just a brain disease. Early signs could emerge in muscles, motor nerves&nbsp;&nbsp;ThePrintBBC doctor says dementia study found symptom starting in ear 10 years before memory loss&nbsp;&nbsp;The MirrorResearchers pinpoint earlier evidence of Alzheimer’s&nbsp;&nbsp;EurekAlert!Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Be",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhVGxjTnpfbGlWQm4xV2tOUTl2MDZXZjYyX3oybXlyR0dEUm1xQmMtcEdTQW1sMER6STJxRmZ5SmcxNUFYTlhqbGNFUy1IV3FtdkRNTzNSQml0Qnh1LXRfMzJ1SzFsSW84SEhnM2hRYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a3e6131cb66b",
       "title": "AHA: Cleaner Home Air Linked to Fewer Blood Sugar Spikes in Adults With Prediabetes - Gastroenterology Advisor",
       "published": "2026-11-13T05:00:00+00:00",
@@ -420,6 +480,30 @@
         {
           "name": "Gastroenterology Advisor",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdHN6cngtcnNkdXN5bDRGQW5iNHdzMk5TeFoxRXhlRUI5S0dZNGc2ekVMSmVWMld5TFZOSGF6QzZBZzVQM1p1ZWV5VkhPVzZvcnN1b3lMSW9vdFhxNWNwNXZKNG8xWkZNYWxyMjJCMXhoTmV5UkZ5a3IzV2g0b0lYTVIzZlV6dUw2UWtRTEVJSU43QzZXbFlpTnU5alJhdVZYbmFzMTU1VU13ZGU0ajZKeld1aFNFMmRnSEhiYTEtdGNia2ZOTDdv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f8d77aa4f60",
+      "title": "It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya - Oncodaily",
+      "published": "2026-11-14T08:14:00+00:00",
+      "summary": "It Is Time for Collaboration, Not Fragmentation: Why Colorectal Cancer Screening Must Become a Shared Priority in Kenya&nbsp;&nbsp;Oncodaily",
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03RE1kTWwwN200Y3FHWEFCcjdoazc2UHhnYU03eEZkQ3Z6RUVZcGdSVVpPUDFHNzAzX1YtclRrOWFXU0F1Yjdud211VU9CWHVDSlQ5Nkdvd1ZHaGl6NDhjMWJsTzRFS2d4SEhEU2FZMjQ3RV85LUJLaDc5VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56054b869bc9",
+      "title": "Kidney Compass: Platform Trials in IgA Nephropathy and Glomerular Disease - HCPLive",
+      "published": "2026-11-14T15:36:04+00:00",
+      "summary": "Kidney Compass: Platform Trials in IgA Nephropathy and Glomerular Disease&nbsp;&nbsp;HCPLive",
+      "sources": [
+        {
+          "name": "HCPLive",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDFtTzJzb2duU2UwSWwyaDhfeVdhSUxzcnhMYUZ1bDRtOWg5Z1N3bkxwdWh1cy1HeUUtdm55S21fQWU1anFENFNYQ0NvNHdiNXczQmZSZFpRQnBZMzNpdk81V2hzcmNNNHo1c0pkYlNmRTQ0b3diTG40ODBlSml3Y1FoWWtxcC1TTnNUZzZ1UFVGeDB4WjRFMEhraUJZWG8yampF?oc=5"
         }
       ]
     },
@@ -448,6 +532,30 @@
       ]
     },
     {
+      "id": "b8e19720ff62",
+      "title": "How to help someone whose thinking seems delusional - Psyche",
+      "published": "2026-11-10T11:00:00+00:00",
+      "summary": "How to help someone whose thinking seems delusional&nbsp;&nbsp;Psyche",
+      "sources": [
+        {
+          "name": "Psyche",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWllDVjMySjZfUVk1aEZ2WnZxeEhDRV94eDhZazRCcnhNYVNzdkI5ZlowUmdhUEpTeldYcmMtSVV3YTVfQXUxWjBKRnk1RHd4Rnpmc2JwNnRBUEJQWGh3M0VQNjlnU0QzRzBQTFg0RVd3ZVd6QXRjVU8zTmNfcGdPX0p3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88a7d3effb03",
+      "title": "Three Investigational Therapies Get UK Innovation Passports - Medscape",
+      "published": "2026-11-10T09:24:22+00:00",
+      "summary": "Three Investigational Therapies Get UK Innovation Passports&nbsp;&nbsp;MedscapeInvestigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway&nbsp;&nbsp;GOV.UKExperimental Huntington’s drug selected for UK access pathway&nbsp;&nbsp;NR TimesMHRA grants Innovation Passports to three novel drugs&nbsp;&nbsp;pharmaphorumMHRA awards Innovation Passports to three investigational medicines&nbsp;&nbsp;European",
+      "sources": [
+        {
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "90fd172b02ab",
       "title": "New food pyramid puts plant-based foods first: What Indians should eat differently - The Indian Express",
       "published": "2026-11-13T16:30:45+00:00",
@@ -463,7 +571,7 @@
       "id": "88cd9ef07571",
       "title": "GLP-1 RAs Outperform Metformin for Prediabetes and Obesity - The Cardiology Advisor",
       "published": "2026-11-13T05:00:00+00:00",
-      "summary": "GLP-1 RAs Outperform Metformin for Prediabetes and Obesity&nbsp;&nbsp;The Cardiology AdvisorGLP-1 meds linked to lower diabetes, heart risks than standard diabetes prevention med: Study&nbsp;&nbsp;Medical DialoguesNCKU Hospital study links GLP-1 drugs to lower cardiovascular risk&nbsp;&nbsp;Taiwan NewsOzempic and Mounjaro may reduce diabetes risk by up to 31%, study of over 250 patients finds&nbsp;&nbsp;Gazeta Express",
+      "summary": "GLP-1 RAs Outperform Metformin for Prediabetes and Obesity&nbsp;&nbsp;The Cardiology AdvisorGLP-1 drugs beat metformin across every measure in prediabetes study&nbsp;&nbsp;Benefits and Pensions MonitorOzempic and Mounjaro may reduce diabetes risk by up to 31%, study of over 250 patients finds&nbsp;&nbsp;Gazeta Express",
       "sources": [
         {
           "name": "The Cardiology Advisor",
@@ -472,86 +580,38 @@
       ]
     },
     {
-      "id": "a9b8f8942dfb",
-      "title": "Early Alzheimer’s has a new culprit. A brain barrier that blocks beneficial proteins - ThePrint",
-      "published": "2026-11-13T10:29:12+00:00",
-      "summary": "Early Alzheimer’s has a new culprit. A brain barrier that blocks beneficial proteins&nbsp;&nbsp;ThePrintThe blood-brain barrier may contribute to cognitive function&nbsp;&nbsp;The EconomistBlood-brain barrier discovery could lead to new Alzheimer's disease approach&nbsp;&nbsp;ET HealthWorldLiver-derived protein helps protect brain cells and improves memory in Alzheimer's mice&nbsp;&nbsp;News-MedicalMolecular Shuttles Help Dementia Drugs Sneak Into the Brain&nbsp;&nbsp;Being Patient",
+      "id": "3720a7fa0bcf",
+      "title": "Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials - The Hindu",
+      "published": "2026-11-13T07:00:17+00:00",
+      "summary": "Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials&nbsp;&nbsp;The HinduKnee osteoarthritis: 2 trials link new weight-loss drug to pain relief&nbsp;&nbsp;Medical News TodayLilly reports promising 52-week results from TOGETHER-PsA trial in PsA&nbsp;&nbsp;Clinical Trials ArenaPowerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis&nbsp;&nbsp;SciTechDailyNew weight-loss drug wipes out chronic knee pain in some patients, researche",
       "sources": [
         {
-          "name": "ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVIxZTVJX1BGNml6cGlUM2pOWHY1RFEtUG1ZcjlFSjJwdTh3eWRLT0Yzb1Myc3RXOXRwV2ZGTUxNemFPYkI0XzlMQnJ6V0NOMFd4WE5BLWwtQ244RTFGdnVqak5zVVZZREVOWXJWOW1VazdnVE1JLUoyaHZlaTFXQWFuRmFLYzhfTEVMams4N2xVZ3c5R0p4TS1VcnVBdy1VZG1DVNIBqgFBVV95cUxOTEV3ZS1SbWwxWk84cWx0U2g5c2E2VnlubmtsWndYQ0tNOThrcTBIeFExajc3MU1BVURnbU5Eck16cWRIQWwwM2FMX3RqQkVsU2JmN0stV2pNWXRlN0U5S3R2LUFhTktqYlVRcHJIeFNBR3RwUGxYWjlkU1o0dDdhc0NPbTBITXQ5VDVhWENfOWhDb0FXM1QzX3dDQVNiaExJOVh4Z1F6ZF9lZw?oc=5"
+          "name": "The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTzJaM1lpalNCT3M2cjJNQVgwckdIa25TNW1YYVF6ZUpDYW9YeWcyOWR3VmtaY2ZLQW5mTEQxbFJZU1E3QXIyWW41bF9CVjBTVHJQRkRVOFQxZkhfNHBOYmFXVWRfbUpOUXd1eXJCV1hvX1F6d25rMjZCZDFlUE00STF1M3FVVDFyc24yRnZqUHdRVUxmejNBdkJNYUVCUW9ES25sdW92TTlEdUNObFdNZllBSVhndHFaYlR6dnlxcm9RVDl6b0hnRHFZNlNEWThFRzdBUzFUc3BrVGFyQ0FNcHFiUDg4MUXSAe4BQVVfeXFMTnZKWnpLa3dTOGdqc1k5TW1uZE5fME9hdkhXSVBSQ3ZhRVhfeWphOHdWalVvbDZQNk9TdkM2bFJLRXJOWGhvQ3M1c0tIdzhFMkVxV3p5QUY2ZWx1dTZheDlXSHY1a1A2akhfMEFtaFZKN21sQjE0RHpKSm54eWhOMFBiYXllbFhYRXFFaWZzUHA5SWEwM1VCNGNLcTI1RU0tdkk3YVo1cVBmODI4RFhUTnVSZkoxMGRYXzZqcWU3b1JzeUZUZ2RLVXBWUm5yRm40STZtdFE4NDRlRGNJSF9IWDN0b3lyeFpqSDV0YnFWZw?oc=5"
         }
       ]
     },
     {
-      "id": "b8e19720ff62",
-      "title": "How to help someone whose thinking seems delusional - Psyche",
-      "published": "2026-11-10T11:00:00+00:00",
-      "summary": "How to help someone whose thinking seems delusional&nbsp;&nbsp;Psyche",
+      "id": "7809d85a9d0a",
+      "title": "Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com - The Times of India",
+      "published": "2026-11-13T13:17:00+00:00",
+      "summary": "Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com&nbsp;&nbsp;The Times of IndiaViral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller, doctors warn of risks&nbsp;&nbsp;Fox NewsHeightmaxxing Trend Row: Why Teenagers Are Turning To Cancer Drugs To Get Taller, Oncologist Explains The Risks&nbsp;&nbsp;OnlymyhealthLocal experts warn of ‘heightmaxxing’ trend, teens taking cancer meds to grow taller&nbsp;&nbsp;YahooOn the Rad",
       "sources": [
         {
-          "name": "Psyche",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWllDVjMySjZfUVk1aEZ2WnZxeEhDRV94eDhZazRCcnhNYVNzdkI5ZlowUmdhUEpTeldYcmMtSVV3YTVfQXUxWjBKRnk1RHd4Rnpmc2JwNnRBUEJQWGh3M0VQNjlnU0QzRzBQTFg0RVd3ZVd6QXRjVU8zTmNfcGdPX0p3?oc=5"
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5"
         }
       ]
     },
     {
-      "id": "02de1c63edc0",
-      "title": "Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway - Pharmabiz.com",
-      "published": "2026-11-10T05:31:02+00:00",
-      "summary": "Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway&nbsp;&nbsp;Pharmabiz.comSee more headlines and perspectives on Google News",
+      "id": "aabc83797455",
+      "title": "Inflammatory Progressive Multifocal Leukoencephalopathy Without Immune Reconstitution in HIV: An Underrecognized Clinical Entity - Cureus",
+      "published": "2026-11-14T11:31:24+00:00",
+      "summary": "Inflammatory Progressive Multifocal Leukoencephalopathy Without Immune Reconstitution in HIV: An Underrecognized Clinical Entity&nbsp;&nbsp;Cureus",
       "sources": [
         {
-          "name": "Pharmabiz.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6efdeb243ceb",
-      "title": "Stanford starts five-year project to build predictive AI models of the human brain - EdTech Innovation Hub",
-      "published": "2026-11-13T00:41:34+00:00",
-      "summary": "Stanford starts five-year project to build predictive AI models of the human brain&nbsp;&nbsp;EdTech Innovation HubFuture of AI brain models sparks debate&nbsp;&nbsp;The TransmitterUsing AI to accelerate neuroscience research&nbsp;&nbsp;Medical XpressJNS Publishes Nov 11 Paper Establishing AI Brain Models Predict Well but Cannot Explain Brains&nbsp;&nbsp;Tech TimesUniversity launches project to develop predictive models of the brain&nbsp;&nbsp;The Stanford Daily",
-      "sources": [
-        {
-          "name": "EdTech Innovation Hub",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEZHUWNPU21jX2FkNUJITF9qYjNlVzNqMmlGUjdkdDRjamhBWm1Zbjg2aWVNVjhzS09FcjdFUHBoenBtejE4dWpUVzI3VXVpM2JyUFduVy10b19jZnNjVjdUVk1aQTNIQWhMMGlBaTFlek9HWElmUjhWUzhEZkVfb0FjU2xkZGpYYU44VDVSMlBQRWdxNkwxTWJzRDZ5MkF1SEtBYnZZcTh2VGdVWHNsT25Xc05IVlZKV05BQUhMVDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95cbba9292a0",
-      "title": "Retatrutide Improves Knee OA Pain, Physical Function - Medscape",
-      "published": "2026-11-09T11:25:34+00:00",
-      "summary": "Retatrutide Improves Knee OA Pain, Physical Function&nbsp;&nbsp;MedscapeExperimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials&nbsp;&nbsp;The HinduKnee osteoarthritis: 2 trials link new weight-loss drug to pain relief&nbsp;&nbsp;Medical News TodayLilly reports promising 52-week results from TOGETHER-PsA trial in PsA&nbsp;&nbsp;Clinical Trials ArenaPowerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd3p1emJDT0JCUkc1VHNmc2duNnN5bFJmTnpZS0pIYVRVREl5aHA5MlNUUm11UE9lUHR0MDZYaU5OdEVUUGI5M1VWRERoYTktNkFOd3Y1ZGN3OXJjMF9INEJmTGd4a2Z1dWlnMnFzOVRpdXlIbVhMZjBiajM3RThTWjJQQUU1M3VPUTJ1WmRpRXNnVHZZMXZfRXRZelpBdFdQU0ljbUowWmo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2d8b8d0749c",
-      "title": "WHO Updates Global Catalogue for TB Drug Resistance - Voice of Healthcare",
-      "published": "2026-11-11T09:00:00+00:00",
-      "summary": "WHO Updates Global Catalogue for TB Drug Resistance&nbsp;&nbsp;Voice of HealthcareWHO updates global catalogue for interpreting tuberculosis drug resistance mutations&nbsp;&nbsp;World Health Organization (WHO)Treatment Action Group | Updated Activist’s Guide to TB Diagnostic Tools 2026&nbsp;&nbsp;European AIDS Treatment GroupWHO Releases Expanded Global Catalogue To Improve Detection Of Drug-Resistant Tuberculosis&nbsp;&nbsp;News Mobile",
-      "sources": [
-        {
-          "name": "Voice of Healthcare",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcnBBajNYNFY0c2lpZnpvZm9PTm1iNGRTQ0hLY2hnamFSVmJaREs2bEVJWDQyWDhrZ19zRmh2ZWk1Sm4xeWxMN1hMdTlwRUtSeTJxLVBNcFlVd3d2X2xyck1wNmxBaWFoTlpMZkxhMGtHRlAwY2lLc2FMcDRzRDRKMm9EZ3E1NExxM1pHV2NyWlByTEdUNlZiUUtKVkw0ak4xeWJoYjlxYzR0Q3BaakpRMEJlMThFLWx6TUlMbTczUEx4Z25Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0435e005b2fb",
-      "title": "COVID-19 Vaccines Paid Off Up to $809 Per Dollar Spent in 2021 - Drug Topics",
-      "published": "2026-11-14T16:02:09+00:00",
-      "summary": "COVID-19 Vaccines Paid Off Up to $809 Per Dollar Spent in 2021&nbsp;&nbsp;Drug TopicsAnalysis: COVID vaccines generated up to $809 in economic benefits for every dollar spent&nbsp;&nbsp;CIDRAP",
-      "sources": [
-        {
-          "name": "Drug Topics",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVFuY1l2clJnMXRMeXhob3kwX3hVV2NNdGZYX0pzejRRNmNSZmRYZVA2OXFhalZZa1ZlamxycTQzRWprVUxGcVhkX2tfZTI4TlpVdGNucmdHU094eTJ5Z3JySldJTEZsODB2c3Qwdm10YjhHbWVoeTlSaFIwa0FwWmpTbGJtdkFFaWowR20zdFViVkdleFF1bw?oc=5"
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbFpyUzk4eXh2X3c0RUY1QjJKLWRGZnp3X2RTSVhaS3VxeDROaXYtVmhsaFJOOFYyUDgxNngxSlJ4bmhESGJ1VWUxWHNNZldkaDVKUF9Jc0kxSDJnb0Y5dFVjQk5NYlpQdG1WSXlSZDV2RDJMRVlEcXZxaDJnQ3BRak1VME5LY01DTV8wNFl4dU1Gc3U0NG5zSkZpcGpmMjVNRDRwVDVkSHh0aWRYUm01c0FGNGV4Mm5qalF2VlFjTmt6bzJjUmpUbFNESHFuc0ZoT2wtQ2FIdWl3dlhLSVQxVG5WaTRHVGgyc1RUMkstZGFTcktmUUpzaFVn?oc=5"
         }
       ]
     },
@@ -568,14 +628,26 @@
       ]
     },
     {
-      "id": "17aca583ca01",
-      "title": "This one single habit at night was linked to a 20 to 30 per cent higher rate of fatty liver disease and c - The Times of India",
-      "published": "2026-11-13T05:32:00+00:00",
-      "summary": "This one single habit at night was linked to a 20 to 30 per cent higher rate of fatty liver disease and c&nbsp;&nbsp;The Times of IndiaLater Meal Timing and Heavy Dinners Linked to Adolescent Fatty Liver Disease&nbsp;&nbsp;Bioengineer.orgLate-night snacking could come with an unexpected health risk&nbsp;&nbsp;ConsumerAffairsLate-night eating may raise metabolic risks for people with obesity&nbsp;&nbsp;BGNESDoes eating late really slow your metabolism? The clue came while people slept&nbsp;&nbsp;",
+      "id": "eea9b6030c99",
+      "title": "New brain-body connections expand understanding of Alzheimer's disease - Medical Xpress",
+      "published": "2026-11-14T17:00:01+00:00",
+      "summary": "New brain-body connections expand understanding of Alzheimer's disease&nbsp;&nbsp;Medical XpressAlzheimer’s is not just a brain disease. Early signs could emerge in muscles, motor nerves&nbsp;&nbsp;ThePrintBBC doctor says dementia study found symptom starting in ear 10 years before memory loss&nbsp;&nbsp;The MirrorResearchers pinpoint earlier evidence of Alzheimer’s&nbsp;&nbsp;EurekAlert!What Helps Some Brains Resist Cognitive Decline? New Study Offers Clues&nbsp;&nbsp;MindBodyGreen",
       "sources": [
         {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOMG9NT2ZnQ1FKX2hvS09ZVGU0VnM0b08xU3BjSjFjQ0NBcTExUjg0SXVLNGdDRkpKa2ptMW9FT2NBT09iUTR5bENvVzJ4Y0NVUVhjTFVpb0ktN1kzc3Z1NkhkVmpNX2diUXo5WFg1LWNXV2pYQXZlN0JpeVFQWGFJbU1NVmxBbHBCSEJDS01vVF9TR2lPS0plY0lqN2R5Vnh6VjZIWWJyMG9WM2lsMjJiYmV1Tk81Z01TZGtuME5qRzJrSTlGRnRGbjNaUm9PMVpHelRaeGxISHpXQjBVZGxrcHR0VmhjQnEybnRyTHBVLTI0cWFNdmI2X25HcWsyTXpZVGJkSGRTX1JKUTJSVzB3emd3TTNjdHUtMGFLeEVtSFNsbGpWTTNNMTF1UU9lMlJfdW1zbUlWQWg0djZTZ1dzcW04U2tyZmd3b3paNFhaLXdFWnJ6c1ZSTnVmSk9hZThvSFBOWWxjbW5tTmdzbllsRUlnWnh0X25GdHMxdXRQWmhOenJMY1pNbVF30gGPA0FVX3lxTFA1QXN3bXBKSzgtZlhhQXFOT1drMEtPS0Z5Q1ZfS0hQZFlUbkktaF93alJQU25YSzR4b21VV2JaWVRna2I5SllEYlJWUjd3WW5CcURfNEZhcHdTQjllbUYzZHRDT2JYYjhFX3paZDR6cERRVzNtUDZoc2hPVHVYdXVDNGstdmFjckV2RGFJUDJJcDJMUDBmdVhOaU95VnlleEpYeG1raFdtdGpPN05yQVdHOWJKaHI0WW9aTWN2T3lvXzZHNUFPamI3V1lkV295Mm00elNIR3gtdkFKbHlWV1d0SUJfM3JCSk1ONS1uOF9SaW1nVkhhcUxDdjhEZURCZ0gxNGVyeTJrekVIaTJhODJhRnJhYXdlSS1KM0lSNUVPdU9zbmJfRnRIczFmZGZzTHpobXhqTldHN3NhTEN4NnRjZFo5eUVNSkJaV0hjQkZOUGVaTi1uQ2hNN0RjdzdDc212NmVOeVZUc3VUZHk5WTZVNDlTVjRDWTl4MEgzRWRISTgxa2hnenNFaEU1UTdwWQ?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CR0hXM3N2WmlfV3JQSUctR2JWdUFqbDJYM0E2QmRCX191eDJLZk43Ymx5UTFJaWZEaG5iWEh6b2dHbV9yNE5XVGJkbWJTTDZvSjljMFI1cGdnY0RJVVhFUjVOd3JQWTV1N2ZRLXJETWx0aGpVZ1BPM3BEcmg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0435e005b2fb",
+      "title": "COVID-19 Vaccines Paid Off Up to $809 Per Dollar Spent in 2021 - Drug Topics",
+      "published": "2026-11-14T17:32:53+00:00",
+      "summary": "COVID-19 Vaccines Paid Off Up to $809 Per Dollar Spent in 2021&nbsp;&nbsp;Drug TopicsAnalysis: COVID vaccines generated up to $809 in economic benefits for every dollar spent&nbsp;&nbsp;CIDRAP",
+      "sources": [
+        {
+          "name": "Drug Topics",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcVFuY1l2clJnMXRMeXhob3kwX3hVV2NNdGZYX0pzejRRNmNSZmRYZVA2OXFhalZZa1ZlamxycTQzRWprVUxGcVhkX2tfZTI4TlpVdGNucmdHU094eTJ5Z3JySldJTEZsODB2c3Qwdm10YjhHbWVoeTlSaFIwa0FwWmpTbGJtdkFFaWowR20zdFViVkdleFF1bw?oc=5"
         }
       ]
     },
@@ -592,18 +664,6 @@
       ]
     },
     {
-      "id": "7809d85a9d0a",
-      "title": "Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com - The Times of India",
-      "published": "2026-11-13T13:17:00+00:00",
-      "summary": "Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com&nbsp;&nbsp;The Times of IndiaSee more headlines and perspectives on Google News",
-      "sources": [
-        {
-          "name": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7493dc0bd4f1",
       "title": "Vaccines may prevent cancers, study finds - WBUR",
       "published": "2026-11-13T17:03:42+00:00",
@@ -612,6 +672,30 @@
         {
           "name": "WBUR",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17aca583ca01",
+      "title": "This one single habit at night was linked to a 20 to 30 per cent higher rate of fatty liver disease and c - The Times of India",
+      "published": "2026-11-13T05:32:00+00:00",
+      "summary": "This one single habit at night was linked to a 20 to 30 per cent higher rate of fatty liver disease and c&nbsp;&nbsp;The Times of IndiaLater Meal Timing and Heavy Dinners Linked to Adolescent Fatty Liver Disease&nbsp;&nbsp;Bioengineer.orgLate-night snacking could come with an unexpected health risk&nbsp;&nbsp;ConsumerAffairsLate-night eating may raise metabolic risks for people with obesity&nbsp;&nbsp;BGNESDoes eating late really slow your metabolism? The clue came while people slept&nbsp;&nbsp;",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOMG9NT2ZnQ1FKX2hvS09ZVGU0VnM0b08xU3BjSjFjQ0NBcTExUjg0SXVLNGdDRkpKa2ptMW9FT2NBT09iUTR5bENvVzJ4Y0NVUVhjTFVpb0ktN1kzc3Z1NkhkVmpNX2diUXo5WFg1LWNXV2pYQXZlN0JpeVFQWGFJbU1NVmxBbHBCSEJDS01vVF9TR2lPS0plY0lqN2R5Vnh6VjZIWWJyMG9WM2lsMjJiYmV1Tk81Z01TZGtuME5qRzJrSTlGRnRGbjNaUm9PMVpHelRaeGxISHpXQjBVZGxrcHR0VmhjQnEybnRyTHBVLTI0cWFNdmI2X25HcWsyTXpZVGJkSGRTX1JKUTJSVzB3emd3TTNjdHUtMGFLeEVtSFNsbGpWTTNNMTF1UU9lMlJfdW1zbUlWQWg0djZTZ1dzcW04U2tyZmd3b3paNFhaLXdFWnJ6c1ZSTnVmSk9hZThvSFBOWWxjbW5tTmdzbllsRUlnWnh0X25GdHMxdXRQWmhOenJMY1pNbVF30gGPA0FVX3lxTFA1QXN3bXBKSzgtZlhhQXFOT1drMEtPS0Z5Q1ZfS0hQZFlUbkktaF93alJQU25YSzR4b21VV2JaWVRna2I5SllEYlJWUjd3WW5CcURfNEZhcHdTQjllbUYzZHRDT2JYYjhFX3paZDR6cERRVzNtUDZoc2hPVHVYdXVDNGstdmFjckV2RGFJUDJJcDJMUDBmdVhOaU95VnlleEpYeG1raFdtdGpPN05yQVdHOWJKaHI0WW9aTWN2T3lvXzZHNUFPamI3V1lkV295Mm00elNIR3gtdkFKbHlWV1d0SUJfM3JCSk1ONS1uOF9SaW1nVkhhcUxDdjhEZURCZ0gxNGVyeTJrekVIaTJhODJhRnJhYXdlSS1KM0lSNUVPdU9zbmJfRnRIczFmZGZzTHpobXhqTldHN3NhTEN4NnRjZFo5eUVNSkJaV0hjQkZOUGVaTi1uQ2hNN0RjdzdDc212NmVOeVZUc3VUZHk5WTZVNDlTVjRDWTl4MEgzRWRISTgxa2hnenNFaEU1UTdwWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36b0e844e0cf",
+      "title": "AI discovers a hidden heart signal that could predict sudden death - Science Daily",
+      "published": "2026-11-15T01:06:49+00:00",
+      "summary": "AI discovers a hidden heart signal that could predict sudden death&nbsp;&nbsp;Science DailyAI Heart MRI Measurements Improve Mortality Prediction&nbsp;&nbsp;EMJAI Heart MRI Readings Edged Out Clinicians in Predicting Death Risk Among 27,382 Patients, but Benefit Is Unproven&nbsp;&nbsp;Medical Daily",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GMWxBeEhtR2JhRG1PRkhad0NBbGNkT18tbTZIYVRFdkdHYm1HN3BRTGE4anpTRlljek1tNUliM0Zwc0NfSi04Z1J2Sk51Nm9vSF9IMm1aWGs0bERDY3I3ejZ0ekpiaHBNYWFxSDJB?oc=5"
         }
       ]
     },
@@ -628,26 +712,26 @@
       ]
     },
     {
-      "id": "2c85e5568bd8",
-      "title": "More Than 1 in 4 Americans Misrepresent Symptoms to Get Antibiotics - Pulmonology Advisor",
-      "published": "2026-11-13T05:00:00+00:00",
-      "summary": "More Than 1 in 4 Americans Misrepresent Symptoms to Get Antibiotics&nbsp;&nbsp;Pulmonology AdvisorWhat Happens When Patients Lie to Get Antibiotics?&nbsp;&nbsp;MedscapeMany Americans exaggerate or make up symptoms to obtain antibiotics&nbsp;&nbsp;Technology OrgPatients faking symptoms to get antibiotics as drug resistance grows&nbsp;&nbsp;YahooWhy are some patients lying to their doctors to get antibiotics?&nbsp;&nbsp;News-Medical",
+      "id": "4c3685d92574",
+      "title": "What Happens When Patients Lie to Get Antibiotics? - Medscape",
+      "published": "2026-11-13T07:41:14+00:00",
+      "summary": "What Happens When Patients Lie to Get Antibiotics?&nbsp;&nbsp;MedscapeMany Americans exaggerate or make up symptoms to obtain antibiotics&nbsp;&nbsp;Technology OrgPatients faking symptoms to get antibiotics as drug resistance grows&nbsp;&nbsp;YahooWhy are some patients lying to their doctors to get antibiotics?&nbsp;&nbsp;News-Medical",
       "sources": [
         {
-          "name": "Pulmonology Advisor",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHJ0aFJUNjZGUVdDbUY0T3U5ZC1TODdPRDFHOXcwTy1QaW9kbXNzb0RXdDZRXzJ5X1RLX0dtaGEzRU9jWl9QTWtsTFpVc1BuNEJmcWdkSjlvLXMxSVYtTnROd3dITXprWXRLTlM2dTRmOU1NNUlIbHluaDRtVkhGTlE0ZU5SaXJ6X3pfZUpydVlNaVViVXRXaG5lZlVMOV9tLXV5Njhld3FuVm5u?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMHVQZ0VIR2EzdXljcTZySlhZTDFldUdsMmpLZ2hfT09QT3JVTUdTZWVvbE95SWZVc2NBX3JfYWZQZGtZcWpQbzUtYlZWNWYxUFhia1ItTHhzenRmSk1rd05VZEJjVkpqVm01bnZJQm5WUnNROWVHeWUxWUZhUjlKb3FHendIOXBTTGFvUUJ2WWtTdzQ2VDRDQml5aGQ?oc=5"
         }
       ]
     },
     {
-      "id": "108a453e66d9",
-      "title": "Weight-Loss Surgery May Yield Long-Term Diabetes Remission - Medscape",
-      "published": "2026-11-10T11:05:22+00:00",
-      "summary": "Weight-Loss Surgery May Yield Long-Term Diabetes Remission&nbsp;&nbsp;Medscape",
+      "id": "55a9829058de",
+      "title": "What Using Protein Powder Every Day Does to Your Body, According to Nutrition Experts - Martha Stewart",
+      "published": "2026-11-14T15:00:00+00:00",
+      "summary": "What Using Protein Powder Every Day Does to Your Body, According to Nutrition Experts&nbsp;&nbsp;Martha StewartA gymgoer’s guide to protein consumption, led by UW expert, students&nbsp;&nbsp;The Badger HeraldBodybuilder Eddie Abbew Calls Whey Protein a Scam: “Just Eat a F*cking Egg”&nbsp;&nbsp;Generation IronEating more protein: 6 common diet mistakes to avoid and what to do instead&nbsp;&nbsp;Hindustan Times",
       "sources": [
         {
-          "name": "Medscape",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzlxR2dIbVFUZVc4WXNXdTRoOFZRZkpaT0oyVkg5aUhySEhuV0pkRVVUQXBaUjVpSThWOGotMTNFb254QmoyZnZxazNLMnBUdDNGRTJYSnFDUTd4T0VIVlV4R2JBUTRuYVdkaTZUOWZfN3NBWnZ0Zk1XNDRnQU52MWFEc1hlclRSYVZWVHItZTJRS1ZnRm9QaXptMVBvTXFuTFAxMDdNNEpLOVNW?oc=5"
+          "name": "Martha Stewart",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDB3TFN2S21TWnMyd2FOSnltLWwydENIMjE2Zlk0NU9sSkdvZGF6TDNCa1E2NDRRWlp2VkVOelg3Smg4SW01aDNuQU9zalJsWGd0MWdpZUstR3luV0lTbVF3QnlNWk1tbjZ5U285V3kyN2NwcUlaX0xVaUc5eVA4cW5n?oc=5"
         }
       ]
     },
@@ -684,6 +768,18 @@
         {
           "name": "Cureus",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSDZLRXFKQVRPaVpvbE0yczk1NnIwNVY4TmdyNDNLcXI3OUR5UFZnV2NZVXRBWXZhT09UMzUtN2NQa0VBc2c4Q2xQY2F5OV9LWmhucmhYWHh1U2lmVy03UURDQWgyeWs5ZmhndzJtZVhNOUJHNWdpTHdDT0VDdE5lU2NlMDRwcFNMbXNOUzZKWXlpTkt4amZzbm1FRmdnN3BNaFh2WGNfQ0RfcUxaSTUtb01PeDBObXduTF9PQ1h2d1VWRURtMGZYYW1rNXpBdXpvSmtjYWREdzBpUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8aa364ce4cca",
+      "title": "Isolated Pancreatic Metastasis From Renal Cell Carcinoma 11 Years After Nephrectomy: A Case Report - Cureus",
+      "published": "2026-11-15T00:36:47+00:00",
+      "summary": "Isolated Pancreatic Metastasis From Renal Cell Carcinoma 11 Years After Nephrectomy: A Case Report&nbsp;&nbsp;Cureus",
+      "sources": [
+        {
+          "name": "Cureus",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWEdCTklwdkt4OEVyeHN3LU9YRjlaS0xIajk5VzVFZE1GVkQtZENHN3lBdWd4bTIzZ1lVTERGWU96R1lBMkZOTFhra1VQcG1VRTZJa0pNS2o4eHlIMEF0SlVybk1pZUUycFNXMmh1RldkVUw1WGtzM25YY1R5VHc0VE5oal9fME45MFRpczQxZWJQeHpia3JYQ3JfQzN0dEhWY1JIb2VsZjJYTFlqWHowdmtaYzNlMTlvN29wdWFiV1ozdzI5aGdCN0M0ZXRSWkZkQmc?oc=5"
         }
       ]
     },
@@ -744,102 +840,6 @@
         {
           "name": "Nature",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OcnZPUk1IdFZSQmhXS21qVllYNnB4dndueVdzUHlHNkxrM3R2Q1dMY2R6VVRGUlhPYS1MS1lZNDFjZ0NZUmxfd2FwYXlxNXdXb19ucTBPMUJ1UGVhcFZJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bcc3a7fcd52",
-      "title": "Intrahepatic Migration of an Ingested Fish Bone Following Presumed Duodenal Perforation: A Case Report - Cureus",
-      "published": "2026-11-14T13:41:24+00:00",
-      "summary": "Intrahepatic Migration of an Ingested Fish Bone Following Presumed Duodenal Perforation: A Case Report&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRTdWODRLN1Fxb0ltWkdVX25tZjdvTVB4NEZ1U1Z4SDJZdDdyWHNvNDZ0bmdpanBvNEhXNHhsNEdrTGl6RzVuQ0hnX1g2Z195M05kbG5lZjVFWmRoak0wNmNvZmZXcUI3UGlNb2ZQYko0dlRmZkgzckFwX2toSHJ3OHlUTXFYZ0NXVUJoMS1RanFPbjZuOXZFT0JCZTNhOEJmbmFmMXdXOUVocGhhTXlMRnljckMzSEoyZWdVcjFzQWh6WUtJZm0xMUJ3dTkybDJocnhwdWxfbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "079e2af7486d",
-      "title": "Hypothalamic Hamartoma Presenting With Gelastic and Dacrystic Seizures at Three Months of Age: A Case Report - Cureus",
-      "published": "2026-11-14T14:11:24+00:00",
-      "summary": "Hypothalamic Hamartoma Presenting With Gelastic and Dacrystic Seizures at Three Months of Age: A Case Report&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdWxUbndyS25CU0Z3SmdoLWZ4V3d2cDlpWlpWTzF6VjVwUnF1QUFCWU1weXJXM3lLaUFiVEFxRFFDN1VMTVF4eUFncEI0YXBTRkpoZndIMXJNbFNoOWVpcWNpaUZhSUlhZkFoYUh6bm9pUUNlcHp3eC1NemFpQXZxd215cm55bUZmTmV4X09hbC1iQUV2dmRPVVhsNjVZaElkWWxxSGV2eGpzU0NEazNNYkVLV19mNFhISmhEcTJWLWpwVFBmenowYVhUdDlwcEEtWV9xcWkwdGczU0FQYjhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6e18e94bc49",
-      "title": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more - Endpoints News",
-      "published": "2026-11-14T11:00:00+00:00",
-      "summary": "George Church quits AI startup; Ira Mellman’s immunotherapy fight; and more&nbsp;&nbsp;Endpoints NewsThis time, the virus is on the patient’s side — and AI helped design it&nbsp;&nbsp;Northeastern Global NewsAI medicine breakthrough: Could ‘good viruses’ created by AI cure deadly diseases and infections?&nbsp;&nbsp;Genetic Literacy Project",
-      "sources": [
-        {
-          "name": "Endpoints News",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSl9ob0hCNElUYWdQX2pRckJETV9BTzBDVkRRUFFQZkhrNldGYXZIeTRMWk9BRzBWVU1SYk4xaGJycWVlYmF1UUJRWlNGZUdzMEFoZjBNbWtQSzR5U012LVJlbGhtaTdzSm1zdVpEWUR5bW9CSGpSTHBUSEZ3S2RCYk1Ockh2RDlFcUZhcEJmclEwUkNvLUhQN2xLMTI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9479deb02dc0",
-      "title": "Photosensitivity in Mycosis Fungoides: From Photosensitive Mycosis Fungoides to Narrowband Ultraviolet B-Induced Abnormal Light Reactions - Cureus",
-      "published": "2026-11-14T11:16:24+00:00",
-      "summary": "Photosensitivity in Mycosis Fungoides: From Photosensitive Mycosis Fungoides to Narrowband Ultraviolet B-Induced Abnormal Light Reactions&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPWW14aDlyQVQzU1lxbkI1N2JPTEZ6U0MyTHVVSFB4WGJPWWp2d05fVGg1SmtaYWdHZDFUdlhIOEtNMzlTbURkLUMzczh3NW01WktNU1RzeWF5eVdqVTlZeFkwRGpRUTNOWjNBYjlFTkVTbVdCUjVjRnJ5czFESXZIQ1NuZTM1SU5ZOUdtOHFrcWJyMldJRndvRTZVUlA2ZTRVeGVEdE9kemlsQVJGZ2dKb3NUU29FQ1VNejhnSVhYcFczZElPZExpTlQyWjFmLWtzTC11Q3NONExNc3FDLTFvN3h5ajJPMTUtc2ZRVjM1VWVfLUtFTGhCeGJJczBHNDJTOF9OOWJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a95ba6b1f0c4",
-      "title": "Diagnostic Performance of the Vesical Imaging-Reporting and Data System for Predicting Muscle Invasion in Bladder Cancer - Cureus",
-      "published": "2026-11-14T10:01:24+00:00",
-      "summary": "Diagnostic Performance of the Vesical Imaging-Reporting and Data System for Predicting Muscle Invasion in Bladder Cancer&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTUZYUV82Um8tV3p1VGtqN0xrclFxOUFNSG0wektHYzZhTE9rZ1lrVXhVV0s4RVlSdjNaODh0bmRQZHZvV25BRmU2RnpJVGJjVTNfS2hsYmJyZVduZGN0czJQTHY5ei1oTS00MTN1TVRQSTM0bDBoZ211MjJ6WTJHd2xHcmx5NWEwZ1gzOFNDZFhYYW16cTV2Yk9TMDFxOExlNHJTUUQtanoxZTIwZ3hmMjVFZmJ1X0hMaUs0ZnFuNXRqY2g1MTJZTVRDR1BycGFKeGlJV0c5aDdDc0VodUtlUzFuVE1tVDFkdjY1cFdRclg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "972c63020b3d",
-      "title": "Incidental Detection of a Pulmonary Valve Thrombus in a 60-Year-Old Woman: A Case Report - Cureus",
-      "published": "2026-11-14T08:26:20+00:00",
-      "summary": "Incidental Detection of a Pulmonary Valve Thrombus in a 60-Year-Old Woman: A Case Report&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQejFzVDJCaE9VLU1iN0xyMVFYVlZQTHo0djYtV2loczlJMFl0VVRkNW1kcEY4aDJraWNHS1FoTXkxOFE3a0w0aExuckNNSnFBZDdKcWJwcUtZVEJUTldqemp5aTd0S0NSbjYyZm1qbnR4MGM4NHE1YTRHc2dQb0JWVy01NGZVd250SDZDcmszVm1TQWxidHg0MGQtOC0tR0lnRmZ3ZHNwaUgyTGJDQU56QW9QQkU5LTd1cnBrUWp0Wkp4Qkxt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e3bc970d71c3",
-      "title": "Transient ST-Segment Elevation Following Snake Envenomation and Anti-snake Venom Administration: A Case Report of Suspected Kounis Syndrome - Cureus",
-      "published": "2026-11-14T08:51:24+00:00",
-      "summary": "Transient ST-Segment Elevation Following Snake Envenomation and Anti-snake Venom Administration: A Case Report of Suspected Kounis Syndrome&nbsp;&nbsp;Cureus",
-      "sources": [
-        {
-          "name": "Cureus",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaWpHbGVqbTBqaEFaZHgzWGcxRmpKc2VXRGxHUUdiLUNuN1RnUGx0bmpQNU5pRjhTbVV4QzRreXhmRm5ZMUdMdlg4WnpVbHYtZF9LNlQ4VzI4VWxOZDZCdnFYYTg5dzZ4enlnQWJraEVMZzhCZkFHbDl0c2tCY0tTYjRBY2xVb25lTHU1WXJYQmFVam94Nng1WmJ6LU1hdFN4T3hSaHJlaERLdjJGLS1HdVhSZXMtTnJEQjFfalRuUy1LNEtkamM3VW9WTkZHY240d1I1M2JJa0UxMjRRdzg1a3BlMTRzaWdId0RXaFdqdFdqaldwWW9rbEtGZWMzTnNzdV9Qb1dQeFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "afa9ba8a73cb",
-      "title": "CHLA researcher explores immune mechanisms behind rare pediatric neuroinflammatory diseases - News-Medical",
-      "published": "2026-11-14T03:00:00+00:00",
-      "summary": "CHLA researcher explores immune mechanisms behind rare pediatric neuroinflammatory diseases&nbsp;&nbsp;News-Medical",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnJzZzFXQTltMTBjR1g5Wm9EbjRfaUtBQVVob0owNTdQeFMwc0czQV9nOVRUYmEyNm9VWVpqZU5MbFplc1FSWml5QldTVTBRdnVYT3NHV0RqeFlfSTExZ0ZocmhFb0NoQnlhWGZETEdGaWt5ZXFiYjJYYzV0S1M1QzEzaVZ0Z1p3V2s2eWlncjk1V2xrUzVSbHFSNzc4eURzS0N0ajZoa2hhQjRNeUdEUU9zcExXQUEtMDNpREN1bDBCZzY4Q01USlRBQXRSX1JmTDVhTktR?oc=5"
         }
       ]
     }

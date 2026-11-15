@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -44,11 +44,11 @@ Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY
 
 ---
 
-### [Investigational treatments for lung cancer, Huntington’s disease and Alzheimer's gain Innovation Passports through the Innovative Licensing and Access Pathway](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
+### [Three Investigational Therapies Get UK Innovation Passports](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 2026-11-10
 
-Source: [Pharmabiz.com](https://news.google.com/rss/articles/CBMia0FVX3lxTE1LeXJwZzF5RF8teDdwN1FUVFRoVXRjb1JvTkNQYVFGZGpzdHdKWS1ZbmZ4ZGVWWDlfcm5ZM19UbEZOeGFGNUN1bjdMbHBFSGNSZ1dfWmpQYW4wQmZ5bWtEbm9jYlhQTEFqekYw?oc=5)
+Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
 
 ---
 

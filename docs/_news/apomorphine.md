@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Apomorphine. 10 predicted indications."
 permalink: /news/apomorphine/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Apomorphine News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 
 ## Related News (1)
 
-### [Cellular atlas created for the basal ganglia, a key brain region - The Hindu](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEV3c3NENVNCUG40Sk9IVTdDSDhCSzJNbWY5WWNPSUVvM3dOZmE0MXFIWV9sWm9aYUFGWG1GdXNGYzhYY2FpR0dYM3E2T0JsRmRhM2duSEJ1UmVrUmllX0FLOEJaV1lUZ2ctYU9tZi1CQTkxWVlLZDRab0Fqb2VQVG5aaG1PVzIwRmRENVZPZVJRTHZDdzRmX2NULWE0TV9VTFlLSmJzVjBrUTRscmg5RmhEcjFGVFZOWl9hN1hORG05QdIByAFBVV95cUxNeUNUbGVhM015SXF2V2QxRXJWaXNlLThwWFl3SG1YanJsU3lvd2JEUmhDbXJlaWxMczBYYnhWdUhzNUtPV0wxR0JKdy1GenpCVDgyeDgwdXV5cElWUVBJaW5rNDc3bGQxdm4xdmlkdGdUdDJkeWpTalM4ZDgwZkM0T255NjdpVzVpN09sTndnd2hEMmVPdmR4ZlEtMzNpU3dZUUItTGZiRU9qTWhOaGNGMlFVcGhGV1ZabWZ2TWhNUEtRWS1NNGJFQQ?oc=5)
+### [Scientists develop smarter Parkinson’s gene therapy - The Shillong Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjlmaGlxX2xjVWRjdW0tbndDWXRRUzNSbXFxdUdfMEtxQ1BRWW9VdjJYX04za3AtMEpnOUd0bUlHOWdicDFwQXZvTXhXeWpCTkFIYmtjS1VuY2RTNjFjUzBwUDl4SkwycUNDT2JNSTRHZU1YdkZfNXFwVlZYa1g4WFlYM3dkSE9JaDI4b3h0NGp3VFhLUHc?oc=5)
 
 2026-11-13 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
-Source: [The Hindu](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEV3c3NENVNCUG40Sk9IVTdDSDhCSzJNbWY5WWNPSUVvM3dOZmE0MXFIWV9sWm9aYUFGWG1GdXNGYzhYY2FpR0dYM3E2T0JsRmRhM2duSEJ1UmVrUmllX0FLOEJaV1lUZ2ctYU9tZi1CQTkxWVlLZDRab0Fqb2VQVG5aaG1PVzIwRmRENVZPZVJRTHZDdzRmX2NULWE0TV9VTFlLSmJzVjBrUTRscmg5RmhEcjFGVFZOWl9hN1hORG05QdIByAFBVV95cUxNeUNUbGVhM015SXF2V2QxRXJWaXNlLThwWFl3SG1YanJsU3lvd2JEUmhDbXJlaWxMczBYYnhWdUhzNUtPV0wxR0JKdy1GenpCVDgyeDgwdXV5cElWUVBJaW5rNDc3bGQxdm4xdmlkdGdUdDJkeWpTalM4ZDgwZkM0T255NjdpVzVpN09sTndnd2hEMmVPdmR4ZlEtMzNpU3dZUUItTGZiRU9qTWhOaGNGMlFVcGhGV1ZabWZ2TWhNUEtRWS1NNGJFQQ?oc=5)
+Source: [The Shillong Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjlmaGlxX2xjVWRjdW0tbndDWXRRUzNSbXFxdUdfMEtxQ1BRWW9VdjJYX04za3AtMEpnOUd0bUlHOWdicDFwQXZvTXhXeWpCTkFIYmtjS1VuY2RTNjFjUzBwUDl4SkwycUNDT2JNSTRHZU1YdkZfNXFwVlZYa1g4WFlYM3dkSE9JaDI4b3h0NGp3VFhLUHc?oc=5)
 
 ---
 

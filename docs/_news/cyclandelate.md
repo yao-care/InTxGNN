@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Cyclandelate. 9 predicted indications."
 permalink: /news/cyclandelate/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Cyclandelate News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
-
-### [GLP-1 RAs Outperform Metformin for Prediabetes and Obesity - The Cardiology Advisor](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmliRHN6RjF4QnZmblZSem1nbWRnYUZVY1JULThHTmE2UUdueVc1SjZJZmxsTnp4dGotVy1XQ0stY1ZCWW5HSmpyRGV6dFBSdDlvMUItWWM2WTl4eGdmdV9RSkZfclQyZjJEZmFENVgtaWhGdm1XUlNtdjJGbXFvYk1xeU1jcXVqXzFQS3RXMkZZVWVRM05NYQ?oc=5)
-
-2026-11-13 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">cardiovascular</span>
-
-Source: [The Cardiology Advisor](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmliRHN6RjF4QnZmblZSem1nbWRnYUZVY1JULThHTmE2UUdueVc1SjZJZmxsTnp4dGotVy1XQ0stY1ZCWW5HSmpyRGV6dFBSdDlvMUItWWM2WTl4eGdmdV9RSkZfclQyZjJEZmFENVgtaWhGdm1XUlNtdjJGbXFvYk1xeU1jcXVqXzFQS3RXMkZZVWVRM05NYQ?oc=5)
-
----
+## Related News (1)
 
 ### [Postpartum Screening Reveals Cardiovascular and Kidney Risks](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXZCd3FObWNZdTF0aklGWHlYaFBYZWZUU1M5S3NiWGZGX1JZQk90SVNCbGJZTkZ1NGtZOGdHWlR1Sy1XcndfX2Niam9UUktwajFLdHZNLXR2OEtPYWRadDlCWXphQ1R3S0lsV0Y1c2pBTmtMdTV3MFlsQTNNcXBlbDJQNlJ2ZUZFT3JZLTJvUXRwOThpN0lNS3pvYnk4dVVtRHpOMXUzSQ?oc=5)
 
