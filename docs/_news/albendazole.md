@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Albendazole. 1 predicted indications."
 permalink: /news/albendazole/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Albendazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (15)
+
+### [Cancer 'sponge' tests could be offered to more people with bad indigestion](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+---
 
 ### [Predicting Head and Neck Cancer Swallowing Risks Over Time](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMTGFsQmlFN3dQTmhtNFFaWGlFdWRCYzBYbnBWUmV6YTlLdnZNYTVoTjV1N2RHV1ZrZllLbUJuSTYycTBLTXFteC11aGJubElzWkxwbUg3eVd3ZjcwRUxxX2ZrMVlIZHh4LWpGZDRLUjZvbzNoUV9Pakp2VC1Db3pyaWZVTFl5OFdBWG56Q1lmd1h3WXVDWDc3d3c?oc=5)
 
@@ -51,35 +59,19 @@ Source: [The Hindu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWVUSU1
 
 ---
 
+### [Early changes linked to ovarian cancer may leave trace in blood - new study - The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmJJbHNibnpZQWM4X1R0eHM0RjV5SXZaYnJtS3Iwd3dNbG4wQTNtVHZ3RlNDcWE2eDRmalltbUtXajV6V0dOaDZYbE93UXdOY3hJamlobDJHcFpHZ0RKalZWSjJISHR1S1djOHRqTHFiUWVjM3ZVcmFDYmhOQ0xSX1JPVVJfSmVXay1qckRYZHp1elZmblFNTnF6SWFBSkgtMEJyVlo4TVhsekx4MC1VTzdlUXNnRnN2bWtseHJHbEs4UElpeko5MkNhZFQ1VUFIZkN2NVRn0gHbAUFVX3lxTE1IcllldWw2NzQ2NzBQamJOR2JpcTVWQTJVZVR2NElVWkdSdHJWUDNxb3dGTFN1Qi1xWVdVbmFreDlxVC1oLUJPYUZHcGRaN3RpakNFTjdnVGE5amg0Qjk5LVlaRGR5eUNvZXJiYURMUGNSelhxOGQxdERzbDdNOG0xTU1weEd3S2Q1UmZTYXg2RjBreUVwMWlwVlg1ZEduS3FOSG1jYmFCR1hhUFhReUgxU1poM2w2d3Z3NkY4MEhYNFVibXhqbW55dHJrUzdZdlBQMXBnQ25SUjhUYw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmJJbHNibnpZQWM4X1R0eHM0RjV5SXZaYnJtS3Iwd3dNbG4wQTNtVHZ3RlNDcWE2eDRmalltbUtXajV6V0dOaDZYbE93UXdOY3hJamlobDJHcFpHZ0RKalZWSjJISHR1S1djOHRqTHFiUWVjM3ZVcmFDYmhOQ0xSX1JPVVJfSmVXay1qckRYZHp1elZmblFNTnF6SWFBSkgtMEJyVlo4TVhsekx4MC1VTzdlUXNnRnN2bWtseHJHbEs4UElpeko5MkNhZFQ1VUFIZkN2NVRn0gHbAUFVX3lxTE1IcllldWw2NzQ2NzBQamJOR2JpcTVWQTJVZVR2NElVWkdSdHJWUDNxb3dGTFN1Qi1xWVdVbmFreDlxVC1oLUJPYUZHcGRaN3RpakNFTjdnVGE5amg0Qjk5LVlaRGR5eUNvZXJiYURMUGNSelhxOGQxdERzbDdNOG0xTU1weEd3S2Q1UmZTYXg2RjBreUVwMWlwVlg1ZEduS3FOSG1jYmFCR1hhUFhReUgxU1poM2w2d3Z3NkY4MEhYNFVibXhqbW55dHJrUzdZdlBQMXBnQ25SUjhUYw?oc=5)
+
+---
+
 ### [Alzheimer’s may start shrinking two brain regions years before memory loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
 
 2026-11-15 <span class="news-indication-tag">memory loss</span> <span class="news-indication-tag">alzheimer</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
-
----
-
-### [Amyloid pathology compresses dynamic range and degrades spatial coding in an Alzheimer’s mouse model](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQd1hDWG5lWVhieW5lRkpOREhGek13YkktaXRVbGdpMnpoVkFnTDRsNGlfSkplVlRxLUdFWXpvcG5xaTJIelU0SUJvUEFycnd1cFBXZWIzOEtnVVhvaW1n?oc=5)
-
-2026-11-14 <span class="news-indication-tag">alzheimer</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQd1hDWG5lWVhieW5lRkpOREhGek13YkktaXRVbGdpMnpoVkFnTDRsNGlfSkplVlRxLUdFWXpvcG5xaTJIelU0SUJvUEFycnd1cFBXZWIzOEtnVVhvaW1n?oc=5)
-
----
-
-### [Ovarian cancer biomarker breakthrough - The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
-
-2026-11-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
-
-Source: [The Naked Scientists](https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlUzNkhhRFlJZ0I2d0ZKUzZhQUpId29kUWw5TzNqT2traGliWGtHYTgyQjFIR0FMVW1scEI3T0x1RGstSHY2RTZJdjgzclBjR29MRnhVNkM5OGtnbWR0cm1QXzZMS1NjRVh4dVZyYUdwd2t3VEtoRk1zZFdrU25VSW41a2lMeTRvc1NaMVJFdlFJRGhlSWVn?oc=5)
-
----
-
-### [New method reveals how glioblastoma cells invade the brain](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5)
-
-2026-11-14 <span class="news-indication-tag">cancer</span>
-
-Source: [healthcare-in-europe.com](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUxabVpnVmRDYTV5dHYxc3E3Q2dqUEoyZFFfRXVYSGlMVDE4M3U0YUJWRC1QcVJTYXZIZ3hJa3VGdUtNZ1h3SUxXVjdEcHJTQVZkTjJ4M3M1MnROZktlTy1WMFhUaFJOdE1raVFKTWxVdXR4Skh2R1B0SnFvLWhTZjUzcGhXWXZhQkV6bw?oc=5)
 
 ---
 
@@ -99,35 +91,67 @@ Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY
 
 ---
 
-### [Vaccines may prevent cancers, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
+### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
-2026-11-13 <span class="news-indication-tag">cancer</span>
+2026-11-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
-Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
-
----
-
-### [Heightmaxxing trend: Why teenagers are taking a cancer drug to grow taller and risking serious health com - The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
-
-2026-11-13 <span class="news-indication-tag">cancer</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMikAJBVV95cUxPWi03bTJoMnZRa1ZDeVdJUDk4Rk1KamdHeFVCZ19TRU1DWjRDV0xxclgxOWhaY215dWl5VEVacTloLWRCUGZ3empQNmRFMm9USzVhdHVaUm1pam5jazRydnZrUlZ4MUUtTWNjZ0V6SU0zSWlsNFlVb2xneVBheGRfbGttWkU3aDlDT0FtenVMa1h0dlVsZE8xSkNnYVBPZG1DWWNtRUplTlBRbVd6bEJrZmswTW9za0FFb3prTEVjSktMdFdjb0o1dmxielFWSVZvX09xS09wdVRnSm0ySTN1UGxHdjNaOUhZQm1YMkIxaEZPZlByUWtkVGNPczR6VzJyeW96Nmc5RU5Rd3RNem1ad9IBlgJBVV95cUxNb2xFMG12U3ZoRmZYX3NGWUJZT09VdzNMNXhRYnJrOW0zX2lUaUNrbFRFb1N4U0lTN2wwQTNFVzE3NTVBZzh6TzZyRzFlTERTbHlvd3QxMGs4azhzT2JqODZ5Nmd6NDhsRllJNzl4UFZYUkk2bTRsUWhJTl9hSWxmbW56WHl5bkdaM0kwN0hzRkhIVUU2dDVYVVZFM0F0VTBkbktwb0REVF9sVFZBVmxYQUNZS29hYkFabXByeU1CbVJxdHd5ZGNuYk1TTENQOW1CQm5LdUEtdVFtYWlDek5FUlNXaUlRaGFOcG5IcHhFWldxRXhQT1BlUUVfMkJRT0UzbVlxNXVVZEMxWWxUNVlUQlpBak9EZw?oc=5)
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
 ---
 
-### [Kadak Sehat Samvad puts cancer screening and early diagnosis in focus on National Cancer Awareness Day](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVmYW9zbktrUVZsY3pUaHg5TUc1LVp5S2VuR1NhMi1HcklwdWJja1VOYmxRejRyYy1vVFpfQ0FkS1Q5WUthVkVDMzJ1bkNHQnY0M29SWlNvY2xfaXp4MUVQNEI4V1p1eVh2Nk9DZUhjamVPSkxxd1VNZ2V0bUZBR1NLTUV5cC1jZWZOUXJFYjFUUlFtM0FiMHNPQWc0dTJIeDhqbmxlYm11S0dGUHc2VEEzUndtNENwbF9kX0RILUxieEVLRjNfS0p2TWVzTUs5a3gyZXNmMUtkNEI0NWJ6MlhCLWkwOUJIeDBValRKZ2k1Sy1iRmhR0gH8AUFVX3lxTFBUM3p6OUFNSEM4US1BWHZLWElqWTh3bjFhVGRTLUxVczBGRlh0MHVYRjkxUExQNXdFbUlmMGhCTFpwOWdCb24xalFJY0xRQTJBTWZvOW5VWGxiaFNqRHlObGNBVUVuSU04Sjk0Y2JPcWhrOWphSWUyS3I1QWctUF9ianJ3cWRSSnpxT0dRVjRKU0ZZdFR4clRsWlF6M0V0YVpVWjBTWU1WMkJiQ1Y2YmRfQzNmQ3NZbmIyZ1lpMkk2MGdBVGpZdm5QWmsteGNLSERjajd2WnBrSmlIaGdkN2JJUmtUQnhqU3NLREFlaVZ1cWNrSi1hVVAyYWxXUg?oc=5)
+### [The Liver Meeting 2026 Highlights Hepatitis Delta, PBC Targets, MASH Costs - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3YwY3ZIc0daR0NuaWo4SEp2YllRdlM3c0w0VjB5U3hBbjNmMDJVRTkxU3k3Tkk1aF9MdENJRklvdkNjQjNjWmFTdVBjZTJZR3UzVU01T19Mc3BzTXQwd0dfREJubDVxa04zam5xREtoRHdxZ2RNTDdZYXctZWQ0dlUyQ0wwNnFpQ1FMbU9mRG9PWmszbk9odXoycGtodzg?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">liver cancer</span>
+
+Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMinwFBVV95cUxOc3YwY3ZIc0daR0NuaWo4SEp2YllRdlM3c0w0VjB5U3hBbjNmMDJVRTkxU3k3Tkk1aF9MdENJRklvdkNjQjNjWmFTdVBjZTJZR3UzVU01T19Mc3BzTXQwd0dfREJubDVxa04zam5xREtoRHdxZ2RNTDdZYXctZWQ0dlUyQ0wwNnFpQ1FMbU9mRG9PWmszbk9odXoycGtodzg?oc=5)
+
+---
+
+### [Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds - Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2kteEduWWk0ZklrTzZ1VWVpbi1rWjhUN1RGWmEwQXR4ZFhHWlhLWmpSMHJ5b1plVXcwYmN2SkpkRWI0Z1E2YVRsUGJSMHlhVnY2QnFOMFY5N0JLNEdydnpqcWdpNFNjUWtqQk1jcmZmdXptaXZZYUJwYjl1SGVsOUhFN211ZE1lU3BtMkg5YzhBVHlGakczNkJRazItcHhTQThha2EybHZURFVEVFZjWGc5S1JuRVg3ZVo5UGplNk1KdC1lcG5VR05B?oc=5)
+
+---
+
+### [Living with Stage 4 lung cancer, she is now fighting air pollution - The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+
+---
+
+### [HEALTH ROUNDS-New blood test finds early risk for ovarian cancer](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeF85YmhRYi1wUkhVQl9DTndLMkt1Y185bTdiZHZ4NHBZVE5IUVRkVlpOWUxOWkloYTEzS3EtOS1fVGJRZHdTbHFZMFk3MklraHpLS3l1eUdsQ1U4NXVfY3d1R1h2UkRwQU1FQTduU1c2QVdiLU9EOUE2N3RkN0R3TUJMdVVESUprN25faGs4OER2SGIxUWU4SnhPRTgxekVSRlU0Wm0wNDBBZEpSb0NiUlQyUjNTVmRmT041RGxJT2TSAcYBQVVfeXFMUHdtYXNXM3hvMFd4bHpfZUozSEluRHZpTE5FbWpsbXdDMy1PQm1KTzVjSTZTLXBPYUU0ejFKVy11WmNnTDN3S2l3WUlZcFVkcDdpMkRRbkNOdVhqcER4V2lmLWFNcmtOank4VFhMdWhBUXFiUVdzTHhGdmdDak1HOTcwNERWRktfNDV6aVNoY2FDVkZhUlBUcmR4Q1UyVWR3N3c2OG5rUnpFbzhGdGJBenR3dnYxdnlhN1Bya0xPWThhV1BjZ29B?oc=5)
+
+2026-11-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [Devdiscourse](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeF85YmhRYi1wUkhVQl9DTndLMkt1Y185bTdiZHZ4NHBZVE5IUVRkVlpOWUxOWkloYTEzS3EtOS1fVGJRZHdTbHFZMFk3MklraHpLS3l1eUdsQ1U4NXVfY3d1R1h2UkRwQU1FQTduU1c2QVdiLU9EOUE2N3RkN0R3TUJMdVVESUprN25faGs4OER2SGIxUWU4SnhPRTgxekVSRlU0Wm0wNDBBZEpSb0NiUlQyUjNTVmRmT041RGxJT2TSAcYBQVVfeXFMUHdtYXNXM3hvMFd4bHpfZUozSEluRHZpTE5FbWpsbXdDMy1PQm1KTzVjSTZTLXBPYUU0ejFKVy11WmNnTDN3S2l3WUlZcFVkcDdpMkRRbkNOdVhqcER4V2lmLWFNcmtOank4VFhMdWhBUXFiUVdzTHhGdmdDak1HOTcwNERWRktfNDV6aVNoY2FDVkZhUlBUcmR4Q1UyVWR3N3c2OG5rUnpFbzhGdGJBenR3dnYxdnlhN1Bya0xPWThhV1BjZ29B?oc=5)
+
+---
+
+### [Fear, stigma, financial concerns keep cancer patients from seeking timely care, says expert - The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
 
 2026-11-10 <span class="news-indication-tag">cancer</span>
 
-Source: [Storyboard18](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRGVmYW9zbktrUVZsY3pUaHg5TUc1LVp5S2VuR1NhMi1HcklwdWJja1VOYmxRejRyYy1vVFpfQ0FkS1Q5WUthVkVDMzJ1bkNHQnY0M29SWlNvY2xfaXp4MUVQNEI4V1p1eVh2Nk9DZUhjamVPSkxxd1VNZ2V0bUZBR1NLTUV5cC1jZWZOUXJFYjFUUlFtM0FiMHNPQWc0dTJIeDhqbmxlYm11S0dGUHc2VEEzUndtNENwbF9kX0RILUxieEVLRjNfS0p2TWVzTUs5a3gyZXNmMUtkNEI0NWJ6MlhCLWkwOUJIeDBValRKZ2k1Sy1iRmhR0gH8AUFVX3lxTFBUM3p6OUFNSEM4US1BWHZLWElqWTh3bjFhVGRTLUxVczBGRlh0MHVYRjkxUExQNXdFbUlmMGhCTFpwOWdCb24xalFJY0xRQTJBTWZvOW5VWGxiaFNqRHlObGNBVUVuSU04Sjk0Y2JPcWhrOWphSWUyS3I1QWctUF9ianJ3cWRSSnpxT0dRVjRKU0ZZdFR4clRsWlF6M0V0YVpVWjBTWU1WMkJiQ1Y2YmRfQzNmQ3NZbmIyZ1lpMkk2MGdBVGpZdm5QWmsteGNLSERjajd2WnBrSmlIaGdkN2JJUmtUQnhqU3NLREFlaVZ1cWNrSi1hVVAyYWxXUg?oc=5)
+Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
 
 ---
 
-### [Three Investigational Therapies Get UK Innovation Passports](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
+### [Examining High-Dose Influenza Vaccination and Alzheimer Disease Risk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVhjTUNLbkFPNnlkd0RiUU5naFJZcDY5Q3FVNjhaRjQ4dEI4VWlOemxfVWtidEJkamxUbjc0WE9LbG5sVzZvWmVWSy1ubmtGendtOFhrQ0JqcmdpZlhuaTAxTTlwdUVsbkJBVFBRYUxHUHl3Q2RPZTdZM012T1NTdlhiVnVxWURDVkZ2M19SZkZhaUw4Ry1kLThla24wZTN3?oc=5)
 
-2026-11-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">lung cancer</span>
+2026-11-09 <span class="news-indication-tag">alzheimer</span>
 
-Source: [Medscape](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGp5Q25DV1dBOHBqZFRKSUlkS0pEOERQVjNzSWd6c2NkcDdHVDVIZjZsaDZrMU4zMm83N3hMYjUwbmRrQkxkem9Od2VSck1CeVRTQ3J1bUxGUHljSzlQV2JyUkN5MS1zaFVtdXd3UUk3aDFIRlJvSy0wSE1idnlkbV8yQzg5NTZENkNRZmFEODZZUWotS0puSzUwMEh6LWJidC1YM3RhQnU5TWdkNWc?oc=5)
+Source: [NeurologyLive](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVhjTUNLbkFPNnlkd0RiUU5naFJZcDY5Q3FVNjhaRjQ4dEI4VWlOemxfVWtidEJkamxUbjc0WE9LbG5sVzZvWmVWSy1ubmtGendtOFhrQ0JqcmdpZlhuaTAxTTlwdUVsbkJBVFBRYUxHUHl3Q2RPZTdZM012T1NTdlhiVnVxWURDVkZ2M19SZkZhaUw4Ry1kLThla24wZTN3?oc=5)
+
+---
+
+### [From Diagnosis To Treatment: How Advances In Cancer Care Are Improving Outcomes And Quality Of Life. - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
+
+2026-11-09 <span class="news-indication-tag">cancer</span>
+
+Source: [TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiywFBVV95cUxQc043dS1sYlEyNjVIdVR4TEw5OXRKN0VudmkxVGNWR1RrekZVOV85bXlUUHEwSm9QaTRLUWl5QnlucVUxY2NCelVDY0ZOdUhZUXlYcXJ6eDUyNzlmTzZXYW9jWmV3eVBkcGl3MWg5RkxzQTk0dlpqV0E1UGhkNk5sdVdrRGdKcnBQOUhWdjlXdl9FUVlTRnd3Nl9Yd1J6aEI5bVhoNVNIZXIyQXRGdU96LXJCVHpDQTIteDFmcHI1ZElNSVZyVGdaYTZidw?oc=5)
 
 ---
 

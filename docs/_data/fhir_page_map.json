@@ -269,6 +269,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "NZTxGNN",
         "UkTxGNN"
       ]
     },
@@ -277,6 +278,7 @@
       "sources": [
         "CaTxGNN",
         "HkTxGNN",
+        "KrTxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -467,6 +469,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "FITxGNN",
         "HkTxGNN",
         "SgTxGNN",
         "ZaTxGNN"
@@ -860,6 +863,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -997,6 +1001,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1198,7 +1203,8 @@
       "page": "glatiramer",
       "sources": [
         "AuTxGNN",
-        "CaTxGNN"
+        "CaTxGNN",
+        "KrTxGNN"
       ]
     },
     "db05990": {
@@ -1266,6 +1272,7 @@
     "db06697": {
       "page": "artemether",
       "sources": [
+        "SETxGNN",
         "ZaTxGNN"
       ]
     },
@@ -1602,6 +1609,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "DETxGNN",
         "DkTxGNN",
         "HkTxGNN"
       ]

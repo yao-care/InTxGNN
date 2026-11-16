@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 
 ## Related News (1)
 
-### [Scientists develop smarter Parkinson’s gene therapy - The Shillong Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjlmaGlxX2xjVWRjdW0tbndDWXRRUzNSbXFxdUdfMEtxQ1BRWW9VdjJYX04za3AtMEpnOUd0bUlHOWdicDFwQXZvTXhXeWpCTkFIYmtjS1VuY2RTNjFjUzBwUDl4SkwycUNDT2JNSTRHZU1YdkZfNXFwVlZYa1g4WFlYM3dkSE9JaDI4b3h0NGp3VFhLUHc?oc=5)
+### [Scientists develop smarter version of existing Parkinson’s gene therapy - DD India](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUhPVFJBbzRCWkZGcFFCdjJJWVVBenpLOFNZZGpvYnh6aXM3VnRQUW5HS3k0ZTZweXBxd2FWelJaSTNCM3JITllxcHl4Q2d5UWtBQ01wa1M4RExMWm5RWmdnV18wTnUtaUpYZk1CWDRoNnkzUDZSaHFwVjNfemdBZjZSaFlwMlRoMTU5WmpVSVJLN0RRWHZvU2lvVFFWNXhodEVJ?oc=5)
 
 2026-11-13 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
-Source: [The Shillong Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjlmaGlxX2xjVWRjdW0tbndDWXRRUzNSbXFxdUdfMEtxQ1BRWW9VdjJYX04za3AtMEpnOUd0bUlHOWdicDFwQXZvTXhXeWpCTkFIYmtjS1VuY2RTNjFjUzBwUDl4SkwycUNDT2JNSTRHZU1YdkZfNXFwVlZYa1g4WFlYM3dkSE9JaDI4b3h0NGp3VFhLUHc?oc=5)
+Source: [DD India](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUhPVFJBbzRCWkZGcFFCdjJJWVVBenpLOFNZZGpvYnh6aXM3VnRQUW5HS3k0ZTZweXBxd2FWelJaSTNCM3JITllxcHl4Q2d5UWtBQ01wa1M4RExMWm5RWmdnV18wTnUtaUpYZk1CWDRoNnkzUDZSaHFwVjNfemdBZjZSaFlwMlRoMTU5WmpVSVJLN0RRWHZvU2lvVFFWNXhodEVJ?oc=5)
 
 ---
 
