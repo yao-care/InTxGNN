@@ -3,9 +3,9 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 4 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 7 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # alzheimer (dementia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (4)
+## Related News (7)
 
 ### [Diabetes linked with 53% higher risk of Alzheimer's, review finds - The Hindu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWVUSU1pYmlGSXpzemZ6WF9EdkU3LTZUOHBmT0ZNYVVVelB6anI3WEItZjJIV0VnbHZ6ZTFOdFZnLUpSX3RXc0MzVkZqQkMybzhVcTJncmNTaTItSnpwNmdjdjlVaXVRY0FodmVDWkRxUy04b0Q5dHBBZDhMMmhPT0N2bkpGVUhiR1hWazZUTDg2QTg1T2xvMXVKR1BVYTF5WlNKbEduV09IT3kxZTFMV1dCZ3FwYVRnWm45S3pvNlHSAccBQVVfeXFMTU1lUzZubXQ3Z3hZNWNpbkNNTDBqdnBGNkpYM2xqeFhuSFlkOF96Y2VrWTV0aXU3OXVtQkhQb3FuUGlfMm9lLWZjTHhmMzQ2RkJnbDBBVEhVSmFGam4yVFdTVTM3V25TYnFER0hNeDg2SEw3cHk1RUJGX083MFR1dEZmbkpKanZycTJjMEFkWURTUmhSdG1jSmc2NENQTW1iOVB5YlJPcWtqNmU1X3BHb1pmbE9sWTFpR25CNy1idld4NTRoLUlwQQ?oc=5)
 
@@ -68,6 +68,30 @@ Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk
 2026-11-14
 
 Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk4xSUU2M3ZKV1Q3WUl4RTlJbXZ5V0NzOHU1ZFBkdlpLZHQtRVl5TlVyazhVSC1oSGdyM1RUTWdjbHVNdWxSU0oySXg1QlF0cGN6elVSaVNaeWVibHB5OTlIcmlFZnFVZE8zRzRuRHdGTGFIaW1UTlJ2c2lWSXZhbGVHTGZQaW5RRE9aX2dkdldpTVp3SENHaXk3akpIM0xidy1uSmRCMy0zOTZrUHlDcG1HM1dKLXJXLXlKNVRfbVdMOGswSE11TmVadXU1b2EwWmdpUlRodFdPdU3SAeABQVVfeXFMUDZVLVlLN2VQNEVoR3ZWMDRjdGcwTWpvR1NnMDU0VndTTzVwa0tENW5CdjE5b2s2OTJsZG9KY1UwcUNoQjZHMzRVTE1DN2NhR01iZWxTVm83V2dod2R3YkJOZXVmaG1NSG1VODhzUVhzWVVlYnF2eG1TdHdIcXQ1MTdZa1ZvOE1Md0dkb1dMZ0tQVWtNSjQ0cGJZRWpoSVh0SWtMeTZIQVl0aVMzcHBJSHlLblNNaGhpZ3M2cklXaGZOSVBYVWdXcEp6dlFVb0EwSmw0UzYycjdqcVZiOGg4emk?oc=5)
+
+---
+
+### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+2026-11-12
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+---
+
+### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+2026-11-12
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+---
+
+### [Examining High-Dose Influenza Vaccination and Alzheimer Disease Risk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVhjTUNLbkFPNnlkd0RiUU5naFJZcDY5Q3FVNjhaRjQ4dEI4VWlOemxfVWtidEJkamxUbjc0WE9LbG5sVzZvWmVWSy1ubmtGendtOFhrQ0JqcmdpZlhuaTAxTTlwdUVsbkJBVFBRYUxHUHl3Q2RPZTdZM012T1NTdlhiVnVxWURDVkZ2M19SZkZhaUw4Ry1kLThla24wZTN3?oc=5)
+
+2026-11-09
+
+Source: [NeurologyLive](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVhjTUNLbkFPNnlkd0RiUU5naFJZcDY5Q3FVNjhaRjQ4dEI4VWlOemxfVWtidEJkamxUbjc0WE9LbG5sVzZvWmVWSy1ubmtGendtOFhrQ0JqcmdpZlhuaTAxTTlwdUVsbkJBVFBRYUxHUHl3Q2RPZTdZM012T1NTdlhiVnVxWURDVkZ2M19SZkZhaUw4Ry1kLThla24wZTN3?oc=5)
 
 ---
 

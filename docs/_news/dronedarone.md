@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>1 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>2 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Enhancing illness communication between patients with stroke and their spouses: a dyadic coping intervention programme](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wRmtraDRjaVZMajFLRDBfOEh5U19nWnZ6TWZScXc4WTRibG94SVE1QjNwdmt4ZHJRdV91RnEwTXNXLWdTQ2FtVlhSeklCTzhzQURVcXl5dlllYjE1dnBj?oc=5)
+
+2026-11-15 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wRmtraDRjaVZMajFLRDBfOEh5U19nWnZ6TWZScXc4WTRibG94SVE1QjNwdmt4ZHJRdV91RnEwTXNXLWdTQ2FtVlhSeklCTzhzQURVcXl5dlllYjE1dnBj?oc=5)
+
+---
 
 ### [Stopping GLP-1 Weight-Loss Drugs? Study Flags Nearly Double Risk Of Heart Attack, Stroke And Death](https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdlh3U2pYSWZNd3A5WFlrc1h0ZmVOVUlhcUtSRDFZbnZxWHFwU0N4WVdhcWpIVDNMeW93aWI3blBjMEtfdFhSR0V4WGxmc0tEQk43V25BcmFmUWJBUXNmUUc1U3pOZ3FfLVZhbk15U3J4cHc2N3FPazBGVkthcEhzWWJ2QUJSWVlVdlNRejdlWjluOUViV04zbVVPOXc0ZHRna2xaUTl2T2RXMmFpOFhNdGNkRjRTVVRuMm1qcW5EQWx1UmxXUlByYTdhUTFRWTV2bTVCTlRjbjN4WU10N1RNem80bXZLWDBGcDZGQWJHazVISmwtbFFyLWdXRQ?oc=5)
 

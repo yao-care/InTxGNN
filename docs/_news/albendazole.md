@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Albendazole. 1 predicted indications."
 permalink: /news/albendazole/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Albendazole News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about Albendazole?">
-<strong>Albendazole</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Albendazole</strong> currently has <strong>15 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Albendazole with the latest 
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (15)
+
+### [Cancer 'sponge' tests could be offered to more people with bad indigestion](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
+
+---
 
 ### [Predicting Head and Neck Cancer Swallowing Risks Over Time](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMTGFsQmlFN3dQTmhtNFFaWGlFdWRCYzBYbnBWUmV6YTlLdnZNYTVoTjV1N2RHV1ZrZllLbUJuSTYycTBLTXFteC11aGJubElzWkxwbUg3eVd3ZjcwRUxxX2ZrMVlIZHh4LWpGZDRLUjZvbzNoUV9Pakp2VC1Db3pyaWZVTFl5OFdBWG56Q1lmd1h3WXVDWDc3d3c?oc=5)
 
@@ -48,6 +56,14 @@ Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmV2eDNDRGJMT
 2026-11-15 <span class="news-indication-tag">alzheimer</span>
 
 Source: [The Hindu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWVUSU1pYmlGSXpzemZ6WF9EdkU3LTZUOHBmT0ZNYVVVelB6anI3WEItZjJIV0VnbHZ6ZTFOdFZnLUpSX3RXc0MzVkZqQkMybzhVcTJncmNTaTItSnpwNmdjdjlVaXVRY0FodmVDWkRxUy04b0Q5dHBBZDhMMmhPT0N2bkpGVUhiR1hWazZUTDg2QTg1T2xvMXVKR1BVYTF5WlNKbEduV09IT3kxZTFMV1dCZ3FwYVRnWm45S3pvNlHSAccBQVVfeXFMTU1lUzZubXQ3Z3hZNWNpbkNNTDBqdnBGNkpYM2xqeFhuSFlkOF96Y2VrWTV0aXU3OXVtQkhQb3FuUGlfMm9lLWZjTHhmMzQ2RkJnbDBBVEhVSmFGam4yVFdTVTM3V25TYnFER0hNeDg2SEw3cHk1RUJGX083MFR1dEZmbkpKanZycTJjMEFkWURTUmhSdG1jSmc2NENQTW1iOVB5YlJPcWtqNmU1X3BHb1pmbE9sWTFpR25CNy1idld4NTRoLUlwQQ?oc=5)
+
+---
+
+### [Early changes linked to ovarian cancer may leave trace in blood - new study - The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmJJbHNibnpZQWM4X1R0eHM0RjV5SXZaYnJtS3Iwd3dNbG4wQTNtVHZ3RlNDcWE2eDRmalltbUtXajV6V0dOaDZYbE93UXdOY3hJamlobDJHcFpHZ0RKalZWSjJISHR1S1djOHRqTHFiUWVjM3ZVcmFDYmhOQ0xSX1JPVVJfSmVXay1qckRYZHp1elZmblFNTnF6SWFBSkgtMEJyVlo4TVhsekx4MC1VTzdlUXNnRnN2bWtseHJHbEs4UElpeko5MkNhZFQ1VUFIZkN2NVRn0gHbAUFVX3lxTE1IcllldWw2NzQ2NzBQamJOR2JpcTVWQTJVZVR2NElVWkdSdHJWUDNxb3dGTFN1Qi1xWVdVbmFreDlxVC1oLUJPYUZHcGRaN3RpakNFTjdnVGE5amg0Qjk5LVlaRGR5eUNvZXJiYURMUGNSelhxOGQxdERzbDdNOG0xTU1weEd3S2Q1UmZTYXg2RjBreUVwMWlwVlg1ZEduS3FOSG1jYmFCR1hhUFhReUgxU1poM2w2d3Z3NkY4MEhYNFVibXhqbW55dHJrUzdZdlBQMXBnQ25SUjhUYw?oc=5)
+
+2026-11-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmJJbHNibnpZQWM4X1R0eHM0RjV5SXZaYnJtS3Iwd3dNbG4wQTNtVHZ3RlNDcWE2eDRmalltbUtXajV6V0dOaDZYbE93UXdOY3hJamlobDJHcFpHZ0RKalZWSjJISHR1S1djOHRqTHFiUWVjM3ZVcmFDYmhOQ0xSX1JPVVJfSmVXay1qckRYZHp1elZmblFNTnF6SWFBSkgtMEJyVlo4TVhsekx4MC1VTzdlUXNnRnN2bWtseHJHbEs4UElpeko5MkNhZFQ1VUFIZkN2NVRn0gHbAUFVX3lxTE1IcllldWw2NzQ2NzBQamJOR2JpcTVWQTJVZVR2NElVWkdSdHJWUDNxb3dGTFN1Qi1xWVdVbmFreDlxVC1oLUJPYUZHcGRaN3RpakNFTjdnVGE5amg0Qjk5LVlaRGR5eUNvZXJiYURMUGNSelhxOGQxdERzbDdNOG0xTU1weEd3S2Q1UmZTYXg2RjBreUVwMWlwVlg1ZEduS3FOSG1jYmFCR1hhUFhReUgxU1poM2w2d3Z3NkY4MEhYNFVibXhqbW55dHJrUzdZdlBQMXBnQ25SUjhUYw?oc=5)
 
 ---
 
@@ -72,6 +88,14 @@ Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk
 2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYldyN2wxVHJMSmFRN0xaRW9XSHJ2bG9JMm9yVmQ4eVJ4OFZCckdNYjJ2OHNVRVpHZEwyMnRlU2xNM1hxaU9heGtWQmdKMWJXLV91di1Pa3FBVkpxZkJ5M2VBaTI0aTNsYnljUDBvMExod1BVVmtCNVpsRjRLc25TNUhEZGQycmtKQ183d2xqNFpwbDTSAZcBQVVfeXFMTUl2WXpoOWZ2ME5iN2I3U3IzMHEzVU1yZG56ZjRwdUpTc3dqQlFIWHVsc3dIdHN1OXV0VzdySVVoYkZPQUtYOW5uR1Z0NUZkWmJ4QVNjQTQxRXQ3UFZHRjhVMnF3VWZKMnJfUFoyOFAyTHpnNGtYN2gzSGtCeFFKcGxIaDNLaC05ZnB6TERGNmpQb3QzTTBVYw?oc=5)
+
+---
+
+### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+2026-11-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
 ---
 
@@ -112,6 +136,14 @@ Source: [Devdiscourse](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeF85
 2026-11-10 <span class="news-indication-tag">cancer</span>
 
 Source: [The Hindu](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTHFsWkhLa3g1V3Foc0pPdEdBWEJ5OTVhWG9FaVRzOURqQldzcWhKZ1JIY09jZEpkN19ING5OOTZjbnpGbTVQWGpjOE1UMWktVGhfT3h0dkd3bDAwSWxNV21jb3VEQlZYNlk4SWMxMmxNQzhBVDRWRnF6ZGhSbjFMQklaRmQ1Ql9NSWViQUs1b0JRT1NRamJuX0JLRzFDWFJGdmpDNzlOMnVqUkx4dXczbWl6TDdZXzlIdWVVTjVRdXZ0N3l4cm1jX0l0UVAySk9GRmhKRWNkLWFyVFA2ak05T3RFWmxyVk9LZnlOMFZGS1DSAfcBQVVfeXFMT3VJSWh5MGNlUi1yV0I0QlpRZ3BfMGhUd1RJUmtQa1BOZ2Y0cVJ0YTlGYkNtWTZ3V2lrMjhpQWNWTVNhOFlkTGRwdTRsZWZrWTVYSGwtYUtSUDBVNkYxT3FFQWkwblY4WUZhOXIyN0RsdmgtOU5odFNUVlA2QWdnby1UVnhkbjFZN1dURW14RS01N1NfOUdFQkJNTWVKVFA2bVV1NnVIVG1rWUdDSDBJWTBtYjg0aHF4bzRueC1KXy1PZFNJbHJEaC1Zd2t4UjlWWEFHSW40VGRTNDNIZVczR3RCQ3YzQmxTZjl1a1p5ZGJDeHRvU0EwUQ?oc=5)
+
+---
+
+### [Examining High-Dose Influenza Vaccination and Alzheimer Disease Risk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVhjTUNLbkFPNnlkd0RiUU5naFJZcDY5Q3FVNjhaRjQ4dEI4VWlOemxfVWtidEJkamxUbjc0WE9LbG5sVzZvWmVWSy1ubmtGendtOFhrQ0JqcmdpZlhuaTAxTTlwdUVsbkJBVFBRYUxHUHl3Q2RPZTdZM012T1NTdlhiVnVxWURDVkZ2M19SZkZhaUw4Ry1kLThla24wZTN3?oc=5)
+
+2026-11-09 <span class="news-indication-tag">alzheimer</span>
+
+Source: [NeurologyLive](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVhjTUNLbkFPNnlkd0RiUU5naFJZcDY5Q3FVNjhaRjQ4dEI4VWlOemxfVWtidEJkamxUbjc0WE9LbG5sVzZvWmVWSy1ubmtGendtOFhrQ0JqcmdpZlhuaTAxTTlwdUVsbkJBVFBRYUxHUHl3Q2RPZTdZM012T1NTdlhiVnVxWURDVkZ2M19SZkZhaUw4Ry1kLThla24wZTN3?oc=5)
 
 ---
 
