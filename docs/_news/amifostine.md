@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Amifostine?">
-<strong>Amifostine</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Amifostine</strong> currently has <strong>16 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (10)</strong>:<ul>
 <li>hypertensive disorder</li>
-<li>alopecia</li>
+<li class="indication-matched">alopecia<span class="indication-tag">📰 alopecia</span></li>
 <li>congenital hypotrichosis milia</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism</li>
@@ -42,7 +42,39 @@ This page combines the AI-predicted indications for Amifostine with the latest h
 <p><a href="{{ '/drugs/amifostine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (16)
+
+### [Alopecia Areata White Hair Growth Occurs Without Follicular Cycling](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
+
+2026-11-16 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">alopecia areata</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
+
+---
+
+### [Lung Cancer In Non-Smokers: AIIMS Oncologist Says Cases Are Rising Among Young People And Women, Explains PM2.5 Link - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+---
+
+### [Prostate cancer diagnostic test could reduce unnecessary intensive treatments - Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
+
+---
+
+### [Association of MMP9 (rs17576 and rs3787268) genetic variants with breast cancer susceptibility: integrating molecular and bioinformatics approaches](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNHhCM1RRZmxGUUwyZmlzNzZqR3VFUWs5ZFBubkMxR055RldfSFhxSy1ISUI3Umhja1g4S2FwS3dWTVhrUVlpd1ZNTEhTcWRMV2FJRk5sa0Nhcjk2Y2g4?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNHhCM1RRZmxGUUwyZmlzNzZqR3VFUWs5ZFBubkMxR055RldfSFhxSy1ISUI3Umhja1g4S2FwS3dWTVhrUVlpd1ZNTEhTcWRMV2FJRk5sa0Nhcjk2Y2g4?oc=5)
+
+---
 
 ### [Cancer 'sponge' tests could be offered to more people with bad indigestion](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
 
@@ -73,6 +105,22 @@ Source: [The Week](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmJJbHNi
 2026-11-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYldyN2wxVHJMSmFRN0xaRW9XSHJ2bG9JMm9yVmQ4eVJ4OFZCckdNYjJ2OHNVRVpHZEwyMnRlU2xNM1hxaU9heGtWQmdKMWJXLV91di1Pa3FBVkpxZkJ5M2VBaTI0aTNsYnljUDBvMExod1BVVmtCNVpsRjRLc25TNUhEZGQycmtKQ183d2xqNFpwbDTSAZcBQVVfeXFMTUl2WXpoOWZ2ME5iN2I3U3IzMHEzVU1yZG56ZjRwdUpTc3dqQlFIWHVsc3dIdHN1OXV0VzdySVVoYkZPQUtYOW5uR1Z0NUZkWmJ4QVNjQTQxRXQ3UFZHRjhVMnF3VWZKMnJfUFoyOFAyTHpnNGtYN2gzSGtCeFFKcGxIaDNLaC05ZnB6TERGNmpQb3QzTTBVYw?oc=5)
+
+---
+
+### [Vaccines may prevent cancers, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
+
+---
+
+### [Can Mindfulness for Insomnia Help Women With Cancer?](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
 
 ---
 

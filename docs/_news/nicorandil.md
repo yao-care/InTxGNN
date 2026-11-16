@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Nicorandil?">
-<strong>Nicorandil</strong> currently has <strong>2 news articles</strong>, with 6 predicted indications.
+<strong>Nicorandil</strong> currently has <strong>3 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <li><strong>Evidence level</strong>: L4</li>
 <li><strong>Predicted indications (6)</strong>:<ul>
 <li>benign prostatic hyperplasia (disease)</li>
-<li>alopecia</li>
+<li class="indication-matched">alopecia<span class="indication-tag">📰 alopecia</span></li>
 <li>hypotrichosis simplex of the scalp</li>
 <li>congenital hypotrichosis milia</li>
 <li>diffuse alopecia areata</li>
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Nicorandil with the latest h
 <p><a href="{{ '/drugs/nicorandil/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Alopecia Areata White Hair Growth Occurs Without Follicular Cycling](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
+
+2026-11-16 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">alopecia areata</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
+
+---
 
 ### [A weight-loss drug eased knee arthritis pain in two major trials](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXRsbW9fTGViQWNEdU9iU25wc0dzdTQxSlNmcTc4WmtCT3YwRHdFR1JIdUhvclRtQ3FERHBQUGVRVDJfYVFmNWNYOFdfTFVoNUhLM2ZJNl9FZThJS21GLXFEVVoxYjJabXVvRkhqMFB0LW9TTXNlRWlPNTZ4ZFdmcEFQR3Buc0syaVU4SHlMNk15WkVxemlRVERaT2RGcGwwWGh5MGxiMDI4ekJlcXE3bzZn?oc=5)
 

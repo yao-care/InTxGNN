@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Isosorbide Dinitrate?">
-<strong>Isosorbide Dinitrate</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
+<strong>Isosorbide Dinitrate</strong> currently has <strong>9 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,39 @@ This page combines the AI-predicted indications for Isosorbide Dinitrate with th
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (9)
+
+### [Transportation Noise Tied to Cardiovascular Events](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWg4RkVDR2dEQ0xDTW5JWWV2cUotOTd2bDdoamJBa3prVjJSS1BHZTVtdGo0eEZjS09IcWF6cjBaUGZVd0RxVHg4R0Zsd2hkNFdScU4zNHdUQlBHWV9PeHVhWXJtTzBFMmRaRUFlZmtDYXlfVEN5T2JoVzNySUVMZG1haUZVUnN3U2NmZFhHS3NkNHVHaXJ0Z3RvMHBmOFcxelE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWg4RkVDR2dEQ0xDTW5JWWV2cUotOTd2bDdoamJBa3prVjJSS1BHZTVtdGo0eEZjS09IcWF6cjBaUGZVd0RxVHg4R0Zsd2hkNFdScU4zNHdUQlBHWV9PeHVhWXJtTzBFMmRaRUFlZmtDYXlfVEN5T2JoVzNySUVMZG1haUZVUnN3U2NmZFhHS3NkNHVHaXJ0Z3RvMHBmOFcxelE?oc=5)
+
+---
+
+### [BHF Report Flags Heart Care Gap in Severe Mental Illness](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0FwN1gteFhaTEZDM0FYNTgyeU0wTHZQWGtWVVczcDdlUkM1UndVenM1eGpiZTZEYy1iM2RxTHQ3cl9WV3Nzb3dxZ2Y2YlNHWGUwNHJkLXhTSk8xNWhUa0RrVWZtenB3WFZqMW1hZnFBcVJXdTF5eUR5MzR3SE9DZnhsOXUyMzRVdEFWdFhFM0dqMG9LZklvSWRqNWUwRjRLa1RkRTVB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0FwN1gteFhaTEZDM0FYNTgyeU0wTHZQWGtWVVczcDdlUkM1UndVenM1eGpiZTZEYy1iM2RxTHQ3cl9WV3Nzb3dxZ2Y2YlNHWGUwNHJkLXhTSk8xNWhUa0RrVWZtenB3WFZqMW1hZnFBcVJXdTF5eUR5MzR3SE9DZnhsOXUyMzRVdEFWdFhFM0dqMG9LZklvSWRqNWUwRjRLa1RkRTVB?oc=5)
+
+---
+
+### [Alopecia Areata White Hair Growth Occurs Without Follicular Cycling](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
+
+2026-11-16 <span class="news-indication-tag">alopecia</span> <span class="news-indication-tag">alopecia areata</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVhc0FpODd1eVpYMEExX1VsTkp1blV5T0NiX2dXM05KSlVwVmxaV0h5UzBKU1I3YmJOV2VYR25pcXZGUzY0WVZwMGdDRGF4MmdFU3dRbTI3cmNnQzN6R0pubjJod1k5c0FSUjhRcmVpTlphVk8tdnhMQkE0T0RmVW1QTU9ULXNFb2N0RWJDTlp0LW83endXeGZzX0liWGZtbnREdElZdE9mOWc5akt5cUJ3?oc=5)
+
+---
+
+### [Diabetes Rising Among Young Adults in Their 20s and 30s, Warn Amor Hospitals Doctors - The Indian Practitioner](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1RTdDZzaFJCNm4xdTh0ekxydC1VUy1DaWRJblU2UUM2QTEtcWFyejd3dkZwR3lmamM4ZzBRYzNtSUNyeHpQS1J0SHBpb0laYktNQXlBanFmRTlqazVPdDFzMlExTlUzUEtDZF81czZQdnVHSjdwODhMTTVkUGlodnpqN01ncXdXenl0UU44MEpwOER4SFlFekNiaFdFRVR0NU9iVC1DS2hfc3M0Q2lJSnpORzlHREd6dGc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1RTdDZzaFJCNm4xdTh0ekxydC1VUy1DaWRJblU2UUM2QTEtcWFyejd3dkZwR3lmamM4ZzBRYzNtSUNyeHpQS1J0SHBpb0laYktNQXlBanFmRTlqazVPdDFzMlExTlUzUEtDZF81czZQdnVHSjdwODhMTTVkUGlodnpqN01ncXdXenl0UU44MEpwOER4SFlFekNiaFdFRVR0NU9iVC1DS2hfc3M0Q2lJSnpORzlHREd6dGc?oc=5)
+
+---
 
 ### [NAD Supplements Unnecessary for Healthy Adults](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEV4am9kcmpCVFQ1LVA1V1VzUklyYjBGdUZiRDdqM2JCV0FiQXB0eF9WYmhyVXI3dGFWbjcxdS1SaEd4c3VvZzdyQnJXbWlJZFBKOXFNZHRSWXdBcl9ySGpBZ0tENTR5VllGU2Y4bmwtT3FQSjBobGFvVkxXSjl4bUJiUXVFZ3d3?oc=5)
 

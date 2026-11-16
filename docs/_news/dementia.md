@@ -3,7 +3,7 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 7 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 9 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-11-16
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>9 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [Brain shrinkage may predict Alzheimer's a decade before symptoms](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEltYWVMLTZnTGE2aVdIMDNmNHc2aTExUlpCb29oODU2aUx2NndnOE8xRnZRV3B2REliMkkxZDQzcGNKaUtEd2RsdUlGNUZjZzJ2RW1jX1B6bUM0VE50cWMyaGRyNjUtV0tFMU5lVVA3TVlXNXdla0VDX0VDRldNVk5uSEVLb1BJUEpSbjE3Z240MG1qVUFEOUFCc2VzR3lVYjgzRTRwWWVlYm80TTJGUw?oc=5)
+
+2026-11-16
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEltYWVMLTZnTGE2aVdIMDNmNHc2aTExUlpCb29oODU2aUx2NndnOE8xRnZRV3B2REliMkkxZDQzcGNKaUtEd2RsdUlGNUZjZzJ2RW1jX1B6bUM0VE50cWMyaGRyNjUtV0tFMU5lVVA3TVlXNXdla0VDX0VDRldNVk5uSEVLb1BJUEpSbjE3Z240MG1qVUFEOUFCc2VzR3lVYjgzRTRwWWVlYm80TTJGUw?oc=5)
+
+---
+
+### [Older Adults Receiving High-Dose Flu Shots Show Lower Alzheimer's Risk: Study - Health and Me](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnRqRWtZOUQyakdxSDgyZkpLTXJIaGhtUmZYUk1neVA3c0J0dUJQQ2RMZDl3VWs3OXlWUGZjQ0Rad3Zqa2ZZRnB2eHYtbm5oTGZDaVVKMjV3MFAzdTJOMmxKTXlsTnZmVDRPSVBfZFJQSm4yX0YteVdGeWMwblE2Y0NnOVdISjZPdXZVSjBQWGhWczhIQWZHTDloN0loZGV6QUZrbUd4UEFFTmVBaGIwYVQ2T0RFd2lDV1RiSFJyMGJXODFlRnBlTjM5SGFTUThKSnRF?oc=5)
+
+2026-11-16
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnRqRWtZOUQyakdxSDgyZkpLTXJIaGhtUmZYUk1neVA3c0J0dUJQQ2RMZDl3VWs3OXlWUGZjQ0Rad3Zqa2ZZRnB2eHYtbm5oTGZDaVVKMjV3MFAzdTJOMmxKTXlsTnZmVDRPSVBfZFJQSm4yX0YteVdGeWMwblE2Y0NnOVdISjZPdXZVSjBQWGhWczhIQWZHTDloN0loZGV6QUZrbUd4UEFFTmVBaGIwYVQ2T0RFd2lDV1RiSFJyMGJXODFlRnBlTjM5SGFTUThKSnRF?oc=5)
+
+---
 
 ### [Diabetes linked with 53% higher risk of Alzheimer's, review finds - The Hindu](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWVUSU1pYmlGSXpzemZ6WF9EdkU3LTZUOHBmT0ZNYVVVelB6anI3WEItZjJIV0VnbHZ6ZTFOdFZnLUpSX3RXc0MzVkZqQkMybzhVcTJncmNTaTItSnpwNmdjdjlVaXVRY0FodmVDWkRxUy04b0Q5dHBBZDhMMmhPT0N2bkpGVUhiR1hWazZUTDg2QTg1T2xvMXVKR1BVYTF5WlNKbEduV09IT3kxZTFMV1dCZ3FwYVRnWm45S3pvNlHSAccBQVVfeXFMTU1lUzZubXQ3Z3hZNWNpbkNNTDBqdnBGNkpYM2xqeFhuSFlkOF96Y2VrWTV0aXU3OXVtQkhQb3FuUGlfMm9lLWZjTHhmMzQ2RkJnbDBBVEhVSmFGam4yVFdTVTM3V25TYnFER0hNeDg2SEw3cHk1RUJGX083MFR1dEZmbkpKanZycTJjMEFkWURTUmhSdG1jSmc2NENQTW1iOVB5YlJPcWtqNmU1X3BHb1pmbE9sWTFpR25CNy1idld4NTRoLUlwQQ?oc=5)
 

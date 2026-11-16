@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>15 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>22 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,47 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (22)
+
+### [Brain shrinkage may predict Alzheimer's a decade before symptoms](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEltYWVMLTZnTGE2aVdIMDNmNHc2aTExUlpCb29oODU2aUx2NndnOE8xRnZRV3B2REliMkkxZDQzcGNKaUtEd2RsdUlGNUZjZzJ2RW1jX1B6bUM0VE50cWMyaGRyNjUtV0tFMU5lVVA3TVlXNXdla0VDX0VDRldNVk5uSEVLb1BJUEpSbjE3Z240MG1qVUFEOUFCc2VzR3lVYjgzRTRwWWVlYm80TTJGUw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">alzheimer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEltYWVMLTZnTGE2aVdIMDNmNHc2aTExUlpCb29oODU2aUx2NndnOE8xRnZRV3B2REliMkkxZDQzcGNKaUtEd2RsdUlGNUZjZzJ2RW1jX1B6bUM0VE50cWMyaGRyNjUtV0tFMU5lVVA3TVlXNXdla0VDX0VDRldNVk5uSEVLb1BJUEpSbjE3Z240MG1qVUFEOUFCc2VzR3lVYjgzRTRwWWVlYm80TTJGUw?oc=5)
+
+---
+
+### [Lung Cancer In Non-Smokers: AIIMS Oncologist Says Cases Are Rising Among Young People And Women, Explains PM2.5 Link - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+---
+
+### [Prostate cancer diagnostic test could reduce unnecessary intensive treatments - Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
+
+---
+
+### [Association of MMP9 (rs17576 and rs3787268) genetic variants with breast cancer susceptibility: integrating molecular and bioinformatics approaches](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNHhCM1RRZmxGUUwyZmlzNzZqR3VFUWs5ZFBubkMxR055RldfSFhxSy1ISUI3Umhja1g4S2FwS3dWTVhrUVlpd1ZNTEhTcWRMV2FJRk5sa0Nhcjk2Y2g4?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNHhCM1RRZmxGUUwyZmlzNzZqR3VFUWs5ZFBubkMxR055RldfSFhxSy1ISUI3Umhja1g4S2FwS3dWTVhrUVlpd1ZNTEhTcWRMV2FJRk5sa0Nhcjk2Y2g4?oc=5)
+
+---
+
+### [Older Adults Receiving High-Dose Flu Shots Show Lower Alzheimer's Risk: Study - Health and Me](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnRqRWtZOUQyakdxSDgyZkpLTXJIaGhtUmZYUk1neVA3c0J0dUJQQ2RMZDl3VWs3OXlWUGZjQ0Rad3Zqa2ZZRnB2eHYtbm5oTGZDaVVKMjV3MFAzdTJOMmxKTXlsTnZmVDRPSVBfZFJQSm4yX0YteVdGeWMwblE2Y0NnOVdISjZPdXZVSjBQWGhWczhIQWZHTDloN0loZGV6QUZrbUd4UEFFTmVBaGIwYVQ2T0RFd2lDV1RiSFJyMGJXODFlRnBlTjM5SGFTUThKSnRF?oc=5)
+
+2026-11-16 <span class="news-indication-tag">alzheimer</span>
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnRqRWtZOUQyakdxSDgyZkpLTXJIaGhtUmZYUk1neVA3c0J0dUJQQ2RMZDl3VWs3OXlWUGZjQ0Rad3Zqa2ZZRnB2eHYtbm5oTGZDaVVKMjV3MFAzdTJOMmxKTXlsTnZmVDRPSVBfZFJQSm4yX0YteVdGeWMwblE2Y0NnOVdISjZPdXZVSjBQWGhWczhIQWZHTDloN0loZGV6QUZrbUd4UEFFTmVBaGIwYVQ2T0RFd2lDV1RiSFJyMGJXODFlRnBlTjM5SGFTUThKSnRF?oc=5)
+
+---
 
 ### [Cancer 'sponge' tests could be offered to more people with bad indigestion](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QNExVMUV6NTVHcWx1QUtydWZ4ek5vRlRHZl9hVDhBVTNhbDhCNXF2Y1hIMHdDVUc4aDFPTnlMdVBaeUxJdWxqMHhWaFJKSlBMV0MxOVZuamNVLVE?oc=5)
 
@@ -99,11 +139,27 @@ Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY
 
 ---
 
+### [Vaccines may prevent cancers, study finds](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">cancer</span>
+
+Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
+
+---
+
 ### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
 2026-11-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+---
+
+### [Can Mindfulness for Insomnia Help Women With Cancer?](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
+
+2026-11-12 <span class="news-indication-tag">cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmVBNHIwSGUwNEFmMDlFeldqWVR6SVBXQVpiQ3hmU0tYeWpWYVNyRFotMkNTdUhZUzM1cDlLMDB5NVpjTlk2UVJaMUgzSWFLWnVBYnhXZWhVck5FYTl2UGNYYkNON3IxcDlNUHhLdzJiMFgwZXIwN05VcjRmWTFOb1lIX0E3MnlYUkM3XzFUQmJfZlp1a2dpQQ?oc=5)
 
 ---
 

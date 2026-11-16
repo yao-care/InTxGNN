@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 2 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 3 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>2 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>3 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Lung Cancer In Non-Smokers: AIIMS Oncologist Says Cases Are Rising Among Young People And Women, Explains PM2.5 Link - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+2026-11-16
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
+
+---
 
 ### [Lung cancer prevention in a Changing World: Beyond Tobacco - Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOYldyN2wxVHJMSmFRN0xaRW9XSHJ2bG9JMm9yVmQ4eVJ4OFZCckdNYjJ2OHNVRVpHZEwyMnRlU2xNM1hxaU9heGtWQmdKMWJXLV91di1Pa3FBVkpxZkJ5M2VBaTI0aTNsYnljUDBvMExod1BVVmtCNVpsRjRLc25TNUhEZGQycmtKQ183d2xqNFpwbDTSAZcBQVVfeXFMTUl2WXpoOWZ2ME5iN2I3U3IzMHEzVU1yZG56ZjRwdUpTc3dqQlFIWHVsc3dIdHN1OXV0VzdySVVoYkZPQUtYOW5uR1Z0NUZkWmJ4QVNjQTQxRXQ3UFZHRjhVMnF3VWZKMnJfUFoyOFAyTHpnNGtYN2gzSGtCeFFKcGxIaDNLaC05ZnB6TERGNmpQb3QzTTBVYw?oc=5)
 
