@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 1 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 2 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>1 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>2 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Engineered bacteria carrying two anticancer components shrinks aggressive breast cancer in mice](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
+
+2026-11-16
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
+
+---
 
 ### [Association of MMP9 (rs17576 and rs3787268) genetic variants with breast cancer susceptibility: integrating molecular and bioinformatics approaches](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CNHhCM1RRZmxGUUwyZmlzNzZqR3VFUWs5ZFBubkMxR055RldfSFhxSy1ISUI3Umhja1g4S2FwS3dWTVhrUVlpd1ZNTEhTcWRMV2FJRk5sa0Nhcjk2Y2g4?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Benazepril. 4 predicted indications."
 permalink: /news/benazepril/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Benazepril News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Benazepril?">
-<strong>Benazepril</strong> currently has <strong>15 news articles</strong>, with 4 predicted indications.
+<strong>Benazepril</strong> currently has <strong>19 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,31 @@ This page combines the AI-predicted indications for Benazepril with the latest h
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (19)
+
+### [Engineered bacteria carrying two anticancer components shrinks aggressive breast cancer in mice](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
+
+---
+
+### [Capsule Sponge Tests Recommended in Draft NICE Guidance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGlJMlYzeE1VUldVY3Q5a3hnMzJNVEZlZ2M0NU1oTnpvODVHblJfX1NqNVpDaDZSWXoxWXhwWnYwVkk5VWdERGFWV0sxSUZ5TnhDY1BjYmxpbWNOdVRzMmtJRFcyNWtwSE5MQ2VNWGpYN0JacUc4X0RjUV9SYXVOcEJTNEhuTWloalNvdzJ0bDlrSEtDcEZqNjJiTmxoSDBMbFRvWQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGlJMlYzeE1VUldVY3Q5a3hnMzJNVEZlZ2M0NU1oTnpvODVHblJfX1NqNVpDaDZSWXoxWXhwWnYwVkk5VWdERGFWV0sxSUZ5TnhDY1BjYmxpbWNOdVRzMmtJRFcyNWtwSE5MQ2VNWGpYN0JacUc4X0RjUV9SYXVOcEJTNEhuTWloalNvdzJ0bDlrSEtDcEZqNjJiTmxoSDBMbFRvWQ?oc=5)
+
+---
+
+### [Blood Test Spots Ovarian Cancer Precursor in Early Study - EEW Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVh3RVFGUW11LVhiUDZKbng0bWE1WnJPR3RWMGVLekZBY1I2TDgtYkY1OWM1TFlQeUI0R2RXcG1HNEV5SVVFM1NaZXU5T2stNW1SdE5sTzFNWnpCS2xrcjI2MmJvbTgxMUlJd3c5MDRyblh5Nm91cG1ERy1pYkJldVA2dTVNQldMUlNIVkVxa3ZHcm1xM21LdEp3Z1JMWmljUldxekdLRXI?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [EEW Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVh3RVFGUW11LVhiUDZKbng0bWE1WnJPR3RWMGVLekZBY1I2TDgtYkY1OWM1TFlQeUI0R2RXcG1HNEV5SVVFM1NaZXU5T2stNW1SdE5sTzFNWnpCS2xrcjI2MmJvbTgxMUlJd3c5MDRyblh5Nm91cG1ERy1pYkJldVA2dTVNQldMUlNIVkVxa3ZHcm1xM21LdEp3Z1JMWmljUldxekdLRXI?oc=5)
+
+---
 
 ### [Lung Cancer In Non-Smokers: AIIMS Oncologist Says Cases Are Rising Among Young People And Women, Explains PM2.5 Link - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
 
@@ -51,6 +75,14 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXd
 2026-11-16 <span class="news-indication-tag">cancer</span>
 
 Source: [Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
+
+---
+
+### [GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh.. - ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-drug-tag">Silver</span>
+
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
 
 ---
 

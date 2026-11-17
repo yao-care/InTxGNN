@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Silver. 1 predicted indications."
 permalink: /news/silver/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Silver News
@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Silver with the latest healt
 
 ### [GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh.. - ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
 
-2026-11-16 <span class="news-drug-tag">Silver</span>
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-drug-tag">Silver</span>
 
 Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
 

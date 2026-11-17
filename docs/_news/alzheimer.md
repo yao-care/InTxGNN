@@ -3,9 +3,9 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 3 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 5 articles, 8 related drugs."
 permalink: /news/alzheimer/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # dementia (alzheimer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>3 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (5)
+
+### [β3 Agonists Show No Dementia Advantage Over Anticholinergics in OAB - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+2026-11-16
+
+Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+---
+
+### [GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh.. - ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
+
+2026-11-16
+
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
+
+---
 
 ### [Alzheimer’s may start shrinking two brain regions years before memory loss - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOERMY2owOHgzYnVwQkkwNjlwcmRhN3VWYks3TEpqbkp5R3p6M29BU3FZM1k1bkJqUXFoVnlFX1poQ1NBQ0JOY3lYaWNDajQ4NWlPSGRDbm1CaTVMd0VEeTlLeS1xajJRLXNVUmo0VQ?oc=5)
 

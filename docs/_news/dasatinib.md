@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dasatinib. 9 predicted indications."
 permalink: /news/dasatinib/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Dasatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>22 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>28 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,47 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (22)
+## Related News (28)
+
+### [Engineered bacteria carrying two anticancer components shrinks aggressive breast cancer in mice](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">breast cancer</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
+
+---
+
+### [Capsule Sponge Tests Recommended in Draft NICE Guidance](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGlJMlYzeE1VUldVY3Q5a3hnMzJNVEZlZ2M0NU1oTnpvODVHblJfX1NqNVpDaDZSWXoxWXhwWnYwVkk5VWdERGFWV0sxSUZ5TnhDY1BjYmxpbWNOdVRzMmtJRFcyNWtwSE5MQ2VNWGpYN0JacUc4X0RjUV9SYXVOcEJTNEhuTWloalNvdzJ0bDlrSEtDcEZqNjJiTmxoSDBMbFRvWQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGlJMlYzeE1VUldVY3Q5a3hnMzJNVEZlZ2M0NU1oTnpvODVHblJfX1NqNVpDaDZSWXoxWXhwWnYwVkk5VWdERGFWV0sxSUZ5TnhDY1BjYmxpbWNOdVRzMmtJRFcyNWtwSE5MQ2VNWGpYN0JacUc4X0RjUV9SYXVOcEJTNEhuTWloalNvdzJ0bDlrSEtDcEZqNjJiTmxoSDBMbFRvWQ?oc=5)
+
+---
+
+### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">alzheimer</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
+
+---
+
+### [β3 Agonists Show No Dementia Advantage Over Anticholinergics in OAB - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+2026-11-16 <span class="news-drug-tag">CHOLINE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+---
+
+### [Blood Test Spots Ovarian Cancer Precursor in Early Study - EEW Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVh3RVFGUW11LVhiUDZKbng0bWE1WnJPR3RWMGVLekZBY1I2TDgtYkY1OWM1TFlQeUI0R2RXcG1HNEV5SVVFM1NaZXU5T2stNW1SdE5sTzFNWnpCS2xrcjI2MmJvbTgxMUlJd3c5MDRyblh5Nm91cG1ERy1pYkJldVA2dTVNQldMUlNIVkVxa3ZHcm1xM21LdEp3Z1JMWmljUldxekdLRXI?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [EEW Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVh3RVFGUW11LVhiUDZKbng0bWE1WnJPR3RWMGVLekZBY1I2TDgtYkY1OWM1TFlQeUI0R2RXcG1HNEV5SVVFM1NaZXU5T2stNW1SdE5sTzFNWnpCS2xrcjI2MmJvbTgxMUlJd3c5MDRyblh5Nm91cG1ERy1pYkJldVA2dTVNQldMUlNIVkVxa3ZHcm1xM21LdEp3Z1JMWmljUldxekdLRXI?oc=5)
+
+---
 
 ### [Brain shrinkage may predict Alzheimer's a decade before symptoms](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEltYWVMLTZnTGE2aVdIMDNmNHc2aTExUlpCb29oODU2aUx2NndnOE8xRnZRV3B2REliMkkxZDQzcGNKaUtEd2RsdUlGNUZjZzJ2RW1jX1B6bUM0VE50cWMyaGRyNjUtV0tFMU5lVVA3TVlXNXdla0VDX0VDRldNVk5uSEVLb1BJUEpSbjE3Z240MG1qVUFEOUFCc2VzR3lVYjgzRTRwWWVlYm80TTJGUw?oc=5)
 
@@ -64,6 +104,14 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXd
 2026-11-16 <span class="news-indication-tag">cancer</span>
 
 Source: [Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
+
+---
+
+### [GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh.. - ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-drug-tag">Silver</span>
+
+Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
 
 ---
 
@@ -149,7 +197,7 @@ Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3
 
 ### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
-2026-11-12 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+2026-11-12 <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 

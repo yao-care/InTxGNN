@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Apomorphine. 10 predicted indications."
 permalink: /news/apomorphine/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Apomorphine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [TU Delft and LUMC Contribute to the Largest Brain Atlas Ever Created: First Results Published](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUF2N2NzcmE3VkU2Nkk5SEo2SUZRUFZaTEpyS0FrOFA5TDJSSmRZOFZjMTlxN2pBTTVkM2VPMkJyMG5iZkljd2NzQVBjZEh2LWV6eVRLUF81cFZSTVFZaVByd2RqT1ZJR3JqNmV5SzNnQWlJTmRxVDAyOWdyMWMtQjdHN1daUHVXRnozeTlpZU9TcDVNdG1xSW9NTFBwcEV4NUtYWDh1emtBdGRCS0RZbWxSOA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [Science|Business](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUF2N2NzcmE3VkU2Nkk5SEo2SUZRUFZaTEpyS0FrOFA5TDJSSmRZOFZjMTlxN2pBTTVkM2VPMkJyMG5iZkljd2NzQVBjZEh2LWV6eVRLUF81cFZSTVFZaVByd2RqT1ZJR3JqNmV5SzNnQWlJTmRxVDAyOWdyMWMtQjdHN1daUHVXRnozeTlpZU9TcDVNdG1xSW9NTFBwcEV4NUtYWDh1emtBdGRCS0RZbWxSOA?oc=5)
+
+---
 
 ### [Scientists map 21 million brain cells, create detailed atlas of human brain - India Today](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDhwem43WmY2ZmFoQ0ZXM2oybVlIekphWGxwNU83NTFOQWMzc3dJa0l4Z2xoY01VX0FhQTg4ZmhFZDFoTDY3ak9wZzdoNlVmSk1uaWFGVldXcTM0ZWwzRFJEdjg1RnB2RlBvNWx0anozNkRad1VYYzZIU1ZfVzNZWmR1dnladmFJai1KRUdKQmRHaUxfN2x1blhuOUdrZWEwUEQwNUQ1NU1CM3BqQTBrWXF6MHZJMVlLZnc4eVRVcXFONGlRc01LOVlTYXg1QdIB0wFBVV95cUxPMW85eU9VQklhTWl5VnB5Y1k5X1JmNG93QnlJc19NcHNHREx3V1ZMODh5YXg2dkRTYmxZQk9MZkZLOEQwa1E2YlZKX18tY2pfaUQ0bjQ3S1BpSU8yaFVpN3d6Q3RQaUZGNnVpTmRTZ2xUOThGc2M4cUw1WXlLZHNmYWlIVXJDeWpuTWZqWUlVelJzRlNKWUV2YVprNm1LZTFjWEdCV0ZaUWcwdXpKQzFLUlpibGdsaXk3SlRMQmZFaEdWZ3JQRU1Rc0xBbTcyQU5ub1dv?oc=5)
 
