@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Chromium. 0 predicted indications."
 permalink: /news/chromium/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Chromium News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Chromium?">
-<strong>Chromium</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Chromium</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page combines the AI-predicted indications for Chromium with the latest hea
 <p><a href="{{ '/drugs/chromium/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Investigational retatrutide reduced knee osteoarthritis pain and body weight versus placebo in adults with obesity - 2 Minute Medicine](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUxQb254MjBrNV9jUlFGcTd2NTNPZ0VKb2Z5RUJ4NVVubmRMLTZZWlRDVDJfUnRXMF92UkJoREZtSndOUDV1N19XMW03amlPM0NxRzQzdFhKbXJvRnRlb0d3ZHlYbkJqMXdmUVZIY3Vvb3czbnR2N1RoZGpxdGt3a3o1N0dhdUZGbEpEcWlHZ3hhYUhvY2tsRDNSaXU1N2pkSkswU3Jxdno5dkdiM2xaNWIwckstcnlTeWR0djZwdnVDY0pjTjk0R0pFcXE0WnJVZkxfUkFJSEs2dE5LZzRPcA?oc=5)
+
+2026-11-17 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [2 Minute Medicine](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUxQb254MjBrNV9jUlFGcTd2NTNPZ0VKb2Z5RUJ4NVVubmRMLTZZWlRDVDJfUnRXMF92UkJoREZtSndOUDV1N19XMW03amlPM0NxRzQzdFhKbXJvRnRlb0d3ZHlYbkJqMXdmUVZIY3Vvb3czbnR2N1RoZGpxdGt3a3o1N0dhdUZGbEpEcWlHZ3hhYUhvY2tsRDNSaXU1N2pkSkswU3Jxdno5dkdiM2xaNWIwckstcnlTeWR0djZwdnVDY0pjTjk0R0pFcXE0WnJVZkxfUkFJSEs2dE5LZzRPcA?oc=5)
+
+---
 
 ### [Gout is on the rise – and excruciating. Why are sufferers still judged for it? - The Guardian](https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHNxZlBhYzlZNVAzcGpHeHZEQ21rdV9CQUFxVzl0azF1Wk81RHF1MWh6dFdMazQya0Z4WUF1SUlDWnhzM1ltNnRkOUxwdk9fOUtQczBycW1aRVk1eE1rZkp4djdRSGtTdlJWZG41OVV4TFcweW0tTlVtN29XQW80eWZtX2Zkcmlydl95OXpXMHpKaEZBYWVsN3ZsR2RFZl9lVGVtVThHSXRySDk2RHlJSHR3SHRtODJJNk1FVVN5RzNYay1ndWc?oc=5)
 

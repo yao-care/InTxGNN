@@ -3,7 +3,7 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 11 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 12 articles, 8 related drugs."
 permalink: /news/dementia/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>11 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>12 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
 
 ### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
 
@@ -47,11 +47,19 @@ Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53
 
 ---
 
-### [β3 Agonists Show No Dementia Advantage Over Anticholinergics in OAB - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
 
 2026-11-16
 
-Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
+
+---
+
+### [β3 Agonists Show No Dementia Advantage Over Anticholinergics in OAB - The American Journal of Managed Care® (AJMC®)](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+2026-11-16
+
+Source: [The American Journal of Managed Care® (AJMC®)](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
 
 ---
 

@@ -39,11 +39,19 @@ This page brings together the latest health news about “dementia” and lists 
 
 ## Related News (4)
 
-### [β3 Agonists Show No Dementia Advantage Over Anticholinergics in OAB - The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
 
 2026-11-16
 
-Source: [The American Journal of Managed Care](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
+
+---
+
+### [β3 Agonists Show No Dementia Advantage Over Anticholinergics in OAB - The American Journal of Managed Care® (AJMC®)](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
+
+2026-11-16
+
+Source: [The American Journal of Managed Care® (AJMC®)](https://news.google.com/rss/articles/CBMikgFBVV95cUxPd3NhbnRJb05oS2ZWcXpHMnJTbldpejN2anJQbjVnWnJPVkpMeGpHdmZnbV91bVdQWmtFVUIwNVVzbEJWdFhvLVQ2dmJDVk9zVWhLYmlqX0FuQzZyWlZNbl9oYU9oZThXMUdvYW8wOVBJRERKWUhJbldrcmdPQkZIZU96eWNHdjJnWVBCYlhNT2xRZw?oc=5)
 
 ---
 
@@ -60,14 +68,6 @@ Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdk
 2026-11-14
 
 Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk4xSUU2M3ZKV1Q3WUl4RTlJbXZ5V0NzOHU1ZFBkdlpLZHQtRVl5TlVyazhVSC1oSGdyM1RUTWdjbHVNdWxSU0oySXg1QlF0cGN6elVSaVNaeWVibHB5OTlIcmlFZnFVZE8zRzRuRHdGTGFIaW1UTlJ2c2lWSXZhbGVHTGZQaW5RRE9aX2dkdldpTVp3SENHaXk3akpIM0xidy1uSmRCMy0zOTZrUHlDcG1HM1dKLXJXLXlKNVRfbVdMOGswSE11TmVadXU1b2EwWmdpUlRodFdPdU3SAeABQVVfeXFMUDZVLVlLN2VQNEVoR3ZWMDRjdGcwTWpvR1NnMDU0VndTTzVwa0tENW5CdjE5b2s2OTJsZG9KY1UwcUNoQjZHMzRVTE1DN2NhR01iZWxTVm83V2dod2R3YkJOZXVmaG1NSG1VODhzUVhzWVVlYnF2eG1TdHdIcXQ1MTdZa1ZvOE1Md0dkb1dMZ0tQVWtNSjQ0cGJZRWpoSVh0SWtMeTZIQVl0aVMzcHBJSHlLblNNaGhpZ3M2cklXaGZOSVBYVWdXcEp6dlFVb0EwSmw0UzYycjdqcVZiOGg4emk?oc=5)
-
----
-
-### [Liver-derived protein helps protect brain cells and improves memory in Alzheimer's mice](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
-
-2026-11-12
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
 
 ---
 

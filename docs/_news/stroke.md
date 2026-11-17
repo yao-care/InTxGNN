@@ -3,9 +3,9 @@ layout: default
 title: "stroke News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke. 2 articles, 15 related drugs."
+description: "Health news about stroke. 3 articles, 15 related drugs."
 permalink: /news/stroke/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # stroke News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about stroke?">
-<strong>stroke</strong> currently has <strong>2 news articles</strong> and 15 related drugs.
+<strong>stroke</strong> currently has <strong>3 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Quitting GLP-1 therapy doubled heart attack and stroke rates: study - Benefits and Pensions Monitor](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWtrNTlDamdQLXNjWWRqZ01valExNWt1TUhlaEZTTHoxQVJIQVo0VFAzVWpWejROdXI0ZlJwU1BzbUppRnFBR1AwMzNpU19OUzNJNzBzeFBxZnNVNnE0SlJSWktGRzIxZ3JVWHhFa2VYMEVSZEdiN0JSTmtUQTNuS0dJX1lFRHowLWxjRkZtalBTdmFyTkR2ZnB2ZGlqajVUUXEtTzluOHNPWjRKbDBJQ3lSMEhUZXd5bWp6ZUJtc1RaV0d5Ry13T3NxSEtUWWZR?oc=5)
+
+2026-11-17
+
+Source: [Benefits and Pensions Monitor](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWtrNTlDamdQLXNjWWRqZ01valExNWt1TUhlaEZTTHoxQVJIQVo0VFAzVWpWejROdXI0ZlJwU1BzbUppRnFBR1AwMzNpU19OUzNJNzBzeFBxZnNVNnE0SlJSWktGRzIxZ3JVWHhFa2VYMEVSZEdiN0JSTmtUQTNuS0dJX1lFRHowLWxjRkZtalBTdmFyTkR2ZnB2ZGlqajVUUXEtTzluOHNPWjRKbDBJQ3lSMEhUZXd5bWp6ZUJtc1RaV0d5Ry13T3NxSEtUWWZR?oc=5)
+
+---
 
 ### [Enhancing illness communication between patients with stroke and their spouses: a dyadic coping intervention programme](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wRmtraDRjaVZMajFLRDBfOEh5U19nWnZ6TWZScXc4WTRibG94SVE1QjNwdmt4ZHJRdV91RnEwTXNXLWdTQ2FtVlhSeklCTzhzQURVcXl5dlllYjE1dnBj?oc=5)
 

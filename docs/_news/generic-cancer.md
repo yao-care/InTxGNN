@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 19 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 27 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>19 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>27 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,47 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (19)
+## Related News (27)
+
+### [Conflicting Testicular Histopathology Preceding the Diagnosis of Metastatic Male Breast Cancer: A Case Report](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2ZXbUc3WXFiUTJWTzZqNGVjMVA3RV9kV21zM2IzMXV6QWN0NjNSM3hvWjZtc0pVNWREMTVvMzc5NldCV0hTSFFYOUE1UEhHaHpwSzNlMmp2YS1FQ2MwOTJqNFZxRXBuR0l5Z1g1dklTVktJbWtMYmhLMjByV0hmSmYzT1hERkg0a1B1WmhIRklGWGwxZmNPWmp5ZjVMcTJfT0JwelQwSWlOMy0wNnA3VHFfbUV1UWpBWENIdFJkMkNJdWVIR3Q5TGFvcFpSbzVrY002cTFnc3hITlppWTRpeg?oc=5)
+
+2026-11-17
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2ZXbUc3WXFiUTJWTzZqNGVjMVA3RV9kV21zM2IzMXV6QWN0NjNSM3hvWjZtc0pVNWREMTVvMzc5NldCV0hTSFFYOUE1UEhHaHpwSzNlMmp2YS1FQ2MwOTJqNFZxRXBuR0l5Z1g1dklTVktJbWtMYmhLMjByV0hmSmYzT1hERkg0a1B1WmhIRklGWGwxZmNPWmp5ZjVMcTJfT0JwelQwSWlOMy0wNnA3VHFfbUV1UWpBWENIdFJkMkNJdWVIR3Q5TGFvcFpSbzVrY002cTFnc3hITlppWTRpeg?oc=5)
+
+---
+
+### [South Africa: Health on commitment to eliminate cervical cancer by 2030](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3BfdGs4azJfdE1QcVE5ZWptd0psOWhzNVpNWTJDS3M5RG5mUUtESHptR0wtVjFnb2IxY1JZdGt2dXYyTW94UTItRUpaSmxidnZ0N3pSX3d2UXViUElWX3FwQ2dNMFlzZHVkd2hvTnVFNlNZUXJrelF0aUJpdHVqRGRGaGJTY3BYRXRqdjlFTDdHNEE3bk9Xa1c5UkxWdnVyNThNaDNZRXJyd0wwSnBYMmpIS00zNGpuOUx3ZTRmWUZpZG93eUowMXR0bTlaQjRSbWpZS0Fn?oc=5)
+
+2026-11-17
+
+Source: [Zawya](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3BfdGs4azJfdE1QcVE5ZWptd0psOWhzNVpNWTJDS3M5RG5mUUtESHptR0wtVjFnb2IxY1JZdGt2dXYyTW94UTItRUpaSmxidnZ0N3pSX3d2UXViUElWX3FwQ2dNMFlzZHVkd2hvTnVFNlNZUXJrelF0aUJpdHVqRGRGaGJTY3BYRXRqdjlFTDdHNEE3bk9Xa1c5UkxWdnVyNThNaDNZRXJyd0wwSnBYMmpIS00zNGpuOUx3ZTRmWUZpZG93eUowMXR0bTlaQjRSbWpZS0Fn?oc=5)
+
+---
+
+### [Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
+
+2026-11-17
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
+
+---
+
+### [Extended lymph node dissection shows no higher surgical risk in stage IV gastric cancer](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdXE1TmNFVG1xQ3M4WWRoTTNNczZjaXJDdC1idGdjdFEteFh0dF8wLXlCbGlzczc2akk4Q21OVFltTnZaZmhHTm83dkdjR29DVVM2LTZmUEJlT0Y2NzZIWTFPNHNQRkZuNHJmT19JX3JHSkI3bC1BNmxDZVM0b1hYb2RiYTNwM19zR2pfMXJ3RURFNXROSTMweTBncG5ROU1MYTBLQjBhMlN2bXFRSWhFWVlKbmdaOTdkMnBvTEVjMG1PQUFieUl1UVJONFk1WEhh?oc=5)
+
+2026-11-17
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdXE1TmNFVG1xQ3M4WWRoTTNNczZjaXJDdC1idGdjdFEteFh0dF8wLXlCbGlzczc2akk4Q21OVFltTnZaZmhHTm83dkdjR29DVVM2LTZmUEJlT0Y2NzZIWTFPNHNQRkZuNHJmT19JX3JHSkI3bC1BNmxDZVM0b1hYb2RiYTNwM19zR2pfMXJ3RURFNXROSTMweTBncG5ROU1MYTBLQjBhMlN2bXFRSWhFWVlKbmdaOTdkMnBvTEVjMG1PQUFieUl1UVJONFk1WEhh?oc=5)
+
+---
+
+### [Personalized Vaccines are Giving More Patients Hope After Brain Cancer Diagnosis](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1QtNzFHa2NUUXAzNm5ra2ZWb0xFRVZqd3B6UnNDNDdnWExvamwxdU9KV2I5Z2Z0OWtWcFBNZ3MtOUFnb0k1RkFjRGJ5Z2o3YnY3c2FULWExRHRsajQyVy1uQjI3ZUgwbnVPdnNsaF80T2ZGYVMtZi1NWTBnbHM1MTZzWE40T3EtVWo5Vk1DaFBQMHVZWjNsanNDTGtTYmdJUWVNYm1UaFB1SVZDaWtJaTdYZnUxaGRUQndEdHFFMWV5MkpoUTZhbXZjM1FES1FiN2hLTTBVbWEzdExSZ3UwUw?oc=5)
+
+2026-11-16
+
+Source: [StreetInsider](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1QtNzFHa2NUUXAzNm5ra2ZWb0xFRVZqd3B6UnNDNDdnWExvamwxdU9KV2I5Z2Z0OWtWcFBNZ3MtOUFnb0k1RkFjRGJ5Z2o3YnY3c2FULWExRHRsajQyVy1uQjI3ZUgwbnVPdnNsaF80T2ZGYVMtZi1NWTBnbHM1MTZzWE40T3EtVWo5Vk1DaFBQMHVZWjNsanNDTGtTYmdJUWVNYm1UaFB1SVZDaWtJaTdYZnUxaGRUQndEdHFFMWV5MkpoUTZhbXZjM1FES1FiN2hLTTBVbWEzdExSZ3UwUw?oc=5)
+
+---
 
 ### [Engineered bacteria carrying two anticancer components shrinks aggressive breast cancer in mice](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tLdE1zTUhiZ2o2ajlmb2xMUUF3bDRuak9sQTc5TXBydFFtNE51MFFrTnBSSHVldmxFNTl2YXBZSnV2MVpoN0VxYnp2cjlUbXJ6T01FWXBHYVdWV3dBMk5ZZE5nV3VrdmJENFgxNHFvM2k3dEo0LWQ2YnhUREFON09zWjhwdHpPVlB0QzNJTnZUTl9nLUFqcXpzYVVfelk5UF90djhPbWQxVF9MWnFQQmxGTlZLdjVvaDNYTHJUS2tfUlZqbU9DUTRFaWQ1eHJycmNEdVRROXRmdkE?oc=5)
 
@@ -251,6 +291,22 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU2tL
 2026-11-16
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGlJMlYzeE1VUldVY3Q5a3hnMzJNVEZlZ2M0NU1oTnpvODVHblJfX1NqNVpDaDZSWXoxWXhwWnYwVkk5VWdERGFWV0sxSUZ5TnhDY1BjYmxpbWNOdVRzMmtJRFcyNWtwSE5MQ2VNWGpYN0JacUc4X0RjUV9SYXVOcEJTNEhuTWloalNvdzJ0bDlrSEtDcEZqNjJiTmxoSDBMbFRvWQ?oc=5)
+
+---
+
+### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
+
+2026-11-16
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
+
+---
+
+### [This Cancer Kills Children in a Year. Research Has Been Stalled for a Year. - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
+
+2026-11-16
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5ma2FILVcxRmtMSlE3TGtBUXZNWUJBUDJ3Z0IzTDNNRm1EZnZ5MEpybE5TWTk3b3ZaZkIwWDlvdGZfcl92OG9yNWFvQWEyOHBxV2lZX2lDYkNQancta3JMSkgxN2RyTXRMenlpRllKd2FWRmFXSW1lODVNNA?oc=5)
 
 ---
 
@@ -363,6 +419,14 @@ Source: [Global Agriculture](https://news.google.com/rss/articles/CBMiygFBVV95cU
 2026-11-12
 
 Source: [The Indian Express](https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmxGR2pYTHJSamRCWGpGWjZjdUh1RkJqZTZtZ3lyY2VjN192cEJQdVo4ME1CT3RTNG9UQnBwTzFsVFM0dTM0cm1PZDY3ZHpsY0gxVVk2czhPTjZETTUyWkEtVGZjR2lpTzRFaW9XTlV0cFhxLTdkcnotSDFvNUFBUjZfMnJtV0FmYmFDMkVkR2xYU2hJVE1ETG1lWdIBogFBVV95cUxPUkE3ODdxM3llRW5RalhLUW14SG5LNG9WaFBzSkhJR2tKczF5WWNla185aTZnTzVPTUZNWjJzOWFzZWJndnJobVlSSzRxcG53WnZ3anNNdkVsRzlIckhJYkdoamRuX2l4ajlDdnFybHVlRWIwdGV6WlB2OTBCYVZ3VnRHTjJCSGZVMjZnYmVIX2wzMjQwUF85TlNPTnRDYlJoUmc?oc=5)
+
+---
+
+### [Molecular signal in blood helps detect early risk for ovarian cancer, study finds - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlDaV9ORlZ2OVNhUGU3Zm82cE5LdVdUX0VEOGg0OUlPR1UtTE9uaWZOMTlNMkVxMlU0Vzd4V1o1elh3dzBwLTk1TldkYS04N01HN0h3aHl3Y01rSVU2Nkh1a2xSMDV6UWVhcXpLTThldEJFOWV3SkFxTGFrOVg5eEIwUG9WZjFmQ3ZBZEJCV3hQYzBT?oc=5)
+
+2026-11-11
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFlDaV9ORlZ2OVNhUGU3Zm82cE5LdVdUX0VEOGg0OUlPR1UtTE9uaWZOMTlNMkVxMlU0Vzd4V1o1elh3dzBwLTk1TldkYS04N01HN0h3aHl3Y01rSVU2Nkh1a2xSMDV6UWVhcXpLTThldEJFOWV3SkFxTGFrOVg5eEIwUG9WZjFmQ3ZBZEJCV3hQYzBT?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lubiprostone. 10 predicted indications."
 permalink: /news/lubiprostone/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Lubiprostone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Lubiprostone?">
-<strong>Lubiprostone</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Lubiprostone</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Lubiprostone with the latest
 <p><a href="{{ '/drugs/lubiprostone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
+
+---
 
 ### [Transportation Noise Tied to Cardiovascular Events](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWg4RkVDR2dEQ0xDTW5JWWV2cUotOTd2bDdoamJBa3prVjJSS1BHZTVtdGo0eEZjS09IcWF6cjBaUGZVd0RxVHg4R0Zsd2hkNFdScU4zNHdUQlBHWV9PeHVhWXJtTzBFMmRaRUFlZmtDYXlfVEN5T2JoVzNySUVMZG1haUZVUnN3U2NmZFhHS3NkNHVHaXJ0Z3RvMHBmOFcxelE?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "diabetic retinopathy News"
 parent: Health News
 nav_exclude: true
-description: "Health news about diabetic retinopathy. 1 articles, 4 related drugs."
+description: "Health news about diabetic retinopathy. 2 articles, 4 related drugs."
 permalink: /news/diabetic-retinopathy/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # diabetic retinopathy News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="What news is there about diabetic retinopathy?">
-<strong>diabetic retinopathy</strong> currently has <strong>1 news articles</strong> and 4 related drugs.
+<strong>diabetic retinopathy</strong> currently has <strong>2 news articles</strong> and 4 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page brings together the latest health news about â€œdiabetic retinopathyâ€
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Barraquer Eye Hospital UAE Offers Complimentary Retinal Screenings to Mark World Diabetes Day](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlM1MWlyamthTDBTZ20zU2tZS2VvT2ZDSVhWTS1qZzZBVnFxYi0weWs1SkFyWkNaVU94TF93bWo4VHBGX2NQTXhObEJCZUtFbTQzbnRPNUZuTzh2ampHMGh5Z0dWVjc0SGdtR2pjV2lQb2V4SzVqbGNQcWpBU1ZRVUY3aVV5M0VmMlpoWndOX3VMQmh4eUwtd3l5VV9WYUNtQmctdGdIYm1tYkNVTkUzaEZNN0M2cEJDRWJNZWZIRGxRMlB3ODlBNWRkRHhBN3BIRThvcFdaQ3VQS2pYTS1PaE52MURzNGhmRS1v?oc=5)
+
+2026-11-17
+
+Source: [Zawya](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlM1MWlyamthTDBTZ20zU2tZS2VvT2ZDSVhWTS1qZzZBVnFxYi0weWs1SkFyWkNaVU94TF93bWo4VHBGX2NQTXhObEJCZUtFbTQzbnRPNUZuTzh2ampHMGh5Z0dWVjc0SGdtR2pjV2lQb2V4SzVqbGNQcWpBU1ZRVUY3aVV5M0VmMlpoWndOX3VMQmh4eUwtd3l5VV9WYUNtQmctdGdIYm1tYkNVTkUzaEZNN0M2cEJDRWJNZWZIRGxRMlB3ODlBNWRkRHhBN3BIRThvcFdaQ3VQS2pYTS1PaE52MURzNGhmRS1v?oc=5)
+
+---
 
 ### [World Diabetes Day 2026: Experts share irreversible harm pre-diabetes causes before symptoms even appear](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZVViLVB4R0d4TnJWMWlwMVRvZndRbWh0VlNZTk94ZWx1X1BYeHhGOEo2YmJwTXc3QU1oejk5TWpMU01Pb1lra2ctX2JSWEx5MTFnY2xoQ0NSdnhyN1BWd1VPQ05KYjRUWjR4NDc0cUZNV2xlOTBBdk1OY0dVLVlxRW5vQXNWVURIb1ZqVnVHakJ0alF1bTlCb0gycjJfZDJwRzg5ZnBEdXZ6MG9teGJBb3pPamVIMHN1ZDU3VjZTUDEwRWFfMkhlaG1xeFdPa0p5b1FjMjZJcDBTYTNuNk40Mm5DemRNRnk1THRFZkw2X1BOVTh0d3fSAfsBQVVfeXFMTm96c3Y0RkVzYW9SSUd5UVZ1TzBJbEY5NUlycDZpZ0R0dkgtUWNkS0pJVUhjRjRzcXRmZW5HVHY3bmFINU5XTHpFRnh1RWQ2eWFMdVdBVkxXbFAtNDZUdUNZbDkzYUhjYmtIZGgzYXNsX0ZLbUo2VElJSXFxbjdvMV9oSk4zVzA4eGFZT0ZSQ1NFRGR2SHZZNXYySjlUVXNqTUlkbHFRdzc5OGNfZzBlWFlRbXVZdXV2ZFUwSVotRXJvNUIzSmdiQnEtVFBMNlNwVTYzemZ6NUVvRHV3cF9xSzE0NXpkQzhSTW1oMnFLZ1RYWFhGMWdqNW92RG8?oc=5)
 

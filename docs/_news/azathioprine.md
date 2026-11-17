@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Azathioprine. 7 predicted indications."
 permalink: /news/azathioprine/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Azathioprine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Azathioprine?">
-<strong>Azathioprine</strong> currently has <strong>2 news articles</strong>, with 7 predicted indications.
+<strong>Azathioprine</strong> currently has <strong>4 news articles</strong>, with 7 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ This page combines the AI-predicted indications for Azathioprine with the latest
 <p><a href="{{ '/drugs/azathioprine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (4)
+
+### [N-of-1 Trials: Personalized Medicine for Inflammatory Bowel Disease](https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0NJM2xMMm1YNEhrX3BfOHpxeC04RlFockxnOVNGbElTTUtpbjNRS05pbmN0VFlRaUxvTVA1c3hDUW45SktjVWZVWXdSTHVMY3l1ek1BWVdGYXZTOXBGU0FtQzU0WG9WUHlVOUVIMGZVSjhkWHVMTnhPX2k5S3Z4R3dB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">inflammatory bowel disease</span>
+
+Source: [DocWireNews](https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0NJM2xMMm1YNEhrX3BfOHpxeC04RlFockxnOVNGbElTTUtpbjNRS05pbmN0VFlRaUxvTVA1c3hDUW45SktjVWZVWXdSTHVMY3l1ek1BWVdGYXZTOXBGU0FtQzU0WG9WUHlVOUVIMGZVSjhkWHVMTnhPX2k5S3Z4R3dB?oc=5)
+
+---
+
+### [Investigational retatrutide reduced knee osteoarthritis pain and body weight versus placebo in adults with obesity - 2 Minute Medicine](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUxQb254MjBrNV9jUlFGcTd2NTNPZ0VKb2Z5RUJ4NVVubmRMLTZZWlRDVDJfUnRXMF92UkJoREZtSndOUDV1N19XMW03amlPM0NxRzQzdFhKbXJvRnRlb0d3ZHlYbkJqMXdmUVZIY3Vvb3czbnR2N1RoZGpxdGt3a3o1N0dhdUZGbEpEcWlHZ3hhYUhvY2tsRDNSaXU1N2pkSkswU3Jxdno5dkdiM2xaNWIwckstcnlTeWR0djZwdnVDY0pjTjk0R0pFcXE0WnJVZkxfUkFJSEs2dE5LZzRPcA?oc=5)
+
+2026-11-17 <span class="news-indication-tag">osteoarthritis</span>
+
+Source: [2 Minute Medicine](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUxQb254MjBrNV9jUlFGcTd2NTNPZ0VKb2Z5RUJ4NVVubmRMLTZZWlRDVDJfUnRXMF92UkJoREZtSndOUDV1N19XMW03amlPM0NxRzQzdFhKbXJvRnRlb0d3ZHlYbkJqMXdmUVZIY3Vvb3czbnR2N1RoZGpxdGt3a3o1N0dhdUZGbEpEcWlHZ3hhYUhvY2tsRDNSaXU1N2pkSkswU3Jxdno5dkdiM2xaNWIwckstcnlTeWR0djZwdnVDY0pjTjk0R0pFcXE0WnJVZkxfUkFJSEs2dE5LZzRPcA?oc=5)
+
+---
 
 ### [A weight-loss drug eased knee arthritis pain in two major trials](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXRsbW9fTGViQWNEdU9iU25wc0dzdTQxSlNmcTc4WmtCT3YwRHdFR1JIdUhvclRtQ3FERHBQUGVRVDJfYVFmNWNYOFdfTFVoNUhLM2ZJNl9FZThJS21GLXFEVVoxYjJabXVvRkhqMFB0LW9TTXNlRWlPNTZ4ZFdmcEFQR3Buc0syaVU4SHlMNk15WkVxemlRVERaT2RGcGwwWGh5MGxiMDI4ekJlcXE3bzZn?oc=5)
 
