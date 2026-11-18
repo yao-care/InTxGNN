@@ -3,9 +3,9 @@ layout: default
 title: "cold (common cold) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cold (common cold). 2 articles, 1 related drugs."
+description: "Health news about cold (common cold). 3 articles, 1 related drugs."
 permalink: /news/common-cold/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # cold (common cold) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about cold (common cold)?">
-<strong>cold (common cold)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>cold (common cold)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “cold” and lists the 
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [Pneumonia is no mere ‘severe cold.’ It is the 2nd-leading cause of death among older Koreans. - Korea Biomedical Review](https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SXNxaldIQm85ZmhIMXhOS2RvZlhlRDNuZGJ0TF80LUxhWVA1RFhIbmVUX0tzNjhqT2VGbk8xT0p0ZGdJNENKVGZVcFZIQVdiVllZR05kN1ZvMGhvUG9SbmJfVHl3RnYxRDdMTjd30gFyQVVfeXFMTmJvdE1lVS10aXU5U3lJWmtYNmcwaTlzbEFvXzNJM3pmLUdnc2p6ci1zNEJRNnMxMkV6Z2VXamZRXzZHSHRvLTRseks0bmdoUlVfUnJuRW9PMG1HcmdTeENnWW0wNVNFU3JvRzh1VEtnT0xn?oc=5)
 
@@ -45,6 +45,14 @@ Source: [Korea Biomedical Review](https://news.google.com/rss/articles/CBMibkFVX
 2026-11-12
 
 Source: [safety4sea](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFRGWkxwbEdvRUdTRGo3QXJ4OVZZQWVXcm9hMzJfanRhSlBoS2lrSjJjcHdHV0MtMngxZlMxZUlXcDBsSmZ0RXd3QjhkMFRHR28tT2dieDFlWHgtOFRneVU3eEp1OWZ2TE9EcUVXQW9qVFJrRFVONGZWY0Z4aWp0NW5IT3FRNk0ySzVPclJLTXIxQXVQNllIRTk0LVF6bjh3?oc=5)
+
+---
+
+### [A New Era In Pneumonia Prevention Must Reach Those at Greatest Risk - Respiratory Therapy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmk1QTladmd0SG8zdmNlZ0p3QXlUWnY3bFdrb29mU3FXd0N2SWdtTlRKNC0wUWRQeVZYZXdHMUY4ckpvdDgyUmZDT0JRRnd3Tmd4WVRpNFNlREprVDJaSTJhaWlWTW41TmlKVF9UN2tzcENLQnZ3NDVST2liUUZxNGk3djVPUW5pTnQtdi1WRTdtTDAxbjBYZVduX0piUVZzRHBUQm9iMVRqbklfTWJ6THVjWQ?oc=5)
+
+2026-11-12
+
+Source: [Respiratory Therapy](https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmk1QTladmd0SG8zdmNlZ0p3QXlUWnY3bFdrb29mU3FXd0N2SWdtTlRKNC0wUWRQeVZYZXdHMUY4ckpvdDgyUmZDT0JRRnd3Tmd4WVRpNFNlREprVDJaSTJhaWlWTW41TmlKVF9UN2tzcENLQnZ3NDVST2liUUZxNGk3djVPUW5pTnQtdi1WRTdtTDAxbjBYZVduX0piUVZzRHBUQm9iMVRqbklfTWJ6THVjWQ?oc=5)
 
 ---
 

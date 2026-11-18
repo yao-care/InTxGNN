@@ -3,7 +3,7 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 4 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 5 articles, 8 related drugs."
 permalink: /news/memory-loss/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>4 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
 
@@ -68,6 +68,14 @@ Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk
 2026-11-12
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMizwFBVV95cUxQMDlzbm1jQlBWSFZIMzRCSHA2ZVNNdXlpR2s2TWZxVXNMVmRZdHI0eF81M1d2bGhVb3gzaWJDSE5WMjRGcVN0dzM5cU12bktLTVBPMUR2WkxwUGtrZzRlS2p6cDRqU19YZVFiX0RfYjJPSnltWHJSZ1VMWVlNb3J3ZjkxbW5nNEUzQ2t0bkg4ZDhpT1l5dEV4YTN2bGd2OGFra0lrX1UzWEtad3dXMFNXMERPUV9keDlqZEk0Ql9NSUdGZG1IS3VrSThLeUx1U0E?oc=5)
+
+---
+
+### [Type 2 diabetes significantly increases risk of developing Alzheimer's disease](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5VeFJ5UExGZldXX25Ua2FiLXNoQnpvWTJ4clpYYkRXTjUyX0JXRXZralVVaTRDTzJIQjg3cVhjMG43UThkWkx2REtpM3VCT0NOUmhid0ZtOEFLUXU2UVdqR1M4MFRTMFBXaGZ2ZU5TSGE1NE5MZE5hZzg3bHZZd084Ri1LcTBQandQT1p1TEpGX3lFaGFEeVFlVk1GM1dyTDlCeC1LY3B1TGZibnlXT0JjMkRJZHpfUHlDYXh1UTNYZHM?oc=5)
+
+2026-11-12
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTk5VeFJ5UExGZldXX25Ua2FiLXNoQnpvWTJ4clpYYkRXTjUyX0JXRXZralVVaTRDTzJIQjg3cVhjMG43UThkWkx2REtpM3VCT0NOUmhid0ZtOEFLUXU2UVdqR1M4MFRTMFBXaGZ2ZU5TSGE1NE5MZE5hZzg3bHZZd084Ri1LcTBQandQT1p1TEpGX3lFaGFEeVFlVk1GM1dyTDlCeC1LY3B1TGZibnlXT0JjMkRJZHpfUHlDYXh1UTNYZHM?oc=5)
 
 ---
 

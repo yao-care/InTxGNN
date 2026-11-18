@@ -3,9 +3,9 @@ layout: default
 title: "skin disease (psoriasis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about skin disease (psoriasis). 1 articles, 1 related drugs."
+description: "Health news about skin disease (psoriasis). 2 articles, 1 related drugs."
 permalink: /news/psoriasis/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # skin disease (psoriasis) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about skin disease (psoriasis)?">
-<strong>skin disease (psoriasis)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>skin disease (psoriasis)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “skin disease” and li
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Tildrakizumab After Anti-IL-17 Failure Improves Psoriasis Outcomes](https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1RKZ0lJSWZKZFZILTBCMVFhLTRYdFNGTDV1akRDX0RRSXZBUXcyOGNXakNCWVhXcGlTSjdRYlVxUWk2Yk5HWnNNVDFZSk9OdVlFRUVpM3Z2M2ZqRUxBaUxhLTFENnRwWHVuM2FKcUdQajFneUlsWmZhYWtuRHZ2S0pkbzFYX3ZYa2dWdEMwX0VNTmpsSF9IUno0X2JIV2FaTUFSeE1HM0lHTjlEV2plYw?oc=5)
+
+2026-11-18
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1RKZ0lJSWZKZFZILTBCMVFhLTRYdFNGTDV1akRDX0RRSXZBUXcyOGNXakNCWVhXcGlTSjdRYlVxUWk2Yk5HWnNNVDFZSk9OdVlFRUVpM3Z2M2ZqRUxBaUxhLTFENnRwWHVuM2FKcUdQajFneUlsWmZhYWtuRHZ2S0pkbzFYX3ZYa2dWdEMwX0VNTmpsSF9IUno0X2JIV2FaTUFSeE1HM0lHTjlEV2plYw?oc=5)
+
+---
 
 ### [Evening Preference Linked to Inflammatory Skin Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVoyVE9ZejU2OVJjVXhTWVJFaU9PZGRleS1keUxZc2dJZUR3OWdOZGEtRmpKU1NnQkVFX196c00xRVZla2NhRmZCZ2ZRMERPTmJGM1Vsa09sdm8xRUFkczdBUG44cU1Sb205blFVWVpjSjRMM3lCanpZTUNNWVBwcGpLWFE0WWtscG5zQjdIck4tQ2pvZkpTMkctQjk2TXJQ?oc=5)
 

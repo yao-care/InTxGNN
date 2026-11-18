@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Bromocriptine. 10 predicted indications."
 permalink: /news/bromocriptine/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Bromocriptine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Bromocriptine?">
-<strong>Bromocriptine</strong> currently has <strong>3 news articles</strong>, with 10 predicted indications.
+<strong>Bromocriptine</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Bromocriptine with the lates
 <p><a href="{{ '/drugs/bromocriptine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [TU Delft and LUMC contribute to the largest brain atlas ever created](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFpdUx1bmh5SktFZ053elRVcEZKd0VhN3cxTFNMZVZqNDhpY04xSnM1SFJnTy1LNTBLeUlqeTJCYVo5Z3VFTGVtNEQ1UHVRaHc1VHliQ0NpSFZMdFk5LVFqdkFyNEo4dGJfZ1Y4Rmd0QzM0aFlramNaaHRfZkh0aG1VMDVET3FpZThHN1RhUjdla3poRkpoTTQwX2ZvZDl2TzNOcmJ5S20?oc=5)
+
+2026-11-16 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [Science|Business](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFpdUx1bmh5SktFZ053elRVcEZKd0VhN3cxTFNMZVZqNDhpY04xSnM1SFJnTy1LNTBLeUlqeTJCYVo5Z3VFTGVtNEQ1UHVRaHc1VHliQ0NpSFZMdFk5LVFqdkFyNEo4dGJfZ1Y4Rmd0QzM0aFlramNaaHRfZkh0aG1VMDVET3FpZThHN1RhUjdla3poRkpoTTQwX2ZvZDl2TzNOcmJ5S20?oc=5)
+
+---
 
 ### [TU Delft and LUMC Contribute to the Largest Brain Atlas Ever Created: First Results Published](https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUF2N2NzcmE3VkU2Nkk5SEo2SUZRUFZaTEpyS0FrOFA5TDJSSmRZOFZjMTlxN2pBTTVkM2VPMkJyMG5iZkljd2NzQVBjZEh2LWV6eVRLUF81cFZSTVFZaVByd2RqT1ZJR3JqNmV5SzNnQWlJTmRxVDAyOWdyMWMtQjdHN1daUHVXRnozeTlpZU9TcDVNdG1xSW9NTFBwcEV4NUtYWDh1emtBdGRCS0RZbWxSOA?oc=5)
 

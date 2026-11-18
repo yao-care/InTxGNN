@@ -3,7 +3,7 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 4 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 5 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>4 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>5 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Interview: Sanjay Popat](https://news.google.com/rss/articles/CBMiekFVX3lxTE9MaXFGWlFVVkRmbEZGTUtyMThlN0h5aFItX1lDdzFJc3B2em5GZms0TDNnaGh1R3locUJwUHdLNFRiV3h2S1JBTVdtWU1UY1EzX2NkVFlEbFpyNmFTUy1sSEJvdVZBaWJyb3Q1clpSdVBmOGwxNVBWSWNB?oc=5)
+
+2026-11-18
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiekFVX3lxTE9MaXFGWlFVVkRmbEZGTUtyMThlN0h5aFItX1lDdzFJc3B2em5GZms0TDNnaGh1R3locUJwUHdLNFRiV3h2S1JBTVdtWU1UY1EzX2NkVFlEbFpyNmFTUy1sSEJvdVZBaWJyb3Q1clpSdVBmOGwxNVBWSWNB?oc=5)
+
+---
 
 ### [A Complicated Pulmonary Hydatid Cyst Mimicking Lung Cancer and Diagnosed After Lobectomy](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnBqQlVzUUhOZHlKcVN1ZU5YSkNUb2hfZGR0RUJqR01waE9uYnJGTEFEam84SXZMUVRHSlN1cUE4RFdpQ3BfVzVKZWhnUmhjQ1NSeU5oWE56cmZGMEdsdWhHSWlIQlBSWnFhbkRkT0lFdGdlRU41NnlSeGRNSGtYM1VLSldCLUxXeDdvakZfenBsZXQ1NEE1WmxEdlNaQ1NJV2g3T3F6VXhTMC1WbGdSWWZNWFFmR1VPaWQxWlVfa3lhcVVnNHc?oc=5)
 

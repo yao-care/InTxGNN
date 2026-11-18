@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Montelukast. 2 predicted indications."
 permalink: /news/montelukast/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Montelukast News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Montelukast?">
-<strong>Montelukast</strong> currently has <strong>2 news articles</strong>, with 2 predicted indications.
+<strong>Montelukast</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Montelukast with the latest 
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Infant Chest Infection Tied to Higher Odds of Wheeze, Asthma](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTVqSVhCMjBoUDloZVdONTZuRlNuOWxqUjJSYWNGalhTRkFOd1U4Y3p2Q1M3Vk9Ga3VUR2QyaGhHd1ZxT2htZ09oRnB2RnQwQzdnNUpXQi1UNEtydVMyOU1ZeTNHaklQS0ZGa2NYZUxwdzNsanh0YU9vZWRndTlIZzgtdlIyNjVNbjUtRks2c2tiRVFwV29pUzM1M1hyNmtDYzNvcVN3?oc=5)
+
+2026-11-18 <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span> <span class="news-indication-tag">asthma</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYTVqSVhCMjBoUDloZVdONTZuRlNuOWxqUjJSYWNGalhTRkFOd1U4Y3p2Q1M3Vk9Ga3VUR2QyaGhHd1ZxT2htZ09oRnB2RnQwQzdnNUpXQi1UNEtydVMyOU1ZeTNHaklQS0ZGa2NYZUxwdzNsanh0YU9vZWRndTlIZzgtdlIyNjVNbjUtRks2c2tiRVFwV29pUzM1M1hyNmtDYzNvcVN3?oc=5)
+
+---
 
 ### [How indoor air pollution affects newborns and their developing lungs](https://news.google.com/rss/articles/CBMiugFBVV95cUxQOG9EVUI2TTE5UldQaUxmR0pyQ2Z5WFRGSVd1ZVNxREpFNTZfT2F3cW1MYVJNVnU3TTF3bXdIWUFmNlpzMkxJVk1GR1c2VFh1R0t3aV9panVoQXJ4N1NCWkZOYlkxZUhQU2RVZHpscXQ3M0RXNlN4OFV6WEwzNDFyM2E4XzE1XzJLME9iSG5DZVd6SFdVVnRRUWp5MkRxSlE0aWJaQmhzT0NVS0EwUDFYODZXT2ZDWGkyZWfSAb8BQVVfeXFMTVlxcGMtZ0ZVVUZTWlFtalhFaFNXWWY0MHFLWDJNbFJCWHNYTkJVNGpZXzdONkxEV1V4cmxZRXUzV0ZHNnhLWUxsUnozWVBranNMZmczSEZlNG00Zk1lX0ZkUTRicDRMT3B4d0xwcTdyU1JlcmpiMWcybmxRNXRwN21BUTVaQnBZYW02TEt0QXRGWTdqZlJGRjdQXy1ZRldSdFRFVmowMXVCbG55elNNdk9SMTVROUxYTTF0RW5LSUk?oc=5)
 

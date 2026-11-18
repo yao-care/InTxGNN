@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>10 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>12 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -27,14 +27,30 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (2)</strong>:<ul>
-<li>coronary artery disease</li>
+<li class="indication-matched">coronary artery disease<span class="indication-tag">📰 coronary artery disease</span></li>
 <li>myocardial ischemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (12)
+
+### [Innovations Transform Coronary Artery Disease Care](https://news.google.com/rss/articles/CBMirgFBVV95cUxOekVQVDA3SkQ3NjlTR1RnVWhoODVsVmw1cVdZLWxRYkZSc09LVUZ2amxDZXRIcFBHR0wzV2JVb1U4Rm9kMHE0T0tVWHE1eW1VY2o3M3hZWWF3SDRVbGc2TDg3NDhkVmtIRzRTRGh3XzNUMFdPUzZSbmNUblNsLUw3aUhtZHJEQ25iZEhGMnlDdU1fOHVXbGR4TTMwVmxBLVVPVWJ3SFNyaFNYck02YkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">coronary artery disease</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMirgFBVV95cUxOekVQVDA3SkQ3NjlTR1RnVWhoODVsVmw1cVdZLWxRYkZSc09LVUZ2amxDZXRIcFBHR0wzV2JVb1U4Rm9kMHE0T0tVWHE1eW1VY2o3M3hZWWF3SDRVbGc2TDg3NDhkVmtIRzRTRGh3XzNUMFdPUzZSbmNUblNsLUw3aUhtZHJEQ25iZEhGMnlDdU1fOHVXbGR4TTMwVmxBLVVPVWJ3SFNyaFNYck02YkE?oc=5)
+
+---
+
+### [Regular Bedtimes May Reduce CV Risk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
+
+---
 
 ### [Inflamed Hearts on CT; Drawback to BP-Monitoring Wearables; Body Positions for HF? - MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
 

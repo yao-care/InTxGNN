@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>1 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Drinking beer and spirits raises risk of acute kidney damage, study suggests - The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmNZVlpKX2xjdkxKcnAtRENSZ2pheC1nN1pBOGhFYmFwZzJadFNYd3RqTXhQUDVKanZCNEtUU1pPZmxlaGxqSlQ0Z0VJT2pjcDh2VW9wTXVhTVdyYmdtdEZodWV4a2VtSWU1QVc1Q3UtaVk1b0hjVEpfQ1JaV1IxbmhCVkp4dUFQSjFLdE9fRVNSay04U3M0QzZVZjRjeW5xeUpHbExENWZSVHdoeV95M1lfemFuSk8takstbmZB?oc=5)
+
+2026-11-18 <span class="news-indication-tag">injury</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmNZVlpKX2xjdkxKcnAtRENSZ2pheC1nN1pBOGhFYmFwZzJadFNYd3RqTXhQUDVKanZCNEtUU1pPZmxlaGxqSlQ0Z0VJT2pjcDh2VW9wTXVhTVdyYmdtdEZodWV4a2VtSWU1QVc1Q3UtaVk1b0hjVEpfQ1JaV1IxbmhCVkp4dUFQSjFLdE9fRVNSay04U3M0QzZVZjRjeW5xeUpHbExENWZSVHdoeV95M1lfemFuSk8takstbmZB?oc=5)
+
+---
 
 ### [Cefazolin Reduces Kidney Injury in Bloodstream Infections](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1gtcWtBY3AzZVRGS2lUUFNySGVoZ0FJOEIyRUpRQlpXWXY3ZzRFRFJtUHo4ZFVwRzNrd1Rld1E0R2xoTlhSNDQtbmJvN1c5bjZqNWpsWkFtalgxaWNJTzlCZWpzVV9VdUNVM0V4amRkNTFWU2F0RGxfVzBiNTBaVFdHY3pjSm9RVkR5ajNhVDJOTFFlQUVfM0dCcjFzVXl2Zk9kZEhkdGNOSVBIY3RkY3lacFNxYXotYkhtU2xYbmI?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # Natalizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Tildrakizumab After Anti-IL-17 Failure Improves Psoriasis Outcomes](https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1RKZ0lJSWZKZFZILTBCMVFhLTRYdFNGTDV1akRDX0RRSXZBUXcyOGNXakNCWVhXcGlTSjdRYlVxUWk2Yk5HWnNNVDFZSk9OdVlFRUVpM3Z2M2ZqRUxBaUxhLTFENnRwWHVuM2FKcUdQajFneUlsWmZhYWtuRHZ2S0pkbzFYX3ZYa2dWdEMwX0VNTmpsSF9IUno0X2JIV2FaTUFSeE1HM0lHTjlEV2plYw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1RKZ0lJSWZKZFZILTBCMVFhLTRYdFNGTDV1akRDX0RRSXZBUXcyOGNXakNCWVhXcGlTSjdRYlVxUWk2Yk5HWnNNVDFZSk9OdVlFRUVpM3Z2M2ZqRUxBaUxhLTFENnRwWHVuM2FKcUdQajFneUlsWmZhYWtuRHZ2S0pkbzFYX3ZYa2dWdEMwX0VNTmpsSF9IUno0X2JIV2FaTUFSeE1HM0lHTjlEV2plYw?oc=5)
+
+---
 
 ### [Evening Preference Linked to Inflammatory Skin Disease](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVoyVE9ZejU2OVJjVXhTWVJFaU9PZGRleS1keUxZc2dJZUR3OWdOZGEtRmpKU1NnQkVFX196c00xRVZla2NhRmZCZ2ZRMERPTmJGM1Vsa09sdm8xRUFkczdBUG44cU1Sb205blFVWVpjSjRMM3lCanpZTUNNWVBwcGpLWFE0WWtscG5zQjdIck4tQ2pvZkpTMkctQjk2TXJQ?oc=5)
 

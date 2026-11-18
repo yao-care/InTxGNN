@@ -3,7 +3,7 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 10 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 11 articles, 31 related drugs."
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>10 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>11 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Regular Bedtimes May Reduce CV Risk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
+
+2026-11-18
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
+
+---
 
 ### [Inflamed Hearts on CT; Drawback to BP-Monitoring Wearables; Body Positions for HF? - MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
 
