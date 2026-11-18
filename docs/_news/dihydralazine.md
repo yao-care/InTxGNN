@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dihydralazine. 10 predicted indications."
 permalink: /news/dihydralazine/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-18
 ---
 
 # Dihydralazine News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about Dihydralazine?">
-<strong>Dihydralazine</strong> currently has <strong>1 news articles</strong>, with 10 predicted indications.
+<strong>Dihydralazine</strong> currently has <strong>2 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Dihydralazine with the lates
 <p><a href="{{ '/drugs/dihydralazine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
+
+---
 
 ### [BHF Report Flags Heart Care Gap in Severe Mental Illness](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0FwN1gteFhaTEZDM0FYNTgyeU0wTHZQWGtWVVczcDdlUkM1UndVenM1eGpiZTZEYy1iM2RxTHQ3cl9WV3Nzb3dxZ2Y2YlNHWGUwNHJkLXhTSk8xNWhUa0RrVWZtenB3WFZqMW1hZnFBcVJXdTF5eUR5MzR3SE9DZnhsOXUyMzRVdEFWdFhFM0dqMG9LZklvSWRqNWUwRjRLa1RkRTVB?oc=5)
 

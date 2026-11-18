@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Atosiban. 10 predicted indications."
 permalink: /news/atosiban/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Atosiban News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Atosiban?">
-<strong>Atosiban</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
+<strong>Atosiban</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,19 @@ This page combines the AI-predicted indications for Atosiban with the latest hea
 <p><a href="{{ '/drugs/atosiban/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [Inflamed Hearts on CT; Drawback to BP-Monitoring Wearables; Body Positions for HF? - MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
+
+---
 
 ### [Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
 
-2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span>
+2026-11-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
 

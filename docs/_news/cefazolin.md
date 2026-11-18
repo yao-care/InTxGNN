@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Cefazolin. 8 predicted indications."
 permalink: /news/cefazolin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Cefazolin News
@@ -44,7 +44,7 @@ This page combines the AI-predicted indications for Cefazolin with the latest he
 
 ### [Cefazolin Reduces Kidney Injury in Bloodstream Infections](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1gtcWtBY3AzZVRGS2lUUFNySGVoZ0FJOEIyRUpRQlpXWXY3ZzRFRFJtUHo4ZFVwRzNrd1Rld1E0R2xoTlhSNDQtbmJvN1c5bjZqNWpsWkFtalgxaWNJTzlCZWpzVV9VdUNVM0V4amRkNTFWU2F0RGxfVzBiNTBaVFdHY3pjSm9RVkR5ajNhVDJOTFFlQUVfM0dCcjFzVXl2Zk9kZEhkdGNOSVBIY3RkY3lacFNxYXotYkhtU2xYbmI?oc=5)
 
-2026-11-17 <span class="news-drug-tag">Cefazolin</span> <span class="news-drug-tag">CEFAZOLIN</span> <span class="news-indication-tag">injury</span>
+2026-11-17 <span class="news-drug-tag">Cefazolin</span> <span class="news-drug-tag">CLOXACILLIN</span> <span class="news-drug-tag">CEFAZOLIN</span> <span class="news-indication-tag">injury</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1gtcWtBY3AzZVRGS2lUUFNySGVoZ0FJOEIyRUpRQlpXWXY3ZzRFRFJtUHo4ZFVwRzNrd1Rld1E0R2xoTlhSNDQtbmJvN1c5bjZqNWpsWkFtalgxaWNJTzlCZWpzVV9VdUNVM0V4amRkNTFWU2F0RGxfVzBiNTBaVFdHY3pjSm9RVkR5ajNhVDJOTFFlQUVfM0dCcjFzVXl2Zk9kZEhkdGNOSVBIY3RkY3lacFNxYXotYkhtU2xYbmI?oc=5)
 

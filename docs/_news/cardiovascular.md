@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 9 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 10 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>9 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>10 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
+
+### [Inflamed Hearts on CT; Drawback to BP-Monitoring Wearables; Body Positions for HF? - MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
+
+2026-11-17
+
+Source: [MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
+
+---
 
 ### [Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE0tczdpVy0yQkc5TVJ1MG95d0dtNTJhMFhOakRXUVUwXzgxbjkzS0RDRXFWUTZYYm9GZGo1ZmxiN0VONU1jT3BMNHp2aERHY2VEN3JZOHR0RnpFb2ZtSnR3dnVuM0RXWmd2djdqVGppSQ?oc=5)
 

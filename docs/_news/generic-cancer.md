@@ -3,9 +3,9 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 27 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 29 articles, 228 related drugs."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # cancer (generic_cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>27 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>29 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,13 +236,37 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (27)
+## Related News (29)
+
+### [A Complicated Pulmonary Hydatid Cyst Mimicking Lung Cancer and Diagnosed After Lobectomy](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnBqQlVzUUhOZHlKcVN1ZU5YSkNUb2hfZGR0RUJqR01waE9uYnJGTEFEam84SXZMUVRHSlN1cUE4RFdpQ3BfVzVKZWhnUmhjQ1NSeU5oWE56cmZGMEdsdWhHSWlIQlBSWnFhbkRkT0lFdGdlRU41NnlSeGRNSGtYM1VLSldCLUxXeDdvakZfenBsZXQ1NEE1WmxEdlNaQ1NJV2g3T3F6VXhTMC1WbGdSWWZNWFFmR1VPaWQxWlVfa3lhcVVnNHc?oc=5)
+
+2026-11-17
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnBqQlVzUUhOZHlKcVN1ZU5YSkNUb2hfZGR0RUJqR01waE9uYnJGTEFEam84SXZMUVRHSlN1cUE4RFdpQ3BfVzVKZWhnUmhjQ1NSeU5oWE56cmZGMEdsdWhHSWlIQlBSWnFhbkRkT0lFdGdlRU41NnlSeGRNSGtYM1VLSldCLUxXeDdvakZfenBsZXQ1NEE1WmxEdlNaQ1NJV2g3T3F6VXhTMC1WbGdSWWZNWFFmR1VPaWQxWlVfa3lhcVVnNHc?oc=5)
+
+---
+
+### [RNA molecules could help overcome radiotherapy resistance in breast cancer](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbU1GU0ZqOTRRdWxHa3hsd2gwZXZNRmRtQU9jRW9scUhrUWQzV19nY3lXbjRuVnRnUkpiUi1URG8wQlVGTnNJd2ZaRUN3NDEzRjM5TGR2aVgzdjJKRFlRUVI2dkJsOWRFUzMxdVA3TFpkU0FNYl9yRGd0MDBEVE13YkhwbUJta1lrY28yNGlucnR0Zl9lOVBYVmVNeGUzNnRIYUlxblV2a1RNdjVwSmQ3ZWZvcDR2RFVqYkhxbmlSSQ?oc=5)
+
+2026-11-17
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbU1GU0ZqOTRRdWxHa3hsd2gwZXZNRmRtQU9jRW9scUhrUWQzV19nY3lXbjRuVnRnUkpiUi1URG8wQlVGTnNJd2ZaRUN3NDEzRjM5TGR2aVgzdjJKRFlRUVI2dkJsOWRFUzMxdVA3TFpkU0FNYl9yRGd0MDBEVE13YkhwbUJta1lrY28yNGlucnR0Zl9lOVBYVmVNeGUzNnRIYUlxblV2a1RNdjVwSmQ3ZWZvcDR2RFVqYkhxbmlSSQ?oc=5)
+
+---
 
 ### [Conflicting Testicular Histopathology Preceding the Diagnosis of Metastatic Male Breast Cancer: A Case Report](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2ZXbUc3WXFiUTJWTzZqNGVjMVA3RV9kV21zM2IzMXV6QWN0NjNSM3hvWjZtc0pVNWREMTVvMzc5NldCV0hTSFFYOUE1UEhHaHpwSzNlMmp2YS1FQ2MwOTJqNFZxRXBuR0l5Z1g1dklTVktJbWtMYmhLMjByV0hmSmYzT1hERkg0a1B1WmhIRklGWGwxZmNPWmp5ZjVMcTJfT0JwelQwSWlOMy0wNnA3VHFfbUV1UWpBWENIdFJkMkNJdWVIR3Q5TGFvcFpSbzVrY002cTFnc3hITlppWTRpeg?oc=5)
 
 2026-11-17
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2ZXbUc3WXFiUTJWTzZqNGVjMVA3RV9kV21zM2IzMXV6QWN0NjNSM3hvWjZtc0pVNWREMTVvMzc5NldCV0hTSFFYOUE1UEhHaHpwSzNlMmp2YS1FQ2MwOTJqNFZxRXBuR0l5Z1g1dklTVktJbWtMYmhLMjByV0hmSmYzT1hERkg0a1B1WmhIRklGWGwxZmNPWmp5ZjVMcTJfT0JwelQwSWlOMy0wNnA3VHFfbUV1UWpBWENIdFJkMkNJdWVIR3Q5TGFvcFpSbzVrY002cTFnc3hITlppWTRpeg?oc=5)
+
+---
+
+### [Trials For Deadly Childhood Brain Cancer Stalled After Trump Administration Shuts Down 27-Year Research Consortium - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxQeXhoRUVCMmR6eWMwUjUtZ1NGU0hRbUVHanp3S3ZGVFJ5SDdGdzVZOVdVZEc3aGJpTzJyMHV3OVF6TERoLTAwWUFtNzZGd0tqQ0g4RVFsUW1selNOS05mQmI4Z1pobkg1ZlFWeWFpcWdxeWVBVXNrbDc4ZEp3aEdNYWQydzI2RHBGTU1hY1ZtWGZGYTdKcVpPc3VoUWZyWHUzcm5Eak1vcDY2R2JrWU9seUJWaWdUVjVrZkVVVUVMSVRSeFZscVVwTkQ0aWtjNmNwbTA0YmpWTExYMXpxc0NBX3doanlFMGxtck0zV0EyUUlBdkRBY3ZraU56WjN3emlFY1E?oc=5)
+
+2026-11-17
+
+Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxQeXhoRUVCMmR6eWMwUjUtZ1NGU0hRbUVHanp3S3ZGVFJ5SDdGdzVZOVdVZEc3aGJpTzJyMHV3OVF6TERoLTAwWUFtNzZGd0tqQ0g4RVFsUW1selNOS05mQmI4Z1pobkg1ZlFWeWFpcWdxeWVBVXNrbDc4ZEp3aEdNYWQydzI2RHBGTU1hY1ZtWGZGYTdKcVpPc3VoUWZyWHUzcm5Eak1vcDY2R2JrWU9seUJWaWdUVjVrZkVVVUVMSVRSeFZscVVwTkQ0aWtjNmNwbTA0YmpWTExYMXpxc0NBX3doanlFMGxtck0zV0EyUUlBdkRBY3ZraU56WjN3emlFY1E?oc=5)
 
 ---
 
@@ -331,14 +355,6 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXd
 2026-11-16
 
 Source: [Healthcare Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGdndHdzMVBXMXRCTTFGeGgxOEkxWndPYUhFTVpVakx3dnVJWUdjSWNxU0ZtS003Zk5lZVVCakhZVzJIa1kwajVheXhOd3oxYXFBa2hrQ3pMdUQ0N0Y0Z2stdUVySDZyYkh2dWxpUzY4SER2U2s4b1BnSlZaejBXT05yQzZRdDNseUMwNWdhUDBpQkwwRk9oOUkxNUFlaTFSNGpDbjVGQ0NoU1ZaaDBhcjhOMA?oc=5)
-
----
-
-### [GLP-1 Therapies in India Need Tailored Treatment Protocols as Weight Loss Alone Cannot Define Success: Dr Sh.. - ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
-
-2026-11-16
-
-Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMilgJBVV95cUxNdkdtd1hGNzdnaVI0djRPUHp4QV9HSmgxZnJnWFdMZWVRV2JJRW5GTS1YQXp5ZTR5V2pmVlNtd1ZZbXZ5RE9uclREaHd0elotSkdFVzJqU2ZtcHB3SU40bS0wVXdOdGFRVUF1d09hQXRrYk5nTG90VWJ3TTFBZHRQZDFnUE5JV01vNk5Sel9CV1FFbndORzYxUUFjQ2xJVFZsNkk2aWxKMkJaV2hRRHJ4N3BWNkstc2tqenR1QnVqM1FFWUEzMk9MdnFOZzFuVGcyYmdaTEZtSDIxSjJydVAzdzVILVFOcVRQY3FONVFfa1ItdG1kdzY2a2tVVE1CQjhMRmVMNEZieW9hcDZ2R1dlZFJoMGV6Z9IBmwJBVV95cUxNQUtOSEE0dHo5TjJmS1ZRM0htOUU0Q2lPZDU2Q2g2LXJxUF9BUk05OHdGMzJmdTBqX1ZtaWh6ajd5RlhtSE0tMXpZQkREbWpUNVZNQWIxSUIyZVRJcEdfaXlYQ1Y5LVZWRHVEMExkSmRKdzJ6N2xxeDRnVUl5UE8tc09DQm5keGhELVc5bEdCUi1qc2tCZ21mUllZSXA2Wm44WU5VSjViUFNibmh0N1BjRmlXc3AyUXBta0FXeTdBaWJmMXNrNkhzY1VaaWEta3F2cHZkVVZXRTBteEZsYjdZLVFIbWFpSkxvTmtNNFRGaXZ3QlFaemY5SkxWOVdORjRjcU9ITENBY3huek1tYTBRREplMU9XSk9YWFlJ?oc=5)
 
 ---
 

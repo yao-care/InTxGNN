@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 3 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>3 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [RNA molecules could help overcome radiotherapy resistance in breast cancer](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbU1GU0ZqOTRRdWxHa3hsd2gwZXZNRmRtQU9jRW9scUhrUWQzV19nY3lXbjRuVnRnUkpiUi1URG8wQlVGTnNJd2ZaRUN3NDEzRjM5TGR2aVgzdjJKRFlRUVI2dkJsOWRFUzMxdVA3TFpkU0FNYl9yRGd0MDBEVE13YkhwbUJta1lrY28yNGlucnR0Zl9lOVBYVmVNeGUzNnRIYUlxblV2a1RNdjVwSmQ3ZWZvcDR2RFVqYkhxbmlSSQ?oc=5)
+
+2026-11-17
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbU1GU0ZqOTRRdWxHa3hsd2gwZXZNRmRtQU9jRW9scUhrUWQzV19nY3lXbjRuVnRnUkpiUi1URG8wQlVGTnNJd2ZaRUN3NDEzRjM5TGR2aVgzdjJKRFlRUVI2dkJsOWRFUzMxdVA3TFpkU0FNYl9yRGd0MDBEVE13YkhwbUJta1lrY28yNGlucnR0Zl9lOVBYVmVNeGUzNnRIYUlxblV2a1RNdjVwSmQ3ZWZvcDR2RFVqYkhxbmlSSQ?oc=5)
+
+---
 
 ### [Conflicting Testicular Histopathology Preceding the Diagnosis of Metastatic Male Breast Cancer: A Case Report](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ2ZXbUc3WXFiUTJWTzZqNGVjMVA3RV9kV21zM2IzMXV6QWN0NjNSM3hvWjZtc0pVNWREMTVvMzc5NldCV0hTSFFYOUE1UEhHaHpwSzNlMmp2YS1FQ2MwOTJqNFZxRXBuR0l5Z1g1dklTVktJbWtMYmhLMjByV0hmSmYzT1hERkg0a1B1WmhIRklGWGwxZmNPWmp5ZjVMcTJfT0JwelQwSWlOMy0wNnA3VHFfbUV1UWpBWENIdFJkMkNJdWVIR3Q5TGFvcFpSbzVrY002cTFnc3hITlppWTRpeg?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 3 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 4 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-18
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>3 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>4 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [A Complicated Pulmonary Hydatid Cyst Mimicking Lung Cancer and Diagnosed After Lobectomy](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnBqQlVzUUhOZHlKcVN1ZU5YSkNUb2hfZGR0RUJqR01waE9uYnJGTEFEam84SXZMUVRHSlN1cUE4RFdpQ3BfVzVKZWhnUmhjQ1NSeU5oWE56cmZGMEdsdWhHSWlIQlBSWnFhbkRkT0lFdGdlRU41NnlSeGRNSGtYM1VLSldCLUxXeDdvakZfenBsZXQ1NEE1WmxEdlNaQ1NJV2g3T3F6VXhTMC1WbGdSWWZNWFFmR1VPaWQxWlVfa3lhcVVnNHc?oc=5)
+
+2026-11-17
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnBqQlVzUUhOZHlKcVN1ZU5YSkNUb2hfZGR0RUJqR01waE9uYnJGTEFEam84SXZMUVRHSlN1cUE4RFdpQ3BfVzVKZWhnUmhjQ1NSeU5oWE56cmZGMEdsdWhHSWlIQlBSWnFhbkRkT0lFdGdlRU41NnlSeGRNSGtYM1VLSldCLUxXeDdvakZfenBsZXQ1NEE1WmxEdlNaQ1NJV2g3T3F6VXhTMC1WbGdSWWZNWFFmR1VPaWQxWlVfa3lhcVVnNHc?oc=5)
+
+---
 
 ### [Lung Cancer In Non-Smokers: AIIMS Oncologist Says Cases Are Rising Among Young People And Women, Explains PM2.5 Link - Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxOQXdhSHppVUVTWFh3NFpiTktVbTcxYlprSnRSdVBteEQ1T1JsM3drODN3RUxiemQ4d0MwNkFzbGw0VlhZM01mbTBkOUI3S3FXczQxcFB5cFUyRVJGSnpuMW1HdE1iQVpkeFRmNE5qSnQ4b2pGVmNObWFleTNuN3k5MnVndFd2UDBhU3RGZ2JHRWotc1NsTHBFSGlmcnVKX0w5RW5KQUc2RTUzR2JGeXVtcWNBUG9XQkh2OWVwNC1oN2F5dmtlT042QVZNWC1LWUUyUElqRGhmeFd2MzVqcnhYaHpPUlJram5aWndhY1FjS2NSbXJFQlZPcmRScTVSYU16Nmc?oc=5)
 
