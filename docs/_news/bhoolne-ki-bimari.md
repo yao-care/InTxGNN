@@ -3,7 +3,7 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 5 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 6 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>5 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Psychology says a few minutes of your speech may reveal how fast your brain is aging, after a model teste - The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cUxPZ0ljUVl4VG43Yi1kc2NTbnpZQkJ5bVZSOG5aLXRTbWxlU2RIaHJ3MFRRTTZDalFzYVlyOXgwOUprNnpWd0dMYlFQai1wQ0NIVFdXRl84ZjdqQ3dnOXFiU1JLWUQyYldEUDNkLXBxVklrTzJlRjFwM1JpRFE1U3lTZWU1VnZRTDc4YVB1YTZVTVVDNzVwVUVkeml4SzVGMmViaWtpY3JaRjJKRG0weXJzVzYwV2xhbXk0ekRYVWVLSjF4UHpod05KVnh2OG9BLThGLVVkRExmNHR3eGhpS0p5UzRjWExiZHRLaTQxRWEwX0kyZDRfaElvMzZqN09Kbmx5RVJYanQ3SlBsVXQtRUtOck0zR0dIdjBmRTMwX1lXMEFWR09SM3NrTmxHN2JRSGxOWUF4N0Nyb2VJYnMwYzNNVjRtb0YtbnByaGpMN1RGbWJ1UmI3eXltMDgtMlZrTVVFMi1vMDU1dGdlXzBOcmx6al9MMzdydUZBYkxiWWNTb1daaGNBRE9v0gGMA0FVX3lxTE9DZUYwUUtyVFdRSG5OTGpqbDlodzdEUElmQWEtazZ0Q0RPSjN0dVV5anFJXzJuY1YxQVB4NklRM2VfanJKYU1haHpnS1hxS2Z3TlhWUXU5eGJHUGhBekgwVnh5TWFWcDExbnBfRXdaS3pxSTZZRXVpMVJGelROZnJRTTZWMWRQMEdfU2liMjdIaG1NZ001V1VuVkF2Q1p0U3ZqdDJDZ040d1gyWVJJX0JiMUdHMWxTeTJXdHpkY21ucUUzSC00blJ0bWtEYWUwYUFmdUtBRWdENmJjZjNxSXZzamJHNTBManRLaVJFaTlPa0tWZTI2WnR4ZTVIblpCODRxUnhXRTNlZ3V0V0ZXcUpRWVl1Rl9FaEk1S2lneVB6UGVqNEl5S0VvblFKbDB5a003N0JOVmp1T0FPYldqQ0FBel9INUU4TjRnUmhOMDlial9XSHZiQWVmMHpOMDFjSUU1R2tjaFI0dEttQXNUZlpLT205OWYtRTlNZ1V1MjFSLXd5RFJXWUs5RXFVTw?oc=5)
+
+2026-11-18
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cUxPZ0ljUVl4VG43Yi1kc2NTbnpZQkJ5bVZSOG5aLXRTbWxlU2RIaHJ3MFRRTTZDalFzYVlyOXgwOUprNnpWd0dMYlFQai1wQ0NIVFdXRl84ZjdqQ3dnOXFiU1JLWUQyYldEUDNkLXBxVklrTzJlRjFwM1JpRFE1U3lTZWU1VnZRTDc4YVB1YTZVTVVDNzVwVUVkeml4SzVGMmViaWtpY3JaRjJKRG0weXJzVzYwV2xhbXk0ekRYVWVLSjF4UHpod05KVnh2OG9BLThGLVVkRExmNHR3eGhpS0p5UzRjWExiZHRLaTQxRWEwX0kyZDRfaElvMzZqN09Kbmx5RVJYanQ3SlBsVXQtRUtOck0zR0dIdjBmRTMwX1lXMEFWR09SM3NrTmxHN2JRSGxOWUF4N0Nyb2VJYnMwYzNNVjRtb0YtbnByaGpMN1RGbWJ1UmI3eXltMDgtMlZrTVVFMi1vMDU1dGdlXzBOcmx6al9MMzdydUZBYkxiWWNTb1daaGNBRE9v0gGMA0FVX3lxTE9DZUYwUUtyVFdRSG5OTGpqbDlodzdEUElmQWEtazZ0Q0RPSjN0dVV5anFJXzJuY1YxQVB4NklRM2VfanJKYU1haHpnS1hxS2Z3TlhWUXU5eGJHUGhBekgwVnh5TWFWcDExbnBfRXdaS3pxSTZZRXVpMVJGelROZnJRTTZWMWRQMEdfU2liMjdIaG1NZ001V1VuVkF2Q1p0U3ZqdDJDZ040d1gyWVJJX0JiMUdHMWxTeTJXdHpkY21ucUUzSC00blJ0bWtEYWUwYUFmdUtBRWdENmJjZjNxSXZzamJHNTBManRLaVJFaTlPa0tWZTI2WnR4ZTVIblpCODRxUnhXRTNlZ3V0V0ZXcUpRWVl1Rl9FaEk1S2lneVB6UGVqNEl5S0VvblFKbDB5a003N0JOVmp1T0FPYldqQ0FBel9INUU4TjRnUmhOMDlial9XSHZiQWVmMHpOMDFjSUU1R2tjaFI0dEttQXNUZlpLT205OWYtRTlNZ1V1MjFSLXd5RFJXWUs5RXFVTw?oc=5)
+
+---
 
 ### [Type 2 Diabetes Linked to a 53% Higher Risk of Alzheimer’s, Massive Study Finds](https://news.google.com/rss/articles/CBMipAFBVV95cUxQRG53QkVjMmEwZmF6eTlTSHd4Z2FoSl83TjZmem9fOE4xemwzcF96NUlIaUFRNjJtQ2lIM09WTEY4bXlXOVVGV0oyQ0xFTzFoNWpPODdmdzFpcnlmVVYtU0xySGc4ZXQwZlpxMG1kWHZvazlEWHBQNkd1SlprQmh4b0tZSGprQi14ejI2MW5od2JXY09neGllY3phaDFzSkhyaWt1aQ?oc=5)
 

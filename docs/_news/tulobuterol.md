@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Tulobuterol?">
-<strong>Tulobuterol</strong> currently has <strong>2 news articles</strong>, with 4 predicted indications.
+<strong>Tulobuterol</strong> currently has <strong>3 news articles</strong>, with 4 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ This page combines the AI-predicted indications for Tulobuterol with the latest 
 <p><a href="{{ '/drugs/tulobuterol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [World COPD Day: Common causes, symptoms and treatment options - Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2Q2dkhPUlJQV1BPdDlFTW5sUmFTdlltWkw0bUQzTTFqWXpsQk11M2k0YXZ1VXVPZjIyRGYxSlY2aW9iWWdqQS1wWXgzeXBMeUxMb2JKN3N4NElaYVZwUmdjdXpCTE9hUUNZb1F5MU9YVFhZcnlCazFhYjZIRlBBLTh0bm1KSzlyVi1jTDJpSHBhOTZxVURzRmExLTRkZ1o3bXdhbzFzNmM?oc=5)
+
+2026-11-18 <span class="news-indication-tag">COPD</span>
+
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2Q2dkhPUlJQV1BPdDlFTW5sUmFTdlltWkw0bUQzTTFqWXpsQk11M2k0YXZ1VXVPZjIyRGYxSlY2aW9iWWdqQS1wWXgzeXBMeUxMb2JKN3N4NElaYVZwUmdjdXpCTE9hUUNZb1F5MU9YVFhZcnlCazFhYjZIRlBBLTh0bm1KSzlyVi1jTDJpSHBhOTZxVURzRmExLTRkZ1o3bXdhbzFzNmM?oc=5)
+
+---
 
 ### [World COPD Day – Breathlessness Is Not Just Ageing : Early Warning Signs Of COPD That Often Go Unnoticed : Dr. Pavan Yadav M V, Clinical Director & Senior Consultant – Interventional Pulmonology & Sleep Medicine, KIMS Hospitals, Electronic City, Ben - TRIPURA STAR NEWS](https://news.google.com/rss/articles/CBMiqwJBVV95cUxNVm54MU1uVUd5NlpaTlJodk42Y0pRMUlYdVdCM2p4MXJtVVk4QVNiWUNLU0hFOGs0UXpVaXJnQkdRNGNabzZPeDVoM2MxQ09lUXdtcUQzc1kweUlqOFlHVk9OcGlOV0pmUkhVOFp0TGRCWTNOX0htUE5pNmlLT09jR0dSQmN1cWtubDkyN0MwbXZXZ1NFMENXUVNDVnlkdjFxSU9YMFMwZTFuYVFKMTlfaEUxMm0tMWpPY2Q2bzk4RGU3TENJRVBKNUVTcW9meWFSbXEyTmxUNkppbW5laDMwcUVKeXFuX0JFVnJYQ09zSEtqUDBqMjdNM0pqLUo3UXNkcWdBVzN4TmxQalRKUHFET2E4YmUxZXlyV05Rb2xyYndYLXl6M2JzalZ2TQ?oc=5)
 

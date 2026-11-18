@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Nadifloxacin?">
-<strong>Nadifloxacin</strong> currently has <strong>2 news articles</strong>, with 1 predicted indications.
+<strong>Nadifloxacin</strong> currently has <strong>3 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ This page combines the AI-predicted indications for Nadifloxacin with the latest
 <p><a href="{{ '/drugs/nadifloxacin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
 
 ### [President Droupadi Murmu calls for sustained research and public participation to eliminate malaria - News On AIR](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjlBYXh4MkpmUlNPV3R2ci1lV0xOdUpLX2piaXVrOWlIMHJTa1RSMG5NUkR4TUFLMmdZMjlCbnJleDY1ejJwM1RESWFfSC1JQXQxaVdpWmN0eFc2OGRpUElXTlcwSm5VRWcyU2kyR1hVb0Npc1kzQm1aOS1CM2RRQmNIdHdTMjhGMF94SWVrMDVYVk1VMTYxWEI4YmlMWWpmbTJjVmlvb3hYMEpBdVVlUDR6WGh2RUczWlE?oc=5)
 
 2026-11-18 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
 
 Source: [News On AIR](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjlBYXh4MkpmUlNPV3R2ci1lV0xOdUpLX2piaXVrOWlIMHJTa1RSMG5NUkR4TUFLMmdZMjlCbnJleDY1ejJwM1RESWFfSC1JQXQxaVdpWmN0eFc2OGRpUElXTlcwSm5VRWcyU2kyR1hVb0Npc1kzQm1aOS1CM2RRQmNIdHdTMjhGMF94SWVrMDVYVk1VMTYxWEI4YmlMWWpmbTJjVmlvb3hYMEpBdVVlUDR6WGh2RUczWlE?oc=5)
+
+---
+
+### [President Murmu inaugurates ICMR-NIMR Golden Jubilee celebrations - Express Healthcare](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHIwaFJDb0RsY3doaDBjN0hwNE01RGxOM01fNnJfZk1ocXpCaV9jdXd6cUFSMEFudGViaVNtNVhzLTBwcC1ZdHBFZXlxWXlGT2diVXI3WVRRcldWRUpVLWdJZm01ZTFmVURvbnFZbWcxVjFFeDFic1l1Nlh0ejhVX0hDWXg0MHpNV1BOaEQwUERtTmM1cVdmYjZRRW1wTXQtc283UlVFbWgzWnNDc3RNbg?oc=5)
+
+2026-11-18 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [Express Healthcare](https://news.google.com/rss/articles/CBMisAFBVV95cUxOaHIwaFJDb0RsY3doaDBjN0hwNE01RGxOM01fNnJfZk1ocXpCaV9jdXd6cUFSMEFudGViaVNtNVhzLTBwcC1ZdHBFZXlxWXlGT2diVXI3WVRRcldWRUpVLWdJZm01ZTFmVURvbnFZbWcxVjFFeDFic1l1Nlh0ejhVX0hDWXg0MHpNV1BOaEQwUERtTmM1cVdmYjZRRW1wTXQtc283UlVFbWgzWnNDc3RNbg?oc=5)
 
 ---
 

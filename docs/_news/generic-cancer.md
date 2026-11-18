@@ -3,7 +3,7 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 34 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 38 articles, 228 related drugs."
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>34 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>38 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,13 +236,29 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (34)
+## Related News (38)
+
+### [Correction: Development of niosomal nanoparticles loaded with cisplatin and vorinostat combination for cancer therapy](https://news.google.com/rss/articles/CBMifkFVX3lxTE9nNXFqcFdHc0VtYnJQS0l4NjEzMk5QUjdneTdwdTktWUI2NHJlcm1jUnpMVkVUMWpmOGl6UEVtRU1INjQ4Q2Q3QjZxNkVqc25XYUVkWGtybkV5Y0JGcjE0amZrZkRMN2Z0R2xTYXJzV3FWX3BkQ21NbmRjZHZPQQ?oc=5)
+
+2026-11-18
+
+Source: [PLOS](https://news.google.com/rss/articles/CBMifkFVX3lxTE9nNXFqcFdHc0VtYnJQS0l4NjEzMk5QUjdneTdwdTktWUI2NHJlcm1jUnpMVkVUMWpmOGl6UEVtRU1INjQ4Q2Q3QjZxNkVqc25XYUVkWGtybkV5Y0JGcjE0amZrZkRMN2Z0R2xTYXJzV3FWX3BkQ21NbmRjZHZPQQ?oc=5)
+
+---
 
 ### [Targeting antioxidant defenses could overcome colorectal cancer drug resistance](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVk9CMGJqSWIwV2ZtUDFhUnZQTzFodXpIODRmVFF6NmhaNGtRQWRrVVZGU1BTZnRUY25MOV81VFlNZUJkMVdQdFRoVGlhZ2Z5Y2dzb1J5S0xrUGxEVGVRdXhmUjRJVUtzdnV4RDRPUmkxLWhZSUc4NG9aYnpBcmUwT3RwbnR2RnpMdGFBMzMwRkF0SWloLUZ3UzBQNDUyVlJqLUM2bWxjd0tKUjZ6ekIxYXRaZW5MSEZhREp5NmZ5ZXZEUDUtRnc?oc=5)
 
 2026-11-18
 
 Source: [News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxNVk9CMGJqSWIwV2ZtUDFhUnZQTzFodXpIODRmVFF6NmhaNGtRQWRrVVZGU1BTZnRUY25MOV81VFlNZUJkMVdQdFRoVGlhZ2Z5Y2dzb1J5S0xrUGxEVGVRdXhmUjRJVUtzdnV4RDRPUmkxLWhZSUc4NG9aYnpBcmUwT3RwbnR2RnpMdGFBMzMwRkF0SWloLUZ3UzBQNDUyVlJqLUM2bWxjd0tKUjZ6ekIxYXRaZW5MSEZhREp5NmZ5ZXZEUDUtRnc?oc=5)
+
+---
+
+### [Nurses Are Key to Keeping Complex Cancer Care Close to Home - Oncology Nursing News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWx1YTlSSDBCbGlwcVdmRnJpcC1TTG5ZV3RuYy1OSWxPUTlMQjZITmdfTUdkRXdmWXh3THIwZXlCUnBCTVZxWC1CUm9QSVdhYkxoX2ZqalVKV2FpZ1NIa1BnU25URzAzLTJmYWpIcm5WMnZlN0ZFOEU1cG02TVduTlJGT1RJWHdYdzdMSHNZb2hRQ1NBWWI2UmZwOA?oc=5)
+
+2026-11-18
+
+Source: [Oncology Nursing News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWx1YTlSSDBCbGlwcVdmRnJpcC1TTG5ZV3RuYy1OSWxPUTlMQjZITmdfTUdkRXdmWXh3THIwZXlCUnBCTVZxWC1CUm9QSVdhYkxoX2ZqalVKV2FpZ1NIa1BnU25URzAzLTJmYWpIcm5WMnZlN0ZFOEU1cG02TVduTlJGT1RJWHdYdzdMSHNZb2hRQ1NBWWI2UmZwOA?oc=5)
 
 ---
 
@@ -259,6 +275,14 @@ Source: [NDTV](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVVZzd29uY1FZ
 2026-11-18
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiekFVX3lxTE9MaXFGWlFVVkRmbEZGTUtyMThlN0h5aFItX1lDdzFJc3B2em5GZms0TDNnaGh1R3locUJwUHdLNFRiV3h2S1JBTVdtWU1UY1EzX2NkVFlEbFpyNmFTUy1sSEJvdVZBaWJyb3Q1clpSdVBmOGwxNVBWSWNB?oc=5)
+
+---
+
+### [What it Takes to Turn Global Commitments to Eliminate Cervical Cancer Into Reality – UICC](https://news.google.com/rss/articles/CBMia0FVX3lxTE9wcEQ1RGRCaWktQU9JR1N4TjB2aTFkNVZyTFBsUWNLR0g2cDg4b1pSYWNLZHh0X1M2NGdiMkhfdFZpTHhfc3RNRUJnS1QxeFpGUmE3X3R1TXBWa04zT0tVbmNwdTg3OFZNbm5R?oc=5)
+
+2026-11-18
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMia0FVX3lxTE9wcEQ1RGRCaWktQU9JR1N4TjB2aTFkNVZyTFBsUWNLR0g2cDg4b1pSYWNLZHh0X1M2NGdiMkhfdFZpTHhfc3RNRUJnS1QxeFpGUmE3X3R1TXBWa04zT0tVbmNwdTg3OFZNbm5R?oc=5)
 
 ---
 
@@ -315,6 +339,14 @@ Source: [Health and Me](https://news.google.com/rss/articles/CBMiggJBVV95cUxQeXh
 2026-11-17
 
 Source: [Zawya](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3BfdGs4azJfdE1QcVE5ZWptd0psOWhzNVpNWTJDS3M5RG5mUUtESHptR0wtVjFnb2IxY1JZdGt2dXYyTW94UTItRUpaSmxidnZ0N3pSX3d2UXViUElWX3FwQ2dNMFlzZHVkd2hvTnVFNlNZUXJrelF0aUJpdHVqRGRGaGJTY3BYRXRqdjlFTDdHNEE3bk9Xa1c5UkxWdnVyNThNaDNZRXJyd0wwSnBYMmpIS00zNGpuOUx3ZTRmWUZpZG93eUowMXR0bTlaQjRSbWpZS0Fn?oc=5)
+
+---
+
+### [How new method maps CRISPR off-target edits at single-cell resolution - Medical Buyer](https://news.google.com/rss/articles/CBMingFBVV95cUxNbHU3MlBiZFIzNzN0Ti1VaS1rRDJRWEx4Z1FyMzhfdGktN3FwRkdsZnJpRlFSdmF0RDVvc0QybVlxY29ZVVdBanl5ZkV5VGxzRnNrejNhbTE3WlZnQWJpVVM0RmR0YmpFYXdpdml4LTJVNDlvanBQSXE0TDdpeF9QbG5jdm0zMUdUN2VKdDU4eHpRV256UDNONHIwQXFQZw?oc=5)
+
+2026-11-17
+
+Source: [Medical Buyer](https://news.google.com/rss/articles/CBMingFBVV95cUxNbHU3MlBiZFIzNzN0Ti1VaS1rRDJRWEx4Z1FyMzhfdGktN3FwRkdsZnJpRlFSdmF0RDVvc0QybVlxY29ZVVdBanl5ZkV5VGxzRnNrejNhbTE3WlZnQWJpVVM0RmR0YmpFYXdpdml4LTJVNDlvanBQSXE0TDdpeF9QbG5jdm0zMUdUN2VKdDU4eHpRV256UDNONHIwQXFQZw?oc=5)
 
 ---
 

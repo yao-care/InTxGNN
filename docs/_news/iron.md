@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Iron. 5 predicted indications."
 permalink: /news/iron/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # Iron News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about Iron?">
-<strong>Iron</strong> currently has <strong>1 news articles</strong>, with 5 predicted indications.
+<strong>Iron</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Iron with the latest health 
 <p><a href="{{ '/drugs/iron/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Anemia and Iron Status in Pregnant and Postpartum Women With Acute Heart Failure](https://news.google.com/rss/articles/CBMidkFVX3lxTE01N1MyS1pPS1NWb054RmVSSU5odlZQSEtGYnNlZjNWME1Vd0pXeUM1bGlfZmVTN2FEeTVKZm9Ja0pYNEwyRVRXSlJpR181NDlRU1lQUGlkUDNtZTdybFBFamZSZzdlQ1FzTG9lZUFUaEx6UGJPZXc?oc=5)
+
+2026-11-18 <span class="news-drug-tag">IRON</span> <span class="news-drug-tag">Iron</span>
+
+Source: [JAMA](https://news.google.com/rss/articles/CBMidkFVX3lxTE01N1MyS1pPS1NWb054RmVSSU5odlZQSEtGYnNlZjNWME1Vd0pXeUM1bGlfZmVTN2FEeTVKZm9Ja0pYNEwyRVRXSlJpR181NDlRU1lQUGlkUDNtZTdybFBFamZSZzdlQ1FzTG9lZUFUaEx6UGJPZXc?oc=5)
+
+---
 
 ### [Hypophosphatemic Osteomalacia Associated With Long-Term Intravenous Iron Sucrose in an Anuric Hemodialysis Patient: A Case Report](https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSGhlSV9BYjNUUEpadUNPRkc5ZFFYWEttTFdBSVllLTNMNWRPZ2p1MENwbGFpSFg4U2F2aXlpNlBKUzh0Tm5vRlZVYXRzbFBpWGhJTmxhWDZvaE1IS1hLUmM1Yjl6ZkdJNUh6NTRGSUNsZnk5Qk5xa2dCckl6SW40TGl1eGlKYy1CUVZyeW1UNWNnbURkamNWNWhFa01nRVdyWGI0Y0RiaFRpSjMwYmJ0ZFppQ3RQUFF1cjlMSVoteFFDU3A2UDk2RHFQbGtYeHJJMUs0Z1lGYkFSd1h2S0ZZTUhFY1pSQ1hMamdwTWtPblduUnJuNWxIcElmZw?oc=5)
 

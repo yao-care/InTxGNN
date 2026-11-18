@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Apomorphine?">
-<strong>Apomorphine</strong> currently has <strong>4 news articles</strong>, with 10 predicted indications.
+<strong>Apomorphine</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ This page combines the AI-predicted indications for Apomorphine with the latest 
 <p><a href="{{ '/drugs/apomorphine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [TU Delft and LUMC contribute to the largest brain atlas ever created](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFpdUx1bmh5SktFZ053elRVcEZKd0VhN3cxTFNMZVZqNDhpY04xSnM1SFJnTy1LNTBLeUlqeTJCYVo5Z3VFTGVtNEQ1UHVRaHc1VHliQ0NpSFZMdFk5LVFqdkFyNEo4dGJfZ1Y4Rmd0QzM0aFlramNaaHRfZkh0aG1VMDVET3FpZThHN1RhUjdla3poRkpoTTQwX2ZvZDl2TzNOcmJ5S20?oc=5)
 
@@ -73,6 +73,14 @@ Source: [India Today](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDhwe
 2026-11-13 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
 
 Source: [DD India](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUhPVFJBbzRCWkZGcFFCdjJJWVVBenpLOFNZZGpvYnh6aXM3VnRQUW5HS3k0ZTZweXBxd2FWelJaSTNCM3JITllxcHl4Q2d5UWtBQ01wa1M4RExMWm5RWmdnV18wTnUtaUpYZk1CWDRoNnkzUDZSaHFwVjNfemdBZjZSaFlwMlRoMTU5WmpVSVJLN0RRWHZvU2lvVFFWNXhodEVJ?oc=5)
+
+---
+
+### [Scientists develop smarter version of existing Parkinson’s gene therapy - DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
 
 ---
 

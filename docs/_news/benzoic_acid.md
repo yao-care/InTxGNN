@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Benzoic Acid?">
-<strong>Benzoic Acid</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Benzoic Acid</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Benzoic Acid with the latest
 <p><a href="{{ '/drugs/benzoic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Retinal screening, healthy diet and exercise can keep 'silent thief of eyesight' at bay](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1NudERjWkdhRWxnTEl0ZzA2MDM2MXlIdG90VzFMekhoLWtqVVEyOEt1WHhvZS1nWnhCaTRHN1IycWpickE3VTdfVERxTktPVGE2ckw4OUUzZHU1X2U3RXhnYzZyY0RhcmFaeUpvckNxbmtWRzhZQktlZHBuYmhfUjEwT05pYmlJNThtNGE3V2JWR3RBbmtiREs3c0xxcDZYV2ExWGN3YkhRLTNBUVRaNzE5Z3hvdm9qUWRIMTUxZXBNMm8?oc=5)
+
+2026-11-18 <span class="news-indication-tag">diabetic retinopathy</span> <span class="news-indication-tag">eye disease</span>
+
+Source: [theherald.co.za](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1NudERjWkdhRWxnTEl0ZzA2MDM2MXlIdG90VzFMekhoLWtqVVEyOEt1WHhvZS1nWnhCaTRHN1IycWpickE3VTdfVERxTktPVGE2ckw4OUUzZHU1X2U3RXhnYzZyY0RhcmFaeUpvckNxbmtWRzhZQktlZHBuYmhfUjEwT05pYmlJNThtNGE3V2JWR3RBbmtiREs3c0xxcDZYV2ExWGN3YkhRLTNBUVRaNzE5Z3hvdm9qUWRIMTUxZXBNMm8?oc=5)
+
+---
 
 ### [Barraquer Eye Hospital UAE Offers Complimentary Retinal Screenings to Mark World Diabetes Day](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlM1MWlyamthTDBTZ20zU2tZS2VvT2ZDSVhWTS1qZzZBVnFxYi0weWs1SkFyWkNaVU94TF93bWo4VHBGX2NQTXhObEJCZUtFbTQzbnRPNUZuTzh2ampHMGh5Z0dWVjc0SGdtR2pjV2lQb2V4SzVqbGNQcWpBU1ZRVUY3aVV5M0VmMlpoWndOX3VMQmh4eUwtd3l5VV9WYUNtQmctdGdIYm1tYkNVTkUzaEZNN0M2cEJDRWJNZWZIRGxRMlB3ODlBNWRkRHhBN3BIRThvcFdaQ3VQS2pYTS1PaE52MURzNGhmRS1v?oc=5)
 

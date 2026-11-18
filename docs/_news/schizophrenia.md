@@ -3,7 +3,7 @@ layout: default
 title: "schizophrenia News"
 parent: Health News
 nav_exclude: true
-description: "Health news about schizophrenia. 4 articles, 2 related drugs."
+description: "Health news about schizophrenia. 5 articles, 2 related drugs."
 permalink: /news/schizophrenia/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about schizophrenia?">
-<strong>schizophrenia</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>schizophrenia</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ This page brings together the latest health news about “schizophrenia” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [TU Delft and LUMC contribute to the largest brain atlas ever created](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFFpdUx1bmh5SktFZ053elRVcEZKd0VhN3cxTFNMZVZqNDhpY04xSnM1SFJnTy1LNTBLeUlqeTJCYVo5Z3VFTGVtNEQ1UHVRaHc1VHliQ0NpSFZMdFk5LVFqdkFyNEo4dGJfZ1Y4Rmd0QzM0aFlramNaaHRfZkh0aG1VMDVET3FpZThHN1RhUjdla3poRkpoTTQwX2ZvZDl2TzNOcmJ5S20?oc=5)
 
@@ -62,6 +62,14 @@ Source: [India Today](https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDhwe
 2026-11-13
 
 Source: [DD India](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUhPVFJBbzRCWkZGcFFCdjJJWVVBenpLOFNZZGpvYnh6aXM3VnRQUW5HS3k0ZTZweXBxd2FWelJaSTNCM3JITllxcHl4Q2d5UWtBQ01wa1M4RExMWm5RWmdnV18wTnUtaUpYZk1CWDRoNnkzUDZSaHFwVjNfemdBZjZSaFlwMlRoMTU5WmpVSVJLN0RRWHZvU2lvVFFWNXhodEVJ?oc=5)
+
+---
+
+### [Scientists develop smarter version of existing Parkinson’s gene therapy - DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
+
+2026-11-13
+
+Source: [DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
 
 ---
 
