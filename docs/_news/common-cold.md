@@ -3,9 +3,9 @@ layout: default
 title: "cold (common cold) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cold (common cold). 3 articles, 1 related drugs."
+description: "Health news about cold (common cold). 4 articles, 1 related drugs."
 permalink: /news/common-cold/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # cold (common cold) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about cold (common cold)?">
-<strong>cold (common cold)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>cold (common cold)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “cold” and lists the 
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Winter and diabetes: How cold weather can disrupt blood sugar, circulation and foot health in older adults - The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxNd3ZKZUx5eE4zOWgyV210OFNGQ0NpT1k2T3dtR2NSNUZEd0l5a2JVbUkyU2xwa3J6eXljODFSVEhzUWc3Y0dxc1lXWXBVZzJMX0Fla3Y5endHMEVkSTBTbTZTVC15amo4bmo1OWo5aWM4MjhVNl84eEJSY3RtUlp4S09uTUNBMktpYVllMlI0U0Y3SmxxOFJkS2QzZmoyOWQ3ZGhsb2tyM0E3dlVDRVB2OWRiRktSbVJ2YTVYbTBwQlQ4cy1WZzZjdzVxeG44b2toelU2WjhpMVFRQU5YbGdNQUs5WExodTNDWmhXX0MtUHFxOFJ0ZkJBWXhhMDluRGF3WHfSAYoCQVVfeXFMT0l6TFRhMmd2NzlKVVR4LVRxMENFdFpJZENCUkloWEotZzFCeFV1ZU42dVJVVmQzcWpXNGpiZE9BR1VYQU1EZVpzSWJXdWRYalVvMzd1cDNRY2tBMzB3SFA5czkwck54Zm4wRHp3Y3QtMERtR3hwRElodkxyYnhNQVR0akZhSHhwMVVlZFM5SWx4WmhNRm9GNDJ4LXFiNkJsZU9RaFFIdllsVEhIWG1VUVViWmFmb2lPVFJmSnUtbmdsaEIzMmw4elQ4dDJxOExkZnY1UmVPR0JFMTF0Vy13bG04VngwRlNiNFU2MEJDanlQQUh0YUw2VTRSVWxqWWRKMkRldEhCNDU0bmc?oc=5)
+
+2026-11-18
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxNd3ZKZUx5eE4zOWgyV210OFNGQ0NpT1k2T3dtR2NSNUZEd0l5a2JVbUkyU2xwa3J6eXljODFSVEhzUWc3Y0dxc1lXWXBVZzJMX0Fla3Y5endHMEVkSTBTbTZTVC15amo4bmo1OWo5aWM4MjhVNl84eEJSY3RtUlp4S09uTUNBMktpYVllMlI0U0Y3SmxxOFJkS2QzZmoyOWQ3ZGhsb2tyM0E3dlVDRVB2OWRiRktSbVJ2YTVYbTBwQlQ4cy1WZzZjdzVxeG44b2toelU2WjhpMVFRQU5YbGdNQUs5WExodTNDWmhXX0MtUHFxOFJ0ZkJBWXhhMDluRGF3WHfSAYoCQVVfeXFMT0l6TFRhMmd2NzlKVVR4LVRxMENFdFpJZENCUkloWEotZzFCeFV1ZU42dVJVVmQzcWpXNGpiZE9BR1VYQU1EZVpzSWJXdWRYalVvMzd1cDNRY2tBMzB3SFA5czkwck54Zm4wRHp3Y3QtMERtR3hwRElodkxyYnhNQVR0akZhSHhwMVVlZFM5SWx4WmhNRm9GNDJ4LXFiNkJsZU9RaFFIdllsVEhIWG1VUVViWmFmb2lPVFJmSnUtbmdsaEIzMmw4elQ4dDJxOExkZnY1UmVPR0JFMTF0Vy13bG04VngwRlNiNFU2MEJDanlQQUh0YUw2VTRSVWxqWWRKMkRldEhCNDU0bmc?oc=5)
+
+---
 
 ### [Pneumonia is no mere ‘severe cold.’ It is the 2nd-leading cause of death among older Koreans. - Korea Biomedical Review](https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SXNxaldIQm85ZmhIMXhOS2RvZlhlRDNuZGJ0TF80LUxhWVA1RFhIbmVUX0tzNjhqT2VGbk8xT0p0ZGdJNENKVGZVcFZIQVdiVllZR05kN1ZvMGhvUG9SbmJfVHl3RnYxRDdMTjd30gFyQVVfeXFMTmJvdE1lVS10aXU5U3lJWmtYNmcwaTlzbEFvXzNJM3pmLUdnc2p6ci1zNEJRNnMxMkV6Z2VXamZRXzZHSHRvLTRseks0bmdoUlVfUnJuRW9PMG1HcmdTeENnWW0wNVNFU3JvRzh1VEtnT0xn?oc=5)
 

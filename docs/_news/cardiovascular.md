@@ -3,9 +3,9 @@ layout: default
 title: "heart disease (cardiovascular) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease (cardiovascular). 11 articles, 31 related drugs."
+description: "Health news about heart disease (cardiovascular). 12 articles, 31 related drugs."
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # heart disease (cardiovascular) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about heart disease (cardiovascular)?">
-<strong>heart disease (cardiovascular)</strong> currently has <strong>11 news articles</strong> and 31 related drugs.
+<strong>heart disease (cardiovascular)</strong> currently has <strong>12 news articles</strong> and 31 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -58,7 +58,15 @@ This page brings together the latest health news about “heart disease” and l
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Triglyceride-Glucose Index Predicts Cardiovascular Risk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjhVOFpsdkYxd3BRYnhLbzhWdWhudm1meE1mT1BzNmFKSDl1Z19RX1BhZzRETG54QVFwWXNselJEdzJaSXE5eHVaT3pQOU85Ulc3NFBYUVhPbEZaRnEyNDE4X1BPQkFqajU4QzZ4TjBkVVBGNThMd1AwbkVnWXBaTlVqdC1tSmNMeFhwdTJvUlZ4YU5iWHQ4MnBic1FYTzJ0?oc=5)
+
+2026-11-18
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjhVOFpsdkYxd3BRYnhLbzhWdWhudm1meE1mT1BzNmFKSDl1Z19RX1BhZzRETG54QVFwWXNselJEdzJaSXE5eHVaT3pQOU85Ulc3NFBYUVhPbEZaRnEyNDE4X1BPQkFqajU4QzZ4TjBkVVBGNThMd1AwbkVnWXBaTlVqdC1tSmNMeFhwdTJvUlZ4YU5iWHQ4MnBic1FYTzJ0?oc=5)
+
+---
 
 ### [Regular Bedtimes May Reduce CV Risk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
 

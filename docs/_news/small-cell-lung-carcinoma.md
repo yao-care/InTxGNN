@@ -3,9 +3,9 @@ layout: default
 title: "lung cancer (small cell lung carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about lung cancer (small cell lung carcinoma). 5 articles, 5 related drugs."
+description: "Health news about lung cancer (small cell lung carcinoma). 7 articles, 5 related drugs."
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # lung cancer (small cell lung carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about lung cancer (small cell lung carcinoma)?">
-<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>5 news articles</strong> and 5 related drugs.
+<strong>lung cancer (small cell lung carcinoma)</strong> currently has <strong>7 news articles</strong> and 5 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ This page brings together the latest health news about “lung cancer” and lis
 </ul>
 </div>
 
-## Related News (5)
+## Related News (7)
+
+### [Investigating the antitumor potential of Karakilçik wheatgrass juice against prostate and lung cancer cells through in vitro and in silico](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdFBGM1pxN0NoVVVKZ19fVjM2aVZWaC1ramRlRk5NSllWY1lpZ2FreUxDTFItdEs3aXhBQjhmaEdmWnB4MVZDUFFoWTJVYXlqRzJMRnIySllnbFg1RzBZ?oc=5)
+
+2026-11-19
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdFBGM1pxN0NoVVVKZ19fVjM2aVZWaC1ramRlRk5NSllWY1lpZ2FreUxDTFItdEs3aXhBQjhmaEdmWnB4MVZDUFFoWTJVYXlqRzJMRnIySllnbFg1RzBZ?oc=5)
+
+---
 
 ### [Interview: Sanjay Popat](https://news.google.com/rss/articles/CBMiekFVX3lxTE9MaXFGWlFVVkRmbEZGTUtyMThlN0h5aFItX1lDdzFJc3B2em5GZms0TDNnaGh1R3locUJwUHdLNFRiV3h2S1JBTVdtWU1UY1EzX2NkVFlEbFpyNmFTUy1sSEJvdVZBaWJyb3Q1clpSdVBmOGwxNVBWSWNB?oc=5)
 
 2026-11-18
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMiekFVX3lxTE9MaXFGWlFVVkRmbEZGTUtyMThlN0h5aFItX1lDdzFJc3B2em5GZms0TDNnaGh1R3locUJwUHdLNFRiV3h2S1JBTVdtWU1UY1EzX2NkVFlEbFpyNmFTUy1sSEJvdVZBaWJyb3Q1clpSdVBmOGwxNVBWSWNB?oc=5)
+
+---
+
+### [Lung Cancer in Non-Smokers: Causes, Warning Signs and How Air Pollution Plays a Role](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUlNRDV4azdtZ1ZNSlUyemg5Y05pSWxnZ0pBUFdxMW1KMTdoQlYxRlViakZycmEwbGQzQXJES1YxZTREaUxYQTZrZks2b05lN3dKR1daOUhQVjVkd3o0YTlxdlNDWDUzaFNQVDZIVFJCc24xSUx5ZkNwMjYyZTFzSkFQbTZRTk1ObHU2UXR0VjYtTkMwcmJLdDhTc3A4Yy1MNnc?oc=5)
+
+2026-11-18
+
+Source: [Onlymyhealth](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUlNRDV4azdtZ1ZNSlUyemg5Y05pSWxnZ0pBUFdxMW1KMTdoQlYxRlViakZycmEwbGQzQXJES1YxZTREaUxYQTZrZks2b05lN3dKR1daOUhQVjVkd3o0YTlxdlNDWDUzaFNQVDZIVFJCc24xSUx5ZkNwMjYyZTFzSkFQbTZRTk1ObHU2UXR0VjYtTkMwcmJLdDhTc3A4Yy1MNnc?oc=5)
 
 ---
 

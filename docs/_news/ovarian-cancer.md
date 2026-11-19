@@ -3,9 +3,9 @@ layout: default
 title: "ovarian cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about ovarian cancer. 4 articles, 1 related drugs."
+description: "Health news about ovarian cancer. 5 articles, 1 related drugs."
 permalink: /news/ovarian-cancer/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 ---
 
 # ovarian cancer News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="What news is there about ovarian cancer?">
-<strong>ovarian cancer</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>ovarian cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “ovarian cancer” and 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Experimental Drug Shrinks Tumors in Phase I Trial for Advanced Ovarian Cancer - Inside Precision Medicine](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjhvcEs1aGFPYjlrOEIyQlB1dFlJVnBHUW5uWnpSaDl4cTRnX1RLaUNFdnp5WlMwUWhZU0xpVWZKNFBMSDZRUGNjcVNPRE94VnFvQWQzYjRpUlJpc05QWV95QnNwenRiTGZIbkNDT1RBV3dlaEszMEhMR0tFOXktSXN2MmlyWmVoNzFmM0tzV3ZQOWhxZkVLNDFITk05VUZuNU9fazRoMU81TUlkRXlMM1E2QXJhVnZMNVFQcTFQVU1mSHJhLTJYbkhlTl9FSU0?oc=5)
+
+2026-11-18
+
+Source: [Inside Precision Medicine](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjhvcEs1aGFPYjlrOEIyQlB1dFlJVnBHUW5uWnpSaDl4cTRnX1RLaUNFdnp5WlMwUWhZU0xpVWZKNFBMSDZRUGNjcVNPRE94VnFvQWQzYjRpUlJpc05QWV95QnNwenRiTGZIbkNDT1RBV3dlaEszMEhMR0tFOXktSXN2MmlyWmVoNzFmM0tzV3ZQOWhxZkVLNDFITk05VUZuNU9fazRoMU81TUlkRXlMM1E2QXJhVnZMNVFQcTFQVU1mSHJhLTJYbkhlTl9FSU0?oc=5)
+
+---
 
 ### [Blood Test Spots Ovarian Cancer Precursor in Early Study - EEW Magazine](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVh3RVFGUW11LVhiUDZKbng0bWE1WnJPR3RWMGVLekZBY1I2TDgtYkY1OWM1TFlQeUI0R2RXcG1HNEV5SVVFM1NaZXU5T2stNW1SdE5sTzFNWnpCS2xrcjI2MmJvbTgxMUlJd3c5MDRyblh5Nm91cG1ERy1pYkJldVA2dTVNQldMUlNIVkVxa3ZHcm1xM21LdEp3Z1JMWmljUldxekdLRXI?oc=5)
 

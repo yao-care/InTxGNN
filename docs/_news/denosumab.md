@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Denosumab. 2 predicted indications."
 permalink: /news/denosumab/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Denosumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Denosumab?">
-<strong>Denosumab</strong> currently has <strong>3 news articles</strong>, with 2 predicted indications.
+<strong>Denosumab</strong> currently has <strong>4 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Denosumab with the latest he
 <p><a href="{{ '/drugs/denosumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Associations between circulating neuregulin 4 and diabetic retinopathy in patients with type 2 diabetes mellitus: a cross-sectional study](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02RkR0YVdnR1N5SGJVWE1HdDlUWk9Cc0Vqel9MSlpUNzE5Z0JzM1BfOUxjdG13R2c5bnhxTDI2UGI0X252N3J5b09ZRDJBZjhHTTJZY21Ma2NBNDNnYzE0?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetic retinopathy</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02RkR0YVdnR1N5SGJVWE1HdDlUWk9Cc0Vqel9MSlpUNzE5Z0JzM1BfOUxjdG13R2c5bnhxTDI2UGI0X252N3J5b09ZRDJBZjhHTTJZY21Ma2NBNDNnYzE0?oc=5)
+
+---
 
 ### [Retinal screening, healthy diet and exercise can keep 'silent thief of eyesight' at bay](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc1NudERjWkdhRWxnTEl0ZzA2MDM2MXlIdG90VzFMekhoLWtqVVEyOEt1WHhvZS1nWnhCaTRHN1IycWpickE3VTdfVERxTktPVGE2ckw4OUUzZHU1X2U3RXhnYzZyY0RhcmFaeUpvckNxbmtWRzhZQktlZHBuYmhfUjEwT05pYmlJNThtNGE3V2JWR3RBbmtiREs3c0xxcDZYV2ExWGN3YkhRLTNBUVRaNzE5Z3hvdm9qUWRIMTUxZXBNMm8?oc=5)
 

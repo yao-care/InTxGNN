@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Cyclandelate. 9 predicted indications."
 permalink: /news/cyclandelate/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Cyclandelate News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Cyclandelate?">
-<strong>Cyclandelate</strong> currently has <strong>11 news articles</strong>, with 9 predicted indications.
+<strong>Cyclandelate</strong> currently has <strong>12 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Cyclandelate with the latest
 <p><a href="{{ '/drugs/cyclandelate/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Triglyceride-Glucose Index Predicts Cardiovascular Risk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjhVOFpsdkYxd3BRYnhLbzhWdWhudm1meE1mT1BzNmFKSDl1Z19RX1BhZzRETG54QVFwWXNselJEdzJaSXE5eHVaT3pQOU85Ulc3NFBYUVhPbEZaRnEyNDE4X1BPQkFqajU4QzZ4TjBkVVBGNThMd1AwbkVnWXBaTlVqdC1tSmNMeFhwdTJvUlZ4YU5iWHQ4MnBic1FYTzJ0?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjhVOFpsdkYxd3BRYnhLbzhWdWhudm1meE1mT1BzNmFKSDl1Z19RX1BhZzRETG54QVFwWXNselJEdzJaSXE5eHVaT3pQOU85Ulc3NFBYUVhPbEZaRnEyNDE4X1BPQkFqajU4QzZ4TjBkVVBGNThMd1AwbkVnWXBaTlVqdC1tSmNMeFhwdTJvUlZ4YU5iWHQ4MnBic1FYTzJ0?oc=5)
+
+---
 
 ### [Regular Bedtimes May Reduce CV Risk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
 

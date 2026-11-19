@@ -3,9 +3,9 @@ layout: default
 title: "breast cancer (female breast carcinoma) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about breast cancer (female breast carcinoma). 4 articles, 9 related drugs."
+description: "Health news about breast cancer (female breast carcinoma). 5 articles, 9 related drugs."
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # breast cancer (female breast carcinoma) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about breast cancer (female breast carcinoma)?">
-<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>4 news articles</strong> and 9 related drugs.
+<strong>breast cancer (female breast carcinoma)</strong> currently has <strong>5 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page brings together the latest health news about “breast cancer” and l
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Amol Akhade: The 12 FDA Breast Cancer Approvals You Need to Know](https://news.google.com/rss/articles/CBMib0FVX3lxTFBBTVpHNFRqcGhEd09DRHg5WGMzMF8zQ1BBOGM5NXhNZV9hanloQ1R5bEcxTXhjVktaWTl5QVpGbWtQNmhoUHJxaV9KdXJlU3AzWDlLX3JhVHE1dHhDR25ZMW11bVdDOTBrWkt0S1Ztdw?oc=5)
+
+2026-11-18
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBBTVpHNFRqcGhEd09DRHg5WGMzMF8zQ1BBOGM5NXhNZV9hanloQ1R5bEcxTXhjVktaWTl5QVpGbWtQNmhoUHJxaV9KdXJlU3AzWDlLX3JhVHE1dHhDR25ZMW11bVdDOTBrWkt0S1Ztdw?oc=5)
+
+---
 
 ### [RNA molecules could help overcome radiotherapy resistance in breast cancer](https://news.google.com/rss/articles/CBMivwFBVV95cUxPbU1GU0ZqOTRRdWxHa3hsd2gwZXZNRmRtQU9jRW9scUhrUWQzV19nY3lXbjRuVnRnUkpiUi1URG8wQlVGTnNJd2ZaRUN3NDEzRjM5TGR2aVgzdjJKRFlRUVI2dkJsOWRFUzMxdVA3TFpkU0FNYl9yRGd0MDBEVE13YkhwbUJta1lrY28yNGlucnR0Zl9lOVBYVmVNeGUzNnRIYUlxblV2a1RNdjVwSmQ3ZWZvcDR2RFVqYkhxbmlSSQ?oc=5)
 
