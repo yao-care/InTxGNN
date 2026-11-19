@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Artemether. 8 predicted indications."
 permalink: /news/artemether/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Artemether News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>3 news articles</strong>, with 8 predicted indications.
+<strong>Artemether</strong> currently has <strong>4 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [India Cuts Malaria Cases By 80%, But Climate Change Could Reverse The Gains](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemhFTXNWbmE1SHFmWm5sNDdEejVZM1V5Qi1aU19RTTV3OWxTUlEydDZZaVFhSF9vVUwyb3U1NjdTRFVMVEFQUDZ0TG41eVRTTzlWU2lBUExST0dfaFFnbl9lal91RGk4SEtLVHpTZkd6WElvRWlFbWZxTFR6SFQyemwwTWlXMGszU2lKYnZOR1pEdWtqUEQ2T05ZLVRKdElXcjQzMURkXzEyam9zZzZPdmhoQ0FOUV9taUpaV21BeC1MUQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemhFTXNWbmE1SHFmWm5sNDdEejVZM1V5Qi1aU19RTTV3OWxTUlEydDZZaVFhSF9vVUwyb3U1NjdTRFVMVEFQUDZ0TG41eVRTTzlWU2lBUExST0dfaFFnbl9lal91RGk4SEtLVHpTZkd6WElvRWlFbWZxTFR6SFQyemwwTWlXMGszU2lKYnZOR1pEdWtqUEQ2T05ZLVRKdElXcjQzMURkXzEyam9zZzZPdmhoQ0FOUV9taUpaV21BeC1MUQ?oc=5)
+
+---
 
 ### [President Droupadi Murmu calls for sustained research and public participation to eliminate malaria - News On AIR](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjlBYXh4MkpmUlNPV3R2ci1lV0xOdUpLX2piaXVrOWlIMHJTa1RSMG5NUkR4TUFLMmdZMjlCbnJleDY1ejJwM1RESWFfSC1JQXQxaVdpWmN0eFc2OGRpUElXTlcwSm5VRWcyU2kyR1hVb0Npc1kzQm1aOS1CM2RRQmNIdHdTMjhGMF94SWVrMDVYVk1VMTYxWEI4YmlMWWpmbTJjVmlvb3hYMEpBdVVlUDR6WGh2RUczWlE?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "dementia (bhoolne ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (bhoolne ki bimari). 6 articles, 8 related drugs."
+description: "Health news about dementia (bhoolne ki bimari). 7 articles, 8 related drugs."
 permalink: /news/bhoolne-ki-bimari/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # dementia (bhoolne ki bimari) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (bhoolne ki bimari)?">
-<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>6 news articles</strong> and 8 related drugs.
+<strong>dementia (bhoolne ki bimari)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [Psychology says a few minutes of your speech may reveal how fast your brain is aging, after a model teste - The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cUxPZ0ljUVl4VG43Yi1kc2NTbnpZQkJ5bVZSOG5aLXRTbWxlU2RIaHJ3MFRRTTZDalFzYVlyOXgwOUprNnpWd0dMYlFQai1wQ0NIVFdXRl84ZjdqQ3dnOXFiU1JLWUQyYldEUDNkLXBxVklrTzJlRjFwM1JpRFE1U3lTZWU1VnZRTDc4YVB1YTZVTVVDNzVwVUVkeml4SzVGMmViaWtpY3JaRjJKRG0weXJzVzYwV2xhbXk0ekRYVWVLSjF4UHpod05KVnh2OG9BLThGLVVkRExmNHR3eGhpS0p5UzRjWExiZHRLaTQxRWEwX0kyZDRfaElvMzZqN09Kbmx5RVJYanQ3SlBsVXQtRUtOck0zR0dIdjBmRTMwX1lXMEFWR09SM3NrTmxHN2JRSGxOWUF4N0Nyb2VJYnMwYzNNVjRtb0YtbnByaGpMN1RGbWJ1UmI3eXltMDgtMlZrTVVFMi1vMDU1dGdlXzBOcmx6al9MMzdydUZBYkxiWWNTb1daaGNBRE9v0gGMA0FVX3lxTE9DZUYwUUtyVFdRSG5OTGpqbDlodzdEUElmQWEtazZ0Q0RPSjN0dVV5anFJXzJuY1YxQVB4NklRM2VfanJKYU1haHpnS1hxS2Z3TlhWUXU5eGJHUGhBekgwVnh5TWFWcDExbnBfRXdaS3pxSTZZRXVpMVJGelROZnJRTTZWMWRQMEdfU2liMjdIaG1NZ001V1VuVkF2Q1p0U3ZqdDJDZ040d1gyWVJJX0JiMUdHMWxTeTJXdHpkY21ucUUzSC00blJ0bWtEYWUwYUFmdUtBRWdENmJjZjNxSXZzamJHNTBManRLaVJFaTlPa0tWZTI2WnR4ZTVIblpCODRxUnhXRTNlZ3V0V0ZXcUpRWVl1Rl9FaEk1S2lneVB6UGVqNEl5S0VvblFKbDB5a003N0JOVmp1T0FPYldqQ0FBel9INUU4TjRnUmhOMDlial9XSHZiQWVmMHpOMDFjSUU1R2tjaFI0dEttQXNUZlpLT205OWYtRTlNZ1V1MjFSLXd5RFJXWUs5RXFVTw?oc=5)
 
@@ -68,6 +68,14 @@ Source: [The American Journal of Managed Care® (AJMC®)](https://news.google.co
 2026-11-14
 
 Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk4xSUU2M3ZKV1Q3WUl4RTlJbXZ5V0NzOHU1ZFBkdlpLZHQtRVl5TlVyazhVSC1oSGdyM1RUTWdjbHVNdWxSU0oySXg1QlF0cGN6elVSaVNaeWVibHB5OTlIcmlFZnFVZE8zRzRuRHdGTGFIaW1UTlJ2c2lWSXZhbGVHTGZQaW5RRE9aX2dkdldpTVp3SENHaXk3akpIM0xidy1uSmRCMy0zOTZrUHlDcG1HM1dKLXJXLXlKNVRfbVdMOGswSE11TmVadXU1b2EwWmdpUlRodFdPdU3SAeABQVVfeXFMUDZVLVlLN2VQNEVoR3ZWMDRjdGcwTWpvR1NnMDU0VndTTzVwa0tENW5CdjE5b2s2OTJsZG9KY1UwcUNoQjZHMzRVTE1DN2NhR01iZWxTVm83V2dod2R3YkJOZXVmaG1NSG1VODhzUVhzWVVlYnF2eG1TdHdIcXQ1MTdZa1ZvOE1Md0dkb1dMZ0tQVWtNSjQ0cGJZRWpoSVh0SWtMeTZIQVl0aVMzcHBJSHlLblNNaGhpZ3M2cklXaGZOSVBYVWdXcEp6dlFVb0EwSmw0UzYycjdqcVZiOGg4emk?oc=5)
+
+---
+
+### [Scientists develop smarter version of existing Parkinson’s gene therapy - DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
+
+2026-11-13
+
+Source: [DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
 
 ---
 

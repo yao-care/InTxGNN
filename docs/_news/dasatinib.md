@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>65 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>70 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (65)
+## Related News (70)
+
+### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+2026-11-19 <span class="news-indication-tag">alzheimer</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
+
+---
+
+### [Survival Outcomes in Patients with Non-Endometrioid Uterine Malignancies at a Tertiary Cancer Centre in North Kerala, India: A Retrospective Analysis](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
+
+---
+
+### [Petra Ibum Adjah։ Three Important Facts Concerning Cervical Cancer in Nigeria](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4eXktR3lidDdTWGpDMGhTSDJDWU9ua09mM1dqSWs0WUlMT01admVMVWJsbV9xbnpjNThLMWtPRFNtVEJjZWlBYUFtdDBaR0tsbjlQdE5BanNTVjhXRExsMjFB?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Oncodaily](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4eXktR3lidDdTWGpDMGhTSDJDWU9ua09mM1dqSWs0WUlMT01admVMVWJsbV9xbnpjNThLMWtPRFNtVEJjZWlBYUFtdDBaR0tsbjlQdE5BanNTVjhXRExsMjFB?oc=5)
+
+---
+
+### [Survivor talks importance of early detection on World Pancreatic Cancer Day - NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLTNaNXRzLVN1TEcxSmRxMlc0aS1EZTIyUEpIRWxYM1VjMDZJNGVaVGQ5WVNKWW9yeS10S0JLdzRFbW5LLW4wcENpbEhhMjBOV2dFUzJGQVhOVVk5aUxDalhiNjl5dVdwWlZPSmxUUi1oMWVDeFBzOWNsbERGV2JkekYxMHRnb3dTSUNCRHdfTXk5cUphc3VldUt0cjFrYXFpOXZJcV9PRVB5U0lJU2xYVzE2NGlBM0FrUGRwSEdNT0JiZE9UYkhKenBIanVHQnBCUHFVZXkwQlVvdEnSAeMBQVVfeXFMTXUxSVRGeVhoWWl5VU9CM0hmVl9GSFlyOXhwRnBDeFRYVm9KcWUxd2E0REJyOTFDM05jMG5xczdzTnZKUFlvRnBOejBwYkhncUUyS1FZdG11amhEem5MbFlHQkNmZlc0VTFZTGszNTlTSzJCWjkzZzB4eS1Gb3B2bG1JRlkwX3JRZW5WakFGOUE0WmFnOTQ0a0Z3T0ZiMHNjSjlmUEN3VkZmaXNqRUpMMjg0LXZNd296YmZpY2tMQUFObXdxa090bnNtS3VwYW1jZHBIYzV6aEVZOWRUT3d6MnNtSDA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLTNaNXRzLVN1TEcxSmRxMlc0aS1EZTIyUEpIRWxYM1VjMDZJNGVaVGQ5WVNKWW9yeS10S0JLdzRFbW5LLW4wcENpbEhhMjBOV2dFUzJGQVhOVVk5aUxDalhiNjl5dVdwWlZPSmxUUi1oMWVDeFBzOWNsbERGV2JkekYxMHRnb3dTSUNCRHdfTXk5cUphc3VldUt0cjFrYXFpOXZJcV9PRVB5U0lJU2xYVzE2NGlBM0FrUGRwSEdNT0JiZE9UYkhKenBIanVHQnBCUHFVZXkwQlVvdEnSAeMBQVVfeXFMTXUxSVRGeVhoWWl5VU9CM0hmVl9GSFlyOXhwRnBDeFRYVm9KcWUxd2E0REJyOTFDM05jMG5xczdzTnZKUFlvRnBOejBwYkhncUUyS1FZdG11amhEem5MbFlHQkNmZlc0VTFZTGszNTlTSzJCWjkzZzB4eS1Gb3B2bG1JRlkwX3JRZW5WakFGOUE0WmFnOTQ0a0Z3T0ZiMHNjSjlmUEN3VkZmaXNqRUpMMjg0LXZNd296YmZpY2tMQUFObXdxa090bnNtS3VwYW1jZHBIYzV6aEVZOWRUT3d6MnNtSDA?oc=5)
+
+---
 
 ### [Biologics Show No Added Cancer Risk in Psoriasis](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
 
@@ -56,6 +88,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJV
 2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
 
 Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE16WDM5clY5Z2dXX3h6NDhXU1hoWnNKZFVTMjRjLUE4TC1nTkpaUFJWRkotV0poVFVRTXZhU2c5X2hfNWJtMmlXT2E2VVByZ1R0NUh3RFBYY2tmRmt6M0Jnci1QeU0xLTkxV0VPUU9kTGFodnJWQkpRV2VHdDE1aENXbFFnalREbE81c0FMUVZkNjhVNTFzRXhVV3pLSHZGZW1tOEpR?oc=5)
+
+---
+
+### [Feeling Mentally Exhausted Already? Pollution, Poor Sleep And Dehydration Could Be To Blame](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUTRWLUp6YUtrd3J0N2k0MmdNeFlNVWdpUlg0U0xuT1NEZzBxci1na1M3NmZ5ZXRQS3hEX0JDNWN1eWl1c2RUY0piVjFPcHZjdWNUY29MOTJCWUJBSDhrOFNadzJJVVJJMnc1Y1JFWmdHRkZod1pwZFl2NWk1SnAyUTcxTFJQbmhXTzNYMmZ5bWpBazdMLW9KeURCbEFfV2MxQ0JhS2JoX2oyWVlkdTktSDRCUjJqOUlKOURlTTRlUEk1QVJIcVRzS0tGRU1mU1FFemF2Vm5heG4xbWFWZUI5bVJkdWdMX3dYRTBV0gHwAUFVX3lxTFByaHpDMkNpenlnZFdrUHdLcVp4RUhWMXB1Z3FJRG5Xa19IRDlhWENkVWtkZDdnS3ZCSVcwdVZpS1JDMUpJaWx4YVhkN1dleTlxQktFUC02dngyUmJSZXVZSGVQbkxvaWc1MmVteWxnQms1TU1iVjdRWmNXVlFXaDRfMGNId21FeEU3cWVKazlVazE4ZjNHYUlnR3NQRWFCeFFEbXFMdTFXZTJBNFdaQlViOXFvX2tjakQxdHp6YnRJbTJFTjdEbkQwaC1Jdm80OE5MdDNNMFBsTHBrVTdGSFhTSWJKMHREZGNERml1YjU3Vw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">alzheimer</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [News18](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUTRWLUp6YUtrd3J0N2k0MmdNeFlNVWdpUlg0U0xuT1NEZzBxci1na1M3NmZ5ZXRQS3hEX0JDNWN1eWl1c2RUY0piVjFPcHZjdWNUY29MOTJCWUJBSDhrOFNadzJJVVJJMnc1Y1JFWmdHRkZod1pwZFl2NWk1SnAyUTcxTFJQbmhXTzNYMmZ5bWpBazdMLW9KeURCbEFfV2MxQ0JhS2JoX2oyWVlkdTktSDRCUjJqOUlKOURlTTRlUEk1QVJIcVRzS0tGRU1mU1FFemF2Vm5heG4xbWFWZUI5bVJkdWdMX3dYRTBV0gHwAUFVX3lxTFByaHpDMkNpenlnZFdrUHdLcVp4RUhWMXB1Z3FJRG5Xa19IRDlhWENkVWtkZDdnS3ZCSVcwdVZpS1JDMUpJaWx4YVhkN1dleTlxQktFUC02dngyUmJSZXVZSGVQbkxvaWc1MmVteWxnQms1TU1iVjdRWmNXVlFXaDRfMGNId21FeEU3cWVKazlVazE4ZjNHYUlnR3NQRWFCeFFEbXFMdTFXZTJBNFdaQlViOXFvX2tjakQxdHp6YnRJbTJFTjdEbkQwaC1Jdm80OE5MdDNNMFBsTHBrVTdGSFhTSWJKMHREZGNERml1YjU3Vw?oc=5)
 
 ---
 
@@ -232,14 +272,6 @@ Source: [allAfrica.com](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRzR
 2026-11-18 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
 
 Source: [Onlymyhealth](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUlNRDV4azdtZ1ZNSlUyemg5Y05pSWxnZ0pBUFdxMW1KMTdoQlYxRlViakZycmEwbGQzQXJES1YxZTREaUxYQTZrZks2b05lN3dKR1daOUhQVjVkd3o0YTlxdlNDWDUzaFNQVDZIVFJCc24xSUx5ZkNwMjYyZTFzSkFQbTZRTk1ObHU2UXR0VjYtTkMwcmJLdDhTc3A4Yy1MNnc?oc=5)
-
----
-
-### [Survival Outcomes in Patients with Non-Endometrioid Uterine Malignancies at a Tertiary Cancer Centre in North Kerala, India: A Retrospective Analysis](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
-
-2026-11-18 <span class="news-indication-tag">cancer</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
 
 ---
 
@@ -472,6 +504,14 @@ Source: [Daily Excelsior](https://news.google.com/rss/articles/CBMikwFBVV95cUxOY
 2026-11-13 <span class="news-indication-tag">cancer</span>
 
 Source: [WBUR](https://news.google.com/rss/articles/CBMibEFVX3lxTFBKbG83TnY2OFJ3SEVwcEV1bU1LZE9RVUJaMXVFaWFsdXpBQzJiODNDdEh0ZGptdzUyN242LVJ3dTJ6X2l0VHpBWHpGbkRNT0VSWXhLUHNhNEsxNkNaTC1ZZnNkSklNUnE1YmJNOQ?oc=5)
+
+---
+
+### [Scientists develop smarter version of existing Parkinson’s gene therapy - DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span> <span class="news-indication-tag">schizophrenia</span>
+
+Source: [DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
 
 ---
 

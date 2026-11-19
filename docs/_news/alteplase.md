@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Alteplase?">
-<strong>Alteplase</strong> currently has <strong>15 news articles</strong>, with 6 predicted indications.
+<strong>Alteplase</strong> currently has <strong>17 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Alteplase with the latest he
 <p><a href="{{ '/drugs/alteplase/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (15)
+## Related News (17)
+
+### [Summer heatwaves raise death risk for heart disease patients](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMirAFBVV95cUxPQm9LWl9WcXkwM3Zka1A3RHJQajE0ekpobUtvbHotWDhEUVdtb0Y2NGtCbjF2SmViaWh2RDNETTdlczVYZE5QWXhZVnNEcFctLWhNeHM3cGhmZWppRkJodlZHOVQxdVhrel9NNVRIeHFBNXdjcGhhLXV5Q0c5T1dPaW1WVTJvaUo3aThBRmlDVTd4RFRRU296LXczQWhJSDlSd2RrbmNGOUNJUWhB?oc=5)
+
+---
 
 ### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
@@ -61,6 +69,14 @@ Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ
 2026-11-19 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnTDVDNkZWWFVlbDRfMVRBU1ZpNThwR3p6SGJUVVBpZzZqdmQwTkpmbFJDWVVmMkFOWTMybFZLSFZ2cHNrMHZ4aG5XempkOWFycDFXYXIxM2ptOVJNSGZZ?oc=5)
+
+---
+
+### [Healthy Sleep May Protect Brain Health From Cardiometabolic Disease Risk Factors - Infectious Disease Advisor](https://news.google.com/rss/articles/CBMixgFBVV95cUxORklieWgwWWFWQ3E0djdGQ0NHNnF3aWc5TGpxOFl1QXY5UVlwY0d3NnVIY0F5eGZBbnRma3VSZHNXMHk1bzdWc3p5X0JCeUFPRzVpX2dKSWcxSDNtUFRUSjkzSnlSTE9hVnRHbEFmQ19ZMEVtX2dFWGJNdFlKdWgwRHotVHdLXzVEV1ZTYTdQcGN1TjloNVNZZGFpX0xNcWtIdm1yV2psWmtLQ3dXSllkcGRWXzVDR3JCQzl2VWdYM05jR09WUGc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span>
+
+Source: [Infectious Disease Advisor](https://news.google.com/rss/articles/CBMixgFBVV95cUxORklieWgwWWFWQ3E0djdGQ0NHNnF3aWc5TGpxOFl1QXY5UVlwY0d3NnVIY0F5eGZBbnRma3VSZHNXMHk1bzdWc3p5X0JCeUFPRzVpX2dKSWcxSDNtUFRUSjkzSnlSTE9hVnRHbEFmQ19ZMEVtX2dFWGJNdFlKdWgwRHotVHdLXzVEV1ZTYTdQcGN1TjloNVNZZGFpX0xNcWtIdm1yV2psWmtLQ3dXSllkcGRWXzVDR3JCQzl2VWdYM05jR09WUGc?oc=5)
 
 ---
 

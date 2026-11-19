@@ -3,9 +3,9 @@ layout: default
 title: "malaria (malaria fever) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria (malaria fever). 3 articles, 2 related drugs."
+description: "Health news about malaria (malaria fever). 4 articles, 2 related drugs."
 permalink: /news/malaria-fever/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # malaria (malaria fever) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about malaria (malaria fever)?">
-<strong>malaria (malaria fever)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>malaria (malaria fever)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [India Cuts Malaria Cases By 80%, But Climate Change Could Reverse The Gains](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemhFTXNWbmE1SHFmWm5sNDdEejVZM1V5Qi1aU19RTTV3OWxTUlEydDZZaVFhSF9vVUwyb3U1NjdTRFVMVEFQUDZ0TG41eVRTTzlWU2lBUExST0dfaFFnbl9lal91RGk4SEtLVHpTZkd6WElvRWlFbWZxTFR6SFQyemwwTWlXMGszU2lKYnZOR1pEdWtqUEQ2T05ZLVRKdElXcjQzMURkXzEyam9zZzZPdmhoQ0FOUV9taUpaV21BeC1MUQ?oc=5)
+
+2026-11-18
+
+Source: [NDTV](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemhFTXNWbmE1SHFmWm5sNDdEejVZM1V5Qi1aU19RTTV3OWxTUlEydDZZaVFhSF9vVUwyb3U1NjdTRFVMVEFQUDZ0TG41eVRTTzlWU2lBUExST0dfaFFnbl9lal91RGk4SEtLVHpTZkd6WElvRWlFbWZxTFR6SFQyemwwTWlXMGszU2lKYnZOR1pEdWtqUEQ2T05ZLVRKdElXcjQzMURkXzEyam9zZzZPdmhoQ0FOUV9taUpaV21BeC1MUQ?oc=5)
+
+---
 
 ### [President Droupadi Murmu calls for sustained research and public participation to eliminate malaria - News On AIR](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjlBYXh4MkpmUlNPV3R2ci1lV0xOdUpLX2piaXVrOWlIMHJTa1RSMG5NUkR4TUFLMmdZMjlCbnJleDY1ejJwM1RESWFfSC1JQXQxaVdpWmN0eFc2OGRpUElXTlcwSm5VRWcyU2kyR1hVb0Npc1kzQm1aOS1CM2RRQmNIdHdTMjhGMF94SWVrMDVYVk1VMTYxWEI4YmlMWWpmbTJjVmlvb3hYMEpBdVVlUDR6WGh2RUczWlE?oc=5)
 
