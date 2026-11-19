@@ -76,6 +76,7 @@
     "db00091": {
       "page": "cyclosporine",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -138,6 +139,9 @@
     "db00125": {
       "page": "arginine",
       "sources": [
+        "ARTxGNN",
+        "BrTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "UkTxGNN",
@@ -211,7 +215,9 @@
     "db00181": {
       "page": "baclofen",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN",
@@ -380,6 +386,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "ITTxGNN",
         "NlTxGNN",
         "SgTxGNN",
         "UkTxGNN"
@@ -426,6 +433,7 @@
     "db00459": {
       "page": "acitretin",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CaTxGNN",
         "DkTxGNN",
@@ -450,6 +458,7 @@
         "ESTxGNN",
         "HkTxGNN",
         "JpTxGNN",
+        "MyTxGNN",
         "SATxGNN",
         "SgTxGNN",
         "UsTxGNN",
@@ -467,7 +476,9 @@
     "db00572": {
       "page": "atropine",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "FITxGNN",
         "HkTxGNN",
@@ -525,6 +536,7 @@
       "sources": [
         "CaTxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "SgTxGNN",
         "ZaTxGNN"
       ]
@@ -746,7 +758,8 @@
       "page": "dobutamine",
       "sources": [
         "CaTxGNN",
-        "HkTxGNN"
+        "HkTxGNN",
+        "MyTxGNN"
       ]
     },
     "db00875": {
@@ -798,6 +811,7 @@
     "db00924": {
       "page": "cyclobenzaprine",
       "sources": [
+        "ARTxGNN",
         "CaTxGNN"
       ]
     },
@@ -821,6 +835,7 @@
         "CaTxGNN",
         "DETxGNN",
         "FITxGNN",
+        "MyTxGNN",
         "NOTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -861,6 +876,7 @@
       "page": "letrozole",
       "sources": [
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "SETxGNN",
@@ -906,6 +922,7 @@
     "db01060": {
       "page": "amoxicillin",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CHTxGNN",
         "COTxGNN",
@@ -955,6 +972,7 @@
       "page": "bicalutamide",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "NlTxGNN",
@@ -999,6 +1017,7 @@
       "page": "anastrozole",
       "sources": [
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "SETxGNN",
@@ -1017,8 +1036,10 @@
     "db01223": {
       "page": "aminophylline",
       "sources": [
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1099,6 +1120,7 @@
       "sources": [
         "CaTxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "UkTxGNN"
       ]
     },
@@ -1139,6 +1161,7 @@
     "db04339": {
       "page": "carbocisteine",
       "sources": [
+        "ARTxGNN",
         "HkTxGNN",
         "SgTxGNN",
         "UkTxGNN",
@@ -1194,6 +1217,7 @@
       "page": "indacaterol",
       "sources": [
         "AuTxGNN",
+        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "ZaTxGNN"
@@ -1406,6 +1430,7 @@
       "page": "amorolfine",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "HkTxGNN",
         "SgTxGNN",
         "UkTxGNN"
@@ -1428,6 +1453,7 @@
       "page": "palbociclib",
       "sources": [
         "AuTxGNN",
+        "BrTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN"
@@ -1446,9 +1472,11 @@
     "db09084": {
       "page": "benzydamine",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "MyTxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -1464,7 +1492,8 @@
     "db09090": {
       "page": "pinaverium",
       "sources": [
-        "CaTxGNN"
+        "CaTxGNN",
+        "MyTxGNN"
       ]
     },
     "db09107": {
@@ -1710,6 +1739,7 @@
     "db13919": {
       "page": "candesartan",
       "sources": [
+        "ARTxGNN",
         "AuTxGNN",
         "ZaTxGNN"
       ]
