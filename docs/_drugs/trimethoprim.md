@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 monitor_inn: "Trimethoprim"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
-description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). In India: 5 listed products (5 not discontinued)"
 ---
 
 # Trimethoprim

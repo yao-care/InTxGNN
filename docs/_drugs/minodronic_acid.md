@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-30
 monitor_inn: "Minodronic acid"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "severe nonproliferative diabetic retinopathy", "bone Paget disease", "fetal and neonatal alloimmune thrombocytopenia", "juvenile Paget disease"]
-description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Minodronic Acid: predicted new indication Pseudo-von Willebrand disease (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Minodronic Acid

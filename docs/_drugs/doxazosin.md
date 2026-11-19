@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-30
 monitor_inn: "Doxazosin"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
-description: "Doxazosin: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
+description: "Doxazosin: predicted new indication Migraine disorder (evidence level L4). In India: 8 listed products (8 not discontinued)"
 ---
 
 # Doxazosin

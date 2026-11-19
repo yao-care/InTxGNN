@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Clemastine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 last_modified_at: 2026-10-30
-description: "Clemastine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Clemastine: predicted new indication nasal cavity disease (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
 # Clemastine

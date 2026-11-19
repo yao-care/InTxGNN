@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-04
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Letrozole

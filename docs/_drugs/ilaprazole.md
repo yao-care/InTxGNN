@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "Ilaprazole"
 predicted_indications: ["gastroduodenitis"]
-description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L2). Approved use: Not recorded in the local data"
+description: "Ilaprazole: predicted new indication Gastroduodenitis (evidence level L2). In India: at least 20 listed products"
 ---
 
 # Ilaprazole

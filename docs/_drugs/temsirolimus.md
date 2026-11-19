@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-30
 monitor_inn: "Temsirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma"]
-description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Temsirolimus: predicted new indication Liposarcoma (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Temsirolimus

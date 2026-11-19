@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Calcium acetate"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
 last_modified_at: 2026-10-30
-description: "Calcium Acetate: predicted new indication calcium-alkali syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Calcium Acetate: predicted new indication calcium-alkali syndrome (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Calcium Acetate

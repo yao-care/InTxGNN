@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Saquinavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-description: "Saquinavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Saquinavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Saquinavir

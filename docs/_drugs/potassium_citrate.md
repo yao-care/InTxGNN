@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Potassium citrate"
 predicted_indications: ["familial visceral myopathy", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Pendred syndrome", "cystinosis", "autosomal recessive nonsyndromic deafness", "exocrine pancreatic insufficiency", "leukocyte adhesion deficiency", "adult Fanconi syndrome"]
 last_modified_at: 2026-11-03
-description: "Potassium Citrate: predicted new indication Familial visceral myopathy (evidence level L5). Approved use: Not recorded in the local data"
+description: "Potassium Citrate: predicted new indication Familial visceral myopathy (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Potassium Citrate

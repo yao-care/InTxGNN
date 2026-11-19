@@ -9,7 +9,7 @@ last_modified_at: 2026-11-03
 monitor_inn: "Oxyphenbutazone"
 drugbank_id: DB03585
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-description: "Oxyphenbutazone: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Oxyphenbutazone: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
 # Oxyphenbutazone

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
 last_modified_at: 2026-10-30
-description: "Aflibercept: predicted new indication esotropia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Aflibercept: predicted new indication esotropia (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Aflibercept

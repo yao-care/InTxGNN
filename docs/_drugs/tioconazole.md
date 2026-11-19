@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "Tioconazole"
 predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
-description: "Tioconazole: predicted new indication Vulvitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tioconazole: predicted new indication Vulvitis (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Tioconazole

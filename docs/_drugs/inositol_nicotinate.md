@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 monitor_inn: "Inositol nicotinate"
 predicted_indications: ["vitamin deficiency disorder", "biotin metabolic disease", "non-syndromic esophageal malformation", "iron deficiency anemia", "acute urate nephropathy", "esophageal disease", "hepatopulmonary syndrome", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension"]
-description: "Inositol Nicotinate: predicted new indication Vitamin deficiency disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Inositol Nicotinate: predicted new indication Vitamin deficiency disorder (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Inositol Nicotinate

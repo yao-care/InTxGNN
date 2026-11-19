@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-30
 monitor_inn: "Mepolizumab"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
-description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Not recorded in the local data"
+description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Mepolizumab

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
 last_modified_at: 2026-10-30
-description: "Cetirizine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cetirizine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Cetirizine

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 monitor_inn: "Ferrous fumarate"
 predicted_indications: ["non-syndromic esophageal malformation"]
-description: "Ferrous Fumarate: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ferrous Fumarate: predicted new indication Non-syndromic esophageal malformation (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Ferrous Fumarate

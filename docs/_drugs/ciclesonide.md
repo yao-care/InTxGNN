@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Ciclesonide"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
 last_modified_at: 2026-10-30
-description: "Ciclesonide: predicted new indication atopic eczema (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ciclesonide: predicted new indication atopic eczema (evidence level L5). In India: 19 listed products (19 not discontinued)"
 ---
 
 # Ciclesonide

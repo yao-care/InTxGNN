@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Altretamine"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
 last_modified_at: 2026-10-30
-description: "Altretamine: predicted new indication female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Altretamine: predicted new indication female breast carcinoma (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Altretamine

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-30
 monitor_inn: "Parnaparin"
 predicted_indications: ["breast fibrocystic disease", "thrombophilia due to protein C deficiency, autosomal recessive", "benign mammary dysplasia"]
-description: "Parnaparin: predicted new indication Breast fibrocystic disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Parnaparin: predicted new indication Breast fibrocystic disease (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Parnaparin

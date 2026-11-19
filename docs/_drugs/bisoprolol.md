@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-31
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-description: "Bisoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Bisoprolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Bisoprolol

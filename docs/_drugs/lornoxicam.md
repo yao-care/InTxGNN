@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
 last_modified_at: 2026-11-04
-description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Lornoxicam: predicted new indication Migraine disorder (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Lornoxicam

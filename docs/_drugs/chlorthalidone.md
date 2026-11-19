@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Chlorthalidone"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
-description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Chlorthalidone

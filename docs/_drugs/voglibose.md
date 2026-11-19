@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
-description: "Voglibose: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
+description: "Voglibose: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Voglibose

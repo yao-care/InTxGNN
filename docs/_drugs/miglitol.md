@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Miglitol"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 last_modified_at: 2026-10-30
-description: "Miglitol: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Miglitol: predicted new indication Focal stiff limb syndrome (evidence level L5). In India: 18 listed products (18 not discontinued)"
 ---
 
 # Miglitol

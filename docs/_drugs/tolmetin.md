@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-30
 monitor_inn: "Tolmetin"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
-description: "Tolmetin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tolmetin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Tolmetin

@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 last_modified_at: 2026-10-30
-description: "Anastrozole: predicted new indication neuroblastoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Anastrozole: predicted new indication neuroblastoma (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Anastrozole

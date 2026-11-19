@@ -9,7 +9,7 @@ last_modified_at: 2026-11-03
 monitor_inn: "Cyclandelate"
 drugbank_id: DB04838
 predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis"]
-description: "Cyclandelate: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cyclandelate: predicted new indication Prinzmetal angina (evidence level L5). In India: 9 listed products (9 not discontinued)"
 ---
 
 # Cyclandelate

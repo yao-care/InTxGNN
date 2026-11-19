@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Cetilistat"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-description: "Cetilistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cetilistat: predicted new indication Hypervitaminosis (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
 # Cetilistat

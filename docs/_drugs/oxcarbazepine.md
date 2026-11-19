@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "Oxcarbazepine"
 predicted_indications: ["restless legs syndrome"]
-description: "Oxcarbazepine: predicted new indication Restless legs syndrome (evidence level L4). Approved use: Not recorded in the local data"
+description: "Oxcarbazepine: predicted new indication Restless legs syndrome (evidence level L4). In India: at least 20 listed products"
 ---
 
 # Oxcarbazepine

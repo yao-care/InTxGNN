@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Silver"
 predicted_indications: ["bone Paget disease"]
-description: "Silver: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Silver: predicted new indication Bone Paget disease (evidence level L5). In India: 9 listed products (9 not discontinued)"
 ---
 
 # Silver

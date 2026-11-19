@@ -9,7 +9,7 @@ last_modified_at: 2026-10-30
 monitor_inn: "Pancuronium"
 drugbank_id: DB01337
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "obsolete neurogenic bladder (disease)", "neurocirculatory asthenia", "migraine disorder", "migraine with brainstem aura", "familial mitral valve prolapse", "mitral valve prolapse (disease)", "autonomic nervous system disease", "MVP1"]
-description: "Pancuronium: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Pancuronium: predicted new indication Cauda equina syndrome (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 
 # Pancuronium

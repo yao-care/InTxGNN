@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
 last_modified_at: 2026-10-30
-description: "Cabozantinib: predicted new indication liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cabozantinib: predicted new indication liposarcoma (evidence level L5). In India: 8 listed products (8 not discontinued)"
 ---
 
 # Cabozantinib

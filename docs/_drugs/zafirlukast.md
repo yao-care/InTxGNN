@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "Zafirlukast"
 predicted_indications: ["bronchitis"]
-description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Zafirlukast

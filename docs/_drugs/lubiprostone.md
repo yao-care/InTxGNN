@@ -9,7 +9,7 @@ last_modified_at: 2026-10-30
 monitor_inn: "Lubiprostone"
 drugbank_id: DB01046
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "pulmonary hypertension", "kyphoscoliotic heart disease", "Raynaud disease", "pulmonary hypertension, primary, autosomal recessive", "phaeochromocytoma", "peripheral vascular disease"]
-description: "Lubiprostone: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Lubiprostone: predicted new indication Alopecia (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Lubiprostone

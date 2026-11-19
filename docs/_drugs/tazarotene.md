@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "Tazarotene"
 predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
-description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Tazarotene: predicted new indication Seborrheic dermatitis (evidence level L5). In India: 12 listed products (12 not discontinued)"
 ---
 
 # Tazarotene

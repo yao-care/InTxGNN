@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Benazepril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-10-30
-description: "Benazepril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Benazepril: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Benazepril

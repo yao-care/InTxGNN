@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Fenfluramine"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
-description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Fenfluramine

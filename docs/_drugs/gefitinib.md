@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
-description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
+description: "Gefitinib: predicted new indication Fibromatosis, gingival (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Gefitinib

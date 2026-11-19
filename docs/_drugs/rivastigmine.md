@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
-description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Rivastigmine

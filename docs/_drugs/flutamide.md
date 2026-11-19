@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-30
 monitor_inn: "Flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
-description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
+description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). In India: 7 listed products (7 not discontinued)"
 ---
 
 # Flutamide

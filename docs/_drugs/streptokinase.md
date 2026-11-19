@@ -9,7 +9,7 @@ last_modified_at: 2026-10-31
 monitor_inn: "Streptokinase"
 drugbank_id: DB00086
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
-description: "Streptokinase: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
+description: "Streptokinase: predicted new indication Prinzmetal angina (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Streptokinase

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
-description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Moxifloxacin

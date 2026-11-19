@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 last_modified_at: 2026-10-30
-description: "Citric Acid: predicted new indication stomach disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Citric Acid: predicted new indication stomach disease (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Citric Acid

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "Hydroxyzine"
 predicted_indications: ["rosacea conjunctivitis"]
-description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Hydroxyzine

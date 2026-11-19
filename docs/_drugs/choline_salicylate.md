@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Choline salicylate"
 predicted_indications: ["Prinzmetal angina", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
-description: "Choline Salicylate: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
+description: "Choline Salicylate: predicted new indication Prinzmetal angina (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Choline Salicylate

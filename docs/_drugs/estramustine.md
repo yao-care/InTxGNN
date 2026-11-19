@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-30
 monitor_inn: "Estramustine"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "female breast carcinoma", "HIV infectious disease", "breast fibrocystic disease"]
-description: "Estramustine: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
+description: "Estramustine: predicted new indication Fibroma of prostate (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Estramustine

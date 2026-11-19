@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
 last_modified_at: 2026-10-30
-description: "Conjugated Estrogens: predicted new indication migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Conjugated Estrogens: predicted new indication migraine disorder (evidence level L5). In India: 8 listed products (8 not discontinued)"
 ---
 
 # Conjugated Estrogens

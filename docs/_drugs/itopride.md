@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-31
 monitor_inn: "Itopride"
 predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
-description: "Itopride: predicted new indication Small bowel Crohn disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Itopride: predicted new indication Small bowel Crohn disease (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Itopride

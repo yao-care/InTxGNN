@@ -9,7 +9,7 @@ last_modified_at: 2026-10-30
 monitor_inn: "Lobeglitazone"
 drugbank_id: DB09198
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia"]
-description: "Lobeglitazone: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Lobeglitazone: predicted new indication Focal stiff limb syndrome (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Lobeglitazone

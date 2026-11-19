@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-30
 monitor_inn: "Nitric Oxide"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
-description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Not recorded in the local data"
+description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Nitric Oxide

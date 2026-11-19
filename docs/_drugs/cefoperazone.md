@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
-description: "Cefoperazone: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cefoperazone: predicted new indication Sclerosing cholangitis (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Cefoperazone

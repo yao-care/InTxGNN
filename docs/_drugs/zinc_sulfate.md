@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-04
 monitor_inn: "Zinc sulfate"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "congenital prothrombin deficiency"]
-description: "Zinc Sulfate: predicted new indication Pharyngitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Zinc Sulfate: predicted new indication Pharyngitis (evidence level L5). In India: 5 listed products (5 not discontinued)"
 ---
 
 # Zinc Sulfate

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Butenafine"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
 last_modified_at: 2026-10-30
-description: "Butenafine: predicted new indication endothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Butenafine: predicted new indication endothrix infectious disease (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Butenafine

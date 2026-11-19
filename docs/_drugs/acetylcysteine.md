@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
 last_modified_at: 2026-11-04
-description: "Acetylcysteine: predicted new indication Thrombotic disease (evidence level L2). Approved use: Not recorded in the local data"
+description: "Acetylcysteine: predicted new indication Thrombotic disease (evidence level L2). In India: at least 20 listed products"
 ---
 
 # Acetylcysteine

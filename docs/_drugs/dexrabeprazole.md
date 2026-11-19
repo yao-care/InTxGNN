@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Dexrabeprazole"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis"]
 last_modified_at: 2026-10-30
-description: "Dexrabeprazole: predicted new indication duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dexrabeprazole: predicted new indication duodenal obstruction (evidence level L5). In India: 17 listed products (17 not discontinued)"
 ---
 
 # Dexrabeprazole

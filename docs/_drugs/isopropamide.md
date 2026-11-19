@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Isopropamide"
 predicted_indications: ["gastroduodenitis", "overactive bladder (disease)"]
-description: "Isopropamide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Isopropamide: predicted new indication Gastroduodenitis (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
 # Isopropamide

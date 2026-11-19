@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
-description: "Oxazepam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
+description: "Oxazepam: predicted new indication Insomnia (disease) (evidence level L3). In India: 15 listed products (15 not discontinued)"
 ---
 
 # Oxazepam

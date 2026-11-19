@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Cimetidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 last_modified_at: 2026-10-30
-description: "Cimetidine: predicted new indication peptic ulcer perforation (evidence level L5). Approved use: Not recorded in the local data"
+description: "Cimetidine: predicted new indication peptic ulcer perforation (evidence level L5). In India: 8 listed products (8 not discontinued)"
 ---
 
 # Cimetidine

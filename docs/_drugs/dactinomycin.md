@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Dactinomycin"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
 last_modified_at: 2026-10-30
-description: "Dactinomycin: predicted new indication relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dactinomycin: predicted new indication relapsing-remitting multiple sclerosis (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
 # Dactinomycin

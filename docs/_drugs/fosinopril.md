@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Fosinopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
-description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Fosinopril

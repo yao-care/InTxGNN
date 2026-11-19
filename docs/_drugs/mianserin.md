@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Mianserin"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "neurotic disorder"]
-description: "Mianserin: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
+description: "Mianserin: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Mianserin

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). In India: 7 listed products (7 not discontinued)"
 ---
 
 # Hyaluronidase

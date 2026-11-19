@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "Ketoconazole"
 predicted_indications: ["acne (disease)"]
-description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
+description: "Ketoconazole: predicted new indication Acne (disease) (evidence level L4). In India: at least 20 listed products"
 ---
 
 # Ketoconazole

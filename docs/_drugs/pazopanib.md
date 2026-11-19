@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-30
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
-description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). Approved use: Not recorded in the local data"
+description: "Pazopanib: predicted new indication Liposarcoma (evidence level L3). In India: 7 listed products (7 not discontinued)"
 ---
 
 # Pazopanib

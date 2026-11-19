@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 monitor_inn: "Zinc gluconate"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
-description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Not recorded in the local data"
+description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). In India: 9 listed products (9 not discontinued)"
 ---
 
 # Zinc Gluconate

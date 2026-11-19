@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Orciprenaline"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "bronchial neoplasm (disease)", "food-dependent exercise-induced anaphylaxis", "anaphylaxis", "hyperlucent lung"]
-description: "Orciprenaline: predicted new indication Respiratory malformation (evidence level L5). Approved use: Not recorded in the local data"
+description: "Orciprenaline: predicted new indication Respiratory malformation (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Orciprenaline

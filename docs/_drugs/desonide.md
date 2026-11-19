@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
 last_modified_at: 2026-10-30
-description: "Desonide: predicted new indication polyp of vocal cord (evidence level L5). Approved use: Not recorded in the local data"
+description: "Desonide: predicted new indication polyp of vocal cord (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Desonide

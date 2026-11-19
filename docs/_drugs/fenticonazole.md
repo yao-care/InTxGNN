@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "Fenticonazole"
 predicted_indications: ["trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "vulvitis", "herpetic vulvovaginitis"]
-description: "Fenticonazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Fenticonazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Fenticonazole

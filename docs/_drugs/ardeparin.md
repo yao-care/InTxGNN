@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Ardeparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful", "thrombotic thrombocytopenic purpura"]
 last_modified_at: 2026-10-30
-description: "Ardeparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ardeparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Ardeparin

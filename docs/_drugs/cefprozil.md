@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Cefprozil"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
 last_modified_at: 2026-10-30
-description: "Cefprozil: predicted new indication urinary tract infection (disease) (evidence level L2). Approved use: Not recorded in the local data"
+description: "Cefprozil: predicted new indication urinary tract infection (disease) (evidence level L2). In India: 12 listed products (12 not discontinued)"
 ---
 
 # Cefprozil

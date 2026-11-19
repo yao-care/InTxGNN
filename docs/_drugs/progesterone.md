@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Progesterone: predicted new indication Breast fibrocystic disease (evidence level L4). Approved use: Not recorded in the local data"
+description: "Progesterone: predicted new indication Breast fibrocystic disease (evidence level L4). In India: at least 20 listed products"
 ---
 
 # Progesterone

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Palonosetron"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
+description: "Palonosetron: predicted new indication Migraine disorder (evidence level L4). In India: 12 listed products (12 not discontinued)"
 ---
 
 # Palonosetron

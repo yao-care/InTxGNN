@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "Carbenicillin"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "urogenital tuberculosis", "epiglottitis", "laryngitis"]
 last_modified_at: 2026-10-30
-description: "Carbenicillin: predicted new indication Ureaplasma urethritis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Carbenicillin: predicted new indication Ureaplasma urethritis (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Carbenicillin

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-31
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Not recorded in the local data"
+description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). In India: at least 20 listed products"
 ---
 
 # Lenalidomide

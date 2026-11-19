@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-30
 monitor_inn: "Homatropine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "overactive bladder (disease)"]
-description: "Homatropine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Homatropine: predicted new indication Cauda equina syndrome (evidence level L5). In India: 12 listed products (12 not discontinued)"
 ---
 
 # Homatropine

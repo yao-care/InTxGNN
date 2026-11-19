@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-30
 monitor_inn: "Eflornithine"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
-description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Not recorded in the local data"
+description: "Eflornithine: predicted new indication Esotropia (evidence level L5). In India: 5 listed products (5 not discontinued)"
 ---
 
 # Eflornithine

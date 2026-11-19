@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Doxylamine"
 predicted_indications: ["nasal cavity disease"]
 last_modified_at: 2026-10-30
-description: "Doxylamine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Doxylamine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Doxylamine

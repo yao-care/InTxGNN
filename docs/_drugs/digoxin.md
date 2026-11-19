@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Digoxin"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
 last_modified_at: 2026-10-30
-description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
+description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). In India: 19 listed products (19 not discontinued)"
 ---
 
 # Digoxin

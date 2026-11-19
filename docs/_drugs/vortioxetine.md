@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-31
 monitor_inn: "Vortioxetine"
 predicted_indications: ["neurotic disorder", "benign paroxysmal torticollis of infancy"]
-description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). Approved use: Not recorded in the local data"
+description: "Vortioxetine: predicted new indication Neurotic disorder (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Vortioxetine

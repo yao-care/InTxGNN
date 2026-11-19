@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-30
 monitor_inn: "Felbinac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "combined immunodeficiency due to moesin deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis"]
-description: "Felbinac: predicted new indication Brachyolmia-amelogenesis imperfecta syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Felbinac: predicted new indication Brachyolmia-amelogenesis imperfecta syndrome (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Felbinac

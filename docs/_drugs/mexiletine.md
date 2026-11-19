@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 monitor_inn: "Mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
-description: "Mexiletine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
+description: "Mexiletine: predicted new indication Hypertrichosis (disease) (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
 # Mexiletine

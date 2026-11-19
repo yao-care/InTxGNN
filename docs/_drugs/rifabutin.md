@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "Rifabutin"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
-description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Rifabutin

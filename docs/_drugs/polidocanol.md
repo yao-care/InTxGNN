@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 monitor_inn: "Polidocanol"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
-description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). Approved use: Not recorded in the local data"
+description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). In India: 2 listed products (2 not discontinued)"
 ---
 
 # Polidocanol

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-30
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). Approved use: Not recorded in the local data"
+description: "Pertuzumab: predicted new indication Ectomesenchymoma (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 
 # Pertuzumab

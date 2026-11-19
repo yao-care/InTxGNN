@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Dexibuprofen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
 last_modified_at: 2026-10-30
-description: "Dexibuprofen: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Dexibuprofen: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). In India: 5 listed products (5 not discontinued)"
 ---
 
 # Dexibuprofen

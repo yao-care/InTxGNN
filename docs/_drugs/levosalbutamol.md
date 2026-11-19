@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Levosalbutamol"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "bronchitis", "anorectal stricture", "proctitis", "anal polyp", "tracheal disease", "allergic urticaria"]
-description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
+description: "Levosalbutamol: predicted new indication Nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 
 # Levosalbutamol

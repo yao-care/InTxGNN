@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Ziprasidone"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
-description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). Approved use: Not recorded in the local data"
+description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). In India: 14 listed products (14 not discontinued)"
 ---
 
 # Ziprasidone

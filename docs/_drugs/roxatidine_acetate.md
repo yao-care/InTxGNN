@@ -9,7 +9,7 @@ last_modified_at: 2026-10-30
 monitor_inn: "Roxatidine acetate"
 drugbank_id: DB08806
 predicted_indications: ["peptic ulcer perforation", "gastroduodenitis", "duodenal obstruction"]
-description: "Roxatidine Acetate: predicted new indication Peptic ulcer perforation (evidence level L5). Approved use: Not recorded in the local data"
+description: "Roxatidine Acetate: predicted new indication Peptic ulcer perforation (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 
 # Roxatidine Acetate

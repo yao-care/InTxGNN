@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 monitor_inn: "Sulbactam"
 predicted_indications: ["bacterial arthritis"]
-description: "Sulbactam: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
+description: "Sulbactam: predicted new indication Bacterial arthritis (evidence level L5). In India: 10 listed products (10 not discontinued)"
 ---
 
 # Sulbactam

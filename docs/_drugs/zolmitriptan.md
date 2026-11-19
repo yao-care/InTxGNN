@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-30
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
+description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 
 # Zolmitriptan

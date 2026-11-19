@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Magnesium citrate"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
-description: "Magnesium Citrate: predicted new indication Calcium-alkali syndrome (evidence level L5). Approved use: Not recorded in the local data"
+description: "Magnesium Citrate: predicted new indication Calcium-alkali syndrome (evidence level L5). In India: 12 listed products (12 not discontinued)"
 ---
 
 # Magnesium Citrate
