@@ -8,6 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 description: "Amifostine: predicted new indication Hypertensive disorder (evidence level L4). Approved use: Not stated in the available licence records (the drug is known as a c…"
 monitor_inn: "Amifostine"
+drugbank_id: DB01143
 predicted_indications: ["hypertensive disorder", "alopecia", "congenital hypotrichosis milia", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata"]
 ---
 

@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 description: "Mosapride: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence records. Pharmacology data describe use for…"
 monitor_inn: "Mosapride"
+drugbank_id: DB11675
 predicted_indications: ["insomnia (disease)"]
 ---
 

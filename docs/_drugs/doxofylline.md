@@ -8,6 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-31
 description: "Doxofylline: predicted new indication Pierre Robin syndrome associated with a chromosomal anomaly (evidence level L5). Approved use: Not stated in the India licence records. Published literature desc…"
 monitor_inn: "Doxofylline"
+drugbank_id: DB09273
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
 ---
 

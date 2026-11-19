@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 description: "Camylofin: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the licence data (the drug is generally known as an ant…"
 monitor_inn: "Camylofin"
+drugbank_id: DB13738
 predicted_indications: ["insomnia (disease)"]
 ---
 

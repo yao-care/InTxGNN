@@ -8,6 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 description: "Pefloxacin: predicted new indication Heart conduction disease (evidence level L5). Approved use: Not stated in the licence data (fluoroquinolone antibacterial)"
 monitor_inn: "Pefloxacin"
+drugbank_id: DB00487
 predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "myocardial rupture", "carcinoid heart disease", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome", "cor biloculare"]
 ---
 

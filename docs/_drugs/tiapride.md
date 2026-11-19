@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 description: "Tiapride: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the approved-indication text of the Indian licences"
 monitor_inn: "Tiapride"
+drugbank_id: DB13025
 predicted_indications: ["migraine disorder"]
 ---
 

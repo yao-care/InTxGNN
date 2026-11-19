@@ -140,7 +140,6 @@
       "page": "arginine",
       "sources": [
         "ARTxGNN",
-        "BrTxGNN",
         "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
@@ -217,7 +216,6 @@
       "sources": [
         "ARTxGNN",
         "AuTxGNN",
-        "COTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN",
@@ -458,7 +456,6 @@
         "ESTxGNN",
         "HkTxGNN",
         "JpTxGNN",
-        "MyTxGNN",
         "SATxGNN",
         "SgTxGNN",
         "UsTxGNN",
@@ -835,7 +832,6 @@
         "CaTxGNN",
         "DETxGNN",
         "FITxGNN",
-        "MyTxGNN",
         "NOTxGNN",
         "SATxGNN",
         "SgTxGNN",
@@ -1217,7 +1213,6 @@
       "page": "indacaterol",
       "sources": [
         "AuTxGNN",
-        "COTxGNN",
         "CaTxGNN",
         "HkTxGNN",
         "ZaTxGNN"

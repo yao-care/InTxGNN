@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 description: "Invert Sugar: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not available"
 monitor_inn: "Invert sugar"
+drugbank_id: DB09344
 predicted_indications: ["sclerosing cholangitis"]
 ---
 

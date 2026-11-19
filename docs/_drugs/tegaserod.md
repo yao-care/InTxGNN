@@ -8,6 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-30
 description: "Tegaserod: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the registration data"
 monitor_inn: "Tegaserod"
+drugbank_id: DB01079
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 

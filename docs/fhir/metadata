@@ -6,9 +6,9 @@
   "name": "InTxGNNFHIRServer",
   "title": "InTxGNN FHIR Server - Drug Repurposing Predictions for India",
   "status": "active",
-  "date": "2026-11-15",
+  "date": "2026-11-19",
   "publisher": "InTxGNN Project",
-  "description": "India CDSCO Drug Repurposing Prediction System - FHIR API. Contains 839 drugs and 4615 predicted indications.",
+  "description": "India CDSCO Drug Repurposing Prediction System - FHIR API. Contains 880 drugs and 4834 predicted indications.",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
@@ -43,15 +43,15 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 839
+          "valueInteger": 880
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 4615
+          "valueInteger": 4834
         },
         {
           "url": "countedAt",
-          "valueDate": "2026-11-15"
+          "valueDate": "2026-11-19"
         }
       ]
     }

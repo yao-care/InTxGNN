@@ -7,6 +7,7 @@ evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-10-30
 monitor_inn: "Metamizole"
+drugbank_id: DB04817
 predicted_indications: ["rheumatoid arthritis", "migraine disorder", "exostosis", "migraine with brainstem aura", "gout", "antithrombin deficiency type 2", "brachydactyly-syndactyly syndrome", "tendinitis", "factor 5 excess with spontaneous thrombosis"]
 description: "Metamizole: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not recorded in the local data"
 ---

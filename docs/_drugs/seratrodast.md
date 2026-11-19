@@ -6,6 +6,7 @@ nav_order: 768
 evidence_level: L5
 indication_count: 9
 monitor_inn: "Seratrodast"
+drugbank_id: DB06739
 predicted_indications: ["migraine disorder", "pulmonary hypertension", "rheumatoid arthritis", "migraine with brainstem aura", "kyphoscoliotic heart disease", "brachydactyly-syndactyly syndrome", "leprosy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-30
 description: "Seratrodast: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"

@@ -8,6 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-30
 description: "Enclomiphene: predicted new indication Acute intermittent porphyria (evidence level L5). Approved use: Not stated in the compiled licence data"
 monitor_inn: "Enclomiphene"
+drugbank_id: DB06735
 predicted_indications: ["acute intermittent porphyria", "psychogenic movement disorders", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "carbamoyl phosphate synthetase I deficiency disease"]
 ---
 

@@ -6,6 +6,7 @@ nav_order: 55
 evidence_level: L5
 indication_count: 5
 monitor_inn: "Amodiaquine"
+drugbank_id: DB00613
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 last_modified_at: 2026-10-30
 description: "Amodiaquine: predicted new indication pulmonary hypertension (evidence level L5). Approved use: Not recorded in the local data"

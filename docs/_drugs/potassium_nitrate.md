@@ -8,6 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-31
 description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not recorded"
 monitor_inn: "Potassium nitrate"
+drugbank_id: DB11090
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
 ---
 

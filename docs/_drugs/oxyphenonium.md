@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 description: "Oxyphenonium: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Gastric and duodenal ulcer"
 monitor_inn: "Oxyphenonium"
+drugbank_id: DB00219
 predicted_indications: ["irritable bowel syndrome"]
 ---
 

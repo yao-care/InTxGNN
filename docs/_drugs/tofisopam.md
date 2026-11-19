@@ -8,6 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-30
 description: "Tofisopam: predicted new indication insomnia (evidence level L5). Approved use: Not recorded in the compiled data"
 monitor_inn: "Tofisopam"
+drugbank_id: DB08811
 predicted_indications: ["insomnia (disease)"]
 ---
 

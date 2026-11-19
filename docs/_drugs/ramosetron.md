@@ -8,6 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-30
 description: "Ramosetron: predicted new indication Insomnia (evidence level L5). Approved use: Not listed in the Indian license records compiled for this report"
 monitor_inn: "Ramosetron"
+drugbank_id: DB09290
 predicted_indications: ["insomnia (disease)", "migraine disorder"]
 ---
 
