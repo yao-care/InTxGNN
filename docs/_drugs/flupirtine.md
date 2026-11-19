@@ -3,7 +3,7 @@ layout: default
 title: Flupirtine
 parent: Known Uses Only (No New Predictions)
 nav_order: 370
-last_modified_at: 2026-11-03
+last_modified_at: 2026-10-30
 description: "Flupirtine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0

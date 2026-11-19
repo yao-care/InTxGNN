@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 791
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-10-31
 monitor_inn: "Streptokinase"
 drugbank_id: DB00086
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]

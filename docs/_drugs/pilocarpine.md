@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 670
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-10-30
 description: "Pilocarpine: known uses and market status in India; currently no new candidate indication"
 predicted_indications: []
 ---
