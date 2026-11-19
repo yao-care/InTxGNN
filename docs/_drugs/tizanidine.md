@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 841
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L2). In India: 15 listed products (15 not discontinued)"

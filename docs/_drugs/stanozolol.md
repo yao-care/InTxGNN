@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Stanozolol"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "fetal erythroblastosis", "Peyronie disease", "renal tubular acidosis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "complement component C1s deficiency", "focal myositis", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Stanozolol: predicted new indication Serpinopathy with toxic serpin polymerization (evidence level L5). In India: 10 listed products (10 not discontinued)"
 ---
 

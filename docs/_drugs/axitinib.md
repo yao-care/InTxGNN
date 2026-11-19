@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Axitinib: predicted new indication liposarcoma (evidence level L5). In India: 14 listed products (14 not discontinued)"
 ---
 

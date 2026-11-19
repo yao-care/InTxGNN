@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 498
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Lomustine"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer"]
 description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L4). In India: 4 listed products (4 not discontinued)"

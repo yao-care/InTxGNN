@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Docusate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Docusate: predicted new indication Plummer-Vinson syndrome (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 

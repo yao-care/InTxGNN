@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Dicyclomine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Dicyclomine: predicted new indication cauda equina syndrome (evidence level L5). In India: at least 20 listed products"
 ---
 

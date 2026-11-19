@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 795
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Sulbactam"
 predicted_indications: ["bacterial arthritis"]
 description: "Sulbactam: predicted new indication Bacterial arthritis (evidence level L5). In India: 10 listed products (10 not discontinued)"

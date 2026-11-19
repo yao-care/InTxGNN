@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 838
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Tioconazole"
 predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
 description: "Tioconazole: predicted new indication Vulvitis (evidence level L5). In India: 1 listed product (1 not discontinued)"

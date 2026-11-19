@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Arformoterol"
 predicted_indications: ["hyperlucent lung", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "tracheal calcification"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Arformoterol: predicted new indication hyperlucent lung (evidence level L5). In India: 1 listed product (1 not discontinued)"
 ---
 

@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 592
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Niclosamide: predicted new indication Heart disease (evidence level L4). Approved use: Not stated in the India license data (the drug is generally known as…"
 monitor_inn: "Niclosamide"
 drugbank_id: DB06803

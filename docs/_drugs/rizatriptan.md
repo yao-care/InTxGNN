@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 749
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 monitor_inn: "Rizatriptan"
 predicted_indications: ["atrophoderma vermiculata"]
 description: "Rizatriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). In India: at least 20 listed products"

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Flucytosine: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not available"
 monitor_inn: "Flucytosine"
 drugbank_id: DB01099

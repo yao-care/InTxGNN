@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Seratrodast"
 drugbank_id: DB06739
 predicted_indications: ["migraine disorder", "pulmonary hypertension", "rheumatoid arthritis", "migraine with brainstem aura", "kyphoscoliotic heart disease", "brachydactyly-syndactyly syndrome", "leprosy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Seratrodast: predicted new indication Migraine disorder (evidence level L5). In India: 3 listed products (3 not discontinued)"
 ---
 

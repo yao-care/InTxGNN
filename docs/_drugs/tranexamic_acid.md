@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 854
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Tranexamic Acid: predicted new indication amenorrhea (evidence level L5)."
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]

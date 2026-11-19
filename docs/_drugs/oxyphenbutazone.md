@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 632
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Oxyphenbutazone"
 drugbank_id: DB03585
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome"]

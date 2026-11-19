@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 901
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Zafirlukast"
 predicted_indications: ["bronchitis"]
 description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). In India: 1 listed product (1 not discontinued)"

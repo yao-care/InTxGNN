@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 627
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Oxazepam"
 predicted_indications: ["insomnia (disease)"]
 description: "Oxazepam: predicted new indication Insomnia (disease) (evidence level L3). In India: 15 listed products (15 not discontinued)"

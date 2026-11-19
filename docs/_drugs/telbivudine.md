@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 811
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Telbivudine"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
 description: "Telbivudine: predicted new indication Chronic hepatitis C virus infection (evidence level L5). In India: 2 listed products (2 not discontinued)"

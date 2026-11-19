@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 47
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Amifostine: predicted new indication Hypertensive disorder (evidence level L4). Approved use: Not stated in the available licence records (the drug is known as a c…"
 monitor_inn: "Amifostine"
 drugbank_id: DB01143

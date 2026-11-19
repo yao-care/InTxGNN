@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Dexlansoprazole"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Dexlansoprazole: predicted new indication gastroduodenitis (evidence level L5). In India: 11 listed products (11 not discontinued)"
 ---
 

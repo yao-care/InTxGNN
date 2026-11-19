@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Ferric carboxymaltose"
 predicted_indications: ["bronchitis"]
 description: "Ferric Carboxymaltose: predicted new indication Bronchitis (evidence level L5). In India: 14 listed products (14 not discontinued)"

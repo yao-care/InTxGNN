@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 509
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Luliconazole"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
 description: "Luliconazole: predicted new indication Endothrix infectious disease (evidence level L5). In India: at least 20 listed products"

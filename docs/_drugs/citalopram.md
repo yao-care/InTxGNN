@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 187
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Citalopram"
 predicted_indications: ["obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder"]
 description: "Citalopram: predicted new indication Obsessive-compulsive disorder (evidence level L2). In India: at least 20 listed products"

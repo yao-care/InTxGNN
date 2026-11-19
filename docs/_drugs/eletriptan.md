@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Eletriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "sciatic neuropathy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Eletriptan: predicted new indication atrophoderma vermiculata (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 

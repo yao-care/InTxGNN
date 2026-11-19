@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Desloratadine: predicted new indication nasal cavity disease (evidence level L5). In India: at least 20 listed products"
 ---
 

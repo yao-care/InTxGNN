@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 720
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 description: "Raloxifene: predicted new indication Duodenal ulcer (disease) (evidence level L5). In India: 14 listed products (14 not discontinued)"

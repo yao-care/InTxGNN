@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Almotriptan: predicted new indication atrophoderma vermiculata (evidence level L5). In India: 6 listed products (6 not discontinued)"
 ---
 

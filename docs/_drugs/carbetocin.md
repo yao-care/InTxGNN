@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Carbetocin"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Carbetocin: predicted new indication isotretinoin-like syndrome (evidence level L5). In India: 4 listed products (4 not discontinued)"
 ---
 

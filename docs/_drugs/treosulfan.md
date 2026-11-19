@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 859
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Treosulfan"
 predicted_indications: ["diabetic cataract"]
 description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). In India: 1 listed product (1 not discontinued)"
