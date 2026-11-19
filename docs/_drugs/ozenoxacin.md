@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **malaria**, but this is a mode
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ozenoxacin is a topical quinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in acne is attributed to this antibacterial activity.
+ChEMBL (EMBL-EBI) records the mechanism of action of ozenoxacin as: DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor ([ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, ozenoxacin is a topical quinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in acne is attributed to this antibacterial activity.
 
 The plausible link to malaria is theoretical. The *Plasmodium* apicoplast contains a gyrase-like target, which gives a conceptual basis for quinolone activity against the parasite. However, ozenoxacin is formulated only for topical use, with minimal systemic exposure. Malaria is a bloodborne infection, so a cream is unlikely to reach therapeutic concentrations at the site of disease.
 
@@ -100,6 +100,19 @@ The prediction rests on model score alone (Evidence Level L5), with no clinical 
 - In vitro data on ozenoxacin activity against *Plasmodium*
 - Evidence that adequate systemic exposure is achievable, or a different formulation, since only topical creams are currently marketed
 - Reassessment of more plausible topical indications, such as demodicidosis of the sebaceous gland, if further evidence emerges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

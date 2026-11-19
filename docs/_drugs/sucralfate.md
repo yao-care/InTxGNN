@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **duodenogastric reflux** (bile
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, sucralfate forms a protective, adherent barrier over damaged gastric mucosa and binds bile acids and pepsin. This mechanism underlies its established use in duodenal ulcer.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for sucralfate: "Although the mechanism of sucralfate's ability to accelerate healing of duodenal ulcers remains to be fully defined, it is known that it exerts its effect through a local, rather than systemic, action. The following observations also appear pertinent: 1." ([DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9), label version 2026-01-06; accessed 2026-11-19.) Based on general pharmacological knowledge, sucralfate forms a protective, adherent barrier over damaged gastric mucosa and binds bile acids and pepsin. This mechanism underlies its established use in duodenal ulcer.
 
 Duodenogastric reflux injures the stomach lining through bile and other duodenal contents flowing backward. Binding bile acids and shielding the mucosa could plausibly counter that injury. The literature includes randomized trials in symptomatic alkaline reflux gastritis, including post-cholecystectomy gastritis, and a case series of 50 patients with post-surgical biliary reflux gastritis.
 
@@ -147,6 +147,19 @@ Two randomized trials and a case series support sucralfate in alkaline reflux ga
 ## Note on the Second Predicted Indication
 
 The second predicted indication, **duodenal obstruction** (TxGNN score 0.9930), has no credible mechanistic link or supporting studies. Sucralfate is a mucosal protectant and does not relieve mechanical obstruction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The evidence level is L5 and the recommendation is **Hold**.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

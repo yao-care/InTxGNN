@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Chlorpromazine is a phenothiazine antipsychotic, generally understood to act mainly through dopamine D2 receptor antagonism. Its efficacy in psychotic disorders is well established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for chlorpromazine: "The precise mechanism whereby the therapeutic effects of chlorpromazine are produced is not known. The principal pharmacological actions are psychotropic. It also exerts sedative and antiemetic activity. Chlorpromazine has actions at all levels of the central nervous system –primarily at subcortical levels – as well as on multiple organ systems." ([DailyMed: chlorpromazine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd02d051-2a34-4cd3-a137-b965c0381267), label version 2026-11-10; accessed 2026-11-19.) Chlorpromazine is a phenothiazine antipsychotic, generally understood to act mainly through dopamine D2 receptor antagonism. Its efficacy in psychotic disorders is well established.
 
 The prediction is **not well supported**. The only supporting record is a 1967 report of phototoxic reactions induced by high doses of chlorpromazine and thioridazine. That report documents drug-induced ocular toxicity, a safety concern, and not a therapeutic effect. No plausible mechanism has been identified by which chlorpromazine would treat inherited retinal degeneration. The high TxGNN score therefore appears to be a model artefact, and the available literature points to potential harm in retinal disease.
 
@@ -123,6 +123,19 @@ The prediction rests on a computational score alone, and the single supporting p
 - Detailed mechanism of action data, and a mechanistic rationale connecting chlorpromazine to retinal dystrophy pathology
 - Preclinical evidence (e.g., retinal degeneration models) showing benefit and not toxicity
 - A review of ocular and phototoxicity risk, since retinal toxicity is a known concern
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chlorpromazine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd02d051-2a34-4cd3-a137-b965c0381267) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

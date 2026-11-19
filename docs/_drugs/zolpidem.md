@@ -57,7 +57,7 @@ No clinical trials are registered for this prediction, but **20 publications** (
 
 ## Why is This Prediction Reasonable?
 
-Zolpidem is a positive allosteric modulator of the GABA-A receptor with preferential affinity for the alpha-1 subunit, which mediates sedative-hypnotic effects. Detailed mechanism-of-action data was not included in the data compiled for this report, but this mechanism is well established in the literature.
+Zolpidem is a positive allosteric modulator of the GABA-A receptor with preferential affinity for the alpha-1 subunit, which mediates sedative-hypnotic effects. According to the Mechanism of Action section of the US FDA-approved prescribing information for zolpidem: "Zolpidem is a GABA A receptor positive modulator presumed to exert its therapeutic effects in the short-term treatment of insomnia through binding to the benzodiazepine site of α1 subunit containing GABA A receptors, increasing the frequency of chloride channel opening resulting in the inhibition of neuronal excitation." ([DailyMed: Ambien (zolpidem tartrate) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=747949c5-2c91-4909-8a07-71b6826f8e97), label version 2025-02-07; accessed 2026-11-19.) This mechanism is well established in the literature.
 
 "Difficulty initiating and maintaining sleep" is essentially a synonym for insomnia, the drug's original indication. The prediction is therefore best read as a re-labeling of the approved use, not as true repurposing.
 
@@ -119,6 +119,19 @@ The first prediction is effectively the approved insomnia indication, supported 
 - Confirmation of approved indication wording on the Indian licences.
 - A decision on whether the first prediction is worth pursuing, since it adds no new indication.
 - Safety guardrails for older adults, patients with sleep apnea or liver disease, and those at risk of dependence, and attention to co-prescribed opioids.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data was not included in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ambien (zolpidem tartrate) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=747949c5-2c91-4909-8a07-71b6826f8e97) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

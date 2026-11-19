@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, insulin glargine is a long-acting insulin analogue used for basal glucose control, and its efficacy in diabetes is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin glargine: "The primary activity of insulin, including insulin glargine products, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810), label version 2026-10-15; accessed 2026-11-19.) Based on known information, insulin glargine is a long-acting insulin analogue used for basal glucose control, and its efficacy in diabetes is well established.
 
 The link to autoimmune oophoritis is most likely indirect. Autoimmune oophoritis often occurs together with autoimmune polyendocrine syndromes, which can include type 1 diabetes. The high score therefore probably reflects proximity in the disease network, not a therapeutic effect of insulin on ovarian autoimmunity. No evidence suggests insulin treats the ovarian condition itself.
 
@@ -106,6 +106,19 @@ The prediction for autoimmune oophoritis rests on a high model score alone, with
 - Package insert warnings and contraindications for a safety assessment
 - A clear separation of true repurposing from management of comorbid diabetes, for example in pancreatic agenesis, where insulin is already standard care for the resulting diabetes
 - Route and formulation compatibility assessment for the new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

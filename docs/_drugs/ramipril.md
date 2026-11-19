@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, ramipril is an ACE inhibitor: it lowers angiotensin II, which reduces vasoconstriction and may influence vascular remodeling. Its efficacy in systemic hypertension and cerebrovascular risk reduction is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ramipril: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), label version 2026-11-11; accessed 2026-11-19.) Based on general knowledge, ramipril is an ACE inhibitor: it lowers angiotensin II, which reduces vasoconstriction and may influence vascular remodeling. Its efficacy in systemic hypertension and cerebrovascular risk reduction is established.
 
 Pulmonary vascular tone and remodeling are also influenced by the renin-angiotensin system, so a mechanistic link is plausible. However, systemic hypertension does not establish efficacy in pulmonary hypertension, and no trial or publication was found for this exact predicted condition. The very high TxGNN score should be read as a network-based signal, not as evidence of efficacy.
 
@@ -114,6 +114,19 @@ The prediction rests on a model score alone, with no clinical trials or publicat
 - Most other top predictions are either close to existing indications (malignant renovascular hypertension, malignant hypertensive renal disease, brain stem infarction) or have no supporting data (Braddock syndrome, ABri amyloidosis, Prinzmetal angina).
 - Intracerebral hemorrhage (L4) has only preclinical support, and safety in acute hemorrhage would need dedicated assessment.
 - Cerebral artery occlusion (L4, "Research Question") is the most developed lead, with one small clinical study of cerebral blood flow (PMID 8797135) plus animal data. The animal data are mixed, and candesartan outperformed ramipril in one study (PMID 18300867).
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

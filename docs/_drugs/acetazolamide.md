@@ -56,7 +56,7 @@ This is an early prediction from the TxGNN model (deep learning) and not a valid
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, acetazolamide inhibits carbonic anhydrase, which alters acid-base balance and fluid handling. In heart failure it is used as an adjunct diuretic to aid decongestion and to correct metabolic alkalosis.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for acetazolamide: "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic." ([DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b), label version 2026-11-10; accessed 2026-11-19.) Based on general knowledge, acetazolamide inhibits carbonic anhydrase, which alters acid-base balance and fluid handling. In heart failure it is used as an adjunct diuretic to aid decongestion and to correct metabolic alkalosis.
 
 The only link to hypertrophic cardiomyopathy is indirect, through the heart failure phenotype. It is not a disease-modifying effect on the cardiomyopathy itself. The retrieved publications are general heart failure updates and a single case report of hypochloremia treated with acetazolamide in an advanced heart failure patient who also had hypertrophic cardiomyopathy. None provides data specific to hypertrophic cardiomyopathy.
 
@@ -119,6 +119,19 @@ The high TxGNN scores are predictions from the TxGNN model (deep learning) only 
 - Package insert warnings and contraindications from the India regulatory records
 - Approved indication text for the local licences
 - A safety review covering interactions and the contraindicated conditions listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

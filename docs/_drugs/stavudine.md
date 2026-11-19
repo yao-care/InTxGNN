@@ -56,7 +56,7 @@ This is a veterinary indication, so it falls outside the scope of human drug rep
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, stavudine is a thymidine analogue nucleoside reverse transcriptase inhibitor (NRTI). It terminates viral DNA chain elongation, and its efficacy in HIV/AIDS is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of stavudine as: Human immunodeficiency virus type 1 reverse transcriptase inhibitor ([ChEMBL CHEMBL991 (stavudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL991), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, stavudine is a thymidine analogue nucleoside reverse transcriptase inhibitor (NRTI). It terminates viral DNA chain elongation, and its efficacy in HIV/AIDS is established.
 
 Feline immunodeficiency virus (FIV) is a lentivirus whose reverse transcriptase is related to that of HIV-1, so a mechanistic rationale is plausible. The very high TxGNN score is most likely driven by the close similarity to the original HIV/AIDS indication, not by independent evidence for FIV.
 
@@ -125,11 +125,12 @@ The predictions rest on model scores alone (Evidence Level L5 for the top indica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL991 (stavudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL991) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ There are **no registered clinical trials**, but **19 publications** were compil
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. The literature describes mefenamic acid as an inhibitor of prostaglandin synthesis and action.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mefenamic acid: "Mefenamic acid has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of mefenamic acid, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f), label version 2026-04-20; accessed 2026-11-19.) The literature describes mefenamic acid as an inhibitor of prostaglandin synthesis and action.
 
 Prostaglandins are implicated in some headache types, particularly menstrually related headache and migraine. This gives a plausible pharmacological link between the drug and headache disorder. Several of the studies below test it directly in migraine patients, with mixed results. They suggest benefit for acute attack pain, for menstrual migraine, and for reducing attack frequency in prophylaxis.
 
@@ -124,6 +124,18 @@ Small randomized double-blind trials of mefenamic acid exist in migraine, a subt
 - Limits on treatment duration, with monitoring for medication-overuse headache and gastrointestinal and renal toxicity
 - Package insert warnings and contraindications, and mechanism-of-action data
 - Review of interactions, especially with aspirin, corticosteroids and other drugs that raise gastrointestinal or renal risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mefenamic acid prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d15733a9-d5fd-4d5f-86ce-e7ed8c706c7f) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

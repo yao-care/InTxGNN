@@ -55,7 +55,7 @@ The TxGNN model (deep learning) predicts it may be effective for **classic stiff
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Vildagliptin is known as a selective inhibitor of dipeptidyl peptidase-4 (DPP-4), which raises active incretin hormones (GLP-1, GIP) and enhances glucose-dependent insulin secretion. Pharmacology records also list DPP-4, DPP-8, DPP-9 and TRPV4 as targets.
+ChEMBL (EMBL-EBI) records the mechanism of action of vildagliptin as: Dipeptidyl peptidase IV inhibitor ([ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703), CC BY-SA 3.0; accessed 2026-11-19.) Vildagliptin is known as a selective inhibitor of dipeptidyl peptidase-4 (DPP-4), which raises active incretin hormones (GLP-1, GIP) and enhances glucose-dependent insulin secretion. Pharmacology records also list DPP-4, DPP-8, DPP-9 and TRPV4 as targets.
 
 The link to stiff person syndrome is weak. Stiff person syndrome is an autoimmune neurological disorder involving anti-GAD65 antibodies and impaired GABAergic signalling. DPP-4 inhibition might theoretically modulate immune or incretin pathways, but no supporting data exist. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the overlap of anti-GAD autoimmunity with autoimmune diabetes, not biological evidence or a true therapeutic effect.
 
@@ -102,6 +102,19 @@ The prediction rests only on a TxGNN model (deep learning) score. No clinical tr
 - Package insert warnings and contraindications from the licence holders
 - Preclinical or mechanistic studies testing DPP-4 inhibition in stiff person syndrome models or anti-GAD65 autoimmunity
 - Review of whether the TxGNN model (deep learning) score simply reflects similarities the model learned between related diseases, such as anti-GAD overlap with autoimmune diabetes
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

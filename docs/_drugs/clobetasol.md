@@ -56,7 +56,7 @@ Support comes from **15 publications** (including two observational cohort studi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, clobetasol propionate is a super-potent topical glucocorticoid. Activating the glucocorticoid receptor can induce apoptosis in malignant T cells. It also dampens the inflammatory cytokine environment and the skin-homing T-cell infiltrate that drives patch- and plaque-stage mycosis fungoides, the most common primary cutaneous T-cell lymphoma.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for clobetasol: "Like other topical corticosteroids, clobetasol propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties. The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear." ([DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069), label version 2026-11-10; accessed 2026-11-19.) Based on known pharmacology, clobetasol propionate is a super-potent topical glucocorticoid. Activating the glucocorticoid receptor can induce apoptosis in malignant T cells. It also dampens the inflammatory cytokine environment and the skin-homing T-cell infiltrate that drives patch- and plaque-stage mycosis fungoides, the most common primary cutaneous T-cell lymphoma.
 
 Topical corticosteroids are already used as skin-directed therapy for early-stage disease (stage IA–IB). This is therefore an established off-label use rather than a speculative prediction, which is consistent with the very high TxGNN score.
 
@@ -111,6 +111,19 @@ Observational cohort data and long-standing clinical practice support topical cl
 - Detailed mechanism of action data
 - Prospective or controlled data on efficacy, and defined limits on treatment duration and body surface area to manage skin atrophy and HPA-axis suppression
 - Confirmation that the available topical formulations suit the target lesions, and a plan for escalating to other therapy in tumour-stage or erythrodermic disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

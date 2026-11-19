@@ -55,7 +55,7 @@ Evidence for this prediction includes **1 completed Phase 3 trial** directly lin
 
 ## Why is This Prediction Reasonable?
 
-Pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses acid secretion and allows ulcers to heal. Detailed mechanism-of-action data was not available in the data compiled for this report. This description therefore draws on general pharmacology and the cited reviews.
+Pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses acid secretion and allows ulcers to heal. According to the Mechanism of Action section of the US FDA-approved prescribing information for pantoprazole: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), label version 2026-11-06; accessed 2026-11-19.) This description therefore draws on general pharmacology and the cited reviews.
 
 Peptic ulcers are acid-mediated, and peptic ulcer disease is already among pantoprazole's original indications. Because the use is already established, this evaluation is mostly a confirmation of existing evidence. It does not identify a new therapeutic opportunity.
 
@@ -135,6 +135,19 @@ Active peptic ulcer disease is an established use of pantoprazole. It is support
 - Verification of the comparator and population for NCT02084420, since its title is truncated
 - A review of the major drug interactions (e.g., atazanavir, acalabrutinib), and of the bone-health and vitamin B12 / pernicious anemia associations for long-term use
 - Other predicted indications (gastrojejunal ulcer, peptic ulcer perforation, duodenogastric reflux) are research questions needing dedicated clinical evidence; duodenal obstruction should be held
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

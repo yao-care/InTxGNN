@@ -60,7 +60,7 @@ Currently there are **no registered clinical trials**, but **13 publications** (
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known class information, micafungin is an echinocandin that inhibits 1,3-beta-D-glucan synthase and disrupts fungal cell wall synthesis. It is established for invasive Candida infections (candidemia, esophageal and disseminated candidiasis).
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for micafungin: "Micafungin is a member of the echinocandin class of antifungal agents. […] Micafungin inhibits the synthesis of 1,3-beta-D-glucan, an essential component of fungal cell walls, which is not present in mammalian cells. Activity in Animal Models of Candidiasis Activity of micafungin has been demonstrated in both mucosal and disseminated murine and rabbit models of candidiasis." ([DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee), label version 2025-11-08; accessed 2026-11-19.) Based on known class information, micafungin is an echinocandin that inhibits 1,3-beta-D-glucan synthase and disrupts fungal cell wall synthesis. It is established for invasive Candida infections (candidemia, esophageal and disseminated candidiasis).
 
 Candida species are the main fungal cause of urinary tract infection. The new indication is therefore the same pathogen family as the original indications, not a new mechanism. Activity against the causative organisms is plausible, and this is a notable strength of the prediction.
 
@@ -134,6 +134,19 @@ The mechanism is plausible and the TxGNN score is high. However, the supporting 
 - Controlled or prospective clinical data on micafungin for Candida UTI, including urinary concentration and microbiological clearance outcomes
 - Clear definition of the target population (symptomatic Candida UTI or fluconazole-resistant organisms, as opposed to asymptomatic candiduria)
 - Review of renal safety in patients with kidney disease and of immunosuppressant interactions in transplant patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Micafungin (micafungin sodium) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33e579c1-b315-44cb-a690-e2dd2cdf44ee) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

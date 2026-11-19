@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **stroke disorder**, but the sup
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Literature describes dronedarone as a multichannel-blocking antiarrhythmic, structurally related to amiodarone but without iodine. It inhibits sodium, potassium and calcium currents and has antiadrenergic effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dronedarone: "The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown." ([DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c), label version 2026-01-27; accessed 2026-11-19.) Literature describes dronedarone as a multichannel-blocking antiarrhythmic, structurally related to amiodarone but without iodine. It inhibits sodium, potassium and calcium currents and has antiadrenergic effects.
 
 Atrial fibrillation is a major cause of cardioembolic stroke. If dronedarone helps stroke outcomes, the most plausible route is indirect, through rhythm or rate control in patients with atrial fibrillation. Secondary analyses of the ATHENA trial suggested lower stroke rates in paroxysmal or persistent atrial fibrillation. One laboratory study also reported anticoagulant and antiplatelet effects independent of rhythm control.
 
@@ -109,6 +109,19 @@ No registered trial and no cited study directly examines dronedarone in stroke d
 - Detailed mechanism of action data
 - The package insert warnings and contraindications for the marketed product
 - An assessment of interactions with anticoagulants
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

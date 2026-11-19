@@ -54,7 +54,7 @@ Palonosetron is a second-generation 5-HT3 receptor antagonist, a class of drug u
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, palonosetron is a second-generation 5-HT3 receptor antagonist. These receptors are found on trigeminal afferent nerves and in the brainstem circuits that control vomiting, which gives a theoretical link to migraine pathophysiology and to migraine-associated nausea.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for palonosetron: "Palonosetron is a 5-HT 3 receptor antagonist with a strong binding affinity for this receptor and little or no affinity for other receptors. Cancer chemotherapy may be associated with a high incidence of nausea and vomiting, particularly when certain agents, such as cisplatin, are used." ([DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7), label version 2025-04-29; accessed 2026-11-19.) Based on known pharmacology, palonosetron is a second-generation 5-HT3 receptor antagonist. These receptors are found on trigeminal afferent nerves and in the brainstem circuits that control vomiting, which gives a theoretical link to migraine pathophysiology and to migraine-associated nausea.
 
 However, this link is weak. The high TxGNN score (0.9974) reflects a network-based prediction, not clinical data. The only retrieved publication (PMID 21132477) reports that palonosetron **induced** migraine-type headache. That is a safety signal opposite to therapeutic benefit.
 
@@ -108,6 +108,19 @@ The prediction rests on a model score alone. There are no clinical trials, and t
 - Mechanism of action data from DrugBank
 - Preclinical or clinical evidence that 5-HT3 antagonism by palonosetron benefits migraine, which would need to address the reported headache-induction signal
 - A QT-risk assessment if any development is considered, given the interacting QT-prolonging drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Posfrea (palonosetron) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13a201ba-c86d-48c5-a0e1-a3e0b4e6a2a7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

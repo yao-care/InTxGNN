@@ -54,7 +54,7 @@ Natamycin is a polyene antifungal that is marketed in India as single-ingredient
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. In general, natamycin is a polyene antifungal. Drugs of this class bind fungal membrane sterols and disrupt the fungal cell membrane. Natamycin is used topically.
+ChEMBL (EMBL-EBI) records the mechanism of action of natamycin as: Ergosterol sequestering agent ([ChEMBL CHEMBL1200656 (natamycin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200656), CC BY-SA 3.0; accessed 2026-11-19.) In general, natamycin is a polyene antifungal. Drugs of this class bind fungal membrane sterols and disrupt the fungal cell membrane. Natamycin is used topically.
 
 The prediction is plausible only for vulvitis with a fungal (yeast) cause, where the drug's antifungal activity would be relevant. Non-infectious vulvitis, for example from irritants, allergy or dermatological disease, would not be expected to respond. The vaginal-route studies listed below show that natamycin has been used on genital mucosa. They do not test vulvitis directly.
 
@@ -102,6 +102,18 @@ No study cited here examines vulvitis itself, so the evidence level is L5 despit
 - A study that defines and measures vulvitis as its own endpoint, with fungal and non-fungal causes separated.
 - Mechanism-of-action data and package-insert safety information.
 - Confirmation of a suitable vulvar or vaginal formulation, since the locally licensed products are ophthalmic.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200656 (natamycin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200656) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

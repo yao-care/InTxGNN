@@ -54,7 +54,7 @@ Ranolazine is an anti-anginal drug that is widely marketed in India as a single-
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ranolazine is generally known as a late sodium current (INaLate) inhibitor used for angina, but this could not be confirmed from the compiled data, and its efficacy in the original indication is not documented here.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ranolazine: "The mechanism of action of ranolazine's antianginal effects has not been determined. Ranolazine has anti-ischemic and antianginal effects that do not depend upon reductions in heart rate or blood pressure. It does not affect the rate-pressure product, a measure of myocardial work, at maximal exercise." ([DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e), label version 2025-01-29; accessed 2026-11-19.) Ranolazine is generally known as a late sodium current (INaLate) inhibitor used for angina, but this could not be confirmed from the compiled data, and its efficacy in the original indication is not documented here.
 
 NSIAD is a rare disorder caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause water retention and low blood sodium (hyponatremia) even though vasopressin levels are not elevated. No direct pathway linking late sodium current inhibition to V2 receptor signalling or renal water handling has been established.
 
@@ -88,6 +88,19 @@ The prediction rests only on model output (Evidence Level L5), with no clinical 
 - A literature and clinical trial search for any supporting evidence
 - A pharmacokinetic and QT-risk assessment in patients with hyponatremia or renal impairment
 - Assessment of route compatibility (oral extended-release tablets are the only forms marketed)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

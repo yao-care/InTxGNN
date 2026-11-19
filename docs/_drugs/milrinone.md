@@ -69,7 +69,7 @@ Other predictions in brief:
 
 ## Why is This Prediction Reasonable?
 
-Milrinone inhibits phosphodiesterase 3 (PDE3). This raises cAMP in cardiac muscle and vascular smooth muscle, giving a positive inotropic effect and vasodilation. Pharmacology records in the compiled data also list activity at PDE2A, PDE3A, PDE3B and PDE5A. Detailed mechanism-of-action data from DrugBank are not available.
+Milrinone inhibits phosphodiesterase 3 (PDE3). This raises cAMP in cardiac muscle and vascular smooth muscle, giving a positive inotropic effect and vasodilation. Pharmacology records in the compiled data also list activity at PDE2A, PDE3A, PDE3B and PDE5A. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for milrinone: "Milrinone is a positive inotrope and vasodilator, with little chronotropic activity different in structure and mode of action from either the digitalis glycosides or catecholamines." ([DailyMed: Milrinone Lactate In Dextrose (milrinone lactate) prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=838da14b-c070-4c09-b088-99e7c64d9964), label version 2021-08-25; accessed 2026-11-19.)
 
 For **alopecia** and the other hair disorders, there is no documented mechanistic link. A speculative connection through scalp perfusion or cAMP signalling in the hair follicle exists, but nothing supports it. For diffuse alopecia areata, PDE4 inhibition has some immunomodulatory relevance, but PDE3 inhibition by milrinone has no demonstrated role. The high scores probably reflect network proximity to other hair-related disease nodes, not biology.
 
@@ -171,6 +171,19 @@ Package insert warnings were not available for this report. Please refer to the 
 - Detailed mechanism-of-action data from DrugBank
 - For acute pulmonary heart disease: trials in right heart failure or pulmonary hypertension specifically, rather than heterogeneous critically ill populations
 - For RCVS: controlled data beyond case reports before any broader headache claim
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Milrinone Lactate In Dextrose (milrinone lactate) prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=838da14b-c070-4c09-b088-99e7c64d9964) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

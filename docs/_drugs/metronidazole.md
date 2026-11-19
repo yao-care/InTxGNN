@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **pneumocystosis** (score 0.999
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, metronidazole is a nitroimidazole antimicrobial. It is active against anaerobic bacteria and protozoa, because its nitro group is reduced in oxygen-poor organisms.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for metronidazole: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), label version 2026-11-02; accessed 2026-11-19.) Based on known information, metronidazole is a nitroimidazole antimicrobial. It is active against anaerobic bacteria and protozoa, because its nitro group is reduced in oxygen-poor organisms.
 
 Pneumocystis jirovecii is a fungus-like organism with no established nitroimidazole-sensitive pathway. The data compiled for this report do not support a mechanistic link. The very high TxGNN score most likely reflects network proximity to antiparasitic and anti-infective drugs, not a real pharmacological relationship.
 
@@ -125,6 +125,19 @@ Several lower-ranked predictions have more plausible indirect support and are ra
 - **Myiasis**: metronidazole is used for odour control and as adjunct antibiotic coverage in infested wounds. Ivermectin and mechanical removal are the primary treatments.
 
 The other predictions (punctate epithelial keratoconjunctivitis, nocardiosis, postmenopausal atrophic vaginitis, cryptococcal meningitis, papillary conjunctivitis) have no supporting evidence, and are rated Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

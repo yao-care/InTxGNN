@@ -54,7 +54,7 @@ Clopidogrel is an antiplatelet drug that blocks the platelet P2Y12 receptor. The
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Clopidogrel is generally known as an inhibitor of P2Y12-mediated platelet activation. The proposed link to migraine is that platelet activation and paradoxical microembolism through a right-to-left shunt, such as PFO, may release vasoactive and serotonergic mediators that trigger migraine with aura.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for clopidogrel: "Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227), label version 2025-05-30; accessed 2026-11-19.) Clopidogrel is generally known as an inhibitor of P2Y12-mediated platelet activation. The proposed link to migraine is that platelet activation and paradoxical microembolism through a right-to-left shunt, such as PFO, may release vasoactive and serotonergic mediators that trigger migraine with aura.
 
 Most supporting papers study migraine with aura in PFO or after septal closure, not brainstem aura specifically. Brainstem aura is a subset of migraine with aura, so the link is plausible but indirect. No cited study directly examines migraine with brainstem aura, so the evidence level stays at L5 (model prediction with no direct study of this disease).
 
@@ -109,6 +109,19 @@ No study cited here directly addresses migraine with brainstem aura. The support
 - Detailed mechanism-of-action data
 - Package-insert warnings and contraindications from local labelling
 - A bleeding-risk and drug-interaction management plan for the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

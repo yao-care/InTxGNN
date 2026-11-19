@@ -56,7 +56,7 @@ The evidence is weak, and no plausible mechanistic link has been identified.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, rimonabant is a CB1 receptor blocker (it also acts on GPR55) whose use in obesity is established, but no clear mechanism links CB1 antagonism to hypervitaminosis.
+ChEMBL (EMBL-EBI) records the mechanism of action of rimonabant as: Cannabinoid CB1 receptor antagonist ([ChEMBL CHEMBL111 (rimonabant): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL111), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, rimonabant is a CB1 receptor blocker (it also acts on GPR55) whose use in obesity is established, but no clear mechanism links CB1 antagonism to hypervitaminosis.
 
 The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature were retrieved to support it, so the prediction should be treated as a hypothesis, not a finding.
 
@@ -115,6 +115,19 @@ The top prediction, hypervitaminosis, rests only on a model score, with no trial
 - Package insert warnings and contraindications from the India regulatory source (a blocking gap for safety screening)
 - Any preclinical or clinical evidence for the predicted indications. The 16p11.2 microdeletion prediction is the most biologically plausible and could be examined first, with a rigorous psychiatric risk assessment.
 - Confirmation of the approved indication text for the India registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL111 (rimonabant): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL111) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

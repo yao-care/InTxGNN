@@ -60,7 +60,7 @@ It is a computational prediction only, so the evidence is very weak.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link would be symptomatic relief of muscle spasm or pain associated with the condition.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for methocarbamol: "The mechanism of action of methocarbamol in humans has not been established, but may be due to general CNS depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber." ([DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522), label version 2026-11-06; accessed 2026-11-19.) Based on known information, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link would be symptomatic relief of muscle spasm or pain associated with the condition.
 
 Cauda equina syndrome is caused by compression of the nerve roots at the base of the spinal cord, and it is a surgical emergency. Methocarbamol would not treat the underlying compression. At most, it could play a supportive, symptomatic role. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -125,6 +125,19 @@ The prediction rests only on a TxGNN computational score, with no clinical trial
 - Clinical or observational evidence for the predicted indication, or a reasoned choice of a more plausible candidate indication
 - Review of the knowledge graph contraindication signals, especially for hepatic, renal and haematological conditions
 - A route-of-administration compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

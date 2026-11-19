@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. This calms abnormal, hyperexcitable nerve firing, which explains its use in epilepsy and its potential to relieve neuropathic pain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lamotrigine: "The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity." ([DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4), label version 2026-10-12; accessed 2026-11-19.) Based on known pharmacology, lamotrigine blocks voltage-gated sodium channels and reduces glutamate release. This calms abnormal, hyperexcitable nerve firing, which explains its use in epilepsy and its potential to relieve neuropathic pain.
 
 The link to the predicted indication is weak. The supporting literature is about **trigeminal neuralgia** (a facial nerve pain condition), not tumours of the trigeminal nerve. There is no evidence that lamotrigine has antitumour activity. The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as trigeminal neuralgia, rather than biological evidence of a true neoplasm indication.
 
@@ -120,6 +120,19 @@ The prediction has a very high model score but no clinical trials and no publica
 - Consideration of trigeminal neuralgia as the more supportable repurposing target (Evidence Level L2, with completed trials)
 - Detailed mechanism of action data (MOA)
 - Package insert warnings and contraindications from the India regulatory source
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

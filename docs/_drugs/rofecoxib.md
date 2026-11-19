@@ -56,7 +56,7 @@ The drug's known prothrombotic safety signal also runs against this prediction.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology, rofecoxib is a selective COX-2 inhibitor. Its efficacy in inflammatory joint disease and pain is well established.
+ChEMBL (EMBL-EBI) records the mechanism of action of rofecoxib as: Cyclooxygenase-2 inhibitor ([ChEMBL CHEMBL122 (rofecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL122), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, rofecoxib is a selective COX-2 inhibitor. Its efficacy in inflammatory joint disease and pain is well established.
 
 Heparin cofactor 2 deficiency is an inherited thrombophilic disorder involving a serine protease inhibitor (SERPIND1). No credible mechanistic link exists between COX-2 inhibition and this condition. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -112,6 +112,19 @@ The prediction rests only on a TxGNN model (deep learning) score, which may refl
 - Any preclinical or clinical evidence linking COX-2 inhibition to the predicted condition
 - Verification of the current market and withdrawal status of rofecoxib in India
 - Thrombotic and cardiovascular risk assessment before any further evaluation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL122 (rofecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL122) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

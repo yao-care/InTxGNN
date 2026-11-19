@@ -56,7 +56,7 @@ There are **no registered clinical trials** directly studying this use, and the 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Ertapenem is a carbapenem; carbapenems act by binding penicillin-binding proteins and so inhibiting bacterial cell wall synthesis. It is active against many Enterobacterales (including ESBL producers) and anaerobes.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for ertapenem: "Ertapenem sodium is a carbapenem antibiotic. […] Ertapenem has in vitro activity against Gram-positive and Gram-negative aerobic and anaerobic bacteria. The bactericidal activity of ertapenem results from the inhibition of cell wall synthesis and is mediated through ertapenem binding to penicillin binding proteins (PBPs)." ([DailyMed: Invanz (ertapenem sodium) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f3b99b-fa82-42e0-26bf-f49891ae3d22), label version 2026-02-04; accessed 2026-11-19.) Ertapenem is a carbapenem; carbapenems act by binding penicillin-binding proteins and so inhibiting bacterial cell wall synthesis. It is active against many Enterobacterales (including ESBL producers) and anaerobes.
 
 These organisms are plausible causes of septic arthritis and other bone and joint infections. Case reports describe ertapenem used in joint infections with Klebsiella pneumoniae and Citrobacter koseri. This makes the prediction biologically plausible.
 
@@ -113,6 +113,18 @@ The mechanism is plausible and case reports describe ertapenem in septic arthrit
 - Package insert warnings, contraindications and approved indication text from the Indian licences
 - Detailed mechanism of action data
 - Dosing, treatment duration and renal function considerations for joint infection
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Invanz (ertapenem sodium) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f3b99b-fa82-42e0-26bf-f49891ae3d22) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

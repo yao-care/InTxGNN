@@ -60,7 +60,7 @@ The prediction has no plausible biological rationale and should be treated with 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, loperamide is a peripheral mu-opioid receptor agonist that acts on gut myenteric neurons to reduce motility and secretion. Its CNS penetration is limited by P-glycoprotein efflux.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for loperamide: "In vitro and animal studies show that loperamide hydrochloride capsules act by slowing intestinal motility and by affecting water and electrolyte movement through the bowel. Loperamide binds to the opiate receptor in the gut wall." ([DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b), label version 2026-07-09; accessed 2026-11-19.) Based on known pharmacology, loperamide is a peripheral mu-opioid receptor agonist that acts on gut myenteric neurons to reduce motility and secretion. Its CNS penetration is limited by P-glycoprotein efflux.
 
 The original indications (diarrheal disease, dysentery) are gastrointestinal, while the predicted indication is an eye infection. No mechanistic link was identified: loperamide has no known antimicrobial or anti-inflammatory activity on the ocular surface, and neither systemic nor topical ocular delivery is established.
 
@@ -118,6 +118,19 @@ The prediction for acute contagious conjunctivitis rests on a model score alone 
 - Preclinical studies in ocular infection or inflammation models
 - Mechanism of action data and package insert warnings and contraindications for the India registrations
 - Re-evaluation of the model prediction for artifacts from similarities the model learned between related diseases, given the near-identical scores across conjunctivitis subtypes
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

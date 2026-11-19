@@ -56,7 +56,7 @@ No clinical trials or publications were found for this indication, so the suppor
 
 ## Why is This Prediction Reasonable?
 
-Sertaconazole is an imidazole antifungal. It is thought to block fungal ergosterol synthesis by inhibiting lanosterol 14-alpha-demethylase. Its benzothiophene ring may also disrupt fungal membranes directly. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description reflects the general behaviour of the drug class.
+Sertaconazole is an imidazole antifungal. It is thought to block fungal ergosterol synthesis by inhibiting lanosterol 14-alpha-demethylase. Its benzothiophene ring may also disrupt fungal membranes directly. According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for sertaconazole: "Sertaconazole nitrate is an azole antifungal. […] Sertaconazole, an azole antifungal agent, inhibits fungal cytochrome P-450-mediated 14 alpha-lanosterol demethylase enzyme. This enzyme functions to convert lanosterol to ergosterol. Ergosterol is a key component of fungal cell membranes and lack of this component leads to fungal cell injury by leakage of key constituents in the cytoplasm from the cell." ([DailyMed: Ertaczo (sertaconazole nitrate) prescribing information, Coral Way Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6fa8dc4-2620-474e-a9b4-6657d9cbfa96), label version 2026-04-07; accessed 2026-11-19.) This description reflects the general behaviour of the drug class.
 
 Ectothrix infection is a dermatophyte infection of the hair, in which fungal spores form around the outside of the hair shaft. It is typically caused by Microsporum or Trichophyton species. Sertaconazole's activity against dermatophytes makes this link biologically plausible.
 
@@ -94,6 +94,18 @@ The prediction rests only on the model score and a plausible antifungal mechanis
 - Evidence on whether a topical formulation can reach the hair shaft and follicle, or whether an oral route is required
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications for a safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ertaczo (sertaconazole nitrate) prescribing information, Coral Way Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6fa8dc4-2620-474e-a9b4-6657d9cbfa96) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

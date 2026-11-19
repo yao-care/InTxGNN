@@ -58,7 +58,7 @@ Lincomycin is a lincosamide antibiotic. The TxGNN model (deep learning) predicts
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lincomycin is known as a lincosamide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lincomycin: "Lincomycin inhibits bacterial protein synthesis by binding to the 23S RNA of the 50S subunit of the bacterial ribosome. Lincomycin is predominantly bacteriostatic in vitro." ([DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263), label version 2025-03-10; accessed 2026-11-19.) Lincomycin is known as a lincosamide antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit.
 
 Polyclonal hyperviscosity syndrome arises from elevated serum immunoglobulins or other proteins, for example in autoimmune disease or chronic infection. It is not a bacterial-driven process that an antibiotic would directly treat. No credible mechanistic link was identified between lincomycin and this condition.
 
@@ -125,6 +125,19 @@ The prediction rests only on a model score. No clinical trials or publications s
 - Any preclinical or clinical study directly addressing polyclonal hyperviscosity syndrome
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
 - Review of the gastrointestinal and liver-related contraindication relations before any further evaluation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lincocin (lincomycin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c01906fa-2c73-4c13-9765-2fd06628d263) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

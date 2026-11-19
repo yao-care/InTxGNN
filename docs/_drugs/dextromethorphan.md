@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but *
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Dextromethorphan is generally understood as a centrally acting cough suppressant working through sigma-1 agonism and NMDA receptor antagonism. It has no established direct effect on the nasal mucosa.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dextromethorphan hydrobromide, bupropion hydrochloride (a combination product containing dextromethorphan): "Dextromethorphan is an uncompetitive antagonist of the NMDA receptor (an ionotropic glutamate receptor) and a sigma-1 receptor agonist. The mechanism of dextromethorphan in the treatment of MDD and agitation associated with dementia due to Alzheimer’s disease is unclear." ([DailyMed: Auvelity (dextromethorphan hydrobromide, bupropion hydrochloride) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcefda7c-9a68-278e-e053-2995a90aec79), label version 2026-08-17; accessed 2026-11-19.) Dextromethorphan is generally understood as a centrally acting cough suppressant working through sigma-1 agonism and NMDA receptor antagonism. It has no established direct effect on the nasal mucosa.
 
 The prediction most likely reflects closeness to upper respiratory conditions that dextromethorphan is associated with, such as rhinitis and nasopharyngitis. "Nasal cavity disease" is a broad category that overlaps with these terms. The link appears to come from shared parent terms in the model rather than from a distinct pharmacological mechanism. Any benefit would at most be symptomatic (for example cough relief), not treatment of the nasal disease itself.
 
@@ -97,6 +97,19 @@ The prediction has a very high model score (0.9998) but no supporting clinical t
 - A targeted literature review for dextromethorphan in nasal and upper airway disease
 - Package insert warnings and contraindications for the Indian products
 - A review of the major serotonergic and CYP2D6-related interactions before any new-use consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Auvelity (dextromethorphan hydrobromide, bupropion hydrochloride) prescribing information, Axsome Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcefda7c-9a68-278e-e053-2995a90aec79) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

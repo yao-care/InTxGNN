@@ -54,7 +54,7 @@ Zafirlukast is a cysteinyl leukotriene receptor antagonist. The TxGNN model pred
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Zafirlukast is known as a CysLT1 receptor antagonist. Cysteinyl leukotrienes contribute to airway inflammation, bronchoconstriction and mucus secretion, so a plausible mechanistic rationale exists for inflammatory bronchial conditions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for zafirlukast: "Zafirlukast is a selective and competitive receptor antagonist of leukotriene D 4 and E 4 (LTD 4 and LTE 4 ), components of slow-reacting substance of anaphylaxis (SRSA). Cysteinyl leukotriene production and receptor occupation have been correlated with the pathophysiology of asthma, including airway edema, smooth muscle constriction, and altered cellular activity associated with the inflammatory process, which contribute to the signs and symptoms of asthma." ([DailyMed: zafirlukast prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60f39f6-d590-4b00-8751-7f12b7ec5385), label version 2024-10-11; accessed 2026-11-19.) Zafirlukast is known as a CysLT1 receptor antagonist. Cysteinyl leukotrienes contribute to airway inflammation, bronchoconstriction and mucus secretion, so a plausible mechanistic rationale exists for inflammatory bronchial conditions.
 
 This reasoning remains hypothetical. Bronchitis is a heterogeneous condition (acute viral, chronic, eosinophilic), and the subtype the model refers to is not specified. The similarity to the drug's current use has not yet been assessed, and route compatibility is also pending.
 
@@ -92,6 +92,18 @@ The only support for this prediction is the model score of 0.9993. There are no 
 - Mechanism of action data to support the link to bronchitis
 - Package insert warnings and contraindications, to complete the safety review
 - A review of the interacting drugs likely to be co-prescribed in this population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: zafirlukast prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60f39f6-d590-4b00-8751-7f12b7ec5385) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

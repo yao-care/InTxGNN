@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **conjunctivitis**, but this is
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, rifampicin is a broad-spectrum antibiotic that inhibits bacterial RNA polymerase. Its efficacy in tuberculosis is well established, and it is active against Gram-positive bacteria, *Chlamydia* and *Staphylococcus*.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rifampicin: "Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme." ([DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5), label version 2026-05-05; accessed 2026-11-19.) Based on known information, rifampicin is a broad-spectrum antibiotic that inhibits bacterial RNA polymerase. Its efficacy in tuberculosis is well established, and it is active against Gram-positive bacteria, *Chlamydia* and *Staphylococcus*.
 
 These organisms are common causes of bacterial conjunctivitis and trachoma, so an antibacterial link to conjunctivitis is plausible. Older studies tested rifampicin eye ointment in chlamydial eye infections. A 1977 open trial of 1% rifampicin ointment in chlamydial eye infection found that 3 weeks was not enough to cure the disease, while a 6–7 week course gave about 90% clinical and microbiological cure. A 1975 controlled trial in Tunisia compared topical tetracycline and rifampicin in endemic trachoma.
 
@@ -117,6 +117,19 @@ The antibacterial rationale is plausible and some older topical studies exist, b
 - Merging of the duplicate conjunctivitis entries and clarification of the target pathogens (e.g., chlamydial or staphylococcal conjunctivitis)
 - A specific ophthalmic formulation and route strategy, since no ophthalmic product is registered in India
 - Comparative evidence against current first-line topical antibiotics and a resistance-risk assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

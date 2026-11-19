@@ -54,7 +54,7 @@ Fosaprepitant is an injectable prodrug of aprepitant, a substance P/NK1 receptor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, fosaprepitant is a prodrug of aprepitant and acts as an NK1 receptor antagonist. Substance P/NK1 signalling has been loosely discussed in relation to water balance.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fosaprepitant: "Fosaprepitant is a prodrug of aprepitant and accordingly, its antiemetic effects are attributable to aprepitant. Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK-1) receptors. Aprepitant has little or no affinity for serotonin (5-HT 3 ), dopamine, and corticosteroid receptors, the targets of existing therapies for chemotherapy-induced nausea and vomiting (CINV)." ([DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169), label version 2026-07-29; accessed 2026-11-19.) Based on known information, fosaprepitant is a prodrug of aprepitant and acts as an NK1 receptor antagonist. Substance P/NK1 signalling has been loosely discussed in relation to water balance.
 
 The link to NSIAD is weak. NSIAD is a disorder caused by gain-of-function of the vasopressin V2 receptor, and no direct connection to NK1 antagonism is evident. The high TxGNN score (0.9992) is a model output only and should be treated as speculative. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -136,6 +136,19 @@ The NSIAD prediction rests only on a model score. There are no clinical trials o
 - Approved indication text for the Indian licences, to confirm the original indication
 - Preclinical or mechanistic studies testing NK1 involvement in NSIAD
 - If retinitis is pursued, validation in relevant retinitis models
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Navitrux (fosaprepitant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a41b7c3a-1376-43a7-b5b9-6ba2eba1e169) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ The best-supported option among the ten predictions is a different one: **primar
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, desmopressin is a vasopressin analogue that raises plasma von Willebrand factor (VWF) and factor VIII. Its efficacy in von Willebrand disease and mild hemophilia A is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for desmopressin: "Desmopressin acetate increases plasma levels of factor VIII activity in patients with hemophilia and von Willebrand's disease Type I. The antidiuretic effects of desmopressin acetate are mediated by stimulation of vasopressin 2 (V2) receptors, thereby increasing water re-absorption in the kidney, and hence reducing urine production. Desmopressin acetate is a replacement hormone for antidiuretic hormone in the treatment of central diabetes insipidus." ([DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244), label version 2022-09-28; accessed 2026-11-19.) Based on known information, desmopressin is a vasopressin analogue that raises plasma von Willebrand factor (VWF) and factor VIII. Its efficacy in von Willebrand disease and mild hemophilia A is established.
 
 For the top-ranked prediction, **congenital prothrombin deficiency**, this mechanism does not apply. Prothrombin (factor II) levels are not affected by desmopressin, so there is no plausible way for it to correct this deficiency. The only linked paper is a 1993 general review of inherited bleeding disorders. The high score (0.9970) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -142,6 +142,19 @@ The top-ranked prediction, congenital prothrombin deficiency, has no clinical tr
 - Obtain package insert warnings and contraindications from the India regulatory sources, as well as approved indication text for the ten registrations.
 - Obtain detailed mechanism of action data from DrugBank.
 - Define a monitoring plan for hyponatremia (sodium and fluid restriction) and for thrombotic risk in any new population.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ddavp (desmopressin acetate) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

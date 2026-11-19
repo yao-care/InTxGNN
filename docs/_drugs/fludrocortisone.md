@@ -60,7 +60,7 @@ The best-supported direction among the other predictions is **eye disease**, wit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fludrocortisone is a mineralocorticoid with some glucocorticoid activity. It is used clinically for conditions such as adrenal insufficiency and orthostatic hypotension, as seen in the literature compiled for this report.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for fludrocortisone: "Corticosteroids are thought to act at least in part, by controlling the rate of synthesis of proteins. Although there are a number of instances in which the synthesis of specific proteins is known to be induced by corticosteroids, the links between the initial actions of the hormones and the final metabolic effects have not been completely elucidated. […] The physiologic action of fludrocortisone acetate is similar to that of hydrocortisone." ([DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2), label version 2026-06-24; accessed 2026-11-19.) Based on known information, fludrocortisone is a mineralocorticoid with some glucocorticoid activity. It is used clinically for conditions such as adrenal insufficiency and orthostatic hypotension, as seen in the literature compiled for this report.
 
 For primary cutaneous T-cell lymphoma, the link is speculative. Glucocorticoid-mediated lymphocyte apoptosis could plausibly matter in T-cell malignancies. However, fludrocortisone's glucocorticoid potency is low, and corticosteroids used for this lymphoma are other agents. The high score (0.9958) reflects model similarity only, and no trial or publication supports it.
 
@@ -129,6 +129,19 @@ The top prediction, primary cutaneous T-cell lymphoma, has no trials or literatu
 - A focused hypothesis for the eye direction (for example, retinal degeneration neuroprotection or glaucoma with systemic hypotension), with efficacy data beyond the Phase 1B safety study
 - Any preclinical or clinical evidence for primary cutaneous T-cell lymphoma, if that direction is to be pursued
 - An assessment of route compatibility, since the marketed forms are oral tablets while the ocular studies used intravitreal administration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

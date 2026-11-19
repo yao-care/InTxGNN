@@ -57,7 +57,7 @@ The data compiled for this report assigned L4 to this prediction. Because the 3 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is not available. Based on the literature compiled for this report, minoxidil is converted to an active sulfate metabolite that opens ATP-sensitive potassium channels. In hair follicles it is thought to prolong the anagen (growth) phase and enlarge follicles. Its vasodilator action is also what lowers blood pressure when it is given orally at higher doses.
+ChEMBL (EMBL-EBI) records the mechanism of action of minoxidil as: Sulfonylurea receptor 2, Kir6.2 opener ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; accessed 2026-11-19.) Based on the literature compiled for this report, minoxidil is converted to an active sulfate metabolite that opens ATP-sensitive potassium channels. In hair follicles it is thought to prolong the anagen (growth) phase and enlarge follicles. Its vasodilator action is also what lowers blood pressure when it is given orally at higher doses.
 
 Hypotrichosis simplex of the scalp is a rare, inherited disorder (linked to variants such as CDSN) in which hair density and length are reduced. Minoxidil's follicle-stimulating action therefore offers a plausible, though unproven, link. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -109,6 +109,19 @@ The prediction score is very high and minoxidil is widely available in India. Ho
 - Mechanism-of-action data from DrugBank
 - Controlled or single-agent data on minoxidil for hereditary hypotrichosis simplex
 - A route and dose decision (topical versus oral), with a cardiovascular safety plan for any oral use in children
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data from DrugBank is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

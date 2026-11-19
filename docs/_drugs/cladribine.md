@@ -56,7 +56,7 @@ but **no clinical trials and no directly relevant publications** currently suppo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cladribine is a purine nucleoside analog. It is cytotoxic to lymphocytes through activation by deoxycytidine kinase, which disrupts DNA synthesis. Its efficacy in hairy cell leukemia, a lymphoid malignancy, is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cladribine: "The mechanism by which cladribine exerts its therapeutic effects in patients with multiple sclerosis has not been fully elucidated but is thought to involve cytotoxic effects on B and T lymphocytes through impairment of DNA synthesis, resulting in depletion of lymphocytes." ([DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144), label version 2026-05-27; accessed 2026-11-19.) Based on known information, cladribine is a purine nucleoside analog. It is cytotoxic to lymphocytes through activation by deoxycytidine kinase, which disrupts DNA synthesis. Its efficacy in hairy cell leukemia, a lymphoid malignancy, is established.
 
 The link to rhabdomyosarcoma is weak. Rhabdomyosarcoma is a solid tumor of soft tissue, and no mechanistic rationale for a lymphocyte-directed purine analog in this setting is documented. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same pattern appears in the other top predictions: prostate, vaginal (botryoid), and bile duct embryonal subtypes, the parent term "rhabdomyosarcoma", and liver sarcoma. These all score between 0.9970 and 0.9977 and probably share one similarity-driven signal. Any further work would need preclinical validation first.
 
@@ -111,6 +111,19 @@ The prediction rests only on a model score (L5), with no clinical trials and no 
 - India package insert warnings and contraindications, which are required before any safety screening
 - Confirmation of the approved indication text for the India license
 - A systematic literature search targeted at rhabdomyosarcoma and nucleoside analogs, since the one retrieved paper is off-target
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

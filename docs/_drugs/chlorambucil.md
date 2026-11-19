@@ -55,7 +55,7 @@ No clinical trials are registered for this disease, and the only literature is *
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, chlorambucil is a nitrogen mustard-type alkylating agent, and its use in lymphoid malignancies is recorded in the knowledge graph. Mechanistically, DNA alkylation could plausibly act on the malignant B-cell clones of CLL/SLL.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for chlorambucil: "Chlorambucil, an aromatic nitrogen mustard derivative, is an alkylating agent. Chlorambucil interferes with DNA replication and induces cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bax, an apoptosis promoter." ([DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213), label version 2025-01-08; accessed 2026-11-19.) Based on known information, chlorambucil is a nitrogen mustard-type alkylating agent, and its use in lymphoid malignancies is recorded in the knowledge graph. Mechanistically, DNA alkylation could plausibly act on the malignant B-cell clones of CLL/SLL.
 
 The predicted disease is a molecular subtype of CLL/SLL (unmutated immunoglobulin heavy chain variable region genes). The high score probably reflects the association with the parent disease, CLL/SLL, rather than any evidence specific to this subtype. The one retrieved publication is a 2003 review arguing for a risk-adapted approach to CLL. It discusses the disease's biology and prognosis, and it does not test chlorambucil in this subtype. Modern practice has also moved toward targeted agents (BTK and BCL2 inhibitors) for high-risk or unmutated disease.
 
@@ -113,6 +113,19 @@ Among the other predictions, primary pulmonary lymphoma has the most support (ca
 - Subtype-specific clinical data (unmutated-IGHV CLL/SLL) comparing chlorambucil with current targeted therapies
 - Confirmed approved-indication text from the Indian package inserts
 - Mechanism of action data and package insert warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

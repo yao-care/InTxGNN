@@ -56,7 +56,7 @@ Support comes from **4 clinical trials** (3 directly on migraine) and **20 publi
 
 ## Why is This Prediction Reasonable?
 
-Candesartan blocks the angiotensin II type 1 (AT1) receptor, which is expressed in vascular and neural tissue. Detailed mechanism-of-action data are not available in the compiled data, but several mechanisms have been proposed for migraine prevention. These include modulation of the renin-angiotensin system in cerebrovascular and trigeminovascular tissue, reduced neuroinflammation and oxidative stress, lower susceptibility to cortical spreading depression, and modulation of sympathetic tone and vascular reactivity.
+Candesartan blocks the angiotensin II type 1 (AT1) receptor, which is expressed in vascular and neural tissue. According to the Mechanism of Action section of the US FDA-approved prescribing information for candesartan: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e), label version 2026-02-05; accessed 2026-11-19.) Several mechanisms have been proposed for migraine prevention. These include modulation of the renin-angiotensin system in cerebrovascular and trigeminovascular tissue, reduced neuroinflammation and oxidative stress, lower susceptibility to cortical spreading depression, and modulation of sympathetic tone and vascular reactivity.
 
 Several guideline-oriented reviews list candesartan as a preventive option for migraine, and a recent scoping review (2025) examined its use for this purpose. This is consistent with the high prediction score. Direct trial data now exist in the target disease, so the prediction is supported by clinical studies and not by model output alone.
 
@@ -112,6 +112,18 @@ Two randomised, placebo-controlled trials (a completed Phase 2/3 crossover study
 - Detailed mechanism-of-action data
 - Safety information from the package insert, including blood pressure monitoring in normotensive migraine patients
 - Confirmation of the approved indication text in the local licence records
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data, but s" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

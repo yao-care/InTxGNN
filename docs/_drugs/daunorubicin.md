@@ -60,7 +60,7 @@ but the supporting evidence is indirect: **2 Phase 2 clinical trials** (both of 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, daunorubicin is an anthracycline that intercalates into DNA and inhibits topoisomerase II. Its efficacy in acute leukemia is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for daunorubicin: "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes." ([DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f), label version 2025-05-21; accessed 2026-11-19.) Based on known pharmacology, daunorubicin is an anthracycline that intercalates into DNA and inhibits topoisomerase II. Its efficacy in acute leukemia is well established.
 
 Doxorubicin, a closely related anthracycline with the same mechanism, is a backbone of Hodgkin lymphoma regimens such as ABVD. This makes it mechanistically plausible that daunorubicin could be active in Hodgkin lymphoma. Review literature also notes that anthracyclines as a class form the backbone of regimens for leukemia, Hodgkin lymphoma and several paediatric solid tumours.
 
@@ -144,6 +144,19 @@ The mechanistic rationale is plausible, and doxorubicin is already part of stand
 - Detailed mechanism of action data
 - Trials or studies testing daunorubicin specifically in Hodgkin lymphoma, with the drug composition of the multi-agent regimens confirmed
 - A cardiac and haematological safety monitoring plan, including cumulative anthracycline dose limits
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

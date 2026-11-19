@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Pramipexole is generally known as a D2/D3 dopamine receptor agonist with preferential D3 activity. Its efficacy in Parkinson disease and restless legs syndrome is established, and both conditions respond to dopaminergic stimulation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pramipexole: "Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D 2 subfamily of dopamine receptors, binding with higher affinity to D 3 than to D 2 or D 4 receptor subtypes. Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum." ([DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c), label version 2026-09-09; accessed 2026-11-19.) Pramipexole is generally known as a D2/D3 dopamine receptor agonist with preferential D3 activity. Its efficacy in Parkinson disease and restless legs syndrome is established, and both conditions respond to dopaminergic stimulation.
 
 ADHD also involves dysregulated dopamine signalling, so a link is plausible. Genetic studies connect the dopamine D4 receptor and the α2A adrenoceptor to ADHD, and one preclinical study examined their interaction. This link is indirect, though, and no ADHD-specific trial was found.
 
@@ -110,6 +110,19 @@ The ADHD prediction has a very high model score but no registered clinical trial
 - A safety assessment of psychiatric, sleep and impulse-control risks in ADHD patients
 
 **Note:** Among the other TxGNN predictions for pramipexole, **schizophrenia** has stronger support. It has a Phase 3 add-on trial (NCT01320982, status unknown, no results supplied) and a 2022 placebo-controlled RCT (PMID 35921506). It may merit separate evaluation, with caution because dopamine agonists can worsen psychosis.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,10 +55,9 @@ The TxGNN model predicts it may be effective for **obsolete bundle branch block*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. From general pharmacology, adenosine acts on A1 receptors at the AV node and slows conduction. That makes a link to conduction disorders plausible. However, the same action means adenosine may worsen bundle branch or AV conduction block rather than treat it. It is also used diagnostically to unmask conduction abnormalities.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for adenosine: "Adenosine Injection slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome. Adenosine Injection is antagonized competitively by methylxanthines such as caffeine and theophylline, and potentiated by blockers of nucleoside transport such as dipyridamole." ([DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30), label version 2026-08-31; accessed 2026-11-19.) From general pharmacology, adenosine acts on A1 receptors at the AV node and slows conduction. That makes a link to conduction disorders plausible. However, the same action means adenosine may worsen bundle branch or AV conduction block rather than treat it. It is also used diagnostically to unmask conduction abnormalities.
 
 The disease name is flagged as obsolete, which suggests an outdated ontology term that maps to a poorly defined or merged concept. Despite the very high score, the prediction is not clinically interpretable. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
-
 
 ## Clinical Trial Evidence
 
@@ -127,6 +126,19 @@ The top prediction (obsolete bundle branch block) has a very high model score bu
 - Package insert warnings and contraindications from the India licence holders
 - Direct evidence for adenosine (not ATP) in CPVT, such as controlled or prospective studies
 - Safety assessment of conduction-block risk and the QT-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: adenosine prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9508caf5-0e3a-4d32-909d-bff7ea40ec30) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

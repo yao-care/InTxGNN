@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Paliperidone is an atypical antipsychotic, the active metabolite of risperidone, and is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism. Its efficacy in schizophrenia is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for paliperidone: "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone in schizophrenia is unclear. However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916), label version 2025-01-31; accessed 2026-11-19.) Paliperidone is an atypical antipsychotic, the active metabolite of risperidone, and is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism. Its efficacy in schizophrenia is established.
 
 For retinal dystrophy, no plausible mechanistic link has been established. Retinal dystrophies are mostly genetic degenerative conditions, and nothing shows that D2/5-HT2A antagonism would slow or reverse them. The very high score (rank 1,886 in the model's overall ranking) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -105,6 +105,19 @@ The prediction for retinal dystrophy rests only on a score from the TxGNN model 
 - Detailed mechanism of action data (MOA) and a testable biological hypothesis connecting paliperidone to retinal pathology
 - Preclinical evidence (for example retinal cell or animal models) supporting benefit in retinal dystrophy
 - Package insert warnings and contraindications from the India regulatory source
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **hyperamylasemia**, but **no c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for aztreonam is not available in the data compiled for this report. From general pharmacology, aztreonam is a monobactam that inhibits bacterial cell wall synthesis by binding penicillin-binding protein 3 (PBP3), and it is active against gram-negative aerobic bacteria.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aztreonam: "Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6), label version 2024-06-03; accessed 2026-11-19.) From general pharmacology, aztreonam is a monobactam that inhibits bacterial cell wall synthesis by binding penicillin-binding protein 3 (PBP3), and it is active against gram-negative aerobic bacteria.
 
 Hyperamylasemia is a laboratory finding, an elevated blood amylase level, and not an infectious process. An antibacterial acting on PBP3 has no known effect on amylase production or clearance. The review of this prediction found no plausible mechanistic link, and the high score looks like an artifact of the model rather than a signal supported by clinical data.
 
@@ -114,6 +114,19 @@ There are no clinical trials or publications for hyperamylasemia, and no plausib
 - Any clinical or preclinical study that directly examines hyperamylasemia
 - Package insert warnings and contraindications from the India licence holders
 - A safety review for patients with kidney, liver or gallbladder disease and for those taking warfarin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for aztreonam is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aztreonam prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4500795-3b07-4a7d-b432-73cafbb3dbc6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

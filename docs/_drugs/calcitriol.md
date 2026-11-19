@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **obsolete vitamin D deficiency*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Calcitriol is the biologically active form of vitamin D (1,25-dihydroxyvitamin D3). It acts on the vitamin D receptor to raise intestinal absorption of calcium and phosphate and to regulate bone mineral metabolism.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for calcitriol: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), label version 2026-10-15; accessed 2026-11-19.) Calcitriol is the biologically active form of vitamin D (1,25-dihydroxyvitamin D3). It acts on the vitamin D receptor to raise intestinal absorption of calcium and phosphate and to regulate bone mineral metabolism.
 
 Because calcitriol is the active hormone itself, a link to vitamin D deficiency is biologically plausible and likely explains the very high score. However, the disease term is flagged as obsolete, and the prediction largely restates the drug's known physiology rather than offering a novel repurposing signal. In practice, deficiency of the precursor vitamin is usually corrected with native vitamin D, while calcitriol is typically reserved for situations where activation is impaired.
 
@@ -96,6 +96,19 @@ The prediction has a very high score but no supporting trials or literature, and
 - Studies directly addressing calcitriol in the target condition
 - Mechanism-of-action data and package insert warnings and contraindications
 - Calcium, phosphate and PTH monitoring plan, given the hypercalcaemia risk and the major interactions with other vitamin D products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

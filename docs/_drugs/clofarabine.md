@@ -54,7 +54,7 @@ Clofarabine is a purine nucleoside analog anticancer drug. The TxGNN model predi
 
 ## Why is This Prediction Reasonable?
 
-Clofarabine is a second-generation purine nucleoside analog. It inhibits ribonucleotide reductase and DNA polymerase, which depletes the nucleotide pool needed for DNA replication, and it induces apoptosis through mitochondrial pathways. Detailed mechanism-of-action data are not available in the data compiled for this report, so this description rests on established pharmacology described in the cited reviews.
+Clofarabine is a second-generation purine nucleoside analog. It inhibits ribonucleotide reductase and DNA polymerase, which depletes the nucleotide pool needed for DNA replication, and it induces apoptosis through mitochondrial pathways. According to the Mechanism of Action section of the US FDA-approved prescribing information for clofarabine: "Clofarabine is sequentially metabolized intracellularly to the 5’-monophosphate metabolite by deoxycytidine kinase and mono- and di-phospho-kinases to the active 5’-triphosphate metabolite. Clofarabine has affinity for the activating phosphorylating enzyme, deoxycytidine kinase, equal to or greater than that of the natural substrate, deoxycytidine." ([DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873), label version 2026-08-24; accessed 2026-11-19.) This description rests on established pharmacology described in the cited reviews.
 
 These mechanisms act on rapidly dividing leukemic cells, whether of lymphoid or myeloid origin. This makes it plausible that activity seen in lymphoblastic leukemia extends to myeloid leukemia. Reviews on clofarabine in acute myeloid leukemia (AML) describe single-agent activity and good tolerability in combinations, particularly in older adults and in relapsed or refractory disease.
 
@@ -131,6 +131,19 @@ Two completed Phase 3 randomized trials and many Phase 2 studies directly addres
 - Package insert warnings and contraindications for the Indian products
 - Detailed mechanism of action data
 - A monitoring plan for myelosuppression, kidney and liver function, and infection risk, particularly in older adults
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

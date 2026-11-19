@@ -58,7 +58,7 @@ Fluorouracil is an antimetabolite chemotherapy drug. It is recorded for skin con
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, fluorouracil is a thymidylate synthase inhibitor and antimetabolite that disrupts DNA and RNA synthesis in rapidly dividing cells. Its established role in gastrointestinal cancers suggests it could, in principle, act on other fast-proliferating tumours such as sarcomas.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fluorouracil: "Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death. Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP)." ([DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b), label version 2026-10-23; accessed 2026-11-19.) Based on general knowledge, fluorouracil is a thymidylate synthase inhibitor and antimetabolite that disrupts DNA and RNA synthesis in rapidly dividing cells. Its established role in gastrointestinal cancers suggests it could, in principle, act on other fast-proliferating tumours such as sarcomas.
 
 Rhabdomyosarcoma is a proliferative soft-tissue sarcoma. The prediction is therefore biologically plausible, but it comes from the TxGNN model (deep learning) only and may reflect similarities the model learned between related diseases, not biological evidence. The top-ranked subtypes (vaginal botryoid-type, parameningeal, bile duct and prostate embryonal rhabdomyosarcoma) have no trials or publications at all.
 
@@ -135,6 +135,19 @@ The TxGNN score is high, but no clinical trial and no fluorouracil-specific publ
 - Mechanism of action data and the package insert warnings and contraindications
 - Confirmation of the approved indications on the Indian licences
 - Assessment of route and dosage-form fit for the target population, which is largely paediatric
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ The prediction rests on the TxGNN model (deep learning) alone and has no plausib
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled drug record. From general knowledge, becaplermin is recombinant human PDGF-BB. It acts on PDGF receptors alpha and beta to drive fibroblast and smooth muscle proliferation, granulation tissue formation and angiogenesis. This is the basis of its use in chronic skin wounds.
+ChEMBL (EMBL-EBI) records the mechanism of action of becaplermin as: Platelet-derived growth factor receptor agonist ([ChEMBL CHEMBL1201556 (becaplermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201556), CC BY-SA 3.0; accessed 2026-11-19.) From general knowledge, becaplermin is recombinant human PDGF-BB. It acts on PDGF receptors alpha and beta to drive fibroblast and smooth muscle proliferation, granulation tissue formation and angiogenesis. This is the basis of its use in chronic skin wounds.
 
 For amenorrhea, no plausible mechanistic link has been established. Amenorrhea generally involves the hypothalamic-pituitary-ovarian axis or endometrial function, and PDGF-BB wound-healing biology does not obviously act on either. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it should not be read as evidence of benefit.
 
@@ -123,6 +123,19 @@ The prediction is supported only by a TxGNN model (deep learning) score, which m
 - Preclinical or mechanistic evidence linking PDGF-BB to reproductive-axis or endometrial function
 - Assessment of route compatibility, since the approved product is topical
 - A formal safety review of the theoretical oncologic and fibrosis risks before any further consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1201556 (becaplermin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201556) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

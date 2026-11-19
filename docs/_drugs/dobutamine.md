@@ -60,7 +60,7 @@ The score comes from the TxGNN model (deep learning) and may reflect similaritie
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, dobutamine is a beta-1 adrenergic agonist (inotrope) given by intravenous infusion. It is generally used for short-term cardiac support.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for dobutamine: "Dobutamine hydrochloride is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-receptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects. It does not cause the release of endogenous norepinephrine, as does dopamine." ([DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead), label version 2023-09-08; accessed 2026-11-19.) Based on general pharmacology, dobutamine is a beta-1 adrenergic agonist (inotrope) given by intravenous infusion. It is generally used for short-term cardiac support.
 
 The prediction is **not mechanistically convincing**. Dobutamine has no known role in hair follicle biology. The one publication retrieved is a veterinary case report of heart failure caused by minoxidil intoxication in a cat. Dobutamine was used there only to treat hypotension. It describes the cardiotoxicity of a hair-growth drug and says nothing about dobutamine treating alopecia. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Minoxidil is a vasodilator used for alopecia.
 
@@ -117,6 +117,19 @@ The prediction rests on model score alone (L5). There are no clinical trials and
 - Mechanism of action data for dobutamine
 - A credible mechanistic hypothesis and preclinical data for hair-related disorders
 - Assessment of route compatibility, since dobutamine is available only as an injectable, and of benefit-risk for a non-life-threatening condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dobutamine Hydrochloride In Dextrose (dobutamine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b17b98b-e06d-42ed-925f-69aa2699dead) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

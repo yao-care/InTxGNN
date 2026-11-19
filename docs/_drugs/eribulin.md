@@ -55,7 +55,7 @@ The TxGNN model (deep learning) predicts it may be effective for **autosomal rec
 
 ## Why is This Prediction Reasonable?
 
-Eribulin is a synthetic analog of halichondrin B that inhibits microtubule dynamics. It is used in cytotoxic oncology. Detailed mechanism-of-action data were not available in the data compiled for this report, so the mechanistic description relies on its known drug class.
+Eribulin is a synthetic analog of halichondrin B that inhibits microtubule dynamics. It is used in cytotoxic oncology. According to the Mechanism of Action section of the US FDA-approved prescribing information for eribulin: "Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into nonproductive aggregates. Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G 2 /M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage." ([DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822), label version 2025-11-07; accessed 2026-11-19.) The mechanistic description relies on its known drug class.
 
 Familial Mediterranean fever is an autoinflammatory disease driven by dysregulation of the pyrin inflammasome. The standard therapy, colchicine, is also a microtubule-targeting agent. This shared target class may explain the high model score. However, eribulin binds tubulin differently from colchicine. Its cytotoxic profile is also unsuitable for a chronic, non-malignant condition. The score is therefore most likely a TxGNN model (deep learning) artifact rather than a true mechanistic signal.
 
@@ -112,6 +112,19 @@ The prediction rests on model score alone (L5), with no trials or publications. 
 - A risk-benefit assessment for a non-malignant chronic indication
 
 **Note on other predictions:** Among the other model predictions, **fibroblastic neoplasm** (rank 8, score 0.9936) has the strongest support. It has a completed Phase 2 trial of eribulin in advanced solitary fibrous tumor (ERASING, [NCT03840772](https://clinicaltrials.gov/study/NCT03840772), n=16) and supportive preclinical literature. Its results were not available, so efficacy is unconfirmed. If this evaluation is redirected toward oncology, that indication is the more promising candidate for follow-up.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Halaven (eribulin mesylate) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

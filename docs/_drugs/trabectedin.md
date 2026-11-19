@@ -56,7 +56,7 @@ with **1 clinical trial** (a safety-focused QT study) and **20 publications** cu
 
 ## Why is This Prediction Reasonable?
 
-Trabectedin binds the minor groove of DNA and causes DNA damage. It interferes with transcription and DNA-repair machinery. It is particularly active in cells with deficient homologous recombination repair, such as BRCA1/2-deficient tumours. Formal mechanism-of-action data were not available in the data compiled for this report, so this description draws on the published literature.
+Trabectedin binds the minor groove of DNA and causes DNA damage. It interferes with transcription and DNA-repair machinery. It is particularly active in cells with deficient homologous recombination repair, such as BRCA1/2-deficient tumours. According to the Mechanism of Action section of the US FDA-approved prescribing information for trabectedin: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), label version 2026-06-29; accessed 2026-11-19.) This description draws on the published literature.
 
 Ovarian and breast cancers share DNA-repair biology, especially in BRCA-associated disease and triple-negative breast cancer. Trabectedin also reduces tumour-associated macrophages and modulates the tumour microenvironment. Preclinical work suggests it enhances the antitumour effect of IL-12 in triple-negative breast cancer.
 
@@ -119,6 +119,19 @@ The mechanism is plausible, especially for BRCA-deficient and triple-negative br
 - Full review of the Phase 2 breast cancer results (PMIDs 25239225, 24692579, 27266804), focusing on BRCA-mutated and triple-negative subgroups
 - A biomarker-driven trial design (e.g., BRCA or XPG status) if development continues
 - Review of the clarithromycin and other drug interactions for the proposed patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Formal mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

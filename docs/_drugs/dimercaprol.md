@@ -55,7 +55,7 @@ Dimercaprol is a dithiol chelating agent that binds heavy metals such as mercury
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dimercaprol is a dithiol chelating agent that binds heavy metals such as mercury, arsenic, and lead. The India license entry does not record an approved indication.
+ChEMBL (EMBL-EBI) records the mechanism of action of dimercaprol as: Heavy metals chelating agent ([ChEMBL CHEMBL1597 (dimercaprol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1597), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, dimercaprol is a dithiol chelating agent that binds heavy metals such as mercury, arsenic, and lead. The India license entry does not record an approved indication.
 
 The only linked publication is a 1963 case report describing bronchitis after acute mercury inhalation. In that setting, bronchitis is a consequence of metal poisoning. Chelation would address the underlying poisoning, not the bronchitis itself. There is no evidence that dimercaprol acts on bronchitis from other causes (infectious, allergic, or chronic obstructive).
 
@@ -99,6 +99,19 @@ The prediction is supported only by a high model score and a single 1963 case re
 - Evidence of benefit in bronchitis from causes other than metal poisoning, such as preclinical or clinical studies
 - Confirmation of the approved indication for the India registration
 - Assessment of route compatibility (the product is injectable only)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1597 (dimercaprol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1597) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

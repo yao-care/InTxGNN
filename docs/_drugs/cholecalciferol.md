@@ -54,7 +54,7 @@ Cholecalciferol (vitamin D3) is a nutritional vitamin D form used for vitamin D 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cholecalciferol is a pro-hormone that is converted in the liver and kidney to active vitamin D metabolites. These metabolites support calcium and phosphate absorption and bone mineralization. Its use in vitamin D deficiency and bone-mineral disorders is the basis for the model's link to a skeletal disease.
+ChEMBL (EMBL-EBI) records the mechanism of action of cholecalciferol as: Vitamin D receptor agonist ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, cholecalciferol is a pro-hormone that is converted in the liver and kidney to active vitamin D metabolites. These metabolites support calcium and phosphate absorption and bone mineralization. Its use in vitamin D deficiency and bone-mineral disorders is the basis for the model's link to a skeletal disease.
 
 The link to this new indication is weak. Acromesomelic dysplasia, Campailla Martinelli type is an ultra-rare skeletal dysplasia of genetic origin. Vitamin D's general role in bone mineralization is only a loose, nonspecific connection. It does not address the underlying genetic defect, and no specific mechanistic pathway has been established. The very high score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical confirmation.
 
@@ -99,6 +99,19 @@ The prediction rests on model output alone, with no trials or publications for t
 - Mechanism of action data for cholecalciferol
 - Package insert warnings and contraindications from Indian labelling
 - A review of other predicted indications for the drug. For example, renal osteodystrophy has two related trials and several publications, though its evidence is indirect and overlaps with existing uses.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

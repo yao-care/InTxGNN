@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **malignant hypertensive renal dis
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, metoprolol is a beta-1 selective adrenergic blocker. Its blood-pressure-lowering effect is recorded for hypertension in the knowledge graph, and mechanistically it may be applicable to hypertensive kidney injury.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for metoprolol: "Metoprolol is a beta 1 -selective (cardioselective) adrenergic receptor blocking agent. This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a), label version 2026-03-03; accessed 2026-11-19.) Based on known information, metoprolol is a beta-1 selective adrenergic blocker. Its blood-pressure-lowering effect is recorded for hypertension in the knowledge graph, and mechanistically it may be applicable to hypertensive kidney injury.
 
 Beta-1 blockade lowers heart rate, cardiac output and renin release. Lowering blood pressure and renin activity could plausibly limit hypertensive renal damage. The high TxGNN score most likely reflects closeness to the hypertension relation already recorded for the drug, rather than new information.
 
@@ -140,6 +140,19 @@ The prediction is model-only (L5). No trial or publication directly studies meto
 | Trichotillomania | 0.9905 | L5 | Prediction only |
 
 For chronic pulmonary heart disease, the supplied evidence concerns related conditions rather than the disease itself. The level is therefore capped at L5, even though the pack scored it L4.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

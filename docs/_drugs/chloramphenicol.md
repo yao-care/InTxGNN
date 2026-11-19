@@ -56,7 +56,7 @@ There are **no clinical trials** and only **4 basic-research publications** on t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Chloramphenicol is generally known as an antibacterial that acts on the prokaryotic 50S ribosomal subunit.
+According to the Clinical Pharmacology and Microbiology sections of the US FDA-approved prescribing information for chloramphenicol: "Chloramphenicol is a broad-spectrum antibiotic originally isolated from Streptomyces venezuelae. It inhibits bacterial protein synthesis by interfering with the transfer of activated amino acids from soluble RNA to ribosomes." ([DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3), label version 2024-10-10; accessed 2026-11-19.) Chloramphenicol is generally known as an antibacterial that acts on the prokaryotic 50S ribosomal subunit.
 
 The retrieved papers for diffuse scleroderma concern transcriptional regulation of the alpha1(I) procollagen gene, Smad3/Sp1/p300 signalling and TGF-beta in scleroderma fibroblasts. They are preclinical studies of disease mechanisms and do not test chloramphenicol. No established mechanistic connection links a bacterial ribosome inhibitor to fibrotic signalling.
 
@@ -106,6 +106,18 @@ The prediction rests on a model score alone. There are no clinical trials, the o
 - Preclinical studies testing chloramphenicol directly in scleroderma models
 - Package insert warnings and contraindications from the local licence holders
 - A benefit-risk assessment addressing haematological toxicity in a chronic autoimmune condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

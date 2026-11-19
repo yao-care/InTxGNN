@@ -56,7 +56,7 @@ with **2 clinical trials** and **3 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, ropivacaine is a long-acting amide local anaesthetic that blocks voltage-gated sodium channels. It is already used to numb nerves for pain control.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ropivacaine: "Ropivacaine is a member of the amino amide class of local anesthetics and is supplied as the pure S-(-)-enantiomer. Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential." ([DailyMed: Naropin (ropivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb6583ff-cde4-4280-aa5b-0bea2b844792), label version 2026-07-17; accessed 2026-11-19.) Based on general pharmacology, ropivacaine is a long-acting amide local anaesthetic that blocks voltage-gated sodium channels. It is already used to numb nerves for pain control.
 
 In migraine, ropivacaine is used in regional nerve blocks (sphenopalatine ganglion, stellate ganglion, trigeminal and occipital branches) and in trigger point injections. Blocking pain signals and parasympathetic outflow through the trigeminovascular system may reduce peripheral and central sensitisation. The effect is local and procedural, not systemic.
 
@@ -112,6 +112,19 @@ The mechanism is plausible and a few small studies point to a possible role in m
 - Mechanism of action data
 - Assessment of route and procedural compatibility, since the proposed use is a local injection procedure and not a systemic therapy
 - A safety plan covering local anaesthetic systemic toxicity and the disease-level cautions above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Naropin (ropivacaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb6583ff-cde4-4280-aa5b-0bea2b844792) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

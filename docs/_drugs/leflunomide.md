@@ -56,7 +56,7 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on generally known pharmacology, leflunomide inhibits dihydroorotate dehydrogenase (DHODH). This blocks de novo pyrimidine synthesis and limits the proliferation of activated lymphocytes, which explains its benefit in rheumatoid and psoriatic arthritis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for leflunomide: "Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect." ([DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52), label version 2025-06-04; accessed 2026-11-19.) Based on generally known pharmacology, leflunomide inhibits dihydroorotate dehydrogenase (DHODH). This blocks de novo pyrimidine synthesis and limits the proliferation of activated lymphocytes, which explains its benefit in rheumatoid and psoriatic arthritis.
 
 A mechanistic link between these autoimmune joint diseases and a congenital limb malformation is not evident. A speculative route could run through shared developmental pathways, such as pyrimidine metabolism, cell proliferation, or limb-bud signalling. Nothing in the available data supports this. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -109,6 +109,19 @@ The prediction rests only on a high model score (L5). No clinical trials or lite
 - Package insert warnings and contraindications from the India licence documents
 - A literature and trial search specific to the predicted rare syndromes
 - A teratogenicity risk assessment for any developmental-disorder indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

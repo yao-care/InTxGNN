@@ -56,7 +56,7 @@ with **0 clinical trials** and **0 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, balsalazide is a prodrug of mesalamine (5-ASA), an anti-inflammatory agent. Its efficacy in ulcerative colitis is established, and mechanistically it may be applicable to inflammatory conditions such as gout.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for balsalazide: "Balsalazide disodium is delivered intact to the colon where it is cleaved by bacterial azoreduction to release equimolar quantities of mesalamine, which is the therapeutically active portion of the molecule, and the 4-aminobenzoyl-β-alanine carrier moiety. The carrier moiety released when balsalazide disodium is cleaved is only minimally absorbed and is largely inert." ([DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898), label version 2026-11-03; accessed 2026-11-19.) Based on known information, balsalazide is a prodrug of mesalamine (5-ASA), an anti-inflammatory agent. Its efficacy in ulcerative colitis is established, and mechanistically it may be applicable to inflammatory conditions such as gout.
 
 The known anti-inflammatory activity of 5-ASA includes inhibition of prostaglandin and leukotriene synthesis, modulation of NF-kB, and radical scavenging. These pathways could plausibly overlap with the inflammation seen in gout. This link is speculative: no direct mechanistic connection is established in the data compiled for this report, and the high score is a model output only.
 
@@ -103,6 +103,19 @@ The gout prediction rests only on a high model score. No clinical trials or lite
 - Run a systematic literature and trial search for 5-ASA or balsalazide in gout and in inflammatory arthritis
 - Evaluate route compatibility and similarity to the original indication (both still pending)
 - Consider the more biologically plausible inflammatory candidates (e.g., ankylosing spondylitis, inflammatory spondylopathy) for comparison
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

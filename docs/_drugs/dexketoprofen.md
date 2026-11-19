@@ -61,7 +61,7 @@ Note: The top-ranked prediction, tendinitis (score 0.9990), has only one indirec
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, dexketoprofen is an NSAID that inhibits cyclo-oxygenase (COX-1 and COX-2), thereby reducing prostaglandin production, inflammation and pain. Its analgesic efficacy is well established, and mechanistically it may be applicable to migraine.
+ChEMBL (EMBL-EBI) records the mechanism of action of dexketoprofen as: Cyclooxygenase inhibitor ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, dexketoprofen is an NSAID that inhibits cyclo-oxygenase (COX-1 and COX-2), thereby reducing prostaglandin production, inflammation and pain. Its analgesic efficacy is well established, and mechanistically it may be applicable to migraine.
 
 Prostaglandin-mediated neurogenic inflammation and sensitization of pain pathways contribute to migraine attacks, so COX inhibition is biologically plausible. Dexketoprofen has been tested directly in acute migraine, including placebo-controlled trials, a meta-analysis, and combination studies with the triptan frovatriptan.
 
@@ -136,11 +136,12 @@ Several randomized trials, including placebo-controlled studies, and a meta-anal
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
 
 <!-- review:end log -->
 

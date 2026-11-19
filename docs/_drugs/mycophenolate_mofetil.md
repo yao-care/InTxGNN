@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, wit
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled records. Based on known pharmacology, the active form, mycophenolic acid, inhibits inosine monophosphate dehydrogenase (IMPDH). This depletes guanosine nucleotide pools in lymphocytes.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mycophenolate mofetil: "Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite. MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis." ([DailyMed: Myhibbin (mycophenolate mofetil) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9), label version 2026-07-31; accessed 2026-11-19.) Based on known pharmacology, the active form, mycophenolic acid, inhibits inosine monophosphate dehydrogenase (IMPDH). This depletes guanosine nucleotide pools in lymphocytes.
 
 The link to HIV has two parts. First, less T-cell proliferation limits the pool of activated cells that support HIV replication. Second, shifting intracellular nucleotide ratios (lower dGTP) may boost nucleoside analogs such as abacavir and didanosine. A small case series (PMID 12352149) reported dGTP depletion and a fall in plasma HIV-1 RNA when mycophenolate was added to abacavir-containing regimens.
 
@@ -123,6 +123,19 @@ The TxGNN score is high and the mechanism (IMPDH inhibition, potentiation of nuc
 ---
 
 *Other predicted indications:* **Multiple sclerosis** (score 0.9954) has the most supporting evidence among the remaining candidates, including several small Phase 1/2 trials of mycophenolate with interferon beta-1a, a Cochrane review of mycophenolate in relapsing-remitting MS, and a 344-patient retrospective study. It remains a research question because no adequately powered Phase 3 trial exists and established disease-modifying therapies are available. The other predictions (neurodevelopmental disorder, Paget disease, feline and simian immunodeficiency, hemosiderosis, Heiner syndrome, African iron overload, neonatal hemochromatosis) have little or no supporting evidence and are on hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled records" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Myhibbin (mycophenolate mofetil) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

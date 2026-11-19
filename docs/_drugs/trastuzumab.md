@@ -59,7 +59,7 @@ This is largely a subtype of the already established HER2-positive breast cancer
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, trastuzumab binds HER2 and blocks its signalling. Its established effects include antibody-dependent cellular cytotoxicity (ADCC) and inhibition of downstream PI3K/AKT signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for trastuzumab: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), label version 2026-06-26; accessed 2026-11-19.) Based on known pharmacology, trastuzumab binds HER2 and blocks its signalling. Its established effects include antibody-dependent cellular cytotoxicity (ADCC) and inhibition of downstream PI3K/AKT signalling.
 
 HER2-positive breast cancer frequently co-occurs with hormone receptor (progesterone/estrogen receptor) positivity. Patients with PR-positive, HER2-positive tumours therefore fall within the population already treated with trastuzumab. Combining HER2 blockade with endocrine therapy is a recognised strategy in this group.
 
@@ -154,6 +154,19 @@ A completed Phase 3 RCT (NCT01275677, n=3270) and multiple randomised studies su
 - A cardiac monitoring plan (baseline and periodic LVEF assessment)
 - Review of the Major drug interactions before combination use
 - Dedicated evidence for the PR-positive/HER2-positive subgroup, since the Phase 3 trial data mainly cover the broader HER2-positive population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

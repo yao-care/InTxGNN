@@ -57,7 +57,7 @@ Eight other predictions, all mainly movement disorders, scored 0.9971 to 0.9989.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Galantamine is a known acetylcholinesterase inhibitor and a positive allosteric modulator of nicotinic receptors. Its efficacy in Alzheimer disease comes from boosting cholinergic signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for galantamine: "Although the etiology of cognitive impairment in Alzheimer’s disease (AD) is not fully understood, it has been reported that acetylcholine-producing neurons degenerate in the brains of patients with Alzheimer’s disease. The degree of this cholinergic loss has been correlated with degree of cognitive impairment and density of amyloid plaques (a neuropathological hallmark of Alzheimer’s disease). […] Galantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase." ([DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1), label version 2026-07-02; accessed 2026-11-19.) Galantamine is a known acetylcholinesterase inhibitor and a positive allosteric modulator of nicotinic receptors. Its efficacy in Alzheimer disease comes from boosting cholinergic signalling.
 
 For **psychogenic movement disorders**, there is no established link between cholinergic mechanisms and the pathophysiology of functional movement disorders. The score is a TxGNN model (deep learning) prediction only.
 
@@ -135,6 +135,19 @@ The top-ranked prediction, psychogenic movement disorders, rests on the model sc
 - Mechanism of action data (currently unavailable)
 - An assessment of whether the risk signal for drug-induced movement disorders outweighs any benefit
 - Route compatibility checks, which are still pending for all predictions (only oral tablets are currently registered)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

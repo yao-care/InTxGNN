@@ -56,7 +56,7 @@ but the supporting evidence is thin: **no clinical trials** and **1 publication*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in hypertension is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for valsartan: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213), label version 2026-08-11; accessed 2026-11-19.) Based on known information, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in hypertension is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
 
 Angiotensin II-driven vascular and renal injury is central to malignant nephrosclerosis, so blocking the AT1 receptor is a plausible approach and sits close to the original hypertension indication. The only retrieved paper, however, studies avosentan (an endothelin antagonist) in hypertensive nephropathy in rats, not valsartan. It therefore gives only indirect support.
 
@@ -124,6 +124,19 @@ The prediction score is very high (0.9997), and the AT1-blockade mechanism is pl
 - Mechanism of action data to strengthen the mechanistic-link analysis
 - Package insert warnings and contraindications from the Indian regulatory source, which are needed for safety screening
 - A safety assessment for patients with renal impairment, renal artery stenosis, or hyperkalaemia risk, given the renal focus of the lead indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

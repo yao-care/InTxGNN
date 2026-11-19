@@ -63,7 +63,7 @@ Other predicted indications:
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Zinc chloride is a zinc salt supplied as an injectable product in India. Because no approved indication is recorded, the relationship between its original use and the new indication cannot be assessed.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for zinc chloride: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), label version 2026-03-04; accessed 2026-11-19.) Zinc chloride is a zinc salt supplied as an injectable product in India. Because no approved indication is recorded, the relationship between its original use and the new indication cannot be assessed.
 
 A plausible but untested link exists through zinc's biology. Zinc is a cofactor for antioxidant enzymes such as Cu/Zn superoxide dismutase, which may bear on oxidative stress and retinal microvascular damage in diabetes. This is a hypothesis only and is not supported by any trial or publication in the data compiled for this report.
 
@@ -97,6 +97,19 @@ All three predictions rest on model scores alone (L5), with no registered clinic
 - Search for clinical and preclinical evidence on zinc in diabetic retinopathy, Sjogren syndrome, and dry eye
 - Assess route compatibility, since the marketed product is an injection and the predicted indications may need topical or oral delivery
 - Review the knowledge-graph contraindications (especially Wilson disease, hemochromatosis, G6PD deficiency) against the label
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

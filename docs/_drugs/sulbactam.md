@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bacterial arthritis**, but th
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sulbactam is an irreversible beta-lactamase inhibitor. It also has intrinsic activity against *Acinetobacter baumannii* through penicillin-binding protein (PBP) binding. When combined with ampicillin, it extends coverage to beta-lactamase-producing *Staphylococcus aureus*, *E. coli* and anaerobes.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ampicillin and sulbactam (a combination product containing sulbactam): "A wide range of beta-lactamases found in microorganisms resistant to penicillins and cephalosporins have been shown in biochemical studies with cell free bacterial systems to be irreversibly inhibited by sulbactam. Although sulbactam alone possesses little useful antibacterial activity except against the Neisseriaceae, whole organism studies have shown that sulbactam restores ampicillin activity against beta-lactamase producing strains." ([DailyMed: ampicillin and sulbactam prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4446d4c8-056d-4bc3-8f58-21255b063398), label version 2026-11-12; accessed 2026-11-19.) Based on general pharmacology, sulbactam is an irreversible beta-lactamase inhibitor. It also has intrinsic activity against *Acinetobacter baumannii* through penicillin-binding protein (PBP) binding. When combined with ampicillin, it extends coverage to beta-lactamase-producing *Staphylococcus aureus*, *E. coli* and anaerobes.
 
 These organisms are common causes of bone and joint infections. The original indications (staphylococcal and *E. coli* infections) therefore overlap with the likely pathogens of bacterial arthritis, so the link is biologically plausible.
 
@@ -116,6 +116,19 @@ The prediction is mechanistically plausible, and older small studies of ampicill
 - Review of the full text of the 1986–1989 comparative studies to confirm design and outcomes specific to septic arthritis
 - Current susceptibility data for the main arthritis pathogens in India
 - Route and dosing compatibility assessment for joint infection (sulbactam is available in India only as an injection)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ampicillin and sulbactam prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4446d4c8-056d-4bc3-8f58-21255b063398) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

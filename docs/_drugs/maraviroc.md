@@ -56,7 +56,7 @@ Among the ten predicted indications, the best-grounded hypothesis is **HER2-posi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Maraviroc is generally known as a CCR5 antagonist, a chemokine-receptor blocker. The data do not state its original indication, so the link between original and new use cannot be assessed directly.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for maraviroc: "Maraviroc is an HIV-1 antiviral drug. […] Maraviroc is a member of a therapeutic class called CCR5 co-receptor antagonists. Maraviroc selectively binds to the human chemokine receptor CCR5 present on the cell membrane, preventing the interaction of HIV-1 gp120 and CCR5 necessary for CCR5-tropic HIV-1 to enter cells." ([DailyMed: Selzentry (maraviroc) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3c52dddd-0457-41cd-99e0-d30d4fd00ec5), label version 2023-11-10; accessed 2026-11-19.) Maraviroc is generally known as a CCR5 antagonist, a chemokine-receptor blocker. The data do not state its original indication, so the link between original and new use cannot be assessed directly.
 
 For multiple endocrine neoplasia, no evidence connects CCR5 signalling to the disease. The high TxGNN score is a computational prediction only, with no trials or literature behind it.
 
@@ -110,6 +110,19 @@ The top prediction, multiple endocrine neoplasia, rests on a computational score
 - A mechanistic rationale for CCR5 in multiple endocrine neoplasia, or a decision to prioritise another candidate
 - For HER2-positive breast carcinoma, which is a reasonable research question, further preclinical work on CCL5–CCR5 blockade, followed by a review of whether early clinical studies are justified
 - A review of the major and moderate drug interactions (especially strong CYP3A inhibitors such as clarithromycin) and the liver, renal, and cardiovascular flags before any new-use study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Selzentry (maraviroc) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3c52dddd-0457-41cd-99e0-d30d4fd00ec5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

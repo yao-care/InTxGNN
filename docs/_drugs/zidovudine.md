@@ -55,7 +55,7 @@ Zidovudine is a nucleoside reverse transcriptase inhibitor, with HIV infectious 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI). Its use against HIV is recorded in the knowledge graph.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for zidovudine: "Zidovudine is an antiretroviral agent. […] Zidovudine is a synthetic nucleoside analogue. Intracellularly, zidovudine is phosphorylated to its active 5′-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84), label version 2024-11-13; accessed 2026-11-19.) Based on known pharmacology, zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI). Its use against HIV is recorded in the knowledge graph.
 
 Feline immunodeficiency virus (FIV) and feline leukemia virus (FeLV) are retroviruses that depend on reverse transcriptase, so zidovudine is biologically plausible against them. Studies in cats and in experimentally infected animals report lower plasma virus titers, reduced provirus burden, and higher CD4 counts. Some studies found that treatment did not prevent infection or the spread of the virus, and one FeLV study found no effect on circulating virus without interferon.
 
@@ -116,6 +116,19 @@ Support for feline acquired immunodeficiency syndrome comes entirely from veteri
 - Package insert warnings and contraindications from the Indian licence holders
 - Mechanism of action data
 - Haematological and mitochondrial safety data relevant to the target species
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Retrovir (zidovudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6df09f15-b102-431c-adde-d7aeef6f5d84) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

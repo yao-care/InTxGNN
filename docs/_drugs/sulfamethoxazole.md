@@ -56,7 +56,7 @@ Support is limited to **0 clinical trials** and **1 publication** (a cohort stud
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sulfamethoxazole inhibits bacterial dihydropteroate synthase and blocks folate synthesis. It is usually combined with trimethoprim, which blocks the folate pathway at a second step. This sequential blockade is plausibly relevant to bacterial conjunctivitis, an infection caused by susceptible pathogens.
+ChEMBL (EMBL-EBI) records the mechanism of action of sulfamethoxazole as: Bacterial dihydropteroate synthase inhibitor ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, sulfamethoxazole inhibits bacterial dihydropteroate synthase and blocks folate synthesis. It is usually combined with trimethoprim, which blocks the folate pathway at a second step. This sequential blockade is plausibly relevant to bacterial conjunctivitis, an infection caused by susceptible pathogens.
 
 Importantly, conjunctivitis is already listed among the drug's original indications. The high TxGNN score (0.9963) is therefore likely driven by this existing association rather than by a genuinely new finding. The mechanism link above is inferred from general knowledge, not from the supplied data.
 
@@ -106,6 +106,19 @@ Conjunctivitis is already an original indication, so this is not a true repurpos
 - Obtain mechanism of action data from DrugBank.
 - Confirm whether a distinct new indication (for example a specific subtype of contagious conjunctivitis or a topical route) is intended. If so, the route would need to be assessed, since only oral and systemic forms are marketed in India.
 - Identify clinical studies of sulfamethoxazole (or trimethoprim-sulfamethoxazole) in conjunctivitis, and weigh them against current topical antibiotic standards of care and local resistance patterns.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

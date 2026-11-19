@@ -56,7 +56,7 @@ Evidence is very thin: **0 clinical trials** and **1 publication** (an outbreak 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its drug class, levofloxacin is a fluoroquinolone that kills bacteria by inhibiting bacterial DNA replication enzymes. Because it works against a broad range of bacteria, applying it to infections of the ocular surface is plausible.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for levofloxacin: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), label version 2026-11-05; accessed 2026-11-19.) Based on its drug class, levofloxacin is a fluoroquinolone that kills bacteria by inhibiting bacterial DNA replication enzymes. Because it works against a broad range of bacteria, applying it to infections of the ocular surface is plausible.
 
 The only retrieved paper is a report of a microsporidial keratoconjunctivitis outbreak linked to swimming-pool water in Taiwan. Microsporidia are intracellular, fungi-related organisms that fluoroquinolones do not reliably treat. The paper therefore gives no support for efficacy.
 
@@ -105,6 +105,18 @@ The evidence level is L5. The only paper concerns a microsporidial outbreak, a c
 - Detailed mechanism of action data
 - A route-compatibility assessment, since only oral tablets are recorded locally and no ocular formulation is listed
 - Package insert warnings and contraindications to complete the safety screen
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

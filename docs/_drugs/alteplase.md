@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **heparin cofactor 2 deficiency**,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Alteplase belongs to the tissue plasminogen activator class. As a class, these drugs convert plasminogen to plasmin, which breaks down fibrin clots.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for alteplase: "Alteplase is an enzyme (serine protease) that has the property of fibrin-enhanced conversion of plasminogen to plasmin. It produces limited conversion of plasminogen in the absence of fibrin. Alteplase binds to fibrin in a thrombus and converts the entrapped plasminogen to plasmin, thereby initiating local fibrinolysis." ([DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9), label version 2026-01-20; accessed 2026-11-19.) Alteplase belongs to the tissue plasminogen activator class. As a class, these drugs convert plasminogen to plasmin, which breaks down fibrin clots.
 
 Heparin cofactor II deficiency is a hereditary thrombophilia, a condition that raises the risk of blood clots. In principle, alteplase could be used as a symptomatic treatment to dissolve an acute clot in such a patient. It would not correct the underlying deficiency, so it would not be disease-modifying.
 
@@ -105,6 +105,19 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the India licence holder
 - A bleeding-risk and concomitant-anticoagulant management plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

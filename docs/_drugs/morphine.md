@@ -54,7 +54,7 @@ Morphine is a mu-opioid receptor agonist, a long-established strong analgesic. T
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Morphine is a mu-opioid receptor agonist with well-established analgesic activity. A link to musculoskeletal and myofascial pain is therefore plausible in principle, because pain signalling is reduced.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for morphine: "Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine." ([DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698), label version 2026-08-14; accessed 2026-11-19.) Morphine is a mu-opioid receptor agonist with well-established analgesic activity. A link to musculoskeletal and myofascial pain is therefore plausible in principle, because pain signalling is reduced.
 
 The supporting literature is indirect, though. The retrieved papers cover opioid use in temporomandibular joint dysfunction, exercise programmes that reduce opioid use in patients with long-term opioid-treated pain, and adjunctive infiltration comparisons after surgery. Opioids are generally not recommended as first-line therapy for myofascial pain, because of dependence risk and limited efficacy in this condition. The high score is a computational prediction and does not reflect demonstrated benefit.
 
@@ -117,6 +117,18 @@ Morphine is marketed in India, and all 15 licences in the local records are vali
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications for the marketed products
 - A risk-benefit assessment covering dependence, tolerance and opioid-induced hyperalgesia in chronic use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

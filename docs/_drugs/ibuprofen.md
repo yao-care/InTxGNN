@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ibuprofen is generally known as a non-selective cyclooxygenase (COX) inhibitor with anti-inflammatory and analgesic effects, and it is established in arthritis and musculoskeletal pain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ibuprofen: "Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684), label version 2026-01-29; accessed 2026-11-19.) Ibuprofen is generally known as a non-selective cyclooxygenase (COX) inhibitor with anti-inflammatory and analgesic effects, and it is established in arthritis and musculoskeletal pain.
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a rare skeletal dysplasia caused by loss-of-function variants in the CDMP1/GDF5 gene, which disrupt cartilage and bone development. COX inhibition has no plausible way to correct this developmental defect. The prediction most likely reflects the model's network proximity to musculoskeletal and arthropathy indications rather than a biological rationale. At best, ibuprofen might relieve joint pain symptomatically, which is not a disease-modifying effect.
 
@@ -120,6 +120,19 @@ The prediction is supported only by a model score (0.9974), with no clinical tri
 - Any preclinical or clinical evidence for ibuprofen in GDF5/CDMP1-related skeletal dysplasia
 - Route and dosage-form compatibility assessment for the proposed use
 - If the aim is symptomatic pain relief, a focused review of ibuprofen in secondary joint pain in skeletal dysplasias (such as pseudoachondroplasia) may be more productive than this top-ranked candidate
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ The prediction is therefore supported mainly by the model score and a plausible 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Etoricoxib is known as a selective COX-2 inhibitor (target: PTGS2), and its efficacy in pain and inflammatory conditions is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of etoricoxib as: Cyclooxygenase-2 inhibitor ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; accessed 2026-11-19.) Etoricoxib is known as a selective COX-2 inhibitor (target: PTGS2), and its efficacy in pain and inflammatory conditions is established.
 
 COX-2-derived prostaglandins such as PGE2 are thought to contribute to neurogenic inflammation and trigeminovascular sensitization in migraine. Other NSAIDs are established in acute migraine treatment, so a mechanistic link is plausible.
 
@@ -120,6 +120,19 @@ Of the other predictions, headache disorder and trigeminal autonomic cephalalgia
 - Etoricoxib-specific controlled studies in migraine, or a systematic search of the migraine literature on COX-2 inhibitors
 - A cardiovascular, renal and cerebrovascular risk assessment for the target population
 - Consideration of headache disorders responsive to COX-2 inhibitors as a more evidence-supported starting point
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

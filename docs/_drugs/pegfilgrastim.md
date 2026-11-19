@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, pegfilgrastim is a long-acting PEGylated form of granulocyte colony-stimulating factor (G-CSF). It stimulates the growth and mobilisation of neutrophils and haematopoietic progenitor cells. Its mechanistic relationship to diabetic retinopathy has not been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pegfilgrastim: "Pegfilgrastim products are colony-stimulating factor that acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation." ([DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83), label version 2026-10-29; accessed 2026-11-19.) Based on known information, pegfilgrastim is a long-acting PEGylated form of granulocyte colony-stimulating factor (G-CSF). It stimulates the growth and mobilisation of neutrophils and haematopoietic progenitor cells. Its mechanistic relationship to diabetic retinopathy has not been established.
 
 Two speculative links can be drawn. First, dysfunction of bone marrow-derived progenitor cells is thought to impair vascular repair in diabetes, and G-CSF might influence this process. Second, neutrophil-mediated inflammation contributes to retinal vascular damage. The second point cuts the other way: G-CSF-induced neutrophilia could worsen retinal inflammation and vascular injury. The direction of effect is therefore unclear.
 
@@ -125,6 +125,19 @@ The prediction relies entirely on a high model score (0.9989). There are no clin
 - Preclinical or mechanistic evidence on G-CSF effects in the diabetic retina, including whether the effect is beneficial or harmful
 - A literature and trial search specific to G-CSF or pegfilgrastim and diabetic retinopathy
 - An assessment of whether the injectable route and dosing are compatible with a retinal indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

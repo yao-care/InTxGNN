@@ -56,7 +56,7 @@ The result is a computational signal only and should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, levomilnacipran is an SNRI, and its efficacy in major depressive disorder is established in the literature, with approval in adults.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for levomilnacipran: "The exact mechanism of the antidepressant action of levomilnacipran is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of reuptake at serotonin and norepinephrine transporters. Non-clinical studies have shown that levomilnacipran is a potent and selective serotonin and norepinephrine reuptake inhibitor (SNRI)." ([DailyMed: Fetzima (levomilnacipran hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f371258d-91b3-4b6a-ac99-434a1964c3af), label version 2024-04-30; accessed 2026-11-19.) Based on known information, levomilnacipran is an SNRI, and its efficacy in major depressive disorder is established in the literature, with approval in adults.
 
 The link to the predicted indication is weak. Benign paroxysmal torticollis of infancy is a paediatric disorder often associated with channelopathy (commonly CACNA1A variants). It is not an obvious target for serotonin and norepinephrine reuptake inhibition. Levomilnacipran is also approved only for adults. The very high score (rank 8011 in the model's ranking) reflects a computational prediction, not a demonstrated mechanistic or clinical rationale.
 
@@ -108,6 +108,19 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Preclinical or mechanistic evidence supporting use in this disorder
 - A paediatric safety assessment, given the adult-only approval
 - Consideration of more plausible candidates from the same model run, such as dysthymic disorder or agoraphobia, which are better aligned with the drug's known pharmacology
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fetzima (levomilnacipran hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f371258d-91b3-4b6a-ac99-434a1964c3af) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

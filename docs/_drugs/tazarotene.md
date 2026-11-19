@@ -56,7 +56,7 @@ but **no clinical trials or publications** currently support this specific predi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tazarotene is a topical retinoid (a RAR-beta/gamma agonist), its use in psoriasis and acne is established, and mechanistically it may be applicable to seborrheic dermatitis. This link is inferred from general knowledge of the drug class and is not confirmed by the data compiled for this report.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tazarotene: "Tazarotene is a retinoid prodrug which is converted to its active form, the carboxylic acid of tazarotene, by deesterification. Tazarotenic acid binds to all three members of the retinoic acid receptor (RAR) family: RARα, RARβ, and RARγ, but shows relative selectivity for RARβ, and RARγ and may modify gene expression." ([DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057), label version 2026-11-04; accessed 2026-11-19.) Based on known information, tazarotene is a topical retinoid (a RAR-beta/gamma agonist), its use in psoriasis and acne is established, and mechanistically it may be applicable to seborrheic dermatitis. This link is inferred from general knowledge of the drug class and is not confirmed by the data compiled for this report.
 
 Retinoids normalise keratinocyte differentiation and reduce hyperproliferation. These processes overlap with the skin pathology of psoriasis and acne, and could plausibly extend to seborrheic dermatitis, which is also an inflammatory, scaling skin condition.
 
@@ -124,11 +124,12 @@ The TxGNN score for seborrheic dermatitis is very high, but there are no clinica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057) |
 
 <!-- review:end log -->
 

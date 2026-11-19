@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **diffuse scleroderma**, but th
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ciprofloxacin is a fluoroquinolone antibacterial. Its efficacy in bacterial infections is well established, and it may be applicable to diffuse scleroderma through two indirect routes, neither of which is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for ciprofloxacin: "Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07), label version 2025-11-04; accessed 2026-11-19.) Based on known information, ciprofloxacin is a fluoroquinolone antibacterial. Its efficacy in bacterial infections is well established, and it may be applicable to diffuse scleroderma through two indirect routes, neither of which is established.
 
 1. **Possible antifibrotic effect in skin.** One publication (PMID 20507401) examined oral ciprofloxacin as an antifibrotic in the skin of scleroderma patients. Scleroderma is an autoimmune connective tissue disorder marked by microvascular injury, excessive skin fibrosis and internal organ involvement, and no effective pharmacological treatment for the fibrosis exists. The antifibrotic effect has not been confirmed clinically.
 2. **Treatment of a complication.** Small bowel bacterial overgrowth is common in systemic sclerosis (PMID 7728404), so an antibiotic may help gastrointestinal symptoms such as chronic diarrhoea and weight loss. This addresses a complication rather than the underlying disease.
@@ -121,6 +121,19 @@ The high TxGNN score (0.9987) is not backed by registered trials or confirmed cl
 - A prospective controlled trial if the antifibrotic signal is confirmed
 
 It is better seen as an extension of ciprofloxacin's existing antibacterial use than as true repurposing, and its evidence for the septicemic form is indirect.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

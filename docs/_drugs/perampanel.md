@@ -54,7 +54,7 @@ Perampanel is an AMPA-receptor antagonist originally used to treat partial (foca
 
 ## Why is This Prediction Reasonable?
 
-Perampanel is a non-competitive AMPA-receptor antagonist. It reduces glutamate-mediated excitation at postsynaptic membranes and is approved for focal-onset seizures. Detailed mechanism-of-action data were not available in the data compiled for this report, but the literature consistently describes this mechanism.
+Perampanel is a non-competitive AMPA-receptor antagonist. It reduces glutamate-mediated excitation at postsynaptic membranes and is approved for focal-onset seizures. According to the Mechanism of Action section of the US FDA-approved prescribing information for perampanel: "Perampanel is a non-competitive antagonist of the ionotropic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal over excitation." ([DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122), label version 2022-12-28; accessed 2026-11-19.) The literature consistently describes this mechanism.
 
 Visual (photosensitive or visually triggered) epilepsy is a reflex seizure type, and these seizures are plausibly driven by cortical hyperexcitability. This gives a mechanistic reason to expect benefit. Preclinical studies also show perampanel suppresses audiogenic seizures in reflex-epilepsy rodent models.
 
@@ -63,7 +63,6 @@ It is not disease-specific evidence. The retrieved literature covers general epi
 ## Clinical Trial Evidence
 
 Currently no related clinical trials are registered for visual epilepsy.
-
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -126,6 +125,19 @@ There are no trials and no disease-specific literature. Perampanel is already wi
 - Package insert warnings and contraindications from the Indian labels, along with the approved indication text
 - Detailed mechanism-of-action data
 - Consider prioritising **status epilepticus** (evidence level L3) as a better-supported research question. This depends on results from the recruiting Phase 2 trial (NCT06401707) and further controlled data, since the Phase 3 and Phase 4 studies were terminated after 1 participant each.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

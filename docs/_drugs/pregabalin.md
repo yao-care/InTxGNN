@@ -56,7 +56,7 @@ This report therefore focuses on migraine disorder as the most evidence-backed c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From known pharmacology, pregabalin binds the alpha2-delta subunit of voltage-gated calcium channels and reduces release of excitatory neurotransmitters such as glutamate. This is the basis of its use in neuropathic pain, fibromyalgia and anxiety.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pregabalin: "Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals." ([DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd), label version 2026-03-12; accessed 2026-11-19.) From known pharmacology, pregabalin binds the alpha2-delta subunit of voltage-gated calcium channels and reduces release of excitatory neurotransmitters such as glutamate. This is the basis of its use in neuropathic pain, fibromyalgia and anxiety.
 
 Migraine shares features with these conditions: central sensitization, neuronal hyperexcitability and trigeminal nociceptive transmission. Preclinical studies show that pregabalin raises the threshold for cortical spreading depression, the phenomenon underlying migraine aura. It also protects against spreading depolarization in a familial hemiplegic migraine mouse model. This makes a mechanistic link plausible.
 
@@ -132,11 +132,12 @@ Migraine disorder has the strongest support among the predictions, with randomiz
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials are small" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ There are currently **no clinical trials and no publications** supporting this d
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, arformoterol belongs to the long-acting beta-2 agonist class, which relaxes airway smooth muscle and widens the airways.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for arformoterol: "Arformoterol, the (R,R)-enantiomer of formoterol, is a selective long-acting beta 2 -adrenergic receptor agonist (beta 2 -agonist) that has two-fold greater potency than racemic formoterol (which contains both the (S,S) and (R,R)-enantiomers). The (S,S)-enantiomer is about 1,000-fold less potent as a beta 2 -agonist than the (R,R)-enantiomer." ([DailyMed: Arformoterol Tartrate Inhalation Solution (arformoterol tartrate) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c0d81db-fbf5-405f-9311-d3d78992d9a3), label version 2025-02-11; accessed 2026-11-19.) Based on general pharmacology, arformoterol belongs to the long-acting beta-2 agonist class, which relaxes airway smooth muscle and widens the airways.
 
 Hyperlucent lung is a radiologic finding rather than a distinct disease. It can reflect underlying emphysema or air trapping, so any benefit would depend on the underlying cause. A bronchodilator could plausibly ease symptoms where airflow obstruction is present, but this link is indirect. No clinical evidence supports the prediction, and the high score should be treated as a model output only.
 
@@ -94,6 +94,19 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 - Supporting clinical or observational studies in that population
 - Mechanism of action data
 - Package insert warnings and contraindications from the India label
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Arformoterol Tartrate Inhalation Solution (arformoterol tartrate) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c0d81db-fbf5-405f-9311-d3d78992d9a3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

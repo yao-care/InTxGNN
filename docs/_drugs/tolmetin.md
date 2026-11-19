@@ -56,7 +56,7 @@ However, **no clinical trials and no publications** currently support this predi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tolmetin is a non-selective COX inhibitor (NSAID). It reduces prostaglandin-mediated inflammation and pain, and its efficacy in arthritic conditions is established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for tolmetin: "Studies in animals have shown TOLECTIN (tolmetin sodium) to possess anti-inflammatory, analgesic, and antipyretic activity. In the rat, TOLECTIN prevents the development of experimentally induced polyarthritis and also decreases established inflammation." ([DailyMed: Tolectin (tolmetin sodium) prescribing information, Poly Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15467b19-e43a-5be9-e063-6294a90a3cca), label version 2025-12-30; accessed 2026-11-19.) Based on known information, tolmetin is a non-selective COX inhibitor (NSAID). It reduces prostaglandin-mediated inflammation and pain, and its efficacy in arthritic conditions is established.
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia caused by loss-of-function of CDMP1/GDF5. This defect lies in the GDF5/BMP signaling pathway, and COX inhibition has no plausible effect on it. At best, tolmetin could give symptomatic relief of joint pain, which would not modify the disease.
 
@@ -95,6 +95,19 @@ The prediction has no clinical trial or literature support (evidence level L5). 
 - Any clinical or preclinical evidence in this disease (currently none)
 - A cardiovascular, gastrointestinal and renal safety assessment for the target population, given the contraindication signals above
 - A review of the subtype predictions (rheumatoid factor-positive polyarticular JIA, spondyloarthropathy) as possible extensions of existing indications rather than new repurposing
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tolectin (tolmetin sodium) prescribing information, Poly Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15467b19-e43a-5be9-e063-6294a90a3cca) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

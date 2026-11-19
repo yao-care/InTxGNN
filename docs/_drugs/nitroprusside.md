@@ -57,7 +57,7 @@ The literature also suggests NO donors tend to *provoke* migraine rather than re
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the drug record. From general pharmacology, nitroprusside releases nitric oxide, which activates soluble guanylate cyclase, raises cGMP and relaxes vascular smooth muscle.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for nitroprusside: "Sodium nitroprusside interacts with oxyhemoglobin to produce methemoglobin, cyanide, and nitric oxide (NO). NO then reacts with guanylate cyclase in vascular smooth muscle to produce cGMP that reduces intracellular calcium concentrations resulting in relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins." ([DailyMed: Nipride Rtu (sodium nitroprusside) prescribing information, EXELA PHARMA SCIENCES, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5acf0836-93ff-4064-b888-3f560e8a558d), label version 2018-07-20; accessed 2026-11-19.) From general pharmacology, nitroprusside releases nitric oxide, which activates soluble guanylate cyclase, raises cGMP and relaxes vascular smooth muscle.
 
 The NO/cGMP and CGRP pathways are central to migraine biology. However, the direction of the link argues against benefit. NO donors such as nitroglycerin are established experimental migraine triggers, and sodium nitroprusside is used to *induce* migraine-like behaviour in the mouse models in the retrieved studies. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -122,6 +122,19 @@ The migraine prediction has no clinical trials and only preclinical or observati
 - Mechanism of action data for the record
 - A review of why the TxGNN migraine prediction conflicts with the known pro-migraine effect of NO donors
 - If pulmonary hypertension is pursued, a focused evidence review and a plan for delivery route, haemodynamic monitoring and cyanide-toxicity risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nipride Rtu (sodium nitroprusside) prescribing information, EXELA PHARMA SCIENCES, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5acf0836-93ff-4064-b888-3f560e8a558d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

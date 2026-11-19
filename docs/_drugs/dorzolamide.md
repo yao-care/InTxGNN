@@ -58,7 +58,7 @@ Dorzolamide is a topical carbonic anhydrase inhibitor sold as an eye drop. The T
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for dorzolamide is not currently available in the data compiled for this report. Pharmacology records show that dorzolamide acts on carbonic anhydrase isoforms CA1, CA7, CA12 and CA14. As an eye drop, it is applied locally and has low systemic exposure.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dorzolamide: "Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. […] Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II." ([DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea), label version 2026-11-14; accessed 2026-11-19.) Pharmacology records show that dorzolamide acts on carbonic anhydrase isoforms CA1, CA7, CA12 and CA14. As an eye drop, it is applied locally and has low systemic exposure.
 
 No plausible link was identified between carbonic anhydrase inhibition and hypotrichosis simplex of the scalp. This is an inherited disorder of the hair follicle. The high score is most likely a pattern-matching artifact of the model, with no clinical or literature support. In its current form, the prediction is a hypothesis only.
 
@@ -121,6 +121,19 @@ The prediction has a high model score (0.9995) but no supporting trials or publi
 - Detailed mechanism-of-action data
 - Package-insert warnings and contraindications
 - A formulation and route assessment, since all current products are eye drops
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for dorzolamide is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -61,7 +61,7 @@ Amifostine can itself cause hypotension, which makes this prediction hard to jus
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on published literature, amifostine is a thiophosphate prodrug. It is dephosphorylated to an active thiol that scavenges free radicals and protects normal tissue from radiation and chemotherapy damage.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for amifostine: "ETHYOL is a prodrug that is dephosphorylated by alkaline phosphatase in tissues to a pharmacologically active free thiol metabolite. This metabolite is believed to be responsible for the reduction of the cumulative renal toxicity of cisplatin and for the reduction of the toxic effects of radiation on normal oral tissues." ([DailyMed: Ethyol (amifostine) prescribing information, Legacy Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a17563f2-d231-4385-bc94-0217be78b89d), label version 2026-03-03; accessed 2026-11-19.) Based on published literature, amifostine is a thiophosphate prodrug. It is dephosphorylated to an active thiol that scavenges free radicals and protects normal tissue from radiation and chemotherapy damage.
 
 The link to hypertension is weak and indirect. The retrieved papers describe protection against doxorubicin cardiotoxicity in hypertensive rats, renal protection during radionuclide therapy, and chemotherapy-induced (mitomycin, cisplatin) pulmonary vascular injury. These point to a general organ-protective role, not to blood-pressure-lowering or treatment of hypertension.
 
@@ -142,6 +142,19 @@ The prediction rests on a model score alone. No clinical trials exist, the liter
 - Direct preclinical evidence of a blood-pressure-lowering or vascular-protective effect
 - A safety assessment of the hypotension risk and of interactions with antihypertensive drugs
 - A better-supported alternative to evaluate, such as chemotherapy-induced alopecia, which has plausible but still indirect support (full-text review of toxicity outcomes in the oncology trials is needed)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ethyol (amifostine) prescribing information, Legacy Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a17563f2-d231-4385-bc94-0217be78b89d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

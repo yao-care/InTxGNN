@@ -62,7 +62,7 @@ The evidence level is L5 even though the macaque literature is substantial. No c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, emtricitabine is a nucleoside reverse transcriptase inhibitor. It acts on the reverse transcriptase enzyme that lentiviruses need to replicate. SIV and HIV have closely related reverse transcriptases, so activity against SIV is mechanistically plausible.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for emtricitabine: "Emtricitabine is an antiretroviral drug. […] FTC, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate (FTC-TP), which inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA resulting in chain termination. FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ." ([DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f), label version 2026-11-06; accessed 2026-11-19.) Based on known pharmacology, emtricitabine is a nucleoside reverse transcriptase inhibitor. It acts on the reverse transcriptase enzyme that lentiviruses need to replicate. SIV and HIV have closely related reverse transcriptases, so activity against SIV is mechanistically plausible.
 
 The relationship between the original and predicted indications is close. SIV is the primate counterpart of HIV and is widely used as a model for HIV research. Macaque studies show that emtricitabine combined with tenofovir (TDF or TAF) protected animals from rectal and vaginal SHIV challenge. The M184V mutation, the resistance mutation associated with emtricitabine, has also been characterised in SIV.
 
@@ -134,6 +134,19 @@ The high model score (0.9992) is backed only by animal studies, mainly macaque S
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications from the India regulator
 - Approved-indication text for the India licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

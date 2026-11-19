@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **chronic rhinosinusitis**, but
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this report. Based on known information, oxytetracycline belongs to the tetracycline class of broad-spectrum antibiotics. Its efficacy in respiratory, urinary, and eye infections is established, and mechanistically it may be applicable to chronic rhinosinusitis.
+ChEMBL (EMBL-EBI) records the mechanism of action of oxytetracycline as: Bacterial 70S ribosome inhibitor ([ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, oxytetracycline belongs to the tetracycline class of broad-spectrum antibiotics. Its efficacy in respiratory, urinary, and eye infections is established, and mechanistically it may be applicable to chronic rhinosinusitis.
 
 Tetracyclines are also known to have anti-inflammatory and matrix metalloproteinase-inhibiting properties. Low-dose doxycycline, a related tetracycline, has been explored in chronic rhinosinusitis with nasal polyps. This offers a plausible bridge between the original infectious indications and the predicted sinus disease.
 
@@ -120,6 +120,19 @@ The chronic rhinosinusitis prediction is supported only by the model score (L5),
 - A comparison against standard chronic rhinosinusitis therapy
 
 **Note on an alternative candidate:** Among the other predictions, **otitis externa** has the most supporting literature. It includes randomized comparisons of topical oxytetracycline, polymyxin B, and hydrocortisone combinations against other treatments (e.g., 1985, 1990, 1993). The studies are mostly old, and several suggest that steroid alone or other antibiotics may perform comparably, so oxytetracycline's own contribution is uncertain. It would be a more tractable research question than chronic rhinosinusitis, but it is not the primary subject of this evaluation.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ Evidence is stronger for other predicted indications (for example, migraine diso
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, isoflurane is a volatile halogenated ether anaesthetic, and its efficacy in producing general anaesthesia is established. Mechanistically, it may be applicable to **Prinzmetal angina** only through an indirect link.
+ChEMBL (EMBL-EBI) records the mechanism of action of isoflurane as: Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, isoflurane is a volatile halogenated ether anaesthetic, and its efficacy in producing general anaesthesia is established. Mechanistically, it may be applicable to **Prinzmetal angina** only through an indirect link.
 
 Volatile anaesthetics have vasodilatory effects and modulate vascular smooth muscle calcium handling, which could theoretically relate to coronary vasospasm. However, isoflurane can also cause coronary vasodilation and, in some settings, coronary steal, so this link is speculative and may carry safety concerns rather than benefit. No clinical evidence supports this use.
 
@@ -135,6 +135,19 @@ The Prinzmetal angina prediction rests on a model score alone, with no clinical 
 - Preclinical or mechanistic studies of isoflurane in coronary vasospasm, including a coronary steal safety assessment
 - Route and setting feasibility assessment, since the available forms are inhaled anaesthetics for hospital use
 - Consideration of **migraine disorder** as a research question instead. It has the most supporting material (anaesthetic inhibition of spreading depression, plus anecdotal status migrainosus case reports), but it still lacks clinical trials, and use would be limited to refractory, hospitalised settings.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

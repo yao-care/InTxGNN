@@ -56,7 +56,7 @@ The prediction therefore rests almost entirely on the model score.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Ranibizumab is known as an anti-VEGF agent that is injected into the eye to treat retinal conditions with abnormal vessel growth or leakage, such as diabetic macular edema and macular degeneration.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ranibizumab: "Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110. VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, DR, DME and macular edema following RVO." ([DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a), label version 2026-11-05; accessed 2026-11-19.) Ranibizumab is known as an anti-VEGF agent that is injected into the eye to treat retinal conditions with abnormal vessel growth or leakage, such as diabetic macular edema and macular degeneration.
 
 The link to mature cataract is weak. Cataract is an opacity of the lens, and there is no recognised VEGF-driven mechanism by which ranibizumab would clear or prevent it. The two papers retrieved describe ranibizumab given alongside cataract surgery in eyes that also have diabetic macular edema, where the drug treats the retinal problem and not the cataract. The other paper describes rapid cataract progression after a dexamethasone implant, which is a different drug.
 
@@ -104,6 +104,19 @@ The prediction for mature cataract is supported only by a model score. No clinic
 - Package insert warnings and contraindications for the Indian products (Lucentis, Razumab)
 - Any direct preclinical or clinical study of ranibizumab for cataract itself, as opposed to cataract surgery combined with retinal treatment
 - Review of the knowledge-graph contraindication relations (eye infection, conjunctivitis) against official labelling
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

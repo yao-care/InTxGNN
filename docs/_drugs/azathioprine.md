@@ -56,10 +56,9 @@ but there are **0 clinical trials** and **0 publications** supporting this predi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, azathioprine is a thiopurine immunosuppressant, and its efficacy in rheumatoid arthritis and other immune-mediated conditions is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of azathioprine as: Amidophosphoribosyltransferase inhibitor; DNA inhibitor ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, azathioprine is a thiopurine immunosuppressant, and its efficacy in rheumatoid arthritis and other immune-mediated conditions is established.
 
 For this specific prediction, however, no plausible mechanistic link could be identified. The predicted condition is a rare developmental malformation syndrome. Azathioprine's immunosuppressive, purine-antimetabolite action has no known relevance to its underlying biology. The very high score from the TxGNN model (deep learning) (1.0000) may reflect similarities the model learned between related diseases, not biological evidence.
-
 
 ## Clinical Trial Evidence
 
@@ -101,6 +100,19 @@ The prediction has no supporting trials or literature (Evidence Level L5) and no
 - Detailed mechanism of action data for azathioprine
 - Package insert warnings and contraindications for the India-marketed products
 - Consideration of TPMT/NUDT15 genotyping and blood count and liver monitoring as guardrails
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

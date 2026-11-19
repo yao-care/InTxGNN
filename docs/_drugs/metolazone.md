@@ -55,7 +55,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, metolazone is a thiazide-like diuretic, its use in hypertension is established, and mechanistically it may lower blood pressure through sodium and volume reduction.
+ChEMBL (EMBL-EBI) records the mechanism of action of metolazone as: Thiazide-sensitive sodium-chloride cotransporter inhibitor ([ChEMBL CHEMBL878 (metolazone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL878), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, metolazone is a thiazide-like diuretic, its use in hypertension is established, and mechanistically it may lower blood pressure through sodium and volume reduction.
 
 Malignant renovascular hypertension is a severe form of hypertension. It is driven largely by activation of the renin-angiotensin system due to renal artery stenosis. This makes the link to the original indication only partial. Thiazide-like diuretics can further stimulate renin, which could work against the intended effect in this setting. The high score most likely reflects the model's similarity to the parent hypertension indication rather than a specific mechanistic fit.
 
@@ -106,6 +106,19 @@ The prediction is supported only by the model score, with no clinical trials or 
 - Mechanism of action data for metolazone
 - Clinical or mechanistic studies of thiazide-like diuretics in renovascular or malignant hypertension
 - Assessment of similarity to the original indication and of route compatibility
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL878 (metolazone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL878) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

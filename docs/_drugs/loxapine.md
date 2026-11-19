@@ -57,7 +57,7 @@ Because bipolar disorder is already a listed original indication, this is better
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Loxapine is a dibenzoxazepine antipsychotic. It is known to block dopamine D2 and serotonin 5-HT2A receptors, which is the pharmacology used to control mania and agitation.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for loxapine: "Pharmacologically, loxapine is an antipsychotic for which the exact mode of action has not been established. However, changes in the level of excitability of subcortical inhibitory areas have been observed in several animal species in association with such manifestations of tranquilization as calming effects and suppression of aggressive behavior." ([DailyMed: loxapine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e412c36-66b0-444b-833b-cea79976844e), label version 2026-11-03; accessed 2026-11-19.) Loxapine is a dibenzoxazepine antipsychotic. It is known to block dopamine D2 and serotonin 5-HT2A receptors, which is the pharmacology used to control mania and agitation.
 
 Mania and schizophrenia share psychotic and agitated features that respond to dopamine antagonism. Bipolar disorder is already among loxapine's original indications. An inhaled formulation (Adasuve) is approved in the USA and EU for acute agitation associated with bipolar I disorder or schizophrenia, and the literature supports this use. The prediction is therefore mechanistically sound, though it largely restates existing knowledge.
 
@@ -110,6 +110,19 @@ Loxapine's D2/5-HT2A antagonism fits the treatment of mania and agitation, and b
 - A safety monitoring plan covering the large interaction burden, bronchospasm risk, sedation, extrapyramidal symptoms and QT effects
 
 **Other predictions (all Hold):** The nine other predicted indications are retinal dystrophy, hydranencephaly, X-linked myopia (three entries), congenital disorder of glycosylation, Charcot-Marie-Tooth type 1G, perisylvian polymicrogyria and atypical glycine encephalopathy. For the myopia entries, D2 antagonism is expected to be unhelpful or counterproductive.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: loxapine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e412c36-66b0-444b-833b-cea79976844e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ Doripenem is a carbapenem antibiotic. The TxGNN model (deep learning) predicts i
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Doripenem is a carbapenem antibiotic, a class that works by inhibiting bacterial cell wall synthesis. Its use in the biliary and urinary tract infections recorded in the knowledge graph fits that antibacterial action.
+ChEMBL (EMBL-EBI) records the mechanism of action of doripenem as: Bacterial penicillin-binding protein inhibitor ([ChEMBL CHEMBL491571 (doripenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL491571), CC BY-SA 3.0; accessed 2026-11-19.) Doripenem is a carbapenem antibiotic, a class that works by inhibiting bacterial cell wall synthesis. Its use in the biliary and urinary tract infections recorded in the knowledge graph fits that antibacterial action.
 
 Hepatoportal sclerosis is a non-infectious vascular disorder of the liver that causes noncirrhotic portal hypertension. Nothing in the data compiled for this report supports a mechanistic link between an antibacterial agent and this disease. The high score (0.9900) comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, such as the hepatobiliary original indications (cholecystitis, cholelithiasis), not biological evidence, and it has not been biologically validated.
 
@@ -100,6 +100,19 @@ The prediction has no supporting clinical trials or publications, and no plausib
 - A systematic literature search for any direct clinical or preclinical studies in this disease
 - Package insert warnings and contraindications from Indian regulatory sources
 - Evidence that the score reflects more than the similarities the TxGNN model (deep learning) learned between related hepatobiliary diseases
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL491571 (doripenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL491571) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

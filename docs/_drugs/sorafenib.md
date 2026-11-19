@@ -56,7 +56,7 @@ The only trial of any relevance is **1 Phase 2 trial** in advanced soft tissue s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. From what is known about the drug class, sorafenib inhibits the RAF/MEK/ERK pathway and the VEGFR and PDGFR receptors. Angiogenesis and MAPK signaling matter in several soft tissue sarcomas, and laboratory work shows sorafenib can slow growth and MAPK signaling in sarcoma-related cell models, including a dedifferentiated liposarcoma cell line studied alongside nerve sheath tumor cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sorafenib: "Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)." ([DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0), label version 2023-08-28; accessed 2026-11-19.) From what is known about the drug class, sorafenib inhibits the RAF/MEK/ERK pathway and the VEGFR and PDGFR receptors. Angiogenesis and MAPK signaling matter in several soft tissue sarcomas, and laboratory work shows sorafenib can slow growth and MAPK signaling in sarcoma-related cell models, including a dedifferentiated liposarcoma cell line studied alongside nerve sheath tumor cells.
 
 The fit is only partial. Liposarcoma is typically driven by MDM2/CDK4 amplification rather than by the targets of sorafenib, and activity in soft tissue sarcoma appears to depend on tumor histology. The prediction is therefore a hypothesis rather than a supported use.
 
@@ -118,6 +118,18 @@ No study has tested sorafenib in liposarcoma. The available trials enroll soft t
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications from the Indian regulatory sources
 - A safety and interaction review for the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

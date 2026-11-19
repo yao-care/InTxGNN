@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **gaze palsy, familial horizont
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Risperidone is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for risperidone: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), label version 2026-10-23; accessed 2026-11-19.) Risperidone is generally understood to act through dopamine D2 and serotonin 5-HT2A receptor antagonism.
 
 The predicted disease is a rare inherited disorder of horizontal eye movement with progressive scoliosis, linked to the ROBO3 gene. It has no plausible dopaminergic or serotonergic target that risperidone would act on, and no mechanistic link has been established. The high score is therefore best treated as a statistical output of the model rather than a biologically grounded signal.
 
@@ -96,6 +96,18 @@ The prediction has a high model score but no clinical trials, no publications an
 - Any biological rationale linking risperidone's receptor pharmacology to ROBO3-related horizontal gaze palsy
 - Mechanism of action data and package insert safety information
 - Preclinical or clinical studies directly addressing this disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

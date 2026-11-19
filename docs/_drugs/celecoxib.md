@@ -60,7 +60,7 @@ The score is high, but there are **0 clinical trials** and **0 publications** su
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Celecoxib is known as a selective COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain. It is proven in several inflammatory arthropathies.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for celecoxib: "Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro." ([DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d), label version 2025-07-31; accessed 2026-11-19.) Celecoxib is known as a selective COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain. It is proven in several inflammatory arthropathies.
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a rare genetic skeletal dysplasia caused by loss-of-function variants in the *CDMP1/GDF5* gene. The underlying defect is in BMP/GDF signalling, which controls limb bone growth. COX-2 inhibition is not known to act on this pathway, and no clear mechanistic link was identified.
 
@@ -117,6 +117,18 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Detailed mechanism of action data for celecoxib
 - Package insert warnings and contraindications from the Indian labels
 - A safety assessment relevant to the likely patient population, including paediatric use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

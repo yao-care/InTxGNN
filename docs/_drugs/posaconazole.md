@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **pneumocystosis** (Pneumocysti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for the original record is not available. Based on known pharmacology, posaconazole is a triazole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis. Its efficacy against moulds and yeasts such as Aspergillus and Candida is well established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for posaconazole: "Posaconazole is an azole antifungal agent. […] Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84), label version 2026-02-13; accessed 2026-11-19.) Based on known pharmacology, posaconazole is a triazole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis. Its efficacy against moulds and yeasts such as Aspergillus and Candida is well established.
 
 The link to pneumocystosis is weak. *Pneumocystis jirovecii* has little or no ergosterol in its membrane and relies on cholesterol-type sterols scavenged from the host, so the azole target is largely absent. Posaconazole is not an established treatment for Pneumocystis pneumonia; first-line therapy remains trimethoprim-sulfamethoxazole.
 
@@ -132,6 +132,19 @@ The prediction rests only on a model score. The biological rationale is weak bec
 - Verified mechanism of action data
 - Approved indication text for the Indian registrations
 - A drug-interaction management plan, given the many Major and Moderate interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data for the original record is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, quetiapine is an atypical antipsychotic. Its efficacy in schizophrenia and bipolar disorder is established. Its receptor pharmacology is generally described as dopamine D2 and serotonin 5-HT2A antagonism, with histamine H1 and alpha-1 adrenergic blockade.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for quetiapine: "The mechanism of action of quetiapine in the listed indications is unclear. However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2A (5HT 2A ) antagonism." ([DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933), label version 2026-10-08; accessed 2026-11-19.) Based on known information, quetiapine is an atypical antipsychotic. Its efficacy in schizophrenia and bipolar disorder is established. Its receptor pharmacology is generally described as dopamine D2 and serotonin 5-HT2A antagonism, with histamine H1 and alpha-1 adrenergic blockade.
 
 Inherited retinal dystrophies are genetic degenerative conditions of the retina. From the data compiled for this report, no plausible mechanistic link can be established between quetiapine's receptor pharmacology and the pathology of these conditions. The high score (rank 7,551 in the model's overall ranking) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should be treated as a hypothesis only.
 
@@ -123,6 +123,19 @@ For context, among the top 10 predicted indications, **trichotillomania** (score
 - A literature and preclinical search specific to retinal dystrophy, to show any biological plausibility
 - Package insert warnings and contraindications from Indian regulatory sources, for safety screening
 - If a better-supported candidate is wanted, a more focused evaluation of trichotillomania, starting with a verified review of the case-level evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

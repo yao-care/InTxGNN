@@ -56,7 +56,7 @@ However, **no clinical trials and no publications** in the data compiled for thi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Pitavastatin belongs to the statin class, which lowers LDL cholesterol by inhibiting HMG-CoA reductase. Its recorded link is to inherited lipid disorders, so a connection to another inherited lipid-metabolism condition is biologically adjacent.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pitavastatin: "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases." ([DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2), label version 2026-03-31; accessed 2026-11-19.) Pitavastatin belongs to the statin class, which lowers LDL cholesterol by inhibiting HMG-CoA reductase. Its recorded link is to inherited lipid disorders, so a connection to another inherited lipid-metabolism condition is biologically adjacent.
 
 CETP deficiency is a genetic condition marked by high HDL cholesterol and altered lipoprotein metabolism. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a demonstrated therapeutic need. CETP deficiency is generally not associated with raised cardiovascular risk that would call for statin treatment, and the mechanistic link is therefore weak. No trial or publication supports the pairing.
 
@@ -101,6 +101,19 @@ The prediction rests only on a high model score. There are no trials or publicat
 - Genetic and clinical validation, such as a pilot study or a review of existing patient cohorts
 
 **Note on other candidates:** Among the other predictions for this drug, **HIV infectious disease** has substantial supporting evidence, including a published randomised trial (REPRIEVE) and several follow-up studies. That benefit is primary prevention of cardiovascular disease in people with HIV, not treatment of the infection itself. It could be evaluated as a separate report, with attention to interactions with antiretrovirals.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

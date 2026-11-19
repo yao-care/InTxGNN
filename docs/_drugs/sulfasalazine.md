@@ -60,7 +60,7 @@ This report therefore focuses on osteoarthritis (rank 5), as the most credible c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, sulfasalazine is an anti-inflammatory agent with demonstrated efficacy in inflammatory arthritis and bowel disease. It is thought to act partly through NF-kB inhibition and, in the preclinical literature, through inhibition of the cystine/glutamate antiporter (system xc-/xCT), which is linked to ferroptosis.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for sulfasalazine: "The mode of action of sulfasalazine (SSZ) or its metabolites, 5-aminosalicylic acid (5-ASA) and sulfapyridine (SP), may be related to the anti-inflammatory and/or immunomodulatory properties that have been observed in animal and in vitro models, to its affinity for connective tissue, and/or to the relatively high concentration it reaches in serous fluids, the liver and intestinal walls, as demonstrated in autoradiographic studies in animals. In ulcerative colitis, clinical studies utilizing rectal administration of SSZ, SP and 5-ASA have indicated that the major therapeutic action may reside in the 5-ASA moiety." ([DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1), label version 2026-10-27; accessed 2026-11-19.) Based on known information, sulfasalazine is an anti-inflammatory agent with demonstrated efficacy in inflammatory arthritis and bowel disease. It is thought to act partly through NF-kB inhibition and, in the preclinical literature, through inhibition of the cystine/glutamate antiporter (system xc-/xCT), which is linked to ferroptosis.
 
 For **osteoarthritis**, the link is plausible but unproven. Preclinical studies show that:
 - Sulfasalazine blocked release of proteoglycan and collagen from cytokine-stimulated cartilage and down-regulated metalloproteinases (PMID 19690126).
@@ -144,6 +144,19 @@ Additional information available:
 - The package insert, to complete warnings and contraindications and confirm approved indications (a blocking gap for safety screening).
 - Human data for osteoarthritis, such as a pilot or proof-of-concept trial, ideally exploring local delivery (e.g., sulfasalazine-hyaluronic acid) to limit systemic exposure.
 - Evaluation of the safety profile in an osteoarthritis population, considering the knowledge-graph contraindications (neutropenia, agranulocytosis, aplastic anemia, G6PD deficiency, slow acetylators) and the NSAID interactions that matter in osteoarthritis care.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

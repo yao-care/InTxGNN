@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **acne (disease)**, but only **
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Clotrimazole is generally known as an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase), and it has reported antimicrobial and anti-inflammatory activity on skin.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for clotrimazole: "Clotrimazole is a broad-spectrum antifungal agent that inhibits the growth of pathogenic yeasts by altering the permeability of cell membranes. The action of clotrimazole is fungistatic at concentrations of drug up to 20 mcg/mL and may be fungicidal in vitro against Candida albicans and other species of the genus Candida at higher concentrations." ([DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f), label version 2025-03-27; accessed 2026-11-19.) Clotrimazole is generally known as an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase), and it has reported antimicrobial and anti-inflammatory activity on skin.
 
 A possible link to acne is through reducing Malassezia or other microbial burden on the skin and through anti-inflammatory effects. However, acne is driven mainly by sebum production, follicular hyperkeratinization, and *Cutibacterium acnes*. The mechanistic fit is therefore indirect.
 
@@ -117,6 +117,18 @@ The only related trial tested a three-drug combination, is suspended and has no 
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for the relevant formulations
 - Confirmation that a suitable topical formulation and route fit acne treatment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

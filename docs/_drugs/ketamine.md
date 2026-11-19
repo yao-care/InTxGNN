@@ -60,7 +60,7 @@ with **9 clinical trials** and **20 publications** currently supporting this dir
 
 ## Why is This Prediction Reasonable?
 
-Ketamine is an NMDA receptor antagonist. Currently, detailed mechanism of action data is not available in the data compiled for this report, so the following explanation rests on general pharmacology rather than the supplied record.
+Ketamine is an NMDA receptor antagonist. According to the Mechanism of Action section of the US FDA-approved prescribing information for ketamine: "KETALAR, a racemic mixture of ketamine, is a non-selective, non-competitive antagonist of the N-methyl-D-aspartate (NMDA) receptor, an ionotropic glutamate receptor. The major circulating metabolite of ketamine (norketamine) demonstrated activity at the same receptor with less affinity." ([DailyMed: Ketalar (ketamine hydrochloride) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063), label version 2026-03-27; accessed 2026-11-19.) The following explanation rests on general pharmacology rather than the supplied record.
 
 Glutamatergic signalling and central sensitisation contribute to migraine, cluster headache and other chronic headache disorders. Blocking NMDA receptors may dampen cortical spreading depression and trigeminovascular pain transmission. At sub-dissociative doses, ketamine also produces analgesia by modulating descending pain pathways.
 
@@ -138,6 +138,19 @@ Ketamine is already widely marketed in India, and several completed randomised a
 - Approved indication text for the Indian licences
 - A patient-selection and monitoring plan for people with hypertension, cardiovascular or cerebrovascular disease, raised intracranial pressure, or substance-use history
 - An assessment of dose, route and setting (emergency department vs infusion centre), since no route compatibility analysis has been completed
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ketalar (ketamine hydrochloride) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=14e8f864-8b8a-4e7e-8439-e510d3107063) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

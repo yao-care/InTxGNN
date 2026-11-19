@@ -56,7 +56,7 @@ The prediction overlaps heavily with existing indications, so it is best treated
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, phenylephrine is an alpha-1 adrenergic agonist. It constricts the blood vessels of the nasal mucosa, which reduces swelling, congestion and mucosal bleeding.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for phenylephrine: "Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist." ([DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be), label version 2026-03-31; accessed 2026-11-19.) Based on known pharmacology, phenylephrine is an alpha-1 adrenergic agonist. It constricts the blood vessels of the nasal mucosa, which reduces swelling, congestion and mucosal bleeding.
 
 This is closely aligned with its established uses in rhinitis, nasopharyngitis and the common cold. "Nasal cavity disease" is a broad category that largely overlaps with these existing indications, which likely explains the very high TxGNN score. It therefore adds little repurposing novelty.
 
@@ -119,6 +119,19 @@ The predicted indication largely overlaps with phenylephrine's existing nasal de
 - Approved-indication text for the India licences
 - Prospective or controlled clinical data in specific nasal cavity diseases (for example, use during endoscopic sinus surgery) that goes beyond current approved uses
 - Cardiovascular safety assessment for hypertensive and other at-risk populations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

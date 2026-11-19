@@ -56,7 +56,7 @@ Support is limited to **8 publications** (case reports, reviews and small clinic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Alprostadil is prostaglandin E1 (PGE1). Published clinical literature describes it relaxing the smooth muscle of the ductus arteriosus, which dilates the duct and keeps it open.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for alprostadil: "Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase." ([DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98), label version 2024-05-13; accessed 2026-11-19.) Alprostadil is prostaglandin E1 (PGE1). Published clinical literature describes it relaxing the smooth muscle of the ductus arteriosus, which dilates the duct and keeps it open.
 
 In newborns whose circulation depends on an open duct, such as those with certain obstructive aortic arch lesions (for example interrupted aortic arch), keeping the duct patent supports blood flow until surgery. The literature includes an infant with interrupted aortic arch type B who received alprostadil to hold the duct open before single-stage repair.
 
@@ -108,6 +108,18 @@ Published reports support alprostadil for keeping the duct open in infants with 
 - Mechanism of action data
 - Controlled clinical data on aortic malformation specifically
 - A neonatal infusion monitoring plan covering duration, gastric outlet and electrolyte effects
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -56,7 +56,7 @@ Support is limited: **no registered clinical trials** and **9 publications**, mo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Pimozide is known to be a dopamine D2 receptor antagonist, and its efficacy in Tourette syndrome is established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for pimozide: "Pharmacodynamic Actions Pimozide tablets, are an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity." ([DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280), label version 2026-08-12; accessed 2026-11-19.) Pimozide is known to be a dopamine D2 receptor antagonist, and its efficacy in Tourette syndrome is established.
 
 Trichotillomania and Tourette syndrome share features of repetitive, habit-like behaviour. Both are thought to involve dopaminergic dysregulation in cortico-striatal-thalamic circuits. A 1992 study (PMID 1532960) reported that low-dose pimozide added to serotonin reuptake inhibitors was helpful in trichotillomania. A dermatology review (PMID 15554735) also covers pimozide use in related psychodermatologic conditions.
 
@@ -111,6 +111,19 @@ Support for trichotillomania is limited to a small 1992 augmentation study and r
 - Detailed mechanism of action data
 - Modern controlled trial data for pimozide in trichotillomania, with a comparison against current options (SSRIs, N-acetylcysteine, olanzapine, behavioural therapy)
 - A cardiac (QT/ECG) monitoring and drug interaction management plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

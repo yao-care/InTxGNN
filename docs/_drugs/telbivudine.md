@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Published literature describes telbivudine as a thymidine nucleoside analogue that selectively inhibits HBV DNA polymerase. Its efficacy in chronic hepatitis B is well established.
+ChEMBL (EMBL-EBI) records the mechanism of action of telbivudine as: DNA polymerase/reverse transcriptase inhibitor ([ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731), CC BY-SA 3.0; accessed 2026-11-19.) Published literature describes telbivudine as a thymidine nucleoside analogue that selectively inhibits HBV DNA polymerase. Its efficacy in chronic hepatitis B is well established.
 
 The mechanistic link to hepatitis C is weak. HCV replicates through an RNA-dependent RNA polymerase (NS5B), which differs structurally and functionally from HBV DNA polymerase. HCV is now treated with direct-acting antivirals. The high score most likely reflects similarities the TxGNN model (deep learning) learned between related diseases, since both are chronic viral hepatitis, not biological evidence. It does not reflect demonstrated antiviral activity.
 
@@ -112,6 +112,19 @@ The prediction rests only on model score. There are no clinical trials, no plaus
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the India registrations
 - A clear comparison against current direct-acting antiviral regimens to justify any clinical development
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL374731 (telbivudine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374731) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

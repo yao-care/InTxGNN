@@ -56,7 +56,7 @@ but **no clinical trials and no drug-specific publications** currently support t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, moxonidine is a centrally acting antihypertensive that lowers blood pressure by reducing sympathetic outflow. It is understood to act as an imidazoline I1 / alpha-2 adrenergic agonist, and pharmacology data show it binds the alpha-2A, alpha-2B and alpha-2C adrenoceptors.
+ChEMBL (EMBL-EBI) records the mechanism of action of moxonidine as: Nischarin agonist ([ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, moxonidine is a centrally acting antihypertensive that lowers blood pressure by reducing sympathetic outflow. It is understood to act as an imidazoline I1 / alpha-2 adrenergic agonist, and pharmacology data show it binds the alpha-2A, alpha-2B and alpha-2C adrenoceptors.
 
 No plausible link between this mechanism and hair follicle biology or the genes behind hereditary hypotrichosis (e.g., CDSN, APCDD1) is evident. The original indication (hypertension) and the predicted indication (a hereditary hair-growth disorder) are unrelated. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction cannot be mechanistically verified.
 
@@ -115,6 +115,19 @@ The prediction rests solely on a computational score (0.9995) with no clinical t
 - Package insert warnings and contraindications from the India registrations, to enable safety screening
 - A targeted literature search on moxonidine and hair follicle biology or hair loss
 - For a more credible alternative direction, preclinical or literature follow-up on primary hereditary glaucoma (intraocular pressure effects of I1 / alpha-2 agonists)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL19236 (moxonidine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19236) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

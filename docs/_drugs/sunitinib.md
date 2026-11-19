@@ -56,7 +56,7 @@ with **2 clinical trials** (both Phase 2, completed) and **9 publications** comp
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, sunitinib is a multitargeted tyrosine kinase inhibitor that acts on VEGFR, PDGFR and KIT. Its efficacy in renal cell carcinoma and GIST is established, and mechanistically it may be applicable to sarcomas through anti-angiogenic and PDGFR-blocking effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sunitinib: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), label version 2026-02-20; accessed 2026-11-19.) Based on known information, sunitinib is a multitargeted tyrosine kinase inhibitor that acts on VEGFR, PDGFR and KIT. Its efficacy in renal cell carcinoma and GIST is established, and mechanistically it may be applicable to sarcomas through anti-angiogenic and PDGFR-blocking effects.
 
 The link to liposarcoma is indirect, however. Liposarcoma is a heterogeneous disease (well-differentiated/dedifferentiated, myxoid and pleomorphic subtypes). Its drivers include MDM2/CDK4 amplification and the FUS-DDIT3 fusion, which are not the main targets of sunitinib. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as general soft tissue sarcoma activity, not biological evidence or a direct mechanism.
 
@@ -129,6 +129,19 @@ The two completed Phase 2 trials are single-arm and enrolled mixed sarcoma popul
 - India package insert warnings and contraindications, to complete safety screening
 - Comparison against established sarcoma options such as trabectedin
 - A cardiac and hepatic safety monitoring plan, given the QT, heart failure and liver-injury signals
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

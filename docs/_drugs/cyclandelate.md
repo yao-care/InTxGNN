@@ -57,7 +57,7 @@ No clinical trials or publications directly studying this use were found, so the
 
 ## Why is This Prediction Reasonable?
 
-Cyclandelate relaxes vascular smooth muscle directly. It is also reported to have calcium-antagonist-like activity. Detailed mechanism-of-action data are not available in the compiled data, so this description comes from general pharmacological knowledge.
+Cyclandelate relaxes vascular smooth muscle directly. It is also reported to have calcium-antagonist-like activity. ChEMBL (EMBL-EBI) records the mechanism of action of cyclandelate as: Unknown ([ChEMBL CHEMBL1480987 (cyclandelate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1480987), CC BY-SA 3.0; accessed 2026-11-19.) This description comes from general pharmacological knowledge.
 
 Vasospasm of the coronary arteries is the core pathophysiology of Prinzmetal angina. Drugs that relax vascular smooth muscle and limit calcium-driven contraction are therefore mechanistically plausible candidates. Calcium-channel blockers are a recognised treatment approach for this condition.
 
@@ -107,6 +107,18 @@ The mechanistic rationale is reasonable, because coronary vasospasm is the core 
 - Package insert warnings and contraindications, to complete the safety review, especially for patients with low blood pressure or taking other vasodilators
 - A dose and formulation assessment against the existing marketed oral capsules and tablets
 - If early evidence is supportive, a small proof-of-concept study with careful blood-pressure monitoring
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1480987 (cyclandelate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1480987) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

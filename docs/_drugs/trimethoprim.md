@@ -56,7 +56,7 @@ A second prediction, conjunctivitis, has **19 publications** but no registered t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trimethoprim is a dihydrofolate reductase inhibitor. It blocks bacterial folate synthesis and is active against common bacterial pathogens. It is used in ophthalmic solutions, usually combined with polymyxin B, for bacterial conjunctivitis and blepharoconjunctivitis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for trimethoprim: "Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase. This binding is very much stronger for the bacterial enzyme than for the corresponding mammalian enzyme." ([DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597), label version 2026-11-15; accessed 2026-11-19.) Based on known information, trimethoprim is a dihydrofolate reductase inhibitor. It blocks bacterial folate synthesis and is active against common bacterial pathogens. It is used in ophthalmic solutions, usually combined with polymyxin B, for bacterial conjunctivitis and blepharoconjunctivitis.
 
 The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as punctate epithelial keratoconjunctivitis and conjunctivitis, not biological evidence. However, this condition is often viral (e.g., adenoviral) or immune-mediated. An antibacterial mechanism would therefore have limited relevance, and the link is speculative.
 
@@ -117,6 +117,19 @@ The TxGNN score for punctate epithelial keratoconjunctivitis is very high, but t
 - Targeted literature and trial searches for punctate epithelial keratoconjunctivitis, including its causes (bacterial vs viral)
 - Verification of the design and results of the two ophthalmic solution studies (PMIDs 19043945 and 6204534)
 - Assessment of ophthalmic formulation availability, since the registered products are oral tablets only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: trimethoprim prescribing information, SQUARE PHARMACEUTICALS PLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53ccf1b-315f-4454-824e-f69769908597) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -57,7 +57,7 @@ Currently **18 publications** support this direction, including a double-blind, 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known class pharmacology, iloperidone is an atypical antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors. It is a benzisoxazole, structurally related to risperidone.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for iloperidone: "The mechanism of action of iloperidone in schizophrenia and bipolar I disorder is unknown. However, the efficacy of iloperidone could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2 (5-HT 2 ) antagonism." ([DailyMed: Fanapt (iloperidone) prescribing information, Vanda Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f60b40-3fca-11de-8f56-0002a5d5c51b), label version 2026-05-06; accessed 2026-11-19.) Based on known class pharmacology, iloperidone is an atypical antipsychotic that blocks dopamine D2 and serotonin 5-HT2A receptors. It is a benzisoxazole, structurally related to risperidone.
 
 Schizophrenia and bipolar mania share psychotic and behavioural symptoms, and other atypical antipsychotics are already used for acute mania. This makes it mechanistically plausible that iloperidone works in mania too.
 
@@ -119,6 +119,19 @@ A 2024 phase 3 placebo-controlled study, supported by reviews describing a new U
 - Mechanism of action data from DrugBank
 - Indication text and warnings from the India package insert (CDSCO-approved labelling)
 - A safety monitoring plan covering QTc, metabolic parameters, orthostatic hypotension and interacting medicines
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fanapt (iloperidone) prescribing information, Vanda Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33f60b40-3fca-11de-8f56-0002a5d5c51b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

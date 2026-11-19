@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **rheumatoid nodulosis**, but t
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tretinoin is a retinoid, its efficacy in acne and acute promyelocytic leukemia is established, and it may mechanistically be applicable to immune-mediated conditions through general retinoid effects on immune cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tretinoin: "Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo. In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR)." ([DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9), label version 2026-08-20; accessed 2026-11-19.) Based on known information, tretinoin is a retinoid, its efficacy in acne and acute promyelocytic leukemia is established, and it may mechanistically be applicable to immune-mediated conditions through general retinoid effects on immune cells.
 
 The data compiled for this report notes that retinoic acid has immunomodulatory activity, for example effects on the Th17/Treg balance. However, no specific link to rheumatoid nodulosis is supported by the available data. The relationship between the original indications (skin and blood disorders) and the predicted indication (a nodular complication of rheumatoid arthritis) is not yet characterised.
 
@@ -131,6 +131,19 @@ The prediction is supported only by the model score (0.9984), with no clinical t
 - Literature and trial searches specific to retinoids in rheumatoid nodulosis and related rheumatoid or juvenile arthritis conditions
 - A defined route and formulation, since oral and topical products are both marketed and the required route for the new indication is not yet established
 - A risk assessment of the teratogenicity and the knowledge-graph contraindications for the target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Tramadol is generally understood as an analgesic acting through mu-opioid receptor agonism and serotonin/noradrenaline reuptake inhibition. Its use in osteoarthritis pain is symptomatic relief rather than disease modification.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tramadol: "Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin. Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin." ([DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9), label version 2026-01-23; accessed 2026-11-19.) Tramadol is generally understood as an analgesic acting through mu-opioid receptor agonism and serotonin/noradrenaline reuptake inhibition. Its use in osteoarthritis pain is symptomatic relief rather than disease modification.
 
 The predicted disease is a rare genetic skeletal dysplasia caused by a defect in the CDMP1/GDF5 pathway. No mechanistic link to tramadol could be identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, tramadol could offer symptomatic pain relief, not treatment of the underlying disorder.
 
@@ -94,6 +94,19 @@ The prediction is supported only by the model score (L5), with no clinical trial
 - Detailed mechanism of action data
 - Evidence of any disease-specific pain benefit, if symptomatic analgesia is the intended goal, with a clearly defined target population
 - A review of whether another predicted indication with a more plausible pain-related rationale, such as pseudoachondroplasia, would be a better candidate
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ The TxGNN model's top-ranked prediction is **Neurotic Disorder**, but this is la
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data was not available in the data compiled for this report. From the published literature, vortioxetine is a multimodal antidepressant: it inhibits the serotonin transporter (SERT), acts as a 5-HT1A agonist and 5-HT1B partial agonist, and antagonises 5-HT3, 5-HT7 and 5-HT1D receptors. It also increases serotonergic, noradrenergic, dopaminergic, cholinergic, histaminergic and glutamatergic neurotransmission (PMID 25016186).
+According to the Mechanism of Action section of the US FDA-approved prescribing information for vortioxetine: "The mechanism of the antidepressant effect of vortioxetine is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through inhibition of the reuptake of serotonin (5-HT). It also has several other activities including 5-HT3 receptor antagonism and 5-HT1A receptor agonism." ([DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e), label version 2026-04-23; accessed 2026-11-19.) From the published literature, vortioxetine is a multimodal antidepressant: it inhibits the serotonin transporter (SERT), acts as a 5-HT1A agonist and 5-HT1B partial agonist, and antagonises 5-HT3, 5-HT7 and 5-HT1D receptors. It also increases serotonergic, noradrenergic, dopaminergic, cholinergic, histaminergic and glutamatergic neurotransmission (PMID 25016186).
 
 "Neurotic disorder" is an outdated umbrella term covering anxiety, depressive and related conditions. Vortioxetine's serotonergic activity is plausibly relevant, but the prediction essentially relabels indications that are already established (depression, anxiety) rather than revealing a new repurposing opportunity.
 
@@ -87,7 +87,6 @@ No clinical trials are registered for neurotic disorder itself. The table below 
 ---
 
 ## Literature Evidence
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -145,6 +144,19 @@ Literature also notes that vortioxetine is metabolised via CYP2D6, so interactio
 - Package insert warnings and contraindications from the Indian regulator's records (currently missing, and a blocking gap for safety screening)
 - A DDI management plan (CYP2D6 metabolism; serotonergic and major interacting drugs)
 - Confirmation that paediatric evidence is not extrapolated to adults
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trintellix (vortioxetine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bd0107e5-1cb9-4b40-a6af-fa65fcbe6b4e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

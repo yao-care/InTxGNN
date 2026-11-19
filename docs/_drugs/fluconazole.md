@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fluconazole is an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase) and blocks ergosterol synthesis. Its efficacy in superficial and invasive fungal infections is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fluconazole: "Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase. This enzyme functions to convert lanosterol to ergosterol. The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole." ([DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204), label version 2026-04-02; accessed 2026-11-19.) Based on known information, fluconazole is an azole antifungal that inhibits fungal CYP51 (lanosterol 14-alpha-demethylase) and blocks ergosterol synthesis. Its efficacy in superficial and invasive fungal infections is established.
 
 The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is most often viral (for example adenovirus) or related to dry eye, drug toxicity, or other non-fungal causes. An antifungal mechanism therefore has no clear connection to the typical cause. A plausible link would exist only for a fungal subset of keratoconjunctivitis, and the supplied data do not support that.
 
@@ -107,6 +107,19 @@ The prediction is supported only by the model score, with no clinical trials or 
 - Package insert warnings and contraindications from the India regulatory source, since the safety screen cannot proceed without them
 - Assessment of route and formulation (oral versus ophthalmic) for an ocular use
 - Review of the knowledge-graph contraindications (QT prolongation, renal and hepatic disease) against a possible ocular use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

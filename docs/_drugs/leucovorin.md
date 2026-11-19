@@ -56,7 +56,7 @@ but there are currently **no clinical trials and no publications** supporting th
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, leucovorin is a reduced folate (folinic acid). It bypasses dihydrofolate reductase and supports one-carbon metabolism and nucleotide synthesis. Its efficacy in megaloblastic anemia is established, where it restores folate-dependent blood cell production.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for leucovorin: "High-Dose Methotrexate Therapy Leucovorin is a mixture of the diastereoisomers of the 5-formyl derivative of tetrahydrofolic acid (THF). The biologically active compound of the mixture is the (-)- l isomer, known as Citrovorum factor or (-)-folinic acid." ([DailyMed: Vykoura (leucovorin calcium) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d122b875-435e-4e00-b945-7a0546df95c2), label version 2026-03-12; accessed 2026-11-19.) Based on known information, leucovorin is a reduced folate (folinic acid). It bypasses dihydrofolate reductase and supports one-carbon metabolism and nucleotide synthesis. Its efficacy in megaloblastic anemia is established, where it restores folate-dependent blood cell production.
 
 Primary hyperoxaluria is an inherited disorder of glyoxylate metabolism (for example, defects in AGXT, GRHPR or HOGA1) that causes the body to overproduce oxalate. A link between this pathway and folate-dependent metabolism is not established in the data compiled for this report. The high TxGNN score is therefore a statistical, model-based signal and should not be read as clinical support.
 
@@ -108,6 +108,19 @@ The prediction for primary hyperoxaluria rests only on a model score. No clinica
 - A literature and trial search for a biological connection between folate pathways and oxalate metabolism
 - Preclinical or mechanistic studies to establish plausibility
 - For congenital intrinsic factor deficiency: a clinical assessment of whether leucovorin adds anything beyond B12 replacement, given the masking risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vykoura (leucovorin calcium) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d122b875-435e-4e00-b945-7a0546df95c2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

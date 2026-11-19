@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, b
 
 ## Why is This Prediction Reasonable?
 
-Norepinephrine is an adrenergic agonist with alpha-1, alpha-2 and beta-1 activity, and weak beta-2 activity. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description is based on general pharmacological knowledge.
+Norepinephrine is an adrenergic agonist with alpha-1, alpha-2 and beta-1 activity, and weak beta-2 activity. According to the Mechanism of Action section of the US FDA-approved prescribing information for norepinephrine: "Norepinephrine is a peripheral vasoconstrictor (alpha-adrenergic action) and an inotropic stimulator of the heart and dilator of coronary arteries (beta-adrenergic action)." ([DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396), label version 2026-10-27; accessed 2026-11-19.) This description is based on general pharmacological knowledge.
 
 Asthma, bronchitis, emphysema and bronchiectasis already appear among its original indications. Obstructive lung disease (such as COPD and asthma) overlaps heavily with these conditions, which is why the model links them. The literature supports a role for adrenergic and neuroimmune signalling in airway disease, but this is mechanistic and review-level evidence.
 
@@ -121,6 +121,19 @@ The high TxGNN score (0.9984) is not backed by direct clinical evidence: the onl
 *Other predictions, not recommended for further work at this stage:*
 - **Respiratory malformation** (score 0.9984, L5): no clinical trials, and the literature is physiological or safety-related. A vasopressor has no clear therapeutic role.
 - **Rienhoff syndrome** (score 0.9983, L5): no trials or literature; this is a computational hypothesis only.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

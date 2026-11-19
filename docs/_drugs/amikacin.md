@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **paratyphoid fever**, but the 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, amikacin is an aminoglycoside that inhibits the bacterial 30S ribosomal subunit and has activity against Gram-negative bacteria. Its efficacy in Gram-negative infections is established, and *Salmonella* Paratyphi is a Gram-negative Enterobacterales pathogen, so activity is biologically plausible.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for amikacin: "Amikacin, an aminoglycoside, binds to the prokaryotic ribosome, inhibiting protein synthesis in susceptible bacteria. It is bactericidal in vitro against Gram-positive and Gram-negative bacteria." ([DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890), label version 2026-07-27; accessed 2026-11-19.) Based on known information, amikacin is an aminoglycoside that inhibits the bacterial 30S ribosomal subunit and has activity against Gram-negative bacteria. Its efficacy in Gram-negative infections is established, and *Salmonella* Paratyphi is a Gram-negative Enterobacterales pathogen, so activity is biologically plausible.
 
 There are important limits. *Salmonella* is an intracellular pathogen, and aminoglycosides penetrate cells poorly, which restricts their usefulness in enteric fever. The retrieved literature does not show controlled evidence of amikacin efficacy in paratyphoid fever. The high TxGNN score mostly reflects similarity to other antibacterial uses.
 
@@ -112,6 +112,19 @@ The paratyphoid fever prediction has no clinical trials and only epidemiology, s
 - Detailed mechanism of action data
 - Controlled or comparative clinical data on amikacin in enteric fever, ideally focused on drug-resistant isolates
 - Review of the related typhoid fever prediction (rank 4, evidence L3), which is a stronger candidate for a research question than paratyphoid fever alone
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amikacin sulfate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f260ff2a-76a0-4672-9516-91c344b67890) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

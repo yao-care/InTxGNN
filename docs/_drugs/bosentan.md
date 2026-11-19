@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, bosentan is a dual endothelin receptor antagonist (ET-A/ET-B). Endothelin signalling contributes to vascular dysfunction, synovial inflammation and cytokine release.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bosentan: "Bosentan is a specific and competitive antagonist at endothelin receptor types ET A and ET B. Bosentan has a slightly higher affinity for ET A receptors than for ET B receptors. The clinical impact of dual endothelin blockage is unknown." ([DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c), label version 2025-11-17; accessed 2026-11-19.) Based on known pharmacology, bosentan is a dual endothelin receptor antagonist (ET-A/ET-B). Endothelin signalling contributes to vascular dysfunction, synovial inflammation and cytokine release.
 
 Its efficacy in pulmonary arterial hypertension and systemic sclerosis-related vasculopathy is established. Rheumatoid arthritis and these connective-tissue diseases share an inflammatory and vascular component, which may explain the model's association. In mouse arthritis models, bosentan reduced joint inflammation, apparently through modulation of TNF-α and LTB4 (PMID 22249931, collagen-induced arthritis; PMID 18515326, zymosan-induced arthritis). Endothelin-1 levels are also reported to be raised in the plasma and synovium of RA patients.
 
@@ -131,6 +131,19 @@ The RA prediction has a high model score but no human trials and only mouse-mode
 - Package insert warnings and contraindications from the India registration (currently a blocking gap for safety screening)
 - Assessment of liver-function monitoring requirements and interactions with common RA co-medications
 - Consideration of limited systemic sclerosis as a nearer-term research question, after verifying the digital-ulcer RCT evidence (such as RAPIDS), which was not included in the data compiled for this report
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ but the data compiled for this report contain **0 clinical trials** and only **1
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Based on general knowledge, abacavir belongs to the NRTI class, which blocks the reverse transcriptase enzyme that HIV uses to copy its genetic material.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for abacavir and lamivudine (a combination product containing abacavir): "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), label version 2026-09-18; accessed 2026-11-19.) Based on general knowledge, abacavir belongs to the NRTI class, which blocks the reverse transcriptase enzyme that HIV uses to copy its genetic material.
 
 Feline immunodeficiency virus (FIV) is a lentivirus whose reverse transcriptase is related to that of HIV. For this reason, it is biologically plausible that NRTIs could act against FIV. The single publication found (2002) tested a combination of zidovudine, lamivudine and abacavir against FIV in vitro. Abacavir's own contribution cannot be separated from the combination.
 
@@ -112,6 +112,19 @@ The prediction rests on a model score and one in vitro combination study from 20
 - Studies that test abacavir alone against FIV, with in vivo data in cats
 - Confirmation of whether a veterinary development path is relevant to this programme
 - Mechanism of action data and package insert warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

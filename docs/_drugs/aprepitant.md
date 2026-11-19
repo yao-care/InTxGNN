@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, aprepitant is an NK1 receptor antagonist, which blocks substance P signaling. Its efficacy in its established antiemetic use is well known, but it is unclear whether this mechanism applies to the new indication.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aprepitant: "Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK 1 ) receptors. Aprepitant has little or no affinity for serotonin (5-HT 3 ), dopamine, and corticosteroid receptors. Aprepitant has been shown in animal models to inhibit emesis induced by cytotoxic chemotherapeutic agents, such as cisplatin, via central actions." ([DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4), label version 2026-04-01; accessed 2026-11-19.) Based on known information, aprepitant is an NK1 receptor antagonist, which blocks substance P signaling. Its efficacy in its established antiemetic use is well known, but it is unclear whether this mechanism applies to the new indication.
 
 Substance P/NK1 signaling has been loosely linked to fluid and vasopressin regulation. However, nephrogenic syndrome of inappropriate antidiuresis is caused by gain-of-function mutations in the V2 vasopressin receptor, and no established mechanistic link to NK1 antagonism exists. The high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as evidence of efficacy.
 
@@ -110,6 +110,19 @@ The prediction rests only on a model score. There are no clinical trials or rele
 - Preclinical evidence of NK1/substance P involvement in this disease
 - A review of the knowledge-graph liver failure contraindication
 - A target-population assessment, since this is an ultra-rare disease, and a review of the interaction burden for likely co-medications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

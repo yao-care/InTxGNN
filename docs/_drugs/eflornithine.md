@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **esotropia**, but **no clinica
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, eflornithine irreversibly inhibits ornithine decarboxylase (ODC), the first step of polyamine biosynthesis. This is how it acts against African trypanosomes, and it is the target the pharmacology data lists for the drug.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eflornithine: "Eflornithine is an irreversible inhibitor of the enzyme ornithine decarboxylase (ODC), the first and rate-limiting enzyme in the biosynthesis of polyamines and a transcriptional target of MYCN. Polyamines are involved in differentiation and proliferation of mammalian cells and are important for neoplastic transformation." ([DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5), label version 2026-03-26; accessed 2026-11-19.) Based on known information, eflornithine irreversibly inhibits ornithine decarboxylase (ODC), the first step of polyamine biosynthesis. This is how it acts against African trypanosomes, and it is the target the pharmacology data lists for the drug.
 
 The link to esotropia is weak. Esotropia is an ocular alignment disorder tied to neuromuscular and visual-development factors. No established connection exists between polyamine depletion and its pathophysiology. The high score (0.9985) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no clinical or literature support, so the prediction should be treated as a hypothesis, not a finding.
 
@@ -107,6 +107,19 @@ The esotropia prediction rests only on a model score, with no trials, no literat
 - A literature and trial search that targets esotropia specifically, and a mechanistic hypothesis if any signal is found
 - A route and formulation assessment against the topical products actually marketed
 - If a lead is wanted from this candidate list, evaluate bovine trypanosomiasis (the only candidate with a mechanistic rationale and related literature) as a veterinary research question
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iwilfin (eflornithine hydrochloride) prescribing information, USWM, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6716d8cc-66e6-4cee-935c-ccb85ed984f5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

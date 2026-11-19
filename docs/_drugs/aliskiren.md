@@ -58,7 +58,7 @@ Among the seven predicted indications, the most developed evidence is for **cere
 
 ## Why is This Prediction Reasonable?
 
-Aliskiren is a direct renin inhibitor. It blocks the first, rate-limiting step of the renin-angiotensin-aldosterone system (RAAS), which lowers angiotensin II production. Detailed mechanism of action data is not available in the data compiled for this report, so this description reflects the drug's known class.
+Aliskiren is a direct renin inhibitor. It blocks the first, rate-limiting step of the renin-angiotensin-aldosterone system (RAAS), which lowers angiotensin II production. According to the Mechanism of Action section of the US FDA-approved prescribing information for aliskiren: "Renin is secreted by the kidney in response to decreases in blood volume and renal perfusion. Renin cleaves angiotensinogen to form the inactive decapeptide angiotensin I (Ang I). Ang I is converted to the active octapeptide angiotensin II (Ang II) by ACE and non-ACE pathways." ([DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb), label version 2022-12-30; accessed 2026-11-19.) This description reflects the drug's known class.
 
 Hypertension and pulmonary hypertension are both vascular pressure disorders, and RAAS activation may contribute to pulmonary vascular remodelling. Animal studies show that intermittent hypoxia drives angiotensin II-mediated effects. Aliskiren reduced hypoxia-induced atrial remodelling in rats (PMID 32982180), and intermittent hypoxia causes sympathoexcitation through circulating angiotensin II (PMID 29645283).
 
@@ -130,6 +130,19 @@ Cerebrovascular disorder has the strongest support: animal studies show neuropro
 - Preclinical studies in pulmonary vascular models (e.g. hypoxia-induced pulmonary hypertension) to test the RAAS hypothesis directly
 - A safety plan addressing the contraindication signals above, especially angioedema, renal impairment, hyperkalaemia, and combination use with ACE inhibitors/ARBs in diabetic patients
 - For cerebrovascular disorder: a prospective trial with clinical stroke or cognitive endpoints
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

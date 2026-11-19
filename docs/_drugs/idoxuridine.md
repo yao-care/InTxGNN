@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, b
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, idoxuridine is a thymidine analog that inhibits viral DNA synthesis, and its efficacy in herpes simplex virus keratitis is established. Mechanistically it is relevant mainly to DNA viruses.
+ChEMBL (EMBL-EBI) records the mechanism of action of idoxuridine as: DNA inhibitor ([ChEMBL CHEMBL788 (idoxuridine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL788), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, idoxuridine is a thymidine analog that inhibits viral DNA synthesis, and its efficacy in herpes simplex virus keratitis is established. Mechanistically it is relevant mainly to DNA viruses.
 
 For the top-ranked prediction, vulvovaginal candidiasis, there is no plausible mechanistic link. *Candida* is a fungus and does not rely on the viral thymidine kinase-dependent replication that this drug targets. The high score is a computational result only.
 
@@ -100,6 +100,19 @@ The predicted indication is supported only by a computational score. There are n
 - Detailed mechanism of action data
 - If pursuing herpetic vulvovaginitis as a research question, a targeted literature review and comparison against acyclovir and valacyclovir
 - Assessment of formulation and route feasibility for genital use, since only an ophthalmic product is registered in India
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL788 (idoxuridine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL788) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

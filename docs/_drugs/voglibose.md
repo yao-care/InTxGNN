@@ -55,7 +55,7 @@ The highest-ranked prediction with any supporting data is **type 1 diabetes mell
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, voglibose inhibits alpha-glucosidase enzymes in the intestinal lumen. This delays carbohydrate digestion and absorption and blunts the rise in blood glucose after meals.
+ChEMBL (EMBL-EBI) records the mechanism of action of voglibose as: Alpha glucosidase inhibitor ([ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, voglibose inhibits alpha-glucosidase enzymes in the intestinal lumen. This delays carbohydrate digestion and absorption and blunts the rise in blood glucose after meals.
 
 Type 1 and type 2 diabetes differ in cause, but both involve post-meal glucose spikes. Delayed carbohydrate absorption could therefore be a useful add-on to insulin in type 1 diabetes. A small 2000 study reported that voglibose taken before the evening meal reduced nocturnal hypoglycaemia in insulin-dependent patients on intensive insulin therapy. This is a narrower, adjunctive use within the same disease area rather than a truly new indication, and the signal is weak.
 
@@ -103,6 +103,19 @@ The only prediction with any supporting data is type 1 diabetes mellitus (L3), a
 - Mechanism of action data from DrugBank
 - A controlled trial or systematic review of voglibose as an add-on to insulin in type 1 diabetes, with nocturnal hypoglycaemia as an outcome
 - A safety review of hypoglycaemia risk with insulin, and of use in patients with renal impairment or peripheral neuropathy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

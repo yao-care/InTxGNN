@@ -60,7 +60,7 @@ This is a computational prediction with very limited supporting evidence.
 
 ## Why is This Prediction Reasonable?
 
-Caffeine antagonizes adenosine receptors and inhibits phosphodiesterase. Detailed mechanism-of-action data were not available in the compiled data, so this description comes from general pharmacology and from the rationale compiled for this prediction.
+Caffeine antagonizes adenosine receptors and inhibits phosphodiesterase. According to the Mechanism of Action section of the US FDA-approved prescribing information for caffeine: "Caffeine is structurally related to other methylxanthines, theophylline, and theobromine. It is a bronchial smooth muscle relaxant, a CNS stimulant, a cardiac muscle stimulant, and a diuretic. Although the mechanism of action of caffeine in apnea of prematurity is not known, several mechanisms have been hypothesized." ([DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a), label version 2026-07-29; accessed 2026-11-19.) This description comes from general pharmacology and from the rationale compiled for this prediction.
 
 One review describes bitter taste receptors in human airway tissue, including the nasal cavity, where they may modulate innate defense. This gives caffeine a plausible, though indirect, mechanistic link to nasal tissue.
 
@@ -120,6 +120,19 @@ The prediction score is high (0.9991), but there are no clinical trials and no p
 - Preclinical or clinical studies of caffeine in that specific condition
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for a full safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: caffeine citrate prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f38c395-0093-4afd-89ec-f96e5dc0934a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -58,7 +58,7 @@ Dexibuprofen is a nonsteroidal anti-inflammatory drug (NSAID), the S-enantiomer 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known pharmacology, dexibuprofen is the active S-enantiomer of ibuprofen and works by inhibiting COX enzymes, which reduces prostaglandin-mediated inflammation and pain.
+ChEMBL (EMBL-EBI) records the mechanism of action of dexibuprofen as: Cyclooxygenase inhibitor ([ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, dexibuprofen is the active S-enantiomer of ibuprofen and works by inhibiting COX enzymes, which reduces prostaglandin-mediated inflammation and pain.
 
 Brachydactyly-syndactyly syndrome is a congenital malformation of the digits. Its cause is developmental and genetic, not inflammatory. There is no recognized mechanism by which COX inhibition would change the course of a congenital skeletal malformation. The high score appears to reflect model-based proximity to musculoskeletal terms rather than a demonstrated biological link. This prediction should be treated as a hypothesis with a weak mechanistic basis.
 
@@ -105,6 +105,19 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Any direct preclinical or clinical evidence linking dexibuprofen to this condition
 - Detailed mechanism of action data and a plausible biological rationale
 - Package insert warnings and contraindications for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ There are currently **no clinical trials and no publications** supporting this d
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on its known drug class, dicyclomine is an antimuscarinic/antispasmodic agent that relaxes smooth muscle.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dicyclomine: "Dicyclomine relieves smooth muscle spasm of the gastrointestinal tract. Animal studies indicate that this action is achieved via a dual mechanism: a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites with approximately 1/8 the milligram potency of atropine ( in vitro, guinea pig ileum); and a direct effect upon smooth muscle (musculotropic) as evidenced by dicyclomine’s antagonism of bradykinin- and histamine-induced spasms of the isolated guinea pig ileum." ([DailyMed: dicyclomine hydrochloride prescribing information, Slate Run Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20a1ccf-2f3a-4872-811e-d93fb56b8e83), label version 2026-11-13; accessed 2026-11-19.) Based on its known drug class, dicyclomine is an antimuscarinic/antispasmodic agent that relaxes smooth muscle.
 
 A plausible but unverified link is symptomatic relief of the neurogenic bladder and bowel dysfunction (detrusor overactivity, spasm) that can accompany cauda equina syndrome. It would not treat the underlying nerve root compression, which requires urgent surgical decompression.
 
@@ -102,6 +102,19 @@ The prediction has a high model score (0.9966) but no supporting trials or liter
 - Mechanism of action data
 - Package insert warnings and contraindications for the India-marketed products
 - A safety assessment of urinary retention risk in this population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dicyclomine hydrochloride prescribing information, Slate Run Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20a1ccf-2f3a-4872-811e-d93fb56b8e83) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

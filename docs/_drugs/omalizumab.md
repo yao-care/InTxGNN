@@ -60,7 +60,7 @@ The two registered trials and the 7 publications linked to this prediction conce
 
 ## Why is This Prediction Reasonable?
 
-Omalizumab binds free IgE, the antibody that drives allergic reactions. It also lowers expression of the high-affinity IgE receptor (FcεRI) on mast cells and basophils. Together these effects dampen allergic airway inflammation. Detailed mechanism-of-action data were not available in the data compiled for this report. This description comes from general pharmacology of the antibody and its IgE target.
+Omalizumab binds free IgE, the antibody that drives allergic reactions. It also lowers expression of the high-affinity IgE receptor (FcεRI) on mast cells and basophils. Together these effects dampen allergic airway inflammation. According to the Mechanism of Action section of the US FDA-approved prescribing information for omalizumab: "Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13." ([DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84), label version 2026-10-06; accessed 2026-11-19.) This description comes from general pharmacology of the antibody and its IgE target.
 
 If a bronchitis case were driven by allergic, IgE-mediated or eosinophilic airway inflammation, anti-IgE therapy could in principle help. That is the only mechanistic link available, and it is indirect.
 
@@ -128,6 +128,18 @@ No published study supports omalizumab in bronchitis. The linked trial studied p
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications, which are not yet available
 - A safety plan covering the moderate interaction with omacetaxine mepesuccinate
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

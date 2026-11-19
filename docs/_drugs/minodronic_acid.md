@@ -68,7 +68,7 @@ Among all seven predictions, **bone Paget disease** is the most biologically cre
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for this drug is not available in the compiled data. Based on general pharmacology, minodronic acid is a nitrogen-containing bisphosphonate. It inhibits farnesyl pyrophosphate synthase in osteoclasts, which reduces bone resorption. This is why it works in osteoporosis.
+ChEMBL (EMBL-EBI) records the mechanism of action of minodronic acid as: Farnesyl diphosphate synthase inhibitor ([ChEMBL CHEMBL319144 (minodronic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL319144), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, minodronic acid is a nitrogen-containing bisphosphonate. It inhibits farnesyl pyrophosphate synthase in osteoclasts, which reduces bone resorption. This is why it works in osteoporosis.
 
 For the top-ranked prediction, **pseudo-von Willebrand disease**, no plausible mechanistic link has been established. That disorder involves platelet GPIb-alpha hyperreactivity and abnormal von Willebrand factor binding, which have no known connection to bisphosphonate pharmacology. The same applies to primary release disorder of platelets (a granule secretion defect) and Glanzmann thrombasthenia (a loss-of-function defect of integrin alphaIIb-beta3). A bisphosphonate would not be expected to correct either. The high TxGNN scores for these conditions should be treated with caution.
 
@@ -106,6 +106,19 @@ The top-ranked predictions (pseudo-von Willebrand disease, primary release disor
 - A dedicated literature and trial search for minodronic acid in bone Paget disease, including class-level bisphosphonate evidence, which may support an upgrade to L4
 - Paediatric safety evaluation before any consideration of juvenile Paget disease
 - Confirmation of the approved indications for the two India licences, since the indication text is blank
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data for this drug is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL319144 (minodronic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL319144) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

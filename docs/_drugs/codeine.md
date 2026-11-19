@@ -62,7 +62,7 @@ The evidence does not currently support a therapeutic repurposing.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, codeine is an opioid used mainly for cough suppression and mild pain relief. Its use in upper respiratory symptoms is well established, and mechanistically it acts through mu-opioid receptors in the central nervous system.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for codeine: "Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown." ([DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293), label version 2026-01-16; accessed 2026-11-19.) Based on known information, codeine is an opioid used mainly for cough suppression and mild pain relief. Its use in upper respiratory symptoms is well established, and mechanistically it acts through mu-opioid receptors in the central nervous system.
 
 The high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as nasal cavity disease and the approved indications (rhinitis, nasopharyngitis), not biological evidence. This is anatomical and symptomatic adjacency, not proof of benefit. Codeine's central antitussive and analgesic actions do not address nasal pathology, and no plausible mechanism for treating nasal cavity disease is supported.
 
@@ -127,6 +127,19 @@ The TxGNN score is very high, but the evidence is model prediction only (L5), wi
 - Mechanism of action data (for example, from DrugBank)
 - Any controlled clinical evidence showing therapeutic benefit in nasal cavity disease, which does not currently exist
 - A review of the paediatric and respiratory risks, and the mast-cell and urticaria signal, if the project continues
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

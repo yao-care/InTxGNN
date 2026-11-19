@@ -60,7 +60,7 @@ This is a model prediction with very limited supporting evidence.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, triamcinolone is a synthetic glucocorticoid, its efficacy in inflammatory and autoimmune conditions is established, and mechanistically it may be applicable to inflammatory skin conditions.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for triamcinolone: "Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug." ([DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad), label version 2026-01-05; accessed 2026-11-19.) Based on known information, triamcinolone is a synthetic glucocorticoid, its efficacy in inflammatory and autoimmune conditions is established, and mechanistically it may be applicable to inflammatory skin conditions.
 
 Follicular mucinosis involves inflammatory cell infiltration around hair follicles together with mucin deposition. Corticosteroids, including intralesional or topical triamcinolone, have an anti-inflammatory rationale and are used in clinical practice for inflammatory scalp and hair disorders. That is the plausible link between the original indications (inflammatory and autoimmune diseases) and this prediction.
 
@@ -124,6 +124,19 @@ The prediction rests on a model score alone. There are no clinical trials, and t
 - Package insert warnings and contraindications from the India licence documents, which are needed for safety screening
 - Approved indication text for the registered products, to clarify the current label scope
 - Route and formulation compatibility assessment (intralesional or topical use versus the registered injectable and oral forms)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

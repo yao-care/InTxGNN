@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, nebivolol is a beta-1 selective blocker that also promotes nitric oxide-mediated vasodilation through beta-3 agonism. Its efficacy in hypertension is established, and it is marketed for that use.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nebivolol: "The mechanism of action of the antihypertensive response of BYSTOLIC has not been definitively established. Possible factors that may be involved include: decreased heart rate, decreased myocardial contractility, diminution of tonic sympathetic outflow to the periphery from cerebral vasomotor centers, suppression of renin activity and vasodilation and decreased peripheral vascular resistance." ([DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8), label version 2024-08-01; accessed 2026-11-19.) Based on known pharmacology, nebivolol is a beta-1 selective blocker that also promotes nitric oxide-mediated vasodilation through beta-3 agonism. Its efficacy in hypertension is established, and it is marketed for that use.
 
 Malignant hypertensive renal disease is a severe, hypertension-driven form of kidney injury. Blood-pressure lowering and possible endothelial protection give a plausible, theoretical link to the original indication.
 
@@ -130,6 +130,19 @@ The prediction rests on model output only (evidence level L5), with no clinical 
 - Clinical or well-designed preclinical evidence of nebivolol in hypertensive renal disease
 - Review of the knowledge-graph contraindications (e.g., bronchial disease, atrioventricular block, diabetes) against the target population
 - If a lead is wanted among the other predictions, pulmonary hypertension is the only one with any supporting literature; it remains a research question at evidence level L4
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

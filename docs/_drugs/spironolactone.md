@@ -58,7 +58,7 @@ A second prediction, **congenital hypotrichosis milia** (score 0.9904), is also 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, spironolactone is an aldosterone-antagonist diuretic used in cardiovascular and endocrine conditions. Its efficacy there is established, but that does not directly carry over to a hair disorder.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for spironolactone: "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained." ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), label version 2025-11-28; accessed 2026-11-19.) Based on known information, spironolactone is an aldosterone-antagonist diuretic used in cardiovascular and endocrine conditions. Its efficacy there is established, but that does not directly carry over to a hair disorder.
 
 One plausible but unverified link is spironolactone's anti-androgenic activity (androgen receptor blockade and reduced androgen synthesis). This is why it is used off-label in female pattern hair loss. However, hypotrichosis simplex is a rare hereditary hair loss disorder, linked to variants such as CDSN, APCDD1 and RPL21, and is not primarily androgen-driven. The mechanistic link is therefore weak and speculative.
 
@@ -100,6 +100,19 @@ The prediction is supported only by a high model score, with no clinical trials 
 - Mechanism of action data (for example from DrugBank) to test the proposed link to hair follicle biology
 - Literature and trial searches, including case reports or genotype-specific data in hereditary hypotrichosis
 - Assessment of whether a systemic anti-androgen and diuretic is appropriate for a rare genetic hair disorder, given the contraindications and interactions above, and whether a topical formulation could be considered
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

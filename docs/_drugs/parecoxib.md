@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **0
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled drug record. Based on known pharmacology, parecoxib is a prodrug of valdecoxib, a selective COX-2 inhibitor with anti-inflammatory and analgesic properties.
+ChEMBL (EMBL-EBI) records the mechanism of action of parecoxib as: Cyclooxygenase-2 inhibitor ([ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, parecoxib is a prodrug of valdecoxib, a selective COX-2 inhibitor with anti-inflammatory and analgesic properties.
 
 COX-2-driven prostaglandin (PGE2) synthesis contributes to neurogenic inflammation, trigeminal sensitization and CGRP release in migraine. Inhibiting COX-2 is therefore mechanistically plausible for treating an acute attack. Preclinical work is consistent with this: parecoxib affected plasma protein extravasation and c-fos expression in a rat model of trigeminovascular activation, and IL-1β was shown to stimulate COX-2-dependent PGE2 synthesis and CGRP release in rat trigeminal ganglia cells.
 
@@ -107,6 +107,19 @@ The only clinical support is a single pilot-type study of unverified design, wit
 - Randomized controlled trial evidence for parecoxib in acute migraine
 - A cardiovascular risk assessment and a safety plan for repeated or non-surgical use
 - Confirmation of the injectable route's practicality for migraine
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1206690 (parecoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1206690) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

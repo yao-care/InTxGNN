@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **no cl
 
 ## Why is This Prediction Reasonable?
 
-Teriparatide is a synthetic fragment of human parathyroid hormone. It acts on the PTH1 receptor (and also binds the PTH2 receptor) to stimulate new bone formation. This is why it is used for osteoporosis. Detailed mechanism-of-action data beyond these receptor targets are not available.
+Teriparatide is a synthetic fragment of human parathyroid hormone. It acts on the PTH1 receptor (and also binds the PTH2 receptor) to stimulate new bone formation. This is why it is used for osteoporosis. According to the Mechanism of Action section of the US FDA-approved prescribing information for teriparatide: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), label version 2026-08-31; accessed 2026-11-19.)
 
 Based on the data compiled for this report, **no mechanistic link** was identified between PTH1 receptor-driven bone formation and duodenal ulcer. The two conditions differ in tissue, cause, and disease process: one is bone fragility, the other is damage to the lining of the upper intestine. The high TxGNN score (0.9986) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical support. Without trials or literature, this prediction should be treated as a hypothesis only.
 
@@ -115,6 +115,18 @@ The duodenal ulcer prediction has no trials, no literature, and no plausible mec
 - A biological rationale linking PTH1 receptor signalling to duodenal mucosal disease
 - Preclinical or mechanistic studies showing any effect on ulcer healing
 - Package insert warnings and contraindications for a formal safety screen
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data beyond these receptor targets are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

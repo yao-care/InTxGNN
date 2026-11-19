@@ -56,7 +56,7 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, enalaprilat is the active diacid metabolite of enalapril and an angiotensin-converting enzyme (ACE) inhibitor. Its efficacy in hypertension and heart failure is established, and it may mechanistically be applicable to glaucoma through the renin-angiotensin system.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for enalaprilat: "Intravenous enalaprilat, or oral enalapril, after hydrolysis to enalaprilat, inhibits ACE in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: enalaprilat prescribing information, Dr. Reddys Laboratories Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d398da1-020c-ccb1-a775-ce8e0b29d621), label version 2024-06-07; accessed 2026-11-19.) Based on known information, enalaprilat is the active diacid metabolite of enalapril and an angiotensin-converting enzyme (ACE) inhibitor. Its efficacy in hypertension and heart failure is established, and it may mechanistically be applicable to glaucoma through the renin-angiotensin system.
 
 A plausible but unproven link is the local renin-angiotensin system in the eye, which is expressed in the ciliary body and trabecular meshwork. In theory, ACE inhibition could lower intraocular pressure by altering aqueous humor dynamics or by improving ocular perfusion. This remains hypothetical.
 
@@ -87,6 +87,19 @@ The only support is a high computational prediction score. No clinical trials or
 - Detailed mechanism of action data (for example, from DrugBank)
 - Preclinical or clinical evidence that ACE inhibition lowers intraocular pressure or benefits hereditary glaucoma
 - An assessment of route and formulation feasibility (for example, topical or other ocular delivery)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: enalaprilat prescribing information, Dr. Reddys Laboratories Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d398da1-020c-ccb1-a775-ce8e0b29d621) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

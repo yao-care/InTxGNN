@@ -58,7 +58,7 @@ with **2 clinical trials** and **9 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known information, imiquimod is a Toll-like receptor 7 (TLR7) agonist. It triggers local innate and adaptive immune responses (interferon-alpha, TNF-alpha, IL-12) that help clear dysplastic or HPV-infected epithelium.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for imiquimod: "The mechanism of action of ZYCLARA in the treatment of AK and EGW is unknown." ([DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d), label version 2025-05-23; accessed 2026-11-19.) Based on known information, imiquimod is a Toll-like receptor 7 (TLR7) agonist. It triggers local innate and adaptive immune responses (interferon-alpha, TNF-alpha, IL-12) that help clear dysplastic or HPV-infected epithelium.
 
 Its original uses (actinic keratosis, superficial basal cell carcinoma, HPV-related warts) are all conditions of abnormal skin epithelium, and several are pre-malignant. Pre-malignant neoplasm is therefore a natural extension. The same immune mechanism could plausibly act on other intraepithelial neoplasias, such as cervical, vulvar and anal lesions.
 
@@ -129,6 +129,19 @@ Imiquimod has well-established use in actinic keratosis and other HPV-related an
 ### Other Predicted Indications (for reference)
 
 Other predictions ranked lower. Oral mucosal benign neoplasm and odontogenic cyst (via Gorlin syndrome) are research questions supported only by reviews, animal studies and case reports. Seven other predictions (including cervical neuroblastoma, nasopharyngeal teratoma, inner ear neoplasm, major salivary gland neoplasm and jugular foramen schwannoma) have little or no relevant evidence and should be held.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zyclara (imiquimod) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=28cd9b5b-680b-480f-b33d-9c5b52bbf03d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

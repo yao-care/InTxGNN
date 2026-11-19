@@ -60,7 +60,7 @@ The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for demeclocycline is not available in the data compiled for this report. Based on general knowledge, demeclocycline belongs to the tetracycline class of antibiotics, which act against a broad range of bacteria. Members of this class are also reported to have anti-inflammatory and matrix metalloproteinase-inhibiting properties.
+According to the Clinical Pharmacology and Microbiology sections of the US FDA-approved prescribing information for demeclocycline: "The tetracyclines are primarily bacteriostatic and are thought to exert their antimicrobial effect by the inhibition of protein synthesis. The tetracyclines, including demeclocycline have a similar antimicrobial spectrum of activity against a wide range of gram-negative and gram-positive organisms." ([DailyMed: Demeclocycline Hydrochloride (demeclocycline) prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=539add06-e0a0-401a-b4f6-20776084aa9c), label version 2026-04-02; accessed 2026-11-19.) Based on general knowledge, demeclocycline belongs to the tetracycline class of antibiotics, which act against a broad range of bacteria. Members of this class are also reported to have anti-inflammatory and matrix metalloproteinase-inhibiting properties.
 
 Chronic ethmoidal sinusitis is a long-standing inflammation of the ethmoid sinuses, often with bacterial involvement. In theory, antibacterial and immunomodulatory activity could be relevant to this condition. A closely related condition, chronic rhinosinusitis, is also among the model's predictions.
 
@@ -114,6 +114,19 @@ The prediction is supported only by a model score, with no clinical trials or pu
 - Mechanism of action data for demeclocycline
 - Package insert warnings and contraindications for the Indian products
 - A review of interaction risks, especially with polyvalent cations (calcium, magnesium, zinc), vitamin A and insulin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data for demeclocycline is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Demeclocycline Hydrochloride (demeclocycline) prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=539add06-e0a0-401a-b4f6-20776084aa9c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

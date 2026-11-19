@@ -54,7 +54,7 @@ Regorafenib is an oral multi-kinase inhibitor that blocks angiogenic, stromal an
 
 ## Why is This Prediction Reasonable?
 
-Regorafenib inhibits VEGFR1-3, TIE2, PDGFR, FGFR, KIT, RET and RAF. These pathways drive angiogenesis and tumor growth in soft tissue sarcomas, including liposarcoma. Formal mechanism-of-action data were not available in the compiled data, so this description comes from the published literature.
+Regorafenib inhibits VEGFR1-3, TIE2, PDGFR, FGFR, KIT, RET and RAF. These pathways drive angiogenesis and tumor growth in soft tissue sarcomas, including liposarcoma. According to the Mechanism of Action section of the US FDA-approved prescribing information for regorafenib: "Regorafenib is a small molecule inhibitor of multiple membrane-bound and intracellular kinases involved in normal cellular functions and in pathologic processes such as oncogenesis, tumor angiogenesis, metastasis and tumor immunity. In in vitro biochemical or cellular assays, regorafenib or its major human active metabolites M-2 and M-5 inhibited the activity of RET, VEGFR1, VEGFR2, VEGFR3, KIT, PDGFR-alpha, PDGFR-beta, FGFR1, FGFR2, TIE2, DDR2, TrkA, Eph2A, RAF-1, BRAF, BRAF V600E, SAPK2, PTK5, Abl and CSF1R at concentrations of regorafenib that have been achieved clinically." ([DailyMed: Stivarga (regorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7), label version 2026-02-09; accessed 2026-11-19.) This description comes from the published literature.
 
 The randomized Phase 2 REGOSARC trial showed benefit in non-adipocytic soft tissue sarcomas (leiomyosarcoma, synovial sarcoma and others), which supports the general idea that regorafenib acts on sarcoma biology. However, REGOSARC did not show benefit in liposarcoma, and the liposarcoma-specific SARC024 cohort concluded that the results "do not support the routine use of regorafenib in this patient population." The high model score should therefore be read with caution: the signal is stronger for sarcoma in general than for liposarcoma itself.
 
@@ -113,6 +113,18 @@ The main prediction has a completed randomized Phase 2 program (SARC024 and REGO
 - Package insert warnings and contraindications from the Indian labels
 - Detailed mechanism-of-action data
 - A safety monitoring plan covering liver function, blood pressure, skin toxicity and bleeding-risk drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Formal mechanism-of-action data were not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Stivarga (regorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=824f19c9-0546-4a8a-8d8f-c4055c04f7c7) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

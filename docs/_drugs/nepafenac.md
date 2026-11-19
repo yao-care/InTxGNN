@@ -64,7 +64,7 @@ Nepafenac is a prodrug. Enzymes in eye tissue convert it to amfenac, which inhib
 
 The original use (inflammation and pain after cataract surgery) sits inside the broad "eye disease" category. Studies also show that topically applied nepafenac and amfenac reach the back of the eye. Trials in diabetic macular edema, epiretinal membrane surgery and retinal detachment therefore make mechanistic sense.
 
-Currently, detailed mechanism of action data is not available in the structured drug record. The mechanism described above is drawn from the published literature.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nepafenac: "After topical ocular dosing, nepafenac penetrates the cornea and is converted by ocular tissue hydrolases to amfenac, a NSAID. Nepafenac and amfenac are thought to inhibit the action of prostaglandin H synthase (cyclooxygenase), an enzyme required for prostaglandin production." ([DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547), label version 2026-04-01; accessed 2026-11-19.) The mechanism described above is drawn from the published literature.
 
 One caveat: the Phase 3 registration trials are not what drives the L1 grade here. The grade rests on the volume of Phase 2/4 evidence and a 2024 systematic review. The Phase 3 trials listed below do exist in the compiled data, but only a subset has been individually graded for relevance.
 
@@ -146,6 +146,19 @@ Many completed Phase 2, 3 and 4 trials, plus systematic reviews, support nepafen
 - **Vitreous detachment** (Research Question): one Phase 4 biomarker study in retinal detachment (NCT07162818, n=61), with indirect evidence and unproven clinical benefit.
 - **Optic papillitis** (Hold): only preclinical and indirect evidence. Topical nepafenac is unlikely to reach the optic nerve head at therapeutic levels.
 - **Hypotrichosis simplex of the scalp, seborrheic keratosis, von Hippel anomaly, congenital hypotrichosis milia, McPherson Robertson Cammarano syndrome, lagophthalmos, vulvar inverted follicular keratosis** (Hold): no trials or literature, and no plausible mechanism. For lagophthalmos, NSAIDs could worsen corneal exposure complications.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the structured drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ilevro (nepafenac) prescribing information, Harrow Eye, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10f411d3-a81e-074a-e063-6294a90ab547) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

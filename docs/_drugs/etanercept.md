@@ -59,7 +59,7 @@ Evidence is weak, and the benefit-risk balance is unresolved.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, etanercept is a soluble TNF receptor fusion protein that neutralizes TNF-alpha, and its efficacy in rheumatoid arthritis is established. Mechanistically, it may be applicable to extra-articular vascular inflammation in rheumatoid disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for etanercept: "TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. It plays an important role in the inflammatory processes of RA, polyarticular JIA, PsA, and AS and the resulting joint pathology. […] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind TNF molecules." ([DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f), label version 2026-05-11; accessed 2026-11-19.) Based on known information, etanercept is a soluble TNF receptor fusion protein that neutralizes TNF-alpha, and its efficacy in rheumatoid arthritis is established. Mechanistically, it may be applicable to extra-articular vascular inflammation in rheumatoid disease.
 
 Rheumatoid vasculitis is a severe extra-articular manifestation of rheumatoid arthritis, so the link to the original indication is close. However, the literature also contains reports of etanercept-associated cutaneous vasculitis, leukocytoclastic vasculitis and nephropathy. This suggests TNF blockade can paradoxically induce vasculitis in some patients. The systematic review of biologics in rheumatoid vasculitis and the review of TNF blockade in ANCA-associated vasculitis are indirect evidence, and the benefit-risk balance remains unresolved.
 
@@ -131,6 +131,19 @@ The benefit-risk balance is unresolved.
 - **Polyarticular juvenile rheumatoid arthritis** (L1, Proceed with Guardrails): A labeled juvenile idiopathic arthritis use supported by Phase 3 trials and a meta-analysis versus adalimumab. Guardrails: paediatric dosing, infection screening, tapering strategy.
 - **Vertebral disease** (L4, Research Question): A non-specific category. Evidence is indirect and covers inflammatory subtypes already included under inflammatory spondylopathy.
 - **Hypermobility of coccyx** and **Kummell disease** (L5, Hold): No trials or literature, and no credible TNF-related mechanism in the data.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

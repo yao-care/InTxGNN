@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but only **
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, buserelin is a GnRH agonist that acts on the GnRH receptor (GNRHR). With continued use it suppresses the pituitary-gonadal axis and lowers sex steroid levels, which is the basis of its use in prostate cancer.
+ChEMBL (EMBL-EBI) records the mechanism of action of buserelin as: Gonadotropin-releasing hormone receptor agonist ([ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, buserelin is a GnRH agonist that acts on the GnRH receptor (GNRHR). With continued use it suppresses the pituitary-gonadal axis and lowers sex steroid levels, which is the basis of its use in prostate cancer.
 
 By lowering sex steroids and, indirectly, androgens, buserelin could plausibly reduce androgen-driven excess hair growth (hirsutism). However, generalized or congenital hypertrichosis is not androgen-dependent, so the mechanistic link is weak.
 
@@ -111,6 +111,19 @@ The prediction has a very high model score but no supporting trials, and the sin
 - Detailed mechanism of action data (for example from DrugBank)
 - Evidence that buserelin or other GnRH agonists have been used in hypertrichosis, or a clearer subtype (such as androgen-driven hirsutism) where the mechanism applies
 - Approved indication text for the India licences, to confirm the original indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled records" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2110824 (buserelin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2110824) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

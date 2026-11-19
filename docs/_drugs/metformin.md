@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Metformin is known to act mainly by activating AMPK and reducing hepatic glucose production, with mild immunomodulatory effects. These actions are not established to be linked to the pathology of stiff person syndrome.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for metformin: "Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization." ([DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574), label version 2026-09-21; accessed 2026-11-19.) Metformin is known to act mainly by activating AMPK and reducing hepatic glucose production, with mild immunomodulatory effects. These actions are not established to be linked to the pathology of stiff person syndrome.
 
 Stiff person syndrome is an autoimmune disorder of GABAergic neurotransmission, usually with anti-GAD65 antibodies. The only plausible connection is that anti-GAD antibodies are also seen alongside autoimmune diabetes. That link is indirect and is not a therapeutic rationale for the neurological disease.
 
@@ -110,6 +110,19 @@ The prediction rests on a TxGNN model (deep learning) score alone. No trial or p
 - Mechanism of action data for metformin from DrugBank
 - Package insert warnings and contraindications from the India regulatory source, to allow safety screening
 - Review of the identical scores (0.9945) for classic stiff person syndrome and focal stiff limb syndrome, since the TxGNN model (deep learning) may reflect similarities it learned between related diseases, not biological evidence
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

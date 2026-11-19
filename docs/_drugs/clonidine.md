@@ -56,7 +56,7 @@ No clinical trials or publications currently support this prediction, so it rest
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Clonidine is known as an alpha-2 adrenergic agonist that lowers noradrenergic tone, but no data compiled for this report links that action to faciodigitogenital syndrome.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for clonidine: "Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure." ([DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd), label version 2026-08-12; accessed 2026-11-19.) Clonidine is known as an alpha-2 adrenergic agonist that lowers noradrenergic tone, but no data compiled for this report links that action to faciodigitogenital syndrome.
 
 Faciodigitogenital syndrome is a rare developmental syndrome. No plausible alpha-2 adrenergic pathway is known in its pathogenesis. The very high score is therefore best read as a computational artifact rather than a mechanism-based signal. The prediction is not supported by any trial, publication or mechanistic argument.
 
@@ -108,11 +108,12 @@ The score is very high, but there are no clinical trials, no publications and no
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "and all are single-ingredient products" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
 
 <!-- review:end log -->
 

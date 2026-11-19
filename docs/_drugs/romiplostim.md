@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From known pharmacology, romiplostim is a peptide that binds the thrombopoietin receptor (MPL) and stimulates megakaryocyte proliferation and platelet production. It is used to raise platelet counts in chronic ITP, a disease in which platelets are destroyed by autoantibodies.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for romiplostim: "Nplate increases platelet production through binding and activation of the TPO receptor, a mechanism analogous to endogenous TPO." ([DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037), label version 2026-06-23; accessed 2026-11-19.) From known pharmacology, romiplostim is a peptide that binds the thrombopoietin receptor (MPL) and stimulates megakaryocyte proliferation and platelet production. It is used to raise platelet counts in chronic ITP, a disease in which platelets are destroyed by autoantibodies.
 
 The predicted indication is a platelet *function* disorder, in which the defect lies in platelet release or activity rather than in low production. Raising platelet count would therefore be unlikely to correct the underlying defect. The single retrieved paper (PMID 25682608) shows that ITP autoantibodies inhibit proplatelet formation, which is relevant to ITP, not to this condition. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -142,6 +142,19 @@ The predicted indication, primary release disorder of platelets, has no clinical
 - Package insert warnings and contraindications from the Indian regulatory sources (a blocking gap for safety screening)
 - Approved indication text for the Indian registrations
 - If pursuing the area, prioritize subtype-specific investigation of constitutional thrombocytopenias, autosomal dominant macrothrombocytopenia, and fetal/neonatal alloimmune thrombocytopenia (all flagged as Research Questions), rather than platelet function disorders
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

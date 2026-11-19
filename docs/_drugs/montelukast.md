@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, a label that in
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, montelukast is a selective cysteinyl leukotriene receptor 1 (CysLT1) antagonist. Cysteinyl leukotrienes drive bronchoconstriction, mucus secretion, airway oedema and eosinophil recruitment. These processes also occur in virus-induced bronchiolitis and post-bronchiolitis wheeze, which gives the prediction a plausible mechanistic basis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for montelukast: "The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor)." ([DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842), label version 2025-04-30; accessed 2026-11-19.) Based on known pharmacology, montelukast is a selective cysteinyl leukotriene receptor 1 (CysLT1) antagonist. Cysteinyl leukotrienes drive bronchoconstriction, mucus secretion, airway oedema and eosinophil recruitment. These processes also occur in virus-induced bronchiolitis and post-bronchiolitis wheeze, which gives the prediction a plausible mechanistic basis.
 
 In transplant-related bronchiolitis obliterans, leukotriene pathways are thought to contribute to fibro-obliterative airway remodelling. This is supported by rat model data (PMID 28545478).
 
@@ -131,6 +131,19 @@ Several randomised trials in infant bronchiolitis exist, including a large Phase
 ## Other Predicted Indications (Brief Note)
 
 - **Atopic eczema** (score 0.9981, L1): Three Phase 4 trials exist, but the Cochrane review of leukotriene receptor antagonists for eczema (PMID 30343498) did not find convincing benefit. The signal is inconsistent.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

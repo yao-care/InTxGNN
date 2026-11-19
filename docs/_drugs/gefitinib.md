@@ -56,7 +56,7 @@ with **0 clinical trials** and **0 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, gefitinib is an oral EGFR tyrosine kinase inhibitor, its efficacy in EGFR-mutated non-small cell lung cancer is well established, and mechanistically it might be applicable to conditions driven by EGFR-mediated cell proliferation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for gefitinib: "The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. […] Gefitinib reversibly inhibits the kinase activity of wild-type and certain activating mutations of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor, thereby inhibiting further downstream signaling and blocking EGFR-dependent proliferation." ([DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41), label version 2023-02-28; accessed 2026-11-19.) Based on known information, gefitinib is an oral EGFR tyrosine kinase inhibitor, its efficacy in EGFR-mutated non-small cell lung cancer is well established, and mechanistically it might be applicable to conditions driven by EGFR-mediated cell proliferation.
 
 Gingival fibromatosis is a fibrotic overgrowth of gum tissue and is very different from lung cancer. The only link suggested is that EGFR signalling could contribute to fibroblast proliferation. This is speculative: no trial or publication in the data supports it, and the high TxGNN score is a model output alone.
 
@@ -119,6 +119,19 @@ The prediction rests on a model score alone (Evidence Level L5), with no clinica
 - Package insert warnings and contraindications (from the Indian regulatory source), which are required before safety screening can proceed
 - Preclinical or mechanistic evidence that EGFR inhibition affects gingival fibroblast proliferation
 - Review of the other top-ranked predictions: lung hilum carcinoma and pulmonary sulcus neoplasm have some indirect literature (Evidence Level L4) but mainly reflect the existing NSCLC use rather than a new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

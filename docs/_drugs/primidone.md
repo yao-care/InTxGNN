@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, primidone is an anticonvulsant (partly metabolized to phenobarbital), its efficacy in epilepsy is well established, but there is no known anti-neoplastic mechanism that would make it applicable to a nerve tumour.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for primidone: "MYSOLINE raises electro- or chemoshock seizure thresholds or alters seizure patterns in experimental animals. The mechanism(s) of primidone’s antiepileptic action is not known. Primidone per se has anticonvulsant activity as do its two metabolites, phenobarbital and phenylethylmalonamide (PEMA)." ([DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46), label version 2026-09-10; accessed 2026-11-19.) Based on known information, primidone is an anticonvulsant (partly metabolized to phenobarbital), its efficacy in epilepsy is well established, but there is no known anti-neoplastic mechanism that would make it applicable to a nerve tumour.
 
 The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between primidone's related neurological diseases, such as trigeminal neuralgia, not biological evidence of a therapeutic link. Seizure control might matter in patients with tumours of the nervous system, but that would be symptom management, not treatment of the tumour.
 
@@ -112,6 +112,19 @@ The prediction for trigeminal nerve neoplasm rests only on a very high model sco
 - Package insert warnings and contraindications from the Indian regulator (approved indication text is currently empty for all registrations)
 - Evidence of a plausible mechanism or preclinical data in trigeminal nerve tumours before any further evaluation
 - Consider redirecting effort to better-supported candidates, such as reflex epilepsy subtypes (startle epilepsy, thinking seizures) or trigeminal neuralgia, where an anticonvulsant rationale exists, though primidone-specific clinical evidence is still lacking
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

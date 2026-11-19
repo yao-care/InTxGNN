@@ -56,7 +56,7 @@ but **no clinical trials and no publications** specific to this indication were 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, heparin enhances antithrombin activity and thereby inhibits thrombin and factor Xa. This can offset the hypercoagulable state seen when protein C, a natural anticoagulant, is deficient.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for heparin: "Heparin interacts with the naturally occurring plasma protein, antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of antithrombin III, thereby inhibiting the activated coagulation factors involved in the closing sequence, particularly Xa and IIa. Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa)." ([DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e), label version 2026-05-25; accessed 2026-11-19.) Based on known pharmacology, heparin enhances antithrombin activity and thereby inhibits thrombin and factor Xa. This can offset the hypercoagulable state seen when protein C, a natural anticoagulant, is deficient.
 
 The new indication is closely linked to one of heparin's existing indications. Purpura fulminans is a severe manifestation of homozygous or compound heterozygous protein C deficiency. The high TxGNN score is probably driven largely by this overlap and is a computational prediction only.
 
@@ -102,6 +102,19 @@ The prediction is biologically plausible and fits with heparin's existing use in
 - Package insert warnings and contraindications from the India registrations
 - Confirmation of approved indications on the Indian labels
 - Clinical expert review of bleeding risk and the role of heparin as an adjunct
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ The TxGNN model predicts it may be effective for **uterine ligament adenocarcino
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Durvalumab is known as a PD-L1 inhibitor: by blocking PD-L1 it can restore T-cell antitumour activity. Its link to the original indication comes from the TxGNN model (deep learning); the score comes from the model and may reflect similarities the model learned between related diseases, not biological evidence.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for durvalumab: "Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)." ([DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3), label version 2026-08-31; accessed 2026-11-19.) Durvalumab is known as a PD-L1 inhibitor: by blocking PD-L1 it can restore T-cell antitumour activity. Its link to the original indication comes from the TxGNN model (deep learning); the score comes from the model and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Gynaecological adenocarcinomas could, in principle, express PD-L1 and respond to checkpoint blockade. However, this is only a hypothesis. No trial, publication or tumour-specific PD-L1 data for uterine ligament adenocarcinoma was provided, so the very high TxGNN score is a computational prediction only.
 
@@ -115,6 +115,19 @@ The prediction for uterine ligament adenocarcinoma rests solely on a TxGNN score
 - Package insert warnings and contraindications, which are required before any safety screening
 - Indication text for the two licences, to confirm the approved uses in India
 - If cervical cancer is of interest, a more relevant research question than the top-ranked disease, since the Phase 1 trial NCT03452332 offers early safety data in that setting
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

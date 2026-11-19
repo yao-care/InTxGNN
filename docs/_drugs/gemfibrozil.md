@@ -56,7 +56,7 @@ Other predicted indications (HIV-associated lipid disorders and hypoalphalipopro
 
 ## Why is This Prediction Reasonable?
 
-Gemfibrozil activates PPAR-alpha, a nuclear receptor that regulates fat metabolism. This is how it lowers triglycerides and raises HDL cholesterol. PPAR signalling also has anti-inflammatory and immune-modulating effects, including influence on T-cell and cytokine pathways. These are processes involved in rheumatoid arthritis. Detailed mechanism-of-action data were not available in the data compiled for this report, so this link rests on the known pharmacology of the drug class.
+Gemfibrozil activates PPAR-alpha, a nuclear receptor that regulates fat metabolism. This is how it lowers triglycerides and raises HDL cholesterol. PPAR signalling also has anti-inflammatory and immune-modulating effects, including influence on T-cell and cytokine pathways. These are processes involved in rheumatoid arthritis. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for gemfibrozil: "Gemfibrozil is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol. While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with gemfibrozil therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol." ([DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725), label version 2026-11-10; accessed 2026-11-19.) This link rests on the known pharmacology of the drug class.
 
 Direct evidence is thin. A rat study (2019) found that gemfibrozil combined with a reduced steroid dose gave a similar outcome to the full steroid dose in adjuvant-induced arthritis. A 2026 animal study with bezafibrate, a related pan-PPAR agonist, reported reduced experimental arthritis through PPAR-dependent pathways. Neither is human data, and the original lipid indication is only indirectly related to joint inflammation.
 
@@ -118,6 +118,18 @@ The high TxGNN score is not backed by human evidence. There are no registered tr
 | 4 | Hypoalphalipoproteinemia (low HDL) | 0.9977 | L3 | Proceed with Guardrails | Several small, older crossover and comparison studies (1989–2000) showing lipoprotein changes. Mostly surrogate endpoints. No registered trials. |
 | 9 | Sclerosing cholangitis | 0.9970 | L5 | Hold | Literature covers fibrate safety in cholestatic disease, not efficacy. Hepatotoxicity concern. |
 | 2, 5, 6, 7, 10 | Multiple endocrine neoplasia; brachydactyly-syndactyly syndrome; colobomatous microphthalmia-rhizomelic dysplasia syndrome; methemoglobinemia, alpha type; methemoglobin reductase deficiency | 99.70–0.9983 | L5 | Hold | No clinical or literature evidence and no plausible mechanistic link. Computational prediction only. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -58,7 +58,7 @@ Ofatumumab is an anti-CD20 antibody. The TxGNN model (deep learning) predicts it
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the compiled data. Based on known information, ofatumumab is a fully human anti-CD20 monoclonal antibody that binds a distinct epitope on CD20, involving both the small and large extracellular loops. It is thought to act through complement-dependent cytotoxicity and antibody-dependent cellular cytotoxicity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ofatumumab: "The precise mechanism by which ofatumumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ofatumumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3), label version 2026-04-01; accessed 2026-11-19.) Based on known information, ofatumumab is a fully human anti-CD20 monoclonal antibody that binds a distinct epitope on CD20, involving both the small and large extracellular loops. It is thought to act through complement-dependent cytotoxicity and antibody-dependent cellular cytotoxicity.
 
 Follicular lymphoma is a CD20-positive B-cell malignancy, so the drug's target is expressed directly on the tumour cells. The original uses recorded in the knowledge graph are also B-cell or lymphoid malignancies. Complement-mediated killing may also explain activity in rituximab-refractory disease. The high TxGNN score is consistent with this biology.
 
@@ -144,6 +144,19 @@ Several completed Phase 2 trials and publications directly study ofatumumab in f
 - Confirmation of the approved indications on the two Indian licences
 - Results and outcome review of the terminated Phase 3 trial NCT01077518
 - A safety monitoring plan, including infection and immunosuppression-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Kesimpta (ofatumumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a8a3f53-2062-48ff-9dbe-b939df133ca3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

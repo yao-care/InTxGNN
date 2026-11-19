@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, potassium iodide has a long history as a treatment for certain fungal and fungus-like infections, such as sporotrichosis and, in veterinary use, pythiosis and zygomycosis. Its original upper respiratory uses relate mainly to thinning mucus (expectorant or mucolytic action).
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for potassium iodide: "Potassium iodide is thought to act as an expectorant by increasing respiratory tract secretions and thereby decreasing the viscosity of mucus." ([DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850), label version 2026-08-25; accessed 2026-11-19.) Based on known information, potassium iodide has a long history as a treatment for certain fungal and fungus-like infections, such as sporotrichosis and, in veterinary use, pythiosis and zygomycosis. Its original upper respiratory uses relate mainly to thinning mucus (expectorant or mucolytic action).
 
 The retrieved literature describes nasal and rhinofacial infections (pythiosis, Aspergillus rhinitis, Pseudallescheria infection, nasofacial zygomycosis) in which potassium iodide was used or discussed. A plausible link is an antifungal or immunomodulatory effect on granulomatous fungal infection of the nasal cavity.
 
@@ -133,11 +133,12 @@ The prediction rests on a high model score and a handful of case reports, mostly
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient products and all" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ Support comes from **2 clinical trials** (one small terminated trial and one com
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, dasatinib is a kinase inhibitor that acts on BCR-ABL, SRC-family kinases, c-KIT and PDGFR.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dasatinib: "Dasatinib, at nanomolar concentrations, inhibits the following kinases: BCR-ABL, SRC family (SRC, LCK, YES, FYN), c-KIT, EPHA2, and PDGFRβ. Based on modeling studies, dasatinib is predicted to bind to multiple conformations of the ABL kinase." ([DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df), label version 2026-10-16; accessed 2026-11-19.) Based on known information, dasatinib is a kinase inhibitor that acts on BCR-ABL, SRC-family kinases, c-KIT and PDGFR.
 
 In Ewing sarcoma, preclinical studies show that SRC activity drives invadopodia formation, migration and invasion, especially under microenvironmental stress. Dasatinib inhibited migration, invasion and proliferation in sarcoma and Ewing sarcoma cell lines, and induced apoptosis in bone sarcoma cells that depend on SRC. The FAK-Src axis has been proposed as a therapeutic target in Ewing sarcoma and related tumours.
 
@@ -139,6 +139,18 @@ Package insert warnings and contraindications were not available; please consult
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications from the Indian labels
 - A safety monitoring plan, especially for cardiac, haematological and fluid-retention risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

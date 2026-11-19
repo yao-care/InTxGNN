@@ -56,7 +56,7 @@ but at present only **1 review article** supports this direction, and **no clini
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, nintedanib is a small-molecule tyrosine kinase inhibitor that targets PDGFR-alpha/beta, FGFR1-3 and VEGFR1-3. Its efficacy in idiopathic pulmonary fibrosis and non-small cell lung carcinoma is established, and mechanistically it may be applicable to DFSP.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nintedanib: "Nintedanib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Nintedanib inhibits the following RTKs: platelet-derived growth factor receptor (PDGFR) α and β, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, colony stimulating factor 1 receptor (CSF1R), and Fms-like tyrosine kinase-3 (FLT-3)." ([DailyMed: Nintedanib Capsules, 100 Mg And 150 Mg (nintedanib) prescribing information, EXELAN PHARMACEUTICALS INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60d8104e-cb6c-4f4f-8159-95ed57346ffa), label version 2026-04-21; accessed 2026-11-19.) Based on known pharmacology, nintedanib is a small-molecule tyrosine kinase inhibitor that targets PDGFR-alpha/beta, FGFR1-3 and VEGFR1-3. Its efficacy in idiopathic pulmonary fibrosis and non-small cell lung carcinoma is established, and mechanistically it may be applicable to DFSP.
 
 DFSP is driven by the COL1A1-PDGFB fusion, which causes constitutive activation of PDGFR-beta. Because nintedanib inhibits PDGFR-beta, there is a plausible biological link between the drug and this tumour. Its antifibrotic and antiproliferative effects on fibroblasts add a general supporting rationale.
 
@@ -116,6 +116,19 @@ The prediction score is high (0.9915), and the PDGFR-beta mechanism is plausible
 - Preclinical data (for example DFSP cell-line or xenograft studies) or case reports of nintedanib in DFSP
 - A comparison against imatinib to define a possible role, such as in imatinib-resistant disease
 - A bleeding-risk management plan for patients taking anticoagulants or antiplatelet agents
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nintedanib Capsules, 100 Mg And 150 Mg (nintedanib) prescribing information, EXELAN PHARMACEUTICALS INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60d8104e-cb6c-4f4f-8159-95ed57346ffa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

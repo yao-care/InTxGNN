@@ -60,7 +60,7 @@ The more evidence-supported directions among the top 10 predictions are **liposa
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on widely known pharmacology, imatinib inhibits the BCR-ABL, KIT and PDGFR tyrosine kinases. Its efficacy in CML and GIST is established, and these kinases drive growth in those diseases.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for imatinib: "Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia." ([DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b), label version 2026-07-13; accessed 2026-11-19.) Based on widely known pharmacology, imatinib inhibits the BCR-ABL, KIT and PDGFR tyrosine kinases. Its efficacy in CML and GIST is established, and these kinases drive growth in those diseases.
 
 The link to heart fibrosarcoma is indirect. In dermatofibrosarcoma protuberans (DFSP), a fibroblastic tumour, the COL1A1-PDGFB fusion causes constitutive PDGFR activation, which imatinib blocks. This makes a plausible but unverified connection to fibroblastic sarcomas in general. The only literature linked to heart fibrosarcoma is a 2008 commentary on new imatinib indications, which does not address cardiac tumours directly.
 
@@ -155,6 +155,19 @@ The top prediction, heart fibrosarcoma, has no clinical trials and only one indi
 - Subtype-level results from the soft tissue sarcoma trials (NCT00031915, NCT00006357, NCT00154388) and the 10-subtype Phase 2 trial (PMID 19451433)
 - Molecular confirmation of PDGFR/KIT dependence (e.g., PDGFB rearrangement) in any target tumour type
 - A cardiac safety assessment, given the knowledge graph contraindication flags for heart disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

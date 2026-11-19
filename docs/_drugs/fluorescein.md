@@ -54,7 +54,7 @@ Fluorescein is a fluorescent diagnostic dye used in ophthalmology, for retinal a
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Fluorescein is a diagnostic fluorescent dye. It is given by injection for retinal angiography and applied topically to stain the ocular surface. It is not known to have therapeutic pharmacological activity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fluorescein: "Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465 to 490 nm and fluoresces, i.e., emits light at wavelengths of 520 to 530 nm. Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish green." ([DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0), label version 2026-02-26; accessed 2026-11-19.) Fluorescein is a diagnostic fluorescent dye. It is given by injection for retinal angiography and applied topically to stain the ocular surface. It is not known to have therapeutic pharmacological activity.
 
 The review of the prediction found no plausible mechanistic link between fluorescein and Prinzmetal angina. The condition is driven by coronary vasospasm, and fluorescein has no known vasodilatory or anti-vasospastic action. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be read as a hypothesis-generating signal, not as evidence of benefit.
 
@@ -96,6 +96,19 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Approved indication text for the three registrations
 - Any preclinical or clinical evidence of vasoactive or therapeutic effect, which does not currently exist in the data compiled for this report
 - Route compatibility assessment, since the marketed forms are an injection and an ophthalmic strip
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

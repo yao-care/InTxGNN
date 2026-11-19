@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hepatic porphyria**, but this
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Allopurinol is generally known as a xanthine oxidase inhibitor that lowers uric acid production, but the data compiled for this report do not describe its mechanism, so its link to hepatic porphyria cannot be established from them.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for allopurinol: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), label version 2022-02-18; accessed 2026-11-19.) Allopurinol is generally known as a xanthine oxidase inhibitor that lowers uric acid production, but the data compiled for this report do not describe its mechanism, so its link to hepatic porphyria cannot be established from them.
 
 The support for this prediction is indirect. A 2019 hypothesis paper proposes metabolic targeting of 5-aminolevulinate synthase (ALAS1), the rate-limiting enzyme of haem synthesis, as a way to treat acute hepatic porphyrias. A 1992 rat study examined how carbamazepine affects haem metabolism in the liver in relation to porphyria exacerbation. Neither paper studies allopurinol as a treatment for hepatic porphyria in patients.
 
@@ -103,6 +103,19 @@ The prediction has a very high model score but no clinical trials and no study t
 - A porphyrinogenicity review, including preclinical haem-pathway testing
 - Package insert warnings and contraindications from the India label
 - Any human case or clinical data on allopurinol use in hepatic porphyria
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

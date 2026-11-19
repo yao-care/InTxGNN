@@ -56,7 +56,7 @@ with **2 clinical trials** (1 Phase 1, 1 Phase 2) and **1 publication** currentl
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ixabepilone is an epothilone B analog that stabilizes microtubules, causing mitotic arrest and cell death in rapidly dividing cells. Its efficacy in breast carcinoma is established, and mechanistically it may be applicable to Ewing sarcoma.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ixabepilone: "Ixabepilone is a semi-synthetic analog of epothilone B. Ixabepilone binds directly to β-tubulin subunits on microtubules, leading to suppression of microtubule dynamics. Ixabepilone suppresses the dynamic instability of αβ-II and αβ-III microtubules." ([DailyMed: Ixempra (ixabepilone) prescribing information, R-Pharm US Operating, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=241f0b1e-8b95-470d-876f-bf1804daaf18), label version 2025-12-04; accessed 2026-11-19.) Based on known information, ixabepilone is an epothilone B analog that stabilizes microtubules, causing mitotic arrest and cell death in rapidly dividing cells. Its efficacy in breast carcinoma is established, and mechanistically it may be applicable to Ewing sarcoma.
 
 Ewing sarcoma is an aggressive, highly proliferative tumour, so an antimitotic agent is plausible. Unlike taxanes, ixabepilone is less affected by some resistance mechanisms, including P-glycoprotein-mediated efflux. It may therefore retain activity in chemoresistant disease. Preclinical pediatric xenograft models resistant to paclitaxel also showed activity.
 
@@ -114,6 +114,19 @@ The evidence is L2. It rests on one completed Phase 2 trial in a mixed refractor
 - A safety monitoring plan for paediatric and young-adult patients, covering neutropenia, neuropathy and hepatic impairment
 
 **Other predicted indications:** The remaining nine predictions (salivary gland-type breast cancer, breast papillomatosis, breast leiomyoma, breast lipoma, diabetic mastopathy, giant adenofibroma of the breast, benign neoplasm of male breast, subareolar duct papillomatosis and infiltrating nipple syringomatous adenoma) are at L5 with **Hold** recommendations. They have no supporting trials, and the literature listed for benign neoplasm of male breast concerns malignant disease and does not support that indication. Most are benign conditions where the toxicity of a cytotoxic agent is not justified. The high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ixempra (ixabepilone) prescribing information, R-Pharm US Operating, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=241f0b1e-8b95-470d-876f-bf1804daaf18) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ with **no registered clinical trials** but **21 publications** (including 1 doub
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the original drug record. Based on general pharmacology and the published literature, trazodone acts on the serotonin system: it antagonises 5-HT2A receptors, weakly inhibits serotonin reuptake, and has an active metabolite, mCPP.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for trazodone: "The mechanism of trazodone’s antidepressant action is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS. Trazodone is both a selective serotonin reuptake inhibitor (SSRI) and a 5HT2 receptor antagonist and the net result of this action on serotonergic transmission and its role in trazodone’s antidepressant effect is unknown." ([DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768), label version 2026-11-13; accessed 2026-11-19.) Based on general pharmacology and the published literature, trazodone acts on the serotonin system: it antagonises 5-HT2A receptors, weakly inhibits serotonin reuptake, and has an active metabolite, mCPP.
 
 Serotonergic modulation is the therapeutic backbone of OCD treatment, where serotonin reuptake inhibitors such as clomipramine, fluoxetine and fluvoxamine are the established agents. Depression and OCD often occur together, and trazodone is already used in depression and anxiety, so a link is biologically plausible.
 
@@ -145,6 +145,18 @@ Trazodone has a plausible serotonergic rationale, a very high TxGNN score, and a
 | Schizoid personality disorder | 0.9992 | L5 | Hold (prediction only) |
 | Benign paroxysmal torticollis of infancy | 0.9983 | L5 | Hold (prediction only; paediatric safety unsupported) |
 | Ohdo syndrome and variants | 0.9928 | L5 | Hold (prediction only; no plausible link) |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the original drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: trazodone hydrochloride prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e861818-6e7b-fe6d-e063-6294a90a7768) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

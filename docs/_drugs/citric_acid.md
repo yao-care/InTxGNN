@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **stomach disease**, but the dat
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on general pharmacology, citric acid is a weak organic acid that can influence gastric pH, which gives it a plausible link to the stomach.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sodium picosulfate, magnesium oxide, and anhydrous citric acid (a combination product containing citric acid): "Magnesium oxide and citric acid react to create magnesium citrate in solution, which is an osmotic agent that causes water to be retained within the gastrointestinal tract." ([DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5), label version 2026-04-15; accessed 2026-11-19.) Based on general pharmacology, citric acid is a weak organic acid that can influence gastric pH, which gives it a plausible link to the stomach.
 
 The retrieved literature connects citric acid to the stomach only indirectly. One line of work studied a citric acid test meal to improve the accuracy of the 13C-urea breath test for detecting *Helicobacter pylori*. Another line consists of general reviews on diet in ulcer disease and on *H. pylori* metabolism. None of these papers tests citric acid as a treatment for a gastric disease.
 
@@ -111,6 +111,19 @@ No clinical trial or publication tests citric acid as a treatment for stomach di
 - Studies that directly test citric acid for a defined gastric condition
 - A clear definition of the target condition, since "stomach disease" is broad
 - Review of the interaction with aluminum hydroxide, a common antacid, and with quinolone antibiotics
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

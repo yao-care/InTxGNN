@@ -56,7 +56,7 @@ The prediction is a computational signal only and does not hold up on mechanisti
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled dataset. Based on known pharmacology, difluprednate is a synthetic glucocorticoid that acts as an agonist at the glucocorticoid receptor (NR3C1). A receptor binding assay reported a Ki of 0.78 nM. Its efficacy in ocular inflammation is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for difluprednate: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and may delay or slow healing. They inhibit edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] Difluprednate is structurally similar to other corticosteroids." ([DailyMed: Durezol (difluprednate) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea520a27-f569-4b31-8bad-a25ad54b2caa), label version 2026-08-18; accessed 2026-11-19.) Based on known pharmacology, difluprednate is a synthetic glucocorticoid that acts as an agonist at the glucocorticoid receptor (NR3C1). A receptor binding assay reported a Ki of 0.78 nM. Its efficacy in ocular inflammation is established.
 
 The prediction most likely comes from the link between the glucocorticoid class and adrenal disorders as learned by the TxGNN model (deep learning). However, this condition is a congenital developmental disorder. Its standard of care is hormone replacement, not anti-inflammatory steroid therapy. Difluprednate is a topical ocular product with no evidence of systemic exposure adequate for replacement. **No plausible mechanism supports a benefit**, so the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -131,11 +131,12 @@ The top-ranked prediction has no clinical or literature support and no plausible
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled dataset" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Durezol (difluprednate) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea520a27-f569-4b31-8bad-a25ad54b2caa) |
 
 <!-- review:end log -->
 

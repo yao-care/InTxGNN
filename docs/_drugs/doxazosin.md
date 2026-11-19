@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but the 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the drug class, doxazosin is an alpha-1 adrenergic antagonist. Its efficacy in hypertension and benign prostatic hyperplasia is established, and it acts by relaxing vascular and prostatic smooth muscle.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for doxazosin: "Benign Prostatic Hyperplasia (BPH) The symptoms associated with benign prostatic hyperplasia (BPH), such as urinary frequency, nocturia, weak stream, hesitancy, and incomplete emptying are related to two components, anatomical (static) and functional (dynamic). The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma. […] Studies in normal human subjects have shown that doxazosin competitively antagonized the pressor effects of phenylephrine (an alpha 1 agonist) and the systolic pressor effect of norepinephrine." ([DailyMed: Cardura (doxazosin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e1f5e49-2da1-43ab-9795-228a8bcc5a82), label version 2023-10-15; accessed 2026-11-19.) Based on general knowledge of the drug class, doxazosin is an alpha-1 adrenergic antagonist. Its efficacy in hypertension and benign prostatic hyperplasia is established, and it acts by relaxing vascular and prostatic smooth muscle.
 
 Adrenergic signaling influences cerebrovascular tone and sympathetic activity, both plausibly involved in migraine. Other adrenergic-modulating drugs, such as propranolol and clonidine, have been used for migraine prophylaxis. This gives a plausible but indirect rationale for the prediction.
 
@@ -130,6 +130,19 @@ The prediction is mechanistically plausible but rests on a very high model score
 - Controlled clinical evidence (at least a well-designed Phase 2 trial) of doxazosin for migraine prophylaxis
 - A tolerability and hypotension risk assessment in migraine patients, given the side-effect discontinuations in the early report
 - Independent evidence for migraine with brainstem aura, if that subtype is to be pursued
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cardura (doxazosin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e1f5e49-2da1-43ab-9795-228a8bcc5a82) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

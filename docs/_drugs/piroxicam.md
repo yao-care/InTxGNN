@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **colobomatous microphthalmia-rhizome
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Piroxicam is generally known as a non-selective COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain. This is consistent with its use in rheumatoid arthritis and osteoarthritis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for piroxicam: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), label version 2026-09-29; accessed 2026-11-19.) Piroxicam is generally known as a non-selective COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain. This is consistent with its use in rheumatoid arthritis and osteoarthritis.
 
 For the top-ranked prediction, **no mechanistic link is identified**. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is a rare developmental skeletal and ocular syndrome, and COX inhibition has no known role in its underlying biology. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top-ranked predictions (brachydactyly-syndactyly syndrome, Hunter-Thompson acromesomelic dysplasia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, WHIM syndrome) show the same pattern: very high scores, no trials, no literature, and no plausible mechanism.
 
@@ -114,6 +114,19 @@ The top-ranked prediction has a very high model score but no clinical trials, no
 - Detailed mechanism of action data from DrugBank
 - For JIA: a focused review of current NSAID positioning against DMARDs and biologics, and the conclusions of the 2021 and 2024 network meta-analyses
 - Approved-indication text for the India registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension**, wit
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, nitroglycerin is an organic nitrate that releases nitric oxide (NO). NO activates soluble guanylate cyclase and raises cGMP in vascular smooth muscle, causing vasodilation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nitroglycerin: "Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues. This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation." ([DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300), label version 2025-12-17; accessed 2026-11-19.) Based on known pharmacology, nitroglycerin is an organic nitrate that releases nitric oxide (NO). NO activates soluble guanylate cyclase and raises cGMP in vascular smooth muscle, causing vasodilation.
 
 The same NO-cGMP pathway operates in the pulmonary circulation, so lowering pulmonary vascular resistance is mechanistically plausible. Nebulized or inhaled delivery may give relatively selective pulmonary effects with less systemic hypotension. This matters because oral and intravenous nitroglycerin are non-selective and can cause systemic hypotension.
 
@@ -143,6 +143,19 @@ The mechanism is plausible and acute hemodynamic data are consistent, but the tr
 - A safety plan addressing hypotension and the drug-interaction burden
 
 **Other predicted indications:** Prinzmetal angina has an evidence level of L4 and a "Proceed with Guardrails" recommendation. It is largely an established nitrate use rather than true repurposing, so the label status should be verified. Kyphoscoliotic heart disease, primary hereditary glaucoma, and congenital hypotrichosis milia have no trials or literature and a weak or absent mechanistic basis, so all three are on Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nitroglycerin Lingual (nitroglycerin) prescribing information, Allegis Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fadd07b7-189b-4678-ad0f-bf1e4d3d1300) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -74,7 +74,7 @@ Other predictions in the list:
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not available in the data compiled for this report. Etoposide is, however, a well-known topoisomerase II inhibitor, a class of cytotoxic drug that causes DNA strand breaks in rapidly dividing cells. Its efficacy in small cell lung carcinoma and germ cell tumours is established, and mechanistically it may be applicable to other rapidly proliferating, chemosensitive malignancies.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for etoposide: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), label version 2026-10-07; accessed 2026-11-19.) Etoposide is, however, a well-known topoisomerase II inhibitor, a class of cytotoxic drug that causes DNA strand breaks in rapidly dividing cells. Its efficacy in small cell lung carcinoma and germ cell tumours is established, and mechanistically it may be applicable to other rapidly proliferating, chemosensitive malignancies.
 
 Ewing sarcoma is a fast-growing, chemosensitive paediatric and young-adult bone and soft-tissue cancer. A published study notes that it is highly sensitive to genotoxic agents such as etoposide, linked to R-loop accumulation and impaired BRCA1-mediated DNA repair driven by the EWS-FLI1 fusion. Etoposide combined with ifosfamide is already a core component of standard regimens (the alternating VDC/IE schedule), and a randomised phase III trial published in the New England Journal of Medicine showed that adding ifosfamide and etoposide to standard chemotherapy improved outcomes in newly diagnosed disease.
 
@@ -167,6 +167,19 @@ Multiple randomised phase III trials and a consensus guideline support etoposide
 - Detailed mechanism-of-action data from DrugBank
 - A safety plan covering paediatric dosing, myelosuppression, secondary leukaemia risk and cumulative toxicity monitoring
 - Use within cooperative-group or institutional protocols, with a review of the drug interactions above (notably the antiemetic NK1 antagonists)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data was not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

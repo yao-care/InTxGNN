@@ -21,11 +21,12 @@
   "items_current": 2843
  },
  "reviews": {
-  "records": 60,
-  "pages": 60,
-  "public_pages_with_records": 57,
+  "records": 717,
+  "pages": 683,
+  "public_pages_with_records": 680,
   "by_action": {
-   "correct": 60
+   "correct": 60,
+   "mechanism": 657
   }
  },
  "fhir": {
@@ -39,7 +40,7 @@
    "l": "L2",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "migraine disorder"
   },
   {
@@ -48,7 +49,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 20,
-   "r": 1,
+   "r": 2,
    "i": "faciodigitogenital syndrome"
   },
   {
@@ -57,7 +58,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "focal stiff limb syndrome"
   },
   {
@@ -66,7 +67,7 @@
    "l": "L4",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "HIV infectious disease"
   },
   {
@@ -75,7 +76,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "visceral calciphylaxis"
   },
   {
@@ -84,7 +85,7 @@
    "l": "L1",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "chronic hepatitis B virus infection"
   },
   {
@@ -110,21 +111,12 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
-   "t": "Allantoin",
-   "u": "/drugs/allantoin/",
-   "l": "L5",
-   "lt": 11,
-   "lv": 11,
-   "r": 1,
-   "i": "severe nonproliferative diabetic retinopathy"
-  },
-  {
    "t": "Amiloride",
    "u": "/drugs/amiloride/",
    "l": "L5",
    "lt": 4,
    "lv": 4,
-   "r": 1,
+   "r": 2,
    "i": "malignant hypertensive renal disease"
   },
   {
@@ -133,26 +125,8 @@
    "l": "L4",
    "lt": 7,
    "lv": 7,
-   "r": 1,
+   "r": 2,
    "i": "migraine disorder"
-  },
-  {
-   "t": "Amylmetacresol",
-   "u": "/drugs/amylmetacresol/",
-   "l": "L5",
-   "lt": 6,
-   "lv": 6,
-   "r": 1,
-   "i": "cauda equina syndrome"
-  },
-  {
-   "t": "Arginine",
-   "u": "/drugs/arginine/",
-   "l": "L4",
-   "lt": 11,
-   "lv": 11,
-   "r": 1,
-   "i": "gastroparesis (disease)"
   },
   {
    "t": "Atazanavir",
@@ -160,8 +134,35 @@
    "l": "L4",
    "lt": 11,
    "lv": 11,
-   "r": 1,
+   "r": 2,
    "i": "simian immunodeficiency virus infection"
+  },
+  {
+   "t": "Bacitracin",
+   "u": "/drugs/bacitracin/",
+   "l": "L5",
+   "lt": 11,
+   "lv": 11,
+   "r": 2,
+   "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Clioquinol",
+   "u": "/drugs/clioquinol/",
+   "l": "L5",
+   "lt": 5,
+   "lv": 5,
+   "r": 2,
+   "i": "ectothrix infectious disease"
+  },
+  {
+   "t": "Clonidine",
+   "u": "/drugs/clonidine/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 20,
+   "r": 2,
+   "i": "faciodigitogenital syndrome"
   }
  ],
  "example": {
@@ -170,7 +171,7 @@
   "l": "L1",
   "lt": 20,
   "lv": 20,
-  "r": 0,
+  "r": 1,
   "i": "chronic hepatitis B virus infection"
  },
  "recent_reviews": [

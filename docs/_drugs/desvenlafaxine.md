@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **obsessive-compulsive disorder**,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for desvenlafaxine are not available in the data compiled for this report. Based on its drug class, desvenlafaxine inhibits the reuptake of serotonin and norepinephrine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for desvenlafaxine: "The exact mechanism of the antidepressant action of desvenlafaxine is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake. Non-clinical studies have shown that desvenlafaxine is a potent and selective SNRI." ([DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce), label version 2026-04-28; accessed 2026-11-19.) Based on its drug class, desvenlafaxine inhibits the reuptake of serotonin and norepinephrine.
 
 Serotonergic modulation is the pharmacological basis of current OCD treatment, including SSRIs and clomipramine. A published review of double-blind studies (2014) confirms the key role of the serotonin system in OCD. This offers a plausible class-level link to desvenlafaxine.
 
@@ -116,6 +116,19 @@ The OCD prediction has a high model score and a plausible serotonergic rationale
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications from the Indian regulator
 - A review of the major drug interactions and serotonergic risks for an OCD population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for desvenlafaxine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

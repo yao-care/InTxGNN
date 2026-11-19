@@ -60,7 +60,7 @@ The mechanism points in the opposite direction, so this prediction is most likel
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacological knowledge, probenecid is a uricosuric that blocks the renal urate transporter URAT1 (SLC22A12) and the organic anion transporters OAT1/OAT3. This increases urate excretion in urine and lowers serum urate, which is why it works in gout.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for probenecid: "Probenecid is a uricosuric and renal tubular blocking agent." ([DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069), label version 2026-11-06; accessed 2026-11-19.) From general pharmacological knowledge, probenecid is a uricosuric that blocks the renal urate transporter URAT1 (SLC22A12) and the organic anion transporters OAT1/OAT3. This increases urate excretion in urine and lowers serum urate, which is why it works in gout.
 
 Renal hypouricemia is mostly caused by loss-of-function mutations in URAT1, so the kidney already wastes urate. The TxGNN score most likely reflects network proximity: the drug and the disease share the same urate-transport genes and pathways. That is not a therapeutic relationship. Probenecid would be expected to worsen the condition rather than treat it. In the literature, probenecid appears only as a diagnostic probe, where the response of urate clearance to probenecid and pyrazinamide is used to classify the type of tubular defect.
 
@@ -134,6 +134,19 @@ The model score is high, but it is not backed by any clinical trial or any liter
 - Mechanism of action data confirmed from DrugBank
 - Package insert warnings and contraindications from the Indian manufacturer
 - Evidence that probenecid has a therapeutic, not just a diagnostic, role in the predicted conditions. Without this, the repurposing direction should be reconsidered.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

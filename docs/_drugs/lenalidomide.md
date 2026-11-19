@@ -56,7 +56,7 @@ with **47 clinical trials** (mostly Phase 1 and Phase 2) and **20 publications**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for lenalidomide is not available in the data compiled for this report. Based on general knowledge, lenalidomide is a cereblon E3 ligase modulator. It promotes degradation of the transcription factors IKZF1 and IKZF3, and of CK1alpha, which matters in del(5q) myeloid disease. It also activates NK and T cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lenalidomide: "Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex." ([DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be), label version 2023-03-24; accessed 2026-11-19.) Based on general knowledge, lenalidomide is a cereblon E3 ligase modulator. It promotes degradation of the transcription factors IKZF1 and IKZF3, and of CK1alpha, which matters in del(5q) myeloid disease. It also activates NK and T cells.
 
 Its efficacy in plasma cell myeloma and myelodysplastic syndrome is established. Myelodysplastic syndrome is closely related to acute myeloid leukemia, because it carries a risk of transforming into it. The CK1alpha-degradation mechanism gives a plausible reason for activity in del(5q) AML and MDS. The immune-activating effects also support its use as maintenance or combination therapy. Most of the trials listed below test exactly these settings.
 
@@ -138,6 +138,19 @@ Several completed Phase 2 trials, including single-agent studies in AML and main
 - Results from the randomized Phase 2/3 and Phase 3 trials (NCT01522976, NCT04490707), and a focused review of the randomized evidence in AML
 - A safety plan covering myelosuppression, thromboembolism, renal dosing, and the statin interactions
 - Definition of the target population, such as del(5q) disease, post-transplant maintenance, or combination with azacitidine
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data for lenalidomide is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

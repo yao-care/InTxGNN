@@ -56,7 +56,7 @@ There are **0 clinical trials** and **0 publications** supporting this predictio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, tranylcypromine is a non-selective, irreversible MAO inhibitor. It raises brain monoamine levels, and this is the basis of its efficacy in depression and anxiety disorders.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tranylcypromine: "The mechanism of action of PARNATE as an antidepressant is not fully understood, but is presumed to be linked to potentiation of monoamine neurotransmitter activity in the central nervous system (CNS) resulting from its irreversible inhibition of the enzyme monoamine oxidase (MAO)." ([DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27), label version 2025-07-02; accessed 2026-11-19.) Based on general pharmacology, tranylcypromine is a non-selective, irreversible MAO inhibitor. It raises brain monoamine levels, and this is the basis of its efficacy in depression and anxiety disorders.
 
 Benign paroxysmal torticollis of infancy is a rare paediatric movement disorder. It is often linked to channelopathy genes such as CACNA1A. No plausible link between MAO inhibition and this condition is established in the available data. Tranylcypromine also inhibits LSD1 (KDM1A), an epigenetic enzyme, but this has no demonstrated connection to this condition.
 
@@ -107,6 +107,19 @@ The prediction has no clinical trials or literature (L5). No mechanistic link to
 **Note on other predictions:** Other predictions in the same analysis have more support and are better candidates for follow-up:
 - **Melancholia** (L3) and **neurotic depression** (L2) largely overlap with the existing depression indications. Both were rated "Proceed with Guardrails", with tyramine diet restriction, interaction screening and monitoring for bipolar switching as guardrails.
 - **Dysthymic disorder**, **agoraphobia** and **neurotic disorder** (all L3) are suitable as research questions.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Parnate (tranylcypromine sulfate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b72d8187-dfcc-4ea0-b5e9-c0be95b69a27) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

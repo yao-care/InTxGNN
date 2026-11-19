@@ -57,7 +57,7 @@ The first-ranked prediction, trigeminal nerve neoplasm (score 0.9997), was not s
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the published literature, valproic acid enhances GABAergic over glutamatergic transmission, blocks sodium channels and modulates T-type calcium channels, which raises the seizure threshold. It also inhibits histone deacetylase, which is of theoretical interest in oncology but not relevant to this indication.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for valproic acid: "Valproic acid dissociates to the valproate ion in the gastrointestinal tract. The mechanisms by which valproate exerts its antiepileptic effects have not been established. It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA)." ([DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f), label version 2025-05-23; accessed 2026-11-19.) From the published literature, valproic acid enhances GABAergic over glutamatergic transmission, blocks sodium channels and modulates T-type calcium channels, which raises the seizure threshold. It also inhibits histone deacetylase, which is of theoretical interest in oncology but not relevant to this indication.
 
 Visual (photosensitive) epilepsy is a reflex seizure type within the generalized epilepsy spectrum, where valproate is already a standard treatment. The prediction therefore fits the drug's known pharmacology well. Support comes from reviews and from a randomized comparison of ethosuximide, valproic acid and lamotrigine in childhood absence epilepsy. That trial concerns a related but different syndrome.
 
@@ -125,6 +125,19 @@ Direct evidence is lacking, however: there are no trials, and support comes from
 - Studies directly addressing photosensitive or visually triggered seizures
 - A pregnancy and reproductive-age risk management plan
 - Review of the 248 recorded drug interactions, prioritising the Major interaction with glycerol phenylbutyrate
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ Several other predicted indications (for example psoriasis) have some literature
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, natalizumab blocks alpha-4 integrin and limits the movement of white blood cells into inflamed tissue. This is how it helps in multiple sclerosis and Crohn's disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for natalizumab: "Natalizumab binds to the α4-subunit of α4β1 and α4β7 integrins expressed on the surface of all leukocytes except neutrophils, and inhibits the α4-mediated adhesion of leukocytes to their counter-receptor(s). The receptors for the α4 family of integrins include vascular cell adhesion molecule-1 (VCAM-1), which is expressed on activated vascular endothelium, and mucosal addressin cell adhesion molecule-1 (MAdCAM-1) present on vascular endothelial cells of the gastrointestinal tract." ([DailyMed: Tysabri (natalizumab) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5fdde91-1989-4dd2-9129-4f3323ea2962), label version 2026-10-09; accessed 2026-11-19.) From general knowledge, natalizumab blocks alpha-4 integrin and limits the movement of white blood cells into inflamed tissue. This is how it helps in multiple sclerosis and Crohn's disease.
 
 A theoretical link to airway inflammation exists, because excessive leukocyte infiltration is a feature of inflammatory lung conditions. However, no clinical or published evidence supports using natalizumab for bronchitis. The high TxGNN score is a model output only.
 
@@ -140,6 +140,19 @@ The top predicted indication, bronchitis, rests only on a model score, with no c
 - Preclinical or clinical evidence in the predicted indication (for example airway inflammation models)
 - A benefit-risk comparison against established therapies, such as IL-17, IL-23 and TNF inhibitors for psoriasis
 - If psoriasis is pursued, prospective controlled data to resolve the conflicting signals of benefit and harm
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tysabri (natalizumab) prescribing information, Biogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c5fdde91-1989-4dd2-9129-4f3323ea2962) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **osteoclastic giant cell tumor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, mitomycin is a DNA cross-linking cytotoxic agent. Its use in pancreatic adenocarcinoma is recorded in the knowledge graph, and mechanistically it may be applicable to other pancreatic exocrine tumours.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for mitomycin: "Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed." ([DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e), label version 2025-03-12; accessed 2026-11-19.) Based on general knowledge, mitomycin is a DNA cross-linking cytotoxic agent. Its use in pancreatic adenocarcinoma is recorded in the knowledge graph, and mechanistically it may be applicable to other pancreatic exocrine tumours.
 
 The predicted disease is a rare pancreatic tumour variant. The model's link appears to come from shared pancreatic tumour biology and from the recorded adenocarcinoma relation. No trial or publication addresses this tumour directly, so the link remains unverified.
 
@@ -111,6 +111,19 @@ The prediction has a very high model score but no trial or publication that stud
 - Disease-specific literature or trial data on mitomycin in this rare tumour
 - Clinical review of whether cytotoxic therapy is appropriate for this tumour type
 - Route and dosing compatibility assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ Stronger support exists for related ulcer indications such as **peptic ulcer dis
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, famotidine is a selective histamine H2 receptor antagonist. It reduces basal and stimulated gastric acid secretion, which is the basis for its use in ulcer healing and reflux disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for famotidine: "Famotidine is a competitive inhibitor of histamine-2 (H2) receptors. The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion. Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output." ([DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def), label version 2024-06-01; accessed 2026-11-19.) Based on known pharmacology, famotidine is a selective histamine H2 receptor antagonist. It reduces basal and stimulated gastric acid secretion, which is the basis for its use in ulcer healing and reflux disease.
 
 Duodenogastric reflux is driven mainly by bile and duodenal contents flowing back into the stomach. Acid suppression may lessen mucosal injury from refluxed material, but it does not address the cause, so any benefit would be indirect. The two available publications are a cohort study of famotidine's effect on gastroesophageal and duodeno-gastro-esophageal reflux in critically ill patients (2003) and a Russian-language report of famotidine 20 mg twice daily in early gastroduodenal reflux disease (2004). Both are small or old.
 
@@ -73,7 +73,6 @@ The other predictions fall into three groups:
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for duodenogastric reflux.
-
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -148,6 +147,19 @@ Famotidine acts on acid, whereas this condition is bile-driven, so benefit would
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications from the India regulator
 - A comparison against PPIs, and a dosing plan covering renal impairment and elderly patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

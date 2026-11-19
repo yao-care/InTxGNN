@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **cauda equina neoplasm**, but 
 
 ## Why is This Prediction Reasonable?
 
-Temozolomide is an oral DNA alkylating agent. It methylates guanine (O6 and N7 positions) and adenine (N3 position), and it crosses the blood-brain barrier, so it is active in tumours of the central nervous system. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description comes from general knowledge of temozolomide pharmacology.
+Temozolomide is an oral DNA alkylating agent. It methylates guanine (O6 and N7 positions) and adenine (N3 position), and it crosses the blood-brain barrier, so it is active in tumours of the central nervous system. According to the Mechanism of Action section of the US FDA-approved prescribing information for temozolomide: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), label version 2026-02-20; accessed 2026-11-19.) This description comes from general knowledge of temozolomide pharmacology.
 
 Cauda equina neoplasms are mostly myxopapillary ependymomas, which are glial-derived tumours of the filum terminale and conus region. Because gliomas and these tumours share a glial origin, a plausible biological link exists. Activity is likely to depend on MGMT promoter methylation status, which is not reported in the available evidence.
 
@@ -135,6 +135,19 @@ The prediction is biologically plausible, since the tumour is glial-derived and 
 - Package insert warnings, contraindications and approved indication text for the Indian licences
 - Detailed mechanism-of-action data
 - A myelosuppression monitoring plan for this patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

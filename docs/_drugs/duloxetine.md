@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Duloxetine belongs to the SNRI class, which blocks reuptake of serotonin and norepinephrine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for duloxetine: "Although the exact mechanisms of the antidepressant, central pain inhibitory and anxiolytic actions of duloxetine in humans are unknown, these actions are believed to be related to its potentiation of serotonergic and noradrenergic activity in the CNS." ([DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b), label version 2026-08-20; accessed 2026-11-19.) Duloxetine belongs to the SNRI class, which blocks reuptake of serotonin and norepinephrine.
 
 Benign paroxysmal torticollis of infancy is a self-limiting paediatric disorder that is associated with CACNA1A channelopathy. No plausible link between serotonin-norepinephrine reuptake inhibition and this condition is evident. The high TxGNN score is a model-based prediction only, and it is not backed by any clinical or literature evidence. The prediction should therefore be treated as a hypothesis with no mechanistic support at present.
 
@@ -97,6 +97,19 @@ The prediction has a very high model score, but there are no clinical trials or 
 - Mechanistic data showing how duloxetine could act on this condition
 - Any preclinical or clinical studies in benign paroxysmal torticollis of infancy
 - Package insert warnings and contraindications, plus a paediatric safety assessment, since the condition occurs in infants
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

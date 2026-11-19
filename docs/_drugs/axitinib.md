@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **liposarcoma**, but the suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Axitinib is generally known as a kinase inhibitor acting on the VEGFR/PDGFR pathways, which drive tumour blood-vessel formation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for axitinib: "Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression." ([DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338), label version 2026-03-12; accessed 2026-11-19.) Axitinib is generally known as a kinase inhibitor acting on the VEGFR/PDGFR pathways, which drive tumour blood-vessel formation.
 
 A preclinical study (2016) reported that axitinib showed antiangiogenic and antitumour activity in myxoid liposarcoma cell lines. This offers a mechanistic rationale: liposarcoma is a soft-tissue sarcoma, and blocking angiogenesis could slow its growth.
 
@@ -114,6 +114,19 @@ The prediction score is high, but the only support is one preclinical study in a
 - Mechanism of action data to strengthen the mechanistic link
 - Package insert warnings and contraindications, which are currently missing
 - A review of the major interactions (e.g., clarithromycin, dexamethasone) for the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

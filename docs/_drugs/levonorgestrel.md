@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acne (disease)**, and the evi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known information, levonorgestrel is a progestin derived from 19-nortestosterone. It acts on progesterone receptors and has some residual androgenic activity, which in theory is unfavorable for acne.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for levonorgestrel: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), label version 2026-03-04; accessed 2026-11-19.) Based on known information, levonorgestrel is a progestin derived from 19-nortestosterone. It acts on progesterone receptors and has some residual androgenic activity, which in theory is unfavorable for acne.
 
 Acne is driven in part by androgen action on the oil glands of the skin. Combined oral contraceptives that contain ethinyl estradiol raise sex hormone-binding globulin and lower free androgens, which can improve acne. A randomized, placebo-controlled trial of an oral contraceptive with 20 µg ethinyl estradiol and 100 µg levonorgestrel was done in moderate acne (PMID 12196750). That is the basis for the L2 rating.
 
@@ -108,6 +108,18 @@ One randomized, placebo-controlled trial supports an oral contraceptive containi
 - Mechanism of action data
 - Confirmation of whether any benefit is specific to the combination with ethinyl estradiol or applies to levonorgestrel-containing products more broadly
 - Review of the drug interaction profile, especially with glucose-lowering drugs, and of the patient groups where hormonal therapy is a concern
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

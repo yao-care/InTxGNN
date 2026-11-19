@@ -56,7 +56,7 @@ However, there are **0 clinical trials** and **0 publications** supporting this 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Indomethacin belongs to the NSAID class and is generally understood to reduce prostaglandin-driven inflammation by inhibiting cyclooxygenase (COX) enzymes. This is why it works in inflammatory arthritis and gout.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for indomethacin: "Indomethacin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da), label version 2024-12-16; accessed 2026-11-19.) Indomethacin belongs to the NSAID class and is generally understood to reduce prostaglandin-driven inflammation by inhibiting cyclooxygenase (COX) enzymes. This is why it works in inflammatory arthritis and gout.
 
 Brachydactyly-syndactyly syndrome, however, is a rare congenital limb malformation with a genetic developmental basis. It is not an inflammatory disease, and no mechanistic link between COX inhibition and limb patterning has been established. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -118,6 +118,19 @@ The prediction has no clinical trials and no literature, and no plausible mechan
 - Any preclinical or case-level evidence in this condition
 
 **Note on other predictions:** Among the other top-ranked predictions, juvenile idiopathic arthritis (rank 8) has the most support (L3, older reviews and one 1978 double-blind comparison). However, this is an established symptomatic NSAID use rather than a novel repurposing, and it does not show disease modification.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

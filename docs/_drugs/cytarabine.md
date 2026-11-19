@@ -57,7 +57,7 @@ The original indications are not available from the Indian licence records, whic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cytarabine is a pyrimidine nucleoside antimetabolite that inhibits DNA synthesis in cells in S phase. Its efficacy in acute leukemia is established, and mechanistically it may be applicable to rapidly proliferating tumors such as small cell lung carcinoma.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cytarabine: "Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported." ([DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd), label version 2026-10-19; accessed 2026-11-19.) Based on known information, cytarabine is a pyrimidine nucleoside antimetabolite that inhibits DNA synthesis in cells in S phase. Its efficacy in acute leukemia is established, and mechanistically it may be applicable to rapidly proliferating tumors such as small cell lung carcinoma.
 
 The supporting literature is indirect. Most retrieved studies concern **non-small cell lung cancer** (NSCLC), not SCLC:
 - Two 1990 phase II studies tested cytarabine with cisplatin, with or without vindesine, in advanced NSCLC. In the high-dose cytarabine plus cisplatin study (37 patients), the response rate was only 14%, with grade IV myelosuppression in 32%.
@@ -139,6 +139,19 @@ The prediction rests on a computational score alone. The only clinical data conc
 | 9 | Neuroblastoma | 0.9919 | L3 (preclinical cytarabine activity; the three registered trials do not clearly test cytarabine) | Research question |
 
 Among the alternatives, **neuroblastoma** has the most direct preclinical support, with in vitro cytarabine activity in neuroblastoma cell lines and a priming strategy using cyclopentenyl cytosine.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

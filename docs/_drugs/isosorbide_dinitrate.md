@@ -58,7 +58,7 @@ Isosorbide dinitrate is a nitric oxide (NO) donor that is marketed in India unde
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Isosorbide dinitrate is generally understood as an NO donor. NO release raises cGMP and relaxes vascular smooth muscle.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for hydralazine hydrochloride and isosorbide dinitrate (a combination product containing isosorbide dinitrate): "Isosorbide dinitrate is a vasodilator affecting both arteries and veins." ([DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00), label version 2025-11-30; accessed 2026-11-19.) Isosorbide dinitrate is generally understood as an NO donor. NO release raises cGMP and relaxes vascular smooth muscle.
 
 A speculative link is that this vasodilation could improve scalp blood flow, which would be conceptually similar to how minoxidil is thought to act. The very high score likely reflects network proximity to other vasoactive drugs rather than direct biological evidence. No trial or publication supports the link, so it should be treated as a hypothesis only.
 
@@ -128,6 +128,19 @@ The alopecia prediction has no supporting trials or publications, and the vasodi
 - Mechanism of action data from DrugBank
 - A formulation and route plan, since all marketed forms are oral or sublingual and a scalp indication would likely need a topical product
 - If the team wants a better-supported direction, re-prioritizing pulmonary hypertension (L3) or diabetic foot ulcer (NCT02789033, with its results verified) for further review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

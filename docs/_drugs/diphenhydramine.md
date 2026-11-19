@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found to support this direct
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on well-established pharmacology, diphenhydramine blocks H1 histamine receptors and also has mild anticholinergic and local anesthetic effects. In theory this could ease ocular itching and redness.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for diphenhydramine: "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action." ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), label version 2026-10-28; accessed 2026-11-19.) Based on well-established pharmacology, diphenhydramine blocks H1 histamine receptors and also has mild anticholinergic and local anesthetic effects. In theory this could ease ocular itching and redness.
 
 The link to rosacea conjunctivitis is weak. Rosacea-related eye disease is driven mainly by meibomian gland dysfunction, an unstable tear film, Demodex and bacterial colonization, and neurovascular and innate-immune dysregulation (for example MMPs, IL-1 and TNF). Histamine plays a minor or unproven role in these processes.
 
@@ -104,6 +104,19 @@ The prediction is supported only by the model score. No trial or publication add
 - Preclinical or mechanistic data on histamine's role in rosacea conjunctivitis
 - Assessment of whether an ocular formulation or route is feasible, since the marketed forms are oral
 - Package insert warnings and contraindications, plus a safety review for the ocular setting and for people taking interacting drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

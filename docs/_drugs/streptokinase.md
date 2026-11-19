@@ -56,7 +56,7 @@ Note that myocardial infarction is already an established use of streptokinase, 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, streptokinase forms a complex with plasminogen that converts plasminogen to plasmin. Plasmin then breaks down fibrin, the protein mesh that holds a clot together.
+ChEMBL (EMBL-EBI) records the mechanism of action of streptokinase as: Plasminogen activator ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, streptokinase forms a complex with plasminogen that converts plasminogen to plasmin. Plasmin then breaks down fibrin, the protein mesh that holds a clot together.
 
 In a heart attack, a clot blocks a coronary artery. Dissolving that clot restores blood flow and limits damage to heart muscle. This is why the mechanism fits the predicted indication directly.
 
@@ -136,6 +136,18 @@ The mechanism directly fits myocardial infarction, and several completed Phase 3
 | Prinzmetal angina | L5 | Hold | Mainly vasospasm, so weak mechanistic fit |
 | Hemoglobinopathy | L5 | Hold | No clear mechanistic link |
 | Partial deletion of the short arm of chromosome 16 | L5 | Hold | No supporting studies; likely a prediction artifact |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

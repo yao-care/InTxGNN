@@ -58,7 +58,7 @@ For comparison, the only prediction with literature is manic bipolar affective d
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Prochlorperazine is known as a phenothiazine D2 dopamine receptor antagonist, and its efficacy in schizophrenia and in nausea, vomiting and agitation is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of prochlorperazine as: Dopamine D2 receptor antagonist ([ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728), CC BY-SA 3.0; accessed 2026-11-19.) Prochlorperazine is known as a phenothiazine D2 dopamine receptor antagonist, and its efficacy in schizophrenia and in nausea, vomiting and agitation is established.
 
 **Retinal dystrophy with or without extraocular anomalies (top-ranked prediction):** No mechanistic link has been identified. Inherited retinal degeneration is a genetic condition, and a D2 antagonist has no plausible disease-modifying pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same holds for the other top-ranked predictions: hydranencephaly, congenital disorder of glycosylation with defective fucosylation, X-linked myopia, Charcot-Marie-Tooth disease type 1G, perisylvian polymicrogyria, syndromic myopia, female-limited X-linked myopia 26, and atypical glycine encephalopathy. All have no trials, no literature and no plausible mechanism.
 
@@ -115,6 +115,19 @@ The top-ranked predictions, including retinal dystrophy, have only a model score
 - For manic bipolar disorder: a systematic review or controlled data comparing prochlorperazine with current standard antipsychotics
 - A cardiovascular, QT and metabolic safety review given the knowledge-graph contraindications
 - No further work on the rare genetic disease predictions unless new biological evidence emerges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL728 (prochlorperazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL728) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

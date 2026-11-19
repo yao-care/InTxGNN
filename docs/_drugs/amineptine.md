@@ -57,7 +57,7 @@ This is a computational prediction without direct supporting studies.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology, amineptine is a tricyclic-type antidepressant thought to act mainly through dopamine reuptake inhibition with weaker noradrenergic effects. This description is not confirmed by the data compiled for this report, so mechanistic confidence is limited.
+ChEMBL (EMBL-EBI) records the mechanism of action of amineptine as: Dopamine D1 and D2 receptor antagonist ([ChEMBL CHEMBL418995 (amineptine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL418995), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, amineptine is a tricyclic-type antidepressant thought to act mainly through dopamine reuptake inhibition with weaker noradrenergic effects. This description is not confirmed by the data compiled for this report, so mechanistic confidence is limited.
 
 Agoraphobia belongs to the anxiety spectrum, so a plausible indirect link exists. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -98,6 +98,19 @@ The prediction score is high, but no clinical trial or publication directly stud
 - A systematic literature search for amineptine in agoraphobia and panic or phobic disorders
 - Comparison with established first-line treatments for agoraphobia (such as SSRIs and cognitive behavioural therapy)
 - A review of amineptine's safety history before considering any new-use study
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL418995 (amineptine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL418995) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

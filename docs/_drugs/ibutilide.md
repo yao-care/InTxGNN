@@ -54,7 +54,7 @@ Ibutilide is a class III antiarrhythmic drug given by injection. The TxGNN model
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, ibutilide is a class III antiarrhythmic that blocks the delayed rectifier potassium current (IKr, hERG) and promotes a slow inward sodium current. This prolongs the cardiac action potential.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ibutilide: "CORVERT Injection prolongs action potential duration in isolated adult cardiac myocytes and increases both atrial and ventricular refractoriness in vivo, ie, class III electrophysiologic effects. Voltage clamp studies indicate that CORVERT, at nanomolar concentrations, delays repolarization by activation of a slow, inward current (predominantly sodium), rather than by blocking outward potassium currents, which is the mechanism by which most other class III antiarrhythmics act." ([DailyMed: Corvert (ibutilide fumarate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7d717ed-022d-4459-b5e6-098c2a8b7427), label version 2024-01-25; accessed 2026-11-19.) Based on general pharmacology, ibutilide is a class III antiarrhythmic that blocks the delayed rectifier potassium current (IKr, hERG) and promotes a slow inward sodium current. This prolongs the cardiac action potential.
 
 No clear link to rheumatoid arthritis biology (TNF, IL-6, JAK/STAT, B/T-cell activation) is supported by the available data. Potassium channels such as Kv1.3 and KCa3.1 are discussed in T-cell and synoviocyte biology. However, ibutilide is not known to act on them, so this connection is speculative. The high score (0.993) reflects a model prediction, not experimental or clinical support.
 
@@ -94,6 +94,19 @@ Both predictions rest only on model scores, with no clinical trials, no literatu
 - Preclinical evidence, for example on Kv1.3/KCa3.1 channel activity in T cells and synoviocytes, to test the speculative mechanism
 - A risk-benefit assessment of QT and arrhythmia risk for chronic or non-monitored use
 - Confirmation of the approved indication for the registered product
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Corvert (ibutilide fumarate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7d717ed-022d-4459-b5e6-098c2a8b7427) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

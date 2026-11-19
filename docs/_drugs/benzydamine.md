@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **benign prostatic hyperplasia 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general background knowledge (not from the supplied data), benzydamine is a locally acting NSAID with anti-inflammatory, analgesic and local anaesthetic properties. These are thought to involve reduced pro-inflammatory cytokines such as TNF-alpha and IL-1beta, together with membrane-stabilising effects.
+ChEMBL (EMBL-EBI) records the mechanism of action of benzydamine as: Cyclooxygenase inhibitor ([ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610), CC BY-SA 3.0; accessed 2026-11-19.) Based on general background knowledge (not from the supplied data), benzydamine is a locally acting NSAID with anti-inflammatory, analgesic and local anaesthetic properties. These are thought to involve reduced pro-inflammatory cytokines such as TNF-alpha and IL-1beta, together with membrane-stabilising effects.
 
 A possible link to the new indication is that inflammation is believed to contribute to prostatic enlargement and lower urinary tract symptoms, so an anti-inflammatory agent could plausibly be relevant. This link is speculative. The very high TxGNN score reflects a model prediction only, and it has not been tested in preclinical or clinical studies.
 
@@ -89,6 +89,19 @@ The prediction score is very high, but it is the only support. There are no clin
 - Package insert warnings and contraindications from the India regulator, needed before any safety screening
 - Preclinical or early clinical evidence of benefit in BPH or lower urinary tract symptoms
 - Assessment of whether a suitable route or formulation exists for prostatic delivery, given that current products are local oral and dental forms
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL12610 (benzydamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL12610) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

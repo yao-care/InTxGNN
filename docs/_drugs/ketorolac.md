@@ -56,7 +56,7 @@ with **17 clinical trials** and **19 publications** currently supporting this di
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not currently available in the data compiled for this report. Ketorolac is a non-selective COX-1/COX-2 inhibitor (an NSAID) that reduces prostaglandin synthesis. This is a well-established mechanism for the drug class.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ketorolac: "Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models. The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition." ([DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f), label version 2026-11-13; accessed 2026-11-19.) Ketorolac is a non-selective COX-1/COX-2 inhibitor (an NSAID) that reduces prostaglandin synthesis. This is a well-established mechanism for the drug class.
 
 Its original ocular indications are inflammatory conditions of the eye surface, where reducing prostaglandins eases inflammation and discomfort. Prostaglandins also contribute to peripheral and central sensitization and neurogenic inflammation in migraine and tension-type headache. COX inhibition therefore offers a plausible analgesic mechanism for headache, and the same anti-inflammatory action explains why the model links the two conditions.
 
@@ -127,6 +127,19 @@ Multiple completed Phase 2 to 4 trials, together with systematic reviews, meta-a
 - Detailed mechanism of action data from DrugBank
 - Confirmation of the approved indications and routes of the registered injectable and nasal/oral products for headache use
 - Guardrails: avoid in patients with GI bleeding risk, renal impairment, cardiovascular disease or pregnancy; limit treatment duration; check drug interactions (e.g. lithium); use careful dosing in children
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not currently available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

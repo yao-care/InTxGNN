@@ -58,7 +58,7 @@ Acetylsalicylic acid (aspirin) is a long-established oral drug that inhibits cyc
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this drug were not available in the data compiled for this report. Aspirin is generally known to block cyclooxygenase enzymes, which reduces prostaglandin and thromboxane production and gives it antiplatelet, analgesic and anti-inflammatory effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aspirin and extended - release dipyridamole (a combination product containing acetylsalicylic acid): "Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction." ([DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1), label version 2026-08-19; accessed 2026-11-19.) Aspirin is generally known to block cyclooxygenase enzymes, which reduces prostaglandin and thromboxane production and gives it antiplatelet, analgesic and anti-inflammatory effects.
 
 The data compiled for this report did not identify any mechanistic rationale linking these actions to atrophoderma vermiculata. This condition is a rare follicular and atrophic skin disorder. The high score is a computational output only. It is not supported by any trial, case series or publication retrieved for this report, and the similarity to the drug's established uses has not been assessed.
 
@@ -118,6 +118,19 @@ Package insert warnings and contraindications were not retrieved. Please refer t
 - Any case reports, preclinical work or other studies that directly address this condition
 - Package insert warnings and contraindications for the marketed products
 - An assessment of whether an oral antiplatelet or anti-inflammatory drug is a suitable route for a skin condition, with a bleeding-risk review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for this drug were not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

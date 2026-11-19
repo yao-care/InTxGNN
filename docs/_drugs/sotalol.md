@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **sick sinus syndrome 2, autoso
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, sotalol combines beta-adrenergic blockade with potassium channel blockade (class III antiarrhythmic activity). Together these slow the sinus rate and atrioventricular conduction, which is why it is effective for atrial fibrillation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sotalol: "Sotalol has both beta-adrenoreceptor blocking (Vaughan Williams Class II) and cardiac action potential duration prolongation (Vaughan Williams Class III) antiarrhythmic properties. The two isomers of sotalol have similar Class III antiarrhythmic effects, while the l-isomer is responsible for virtually all of the beta-blocking activity." ([DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee), label version 2024-12-16; accessed 2026-11-19.) From general pharmacology, sotalol combines beta-adrenergic blockade with potassium channel blockade (class III antiarrhythmic activity). Together these slow the sinus rate and atrioventricular conduction, which is why it is effective for atrial fibrillation.
 
 The predicted indication is not mechanistically reasonable. Sick sinus syndrome 2 is linked to HCN4 variants that cause sinus node dysfunction. Further slowing of sinus node activity would be expected to worsen the condition, and sotalol is generally contraindicated in sick sinus syndrome without a pacemaker. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (both conditions are rhythm disorders), not biological evidence or therapeutic plausibility.
 
@@ -148,6 +148,19 @@ The top prediction (sick sinus syndrome 2) rests on model score alone (L5), with
 - Detailed mechanism of action data (for example from DrugBank)
 - For the stroke direction, trials with stroke as a primary endpoint that separate any sotalol effect from anticoagulation
 - Review of whether the sick sinus syndrome prediction should be discarded as a likely TxGNN model (deep learning) artefact
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

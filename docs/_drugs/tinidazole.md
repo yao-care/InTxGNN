@@ -56,7 +56,7 @@ The result is a model-only prediction that should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tinidazole is a 5-nitroimidazole antimicrobial. Its efficacy in vaginal infections such as bacterial vaginosis and trichomoniasis is established, and the model appears to link it to vaginitis in general.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for tinidazole: "Tinidazole is an antiprotozoal, antibacterial agent.. […] Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro radical generated as a result of this reduction may be responsible for the antiprotozoal activity." ([DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7), label version 2026-08-18; accessed 2026-11-19.) Based on known information, tinidazole is a 5-nitroimidazole antimicrobial. Its efficacy in vaginal infections such as bacterial vaginosis and trichomoniasis is established, and the model appears to link it to vaginitis in general.
 
 The prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the approved vaginitis, vulvitis and vulvovaginitis indications, not biological evidence. Atrophic vaginitis after menopause is caused mainly by estrogen deficiency, not infection. An antimicrobial would therefore not be expected to treat the underlying condition. At most it might help with a secondary infection.
 
@@ -123,6 +123,19 @@ The prediction rests on model score alone (L5), with no clinical trials or liter
 - Evidence that a secondary infectious component is clinically relevant in atrophic vaginitis, before any trial is designed
 - Assessment of route compatibility, since no vaginal formulation is currently registered
 - Review of the neuropathy, neutropenia and epilepsy signals for any target population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

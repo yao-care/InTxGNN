@@ -60,7 +60,7 @@ No clinical trials or publications were found for this disease, so the predictio
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for donepezil is not available in the data compiled for this report. Donepezil is generally known as a cholinesterase inhibitor, which raises acetylcholine levels in the brain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for donepezil: "Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function." ([DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975), label version 2021-12-30; accessed 2026-11-19.) Donepezil is generally known as a cholinesterase inhibitor, which raises acetylcholine levels in the brain.
 
 Psychogenic (functional) movement disorders are a different type of condition from the neurodegenerative disease for which donepezil is typically used. A cholinergic link to them is speculative and is not supported by any trial or publication retrieved for this report. The prediction should therefore be treated as a hypothesis only.
 
@@ -116,6 +116,19 @@ The prediction has a high model score (0.9923) but no clinical trials or publica
 - Mechanism-of-action data for donepezil and a clearly argued link to psychogenic movement disorders
 - Any preclinical or clinical studies directly addressing this condition
 - Package insert warnings and contraindications for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for donepezil is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

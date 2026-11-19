@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but *
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, levocetirizine is a selective histamine H1 receptor antagonist. Its efficacy in allergic rhinitis and urticaria is established, and it may mechanistically be applicable to rheumatoid arthritis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for levocetirizine: "Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H 1 receptors. The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models." ([DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222), label version 2025-07-22; accessed 2026-11-19.) Based on known information, levocetirizine is a selective histamine H1 receptor antagonist. Its efficacy in allergic rhinitis and urticaria is established, and it may mechanistically be applicable to rheumatoid arthritis.
 
 A possible, unvalidated link is that histamine signalling may contribute to synovial inflammation, mast cell activity and vascular permeability in rheumatoid arthritis. This link cannot be verified from the data compiled for this report. Any anti-inflammatory effect would likely be modest compared with established disease-modifying therapies.
 
@@ -101,6 +101,19 @@ The prediction rests only on a high TxGNN score. There are no clinical trials or
 - Package insert warnings and contraindications for the India-marketed products (currently missing and blocking safety screening)
 - Approved indication text for the India registrations
 - Renal safety assessment, given the kidney-related associations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

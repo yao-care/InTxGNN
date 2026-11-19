@@ -56,7 +56,7 @@ but so far only **2 preclinical publications** and **no clinical trials** suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Pharmacology data, however, show that sulpiride is selective for the dopamine D2 and D3 receptors, with low affinity for the D4 receptor. It is used for schizophrenia, depression, anxiety and behavioural problems in children.
+ChEMBL (EMBL-EBI) records the mechanism of action of sulpiride as: Dopamine D2 receptor antagonist ([ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26), CC BY-SA 3.0; accessed 2026-11-19.) Pharmacology data, however, show that sulpiride is selective for the dopamine D2 and D3 receptors, with low affinity for the D4 receptor. It is used for schizophrenia, depression, anxiety and behavioural problems in children.
 
 Dopamine D2-like receptors modulate the light responses of retinal ganglion cells. In animal models of retinitis pigmentosa, the retinal dopamine system appears to be dysfunctional. In the P23H rat model, D2 antagonists such as sulpiride and eticlopride appeared to improve visual responses. They did so by increasing the light sensitivity of retinal ganglion cells and converting abnormal ON-center cells into OFF-center cells.
 
@@ -104,6 +104,19 @@ The only support is two indirect preclinical electrophysiology studies in a rat 
 - India package insert warnings and contraindications, to allow safety screening
 - A safety assessment for chronic use in a retinal disease population, including the known central nervous system effects of a D2 antagonist
 - Clarification of which retinal dystrophy subtypes, if any, are plausible targets
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

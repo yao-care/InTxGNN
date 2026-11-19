@@ -56,7 +56,7 @@ but **no clinical trials** are registered for this indication and the **19 publi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, dacarbazine is a DNA-alkylating triazene agent. It is activated in the liver and produces a methylating species that damages DNA in rapidly dividing cells. Its efficacy in Hodgkin lymphoma and metastatic melanoma is established, and mechanistically it could plausibly act on other rapidly dividing tumours.
+ChEMBL (EMBL-EBI) records the mechanism of action of dacarbazine as: DNA inhibitor ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacological knowledge, dacarbazine is a DNA-alkylating triazene agent. It is activated in the liver and produces a methylating species that damages DNA in rapidly dividing cells. Its efficacy in Hodgkin lymphoma and metastatic melanoma is established, and mechanistically it could plausibly act on other rapidly dividing tumours.
 
 However, the data compiled for this report do not support a specific mechanistic rationale for upper aerodigestive tract neoplasms. These tumours are typically squamous cell carcinomas, which differ from the original indications. The very high TxGNN score is a computational prediction only.
 
@@ -127,6 +127,19 @@ The prediction rests on a computational score alone. No clinical trials exist, a
 - Preclinical or clinical evidence of dacarbazine activity in upper aerodigestive tract neoplasms
 - Approved indication text for the Indian registrations
 - A comparison against current standard therapies for this indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

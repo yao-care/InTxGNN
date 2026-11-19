@@ -60,7 +60,7 @@ The top-ranked prediction is therefore a research question rather than an action
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known pharmacology, budesonide is a glucocorticoid with broad anti-inflammatory and immunosuppressive activity. It suppresses Th2 cytokines and reduces eosinophil and mast cell activity. Its efficacy in allergic airway disease (asthma, allergic rhinitis) and inflammatory bowel disease is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for budesonide: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), label version 2026-06-10; accessed 2026-11-19.) Based on known pharmacology, budesonide is a glucocorticoid with broad anti-inflammatory and immunosuppressive activity. It suppresses Th2 cytokines and reduces eosinophil and mast cell activity. Its efficacy in allergic airway disease (asthma, allergic rhinitis) and inflammatory bowel disease is established.
 
 Atopic eczema is a Th2-driven allergic inflammatory skin disease, which overlaps with the allergic and eosinophilic inflammation budesonide already treats. Topical corticosteroids are already standard therapy for this condition, so the mechanistic link is plausible.
 
@@ -144,6 +144,19 @@ The TxGNN score for atopic eczema is very high, but it is a computational predic
 - A topical formulation and route-compatibility assessment
 - A safety plan covering systemic absorption, adrenal suppression, growth in children and contact sensitisation
 - Alternative lead: the bronchitis/bronchiolitis and nasal polyp indications (L2 and L4) could be reviewed separately, once a defined patient population and efficacy results are available
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

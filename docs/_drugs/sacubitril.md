@@ -56,7 +56,7 @@ Note: the top-ranked TxGNN prediction is a rare COL4A1-related small vessel dise
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, sacubitril is a prodrug whose active metabolite inhibits neprilysin, an enzyme that breaks down natriuretic peptides (ANP/BNP). It is usually given with valsartan, an angiotensin receptor blocker.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sacubitril and valsartan (a combination product containing sacubitril): "Sacubitril and valsartan contains a neprilysin inhibitor, sacubitril, and an angiotensin receptor blocker, valsartan. Sacubitril and valsartan inhibits neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite of the prodrug sacubitril, and blocks the angiotensin II type-1 (AT 1 ) receptor via valsartan." ([DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c), label version 2026-10-30; accessed 2026-11-19.) Based on the literature, sacubitril is a prodrug whose active metabolite inhibits neprilysin, an enzyme that breaks down natriuretic peptides (ANP/BNP). It is usually given with valsartan, an angiotensin receptor blocker.
 
 Diabetic nephropathy is driven by glomerular hypertension, oxidative stress, inflammation and fibrosis. Raising natriuretic peptides while blocking the renin-angiotensin system could plausibly act on these pathways. Several rodent studies (db/db mice, Zucker obese rats, diabetic rats) report less glomerular and tubular injury with sacubitril/valsartan. These effects were linked to reduced NF-κB inflammation, NLRP3 inflammasome activity and oxidative stress. Compared with valsartan alone, the results were not uniform: one mouse study reported differing effects between models.
 
@@ -126,11 +126,12 @@ Diabetic nephropathy is the only prediction with meaningful support, but the evi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c) |
 
 <!-- review:end log -->
 

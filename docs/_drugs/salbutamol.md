@@ -56,7 +56,7 @@ However, **no clinical trials and no publications** were found for this predicti
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Salbutamol is known as a beta-2 adrenergic agonist, a class that relaxes airway smooth muscle.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for salbutamol: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), label version 2024-12-20; accessed 2026-11-19.) Salbutamol is known as a beta-2 adrenergic agonist, a class that relaxes airway smooth muscle.
 
 Beta-2 agonists have shown some anti-inflammatory and mast-cell-stabilizing effects in the conjunctiva in preclinical models. This offers a loose biological reason why an allergic or inflammatory eye condition could be a plausible target. However, there is no direct support for papillary conjunctivitis itself: no trials, no publications, and no preclinical work specific to this disease. The prediction should be treated as a hypothesis only.
 
@@ -100,6 +100,18 @@ The prediction has a high model score (0.9999) but no trials, no literature and 
 - Package insert warnings and contraindications
 - A suitable ocular formulation and route assessment, since the marketed forms are oral and inhaled products
 - Review of the systemic cardiovascular and metabolic safety signals listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

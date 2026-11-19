@@ -59,7 +59,7 @@ The TxGNN model's top-ranked prediction is **variably protease-sensitive prionop
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled records. Midodrine is known to be a prodrug whose active metabolite, desglymidodrine, is a peripheral alpha-1 adrenergic agonist. It raises arteriolar and venous tone and therefore blood pressure. This fits its use in orthostatic hypotension.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for midodrine: "Midodrine hydrochloride forms an active metabolite, desglymidodrine, that is an alpha 1 -agonist, and exerts its actions via activation of the alpha-adrenergic receptors of the arteriolar and venous vasculature, producing an increase in vascular tone and elevation of blood pressure. Desglymidodrine does not stimulate cardiac beta-adrenergic receptors." ([DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba), label version 2026-11-12; accessed 2026-11-19.) Midodrine is known to be a prodrug whose active metabolite, desglymidodrine, is a peripheral alpha-1 adrenergic agonist. It raises arteriolar and venous tone and therefore blood pressure. This fits its use in orthostatic hypotension.
 
 Variably protease-sensitive prionopathy is a neurodegenerative protein-misfolding disease. **No identifiable mechanistic link** connects alpha-1 vasoconstriction to prion pathology. The very high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, midodrine might offer symptomatic relief of autonomic dysfunction if it occurred in these patients. It would not modify the disease.
 
@@ -117,6 +117,19 @@ The prediction has no trials, no literature and no plausible mechanistic link, s
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for India-marketed products, plus the approved-indication text
 - A safety plan covering supine hypertension, bradycardia and the many drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled records" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: midodrine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6705af-bb72-4edb-863a-93a351bd6dba) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

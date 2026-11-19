@@ -60,7 +60,7 @@ The evidence is indirect: most of it concerns combined oral contraceptives rathe
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, desogestrel is a progestin used in contraceptives. It suppresses the hypothalamic-pituitary-ovarian axis, and combined with ethinylestradiol it provides estrogen/progestin hormone support.
+ChEMBL (EMBL-EBI) records the mechanism of action of desogestrel as: Progesterone receptor agonist ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, desogestrel is a progestin used in contraceptives. It suppresses the hypothalamic-pituitary-ovarian axis, and combined with ethinylestradiol it provides estrogen/progestin hormone support.
 
 In young women with hypothalamic oligo/amenorrhea (for example, athletes), this kind of hormone support may help protect the endometrium and bone. One study (PMID 11725730) examined bone mineral density in young women with hypothalamic oligoamenorrhea treated with oral contraceptives.
 
@@ -126,6 +126,19 @@ The only Phase 3 trial is on athletic amenorrhea and does not clearly study deso
 ---
 
 *Other predictions (lower priority):* Acne has the second-strongest support (evidence level L3, with small studies of desogestrel-containing combined pills, e.g. PMIDs 8894800 and 8689881), but the effect comes from the estrogen/progestin combination. The remaining predictions (benign breast conditions, breast abscess, lactation disease, primary ovarian failure, fragile X carrier symptoms) rest on model prediction alone or on indirect evidence and are recommended as Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ This is largely a confirmation of its established use rather than true repurposi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, ipratropium is a muscarinic antagonist that blocks cholinergic (vagally mediated) bronchoconstriction in airway smooth muscle. Review articles in the retrieved literature describe it as a non-selective muscarinic receptor antagonist delivered by inhalation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ipratropium: "Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung. Anticholinergics prevent the increases in intracellular concentration of Ca++ which is caused by interaction of acetylcholine with the muscarinic receptors on bronchial smooth muscle." ([DailyMed: Atrovent Hfa (ipratropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=170e98ef-5560-4068-be7d-e649068eb884), label version 2025-11-05; accessed 2026-11-19.) Based on known pharmacology, ipratropium is a muscarinic antagonist that blocks cholinergic (vagally mediated) bronchoconstriction in airway smooth muscle. Review articles in the retrieved literature describe it as a non-selective muscarinic receptor antagonist delivered by inhalation.
 
 These are conditions for which ipratropium is already used. The mechanism is therefore the same as that behind the existing use, and the prediction mostly reflects the established role of the drug in airway obstruction.
 
@@ -157,6 +157,19 @@ Several large Phase 3 and Phase 4 trials in COPD and a substantial body of revie
 - Detailed mechanism-of-action data from DrugBank
 - A safety monitoring plan for patients with glaucoma, urinary retention or prostatic hyperplasia, and cardiac conditions
 - Confirmation that the pending trial relevance assessments do not change the evidence grading
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Atrovent Hfa (ipratropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=170e98ef-5560-4068-be7d-e649068eb884) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but **no clinical trials and no relevant publications** currently support this p
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Triamterene is generally known as an epithelial sodium channel (ENaC) blocker that acts as a potassium-sparing diuretic. Its use in hypertension and heart failure is established, and it may therefore be conceptually applicable to hypertensive kidney disease through volume and blood pressure control.
+ChEMBL (EMBL-EBI) records the mechanism of action of triamterene as: Amiloride-sensitive sodium channel, ENaC blocker ([ChEMBL CHEMBL585 (triamterene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL585), CC BY-SA 3.0; accessed 2026-11-19.) Triamterene is generally known as an epithelial sodium channel (ENaC) blocker that acts as a potassium-sparing diuretic. Its use in hypertension and heart failure is established, and it may therefore be conceptually applicable to hypertensive kidney disease through volume and blood pressure control.
 
 However, this link is only conceptual. The very high TxGNN score most likely reflects similarity to the already approved hypertension indication rather than independent evidence. In malignant hypertension with kidney involvement, kidney function is often impaired, and a potassium-sparing agent carries a real risk of hyperkalaemia. This weakens the case for the prediction.
 
@@ -119,6 +119,19 @@ The prediction rests solely on a model score, with no clinical trials or support
 - A systematic literature search specific to triamterene in hypertensive nephropathy and malignant hypertension
 - A renal and potassium safety assessment for patients with impaired kidney function
 - If any indication is pursued first, chronic pulmonary heart disease is the only one with indirect supporting data and could be treated as a research question
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL585 (triamterene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL585) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

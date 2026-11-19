@@ -56,7 +56,7 @@ but the supporting evidence is limited: **2 related clinical trials** (neither d
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, procarbazine is an oral alkylating-type agent already used in lymphoma regimens such as those for Hodgkin lymphoma. Its efficacy in that setting is established, and mechanistically it may be applicable to other B-cell lymphomas such as follicular lymphoma.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for procarbazine: "The precise mode of cytotoxic action of procarbazine has not been clearly defined. After metabolic activation, procarbazine may inhibit the transmethylation of methyl groups of methionine into transfer RNA (t-RNA). The unavailability of t-RNA prevents protein synthesis, and consequently prevents DNA and RNA synthesis." ([DailyMed: Matulane (procarbazine hydrochloride) prescribing information, Leadiant Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1aa75a3a-18c9-49e1-91a6-293d0b7da756), label version 2026-10-09; accessed 2026-11-19.) Based on known information, procarbazine is an oral alkylating-type agent already used in lymphoma regimens such as those for Hodgkin lymphoma. Its efficacy in that setting is established, and mechanistically it may be applicable to other B-cell lymphomas such as follicular lymphoma.
 
 The literature offers some support. A review titled "Procarbazine for non-Hodgkin's lymphoma" describes two patients with relapsed or refractory follicular lymphoma who achieved a complete and durable remission with prolonged daily procarbazine. The PEP-C metronomic oral regimen (prednisone, etoposide, procarbazine, cyclophosphamide) has also been studied in relapsed or refractory lymphoma.
 
@@ -125,6 +125,19 @@ Evidence for follicular lymphoma is limited to a small case-level report, a metr
 - Verification of the regimen composition in NCT00003113
 - Comparative evidence against current anti-CD20-based standards in follicular lymphoma
 - Evaluation of the lower-ranked predictions (neuroblastoma, ganglioneuroblastoma, retroperitoneal neoplasm, and a rare vertebral/endocrine/T-cell syndrome), which have little or no clinical support at this stage
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Matulane (procarbazine hydrochloride) prescribing information, Leadiant Biosciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1aa75a3a-18c9-49e1-91a6-293d0b7da756) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

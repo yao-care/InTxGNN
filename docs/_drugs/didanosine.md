@@ -60,7 +60,7 @@ The prediction is therefore a model output with very little supporting evidence.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, didanosine is a nucleoside reverse transcriptase inhibitor. Its active metabolite blocks viral DNA synthesis by chain termination. Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a shared reverse transcriptase target is plausible.
+ChEMBL (EMBL-EBI) records the mechanism of action of didanosine as: Human immunodeficiency virus type 1 reverse transcriptase inhibitor ([ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, didanosine is a nucleoside reverse transcriptase inhibitor. Its active metabolite blocks viral DNA synthesis by chain termination. Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a shared reverse transcriptase target is plausible.
 
 The two retrieved papers do not support the prediction directly. They use FIV-infected animals or lentivirus models to study didanosine-induced sensory neuropathy and neuronal autophagy. They do not test whether didanosine controls FIV infection in cats. The high TxGNN score most likely reflects network proximity to the HIV/AIDS indication rather than independent evidence.
 
@@ -122,6 +122,19 @@ The prediction rests on a TxGNN model (deep learning) score alone. No clinical t
 - Package insert warnings and contraindications from the Indian regulator
 - A decision on whether the SIV macaque findings should be treated as a research question rather than a repurposing candidate
 - A neurotoxicity and mitochondrial toxicity risk assessment before any new use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1460 (didanosine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1460) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

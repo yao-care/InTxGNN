@@ -60,7 +60,7 @@ This is a model-only prediction, and the evidence is too weak to justify moving 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available. Based on known information, salicylic acid is a salicylate, and it is proposed to act through inhibition of COX enzymes and reduced prostaglandin synthesis. However, no public bioactivity data confirm this at a specific molecular target. Its effect on the skin is mainly keratolytic and anti-inflammatory.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for salicylic acid: "Although the exact mode of action for salicylic acid in the treatment of warts is unknown, its activity appears to be associated with its keratolytic action, which results in mechanical removal of epidermal cells infected with wart viruses." ([DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b), label version 2025-10-15; accessed 2026-11-19.) Based on known information, salicylic acid is a salicylate, and it is proposed to act through inhibition of COX enzymes and reduced prostaglandin synthesis. However, no public bioactivity data confirm this at a specific molecular target. Its effect on the skin is mainly keratolytic and anti-inflammatory.
 
 The link to the new indication is plausible but indirect. Salicylic acid is associated with allergic rhinitis, and papillary conjunctivitis shares an allergic/atopic inflammatory component. This overlap is the only basis for the prediction, and it is not supported by any trial or publication.
 
@@ -116,6 +116,19 @@ The prediction is supported only by the model score and an indirect allergic-inf
 - A systematic literature search on salicylates in allergic and papillary conjunctivitis
 - Ocular tolerability and formulation feasibility assessment (no eye-appropriate route is currently available)
 - Preclinical evidence for the ocular indication before any clinical planning
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

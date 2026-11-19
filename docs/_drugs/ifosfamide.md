@@ -59,7 +59,7 @@ The evidence is mostly small Phase 2 studies and reviews, and ifosfamide is not 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled dataset. Ifosfamide is known to be an alkylating prodrug. The liver activates it through cytochrome P450 enzymes to isophosphoramide mustard, which cross-links DNA and triggers apoptosis in rapidly dividing tumour cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ifosfamide: "Ifosfamide is a prodrug that requires metabolic activation by hepatic cytochrome P450 isoenzymes to exert its cytotoxic activity. Activation occurs by hydroxylation at the ring carbon atom forming the unstable intermediate 4-hydroxyifosfamide and its ring-opened aldo tautomer, which decomposes to yield the cytotoxic and urotoxic compound acrolein and an alkylating isophosphoramide mustard." ([DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a), label version 2026-10-07; accessed 2026-11-19.) Ifosfamide is known to be an alkylating prodrug. The liver activates it through cytochrome P450 enzymes to isophosphoramide mustard, which cross-links DNA and triggers apoptosis in rapidly dividing tumour cells.
 
 Ifosfamide is an analogue of cyclophosphamide, a drug long used in breast cancer, so activity in this disease is mechanistically plausible. Published work supports this. Single-agent response rates of roughly 7–30% have been reported in pretreated advanced breast cancer. Phase 2 combinations with vinorelbine, mitoxantrone, etoposide, paclitaxel and docetaxel have also been reported.
 
@@ -156,6 +156,19 @@ Among the other TxGNN predictions, **rhabdomyosarcoma** has far stronger support
 - Detailed mechanism-of-action data from DrugBank
 - Package insert warnings and contraindications from the Indian regulator's records, including approved indication text
 - A comparison of benefit and toxicity against current standard breast cancer regimens
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled dataset" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

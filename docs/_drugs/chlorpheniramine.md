@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, chlorpheniramine blocks histamine H1 receptors, which reduces histamine-driven sneezing, nasal itching and runny nose.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for codeine phosphate and chlorpheniramine maleate (a combination product containing chlorpheniramine): "Chlorpheniramine Chlorpheniramine is a propylamine derivative antihistamine (H 1 -receptor antagonist) of the alkylamine class that also possesses anticholinergic and sedative activity." ([DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180), label version 2024-01-10; accessed 2026-11-19.) Based on general pharmacology, chlorpheniramine blocks histamine H1 receptors, which reduces histamine-driven sneezing, nasal itching and runny nose.
 
 "Nasal cavity disease" is a broad category. It overlaps heavily with conditions that antihistamines are already used for, so this prediction is not a clearly distinct repurposing signal. The reasoning is plausible mechanistically, but it adds little new information.
 
@@ -101,6 +101,19 @@ The only supporting studies are animal models and one physiology study, with no 
 - Mechanism-of-action data for chlorpheniramine
 - Package insert warnings and contraindications from the local regulator
 - Clarification of how this prediction differs from existing antihistamine uses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

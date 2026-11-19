@@ -56,7 +56,7 @@ A related prediction, diabetic retinopathy, has 2 publications, but neither addr
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Denosumab is known as a RANKL inhibitor, and its efficacy in osteoporosis is established. Mechanistically, RANKL/RANK signalling has been proposed to play a role in inflammation, vascular calcification and metabolic regulation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for denosumab: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), label version 2026-11-04; accessed 2026-11-19.) Denosumab is known as a RANKL inhibitor, and its efficacy in osteoporosis is established. Mechanistically, RANKL/RANK signalling has been proposed to play a role in inflammation, vascular calcification and metabolic regulation.
 
 A link to retinal microvascular disease or diabetes-related inflammation is therefore conceivable, but it is speculative. The only support in the data is the very high TxGNN score. No ocular efficacy or ocular safety data are available, and the mechanism cannot be cross-checked against a recorded mechanism of action.
 
@@ -105,6 +105,19 @@ The prediction rests on a high model score alone (L5), with no clinical trials a
 - Detailed mechanism of action data and preclinical evidence linking RANKL/RANK signalling to diabetic retinopathy
 - Package insert warnings and contraindications for the registered Indian products
 - Ocular safety and efficacy data, including whether systemic administration is suitable for a retinal indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

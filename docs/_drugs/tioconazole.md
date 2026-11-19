@@ -54,7 +54,7 @@ Tioconazole is a topical imidazole antifungal. The TxGNN model predicts it may b
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled drug record. Pharmacology data indicate that tioconazole inhibits the fungal enzyme lanosterol 14-α demethylase (CYP51/ERG11). This enzyme is needed to make ergosterol, a key component of the fungal cell wall, so fungi and yeasts cannot survive without it. Tioconazole also inhibits the human enzyme CYP8B1, which takes part in bile acid synthesis.
+ChEMBL (EMBL-EBI) records the mechanism of action of tioconazole as: Cytochrome P450 51 inhibitor ([ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438), CC BY-SA 3.0; accessed 2026-11-19.) Pharmacology data indicate that tioconazole inhibits the fungal enzyme lanosterol 14-α demethylase (CYP51/ERG11). This enzyme is needed to make ergosterol, a key component of the fungal cell wall, so fungi and yeasts cannot survive without it. Tioconazole also inhibits the human enzyme CYP8B1, which takes part in bile acid synthesis.
 
 If vulvitis is caused by Candida, the same antifungal mechanism could apply, since vulvar involvement often occurs together with vaginal yeast infection. However, the available studies address vulvovaginal candidiasis, not vulvitis as a distinct condition. There is no evidence for non-fungal vulvitis, such as contact dermatitis or lichen sclerosus. The high score most likely reflects network proximity to existing antifungal uses rather than independent evidence.
 
@@ -103,6 +103,18 @@ No clinical trials or studies directly address vulvitis. The available literatur
 - Clinical data in vulvitis specifically, including a comparison with standard care
 - Package insert warnings and contraindications for the marketed product
 - Confirmed mechanism-of-action documentation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled drug record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -60,7 +60,7 @@ The better-supported directions among the top 10 predictions are **insomnia** (1
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lorazepam is a benzodiazepine, and this class acts as a positive allosteric modulator of GABA-A receptors, enhancing inhibitory neurotransmission. This explains its established use in anxiety and seizures.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lorazepam: "Lorazepam exerts its effect for the treatment of anxiety disorders through binding to the benzodiazepine site of the gamma-aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9), label version 2025-10-08; accessed 2026-11-19.) Lorazepam is a benzodiazepine, and this class acts as a positive allosteric modulator of GABA-A receptors, enhancing inhibitory neurotransmission. This explains its established use in anxiety and seizures.
 
 For **trigeminal nerve neoplasm**, no plausible mechanistic link to a disease-modifying effect has been established. Lorazepam could at most serve as supportive care (for example anxiety or seizure control), which is not a treatment of the tumour itself. The very high score (0.9987) should be read as a model output, not as evidence of efficacy.
 
@@ -101,7 +101,6 @@ For reference, the best-supported alternative predictions are shown below. Many 
 | [35194860](https://pubmed.ncbi.nlm.nih.gov/35194860/) | 2022 | Meta-analysis | Addiction | Comparative pharmacotherapies for alcohol withdrawal (indirect) |
 | [35971024](https://pubmed.ncbi.nlm.nih.gov/35971024/) | 2022 | Review | CNS Drugs | Routes of delivery, pharmacokinetics, efficacy and tolerability of benzodiazepines in seizures |
 | [38358613](https://pubmed.ncbi.nlm.nih.gov/38358613/) | 2024 | Review | CNS Drugs | Benzodiazepines as the mainstay for acute treatment of seizure clusters |
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -150,6 +149,19 @@ The top-ranked prediction, trigeminal nerve neoplasm, has no trials, no literatu
 - For insomnia: a structured review of controlled evidence on short-term lorazepam use, including dependence and next-day sedation risks
 - For the seizure predictions: disease-specific case series or registry data, and a judgement on whether they add anything beyond lorazepam's existing seizure indications
 - For trigeminal nerve neoplasm: a clinical rationale, if any, before further work, since only supportive-care use appears plausible
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Loreev Xr (lorazepam) prescribing information, Almatica Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=227734c1-bf01-9607-73ea-5a1f38a89bd9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

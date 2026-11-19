@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **hypotrichosis simplex of the 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for diclofenac is not available in the data compiled for this report. Based on known pharmacology, diclofenac is a COX-1/COX-2 inhibitor that reduces prostaglandin production, which lowers inflammation and pain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for diclofenac: "Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970), label version 2026-09-24; accessed 2026-11-19.) Based on known pharmacology, diclofenac is a COX-1/COX-2 inhibitor that reduces prostaglandin production, which lowers inflammation and pain.
 
 Hypotrichosis simplex of the scalp is a genetic hair-follicle disorder (for example, linked to CDSN or APCDD1 variants). It is not primarily an inflammatory or prostaglandin-driven condition, so there is no clear mechanistic link to COX inhibition. The high TxGNN score is a model-based prediction only. It is not backed by any trial or publication, and it should be treated as a hypothesis with weak biological support.
 
@@ -89,6 +89,19 @@ The prediction has no supporting trials or literature and no plausible mechanism
 - Detailed mechanism-of-action data for diclofenac
 - Package insert warnings and contraindications for a safety review
 - Any clinical or published study that directly addresses this disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for diclofenac is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

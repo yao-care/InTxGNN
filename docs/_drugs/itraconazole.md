@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **pneumocystosis**, but the evi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, itraconazole inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis in the fungal cell membrane. Its efficacy in other invasive fungal infections is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for itraconazole: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), label version 2026-07-13; accessed 2026-11-19.) Based on general pharmacology, itraconazole inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis in the fungal cell membrane. Its efficacy in other invasive fungal infections is established.
 
 The link to pneumocystosis is weak. *Pneumocystis jirovecii* was reclassified as a fungus, which may explain why the TxGNN model (deep learning) places it near other fungal diseases. This prediction may reflect similarities the model learned between related diseases, not biological evidence. The organism lacks ergosterol in its membrane and uses cholesterol instead, so the azole mechanism has no plausible target in it. Standard therapy (trimethoprim-sulfamethoxazole) works through folate pathway inhibition, not ergosterol disruption.
 
@@ -126,6 +126,19 @@ The prediction rests on model output alone (Evidence Level L5). There are no reg
 - Package insert warnings and contraindications from Indian regulatory sources, needed before any safety screening
 - A review of cardiac risk (QT prolongation, heart failure) and the major drug interactions, particularly in the immunocompromised populations in which pneumocystosis occurs
 - Justification of any added value over standard trimethoprim-sulfamethoxazole therapy
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

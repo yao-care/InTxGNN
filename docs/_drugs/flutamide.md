@@ -54,7 +54,7 @@ Flutamide is an oral androgen receptor antagonist originally used to treat prost
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, flutamide is a nonsteroidal androgen receptor antagonist. Its efficacy in prostate cancer is established, and the literature describes it as a "pure antiandrogen" that blocks androgen action in the prostate.
+ChEMBL (EMBL-EBI) records the mechanism of action of flutamide as: Androgen Receptor antagonist ([ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, flutamide is a nonsteroidal androgen receptor antagonist. Its efficacy in prostate cancer is established, and the literature describes it as a "pure antiandrogen" that blocks androgen action in the prostate.
 
 The top-ranked prediction is not a convincing new indication. The prostate cancer component is simply the approved use. The brain cancer susceptibility component has no supporting mechanism, and the label looks like a genetic susceptibility entity rather than a disease that can be treated.
 
@@ -140,6 +140,19 @@ The trial-rich category of male reproductive organ cancer mostly represents flut
 - Detailed mechanism of action data
 - Verification of flutamide's specific role and results in the Phase 3 hormonal therapy trials, and the published outcomes of the Phase 2 chemoprevention trial NCT00006214
 - A clearly defined, treatable target indication (for example prostatic intraepithelial neoplasia or benign prostatic conditions) with a comparison against established alternatives such as 5-alpha-reductase inhibitors and alpha-blockers
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ but currently **no clinical trials** and **no publications** support this predic
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, latanoprost is a prostaglandin F2-alpha analogue that lowers intraocular pressure by increasing uveoscleral outflow. Its efficacy in open-angle glaucoma is established, so a mechanistic overlap with other glaucomas is plausible.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for latanoprost: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), label version 2025-12-18; accessed 2026-11-19.) Based on known pharmacology, latanoprost is a prostaglandin F2-alpha analogue that lowers intraocular pressure by increasing uveoscleral outflow. Its efficacy in open-angle glaucoma is established, so a mechanistic overlap with other glaucomas is plausible.
 
 However, primary hereditary glaucoma (for example, primary congenital glaucoma) is typically driven by developmental abnormalities of the trabecular meshwork and anterior chamber angle, and it often requires surgery.
 
@@ -92,6 +92,19 @@ The prediction has a high model score but no clinical trials or literature behin
 - Detailed mechanism of action data (for example, from DrugBank)
 - A literature and trial search specific to latanoprost in primary hereditary or congenital glaucoma
 - If pursuing a non-glaucoma direction, a focused evaluation of hypotrichosis (hair or lash growth) as the most mechanistically plausible alternative
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

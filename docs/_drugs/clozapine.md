@@ -54,7 +54,7 @@ Clozapine is an atypical antipsychotic that acts on several receptor systems, in
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, clozapine blocks dopamine D2 and serotonin 5-HT2A receptors and also acts on muscarinic and adrenergic receptors. This broad profile plausibly supports antimanic and mood-stabilising effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for clozapine: "The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D 2 ) and the serotonin type 2A (5-HT 2A ) receptors." ([DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355), label version 2026-09-06; accessed 2026-11-19.) Based on known pharmacology, clozapine blocks dopamine D2 and serotonin 5-HT2A receptors and also acts on muscarinic and adrenergic receptors. This broad profile plausibly supports antimanic and mood-stabilising effects.
 
 Mania and psychotic illness share dopaminergic and serotonergic disturbances, and antipsychotics are already widely used in acute mania. The strongest support comes from treatment-refractory patients, for whom conventional treatments have failed or were not tolerated.
 
@@ -111,6 +111,18 @@ A completed placebo-controlled Phase 2 trial in treatment-resistant mania and a 
 - Review of package insert warnings and contraindications
 - Mechanism of action data
 - A monitoring plan covering absolute neutrophil count, cardiac and metabolic surveillance, and drug interaction management
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -60,7 +60,7 @@ This prediction is supported by model output alone and should be treated as a hy
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on general knowledge, nalidixic acid is a first-generation quinolone that inhibits bacterial DNA gyrase and topoisomerase IV. This means it could plausibly act against susceptible Gram-negative bacteria, which is the basis for linking it to bacterial conjunctivitis.
+ChEMBL (EMBL-EBI) records the mechanism of action of nalidixic acid as: Bacterial DNA gyrase inhibitor ([ChEMBL CHEMBL5 (nalidixic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge, nalidixic acid is a first-generation quinolone that inhibits bacterial DNA gyrase and topoisomerase IV. This means it could plausibly act against susceptible Gram-negative bacteria, which is the basis for linking it to bacterial conjunctivitis.
 
 The link is weak. The retrieved literature concerns Shigella and Yersinia susceptibility and resistance in diarrhoeal disease, not eye infection. Nalidixic acid is not used topically in the eye, its spectrum is narrow (mainly Enterobacteriaceae), and later fluoroquinolones have largely replaced it. The TxGNN score is a computational prediction only.
 
@@ -132,6 +132,19 @@ The prediction rests on a computational score alone. There are no clinical trial
 - Approved indication text for the India licences
 - Comparative susceptibility data against common conjunctivitis pathogens
 - Evidence of an ocular formulation or a justification for choosing it over existing ophthalmic fluoroquinolones
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL5 (nalidixic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

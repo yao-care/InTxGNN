@@ -56,7 +56,7 @@ This is a computational prediction only and should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, cycloserine is a D-alanine analogue that inhibits bacterial cell wall synthesis, and its efficacy in drug-resistant tuberculosis is established. It is also known to act as a partial agonist at the glycine site of the NMDA receptor.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cycloserine: "The antibacterial activity of Cycloserine results from inhibition of cell-wall synthesis in susceptible strains of gram-positive and gram-negative bacteria." ([DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9), label version 2024-07-30; accessed 2026-11-19.) Based on known information, cycloserine is a D-alanine analogue that inhibits bacterial cell wall synthesis, and its efficacy in drug-resistant tuberculosis is established. It is also known to act as a partial agonist at the glycine site of the NMDA receptor.
 
 A link between this pharmacology and irritable bowel syndrome (for example through the gut-brain axis or visceral hypersensitivity) is speculative. No data compiled for this report supports it. The high TxGNN score (rank 1382) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or demonstrated efficacy.
 
@@ -104,6 +104,19 @@ The prediction rests only on a model score, with no clinical trials or relevant 
 - Preclinical or early clinical evidence in irritable bowel syndrome
 - Package insert warnings and contraindications from the India regulatory source
 - A risk-benefit assessment of the neuropsychiatric and renal safety concerns in this population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

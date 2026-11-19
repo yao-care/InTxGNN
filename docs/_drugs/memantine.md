@@ -64,7 +64,7 @@ The data compiled for this report show that the better-supported direction is **
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Memantine is generally known as a non-competitive NMDA receptor antagonist, which is the basis for the discussion below. This is general pharmacological knowledge, not drawn from the compiled data.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for memantine: "Persistent activation of central nervous system N-methyl-D-aspartate (NMDA) receptors by the excitatory amino acid glutamate has been hypothesized to contribute to the symptomatology of Alzheimer’s disease. Memantine is postulated to exert its therapeutic effect through its action as a low to moderate affinity uncompetitive (open-channel) NMDA receptor antagonist which binds preferentially to the NMDA receptor-operated cation channels." ([DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e), label version 2026-11-11; accessed 2026-11-19.) Memantine is generally known as a non-competitive NMDA receptor antagonist, which is the basis for the discussion below. This is general pharmacological knowledge, not drawn from the compiled data.
 
 **Pulmonary hypertension (rank 1).** The mechanistic link is weak. One retrieved paper (PMID 33500723) is a preclinical study of NMDA receptor activation in insulin sensitivity and lipid metabolism. It mentions the glutamate/NMDAR axis in pulmonary arterial hypertension only in passing. The other paper (PMID 41739394) is a Phase 1 study of MN-08, a nitrate derivative of memantine, which is a different compound. Neither shows that memantine itself is effective. The high score should be treated as a model signal that needs independent validation.
 
@@ -148,6 +148,19 @@ Please also refer to the package insert for label warnings and contraindications
 - For migraine: the results of NCT04698525 and replication in larger placebo-controlled trials
 - For pulmonary hypertension: preclinical or clinical data on memantine itself, not on the derivative MN-08
 - For kyphoscoliotic heart disease and migraine with brainstem aura: any supporting evidence for these subtypes before further consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: memantine hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e6977ef-6a0a-4bd9-b500-6ceb15abbd5e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

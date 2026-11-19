@@ -60,7 +60,7 @@ The evidence is therefore model-driven only.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Fluoxetine is generally known as a selective serotonin reuptake inhibitor (SSRI). The prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mechanistically, serotonergic modulation may reduce anxiety, depressive comorbidity and impulsivity seen in personality disorders.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fluoxetine: "Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin." ([DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299), label version 2026-01-08; accessed 2026-11-19.) Fluoxetine is generally known as a selective serotonin reuptake inhibitor (SSRI). The prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mechanistically, serotonergic modulation may reduce anxiety, depressive comorbidity and impulsivity seen in personality disorders.
 
 However, the retrieved literature concerns mainly borderline personality disorder, depression with personality-disorder comorbidity, and a general review of cluster A personality disorders (which include paranoid, schizoid and schizotypal types). No study reports fluoxetine specifically in paranoid personality disorder. The prediction is therefore plausible but unverified.
 
@@ -131,6 +131,19 @@ The prediction for paranoid personality disorder rests on a high model score and
 - Package insert warnings and contraindications from the Indian licence holders
 - A safety review covering psychosis-related signals and drug interactions
 - Consideration of the better-supported prediction, phobic disorder (Phase 3 NCT00043537 and SSRI meta-analyses), as a priority candidate, after verifying fluoxetine's role in that trial
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, saquinavir is an HIV-1 protease inhibitor. It blocks cleavage of the Gag-Pol polyprotein, so new virus particles cannot mature into infectious virions. Its efficacy in HIV infection is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of saquinavir as: Human immunodeficiency virus type 1 protease inhibitor ([ChEMBL CHEMBL114 (saquinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL114), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, saquinavir is an HIV-1 protease inhibitor. It blocks cleavage of the Gag-Pol polyprotein, so new virus particles cannot mature into infectious virions. Its efficacy in HIV infection is established.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV-1, and its protease is structurally similar. Activity against FIV protease is therefore plausible. However, FIV protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, so activity cannot be assumed.
 
@@ -104,6 +104,19 @@ The prediction rests on model output alone (L5). There are no trials or publicat
 - Detailed mechanism of action data (MOA)
 - The package insert for warnings and contraindications
 - A decision on whether the veterinary indication is in scope, or whether the human on-label HIV-related predictions should be evaluated instead
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL114 (saquinavir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL114) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

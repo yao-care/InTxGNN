@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, idebenone is a short-chain benzoquinone that acts as an electron carrier in the mitochondrial respiratory chain and as an antioxidant. Its use in Leber hereditary optic neuropathy, a mitochondrial disease, is the basis of its original indication.
+ChEMBL (EMBL-EBI) records the mechanism of action of idebenone as: Antioxidant and mitochondrial electron carrier ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, idebenone is a short-chain benzoquinone that acts as an electron carrier in the mitochondrial respiratory chain and as an antioxidant. Its use in Leber hereditary optic neuropathy, a mitochondrial disease, is the basis of its original indication.
 
 A speculative link to hepatic porphyria is that antioxidant activity might reduce oxidative stress in hepatocytes. However, no data support a role for idebenone in heme biosynthesis defects, so this rationale cannot be verified.
 
@@ -98,6 +98,19 @@ The prediction rests only on a model score, with no clinical trials or publicati
 - Package insert warnings and contraindications for the Indian-marketed products
 - Preclinical or mechanistic studies linking idebenone to heme biosynthesis or hepatic porphyria
 - A literature and trial search specific to hepatic porphyria and the other top-ranked predictions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

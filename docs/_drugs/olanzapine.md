@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Olanzapine is generally known as a dopamine D2 and serotonin 5-HT2A antagonist, and its efficacy in psychotic and mood disorders is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for olanzapine: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), label version 2026-10-26; accessed 2026-11-19.) Olanzapine is generally known as a dopamine D2 and serotonin 5-HT2A antagonist, and its efficacy in psychotic and mood disorders is established.
 
 The predicted condition is a rare, self-limiting paroxysmal movement disorder of infancy. It is related to the migraine spectrum and to CACNA1A channelopathy. There is no established link between this condition and olanzapine's receptor pharmacology. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -118,6 +118,19 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the India regulatory source
 - Consider redirecting effort to the better-supported predictions (agoraphobia and dysthymic disorder), which warrant controlled studies and a metabolic risk-benefit assessment against established first-line options
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

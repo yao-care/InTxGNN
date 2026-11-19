@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Baclofen is a GABA-B receptor agonist. GABA-B signalling can modulate dopamine and other monoamine activity in circuits that control impulsivity and attention. This is plausible but unproven.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for baclofen: "The precise mechanism of action of baclofen is not fully understood. Baclofen inhibits both monosynaptic and polysynaptic reflexes at the spinal level, possibly by decreasing excitatory neurotransmitter release from afferent terminals, although actions at supraspinal sites may also occur and contribute to its clinical effect." ([DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2), label version 2026-09-22; accessed 2026-11-19.) Baclofen is a GABA-B receptor agonist. GABA-B signalling can modulate dopamine and other monoamine activity in circuits that control impulsivity and attention. This is plausible but unproven.
 
 The data compiled for this report show no paper in which baclofen itself improves ADHD symptoms. The retrieved literature concerns Tourette syndrome and tic management, where ADHD is a common comorbidity. It also includes alpha-2 agonist research and rodent studies of impulsivity, hippocampal EEG, social play and effort-based decision-making. The high score most likely reflects network proximity to related neuropsychiatric conditions (tics, impulsivity) rather than clinical evidence.
 
@@ -113,6 +113,19 @@ The TxGNN score is very high (0.9932), but no clinical trials exist and no retri
 - A safety assessment for seizure risk, psychiatric comorbidity and use in children and adolescents
 
 **Note:** The second predicted indication, **nicotine dependence** (score 0.9919), has stronger support at evidence level L2. It has three Phase 2 baclofen trials in smokers (one completed with 44 participants, two terminated early) and consistent preclinical data. It deserves a separate evaluation as a research question, although no Phase 3 evidence is available.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lyvispah (baclofen) prescribing information, Anvi Pharmaceuticals Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b13c40d-a109-f838-e063-6294a90aecf2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

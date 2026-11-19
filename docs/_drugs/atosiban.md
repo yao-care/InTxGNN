@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. From pharmacology reference data, atosiban is a peptide that binds the oxytocin receptor (OXTR) and the vasopressin V1A, V1B and V2 receptors. Its established clinical use is to delay birth in women 24 to 33 weeks pregnant who show signs of preterm labour.
+ChEMBL (EMBL-EBI) records the mechanism of action of atosiban as: Oxytocin receptor antagonist ([ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301), CC BY-SA 3.0; accessed 2026-11-19.) From pharmacology reference data, atosiban is a peptide that binds the oxytocin receptor (OXTR) and the vasopressin V1A, V1B and V2 receptors. Its established clinical use is to delay birth in women 24 to 33 weeks pregnant who show signs of preterm labour.
 
 The link to primary hereditary glaucoma is weak. This condition is a genetic disorder of trabecular meshwork or angle development, and receptor antagonism has no clear rationale for it. A speculative connection might exist through oxytocin/vasopressin effects on ocular blood flow or aqueous humour dynamics, but no supporting data were found. A systemic, parenterally given peptide also faces delivery and pharmacokinetic barriers for eye use. The high score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -96,6 +96,19 @@ The prediction rests on a TxGNN model (deep learning) score alone, which may ref
 - A feasibility assessment of ocular delivery for a peptide, since current products are systemic injections
 - Package insert warnings and contraindications from the manufacturer or the Indian regulator
 - Approved indication text for the two Indian licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL382301 (atosiban): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL382301) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **biotin metabolic disease**, but
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Cyanocobalamin is known to act as a cofactor for two enzymes: methionine synthase and methylmalonyl-CoA mutase.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cyanocobalamin: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), label version 2025-12-08; accessed 2026-11-19.) Cyanocobalamin is known to act as a cofactor for two enzymes: methionine synthase and methylmalonyl-CoA mutase.
 
 Biotin metabolic diseases (for example biotinidase deficiency or holocarboxylase synthetase deficiency) involve defects in biotin recycling or in biotin-dependent carboxylases. The only link to cyanocobalamin is a loose shared pathway context: propionyl-CoA carboxylase depends on biotin, while methylmalonyl-CoA mutase depends on cobalamin, and both sit on the propionyl-CoA/methylmalonate route.
 
@@ -112,11 +112,12 @@ The prediction rests only on a model score. No clinical trial or publication dir
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->
 

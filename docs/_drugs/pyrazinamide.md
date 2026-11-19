@@ -60,7 +60,7 @@ The only supporting literature across the ear-related predictions concerns rare 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, pyrazinamide is a component of standard multidrug anti-tuberculosis therapy. Its efficacy in tuberculosis is established, and it is active only against *Mycobacterium tuberculosis*, through the acid-dependent activity of its metabolite pyrazinoic acid.
+ChEMBL (EMBL-EBI) records the mechanism of action of pyrazinamide as: Fatty acid synthase inhibitor; 70S ribosome inhibitor ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, pyrazinamide is a component of standard multidrug anti-tuberculosis therapy. Its efficacy in tuberculosis is established, and it is active only against *Mycobacterium tuberculosis*, through the acid-dependent activity of its metabolite pyrazinoic acid.
 
 The prediction for infectious otitis media is **not mechanistically convincing**. Pyrazinamide has no recognised activity against the usual otitis media pathogens (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as tuberculous otitis, not biological evidence or a validated mechanism.
 
@@ -128,6 +128,19 @@ The top prediction (infectious otitis media) rests on a computational score alon
 - Narrowing the question to **tuberculous otitis media**, where a systematic review of case series could clarify the role of pyrazinamide, rather than pursuing general infectious otitis media
 - Inner ear and middle ear penetration data for pyrazinamide
 - For the Lyme disease prediction (rank 9, flagged as a research question): preclinical validation of activity against *B. burgdorferi* persisters before any clinical consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

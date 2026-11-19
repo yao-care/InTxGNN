@@ -60,7 +60,7 @@ The report also covers two better-supported alternatives from the same predictio
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Propranolol is a non-selective beta-blocker (it blocks beta-1 and beta-2 receptors) whose efficacy in cardiovascular conditions such as hypertension, arrhythmia and hypertrophic cardiomyopathy is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for propranolol: "The mechanism of the antihypertensive effect of propranolol has not been established. Among factors that contribute to the antihypertensive action are: decreased cardiac output, inhibition of renin release by the kidneys, and diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain." ([DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade), label version 2026-08-27; accessed 2026-11-19.) Propranolol is a non-selective beta-blocker (it blocks beta-1 and beta-2 receptors) whose efficacy in cardiovascular conditions such as hypertension, arrhythmia and hypertrophic cardiomyopathy is well established.
 
 For the top-ranked prediction, **no mechanistic link is supported by the data compiled for this report**. Tateyama-type distal myopathy is a rare skeletal muscle disorder, and there is no known pathway by which beta-adrenergic blockade would address its pathology. The high score (0.994) is a model output only. Notably, the knowledge graph lists myopathy and skeletal muscle disease among propranolol's contraindications, which argues against this prediction.
 
@@ -90,7 +90,6 @@ Currently no related clinical trials registered, for the top-ranked prediction o
 | [38738176](https://pubmed.ncbi.nlm.nih.gov/38738176/) | 2024 | Clinical study | Front Pharmacol | Propranolol may correct prolonged QT intervals, which are common in cirrhosis |
 | [35763518](https://pubmed.ncbi.nlm.nih.gov/35763518/) | 2022 | Clinical study | PLoS One | Real-time propranolol infusion studied across degrees of cirrhosis severity; cardiovascular effects of beta-blockers were blunted in more severe disease |
 | [32446716](https://pubmed.ncbi.nlm.nih.gov/32446716/) | 2020 | Clinical study | J Hepatol | Non-selective beta-blockers impaired circulatory homeostasis and renal function in refractory ascites |
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -150,6 +149,19 @@ The top prediction, distal myopathy of the Tateyama type, rests on a model score
 - Mechanism of action data, which would allow a proper mechanistic analysis.
 - For cirrhotic cardiomyopathy: prospective or randomised data that stratify by cirrhosis severity and ascites status, and a clear benefit-risk assessment.
 - Any preclinical or clinical rationale for beta-blockade in Tateyama-type distal myopathy; without it, this prediction should not be pursued.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

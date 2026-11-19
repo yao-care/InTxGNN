@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, octreotide is a somatostatin analog that acts mainly on somatostatin receptors SSTR2 and SSTR5. Its efficacy in hormone-secreting conditions such as acromegaly and carcinoid syndrome is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for octreotide: "Sandostatin Injection exerts pharmacologic actions similar to the natural hormone, somatostatin. It is an even more potent inhibitor of GH, glucagon, and insulin than somatostatin. […] By virtue of these pharmacological actions, octreotide has been used to treat the symptoms associated with metastatic carcinoid tumors (flushing and diarrhea), and VIP secreting adenomas (watery diarrhea)." ([DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39), label version 2026-07-22; accessed 2026-11-19.) Based on known information, octreotide is a somatostatin analog that acts mainly on somatostatin receptors SSTR2 and SSTR5. Its efficacy in hormone-secreting conditions such as acromegaly and carcinoid syndrome is established.
 
 For vulvar inverted follicular keratosis, a benign epithelial skin lesion, no plausible mechanistic link is supported by the available data. The high TxGNN score is a computational output only. It is likely driven by similarity to related entries, such as seborrheic keratosis, which also appears among the top predictions. This prediction should be treated as a hypothesis, not as evidence of benefit.
 
@@ -113,6 +113,19 @@ The prediction has no supporting clinical trials or literature (evidence level L
 - Preclinical or mechanistic evidence showing somatostatin receptor involvement in the target skin lesion.
 - Route compatibility assessment. Octreotide is only available as injections in India, which may not suit a benign skin lesion.
 - A review of the other ranked predictions for any with stronger biological rationale.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sandostatin (octreotide acetate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e2c9856-1836-49f0-9472-4dbeeb408f39) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

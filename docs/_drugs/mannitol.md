@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **nephrogenic syndrome of inapp
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Mannitol is known as an osmotic agent: it stays largely in the blood and extracellular fluid, draws water out of tissue, and increases urine output. This is why it is associated with brain edema and raised intracranial or intraocular pressure.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mannitol: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), label version 2025-08-26; accessed 2026-11-19.) Mannitol is known as an osmotic agent: it stays largely in the blood and extracellular fluid, draws water out of tissue, and increases urine output. This is why it is associated with brain edema and raised intracranial or intraocular pressure.
 
 The predicted disease is a gain-of-function disorder of the vasopressin V2 receptor (AVPR2), in which the kidney retains water and the patient develops low blood sodium. The link to mannitol is weak. Hyponatremia management depends on osmolar and water balance, but mannitol would add an osmotic load and is not an established therapy for this condition. The high TxGNN score is a computational prediction, not evidence of benefit.
 
@@ -101,6 +101,19 @@ The prediction rests only on a computational score. No trials exist, the single 
 - Mechanism of action data
 - A mechanistic or preclinical rationale showing why an osmotic diuretic could help in AVPR2 gain-of-function disease
 - Any case-level or clinical data on mannitol use in this condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -65,7 +65,7 @@ This report evaluates alopecia (rank 4) as the lead candidate. The three higher-
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Diazoxide is known to open KATP channels (SUR/Kir6.x). In the pancreas this suppresses insulin release, which explains its use in hyperinsulinemic hypoglycemia.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for diazoxide: "PROGLYCEM produces a dose-related increase in blood glucose, due primarily to an inhibition of insulin release from the pancreas, and also to an extrapancreatic effect. The hyperglycemic effect of PROGLYCEM begins within an hour and generally lasts no more than 8 hours in the presence of normal renal function." ([DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2), label version 2026-10-06; accessed 2026-11-19.) Diazoxide is known to open KATP channels (SUR/Kir6.x). In the pancreas this suppresses insulin release, which explains its use in hyperinsulinemic hypoglycemia.
 
 The link to hair disorders comes from a well-documented side effect: hypertrichosis. It has been reported in neonates and children on systemic diazoxide. In a Japanese post-marketing survey of 384 patients, it was the most common adverse reaction (8.6%). Diazoxide shares this property with minoxidil, whose sulfate metabolite is also a KATP opener. Minoxidil is a recognised hair-growth agent.
 
@@ -146,6 +146,19 @@ The predictions are driven by the hypertrichosis side effect, and the evidence i
 - Comparison against minoxidil, the existing KATP-opener standard, to show added value
 - Systemic exposure and safety data for topical use
 - For the Kir6.2 hyperinsulinism prediction (rank 10), a separate review of variant-specific diazoxide responsiveness in the congenital hyperinsulinism literature
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Proglycem (diazoxide) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b16c7832-2fd9-49af-b923-1dc0d91fd6e2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

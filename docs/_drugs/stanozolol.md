@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **serpinopathy with toxic serpin 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for stanozolol are not available. Based on its drug class, stanozolol is an androgen receptor agonist that changes gene expression in the liver. It could therefore alter the production of hepatic serpin proteins. That is the only conceivable link to this disease.
+ChEMBL (EMBL-EBI) records the mechanism of action of stanozolol as: Androgen Receptor agonist ([ChEMBL CHEMBL2079587 (stanozolol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2079587), CC BY-SA 3.0; accessed 2026-11-19.) Based on its drug class, stanozolol is an androgen receptor agonist that changes gene expression in the liver. It could therefore alter the production of hepatic serpin proteins. That is the only conceivable link to this disease.
 
 This link is speculative and may even point the wrong way. In toxic polymerization disorders, such as alpha-1 antitrypsin deficiency, higher expression of a mutant serpin could worsen aggregation and liver injury. The high model score has no supporting trial or publication, so it should be treated as a hypothesis for laboratory investigation, not as a treatment signal.
 
@@ -99,6 +99,18 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Preclinical evidence on how stanozolol affects expression, folding and polymerization of the relevant serpin.
 - Package insert warnings and contraindications from the Indian licences.
 - A risk assessment for liver toxicity, given the disease's liver involvement.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for stanozolol are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2079587 (stanozolol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2079587) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Allergic Urticaria**, but **n
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known information, meclizine is a first-generation piperazine H1-antihistamine with anticholinergic activity. Its efficacy in vertigo and motion sickness is established, and mechanistically it may be applicable to histamine-mediated conditions such as urticaria.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for meclizine: "The precise mechanism by which meclizine exerts its therapeutic effect is unknown but is presumed to involve antagonism of the histamine H1 receptor." ([DailyMed: Meclizine Hydrochloride (meclizine) prescribing information, St. Mary's Medical Park Pharmacy](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d2ff762-041d-74ed-e063-6394a90ac588), label version 2026-10-06; accessed 2026-11-19.) Based on known information, meclizine is a first-generation piperazine H1-antihistamine with anticholinergic activity. Its efficacy in vertigo and motion sickness is established, and mechanistically it may be applicable to histamine-mediated conditions such as urticaria.
 
 H1-antihistamines are the standard first-line therapy for urticaria, so the mechanistic link is plausible. However, this link rests on drug-class knowledge and the TxGNN prediction, not on any meclizine-specific data supplied for this report. Better-characterized antihistamines are already established for this condition, and non-sedating second-generation agents are generally preferred. The incremental value of meclizine is therefore unclear. Its sedation and anticholinergic burden are also relevant.
 
@@ -125,11 +125,12 @@ The prediction is supported only by a high model score and class-level pharmacol
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Meclizine Hydrochloride (meclizine) prescribing information, St. Mary's Medical Park Pharmacy](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d2ff762-041d-74ed-e063-6394a90ac588) |
 
 <!-- review:end log -->
 

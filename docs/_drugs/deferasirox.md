@@ -60,7 +60,7 @@ This is a model-driven hypothesis at an early research stage.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, deferasirox is an oral iron chelator, its use in iron overload from beta-thalassemia and related conditions is established, and mechanistically it may be applicable to HIV infection through iron's role in the viral life cycle.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for deferasirox: "Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox." ([DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85), label version 2026-01-28; accessed 2026-11-19.) Based on known information, deferasirox is an oral iron chelator, its use in iron overload from beta-thalassemia and related conditions is established, and mechanistically it may be applicable to HIV infection through iron's role in the viral life cycle.
 
 A 2021 preclinical study (PMID 34550543) reports that iron in endolysosomes restricts Tat-mediated HIV-1 LTR transactivation, by increasing Tat oligomerization and β-catenin expression. This suggests iron homeostasis can influence HIV-1 transcription, which gives a plausible but indirect reason for the prediction.
 
@@ -123,6 +123,19 @@ The prediction rests on a high model score and one indirect preclinical study, w
 - Review of drug-interaction and organ-toxicity risks in HIV patients on antiretroviral therapy
 
 **Other predicted indications (for reference):** Chronic hepatitis C infection (score 0.9939, L4, Hold) has only an indirect iron-measurement study and a hepatotoxicity concern. Three further predictions (a rare neurodevelopmental disorder, obsolete familial combined hyperlipidemia, and dermatofibrosarcoma protuberans) have model scores only, with no trials or literature (L5, Hold).
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

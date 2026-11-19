@@ -60,7 +60,7 @@ The evidence level is **L2**.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Tizanidine is a central alpha-2 adrenergic agonist. It is thought to reduce migraine frequency by modulating trigeminal and brainstem pain transmission, and by lowering neck and head muscle tension, which may contribute to chronic daily headache.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tizanidine: "Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons." ([DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08), label version 2026-01-02; accessed 2026-11-19.) Tizanidine is a central alpha-2 adrenergic agonist. It is thought to reduce migraine frequency by modulating trigeminal and brainstem pain transmission, and by lowering neck and head muscle tension, which may contribute to chronic daily headache.
 
 The strongest direct clinical evidence comes from chronic daily headache rather than episodic migraine. A double-blind, placebo-controlled, multicentre trial tested tizanidine as add-on preventive therapy in chronic daily headache, a group that includes chronic migraine (PMID 12167135). Several reviews also list tizanidine among preventive options for chronic migraine and chronic daily headache. A Phase 3 trial in episodic migraine prevention is registered, but no results are available yet.
 
@@ -127,6 +127,18 @@ A randomized placebo-controlled trial in chronic daily headache (most participan
 - Package insert warnings and contraindications
 - Detailed mechanism of action data
 - A safety plan covering sedation, hypotension, liver monitoring and CYP1A2-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

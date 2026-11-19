@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **manic bipolar affective disorder**,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, propafenone is a class IC antiarrhythmic (sodium channel blocker), and its efficacy in atrial fibrillation and ventricular tachycardia is established. No plausible therapeutic mechanism links it to mania.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for propafenone: "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential." ([DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42), label version 2026-06-04; accessed 2026-11-19.) Based on known information, propafenone is a class IC antiarrhythmic (sodium channel blocker), and its efficacy in atrial fibrillation and ventricular tachycardia is established. No plausible therapeutic mechanism links it to mania.
 
 The available literature points the other way. A 1985 case report describes mania secondary to propafenone, and the authors note a chemical relationship to the antidepressant bupropion. A 2001 case report describes an organic psychosis from a venlafaxine–propafenone interaction in a patient with bipolar disorder. A 2020 review covers harmful interactions between antipsychotics and cardiovascular drugs.
 
@@ -118,6 +118,19 @@ The prediction rests on model score alone, and the only literature describes pro
 - Mechanism of action data from DrugBank
 - For CPVT: a propafenone-specific systematic review, and a comparison with flecainide covering beta-blocking and negative inotropic effects and structural-heart-disease contraindications
 - For any psychiatric use: no further work is advised unless new evidence of benefit emerges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

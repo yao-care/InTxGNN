@@ -58,7 +58,7 @@ Cetuximab is an anti-EGFR antibody used for EGFR-expressing metastatic colorecta
 
 ## Why is This Prediction Reasonable?
 
-Cetuximab is a monoclonal antibody that targets the epidermal growth factor receptor (EGFR). It is used for EGFR-expressing metastatic colorectal cancer after other chemotherapy has failed. It is also used for squamous cell head and neck cancers, in combination with radiotherapy. Detailed mechanism-of-action data were not available in the compiled data, so this description comes from its pharmacology record.
+Cetuximab is a monoclonal antibody that targets the epidermal growth factor receptor (EGFR). It is used for EGFR-expressing metastatic colorectal cancer after other chemotherapy has failed. It is also used for squamous cell head and neck cancers, in combination with radiotherapy. According to the Mechanism of Action section of the US FDA-approved prescribing information for cetuximab: "The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha." ([DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9), label version 2026-04-16; accessed 2026-11-19.) This description comes from its pharmacology record.
 
 The predicted term "ductal or ductular proliferation" is a general histological label. It is not equivalent to pancreatic ductal adenocarcinoma (PDAC). The retrieved literature mostly concerns PDAC, where EGFR is commonly overexpressed and signals through KRAS. That is a loose biological link at best.
 
@@ -146,6 +146,19 @@ For warnings and contraindications, please refer to the package insert.
 - Studies that directly address that condition, such as biomarker work (KRAS status, EGFR expression) or early-phase trials.
 - The package insert content for warnings, contraindications and approved indications of the Indian Erbitux products.
 - Detailed mechanism-of-action data and a safety assessment for any non-oncology or pre-malignant use.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

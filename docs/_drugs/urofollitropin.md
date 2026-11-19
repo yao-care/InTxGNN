@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, urofollitropin is a gonadotropin (FSH) preparation derived from urine. Its efficacy in ovarian stimulation is established, but no mechanistic route to migraine has been demonstrated.
+ChEMBL (EMBL-EBI) records the mechanism of action of urofollitropin as: Follicle stimulating hormone receptor agonist ([ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, urofollitropin is a gonadotropin (FSH) preparation derived from urine. Its efficacy in ovarian stimulation is established, but no mechanistic route to migraine has been demonstrated.
 
 The link between the two conditions is weak. A hormonal-fluctuation hypothesis, such as menstrual-related migraine, is conceivable. However, gonadotropin stimulation would more plausibly provoke headache than treat it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -92,6 +92,19 @@ The migraine prediction has a very high model score but no supporting clinical t
 - Detailed mechanism of action data
 - A mechanistic hypothesis and preclinical or observational data linking FSH to migraine, for example in menstrual-related migraine
 - A safety assessment of headache or migraine as a known adverse effect of gonadotropins
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

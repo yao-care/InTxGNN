@@ -60,7 +60,7 @@ However, this is a **model prediction only**: **no clinical trials and no public
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ruxolitinib is a JAK1/2 inhibitor, and its efficacy in myeloproliferative neoplasms is established. Mechanistically, it may be applicable to tumours in which JAK-STAT signalling plays a role.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ruxolitinib: "Ruxolitinib, a kinase inhibitor, inhibits Janus Associated Kinases (JAKs), JAK1 and JAK2, which mediate the signaling of a number of cytokines and growth factors that are important for hematopoiesis and immune function. JAK signaling involves recruitment of STATs (signal transducers and activators of transcription) to cytokine receptors, activation, and subsequent localization of STATs to the nucleus leading to modulation of gene expression." ([DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b), label version 2026-07-20; accessed 2026-11-19.) Ruxolitinib is a JAK1/2 inhibitor, and its efficacy in myeloproliferative neoplasms is established. Mechanistically, it may be applicable to tumours in which JAK-STAT signalling plays a role.
 
 For uterine PEComa, the link is speculative. PEComas are generally driven by mTOR/PI3K pathway activation, and possible crosstalk with JAK-STAT signalling is a hypothesis rather than an established finding. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of JAK1/2 biology in this tumour.
 
@@ -136,6 +136,19 @@ Among the other predicted indications, **hemophagocytic lymphohistiocytosis (HLH
 - Detailed mechanism of action data (MOA)
 - Package insert warnings and contraindications for the India-marketed products
 - A decision on whether to re-prioritise the HLH indication, which would require a prospective trial design
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jakafi (ruxolitinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f1c82580-87ae-11e0-bc84-0002a5d5c51b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

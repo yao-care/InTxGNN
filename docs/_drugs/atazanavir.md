@@ -56,7 +56,7 @@ SIV infection is an animal-model disease rather than a human indication, so the 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Atazanavir is a well-known HIV-1 protease inhibitor, and its efficacy in HIV infection and AIDS is established. Mechanistically, it may be applicable to SIV, a closely related lentivirus with a homologous protease.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for atazanavir: "Atazanavir is an HIV-1 antiretroviral drug. […] Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI). The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions." ([DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8), label version 2024-12-05; accessed 2026-11-19.) Atazanavir is a well-known HIV-1 protease inhibitor, and its efficacy in HIV infection and AIDS is established. Mechanistically, it may be applicable to SIV, a closely related lentivirus with a homologous protease.
 
 The only supporting study is a 2010 macaque study in which SIV-infected animals on highly active antiretroviral therapy (HAART) showed reduced central nervous system viral replication and inflammation, although viral DNA persisted. This is indirect, because it tested a combination regimen rather than atazanavir alone. SIV infection is also not a human therapeutic indication, so the finding mainly supports the biological plausibility of protease inhibition and does not point to a new human use.
 
@@ -120,11 +120,12 @@ The prediction is supported by a single indirect preclinical macaque study and n
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Reyataz (atazanavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=165cff62-b284-4a27-a65d-9ec8a5bfcdd8) |
 
 <!-- review:end log -->
 

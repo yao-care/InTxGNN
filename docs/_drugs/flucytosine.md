@@ -55,7 +55,7 @@ Flucytosine is an antifungal prodrug marketed in India as 500 mg tablets. The Tx
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled record. Based on general pharmacology, flucytosine is an antifungal prodrug. Fungal cytosine deaminase converts it to 5-fluorouracil (5-FU), which inhibits thymidylate synthase and disrupts RNA and DNA synthesis. Mammalian cells have little cytosine deaminase activity, so systemic conversion is minimal, although gut flora can convert some.
+According to the Clinical Pharmacology and Microbiology sections of the US FDA-approved prescribing information for flucytosine: "Flucytosine is taken up by fungal organisms via the enzyme cytosine permease. Inside the fungal cell, flucytosine is rapidly converted to fluorouracil by the enzyme cytosine deaminase. Fluorouracil exerts its antifungal activity through the subsequent conversion into several active metabolites, which inhibit protein synthesis by being falsely incorporated into fungal RNA or interfere with the biosynthesis of fungal DNA through the inhibition of the enzyme thymidylate synthetase." ([DailyMed: Ancobon (flucytosine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea0df00-a88c-4a16-abcf-750f3ff2004e), label version 2022-02-02; accessed 2026-11-19.) Based on general pharmacology, flucytosine is an antifungal prodrug. Fungal cytosine deaminase converts it to 5-fluorouracil (5-FU), which inhibits thymidylate synthase and disrupts RNA and DNA synthesis. Mammalian cells have little cytosine deaminase activity, so systemic conversion is minimal, although gut flora can convert some.
 
 No established biological link to Paget disease of bone was identified. That disease involves dysregulated osteoclast activity (for example SQSTM1/p62 mutations and RANKL/NF-κB signalling) and is treated mainly with bisphosphonates. The very high TxGNN score is a TxGNN model (deep learning) prediction and does not reflect an identified mechanism.
 
@@ -96,6 +96,19 @@ The prediction is supported only by the model score, with no clinical trials, no
 - Preclinical evidence of any effect on osteoclast biology or Paget disease models
 - Confirmation of the approved indication text for the India licences
 - Route and formulation compatibility assessment for the new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ancobon (flucytosine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aea0df00-a88c-4a16-abcf-750f3ff2004e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

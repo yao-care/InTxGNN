@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ascorbic acid is a single-ingredient vitamin. Its efficacy in correcting vitamin C deficiency and scurvy is well established. It is also known as an antioxidant and as a cofactor in collagen synthesis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ascorbic acid: "The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid." ([DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6), label version 2026-09-03; accessed 2026-11-19.) Based on known information, ascorbic acid is a single-ingredient vitamin. Its efficacy in correcting vitamin C deficiency and scurvy is well established. It is also known as an antioxidant and as a cofactor in collagen synthesis.
 
 Non-syndromic esophageal malformation is a structural congenital defect that arises during embryonic development. No plausible mechanism has been identified by which ascorbic acid could correct or treat such a defect. The very high score (0.9996) reflects how the model links this drug to the disease, not biological or clinical support. The reliability of this prediction is therefore low, and it should be treated only as a hypothesis for screening.
 
@@ -126,6 +126,19 @@ The prediction for non-syndromic esophageal malformation rests solely on the mod
 - Package insert warnings and contraindications from the India Pharma source
 - A biological rationale connecting ascorbic acid to esophageal development, if this indication is to be pursued
 - Prioritization of better-supported indications before any further work on this one
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

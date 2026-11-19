@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, entacapone is a catechol-O-methyltransferase (COMT) inhibitor. It prolongs the action of levodopa by reducing its peripheral breakdown, and its benefit in Parkinson disease is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for entacapone: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), label version 2026-02-16; accessed 2026-11-19.) Based on known pharmacology, entacapone is a catechol-O-methyltransferase (COMT) inhibitor. It prolongs the action of levodopa by reducing its peripheral breakdown, and its benefit in Parkinson disease is established.
 
 PLA2G6-associated neurodegeneration includes infantile neuroaxonal dystrophy and PLA2G6-related dystonia-parkinsonism. The parkinsonian features of the latter overlap with the original indication, so a symptomatic benefit from levodopa augmentation is conceivable. This is a hypothesis, not evidence.
 
@@ -111,6 +111,18 @@ The prediction is supported only by the model score. There are no trials or publ
 | 4 | Paralysis agitans, juvenile, of Hunt | 0.9960 | L5 | Historical term for juvenile parkinsonism. This largely overlaps with the existing Parkinson indication and is not a true new indication. Research Question. |
 | 7 | Lewy body dementia | 0.9925 | L5 | Shares alpha-synuclein pathology with Parkinson disease. Support is limited to an in vitro study (PMID 23913715) and an unrelated imaging trial. Dopaminergic agents may worsen psychosis and hallucinations. Research Question. |
 | 10 | Progressive supranuclear palsy-corticobasal syndrome | 0.9904 | L5 | These conditions respond poorly to levodopa. The only trial is an observational gait study. Research Question. |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -54,7 +54,7 @@ Terlipressin is a long-acting vasopressin analogue given by injection, widely ma
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, terlipressin is a synthetic vasopressin analogue that acts mainly on V1 receptors, causing systemic and splanchnic vasoconstriction.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for terlipressin: "Terlipressin is a synthetic vasopressin analogue with twice the selectivity for vasopressin V 1 receptors versus V 2 receptors. Terlipressin acts as both a prodrug for lysine-vasopressin, as well as having pharmacologic activity on its own." ([DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354), label version 2026-10-23; accessed 2026-11-19.) Based on known pharmacology, terlipressin is a synthetic vasopressin analogue that acts mainly on V1 receptors, causing systemic and splanchnic vasoconstriction.
 
 **Open-angle glaucoma (top-ranked prediction).** No plausible mechanism for lowering intraocular pressure is apparent. No trials or literature support it. The same applies to the related eye predictions (primary hereditary glaucoma, "glaucoma 1, open angle", glaucoma, esotropia).
 
@@ -79,7 +79,6 @@ Publications relevant to pulmonary hypertension:
 | [19624374](https://pubmed.ncbi.nlm.nih.gov/19624374/) | 2009 | Case series/report | Paediatr Anaesth | Role of terlipressin in severe pulmonary hypertension in congenital diaphragmatic hernia |
 | [30971593](https://pubmed.ncbi.nlm.nih.gov/30971593/) | 2019 | Comparative study | Ann Card Anaesth | Terlipressin versus norepinephrine to prevent milrinone-induced systemic hypotension in cardiac surgery patients with pulmonary hypertension, hypothesised to avoid raising pulmonary pressures |
 | [34179513](https://pubmed.ncbi.nlm.nih.gov/34179513/) | 2021 | Systematic review protocol | BMJ Paediatr Open | Protocol to review efficacy and safety of vasopressin and terlipressin in preterm neonates |
-
 
 ## India Market Information
 
@@ -114,6 +113,19 @@ Please refer to the package insert for full warnings, contraindications and drug
 - Controlled studies of terlipressin in pulmonary hypertension, with safety endpoints for respiratory failure and ischaemia
 - Route and dosing compatibility assessment for the proposed use
 - Specific evaluation in the populations where evidence exists (cirrhosis with portopulmonary hypertension, neonates)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

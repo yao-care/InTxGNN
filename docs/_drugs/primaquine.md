@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **myiasis** (fly-larvae infesta
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, primaquine is an 8-aminoquinoline whose efficacy in *P. vivax* malaria is well established. Its activity is generally attributed to redox-active metabolites acting on liver-stage hypnozoites and on gametocytes.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for primaquine: "Primaquine phosphate is an 8-aminoquinoline antimalarial drug. The mechanism of action has not been fully established. The major assumptions are an inhibition of the mitochondrial system of dormant parasites, and an oxidative stress generated through reactive metabolites in infected cells." ([DailyMed: primaquine phosphate prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bfbf4ae-81b8-4160-a00d-6322aadd4b59), label version 2026-02-11; accessed 2026-11-19.) Based on known information, primaquine is an 8-aminoquinoline whose efficacy in *P. vivax* malaria is well established. Its activity is generally attributed to redox-active metabolites acting on liver-stage hypnozoites and on gametocytes.
 
 Myiasis is an infestation of tissue by fly larvae, which are multicellular insect parasites. Primaquine is not known to act on insect targets. Standard care is mechanical removal or debridement, plus larvicidal agents such as ivermectin, and primaquine has no known larvicidal activity. The same lack of a mechanistic link applies to the related subtypes (wound, furuncular and creeping myiasis).
 
@@ -116,6 +116,19 @@ The myiasis prediction rests on model output alone (L5). There are no trials or 
 - A comparison of expected benefit against the hemolysis and drug-interaction risks, if any evidence emerges
 
 Other predictions for primaquine have much stronger support. Malaria (an on-label use with Phase 3 trials) and pneumocystosis (clindamycin plus primaquine as a second-line regimen, with a Phase 3 trial) both reach L1. They could be evaluated with G6PD screening as a guardrail.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: primaquine phosphate prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1bfbf4ae-81b8-4160-a00d-6322aadd4b59) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

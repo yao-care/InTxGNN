@@ -60,7 +60,7 @@ The license records compiled for this report do not state an approved indication
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, polymyxin B is a bactericidal polypeptide antibiotic that disrupts the outer membrane of Gram-negative bacteria. This includes multidrug-resistant *Pseudomonas aeruginosa* and *Acinetobacter baumannii*. It is therefore mechanistically plausible for bacterial infections of the airways caused by resistant Gram-negative organisms.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for polymyxin b: "Polymyxin B sulfate has a bactericidal action against almost all gram-negative bacilli except the Proteus group. Polymyxins increase the permeability of bacterial cell membrane leading to death of the cell. All gram positive bacteria, fungi, and gram-negative cocci are resistant to polymyxin B. For specific information regarding susceptibility test criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: www.fda.gov/STIC." ([DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6), label version 2026-06-22; accessed 2026-11-19.) Based on general knowledge, polymyxin B is a bactericidal polypeptide antibiotic that disrupts the outer membrane of Gram-negative bacteria. This includes multidrug-resistant *Pseudomonas aeruginosa* and *Acinetobacter baumannii*. It is therefore mechanistically plausible for bacterial infections of the airways caused by resistant Gram-negative organisms.
 
 The link between the original use (Gram-negative infection) and bronchitis is indirect. The relevant literature covers two areas:
 - **Respiratory infection:** ventilator-associated pneumonia and tracheobronchitis comparisons (2013) and an inhaled salvage-treatment report (2007).
@@ -141,6 +141,19 @@ The 0.9987 score is a prediction only. There are no registered trials, and the l
 - Direct clinical evidence in bacterial bronchitis, ideally a controlled trial
 - A safety assessment of any inhaled or nebulized route, including bronchospasm risk, as no such formulation is registered
 - A defined target population, since most bronchitis is viral or non-bacterial and a stewardship plan would be needed
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ and although **no registered clinical trials** were found, **20 publications** (
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, polidocanol is a sclerosing agent that damages the vascular endothelium, causing thrombosis and fibrosis of the vessel. Its efficacy in varicose veins is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for polidocanol: "The active ingredient of Asclera is polidocanol. Polidocanol is a sclerosing agent that locally damages the endothelium of blood vessels. When injected intravenously, polidocanol induces endothelial damage. Platelets then aggregate at the site of damage and attach to the venous wall." ([DailyMed: Asclera (polidocanol) prescribing information, Methapharm, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb1f342b-5352-4059-a0b2-e60fd652fd28), label version 2025-07-16; accessed 2026-11-19.) Based on general pharmacological knowledge, polidocanol is a sclerosing agent that damages the vascular endothelium, causing thrombosis and fibrosis of the vessel. Its efficacy in varicose veins is established.
 
 Esophageal varices are also dilated veins. The same endothelial sclerosing effect applies directly to endoscopic injection sclerotherapy, in which the drug is injected into or beside the varix to obliterate it. This is why the literature shows decades of use of polidocanol for variceal bleeding.
 
@@ -111,6 +111,19 @@ Several randomized trials and comparative studies describe polidocanol sclerothe
 **Other predictions:**
 - Esophageal varices without bleeding (score 0.9995): Research Question. The evidence for prevention is indirect, and guidelines favor beta-blockers or band ligation.
 - The remaining eight predictions (for example, immunoerythromyeloid hypoplasia, retinal and cone disorders, and monosomy X) have no trials, no literature and no plausible mechanistic link. They are Hold. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Asclera (polidocanol) prescribing information, Methapharm, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb1f342b-5352-4059-a0b2-e60fd652fd28) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

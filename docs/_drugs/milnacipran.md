@@ -56,7 +56,7 @@ with **2 clinical trials** and **5 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, milnacipran is an SNRI, its use in fibromyalgia is established, and mechanistically it may be applicable to migraine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for milnacipran: "The exact mechanism of the central pain inhibitory action of milnacipran and its ability to improve the symptoms of fibromyalgia in humans are unknown. Preclinical studies have shown that milnacipran is a potent inhibitor of neuronal norepinephrine and serotonin reuptake; milnacipran inhibits norepinephrine uptake with approximately 3-fold higher potency in vitro than serotonin without directly affecting the uptake of dopamine or other neurotransmitters." ([DailyMed: Savella (milnacipran hydrochloride) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b720a1e-034b-4583-b80d-105a794cce74), label version 2026-01-26; accessed 2026-11-19.) Based on known information, milnacipran is an SNRI, its use in fibromyalgia is established, and mechanistically it may be applicable to migraine.
 
 Other SNRIs and tricyclic antidepressants with serotonergic and noradrenergic activity are used for migraine prevention. Descending pain-modulatory pathways are implicated in both fibromyalgia and migraine, so the mechanistic link is plausible. However, this link rests on the known drug class rather than on a documented mechanism record for milnacipran itself.
 
@@ -112,6 +112,19 @@ The mechanistic link is plausible and two migraine-specific studies exist, but b
 - Mechanism-of-action data from DrugBank
 - A safety review for migraine patients, particularly cardiovascular and blood pressure risks, and the reported cerebral vasoconstriction signal
 - If results are encouraging, an adequately powered controlled trial in migraine prevention
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Savella (milnacipran hydrochloride) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b720a1e-034b-4583-b80d-105a794cce74) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Miconazole is an imidazole antifungal used on the skin and vaginally. The TxGNN 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general azole pharmacology, miconazole blocks fungal CYP51 (lanosterol 14-alpha-demethylase), which stops ergosterol synthesis and damages the fungal cell membrane.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for miconazole: "Miconazole is an antifungal drug. […] Miconazole inhibits the enzyme cytochrome P450 14α-demethylase which leads to inhibition of ergosterol synthesis, an essential component of the fungal cell membrane. Miconazole also affects the synthesis of triglycerides and fatty acids and inhibits oxidative and peroxidative enzymes, increasing the amount of reactive oxygen species within the cell." ([DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a), label version 2026-01-08; accessed 2026-11-19.) Based on general azole pharmacology, miconazole blocks fungal CYP51 (lanosterol 14-alpha-demethylase), which stops ergosterol synthesis and damages the fungal cell membrane.
 
 Three lines of reasoning link this to acne. First, a laboratory study (PMID 20045949) tested azole antifungals against *Propionibacterium acnes*, the bacterium involved in acne vulgaris. Second, miconazole acts against *Malassezia* (*Pityrosporum*), which causes a folliculitis that looks like acne and is often misdiagnosed as it (PMID 8593718). Third, a review describes anti-inflammatory and antibacterial effects of miconazole on skin disorders (PMID 18627330).
 
@@ -103,6 +103,18 @@ The evidence level is L4. The support is one review of miconazole's antibacteria
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from India Pharma
 - Confirmation of the approved indication text in the local licence records
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oravig (miconazole) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dc2427ff-e566-4b48-b289-9e51c011250a) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

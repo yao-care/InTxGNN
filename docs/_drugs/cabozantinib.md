@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **liposarcoma**, but the suppor
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cabozantinib inhibits VEGFR2, MET and AXL. These pathways are involved in tumour angiogenesis and progression, including in soft tissue sarcomas.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cabozantinib: "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment." ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), label version 2025-10-19; accessed 2026-11-19.) Based on known pharmacology, cabozantinib inhibits VEGFR2, MET and AXL. These pathways are involved in tumour angiogenesis and progression, including in soft tissue sarcomas.
 
 Liposarcoma is a soft tissue sarcoma, so activity in this group of tumours is biologically plausible. However, liposarcoma-specific data are limited. The listed studies cover mixed sarcoma subtypes, so they do not show that cabozantinib works in liposarcoma itself.
 
@@ -112,6 +112,19 @@ The TxGNN score for liposarcoma is high (0.9983), but no listed study directly e
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the India licence holders
 - A safety plan covering the interaction profile and the fistula/perforation risk seen with radiation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

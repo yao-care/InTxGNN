@@ -54,7 +54,7 @@ Bupropion is an antidepressant that inhibits the reuptake of norepinephrine and 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. From the literature, bupropion's main action is believed to be inhibition of dopamine and norepinephrine reuptake, and it has no serotonergic activity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bupropion: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119), label version 2026-11-11; accessed 2026-11-19.) From the literature, bupropion's main action is believed to be inhibition of dopamine and norepinephrine reuptake, and it has no serotonergic activity.
 
 Established ADHD treatments, such as stimulants and atomoxetine, act on these same catecholamine pathways. Reduced dopamine and norepinephrine signalling is thought to underlie the inattention and hyperactivity of ADHD, so a drug that raises synaptic levels of both is mechanistically plausible. Several reviews in the evidence list bupropion among the non-stimulant options for adults who do not respond to, or cannot tolerate, stimulants.
 
@@ -115,6 +115,19 @@ A completed Phase 3 placebo-controlled trial, a Phase 2/3 trial and a Phase 4 tr
 - Verification of the Phase 3 trial's design, results and dose arms
 - A monitoring plan for seizure risk, blood pressure and substance use comorbidity
 - A medication review to manage the large number of drug interactions, especially CYP2D6-metabolized drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

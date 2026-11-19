@@ -56,7 +56,7 @@ The **19 publications** retrieved are mostly case reports, retrospective cohorts
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Meropenem is a carbapenem, a class that kills bacteria by binding penicillin-binding proteins and blocking cell wall synthesis. Its efficacy in serious Gram-negative and mixed bacterial infections is established, and mechanistically it may be applicable to joint infections caused by susceptible organisms.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for meropenem: "Meropenem is an antibacterial drug. […] The bactericidal activity of meropenem results from the inhibition of cell wall synthesis. Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets." ([DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f), label version 2026-11-02; accessed 2026-11-19.) Meropenem is a carbapenem, a class that kills bacteria by binding penicillin-binding proteins and blocking cell wall synthesis. Its efficacy in serious Gram-negative and mixed bacterial infections is established, and mechanistically it may be applicable to joint infections caused by susceptible organisms.
 
 Bacterial arthritis is also a bacterial infection, so the new indication is close to meropenem's original uses. The literature supports this plausibility indirectly:
 - In a retrospective review of musculoskeletal melioidosis (22 cases), all isolates were susceptible to meropenem.
@@ -119,6 +119,19 @@ The prediction score is very high (0.9992), but the supporting evidence is indir
 - Joint and bone penetration and dosing data, and a stewardship plan defining the patients for whom a carbapenem is justified.
 
 *Note: another predicted indication for meropenem, complicated urinary tract infection, has considerably stronger evidence (several completed Phase 3 trials, mostly with meropenem as comparator or in combination with vaborbactam). It may merit separate evaluation.*
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but **no clinical trials** are registered and the supporting **literature (19 pu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Sulfadiazine belongs to the sulfonamide class, which inhibits dihydropteroate synthase (DHPS) in the folate synthesis pathway. Its efficacy in toxoplasmosis is established, and mechanistically it may be applicable to pneumocystosis.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for sulfadiazine: "The systemic sulfonamides are bacteriostatic agents having a similar spectrum of activity. Sulfonamides competitively inhibit bacterial synthesis of folic acid (pteroylglutamic acid) from aminobenzoic acid. Resistant strains are capable of utilizing folic acid precursors or preformed folic acid." ([DailyMed: sulfadiazine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6032d6f7-cbce-4e5d-841c-a1e24b616f91), label version 2024-09-24; accessed 2026-11-19.) Sulfadiazine belongs to the sulfonamide class, which inhibits dihydropteroate synthase (DHPS) in the folate synthesis pathway. Its efficacy in toxoplasmosis is established, and mechanistically it may be applicable to pneumocystosis.
 
 *Pneumocystis jirovecii* depends on the same folate pathway. The related sulfonamide sulfamethoxazole, combined with trimethoprim, is the standard treatment and prophylaxis for *Pneumocystis* pneumonia. This gives a plausible class-level rationale. One supplied paper also shows that DHPS mutations in *P. jirovecii* confer cross-resistance to sulfa drugs, which supports the idea that sulfonamides act on this target.
 
@@ -115,6 +115,19 @@ The only support is a class-level mechanistic link (DHPS inhibition) and a compu
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for the systemic (oral) product, which are currently missing and block safety screening
 - A safety monitoring plan for haematologic, renal and hypersensitivity risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: sulfadiazine prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6032d6f7-cbce-4e5d-841c-a1e24b616f91) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ with **2 clinical trials** (one completed Phase 3 and one completed Phase 4) and
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tacrolimus is a calcineurin inhibitor. It blocks T-cell activation and the release of pro-inflammatory cytokines. This is the pathway behind its established use in atopic dermatitis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tacrolimus: "Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited." ([DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7), label version 2025-02-26; accessed 2026-11-19.) Based on known information, tacrolimus is a calcineurin inhibitor. It blocks T-cell activation and the release of pro-inflammatory cytokines. This is the pathway behind its established use in atopic dermatitis.
 
 Seborrheic dermatitis is a chronic, relapsing inflammatory skin disease of the face and scalp. It involves an inflammatory response to *Malassezia* yeast. Atopic dermatitis and seborrheic dermatitis share an inflammatory, T-cell-driven component, so calcineurin inhibition is a plausible way to treat both. Tacrolimus may also have indirect effects on *Malassezia*-related inflammation. The very high TxGNN score is consistent with this rationale.
 
@@ -117,6 +117,19 @@ A completed Phase 3 trial and a completed Phase 4 study of tacrolimus ointment i
 - Confirmation of topical ointment availability and labelling in India, since most registrations are oral capsules
 - Detailed mechanism of action data
 - A safety monitoring plan covering infection risk, long-term cancer risk, and interactions with concomitant drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

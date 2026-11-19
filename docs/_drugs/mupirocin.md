@@ -59,7 +59,7 @@ The TxGNN model's top-ranked prediction is **pleural empyema** (score 0.9949), b
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, mupirocin is a topical antibacterial that inhibits bacterial isoleucyl-tRNA synthetase and is mainly active against gram-positive bacteria such as *Staphylococcus aureus*. Its efficacy in impetigo is established, and mechanistically it may be applicable to other *S. aureus*-driven conditions.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for mupirocin: "Mupirocin is an RNA synthetase inhibitor antibacterial. […] Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl-transfer RNA (tRNA) synthetase. Mupirocin is bactericidal at concentrations achieved by topical administration." ([DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870), label version 2020-03-20; accessed 2026-11-19.) Based on known information, mupirocin is a topical antibacterial that inhibits bacterial isoleucyl-tRNA synthetase and is mainly active against gram-positive bacteria such as *Staphylococcus aureus*. Its efficacy in impetigo is established, and mechanistically it may be applicable to other *S. aureus*-driven conditions.
 
 **Pleural empyema (rank 1)** is a weak fit. *S. aureus* can cause empyema, but mupirocin is not used systemically and would not reach the pleural space, so there is no plausible route of use. The high score appears to be a model artefact rather than a pharmacologically grounded signal.
 
@@ -137,6 +137,19 @@ The top-ranked prediction, pleural empyema, has a very high model score but no t
 - For SSSS: a controlled study or systematic review of mupirocin as an adjunct, and local mupirocin resistance data in India
 - Route-compatibility assessment, including whether available topical products suit any proposed use
 - Confirmation of study design for the title-only report (PMID 1678836) if the candidiasis direction is pursued
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pirnuo (mupirocin) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89c43f7b-1a88-45bf-a356-07518d4e7870) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

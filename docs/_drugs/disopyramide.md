@@ -54,7 +54,7 @@ Disopyramide is a class Ia antiarrhythmic (sodium channel blocker with anticholi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, disopyramide is a class Ia antiarrhythmic that blocks sodium channels and has anticholinergic activity. Its established role is in atrial and ventricular arrhythmias.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for disopyramide: "Norpace (disopyramide phosphate) is a Type 1 antiarrhythmic drug (i.e., similar to procainamide and quinidine). In animal studies Norpace decreases the rate of diastolic depolarization (phase 4) in cells with augmented automaticity, decreases the upstroke velocity (phase 0) and increases the action potential duration of normal cardiac cells, decreases the disparity in refractoriness between infarcted and adjacent normally perfused myocardium, and has no effect on alpha- or beta-adrenergic receptors." ([DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677), label version 2026-08-24; accessed 2026-11-19.) Based on general pharmacology, disopyramide is a class Ia antiarrhythmic that blocks sodium channels and has anticholinergic activity. Its established role is in atrial and ventricular arrhythmias.
 
 Tourette syndrome is mainly treated by modulating dopaminergic and alpha-2 adrenergic pathways, which are not primary targets of disopyramide. No clear mechanistic link was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a drug-specific pharmacological signal.
 
@@ -110,6 +110,19 @@ The Tourette syndrome prediction rests only on a TxGNN model (deep learning) sco
 - Detailed mechanism of action data
 - Direct preclinical or clinical evidence for any predicted indication
 - For arrhythmia-related predictions, specific evidence on disopyramide, including neonatal safety, dosing and pharmacokinetics for the neonatal atrial flutter prediction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

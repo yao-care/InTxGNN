@@ -56,7 +56,7 @@ That publication is a case report of a drug side effect, not evidence that tript
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Triptorelin belongs to the GnRH agonist class. With continuous exposure, these drugs desensitise the pituitary and lower LH, FSH and sex-steroid levels. In theory, lowering androgen levels could matter for some hair-growth disorders.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for triptorelin: "Triptorelin is a synthetic decapeptide agonist analog of gonadotropin releasing hormone (GnRH). Comparative in vitro studies showed that triptorelin was 100-fold more active than native GnRH in stimulating luteinizing hormone release from monolayers of dispersed rat pituitary cells in culture and 20-fold more active than native GnRH in displacing 125 I-GnRH from pituitary receptor sites." ([DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3), label version 2026-06-30; accessed 2026-11-19.) Triptorelin belongs to the GnRH agonist class. With continuous exposure, these drugs desensitise the pituitary and lower LH, FSH and sex-steroid levels. In theory, lowering androgen levels could matter for some hair-growth disorders.
 
 In practice, the link to hypertrichosis is weak. Hypertrichosis is most often drug-induced or genetic, and it is not typically driven by gonadotropin-mediated androgen excess. No credible mechanism was identified by which triptorelin would treat it. The high model score most likely reflects proximity between the drug and the disease in the model's data rather than a true therapeutic signal.
 
@@ -106,6 +106,18 @@ The prediction has no supporting trials, and the only publication is a case repo
 - Controlled or observational clinical data on triptorelin in this condition
 - Package insert warnings and contraindications for the marketed products
 - Detailed mechanism-of-action data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

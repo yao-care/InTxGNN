@@ -9,7 +9,7 @@
   "with_current": 52,
   "none_current": 0,
   "without_data": 31,
-  "with_reviews": 2,
+  "with_reviews": 46,
   "rows": [
    {
     "t": "Bendamustine",
@@ -18,8 +18,8 @@
     "i": "mantle cell lymphoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -29,8 +29,8 @@
     "i": "eye disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled drug record\" replaced with a…",
     "x": 0
    },
    {
@@ -40,8 +40,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -51,8 +51,8 @@
     "i": "myelodysplastic syndrome",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -62,8 +62,8 @@
     "i": "myeloid leukemia",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -73,8 +73,8 @@
     "i": "pneumocystosis",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -95,8 +95,8 @@
     "i": "headache disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not currently available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -106,8 +106,8 @@
     "i": "eye disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the structured drug record\" replaced with a…",
     "x": 0
    },
    {
@@ -117,8 +117,8 @@
     "i": "esophageal varices with bleeding",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -139,8 +139,8 @@
     "i": "chronic hepatitis B virus infection",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -150,8 +150,8 @@
     "i": "thrombotic disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data for the drug is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -161,8 +161,8 @@
     "i": "insomnia (disease)",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -172,8 +172,8 @@
     "i": "HIV infectious disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -183,8 +183,8 @@
     "i": "migraine disorder",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, but s\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -205,8 +205,8 @@
     "i": "obsessive-compulsive disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -216,8 +216,8 @@
     "i": "anxiety disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -227,8 +227,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -238,8 +238,8 @@
     "i": "myofascial pain syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data was not available in the drug record, so t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -249,8 +249,8 @@
     "i": "alopecia areata",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -260,8 +260,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for diazepam are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -271,8 +271,8 @@
     "i": "Ewing sarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for docetaxel is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -282,8 +282,8 @@
     "i": "migraine disorder",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -293,8 +293,8 @@
     "i": "liposarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -304,8 +304,8 @@
     "i": "plasma cell myeloma",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -315,8 +315,8 @@
     "i": "alopecia areata",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data for hydrocortisone is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -337,8 +337,8 @@
     "i": "headache disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report, so t\"…",
     "x": 0
    },
    {
@@ -348,7 +348,7 @@
     "i": "hepatitis B virus infection",
     "lt": 14,
     "lv": 14,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -359,8 +359,8 @@
     "i": "myeloid leukemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data for lenalidomide is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -370,8 +370,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -381,8 +381,8 @@
     "i": "headache disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -392,8 +392,8 @@
     "i": "agoraphobia",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -403,8 +403,8 @@
     "i": "bronchitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -414,8 +414,8 @@
     "i": "HIV infectious disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled records\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -425,8 +425,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -436,8 +436,8 @@
     "i": "follicular lymphoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -447,8 +447,8 @@
     "i": "malignant pleural mesothelioma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -458,8 +458,8 @@
     "i": "seborrheic dermatitis",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -469,8 +469,8 @@
     "i": "alopecia areata",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -491,8 +491,8 @@
     "i": "liposarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Formal mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -502,8 +502,8 @@
     "i": "duodenogastric reflux",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -513,8 +513,8 @@
     "i": "liposarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -524,8 +524,8 @@
     "i": "seborrheic dermatitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -546,8 +546,8 @@
     "i": "migraine disorder",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -557,8 +557,8 @@
     "i": "obsessive-compulsive disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the original drug record\" replaced with a…",
     "x": 0
    },
    {
@@ -579,8 +579,8 @@
     "i": "Ewing sarcoma",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    }
   ],
@@ -603,7 +603,7 @@
   "with_current": 89,
   "none_current": 0,
   "without_data": 41,
-  "with_reviews": 6,
+  "with_reviews": 71,
   "rows": [
    {
     "t": "Abatacept",
@@ -612,8 +612,8 @@
     "i": "ankylosing spondylitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -623,8 +623,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -634,8 +634,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -656,8 +656,8 @@
     "i": "primary cutaneous T-cell lymphoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -667,8 +667,8 @@
     "i": "restless legs syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -689,8 +689,8 @@
     "i": "Ewing sarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -700,8 +700,8 @@
     "i": "Hodgkins lymphoma",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -711,8 +711,8 @@
     "i": "amenorrhea (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -722,8 +722,8 @@
     "i": "stroke disorder",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -733,8 +733,8 @@
     "i": "HIV infectious disease",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -766,8 +766,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -799,8 +799,8 @@
     "i": "breast fibrocystic disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for MPA is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -821,8 +821,8 @@
     "i": "urinary tract infection (disease)",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -832,8 +832,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled record\" replaced with a…",
     "x": 0
    },
    {
@@ -843,8 +843,8 @@
     "i": "migraine disorder",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -854,8 +854,8 @@
     "i": "pulmonary hypertension",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -865,8 +865,8 @@
     "i": "insomnia (disease)",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -876,8 +876,8 @@
     "i": "migraine disorder",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled drug record\" replaced with a…",
     "x": 0
    },
    {
@@ -887,8 +887,8 @@
     "i": "liposarcoma",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -898,8 +898,8 @@
     "i": "trichotillomania",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -909,8 +909,8 @@
     "i": "follicular lymphoma",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -920,8 +920,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -931,8 +931,8 @@
     "i": "migraine disorder",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -942,8 +942,8 @@
     "i": "hepatitis B virus infection",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -953,8 +953,8 @@
     "i": "renal cell carcinoma (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -975,8 +975,8 @@
     "i": "hypertensive disorder",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 10
    },
    {
@@ -986,7 +986,7 @@
     "i": "migraine disorder",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -1008,7 +1008,7 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -1019,8 +1019,8 @@
     "i": "specific developmental disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1030,8 +1030,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1041,8 +1041,8 @@
     "i": "alopecia mucinosa",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available for this report\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -1052,8 +1052,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1063,8 +1063,8 @@
     "i": "rheumatoid arthritis",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1074,8 +1074,8 @@
     "i": "acute intermittent porphyria",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1085,8 +1085,8 @@
     "i": "insomnia (disease)",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 1
    },
    {
@@ -1096,8 +1096,8 @@
     "i": "febrile infection-related epilepsy syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1129,8 +1129,8 @@
     "i": "small cell lung carcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1140,8 +1140,8 @@
     "i": "HIV infectious disease",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1151,8 +1151,8 @@
     "i": "hepatic porphyria",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1173,8 +1173,8 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1184,8 +1184,8 @@
     "i": "migraine disorder",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1195,7 +1195,7 @@
     "i": "nasal cavity disease",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -1217,8 +1217,8 @@
     "i": "hypouricemia, renal",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1228,8 +1228,8 @@
     "i": "HIV infectious disease",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1239,8 +1239,8 @@
     "i": "rheumatoid arthritis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -1261,8 +1261,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -1272,8 +1272,8 @@
     "i": "lymphosarcoma",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1283,8 +1283,8 @@
     "i": "bacterial arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1305,8 +1305,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1316,8 +1316,8 @@
     "i": "heart disease",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1338,8 +1338,8 @@
     "i": "migraine disorder",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the drug record\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -1349,8 +1349,8 @@
     "i": "obstructive lung disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -1360,8 +1360,8 @@
     "i": "restless legs syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1371,8 +1371,8 @@
     "i": "migraine disorder",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1382,8 +1382,8 @@
     "i": "ischemic disease",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1404,8 +1404,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1415,8 +1415,8 @@
     "i": "bronchitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1437,7 +1437,7 @@
     "i": "nasal cavity disease",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient products and all\"",
     "x": 0
    },
@@ -1448,8 +1448,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -1459,8 +1459,8 @@
     "i": "HIV infectious disease",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1470,8 +1470,8 @@
     "i": "breast fibrocystic disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1481,8 +1481,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -1492,8 +1492,8 @@
     "i": "myeloid leukemia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report, so t\"…",
     "x": 0
    },
    {
@@ -1503,8 +1503,8 @@
     "i": "conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1525,8 +1525,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1536,8 +1536,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1547,8 +1547,8 @@
     "i": "exposure keratitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1558,8 +1558,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1580,8 +1580,8 @@
     "i": "acne (disease)",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    }
   ],
@@ -1603,7 +1603,7 @@
   "with_current": 698,
   "none_current": 0,
   "without_data": 344,
-  "with_reviews": 49,
+  "with_reviews": 563,
   "rows": [
    {
     "t": "Acarbose",
@@ -1612,8 +1612,8 @@
     "i": "classic stiff person syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1645,8 +1645,8 @@
     "i": "exercise-induced malignant hyperthermia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1656,8 +1656,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for this drug were not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -1667,8 +1667,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1678,8 +1678,8 @@
     "i": "zinc, elevated plasma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1689,8 +1689,8 @@
     "i": "coenurosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1700,8 +1700,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1711,8 +1711,8 @@
     "i": "hepatic porphyria",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1733,8 +1733,8 @@
     "i": "paratyphoid fever",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -1744,8 +1744,8 @@
     "i": "catecholaminergic polymorphic ventricular tachycardia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1755,8 +1755,8 @@
     "i": "brain stem infarction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1788,8 +1788,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -1810,8 +1810,8 @@
     "i": "neuroblastoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1821,8 +1821,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1832,8 +1832,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1843,8 +1843,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1854,8 +1854,8 @@
     "i": "acquired angioedema",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available for artemether in the data compiled for this…",
     "x": 0
    },
    {
@@ -1865,8 +1865,8 @@
     "i": "non-syndromic esophageal malformation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1876,8 +1876,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1887,8 +1887,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1898,8 +1898,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1909,8 +1909,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for aztreonam is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -1920,8 +1920,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1942,8 +1942,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1953,8 +1953,8 @@
     "i": "benign prostatic hyperplasia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1964,8 +1964,8 @@
     "i": "epiglottis neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1975,8 +1975,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -1986,8 +1986,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -1997,8 +1997,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for brivaracetam is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2008,8 +2008,8 @@
     "i": "congenital disorder of glycosylation with defective fucosylation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2019,8 +2019,8 @@
     "i": "atopic eczema",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2030,8 +2030,8 @@
     "i": "acrodermatitis chronica atrophicans",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2052,8 +2052,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -2063,8 +2063,8 @@
     "i": "obsolete vitamin D deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2085,8 +2085,8 @@
     "i": "gastric adenocarcinoma and proximal polyposis of the stomach",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2096,8 +2096,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2107,8 +2107,8 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2118,8 +2118,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2162,8 +2162,8 @@
     "i": "osteoarthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2173,8 +2173,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -2184,8 +2184,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2195,8 +2195,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2206,8 +2206,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2217,8 +2217,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2228,8 +2228,8 @@
     "i": "diffuse scleroderma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2239,8 +2239,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2250,8 +2250,8 @@
     "i": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2261,8 +2261,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2272,8 +2272,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2283,8 +2283,8 @@
     "i": "primary hereditary glaucoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2294,8 +2294,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2305,8 +2305,8 @@
     "i": "acromesomelic dysplasia, Campailla Martinelli type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2327,8 +2327,8 @@
     "i": "diffuse scleroderma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2349,8 +2349,8 @@
     "i": "stomach disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -2360,8 +2360,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2382,8 +2382,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2404,7 +2404,7 @@
     "i": "faciodigitogenital syndrome",
     "lt": 20,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"and all are single-ingredient products\"",
     "x": 0
    },
@@ -2415,8 +2415,8 @@
     "i": "migraine with brainstem aura",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2426,8 +2426,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2437,8 +2437,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2459,8 +2459,8 @@
     "i": "cauda equina syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2470,8 +2470,8 @@
     "i": "vertebral anomalies and variable endocrine and T-cell dysfunction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2481,8 +2481,8 @@
     "i": "granulomatous disease, chronic, autosomal recessive",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2492,8 +2492,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2503,8 +2503,8 @@
     "i": "sclerosing cholangitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -2514,8 +2514,8 @@
     "i": "upper aerodigestive tract neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2525,8 +2525,8 @@
     "i": "amenorrhea (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2547,8 +2547,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2558,8 +2558,8 @@
     "i": "polyp of vocal cord",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available for desonide\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -2569,8 +2569,8 @@
     "i": "obsessive-compulsive disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for desvenlafaxine are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2580,8 +2580,8 @@
     "i": "alopecia mucinosa",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for dexamethasone are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2591,8 +2591,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2602,8 +2602,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for diclofenac is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2613,8 +2613,8 @@
     "i": "cauda equina syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2624,8 +2624,8 @@
     "i": "amenorrhea (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2646,8 +2646,8 @@
     "i": "rosacea conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2657,8 +2657,8 @@
     "i": "alopecia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2668,8 +2668,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled record\" replaced with a…",
     "x": 0
    },
    {
@@ -2679,8 +2679,8 @@
     "i": "psychogenic movement disorders",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for donepezil is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2690,8 +2690,8 @@
     "i": "hepatoportal sclerosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2701,8 +2701,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for dorzolamide is not currently available in the data compiled for this…",
     "x": 0
    },
    {
@@ -2723,8 +2723,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2734,8 +2734,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2745,8 +2745,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2756,8 +2756,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2767,8 +2767,8 @@
     "i": "coronary artery disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2778,8 +2778,8 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2789,8 +2789,8 @@
     "i": "focal stiff limb syndrome",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -2800,8 +2800,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2811,8 +2811,8 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2822,8 +2822,8 @@
     "i": "chronic hepatitis C virus infection",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this report\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -2833,8 +2833,8 @@
     "i": "primary pulmonary lymphoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -2844,8 +2844,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2855,8 +2855,8 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2866,8 +2866,8 @@
     "i": "bacterial arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2877,8 +2877,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -2910,8 +2910,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for etodolac is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -2921,8 +2921,8 @@
     "i": "well-differentiated fetal adenocarcinoma of the lung",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data was not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2932,8 +2932,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2943,8 +2943,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -2954,8 +2954,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -2965,8 +2965,8 @@
     "i": "acquired hemophagocytic lymphohistiocytosis associated with malignant disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2976,8 +2976,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3009,8 +3009,8 @@
     "i": "primary release disorder of platelets",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3020,8 +3020,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3031,8 +3031,8 @@
     "i": "attention deficit hyperactivity disorder, inattentive type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3042,8 +3042,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3053,8 +3053,8 @@
     "i": "lichen planus pemphigoides",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3064,8 +3064,8 @@
     "i": "postinfectious vasculitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3075,8 +3075,8 @@
     "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3086,8 +3086,8 @@
     "i": "paranoid personality disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3108,8 +3108,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3119,8 +3119,8 @@
     "i": "atopic eczema",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3130,8 +3130,8 @@
     "i": "schizotypal personality disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for fluvoxamine are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3141,8 +3141,8 @@
     "i": "biotin metabolic disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3152,8 +3152,8 @@
     "i": "respiratory malformation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3163,8 +3163,8 @@
     "i": "uterine inflammatory disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3174,8 +3174,8 @@
     "i": "exposure keratitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3185,8 +3185,8 @@
     "i": "fibromatosis, gingival",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3196,8 +3196,8 @@
     "i": "rectum mucinous adenocarcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3218,8 +3218,8 @@
     "i": "classic stiff person syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3240,8 +3240,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3251,8 +3251,8 @@
     "i": "myiasis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3262,8 +3262,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3273,8 +3273,8 @@
     "i": "congenital disorder of glycosylation with defective fucosylation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3284,8 +3284,8 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3295,8 +3295,8 @@
     "i": "seborrheic keratosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3306,8 +3306,8 @@
     "i": "female breast carcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3317,8 +3317,8 @@
     "i": "rosacea conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -3328,8 +3328,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3339,8 +3339,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -3350,8 +3350,8 @@
     "i": "heart fibrosarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3361,8 +3361,8 @@
     "i": "diffuse scleroderma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3372,8 +3372,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3383,8 +3383,8 @@
     "i": "autoimmune oophoritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3394,8 +3394,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3405,8 +3405,8 @@
     "i": "female breast carcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3427,8 +3427,8 @@
     "i": "conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3438,8 +3438,8 @@
     "i": "alopecia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3449,8 +3449,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3460,8 +3460,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3493,8 +3493,8 @@
     "i": "pneumocystosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3504,8 +3504,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for ivabradine is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3515,8 +3515,8 @@
     "i": "vulvovaginal candidiasis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3526,8 +3526,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3537,8 +3537,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3548,8 +3548,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3559,8 +3559,8 @@
     "i": "acute urate nephropathy",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -3570,8 +3570,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3581,8 +3581,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3592,8 +3592,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3603,8 +3603,8 @@
     "i": "visceral calciphylaxis",
     "lt": 20,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3614,8 +3614,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3625,8 +3625,8 @@
     "i": "nipple carcinoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3636,8 +3636,8 @@
     "i": "primary hyperoxaluria",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3647,8 +3647,8 @@
     "i": "osteoarthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3669,8 +3669,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3680,8 +3680,8 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3691,8 +3691,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3702,8 +3702,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3724,8 +3724,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3735,8 +3735,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3746,8 +3746,8 @@
     "i": "cervical neuroblastoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3757,8 +3757,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3768,8 +3768,8 @@
     "i": "pseudoachondroplasia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3779,8 +3779,8 @@
     "i": "acute contagious conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3790,8 +3790,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3812,8 +3812,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3823,8 +3823,8 @@
     "i": "serous conjunctivitis except viral",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3834,8 +3834,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3845,8 +3845,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3856,8 +3856,8 @@
     "i": "endothrix infectious disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -3867,7 +3867,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Direct evidence for acute mania is thin: the only mania trial was withdrawn with no enrolment, and…",
     "x": 0
    },
@@ -3878,8 +3878,8 @@
     "i": "acne (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data are not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -3889,8 +3889,8 @@
     "i": "hereditary breast ovarian cancer syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3900,8 +3900,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3911,8 +3911,8 @@
     "i": "pulmonary hypertension",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -3922,8 +3922,8 @@
     "i": "congenital hypotrichosis with juvenile macular dystrophy",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3933,8 +3933,8 @@
     "i": "classic stiff person syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -3944,8 +3944,8 @@
     "i": "pulmonary blastoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3955,8 +3955,8 @@
     "i": "localized pagetoid reticulosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3977,8 +3977,8 @@
     "i": "faciodigitogenital syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -3988,8 +3988,8 @@
     "i": "alopecia mucinosa",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for methylprednisolone are not available in the data compiled for this…",
     "x": 0
    },
    {
@@ -3999,8 +3999,8 @@
     "i": "gastroduodenitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"(Detailed mechanism-of-action data were not available in the data compiled for this report; this description…",
     "x": 0
    },
    {
@@ -4010,8 +4010,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4021,8 +4021,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4032,8 +4032,8 @@
     "i": "pneumocystosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4043,8 +4043,8 @@
     "i": "variably protease-sensitive prionopathy",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled records\" replaced with a…",
     "x": 0
    },
    {
@@ -4054,8 +4054,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4065,8 +4065,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data from DrugBank is not available\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4076,8 +4076,8 @@
     "i": "Ohdo syndrome and variants",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4087,8 +4087,8 @@
     "i": "amenorrhea (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4098,8 +4098,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4109,8 +4109,8 @@
     "i": "primary cutaneous T-cell lymphoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4131,8 +4131,8 @@
     "i": "polyclonal hyperviscosity syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4142,8 +4142,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4153,8 +4153,8 @@
     "i": "pleural empyema (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4175,8 +4175,8 @@
     "i": "conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4197,8 +4197,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4208,8 +4208,8 @@
     "i": "vulvitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4219,8 +4219,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4230,8 +4230,8 @@
     "i": "dermatofibrosarcoma protuberans",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4252,8 +4252,8 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4263,8 +4263,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4285,8 +4285,8 @@
     "i": "vulvar inverted follicular keratosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4296,8 +4296,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4307,8 +4307,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4329,8 +4329,8 @@
     "i": "rosacea conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4340,8 +4340,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4351,8 +4351,8 @@
     "i": "hypervitaminosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data from the source database is not available\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4373,8 +4373,8 @@
     "i": "nasal cavity disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4384,8 +4384,8 @@
     "i": "chronic rhinosinusitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available for this report\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4395,8 +4395,8 @@
     "i": "malaria",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4406,8 +4406,8 @@
     "i": "parameningeal embryonal rhabdomyosarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4417,8 +4417,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data was not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4428,8 +4428,8 @@
     "i": "Ohdo syndrome and variants",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -4439,8 +4439,8 @@
     "i": "pleural adenomatoid tumor",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -4450,8 +4450,8 @@
     "i": "beta-ketothiolase deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -4483,8 +4483,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4494,8 +4494,8 @@
     "i": "opsismodysplasia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4516,8 +4516,8 @@
     "i": "extracutaneous mastocytoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4527,8 +4527,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4538,8 +4538,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -4582,8 +4582,8 @@
     "i": "pulmonary hypertension",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4593,7 +4593,7 @@
     "i": "tendinitis",
     "lt": 0,
     "lv": 20,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"However, the only Phase 3 trial was withdrawn, adult randomized evidence is lacking, and the trials…",
     "x": 0
    },
@@ -4604,8 +4604,8 @@
     "i": "myiasis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4615,8 +4615,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4626,8 +4626,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4648,8 +4648,8 @@
     "i": "distal myopathy, Tateyama type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4659,8 +4659,8 @@
     "i": "hypoalphalipoproteinemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4681,8 +4681,8 @@
     "i": "infectious otitis media",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4692,8 +4692,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4703,8 +4703,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4714,8 +4714,8 @@
     "i": "peptic ulcer perforation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4725,8 +4725,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4736,8 +4736,8 @@
     "i": "oral candidiasis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4747,8 +4747,8 @@
     "i": "gaze palsy, familial horizontal, with progressive scoliosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4758,8 +4758,8 @@
     "i": "rheumatoid arthritis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4769,8 +4769,8 @@
     "i": "glaucoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4780,8 +4780,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4791,8 +4791,8 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 9
    },
    {
@@ -4802,8 +4802,8 @@
     "i": "cholesterol-ester transfer protein deficiency",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4824,8 +4824,8 @@
     "i": "papillary conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4835,8 +4835,8 @@
     "i": "papillary conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -4846,8 +4846,8 @@
     "i": "respiratory malformation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4857,8 +4857,8 @@
     "i": "postmenopausal atrophic vaginitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4868,8 +4868,8 @@
     "i": "ectothrix infectious disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -4879,8 +4879,8 @@
     "i": "histrionic personality disorder (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4890,8 +4890,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4901,8 +4901,8 @@
     "i": "brain stem infarction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -4912,8 +4912,8 @@
     "i": "hyperamylasemia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 9
    },
    {
@@ -4923,8 +4923,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4934,8 +4934,8 @@
     "i": "Prinzmetal angina",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4945,8 +4945,8 @@
     "i": "acute contagious conjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4956,8 +4956,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -4967,8 +4967,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -4978,8 +4978,8 @@
     "i": "mammary Paget disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -4989,8 +4989,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5000,8 +5000,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5011,8 +5011,8 @@
     "i": "Prinzmetal angina",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5022,8 +5022,8 @@
     "i": "cauda equina neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -5033,8 +5033,8 @@
     "i": "opsismodysplasia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5044,8 +5044,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5055,8 +5055,8 @@
     "i": "respiratory malformation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5066,8 +5066,8 @@
     "i": "duodenal ulcer (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data beyond these receptor targets are not available\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5077,8 +5077,8 @@
     "i": "open-angle glaucoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5088,8 +5088,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5099,8 +5099,8 @@
     "i": "thrombotic disease",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5132,8 +5132,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5143,8 +5143,8 @@
     "i": "intracranial arteriosclerosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5154,8 +5154,8 @@
     "i": "postmenopausal atrophic vaginitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5165,8 +5165,8 @@
     "i": "respiratory malformation",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug in the compiled data\" replaced with a…",
     "x": 0
    },
    {
@@ -5187,8 +5187,8 @@
     "i": "renal-hepatic-pancreatic dysplasia",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5198,8 +5198,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5209,8 +5209,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5220,8 +5220,8 @@
     "i": "amenorrhea (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5231,8 +5231,8 @@
     "i": "malignant cutaneous granular cell skin tumor",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5242,8 +5242,8 @@
     "i": "visceral calciphylaxis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5253,8 +5253,8 @@
     "i": "rheumatoid nodulosis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5264,8 +5264,8 @@
     "i": "alopecia mucinosa",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5286,8 +5286,8 @@
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5297,8 +5297,8 @@
     "i": "vaginitis (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5319,8 +5319,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5341,8 +5341,8 @@
     "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5352,8 +5352,8 @@
     "i": "diffuse scleroderma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5363,8 +5363,8 @@
     "i": "insomnia (disease)",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5374,8 +5374,8 @@
     "i": "neurotic disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 1
    },
    {
@@ -5385,8 +5385,8 @@
     "i": "classic stiff person syndrome",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5396,8 +5396,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5407,8 +5407,8 @@
     "i": "neurotic disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data was not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5418,8 +5418,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data was not included in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -5440,8 +5440,8 @@
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5451,8 +5451,8 @@
     "i": "atopic eczema",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5462,7 +5462,7 @@
     "i": "familial adrenal hypoplasia with absent pituitary luteinizing hormone",
     "lt": 19,
     "lv": 19,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5473,8 +5473,8 @@
     "i": "Prinzmetal angina",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5484,7 +5484,7 @@
     "i": "papillary conjunctivitis",
     "lt": 19,
     "lv": 19,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5495,8 +5495,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 19,
     "lv": 19,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5517,8 +5517,8 @@
     "i": "cauda equina neoplasm",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -5528,8 +5528,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5550,8 +5550,8 @@
     "i": "post-infectious neuralgia",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5561,8 +5561,8 @@
     "i": "focal stiff limb syndrome",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5572,8 +5572,8 @@
     "i": "pneumocystosis",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data for the original record is not available\" replaced with a…",
     "x": 0
    },
    {
@@ -5583,8 +5583,8 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 18,
     "lv": 18,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5605,7 +5605,7 @@
     "i": "amenorrhea (disease)",
     "lt": 17,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5627,8 +5627,8 @@
     "i": "prostate leiomyoma",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not currently available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5638,8 +5638,8 @@
     "i": "homozygous familial hypercholesterolemia",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5649,8 +5649,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5660,7 +5660,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 17,
     "lv": 17,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5671,8 +5671,8 @@
     "i": "obsolete bundle branch block",
     "lt": 17,
     "lv": 17,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5682,8 +5682,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5693,8 +5693,8 @@
     "i": "refractory cytopenia of childhood",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5704,8 +5704,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5715,7 +5715,7 @@
     "i": "allergic urticaria",
     "lt": 16,
     "lv": 16,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5726,8 +5726,8 @@
     "i": "osteoclastic giant cell tumor of pancreas",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5759,8 +5759,8 @@
     "i": "pneumocystosis",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5770,8 +5770,8 @@
     "i": "vertebral anomalies and variable endocrine and T-cell dysfunction",
     "lt": 16,
     "lv": 16,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for vincristine are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -5781,8 +5781,8 @@
     "i": "hypermobility of coccyx",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5792,8 +5792,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -5803,8 +5803,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5814,8 +5814,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5825,8 +5825,8 @@
     "i": "female breast carcinoma",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled dataset\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5847,8 +5847,8 @@
     "i": "myofascial pain syndrome",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5858,7 +5858,7 @@
     "i": "brain small vessel disease 1 with or without ocular anomalies",
     "lt": 15,
     "lv": 15,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5869,8 +5869,8 @@
     "i": "liposarcoma",
     "lt": 15,
     "lv": 15,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for sirolimus are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -5902,8 +5902,8 @@
     "i": "liposarcoma",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -5913,8 +5913,8 @@
     "i": "bronchitis",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5924,7 +5924,7 @@
     "i": "autoimmune oophoritis",
     "lt": 14,
     "lv": 14,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient products and\"",
     "x": 0
    },
@@ -5946,8 +5946,8 @@
     "i": "duodenal ulcer (disease)",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -5957,7 +5957,7 @@
     "i": "cauda equina syndrome",
     "lt": 14,
     "lv": 14,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -5968,8 +5968,8 @@
     "i": "trichotillomania",
     "lt": 14,
     "lv": 14,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for ziprasidone is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -5979,8 +5979,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -5990,8 +5990,8 @@
     "i": "Prinzmetal angina",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6001,8 +6001,8 @@
     "i": "female breast carcinoma",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6012,8 +6012,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 13,
     "lv": 13,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6023,7 +6023,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6045,7 +6045,7 @@
     "i": "Tourette syndrome",
     "lt": 13,
     "lv": 13,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"Fibromyalgia (score 0.9920, Evidence Level L5): The only trial was withdrawn with zero enrollment\"",
     "x": 0
    },
@@ -6056,8 +6056,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6067,7 +6067,7 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 12,
     "lv": 12,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6089,7 +6089,7 @@
     "i": "autoimmune oophoritis",
     "lt": 12,
     "lv": 12,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6122,8 +6122,8 @@
     "i": "autoimmune disease of peripheral nervous system",
     "lt": 12,
     "lv": 12,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, but t\" replaced…",
     "x": 0
    },
    {
@@ -6133,7 +6133,7 @@
     "i": "seborrheic dermatitis",
     "lt": 12,
     "lv": 12,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6155,8 +6155,8 @@
     "i": "obsolete bundle branch block",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6177,7 +6177,7 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 11,
     "lv": 11,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6188,8 +6188,8 @@
     "i": "pneumocystosis",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6199,8 +6199,8 @@
     "i": "gastroduodenitis",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6210,8 +6210,8 @@
     "i": "dermatofibrosarcoma protuberans",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6232,8 +6232,8 @@
     "i": "migraine disorder",
     "lt": 11,
     "lv": 11,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6254,8 +6254,8 @@
     "i": "pulmonary arteriovenous malformation (disease)",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6265,8 +6265,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6276,8 +6276,8 @@
     "i": "irritable bowel syndrome",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6287,8 +6287,8 @@
     "i": "thrombophilia due to protein C deficiency, autosomal recessive",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6298,8 +6298,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6309,8 +6309,8 @@
     "i": "congenital prothrombin deficiency",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6320,8 +6320,8 @@
     "i": "conjunctivitis",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data for fosphenytoin is not available in the data compiled for this…",
     "x": 0
    },
    {
@@ -6331,8 +6331,8 @@
     "i": "autoimmune disease of peripheral nervous system",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6342,8 +6342,8 @@
     "i": "serpinopathy with toxic serpin polymerization",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for stanozolol are not available\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6353,8 +6353,8 @@
     "i": "bacterial arthritis",
     "lt": 10,
     "lv": 10,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6364,8 +6364,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6375,8 +6375,8 @@
     "i": "rosacea conjunctivitis",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 1
    },
    {
@@ -6386,8 +6386,8 @@
     "i": "female breast carcinoma",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled record\" replaced with a…",
     "x": 0
    },
    {
@@ -6397,8 +6397,8 @@
     "i": "Prinzmetal angina",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6419,8 +6419,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6430,8 +6430,8 @@
     "i": "restless legs syndrome",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6441,8 +6441,8 @@
     "i": "PLA2G6-associated neurodegeneration",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6452,8 +6452,8 @@
     "i": "hypervitaminosis",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 7
    },
    {
@@ -6474,8 +6474,8 @@
     "i": "congenital coronary artery anomaly",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6496,8 +6496,8 @@
     "i": "anemia of prematurity",
     "lt": 9,
     "lv": 9,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6507,8 +6507,8 @@
     "i": "liposarcoma",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6529,8 +6529,8 @@
     "i": "peptic ulcer perforation",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6540,8 +6540,8 @@
     "i": "migraine disorder",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6551,7 +6551,7 @@
     "i": "biotin metabolic disease",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient products and\"",
     "x": 0
    },
@@ -6562,8 +6562,8 @@
     "i": "osteoarthritis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6573,7 +6573,7 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6584,7 +6584,7 @@
     "i": "obstructive lung disease",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6595,8 +6595,8 @@
     "i": "autosomal recessive familial Mediterranean fever",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -6606,8 +6606,8 @@
     "i": "nasal cavity disease",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6617,8 +6617,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6628,8 +6628,8 @@
     "i": "alopecia",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data from DrugBank are not available\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -6639,8 +6639,8 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6661,8 +6661,8 @@
     "i": "nasal cavity disease",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 2
    },
    {
@@ -6672,8 +6672,8 @@
     "i": "congenital prothrombin deficiency",
     "lt": 8,
     "lv": 8,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6694,7 +6694,7 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 8,
     "lv": 8,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6705,8 +6705,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6716,8 +6716,8 @@
     "i": "hyperthyroidism",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -6738,8 +6738,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6749,8 +6749,8 @@
     "i": "ALK-positive large B-cell lymphoma",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6760,8 +6760,8 @@
     "i": "cauda equina syndrome",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6793,8 +6793,8 @@
     "i": "antithrombin deficiency type 2",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6815,8 +6815,8 @@
     "i": "fibroma of prostate",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -6826,8 +6826,8 @@
     "i": "esotropia",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6837,8 +6837,8 @@
     "i": "hepatic porphyria",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6848,7 +6848,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 7,
     "lv": 7,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -6859,8 +6859,8 @@
     "i": "liposarcoma",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6881,8 +6881,8 @@
     "i": "craniofacial conodysplasia",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6892,8 +6892,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6914,8 +6914,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled records\" replaced with a…",
     "x": 0
    },
    {
@@ -6925,8 +6925,8 @@
     "i": "relapsing-remitting multiple sclerosis",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6936,7 +6936,7 @@
     "i": "tendinitis",
     "lt": 6,
     "lv": 6,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient products and\"",
     "x": 0
    },
@@ -6947,8 +6947,8 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -6958,8 +6958,8 @@
     "i": "insomnia (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -6991,8 +6991,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7002,8 +7002,8 @@
     "i": "primary release disorder of platelets",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7013,8 +7013,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7024,8 +7024,8 @@
     "i": "Rasmussen subacute encephalitis",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7046,8 +7046,8 @@
     "i": "hypertrichosis (disease)",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7068,8 +7068,8 @@
     "i": "aortic malformation",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7079,8 +7079,8 @@
     "i": "insomnia (disease)",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7101,7 +7101,7 @@
     "i": "ectothrix infectious disease",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7112,8 +7112,8 @@
     "i": "brachydactyly-syndactyly syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7134,8 +7134,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7145,8 +7145,8 @@
     "i": "esotropia",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7156,8 +7156,8 @@
     "i": "hypermobility of coccyx",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7167,8 +7167,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7211,8 +7211,8 @@
     "i": "hypouricemia, renal",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7222,8 +7222,8 @@
     "i": "multiple endocrine neoplasia",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7233,8 +7233,8 @@
     "i": "primary release disorder of platelets",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7244,8 +7244,8 @@
     "i": "uterine corpus perivascular epithelioid cell tumor",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7255,7 +7255,7 @@
     "i": "epiglottitis",
     "lt": 5,
     "lv": 5,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7266,8 +7266,8 @@
     "i": "sick sinus syndrome 2, autosomal dominant",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7277,8 +7277,8 @@
     "i": "polycystic kidney disease 3 with or without polycystic liver disease",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7288,8 +7288,8 @@
     "i": "punctate epithelial keratoconjunctivitis",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7299,8 +7299,8 @@
     "i": "pharyngitis",
     "lt": 5,
     "lv": 5,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action statement",
     "x": 0
    },
    {
@@ -7310,7 +7310,7 @@
     "i": "malignant hypertensive renal disease",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7321,8 +7321,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data for benazepril is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -7354,8 +7354,8 @@
     "i": "isotretinoin-like syndrome",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for carbetocin are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -7376,8 +7376,8 @@
     "i": "allergic urticaria",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7387,8 +7387,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7398,8 +7398,8 @@
     "i": "HIV infectious disease",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7409,8 +7409,8 @@
     "i": "rosacea conjunctivitis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7420,8 +7420,8 @@
     "i": "bone Paget disease",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled record\" replaced with a…",
     "x": 0
    },
    {
@@ -7431,8 +7431,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7442,8 +7442,8 @@
     "i": "hemoglobinopathy",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7464,7 +7464,7 @@
     "i": "esophageal varices without bleeding",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7475,8 +7475,8 @@
     "i": "gastroduodenitis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7497,7 +7497,7 @@
     "i": "autoimmune oophoritis",
     "lt": 4,
     "lv": 4,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7508,8 +7508,8 @@
     "i": "osteoarthritis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7530,8 +7530,8 @@
     "i": "upper aerodigestive tract neoplasm",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7541,8 +7541,8 @@
     "i": "Ambras type hypertrichosis universalis congenita",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7552,8 +7552,8 @@
     "i": "bronchitis",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7574,8 +7574,8 @@
     "i": "primary hereditary glaucoma",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -7585,8 +7585,8 @@
     "i": "congenital coronary artery anomaly",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7607,8 +7607,8 @@
     "i": "female breast carcinoma",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7618,8 +7618,8 @@
     "i": "unclassified myelodysplastic syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7640,8 +7640,8 @@
     "i": "bronchitis",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the compiled data\" replaced with a…",
     "x": 0
    },
    {
@@ -7662,8 +7662,8 @@
     "i": "CMM7",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7684,8 +7684,8 @@
     "i": "ductal or ductular proliferation",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7695,8 +7695,8 @@
     "i": "nasal cavity disease",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7706,8 +7706,8 @@
     "i": "amenorrhea (disease)",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7717,7 +7717,7 @@
     "i": "opsismodysplasia",
     "lt": 3,
     "lv": 3,
-    "r": 1,
+    "r": 2,
     "rs": "Removed: \"single-ingredient\"",
     "x": 0
    },
@@ -7739,8 +7739,8 @@
     "i": "primary cutaneous T-cell lymphoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7750,8 +7750,8 @@
     "i": "Prinzmetal angina",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this report\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7761,8 +7761,8 @@
     "i": "psychogenic movement disorders",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7772,8 +7772,8 @@
     "i": "irritable bowel syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for glucagon are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -7783,8 +7783,8 @@
     "i": "pre-malignant neoplasm",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7794,8 +7794,8 @@
     "i": "thiamine-responsive dysfunction syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7805,8 +7805,8 @@
     "i": "nasal cavity disease",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7816,8 +7816,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7827,8 +7827,8 @@
     "i": "cauda equina syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -7849,8 +7849,8 @@
     "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not currently available for this drug\" replaced with a sourced…",
     "x": 1
    },
    {
@@ -7860,8 +7860,8 @@
     "i": "hyperthyroidism",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7893,8 +7893,8 @@
     "i": "migraine disorder",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 9
    },
    {
@@ -7904,8 +7904,8 @@
     "i": "retinal dystrophy with or without extraocular anomalies",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -7915,8 +7915,8 @@
     "i": "cecum villous adenoma",
     "lt": 3,
     "lv": 3,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for tegafur is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -7959,8 +7959,8 @@
     "i": "pulmonary hypertension with unclear multifactorial mechanism",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -7970,8 +7970,8 @@
     "i": "heparin cofactor 2 deficiency",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -7992,8 +7992,8 @@
     "i": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8003,8 +8003,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8014,8 +8014,8 @@
     "i": "primary hereditary glaucoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8025,8 +8025,8 @@
     "i": "gout",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8036,8 +8036,8 @@
     "i": "cauda equina syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8058,8 +8058,8 @@
     "i": "rheumatoid arthritis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8080,8 +8080,8 @@
     "i": "Gingival fibromatosis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
     "x": 0
    },
    {
@@ -8091,8 +8091,8 @@
     "i": "chronic ethmoidal sinusitis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data for demeclocycline is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -8102,8 +8102,8 @@
     "i": "hypotrichosis simplex of the scalp",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8113,8 +8113,8 @@
     "i": "Plummer-Vinson syndrome",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for docusate is not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -8124,8 +8124,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8135,8 +8135,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8146,8 +8146,8 @@
     "i": "PLA2G6-associated neurodegeneration",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8190,8 +8190,8 @@
     "i": "pulmonary hypertension owing to lung disease and/or hypoxia",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8212,8 +8212,8 @@
     "i": "Ewing sarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8223,8 +8223,8 @@
     "i": "fibromatosis, gingival",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8245,8 +8245,8 @@
     "i": "thrombocytopenia due to immune destruction",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8256,8 +8256,8 @@
     "i": "primary release disorder of platelets",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8267,8 +8267,8 @@
     "i": "bronchitis",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8278,8 +8278,8 @@
     "i": "pseudo-von Willebrand disease",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data for this drug is not available in the compiled data\" replaced…",
     "x": 7
    },
    {
@@ -8289,8 +8289,8 @@
     "i": "simian immunodeficiency virus infection",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 4
    },
    {
@@ -8300,8 +8300,8 @@
     "i": "dermatofibrosarcoma protuberans",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data for nilotinib is not available in the data compiled for this…",
     "x": 0
    },
    {
@@ -8322,8 +8322,8 @@
     "i": "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8344,8 +8344,8 @@
     "i": "uterine ligament adenocarcinoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8355,8 +8355,8 @@
     "i": "mature cataract",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8366,8 +8366,8 @@
     "i": "Prinzmetal angina",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8399,8 +8399,8 @@
     "i": "chronic hepatitis C virus infection",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8410,8 +8410,8 @@
     "i": "liposarcoma",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8421,8 +8421,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8443,8 +8443,8 @@
     "i": "post-bacterial disorder",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8454,8 +8454,8 @@
     "i": "esotropia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -8465,8 +8465,8 @@
     "i": "pulmonary hypertension",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8476,8 +8476,8 @@
     "i": "female breast carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8487,8 +8487,8 @@
     "i": "agoraphobia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 8
    },
    {
@@ -8509,8 +8509,8 @@
     "i": "hyperlucent lung",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 5
    },
    {
@@ -8531,8 +8531,8 @@
     "i": "amenorrhea (disease)",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled drug record\" replaced with a…",
     "x": 0
    },
    {
@@ -8542,8 +8542,8 @@
     "i": "fibromatosis, gingival",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8553,8 +8553,8 @@
     "i": "cauda equina syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data from DrugBank is not available in the compiled data, but t\" replaced with…",
     "x": 0
    },
    {
@@ -8564,8 +8564,8 @@
     "i": "parameningeal embryonal rhabdomyosarcoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8586,8 +8586,8 @@
     "i": "Tourette syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8597,8 +8597,8 @@
     "i": "vascular disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8608,8 +8608,8 @@
     "i": "stroke disorder",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8619,8 +8619,8 @@
     "i": "primary hereditary glaucoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available from the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -8652,8 +8652,8 @@
     "i": "proximal 16p11.2 microdeletion syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8696,8 +8696,8 @@
     "i": "hypermobility of coccyx",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8707,8 +8707,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8718,8 +8718,8 @@
     "i": "rheumatoid arthritis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8729,8 +8729,8 @@
     "i": "vulvovaginal candidiasis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8740,8 +8740,8 @@
     "i": "autoimmune oophoritis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8784,8 +8784,8 @@
     "i": "alopecia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8795,8 +8795,8 @@
     "i": "multiple endocrine neoplasia",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8806,8 +8806,8 @@
     "i": "infectious otitis media",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8817,8 +8817,8 @@
     "i": "nasal cavity disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available for this drug\" replaced with a sourced…",
     "x": 1
    },
    {
@@ -8828,8 +8828,8 @@
     "i": "echinococcus granulosus infectious disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available for this report\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -8839,8 +8839,8 @@
     "i": "acute intermittent porphyria",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -8850,8 +8850,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report, but t\"…",
     "x": 0
    },
    {
@@ -8861,8 +8861,8 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8872,8 +8872,8 @@
     "i": "malformation syndrome with odontal and/or periodontal component",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available for this drug in the data compiled for this…",
     "x": 0
    },
    {
@@ -8883,8 +8883,8 @@
     "i": "duodenal obstruction",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -8894,8 +8894,8 @@
     "i": "disease of orbital region",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for nystatin are not available in the data compiled for this report\"…",
     "x": 0
    },
    {
@@ -8916,8 +8916,8 @@
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8938,8 +8938,8 @@
     "i": "drug-induced osteoporosis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8971,8 +8971,8 @@
     "i": "fibromatosis, gingival",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -8982,8 +8982,8 @@
     "i": "ectomesenchymoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -9026,8 +9026,8 @@
     "i": "hypouricemia, renal",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9037,8 +9037,8 @@
     "i": "manic bipolar affective disorder",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9048,8 +9048,8 @@
     "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -9059,8 +9059,8 @@
     "i": "HIV infectious disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -9070,8 +9070,8 @@
     "i": "bilateral parasagittal parieto-occipital polymicrogyria",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9092,8 +9092,8 @@
     "i": "feline acquired immunodeficiency syndrome",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -9147,8 +9147,8 @@
     "i": "vulvitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled drug record\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -9180,8 +9180,8 @@
     "i": "female breast carcinoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Formal mechanism-of-action data were not available in the data compiled for this report, so t\" replaced with…",
     "x": 0
    },
    {
@@ -9202,8 +9202,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -9213,8 +9213,8 @@
     "i": "diabetic cataract",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9224,8 +9224,8 @@
     "i": "malignant hypertensive renal disease",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -9246,8 +9246,8 @@
     "i": "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    },
    {
@@ -9257,8 +9257,8 @@
     "i": "bronchitis",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report\" replaced with a…",
     "x": 0
    },
    {
@@ -9279,8 +9279,8 @@
     "i": "severe nonproliferative diabetic retinopathy",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Currently, detailed mechanism of action data is not available\" replaced with a sourced mechanism-of-action…",
     "x": 0
    }
   ],

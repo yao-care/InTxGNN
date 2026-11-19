@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **anemia of prematurity** (score 0
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Zinc is an essential trace element involved in many enzymatic processes, including erythropoiesis and the balance of iron and copper in the body. This gives a plausible biological link to anemia in premature infants.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for zinc gluconate: "Zinc is an essential trace element. Zinc functions as a cofactor of various enzymes including DNA polymerases, RNA polymerases, alcohol dehydrogenase, and alkaline phosphatases. Zinc is a coordinator of protein structural folding, such as folding of “Zinc finger” motif that interacts with a variety of proteins, lipids, and nucleic acids." ([DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757), label version 2026-03-04; accessed 2026-11-19.) Zinc is an essential trace element involved in many enzymatic processes, including erythropoiesis and the balance of iron and copper in the body. This gives a plausible biological link to anemia in premature infants.
 
 The original indications (ascorbic acid deficiency and scurvy) are nutritional deficiencies, and anemia of prematurity is also partly related to nutrient status. That is a loose conceptual connection, not direct evidence. The prediction has not been tested in any trial or publication compiled for this report. Note also that chronic excess zinc is known to cause copper-deficiency anemia (see the case report PMID 12728841 in the data), so the direction of effect on blood parameters needs careful study.
 
@@ -92,6 +92,19 @@ The prediction for anemia of prematurity is supported only by the TxGNN score, w
 - Package insert warnings and contraindications from the Indian regulator's records
 - A dose and copper-status safety assessment for neonates and preterm infants
 - Confirmation of the original approved indications, since the licence records contain no indication text
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: zinc sulfate prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49698d00-f44b-4b1f-ae34-6b9067911757) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

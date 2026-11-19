@@ -56,7 +56,7 @@ Currently there are **no registered clinical trials** and **2 publications** (on
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, decitabine is a hypomethylating agent (a DNA methyltransferase inhibitor). Its use in myeloid malignancies, including adult MDS and AML, is established, and mechanistically it may be applicable to refractory cytopenia of childhood.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for decitabine: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), label version 2026-11-03; accessed 2026-11-19.) Based on known information, decitabine is a hypomethylating agent (a DNA methyltransferase inhibitor). Its use in myeloid malignancies, including adult MDS and AML, is established, and mechanistically it may be applicable to refractory cytopenia of childhood.
 
 RCC is the main provisional subtype of paediatric MDS. It shares features with adult myeloid disease, namely clonal myeloid dysplasia and aberrant DNA methylation. This offers a plausible biological rationale for using a hypomethylating drug.
 
@@ -123,6 +123,19 @@ The prediction is biologically plausible, but support is limited to one single-c
 - Registered or planned clinical trials in paediatric MDS
 - A paediatric-specific safety assessment, including myelosuppression and dosing
 - Confirmation of route compatibility (decitabine is injectable only) and of the approved indication wording in the India registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

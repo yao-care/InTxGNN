@@ -56,7 +56,7 @@ The TxGNN model predicts it may be effective for **punctate epithelial keratocon
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, lidocaine blocks voltage-gated sodium channels and is used as a local anaesthetic, including on the ocular surface.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lidocaine: "Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period." ([DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0), label version 2026-02-20; accessed 2026-11-19.) Based on general knowledge, lidocaine blocks voltage-gated sodium channels and is used as a local anaesthetic, including on the ocular surface.
 
 The link to the predicted disease is weak. A topical anaesthetic could in theory relieve surface pain, but it would not treat the underlying keratoconjunctivitis. Topical anaesthetics can also impair corneal epithelial healing, which is a safety concern for this kind of condition. The high model score therefore should not be read as support for therapeutic benefit.
 
@@ -108,6 +108,19 @@ The prediction score is very high, but no trial or publication directly studies 
 - Corneal safety assessment for repeated ocular-surface use
 - Package insert warnings and contraindications from India licence documents
 - Mechanism of action data from DrugBank
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

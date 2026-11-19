@@ -56,7 +56,7 @@ with **3 clinical trials** and **6 publications** currently supporting this dire
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Vinorelbine is a vinca alkaloid, a class that blocks microtubule polymerization, causing mitotic arrest and cell death in rapidly dividing cells. Its efficacy in lung cancer is established, and mechanistically it may be applicable to Ewing sarcoma, a rapidly dividing malignant bone tumor.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for vinorelbine: "Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis." ([DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397), label version 2024-08-16; accessed 2026-11-19.) Vinorelbine is a vinca alkaloid, a class that blocks microtubule polymerization, causing mitotic arrest and cell death in rapidly dividing cells. Its efficacy in lung cancer is established, and mechanistically it may be applicable to Ewing sarcoma, a rapidly dividing malignant bone tumor.
 
 Lung cancer and Ewing sarcoma are very different diseases, but both are malignancies sensitive to antimitotic agents. Preclinical work shows that microtubule-interfering drugs, including vinorelbine, act synergistically with a PLK1 inhibitor in Ewing sarcoma cells. In the clinic, vinorelbine combined with low-dose (metronomic) cyclophosphamide has been studied in children and young adults with relapsed or refractory solid tumors. A 2026 review also discusses vinorelbine plus low-dose cyclophosphamide as maintenance therapy for Ewing sarcoma, as the rationale for the international INTER-EWING-1 trial.
 
@@ -132,6 +132,19 @@ Phase 2 data show vinorelbine combined with low-dose cyclophosphamide is tolerab
 - Small cell lung carcinoma has the most trial and literature volume (L1 by count), but the Phase 3 and adjuvant RCT evidence is in NSCLC, not SCLC. Direct SCLC evidence is limited.
 - Pulmonary sulcus neoplasm, lung hilum carcinoma and lung germ cell tumor are research questions only. They largely extend the NSCLC use or draw on indirect evidence.
 - Gingival fibromatosis, lung fibroma, lung hamartoma, benign lung neoplasm and pulmonary blastoma are on hold. They are benign or very rare conditions with no supporting efficacy evidence, and cytotoxic toxicity is unlikely to be justified.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

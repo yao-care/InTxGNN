@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Based on known information, methdilazine is a phenothiazine-class first-generation H1 antihistamine. Its use in allergic rhinitis, vasomotor rhinitis and the common cold has been established, and mechanistically it may be applicable to nasal cavity conditions through general H1-receptor blockade and anticholinergic effects typical of the class. This reasoning rests on class properties, not on drug-specific evidence.
+ChEMBL (EMBL-EBI) records the mechanism of action of methdilazine as: Histamine H1 receptor antagonist ([ChEMBL CHEMBL1200959 (methdilazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200959), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, methdilazine is a phenothiazine-class first-generation H1 antihistamine. Its use in allergic rhinitis, vasomotor rhinitis and the common cold has been established, and mechanistically it may be applicable to nasal cavity conditions through general H1-receptor blockade and anticholinergic effects typical of the class. This reasoning rests on class properties, not on drug-specific evidence.
 
 The high TxGNN score is most likely driven by overlap with the existing indications. Allergic rhinitis, vasomotor rhinitis and the common cold are already nasal cavity conditions. "Nasal cavity disease" is a broad category that largely duplicates these uses, so it is not a distinct new indication and does not amount to a strong repurposing signal. A genuinely new use would need a more specific nasal condition that is not already covered.
 
@@ -109,6 +109,19 @@ The prediction rests only on a model score, with no clinical trials or publicati
 - Define a specific, non-overlapping nasal indication (for example, a particular rhinitis subtype or sinonasal condition) in place of the broad "nasal cavity disease" label
 - Conduct a literature and trial search on that specific indication
 - Confirm the full interaction profile, particularly the Major interactions and additive anticholinergic effects
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200959 (methdilazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200959) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

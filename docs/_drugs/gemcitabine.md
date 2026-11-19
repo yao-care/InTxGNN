@@ -53,10 +53,9 @@ with **36 clinical trials** and **20 publications** currently supporting this di
 | Number of Listed Products | at least 20 |
 | Recommended Decision | Proceed with Guardrails |
 
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, gemcitabine is a nucleoside analogue that inhibits DNA synthesis. It does so by inhibiting ribonucleotide reductase and causing chain termination after it is incorporated into DNA. This cytotoxic action acts on rapidly dividing tumour cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for gemcitabine: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), label version 2026-07-27; accessed 2026-11-19.) Based on known pharmacology, gemcitabine is a nucleoside analogue that inhibits DNA synthesis. It does so by inhibiting ribonucleotide reductase and causing chain termination after it is incorporated into DNA. This cytotoxic action acts on rapidly dividing tumour cells.
 
 Ovarian cancer and breast cancer are both common solid tumours in women, and both respond to DNA-damaging chemotherapy. Because gemcitabine's mechanism does not depend on a tissue-specific target, it can reasonably apply to breast tumour cells. Gemcitabine plus paclitaxel is an established regimen in metastatic breast cancer, which is consistent with the TxGNN prediction.
 
@@ -134,6 +133,19 @@ Several Phase 3 trials of gemcitabine-containing regimens in breast cancer, toge
 - Published results and the enrolment figure for the Phase 3 trial NCT00006459
 - Confirmation of whether breast cancer is an approved indication for the India registrations
 - Subtype-specific evidence, such as triple-negative disease, and a safety monitoring plan for patients with kidney, liver or bone marrow impairment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

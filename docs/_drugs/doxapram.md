@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **vascular disease**, but there
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, doxapram is a respiratory stimulant that acts on peripheral carotid chemoreceptors and the brainstem respiratory centres. Its use in respiratory failure is established, but no therapeutic mechanism linking it to vascular disease has been identified.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for doxapram: "Doxapram hydrochloride produces respiratory stimulation mediated through the peripheral carotid chemoreceptors. As the dosage level is increased, the central respiratory centers in the medulla are stimulated with progressive stimulation of other parts of the brain and spinal cord." ([DailyMed: Dopram (doxapram hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8eb330a-a75b-46cb-b694-5be9327ed2eb), label version 2024-04-09; accessed 2026-11-19.) Based on known information, doxapram is a respiratory stimulant that acts on peripheral carotid chemoreceptors and the brainstem respiratory centres. Its use in respiratory failure is established, but no therapeutic mechanism linking it to vascular disease has been identified.
 
 The retrieved literature describes only indirect observations: pressor and hemodynamic effects in normovolemic and hypovolemic dogs, a 1971 report in hemorrhagic hypotension, and modulation of hypoxic pulmonary vasoconstriction in a piglet model. These are pharmacology and side-effect findings, not evidence of benefit in vascular disease.
 
@@ -117,6 +117,19 @@ The prediction is supported only by a nonspecific computational score. There are
 - Clarification of which specific vascular condition is intended, since "vascular disease" is too broad
 - Preclinical or clinical evidence of benefit in a defined vascular condition
 - A review of the cardiovascular safety profile relative to the proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Dopram (doxapram hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8eb330a-a75b-46cb-b694-5be9327ed2eb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

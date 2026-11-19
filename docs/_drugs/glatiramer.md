@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **hemoglobinopathy**, but there
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Glatiramer is generally described as an immunomodulator that shifts T-cell responses from Th1 toward Th2 and induces regulatory T cells. Its established use is in multiple sclerosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for glatiramer: "The mechanism(s) by which glatiramer acetate exerts its effects in patients with MS are not fully understood. However, glatiramer acetate is thought to act by modifying immune processes that are believed to be responsible for the pathogenesis of MS." ([DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716), label version 2026-10-26; accessed 2026-11-19.) Glatiramer is generally described as an immunomodulator that shifts T-cell responses from Th1 toward Th2 and induces regulatory T cells. Its established use is in multiple sclerosis.
 
 No plausible direct link between this mechanism and the pathophysiology of hemoglobinopathy has been established. These disorders mainly involve globin chain imbalance, ineffective erythropoiesis or red cell defects, which an immunomodulator would not be expected to correct. The only retrieved paper describes immune disorders after natalizumab discontinuation in a multiple sclerosis patient who also had beta thalassemia. It does not address treating hemoglobinopathy with glatiramer.
 
@@ -106,6 +106,19 @@ The prediction has no clinical trials and no supporting literature, and there is
 - Package insert warnings and contraindications, and the approved indication text, from the India regulatory source
 - Preclinical or mechanistic studies showing a rationale for glatiramer in hemoglobinopathy
 - A review of the other predicted indications to see whether any has a stronger evidence base
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

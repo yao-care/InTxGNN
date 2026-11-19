@@ -56,7 +56,7 @@ with **2 clinical trials** (both in sarcoma populations, not liposarcoma-specifi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on the pathway analysis, temsirolimus inhibits mTOR (through the FKBP12 complex), a node downstream of PI3K/AKT signalling. Its efficacy in renal cell carcinoma and mantle cell lymphoma is established, and mechanistically it may be applicable to liposarcoma.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for temsirolimus: "Temsirolimus is an inhibitor of mTOR (mammalian target of rapamycin). Temsirolimus binds to an intracellular protein (FKBP-12), and the protein-drug complex inhibits the activity of mTOR that controls cell division. Inhibition of mTOR activity resulted in a G1 growth arrest in treated tumor cells." ([DailyMed: temsirolimus prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c207bed-10e3-46f0-ad2c-69d5e5c97736), label version 2020-03-30; accessed 2026-11-19.) Based on the pathway analysis, temsirolimus inhibits mTOR (through the FKBP12 complex), a node downstream of PI3K/AKT signalling. Its efficacy in renal cell carcinoma and mantle cell lymphoma is established, and mechanistically it may be applicable to liposarcoma.
 
 Activation of the mTOR pathway and of IGF-1R/PI3K signalling has been implicated in sarcoma growth, including liposarcoma. Blocking IGF-1R together with mTOR (as with cixutumumab plus temsirolimus) targets the compensatory feedback activation of AKT. Combining temsirolimus with a liposarcoma-active cytotoxic such as liposomal doxorubicin is also plausible.
 
@@ -115,6 +115,19 @@ Temsirolimus has a plausible mTOR/PI3K pathway rationale for liposarcoma and a v
 - Detailed mechanism of action data
 - A review of the knowledge-graph contraindication signals (metabolic, hepatic, pulmonary, cerebrovascular) against label text, and a drug-interaction management plan (especially with dexamethasone, clarithromycin, and amphotericin B)
 - Preclinical or translational evidence of mTOR pathway dependence in liposarcoma subtypes
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: temsirolimus prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c207bed-10e3-46f0-ad2c-69d5e5c97736) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

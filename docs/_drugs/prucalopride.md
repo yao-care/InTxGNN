@@ -56,7 +56,7 @@ with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, prucalopride is a selective 5-HT4 receptor agonist that enhances gut motility, and its efficacy in constipation disorder is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for prucalopride: "Prucalopride, a selective serotonin type 4 (5-HT 4 ) receptor agonist, is a gastrointestinal (GI) prokinetic agent that stimulates colonic peristalsis (high-amplitude propagating contractions [HAPCs]), which increases bowel motility. Prucalopride was devoid of effects mediated via 5-HT 2A, 5-HT 2B, 5-HT 3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT 4 receptor affinity by 150-fold or greater." ([DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b), label version 2025-07-17; accessed 2026-11-19.) Based on known information, prucalopride is a selective 5-HT4 receptor agonist that enhances gut motility, and its efficacy in constipation disorder is established.
 
 For hypoalphalipoproteinemia, however, no mechanistic link can be identified. No established pathway connects 5-HT4 agonism to HDL metabolism. The very high TxGNN score (0.9982) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence, and should be treated as a hypothesis-generating signal only.
 
@@ -95,6 +95,19 @@ The predicted indication hypoalphalipoproteinemia has no clinical trials, no lit
 - Detailed mechanism of action data
 - A credible biological rationale linking 5-HT4 agonism to HDL metabolism, supported by preclinical data
 - Consideration of the amyloidosis-related gut dysmotility direction (the only partially plausible candidate, ranked as a research question) in place of the top-ranked lipid prediction, along with controlled studies of prucalopride in that setting
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

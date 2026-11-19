@@ -56,7 +56,7 @@ but at present there are **0 clinical trials** and **0 publications** supporting
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, panitumumab is an anti-EGFR antibody, and its efficacy in metastatic colon cancer is established. EGFR signalling is known to play a role in bone remodelling (osteoblast differentiation and osteoclast regulation), which offers a speculative link to bone disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for panitumumab: "The EGFR is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases, including EGFR, HER2, HER3, and HER4. EGFR is constitutively expressed in normal epithelial tissues, including the skin and hair follicle. […] Panitumumab binds specifically to EGFR on both normal and tumor cells, and competitively inhibits the binding of ligands for EGFR." ([DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2), label version 2026-06-23; accessed 2026-11-19.) Based on general knowledge, panitumumab is an anti-EGFR antibody, and its efficacy in metastatic colon cancer is established. EGFR signalling is known to play a role in bone remodelling (osteoblast differentiation and osteoclast regulation), which offers a speculative link to bone disease.
 
 However, this link is background knowledge only and is not supported by the data compiled for this report. Blocking EGFR could affect bone metabolism in either direction, and it is not clear that the effect would be beneficial. The high TxGNN score is a computational prediction with no trial or literature backing, and the relationship between colon cancer and drug-induced osteoporosis is not mechanistically obvious.
 
@@ -110,6 +110,19 @@ The prediction is supported only by the TxGNN score, with no clinical trials or 
 - Preclinical or observational evidence on panitumumab's effect on bone, including whether it helps or harms
 - Approved indication text for the India registration
 - A risk-benefit assessment of using an oncology antibody in a non-cancer indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

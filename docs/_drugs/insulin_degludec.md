@@ -55,7 +55,7 @@ This is effectively an on-label use rather than true repurposing.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, insulin degludec is a long-acting basal insulin analogue that replaces deficient endogenous insulin by activating the insulin receptor. Its half-life is about 25 hours and its duration of action exceeds 42 hours, giving a flat, stable glucose-lowering profile.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin degludec: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), label version 2024-02-22; accessed 2026-11-19.) Based on known information, insulin degludec is a long-acting basal insulin analogue that replaces deficient endogenous insulin by activating the insulin receptor. Its half-life is about 25 hours and its duration of action exceeds 42 hours, giving a flat, stable glucose-lowering profile.
 
 Type 1 diabetes is the core indication for insulin therapy, because people with this condition cannot produce enough insulin. The original indication (diabetes mellitus) already covers it, so the high TxGNN score is consistent with the established mechanism. Degludec has also been studied directly in type 1 diabetes in switching studies, pregnancy, exercise and paediatric populations.
 
@@ -137,11 +137,12 @@ Several completed Phase 3 RCTs and multiple systematic reviews support degludec 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
 
 <!-- review:end log -->
 

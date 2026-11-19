@@ -54,7 +54,7 @@ Entecavir is a guanosine nucleoside analogue that inhibits hepatitis B virus pol
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this report. Entecavir is known to act on the polymerase of hepatitis B virus, a DNA virus. Hepatitis C virus is an RNA virus that replicates through its own NS5B RNA-dependent RNA polymerase. Entecavir has no recognized direct activity against that target.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for entecavir: "Entecavir is an antiviral drug against hepatitis B virus. […] Entecavir, a deoxyguanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine triphosphate, entecavir triphosphate functionally inhibits all three activities of the HBV reverse transcriptase: base priming, reverse transcription of the negative strand from the pregenomic messenger RNA, and synthesis of the positive strand of HBV DNA." ([DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20), label version 2019-11-06; accessed 2026-11-19.) Entecavir is known to act on the polymerase of hepatitis B virus, a DNA virus. Hepatitis C virus is an RNA virus that replicates through its own NS5B RNA-dependent RNA polymerase. Entecavir has no recognized direct activity against that target.
 
 The only plausible link is clinical rather than pharmacological. Some patients carry both hepatitis viruses, and during direct-acting antiviral treatment for hepatitis C the hepatitis B virus can reactivate. Entecavir has been studied as a way to prevent that reactivation. This is management of the co-infection, not evidence that entecavir treats hepatitis C. The high TxGNN score most likely reflects the closeness of the hepatitis viruses in the model's network, and should not be read as evidence of anti-HCV efficacy.
 
@@ -110,6 +110,18 @@ Entecavir has no recognized activity against hepatitis C virus. The only related
 - A study that directly tests entecavir against hepatitis C virus, if a mechanistic basis is found
 - Package insert warnings and contraindications for the Indian products
 - Clarification of whether the co-infection prophylaxis use is the actual clinical question, since it is a different question from treating hepatitis C
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

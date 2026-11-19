@@ -59,10 +59,9 @@ It is supported by **27 registered clinical trials** and **20 publications**.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, insulin glulisine is a rapid-acting insulin analogue that binds the insulin receptor and lowers blood glucose. It has a faster onset and shorter duration of action than regular human insulin.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin glulisine: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin glulisine. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa), label version 2025-11-25; accessed 2026-11-19.) Based on known information, insulin glulisine is a rapid-acting insulin analogue that binds the insulin receptor and lowers blood glucose. It has a faster onset and shorter duration of action than regular human insulin.
 
 Type 1 diabetes is a form of diabetes mellitus, the drug's original indication, so the prediction is consistent with existing use. Insulin replacement is the cornerstone of type 1 diabetes therapy. The drug has been studied extensively in mealtime (prandial) use, basal-bolus regimens with insulin glargine, and pump (CSII) therapy.
-
 
 ---
 
@@ -137,6 +136,19 @@ Type 1 diabetes is an on-label use of insulin glulisine. Several completed Phase
 - Detailed mechanism of action data
 - Approved indication text for the three Indian licences
 - A hypoglycaemia and injection-site monitoring plan, with interaction screening for concomitant drugs
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Apidra (insulin glulisine) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7af6a7a-8046-4fb4-9979-4ec4230b23aa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

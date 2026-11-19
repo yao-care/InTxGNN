@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, imipramine inhibits reuptake of norepinephrine and, to a lesser degree, serotonin. Its active metabolite, desipramine, is mainly noradrenergic.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for imipramine: "The mechanism of action of imipramine hydrochloride, is not definitely known. However, it does not act primarily by stimulation of the central nervous system. The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings." ([DailyMed: imipramine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd3b62a-88d4-49eb-b0aa-71e28cf40919), label version 2026-11-04; accessed 2026-11-19.) Based on known pharmacology, imipramine inhibits reuptake of norepinephrine and, to a lesser degree, serotonin. Its active metabolite, desipramine, is mainly noradrenergic.
 
 Enhancing noradrenergic signalling in prefrontal circuits is a recognized way to control ADHD symptoms. It is shared with atomoxetine and desipramine. The literature includes reviews that list imipramine among non-stimulant options when stimulants fail, and a 1983 report titled "Imipramine for attention deficit disorder."
 
@@ -113,6 +113,19 @@ The ADHD prediction has a plausible noradrenergic mechanism and some older liter
 - A systematic review of randomized evidence for imipramine in ADHD, including comparison with atomoxetine and desipramine
 - A cardiac safety assessment (ECG monitoring) and a paediatric dosing and interaction plan
 - Confirmation of whether the ADHD indication is approved in India, since the registered indication text is blank
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: imipramine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd3b62a-88d4-49eb-b0aa-71e28cf40919) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

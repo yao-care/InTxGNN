@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found in the data compiled f
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, imidapril is an ACE inhibitor prodrug that is converted to its active form, imidaprilat. It reduces angiotensin II formation and may lower vascular tone and vascular remodeling. Its target is the angiotensin-converting enzyme (ACE).
+ChEMBL (EMBL-EBI) records the mechanism of action of imidapril as: Angiotensin-converting enzyme inhibitor ([ChEMBL CHEMBL317094 (imidapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL317094), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, imidapril is an ACE inhibitor prodrug that is converted to its active form, imidaprilat. It reduces angiotensin II formation and may lower vascular tone and vascular remodeling. Its target is the angiotensin-converting enzyme (ACE).
 
 Hypertension is a relation recorded in the knowledge graph for this drug. In theory, lowering vascular tone and remodeling could be relevant to pulmonary vascular resistance, which is the basis of the prediction.
 
@@ -106,6 +106,19 @@ The prediction is supported only by the model score. No clinical trials or publi
 - A literature and trial search specific to ACE inhibitors in pulmonary hypertension
 - Preclinical or physiological evidence on the effect on ventilation-perfusion matching and pulmonary vascular resistance
 - If any indication is pursued, malignant hypertensive renal disease is the most plausible candidate, but it would require dedicated safety assessment (renal function, renal artery stenosis)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL317094 (imidapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL317094) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

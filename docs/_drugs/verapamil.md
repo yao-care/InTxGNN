@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **obsolete bundle branch block**, but
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Verapamil is a well-known L-type calcium channel blocker. It slows conduction through the atrioventricular (AV) node and relaxes vascular smooth muscle, which explains its use in hypertension, angina and supraventricular arrhythmias.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for verapamil: "Angina: The precise mechanism of action of verapamil hydrochloride as an antianginal agent remains to be fully determined, but includes the following two mechanisms: 1. Relaxation and prevention of coronary artery spasm: Verapamil hydrochloride dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced." ([DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c), label version 2026-10-30; accessed 2026-11-19.) Verapamil is a well-known L-type calcium channel blocker. It slows conduction through the atrioventricular (AV) node and relaxes vascular smooth muscle, which explains its use in hypertension, angina and supraventricular arrhythmias.
 
 For the top prediction (obsolete bundle branch block, 0.9962), this mechanism does **not** offer a therapeutic rationale. Slowing AV conduction is not a treatment for bundle branch block and may worsen conduction disease. The disease term is also marked as obsolete. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -76,7 +76,6 @@ Currently no related clinical trials registered.
 ## Literature Evidence
 
 For the top-ranked prediction (obsolete bundle branch block), currently no related literature is available.
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -139,6 +138,19 @@ All seven predictions are supported by model scores only, with no clinical trial
 - Review of the hypertension-related predictions (ranks 2 and 3) against existing hypertension use. They overlap with the approved indication and may add little new value.
 - Targeted literature and trial searches for any prediction that moves forward
 - A safety assessment for conduction disease and pulmonary hypertension before further consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

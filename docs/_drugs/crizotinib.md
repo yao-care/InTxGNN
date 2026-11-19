@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Crizotinib inhibits the receptor tyrosine kinases ALK, ROS1 and MET. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the drug's generally known targets.
+Crizotinib inhibits the receptor tyrosine kinases ALK, ROS1 and MET. According to the Mechanism of Action section of the US FDA-approved prescribing information for crizotinib: "Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON). Translocations can affect the ALK gene resulting in the expression of oncogenic fusion proteins." ([DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7), label version 2026-10-29; accessed 2026-11-19.) This description relies on the drug's generally known targets.
 
 No pathway has been shown that connects these targets to gingival fibromatosis, a condition of gum tissue overgrowth. The high TxGNN score (0.9981) is a computational output only. The analysis found no identified mechanistic link, and no similarity analysis with the drug's current use has been completed.
 
@@ -107,6 +107,19 @@ The prediction has a very high model score but no clinical trials, no literature
 - Detailed mechanism-of-action data for crizotinib
 - Package insert warnings and contraindications from the local regulator
 - A route and formulation assessment, since the available product is an oral capsule
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

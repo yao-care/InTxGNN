@@ -60,7 +60,7 @@ The best-supported alternative direction is **hemoglobinopathy (sickle cell dise
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, eptifibatide is a GP IIb/IIIa (αIIbβ3 integrin) antagonist that blocks platelet aggregation. Its efficacy in acute coronary syndrome is established, and mechanistically it may be applicable to conditions in which platelet activation drives disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eptifibatide: "Eptifibatide reversibly inhibits platelet aggregation by preventing the binding of fibrinogen, von Willebrand factor, and other adhesive ligands to GP IIb/IIIa. When administered intravenously, eptifibatide inhibits ex vivo platelet aggregation in a dose- and concentration-dependent manner." ([DailyMed: eptifibatide prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764), label version 2026-10-02; accessed 2026-11-19.) Based on known information, eptifibatide is a GP IIb/IIIa (αIIbβ3 integrin) antagonist that blocks platelet aggregation. Its efficacy in acute coronary syndrome is established, and mechanistically it may be applicable to conditions in which platelet activation drives disease.
 
 For rheumatoid arthritis, the link is speculative: platelets contribute to synovial inflammation, but no trials or literature support this use. Patients with rheumatoid arthritis often take NSAIDs and corticosteroids, which adds to the bleeding risk of an antiplatelet drug.
 
@@ -135,6 +135,19 @@ The top-ranked prediction, rheumatoid arthritis, is supported only by the model 
 - For rheumatoid arthritis: any preclinical or clinical evidence, plus a bleeding-risk assessment with NSAIDs and corticosteroids
 - For sickle cell disease: a better-powered efficacy trial and a bleeding-safety plan, as a possible research question
 - Assessment of route compatibility (the drug is available only as injection or infusion) for each candidate indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: eptifibatide prescribing information, Avenacy, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0781dae-3ef6-4cab-b084-01d2e45f3764) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

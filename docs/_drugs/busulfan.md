@@ -56,7 +56,7 @@ Its role would be as a conditioning component within an allogeneic transplant st
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known information, busulfan is an alkylating agent that cross-links DNA and causes myeloablation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for busulfan: "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups." ([DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203), label version 2026-07-29; accessed 2026-11-19.) Based on known information, busulfan is an alkylating agent that cross-links DNA and causes myeloablation.
 
 Allogeneic hematopoietic stem cell transplantation is the only potentially curative approach for eligible patients with higher-risk MDS. Busulfan-based conditioning clears the malignant clone and makes room for donor stem cells to engraft. This is the mechanistic link between busulfan and MDS.
 
@@ -134,6 +134,19 @@ Two completed Phase 3 randomized trials (NCT00005866, NCT00822393) and several r
 - Mechanism of action data to complete the mechanistic analysis
 - Clear restriction of use to transplant-conditioning settings in transplant-eligible patients
 - A myelosuppression and toxicity monitoring plan, including dose targeting and supportive care
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

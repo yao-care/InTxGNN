@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **acne**, but the data compiled
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data are not available in the compiled data. Based on general knowledge, mebendazole is a benzimidazole anthelmintic that is understood to bind parasite tubulin, disrupting microtubule-dependent processes such as glucose uptake. This is well established for intestinal worm infections.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for mebendazole: "Mebendazole, a benzimidazole, is an anthelmintic. […] Mebendazole interferes with cellular tubulin formation in the helminth and causes ultrastructural degenerative changes in its intestine. As a result, its glucose uptake and the digestive and reproductive functions are disrupted, leading to immobilization, inhibition of egg production and death of the helminth." ([DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f), label version 2021-10-05; accessed 2026-11-19.) Based on general knowledge, mebendazole is a benzimidazole anthelmintic that is understood to bind parasite tubulin, disrupting microtubule-dependent processes such as glucose uptake. This is well established for intestinal worm infections.
 
 That mechanism does not map onto acne. Acne is driven by excess sebum, follicular blockage, *Cutibacterium acnes* and inflammation, and none of these is a recognised target of tubulin-binding anthelmintics. The high TxGNN score (0.9920) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved publication is an unrelated parasitic case report that mentions acne-like skin lesions, which looks like a spurious match.
 
@@ -119,6 +119,19 @@ The prediction rests on a model score alone. There are no trials, the single ret
 
 **Other predictions in the same data set (for reference):**
 - Support comes from observational studies, reviews and the WHO guideline. Benzimidazoles, mainly albendazole with mebendazole as an alternative, are already standard antiparasitic therapy, so these are existing-use confirmations rather than new repurposing. Long-term use requires liver function and blood count monitoring.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vermox (mebendazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a720c424-517a-461b-8e13-6c37caf8aa3f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

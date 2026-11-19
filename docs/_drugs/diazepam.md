@@ -56,7 +56,7 @@ Evidence is limited: **0 registered clinical trials** and **1 older double-blind
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for diazepam are not available in the data compiled for this report. Based on known pharmacology, diazepam is a positive allosteric modulator of GABA-A receptors, which produces sedative-hypnotic effects. This makes a role in sleep disorders biologically plausible, and benzodiazepines as a class are already used for short-term insomnia.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for diazepam: "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), label version 2026-10-06; accessed 2026-11-19.) Based on known pharmacology, diazepam is a positive allosteric modulator of GABA-A receptors, which produces sedative-hypnotic effects. This makes a role in sleep disorders biologically plausible, and benzodiazepines as a class are already used for short-term insomnia.
 
 There are important limits. Diazepam has a long half-life and an active metabolite (nordiazepam), which can cause residual daytime sedation. Long-term use carries risks of dependence and cognitive effects. The only direct study in insomnia patients is a 1981 double-blind trial against another benzodiazepine, not against placebo. Most other retrieved papers are reviews, herbal-medicine studies or animal studies that use diazepam as a positive control.
 
@@ -110,6 +110,18 @@ The mechanism is plausible, and the one direct study in insomnia patients (a 198
 - Detailed mechanism-of-action data
 - Label warnings and contraindications from the package insert
 - A risk plan covering dependence, residual daytime sedation, falls in older adults, and opioid co-prescription
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for diazepam are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

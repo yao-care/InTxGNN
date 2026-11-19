@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but *
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, adapalene is a topical retinoid that acts as a selective retinoic acid receptor (RAR-beta/gamma) agonist. Its efficacy in acne is established, but a mechanistic link to elevated plasma zinc has not been found.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for adapalene: "Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes." ([DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec), label version 2023-12-27; accessed 2026-11-19.) Based on known information, adapalene is a topical retinoid that acts as a selective retinoic acid receptor (RAR-beta/gamma) agonist. Its efficacy in acne is established, but a mechanistic link to elevated plasma zinc has not been found.
 
 Elevated plasma zinc is a laboratory finding or biochemical state rather than a conventional treatable disease. No known pathway connects retinoid receptor signalling to zinc homeostasis in a way that would lower plasma zinc. Topical adapalene also has low systemic exposure, which makes a systemic effect on plasma zinc even less likely.
 
@@ -115,6 +115,19 @@ The prediction is supported only by a model score (Evidence Level L5). No trials
 - Preclinical or exploratory studies showing an effect on plasma zinc
 - Package insert warnings and contraindications from the India Pharma source, which are currently missing and block safety screening
 - An assessment of route compatibility, since the topical gel formulations may not achieve relevant systemic exposure
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

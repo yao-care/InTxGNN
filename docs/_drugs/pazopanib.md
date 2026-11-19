@@ -57,7 +57,7 @@ The lead indication is the highest-ranked prediction that has any supporting evi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known information, pazopanib is a multi-targeted inhibitor of VEGFR, PDGFR and c-KIT. This anti-angiogenic activity underlies its established use in clear cell renal cell carcinoma and soft tissue sarcoma.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pazopanib: "Pazopanib is a multi-tyrosine kinase inhibitor of vascular endothelial growth factor receptor (VEGFR)-1, VEGFR-2, VEGFR-3, platelet-derived growth factor receptor (PDGFR)-α and -β, fibroblast growth factor receptor (FGFR)-1 and -3, cytokine receptor (Kit), interleukin-2 receptor-inducible T-cell kinase (Itk), lymphocyte-specific protein tyrosine kinase (Lck), and transmembrane glycoprotein receptor tyrosine kinase (c-Fms). In vitro, pazopanib inhibited ligand-induced autophosphorylation of VEGFR-2, Kit, and PDGFR-β receptors." ([DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7), label version 2025-12-16; accessed 2026-11-19.) Based on known information, pazopanib is a multi-targeted inhibitor of VEGFR, PDGFR and c-KIT. This anti-angiogenic activity underlies its established use in clear cell renal cell carcinoma and soft tissue sarcoma.
 
 Non-clear-cell and unclassified renal cell carcinomas depend on angiogenic signalling to a variable degree. This is why VEGF-pathway inhibitors are commonly extrapolated from clear cell disease to these tumours. These tumours are under-represented in trials, so such extrapolation is common in practice, but the strength of benefit is uncertain.
 
@@ -89,7 +89,6 @@ The most relevant trials for the best-supported sarcoma predictions are shown be
 | [NCT02601209](https://clinicaltrials.gov/study/NCT02601209) | Phase 1/2 | Terminated | 151 | MLN0128 (TAK-228) versus pazopanib in advanced sarcoma; pazopanib was the comparator |
 
 ## Literature Evidence
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -158,6 +157,19 @@ For the lead prediction, unclassified renal cell carcinoma, the evidence is limi
 - Confirmation of the histologies enrolled in NCT01692496, NCT01532687 and NCT02066285
 - A comparative benefit-risk assessment against current standard therapies in each candidate indication
 - A cardiac, hepatic and blood-pressure monitoring plan, plus a drug-interaction review (particularly acid suppressants)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Votrient (pazopanib hydrochloride) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eeaaaf38-fb86-4d9f-a19d-0f61daac2fd7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ This is a model prediction only: the data compiled for this report contain **0 c
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for methylprednisolone are not available in the data compiled for this report. As a glucocorticoid, it is generally understood to suppress inflammatory and immune activity. This is background knowledge, not a finding from the current data.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for methylprednisolone: "Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4), label version 2026-07-01; accessed 2026-11-19.) As a glucocorticoid, it is generally understood to suppress inflammatory and immune activity. This is background knowledge, not a finding from the current data.
 
 Alopecia mucinosa is an inflammatory disorder of the hair follicle. The model's high score appears to reflect its closeness to other inflammatory hair-follicle conditions. A systemic anti-inflammatory drug could plausibly help in such a setting.
 
@@ -117,6 +117,18 @@ The prediction has a very high model score but no supporting trials or publicati
 - Detailed mechanism-of-action data for the drug.
 - Package insert warnings and contraindications, which are not yet captured.
 - A plan for route and dose, for example topical, intralesional or systemic, and a risk-benefit assessment for long-term corticosteroid use.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for methylprednisolone are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -60,7 +60,7 @@ Overall, the evidence is hypothesis-level, and the direction of any therapeutic 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, apomorphine is a dopamine D1/D2 receptor agonist. Its efficacy in Parkinson disease comes from replacing deficient dopaminergic signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for apomorphine: "ONAPGO is a non-ergoline dopamine agonist with high in vitro binding affinity for the dopamine D4 receptor, and moderate affinity for the dopamine D2, D3, and D5, and adrenergic α1D, α2B, α2C receptors. The precise mechanism of action of ONAPGO as a treatment for Parkinson's disease is unknown, although it is believed to be due to stimulation of post-synaptic dopamine D2-type receptors within the caudate-putamen in the brain." ([DailyMed: Onapgo (apomorphine hydrochloride) prescribing information, MDD US Operations, LLC, a subsidiary of Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a), label version 2026-10-05; accessed 2026-11-19.) Based on known pharmacology, apomorphine is a dopamine D1/D2 receptor agonist. Its efficacy in Parkinson disease comes from replacing deficient dopaminergic signalling.
 
 **Rank 1 (polymicrogyria with cerebellar hypoplasia and arthrogryposis):** No mechanistic link can be identified. The score is very high, but it appears to be a TxGNN model (deep learning) prediction only, and nothing connects dopaminergic signalling to the pathogenesis of this rare developmental malformation. The other top-ranked predictions have similarly weak or absent rationales. These include congenital glycosylation disorder, hereditary neuropathy, atypical glycine encephalopathy and hydranencephaly. The exceptions are retinal dystrophy and the myopia variants, where retinal dopamine offers only a speculative link.
 
@@ -135,6 +135,19 @@ The top-ranked prediction (polymicrogyria) has a very high model score but no tr
 - Preclinical or mechanistic evidence for any rank 1 to 4 prediction before further consideration
 - For schizophrenia, a clear rationale for the therapeutic direction (agonist vs antagonist) and a risk assessment given the psychosis contraindication
 - Route compatibility assessment (the marketed forms are sublingual tablets)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Onapgo (apomorphine hydrochloride) prescribing information, MDD US Operations, LLC, a subsidiary of Supernus Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3552b6e-5ae7-4993-aa1a-e399c4a7080a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

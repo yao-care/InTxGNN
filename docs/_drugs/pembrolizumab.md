@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **gingival fibromatosis**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Pembrolizumab is a monoclonal antibody that targets programmed cell death protein 1 (PD-1, encoded by PDCD1). Its efficacy in lung cancer and melanoma is well established, and it has been approved for many other cancers.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pembrolizumab: "Binding of the PD-1 ligands, PD-L1 and PD-L2, to the PD-1 receptor found on T cells, inhibits T cell proliferation and cytokine production. Upregulation of PD-1 ligands occurs in some tumors and signaling through this pathway can contribute to inhibition of active T-cell immune surveillance of tumors. […] Pembrolizumab is a monoclonal antibody that binds to the PD-1 receptor and blocks its interaction with PD-L1 and PD-L2, releasing PD-1 pathway-mediated inhibition of the immune response, including the anti-tumor immune response." ([DailyMed: Keytruda (pembrolizumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9333c79b-d487-4538-a9f0-71b91a02b287), label version 2026-10-16; accessed 2026-11-19.) Pembrolizumab is a monoclonal antibody that targets programmed cell death protein 1 (PD-1, encoded by PDCD1). Its efficacy in lung cancer and melanoma is well established, and it has been approved for many other cancers.
 
 Gingival fibromatosis is a benign overgrowth of gum tissue. PD-1 blockade works by reactivating T-cell responses against tumours, and there is no established mechanistic rationale for applying it to a benign fibrous overgrowth. The high TxGNN score (0.994) is a model prediction only. It is not supported by any trial or publication.
 
@@ -107,6 +107,19 @@ The prediction for gingival fibromatosis is supported only by a model score. The
 - Package insert warnings and contraindications for the India product, which are currently missing
 - A safety assessment of immune-related adverse events in a benign, non-oncology population
 - Reconsideration of other candidates in the ranking (for example, lung hilum carcinoma or pulmonary sulcus neoplasm), which are anatomical or histological subsets of already-approved lung cancer indications and may be better-founded than this prediction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Keytruda (pembrolizumab) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9333c79b-d487-4538-a9f0-71b91a02b287) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

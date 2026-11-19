@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **ectothrix infectious disease*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, clioquinol is a topical antifungal and antimicrobial agent. Its activity is plausibly related to chelation of metal ions such as copper, zinc and iron, which may disrupt fungal enzyme function. This remains a hypothesis and not a confirmed mechanism.
+ChEMBL (EMBL-EBI) records the mechanism of action of clioquinol as: Zinc chelating agent; Copper chelating agent; Iron chelating agent ([ChEMBL CHEMBL497 (clioquinol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL497), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, clioquinol is a topical antifungal and antimicrobial agent. Its activity is plausibly related to chelation of metal ions such as copper, zinc and iron, which may disrupt fungal enzyme function. This remains a hypothesis and not a confirmed mechanism.
 
 Ectothrix infection is a dermatophyte infection in which fungal arthroconidia form a sheath on the outside of the hair shaft (for example *Microsporum* and some *Trichophyton* species). It belongs to the same disease family as the tinea infections linked to clioquinol. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction is therefore mainly an extension within the same disease family and not a distinct new use.
 
@@ -114,11 +114,12 @@ The prediction rests only on model scoring and similarity to existing tinea indi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL497 (clioquinol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL497) |
 
 <!-- review:end log -->
 

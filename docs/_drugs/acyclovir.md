@@ -55,7 +55,7 @@ The TxGNN model ranks **punctate epithelial keratoconjunctivitis** highest at 0.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Acyclovir is a well-known guanosine analogue antiviral. It is activated by viral thymidine kinase and then inhibits herpesvirus DNA polymerase, which is why it works against HSV and VZV.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for acyclovir: "Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV." ([DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4), label version 2026-06-26; accessed 2026-11-19.) Acyclovir is a well-known guanosine analogue antiviral. It is activated by viral thymidine kinase and then inhibits herpesvirus DNA polymerase, which is why it works against HSV and VZV.
 
 **Top-ranked prediction (punctate epithelial keratoconjunctivitis).** This condition can be herpetic or adenoviral. A plausible link exists only for herpetic cases. The two papers retrieved concern microsporidial keratoconjunctivitis and drug-induced corneal lipidosis in AIDS, so neither supports acyclovir use. The high score is a model prediction without clinical backing.
 
@@ -147,6 +147,19 @@ Warnings and contraindications from the package insert were not available. Pleas
 - For warts: a larger, multicentre, blinded RCT with a defined dose and long-term recurrence follow-up, plus a review of local-injection safety
 - For the eye indication: confirmation of herpetic aetiology and clear separation from existing herpes keratitis indications
 - Route compatibility assessment (intralesional use is off-label relative to the registered oral and intravenous forms)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

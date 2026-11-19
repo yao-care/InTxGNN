@@ -56,7 +56,7 @@ However, there are currently **0 clinical trials** and **0 publications** suppor
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, evogliptin belongs to the DPP-4 inhibitor class. These drugs slow the breakdown of incretin hormones, which helps control blood sugar in type 2 diabetes.
+ChEMBL (EMBL-EBI) records the mechanism of action of evogliptin as: Dipeptidyl peptidase IV inhibitor ([ChEMBL CHEMBL1779710 (evogliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1779710), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, evogliptin belongs to the DPP-4 inhibitor class. These drugs slow the breakdown of incretin hormones, which helps control blood sugar in type 2 diabetes.
 
 Opsismodysplasia is a rare skeletal disorder caused by loss-of-function mutations in INPPL1 (SHIP2). These mutations affect PI3K/AKT signaling and bone formation (endochondral ossification). No established link connects DPP-4 inhibition to SHIP2 or to skeletal development pathways, so the mechanistic basis for this prediction is weak.
 
@@ -95,11 +95,12 @@ The prediction is supported only by the TxGNN model score, with no clinical tria
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1779710 (evogliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1779710) |
 
 <!-- review:end log -->
 

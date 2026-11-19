@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acquired hemophagocytic lymph
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, favipiravir is a viral RNA-dependent RNA polymerase inhibitor, and its efficacy in influenza is established.
+ChEMBL (EMBL-EBI) records the mechanism of action of favipiravir as: RNA-directed RNA polymerase inhibitor ([ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge, favipiravir is a viral RNA-dependent RNA polymerase inhibitor, and its efficacy in influenza is established.
 
 The predicted new indication is a different kind of disease. Malignancy-associated hemophagocytic lymphohistiocytosis (HLH) is driven by immune dysregulation and cytokine storm, not by a viral target. No plausible direct mechanistic link is evident, and the high score is a model output only.
 
@@ -106,6 +106,19 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Detailed mechanism of action data (MOA)
 - Any preclinical or clinical evidence of favipiravir in HLH, particularly the infection-associated form
 - A mechanistic analysis comparing the original and new indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL221722 (favipiravir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL221722) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

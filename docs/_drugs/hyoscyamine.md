@@ -56,7 +56,7 @@ but at present there are **no registered clinical trials** and only **1 loosely 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, hyoscyamine is a non-selective competitive antagonist of muscarinic acetylcholine receptors. Blocking M3 receptors on gastric parietal cells and on smooth muscle can reduce gastric acid secretion, gastrointestinal motility and spasm.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for hyoscyamine: "Hyoscyamine sulfate inhibits specifically the actions of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine but lack cholinergic innervation. These peripheral cholinergic receptors are present in the autonomic effector cells of the smooth muscle, cardiac muscle, the sinoatrial node, the atrioventricular node, and the exocrine glands." ([DailyMed: Nulev (hyoscyamine sulfate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ae2a78b2-b811-11e2-9e96-0800200c9a66), label version 2025-07-15; accessed 2026-11-19.) Based on general pharmacology, hyoscyamine is a non-selective competitive antagonist of muscarinic acetylcholine receptors. Blocking M3 receptors on gastric parietal cells and on smooth muscle can reduce gastric acid secretion, gastrointestinal motility and spasm.
 
 Peptic ulcer disease and gastroduodenitis are both upper gastrointestinal conditions. Symptom control through reduced acid secretion and reduced spasm is plausible in both. This link is inferred from general pharmacology, not from the supplied data.
 
@@ -116,6 +116,19 @@ The prediction rests only on a model score and general pharmacological reasoning
 - Approved indication text for the four Indian registrations
 - Clarification of the contraindication signal for gastric ulcer and gastritis
 - Assessment of whether the available dosage forms suit the proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nulev (hyoscyamine sulfate) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ae2a78b2-b811-11e2-9e96-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

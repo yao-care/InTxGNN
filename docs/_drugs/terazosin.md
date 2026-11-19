@@ -59,7 +59,7 @@ The TxGNN model (deep learning) predicts it may be effective for **hypotrichosis
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, terazosin belongs to the alpha-1 adrenergic blocker class. Its efficacy in hypertension and benign prostatic hyperplasia is established, through relaxation of vascular and prostatic smooth muscle.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for terazosin: "Benign Prostatic Hyperplasia The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part by a proliferation of smooth muscle cells in the prostatic stroma. […] Blockade of the alpha-1 receptor decreases urethral resistance and may relieve the obstruction of BPH symptoms and improve urine flow Hypertension The mechanism of action of terazosin is selective blockade of the alpha-1 subtype of adrenergic receptors." ([DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f), label version 2025-04-18; accessed 2026-11-19.) Based on known information, terazosin belongs to the alpha-1 adrenergic blocker class. Its efficacy in hypertension and benign prostatic hyperplasia is established, through relaxation of vascular and prostatic smooth muscle.
 
 For the top-ranked prediction, hypotrichosis simplex of the scalp, no plausible link to alpha-1 blockade has been established. This is a hereditary hair-follicle disorder. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a pharmacological rationale. The same holds for the other hair-related predictions (congenital hypotrichosis milia and Ambras-type hypertrichosis). For diffuse alopecia areata, an autoimmune condition, any benefit from scalp vasodilation is speculative.
 
@@ -124,6 +124,19 @@ The top-ranked prediction, hypotrichosis simplex of the scalp, rests only on a s
 - Package insert warnings and contraindications for the India-marketed products, which are currently missing and block safety screening
 - If a more promising direction is pursued, Raynaud disease (L3) and migraine (L4) are the better candidates for a research question. Both would need controlled, modern studies, since the available evidence is small and dated.
 - A full-text review of PMID 34779371 to confirm whether terazosin is discussed for alopecia
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tezruly (terazosin) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69582e0c-6569-490c-8c14-999f3750336f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

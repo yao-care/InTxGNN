@@ -56,7 +56,7 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, efavirenz is an HIV-1 non-nucleoside reverse transcriptase inhibitor (NNRTI). Its use in HIV infection is recorded in the knowledge graph, and mechanistically it may be applicable to related lentiviruses.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for efavirenz: "Efavirenz is an antiviral drug. […] Efavirenz is an NNRTI of HIV-1. Efavirenz activity is mediated predominantly by noncompetitive inhibition of HIV-1 reverse transcriptase. HIV-2 reverse transcriptase and human cellular DNA polymerases α,β, γ, and δ are not inhibited by efavirenz." ([DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358), label version 2024-06-28; accessed 2026-11-19.) Based on known information, efavirenz is an HIV-1 non-nucleoside reverse transcriptase inhibitor (NNRTI). Its use in HIV infection is recorded in the knowledge graph, and mechanistically it may be applicable to related lentiviruses.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV and causes an AIDS-like syndrome in cats. No effective treatment has been established for infected cats. The only available publication (PMID 38031646, 2023) compares NNRTIs, including efavirenz, against feline and human immunodeficiency virus reverse transcriptases in biochemical and structural terms. It tested efavirenz alongside nevirapine and rilpivirine, but the summary available does not report efavirenz-specific results.
 
@@ -104,6 +104,19 @@ The only supporting study is an in vitro biochemical and structural comparison, 
 - Efavirenz-specific enzyme inhibition and cell-based antiviral data against FIV
 - Veterinary safety and pharmacokinetic data in cats
 - Mechanism of action data and package insert warnings and contraindications for the marketed products
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: efavirenz prescribing information, Macleods Pharmaceuticals Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=13ca3456-e5bf-4bb1-af95-b1378658a358) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

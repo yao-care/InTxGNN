@@ -58,7 +58,7 @@ Cefpodoxime is a third-generation oral cephalosporin antibiotic, marketed in Ind
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, cefpodoxime is a third-generation oral cephalosporin that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins. This is an antibacterial action.
+ChEMBL (EMBL-EBI) records the mechanism of action of cefpodoxime as: Bacterial penicillin-binding protein inhibitor ([ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacological knowledge, cefpodoxime is a third-generation oral cephalosporin that inhibits bacterial cell wall synthesis by binding penicillin-binding proteins. This is an antibacterial action.
 
 No established mechanistic link to osteoarthritis was identified. Cefpodoxime has no known anti-inflammatory, chondroprotective or analgesic activity relevant to this disease. The very high TxGNN score (0.9925) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -116,6 +116,19 @@ The prediction rests only on a score from the TxGNN model (deep learning). There
 - Package insert warnings, contraindications and approved indications from the India licences
 - Preclinical or mechanistic evidence for any effect in osteoarthritis (or rheumatoid arthritis)
 - A literature and trial search that directly addresses the predicted disease
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

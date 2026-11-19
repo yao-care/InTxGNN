@@ -62,7 +62,7 @@ This prediction should be treated as a research question, not a treatment claim.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, sofosbuvir is a prodrug whose active triphosphate form inhibits the HCV NS5B RNA-dependent RNA polymerase. Its efficacy in hepatitis C is well established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for sofosbuvir: "Sofosbuvir is a direct-acting antiviral agent against the hepatitis C virus. […] Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is essential for viral replication. Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator." ([DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf), label version 2024-12-26; accessed 2026-11-19.) Based on known information, sofosbuvir is a prodrug whose active triphosphate form inhibits the HCV NS5B RNA-dependent RNA polymerase. Its efficacy in hepatitis C is well established.
 
 The mechanistic link to hepatitis B is weak. HBV is a DNA virus that replicates through a reverse transcriptase, so direct antiviral activity from sofosbuvir is implausible. The high TxGNN score most likely reflects the shared hepatitis and co-infection context rather than a true mechanism.
 
@@ -144,6 +144,19 @@ Among the other predictions, hepatitis E virus is more plausible mechanistically
 - Package insert warnings and contraindications from the Indian regulatory source, which is a blocking gap for safety screening
 - Controlled studies in HBV mono-infected patients with HBV-specific endpoints (HBsAg, HBV-DNA)
 - A HBV screening and reactivation monitoring plan for any HCV/HBV co-infected patients
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sovaldi (sofosbuvir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=80beab2c-396e-4a37-a4dc-40fdb62859cf) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

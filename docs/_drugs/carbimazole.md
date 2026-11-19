@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **resistance to thyroid hormone du
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Carbimazole is known as a prodrug of methimazole, which inhibits thyroid peroxidase and reduces thyroid hormone synthesis.
+ChEMBL (EMBL-EBI) records the mechanism of action of carbimazole as: Thyroid peroxidase inhibitor ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; accessed 2026-11-19.) Carbimazole is known as a prodrug of methimazole, which inhibits thyroid peroxidase and reduces thyroid hormone synthesis.
 
 In resistance to thyroid hormone caused by THRB mutations, tissues respond poorly to T3. Circulating T4 and T3 are high while TSH is not suppressed. The model likely scored this disease highly because its biochemistry (high free T4) resembles hyperthyroid states.
 
@@ -90,6 +90,19 @@ The prediction rests on a model score alone, with no trials and no study showing
 - Mechanism of action data and a clear mechanistic argument for why lowering hormone synthesis would help in THRB-mutation resistance
 - Studies directly addressing this disease, including safety with respect to TSH rise and goitre
 - Package insert warnings and contraindications for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

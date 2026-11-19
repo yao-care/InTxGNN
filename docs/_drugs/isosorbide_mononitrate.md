@@ -58,7 +58,7 @@ The only prediction with any related literature is **pulmonary arterial hyperten
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, isosorbide mononitrate is an NO donor. It raises cGMP in vascular smooth muscle and causes vasodilation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for isosorbide mononitrate: "Isosorbide mononitrate extended-release tablet are an oral extended-release formulation of ISMN, the major active metabolite of isosorbide dinitrate; most of the clinical activity of the dinitrate is attributable to the mononitrate. The principal pharmacological action of ISMN and all organic nitrates in general is relaxation of vascular smooth muscle, producing dilatation of peripheral arteries and veins, especially the latter." ([DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158), label version 2026-11-10; accessed 2026-11-19.) Based on general pharmacology, isosorbide mononitrate is an NO donor. It raises cGMP in vascular smooth muscle and causes vasodilation.
 
 The link to hypertrichosis is speculative. Vasodilators such as minoxidil are known to cause hypertrichosis, and improved follicular perfusion through NO/cGMP signalling has been discussed in hair biology. No evidence shows that isosorbide mononitrate has this effect. The high score is best read as a model output without clinical support.
 
@@ -113,6 +113,19 @@ The top predictions (hypertrichosis, alopecia and related hair or congenital dis
 - Approved indication text for the Indian licences
 - For PAH, a focused review of nitrate tolerance and V/Q mismatch, followed by preclinical or small haemodynamic studies before any clinical development
 - For hair-related indications, mechanistic or preclinical data showing a follicular effect, and a safety assessment of hypotension given the vasodilator action
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

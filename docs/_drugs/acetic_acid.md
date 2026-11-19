@@ -60,7 +60,7 @@ The only prediction with any meaningful supporting literature is **tinea corpori
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, acetic acid is a topical acidifier with antibacterial and antifungal activity. Its efficacy in otitis externa is established, and mechanistically it may be applicable to some superficial infections.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for acetic acid: "Acetic acid is antibacterial and antifungal; propylene glycol is hydrophilic and provides a low surface tension; benzethonium chloride is a surface active agent that promotes contact of the solution with tissues." ([DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d), label version 2026-03-18; accessed 2026-11-19.) Based on known information, acetic acid is a topical acidifier with antibacterial and antifungal activity. Its efficacy in otitis externa is established, and mechanistically it may be applicable to some superficial infections.
 
 For the top-ranked prediction, **post-bacterial disorder**, the link is weak. The term is a non-specific category (post-infectious sequelae), and there is no clear pharmacological connection to a topical antiseptic. The other high-scoring predictions (postinfectious vasculitis, post-infectious syndrome, Chagas cardiomyopathy, infection-related hemolytic uremic syndrome, drug-induced osteoporosis) involve immune-mediated or systemic processes that a topical agent is unlikely to influence. Infective urethral stricture has only a very weak indirect rationale, because dilute acetic acid is used as an irrigant in some settings.
 
@@ -122,6 +122,19 @@ All predictions are supported only by the TxGNN model (deep learning), with no c
 - For tinea corporis: modern controlled studies comparing dilute acetic acid with standard topical antifungals, with a defined concentration and safety profile for skin use
 - Confirmation of route compatibility, since the marketed product is an ear drop and skin use would need a different formulation
 - Clarification of the post-bacterial disorder definition before any further assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acetic acid prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1c28375-9b03-4590-9d39-ab28403da93d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

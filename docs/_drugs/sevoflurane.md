@@ -60,7 +60,7 @@ The prediction should be regarded as a hypothesis only.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, sevoflurane is a volatile anaesthetic that potentiates GABA-A receptors and inhibits NMDA and nicotinic receptors. Its use in general anaesthesia is well established.
+ChEMBL (EMBL-EBI) records the mechanism of action of sevoflurane as: Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener ([ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacological knowledge, sevoflurane is a volatile anaesthetic that potentiates GABA-A receptors and inhibits NMDA and nicotinic receptors. Its use in general anaesthesia is well established.
 
 A plausible but unverified link is that volatile anaesthetics modulate calcium handling in vascular smooth muscle and may have vasodilatory effects relevant to coronary vasospasm, the basis of Prinzmetal angina. No trials or publications support this, and a high model score is not clinical evidence.
 
@@ -132,6 +132,19 @@ The Prinzmetal angina prediction rests on a model score alone, with no clinical 
 - Preclinical or mechanistic studies of sevoflurane in coronary vasospasm
 - Assessment of route and setting compatibility with chronic angina management
 - Registered indication text for the two Indian licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200694 (sevoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200694) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

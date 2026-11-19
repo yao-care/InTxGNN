@@ -60,7 +60,7 @@ The prediction is best read as a model artefact rather than a credible repurposi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, vecuronium blocks nicotinic acetylcholine receptors at the neuromuscular junction. This produces skeletal muscle relaxation during surgery and intubation.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for vecuronium: "Vecuronium is a nondepolarizing neuromuscular blocking agent possessing all of the characteristic pharmacological actions of this class of drugs (curariform). It acts by competing for cholinergic receptors at the motor end-plate." ([DailyMed: vecuronium bromide prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b012b1b1-9e59-4525-8f4d-dae98344d15f), label version 2026-10-23; accessed 2026-11-19.) Based on known pharmacology, vecuronium blocks nicotinic acetylcholine receptors at the neuromuscular junction. This produces skeletal muscle relaxation during surgery and intubation.
 
 The mechanistic link to insomnia is weak. Vecuronium has no sedative, hypnotic or central nervous system activity. The high TxGNN score (0.9934) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -126,6 +126,19 @@ The prediction rests on model output alone (L5). There are no trials or literatu
 - Mechanism of action data
 - Any plausible mechanistic or preclinical rationale linking neuromuscular blockade to sleep regulation
 - A safety assessment of using a paralysing agent outside the anaesthetic setting
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: vecuronium bromide prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b012b1b1-9e59-4525-8f4d-dae98344d15f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -62,7 +62,7 @@ The approved indication text is not recorded in the India licence data compiled 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, everolimus is an mTOR inhibitor (it blocks mTORC1). The PI3K/AKT/mTOR pathway drives cell growth and is commonly overactive in renal cell carcinoma, which is why everolimus has proven efficacy there.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for everolimus: "Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase." ([DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a), label version 2026-09-16; accessed 2026-11-19.) Based on known information, everolimus is an mTOR inhibitor (it blocks mTORC1). The PI3K/AKT/mTOR pathway drives cell growth and is commonly overactive in renal cell carcinoma, which is why everolimus has proven efficacy there.
 
 Dedifferentiated liposarcoma is characterized by CDK4/MDM2 amplification. Combining everolimus with the CDK4/6 inhibitor ribociclib blocks both the cell cycle and the mTOR growth pathway, which may limit compensatory signaling. The two drugs have shown synergistic growth inhibition in multiple tumor models.
 
@@ -150,6 +150,19 @@ For liposarcoma, the only direct evidence is one single-arm Phase 2 trial of eve
 - Mechanism of action data from DrugBank
 - Package insert warnings, contraindications and approved indications from the India regulatory source
 - A safety monitoring plan covering hematologic, metabolic, hepatic and pulmonary risks, and a drug interaction review for CYP3A4-related agents
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ At present there are **no clinical trials and no publications** for this specifi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, bevacizumab binds VEGF-A and limits the growth of new blood vessels that tumours depend on.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bevacizumab: "Bevacizumab products bind VEGF and prevent the interaction of VEGF to its receptors (Flt-1 and KDR) on the surface of endothelial cells. The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis." ([DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe), label version 2026-08-21; accessed 2026-11-19.) Based on general knowledge, bevacizumab binds VEGF-A and limits the growth of new blood vessels that tumours depend on.
 
 Epiglottis neoplasms arise in the head and neck region. Head and neck tumours are often rich in blood vessels, so blocking VEGF is a plausible approach. This reasoning is speculative here. No study in the compiled data tests bevacizumab in epiglottis tumours, and the prediction score is the only support.
 
@@ -108,6 +108,19 @@ The prediction score is very high (0.9990), but no trial or publication studies 
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications from the Indian licence holders
 - A safety review of the major drug interactions, especially with sunitinib, panitumumab and thalidomide
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but at present there are **no registered clinical trials** and only **2 publicat
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, clobazam is a GABA-A positive allosteric modulator, like other benzodiazepines. Its efficacy in Lennox-Gastaut syndrome, a severe drug-resistant epilepsy, is established, and mechanistically it may be applicable to other refractory epilepsies.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for clobazam: "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c), label version 2026-10-16; accessed 2026-11-19.) Based on known pharmacology, clobazam is a GABA-A positive allosteric modulator, like other benzodiazepines. Its efficacy in Lennox-Gastaut syndrome, a severe drug-resistant epilepsy, is established, and mechanistically it may be applicable to other refractory epilepsies.
 
 FIRES is a severe form of new-onset refractory status epilepticus that occurs in previously healthy children. Seizures are often resistant to conventional anti-seizure drugs and are managed with benzodiazepines such as midazolam, or with other anaesthetics. A class-effect link to clobazam is therefore plausible. However, the retrieved publications describe lorazepam weaning and perampanel, not clobazam, so the link remains unproven.
 
@@ -120,6 +120,19 @@ The prediction score is very high, but there are no clinical trials, and the onl
 - Package insert warnings and contraindications from the India regulator, to allow safety screening
 - A review of the major interactions (opioids in particular), given that FIRES patients are often on multiple sedatives
 - Confirmation of the approved indications on the India licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

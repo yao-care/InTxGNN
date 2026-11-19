@@ -60,7 +60,7 @@ This is a model-only prediction with very weak supporting evidence.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known information, chlorzoxazone is a centrally acting muscle relaxant that also activates Ca²⁺-dependent K⁺ channels (SK/IK/BK).
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for chlorzoxazone: "Data available from animal experiments as well as human study indicate that chlorzoxazone acts primarily at the level of the spinal cord and subcortical areas of the brain where it inhibits multisynaptic reflex arcs involved in producing and maintaining skeletal muscle spasm of varied etiology. The clinical result is a reduction of the skeletal muscle spasm with relief of pain and increased mobility of the involved muscles." ([DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb), label version 2026-10-05; accessed 2026-11-19.) Based on known information, chlorzoxazone is a centrally acting muscle relaxant that also activates Ca²⁺-dependent K⁺ channels (SK/IK/BK).
 
 The one mechanistic thread is a preclinical study (PMID 23115190). In mice carrying a CACNA1A mutation that enhances CaV2.1 currents, Ca²⁺-dependent K⁺-channel activators relieved cerebellar ataxia. CACNA1A mutations are also linked to familial hemiplegic migraine, so a plausible but **indirect** connection exists. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (such as migraine with brainstem aura), not biological evidence.
 
@@ -132,6 +132,19 @@ The prediction rests on a high model score and a single indirect preclinical lin
 - A targeted literature search for chlorzoxazone in migraine and tension-type headache, and preclinical testing of K⁺-channel activation in migraine models
 - Confirmation of the original approved indications in India
 - If preclinical results are supportive, a small exploratory clinical study with hepatic monitoring
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

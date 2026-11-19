@@ -55,7 +55,7 @@ The direction is supported by **more than 30 registered clinical trials** and **
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. From known pharmacology, pegaspargase is a PEGylated form of E. coli-derived L-asparaginase. It depletes circulating asparagine. Lymphoblasts have low asparagine synthetase expression and depend on external asparagine, so depletion selectively starves them.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pegaspargase: "L-asparaginase is an enzyme that catalyzes the conversion of the amino acid L-asparagine into aspartic acid and ammonia. The pharmacological effect of ONCASPAR is thought to be based on the killing of leukemic cells due to depletion of plasma asparagine." ([DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce), label version 2024-10-07; accessed 2026-11-19.) From known pharmacology, pegaspargase is a PEGylated form of E. coli-derived L-asparaginase. It depletes circulating asparagine. Lymphoblasts have low asparagine synthetase expression and depend on external asparagine, so depletion selectively starves them.
 
 The predicted indication is the labeled indication (ALL) under another name, so the mechanism applies directly. Pegaspargase is a standard component of multi-agent ALL and lymphoblastic lymphoma regimens, including pediatric-inspired adult protocols.
 
@@ -138,6 +138,19 @@ The predicted indication is the established on-label use (ALL and lymphoblastic 
 - **Lymphoid neoplasm** (Proceed with Guardrails): the evidence comes almost entirely from ALL.
 - **Hodgkin lymphoma** (Hold): no direct evidence. The literature relates to extranodal NK/T-cell lymphoma, which is a separate disease with a plausible asparaginase rationale but needs its own evaluation.
 - **CLL/SLL subtypes, follicular lymphoma, blast-phase CML, methylcobalamin deficiency cblE** (Hold): prediction only or weak evidence, with no supporting mechanism or data.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

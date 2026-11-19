@@ -56,7 +56,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, capecitabine is an oral prodrug of 5-fluorouracil, a fluoropyrimidine that inhibits thymidylate synthase and disrupts DNA synthesis in rapidly dividing tumour cells.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for capecitabine: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), label version 2026-02-05; accessed 2026-11-19.) Based on general knowledge, capecitabine is an oral prodrug of 5-fluorouracil, a fluoropyrimidine that inhibits thymidylate synthase and disrupts DNA synthesis in rapidly dividing tumour cells.
 
 The TxGNN model (deep learning) links capecitabine to gastric adenocarcinoma and proximal polyposis of the stomach. This may reflect similarities the model learned between related diseases, such as several gastric cancer types, not biological evidence. GAPPS is a rare hereditary syndrome, associated with APC promoter 1B mutations, with fundic gland polyposis and an increased risk of gastric adenocarcinoma. The plausible connection is that capecitabine would act on the gastric adenocarcinoma component, not on the polyposis or the underlying genetic defect.
 
@@ -111,6 +111,19 @@ The prediction is supported only by the model score (L5), with no trials or publ
 - Mechanism of action data
 - Package insert warnings and contraindications from the India licence holders, for safety screening
 - Approved indication text for the local licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

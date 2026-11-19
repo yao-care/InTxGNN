@@ -60,7 +60,7 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for etodolac is not available in the data compiled for this report. It is known to be an NSAID that inhibits cyclooxygenase (COX), with a preferential effect on COX-2. This reduces prostaglandin-driven inflammation and pain in joint disease.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for etodolac: "The mechanism of action of etodolac extended-release tablets, like that of other NSAIDs, is not completely understood, but may be related to prostaglandin synthetase inhibition." ([DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331), label version 2024-12-31; accessed 2026-11-19.) It is known to be an NSAID that inhibits cyclooxygenase (COX), with a preferential effect on COX-2. This reduces prostaglandin-driven inflammation and pain in joint disease.
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a rare skeletal dysplasia caused by mutations in the CDMP1/GDF5 gene. The defect lies in growth-factor signalling during bone and cartilage development. Etodolac's COX inhibition does not act on this pathway, and no plausible mechanistic link is evident.
 
@@ -119,12 +119,24 @@ Please refer to the package insert for the full set of warnings.
 **Rationale:**
 The prediction has no clinical trials or publications behind it. The target is a genetic developmental disorder, and etodolac's COX-inhibiting mechanism has no apparent link to the GDF5 signalling defect. The score is likely a network-proximity artefact.
 
-
 **To proceed, the following is needed:**
 - Any preclinical or clinical evidence linking etodolac to GDF5-related skeletal dysplasia
 - Detailed mechanism-of-action data for etodolac
 - Package insert warnings and contraindications from the India regulatory source
 - A clear case that symptomatic NSAID use would help this rare population, with cardiovascular, gastrointestinal and renal risks assessed
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for etodolac is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

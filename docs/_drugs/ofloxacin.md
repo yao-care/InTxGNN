@@ -54,7 +54,7 @@ Ofloxacin is a fluoroquinolone antibiotic. The TxGNN model (deep learning) predi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, ofloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its antibacterial activity is well established, but it is only recorded as a treatment for infections in the knowledge graph.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ofloxacin: "Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription." ([DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de), label version 2026-10-23; accessed 2026-11-19.) Based on general pharmacology, ofloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its antibacterial activity is well established, but it is only recorded as a treatment for infections in the knowledge graph.
 
 Hyperamylasemia is a biochemical finding. Its causes are pancreatic, salivary or renal, and it has no known antibacterial target. No plausible mechanistic link to ofloxacin could be identified. The very high TxGNN score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not supported by any trial or literature, so the prediction should be treated as a computational signal only.
 
@@ -108,6 +108,19 @@ The hyperamylasemia prediction has a high model score but no trials, no literatu
 - The package insert warnings and contraindications from the India licence holders
 - Any direct clinical or observational study of ofloxacin in the predicted disease
 - If plague is pursued instead, a review of guideline-level fluoroquinolone evidence and human data specific to ofloxacin
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

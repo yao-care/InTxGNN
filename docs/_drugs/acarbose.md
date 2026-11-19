@@ -56,7 +56,7 @@ but **no clinical trials and no related publications** currently support this pr
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut, slowing carbohydrate digestion and reducing post-meal blood glucose rises. Its efficacy in type 2 diabetes is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for acarbose: "In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes." ([DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a), label version 2026-08-11; accessed 2026-11-19.) Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut, slowing carbohydrate digestion and reducing post-meal blood glucose rises. Its efficacy in type 2 diabetes is established.
 
 A plausible mechanistic link to stiff person syndrome is not evident. Stiff person syndrome is an autoimmune neurological disorder involving the GABAergic system and anti-GAD65 antibodies. The only conceivable connection is that GAD-antibody-related autoimmune diabetes can co-occur with it. That is an association between diseases, not evidence that acarbose treats the neurological condition. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -135,6 +135,19 @@ The prediction rests only on a computational score. There are no clinical trials
 - Package insert warnings and contraindications from the India regulatory source, needed for safety screening
 - Any preclinical or clinical rationale linking alpha-glucosidase inhibition to stiff person syndrome or the GABAergic/anti-GAD65 pathway
 - A systematic literature search specific to acarbose and each predicted disease before reconsidering
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

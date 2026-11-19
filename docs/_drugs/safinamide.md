@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, safinamide is a reversible MAO-B inhibitor that also blocks voltage-gated sodium channels and modulates glutamate release. Its efficacy in Parkinson disease is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for safinamide: "The precise mechanism by which XADAGO exerts its therapeutic effects in PD is unknown. XADAGO is an inhibitor of monoamine oxidase B (MAO-B). Inhibition of MAO-B activity, by blocking the catabolism of dopamine, is thought to result in an increase in dopamine levels and a subsequent increase in dopaminergic activity in the brain." ([DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2), label version 2026-10-05; accessed 2026-11-19.) Based on known pharmacology, safinamide is a reversible MAO-B inhibitor that also blocks voltage-gated sodium channels and modulates glutamate release. Its efficacy in Parkinson disease is established.
 
 Rasmussen encephalitis is a rare, immune-mediated chronic encephalitis. It causes inflammation in one cerebral hemisphere and refractory focal seizures. In theory, sodium channel blockade and reduced glutamate release could dampen neuronal hyperexcitability and seizures. However, nothing suggests safinamide addresses the underlying T-cell-mediated pathology, so the mechanistic link is speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -106,6 +106,19 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - A literature and trial search for Rasmussen encephalitis, and for PLA2G6-associated neurodegeneration, which is the most plausible alternative candidate
 - Preclinical or mechanistic evidence showing an effect on the immune-mediated pathology
 - Route and dosage compatibility assessment for the new indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

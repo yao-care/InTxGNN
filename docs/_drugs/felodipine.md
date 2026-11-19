@@ -60,7 +60,7 @@ but there are **no clinical trials** and only **9 publications**, all of them in
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Felodipine is, however, a known dihydropyridine L-type calcium channel blocker with vasodilatory activity. Its use in hypertension is recorded in the knowledge graph.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for felodipine: "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein." ([DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115), label version 2024-08-07; accessed 2026-11-19.) Felodipine is, however, a known dihydropyridine L-type calcium channel blocker with vasodilatory activity. Its use in hypertension is recorded in the knowledge graph.
 
 In theory, a vasodilator could counter hypoxic pulmonary vasoconstriction, the key mechanism in pulmonary hypertension due to lung disease. This is the basis of the TxGNN prediction.
 
@@ -131,6 +131,19 @@ Other predicted indications are no stronger:
 - Obtain mechanism of action data.
 - Run preclinical studies in pulmonary vascular models of hypoxic pulmonary hypertension.
 - Review the safety of worsened gas exchange and ventilation-perfusion mismatch before any clinical study.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

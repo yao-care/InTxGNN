@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, blonanserin is a dopamine D2/D3 and serotonin 5-HT2A receptor antagonist. Its efficacy in schizophrenia is established, and it is approved for that use in Japan. The pharmacology data compiled for this report confirm binding to the 5-HT2A receptor (HTR2A) and the D2 receptor (DRD2).
+ChEMBL (EMBL-EBI) records the mechanism of action of blonanserin as: Serotonin 2a (5-HT2a) receptor antagonist; Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist ([ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, blonanserin is a dopamine D2/D3 and serotonin 5-HT2A receptor antagonist. Its efficacy in schizophrenia is established, and it is approved for that use in Japan. The pharmacology data compiled for this report confirm binding to the 5-HT2A receptor (HTR2A) and the D2 receptor (DRD2).
 
 No mechanistic link to retinal dystrophy is supported by the available data. No retinal target or pathway connection has been documented, and the original mechanism of action record is incomplete. The high TxGNN score (0.9998) is a computational prediction only. It has no clinical or literature corroboration, so it should be treated as a hypothesis-generating signal rather than a rational basis for treatment.
 
@@ -93,6 +93,19 @@ The prediction is supported only by the TxGNN model score. There are no clinical
 - Preclinical studies (for example, retinal degeneration models) to test the hypothesis
 - A literature and trial search for the predicted indication
 - Assessment of whether an oral antipsychotic is a suitable route and risk profile for a chronic inherited retinal condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

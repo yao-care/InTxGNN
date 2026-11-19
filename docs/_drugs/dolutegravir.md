@@ -56,7 +56,7 @@ There are **0 clinical trials** and **1 publication** (a preclinical study of a 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, dolutegravir belongs to the integrase strand transfer inhibitor class. Its activity in HIV infection is recorded in the knowledge graph, and mechanistically it may be applicable to related lentiviral infections.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for dolutegravir: "Dolutegravir is an HIV-1 antiretroviral agent. […] Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle. Strand transfer biochemical assays using purified HIV-1 integrase and pre-processed substrate DNA resulted in IC 50 values of 2.7 nM and 12.6 nM." ([DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922), label version 2026-08-25; accessed 2026-11-19.) Based on general knowledge, dolutegravir belongs to the integrase strand transfer inhibitor class. Its activity in HIV infection is recorded in the knowledge graph, and mechanistically it may be applicable to related lentiviral infections.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV and has its own integrase enzyme, so inhibition is biologically plausible. However, the one retrieved publication tested a three-drug combination (dolutegravir, tenofovir, emtricitabine) in FIV-infected cats. It does not show what dolutegravir alone contributes. The very high TxGNN score is a computational prediction and probably reflects similarity to HIV.
 
@@ -105,6 +105,19 @@ The only evidence for feline AIDS is a single veterinary study of a combination 
 - Mechanism of action data
 - Package insert warnings and contraindications from the Indian regulatory source
 - A decision on whether the goal is veterinary development or use as a research model, since neither is a human therapeutic pathway
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

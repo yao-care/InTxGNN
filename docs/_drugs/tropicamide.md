@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tropicamide is a topical antimuscarinic (anticholinergic) agent. Pharmacology data show it acts on muscarinic receptors M2, M3, M4 and M5, and its efficacy in cycloplegia and mydriasis is established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for tropicamide: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the ciliary muscle to cholinergic stimulation, dilating the pupil (mydriasis). The stronger preparation (1%) also paralyzes accommodation." ([DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d), label version 2023-02-15; accessed 2026-11-19.) Based on known information, tropicamide is a topical antimuscarinic (anticholinergic) agent. Pharmacology data show it acts on muscarinic receptors M2, M3, M4 and M5, and its efficacy in cycloplegia and mydriasis is established.
 
 The model's link to cauda equina syndrome is probably driven by the shared antimuscarinic drug class and the bladder dysfunction that often follows this condition. Antimuscarinics can reduce detrusor overactivity. However, cauda equina syndrome typically causes an underactive bladder with urinary retention, where anticholinergics would be unhelpful or even harmful.
 
@@ -115,11 +115,12 @@ The predictions for cauda equina syndrome, neurogenic bladder and irritable bowe
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
 
 <!-- review:end log -->
 

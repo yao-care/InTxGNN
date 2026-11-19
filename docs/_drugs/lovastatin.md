@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **cholesterol-ester transfer prot
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, lovastatin belongs to the statin class (HMG-CoA reductase inhibitors), which lowers LDL cholesterol.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for lovastatin: "The mechanism of the LDL-lowering effect of lovastatin may involve both reduction of VLDL-C concentration, and induction of the LDL receptor, leading to reduced production and/or increased catabolism of LDL-C. Apolipoprotein B also falls during treatment with lovastatin. Lovastatin is a specific inhibitor of HMG-CoA reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate." ([DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34), label version 2026-11-13; accessed 2026-11-19.) Based on known information, lovastatin belongs to the statin class (HMG-CoA reductase inhibitors), which lowers LDL cholesterol.
 
 CETP deficiency is a disorder of lipoprotein metabolism, with raised HDL cholesterol and an altered LDL particle profile. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -105,6 +105,19 @@ The prediction score is very high, but it is a model output only. No clinical tr
 - Obtain lovastatin mechanism of action data and check the mechanistic link to CETP deficiency.
 - Obtain the package insert warnings and contraindications from the licence holders in India.
 - Run a targeted search for studies of statins in CETP deficiency or related genetic HDL disorders.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

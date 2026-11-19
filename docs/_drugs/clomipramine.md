@@ -60,7 +60,7 @@ Most of the trials are OCD-focused, so the strongest direct support lies in pani
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, clomipramine is a potent serotonin reuptake inhibitor. Its active metabolite, desmethylclomipramine, adds noradrenergic activity.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for clomipramine: "Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission. The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important." ([DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059), label version 2024-11-26; accessed 2026-11-19.) Based on known pharmacology, clomipramine is a potent serotonin reuptake inhibitor. Its active metabolite, desmethylclomipramine, adds noradrenergic activity.
 
 OCD was historically grouped with anxiety disorders, and serotonergic modulation overlaps with the pathophysiology of panic and other anxiety disorders. Network meta-analyses and the WFSBP guidelines support clomipramine use in panic disorder.
 
@@ -137,6 +137,19 @@ Clomipramine has a long record in panic disorder and agoraphobia, supported by n
 - Confirmation of the approved indications for the registered products
 - Modern randomized trial evidence for the specific anxiety disorder subtype being targeted
 - A safety plan covering cardiac, seizure, anticholinergic and serotonergic risks, the high number of interactions, and CYP2D6/CYP2C19 variability
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

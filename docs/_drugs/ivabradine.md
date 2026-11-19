@@ -54,7 +54,7 @@ Ivabradine is a heart-rate-lowering drug that blocks HCN channels (the If curren
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for ivabradine is not available in the data compiled for this report. Based on known pharmacology, ivabradine inhibits HCN channels (the If current) in the sinoatrial node, which lowers heart rate. Its established use is cardiovascular.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ivabradine: "Corlanor blocks the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel responsible for the cardiac pacemaker I f current, which regulates heart rate. In clinical electrophysiology studies, the cardiac effects were most pronounced in the sinoatrial (SA) node, but prolongation of the AH interval has occurred as has PR interval prolongation." ([DailyMed: Corlanor (ivabradine) prescribing information, Amgen Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92018a65-38f6-45f7-91d4-a34921b81d0d), label version 2026-11-09; accessed 2026-11-19.) Based on known pharmacology, ivabradine inhibits HCN channels (the If current) in the sinoatrial node, which lowers heart rate. Its established use is cardiovascular.
 
 Mechanistically, the link to hypertrichosis is weak. There is no established connection between HCN channel inhibition and hair follicle biology or hair growth regulation. HCN channel expression in hair follicles is not an established pathway. Hypertrichosis is a known adverse effect of some drugs (for example minoxidil), but that is unrelated to HCN inhibition.
 
@@ -114,6 +114,19 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Preclinical evidence of HCN channel involvement in hair follicle biology
 - Evidence of route compatibility and similarity to the original indication
 - An approved-indication statement for the India licenses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for ivabradine is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Corlanor (ivabradine) prescribing information, Amgen Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92018a65-38f6-45f7-91d4-a34921b81d0d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

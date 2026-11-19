@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, epinastine is a topical H1 receptor antagonist with mast cell stabilising activity. Its efficacy in allergic conjunctivitis is established, and it may be mechanistically applicable to other inflammatory conditions of the ocular surface.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for epinastine: "Epinastine is a topically active, direct H 1 -receptor antagonist and an inhibitor of the release of histamine from the mast cell. Epinastine is selective for the histamine H 1 -receptor and has affinity for the histamine H 2 -receptor." ([DailyMed: epinastine hydrochloride prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4ee45c-e58f-4b7c-b389-898f5c27f54d), label version 2025-03-22; accessed 2026-11-19.) Based on known information, epinastine is a topical H1 receptor antagonist with mast cell stabilising activity. Its efficacy in allergic conjunctivitis is established, and it may be mechanistically applicable to other inflammatory conditions of the ocular surface.
 
 The link to rosacea conjunctivitis is only a partial fit. Epinastine could relieve itching and surface inflammation. However, ocular disease in rosacea is driven mainly by meibomian gland dysfunction, eyelid inflammation, and microbial or Demodex factors, rather than classic IgE-mediated histamine release. The very high model score (0.9957) therefore cannot be confirmed mechanistically at this stage.
 
@@ -98,6 +98,19 @@ The prediction is supported only by the model score. No trials or literature wer
 - Package insert warnings and contraindications for the marketed Indian products, to complete safety screening
 - Approved indication text for the Indian registrations
 - If the hypothesis still looks credible, a small exploratory study that measures symptoms such as itching and eyelid inflammation
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: epinastine hydrochloride prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4ee45c-e58f-4b7c-b389-898f5c27f54d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

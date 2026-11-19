@@ -60,7 +60,7 @@ but currently **no clinical trials and no publications** support this direction.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, quinidine is a class Ia antiarrhythmic that blocks sodium and potassium channels and also has anticholinergic and antimalarial activity. Its efficacy in atrial fibrillation and malaria is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for quinidine: "In patients with malaria, quinidine acts primarily as an intra-erythrocytic schizonticide, with little effect upon sporozites or upon pre-erythrocytic parasites. Quinidine is gametocidal to Plasmodium vivax and P. malariae, but not to P. falciparum." ([DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f), label version 2024-08-27; accessed 2026-11-19.) Based on general pharmacology, quinidine is a class Ia antiarrhythmic that blocks sodium and potassium channels and also has anticholinergic and antimalarial activity. Its efficacy in atrial fibrillation and malaria is established.
 
 NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause inappropriate water reabsorption in the renal collecting duct even when vasopressin is undetectable. No established mechanism links quinidine to V2 receptor signalling or aquaporin-2 regulation. A speculative route might involve ion-channel modulation in renal tubular cells, but nothing in the available data supports it.
 
@@ -119,6 +119,19 @@ The prediction rests only on a model score, with no clinical, literature or mech
 - The India package insert (warnings and contraindications) for formal safety screening
 - A cardiac and electrolyte safety assessment (QT risk, hyponatraemia) specific to NSIAD patients
 - Comparison against current standard options (fluid restriction, urea, vaptan-class agents)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

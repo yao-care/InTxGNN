@@ -61,7 +61,7 @@ This is a model-generated hypothesis with limited biological support, not a clin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Niclosamide is known as an anthelmintic and is on the WHO List of Essential Medicines. The literature describes it as suppressing mitochondrial oxidative phosphorylation (mitochondrial uncoupling) and modulating several signalling pathways, such as AMPK/mTOR.
+ChEMBL (EMBL-EBI) records the mechanism of action of niclosamide as: DNA inhibitor ([ChEMBL CHEMBL1448 (niclosamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1448), CC BY-SA 3.0; accessed 2026-11-19.) Niclosamide is known as an anthelmintic and is on the WHO List of Essential Medicines. The literature describes it as suppressing mitochondrial oxidative phosphorylation (mitochondrial uncoupling) and modulating several signalling pathways, such as AMPK/mTOR.
 
 Several preclinical findings point to plausible cardiac relevance:
 - In mice with pressure-overload heart failure, niclosamide improved outcomes. The authors link this to enhanced mitochondrial respiration and ATP production in cardiomyocytes (PMID 34736968).
@@ -132,6 +132,19 @@ The high TxGNN score is a model prediction only. There are no clinical trials, a
 - Narrowing "heart disease" to specific conditions (such as heart failure or calcific aortic valve disease) and confirming the preclinical findings in those models
 - Pharmacokinetic and formulation work to achieve adequate systemic exposure
 - A dedicated cardiovascular safety assessment, focused on TMEM16A-mediated vasoconstriction and the Tizanidine interaction
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1448 (niclosamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1448) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Diosmin is a flavonoid venoactive agent, widely marketed in India as a single-in
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge, diosmin is a flavonoid venoactive agent used for chronic venous insufficiency and haemorrhoids. Its proposed effects are on venous tone, capillary permeability, lymphatic drainage and inflammation. These details are background knowledge and are not drawn from the data compiled for this report.
+ChEMBL (EMBL-EBI) records the mechanism of action of diosmin as: Unknown ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; accessed 2026-11-19.) Based on general knowledge, diosmin is a flavonoid venoactive agent used for chronic venous insufficiency and haemorrhoids. Its proposed effects are on venous tone, capillary permeability, lymphatic drainage and inflammation. These details are background knowledge and are not drawn from the data compiled for this report.
 
 No plausible link has been identified between these actions and the hypothalamic-pituitary-ovarian axis, endometrial function, or other drivers of amenorrhea. The India licences list no approved indication text, which further limits inference. Any connection would be speculative, for example through indirect vascular or anti-inflammatory effects. The very high TxGNN score (0.9942) should therefore be read as a model output, not as biological or clinical confirmation.
 
@@ -107,11 +107,12 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
 
 <!-- review:end log -->
 

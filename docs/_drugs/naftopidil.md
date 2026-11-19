@@ -56,7 +56,7 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, naftopidil is an alpha-1 adrenergic receptor antagonist (preferentially alpha-1D) and is marketed for benign prostatic hyperplasia, where it relaxes smooth muscle in the prostate and bladder neck.
+ChEMBL (EMBL-EBI) records the mechanism of action of naftopidil as: Alpha-1d adrenergic receptor antagonist ([ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacological knowledge, naftopidil is an alpha-1 adrenergic receptor antagonist (preferentially alpha-1D) and is marketed for benign prostatic hyperplasia, where it relaxes smooth muscle in the prostate and bladder neck.
 
 The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis linked to chromosome 8q regulatory rearrangements that affect TRPS1 expression. No direct mechanistic connection between alpha-1 adrenergic blockade and this genetic basis is evident. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -91,6 +91,19 @@ The prediction has a very high model score but no clinical trials, no literature
 - Preclinical or case-level evidence supporting any effect on hair growth
 - A clear therapeutic goal for hypertrichosis (reducing versus promoting hair growth)
 - Assessment of route compatibility, since only oral tablets are currently available
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

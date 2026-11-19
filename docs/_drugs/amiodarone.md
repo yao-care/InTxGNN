@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **catecholaminergic polymorphic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, amiodarone blocks several ion channels (potassium, sodium and calcium) and has beta-adrenergic antagonist activity. In theory this could dampen ventricular arrhythmias triggered by adrenergic stress.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for amiodarone: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), label version 2025-11-05; accessed 2026-11-19.) Based on general pharmacology, amiodarone blocks several ion channels (potassium, sodium and calcium) and has beta-adrenergic antagonist activity. In theory this could dampen ventricular arrhythmias triggered by adrenergic stress.
 
 Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a rare inherited arrhythmia syndrome. It is triggered by exercise or emotional stress and is driven by abnormal calcium release inside heart muscle cells (RYR2 or CASQ2 gene variants). The published literature points to beta-blockers and flecainide as the effective drugs. Amiodarone is not an established therapy for CPVT, so the mechanistic link is plausible but weak, and the high model score is not backed by direct clinical evidence.
 
@@ -108,6 +108,18 @@ No trials exist and no study directly tests amiodarone in CPVT, so the evidence 
 - Mechanism of action data and the local package insert warnings and contraindications
 - Preclinical or clinical data comparing amiodarone with beta-blockers and flecainide in CPVT
 - A safety assessment for young patients, who make up most CPVT cases, covering thyroid, liver, lung and proarrhythmia risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

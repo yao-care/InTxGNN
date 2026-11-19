@@ -56,7 +56,7 @@ with **no registered clinical trials** and **2 publications** (1979 and 1983) cu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, chlormezanone is a centrally acting anxiolytic and muscle relaxant of the thiazinone class. Its efficacy in anxiety is the basis of its original use, and its sedative effects plausibly relate to central nervous system depression, which could improve sleep onset. This mechanistic link is inferred and is not supported by mechanistic data.
+ChEMBL (EMBL-EBI) records the mechanism of action of chlormezanone as: Unknown ([ChEMBL CHEMBL1200714 (chlormezanone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200714), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, chlormezanone is a centrally acting anxiolytic and muscle relaxant of the thiazinone class. Its efficacy in anxiety is the basis of its original use, and its sedative effects plausibly relate to central nervous system depression, which could improve sleep onset. This mechanistic link is inferred and is not supported by mechanistic data.
 
 Anxiety and insomnia often occur together, and calming agents can help with both. The two available publications, however, studied sleep disturbance caused by rheumatic stiffness or arthritis. The benefit may therefore be indirect, through relief of muscle tension or musculoskeletal discomfort, rather than a primary sleep-inducing action.
 
@@ -96,6 +96,19 @@ The evidence is limited to two small, older studies (1979 and 1983) in patients 
 - Mechanism of action data, for example from DrugBank, to test the proposed link to sleep.
 - Controlled trials in insomnia that is not secondary to rheumatic disease.
 - A review of the sedation-related interaction risks, especially with opioids, alcohol, and sedating antihistamines.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1200714 (chlormezanone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200714) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

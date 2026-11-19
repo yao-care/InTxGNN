@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, teneligliptin targets dipeptidyl peptidase 4 (DPP4) and also acts on the related enzymes DPP8 and DPP9. Its efficacy in type 2 diabetes is established, and it is approved for that use in Japan and South Korea.
+ChEMBL (EMBL-EBI) records the mechanism of action of teneligliptin as: Dipeptidyl peptidase IV inhibitor ([ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, teneligliptin targets dipeptidyl peptidase 4 (DPP4) and also acts on the related enzymes DPP8 and DPP9. Its efficacy in type 2 diabetes is established, and it is approved for that use in Japan and South Korea.
 
 Opsismodysplasia is a rare skeletal dysplasia caused by INPPL1 (SHIP2) mutations, which affect PI3K/AKT signaling and endochondral ossification. No direct mechanistic link between DPP-4 inhibition and this pathway has been established. The high TxGNN score (0.994) is a computational association only, and the missing mechanism-of-action data further limits mechanistic reasoning.
 
@@ -100,6 +100,19 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Package insert warnings and contraindications from the India regulatory source, which are needed for safety screening
 - Preclinical or mechanistic studies testing whether DPP-4 inhibition affects INPPL1/SHIP2-related PI3K/AKT signaling or endochondral ossification
 - Assessment of route compatibility and similarity to the original indication, both still pending
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

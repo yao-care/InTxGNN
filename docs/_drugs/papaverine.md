@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **ischemic disease**, but suppo
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, papaverine is a non-selective phosphodiesterase inhibitor that relaxes vascular smooth muscle. This is consistent with a benefit in ischemic states caused by vasospasm.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for papaverine: "Papaverine Hydrochloride apparently acts directly on the muscle itself. This relaxation is noted in the vascular system and bronchial musculature and in the gastrointestinal, biliary and urinary tracts. The main actions of papaverine are exerted on cardiac and smooth muscle." ([DailyMed: papaverine hydrochloride prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e), label version 2026-07-27; accessed 2026-11-19.) Based on known pharmacology, papaverine is a non-selective phosphodiesterase inhibitor that relaxes vascular smooth muscle. This is consistent with a benefit in ischemic states caused by vasospasm.
 
 Its original indications (peripheral vascular disease, cerebral ischemia, TIA) already sit within the broader category of ischemic disease, so the prediction is a natural extension. The literature shows papaverine used in mesenteric ischemia, spinal cord ischemia, renal artery vasospasm and intracoronary flow-reserve measurement. These are mainly diagnostic or adjunct uses, not controlled efficacy trials.
 
@@ -115,6 +115,19 @@ The TxGNN score is high (0.9991), and the vasodilator mechanism is plausible for
 - Review controlled efficacy data for papaverine in the chosen subtype. Raynaud disease and cerebral vasospasm are the more mechanistically plausible candidates.
 - Assess route and dose compatibility, since all marketed Indian products are injections.
 - Develop a cardiac and drug-interaction risk management plan.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: papaverine hydrochloride prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

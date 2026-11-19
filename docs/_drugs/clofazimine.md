@@ -60,7 +60,7 @@ This prediction rests on the model alone and should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, clofazimine is a long-established antimycobacterial agent used in multidrug leprosy therapy, and its efficacy in leprosy is established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for clofazimine: "LAMPRENE is an anti-mycobacterial drug. […] Clofazimine exerts a slow bactericidal effect on Mycobacterium leprae (Hansen’s bacillus). Clofazimine inhibits mycobacterial growth and binds preferentially to mycobacterial DNA. Clofazimine also exerts anti-inflammatory properties in treating erythema nodosum leprosum reactions." ([DailyMed: Lamprene (clofazimine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07448f-f888-4747-80ab-570c1b621250), label version 2026-08-17; accessed 2026-11-19.) Based on known information, clofazimine is a long-established antimycobacterial agent used in multidrug leprosy therapy, and its efficacy in leprosy is established.
 
 No credible mechanistic link to Pneumocystis has been established. The three papers retrieved concern opportunistic infections in AIDS in general, clofazimine as prophylaxis against *Mycobacterium avium* complex (MAC), and a case report of *M. kansasii* infection that was complicated by *Pneumocystis* pneumonia. In these papers, Pneumocystis is a co-occurring condition in people with AIDS, not a target of clofazimine.
 
@@ -129,6 +129,19 @@ The prediction score is very high, but there are no clinical trials and no liter
 
 - **Malaria (score 0.9960, Evidence Level L4, Research Question):** Only indirect preclinical support exists, such as in vitro antiplasmodial activity of clofazimine analogues (PMID 29026393). The other retrieved papers concern tuberculosis regimens or unrelated compounds. No malaria trials are registered.
 - **Gastrin secretion abnormality (score 0.9960, Evidence Level L5, Hold):** No trials or literature are available, so the prediction is entirely unsupported.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lamprene (clofazimine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07448f-f888-4747-80ab-570c1b621250) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

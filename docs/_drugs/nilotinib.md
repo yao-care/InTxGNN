@@ -56,7 +56,7 @@ The prediction is mechanistically plausible but remains at the research-question
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for nilotinib is not available in the data compiled for this report. Based on general knowledge, nilotinib is a tyrosine kinase inhibitor that blocks BCR-ABL1, and it also inhibits PDGFR, KIT and DDR kinases.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for nilotinib: "Nilotinib is an inhibitor of the BCR-ABL kinase. Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein. In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML." ([DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc), label version 2026-07-20; accessed 2026-11-19.) Based on general knowledge, nilotinib is a tyrosine kinase inhibitor that blocks BCR-ABL1, and it also inhibits PDGFR, KIT and DDR kinases.
 
 DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib can inhibit PDGFR, there is a plausible mechanistic link between its activity in leukemia (kinase inhibition) and the growth signal that drives DFSP. The very high TxGNN score (0.9931) is consistent with this biology.
 
@@ -121,6 +121,19 @@ The PDGFR-driven biology of DFSP gives a plausible mechanistic link and the TxGN
 - Mechanism of action data (MOA) confirmed from a primary source
 - Package insert warnings and contraindications for the India-marketed Tasigna products, plus their approved indication text
 - A safety plan covering QT monitoring, and review of the major drug interactions listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data for nilotinib is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Misoprostol is a prostaglandin E1 analog marketed in India as 20 single-ingredie
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, misoprostol is a prostaglandin E1 analog that induces uterine contraction and cervical ripening. Its established uses are in pregnancy termination, missed abortion and uterine evacuation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for diclofenac sodium and misoprostol (a combination product containing misoprostol): "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory." ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), label version 2026-08-31; accessed 2026-11-19.) Based on known information, misoprostol is a prostaglandin E1 analog that induces uterine contraction and cervical ripening. Its established uses are in pregnancy termination, missed abortion and uterine evacuation.
 
 The retrieved literature concerns misoprostol, usually combined with mifepristone, for early medical abortion and prevention of unintended pregnancy. In those studies "amenorrhea" is only an inclusion criterion (gestation of ≤35 days of amenorrhea), and the outcome is restored menses or termination of pregnancy. None of it shows that misoprostol treats amenorrhea as a disease.
 
@@ -121,6 +121,19 @@ No clinical trials exist, and the literature describes pregnancy termination, no
 - Detailed mechanism of action data
 - Targeted literature on misoprostol for a specific amenorrhea setting (for example, intrauterine adhesions or retained tissue), with controlled clinical data
 - A pregnancy-exclusion and safety plan before any clinical use in women of reproductive age
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

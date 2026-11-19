@@ -56,7 +56,7 @@ Note: the license records contain no approved-indication text. Degarelix is gene
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, degarelix is a GnRH receptor antagonist. It suppresses LH and FSH and thereby lowers gonadal androgen production.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for degarelix: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), label version 2024-01-30; accessed 2026-11-19.) Based on known pharmacology, degarelix is a GnRH receptor antagonist. It suppresses LH and FSH and thereby lowers gonadal androgen production.
 
 The link to hypertrichosis is weak. Hypertrichosis is generally non-androgen-dependent hair overgrowth, so suppressing androgens has no clear mechanistic rationale. The very high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and is not backed by any clinical or literature evidence. It may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -120,6 +120,19 @@ All ten predictions are supported only by the TxGNN model (deep learning) score,
 - Approved indication text for the India registrations, to confirm the original indication
 - For central precocious puberty, a focused literature and trial search, plus an assessment of pediatric safety and of advantages over GnRH agonists
 - A QT-risk review, given the knowledge-graph contraindication signals and the major QT-related interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

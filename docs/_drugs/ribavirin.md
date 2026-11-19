@@ -58,7 +58,7 @@ The data compiled for this report include **15 clinical trials** and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Ribavirin is a nucleoside analogue with broad antiviral activity, generally described as depleting intracellular guanosine pools and modulating immune responses. Its efficacy in hepatitis C, always combined with interferon, is well established.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for ribavirin: "Ribavirin is an antiviral drug. […] The mechanism by which ribavirin contributes to its antiviral efficacy in the clinic is not fully understood. Ribavirin has direct antiviral activity in tissue culture against many RNA viruses. Ribavirin increases the mutation frequency in the genomes of several RNA viruses and ribavirin triphosphate inhibits HCV polymerase in a biochemical reaction." ([DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c), label version 2024-02-06; accessed 2026-11-19.) Ribavirin is a nucleoside analogue with broad antiviral activity, generally described as depleting intracellular guanosine pools and modulating immune responses. Its efficacy in hepatitis C, always combined with interferon, is well established.
 
 Hepatitis B and hepatitis C are both chronic viral liver infections. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mechanistically, the link is weak. Hepatitis B is a DNA virus that replicates through reverse transcription, and ribavirin has no meaningful direct activity against it. Any benefit seen in hepatitis B trials is more plausibly due to the peginterferon partner or to immune modulation. Much of the literature concerns patients co-infected with hepatitis C and B, where ribavirin acts on the hepatitis C component.
 
@@ -126,6 +126,19 @@ Only one completed Phase 3 trial studies ribavirin in hepatitis B, and it tests 
 - Outcome data from the pilot of ribavirin with nucleoside analogues (NCT03759782)
 - Mechanism of action data and package insert warnings and contraindications
 - A safety plan covering haemolysis, anaemia, and cardiovascular and pulmonary risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -54,7 +54,7 @@ Theophylline is a bronchodilator used for airway diseases such as asthma, bronch
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, theophylline is a non-selective phosphodiesterase inhibitor and an adenosine receptor antagonist. Raised cAMP in platelets could in theory reduce platelet aggregation, which gives a plausible but unproven link to thrombosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for theophylline: "Theophylline has two distinct actions in the airways of patients with reversible obstruction: smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects)." ([DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410), label version 2024-07-08; accessed 2026-11-19.) Based on general pharmacology, theophylline is a non-selective phosphodiesterase inhibitor and an adenosine receptor antagonist. Raised cAMP in platelets could in theory reduce platelet aggregation, which gives a plausible but unproven link to thrombosis.
 
 The original use (airway disease) and the predicted use (thrombosis) are not closely related clinically. The prediction rests on a shared pharmacological pathway (cAMP signalling in platelets), not on demonstrated benefit. The retrieved literature does not test theophylline for thrombotic disease. The papers concern ticlopidine pharmacokinetics, platelet biomarker assays, blood-sample processing and a theophylline aptasensor. The high TxGNN score is therefore a computational prediction with no clinical support.
 
@@ -121,6 +121,19 @@ No clinical trial or publication directly studies theophylline in thrombotic dis
 | Acute laryngopharyngitis | 0.9935 | L5 | Hold | No trials or literature |
 
 Because the L3 ratings for nasal cavity disease and tracheal disease were not supported by a study that directly addresses the disease itself in a way that meets the ceiling rule for tracheal disease, tracheal disease is shown here as L5. Nasal cavity disease (allergic rhinitis challenge study) is the most evidence-supported lead and is the best candidate for follow-up.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

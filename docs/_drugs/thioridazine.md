@@ -58,7 +58,7 @@ Thioridazine is a phenothiazine antipsychotic that is marketed in India as singl
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the data compiled for this report. Thioridazine is a phenothiazine antipsychotic. Antipsychotics of this class are known to block dopamine D2 receptors, and this action is mechanistically plausible for antimanic activity.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for thioridazine: "The basic pharmacological activity of thioridazine is similar to that of other phenothiazines, but is associated with minimal extrapyramidal stimulation. However, thioridazine has been shown to prolong the QTc interval in a dose dependent fashion." ([DailyMed: thioridazine hydrochloride prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56b3f4c2-52af-4947-b225-6808ae9f26f5), label version 2026-08-12; accessed 2026-11-19.) Thioridazine is a phenothiazine antipsychotic. Antipsychotics of this class are known to block dopamine D2 receptors, and this action is mechanistically plausible for antimanic activity.
 
 Mania and psychotic illness share dopaminergic features, which is why the prediction is biologically reasonable. A 1980 report with another dopamine blocker (pimozide) described improvement in manic patients similar to that seen with phenothiazines, including thioridazine. This is a comparison reference, not a thioridazine efficacy study.
 
@@ -128,6 +128,19 @@ No study in the data directly examines thioridazine for manic bipolar affective 
 - Detailed mechanism of action data
 - Controlled clinical evidence of thioridazine efficacy in mania, compared with modern standard treatments
 - A QTc and ECG monitoring plan, and an assessment of lithium co-treatment risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: thioridazine hydrochloride prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56b3f4c2-52af-4947-b225-6808ae9f26f5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

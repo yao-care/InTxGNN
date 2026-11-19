@@ -60,7 +60,7 @@ The prediction most likely reflects a drug-harm association and not a therapeuti
 
 ## Why is This Prediction Reasonable?
 
-Chloroprocaine blocks voltage-gated sodium channels, which produces short-acting local anaesthesia. Detailed mechanism of action data from DrugBank is not available in the compiled data, but this class effect is well established.
+Chloroprocaine blocks voltage-gated sodium channels, which produces short-acting local anaesthesia. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for chloroprocaine: "Chloroprocaine, like other local anesthetics, blocks the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers." ([DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9), label version 2022-09-01; accessed 2026-11-19.) This class effect is well established.
 
 On review, the prediction does not appear to be therapeutically reasonable. The literature links chloroprocaine to cauda equina syndrome as a **possible cause**, through neurotoxicity after intrathecal or epidural exposure, particularly with older preservative-containing formulations. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it may therefore capture an adverse-event relationship between the drug and the disease.
 
@@ -120,6 +120,19 @@ The prediction has no clinical trial support and no plausible therapeutic mechan
 - Any preclinical or clinical evidence of therapeutic benefit in cauda equina syndrome, which is not currently available.
 - Package insert warnings and contraindications from the India regulator, and the approved indication text for the licensed product.
 - Mechanism of action data from DrugBank.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data from DrugBank is not available in the compiled data, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nesacaine (chloroprocaine hydrochloride) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a844e68a-1462-40e4-be5e-f56214906eb9) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

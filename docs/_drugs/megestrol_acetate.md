@@ -55,7 +55,7 @@ Evidence for this top prediction is **1 clinical trial** (a completed randomized
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, megestrol acetate is a synthetic progestin. Progestins act through progesterone receptor signaling to induce differentiation and suppress proliferation in hormone-sensitive endometrial tumors.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for megestrol acetate: "Several investigators have reported on the appetite enhancing property of megestrol acetate and its possible use in cachexia. The precise mechanism by which megestrol acetate produces effects in anorexia and cachexia is unknown at the present time." ([DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651), label version 2026-04-14; accessed 2026-11-19.) Based on known information, megestrol acetate is a synthetic progestin. Progestins act through progesterone receptor signaling to induce differentiation and suppress proliferation in hormone-sensitive endometrial tumors.
 
 The predicted indication is the same disease family as the original one. The high score therefore reflects consistency with known use rather than a new therapeutic direction. A randomized Phase 2 trial in advanced or recurrent endometrial carcinoma includes a megestrol acetate (with tamoxifen) hormonal arm, which supports the clinical relevance of this use.
 
@@ -121,6 +121,19 @@ The predicted indication is effectively the drug's original use. A completed ran
 - **Ovarian cancer** (score 0.9971, L1 by trial count): this is a research question rather than a go. The Phase 3 trial (NCT00005975) studied megestrol acetate for hot flashes after breast cancer treatment, not as anti-tumor therapy. Anti-tumor support is limited to older Phase 2 studies of high-dose megestrol acetate in platinum-refractory disease (PMIDs 11593052, 9856656, 3099393).
 - **Uterine carcinosarcoma**: only indirect literature (a hormone receptor expression study and a case report), so it remains a research question.
 - **Other predictions** (endometrial transitional cell carcinoma, hereditary breast ovarian cancer syndrome, borderline ovarian tumor, placenta cancer, ovarian clear cell adenocarcinoma, ovarian dysgerminoma, low-grade uterine neuroendocrine tumor): model prediction only with no clinical evidence, so Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

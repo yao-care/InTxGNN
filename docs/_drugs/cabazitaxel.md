@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled record. Based on known pharmacology, cabazitaxel is a taxane that stabilises microtubules and causes mitotic arrest. The supporting literature describes it as a weaker substrate for the P-glycoprotein efflux pump than paclitaxel and docetaxel, so it may retain activity in taxane-resistant tumours.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for cabazitaxel: "Cabazitaxel is a microtubule inhibitor. Cabazitaxel binds to tubulin and promotes its assembly into microtubules while simultaneously inhibiting disassembly. This leads to the stabilization of microtubules, which results in the inhibition of mitotic and interphase cellular functions." ([DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa), label version 2025-10-07; accessed 2026-11-19.) Based on known pharmacology, cabazitaxel is a taxane that stabilises microtubules and causes mitotic arrest. The supporting literature describes it as a weaker substrate for the P-glycoprotein efflux pump than paclitaxel and docetaxel, so it may retain activity in taxane-resistant tumours.
 
 Taxanes (paclitaxel, docetaxel) are already established in breast cancer treatment. A drug of the same class that is less affected by efflux-mediated resistance is a plausible candidate for breast cancer, especially after prior taxane exposure.
 
@@ -131,6 +131,19 @@ The prediction is mechanistically plausible and one randomised Phase II study ex
 - A safety and monitoring plan for myelosuppression, hepatic impairment and interacting drugs (especially CYP3A-related interactions)
 
 The other predicted indications (sickle cell syndromes, HIV, hyperthyroidism, neuroblastoma, rheumatoid arthritis) have no trials or literature in the data and no evident mechanistic rationale, so they are not recommended for further evaluation at this stage.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled record" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

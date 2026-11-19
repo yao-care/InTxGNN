@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **insomnia**, but there are **n
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, chlordiazepoxide is a benzodiazepine that enhances GABA-A receptor signalling. Its efficacy in anxiety and alcohol withdrawal is long established, and mechanistically it may be applicable to sleep problems.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for chlordiazepoxide: "Chlordiazepoxide HCl has antianxiety, sedative, appetite-stimulating and weak analgesic actions. The precise mechanism of action is not known. The drug blocks EEG arousal from stimulation of the brain stem reticular formation." ([DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937), label version 2026-11-05; accessed 2026-11-19.) Based on known information, chlordiazepoxide is a benzodiazepine that enhances GABA-A receptor signalling. Its efficacy in anxiety and alcohol withdrawal is long established, and mechanistically it may be applicable to sleep problems.
 
 Sedation from GABA-A modulation can plausibly shorten the time to fall asleep, which links the original anxiolytic use to insomnia. However, chlordiazepoxide is not approved as a hypnotic. It is long-acting with active metabolites, so it can accumulate and cause next-day sedation, particularly in older adults. The retrieved literature is mostly general benzodiazepine reviews, pharmacokinetics, and older anxiety studies, not insomnia-specific trials of chlordiazepoxide.
 
@@ -115,6 +115,19 @@ The prediction score is very high, but no clinical trials exist and the literatu
 - Package insert warnings and contraindications from the India regulatory source (currently missing, which blocks safety screening)
 - Insomnia-specific controlled trials of chlordiazepoxide, or a comparison with approved hypnotics
 - A safety plan for older adults and for dependence and abuse risk
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chlordiazepoxide hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cbd7cee-c4d7-4c95-93d8-09428169b937) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

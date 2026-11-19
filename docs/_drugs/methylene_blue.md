@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but **no clinic
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Methylene blue is generally known as a redox agent that also inhibits nitric oxide synthase and guanylate cyclase. In theory, this could affect airway inflammation or smooth muscle tone.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for methylene blue: "Methylene blue is a water soluble thiazine dye that promotes a non-enyzmatic redox conversion of metHb to hemoglobin. In situ, methylene blue is first converted to leucomethylene blue (LMB) via NADPH reductase. It is the LMB molecule which then reduces the ferric iron of metHb to the ferrous state of normal hemoglobin." ([DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232), label version 2025-05-28; accessed 2026-11-19.) Methylene blue is generally known as a redox agent that also inhibits nitric oxide synthase and guanylate cyclase. In theory, this could affect airway inflammation or smooth muscle tone.
 
 Its original indication, methemoglobinemia, is a blood disorder. Bronchitis is an inflammatory airway disease, so the two conditions are not obviously related. None of the retrieved literature tests the airway-related mechanism.
 
@@ -124,6 +124,19 @@ The bronchitis prediction has a very high model score but no clinical trials, no
 - Any clinical or in vivo studies of methylene blue as a treatment (not a stain) in bronchitis
 - Package insert warnings and contraindications from the India regulatory source
 - A safety plan covering G6PD screening and serotonergic drug interactions, and a route and formulation assessment, since only injectable forms are marketed
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

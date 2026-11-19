@@ -57,7 +57,7 @@ with **1 completed Phase 2 clinical trial (452 participants)** and a small body 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, eslicarbazepine (via its active metabolite S-licarbazepine) is a voltage-gated sodium channel blocker. Its efficacy in epilepsy is established, and mechanistically it may be applicable to migraine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eslicarbazepine: "APTIOM is extensively converted to eslicarbazepine, which is considered to be responsible for therapeutic effects in humans. The precise mechanism(s) by which eslicarbazepine exerts anticonvulsant activity is unknown but is thought to involve inhibition of voltage-gated sodium channels." ([DailyMed: Aptiom (eslicarbazepine acetate) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d0c9554-eaeb-4694-8089-00133fcadce3), label version 2023-11-10; accessed 2026-11-19.) Based on known pharmacology, eslicarbazepine (via its active metabolite S-licarbazepine) is a voltage-gated sodium channel blocker. Its efficacy in epilepsy is established, and mechanistically it may be applicable to migraine.
 
 Other antiseizure drugs that modulate neuronal excitability, such as topiramate and valproate, are used for migraine prevention. Reducing neuronal hyperexcitability and cortical spreading depression is therefore a plausible way for eslicarbazepine to work in migraine.
 
@@ -121,6 +121,19 @@ The only direct evidence for migraine is one completed Phase 2 trial (n=452) who
 - Obtain the Indian package insert (warnings, contraindications, approved indications)
 - Obtain mechanism of action data from DrugBank to support the mechanistic-link analysis
 - If the Phase 2 result is positive, plan confirmatory Phase 3 evidence and a review of the drug interaction profile (particularly CNS depressants and opioids)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aptiom (eslicarbazepine acetate) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d0c9554-eaeb-4694-8089-00133fcadce3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ketoprofen is an NSAID that inhibits cyclooxygenase (COX) enzymes and reduces prostaglandin-mediated inflammation and pain. Its efficacy in arthritis conditions is established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ketoprofen: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), label version 2026-01-07; accessed 2026-11-19.) Based on known information, ketoprofen is an NSAID that inhibits cyclooxygenase (COX) enzymes and reduces prostaglandin-mediated inflammation and pain. Its efficacy in arthritis conditions is established.
 
 For the top-ranked prediction, the mechanistic link is **not supported**. Acromesomelic dysplasia, Hunter-Thompson type is a skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5. COX inhibition is not expected to correct this genetic defect. The very high TxGNN score (0.9998) is a model output only, with no trial or literature backing.
 
@@ -97,6 +97,19 @@ The prediction rests solely on a model score, with no clinical trials or literat
 - Package insert warnings and contraindications for the Indian market
 - A dedicated literature and trial search for the more plausible candidates, especially spondyloarthropathy and LACC1-related juvenile arthritis, which are better suited as research questions than the top-ranked prediction
 - Confirmation of the approved indications in the India licence records
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

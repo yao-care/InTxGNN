@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **gastric ulcer**, but the support
 
 ## Why is This Prediction Reasonable?
 
-Metoclopramide is a dopamine D2 antagonist and 5-HT4 agonist. It speeds gastric emptying and improves upper gastrointestinal motility. (Detailed mechanism-of-action data were not available in the data compiled for this report; this description comes from the mechanistic analysis of the predicted indication.)
+Metoclopramide is a dopamine D2 antagonist and 5-HT4 agonist. It speeds gastric emptying and improves upper gastrointestinal motility. According to the Mechanism of Action section of the US FDA-approved prescribing information for metoclopramide: "Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. The exact mechanism of action of metoclopramide in the treatment of gastroesophageal reflux and acute and recurrent diabetic gastroparesis has not been fully established." ([DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397), label version 2026-02-09; accessed 2026-11-19.)
 
 Its approved use in reflux disease relies on this prokinetic effect. In gastric ulcer, the same effect may ease symptoms that often accompany the disease, such as delayed gastric emptying, reflux and nausea. However, metoclopramide does not reduce acid secretion, eradicate *H. pylori* or promote mucosal healing, which are the core ways ulcers are treated. The link to ulcer treatment is therefore symptomatic and adjunctive, not disease-modifying.
 
@@ -145,6 +145,19 @@ The prediction rests on model similarity rather than clinical evidence (evidence
 - Detailed mechanism-of-action data
 - A safety plan covering neurological risks (tardive dyskinesia, extrapyramidal effects) and the major interactions with tramadol and amisulpride
 - Reframing or dropping the lowest-support predictions (peptic ulcer perforation, gastrojejunal ulcer)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "(Detailed mechanism-of-action data were not available in the data compiled for this report; this description comes from the mechanistic analysis of the predicted indication.)" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

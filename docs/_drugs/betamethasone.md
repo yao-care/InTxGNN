@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **alopecia mucinosa**, but ther
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for this report. Betamethasone belongs to the glucocorticoid class, whose members suppress inflammatory signalling and immune cell activity.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for betamethasone: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown." ([DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66), label version 2026-04-22; accessed 2026-11-19.) Betamethasone belongs to the glucocorticoid class, whose members suppress inflammatory signalling and immune cell activity.
 
 Alopecia mucinosa (follicular mucinosis) involves perifollicular inflammation and mucin deposition in hair follicles. An anti-inflammatory corticosteroid is therefore a plausible fit mechanistically. However, the link rests on general pharmacological reasoning. The only supporting publication is a 1964 case series, and no modern data exist.
 
@@ -102,6 +102,18 @@ The prediction score is high, but the only evidence is a 1964 case series with n
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the local regulator
 - A safety plan covering the interaction and contraindication findings above, especially for long-term or systemic use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

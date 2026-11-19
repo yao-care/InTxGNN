@@ -56,7 +56,7 @@ but there are currently **no registered clinical trials** and only **1 loosely r
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, carisoprodol is a centrally acting muscle relaxant. Its active metabolite, meprobamate, modulates GABA-A receptors and has sedative and anxiolytic properties.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for carisoprodol: "The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been clearly identified. In animal studies, muscle relaxation induced by carisoprodol is associated with altered interneuronal activity in the spinal cord and in the descending reticular formation of the brain." ([DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa), label version 2026-11-03; accessed 2026-11-19.) Based on general pharmacological knowledge, carisoprodol is a centrally acting muscle relaxant. Its active metabolite, meprobamate, modulates GABA-A receptors and has sedative and anxiolytic properties.
 
 This sedative profile could plausibly be relevant to insomnia. However, this is background pharmacology and is not supported by the evidence compiled here. The high TxGNN score (0.9902) is a computational prediction only and does not confirm clinical benefit.
 
@@ -117,6 +117,19 @@ The prediction is supported only by a computational score (Evidence Level L5). T
 - Mechanism of action data (for example, from DrugBank) to support a mechanistic link to insomnia
 - Clinical or observational evidence on carisoprodol or meprobamate for insomnia
 - A risk assessment for abuse, dependence and co-prescribed CNS depressants in the insomnia population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

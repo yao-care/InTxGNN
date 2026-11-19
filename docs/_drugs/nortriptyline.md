@@ -56,7 +56,7 @@ Currently there are **no registered clinical trials**, but **15 publications** w
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known class pharmacology, nortriptyline is a tricyclic antidepressant that mainly inhibits norepinephrine reuptake, with weaker serotonin reuptake inhibition. A PET study in patients with depression (PMID 24345533) also examined norepinephrine transporter occupancy by nortriptyline.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for nortriptyline: "The mechanism of mood elevation by tricyclic antidepressants is at present unknown. Pamelor is not a monoamine oxidase inhibitor. It inhibits the activity of such diverse agents as histamine, 5-hydroxytryptamine, and acetylcholine." ([DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb), label version 2024-12-04; accessed 2026-11-19.) Based on known class pharmacology, nortriptyline is a tricyclic antidepressant that mainly inhibits norepinephrine reuptake, with weaker serotonin reuptake inhibition. A PET study in patients with depression (PMID 24345533) also examined norepinephrine transporter occupancy by nortriptyline.
 
 Noradrenergic enhancement in prefrontal circuits is the shared mechanism of approved non-stimulant ADHD drugs such as atomoxetine. A review of non-stimulant ADHD treatments (PMID 15064003) notes that these compounds share noradrenergic/dopaminergic activity. It also identifies the secondary-amine tricyclics, including nortriptyline, as established alternative treatments.
 
@@ -122,6 +122,19 @@ The evidence rests on one controlled trial (PMID 11052409), a Cochrane review of
 - Cardiac screening plan (baseline and follow-up ECG) and exclusion of patients with the contraindicated conditions listed above
 - Interaction management plan, especially for CYP2D6 inhibitors and QT-prolonging drugs
 - Confirmation of efficacy in adults, and of the practical role of nortriptyline relative to approved non-stimulants such as atomoxetine
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pamelor (nortriptyline hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e17dc299-f52d-414d-ab6e-e809bd6f8acb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

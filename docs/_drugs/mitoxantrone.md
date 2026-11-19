@@ -58,7 +58,7 @@ Note: Other predictions are far better supported. Head and neck cancer is rated 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, mitoxantrone is an anthraquinone antineoplastic agent with a mechanism similar to the anthracyclines. It acts as a topoisomerase II inhibitor and DNA intercalator, and it is used in acute leukemias.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mitoxantrone: "Mitoxantrone, a DNA-reactive agent that intercalates into deoxyribonucleic acid (DNA) through hydrogen bonding, causes crosslinks and strand breaks. Mitoxantrone also interferes with ribonucleic acid (RNA) and is a potent inhibitor of topoisomerase II, an enzyme responsible for uncoiling and repairing damaged DNA." ([DailyMed: mitoxantrone prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1634528a-30c5-4309-acc8-4c0293ae14ae), label version 2026-09-01; accessed 2026-11-19.) Based on the literature, mitoxantrone is an anthraquinone antineoplastic agent with a mechanism similar to the anthracyclines. It acts as a topoisomerase II inhibitor and DNA intercalator, and it is used in acute leukemias.
 
 Upper aerodigestive tract tumors (head, neck, nasopharynx, salivary gland) are chemosensitive solid tumors, so a cytotoxic DNA-damaging agent is mechanistically plausible. Older phase II studies in head and neck cancer (including nasopharyngeal carcinoma, adenoid cystic carcinoma, and salivary gland malignancy with cisplatin) reported limited single-agent activity. A high TxGNN score alone does not substitute for clinical evidence, and no registered trials are mapped to this broad category. Its evidence overlaps with the head and neck cancer entry below.
 
@@ -130,6 +130,19 @@ The top-ranked prediction has no registered trials and only older, mostly negati
 - Defined sub-indications (for example nasopharyngeal carcinoma) in place of the broad "upper aerodigestive tract neoplasm" category, with a review of overlap with the head and neck cancer entry
 - A decision on whether conventional mitoxantrone injection or a liposomal formulation is the relevant product
 - A hematologic and cardiac safety monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mitoxantrone prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1634528a-30c5-4309-acc8-4c0293ae14ae) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

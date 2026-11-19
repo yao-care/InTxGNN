@@ -60,7 +60,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting any 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, flavoxate relaxes smooth muscle through antimuscarinic, phosphodiesterase-inhibiting and calcium-modulating effects, acting mainly on the urinary tract.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for flavoxate: "Flavoxate hydrochloride counteracts smooth muscle spasm of the urinary tract and exerts its effect directly on the muscle. In a single study of 11 normal male subjects, the time to onset of action was 55 minutes." ([DailyMed: flavoxate hydrochloride prescribing information, PuraCap Laboratories LLC dba Blu Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88), label version 2025-12-11; accessed 2026-11-19.) Based on known pharmacology, flavoxate relaxes smooth muscle through antimuscarinic, phosphodiesterase-inhibiting and calcium-modulating effects, acting mainly on the urinary tract.
 
 **Neurogenic bladder (most plausible).** Flavoxate relaxes detrusor smooth muscle and is already used for urgency, frequency and bladder spasm. Neurogenic bladder with detrusor overactivity shares these symptoms. The ontology term is flagged obsolete and should be mapped to a current term (for example, neurogenic detrusor overactivity) before further assessment. Urinary retention risk in neurogenic bladder also needs evaluation.
 
@@ -113,6 +113,19 @@ All predictions are supported by model scores only, with no clinical trials or l
 - Assessment of urinary retention risk in neurogenic bladder
 - Targeted literature search for flavoxate in IBS and other GI spasm
 - Approved indication text for the Indian licenses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: flavoxate hydrochloride prescribing information, PuraCap Laboratories LLC dba Blu Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6a06eda-2480-4c0d-8d1e-9e3e89d3ee88) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but currently **no clinical trials and no publications** support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, astemizole is a second-generation H1-receptor antagonist. Its efficacy in allergic and atopic conjunctivitis (including vernal and papillary forms) is established, and by blocking histamine it may mechanistically reduce histamine-mediated inflammation of the ocular surface in rosacea conjunctivitis.
+ChEMBL (EMBL-EBI) records the mechanism of action of astemizole as: Histamine H1 receptor antagonist ([ChEMBL CHEMBL296419 (astemizole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL296419), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, astemizole is a second-generation H1-receptor antagonist. Its efficacy in allergic and atopic conjunctivitis (including vernal and papillary forms) is established, and by blocking histamine it may mechanistically reduce histamine-mediated inflammation of the ocular surface in rosacea conjunctivitis.
 
 This link is weak, however. Ocular rosacea is driven mainly by meibomian gland dysfunction, tear film instability, microbial and Demodex factors, and innate immune activation. Histamine plays only a minor role. The very high TxGNN score (0.9978) most likely reflects network proximity to astemizole's existing conjunctivitis indications rather than an independent mechanistic signal. Because the mechanism data is missing, the link is inferred from the drug class only.
 
@@ -110,6 +110,19 @@ The prediction has no supporting clinical trials or literature (Evidence Level L
 - Preclinical or clinical evidence that H1 blockade benefits ocular rosacea
 - A comparison against existing safer antihistamines and standard ocular rosacea therapies
 - A cardiac safety risk-benefit assessment, including a route-compatibility check (for example, whether a topical ocular formulation could limit systemic exposure)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL296419 (astemizole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL296419) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

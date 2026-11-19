@@ -56,7 +56,7 @@ The prediction rests on the model score alone, and the available data point to a
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, pentosan polysulfate is a heparin-like sulfated polysaccharide with weak anticoagulant activity. It is established in interstitial cystitis, but no mechanism has been verified that would apply to a platelet disorder.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for pentosan polysulfate: "The mechanism of action of pentosan polysulfate sodium in interstitial cystitis is not known." ([DailyMed: Elmiron (pentosan polysulfate sodium) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ba651e-3d8a-11df-8fbe-119855d89593), label version 2024-09-18; accessed 2026-11-19.) Based on known information, pentosan polysulfate is a heparin-like sulfated polysaccharide with weak anticoagulant activity. It is established in interstitial cystitis, but no mechanism has been verified that would apply to a platelet disorder.
 
 The connection to the new indication is weak. A platelet release (secretion) defect involves impaired granule release by platelets. A drug with anticoagulant properties would be expected to worsen, not improve, a bleeding tendency. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -105,6 +105,19 @@ The prediction is supported only by a model score (Evidence Level L5), with no t
 - Mechanism of action data (e.g., from DrugBank)
 - Preclinical validation, such as platelet function and VWF/GPIb binding assays, particularly for pseudo-von Willebrand disease
 - A review of whether the prediction only reflects similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence, before any clinical consideration
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Elmiron (pentosan polysulfate sodium) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ba651e-3d8a-11df-8fbe-119855d89593) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

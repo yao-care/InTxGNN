@@ -71,7 +71,7 @@ Other predicted indications from the same analysis:
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for fosphenytoin is not available in the data compiled for this report. Based on known information, fosphenytoin is a prodrug of phenytoin, a voltage-gated sodium channel blocker used for seizure control. Its efficacy in epilepsy and status epilepticus is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fosphenytoin: "Fosphenytoin is a prodrug of phenytoin and accordingly, its anticonvulsant effects are attributable to phenytoin. The precise mechanism by which phenytoin exerts its therapeutic effect has not been established but is thought to involve the voltage-dependent blockade of membrane sodium channels resulting in a reduction in sustained high-frequency neuronal discharges." ([DailyMed: Cerebyx (fosphenytoin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4c36fad-0ba2-4cd4-9c5e-dcf843f38a5a), label version 2025-08-28; accessed 2026-11-19.) Based on known information, fosphenytoin is a prodrug of phenytoin, a voltage-gated sodium channel blocker used for seizure control. Its efficacy in epilepsy and status epilepticus is established.
 
 For the top-ranked prediction, **conjunctivitis**, no clear mechanistic link was identified. Systemic sodium channel blockade has no established role in infectious or allergic conjunctivitis. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be read with caution.
 
@@ -144,6 +144,19 @@ The top-ranked prediction (conjunctivitis) has no clinical trials, no literature
 - Full-text review of PMID 12716241 to confirm study design, size and outcomes
 - Preclinical or clinical evidence for any candidate indication, with route-compatibility assessment (all marketed products are injectables)
 - A cardiovascular and haematological safety plan, given the infusion-related cardiac risks and the number of flagged interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data for fosphenytoin is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cerebyx (fosphenytoin sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d4c36fad-0ba2-4cd4-9c5e-dcf843f38a5a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

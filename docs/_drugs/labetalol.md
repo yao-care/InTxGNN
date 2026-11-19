@@ -55,10 +55,9 @@ but there are currently **no registered clinical trials** and only **1 publicati
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, labetalol combines alpha-1 and non-selective beta-adrenergic blockade, and its efficacy in hypertension and hypertensive emergencies is established. Mechanistically, it may be applicable to malignant renovascular hypertension.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for labetalol: "Labetalol has both competitive alpha1-adrenergic blocking and competitive beta-adrenergic blocking activity. In man, the ratio of alpha- to beta-blockade has been estimated to be approximately 1:7 following intravenous administration." ([DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55), label version 2025-12-19; accessed 2026-11-19.) Based on known information, labetalol combines alpha-1 and non-selective beta-adrenergic blockade, and its efficacy in hypertension and hypertensive emergencies is established. Mechanistically, it may be applicable to malignant renovascular hypertension.
 
 However, caution is needed. In renovascular disease, blood pressure is driven largely by activation of the renin-angiotensin system, and beta-blockade only partly reduces renin release. This predicted indication is also very close to the drug's existing hypertension use, so it is better viewed as an extension of the current indication than as true repurposing.
-
 
 The other predicted indications are weaker still:
 - **Malignant hypertensive renal disease** (score 0.9908, L5): no trials or literature. Any benefit would come through general blood pressure control rather than a kidney-specific mechanism.
@@ -70,7 +69,6 @@ The other predicted indications are weaker still:
 Currently no related clinical trials registered.
 
 ## Literature Evidence
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -117,6 +115,19 @@ The only support for the top prediction is a single 1981 case report, with no re
 - Controlled clinical evidence in malignant renovascular hypertension, including comparison with renin-angiotensin system–targeted therapy
 - Clarification of whether this indication is a genuine new use or already covered by the existing hypertension label
 - Approved indication text for the India registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Labetalol Hcl In Dextrose (labetalol hydrochloride) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=99a715a0-4579-410c-b102-7ef6fab8db55) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

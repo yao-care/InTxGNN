@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **oral candidiasis**, but the o
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, rifaximin is a non-absorbed oral antibacterial that acts mainly in the gut and alters gut microbiota. Its efficacy in hepatic encephalopathy is the basis of its original use, but its link to oral candidiasis is hard to justify mechanistically.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for rifaximin: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), label version 2025-08-27; accessed 2026-11-19.) Based on known information, rifaximin is a non-absorbed oral antibacterial that acts mainly in the gut and alters gut microbiota. Its efficacy in hepatic encephalopathy is the basis of its original use, but its link to oral candidiasis is hard to justify mechanistically.
 
 The one linked publication (2021) reports that rifaximin use **favoured micafungin-resistant Candida infections** in patients receiving allogeneic hematopoietic cell transplants. This suggests that altering gut microbiota may promote fungal overgrowth, which is opposite to the predicted therapeutic direction. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of a treatment effect.
 
@@ -106,6 +106,19 @@ The prediction rests on a high model score, but the only supporting literature s
 - Approved indication text for the India registrations
 - Prospective or controlled studies showing a therapeutic benefit, not just a risk association
 - Consideration of reframing the hypothesis as a safety question (fungal overgrowth risk with rifaximin use)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

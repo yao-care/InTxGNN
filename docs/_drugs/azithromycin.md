@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syn
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, azithromycin is a macrolide antibiotic, its efficacy in bacterial infections is established, and its antibacterial action does not plausibly address the predicted condition.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for azithromycin: "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit." ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), label version 2026-09-09; accessed 2026-11-19.) Based on known information, azithromycin is a macrolide antibiotic, its efficacy in bacterial infections is established, and its antibacterial action does not plausibly address the predicted condition.
 
 Polyclonal hyperviscosity syndrome is caused by excess circulating immunoglobulins. Nothing in the data compiled for this report links azithromycin to this mechanism. The high score (0.9981) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The evidence supporting it is at the model-prediction level, so it should be treated as a hypothesis rather than a finding.
 
@@ -132,6 +132,19 @@ The 0.9981 TxGNN score for polyclonal hyperviscosity syndrome comes from the TxG
 - Package insert warnings and contraindications from the India regulator, which are currently missing and block safety screening
 - Any experimental or clinical evidence for the predicted indication; otherwise, redirect effort to the sickle cell disease (anti-inflammatory) or plasma cell disorder hypotheses
 - A QT-prolongation and drug-interaction risk assessment if any new indication moves forward
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

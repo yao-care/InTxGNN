@@ -56,7 +56,7 @@ but currently there are **no registered clinical trials** and **no relevant publ
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fosinopril belongs to the ACE inhibitor class, its efficacy in hypertension is established, and it may mechanistically be applicable to malignant hypertensive renal disease.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fosinopril: "In animals and humans, fosinopril sodium is hydrolyzed by esterases to the pharmacologically active form, fosinoprilat, a specific competitive inhibitor of angiotensin-converting enzyme (ACE). ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II." ([DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35), label version 2023-11-27; accessed 2026-11-19.) Based on known information, fosinopril belongs to the ACE inhibitor class, its efficacy in hypertension is established, and it may mechanistically be applicable to malignant hypertensive renal disease.
 
 Malignant hypertensive kidney disease involves severe blood pressure elevation and activation of the renin-angiotensin-aldosterone system (RAAS). Blocking angiotensin-converting enzyme is therefore biologically plausible. However, this prediction is essentially an extension of the approved hypertension indication rather than a true repurposing.
 
@@ -108,6 +108,19 @@ The prediction scores highly in the model (0.9987), but there are no clinical tr
 - A targeted search for clinical studies of ACE inhibitors in malignant hypertension and hypertensive nephropathy
 - Approved indication text for the four marketed products
 - A review of the safety profile in renal impairment and renal artery stenosis, given the long list of kidney-related and other contraindicated conditions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fosinopril Sodium (fosinopril) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fc38f1bb-f175-4a81-8ed9-c8701efdea35) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

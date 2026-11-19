@@ -64,7 +64,7 @@ Aminophylline is a non-selective adenosine receptor antagonist and phosphodieste
 
 A case report also describes a hemiplegic migraine episode triggered by regadenoson, an adenosine A2A receptor agonist. This supports the idea that adenosine-pathway activation can provoke migraine, so blocking it could plausibly help.
 
-Detailed mechanism of action data was not available in the compiled data, so the reasoning above is drawn from the literature rather than a curated mechanism record. The link remains hypothesis-level: no trial has tested aminophylline in migraine.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aminophylline: "Theophylline has two distinct actions in the airways of patients with reversible obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., nonbronchodilator prophylactic effects)." ([DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d), label version 2026-05-26; accessed 2026-11-19.) The reasoning above is drawn from the literature rather than a curated mechanism record. The link remains hypothesis-level: no trial has tested aminophylline in migraine.
 
 ---
 
@@ -144,11 +144,12 @@ The prediction score is high, but the only support for migraine is one narrative
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data was not available in the compiled data, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: aminophylline prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52bbc6cd-4baf-7859-e063-6394a90ac87d) |
 
 <!-- review:end log -->
 

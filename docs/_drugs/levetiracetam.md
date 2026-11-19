@@ -54,7 +54,7 @@ Levetiracetam is an antiseizure medication originally used to treat partial (foc
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. From the literature, levetiracetam is known to bind synaptic vesicle protein 2A (SV2A) and reduce neurotransmitter release, which dampens neuronal hyperexcitability. Its efficacy in focal epilepsy is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for levetiracetam: "The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis." ([DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e), label version 2026-11-11; accessed 2026-11-19.) From the literature, levetiracetam is known to bind synaptic vesicle protein 2A (SV2A) and reduce neurotransmitter release, which dampens neuronal hyperexcitability. Its efficacy in focal epilepsy is well established.
 
 Visual (photosensitive) epilepsy is a reflex seizure type. A general antiseizure mechanism could plausibly apply. However, the retrieved literature covers general seizure populations (neonatal seizures, post-stroke seizures, prophylaxis after brain injury) and none of it addresses visual or photosensitive epilepsy. The link is therefore an extrapolation, not demonstrated evidence.
 
@@ -67,8 +67,6 @@ They are all scored in the 0.9990 range. Their evidence differs a lot:
 IV levetiracetam is already used as a second-line agent after benzodiazepines, and the high-quality trial evidence below supports it.
 
 ## Clinical Trial Evidence
-
-
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -94,7 +92,6 @@ The most relevant are listed below; none is specific to visual or photosensitive
 | [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Meta-analysis | Neurocrit Care | Levetiracetam seizure prophylaxis in neurocritical care |
 | [39808752](https://pubmed.ncbi.nlm.nih.gov/39808752/) | 2025 | Network meta-analysis | Neurology | Antiseizure medications in poststroke seizures |
 | [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | Seizure | Phenytoin vs levetiracetam for acute symptomatic seizures in children with acute encephalitis syndrome |
-
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -148,6 +145,19 @@ Please refer to the package insert for official warnings and contraindications, 
 - For visual epilepsy: a levetiracetam-specific study in photosensitive epilepsy, such as an intermittent photic stimulation trial
 - For status epilepticus: guardrails covering agent choice by age and comorbidity, renal dose adjustment, behavioral adverse effect monitoring, and separate consideration of pediatric vs adult and convulsive vs non-convulsive populations
 - For the low-evidence predictions (orgasm-induced seizures, beta-ketothiolase deficiency): deprioritize, as no evidence or mechanistic link was found
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

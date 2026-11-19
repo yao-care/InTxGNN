@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, tadalafil is a PDE5 inhibitor. It raises cGMP and causes vasodilation, which underlies its proven effect in erectile dysfunction and pulmonary hypertension.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tadalafil: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), label version 2026-06-03; accessed 2026-11-19.) Based on general knowledge, tadalafil is a PDE5 inhibitor. It raises cGMP and causes vasodilation, which underlies its proven effect in erectile dysfunction and pulmonary hypertension.
 
 On the evidence available, the prediction is **not mechanistically convincing**. Ambras syndrome is a congenital hypertrichosis linked to a chromosomal rearrangement affecting gene regulation near *TRPS1*. No plausible pathway connects PDE5 inhibition to this condition. The high score most likely reflects shared network neighbours among hypertrichosis-related nodes, for example vasodilators such as minoxidil that *cause* hypertrichosis. If so, the association points to an adverse-effect pattern, not a treatment. Even if a link existed, a drug that induces hair growth would not be expected to treat excess hair growth.
 
@@ -116,6 +116,19 @@ The prediction rests only on a score from the TxGNN model (deep learning), with 
 - Package insert warnings and contraindications from Indian regulatory sources
 - Literature review on the direction of effect (induction versus treatment of hypertrichosis)
 - If pursuing a different direction, a focused literature review of kyphoscoliotic heart disease with pulmonary hypertension, including the risk of worsened ventilation-perfusion matching
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

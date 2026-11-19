@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant for **insomnia (disease)**, but the 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Modafinil is generally understood to act through dopamine transporter inhibition and effects on wake-promoting brain circuits, which is aimed at excessive daytime sleepiness rather than at insomnia itself.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for modafinil: "The mechanism(s) through which modafinil promotes wakefulness is unknown. Modafinil has wake-promoting actions similar to sympathomimetic agents including amphetamine and methylphenidate, although the pharmacologic profile is not identical to that of the sympathomimetic amines." ([DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7), label version 2026-09-16; accessed 2026-11-19.) Modafinil is generally understood to act through dopamine transporter inhibition and effects on wake-promoting brain circuits, which is aimed at excessive daytime sleepiness rather than at insomnia itself.
 
 The high model score probably reflects the drug's close association with other sleep and wake disorders, not a demonstrated therapeutic link. A wake-promoting drug might help daytime function in people with disturbed sleep, but it would not be expected to improve insomnia directly and could worsen it. The mechanistic rationale is therefore indirect and weak.
 
@@ -110,6 +110,18 @@ The model score is very high, but the only insomnia-specific trial has no availa
 - A well-designed controlled trial of modafinil in insomnia
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for safety screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Provigil (modafinil) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0391f182-1958-9fef-a944-53b229ce99e7) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

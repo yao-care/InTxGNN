@@ -55,7 +55,7 @@ The TxGNN model's top-ranked prediction is **hypertrichosis**, which has no clin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Mexiletine is known as a class IB antiarrhythmic that blocks voltage-gated sodium channels, which is the basis for the mechanistic reasoning below.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mexiletine: "Mexiletine hydrochloride is a local anesthetic, antiarrhythmic agent, structurally similar to lidocaine, but orally active. In animal studies, mexiletine has been shown to be effective in the suppression of induced ventricular arrhythmias, including those induced by glycoside toxicity and coronary artery ligation." ([DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5), label version 2026-03-31; accessed 2026-11-19.) Mexiletine is known as a class IB antiarrhythmic that blocks voltage-gated sodium channels, which is the basis for the mechanistic reasoning below.
 
 **Hypertrichosis (top prediction):** No clinical trials or literature were found, and no plausible mechanistic link from sodium channel blockade to hypertrichosis is evident. The high score is a model output only and should be treated with caution. The same applies to the other top-ranked predictions with no evidence (nephrogenic syndrome of inappropriate antidiuresis, Ambras-type hypertrichosis, Dandy-Walker-related syndromes, hair shaft abnormality, and migraine with brainstem aura).
 
@@ -112,6 +112,19 @@ The top predictions rest on model scores alone, with no trials, literature, or p
 - For headache indications: a controlled study design (RCT) or a more systematic evidence review, focused on trigeminal autonomic cephalalgias and refractory chronic daily headache
 - Cardiac safety assessment (proarrhythmic risk, conduction disorders) and a plan for managing the 106 known drug interactions, especially with bupropion
 - Route and dosage compatibility assessment for the new indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

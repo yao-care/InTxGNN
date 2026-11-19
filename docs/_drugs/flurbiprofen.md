@@ -55,7 +55,7 @@ The TxGNN model predicts it may be related to **acromesomelic dysplasia, Hunter-
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for this drug. Flurbiprofen belongs to the NSAID class, which acts mainly by inhibiting cyclooxygenase (COX) enzymes and reducing inflammation and pain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for flurbiprofen: "Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763), label version 2026-10-05; accessed 2026-11-19.) Flurbiprofen belongs to the NSAID class, which acts mainly by inhibiting cyclooxygenase (COX) enzymes and reducing inflammation and pain.
 
 Acromesomelic dysplasia, Hunter-Thompson type, is a rare genetic skeletal dysplasia linked to the CDMP1/GDF5 pathway. No plausible mechanism is known by which COX inhibition would modify this disease. The high TxGNN score (0.9999) is a computational prediction based on network proximity to other skeletal phenotypes, not on clinical or laboratory findings.
 
@@ -99,6 +99,18 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Mechanism of action data and a credible biological rationale
 - Package insert warnings and contraindications for the relevant formulations
 - Assessment of whether the available oral and ophthalmic routes suit any proposed use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

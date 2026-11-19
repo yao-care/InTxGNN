@@ -62,7 +62,7 @@ It is a model-based prediction only, so the evidence is weak.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Seratrodast is generally described as a thromboxane A2 receptor antagonist, and it is marketed in Japan for asthma. That description is general background and is not taken from the Indian licence records.
+ChEMBL (EMBL-EBI) records the mechanism of action of seratrodast as: Thromboxane A2 receptor antagonist ([ChEMBL CHEMBL70972 (seratrodast): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL70972), CC BY-SA 3.0; accessed 2026-11-19.) Seratrodast is generally described as a thromboxane A2 receptor antagonist, and it is marketed in Japan for asthma. That description is general background and is not taken from the Indian licence records.
 
 Thromboxane and other eicosanoids have been loosely linked to vascular tone and platelet activation, which are relevant to migraine. This link is speculative. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it is not evidence of efficacy.
 
@@ -122,6 +122,19 @@ The migraine prediction rests only on a model score. No clinical trials or publi
 - Obtain mechanism of action data from DrugBank.
 - Search for preclinical or clinical studies of thromboxane receptor antagonism in migraine.
 - If a repurposing direction is pursued, consider pulmonary hypertension as a research question, since it has the most plausible mechanism. A direct study of seratrodast in that condition is still needed.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL70972 (seratrodast): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL70972) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

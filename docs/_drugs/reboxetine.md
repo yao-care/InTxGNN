@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this direction,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Pharmacology records show that reboxetine targets the norepinephrine transporter (NET, gene SLC6A2). It is a selective norepinephrine reuptake inhibitor used for depressive illness.
+ChEMBL (EMBL-EBI) records the mechanism of action of reboxetine as: Norepinephrine transporter inhibitor ([ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370), CC BY-SA 3.0; accessed 2026-11-19.) Pharmacology records show that reboxetine targets the norepinephrine transporter (NET, gene SLC6A2). It is a selective norepinephrine reuptake inhibitor used for depressive illness.
 
 **No mechanistic link to the predicted indication was identified.** Benign paroxysmal torticollis of infancy is a childhood disorder related to the migraine spectrum and is often associated with channelopathy genes such as CACNA1A. Blocking norepinephrine reuptake has no established rationale here.
 
@@ -101,6 +101,19 @@ The prediction has no supporting trials or literature and no plausible mechanist
 
 **Note on other predictions for this drug:**
 Other predicted indications have more support than this one. Agoraphobia, dysthymic disorder, melancholia and neurotic depression have literature backing (L1–L3), and melancholia and neurotic depression are largely relabelings of an on-label use. These are better candidates for further evaluation.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL14370 (reboxetine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL14370) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

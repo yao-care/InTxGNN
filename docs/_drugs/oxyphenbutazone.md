@@ -56,7 +56,7 @@ The TxGNN model predicts it may be relevant to **colobomatous microphthalmia-rhi
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available for this drug. Oxyphenbutazone belongs to the pyrazolone-type NSAID class, which acts mainly by inhibiting cyclooxygenase enzymes and reducing prostaglandin-mediated inflammation.
+ChEMBL (EMBL-EBI) records the mechanism of action of oxyphenbutazone as: Cyclooxygenase inhibitor ([ChEMBL CHEMBL3989676 (oxyphenbutazone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3989676), CC BY-SA 3.0; accessed 2026-11-19.) Oxyphenbutazone belongs to the pyrazolone-type NSAID class, which acts mainly by inhibiting cyclooxygenase enzymes and reducing prostaglandin-mediated inflammation.
 
 The predicted condition is a rare developmental disorder involving eye malformations (coloboma, microphthalmia) and skeletal abnormalities (rhizomelic dysplasia). It is a structural, developmental condition, and cyclooxygenase inhibition has no plausible disease-modifying role in it. No mechanistic link is evident.
 
@@ -96,6 +96,18 @@ The prediction has no supporting clinical trials or publications and no plausibl
 - A biological rationale connecting the drug's pharmacology to the pathology of this syndrome
 - Preclinical or mechanistic studies that directly address this disease
 - Package insert warnings and contraindications for a safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not currently available for this drug" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL3989676 (oxyphenbutazone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3989676) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

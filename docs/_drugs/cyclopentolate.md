@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cyclopentolate is a muscarinic antagonist (anticholinergic). It is used in the eye to relax the focusing muscle and dilate the pupil, and its efficacy for cycloplegia is established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cyclopentolate: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the accommodative muscle of the ciliary body to cholinergic stimulation, producing pupillary dilation (mydriasis) and paralysis of accommodation (cycloplegia). It acts rapidly, but has a shorter duration than atropine." ([DailyMed: Cyclogyl (cyclopentolate hydrochloride) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d008c76-7210-4ace-90fa-7cd22762e12e), label version 2024-06-25; accessed 2026-11-19.) Based on known pharmacology, cyclopentolate is a muscarinic antagonist (anticholinergic). It is used in the eye to relax the focusing muscle and dilate the pupil, and its efficacy for cycloplegia is established.
 
 The only conceivable link to cauda equina syndrome is through reduced bladder detrusor activity, since anticholinergics can calm bladder overactivity. However, this link is weak. Cauda equina syndrome is a structural neurological emergency that usually requires surgical decompression. Its typical bladder presentation is urinary retention, which anticholinergics could worsen. In addition, cyclopentolate is marketed only as an ophthalmic solution, with no systemic dosing established.
 
@@ -99,6 +99,19 @@ The prediction for cauda equina syndrome has no clinical trial or literature sup
 - Detailed mechanism of action data
 - Any preclinical or clinical evidence for the predicted indication
 - A feasibility assessment of a systemic formulation and route, including systemic anticholinergic safety, particularly CNS effects
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyclogyl (cyclopentolate hydrochloride) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1d008c76-7210-4ace-90fa-7cd22762e12e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

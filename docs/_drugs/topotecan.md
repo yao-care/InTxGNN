@@ -56,7 +56,7 @@ with **3 clinical trials** (all early-phase or terminated, none with usable effi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, topotecan is a topoisomerase I inhibitor. It causes DNA strand breaks and replication-associated cell death in rapidly dividing tumour cells. Its activity in ovarian cancer is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for topotecan: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), label version 2023-09-18; accessed 2026-11-19.) Based on known pharmacology, topotecan is a topoisomerase I inhibitor. It causes DNA strand breaks and replication-associated cell death in rapidly dividing tumour cells. Its activity in ovarian cancer is established.
 
 Ovarian and breast cancers are both hormone-related gynaecological-type malignancies, and they share familial links through BRCA-related hereditary syndromes. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mechanistically, topoisomerase I inhibition is plausible in breast cancer. A 2023 preclinical study (PMID 37987734) suggests that topoisomerase 1 inhibition is synthetically lethal in MYC-driven breast cancer cells through aberrant R-loop accumulation.
 
@@ -127,6 +127,19 @@ The TxGNN score is very high, but the supporting clinical evidence for breast ca
 - A comparison against current standard-of-care breast cancer regimens, including consideration of BCRP-mediated resistance
 
 **Other predicted indications (for reference):** Adult germ cell tumour (TxGNN 0.9957, evidence level L2) is the next most supported candidate, with a completed phase 2 trial of paclitaxel and topotecan (n=20), although most retrieved evidence concerns paediatric solid tumours. Topotecan is already labelled for ovarian yolk sac tumour, so extrapolation is biologically plausible.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

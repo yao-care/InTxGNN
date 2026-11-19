@@ -60,7 +60,7 @@ The evidence is model-prediction only and should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, rivaroxaban belongs to the direct oral anticoagulant class that inhibits Factor Xa, and it is used to prevent and treat thrombosis. Mechanistically, it may be applicable to rheumatoid arthritis, but only at the hypothesis level.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rivaroxaban: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), label version 2026-09-10; accessed 2026-11-19.) Based on known information, rivaroxaban belongs to the direct oral anticoagulant class that inhibits Factor Xa, and it is used to prevent and treat thrombosis. Mechanistically, it may be applicable to rheumatoid arthritis, but only at the hypothesis level.
 
 A plausible biological rationale exists. Inflammation and autoimmunity are linked to a hypercoagulable state, and Factor Xa and thrombin signalling (for example via PAR-1/PAR-2) may contribute to synovial inflammation. Rheumatoid arthritis also carries an elevated risk of venous thromboembolism, so anticoagulants may be used in these patients for thrombosis. That is a different question from whether the drug modifies the disease itself.
 
@@ -140,6 +140,18 @@ The same analysis also produced the following lower-priority predictions. None i
 | Gout | 0.9951 | L5 | No trials; the retrieved papers cover a benzbromarone–CYP interaction and a varicose vein case, neither supporting efficacy |
 | HIV infectious disease | 0.9917 | L4 | One Phase 2 trial (NCT00786422) is a DVT/PE study with a CYP3A4 inducer and not an HIV trial; the literature addresses safe co-administration and bleeding risk with antiretrovirals, not treatment of HIV |
 | Brachydactyly-syndactyly syndrome | 0.9910 | L5 | No trials or literature; no plausible mechanistic link |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

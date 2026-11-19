@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **stroke disorder**, but the suppo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, flecainide is a class 1C antiarrhythmic that blocks cardiac sodium channels, and it is used to maintain sinus rhythm in atrial fibrillation (AF).
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for flecainide: "Flecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics. Electrophysiology In man, flecainide produces a dose-related decrease in intracardiac conduction in all parts of the heart with the greatest effect on the His-Purkinje system (H-V conduction)." ([DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4), label version 2026-06-11; accessed 2026-11-19.) Based on known information, flecainide is a class 1C antiarrhythmic that blocks cardiac sodium channels, and it is used to maintain sinus rhythm in atrial fibrillation (AF).
 
 AF is a major cause of cardioembolic stroke. By reducing AF burden, flecainide could in theory lower stroke risk indirectly. This is why the TxGNN model (deep learning) scores the two conditions as related; the score may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -123,6 +123,19 @@ The stroke prediction rests on an indirect pathway through AF rhythm control. Th
 - Package insert warnings and contraindications for the Indian products (Flecarite 50 and 100), as these are currently missing
 - Mechanism of action data
 - Analysis of how flecainide's safety profile fits the stroke population, including ischaemic heart disease and anticoagulant co-prescription
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

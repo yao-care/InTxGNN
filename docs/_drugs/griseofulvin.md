@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Myiasis**, but there are curr
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, griseofulvin is an oral antifungal whose efficacy in dermatophyte infections is well established. It is generally understood to interfere with microtubule function and mitosis in fungal cells, and this could mechanistically be applicable to other organisms, though this has not been verified.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for griseofulvin: "The mechanism of griseofulvin consists of binding microtubular proteins, which are required for mitosis. […] The mechanism of griseofulvin consists of binding microtubular proteins, which are required for mitosis. Activity In Vivo Griseofulvin may be active against most strains of the following dermatophytes as described in the INDICATIONS AND USAGE section: Epidermophyton floccosum, Microsporum audouinii, Microsporum canis, Microsporum gypseum, Trichophyton crateriformis, Trichophyton gallinae, Trichophyton interdigitalis, Trichophyton megnini, Trichophyton mentagrophytes, Trichophyton rubrum, Trichophyton sulphureum, Trichophyton schoenleini, Trichophyton tonsurans and Trichophyton verrucosum." ([DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d), label version 2025-05-14; accessed 2026-11-19.) Based on known information, griseofulvin is an oral antifungal whose efficacy in dermatophyte infections is well established. It is generally understood to interfere with microtubule function and mitosis in fungal cells, and this could mechanistically be applicable to other organisms, though this has not been verified.
 
 The link to myiasis is speculative. Myiasis is an infestation by fly larvae, and the hypothesis is that disrupting microtubule or tubulin function might affect the larvae. No data support this. Myiasis is normally managed by larval removal, wound care and antiparasitic drugs such as ivermectin, so griseofulvin has no established role.
 
@@ -103,6 +103,19 @@ The prediction is model-only (L5), with no clinical trials, no literature and no
 - Preclinical evidence, such as in vitro larvicidal or protoscolicidal assays or animal models, showing activity against fly larvae or *Echinococcus*
 - A rationale for why a systemic antifungal would add value over current standard care (larval removal and ivermectin or albendazole)
 - Route compatibility and similarity-to-original analyses, which are still pending
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

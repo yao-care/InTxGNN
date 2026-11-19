@@ -56,7 +56,7 @@ This is largely an extension of established use (asthma, bronchitis, emphysema) 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, epinephrine stimulates both beta and alpha adrenergic receptors. Beta-2 stimulation relaxes bronchial smooth muscle and produces bronchodilation, while alpha-1 stimulation reduces mucosal edema and airway secretions.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for epinephrine: "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension." ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), label version 2026-09-18; accessed 2026-11-19.) Based on known pharmacology, epinephrine stimulates both beta and alpha adrenergic receptors. Beta-2 stimulation relaxes bronchial smooth muscle and produces bronchodilation, while alpha-1 stimulation reduces mucosal edema and airway secretions.
 
 Obstructive lung disease covers asthma and chronic obstructive pulmonary disease (COPD). Epinephrine is already associated with asthma, bronchitis, and emphysema, so this prediction is mostly an extension of established use. Evidence in the pediatric bronchiolitis subpopulation is mixed and shows limited sustained benefit.
 
@@ -143,11 +143,12 @@ Several completed Phase 3 trials of inhaled epinephrine in asthma support effica
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
 
 <!-- review:end log -->
 

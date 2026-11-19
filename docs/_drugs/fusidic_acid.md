@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Exposure Keratitis**, but the
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, fusidic acid inhibits bacterial protein synthesis by blocking elongation factor G, and it is strongly active against Gram-positive bacteria such as *Staphylococcus*.
+ChEMBL (EMBL-EBI) records the mechanism of action of fusidic acid as: Elongation factor G inhibitor ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; accessed 2026-11-19.) Based on known pharmacology, fusidic acid inhibits bacterial protein synthesis by blocking elongation factor G, and it is strongly active against Gram-positive bacteria such as *Staphylococcus*.
 
 Exposure keratitis is mainly a mechanical or desiccation disorder of the cornea, caused by incomplete eyelid closure. An antibacterial would only be relevant if a secondary bacterial infection developed. The single retrieved paper is a case series on ocular *Tsukamurella* infections and does not study fusidic acid in this condition. The very high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or clinical support.
 
@@ -118,6 +118,19 @@ The prediction has a very high model score but no clinical trials and no directl
 - An ophthalmic formulation and route-compatibility assessment, including the ocular contraindication signals above
 
 **Other predictions worth noting:** Otitis externa (rank 3, evidence level L4) has a plausible mechanism, since *S. aureus* and *S. pseudintermedius* are within fusidic acid's spectrum and topical use is reasonable. However, the retrieved literature is mostly veterinary or indirect, and rising staphylococcal resistance is a concern. It is better framed as a research question than as a candidate for advancement. The remaining predictions (ranks 2 and 4–10) have no supporting evidence and should stay on hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -71,7 +71,7 @@ Other predictions in the top 10 (for context):
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, methotrexate is an antifolate that inhibits dihydrofolate reductase (DHFR), which limits DNA synthesis in rapidly dividing cells. Its efficacy in leukemia and lymphoma is established, and mechanistically it could be applicable to other fast-proliferating tumours.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for methotrexate: "Methotrexate inhibits dihydrofolic acid reductase. Dihydrofolates must be reduced to tetrahydrofolates by this enzyme before they can be utilized as carriers of one-carbon groups in the synthesis of purine nucleotides and thymidylate." ([DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e), label version 2026-11-05; accessed 2026-11-19.) Based on general knowledge, methotrexate is an antifolate that inhibits dihydrofolate reductase (DHFR), which limits DNA synthesis in rapidly dividing cells. Its efficacy in leukemia and lymphoma is established, and mechanistically it could be applicable to other fast-proliferating tumours.
 
 For **pulmonary blastoma** (rank 1), the data compiled for this report contain no trials, literature or mechanistic evidence. The high score (0.9945) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No specific link between methotrexate and this rare lung tumour is supported here, so the prediction should be treated as a hypothesis only.
 
@@ -110,7 +110,6 @@ None of these trials tests methotrexate specifically in Hodgkin lymphoma.
 |---------|------|------|------|---------|
 | [NCT00357084](https://clinicaltrials.gov/study/NCT00357084) | Phase 2 | Completed | 53 | Methotrexate plus glucocorticoids for acute GVHD after transplant (not tumour treatment; rhabdomyosarcoma relevance unverified) |
 | [NCT00112645](https://clinicaltrials.gov/study/NCT00112645) | Phase 1 | Completed | 10 | Allogeneic transplant toxicity in pediatric solid tumours; methotrexate likely used for GVHD prophylaxis |
-
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -194,6 +193,19 @@ The top-ranked prediction, pulmonary blastoma, has only a model score (L5) with 
 - For Hodgkin lymphoma and rhabdomyosarcoma: a focused review of methotrexate-specific studies (VBM regimens and the Phase 2 high-dose methotrexate trial), with relevance grading of the pending items
 - Route and dose compatibility assessment (oral low-dose vs high-dose intravenous) for each candidate indication
 - A pulmonary and hematological safety monitoring plan for any lung-related indication
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jylamvo (methotrexate) prescribing information, SHORLA ONCOLOGY INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96e931f5-51ae-4bdf-a441-bb0dd26d4c0e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

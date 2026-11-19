@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina** (vasospas
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, telmisartan blocks the angiotensin II type 1 (AT1) receptor. It is also a partial agonist of PPAR-gamma. Its efficacy in hypertension and cerebrovascular disease is established, and mechanistically it may be applicable to vasospastic angina.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for telmisartan: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), label version 2026-11-02; accessed 2026-11-19.) Based on known pharmacology, telmisartan blocks the angiotensin II type 1 (AT1) receptor. It is also a partial agonist of PPAR-gamma. Its efficacy in hypertension and cerebrovascular disease is established, and mechanistically it may be applicable to vasospastic angina.
 
 Prinzmetal angina is caused by spasm and hypercontractility of coronary smooth muscle. AT1 blockade and PPAR-gamma activity could plausibly modulate vascular tone and endothelial function. This connects the drug's established vascular effects to the predicted disease.
 
@@ -126,6 +126,19 @@ The Prinzmetal angina prediction has a very high model score but no supporting t
 - A comparison with established first-line therapy for vasospastic angina (calcium channel blockers)
 
 **Note on other predictions:** Among the other predicted indications, **intracerebral hemorrhage** has the strongest support (L1). It is backed by the completed Phase 3 TRIDENT trial (NCT02699645, n=1671) and a 2026 NEJM publication. That trial tested a three-drug low-dose pill, so telmisartan's own contribution cannot be separated. **Cerebral artery occlusion** has Phase 4 trial and preclinical support (L2). A separate evaluation of these indications is worth considering.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

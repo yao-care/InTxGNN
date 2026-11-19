@@ -56,7 +56,7 @@ but **no clinical trials are registered** and the evidence consists of **8 publi
 
 ## Why is This Prediction Reasonable?
 
-Ropinirole is a D2/D3 dopamine agonist. Detailed mechanism of action data is not available in the data compiled for this report, so this description rests on its known drug class.
+Ropinirole is a D2/D3 dopamine agonist. According to the Mechanism of Action section of the US FDA-approved prescribing information for ropinirole: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), label version 2026-11-06; accessed 2026-11-19.) This description rests on its known drug class.
 
 ADHD involves dopaminergic dysregulation, and it frequently co-occurs with restless legs syndrome (RLS), an established ropinirole indication. A review (PMID 16218085) discusses this association and the possible value of treatments shared between the two conditions. This suggests a common dopaminergic and iron-metabolism pathway.
 
@@ -129,6 +129,18 @@ The other top-ranked predictions all carry a **Hold** recommendation. None has r
 | Atypical glycine encephalopathy | 0.9989 | L5 | Model prediction only |
 | Myopia 26, X-linked, female-limited | 0.9988 | L5 | Model prediction only |
 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 0.9988 | L5 | Model prediction only |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

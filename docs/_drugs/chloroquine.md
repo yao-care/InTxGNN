@@ -56,7 +56,7 @@ but currently **0 clinical trials** and only **1 indirect publication** (a study
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, chloroquine acts as an immunomodulator by raising lysosomal pH, interfering with autophagy and antigen presentation, and reducing pro-inflammatory cytokine production. These effects are the reason it has long been used as a slow-acting antirheumatic agent.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for chloroquine: "Chloroquine, a 4-aminoquinoline, is an anti-protozoal agent. The precise mechanism by which chloroquine exhibits activity is not known. Chloroquine, may exert its effect against Plasmodium species by concentrating in the acid vesicles of the parasite and by inhibiting polymerization of heme." ([DailyMed: chloroquine phosphate prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c69e2b-211b-4746-9f3a-f86d36520570), label version 2026-10-21; accessed 2026-11-19.) Based on general pharmacological knowledge, chloroquine acts as an immunomodulator by raising lysosomal pH, interfering with autophagy and antigen presentation, and reducing pro-inflammatory cytokine production. These effects are the reason it has long been used as a slow-acting antirheumatic agent.
 
 Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis closely resembles adult seropositive rheumatoid arthritis in its joint-centred, autoantibody-associated inflammation. This similarity explains the very high model score, but the score reflects proximity to rheumatoid disease rather than clinical proof in children.
 
@@ -104,6 +104,19 @@ The prediction score is very high, but there are no clinical trials and no study
 - Mechanism of action data
 - Package insert warnings and contraindications from the India label
 - Paediatric dosing and a cardiac and ophthalmic safety monitoring plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: chloroquine phosphate prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c69e2b-211b-4746-9f3a-f86d36520570) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

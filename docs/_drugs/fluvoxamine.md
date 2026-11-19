@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **Schizotypal Personality Disorder
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for fluvoxamine are not available in the data compiled for this report. Fluvoxamine is known as a potent SSRI that blocks the serotonin transporter (SERT). The link to schizotypal personality disorder is indirect. Schizotypal traits often co-occur with obsessive-compulsive symptoms, which respond to serotonergic drugs, so a serotonin-based effect on obsessive and anxious features is plausible.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fluvoxamine: "The mechanism of action of fluvoxamine maleate in obsessive compulsive disorder is presumed to be linked to its specific serotonin reuptake inhibition in brain neurons. Fluvoxamine has been shown to be a potent inhibitor of the serotonin reuptake transporter in preclinical studies, both in vitro and in vivo." ([DailyMed: fluvoxamine maleate prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9972efbb-46cd-45b7-b71c-35032311b70c), label version 2026-10-26; accessed 2026-11-19.) Fluvoxamine is known as a potent SSRI that blocks the serotonin transporter (SERT). The link to schizotypal personality disorder is indirect. Schizotypal traits often co-occur with obsessive-compulsive symptoms, which respond to serotonergic drugs, so a serotonin-based effect on obsessive and anxious features is plausible.
 
 The literature found does not test fluvoxamine as a treatment for schizotypal personality disorder. In one report, patients with a comorbid schizotypal personality disorder were more likely to respond when an antipsychotic was added to fluvoxamine. This suggests that fluvoxamine alone may not be enough for these patients. The very high TxGNN score is shared with several other personality-disorder predictions, so it more likely reflects similarity between diseases in the model than disease-specific evidence.
 
@@ -119,6 +119,18 @@ The prediction rests on a model score alone. There are no registered trials and 
 - Detailed mechanism-of-action data and a rationale specific to this disorder
 - Package-insert warnings and contraindications for the marketed Indian products
 - A safety plan for combinations with antipsychotics (seizure risk) and for the major drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data for fluvoxamine are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fluvoxamine maleate prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9972efbb-46cd-45b7-b71c-35032311b70c) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

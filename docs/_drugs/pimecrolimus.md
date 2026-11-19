@@ -56,7 +56,7 @@ with **1 completed Phase 2 randomized trial** and **about 19 publications** (inc
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known class pharmacology, pimecrolimus is a topical calcineurin inhibitor. It blocks T-cell activation and the release of inflammatory cytokines such as IL-2, IL-4, interferon-gamma and TNF-alpha, and it also inhibits mast cell degranulation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for pimecrolimus: "The mechanism of action of pimecrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that pimecrolimus binds with high affinity to macrophilin-12 (FKBP-12) and inhibits the calcium-dependent phosphatase, calcineurin." ([DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06), label version 2026-04-30; accessed 2026-11-19.) Based on known class pharmacology, pimecrolimus is a topical calcineurin inhibitor. It blocks T-cell activation and the release of inflammatory cytokines such as IL-2, IL-4, interferon-gamma and TNF-alpha, and it also inhibits mast cell degranulation.
 
 Atopic dermatitis and seborrheic dermatitis are both chronic, relapsing inflammatory skin diseases with an immune-mediated component. Seborrheic dermatitis is also linked to inflammatory responses to *Malassezia* yeast on the skin. A non-steroidal anti-inflammatory agent is attractive here because long-term topical corticosteroid use on the face carries well-known adverse effects.
 
@@ -114,6 +114,19 @@ A completed Phase 2 randomized, double-blind, active-comparator trial and two sy
 - Full results of NCT00403559 and, ideally, a confirmatory Phase 3 trial in seborrheic dermatitis
 - Confirmation of the approved indications for the Indian products, since none are listed in the licence data
 - Guardrails: restrict use to second-line, short-term, intermittent treatment, respect age limits, and avoid use on infected skin (viral or fungal)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: pimecrolimus prescribing information, Oceanside Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6601e43e-ce7d-446a-8568-8e7b24b86f06) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

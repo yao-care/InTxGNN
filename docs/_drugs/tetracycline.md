@@ -56,7 +56,7 @@ but there are **no registered clinical trials** and only **1 publication** (a 19
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tetracycline is a member of the tetracycline antibiotic class, its efficacy in bacterial infections including conjunctivitis is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
+ChEMBL (EMBL-EBI) records the mechanism of action of tetracycline as: Bacterial 70S ribosome inhibitor ([ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, tetracycline is a member of the tetracycline antibiotic class, its efficacy in bacterial infections including conjunctivitis is established, and mechanistically it may be applicable to punctate epithelial keratoconjunctivitis.
 
 Tetracycline is an established treatment for chlamydial (trachoma/inclusion) conjunctivitis, and persistent superficial punctate keratitis can follow chlamydial infection. Its antibacterial activity against *Chlamydia*, together with the anti-inflammatory and MMP-inhibiting effects of tetracyclines on the ocular surface, gives a plausible link.
 
@@ -116,6 +116,19 @@ The prediction score is high, but the only supporting evidence is a single 1992 
 - Detailed mechanism of action data
 - Clinical evidence testing tetracycline in punctate epithelial keratoconjunctivitis, and an assessment of whether an ophthalmic formulation is available or needed
 - Separately, the chronic rhinosinusitis prediction (L3, class-level evidence from doxycycline) could be framed as a research question. It should not be treated as support for tetracycline itself.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

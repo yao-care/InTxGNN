@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **Tourette syndrome**, but this
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, zonisamide is an antiseizure drug that is thought to block voltage-gated sodium channels and T-type calcium channels and to modulate dopaminergic and serotonergic transmission. Its efficacy in epilepsy is established, and these effects could plausibly relate to the circuits involved in tics.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for zonisamide: "The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown. Zonisamide demonstrated anticonvulsant activity in several experimental models. In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol." ([DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb), label version 2026-09-23; accessed 2026-11-19.) Based on general pharmacological knowledge, zonisamide is an antiseizure drug that is thought to block voltage-gated sodium channels and T-type calcium channels and to modulate dopaminergic and serotonergic transmission. Its efficacy in epilepsy is established, and these effects could plausibly relate to the circuits involved in tics.
 
 The prediction should be read with caution. A pragmatic review (PMID 36005856) reports that antiseizure medications can induce obsessive-compulsive and tic disorders, which points to a possible safety concern rather than support for benefit in Tourette syndrome. The TxGNN score is high, but no trial or publication directly supports this indication.
 
@@ -146,11 +146,12 @@ The Tourette syndrome prediction rests on the model score alone, with no trials 
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "**Fibromyalgia (score 0.9920, Evidence Level L5):** The only trial was withdrawn with zero enrollment" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
 
 <!-- review:end log -->
 

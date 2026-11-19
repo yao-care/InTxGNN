@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **congenital hypotrichosis with
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, mesalazine is an aminosalicylate anti-inflammatory agent. Its efficacy in ulcerative colitis is established, and its activity is generally attributed to reduced prostaglandin and leukotriene synthesis, PPAR-gamma activation and NF-kB modulation.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mesalazine: "The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon." ([DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7), label version 2026-10-26; accessed 2026-11-19.) Based on known information, mesalazine is an aminosalicylate anti-inflammatory agent. Its efficacy in ulcerative colitis is established, and its activity is generally attributed to reduced prostaglandin and leukotriene synthesis, PPAR-gamma activation and NF-kB modulation.
 
 For this predicted indication, **no credible mechanistic link was identified**. Congenital hypotrichosis with juvenile macular dystrophy is an ultra-rare genetic disorder caused by CDH3 (cadherin-3) mutations that affect hair follicle and retinal development. Mesalazine's anti-inflammatory activity has no plausible connection to this structural defect.
 
@@ -117,6 +117,19 @@ The top-ranked prediction rests only on a score from the TxGNN model (deep learn
 - Mechanism of action data from DrugBank
 - For the top prediction, a mechanistic rationale linking mesalazine to CDH3-related pathology, plus any preclinical evidence
 - If a more actionable direction is wanted, re-prioritise rheumatoid arthritis (L4) and review direct evidence for mesalazine, as opposed to sulfasalazine, in that condition
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

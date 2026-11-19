@@ -60,7 +60,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, silodosin is a selective alpha-1A adrenergic receptor antagonist. Its efficacy in BPH comes from relaxing smooth muscle in the prostate and bladder neck.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for silodosin: "Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms." ([DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7), label version 2026-10-30; accessed 2026-11-19.) Based on general knowledge, silodosin is a selective alpha-1A adrenergic receptor antagonist. Its efficacy in BPH comes from relaxing smooth muscle in the prostate and bladder neck.
 
 The link to the predicted indication is weak. Ambras syndrome is a rare genetic disorder caused by rearrangements in the regulatory region of the TRPS1 gene. There is no established reason why blocking alpha-1A receptors would change it. A possible connection through adrenergic signalling in hair follicles or vascular function is speculative. For comparison, some vasodilating drugs (such as minoxidil) are known to cause hypertrichosis, so a vasoactive drug could plausibly affect hair growth. However, the direction of effect for silodosin is unknown and could be neutral.
 
@@ -126,6 +126,19 @@ The prediction rests only on a TxGNN model (deep learning) score. There are no c
 - Package insert warnings and contraindications from the India regulatory source
 - Assessment of similarity to the original indication and of route compatibility (both currently pending)
 - If hypertrichosis becomes the focus, a literature review of adrenergic effects on hair growth, noting that the direction of effect is unknown
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

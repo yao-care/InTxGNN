@@ -60,7 +60,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, miglitol is an intestinal alpha-glucosidase inhibitor that delays carbohydrate absorption and has minimal systemic exposure.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for miglitol: "In contrast to sulfonylureas, miglitol tablets do not enhance insulin secretion. The antihyperglycemic action of miglitol results from a reversible inhibition of membrane-bound intestinal α-glucoside hydrolase enzymes. Membrane-bound intestinal α-glucosidases hydrolyze oligosaccharides and disaccharides to glucose and other monosaccharides in the brush border of the small intestine." ([DailyMed: miglitol prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f16ecb50-e54e-43e1-8789-eaf5bc94f332), label version 2022-04-01; accessed 2026-11-19.) Based on general pharmacology, miglitol is an intestinal alpha-glucosidase inhibitor that delays carbohydrate absorption and has minimal systemic exposure.
 
 Focal stiff limb syndrome, like classic stiff person syndrome, is an autoimmune or neurological disorder involving reduced GABAergic and glycinergic inhibition (for example anti-GAD or anti-glycine receptor antibodies). No credible mechanistic link to miglitol was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -122,6 +122,19 @@ No clinical trial or publication studies miglitol in focal stiff limb syndrome, 
 - Package insert warnings and contraindications from the India licence holders
 - Any preclinical or clinical rationale linking alpha-glucosidase inhibition to GABAergic or glycinergic dysfunction
 - Reassessment of lower-ranked predictions, or of other drugs, if a mechanism-based candidate is sought
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: miglitol prescribing information, Proficient Rx LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f16ecb50-e54e-43e1-8789-eaf5bc94f332) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

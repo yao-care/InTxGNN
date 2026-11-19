@@ -60,7 +60,7 @@ The prediction is a model output only and has no mechanistic or clinical backing
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, sodium fluoride is a fluoride salt used mainly in oral and dental products and as a mineral supplement, and no plausible link to its original indication of vitamin deficiency disorder has been established in the data.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for sodium fluoride: "Fluoride delivered from Clinpro 5000 inhibits the demineralization of sound teeth and enhances the remineralization (i.e., repair) of demineralized teeth. During tooth brushing, fluoride is taken up by teeth and dental plaque." ([DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580), label version 2024-08-01; accessed 2026-11-19.) Based on known information, sodium fluoride is a fluoride salt used mainly in oral and dental products and as a mineral supplement, and no plausible link to its original indication of vitamin deficiency disorder has been established in the data.
 
 Epiglottitis is an acute infection of the epiglottis, typically caused by bacteria such as *Haemophilus influenzae* type b. It is treated with airway management and systemic antibiotics. Sodium fluoride has no recognised antibacterial role in this setting.
 
@@ -135,11 +135,12 @@ The prediction rests only on a model score, with no clinical trials, no supporti
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580) |
 
 <!-- review:end log -->
 

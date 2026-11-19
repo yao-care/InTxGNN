@@ -59,7 +59,7 @@ This is not a truly novel indication, because lurasidone is already used in bipo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the drug class, lurasidone is an atypical antipsychotic. Its blocking of dopamine D2 and serotonin 5-HT2A receptors, together with activity at 5-HT7 and 5-HT1A receptors, plausibly supports an antimanic effect.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lurasidone: "The mechanism of action of lurasidone in the treatment of schizophrenia and bipolar depression is unclear. However, its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine D 2 and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Latuda (lurasidone hydrochloride) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=afad3051-9df2-4c54-9684-e8262a133af8), label version 2025-01-31; accessed 2026-11-19.) Based on general knowledge of the drug class, lurasidone is an atypical antipsychotic. Its blocking of dopamine D2 and serotonin 5-HT2A receptors, together with activity at 5-HT7 and 5-HT1A receptors, plausibly supports an antimanic effect.
 
 Lurasidone is already used in bipolar disorder, and mania is one phase of that condition. The prediction is therefore close to the drug's existing use rather than a leap into a new disease area.
 
@@ -147,11 +147,12 @@ The TxGNN score is very high, but lurasidone is already used in bipolar disorder
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-10-31 | Removed: "Direct evidence for acute mania is thin: the only mania trial was withdrawn with no enrolment, and the supporting literature is mostly revie" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Latuda (lurasidone hydrochloride) prescribing information, Sumitomo Pharma America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=afad3051-9df2-4c54-9684-e8262a133af8) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fluorometholone is a synthetic glucocorticoid that acts on the glucocorticoid receptor (NR3C1). Its efficacy in ocular inflammation is established, and mechanistically it may be applicable to immune-mediated inflammation elsewhere.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for fluorometholone: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week." ([DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01), label version 2026-08-12; accessed 2026-11-19.) Based on known information, fluorometholone is a synthetic glucocorticoid that acts on the glucocorticoid receptor (NR3C1). Its efficacy in ocular inflammation is established, and mechanistically it may be applicable to immune-mediated inflammation elsewhere.
 
 In theory, a glucocorticoid could suppress immune-mediated vasculitis. However, fluorometholone is formulated as a topical eye drop with minimal systemic exposure, so it is unlikely to reach concentrations relevant to a systemic vascular disease. The high score therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -111,6 +111,19 @@ The prediction for postinfectious vasculitis rests only on a model score. There 
 - Direct clinical or literature evidence for fluorometholone in the predicted condition
 - A route and formulation assessment, because the topical ophthalmic form may not suit a systemic vascular disease
 - Consideration of prioritising the ocular-adjacent predictions as research questions, with intraocular pressure monitoring and infection screening
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -57,7 +57,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Metaxalone is a centrally acting skeletal muscle relaxant, and its exact mechanism is incompletely characterized.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for metaxalone: "The mechanism of action of metaxalone in humans has not been established, but may be due to general central nervous system (CNS) depression. Metaxalone has no direct action on the contractile mechanism of striated muscle, the motor end plate, or the nerve fiber." ([DailyMed: metaxalone prescribing information, Misemer Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d0276e7b-a1c9-61f3-e053-2a95a90ae3aa), label version 2026-11-12; accessed 2026-11-19.) Metaxalone is a centrally acting skeletal muscle relaxant, and its exact mechanism is incompletely characterized.
 
 The review of the prediction found no established mechanistic link to infectious otitis media. Metaxalone has no known antimicrobial, anti-inflammatory, or Eustachian tube-related activity. The high score (0.9906) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not backed by any trial or literature evidence.
 
@@ -107,6 +107,19 @@ The prediction is based only on a model score. There are no clinical trials or p
 - Mechanism of action data for metaxalone from DrugBank, to allow a mechanistic-link analysis.
 - Any preclinical or clinical evidence linking metaxalone to infectious otitis media. Without it, the prediction should not advance.
 - A review of the knowledge-graph liver-related contraindication signals and the CNS-depressant interactions if the project is reconsidered.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: metaxalone prescribing information, Misemer Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d0276e7b-a1c9-61f3-e053-2a95a90ae3aa) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

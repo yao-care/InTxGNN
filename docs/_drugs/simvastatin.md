@@ -60,7 +60,7 @@ This indication substantially overlaps with simvastatin's existing lipid-lowerin
 
 ## Why is This Prediction Reasonable?
 
-Simvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis. Lower intracellular cholesterol upregulates LDL receptors on liver cells, which increases clearance of LDL cholesterol from the blood. This is the established mechanism for LDL-C lowering in familial hypercholesterolaemia. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the known pharmacology of the statin class.
+Simvastatin inhibits HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis. Lower intracellular cholesterol upregulates LDL receptors on liver cells, which increases clearance of LDL cholesterol from the blood. This is the established mechanism for LDL-C lowering in familial hypercholesterolaemia. According to the Mechanism of Action section of the US FDA-approved prescribing information for simvastatin: "Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration. Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol." ([DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9), label version 2025-03-28; accessed 2026-11-19.) This description relies on the known pharmacology of the statin class.
 
 Familial hypercholesterolaemia is an inherited condition that causes very high LDL-C and premature coronary disease. The drug's original indications already include lipid disorders and atherosclerosis, including homozygous familial hypercholesterolaemia. The predicted indication is therefore a close extension of existing use.
 
@@ -154,6 +154,18 @@ Two directly relevant Phase 3 trials (ENHANCE and the adolescent ezetimibe-plus-
 | HIV infectious disease | L3 | Research Question | Relevant to managing antiretroviral-associated dyslipidaemia and drug interactions, not to treating HIV; one pilot study found no anti-HIV activity |
 | Brain stem infarction | L5 | Hold | No simvastatin-specific evidence |
 | CETP deficiency; CYP7A1-deficiency hypercholesterolaemia; ABri amyloidosis; neurodevelopmental disorder with ataxic gait | L5 | Hold | Model prediction only, no trials or publications |
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

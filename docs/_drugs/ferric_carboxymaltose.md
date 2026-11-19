@@ -54,7 +54,7 @@ Ferric carboxymaltose is an intravenous iron replacement product marketed in Ind
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ferric carboxymaltose is an intravenous iron preparation used to correct iron deficiency, and its efficacy in iron repletion is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ferric carboxymaltose: "Ferric carboxymaltose is a colloidal iron (III) hydroxide in complex with carboxymaltose, a carbohydrate polymer that releases iron." ([DailyMed: ferric carboxymaltose prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e8e95f4-8d3a-4658-9f6c-09edf2210341), label version 2026-09-16; accessed 2026-11-19.) Based on known information, ferric carboxymaltose is an intravenous iron preparation used to correct iron deficiency, and its efficacy in iron repletion is established.
 
 For bronchitis, no identifiable mechanistic link exists in the data compiled for this report. Nothing connects iron repletion to airway inflammation or infection.
 
@@ -112,6 +112,19 @@ The bronchitis prediction has no clinical trials, no literature and no identifia
 - Approved indication text for the registered products
 - Any preclinical or clinical rationale connecting iron repletion to airway disease, before further investment
 - If a repurposing direction is pursued, consider the better-supported iron-deficiency anaemia settings (for example inflammatory rheumatic disease or cardiovascular disease) rather than bronchitis
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ferric carboxymaltose prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e8e95f4-8d3a-4658-9f6c-09edf2210341) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

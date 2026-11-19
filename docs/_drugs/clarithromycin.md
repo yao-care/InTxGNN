@@ -60,7 +60,7 @@ No clinical trials are registered and only **1 publication** (a 2004 case report
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Clarithromycin belongs to the macrolide class of antibiotics, which are generally known to inhibit bacterial protein synthesis and to have some anti-inflammatory and immunomodulatory activity.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for clarithromycin: "Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis." ([DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460), label version 2026-11-12; accessed 2026-11-19.) Clarithromycin belongs to the macrolide class of antibiotics, which are generally known to inhibit bacterial protein synthesis and to have some anti-inflammatory and immunomodulatory activity.
 
 No direct mechanistic link to hyperamylasemia has been established. The only retrieved publication (PMID 15228140, 2004) is a case report of *Mycobacterium abscessus* lung infection that coincided with primary macroamylasemia. Clarithromycin was most likely used there as an antimycobacterial agent, and the raised amylase is probably incidental or related to the underlying condition, not a treatment effect. The high score is a computational prediction without clinical corroboration, so this prediction should be treated as a hypothesis only.
 
@@ -118,6 +118,19 @@ The prediction is supported only by the model score. No trials exist, and the si
 - Controlled or observational studies directly addressing hyperamylasemia
 - Package insert warnings and contraindications from the India label
 - A review of the interaction burden for the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

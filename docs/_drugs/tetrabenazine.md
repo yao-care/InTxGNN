@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, tetrabenazine is a reversible VMAT2 inhibitor that depletes presynaptic monoamines. This is how it controls hyperkinetic movements in Huntington disease and related disorders.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tetrabenazine: "The precise mechanism by which XENAZINE (tetrabenazine) exerts its anti-chorea effects is unknown but is believed to be related to its effect as a reversible depletor of monoamines (such as dopamine, serotonin, norepinephrine, and histamine) from nerve terminals. Tetrabenazine reversibly inhibits the human vesicular monoamine transporter type 2 (VMAT2) (K i ≈ 100 nM), resulting in decreased uptake of monoamines into synaptic vesicles and depletion of monoamine stores." ([DailyMed: Xenazine (tetrabenazine) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac768bab-8afa-4446-bc7f-caeeffec0cda), label version 2026-11-06; accessed 2026-11-19.) Based on known information, tetrabenazine is a reversible VMAT2 inhibitor that depletes presynaptic monoamines. This is how it controls hyperkinetic movements in Huntington disease and related disorders.
 
 Polycystic kidney/liver disease (the GANAB/PRKCSH-related form) is driven by cilia and polycystin dysfunction, which is unrelated to monoamine handling. No clear mechanistic link between the original and the predicted indication was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; it should be treated as a hypothesis, not as support for clinical use.
 
@@ -106,6 +106,19 @@ The prediction has no supporting clinical trials or publications (Evidence Level
 - Preclinical evidence (for example cell or animal models of polycystic kidney disease) showing a plausible biological effect
 - Targeted literature search for any link between monoaminergic pathways and polycystic kidney disease
 - Review of the approved indication text, which is blank in all five registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Xenazine (tetrabenazine) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac768bab-8afa-4446-bc7f-caeeffec0cda) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

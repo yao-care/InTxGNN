@@ -56,7 +56,7 @@ The mechanism also argues against it, so the prediction appears to be a TxGNN mo
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, rasburicase is a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble, and so lowers serum uric acid. Its efficacy in hyperuricemia follows directly from this action.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rasburicase: "In humans, uric acid is the final step in the catabolic pathway of purines. Rasburicase catalyzes enzymatic oxidation of poorly soluble uric acid into an inactive and more soluble metabolite (allantoin)." ([DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922), label version 2026-07-30; accessed 2026-11-19.) Based on general pharmacology, rasburicase is a recombinant urate oxidase. It converts uric acid to allantoin, which is more soluble, and so lowers serum uric acid. Its efficacy in hyperuricemia follows directly from this action.
 
 Renal hypouricemia, however, is already a state of low serum uric acid, typically caused by loss-of-function in urate transporters such as URAT1 or GLUT9. Depleting urate further is mechanistically counterproductive and could add risk. The high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -100,6 +100,19 @@ The prediction rests on model score alone (L5), with no trials or literature. Th
 - Detailed mechanism of action data from DrugBank
 - Preclinical or clinical evidence that urate depletion is beneficial in any of the predicted conditions
 - If any prediction is pursued, a review of partial HPRT deficiency first, since it has the most biological plausibility. Rasburicase would need to show a clear advantage over xanthine oxidase inhibitors, and immunogenicity and the parenteral route would need to be addressed.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Elitek (rasburicase) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ae10bc4-6b65-402f-9db5-2d7753054922) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

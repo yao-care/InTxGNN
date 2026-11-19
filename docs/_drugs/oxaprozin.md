@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Oxaprozin is an NSAID, and NSAIDs act by inhibiting cyclooxygenase (COX) and reducing prostaglandin-mediated inflammation and pain. Its efficacy in inflammatory and degenerative joint disease is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for oxaprozin: "Oxaprozin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of COXANTO, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Coxanto (oxaprozin) prescribing information, SOLA Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=918127f0-9f2a-4edf-a2f7-07c01aa52bb5), label version 2025-10-20; accessed 2026-11-19.) Oxaprozin is an NSAID, and NSAIDs act by inhibiting cyclooxygenase (COX) and reducing prostaglandin-mediated inflammation and pain. Its efficacy in inflammatory and degenerative joint disease is established.
 
 Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by mutations in the CDMP1/GDF5 gene, which disrupt bone growth signalling. No plausible mechanistic link between COX inhibition and GDF5 signalling or the underlying bone growth defect has been established. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a pharmacological rationale. At best, an NSAID might offer symptomatic joint pain relief, which is not disease modification.
 
@@ -98,6 +98,19 @@ The top prediction is supported only by the TxGNN score. There are no trials or 
 - Package insert warnings and contraindications for the Indian product
 - Preclinical or mechanistic evidence linking Oxaprozin to GDF5 signalling or skeletal development
 - If a related direction is of interest, prioritise the near-indication predictions as indication-scope extensions, supported by subtype-specific data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Coxanto (oxaprozin) prescribing information, SOLA Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=918127f0-9f2a-4edf-a2f7-07c01aa52bb5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

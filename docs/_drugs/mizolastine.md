@@ -56,7 +56,7 @@ with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, mizolastine is a second-generation H1 receptor antagonist. Its use in allergic and vasomotor rhinitis is established, but the data compiled for this report do not show a mechanistic route to the predicted indication.
+ChEMBL (EMBL-EBI) records the mechanism of action of mizolastine as: Histamine H1 receptor antagonist ([ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, mizolastine is a second-generation H1 receptor antagonist. Its use in allergic and vasomotor rhinitis is established, but the data compiled for this report do not show a mechanistic route to the predicted indication.
 
 Acute intermittent porphyria is a metabolic disorder of heme biosynthesis, and no plausible antihistamine-related mechanism is evident. The high TxGNN score (0.9976) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -108,6 +108,19 @@ The prediction rests on model output alone, with no clinical trials, no literatu
 - Mechanism of action data, for example from DrugBank, to allow a proper mechanistic-link analysis.
 - Specific assessment of whether mizolastine is porphyrinogenic, before any further work on acute intermittent porphyria.
 - A systematic search of clinical trials and literature for each predicted indication, and an indication-level assessment of route and formulation compatibility (not yet evaluated).
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

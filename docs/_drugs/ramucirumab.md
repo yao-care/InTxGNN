@@ -56,7 +56,7 @@ but **no clinical trials and no publications** were found for this prediction, s
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ramucirumab is known to be a VEGFR2 antagonist, and its efficacy in gastric, lung and liver cancers is established. Mechanistically, blocking VEGFR2 may be applicable to adenocarcinomas that depend on angiogenesis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ramucirumab: "Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model." ([DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4), label version 2026-06-09; accessed 2026-11-19.) Ramucirumab is known to be a VEGFR2 antagonist, and its efficacy in gastric, lung and liver cancers is established. Mechanistically, blocking VEGFR2 may be applicable to adenocarcinomas that depend on angiogenesis.
 
 The predicted indication is an adenocarcinoma, a histology shared with gastric adenocarcinoma and lung adenocarcinoma among the original indications. The link is therefore inferred from the similarity of disease types, not from direct evidence in this tumour. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -126,6 +126,19 @@ All ten predictions rest on model scores alone (L5), with no clinical trials or 
 - A literature and trial search for ramucirumab in cervical and uterine adenocarcinomas, starting with endocervical carcinoma
 - Assessment of whether these rare histologies have enough patients to support a trial
 - A bleeding-risk and interaction review for the intended patient population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

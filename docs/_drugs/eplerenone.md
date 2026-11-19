@@ -56,7 +56,7 @@ but there are **0 clinical trials** and **13 publications** (mostly preclinical 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, eplerenone is a selective mineralocorticoid receptor (MR) antagonist, so it blocks aldosterone-driven signalling, which is mechanistically plausible for the predicted indication.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for eplerenone: "Eplerenone binds to the mineralocorticoid receptor and blocks the binding of aldosterone, a component of the renin-angiotensin-aldosterone-system (RAAS). Aldosterone synthesis, which occurs primarily in the adrenal gland, is modulated by multiple factors, including angiotensin II and non-RAAS mediators such as adrenocorticotropic hormone (ACTH) and potassium." ([DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a), label version 2025-06-23; accessed 2026-11-19.) Based on known pharmacology, eplerenone is a selective mineralocorticoid receptor (MR) antagonist, so it blocks aldosterone-driven signalling, which is mechanistically plausible for the predicted indication.
 
 Preclinical work links hypoxia to MR activation and tissue fibrosis. Chronic intermittent hypoxia drove MR-dependent renal fibrosis in rats (PMID 35346763), and eplerenone improved atrial remodelling in a similar model (PMID 35568141). In pulmonary arterial hypertension (PAH) models, hypoxia raises aldosterone synthesis in pulmonary artery endothelial cells and promotes vascular fibrosis (PMID 25001622). MR antagonists, including eplerenone, reduced pulmonary vascular remodelling in rat models (PMIDs 29499691, 35043674).
 
@@ -112,6 +112,19 @@ No clinical trial or publication directly studies eplerenone in pulmonary hypert
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the Indian labels, including hyperkalaemia and renal-impairment risks
 - Approved indication text from the local licence records, to confirm the original use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inspra (eplerenone) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a52bedc-8e2c-4116-a296-a87770676b4a) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

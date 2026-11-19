@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, insulin lispro is a rapid-acting insulin analogue, its efficacy in diabetes mellitus is well established, and mechanistically it acts through insulin signaling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin lispro: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro products. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0), label version 2026-09-03; accessed 2026-11-19.) Based on known information, insulin lispro is a rapid-acting insulin analogue, its efficacy in diabetes mellitus is well established, and mechanistically it acts through insulin signaling.
 
 For autoimmune oophoritis, the only link is speculative. Insulin signaling operates in ovarian granulosa cells, and autoimmune endocrine conditions can overlap with type 1 diabetes. This is not a therapeutic rationale for insulin lispro. The high TxGNN score is a model prediction and should not be read as evidence of benefit.
 
@@ -120,11 +120,12 @@ The prediction for autoimmune oophoritis is supported only by a model score, wit
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient products and" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0) |
 
 <!-- review:end log -->
 

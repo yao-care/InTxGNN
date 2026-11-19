@@ -60,7 +60,7 @@ This report therefore evaluates diabetic retinopathy as the lead candidate and a
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, hyaluronidase is an enzyme that degrades hyaluronan, a component of the extracellular matrix. It is widely used to help other injected drugs spread through tissue. In the eye, it acts as a "pharmacologic vitreolysis" agent: it liquefies the vitreous gel and can promote posterior vitreous detachment.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for hyaluronidase: "Hyaluronidase is a dispersion agent, which modifies the permeability of connective tissue through the hydrolysis of hyaluronic acid, a polysaccharide found in the intercellular ground substance of connective tissue, and of certain specialized tissues, such as the umbilical cord and vitreous humor. Hyaluronic acid is also present in the capsules of type A and C hemolytic streptococci." ([DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658), label version 2024-11-11; accessed 2026-11-19.) Based on known information, hyaluronidase is an enzyme that degrades hyaluronan, a component of the extracellular matrix. It is widely used to help other injected drugs spread through tissue. In the eye, it acts as a "pharmacologic vitreolysis" agent: it liquefies the vitreous gel and can promote posterior vitreous detachment.
 
 **Diabetic retinopathy (the best-supported prediction).** Hyaluronan metabolism is dysregulated in proliferative diabetic retinopathy and appears to drive inflammation and new blood vessel growth. Preclinical studies (diabetic rats, the HIF-1α pathway, the retinal endothelial glycocalyx in mice) support a biological rationale. Intravitreal ovine hyaluronidase (Vitrase) was tested in large Phase 3 trials for clearing severe vitreous hemorrhage, a common complication of diabetic eye disease. However, hyaluronidase is not an established treatment for diabetic retinopathy, and anti-VEGF therapy remains the standard of care.
 
@@ -142,6 +142,19 @@ Please refer to the package insert for warnings and contraindications, which wer
 - Detailed mechanism of action data
 - An assessment of intravitreal formulation and route availability in India, since all current products are general-purpose injectables
 - A safety plan covering hypersensitivity and ocular adverse events
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

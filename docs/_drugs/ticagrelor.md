@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **intracranial arteriosclerosis
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ticagrelor is a P2Y12 receptor antagonist, and its efficacy in acute coronary syndrome is established. Mechanistically, it may apply to intracranial arteriosclerosis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for ticagrelor: "Ticagrelor and its major metabolite reversibly interact with the platelet P2Y 12 ADP-receptor to prevent signal transduction and platelet activation. Ticagrelor and its active metabolite are approximately equipotent." ([DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8), label version 2026-05-07; accessed 2026-11-19.) Ticagrelor is a P2Y12 receptor antagonist, and its efficacy in acute coronary syndrome is established. Mechanistically, it may apply to intracranial arteriosclerosis.
 
 Both conditions involve platelet-driven clot formation on atherosclerotic plaques. Blocking P2Y12 reduces platelet aggregation and thrombus formation, which is plausible for secondary stroke prevention in symptomatic intracranial atherosclerotic stenosis. Ticagrelor binds reversibly and does not need liver activation through CYP2C19. It may therefore help patients who respond poorly to clopidogrel because of CYP2C19 loss-of-function variants.
 
@@ -108,6 +108,19 @@ The mechanism is plausible and the model score is high. However, the only Phase 
 - Package insert warnings and contraindications for the India-marketed products, since safety screening cannot proceed without them
 - Detailed mechanism of action data
 - A bleeding-risk assessment specific to patients with intracranial atherosclerotic disease, including the aspirin combination and CYP3A inhibitor interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Brilinta (ticagrelor) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7b3f443-e83d-4bf2-0e96-023448fed9a8) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

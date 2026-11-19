@@ -59,7 +59,7 @@ The TxGNN model predicts it may be useful for **plasma cell myeloma**, with **30
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Fludarabine is a purine nucleoside analog that inhibits DNA synthesis and induces apoptosis in lymphoid cells. It is a recognised treatment in B-cell lymphoid malignancies such as chronic lymphocytic leukaemia, and plasma cell myeloma is a closely related B-cell cancer.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fludarabine: "Fludarabine phosphate is rapidly converted to active 2-fluoro-ara-ATP, which appears to inhibit DNA synthesis through inhibition of DNA polymerase alpha, ribonucleotide reductase and DNA primase." ([DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951), label version 2026-09-20; accessed 2026-11-19.) Fludarabine is a purine nucleoside analog that inhibits DNA synthesis and induces apoptosis in lymphoid cells. It is a recognised treatment in B-cell lymphoid malignancies such as chronic lymphocytic leukaemia, and plasma cell myeloma is a closely related B-cell cancer.
 
 In myeloma, fludarabine is used mainly in two supportive roles. The first is lymphodepletion, together with cyclophosphamide, before BCMA-directed CAR-T therapy. The second is reduced-intensity conditioning before allogeneic stem cell transplant. A preclinical study (PMID 17976186) reported that fludarabine inhibited the RPMI8226 myeloma cell line in vitro and in vivo, which suggests some direct antimyeloma activity.
 
@@ -156,6 +156,19 @@ Fludarabine has a well-established role as a lymphodepleting and conditioning ag
 - Dose adjustment guidance for renal impairment and age
 - A neurotoxicity and myelosuppression monitoring plan
 - A review of the drug interaction list, since many entries are unclassified
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

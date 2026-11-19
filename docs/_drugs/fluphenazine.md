@@ -60,7 +60,7 @@ but **no clinical trials and no publications** currently support this prediction
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fluphenazine is a high-potency phenothiazine and a dopamine D2 receptor antagonist. Its efficacy in psychotic disorders and schizophrenia is well established.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for fluphenazine: "Fluphenazine hydrochloride has activity at all levels of the central nervous system as well as on multiple organ systems. The mechanism whereby its therapeutic action is exerted is unknown." ([DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12), label version 2026-07-03; accessed 2026-11-19.) Based on known information, fluphenazine is a high-potency phenothiazine and a dopamine D2 receptor antagonist. Its efficacy in psychotic disorders and schizophrenia is well established.
 
 Mechanistically, no plausible pathway connects D2 antagonism to inherited retinal degeneration. Retinal dystrophies are generally genetically driven, and no data compiled for this report links fluphenazine to the causal genes or pathways. The high TxGNN score (0.9999) should be read as a model output, not as biological validation.
 
@@ -134,11 +134,12 @@ The prediction rests solely on a model score. No trials or publications exist, a
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12) |
 
 <!-- review:end log -->
 

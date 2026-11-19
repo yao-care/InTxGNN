@@ -60,7 +60,7 @@ There are **0 clinical trials** and **0 publications** directly studying this di
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, darunavir belongs to the HIV protease inhibitor class. Its use against HIV and AIDS is recorded in the knowledge graph, and mechanistically it may be applicable to related lentiviral diseases.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for darunavir: "Darunavir is an HIV-1 antiviral drug. […] Darunavir is an inhibitor of the HIV-1 protease. It selectively inhibits the cleavage of HIV-1 encoded Gag-Pol polyproteins in infected cells, thereby preventing the formation of mature virus particles." ([DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f), label version 2025-08-29; accessed 2026-11-19.) Based on known information, darunavir belongs to the HIV protease inhibitor class. Its use against HIV and AIDS is recorded in the knowledge graph, and mechanistically it may be applicable to related lentiviral diseases.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV-1, so a conceptual rationale for protease inhibition exists. However, FIV protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity. No data compiled for this report show darunavir activity against FIV protease.
 
@@ -151,11 +151,12 @@ The prediction for feline acquired immunodeficiency syndrome is supported only b
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prezista (darunavir) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814301f9-c990-46a5-b481-2879a521a16f) |
 
 <!-- review:end log -->
 

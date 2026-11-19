@@ -62,7 +62,7 @@ The data compiled for this report include **20 clinical trials** and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the compiled data. Based on the literature, arsenic trioxide induces apoptosis (through NF-κB/FLIP and BCL2-family modulation), promotes cell differentiation, and has epigenetic (demethylating) and anti-angiogenic effects. These actions are the basis for its established efficacy in APL.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for arsenic trioxide: "The mechanism of action of TRISENOX is not completely understood. Arsenic trioxide causes morphological changes and DNA fragmentation characteristic of apoptosis in NB4 human promyelocytic leukemia cells in vitro. Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukemia (PML)-retinoic acid receptor (RAR)-alpha." ([DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741), label version 2022-06-30; accessed 2026-11-19.) Based on the literature, arsenic trioxide induces apoptosis (through NF-κB/FLIP and BCL2-family modulation), promotes cell differentiation, and has epigenetic (demethylating) and anti-angiogenic effects. These actions are the basis for its established efficacy in APL.
 
 APL and MDS are both clonal myeloid disorders of the bone marrow. MDS can progress to acute myeloid leukemia, and arsenic trioxide is already established in a related myeloid malignancy. This biological overlap supports the TxGNN prediction.
 
@@ -160,6 +160,19 @@ Myelodysplastic syndrome has multiple completed Phase 1 and Phase 2 trials and a
 - A cardiac safety plan (baseline and serial ECG, electrolyte correction, and a review of concomitant QT-prolonging drugs)
 - Consideration of a randomized trial, since no Phase 3 evidence exists
 - Secondary research questions: refractory aplastic anemia (L3; small single-arm studies, one terminated for non-response) and Ewing sarcoma (L3; mainly preclinical)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ Benzonatate is an oral cough suppressant marketed in India as single-ingredient 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, benzonatate is a local anaesthetic-like agent that blocks voltage-gated sodium channels in peripheral sensory nerves and stretch receptors, which is how it suppresses the cough reflex.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for benzonatate: "Benzonatate acts peripherally by anesthetizing the stretch receptors located in the respiratory passages, lungs, and pleura by dampening their activity and thereby reducing the cough reflex at its source. It begins to act within 15 to 20 minutes and its effect lasts for 3 to 8 hours." ([DailyMed: Benzonatate 100 Mg (benzonatate) prescribing information, TIME CAP LABORATORIES, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5adfd324-b6d6-f624-e063-6294a90ab26e), label version 2026-09-07; accessed 2026-11-19.) Based on general pharmacology, benzonatate is a local anaesthetic-like agent that blocks voltage-gated sodium channels in peripheral sensory nerves and stretch receptors, which is how it suppresses the cough reflex.
 
 A possible link to cauda equina syndrome is modulation of nociceptive or neuropathic signalling through sodium channel blockade. This link is speculative. Cauda equina syndrome is a surgical emergency caused by mechanical compression of nerve roots, and a sodium channel blocker would not treat that cause. At most, it might play a symptomatic role.
 
@@ -112,6 +112,19 @@ The high TxGNN scores (0.9966 for cauda equina syndrome and 0.9939 for obsolete 
 - Preclinical or clinical evidence showing a benefit in cauda equina syndrome or neurogenic bladder symptoms
 - Clarification of which current disease concept the "obsolete neurogenic bladder" entry maps to
 - Route compatibility assessment for the proposed new indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Benzonatate 100 Mg (benzonatate) prescribing information, TIME CAP LABORATORIES, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5adfd324-b6d6-f624-e063-6294a90ab26e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

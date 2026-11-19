@@ -60,7 +60,7 @@ The evidence is model prediction only, and the high score likely reflects the di
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general drug knowledge, ritonavir is an HIV-1 protease inhibitor and a strong CYP3A4 inhibitor. These details are not drawn from the compiled data, so please verify them.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for ritonavir: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), label version 2026-07-23; accessed 2026-11-19.) From general drug knowledge, ritonavir is an HIV-1 protease inhibitor and a strong CYP3A4 inhibitor. These details are not drawn from the compiled data, so please verify them.
 
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a protease-based rationale is conceivable. However, FIV protease differs from HIV-1 protease in substrate specificity, and HIV-1 protease inhibitors are generally reported to have limited activity against it. The very high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as HIV/AIDS, not biological evidence.
 
@@ -135,11 +135,12 @@ No clinical trial or publication directly studies ritonavir in feline acquired i
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->
 

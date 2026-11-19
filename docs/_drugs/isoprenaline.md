@@ -60,7 +60,7 @@ The evidence is model-prediction only, so this prediction should be treated as a
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, isoprenaline is a non-selective beta-adrenergic agonist. In theory, beta-2 stimulation could influence nasal vascular tone and mucosal secretion.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for isoprenaline: "Isoproterenol is a potent nonselective beta-adrenergic agonist with very low affinity for alpha‑adrenergic receptors." ([DailyMed: isoproterenol hydrochloride prescribing information, KVK-Tech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=051acbc2-7bf8-4059-e063-6394a90a115b), label version 2026-11-12; accessed 2026-11-19.) Based on known pharmacology, isoprenaline is a non-selective beta-adrenergic agonist. In theory, beta-2 stimulation could influence nasal vascular tone and mucosal secretion.
 
 The high prediction score for nasal cavity disease comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No direct evidence supports a benefit in nasal disease.
 
@@ -121,6 +121,19 @@ The prediction rests on a model score alone (L5). There are no clinical trials, 
 - Preclinical or clinical studies of isoprenaline in nasal disease
 - An assessment of route compatibility (a nasal or topical formulation does not exist in the registered products)
 - Consideration of better-supported predictions, such as bronchial disease, though this would largely revisit a superseded use compared with selective beta-2 agonists
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: isoproterenol hydrochloride prescribing information, KVK-Tech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=051acbc2-7bf8-4059-e063-6394a90a115b) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

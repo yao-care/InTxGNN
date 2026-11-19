@@ -60,7 +60,7 @@ but **no clinical trials and no publications** currently support this specific p
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, amantadine is an NMDA receptor antagonist with dopaminergic activity, and its efficacy in Parkinson disease and related movement disorders is established. Mechanistically, it may be applicable to Rasmussen encephalitis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for amantadine: "The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor." ([DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28), label version 2026-10-05; accessed 2026-11-19.) Based on known information, amantadine is an NMDA receptor antagonist with dopaminergic activity, and its efficacy in Parkinson disease and related movement disorders is established. Mechanistically, it may be applicable to Rasmussen encephalitis.
 
 Rasmussen encephalitis is a rare, progressive inflammatory brain disease that causes severe seizures and loss of function on one side of the brain. Glutamate receptor-mediated excitotoxicity and autoimmune mechanisms have been proposed in this disease. NMDA receptor antagonism could therefore plausibly be relevant. This link is theoretical and unverified, and the prediction rests on the model score alone.
 
@@ -107,6 +107,19 @@ The prediction score is very high, but there are no clinical trials or publicati
 - Package insert warnings and contraindications from Indian manufacturers, including approved indication text
 - A safety assessment of amantadine in patients with epilepsy
 - Consideration of the other predictions (myelitis, PLA2G6-associated neurodegeneration) as research questions, since they have some indirect literature support
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

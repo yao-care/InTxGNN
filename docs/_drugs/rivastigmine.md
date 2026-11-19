@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **glaucoma**, but there are cur
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known class pharmacology, rivastigmine inhibits both acetylcholinesterase and butyrylcholinesterase, which raises acetylcholine levels. Its efficacy in Alzheimer's disease rests on this cholinergic enhancement.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for rivastigmine: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), label version 2025-11-11; accessed 2026-11-19.) Based on known class pharmacology, rivastigmine inhibits both acetylcholinesterase and butyrylcholinesterase, which raises acetylcholine levels. Its efficacy in Alzheimer's disease rests on this cholinergic enhancement.
 
 In the eye, higher acetylcholine levels can promote ciliary muscle contraction and increase outflow through the trabecular meshwork, which lowers intraocular pressure (IOP). This is analogous to cholinergic agents such as pilocarpine and physostigmine, which have been used in glaucoma. A rabbit study reported that topical rivastigmine lowered IOP in normotensive animals, and a 2024 systems genetics and molecular modelling review supports the involvement of cholinergic pathways in IOP regulation.
 
@@ -102,6 +102,19 @@ The glaucoma prediction is supported by a plausible cholinergic mechanism and a 
 - Further preclinical work, including ocular pharmacokinetics, tolerability and replication of the IOP-lowering effect in additional models
 - Assessment of whether a topical ocular formulation is feasible, since existing India products are oral or transdermal
 - A systemic safety assessment for the cardiac, respiratory and gastrointestinal signals
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ Of the other predictions, "specific developmental disorder" has the most literat
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, methylphenidate blocks the dopamine and norepinephrine transporters, raising synaptic catecholamine levels in frontostriatal circuits involved in attention and executive function. Its efficacy in ADHD is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for methylphenidate: "Methylphenidate hydrochloride is a central nervous system (CNS) stimulant. The mode of therapeutic action of METADATE CD in the treatment of ADHD in pediatric patients 6 years of age and older is not known. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space." ([DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4), label version 2026-10-21; accessed 2026-11-19.) Based on general pharmacology, methylphenidate blocks the dopamine and norepinephrine transporters, raising synaptic catecholamine levels in frontostriatal circuits involved in attention and executive function. Its efficacy in ADHD is well established.
 
 Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked disorder. It can include ADHD-like behavioural features, so any benefit would likely be limited to symptom management rather than disease modification. No mechanistic link is supported by the available data. Despite the very high model score, there is no clinical or preclinical corroboration, and the score may be a TxGNN model (deep learning) artefact.
 
@@ -145,6 +145,19 @@ The top-ranked prediction (faciodigitogenital syndrome) has a very high model sc
 - Direct clinical or preclinical studies in the predicted indications
 - A cardiovascular, psychiatric and abuse-potential risk assessment for any new target population
 - A review of drug-interaction management, especially with bupropion and other sympathomimetics
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Metadate Cd (methylphenidate hydrochloride) prescribing information, Lannett Company, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29f06562-6b6a-4ca6-b62e-d08a45fb3dd4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -56,7 +56,7 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, dutasteride inhibits 5-alpha reductase types 1 and 2, which lowers dihydrotestosterone (DHT). Its efficacy in BPH is established, and DHT suppression is also relevant to androgen-driven hair follicle disorders such as androgenetic alopecia.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dutasteride: "Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2." ([DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3), label version 2026-08-27; accessed 2026-11-19.) Based on known pharmacology, dutasteride inhibits 5-alpha reductase types 1 and 2, which lowers dihydrotestosterone (DHT). Its efficacy in BPH is established, and DHT suppression is also relevant to androgen-driven hair follicle disorders such as androgenetic alopecia.
 
 The link to the predicted indication is weak. Ambras syndrome is a genetic disorder of hair follicle development, linked to regulatory changes affecting TRPS1. It is not primarily androgen-driven, so the mechanistic connection is speculative. The very high TxGNN score is a computational prediction only, likely reflecting network associations with hair-related phenotypes.
 
@@ -108,6 +108,19 @@ The prediction has a very high model score, but it is supported by no clinical t
 - Detailed mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence linking 5-alpha reductase inhibition to TRPS1-related follicle biology
 - A review of whether a better-supported hair-related candidate (for example, androgen-dependent hirsutism or androgenetic alopecia) would be a more sensible repurposing target than the rare genetic conditions currently ranked highest
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

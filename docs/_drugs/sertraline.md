@@ -58,7 +58,7 @@ Sertraline is an antidepressant of the selective serotonin reuptake inhibitor (S
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, sertraline belongs to the SSRI class, which increases serotonin signalling in the brain. Its use in anxiety-related conditions is well established. Mechanistically, it may influence mood, anxiety and impulsivity, which are features that overlap with some personality disorders.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for sertraline: "Sertraline potentiates serotonergic activity in the central nervous system through inhibition of neuronal reuptake of serotonin (5-HT)." ([DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7), label version 2023-08-08; accessed 2026-11-19.) Based on general knowledge, sertraline belongs to the SSRI class, which increases serotonin signalling in the brain. Its use in anxiety-related conditions is well established. Mechanistically, it may influence mood, anxiety and impulsivity, which are features that overlap with some personality disorders.
 
 The model most likely assigns the high score because of closeness in the network of related personality and anxiety disorders, not because of disease-specific biology. Several neighbouring personality disorders (schizoid, paranoid, schizotypal) received an identical score of 0.9993, which supports this reading. No study in the compiled data tests sertraline in histrionic personality disorder, so the link remains a hypothesis.
 
@@ -113,6 +113,19 @@ However, it largely overlaps with anxiety indications already linked to sertrali
 - Mechanism of action data and a mechanistic rationale specific to this condition
 - Package insert warnings and contraindications from the Indian regulatory records
 - A drug interaction review for the likely co-medications in this population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

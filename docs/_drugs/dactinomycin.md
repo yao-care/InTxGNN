@@ -60,7 +60,7 @@ There are **no clinical trials and no publications** on this disease, so the pre
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Dactinomycin is known as a cytotoxic transcription inhibitor: it intercalates into DNA and blocks RNA polymerase. It also causes marked bone marrow suppression.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dactinomycin: "Dactinomycin is a cytotoxic actinomycin that binds DNA and inhibits RNA synthesis. The cytotoxic activity of dactinomycin has been demonstrated in animal models of different human cancers." ([DailyMed: dactinomycin prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc), label version 2024-06-18; accessed 2026-11-19.) Dactinomycin is known as a cytotoxic transcription inhibitor: it intercalates into DNA and blocks RNA polymerase. It also causes marked bone marrow suppression.
 
 In theory, broad suppression of dividing cells could dampen autoreactive lymphocytes, which drive multiple sclerosis. However, the data compiled for this report support no mechanistic link between dactinomycin and this disease. Its toxicity profile makes it an unlikely choice compared with established multiple sclerosis therapies. The high score of 0.9958 is a model output only, and it is not backed by any trial or publication.
 
@@ -121,6 +121,19 @@ No trials or publications study this drug in relapsing-remitting multiple sclero
 - Preclinical studies in multiple sclerosis models
 - Package insert warnings and contraindications from the India product labels
 - A benefit-risk assessment against current disease-modifying therapies
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dactinomycin prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

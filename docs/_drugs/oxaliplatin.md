@@ -56,7 +56,7 @@ with **3 registered clinical trials (2 directly relevant Phase II studies)** and
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, oxaliplatin is a platinum agent that forms DNA adducts and crosslinks, which induces apoptosis in rapidly dividing cells. Its efficacy in metastatic colon cancer is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for oxaliplatin: "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules." ([DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5), label version 2026-08-24; accessed 2026-11-19.) Based on known pharmacology, oxaliplatin is a platinum agent that forms DNA adducts and crosslinks, which induces apoptosis in rapidly dividing cells. Its efficacy in metastatic colon cancer is established.
 
 Mesothelioma responds modestly to platinum-based chemotherapy (cisplatin or carboplatin is the standard backbone), so oxaliplatin is a mechanistically plausible alternative platinum partner. Phase II data exist for oxaliplatin combined with gemcitabine, raltitrexed, vinorelbine, and bortezomib.
 
@@ -126,6 +126,19 @@ Only small, single-arm Phase II studies (about 25 to 70 patients each) support o
 - Detailed mechanism of action data
 - Comparative data against current standard of care (platinum plus pemetrexed, immune checkpoint combinations)
 - Subtype-specific evidence (epithelioid, sarcomatoid) before any of those predictions are considered, as they currently rest on model inference and indirect peritoneal data
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

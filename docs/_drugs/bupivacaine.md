@@ -54,7 +54,7 @@ Bupivacaine is a local anesthetic that blocks sodium channels. The TxGNN model p
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Bupivacaine is generally known as a local anesthetic that blocks sodium channels in nerve fibres, which stops pain signals from being transmitted.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bupivacaine: "Local anesthetics block the generation and the conduction of nerve impulses presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers." ([DailyMed: Exparel (bupivacaine) prescribing information, Pacira Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb5a9e59-0f51-11df-8a39-0800200c9a66), label version 2026-11-09; accessed 2026-11-19.) Bupivacaine is generally known as a local anesthetic that blocks sodium channels in nerve fibres, which stops pain signals from being transmitted.
 
 Acrodermatitis chronica atrophicans is a late-stage skin manifestation of Borrelia infection, and it is treated with antibiotics. Bupivacaine has no antimicrobial activity, so no credible disease-modifying link was identified. The high score (0.9923) appears to reflect the model's closeness between dermatological terms rather than a biological rationale. At most, bupivacaine could be conceived for symptomatic numbing of painful skin lesions, which would not treat the disease itself.
 
@@ -99,6 +99,19 @@ The prediction has a high model score but no supporting trials or publications, 
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the India regulatory source
 - A clear clinical rationale showing a benefit beyond symptomatic pain relief
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Exparel (bupivacaine) prescribing information, Pacira Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bb5a9e59-0f51-11df-8a39-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

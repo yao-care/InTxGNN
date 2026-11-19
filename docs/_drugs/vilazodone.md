@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **neurotic disorder**, but **no
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, vilazodone is an antidepressant used in depression and anxiety disorders, and mechanistically it may be applicable to neurotic disorder. Any mechanistic description beyond this is not supported by the supplied data.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for vilazodone: "The mechanism of action of vilazodone in the treatment of major depressive disorder is not fully understood, but is thought to be related to its enhancement of serotonergic activity in the CNS through selective inhibition of serotonin reuptake. Vilazodone is also a partial agonist at serotonergic 5-HT 1A receptors; however, the net result of this action on serotonergic transmission and its role in vilazodone’s antidepressant effect are unknown." ([DailyMed: Viibryd (vilazodone hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c55ccfb-c4cf-11df-851a-0800200c9a66), label version 2023-10-01; accessed 2026-11-19.) Based on known information, vilazodone is an antidepressant used in depression and anxiety disorders, and mechanistically it may be applicable to neurotic disorder. Any mechanistic description beyond this is not supported by the supplied data.
 
 Neurotic disorder is a broad, legacy diagnostic category. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -123,6 +123,19 @@ The prediction for neurotic disorder has a high model score but no supporting tr
 - Clinical trials or publications that directly study vilazodone in neurotic disorder, or in more specific conditions within it
 - Clarification of the approved indications from licence or label text
 - A review of the major drug interactions listed above
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Viibryd (vilazodone hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c55ccfb-c4cf-11df-851a-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

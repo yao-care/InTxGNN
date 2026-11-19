@@ -56,7 +56,7 @@ Evidence is therefore at the model-prediction level, and no plausible mechanisti
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, exemestane is a steroidal irreversible aromatase inhibitor that lowers circulating estrogen. It is generally used in hormone-receptor-positive breast cancer in postmenopausal women.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for exemestane: "Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. […] Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione." ([DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3), label version 2025-12-24; accessed 2026-11-19.) Based on known pharmacology, exemestane is a steroidal irreversible aromatase inhibitor that lowers circulating estrogen. It is generally used in hormone-receptor-positive breast cancer in postmenopausal women.
 
 Antithrombin deficiency type 2 is a hereditary defect in the function of the SERPINC1 gene product. Estrogen lowering is not expected to correct this defect. Any effect on thrombotic risk would be indirect and speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -125,6 +125,19 @@ The top prediction has only a high model score. There are no clinical trials or 
 - Mechanism of action data from DrugBank to allow a proper mechanistic-link analysis
 - Preclinical or mechanistic evidence connecting aromatase inhibition to antithrombin or other coagulation pathways, if the prediction is to be pursued
 - Re-evaluation of the predictions with more plausible biology, since the thrombophilia and migraine predictions are likewise unsupported
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

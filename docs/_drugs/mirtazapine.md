@@ -56,7 +56,7 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, mirtazapine is an antidepressant that acts through central alpha-2 adrenergic antagonism, 5-HT2/5-HT3 antagonism and H1 antagonism. Its efficacy in depression is established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for mirtazapine: "The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity." ([DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887), label version 2025-08-06; accessed 2026-11-19.) Based on general pharmacological knowledge, mirtazapine is an antidepressant that acts through central alpha-2 adrenergic antagonism, 5-HT2/5-HT3 antagonism and H1 antagonism. Its efficacy in depression is established.
 
 The link to the predicted indication is weak. Ohdo syndrome is a rare genetic neurodevelopmental disorder (blepharophimosis, intellectual disability, hypotonia), associated with chromatin-modifier defects such as KAT6B or MED12 variants, depending on the subtype. Mirtazapine's monoaminergic pharmacology has no established connection to this pathology. The very high score (0.9942) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, benefit could be symptomatic (for example sleep, appetite or mood), and this is speculative.
 
@@ -100,6 +100,19 @@ All three predictions are supported by model scores only. There are no clinical 
 - Package insert warnings and contraindications from the India product labels (currently unavailable, which blocks safety screening)
 - Preclinical or mechanistic evidence linking mirtazapine to the pathways involved in Ohdo syndrome or benign paroxysmal torticollis of infancy
 - A review of whether any symptomatic benefit (sleep, appetite, mood) is clinically relevant, with a paediatric safety assessment
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

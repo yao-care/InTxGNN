@@ -54,7 +54,7 @@ Salmeterol is a long-acting beta2-adrenergic agonist bronchodilator used in airw
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, salmeterol is a long-acting beta2-agonist. It relaxes airway smooth muscle and may increase ciliary beat frequency and mucociliary clearance.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for salmeterol: "Salmeterol is a selective LABA. In vitro studies show salmeterol to be at least 50 times more selective for beta 2 -adrenoceptors than albuterol. Although beta 2 -adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta 1 -adrenoceptors are the predominant receptors in the heart, there are also beta 2 -adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors." ([DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4), label version 2022-10-10; accessed 2026-11-19.) Based on general pharmacology, salmeterol is a long-acting beta2-agonist. It relaxes airway smooth muscle and may increase ciliary beat frequency and mucociliary clearance.
 
 The link to the predicted condition is indirect. Respiratory malformation is a structural category, and a beta2-agonist is not expected to correct a structural defect. At most, salmeterol might ease symptoms of related airway problems such as impaired mucus clearance. The retrieved evidence concerns COPD, asthma, cystic fibrosis and ciliary function, not malformation itself. The prediction is therefore a computational signal without direct clinical support.
 
@@ -111,6 +111,18 @@ No retrieved trial or publication directly studies respiratory malformation, so 
 - Direct clinical or preclinical studies in this condition
 - Mechanism of action data
 - Package insert warnings and contraindications for a safety review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

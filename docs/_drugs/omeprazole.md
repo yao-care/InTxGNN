@@ -54,7 +54,7 @@ Omeprazole is a proton pump inhibitor originally used for acid-related upper gas
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, omeprazole is a proton pump inhibitor that suppresses gastric acid secretion. Its efficacy in acid-related conditions such as reflux disease, esophagitis and peptic ulcer is well established, and it may therefore relieve the acid-related mucosal injury and symptoms that accompany bile reflux.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for omeprazole: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), label version 2024-03-19; accessed 2026-11-19.) Based on known information, omeprazole is a proton pump inhibitor that suppresses gastric acid secretion. Its efficacy in acid-related conditions such as reflux disease, esophagitis and peptic ulcer is well established, and it may therefore relieve the acid-related mucosal injury and symptoms that accompany bile reflux.
 
 The link is indirect. Omeprazole does not stop bile or duodenal contents from refluxing into the stomach. Small human studies in Barrett's oesophagus (PMIDs 10994616, 9824338) and a pediatric prospective study of oesophageal bile reflux (PMID 16641575) looked at its effect on bile reflux, and they are the main clinical-level evidence. Three rat studies (PMIDs 33027361, 10389684, 8943968) suggest that acid suppression combined with duodenogastric reflux may promote mucosal growth and gastric carcinogenesis. This is a safety signal that must be resolved before any repurposing.
 
@@ -113,6 +113,19 @@ The human evidence is limited to small studies in Barrett's oesophagus and child
 - A controlled clinical study of omeprazole specifically for duodenogastric reflux
 - A long-term safety assessment of the gastric carcinogenesis signal in reflux settings
 - Confirmation of approved indications for the Indian licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

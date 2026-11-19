@@ -55,7 +55,7 @@ This is essentially a model prediction that sits very close to the already appro
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, neostigmine inhibits acetylcholinesterase, which raises acetylcholine levels at the neuromuscular junction. This compensates for the loss of functional acetylcholine receptors in myasthenia gravis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for neostigmine: "Neostigmine methylsulfate is a competitive cholinesterase inhibitor. By reducing the breakdown of acetylcholine, neostigmine methylsulfate induces an increase in acetylcholine in the synaptic cleft which competes for the same binding site as nondepolarizing neuromuscular blocking agents, and reverses the neuromuscular blockade." ([DailyMed: neostigmine prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=95fb1b3d-be9a-fdb4-e053-2a95a90a5e90), label version 2023-05-15; accessed 2026-11-19.) Based on known pharmacology, neostigmine inhibits acetylcholinesterase, which raises acetylcholine levels at the neuromuscular junction. This compensates for the loss of functional acetylcholine receptors in myasthenia gravis.
 
 Thymic hyperplasia is a common pathological feature of autoimmune myasthenia gravis. The high TxGNN score therefore mainly reflects how close this subtype is to the approved myasthenia gravis indication. It does not point to a genuinely new therapeutic use.
 
@@ -120,6 +120,19 @@ The predicted indication is a subtype of myasthenia gravis, which neostigmine al
 - Clarification of whether myasthenia gravis with thymus hyperplasia is a clinically distinct target beyond the existing myasthenia gravis indication.
 - For neonatal myasthenia gravis, a dedicated review of neonatal dosing, safety and any controlled evidence.
 - Route compatibility assessment (not yet performed).
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: neostigmine prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=95fb1b3d-be9a-fdb4-e053-2a95a90a5e90) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

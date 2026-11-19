@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **esotropia**, but this rests on 
 
 ## Why is This Prediction Reasonable?
 
-Aflibercept traps VEGF-A, VEGF-B and placental growth factor (PlGF), which reduces abnormal blood vessel growth and vascular leakage. Detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general knowledge of the drug class.
+Aflibercept traps VEGF-A, VEGF-B and placental growth factor (PlGF), which reduces abnormal blood vessel growth and vascular leakage. According to the Mechanism of Action section of the US FDA-approved prescribing information for aflibercept: "Vascular endothelial growth factor-A (VEGF-A) and placental growth factor (PlGF) are members of the VEGF family of angiogenic factors that can act as mitogenic, chemotactic, and vascular permeability factors for endothelial cells. VEGF acts via two receptor tyrosine kinases, VEGFR-1 and VEGFR-2, present on the surface of endothelial cells. […] Aflibercept products act as a soluble decoy receptor that binds VEGF - A and PlGF, and thereby can inhibit the binding and activation of these cognate VEGF receptors." ([DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06), label version 2026-10-29; accessed 2026-11-19.) This description is based on general knowledge of the drug class.
 
 Esotropia is an eye alignment disorder in which one or both eyes turn inward. It stems from problems in eye muscle control, nerve signalling or refractive and developmental factors, rather than from abnormal blood vessel growth. No plausible direct mechanism links VEGF blockade to esotropia.
 
@@ -95,6 +95,19 @@ The prediction is supported only by the model score. No clinical trials or publi
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for safety screening
 - Assessment of route compatibility (intravitreal injection) with any proposed use in strabismus
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Pavblu (aflibercept-ayyh) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c61062f3-80ec-4a20-8c28-46e468592a06) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **cervical neuroblastoma**, but
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Lindane is known as an organochlorine insecticide that acts as a GABA-A receptor antagonist. Its efficacy in scabies and lice is established, but this is a parasiticidal effect on the pest's nervous system.
+ChEMBL (EMBL-EBI) records the mechanism of action of lindane as: GABA-A receptor negative allosteric modulator ([ChEMBL CHEMBL15891 (lindane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15891), CC BY-SA 3.0; accessed 2026-11-19.) Lindane is known as an organochlorine insecticide that acts as a GABA-A receptor antagonist. Its efficacy in scabies and lice is established, but this is a parasiticidal effect on the pest's nervous system.
 
 No mechanistic link has been identified between this action and neuroblastoma. The very high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other top-ranked predictions are also tumour or cyst conditions of the head and neck (for example benign neoplasm of tongue, epiglottis neoplasm, odontogenic cyst, inner ear neoplasm). All are L5 with no supporting studies, which suggests a systematic pattern in the model's predictions rather than a drug-specific signal.
 
@@ -93,6 +93,19 @@ The prediction is supported only by a model score (L5), with no clinical trials,
 - Mechanism of action data from DrugBank
 - Preclinical evidence showing a biological link to neuroblastoma
 - A safety and route-of-administration assessment, since the available products are topical only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL15891 (lindane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15891) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

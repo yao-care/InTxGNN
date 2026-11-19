@@ -56,7 +56,7 @@ The trials and publications compiled for this report concern neurocysticercosis,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Albendazole belongs to the benzimidazole class, which is generally understood to act by inhibiting beta-tubulin polymerisation in parasites. This is general class knowledge and not confirmed by the data compiled here.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for albendazole: "ALBENZA (albendazole) is a synthetic, antihelminthic drug of the class benzimidazole. […] ALBENZA binds to the colchicine-sensitive site of β-tubulin inhibiting their polymerization into microtubules. The decrease in microtubules in the intestinal cells of the parasites decreases their absorptive function, especially the uptake of glucose by the adult and larval forms of the parasites, and also depletes glycogen storage." ([DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5), label version 2019-09-23; accessed 2026-11-19.) Albendazole belongs to the benzimidazole class, which is generally understood to act by inhibiting beta-tubulin polymerisation in parasites. This is general class knowledge and not confirmed by the data compiled here.
 
 Coenurosis is a cyst disease caused by the larval stage of a tapeworm (Taenia multiceps), and it resembles neurocysticercosis, a larval tapeworm disease of the central nervous system. The trials listed below were run in neurocysticercosis, so the link to coenurosis rests on this biological similarity. Coenurosis-specific evidence appears limited to case reports, and none is among the studies compiled for this report.
 
@@ -123,6 +123,18 @@ The TxGNN score is high (0.9983), but no cited trial or publication studies coen
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for the Indian products
 - A safety monitoring plan covering liver function and blood counts, especially for prolonged courses
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **nasal cavity disease**, but the 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Clemastine belongs to the first-generation H1 antihistamine class. These drugs block histamine H1 receptors and also have anticholinergic effects that can reduce nasal secretions.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for clemastine: "Clemastine fumarate is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. The inherently long duration of antihistaminic effects of clemastine fumarate has been demonstrated in wheal and flare studies." ([DailyMed: Clemsza (clemastine fumarate) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a35ed77-e35c-4c54-ad7f-1b92e450fa20), label version 2026-10-05; accessed 2026-11-19.) Clemastine belongs to the first-generation H1 antihistamine class. These drugs block histamine H1 receptors and also have anticholinergic effects that can reduce nasal secretions.
 
 "Nasal cavity disease" is a very broad term. The high score most likely reflects its overlap with common allergic and vasomotor nasal conditions rather than a distinct new repurposing signal. A plausible mechanistic link is H1 blockade combined with anticholinergic reduction of rhinorrhoea. No specific evidence was supplied to test this link, so the prediction rests on the model score alone.
 
@@ -100,6 +100,19 @@ The prediction has no supporting clinical trials or publications. The topic is a
 - Package insert warnings and contraindications from the Indian labels.
 - Mechanism-of-action data for clemastine.
 - A safety review for patients with the conditions listed above, and for use alongside other anticholinergic or CNS-active drugs.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Clemsza (clemastine fumarate) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9a35ed77-e35c-4c54-ad7f-1b92e450fa20) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -59,7 +59,7 @@ Evidence is thin: **0 registered clinical trials** and **1 publication** (a case
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, reteplase is a recombinant tissue plasminogen activator that converts plasminogen to plasmin and dissolves fibrin clots in occluded coronary arteries. Its efficacy in acute myocardial infarction is established, and mechanistically it applies to any infarction caused by a thrombus in a coronary artery.
+ChEMBL (EMBL-EBI) records the mechanism of action of reteplase as: Tissue-type plasminogen activator exogenous protein ([ChEMBL CHEMBL2107885 (reteplase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107885), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, reteplase is a recombinant tissue plasminogen activator that converts plasminogen to plasmin and dissolves fibrin clots in occluded coronary arteries. Its efficacy in acute myocardial infarction is established, and mechanistically it applies to any infarction caused by a thrombus in a coronary artery.
 
 Posterolateral myocardial infarction is defined by the part of the heart wall affected, not by a different disease process. It therefore falls under the existing myocardial infarction indication. For this reason it is not a true repurposing candidate.
 
@@ -145,6 +145,19 @@ The top predictions are subtypes of myocardial infarction, which reteplase alrea
 - Mechanism of action data from DrugBank
 - A decision on whether the subtype predictions need separate evaluation, since they fall under the existing label
 - Reteplase-specific trial or registry evidence for any indication that is genuinely outside the current label
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2107885 (reteplase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2107885) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

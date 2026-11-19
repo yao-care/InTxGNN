@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI). Its efficacy in HIV infection is established, and the predicted disease involves a closely related lentivirus that also depends on reverse transcriptase.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for nevirapine: "Nevirapine is an antiretroviral drug. […] Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) of HIV-1. Nevirapine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site." ([DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15), label version 2026-10-08; accessed 2026-11-19.) Based on known information, nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI). Its efficacy in HIV infection is established, and the predicted disease involves a closely related lentivirus that also depends on reverse transcriptase.
 
 The high score most likely reflects this shared viral target class rather than true susceptibility. SIV reverse transcriptase is generally intrinsically resistant to NNRTIs. Only chimeric SIV/HIV constructs (SHIV) carrying the HIV-1 reverse transcriptase gene are expected to respond. The retrieved studies use such chimeras as laboratory and animal models for studying antiviral resistance. None of them evaluates nevirapine as a treatment for SIV infection itself.
 
@@ -115,6 +115,19 @@ The prediction rests on model scoring alone. SIV reverse transcriptase is genera
 - Mechanism of action data
 - Package insert warnings and contraindications from the India licence holders
 - A clear human or veterinary use case that justifies the safety risks
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: nevirapine prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f6c3eed-2a5d-46ed-9a7c-59715f338a15) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

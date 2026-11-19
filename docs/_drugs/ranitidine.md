@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **peptic ulcer perforation**, but 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Ranitidine belongs to the H2-receptor antagonist class, whose general effect is to lower gastric acid output. Acid suppression is established as helpful for ulcer healing and for preventing ulcer recurrence. Long-term H2-antagonist therapy has been reviewed as reducing relapse and, in one review, the risk of complications (PMIDs 8364140 and 8103373).
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for ranitidine: "Ranitidine Tablets are a competitive, reversible inhibitor of the action of histamine at the histamine H 2 -receptors, including receptors on the gastric cells. Ranitidine Tablets do not lower serum Ca ++ in hypercalcemic states." ([DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9), label version 2026-09-24; accessed 2026-11-19.) Ranitidine belongs to the H2-receptor antagonist class, whose general effect is to lower gastric acid output. Acid suppression is established as helpful for ulcer healing and for preventing ulcer recurrence. Long-term H2-antagonist therapy has been reviewed as reducing relapse and, in one review, the risk of complications (PMIDs 8364140 and 8103373).
 
 The link to perforation is weak, however. Perforation is an acute surgical complication, and acid suppression does not treat it. At most, ranitidine could play an adjunct or secondary-prevention role, for example in protecting high-risk patients or supporting healing after repair. The supplied studies do not show such a benefit directly. The one randomized trial on perforated ulcer (PMID 2927479) compared nonoperative management with emergency surgery and did not test ranitidine specifically. The prediction therefore rests mainly on the model score and a plausible but indirect mechanistic argument.
 
@@ -111,6 +111,18 @@ For warnings and contraindications, please refer to the package insert.
 - Clinical studies that define a specific role, such as adjunct therapy after perforation repair or prevention in high-risk patients, and test ranitidine directly in that role.
 - Package insert warnings and contraindications for safety screening.
 - Review of the interaction profile, especially the major interaction with atazanavir, if a study is planned.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: ranitidine prescribing information, Atland Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcf27c99-8bd4-41fb-bff8-38fed9de76d9) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

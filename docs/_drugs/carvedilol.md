@@ -56,7 +56,7 @@ but **no clinical trials and no publications** specific to this indication were 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, carvedilol is a non-selective beta-blocker with additional alpha-1 blockade. Its efficacy in hypertension is established, and mechanistically it may be applicable to severe hypertension with kidney involvement through blood pressure lowering and reduced renin release.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for carvedilol: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), label version 2026-07-31; accessed 2026-11-19.) Based on known pharmacology, carvedilol is a non-selective beta-blocker with additional alpha-1 blockade. Its efficacy in hypertension is established, and mechanistically it may be applicable to severe hypertension with kidney involvement through blood pressure lowering and reduced renin release.
 
 The new indication is very close to the original one. Malignant hypertensive renal disease is a severe, kidney-damaging form of hypertension, so the high score may largely reflect proximity to the existing hypertension label rather than a genuinely new repurposing signal. In clinical practice, malignant hypertension is usually managed with rapid-acting parenteral agents, so the role of an oral beta-blocker is uncertain and cannot be verified from the available data.
 
@@ -105,6 +105,19 @@ The prediction has a high model score but no clinical trials or literature for t
 - Indication-specific clinical or observational evidence for malignant hypertensive renal disease
 - A safety review of the knowledge-graph contraindications, especially bronchospastic disease, diabetes, hypotension, and conduction disorders
 - If the pulmonary hypertension predictions are pursued, dedicated preclinical and clinical evidence addressing beta-blocker safety in that setting
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

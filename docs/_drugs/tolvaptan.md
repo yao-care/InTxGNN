@@ -55,7 +55,7 @@ with **no registered clinical trials** for this specific subtype but **20 public
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Tolvaptan is a selective vasopressin V2 receptor antagonist. In polycystic kidney disease, V2 receptor activation raises cAMP in renal tubular cells, which drives cyst growth and fluid secretion. Blocking the V2 receptor lowers cAMP and may slow cyst expansion.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tolvaptan: "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor." ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), label version 2026-09-30; accessed 2026-11-19.) Tolvaptan is a selective vasopressin V2 receptor antagonist. In polycystic kidney disease, V2 receptor activation raises cAMP in renal tubular cells, which drives cyst growth and fluid secretion. Blocking the V2 receptor lowers cAMP and may slow cyst expansion.
 
 The predicted indication belongs to the same ADPKD/PKD family as one of the drug's existing indications. It is therefore largely an on-label or closely related use rather than a true repurposing. The PKD3 subtype (GANAB-associated) has not been specifically tested. The evidence is inferred from the broader ADPKD data, in particular the two pivotal randomised trials (TEMPO 3:4 and REPRISE) published in the New England Journal of Medicine.
 
@@ -117,6 +117,19 @@ Two large randomised trials and several reviews support tolvaptan in ADPKD, and 
 ---
 
 *Other predictions (not recommended at present):* The other nine predicted indications have little or no support. Joubert syndrome with renal defect is a research question only, based on indirect mechanistic reasoning with no tolvaptan data. The remainder, including renal-hepatic-pancreatic dysplasia, karyomegalic interstitial nephritis, thoracic malformation and hypertrichosis, have no clinical evidence and are on **Hold**.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

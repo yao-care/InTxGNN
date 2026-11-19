@@ -56,7 +56,7 @@ but so far there are **no registered clinical trials** and only **1 publication*
 
 ## Why is This Prediction Reasonable?
 
-Erythromycin is a macrolide. It binds the bacterial 50S ribosomal subunit and stops protein synthesis, and it also has anti-inflammatory effects. Detailed mechanism-of-action data were not available in the data compiled for this report, so this description relies on the general pharmacology of the macrolide class.
+Erythromycin is a macrolide. It binds the bacterial 50S ribosomal subunit and stops protein synthesis, and it also has anti-inflammatory effects. According to the Mechanism of Action section of the US FDA-approved prescribing information for erythromycin: "Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis." ([DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd), label version 2018-12-04; accessed 2026-11-19.) This description relies on the general pharmacology of the macrolide class.
 
 Punctate epithelial keratoconjunctivitis and related chronic blepharokeratoconjunctivitis involve ocular surface inflammation, often linked to meibomian gland dysfunction and bacterial overgrowth. In that setting, a drug with both antibacterial and anti-inflammatory activity could plausibly help. Topical and systemic macrolides are used in related eyelid and ocular surface conditions.
 
@@ -103,6 +103,18 @@ The TxGNN score is high (0.9989), and the mechanism is plausible given erythromy
 - Confirmed mechanism-of-action data
 - Package insert warnings and contraindications, which are currently missing
 - Assessment of whether an ophthalmic formulation is available, since no ophthalmic form is among the recorded licences
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

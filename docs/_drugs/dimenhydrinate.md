@@ -56,7 +56,7 @@ but at present only **1 publication** (a veterinary pharmacokinetic pilot study)
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Once absorbed, it releases diphenhydramine, a first-generation H1-receptor antagonist. Its efficacy in motion sickness and vertigo is established, and mechanistically it may be applicable to histamine-mediated conditions.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for dimenhydrinate: "While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function." ([DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c), label version 2025-01-15; accessed 2026-11-19.) Based on known information, dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline. Once absorbed, it releases diphenhydramine, a first-generation H1-receptor antagonist. Its efficacy in motion sickness and vertigo is established, and mechanistically it may be applicable to histamine-mediated conditions.
 
 Urticaria is driven largely by histamine released from mast cells. H1 antagonists are a recognized drug class for this condition, so the prediction is pharmacologically plausible, and the high TxGNN score (0.9974) is consistent with it. However, the support is indirect. It comes from the diphenhydramine component, not from dimenhydrinate itself being tested in urticaria. Current practice generally favors second-generation, less sedating antihistamines, so any use of a sedating first-generation agent would need to be justified against that standard.
 
@@ -105,6 +105,19 @@ The mechanistic link through the diphenhydramine component is plausible and the 
 - Human clinical evidence of dimenhydrinate or diphenhydramine in allergic urticaria, and a comparison against second-generation antihistamines
 - Route and dosage compatibility assessment for the new indication
 - Review of the knowledge-graph contraindication signals and the interaction profile for the intended population
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

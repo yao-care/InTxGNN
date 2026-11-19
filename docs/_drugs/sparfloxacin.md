@@ -60,7 +60,7 @@ It is a computational signal only and should be treated with caution.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sparfloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. This action explains its efficacy against respiratory pathogens.
+ChEMBL (EMBL-EBI) records the mechanism of action of sparfloxacin as: Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor ([ChEMBL CHEMBL850 (sparfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL850), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, sparfloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. This action explains its efficacy against respiratory pathogens.
 
 No mechanistic link to hyperamylasemia could be identified. Elevated amylase is not an established therapeutic target for this drug class, and no known pathway connects the antibacterial action to amylase regulation. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and there are no supporting clinical or literature data.
 
@@ -133,6 +133,19 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Package insert warnings and contraindications from the India market, which are required for safety screening
 - Any preclinical or clinical evidence for the predicted indication
 - A risk-benefit assessment for QT prolongation, phototoxicity and drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL850 (sparfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL850) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

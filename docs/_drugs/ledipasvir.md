@@ -58,7 +58,7 @@ The mechanistic basis for an anti-HBV effect is weak, so this should be treated 
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ledipasvir is an NS5A inhibitor used with the NRTI sofosbuvir, and its efficacy in hepatitis C has been established.
+ChEMBL (EMBL-EBI) records the mechanism of action of ledipasvir as: Nonstructural protein 5A inhibitor ([ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220), CC BY-SA 3.0; accessed 2026-11-19.) Based on known information, ledipasvir is an NS5A inhibitor used with the NRTI sofosbuvir, and its efficacy in hepatitis C has been established.
 
 The prediction is difficult to support mechanistically. HBV is a DNA hepadnavirus with a different replication machinery from HCV, and ledipasvir has no established anti-HBV activity. The high TxGNN score most likely reflects network proximity to HCV (both are hepatotropic viruses) rather than a real shared target.
 
@@ -134,11 +134,12 @@ Ledipasvir has no established anti-HBV mechanism, and the direct evidence is a s
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL2374220 (ledipasvir): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2374220) |
 
 <!-- review:end log -->
 

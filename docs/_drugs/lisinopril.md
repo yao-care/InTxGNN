@@ -55,7 +55,7 @@ This prediction most likely reflects the closeness of the disease to the already
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, lisinopril belongs to the ACE inhibitor class. Its efficacy in hypertension and myocardial infarction is established, and ACE inhibition is known to reduce blood pressure and limit post-infarction cardiac remodeling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lisinopril: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), label version 2025-12-16; accessed 2026-11-19.) Based on known information, lisinopril belongs to the ACE inhibitor class. Its efficacy in hypertension and myocardial infarction is established, and ACE inhibition is known to reduce blood pressure and limit post-infarction cardiac remodeling.
 
 Posterolateral myocardial infarction is an anatomical subtype of myocardial infarction, which is already an approved indication for lisinopril. The indication is therefore largely covered by the existing label. The high TxGNN score probably reflects ontology proximity to the approved indication, so this is not a true repurposing candidate in the strict sense.
 
@@ -116,6 +116,19 @@ No subtype-specific trials or literature support it (evidence level L4).
 - Detailed mechanism of action data (from DrugBank)
 - Confirmation that the existing myocardial infarction indication already covers this subtype, which would make a separate repurposing effort unnecessary
 - If a genuine repurposing signal is wanted, consider chronic pulmonary heart disease (L3). This would require retrieving the full text of the two lisinopril studies and a controlled trial to confirm efficacy.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

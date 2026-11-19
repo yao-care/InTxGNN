@@ -57,7 +57,7 @@ The prediction is a computational signal only.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From pharmacology data, lubiprostone is a ClC-2 chloride channel activator (target gene CLCN2) that acts on the gut epithelium. It is a bicyclic fatty acid derived from prostaglandin E1, and it has minimal systemic absorption.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lubiprostone: "Lubiprostone is a locally acting chloride channel activator that enhances a chloride-rich intestinal fluid secretion without altering sodium and potassium concentrations in the serum. Lubiprostone acts by specifically activating ClC-2, which is a normal constituent of the apical membrane of the human intestine, in a protein kinase A–independent fashion." ([DailyMed: Amitiza (lubiprostone) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=164a2b47-0a52-4bb4-9e71-5342c2e951f4), label version 2026-07-10; accessed 2026-11-19.) From pharmacology data, lubiprostone is a ClC-2 chloride channel activator (target gene CLCN2) that acts on the gut epithelium. It is a bicyclic fatty acid derived from prostaglandin E1, and it has minimal systemic absorption.
 
 No established mechanistic link between ClC-2 activation and hair follicle biology was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Prostaglandin analogues such as bimatoprost do affect hair growth, but lubiprostone does not act on the same receptors. This explanation is therefore speculative and cannot be verified.
 
@@ -94,6 +94,19 @@ The prediction rests only on a score from the TxGNN model (deep learning), which
 - Perform a systematic literature and trial search on lubiprostone or prostone compounds and hair growth
 - Run preclinical studies (for example, hair follicle models) to test any biological plausibility
 - Assess route compatibility, since the only available route is oral and a topical or systemic route may be needed for hair or vascular indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Amitiza (lubiprostone) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=164a2b47-0a52-4bb4-9e71-5342c2e951f4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

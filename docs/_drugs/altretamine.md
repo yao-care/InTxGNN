@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacological knowledge, altretamine (hexamethylmelamine) is an s-triazine cytotoxic agent. It is thought to need metabolic activation to reactive intermediates, including formaldehyde-releasing methylmelamines, that damage DNA. A general DNA-damaging mechanism could plausibly act in other solid tumours, including breast carcinoma.
+ChEMBL (EMBL-EBI) records the mechanism of action of altretamine as: DNA inhibitor ([ChEMBL CHEMBL1455 (altretamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1455), CC BY-SA 3.0; accessed 2026-11-19.) From general pharmacological knowledge, altretamine (hexamethylmelamine) is an s-triazine cytotoxic agent. It is thought to need metabolic activation to reactive intermediates, including formaldehyde-releasing methylmelamines, that damage DNA. A general DNA-damaging mechanism could plausibly act in other solid tumours, including breast carcinoma.
 
 The literature gives only indirect support. A 2023 systematic review of s-triazine anticancer agents groups altretamine with other s-triazine drugs. A 1995 preclinical study reported antitumour activity of altretamine against human breast carcinoma xenografts in nude mice. Neither study evaluated altretamine in patients with breast cancer.
 
@@ -108,6 +108,19 @@ The prediction score is very high (0.9991), but there are no registered clinical
 - Mechanism of action data and a clear mechanistic rationale for breast tissue
 - Package insert warnings and contraindications from the Indian label
 - A haematological and neurological safety monitoring plan, plus a review of drug interactions against standard breast cancer regimens
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1455 (altretamine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1455) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

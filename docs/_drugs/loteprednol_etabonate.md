@@ -69,7 +69,7 @@ Other top-ranked predictions (all with the same score or slightly lower) are lis
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, loteprednol etabonate is a topical corticosteroid, its use in inflammatory and allergic eye conditions is established, and mechanistically it may be applicable to non-viral serous conjunctivitis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for loteprednol etabonate: "Loteprednol etabonate is a corticosteroid. Corticosteroids have been shown to inhibit the inflammatory response to a variety of inciting agents. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation." ([DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237), label version 2026-03-31; accessed 2026-11-19.) Based on known information, loteprednol etabonate is a topical corticosteroid, its use in inflammatory and allergic eye conditions is established, and mechanistically it may be applicable to non-viral serous conjunctivitis.
 
 The predicted indication is closely related to the approved ones. Non-viral serous conjunctivitis has an inflammatory component, as do atopic, vernal and papillary conjunctivitis. Anti-inflammatory steroid action is therefore plausible. However, this is a model prediction only, and no trials or literature were found to confirm it.
 
@@ -123,6 +123,19 @@ The prediction score is high (0.9969), and the drug is already widely marketed i
 - A targeted literature and trial search for non-viral serous conjunctivitis and ocular rosacea
 - Clarification of the approved indication wording on the Indian licenses
 - A plan to exclude infectious causes and to monitor intraocular pressure if any study is designed
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

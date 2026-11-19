@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **granulomatous disease, chronic,
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cyclosporine inhibits calcineurin and thereby suppresses T-cell activation. It is used in transplant immunosuppression and prevention of graft-versus-host disease (GVHD).
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for cyclosporine: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f), label version 2026-09-10; accessed 2026-11-19.) Based on known pharmacology, cyclosporine inhibits calcineurin and thereby suppresses T-cell activation. It is used in transplant immunosuppression and prevention of graft-versus-host disease (GVHD).
 
 The only publication linked to this prediction (PMID 22078471) concerns stem cell transplantation for chronic granulomatous disease (CGD). Cyclosporine is plausibly part of the transplant or GVHD-prophylaxis regimen in such patients, but the abstract provided does not state this. This would be an indirect, supportive-care role, not treatment of the underlying defect in the NADPH oxidase enzyme that causes CGD. No direct therapeutic mechanism against CGD has been established.
 
@@ -107,6 +107,19 @@ The prediction score is high (0.9968), but it is supported by a single transplan
 - Detailed mechanism of action data
 - Package insert warnings and contraindications for Indian products
 - A risk-benefit assessment for the target patient population, given the immunosuppression and the many drug interactions
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

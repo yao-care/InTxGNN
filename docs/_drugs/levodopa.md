@@ -56,7 +56,7 @@ but there are currently **no clinical trials** and **no publications** supportin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, levodopa is a dopamine precursor that is converted to dopamine in the brain. Its efficacy in Parkinson disease and related movement disorders is well established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for levodopa: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), label version 2026-07-20; accessed 2026-11-19.) Based on known information, levodopa is a dopamine precursor that is converted to dopamine in the brain. Its efficacy in Parkinson disease and related movement disorders is well established.
 
 Rasmussen encephalitis is a chronic, usually unilateral, immune-mediated inflammatory brain disease. It involves T-cell-driven neuronal injury, intractable focal seizures (often epilepsia partialis continua), progressive hemispheric atrophy, and neurological decline. A possible link is overlap in neurological symptoms with movement disorders. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This is speculation only.
 
@@ -113,6 +113,19 @@ The only support is a high model score (0.9906). There are no clinical trials or
 - Package insert warnings and contraindications from the India regulator, especially regarding seizure risk
 - Route and formulation compatibility assessment for this population
 - Review of the similarity between the original and predicted indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

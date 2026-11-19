@@ -55,7 +55,7 @@ with **50 clinical trials** and **20 publications** compiled for this indication
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, paclitaxel is a taxane that stabilises microtubules and blocks mitotic progression, which leads to apoptosis in rapidly dividing tumour cells. This general description reflects widely known pharmacology and was not drawn from the compiled data.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for paclitaxel: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), label version 2025-09-17; accessed 2026-11-19.) Based on known pharmacology, paclitaxel is a taxane that stabilises microtubules and blocks mitotic progression, which leads to apoptosis in rapidly dividing tumour cells. This general description reflects widely known pharmacology and was not drawn from the compiled data.
 
 Its efficacy in ovarian cancer is established, and ovarian and breast cancers are both solid tumours that respond to antimitotic chemotherapy. Reviews in the compiled literature describe paclitaxel and docetaxel as evidence-based components of therapy for advanced breast, lung and ovarian carcinomas. Paclitaxel's cytotoxic action does not depend on hormone receptor status, which is why it is also used across several breast cancer subtypes.
 
@@ -136,6 +136,19 @@ Paclitaxel is already a long-established part of breast cancer regimens, and the
 - Detailed mechanism of action data from DrugBank
 - Paclitaxel-specific head-to-head Phase 3 evidence, or a guideline review confirming its role as the regimen backbone
 - A safety monitoring plan covering myelosuppression, neuropathy and hypersensitivity, and review of the drug interaction list against co-medications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

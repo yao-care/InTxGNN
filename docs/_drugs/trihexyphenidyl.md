@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, trihexyphenidyl is a central muscarinic antagonist with preference for the M1 receptor. It modulates the balance between cholinergic and dopaminergic signalling in the striatum, which is the basis of its benefit in parkinsonism and dystonia.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for trihexyphenidyl: "Trihexyphenidyl Hydrochloride is the substituted piperidine salt, 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride, which exerts a direct inhibitory effect upon the parasympathetic nervous system. It also has a relaxing effect on smooth musculature; exerted both directly upon the muscle tissue itself and indirectly through an inhibitory effect upon the parasympathetic nervous system." ([DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af), label version 2026-07-23; accessed 2026-11-19.) Based on known pharmacology, trihexyphenidyl is a central muscarinic antagonist with preference for the M1 receptor. It modulates the balance between cholinergic and dopaminergic signalling in the striatum, which is the basis of its benefit in parkinsonism and dystonia.
 
 ADHD involves dysregulation of dopaminergic and noradrenergic pathways. This gives an indirect, plausible link: a drug that adjusts striatal cholinergic-dopaminergic balance could, in theory, influence the circuits involved. However, this link is speculative. The only retrieved paper describes primary tic disorder associated with dystonia, a related movement/neuropsychiatric setting, and is not a study of ADHD treatment.
 
@@ -121,6 +121,19 @@ The ADHD prediction has a very high model score but no clinical trials and no di
 - Package insert warnings and contraindications from the Indian regulator, which are required before any safety screening
 - Preclinical or clinical studies directly testing trihexyphenidyl in ADHD, including its effects on attention and cognition
 - If a lower-risk lead is wanted, a closer look at PLA2G6-associated dystonia-parkinsonism as a symptomatic-use research question
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

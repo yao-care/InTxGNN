@@ -57,7 +57,7 @@ The TxGNN model's top-ranked prediction is **nephrogenic syndrome of inappropria
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Dexmedetomidine is a selective alpha-2 adrenergic agonist. This class can suppress vasopressin release and promote water excretion (aquaresis), which is the only conceptual link to a condition of excess antidiuresis.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for dexmedetomidine: "PRECEDEX is a relatively selective centrally acting alpha 2 -adrenergic agonist with sedative properties. Alpha 2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10-300 mcg/kg)." ([DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6), label version 2026-06-17; accessed 2026-11-19.) Dexmedetomidine is a selective alpha-2 adrenergic agonist. This class can suppress vasopressin release and promote water excretion (aquaresis), which is the only conceptual link to a condition of excess antidiuresis.
 
 However, nephrogenic SIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2), which act downstream of vasopressin secretion. Lowering vasopressin would not be expected to correct a receptor-level defect. The mechanistic rationale is therefore weak, and the prediction is likely a model artifact.
 
@@ -120,6 +120,19 @@ The top-ranked prediction (nephrogenic SIAD) rests on a model score alone, with 
 - For headache: a larger multicentre confirmatory RCT of nebulized dexmedetomidine in post-dural puncture headache, and results from the migraine trial NCT07769255
 - Route compatibility assessment: all Indian products are injectables, while the headache and migraine evidence uses a nebulized route
 - No further work on nephrogenic SIAD unless a credible mechanistic or preclinical rationale emerges
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Precedex (dexmedetomidine hydrochloride) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=92b7ddaa-e45a-4b64-a802-bb5df8771dd6) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

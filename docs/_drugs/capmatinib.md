@@ -54,10 +54,9 @@ Capmatinib is a selective MET inhibitor and a kinase inhibitor, marketed in Indi
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, capmatinib is a selective MET inhibitor. MET signaling has been implicated in synovial inflammation and angiogenesis in rheumatoid arthritis, so a mechanistic rationale is plausible.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for capmatinib: "Capmatinib is a kinase inhibitor that targets MET, including the mutant variant produced by exon 14 skipping. MET exon 14 skipping results in a protein with a missing regulatory domain that reduces its negative regulation leading to increased downstream MET signaling." ([DailyMed: Tabrecta (capmatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=455892c3-d144-4ba8-9ab4-79cabff9876d), label version 2026-10-26; accessed 2026-11-19.) Based on known information, capmatinib is a selective MET inhibitor. MET signaling has been implicated in synovial inflammation and angiogenesis in rheumatoid arthritis, so a mechanistic rationale is plausible.
 
 However, the only linked publication is a general review of FDA-approved small-molecule kinase inhibitors, and it contains no RA-specific data for capmatinib. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The link between the original use (oncology) and RA is therefore hypothesis-level only.
-
 
 ## Clinical Trial Evidence
 
@@ -112,6 +111,19 @@ The rheumatoid arthritis prediction rests only on a high computational score and
 - RA-specific preclinical evidence (for example, MET inhibition in synovial inflammation or arthritis models)
 - A review of MET-inhibitor safety in the RA population, including cardiac and interaction risks
 - If pursued at all, heart disease or chemotherapy-toxicity protection is a more evidence-supported research question than RA, though still preclinical
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tabrecta (capmatinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=455892c3-d144-4ba8-9ab4-79cabff9876d) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

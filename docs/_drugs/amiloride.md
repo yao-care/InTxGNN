@@ -56,7 +56,7 @@ The prediction is supported by **0 clinical trials** and **0 publications**, so 
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Amiloride belongs to the potassium-sparing diuretic class, which reduces sodium reabsorption in the kidney while retaining potassium.
+According to the Clinical Pharmacology section of the US FDA-approved prescribing information for amiloride: "Amiloride HCl is a potassium-conserving (antikaliuretic) drug that possesses weak (compared with thiazide diuretics) natriuretic, diuretic, and antihypertensive activity. These effects have been partially additive to the effects of thiazide diuretics in some clinical studies." ([DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68), label version 2026-11-11; accessed 2026-11-19.) Amiloride belongs to the potassium-sparing diuretic class, which reduces sodium reabsorption in the kidney while retaining potassium.
 
 The link to malignant hypertensive renal disease is plausible only by extension, through amiloride's sodium-handling and blood-pressure-lowering effects. No trial or publication was found that tests amiloride in this kidney condition. The high score therefore reflects a computational prediction, not independent clinical or experimental evidence.
 
@@ -116,11 +116,12 @@ The prediction has a high model score but no supporting clinical trials or publi
 
 ## Review Log
 
-Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten.
+Below is the review log for this page: statements checked against official Indian medicine data (the Indian Medicine Dataset used by this site). Corrections are limited to basic factual statements; model predictions, evidence levels, and conclusions were not rewritten. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database.
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
+| 2026-11-19 | "Detailed mechanism-of-action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amiloride hydrochloride prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5eedadbd-9be9-b920-e063-6394a90afa68) |
 
 <!-- review:end log -->
 

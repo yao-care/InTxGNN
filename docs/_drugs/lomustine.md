@@ -59,7 +59,7 @@ The TxGNN model predicts it may be effective for **lymphosarcoma**, but the evid
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, lomustine is a lipophilic nitrosourea alkylating agent. It damages DNA, and its lipophilicity lets it cross the blood-brain barrier. This property is why it is used in central nervous system tumours and why it is of interest in lymphoid cancers that involve the brain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for lomustine: "Lomustine alkylates DNA and RNA. As with other nitrosoureas, it may also inhibit several key enzymatic processes by carbamoylation of amino acids in proteins." ([DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082), label version 2025-09-25; accessed 2026-11-19.) Based on known pharmacology, lomustine is a lipophilic nitrosourea alkylating agent. It damages DNA, and its lipophilicity lets it cross the blood-brain barrier. This property is why it is used in central nervous system tumours and why it is of interest in lymphoid cancers that involve the brain.
 
 Lymphomas are generally sensitive to alkylating agents. Oral lomustine-containing regimens, such as combinations with procarbazine, etoposide and cyclophosphamide, have been tested in AIDS-related non-Hodgkin lymphoma and primary CNS lymphoma. These studies concern lymphoma subtypes treated with multi-drug regimens, so they support the mechanistic plausibility but do not directly show that lomustine works in lymphosarcoma.
 
@@ -146,6 +146,18 @@ The evidence level is L4. The only study directly addressing lymphosarcoma is a 
 - Mechanism of action data
 - Package insert warnings and contraindications for the Indian products
 - A myelosuppression monitoring and interaction management plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Gleostine (lomustine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

@@ -58,7 +58,7 @@ Fentanyl is a potent mu-opioid receptor agonist marketed in India as transdermal
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Fentanyl is known to be a mu-opioid receptor agonist, and the original indication text is missing from the licence records.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for fentanyl: "Fentanyl Citrate Injection is an opioid agonist, whose principal actions of therapeutic value are analgesia and sedation." ([DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11), label version 2026-10-23; accessed 2026-11-19.) Fentanyl is known to be a mu-opioid receptor agonist, and the original indication text is missing from the licence records.
 
 NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause water retention in the kidney independent of vasopressin. Opioids can influence vasopressin release through central pathways. However, NSIAD is driven by constitutive receptor activation in the kidney, so a central opioid effect would not be expected to correct it. Opioids are also more often associated with SIADH-like effects (increased antidiuretic hormone activity), which suggests possible harm rather than benefit.
 
@@ -124,6 +124,19 @@ The prediction rests only on a model score, with no clinical or literature suppo
 - Preclinical or mechanistic evidence that fentanyl affects AVPR2-driven water retention
 - Original approved indication text for the India licences
 - A review of the NSIAD safety concern, since opioids may increase antidiuretic hormone activity
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

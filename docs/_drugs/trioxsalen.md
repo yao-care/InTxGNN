@@ -56,7 +56,7 @@ The prediction rests on model output alone.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, trioxsalen is a psoralen. When combined with UVA light, it intercalates into DNA and forms photoadducts, which produces antiproliferative and photosensitizing effects. This is the basis for its use in vitiligo and other photo-responsive skin conditions.
+ChEMBL (EMBL-EBI) records the mechanism of action of trioxsalen as: DNA inhibitor ([ChEMBL CHEMBL1475 (trioxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1475), CC BY-SA 3.0; accessed 2026-11-19.) Based on general pharmacology, trioxsalen is a psoralen. When combined with UVA light, it intercalates into DNA and forms photoadducts, which produces antiproliferative and photosensitizing effects. This is the basis for its use in vitiligo and other photo-responsive skin conditions.
 
 A plausible link between this mechanism and vaginitis is weak. Vaginitis is mainly infectious or inflammatory, and UVA exposure of the vaginal mucosa is impractical. The very high TxGNN score (0.9978) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
@@ -110,6 +110,19 @@ The prediction is supported only by a model score. There are no clinical trials 
 - Any preclinical or clinical evidence for a genital or vulvovaginal indication
 - Assessment of route feasibility, since only oral tablets are marketed and UVA delivery to the vaginal mucosa is impractical
 - A reassessment of whether other predicted indications with a closer link to the original photo-responsive skin use (for example vulvitis) merit review
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL1475 (trioxsalen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1475) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

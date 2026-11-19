@@ -60,7 +60,7 @@ The evidence is at **Level L2**: citalopram itself has been tested in obsessive-
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Based on known class pharmacology, citalopram is a selective serotonin reuptake inhibitor that raises serotonin availability in the brain.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for citalopram: "The mechanism of action of citalopram is unclear, but is presumed to be related to potentiation of serotonergic activity in the central nervous system (CNS) resulting from its inhibition of CNS neuronal reuptake of serotonin (5-HT)." ([DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177), label version 2023-10-09; accessed 2026-11-19.) Based on known class pharmacology, citalopram is a selective serotonin reuptake inhibitor that raises serotonin availability in the brain.
 
 Obsessive-compulsive disorder is known to respond to serotonin reuptake inhibition. Other SSRIs, such as fluoxetine (used as the comparator in one of the listed trials), are established treatments for it. Citalopram shares this mechanism, which is consistent with the high TxGNN score.
 
@@ -131,6 +131,18 @@ Citalopram has been tested directly in obsessive-compulsive disorder, but only i
 - Package insert warnings and contraindications for the Indian products
 - A cardiac (QT) risk review and a plan to screen interacting drugs
 - Dosing and safety review for paediatric use, given that the citalopram data in young patients are open-label only
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Celexa (citalopram) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4259d9b1-de34-43a4-85a8-41dd214e9177) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

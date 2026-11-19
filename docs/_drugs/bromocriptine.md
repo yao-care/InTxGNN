@@ -60,7 +60,7 @@ Among the other top-ten predictions, schizophrenia has the most material (1 clin
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, bromocriptine is a dopamine D2 receptor agonist. Its efficacy in Parkinson disease, hyperprolactinaemia and acromegaly is established, and it acts mainly through dopaminergic signalling.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for bromocriptine: "CYCLOSET contains bromocriptine mesylate, a sympatholytic, dopamine D2 receptor agonist. In patients with type 2 diabetes, timed morning administration of CYCLOSET is associated with increased insulin sensitivity and glucose disposal and reduced fasting and postprandial hyperglycemia throughout the meals of the day without raising plasma insulin levels." ([DailyMed: Cycloset (bromocriptine mesylate) prescribing information, Avvisto Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20), label version 2026-01-12; accessed 2026-11-19.) Based on known information, bromocriptine is a dopamine D2 receptor agonist. Its efficacy in Parkinson disease, hyperprolactinaemia and acromegaly is established, and it acts mainly through dopaminergic signalling.
 
 For the top-ranked prediction, no mechanistic link to fucosylation pathways is known. The very high score (0.9983) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to the other low-ranked predictions with no data, such as polymicrogyria with cerebellar hypoplasia, atypical glycine encephalopathy and hereditary demyelinating neuropathy.
 
@@ -135,6 +135,19 @@ The top-ranked prediction rests only on a score from the TxGNN model (deep learn
 - Package insert warnings and contraindications from Indian labelling, which are needed for safety screening
 - Biological rationale or preclinical data linking dopamine D2 agonism to glycosylation pathways
 - If pursuing a lower-ranked option, confirmation of whether bromocriptine is a component in PMID 39009597 and of the evidence quality for retinal dystrophy, or results from NCT03575000 for schizophrenia-related metabolic use
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cycloset (bromocriptine mesylate) prescribing information, Avvisto Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e42ba916-16b9-4d1c-8d09-9d2fbb1b6c20) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -60,7 +60,7 @@ The evidence is still at the research-question stage and not yet strong enough t
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, selegiline is an irreversible, selective MAO-B inhibitor. At higher oral doses (≥20 mg/day) it also loses selectivity and inhibits MAO-A. Its efficacy in Parkinson's disease is established, and it has dopaminergic and possibly antioxidant effects.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for selegiline: "Selegiline is an irreversible inhibitor of monoamine oxidase (MAO), which regulates the metabolic degradation of catecholamines and serotonin in the central nervous system and peripheral tissues. At recommended doses, selegiline is selective for MAO type B (MAO-B), the major form in the brain." ([DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0), label version 2021-06-01; accessed 2026-11-19.) Based on known information, selegiline is an irreversible, selective MAO-B inhibitor. At higher oral doses (≥20 mg/day) it also loses selectivity and inhibits MAO-A. Its efficacy in Parkinson's disease is established, and it has dopaminergic and possibly antioxidant effects.
 
 The rationale for schizophrenia centres on negative and cognitive symptoms, which are linked to low dopamine activity in the prefrontal cortex. Blocking dopamine breakdown could plausibly help as an add-on to antipsychotics, which treat positive symptoms well but have limited effect on negative ones. The antioxidant and neuroprotective angle is biologically plausible but less established.
 
@@ -138,6 +138,19 @@ Please refer to the package insert for the full warnings, as label warnings and 
 - Extraction and appraisal of the outcomes of the randomized schizophrenia studies, together with the 2023 meta-analysis
 - A dedicated safety assessment for patients with psychotic disorders, including interaction management with antipsychotics and antidepressants
 - Confirmation of the approved indications on the India registrations
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

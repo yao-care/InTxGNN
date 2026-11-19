@@ -56,7 +56,7 @@ but there are **no registered clinical trials** and only **3 publications** (all
 
 ## Why is This Prediction Reasonable?
 
-Nelfinavir is an HIV-1 protease inhibitor. Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nelfinavir belongs to the protease inhibitor class and its efficacy in HIV infection is established.
+Nelfinavir is an HIV-1 protease inhibitor. According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for nelfinavir: "Nelfinavir is an inhibitor of the HIV-1 protease. […] Nelfinavir is an inhibitor of the HIV-1 protease. Inhibition of the viral protease prevents cleavage of the gag and gag-pol polyprotein resulting in the production of immature, non-infectious virus." ([DailyMed: Viracept (nelfinavir mesylate) prescribing information, AGOURON](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e72c2bc6-9462-4a2e-8e1d-b97592376cbd), label version 2025-12-11; accessed 2026-11-19.) Based on known information, nelfinavir belongs to the protease inhibitor class and its efficacy in HIV infection is established.
 
 SIV is a closely related lentivirus with a homologous protease, so a protease-inhibition rationale is plausible. The retrieved literature consists of in vitro susceptibility work on HIV-2, SIV and SHIV against anti-HIV-1 compounds. This is indirect, preclinical evidence only.
 
@@ -103,6 +103,19 @@ The only support is indirect in vitro work, with no clinical trials. SIV infecti
 - Detailed mechanism of action data (MOA)
 - Identification of a human-relevant indication, for example by reviewing other predictions or established off-target effects of nelfinavir
 - Direct nelfinavir susceptibility data in SIV or relevant models, if this direction is pursued
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Viracept (nelfinavir mesylate) prescribing information, AGOURON](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e72c2bc6-9462-4a2e-8e1d-b97592376cbd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

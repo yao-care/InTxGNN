@@ -55,7 +55,7 @@ Several large, completed Phase 3 placebo-controlled trials of adjunctive use are
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, aripiprazole is a dopamine D2/D3 partial agonist and a 5-HT1A partial agonist with 5-HT2A antagonism. This profile is thought to modulate dopaminergic and serotonergic tone in mesocortical and mesolimbic circuits. This mechanism is drawn from general knowledge, not from the supplied dataset.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for aripiprazole: "The mechanism of action of aripiprazole in the treatment of schizophrenia and bipolar I disorder is unknown. The efficacy of aripiprazole could be mediated through a combination of partial agonist activity at dopamine D 2 and serotonin 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors." ([DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be), label version 2025-04-04; accessed 2026-11-19.) From general pharmacology, aripiprazole is a dopamine D2/D3 partial agonist and a 5-HT1A partial agonist with 5-HT2A antagonism. This profile is thought to modulate dopaminergic and serotonergic tone in mesocortical and mesolimbic circuits. This mechanism is drawn from general knowledge, not from the supplied dataset.
 
 Aripiprazole is already used for bipolar disorder, a mood disorder, so the link to depressive disorders is direct. As an add-on to antidepressants, it is proposed to improve response in patients who responded inadequately to antidepressant therapy alone.
 
@@ -139,6 +139,19 @@ Multiple completed Phase 3 randomized, placebo-controlled trials with over 1,000
 - **Trichotillomania** (score 0.9926, evidence level L3, recommendation: research question): two small trials (one open-label, n=12; one not-yet-recruiting placebo-controlled Phase 2, n=100), one open-label study and several case reports. Aripiprazole has also been reported to cause trichotillomania and other impulsive-compulsive behaviours, so the evidence is mixed.
 - **Asperger syndrome susceptibility and Phelan-McDermid syndrome:** no trials or literature. These likely reflect overlap with existing autism-related indications and are model predictions only.
 - **Other predictions** (gaze palsy with progressive scoliosis, amelocerebrohypohidrotic syndrome, distal 17p13.3 microdeletion, Malan overgrowth syndrome, retinal dystrophy, hydranencephaly): no plausible mechanistic link and no clinical evidence. Decision: Hold.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

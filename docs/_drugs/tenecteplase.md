@@ -55,7 +55,7 @@ Evidence is therefore indirect, inferred from the parent indication.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Based on known information, tenecteplase is a fibrin-specific tissue plasminogen activator. It converts plasminogen to plasmin at the site of a fibrin clot and dissolves the occlusive coronary thrombus that causes infarction.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for tenecteplase: "Tenecteplase is a modified form of human tissue plasminogen activator (tPA) that binds to fibrin and converts plasminogen to plasmin. In the presence of fibrin, in vitro studies demonstrate that tenecteplase-mediated conversion of plasminogen to plasmin is increased relative to its conversion in the absence of fibrin." ([DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84), label version 2025-12-15; accessed 2026-11-19.) Based on known information, tenecteplase is a fibrin-specific tissue plasminogen activator. It converts plasminogen to plasmin at the site of a fibrin clot and dissolves the occlusive coronary thrombus that causes infarction.
 
 Posteroinferior myocardial infarction is an anatomical subtype of myocardial infarction, which is already an established indication. The high TxGNN score most likely reflects this overlap with the approved indication rather than a new repurposing signal. The mechanism applies in principle, because the same clot-lysis effect would be needed in whichever coronary artery is blocked.
 
@@ -111,6 +111,19 @@ No trials or publications specific to this subtype were retrieved. The evidence 
 - Detailed mechanism of action data (for example from DrugBank)
 - Subtype-specific analyses from existing myocardial infarction thrombolysis trials, to check whether posteroinferior MI is already covered by the approved indication
 - A bleeding-risk assessment that takes the major and moderate interactions with antiplatelet and anticoagulant drugs into account
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tnkase (tenecteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e647640d-c395-4b4b-a0be-1162f9c21d84) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

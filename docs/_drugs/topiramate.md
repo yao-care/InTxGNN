@@ -61,7 +61,7 @@ The original indications come from the TxGNN knowledge graph's record of known u
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Topiramate is a broad-spectrum antiseizure drug, and its efficacy in epilepsy is established. Literature retrieved for other predictions describes its actions as sodium channel blockade, GABA-A enhancement, AMPA/kainate antagonism and weak carbonic anhydrase inhibition.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for topiramate: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), label version 2026-10-05; accessed 2026-11-19.) Topiramate is a broad-spectrum antiseizure drug, and its efficacy in epilepsy is established. Literature retrieved for other predictions describes its actions as sodium channel blockade, GABA-A enhancement, AMPA/kainate antagonism and weak carbonic anhydrase inhibition.
 
 For the top-ranked prediction, **trigeminal nerve neoplasm**, none of these actions has an established link to tumour biology. Any benefit would at most be symptomatic, for example control of related neuropathic pain, and the data compiled here do not support even that. The very high score (0.9970) should therefore be treated as a model output, not as evidence of efficacy.
 
@@ -138,6 +138,19 @@ The top-ranked prediction, trigeminal nerve neoplasm, rests solely on a model sc
 - Disease-specific clinical evidence (case series or trials) for any candidate indication, especially the reflex epilepsies
 - For trigeminal nerve neoplasm, preclinical or clinical evidence of a tumour-related or symptomatic benefit before any further consideration
 - Confirmation that the predicted seizure conditions add value beyond the already-approved epilepsy indications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

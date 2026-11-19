@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this is a c
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from the compiled data. Based on known drug-class information, besifloxacin is a fluoroquinolone. This class inhibits bacterial DNA gyrase and topoisomerase IV, and its efficacy in bacterial conjunctivitis has been established.
+According to the Mechanism of Action section of the US FDA-approved prescribing information for besifloxacin: "Besifloxacin is a fluoroquinolone antibacterial." ([DailyMed: Besivance (besifloxacin) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f312ddb2-3173-4c2c-bf1b-4ade8fb75d94), label version 2026-07-28; accessed 2026-11-19.) Based on known drug-class information, besifloxacin is a fluoroquinolone. This class inhibits bacterial DNA gyrase and topoisomerase IV, and its efficacy in bacterial conjunctivitis has been established.
 
 Bacterial bronchitis is plausibly within the antibacterial spectrum of a fluoroquinolone, which is likely why the model scores it highly. However, besifloxacin is formulated only as an ophthalmic suspension with minimal systemic exposure, so there is no pharmacological basis for efficacy in the respiratory tract. The high score reflects a network-based association, not demonstrated activity.
 
@@ -103,6 +103,19 @@ The bronchitis prediction rests on a model score alone (L5), with no clinical or
 - A feasibility assessment of a formulation and route suitable for respiratory delivery
 - Preclinical or clinical evidence of efficacy in bronchitis
 - If a more plausible direction is wanted, a separate evaluation of otitis externa (formulation, middle-ear safety with tympanic membrane perforation, and efficacy)
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Currently, detailed mechanism of action data is not available from the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Besivance (besifloxacin) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f312ddb2-3173-4c2c-bf1b-4ade8fb75d94) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

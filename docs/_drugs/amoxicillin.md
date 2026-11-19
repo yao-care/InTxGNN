@@ -55,7 +55,7 @@ The TxGNN model predicts it may be useful for **hyperamylasemia**, but **no clin
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available. Amoxicillin is known as a beta-lactam antibiotic that blocks bacterial cell wall synthesis, and its use in bacterial infections is recorded in the knowledge graph.
+According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for amoxicillin: "Amoxicillin is an antibacterial drug. […] Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77), label version 2026-11-13; accessed 2026-11-19.) Amoxicillin is known as a beta-lactam antibiotic that blocks bacterial cell wall synthesis, and its use in bacterial infections is recorded in the knowledge graph.
 
 Based on the data compiled for this report, no plausible mechanistic link to hyperamylasemia could be identified. Amoxicillin has no known action on amylase regulation or on pancreatic or salivary enzyme release. The high score (rank 6778 in the model) is a network-based prediction and should be treated as a hypothesis only, not as a reasoned repurposing opportunity.
 
@@ -100,6 +100,19 @@ The prediction is supported only by a model score. No clinical trials or publica
 - Any clinical or preclinical study that directly examines hyperamylasemia
 - Package insert warnings and contraindications for the marketed products
 - Review of the other predicted indications. Septicemic plague is biologically plausible for an antibacterial, but its evidence is limited to preclinical, in vitro and case-level data, and beta-lactams are not first-line agents for plague.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism-of-action data are not available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

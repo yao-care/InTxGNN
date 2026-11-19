@@ -54,7 +54,7 @@ Estriol is a weak estrogen receptor agonist marketed in India as oral tablets an
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the compiled data. Pharmacology data shows that estriol binds estrogen receptor alpha (ESR1) and estrogen receptor beta (ESR2). It is a weak estrogen agonist.
+ChEMBL (EMBL-EBI) records the mechanism of action of estriol as: Estrogen receptor modulator ([ChEMBL CHEMBL193482 (estriol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL193482), CC BY-SA 3.0; accessed 2026-11-19.) Pharmacology data shows that estriol binds estrogen receptor alpha (ESR1) and estrogen receptor beta (ESR2). It is a weak estrogen agonist.
 
 The predicted indication is amenorrhea, particularly functional hypothalamic amenorrhea (FHA). In FHA, the hypothalamus releases GnRH in an impaired pattern. This leaves the body in a low-estrogen state with reduced ovarian function. Low-dose estrogen replacement may act as a neuroendocrine modulator. It may help restore feedback on LH secretion and support endometrial and bone health.
 
@@ -104,6 +104,19 @@ The prediction is biologically plausible and has a high model score. However, di
 - Detailed mechanism of action data
 - Controlled clinical studies of estriol in amenorrhea (especially FHA), with menses and ovulation outcomes
 - Route compatibility assessment: the Indian products are oral tablets and vaginal creams, and the route best suited to amenorrhea needs to be determined
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-19 | "Detailed mechanism of action data is not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL193482 (estriol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL193482) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.
