@@ -3,7 +3,7 @@ layout: default
 title: "stroke (lakwa) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (lakwa). 8 articles, 15 related drugs."
+description: "Health news about stroke (lakwa). 10 articles, 15 related drugs."
 permalink: /news/lakwa/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (lakwa)?">
-<strong>stroke (lakwa)</strong> currently has <strong>8 news articles</strong> and 15 related drugs.
+<strong>stroke (lakwa)</strong> currently has <strong>10 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,23 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
+
+2026-11-19
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
+
+---
+
+### [Can Older Adults Safely Stop Taking Statins?](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnVKR0JsWU9HZEFvY3d0cjY2bkNpdU9XeE93cXJQOUJLUjJmcTJmV01ObloxSElCdkdSU2NnNWVCaUJrbWdTVXlRel9HZk5ydjhXXzRUbDB2VjdWNFppdlQ5cXFDRG9aUXIwV1didzF1dDNFVF9VSkVVVG5hTWF0Ty1ORl84RFFicmZHOURPR1d0YXJ1VlhyWXJlaG56S2NHVjN1M1NvVjM?oc=5)
+
+2026-11-19
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnVKR0JsWU9HZEFvY3d0cjY2bkNpdU9XeE93cXJQOUJLUjJmcTJmV01ObloxSElCdkdSU2NnNWVCaUJrbWdTVXlRel9HZk5ydjhXXzRUbDB2VjdWNFppdlQ5cXFDRG9aUXIwV1didzF1dDNFVF9VSkVVVG5hTWF0Ty1ORl84RFFicmZHOURPR1d0YXJ1VlhyWXJlaG56S2NHVjN1M1NvVjM?oc=5)
+
+---
 
 ### [Regular Bedtimes May Reduce CV Risk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVpQ2w3SXJXZFdlTXR1VUR2TFZLOXl3UGk1OUJfNUhKek1HaTFPNHZiWDVPNGExazR3MWMyb2hoeHB5UEhldEQwNGlqZ0dxUWJTUGVFZlN3blp2c3czbGdZeVhzYjRJOTFVRlVYVXFGV1FUcjBuSUgzNW9FOTJiTE5PbmJPX3ZkZUVNYmNLSVV6Q3lhejJOMlpYdWhNM1MzNXlGdkxPZw?oc=5)
 

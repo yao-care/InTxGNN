@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Amylmetacresol?">
-<strong>Amylmetacresol</strong> currently has <strong>47 news articles</strong>, with 10 predicted indications.
+<strong>Amylmetacresol</strong> currently has <strong>52 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,47 @@ This page combines the AI-predicted indications for Amylmetacresol with the late
 <p><a href="{{ '/drugs/amylmetacresol/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (47)
+## Related News (52)
+
+### [Biologics Show No Added Cancer Risk in Psoriasis](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
+
+---
+
+### [Ovarian Cancer Risk Factors Vary Across Histotypes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE16WDM5clY5Z2dXX3h6NDhXU1hoWnNKZFVTMjRjLUE4TC1nTkpaUFJWRkotV0poVFVRTXZhU2c5X2hfNWJtMmlXT2E2VVByZ1R0NUh3RFBYY2tmRmt6M0Jnci1QeU0xLTkxV0VPUU9kTGFodnJWQkpRV2VHdDE1aENXbFFnalREbE81c0FMUVZkNjhVNTFzRXhVV3pLSHZGZW1tOEpR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">ovarian cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE16WDM5clY5Z2dXX3h6NDhXU1hoWnNKZFVTMjRjLUE4TC1nTkpaUFJWRkotV0poVFVRTXZhU2c5X2hfNWJtMmlXT2E2VVByZ1R0NUh3RFBYY2tmRmt6M0Jnci1QeU0xLTkxV0VPUU9kTGFodnJWQkpRV2VHdDE1aENXbFFnalREbE81c0FMUVZkNjhVNTFzRXhVV3pLSHZGZW1tOEpR?oc=5)
+
+---
+
+### [Strand Life Sciences’ CancerSpot study in PNAS finds more DNA in blood can make cancer easier to detect - Express Healthcare](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3hvZE1VQ2k2c2dJWHhtY1ExaUdzd19uZHBfWGNHSG1wbWdZem9XaUNQZFhPU19tZ3p6Q05mTVk3Y2lVdnE3bGJuQldwLW80SmZmV3huekdYeEo5NWttYjB1X29XOGVjYnNFYTdJNXpHTHF5WjNTeTgyaDJGYmdXUktoR2lMLWpSQzdfZ0hqSzdPNUF5OUc0aWlNMU8taFl3OVhlLU1jX3dqZmJaVlQ1N09kY3RtWlhjSU1ocndUSFE0QVJSbUJ5NWFMLW9NOFQ1WVZtYldjVTZ3SmJHOE9KQWZn?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [Express Healthcare](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3hvZE1VQ2k2c2dJWHhtY1ExaUdzd19uZHBfWGNHSG1wbWdZem9XaUNQZFhPU19tZ3p6Q05mTVk3Y2lVdnE3bGJuQldwLW80SmZmV3huekdYeEo5NWttYjB1X29XOGVjYnNFYTdJNXpHTHF5WjNTeTgyaDJGYmdXUktoR2lMLWpSQzdfZ0hqSzdPNUF5OUc0aWlNMU8taFl3OVhlLU1jX3dqZmJaVlQ1N09kY3RtWlhjSU1ocndUSFE0QVJSbUJ5NWFMLW9NOFQ1WVZtYldjVTZ3SmJHOE9KQWZn?oc=5)
+
+---
+
+### [World Pancreatic Cancer Day: Doctor explains how to tell pancreatic cancer symptoms apart from acidity and gastritis - The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+---
+
+### [New US prostate cancer guidelines put PSA testing back in focus: What should Indian men do? - The Indian Express](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXI4dHZHZ2xxdjUyRlc2MmZQeEtyVUxxd0djNTF2UFRmS2QzVTJTRzQ4MjBEMksxMEM2NVl1cVE2M0psd3RQRFFEb3p1dUpJb1VVRjNBSDVjYzV2UHV2aDNCSDY0N2NMTzI0T3lZU3JsVEU0Uk15d1hFWEd4U2o5anNRcXlfaDZKV0hTMlljLUx4bm1OMzBKYjlfOUJlTGwwVm1yUVh5eTNkQUw2M1pLYXZzUGN4U2R2SWVRYVNGU2wtT0tRX0pmWHc2d9IB0gFBVV95cUxNNUdQSzdHTWZ5akVTRXF6QUtRaGptMTlpOGUtbnpFbUJCNmdlRDRSOUttQWh2dWtGWWpCUXVyN1JOd2tlcXRpRU9FeUlzQlRjTzBnZjI5RWNvdTlrSFRibmhGa3A4ekt0Y3FUX2UxTnZ1aHVKdndvbnpKX3pUUVY2OW5fNEQ3cVVZeThOV1d6MkF6THZOaWkxY29QNXRibEw2aGlRZERoOE9NODBER1EwYmFuRjlodUEtSUVycHJwaTZ1MWVYSjZacHNNeGpnNlFrYVE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span>
+
+Source: [The Indian Express](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXI4dHZHZ2xxdjUyRlc2MmZQeEtyVUxxd0djNTF2UFRmS2QzVTJTRzQ4MjBEMksxMEM2NVl1cVE2M0psd3RQRFFEb3p1dUpJb1VVRjNBSDVjYzV2UHV2aDNCSDY0N2NMTzI0T3lZU3JsVEU0Uk15d1hFWEd4U2o5anNRcXlfaDZKV0hTMlljLUx4bm1OMzBKYjlfOUJlTGwwVm1yUVh5eTNkQUw2M1pLYXZzUGN4U2R2SWVRYVNGU2wtT0tRX0pmWHc2d9IB0gFBVV95cUxNNUdQSzdHTWZ5akVTRXF6QUtRaGptMTlpOGUtbnpFbUJCNmdlRDRSOUttQWh2dWtGWWpCUXVyN1JOd2tlcXRpRU9FeUlzQlRjTzBnZjI5RWNvdTlrSFRibmhGa3A4ekt0Y3FUX2UxTnZ1aHVKdndvbnpKX3pUUVY2OW5fNEQ3cVVZeThOV1d6MkF6THZOaWkxY29QNXRibEw2aGlRZERoOE9NODBER1EwYmFuRjlodUEtSUVycHJwaTZ1MWVYSjZacHNNeGpnNlFrYVE?oc=5)
+
+---
 
 ### [Investigating the antitumor potential of Karakilçik wheatgrass juice against prostate and lung cancer cells through in vitro and in silico](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DdFBGM1pxN0NoVVVKZ19fVjM2aVZWaC1ramRlRk5NSllWY1lpZ2FreUxDTFItdEs3aXhBQjhmaEdmWnB4MVZDUFFoWTJVYXlqRzJMRnIySllnbFg1RzBZ?oc=5)
 

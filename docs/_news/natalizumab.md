@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Natalizumab. 5 predicted indications."
 permalink: /news/natalizumab/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Natalizumab News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Natalizumab?">
-<strong>Natalizumab</strong> currently has <strong>2 news articles</strong>, with 5 predicted indications.
+<strong>Natalizumab</strong> currently has <strong>3 news articles</strong>, with 5 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page combines the AI-predicted indications for Natalizumab with the latest 
 <p><a href="{{ '/drugs/natalizumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Biologics Show No Added Cancer Risk in Psoriasis](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span> <span class="news-indication-tag">psoriasis</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
+
+---
 
 ### [Tildrakizumab After Anti-IL-17 Failure Improves Psoriasis Outcomes](https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1RKZ0lJSWZKZFZILTBCMVFhLTRYdFNGTDV1akRDX0RRSXZBUXcyOGNXakNCWVhXcGlTSjdRYlVxUWk2Yk5HWnNNVDFZSk9OdVlFRUVpM3Z2M2ZqRUxBaUxhLTFENnRwWHVuM2FKcUdQajFneUlsWmZhYWtuRHZ2S0pkbzFYX3ZYa2dWdEMwX0VNTmpsSF9IUno0X2JIV2FaTUFSeE1HM0lHTjlEV2plYw?oc=5)
 

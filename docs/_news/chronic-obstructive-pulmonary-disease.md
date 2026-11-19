@@ -3,7 +3,7 @@ layout: default
 title: "COPD (chronic obstructive pulmonary disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about COPD (chronic obstructive pulmonary disease). 4 articles, 1 related drugs."
+description: "Health news about COPD (chronic obstructive pulmonary disease). 5 articles, 1 related drugs."
 permalink: /news/chronic-obstructive-pulmonary-disease/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about COPD (chronic obstructive pulmonary disease)?">
-<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>COPD (chronic obstructive pulmonary disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “COPD” and lists the 
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [World COPD Day Highlights Importance of Early Diagnosis - Respiratory Therapy](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVM3U180UDZmdUVNd3lFb19EQmZTaEhzLURuX0paUzV0ZGpULVVycUZwVmZwUzNiVS0xZDZIaWFhOEtPNWkyeHppOWlmbXJEcHkxVVpWR0ZQQUYwb2RaZUdNZFpfTFB0Y2NfdkFZNmpuelY4RzQ3cXYtT2tQZE1YZDFJdllPaHRfQmphbWVsTHpsU0xqZVhxLWc2NG0tXzRDNmtya2VYc2dEcUFpNE9Qc2tXeWdkbi1Hd2p3dElkendmZFMway1DYl9mVVJ2WUhyQnlLTkRVRQ?oc=5)
 
 2026-11-19
 
 Source: [Respiratory Therapy](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVM3U180UDZmdUVNd3lFb19EQmZTaEhzLURuX0paUzV0ZGpULVVycUZwVmZwUzNiVS0xZDZIaWFhOEtPNWkyeHppOWlmbXJEcHkxVVpWR0ZQQUYwb2RaZUdNZFpfTFB0Y2NfdkFZNmpuelY4RzQ3cXYtT2tQZE1YZDFJdllPaHRfQmphbWVsTHpsU0xqZVhxLWc2NG0tXzRDNmtya2VYc2dEcUFpNE9Qc2tXeWdkbi1Hd2p3dElkendmZFMway1DYl9mVVJ2WUhyQnlLTkRVRQ?oc=5)
+
+---
+
+### [World COPD Day 2026: Air Pollution, Smoking And 6 Everyday Habits That Can Damage Your Lungs](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUJLWmFwdVJXd1o4RmJfaHBKbHRpUFZDQnFXTk5KT0NfQ0NtUlRmR0ppMTUycEdrV1N6Z3dvWmJuRmtOUmx5ZDdNa0JzTVBlWEZzdHE0LTZTaExfbGhHYUQ4bkdmd2R0cEgzMUtvcV9IODRQXzNNSU14WmZ1Q1NFVS1zNTlTRDFGX2U5MnhMQlR6bHE0Z0NsSVdkUFlkZzBfcUVvN1VLakU1NFNmeFh1VDcyX2xkMGprSzVBVk9ueDJKc1pwSzdjYmV4QVBVTlpQM3c?oc=5)
+
+2026-11-18
+
+Source: [Netmeds](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUJLWmFwdVJXd1o4RmJfaHBKbHRpUFZDQnFXTk5KT0NfQ0NtUlRmR0ppMTUycEdrV1N6Z3dvWmJuRmtOUmx5ZDdNa0JzTVBlWEZzdHE0LTZTaExfbGhHYUQ4bkdmd2R0cEgzMUtvcV9IODRQXzNNSU14WmZ1Q1NFVS1zNTlTRDFGX2U5MnhMQlR6bHE0Z0NsSVdkUFlkZzBfcUVvN1VLakU1NFNmeFh1VDcyX2xkMGprSzVBVk9ueDJKc1pwSzdjYmV4QVBVTlpQM3c?oc=5)
 
 ---
 

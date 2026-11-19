@@ -3,7 +3,7 @@ layout: default
 title: "diabetic retinopathy News"
 parent: Health News
 nav_exclude: true
-description: "Health news about diabetic retinopathy. 4 articles, 4 related drugs."
+description: "Health news about diabetic retinopathy. 5 articles, 4 related drugs."
 permalink: /news/diabetic-retinopathy/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about diabetic retinopathy?">
-<strong>diabetic retinopathy</strong> currently has <strong>4 news articles</strong> and 4 related drugs.
+<strong>diabetic retinopathy</strong> currently has <strong>5 news articles</strong> and 4 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page brings together the latest health news about â€œdiabetic retinopathyâ€
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Madhav Netralaya marks World Diabetes Day - The Hitavada](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXFVSEl0VnZnZjZSbTVkU0U3QXhyTEttYlN4VkxPRHp1RUVFdHdtVUh6X1ZVanVHUjBZY2loc1FEeDFfcHViYy1jRzJ2LTQ3OENYMzJSX1YxUXFBWGlyTWFwOUVsQkNvZGlqeGd0VUpGdmQ0XzB1bVJHa25EdzBPM0xfZk1hSHZNcDVZbGZYZzU5Sk9WaXc?oc=5)
+
+2026-11-19
+
+Source: [The Hitavada](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXFVSEl0VnZnZjZSbTVkU0U3QXhyTEttYlN4VkxPRHp1RUVFdHdtVUh6X1ZVanVHUjBZY2loc1FEeDFfcHViYy1jRzJ2LTQ3OENYMzJSX1YxUXFBWGlyTWFwOUVsQkNvZGlqeGd0VUpGdmQ0XzB1bVJHa25EdzBPM0xfZk1hSHZNcDVZbGZYZzU5Sk9WaXc?oc=5)
+
+---
 
 ### [Associations between circulating neuregulin 4 and diabetic retinopathy in patients with type 2 diabetes mellitus: a cross-sectional study](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02RkR0YVdnR1N5SGJVWE1HdDlUWk9Cc0Vqel9MSlpUNzE5Z0JzM1BfOUxjdG13R2c5bnhxTDI2UGI0X252N3J5b09ZRDJBZjhHTTJZY21Ma2NBNDNnYzE0?oc=5)
 

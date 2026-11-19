@@ -3,9 +3,9 @@ layout: default
 title: "psoriasis (chamdi ki bimari) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about psoriasis (chamdi ki bimari). 1 articles, 1 related drugs."
+description: "Health news about psoriasis (chamdi ki bimari). 2 articles, 1 related drugs."
 permalink: /news/chamdi-ki-bimari/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # psoriasis (chamdi ki bimari) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about psoriasis (chamdi ki bimari)?">
-<strong>psoriasis (chamdi ki bimari)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>psoriasis (chamdi ki bimari)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “psoriasis” and lists
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [Biologics Show No Added Cancer Risk in Psoriasis](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
+
+2026-11-19
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEFULUJVSzczdzNpWlNCbDJ2SE5ndGdmSDg4TUVJNkl6cjN1dG5ZWHRBWWpUTHFxYzR5bHJzR0pfZWtjcDlRZDdoZHIzR0RzcXVlS2pva1hlWllYMHJySk10TTQzbW1Xa1FaQXVPWU1ZTHhzYnN4S3BCYjRCNXIyaF9HZ2dSX3ZjbUFlSXB2Q1FTTDMtSW1kQ3N6OA?oc=5)
+
+---
 
 ### [Tildrakizumab After Anti-IL-17 Failure Improves Psoriasis Outcomes](https://news.google.com/rss/articles/CBMisAFBVV95cUxNX1RKZ0lJSWZKZFZILTBCMVFhLTRYdFNGTDV1akRDX0RRSXZBUXcyOGNXakNCWVhXcGlTSjdRYlVxUWk2Yk5HWnNNVDFZSk9OdVlFRUVpM3Z2M2ZqRUxBaUxhLTFENnRwWHVuM2FKcUdQajFneUlsWmZhYWtuRHZ2S0pkbzFYX3ZYa2dWdEMwX0VNTmpsSF9IUno0X2JIV2FaTUFSeE1HM0lHTjlEV2plYw?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>4 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>5 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Pneumonia warning signs: Doctors explain early warning symptoms that can be mistaken for a common cold or seasonal flu | Health - Hindustan Times](https://news.google.com/rss/articles/CBMilAJBVV95cUxOMVFFOTRBcVZTWWJSR0JRamlTQzRDeFliVVU3UnRYOU9NSzd3NzF5QmRBYldJY185NHRkcUtuSUJEMl82ZFhmcnJhR2ZBdjJVeFRNckV3bjdwVW1tckE5M3l3OE4zeGdlenFaVUJ6MG9HVlVpWHlGUWtBLWdZWTdwX0NpLUlDSXZXVzNfWlNzdkFpSm1ZYUE0cFBZUGxDWlVUSU93a3hPREg4VEtCemlqUUlmSzZxV0g3MW03UjVucXpSeENMam5iMzZLZm0zQkh6UG9ES0ZuT1FkZUh4YldjaXlRN2JOVWlNbEpQd1dQREFWM2RNNzd6RmlyU19TYVhhMjgwTnVEQ0djVWpkZjF2eFR0aUrSAZoCQVVfeXFMTjNya2M3OGlaWUZiSVRtc3hhMHhwRnRveTkxdnlFSkFSalBUalgyUl8yd3laRzNnWktaeGRKU042SW1SQnc5ZzlJSFNVV0NVUzBoaGlEVnF4WFNscmZISDM5MlZmRGdRNXFBVkRRaHBkUlVSWnJvQTB4dmlGMjdna2tacmdyX1l5WXpQeUFFdmZQd0Ffb0xGZjh3anlnNDdLdTV2eTNkR19Ec2hwaGltdWxHQ210ZEswTW9kZDhOeU9zeWJ2b05yV19fTHIxb3FVc1psb2xYTXM5UVhVMmVJYTBPbXBqS2pybW1LdzVOTWZBT0FuT0tpZzIwTmRHWFdWSnBaSHEtQi1IQmk1a0RtSU9CM2NuNXR6amRR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">common cold</span> <span class="news-indication-tag">cold</span> <span class="news-indication-tag">common cold</span> <span class="news-indication-tag">common cold</span> <span class="news-indication-tag">common cold</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMilAJBVV95cUxOMVFFOTRBcVZTWWJSR0JRamlTQzRDeFliVVU3UnRYOU9NSzd3NzF5QmRBYldJY185NHRkcUtuSUJEMl82ZFhmcnJhR2ZBdjJVeFRNckV3bjdwVW1tckE5M3l3OE4zeGdlenFaVUJ6MG9HVlVpWHlGUWtBLWdZWTdwX0NpLUlDSXZXVzNfWlNzdkFpSm1ZYUE0cFBZUGxDWlVUSU93a3hPREg4VEtCemlqUUlmSzZxV0g3MW03UjVucXpSeENMam5iMzZLZm0zQkh6UG9ES0ZuT1FkZUh4YldjaXlRN2JOVWlNbEpQd1dQREFWM2RNNzd6RmlyU19TYVhhMjgwTnVEQ0djVWpkZjF2eFR0aUrSAZoCQVVfeXFMTjNya2M3OGlaWUZiSVRtc3hhMHhwRnRveTkxdnlFSkFSalBUalgyUl8yd3laRzNnWktaeGRKU042SW1SQnc5ZzlJSFNVV0NVUzBoaGlEVnF4WFNscmZISDM5MlZmRGdRNXFBVkRRaHBkUlVSWnJvQTB4dmlGMjdna2tacmdyX1l5WXpQeUFFdmZQd0Ffb0xGZjh3anlnNDdLdTV2eTNkR19Ec2hwaGltdWxHQ210ZEswTW9kZDhOeU9zeWJ2b05yV19fTHIxb3FVc1psb2xYTXM5UVhVMmVJYTBPbXBqS2pybW1LdzVOTWZBT0FuT0tpZzIwTmRHWFdWSnBaSHEtQi1IQmk1a0RtSU9CM2NuNXR6amRR?oc=5)
+
+---
 
 ### [Winter and diabetes: How cold weather can disrupt blood sugar, circulation and foot health in older adults - The Times of India](https://news.google.com/rss/articles/CBMiggJBVV95cUxNd3ZKZUx5eE4zOWgyV210OFNGQ0NpT1k2T3dtR2NSNUZEd0l5a2JVbUkyU2xwa3J6eXljODFSVEhzUWc3Y0dxc1lXWXBVZzJMX0Fla3Y5endHMEVkSTBTbTZTVC15amo4bmo1OWo5aWM4MjhVNl84eEJSY3RtUlp4S09uTUNBMktpYVllMlI0U0Y3SmxxOFJkS2QzZmoyOWQ3ZGhsb2tyM0E3dlVDRVB2OWRiRktSbVJ2YTVYbTBwQlQ4cy1WZzZjdzVxeG44b2toelU2WjhpMVFRQU5YbGdNQUs5WExodTNDWmhXX0MtUHFxOFJ0ZkJBWXhhMDluRGF3WHfSAYoCQVVfeXFMT0l6TFRhMmd2NzlKVVR4LVRxMENFdFpJZENCUkloWEotZzFCeFV1ZU42dVJVVmQzcWpXNGpiZE9BR1VYQU1EZVpzSWJXdWRYalVvMzd1cDNRY2tBMzB3SFA5czkwck54Zm4wRHp3Y3QtMERtR3hwRElodkxyYnhNQVR0akZhSHhwMVVlZFM5SWx4WmhNRm9GNDJ4LXFiNkJsZU9RaFFIdllsVEhIWG1VUVViWmFmb2lPVFJmSnUtbmdsaEIzMmw4elQ4dDJxOExkZnY1UmVPR0JFMTF0Vy13bG04VngwRlNiNFU2MEJDanlQQUh0YUw2VTRSVWxqWWRKMkRldEhCNDU0bmc?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>13 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>16 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,31 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (13)
+## Related News (16)
+
+### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
+
+---
+
+### [Neurologist explains why quality sleep is vital for brain health and how power naps can help | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ3IyYnRhNUJEY3BlampTMGdGbWtoWlFqWHZhaGpGRjBTaU9xVFlCWGNqMC1VQjBsRlpyZGdpWjRtSUo5WU1PMG1NWTh6bC1ZNjAyU1ZjQl92eHFtUnFpOWEyZ2dTa1J1SkNKUE9abXRqTGQydFk4V3laMXZWZ05VSUFrYVpnZWNZLVZ1RFkzWDM4RHhISjlxVkFwOGlGV05zcUJCbVlhbnFCWlR5Q3RKU1M4Nlh6MGd4MTc4b0x5bXpuVzgwWHBFRm55dXNuUlNra3BKNDRfQ3RoZ0s4dXJwdlc3b2lKNHFkYmE5X3hKUTk2YmfSAfgBQVVfeXFMTjNaVXFiVFNHS2RLM015U0ZidUQwRkpuZFFua0YyXzZmWENRVzJnT045QTBIM3ltNmxzSDQwdVdvS05sd2FPc1U1a2FjRl9JSGFlUmVWNTI4M2o5eFliUTI4aGlnMUZ4V25kVXZ0WENFcHpVcnVLVGJkRWxvNThtdUNQQjkzR3UwRDBoMEZPQ3luZ2R6cEwyQVBlNHhWZ3V5TUpXT1JVa2c0ZXpXbVBZdkpwUVVwZzB1YzhNYWZBeHAtMnZPM2ltQWVpRDRiNU1ZZkpfNDIzb3VQYzRVQlpjdTJGR2JMYmdTbnBPYW1GOTdGTktDVG9ENlo?oc=5)
+
+2026-11-19 <span class="news-indication-tag">heart disease</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ3IyYnRhNUJEY3BlampTMGdGbWtoWlFqWHZhaGpGRjBTaU9xVFlCWGNqMC1VQjBsRlpyZGdpWjRtSUo5WU1PMG1NWTh6bC1ZNjAyU1ZjQl92eHFtUnFpOWEyZ2dTa1J1SkNKUE9abXRqTGQydFk4V3laMXZWZ05VSUFrYVpnZWNZLVZ1RFkzWDM4RHhISjlxVkFwOGlGV05zcUJCbVlhbnFCWlR5Q3RKU1M4Nlh6MGd4MTc4b0x5bXpuVzgwWHBFRm55dXNuUlNra3BKNDRfQ3RoZ0s4dXJwdlc3b2lKNHFkYmE5X3hKUTk2YmfSAfgBQVVfeXFMTjNaVXFiVFNHS2RLM015U0ZidUQwRkpuZFFua0YyXzZmWENRVzJnT045QTBIM3ltNmxzSDQwdVdvS05sd2FPc1U1a2FjRl9JSGFlUmVWNTI4M2o5eFliUTI4aGlnMUZ4V25kVXZ0WENFcHpVcnVLVGJkRWxvNThtdUNQQjkzR3UwRDBoMEZPQ3luZ2R6cEwyQVBlNHhWZ3V5TUpXT1JVa2c0ZXpXbVBZdkpwUVVwZzB1YzhNYWZBeHAtMnZPM2ltQWVpRDRiNU1ZZkpfNDIzb3VQYzRVQlpjdTJGR2JMYmdTbnBPYW1GOTdGTktDVG9ENlo?oc=5)
+
+---
+
+### [A novel hybrid fuzzy membership function-based feature transformation for cardiovascular disease prediction](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnTDVDNkZWWFVlbDRfMVRBU1ZpNThwR3p6SGJUVVBpZzZqdmQwTkpmbFJDWVVmMkFOWTMybFZLSFZ2cHNrMHZ4aG5XempkOWFycDFXYXIxM2ptOVJNSGZZ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cardiovascular</span> <span class="news-indication-tag">vascular disease</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnTDVDNkZWWFVlbDRfMVRBU1ZpNThwR3p6SGJUVVBpZzZqdmQwTkpmbFJDWVVmMkFOWTMybFZLSFZ2cHNrMHZ4aG5XempkOWFycDFXYXIxM2ptOVJNSGZZ?oc=5)
+
+---
 
 ### [Triglyceride-Glucose Index Predicts Cardiovascular Risk](https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjhVOFpsdkYxd3BRYnhLbzhWdWhudm1meE1mT1BzNmFKSDl1Z19RX1BhZzRETG54QVFwWXNselJEdzJaSXE5eHVaT3pQOU85Ulc3NFBYUVhPbEZaRnEyNDE4X1BPQkFqajU4QzZ4TjBkVVBGNThMd1AwbkVnWXBaTlVqdC1tSmNMeFhwdTJvUlZ4YU5iWHQ4MnBic1FYTzJ0?oc=5)
 

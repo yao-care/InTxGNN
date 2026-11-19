@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Beta Carotene?">
-<strong>Beta Carotene</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
+<strong>Beta Carotene</strong> currently has <strong>5 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Beta Carotene with the lates
 <p><a href="{{ '/drugs/beta-carotene/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (5)
+
+### [Madhav Netralaya marks World Diabetes Day - The Hitavada](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXFVSEl0VnZnZjZSbTVkU0U3QXhyTEttYlN4VkxPRHp1RUVFdHdtVUh6X1ZVanVHUjBZY2loc1FEeDFfcHViYy1jRzJ2LTQ3OENYMzJSX1YxUXFBWGlyTWFwOUVsQkNvZGlqeGd0VUpGdmQ0XzB1bVJHa25EdzBPM0xfZk1hSHZNcDVZbGZYZzU5Sk9WaXc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">diabetic retinopathy</span>
+
+Source: [The Hitavada](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXFVSEl0VnZnZjZSbTVkU0U3QXhyTEttYlN4VkxPRHp1RUVFdHdtVUh6X1ZVanVHUjBZY2loc1FEeDFfcHViYy1jRzJ2LTQ3OENYMzJSX1YxUXFBWGlyTWFwOUVsQkNvZGlqeGd0VUpGdmQ0XzB1bVJHa25EdzBPM0xfZk1hSHZNcDVZbGZYZzU5Sk9WaXc?oc=5)
+
+---
 
 ### [Associations between circulating neuregulin 4 and diabetic retinopathy in patients with type 2 diabetes mellitus: a cross-sectional study](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02RkR0YVdnR1N5SGJVWE1HdDlUWk9Cc0Vqel9MSlpUNzE5Z0JzM1BfOUxjdG13R2c5bnhxTDI2UGI0X252N3J5b09ZRDJBZjhHTTJZY21Ma2NBNDNnYzE0?oc=5)
 

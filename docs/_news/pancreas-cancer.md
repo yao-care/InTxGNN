@@ -3,7 +3,7 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 1 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 2 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [World Pancreatic Cancer Day: Doctor explains how to tell pancreatic cancer symptoms apart from acidity and gastritis - The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+2026-11-19
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+---
 
 ### [The Silent Cancer: From Late Diagnosis to New Hope”](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLWp5RFJaVVJNTURzTmgyb2xMSU9iMmFNMHVSV0VMMm53OTYwZ2d2bGVfc21BeEpQNjNld2FMM1NuWHA1YTRHWGtxMC1VMG9CT2lpQ3k5ZzBULUhQV05yYk9HOURzZHRxZTZ4dUVrVHZCU1NIWFVvWHZuRVFPZHF0VmdkSkxSUFJvWEktNkt6MVpod9IBlwFBVV95cUxQV2E5QmlnMkpqWGcwUmJtZy1vRmVxV3RlQndzdlBnM2pxNTkwUVY4TnZPazhySU1QUWtzSlpMQWpQTUJORWo4N09wYUZGcC00M0xIYmZ4NC1NY3l4MUJkYURqM3BkYVpRS2tXY21pTTNhQnk0eGhQLTBpZXlURFJhdWF1UUFVQVFPWlhWMFROeWttY1p0WjVN?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "ovarian cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about ovarian cancer. 5 articles, 1 related drugs."
+description: "Health news about ovarian cancer. 6 articles, 1 related drugs."
 permalink: /news/ovarian-cancer/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about ovarian cancer?">
-<strong>ovarian cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>ovarian cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “ovarian cancer” and 
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Ovarian Cancer Risk Factors Vary Across Histotypes](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE16WDM5clY5Z2dXX3h6NDhXU1hoWnNKZFVTMjRjLUE4TC1nTkpaUFJWRkotV0poVFVRTXZhU2c5X2hfNWJtMmlXT2E2VVByZ1R0NUh3RFBYY2tmRmt6M0Jnci1QeU0xLTkxV0VPUU9kTGFodnJWQkpRV2VHdDE1aENXbFFnalREbE81c0FMUVZkNjhVNTFzRXhVV3pLSHZGZW1tOEpR?oc=5)
+
+2026-11-19
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMipgFBVV95cUxPWE16WDM5clY5Z2dXX3h6NDhXU1hoWnNKZFVTMjRjLUE4TC1nTkpaUFJWRkotV0poVFVRTXZhU2c5X2hfNWJtMmlXT2E2VVByZ1R0NUh3RFBYY2tmRmt6M0Jnci1QeU0xLTkxV0VPUU9kTGFodnJWQkpRV2VHdDE1aENXbFFnalREbE81c0FMUVZkNjhVNTFzRXhVV3pLSHZGZW1tOEpR?oc=5)
+
+---
 
 ### [Experimental Drug Shrinks Tumors in Phase I Trial for Advanced Ovarian Cancer - Inside Precision Medicine](https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjhvcEs1aGFPYjlrOEIyQlB1dFlJVnBHUW5uWnpSaDl4cTRnX1RLaUNFdnp5WlMwUWhZU0xpVWZKNFBMSDZRUGNjcVNPRE94VnFvQWQzYjRpUlJpc05QWV95QnNwenRiTGZIbkNDT1RBV3dlaEszMEhMR0tFOXktSXN2MmlyWmVoNzFmM0tzV3ZQOWhxZkVLNDFITk05VUZuNU9fazRoMU81TUlkRXlMM1E2QXJhVnZMNVFQcTFQVU1mSHJhLTJYbkhlTl9FSU0?oc=5)
 

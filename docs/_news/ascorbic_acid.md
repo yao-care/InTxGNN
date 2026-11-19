@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ascorbic Acid. 0 predicted indications."
 permalink: /news/ascorbic_acid/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Ascorbic Acid News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>2 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [Possible Semaglutide-Associated Acute Hepatocellular Liver Injury: A Case Report](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFBLcV9XY3BiSzllQVg4WDUwc1pvbEI4ZURXMlZNZE9wTmxLMFlHOGFiRGtUVDc4aS1qZVRpdFg0VDVfYWlka01kMXZ2ZVFEYnFNRkJRS0hkSmZ2MURRLWpNLUxEX0NqME9JdVJhSGJjdlFfQldKTWthUjJ4eG8xZ2NuQU5tTFdQdnFVUlZ1cktxSE9kYXNWNTZ5VVR3RXlUb1ZLbi1ibEI3SVA4b0NlQUtCS1owVnhMNVE?oc=5)
+
+2026-11-19 <span class="news-drug-tag">SEMAGLUTIDE</span> <span class="news-indication-tag">injury</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFBLcV9XY3BiSzllQVg4WDUwc1pvbEI4ZURXMlZNZE9wTmxLMFlHOGFiRGtUVDc4aS1qZVRpdFg0VDVfYWlka01kMXZ2ZVFEYnFNRkJRS0hkSmZ2MURRLWpNLUxEX0NqME9JdVJhSGJjdlFfQldKTWthUjJ4eG8xZ2NuQU5tTFdQdnFVUlZ1cktxSE9kYXNWNTZ5VVR3RXlUb1ZLbi1ibEI3SVA4b0NlQUtCS1owVnhMNVE?oc=5)
+
+---
 
 ### [Drinking beer and spirits raises risk of acute kidney damage, study suggests - The Guardian](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmNZVlpKX2xjdkxKcnAtRENSZ2pheC1nN1pBOGhFYmFwZzJadFNYd3RqTXhQUDVKanZCNEtUU1pPZmxlaGxqSlQ0Z0VJT2pjcDh2VW9wTXVhTVdyYmdtdEZodWV4a2VtSWU1QVc1Q3UtaVk1b0hjVEpfQ1JaV1IxbmhCVkp4dUFQSjFLdE9fRVNSay04U3M0QzZVZjRjeW5xeUpHbExENWZSVHdoeV95M1lfemFuSk8takstbmZB?oc=5)
 
