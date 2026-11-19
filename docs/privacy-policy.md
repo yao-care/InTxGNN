@@ -47,11 +47,32 @@ patient identifiers. When you ask for clinical trials, the drug and indication n
 
 ---
 
-## Data subject rights
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## Applicable law
 
-This site has no accounts and keeps no personal records on servers of its own (it has none). Usage statistics
-are collected by Google Analytics 4; you can block or delete its cookies in your browser settings.
-For questions about this policy, contact service@yao.care.
+For visitors in India the relevant law is the [Digital Personal Data Protection Act, 2023](https://www.meity.gov.in/data-protection-framework) (DPDP Act). Under the DPDP Rules notified in November 2025, the Data Protection Board of India was set up and the main obligations take effect in stages, most of them from May 2027. The personal data this site handles is limited to the usage data that Google Analytics 4 collects through cookies.
+
+## Your rights and how to use them
+
+- Right to obtain information about the personal data processed (Section 11).
+- Right to correction and erasure (Section 12).
+- Right of grievance redressal: write to us first (Section 13), then approach the Data Protection Board of India.
+- Right to nominate another person to exercise these rights (Section 14).
+
+Requests: service@yao.care (there are no accounts, so tell us the date and pages of your visit). Analytics cookies can be blocked or deleted in your browser.
+
+## Copyright and data sources
+
+Site texts are protected under the [Copyright Act, 1957](https://www.indiacode.nic.in/handle/123456789/1367). The site's code is published under the MIT License in the [GitHub repository](https://github.com/yao-care/InTxGNN); report texts are © 藥提醒科技有限公司 (yao.care).
+
+Data sources used on this site and their terms:
+
+- **TxGNN** data (Harvard Dataverse): CC0 1.0; cite Huang et al., *Nature Medicine* 2024.
+- **ClinicalTrials.gov**, **PubMed**: [ClinicalTrials.gov terms](https://clinicaltrials.gov/about-site/terms-conditions), [NCBI policies](https://www.ncbi.nlm.nih.gov/home/about/policies/).
+- **DrugBank**: [DrugBank](https://go.drugbank.com/) licence terms, non-commercial use.
+- **Local dataset** – [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset): the GitHub repository does not state a licence; reuse beyond fair dealing needs the author's permission (https://github.com/junioralive/Indian-Medicine-Dataset).
+
+<!-- privacy-law:end -->
 
 ---
 

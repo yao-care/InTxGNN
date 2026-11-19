@@ -14,27 +14,31 @@ Accelerating drug repurposing evidence validation with AI — from prediction to
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## India: data behind this site
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## India: this site's data in numbers
 
-This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset), a public GitHub dataset (India).
+Local data: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset). The local data are product entries in the Indian Medicine Dataset, a public GitHub dataset. It is not a CDSCO licence register, and CDSCO licence status is not included in this data.
 
-Dataset: [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset), downloaded and compared automatically every week (Mondays). Details: [Data Sources]({{ '/sources/' | relative_url }}).
+| Item | Value |
+|---|---|
+| Medicines with a published report | {{ site.data.local_facts.drugs_total }} |
+| Medicines found in the local data | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …with at least one listed entry | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …with entries but none listed | {{ site.data.local_facts.licence.drugs_none_current }} |
+| Medicines not in the local data | {{ site.data.local_facts.licence.drugs_without_data }} |
+| Local entries (products in the Indian Medicine Dataset) | {{ site.data.local_facts.licence.items_total }} |
+| …of which listed | {{ site.data.local_facts.licence.items_current }} |
+| Review-log entries | {{ site.data.local_facts.reviews.records }} |
+| Drug pages with review-log entries | {{ site.data.local_facts.reviews.public_pages_with_records }} |
+| Predicted drug–disease pairs found on no other TxGNN site | {{ site.data.local_facts.cross.unique_pairs }} |
 
-Reports by evidence level:
+{% if site.data.local_facts.top_licensed.size > 0 %}Medicines with the most listed products in the Indian Medicine Dataset: {% for r in site.data.local_facts.top_licensed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| Evidence level | Reports | Share |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}Latest review-log corrections: {% for r in site.data.local_facts.recent_reviews limit: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-185 predicted drug–disease pairs on this site appear on no other of the 30 TxGNN sites.
+Examples of predictions that no other TxGNN site lists for the same medicine: [Amifostine]({{ '/drugs/amifostine/' | relative_url }}) → hypertensive disorder, [Chlormezanone]({{ '/drugs/chlormezanone/' | relative_url }}) → insomnia (disease), [Conivaptan]({{ '/drugs/conivaptan/' | relative_url }}) → pulmonary hypertension, [Amineptine]({{ '/drugs/amineptine/' | relative_url }}) → agoraphobia, [Ardeparin]({{ '/drugs/ardeparin/' | relative_url }}) → thrombophilia due to protein C deficiency, autosomal recessive, [Arformoterol]({{ '/drugs/arformoterol/' | relative_url }}) → hyperlucent lung, [Astemizole]({{ '/drugs/astemizole/' | relative_url }}) → rosacea conjunctivitis, [Beta Carotene]({{ '/drugs/beta-carotene/' | relative_url }}) → craniostenosis cataract.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## Background
 
@@ -51,85 +55,17 @@ and <a href="{{ '/sources/' | relative_url }}">Data Sources</a> for the full lis
 
 ---
 
+<!-- local-condensed:start（母目錄 .claude/gen_local_pages_20261119.py；原共用段落縮寫，勿手改）-->
 ## About the Developer
 
-This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration
-number 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan).
-
-InTxGNN is the India site of the company's "TxGNN Drug Repurposing" product line.
-The same system is deployed across 30 countries and regions, each named `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN, and so on) at `{cc}txgnn.yao.care`.
-Product overview: <https://www.yao.care/medical/txgnn/>.
-
-The TxGNN model itself was developed by the Zitnik Lab at Harvard Medical School and published
-in *Nature Medicine*. This platform is the production system 藥提醒科技有限公司 built on top of that
-model, covering local drug-list data integration, deep-learning prediction that excludes uses already recorded in the knowledge graph, PubMed / ClinicalTrials evidence grading, and SMART on FHIR
-electronic health record integration.
+This platform is developed and operated by **藥提醒科技有限公司** (yao.care, company registration number 83620786, Taichung City, Taiwan) as one of 30 country and region sites of its TxGNN drug repurposing product line ([product overview](https://www.yao.care/medical/txgnn/)).
 
 ---
 
-## What is drug repurposing?
+## Method in brief
 
-<p class="key-answer" data-question="What is drug repurposing?">
-<strong>Drug repurposing</strong> means finding new therapeutic uses for existing medicines.
-Compared with developing a new drug from scratch — 10 to 15 years and USD 1&ndash;2 billion —
-repurposing takes 3 to 5 years and USD 100&ndash;300 million, and human safety data already exists,
-so the risk of failure is lower.
-</p>
-
-<table class="comparison-table">
-<thead>
-<tr><th>Aspect</th><th>New drug development</th><th>Drug repurposing</th></tr>
-</thead>
-<tbody>
-<tr><td>Time</td><td>10&ndash;15 years</td><td>3&ndash;5 years</td></tr>
-<tr><td>Cost</td><td>USD 1&ndash;2 billion</td><td>USD 100&ndash;300 million</td></tr>
-<tr><td>Safety data</td><td>Must be established</td><td>Human data already available</td></tr>
-<tr><td>Risk of failure</td><td>Very high (&gt;90%)</td><td>Lower</td></tr>
-</tbody>
-</table>
-
----
-
-## What is TxGNN?
-
-<p class="key-answer" data-question="What is TxGNN?">
-<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> is a deep learning model
-developed by the Zitnik Lab at Harvard Medical School and published in <em>Nature Medicine</em>.
-It predicts novel drug&ndash;disease associations and is the first foundation model for drug
-repurposing designed specifically for clinicians.
-</p>
-
-<blockquote class="expert-quote">
-"TxGNN integrates a knowledge graph covering 17,080 diseases and uses graph neural networks
-to learn complex relationships between nodes, predicting potential efficacy of drugs against
-rare diseases."
-<cite>&mdash; Huang et al., Nature Medicine (2024)</cite>
-</blockquote>
-
----
-
-## Data sources
-
-The sources behind the predictions, evidence and drug data, with their licences and update frequency,
-are listed on the <a href="{{ '/sources/' | relative_url }}">Data Sources</a> page.
-
----
-
-## Academic basis
-
-> Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
-
----
-
-## Scale
-
-| Item | Value |
-|------|-------|
-| Drug reports | {{ site.data.drug_stats.total_drugs }} |
-| Drug list | Indian Medicine Dataset (public GitHub dataset) |
-| Deployed sites | 30 countries / regions |
+Predictions come from TxGNN, a graph neural network model from the Zitnik Lab at Harvard Medical School (Huang et al., *Nature Medicine* 2024, [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)); each predicted indication is graded L1–L5 against ClinicalTrials.gov and PubMed. Model, evidence levels and grading rules: [Methodology]({{ '/methodology/' | relative_url }}). Datasets, download links and licences: [Data Sources]({{ '/sources/' | relative_url }}).
+<!-- local-condensed:end -->
 
 ---
 
