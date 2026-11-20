@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dronedarone. 9 predicted indications."
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Dronedarone News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dronedarone?">
-<strong>Dronedarone</strong> currently has <strong>11 news articles</strong>, with 9 predicted indications.
+<strong>Dronedarone</strong> currently has <strong>12 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,11 +41,19 @@ This page combines the AI-predicted indications for Dronedarone with the latest 
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Recovery of stimulation-evoked synchronization in post-stroke brain networks - APS Journals](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY21MUHRHcWdEcndGMFRZVTJNNEFEY3F5RmxBSGlRN1RZamV0eGZMTWtkSHdLQ1I1S2hFVGxrVjFOaE80dkNPX1JoNmpiTDY4bndRZXFrXzU0UnlVMHRzMURUMThRdw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+
+Source: [APS Journals](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY21MUHRHcWdEcndGMFRZVTJNNEFEY3F5RmxBSGlRN1RZamV0eGZMTWtkSHdLQ1I1S2hFVGxrVjFOaE80dkNPX1JoNmpiTDY4bndRZXFrXzU0UnlVMHRzMURUMThRdw?oc=5)
+
+---
 
 ### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 
-2026-11-19 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span>
+2026-11-19 <span class="news-drug-tag">METFORMIN</span> <span class="news-drug-tag">Metformin</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">heart disease</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 

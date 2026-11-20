@@ -3,9 +3,9 @@ layout: default
 title: "malaria News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria. 4 articles, 2 related drugs."
+description: "Health news about malaria. 6 articles, 2 related drugs."
 permalink: /news/malaria/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # malaria News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about malaria?">
-<strong>malaria</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>malaria</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Genetically engineered malaria vaccine demonstrates 87% efficacy in phase 1 trial](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmc5Y3pka0ZNZlM3VldqNU5mNUY5THpBQWkwSjNiYWpfNS0yTWdLTmx4dWpvemdTNnJZMmZ1VUNsM0NGTW9yM1VLQWl1X2VDdmdfVDBnXzNTR2ZGaVRyR01PSUl1T1NBOG1DeHpuUjVpTzV3N3RyWWRrZF95WWxsMUdQNHViVUpaNlFQNWwtdmxtSXliT2N5OUdFOVRfU3RYeTBaSS1haGFQOFlPSG1wYVZfSnFMMnpwblFfYW9LTTdOd2hQcVdJZVZn?oc=5)
+
+2026-11-20
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmc5Y3pka0ZNZlM3VldqNU5mNUY5THpBQWkwSjNiYWpfNS0yTWdLTmx4dWpvemdTNnJZMmZ1VUNsM0NGTW9yM1VLQWl1X2VDdmdfVDBnXzNTR2ZGaVRyR01PSUl1T1NBOG1DeHpuUjVpTzV3N3RyWWRrZF95WWxsMUdQNHViVUpaNlFQNWwtdmxtSXliT2N5OUdFOVRfU3RYeTBaSS1haGFQOFlPSG1wYVZfSnFMMnpwblFfYW9LTTdOd2hQcVdJZVZn?oc=5)
+
+---
+
+### [Gene variant gives male malaria mosquitoes a mating edge in the heat](https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdXlWUmNpakRNWk5hcXh1dHlzOTVPZFVkaGRXOGpNRjRLWGZ5SGM4N2lNNUFMWG5wMEgtMmNxbEVfeWcxMHFGNmRMQm1XVVhUcEFaSy1lYjRoRnpJaDZ0aGM4dEFLUzZQTjF3bUFYUV9BZm1Da1JvN0pIcw?oc=5)
+
+2026-11-19
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdXlWUmNpakRNWk5hcXh1dHlzOTVPZFVkaGRXOGpNRjRLWGZ5SGM4N2lNNUFMWG5wMEgtMmNxbEVfeWcxMHFGNmRMQm1XVVhUcEFaSy1lYjRoRnpJaDZ0aGM4dEFLUzZQTjF3bUFYUV9BZm1Da1JvN0pIcw?oc=5)
+
+---
 
 ### [India Cuts Malaria Cases By 80%, But Climate Change Could Reverse The Gains](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemhFTXNWbmE1SHFmWm5sNDdEejVZM1V5Qi1aU19RTTV3OWxTUlEydDZZaVFhSF9vVUwyb3U1NjdTRFVMVEFQUDZ0TG41eVRTTzlWU2lBUExST0dfaFFnbl9lal91RGk4SEtLVHpTZkd6WElvRWlFbWZxTFR6SFQyemwwTWlXMGszU2lKYnZOR1pEdWtqUEQ2T05ZLVRKdElXcjQzMURkXzEyam9zZzZPdmhoQ0FOUV9taUpaV21BeC1MUQ?oc=5)
 

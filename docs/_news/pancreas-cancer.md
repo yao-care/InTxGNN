@@ -3,9 +3,9 @@ layout: default
 title: "pancreatic cancer (pancreas cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about pancreatic cancer (pancreas cancer). 3 articles, 1 related drugs."
+description: "Health news about pancreatic cancer (pancreas cancer). 4 articles, 1 related drugs."
 permalink: /news/pancreas-cancer/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # pancreatic cancer (pancreas cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about pancreatic cancer (pancreas cancer)?">
-<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>pancreatic cancer (pancreas cancer)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “pancreatic cancer” a
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [World Pancreatic Cancer Month 2026: Know the Signs, Risk Factors and Why Early D](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
+
+2026-11-19
+
+Source: [Netmeds](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
+
+---
 
 ### [Survivor talks importance of early detection on World Pancreatic Cancer Day - NBC 5 Dallas-Fort Worth](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLTNaNXRzLVN1TEcxSmRxMlc0aS1EZTIyUEpIRWxYM1VjMDZJNGVaVGQ5WVNKWW9yeS10S0JLdzRFbW5LLW4wcENpbEhhMjBOV2dFUzJGQVhOVVk5aUxDalhiNjl5dVdwWlZPSmxUUi1oMWVDeFBzOWNsbERGV2JkekYxMHRnb3dTSUNCRHdfTXk5cUphc3VldUt0cjFrYXFpOXZJcV9PRVB5U0lJU2xYVzE2NGlBM0FrUGRwSEdNT0JiZE9UYkhKenBIanVHQnBCUHFVZXkwQlVvdEnSAeMBQVVfeXFMTXUxSVRGeVhoWWl5VU9CM0hmVl9GSFlyOXhwRnBDeFRYVm9KcWUxd2E0REJyOTFDM05jMG5xczdzTnZKUFlvRnBOejBwYkhncUUyS1FZdG11amhEem5MbFlHQkNmZlc0VTFZTGszNTlTSzJCWjkzZzB4eS1Gb3B2bG1JRlkwX3JRZW5WakFGOUE0WmFnOTQ0a0Z3T0ZiMHNjSjlmUEN3VkZmaXNqRUpMMjg0LXZNd296YmZpY2tMQUFObXdxa090bnNtS3VwYW1jZHBIYzV6aEVZOWRUT3d6MnNtSDA?oc=5)
 

@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Dasatinib. 9 predicted indications."
 permalink: /news/dasatinib/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Dasatinib News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Dasatinib?">
-<strong>Dasatinib</strong> currently has <strong>70 news articles</strong>, with 9 predicted indications.
+<strong>Dasatinib</strong> currently has <strong>72 news articles</strong>, with 9 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Dasatinib with the latest he
 <p><a href="{{ '/drugs/dasatinib/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (70)
+## Related News (72)
 
 ### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
@@ -56,6 +56,14 @@ Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI
 2026-11-19 <span class="news-indication-tag">cancer</span>
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
+
+---
+
+### [World Pancreatic Cancer Month 2026: Know the Signs, Risk Factors and Why Early D](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Netmeds](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
 
 ---
 
@@ -112,6 +120,14 @@ Source: [Express Healthcare](https://news.google.com/rss/articles/CBMi4gFBVV95cU
 2026-11-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
 
 Source: [The Times of India](https://news.google.com/rss/articles/CBMikgJBVV95cUxQU2tnODFpSUxReG9mMzRNVlE0MmF1aFpXc3lKTGptdDJVLUdsNmZ3ekdNaU9KVmFXYjVvak9yX1VnTUhtMlY2c2R3RlQxTUhDbkVHNnYtUTF6RHpXVEhBMmV2a25mNUhPTlY2V3NCaHZzeXlneHV2ZU1CdHNQblNkQUlTNU8wSDFZcWYtZkxUNmxUanp1YXVIek85RFM5NGE4azgtQnBIYV9jMzF2TThsbzJNWTIzMnFDcXNyd2hUWDk5MEU0UHhmSENhSUtkX3FTbmktVllFMExzWV9QMHluaEdvWWxxWFBTYV9sdmJWblZSTHZkdnAwVUhzMDF1Z2JDTmNmbWhuZGtBVktNZjlUb2t3?oc=5)
+
+---
+
+### [β3 Agonists Do Not Cut Dementia Risk Versus Anticholinergics in OAB - Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
+
+2026-11-19 <span class="news-drug-tag">CHOLINE</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span> <span class="news-indication-tag">dementia</span>
+
+Source: [Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "stroke (lakwa) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about stroke (lakwa). 11 articles, 15 related drugs."
+description: "Health news about stroke (lakwa). 12 articles, 15 related drugs."
 permalink: /news/lakwa/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # stroke (lakwa) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about stroke (lakwa)?">
-<strong>stroke (lakwa)</strong> currently has <strong>11 news articles</strong> and 15 related drugs.
+<strong>stroke (lakwa)</strong> currently has <strong>12 news articles</strong> and 15 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -44,7 +44,15 @@ This page brings together the latest health news about “stroke” and lists th
 </ul>
 </div>
 
-## Related News (11)
+## Related News (12)
+
+### [Recovery of stimulation-evoked synchronization in post-stroke brain networks - APS Journals](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY21MUHRHcWdEcndGMFRZVTJNNEFEY3F5RmxBSGlRN1RZamV0eGZMTWtkSHdLQ1I1S2hFVGxrVjFOaE80dkNPX1JoNmpiTDY4bndRZXFrXzU0UnlVMHRzMURUMThRdw?oc=5)
+
+2026-11-19
+
+Source: [APS Journals](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KY21MUHRHcWdEcndGMFRZVTJNNEFEY3F5RmxBSGlRN1RZamV0eGZMTWtkSHdLQ1I1S2hFVGxrVjFOaE80dkNPX1JoNmpiTDY4bndRZXFrXzU0UnlVMHRzMURUMThRdw?oc=5)
+
+---
 
 ### [Stopping GLP-1s Linked to Double Heart Event Risk in T2D](https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEQ0WlliTS12MFdrSEh6d1JlUWR5dk44UWxoU0drV1JxT2dsTFp4dmRTcnkwakV4aW5qSzhvbE9KRHh4ZHNZQm1rYnNkcnRsNThrRDVzT1B2RDlDa01wVXFVQ3k2Z2hXYVZ6U2FiaWRhMG00MW5uTEQ2MmVBX2ZhRUlRQjBQdnRHRHhMMHZZZlIzRURfUDNCQkNQaUR0aURGTFE?oc=5)
 

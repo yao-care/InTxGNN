@@ -3,9 +3,9 @@ layout: default
 title: "dementia (memory loss) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (memory loss). 7 articles, 8 related drugs."
+description: "Health news about dementia (memory loss). 8 articles, 8 related drugs."
 permalink: /news/memory-loss/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # dementia (memory loss) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (memory loss)?">
-<strong>dementia (memory loss)</strong> currently has <strong>7 news articles</strong> and 8 related drugs.
+<strong>dementia (memory loss)</strong> currently has <strong>8 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
+
+### [β3 Agonists Do Not Cut Dementia Risk Versus Anticholinergics in OAB - Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
+
+2026-11-19
+
+Source: [Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
+
+---
 
 ### [Psychology says a few minutes of your speech may reveal how fast your brain is aging, after a model teste - The Times of India](https://news.google.com/rss/articles/CBMihwNBVV95cUxPZ0ljUVl4VG43Yi1kc2NTbnpZQkJ5bVZSOG5aLXRTbWxlU2RIaHJ3MFRRTTZDalFzYVlyOXgwOUprNnpWd0dMYlFQai1wQ0NIVFdXRl84ZjdqQ3dnOXFiU1JLWUQyYldEUDNkLXBxVklrTzJlRjFwM1JpRFE1U3lTZWU1VnZRTDc4YVB1YTZVTVVDNzVwVUVkeml4SzVGMmViaWtpY3JaRjJKRG0weXJzVzYwV2xhbXk0ekRYVWVLSjF4UHpod05KVnh2OG9BLThGLVVkRExmNHR3eGhpS0p5UzRjWExiZHRLaTQxRWEwX0kyZDRfaElvMzZqN09Kbmx5RVJYanQ3SlBsVXQtRUtOck0zR0dIdjBmRTMwX1lXMEFWR09SM3NrTmxHN2JRSGxOWUF4N0Nyb2VJYnMwYzNNVjRtb0YtbnByaGpMN1RGbWJ1UmI3eXltMDgtMlZrTVVFMi1vMDU1dGdlXzBOcmx6al9MMzdydUZBYkxiWWNTb1daaGNBRE9v0gGMA0FVX3lxTE9DZUYwUUtyVFdRSG5OTGpqbDlodzdEUElmQWEtazZ0Q0RPSjN0dVV5anFJXzJuY1YxQVB4NklRM2VfanJKYU1haHpnS1hxS2Z3TlhWUXU5eGJHUGhBekgwVnh5TWFWcDExbnBfRXdaS3pxSTZZRXVpMVJGelROZnJRTTZWMWRQMEdfU2liMjdIaG1NZ001V1VuVkF2Q1p0U3ZqdDJDZ040d1gyWVJJX0JiMUdHMWxTeTJXdHpkY21ucUUzSC00blJ0bWtEYWUwYUFmdUtBRWdENmJjZjNxSXZzamJHNTBManRLaVJFaTlPa0tWZTI2WnR4ZTVIblpCODRxUnhXRTNlZ3V0V0ZXcUpRWVl1Rl9FaEk1S2lneVB6UGVqNEl5S0VvblFKbDB5a003N0JOVmp1T0FPYldqQ0FBel9INUU4TjRnUmhOMDlial9XSHZiQWVmMHpOMDFjSUU1R2tjaFI0dEttQXNUZlpLT205OWYtRTlNZ1V1MjFSLXd5RFJXWUs5RXFVTw?oc=5)
 
