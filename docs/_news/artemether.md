@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Artemether. 8 predicted indications."
 permalink: /news/artemether/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Artemether News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Artemether?">
-<strong>Artemether</strong> currently has <strong>4 news articles</strong>, with 8 predicted indications.
+<strong>Artemether</strong> currently has <strong>6 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Artemether with the latest h
 <p><a href="{{ '/drugs/artemether/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (4)
+## Related News (6)
+
+### [Genetically engineered malaria vaccine demonstrates 87% efficacy in phase 1 trial](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmc5Y3pka0ZNZlM3VldqNU5mNUY5THpBQWkwSjNiYWpfNS0yTWdLTmx4dWpvemdTNnJZMmZ1VUNsM0NGTW9yM1VLQWl1X2VDdmdfVDBnXzNTR2ZGaVRyR01PSUl1T1NBOG1DeHpuUjVpTzV3N3RyWWRrZF95WWxsMUdQNHViVUpaNlFQNWwtdmxtSXliT2N5OUdFOVRfU3RYeTBaSS1haGFQOFlPSG1wYVZfSnFMMnpwblFfYW9LTTdOd2hQcVdJZVZn?oc=5)
+
+2026-11-20 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYmc5Y3pka0ZNZlM3VldqNU5mNUY5THpBQWkwSjNiYWpfNS0yTWdLTmx4dWpvemdTNnJZMmZ1VUNsM0NGTW9yM1VLQWl1X2VDdmdfVDBnXzNTR2ZGaVRyR01PSUl1T1NBOG1DeHpuUjVpTzV3N3RyWWRrZF95WWxsMUdQNHViVUpaNlFQNWwtdmxtSXliT2N5OUdFOVRfU3RYeTBaSS1haGFQOFlPSG1wYVZfSnFMMnpwblFfYW9LTTdOd2hQcVdJZVZn?oc=5)
+
+---
+
+### [Gene variant gives male malaria mosquitoes a mating edge in the heat](https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdXlWUmNpakRNWk5hcXh1dHlzOTVPZFVkaGRXOGpNRjRLWGZ5SGM4N2lNNUFMWG5wMEgtMmNxbEVfeWcxMHFGNmRMQm1XVVhUcEFaSy1lYjRoRnpJaDZ0aGM4dEFLUzZQTjF3bUFYUV9BZm1Da1JvN0pIcw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">malaria</span> <span class="news-indication-tag">malaria</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMie0FVX3lxTE1kdXlWUmNpakRNWk5hcXh1dHlzOTVPZFVkaGRXOGpNRjRLWGZ5SGM4N2lNNUFMWG5wMEgtMmNxbEVfeWcxMHFGNmRMQm1XVVhUcEFaSy1lYjRoRnpJaDZ0aGM4dEFLUzZQTjF3bUFYUV9BZm1Da1JvN0pIcw?oc=5)
+
+---
 
 ### [India Cuts Malaria Cases By 80%, But Climate Change Could Reverse The Gains](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemhFTXNWbmE1SHFmWm5sNDdEejVZM1V5Qi1aU19RTTV3OWxTUlEydDZZaVFhSF9vVUwyb3U1NjdTRFVMVEFQUDZ0TG41eVRTTzlWU2lBUExST0dfaFFnbl9lal91RGk4SEtLVHpTZkd6WElvRWlFbWZxTFR6SFQyemwwTWlXMGszU2lKYnZOR1pEdWtqUEQ2T05ZLVRKdElXcjQzMURkXzEyam9zZzZPdmhoQ0FOUV9taUpaV21BeC1MUQ?oc=5)
 

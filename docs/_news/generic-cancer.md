@@ -3,9 +3,9 @@ layout: default
 title: "cancer (generic_cancer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer (generic_cancer). 54 articles, 228 related drugs."
+description: "Health news about cancer (generic_cancer). 55 articles, 228 related drugs."
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # cancer (generic_cancer) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about cancer (generic_cancer)?">
-<strong>cancer (generic_cancer)</strong> currently has <strong>54 news articles</strong> and 228 related drugs.
+<strong>cancer (generic_cancer)</strong> currently has <strong>55 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,13 +236,21 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (54)
+## Related News (55)
 
 ### [Survival Outcomes in Patients with Non-Endometrioid Uterine Malignancies at a Tertiary Cancer Centre in North Kerala, India: A Retrospective Analysis](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
 
 2026-11-19
 
 Source: [Cureus](https://news.google.com/rss/articles/CBMilAJBVV95cUxQTnVwX0lKU1hObGRyQ2lNRXBjSU13b1ZFV1ZJamZFTlR0bF9UWTQ3RmVsZE90UWROYnE0QmRURlBBRUs0dGxTQW51SnIzVmxYanczUXNVM3hNeFE1NWY3V2hmamp2aHZ5YVg5TDUxRy1FU0ZXb2pwTkpWQkUzNl84OU5PY1o2YnpNenFOTEtwUUZxZnVtcE9DbjZXWVRmLTB2NXhOWHBlRjc0djVkMi1sT1A4Ynk4TEJFS3BCSm93UnN1elpjekpRRzJLZ013VHl4WW44X1J2ZWZnakhtcFFIWnNwTHVLcm5XTXNrUi1IRUltVmp2UHR5emF3Y19OR1VGSW94NUhVbTJYUUdpbkRPcEk1Vl8?oc=5)
+
+---
+
+### [World Pancreatic Cancer Month 2026: Know the Signs, Risk Factors and Why Early D](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
+
+2026-11-19
+
+Source: [Netmeds](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxpQUxDOHdfRnQ2WVB0aTZFNUJRNU9FSFp2ZWZ1NjRxckhJVzdybEUtVV94UnlTdE1mVlZ4dEZEdHRmYnJKQnpoZEI4VHZaQ3BoYjdMRlJaOWVCYTNfdzBZU0ZBVDk1aWtNaW40N3NtM19UemMxYlFtdURrLUEwUEtjZ3JyV1BaTmVRZW00MVcyNGF5VWwxcV8tTzRxeUVsUGV2bEdGUkFTQ1JndVY2T0dCUWRBX0gxVXNfS2NDNktDLUJOSTgySXdBa29UTDVVRVFjRHNLWQ?oc=5)
 
 ---
 

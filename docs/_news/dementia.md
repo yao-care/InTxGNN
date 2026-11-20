@@ -3,9 +3,9 @@ layout: default
 title: "alzheimer (dementia) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about alzheimer (dementia). 22 articles, 8 related drugs."
+description: "Health news about alzheimer (dementia). 23 articles, 8 related drugs."
 permalink: /news/dementia/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # alzheimer (dementia) News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about alzheimer (dementia)?">
-<strong>alzheimer (dementia)</strong> currently has <strong>22 news articles</strong> and 8 related drugs.
+<strong>alzheimer (dementia)</strong> currently has <strong>23 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “alzheimer” and lists
 </ul>
 </div>
 
-## Related News (22)
+## Related News (23)
 
 ### [Stem cells injected into brains of Alzheimer’s patients in world first - The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI4X1Q4TDFaTGM2SllLV0VORjVpRjZtSjFIVmpRV2NIUG5GWk9xLThSVU9xU1RSb01UTDFXU2x4UVRIVWU2NkVBZlJkekVyYVB5OHZ6czRGZnJFS1pzVGVaT2RxbGkwN1Q2TVZEM0Y3NU1pTHlwTHVRN0hMN29rcXJhSThvdlFDRGdn?oc=5)
 
@@ -52,6 +52,14 @@ Source: [The Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1lNTGI
 2026-11-19
 
 Source: [News18](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUTRWLUp6YUtrd3J0N2k0MmdNeFlNVWdpUlg0U0xuT1NEZzBxci1na1M3NmZ5ZXRQS3hEX0JDNWN1eWl1c2RUY0piVjFPcHZjdWNUY29MOTJCWUJBSDhrOFNadzJJVVJJMnc1Y1JFWmdHRkZod1pwZFl2NWk1SnAyUTcxTFJQbmhXTzNYMmZ5bWpBazdMLW9KeURCbEFfV2MxQ0JhS2JoX2oyWVlkdTktSDRCUjJqOUlKOURlTTRlUEk1QVJIcVRzS0tGRU1mU1FFemF2Vm5heG4xbWFWZUI5bVJkdWdMX3dYRTBV0gHwAUFVX3lxTFByaHpDMkNpenlnZFdrUHdLcVp4RUhWMXB1Z3FJRG5Xa19IRDlhWENkVWtkZDdnS3ZCSVcwdVZpS1JDMUpJaWx4YVhkN1dleTlxQktFUC02dngyUmJSZXVZSGVQbkxvaWc1MmVteWxnQms1TU1iVjdRWmNXVlFXaDRfMGNId21FeEU3cWVKazlVazE4ZjNHYUlnR3NQRWFCeFFEbXFMdTFXZTJBNFdaQlViOXFvX2tjakQxdHp6YnRJbTJFTjdEbkQwaC1Jdm80OE5MdDNNMFBsTHBrVTdGSFhTSWJKMHREZGNERml1YjU3Vw?oc=5)
+
+---
+
+### [β3 Agonists Do Not Cut Dementia Risk Versus Anticholinergics in OAB - Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
+
+2026-11-19
+
+Source: [Optometry Advisor](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjlFdGlhUkd0bE5fWVJiaC1ja0hxWTAwVUM3a2dxTF9WZWlubmdJUUk0cW1qS0V2Nzl0TG9IQS1zbzBVaHhUNG5ZR21Pdk1oVXY3ai1rMGY2WGt3eERJZHpkYjZCcUkxeWNJRlhpdXJHNmVCOEVraXBKNmpPakVJN0hjMmdiSXF3enZ6WTNiVXhLUkNvTXIzYm4yejQ5NjNBMTBqRXVuSzVSNm1RN0NTTQ?oc=5)
 
 ---
 
