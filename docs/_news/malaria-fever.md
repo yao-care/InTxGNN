@@ -3,7 +3,7 @@ layout: default
 title: "malaria (malaria fever) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about malaria (malaria fever). 8 articles, 2 related drugs."
+description: "Health news about malaria (malaria fever). 9 articles, 2 related drugs."
 permalink: /news/malaria-fever/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about malaria (malaria fever)?">
-<strong>malaria (malaria fever)</strong> currently has <strong>8 news articles</strong> and 2 related drugs.
+<strong>malaria (malaria fever)</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ This page brings together the latest health news about “malaria” and lists t
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [President Droupadi Murmu Inaugurates Golden Jubilee Celebrations of ICMR-NIMR - Drishti IAS](https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWg1NHc0aWhUN1F5OU92TEJXSHVhZWZqTzlEUE1jNWRWWUNrUjhpaTJHSEFKbEJqb3JDeE1adkxVRkhVX1VKbjF5Y1E3NlpLLXFnUXpuR2NPQXp6RUsyeGlQcUJxZTN6NFVpYnZNRE9GZUVSVVVHdElFRnBVOEFEaGIwRENnUHU1RTRPWFBnemtuZVdvdzBOTU5QRXEwMlVLQ3RhUzdudV95elVVd29GSU1tMjg3WFQxaTROM2x3emxuRUlWMXZ5YlN3?oc=5)
+
+2026-11-20
+
+Source: [Drishti IAS](https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWg1NHc0aWhUN1F5OU92TEJXSHVhZWZqTzlEUE1jNWRWWUNrUjhpaTJHSEFKbEJqb3JDeE1adkxVRkhVX1VKbjF5Y1E3NlpLLXFnUXpuR2NPQXp6RUsyeGlQcUJxZTN6NFVpYnZNRE9GZUVSVVVHdElFRnBVOEFEaGIwRENnUHU1RTRPWFBnemtuZVdvdzBOTU5QRXEwMlVLQ3RhUzdudV95elVVd29GSU1tMjg3WFQxaTROM2x3emxuRUlWMXZ5YlN3?oc=5)
+
+---
 
 ### [Seasonal mass vaccination for malaria control in west Africa - The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWl6U1dEdVJnV3h4c3ZzNE9CbG9WSTJJUkdvX3ZSSzNfal9oQUFGZHZkb3hWQ095ZTVTTUJkY0t2ZUtkekdnWUZVZzFTN1JhRUNudlVNREhKcktFWEVzVGprRUhEamFuRDEwTjA3NFY5OXJSNnlYZ241d1R4Z0tJXzFyLTB5a0g2c1RZ?oc=5)
 

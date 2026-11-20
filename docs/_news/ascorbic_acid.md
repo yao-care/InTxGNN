@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ascorbic Acid. 0 predicted indications."
 permalink: /news/ascorbic_acid/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Ascorbic Acid News
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about Ascorbic Acid?">
-<strong>Ascorbic Acid</strong> currently has <strong>3 news articles</strong>, with 0 predicted indications.
+<strong>Ascorbic Acid</strong> currently has <strong>4 news articles</strong>, with 0 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ This page combines the AI-predicted indications for Ascorbic Acid with the lates
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Post-traumatic Unilateral Vision Loss in a Patient With Severe Traumatic Brain Injury: A Case Report](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORlNseEd5NVdpVFlib3U2R2lHWkJiWW1TaTJTMHUwMXpBblE3YmoyZTBaLWxIWmh6UkNuT2dJcGgyZ19GcXBXeTZadG50ZThyTjQ4ai1qTERWeW9oQXNTWnExUUJYZlEzY2J0N3VOVVlHbHBqMnJka29ucUZzUjU1RTBPQy1Hak5OWTZXeFNWZWVXbldxVGEzMnl1R1g3TXVPZklnQVpfeWRHQnhucEJ6Vy02eGNVQW9xM1llVEZIeG5wWVJrMkJneFA5UEVnNmd1YUpFWg?oc=5)
+
+2026-11-20 <span class="news-indication-tag">injury</span>
+
+Source: [Cureus](https://news.google.com/rss/articles/CBMi1AFBVV95cUxORlNseEd5NVdpVFlib3U2R2lHWkJiWW1TaTJTMHUwMXpBblE3YmoyZTBaLWxIWmh6UkNuT2dJcGgyZ19GcXBXeTZadG50ZThyTjQ4ai1qTERWeW9oQXNTWnExUUJYZlEzY2J0N3VOVVlHbHBqMnJka29ucUZzUjU1RTBPQy1Hak5OWTZXeFNWZWVXbldxVGEzMnl1R1g3TXVPZklnQVpfeWRHQnhucEJ6Vy02eGNVQW9xM1llVEZIeG5wWVJrMkJneFA5UEVnNmd1YUpFWg?oc=5)
+
+---
 
 ### [Possible Semaglutide-Associated Acute Hepatocellular Liver Injury: A Case Report](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFBLcV9XY3BiSzllQVg4WDUwc1pvbEI4ZURXMlZNZE9wTmxLMFlHOGFiRGtUVDc4aS1qZVRpdFg0VDVfYWlka01kMXZ2ZVFEYnFNRkJRS0hkSmZ2MURRLWpNLUxEX0NqME9JdVJhSGJjdlFfQldKTWthUjJ4eG8xZ2NuQU5tTFdQdnFVUlZ1cktxSE9kYXNWNTZ5VVR3RXlUb1ZLbi1ibEI3SVA4b0NlQUtCS1owVnhMNVE?oc=5)
 

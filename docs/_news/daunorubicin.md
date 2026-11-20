@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Daunorubicin?">
-<strong>Daunorubicin</strong> currently has <strong>60 news articles</strong>, with 10 predicted indications.
+<strong>Daunorubicin</strong> currently has <strong>63 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ This page combines the AI-predicted indications for Daunorubicin with the latest
 <p><a href="{{ '/drugs/daunorubicin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (60)
+## Related News (63)
+
+### [5 Pancreatic Cancer Numbers Patients and Families Should Know - Cure Today](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1g3Yl9hM3ROVVZsUDlpM2hNM0FEOGE2al9uX0w3UDZ5SWZlVEN5SGZOQndSZGlRTmpjX0lzYUlER0FsR3ZXZ3UyYVRnVFM2MmpwbmJsNGpDUjBYM3paanlBeDJZbXJPVFVZbjE3TjN1XzZrTVREWHN0bWk2RFk1OTBaQllvRGJsMVhxRGhWWF96N0p0QlR3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">pancreatic cancer</span> <span class="news-indication-tag">pancreatic cancer</span>
+
+Source: [Cure Today](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1g3Yl9hM3ROVVZsUDlpM2hNM0FEOGE2al9uX0w3UDZ5SWZlVEN5SGZOQndSZGlRTmpjX0lzYUlER0FsR3ZXZ3UyYVRnVFM2MmpwbmJsNGpDUjBYM3paanlBeDJZbXJPVFVZbjE3TjN1XzZrTVREWHN0bWk2RFk1OTBaQllvRGJsMVhxRGhWWF96N0p0QlR3?oc=5)
+
+---
 
 ### [Cancer Control Plans Reveal Global Gaps in Comprehensiveness](https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2hQZGZtQkZtWXlxLVVCd2ZKTjVTR1hjNWVGZTZjUXF6eWhtb0ZaMDNKXzNiMWtDZXpnR1RMTFc2UmZzaVp5LTUweXl1VlI3WGd2TXVoM3hjbkpOblpRR1ZObzlOQVk0bGlvOHNkeHE4N3lZWGIzcldpYWRtYlczQ01MUzhoZWc4MUI3X2dYUWhBaEpWUE9JdWotcUFIMWsxVmVGNA?oc=5)
 
@@ -60,6 +68,14 @@ Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPa
 
 ---
 
+### [ESMO 2026: Advancing Lung Cancer Prevention with Laura Mezquita](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamt6UnU0RERqcGowZHdqS193X2RSRGlKYnZDLXoxR0FxeGh1c1VmWG9nQ1A2VVNjSUtjNHJ0a2tkUlRKWVpENTBkb21zYVh4UTIyd2JmUl9hQ2prdHdrd29ZMmEycE9QdG1rMi1hX2Y0U1RvQ0ljX0Z2aXNpYWphX0o5ZE9LZ3FQOUhVaVdYX09ONGd2aURLTW5LTjNtaFhjb1czRmI2WUFfZWZXek0xUDZ0bE5ZSnJpVC02T0gwbEU4THc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">lung cancer</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamt6UnU0RERqcGowZHdqS193X2RSRGlKYnZDLXoxR0FxeGh1c1VmWG9nQ1A2VVNjSUtjNHJ0a2tkUlRKWVpENTBkb21zYVh4UTIyd2JmUl9hQ2prdHdrd29ZMmEycE9QdG1rMi1hX2Y0U1RvQ0ljX0Z2aXNpYWphX0o5ZE9LZ3FQOUhVaVdYX09ONGd2aURLTW5LTjNtaFhjb1czRmI2WUFfZWZXek0xUDZ0bE5ZSnJpVC02T0gwbEU4THc?oc=5)
+
+---
+
 ### [Why do the majority prefer self-collected HPV tests - Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy13Q3E4WDBULVVxdXJaUDRTR3Y0ZWVCVW1pdE1sTjVOUmtEdTQwRnNlRktUaE5pQU1wcFE0WHZWZnRCTlVhQXFjb2E4SmJvMmVodU8zY0FYUXpmbGRETDVQZUVreWQ3NjNBT3ctcTZfU0lFNzFTX0xrd0I4bjVuSjFaMUF4QQ?oc=5)
 
 2026-11-20 <span class="news-indication-tag">cancer</span>
@@ -73,6 +89,14 @@ Source: [Medical Buyer](https://news.google.com/rss/articles/CBMihgFBVV95cUxQXy1
 2026-11-20 <span class="news-indication-tag">cancer</span>
 
 Source: [BusinessLine](https://news.google.com/rss/articles/CBMigwJBVV95cUxQT29iWHRJSGNjbWhzUzVURVF4RFE5NlVzMWV0QkU3NmRkUVhtZ3B5TG1DbXRadTVCR3VIUnVQVFdmb2Y4aHlpX1hkNXRXZlNrNktQS0l0UDJfVFlZNGx4b3lKMWpLSjJyclBrNkRVSWJ3VjYwMHNNdHljajZFVExIQjhqX0NSSmwyYmNSZlVUU20yU0hwc09rcTlBeFZ5SWlVbS04YWx2SVhqUzc5OTl4VkdJZDB1ZzJMekp1Z05vVEdpbUtBSVB2TThqMmRlM25qekV2a0pHcXVnSXRXNzI2cEZMSUJmYmNXTVBEMXZ0dmxlYm0xREFwZWw5eHBZeXFBMHpr0gGKAkFVX3lxTFB5aDNqcUtpd25aZXdrU1ZBTTE0dHFtVFpFUVNUeTRaWHNiZ0dDUG9Zdl9wc3BScXMyc0FOMWYyU29lNTZMYTdYc2hkX2hPRlMwdjBQamxURzNuanRad1RmVkRfbzFKcEM4VFlvUnVMTmtQY2w3bXJwRlpKc1NCOV9BaXBiZHRkWEpMQktBSDhHdGNjUHdCYUE4UlAzZUFFYXl3czNmU0x1MmJiN0JRcGptUVJjaHB4VVdRZmdPMmRCWi13X3d0cTF6ZUlna1Y3OUp5bkhpM0kwcW1reUZZN2hma3Nwak50SmNSR3FFY3BrV080cGduZTRsaktlRDR4Y25GQmpQeGh2cUxB?oc=5)
+
+---
+
+### [CT scans, X-rays can raise brain tumour risk in children, study warns](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZ1R1NRMVlyNW9Lb0trRlFvSjBWc3RwSi0wT1pOODFnU0hHaVBtTUwzNjF4dmVOanc5YXJLdWFBZ3BpZ2pCb0ttSEZTdk9hbXJ6ckNDLURKTy03UnJqalpSUVkta2NWQVpUNjdWT0ZwWlg0MG1oMlpKYmJSMVFiVEtXb1E3NWFDbDFEeVVfUXJxMlREUWtKSi1SckdMc1lmd292SGd0RdIBrAFBVV95cUxNaFVlbVptZURsUWtWTzlQR1pBR2x2UnJia1ZlRDREMTFZdVZodU9TV00xQ25ZUUdjNUdKRVVYQU53cHRBS0VuWDZrcW9QVWczajlzaE1IRmp6Mm80Z19JcXRibDJNQ2tOWVJETGdfV05CMXhiZFBOR0UzQWljdlZFcWRfcUExbmtKVFdCUVlxOHVzSXN6b0N5d0k5V2lxSTNzZmhSTlNxaEhkMkUt?oc=5)
+
+2026-11-20 <span class="news-indication-tag">tumour</span> <span class="news-indication-tag">tumor</span>
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZ1R1NRMVlyNW9Lb0trRlFvSjBWc3RwSi0wT1pOODFnU0hHaVBtTUwzNjF4dmVOanc5YXJLdWFBZ3BpZ2pCb0ttSEZTdk9hbXJ6ckNDLURKTy03UnJqalpSUVkta2NWQVpUNjdWT0ZwWlg0MG1oMlpKYmJSMVFiVEtXb1E3NWFDbDFEeVVfUXJxMlREUWtKSi1SckdMc1lmd292SGd0RdIBrAFBVV95cUxNaFVlbVptZURsUWtWTzlQR1pBR2x2UnJia1ZlRDREMTFZdVZodU9TV00xQ25ZUUdjNUdKRVVYQU53cHRBS0VuWDZrcW9QVWczajlzaE1IRmp6Mm80Z19JcXRibDJNQ2tOWVJETGdfV05CMXhiZFBOR0UzQWljdlZFcWRfcUExbmtKVFdCUVlxOHVzSXN6b0N5d0k5V2lxSTNzZmhSTlNxaEhkMkUt?oc=5)
 
 ---
 

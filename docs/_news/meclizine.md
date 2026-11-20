@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Meclizine?">
-<strong>Meclizine</strong> currently has <strong>6 news articles</strong>, with 6 predicted indications.
+<strong>Meclizine</strong> currently has <strong>7 news articles</strong>, with 6 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Meclizine with the latest he
 <p><a href="{{ '/drugs/meclizine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Winter heart health: Cardiologist explains why cold mornings increase heart attack risk and what precautions you should take | Health - Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxOVGRFeHlDUDhUUHpUMUJBOHpUS0tCeVVRbXVVU1VkZW5vRWJvX0I2Z1BYdkswZjBDSU1hZGtjSlZyS1ZQSjFvVGg4MG5PT2Y2ZmQ3UkxkY0QzeDRVSGlLajA3RW1BYndtdlY0SkMyd2RyUEpCNFBLQ19rYW4zNjZ0NVIwN053R2VpTEdvemNHR3A4UmNYWFlzVFpmY2h5SHhZcXZpc2tFbEVaNkN0bl8ySFlqVWl6d19OSF9mZTI4WjlNOUQ1TEZVc1ltZ3lBNnNaYjFOR3d4cFZFQTQxZmxSVkxicDY2ekFqdlVlaHJiWDd0aV81ckxtTUVUSS1IaWJldE5OYkNrX3NEN0NCOWRmeFJOMk1mdTdNS0ZtNdIBogJBVV95cUxNQndOdDlhdVB2cmxHeHpRa0ZYeXpkeW94Ny1zdUtvT0luSzc5SHBSdF9keTBVcE9GWUhuOGtPemNIUXp3enV5dmdfRTNLdXM0bnk3TzUwTmFSU1pUSDNqVko4cDRZUngzQUtjMGxzTFdqNDhBS1VCVDQxUHhVb19tTkFGMDBRUE9saS1fZ21WbkZxNmM2OWhYZWNsZkY5ZWJ6WnlOS2NxZlpoRW13NzA1Nld5UnhYOVVUeFBQdEVUTTgwcXZJSnE2RU1DcjJEamwtUmhvYmZxYzNCMTZ3NEthUGZnOUdyb2JaU1d0WGFla1hGOGtJdzJ6R1cybUlEOExlVXVYZ1dxMkYxSG5HWmlZQkVvR20yQXFTYVM2U3RpdTU1dw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">stroke</span> <span class="news-indication-tag">cold</span>
+
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMinAJBVV95cUxOVGRFeHlDUDhUUHpUMUJBOHpUS0tCeVVRbXVVU1VkZW5vRWJvX0I2Z1BYdkswZjBDSU1hZGtjSlZyS1ZQSjFvVGg4MG5PT2Y2ZmQ3UkxkY0QzeDRVSGlLajA3RW1BYndtdlY0SkMyd2RyUEpCNFBLQ19rYW4zNjZ0NVIwN053R2VpTEdvemNHR3A4UmNYWFlzVFpmY2h5SHhZcXZpc2tFbEVaNkN0bl8ySFlqVWl6d19OSF9mZTI4WjlNOUQ1TEZVc1ltZ3lBNnNaYjFOR3d4cFZFQTQxZmxSVkxicDY2ekFqdlVlaHJiWDd0aV81ckxtTUVUSS1IaWJldE5OYkNrX3NEN0NCOWRmeFJOMk1mdTdNS0ZtNdIBogJBVV95cUxNQndOdDlhdVB2cmxHeHpRa0ZYeXpkeW94Ny1zdUtvT0luSzc5SHBSdF9keTBVcE9GWUhuOGtPemNIUXp3enV5dmdfRTNLdXM0bnk3TzUwTmFSU1pUSDNqVko4cDRZUngzQUtjMGxzTFdqNDhBS1VCVDQxUHhVb19tTkFGMDBRUE9saS1fZ21WbkZxNmM2OWhYZWNsZkY5ZWJ6WnlOS2NxZlpoRW13NzA1Nld5UnhYOVVUeFBQdEVUTTgwcXZJSnE2RU1DcjJEamwtUmhvYmZxYzNCMTZ3NEthUGZnOUdyb2JaU1d0WGFla1hGOGtJdzJ6R1cybUlEOExlVXVYZ1dxMkYxSG5HWmlZQkVvR20yQXFTYVM2U3RpdTU1dw?oc=5)
+
+---
 
 ### [WHO warns against antibiotic use for cold and flu | Tap to know more | Inshorts](https://news.google.com/rss/articles/CBMilwFBVV95cUxORG15dHJCMWNITzY4bnRqWEFBR1RVQ042LVdyTXVUTGJhUmdfYmdlc3pyR0VmaEFIQVYtazlyNlZOOFhwT2dUcDlRWEpTakVydTZ1VGF1UzBWSkxCMWdkY1RqSngySVZxTEZvUU5jM2ViMDZPUFY0RnhIaUFNX3FKQTlTUGxORUpDNWRieDEybkxxejVQOHdr0gGcAUFVX3lxTE14QjQ5WnNxRGlfVG9WS01RMnR2eXdkM0Rialh5dEdPZVlZOGhiRWFDdGxUV1pCTmJmSng5RTdHSUo3UUFLdlQ5STJlQzFhcGo1dnNpZHcwTXVzeVppU2d0V1U5RWxOVGEwMGtfVUZLVVdFeW5WUGtoY0FhazgwSTlGM1FIc19pX1I3YjZaSzgzbldQR3VjMWRvV3BFeA?oc=5)
 

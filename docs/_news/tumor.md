@@ -3,7 +3,7 @@ layout: default
 title: "tumor News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor. 1 articles, 228 related drugs."
+description: "Health news about tumor. 2 articles, 228 related drugs."
 permalink: /news/tumor/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about tumor?">
-<strong>tumor</strong> currently has <strong>1 news articles</strong> and 228 related drugs.
+<strong>tumor</strong> currently has <strong>2 news articles</strong> and 228 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -236,7 +236,15 @@ This page brings together the latest health news about “tumor” and lists the
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
+
+### [CT scans, X-rays can raise brain tumour risk in children, study warns](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZ1R1NRMVlyNW9Lb0trRlFvSjBWc3RwSi0wT1pOODFnU0hHaVBtTUwzNjF4dmVOanc5YXJLdWFBZ3BpZ2pCb0ttSEZTdk9hbXJ6ckNDLURKTy03UnJqalpSUVkta2NWQVpUNjdWT0ZwWlg0MG1oMlpKYmJSMVFiVEtXb1E3NWFDbDFEeVVfUXJxMlREUWtKSi1SckdMc1lmd292SGd0RdIBrAFBVV95cUxNaFVlbVptZURsUWtWTzlQR1pBR2x2UnJia1ZlRDREMTFZdVZodU9TV00xQ25ZUUdjNUdKRVVYQU53cHRBS0VuWDZrcW9QVWczajlzaE1IRmp6Mm80Z19JcXRibDJNQ2tOWVJETGdfV05CMXhiZFBOR0UzQWljdlZFcWRfcUExbmtKVFdCUVlxOHVzSXN6b0N5d0k5V2lxSTNzZmhSTlNxaEhkMkUt?oc=5)
+
+2026-11-20
+
+Source: [ThePrint](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTZ1R1NRMVlyNW9Lb0trRlFvSjBWc3RwSi0wT1pOODFnU0hHaVBtTUwzNjF4dmVOanc5YXJLdWFBZ3BpZ2pCb0ttSEZTdk9hbXJ6ckNDLURKTy03UnJqalpSUVkta2NWQVpUNjdWT0ZwWlg0MG1oMlpKYmJSMVFiVEtXb1E3NWFDbDFEeVVfUXJxMlREUWtKSi1SckdMc1lmd292SGd0RdIBrAFBVV95cUxNaFVlbVptZURsUWtWTzlQR1pBR2x2UnJia1ZlRDREMTFZdVZodU9TV00xQ25ZUUdjNUdKRVVYQU53cHRBS0VuWDZrcW9QVWczajlzaE1IRmp6Mm80Z19JcXRibDJNQ2tOWVJETGdfV05CMXhiZFBOR0UzQWljdlZFcWRfcUExbmtKVFdCUVlxOHVzSXN6b0N5d0k5V2lxSTNzZmhSTlNxaEhkMkUt?oc=5)
+
+---
 
 ### [Higher radiation from childhood imaging may increase brain tumor risk](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnhUUGtDOFlBYU1WX1hDbUlvVS1Jb3Z6U2djbEF0Skx1czVzQlY0cW1tTGR6VnY3WDA2TGp5UXBKRURDNTliRnpFeFVma0FVbmRoZnlIVmZHMV9Ed1l1Z1F2bEI0MWY3U0lIQVhDR1VKNmNpOEktRXVNQVFaOUdUVXlDM1dMWGRsQ2RaN0J2M0x4SGdlbnpwajNSbWNubTVQemRrTXRQOFp2NUp5MFZvUzlvMllfMWYy?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="What news is there about Ebastine?">
-<strong>Ebastine</strong> currently has <strong>19 news articles</strong>, with 2 predicted indications.
+<strong>Ebastine</strong> currently has <strong>21 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page combines the AI-predicted indications for Ebastine with the latest hea
 <p><a href="{{ '/drugs/ebastine/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (19)
+## Related News (21)
 
 ### [Antifungal Susceptibility Pattern of Candida Species Causing Vulvovaginal Candidiasis: A Single-Center Study](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE5FbkNJRk5pWC1jQWxYU1NmSlNlOU42X0pYaU5wSk1tVTdYMDdOZWM2Unl5QTZVdTRGVFRpQnhkQTA4OFpTcmtVWkF4cVNTTV93Vm1YeHpLSXh3RF9ZTkdPWHJMWnItTENiZTZlNHduSkdteGd6RHViTWVnbU54ajZyUG5KRkY3MlFHTmFmNVZkYkd1RlFEYkJFRlJidkhPQm1QdHNPaldmYUtfcEotbkp6X3VyZVB5bE5ndkphUExUTTEzMGx4Vm9TYkZPWU9HaWpwOXczek9TWlZXa3c4?oc=5)
 
@@ -108,6 +108,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzNHcjVp
 
 ---
 
+### [Dust, pollen, changing temperatures trigger seasonal allergies - The Hitavada](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTFNOU1vNVlFUEZGZkFLZ3liSHJBMHk1Z3I1Q2x0Zjk5eGFhNUlLOXg3dzNnQloxRmZraHFpTkNmZDVOVGhWYjN2R2hQNUNONDZfQ09sY1V0N21TTWxfS1FQekMtamRjS1FkRTFqaG5sdzg0N2d0SGItaG1ibU1QamRjSS1iX3NReHNXU0ZVam1oRTNPWFlqRWZoQl82MzRIdXBnczhnMlFqaGE0VUNB?oc=5)
+
+2026-11-18 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Hitavada](https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTFNOU1vNVlFUEZGZkFLZ3liSHJBMHk1Z3I1Q2x0Zjk5eGFhNUlLOXg3dzNnQloxRmZraHFpTkNmZDVOVGhWYjN2R2hQNUNONDZfQ09sY1V0N21TTWxfS1FQekMtamRjS1FkRTFqaG5sdzg0N2d0SGItaG1ibU1QamRjSS1iX3NReHNXU0ZVam1oRTNPWFlqRWZoQl82MzRIdXBnczhnMlFqaGE0VUNB?oc=5)
+
+---
+
 ### [Inflamed Hearts on CT; Drawback to BP-Monitoring Wearables; Body Positions for HF? - MedPage Today](https://news.google.com/rss/articles/CBMickFVX3lxTE5FdlV1RlFfMm5YOUVzaGwxbk1fQWQ3QmxRYkNiQmJxcjhCd1JOckVCejdod2g3dTFWampyTVlyZFE5QzREWFA5TXBTRTR5eEU0THBLcEJnUnJiY1AxZG1POFp1Rk5LNDlhOG5CbmE4YzhYdw?oc=5)
 
 2026-11-17 <span class="news-indication-tag">cardiovascular</span>
@@ -145,6 +153,14 @@ Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0FwN1gt
 2026-11-16 <span class="news-indication-tag">cardiovascular</span>
 
 Source: [The Indian Practitioner](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1RTdDZzaFJCNm4xdTh0ekxydC1VUy1DaWRJblU2UUM2QTEtcWFyejd3dkZwR3lmamM4ZzBRYzNtSUNyeHpQS1J0SHBpb0laYktNQXlBanFmRTlqazVPdDFzMlExTlUzUEtDZF81czZQdnVHSjdwODhMTTVkUGlodnpqN01ncXdXenl0UU44MEpwOER4SFlFekNiaFdFRVR0NU9iVC1DS2hfc3M0Q2lJSnpORzlHREd6dGc?oc=5)
+
+---
+
+### [Diabetes does more than raise blood sugar: 7 cardiovascular risks people should not overlook - The Times of India](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGlhMHZSYkFVa1F3bV9mdHB5NFZxMy1MUnpMU3g0SkhyLVlBQXY0ejVzNmlfbS1Vcng5RUlrbWhvc3p1UmZudGhuUGcydXotZ21NUlFyeXpwc3o3Y1g4a25CbGFjbTdWZUJCTkhaeGc3RXV6cEU5OHpqVVdnVVg1SXJkV1RnTGRtejR2RktXRWdUVDBzbVFzUzRLS21CVVprS19DMDF5NzduaDBJWXd1Z3p4aS1FLVFSV2ZDdVBJdThhc29VdkZUOWRsT2padTc3V0YtRFpxaElaTzlncjg0SFRSb0xFckF3VWhPYy1rQkbSAfgBQVVfeXFMT3Z1azZLbWVOSzA4SXU5d2NrSTcybnpzTVhaejFWbWNIdE1Idm5vNDFRbkVBYmt0dEtXczJJdDNpUW1mUGlqWFNoQXI2cmdtdkFZQ1V2bGxuMkFIdzhiZHRMYlFCR05TWGpVLW5ReUVzMHJqRVBzSTd6dkl4Smw0TXMwMW9rSVBLM09aZmRtWmFuWF9RSFBSaldpTUVEUXBPZk1MaWN5M1U3VHRuYjJRTkxMZndySndDam5OYmh6TVQtSGJTN25kd1NjZERLcUUzdzFRU1A4YlFjRm94ak05bXZXQmdsQ2tNUVFGTUpMT0Y0Q0tFSllBUnM?oc=5)
+
+2026-11-16 <span class="news-indication-tag">cardiovascular</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGlhMHZSYkFVa1F3bV9mdHB5NFZxMy1MUnpMU3g0SkhyLVlBQXY0ejVzNmlfbS1Vcng5RUlrbWhvc3p1UmZudGhuUGcydXotZ21NUlFyeXpwc3o3Y1g4a25CbGFjbTdWZUJCTkhaeGc3RXV6cEU5OHpqVVdnVVg1SXJkV1RnTGRtejR2RktXRWdUVDBzbVFzUzRLS21CVVprS19DMDF5NzduaDBJWXd1Z3p4aS1FLVFSV2ZDdVBJdThhc29VdkZUOWRsT2padTc3V0YtRFpxaElaTzlncjg0SFRSb0xFckF3VWhPYy1rQkbSAfgBQVVfeXFMT3Z1azZLbWVOSzA4SXU5d2NrSTcybnpzTVhaejFWbWNIdE1Idm5vNDFRbkVBYmt0dEtXczJJdDNpUW1mUGlqWFNoQXI2cmdtdkFZQ1V2bGxuMkFIdzhiZHRMYlFCR05TWGpVLW5ReUVzMHJqRVBzSTd6dkl4Smw0TXMwMW9rSVBLM09aZmRtWmFuWF9RSFBSaldpTUVEUXBPZk1MaWN5M1U3VHRuYjJRTkxMZndySndDam5OYmh6TVQtSGJTN25kd1NjZERLcUUzdzFRU1A4YlFjRm94ak05bXZXQmdsQ2tNUVFGTUpMT0Y0Q0tFSllBUnM?oc=5)
 
 ---
 
