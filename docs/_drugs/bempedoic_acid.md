@@ -60,7 +60,7 @@ This is a model-only prediction and should be treated as a hypothesis.
 
 ## Why is This Prediction Reasonable?
 
-Bempedoic acid inhibits ATP-citrate lyase (ACLY) and is associated with AMPK-related pathways, which lowers LDL cholesterol. According to the Mechanism of Action section of the US FDA-approved prescribing information for bempedoic acid: "Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers LDL-C by inhibition of cholesterol synthesis in the liver. ACL is an enzyme upstream of 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase in the cholesterol biosynthesis pathway." ([DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9), label version 2026-06-25; accessed 2026-11-19.) This description is based on general pharmacological knowledge.
+Bempedoic acid inhibits ATP-citrate lyase (ACLY) and is associated with AMPK-related pathways, which lowers LDL cholesterol. This description is based on general pharmacological knowledge. According to the Mechanism of Action section of the US FDA-approved prescribing information for bempedoic acid: "Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers LDL-C by inhibition of cholesterol synthesis in the liver. ACL is an enzyme upstream of 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase in the cholesterol biosynthesis pathway." ([DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9), label version 2026-06-25; accessed 2026-11-19.)
 
 No established mechanistic link connects this action to hyperthyroidism. Lipid metabolism and thyroid function are related in general, since thyroid hormones strongly influence cholesterol levels. However, that relationship does not show that an ACLY inhibitor would treat excess thyroid hormone production.
 
@@ -124,7 +124,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
+| 2026-11-20 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so this description is based on general pharmacological knowledge" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 
 <!-- review:end log -->
 

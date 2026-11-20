@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Ampicillin: predicted new indication laryngitis (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -60,7 +60,7 @@ The evidence for this prediction is therefore weak, and the recommendation is to
 
 ## Why is This Prediction Reasonable?
 
-Ampicillin is a beta-lactam antibiotic that blocks bacterial cell wall synthesis. Detailed mechanism of action data are not otherwise available in the data compiled for this report, so this description rests on the drug's known class behaviour.
+Ampicillin is a beta-lactam antibiotic that blocks bacterial cell wall synthesis. This description rests on the drug's known class behaviour. According to the Mechanism of Action section of the US FDA-approved prescribing information for ampicillin: "Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1), label version 2026-07-27; accessed 2026-11-20.)
 
 Some bacterial infections of the upper airway, such as epiglottitis, laryngeal abscess and deep neck infection, overlap biologically with laryngitis. Ampicillin has been used in several of these conditions, for example in paediatric epiglottitis, so a bacterial-airway link is plausible.
 
@@ -127,6 +127,19 @@ The prediction score is very high, but there are no clinical trials and no publi
 - Detailed mechanism of action data
 - Package insert warnings and contraindications from the local licences
 - A clear definition of which bacterial laryngeal subtypes, if any, are the target
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism of action data are not otherwise available in the data compiled for this report, so this description rests on the drug's known class behaviour" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

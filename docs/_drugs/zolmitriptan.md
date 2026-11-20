@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 910
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 monitor_inn: "Zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). In India: 6 listed products (6 not discontinued)"
@@ -59,7 +59,7 @@ Triptans have also traditionally been cautioned against in brainstem-type aura, 
 
 ## Why is This Prediction Reasonable?
 
-Zolmitriptan is a selective serotonin 5-HT1B/1D receptor agonist with both central and peripheral activity. Preclinical work indicates it can inhibit trigeminovascular activation both centrally and peripherally, and it is already established for the acute treatment of migraine with or without aura. The data compiled for this report do not include a detailed mechanism-of-action entry, so this description is drawn from the literature.
+Zolmitriptan is a selective serotonin 5-HT1B/1D receptor agonist with both central and peripheral activity. Preclinical work indicates it can inhibit trigeminovascular activation both centrally and peripherally, and it is already established for the acute treatment of migraine with or without aura. This description is drawn from the literature. According to the Mechanism of Action section of the US FDA-approved prescribing information for zolmitriptan: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), label version 2026-01-29; accessed 2026-11-20.)
 
 Migraine with brainstem aura is a subtype of migraine with aura. It shares core pathophysiology with other migraine types, namely trigeminovascular activation, CGRP release and cortical spreading depression. This makes a mechanistic link plausible.
 
@@ -146,6 +146,19 @@ The theoretical vasoconstrictive risk, the established caution about triptans in
 - Clarification of the approved indication text for the Indian registrations
 
 **Other predictions:** Atrophoderma vermiculata (score 0.9990) and ulerythema ophryogenesis (score 0.9983) have no trials, no literature and no plausible mechanistic link to 5-HT1B/1D agonism. Both remain at Evidence Level L5 with a Hold decision.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "The data compiled for this report do not include a detailed mechanism-of-action entry, so this description is drawn from the literature" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

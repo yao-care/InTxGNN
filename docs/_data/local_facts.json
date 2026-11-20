@@ -21,12 +21,12 @@
   "items_current": 2843
  },
  "reviews": {
-  "records": 717,
-  "pages": 683,
-  "public_pages_with_records": 680,
+  "records": 727,
+  "pages": 693,
+  "public_pages_with_records": 690,
   "by_action": {
    "correct": 60,
-   "mechanism": 657
+   "mechanism": 667
   }
  },
  "fhir": {

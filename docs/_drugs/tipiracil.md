@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 840
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Tipiracil"
 predicted_indications: ["cecum villous adenoma", "lipoma of colon", "cecum neuroendocrine tumor G1", "colonic lymphangioma", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "cavernous hemangioma of colon", "colorectal gastrointestinal stromal tumor"]
 description: "Tipiracil: predicted new indication Cecum villous adenoma (evidence level L5). In India: 1 listed product (1 not discontinued)"
@@ -55,7 +55,7 @@ The TxGNN model predicts it may be relevant to **cecum villous adenoma**, with a
 
 ## Why is This Prediction Reasonable?
 
-Tipiracil inhibits thymidine phosphorylase, the enzyme that rapidly degrades trifluridine. In the trifluridine/tipiracil combination, this raises trifluridine exposure and supports its cytotoxic effect. Tipiracil has no known direct antitumour effect on its own. Detailed mechanism-of-action data are not otherwise available in the data compiled for this report.
+Tipiracil inhibits thymidine phosphorylase, the enzyme that rapidly degrades trifluridine. In the trifluridine/tipiracil combination, this raises trifluridine exposure and supports its cytotoxic effect. Tipiracil has no known direct antitumour effect on its own. According to the Mechanism of Action section of the US FDA-approved prescribing information for trifluridine and tipiracil (a combination product containing tipiracil): "LONSURF consists of a thymidine-based nucleoside analog, trifluridine, and the thymidine phosphorylase inhibitor, tipiracil, at a molar ratio 1:0.5 (weight ratio, 1:0.471). Inclusion of tipiracil increases trifluridine exposure by inhibiting its metabolism by thymidine phosphorylase." ([DailyMed: Lonsurf (trifluridine and tipiracil) prescribing information, Taiho Pharmaceutical Co., Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f5beed22-d71d-4c0d-8dca-2c7317d65d85), label version 2025-11-05; accessed 2026-11-20.)
 
 The predicted link is mainly anatomical: a villous adenoma of the cecum is a benign precursor lesion in the same organ as the colorectal cancers treated with the combination. No clinical, preclinical or literature evidence supports a benefit. There is also little rationale for cytotoxic therapy in a benign lesion that can usually be removed endoscopically. The prediction should therefore be seen as a hypothesis only.
 
@@ -91,6 +91,18 @@ The prediction rests on the model score alone. There are no trials or publicatio
 - Detailed mechanism-of-action data
 - Package insert warnings and contraindications for the Indian product
 - A risk-benefit assessment against standard endoscopic management
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism-of-action data are not otherwise available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Lonsurf (trifluridine and tipiracil) prescribing information, Taiho Pharmaceutical Co., Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f5beed22-d71d-4c0d-8dca-2c7317d65d85) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 

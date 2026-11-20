@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Cefazolin"
 predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Cefazolin: predicted new indication infectious otitis media (evidence level L5). In India: at least 20 listed products"
 ---
 
@@ -56,7 +56,7 @@ There are **no registered clinical trials** and only **2 publications** retrieve
 
 ## Why is This Prediction Reasonable?
 
-Cefazolin is a beta-lactam antibiotic. It inhibits bacterial cell wall synthesis and covers gram-positive organisms such as streptococci and methicillin-susceptible staphylococci. These organisms are among those that cause otitis media. Detailed mechanism of action data is not otherwise available in the data compiled for this report.
+Cefazolin is a beta-lactam antibiotic. It inhibits bacterial cell wall synthesis and covers gram-positive organisms such as streptococci and methicillin-susceptible staphylococci. These organisms are among those that cause otitis media. According to the Mechanism of Action and Microbiology sections of the US FDA-approved prescribing information for cefazolin: "Cefazolin is an antibacterial drug. […] Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis." ([DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4), label version 2026-08-31; accessed 2026-11-20.)
 
 There are important limits to this rationale. Cefazolin has limited coverage of *Haemophilus* and gram-negative bacteria, which are common in otitis media. It also has poor oral bioavailability and limited middle-ear penetration. It is an injectable product only, which makes routine use in a mostly outpatient, often pediatric condition impractical.
 
@@ -103,6 +103,19 @@ The prediction score is very high (0.9944), but no clinical trial or publication
 - Review of the local pathogen spectrum and susceptibility, especially *Haemophilus influenzae* and *Streptococcus pneumoniae*
 - Assessment of middle-ear penetration and whether an injectable-only route is practical
 - Detailed mechanism of action data and the package insert warnings and contraindications
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism of action data is not otherwise available in the data compiled for this report" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Cefazolin (cefazolin sodium) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d91a8d13-99a0-4d87-88dc-71cbd37922b4) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

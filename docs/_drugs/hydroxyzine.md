@@ -58,7 +58,7 @@ Hydroxyzine is a first-generation H1 antihistamine, originally used for allergic
 
 ## Why is This Prediction Reasonable?
 
-Hydroxyzine is a first-generation H1-receptor inverse agonist. In urticaria, histamine released from mast cells drives the wheal-and-flare response, so blocking H1 receptors is mechanistically coherent. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for hydroxyzine: "Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally." ([DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1), label version 2026-11-12; accessed 2026-11-19.) This explanation rests on the drug's known class pharmacology.
+Hydroxyzine is a first-generation H1-receptor inverse agonist. In urticaria, histamine released from mast cells drives the wheal-and-flare response, so blocking H1 receptors is mechanistically coherent. This explanation rests on the drug's known class pharmacology. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for hydroxyzine: "Hydroxyzine is not a cortical depressant, but its action may be due to a suppression of activity in certain key regions of the subcortical area of the central nervous system. Primary skeletal muscle relaxation has been demonstrated experimentally." ([DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1), label version 2026-11-12; accessed 2026-11-19.)
 
 The relationship between the original and predicted indications is very close. Urticaria and angioedema are already among hydroxyzine's established uses, so "allergic urticaria" is better seen as a subtype or synonym of an approved use than as a true repurposing target. The high TxGNN score is consistent with this.
 
@@ -141,7 +141,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1) |
+| 2026-11-20 | "Detailed mechanism-of-action data were not available in the data compiled for this report, so this explanation rests on the drug's known class pharmacology" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: hydroxyzine hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a3e389f-391d-4f37-9e34-ce3c6f5fe8c1) |
 
 <!-- review:end log -->
 

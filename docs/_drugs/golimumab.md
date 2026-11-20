@@ -54,7 +54,7 @@ Golimumab is a TNF-alpha–blocking antibody originally used for rheumatoid arth
 
 ## Why is This Prediction Reasonable?
 
-Golimumab is a fully human anti-TNF-alpha monoclonal antibody (IgG1κ) given by injection. According to the Mechanism of Action section of the US FDA-approved prescribing information for golimumab: "Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)." ([DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00), label version 2026-11-02; accessed 2026-11-19.) The description above comes from the published reviews. By neutralizing TNF-alpha, a central driver of joint and systemic inflammation, golimumab reduces the inflammatory signalling behind rheumatoid arthritis and related diseases.
+Golimumab is a fully human anti-TNF-alpha monoclonal antibody (IgG1κ) given by injection. The description above comes from the published reviews. According to the Mechanism of Action section of the US FDA-approved prescribing information for golimumab: "Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)." ([DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00), label version 2026-11-02; accessed 2026-11-19.) By neutralizing TNF-alpha, a central driver of joint and systemic inflammation, golimumab reduces the inflammatory signalling behind rheumatoid arthritis and related diseases.
 
 Rheumatoid vasculitis is an extra-articular complication of rheumatoid arthritis, seen mainly in seropositive patients. Its biology overlaps with the original indication. The literature notes that its incidence has fallen since biologic anti-TNF drugs were introduced. This gives a plausible mechanistic link between the original and the predicted indication.
 
@@ -115,7 +115,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism-of-action data were not available in the compiled data" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
+| 2026-11-20 | "Detailed mechanism-of-action data were not available in the compiled data. The description above comes from the published reviews" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
 
 <!-- review:end log -->
 

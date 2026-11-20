@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 
 ## Why is This Prediction Reasonable?
 
-Phenoxybenzamine is an irreversible, non-selective alpha-adrenergic antagonist. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for phenoxybenzamine: "Phenoxybenzamine hydrochloride is a long-acting, adrenergic, alpha -receptor-blocking agent, which can produce and maintain “chemical sympathectomy” by oral administration. It increases blood flow to the skin, mucosa and abdominal viscera, and lowers both supine and erect blood pressures." ([DailyMed: phenoxybenzamine hydrochloride prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0be6a394-cd10-42fc-97cf-ad53d81d8d93), label version 2026-07-03; accessed 2026-11-19.) This description comes from general pharmacological knowledge. It is used in pheochromocytoma to control the effects of excess catecholamines, such as high blood pressure.
+Phenoxybenzamine is an irreversible, non-selective alpha-adrenergic antagonist. This description comes from general pharmacological knowledge. According to the Clinical Pharmacology section of the US FDA-approved prescribing information for phenoxybenzamine: "Phenoxybenzamine hydrochloride is a long-acting, adrenergic, alpha -receptor-blocking agent, which can produce and maintain “chemical sympathectomy” by oral administration. It increases blood flow to the skin, mucosa and abdominal viscera, and lowers both supine and erect blood pressures." ([DailyMed: phenoxybenzamine hydrochloride prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0be6a394-cd10-42fc-97cf-ad53d81d8d93), label version 2026-07-03; accessed 2026-11-19.) It is used in pheochromocytoma to control the effects of excess catecholamines, such as high blood pressure.
 
 A theoretical link to glaucoma is that alpha-adrenergic blockade could lower intraocular pressure, either by reducing aqueous humour production or by changing outflow, or by modulating ocular vascular tone. This is the only rationale available, and it has not been verified.
 
@@ -111,7 +111,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: phenoxybenzamine hydrochloride prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0be6a394-cd10-42fc-97cf-ad53d81d8d93) |
+| 2026-11-20 | "Detailed mechanism of action data is not available in the data compiled for this report, so this description comes from general pharmacological knowledge" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: phenoxybenzamine hydrochloride prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0be6a394-cd10-42fc-97cf-ad53d81d8d93) |
 
 <!-- review:end log -->
 

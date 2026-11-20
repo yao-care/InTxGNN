@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). In India: at least 20 listed products"
@@ -55,7 +55,7 @@ However, there are **0 clinical trials** and only **1 general review article** f
 
 ## Why is This Prediction Reasonable?
 
-Esomeprazole suppresses gastric acid secretion by irreversibly inhibiting the H+/K+ ATPase (proton pump) in gastric parietal cells. Detailed mechanism data were not included in the data compiled for this report, so this description reflects the well-established class pharmacology of proton pump inhibitors.
+Esomeprazole suppresses gastric acid secretion by irreversibly inhibiting the H+/K+ ATPase (proton pump) in gastric parietal cells. This description reflects the well-established class pharmacology of proton pump inhibitors. According to the Mechanism of Action section of the US FDA-approved prescribing information for esomeprazole: "Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide." ([DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96), label version 2025-12-19; accessed 2026-11-20.)
 
 Duodenogastric reflux and the drug's original indications are both upper gastrointestinal disorders. The link is plausible but not direct. The main injurious agents in bile reflux are bile and pancreatic secretions, not acid. Acid suppression may therefore relieve symptoms or mucosal injury only indirectly.
 
@@ -107,6 +107,19 @@ Note that the same dataset shows far stronger support for a different predicted 
 - Comparison against bile-targeted approaches, to show a benefit beyond acid suppression.
 - Package insert warnings and contraindications for the Indian-marketed products.
 - Detailed mechanism of action data.
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism data were not included in the data compiled for this report, so this description reflects the well-established class pharmacology of proton pump inhibitors" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

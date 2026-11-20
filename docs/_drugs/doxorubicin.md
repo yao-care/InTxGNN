@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L1). In India: at least 20 listed products"
 ---
 
@@ -56,7 +56,7 @@ and the data compiled for this report include **28 clinical trials** (several Ph
 
 ## Why is This Prediction Reasonable?
 
-Doxorubicin is a topoisomerase II inhibitor and DNA intercalator. It blocks the enzyme cancer cells need to copy and repair their DNA, so fast-dividing cells stop growing or die. The data compiled for this report do not include a separate formal mechanism-of-action record, but this mechanism is well described in the literature summarised below.
+Doxorubicin is a topoisomerase II inhibitor and DNA intercalator. It blocks the enzyme cancer cells need to copy and repair their DNA, so fast-dividing cells stop growing or die. According to the Mechanism of Action section of the US FDA-approved prescribing information for doxorubicin: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), label version 2026-11-12; accessed 2026-11-20.) This mechanism is well described in the literature summarised below.
 
 Ewing sarcoma is a fast-growing small round cell tumour of bone and soft tissue, mainly affecting children, adolescents and young adults. Doxorubicin is already a backbone of standard multi-agent regimens for this disease (vincristine–doxorubicin–cyclophosphamide alternating with ifosfamide–etoposide). The cytotoxic mechanism fits this tumour type well. Cumulative anthracycline heart toxicity is the main limit on use and requires cardiac monitoring and dose caps.
 
@@ -137,6 +137,19 @@ Doxorubicin is already part of the standard multi-agent regimens tested in sever
 - Confirmation of the regimen, dose and cumulative-dose limits used in the supporting trials
 - Cardiac monitoring and cardioprotection plan, especially for children and young adults
 - Review of interacting medicines (antiemetics and QT-prolonging drugs) in the supportive-care plan
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "The data compiled for this report do not include a separate formal mechanism-of-action record, but t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

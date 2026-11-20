@@ -56,7 +56,7 @@ Most of the trials are in fibromyalgia, not myofascial pain, so direct evidence 
 
 ## Why is This Prediction Reasonable?
 
-Cyclobenzaprine is structurally related to tricyclic antidepressants. It acts mainly in the brainstem, where it reduces tonic somatic motor activity. This effect is linked to 5-HT2 receptor antagonism, with additional antihistaminic and anticholinergic activity. According to the Mechanism of Action section of the US FDA-approved prescribing information for cyclobenzaprine: "The mechanism of action of cyclobenzaprine for the treatment of fibromyalgia in adults is unknown. In in vitro pharmacology studies, cyclobenzaprine demonstrated functional antagonism of 5-HT 2A, α 1 -adrenergic, H 1 -histaminergic, and M 1 -muscarinic acetylcholine receptors." ([DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571), label version 2026-08-14; accessed 2026-11-19.) This description comes from the repurposing analysis.
+Cyclobenzaprine is structurally related to tricyclic antidepressants. It acts mainly in the brainstem, where it reduces tonic somatic motor activity. This effect is linked to 5-HT2 receptor antagonism, with additional antihistaminic and anticholinergic activity. This description comes from the repurposing analysis. According to the Mechanism of Action section of the US FDA-approved prescribing information for cyclobenzaprine: "The mechanism of action of cyclobenzaprine for the treatment of fibromyalgia in adults is unknown. In in vitro pharmacology studies, cyclobenzaprine demonstrated functional antagonism of 5-HT 2A, α 1 -adrenergic, H 1 -histaminergic, and M 1 -muscarinic acetylcholine receptors." ([DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571), label version 2026-08-14; accessed 2026-11-19.)
 
 Myofascial pain syndrome involves muscle spasm and painful trigger points. A drug that reduces muscle spasm is a direct pharmacological fit for this condition. The use of cyclobenzaprine in painful musculoskeletal conditions supports the prediction.
 
@@ -139,7 +139,7 @@ Below is the review log for this page. A statement that mechanism-of-action data
 
 | Review date | Item | Action | Source |
 |------|------|------|------|
-| 2026-11-19 | "Detailed mechanism of action data was not available in the drug record, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571) |
+| 2026-11-20 | "Detailed mechanism of action data was not available in the drug record, so this description comes from the repurposing analysis" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Tonmya (cyclobenzaprine hydrochloride) prescribing information, Tonix Medicines, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa59588-ce9b-48cf-8c5f-725a448f8571) |
 
 <!-- review:end log -->
 

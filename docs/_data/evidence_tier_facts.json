@@ -9,7 +9,7 @@
   "with_current": 52,
   "none_current": 0,
   "without_data": 31,
-  "with_reviews": 46,
+  "with_reviews": 48,
   "rows": [
    {
     "t": "Bendamustine",
@@ -63,7 +63,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -84,8 +84,8 @@
     "i": "Ewing sarcoma",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"The data compiled for this report do not include a separate formal mechanism-of-action record, but t\"…",
     "x": 0
    },
    {
@@ -107,7 +107,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the structured drug record\" replaced with a…",
+    "rs": "\"Currently, detailed mechanism of action data is not available in the structured drug record. The mechanism…",
     "x": 0
    },
    {
@@ -239,7 +239,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data was not available in the drug record, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism of action data was not available in the drug record, so this description comes from the…",
     "x": 0
    },
    {
@@ -480,8 +480,8 @@
     "i": "migraine disorder",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Note that the data compiled for this report do not include a formal mechanism-of-action entry, so this…",
     "x": 0
    },
    {
@@ -492,7 +492,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"Formal mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Formal mechanism-of-action data were not available in the compiled data, so this description comes from the…",
     "x": 0
    },
    {
@@ -603,7 +603,7 @@
   "with_current": 89,
   "none_current": 0,
   "without_data": 41,
-  "with_reviews": 71,
+  "with_reviews": 73,
   "rows": [
    {
     "t": "Abatacept",
@@ -810,8 +810,8 @@
     "i": "myeloid leukemia",
     "lt": 7,
     "lv": 7,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not otherwise available in the compiled data, so this description…",
     "x": 0
    },
    {
@@ -921,7 +921,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {
@@ -954,7 +954,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so the…",
     "x": 0
    },
    {
@@ -1262,7 +1262,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so the reasoning…",
     "x": 0
    },
    {
@@ -1350,7 +1350,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -1493,7 +1493,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report, so t\"…",
+    "rs": "\"Currently, detailed mechanism of action data is not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -1569,8 +1569,8 @@
     "i": "rhabdomyosarcoma (disease)",
     "lt": 4,
     "lv": 4,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not otherwise available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -1603,7 +1603,7 @@
   "with_current": 698,
   "none_current": 0,
   "without_data": 344,
-  "with_reviews": 563,
+  "with_reviews": 569,
   "rows": [
    {
     "t": "Acarbose",
@@ -1799,8 +1799,8 @@
     "i": "laryngitis",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data are not otherwise available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -2053,7 +2053,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so this description comes from…",
     "x": 0
    },
    {
@@ -2140,8 +2140,8 @@
     "i": "infectious otitis media",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism of action data is not otherwise available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -2878,7 +2878,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -2888,8 +2888,8 @@
     "i": "duodenal obstruction",
     "lt": 0,
     "lv": 20,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism data were not included in the data compiled for this report, so this description reflects…",
     "x": 0
    },
    {
@@ -3318,7 +3318,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -4418,7 +4418,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data was not available in the data compiled for this report\" replaced with a…",
+    "rs": "\"Detailed mechanism-of-action data was not available in the data compiled for this report. This description…",
     "x": 0
    },
    {
@@ -4440,7 +4440,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -4869,7 +4869,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -4902,7 +4902,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -5023,7 +5023,7 @@
     "lt": 0,
     "lv": 20,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -5518,7 +5518,7 @@
     "lt": 18,
     "lv": 18,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -6398,7 +6398,7 @@
     "lt": 9,
     "lv": 9,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data are not available in the compiled data, so this description comes from…",
     "x": 0
    },
    {
@@ -6596,7 +6596,7 @@
     "lt": 8,
     "lv": 8,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so the…",
     "x": 0
    },
    {
@@ -6717,7 +6717,7 @@
     "lt": 7,
     "lv": 7,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -7057,8 +7057,8 @@
     "i": "atrophoderma vermiculata",
     "lt": 6,
     "lv": 6,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"The data compiled for this report do not include a detailed mechanism-of-action entry, so this description…",
     "x": 0
    },
    {
@@ -7553,7 +7553,7 @@
     "lt": 4,
     "lv": 4,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report\" replaced with a…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report. This description…",
     "x": 0
    },
    {
@@ -7575,7 +7575,7 @@
     "lt": 4,
     "lv": 4,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {
@@ -7685,7 +7685,7 @@
     "lt": 3,
     "lv": 3,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so t\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data, so this description comes from…",
     "x": 0
    },
    {
@@ -7948,8 +7948,8 @@
     "i": "benign paroxysmal torticollis of infancy",
     "lt": 2,
     "lv": 2,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data for the drug is not otherwise available\" replaced with a sourced…",
     "x": 0
    },
    {
@@ -7960,7 +7960,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {
@@ -8081,7 +8081,7 @@
     "lt": 2,
     "lv": 2,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so t\" replaced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the data compiled for this report, so this…",
     "x": 0
    },
    {
@@ -8455,7 +8455,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Detailed mechanism of action data is not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {
@@ -8697,7 +8697,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data\" replaced with a sourced…",
+    "rs": "\"Detailed mechanism-of-action data were not available in the compiled data. The description above comes from…",
     "x": 0
    },
    {
@@ -9158,8 +9158,8 @@
     "i": "cecum villous adenoma",
     "lt": 1,
     "lv": 1,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "\"Detailed mechanism-of-action data are not otherwise available in the data compiled for this report\" replaced…",
     "x": 0
    },
    {
@@ -9181,7 +9181,7 @@
     "lt": 1,
     "lv": 1,
     "r": 1,
-    "rs": "\"Formal mechanism-of-action data were not available in the data compiled for this report, so t\" replaced with…",
+    "rs": "\"Formal mechanism-of-action data were not available in the data compiled for this report, so this description…",
     "x": 0
    },
    {

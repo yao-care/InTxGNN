@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-20
 description: "Agomelatine: predicted new indication benign paroxysmal torticollis of infancy (evidence level L5). In India: 2 listed products (2 not discontinued)"
 ---
 
@@ -55,7 +55,7 @@ The TxGNN model predicts it may be effective for **benign paroxysmal torticollis
 
 ## Why is This Prediction Reasonable?
 
-Agomelatine acts as an agonist at the melatonin MT1 and MT2 receptors and as an antagonist at the 5-HT2C receptor. The data compiled for this report also lists activity at the 5-HT2A and 5-HT2B receptors. Detailed mechanism-of-action data for the drug is not otherwise available.
+Agomelatine acts as an agonist at the melatonin MT1 and MT2 receptors and as an antagonist at the 5-HT2C receptor. The data compiled for this report also lists activity at the 5-HT2A and 5-HT2B receptors. ChEMBL (EMBL-EBI) records the mechanism of action of agomelatine as: Melatonin receptor agonist; Serotonin 2c (5-HT2c) receptor antagonist ([ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878), CC BY-SA 3.0; accessed 2026-11-20.)
 
 For this prediction, no mechanistic rationale is evident. Benign paroxysmal torticollis of infancy is a childhood movement disorder that is often linked to variants in the CACNA1A gene (a calcium channel gene). It has no established connection to melatonergic or serotonergic signalling. The high score is a model output based on patterns in the data, and it is not supported by any biological or clinical finding. It should be treated as a hypothesis only.
 
@@ -92,6 +92,19 @@ The prediction has a high model score but no supporting trials, literature or pl
 - Preclinical or case-based evidence in the disease
 - Package insert warnings and contraindications from the local regulator
 - Paediatric safety data, since the condition occurs in infants
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism-of-action data for the drug is not otherwise available" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [ChEMBL CHEMBL10878 (agomelatine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL10878) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

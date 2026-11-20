@@ -55,7 +55,7 @@ This is in practice an established, on-label use rather than true repurposing.
 
 ## Why is This Prediction Reasonable?
 
-Insulin aspart is a rapid-acting insulin analogue. It binds the insulin receptor and replaces deficient endogenous insulin, lowering blood glucose. According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin aspart: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), label version 2026-05-18; accessed 2026-11-19.) This description rests on the known pharmacology of the drug class.
+Insulin aspart is a rapid-acting insulin analogue. It binds the insulin receptor and replaces deficient endogenous insulin, lowering blood glucose. This description rests on the known pharmacology of the drug class. According to the Mechanism of Action section of the US FDA-approved prescribing information for insulin aspart: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), label version 2026-05-18; accessed 2026-11-19.)
 
 Type 1 diabetes is caused by autoimmune loss of beta cells, which leads to absolute insulin deficiency. Insulin replacement is therefore the core treatment, and insulin aspart is widely used in basal-bolus regimens, pumps and closed-loop systems. The high TxGNN score is consistent with the extensive clinical evidence below.
 
@@ -140,7 +140,7 @@ Below is the review log for this page: statements checked against official India
 | Review date | Item | Action | Source |
 |------|------|------|------|
 | 2026-11-06 | Removed: "single-ingredient" | Corrected | [Indian Medicine Dataset](https://github.com/junioralive/Indian-Medicine-Dataset) |
-| 2026-11-19 | "Currently, detailed mechanism of action data is not available in the data compiled for this report, so t" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
+| 2026-11-20 | "Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description rests on the known pharmacology of the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
 
 <!-- review:end log -->
 

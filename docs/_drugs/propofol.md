@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 707
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Propofol: predicted new indication Migraine disorder (evidence level L2). Approved use: Not stated in the India licence data compiled for this report (propof…"
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, supporte
 
 Propofol is a positive allosteric modulator of the GABA-A receptor. Enhanced GABAergic inhibition may dampen trigeminovascular pain signalling and cortical hyperexcitability. Preclinical work also shows that propofol hemisuccinate suppresses cortical spreading depression, the proposed correlate of migraine aura.
 
-The approved use of propofol (anesthesia and sedation) and the predicted use (abortive treatment of refractory migraine) share a central nervous system, inhibitory-neurotransmission mechanism. In practice, sub-anesthetic doses have been used for refractory migraine, mainly in the emergency department under monitored conditions. Note that the data compiled for this report do not include a formal mechanism-of-action entry, so this rationale rests on the literature and mechanistic analysis.
+The approved use of propofol (anesthesia and sedation) and the predicted use (abortive treatment of refractory migraine) share a central nervous system, inhibitory-neurotransmission mechanism. In practice, sub-anesthetic doses have been used for refractory migraine, mainly in the emergency department under monitored conditions. This rationale rests on the literature and mechanistic analysis. According to the Mechanism of Action section of the US FDA-approved prescribing information for propofol: "The mechanism of action, like all general anesthetics, is poorly understood. However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABA A receptors." ([DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538), label version 2025-09-11; accessed 2026-11-20.)
 
 Other predicted indications are much weaker. Migraine with brainstem aura has only indirect, preclinical, and general-migraine evidence. Prinzmetal angina is linked only to case reports of coronary spasm during anesthesia, which is a possible safety signal and not a therapeutic rationale. Nephrogenic syndrome of inappropriate antidiuresis has no identifiable mechanistic link, and Tourette syndrome evidence concerns only sedation during deep brain stimulation surgery. These four were not pursued further.
 
@@ -118,6 +118,19 @@ A completed Phase 2/3 trial, several randomized trials, and multiple systematic 
 - Larger, well-powered randomized trials with defined dosing and relapse outcomes
 - A monitored-setting protocol (staff, equipment, hypotension and respiratory depression management) and screening for cardiovascular risk, epilepsy, and respiratory compromise
 - An interaction-management plan for concomitant opioids and QT-prolonging antiemetics
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Note that the data compiled for this report do not include a formal mechanism-of-action entry, so this rationale rests on the literature and mechanistic analysis" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: Diprivan (propofol) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3105799-a4b6-f3f4-e6e2-b2b29bbdb538) |
+
+<!-- review:end log -->
+
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

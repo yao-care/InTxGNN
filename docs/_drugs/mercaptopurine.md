@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 527
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
 description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L3). In India: 7 listed products (7 not discontinued)"
@@ -56,7 +56,7 @@ The data compiled for this report include **15 clinical trials** and **20 public
 
 ## Why is This Prediction Reasonable?
 
-Mercaptopurine is a purine antimetabolite. Its thioguanine nucleotide metabolites are incorporated into DNA and RNA and inhibit de novo purine synthesis. This is toxic to rapidly dividing cells such as leukemic blasts. Detailed mechanism-of-action data are not otherwise available in the compiled data, so this description rests on the general pharmacology of the drug class.
+Mercaptopurine is a purine antimetabolite. Its thioguanine nucleotide metabolites are incorporated into DNA and RNA and inhibit de novo purine synthesis. This is toxic to rapidly dividing cells such as leukemic blasts. This description rests on the general pharmacology of the drug class. According to the Mechanism of Action section of the US FDA-approved prescribing information for mercaptopurine: "Mercaptopurine is a purine analog that undergoes intracellular transport and activation to form metabolites including thioguanine nucleotides (TGNs). Incorporation of TGNs into DNA or RNA results in cell-cycle arrest and cell death." ([DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15), label version 2026-07-22; accessed 2026-11-20.)
 
 Myeloid leukemia is a blood cancer that, like lymphoid leukemia, depends on rapid cell division, so an agent that disrupts purine synthesis is mechanistically plausible. Published reports support this direction. A cohort study gave oral 6-mercaptopurine with methotrexate as maintenance therapy to acute myeloid leukemia patients who could not have a transplant (PMID 26425037). A prospective pilot study tested low-dose metronomic oral 6-mercaptopurine in elderly acute myeloid leukemia (PMID 27275453).
 
@@ -129,6 +129,18 @@ Cohort and pilot data support oral mercaptopurine maintenance in acute myeloid l
 - A trial or analysis that isolates mercaptopurine's contribution in myeloid leukemia
 - Package insert warnings and contraindications for the Indian-marketed products
 - A safety monitoring plan covering blood counts and TPMT/NUDT15 genotyping
+
+<!-- review:begin log -->
+
+## Review Log
+
+Below is the review log for this page. A statement that mechanism-of-action data were not available was replaced with an excerpt from the cited official prescribing information or database; model predictions, evidence levels, and conclusions were not rewritten.
+
+| Review date | Item | Action | Source |
+|------|------|------|------|
+| 2026-11-20 | "Detailed mechanism-of-action data are not otherwise available in the compiled data, so this description rests on the general pharmacology of the drug class" replaced with a sourced mechanism-of-action statement | Statement that mechanism-of-action data were not available replaced with a sourced excerpt (revised 2026-11-20; earlier version kept in the record) | [DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15) |
+
+<!-- review:end log -->
 
 ## Disclaimer
 
