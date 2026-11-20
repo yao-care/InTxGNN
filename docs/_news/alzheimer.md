@@ -3,7 +3,7 @@ layout: default
 title: "dementia (alzheimer) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about dementia (alzheimer). 8 articles, 8 related drugs."
+description: "Health news about dementia (alzheimer). 9 articles, 8 related drugs."
 permalink: /news/alzheimer/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="What news is there about dementia (alzheimer)?">
-<strong>dementia (alzheimer)</strong> currently has <strong>8 news articles</strong> and 8 related drugs.
+<strong>dementia (alzheimer)</strong> currently has <strong>9 news articles</strong> and 8 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ This page brings together the latest health news about “dementia” and lists 
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
 
 ### [Two brain regions tied to memory and emotion may shrink up to a decade before Alzheimer’s memory loss beg - The Times of India](https://news.google.com/rss/articles/CBMihANBVV95cUxNX0x5UVJfWUhuemlpZnBmVm5GN0lpZW96SGlZZFZ2NWh5LTRTRWE5Ym9YbVk0ZHhJVHNDQlRxUEVjZHpwTFRtTzZZMFhJMEtzc2RzX2hsSXVSVmxzYk5ZRzFwcE8xZEFYVTZ0bnJxcUUxU3VoN0FSVHlWSGxibTE4ajQ2RTFhTllTYkJTRnloNVBLMHNROVVGNFVneGkzRWF5QzZZeXRGZzRtLW9sd05ac040cmlMaVdfelZFU0FRWEVxTTFWdFFySFpuNlJRYmpUck1abmxyYVRUTS01UWh4emEtaVJrNHJOaUVnYWxTUkF5WVVZckhnd291a1ByaDlnQUlocWhfcUtFNVpJQ3Z6elRBMWdoM2pmRFJMN0lXOTRZVUoyNTRneTc4anlCX2ZHNzRzcWdvTkh2RnJ4NjBZRGRnRFRGazFOSy04ZFJ5UURvSjA4TVVKRHRnZ1BzUjJSVDZHQUxjYmRTeld4eUV0VTBOZE5TVFlKcU1hTHlzLXFDUkps0gGKA0FVX3lxTE4xLVFvam0tNExWMnQzb3JJMk1oU0s3T2paT1RQSWtlYXhNVHE4aEphLVFBaHVaWEEwZjVYZW45VGE4UUJfRFAyYUNpRFhXTnVHMWVBQTVNSmlocXgzS1d2UmlPMnVJT2FzRm1vQXowSlF1a2NaMkUzbVB4M05HVGllVWF4OGVsX1dTY0hQTW8xcVA3UzQxYUdLU0ZCSW14clQtOThxOUEyVk1adjJNNkdTNV9fNFN4WDRLRlh0X1dfY3JEQjBaSGp2V0drcXMxMEcyaVFva2tvMWo2a21yYTU3MENDZmE2bjZKMi1menZlWExhTmoyT1dDd0V1eENpWnVka2FuVS1RM1JBN3MycXNWUTE2RDFXaE1aSTk4dV91c08tcEVleWY5LUtjTjFFSm5NbWQzUmZOdFVxcHNwMXF0Z1luWFcyN1dkZ1JlaEF3SndNYVRDUllielVGNmNodnFtZDhra1JPUmU5R1ctN29iZDQ0bHhFX1RVdDBIUWNnTU0zOV9zYUl4NVE?oc=5)
 
@@ -84,6 +84,14 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBQOER
 2026-11-14
 
 Source: [ET HealthWorld](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQk4xSUU2M3ZKV1Q3WUl4RTlJbXZ5V0NzOHU1ZFBkdlpLZHQtRVl5TlVyazhVSC1oSGdyM1RUTWdjbHVNdWxSU0oySXg1QlF0cGN6elVSaVNaeWVibHB5OTlIcmlFZnFVZE8zRzRuRHdGTGFIaW1UTlJ2c2lWSXZhbGVHTGZQaW5RRE9aX2dkdldpTVp3SENHaXk3akpIM0xidy1uSmRCMy0zOTZrUHlDcG1HM1dKLXJXLXlKNVRfbVdMOGswSE11TmVadXU1b2EwWmdpUlRodFdPdU3SAeABQVVfeXFMUDZVLVlLN2VQNEVoR3ZWMDRjdGcwTWpvR1NnMDU0VndTTzVwa0tENW5CdjE5b2s2OTJsZG9KY1UwcUNoQjZHMzRVTE1DN2NhR01iZWxTVm83V2dod2R3YkJOZXVmaG1NSG1VODhzUVhzWVVlYnF2eG1TdHdIcXQ1MTdZa1ZvOE1Md0dkb1dMZ0tQVWtNSjQ0cGJZRWpoSVh0SWtMeTZIQVl0aVMzcHBJSHlLblNNaGhpZ3M2cklXaGZOSVBYVWdXcEp6dlFVb0EwSmw0UzYycjdqcVZiOGg4emk?oc=5)
+
+---
+
+### [Scientists develop smarter version of existing Parkinson’s gene therapy - DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
+
+2026-11-13
+
+Source: [DD News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWJwOUtYY19WUHp1YzhYUFJQbXJyTkN3YVBLRmkwdTMxVkRqR1VUYnJxUnlCdDZNbWI3bnh3QnFHa0NfVjN5cDFIZkRfeHM4U3NlU2J1OWhldEd0V2t3ZzVCWWFsZW81bW9CLThxRUdERHk3LXZrZ2Z4YzBlUERhTks5TDEtUzJuWjZpODl2bVpqVGZIU19rWnRmWEQ?oc=5)
 
 ---
 
